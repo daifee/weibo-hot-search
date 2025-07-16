@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752643971341,
+  "endTime": 1752645011509,
   "band_list": [
     {
       "raw_hot": 1759372,
@@ -9,6 +9,14 @@
       "onboard_time": 1752638121,
       "rank": 1,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1638833,
+      "num": 1638833,
+      "word": "16岁女子飞机上分娩疑携带传染病",
+      "onboard_time": 1752642023,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1614537,
@@ -35,7 +43,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1177229,
+      "raw_hot": 1218518,
       "num": 1170475,
       "word": "金价",
       "onboard_time": 1752637882,
@@ -65,14 +73,6 @@
       "onboard_time": 1752593423,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1109742,
-      "num": 1177558,
-      "word": "16岁女子飞机上分娩疑携带传染病",
-      "onboard_time": 1752642023,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1074936,
@@ -179,6 +179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541219,
+      "num": 541219,
+      "word": "空调 酸臭味",
+      "onboard_time": 1752639681,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 506385,
+      "num": 506385,
+      "word": "多方回应16岁女子疑飞机上带病分娩",
+      "onboard_time": 1752642741,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486160,
       "num": 486160,
       "word": "杨幂去健身房路透",
@@ -195,20 +211,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441358,
-      "num": 441358,
-      "word": "空调 酸臭味",
-      "onboard_time": 1752639681,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 425132,
       "num": 233923,
       "word": "陆毅鲍蕾太会养女儿了",
       "onboard_time": 1752591143,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422319,
+      "num": 422319,
+      "word": "胡歌肖战或将合作",
+      "onboard_time": 1752637521,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 415343,
+      "num": 415343,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1752643281,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 395114,
@@ -251,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 373413,
-      "num": 373413,
-      "word": "胡歌肖战或将合作",
-      "onboard_time": 1752637521,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 373721,
+      "num": 243219,
+      "word": "黄子韬因为抢厕所要和徐艺洋分手",
+      "onboard_time": 1752644601,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 371048,
@@ -281,6 +305,14 @@
       "onboard_time": 1752638362,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345748,
+      "num": 345748,
+      "word": "最佳上床时间",
+      "onboard_time": 1752643641,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 343746,
@@ -321,6 +353,14 @@
       "onboard_time": 1752566721,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300882,
+      "num": 300882,
+      "word": "宋佳咏梅 甄嬛沈眉庄行礼",
+      "onboard_time": 1752641543,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 300379,
@@ -411,20 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250688,
-      "num": 298065,
-      "word": "多方回应16岁女子疑飞机上带病分娩",
-      "onboard_time": 1752642741,
-      "rank": 15,
+      "raw_hot": 244849,
+      "num": 243215,
+      "word": "36岁男子因病去世23岁妻子说不会改嫁",
+      "onboard_time": 1752643761,
+      "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243638,
-      "num": 243638,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1752643281,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 242147,
@@ -451,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229886,
-      "num": 229886,
-      "word": "宋佳咏梅 甄嬛沈眉庄行礼",
-      "onboard_time": 1752641543,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 225199,
+      "num": 243244,
+      "word": "美高梅中国称向佐欠款已还清",
+      "onboard_time": 1752644601,
+      "rank": 20,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 218590,
@@ -491,6 +523,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 213333,
+      "num": 213333,
+      "word": "赵今麦新剧的马尾气得不像演的",
+      "onboard_time": 1752642800,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211694,
       "num": 211694,
       "word": "女子强装富二代打赏男演员五十余万",
@@ -523,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205116,
+      "num": 230392,
+      "word": "骗子30元1条出售2.4万条女房东信息",
+      "onboard_time": 1752643281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204908,
       "num": 204908,
       "word": "全明星助阵爱奇艺717",
@@ -539,11 +587,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201529,
-      "num": 201529,
-      "word": "赵今麦新剧的马尾气得不像演的",
-      "onboard_time": 1752642800,
-      "rank": 23,
+      "raw_hot": 201317,
+      "num": 200251,
+      "word": "赵露思胳膊怎么了",
+      "onboard_time": 1752644601,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201255,
+      "num": 201255,
+      "word": "原来国产剧可以拍性本恶",
+      "onboard_time": 1752644121,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -588,7 +644,7 @@
     },
     {
       "raw_hot": 192603,
-      "num": 199322,
+      "num": 301514,
       "word": "漠河舞厅老板羡慕隔壁奶茶店爆单",
       "onboard_time": 1752640222,
       "rank": 32,
@@ -611,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189565,
+      "num": 189565,
+      "word": "杨瀚森再次填满数据栏",
+      "onboard_time": 1752644781,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189043,
       "num": 189043,
       "word": "奇迹暖暖",
@@ -625,6 +689,14 @@
       "onboard_time": 1752627683,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188057,
+      "num": 188057,
+      "word": "NBA",
+      "onboard_time": 1752644301,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 187698,
@@ -691,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169066,
+      "num": 169066,
+      "word": "盼盼回应改英文名上架山姆",
+      "onboard_time": 1752644181,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168656,
       "num": 187198,
       "word": "赵露思直播",
@@ -747,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162023,
+      "num": 162023,
+      "word": "张若昀胡先煦重返20岁变装",
+      "onboard_time": 1752644661,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156958,
       "num": 156958,
       "word": "张雪峰公司放暑假19天",
@@ -787,6 +875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145967,
+      "num": 145967,
+      "word": "男子挤地铁被判强制猥亵喊冤",
+      "onboard_time": 1752643822,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143672,
       "num": 371058,
       "word": "国台办回应废止一台湾企业登记注册",
@@ -817,6 +913,14 @@
       "onboard_time": 1752584422,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140548,
+      "num": 140548,
+      "word": "钟薛高创始人曾卖红薯还债",
+      "onboard_time": 1752644721,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140387,
@@ -889,6 +993,14 @@
       "onboard_time": 1752643462,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130857,
+      "num": 130857,
+      "word": "山姆丢了差异化也就丢了会员",
+      "onboard_time": 1752644001,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126970,
@@ -1003,6 +1115,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 117784,
+      "num": 117784,
+      "word": "汪苏泷西安",
+      "onboard_time": 1752644481,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117064,
       "num": 117064,
       "word": "下周就要生发现月子中心没了",
@@ -1025,14 +1145,6 @@
       "onboard_time": 1752582682,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 113687,
-      "num": 113687,
-      "word": "36岁男子因病去世23岁妻子说不会改嫁",
-      "onboard_time": 1752643761,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113589,
@@ -1059,6 +1171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109264,
+      "num": 109264,
+      "word": "张钧甯的背骨还是太权威了",
+      "onboard_time": 1752644241,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109118,
       "num": 109118,
       "word": "黄仁勋回应大热天穿皮夹克",
@@ -1081,6 +1201,14 @@
       "onboard_time": 1752623720,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107172,
+      "num": 107172,
+      "word": "杨超越双杀",
+      "onboard_time": 1752644961,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107028,
@@ -1139,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101213,
-      "num": 102084,
-      "word": "男子挤地铁被判强制猥亵喊冤",
-      "onboard_time": 1752643822,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101069,
       "num": 101934,
       "word": "居然有音综的主题曲摇来了TF三代",
@@ -1193,14 +1313,6 @@
       "onboard_time": 1752590064,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96842,
-      "num": 230392,
-      "word": "骗子30元1条出售2.4万条女房东信息",
-      "onboard_time": 1752643281,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95548,
@@ -1568,6 +1680,14 @@
       "word": "女子称丈夫搭救朋友被砍伤致死",
       "onboard_time": 1752600197,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20104,
+      "num": 200471,
+      "word": "别墅阁楼没顶成露天蓄水池",
+      "onboard_time": 1752644540,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
