@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752697854773,
+  "endTime": 1752698714530,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -13411,6 +13411,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 21433,
+      "num": 21433,
+      "word": "醒醒现在是2006年",
+      "onboard_time": 1752696374,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21273,
       "num": 238186,
       "word": "警方回应记者采访时摄像机被砸",
@@ -13571,6 +13579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16320,
+      "num": 16320,
+      "word": "一日企员工因间谍罪被判刑",
+      "onboard_time": 1752695054,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16021,
       "num": 25633,
       "word": "朝雪录首播成绩",
@@ -13595,24 +13611,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15413,
-      "num": 15413,
-      "word": "一日企员工因间谍罪被判刑",
-      "onboard_time": 1752695054,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 15343,
-      "num": 15343,
-      "word": "醒醒现在是2006年",
-      "onboard_time": 1752696374,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 15013,
-      "num": 15013,
+      "raw_hot": 15747,
+      "num": 15747,
       "word": "汉语言和历史的就业方向找到了",
       "onboard_time": 1752694274,
       "rank": 35,
@@ -13641,6 +13641,14 @@
       "onboard_time": 1752403280,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13577,
+      "num": 15740,
+      "word": "于适说新疆话",
+      "onboard_time": 1752688156,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 13351,
@@ -13675,20 +13683,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 12389,
+      "num": 35398,
+      "word": "外交部回应一日企员工因间谍罪获刑",
+      "onboard_time": 1752693855,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12144,
       "num": 45822,
       "word": "山东舰与彩虹同框",
       "onboard_time": 1752518656,
       "rank": 9,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 12084,
-      "num": 35398,
-      "word": "外交部回应一日企员工因间谍罪获刑",
-      "onboard_time": 1752693855,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11445,
@@ -13707,7 +13715,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 9131,
+      "raw_hot": 9149,
       "num": 86286,
       "word": "辉煌60载魅力新西藏",
       "onboard_time": 1752677244,
