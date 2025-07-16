@@ -1,0 +1,410 @@
+{
+  "runTime": 1752661871550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776707,
+        "num": 1124273,
+        "word": "生父回应让男孩坐后备箱称不会道歉",
+        "onboard_time": 1752656242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674699,
+        "num": 674699,
+        "word": "男子在泰遭撕票抛尸遇害前身影曝光",
+        "onboard_time": 1752658161,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23561,
+        "num": 585459,
+        "word": "高质量发展甘肃行",
+        "onboard_time": 1752640582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585164,
+        "num": 585164,
+        "word": "山姆母公司回应选品问题",
+        "onboard_time": 1752656841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543857,
+        "num": 543857,
+        "word": "黄子韬因为抢厕所要和徐艺洋分手",
+        "onboard_time": 1752644601,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490879,
+        "num": 490879,
+        "word": "于正签的上一个未成年素人是宋威龙",
+        "onboard_time": 1752651441,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438422,
+        "num": 438422,
+        "word": "一句恶心爽了我两个多小时",
+        "onboard_time": 1752645561,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415757,
+        "num": 415757,
+        "word": "不要怀疑任何一张能进娱乐圈的脸",
+        "onboard_time": 1752646042,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213904,
+        "num": 325014,
+        "word": "央视曝App小程序成隐私刺客",
+        "onboard_time": 1752656361,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155816,
+        "num": 278984,
+        "word": "王曼昱和陈熠比高高",
+        "onboard_time": 1752659962,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 949825,
+        "num": 278556,
+        "word": "黄磊孙莉8岁小儿子罕见露面",
+        "onboard_time": 1752654142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260895,
+        "num": 260895,
+        "word": "钟薛高 红薯刺客",
+        "onboard_time": 1752651502,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743769,
+        "num": 259046,
+        "word": "鸡蛋羹 拌饭",
+        "onboard_time": 1752651682,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384248,
+        "num": 258971,
+        "word": "祝绪丹本人来了都得愣两秒",
+        "onboard_time": 1752659722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255735,
+        "num": 255735,
+        "word": "男子躲逆行外卖员摔成高位截瘫",
+        "onboard_time": 1752660081,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251905,
+        "num": 251905,
+        "word": "西安 玻璃热爆",
+        "onboard_time": 1752659542,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251006,
+        "num": 251006,
+        "word": "边牧手术失败被医院开车撞死",
+        "onboard_time": 1752661401,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211005,
+        "num": 211005,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1752643281,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198371,
+        "num": 198371,
+        "word": "花少这个路透",
+        "onboard_time": 1752654201,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194838,
+        "num": 194838,
+        "word": "王星眼神终于不再是惊恐状态了",
+        "onboard_time": 1752658761,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309268,
+        "num": 193578,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189789,
+        "num": 189789,
+        "word": "七七妈妈出镜多被质疑比女儿更想火",
+        "onboard_time": 1752659182,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189482,
+        "num": 189482,
+        "word": "中国女足0比0日本女足",
+        "onboard_time": 1752658222,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184426,
+        "num": 184426,
+        "word": "田曦薇去韩国了",
+        "onboard_time": 1752651200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183280,
+        "num": 183280,
+        "word": "王嘉尔请打开麦克风交流",
+        "onboard_time": 1752660801,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163421,
+        "num": 163421,
+        "word": "韩昊霖长得好像张若昀啊",
+        "onboard_time": 1752659841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162319,
+        "num": 162319,
+        "word": "长期开空调易导致空调病",
+        "onboard_time": 1752659182,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161356,
+        "num": 161356,
+        "word": "迪丽热巴将录制Hi6",
+        "onboard_time": 1752657861,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154842,
+        "num": 154842,
+        "word": "关晓彤烤完的鱼皮焦焦的",
+        "onboard_time": 1752655401,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21251,
+        "num": 154008,
+        "word": "叙利亚首都传巨大爆炸声",
+        "onboard_time": 1752661581,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 153941,
+        "word": "支付宝闪退",
+        "onboard_time": 1752658042,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153799,
+        "num": 153799,
+        "word": "山西一职工档案14处涂改提前退休",
+        "onboard_time": 1752654743,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149882,
+        "num": 149882,
+        "word": "巨瘦肚子的7天有效法",
+        "onboard_time": 1752651981,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149417,
+        "num": 149417,
+        "word": "公司烂不烂请个假就知道了",
+        "onboard_time": 1752635300,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149272,
+        "num": 149272,
+        "word": "警方通报3名高中生赴西双版纳后失联",
+        "onboard_time": 1752660680,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 145457,
+        "num": 145457,
+        "word": "刘浩存跳舞",
+        "onboard_time": 1752650420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143368,
+        "num": 143368,
+        "word": "朝雪录",
+        "onboard_time": 1752657981,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137238,
+        "num": 137238,
+        "word": "被正式确诊为夜食综合症",
+        "onboard_time": 1752661160,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133406,
+        "num": 133406,
+        "word": "这居然是3unshine组合队长",
+        "onboard_time": 1752648441,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20698,
+        "num": 131603,
+        "word": "相信你的身后永远有坚实的依靠",
+        "onboard_time": 1752660981,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131517,
+        "num": 131517,
+        "word": "小时候常吃的水果消失了",
+        "onboard_time": 1752661462,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131003,
+        "num": 131003,
+        "word": "正宗中国早餐在日本火了",
+        "onboard_time": 1752658881,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130864,
+        "num": 130864,
+        "word": "颖儿迎来了自己的中女时代",
+        "onboard_time": 1752657800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115661,
+        "num": 115661,
+        "word": "日本向小学分发敌视他国读物",
+        "onboard_time": 1752658401,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110845,
+        "num": 110845,
+        "word": "为什么晚上吃东西就格外香",
+        "onboard_time": 1752658520,
+        "rank": 44,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 110460,
+        "num": 110460,
+        "word": "韦雪前夫前任合体比心",
+        "onboard_time": 1752645622,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109541,
+        "num": 109541,
+        "word": "差点要亲上邓恩熙了",
+        "onboard_time": 1752661701,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107532,
+        "num": 107532,
+        "word": "你永远猜不到同事能闯多大祸",
+        "onboard_time": 1752659841,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104659,
+        "num": 104659,
+        "word": "这个真能把富察贵人撞流产",
+        "onboard_time": 1752661462,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86678,
+        "num": 103358,
+        "word": "马斯克推出二次元AI女友",
+        "onboard_time": 1752661101,
+        "rank": 49,
+        "category": "互联网,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为了人民#"
+    }
+  }
+}
