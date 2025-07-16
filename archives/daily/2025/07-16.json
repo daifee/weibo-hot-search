@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752641358245,
+  "endTime": 1752641890897,
   "band_list": [
     {
       "raw_hot": 1759372,
@@ -35,20 +35,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1170475,
+      "num": 1170475,
+      "word": "金价",
+      "onboard_time": 1752637882,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1169013,
       "num": 1169013,
       "word": "日本地震",
       "onboard_time": 1752591924,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1153061,
-      "num": 1153061,
-      "word": "金价",
-      "onboard_time": 1752637882,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 1144068,
@@ -211,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 383559,
+      "num": 383559,
+      "word": "易烊千玺是全票通过",
+      "onboard_time": 1752640463,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 377819,
       "num": 395171,
       "word": "男子寄107万元油卡遭快递员变卖",
@@ -283,6 +291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 313033,
+      "num": 332084,
+      "word": "董璇再婚后首现身",
+      "onboard_time": 1752640582,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301059,
       "num": 173837,
       "word": "董璇再婚",
@@ -315,28 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288450,
-      "num": 332084,
-      "word": "董璇再婚后首现身",
-      "onboard_time": 1752640582,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286607,
       "num": 286607,
       "word": "李晟逐渐接受妈妈称号",
       "onboard_time": 1752630980,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282981,
-      "num": 330156,
-      "word": "易烊千玺是全票通过",
-      "onboard_time": 1752640463,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 277146,
@@ -531,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192603,
+      "num": 199322,
+      "word": "漠河舞厅老板羡慕隔壁奶茶店爆单",
+      "onboard_time": 1752640222,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192046,
       "num": 192046,
       "word": "猫 一定要穿成这样吗",
       "onboard_time": 1752638302,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190728,
+      "num": 183394,
+      "word": "HAMIN好帅",
+      "onboard_time": 1752641363,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 189043,
@@ -579,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181279,
-      "num": 199322,
-      "word": "漠河舞厅老板羡慕隔壁奶茶店爆单",
-      "onboard_time": 1752640222,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177659,
       "num": 177659,
       "word": "人民日报评餐馆发视频拟被罚45万事件",
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 170934,
-      "num": 208656,
+      "num": 294368,
       "word": "揭秘古代拐卖少女产业链",
       "onboard_time": 1752640402,
       "rank": 28,
@@ -787,6 +795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129535,
+      "num": 188345,
+      "word": "宋佳咏梅 甄嬛沈眉庄行礼",
+      "onboard_time": 1752641543,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 126970,
+      "num": 126970,
+      "word": "门店wifi密码自存",
+      "onboard_time": 1752641363,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123558,
       "num": 123558,
       "word": "特朗普称8月1日开始征新关税",
@@ -835,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118954,
+      "num": 118954,
+      "word": "张雪峰公司放暑假19天",
+      "onboard_time": 1752641482,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118745,
       "num": 118745,
       "word": "年轻人过度抗衰医美皮肤下垂更快",
@@ -873,6 +905,14 @@
       "onboard_time": 1752589703,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114996,
+      "num": 114996,
+      "word": "黄色的巧乐兹我永远的妻子",
+      "onboard_time": 1752641721,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 114005,
@@ -1147,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71301,
+      "num": 195445,
+      "word": "A股股民已超2.4亿",
+      "onboard_time": 1752637641,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70001,
       "num": 70001,
       "word": "内娱第一对这么强婚后感的cp",
@@ -1200,6 +1248,14 @@
       "word": "男子被未拴绳狗咬伤主人拒赔医药费",
       "onboard_time": 1752597678,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65047,
+      "num": 208370,
+      "word": "107万元油卡遭快递员变卖男子发声",
+      "onboard_time": 1752641242,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1259,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48660,
-      "num": 208370,
-      "word": "107万元油卡遭快递员变卖男子发声",
-      "onboard_time": 1752641242,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42764,
       "num": 47164,
       "word": "梓渝内娱唯一线面塑",
@@ -1275,18 +1323,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41434,
-      "num": 968890,
-      "word": "净网2025代抢录入小心票圈陷阱",
-      "onboard_time": 1752631641,
+      "raw_hot": 41585,
+      "num": 1089966,
+      "word": "高质量发展甘肃行",
+      "onboard_time": 1752640582,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36562,
-      "num": 1089966,
-      "word": "高质量发展甘肃行",
-      "onboard_time": 1752640582,
+      "raw_hot": 41434,
+      "num": 968890,
+      "word": "净网2025代抢录入小心票圈陷阱",
+      "onboard_time": 1752631641,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -1347,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26509,
+      "num": 208458,
+      "word": "男子带病妻跑车称在一起日子就有盼头",
+      "onboard_time": 1752640882,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22479,
       "num": 169683,
       "word": "骗子恐吓老人是全国二号重犯",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1752602956,
       "rank": 29,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 14832,
-      "num": 208458,
-      "word": "男子带病妻跑车称在一起日子就有盼头",
-      "onboard_time": 1752640882,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 12422,

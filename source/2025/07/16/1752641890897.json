@@ -1,0 +1,410 @@
+{
+  "runTime": 1752641890897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1347838,
+        "num": 1347838,
+        "word": "京东取消外卖超时20分钟免单",
+        "onboard_time": 1752638121,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1170475,
+        "num": 1170475,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41585,
+        "num": 966227,
+        "word": "高质量发展甘肃行",
+        "onboard_time": 1752640582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905536,
+        "num": 905536,
+        "word": "胡歌肖战将合作",
+        "onboard_time": 1752637521,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563309,
+        "num": 563309,
+        "word": "一男子骑车未戴头盔遇交警查处时死亡",
+        "onboard_time": 1752633141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553125,
+        "num": 553125,
+        "word": "预制菜全面攻占了农村宴席",
+        "onboard_time": 1752635541,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551306,
+        "num": 551306,
+        "word": "36岁男子因糖尿病引发心衰去世",
+        "onboard_time": 1752638121,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417045,
+        "num": 417045,
+        "word": "张凯丽女儿回应皇族传闻",
+        "onboard_time": 1752636501,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383559,
+        "num": 383559,
+        "word": "易烊千玺是全票通过",
+        "onboard_time": 1752640463,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240757,
+        "num": 377881,
+        "word": "未来一周热热热热热热热",
+        "onboard_time": 1752632540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821734,
+        "num": 377631,
+        "word": "公司烂不烂请个假就知道了",
+        "onboard_time": 1752635300,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 815296,
+        "num": 377105,
+        "word": "清华毕业生收到的四个offer",
+        "onboard_time": 1752638722,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376318,
+        "num": 376318,
+        "word": "男子买排骨嫌贵藏货架隔天变臭肉",
+        "onboard_time": 1752634819,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530687,
+        "num": 376303,
+        "word": "赵露思的狗冲着主持人一直叫",
+        "onboard_time": 1752630920,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455452,
+        "num": 373045,
+        "word": "泰国女子与高僧发生关系后拍5600段视频",
+        "onboard_time": 1752578842,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359198,
+        "num": 359198,
+        "word": "男子寄107万元油卡遭快递员变卖",
+        "onboard_time": 1752638542,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356142,
+        "num": 356142,
+        "word": "刘宇宁出舱门撞到头",
+        "onboard_time": 1752638362,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313033,
+        "num": 313033,
+        "word": "董璇再婚后首现身",
+        "onboard_time": 1752640582,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146648,
+        "num": 294368,
+        "word": "揭秘古代拐卖少女产业链",
+        "onboard_time": 1752640402,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293210,
+        "num": 293210,
+        "word": "空调 酸臭味",
+        "onboard_time": 1752639681,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 256906,
+        "num": 256906,
+        "word": "杨幂去健身房路透",
+        "onboard_time": 1752636501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224658,
+        "num": 224658,
+        "word": "王影璐竟然开始演妈妈角色了",
+        "onboard_time": 1752637102,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200021,
+        "num": 200021,
+        "word": "女子强装富二代打赏男演员五十余万",
+        "onboard_time": 1752636321,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199405,
+        "num": 199405,
+        "word": "杨瀚森开局三分",
+        "onboard_time": 1752637462,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71301,
+        "num": 195445,
+        "word": "A股股民已超2.4亿",
+        "onboard_time": 1752637641,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159762,
+        "num": 193532,
+        "word": "决不允许一边赚大陆钱一边支持台独",
+        "onboard_time": 1752635360,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65047,
+        "num": 193022,
+        "word": "107万元油卡遭快递员变卖男子发声",
+        "onboard_time": 1752641242,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192603,
+        "num": 192603,
+        "word": "漠河舞厅老板羡慕隔壁奶茶店爆单",
+        "onboard_time": 1752640222,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129535,
+        "num": 188345,
+        "word": "宋佳咏梅 甄嬛沈眉庄行礼",
+        "onboard_time": 1752641543,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26509,
+        "num": 187423,
+        "word": "男子带病妻跑车称在一起日子就有盼头",
+        "onboard_time": 1752640882,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 187248,
+        "num": 187248,
+        "word": "犟种父母已经开始听劝了",
+        "onboard_time": 1752639503,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190728,
+        "num": 183394,
+        "word": "HAMIN好帅",
+        "onboard_time": 1752641363,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167759,
+        "num": 167759,
+        "word": "成毅狐妖小红娘王权篇ID",
+        "onboard_time": 1752636801,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163570,
+        "num": 163570,
+        "word": "小芳出嫁官宣",
+        "onboard_time": 1752634760,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156228,
+        "num": 156228,
+        "word": "雪糕刺客真的凉凉了",
+        "onboard_time": 1752597379,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147968,
+        "num": 147968,
+        "word": "开空调最好别低于这个温度",
+        "onboard_time": 1752628160,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145956,
+        "num": 145956,
+        "word": "你不说西周我还以为是上周的",
+        "onboard_time": 1752639623,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136325,
+        "num": 136325,
+        "word": "网剧万古最强宗",
+        "onboard_time": 1752635960,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128991,
+        "num": 128991,
+        "word": "电影长安的荔枝终极预告",
+        "onboard_time": 1752639263,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126970,
+        "num": 126970,
+        "word": "门店wifi密码自存",
+        "onboard_time": 1752641363,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123025,
+        "num": 123025,
+        "word": "战至巅峰4定档官宣",
+        "onboard_time": 1752637342,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121297,
+        "num": 121297,
+        "word": "广州天河区城中村",
+        "onboard_time": 1752634160,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120630,
+        "num": 120630,
+        "word": "30多位冠军亮出私藏健身神器",
+        "onboard_time": 1752641123,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119226,
+        "num": 119226,
+        "word": "专供山姆的好丽友减糖但加代糖",
+        "onboard_time": 1752634941,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119151,
+        "num": 119151,
+        "word": "孙红雷李乃文欧阳娣娣跳大展鸿图",
+        "onboard_time": 1752638962,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118954,
+        "num": 118954,
+        "word": "张雪峰公司放暑假19天",
+        "onboard_time": 1752641482,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118495,
+        "num": 118495,
+        "word": "窦月减肥法",
+        "onboard_time": 1752640763,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114996,
+        "num": 114996,
+        "word": "黄色的巧乐兹我永远的妻子",
+        "onboard_time": 1752641721,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110503,
+        "num": 110503,
+        "word": "溺爱的妈养出疯癫的儿",
+        "onboard_time": 1752639681,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110180,
+        "num": 110180,
+        "word": "年轻人过度抗衰医美皮肤下垂更快",
+        "onboard_time": 1752641063,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为了人民#"
+    }
+  }
+}
