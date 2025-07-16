@@ -1,0 +1,410 @@
+{
+  "runTime": 1752658427960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1163878,
+        "num": 1186220,
+        "word": "黄磊孙莉8岁小儿子罕见露面",
+        "onboard_time": 1752654142,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577112,
+        "num": 577112,
+        "word": "钟薛高 红薯刺客",
+        "onboard_time": 1752651502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21980,
+        "num": 551783,
+        "word": "高质量发展甘肃行",
+        "onboard_time": 1752640582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722468,
+        "num": 549822,
+        "word": "于正签的上一个未成年素人是宋威龙",
+        "onboard_time": 1752651441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541288,
+        "num": 541288,
+        "word": "生父回应让男孩坐后备箱称不会道歉",
+        "onboard_time": 1752656242,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375383,
+        "num": 375383,
+        "word": "山西一职工档案14处涂改提前退休",
+        "onboard_time": 1752654743,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 531861,
+        "num": 339809,
+        "word": "黄子韬因为抢厕所要和徐艺洋分手",
+        "onboard_time": 1752644601,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458534,
+        "num": 305107,
+        "word": "不要怀疑任何一张能进娱乐圈的脸",
+        "onboard_time": 1752646042,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185278,
+        "num": 185278,
+        "word": "山姆母公司回应选品问题",
+        "onboard_time": 1752656841,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181924,
+        "num": 181924,
+        "word": "央视曝App小程序成隐私刺客",
+        "onboard_time": 1752656361,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1118473,
+        "num": 181834,
+        "word": "警方回应16岁女孩飞机上分娩",
+        "onboard_time": 1752652882,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 773263,
+        "num": 181116,
+        "word": "鸡蛋羹 拌饭",
+        "onboard_time": 1752651682,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323523,
+        "num": 180372,
+        "word": "花少这个路透",
+        "onboard_time": 1752654201,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265931,
+        "num": 180008,
+        "word": "刘浩存跳舞",
+        "onboard_time": 1752650420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264254,
+        "num": 179762,
+        "word": "一句恶心爽了我两个多小时",
+        "onboard_time": 1752645561,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243135,
+        "num": 178743,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1752643281,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214612,
+        "num": 178499,
+        "word": "公司烂不烂请个假就知道了",
+        "onboard_time": 1752635300,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178160,
+        "num": 178160,
+        "word": "中国女足0比0日本女足",
+        "onboard_time": 1752658222,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165342,
+        "num": 178132,
+        "word": "患癌妈妈带女儿卖瓜遇全城抢购",
+        "onboard_time": 1752656481,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18267,
+        "num": 178104,
+        "word": "村民称贷款建校后被迫放弃利息",
+        "onboard_time": 1752657742,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418247,
+        "num": 178051,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231911,
+        "num": 177999,
+        "word": "巨瘦肚子的7天有效法",
+        "onboard_time": 1752651981,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220171,
+        "num": 177991,
+        "word": "这居然是3unshine组合队长",
+        "onboard_time": 1752648441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165603,
+        "num": 177924,
+        "word": "未来一周热热热热热热热",
+        "onboard_time": 1752632540,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208055,
+        "num": 177889,
+        "word": "林俊杰晒与父亲合照感谢粉丝",
+        "onboard_time": 1752657623,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177874,
+        "num": 177874,
+        "word": "钟薛高创始人曾卖红薯还债",
+        "onboard_time": 1752644721,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120598,
+        "num": 177788,
+        "word": "网络身份证正式启用啦",
+        "onboard_time": 1752653782,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102771,
+        "num": 175528,
+        "word": "福州公积金可提取用于治疗特殊病",
+        "onboard_time": 1752656481,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207369,
+        "num": 174413,
+        "word": "田曦薇去韩国了",
+        "onboard_time": 1752651200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206109,
+        "num": 173964,
+        "word": "迪丽热巴将录制Hi6",
+        "onboard_time": 1752657861,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185276,
+        "num": 172244,
+        "word": "关晓彤烤完的鱼皮焦焦的",
+        "onboard_time": 1752655401,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171766,
+        "num": 171766,
+        "word": "颖儿迎来了自己的中女时代",
+        "onboard_time": 1752657800,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165215,
+        "num": 165215,
+        "word": "朝雪录",
+        "onboard_time": 1752657981,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161846,
+        "num": 161846,
+        "word": "孕妇机上分娩航司人员称已消毒",
+        "onboard_time": 1752654743,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158394,
+        "num": 161098,
+        "word": "男子疑似溺亡法医凭经验把人救活",
+        "onboard_time": 1752651920,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 27975,
+        "num": 160879,
+        "word": "男子被查处时死亡不存在交警打人",
+        "onboard_time": 1752658341,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160783,
+        "num": 160783,
+        "word": "男子在泰遭撕票抛尸遇害前身影曝光",
+        "onboard_time": 1752658161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154941,
+        "num": 154941,
+        "word": "支付宝闪退",
+        "onboard_time": 1752658042,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147411,
+        "num": 147411,
+        "word": "韦雪前夫前任合体比心",
+        "onboard_time": 1752645622,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141906,
+        "num": 141906,
+        "word": "山姆丢了差异化也就丢了会员",
+        "onboard_time": 1752644001,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136361,
+        "num": 136361,
+        "word": "超范围收集使用个人信息要整改",
+        "onboard_time": 1752655522,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129593,
+        "num": 129593,
+        "word": "以法之名7恶7善",
+        "onboard_time": 1752657381,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124443,
+        "num": 124443,
+        "word": "赵露思胳膊怎么了",
+        "onboard_time": 1752644601,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122280,
+        "num": 122280,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1752652281,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116017,
+        "num": 116017,
+        "word": "36岁男子因病去世23岁妻子说不会改嫁",
+        "onboard_time": 1752643761,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111368,
+        "num": 111368,
+        "word": "清华毕业生收到的四个offer",
+        "onboard_time": 1752638722,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109191,
+        "num": 109191,
+        "word": "日本向小学分发敌视他国读物",
+        "onboard_time": 1752658401,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106955,
+        "num": 106955,
+        "word": "易烊千玺是全票通过",
+        "onboard_time": 1752640463,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103660,
+        "num": 103660,
+        "word": "已经快不认识周和邹了",
+        "onboard_time": 1752657142,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102739,
+        "num": 103623,
+        "word": "法医回应救活被认为溺亡男子",
+        "onboard_time": 1752656601,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为了人民#"
+    }
+  }
+}

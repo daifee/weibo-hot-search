@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752655911098,
+  "endTime": 1752658427960,
   "band_list": [
     {
       "raw_hot": 1759372,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118473,
+      "num": 529490,
+      "word": "警方回应16岁女孩飞机上分娩",
+      "onboard_time": 1752652882,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1074936,
       "num": 1171989,
       "word": "一男子骑车未戴头盔遇交警查处时死亡",
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 785606,
-      "num": 529490,
-      "word": "警方回应16岁女孩飞机上分娩",
-      "onboard_time": 1752652882,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 777100,
       "num": 267344,
       "word": "鸡蛋羹 拌饭",
@@ -273,6 +273,14 @@
       "onboard_time": 1752634760,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 541288,
+      "num": 541288,
+      "word": "生父回应让男孩坐后备箱称不会道歉",
+      "onboard_time": 1752656242,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 541219,
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375383,
+      "num": 375383,
+      "word": "山西一职工档案14处涂改提前退休",
+      "onboard_time": 1752654743,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 373768,
       "num": 436799,
       "word": "未来一周热热热热热热热",
@@ -473,6 +489,14 @@
       "onboard_time": 1752590004,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323523,
+      "num": 196684,
+      "word": "花少这个路透",
+      "onboard_time": 1752654201,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 313033,
@@ -699,14 +723,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 213982,
-      "num": 196684,
-      "word": "花少这个路透",
-      "onboard_time": 1752654201,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213333,
       "num": 213333,
       "word": "赵今麦新剧的马尾气得不像演的",
@@ -739,8 +755,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208055,
+      "num": 177889,
+      "word": "林俊杰晒与父亲合照感谢粉丝",
+      "onboard_time": 1752657623,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207814,
-      "num": 171867,
+      "num": 172244,
       "word": "关晓彤烤完的鱼皮焦焦的",
       "onboard_time": 1752655401,
       "rank": 25,
@@ -753,6 +777,14 @@
       "onboard_time": 1752642862,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206109,
+      "num": 173964,
+      "word": "迪丽热巴将录制Hi6",
+      "onboard_time": 1752657861,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 205116,
@@ -923,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185278,
+      "num": 185278,
+      "word": "山姆母公司回应选品问题",
+      "onboard_time": 1752656841,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185194,
       "num": 185194,
       "word": "一诺夏天也无法舍弃红袜子",
@@ -947,12 +987,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181924,
+      "num": 181924,
+      "word": "央视曝App小程序成隐私刺客",
+      "onboard_time": 1752656361,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 179063,
       "num": 171260,
       "word": "虞书欣灿如繁星韩剧跑步氛围感",
       "onboard_time": 1752655101,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178160,
+      "num": 178160,
+      "word": "中国女足0比0日本女足",
+      "onboard_time": 1752658222,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 177659,
@@ -985,6 +1041,14 @@
       "onboard_time": 1752630621,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 171766,
+      "num": 171766,
+      "word": "颖儿迎来了自己的中女时代",
+      "onboard_time": 1752657800,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 170934,
@@ -1043,6 +1107,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165342,
+      "num": 178132,
+      "word": "患癌妈妈带女儿卖瓜遇全城抢购",
+      "onboard_time": 1752656481,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 165215,
+      "num": 165215,
+      "word": "朝雪录",
+      "onboard_time": 1752657981,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164745,
       "num": 164745,
       "word": "京东文娱 华晨宇专辑",
@@ -1075,6 +1155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161846,
+      "num": 248739,
+      "word": "孕妇机上分娩航司人员称已消毒",
+      "onboard_time": 1752654743,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160783,
+      "num": 160783,
+      "word": "男子在泰遭撕票抛尸遇害前身影曝光",
+      "onboard_time": 1752658161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158964,
       "num": 158964,
       "word": "谢娜说王琳洁癖和李维嘉有一拼",
@@ -1089,6 +1185,14 @@
       "onboard_time": 1752641482,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154941,
+      "num": 154941,
+      "word": "支付宝闪退",
+      "onboard_time": 1752658042,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 154567,
@@ -1251,6 +1355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 136361,
+      "num": 324623,
+      "word": "超范围收集使用个人信息要整改",
+      "onboard_time": 1752655522,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135622,
       "num": 135622,
       "word": "邪修做饭 省时间",
@@ -1307,12 +1419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128010,
-      "num": 275301,
-      "word": "山西一职工档案14处涂改提前退休",
-      "onboard_time": 1752654743,
-      "rank": 18,
-      "category": "舆论监督"
+      "raw_hot": 129593,
+      "num": 129593,
+      "word": "以法之名7恶7善",
+      "onboard_time": 1752657381,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 127219,
@@ -1395,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122280,
+      "num": 122280,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1752652281,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122146,
       "num": 122146,
       "word": "国内哪里适合夏季旅居一个月",
@@ -1425,6 +1545,14 @@
       "onboard_time": 1752648921,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120598,
+      "num": 177788,
+      "word": "网络身份证正式启用啦",
+      "onboard_time": 1752653782,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120179,
@@ -1627,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109191,
+      "num": 109191,
+      "word": "日本向小学分发敌视他国读物",
+      "onboard_time": 1752658401,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109118,
       "num": 109118,
       "word": "黄仁勋回应大热天穿皮夹克",
@@ -1699,14 +1835,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 106464,
-      "num": 106464,
-      "word": "以前谈恋爱是要交换QQ密码的",
-      "onboard_time": 1752652281,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105082,
       "num": 105082,
       "word": "樱桃琥珀",
@@ -1739,12 +1867,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103660,
+      "num": 103660,
+      "word": "已经快不认识周和邹了",
+      "onboard_time": 1752657142,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103157,
       "num": 103157,
       "word": "kpop考试题",
       "onboard_time": 1752642442,
       "rank": 46,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 102771,
+      "num": 175528,
+      "word": "福州公积金可提取用于治疗特殊病",
+      "onboard_time": 1752656481,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102739,
+      "num": 103623,
+      "word": "法医回应救活被认为溺亡男子",
+      "onboard_time": 1752656601,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102634,
@@ -1913,14 +2065,6 @@
       "onboard_time": 1752631582,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87214,
-      "num": 248739,
-      "word": "孕妇机上分娩航司人员称已消毒",
-      "onboard_time": 1752654743,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86726,
@@ -2259,20 +2403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27975,
+      "num": 160879,
+      "word": "男子被查处时死亡不存在交警打人",
+      "onboard_time": 1752658341,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26509,
       "num": 208458,
       "word": "男子带病妻跑车称在一起日子就有盼头",
       "onboard_time": 1752640882,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 25270,
-      "num": 324623,
-      "word": "超范围收集使用个人信息要整改",
-      "onboard_time": 1752655522,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24350,
@@ -2313,6 +2457,14 @@
       "onboard_time": 1752602956,
       "rank": 29,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 18267,
+      "num": 178104,
+      "word": "村民称贷款建校后被迫放弃利息",
+      "onboard_time": 1752657742,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12977,
