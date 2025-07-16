@@ -1,0 +1,410 @@
+{
+  "runTime": 1752709318084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 596499,
+        "num": 943373,
+        "word": "女生因张若昀爆剧入行法医",
+        "onboard_time": 1752707118,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543209,
+        "num": 543209,
+        "word": "官方呼吁不要对16岁产妇二次伤害",
+        "onboard_time": 1752673042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18210,
+        "num": 376328,
+        "word": "辉煌60载魅力新西藏",
+        "onboard_time": 1752677244,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365094,
+        "num": 365094,
+        "word": "韩红现场叫停录制说要对观众负责",
+        "onboard_time": 1752677063,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350104,
+        "num": 350104,
+        "word": "演唱会前夕亲人离世平台拒退票",
+        "onboard_time": 1752674243,
+        "rank": 4,
+        "category": "舆论监督,演出"
+      },
+      {
+        "raw_hot": 901424,
+        "num": 349137,
+        "word": "黄杨钿甜父亲故意隐瞒违法生二孩",
+        "onboard_time": 1752672562,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 353158,
+        "num": 348023,
+        "word": "关晓彤你不瘦谁瘦",
+        "onboard_time": 1752679282,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338561,
+        "num": 338561,
+        "word": "酷似林依晨女孩被心仪大学录取",
+        "onboard_time": 1752689295,
+        "rank": 7,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 337438,
+        "num": 337438,
+        "word": "33岁最近3年没有体检",
+        "onboard_time": 1752682640,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282378,
+        "num": 282378,
+        "word": "美阿拉斯加州以南7.3级地震",
+        "onboard_time": 1752707657,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 744852,
+        "num": 279553,
+        "word": "特朗普再被拍到用遮瑕膏遮手背瘀伤",
+        "onboard_time": 1752707479,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 457081,
+        "num": 276022,
+        "word": "印度大规模猥亵事件478人被捕",
+        "onboard_time": 1752672923,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 264772,
+        "num": 264772,
+        "word": "美国近期在稀土领域大动作不断",
+        "onboard_time": 1752707118,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189277,
+        "num": 189277,
+        "word": "JYP和女儿合照",
+        "onboard_time": 1752708199,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185860,
+        "num": 185860,
+        "word": "男子回应抓知了猴一晚收入可过万",
+        "onboard_time": 1752685278,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168034,
+        "num": 168034,
+        "word": "衡阳一干部高中学历获事业编需要解释",
+        "onboard_time": 1752673462,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 167573,
+        "num": 167573,
+        "word": "钟美美说爸爸不喜欢我总打我",
+        "onboard_time": 1752670883,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150501,
+        "num": 150501,
+        "word": "朱孝天回应阿信说服F4合体原因",
+        "onboard_time": 1752707479,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143055,
+        "num": 143055,
+        "word": "外卖大战男子每天喝5杯奶茶进医院",
+        "onboard_time": 1752675683,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 139549,
+        "word": "比尔将签约快船",
+        "onboard_time": 1752708798,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74622,
+        "num": 133328,
+        "word": "黄杨钿甜父亲最新核查情况",
+        "onboard_time": 1752668183,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 183532,
+        "num": 133290,
+        "word": "女子花350元漂发头发狂掉像面条",
+        "onboard_time": 1752707298,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132964,
+        "num": 132964,
+        "word": "戒糖10天后身体发生的变化",
+        "onboard_time": 1752707598,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109590,
+        "num": 109590,
+        "word": "小时候常吃的水果消失了",
+        "onboard_time": 1752661462,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103248,
+        "num": 103248,
+        "word": "山姆如何稳住500万会员",
+        "onboard_time": 1752676761,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94531,
+        "num": 94531,
+        "word": "浙江一地可穿汉服拍身份证照片",
+        "onboard_time": 1752681681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92023,
+        "num": 92023,
+        "word": "醒醒现在是2006年",
+        "onboard_time": 1752696374,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84826,
+        "num": 84826,
+        "word": "梓渝这都是我的来时路",
+        "onboard_time": 1752707298,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80592,
+        "num": 84567,
+        "word": "阿娇打电话质问吴京",
+        "onboard_time": 1752665902,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84542,
+        "num": 84542,
+        "word": "生父回应让男孩坐后备箱称不会道歉",
+        "onboard_time": 1752656242,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117268,
+        "num": 84335,
+        "word": "巴黎被印度博主疯狂吐槽",
+        "onboard_time": 1752707538,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83868,
+        "num": 83868,
+        "word": "西瓜意外摔碎一家三口就地开吃",
+        "onboard_time": 1752673343,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75892,
+        "num": 75892,
+        "word": "男子与女友发生口角后刺死女友",
+        "onboard_time": 1752673583,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75861,
+        "num": 75861,
+        "word": "王灿回应主动追求杜淳",
+        "onboard_time": 1752708380,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73915,
+        "num": 73915,
+        "word": "南京闪电",
+        "onboard_time": 1752676582,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73786,
+        "num": 73786,
+        "word": "男子在泰遭撕票抛尸遇害前身影曝光",
+        "onboard_time": 1752658161,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62833,
+        "num": 62833,
+        "word": "歌手第十期歌单",
+        "onboard_time": 1752679942,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57741,
+        "num": 57741,
+        "word": "杨幂长安的荔枝人生镜头",
+        "onboard_time": 1752682462,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57684,
+        "num": 57684,
+        "word": "薛之谦新歌",
+        "onboard_time": 1752709099,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57539,
+        "num": 57539,
+        "word": "田栩宁轮流宠",
+        "onboard_time": 1752674362,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57492,
+        "num": 57492,
+        "word": "边牧手术失败被医院开车撞死",
+        "onboard_time": 1752661401,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56774,
+        "num": 56774,
+        "word": "美团高管称外卖爆单大都是泡沫",
+        "onboard_time": 1752676942,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56300,
+        "num": 56300,
+        "word": "三伏天9个方法让腿更瘦",
+        "onboard_time": 1752707479,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54914,
+        "num": 54914,
+        "word": "白鹿后援会致莫离剧组",
+        "onboard_time": 1752679762,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53718,
+        "num": 53718,
+        "word": "孙颖莎抵达北京德华陪在身后",
+        "onboard_time": 1752668183,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52650,
+        "num": 52650,
+        "word": "警方通报3名高中生赴西双版纳后失联",
+        "onboard_time": 1752660680,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 52287,
+        "num": 52287,
+        "word": "杨紫当年的梗现在还能笑",
+        "onboard_time": 1752671061,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52177,
+        "num": 52177,
+        "word": "好感和喜欢最多存在四个月",
+        "onboard_time": 1752704295,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51439,
+        "num": 51439,
+        "word": "当一直被喂的流浪猫看到家猫",
+        "onboard_time": 1752707718,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50095,
+        "num": 50095,
+        "word": "王皓替大鹏领奖",
+        "onboard_time": 1752681200,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设现代化人民城市有6个关键词#"
+    }
+  }
+}
