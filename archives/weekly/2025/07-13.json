@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752679868348,
+  "endTime": 1752680699709,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652487,
+      "num": 652487,
+      "word": "关晓彤你不瘦谁瘦",
+      "onboard_time": 1752679282,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648450,
       "num": 356352,
       "word": "陈道明头发全白了",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1752372623,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 587647,
+      "num": 344763,
+      "word": "韩红现场叫停录制说要对观众负责",
+      "onboard_time": 1752677063,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 586371,
@@ -1659,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533066,
+      "num": 533066,
+      "word": "演唱会前夕亲人离世平台拒退票",
+      "onboard_time": 1752674243,
+      "rank": 14,
+      "category": "舆论监督,演出"
+    },
+    {
       "raw_hot": 531264,
       "num": 531264,
       "word": "钟美美说爸爸不喜欢我总打我",
@@ -1673,14 +1697,6 @@
       "onboard_time": 1752383781,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 526710,
-      "num": 526710,
-      "word": "演唱会前夕亲人离世平台拒退票",
-      "onboard_time": 1752674243,
-      "rank": 14,
-      "category": "舆论监督,演出"
     },
     {
       "raw_hot": 519241,
@@ -2267,14 +2283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 405203,
-      "num": 239147,
-      "word": "关晓彤你不瘦谁瘦",
-      "onboard_time": 1752679282,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 402726,
       "num": 402726,
       "word": "杭州地铁一男子爬进车厢吓跑乘客",
@@ -2347,14 +2355,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 389352,
-      "num": 235694,
-      "word": "韩红现场叫停录制说要对观众负责",
-      "onboard_time": 1752677063,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387852,
       "num": 343698,
       "word": "印度男子离婚后泼4桶牛奶沐浴",
@@ -2401,6 +2401,14 @@
       "onboard_time": 1752553583,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 376414,
+      "num": 190552,
+      "word": "关晓彤cha了沈佳润的美美桑内",
+      "onboard_time": 1752679282,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 376105,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1752640582,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309887,
+      "num": 309887,
+      "word": "网传R1SE披哥二公踢馆",
+      "onboard_time": 1752679282,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 307903,
@@ -3523,14 +3539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264586,
-      "num": 190552,
-      "word": "关晓彤cha了沈佳润的美美桑内",
-      "onboard_time": 1752679282,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 264321,
       "num": 286138,
       "word": "刘轩丞大学生简历有啥写啥",
@@ -3592,6 +3600,14 @@
       "word": "赴西双版纳失联高中生位置显示境外",
       "onboard_time": 1752663323,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257825,
+      "num": 257825,
+      "word": "外卖大战男子每天喝5杯奶茶进医院",
+      "onboard_time": 1752675683,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3851,14 +3867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243884,
-      "num": 243884,
-      "word": "外卖大战男子每天喝5杯奶茶进医院",
-      "onboard_time": 1752675683,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243411,
       "num": 243411,
       "word": "严浩翔被wakeupp眼前一亮",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1752583162,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 227634,
+      "num": 227634,
+      "word": "白鹿后援会致莫离剧组",
+      "onboard_time": 1752679762,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 226731,
@@ -4611,14 +4627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206187,
-      "num": 206187,
-      "word": "网传R1SE披哥二公踢馆",
-      "onboard_time": 1752679282,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206109,
       "num": 191008,
       "word": "迪丽热巴将录制Hi6",
@@ -4697,6 +4705,14 @@
       "onboard_time": 1752482662,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203939,
+      "num": 181352,
+      "word": "余茵是真的听劝",
+      "onboard_time": 1752679282,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 203786,
@@ -5081,14 +5097,6 @@
       "onboard_time": 1752648021,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 192718,
-      "num": 192718,
-      "word": "白鹿后援会致莫离剧组",
-      "onboard_time": 1752679762,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 192575,
@@ -5641,14 +5649,6 @@
       "onboard_time": 1752412884,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181352,
-      "num": 181352,
-      "word": "余茵是真的听劝",
-      "onboard_time": 1752679282,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 181238,
@@ -11251,6 +11251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93213,
+      "num": 93213,
+      "word": "歌手第十期歌单",
+      "onboard_time": 1752679942,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92980,
       "num": 159124,
       "word": "秦彻枪与玫瑰",
@@ -11433,6 +11441,14 @@
       "onboard_time": 1752564441,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88725,
+      "num": 88725,
+      "word": "当洁癖小狗遇到下雨",
+      "onboard_time": 1752680001,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 88119,
@@ -12841,6 +12857,14 @@
       "onboard_time": 1752656182,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32738,
+      "num": 107785,
+      "word": "学霸好友小学初中高中大学都同校",
+      "onboard_time": 1752680482,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 32209,

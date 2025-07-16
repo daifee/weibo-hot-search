@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752679868348,
+  "endTime": 1752680699709,
   "band_list": [
     {
       "raw_hot": 10128223,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 652487,
+      "num": 652487,
+      "word": "关晓彤你不瘦谁瘦",
+      "onboard_time": 1752679282,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639237,
       "num": 639237,
       "word": "山姆线上已下架好丽友",
@@ -363,6 +371,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 587647,
+      "num": 344763,
+      "word": "韩红现场叫停录制说要对观众负责",
+      "onboard_time": 1752677063,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585164,
       "num": 585164,
       "word": "山姆母公司回应选品问题",
@@ -403,20 +419,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 533066,
+      "num": 533066,
+      "word": "演唱会前夕亲人离世平台拒退票",
+      "onboard_time": 1752674243,
+      "rank": 14,
+      "category": "舆论监督,演出"
+    },
+    {
       "raw_hot": 531264,
       "num": 531264,
       "word": "钟美美说爸爸不喜欢我总打我",
       "onboard_time": 1752670883,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 526710,
-      "num": 526710,
-      "word": "演唱会前夕亲人离世平台拒退票",
-      "onboard_time": 1752674243,
-      "rank": 14,
-      "category": "舆论监督,演出"
     },
     {
       "raw_hot": 519241,
@@ -531,14 +547,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 405203,
-      "num": 239147,
-      "word": "关晓彤你不瘦谁瘦",
-      "onboard_time": 1752679282,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395114,
       "num": 395114,
       "word": "超市买34元排骨藏进零食货架变臭肉",
@@ -553,14 +561,6 @@
       "onboard_time": 1752624382,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 389352,
-      "num": 235694,
-      "word": "韩红现场叫停录制说要对观众负责",
-      "onboard_time": 1752677063,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 387852,
@@ -585,6 +585,14 @@
       "onboard_time": 1752638542,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376414,
+      "num": 190552,
+      "word": "关晓彤cha了沈佳润的美美桑内",
+      "onboard_time": 1752679282,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 375383,
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309887,
+      "num": 309887,
+      "word": "网传R1SE披哥二公踢馆",
+      "onboard_time": 1752679282,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301059,
       "num": 173837,
       "word": "董璇再婚",
@@ -867,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264586,
-      "num": 190552,
-      "word": "关晓彤cha了沈佳润的美美桑内",
-      "onboard_time": 1752679282,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 264321,
       "num": 286138,
       "word": "刘轩丞大学生简历有啥写啥",
@@ -912,6 +920,14 @@
       "word": "赴西双版纳失联高中生位置显示境外",
       "onboard_time": 1752663323,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257825,
+      "num": 257825,
+      "word": "外卖大战男子每天喝5杯奶茶进医院",
+      "onboard_time": 1752675683,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -953,14 +969,6 @@
       "onboard_time": 1752662961,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243884,
-      "num": 243884,
-      "word": "外卖大战男子每天喝5杯奶茶进医院",
-      "onboard_time": 1752675683,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242147,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1752673343,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227634,
+      "num": 227634,
+      "word": "白鹿后援会致莫离剧组",
+      "onboard_time": 1752679762,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 220065,
@@ -1155,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206187,
-      "num": 206187,
-      "word": "网传R1SE披哥二公踢馆",
-      "onboard_time": 1752679282,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206109,
       "num": 191008,
       "word": "迪丽热巴将录制Hi6",
@@ -1184,6 +1192,14 @@
       "word": "全明星助阵爱奇艺717",
       "onboard_time": 1752638121,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203939,
+      "num": 181352,
+      "word": "余茵是真的听劝",
+      "onboard_time": 1752679282,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1315,14 +1331,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192718,
-      "num": 192718,
-      "word": "白鹿后援会致莫离剧组",
-      "onboard_time": 1752679762,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192046,
       "num": 192046,
       "word": "猫 一定要穿成这样吗",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1752660801,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181352,
-      "num": 181352,
-      "word": "余茵是真的听劝",
-      "onboard_time": 1752679282,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 181034,
@@ -2811,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93213,
+      "num": 93213,
+      "word": "歌手第十期歌单",
+      "onboard_time": 1752679942,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92980,
       "num": 159124,
       "word": "秦彻枪与玫瑰",
@@ -2889,6 +2897,14 @@
       "onboard_time": 1752669564,
       "rank": 36,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 88725,
+      "num": 88725,
+      "word": "当洁癖小狗遇到下雨",
+      "onboard_time": 1752680001,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 87559,
@@ -3329,6 +3345,14 @@
       "onboard_time": 1752656182,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32738,
+      "num": 107785,
+      "word": "学霸好友小学初中高中大学都同校",
+      "onboard_time": 1752680482,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 32595,
