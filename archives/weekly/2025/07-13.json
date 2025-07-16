@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752680699709,
+  "endTime": 1752683766393,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -1484,7 +1484,7 @@
     },
     {
       "raw_hot": 587647,
-      "num": 344763,
+      "num": 406182,
       "word": "韩红现场叫停录制说要对观众负责",
       "onboard_time": 1752677063,
       "rank": 47,
@@ -2625,6 +2625,14 @@
       "onboard_time": 1752539123,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350329,
+      "num": 227634,
+      "word": "白鹿后援会致莫离剧组",
+      "onboard_time": 1752679762,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 349387,
@@ -4057,14 +4065,6 @@
       "onboard_time": 1752583162,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 227634,
-      "num": 227634,
-      "word": "白鹿后援会致莫离剧组",
-      "onboard_time": 1752679762,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 226731,
@@ -6835,6 +6835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154886,
+      "num": 147136,
+      "word": "歌手第十期歌单",
+      "onboard_time": 1752679942,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154620,
       "num": 243128,
       "word": "央行将开展14000亿买断式逆回购操作",
@@ -8723,6 +8731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125464,
+      "num": 80103,
+      "word": "33岁最近3年没有体检",
+      "onboard_time": 1752682640,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125423,
       "num": 125423,
       "word": "刘宇宁专业对口南珩的抽象",
@@ -9635,6 +9651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115665,
+      "num": 115665,
+      "word": "浙江一地可穿汉服拍身份证照片",
+      "onboard_time": 1752681681,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115661,
       "num": 147831,
       "word": "日本向小学分发敌视他国读物",
@@ -10241,6 +10265,14 @@
       "onboard_time": 1752673284,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107460,
+      "num": 116996,
+      "word": "大鹏说杨幂天选李善德夫人",
+      "onboard_time": 1752682520,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 107437,
@@ -11251,14 +11283,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 93213,
-      "num": 93213,
-      "word": "歌手第十期歌单",
-      "onboard_time": 1752679942,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92980,
       "num": 159124,
       "word": "秦彻枪与玫瑰",
@@ -11379,6 +11403,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 90720,
+      "num": 84729,
+      "word": "王皓替大鹏领奖",
+      "onboard_time": 1752681200,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90049,
       "num": 90049,
       "word": "易烊千玺林晓杰售后",
@@ -11393,6 +11425,14 @@
       "onboard_time": 1752447619,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89811,
+      "num": 79905,
+      "word": "杨幂长安的荔枝人生镜头",
+      "onboard_time": 1752682462,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 89706,
@@ -11427,6 +11467,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 89004,
+      "num": 89004,
+      "word": "此刻南京天空在蹦迪",
+      "onboard_time": 1752680961,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88827,
       "num": 88827,
       "word": "咖啡是穷人的饮料",
@@ -11449,6 +11497,14 @@
       "onboard_time": 1752680001,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88707,
+      "num": 88707,
+      "word": "马嘉祺沉默是最狠的狠话",
+      "onboard_time": 1752682041,
+      "rank": 25,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 88119,
@@ -11995,6 +12051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71556,
+      "num": 71556,
+      "word": "丁禹兮30岁生日应援",
+      "onboard_time": 1752683300,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71301,
       "num": 195445,
       "word": "A股股民已超2.4亿",
@@ -12057,6 +12121,14 @@
       "onboard_time": 1752579082,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66022,
+      "num": 66022,
+      "word": "扫毒风暴12集100秒激战戏",
+      "onboard_time": 1752681081,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 65329,
@@ -12267,6 +12339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58526,
+      "num": 58526,
+      "word": "1个动作改善脊柱侧弯",
+      "onboard_time": 1752682400,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 58335,
       "num": 98175,
       "word": "中国女排世锦赛24人名单",
@@ -12315,12 +12395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57349,
+      "num": 57349,
+      "word": "蔚来回应特斯拉ModelYL",
+      "onboard_time": 1752681021,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57302,
       "num": 168745,
       "word": "国防部回应日本近日公布防卫白皮书",
       "onboard_time": 1752650482,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57184,
+      "num": 57184,
+      "word": "喜欢强烈感觉到对方是喜欢我的",
+      "onboard_time": 1752682520,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 56331,
@@ -13203,6 +13299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22146,
+      "num": 800591,
+      "word": "微观链博会",
+      "onboard_time": 1752677902,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22030,
       "num": 55387,
       "word": "女子称丈夫搭救朋友被砍伤致死",
@@ -13361,14 +13465,6 @@
       "onboard_time": 1752399681,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18369,
-      "num": 800591,
-      "word": "微观链博会",
-      "onboard_time": 1752677902,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17871,
