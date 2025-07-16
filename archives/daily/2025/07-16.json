@@ -1,7 +1,15 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752639130972,
+  "endTime": 1752641358245,
   "band_list": [
+    {
+      "raw_hot": 1759372,
+      "num": 1759372,
+      "word": "京东取消外卖超时20分钟免单",
+      "onboard_time": 1752638121,
+      "rank": 1,
+      "category": "民生新闻,互联网"
+    },
     {
       "raw_hot": 1614537,
       "num": 1614537,
@@ -19,14 +27,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 1459742,
-      "num": 1459742,
-      "word": "京东取消外卖超时20分钟免单",
-      "onboard_time": 1752638121,
-      "rank": 1,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 1354339,
       "num": 433143,
       "word": "公司烂不烂请个假就知道了",
@@ -41,6 +41,14 @@
       "onboard_time": 1752591924,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1153061,
+      "num": 1153061,
+      "word": "金价",
+      "onboard_time": 1752637882,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 1144068,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1032592,
+      "num": 1032592,
+      "word": "胡歌肖战将合作",
+      "onboard_time": 1752637521,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 973396,
       "num": 1003677,
       "word": "雪糕刺客真的凉凉了",
@@ -75,12 +91,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 962290,
-      "num": 962290,
-      "word": "胡歌肖战将合作",
-      "onboard_time": 1752637521,
-      "rank": 5,
-      "category": "电影"
+      "raw_hot": 906628,
+      "num": 415375,
+      "word": "清华毕业生收到的四个offer",
+      "onboard_time": 1752638722,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 831877,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 819711,
-      "num": 395678,
+      "num": 396735,
       "word": "赵露思的狗冲着主持人一直叫",
       "onboard_time": 1752630920,
       "rank": 12,
@@ -123,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 657117,
+      "num": 657117,
+      "word": "36岁男子因糖尿病引发心衰去世",
+      "onboard_time": 1752638121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 639237,
       "num": 639237,
       "word": "山姆线上已下架好丽友",
@@ -139,20 +163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 525921,
-      "num": 525921,
-      "word": "金价",
-      "onboard_time": 1752637882,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 486160,
       "num": 486160,
       "word": "杨幂去健身房路透",
       "onboard_time": 1752636501,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448087,
+      "num": 448087,
+      "word": "张凯丽女儿回应皇族传闻",
+      "onboard_time": 1752636501,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 425132,
@@ -179,20 +203,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388695,
-      "num": 434537,
-      "word": "36岁男子因糖尿病引发心衰去世",
-      "onboard_time": 1752638121,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 387852,
       "num": 343698,
       "word": "印度男子离婚后泼4桶牛奶沐浴",
       "onboard_time": 1752628640,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 377819,
+      "num": 395171,
+      "word": "男子寄107万元油卡遭快递员变卖",
+      "onboard_time": 1752638542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373768,
@@ -211,19 +235,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368691,
-      "num": 425375,
-      "word": "张凯丽女儿回应皇族传闻",
-      "onboard_time": 1752636501,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 360184,
       "num": 248409,
       "word": "朱正廷发长文",
       "onboard_time": 1752625462,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358797,
+      "num": 409597,
+      "word": "刘宇宁出舱门撞到头",
+      "onboard_time": 1752638362,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -249,6 +273,14 @@
       "onboard_time": 1752590004,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330121,
+      "num": 330121,
+      "word": "空调 酸臭味",
+      "onboard_time": 1752639681,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 301059,
@@ -283,12 +315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288450,
+      "num": 332084,
+      "word": "董璇再婚后首现身",
+      "onboard_time": 1752640582,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286607,
       "num": 286607,
       "word": "李晟逐渐接受妈妈称号",
       "onboard_time": 1752630980,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282981,
+      "num": 330156,
+      "word": "易烊千玺是全票通过",
+      "onboard_time": 1752640463,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 277146,
@@ -403,12 +451,28 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 211694,
+      "num": 211694,
+      "word": "女子强装富二代打赏男演员五十余万",
+      "onboard_time": 1752636321,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210411,
       "num": 276253,
       "word": "日本一地20余天震了超2000次",
       "onboard_time": 1752596839,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208256,
+      "num": 208256,
+      "word": "犟种父母已经开始听劝了",
+      "onboard_time": 1752639503,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 204908,
@@ -425,6 +489,14 @@
       "onboard_time": 1752637342,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196377,
+      "num": 196377,
+      "word": "你不说西周我还以为是上周的",
+      "onboard_time": 1752639623,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 195010,
@@ -475,14 +547,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188554,
-      "num": 188554,
-      "word": "女子强装富二代打赏男演员五十余万",
-      "onboard_time": 1752636321,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188062,
       "num": 188062,
       "word": "提升幸福感的夏日小事",
@@ -507,6 +571,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184057,
+      "num": 184057,
+      "word": "电影长安的荔枝终极预告",
+      "onboard_time": 1752639263,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 181279,
+      "num": 199322,
+      "word": "漠河舞厅老板羡慕隔壁奶茶店爆单",
+      "onboard_time": 1752640222,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177659,
       "num": 177659,
       "word": "人民日报评餐馆发视频拟被罚45万事件",
@@ -523,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173909,
-      "num": 409597,
-      "word": "刘宇宁出舱门撞到头",
-      "onboard_time": 1752638362,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173222,
       "num": 173222,
       "word": "特朗普向克宫发出戏剧化最后通牒",
@@ -545,6 +617,14 @@
       "onboard_time": 1752630621,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170934,
+      "num": 208656,
+      "word": "揭秘古代拐卖少女产业链",
+      "onboard_time": 1752640402,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 168656,
@@ -571,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166522,
-      "num": 166522,
-      "word": "清华毕业生收到的四个offer",
-      "onboard_time": 1752638722,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 165654,
       "num": 165654,
       "word": "王源三巡全站官宣",
@@ -593,6 +665,14 @@
       "onboard_time": 1752631221,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154567,
+      "num": 154567,
+      "word": "30多位冠军亮出私藏健身神器",
+      "onboard_time": 1752641123,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 148205,
@@ -675,12 +755,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137334,
+      "num": 137334,
+      "word": "窦月减肥法",
+      "onboard_time": 1752640763,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 135127,
       "num": 135127,
       "word": "南开大学教授因个人简介实诚走红",
       "onboard_time": 1752578482,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133656,
+      "num": 133656,
+      "word": "溺爱的妈养出疯癫的儿",
+      "onboard_time": 1752639681,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 131916,
@@ -707,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121964,
+      "num": 121964,
+      "word": "婆婆转借的钱小姑子不肯还",
+      "onboard_time": 1752640945,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120179,
       "num": 165831,
       "word": "易烊千玺再次恭喜春和",
@@ -729,6 +833,14 @@
       "onboard_time": 1752637583,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118745,
+      "num": 118745,
+      "word": "年轻人过度抗衰医美皮肤下垂更快",
+      "onboard_time": 1752641063,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118349,
@@ -860,7 +972,7 @@
     },
     {
       "raw_hot": 100785,
-      "num": 100785,
+      "num": 209252,
       "word": "家里最易滋生霉菌的5个地方",
       "onboard_time": 1752631221,
       "rank": 40,
@@ -1147,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48660,
+      "num": 208370,
+      "word": "107万元油卡遭快递员变卖男子发声",
+      "onboard_time": 1752641242,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42764,
       "num": 47164,
       "word": "梓渝内娱唯一线面塑",
@@ -1163,11 +1283,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33538,
-      "num": 395171,
-      "word": "男子寄107万元油卡遭快递员变卖",
-      "onboard_time": 1752638542,
-      "rank": 19,
+      "raw_hot": 36562,
+      "num": 1089966,
+      "word": "高质量发展甘肃行",
+      "onboard_time": 1752640582,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1251,6 +1371,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 14832,
+      "num": 208458,
+      "word": "男子带病妻跑车称在一起日子就有盼头",
+      "onboard_time": 1752640882,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 12422,
       "num": 42869,
       "word": "四川雅江县3.2级地震",
@@ -1268,6 +1396,9 @@
     },
     {
       "word": "#城市工作要深刻把握主动适应形势变化#"
+    },
+    {
+      "word": "#改革为了人民#"
     }
   ]
 }
