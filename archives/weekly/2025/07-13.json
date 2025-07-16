@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752692039722,
+  "endTime": 1752693802319,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -12091,6 +12091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70251,
+      "num": 46865,
+      "word": "酷似林依晨女孩被心仪大学录取",
+      "onboard_time": 1752689295,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 69741,
       "num": 116205,
       "word": "张子宇统治力",
@@ -12473,14 +12481,6 @@
       "onboard_time": 1752558143,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55322,
-      "num": 46865,
-      "word": "酷似林依晨女孩被心仪大学录取",
-      "onboard_time": 1752689295,
-      "rank": 17,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 54755,
@@ -13563,12 +13563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16710,
+      "num": 20769,
+      "word": "加沙至少875人领取食物时遇害",
+      "onboard_time": 1752692114,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16021,
       "num": 25633,
       "word": "朝雪录首播成绩",
       "onboard_time": 1752517514,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15991,
+      "num": 20769,
+      "word": "惠英红探班陈伟霆九门",
+      "onboard_time": 1752692354,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 15873,
@@ -13657,6 +13673,14 @@
       "onboard_time": 1752363317,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7890,
+      "num": 86286,
+      "word": "辉煌60载魅力新西藏",
+      "onboard_time": 1752677244,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
