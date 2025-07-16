@@ -1,0 +1,410 @@
+{
+  "runTime": 1752651830735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1362508,
+        "num": 1362508,
+        "word": "不要怀疑任何一张能进娱乐圈的脸",
+        "onboard_time": 1752646042,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486786,
+        "num": 486786,
+        "word": "钟薛高创始人曾卖红薯还债",
+        "onboard_time": 1752644721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24530,
+        "num": 389053,
+        "word": "净网2025代抢录入小心票圈陷阱",
+        "onboard_time": 1752631641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876609,
+        "num": 375241,
+        "word": "黄子韬因为抢厕所要和徐艺洋分手",
+        "onboard_time": 1752644601,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350875,
+        "num": 350875,
+        "word": "山姆丢了差异化也就丢了会员",
+        "onboard_time": 1752644001,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238642,
+        "num": 238642,
+        "word": "未来一周热热热热热热热",
+        "onboard_time": 1752632540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584578,
+        "num": 237640,
+        "word": "这居然是3unshine组合队长",
+        "onboard_time": 1752648441,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503149,
+        "num": 237518,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1752643281,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235350,
+        "num": 235350,
+        "word": "曝光菲方高速穿航中国海警船尾证据",
+        "onboard_time": 1752649281,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203074,
+        "num": 235315,
+        "word": "盼盼回应改英文名上架山姆",
+        "onboard_time": 1752644181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346822,
+        "num": 234969,
+        "word": "韦雪前夫前任合体比心",
+        "onboard_time": 1752645622,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 338781,
+        "num": 234788,
+        "word": "李一桐曾被大冰写进书里",
+        "onboard_time": 1752648202,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286305,
+        "num": 234377,
+        "word": "清华毕业生收到的四个offer",
+        "onboard_time": 1752638722,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270361,
+        "num": 234116,
+        "word": "公司烂不烂请个假就知道了",
+        "onboard_time": 1752635300,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267877,
+        "num": 233807,
+        "word": "赵露思胳膊怎么了",
+        "onboard_time": 1752644601,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265451,
+        "num": 233720,
+        "word": "刘浩存跳舞",
+        "onboard_time": 1752650420,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259735,
+        "num": 233361,
+        "word": "美高梅中国称向佐欠款已还清",
+        "onboard_time": 1752644601,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 141725,
+        "num": 233280,
+        "word": "钟薛高 红薯刺客",
+        "onboard_time": 1752651502,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138535,
+        "num": 232885,
+        "word": "空调 酸臭味",
+        "onboard_time": 1752639681,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90182,
+        "num": 232553,
+        "word": "三亚婚礼偶遇董璇一家",
+        "onboard_time": 1752646700,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56331,
+        "num": 232357,
+        "word": "95岁老战士愧疚说不该麻烦110",
+        "onboard_time": 1752650960,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 737445,
+        "num": 232147,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345395,
+        "num": 231964,
+        "word": "田曦薇去韩国了",
+        "onboard_time": 1752651200,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131661,
+        "num": 231696,
+        "word": "陈楚生献唱长安的荔枝片尾曲",
+        "onboard_time": 1752651380,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231492,
+        "num": 231492,
+        "word": "刘轩丞大学生简历有啥写啥",
+        "onboard_time": 1752647661,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222291,
+        "num": 222291,
+        "word": "三伏高效减脂法",
+        "onboard_time": 1752648021,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 216726,
+        "num": 216726,
+        "word": "36岁男子因病去世23岁妻子说不会改嫁",
+        "onboard_time": 1752643761,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211397,
+        "num": 211397,
+        "word": "于正签的上一个未成年素人是宋威龙",
+        "onboard_time": 1752651441,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207702,
+        "num": 207702,
+        "word": "一句恶心爽了我两个多小时",
+        "onboard_time": 1752645561,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48597,
+        "num": 204158,
+        "word": "夫妻冒充女儿名义借款一家三口全被告",
+        "onboard_time": 1752651682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201731,
+        "num": 201731,
+        "word": "易烊千玺是全票通过",
+        "onboard_time": 1752640463,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185194,
+        "num": 185194,
+        "word": "一诺夏天也无法舍弃红袜子",
+        "onboard_time": 1752651802,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164745,
+        "num": 164745,
+        "word": "京东文娱 华晨宇专辑",
+        "onboard_time": 1752651261,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145576,
+        "num": 145576,
+        "word": "京东取消外卖超时20分钟免单",
+        "onboard_time": 1752638121,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 135622,
+        "num": 135622,
+        "word": "邪修做饭 省时间",
+        "onboard_time": 1752650002,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134123,
+        "num": 134123,
+        "word": "杨紫内娱招商的神",
+        "onboard_time": 1752646700,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96049,
+        "num": 131208,
+        "word": "外卖大战商家钱赚多了却高兴不起来",
+        "onboard_time": 1752650482,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131068,
+        "num": 131068,
+        "word": "日本防卫白皮书粗暴干涉中国内政",
+        "onboard_time": 1752646343,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125204,
+        "num": 125204,
+        "word": "急流中他们用身体拦截落水老人",
+        "onboard_time": 1752651802,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 118187,
+        "num": 118187,
+        "word": "董璇张维伊小酒窝参加婚礼",
+        "onboard_time": 1752650061,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14440,
+        "num": 117346,
+        "word": "英国网球女将被禁赛4年",
+        "onboard_time": 1752647600,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116746,
+        "num": 116746,
+        "word": "教育部明确严控暑期作业总量",
+        "onboard_time": 1752651802,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115344,
+        "num": 115344,
+        "word": "五大唱片 进不去",
+        "onboard_time": 1752651200,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114218,
+        "num": 114218,
+        "word": "农村狗狗一天的流水账",
+        "onboard_time": 1752648921,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111848,
+        "num": 111848,
+        "word": "胡歌肖战或将合作",
+        "onboard_time": 1752637521,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15715,
+        "num": 111137,
+        "word": "熊去看演唱会",
+        "onboard_time": 1752650601,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111062,
+        "num": 111062,
+        "word": "敖瑞鹏 古早温柔型男主",
+        "onboard_time": 1752650901,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108797,
+        "num": 108797,
+        "word": "奶茶店加500补贴员工还是累跑了",
+        "onboard_time": 1752649281,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107961,
+        "num": 107961,
+        "word": "张钧甯撑伞神图",
+        "onboard_time": 1752651321,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106558,
+        "num": 106558,
+        "word": "预制菜全面攻占了农村宴席",
+        "onboard_time": 1752635541,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为了人民#"
+    }
+  }
+}
