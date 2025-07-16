@@ -1,0 +1,410 @@
+{
+  "runTime": 1752638547266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074936,
+        "num": 1171989,
+        "word": "一男子骑车未戴头盔遇交警查处时死亡",
+        "onboard_time": 1752633141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 985713,
+        "num": 985713,
+        "word": "京东取消外卖超时20分钟免单",
+        "onboard_time": 1752638121,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 41434,
+        "num": 821842,
+        "word": "净网2025代抢录入小心票圈陷阱",
+        "onboard_time": 1752631641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720609,
+        "num": 720609,
+        "word": "预制菜全面攻占了农村宴席",
+        "onboard_time": 1752635541,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708983,
+        "num": 708983,
+        "word": "男子买排骨嫌贵藏货架隔天变臭肉",
+        "onboard_time": 1752634819,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563604,
+        "num": 563604,
+        "word": "胡歌肖战将合作",
+        "onboard_time": 1752637521,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549250,
+        "num": 549250,
+        "word": "小芳出嫁官宣",
+        "onboard_time": 1752634760,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486160,
+        "num": 486160,
+        "word": "杨幂去健身房路透",
+        "onboard_time": 1752636501,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413464,
+        "num": 413464,
+        "word": "雪糕刺客真的凉凉了",
+        "onboard_time": 1752597379,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395114,
+        "num": 395114,
+        "word": "超市买34元排骨藏进零食货架变臭肉",
+        "onboard_time": 1752633860,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1180498,
+        "num": 386662,
+        "word": "公司烂不烂请个假就知道了",
+        "onboard_time": 1752635300,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 973760,
+        "num": 385964,
+        "word": "泰国女子与高僧发生关系后拍5600段视频",
+        "onboard_time": 1752578842,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 879533,
+        "num": 380526,
+        "word": "1岁工作22岁退休喜提69万退休金",
+        "onboard_time": 1752628640,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373768,
+        "num": 373768,
+        "word": "未来一周热热热热热热热",
+        "onboard_time": 1752632540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320193,
+        "num": 371197,
+        "word": "36岁男子因糖尿病引发心衰去世",
+        "onboard_time": 1752638121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126211,
+        "num": 371058,
+        "word": "国台办回应废止一台湾企业登记注册",
+        "onboard_time": 1752635421,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 798061,
+        "num": 371056,
+        "word": "赵露思的狗冲着主持人一直叫",
+        "onboard_time": 1752630920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371048,
+        "num": 371048,
+        "word": "网剧万古最强宗",
+        "onboard_time": 1752635960,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334260,
+        "num": 334260,
+        "word": "张凯丽女儿回应皇族传闻",
+        "onboard_time": 1752636501,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118349,
+        "num": 321046,
+        "word": "舒淇的笑感奶茶",
+        "onboard_time": 1752636801,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315240,
+        "num": 315240,
+        "word": "王影璐竟然开始演妈妈角色了",
+        "onboard_time": 1752637102,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291699,
+        "num": 291699,
+        "word": "魏笑 赵露思",
+        "onboard_time": 1752593423,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289651,
+        "num": 289651,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288730,
+        "num": 288730,
+        "word": "专供山姆的好丽友减糖但加代糖",
+        "onboard_time": 1752634941,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276323,
+        "num": 276323,
+        "word": "黄金价格连续下跌",
+        "onboard_time": 1752633321,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189621,
+        "num": 265298,
+        "word": "杨瀚森开局三分",
+        "onboard_time": 1752637462,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264868,
+        "num": 264868,
+        "word": "开空调最好别低于这个温度",
+        "onboard_time": 1752628160,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 253873,
+        "num": 253873,
+        "word": "决不允许一边赚大陆钱一边支持台独",
+        "onboard_time": 1752635360,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219047,
+        "num": 219047,
+        "word": "成毅狐妖小红娘王权篇ID",
+        "onboard_time": 1752636801,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216231,
+        "num": 216231,
+        "word": "李晟逐渐接受妈妈称号",
+        "onboard_time": 1752630980,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87216,
+        "num": 207884,
+        "word": "刘宇宁出舱门撞到头",
+        "onboard_time": 1752638362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203157,
+        "num": 203157,
+        "word": "战至巅峰4定档官宣",
+        "onboard_time": 1752637342,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200815,
+        "num": 200815,
+        "word": "许嵩 格洛米GROMI",
+        "onboard_time": 1752638302,
+        "rank": 32,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 194426,
+        "num": 194426,
+        "word": "广州天河区城中村",
+        "onboard_time": 1752634160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60776,
+        "num": 187851,
+        "word": "市监局回应顾客吃完烤肉发现活蛆",
+        "onboard_time": 1752637280,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187479,
+        "num": 187479,
+        "word": "女子强装富二代打赏男演员五十余万",
+        "onboard_time": 1752636321,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184818,
+        "num": 184818,
+        "word": "当地回应1岁工作22岁退休",
+        "onboard_time": 1752634941,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177333,
+        "num": 177333,
+        "word": "短剧卷完甜宠开始卷非遗了",
+        "onboard_time": 1752637641,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159500,
+        "num": 159500,
+        "word": "全明星助阵爱奇艺717",
+        "onboard_time": 1752638121,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92980,
+        "num": 159124,
+        "word": "秦彻枪与玫瑰",
+        "onboard_time": 1752637641,
+        "rank": 39,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 158881,
+        "num": 158881,
+        "word": "王源三巡全站官宣",
+        "onboard_time": 1752632600,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152128,
+        "num": 152128,
+        "word": "妈妈被娃突然抱起重重摔倒在地",
+        "onboard_time": 1752622639,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26469,
+        "num": 149926,
+        "word": "国台办谴责台当局识读中国威胁教材",
+        "onboard_time": 1752638482,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148966,
+        "num": 148966,
+        "word": "猫 一定要穿成这样吗",
+        "onboard_time": 1752638302,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148205,
+        "num": 148205,
+        "word": "火影忍者中配版上线",
+        "onboard_time": 1752637641,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143529,
+        "num": 143529,
+        "word": "男子租房陪读发现33年前用的课桌",
+        "onboard_time": 1752633260,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134329,
+        "num": 134329,
+        "word": "朱正廷家里着火了",
+        "onboard_time": 1752590484,
+        "rank": 46,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 119921,
+        "num": 119921,
+        "word": "赛琳娜将于9月结婚",
+        "onboard_time": 1752621378,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118972,
+        "num": 118972,
+        "word": "一个时刻意识到自己不再年轻",
+        "onboard_time": 1752637583,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73338,
+        "num": 116246,
+        "word": "美财长称英伟达销售H20芯片不存在问题",
+        "onboard_time": 1752638121,
+        "rank": 49,
+        "category": "国际时政,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方致力于把上合组织做实做强#"
+    }
+  }
+}
