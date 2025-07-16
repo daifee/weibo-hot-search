@@ -1,0 +1,410 @@
+{
+  "runTime": 1752655006432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1050858,
+        "num": 1168137,
+        "word": "于正签的上一个未成年素人是宋威龙",
+        "onboard_time": 1752651441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613163,
+        "num": 613163,
+        "word": "钟薛高 红薯刺客",
+        "onboard_time": 1752651502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21685,
+        "num": 565849,
+        "word": "净网2025代抢录入小心票圈陷阱",
+        "onboard_time": 1752631641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 931608,
+        "num": 564786,
+        "word": "不要怀疑任何一张能进娱乐圈的脸",
+        "onboard_time": 1752646042,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529490,
+        "num": 529490,
+        "word": "警方回应16岁女孩飞机上分娩",
+        "onboard_time": 1752652882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327497,
+        "num": 327497,
+        "word": "钟薛高创始人曾卖红薯还债",
+        "onboard_time": 1752644721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654236,
+        "num": 297569,
+        "word": "黄子韬因为抢厕所要和徐艺洋分手",
+        "onboard_time": 1752644601,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394932,
+        "num": 272222,
+        "word": "刘浩存跳舞",
+        "onboard_time": 1752650420,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243102,
+        "num": 243102,
+        "word": "山姆丢了差异化也就丢了会员",
+        "onboard_time": 1752644001,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242359,
+        "num": 242359,
+        "word": "未来一周热热热热热热热",
+        "onboard_time": 1752632540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694778,
+        "num": 242164,
+        "word": "鸡蛋羹 拌饭",
+        "onboard_time": 1752651682,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 600112,
+        "num": 241422,
+        "word": "黄磊孙莉8岁小儿子罕见露面",
+        "onboard_time": 1752654142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389743,
+        "num": 240448,
+        "word": "这居然是3unshine组合队长",
+        "onboard_time": 1752648441,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317492,
+        "num": 239373,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1752643281,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264827,
+        "num": 238372,
+        "word": "公司烂不烂请个假就知道了",
+        "onboard_time": 1752635300,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251039,
+        "num": 237983,
+        "word": "李一桐曾被大冰写进书里",
+        "onboard_time": 1752648202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207483,
+        "num": 236599,
+        "word": "清华毕业生收到的四个offer",
+        "onboard_time": 1752638722,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137519,
+        "num": 235595,
+        "word": "盼盼回应改英文名上架山姆",
+        "onboard_time": 1752644181,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33015,
+        "num": 234929,
+        "word": "山西一职工档案14处涂改提前退休",
+        "onboard_time": 1752654743,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 39927,
+        "num": 234322,
+        "word": "梅花鹿踢打抱娃游客现场哭声一片",
+        "onboard_time": 1752654082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646490,
+        "num": 232974,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 334937,
+        "num": 232197,
+        "word": "巨瘦肚子的7天有效法",
+        "onboard_time": 1752651981,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 63238,
+        "num": 231256,
+        "word": "孕妇机上分娩航司人员称已消毒",
+        "onboard_time": 1752654743,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137347,
+        "num": 230613,
+        "word": "梁伟铿王昶日本赛逆转晋级",
+        "onboard_time": 1752653661,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306788,
+        "num": 230295,
+        "word": "田曦薇去韩国了",
+        "onboard_time": 1752651200,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229536,
+        "num": 229536,
+        "word": "男子疑似溺亡法医凭经验把人救活",
+        "onboard_time": 1752651920,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 220065,
+        "num": 220065,
+        "word": "薛之谦连续七年生日发歌",
+        "onboard_time": 1752653782,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196684,
+        "num": 196684,
+        "word": "花少这个路透",
+        "onboard_time": 1752654201,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188512,
+        "num": 188512,
+        "word": "36岁男子因病去世23岁妻子说不会改嫁",
+        "onboard_time": 1752643761,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180929,
+        "num": 180929,
+        "word": "韦雪前夫前任合体比心",
+        "onboard_time": 1752645622,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197908,
+        "num": 180506,
+        "word": "黄仁勋称想买一辆小米汽车",
+        "onboard_time": 1752654621,
+        "rank": 30,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 169239,
+        "num": 169239,
+        "word": "樱桃琥珀西太后好疯一女的",
+        "onboard_time": 1752651981,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158964,
+        "num": 158964,
+        "word": "谢娜说王琳洁癖和李维嘉有一拼",
+        "onboard_time": 1752653001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150383,
+        "num": 150383,
+        "word": "赵露思胳膊怎么了",
+        "onboard_time": 1752644601,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138967,
+        "num": 138967,
+        "word": "易烊千玺是全票通过",
+        "onboard_time": 1752640463,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135895,
+        "num": 135895,
+        "word": "三伏高效减脂法",
+        "onboard_time": 1752648021,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130562,
+        "num": 130562,
+        "word": "美高梅中国称向佐欠款已还清",
+        "onboard_time": 1752644601,
+        "rank": 36,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 126400,
+        "num": 126400,
+        "word": "宋佳再次贡献神级发言",
+        "onboard_time": 1752653062,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125810,
+        "num": 125810,
+        "word": "外卖大战商家钱赚多了却高兴不起来",
+        "onboard_time": 1752650482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12977,
+        "num": 125372,
+        "word": "夏日清爽发型",
+        "onboard_time": 1752652281,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 125095,
+        "num": 125095,
+        "word": "曝光菲方高速穿航中国海警船尾证据",
+        "onboard_time": 1752649281,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123676,
+        "num": 123676,
+        "word": "空调 酸臭味",
+        "onboard_time": 1752639681,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21400,
+        "num": 122847,
+        "word": "防晒口罩越卖越贵了",
+        "onboard_time": 1752654980,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122309,
+        "num": 122309,
+        "word": "刘轩丞大学生简历有啥写啥",
+        "onboard_time": 1752647661,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122173,
+        "num": 122173,
+        "word": "练足弓3个月腿部线条变化",
+        "onboard_time": 1752651981,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122143,
+        "num": 122143,
+        "word": "谁懂王赫野甜心猛男的含金量",
+        "onboard_time": 1752654021,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121819,
+        "num": 121819,
+        "word": "陈楚生献唱长安的荔枝片尾曲",
+        "onboard_time": 1752651380,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113071,
+        "num": 119774,
+        "word": "谁拍的辛云来出来挨夸",
+        "onboard_time": 1752653542,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118035,
+        "num": 118035,
+        "word": "一句恶心爽了我两个多小时",
+        "onboard_time": 1752645561,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116265,
+        "num": 116265,
+        "word": "高温中暑用这三招救命",
+        "onboard_time": 1752653661,
+        "rank": 49,
+        "category": "健康医疗,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}
