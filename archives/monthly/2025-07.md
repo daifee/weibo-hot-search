@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/16 10:09:13
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/16 10:33:47
 </p>
 </blockquote>
 <p>
@@ -807,6 +807,12 @@ K1373没达到破窗应急预案紧急程度（热度：1514321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%A9%BA%E8%B0%83%E6%9C%80%E5%A5%BD%E5%88%AB%E4%BD%8E%E4%BA%8E%E8%BF%99%E4%B8%AA%E6%B8%A9%E5%BA%A6%23" target="weibo">
+开空调最好别低于这个温度（热度：1475053）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%20%E5%AE%97%E5%BA%86%E5%90%8E%23" target="weibo">
 娃哈哈 宗庆后（热度：1473975）
 </a>
@@ -1235,12 +1241,6 @@ BLACKPINK演唱会（热度：1267228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%BC%95%E6%A0%A1%E9%97%A8%E5%BC%80%E6%94%BE%E4%B9%8B%E4%BA%89%23" target="weibo">
 上海交大冲突事件引校门开放之争（热度：1238312）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%A9%BA%E8%B0%83%E6%9C%80%E5%A5%BD%E5%88%AB%E4%BD%8E%E4%BA%8E%E8%BF%99%E4%B8%AA%E6%B8%A9%E5%BA%A6%23" target="weibo">
-开空调最好别低于这个温度（热度：1238137）
 </a>
 </li>
 
@@ -2675,6 +2675,12 @@ TVB演员雪妮病逝（热度：861936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E8%87%AA%E6%9D%80%E4%B8%8D%E5%88%B0%E4%B8%80%E6%9C%88%E6%88%BF%E5%AD%90%E5%86%8D%E6%AC%A1%E5%87%BA%E7%A7%9F%23" target="weibo">
 租客自杀不到一月房子再次出租（热度：821125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9A%84%E7%8B%97%E5%86%B2%E7%9D%80%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E7%9B%B4%E5%8F%AB%23" target="weibo">
+赵露思的狗冲着主持人一直叫（热度：819641）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLACKPINK高阳演唱会单人海报（热度：465478）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B7%84%E5%8D%9A%E4%B8%80%E7%BE%A4%E4%BA%BA%E5%87%8C%E6%99%A8%E8%92%99%E7%9C%BC%E6%8B%89%E7%BB%B3%E8%A1%8C%E8%B5%B0%23" target="weibo">
 山东淄博一群人凌晨蒙眼拉绳行走（热度：453279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%A5%BD%E5%BF%83%E6%8C%89%E6%91%A9%E8%87%B4%E4%B8%88%E5%A4%AB%E5%B0%8F%E8%84%91%E6%A2%97%E6%AD%BB%23" target="weibo">
-妻子好心按摩致丈夫小脑梗死（热度：453124）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752631753051,
+  "endTime": 1752633227044,
   "band_list": [
     {
       "raw_hot": 1614537,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1238137,
-      "num": 1238137,
+      "raw_hot": 1475053,
+      "num": 1475053,
       "word": "开空调最好别低于这个温度",
       "onboard_time": 1752628160,
       "rank": 1,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1144068,
-      "num": 247712,
+      "num": 265571,
       "word": "泰国女子与高僧发生关系后拍5600段视频",
       "onboard_time": 1752578842,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 819641,
+      "num": 261389,
+      "word": "赵露思的狗冲着主持人一直叫",
+      "onboard_time": 1752630920,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732915,
       "num": 563086,
       "word": "朱正廷家里着火了",
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405959,
-      "num": 233376,
-      "word": "赵露思的狗冲着主持人一直叫",
-      "onboard_time": 1752630920,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 393728,
       "num": 232383,
       "word": "比爹妈还在乎你生死的人出现了",
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 387852,
-      "num": 222683,
+      "num": 343698,
       "word": "印度男子离婚后泼4桶牛奶沐浴",
       "onboard_time": 1752628640,
       "rank": 14,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 360184,
-      "num": 222222,
+      "num": 248409,
       "word": "朱正廷发长文",
       "onboard_time": 1752625462,
       "rank": 15,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286607,
+      "num": 286607,
+      "word": "李晟逐渐接受妈妈称号",
+      "onboard_time": 1752630980,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277146,
       "num": 177392,
       "word": "演员房子斌杨雨婷回应女儿高考成绩",
@@ -164,11 +172,27 @@
     },
     {
       "raw_hot": 273165,
-      "num": 213521,
+      "num": 248002,
       "word": "妈妈被娃突然抱起重重摔倒在地",
       "onboard_time": 1752622639,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266724,
+      "num": 266724,
+      "word": "未来一周热热热热热热热",
+      "onboard_time": 1752632540,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265868,
+      "num": 205987,
+      "word": "杨威吐槽岳母高温天关空调",
+      "onboard_time": 1752630500,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 260537,
@@ -209,14 +233,6 @@
       "onboard_time": 1752574042,
       "rank": 8,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 212162,
-      "num": 205987,
-      "word": "杨威吐槽岳母高温天关空调",
-      "onboard_time": 1752630500,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 210411,
@@ -291,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172011,
+      "num": 172011,
+      "word": "印度ModelY起售价约49.9万元",
+      "onboard_time": 1752630621,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168656,
       "num": 187198,
       "word": "赵露思直播",
@@ -315,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165284,
-      "num": 165284,
-      "word": "印度ModelY起售价约49.9万元",
-      "onboard_time": 1752630621,
-      "rank": 30,
-      "category": "汽车"
+      "raw_hot": 165654,
+      "num": 165654,
+      "word": "王源三巡全站官宣",
+      "onboard_time": 1752632600,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 164060,
@@ -376,14 +400,6 @@
       "word": "张云龙背后好大一夹子",
       "onboard_time": 1752590484,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127149,
-      "num": 166371,
-      "word": "李晟逐渐接受妈妈称号",
-      "onboard_time": 1752630980,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -459,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113572,
+      "num": 113572,
+      "word": "失去魅力的行为",
+      "onboard_time": 1752627201,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112831,
+      "num": 112831,
+      "word": "吃瓜是真的可以延缓衰老",
+      "onboard_time": 1752632840,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109118,
       "num": 109118,
       "word": "黄仁勋回应大热天穿皮夹克",
@@ -475,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107767,
+      "num": 107767,
+      "word": "摄影师说遇见七七是一眼万年",
+      "onboard_time": 1752623720,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107028,
       "num": 107028,
       "word": "书卷一梦",
@@ -483,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106859,
-      "num": 106859,
-      "word": "摄影师说遇见七七是一眼万年",
-      "onboard_time": 1752623720,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 106703,
+      "num": 106703,
+      "word": "你永远不知道堵车的源头是啥",
+      "onboard_time": 1752632719,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 102634,
@@ -515,12 +555,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100265,
-      "num": 100265,
+      "raw_hot": 100785,
+      "num": 100785,
       "word": "家里最易滋生霉菌的5个地方",
       "onboard_time": 1752631221,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98008,
+      "num": 98008,
+      "word": "社会化程度高的人都听得懂潜台词",
+      "onboard_time": 1752629480,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 97287,
+      "num": 98027,
+      "word": "挖煤小伙努力多年逆袭成博士",
+      "onboard_time": 1752628160,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97033,
@@ -531,14 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96467,
-      "num": 96467,
-      "word": "挖煤小伙努力多年逆袭成博士",
-      "onboard_time": 1752628160,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95548,
       "num": 243062,
       "word": "一图看中国经济上半年成绩单",
@@ -547,12 +595,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90846,
-      "num": 90846,
-      "word": "社会化程度高的人都听得懂潜台词",
-      "onboard_time": 1752629480,
+      "raw_hot": 92624,
+      "num": 98079,
+      "word": "中国男篮战胜荷兰男篮",
+      "onboard_time": 1752632540,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91115,
+      "num": 91115,
+      "word": "呆米拍的刘宇宁演唱会幕后",
+      "onboard_time": 1752632479,
       "rank": 45,
-      "category": "情感"
+      "category": "演出"
+    },
+    {
+      "raw_hot": 90049,
+      "num": 90049,
+      "word": "易烊千玺林晓杰售后",
+      "onboard_time": 1752632000,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 89505,
@@ -571,12 +635,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86657,
-      "num": 86657,
-      "word": "失去魅力的行为",
-      "onboard_time": 1752627201,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 87385,
+      "num": 188083,
+      "word": "开拓者vs鹈鹕",
+      "onboard_time": 1752631582,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86726,
+      "num": 100793,
+      "word": "2025上半年电视剧收视盘点",
+      "onboard_time": 1752631759,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85814,
+      "num": 85814,
+      "word": "丑猫小小年纪就一把年纪",
+      "onboard_time": 1752633082,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85807,
@@ -731,12 +811,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58335,
+      "num": 98175,
+      "word": "中国女排世锦赛24人名单",
+      "onboard_time": 1752629480,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42764,
       "num": 47164,
       "word": "梓渝内娱唯一线面塑",
       "onboard_time": 1752598399,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36535,
+      "num": 864092,
+      "word": "净网2025代抢录入小心票圈陷阱",
+      "onboard_time": 1752631641,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33488,
@@ -787,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27972,
-      "num": 188083,
-      "word": "开拓者vs鹈鹕",
-      "onboard_time": 1752631582,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22479,
       "num": 169683,
       "word": "骗子恐吓老人是全国二号重犯",
@@ -827,11 +915,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 11824,
-      "num": 864092,
-      "word": "净网2025代抢录入小心票圈陷阱",
-      "onboard_time": 1752631641,
-      "rank": 2,
+      "raw_hot": 9418,
+      "num": 102576,
+      "word": "一男子骑车未戴头盔遇交警查处时死亡",
+      "onboard_time": 1752633141,
+      "rank": 33,
       "category": "民生新闻"
     }
   ],

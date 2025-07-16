@@ -1,0 +1,410 @@
+{
+  "runTime": 1752633227044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1475053,
+        "num": 1475053,
+        "word": "开空调最好别低于这个温度",
+        "onboard_time": 1752628160,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 515850,
+        "num": 515850,
+        "word": "分尸华人妻子的美富二代狱中自杀",
+        "onboard_time": 1752620599,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36535,
+        "num": 466411,
+        "word": "净网2025代抢录入小心票圈陷阱",
+        "onboard_time": 1752631641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417265,
+        "num": 417265,
+        "word": "朱正廷家里着火了",
+        "onboard_time": 1752590484,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 407268,
+        "num": 407268,
+        "word": "雪糕刺客真的凉凉了",
+        "onboard_time": 1752597379,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1188482,
+        "num": 398783,
+        "word": "1岁工作22岁退休喜提69万退休金",
+        "onboard_time": 1752628640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386844,
+        "num": 386844,
+        "word": "魏笑 赵露思",
+        "onboard_time": 1752593423,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343698,
+        "num": 343698,
+        "word": "印度男子离婚后泼4桶牛奶沐浴",
+        "onboard_time": 1752628640,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286607,
+        "num": 286607,
+        "word": "李晟逐渐接受妈妈称号",
+        "onboard_time": 1752630980,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266724,
+        "num": 266724,
+        "word": "未来一周热热热热热热热",
+        "onboard_time": 1752632540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798042,
+        "num": 265571,
+        "word": "泰国女子与高僧发生关系后拍5600段视频",
+        "onboard_time": 1752578842,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 819641,
+        "num": 261389,
+        "word": "赵露思的狗冲着主持人一直叫",
+        "onboard_time": 1752630920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248409,
+        "num": 248409,
+        "word": "朱正廷发长文",
+        "onboard_time": 1752625462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248002,
+        "num": 248002,
+        "word": "妈妈被娃突然抱起重重摔倒在地",
+        "onboard_time": 1752622639,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236115,
+        "num": 236115,
+        "word": "中国父子德国一景点溺亡",
+        "onboard_time": 1752623421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225330,
+        "num": 225330,
+        "word": "山姆线上已下架好丽友",
+        "onboard_time": 1752583342,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193552,
+        "num": 193552,
+        "word": "比爹妈还在乎你生死的人出现了",
+        "onboard_time": 1752624382,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172011,
+        "num": 172011,
+        "word": "印度ModelY起售价约49.9万元",
+        "onboard_time": 1752630621,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165654,
+        "num": 165654,
+        "word": "王源三巡全站官宣",
+        "onboard_time": 1752632600,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163903,
+        "num": 163903,
+        "word": "陆毅鲍蕾太会养女儿了",
+        "onboard_time": 1752591143,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265868,
+        "num": 163213,
+        "word": "杨威吐槽岳母高温天关空调",
+        "onboard_time": 1752630500,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162078,
+        "num": 162078,
+        "word": "赛琳娜将于9月结婚",
+        "onboard_time": 1752621378,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148097,
+        "num": 148097,
+        "word": "藏海传跻身上半年电视剧三榜单",
+        "onboard_time": 1752631221,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147900,
+        "num": 147900,
+        "word": "奇迹暖暖",
+        "onboard_time": 1752630861,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145940,
+        "num": 145940,
+        "word": "提升幸福感的夏日小事",
+        "onboard_time": 1752627683,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134612,
+        "num": 134612,
+        "word": "山姆回应一女子脚踩取冰机内取冰",
+        "onboard_time": 1752590004,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132376,
+        "num": 132376,
+        "word": "日本地震",
+        "onboard_time": 1752591924,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113572,
+        "num": 113572,
+        "word": "失去魅力的行为",
+        "onboard_time": 1752627201,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112831,
+        "num": 112831,
+        "word": "吃瓜是真的可以延缓衰老",
+        "onboard_time": 1752632840,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100752,
+        "num": 111198,
+        "word": "梓渝长沙vlog",
+        "onboard_time": 1752623000,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110946,
+        "num": 110946,
+        "word": "境外势力用AI生成假视频制造恐慌",
+        "onboard_time": 1752627922,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107767,
+        "num": 107767,
+        "word": "摄影师说遇见七七是一眼万年",
+        "onboard_time": 1752623720,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106703,
+        "num": 106703,
+        "word": "你永远不知道堵车的源头是啥",
+        "onboard_time": 1752632719,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9418,
+        "num": 102576,
+        "word": "一男子骑车未戴头盔遇交警查处时死亡",
+        "onboard_time": 1752633141,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94238,
+        "num": 101411,
+        "word": "到底谁给赵今麦做的妆造",
+        "onboard_time": 1752598818,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100837,
+        "num": 100837,
+        "word": "特朗普称8月1日开始征新关税",
+        "onboard_time": 1752625162,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86726,
+        "num": 100793,
+        "word": "2025上半年电视剧收视盘点",
+        "onboard_time": 1752631759,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100785,
+        "num": 100785,
+        "word": "家里最易滋生霉菌的5个地方",
+        "onboard_time": 1752631221,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58335,
+        "num": 98175,
+        "word": "中国女排世锦赛24人名单",
+        "onboard_time": 1752629480,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92624,
+        "num": 98079,
+        "word": "中国男篮战胜荷兰男篮",
+        "onboard_time": 1752632540,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97287,
+        "num": 98027,
+        "word": "挖煤小伙努力多年逆袭成博士",
+        "onboard_time": 1752628160,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98008,
+        "num": 98008,
+        "word": "社会化程度高的人都听得懂潜台词",
+        "onboard_time": 1752629480,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97585,
+        "num": 97585,
+        "word": "俄男子从28米高悬崖跳水当场身亡",
+        "onboard_time": 1752624082,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94501,
+        "num": 94501,
+        "word": "打砸记者摄像机被列为刑事案件",
+        "onboard_time": 1752596061,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91299,
+        "num": 91299,
+        "word": "坐后备箱数小时男孩抚养权已变更",
+        "onboard_time": 1752593423,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91115,
+        "num": 91115,
+        "word": "呆米拍的刘宇宁演唱会幕后",
+        "onboard_time": 1752632479,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90049,
+        "num": 90049,
+        "word": "易烊千玺林晓杰售后",
+        "onboard_time": 1752632000,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88489,
+        "num": 88489,
+        "word": "警方通报记者设备被砸",
+        "onboard_time": 1752596061,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87385,
+        "num": 87385,
+        "word": "开拓者vs鹈鹕",
+        "onboard_time": 1752631582,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85814,
+        "num": 85814,
+        "word": "丑猫小小年纪就一把年纪",
+        "onboard_time": 1752633082,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方致力于把上合组织做实做强#"
+    }
+  }
+}
