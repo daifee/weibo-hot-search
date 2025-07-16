@@ -1,0 +1,410 @@
+{
+  "runTime": 1752631753051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1614537,
+        "num": 1614537,
+        "word": "1岁工作22岁退休喜提69万退休金",
+        "onboard_time": 1752628640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1238137,
+        "num": 1238137,
+        "word": "开空调最好别低于这个温度",
+        "onboard_time": 1752628160,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 11824,
+        "num": 864092,
+        "word": "净网2025代抢录入小心票圈陷阱",
+        "onboard_time": 1752631641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643082,
+        "num": 643082,
+        "word": "分尸华人妻子的美富二代狱中自杀",
+        "onboard_time": 1752620599,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 563086,
+        "num": 563086,
+        "word": "朱正廷家里着火了",
+        "onboard_time": 1752590484,
+        "rank": 4,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 496298,
+        "num": 496298,
+        "word": "雪糕刺客真的凉凉了",
+        "onboard_time": 1752597379,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465634,
+        "num": 465634,
+        "word": "魏笑 赵露思",
+        "onboard_time": 1752593423,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275958,
+        "num": 275958,
+        "word": "中国父子德国一景点溺亡",
+        "onboard_time": 1752623421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254144,
+        "num": 254144,
+        "word": "山姆线上已下架好丽友",
+        "onboard_time": 1752583342,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102568,
+        "num": 250544,
+        "word": "最全高校资助手册",
+        "onboard_time": 1752627861,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 931072,
+        "num": 247712,
+        "word": "泰国女子与高僧发生关系后拍5600段视频",
+        "onboard_time": 1752578842,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95548,
+        "num": 243062,
+        "word": "一图看中国经济上半年成绩单",
+        "onboard_time": 1752628402,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405959,
+        "num": 233376,
+        "word": "赵露思的狗冲着主持人一直叫",
+        "onboard_time": 1752630920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393728,
+        "num": 232383,
+        "word": "比爹妈还在乎你生死的人出现了",
+        "onboard_time": 1752624382,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387852,
+        "num": 222683,
+        "word": "印度男子离婚后泼4桶牛奶沐浴",
+        "onboard_time": 1752628640,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 360184,
+        "num": 222222,
+        "word": "朱正廷发长文",
+        "onboard_time": 1752625462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273165,
+        "num": 213521,
+        "word": "妈妈被娃突然抱起重重摔倒在地",
+        "onboard_time": 1752622639,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211583,
+        "num": 211583,
+        "word": "陆毅鲍蕾太会养女儿了",
+        "onboard_time": 1752591143,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197982,
+        "num": 207649,
+        "word": "赛琳娜将于9月结婚",
+        "onboard_time": 1752621378,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164060,
+        "num": 206228,
+        "word": "藏海传跻身上半年电视剧三榜单",
+        "onboard_time": 1752631221,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212162,
+        "num": 205987,
+        "word": "杨威吐槽岳母高温天关空调",
+        "onboard_time": 1752630500,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204858,
+        "num": 204858,
+        "word": "日本地震",
+        "onboard_time": 1752591924,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189043,
+        "num": 189043,
+        "word": "奇迹暖暖",
+        "onboard_time": 1752630861,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27972,
+        "num": 188083,
+        "word": "开拓者vs鹈鹕",
+        "onboard_time": 1752631582,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188062,
+        "num": 188062,
+        "word": "提升幸福感的夏日小事",
+        "onboard_time": 1752627683,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166569,
+        "num": 166569,
+        "word": "境外势力用AI生成假视频制造恐慌",
+        "onboard_time": 1752627922,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127149,
+        "num": 166371,
+        "word": "李晟逐渐接受妈妈称号",
+        "onboard_time": 1752630980,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122986,
+        "num": 166112,
+        "word": "梓渝长沙vlog",
+        "onboard_time": 1752623000,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120179,
+        "num": 165831,
+        "word": "易烊千玺再次恭喜春和",
+        "onboard_time": 1752622820,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119341,
+        "num": 165293,
+        "word": "演员房子斌杨雨婷回应女儿高考成绩",
+        "onboard_time": 1752613153,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165284,
+        "num": 165284,
+        "word": "印度ModelY起售价约49.9万元",
+        "onboard_time": 1752630621,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146143,
+        "num": 146143,
+        "word": "山姆回应一女子脚踩取冰机内取冰",
+        "onboard_time": 1752590004,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123558,
+        "num": 123558,
+        "word": "特朗普称8月1日开始征新关税",
+        "onboard_time": 1752625162,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120145,
+        "num": 120145,
+        "word": "俄男子从28米高悬崖跳水当场身亡",
+        "onboard_time": 1752624082,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117883,
+        "num": 117883,
+        "word": "坐后备箱数小时男孩抚养权已变更",
+        "onboard_time": 1752593423,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115380,
+        "num": 115380,
+        "word": "打砸记者摄像机被列为刑事案件",
+        "onboard_time": 1752596061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112596,
+        "num": 112596,
+        "word": "人民日报评餐馆发视频拟被罚45万事件",
+        "onboard_time": 1752599898,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107028,
+        "num": 107028,
+        "word": "书卷一梦",
+        "onboard_time": 1752626602,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106859,
+        "num": 106859,
+        "word": "摄影师说遇见七七是一眼万年",
+        "onboard_time": 1752623720,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100768,
+        "num": 100768,
+        "word": "关晓彤减肥秘诀是断糖少吃多运动",
+        "onboard_time": 1752610094,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100265,
+        "num": 100265,
+        "word": "家里最易滋生霉菌的5个地方",
+        "onboard_time": 1752631221,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98307,
+        "num": 98307,
+        "word": "到底谁给赵今麦做的妆造",
+        "onboard_time": 1752598818,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96467,
+        "num": 96467,
+        "word": "挖煤小伙努力多年逆袭成博士",
+        "onboard_time": 1752628160,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96402,
+        "num": 96402,
+        "word": "下周就要生发现月子中心没了",
+        "onboard_time": 1752589703,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95735,
+        "num": 95735,
+        "word": "警方通报记者设备被砸",
+        "onboard_time": 1752596061,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90846,
+        "num": 90846,
+        "word": "社会化程度高的人都听得懂潜台词",
+        "onboard_time": 1752629480,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87088,
+        "num": 87088,
+        "word": "奶奶不舍得开空调孙女一招瞒天过海",
+        "onboard_time": 1752580582,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86657,
+        "num": 86657,
+        "word": "失去魅力的行为",
+        "onboard_time": 1752627201,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85177,
+        "num": 85177,
+        "word": "工行高管实名举报妻子出轨健身教练",
+        "onboard_time": 1752584302,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83973,
+        "num": 83973,
+        "word": "普通人买房后的真实感受",
+        "onboard_time": 1752591682,
+        "rank": 49,
+        "category": "情感,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中方致力于把上合组织做实做强#"
+    }
+  }
+}
