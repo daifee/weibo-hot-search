@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752638547266,
+  "endTime": 1752639130972,
   "band_list": [
     {
       "raw_hot": 1614537,
@@ -19,8 +19,16 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 1180498,
-      "num": 386662,
+      "raw_hot": 1459742,
+      "num": 1459742,
+      "word": "京东取消外卖超时20分钟免单",
+      "onboard_time": 1752638121,
+      "rank": 1,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1354339,
+      "num": 433143,
       "word": "公司烂不烂请个假就知道了",
       "onboard_time": 1752635300,
       "rank": 10,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1144068,
-      "num": 385964,
+      "num": 430581,
       "word": "泰国女子与高僧发生关系后拍5600段视频",
       "onboard_time": 1752578842,
       "rank": 10,
@@ -59,20 +67,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 985713,
-      "num": 985713,
-      "word": "京东取消外卖超时20分钟免单",
-      "onboard_time": 1752638121,
-      "rank": 1,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 973396,
       "num": 1003677,
       "word": "雪糕刺客真的凉凉了",
       "onboard_time": 1752597379,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 962290,
+      "num": 962290,
+      "word": "胡歌肖战将合作",
+      "onboard_time": 1752637521,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 831877,
@@ -83,8 +91,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 819641,
-      "num": 371056,
+      "raw_hot": 831825,
+      "num": 831825,
+      "word": "预制菜全面攻占了农村宴席",
+      "onboard_time": 1752635541,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 819711,
+      "num": 395678,
       "word": "赵露思的狗冲着主持人一直叫",
       "onboard_time": 1752630920,
       "rank": 12,
@@ -97,14 +113,6 @@
       "onboard_time": 1752590484,
       "rank": 4,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 720609,
-      "num": 720609,
-      "word": "预制菜全面攻占了农村宴席",
-      "onboard_time": 1752635541,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 708983,
@@ -123,20 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 563604,
-      "num": 563604,
-      "word": "胡歌肖战将合作",
-      "onboard_time": 1752637521,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 549250,
       "num": 549250,
       "word": "小芳出嫁官宣",
       "onboard_time": 1752634760,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 525921,
+      "num": 525921,
+      "word": "金价",
+      "onboard_time": 1752637882,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 486160,
@@ -171,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 388695,
+      "num": 434537,
+      "word": "36岁男子因糖尿病引发心衰去世",
+      "onboard_time": 1752638121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387852,
       "num": 343698,
       "word": "印度男子离婚后泼4桶牛奶沐浴",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 373768,
-      "num": 373768,
+      "num": 436799,
       "word": "未来一周热热热热热热热",
       "onboard_time": 1752632540,
       "rank": 9,
@@ -193,6 +209,14 @@
       "onboard_time": 1752635960,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368691,
+      "num": 425375,
+      "word": "张凯丽女儿回应皇族传闻",
+      "onboard_time": 1752636501,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 360184,
@@ -211,12 +235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334260,
-      "num": 334260,
-      "word": "张凯丽女儿回应皇族传闻",
-      "onboard_time": 1752636501,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 335340,
+      "num": 335340,
+      "word": "王影璐竟然开始演妈妈角色了",
+      "onboard_time": 1752637102,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 330320,
@@ -225,22 +249,6 @@
       "onboard_time": 1752590004,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320193,
-      "num": 371197,
-      "word": "36岁男子因糖尿病引发心衰去世",
-      "onboard_time": 1752638121,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315240,
-      "num": 315240,
-      "word": "王影璐竟然开始演妈妈角色了",
-      "onboard_time": 1752637102,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 301059,
@@ -259,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289651,
-      "num": 289651,
-      "word": "金价",
-      "onboard_time": 1752637882,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 296535,
+      "num": 296535,
+      "word": "杨瀚森开局三分",
+      "onboard_time": 1752637462,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 288730,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268844,
+      "num": 268844,
+      "word": "决不允许一边赚大陆钱一边支持台独",
+      "onboard_time": 1752635360,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 265868,
       "num": 205987,
       "word": "杨威吐槽岳母高温天关空调",
@@ -329,14 +345,6 @@
       "onboard_time": 1752584302,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253873,
-      "num": 253873,
-      "word": "决不允许一边赚大陆钱一边支持台独",
-      "onboard_time": 1752635360,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 242147,
@@ -355,8 +363,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219047,
-      "num": 219047,
+      "raw_hot": 236233,
+      "num": 236233,
       "word": "成毅狐妖小红娘王权篇ID",
       "onboard_time": 1752636801,
       "rank": 28,
@@ -371,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215834,
+      "num": 215834,
+      "word": "谁在上海给二次元包了一座痛岛",
+      "onboard_time": 1752638782,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 214260,
       "num": 279976,
       "word": "佛山顺德区确诊478例基孔肯雅热",
       "onboard_time": 1752574042,
       "rank": 8,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 214064,
+      "num": 214064,
+      "word": "许嵩 格洛米GROMI",
+      "onboard_time": 1752638302,
+      "rank": 32,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 210411,
@@ -387,20 +411,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 204908,
+      "num": 204908,
+      "word": "全明星助阵爱奇艺717",
+      "onboard_time": 1752638121,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203157,
       "num": 203157,
       "word": "战至巅峰4定档官宣",
       "onboard_time": 1752637342,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200815,
-      "num": 200815,
-      "word": "许嵩 格洛米GROMI",
-      "onboard_time": 1752638302,
-      "rank": 32,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 195010,
@@ -435,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189621,
-      "num": 265298,
-      "word": "杨瀚森开局三分",
-      "onboard_time": 1752637462,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 192046,
+      "num": 192046,
+      "word": "猫 一定要穿成这样吗",
+      "onboard_time": 1752638302,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 189043,
@@ -449,6 +473,14 @@
       "onboard_time": 1752630861,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188554,
+      "num": 188554,
+      "word": "女子强装富二代打赏男演员五十余万",
+      "onboard_time": 1752636321,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188062,
@@ -464,14 +496,6 @@
       "word": "打一针返老还童的童颜针卖了30亿",
       "onboard_time": 1752593723,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187479,
-      "num": 187479,
-      "word": "女子强装富二代打赏男演员五十余万",
-      "onboard_time": 1752636321,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -497,6 +521,14 @@
       "onboard_time": 1752637641,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173909,
+      "num": 409597,
+      "word": "刘宇宁出舱门撞到头",
+      "onboard_time": 1752638362,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 173222,
@@ -539,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166522,
+      "num": 166522,
+      "word": "清华毕业生收到的四个offer",
+      "onboard_time": 1752638722,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165654,
       "num": 165654,
       "word": "王源三巡全站官宣",
@@ -555,28 +595,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159500,
-      "num": 159500,
-      "word": "全明星助阵爱奇艺717",
-      "onboard_time": 1752638121,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 148966,
-      "num": 148966,
-      "word": "猫 一定要穿成这样吗",
-      "onboard_time": 1752638302,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "火影忍者中配版上线",
       "onboard_time": 1752637641,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147223,
+      "num": 147223,
+      "word": "蔡徐坤Deadman新歌",
+      "onboard_time": 1752639022,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 143672,
+      "num": 371058,
+      "word": "国台办回应废止一台湾企业登记注册",
+      "onboard_time": 1752635421,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143529,
@@ -611,12 +651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139396,
+      "num": 139396,
+      "word": "孙红雷李乃文欧阳娣娣跳大展鸿图",
+      "onboard_time": 1752638962,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138861,
       "num": 138861,
       "word": "坐后备箱男孩亲妈称被要求赔偿30万",
       "onboard_time": 1752613094,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137357,
+      "num": 137357,
+      "word": "AMD宣布将重启对华出口AI芯片",
+      "onboard_time": 1752638962,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 135127,
@@ -633,14 +689,6 @@
       "onboard_time": 1752590484,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126211,
-      "num": 371058,
-      "word": "国台办回应废止一台湾企业登记注册",
-      "onboard_time": 1752635421,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123558,
@@ -684,7 +732,7 @@
     },
     {
       "raw_hot": 118349,
-      "num": 321046,
+      "num": 402089,
       "word": "舒淇的笑感奶茶",
       "onboard_time": 1752636801,
       "rank": 19,
@@ -819,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99077,
+      "num": 128960,
+      "word": "美财长称英伟达销售H20芯片不存在问题",
+      "onboard_time": 1752638121,
+      "rank": 49,
+      "category": "国际时政,数码"
+    },
+    {
       "raw_hot": 98008,
       "num": 98008,
       "word": "社会化程度高的人都听得懂潜台词",
@@ -907,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87216,
-      "num": 207884,
-      "word": "刘宇宁出舱门撞到头",
-      "onboard_time": 1752638362,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86726,
       "num": 100793,
       "word": "2025上半年电视剧收视盘点",
@@ -961,14 +1009,6 @@
       "onboard_time": 1752587543,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73338,
-      "num": 116246,
-      "word": "美财长称英伟达销售H20芯片不存在问题",
-      "onboard_time": 1752638121,
-      "rank": 49,
-      "category": "国际时政,数码"
     },
     {
       "raw_hot": 72973,
@@ -1116,10 +1156,18 @@
     },
     {
       "raw_hot": 41434,
-      "num": 864092,
+      "num": 968890,
       "word": "净网2025代抢录入小心票圈陷阱",
       "onboard_time": 1752631641,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33538,
+      "num": 395171,
+      "word": "男子寄107万元油卡遭快递员变卖",
+      "onboard_time": 1752638542,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1163,20 +1211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29365,
+      "num": 419888,
+      "word": "国台办谴责台当局识读中国威胁教材",
+      "onboard_time": 1752638482,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28796,
       "num": 103085,
       "word": "特朗普关税大棒又砸向印尼",
       "onboard_time": 1752622761,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26469,
-      "num": 149926,
-      "word": "国台办谴责台当局识读中国威胁教材",
-      "onboard_time": 1752638482,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22479,
@@ -1217,6 +1265,9 @@
     },
     {
       "word": "#中方致力于把上合组织做实做强#"
+    },
+    {
+      "word": "#城市工作要深刻把握主动适应形势变化#"
     }
   ]
 }
