@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752641890897,
+  "endTime": 1752643971341,
   "band_list": [
     {
       "raw_hot": 1759372,
@@ -35,7 +35,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1170475,
+      "raw_hot": 1177229,
       "num": 1170475,
       "word": "金价",
       "onboard_time": 1752637882,
@@ -65,6 +65,14 @@
       "onboard_time": 1752593423,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1109742,
+      "num": 1177558,
+      "word": "16岁女子飞机上分娩疑携带传染病",
+      "onboard_time": 1752642023,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1074936,
@@ -131,6 +139,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 715707,
+      "num": 715707,
+      "word": "易烊千玺是全票通过",
+      "onboard_time": 1752640463,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 708983,
       "num": 708983,
       "word": "男子买排骨嫌贵藏货架隔天变臭肉",
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441358,
+      "num": 441358,
+      "word": "空调 酸臭味",
+      "onboard_time": 1752639681,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 425132,
       "num": 233923,
       "word": "陆毅鲍蕾太会养女儿了",
@@ -211,14 +235,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 383559,
-      "num": 383559,
-      "word": "易烊千玺是全票通过",
-      "onboard_time": 1752640463,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 377819,
       "num": 395171,
       "word": "男子寄107万元油卡遭快递员变卖",
@@ -233,6 +249,14 @@
       "onboard_time": 1752632540,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373413,
+      "num": 373413,
+      "word": "胡歌肖战或将合作",
+      "onboard_time": 1752637521,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 371048,
@@ -281,14 +305,6 @@
       "onboard_time": 1752590004,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330121,
-      "num": 330121,
-      "word": "空调 酸臭味",
-      "onboard_time": 1752639681,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 313033,
@@ -395,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250688,
+      "num": 298065,
+      "word": "多方回应16岁女子疑飞机上带病分娩",
+      "onboard_time": 1752642741,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243638,
+      "num": 243638,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1752643281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242147,
       "num": 207649,
       "word": "赛琳娜将于9月结婚",
@@ -417,6 +449,14 @@
       "onboard_time": 1752636801,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229886,
+      "num": 229886,
+      "word": "宋佳咏梅 甄嬛沈眉庄行礼",
+      "onboard_time": 1752641543,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 218590,
@@ -475,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206199,
+      "num": 206199,
+      "word": "冰湖重生热血群像",
+      "onboard_time": 1752642862,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204908,
       "num": 204908,
       "word": "全明星助阵爱奇艺717",
@@ -489,6 +537,14 @@
       "onboard_time": 1752637342,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201529,
+      "num": 201529,
+      "word": "赵今麦新剧的马尾气得不像演的",
+      "onboard_time": 1752642800,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 196377,
@@ -643,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167485,
+      "num": 167485,
+      "word": "孔雪儿像一颗绸缎光澳白珍珠",
+      "onboard_time": 1752642862,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166761,
       "num": 184714,
       "word": "刘宇宁在开直播 我在看刘宇宁",
@@ -675,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162573,
+      "num": 162573,
+      "word": "原神",
+      "onboard_time": 1752643581,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156958,
+      "num": 156958,
+      "word": "张雪峰公司放暑假19天",
+      "onboard_time": 1752641482,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154567,
       "num": 154567,
       "word": "30多位冠军亮出私藏健身神器",
@@ -689,6 +769,14 @@
       "onboard_time": 1752637641,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147589,
+      "num": 147589,
+      "word": "姚琛第一部古装剧杀青发文",
+      "onboard_time": 1752643641,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 147223,
@@ -795,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129535,
-      "num": 188345,
-      "word": "宋佳咏梅 甄嬛沈眉庄行礼",
-      "onboard_time": 1752641543,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 131314,
+      "num": 131314,
+      "word": "仙侠本速速吻上陈都灵",
+      "onboard_time": 1752643462,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 126970,
@@ -809,6 +897,14 @@
       "onboard_time": 1752641363,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 126185,
+      "num": 126185,
+      "word": "RNG官宣Xiaoxu离队",
+      "onboard_time": 1752643040,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 123558,
@@ -825,6 +921,22 @@
       "onboard_time": 1752623000,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122896,
+      "num": 194375,
+      "word": "店家回应糖水餐具现内增高仅售3元",
+      "onboard_time": 1752642083,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122146,
+      "num": 122146,
+      "word": "国内哪里适合夏季旅居一个月",
+      "onboard_time": 1752642800,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 121964,
@@ -857,14 +969,6 @@
       "onboard_time": 1752637583,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118954,
-      "num": 118954,
-      "word": "张雪峰公司放暑假19天",
-      "onboard_time": 1752641482,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118745,
@@ -921,6 +1025,14 @@
       "onboard_time": 1752582682,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113687,
+      "num": 113687,
+      "word": "36岁男子因病去世23岁妻子说不会改嫁",
+      "onboard_time": 1752643761,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113589,
@@ -987,6 +1099,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105082,
+      "num": 105082,
+      "word": "樱桃琥珀",
+      "onboard_time": 1752642202,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103157,
+      "num": 103157,
+      "word": "kpop考试题",
+      "onboard_time": 1752642442,
+      "rank": 46,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 102634,
       "num": 137437,
       "word": "关晓彤减肥秘诀是断糖少吃多运动",
@@ -1009,6 +1137,22 @@
       "onboard_time": 1752594082,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101213,
+      "num": 102084,
+      "word": "男子挤地铁被判强制猥亵喊冤",
+      "onboard_time": 1752643822,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101069,
+      "num": 101934,
+      "word": "居然有音综的主题曲摇来了TF三代",
+      "onboard_time": 1752643882,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 100785,
@@ -1049,6 +1193,14 @@
       "onboard_time": 1752590064,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96842,
+      "num": 230392,
+      "word": "骗子30元1条出售2.4万条女房东信息",
+      "onboard_time": 1752643281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95548,
