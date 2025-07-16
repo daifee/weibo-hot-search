@@ -1,6 +1,6 @@
 {
   "startTime": 1752597340557,
-  "endTime": 1752645011509,
+  "endTime": 1752648051372,
   "band_list": [
     {
       "raw_hot": 1759372,
@@ -11,8 +11,8 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 1638833,
-      "num": 1638833,
+      "raw_hot": 1641674,
+      "num": 1641674,
       "word": "16岁女子飞机上分娩疑携带传染病",
       "onboard_time": 1752642023,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 977222,
+      "num": 359732,
+      "word": "最佳上床时间",
+      "onboard_time": 1752643641,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 973396,
       "num": 1003677,
       "word": "雪糕刺客真的凉凉了",
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687590,
+      "num": 687590,
+      "word": "钟薛高创始人曾卖红薯还债",
+      "onboard_time": 1752644721,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 657117,
       "num": 657117,
       "word": "36岁男子因糖尿病引发心衰去世",
@@ -169,6 +185,22 @@
       "onboard_time": 1752583342,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 619368,
+      "num": 619368,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1752643281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 592119,
+      "num": 357615,
+      "word": "韦雪前夫前任合体比心",
+      "onboard_time": 1752645622,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 549250,
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478717,
+      "num": 478717,
+      "word": "不要怀疑任何一张能进娱乐圈的脸",
+      "onboard_time": 1752646042,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448087,
       "num": 448087,
       "word": "张凯丽女儿回应皇族传闻",
@@ -227,12 +267,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 415343,
-      "num": 415343,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1752643281,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 407265,
+      "num": 386554,
+      "word": "美高梅中国称向佐欠款已还清",
+      "onboard_time": 1752644601,
+      "rank": 20,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 395114,
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 373721,
-      "num": 243219,
+      "num": 269926,
       "word": "黄子韬因为抢厕所要和徐艺洋分手",
       "onboard_time": 1752644601,
       "rank": 21,
@@ -307,12 +347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345748,
-      "num": 345748,
-      "word": "最佳上床时间",
-      "onboard_time": 1752643641,
-      "rank": 13,
-      "category": "健康医疗"
+      "raw_hot": 352789,
+      "num": 352789,
+      "word": "漠河舞厅老板羡慕隔壁奶茶店爆单",
+      "onboard_time": 1752640222,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346422,
+      "num": 346422,
+      "word": "赵露思胳膊怎么了",
+      "onboard_time": 1752644601,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 343746,
@@ -443,6 +491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265100,
+      "num": 265100,
+      "word": "一句恶心爽了我两个多小时",
+      "onboard_time": 1752645561,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 262592,
+      "num": 262592,
+      "word": "36岁男子因病去世23岁妻子说不会改嫁",
+      "onboard_time": 1752643761,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260537,
       "num": 260537,
       "word": "工行高管实名举报妻子出轨健身教练",
@@ -451,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244849,
-      "num": 243215,
-      "word": "36岁男子因病去世23岁妻子说不会改嫁",
-      "onboard_time": 1752643761,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 247430,
+      "num": 247430,
+      "word": "三伏高效减脂法",
+      "onboard_time": 1752648021,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 242147,
@@ -483,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225199,
-      "num": 243244,
-      "word": "美高梅中国称向佐欠款已还清",
-      "onboard_time": 1752644601,
-      "rank": 20,
-      "category": "艺人,民生新闻"
+      "raw_hot": 226571,
+      "num": 365358,
+      "word": "山姆丢了差异化也就丢了会员",
+      "onboard_time": 1752644001,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218590,
@@ -587,20 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201317,
-      "num": 200251,
-      "word": "赵露思胳膊怎么了",
-      "onboard_time": 1752644601,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201255,
       "num": 201255,
       "word": "原来国产剧可以拍性本恶",
       "onboard_time": 1752644121,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199383,
+      "num": 286138,
+      "word": "刘轩丞大学生简历有啥写啥",
+      "onboard_time": 1752647661,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 196377,
@@ -643,12 +707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192603,
-      "num": 301514,
-      "word": "漠河舞厅老板羡慕隔壁奶茶店爆单",
-      "onboard_time": 1752640222,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 192845,
+      "num": 192845,
+      "word": "京东回应外卖取消超时20分钟免单",
+      "onboard_time": 1752648021,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 192046,
@@ -731,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177431,
+      "num": 177431,
+      "word": "杨紫内娱招商的神",
+      "onboard_time": 1752646700,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177333,
       "num": 177333,
       "word": "短剧卷完甜宠开始卷非遗了",
@@ -755,20 +827,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 171898,
+      "num": 171898,
+      "word": "盼盼回应改英文名上架山姆",
+      "onboard_time": 1752644181,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170934,
       "num": 294368,
       "word": "揭秘古代拐卖少女产业链",
       "onboard_time": 1752640402,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169066,
-      "num": 169066,
-      "word": "盼盼回应改英文名上架山姆",
-      "onboard_time": 1752644181,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168656,
@@ -835,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157820,
+      "num": 157820,
+      "word": "米画师崩了",
+      "onboard_time": 1752647721,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 156958,
       "num": 156958,
       "word": "张雪峰公司放暑假19天",
@@ -849,6 +929,14 @@
       "onboard_time": 1752641123,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152951,
+      "num": 152951,
+      "word": "邓紫棋上海",
+      "onboard_time": 1752646881,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 148205,
@@ -915,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140548,
-      "num": 140548,
-      "word": "钟薛高创始人曾卖红薯还债",
-      "onboard_time": 1752644721,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140387,
       "num": 141697,
       "word": "到底谁给赵今麦做的妆造",
@@ -937,6 +1017,14 @@
       "onboard_time": 1752638962,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138932,
+      "num": 138932,
+      "word": "三亚婚礼偶遇董璇一家",
+      "onboard_time": 1752646700,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 138861,
@@ -995,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130857,
-      "num": 130857,
-      "word": "山姆丢了差异化也就丢了会员",
-      "onboard_time": 1752644001,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126970,
       "num": 126970,
       "word": "门店wifi密码自存",
@@ -1017,6 +1097,14 @@
       "onboard_time": 1752643040,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125133,
+      "num": 180258,
+      "word": "樱桃琥珀 威海",
+      "onboard_time": 1752646343,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 123558,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1752640945,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121615,
+      "num": 121615,
+      "word": "日本防卫白皮书粗暴干涉中国内政",
+      "onboard_time": 1752646343,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120179,
@@ -1235,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104123,
+      "num": 104123,
+      "word": "别指责消费者在山姆买出优越感",
+      "onboard_time": 1752645681,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103157,
       "num": 103157,
       "word": "kpop考试题",
@@ -1257,6 +1361,22 @@
       "onboard_time": 1752627861,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102566,
+      "num": 102566,
+      "word": "宋伊人好适合上学的一张脸",
+      "onboard_time": 1752647901,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101416,
+      "num": 101416,
+      "word": "原神5.8",
+      "onboard_time": 1752645981,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 101215,
@@ -1579,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47406,
+      "num": 119430,
+      "word": "英国网球女将被禁赛4年",
+      "onboard_time": 1752647600,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42764,
       "num": 47164,
       "word": "梓渝内娱唯一线面塑",
@@ -1719,6 +1847,9 @@
     },
     {
       "word": "#改革为了人民#"
+    },
+    {
+      "word": "#城市归根结底是人民的城市#"
     }
   ]
 }
