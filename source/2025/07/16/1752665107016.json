@@ -1,0 +1,410 @@
+{
+  "runTime": 1752665107016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 713097,
+        "num": 1114095,
+        "word": "男子在泰遭撕票抛尸遇害前身影曝光",
+        "onboard_time": 1752658161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539995,
+        "num": 539995,
+        "word": "警方通报3名高中生赴西双版纳后失联",
+        "onboard_time": 1752660680,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 19910,
+        "num": 515348,
+        "word": "高质量发展甘肃行",
+        "onboard_time": 1752640582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493116,
+        "num": 493116,
+        "word": "生父回应让男孩坐后备箱称不会道歉",
+        "onboard_time": 1752656242,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409752,
+        "num": 409752,
+        "word": "西安 玻璃热爆",
+        "onboard_time": 1752659542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384861,
+        "num": 384861,
+        "word": "于正签的上一个未成年素人是宋威龙",
+        "onboard_time": 1752651441,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384415,
+        "num": 384415,
+        "word": "祝绪丹本人来了都得愣两秒",
+        "onboard_time": 1752659722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337984,
+        "num": 337984,
+        "word": "迪丽热巴枭起青壤剧宣",
+        "onboard_time": 1752663741,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269978,
+        "num": 269978,
+        "word": "山姆母公司回应选品问题",
+        "onboard_time": 1752656841,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160346,
+        "num": 269168,
+        "word": "赴西双版纳失联高中生位置显示境外",
+        "onboard_time": 1752663323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 936142,
+        "num": 268595,
+        "word": "边牧手术失败被医院开车撞死",
+        "onboard_time": 1752661401,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355455,
+        "num": 267525,
+        "word": "鸡蛋羹 拌饭",
+        "onboard_time": 1752651682,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324567,
+        "num": 266462,
+        "word": "王星眼神终于不再是惊恐状态了",
+        "onboard_time": 1752658761,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266114,
+        "num": 266114,
+        "word": "小时候常吃的水果消失了",
+        "onboard_time": 1752661462,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126182,
+        "num": 254132,
+        "word": "奈雪的茶瘦瘦瓶瘦瘦指瓶身",
+        "onboard_time": 1752663741,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 246189,
+        "num": 246189,
+        "word": "一句恶心爽了我两个多小时",
+        "onboard_time": 1752645561,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242032,
+        "num": 242032,
+        "word": "男子躲逆行外卖员摔成高位截瘫",
+        "onboard_time": 1752660081,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171689,
+        "num": 171689,
+        "word": "王曼昱和陈熠比高高",
+        "onboard_time": 1752659962,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166048,
+        "num": 166048,
+        "word": "85花编年史",
+        "onboard_time": 1752662001,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140581,
+        "num": 140581,
+        "word": "时代少年团街头抽象采访",
+        "onboard_time": 1752664823,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243996,
+        "num": 140050,
+        "word": "张小婉浪姐毕业后咋美成这样了",
+        "onboard_time": 1752662961,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243494,
+        "num": 138281,
+        "word": "金价",
+        "onboard_time": 1752637882,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58013,
+        "num": 135755,
+        "word": "聊城市人民医院招菲律宾博士引质疑",
+        "onboard_time": 1752664881,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206400,
+        "num": 133864,
+        "word": "长期开空调易导致空调病",
+        "onboard_time": 1752659182,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133795,
+        "num": 133795,
+        "word": "韩昊霖长得好像张若昀啊",
+        "onboard_time": 1752659841,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134177,
+        "num": 133283,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1752643281,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132682,
+        "num": 132682,
+        "word": "黄仁勋称轻视华为的人极其天真",
+        "onboard_time": 1752663501,
+        "rank": 26,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 121984,
+        "num": 121984,
+        "word": "朝雪录",
+        "onboard_time": 1752657981,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119732,
+        "num": 119732,
+        "word": "张凌赫董璇母子对手戏",
+        "onboard_time": 1752664162,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112762,
+        "num": 112762,
+        "word": "钟薛高 红薯刺客",
+        "onboard_time": 1752651502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109720,
+        "num": 109720,
+        "word": "日本向小学分发敌视他国读物",
+        "onboard_time": 1752658401,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109265,
+        "num": 109265,
+        "word": "被狗咬伤男子打伤女主人被判担主责",
+        "onboard_time": 1752661881,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108100,
+        "num": 108100,
+        "word": "七七妈妈出镜多被质疑比女儿更想火",
+        "onboard_time": 1752659182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107903,
+        "num": 107903,
+        "word": "这居然是3unshine组合队长",
+        "onboard_time": 1752648441,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104610,
+        "num": 104610,
+        "word": "李雪琴瘦身后主持首秀",
+        "onboard_time": 1752664761,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27831,
+        "num": 103876,
+        "word": "娜扎不会贴假睫毛",
+        "onboard_time": 1752656182,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103777,
+        "num": 103777,
+        "word": "刘浩存跳舞",
+        "onboard_time": 1752650420,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102822,
+        "num": 102822,
+        "word": "谁来救救女主她已经被勒22小时了",
+        "onboard_time": 1752664823,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102498,
+        "num": 102498,
+        "word": "田曦薇去韩国了",
+        "onboard_time": 1752651200,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101762,
+        "num": 101762,
+        "word": "差点要亲上邓恩熙了",
+        "onboard_time": 1752661701,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101479,
+        "num": 101479,
+        "word": "樊振东厦门见",
+        "onboard_time": 1752663261,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98269,
+        "num": 98269,
+        "word": "巨瘦肚子的7天有效法",
+        "onboard_time": 1752651981,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 94512,
+        "num": 94512,
+        "word": "这就是传说中的晋江糙汉男主吗",
+        "onboard_time": 1752663561,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92514,
+        "num": 92514,
+        "word": "盘点最有饭张力的晚餐",
+        "onboard_time": 1752662420,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93317,
+        "num": 91767,
+        "word": "迪丽热巴将录制Hi6",
+        "onboard_time": 1752657861,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90792,
+        "num": 90792,
+        "word": "支付宝闪退",
+        "onboard_time": 1752658042,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88943,
+        "num": 88943,
+        "word": "关晓彤烤完的鱼皮焦焦的",
+        "onboard_time": 1752655401,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88304,
+        "num": 88304,
+        "word": "央视曝App小程序成隐私刺客",
+        "onboard_time": 1752656361,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 80761,
+        "num": 80761,
+        "word": "花少这个路透",
+        "onboard_time": 1752654201,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80467,
+        "num": 80467,
+        "word": "你永远猜不到同事能闯多大祸",
+        "onboard_time": 1752659841,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}
