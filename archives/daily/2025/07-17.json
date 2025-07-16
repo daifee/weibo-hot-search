@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752702145536,
+  "endTime": 1752704840174,
   "band_list": [
     {
       "raw_hot": 1208170,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255385,
+      "num": 410931,
+      "word": "黄杨钿甜父亲故意隐瞒违法生二孩",
+      "onboard_time": 1752672562,
+      "rank": 4,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 229717,
       "num": 229717,
       "word": "小时候常吃的水果消失了",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 213488,
-      "num": 115078,
+      "num": 116368,
       "word": "33岁最近3年没有体检",
       "onboard_time": 1752682640,
       "rank": 30,
@@ -139,14 +147,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 172252,
-      "num": 198261,
-      "word": "黄杨钿甜父亲故意隐瞒违法生二孩",
-      "onboard_time": 1752672562,
-      "rank": 4,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 168862,
       "num": 168862,
       "word": "外卖大战男子每天喝5杯奶茶进医院",
@@ -171,6 +171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 146722,
+      "num": 62401,
+      "word": "酷似林依晨女孩被心仪大学录取",
+      "onboard_time": 1752689295,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 128747,
       "num": 118904,
       "word": "余茵是真的听劝",
@@ -193,6 +201,14 @@
       "onboard_time": 1752661401,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121394,
+      "num": 60574,
+      "word": "醒醒现在是2006年",
+      "onboard_time": 1752696374,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 111312,
@@ -249,14 +265,6 @@
       "onboard_time": 1752682041,
       "rank": 25,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 86237,
-      "num": 29712,
-      "word": "醒醒现在是2006年",
-      "onboard_time": 1752696374,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 85017,
@@ -321,14 +329,6 @@
       "onboard_time": 1752671061,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70251,
-      "num": 46865,
-      "word": "酷似林依晨女孩被心仪大学录取",
-      "onboard_time": 1752689295,
-      "rank": 17,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 69716,
@@ -483,12 +483,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44903,
+      "num": 42205,
+      "word": "黄杨钿甜耳环购自深圳水贝",
+      "onboard_time": 1752703576,
+      "rank": 20,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 29953,
+      "num": 31886,
+      "word": "韩国家长为内推名校组队偷试卷被拘",
+      "onboard_time": 1752698173,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28432,
       "num": 46959,
       "word": "燕迟不延迟",
       "onboard_time": 1752687377,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25428,
+      "num": 31881,
+      "word": "舔个毛差点送走自己",
+      "onboard_time": 1752702855,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 22165,
@@ -515,12 +539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17899,
-      "num": 20856,
-      "word": "韩国家长为内推名校组队偷试卷被拘",
-      "onboard_time": 1752698173,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 17086,
+      "num": 31866,
+      "word": "汉语言和历史的就业方向找到了",
+      "onboard_time": 1752694274,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 16710,
@@ -547,20 +571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15747,
-      "num": 20856,
-      "word": "汉语言和历史的就业方向找到了",
-      "onboard_time": 1752694274,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 13577,
-      "num": 20856,
+      "raw_hot": 15685,
+      "num": 31863,
       "word": "于适说新疆话",
       "onboard_time": 1752688156,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14699,
+      "num": 31860,
+      "word": "好感和喜欢最多存在四个月",
+      "onboard_time": 1752704295,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12389,
@@ -571,8 +595,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10080,
-      "num": 86286,
+      "raw_hot": 10198,
+      "num": 166686,
       "word": "辉煌60载魅力新西藏",
       "onboard_time": 1752677244,
       "rank": 2,
