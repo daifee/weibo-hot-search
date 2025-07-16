@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752686848188,
+  "endTime": 1752687991420,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -50387,6 +50387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55556,
+      "num": 55556,
+      "word": "黄杨钿甜家没有人从政",
+      "onboard_time": 1752687676,
+      "rank": 23,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 55280,
       "num": 55280,
       "word": "权恩妃好辣",
@@ -53713,6 +53721,14 @@
       "onboard_time": 1751664914,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28432,
+      "num": 46959,
+      "word": "燕迟不延迟",
+      "onboard_time": 1752687377,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 28390,

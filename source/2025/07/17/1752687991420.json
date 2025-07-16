@@ -1,0 +1,410 @@
+{
+  "runTime": 1752687991420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 263587,
+        "num": 358580,
+        "word": "官方呼吁不要对16岁产妇二次伤害",
+        "onboard_time": 1752673042,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250024,
+        "num": 250024,
+        "word": "关晓彤你不瘦谁瘦",
+        "onboard_time": 1752679282,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14803,
+        "num": 222777,
+        "word": "微观链博会",
+        "onboard_time": 1752677902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214818,
+        "num": 214818,
+        "word": "演唱会前夕亲人离世平台拒退票",
+        "onboard_time": 1752674243,
+        "rank": 3,
+        "category": "舆论监督,演出"
+      },
+      {
+        "raw_hot": 132187,
+        "num": 132187,
+        "word": "黄杨钿甜父亲故意隐瞒违法生二孩",
+        "onboard_time": 1752672562,
+        "rank": 4,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 112989,
+        "num": 112989,
+        "word": "浙江一地可穿汉服拍身份证照片",
+        "onboard_time": 1752681681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107967,
+        "num": 107967,
+        "word": "朝雪录热度",
+        "onboard_time": 1752682280,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97668,
+        "num": 97668,
+        "word": "小时候常吃的水果消失了",
+        "onboard_time": 1752661462,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90835,
+        "num": 90835,
+        "word": "韩红现场叫停录制说要对观众负责",
+        "onboard_time": 1752677063,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83697,
+        "num": 83697,
+        "word": "南京闪电",
+        "onboard_time": 1752676582,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199173,
+        "num": 83685,
+        "word": "33岁最近3年没有体检",
+        "onboard_time": 1752682640,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181689,
+        "num": 83145,
+        "word": "印度大规模猥亵事件478人被捕",
+        "onboard_time": 1752672923,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87468,
+        "num": 82239,
+        "word": "歌手第十期歌单",
+        "onboard_time": 1752679942,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86627,
+        "num": 81728,
+        "word": "白鹿后援会致莫离剧组",
+        "onboard_time": 1752679762,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81536,
+        "num": 81536,
+        "word": "王皓替大鹏领奖",
+        "onboard_time": 1752681200,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74088,
+        "num": 74088,
+        "word": "外卖大战男子每天喝5杯奶茶进医院",
+        "onboard_time": 1752675683,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72462,
+        "num": 72462,
+        "word": "田栩宁轮流宠",
+        "onboard_time": 1752674362,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70417,
+        "num": 70417,
+        "word": "边牧手术失败被医院开车撞死",
+        "onboard_time": 1752661401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70195,
+        "num": 70195,
+        "word": "网传R1SE披哥二公踢馆",
+        "onboard_time": 1752679282,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64010,
+        "num": 68558,
+        "word": "美团高管称外卖爆单大都是泡沫",
+        "onboard_time": 1752676942,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70744,
+        "num": 68121,
+        "word": "BW恋与深空",
+        "onboard_time": 1752684917,
+        "rank": 20,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 67616,
+        "num": 67616,
+        "word": "杨幂长安的荔枝人生镜头",
+        "onboard_time": 1752682462,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67538,
+        "num": 67538,
+        "word": "关晓彤cha了沈佳润的美美桑内",
+        "onboard_time": 1752679282,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55556,
+        "num": 55556,
+        "word": "黄杨钿甜家没有人从政",
+        "onboard_time": 1752687676,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 53732,
+        "num": 53732,
+        "word": "男子回应抓知了猴一晚收入可过万",
+        "onboard_time": 1752685278,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50093,
+        "num": 50093,
+        "word": "余茵是真的听劝",
+        "onboard_time": 1752679282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48584,
+        "num": 48584,
+        "word": "钟美美说爸爸不喜欢我总打我",
+        "onboard_time": 1752670883,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47030,
+        "num": 47030,
+        "word": "1个动作改善脊柱侧弯",
+        "onboard_time": 1752682400,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 44121,
+        "num": 47028,
+        "word": "阿娇打电话质问吴京",
+        "onboard_time": 1752665902,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42811,
+        "num": 47024,
+        "word": "马嘉祺沉默是最狠的狠话",
+        "onboard_time": 1752682041,
+        "rank": 29,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 40529,
+        "num": 47023,
+        "word": "丁禹兮30岁生日应援",
+        "onboard_time": 1752683300,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38943,
+        "num": 47015,
+        "word": "梓渝一个月涨粉500w",
+        "onboard_time": 1752667824,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38793,
+        "num": 47014,
+        "word": "男子与女友发生口角后刺死女友",
+        "onboard_time": 1752673583,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35807,
+        "num": 47008,
+        "word": "生父回应让男孩坐后备箱称不会道歉",
+        "onboard_time": 1752656242,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34665,
+        "num": 47004,
+        "word": "山姆如何稳住500万会员",
+        "onboard_time": 1752676761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34593,
+        "num": 47004,
+        "word": "大鹏说杨幂天选李善德夫人",
+        "onboard_time": 1752682520,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33198,
+        "num": 46999,
+        "word": "男子在泰遭撕票抛尸遇害前身影曝光",
+        "onboard_time": 1752658161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32880,
+        "num": 46993,
+        "word": "警方通报3名高中生赴西双版纳后失联",
+        "onboard_time": 1752660680,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 31203,
+        "num": 46990,
+        "word": "全圆佑gogae",
+        "onboard_time": 1752685939,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31155,
+        "num": 46989,
+        "word": "西瓜意外摔碎一家三口就地开吃",
+        "onboard_time": 1752673343,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30995,
+        "num": 46984,
+        "word": "朝雪录",
+        "onboard_time": 1752657981,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30814,
+        "num": 46979,
+        "word": "迪丽热巴枭起青壤剧宣",
+        "onboard_time": 1752663741,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30607,
+        "num": 46977,
+        "word": "衡阳一干部高中学历获事业编需要解释",
+        "onboard_time": 1752673462,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 29104,
+        "num": 46971,
+        "word": "李雪琴瘦身后主持首秀",
+        "onboard_time": 1752664761,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29070,
+        "num": 46966,
+        "word": "此刻南京天空在蹦迪",
+        "onboard_time": 1752680961,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28464,
+        "num": 46965,
+        "word": "中国女篮3战全胜晋级半决赛",
+        "onboard_time": 1752684378,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28432,
+        "num": 46959,
+        "word": "燕迟不延迟",
+        "onboard_time": 1752687377,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27728,
+        "num": 46957,
+        "word": "扫毒风暴12集100秒激战戏",
+        "onboard_time": 1752681081,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27036,
+        "num": 46951,
+        "word": "林志炫太难唱了",
+        "onboard_time": 1752677124,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26978,
+        "num": 46950,
+        "word": "杨紫当年的梗现在还能笑",
+        "onboard_time": 1752671061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设现代化人民城市有6个关键词#"
+    }
+  }
+}
