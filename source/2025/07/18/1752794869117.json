@@ -1,0 +1,410 @@
+{
+  "runTime": 1752794869117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408910,
+        "num": 809331,
+        "word": "Bin",
+        "onboard_time": 1752775575,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287221,
+        "num": 287221,
+        "word": "游客为拍照不慎将孩子撞落水",
+        "onboard_time": 1752765741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22916,
+        "num": 249041,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245725,
+        "num": 245725,
+        "word": "被家暴16次女子前婆婆被判返还91万",
+        "onboard_time": 1752760342,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179572,
+        "num": 179572,
+        "word": "山姆背叛了山姆",
+        "onboard_time": 1752750682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173159,
+        "num": 173159,
+        "word": "官方回应进丽江古城要交50元",
+        "onboard_time": 1752766941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166916,
+        "num": 166916,
+        "word": "开网约车接到了歌手总导演",
+        "onboard_time": 1752767901,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164770,
+        "num": 164770,
+        "word": "乐山大佛热到休假了",
+        "onboard_time": 1752748941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162691,
+        "num": 162691,
+        "word": "肖战直播",
+        "onboard_time": 1752753082,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150678,
+        "num": 150678,
+        "word": "谢霆锋认为比赛用火锅底料是作弊",
+        "onboard_time": 1752755183,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378646,
+        "num": 148196,
+        "word": "网红老板西藏自驾途中去世",
+        "onboard_time": 1752763223,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355375,
+        "num": 145590,
+        "word": "杜淳妻子聊名媛培训班",
+        "onboard_time": 1752793998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248388,
+        "num": 139560,
+        "word": "利拉德重返开拓者",
+        "onboard_time": 1752793818,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168242,
+        "num": 136012,
+        "word": "网红阿家高考成绩462分",
+        "onboard_time": 1752767423,
+        "rank": 13,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 72067,
+        "num": 134650,
+        "word": "特朗普被确诊患静脉疾病",
+        "onboard_time": 1752794118,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130783,
+        "num": 130783,
+        "word": "BLG止步EWC八强",
+        "onboard_time": 1752793818,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130454,
+        "num": 130454,
+        "word": "一国企登报喊61名职工回来上班",
+        "onboard_time": 1752757702,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128191,
+        "num": 128191,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114337,
+        "num": 114337,
+        "word": "姜文说让子弹飞其实是七个字",
+        "onboard_time": 1752793818,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46361,
+        "num": 99216,
+        "word": "韩国多地破纪录暴雨已致4死",
+        "onboard_time": 1752793937,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205397,
+        "num": 99103,
+        "word": "劝大家不要在互联网太暴露自己的生活",
+        "onboard_time": 1752793998,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198017,
+        "num": 99086,
+        "word": "全世界最缺男人的国家",
+        "onboard_time": 1752793878,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98677,
+        "num": 98677,
+        "word": "1岁人类幼崽可以有多忙",
+        "onboard_time": 1752793818,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95385,
+        "num": 95385,
+        "word": "美国真心想同中国合作就正视事实",
+        "onboard_time": 1752778994,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95061,
+        "num": 95061,
+        "word": "朱孝天和F4其他三人不熟",
+        "onboard_time": 1752759322,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86003,
+        "num": 86003,
+        "word": "殡仪馆3500招太平间门卫要全天在岗",
+        "onboard_time": 1752758121,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81755,
+        "num": 81755,
+        "word": "袁泉夏雨15岁女儿罕见露面",
+        "onboard_time": 1752747803,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80933,
+        "num": 80933,
+        "word": "中美两国人民完全可以成为好朋友",
+        "onboard_time": 1752767300,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69391,
+        "num": 80247,
+        "word": "祝绪丹回应被说装可爱",
+        "onboard_time": 1752756262,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66343,
+        "num": 80234,
+        "word": "宋祖儿表妹万福粉衣造型路透",
+        "onboard_time": 1752793937,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80233,
+        "num": 80233,
+        "word": "BLG对战G2",
+        "onboard_time": 1752764662,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75033,
+        "num": 75033,
+        "word": "杭州男子6万租房甲醛超标2倍多",
+        "onboard_time": 1752773776,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71805,
+        "num": 71805,
+        "word": "原来这就是大家拼命要上岸的原因",
+        "onboard_time": 1752793998,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70928,
+        "num": 70928,
+        "word": "英伟达市值超日本GDP",
+        "onboard_time": 1752793998,
+        "rank": 33,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 68911,
+        "num": 68911,
+        "word": "十二星座水逆重点提示",
+        "onboard_time": 1752793998,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68502,
+        "num": 68502,
+        "word": "奥巴马夫妇回应离婚传闻",
+        "onboard_time": 1752750682,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67922,
+        "num": 67922,
+        "word": "上海暴雨",
+        "onboard_time": 1752764243,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63720,
+        "num": 63720,
+        "word": "马云骑车夜游西湖",
+        "onboard_time": 1752764362,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 63185,
+        "num": 63185,
+        "word": "21岁女孩患癌后的第一次短暂自由",
+        "onboard_time": 1752764301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52965,
+        "num": 61603,
+        "word": "孙颖莎回应新身份",
+        "onboard_time": 1752794538,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61386,
+        "num": 61386,
+        "word": "肖战强迫症好夸张",
+        "onboard_time": 1752765801,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56744,
+        "num": 56744,
+        "word": "香港禁烟设施也太超前了",
+        "onboard_time": 1752764602,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55531,
+        "num": 55531,
+        "word": "这下对钱是真的有概念了",
+        "onboard_time": 1752794599,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52311,
+        "num": 52311,
+        "word": "如何一夏排掉全年寒湿",
+        "onboard_time": 1752794538,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51388,
+        "num": 51388,
+        "word": "600分扎堆本升专",
+        "onboard_time": 1752755183,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47248,
+        "num": 47248,
+        "word": "AG战胜HLE",
+        "onboard_time": 1752763103,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47146,
+        "num": 47146,
+        "word": "以法之名长尾效应",
+        "onboard_time": 1752792619,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46974,
+        "num": 46974,
+        "word": "一碗面让老外觉得不会用筷子丢人",
+        "onboard_time": 1752784034,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46190,
+        "num": 46190,
+        "word": "大三本科生回应逆天学术履历",
+        "onboard_time": 1752778874,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 43329,
+        "num": 46189,
+        "word": "舞蹈生老婆的鞠躬",
+        "onboard_time": 1752776535,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条中国特色城市现代化新路子#"
+    }
+  }
+}
