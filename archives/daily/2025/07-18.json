@@ -1,7 +1,15 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752794869117,
+  "endTime": 1752795736895,
   "band_list": [
+    {
+      "raw_hot": 830163,
+      "num": 212271,
+      "word": "特朗普被确诊患静脉疾病",
+      "onboard_time": 1752794118,
+      "rank": 14,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 737123,
       "num": 737123,
@@ -9,6 +17,14 @@
       "onboard_time": 1752764662,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 678196,
+      "num": 956445,
+      "word": "杜淳妻子聊名媛培训班",
+      "onboard_time": 1752793998,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 580953,
@@ -35,7 +51,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408910,
+      "raw_hot": 453598,
       "num": 809331,
       "word": "Bin",
       "onboard_time": 1752775575,
@@ -43,8 +59,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 420505,
+      "num": 209464,
+      "word": "网红老板西藏自驾途中去世",
+      "onboard_time": 1752763223,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381185,
-      "num": 182072,
+      "num": 189133,
       "word": "网红阿家高考成绩462分",
       "onboard_time": 1752767423,
       "rank": 11,
@@ -59,20 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378646,
-      "num": 179366,
-      "word": "网红老板西藏自驾途中去世",
-      "onboard_time": 1752763223,
-      "rank": 12,
+      "raw_hot": 358909,
+      "num": 358909,
+      "word": "游客为拍照不慎将孩子撞落水",
+      "onboard_time": 1752765741,
+      "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355375,
-      "num": 145590,
-      "word": "杜淳妻子聊名媛培训班",
-      "onboard_time": 1752793998,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 315453,
@@ -83,11 +99,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287221,
-      "num": 287221,
-      "word": "游客为拍照不慎将孩子撞落水",
-      "onboard_time": 1752765741,
-      "rank": 23,
+      "raw_hot": 297229,
+      "num": 297229,
+      "word": "被家暴16次女子前婆婆被判返还91万",
+      "onboard_time": 1752760342,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263182,
+      "num": 263182,
+      "word": "利拉德重返开拓者",
+      "onboard_time": 1752793818,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254774,
       "num": 254774,
       "word": "上海暴雨",
@@ -107,19 +131,35 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248388,
-      "num": 139560,
-      "word": "利拉德重返开拓者",
-      "onboard_time": 1752793818,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 249515,
+      "num": 156520,
+      "word": "全世界最缺男人的国家",
+      "onboard_time": 1752793878,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 245725,
-      "num": 245725,
-      "word": "被家暴16次女子前婆婆被判返还91万",
-      "onboard_time": 1752760342,
-      "rank": 7,
+      "raw_hot": 237184,
+      "num": 154894,
+      "word": "劝大家不要在互联网太暴露自己的生活",
+      "onboard_time": 1752793998,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226505,
+      "num": 226505,
+      "word": "官方回应进丽江古城要交50元",
+      "onboard_time": 1752766941,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221115,
+      "num": 221115,
+      "word": "乐山大佛热到休假了",
+      "onboard_time": 1752748941,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -132,27 +172,11 @@
     },
     {
       "raw_hot": 206812,
-      "num": 206812,
+      "num": 219809,
       "word": "谢霆锋认为比赛用火锅底料是作弊",
       "onboard_time": 1752755183,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205397,
-      "num": 99103,
-      "word": "劝大家不要在互联网太暴露自己的生活",
-      "onboard_time": 1752793998,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 198017,
-      "num": 99086,
-      "word": "全世界最缺男人的国家",
-      "onboard_time": 1752793878,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190016,
@@ -171,20 +195,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 173159,
-      "num": 173159,
-      "word": "官方回应进丽江古城要交50元",
-      "onboard_time": 1752766941,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 174164,
+      "num": 174164,
+      "word": "BLG止步EWC八强",
+      "onboard_time": 1752793818,
+      "rank": 15,
+      "category": "电竞"
     },
     {
-      "raw_hot": 164770,
-      "num": 164770,
-      "word": "乐山大佛热到休假了",
-      "onboard_time": 1752748941,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 160391,
+      "num": 160391,
+      "word": "姜文说让子弹飞其实是七个字",
+      "onboard_time": 1752793818,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 157277,
@@ -192,6 +216,14 @@
       "word": "21岁女孩患癌后的第一次短暂自由",
       "onboard_time": 1752764301,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151650,
+      "num": 151650,
+      "word": "一国企登报喊61名职工回来上班",
+      "onboard_time": 1752757702,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -227,28 +259,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130783,
-      "num": 130783,
-      "word": "BLG止步EWC八强",
-      "onboard_time": 1752793818,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 130454,
-      "num": 130454,
-      "word": "一国企登报喊61名职工回来上班",
-      "onboard_time": 1752757702,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129396,
       "num": 129396,
       "word": "蔡徐坤新发色",
       "onboard_time": 1752762863,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127785,
+      "num": 127785,
+      "word": "1岁人类幼崽可以有多忙",
+      "onboard_time": 1752793818,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 121231,
@@ -267,12 +291,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 114337,
-      "num": 114337,
-      "word": "姜文说让子弹飞其实是七个字",
-      "onboard_time": 1752793818,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 117545,
+      "num": 117545,
+      "word": "宋祖儿表妹万福粉衣造型路透",
+      "onboard_time": 1752793937,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 110720,
@@ -289,6 +313,14 @@
       "onboard_time": 1752754821,
       "rank": 26,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 107409,
+      "num": 94409,
+      "word": "原来这就是大家拼命要上岸的原因",
+      "onboard_time": 1752793998,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 104542,
@@ -315,20 +347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102778,
+      "num": 102778,
+      "word": "朱孝天和F4其他三人不熟",
+      "onboard_time": 1752759322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99992,
       "num": 103115,
       "word": "肖战强迫症好夸张",
       "onboard_time": 1752765801,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98677,
-      "num": 98677,
-      "word": "1岁人类幼崽可以有多忙",
-      "onboard_time": 1752793818,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 95385,
@@ -339,12 +371,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95061,
-      "num": 95061,
-      "word": "朱孝天和F4其他三人不熟",
-      "onboard_time": 1752759322,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 93853,
+      "num": 93853,
+      "word": "英伟达市值超日本GDP",
+      "onboard_time": 1752793998,
+      "rank": 33,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 88055,
@@ -352,6 +384,14 @@
       "word": "河南蚊子被热死",
       "onboard_time": 1752747863,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87398,
+      "num": 87398,
+      "word": "杭州男子6万租房甲醛超标2倍多",
+      "onboard_time": 1752773776,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -363,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85526,
+      "num": 85526,
+      "word": "十二星座水逆重点提示",
+      "onboard_time": 1752793998,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84862,
       "num": 84862,
       "word": "白鹿对接回应叶璃妆造争议",
       "onboard_time": 1752755901,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83572,
+      "num": 99216,
+      "word": "韩国多地破纪录暴雨已致4死",
+      "onboard_time": 1752793937,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82338,
@@ -387,48 +443,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78725,
-      "num": 78725,
-      "word": "杭州男子6万租房甲醛超标2倍多",
-      "onboard_time": 1752773776,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72067,
-      "num": 134650,
-      "word": "特朗普被确诊患静脉疾病",
-      "onboard_time": 1752794118,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 71805,
-      "num": 71805,
-      "word": "原来这就是大家拼命要上岸的原因",
-      "onboard_time": 1752793998,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 70928,
-      "num": 70928,
-      "word": "英伟达市值超日本GDP",
-      "onboard_time": 1752793998,
-      "rank": 33,
-      "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 68911,
-      "num": 68911,
-      "word": "十二星座水逆重点提示",
-      "onboard_time": 1752793998,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 68502,
-      "num": 71037,
+      "raw_hot": 76587,
+      "num": 76587,
       "word": "奥巴马夫妇回应离婚传闻",
       "onboard_time": 1752750682,
       "rank": 47,
@@ -443,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66343,
-      "num": 80234,
-      "word": "宋祖儿表妹万福粉衣造型路透",
-      "onboard_time": 1752793937,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 63873,
+      "num": 63873,
+      "word": "如何一夏排掉全年寒湿",
+      "onboard_time": 1752794538,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62486,
@@ -457,6 +473,22 @@
       "onboard_time": 1752751824,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61605,
+      "num": 216592,
+      "word": "大三本科生回应逆天学术履历",
+      "onboard_time": 1752778874,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 60443,
+      "num": 60443,
+      "word": "这下对钱是真的有概念了",
+      "onboard_time": 1752794599,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 60106,
@@ -473,6 +505,14 @@
       "onboard_time": 1752765921,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58684,
+      "num": 77861,
+      "word": "孙颖莎回应新身份",
+      "onboard_time": 1752794538,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 57881,
@@ -499,20 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55531,
-      "num": 55531,
-      "word": "这下对钱是真的有概念了",
-      "onboard_time": 1752794599,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 52965,
-      "num": 61603,
-      "word": "孙颖莎回应新身份",
-      "onboard_time": 1752794538,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 55208,
+      "num": 55208,
+      "word": "以法之名长尾效应",
+      "onboard_time": 1752792619,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 52903,
@@ -531,12 +563,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52311,
-      "num": 52311,
-      "word": "如何一夏排掉全年寒湿",
-      "onboard_time": 1752794538,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 51980,
+      "num": 51980,
+      "word": "舞蹈生老婆的鞠躬",
+      "onboard_time": 1752776535,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 51873,
@@ -563,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47146,
-      "num": 47146,
-      "word": "以法之名长尾效应",
-      "onboard_time": 1752792619,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46974,
       "num": 46974,
       "word": "一碗面让老外觉得不会用筷子丢人",
@@ -579,36 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46361,
-      "num": 99216,
-      "word": "韩国多地破纪录暴雨已致4死",
-      "onboard_time": 1752793937,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 46190,
-      "num": 46190,
-      "word": "大三本科生回应逆天学术履历",
-      "onboard_time": 1752778874,
-      "rank": 39,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 45634,
       "num": 70995,
       "word": "宗庆后继承案信托是否有效成关键",
       "onboard_time": 1752770119,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43329,
-      "num": 46189,
-      "word": "舞蹈生老婆的鞠躬",
-      "onboard_time": 1752776535,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 39218,
@@ -625,6 +625,14 @@
       "onboard_time": 1752761062,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36474,
+      "num": 178133,
+      "word": "以军误炸加沙教堂致3死9伤",
+      "onboard_time": 1752795140,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35171,
@@ -659,12 +667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28810,
+      "num": 157977,
+      "word": "美众议院通过加密货币法案",
+      "onboard_time": 1752795079,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25577,
       "num": 38949,
       "word": "小鸡 妈妈这么做一定有她的道理",
       "onboard_time": 1752780913,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25160,
+      "num": 404773,
+      "word": "录取通知书是大学的第一堂课",
+      "onboard_time": 1752741921,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24161,
@@ -681,14 +705,6 @@
       "onboard_time": 1752785655,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 22916,
-      "num": 260192,
-      "word": "录取通知书是大学的第一堂课",
-      "onboard_time": 1752741921,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20316,

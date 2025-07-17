@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752794869117,
+  "endTime": 1752795736895,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3851,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 830163,
+      "num": 212271,
+      "word": "特朗普被确诊患静脉疾病",
+      "onboard_time": 1752794118,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 828746,
       "num": 828746,
       "word": "林诗栋3比4张本智和",
@@ -5361,6 +5369,14 @@
       "onboard_time": 1751515223,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 678196,
+      "num": 956445,
+      "word": "杜淳妻子聊名媛培训班",
+      "onboard_time": 1752793998,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 676446,
@@ -8875,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453598,
+      "num": 809331,
+      "word": "Bin",
+      "onboard_time": 1752775575,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 453550,
       "num": 453550,
       "word": "实付9.9元米粉店家到手不足1元",
@@ -9707,6 +9731,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 420505,
+      "num": 235107,
+      "word": "网红老板西藏自驾途中去世",
+      "onboard_time": 1752763223,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420503,
       "num": 420503,
       "word": "女子闪婚4次第4次离婚当天又结婚",
@@ -9931,14 +9963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413450,
-      "num": 235107,
-      "word": "网红老板西藏自驾途中去世",
-      "onboard_time": 1752763223,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 412261,
       "num": 202963,
       "word": "李福贵自曝19岁结婚一年后分开",
@@ -10073,14 +10097,6 @@
       "onboard_time": 1751686280,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408910,
-      "num": 809331,
-      "word": "Bin",
-      "onboard_time": 1752775575,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 408734,
@@ -10716,7 +10732,7 @@
     },
     {
       "raw_hot": 381185,
-      "num": 182072,
+      "num": 189133,
       "word": "网红阿家高考成绩462分",
       "onboard_time": 1752767423,
       "rank": 11,
@@ -11435,6 +11451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358909,
+      "num": 358909,
+      "word": "游客为拍照不慎将孩子撞落水",
+      "onboard_time": 1752765741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358797,
       "num": 409597,
       "word": "刘宇宁出舱门撞到头",
@@ -11561,14 +11585,6 @@
       "onboard_time": 1752245664,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 355375,
-      "num": 145590,
-      "word": "杜淳妻子聊名媛培训班",
-      "onboard_time": 1752793998,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 355077,
@@ -14307,14 +14323,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 287221,
-      "num": 287221,
-      "word": "游客为拍照不慎将孩子撞落水",
-      "onboard_time": 1752765741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 287141,
       "num": 287141,
       "word": "警方辟谣多名女孩被男子哄骗外出受害",
@@ -15723,6 +15731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263182,
+      "num": 263182,
+      "word": "利拉德重返开拓者",
+      "onboard_time": 1752793818,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263145,
       "num": 263145,
       "word": "丁程鑫张真源晒毕业拍立得",
@@ -16523,6 +16539,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 249515,
+      "num": 156520,
+      "word": "全世界最缺男人的国家",
+      "onboard_time": 1752793878,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249458,
       "num": 249458,
       "word": "田栩宁帅的好权威",
@@ -16585,14 +16609,6 @@
       "onboard_time": 1751716162,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248388,
-      "num": 139560,
-      "word": "利拉德重返开拓者",
-      "onboard_time": 1752793818,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 248126,
@@ -17249,6 +17265,14 @@
       "onboard_time": 1751954241,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237184,
+      "num": 154894,
+      "word": "劝大家不要在互联网太暴露自己的生活",
+      "onboard_time": 1752793998,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 237133,
@@ -18016,6 +18040,14 @@
       "word": "女子带儿子打伤出轨老公后双双被拘",
       "onboard_time": 1751536162,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226505,
+      "num": 226505,
+      "word": "官方回应进丽江古城要交50元",
+      "onboard_time": 1752766941,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -20371,14 +20403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205397,
-      "num": 99103,
-      "word": "劝大家不要在互联网太暴露自己的生活",
-      "onboard_time": 1752793998,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205301,
       "num": 205301,
       "word": "雀骨",
@@ -21705,14 +21729,6 @@
       "onboard_time": 1751434043,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198017,
-      "num": 99086,
-      "word": "全世界最缺男人的国家",
-      "onboard_time": 1752793878,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198010,
@@ -26091,6 +26107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 174164,
+      "num": 174164,
+      "word": "BLG止步EWC八强",
+      "onboard_time": 1752793818,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174156,
       "num": 174156,
       "word": "我被甲醛房毒了",
@@ -26353,14 +26377,6 @@
       "onboard_time": 1751516303,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173159,
-      "num": 173159,
-      "word": "官方回应进丽江古城要交50元",
-      "onboard_time": 1752766941,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173143,
@@ -28969,6 +28985,14 @@
       "onboard_time": 1752320000,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160391,
+      "num": 160391,
+      "word": "姜文说让子弹飞其实是七个字",
+      "onboard_time": 1752793818,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 160317,
@@ -37155,14 +37179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130783,
-      "num": 130783,
-      "word": "BLG止步EWC八强",
-      "onboard_time": 1752793818,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130772,
       "num": 256193,
       "word": "上海一公园狸花猫面部被鱼镖射穿",
@@ -38073,6 +38089,14 @@
       "onboard_time": 1752224483,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127785,
+      "num": 127785,
+      "word": "1岁人类幼崽可以有多忙",
+      "onboard_time": 1752793818,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 127756,
@@ -41563,6 +41587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117545,
+      "num": 117545,
+      "word": "宋祖儿表妹万福粉衣造型路透",
+      "onboard_time": 1752793937,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117528,
       "num": 117528,
       "word": "老板哭穷欠薪数月却有钱继续开新店",
@@ -42649,14 +42681,6 @@
       "onboard_time": 1751630124,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114337,
-      "num": 114337,
-      "word": "姜文说让子弹飞其实是七个字",
-      "onboard_time": 1752793818,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 114335,
@@ -47419,14 +47443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98677,
-      "num": 98677,
-      "word": "1岁人类幼崽可以有多忙",
-      "onboard_time": 1752793818,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 98619,
       "num": 98619,
       "word": "打工人很需要冰可乐",
@@ -48345,6 +48361,14 @@
       "onboard_time": 1751967742,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93853,
+      "num": 93853,
+      "word": "英伟达市值超日本GDP",
+      "onboard_time": 1752793998,
+      "rank": 33,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 93815,
@@ -49459,6 +49483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87398,
+      "num": 87398,
+      "word": "杭州男子6万租房甲醛超标2倍多",
+      "onboard_time": 1752773776,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87385,
       "num": 188083,
       "word": "开拓者vs鹈鹕",
@@ -49739,6 +49771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85526,
+      "num": 85526,
+      "word": "十二星座水逆重点提示",
+      "onboard_time": 1752793998,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85506,
       "num": 191789,
       "word": "困难挑战挡不住中国前进的步伐",
@@ -49969,6 +50009,14 @@
       "onboard_time": 1751644283,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83572,
+      "num": 99216,
+      "word": "韩国多地破纪录暴雨已致4死",
+      "onboard_time": 1752793937,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83553,
@@ -50633,14 +50681,6 @@
       "onboard_time": 1751929819,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78725,
-      "num": 78725,
-      "word": "杭州男子6万租房甲醛超标2倍多",
-      "onboard_time": 1752773776,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78645,
@@ -51347,14 +51387,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 72067,
-      "num": 134650,
-      "word": "特朗普被确诊患静脉疾病",
-      "onboard_time": 1752794118,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 72040,
       "num": 72040,
       "word": "李现带着蒋长扬BGM回来了",
@@ -51545,14 +51577,6 @@
       "onboard_time": 1751461702,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 70928,
-      "num": 70928,
-      "word": "英伟达市值超日本GDP",
-      "onboard_time": 1752793998,
-      "rank": 33,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 70897,
@@ -51777,14 +51801,6 @@
       "onboard_time": 1751758458,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68911,
-      "num": 68911,
-      "word": "十二星座水逆重点提示",
-      "onboard_time": 1752793998,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 68907,
@@ -52049,14 +52065,6 @@
       "onboard_time": 1751757198,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 66343,
-      "num": 80234,
-      "word": "宋祖儿表妹万福粉衣造型路透",
-      "onboard_time": 1752793937,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 66337,
@@ -52419,6 +52427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63873,
+      "num": 63873,
+      "word": "如何一夏排掉全年寒湿",
+      "onboard_time": 1752794538,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63787,
       "num": 129834,
       "word": "樊振东德甲首秀最快8月31日",
@@ -52707,6 +52723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61605,
+      "num": 216592,
+      "word": "大三本科生回应逆天学术履历",
+      "onboard_time": 1752778874,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 61557,
       "num": 117542,
       "word": "爸爸扮吴彦祖哄好妈妈坑了儿子",
@@ -52849,6 +52873,14 @@
       "onboard_time": 1752141682,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60443,
+      "num": 60443,
+      "word": "这下对钱是真的有概念了",
+      "onboard_time": 1752794599,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 60420,
@@ -53081,6 +53113,14 @@
       "onboard_time": 1751508140,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58684,
+      "num": 77861,
+      "word": "孙颖莎回应新身份",
+      "onboard_time": 1752794538,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 58621,
@@ -53507,20 +53547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 55531,
-      "num": 55531,
-      "word": "这下对钱是真的有概念了",
-      "onboard_time": 1752794599,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 55280,
       "num": 55280,
       "word": "权恩妃好辣",
       "onboard_time": 1751907019,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55208,
+      "num": 55208,
+      "word": "以法之名长尾效应",
+      "onboard_time": 1752792619,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 55205,
@@ -53779,14 +53819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52965,
-      "num": 61603,
-      "word": "孙颖莎回应新身份",
-      "onboard_time": 1752794538,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52928,
       "num": 125407,
       "word": "家里没人教 出门被猿辅导教育了",
@@ -53875,14 +53907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 52311,
-      "num": 52311,
-      "word": "如何一夏排掉全年寒湿",
-      "onboard_time": 1752794538,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 52223,
       "num": 1094977,
       "word": "净网2025来看1起侵犯公民个人信息案",
@@ -53913,6 +53937,14 @@
       "onboard_time": 1751901984,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51980,
+      "num": 51980,
+      "word": "舞蹈生老婆的鞠躬",
+      "onboard_time": 1752776535,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 51870,
@@ -54483,14 +54515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47146,
-      "num": 47146,
-      "word": "以法之名长尾效应",
-      "onboard_time": 1752792619,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 47134,
       "num": 187291,
       "word": "老人脑梗住院期出走身亡医院赔5万",
@@ -54587,14 +54611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46361,
-      "num": 99216,
-      "word": "韩国多地破纪录暴雨已致4死",
-      "onboard_time": 1752793937,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 46313,
       "num": 325790,
       "word": "律师谈金毛疑蹭空调被打死谁该负责",
@@ -54617,14 +54633,6 @@
       "onboard_time": 1752038962,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 46190,
-      "num": 46190,
-      "word": "大三本科生回应逆天学术履历",
-      "onboard_time": 1752778874,
-      "rank": 39,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 46160,
@@ -55001,14 +55009,6 @@
       "onboard_time": 1752592883,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43329,
-      "num": 46189,
-      "word": "舞蹈生老婆的鞠躬",
-      "onboard_time": 1752776535,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 43169,
@@ -55977,6 +55977,14 @@
       "onboard_time": 1751304737,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36474,
+      "num": 178133,
+      "word": "以军误炸加沙教堂致3死9伤",
+      "onboard_time": 1752795140,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36404,
@@ -57073,6 +57081,14 @@
       "onboard_time": 1751917993,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 28810,
+      "num": 157977,
+      "word": "美众议院通过加密货币法案",
+      "onboard_time": 1752795079,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28808,
