@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752762404120,
+  "endTime": 1752763626889,
   "band_list": [
     {
       "raw_hot": 11780659,
@@ -75,20 +75,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1312398,
+      "num": 1278476,
+      "word": "殡仪馆3500招太平间门卫要全天在岗",
+      "onboard_time": 1752758121,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1297304,
       "num": 1297304,
       "word": "赫敏扮演者因超速被禁止驾驶6个月",
       "onboard_time": 1752721042,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1278476,
-      "num": 1278476,
-      "word": "殡仪馆3500招太平间门卫要全天在岗",
-      "onboard_time": 1752758121,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1231581,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 841963,
-      "num": 841963,
+      "num": 1132335,
       "word": "肖战直播",
       "onboard_time": 1752753082,
       "rank": 5,
@@ -369,6 +369,14 @@
       "onboard_time": 1752723741,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 619338,
+      "num": 619338,
+      "word": "被家暴16次女子前婆婆被判返还91万",
+      "onboard_time": 1752760342,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614147,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 383023,
-      "num": 345518,
+      "num": 379073,
       "word": "祝绪丹回应被说装可爱",
       "onboard_time": 1752756262,
       "rank": 40,
@@ -851,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271585,
+      "num": 271585,
+      "word": "AG战胜HLE",
+      "onboard_time": 1752763103,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268309,
       "num": 268309,
       "word": "南京闪电",
@@ -883,20 +899,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 260954,
+      "num": 262748,
+      "word": "一国企登报喊61名职工回来上班",
+      "onboard_time": 1752757702,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260319,
       "num": 290664,
       "word": "烧烤调料被曝用廉价猪饲料原料",
       "onboard_time": 1752750082,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 257533,
-      "num": 262748,
-      "word": "一国企登报喊61名职工回来上班",
-      "onboard_time": 1752757702,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254290,
@@ -955,14 +971,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 244522,
-      "num": 269990,
-      "word": "被家暴16次女子前婆婆被判返还91万",
-      "onboard_time": 1752760342,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236513,
       "num": 236513,
       "word": "jiejie wei",
@@ -992,6 +1000,14 @@
       "word": "刘宇宁陈星旭林一扫腿舞",
       "onboard_time": 1752709880,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231569,
+      "num": 231569,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1752760642,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1155,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208948,
+      "num": 208948,
+      "word": "蔡徐坤新发色",
+      "onboard_time": 1752762863,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206844,
       "num": 206844,
       "word": "大二下学期发小狗",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1752756621,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195206,
+      "num": 195206,
+      "word": "张康乐和DJ子杨",
+      "onboard_time": 1752762623,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 195040,
@@ -1443,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184136,
+      "num": 160109,
+      "word": "网红老板西藏自驾途中去世",
+      "onboard_time": 1752763223,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183949,
       "num": 183949,
       "word": "施展 好笑吗孙政",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1752657981,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182567,
-      "num": 182567,
-      "word": "密室大逃脱大神版",
-      "onboard_time": 1752760642,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 181504,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1752742401,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172639,
+      "num": 172639,
+      "word": "邓为戏服",
+      "onboard_time": 1752763163,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 172272,
@@ -1771,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157633,
+      "num": 157633,
+      "word": "AG碾碎HLE钥匙",
+      "onboard_time": 1752762922,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157517,
       "num": 157517,
       "word": "我用美色契约全世界",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1752752424,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 155908,
+      "num": 155908,
+      "word": "连SVIP都不能听的台词出现了",
+      "onboard_time": 1752758182,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 155489,
@@ -1987,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144763,
-      "num": 144763,
-      "word": "连SVIP都不能听的台词出现了",
-      "onboard_time": 1752758182,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144288,
       "num": 144288,
       "word": "王者荣耀",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1752729683,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136725,
+      "num": 136725,
+      "word": "EWC",
+      "onboard_time": 1752763463,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 136163,
@@ -2275,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127356,
+      "num": 127356,
+      "word": "余杭居民洗完手都是臭的",
+      "onboard_time": 1752762744,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127093,
       "num": 127093,
       "word": "日本女星远野凪子去世",
@@ -2300,7 +2364,7 @@
     },
     {
       "raw_hot": 124313,
-      "num": 124313,
+      "num": 199334,
       "word": "朱孝天和F4其他三人不熟",
       "onboard_time": 1752759322,
       "rank": 42,
@@ -2587,6 +2651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107117,
+      "num": 199195,
+      "word": "汪顺说能看淡输赢但不能放下",
+      "onboard_time": 1752763283,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106741,
       "num": 106741,
       "word": "关晓彤分享茼蒿海带拌豆腐",
@@ -2675,6 +2747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101045,
+      "num": 101045,
+      "word": "宋亚轩风衣",
+      "onboard_time": 1752763583,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100147,
       "num": 100147,
       "word": "为什么只遛半条狗啊",
@@ -2691,8 +2771,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98813,
-      "num": 98813,
+      "raw_hot": 98879,
+      "num": 98879,
       "word": "AG领域三连暴走",
       "onboard_time": 1752762382,
       "rank": 49,
@@ -3411,6 +3491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29546,
+      "num": 131974,
+      "word": "印女旅美盗窃11万卢比商品",
+      "onboard_time": 1752763223,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28773,
       "num": 153043,
       "word": "Tomorrowland电音节发生大火",
@@ -3457,6 +3545,14 @@
       "onboard_time": 1752741681,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26357,
+      "num": 160377,
+      "word": "李在明慰问世越号沉船等事故遗属",
+      "onboard_time": 1752763343,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23987,
