@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752774317285,
+  "endTime": 1752777609618,
   "band_list": [
     {
       "raw_hot": 737123,
@@ -65,6 +65,14 @@
       "onboard_time": 1752750682,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278334,
+      "num": 278334,
+      "word": "Bin",
+      "onboard_time": 1752775575,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 265891,
@@ -291,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69877,
+      "num": 69877,
+      "word": "杭州男子6万租房甲醛超标2倍多",
+      "onboard_time": 1752773776,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66370,
       "num": 71130,
       "word": "张艺凡的腿",
@@ -435,14 +451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34065,
-      "num": 49343,
-      "word": "杭州男子6万租房甲醛超标2倍多",
-      "onboard_time": 1752773776,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32968,
       "num": 49255,
       "word": "朱孝天和F4其他三人不熟",
@@ -481,6 +489,30 @@
       "onboard_time": 1752741921,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21368,
+      "num": 38589,
+      "word": "舞蹈生老婆的鞠躬",
+      "onboard_time": 1752776535,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19497,
+      "num": 38518,
+      "word": "周震南演我手忙脚乱过安检",
+      "onboard_time": 1752776955,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16353,
+      "num": 38561,
+      "word": "暑假不是用来赶进度而是追赶星星的",
+      "onboard_time": 1752777555,
+      "rank": 41,
+      "category": "民生新闻,教育"
     }
   ],
   "hotgov_list": [
