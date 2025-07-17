@@ -1,0 +1,410 @@
+{
+  "runTime": 1752766247065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1001145,
+        "num": 1160183,
+        "word": "肖战直播",
+        "onboard_time": 1752753082,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546899,
+        "num": 546899,
+        "word": "山姆背叛了山姆",
+        "onboard_time": 1752750682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41812,
+        "num": 483837,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852482,
+        "num": 482130,
+        "word": "被家暴16次女子前婆婆被判返还91万",
+        "onboard_time": 1752760342,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468133,
+        "num": 468133,
+        "word": "谢霆锋认为比赛用火锅底料是作弊",
+        "onboard_time": 1752755183,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260977,
+        "num": 260977,
+        "word": "AG战胜HLE",
+        "onboard_time": 1752763103,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 305571,
+        "num": 246229,
+        "word": "祝绪丹回应被说装可爱",
+        "onboard_time": 1752756262,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262223,
+        "num": 238750,
+        "word": "谢娜父母女儿爱人工作的排序",
+        "onboard_time": 1752764301,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228716,
+        "num": 228716,
+        "word": "河南蚊子被热死",
+        "onboard_time": 1752747863,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160578,
+        "num": 228072,
+        "word": "余杭水务回应臭水事件赔偿问题",
+        "onboard_time": 1752765263,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872377,
+        "num": 227504,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 413450,
+        "num": 226664,
+        "word": "网红老板西藏自驾途中去世",
+        "onboard_time": 1752763223,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258312,
+        "num": 226214,
+        "word": "马云骑车夜游西湖",
+        "onboard_time": 1752764362,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249267,
+        "num": 225379,
+        "word": "邓为戏服",
+        "onboard_time": 1752763163,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70666,
+        "num": 224772,
+        "word": "山姆选品降级到底藏着多少猫腻",
+        "onboard_time": 1752765682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248819,
+        "num": 223809,
+        "word": "蔡徐坤新发色",
+        "onboard_time": 1752762863,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247832,
+        "num": 223108,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1752760642,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245099,
+        "num": 221930,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221929,
+        "num": 221929,
+        "word": "AG对战TTG",
+        "onboard_time": 1752756202,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64924,
+        "num": 219853,
+        "word": "游客为拍照不慎将孩子撞落水",
+        "onboard_time": 1752765741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 907905,
+        "num": 219818,
+        "word": "殡仪馆3500招太平间门卫要全天在岗",
+        "onboard_time": 1752758121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219702,
+        "num": 219702,
+        "word": "600分扎堆本升专",
+        "onboard_time": 1752755183,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219422,
+        "num": 219422,
+        "word": "肖战强迫症好夸张",
+        "onboard_time": 1752765801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194387,
+        "num": 194387,
+        "word": "上海暴雨",
+        "onboard_time": 1752764243,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173351,
+        "num": 173351,
+        "word": "爱奇艺717",
+        "onboard_time": 1752754821,
+        "rank": 24,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 169811,
+        "num": 169811,
+        "word": "乐山大佛热到休假了",
+        "onboard_time": 1752748941,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163891,
+        "num": 163891,
+        "word": "被家暴16次女子最新发声",
+        "onboard_time": 1752764002,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161468,
+        "num": 161468,
+        "word": "奥巴马夫妇回应离婚传闻",
+        "onboard_time": 1752750682,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160466,
+        "num": 160466,
+        "word": "朝雪录",
+        "onboard_time": 1752750561,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128748,
+        "num": 159785,
+        "word": "听说三伏天适合减肥",
+        "onboard_time": 1752765022,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159281,
+        "num": 159281,
+        "word": "孙颖莎要以身作则激励年轻一代",
+        "onboard_time": 1752765682,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156111,
+        "num": 156111,
+        "word": "李昀锐秀肌肉",
+        "onboard_time": 1752764720,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147488,
+        "num": 147488,
+        "word": "打歌2025",
+        "onboard_time": 1752765921,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140975,
+        "num": 140975,
+        "word": "王楚钦秀胯下击球",
+        "onboard_time": 1752764301,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139816,
+        "num": 139816,
+        "word": "张艺凡的腿",
+        "onboard_time": 1752750202,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133692,
+        "num": 133692,
+        "word": "21岁女孩患癌后的第一次短暂自由",
+        "onboard_time": 1752764301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132822,
+        "num": 132822,
+        "word": "朱孝天和F4其他三人不熟",
+        "onboard_time": 1752759322,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128005,
+        "num": 128005,
+        "word": "当带法国人去圆明园",
+        "onboard_time": 1752765082,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87544,
+        "num": 124690,
+        "word": "香港禁烟设施也太超前了",
+        "onboard_time": 1752764602,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124158,
+        "num": 124158,
+        "word": "一国企登报喊61名职工回来上班",
+        "onboard_time": 1752757702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 120606,
+        "word": "BLG对战G2",
+        "onboard_time": 1752764662,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113768,
+        "num": 113768,
+        "word": "王祖贤自拍",
+        "onboard_time": 1752750861,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108788,
+        "num": 108788,
+        "word": "小花生状态",
+        "onboard_time": 1752766042,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105080,
+        "num": 105080,
+        "word": "B萌",
+        "onboard_time": 1752761062,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102415,
+        "num": 102415,
+        "word": "小猫要一辈子崇拜你了",
+        "onboard_time": 1752766102,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102212,
+        "num": 102212,
+        "word": "减肥 甜玉米",
+        "onboard_time": 1752743722,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99933,
+        "num": 99933,
+        "word": "连SVIP都不能听的台词出现了",
+        "onboard_time": 1752758182,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99104,
+        "num": 99104,
+        "word": "武侠剧要回来了",
+        "onboard_time": 1752751824,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92776,
+        "num": 92776,
+        "word": "小花生千珏",
+        "onboard_time": 1752766162,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91225,
+        "num": 91225,
+        "word": "白鹿对接回应叶璃妆造争议",
+        "onboard_time": 1752755901,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条中国特色城市现代化新路子#"
+    }
+  }
+}

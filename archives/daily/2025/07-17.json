@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752763626889,
+  "endTime": 1752766247065,
   "band_list": [
     {
       "raw_hot": 11780659,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1001145,
+      "num": 1160183,
+      "word": "肖战直播",
+      "onboard_time": 1752753082,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 980412,
       "num": 380247,
       "word": "董璇张维伊婚宴敬酒照",
@@ -179,12 +187,12 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 841963,
-      "num": 1132335,
-      "word": "肖战直播",
-      "onboard_time": 1752753082,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 852482,
+      "num": 619338,
+      "word": "被家暴16次女子前婆婆被判返还91万",
+      "onboard_time": 1752760342,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 833418,
@@ -369,14 +377,6 @@
       "onboard_time": 1752723741,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 619338,
-      "num": 619338,
-      "word": "被家暴16次女子前婆婆被判返还91万",
-      "onboard_time": 1752760342,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 614147,
@@ -593,6 +593,14 @@
       "onboard_time": 1752720981,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 413450,
+      "num": 226664,
+      "word": "网红老板西藏自驾途中去世",
+      "onboard_time": 1752763223,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406182,
@@ -899,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262223,
+      "num": 238750,
+      "word": "谢娜父母女儿爱人工作的排序",
+      "onboard_time": 1752764301,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260954,
       "num": 262748,
       "word": "一国企登报喊61名职工回来上班",
@@ -913,6 +929,14 @@
       "onboard_time": 1752750082,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 258312,
+      "num": 226214,
+      "word": "马云骑车夜游西湖",
+      "onboard_time": 1752764362,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 254290,
@@ -971,6 +995,30 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 249267,
+      "num": 225379,
+      "word": "邓为戏服",
+      "onboard_time": 1752763163,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 248819,
+      "num": 223809,
+      "word": "蔡徐坤新发色",
+      "onboard_time": 1752762863,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247832,
+      "num": 231569,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1752760642,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236513,
       "num": 236513,
       "word": "jiejie wei",
@@ -1000,14 +1048,6 @@
       "word": "刘宇宁陈星旭林一扫腿舞",
       "onboard_time": 1752709880,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 231569,
-      "num": 231569,
-      "word": "密室大逃脱大神版",
-      "onboard_time": 1752760642,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1043,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221929,
+      "num": 221929,
+      "word": "AG对战TTG",
+      "onboard_time": 1752756202,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221026,
       "num": 221026,
       "word": "姑娘骑车一路流泪被交警拦下安慰",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1752727402,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219422,
+      "num": 219422,
+      "word": "肖战强迫症好夸张",
+      "onboard_time": 1752765801,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 218536,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1752758423,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208948,
-      "num": 208948,
-      "word": "蔡徐坤新发色",
-      "onboard_time": 1752762863,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 206844,
@@ -1331,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194387,
+      "num": 194387,
+      "word": "上海暴雨",
+      "onboard_time": 1752764243,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194108,
       "num": 194108,
       "word": "演员李梦搬家到杭州租别墅生活",
@@ -1403,14 +1459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188423,
-      "num": 188423,
-      "word": "AG对战TTG",
-      "onboard_time": 1752756202,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 188318,
       "num": 147986,
       "word": "田栩宁轮流宠",
@@ -1473,14 +1521,6 @@
       "onboard_time": 1752754821,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184136,
-      "num": 160109,
-      "word": "网红老板西藏自驾途中去世",
-      "onboard_time": 1752763223,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183949,
@@ -1617,14 +1657,6 @@
       "onboard_time": 1752742401,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172639,
-      "num": 172639,
-      "word": "邓为戏服",
-      "onboard_time": 1752763163,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 172272,
@@ -1771,12 +1803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163891,
+      "num": 163891,
+      "word": "被家暴16次女子最新发声",
+      "onboard_time": 1752764002,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161994,
       "num": 161994,
       "word": "郭俊辰有7部待播作品了",
       "onboard_time": 1752725183,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160578,
+      "num": 228072,
+      "word": "余杭水务回应臭水事件赔偿问题",
+      "onboard_time": 1752765263,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160305,
@@ -1793,6 +1841,14 @@
       "onboard_time": 1752744022,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159281,
+      "num": 159281,
+      "word": "孙颖莎要以身作则激励年轻一代",
+      "onboard_time": 1752765682,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 158997,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1752752424,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 156111,
+      "num": 156111,
+      "word": "李昀锐秀肌肉",
+      "onboard_time": 1752764720,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 155908,
@@ -1995,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147488,
+      "num": 147488,
+      "word": "打歌2025",
+      "onboard_time": 1752765921,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147006,
       "num": 147006,
       "word": "黄景瑜撤回一出又整一出",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1752723922,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140975,
+      "num": 140975,
+      "word": "王楚钦秀胯下击球",
+      "onboard_time": 1752764301,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 140943,
@@ -2251,12 +2331,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133692,
+      "num": 133692,
+      "word": "21岁女孩患癌后的第一次短暂自由",
+      "onboard_time": 1752764301,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133089,
       "num": 133089,
       "word": "临沂巨响",
       "onboard_time": 1752748883,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 132822,
+      "num": 199334,
+      "word": "朱孝天和F4其他三人不熟",
+      "onboard_time": 1752759322,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132220,
@@ -2315,6 +2411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128748,
+      "num": 159785,
+      "word": "听说三伏天适合减肥",
+      "onboard_time": 1752765022,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128747,
       "num": 118904,
       "word": "余茵是真的听劝",
@@ -2329,6 +2433,14 @@
       "onboard_time": 1752742462,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128005,
+      "num": 128005,
+      "word": "当带法国人去圆明园",
+      "onboard_time": 1752765082,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127356,
@@ -2361,14 +2473,6 @@
       "onboard_time": 1752661401,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124313,
-      "num": 199334,
-      "word": "朱孝天和F4其他三人不熟",
-      "onboard_time": 1752759322,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 122788,
@@ -2417,6 +2521,14 @@
       "onboard_time": 1752754282,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120606,
+      "num": 120606,
+      "word": "BLG对战G2",
+      "onboard_time": 1752764662,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 118934,
@@ -2611,6 +2723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108788,
+      "num": 108788,
+      "word": "小花生状态",
+      "onboard_time": 1752766042,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108597,
       "num": 108597,
       "word": "王赫野属于我们的歌",
@@ -2731,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102415,
+      "num": 102415,
+      "word": "小猫要一辈子崇拜你了",
+      "onboard_time": 1752766102,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102220,
       "num": 102220,
       "word": "张颜齐的导演处女作",
@@ -2835,6 +2963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92776,
+      "num": 92776,
+      "word": "小花生千珏",
+      "onboard_time": 1752766162,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91929,
       "num": 117855,
       "word": "爱康国宾客服回应体检涉嫌误检漏检",
@@ -2937,6 +3073,14 @@
       "onboard_time": 1752710181,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87544,
+      "num": 124690,
+      "word": "香港禁烟设施也太超前了",
+      "onboard_time": 1752764602,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86223,
@@ -3107,6 +3251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70666,
+      "num": 224772,
+      "word": "山姆选品降级到底藏着多少猫腻",
+      "onboard_time": 1752765682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70040,
       "num": 133090,
       "word": "马龙又成打卡点了",
@@ -3151,6 +3303,14 @@
       "num": 220634,
       "word": "辽宁一饮用水水源地有人骑水上摩托艇",
       "onboard_time": 1752740482,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64924,
+      "num": 219853,
+      "word": "游客为拍照不慎将孩子撞落水",
+      "onboard_time": 1752765741,
       "rank": 19,
       "category": "民生新闻"
     },
