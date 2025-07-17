@@ -1,0 +1,410 @@
+{
+  "runTime": 1752719667972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134869,
+        "num": 1181579,
+        "word": "罗家英自曝注射女性荷尔蒙",
+        "onboard_time": 1752711681,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1021733,
+        "num": 1021733,
+        "word": "孩子喜提北大通知书两家父母神同步",
+        "onboard_time": 1752716842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37671,
+        "num": 832065,
+        "word": "护网某科技公司未落实网络安全保护义务被罚",
+        "onboard_time": 1752714142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757415,
+        "num": 757415,
+        "word": "飞驰人生3",
+        "onboard_time": 1752717141,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 751695,
+        "num": 751695,
+        "word": "特朗普让可口可乐改配方",
+        "onboard_time": 1752717502,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505795,
+        "num": 505795,
+        "word": "印度机长关闭燃油开关或导致坠机",
+        "onboard_time": 1752711741,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 441598,
+        "num": 441598,
+        "word": "四川重庆已经热红了",
+        "onboard_time": 1752712520,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384878,
+        "num": 384878,
+        "word": "妻子过了近30年才知道丈夫工作",
+        "onboard_time": 1752711381,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 381382,
+        "num": 381382,
+        "word": "王心凌也是穿上王心凌痛衣了",
+        "onboard_time": 1752711081,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277293,
+        "num": 359216,
+        "word": "美国人想坐高铁遥遥无期",
+        "onboard_time": 1752713182,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 916879,
+        "num": 358217,
+        "word": "韩安冉晒孕肚",
+        "onboard_time": 1752717382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510339,
+        "num": 354553,
+        "word": "大大方方结束一段不健康的关系",
+        "onboard_time": 1752716182,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344704,
+        "num": 344704,
+        "word": "女子下班发现自家猫生3只崽天塌了",
+        "onboard_time": 1752714203,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299545,
+        "num": 299545,
+        "word": "女生因张若昀爆剧入行法医",
+        "onboard_time": 1752707118,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283982,
+        "num": 283982,
+        "word": "35岁女子长期精神内耗确诊甲状腺癌",
+        "onboard_time": 1752716600,
+        "rank": 14,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 221026,
+        "num": 221026,
+        "word": "姑娘骑车一路流泪被交警拦下安慰",
+        "onboard_time": 1752717801,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 217182,
+        "num": 217182,
+        "word": "爱康国宾体检10年未做出癌症预警",
+        "onboard_time": 1752711500,
+        "rank": 16,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 201960,
+        "num": 216106,
+        "word": "双轨",
+        "onboard_time": 1752718760,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201124,
+        "num": 215891,
+        "word": "关晓彤cha了沈佳润的美美桑内",
+        "onboard_time": 1752679282,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188509,
+        "num": 215781,
+        "word": "刘宇宁陈星旭林一扫腿舞",
+        "onboard_time": 1752709880,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215724,
+        "num": 215724,
+        "word": "皮肤7种变化提示血糖超标了",
+        "onboard_time": 1752712161,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215625,
+        "num": 215625,
+        "word": "山姆会成下一个钟薛高吗",
+        "onboard_time": 1752712942,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 203593,
+        "num": 203593,
+        "word": "西安市民热到吸氧",
+        "onboard_time": 1752716842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201606,
+        "num": 201606,
+        "word": "男子摸爬叉一晚收入上万元",
+        "onboard_time": 1752709821,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200290,
+        "num": 200290,
+        "word": "美国海啸预警",
+        "onboard_time": 1752715281,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173930,
+        "num": 173930,
+        "word": "美阿拉斯加州以南7.3级地震",
+        "onboard_time": 1752707657,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167086,
+        "num": 167086,
+        "word": "人一旦拥有了小电驴就不一样了",
+        "onboard_time": 1752715761,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163212,
+        "num": 163212,
+        "word": "故宫偶遇陈奕迅",
+        "onboard_time": 1752713122,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151439,
+        "num": 151439,
+        "word": "村里腾出空调房免费托管全村孩子",
+        "onboard_time": 1752717740,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143613,
+        "num": 143613,
+        "word": "关晓彤你不瘦谁瘦",
+        "onboard_time": 1752679282,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138581,
+        "num": 138581,
+        "word": "戒糖10天后身体发生的变化",
+        "onboard_time": 1752707598,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137593,
+        "num": 137593,
+        "word": "多肉饱饱",
+        "onboard_time": 1752718461,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131532,
+        "num": 131532,
+        "word": "法国宣布裁减公职并取消假期",
+        "onboard_time": 1752714324,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130775,
+        "num": 130775,
+        "word": "演唱会前夕亲人离世平台拒退票",
+        "onboard_time": 1752674243,
+        "rank": 33,
+        "category": "舆论监督,演出"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 125365,
+        "word": "印度大规模猥亵事件478人被捕",
+        "onboard_time": 1752672923,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116358,
+        "num": 116358,
+        "word": "少年自制火箭让梦想飞起来了",
+        "onboard_time": 1752716001,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116235,
+        "num": 116235,
+        "word": "女子花350元漂发头发狂掉像面条",
+        "onboard_time": 1752707298,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112392,
+        "num": 112392,
+        "word": "马龙北京出发",
+        "onboard_time": 1752718340,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112147,
+        "num": 112147,
+        "word": "以色列防长称开始痛击叙政权",
+        "onboard_time": 1752713722,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108865,
+        "num": 108865,
+        "word": "国产金枕榴莲即将上市",
+        "onboard_time": 1752719541,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107561,
+        "num": 107561,
+        "word": "王者荣耀",
+        "onboard_time": 1752711201,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103941,
+        "num": 103941,
+        "word": "晚上10点睡和11点睡的区别有多大",
+        "onboard_time": 1752712102,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100138,
+        "num": 100138,
+        "word": "Steam新规限制成人内容",
+        "onboard_time": 1752715580,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99418,
+        "num": 99418,
+        "word": "JYP和女儿合照",
+        "onboard_time": 1752708199,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90809,
+        "num": 90809,
+        "word": "昆明拿下全球避暑胜地第一名",
+        "onboard_time": 1752714622,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 79828,
+        "num": 79828,
+        "word": "朱孝天称虽非内地长大一直是中国人",
+        "onboard_time": 1752710181,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79267,
+        "num": 79267,
+        "word": "狗狗睡觉盖枕头被人换毛毯裹严实",
+        "onboard_time": 1752716721,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78687,
+        "num": 78687,
+        "word": "酷似林依晨女孩被心仪大学录取",
+        "onboard_time": 1752689295,
+        "rank": 47,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 76866,
+        "num": 76866,
+        "word": "为什么只遛半条狗啊",
+        "onboard_time": 1752716960,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75759,
+        "num": 75759,
+        "word": "傲寒",
+        "onboard_time": 1752713484,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设现代化人民城市有6个关键词#"
+    }
+  }
+}

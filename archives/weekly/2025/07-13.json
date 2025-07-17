@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752718181686,
+  "endTime": 1752719667972,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1021733,
+      "num": 1021733,
+      "word": "孩子喜提北大通知书两家父母神同步",
+      "onboard_time": 1752716842,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1016561,
       "num": 1016561,
       "word": "wtt美国大满贯",
@@ -801,6 +809,14 @@
       "onboard_time": 1752658161,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 916879,
+      "num": 358217,
+      "word": "韩安冉晒孕肚",
+      "onboard_time": 1752717382,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 914092,
@@ -1073,6 +1089,22 @@
       "onboard_time": 1752552562,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 757415,
+      "num": 757415,
+      "word": "飞驰人生3",
+      "onboard_time": 1752717141,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 751695,
+      "num": 751695,
+      "word": "特朗普让可口可乐改配方",
+      "onboard_time": 1752717502,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 744852,
@@ -1587,14 +1619,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 575391,
-      "num": 575391,
-      "word": "飞驰人生3",
-      "onboard_time": 1752717141,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 571949,
       "num": 571949,
       "word": "南开大学教授因个人简介实诚走红",
@@ -1628,7 +1652,7 @@
     },
     {
       "raw_hot": 566918,
-      "num": 296245,
+      "num": 344704,
       "word": "女子下班发现自家猫生3只崽天塌了",
       "onboard_time": 1752714203,
       "rank": 10,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1752535218,
       "rank": 16,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 510339,
+      "num": 354553,
+      "word": "大大方方结束一段不健康的关系",
+      "onboard_time": 1752716182,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 509957,
@@ -2603,14 +2635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 363518,
-      "num": 296107,
-      "word": "韩安冉晒孕肚",
-      "onboard_time": 1752717382,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362242,
       "num": 362242,
       "word": "南京闪电",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1752571041,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360843,
-      "num": 295987,
-      "word": "孩子喜提北大通知书两家父母神同步",
-      "onboard_time": 1752716842,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360184,
@@ -3387,20 +3403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283982,
+      "num": 283982,
+      "word": "35岁女子长期精神内耗确诊甲状腺癌",
+      "onboard_time": 1752716600,
+      "rank": 22,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 283250,
       "num": 283250,
       "word": "何惟芳蒋长扬人鬼情未了",
       "onboard_time": 1752403101,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282936,
-      "num": 282936,
-      "word": "大大方方结束一段不健康的关系",
-      "onboard_time": 1752716182,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 282738,
@@ -4323,6 +4339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221026,
+      "num": 221026,
+      "word": "姑娘骑车一路流泪被交警拦下安慰",
+      "onboard_time": 1752717801,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 220765,
       "num": 220765,
       "word": "田栩宁厦门飞杭州路透",
@@ -4537,14 +4561,6 @@
       "onboard_time": 1752411923,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 214341,
-      "num": 214341,
-      "word": "35岁女子长期精神内耗确诊甲状腺癌",
-      "onboard_time": 1752716600,
-      "rank": 22,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 214162,
@@ -4931,6 +4947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203593,
+      "num": 203593,
+      "word": "西安市民热到吸氧",
+      "onboard_time": 1752716842,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203263,
       "num": 203263,
       "word": "未定事件簿婚礼",
@@ -4993,6 +5017,14 @@
       "onboard_time": 1752330204,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201960,
+      "num": 216106,
+      "word": "双轨",
+      "onboard_time": 1752718760,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 201797,
@@ -5425,14 +5457,6 @@
       "onboard_time": 1752484701,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190413,
-      "num": 190413,
-      "word": "特朗普让可口可乐改配方",
-      "onboard_time": 1752717502,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189789,
@@ -6363,14 +6387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169272,
-      "num": 169272,
-      "word": "西安市民热到吸氧",
-      "onboard_time": 1752716842,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169239,
       "num": 169239,
       "word": "樱桃琥珀西太后好疯一女的",
@@ -6489,6 +6505,14 @@
       "onboard_time": 1752372559,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167086,
+      "num": 167086,
+      "word": "人一旦拥有了小电驴就不一样了",
+      "onboard_time": 1752715761,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 166997,
@@ -6955,14 +6979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156900,
-      "num": 156900,
-      "word": "姑娘骑车一路流泪被交警拦下安慰",
-      "onboard_time": 1752717801,
-      "rank": 30,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 156893,
       "num": 289655,
       "word": "蒯曼夺冠采访边说边乐",
@@ -7307,6 +7323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151439,
+      "num": 151439,
+      "word": "村里腾出空调房免费托管全村孩子",
+      "onboard_time": 1752717740,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151079,
       "num": 151079,
       "word": "梁伟铿球包上全是labubu",
@@ -7473,14 +7497,6 @@
       "onboard_time": 1752582622,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147684,
-      "num": 147684,
-      "word": "人一旦拥有了小电驴就不一样了",
-      "onboard_time": 1752715761,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 147641,
@@ -8131,6 +8147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138581,
+      "num": 138581,
+      "word": "戒糖10天后身体发生的变化",
+      "onboard_time": 1752707598,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138574,
       "num": 138574,
       "word": "下半年价格将低位温和回升",
@@ -8217,6 +8241,14 @@
       "onboard_time": 1752570743,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137593,
+      "num": 137593,
+      "word": "多肉饱饱",
+      "onboard_time": 1752718461,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 137357,
@@ -8531,14 +8563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132964,
-      "num": 132964,
-      "word": "戒糖10天后身体发生的变化",
-      "onboard_time": 1752707598,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132941,
       "num": 132941,
       "word": "朝雪录云包场",
@@ -8641,6 +8665,14 @@
       "onboard_time": 1752483922,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131532,
+      "num": 131532,
+      "word": "法国宣布裁减公职并取消假期",
+      "onboard_time": 1752714324,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131421,
@@ -9401,14 +9433,6 @@
       "onboard_time": 1752506124,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121798,
-      "num": 121798,
-      "word": "村里腾出空调房免费托管全村孩子",
-      "onboard_time": 1752717740,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121634,
@@ -10291,6 +10315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112392,
+      "num": 112392,
+      "word": "马龙北京出发",
+      "onboard_time": 1752718340,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112347,
       "num": 112347,
       "word": "扫毒风暴台词",
@@ -10313,6 +10345,14 @@
       "onboard_time": 1752487281,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112147,
+      "num": 112147,
+      "word": "以色列防长称开始痛击叙政权",
+      "onboard_time": 1752713722,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112119,
@@ -10531,6 +10571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108865,
+      "num": 108865,
+      "word": "国产金枕榴莲即将上市",
+      "onboard_time": 1752719541,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108809,
       "num": 108809,
       "word": "李想称雷军建议为及时雨",
@@ -10673,14 +10721,6 @@
       "onboard_time": 1752632719,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106671,
-      "num": 106671,
-      "word": "以色列防长称开始痛击叙政权",
-      "onboard_time": 1752713722,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106651,
@@ -11419,14 +11459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96498,
-      "num": 96498,
-      "word": "法国宣布裁减公职并取消假期",
-      "onboard_time": 1752714324,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 96459,
       "num": 96459,
       "word": "明凯回应加入JDG",
@@ -11793,6 +11825,14 @@
       "onboard_time": 1752649820,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 90809,
+      "num": 90809,
+      "word": "昆明拿下全球避暑胜地第一名",
+      "onboard_time": 1752714622,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 90049,
@@ -12267,6 +12307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79267,
+      "num": 79267,
+      "word": "狗狗睡觉盖枕头被人换毛毯裹严实",
+      "onboard_time": 1752716721,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79157,
       "num": 246363,
       "word": "周一才是最需要外卖大战的",
@@ -12289,14 +12337,6 @@
       "onboard_time": 1752536660,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77938,
-      "num": 77938,
-      "word": "昆明拿下全球避暑胜地第一名",
-      "onboard_time": 1752714622,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 77831,
@@ -13316,7 +13356,7 @@
     },
     {
       "raw_hot": 38193,
-      "num": 620972,
+      "num": 832065,
       "word": "护网某科技公司未落实网络安全保护义务被罚",
       "onboard_time": 1752714142,
       "rank": 2,
