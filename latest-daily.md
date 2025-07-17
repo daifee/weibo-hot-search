@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/18 00:35:17 ~ 2025/07/18 04:45:00
+本榜单时间：2025/07/18 00:35:17 ~ 2025/07/18 05:26:48
 </p>
 </blockquote>
 <p>
@@ -423,6 +423,12 @@ zwy的bp（热度：34572）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%97%E9%9D%A2%E8%AE%A9%E8%80%81%E5%A4%96%E8%A7%89%E5%BE%97%E4%B8%8D%E4%BC%9A%E7%94%A8%E7%AD%B7%E5%AD%90%E4%B8%A2%E4%BA%BA%23" target="weibo">
+一碗面让老外觉得不会用筷子丢人（热度：15125）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E6%84%8F%E5%AF%B9150%E5%A4%9A%E4%B8%AA%E6%AC%A1%E8%A6%81%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23" target="weibo">
 特朗普有意对150多个次要贸易伙伴加征关税（热度：13951）
 </a>
@@ -435,8 +441,8 @@ zwy的bp（热度：34572）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%97%E9%9D%A2%E8%AE%A9%E8%80%81%E5%A4%96%E8%A7%89%E5%BE%97%E4%B8%8D%E4%BC%9A%E7%94%A8%E7%AD%B7%E5%AD%90%E4%B8%A2%E4%BA%BA%23" target="weibo">
-一碗面让老外觉得不会用筷子丢人（热度：11250）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%AC%A7%E4%BA%BA%E7%9A%84%E4%BA%BA%E7%94%9F%E5%AE%B9%E9%94%99%E7%8E%87%23" target="weibo">
+北欧人的人生容错率（热度：12115）
 </a>
 </li>
 

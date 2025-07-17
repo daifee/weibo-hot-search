@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752785100088,
+  "endTime": 1752787608383,
   "band_list": [
     {
       "raw_hot": 737123,
@@ -540,11 +540,19 @@
     },
     {
       "raw_hot": 16575,
-      "num": 16575,
+      "num": 16828,
       "word": "小鸡 妈妈这么做一定有她的道理",
       "onboard_time": 1752780913,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15125,
+      "num": 16871,
+      "word": "一碗面让老外觉得不会用筷子丢人",
+      "onboard_time": 1752784034,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 13951,
@@ -563,12 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11250,
-      "num": 16570,
-      "word": "一碗面让老外觉得不会用筷子丢人",
-      "onboard_time": 1752784034,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 12115,
+      "num": 16783,
+      "word": "北欧人的人生容错率",
+      "onboard_time": 1752785655,
+      "rank": 43,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
