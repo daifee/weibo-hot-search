@@ -1,0 +1,410 @@
+{
+  "runTime": 1752741411080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3971287,
+        "num": 3971287,
+        "word": "杭州就娃哈哈事件成立专班",
+        "onboard_time": 1752740001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1056656,
+        "num": 1056656,
+        "word": "董璇张维伊争吵",
+        "onboard_time": 1752740661,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36780,
+        "num": 828372,
+        "word": "院士说把卫星扔上天真是扬眉吐气",
+        "onboard_time": 1752725302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679186,
+        "num": 679186,
+        "word": "爸妈公积金能帮还房贷了",
+        "onboard_time": 1752731181,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517430,
+        "num": 517430,
+        "word": "杨幂今天好粉",
+        "onboard_time": 1752736102,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496927,
+        "num": 496927,
+        "word": "买东方树叶收到东方爽茶",
+        "onboard_time": 1752737541,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 412738,
+        "num": 412738,
+        "word": "五台山游客疑因挑逗牛被围攻踩踏",
+        "onboard_time": 1752732742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324554,
+        "num": 324554,
+        "word": "易烊千玺戴了美瞳",
+        "onboard_time": 1752737481,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298876,
+        "num": 298876,
+        "word": "余景天录节目失控掀桌子",
+        "onboard_time": 1752725661,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134834,
+        "num": 297113,
+        "word": "湖北一处地表温度超73度",
+        "onboard_time": 1752737361,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3359595,
+        "num": 290473,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 669695,
+        "num": 285022,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480778,
+        "num": 274375,
+        "word": "不要送自己舍不得买的东西",
+        "onboard_time": 1752737061,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273466,
+        "num": 273466,
+        "word": "男婴离世家长获赔88万律师拿55万",
+        "onboard_time": 1752727643,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457813,
+        "num": 267658,
+        "word": "董璇伴娘团有佟丽娅",
+        "onboard_time": 1752733522,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347700,
+        "num": 265362,
+        "word": "男子控糖一年身体变化",
+        "onboard_time": 1752732322,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258645,
+        "num": 258645,
+        "word": "体检10年未查出癌症女子发声",
+        "onboard_time": 1752724644,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224157,
+        "num": 224157,
+        "word": "外国网红在中国街头栽赃路人",
+        "onboard_time": 1752734241,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221035,
+        "num": 221035,
+        "word": "暗河传",
+        "onboard_time": 1752737722,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65795,
+        "num": 220634,
+        "word": "辽宁一饮用水水源地有人骑水上摩托艇",
+        "onboard_time": 1752740482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222741,
+        "num": 220501,
+        "word": "陈奕迅疑似回家看老宅",
+        "onboard_time": 1752735382,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220350,
+        "num": 220350,
+        "word": "6年3次被判不许离婚男方提交新证据",
+        "onboard_time": 1752739103,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15445,
+        "num": 217936,
+        "word": "律师解读租房甲醛超标责任划分",
+        "onboard_time": 1752741142,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217217,
+        "num": 217217,
+        "word": "樱桃琥珀 40集删减到24集",
+        "onboard_time": 1752734182,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197779,
+        "num": 197779,
+        "word": "惠英红陈伟霆 脑补了些大胆故事",
+        "onboard_time": 1752740661,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192039,
+        "num": 192039,
+        "word": "原来布洛芬胶囊是穿拖鞋的",
+        "onboard_time": 1752739821,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 188990,
+        "num": 188990,
+        "word": "韩红或将不再录制综艺",
+        "onboard_time": 1752740541,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179328,
+        "num": 179328,
+        "word": "可口可乐回应特朗普要求改配方",
+        "onboard_time": 1752729742,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178257,
+        "num": 178257,
+        "word": "青春旅行团",
+        "onboard_time": 1752741082,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177629,
+        "num": 177629,
+        "word": "吐槽中国的英国网红在印度崩溃",
+        "onboard_time": 1752740424,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151003,
+        "num": 151003,
+        "word": "大冰直播间被骚扰高中生后续",
+        "onboard_time": 1752730041,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149736,
+        "num": 149736,
+        "word": "一种新型诈骗是网店发错货",
+        "onboard_time": 1752739701,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144447,
+        "num": 144447,
+        "word": "特朗普让可口可乐改配方",
+        "onboard_time": 1752717502,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125456,
+        "num": 125456,
+        "word": "四川重庆已经热红了",
+        "onboard_time": 1752712520,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118410,
+        "num": 118410,
+        "word": "女子产后撞见男友出轨殴打小三被拘",
+        "onboard_time": 1752729142,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91929,
+        "num": 117855,
+        "word": "爱康国宾客服回应体检涉嫌误检漏检",
+        "onboard_time": 1752739343,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117739,
+        "num": 117739,
+        "word": "女子加价买演唱会门票被骗19万",
+        "onboard_time": 1752735982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117066,
+        "num": 117066,
+        "word": "iG首发",
+        "onboard_time": 1752723741,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115075,
+        "num": 115075,
+        "word": "演员李梦搬家到杭州租别墅生活",
+        "onboard_time": 1752735982,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114959,
+        "num": 114959,
+        "word": "预计樊振东7月25日交手林诗栋",
+        "onboard_time": 1752737422,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112020,
+        "num": 112020,
+        "word": "女教师称调岗一年后发现被降级",
+        "onboard_time": 1752735321,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107544,
+        "num": 107544,
+        "word": "五台山回应游客疑因挑逗牛被攻击",
+        "onboard_time": 1752734841,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105134,
+        "num": 105134,
+        "word": "地球高温消毒",
+        "onboard_time": 1752734481,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103765,
+        "num": 103765,
+        "word": "复读15次唐尚珺谈网红身份困扰",
+        "onboard_time": 1752740962,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103314,
+        "num": 103314,
+        "word": "刘宇宁一发歌剧方都吻上来了",
+        "onboard_time": 1752739042,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101488,
+        "num": 101488,
+        "word": "上海地铁11号线出现板凳族",
+        "onboard_time": 1752739761,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96654,
+        "num": 96654,
+        "word": "汪苏泷深圳抢票",
+        "onboard_time": 1752741203,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90571,
+        "num": 90571,
+        "word": "可口可乐 玉米糖浆",
+        "onboard_time": 1752740901,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88074,
+        "num": 88074,
+        "word": "多家网红女装尺码竟比童装小",
+        "onboard_time": 1752738141,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71926,
+        "num": 88021,
+        "word": "让体脂率不断下降的7个习惯",
+        "onboard_time": 1752720981,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}

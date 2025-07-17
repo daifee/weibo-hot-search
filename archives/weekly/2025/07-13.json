@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752738192621,
+  "endTime": 1752741411080,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -25,6 +25,22 @@
       "onboard_time": 1752566721,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3971287,
+      "num": 3971287,
+      "word": "杭州就娃哈哈事件成立专班",
+      "onboard_time": 1752740001,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3359595,
+      "num": 302612,
+      "word": "宝剑嫂雨哥分手",
+      "onboard_time": 1752737241,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 2900025,
@@ -97,14 +113,6 @@
       "onboard_time": 1752550582,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1961901,
-      "num": 302612,
-      "word": "宝剑嫂雨哥分手",
-      "onboard_time": 1752737241,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 1945570,
@@ -665,6 +673,14 @@
       "onboard_time": 1752554543,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1056656,
+      "num": 1056656,
+      "word": "董璇张维伊争吵",
+      "onboard_time": 1752740661,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1048731,
@@ -2131,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496927,
+      "num": 496927,
+      "word": "买东方树叶收到东方爽茶",
+      "onboard_time": 1752737541,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 496061,
       "num": 434459,
       "word": "发现梓渝兔子塑的一定是天才",
@@ -2225,6 +2249,14 @@
       "onboard_time": 1752494663,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480778,
+      "num": 274375,
+      "word": "不要送自己舍不得买的东西",
+      "onboard_time": 1752737061,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 473073,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1752404901,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324554,
+      "num": 324554,
+      "word": "易烊千玺戴了美瞳",
+      "onboard_time": 1752737481,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 323975,
@@ -4571,14 +4611,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 230486,
-      "num": 230486,
-      "word": "不要送自己舍不得买的东西",
-      "onboard_time": 1752737061,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "王楚钦4比0张本智和",
@@ -4593,14 +4625,6 @@
       "onboard_time": 1752726983,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228944,
-      "num": 238539,
-      "word": "易烊千玺戴了美瞳",
-      "onboard_time": 1752737481,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 227836,
@@ -4667,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222741,
+      "num": 220501,
+      "word": "陈奕迅疑似回家看老宅",
+      "onboard_time": 1752735382,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221944,
       "num": 189636,
       "word": "我那50岁还在唱跳的老爱豆",
@@ -4691,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221035,
+      "num": 221035,
+      "word": "暗河传",
+      "onboard_time": 1752737722,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221026,
       "num": 221026,
       "word": "姑娘骑车一路流泪被交警拦下安慰",
@@ -4713,6 +4753,14 @@
       "onboard_time": 1752368479,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 220350,
+      "num": 220350,
+      "word": "6年3次被判不许离婚男方提交新证据",
+      "onboard_time": 1752739103,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220065,
@@ -5571,6 +5619,14 @@
       "category": "汽车,数码"
     },
     {
+      "raw_hot": 197779,
+      "num": 197779,
+      "word": "惠英红陈伟霆 脑补了些大胆故事",
+      "onboard_time": 1752740661,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197629,
       "num": 197629,
       "word": "单依纯许馨一凡竟然是室友",
@@ -5835,6 +5891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192039,
+      "num": 192039,
+      "word": "原来布洛芬胶囊是穿拖鞋的",
+      "onboard_time": 1752739821,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191672,
       "num": 191672,
       "word": "尚界H5正式亮相",
@@ -5993,6 +6057,14 @@
       "onboard_time": 1752630861,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188990,
+      "num": 188990,
+      "word": "韩红或将不再录制综艺",
+      "onboard_time": 1752740541,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 188814,
@@ -6563,6 +6635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178257,
+      "num": 178257,
+      "word": "青春旅行团",
+      "onboard_time": 1752741082,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177996,
       "num": 185786,
       "word": "A股半日缩量439亿元",
@@ -6585,6 +6665,14 @@
       "onboard_time": 1752599898,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177629,
+      "num": 177629,
+      "word": "吐槽中国的英国网红在印度崩溃",
+      "onboard_time": 1752740424,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177523,
@@ -7219,14 +7307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165978,
-      "num": 165978,
-      "word": "陈奕迅疑似回家看老宅",
-      "onboard_time": 1752735382,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165756,
       "num": 165756,
       "word": "H20",
@@ -7505,14 +7585,6 @@
       "onboard_time": 1752482122,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160292,
-      "num": 178880,
-      "word": "暗河传",
-      "onboard_time": 1752737722,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 160244,
@@ -8121,6 +8193,14 @@
       "onboard_time": 1752364938,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149736,
+      "num": 149736,
+      "word": "一种新型诈骗是网店发错货",
+      "onboard_time": 1752739701,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149719,
@@ -9321,6 +9401,14 @@
       "onboard_time": 1752560182,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134834,
+      "num": 297113,
+      "word": "湖北一处地表温度超73度",
+      "onboard_time": 1752737361,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134166,
@@ -10963,6 +11051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114959,
+      "num": 114959,
+      "word": "预计樊振东7月25日交手林诗栋",
+      "onboard_time": 1752737422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114817,
       "num": 114817,
       "word": "这些文物都长着明星脸",
@@ -11283,14 +11379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111685,
-      "num": 109717,
-      "word": "预计樊振东7月25日交手林诗栋",
-      "onboard_time": 1752737422,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111370,
       "num": 161440,
       "word": "母亲曝儿子缅甸失联后通话内容",
@@ -11377,14 +11465,6 @@
       "onboard_time": 1752564861,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 109873,
-      "num": 109873,
-      "word": "湖北一处地表温度超73度",
-      "onboard_time": 1752737361,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109803,
@@ -11931,6 +12011,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103765,
+      "num": 103765,
+      "word": "复读15次唐尚珺谈网红身份困扰",
+      "onboard_time": 1752740962,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103314,
+      "num": 103314,
+      "word": "刘宇宁一发歌剧方都吻上来了",
+      "onboard_time": 1752739042,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 103265,
       "num": 103265,
       "word": "朝雪录第二案真相太好哭了",
@@ -12104,6 +12200,14 @@
       "word": "男子顺风车猥亵同座女子被拘",
       "onboard_time": 1752370939,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101488,
+      "num": 101488,
+      "word": "上海地铁11号线出现板凳族",
+      "onboard_time": 1752739761,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -12409,6 +12513,14 @@
       "onboard_time": 1752452123,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96654,
+      "num": 96654,
+      "word": "汪苏泷深圳抢票",
+      "onboard_time": 1752741203,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 96505,
@@ -12731,6 +12843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91929,
+      "num": 117855,
+      "word": "爱康国宾客服回应体检涉嫌误检漏检",
+      "onboard_time": 1752739343,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91895,
       "num": 91895,
       "word": "韦雪拒绝与前男友同框",
@@ -12817,6 +12937,14 @@
       "onboard_time": 1752714622,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 90571,
+      "num": 90571,
+      "word": "可口可乐 玉米糖浆",
+      "onboard_time": 1752740901,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 90049,
@@ -12921,6 +13049,14 @@
       "onboard_time": 1752325882,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88074,
+      "num": 112662,
+      "word": "多家网红女装尺码竟比童装小",
+      "onboard_time": 1752738141,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87922,
@@ -13649,6 +13785,14 @@
       "onboard_time": 1752681081,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65795,
+      "num": 220634,
+      "word": "辽宁一饮用水水源地有人骑水上摩托艇",
+      "onboard_time": 1752740482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65329,
@@ -14483,14 +14627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37367,
-      "num": 292877,
-      "word": "买东方树叶收到东方爽茶",
-      "onboard_time": 1752737541,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 37243,
       "num": 179442,
       "word": "美团骑手之家落地武汉全行业开放",
@@ -14955,14 +15091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25014,
-      "num": 112662,
-      "word": "多家网红女装尺码竟比童装小",
-      "onboard_time": 1752738141,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24786,
       "num": 823146,
       "word": "护网2025严守视频会议安全门",
@@ -15329,6 +15457,14 @@
       "onboard_time": 1752688156,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15445,
+      "num": 217936,
+      "word": "律师解读租房甲醛超标责任划分",
+      "onboard_time": 1752741142,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14808,
