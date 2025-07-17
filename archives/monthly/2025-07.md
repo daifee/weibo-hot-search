@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 01:26:52
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 01:45:17
 </p>
 </blockquote>
 <p>
@@ -3423,6 +3423,12 @@ T1对战AL（热度：778834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98G2%23" target="weibo">
+BLG对战G2（热度：737123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%B3%B3%E8%A1%A3%E8%B5%B0%E5%85%89%E5%90%8E%E8%A2%AB%E5%91%8A%E7%9F%A5%E4%B8%8D%E8%83%BD%E6%B8%B8%E6%B3%B3%23" target="weibo">
 女子买泳衣走光后被告知不能游泳（热度：736383）
 </a>
@@ -6005,12 +6011,6 @@ BoA确诊为急性骨坏死（热度：517157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%942%E5%88%98%E6%9D%A8%E5%AD%90%23" target="weibo">
 孙颖莎3比2刘杨子（热度：506416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%9416%E5%B2%81%E5%A5%B3%E5%AD%90%E7%96%91%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%B8%A6%E7%97%85%E5%88%86%E5%A8%A9%23" target="weibo">
-多方回应16岁女子疑飞机上带病分娩（热度：506385）
 </a>
 </li>
 

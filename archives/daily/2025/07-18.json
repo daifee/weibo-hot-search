@@ -1,7 +1,15 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752773212755,
+  "endTime": 1752774317285,
   "band_list": [
+    {
+      "raw_hot": 737123,
+      "num": 737123,
+      "word": "BLG对战G2",
+      "onboard_time": 1752764662,
+      "rank": 13,
+      "category": "电竞"
+    },
     {
       "raw_hot": 580953,
       "num": 189654,
@@ -73,14 +81,6 @@
       "onboard_time": 1752764243,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220387,
-      "num": 220387,
-      "word": "BLG对战G2",
-      "onboard_time": 1752764662,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 212309,
@@ -395,7 +395,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45853,
+      "raw_hot": 49992,
       "num": 71016,
       "word": "你行你上",
       "onboard_time": 1752770719,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 39218,
-      "num": 39218,
+      "num": 49357,
       "word": "从太空看中国的绿色越来越多",
       "onboard_time": 1752770839,
       "rank": 33,
@@ -427,11 +427,35 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34572,
+      "num": 49349,
+      "word": "zwy的bp",
+      "onboard_time": 1752764903,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 34065,
+      "num": 49343,
+      "word": "杭州男子6万租房甲醛超标2倍多",
+      "onboard_time": 1752773776,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32968,
-      "num": 38327,
+      "num": 49255,
       "word": "朱孝天和F4其他三人不熟",
       "onboard_time": 1752759322,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32280,
+      "num": 49329,
+      "word": "杨幂潮女爱用手机壳",
+      "onboard_time": 1752772698,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -443,19 +467,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24161,
+      "num": 53576,
+      "word": "爱康声明",
+      "onboard_time": 1752767180,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22628,
       "num": 260192,
       "word": "录取通知书是大学的第一堂课",
       "onboard_time": 1752741921,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20965,
-      "num": 53576,
-      "word": "爱康声明",
-      "onboard_time": 1752767180,
-      "rank": 23,
       "category": "民生新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752773212755,
+  "endTime": 1752774317285,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -4545,6 +4545,14 @@
       "onboard_time": 1751544861,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 737123,
+      "num": 737123,
+      "word": "BLG对战G2",
+      "onboard_time": 1752764662,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 736383,
@@ -18513,14 +18521,6 @@
       "onboard_time": 1752286700,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220387,
-      "num": 220387,
-      "word": "BLG对战G2",
-      "onboard_time": 1752764662,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 220384,
@@ -55420,7 +55420,7 @@
     },
     {
       "raw_hot": 39218,
-      "num": 39218,
+      "num": 49357,
       "word": "从太空看中国的绿色越来越多",
       "onboard_time": 1752770839,
       "rank": 33,
@@ -56099,6 +56099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34065,
+      "num": 49343,
+      "word": "杭州男子6万租房甲醛超标2倍多",
+      "onboard_time": 1752773776,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34031,
       "num": 277386,
       "word": "院方与黑救护车老板签有合作协议",
@@ -56385,6 +56393,14 @@
       "onboard_time": 1752238885,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32280,
+      "num": 49329,
+      "word": "杨幂潮女爱用手机壳",
+      "onboard_time": 1752772698,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 32209,
@@ -57667,6 +57683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 24161,
+      "num": 53576,
+      "word": "爱康声明",
+      "onboard_time": 1752767180,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24014,
       "num": 228149,
       "word": "成都部分街道积水已至膝盖",
@@ -58200,14 +58224,6 @@
       "word": "一医院厨房被指用拖把洗灶台",
       "onboard_time": 1752488482,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20965,
-      "num": 53576,
-      "word": "爱康声明",
-      "onboard_time": 1752767180,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
