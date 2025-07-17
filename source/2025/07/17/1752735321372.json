@@ -1,0 +1,410 @@
+{
+  "runTime": 1752735321372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1133470,
+        "num": 1181355,
+        "word": "爸妈公积金能帮还房贷了",
+        "onboard_time": 1752731181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 895407,
+        "num": 895407,
+        "word": "余景天录节目失控掀桌子",
+        "onboard_time": 1752725661,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46362,
+        "num": 807498,
+        "word": "院士说把卫星扔上天真是扬眉吐气",
+        "onboard_time": 1752725302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 748908,
+        "num": 748908,
+        "word": "体检10年未查出癌症女子发声",
+        "onboard_time": 1752724644,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640225,
+        "num": 640225,
+        "word": "可口可乐回应特朗普要求改配方",
+        "onboard_time": 1752729742,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 637125,
+        "num": 637125,
+        "word": "大冰直播间被骚扰高中生后续",
+        "onboard_time": 1752730041,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 449398,
+        "num": 449398,
+        "word": "男婴离世家长获赔88万律师拿55万",
+        "onboard_time": 1752727643,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298492,
+        "num": 298492,
+        "word": "王楚然回复钉钉消息",
+        "onboard_time": 1752729622,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281875,
+        "num": 281875,
+        "word": "五台山游客疑因挑逗牛被围攻踩踏",
+        "onboard_time": 1752732742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271318,
+        "num": 271318,
+        "word": "朝雪录第二案道歉的人有点多",
+        "onboard_time": 1752733162,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1899130,
+        "num": 270554,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 748140,
+        "num": 269457,
+        "word": "董璇张维伊婚宴敬酒照",
+        "onboard_time": 1752729561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688093,
+        "num": 268480,
+        "word": "男子控糖一年身体变化",
+        "onboard_time": 1752732322,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388306,
+        "num": 266924,
+        "word": "特朗普让可口可乐改配方",
+        "onboard_time": 1752717502,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36939,
+        "num": 266026,
+        "word": "媒体评男孩与亲爸后妈远行坐后备箱",
+        "onboard_time": 1752734540,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265652,
+        "num": 265652,
+        "word": "樱桃琥珀 40集删减到24集",
+        "onboard_time": 1752734182,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538830,
+        "num": 264546,
+        "word": "董璇伴娘团有佟丽娅",
+        "onboard_time": 1752733522,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254808,
+        "num": 254808,
+        "word": "王琳怎么背着我过依萍的人生",
+        "onboard_time": 1752731962,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253092,
+        "num": 253092,
+        "word": "外国网红在中国街头栽赃路人",
+        "onboard_time": 1752734241,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27154,
+        "num": 244666,
+        "word": "2.5亿存款失踪律师称银行内控失效",
+        "onboard_time": 1752734540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303495,
+        "num": 243256,
+        "word": "女子产后撞见男友出轨殴打小三被拘",
+        "onboard_time": 1752729142,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240215,
+        "num": 240215,
+        "word": "iG首发",
+        "onboard_time": 1752723741,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199844,
+        "num": 199844,
+        "word": "杭州通报多小区自来水现臭味",
+        "onboard_time": 1752730941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194078,
+        "num": 194078,
+        "word": "让体脂率不断下降的7个习惯",
+        "onboard_time": 1752720981,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178884,
+        "num": 178884,
+        "word": "把头发梳起来大大方方的",
+        "onboard_time": 1752726983,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170752,
+        "num": 170752,
+        "word": "徐艺洋喊黄子韬黄了个小桃",
+        "onboard_time": 1752733462,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165547,
+        "num": 165547,
+        "word": "谢娜张杰真人秀合体",
+        "onboard_time": 1752726262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154432,
+        "num": 154432,
+        "word": "四川重庆已经热红了",
+        "onboard_time": 1752712520,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147006,
+        "num": 147006,
+        "word": "黄景瑜撤回一出又整一出",
+        "onboard_time": 1752734540,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103218,
+        "num": 135952,
+        "word": "男子送非婚生子千万财物妻子全追回",
+        "onboard_time": 1752734481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134581,
+        "num": 134581,
+        "word": "张凌赫帅的太权威了",
+        "onboard_time": 1752733881,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122574,
+        "num": 122574,
+        "word": "黄明昊拍的金晨美成啥了",
+        "onboard_time": 1752731361,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121362,
+        "num": 121362,
+        "word": "美团高管回应刘强东只赚5%",
+        "onboard_time": 1752735261,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121265,
+        "num": 121265,
+        "word": "田栩宁跳这么好都是挨打换来的",
+        "onboard_time": 1752730342,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119064,
+        "num": 119064,
+        "word": "生育的不可逆连骨头都会记得",
+        "onboard_time": 1752725063,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116423,
+        "num": 116423,
+        "word": "五台山回应游客疑因挑逗牛被攻击",
+        "onboard_time": 1752734841,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116069,
+        "num": 116069,
+        "word": "地球高温消毒",
+        "onboard_time": 1752734481,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112955,
+        "num": 112955,
+        "word": "JDG告别MISSING",
+        "onboard_time": 1752727523,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112723,
+        "num": 112723,
+        "word": "jiejie wei",
+        "onboard_time": 1752724102,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111920,
+        "num": 111920,
+        "word": "余景天 你们有没有点良心",
+        "onboard_time": 1752731901,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112090,
+        "num": 110264,
+        "word": "这下都没有小桌板了",
+        "onboard_time": 1752727763,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108350,
+        "num": 108350,
+        "word": "突然发现自己一直撕膏药纸撕错了",
+        "onboard_time": 1752733763,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107722,
+        "num": 107722,
+        "word": "田栩宁栩宁摇",
+        "onboard_time": 1752720621,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106899,
+        "num": 106899,
+        "word": "妻子过了近30年才知道丈夫工作",
+        "onboard_time": 1752711381,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103882,
+        "num": 103882,
+        "word": "68亿市值公司被员工诈骗套现13亿",
+        "onboard_time": 1752731962,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 100862,
+        "num": 102117,
+        "word": "iG或更换首发打野",
+        "onboard_time": 1752734062,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102104,
+        "num": 102104,
+        "word": "平顶山市联合调查组致歉",
+        "onboard_time": 1752723562,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96787,
+        "num": 96787,
+        "word": "爱康国宾曾因体检漏检被索赔15万",
+        "onboard_time": 1752733581,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95724,
+        "num": 95724,
+        "word": "宣璐剧剧都有宿命感",
+        "onboard_time": 1752734962,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82172,
+        "num": 93923,
+        "word": "梁伟铿王昶vs谢提兰基雷迪",
+        "onboard_time": 1752735141,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}
