@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752744735623,
+  "endTime": 1752745604621,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -11,8 +11,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11618515,
-      "num": 11618515,
+      "raw_hot": 11780659,
+      "num": 11780659,
       "word": "杭州就娃哈哈事件成立专班",
       "onboard_time": 1752740001,
       "rank": 0,
@@ -1051,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 841276,
+      "num": 841276,
+      "word": "麦当劳超大薯条",
+      "onboard_time": 1752741982,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 839717,
       "num": 839717,
       "word": "环卫工翻垃圾找手表为何暖心变闹心",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1752591143,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 772727,
-      "num": 772727,
-      "word": "麦当劳超大薯条",
-      "onboard_time": 1752741982,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 767165,
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655790,
+      "num": 655790,
+      "word": "杨幂让C",
+      "onboard_time": 1752743004,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 654391,
       "num": 654391,
       "word": "男婴离世家长获赔88万律师拿55万",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1752491423,
       "rank": 34,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 577602,
-      "num": 577602,
-      "word": "杨幂让C",
-      "onboard_time": 1752743004,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 576977,
@@ -3371,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320407,
+      "num": 320407,
+      "word": "减肥 甜玉米",
+      "onboard_time": 1752743722,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 317171,
       "num": 317171,
       "word": "甘肃提级调查幼儿血铅异常问题",
@@ -3705,14 +3713,6 @@
       "onboard_time": 1752634941,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 288652,
-      "num": 216646,
-      "word": "减肥 甜玉米",
-      "onboard_time": 1752743722,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 288649,
@@ -4137,6 +4137,14 @@
       "onboard_time": 1752409942,
       "rank": 14,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 262370,
+      "num": 262370,
+      "word": "阮经天 热死了你也不能当风扇啊",
+      "onboard_time": 1752744623,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261007,
@@ -4809,6 +4817,14 @@
       "onboard_time": 1752653782,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219887,
+      "num": 202880,
+      "word": "白象面饼120克克重透明化",
+      "onboard_time": 1752743543,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219683,
@@ -5571,20 +5587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200876,
+      "num": 169794,
+      "word": "清潭国际高中2",
+      "onboard_time": 1752745161,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200697,
       "num": 200697,
       "word": "六旬老外被辣条哄成胚胎",
       "onboard_time": 1752485602,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200244,
-      "num": 193377,
-      "word": "白象面饼120克克重透明化",
-      "onboard_time": 1752743543,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200123,
@@ -5609,6 +5625,14 @@
       "onboard_time": 1752658222,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199713,
+      "num": 199713,
+      "word": "火把节 八天假",
+      "onboard_time": 1752744323,
+      "rank": 36,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 199662,
@@ -8035,6 +8059,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 153068,
+      "num": 222256,
+      "word": "爱康回应体检10年无异常却患癌晚期",
+      "onboard_time": 1752744503,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153030,
       "num": 166265,
       "word": "张靓颖穿了一身蝴蝶",
@@ -8209,14 +8241,6 @@
       "onboard_time": 1752579622,
       "rank": 31,
       "category": "体育,动漫"
-    },
-    {
-      "raw_hot": 150901,
-      "num": 150901,
-      "word": "爱康回应体检10年无异常却患癌晚期",
-      "onboard_time": 1752744503,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150501,
@@ -8457,14 +8481,6 @@
       "onboard_time": 1752725242,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147298,
-      "num": 147298,
-      "word": "火把节 八天假",
-      "onboard_time": 1752744323,
-      "rank": 36,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 147265,
@@ -10731,14 +10747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119978,
-      "num": 119978,
-      "word": "阮经天 热死了你也不能当风扇啊",
-      "onboard_time": 1752744623,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 119880,
       "num": 119880,
       "word": "京城大师赛",
@@ -10913,6 +10921,14 @@
       "onboard_time": 1752406641,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117804,
+      "num": 171791,
+      "word": "宋茜张佳宁逛吃逛吃",
+      "onboard_time": 1752744803,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 117784,
@@ -11297,6 +11313,14 @@
       "onboard_time": 1752470962,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114039,
+      "num": 114039,
+      "word": "官方调查干部21岁时以高中学历获聘",
+      "onboard_time": 1752743183,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 113936,
@@ -12937,6 +12961,14 @@
       "onboard_time": 1752534979,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 93391,
+      "num": 93391,
+      "word": "庄达菲荔枝头",
+      "onboard_time": 1752745522,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 92980,
@@ -14731,6 +14763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39392,
+      "num": 207007,
+      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+      "onboard_time": 1752744683,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39283,
       "num": 198528,
       "word": "距开车不到3分钟男童掉下高铁站台",
@@ -14753,6 +14793,14 @@
       "onboard_time": 1752513557,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38997,
+      "num": 191249,
+      "word": "60岁大姐10年花300万收养流浪狗",
+      "onboard_time": 1752744142,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38699,
@@ -14857,14 +14905,6 @@
       "onboard_time": 1752551361,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35037,
-      "num": 191249,
-      "word": "60岁大姐10年花300万收养流浪狗",
-      "onboard_time": 1752744142,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34526,
@@ -15515,14 +15555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19858,
-      "num": 139893,
-      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
-      "onboard_time": 1752744683,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19743,
       "num": 122478,
       "word": "陈熠回应首进大满贯决赛",
@@ -15569,6 +15601,14 @@
       "onboard_time": 1752399681,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18421,
+      "num": 138077,
+      "word": "11岁女孩暑假咨询医美整容",
+      "onboard_time": 1752745282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18365,

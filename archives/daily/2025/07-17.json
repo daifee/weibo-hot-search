@@ -1,10 +1,10 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752744735623,
+  "endTime": 1752745604621,
   "band_list": [
     {
-      "raw_hot": 11618515,
-      "num": 11618515,
+      "raw_hot": 11780659,
+      "num": 11780659,
       "word": "杭州就娃哈哈事件成立专班",
       "onboard_time": 1752740001,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 841276,
+      "num": 841276,
+      "word": "麦当劳超大薯条",
+      "onboard_time": 1752741982,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 833418,
       "num": 161240,
       "word": "黄杨钿甜母亲发声",
@@ -169,14 +177,6 @@
       "onboard_time": 1752673042,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 772727,
-      "num": 772727,
-      "word": "麦当劳超大薯条",
-      "onboard_time": 1752741982,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 767165,
@@ -267,6 +267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 655790,
+      "num": 655790,
+      "word": "杨幂让C",
+      "onboard_time": 1752743004,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 654391,
       "num": 654391,
       "word": "男婴离世家长获赔88万律师拿55万",
@@ -321,14 +329,6 @@
       "onboard_time": 1752716182,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 577602,
-      "num": 577602,
-      "word": "杨幂让C",
-      "onboard_time": 1752743004,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 576334,
@@ -539,6 +539,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 320407,
+      "num": 320407,
+      "word": "减肥 甜玉米",
+      "onboard_time": 1752743722,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 298347,
       "num": 301844,
       "word": "植村秀专业美发 蔡徐坤",
@@ -569,14 +577,6 @@
       "onboard_time": 1752712942,
       "rank": 20,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 288652,
-      "num": 216646,
-      "word": "减肥 甜玉米",
-      "onboard_time": 1752743722,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 288649,
@@ -657,6 +657,14 @@
       "onboard_time": 1752707118,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262370,
+      "num": 262370,
+      "word": "阮经天 热死了你也不能当风扇啊",
+      "onboard_time": 1752744623,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 253174,
@@ -745,6 +753,14 @@
       "onboard_time": 1752717801,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 219887,
+      "num": 202880,
+      "word": "白象面饼120克克重透明化",
+      "onboard_time": 1752743543,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219683,
@@ -883,12 +899,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200244,
-      "num": 193377,
-      "word": "白象面饼120克克重透明化",
-      "onboard_time": 1752743543,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 200876,
+      "num": 169794,
+      "word": "清潭国际高中2",
+      "onboard_time": 1752745161,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199713,
+      "num": 199713,
+      "word": "火把节 八天假",
+      "onboard_time": 1752744323,
+      "rank": 36,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 197779,
@@ -1275,6 +1299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 153068,
+      "num": 222256,
+      "word": "爱康回应体检10年无异常却患癌晚期",
+      "onboard_time": 1752744503,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153030,
       "num": 166265,
       "word": "张靓颖穿了一身蝴蝶",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1752723621,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150901,
-      "num": 150901,
-      "word": "爱康回应体检10年无异常却患癌晚期",
-      "onboard_time": 1752744503,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150501,
@@ -1377,14 +1401,6 @@
       "onboard_time": 1752725242,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147298,
-      "num": 147298,
-      "word": "火把节 八天假",
-      "onboard_time": 1752744323,
-      "rank": 36,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 147006,
@@ -1643,20 +1659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119978,
-      "num": 119978,
-      "word": "阮经天 热死了你也不能当风扇啊",
-      "onboard_time": 1752744623,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 118934,
       "num": 118934,
       "word": "为什么猫咖没有狸花猫",
       "onboard_time": 1752735321,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117804,
+      "num": 171791,
+      "word": "宋茜张佳宁逛吃逛吃",
+      "onboard_time": 1752744803,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 117716,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1752731962,
       "rank": 35,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 114039,
+      "num": 114039,
+      "word": "官方调查干部21岁时以高中学历获聘",
+      "onboard_time": 1752743183,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 113347,
@@ -1889,6 +1913,14 @@
       "onboard_time": 1752716780,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93391,
+      "num": 93391,
+      "word": "庄达菲荔枝头",
+      "onboard_time": 1752745522,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 91929,
@@ -2395,6 +2427,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 39392,
+      "num": 207007,
+      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+      "onboard_time": 1752744683,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38997,
+      "num": 191249,
+      "word": "60岁大姐10年花300万收养流浪狗",
+      "onboard_time": 1752744142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38193,
       "num": 832065,
       "word": "护网某科技公司未落实网络安全保护义务被罚",
@@ -2417,14 +2465,6 @@
       "onboard_time": 1752724943,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35037,
-      "num": 191249,
-      "word": "60岁大姐10年花300万收养流浪狗",
-      "onboard_time": 1752744142,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34370,
@@ -2539,20 +2579,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19858,
-      "num": 139893,
-      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
-      "onboard_time": 1752744683,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18855,
       "num": 136148,
       "word": "瓜农自发帮患癌妈妈挑瓜装车",
       "onboard_time": 1752738141,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 18421,
+      "num": 138077,
+      "word": "11岁女孩暑假咨询医美整容",
+      "onboard_time": 1752745282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18365,

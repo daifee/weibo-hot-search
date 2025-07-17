@@ -1,0 +1,410 @@
+{
+  "runTime": 1752745604621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208610,
+        "num": 1208610,
+        "word": "董璇张维伊争吵",
+        "onboard_time": 1752740661,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 841276,
+        "num": 841276,
+        "word": "麦当劳超大薯条",
+        "onboard_time": 1752741982,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104031,
+        "num": 666302,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655790,
+        "num": 655790,
+        "word": "杨幂让C",
+        "onboard_time": 1752743004,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372399,
+        "num": 372399,
+        "word": "爸妈公积金能帮还房贷了",
+        "onboard_time": 1752731181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320407,
+        "num": 320407,
+        "word": "减肥 甜玉米",
+        "onboard_time": 1752743722,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 316893,
+        "num": 316893,
+        "word": "本科生高薪职业榜Top10",
+        "onboard_time": 1752742102,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 262370,
+        "num": 262370,
+        "word": "阮经天 热死了你也不能当风扇啊",
+        "onboard_time": 1752744623,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222820,
+        "num": 222820,
+        "word": "五台山游客疑因挑逗牛被围攻踩踏",
+        "onboard_time": 1752732742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153068,
+        "num": 222256,
+        "word": "爱康回应体检10年无异常却患癌晚期",
+        "onboard_time": 1752744503,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2295272,
+        "num": 218225,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 452975,
+        "num": 214440,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346833,
+        "num": 214162,
+        "word": "不要送自己舍不得买的东西",
+        "onboard_time": 1752737061,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246337,
+        "num": 208886,
+        "word": "吐槽中国的英国网红在印度崩溃",
+        "onboard_time": 1752740424,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39392,
+        "num": 207007,
+        "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+        "onboard_time": 1752744683,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205858,
+        "num": 205858,
+        "word": "杨幂今天好粉",
+        "onboard_time": 1752736102,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204075,
+        "num": 204075,
+        "word": "易烊千玺戴了美瞳",
+        "onboard_time": 1752737481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219887,
+        "num": 202880,
+        "word": "白象面饼120克克重透明化",
+        "onboard_time": 1752743543,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199713,
+        "num": 199713,
+        "word": "火把节 八天假",
+        "onboard_time": 1752744323,
+        "rank": 18,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 117804,
+        "num": 171791,
+        "word": "宋茜张佳宁逛吃逛吃",
+        "onboard_time": 1752744803,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200876,
+        "num": 169794,
+        "word": "清潭国际高中2",
+        "onboard_time": 1752745161,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163533,
+        "num": 163533,
+        "word": "原来布洛芬胶囊是穿拖鞋的",
+        "onboard_time": 1752739821,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162464,
+        "num": 162464,
+        "word": "湖南一男子撞伤路人后杀人抛尸死刑",
+        "onboard_time": 1752743842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161008,
+        "num": 161008,
+        "word": "成都40度下开水了",
+        "onboard_time": 1752742342,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159988,
+        "num": 159988,
+        "word": "男婴离世家长获赔88万律师拿55万",
+        "onboard_time": 1752727643,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156031,
+        "num": 156031,
+        "word": "余景天录节目失控掀桌子",
+        "onboard_time": 1752725661,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151996,
+        "num": 151996,
+        "word": "景区游客陈奕迅",
+        "onboard_time": 1752742041,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142725,
+        "num": 142725,
+        "word": "丽江古城维护费每人50元有效期一年",
+        "onboard_time": 1752743963,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138736,
+        "num": 138736,
+        "word": "买东方树叶收到东方爽茶",
+        "onboard_time": 1752737541,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18421,
+        "num": 138077,
+        "word": "11岁女孩暑假咨询医美整容",
+        "onboard_time": 1752745282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137955,
+        "num": 137955,
+        "word": "董璇伴娘团有佟丽娅",
+        "onboard_time": 1752733522,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132733,
+        "num": 132733,
+        "word": "敖瑞鹏被李兰迪哄成胚胎了",
+        "onboard_time": 1752742883,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 124233,
+        "word": "女子产后撞见男友出轨殴打小三被拘",
+        "onboard_time": 1752729142,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123391,
+        "num": 123391,
+        "word": "体检10年未查出癌症女子发声",
+        "onboard_time": 1752724644,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118545,
+        "num": 118545,
+        "word": "外国网友吐槽买黄牛票被骗30元",
+        "onboard_time": 1752742401,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117663,
+        "num": 117663,
+        "word": "暗河传",
+        "onboard_time": 1752737722,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114039,
+        "num": 114039,
+        "word": "官方调查干部21岁时以高中学历获聘",
+        "onboard_time": 1752743183,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 113628,
+        "num": 113628,
+        "word": "男子控糖一年身体变化",
+        "onboard_time": 1752732322,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11780659,
+        "num": 11780659,
+        "word": "杭州就娃哈哈事件成立专班",
+        "onboard_time": 1752740001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112671,
+        "num": 112671,
+        "word": "胡先煦是来加入这个家的",
+        "onboard_time": 1752744022,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109171,
+        "num": 109171,
+        "word": "JDG选手变动",
+        "onboard_time": 1752742462,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107869,
+        "num": 107869,
+        "word": "韩红或将不再录制综艺",
+        "onboard_time": 1752740541,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105326,
+        "num": 105326,
+        "word": "青春旅行团",
+        "onboard_time": 1752741082,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104118,
+        "num": 104118,
+        "word": "张靓颖穿了一身蝴蝶",
+        "onboard_time": 1752743123,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102296,
+        "num": 102296,
+        "word": "大冰直播间被骚扰高中生后续",
+        "onboard_time": 1752730041,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98073,
+        "num": 98073,
+        "word": "iG首发",
+        "onboard_time": 1752723741,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38997,
+        "num": 97876,
+        "word": "60岁大姐10年花300万收养流浪狗",
+        "onboard_time": 1752744142,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97840,
+        "num": 97840,
+        "word": "6年3次被判不许离婚男方提交新证据",
+        "onboard_time": 1752739103,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96588,
+        "num": 96588,
+        "word": "一种新型诈骗是网店发错货",
+        "onboard_time": 1752739701,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93391,
+        "num": 93391,
+        "word": "庄达菲荔枝头",
+        "onboard_time": 1752745522,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}
