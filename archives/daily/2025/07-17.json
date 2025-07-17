@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752730303261,
+  "endTime": 1752731369342,
   "band_list": [
     {
       "raw_hot": 2084278,
@@ -73,6 +73,14 @@
       "onboard_time": 1752716842,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 980412,
+      "num": 341456,
+      "word": "董璇张维伊婚宴敬酒照",
+      "onboard_time": 1752729561,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 916879,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 649175,
+      "num": 260685,
+      "word": "大冰直播间被骚扰高中生后续",
+      "onboard_time": 1752730041,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 625869,
       "num": 411601,
       "word": "霍汶希女儿杂志封面首秀",
@@ -217,6 +233,14 @@
       "onboard_time": 1752716182,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576334,
+      "num": 262285,
+      "word": "女子产后撞见男友出轨殴打小三被拘",
+      "onboard_time": 1752729142,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 566918,
@@ -307,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401957,
-      "num": 341456,
-      "word": "董璇张维伊婚宴敬酒照",
-      "onboard_time": 1752729561,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 393518,
       "num": 393518,
       "word": "iG首发",
@@ -329,14 +345,6 @@
       "onboard_time": 1752721282,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 359915,
-      "num": 262285,
-      "word": "女子产后撞见男友出轨殴打小三被拘",
-      "onboard_time": 1752729142,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350329,
@@ -371,6 +379,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 332744,
+      "num": 332744,
+      "word": "王楚然回复钉钉消息",
+      "onboard_time": 1752729622,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298347,
       "num": 301844,
       "word": "植村秀专业美发 蔡徐坤",
@@ -393,6 +409,14 @@
       "onboard_time": 1752709821,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291142,
+      "num": 441213,
+      "word": "可口可乐回应特朗普要求改配方",
+      "onboard_time": 1752729742,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 289608,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 253174,
-      "num": 253174,
+      "num": 259371,
       "word": "杭州现臭味自来水已切换水源",
       "onboard_time": 1752725121,
       "rank": 45,
@@ -481,6 +505,14 @@
       "onboard_time": 1752724102,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235457,
+      "num": 235457,
+      "word": "田栩宁跳这么好都是挨打换来的",
+      "onboard_time": 1752730342,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 233070,
@@ -505,6 +537,14 @@
       "onboard_time": 1752661462,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 224438,
+      "num": 224438,
+      "word": "爸妈公积金能帮还房贷了",
+      "onboard_time": 1752731181,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221026,
@@ -595,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205462,
+      "num": 189657,
+      "word": "这下都没有小桌板了",
+      "onboard_time": 1752727763,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203593,
       "num": 203593,
       "word": "西安市民热到吸氧",
@@ -625,14 +673,6 @@
       "onboard_time": 1752722542,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 189657,
-      "num": 189657,
-      "word": "这下都没有小桌板了",
-      "onboard_time": 1752727763,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 189277,
@@ -689,6 +729,14 @@
       "onboard_time": 1752707298,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181504,
+      "num": 181504,
+      "word": "二次元去上海有自己免沪签",
+      "onboard_time": 1752730702,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 181322,
@@ -755,14 +803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172392,
-      "num": 262289,
-      "word": "王楚然回复钉钉消息",
-      "onboard_time": 1752729622,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172272,
       "num": 172272,
       "word": "猫 你鼻子上那俩窟窿不要就捐",
@@ -827,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166187,
-      "num": 166187,
-      "word": "大冰直播间被骚扰高中生后续",
-      "onboard_time": 1752730041,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 165523,
       "num": 165523,
       "word": "爱康国宾体检因检测不准曾被多次投诉",
@@ -873,6 +905,14 @@
       "onboard_time": 1752723562,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151452,
+      "num": 151452,
+      "word": "文韬齐思钧何运晨吴泽林评论区团建",
+      "onboard_time": 1752730643,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 151439,
@@ -923,20 +963,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148839,
+      "num": 148839,
+      "word": "余景天发火原因",
+      "onboard_time": 1752730762,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147531,
       "num": 147531,
       "word": "地球超新鲜",
       "onboard_time": 1752725242,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146230,
-      "num": 352061,
-      "word": "可口可乐回应特朗普要求改配方",
-      "onboard_time": 1752729742,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 145176,
@@ -963,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141682,
+      "num": 141682,
+      "word": "张远还看书呢出大事了",
+      "onboard_time": 1752730881,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141405,
       "num": 141405,
       "word": "年轻人的生意其实真的很好做",
@@ -977,6 +1025,14 @@
       "onboard_time": 1752727581,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140233,
+      "num": 140233,
+      "word": "美团高管称不关注京东",
+      "onboard_time": 1752731301,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 139549,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1752712102,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131629,
+      "num": 131629,
+      "word": "从此仙侠文女主有了脸",
+      "onboard_time": 1752730522,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 131532,
@@ -1283,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80004,
+      "num": 262131,
+      "word": "杭州通报多小区自来水现臭味",
+      "onboard_time": 1752730941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79683,
       "num": 79683,
       "word": "男子与女友发生口角后刺死女友",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1752716721,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79130,
+      "num": 185602,
+      "word": "动物园打捞许愿池硬币捐给患病女孩",
+      "onboard_time": 1752730941,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 75861,
@@ -1340,7 +1420,7 @@
     },
     {
       "raw_hot": 70021,
-      "num": 135144,
+      "num": 259945,
       "word": "伊拉克一超市火灾近50人死亡",
       "onboard_time": 1752730282,
       "rank": 43,
@@ -1465,6 +1545,14 @@
       "onboard_time": 1752707479,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53376,
+      "num": 258094,
+      "word": "钟美美与妈妈今年刚成立传媒公司",
+      "onboard_time": 1752731001,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 52996,
@@ -1596,7 +1684,7 @@
     },
     {
       "raw_hot": 28773,
-      "num": 139945,
+      "num": 153043,
       "word": "Tomorrowland电音节发生大火",
       "onboard_time": 1752729261,
       "rank": 38,

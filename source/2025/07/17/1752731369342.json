@@ -1,0 +1,410 @@
+{
+  "runTime": 1752731369342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590943,
+        "num": 1590943,
+        "word": "余景天录节目失控掀桌子",
+        "onboard_time": 1752725661,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1425338,
+        "num": 1425338,
+        "word": "体检10年未查出癌症女子发声",
+        "onboard_time": 1752724644,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46888,
+        "num": 732806,
+        "word": "院士说把卫星扔上天真是扬眉吐气",
+        "onboard_time": 1752725302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629406,
+        "num": 629406,
+        "word": "男婴离世家长获赔88万律师拿55万",
+        "onboard_time": 1752727643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454937,
+        "num": 454937,
+        "word": "生育的不可逆连骨头都会记得",
+        "onboard_time": 1752725063,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291142,
+        "num": 441213,
+        "word": "可口可乐回应特朗普要求改配方",
+        "onboard_time": 1752729742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441156,
+        "num": 441156,
+        "word": "谢娜张杰真人秀合体",
+        "onboard_time": 1752726262,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332744,
+        "num": 332744,
+        "word": "王楚然回复钉钉消息",
+        "onboard_time": 1752729622,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262223,
+        "num": 262223,
+        "word": "iG首发",
+        "onboard_time": 1752723741,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80004,
+        "num": 262131,
+        "word": "杭州通报多小区自来水现臭味",
+        "onboard_time": 1752730941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 980412,
+        "num": 261698,
+        "word": "董璇张维伊婚宴敬酒照",
+        "onboard_time": 1752729561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685002,
+        "num": 261287,
+        "word": "官方再通报花715万建牛郎织女雕塑",
+        "onboard_time": 1752723202,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 649175,
+        "num": 260685,
+        "word": "大冰直播间被骚扰高中生后续",
+        "onboard_time": 1752730041,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 488098,
+        "num": 260441,
+        "word": "韩安冉晒孕肚",
+        "onboard_time": 1752717382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65698,
+        "num": 259945,
+        "word": "伊拉克一超市火灾近50人死亡",
+        "onboard_time": 1752730282,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242948,
+        "num": 259371,
+        "word": "杭州现臭味自来水已切换水源",
+        "onboard_time": 1752725121,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361672,
+        "num": 259158,
+        "word": "花715万建牛郎织女雕塑多人已获刑",
+        "onboard_time": 1752721403,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 349898,
+        "num": 258709,
+        "word": "特朗普让可口可乐改配方",
+        "onboard_time": 1752717502,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284572,
+        "num": 258303,
+        "word": "赫敏扮演者因超速被禁止驾驶6个月",
+        "onboard_time": 1752721042,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53376,
+        "num": 258094,
+        "word": "钟美美与妈妈今年刚成立传媒公司",
+        "onboard_time": 1752731001,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 576334,
+        "num": 257342,
+        "word": "女子产后撞见男友出轨殴打小三被拘",
+        "onboard_time": 1752729142,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257289,
+        "num": 257289,
+        "word": "让体脂率不断下降的7个习惯",
+        "onboard_time": 1752720981,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249908,
+        "num": 249908,
+        "word": "甲醛房",
+        "onboard_time": 1752722121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235457,
+        "num": 235457,
+        "word": "田栩宁跳这么好都是挨打换来的",
+        "onboard_time": 1752730342,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228729,
+        "num": 228729,
+        "word": "平顶山市联合调查组致歉",
+        "onboard_time": 1752723562,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227077,
+        "num": 227077,
+        "word": "罗家英自曝注射女性荷尔蒙",
+        "onboard_time": 1752711681,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224438,
+        "num": 224438,
+        "word": "爸妈公积金能帮还房贷了",
+        "onboard_time": 1752731181,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211731,
+        "num": 211731,
+        "word": "四川重庆已经热红了",
+        "onboard_time": 1752712520,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192783,
+        "num": 192783,
+        "word": "把头发梳起来大大方方的",
+        "onboard_time": 1752726983,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79130,
+        "num": 185602,
+        "word": "动物园打捞许愿池硬币捐给患病女孩",
+        "onboard_time": 1752730941,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 205462,
+        "num": 185583,
+        "word": "这下都没有小桌板了",
+        "onboard_time": 1752727763,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185388,
+        "num": 185388,
+        "word": "男子过安检被拦怒砸充电宝瞬间起火",
+        "onboard_time": 1752722301,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181504,
+        "num": 181504,
+        "word": "二次元去上海有自己免沪签",
+        "onboard_time": 1752730702,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170018,
+        "num": 170018,
+        "word": "田栩宁栩宁摇",
+        "onboard_time": 1752720621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167780,
+        "num": 167780,
+        "word": "双轨",
+        "onboard_time": 1752718760,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166304,
+        "num": 166304,
+        "word": "李宛妲00后浓颜出征古装",
+        "onboard_time": 1752726863,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162047,
+        "num": 162047,
+        "word": "姐姐当家",
+        "onboard_time": 1752727643,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155366,
+        "num": 155366,
+        "word": "霍汶希女儿杂志封面首秀",
+        "onboard_time": 1752723741,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27608,
+        "num": 153043,
+        "word": "Tomorrowland电音节发生大火",
+        "onboard_time": 1752729261,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151452,
+        "num": 151452,
+        "word": "文韬齐思钧何运晨吴泽林评论区团建",
+        "onboard_time": 1752730643,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151309,
+        "num": 151309,
+        "word": "猫 你鼻子上那俩窟窿不要就捐",
+        "onboard_time": 1752728183,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148858,
+        "num": 148858,
+        "word": "妻子过了近30年才知道丈夫工作",
+        "onboard_time": 1752711381,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 148839,
+        "num": 148839,
+        "word": "余景天发火原因",
+        "onboard_time": 1752730762,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 141682,
+        "word": "张远还看书呢出大事了",
+        "onboard_time": 1752730881,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140233,
+        "num": 140233,
+        "word": "美团高管称不关注京东",
+        "onboard_time": 1752731301,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131629,
+        "num": 131629,
+        "word": "从此仙侠文女主有了脸",
+        "onboard_time": 1752730522,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131173,
+        "num": 131173,
+        "word": "孩子喜提北大通知书两家父母神同步",
+        "onboard_time": 1752716842,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128718,
+        "num": 128718,
+        "word": "JDG告别MISSING",
+        "onboard_time": 1752727523,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123580,
+        "num": 123580,
+        "word": "飞驰人生3",
+        "onboard_time": 1752717141,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111381,
+        "num": 123192,
+        "word": "医生说6种体检异常不必太焦虑",
+        "onboard_time": 1752728063,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}
