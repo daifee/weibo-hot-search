@@ -1,0 +1,410 @@
+{
+  "runTime": 1752760504024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970212,
+        "num": 1155234,
+        "word": "山姆背叛了山姆",
+        "onboard_time": 1752750682,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 748601,
+        "num": 748601,
+        "word": "殡仪馆3500招太平间门卫要全天在岗",
+        "onboard_time": 1752758121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201343,
+        "num": 693979,
+        "word": "正确预防空调病",
+        "onboard_time": 1752756502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685257,
+        "num": 685257,
+        "word": "杭州自来水",
+        "onboard_time": 1752753382,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653266,
+        "num": 653266,
+        "word": "谢霆锋认为比赛用火锅底料是作弊",
+        "onboard_time": 1752755183,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552943,
+        "num": 552943,
+        "word": "肖战直播",
+        "onboard_time": 1752753082,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391361,
+        "num": 391361,
+        "word": "河南蚊子被热死",
+        "onboard_time": 1752747863,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373481,
+        "num": 373481,
+        "word": "爱奇艺717",
+        "onboard_time": 1752754821,
+        "rank": 7,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 276637,
+        "num": 372032,
+        "word": "武侠剧要回来了",
+        "onboard_time": 1752751824,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53293,
+        "num": 369102,
+        "word": "爱康集团最新回应",
+        "onboard_time": 1752759862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1067905,
+        "num": 363930,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 691310,
+        "num": 360925,
+        "word": "600分扎堆本升专",
+        "onboard_time": 1752755183,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358707,
+        "num": 358707,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282574,
+        "num": 282574,
+        "word": "王祖贤自拍",
+        "onboard_time": 1752750861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178953,
+        "num": 262748,
+        "word": "一国企登报喊61名职工回来上班",
+        "onboard_time": 1752757702,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258965,
+        "num": 258965,
+        "word": "李兰迪赵今麦中戏严选",
+        "onboard_time": 1752752002,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249550,
+        "num": 249550,
+        "word": "鹿晗撕拉片拍摄花絮",
+        "onboard_time": 1752758182,
+        "rank": 16,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 243808,
+        "num": 243808,
+        "word": "奥巴马夫妇回应离婚传闻",
+        "onboard_time": 1752750682,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238284,
+        "num": 238284,
+        "word": "祝绪丹回应被说装可爱",
+        "onboard_time": 1752756262,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233011,
+        "num": 233011,
+        "word": "乐山大佛热到休假了",
+        "onboard_time": 1752748941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215607,
+        "num": 215607,
+        "word": "白鹿对接回应叶璃妆造争议",
+        "onboard_time": 1752755901,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209281,
+        "num": 209281,
+        "word": "广州律协通报获赔88万律师拿55万",
+        "onboard_time": 1752758423,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199411,
+        "num": 199411,
+        "word": "减肥 甜玉米",
+        "onboard_time": 1752743722,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 188891,
+        "num": 188891,
+        "word": "张艺凡的腿",
+        "onboard_time": 1752750202,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72886,
+        "num": 186928,
+        "word": "张博恒男人装杂志封面",
+        "onboard_time": 1752757521,
+        "rank": 24,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 186889,
+        "num": 186889,
+        "word": "肖战战有玉",
+        "onboard_time": 1752758602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166383,
+        "num": 186861,
+        "word": "逍遥剧组直播",
+        "onboard_time": 1752759502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166147,
+        "num": 182726,
+        "word": "朝雪录",
+        "onboard_time": 1752750561,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 177923,
+        "word": "钟楚曦美的我不知天地为何物",
+        "onboard_time": 1752756682,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37228,
+        "num": 174445,
+        "word": "12306回应货运列车撞上滑坡体",
+        "onboard_time": 1752759683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127466,
+        "num": 167356,
+        "word": "歌手第十期音源",
+        "onboard_time": 1752756621,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167175,
+        "num": 167175,
+        "word": "快递员涉嫌变卖油卡最高判无期",
+        "onboard_time": 1752756082,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157517,
+        "num": 157517,
+        "word": "我用美色契约全世界",
+        "onboard_time": 1752760342,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155981,
+        "num": 155981,
+        "word": "麦当劳超大薯条",
+        "onboard_time": 1752741982,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150476,
+        "num": 150476,
+        "word": "一想到打的是老婆的舰艇就更起劲了",
+        "onboard_time": 1752756621,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 146082,
+        "num": 146082,
+        "word": "永远不要失去对世界好奇的能力",
+        "onboard_time": 1752758303,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135690,
+        "num": 135690,
+        "word": "吴磊物欲那么低",
+        "onboard_time": 1752754821,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135304,
+        "num": 135304,
+        "word": "莫离剧方回应",
+        "onboard_time": 1752760102,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133127,
+        "num": 133127,
+        "word": "女子被家暴16次案最新进展",
+        "onboard_time": 1752756082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129196,
+        "num": 129196,
+        "word": "AG对战HLE",
+        "onboard_time": 1752749002,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127981,
+        "num": 127981,
+        "word": "被宋亚轩认成牛肉串的男人来厨综了",
+        "onboard_time": 1752758542,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 125156,
+        "word": "男宝星球2",
+        "onboard_time": 1752758303,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124313,
+        "num": 124313,
+        "word": "朱孝天和F4其他三人不熟",
+        "onboard_time": 1752759322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123818,
+        "num": 123818,
+        "word": "连SVIP都不能听的台词出现了",
+        "onboard_time": 1752758182,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121883,
+        "num": 121883,
+        "word": "杨紫带piupiu跳手势舞",
+        "onboard_time": 1752758002,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120623,
+        "num": 120623,
+        "word": "银行用户预约机场贵宾厅需验资2000万",
+        "onboard_time": 1752754282,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118211,
+        "num": 118211,
+        "word": "爱康国宾情况说明",
+        "onboard_time": 1752752424,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 117173,
+        "num": 117173,
+        "word": "第一次见这么忠厚老实的剧",
+        "onboard_time": 1752759562,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109448,
+        "num": 109448,
+        "word": "被家暴16次女子前婆婆被判返还91万",
+        "onboard_time": 1752760342,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100169,
+        "num": 100169,
+        "word": "樊振东将出战德国乒乓球杯",
+        "onboard_time": 1752755121,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}
