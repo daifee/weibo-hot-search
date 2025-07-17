@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752752471697,
+  "endTime": 1752756960390,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -2313,6 +2313,14 @@
       "onboard_time": 1752282021,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1101112,
+      "num": 1176177,
+      "word": "山姆背叛了山姆",
+      "onboard_time": 1752750682,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1100027,
@@ -5851,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 636778,
+      "num": 636778,
+      "word": "奥巴马夫妇回应离婚传闻",
+      "onboard_time": 1752750682,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 636639,
       "num": 636639,
       "word": "对翻垃圾找儿童手表环卫工给予奖励",
@@ -7179,6 +7195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546044,
+      "num": 546044,
+      "word": "武侠剧要回来了",
+      "onboard_time": 1752751824,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546039,
       "num": 403999,
       "word": "时团直播主持不是杨若天",
@@ -7779,6 +7803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 512047,
+      "num": 512047,
+      "word": "河南蚊子被热死",
+      "onboard_time": 1752747863,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511315,
       "num": 511315,
       "word": "中方已向印度提出交涉",
@@ -8035,14 +8067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 500727,
-      "num": 500727,
-      "word": "河南蚊子被热死",
-      "onboard_time": 1752747863,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500029,
       "num": 500029,
       "word": "哈工程拟采购9955台空调",
@@ -8121,14 +8145,6 @@
       "onboard_time": 1752737541,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 496240,
-      "num": 496240,
-      "word": "山姆背叛了山姆",
-      "onboard_time": 1752750682,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 496061,
@@ -8555,14 +8571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 468127,
-      "num": 468127,
-      "word": "奥巴马夫妇回应离婚传闻",
-      "onboard_time": 1752750682,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 467805,
       "num": 467805,
       "word": "顾客称吃苏州糖水发现餐具内增高",
@@ -8856,6 +8864,14 @@
       "word": "娱乐圈 更新换代",
       "onboard_time": 1751456242,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 452744,
+      "num": 452744,
+      "word": "肖战直播",
+      "onboard_time": 1752753082,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -9801,6 +9817,14 @@
       "onboard_time": 1751955262,
       "rank": 12,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 414903,
+      "num": 356815,
+      "word": "王祖贤自拍",
+      "onboard_time": 1752750861,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 414694,
@@ -11139,6 +11163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 364166,
+      "num": 364166,
+      "word": "李兰迪赵今麦中戏严选",
+      "onboard_time": 1752752002,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 363567,
       "num": 363567,
       "word": "田栩宁新剧开机",
@@ -11323,6 +11355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358550,
+      "num": 358550,
+      "word": "谢霆锋认为比赛用火锅底料是作弊",
+      "onboard_time": 1752755183,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358337,
       "num": 358337,
       "word": "特朗普将对巴西征收50%关税",
@@ -11393,6 +11433,14 @@
       "onboard_time": 1752744323,
       "rank": 36,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 356216,
+      "num": 356216,
+      "word": "爱奇艺717",
+      "onboard_time": 1752754821,
+      "rank": 13,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 356190,
@@ -11603,6 +11651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349583,
+      "num": 349583,
+      "word": "600分扎堆本升专",
+      "onboard_time": 1752755183,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 349452,
       "num": 349452,
       "word": "日本南海海槽",
@@ -11633,6 +11689,14 @@
       "onboard_time": 1752474980,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348514,
+      "num": 348514,
+      "word": "张艺凡的腿",
+      "onboard_time": 1752750202,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 346919,
@@ -11849,14 +11913,6 @@
       "onboard_time": 1751710880,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 342348,
-      "num": 342348,
-      "word": "张艺凡的腿",
-      "onboard_time": 1752750202,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 341783,
@@ -16089,6 +16145,14 @@
       "onboard_time": 1751946562,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253375,
+      "num": 253375,
+      "word": "警方回复多肉饱饱涉嫌诈骗",
+      "onboard_time": 1752751461,
+      "rank": 47,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 253174,
@@ -21659,6 +21723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196530,
+      "num": 276506,
+      "word": "歌手第十期音源",
+      "onboard_time": 1752756621,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196447,
       "num": 196447,
       "word": "金毛李墩墩主人发声",
@@ -23339,6 +23411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "白鹿对接回应叶璃妆造争议",
+      "onboard_time": 1752755901,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187754,
       "num": 265780,
       "word": "孙颖莎回应晋级16强",
@@ -23585,6 +23665,14 @@
       "onboard_time": 1752387500,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186452,
+      "num": 186452,
+      "word": "杭州自来水",
+      "onboard_time": 1752753382,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186424,
@@ -23835,6 +23923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185437,
+      "num": 160877,
+      "word": "吴磊物欲那么低",
+      "onboard_time": 1752754821,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185316,
       "num": 185316,
       "word": "2025KPL夏季赛",
@@ -24016,14 +24112,6 @@
       "word": "藏海传认证微博爆款剧集",
       "onboard_time": 1751542401,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 184077,
-      "num": 291243,
-      "word": "武侠剧要回来了",
-      "onboard_time": 1752751824,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -28563,6 +28651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160305,
+      "num": 160305,
+      "word": "樊振东将出战德国乒乓球杯",
+      "onboard_time": 1752755121,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160260,
       "num": 160260,
       "word": "刘雯蓝色礼服",
@@ -29297,6 +29393,14 @@
       "onboard_time": 1751721325,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156831,
+      "num": 156831,
+      "word": "爱康国宾情况说明",
+      "onboard_time": 1752752424,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 156810,
@@ -30091,14 +30195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153454,
-      "num": 153454,
-      "word": "警方回复多肉饱饱涉嫌诈骗",
-      "onboard_time": 1752751461,
-      "rank": 47,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 153359,
       "num": 153359,
       "word": "孟子义好适合be美学",
@@ -30755,6 +30851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150963,
+      "num": 150963,
+      "word": "JDG锁定第三轮A组",
+      "onboard_time": 1752756021,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150950,
       "num": 134051,
       "word": "于适在黄河岸边的讲述深情有力",
@@ -31139,6 +31243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149415,
+      "num": 149415,
+      "word": "惠英红陈伟霆 豪门姐弟争夺家产",
+      "onboard_time": 1752755183,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149367,
       "num": 176798,
       "word": "全国唯一做宝剑专业就业率百分百",
@@ -31409,6 +31521,14 @@
       "onboard_time": 1751884341,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148411,
+      "num": 160517,
+      "word": "大鹏给赵英俊留座了",
+      "onboard_time": 1752753382,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 148371,
@@ -32313,14 +32433,6 @@
       "onboard_time": 1751962462,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144848,
-      "num": 144848,
-      "word": "王祖贤自拍",
-      "onboard_time": 1752750861,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 144817,
@@ -33643,14 +33755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140050,
-      "num": 140050,
-      "word": "李兰迪赵今麦中戏严选",
-      "onboard_time": 1752752002,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139956,
       "num": 139956,
       "word": "4位真的久违了",
@@ -34667,6 +34771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136880,
+      "num": 136880,
+      "word": "成都71岁爷爷香辣蟹硬控谢霆锋",
+      "onboard_time": 1752755422,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136861,
       "num": 136861,
       "word": "中尼边境泥石流我国一侧11人失联",
@@ -34889,6 +35001,14 @@
       "onboard_time": 1752050002,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136163,
+      "num": 136163,
+      "word": "莫离",
+      "onboard_time": 1752755422,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 136150,
@@ -37995,6 +38115,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 125883,
+      "num": 125883,
+      "word": "祝绪丹回应被说装可爱",
+      "onboard_time": 1752756262,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125872,
       "num": 125872,
       "word": "钎城黑西装造型",
@@ -39137,6 +39265,14 @@
       "onboard_time": 1752732084,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122421,
+      "num": 122421,
+      "word": "AG对战HLE",
+      "onboard_time": 1752749002,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 122418,
@@ -41923,12 +42059,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114496,
+      "num": 114496,
+      "word": "AG对战TTG",
+      "onboard_time": 1752756202,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114478,
       "num": 114478,
       "word": "曾舜晞陈伟霆九门同框路透",
       "onboard_time": 1751532081,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114464,
+      "num": 114464,
+      "word": "钟楚曦美的我不知天地为何物",
+      "onboard_time": 1752756682,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 114455,
@@ -42409,6 +42561,14 @@
       "onboard_time": 1752280821,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113093,
+      "num": 113093,
+      "word": "一想到打的是老婆的舰艇就更起劲了",
+      "onboard_time": 1752756621,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 113089,
@@ -43265,14 +43425,6 @@
       "onboard_time": 1751940502,
       "rank": 35,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 110557,
-      "num": 110557,
-      "word": "爱康国宾情况说明",
-      "onboard_time": 1752752424,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 110547,
@@ -47995,6 +48147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91424,
+      "num": 160920,
+      "word": "快递员涉嫌变卖油卡最高判无期",
+      "onboard_time": 1752756082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91293,
       "num": 91293,
       "word": "苏醒在说谁辛苦",
@@ -48025,6 +48185,14 @@
       "onboard_time": 1752632479,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91099,
+      "num": 350679,
+      "word": "用绳牵智障儿子环卫工拒绝社会捐赠",
+      "onboard_time": 1752755541,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91082,
@@ -48945,6 +49113,14 @@
       "onboard_time": 1751447961,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 85092,
+      "num": 161564,
+      "word": "中方回应特朗普芬太尼制造者死刑言论",
+      "onboard_time": 1752755782,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84983,
@@ -50497,6 +50673,14 @@
       "onboard_time": 1751574194,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72085,
+      "num": 113707,
+      "word": "上海市监部门立案调查维态美公司",
+      "onboard_time": 1752754881,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72074,
@@ -53331,6 +53515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48612,
+      "num": 113222,
+      "word": "明夜起北方迎新一轮强降雨过程",
+      "onboard_time": 1752756381,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48597,
       "num": 204158,
       "word": "夫妻冒充女儿名义借款一家三口全被告",
@@ -55115,6 +55307,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 35359,
+      "num": 255729,
+      "word": "女子被家暴16次案最新进展",
+      "onboard_time": 1752756082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35355,
       "num": 390138,
       "word": "美20州起诉特朗普政府",
@@ -56833,6 +57033,14 @@
       "onboard_time": 1752650601,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 24273,
+      "num": 548988,
+      "word": "正确预防空调病",
+      "onboard_time": 1752756502,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24014,
