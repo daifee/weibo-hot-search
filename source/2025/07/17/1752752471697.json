@@ -1,0 +1,410 @@
+{
+  "runTime": 1752752471697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010413,
+        "num": 1161666,
+        "word": "麦当劳超大薯条",
+        "onboard_time": 1752741982,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 663065,
+        "num": 663065,
+        "word": "乐山大佛热到休假了",
+        "onboard_time": 1752748941,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14248,
+        "num": 602043,
+        "word": "市监部门立案调查维态美公司",
+        "onboard_time": 1752752122,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543821,
+        "num": 543821,
+        "word": "余杭",
+        "onboard_time": 1752748042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523427,
+        "num": 523427,
+        "word": "高校通报大三本科生逆天学术",
+        "onboard_time": 1752748283,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 500727,
+        "num": 500727,
+        "word": "河南蚊子被热死",
+        "onboard_time": 1752747863,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496240,
+        "num": 496240,
+        "word": "山姆背叛了山姆",
+        "onboard_time": 1752750682,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275128,
+        "num": 490030,
+        "word": "肖战连续两天请客剧组",
+        "onboard_time": 1752749843,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260503,
+        "num": 483995,
+        "word": "如果刘亦菲和魏大勋演偶像剧",
+        "onboard_time": 1752749360,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103333,
+        "num": 476297,
+        "word": "水务公司回应小区自来水发臭",
+        "onboard_time": 1752748641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1403334,
+        "num": 472422,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468127,
+        "num": 468127,
+        "word": "奥巴马夫妇回应离婚传闻",
+        "onboard_time": 1752750682,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 423271,
+        "num": 423271,
+        "word": "减肥 甜玉米",
+        "onboard_time": 1752743722,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 403085,
+        "num": 403085,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342348,
+        "num": 342348,
+        "word": "张艺凡的腿",
+        "onboard_time": 1752750202,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184077,
+        "num": 291243,
+        "word": "武侠剧要回来了",
+        "onboard_time": 1752751824,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139975,
+        "num": 283667,
+        "word": "猛士解锁华为乾崑新体验",
+        "onboard_time": 1752750262,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 280293,
+        "num": 280293,
+        "word": "袁泉夏雨15岁女儿罕见露面",
+        "onboard_time": 1752747803,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59592,
+        "num": 279778,
+        "word": "歌手第十期赛制",
+        "onboard_time": 1752751701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31466,
+        "num": 279773,
+        "word": "一个女孩决定留在塔克拉玛干治沙",
+        "onboard_time": 1752751342,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 279773,
+        "num": 279772,
+        "word": "梓渝现象已经开始人传人了",
+        "onboard_time": 1752746963,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260319,
+        "num": 260319,
+        "word": "烧烤调料被曝用廉价猪饲料原料",
+        "onboard_time": 1752750082,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 244904,
+        "num": 244904,
+        "word": "爸妈公积金能帮还房贷了",
+        "onboard_time": 1752731181,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196170,
+        "num": 196170,
+        "word": "本科生高薪职业榜Top10",
+        "onboard_time": 1752742102,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 195040,
+        "num": 195040,
+        "word": "樱桃琥珀女二是真闺蜜",
+        "onboard_time": 1752751103,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173774,
+        "num": 173774,
+        "word": "财政部调整超豪华小汽车消费税政策",
+        "onboard_time": 1752751103,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168264,
+        "num": 168264,
+        "word": "祝绪丹也怕豆角没熟",
+        "onboard_time": 1752749962,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161943,
+        "num": 161943,
+        "word": "jiejie 休息",
+        "onboard_time": 1752746182,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153454,
+        "num": 153454,
+        "word": "警方回复多肉饱饱涉嫌诈骗",
+        "onboard_time": 1752751461,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 144367,
+        "num": 144367,
+        "word": "朝雪录",
+        "onboard_time": 1752750561,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151783,
+        "num": 143998,
+        "word": "中国女游客印度遇骚扰奋起反击",
+        "onboard_time": 1752747382,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143434,
+        "num": 143434,
+        "word": "王祖贤自拍",
+        "onboard_time": 1752750861,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73002,
+        "num": 141605,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140050,
+        "num": 140050,
+        "word": "李兰迪赵今麦中戏严选",
+        "onboard_time": 1752752002,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139990,
+        "num": 139990,
+        "word": "梓渝方就侵权行为声明",
+        "onboard_time": 1752748102,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139371,
+        "num": 139371,
+        "word": "不要送自己舍不得买的东西",
+        "onboard_time": 1752737061,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134730,
+        "num": 134730,
+        "word": "官方调查干部21岁时以高中学历获聘",
+        "onboard_time": 1752743183,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133873,
+        "num": 133873,
+        "word": "吐槽中国的英国网红在印度崩溃",
+        "onboard_time": 1752740424,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133209,
+        "num": 133209,
+        "word": "孙颖莎全国青联常务委员会委员",
+        "onboard_time": 1752746001,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70040,
+        "num": 133090,
+        "word": "马龙又成打卡点了",
+        "onboard_time": 1752751581,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133089,
+        "num": 133089,
+        "word": "临沂巨响",
+        "onboard_time": 1752748883,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 132565,
+        "num": 132565,
+        "word": "内娱首部殡葬职场群像剧来了",
+        "onboard_time": 1752747982,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123753,
+        "num": 123753,
+        "word": "刘骏好帅",
+        "onboard_time": 1752750742,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58626,
+        "num": 118685,
+        "word": "肖战追星简直演我",
+        "onboard_time": 1752750381,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117387,
+        "num": 117387,
+        "word": "川北医学院本科生的逆天学术咋来的",
+        "onboard_time": 1752750622,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112848,
+        "num": 112848,
+        "word": "JDG五个教练",
+        "onboard_time": 1752752424,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112551,
+        "num": 112551,
+        "word": "丽江古城维护费每人50元有效期一年",
+        "onboard_time": 1752743963,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112077,
+        "num": 112077,
+        "word": "长大后灵气都没了",
+        "onboard_time": 1752750322,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110991,
+        "num": 110991,
+        "word": "易烊千玺戴了美瞳",
+        "onboard_time": 1752737481,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110557,
+        "num": 110557,
+        "word": "爱康国宾情况说明",
+        "onboard_time": 1752752424,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}

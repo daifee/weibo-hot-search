@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752751529014,
+  "endTime": 1752752471697,
   "band_list": [
     {
       "raw_hot": 11780659,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3359595,
-      "num": 444665,
+      "num": 472422,
       "word": "宝剑嫂雨哥分手",
       "onboard_time": 1752737241,
       "rank": 34,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663065,
+      "num": 663065,
+      "word": "乐山大佛热到休假了",
+      "onboard_time": 1752748941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660305,
       "num": 276022,
       "word": "印度大规模猥亵事件478人被捕",
@@ -347,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 573983,
-      "num": 573983,
-      "word": "乐山大佛热到休假了",
-      "onboard_time": 1752748941,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 566918,
       "num": 344704,
       "word": "女子下班发现自家猫生3只崽天塌了",
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543821,
+      "num": 543821,
+      "word": "余杭",
+      "onboard_time": 1752748042,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531617,
       "num": 503614,
       "word": "王心凌也是穿上王心凌痛衣了",
@@ -395,8 +403,8 @@
       "category": "舆论监督,演出"
     },
     {
-      "raw_hot": 509120,
-      "num": 509120,
+      "raw_hot": 523427,
+      "num": 523427,
       "word": "高校通报大三本科生逆天学术",
       "onboard_time": 1752748283,
       "rank": 14,
@@ -409,6 +417,14 @@
       "onboard_time": 1752743183,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 500727,
+      "num": 500727,
+      "word": "河南蚊子被热死",
+      "onboard_time": 1752747863,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499130,
@@ -443,6 +459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 496240,
+      "num": 496240,
+      "word": "山姆背叛了山姆",
+      "onboard_time": 1752750682,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480778,
       "num": 353843,
       "word": "不要送自己舍不得买的东西",
@@ -451,19 +475,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468127,
+      "num": 468127,
+      "word": "奥巴马夫妇回应离婚传闻",
+      "onboard_time": 1752750682,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 466113,
       "num": 466113,
       "word": "男子过安检被拦怒砸充电宝瞬间起火",
       "onboard_time": 1752722301,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462426,
-      "num": 462426,
-      "word": "余杭",
-      "onboard_time": 1752748042,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -569,6 +593,14 @@
       "onboard_time": 1752723562,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342348,
+      "num": 342348,
+      "word": "张艺凡的腿",
+      "onboard_time": 1752750202,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 341324,
@@ -715,14 +747,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 279293,
-      "num": 279293,
-      "word": "奥巴马夫妇回应离婚传闻",
-      "onboard_time": 1752750682,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 278259,
       "num": 278259,
       "word": "美国海啸预警",
@@ -731,12 +755,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 275653,
-      "num": 275653,
-      "word": "河南蚊子被热死",
-      "onboard_time": 1752747863,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 275128,
+      "num": 490030,
+      "word": "肖战连续两天请客剧组",
+      "onboard_time": 1752749843,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 268309,
@@ -748,7 +772,7 @@
     },
     {
       "raw_hot": 268138,
-      "num": 460826,
+      "num": 483995,
       "word": "如果刘亦菲和魏大勋演偶像剧",
       "onboard_time": 1752749360,
       "rank": 7,
@@ -771,19 +795,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 260319,
+      "num": 290664,
+      "word": "烧烤调料被曝用廉价猪饲料原料",
+      "onboard_time": 1752750082,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 254290,
       "num": 295826,
       "word": "梓渝方就侵权行为声明",
       "onboard_time": 1752748102,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 253418,
-      "num": 282647,
-      "word": "张艺凡的腿",
-      "onboard_time": 1752750202,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -817,14 +841,6 @@
       "onboard_time": 1752747982,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243305,
-      "num": 243305,
-      "word": "山姆背叛了山姆",
-      "onboard_time": 1752750682,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236513,
@@ -963,14 +979,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 213965,
-      "num": 456693,
-      "word": "肖战连续两天请客剧组",
-      "onboard_time": 1752749843,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213549,
       "num": 213549,
       "word": "JDG告别MISSING",
@@ -1083,6 +1091,14 @@
       "category": "动漫,电竞"
     },
     {
+      "raw_hot": 195040,
+      "num": 247770,
+      "word": "樱桃琥珀女二是真闺蜜",
+      "onboard_time": 1752751103,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194108,
       "num": 194108,
       "word": "演员李梦搬家到杭州租别墅生活",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1752750262,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 189453,
-      "num": 290664,
-      "word": "烧烤调料被曝用廉价猪饲料原料",
-      "onboard_time": 1752750082,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 189277,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1752746483,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 184077,
+      "num": 291243,
+      "word": "武侠剧要回来了",
+      "onboard_time": 1752751824,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 183949,
@@ -1323,12 +1339,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 173671,
-      "num": 247770,
-      "word": "樱桃琥珀女二是真闺蜜",
+      "raw_hot": 173774,
+      "num": 173774,
+      "word": "财政部调整超豪华小汽车消费税政策",
       "onboard_time": 1752751103,
-      "rank": 26,
-      "category": "剧集"
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 172682,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1752735982,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168264,
+      "num": 245512,
+      "word": "祝绪丹也怕豆角没熟",
+      "onboard_time": 1752749962,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 168052,
@@ -1451,14 +1475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165496,
-      "num": 245512,
-      "word": "祝绪丹也怕豆角没熟",
-      "onboard_time": 1752749962,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164268,
       "num": 164268,
       "word": "一个人自驾后才知道什么是人生",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1752725183,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159554,
-      "num": 159554,
-      "word": "财政部调整超豪华小汽车消费税政策",
-      "onboard_time": 1752751103,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 159546,
@@ -1529,6 +1537,14 @@
       "onboard_time": 1752744503,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153454,
+      "num": 153454,
+      "word": "警方回复多肉饱饱涉嫌诈骗",
+      "onboard_time": 1752751461,
+      "rank": 47,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 153030,
@@ -1715,6 +1731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 140050,
+      "num": 140050,
+      "word": "李兰迪赵今麦中戏严选",
+      "onboard_time": 1752752002,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139549,
       "num": 139549,
       "word": "比尔将签约快船",
@@ -1819,8 +1843,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133089,
+      "num": 133089,
+      "word": "临沂巨响",
+      "onboard_time": 1752748883,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 132220,
-      "num": 132220,
+      "num": 476297,
       "word": "水务公司回应小区自来水发臭",
       "onboard_time": 1752748641,
       "rank": 41,
@@ -1899,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124943,
-      "num": 124943,
-      "word": "临沂巨响",
-      "onboard_time": 1752748883,
-      "rank": 43,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 122788,
       "num": 122788,
       "word": "黄奕在RAIN身边秒变韩剧女主",
@@ -1947,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119122,
-      "num": 119122,
-      "word": "警方回复多肉饱饱涉嫌诈骗",
-      "onboard_time": 1752751461,
-      "rank": 47,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 118934,
       "num": 118934,
       "word": "为什么猫咖没有狸花猫",
@@ -1992,6 +2008,14 @@
       "word": "上海地铁11号线出现板凳族",
       "onboard_time": 1752739761,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117387,
+      "num": 451061,
+      "word": "川北医学院本科生的逆天学术咋来的",
+      "onboard_time": 1752750622,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2043,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112848,
+      "num": 112848,
+      "word": "JDG五个教练",
+      "onboard_time": 1752752424,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112392,
       "num": 112392,
       "word": "马龙北京出发",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1752713722,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112077,
+      "num": 112077,
+      "word": "长大后灵气都没了",
+      "onboard_time": 1752750322,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 111920,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1752745763,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110557,
+      "num": 110557,
+      "word": "爱康国宾情况说明",
+      "onboard_time": 1752752424,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 109751,
@@ -2249,14 +2297,6 @@
       "onboard_time": 1752745522,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 92016,
-      "num": 451061,
-      "word": "川北医学院本科生的逆天学术咋来的",
-      "onboard_time": 1752750622,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91929,
@@ -2515,6 +2555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70040,
+      "num": 133090,
+      "word": "马龙又成打卡点了",
+      "onboard_time": 1752751581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70021,
       "num": 259945,
       "word": "伊拉克一超市火灾近50人死亡",
@@ -2601,6 +2649,14 @@
       "onboard_time": 1752725003,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59592,
+      "num": 279778,
+      "word": "歌手第十期赛制",
+      "onboard_time": 1752751701,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 58526,
@@ -2843,6 +2899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31466,
+      "num": 279773,
+      "word": "一个女孩决定留在塔克拉玛干治沙",
+      "onboard_time": 1752751342,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 30516,
       "num": 34368,
       "word": "韩国家长为内推名校组队偷试卷被拘",
@@ -2931,14 +2995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20294,
-      "num": 243459,
-      "word": "一个女孩决定留在塔克拉玛干治沙",
-      "onboard_time": 1752751342,
-      "rank": 30,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 20269,
       "num": 34252,
       "word": "汉语言和历史的就业方向找到了",
@@ -3017,6 +3073,14 @@
       "onboard_time": 1752688156,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14248,
+      "num": 602043,
+      "word": "市监部门立案调查维态美公司",
+      "onboard_time": 1752752122,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13209,
