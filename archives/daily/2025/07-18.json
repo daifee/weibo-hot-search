@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752771100493,
+  "endTime": 1752773212755,
   "band_list": [
     {
       "raw_hot": 580953,
@@ -17,6 +17,14 @@
       "onboard_time": 1752753082,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454202,
+      "num": 266408,
+      "word": "余杭居民称淋浴后全身都是臭的",
+      "onboard_time": 1752768440,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381185,
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266408,
-      "num": 266408,
-      "word": "余杭居民称淋浴后全身都是臭的",
-      "onboard_time": 1752768440,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265891,
       "num": 179366,
       "word": "网红老板西藏自驾途中去世",
@@ -73,6 +73,14 @@
       "onboard_time": 1752764243,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220387,
+      "num": 220387,
+      "word": "BLG对战G2",
+      "onboard_time": 1752764662,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 212309,
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175848,
-      "num": 175848,
-      "word": "BLG对战G2",
-      "onboard_time": 1752764662,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 174358,
       "num": 174358,
       "word": "马云骑车夜游西湖",
@@ -129,6 +129,14 @@
       "onboard_time": 1752764301,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149818,
+      "num": 149818,
+      "word": "中美两国人民完全可以成为好朋友",
+      "onboard_time": 1752767300,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146412,
@@ -177,14 +185,6 @@
       "onboard_time": 1752755183,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112522,
-      "num": 112522,
-      "word": "中美两国人民完全可以成为好朋友",
-      "onboard_time": 1752767300,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111899,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39218,
+      "num": 39218,
+      "word": "从太空看中国的绿色越来越多",
+      "onboard_time": 1752770839,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37920,
       "num": 70983,
       "word": "B萌",
@@ -419,7 +427,15 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 28116,
+      "raw_hot": 32968,
+      "num": 38327,
+      "word": "朱孝天和F4其他三人不熟",
+      "onboard_time": 1752759322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29799,
       "num": 177406,
       "word": "爱康国宾邀请第三方机构论证分析",
       "onboard_time": 1752767240,
@@ -432,6 +448,14 @@
       "word": "录取通知书是大学的第一堂课",
       "onboard_time": 1752741921,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20965,
+      "num": 53576,
+      "word": "爱康声明",
+      "onboard_time": 1752767180,
+      "rank": 23,
       "category": "民生新闻"
     }
   ],
