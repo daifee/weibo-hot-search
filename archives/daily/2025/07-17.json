@@ -1,10 +1,10 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752741411080,
+  "endTime": 1752742294550,
   "band_list": [
     {
-      "raw_hot": 3971287,
-      "num": 3971287,
+      "raw_hot": 4032715,
+      "num": 4032715,
       "word": "杭州就娃哈哈事件成立专班",
       "onboard_time": 1752740001,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1339204,
+      "num": 1339204,
+      "word": "董璇张维伊争吵",
+      "onboard_time": 1752740661,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1325583,
       "num": 1325583,
       "word": "官方再通报花715万建牛郎织女雕塑",
@@ -97,14 +105,6 @@
       "onboard_time": 1752721403,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1056656,
-      "num": 1056656,
-      "word": "董璇张维伊争吵",
-      "onboard_time": 1752740661,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1021733,
@@ -635,6 +635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250446,
+      "num": 250446,
+      "word": "暗河传",
+      "onboard_time": 1752737722,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236513,
       "num": 236513,
       "word": "jiejie wei",
@@ -675,6 +683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225108,
+      "num": 225108,
+      "word": "吐槽中国的英国网红在印度崩溃",
+      "onboard_time": 1752740424,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 222741,
       "num": 220501,
       "word": "陈奕迅疑似回家看老宅",
@@ -683,12 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221035,
-      "num": 221035,
-      "word": "暗河传",
-      "onboard_time": 1752737722,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 222031,
+      "num": 222031,
+      "word": "6年3次被判不许离婚男方提交新证据",
+      "onboard_time": 1752739103,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221026,
@@ -697,14 +713,6 @@
       "onboard_time": 1752717801,
       "rank": 30,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 220350,
-      "num": 220350,
-      "word": "6年3次被判不许离婚男方提交新证据",
-      "onboard_time": 1752739103,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219683,
@@ -753,6 +761,14 @@
       "onboard_time": 1752734481,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215973,
+      "num": 215973,
+      "word": "原来布洛芬胶囊是穿拖鞋的",
+      "onboard_time": 1752739821,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 213549,
@@ -867,20 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192039,
-      "num": 192039,
-      "word": "原来布洛芬胶囊是穿拖鞋的",
-      "onboard_time": 1752739821,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 191528,
       "num": 191528,
       "word": "韩国女子在越南殴打当地人引众怒",
       "onboard_time": 1752722542,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 190465,
+      "num": 190465,
+      "word": "青春旅行团",
+      "onboard_time": 1752741082,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 189277,
@@ -985,22 +1001,6 @@
       "onboard_time": 1752682280,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178257,
-      "num": 178257,
-      "word": "青春旅行团",
-      "onboard_time": 1752741082,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 177629,
-      "num": 177629,
-      "word": "吐槽中国的英国网红在印度崩溃",
-      "onboard_time": 1752740424,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 177026,
@@ -1171,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158997,
+      "num": 158997,
+      "word": "一种新型诈骗是网店发错货",
+      "onboard_time": 1752739701,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158407,
       "num": 158407,
       "word": "迪丽热巴被小狗萌晕了",
       "onboard_time": 1752735802,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156496,
+      "num": 156496,
+      "word": "麦当劳超大薯条",
+      "onboard_time": 1752741982,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 155489,
@@ -1243,14 +1259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149736,
-      "num": 149736,
-      "word": "一种新型诈骗是网店发错货",
-      "onboard_time": 1752739701,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149179,
       "num": 149179,
       "word": "美团高管称外卖爆单大都是泡沫",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1752734540,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146402,
+      "num": 184715,
+      "word": "景区游客陈奕迅",
+      "onboard_time": 1752742041,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 145907,
@@ -1411,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135848,
+      "num": 297113,
+      "word": "湖北一处地表温度超73度",
+      "onboard_time": 1752737361,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135758,
       "num": 135758,
       "word": "森林进化论",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1752729922,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 134834,
-      "num": 297113,
-      "word": "湖北一处地表温度超73度",
-      "onboard_time": 1752737361,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134010,
@@ -1483,12 +1499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124912,
+      "num": 124912,
+      "word": "本科生高薪职业榜Top10",
+      "onboard_time": 1752742102,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122465,
       "num": 122465,
       "word": "美团闪退",
       "onboard_time": 1752732084,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122325,
+      "num": 122325,
+      "word": "汪苏泷深圳抢票",
+      "onboard_time": 1752741203,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 121366,
+      "num": 121366,
+      "word": "预计樊振东7月25日交手林诗栋",
+      "onboard_time": 1752737422,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 120826,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1752735321,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117716,
+      "num": 117716,
+      "word": "上海地铁11号线出现板凳族",
+      "onboard_time": 1752739761,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117268,
@@ -1529,14 +1577,6 @@
       "onboard_time": 1752731962,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 114959,
-      "num": 114959,
-      "word": "预计樊振东7月25日交手林诗栋",
-      "onboard_time": 1752737422,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 113347,
@@ -1619,6 +1659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105748,
+      "num": 105748,
+      "word": "BLG教练",
+      "onboard_time": 1752741622,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103765,
       "num": 103765,
       "word": "复读15次唐尚珺谈网红身份困扰",
@@ -1659,14 +1707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101488,
-      "num": 101488,
-      "word": "上海地铁11号线出现板凳族",
-      "onboard_time": 1752739761,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100147,
       "num": 100147,
       "word": "为什么只遛半条狗啊",
@@ -1689,14 +1729,6 @@
       "onboard_time": 1752733581,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96654,
-      "num": 96654,
-      "word": "汪苏泷深圳抢票",
-      "onboard_time": 1752741203,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 96419,
@@ -2291,6 +2323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27628,
+      "num": 933292,
+      "word": "录取通知书是大学的第一堂课",
+      "onboard_time": 1752741921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27311,
+      "num": 252480,
+      "word": "律师解读租房甲醛超标责任划分",
+      "onboard_time": 1752741142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27272,
       "num": 296531,
       "word": "爱康国宾CEO曾揭行业造假黑幕",
@@ -2307,12 +2355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26897,
+      "num": 167677,
+      "word": "62岁网民花钱学造谣挣了1毛3",
+      "onboard_time": 1752741681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23987,
       "num": 135118,
       "word": "萨巴伦卡退出蒙特利尔赛",
       "onboard_time": 1752719782,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22652,
+      "num": 122585,
+      "word": "秋季手机圈迭代上新",
+      "onboard_time": 1752741982,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 22165,
@@ -2371,6 +2435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16575,
+      "num": 134039,
+      "word": "纳木错美如高原蓝宝石",
+      "onboard_time": 1752720502,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16320,
       "num": 20856,
       "word": "一日企员工因间谍罪被判刑",
@@ -2393,14 +2465,6 @@
       "onboard_time": 1752688156,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15445,
-      "num": 217936,
-      "word": "律师解读租房甲醛超标责任划分",
-      "onboard_time": 1752741142,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12982,
