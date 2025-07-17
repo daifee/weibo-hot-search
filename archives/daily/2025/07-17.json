@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752757919986,
+  "endTime": 1752759754114,
   "band_list": [
     {
       "raw_hot": 11780659,
@@ -291,6 +291,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 659202,
+      "num": 659202,
+      "word": "杭州自来水",
+      "onboard_time": 1752753382,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657700,
+      "num": 657700,
+      "word": "肖战直播",
+      "onboard_time": 1752753082,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655917,
       "num": 655917,
       "word": "印度机长关闭燃油开关或导致坠机",
@@ -313,6 +329,14 @@
       "onboard_time": 1752727643,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 648052,
+      "num": 648052,
+      "word": "谢霆锋认为比赛用火锅底料是作弊",
+      "onboard_time": 1752755183,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 640225,
@@ -491,28 +515,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 494530,
-      "num": 494530,
-      "word": "谢霆锋认为比赛用火锅底料是作弊",
-      "onboard_time": 1752755183,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 480778,
       "num": 353843,
       "word": "不要送自己舍不得买的东西",
       "onboard_time": 1752737061,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 467397,
-      "num": 467397,
-      "word": "肖战直播",
-      "onboard_time": 1752753082,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 466113,
@@ -611,6 +619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385173,
+      "num": 385173,
+      "word": "殡仪馆3500招太平间门卫要全天在岗",
+      "onboard_time": 1752758121,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364290,
+      "num": 364290,
+      "word": "爱奇艺717",
+      "onboard_time": 1752754821,
+      "rank": 13,
+      "category": "互联网,作品衍生"
+    },
+    {
       "raw_hot": 362790,
       "num": 362790,
       "word": "特朗普发威胁后普京视察最大钢厂",
@@ -625,14 +649,6 @@
       "onboard_time": 1752744323,
       "rank": 36,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 356216,
-      "num": 356216,
-      "word": "爱奇艺717",
-      "onboard_time": 1752754821,
-      "rank": 13,
-      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 350329,
@@ -817,14 +833,6 @@
       "onboard_time": 1752749843,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275049,
-      "num": 275049,
-      "word": "杭州自来水",
-      "onboard_time": 1752753382,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268309,
@@ -1099,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206272,
+      "num": 206272,
+      "word": "鹿晗撕拉片拍摄花絮",
+      "onboard_time": 1752758182,
+      "rank": 18,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 205462,
       "num": 189657,
       "word": "这下都没有小桌板了",
@@ -1107,12 +1123,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204715,
+      "num": 186722,
+      "word": "肖战战有玉",
+      "onboard_time": 1752758602,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203593,
       "num": 203593,
       "word": "西安市民热到吸氧",
       "onboard_time": 1752716842,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203419,
+      "num": 186081,
+      "word": "被宋亚轩认成牛肉串的男人来厨综了",
+      "onboard_time": 1752758542,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 202838,
@@ -1284,7 +1316,7 @@
     },
     {
       "raw_hot": 188077,
-      "num": 548988,
+      "num": 657998,
       "word": "正确预防空调病",
       "onboard_time": 1752756502,
       "rank": 2,
@@ -1296,6 +1328,14 @@
       "word": "五台山回应游客疑因挑逗牛被攻击",
       "onboard_time": 1752734841,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187142,
+      "num": 187142,
+      "word": "快递员涉嫌变卖油卡最高判无期",
+      "onboard_time": 1752756082,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1379,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181288,
+      "num": 181288,
+      "word": "祝绪丹回应被说装可爱",
+      "onboard_time": 1752756262,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179343,
       "num": 179343,
       "word": "朝雪录热度",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1752751103,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 173050,
-      "num": 173050,
-      "word": "祝绪丹回应被说装可爱",
-      "onboard_time": 1752756262,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 172682,
@@ -1675,12 +1715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154249,
-      "num": 160920,
-      "word": "快递员涉嫌变卖油卡最高判无期",
-      "onboard_time": 1752756082,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 154538,
+      "num": 154538,
+      "word": "男宝星球2",
+      "onboard_time": 1752758303,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 153030,
@@ -1732,7 +1772,7 @@
     },
     {
       "raw_hot": 150963,
-      "num": 150963,
+      "num": 181511,
       "word": "JDG锁定第三轮A组",
       "onboard_time": 1752756021,
       "rank": 34,
@@ -1785,6 +1825,14 @@
       "onboard_time": 1752730762,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148430,
+      "num": 148430,
+      "word": "一想到打的是老婆的舰艇就更起劲了",
+      "onboard_time": 1752756621,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 148411,
@@ -1883,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141230,
+      "num": 141230,
+      "word": "连SVIP都不能听的台词出现了",
+      "onboard_time": 1752758182,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140943,
       "num": 140943,
       "word": "黄明昊拍的金晨美成啥了",
@@ -1944,6 +2000,14 @@
       "word": "少年自制火箭让梦想飞起来了",
       "onboard_time": 1752716001,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138222,
+      "num": 253428,
+      "word": "广州律协通报获赔88万律师拿55万",
+      "onboard_time": 1752758423,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -2075,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129541,
+      "num": 129541,
+      "word": "杨紫带piupiu跳手势舞",
+      "onboard_time": 1752758002,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128988,
       "num": 128988,
       "word": "iG管理层",
@@ -2147,6 +2219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122203,
+      "num": 122203,
+      "word": "永远不要失去对世界好奇的能力",
+      "onboard_time": 1752758303,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121366,
       "num": 121366,
       "word": "预计樊振东7月25日交手林诗栋",
@@ -2163,12 +2243,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120807,
+      "num": 120807,
+      "word": "逍遥剧组直播",
+      "onboard_time": 1752759502,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119125,
+      "num": 306602,
+      "word": "银行用户预约机场贵宾厅需验资2000万",
+      "onboard_time": 1752754282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118934,
       "num": 118934,
       "word": "为什么猫咖没有狸花猫",
       "onboard_time": 1752735321,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118780,
+      "num": 118780,
+      "word": "第一次见这么忠厚老实的剧",
+      "onboard_time": 1752759562,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118431,
@@ -2259,20 +2363,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114170,
+      "num": 114170,
+      "word": "朱孝天和F4其他三人不熟",
+      "onboard_time": 1752759322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113347,
       "num": 113347,
       "word": "突然发现自己一直撕膏药纸撕错了",
       "onboard_time": 1752733763,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113093,
-      "num": 113093,
-      "word": "一想到打的是老婆的舰艇就更起劲了",
-      "onboard_time": 1752756621,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 112848,
@@ -2308,7 +2412,7 @@
     },
     {
       "raw_hot": 111994,
-      "num": 111994,
+      "num": 257990,
       "word": "一国企登报喊61名职工回来上班",
       "onboard_time": 1752757702,
       "rank": 46,
@@ -2819,14 +2923,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 68309,
-      "num": 306602,
-      "word": "银行用户预约机场贵宾厅需验资2000万",
-      "onboard_time": 1752754282,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66818,
       "num": 73700,
       "word": "白鹿短裙高跟鞋",
@@ -3145,6 +3241,14 @@
       "onboard_time": 1752724943,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35354,
+      "num": 118875,
+      "word": "12306回应货运列车撞上滑坡体",
+      "onboard_time": 1752759683,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34370,

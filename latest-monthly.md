@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/17 21:11:59
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/17 21:42:34
 </p>
 </blockquote>
 <p>
@@ -4161,6 +4161,12 @@ Oakley 王楚钦（热度：694014）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%87%AA%E6%9D%A5%E6%B0%B4%23" target="weibo">
+杭州自来水（热度：659202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%B3%95%E4%B9%8B%E5%90%8D%E5%88%A0%E5%8D%9A%23" target="weibo">
 以法之名删博（热度：658707）
 </a>
@@ -4175,6 +4181,12 @@ GAI是不是又想走了（热度：658327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%8F%91%E7%8E%B0%E4%BC%B4%E8%88%9E%E7%9A%84%E5%B1%8F%E4%BF%9D%E6%98%AF%E8%87%AA%E5%B7%B1%23" target="weibo">
 鹿晗发现伴舞的屏保是自己（热度：657981）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%B4%E6%92%AD%23" target="weibo">
+肖战直播（热度：657700）
 </a>
 </li>
 
@@ -4289,6 +4301,12 @@ GAI是不是又想走了（热度：658327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%81%93%E6%98%8E%E5%A4%B4%E5%8F%91%E5%85%A8%E7%99%BD%E4%BA%86%23" target="weibo">
 陈道明头发全白了（热度：648450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E8%AE%A4%E4%B8%BA%E6%AF%94%E8%B5%9B%E7%94%A8%E7%81%AB%E9%94%85%E5%BA%95%E6%96%99%E6%98%AF%E4%BD%9C%E5%BC%8A%23" target="weibo">
+谢霆锋认为比赛用火锅底料是作弊（热度：648052）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ BoA确诊为急性骨坏死（热度：517157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%9B%9E%E5%BA%94%E8%99%90%E7%8C%AB%E8%80%83%E7%94%9F%E4%BA%8B%E4%BB%B6%23" target="weibo">
 桂林回应虐猫考生事件（热度：505929）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E7%B3%95%E5%88%BA%E5%AE%A2%E5%BC%80%E5%A7%8B%E5%80%92%E9%97%AD%E4%BA%86%23" target="weibo">
-雪糕刺客开始倒闭了（热度：505307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%230%E5%85%83%E5%A5%B6%E8%8C%B6%E8%83%BD%E5%96%9D%E5%A4%9A%E4%B9%85%23" target="weibo">
-0元奶茶能喝多久（热度：504558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%20%E5%AE%97%E9%A6%A5%E8%8E%89%23" target="weibo">
-娃哈哈 宗馥莉（热度：504410）
 </a>
 </li>
 
