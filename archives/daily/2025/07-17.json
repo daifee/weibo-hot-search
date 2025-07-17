@@ -1,7 +1,15 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752731369342,
+  "endTime": 1752734428092,
   "band_list": [
+    {
+      "raw_hot": 2168856,
+      "num": 271629,
+      "word": "樱桃琥珀原著 避孕药",
+      "onboard_time": 1752732322,
+      "rank": 10,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2084278,
       "num": 2084278,
@@ -99,6 +107,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 837043,
+      "num": 837043,
+      "word": "爸妈公积金能帮还房贷了",
+      "onboard_time": 1752731181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 833418,
       "num": 161240,
       "word": "黄杨钿甜母亲发声",
@@ -155,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 736379,
+      "num": 736379,
+      "word": "大冰直播间被骚扰高中生后续",
+      "onboard_time": 1752730041,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 665953,
       "num": 471859,
       "word": "风月不相关",
@@ -185,14 +209,6 @@
       "onboard_time": 1752727643,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 649175,
-      "num": 260685,
-      "word": "大冰直播间被骚扰高中生后续",
-      "onboard_time": 1752730041,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 625869,
@@ -283,11 +299,27 @@
       "category": "舆论监督,演出"
     },
     {
+      "raw_hot": 522214,
+      "num": 522214,
+      "word": "可口可乐回应特朗普要求改配方",
+      "onboard_time": 1752729742,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 499070,
       "num": 691081,
       "word": "四川重庆已经热红了",
       "onboard_time": 1752712520,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493903,
+      "num": 262822,
+      "word": "男子控糖一年身体变化",
+      "onboard_time": 1752732322,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -387,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321651,
+      "num": 225827,
+      "word": "董璇伴娘团有佟丽娅",
+      "onboard_time": 1752733522,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298347,
       "num": 301844,
       "word": "植村秀专业美发 蔡徐坤",
@@ -409,14 +449,6 @@
       "onboard_time": 1752709821,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291142,
-      "num": 441213,
-      "word": "可口可乐回应特朗普要求改配方",
-      "onboard_time": 1752729742,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 289608,
@@ -449,6 +481,22 @@
       "onboard_time": 1752707657,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 282207,
+      "num": 282207,
+      "word": "王琳怎么背着我过依萍的人生",
+      "onboard_time": 1752731962,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280749,
+      "num": 280749,
+      "word": "朝雪录第二案道歉的人有点多",
+      "onboard_time": 1752733162,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 280476,
@@ -537,14 +585,6 @@
       "onboard_time": 1752661462,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 224438,
-      "num": 224438,
-      "word": "爸妈公积金能帮还房贷了",
-      "onboard_time": 1752731181,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221026,
@@ -659,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202042,
+      "num": 262131,
+      "word": "杭州通报多小区自来水现臭味",
+      "onboard_time": 1752730941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196641,
       "num": 196641,
       "word": "全职高手真的去苏黎世",
@@ -667,12 +715,28 @@
       "category": "动漫,电竞"
     },
     {
+      "raw_hot": 192565,
+      "num": 192565,
+      "word": "徐艺洋喊黄子韬黄了个小桃",
+      "onboard_time": 1752733462,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191528,
       "num": 191528,
       "word": "韩国女子在越南殴打当地人引众怒",
       "onboard_time": 1752722542,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 190469,
+      "num": 190469,
+      "word": "五台山游客疑因挑逗牛被围攻踩踏",
+      "onboard_time": 1752732742,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189277,
@@ -787,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175207,
+      "num": 175207,
+      "word": "外国网红在中国街头栽赃路人",
+      "onboard_time": 1752734241,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175078,
       "num": 175078,
       "word": "这到底是题库还是冷笑话大全",
@@ -825,6 +897,14 @@
       "onboard_time": 1752675683,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168710,
+      "num": 168710,
+      "word": "张凌赫帅的太权威了",
+      "onboard_time": 1752733881,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 168052,
@@ -1019,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140943,
+      "num": 140943,
+      "word": "黄明昊拍的金晨美成啥了",
+      "onboard_time": 1752731361,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140676,
       "num": 374480,
       "word": "海浪越大朱一龙越野",
@@ -1083,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135343,
+      "num": 135343,
+      "word": "樱桃琥珀 40集删减到24集",
+      "onboard_time": 1752734182,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135191,
       "num": 135191,
       "word": "不是所有童年都向往迪士尼",
@@ -1139,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122465,
+      "num": 122465,
+      "word": "美团闪退",
+      "onboard_time": 1752732084,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117268,
       "num": 84335,
       "word": "巴黎被印度博主疯狂吐槽",
@@ -1153,6 +1257,22 @@
       "onboard_time": 1752715580,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115451,
+      "num": 115451,
+      "word": "68亿市值公司被员工诈骗套现13亿",
+      "onboard_time": 1752731962,
+      "rank": 35,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 113347,
+      "num": 113347,
+      "word": "突然发现自己一直撕膏药纸撕错了",
+      "onboard_time": 1752733763,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 112392,
@@ -1179,12 +1299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110092,
+      "num": 110092,
+      "word": "余景天 你们有没有点良心",
+      "onboard_time": 1752731901,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109751,
       "num": 89767,
       "word": "杨幂长安的荔枝人生镜头",
       "onboard_time": 1752682462,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108491,
+      "num": 113682,
+      "word": "龚俊我看过沙漠下暴雨",
+      "onboard_time": 1752732682,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 107460,
@@ -1203,12 +1339,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102117,
+      "num": 102117,
+      "word": "iG或更换首发打野",
+      "onboard_time": 1752734062,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100147,
       "num": 100147,
       "word": "为什么只遛半条狗啊",
       "onboard_time": 1752716960,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99455,
+      "num": 99455,
+      "word": "董晴用作品接住了她的中女时代",
+      "onboard_time": 1752732863,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96419,
+      "num": 96419,
+      "word": "一面是恨海情天一面是抛妻弃子",
+      "onboard_time": 1752733282,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 96179,
@@ -1283,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87017,
+      "num": 95785,
+      "word": "清补凉",
+      "onboard_time": 1752733581,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 86223,
       "num": 86223,
       "word": "九尾 没想到这赛季就这样结束了",
@@ -1347,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80004,
-      "num": 262131,
-      "word": "杭州通报多小区自来水现臭味",
-      "onboard_time": 1752730941,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79683,
       "num": 79683,
       "word": "男子与女友发生口角后刺死女友",
@@ -1385,6 +1545,14 @@
       "onboard_time": 1752708380,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75736,
+      "num": 271649,
+      "word": "爱康国宾曾因体检漏检被索赔15万",
+      "onboard_time": 1752733581,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75706,
@@ -1593,6 +1761,14 @@
       "onboard_time": 1752727823,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48353,
+      "num": 193075,
+      "word": "2轮电动车进高速路逆行撞车致3死",
+      "onboard_time": 1752733342,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48133,
