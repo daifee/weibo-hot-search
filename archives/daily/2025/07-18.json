@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752778466414,
+  "endTime": 1752780227079,
   "band_list": [
     {
       "raw_hot": 737123,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21328,
+      "num": 47694,
+      "word": "暑假不是用来赶进度而是追赶星星的",
+      "onboard_time": 1752777555,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 20079,
       "num": 35136,
       "word": "樱桃琥珀原著",
@@ -515,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16353,
-      "num": 47694,
-      "word": "暑假不是用来赶进度而是追赶星星的",
-      "onboard_time": 1752777555,
-      "rank": 41,
+      "raw_hot": 16517,
+      "num": 17858,
+      "word": "大三本科生回应逆天学术履历",
+      "onboard_time": 1752778874,
+      "rank": 39,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 14199,
+      "num": 39276,
+      "word": "美国真心想同中国合作就正视事实",
+      "onboard_time": 1752778994,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
