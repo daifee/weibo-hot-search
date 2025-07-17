@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752784233452,
+  "endTime": 1752785100088,
   "band_list": [
     {
       "raw_hot": 737123,
@@ -539,8 +539,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 15802,
-      "num": 16012,
+      "raw_hot": 16575,
+      "num": 16575,
       "word": "小鸡 妈妈这么做一定有她的道理",
       "onboard_time": 1752780913,
       "rank": 48,
@@ -556,11 +556,19 @@
     },
     {
       "raw_hot": 12140,
-      "num": 20849,
+      "num": 20967,
       "word": "有些事要打攻坚战有些事要久久为功",
       "onboard_time": 1752782954,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11250,
+      "num": 16570,
+      "word": "一碗面让老外觉得不会用筷子丢人",
+      "onboard_time": 1752784034,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
