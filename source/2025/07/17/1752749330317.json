@@ -1,0 +1,410 @@
+{
+  "runTime": 1752749330317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1495493,
+        "num": 1495493,
+        "word": "董璇张维伊争吵",
+        "onboard_time": 1752740661,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1068188,
+        "num": 1068188,
+        "word": "麦当劳超大薯条",
+        "onboard_time": 1752741982,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97531,
+        "num": 974513,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 950232,
+        "num": 950232,
+        "word": "减肥 甜玉米",
+        "onboard_time": 1752743722,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 638440,
+        "num": 638440,
+        "word": "杨幂让C",
+        "onboard_time": 1752743004,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502601,
+        "num": 502601,
+        "word": "官方调查干部21岁时以高中学历获聘",
+        "onboard_time": 1752743183,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 499038,
+        "num": 499038,
+        "word": "阮经天 热死了你也不能当风扇啊",
+        "onboard_time": 1752744623,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438739,
+        "num": 438739,
+        "word": "爸妈公积金能帮还房贷了",
+        "onboard_time": 1752731181,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422788,
+        "num": 422788,
+        "word": "本科生高薪职业榜Top10",
+        "onboard_time": 1752742102,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 391889,
+        "num": 391889,
+        "word": "成都40度下开水了",
+        "onboard_time": 1752742342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2087098,
+        "num": 384768,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 517226,
+        "num": 371719,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459182,
+        "num": 357613,
+        "word": "袁泉夏雨15岁女儿罕见露面",
+        "onboard_time": 1752747803,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143131,
+        "num": 344518,
+        "word": "湖南一男子撞伤路人后杀人抛尸死刑",
+        "onboard_time": 1752743842,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104770,
+        "num": 334356,
+        "word": "高校通报大三本科生逆天学术",
+        "onboard_time": 1752748283,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 328981,
+        "num": 328981,
+        "word": "火把节 八天假",
+        "onboard_time": 1752744323,
+        "rank": 15,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 305076,
+        "num": 305076,
+        "word": "梓渝现象已经开始人传人了",
+        "onboard_time": 1752746963,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254290,
+        "num": 295826,
+        "word": "梓渝方就侵权行为声明",
+        "onboard_time": 1752748102,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216452,
+        "num": 291691,
+        "word": "易烊千玺戴了美瞳",
+        "onboard_time": 1752737481,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121504,
+        "num": 290513,
+        "word": "乐山大佛热到休假了",
+        "onboard_time": 1752748941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289612,
+        "num": 289612,
+        "word": "孙颖莎全国青联常务委员会委员",
+        "onboard_time": 1752746001,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88166,
+        "num": 285378,
+        "word": "全员加速中笑料上新了",
+        "onboard_time": 1752748701,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283046,
+        "num": 283046,
+        "word": "不要送自己舍不得买的东西",
+        "onboard_time": 1752737061,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97213,
+        "num": 282302,
+        "word": "白象面饼120克克重透明化",
+        "onboard_time": 1752743543,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281892,
+        "num": 281892,
+        "word": "jiejie 休息",
+        "onboard_time": 1752746182,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249750,
+        "num": 249750,
+        "word": "内娱首部殡葬职场群像剧来了",
+        "onboard_time": 1752747982,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246839,
+        "num": 246839,
+        "word": "吐槽中国的英国网红在印度崩溃",
+        "onboard_time": 1752740424,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154239,
+        "num": 224071,
+        "word": "清潭国际高中2",
+        "onboard_time": 1752745161,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134021,
+        "num": 219033,
+        "word": "男婴离世家长获赔88万律师拿55万",
+        "onboard_time": 1752727643,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13209,
+        "num": 218772,
+        "word": "天门山索道故障游客被堵近1小时",
+        "onboard_time": 1752748941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218536,
+        "num": 218536,
+        "word": "丽江古城维护费每人50元有效期一年",
+        "onboard_time": 1752743963,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194465,
+        "num": 194465,
+        "word": "河南蚊子被热死",
+        "onboard_time": 1752747863,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182950,
+        "num": 182950,
+        "word": "钟美美谈成名的代价",
+        "onboard_time": 1752746483,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120465,
+        "num": 159720,
+        "word": "惠英红陈伟霆 来送奶茶的富婆姐姐",
+        "onboard_time": 1752747203,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149869,
+        "num": 149869,
+        "word": "爱康回应体检10年无异常却患癌晚期",
+        "onboard_time": 1752744503,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145348,
+        "num": 145348,
+        "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+        "onboard_time": 1752744683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143309,
+        "num": 143309,
+        "word": "董璇伴娘团有佟丽娅",
+        "onboard_time": 1752733522,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140357,
+        "num": 140357,
+        "word": "一个人自驾后才知道什么是人生",
+        "onboard_time": 1752747322,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136831,
+        "num": 136831,
+        "word": "中国女游客印度遇骚扰奋起反击",
+        "onboard_time": 1752747382,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40605,
+        "num": 133618,
+        "word": "火影忍者",
+        "onboard_time": 1752748761,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130353,
+        "num": 132528,
+        "word": "余杭",
+        "onboard_time": 1752748042,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132220,
+        "num": 132220,
+        "word": "水务公司回应小区自来水发臭",
+        "onboard_time": 1752748641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128020,
+        "num": 128020,
+        "word": "五台山游客疑因挑逗牛被围攻踩踏",
+        "onboard_time": 1752732742,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124943,
+        "num": 124943,
+        "word": "临沂巨响",
+        "onboard_time": 1752748883,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122788,
+        "num": 122788,
+        "word": "黄奕在RAIN身边秒变韩剧女主",
+        "onboard_time": 1752749182,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121561,
+        "num": 121561,
+        "word": "iG管理层",
+        "onboard_time": 1752746722,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121055,
+        "num": 121055,
+        "word": "女子产后撞见男友出轨殴打小三被拘",
+        "onboard_time": 1752729142,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118431,
+        "num": 118431,
+        "word": "JDG对战eStar",
+        "onboard_time": 1752749242,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117832,
+        "num": 117832,
+        "word": "杨幂今天好粉",
+        "onboard_time": 1752736102,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117616,
+        "num": 117616,
+        "word": "台风",
+        "onboard_time": 1752746902,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}

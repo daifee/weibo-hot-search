@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752748265347,
+  "endTime": 1752749330317,
   "band_list": [
     {
       "raw_hot": 11780659,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3359595,
-      "num": 361596,
+      "num": 384768,
       "word": "宝剑嫂雨哥分手",
       "onboard_time": 1752737241,
       "rank": 34,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1472446,
-      "num": 1472446,
+      "raw_hot": 1495493,
+      "num": 1495493,
       "word": "董璇张维伊争吵",
       "onboard_time": 1752740661,
       "rank": 1,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 950232,
+      "num": 950232,
+      "word": "减肥 甜玉米",
+      "onboard_time": 1752743722,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 918950,
       "num": 918950,
       "word": "五台山游客疑因挑逗牛被围攻踩踏",
@@ -201,14 +209,6 @@
       "onboard_time": 1752717141,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 744883,
-      "num": 744883,
-      "word": "减肥 甜玉米",
-      "onboard_time": 1752743722,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 744852,
@@ -387,12 +387,28 @@
       "category": "舆论监督,演出"
     },
     {
+      "raw_hot": 502601,
+      "num": 502601,
+      "word": "官方调查干部21岁时以高中学历获聘",
+      "onboard_time": 1752743183,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 499070,
       "num": 691081,
       "word": "四川重庆已经热红了",
       "onboard_time": 1752712520,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499038,
+      "num": 499038,
+      "word": "阮经天 热死了你也不能当风扇啊",
+      "onboard_time": 1752744623,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 496927,
@@ -419,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 460810,
-      "num": 436275,
-      "word": "阮经天 热死了你也不能当风扇啊",
-      "onboard_time": 1752744623,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 459182,
+      "num": 357613,
+      "word": "袁泉夏雨15岁女儿罕见露面",
+      "onboard_time": 1752747803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 446004,
@@ -491,8 +507,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 384875,
-      "num": 384875,
+      "raw_hot": 391889,
+      "num": 391889,
       "word": "成都40度下开水了",
       "onboard_time": 1752742342,
       "rank": 24,
@@ -564,19 +580,19 @@
     },
     {
       "raw_hot": 322081,
-      "num": 239364,
+      "num": 246839,
       "word": "吐槽中国的英国网红在印度崩溃",
       "onboard_time": 1752740424,
       "rank": 29,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 315238,
-      "num": 315238,
-      "word": "官方调查干部21岁时以高中学历获聘",
-      "onboard_time": 1752743183,
-      "rank": 36,
-      "category": "舆论监督"
+      "raw_hot": 305076,
+      "num": 305076,
+      "word": "梓渝现象已经开始人传人了",
+      "onboard_time": 1752746963,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 302342,
@@ -707,6 +723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254290,
+      "num": 295826,
+      "word": "梓渝方就侵权行为声明",
+      "onboard_time": 1752748102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253174,
       "num": 259371,
       "word": "杭州现臭味自来水已切换水源",
@@ -731,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242210,
-      "num": 242210,
-      "word": "梓渝现象已经开始人传人了",
-      "onboard_time": 1752746963,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 249750,
+      "num": 249750,
+      "word": "内娱首部殡葬职场群像剧来了",
+      "onboard_time": 1752747982,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 236513,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 219887,
-      "num": 249261,
+      "num": 282302,
       "word": "白象面饼120克克重透明化",
       "onboard_time": 1752743543,
       "rank": 18,
@@ -817,6 +841,14 @@
       "onboard_time": 1752727402,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218536,
+      "num": 364242,
+      "word": "丽江古城维护费每人50元有效期一年",
+      "onboard_time": 1752743963,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218272,
@@ -915,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204132,
-      "num": 204132,
-      "word": "袁泉夏雨15岁女儿罕见露面",
-      "onboard_time": 1752747803,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203593,
       "num": 203593,
       "word": "西安市民热到吸氧",
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 200876,
-      "num": 182849,
+      "num": 224071,
       "word": "清潭国际高中2",
       "onboard_time": 1752745161,
       "rank": 20,
@@ -985,6 +1009,14 @@
       "onboard_time": 1752727103,
       "rank": 36,
       "category": "动漫,电竞"
+    },
+    {
+      "raw_hot": 194465,
+      "num": 194465,
+      "word": "河南蚊子被热死",
+      "onboard_time": 1752747863,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194108,
@@ -1308,7 +1340,7 @@
     },
     {
       "raw_hot": 166193,
-      "num": 166193,
+      "num": 344518,
       "word": "湖南一男子撞伤路人后杀人抛尸死刑",
       "onboard_time": 1752743842,
       "rank": 30,
@@ -1449,14 +1481,6 @@
       "onboard_time": 1752724282,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149519,
-      "num": 364242,
-      "word": "丽江古城维护费每人50元有效期一年",
-      "onboard_time": 1752743963,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149179,
@@ -1627,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136831,
+      "num": 136831,
+      "word": "中国女游客印度遇骚扰奋起反击",
+      "onboard_time": 1752747382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135848,
       "num": 297113,
       "word": "湖北一处地表温度超73度",
@@ -1667,6 +1699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132220,
+      "num": 132220,
+      "word": "水务公司回应小区自来水发臭",
+      "onboard_time": 1752748641,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131629,
       "num": 131629,
       "word": "从此仙侠文女主有了脸",
@@ -1683,28 +1723,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 130621,
-      "num": 130621,
-      "word": "梓渝方就侵权行为声明",
-      "onboard_time": 1752748102,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 130352,
-      "num": 130352,
-      "word": "河南蚊子被热死",
-      "onboard_time": 1752747863,
-      "rank": 37,
+      "raw_hot": 130353,
+      "num": 132528,
+      "word": "余杭",
+      "onboard_time": 1752748042,
+      "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129455,
-      "num": 129455,
-      "word": "内娱首部殡葬职场群像剧来了",
-      "onboard_time": 1752747982,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 128988,
@@ -1755,6 +1779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124943,
+      "num": 124943,
+      "word": "临沂巨响",
+      "onboard_time": 1752748883,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 122788,
+      "num": 122788,
+      "word": "黄奕在RAIN身边秒变韩剧女主",
+      "onboard_time": 1752749182,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122465,
       "num": 122465,
       "word": "美团闪退",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1752741203,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121504,
+      "num": 290513,
+      "word": "乐山大佛热到休假了",
+      "onboard_time": 1752748941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121366,
@@ -1793,6 +1841,14 @@
       "onboard_time": 1752735321,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118431,
+      "num": 118431,
+      "word": "JDG对战eStar",
+      "onboard_time": 1752749242,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 118166,
@@ -1939,14 +1995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108127,
-      "num": 108127,
-      "word": "余杭",
-      "onboard_time": 1752748042,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107460,
       "num": 116996,
       "word": "大鹏说杨幂天选李善德夫人",
@@ -1964,7 +2012,7 @@
     },
     {
       "raw_hot": 106687,
-      "num": 933292,
+      "num": 974513,
       "word": "录取通知书是大学的第一堂课",
       "onboard_time": 1752741921,
       "rank": 2,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1752741622,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104770,
+      "num": 334356,
+      "word": "高校通报大三本科生逆天学术",
+      "onboard_time": 1752748283,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 103765,
@@ -2153,6 +2209,14 @@
       "onboard_time": 1752682041,
       "rank": 25,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 88166,
+      "num": 285378,
+      "word": "全员加速中笑料上新了",
+      "onboard_time": 1752748701,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 88074,
@@ -2587,6 +2651,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 40605,
+      "num": 133618,
+      "word": "火影忍者",
+      "onboard_time": 1752748761,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 38997,
       "num": 191249,
       "word": "60岁大姐10年花300万收养流浪狗",
@@ -2809,6 +2881,14 @@
       "onboard_time": 1752688156,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13209,
+      "num": 218772,
+      "word": "天门山索道故障游客被堵近1小时",
+      "onboard_time": 1752748941,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12982,
