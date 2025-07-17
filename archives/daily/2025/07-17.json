@@ -1,7 +1,15 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752709318084,
+  "endTime": 1752718181686,
   "band_list": [
+    {
+      "raw_hot": 1373589,
+      "num": 1373589,
+      "word": "罗家英自曝注射女性荷尔蒙",
+      "onboard_time": 1752711681,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1208170,
       "num": 167600,
@@ -51,12 +59,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 655917,
+      "num": 655917,
+      "word": "印度机长关闭燃油开关或导致坠机",
+      "onboard_time": 1752711741,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 614147,
       "num": 614147,
       "word": "关晓彤你不瘦谁瘦",
       "onboard_time": 1752679282,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606662,
+      "num": 606662,
+      "word": "妻子过了近30年才知道丈夫工作",
+      "onboard_time": 1752711381,
+      "rank": 3,
+      "category": "正能量"
     },
     {
       "raw_hot": 596499,
@@ -67,6 +91,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 575391,
+      "num": 575391,
+      "word": "飞驰人生3",
+      "onboard_time": 1752717141,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 566918,
+      "num": 296245,
+      "word": "女子下班发现自家猫生3只崽天塌了",
+      "onboard_time": 1752714203,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531617,
+      "num": 503614,
+      "word": "王心凌也是穿上王心凌痛衣了",
+      "onboard_time": 1752711081,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 523581,
       "num": 523581,
       "word": "演唱会前夕亲人离世平台拒退票",
@@ -75,12 +123,44 @@
       "category": "舆论监督,演出"
     },
     {
+      "raw_hot": 499070,
+      "num": 499070,
+      "word": "四川重庆已经热红了",
+      "onboard_time": 1752712520,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428108,
+      "num": 428108,
+      "word": "美国人想坐高铁遥遥无期",
+      "onboard_time": 1752713182,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 406182,
       "num": 406182,
       "word": "韩红现场叫停录制说要对观众负责",
       "onboard_time": 1752677063,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363518,
+      "num": 296107,
+      "word": "韩安冉晒孕肚",
+      "onboard_time": 1752717382,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 360843,
+      "num": 295987,
+      "word": "孩子喜提北大通知书两家父母神同步",
+      "onboard_time": 1752716842,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350329,
@@ -107,6 +187,38 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 297298,
+      "num": 297298,
+      "word": "爱康国宾体检10年未做出癌症预警",
+      "onboard_time": 1752711500,
+      "rank": 9,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 293649,
+      "num": 293649,
+      "word": "男子摸爬叉一晚收入上万元",
+      "onboard_time": 1752709821,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289608,
+      "num": 217833,
+      "word": "山姆会成下一个钟薛高吗",
+      "onboard_time": 1752712942,
+      "rank": 20,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 282936,
+      "num": 282936,
+      "word": "大大方方结束一段不健康的关系",
+      "onboard_time": 1752716182,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 282378,
       "num": 282378,
       "word": "美阿拉斯加州以南7.3级地震",
@@ -121,6 +233,14 @@
       "onboard_time": 1752674303,
       "rank": 16,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 278259,
+      "num": 278259,
+      "word": "美国海啸预警",
+      "onboard_time": 1752715281,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 268309,
@@ -139,6 +259,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251977,
+      "num": 251977,
+      "word": "关晓彤cha了沈佳润的美美桑内",
+      "onboard_time": 1752679282,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 233070,
+      "num": 233070,
+      "word": "刘宇宁陈星旭林一扫腿舞",
+      "onboard_time": 1752709880,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229717,
       "num": 229717,
       "word": "小时候常吃的水果消失了",
@@ -155,12 +291,44 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 217991,
+      "num": 217991,
+      "word": "故宫偶遇陈奕迅",
+      "onboard_time": 1752713122,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217586,
+      "num": 217586,
+      "word": "皮肤7种变化提示血糖超标了",
+      "onboard_time": 1752712161,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214341,
+      "num": 214341,
+      "word": "35岁女子长期精神内耗确诊甲状腺癌",
+      "onboard_time": 1752716600,
+      "rank": 22,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 211095,
       "num": 211095,
       "word": "网传R1SE披哥二公踢馆",
       "onboard_time": 1752679282,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190413,
+      "num": 190413,
+      "word": "特朗普让可口可乐改配方",
+      "onboard_time": 1752717502,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189277,
@@ -195,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182963,
-      "num": 120707,
-      "word": "关晓彤cha了沈佳润的美美桑内",
-      "onboard_time": 1752679282,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 179343,
       "num": 179343,
       "word": "朝雪录热度",
@@ -217,6 +377,14 @@
       "onboard_time": 1752670883,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 169272,
+      "num": 169272,
+      "word": "西安市民热到吸氧",
+      "onboard_time": 1752716842,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168862,
@@ -243,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156900,
+      "num": 156900,
+      "word": "姑娘骑车一路流泪被交警拦下安慰",
+      "onboard_time": 1752717801,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 150501,
       "num": 150501,
       "word": "朱孝天回应阿信说服F4合体原因",
@@ -259,6 +435,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147684,
+      "num": 147684,
+      "word": "人一旦拥有了小电驴就不一样了",
+      "onboard_time": 1752715761,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144288,
+      "num": 144288,
+      "word": "王者荣耀",
+      "onboard_time": 1752711201,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142172,
       "num": 117233,
       "word": "醒醒现在是2006年",
@@ -273,6 +465,22 @@
       "onboard_time": 1752708798,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138314,
+      "num": 138314,
+      "word": "少年自制火箭让梦想飞起来了",
+      "onboard_time": 1752716001,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134010,
+      "num": 134010,
+      "word": "晚上10点睡和11点睡的区别有多大",
+      "onboard_time": 1752712102,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132964,
@@ -307,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121798,
+      "num": 121798,
+      "word": "村里腾出空调房免费托管全村孩子",
+      "onboard_time": 1752717740,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117268,
       "num": 84335,
       "word": "巴黎被印度博主疯狂吐槽",
       "onboard_time": 1752707538,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115836,
+      "num": 115836,
+      "word": "Steam新规限制成人内容",
+      "onboard_time": 1752715580,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 111312,
@@ -339,11 +563,51 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106671,
+      "num": 106671,
+      "word": "以色列防长称开始痛击叙政权",
+      "onboard_time": 1752713722,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103248,
       "num": 103248,
       "word": "山姆如何稳住500万会员",
       "onboard_time": 1752676761,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100147,
+      "num": 100147,
+      "word": "为什么只遛半条狗啊",
+      "onboard_time": 1752716960,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96498,
+      "num": 96498,
+      "word": "法国宣布裁减公职并取消假期",
+      "onboard_time": 1752714324,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96179,
+      "num": 96179,
+      "word": "傲寒",
+      "onboard_time": 1752713484,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 94338,
+      "num": 94338,
+      "word": "这里曾在地图上神秘消失30多年",
+      "onboard_time": 1752716780,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -369,6 +633,22 @@
       "onboard_time": 1752682041,
       "rank": 25,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 87852,
+      "num": 157848,
+      "word": "朱孝天称虽非内地长大一直是中国人",
+      "onboard_time": 1752710181,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86223,
+      "num": 86223,
+      "word": "九尾 没想到这赛季就这样结束了",
+      "onboard_time": 1752715042,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 84826,
@@ -411,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81524,
+      "num": 81524,
+      "word": "薛之谦请给我一次看词聆听的机会",
+      "onboard_time": 1752713601,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 80212,
       "num": 80212,
       "word": "梓渝一个月涨粉500w",
@@ -425,6 +713,14 @@
       "onboard_time": 1752673583,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77938,
+      "num": 77938,
+      "word": "昆明拿下全球避暑胜地第一名",
+      "onboard_time": 1752714622,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 75861,
@@ -633,6 +929,14 @@
       "onboard_time": 1752664761,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38193,
+      "num": 620972,
+      "word": "护网某科技公司未落实网络安全保护义务被罚",
+      "onboard_time": 1752714142,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34370,
