@@ -1,0 +1,410 @@
+{
+  "runTime": 1752744735623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11618515,
+        "num": 11618515,
+        "word": "杭州就娃哈哈事件成立专班",
+        "onboard_time": 1752740001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1472446,
+        "num": 1472446,
+        "word": "董璇张维伊争吵",
+        "onboard_time": 1752740661,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106687,
+        "num": 787853,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 772727,
+        "num": 772727,
+        "word": "麦当劳超大薯条",
+        "onboard_time": 1752741982,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 577602,
+        "num": 577602,
+        "word": "杨幂让C",
+        "onboard_time": 1752743004,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466547,
+        "num": 466547,
+        "word": "爸妈公积金能帮还房贷了",
+        "onboard_time": 1752731181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321247,
+        "num": 321247,
+        "word": "本科生高薪职业榜Top10",
+        "onboard_time": 1752742102,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 302368,
+        "num": 302368,
+        "word": "五台山游客疑因挑逗牛被围攻踩踏",
+        "onboard_time": 1752732742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254771,
+        "num": 254771,
+        "word": "易烊千玺戴了美瞳",
+        "onboard_time": 1752737481,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283464,
+        "num": 250463,
+        "word": "杨幂今天好粉",
+        "onboard_time": 1752736102,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2954566,
+        "num": 241313,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 550379,
+        "num": 236925,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454852,
+        "num": 229288,
+        "word": "不要送自己舍不得买的东西",
+        "onboard_time": 1752737061,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322081,
+        "num": 223449,
+        "word": "吐槽中国的英国网红在印度崩溃",
+        "onboard_time": 1752740424,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288652,
+        "num": 216646,
+        "word": "减肥 甜玉米",
+        "onboard_time": 1752743722,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90923,
+        "num": 209356,
+        "word": "警犬技术专业真的会发狗吗",
+        "onboard_time": 1752742883,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 202109,
+        "num": 202109,
+        "word": "男婴离世家长获赔88万律师拿55万",
+        "onboard_time": 1752727643,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194773,
+        "num": 194773,
+        "word": "余景天录节目失控掀桌子",
+        "onboard_time": 1752725661,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200244,
+        "num": 193377,
+        "word": "白象面饼120克克重透明化",
+        "onboard_time": 1752743543,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35037,
+        "num": 191249,
+        "word": "60岁大姐10年花300万收养流浪狗",
+        "onboard_time": 1752744142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189213,
+        "num": 189213,
+        "word": "买东方树叶收到东方爽茶",
+        "onboard_time": 1752737541,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 178382,
+        "num": 178382,
+        "word": "董璇伴娘团有佟丽娅",
+        "onboard_time": 1752733522,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178196,
+        "num": 178196,
+        "word": "景区游客陈奕迅",
+        "onboard_time": 1752742041,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172682,
+        "num": 172682,
+        "word": "外国网友吐槽买黄牛票被骗30元",
+        "onboard_time": 1752742401,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161303,
+        "num": 170786,
+        "word": "成都40度下开水了",
+        "onboard_time": 1752742342,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169770,
+        "num": 169770,
+        "word": "原来布洛芬胶囊是穿拖鞋的",
+        "onboard_time": 1752739821,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168392,
+        "num": 168392,
+        "word": "体检10年未查出癌症女子发声",
+        "onboard_time": 1752724644,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167853,
+        "num": 167853,
+        "word": "暗河传",
+        "onboard_time": 1752737722,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159546,
+        "num": 166830,
+        "word": "胡先煦是来加入这个家的",
+        "onboard_time": 1752744022,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153030,
+        "num": 166265,
+        "word": "张靓颖穿了一身蝴蝶",
+        "onboard_time": 1752743123,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166193,
+        "num": 166193,
+        "word": "湖南一男子撞伤路人后杀人抛尸死刑",
+        "onboard_time": 1752743842,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151698,
+        "num": 151698,
+        "word": "女子产后撞见男友出轨殴打小三被拘",
+        "onboard_time": 1752729142,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150901,
+        "num": 150901,
+        "word": "爱康回应体检10年无异常却患癌晚期",
+        "onboard_time": 1752744503,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149228,
+        "num": 149228,
+        "word": "丽江古城维护费每人50元有效期一年",
+        "onboard_time": 1752743963,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149066,
+        "num": 149066,
+        "word": "男子控糖一年身体变化",
+        "onboard_time": 1752732322,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147490,
+        "num": 147490,
+        "word": "6年3次被判不许离婚男方提交新证据",
+        "onboard_time": 1752739103,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147298,
+        "num": 147298,
+        "word": "火把节 八天假",
+        "onboard_time": 1752744323,
+        "rank": 36,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 142481,
+        "num": 142481,
+        "word": "大冰直播间被骚扰高中生后续",
+        "onboard_time": 1752730041,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140486,
+        "num": 140486,
+        "word": "韩红或将不再录制综艺",
+        "onboard_time": 1752740541,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19858,
+        "num": 139893,
+        "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+        "onboard_time": 1752744683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139457,
+        "num": 139457,
+        "word": "敖瑞鹏被李兰迪哄成胚胎了",
+        "onboard_time": 1752742883,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128362,
+        "num": 128362,
+        "word": "JDG选手变动",
+        "onboard_time": 1752742462,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119978,
+        "num": 119978,
+        "word": "阮经天 热死了你也不能当风扇啊",
+        "onboard_time": 1752744623,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118919,
+        "num": 118919,
+        "word": "一种新型诈骗是网店发错货",
+        "onboard_time": 1752739701,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116668,
+        "num": 116668,
+        "word": "长安的荔枝",
+        "onboard_time": 1752738561,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "iG首发",
+        "onboard_time": 1752723741,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111631,
+        "num": 111631,
+        "word": "湖北一处地表温度超73度",
+        "onboard_time": 1752737361,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105822,
+        "num": 105822,
+        "word": "樱桃琥珀 40集删减到24集",
+        "onboard_time": 1752734182,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105437,
+        "num": 105437,
+        "word": "青春旅行团",
+        "onboard_time": 1752741082,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98897,
+        "num": 98897,
+        "word": "BLG教练",
+        "onboard_time": 1752741622,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#城市归根结底是人民的城市#"
+    }
+  }
+}

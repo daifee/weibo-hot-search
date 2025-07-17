@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752742294550,
+  "endTime": 1752744735623,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -9,6 +9,14 @@
       "onboard_time": 1752415406,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11618515,
+      "num": 11618515,
+      "word": "杭州就娃哈哈事件成立专班",
+      "onboard_time": 1752740001,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10128223,
@@ -25,14 +33,6 @@
       "onboard_time": 1752566721,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4032715,
-      "num": 4032715,
-      "word": "杭州就娃哈哈事件成立专班",
-      "onboard_time": 1752740001,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3359595,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1472446,
+      "num": 1472446,
+      "word": "董璇张维伊争吵",
+      "onboard_time": 1752740661,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1461569,
       "num": 1461569,
       "word": "被女子强搂亲吻男孩妈妈愤怒回应",
@@ -337,14 +345,6 @@
       "onboard_time": 1752731181,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1339204,
-      "num": 1339204,
-      "word": "董璇张维伊争吵",
-      "onboard_time": 1752740661,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1337367,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772727,
+      "num": 772727,
+      "word": "麦当劳超大薯条",
+      "onboard_time": 1752741982,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 767165,
       "num": 767165,
       "word": "双轨",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1752491423,
       "rank": 34,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 577602,
+      "num": 577602,
+      "word": "杨幂让C",
+      "onboard_time": 1752743004,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 576977,
@@ -3331,6 +3347,22 @@
       "category": "艺人,舆论监督"
     },
     {
+      "raw_hot": 322081,
+      "num": 225108,
+      "word": "吐槽中国的英国网红在印度崩溃",
+      "onboard_time": 1752740424,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 321247,
+      "num": 321247,
+      "word": "本科生高薪职业榜Top10",
+      "onboard_time": 1752742102,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "吃出半只蟑螂又从喉咙抠出另外半只",
@@ -3673,6 +3705,14 @@
       "onboard_time": 1752634941,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288652,
+      "num": 216646,
+      "word": "减肥 甜玉米",
+      "onboard_time": 1752743722,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 288649,
@@ -4659,14 +4699,6 @@
       "category": "演出,民生新闻"
     },
     {
-      "raw_hot": 225108,
-      "num": 225108,
-      "word": "吐槽中国的英国网红在印度崩溃",
-      "onboard_time": 1752740424,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 224873,
       "num": 374448,
       "word": "台湾超级电池工厂爆炸",
@@ -5545,6 +5577,14 @@
       "onboard_time": 1752485602,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200244,
+      "num": 193377,
+      "word": "白象面饼120克克重透明化",
+      "onboard_time": 1752743543,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200123,
@@ -6651,6 +6691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178196,
+      "num": 184715,
+      "word": "景区游客陈奕迅",
+      "onboard_time": 1752742041,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177996,
       "num": 185786,
       "word": "A股半日缩量439亿元",
@@ -6881,6 +6929,14 @@
       "onboard_time": 1752563362,
       "rank": 26,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 172682,
+      "num": 172682,
+      "word": "外国网友吐槽买黄牛票被骗30元",
+      "onboard_time": 1752742401,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172681,
@@ -7299,6 +7355,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 166193,
+      "num": 166193,
+      "word": "湖南一男子撞伤路人后杀人抛尸死刑",
+      "onboard_time": 1752743842,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166048,
       "num": 181763,
       "word": "85花编年史",
@@ -7563,6 +7627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161303,
+      "num": 170786,
+      "word": "成都40度下开水了",
+      "onboard_time": 1752742342,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161095,
       "num": 161095,
       "word": "诚C联赛2500淘汰",
@@ -7609,6 +7681,14 @@
       "onboard_time": 1752583641,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159546,
+      "num": 166830,
+      "word": "胡先煦是来加入这个家的",
+      "onboard_time": 1752744022,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 159369,
@@ -7745,14 +7825,6 @@
       "onboard_time": 1752464063,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156496,
-      "num": 156496,
-      "word": "麦当劳超大薯条",
-      "onboard_time": 1752741982,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 156376,
@@ -7963,6 +8035,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 153030,
+      "num": 166265,
+      "word": "张靓颖穿了一身蝴蝶",
+      "onboard_time": 1752743123,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152951,
       "num": 152951,
       "word": "邓紫棋上海",
@@ -8131,6 +8211,14 @@
       "category": "体育,动漫"
     },
     {
+      "raw_hot": 150901,
+      "num": 150901,
+      "word": "爱康回应体检10年无异常却患癌晚期",
+      "onboard_time": 1752744503,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150501,
       "num": 150501,
       "word": "朱孝天回应阿信说服F4合体原因",
@@ -8241,6 +8329,14 @@
       "onboard_time": 1752388643,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149228,
+      "num": 149228,
+      "word": "丽江古城维护费每人50元有效期一年",
+      "onboard_time": 1752743963,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148839,
@@ -8363,6 +8459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147298,
+      "num": 147298,
+      "word": "火把节 八天假",
+      "onboard_time": 1752744323,
+      "rank": 36,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 147265,
       "num": 236345,
       "word": "杨少华儿子回应争议",
@@ -8424,14 +8528,6 @@
       "word": "柯淳自曝初恋被分手",
       "onboard_time": 1752332004,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 146402,
-      "num": 184715,
-      "word": "景区游客陈奕迅",
-      "onboard_time": 1752742041,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -8945,6 +9041,14 @@
       "onboard_time": 1752467004,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139457,
+      "num": 139457,
+      "word": "敖瑞鹏被李兰迪哄成胚胎了",
+      "onboard_time": 1752742883,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 139431,
@@ -9827,6 +9931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128362,
+      "num": 128362,
+      "word": "JDG选手变动",
+      "onboard_time": 1752742462,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128144,
       "num": 130038,
       "word": "手机充电一整夜会更伤电池吗",
@@ -10064,14 +10176,6 @@
       "word": "支教老师24岁进山一待就是13年",
       "onboard_time": 1752484162,
       "rank": 26,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 124912,
-      "num": 124912,
-      "word": "本科生高薪职业榜Top10",
-      "onboard_time": 1752742102,
-      "rank": 38,
       "category": "民生新闻,教育"
     },
     {
@@ -10625,6 +10729,14 @@
       "onboard_time": 1752420325,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119978,
+      "num": 119978,
+      "word": "阮经天 热死了你也不能当风扇啊",
+      "onboard_time": 1752744623,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119880,
@@ -11769,6 +11881,14 @@
       "onboard_time": 1752632719,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106687,
+      "num": 933292,
+      "word": "录取通知书是大学的第一堂课",
+      "onboard_time": 1752741921,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106651,
@@ -12945,6 +13065,14 @@
       "onboard_time": 1752493101,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90923,
+      "num": 209356,
+      "word": "警犬技术专业真的会发狗吗",
+      "onboard_time": 1752742883,
+      "rank": 15,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 90911,
@@ -14731,6 +14859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35037,
+      "num": 191249,
+      "word": "60岁大姐10年花300万收养流浪狗",
+      "onboard_time": 1752744142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34526,
       "num": 135770,
       "word": "神级风景插画合集",
@@ -15009,14 +15145,6 @@
       "onboard_time": 1752687377,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27628,
-      "num": 933292,
-      "word": "录取通知书是大学的第一堂课",
-      "onboard_time": 1752741921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27311,
@@ -15384,6 +15512,14 @@
       "word": "男子骑车交警查处时死亡有三个疑问",
       "onboard_time": 1752670942,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19858,
+      "num": 139893,
+      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+      "onboard_time": 1752744683,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

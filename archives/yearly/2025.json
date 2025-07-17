@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752742294550,
+  "endTime": 1752744735623,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -657,6 +657,14 @@
       "onboard_time": 1736230884,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11618515,
+      "num": 11618515,
+      "word": "杭州就娃哈哈事件成立专班",
+      "onboard_time": 1752740001,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11601503,
@@ -2089,14 +2097,6 @@
       "onboard_time": 1744184001,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 4032715,
-      "num": 4032715,
-      "word": "杭州就娃哈哈事件成立专班",
-      "onboard_time": 1752740001,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4022283,
