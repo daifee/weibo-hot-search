@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752745604621,
+  "endTime": 1752748265347,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3359595,
-      "num": 302612,
+      "num": 361596,
       "word": "宝剑嫂雨哥分手",
       "onboard_time": 1752737241,
       "rank": 34,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1114116,
+      "num": 1114116,
+      "word": "麦当劳超大薯条",
+      "onboard_time": 1752741982,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1111808,
       "num": 453537,
       "word": "田栩宁更新视频营业",
@@ -1051,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 841276,
-      "num": 841276,
-      "word": "麦当劳超大薯条",
-      "onboard_time": 1752741982,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 839717,
       "num": 839717,
       "word": "环卫工翻垃圾找手表为何暖心变闹心",
@@ -1233,6 +1233,14 @@
       "onboard_time": 1752717141,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 744883,
+      "num": 744883,
+      "word": "减肥 甜玉米",
+      "onboard_time": 1752743722,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 744852,
@@ -2268,7 +2276,7 @@
     },
     {
       "raw_hot": 480778,
-      "num": 274375,
+      "num": 353843,
       "word": "不要送自己舍不得买的东西",
       "onboard_time": 1752737061,
       "rank": 42,
@@ -2337,6 +2345,14 @@
       "onboard_time": 1752559223,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460810,
+      "num": 436275,
+      "word": "阮经天 热死了你也不能当风扇啊",
+      "onboard_time": 1752744623,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459715,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1752734182,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444464,
+      "num": 444464,
+      "word": "本科生高薪职业榜Top10",
+      "onboard_time": 1752742102,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 443329,
@@ -2779,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384875,
+      "num": 384875,
+      "word": "成都40度下开水了",
+      "onboard_time": 1752742342,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380502,
       "num": 380502,
       "word": "一代人有一代人的鸡蛋要领",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1752546081,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356221,
+      "num": 356221,
+      "word": "火把节 八天假",
+      "onboard_time": 1752744323,
+      "rank": 36,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 353396,
@@ -3348,19 +3388,11 @@
     },
     {
       "raw_hot": 322081,
-      "num": 225108,
+      "num": 239364,
       "word": "吐槽中国的英国网红在印度崩溃",
       "onboard_time": 1752740424,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 321247,
-      "num": 321247,
-      "word": "本科生高薪职业榜Top10",
-      "onboard_time": 1752742102,
-      "rank": 38,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 320535,
@@ -3369,14 +3401,6 @@
       "onboard_time": 1752489501,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320407,
-      "num": 320407,
-      "word": "减肥 甜玉米",
-      "onboard_time": 1752743722,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 317171,
@@ -3401,6 +3425,14 @@
       "onboard_time": 1752379880,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315238,
+      "num": 315238,
+      "word": "官方调查干部21岁时以高中学历获聘",
+      "onboard_time": 1752743183,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 313438,
@@ -3489,6 +3521,14 @@
       "onboard_time": 1752491543,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302342,
+      "num": 302342,
+      "word": "孙颖莎全国青联常务委员会委员",
+      "onboard_time": 1752746001,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 301141,
@@ -3593,6 +3633,14 @@
       "onboard_time": 1752458241,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295396,
+      "num": 295396,
+      "word": "jiejie 休息",
+      "onboard_time": 1752746182,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 294719,
@@ -4139,14 +4187,6 @@
       "category": "演出,民生新闻"
     },
     {
-      "raw_hot": 262370,
-      "num": 262370,
-      "word": "阮经天 热死了你也不能当风扇啊",
-      "onboard_time": 1752744623,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 261007,
       "num": 229536,
       "word": "男子疑似溺亡法医凭经验把人救活",
@@ -4481,6 +4521,14 @@
       "onboard_time": 1752504564,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242210,
+      "num": 242210,
+      "word": "梓渝现象已经开始人传人了",
+      "onboard_time": 1752746963,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 242147,
@@ -4820,7 +4868,7 @@
     },
     {
       "raw_hot": 219887,
-      "num": 202880,
+      "num": 249261,
       "word": "白象面饼120克克重透明化",
       "onboard_time": 1752743543,
       "rank": 18,
@@ -5443,6 +5491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204132,
+      "num": 204132,
+      "word": "袁泉夏雨15岁女儿罕见露面",
+      "onboard_time": 1752747803,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204103,
       "num": 204103,
       "word": "王一博说每一次夕阳都很美",
@@ -5588,7 +5644,7 @@
     },
     {
       "raw_hot": 200876,
-      "num": 169794,
+      "num": 182849,
       "word": "清潭国际高中2",
       "onboard_time": 1752745161,
       "rank": 20,
@@ -5601,6 +5657,14 @@
       "onboard_time": 1752485602,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200265,
+      "num": 200265,
+      "word": "动画三大音痴",
+      "onboard_time": 1752747261,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 200123,
@@ -5625,14 +5689,6 @@
       "onboard_time": 1752658222,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199713,
-      "num": 199713,
-      "word": "火把节 八天假",
-      "onboard_time": 1752744323,
-      "rank": 36,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 199662,
@@ -5913,6 +5969,14 @@
       "onboard_time": 1752647721,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 193157,
+      "num": 207007,
+      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+      "onboard_time": 1752744683,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192845,
@@ -6353,6 +6417,14 @@
       "onboard_time": 1752397941,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185611,
+      "num": 185611,
+      "word": "钟美美谈成名的代价",
+      "onboard_time": 1752746483,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 185477,
@@ -7283,6 +7355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167229,
+      "num": 244978,
+      "word": "惠英红陈伟霆 来送奶茶的富婆姐姐",
+      "onboard_time": 1752747203,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167122,
       "num": 167122,
       "word": "多地未来7天高温全勤",
@@ -7507,6 +7587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164268,
+      "num": 164268,
+      "word": "一个人自驾后才知道什么是人生",
+      "onboard_time": 1752747322,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 164266,
       "num": 147136,
       "word": "歌手第十期歌单",
@@ -7649,14 +7737,6 @@
       "onboard_time": 1752487163,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161303,
-      "num": 170786,
-      "word": "成都40度下开水了",
-      "onboard_time": 1752742342,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161095,
@@ -7923,6 +8003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155403,
+      "num": 222256,
+      "word": "爱康回应体检10年无异常却患癌晚期",
+      "onboard_time": 1752744503,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155311,
       "num": 155311,
       "word": "Faker回应输给GEN",
@@ -8057,14 +8145,6 @@
       "onboard_time": 1752540982,
       "rank": 9,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 153068,
-      "num": 222256,
-      "word": "爱康回应体检10年无异常却患癌晚期",
-      "onboard_time": 1752744503,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153030,
@@ -8339,6 +8419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149519,
+      "num": 364242,
+      "word": "丽江古城维护费每人50元有效期一年",
+      "onboard_time": 1752743963,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149435,
       "num": 149435,
       "word": "杨瀚森面对的是怎样的防守",
@@ -8353,14 +8441,6 @@
       "onboard_time": 1752388643,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149228,
-      "num": 149228,
-      "word": "丽江古城维护费每人50元有效期一年",
-      "onboard_time": 1752743963,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148839,
@@ -9555,6 +9635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134140,
+      "num": 134140,
+      "word": "台风",
+      "onboard_time": 1752746902,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134054,
       "num": 248420,
       "word": "朱雨玲说我想做人生的主人",
@@ -9787,12 +9875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130621,
+      "num": 130621,
+      "word": "梓渝方就侵权行为声明",
+      "onboard_time": 1752748102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130380,
       "num": 130380,
       "word": "雅江地震",
       "onboard_time": 1752592342,
       "rank": 34,
       "category": "突发/灾害,旅游"
+    },
+    {
+      "raw_hot": 130352,
+      "num": 130352,
+      "word": "河南蚊子被热死",
+      "onboard_time": 1752747863,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130285,
@@ -9859,6 +9963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129455,
+      "num": 129455,
+      "word": "内娱首部殡葬职场群像剧来了",
+      "onboard_time": 1752747982,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129246,
       "num": 129246,
       "word": "宋佳晒了跟好多人的合照",
@@ -9889,6 +10001,14 @@
       "onboard_time": 1752402262,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128988,
+      "num": 128988,
+      "word": "iG管理层",
+      "onboard_time": 1752746722,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 128978,
@@ -10017,6 +10137,14 @@
       "onboard_time": 1752459623,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127093,
+      "num": 127093,
+      "word": "日本女星远野凪子去世",
+      "onboard_time": 1752747203,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 127015,
@@ -10899,6 +11027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118166,
+      "num": 118166,
+      "word": "女律师体检10年未查出癌症直播发声",
+      "onboard_time": 1752746782,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118041,
       "num": 118041,
       "word": "邓亚萍祝贺朱雨玲WTT夺冠",
@@ -11139,6 +11275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115720,
+      "num": 115720,
+      "word": "KPL",
+      "onboard_time": 1752746542,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115687,
       "num": 115687,
       "word": "CP2025SP",
@@ -11313,14 +11457,6 @@
       "onboard_time": 1752470962,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114039,
-      "num": 114039,
-      "word": "官方调查干部21岁时以高中学历获聘",
-      "onboard_time": 1752743183,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 113936,
@@ -11611,6 +11747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110839,
+      "num": 110839,
+      "word": "佟丽娅新中式",
+      "onboard_time": 1752745763,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110607,
       "num": 109600,
       "word": "鞠婧祎甩双马尾这一下",
@@ -11795,6 +11939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108127,
+      "num": 108127,
+      "word": "余杭",
+      "onboard_time": 1752748042,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108063,
       "num": 108063,
       "word": "这是真砍恋爱脑了",
@@ -11896,6 +12048,14 @@
       "word": "颜丹晨近期状态",
       "onboard_time": 1752404242,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106741,
+      "num": 106741,
+      "word": "关晓彤分享茼蒿海带拌豆腐",
+      "onboard_time": 1752746722,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -14763,14 +14923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39392,
-      "num": 207007,
-      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
-      "onboard_time": 1752744683,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39283,
       "num": 198528,
       "word": "距开车不到3分钟男童掉下高铁站台",
@@ -15017,6 +15169,14 @@
       "onboard_time": 1752523694,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32023,
+      "num": 129818,
+      "word": "高温数据",
+      "onboard_time": 1752746361,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31895,
@@ -15785,6 +15945,14 @@
       "onboard_time": 1752518656,
       "rank": 9,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 11565,
+      "num": 242702,
+      "word": "患者两次住院错发药涉事6人被问责",
+      "onboard_time": 1752747682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11445,

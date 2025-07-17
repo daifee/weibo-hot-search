@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752745604621,
+  "endTime": 1752748265347,
   "band_list": [
     {
       "raw_hot": 11780659,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3359595,
-      "num": 302612,
+      "num": 361596,
       "word": "宝剑嫂雨哥分手",
       "onboard_time": 1752737241,
       "rank": 34,
@@ -107,6 +107,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1114116,
+      "num": 1114116,
+      "word": "麦当劳超大薯条",
+      "onboard_time": 1752741982,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1021733,
       "num": 1021733,
       "word": "孩子喜提北大通知书两家父母神同步",
@@ -145,14 +153,6 @@
       "onboard_time": 1752672562,
       "rank": 4,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 841276,
-      "num": 841276,
-      "word": "麦当劳超大薯条",
-      "onboard_time": 1752741982,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 833418,
@@ -201,6 +201,14 @@
       "onboard_time": 1752717141,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 744883,
+      "num": 744883,
+      "word": "减肥 甜玉米",
+      "onboard_time": 1752743722,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 744852,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 480778,
-      "num": 274375,
+      "num": 353843,
       "word": "不要送自己舍不得买的东西",
       "onboard_time": 1752737061,
       "rank": 42,
@@ -411,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460810,
+      "num": 436275,
+      "word": "阮经天 热死了你也不能当风扇啊",
+      "onboard_time": 1752744623,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446004,
       "num": 446004,
       "word": "樱桃琥珀 40集删减到24集",
       "onboard_time": 1752734182,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444464,
+      "num": 444464,
+      "word": "本科生高薪职业榜Top10",
+      "onboard_time": 1752742102,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 441321,
@@ -467,12 +491,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 384875,
+      "num": 384875,
+      "word": "成都40度下开水了",
+      "onboard_time": 1752742342,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362790,
       "num": 362790,
       "word": "特朗普发威胁后普京视察最大钢厂",
       "onboard_time": 1752721282,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 356221,
+      "num": 356221,
+      "word": "火把节 八天假",
+      "onboard_time": 1752744323,
+      "rank": 36,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 350329,
@@ -524,27 +564,27 @@
     },
     {
       "raw_hot": 322081,
-      "num": 225108,
+      "num": 239364,
       "word": "吐槽中国的英国网红在印度崩溃",
       "onboard_time": 1752740424,
       "rank": 29,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 321247,
-      "num": 321247,
-      "word": "本科生高薪职业榜Top10",
-      "onboard_time": 1752742102,
-      "rank": 38,
-      "category": "民生新闻,教育"
+      "raw_hot": 315238,
+      "num": 315238,
+      "word": "官方调查干部21岁时以高中学历获聘",
+      "onboard_time": 1752743183,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
-      "raw_hot": 320407,
-      "num": 320407,
-      "word": "减肥 甜玉米",
-      "onboard_time": 1752743722,
-      "rank": 14,
-      "category": "科学科普"
+      "raw_hot": 302342,
+      "num": 302342,
+      "word": "孙颖莎全国青联常务委员会委员",
+      "onboard_time": 1752746001,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 298347,
@@ -561,6 +601,14 @@
       "onboard_time": 1752711500,
       "rank": 9,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 295396,
+      "num": 295396,
+      "word": "jiejie 休息",
+      "onboard_time": 1752746182,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 293649,
@@ -659,14 +707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262370,
-      "num": 262370,
-      "word": "阮经天 热死了你也不能当风扇啊",
-      "onboard_time": 1752744623,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 253174,
       "num": 259371,
       "word": "杭州现臭味自来水已切换水源",
@@ -689,6 +729,14 @@
       "onboard_time": 1752737722,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242210,
+      "num": 242210,
+      "word": "梓渝现象已经开始人传人了",
+      "onboard_time": 1752746963,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 236513,
@@ -756,7 +804,7 @@
     },
     {
       "raw_hot": 219887,
-      "num": 202880,
+      "num": 249261,
       "word": "白象面饼120克克重透明化",
       "onboard_time": 1752743543,
       "rank": 18,
@@ -867,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204132,
+      "num": 204132,
+      "word": "袁泉夏雨15岁女儿罕见露面",
+      "onboard_time": 1752747803,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203593,
       "num": 203593,
       "word": "西安市民热到吸氧",
@@ -900,19 +956,19 @@
     },
     {
       "raw_hot": 200876,
-      "num": 169794,
+      "num": 182849,
       "word": "清潭国际高中2",
       "onboard_time": 1752745161,
       "rank": 20,
       "category": "剧集"
     },
     {
-      "raw_hot": 199713,
-      "num": 199713,
-      "word": "火把节 八天假",
-      "onboard_time": 1752744323,
-      "rank": 36,
-      "category": "旅游,民生新闻"
+      "raw_hot": 200265,
+      "num": 200265,
+      "word": "动画三大音痴",
+      "onboard_time": 1752747261,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 197779,
@@ -937,6 +993,14 @@
       "onboard_time": 1752735982,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193157,
+      "num": 207007,
+      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
+      "onboard_time": 1752744683,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192565,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1752737842,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 185611,
+      "num": 185611,
+      "word": "钟美美谈成名的代价",
+      "onboard_time": 1752746483,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 183949,
@@ -1203,6 +1275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 167229,
+      "num": 244978,
+      "word": "惠英红陈伟霆 来送奶茶的富婆姐姐",
+      "onboard_time": 1752747203,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167086,
       "num": 167086,
       "word": "人一旦拥有了小电驴就不一样了",
@@ -1243,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164268,
+      "num": 164268,
+      "word": "一个人自驾后才知道什么是人生",
+      "onboard_time": 1752747322,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 164266,
       "num": 147136,
       "word": "歌手第十期歌单",
@@ -1257,14 +1345,6 @@
       "onboard_time": 1752725183,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161303,
-      "num": 170786,
-      "word": "成都40度下开水了",
-      "onboard_time": 1752742342,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159546,
@@ -1299,7 +1379,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 153068,
+      "raw_hot": 155403,
       "num": 222256,
       "word": "爱康回应体检10年无异常却患癌晚期",
       "onboard_time": 1752744503,
@@ -1371,8 +1451,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149228,
-      "num": 149228,
+      "raw_hot": 149519,
+      "num": 364242,
       "word": "丽江古城维护费每人50元有效期一年",
       "onboard_time": 1752743963,
       "rank": 33,
@@ -1571,6 +1651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 134140,
+      "num": 134140,
+      "word": "台风",
+      "onboard_time": 1752746902,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134010,
       "num": 134010,
       "word": "晚上10点睡和11点睡的区别有多大",
@@ -1595,6 +1683,38 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130621,
+      "num": 130621,
+      "word": "梓渝方就侵权行为声明",
+      "onboard_time": 1752748102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130352,
+      "num": 130352,
+      "word": "河南蚊子被热死",
+      "onboard_time": 1752747863,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129455,
+      "num": 129455,
+      "word": "内娱首部殡葬职场群像剧来了",
+      "onboard_time": 1752747982,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128988,
+      "num": 128988,
+      "word": "iG管理层",
+      "onboard_time": 1752746722,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128747,
       "num": 118904,
       "word": "余茵是真的听劝",
@@ -1609,6 +1729,14 @@
       "onboard_time": 1752742462,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127093,
+      "num": 127093,
+      "word": "日本女星远野凪子去世",
+      "onboard_time": 1752747203,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 126606,
@@ -1667,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118166,
+      "num": 118166,
+      "word": "女律师体检10年未查出癌症直播发声",
+      "onboard_time": 1752746782,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117804,
       "num": 171791,
       "word": "宋茜张佳宁逛吃逛吃",
@@ -1707,20 +1843,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115720,
+      "num": 115720,
+      "word": "KPL",
+      "onboard_time": 1752746542,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115451,
       "num": 115451,
       "word": "68亿市值公司被员工诈骗套现13亿",
       "onboard_time": 1752731962,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 114039,
-      "num": 114039,
-      "word": "官方调查干部21岁时以高中学历获聘",
-      "onboard_time": 1752743183,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 113347,
@@ -1771,6 +1907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110839,
+      "num": 110839,
+      "word": "佟丽娅新中式",
+      "onboard_time": 1752745763,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109751,
       "num": 89767,
       "word": "杨幂长安的荔枝人生镜头",
@@ -1795,12 +1939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108127,
+      "num": 108127,
+      "word": "余杭",
+      "onboard_time": 1752748042,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107460,
       "num": 116996,
       "word": "大鹏说杨幂天选李善德夫人",
       "onboard_time": 1752682520,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106741,
+      "num": 106741,
+      "word": "关晓彤分享茼蒿海带拌豆腐",
+      "onboard_time": 1752746722,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 106687,
@@ -2427,14 +2587,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 39392,
-      "num": 207007,
-      "word": "躺后备箱9岁男孩亲妈起诉亲爸",
-      "onboard_time": 1752744683,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38997,
       "num": 191249,
       "word": "60岁大姐10年花300万收养流浪狗",
@@ -2481,6 +2633,14 @@
       "onboard_time": 1752737662,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32023,
+      "num": 129818,
+      "word": "高温数据",
+      "onboard_time": 1752746361,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30516,
@@ -2665,6 +2825,14 @@
       "onboard_time": 1752693855,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11565,
+      "num": 242702,
+      "word": "患者两次住院错发药涉事6人被问责",
+      "onboard_time": 1752747682,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
