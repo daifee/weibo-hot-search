@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752737327773,
+  "endTime": 1752738192621,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -521,6 +521,14 @@
       "onboard_time": 1751512341,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1961901,
+      "num": 302612,
+      "word": "宝剑嫂雨哥分手",
+      "onboard_time": 1752737241,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 1945570,
@@ -3139,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918950,
+      "num": 918950,
+      "word": "五台山游客疑因挑逗牛被围攻踩踏",
+      "onboard_time": 1752732742,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 916879,
       "num": 576724,
       "word": "韩安冉晒孕肚",
@@ -4091,14 +4107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 783766,
-      "num": 783766,
-      "word": "五台山游客疑因挑逗牛被围攻踩踏",
-      "onboard_time": 1752732742,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 782632,
       "num": 782632,
       "word": "丁禹兮cos孙权",
@@ -4665,6 +4673,14 @@
       "onboard_time": 1752068485,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 722510,
+      "num": 722510,
+      "word": "杨幂今天好粉",
+      "onboard_time": 1752736102,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 721403,
@@ -8657,14 +8673,6 @@
       "onboard_time": 1752496042,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 453329,
-      "num": 453329,
-      "word": "杨幂今天好粉",
-      "onboard_time": 1752736102,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 453321,
@@ -17195,6 +17203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230486,
+      "num": 230486,
+      "word": "不要送自己舍不得买的东西",
+      "onboard_time": 1752737061,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "王楚钦4比0张本智和",
@@ -17329,6 +17345,14 @@
       "onboard_time": 1751972242,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228944,
+      "num": 238539,
+      "word": "易烊千玺戴了美瞳",
+      "onboard_time": 1752737481,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 228624,
@@ -18273,6 +18297,14 @@
       "onboard_time": 1751965881,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217120,
+      "num": 217120,
+      "word": "地球高温消毒",
+      "onboard_time": 1752734481,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216860,
@@ -20243,6 +20275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202838,
+      "num": 202838,
+      "word": "男宝2韩C爆雷",
+      "onboard_time": 1752737781,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202828,
       "num": 238209,
       "word": "PEL",
@@ -21747,14 +21787,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 194453,
-      "num": 194453,
-      "word": "地球高温消毒",
-      "onboard_time": 1752734481,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194426,
       "num": 194426,
       "word": "广州天河区城中村",
@@ -21817,6 +21849,14 @@
       "onboard_time": 1751603065,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194108,
+      "num": 194108,
+      "word": "演员李梦搬家到杭州租别墅生活",
+      "onboard_time": 1752735982,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 193995,
@@ -23371,6 +23411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185769,
+      "num": 185769,
+      "word": "自驾游一个月的真实开销",
+      "onboard_time": 1752737842,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185753,
       "num": 185753,
       "word": "被隐匿的真相",
@@ -24113,14 +24161,6 @@
       "onboard_time": 1751460563,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 180912,
-      "num": 187990,
-      "word": "演员李梦搬家到杭州租别墅生活",
-      "onboard_time": 1752735982,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 180892,
@@ -26523,6 +26563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168369,
+      "num": 168369,
+      "word": "女子加价买演唱会门票被骗19万",
+      "onboard_time": 1752735982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168361,
       "num": 152732,
       "word": "檀健次营业照被粉丝P出花了",
@@ -27475,14 +27523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163520,
-      "num": 163520,
-      "word": "女子加价买演唱会门票被骗19万",
-      "onboard_time": 1752735982,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163477,
       "num": 270835,
       "word": "门店回应老人扎堆蹭空调放喇叭驱赶",
@@ -28121,6 +28161,14 @@
       "onboard_time": 1751893282,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160292,
+      "num": 178880,
+      "word": "暗河传",
+      "onboard_time": 1752737722,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 160260,
@@ -29369,14 +29417,6 @@
       "onboard_time": 1752555325,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154594,
-      "num": 154594,
-      "word": "宝剑嫂雨哥分手",
-      "onboard_time": 1752737241,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 154567,
@@ -39691,14 +39731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119302,
-      "num": 119302,
-      "word": "不要送自己舍不得买的东西",
-      "onboard_time": 1752737061,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119279,
       "num": 119279,
       "word": "必须被毒哑才能当设计师吗",
@@ -42259,6 +42291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111685,
+      "num": 109717,
+      "word": "预计樊振东7月25日交手林诗栋",
+      "onboard_time": 1752737422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111677,
       "num": 111677,
       "word": "伊藤美诚4比2桥本帆乃香",
@@ -42801,6 +42841,14 @@
       "onboard_time": 1751455222,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109873,
+      "num": 109873,
+      "word": "湖北一处地表温度超73度",
+      "onboard_time": 1752737361,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109825,
@@ -49803,6 +49851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71881,
+      "num": 118353,
+      "word": "伊拉克超市火灾死亡升至61人",
+      "onboard_time": 1752738141,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71824,
       "num": 348420,
       "word": "难怪藏海是劳模",
@@ -52947,6 +53003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45781,
+      "num": 135539,
+      "word": "扎克伯格爆改形象示好特朗普",
+      "onboard_time": 1752736941,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45634,
       "num": 125443,
       "word": "48岁男子搭顺风车猥亵被行拘",
@@ -54051,6 +54115,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 37367,
+      "num": 292877,
+      "word": "买东方树叶收到东方爽茶",
+      "onboard_time": 1752737541,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 37356,
       "num": 37356,
       "word": "张艺兴音乐话剧",
@@ -54201,14 +54273,6 @@
       "onboard_time": 1752426319,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 36340,
-      "num": 135539,
-      "word": "扎克伯格爆改形象示好特朗普",
-      "onboard_time": 1752736941,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 36217,
@@ -54465,6 +54529,14 @@
       "onboard_time": 1752276918,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34164,
+      "num": 124322,
+      "word": "2025手机影像哪家强",
+      "onboard_time": 1752737662,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 34136,
@@ -55499,6 +55571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27272,
+      "num": 296531,
+      "word": "爱康国宾CEO曾揭行业造假黑幕",
+      "onboard_time": 1752737781,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27185,
       "num": 27185,
       "word": "汪苏泷唱了不甜情歌",
@@ -55841,6 +55921,14 @@
       "onboard_time": 1751659453,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 25014,
+      "num": 112662,
+      "word": "多家网红女装尺码竟比童装小",
+      "onboard_time": 1752738141,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25007,
@@ -56849,6 +56937,14 @@
       "onboard_time": 1752230962,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18855,
+      "num": 136148,
+      "word": "瓜农自发帮患癌妈妈挑瓜装车",
+      "onboard_time": 1752738141,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 18630,
