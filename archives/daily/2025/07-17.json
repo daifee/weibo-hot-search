@@ -1,7 +1,23 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752725536394,
+  "endTime": 1752727739766,
   "band_list": [
+    {
+      "raw_hot": 1824355,
+      "num": 1824355,
+      "word": "体检10年未查出癌症女子发声",
+      "onboard_time": 1752724644,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1702833,
+      "num": 1702833,
+      "word": "余景天录节目失控掀桌子",
+      "onboard_time": 1752725661,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1373589,
       "num": 1373589,
@@ -9,6 +25,14 @@
       "onboard_time": 1752711681,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1325583,
+      "num": 1325583,
+      "word": "官方再通报花715万建牛郎织女雕塑",
+      "onboard_time": 1752723202,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1297304,
@@ -25,6 +49,14 @@
       "onboard_time": 1752666082,
       "rank": 10,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 1130600,
+      "num": 751695,
+      "word": "特朗普让可口可乐改配方",
+      "onboard_time": 1752717502,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1118809,
@@ -44,7 +76,7 @@
     },
     {
       "raw_hot": 916879,
-      "num": 414929,
+      "num": 430077,
       "word": "韩安冉晒孕肚",
       "onboard_time": 1752717382,
       "rank": 11,
@@ -59,14 +91,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 901091,
-      "num": 751695,
-      "word": "特朗普让可口可乐改配方",
-      "onboard_time": 1752717502,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 833418,
       "num": 161240,
       "word": "黄杨钿甜母亲发声",
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 804086,
-      "num": 417983,
+      "num": 430615,
       "word": "甲醛房",
       "onboard_time": 1752722121,
       "rank": 11,
@@ -147,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622304,
+      "num": 622304,
+      "word": "谢娜张杰真人秀合体",
+      "onboard_time": 1752726262,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614147,
       "num": 614147,
       "word": "关晓彤你不瘦谁瘦",
@@ -195,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 538259,
-      "num": 538259,
-      "word": "官方再通报花715万建牛郎织女雕塑",
-      "onboard_time": 1752723202,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 531617,
       "num": 503614,
       "word": "王心凌也是穿上王心凌痛衣了",
@@ -235,8 +259,8 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 431130,
-      "num": 431130,
+      "raw_hot": 431944,
+      "num": 431944,
       "word": "男子过安检被拦怒砸充电宝瞬间起火",
       "onboard_time": 1752722301,
       "rank": 8,
@@ -267,20 +291,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401172,
+      "num": 401172,
+      "word": "生育的不可逆连骨头都会记得",
+      "onboard_time": 1752725063,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389886,
       "num": 389886,
       "word": "iG首发",
       "onboard_time": 1752723741,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 375244,
-      "num": 430499,
-      "word": "体检10年未查出癌症女子发声",
-      "onboard_time": 1752724644,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 362790,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 295305,
-      "num": 295305,
+      "num": 431849,
       "word": "平顶山市联合调查组致歉",
       "onboard_time": 1752723562,
       "rank": 22,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217959,
+      "num": 361076,
+      "word": "脱口秀女演员太women了",
+      "onboard_time": 1752724882,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217586,
       "num": 217586,
       "word": "皮肤7种变化提示血糖超标了",
@@ -491,6 +523,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 207549,
+      "num": 207549,
+      "word": "终于体会到古代小姐挑料子的快乐",
+      "onboard_time": 1752727402,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 206844,
+      "num": 206844,
+      "word": "大二下学期发小狗",
+      "onboard_time": 1752722661,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203593,
       "num": 203593,
       "word": "西安市民热到吸氧",
@@ -499,20 +547,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200587,
-      "num": 200587,
-      "word": "大二下学期发小狗",
-      "onboard_time": 1752722661,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 193932,
+      "num": 193932,
+      "word": "把头发梳起来大大方方的",
+      "onboard_time": 1752726983,
+      "rank": 32,
+      "category": "综艺"
     },
     {
-      "raw_hot": 195711,
-      "num": 287241,
-      "word": "生育的不可逆连骨头都会记得",
-      "onboard_time": 1752725063,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 192744,
+      "num": 192744,
+      "word": "男婴离世家长获赔88万律师拿55万",
+      "onboard_time": 1752727643,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191539,
+      "num": 191539,
+      "word": "全职高手真的去苏黎世",
+      "onboard_time": 1752727103,
+      "rank": 36,
+      "category": "动漫,电竞"
     },
     {
       "raw_hot": 191528,
@@ -603,6 +659,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175646,
+      "num": 175646,
+      "word": "怪不得丝绸会被称为软黄金",
+      "onboard_time": 1752726382,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175078,
+      "num": 175078,
+      "word": "这到底是题库还是冷笑话大全",
+      "onboard_time": 1752727162,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173797,
       "num": 236606,
       "word": "刘宇宁一开口天亮了",
@@ -625,6 +697,14 @@
       "onboard_time": 1752673462,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 167506,
+      "num": 167506,
+      "word": "JDG告别MISSING",
+      "onboard_time": 1752727523,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 167086,
@@ -659,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161514,
+      "num": 161514,
+      "word": "李宛妲00后浓颜出征古装",
+      "onboard_time": 1752726863,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156520,
+      "num": 156520,
+      "word": "杭州现臭味自来水已切换水源",
+      "onboard_time": 1752725121,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155489,
       "num": 390509,
       "word": "更理想的增程轿车L7来了",
@@ -691,12 +787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150879,
+      "num": 150879,
+      "word": "姐姐当家",
+      "onboard_time": 1752727643,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150501,
       "num": 150501,
       "word": "朱孝天回应阿信说服F4合体原因",
       "onboard_time": 1752707479,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150410,
+      "num": 150410,
+      "word": "我发朋友圈忘记屏蔽长辈belike",
+      "onboard_time": 1752724282,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 149179,
@@ -715,20 +827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145176,
+      "num": 315791,
+      "word": "胡先煦回应人民日报",
+      "onboard_time": 1752724702,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144288,
       "num": 144288,
       "word": "王者荣耀",
       "onboard_time": 1752711201,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142323,
-      "num": 361076,
-      "word": "脱口秀女演员太women了",
-      "onboard_time": 1752724882,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142172,
@@ -739,20 +851,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141905,
-      "num": 141905,
-      "word": "杭州现臭味自来水已切换水源",
-      "onboard_time": 1752725121,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141405,
       "num": 141405,
       "word": "年轻人的生意其实真的很好做",
       "onboard_time": 1752723922,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140676,
+      "num": 191688,
+      "word": "海浪越大朱一龙越野",
+      "onboard_time": 1752727581,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 139549,
@@ -811,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128240,
+      "num": 411717,
+      "word": "堂食用鲜肉现炒外卖用冻肉预制菜",
+      "onboard_time": 1752726683,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126606,
       "num": 126606,
       "word": "浙江一地可穿汉服拍身份证照片",
@@ -825,14 +945,6 @@
       "onboard_time": 1752661401,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123116,
-      "num": 315791,
-      "word": "胡先煦回应人民日报",
-      "onboard_time": 1752724702,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 117268,
@@ -889,6 +1001,14 @@
       "onboard_time": 1752682520,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104408,
+      "num": 1330956,
+      "word": "院士说把卫星扔上天真是扬眉吐气",
+      "onboard_time": 1752725302,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103248,
@@ -1211,6 +1331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52996,
+      "num": 175257,
+      "word": "杨瀚森被选中前刚吃完炸鸡",
+      "onboard_time": 1752726623,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52177,
       "num": 52177,
       "word": "好感和喜欢最多存在四个月",
@@ -1329,14 +1457,6 @@
       "onboard_time": 1752687377,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26809,
-      "num": 800796,
-      "word": "院士说把卫星扔上天真是扬眉吐气",
-      "onboard_time": 1752725302,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22165,

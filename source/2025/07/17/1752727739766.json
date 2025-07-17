@@ -1,0 +1,410 @@
+{
+  "runTime": 1752727739766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824355,
+        "num": 1824355,
+        "word": "体检10年未查出癌症女子发声",
+        "onboard_time": 1752724644,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1702833,
+        "num": 1702833,
+        "word": "余景天录节目失控掀桌子",
+        "onboard_time": 1752725661,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104408,
+        "num": 1330956,
+        "word": "院士说把卫星扔上天真是扬眉吐气",
+        "onboard_time": 1752725302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1325583,
+        "num": 1325583,
+        "word": "官方再通报花715万建牛郎织女雕塑",
+        "onboard_time": 1752723202,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 900170,
+        "num": 900170,
+        "word": "花715万建牛郎织女雕塑多人已获刑",
+        "onboard_time": 1752721403,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 753251,
+        "num": 753251,
+        "word": "赫敏扮演者因超速被禁止驾驶6个月",
+        "onboard_time": 1752721042,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622304,
+        "num": 622304,
+        "word": "谢娜张杰真人秀合体",
+        "onboard_time": 1752726262,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449018,
+        "num": 449018,
+        "word": "风月不相关",
+        "onboard_time": 1752721461,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431944,
+        "num": 431944,
+        "word": "男子过安检被拦怒砸充电宝瞬间起火",
+        "onboard_time": 1752722301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286833,
+        "num": 431849,
+        "word": "平顶山市联合调查组致歉",
+        "onboard_time": 1752723562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1130600,
+        "num": 431139,
+        "word": "特朗普让可口可乐改配方",
+        "onboard_time": 1752717502,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 732714,
+        "num": 430615,
+        "word": "甲醛房",
+        "onboard_time": 1752722121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565467,
+        "num": 430077,
+        "word": "韩安冉晒孕肚",
+        "onboard_time": 1752717382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429643,
+        "num": 429643,
+        "word": "罗家英自曝注射女性荷尔蒙",
+        "onboard_time": 1752711681,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128240,
+        "num": 411717,
+        "word": "堂食用鲜肉现炒外卖用冻肉预制菜",
+        "onboard_time": 1752726683,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 401172,
+        "num": 401172,
+        "word": "生育的不可逆连骨头都会记得",
+        "onboard_time": 1752725063,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388105,
+        "num": 388105,
+        "word": "iG首发",
+        "onboard_time": 1752723741,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 377539,
+        "num": 377539,
+        "word": "双轨",
+        "onboard_time": 1752718760,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365712,
+        "num": 365712,
+        "word": "霍汶希女儿杂志封面首秀",
+        "onboard_time": 1752723741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114155,
+        "num": 353938,
+        "word": "更理想的增程轿车L7来了",
+        "onboard_time": 1752725003,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 346357,
+        "num": 346357,
+        "word": "田栩宁栩宁摇",
+        "onboard_time": 1752720621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284702,
+        "num": 284702,
+        "word": "大大方方结束一段不健康的关系",
+        "onboard_time": 1752716182,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274731,
+        "num": 274731,
+        "word": "让体脂率不断下降的7个习惯",
+        "onboard_time": 1752720981,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266804,
+        "num": 266804,
+        "word": "孩子喜提北大通知书两家父母神同步",
+        "onboard_time": 1752716842,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259624,
+        "num": 259624,
+        "word": "四川重庆已经热红了",
+        "onboard_time": 1752712520,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221522,
+        "num": 221522,
+        "word": "飞驰人生3",
+        "onboard_time": 1752717141,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217959,
+        "num": 217959,
+        "word": "脱口秀女演员太women了",
+        "onboard_time": 1752724882,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207549,
+        "num": 207549,
+        "word": "终于体会到古代小姐挑料子的快乐",
+        "onboard_time": 1752727402,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207222,
+        "num": 207222,
+        "word": "妻子过了近30年才知道丈夫工作",
+        "onboard_time": 1752711381,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 206844,
+        "num": 206844,
+        "word": "大二下学期发小狗",
+        "onboard_time": 1752722661,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202169,
+        "num": 202169,
+        "word": "jiejie wei",
+        "onboard_time": 1752724102,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195111,
+        "num": 195111,
+        "word": "植村秀专业美发 蔡徐坤",
+        "onboard_time": 1752719900,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193932,
+        "num": 193932,
+        "word": "把头发梳起来大大方方的",
+        "onboard_time": 1752726983,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192744,
+        "num": 192744,
+        "word": "男婴离世家长获赔88万律师拿55万",
+        "onboard_time": 1752727643,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192003,
+        "num": 192003,
+        "word": "重庆吴同学收到北京大学录取通知书",
+        "onboard_time": 1752722482,
+        "rank": 34,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 140676,
+        "num": 191688,
+        "word": "海浪越大朱一龙越野",
+        "onboard_time": 1752727581,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191539,
+        "num": 191539,
+        "word": "全职高手真的去苏黎世",
+        "onboard_time": 1752727103,
+        "rank": 36,
+        "category": "动漫,电竞"
+      },
+      {
+        "raw_hot": 175646,
+        "num": 175646,
+        "word": "怪不得丝绸会被称为软黄金",
+        "onboard_time": 1752726382,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52996,
+        "num": 175257,
+        "word": "杨瀚森被选中前刚吃完炸鸡",
+        "onboard_time": 1752726623,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175078,
+        "num": 175078,
+        "word": "这到底是题库还是冷笑话大全",
+        "onboard_time": 1752727162,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167506,
+        "num": 167506,
+        "word": "JDG告别MISSING",
+        "onboard_time": 1752727523,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164257,
+        "num": 164257,
+        "word": "韩国女子在越南殴打当地人引众怒",
+        "onboard_time": 1752722542,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161514,
+        "num": 161514,
+        "word": "李宛妲00后浓颜出征古装",
+        "onboard_time": 1752726863,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157589,
+        "num": 157589,
+        "word": "张元英尝试喝了啤酒",
+        "onboard_time": 1752721461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156520,
+        "num": 156520,
+        "word": "杭州现臭味自来水已切换水源",
+        "onboard_time": 1752725121,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151280,
+        "num": 151280,
+        "word": "马龙抵达西藏",
+        "onboard_time": 1752723022,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150986,
+        "num": 150986,
+        "word": "35岁女子长期精神内耗确诊甲状腺癌",
+        "onboard_time": 1752716600,
+        "rank": 46,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 150879,
+        "num": 150879,
+        "word": "姐姐当家",
+        "onboard_time": 1752727643,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150410,
+        "num": 150410,
+        "word": "我发朋友圈忘记屏蔽长辈belike",
+        "onboard_time": 1752724282,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145176,
+        "num": 145176,
+        "word": "胡先煦回应人民日报",
+        "onboard_time": 1752724702,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设现代化人民城市有6个关键词#"
+    }
+  }
+}
