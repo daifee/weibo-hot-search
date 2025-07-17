@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752727739766,
+  "endTime": 1752728269110,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2084278,
+      "num": 2084278,
+      "word": "体检10年未查出癌症女子发声",
+      "onboard_time": 1752724644,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1979558,
       "num": 898062,
       "word": "他甚至连求婚戒指都准备了四枚",
@@ -89,14 +97,6 @@
       "onboard_time": 1752386662,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1824355,
-      "num": 1824355,
-      "word": "体检10年未查出癌症女子发声",
-      "onboard_time": 1752724644,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1798323,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1776512,
+      "num": 1776512,
+      "word": "余景天录节目失控掀桌子",
+      "onboard_time": 1752725661,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1759372,
       "num": 1759372,
       "word": "京东取消外卖超时20分钟免单",
@@ -145,14 +153,6 @@
       "onboard_time": 1752541700,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1702833,
-      "num": 1702833,
-      "word": "余景天录节目失控掀桌子",
-      "onboard_time": 1752725661,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1656140,
@@ -860,7 +860,7 @@
     },
     {
       "raw_hot": 916879,
-      "num": 430077,
+      "num": 576724,
       "word": "韩安冉晒孕肚",
       "onboard_time": 1752717382,
       "rank": 11,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 804086,
-      "num": 430615,
+      "num": 686213,
       "word": "甲醛房",
       "onboard_time": 1752722121,
       "rank": 11,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1752326181,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765202,
+      "num": 765202,
+      "word": "谢娜张杰真人秀合体",
+      "onboard_time": 1752726262,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 761918,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1752568103,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 622304,
-      "num": 622304,
-      "word": "谢娜张杰真人秀合体",
-      "onboard_time": 1752726262,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 619368,
@@ -2012,7 +2012,7 @@
     },
     {
       "raw_hot": 499070,
-      "num": 499070,
+      "num": 691081,
       "word": "四川重庆已经热红了",
       "onboard_time": 1752712520,
       "rank": 7,
@@ -2025,6 +2025,14 @@
       "onboard_time": 1752486263,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496781,
+      "num": 693776,
+      "word": "生育的不可逆连骨头都会记得",
+      "onboard_time": 1752725063,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 496061,
@@ -2152,6 +2160,14 @@
       "word": "顾客称吃苏州糖水发现餐具内增高",
       "onboard_time": 1752572603,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466113,
+      "num": 466113,
+      "word": "男子过安检被拦怒砸充电宝瞬间起火",
+      "onboard_time": 1752722301,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2355,14 +2371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 431944,
-      "num": 431944,
-      "word": "男子过安检被拦怒砸充电宝瞬间起火",
-      "onboard_time": 1752722301,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 431307,
       "num": 370827,
       "word": "给翻垃圾环卫工的红包是谁拒收的",
@@ -2515,14 +2523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 401172,
-      "num": 401172,
-      "word": "生育的不可逆连骨头都会记得",
-      "onboard_time": 1752725063,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400311,
       "num": 271853,
       "word": "李兰迪瘦了好多",
@@ -2587,8 +2587,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 389886,
-      "num": 389886,
+      "raw_hot": 393518,
+      "num": 393518,
       "word": "iG首发",
       "onboard_time": 1752723741,
       "rank": 19,
@@ -2899,6 +2899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346680,
+      "num": 346680,
+      "word": "男婴离世家长获赔88万律师拿55万",
+      "onboard_time": 1752727643,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346490,
       "num": 346490,
       "word": "田栩宁沈月同框拍戏",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1752590784,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344395,
+      "num": 688643,
+      "word": "平顶山市联合调查组致歉",
+      "onboard_time": 1752723562,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344013,
@@ -3385,14 +3401,6 @@
       "onboard_time": 1752458241,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 295305,
-      "num": 431849,
-      "word": "平顶山市联合调查组致歉",
-      "onboard_time": 1752723562,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294719,
@@ -4419,6 +4427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230440,
+      "num": 230440,
+      "word": "把头发梳起来大大方方的",
+      "onboard_time": 1752726983,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227836,
       "num": 227836,
       "word": "荣耀X70是犯天条了吗",
@@ -4537,6 +4553,14 @@
       "onboard_time": 1752653782,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 219683,
+      "num": 219683,
+      "word": "终于体会到古代小姐挑料子的快乐",
+      "onboard_time": 1752727402,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 219196,
@@ -4787,6 +4811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 213549,
+      "num": 213549,
+      "word": "JDG告别MISSING",
+      "onboard_time": 1752727523,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213333,
       "num": 213333,
       "word": "赵今麦新剧的马尾气得不像演的",
@@ -4915,6 +4947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209979,
+      "num": 209979,
+      "word": "姐姐当家",
+      "onboard_time": 1752727643,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209810,
       "num": 324409,
       "word": "蔡徐坤respect派克特我相信",
@@ -4985,14 +5025,6 @@
       "onboard_time": 1752469224,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207549,
-      "num": 207549,
-      "word": "终于体会到古代小姐挑料子的快乐",
-      "onboard_time": 1752727402,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 207329,
@@ -5211,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202227,
+      "num": 202227,
+      "word": "李宛妲00后浓颜出征古装",
+      "onboard_time": 1752726863,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202151,
       "num": 192027,
       "word": "19岁男生鼻子不舒服查出罕见癌症",
@@ -5395,6 +5435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196641,
+      "num": 196641,
+      "word": "全职高手真的去苏黎世",
+      "onboard_time": 1752727103,
+      "rank": 36,
+      "category": "动漫,电竞"
+    },
+    {
       "raw_hot": 196623,
       "num": 212973,
       "word": "肖战藏海传明天登陆暑假下午档",
@@ -5515,14 +5563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193932,
-      "num": 193932,
-      "word": "把头发梳起来大大方方的",
-      "onboard_time": 1752726983,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193567,
       "num": 193567,
       "word": "米画师崩了",
@@ -5537,14 +5577,6 @@
       "onboard_time": 1752648021,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 192744,
-      "num": 192744,
-      "word": "男婴离世家长获赔88万律师拿55万",
-      "onboard_time": 1752727643,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192575,
@@ -5593,14 +5625,6 @@
       "onboard_time": 1752466163,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 191539,
-      "num": 191539,
-      "word": "全职高手真的去苏黎世",
-      "onboard_time": 1752727103,
-      "rank": 36,
-      "category": "动漫,电竞"
     },
     {
       "raw_hot": 191528,
@@ -5697,6 +5721,14 @@
       "onboard_time": 1752372559,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189657,
+      "num": 189657,
+      "word": "这下都没有小桌板了",
+      "onboard_time": 1752727763,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 189565,
@@ -6065,6 +6097,14 @@
       "onboard_time": 1752555683,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 183949,
+      "num": 183949,
+      "word": "施展 好笑吗孙政",
+      "onboard_time": 1752727044,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 183817,
@@ -6747,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168052,
+      "num": 445997,
+      "word": "堂食用鲜肉现炒外卖用冻肉预制菜",
+      "onboard_time": 1752726683,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 167938,
       "num": 152851,
       "word": "毕业多年后同寝三人命运唏嘘",
@@ -6761,14 +6809,6 @@
       "onboard_time": 1752395063,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167506,
-      "num": 167506,
-      "word": "JDG告别MISSING",
-      "onboard_time": 1752727523,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 167485,
@@ -6848,6 +6888,14 @@
       "word": "境外势力用AI生成假视频制造恐慌",
       "onboard_time": 1752627922,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166381,
+      "num": 1330956,
+      "word": "院士说把卫星扔上天真是扬眉吐气",
+      "onboard_time": 1752725302,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -7121,14 +7169,6 @@
       "onboard_time": 1752593903,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161514,
-      "num": 161514,
-      "word": "李宛妲00后浓颜出征古装",
-      "onboard_time": 1752726863,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 161484,
@@ -7683,14 +7723,6 @@
       "category": "体育,动漫"
     },
     {
-      "raw_hot": 150879,
-      "num": 150879,
-      "word": "姐姐当家",
-      "onboard_time": 1752727643,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150501,
       "num": 150501,
       "word": "朱孝天回应阿信说服F4合体原因",
@@ -7705,6 +7737,14 @@
       "onboard_time": 1752580942,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150458,
+      "num": 150458,
+      "word": "医生说6种体检异常不必太焦虑",
+      "onboard_time": 1752728063,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150410,
@@ -8284,7 +8324,7 @@
     },
     {
       "raw_hot": 140676,
-      "num": 191688,
+      "num": 374480,
       "word": "海浪越大朱一龙越野",
       "onboard_time": 1752727581,
       "rank": 35,
@@ -9265,14 +9305,6 @@
       "onboard_time": 1752488183,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128240,
-      "num": 411717,
-      "word": "堂食用鲜肉现炒外卖用冻肉预制菜",
-      "onboard_time": 1752726683,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 128144,
@@ -11305,14 +11337,6 @@
       "onboard_time": 1752453802,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104408,
-      "num": 1330956,
-      "word": "院士说把卫星扔上天真是扬眉吐气",
-      "onboard_time": 1752725302,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104385,
@@ -13523,6 +13547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49092,
+      "num": 191722,
+      "word": "快船就差保罗了",
+      "onboard_time": 1752727823,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48597,
       "num": 204158,
       "word": "夫妻冒充女儿名义借款一家三口全被告",
@@ -14624,6 +14656,14 @@
       "word": "谁懂镜头捕捉到空中飞人的震撼",
       "onboard_time": 1752441314,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12982,
+      "num": 1347344,
+      "word": "卢沟桥我们的纪念",
+      "onboard_time": 1752727942,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
