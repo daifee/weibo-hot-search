@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752749330317,
+  "endTime": 1752751529014,
   "band_list": [
     {
       "raw_hot": 11780659,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3359595,
-      "num": 384768,
+      "num": 444665,
       "word": "宝剑嫂雨哥分手",
       "onboard_time": 1752737241,
       "rank": 34,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2168856,
-      "num": 400373,
+      "num": 434940,
       "word": "樱桃琥珀原著 避孕药",
       "onboard_time": 1752732322,
       "rank": 10,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1114116,
-      "num": 1114116,
+      "num": 1164468,
       "word": "麦当劳超大薯条",
       "onboard_time": 1752741982,
       "rank": 32,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573983,
+      "num": 573983,
+      "word": "乐山大佛热到休假了",
+      "onboard_time": 1752748941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566918,
       "num": 344704,
       "word": "女子下班发现自家猫生3只崽天塌了",
@@ -387,12 +395,28 @@
       "category": "舆论监督,演出"
     },
     {
+      "raw_hot": 509120,
+      "num": 509120,
+      "word": "高校通报大三本科生逆天学术",
+      "onboard_time": 1752748283,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 502601,
       "num": 502601,
       "word": "官方调查干部21岁时以高中学历获聘",
       "onboard_time": 1752743183,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 499130,
+      "num": 436024,
+      "word": "袁泉夏雨15岁女儿罕见露面",
+      "onboard_time": 1752747803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 499070,
@@ -435,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 459182,
-      "num": 357613,
-      "word": "袁泉夏雨15岁女儿罕见露面",
-      "onboard_time": 1752747803,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 462426,
+      "num": 462426,
+      "word": "余杭",
+      "onboard_time": 1752748042,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446004,
@@ -691,6 +715,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 279293,
+      "num": 279293,
+      "word": "奥巴马夫妇回应离婚传闻",
+      "onboard_time": 1752750682,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 278259,
       "num": 278259,
       "word": "美国海啸预警",
@@ -699,12 +731,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 275653,
+      "num": 275653,
+      "word": "河南蚊子被热死",
+      "onboard_time": 1752747863,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268309,
       "num": 268309,
       "word": "南京闪电",
       "onboard_time": 1752676582,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268138,
+      "num": 460826,
+      "word": "如果刘亦菲和魏大勋演偶像剧",
+      "onboard_time": 1752749360,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 267910,
@@ -728,6 +776,14 @@
       "word": "梓渝方就侵权行为声明",
       "onboard_time": 1752748102,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253418,
+      "num": 282647,
+      "word": "张艺凡的腿",
+      "onboard_time": 1752750202,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -761,6 +817,14 @@
       "onboard_time": 1752747982,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243305,
+      "num": 243305,
+      "word": "山姆背叛了山姆",
+      "onboard_time": 1752750682,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236513,
@@ -899,6 +963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 213965,
+      "num": 456693,
+      "word": "肖战连续两天请客剧组",
+      "onboard_time": 1752749843,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213549,
       "num": 213549,
       "word": "JDG告别MISSING",
@@ -1011,14 +1083,6 @@
       "category": "动漫,电竞"
     },
     {
-      "raw_hot": 194465,
-      "num": 194465,
-      "word": "河南蚊子被热死",
-      "onboard_time": 1752747863,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194108,
       "num": 194108,
       "word": "演员李梦搬家到杭州租别墅生活",
@@ -1057,6 +1121,22 @@
       "onboard_time": 1752741082,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189473,
+      "num": 288058,
+      "word": "猛士解锁华为乾崑新体验",
+      "onboard_time": 1752750262,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 189453,
+      "num": 290664,
+      "word": "烧烤调料被曝用廉价猪饲料原料",
+      "onboard_time": 1752750082,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 189277,
@@ -1147,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182837,
+      "num": 248788,
+      "word": "朝雪录",
+      "onboard_time": 1752657981,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181504,
       "num": 181504,
       "word": "二次元去上海有自己免沪签",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1752723621,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173671,
+      "num": 247770,
+      "word": "樱桃琥珀女二是真闺蜜",
+      "onboard_time": 1752751103,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 172682,
@@ -1355,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165496,
+      "num": 245512,
+      "word": "祝绪丹也怕豆角没熟",
+      "onboard_time": 1752749962,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164268,
       "num": 164268,
       "word": "一个人自驾后才知道什么是人生",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1752725183,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159554,
+      "num": 159554,
+      "word": "财政部调整超豪华小汽车消费税政策",
+      "onboard_time": 1752751103,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 159546,
@@ -1425,6 +1537,14 @@
       "onboard_time": 1752743123,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152400,
+      "num": 152400,
+      "word": "中国女游客印度遇骚扰奋起反击",
+      "onboard_time": 1752747382,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151983,
@@ -1528,6 +1648,14 @@
       "word": "胡先煦回应人民日报",
       "onboard_time": 1752724702,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144848,
+      "num": 144848,
+      "word": "王祖贤自拍",
+      "onboard_time": 1752750861,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1651,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136831,
-      "num": 136831,
-      "word": "中国女游客印度遇骚扰奋起反击",
-      "onboard_time": 1752747382,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135848,
       "num": 297113,
       "word": "湖北一处地表温度超73度",
@@ -1723,12 +1843,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 130353,
-      "num": 132528,
-      "word": "余杭",
-      "onboard_time": 1752748042,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 130710,
+      "num": 130710,
+      "word": "刘骏好帅",
+      "onboard_time": 1752750742,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 128988,
@@ -1811,14 +1931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121504,
-      "num": 290513,
-      "word": "乐山大佛热到休假了",
-      "onboard_time": 1752748941,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121366,
       "num": 121366,
       "word": "预计樊振东7月25日交手林诗栋",
@@ -1833,6 +1945,14 @@
       "onboard_time": 1752736402,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119122,
+      "num": 119122,
+      "word": "警方回复多肉饱饱涉嫌诈骗",
+      "onboard_time": 1752751461,
+      "rank": 47,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 118934,
@@ -2027,14 +2147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104770,
-      "num": 334356,
-      "word": "高校通报大三本科生逆天学术",
-      "onboard_time": 1752748283,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 103765,
       "num": 103765,
       "word": "复读15次唐尚珺谈网红身份困扰",
@@ -2139,6 +2251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92016,
+      "num": 451061,
+      "word": "川北医学院本科生的逆天学术咋来的",
+      "onboard_time": 1752750622,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91929,
       "num": 117855,
       "word": "爱康国宾客服回应体检涉嫌误检漏检",
@@ -2185,6 +2305,14 @@
       "onboard_time": 1752740901,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89943,
+      "num": 285801,
+      "word": "陈楚生本期选曲年轻创作歌手的歌",
+      "onboard_time": 1752750501,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 89616,
@@ -2459,20 +2587,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 61319,
+      "num": 152748,
+      "word": "肖战追星简直演我",
+      "onboard_time": 1752750381,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60233,
       "num": 154262,
       "word": "Fly在暗处执着生长",
       "onboard_time": 1752725003,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 59385,
-      "num": 73938,
-      "word": "朝雪录",
-      "onboard_time": 1752657981,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 58526,
@@ -2801,6 +2929,14 @@
       "onboard_time": 1752662961,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20294,
+      "num": 243459,
+      "word": "一个女孩决定留在塔克拉玛干治沙",
+      "onboard_time": 1752751342,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 20269,
