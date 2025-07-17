@@ -1,6 +1,6 @@
 {
   "startTime": 1752683766393,
-  "endTime": 1752724913302,
+  "endTime": 1752725536394,
   "band_list": [
     {
       "raw_hot": 1373589,
@@ -27,8 +27,8 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 1112221,
-      "num": 1112221,
+      "raw_hot": 1118809,
+      "num": 1118809,
       "word": "花715万建牛郎织女雕塑多人已获刑",
       "onboard_time": 1752721403,
       "rank": 1,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 916879,
-      "num": 366703,
+      "num": 414929,
       "word": "韩安冉晒孕肚",
       "onboard_time": 1752717382,
       "rank": 11,
@@ -59,7 +59,7 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 890707,
+      "raw_hot": 901091,
       "num": 751695,
       "word": "特朗普让可口可乐改配方",
       "onboard_time": 1752717502,
@@ -73,6 +73,14 @@
       "onboard_time": 1752670343,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 804086,
+      "num": 417983,
+      "word": "甲醛房",
+      "onboard_time": 1752722121,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 777796,
@@ -107,16 +115,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 670214,
-      "num": 368766,
-      "word": "甲醛房",
-      "onboard_time": 1752722121,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 665953,
-      "num": 438331,
+      "num": 471859,
       "word": "风月不相关",
       "onboard_time": 1752721461,
       "rank": 6,
@@ -139,8 +139,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 622558,
-      "num": 365376,
+      "raw_hot": 625869,
+      "num": 411601,
       "word": "霍汶希女儿杂志封面首秀",
       "onboard_time": 1752723741,
       "rank": 13,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 581324,
-      "num": 361762,
+      "num": 407624,
       "word": "大大方方结束一段不健康的关系",
       "onboard_time": 1752716182,
       "rank": 14,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 552232,
-      "num": 359796,
+      "num": 402193,
       "word": "田栩宁栩宁摇",
       "onboard_time": 1752720621,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 538259,
+      "num": 538259,
+      "word": "官方再通报花715万建牛郎织女雕塑",
+      "onboard_time": 1752723202,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 531617,
@@ -227,6 +235,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 431130,
+      "num": 431130,
+      "word": "男子过安检被拦怒砸充电宝瞬间起火",
+      "onboard_time": 1752722301,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428108,
       "num": 428108,
       "word": "美国人想坐高铁遥遥无期",
@@ -235,16 +251,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 427260,
-      "num": 427260,
-      "word": "男子过安检被拦怒砸充电宝瞬间起火",
-      "onboard_time": 1752722301,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 417659,
-      "num": 336607,
+      "num": 359602,
       "word": "让体脂率不断下降的7个习惯",
       "onboard_time": 1752720981,
       "rank": 20,
@@ -259,12 +267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371591,
-      "num": 371591,
-      "word": "官方再通报花715万建牛郎织女雕塑",
-      "onboard_time": 1752723202,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 389886,
+      "num": 389886,
+      "word": "iG首发",
+      "onboard_time": 1752723741,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 375244,
+      "num": 430499,
+      "word": "体检10年未查出癌症女子发声",
+      "onboard_time": 1752724644,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362790,
@@ -281,14 +297,6 @@
       "onboard_time": 1752679762,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343743,
-      "num": 343743,
-      "word": "iG首发",
-      "onboard_time": 1752723741,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 341324,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 298347,
-      "num": 298347,
+      "num": 301844,
       "word": "植村秀专业美发 蔡徐坤",
       "onboard_time": 1752719900,
       "rank": 21,
@@ -475,19 +483,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210803,
+      "num": 296339,
+      "word": "易烊千玺T锦绣七月刊封面",
+      "onboard_time": 1752725361,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203593,
       "num": 203593,
       "word": "西安市民热到吸氧",
       "onboard_time": 1752716842,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202644,
-      "num": 202644,
-      "word": "体检10年未查出癌症女子发声",
-      "onboard_time": 1752724644,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -497,6 +505,14 @@
       "onboard_time": 1752722661,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195711,
+      "num": 287241,
+      "word": "生育的不可逆连骨头都会记得",
+      "onboard_time": 1752725063,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 191528,
@@ -635,6 +651,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161994,
+      "num": 161994,
+      "word": "郭俊辰有7部待播作品了",
+      "onboard_time": 1752725183,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155489,
+      "num": 390509,
+      "word": "更理想的增程轿车L7来了",
+      "onboard_time": 1752725003,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 151983,
       "num": 181719,
       "word": "锦绣芳华收视创新高",
@@ -675,6 +707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147531,
+      "num": 147531,
+      "word": "地球超新鲜",
+      "onboard_time": 1752725242,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144288,
       "num": 144288,
       "word": "王者荣耀",
@@ -683,12 +723,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142323,
+      "num": 361076,
+      "word": "脱口秀女演员太women了",
+      "onboard_time": 1752724882,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142172,
       "num": 117233,
       "word": "醒醒现在是2006年",
       "onboard_time": 1752696374,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141905,
+      "num": 141905,
+      "word": "杭州现臭味自来水已切换水源",
+      "onboard_time": 1752725121,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141405,
@@ -769,6 +825,14 @@
       "onboard_time": 1752661401,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123116,
+      "num": 315791,
+      "word": "胡先煦回应人民日报",
+      "onboard_time": 1752724702,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 117268,
@@ -867,14 +931,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 91003,
-      "num": 164456,
-      "word": "脱口秀女演员太women了",
-      "onboard_time": 1752724882,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90809,
       "num": 90809,
       "word": "昆明拿下全球避暑胜地第一名",
@@ -912,14 +968,6 @@
       "word": "朱孝天称虽非内地长大一直是中国人",
       "onboard_time": 1752710181,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86856,
-      "num": 250615,
-      "word": "胡先煦回应人民日报",
-      "onboard_time": 1752724702,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1091,6 +1139,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 60233,
+      "num": 154262,
+      "word": "Fly在暗处执着生长",
+      "onboard_time": 1752725003,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59385,
       "num": 73938,
       "word": "朝雪录",
@@ -1243,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35355,
+      "num": 390138,
+      "word": "美20州起诉特朗普政府",
+      "onboard_time": 1752724943,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34370,
       "num": 34370,
       "word": "舔个毛差点送走自己",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1752687377,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26809,
+      "num": 800796,
+      "word": "院士说把卫星扔上天真是扬眉吐气",
+      "onboard_time": 1752725302,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22165,
@@ -1350,6 +1422,9 @@
   "hotgov_list": [
     {
       "word": "#建设现代化人民城市有6个关键词#"
+    },
+    {
+      "word": "#保持足够的历史耐心#"
     }
   ]
 }

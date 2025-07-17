@@ -1,0 +1,410 @@
+{
+  "runTime": 1752725536394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252221,
+        "num": 1252221,
+        "word": "赫敏扮演者因超速被禁止驾驶6个月",
+        "onboard_time": 1752721042,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1118809,
+        "num": 1118809,
+        "word": "花715万建牛郎织女雕塑多人已获刑",
+        "onboard_time": 1752721403,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 26809,
+        "num": 800796,
+        "word": "院士说把卫星扔上天真是扬眉吐气",
+        "onboard_time": 1752725302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673586,
+        "num": 673586,
+        "word": "双轨",
+        "onboard_time": 1752718760,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538259,
+        "num": 538259,
+        "word": "官方再通报花715万建牛郎织女雕塑",
+        "onboard_time": 1752723202,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 510440,
+        "num": 510440,
+        "word": "孩子喜提北大通知书两家父母神同步",
+        "onboard_time": 1752716842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592668,
+        "num": 471859,
+        "word": "风月不相关",
+        "onboard_time": 1752721461,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572318,
+        "num": 468610,
+        "word": "罗家英自曝注射女性荷尔蒙",
+        "onboard_time": 1752711681,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431130,
+        "num": 431130,
+        "word": "男子过安检被拦怒砸充电宝瞬间起火",
+        "onboard_time": 1752722301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375244,
+        "num": 430499,
+        "word": "体检10年未查出癌症女子发声",
+        "onboard_time": 1752724644,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901091,
+        "num": 423365,
+        "word": "特朗普让可口可乐改配方",
+        "onboard_time": 1752717502,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 804086,
+        "num": 417983,
+        "word": "甲醛房",
+        "onboard_time": 1752722121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640473,
+        "num": 414929,
+        "word": "韩安冉晒孕肚",
+        "onboard_time": 1752717382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625869,
+        "num": 411601,
+        "word": "霍汶希女儿杂志封面首秀",
+        "onboard_time": 1752723741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476661,
+        "num": 407624,
+        "word": "大大方方结束一段不健康的关系",
+        "onboard_time": 1752716182,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465325,
+        "num": 402193,
+        "word": "田栩宁栩宁摇",
+        "onboard_time": 1752720621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399272,
+        "num": 399272,
+        "word": "重庆吴同学收到北京大学录取通知书",
+        "onboard_time": 1752722482,
+        "rank": 16,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 393325,
+        "num": 393325,
+        "word": "飞驰人生3",
+        "onboard_time": 1752717141,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155489,
+        "num": 390509,
+        "word": "更理想的增程轿车L7来了",
+        "onboard_time": 1752725003,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35355,
+        "num": 390138,
+        "word": "美20州起诉特朗普政府",
+        "onboard_time": 1752724943,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 389886,
+        "num": 389886,
+        "word": "iG首发",
+        "onboard_time": 1752723741,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142323,
+        "num": 361076,
+        "word": "脱口秀女演员太women了",
+        "onboard_time": 1752724882,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359602,
+        "num": 359602,
+        "word": "让体脂率不断下降的7个习惯",
+        "onboard_time": 1752720981,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123116,
+        "num": 315791,
+        "word": "胡先煦回应人民日报",
+        "onboard_time": 1752724702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314034,
+        "num": 314034,
+        "word": "特朗普发威胁后普京视察最大钢厂",
+        "onboard_time": 1752721282,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309828,
+        "num": 309828,
+        "word": "四川重庆已经热红了",
+        "onboard_time": 1752712520,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37932,
+        "num": 303939,
+        "word": "护网某科技公司未落实网络安全保护义务被罚",
+        "onboard_time": 1752714142,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271285,
+        "num": 301844,
+        "word": "植村秀专业美发 蔡徐坤",
+        "onboard_time": 1752719900,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210803,
+        "num": 296339,
+        "word": "易烊千玺T锦绣七月刊封面",
+        "onboard_time": 1752725361,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195711,
+        "num": 287241,
+        "word": "生育的不可逆连骨头都会记得",
+        "onboard_time": 1752725063,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286268,
+        "num": 286268,
+        "word": "平顶山市联合调查组致歉",
+        "onboard_time": 1752723562,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223967,
+        "num": 223967,
+        "word": "jiejie wei",
+        "onboard_time": 1752724102,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218216,
+        "num": 218216,
+        "word": "张元英尝试喝了啤酒",
+        "onboard_time": 1752721461,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200297,
+        "num": 200297,
+        "word": "35岁女子长期精神内耗确诊甲状腺癌",
+        "onboard_time": 1752716600,
+        "rank": 33,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 199280,
+        "num": 199280,
+        "word": "大二下学期发小狗",
+        "onboard_time": 1752722661,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187313,
+        "num": 187313,
+        "word": "韩国女子在越南殴打当地人引众怒",
+        "onboard_time": 1752722542,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171746,
+        "num": 171746,
+        "word": "国产金枕榴莲即将上市",
+        "onboard_time": 1752719541,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161994,
+        "num": 161994,
+        "word": "郭俊辰有7部待播作品了",
+        "onboard_time": 1752725183,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159834,
+        "num": 159834,
+        "word": "马龙抵达西藏",
+        "onboard_time": 1752723022,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60233,
+        "num": 154262,
+        "word": "Fly在暗处执着生长",
+        "onboard_time": 1752725003,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150045,
+        "num": 150045,
+        "word": "电影东极岛",
+        "onboard_time": 1752724102,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149609,
+        "num": 149609,
+        "word": "刘宇宁舞蹈从僵硬到丝滑",
+        "onboard_time": 1752723621,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149184,
+        "num": 149184,
+        "word": "皮肤7种变化提示血糖超标了",
+        "onboard_time": 1752712161,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147531,
+        "num": 147531,
+        "word": "地球超新鲜",
+        "onboard_time": 1752725242,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146515,
+        "num": 146515,
+        "word": "姑娘骑车一路流泪被交警拦下安慰",
+        "onboard_time": 1752717801,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 141905,
+        "num": 141905,
+        "word": "杭州现臭味自来水已切换水源",
+        "onboard_time": 1752725121,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138210,
+        "num": 138210,
+        "word": "女生因张若昀爆剧入行法医",
+        "onboard_time": 1752707118,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131663,
+        "num": 131663,
+        "word": "爱康国宾体检因检测不准曾被多次投诉",
+        "onboard_time": 1752720079,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129897,
+        "num": 129897,
+        "word": "妻子过了近30年才知道丈夫工作",
+        "onboard_time": 1752711381,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124847,
+        "num": 124847,
+        "word": "西安市民热到吸氧",
+        "onboard_time": 1752716842,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}
