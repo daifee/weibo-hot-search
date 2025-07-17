@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752760504024,
+  "endTime": 1752762404120,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1632,6 +1632,14 @@
       "word": "76元一吨饮料外卖订单",
       "onboard_time": 1752411983,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1278476,
+      "num": 1278476,
+      "word": "殡仪馆3500招太平间门卫要全天在岗",
+      "onboard_time": 1752758121,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -3699,6 +3707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 841963,
+      "num": 841963,
+      "word": "肖战直播",
+      "onboard_time": 1752753082,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840147,
       "num": 708104,
       "word": "杨紫李现 爸爸妈妈我出生了",
@@ -4427,11 +4443,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 748601,
-      "num": 748601,
-      "word": "殡仪馆3500招太平间门卫要全天在岗",
-      "onboard_time": 1752758121,
-      "rank": 6,
+      "raw_hot": 749379,
+      "num": 685257,
+      "word": "杭州自来水",
+      "onboard_time": 1752753382,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -5227,14 +5243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 685257,
-      "num": 685257,
-      "word": "杭州自来水",
-      "onboard_time": 1752753382,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 682130,
       "num": 475200,
       "word": "李惠利与伴舞交往超一年",
@@ -5569,14 +5577,6 @@
       "onboard_time": 1751673800,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 657700,
-      "num": 657700,
-      "word": "肖战直播",
-      "onboard_time": 1752753082,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 657396,
@@ -10635,6 +10635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383023,
+      "num": 345518,
+      "word": "祝绪丹回应被说装可爱",
+      "onboard_time": 1752756262,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382908,
       "num": 382908,
       "word": "谢娜时隔三天才回杨迪微信",
@@ -11833,6 +11841,14 @@
       "onboard_time": 1752050722,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344697,
+      "num": 344697,
+      "word": "AG对战HLE",
+      "onboard_time": 1752749002,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 344569,
@@ -15883,6 +15899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257533,
+      "num": 262748,
+      "word": "一国企登报喊61名职工回来上班",
+      "onboard_time": 1752757702,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257289,
       "num": 257289,
       "word": "国乒男队怎么了",
@@ -16675,6 +16699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244522,
+      "num": 269990,
+      "word": "被家暴16次女子前婆婆被判返还91万",
+      "onboard_time": 1752760342,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243996,
       "num": 182642,
       "word": "张小婉浪姐毕业后咋美成这样了",
@@ -17019,14 +17051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 238284,
-      "num": 238284,
-      "word": "祝绪丹回应被说装可爱",
-      "onboard_time": 1752756262,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237887,
       "num": 237887,
       "word": "张凌赫赵今麦回应三搭",
@@ -17369,6 +17393,14 @@
       "onboard_time": 1751445743,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233348,
+      "num": 233348,
+      "word": "十个勤天直播",
+      "onboard_time": 1752760881,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 233144,
@@ -20883,6 +20915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201632,
+      "num": 201632,
+      "word": "成都AG沙漠图吃鸡",
+      "onboard_time": 1752761242,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201552,
       "num": 201552,
       "word": "时代少年团在里面闹麻了",
@@ -23371,6 +23411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188423,
+      "num": 188423,
+      "word": "AG对战TTG",
+      "onboard_time": 1752756202,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188375,
       "num": 188375,
       "word": "闪闪惹人爱",
@@ -24371,6 +24419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182567,
+      "num": 182567,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1752760642,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182556,
       "num": 201119,
       "word": "AG战胜UUG",
@@ -25041,14 +25097,6 @@
       "onboard_time": 1751514142,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178953,
-      "num": 262748,
-      "word": "一国企登报喊61名职工回来上班",
-      "onboard_time": 1752757702,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178934,
@@ -25737,6 +25785,14 @@
       "onboard_time": 1752379159,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174805,
+      "num": 174805,
+      "word": "李诞喊话九转大肠不用洗太干净",
+      "onboard_time": 1752761483,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 174803,
@@ -32083,6 +32139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146776,
+      "num": 146776,
+      "word": "B萌",
+      "onboard_time": 1752761062,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146775,
       "num": 146775,
       "word": "郝蕾节目里调侃选手太土",
@@ -32601,6 +32665,14 @@
       "onboard_time": 1751974462,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 144763,
+      "num": 144763,
+      "word": "连SVIP都不能听的台词出现了",
+      "onboard_time": 1752758182,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 144713,
@@ -33625,14 +33697,6 @@
       "onboard_time": 1752155603,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 141230,
-      "num": 141230,
-      "word": "连SVIP都不能听的台词出现了",
-      "onboard_time": 1752758182,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 141178,
@@ -35171,14 +35235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136145,
-      "num": 136145,
-      "word": "AG对战HLE",
-      "onboard_time": 1752749002,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136124,
       "num": 323057,
       "word": "男子捞手机索酬未果扔回河被行拘",
@@ -36513,6 +36569,14 @@
       "onboard_time": 1752246684,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131687,
+      "num": 131687,
+      "word": "HLE的bp",
+      "onboard_time": 1752761662,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 131670,
@@ -42251,14 +42315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 114496,
-      "num": 114496,
-      "word": "AG对战TTG",
-      "onboard_time": 1752756202,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 114478,
       "num": 114478,
       "word": "曾舜晞陈伟霆九门同框路透",
@@ -42779,6 +42835,14 @@
       "category": "互联网,幽默"
     },
     {
+      "raw_hot": 112930,
+      "num": 112930,
+      "word": "祝绪丹曾经一人闯横店",
+      "onboard_time": 1752761962,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112920,
       "num": 112920,
       "word": "小狗回到家自己放水洗脚",
@@ -43033,6 +43097,14 @@
       "onboard_time": 1752649883,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112282,
+      "num": 369102,
+      "word": "爱康集团最新回应",
+      "onboard_time": 1752759862,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112253,
@@ -43915,14 +43987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109448,
-      "num": 109448,
-      "word": "被家暴16次女子前婆婆被判返还91万",
-      "onboard_time": 1752760342,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "T1无缘MSI第三冠",
@@ -44633,6 +44697,14 @@
       "onboard_time": 1752644961,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107158,
+      "num": 107158,
+      "word": "15元一斤的贵州蔬菜沙拉",
+      "onboard_time": 1752759201,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 107147,
@@ -45673,6 +45745,14 @@
       "onboard_time": 1752740962,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103759,
+      "num": 103759,
+      "word": "为什么还没入伏就这么热",
+      "onboard_time": 1752761183,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 103706,
@@ -46977,6 +47057,14 @@
       "onboard_time": 1752314662,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98813,
+      "num": 98813,
+      "word": "AG领域三连暴走",
+      "onboard_time": 1752762382,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 98808,
@@ -53243,14 +53331,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 53293,
-      "num": 369102,
-      "word": "爱康集团最新回应",
-      "onboard_time": 1752759862,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53263,
       "num": 58430,
       "word": "刘浩存发视频告别七根心简",
@@ -59392,6 +59472,9 @@
     },
     {
       "word": "#保持足够的历史耐心#"
+    },
+    {
+      "word": "#走出一条中国特色城市现代化新路子#"
     }
   ]
 }

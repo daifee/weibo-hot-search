@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752760504024,
+  "endTime": 1752762404120,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -408,6 +408,14 @@
       "word": "76元一吨饮料外卖订单",
       "onboard_time": 1752411983,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1278476,
+      "num": 1278476,
+      "word": "殡仪馆3500招太平间门卫要全天在岗",
+      "onboard_time": 1752758121,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1075,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 841963,
+      "num": 841963,
+      "word": "肖战直播",
+      "onboard_time": 1752753082,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 839717,
       "num": 839717,
       "word": "环卫工翻垃圾找手表为何暖心变闹心",
@@ -1251,11 +1267,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 748601,
-      "num": 748601,
-      "word": "殡仪馆3500招太平间门卫要全天在岗",
-      "onboard_time": 1752758121,
-      "rank": 6,
+      "raw_hot": 749379,
+      "num": 685257,
+      "word": "杭州自来水",
+      "onboard_time": 1752753382,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1467,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 685257,
-      "num": 685257,
-      "word": "杭州自来水",
-      "onboard_time": 1752753382,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 682073,
       "num": 682073,
       "word": "哥哥隐瞒父亲死讯埋葬地被妹起诉",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1752547461,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 657700,
-      "num": 657700,
-      "word": "肖战直播",
-      "onboard_time": 1752753082,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 657117,
@@ -2939,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383023,
+      "num": 345518,
+      "word": "祝绪丹回应被说装可爱",
+      "onboard_time": 1752756262,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380502,
       "num": 380502,
       "word": "一代人有一代人的鸡蛋要领",
@@ -3273,6 +3281,14 @@
       "onboard_time": 1752365418,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344697,
+      "num": 344697,
+      "word": "AG对战HLE",
+      "onboard_time": 1752749002,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 344569,
@@ -4403,6 +4419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257533,
+      "num": 262748,
+      "word": "一国企登报喊61名职工回来上班",
+      "onboard_time": 1752757702,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256545,
       "num": 350788,
       "word": "20250001号通知书排面拉满",
@@ -4691,6 +4715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244522,
+      "num": 269990,
+      "word": "被家暴16次女子前婆婆被判返还91万",
+      "onboard_time": 1752760342,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243996,
       "num": 182642,
       "word": "张小婉浪姐毕业后咋美成这样了",
@@ -4795,14 +4827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 238284,
-      "num": 238284,
-      "word": "祝绪丹回应被说装可爱",
-      "onboard_time": 1752756262,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "ye 退票",
@@ -4889,6 +4913,14 @@
       "onboard_time": 1752673343,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233348,
+      "num": 233348,
+      "word": "十个勤天直播",
+      "onboard_time": 1752760881,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 233070,
@@ -5867,6 +5899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201632,
+      "num": 201632,
+      "word": "成都AG沙漠图吃鸡",
+      "onboard_time": 1752761242,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201343,
       "num": 693979,
       "word": "正确预防空调病",
@@ -6555,6 +6595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188423,
+      "num": 188423,
+      "word": "AG对战TTG",
+      "onboard_time": 1752756202,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188062,
       "num": 188062,
       "word": "提升幸福感的夏日小事",
@@ -6899,6 +6947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182567,
+      "num": 182567,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1752760642,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182535,
       "num": 182535,
       "word": "蔡国庆萧亚轩郝蕾直播吵起来了",
@@ -7057,14 +7113,6 @@
       "onboard_time": 1752655101,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178953,
-      "num": 262748,
-      "word": "一国企登报喊61名职工回来上班",
-      "onboard_time": 1752757702,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178733,
@@ -7249,6 +7297,14 @@
       "onboard_time": 1752379159,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174805,
+      "num": 174805,
+      "word": "李诞喊话九转大肠不用洗太干净",
+      "onboard_time": 1752761483,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 174518,
@@ -9019,6 +9075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146776,
+      "num": 146776,
+      "word": "B萌",
+      "onboard_time": 1752761062,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146394,
       "num": 146394,
       "word": "三次判刑仍提拔的局长曾枪击村民",
@@ -9113,6 +9177,14 @@
       "onboard_time": 1752539482,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144763,
+      "num": 144763,
+      "word": "连SVIP都不能听的台词出现了",
+      "onboard_time": 1752758182,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 144694,
@@ -9369,14 +9441,6 @@
       "onboard_time": 1752411865,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141230,
-      "num": 141230,
-      "word": "连SVIP都不能听的台词出现了",
-      "onboard_time": 1752758182,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 141124,
@@ -9939,14 +10003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136145,
-      "num": 136145,
-      "word": "AG对战HLE",
-      "onboard_time": 1752749002,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136023,
       "num": 136023,
       "word": "CPI",
@@ -10281,6 +10337,14 @@
       "onboard_time": 1752665123,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131687,
+      "num": 131687,
+      "word": "HLE的bp",
+      "onboard_time": 1752761662,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 131661,
@@ -11939,14 +12003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114496,
-      "num": 114496,
-      "word": "AG对战TTG",
-      "onboard_time": 1752756202,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 114352,
       "num": 114352,
       "word": "王楚钦拍摄城市冠军照",
@@ -12083,6 +12139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112930,
+      "num": 112930,
+      "word": "祝绪丹曾经一人闯横店",
+      "onboard_time": 1752761962,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112918,
       "num": 188318,
       "word": "北大中文系毕业生建议学理工科",
@@ -12169,6 +12233,14 @@
       "onboard_time": 1752323901,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112282,
+      "num": 369102,
+      "word": "爱康集团最新回应",
+      "onboard_time": 1752759862,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112253,
@@ -12371,14 +12443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109448,
-      "num": 109448,
-      "word": "被家暴16次女子前婆婆被判返还91万",
-      "onboard_time": 1752760342,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "T1无缘MSI第三冠",
@@ -12569,6 +12633,14 @@
       "onboard_time": 1752644961,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107158,
+      "num": 107158,
+      "word": "15元一斤的贵州蔬菜沙拉",
+      "onboard_time": 1752759201,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 107051,
@@ -12931,6 +13003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103759,
+      "num": 103759,
+      "word": "为什么还没入伏就这么热",
+      "onboard_time": 1752761183,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 103314,
       "num": 103314,
       "word": "刘宇宁一发歌剧方都吻上来了",
@@ -13289,6 +13369,14 @@
       "onboard_time": 1752678324,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98813,
+      "num": 98813,
+      "word": "AG领域三连暴走",
+      "onboard_time": 1752762382,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 98619,
@@ -15147,14 +15235,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 53293,
-      "num": 369102,
-      "word": "爱康集团最新回应",
-      "onboard_time": 1752759862,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53234,
       "num": 201826,
       "word": "长春空调卖场人挤人部分机型售罄",
@@ -16715,6 +16795,9 @@
     },
     {
       "word": "#保持足够的历史耐心#"
+    },
+    {
+      "word": "#走出一条中国特色城市现代化新路子#"
     }
   ]
 }

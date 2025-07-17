@@ -1,0 +1,410 @@
+{
+  "runTime": 1752762404120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1278476,
+        "num": 1278476,
+        "word": "殡仪馆3500招太平间门卫要全天在岗",
+        "onboard_time": 1752758121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925368,
+        "num": 925368,
+        "word": "山姆背叛了山姆",
+        "onboard_time": 1752750682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29639,
+        "num": 865648,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 841963,
+        "num": 841963,
+        "word": "肖战直播",
+        "onboard_time": 1752753082,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479027,
+        "num": 479027,
+        "word": "谢霆锋认为比赛用火锅底料是作弊",
+        "onboard_time": 1752755183,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345879,
+        "num": 345879,
+        "word": "河南蚊子被热死",
+        "onboard_time": 1752747863,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383023,
+        "num": 345518,
+        "word": "祝绪丹回应被说装可爱",
+        "onboard_time": 1752756262,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344697,
+        "num": 344697,
+        "word": "AG对战HLE",
+        "onboard_time": 1752749002,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 271376,
+        "num": 271376,
+        "word": "奥巴马夫妇回应离婚传闻",
+        "onboard_time": 1752750682,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244522,
+        "num": 269990,
+        "word": "被家暴16次女子前婆婆被判返还91万",
+        "onboard_time": 1752760342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 971448,
+        "num": 267307,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 749379,
+        "num": 264432,
+        "word": "杭州自来水",
+        "onboard_time": 1752753382,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490817,
+        "num": 261177,
+        "word": "600分扎堆本升专",
+        "onboard_time": 1752755183,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309093,
+        "num": 258154,
+        "word": "樱桃琥珀原著 避孕药",
+        "onboard_time": 1752732322,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257533,
+        "num": 257533,
+        "word": "一国企登报喊61名职工回来上班",
+        "onboard_time": 1752757702,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239926,
+        "num": 239926,
+        "word": "爱奇艺717",
+        "onboard_time": 1752754821,
+        "rank": 15,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 233348,
+        "num": 233348,
+        "word": "十个勤天直播",
+        "onboard_time": 1752760881,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214442,
+        "num": 214442,
+        "word": "王祖贤自拍",
+        "onboard_time": 1752750861,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206298,
+        "num": 206298,
+        "word": "乐山大佛热到休假了",
+        "onboard_time": 1752748941,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200962,
+        "num": 202791,
+        "word": "武侠剧要回来了",
+        "onboard_time": 1752751824,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201632,
+        "num": 201632,
+        "word": "成都AG沙漠图吃鸡",
+        "onboard_time": 1752761242,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201125,
+        "num": 201125,
+        "word": "正确预防空调病",
+        "onboard_time": 1752756502,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188423,
+        "num": 188423,
+        "word": "AG对战TTG",
+        "onboard_time": 1752756202,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182567,
+        "num": 182567,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1752760642,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177368,
+        "num": 177368,
+        "word": "鹿晗撕拉片拍摄花絮",
+        "onboard_time": 1752758182,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 174805,
+        "num": 174805,
+        "word": "李诞喊话九转大肠不用洗太干净",
+        "onboard_time": 1752761483,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160179,
+        "num": 160179,
+        "word": "减肥 甜玉米",
+        "onboard_time": 1752743722,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148881,
+        "num": 148881,
+        "word": "李兰迪赵今麦中戏严选",
+        "onboard_time": 1752752002,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147747,
+        "num": 147747,
+        "word": "张艺凡的腿",
+        "onboard_time": 1752750202,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146776,
+        "num": 146776,
+        "word": "B萌",
+        "onboard_time": 1752761062,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144763,
+        "num": 144763,
+        "word": "连SVIP都不能听的台词出现了",
+        "onboard_time": 1752758182,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143472,
+        "num": 143472,
+        "word": "朝雪录",
+        "onboard_time": 1752750561,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143200,
+        "num": 143200,
+        "word": "永远不要失去对世界好奇的能力",
+        "onboard_time": 1752758303,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141297,
+        "num": 141297,
+        "word": "肖战战有玉",
+        "onboard_time": 1752758602,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139172,
+        "num": 139172,
+        "word": "吴磊物欲那么低",
+        "onboard_time": 1752754821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133537,
+        "num": 133537,
+        "word": "白鹿对接回应叶璃妆造争议",
+        "onboard_time": 1752755901,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133102,
+        "num": 133102,
+        "word": "广州律协通报获赔88万律师拿55万",
+        "onboard_time": 1752758423,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131687,
+        "num": 131687,
+        "word": "HLE的bp",
+        "onboard_time": 1752761662,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115852,
+        "num": 115852,
+        "word": "莫离剧方回应",
+        "onboard_time": 1752760102,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112930,
+        "num": 112930,
+        "word": "祝绪丹曾经一人闯横店",
+        "onboard_time": 1752761962,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112282,
+        "num": 112282,
+        "word": "爱康集团最新回应",
+        "onboard_time": 1752759862,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111863,
+        "num": 111863,
+        "word": "钟楚曦美的我不知天地为何物",
+        "onboard_time": 1752756682,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111795,
+        "num": 111795,
+        "word": "我用美色契约全世界",
+        "onboard_time": 1752760342,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107207,
+        "num": 107207,
+        "word": "被宋亚轩认成牛肉串的男人来厨综了",
+        "onboard_time": 1752758542,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107158,
+        "num": 107158,
+        "word": "15元一斤的贵州蔬菜沙拉",
+        "onboard_time": 1752759201,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105538,
+        "num": 105538,
+        "word": "麦当劳超大薯条",
+        "onboard_time": 1752741982,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105141,
+        "num": 105141,
+        "word": "扫毒风暴",
+        "onboard_time": 1752762203,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103759,
+        "num": 103759,
+        "word": "为什么还没入伏就这么热",
+        "onboard_time": 1752761183,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99567,
+        "num": 99567,
+        "word": "杨紫带piupiu跳手势舞",
+        "onboard_time": 1752758002,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98813,
+        "num": 98813,
+        "word": "AG领域三连暴走",
+        "onboard_time": 1752762382,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条中国特色城市现代化新路子#"
+    }
+  }
+}
