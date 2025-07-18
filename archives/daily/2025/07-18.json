@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752816772531,
+  "endTime": 1752817865991,
   "band_list": [
     {
       "raw_hot": 2306454,
@@ -28,11 +28,27 @@
     },
     {
       "raw_hot": 1197124,
-      "num": 317062,
+      "num": 317705,
       "word": "普通家庭根本没教过怎么送礼",
       "onboard_time": 1752798981,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1119693,
+      "num": 1119693,
+      "word": "千万不要在洗澡的时候哭泣",
+      "onboard_time": 1752813983,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1109432,
+      "num": 1109432,
+      "word": "杨少华遗产四个亿哥四个一人一亿",
+      "onboard_time": 1752815362,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1056038,
@@ -41,22 +57,6 @@
       "onboard_time": 1752804440,
       "rank": 23,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 889872,
-      "num": 750983,
-      "word": "杨少华遗产四个亿哥四个一人一亿",
-      "onboard_time": 1752815362,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 863552,
-      "num": 863552,
-      "word": "千万不要在洗澡的时候哭泣",
-      "onboard_time": 1752813983,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 830163,
@@ -267,11 +267,35 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 353572,
+      "num": 353572,
+      "word": "宋轶丞磊连着3天交换三餐",
+      "onboard_time": 1752815483,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 343889,
+      "num": 322132,
+      "word": "有些性骚扰是成年后才意识到的",
+      "onboard_time": 1752814762,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340106,
       "num": 340106,
       "word": "水务公司辟谣网传粪水管接错导致污水",
       "onboard_time": 1752800481,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329521,
+      "num": 329521,
+      "word": "女子被造黄谣教科书式揪出造谣者",
+      "onboard_time": 1752816081,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -283,20 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 314931,
-      "num": 314931,
-      "word": "有些性骚扰是成年后才意识到的",
-      "onboard_time": 1752814762,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306091,
       "num": 306091,
       "word": "网传赴山海将接档子夜归",
       "onboard_time": 1752801500,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305961,
+      "num": 305961,
+      "word": "恋与深空戒指",
+      "onboard_time": 1752816142,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 297229,
@@ -313,6 +337,14 @@
       "onboard_time": 1752803660,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287630,
+      "num": 287630,
+      "word": "刘慧涉嫌严重违纪违法被查",
+      "onboard_time": 1752814404,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282260,
@@ -379,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267068,
-      "num": 267068,
-      "word": "恋与深空戒指",
-      "onboard_time": 1752816142,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 266467,
       "num": 266467,
       "word": "李昀锐一把抱起周深",
@@ -417,14 +441,6 @@
       "onboard_time": 1752798082,
       "rank": 16,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 251268,
-      "num": 251268,
-      "word": "刘慧涉嫌严重违纪违法被查",
-      "onboard_time": 1752814404,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251135,
@@ -467,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239255,
-      "num": 239255,
-      "word": "宋轶丞磊连着3天交换三餐",
-      "onboard_time": 1752815483,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237184,
       "num": 154894,
       "word": "劝大家不要在互联网太暴露自己的生活",
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224043,
+      "num": 224043,
+      "word": "老年暴走团逼停救护车",
+      "onboard_time": 1752816622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223579,
       "num": 223579,
       "word": "藏海传难哄大奉打更人播放量前三",
@@ -529,6 +545,14 @@
       "onboard_time": 1752748941,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218313,
+      "num": 218313,
+      "word": "内娱神级OST上新了",
+      "onboard_time": 1752815002,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 218125,
@@ -579,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206163,
-      "num": 206163,
-      "word": "内娱神级OST上新了",
-      "onboard_time": 1752815002,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 206118,
       "num": 206118,
       "word": "打歌2025官宣定档",
@@ -633,6 +649,14 @@
       "onboard_time": 1752801561,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182999,
+      "num": 182999,
+      "word": "王一博无名重映8排5座遭抢购",
+      "onboard_time": 1752816742,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 182684,
@@ -683,20 +707,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172023,
+      "num": 172023,
+      "word": "樊振东说享受运动是体育最好的状态",
+      "onboard_time": 1752816863,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170770,
       "num": 170770,
       "word": "罗小黑",
       "onboard_time": 1752804860,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 170673,
-      "num": 170673,
-      "word": "王一博无名重映8排5座遭抢购",
-      "onboard_time": 1752816742,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 165345,
@@ -721,6 +745,14 @@
       "onboard_time": 1752808340,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163107,
+      "num": 163107,
+      "word": "张凌赫偷感最重的一集",
+      "onboard_time": 1752816681,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 162553,
@@ -803,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151693,
+      "num": 237264,
+      "word": "邓紫棋感谢陈铭",
+      "onboard_time": 1752816441,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151650,
       "num": 151650,
       "word": "一国企登报喊61名职工回来上班",
@@ -843,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148139,
+      "num": 148139,
+      "word": "这就是为什么隆重纪念抗战胜利",
+      "onboard_time": 1752816922,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146412,
       "num": 146412,
       "word": "AG对战TTG",
@@ -857,6 +905,14 @@
       "onboard_time": 1752763163,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143286,
+      "num": 143286,
+      "word": "黎深生生莫离",
+      "onboard_time": 1752816801,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 141584,
@@ -883,6 +939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137973,
+      "num": 137973,
+      "word": "长头发女孩洗头速干技巧",
+      "onboard_time": 1752817102,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 137927,
+      "num": 317950,
+      "word": "银行回应信用卡6年被收1.2万利息",
+      "onboard_time": 1752816142,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136533,
       "num": 136533,
       "word": "AG战胜HLE",
@@ -897,6 +969,14 @@
       "onboard_time": 1752814104,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132758,
+      "num": 132758,
+      "word": "南瓜的减肥动力是十个勤天",
+      "onboard_time": 1752816922,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 130392,
@@ -929,22 +1009,6 @@
       "onboard_time": 1752807081,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128819,
-      "num": 128819,
-      "word": "老年暴走团逼停救护车",
-      "onboard_time": 1752816622,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128437,
-      "num": 237264,
-      "word": "邓紫棋感谢陈铭",
-      "onboard_time": 1752816441,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 127785,
@@ -995,12 +1059,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124373,
-      "num": 124373,
-      "word": "张凌赫偷感最重的一集",
-      "onboard_time": 1752816681,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 124048,
+      "num": 124048,
+      "word": "张馨予不好意思我把蚂蚁吃掉了",
+      "onboard_time": 1752817822,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 122269,
@@ -1051,6 +1115,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120123,
+      "num": 120123,
+      "word": "敖瑞鹏怼脸镜头好权威",
+      "onboard_time": 1752816922,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118101,
+      "num": 118101,
+      "word": "六角恐龙 从买家养成了卖家",
+      "onboard_time": 1752817703,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117545,
       "num": 117545,
       "word": "宋祖儿表妹万福粉衣造型路透",
@@ -1076,7 +1156,7 @@
     },
     {
       "raw_hot": 116186,
-      "num": 238630,
+      "num": 241162,
       "word": "疑似10万级MG4将首发半固态电池",
       "onboard_time": 1752813203,
       "rank": 18,
@@ -1084,7 +1164,7 @@
     },
     {
       "raw_hot": 115617,
-      "num": 115617,
+      "num": 322644,
       "word": "深圳发布今年首个暴雨红色预警",
       "onboard_time": 1752816261,
       "rank": 47,
@@ -1300,7 +1380,7 @@
     },
     {
       "raw_hot": 90723,
-      "num": 752197,
+      "num": 1110961,
       "word": "中国航天把中式浪漫写进了宇宙",
       "onboard_time": 1752800060,
       "rank": 43,
@@ -1363,14 +1443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82469,
-      "num": 317950,
-      "word": "银行回应信用卡6年被收1.2万利息",
-      "onboard_time": 1752816142,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82338,
       "num": 82338,
       "word": "密室大逃脱大神版",
@@ -1393,14 +1465,6 @@
       "onboard_time": 1752747803,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80085,
-      "num": 232861,
-      "word": "女子被造黄谣教科书式揪出造谣者",
-      "onboard_time": 1752816081,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76587,
@@ -1611,6 +1675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36464,
+      "num": 165063,
+      "word": "丽江古城维护费该不该游客来扛",
+      "onboard_time": 1752817282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35171,
       "num": 47694,
       "word": "暑假不是用来赶进度而是追赶星星的",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1752776955,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15346,
+      "num": 113663,
+      "word": "苏超恐龙啦啦队真是太超前了",
+      "onboard_time": 1752815362,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 12140,

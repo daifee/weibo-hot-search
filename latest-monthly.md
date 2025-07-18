@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 13:32:52
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 13:51:05
 </p>
 </blockquote>
 <p>
@@ -1749,6 +1749,12 @@ TVB演员周聪去世（热度：1170482）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%B4%97%E6%BE%A1%E7%9A%84%E6%97%B6%E5%80%99%E5%93%AD%E6%B3%A3%23" target="weibo">
+千万不要在洗澡的时候哭泣（热度：1119693）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1715%E4%B8%87%E5%BB%BA%E7%89%9B%E9%83%8E%E7%BB%87%E5%A5%B3%E9%9B%95%E5%A1%91%E5%A4%9A%E4%BA%BA%E5%B7%B2%E8%8E%B7%E5%88%91%23" target="weibo">
 花715万建牛郎织女雕塑多人已获刑（热度：1118809）
 </a>
@@ -1775,6 +1781,12 @@ TVB演员周聪去世（热度：1170482）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E9%87%8E%E7%89%9B%E8%B7%8C%E5%85%A5%E6%B8%A9%E6%B3%89%E8%A2%AB%E6%B4%BB%E6%B4%BB%E7%85%AE%E6%AD%BB%23" target="weibo">
 女子拍到野牛跌入温泉被活活煮死（热度：1110085）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B0%91%E5%8D%8E%E9%81%97%E4%BA%A7%E5%9B%9B%E4%B8%AA%E4%BA%BF%E5%93%A5%E5%9B%9B%E4%B8%AA%E4%B8%80%E4%BA%BA%E4%B8%80%E4%BA%BF%23" target="weibo">
+杨少华遗产四个亿哥四个一人一亿（热度：1109432）
 </a>
 </li>
 
@@ -2583,12 +2595,6 @@ K1373次列车上砸窗男子并未被拘留（热度：901265）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B0%91%E5%8D%8E%E9%81%97%E4%BA%A7%E5%9B%9B%E4%B8%AA%E4%BA%BF%E5%93%A5%E5%9B%9B%E4%B8%AA%E4%B8%80%E4%BA%BA%E4%B8%80%E4%BA%BF%23" target="weibo">
-杨少华遗产四个亿哥四个一人一亿（热度：889872）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%BB%91%E6%95%91%E6%8A%A4%E8%BD%A6%E4%B8%8A%E6%AD%BB%E4%BA%A1%E7%88%B6%E6%AF%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
 女儿黑救护车上死亡父母发声（热度：888333）
 </a>
@@ -2723,12 +2729,6 @@ K1373次列车上砸窗男子并未被拘留（热度：901265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%AA%E7%98%AB%E5%A5%B3%E7%94%9F%E5%90%A6%E8%AE%A4%E4%B8%8E%E5%A4%9A%E4%B8%AA%E5%BC%82%E6%80%A7%E7%BB%B4%E6%8C%81%E6%9A%A7%E6%98%A7%E4%BA%92%E5%8A%A8%23" target="weibo">
 截瘫女生否认与多个异性维持暧昧互动（热度：864756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%B4%97%E6%BE%A1%E7%9A%84%E6%97%B6%E5%80%99%E5%93%AD%E6%B3%A3%23" target="weibo">
-千万不要在洗澡的时候哭泣（热度：863552）
 </a>
 </li>
 
