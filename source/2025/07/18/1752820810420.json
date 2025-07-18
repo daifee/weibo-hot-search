@@ -1,0 +1,410 @@
+{
+  "runTime": 1752820810420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1232915,
+        "num": 1232915,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 990758,
+        "num": 990758,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26547,
+        "num": 874041,
+        "word": "中国航天把中式浪漫写进了宇宙",
+        "onboard_time": 1752800060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818885,
+        "num": 818885,
+        "word": "杨少华遗产四个亿哥四个一人一亿",
+        "onboard_time": 1752815362,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690173,
+        "num": 690173,
+        "word": "老年暴走团逼停救护车",
+        "onboard_time": 1752816622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474744,
+        "num": 474744,
+        "word": "女子被造黄谣教科书式揪出造谣者",
+        "onboard_time": 1752816081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474360,
+        "num": 474360,
+        "word": "iG官宣Wei加入",
+        "onboard_time": 1752820042,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 467700,
+        "num": 467700,
+        "word": "朝雪录",
+        "onboard_time": 1752820162,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422914,
+        "num": 422914,
+        "word": "茶颜悦色被曝设计与方大同专辑相似",
+        "onboard_time": 1752813142,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308055,
+        "num": 407364,
+        "word": "小马云走红十年后现状",
+        "onboard_time": 1752820162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405523,
+        "num": 405523,
+        "word": "杨幂 支持女儿而不是控制她",
+        "onboard_time": 1752810382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347075,
+        "num": 347075,
+        "word": "刘慧涉嫌严重违纪违法被查",
+        "onboard_time": 1752814404,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332044,
+        "num": 332044,
+        "word": "偷吃吗 有点意思",
+        "onboard_time": 1752813383,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300129,
+        "num": 300129,
+        "word": "张馨予不好意思我把蚂蚁吃掉了",
+        "onboard_time": 1752817822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265791,
+        "num": 265791,
+        "word": "有些性骚扰是成年后才意识到的",
+        "onboard_time": 1752814762,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243201,
+        "num": 243201,
+        "word": "从128斤瘦到88斤的真实感受",
+        "onboard_time": 1752798801,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 217571,
+        "num": 217571,
+        "word": "恋与深空戒指",
+        "onboard_time": 1752816142,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207400,
+        "num": 207400,
+        "word": "宋轶丞磊连着3天交换三餐",
+        "onboard_time": 1752815483,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146973,
+        "num": 207380,
+        "word": "李宇春说没有保护好过去的自己",
+        "onboard_time": 1752819202,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207373,
+        "num": 207373,
+        "word": "普通家庭根本没教过怎么送礼",
+        "onboard_time": 1752798981,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189003,
+        "num": 189003,
+        "word": "内娱神级OST上新了",
+        "onboard_time": 1752815002,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186798,
+        "num": 186798,
+        "word": "朋友欠债多年不还男子气出癌症",
+        "onboard_time": 1752819622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182495,
+        "num": 182495,
+        "word": "邓紫棋感谢陈铭",
+        "onboard_time": 1752816441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158168,
+        "num": 158168,
+        "word": "张继科说给樊振东设置一分制比赛",
+        "onboard_time": 1752819261,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51963,
+        "num": 143496,
+        "word": "钟丽缇和女儿们 母系基因遗传的魅力",
+        "onboard_time": 1752819502,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140321,
+        "num": 140321,
+        "word": "黑神话悟空取景地佛像头部被刻字",
+        "onboard_time": 1752819081,
+        "rank": 25,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 140166,
+        "num": 140166,
+        "word": "网红多肉饱饱赠覃海洋名表均为假货",
+        "onboard_time": 1752804440,
+        "rank": 26,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 137953,
+        "num": 137953,
+        "word": "装修后甲醛风险最大的地方",
+        "onboard_time": 1752813442,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137820,
+        "num": 137820,
+        "word": "伊能静总算实现了一家三口的旅行",
+        "onboard_time": 1752819982,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134009,
+        "num": 134009,
+        "word": "曾舜晞直播",
+        "onboard_time": 1752818302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133226,
+        "num": 133226,
+        "word": "恋与深空",
+        "onboard_time": 1752812122,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131822,
+        "num": 131822,
+        "word": "起猛了看见梓渝教网课了",
+        "onboard_time": 1752819562,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131720,
+        "num": 131720,
+        "word": "iG jiejie",
+        "onboard_time": 1752799103,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131252,
+        "num": 131252,
+        "word": "大三男生逆天学术否认抄袭抢成果",
+        "onboard_time": 1752818541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130291,
+        "num": 130291,
+        "word": "朝雪录直播 卡",
+        "onboard_time": 1752820581,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128835,
+        "num": 130086,
+        "word": "长头发女孩洗头速干技巧",
+        "onboard_time": 1752817102,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129926,
+        "num": 129926,
+        "word": "美方应继续取消不合理对华限制",
+        "onboard_time": 1752818961,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123340,
+        "num": 123340,
+        "word": "张继科回应是否会邀请樊振东",
+        "onboard_time": 1752810561,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122661,
+        "num": 122661,
+        "word": "秦彻灵羽相契",
+        "onboard_time": 1752820342,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33334,
+        "num": 122168,
+        "word": "苏州东吴与中国香港球员米高解约",
+        "onboard_time": 1752818361,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122168,
+        "num": 122167,
+        "word": "藏海传难哄大奉打更人播放量前三",
+        "onboard_time": 1752816441,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116730,
+        "num": 119521,
+        "word": "女子朋友圈诅咒辱骂吸烟领导被辞",
+        "onboard_time": 1752813803,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117851,
+        "num": 117851,
+        "word": "深圳发布今年首个暴雨红色预警",
+        "onboard_time": 1752816261,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116387,
+        "num": 116387,
+        "word": "我都没有文化哪里来的冲突",
+        "onboard_time": 1752820281,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113384,
+        "num": 113384,
+        "word": "赵今麦这一嗓子直接戳我泪腺上了",
+        "onboard_time": 1752820462,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104653,
+        "num": 104653,
+        "word": "多肉饱饱被强制执行1661万",
+        "onboard_time": 1752819923,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100966,
+        "num": 100966,
+        "word": "扫毒风暴师父顶罪自尽",
+        "onboard_time": 1752819202,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100172,
+        "num": 100172,
+        "word": "为什么总有人在地铁上合不拢腿",
+        "onboard_time": 1752818482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99992,
+        "num": 99992,
+        "word": "在老家有钱是因为钱花不出去",
+        "onboard_time": 1752818183,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99210,
+        "num": 99210,
+        "word": "韩国大使馆回应女子在越南打人事件",
+        "onboard_time": 1752818722,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752817865991,
+  "endTime": 1752820810420,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -1563,6 +1563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 690173,
+      "num": 690173,
+      "word": "老年暴走团逼停救护车",
+      "onboard_time": 1752816622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688885,
       "num": 688885,
       "word": "hi6后期",
@@ -2571,6 +2579,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 474744,
+      "num": 474744,
+      "word": "女子被造黄谣教科书式揪出造谣者",
+      "onboard_time": 1752816081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474360,
+      "num": 474360,
+      "word": "iG官宣Wei加入",
+      "onboard_time": 1752820042,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 473073,
       "num": 272222,
       "word": "刘浩存跳舞",
@@ -2601,6 +2625,14 @@
       "onboard_time": 1752572603,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467700,
+      "num": 467700,
+      "word": "朝雪录",
+      "onboard_time": 1752383601,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 466113,
@@ -3395,14 +3427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358048,
-      "num": 358048,
-      "word": "朝雪录",
-      "onboard_time": 1752383601,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356551,
       "num": 356551,
       "word": "辱骂中国球迷的黑人球员被解约",
@@ -3513,6 +3537,14 @@
       "onboard_time": 1752750202,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347075,
+      "num": 347075,
+      "word": "刘慧涉嫌严重违纪违法被查",
+      "onboard_time": 1752814404,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346490,
@@ -3763,14 +3795,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 329521,
-      "num": 329521,
-      "word": "女子被造黄谣教科书式揪出造谣者",
-      "onboard_time": 1752816081,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327078,
       "num": 327078,
       "word": "落石砸车致司机死亡案家属提百万赔偿",
@@ -3905,6 +3929,14 @@
       "onboard_time": 1752679282,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308055,
+      "num": 407364,
+      "word": "小马云走红十年后现状",
+      "onboard_time": 1752820162,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307903,
@@ -4057,6 +4089,14 @@
       "onboard_time": 1752483742,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300129,
+      "num": 300129,
+      "word": "张馨予不好意思我把蚂蚁吃掉了",
+      "onboard_time": 1752817822,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 299196,
@@ -4257,14 +4297,6 @@
       "onboard_time": 1752721461,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287630,
-      "num": 287630,
-      "word": "刘慧涉嫌严重违纪违法被查",
-      "onboard_time": 1752814404,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286607,
@@ -5569,14 +5601,6 @@
       "onboard_time": 1752367160,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224043,
-      "num": 224043,
-      "word": "老年暴走团逼停救护车",
-      "onboard_time": 1752816622,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223579,
@@ -7299,6 +7323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186798,
+      "num": 186798,
+      "word": "朋友欠债多年不还男子气出癌症",
+      "onboard_time": 1752819622,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186760,
       "num": 186760,
       "word": "赵今麦演我人设崩塌",
@@ -7617,6 +7649,14 @@
       "onboard_time": 1752569484,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182495,
+      "num": 237264,
+      "word": "邓紫棋感谢陈铭",
+      "onboard_time": 1752816441,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 182299,
@@ -9051,6 +9091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158168,
+      "num": 158168,
+      "word": "张继科说给樊振东设置一分制比赛",
+      "onboard_time": 1752819261,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157944,
       "num": 157944,
       "word": "小狗伤心时会哞的一声哭出来",
@@ -9539,14 +9587,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151693,
-      "num": 237264,
-      "word": "邓紫棋感谢陈铭",
-      "onboard_time": 1752816441,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151665,
       "num": 171000,
       "word": "nctdream新歌音源",
@@ -9944,6 +9984,14 @@
       "word": "黄景瑜撤回一出又整一出",
       "onboard_time": 1752734540,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146973,
+      "num": 207380,
+      "word": "李宇春说没有保护好过去的自己",
+      "onboard_time": 1752819202,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -10467,6 +10515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140321,
+      "num": 140321,
+      "word": "黑神话悟空取景地佛像头部被刻字",
+      "onboard_time": 1752819081,
+      "rank": 25,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 140289,
       "num": 140289,
       "word": "拟解聘10名大学教师疑问多多",
@@ -10785,6 +10841,14 @@
       "onboard_time": 1752816142,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137820,
+      "num": 137820,
+      "word": "伊能静总算实现了一家三口的旅行",
+      "onboard_time": 1752819982,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 137766,
@@ -11139,6 +11203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 134009,
+      "num": 134009,
+      "word": "曾舜晞直播",
+      "onboard_time": 1752818302,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133956,
       "num": 133956,
       "word": "国乒女双争美国大满贯冠亚军",
@@ -11315,12 +11387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131822,
+      "num": 131822,
+      "word": "起猛了看见梓渝教网课了",
+      "onboard_time": 1752819562,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131801,
       "num": 131801,
       "word": "深圳这俩人火了",
       "onboard_time": 1752665123,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131720,
+      "num": 131720,
+      "word": "iG jiejie",
+      "onboard_time": 1752799103,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 131687,
@@ -11379,6 +11467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131252,
+      "num": 131252,
+      "word": "大三男生逆天学术否认抄袭抢成果",
+      "onboard_time": 1752818541,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131057,
       "num": 131057,
       "word": "减肥和减脂大有不同",
@@ -11427,6 +11523,14 @@
       "category": "突发/灾害,旅游"
     },
     {
+      "raw_hot": 130291,
+      "num": 130291,
+      "word": "朝雪录直播 卡",
+      "onboard_time": 1752820581,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130285,
       "num": 130285,
       "word": "AHC",
@@ -11465,6 +11569,14 @@
       "onboard_time": 1752503543,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129926,
+      "num": 129926,
+      "word": "美方应继续取消不合理对华限制",
+      "onboard_time": 1752818961,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129816,
@@ -12011,14 +12123,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 124048,
-      "num": 124048,
-      "word": "张馨予不好意思我把蚂蚁吃掉了",
-      "onboard_time": 1752817822,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123990,
       "num": 133166,
       "word": "陈都灵周翊然荡秋千路透",
@@ -12153,6 +12257,14 @@
       "onboard_time": 1752468743,
       "rank": 49,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 122661,
+      "num": 122661,
+      "word": "秦彻灵羽相契",
+      "onboard_time": 1752820342,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 122642,
@@ -12755,6 +12867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117851,
+      "num": 322644,
+      "word": "深圳发布今年首个暴雨红色预警",
+      "onboard_time": 1752816261,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117826,
       "num": 132891,
       "word": "宗馥莉陷香港杭州双线法律战争",
@@ -12899,14 +13019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116631,
-      "num": 116631,
-      "word": "iG jiejie",
-      "onboard_time": 1752799103,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116575,
       "num": 116575,
       "word": "下班偶遇流浪狗竟是走失7天爱犬",
@@ -12929,6 +13041,14 @@
       "onboard_time": 1752668484,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116387,
+      "num": 116387,
+      "word": "我都没有文化哪里来的冲突",
+      "onboard_time": 1752820281,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 116357,
@@ -13041,14 +13161,6 @@
       "onboard_time": 1752658401,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 115617,
-      "num": 322644,
-      "word": "深圳发布今年首个暴雨红色预警",
-      "onboard_time": 1752816261,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115587,
@@ -13281,6 +13393,14 @@
       "onboard_time": 1752460522,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113384,
+      "num": 113384,
+      "word": "赵今麦这一嗓子直接戳我泪腺上了",
+      "onboard_time": 1752820462,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 113347,
@@ -14155,6 +14275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104653,
+      "num": 104653,
+      "word": "多肉饱饱被强制执行1661万",
+      "onboard_time": 1752819923,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104648,
       "num": 104648,
       "word": "龚俊刘宇宁真诚才是必杀技",
@@ -14547,6 +14675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100966,
+      "num": 100966,
+      "word": "扫毒风暴师父顶罪自尽",
+      "onboard_time": 1752819202,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100785,
       "num": 209252,
       "word": "家里最易滋生霉菌的5个地方",
@@ -14595,6 +14731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100172,
+      "num": 100172,
+      "word": "为什么总有人在地铁上合不拢腿",
+      "onboard_time": 1752818482,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100148,
       "num": 100148,
       "word": "边伯贤抢票",
@@ -14609,6 +14753,14 @@
       "onboard_time": 1752716960,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99992,
+      "num": 99992,
+      "word": "在老家有钱是因为钱花不出去",
+      "onboard_time": 1752818183,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 99882,
@@ -14649,6 +14801,14 @@
       "onboard_time": 1752661101,
       "rank": 49,
       "category": "互联网,动漫"
+    },
+    {
+      "raw_hot": 99210,
+      "num": 99210,
+      "word": "韩国大使馆回应女子在越南打人事件",
+      "onboard_time": 1752818722,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99191,
@@ -16795,6 +16955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51963,
+      "num": 143496,
+      "word": "钟丽缇和女儿们 母系基因遗传的魅力",
+      "onboard_time": 1752819502,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51439,
       "num": 51439,
       "word": "当一直被喂的流浪猫看到家猫",
@@ -17425,6 +17593,14 @@
       "onboard_time": 1752390083,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33334,
+      "num": 122168,
+      "word": "苏州东吴与中国香港球员米高解约",
+      "onboard_time": 1752818361,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 33284,

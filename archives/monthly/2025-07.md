@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 13:51:05
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 14:40:10
 </p>
 </blockquote>
 <p>
@@ -3957,6 +3957,12 @@ Oakley 王楚钦（热度：694014）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B4%E6%9A%B4%E8%B5%B0%E5%9B%A2%E9%80%BC%E5%81%9C%E6%95%91%E6%8A%A4%E8%BD%A6%23" target="weibo">
+老年暴走团逼停救护车（热度：690173）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%8D%E5%87%BB%E5%B0%8F%E7%B1%B3YU7%23" target="weibo">
 特斯拉反击小米YU7（热度：689909）
 </a>
@@ -6005,12 +6011,6 @@ BoA确诊为急性骨坏死（热度：517157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%B1%B1%E4%B8%9C%E8%88%B0%E8%88%AA%E6%AF%8D%E7%BC%96%E9%98%9F%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%23" target="weibo">
 中国海军山东舰航母编队抵达香港（热度：513758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%9A%8A%E5%AD%90%E8%A2%AB%E7%83%AD%E6%AD%BB%23" target="weibo">
-河南蚊子被热死（热度：512047）
 </a>
 </li>
 
