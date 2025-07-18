@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752848862774,
+  "endTime": 1752850008043,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1378752,
-      "num": 240889,
+      "num": 282051,
       "word": "IU青龙视后",
       "onboard_time": 1752847109,
       "rank": 10,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679236,
+      "num": 679236,
+      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+      "onboard_time": 1752845487,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678196,
       "num": 956445,
       "word": "杜淳妻子聊名媛培训班",
@@ -361,14 +369,6 @@
       "onboard_time": 1752830302,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 658241,
-      "num": 658241,
-      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
-      "onboard_time": 1752845487,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 631253,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 528275,
-      "num": 208782,
+      "num": 213347,
       "word": "翟潇闻回应",
       "onboard_time": 1752845306,
       "rank": 32,
@@ -811,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293491,
+      "num": 293491,
+      "word": "李隼谈曾罚孙颖莎一万米",
+      "onboard_time": 1752848427,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292642,
       "num": 292642,
       "word": "王嘉尔 专辑已经出了我自己都不知道",
@@ -833,6 +841,14 @@
       "onboard_time": 1752750682,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281553,
+      "num": 189461,
+      "word": "杨幂cha万物生",
+      "onboard_time": 1752847168,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 281281,
@@ -872,14 +888,6 @@
       "word": "歌手顺序",
       "onboard_time": 1752841105,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 275380,
-      "num": 148077,
-      "word": "杨幂cha万物生",
-      "onboard_time": 1752847168,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -969,6 +977,14 @@
       "onboard_time": 1752829641,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262070,
+      "num": 262070,
+      "word": "杭州自来水异味事后免单不代表免责",
+      "onboard_time": 1752846387,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 261281,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1752766941,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224667,
+      "num": 224667,
+      "word": "陈哲远真没破防吗",
+      "onboard_time": 1752846747,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 224539,
@@ -1387,14 +1411,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 199896,
-      "num": 160458,
-      "word": "陈哲远真没破防吗",
-      "onboard_time": 1752846747,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199721,
       "num": 199721,
       "word": "宋轶一口气吃21块炸鸡",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1752843806,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192547,
+      "num": 145886,
+      "word": "青龙奖人气奖大乌龙",
+      "onboard_time": 1752848486,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 190016,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1752831741,
       "rank": 27,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 179834,
+      "num": 179834,
+      "word": "余杭自来水",
+      "onboard_time": 1752849385,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179614,
@@ -1683,12 +1715,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165580,
-      "num": 165580,
-      "word": "李隼谈曾罚孙颖莎一万米",
-      "onboard_time": 1752848427,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 165488,
+      "num": 292091,
+      "word": "爱康称经专家评估确认无责",
+      "onboard_time": 1752849085,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165345,
@@ -1755,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162338,
-      "num": 142329,
-      "word": "青龙奖人气奖大乌龙",
-      "onboard_time": 1752848486,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161698,
       "num": 161698,
       "word": "老外看病被叫号有多尴尬",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1752831141,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160921,
+      "num": 145696,
+      "word": "李光洙感谢都暻秀",
+      "onboard_time": 1752849324,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 160696,
@@ -1873,6 +1905,14 @@
       "onboard_time": 1752818961,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154963,
+      "num": 145671,
+      "word": "鹿晗接歌唱勋章",
+      "onboard_time": 1752849566,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 151650,
@@ -2019,20 +2059,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146035,
+      "num": 146035,
+      "word": "男子背痛硬扛3天心肌大面积坏死",
+      "onboard_time": 1752847887,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145980,
       "num": 145980,
       "word": "邓为戏服",
       "onboard_time": 1752763163,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145292,
-      "num": 188318,
-      "word": "杭州自来水异味事后免单不代表免责",
-      "onboard_time": 1752846387,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 143286,
@@ -2243,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129453,
+      "num": 144167,
+      "word": "特朗普被拍到脚踝肿胀",
+      "onboard_time": 1752848246,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129396,
       "num": 129396,
       "word": "蔡徐坤新发色",
@@ -2305,14 +2353,6 @@
       "onboard_time": 1752828140,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128238,
-      "num": 144668,
-      "word": "男子背痛硬扛3天心肌大面积坏死",
-      "onboard_time": 1752847887,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128028,
@@ -2417,6 +2457,14 @@
       "onboard_time": 1752838283,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124380,
+      "num": 124380,
+      "word": "爱康发声明称确认无责",
+      "onboard_time": 1752849805,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123835,
@@ -2625,14 +2673,6 @@
       "onboard_time": 1752824243,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116857,
-      "num": 144167,
-      "word": "特朗普被拍到脚踝肿胀",
-      "onboard_time": 1752848246,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116722,
@@ -3363,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75848,
+      "num": 184107,
+      "word": "男子与同事午休打球猝死不算工伤",
+      "onboard_time": 1752849085,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75651,
       "num": 181439,
       "word": "杭州水务公司回应仍有黄色痕迹",
@@ -3571,6 +3619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47358,
+      "num": 145822,
+      "word": "原神兑换码",
+      "onboard_time": 1752846265,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46974,
       "num": 46974,
       "word": "一碗面让老外觉得不会用筷子丢人",
@@ -3729,6 +3785,14 @@
       "onboard_time": 1752831141,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 27196,
+      "num": 145941,
+      "word": "俄男性平均年龄低于女性的原因",
+      "onboard_time": 1752849923,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25577,

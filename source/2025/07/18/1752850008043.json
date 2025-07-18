@@ -1,0 +1,410 @@
+{
+  "runTime": 1752850008043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6980601,
+        "num": 6980601,
+        "word": "歌手排名",
+        "onboard_time": 1752846689,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4550438,
+        "num": 4550438,
+        "word": "ALin秒了",
+        "onboard_time": 1752845246,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78,
+        "num": 2208752,
+        "word": "00后卢沟桥唱如愿告慰抗战先烈",
+        "onboard_time": 1752846087,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 859083,
+        "num": 859083,
+        "word": "市监总局约谈饿了么美团京东",
+        "onboard_time": 1752843865,
+        "rank": 3,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 679236,
+        "num": 679236,
+        "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+        "onboard_time": 1752845487,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311335,
+        "num": 311335,
+        "word": "韩国女生独自吃饭被赶出餐厅",
+        "onboard_time": 1752839664,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1830350,
+        "num": 309016,
+        "word": "GAI淘汰",
+        "onboard_time": 1752847349,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1767755,
+        "num": 305350,
+        "word": "ALin念肖战",
+        "onboard_time": 1752846987,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293491,
+        "num": 293491,
+        "word": "李隼谈曾罚孙颖莎一万米",
+        "onboard_time": 1752848427,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165488,
+        "num": 292091,
+        "word": "爱康称经专家评估确认无责",
+        "onboard_time": 1752849085,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1159277,
+        "num": 282051,
+        "word": "IU青龙视后",
+        "onboard_time": 1752847109,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 836150,
+        "num": 276352,
+        "word": "单依纯 唱法",
+        "onboard_time": 1752841705,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6362665,
+        "num": 6362665,
+        "word": "肖战微博改名",
+        "onboard_time": 1752837081,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595820,
+        "num": 262154,
+        "word": "Jennie删掉和朴彩英的合照",
+        "onboard_time": 1752834741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262070,
+        "num": 262070,
+        "word": "杭州自来水异味事后免单不代表免责",
+        "onboard_time": 1752846387,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 575495,
+        "num": 257762,
+        "word": "X玖少年团发文",
+        "onboard_time": 1752841825,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236291,
+        "num": 236291,
+        "word": "韦世豪红牌",
+        "onboard_time": 1752846507,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225359,
+        "num": 225359,
+        "word": "孙颖莎被印在了EMS录取通知书封面",
+        "onboard_time": 1752843264,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224667,
+        "num": 224667,
+        "word": "陈哲远真没破防吗",
+        "onboard_time": 1752846747,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213924,
+        "num": 213924,
+        "word": "从穷小子到资产上亿的逆袭人生",
+        "onboard_time": 1752838883,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473768,
+        "num": 213347,
+        "word": "翟潇闻回应",
+        "onboard_time": 1752845306,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454169,
+        "num": 207575,
+        "word": "林志炫 太难唱了",
+        "onboard_time": 1752842305,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426727,
+        "num": 201398,
+        "word": "海泉揭榜",
+        "onboard_time": 1752847647,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351204,
+        "num": 195379,
+        "word": "GAI又不想走了",
+        "onboard_time": 1752844164,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193669,
+        "num": 193669,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306306,
+        "num": 192977,
+        "word": "歌手直播",
+        "onboard_time": 1752837744,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284402,
+        "num": 190069,
+        "word": "李佳薇 好听",
+        "onboard_time": 1752841163,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281553,
+        "num": 189461,
+        "word": "杨幂cha万物生",
+        "onboard_time": 1752847168,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272064,
+        "num": 187105,
+        "word": "短剧版山河令有内味了",
+        "onboard_time": 1752834262,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75848,
+        "num": 184107,
+        "word": "男子与同事午休打球猝死不算工伤",
+        "onboard_time": 1752849085,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231236,
+        "num": 182071,
+        "word": "IU好美",
+        "onboard_time": 1752841883,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229209,
+        "num": 180887,
+        "word": "UNIQ",
+        "onboard_time": 1752840923,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179834,
+        "num": 179834,
+        "word": "余杭自来水",
+        "onboard_time": 1752849385,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168527,
+        "num": 168527,
+        "word": "田志希官宣怀孕",
+        "onboard_time": 1752841944,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146035,
+        "num": 146035,
+        "word": "男子背痛硬扛3天心肌大面积坏死",
+        "onboard_time": 1752847887,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204033,
+        "num": 146001,
+        "word": "陈情令",
+        "onboard_time": 1752840504,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198003,
+        "num": 145971,
+        "word": "何老师哽咽了",
+        "onboard_time": 1752843084,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27196,
+        "num": 145941,
+        "word": "俄男性平均年龄低于女性的原因",
+        "onboard_time": 1752849923,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192547,
+        "num": 145886,
+        "word": "青龙奖人气奖大乌龙",
+        "onboard_time": 1752848486,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47358,
+        "num": 145822,
+        "word": "原神兑换码",
+        "onboard_time": 1752846265,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182051,
+        "num": 145776,
+        "word": "陈楚生开大了",
+        "onboard_time": 1752845306,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174176,
+        "num": 145745,
+        "word": "黄誉博切错号了",
+        "onboard_time": 1752846206,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160921,
+        "num": 145696,
+        "word": "李光洙感谢都暻秀",
+        "onboard_time": 1752849324,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154963,
+        "num": 145671,
+        "word": "鹿晗接歌唱勋章",
+        "onboard_time": 1752849566,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151411,
+        "num": 145595,
+        "word": "夏之光改前缀",
+        "onboard_time": 1752833721,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145585,
+        "num": 145585,
+        "word": "X玖少年团内娱时间最长限定团",
+        "onboard_time": 1752844886,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132718,
+        "num": 132718,
+        "word": "杨幂不带小糯米上节目的原因",
+        "onboard_time": 1752837142,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129453,
+        "num": 129453,
+        "word": "特朗普被拍到脚踝肿胀",
+        "onboard_time": 1752848246,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127151,
+        "num": 127151,
+        "word": "年轻人开始卡bug上四休三了",
+        "onboard_time": 1752840024,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124380,
+        "num": 124380,
+        "word": "爱康发声明称确认无责",
+        "onboard_time": 1752849805,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#万里行程映初心#"
+    }
+  }
+}
