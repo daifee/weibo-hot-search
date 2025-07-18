@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752834632138,
+  "endTime": 1752835755586,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -129,6 +129,14 @@
       "onboard_time": 1751784562,
       "rank": 10,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 4040259,
+      "num": 261076,
+      "word": "X玖少年团成员去前缀",
+      "onboard_time": 1752833960,
+      "rank": 10,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 3968193,
@@ -979,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1589798,
+      "num": 247897,
+      "word": "肖战X玖最后一位少年",
+      "onboard_time": 1752835340,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1587132,
       "num": 1587132,
       "word": "鞠婧祎摔得好重",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1752590484,
       "rank": 14,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 1382630,
-      "num": 261076,
-      "word": "X玖少年团成员去前缀",
-      "onboard_time": 1752833960,
-      "rank": 10,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1382487,
@@ -5619,6 +5627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 672568,
+      "num": 248319,
+      "word": "Jennie删掉和朴彩英的合照",
+      "onboard_time": 1752834741,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 671854,
       "num": 532456,
       "word": "横店女明星热得命好苦的样子",
@@ -9569,6 +9585,14 @@
       "onboard_time": 1752500964,
       "rank": 30,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 442897,
+      "num": 253883,
+      "word": "X玖少年团",
+      "onboard_time": 1752834021,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 442889,
@@ -14483,14 +14507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 292451,
-      "num": 253883,
-      "word": "X玖少年团",
-      "onboard_time": 1752834021,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292415,
       "num": 292415,
       "word": "上半年全国居民人均可支配收入21840元",
@@ -15545,6 +15561,14 @@
       "onboard_time": 1751646861,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272829,
+      "num": 272829,
+      "word": "肖战藏海传上半年全网正片播放量冠军",
+      "onboard_time": 1752812902,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 272813,
@@ -16675,6 +16699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255653,
+      "num": 255653,
+      "word": "易烊千玺真的去看Eason哥了",
+      "onboard_time": 1752834262,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255637,
       "num": 292065,
       "word": "海拉尔地震",
@@ -16825,14 +16857,6 @@
       "onboard_time": 1751799081,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 253630,
-      "num": 253630,
-      "word": "肖战藏海传上半年全网正片播放量冠军",
-      "onboard_time": 1752812902,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 253483,
@@ -17969,6 +17993,14 @@
       "onboard_time": 1751730744,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 236005,
+      "num": 236005,
+      "word": "短剧版山河令有内味了",
+      "onboard_time": 1752834262,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 235883,
@@ -21123,6 +21155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205422,
+      "num": 205422,
+      "word": "赵露思ELLE水下封面",
+      "onboard_time": 1752834200,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205301,
       "num": 205301,
       "word": "雀骨",
@@ -21881,14 +21921,6 @@
       "onboard_time": 1751809583,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201365,
-      "num": 201365,
-      "word": "赵露思ELLE水下封面",
-      "onboard_time": 1752834200,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201364,
@@ -26515,6 +26547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176583,
+      "num": 235687,
+      "word": "免费领鸡蛋骗走244亿养老钱",
+      "onboard_time": 1752834622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176572,
       "num": 176572,
       "word": "一个月4000块好挣吗",
@@ -27659,6 +27699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171825,
+      "num": 171825,
+      "word": "林志炫选择冲榜单依纯",
+      "onboard_time": 1752835161,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171790,
       "num": 171790,
       "word": "Chovy获得FMVP",
@@ -28105,14 +28153,6 @@
       "onboard_time": 1751798783,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169156,
-      "num": 182267,
-      "word": "易烊千玺真的去看Eason哥了",
-      "onboard_time": 1752834262,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 169155,
@@ -31833,14 +31873,6 @@
       "onboard_time": 1752563842,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152835,
-      "num": 152835,
-      "word": "短剧版山河令有内味了",
-      "onboard_time": 1752834262,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 152682,
@@ -37852,7 +37884,7 @@
     },
     {
       "raw_hot": 132589,
-      "num": 132589,
+      "num": 213759,
       "word": "伞兵为多肉庆生",
       "onboard_time": 1752833661,
       "rank": 41,
@@ -38721,6 +38753,14 @@
       "onboard_time": 1752503543,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130068,
+      "num": 130068,
+      "word": "宇树科技开启上市辅导",
+      "onboard_time": 1752834862,
+      "rank": 32,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 130031,
@@ -43923,6 +43963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115597,
+      "num": 115597,
+      "word": "利剑玫瑰看片repo",
+      "onboard_time": 1752834681,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115587,
       "num": 115587,
       "word": "这种胃癌偏爱年轻人",
@@ -44468,7 +44516,7 @@
     },
     {
       "raw_hot": 113965,
-      "num": 113965,
+      "num": 254689,
       "word": "居民称自来水不臭了都是杂质",
       "onboard_time": 1752833420,
       "rank": 43,
@@ -51979,6 +52027,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83731,
+      "num": 83731,
+      "word": "中国新能源车全球实力圈粉",
+      "onboard_time": 1752835642,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 83726,
+      "num": 83726,
+      "word": "当地回应赤脚医生过铁索桥坠亡",
+      "onboard_time": 1752835642,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83644,
       "num": 83644,
       "word": "前阿森纳球员托马斯被控强奸和性侵",
@@ -52417,6 +52481,14 @@
       "onboard_time": 1751269280,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80902,
+      "num": 110165,
+      "word": "外国网红测试中国男人",
+      "onboard_time": 1752835642,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80851,
@@ -57265,6 +57337,14 @@
       "onboard_time": 1752206483,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41847,
+      "num": 235460,
+      "word": "北工大回应挖煤小伙逆袭成博士",
+      "onboard_time": 1752834681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41800,

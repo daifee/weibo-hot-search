@@ -1,7 +1,15 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752834632138,
+  "endTime": 1752835755586,
   "band_list": [
+    {
+      "raw_hot": 4040259,
+      "num": 261076,
+      "word": "X玖少年团成员去前缀",
+      "onboard_time": 1752833960,
+      "rank": 10,
+      "category": "综艺,艺人"
+    },
     {
       "raw_hot": 2306454,
       "num": 2306454,
@@ -9,6 +17,14 @@
       "onboard_time": 1752811702,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1589798,
+      "num": 247897,
+      "word": "肖战X玖最后一位少年",
+      "onboard_time": 1752835340,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1547633,
@@ -25,14 +41,6 @@
       "onboard_time": 1752820162,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1382630,
-      "num": 261076,
-      "word": "X玖少年团成员去前缀",
-      "onboard_time": 1752833960,
-      "rank": 10,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 1317461,
@@ -211,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 672568,
+      "num": 248319,
+      "word": "Jennie删掉和朴彩英的合照",
+      "onboard_time": 1752834741,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619446,
       "num": 556002,
       "word": "黄轩女友晒照",
@@ -361,6 +377,14 @@
       "onboard_time": 1752826882,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 442897,
+      "num": 253883,
+      "word": "X玖少年团",
+      "onboard_time": 1752834021,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 420505,
@@ -555,14 +579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 292451,
-      "num": 253883,
-      "word": "X玖少年团",
-      "onboard_time": 1752834021,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282260,
       "num": 282260,
       "word": "山姆背叛了山姆",
@@ -600,6 +616,14 @@
       "word": "虞书欣说不会为了转型而转型",
       "onboard_time": 1752807022,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272829,
+      "num": 272829,
+      "word": "肖战藏海传上半年全网正片播放量冠军",
+      "onboard_time": 1752812902,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -667,20 +691,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255653,
+      "num": 255653,
+      "word": "易烊千玺真的去看Eason哥了",
+      "onboard_time": 1752834262,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254774,
       "num": 254774,
       "word": "上海暴雨",
       "onboard_time": 1752764243,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253630,
-      "num": 253630,
-      "word": "肖战藏海传上半年全网正片播放量冠军",
-      "onboard_time": 1752812902,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 253413,
@@ -761,6 +785,14 @@
       "onboard_time": 1752793998,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236005,
+      "num": 236005,
+      "word": "短剧版山河令有内味了",
+      "onboard_time": 1752834262,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 234777,
@@ -931,20 +963,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205422,
+      "num": 205422,
+      "word": "赵露思ELLE水下封面",
+      "onboard_time": 1752834200,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 202491,
       "num": 202491,
       "word": "吃不完的荔枝可以冻起来",
       "onboard_time": 1752824243,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 201365,
-      "num": 201365,
-      "word": "赵露思ELLE水下封面",
-      "onboard_time": 1752834200,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200583,
@@ -1083,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176583,
+      "num": 235687,
+      "word": "免费领鸡蛋骗走244亿养老钱",
+      "onboard_time": 1752834622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174993,
       "num": 174993,
       "word": "韩国学霸没偷来试卷后数学考40分",
@@ -1131,20 +1171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171825,
+      "num": 171825,
+      "word": "林志炫选择冲榜单依纯",
+      "onboard_time": 1752835161,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170770,
       "num": 170770,
       "word": "罗小黑",
       "onboard_time": 1752804860,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169156,
-      "num": 182267,
-      "word": "易烊千玺真的去看Eason哥了",
-      "onboard_time": 1752834262,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 165345,
@@ -1313,14 +1353,6 @@
       "onboard_time": 1752818961,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 152835,
-      "num": 152835,
-      "word": "短剧版山河令有内味了",
-      "onboard_time": 1752834262,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 151650,
@@ -1564,7 +1596,7 @@
     },
     {
       "raw_hot": 132589,
-      "num": 132589,
+      "num": 213759,
       "word": "伞兵为多肉庆生",
       "onboard_time": 1752833661,
       "rank": 41,
@@ -1633,6 +1665,14 @@
       "onboard_time": 1752833661,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130068,
+      "num": 130068,
+      "word": "宇树科技开启上市辅导",
+      "onboard_time": 1752834862,
+      "rank": 32,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 129396,
@@ -2003,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115597,
+      "num": 115597,
+      "word": "利剑玫瑰看片repo",
+      "onboard_time": 1752834681,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114367,
       "num": 114367,
       "word": "第一批回家的大学生已经失去新鲜感了",
@@ -2012,7 +2060,7 @@
     },
     {
       "raw_hot": 113965,
-      "num": 113965,
+      "num": 254689,
       "word": "居民称自来水不臭了都是杂质",
       "onboard_time": 1752833420,
       "rank": 43,
@@ -2443,6 +2491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83731,
+      "num": 83731,
+      "word": "中国新能源车全球实力圈粉",
+      "onboard_time": 1752835642,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 83726,
+      "num": 83726,
+      "word": "当地回应赤脚医生过铁索桥坠亡",
+      "onboard_time": 1752835642,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83572,
       "num": 99216,
       "word": "韩国多地破纪录暴雨已致4死",
@@ -2497,6 +2561,14 @@
       "onboard_time": 1752747803,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80902,
+      "num": 110165,
+      "word": "外国网红测试中国男人",
+      "onboard_time": 1752835642,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76587,
@@ -2720,6 +2792,14 @@
       "word": "宗庆后继承案信托是否有效成关键",
       "onboard_time": 1752770119,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41847,
+      "num": 235460,
+      "word": "北工大回应挖煤小伙逆袭成博士",
+      "onboard_time": 1752834681,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
