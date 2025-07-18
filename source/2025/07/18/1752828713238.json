@@ -1,0 +1,410 @@
+{
+  "runTime": 1752828713238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920786,
+        "num": 1147325,
+        "word": "英国五年内诞生8名三亲婴儿",
+        "onboard_time": 1752823401,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 679006,
+        "num": 679006,
+        "word": "派出所回应暴走团占道逼停120和119",
+        "onboard_time": 1752823401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17821,
+        "num": 646264,
+        "word": "中国航天把中式浪漫写进了宇宙",
+        "onboard_time": 1752800060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641525,
+        "num": 641525,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 579857,
+        "num": 579857,
+        "word": "孙俪怎么偷偷美成这样",
+        "onboard_time": 1752823281,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478420,
+        "num": 478420,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551650,
+        "num": 407560,
+        "word": "时代少年团空降",
+        "onboard_time": 1752824662,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525353,
+        "num": 376494,
+        "word": "黄轩女友晒照",
+        "onboard_time": 1752825142,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214082,
+        "num": 214082,
+        "word": "杭州臭味自来水",
+        "onboard_time": 1752827540,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76041,
+        "num": 212472,
+        "word": "景区回应四门塔隋代佛头被刻字",
+        "onboard_time": 1752826340,
+        "rank": 9,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 776509,
+        "num": 208283,
+        "word": "月薪5w是什么概念",
+        "onboard_time": 1752823702,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 660206,
+        "num": 205585,
+        "word": "一栗莎子瘦了37斤",
+        "onboard_time": 1752823762,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 529757,
+        "num": 200906,
+        "word": "中国乒乓变中国兵乓",
+        "onboard_time": 1752827242,
+        "rank": 12,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 376850,
+        "num": 197682,
+        "word": "田栩宁打招呼手腕不动手指动",
+        "onboard_time": 1752823462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197213,
+        "num": 197213,
+        "word": "女子被造黄谣教科书式揪出造谣者",
+        "onboard_time": 1752816081,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307023,
+        "num": 194753,
+        "word": "黄子韬抱很紧 徐艺洋想报警",
+        "onboard_time": 1752826822,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236805,
+        "num": 185621,
+        "word": "领导让联系王安宇真就联系到了",
+        "onboard_time": 1752827182,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 214161,
+        "num": 171054,
+        "word": "杨紫李现秋千吻亲了十次",
+        "onboard_time": 1752828262,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147723,
+        "num": 147723,
+        "word": "iG官宣Wei加入",
+        "onboard_time": 1752820042,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46668,
+        "num": 147567,
+        "word": "敖瑞鹏跳舞水平终于进步了",
+        "onboard_time": 1752825441,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200489,
+        "num": 147379,
+        "word": "虞书欣王鹤棣包场苍兰诀2动画",
+        "onboard_time": 1752823820,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162486,
+        "num": 147122,
+        "word": "余承恩朝雪录出场镜头",
+        "onboard_time": 1752826941,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149283,
+        "num": 146879,
+        "word": "梓渝cha九万字",
+        "onboard_time": 1752821840,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153108,
+        "num": 146569,
+        "word": "朝雪录",
+        "onboard_time": 1752820162,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146542,
+        "num": 146542,
+        "word": "米画师崩了",
+        "onboard_time": 1752828383,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143010,
+        "num": 143010,
+        "word": "林依晨二胎满月",
+        "onboard_time": 1752824901,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137403,
+        "num": 137403,
+        "word": "Coldplay下场演出将提供无摄像头观众区",
+        "onboard_time": 1752826521,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135183,
+        "num": 135183,
+        "word": "韩国学霸没偷来试卷后数学考40分",
+        "onboard_time": 1752822142,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105194,
+        "num": 128867,
+        "word": "5G移动电话用户普及率超79%",
+        "onboard_time": 1752825502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62823,
+        "num": 128520,
+        "word": "父母送的玩具枪走火致女儿角膜穿孔",
+        "onboard_time": 1752828140,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222235,
+        "num": 128510,
+        "word": "30岁戴2年牙套的后遗症",
+        "onboard_time": 1752826882,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128492,
+        "num": 128492,
+        "word": "驯服爱欲",
+        "onboard_time": 1752828140,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126450,
+        "num": 126450,
+        "word": "微信安卓安装包出现5处fxxk",
+        "onboard_time": 1752826882,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106543,
+        "num": 106543,
+        "word": "吃不完的荔枝可以冻起来",
+        "onboard_time": 1752824243,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104187,
+        "num": 104187,
+        "word": "鹿晗抱着熊猫逛成都",
+        "onboard_time": 1752825802,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99938,
+        "num": 99938,
+        "word": "工资来了又好像没来过",
+        "onboard_time": 1752822681,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82573,
+        "num": 98453,
+        "word": "挖到了pdd15元的报恩防晒伞",
+        "onboard_time": 1752828682,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98422,
+        "num": 98422,
+        "word": "明星同款低卡餐到底好不好吃",
+        "onboard_time": 1752827422,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94213,
+        "num": 94213,
+        "word": "樊振东与主持人可爱互动",
+        "onboard_time": 1752827842,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53397,
+        "num": 94123,
+        "word": "Wei回应加入iG",
+        "onboard_time": 1752827780,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29020,
+        "num": 94079,
+        "word": "MG高管说定价就抄不敢提的品牌",
+        "onboard_time": 1752827062,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94060,
+        "num": 94060,
+        "word": "好小众的联系方式",
+        "onboard_time": 1752825384,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94004,
+        "num": 94004,
+        "word": "妈妈的微信里只有38个人",
+        "onboard_time": 1752828622,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88709,
+        "num": 92982,
+        "word": "宋轶一口气吃21块炸鸡",
+        "onboard_time": 1752822142,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88487,
+        "num": 92715,
+        "word": "老年暴走团逼停救护车",
+        "onboard_time": 1752816622,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92493,
+        "num": 92493,
+        "word": "恋与深空戒指",
+        "onboard_time": 1752816142,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89540,
+        "num": 89540,
+        "word": "内娱最适合牛马的综艺来了",
+        "onboard_time": 1752827422,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86702,
+        "num": 86702,
+        "word": "白俄罗斯哈韩情况严重",
+        "onboard_time": 1752826941,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86705,
+        "num": 85874,
+        "word": "杨幂 支持女儿而不是控制她",
+        "onboard_time": 1752810382,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84933,
+        "num": 84933,
+        "word": "有些性骚扰是成年后才意识到的",
+        "onboard_time": 1752814762,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}

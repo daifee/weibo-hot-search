@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752827798496,
+  "endTime": 1752828713238,
   "band_list": [
     {
       "raw_hot": 2306454,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 551650,
+      "num": 488370,
+      "word": "时代少年团空降",
+      "onboard_time": 1752824662,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545570,
       "num": 545570,
       "word": "美国游客在意大利被割喉抢劫",
@@ -209,6 +217,14 @@
       "onboard_time": 1752816081,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529757,
+      "num": 200906,
+      "word": "中国乒乓变中国兵乓",
+      "onboard_time": 1752827242,
+      "rank": 30,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 526193,
@@ -265,14 +281,6 @@
       "onboard_time": 1752750561,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 488370,
-      "num": 488370,
-      "word": "时代少年团空降",
-      "onboard_time": 1752824662,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 484338,
@@ -425,6 +433,14 @@
       "onboard_time": 1752765263,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307023,
+      "num": 243121,
+      "word": "黄子韬抱很紧 徐艺洋想报警",
+      "onboard_time": 1752826822,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 306091,
@@ -611,28 +627,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243253,
-      "num": 128855,
-      "word": "中国乒乓变中国兵乓",
-      "onboard_time": 1752827242,
-      "rank": 30,
-      "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 243121,
-      "num": 243121,
-      "word": "黄子韬抱很紧 徐艺洋想报警",
-      "onboard_time": 1752826822,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237184,
       "num": 154894,
       "word": "劝大家不要在互联网太暴露自己的生活",
       "onboard_time": 1752793998,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236805,
+      "num": 185621,
+      "word": "领导让联系王安宇真就联系到了",
+      "onboard_time": 1752827182,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 234777,
@@ -683,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222235,
+      "num": 128510,
+      "word": "30岁戴2年牙套的后遗症",
+      "onboard_time": 1752826882,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221115,
       "num": 221115,
       "word": "乐山大佛热到休假了",
@@ -721,6 +737,22 @@
       "onboard_time": 1752819982,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214161,
+      "num": 171054,
+      "word": "杨紫李现秋千吻亲了十次",
+      "onboard_time": 1752828262,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214082,
+      "num": 214082,
+      "word": "杭州臭味自来水",
+      "onboard_time": 1752827540,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212309,
@@ -779,6 +811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 200489,
+      "num": 191414,
+      "word": "虞书欣王鹤棣包场苍兰诀2动画",
+      "onboard_time": 1752823820,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199905,
       "num": 199905,
       "word": "龙族",
@@ -835,14 +875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 192536,
-      "num": 191414,
-      "word": "虞书欣王鹤棣包场苍兰诀2动画",
-      "onboard_time": 1752823820,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190016,
       "num": 129043,
       "word": "殡仪馆3500招太平间门卫要全天在岗",
@@ -857,14 +889,6 @@
       "onboard_time": 1752822441,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188130,
-      "num": 162253,
-      "word": "领导让联系王安宇真就联系到了",
-      "onboard_time": 1752827182,
-      "rank": 21,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 183363,
@@ -1099,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154072,
-      "num": 128476,
-      "word": "30岁戴2年牙套的后遗症",
-      "onboard_time": 1752826882,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151831,
       "num": 151831,
       "word": "Coldplay下场演出将提供无摄像头观众区",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1752819202,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146542,
+      "num": 146542,
+      "word": "米画师崩了",
+      "onboard_time": 1752828383,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 146412,
@@ -1416,6 +1440,14 @@
       "word": "王源 录歌到天亮",
       "onboard_time": 1752807081,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 128492,
+      "num": 128492,
+      "word": "驯服爱欲",
+      "onboard_time": 1752828140,
+      "rank": 31,
       "category": "音乐"
     },
     {
@@ -1699,14 +1731,6 @@
       "category": "互联网,作品衍生"
     },
     {
-      "raw_hot": 110007,
-      "num": 110007,
-      "word": "杭州臭味自来水",
-      "onboard_time": 1752827540,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109312,
       "num": 109312,
       "word": "歌红人不红歌手合体出专辑了",
@@ -1939,6 +1963,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94213,
+      "num": 94213,
+      "word": "樊振东与主持人可爱互动",
+      "onboard_time": 1752827842,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94004,
+      "num": 94004,
+      "word": "妈妈的微信里只有38个人",
+      "onboard_time": 1752828622,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93853,
       "num": 93853,
       "word": "英伟达市值超日本GDP",
@@ -2043,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82573,
+      "num": 98453,
+      "word": "挖到了pdd15元的报恩防晒伞",
+      "onboard_time": 1752828682,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82338,
       "num": 82338,
       "word": "密室大逃脱大神版",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1752794538,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62823,
+      "num": 128520,
+      "word": "父母送的玩具枪走火致女儿角膜穿孔",
+      "onboard_time": 1752828140,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62486,
@@ -2179,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53397,
+      "num": 104438,
+      "word": "Wei回应加入iG",
+      "onboard_time": 1752827780,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52903,
       "num": 71089,
       "word": "高温补贴",
@@ -2249,6 +2313,14 @@
       "onboard_time": 1752784034,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46668,
+      "num": 147567,
+      "word": "敖瑞鹏跳舞水平终于进步了",
+      "onboard_time": 1752825441,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 45634,
@@ -2433,14 +2505,6 @@
       "onboard_time": 1752816382,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16053,
-      "num": 104438,
-      "word": "Wei回应加入iG",
-      "onboard_time": 1752827780,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 15346,
