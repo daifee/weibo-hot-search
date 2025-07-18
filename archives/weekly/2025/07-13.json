@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752846135308,
+  "endTime": 1752846937462,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -35,8 +35,8 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 5148522,
-      "num": 5148522,
+      "raw_hot": 5978986,
+      "num": 5978986,
       "word": "ALin秒了",
       "onboard_time": 1752845246,
       "rank": 0,
@@ -176,6 +176,14 @@
       "word": "林志炫 太难唱了",
       "onboard_time": 1752842305,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1842353,
+      "num": 1842353,
+      "word": "歌手排名",
+      "onboard_time": 1752846689,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1752646042,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1358732,
+      "num": 441909,
+      "word": "歌手直播",
+      "onboard_time": 1752837744,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 1354339,
@@ -729,14 +745,6 @@
       "onboard_time": 1752459141,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1142800,
-      "num": 321043,
-      "word": "歌手直播",
-      "onboard_time": 1752837744,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 1140129,
@@ -1995,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631253,
+      "num": 212093,
+      "word": "何老师哽咽了",
+      "onboard_time": 1752843084,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 627737,
       "num": 627737,
       "word": "外卖大战有人65元搞定一周伙食",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1752643281,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 618067,
-      "num": 207369,
-      "word": "何老师哽咽了",
-      "onboard_time": 1752843084,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 617838,
@@ -2292,7 +2300,7 @@
     },
     {
       "raw_hot": 558563,
-      "num": 190774,
+      "num": 212051,
       "word": "陈楚生开大了",
       "onboard_time": 1752845306,
       "rank": 23,
@@ -2443,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540795,
+      "num": 540795,
+      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+      "onboard_time": 1752845487,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538600,
       "num": 538600,
       "word": "合肥一家海底捞店员佩戴打赏码",
@@ -2497,6 +2513,14 @@
       "onboard_time": 1752839664,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 527106,
+      "num": 208782,
+      "word": "翟潇闻回应",
+      "onboard_time": 1752845306,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 526882,
@@ -4635,14 +4659,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 290441,
-      "num": 165509,
-      "word": "翟潇闻回应",
-      "onboard_time": 1752845306,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289772,
       "num": 289772,
       "word": "狼队战胜AG",
@@ -4664,14 +4680,6 @@
       "word": "年轻人开始卡bug上四休三了",
       "onboard_time": 1752840024,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289242,
-      "num": 289242,
-      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
-      "onboard_time": 1752845487,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6003,6 +6011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232986,
+      "num": 186840,
+      "word": "黄誉博切错号了",
+      "onboard_time": 1752846206,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231903,
       "num": 231903,
       "word": "大同大学拟解聘10名长期旷工教师",
@@ -6049,6 +6065,14 @@
       "onboard_time": 1752844886,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228161,
+      "num": 228161,
+      "word": "孙颖莎被印在了EMS录取通知书封面",
+      "onboard_time": 1752843264,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 227836,
@@ -6675,14 +6699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210852,
-      "num": 210852,
-      "word": "孙颖莎被印在了EMS录取通知书封面",
-      "onboard_time": 1752843264,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210803,
       "num": 296339,
       "word": "易烊千玺T锦绣七月刊封面",
@@ -6907,6 +6923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205994,
+      "num": 186643,
+      "word": "青龙电视剧大赏",
+      "onboard_time": 1752841644,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205462,
       "num": 189657,
       "word": "这下都没有小桌板了",
@@ -6980,7 +7004,7 @@
     },
     {
       "raw_hot": 204746,
-      "num": 165076,
+      "num": 165696,
       "word": "李惠利郑秀彬黑白配",
       "onboard_time": 1752845607,
       "rank": 33,
@@ -7336,14 +7360,6 @@
       "word": "国产剧终于又拍仵作探案戏了",
       "onboard_time": 1752381261,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 198850,
-      "num": 184424,
-      "word": "青龙电视剧大赏",
-      "onboard_time": 1752841644,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -8003,6 +8019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188331,
+      "num": 188331,
+      "word": "韦世豪红牌",
+      "onboard_time": 1752846507,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188062,
       "num": 188062,
       "word": "提升幸福感的夏日小事",
@@ -8081,6 +8105,14 @@
       "onboard_time": 1752387500,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186527,
+      "num": 186527,
+      "word": "GAI好听",
+      "onboard_time": 1752846689,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 186263,
@@ -8347,6 +8379,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 183026,
+      "num": 162658,
+      "word": "红绣花",
+      "onboard_time": 1752846087,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182999,
       "num": 182999,
       "word": "王一博无名重映8排5座遭抢购",
@@ -8523,6 +8563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179614,
+      "num": 187479,
+      "word": "真海豚跃出水面",
+      "onboard_time": 1752846689,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179350,
       "num": 179350,
       "word": "王楚钦观战女单决赛",
@@ -8641,14 +8689,6 @@
       "onboard_time": 1752637641,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177324,
-      "num": 162658,
-      "word": "红绣花",
-      "onboard_time": 1752846087,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 177151,
@@ -9793,6 +9833,14 @@
       "onboard_time": 1752482122,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160458,
+      "num": 160458,
+      "word": "陈哲远真没破防吗",
+      "onboard_time": 1752846747,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160391,
@@ -13420,7 +13468,7 @@
     },
     {
       "raw_hot": 122535,
-      "num": 208552,
+      "num": 214445,
       "word": "谁懂三丽鸥和雅迪联名的含金量",
       "onboard_time": 1752844285,
       "rank": 44,
@@ -14532,7 +14580,7 @@
     },
     {
       "raw_hot": 114633,
-      "num": 184234,
+      "num": 186995,
       "word": "WB确定卡位赛",
       "onboard_time": 1752845607,
       "rank": 24,
@@ -18675,6 +18723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48823,
+      "num": 188318,
+      "word": "杭州自来水异味事后免单不代表免责",
+      "onboard_time": 1752846387,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 48597,
       "num": 204158,
       "word": "夫妻冒充女儿名义借款一家三口全被告",
@@ -19467,6 +19523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28796,
+      "num": 188048,
+      "word": "张继科回应以自己名字命名比赛",
+      "onboard_time": 1752839844,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28773,
       "num": 153043,
       "word": "Tomorrowland电音节发生大火",
@@ -19745,6 +19809,14 @@
       "onboard_time": 1752395361,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23344,
+      "num": 212159,
+      "word": "道禄和尚戒牒注销",
+      "onboard_time": 1752846566,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23050,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752846135308,
+  "endTime": 1752846937462,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1563,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5978986,
+      "num": 5978986,
+      "word": "ALin秒了",
+      "onboard_time": 1752845246,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5865317,
       "num": 509455,
       "word": "李明德解释为什么暴力损害酒店财物",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1738577307,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5148522,
-      "num": 5148522,
-      "word": "ALin秒了",
-      "onboard_time": 1752845246,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 5131686,
