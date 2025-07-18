@@ -1,0 +1,410 @@
+{
+  "runTime": 1752816772531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1971540,
+        "num": 1971540,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 863552,
+        "num": 863552,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26933,
+        "num": 752197,
+        "word": "中国航天把中式浪漫写进了宇宙",
+        "onboard_time": 1752800060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 889872,
+        "num": 750983,
+        "word": "杨少华遗产四个亿哥四个一人一亿",
+        "onboard_time": 1752815362,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732908,
+        "num": 732908,
+        "word": "偷吃吗 有点意思",
+        "onboard_time": 1752813383,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 683070,
+        "num": 683070,
+        "word": "茶颜悦色被曝设计与方大同专辑相似",
+        "onboard_time": 1752813142,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562802,
+        "num": 562802,
+        "word": "杨幂 支持女儿而不是控制她",
+        "onboard_time": 1752810382,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327647,
+        "num": 327647,
+        "word": "网红多肉饱饱赠覃海洋名表均为假货",
+        "onboard_time": 1752804440,
+        "rank": 7,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 322824,
+        "num": 322824,
+        "word": "张继科回应是否会邀请樊振东",
+        "onboard_time": 1752810561,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82469,
+        "num": 317950,
+        "word": "银行回应信用卡6年被收1.2万利息",
+        "onboard_time": 1752816142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347568,
+        "num": 317062,
+        "word": "普通家庭根本没教过怎么送礼",
+        "onboard_time": 1752798981,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314931,
+        "num": 314931,
+        "word": "有些性骚扰是成年后才意识到的",
+        "onboard_time": 1752814762,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306401,
+        "num": 306401,
+        "word": "从128斤瘦到88斤的真实感受",
+        "onboard_time": 1752798801,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 267068,
+        "num": 267068,
+        "word": "恋与深空戒指",
+        "onboard_time": 1752816142,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251268,
+        "num": 251268,
+        "word": "刘慧涉嫌严重违纪违法被查",
+        "onboard_time": 1752814404,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239255,
+        "num": 239255,
+        "word": "宋轶丞磊连着3天交换三餐",
+        "onboard_time": 1752815483,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68126,
+        "num": 238630,
+        "word": "疑似10万级MG4将首发半固态电池",
+        "onboard_time": 1752813203,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128437,
+        "num": 237264,
+        "word": "邓紫棋感谢陈铭",
+        "onboard_time": 1752816441,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206696,
+        "num": 235721,
+        "word": "没人告诉我2005年内娱吃这么好啊",
+        "onboard_time": 1752815483,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80085,
+        "num": 232861,
+        "word": "女子被造黄谣教科书式揪出造谣者",
+        "onboard_time": 1752816081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232832,
+        "num": 232832,
+        "word": "刑满释放后去洗浴中心0元购被抓",
+        "onboard_time": 1752805041,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231157,
+        "num": 231157,
+        "word": "装修后甲醛风险最大的地方",
+        "onboard_time": 1752813442,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272662,
+        "num": 227829,
+        "word": "女子朋友圈诅咒辱骂吸烟领导被辞",
+        "onboard_time": 1752813803,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223579,
+        "num": 223579,
+        "word": "藏海传难哄大奉打更人播放量前三",
+        "onboard_time": 1752816441,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219236,
+        "num": 219236,
+        "word": "美国游客在意大利被割喉抢劫",
+        "onboard_time": 1752808521,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162553,
+        "num": 213284,
+        "word": "五台山被牛群围攻游客称未挑逗牛",
+        "onboard_time": 1752814942,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210602,
+        "num": 210602,
+        "word": "恋与深空",
+        "onboard_time": 1752812122,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206163,
+        "num": 206163,
+        "word": "内娱神级OST上新了",
+        "onboard_time": 1752815002,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170673,
+        "num": 170673,
+        "word": "王一博无名重映8排5座遭抢购",
+        "onboard_time": 1752816742,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157428,
+        "num": 157428,
+        "word": "沈星回星辰为誓",
+        "onboard_time": 1752815903,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156047,
+        "num": 156047,
+        "word": "闪耀暖暖 陈奕雯",
+        "onboard_time": 1752816622,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149712,
+        "num": 149712,
+        "word": "祁煜鱼尾神眷",
+        "onboard_time": 1752816563,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149021,
+        "num": 149021,
+        "word": "信用卡还款日还款为何6年被收1.2万",
+        "onboard_time": 1752812844,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140418,
+        "num": 147668,
+        "word": "MG4",
+        "onboard_time": 1752815183,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146507,
+        "num": 146507,
+        "word": "孙颖莎王楚钦中国邮政活动",
+        "onboard_time": 1752804440,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145099,
+        "num": 145099,
+        "word": "月租6万元甲醛房致患病房东发声",
+        "onboard_time": 1752796941,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138181,
+        "num": 138181,
+        "word": "打歌2025官宣定档",
+        "onboard_time": 1752810320,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136275,
+        "num": 136275,
+        "word": "叠纸心意",
+        "onboard_time": 1752812602,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128819,
+        "num": 128819,
+        "word": "老年暴走团逼停救护车",
+        "onboard_time": 1752816622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36964,
+        "num": 127400,
+        "word": "杨瀚森有姚明那味儿了",
+        "onboard_time": 1752816503,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126874,
+        "num": 126874,
+        "word": "闪耀暖暖致歉换配音",
+        "onboard_time": 1752816023,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124373,
+        "num": 124373,
+        "word": "张凌赫偷感最重的一集",
+        "onboard_time": 1752816681,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122816,
+        "num": 122816,
+        "word": "杭州多个小区自来水现异味后续",
+        "onboard_time": 1752804082,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119370,
+        "num": 119370,
+        "word": "我是王嘉尔我也崩溃了",
+        "onboard_time": 1752809842,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118625,
+        "num": 118625,
+        "word": "董璇被宋丹丹问恋情时脸红",
+        "onboard_time": 1752813623,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112122,
+        "num": 117469,
+        "word": "徐志胜回应一家人共用一张脸",
+        "onboard_time": 1752805581,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116483,
+        "num": 116483,
+        "word": "孙颖莎王楚钦王曼昱合影",
+        "onboard_time": 1752808101,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115617,
+        "num": 115617,
+        "word": "深圳发布今年首个暴雨红色预警",
+        "onboard_time": 1752816261,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111670,
+        "num": 111670,
+        "word": "肖战的角色妆淡到几乎没有",
+        "onboard_time": 1752815722,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111126,
+        "num": 111126,
+        "word": "孙千素颜参加长安的荔枝首映礼",
+        "onboard_time": 1752797660,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}

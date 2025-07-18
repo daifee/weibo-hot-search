@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752814757997,
+  "endTime": 1752816772531,
   "band_list": [
     {
       "raw_hot": 2306454,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1197124,
-      "num": 317017,
+      "num": 317062,
       "word": "普通家庭根本没教过怎么送礼",
       "onboard_time": 1752798981,
       "rank": 10,
@@ -41,6 +41,22 @@
       "onboard_time": 1752804440,
       "rank": 23,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 889872,
+      "num": 750983,
+      "word": "杨少华遗产四个亿哥四个一人一亿",
+      "onboard_time": 1752815362,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 863552,
+      "num": 863552,
+      "word": "千万不要在洗澡的时候哭泣",
+      "onboard_time": 1752813983,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 830163,
@@ -73,6 +89,14 @@
       "onboard_time": 1752810382,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 732908,
+      "num": 732908,
+      "word": "偷吃吗 有点意思",
+      "onboard_time": 1752813383,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 681100,
@@ -187,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385475,
-      "num": 286449,
-      "word": "偷吃吗 有点意思",
-      "onboard_time": 1752813383,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 381185,
       "num": 189133,
       "word": "网红阿家高考成绩462分",
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314931,
+      "num": 314931,
+      "word": "有些性骚扰是成年后才意识到的",
+      "onboard_time": 1752814762,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306091,
       "num": 306091,
       "word": "网传赴山海将接档子夜归",
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272662,
+      "num": 227829,
+      "word": "女子朋友圈诅咒辱骂吸烟领导被辞",
+      "onboard_time": 1752813803,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271752,
       "num": 271752,
       "word": "肖战被当面蛐蛐了",
@@ -345,6 +377,14 @@
       "onboard_time": 1752797120,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267068,
+      "num": 267068,
+      "word": "恋与深空戒指",
+      "onboard_time": 1752816142,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 266467,
@@ -377,6 +417,14 @@
       "onboard_time": 1752798082,
       "rank": 16,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 251268,
+      "num": 251268,
+      "word": "刘慧涉嫌严重违纪违法被查",
+      "onboard_time": 1752814404,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251135,
@@ -419,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239255,
+      "num": 239255,
+      "word": "宋轶丞磊连着3天交换三餐",
+      "onboard_time": 1752815483,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237184,
       "num": 154894,
       "word": "劝大家不要在互联网太暴露自己的生活",
@@ -433,6 +489,14 @@
       "onboard_time": 1752803060,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231157,
+      "num": 291948,
+      "word": "装修后甲醛风险最大的地方",
+      "onboard_time": 1752813442,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227326,
@@ -451,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223579,
+      "num": 223579,
+      "word": "藏海传难哄大奉打更人播放量前三",
+      "onboard_time": 1752816441,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221115,
       "num": 221115,
       "word": "乐山大佛热到休假了",
@@ -464,14 +536,6 @@
       "word": "不要以手拉手方式下水救援",
       "onboard_time": 1752802040,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217175,
-      "num": 217175,
-      "word": "女子朋友圈诅咒辱骂吸烟领导被辞",
-      "onboard_time": 1752813803,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -507,20 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206696,
+      "num": 235721,
+      "word": "没人告诉我2005年内娱吃这么好啊",
+      "onboard_time": 1752815483,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206163,
+      "num": 206163,
+      "word": "内娱神级OST上新了",
+      "onboard_time": 1752815002,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206118,
       "num": 206118,
       "word": "打歌2025官宣定档",
       "onboard_time": 1752810320,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204797,
-      "num": 291948,
-      "word": "装修后甲醛风险最大的地方",
-      "onboard_time": 1752813442,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199905,
@@ -553,14 +625,6 @@
       "onboard_time": 1752758121,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184588,
-      "num": 164112,
-      "word": "千万不要在洗澡的时候哭泣",
-      "onboard_time": 1752813983,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 183363,
@@ -627,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170673,
+      "num": 170673,
+      "word": "王一博无名重映8排5座遭抢购",
+      "onboard_time": 1752816742,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165345,
       "num": 145654,
       "word": "今年6号台风韦帕生成",
@@ -649,6 +721,14 @@
       "onboard_time": 1752808340,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162553,
+      "num": 213284,
+      "word": "五台山被牛群围攻游客称未挑逗牛",
+      "onboard_time": 1752814942,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160391,
@@ -683,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157428,
+      "num": 157428,
+      "word": "沈星回星辰为誓",
+      "onboard_time": 1752815903,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157277,
       "num": 157277,
       "word": "21岁女孩患癌后的第一次短暂自由",
@@ -707,12 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155449,
-      "num": 155449,
-      "word": "刘慧涉嫌严重违纪违法被查",
-      "onboard_time": 1752814404,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 156047,
+      "num": 156047,
+      "word": "闪耀暖暖 陈奕雯",
+      "onboard_time": 1752816622,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 151650,
@@ -737,6 +825,14 @@
       "onboard_time": 1752767300,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149712,
+      "num": 149712,
+      "word": "祁煜鱼尾神眷",
+      "onboard_time": 1752816563,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 148160,
@@ -769,6 +865,14 @@
       "onboard_time": 1752808821,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 140418,
+      "num": 147668,
+      "word": "MG4",
+      "onboard_time": 1752815183,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 139007,
@@ -827,6 +931,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128819,
+      "num": 128819,
+      "word": "老年暴走团逼停救护车",
+      "onboard_time": 1752816622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128437,
+      "num": 237264,
+      "word": "邓紫棋感谢陈铭",
+      "onboard_time": 1752816441,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127785,
       "num": 127785,
       "word": "1岁人类幼崽可以有多忙",
@@ -851,6 +971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126874,
+      "num": 126874,
+      "word": "闪耀暖暖致歉换配音",
+      "onboard_time": 1752816023,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126572,
       "num": 126572,
       "word": "邵子恒跳女团舞",
@@ -865,6 +993,14 @@
       "onboard_time": 1752814702,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124373,
+      "num": 124373,
+      "word": "张凌赫偷感最重的一集",
+      "onboard_time": 1752816681,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122269,
@@ -940,11 +1076,19 @@
     },
     {
       "raw_hot": 116186,
-      "num": 234399,
+      "num": 238630,
       "word": "疑似10万级MG4将首发半固态电池",
       "onboard_time": 1752813203,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115617,
+      "num": 115617,
+      "word": "深圳发布今年首个暴雨红色预警",
+      "onboard_time": 1752816261,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114367,
@@ -953,6 +1097,14 @@
       "onboard_time": 1752807921,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111670,
+      "num": 111670,
+      "word": "肖战的角色妆淡到几乎没有",
+      "onboard_time": 1752815722,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110720,
@@ -1148,7 +1300,7 @@
     },
     {
       "raw_hot": 90723,
-      "num": 737926,
+      "num": 752197,
       "word": "中国航天把中式浪漫写进了宇宙",
       "onboard_time": 1752800060,
       "rank": 43,
@@ -1211,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82469,
+      "num": 317950,
+      "word": "银行回应信用卡6年被收1.2万利息",
+      "onboard_time": 1752816142,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82338,
       "num": 82338,
       "word": "密室大逃脱大神版",
@@ -1233,6 +1393,14 @@
       "onboard_time": 1752747803,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80085,
+      "num": 232861,
+      "word": "女子被造黄谣教科书式揪出造谣者",
+      "onboard_time": 1752816081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76587,
@@ -1425,6 +1593,14 @@
       "onboard_time": 1752761062,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36964,
+      "num": 127400,
+      "word": "杨瀚森有姚明那味儿了",
+      "onboard_time": 1752816503,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 36474,
