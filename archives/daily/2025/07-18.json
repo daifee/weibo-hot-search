@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752823774284,
+  "endTime": 1752824636986,
   "band_list": [
     {
       "raw_hot": 2306454,
@@ -203,6 +203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 490400,
+      "num": 308942,
+      "word": "田栩宁打招呼手腕不动手指动",
+      "onboard_time": 1752823462,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489277,
       "num": 467700,
       "word": "朝雪录",
@@ -331,12 +339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341527,
+      "num": 336374,
+      "word": "梓渝cha九万字",
+      "onboard_time": 1752821840,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340106,
       "num": 340106,
       "word": "水务公司辟谣网传粪水管接错导致污水",
       "onboard_time": 1752800481,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339747,
+      "num": 339747,
+      "word": "孙俪怎么偷偷美成这样",
+      "onboard_time": 1752823281,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 339441,
@@ -347,20 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336374,
-      "num": 336374,
-      "word": "梓渝cha九万字",
-      "onboard_time": 1752821840,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315453,
       "num": 237945,
       "word": "余杭水务回应臭水事件赔偿问题",
       "onboard_time": 1752765263,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308464,
+      "num": 308464,
+      "word": "一栗莎子瘦了37斤",
+      "onboard_time": 1752823762,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 306091,
@@ -411,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278590,
-      "num": 278590,
-      "word": "田栩宁打招呼手腕不动手指动",
-      "onboard_time": 1752823462,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277776,
       "num": 277776,
       "word": "恋与深空",
@@ -435,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274203,
+      "num": 274203,
+      "word": "英国五年内诞生8名三亲婴儿",
+      "onboard_time": 1752823401,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 273075,
       "num": 273075,
       "word": "虞书欣说不会为了转型而转型",
@@ -448,6 +472,14 @@
       "word": "女子朋友圈诅咒辱骂吸烟领导被辞",
       "onboard_time": 1752813803,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271809,
+      "num": 271809,
+      "word": "朋友欠债多年不还男子气出癌症",
+      "onboard_time": 1752819622,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -531,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248798,
-      "num": 248798,
-      "word": "朋友欠债多年不还男子气出癌症",
-      "onboard_time": 1752819622,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246519,
       "num": 246519,
       "word": "杨瀚森迅速反弹",
@@ -553,6 +577,14 @@
       "onboard_time": 1752822802,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241920,
+      "num": 241920,
+      "word": "月薪5w是什么概念",
+      "onboard_time": 1752823702,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 237184,
@@ -691,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202491,
+      "num": 202491,
+      "word": "吃不完的荔枝可以冻起来",
+      "onboard_time": 1752824243,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199905,
       "num": 199905,
       "word": "龙族",
@@ -739,11 +779,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191414,
+      "num": 191414,
+      "word": "虞书欣王鹤棣包场苍兰诀2动画",
+      "onboard_time": 1752823820,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190016,
       "num": 129043,
       "word": "殡仪馆3500招太平间门卫要全天在岗",
       "onboard_time": 1752758121,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189974,
+      "num": 308764,
+      "word": "派出所回应暴走团占道逼停120和119",
+      "onboard_time": 1752823401,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -849,14 +905,6 @@
       "onboard_time": 1752804860,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 166012,
-      "num": 166012,
-      "word": "派出所回应暴走团占道逼停120和119",
-      "onboard_time": 1752823401,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165345,
@@ -995,20 +1043,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 152885,
-      "num": 152885,
-      "word": "英国五年内诞生8名三亲婴儿",
-      "onboard_time": 1752823401,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 151650,
       "num": 151650,
       "word": "一国企登报喊61名职工回来上班",
       "onboard_time": 1752757702,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151501,
+      "num": 151501,
+      "word": "丁禹兮在非洲创业了",
+      "onboard_time": 1752821961,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 151180,
@@ -1115,14 +1163,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 139204,
-      "num": 139204,
-      "word": "丁禹兮在非洲创业了",
-      "onboard_time": 1752821961,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139007,
       "num": 139007,
       "word": "聋哑人司机被欺负",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1752816922,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131879,
+      "num": 131879,
+      "word": "多名大妈高铁车厢内跳舞大声喧哗",
+      "onboard_time": 1752823640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131822,
@@ -1315,12 +1363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126422,
-      "num": 126422,
-      "word": "多名大妈高铁车厢内跳舞大声喧哗",
-      "onboard_time": 1752823640,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 126338,
+      "num": 126338,
+      "word": "苏醒 我选择左航闫桉作为我的解药",
+      "onboard_time": 1752824121,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 126145,
@@ -1339,20 +1387,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123519,
+      "num": 123519,
+      "word": "A股小幅收红放量317亿",
+      "onboard_time": 1752824481,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123075,
       "num": 123075,
       "word": "几道题做下来感觉我要本升幼了",
       "onboard_time": 1752823162,
       "rank": 41,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 122922,
-      "num": 125327,
-      "word": "孙俪怎么偷偷美成这样",
-      "onboard_time": 1752823281,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 122269,
@@ -1393,6 +1441,14 @@
       "onboard_time": 1752755183,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120626,
+      "num": 339683,
+      "word": "小马云表哥回应自己长期被网友质疑",
+      "onboard_time": 1752823041,
+      "rank": 9,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 120123,
@@ -1443,12 +1499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116762,
-      "num": 116762,
-      "word": "月薪5w是什么概念",
-      "onboard_time": 1752823702,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 117020,
+      "num": 117020,
+      "word": "罗小黑战记2",
+      "onboard_time": 1752824243,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 116387,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1752818722,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113650,
+      "num": 268524,
+      "word": "想要无痛分娩但受到家人阻挠",
+      "onboard_time": 1752822080,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111670,
@@ -1707,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96483,
-      "num": 339683,
-      "word": "小马云表哥回应自己长期被网友质疑",
-      "onboard_time": 1752823041,
-      "rank": 9,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 95385,
       "num": 95385,
       "word": "美国真心想同中国合作就正视事实",
@@ -1864,14 +1920,6 @@
       "word": "月租6万甲醛房租客称房东说谎",
       "onboard_time": 1752822080,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68072,
-      "num": 268524,
-      "word": "想要无痛分娩但受到家人阻挠",
-      "onboard_time": 1752822080,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2067,6 +2115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 37366,
+      "num": 129725,
+      "word": "江西部分区域自来水黄得像咖啡",
+      "onboard_time": 1752824481,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36964,
       "num": 127400,
       "word": "杨瀚森有姚明那味儿了",
@@ -2217,6 +2273,14 @@
       "onboard_time": 1752815362,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14518,
+      "num": 115599,
+      "word": "12集左右非常好看的动漫",
+      "onboard_time": 1752824361,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 12140,

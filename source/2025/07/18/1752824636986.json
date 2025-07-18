@@ -1,0 +1,410 @@
+{
+  "runTime": 1752824636986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 994102,
+        "num": 1159056,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 823831,
+        "num": 823831,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21180,
+        "num": 558554,
+        "word": "中国航天把中式浪漫写进了宇宙",
+        "onboard_time": 1752800060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549608,
+        "num": 549608,
+        "word": "杨少华遗产四个亿哥四个一人一亿",
+        "onboard_time": 1752815362,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424030,
+        "num": 424030,
+        "word": "女子被造黄谣教科书式揪出造谣者",
+        "onboard_time": 1752816081,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1334225,
+        "num": 415156,
+        "word": "小马云走红十年后现状",
+        "onboard_time": 1752820162,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403111,
+        "num": 403111,
+        "word": "朝雪录",
+        "onboard_time": 1752820162,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390550,
+        "num": 390550,
+        "word": "老年暴走团逼停救护车",
+        "onboard_time": 1752816622,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339747,
+        "num": 339747,
+        "word": "孙俪怎么偷偷美成这样",
+        "onboard_time": 1752823281,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309002,
+        "num": 309002,
+        "word": "iG官宣Wei加入",
+        "onboard_time": 1752820042,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 490400,
+        "num": 308942,
+        "word": "田栩宁打招呼手腕不动手指动",
+        "onboard_time": 1752823462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189974,
+        "num": 308764,
+        "word": "派出所回应暴走团占道逼停120和119",
+        "onboard_time": 1752823401,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341527,
+        "num": 308615,
+        "word": "梓渝cha九万字",
+        "onboard_time": 1752821840,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330950,
+        "num": 308597,
+        "word": "张馨予不好意思我把蚂蚁吃掉了",
+        "onboard_time": 1752817822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308464,
+        "num": 308464,
+        "word": "一栗莎子瘦了37斤",
+        "onboard_time": 1752823762,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 274203,
+        "num": 274203,
+        "word": "英国五年内诞生8名三亲婴儿",
+        "onboard_time": 1752823401,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271809,
+        "num": 271809,
+        "word": "朋友欠债多年不还男子气出癌症",
+        "onboard_time": 1752819622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260745,
+        "num": 260745,
+        "word": "从128斤瘦到88斤的真实感受",
+        "onboard_time": 1752798801,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 195327,
+        "num": 249586,
+        "word": "李兰迪敖瑞鹏复刻一见钟情名场面",
+        "onboard_time": 1752822802,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137621,
+        "num": 245038,
+        "word": "白象克重透明是对消费者的尊重",
+        "onboard_time": 1752822441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241920,
+        "num": 241920,
+        "word": "月薪5w是什么概念",
+        "onboard_time": 1752823702,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220540,
+        "num": 220540,
+        "word": "杨幂 支持女儿而不是控制她",
+        "onboard_time": 1752810382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202491,
+        "num": 202491,
+        "word": "吃不完的荔枝可以冻起来",
+        "onboard_time": 1752824243,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191414,
+        "num": 191414,
+        "word": "虞书欣王鹤棣包场苍兰诀2动画",
+        "onboard_time": 1752823820,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173556,
+        "num": 173556,
+        "word": "宋轶一口气吃21块炸鸡",
+        "onboard_time": 1752822142,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160408,
+        "num": 160408,
+        "word": "茶颜悦色被曝设计与方大同专辑相似",
+        "onboard_time": 1752813142,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158061,
+        "num": 158061,
+        "word": "12306回应大妈高铁车厢跳舞喧哗",
+        "onboard_time": 1752822080,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156111,
+        "num": 156111,
+        "word": "有些性骚扰是成年后才意识到的",
+        "onboard_time": 1752814762,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153250,
+        "num": 153250,
+        "word": "韩国学霸没偷来试卷后数学考40分",
+        "onboard_time": 1752822142,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153214,
+        "num": 153214,
+        "word": "刘慧涉嫌严重违纪违法被查",
+        "onboard_time": 1752814404,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151501,
+        "num": 151501,
+        "word": "丁禹兮在非洲创业了",
+        "onboard_time": 1752821961,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142998,
+        "num": 142998,
+        "word": "苍兰诀2三界最惨留守儿童",
+        "onboard_time": 1752822920,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131879,
+        "num": 131879,
+        "word": "多名大妈高铁车厢内跳舞大声喧哗",
+        "onboard_time": 1752823640,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37366,
+        "num": 129725,
+        "word": "江西部分区域自来水黄得像咖啡",
+        "onboard_time": 1752824481,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128644,
+        "num": 128644,
+        "word": "工资来了又好像没来过",
+        "onboard_time": 1752822681,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126338,
+        "num": 126338,
+        "word": "苏醒 我选择左航闫桉作为我的解药",
+        "onboard_time": 1752824121,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123519,
+        "num": 123519,
+        "word": "A股小幅收红放量317亿",
+        "onboard_time": 1752824481,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123263,
+        "num": 123263,
+        "word": "伊能静总算实现了一家三口的旅行",
+        "onboard_time": 1752819982,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120626,
+        "num": 120626,
+        "word": "小马云表哥回应自己长期被网友质疑",
+        "onboard_time": 1752823041,
+        "rank": 38,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 118853,
+        "num": 118853,
+        "word": "偷吃吗 有点意思",
+        "onboard_time": 1752813383,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117020,
+        "num": 117020,
+        "word": "罗小黑战记2",
+        "onboard_time": 1752824243,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116778,
+        "num": 116778,
+        "word": "恋与深空戒指",
+        "onboard_time": 1752816142,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14518,
+        "num": 115599,
+        "word": "12集左右非常好看的动漫",
+        "onboard_time": 1752824361,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115518,
+        "num": 115518,
+        "word": "谍报上不封顶",
+        "onboard_time": 1752821360,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113650,
+        "num": 113650,
+        "word": "想要无痛分娩但受到家人阻挠",
+        "onboard_time": 1752822080,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110618,
+        "num": 111937,
+        "word": "几道题做下来感觉我要本升幼了",
+        "onboard_time": 1752823162,
+        "rank": 45,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 111503,
+        "num": 111503,
+        "word": "美方应继续取消不合理对华限制",
+        "onboard_time": 1752818961,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106320,
+        "num": 106320,
+        "word": "黑神话悟空取景地佛像头部被刻字",
+        "onboard_time": 1752819081,
+        "rank": 47,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 105461,
+        "num": 105461,
+        "word": "装修后甲醛风险最大的地方",
+        "onboard_time": 1752813442,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99802,
+        "num": 99802,
+        "word": "普通家庭根本没教过怎么送礼",
+        "onboard_time": 1752798981,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}
