@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752874905085,
+  "endTime": 1752877630998,
   "band_list": [
     {
       "raw_hot": 864112,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701604,
+      "num": 701604,
+      "word": "美国IT大佬出轨被拍慌忙遮脸",
+      "onboard_time": 1752860117,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 663525,
       "num": 475468,
       "word": "白鹿发文告别奔跑吧13",
       "onboard_time": 1752851604,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 646736,
-      "num": 646736,
-      "word": "美国IT大佬出轨被拍慌忙遮脸",
-      "onboard_time": 1752860117,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 556987,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64172,
+      "num": 58614,
+      "word": "为什么说西瓜是很善良的水果",
+      "onboard_time": 1752872054,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 57925,
       "num": 99812,
       "word": "黄誉博切错号了",
@@ -459,6 +467,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42575,
+      "num": 42575,
+      "word": "三伏天快速减脂的好方法",
+      "onboard_time": 1752875955,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 40734,
+      "num": 49556,
+      "word": "印度5名男子医院行凶画面曝光",
+      "onboard_time": 1752864075,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38516,
+      "num": 38516,
+      "word": "杭州自来水里到底是什么",
+      "onboard_time": 1752869414,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35926,
       "num": 70021,
       "word": "严浩翔这一周",
@@ -473,14 +505,6 @@
       "onboard_time": 1752858079,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32582,
-      "num": 49556,
-      "word": "印度5名男子医院行凶画面曝光",
-      "onboard_time": 1752864075,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 32218,
@@ -523,22 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26927,
-      "num": 25450,
-      "word": "为什么说西瓜是很善良的水果",
-      "onboard_time": 1752872054,
-      "rank": 46,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 23053,
-      "num": 23053,
-      "word": "杭州自来水里到底是什么",
-      "onboard_time": 1752869414,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22860,
       "num": 22860,
       "word": "爱康称对张女士肾脏检查不存在瑕疵",
@@ -569,6 +577,14 @@
       "onboard_time": 1752864795,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17273,
+      "num": 50585,
+      "word": "是谁站在世界上最危险的4.5英亩",
+      "onboard_time": 1752876254,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16036,

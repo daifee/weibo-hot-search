@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 05:41:45
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 06:27:10
 </p>
 </blockquote>
 <p>
@@ -4035,6 +4035,12 @@ K1373砸窗男子被批评教育（热度：701716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDIT%E5%A4%A7%E4%BD%AC%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%8B%8D%E6%85%8C%E5%BF%99%E9%81%AE%E8%84%B8%23" target="weibo">
+美国IT大佬出轨被拍慌忙遮脸（热度：701604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%82%B8%E5%AD%90%E9%A6%99%E5%A5%88%E5%84%BF%E7%AB%9F%E7%84%B6%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
 杨肸子香奈儿竟然是好朋友（热度：701381）
 </a>
@@ -4607,12 +4613,6 @@ GAI是不是又想走了（热度：658327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E6%AE%B4%E6%89%93%E8%80%81%E5%B8%88%E6%8B%8D%E8%A3%B8%E7%85%A7%23" target="weibo">
 福建一小学生遭同学殴打老师拍裸照（热度：647001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDIT%E5%A4%A7%E4%BD%AC%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%8B%8D%E6%85%8C%E5%BF%99%E9%81%AE%E8%84%B8%23" target="weibo">
-美国IT大佬出轨被拍慌忙遮脸（热度：646736）
 </a>
 </li>
 
