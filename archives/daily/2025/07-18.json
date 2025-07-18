@@ -1,10 +1,26 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752795736895,
+  "endTime": 1752804674672,
   "band_list": [
     {
+      "raw_hot": 1547633,
+      "num": 1547633,
+      "word": "从128斤瘦到88斤的真实感受",
+      "onboard_time": 1752798801,
+      "rank": 0,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 1197124,
+      "num": 317017,
+      "word": "普通家庭根本没教过怎么送礼",
+      "onboard_time": 1752798981,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 830163,
-      "num": 212271,
+      "num": 525582,
       "word": "特朗普被确诊患静脉疾病",
       "onboard_time": 1752794118,
       "rank": 14,
@@ -17,6 +33,14 @@
       "onboard_time": 1752764662,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 681100,
+      "num": 681100,
+      "word": "月租6万元甲醛房致患病房东发声",
+      "onboard_time": 1752796941,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 678196,
@@ -35,12 +59,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 526193,
+      "num": 526193,
+      "word": "孙千素颜参加长安的荔枝首映礼",
+      "onboard_time": 1752797660,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 518887,
+      "num": 316053,
+      "word": "田栩宁穿背心下班",
+      "onboard_time": 1752800541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518753,
       "num": 819736,
       "word": "肖战直播",
       "onboard_time": 1752753082,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484338,
+      "num": 484338,
+      "word": "早产儿疑遭6岁男童摔落后死亡",
+      "onboard_time": 1752798801,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 454202,
@@ -91,12 +139,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356551,
+      "num": 356551,
+      "word": "辱骂中国球迷的黑人球员被解约",
+      "onboard_time": 1752802701,
+      "rank": 7,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 340106,
+      "num": 340106,
+      "word": "水务公司辟谣网传粪水管接错导致污水",
+      "onboard_time": 1752800481,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315453,
       "num": 237945,
       "word": "余杭水务回应臭水事件赔偿问题",
       "onboard_time": 1752765263,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306091,
+      "num": 306091,
+      "word": "网传赴山海将接档子夜归",
+      "onboard_time": 1752801500,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 297229,
@@ -112,6 +184,22 @@
       "word": "山姆背叛了山姆",
       "onboard_time": 1752750682,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280556,
+      "num": 280556,
+      "word": "请和我的老公结婚",
+      "onboard_time": 1752796580,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 267513,
+      "num": 267513,
+      "word": "间谍企图将稀土灌入塑料模特偷出境",
+      "onboard_time": 1752797120,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -131,6 +219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253413,
+      "num": 253413,
+      "word": "罗意威拖鞋广告将logo晒痕当卖点",
+      "onboard_time": 1752798082,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 250659,
+      "num": 250659,
+      "word": "王嘉尔新专辑偷跑",
+      "onboard_time": 1752799042,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249515,
       "num": 156520,
       "word": "全世界最缺男人的国家",
@@ -139,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246519,
+      "num": 246519,
+      "word": "杨瀚森迅速反弹",
+      "onboard_time": 1752801741,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237184,
       "num": 154894,
       "word": "劝大家不要在互联网太暴露自己的生活",
       "onboard_time": 1752793998,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234777,
+      "num": 234777,
+      "word": "TMEA阵容",
+      "onboard_time": 1752803060,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 226505,
@@ -163,12 +283,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221004,
+      "num": 221004,
+      "word": "肖战被当面蛐蛐了",
+      "onboard_time": 1752802520,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218125,
+      "num": 218125,
+      "word": "不要以手拉手方式下水救援",
+      "onboard_time": 1752802040,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212309,
       "num": 212309,
       "word": "谢娜父母女儿爱人工作的排序",
       "onboard_time": 1752764301,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206836,
+      "num": 206836,
+      "word": "王嘉尔 专辑已经出了我自己都不知道",
+      "onboard_time": 1752803660,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 206812,
@@ -187,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179234,
+      "num": 179234,
+      "word": "孙颖莎王楚钦中国邮政活动",
+      "onboard_time": 1752804440,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174358,
       "num": 174358,
       "word": "马云骑车夜游西湖",
@@ -203,12 +355,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165345,
+      "num": 145654,
+      "word": "今年6号台风韦帕生成",
+      "onboard_time": 1752804561,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 160391,
       "num": 160391,
       "word": "姜文说让子弹飞其实是七个字",
       "onboard_time": 1752793818,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157572,
+      "num": 157572,
+      "word": "长期缺觉和短期缺觉的危害",
+      "onboard_time": 1752801561,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157277,
@@ -235,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148160,
+      "num": 148160,
+      "word": "武汉退烧雨来了",
+      "onboard_time": 1752800960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146412,
       "num": 146412,
       "word": "AG对战TTG",
@@ -259,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130392,
+      "num": 130392,
+      "word": "管泽元 我还没出发BLG都快到上海了",
+      "onboard_time": 1752800960,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129396,
       "num": 129396,
       "word": "蔡徐坤新发色",
@@ -275,12 +459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122269,
+      "num": 122269,
+      "word": "鬼灭之刃",
+      "onboard_time": 1752795860,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 121231,
       "num": 121231,
       "word": "朝雪录",
       "onboard_time": 1752750561,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120771,
+      "num": 120771,
+      "word": "女子花5万元医美动刀后0变化",
+      "onboard_time": 1752799702,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120666,
@@ -299,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116631,
+      "num": 116631,
+      "word": "iG jiejie",
+      "onboard_time": 1752799103,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110720,
       "num": 110720,
       "word": "祝绪丹回应被说装可爱",
@@ -315,12 +523,28 @@
       "category": "互联网,作品衍生"
     },
     {
+      "raw_hot": 108016,
+      "num": 108016,
+      "word": "急性子瘦腿的15天有效法",
+      "onboard_time": 1752795980,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 107409,
       "num": 94409,
       "word": "原来这就是大家拼命要上岸的原因",
       "onboard_time": 1752793998,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104648,
+      "num": 104648,
+      "word": "龚俊刘宇宁真诚才是必杀技",
+      "onboard_time": 1752801682,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 104542,
@@ -337,6 +561,14 @@
       "onboard_time": 1752732322,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102850,
+      "num": 102850,
+      "word": "奔跑吧",
+      "onboard_time": 1752799342,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 102816,
@@ -363,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99082,
+      "num": 99082,
+      "word": "易烊千玺的获奖感言戳到我了",
+      "onboard_time": 1752798623,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95385,
       "num": 95385,
       "word": "美国真心想同中国合作就正视事实",
@@ -371,12 +611,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95033,
+      "num": 95033,
+      "word": "电影三滴血定档",
+      "onboard_time": 1752797903,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93853,
       "num": 93853,
       "word": "英伟达市值超日本GDP",
       "onboard_time": 1752793998,
       "rank": 33,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 90723,
+      "num": 90723,
+      "word": "中国航天把中式浪漫写进了宇宙",
+      "onboard_time": 1752800060,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88055,
@@ -427,12 +683,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82672,
+      "num": 82672,
+      "word": "mlxg说Bin和on纪律性差",
+      "onboard_time": 1752795860,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82338,
       "num": 82338,
       "word": "密室大逃脱大神版",
       "onboard_time": 1752760642,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82092,
+      "num": 82092,
+      "word": "百事可乐股价大涨5.7%",
+      "onboard_time": 1752803421,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 81755,
@@ -611,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43274,
+      "num": 272588,
+      "word": "啤酒节青岛碰一下竟然免费喝",
+      "onboard_time": 1752804082,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39218,
       "num": 49357,
       "word": "从太空看中国的绿色越来越多",
@@ -667,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28829,
+      "num": 319978,
+      "word": "杭州多个小区自来水现异味后续",
+      "onboard_time": 1752804082,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28810,
       "num": 157977,
       "word": "美众议院通过加密货币法案",
@@ -684,11 +972,19 @@
     },
     {
       "raw_hot": 25160,
-      "num": 404773,
+      "num": 571111,
       "word": "录取通知书是大学的第一堂课",
       "onboard_time": 1752741921,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25036,
+      "num": 193109,
+      "word": "网红多肉饱饱赠覃海洋名表均为假货",
+      "onboard_time": 1752804440,
+      "rank": 23,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 24161,
