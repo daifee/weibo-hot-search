@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 22:46:48
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 23:29:30
 </p>
 </blockquote>
 <p>
@@ -5733,6 +5733,12 @@ GAI表情（热度：577758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%AC%E5%88%B0GAI%E6%B7%98%E6%B1%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+单依纯听到GAI淘汰的反应（热度：546374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E4%BE%A0%E5%89%A7%E8%A6%81%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 武侠剧要回来了（热度：546044）
 </a>
@@ -6005,12 +6011,6 @@ AL遗憾止步MSI（热度：543311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%9B%9E%E5%BA%94%23" target="weibo">
 翟潇闻回应（热度：528275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E6%97%A0%E8%8F%8C%E8%9B%8B%E7%9C%9F%E7%9B%B8%23" target="weibo">
-央视揭秘无菌蛋真相（热度：528239）
 </a>
 </li>
 
