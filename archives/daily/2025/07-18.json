@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752824636986,
+  "endTime": 1752827798496,
   "band_list": [
     {
       "raw_hot": 2306454,
@@ -67,12 +67,36 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 1005540,
+      "num": 1160886,
+      "word": "英国五年内诞生8名三亲婴儿",
+      "onboard_time": 1752823401,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 894482,
+      "num": 260855,
+      "word": "月薪5w是什么概念",
+      "onboard_time": 1752823702,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 830163,
       "num": 525582,
       "word": "特朗普被确诊患静脉疾病",
       "onboard_time": 1752794118,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 763064,
+      "num": 308464,
+      "word": "一栗莎子瘦了37斤",
+      "onboard_time": 1752823762,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 746010,
@@ -89,6 +113,14 @@
       "onboard_time": 1752813142,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 737648,
+      "num": 737648,
+      "word": "孙俪怎么偷偷美成这样",
+      "onboard_time": 1752823281,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 737123,
@@ -115,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 706492,
+      "num": 706492,
+      "word": "派出所回应暴走团占道逼停120和119",
+      "onboard_time": 1752823401,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 681100,
       "num": 681100,
       "word": "月租6万元甲醛房致患病房东发声",
@@ -128,6 +168,14 @@
       "word": "杜淳妻子聊名媛培训班",
       "onboard_time": 1752793998,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 619446,
+      "num": 556002,
+      "word": "黄轩女友晒照",
+      "onboard_time": 1752825142,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -171,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 520043,
+      "num": 308942,
+      "word": "田栩宁打招呼手腕不动手指动",
+      "onboard_time": 1752823462,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518887,
       "num": 316053,
       "word": "田栩宁穿背心下班",
@@ -203,20 +259,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 490400,
-      "num": 308942,
-      "word": "田栩宁打招呼手腕不动手指动",
-      "onboard_time": 1752823462,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 489277,
       "num": 467700,
       "word": "朝雪录",
       "onboard_time": 1752750561,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488370,
+      "num": 488370,
+      "word": "时代少年团空降",
+      "onboard_time": 1752824662,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 484338,
@@ -355,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 339747,
-      "num": 339747,
-      "word": "孙俪怎么偷偷美成这样",
-      "onboard_time": 1752823281,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 339441,
       "num": 339441,
       "word": "张馨予不好意思我把蚂蚁吃掉了",
@@ -377,14 +425,6 @@
       "onboard_time": 1752765263,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308464,
-      "num": 308464,
-      "word": "一栗莎子瘦了37斤",
-      "onboard_time": 1752823762,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 306091,
@@ -449,14 +489,6 @@
       "onboard_time": 1752812602,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 274203,
-      "num": 274203,
-      "word": "英国五年内诞生8名三亲婴儿",
-      "onboard_time": 1752823401,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 273075,
@@ -579,12 +611,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241920,
-      "num": 241920,
-      "word": "月薪5w是什么概念",
-      "onboard_time": 1752823702,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 243253,
+      "num": 128855,
+      "word": "中国乒乓变中国兵乓",
+      "onboard_time": 1752827242,
+      "rank": 30,
+      "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 243121,
+      "num": 243121,
+      "word": "黄子韬抱很紧 徐艺洋想报警",
+      "onboard_time": 1752826822,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 237184,
@@ -601,6 +641,14 @@
       "onboard_time": 1752803060,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233326,
+      "num": 233326,
+      "word": "林依晨二胎满月",
+      "onboard_time": 1752824901,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 231157,
@@ -747,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199067,
+      "num": 183757,
+      "word": "余承恩朝雪录出场镜头",
+      "onboard_time": 1752826941,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194774,
       "num": 194774,
       "word": "苍兰诀2三界最惨留守儿童",
@@ -779,7 +835,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 191414,
+      "raw_hot": 192536,
       "num": 191414,
       "word": "虞书欣王鹤棣包场苍兰诀2动画",
       "onboard_time": 1752823820,
@@ -795,20 +851,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189974,
-      "num": 308764,
-      "word": "派出所回应暴走团占道逼停120和119",
-      "onboard_time": 1752823401,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189929,
       "num": 249637,
       "word": "白象克重透明是对消费者的尊重",
       "onboard_time": 1752822441,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188130,
+      "num": 162253,
+      "word": "领导让联系王安宇真就联系到了",
+      "onboard_time": 1752827182,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 183363,
@@ -851,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174993,
+      "num": 174993,
+      "word": "韩国学霸没偷来试卷后数学考40分",
+      "onboard_time": 1752822142,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174358,
       "num": 174358,
       "word": "马云骑车夜游西湖",
@@ -865,14 +929,6 @@
       "onboard_time": 1752793818,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173146,
-      "num": 173146,
-      "word": "韩国学霸没偷来试卷后数学考40分",
-      "onboard_time": 1752822142,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172147,
@@ -1043,11 +1099,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154072,
+      "num": 128476,
+      "word": "30岁戴2年牙套的后遗症",
+      "onboard_time": 1752826882,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151831,
+      "num": 151831,
+      "word": "Coldplay下场演出将提供无摄像头观众区",
+      "onboard_time": 1752826521,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151650,
       "num": 151650,
       "word": "一国企登报喊61名职工回来上班",
       "onboard_time": 1752757702,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151636,
+      "num": 151636,
+      "word": "5G移动电话用户普及率超79%",
+      "onboard_time": 1752825502,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1065,6 +1145,14 @@
       "onboard_time": 1752805400,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 150780,
+      "num": 150780,
+      "word": "微信安卓安装包出现5处fxxk",
+      "onboard_time": 1752826882,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 149818,
@@ -1235,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132247,
+      "num": 132247,
+      "word": "工资来了又好像没来过",
+      "onboard_time": 1752822681,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131879,
       "num": 131879,
       "word": "多名大妈高铁车厢内跳舞大声喧哗",
@@ -1291,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129395,
+      "num": 129395,
+      "word": "内娱最适合牛马的综艺来了",
+      "onboard_time": 1752827422,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129179,
       "num": 129179,
       "word": "马斯克连发13帖抨击特朗普",
@@ -1315,14 +1419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128787,
-      "num": 128787,
-      "word": "工资来了又好像没来过",
-      "onboard_time": 1752822681,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127785,
       "num": 127785,
       "word": "1岁人类幼崽可以有多忙",
@@ -1337,6 +1433,14 @@
       "onboard_time": 1752811102,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127686,
+      "num": 127686,
+      "word": "鹿晗抱着熊猫逛成都",
+      "onboard_time": 1752825802,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 126971,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1752814702,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123835,
+      "num": 131223,
+      "word": "老年暴走团阻碍公务车出勤涉嫌违法",
+      "onboard_time": 1752826521,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123828,
@@ -1491,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117644,
+      "num": 117644,
+      "word": "明星同款低卡餐到底好不好吃",
+      "onboard_time": 1752827422,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117545,
       "num": 117545,
       "word": "宋祖儿表妹万福粉衣造型路透",
@@ -1579,6 +1699,14 @@
       "category": "互联网,作品衍生"
     },
     {
+      "raw_hot": 110007,
+      "num": 110007,
+      "word": "杭州臭味自来水",
+      "onboard_time": 1752827540,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109312,
       "num": 109312,
       "word": "歌红人不红歌手合体出专辑了",
@@ -1617,6 +1745,14 @@
       "onboard_time": 1752804681,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106714,
+      "num": 106714,
+      "word": "李昀锐自己把自己out了",
+      "onboard_time": 1752827122,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 106348,
@@ -1715,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102514,
+      "num": 102514,
+      "word": "白俄罗斯哈韩情况严重",
+      "onboard_time": 1752826941,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100966,
       "num": 100966,
       "word": "扫毒风暴师父顶罪自尽",
@@ -1761,6 +1905,14 @@
       "onboard_time": 1752821782,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97562,
+      "num": 97562,
+      "word": "好小众的联系方式",
+      "onboard_time": 1752825384,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 97552,
@@ -1817,6 +1969,14 @@
       "onboard_time": 1752800060,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89178,
+      "num": 267836,
+      "word": "景区回应四门塔隋代佛头被刻字",
+      "onboard_time": 1752826340,
+      "rank": 9,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 88055,
@@ -2067,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50542,
+      "num": 105408,
+      "word": "MG高管说定价就抄不敢提的品牌",
+      "onboard_time": 1752827062,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49992,
       "num": 71016,
       "word": "你行你上",
@@ -2265,6 +2433,14 @@
       "onboard_time": 1752816382,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16053,
+      "num": 104438,
+      "word": "Wei回应加入iG",
+      "onboard_time": 1752827780,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 15346,
