@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752874016946,
+  "endTime": 1752874905085,
   "band_list": [
     {
       "raw_hot": 864112,
@@ -523,19 +523,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26927,
+      "num": 25450,
+      "word": "为什么说西瓜是很善良的水果",
+      "onboard_time": 1752872054,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 23053,
+      "num": 23053,
+      "word": "杭州自来水里到底是什么",
+      "onboard_time": 1752869414,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22860,
       "num": 22860,
       "word": "爱康称对张女士肾脏检查不存在瑕疵",
       "onboard_time": 1752868094,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21303,
-      "num": 22801,
-      "word": "杭州自来水里到底是什么",
-      "onboard_time": 1752869414,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 18994,
-      "num": 18994,
+      "num": 22551,
       "word": "2025高考树洞",
       "onboard_time": 1752872235,
       "rank": 41,
@@ -563,12 +571,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17341,
-      "num": 18989,
-      "word": "为什么说西瓜是很善良的水果",
-      "onboard_time": 1752872054,
-      "rank": 46,
-      "category": "美食,幽默"
+      "raw_hot": 16036,
+      "num": 22556,
+      "word": "廉惠兰百想青龙双杀",
+      "onboard_time": 1752872654,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 12683,
