@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 23:29:30
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/18 23:44:31
 </p>
 </blockquote>
 <p>
@@ -5157,6 +5157,12 @@ ye 退票（热度：610719）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%AC%E5%88%B0GAI%E6%B7%98%E6%B1%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+单依纯听到GAI淘汰的反应（热度：599000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B9%82%E5%A7%90%E4%B9%9F%E4%BC%9A%E5%90%83%E5%8D%81%E5%87%A0%E5%9D%97%E7%9A%84%E6%99%AE%E9%80%9A%E9%A4%90%23" target="weibo">
 原来幂姐也会吃十几块的普通餐（热度：597889）
 </a>
@@ -5517,6 +5523,12 @@ GAI表情（热度：577758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%AD%E5%B7%9E%E6%B0%B4%E5%8A%A1%E9%9B%86%E5%9B%A2%E5%88%98%E6%9F%90%E6%9F%90%E6%BD%9C%E9%80%83%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
+网传杭州水务集团刘某某潜逃系谣言（热度：563519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%8E%A5%E5%8F%97%E4%B8%8D%E6%89%BF%E8%AE%A4%E6%89%80%E8%B0%93%E8%A3%81%E5%86%B3%23" target="weibo">
 中国不接受不承认所谓裁决（热度：562566）
 </a>
@@ -5729,12 +5741,6 @@ GAI表情（热度：577758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%BF%91%E7%85%A7%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23" target="weibo">
 金子涵近照瘦了好多（热度：547308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%AC%E5%88%B0GAI%E6%B7%98%E6%B1%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-单依纯听到GAI淘汰的反应（热度：546374）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AL遗憾止步MSI（热度：543311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%B8%E6%AF%92%23" target="weibo">
 特朗普透露马斯克吸毒（热度：528760）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%9B%9E%E5%BA%94%23" target="weibo">
-翟潇闻回应（热度：528275）
 </a>
 </li>
 

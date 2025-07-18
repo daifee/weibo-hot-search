@@ -1,0 +1,402 @@
+{
+  "runTime": 1752853471935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2359177,
+        "num": 2359177,
+        "word": "歌手排名",
+        "onboard_time": 1752846689,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1078483,
+        "num": 1078483,
+        "word": "ALin念肖战",
+        "onboard_time": 1752846987,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563519,
+        "num": 563519,
+        "word": "网传杭州水务集团刘某某潜逃系谣言",
+        "onboard_time": 1752852564,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 559317,
+        "num": 559317,
+        "word": "市监总局约谈饿了么美团京东",
+        "onboard_time": 1752843865,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 459087,
+        "num": 459087,
+        "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+        "onboard_time": 1752845487,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908913,
+        "num": 414585,
+        "word": "ALin秒了",
+        "onboard_time": 1752845246,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697868,
+        "num": 405943,
+        "word": "IU青龙视后",
+        "onboard_time": 1752847109,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346052,
+        "num": 346052,
+        "word": "女子理遗物发现丈夫出轨还转15万",
+        "onboard_time": 1752850524,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95174,
+        "num": 345051,
+        "word": "特朗普被拍到脚踝肿胀",
+        "onboard_time": 1752848246,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5891775,
+        "num": 5891775,
+        "word": "肖战微博改名",
+        "onboard_time": 1752837081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799216,
+        "num": 332378,
+        "word": "Jennie删掉和朴彩英的合照",
+        "onboard_time": 1752834741,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613242,
+        "num": 322250,
+        "word": "X玖少年团发文",
+        "onboard_time": 1752841825,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599000,
+        "num": 314129,
+        "word": "单依纯听到GAI淘汰的反应",
+        "onboard_time": 1752850405,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168894,
+        "num": 309088,
+        "word": "日本警方指认进口中国玩具枪能打实弹",
+        "onboard_time": 1752852623,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 505222,
+        "num": 305358,
+        "word": "GAI淘汰",
+        "onboard_time": 1752847349,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378020,
+        "num": 292666,
+        "word": "单依纯 唱法",
+        "onboard_time": 1752841705,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292192,
+        "num": 292192,
+        "word": "杭州自来水异味事后免单不代表免责",
+        "onboard_time": 1752846387,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107520,
+        "num": 291082,
+        "word": "租客违约退房失联房东一进屋惊呆",
+        "onboard_time": 1752852384,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53574,
+        "num": 290710,
+        "word": "网友称杭州市民共享洗澡真会做生意",
+        "onboard_time": 1752852683,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331865,
+        "num": 289073,
+        "word": "功夫胖 怎么退款",
+        "onboard_time": 1752850945,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303524,
+        "num": 287661,
+        "word": "林志炫 太难唱了",
+        "onboard_time": 1752842305,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297364,
+        "num": 286668,
+        "word": "翟潇闻回应",
+        "onboard_time": 1752845306,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285545,
+        "num": 285545,
+        "word": "白鹿发文告别奔跑吧13",
+        "onboard_time": 1752851604,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124935,
+        "num": 267796,
+        "word": "狼队登顶S组收官第二轮",
+        "onboard_time": 1752852505,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259906,
+        "num": 259906,
+        "word": "余杭自来水",
+        "onboard_time": 1752849385,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229308,
+        "num": 229308,
+        "word": "UNIQ",
+        "onboard_time": 1752840923,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194317,
+        "num": 194317,
+        "word": "韩国女生独自吃饭被赶出餐厅",
+        "onboard_time": 1752839664,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191956,
+        "num": 191956,
+        "word": "短剧版山河令有内味了",
+        "onboard_time": 1752834262,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183349,
+        "num": 190346,
+        "word": "女儿死后母亲才知道叫到了黑救护车",
+        "onboard_time": 1752852623,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188816,
+        "num": 188816,
+        "word": "李隼谈曾罚孙颖莎一万米",
+        "onboard_time": 1752848427,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175994,
+        "num": 175994,
+        "word": "柬埔寨突袭诈骗园逮捕超千人",
+        "onboard_time": 1752850285,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170966,
+        "num": 170966,
+        "word": "杨幂cha万物生",
+        "onboard_time": 1752847168,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141932,
+        "num": 141932,
+        "word": "从穷小子到资产上亿的逆袭人生",
+        "onboard_time": 1752838883,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141039,
+        "num": 141039,
+        "word": "韦世豪红牌",
+        "onboard_time": 1752846507,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136720,
+        "num": 136720,
+        "word": "陈情令",
+        "onboard_time": 1752840504,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127630,
+        "num": 127630,
+        "word": "鹿晗要拍跺脚变装",
+        "onboard_time": 1752852024,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127052,
+        "num": 127052,
+        "word": "朱智勋青龙视帝",
+        "onboard_time": 1752853283,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126167,
+        "num": 126167,
+        "word": "IU好美",
+        "onboard_time": 1752841883,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125390,
+        "num": 125390,
+        "word": "夏之光改前缀",
+        "onboard_time": 1752833721,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123458,
+        "num": 123458,
+        "word": "男子背痛硬扛3天心肌大面积坏死",
+        "onboard_time": 1752847887,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116728,
+        "num": 116728,
+        "word": "丈夫怀疑妻子出轨将其踹下楼致死",
+        "onboard_time": 1752853342,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115179,
+        "num": 115179,
+        "word": "杨幂不带小糯米上节目的原因",
+        "onboard_time": 1752837142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112731,
+        "num": 112731,
+        "word": "BLG战胜JDG",
+        "onboard_time": 1752853103,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110313,
+        "num": 110313,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109493,
+        "num": 109493,
+        "word": "中餐厅",
+        "onboard_time": 1752851423,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109403,
+        "num": 109403,
+        "word": "青龙奖人气奖大乌龙",
+        "onboard_time": 1752848486,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105255,
+        "num": 105255,
+        "word": "鹿晗接歌唱勋章",
+        "onboard_time": 1752849566,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210268,
+        "num": 104660,
+        "word": "徐佳莹",
+        "onboard_time": 1752853403,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103351,
+        "num": 103351,
+        "word": "李光洙感谢都暻秀",
+        "onboard_time": 1752849324,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#万里行程映初心#"
+    }
+  }
+}
