@@ -1,0 +1,410 @@
+{
+  "runTime": 1752834632138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1284279,
+        "num": 1284279,
+        "word": "余杭水务承诺为臭水用户免5吨水费",
+        "onboard_time": 1752828741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570729,
+        "num": 570729,
+        "word": "英国五年内诞生8名三亲婴儿",
+        "onboard_time": 1752823401,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22335,
+        "num": 489518,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416413,
+        "num": 416413,
+        "word": "中国乒乓变中国兵乓",
+        "onboard_time": 1752827242,
+        "rank": 3,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 415181,
+        "num": 415181,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1000810,
+        "num": 396907,
+        "word": "杭州臭味自来水",
+        "onboard_time": 1752827540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374447,
+        "num": 374447,
+        "word": "宋亚轩严浩翔 讨厌红楼梦",
+        "onboard_time": 1752832761,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289774,
+        "num": 289774,
+        "word": "时代少年团空降",
+        "onboard_time": 1752824662,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288149,
+        "num": 288149,
+        "word": "派出所回应暴走团占道逼停120和119",
+        "onboard_time": 1752823401,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261281,
+        "num": 261281,
+        "word": "余杭水务回应自来水异味原因",
+        "onboard_time": 1752831622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1382630,
+        "num": 261076,
+        "word": "X玖少年团成员去前缀",
+        "onboard_time": 1752833960,
+        "rank": 10,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 675510,
+        "num": 260515,
+        "word": "晚晚名画诞生",
+        "onboard_time": 1752830302,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 543121,
+        "num": 259238,
+        "word": "夏之光改前缀",
+        "onboard_time": 1752833721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513011,
+        "num": 258461,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129122,
+        "num": 257594,
+        "word": "美对华石墨关税将飙至160%",
+        "onboard_time": 1752832881,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 467540,
+        "num": 257171,
+        "word": "月薪5w是什么概念",
+        "onboard_time": 1752823702,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440838,
+        "num": 256421,
+        "word": "30岁戴2年牙套的后遗症",
+        "onboard_time": 1752826882,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412365,
+        "num": 255720,
+        "word": "田栩宁梓渝热门人物前二",
+        "onboard_time": 1752831801,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389047,
+        "num": 255015,
+        "word": "一栗莎子瘦了37斤",
+        "onboard_time": 1752823762,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292451,
+        "num": 253883,
+        "word": "X玖少年团",
+        "onboard_time": 1752834021,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253630,
+        "num": 253630,
+        "word": "肖战藏海传上半年全网正片播放量冠军",
+        "onboard_time": 1752812902,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233222,
+        "num": 233222,
+        "word": "化妆和不化妆的都沉默了",
+        "onboard_time": 1752832761,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 250642,
+        "num": 222883,
+        "word": "梓渝偷吃唐九洲的汉堡",
+        "onboard_time": 1752830842,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209118,
+        "num": 209118,
+        "word": "黄子韬抱很紧 徐艺洋想报警",
+        "onboard_time": 1752826822,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130107,
+        "num": 201942,
+        "word": "清融挽墨好朋友自拍模板",
+        "onboard_time": 1752833661,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201365,
+        "num": 201365,
+        "word": "赵露思ELLE水下封面",
+        "onboard_time": 1752834200,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182419,
+        "num": 182419,
+        "word": "领导让联系王安宇真就联系到了",
+        "onboard_time": 1752827182,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 169156,
+        "num": 182267,
+        "word": "易烊千玺真的去看Eason哥了",
+        "onboard_time": 1752834262,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160983,
+        "num": 181975,
+        "word": "郭麒麟再不努力真得专心搞影视了",
+        "onboard_time": 1752831141,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75651,
+        "num": 181439,
+        "word": "杭州水务公司回应仍有黄色痕迹",
+        "onboard_time": 1752832881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120168,
+        "num": 181299,
+        "word": "宋亚轩好像要带唐国强上王牌了",
+        "onboard_time": 1752833241,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221918,
+        "num": 180873,
+        "word": "曾舜晞被说奔四破防了",
+        "onboard_time": 1752831321,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200583,
+        "num": 180449,
+        "word": "斗罗1天生就是当1的料",
+        "onboard_time": 1752833661,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180197,
+        "num": 180197,
+        "word": "四川681分黄毛学霸换发型了",
+        "onboard_time": 1752831741,
+        "rank": 33,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 40444,
+        "num": 165811,
+        "word": "数不清敖瑞鹏叫了多少声姐姐",
+        "onboard_time": 1752831440,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160696,
+        "num": 160696,
+        "word": "晚晚 也只有林瀚不嫌弃我了",
+        "onboard_time": 1752832881,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157010,
+        "num": 157010,
+        "word": "731",
+        "onboard_time": 1752831081,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155752,
+        "num": 155752,
+        "word": "亲生父亲伙同继母买1600片泻药喂女儿",
+        "onboard_time": 1752829102,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152835,
+        "num": 152835,
+        "word": "短剧版山河令有内味了",
+        "onboard_time": 1752834262,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150842,
+        "num": 150842,
+        "word": "GW对战北京WBG",
+        "onboard_time": 1752828922,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142284,
+        "num": 142284,
+        "word": "杭州人洗澡越洗越臭",
+        "onboard_time": 1752829641,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132589,
+        "num": 132589,
+        "word": "伞兵为多肉庆生",
+        "onboard_time": 1752833661,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122985,
+        "num": 122985,
+        "word": "时代少年团大连站solo舞台剧透",
+        "onboard_time": 1752833602,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113965,
+        "num": 113965,
+        "word": "居民称自来水不臭了都是杂质",
+        "onboard_time": 1752833420,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110458,
+        "num": 110458,
+        "word": "shad0w疑似加入BLG",
+        "onboard_time": 1752831020,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108975,
+        "num": 108975,
+        "word": "朝雪录",
+        "onboard_time": 1752820162,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106718,
+        "num": 106718,
+        "word": "妈妈的微信里只有38个人",
+        "onboard_time": 1752828622,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95969,
+        "num": 95969,
+        "word": "减肥最佳速度是每月2到4公斤",
+        "onboard_time": 1752831081,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95378,
+        "num": 95378,
+        "word": "鬼灭也有自己的菀菀类卿",
+        "onboard_time": 1752832521,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104155,
+        "num": 94982,
+        "word": "田栩宁打招呼手腕不动手指动",
+        "onboard_time": 1752823462,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#万里行程映初心#"
+    }
+  }
+}

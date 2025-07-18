@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752832044409,
+  "endTime": 1752834632138,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -331,6 +331,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 1382630,
+      "num": 261076,
+      "word": "X玖少年团成员去前缀",
+      "onboard_time": 1752833960,
+      "rank": 10,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 1373589,
       "num": 1373589,
       "word": "罗家英自曝注射女性荷尔蒙",
@@ -441,6 +449,14 @@
       "onboard_time": 1752721042,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1284279,
+      "num": 1284279,
+      "word": "余杭水务承诺为臭水用户免5吨水费",
+      "onboard_time": 1752828741,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1278750,
@@ -865,6 +881,14 @@
       "onboard_time": 1752753082,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1000810,
+      "num": 642355,
+      "word": "杭州臭味自来水",
+      "onboard_time": 1752827540,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 998606,
@@ -1579,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 707416,
-      "num": 642355,
-      "word": "杭州臭味自来水",
-      "onboard_time": 1752827540,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 706492,
       "num": 706492,
       "word": "派出所回应暴走团占道逼停120和119",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1752793998,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675510,
+      "num": 310139,
+      "word": "晚晚名画诞生",
+      "onboard_time": 1752830302,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 675384,
@@ -2259,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543121,
+      "num": 259238,
+      "word": "夏之光改前缀",
+      "onboard_time": 1752833721,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542421,
       "num": 116153,
       "word": "特斯拉",
@@ -2715,14 +2747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 469005,
-      "num": 469005,
-      "word": "余杭水务承诺为臭水用户免5吨水费",
-      "onboard_time": 1752828741,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 467805,
       "num": 467805,
       "word": "顾客称吃苏州糖水发现餐具内增高",
@@ -3115,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412365,
+      "num": 255720,
+      "word": "田栩宁梓渝热门人物前二",
+      "onboard_time": 1752831801,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411671,
       "num": 411671,
       "word": "网友称因发黄杨钿甜相关视频被起诉",
@@ -3369,6 +3401,14 @@
       "onboard_time": 1752456500,
       "rank": 9,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 374447,
+      "num": 374447,
+      "word": "宋亚轩严浩翔 讨厌红楼梦",
+      "onboard_time": 1752832761,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 373768,
@@ -4067,14 +4107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310139,
-      "num": 310139,
-      "word": "晚晚名画诞生",
-      "onboard_time": 1752830302,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 309887,
       "num": 309887,
       "word": "网传R1SE披哥二公踢馆",
@@ -4353,6 +4385,14 @@
       "onboard_time": 1752803660,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 292451,
+      "num": 253883,
+      "word": "X玖少年团",
+      "onboard_time": 1752834021,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 292415,
@@ -4971,6 +5011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261281,
+      "num": 261281,
+      "word": "余杭水务回应自来水异味原因",
+      "onboard_time": 1752831622,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261007,
       "num": 229536,
       "word": "男子疑似溺亡法医凭经验把人救活",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1752580162,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253630,
+      "num": 253630,
+      "word": "肖战藏海传上半年全网正片播放量冠军",
+      "onboard_time": 1752812902,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 253413,
@@ -5657,6 +5713,14 @@
       "onboard_time": 1752824901,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233222,
+      "num": 233222,
+      "word": "化妆和不化妆的都沉默了",
+      "onboard_time": 1752832761,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 233070,
@@ -6635,14 +6699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203868,
-      "num": 203868,
-      "word": "田栩宁梓渝热门人物前二",
-      "onboard_time": 1752831801,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203786,
       "num": 199748,
       "word": "胃病转变为胃癌的5个征兆",
@@ -6779,6 +6835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201365,
+      "num": 201365,
+      "word": "赵露思ELLE水下封面",
+      "onboard_time": 1752834200,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201343,
       "num": 693979,
       "word": "正确预防空调病",
@@ -6809,6 +6873,14 @@
       "onboard_time": 1752485602,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200583,
+      "num": 180449,
+      "word": "斗罗1天生就是当1的料",
+      "onboard_time": 1752833661,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 200489,
@@ -8019,6 +8091,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 180197,
+      "num": 180197,
+      "word": "四川681分黄毛学霸换发型了",
+      "onboard_time": 1752831741,
+      "rank": 27,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 179741,
       "num": 217501,
       "word": "喜人奇妙夜2录制",
@@ -8617,6 +8697,14 @@
       "onboard_time": 1752397642,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169156,
+      "num": 182267,
+      "word": "易烊千玺真的去看Eason哥了",
+      "onboard_time": 1752834262,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 169155,
@@ -9227,6 +9315,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160983,
+      "num": 181975,
+      "word": "郭麒麟再不努力真得专心搞影视了",
+      "onboard_time": 1752831141,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160696,
+      "num": 160696,
+      "word": "晚晚 也只有林瀚不嫌弃我了",
+      "onboard_time": 1752832881,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 160595,
       "num": 333512,
       "word": "殡仪馆回应招聘戏剧播音表演专业",
@@ -9811,6 +9915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152835,
+      "num": 152835,
+      "word": "短剧版山河令有内味了",
+      "onboard_time": 1752834262,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152630,
       "num": 152630,
       "word": "苹果6s ccd神器",
@@ -9992,6 +10104,14 @@
       "word": "JDG锁定第三轮A组",
       "onboard_time": 1752756021,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 150842,
+      "num": 150842,
+      "word": "GW对战北京WBG",
+      "onboard_time": 1752828922,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -11299,14 +11419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136674,
-      "num": 136674,
-      "word": "郭麒麟再不努力真得专心搞影视了",
-      "onboard_time": 1752831141,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136632,
       "num": 136632,
       "word": "很多悟性高的人不太合群",
@@ -11393,14 +11505,6 @@
       "onboard_time": 1752671843,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136080,
-      "num": 136080,
-      "word": "四川681分黄毛学霸换发型了",
-      "onboard_time": 1752831741,
-      "rank": 27,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 136023,
@@ -11739,6 +11843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132589,
+      "num": 132589,
+      "word": "伞兵为多肉庆生",
+      "onboard_time": 1752833661,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132538,
       "num": 132538,
       "word": "藏毯织出了水波倒影",
@@ -11963,6 +12075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130107,
+      "num": 201942,
+      "word": "清融挽墨好朋友自拍模板",
+      "onboard_time": 1752833661,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130100,
       "num": 130100,
       "word": "正当防卫",
@@ -12057,6 +12177,14 @@
       "onboard_time": 1752821001,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129122,
+      "num": 257594,
+      "word": "美对华石墨关税将飙至160%",
+      "onboard_time": 1752832881,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129087,
@@ -12707,6 +12835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122985,
+      "num": 122985,
+      "word": "时代少年团大连站solo舞台剧透",
+      "onboard_time": 1752833602,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122925,
       "num": 122925,
       "word": "西班牙许多老人没扛过高温天",
@@ -13121,6 +13257,14 @@
       "onboard_time": 1752622820,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120168,
+      "num": 181299,
+      "word": "宋亚轩好像要带唐国强上王牌了",
+      "onboard_time": 1752833241,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 120145,
@@ -13897,6 +14041,14 @@
       "onboard_time": 1752470962,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113965,
+      "num": 113965,
+      "word": "居民称自来水不臭了都是杂质",
+      "onboard_time": 1752833420,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113936,
@@ -15779,6 +15931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95378,
+      "num": 95378,
+      "word": "鬼灭也有自己的菀菀类卿",
+      "onboard_time": 1752832521,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 95272,
       "num": 95272,
       "word": "那年单依纯齐刘海",
@@ -16819,14 +16979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78441,
-      "num": 119523,
-      "word": "余杭水务回应自来水异味原因",
-      "onboard_time": 1752831622,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77831,
       "num": 286163,
       "word": "央视调查学步鞋营销乱象",
@@ -16937,6 +17089,14 @@
       "onboard_time": 1752684917,
       "rank": 21,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 75651,
+      "num": 181439,
+      "word": "杭州水务公司回应仍有黄色痕迹",
+      "onboard_time": 1752832881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75275,
