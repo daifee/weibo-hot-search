@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752871476927,
+  "endTime": 1752874016946,
   "band_list": [
     {
       "raw_hot": 864112,
@@ -451,6 +451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 46865,
+      "num": 46865,
+      "word": "外交部再次提醒赴菲留学人员",
+      "onboard_time": 1752870134,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35926,
       "num": 70021,
       "word": "严浩翔这一周",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 32582,
-      "num": 32582,
+      "num": 49556,
       "word": "印度5名男子医院行凶画面曝光",
       "onboard_time": 1752864075,
       "rank": 36,
@@ -489,6 +497,14 @@
       "onboard_time": 1752863476,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27479,
+      "num": 42388,
+      "word": "暴走团占道逼停120和119应担什么责",
+      "onboard_time": 1752870194,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27207,
@@ -515,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21303,
+      "num": 22801,
+      "word": "杭州自来水里到底是什么",
+      "onboard_time": 1752869414,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21030,
       "num": 33880,
       "word": "官方辟谣刘某某接驳下水排污管网",
       "onboard_time": 1752853463,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 18994,
+      "num": 18994,
+      "word": "2025高考树洞",
+      "onboard_time": 1752872235,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 18346,
@@ -531,20 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 15928,
-      "num": 22801,
-      "word": "杭州自来水里到底是什么",
-      "onboard_time": 1752869414,
+      "raw_hot": 17341,
+      "num": 18989,
+      "word": "为什么说西瓜是很善良的水果",
+      "onboard_time": 1752872054,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14137,
-      "num": 42388,
-      "word": "暴走团占道逼停120和119应担什么责",
-      "onboard_time": 1752870194,
-      "rank": 28,
-      "category": "民生新闻"
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 12683,
