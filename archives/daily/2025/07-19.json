@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752864803592,
+  "endTime": 1752866577636,
   "band_list": [
     {
       "raw_hot": 864112,
@@ -491,12 +491,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27207,
+      "num": 27207,
+      "word": "林志炫冲榜成功",
+      "onboard_time": 1752866415,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21030,
       "num": 33880,
       "word": "官方辟谣刘某某接驳下水排污管网",
       "onboard_time": 1752853463,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 19875,
+      "num": 26268,
+      "word": "周深打断了郑恺的魔法",
+      "onboard_time": 1752866354,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18068,
+      "num": 26262,
+      "word": "山是易烊千玺存放童年记忆的地方",
+      "onboard_time": 1752864795,
+      "rank": 48,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
