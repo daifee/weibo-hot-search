@@ -1,0 +1,410 @@
+{
+  "runTime": 1752812022721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1317461,
+        "num": 1317461,
+        "word": "刑满释放后去洗浴中心0元购被抓",
+        "onboard_time": 1752805041,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 831626,
+        "num": 831626,
+        "word": "网红多肉饱饱赠覃海洋名表均为假货",
+        "onboard_time": 1752804440,
+        "rank": 1,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 9009,
+        "num": 637073,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592848,
+        "num": 592848,
+        "word": "从128斤瘦到88斤的真实感受",
+        "onboard_time": 1752798801,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 555146,
+        "num": 555146,
+        "word": "杨幂 支持女儿而不是控制她",
+        "onboard_time": 1752810382,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545570,
+        "num": 545570,
+        "word": "美国游客在意大利被割喉抢劫",
+        "onboard_time": 1752808521,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 508566,
+        "num": 508566,
+        "word": "徐志胜回应一家人共用一张脸",
+        "onboard_time": 1752805581,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360640,
+        "num": 360640,
+        "word": "孙颖莎王楚钦王曼昱合影",
+        "onboard_time": 1752808101,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343656,
+        "num": 343656,
+        "word": "张继科蔡振华打乒乓球",
+        "onboard_time": 1752806420,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182684,
+        "num": 342571,
+        "word": "华南理工研究生奖学金发放新规引争议",
+        "onboard_time": 1752805881,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 795581,
+        "num": 323364,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 769874,
+        "num": 309804,
+        "word": "普通家庭根本没教过怎么送礼",
+        "onboard_time": 1752798981,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362176,
+        "num": 293208,
+        "word": "特朗普被确诊患静脉疾病",
+        "onboard_time": 1752794118,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283235,
+        "num": 283235,
+        "word": "孙颖莎王楚钦中国邮政活动",
+        "onboard_time": 1752804440,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263957,
+        "num": 263957,
+        "word": "田栩宁穿背心下班",
+        "onboard_time": 1752800541,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367989,
+        "num": 263945,
+        "word": "我是王嘉尔我也崩溃了",
+        "onboard_time": 1752809842,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263380,
+        "num": 263380,
+        "word": "孙千素颜参加长安的荔枝首映礼",
+        "onboard_time": 1752797660,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253740,
+        "num": 253740,
+        "word": "虞书欣说不会为了转型而转型",
+        "onboard_time": 1752807022,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240227,
+        "num": 240227,
+        "word": "杭州多个小区自来水现异味后续",
+        "onboard_time": 1752804082,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239985,
+        "num": 239985,
+        "word": "张继科回应是否会邀请樊振东",
+        "onboard_time": 1752810561,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230231,
+        "num": 230231,
+        "word": "李昀锐一把抱起周深",
+        "onboard_time": 1752808941,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216100,
+        "num": 216100,
+        "word": "月租6万元甲醛房致患病房东发声",
+        "onboard_time": 1752796941,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213264,
+        "num": 213264,
+        "word": "你好星期六",
+        "onboard_time": 1752808460,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204833,
+        "num": 204833,
+        "word": "打歌2025官宣定档",
+        "onboard_time": 1752810320,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199905,
+        "num": 199905,
+        "word": "龙族",
+        "onboard_time": 1752806720,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193622,
+        "num": 193622,
+        "word": "J人和P人面对选择的不同反应",
+        "onboard_time": 1752811282,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 175275,
+        "num": 175275,
+        "word": "无限暖暖",
+        "onboard_time": 1752810022,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170770,
+        "num": 170770,
+        "word": "罗小黑",
+        "onboard_time": 1752804860,
+        "rank": 27,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 164033,
+        "num": 164033,
+        "word": "肖战被当面蛐蛐了",
+        "onboard_time": 1752802520,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155307,
+        "num": 163512,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163408,
+        "num": 163408,
+        "word": "杨瀚森小三双",
+        "onboard_time": 1752808340,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160532,
+        "num": 160532,
+        "word": "校方回应警犬技术专业将分发小狗",
+        "onboard_time": 1752806781,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151820,
+        "num": 151820,
+        "word": "韩国教授称不适应中国崛起",
+        "onboard_time": 1752808521,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148500,
+        "num": 148500,
+        "word": "商务部介绍十四五商务高质量发展成就",
+        "onboard_time": 1752805760,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 146762,
+        "word": "焦作鸡蛋灌饼王子结婚",
+        "onboard_time": 1752809601,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144409,
+        "num": 144409,
+        "word": "吴宣仪翟潇闻有戏概念海报",
+        "onboard_time": 1752809722,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135614,
+        "num": 135614,
+        "word": "2024入境游客总花费942亿美元",
+        "onboard_time": 1752808821,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 130788,
+        "num": 130788,
+        "word": "杨瀚森迅速反弹",
+        "onboard_time": 1752801741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129179,
+        "num": 129179,
+        "word": "马斯克连发13帖抨击特朗普",
+        "onboard_time": 1752805160,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20130,
+        "num": 129049,
+        "word": "美团养老补贴年底覆盖百万骑手",
+        "onboard_time": 1752811282,
+        "rank": 39,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 128946,
+        "word": "王源 录歌到天亮",
+        "onboard_time": 1752807081,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127695,
+        "num": 127695,
+        "word": "白鹿说范丞丞当导演让常驻干等",
+        "onboard_time": 1752811102,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123443,
+        "num": 123443,
+        "word": "鬼灭之刃无限城篇",
+        "onboard_time": 1752805400,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122660,
+        "num": 122660,
+        "word": "医生提醒不要盲目跟风割包皮",
+        "onboard_time": 1752810863,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121963,
+        "num": 121963,
+        "word": "王晶说易烊千玺能成为罗伯特德尼罗",
+        "onboard_time": 1752811823,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121463,
+        "num": 121463,
+        "word": "辱骂中国球迷的黑人球员被解约",
+        "onboard_time": 1752802701,
+        "rank": 45,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 116231,
+        "num": 116231,
+        "word": "南科大录取通知书真的燃起来了",
+        "onboard_time": 1752808941,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107484,
+        "num": 107484,
+        "word": "小米深圳大厦即将开园",
+        "onboard_time": 1752811941,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106348,
+        "num": 106348,
+        "word": "SNH48由淼为600只毛孩子送风扇",
+        "onboard_time": 1752812002,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105897,
+        "num": 105897,
+        "word": "人总是会反复爱上喜欢过的东西",
+        "onboard_time": 1752811582,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条中国特色城市现代化新路子#"
+    }
+  }
+}
