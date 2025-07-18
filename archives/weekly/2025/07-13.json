@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752846937462,
+  "endTime": 1752848862774,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -35,8 +35,16 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 5978986,
-      "num": 5978986,
+      "raw_hot": 7862904,
+      "num": 7862904,
+      "word": "歌手排名",
+      "onboard_time": 1752846689,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6171972,
+      "num": 6171972,
       "word": "ALin秒了",
       "onboard_time": 1752845246,
       "rank": 0,
@@ -83,12 +91,28 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 2721402,
+      "num": 335598,
+      "word": "ALin念肖战",
+      "onboard_time": 1752846987,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2549402,
       "num": 2549402,
       "word": "女生出轨Zeus是私德瑕疵被放大",
       "onboard_time": 1752401661,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2359704,
+      "num": 326893,
+      "word": "GAI淘汰",
+      "onboard_time": 1752847349,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 2329433,
@@ -176,14 +200,6 @@
       "word": "林志炫 太难唱了",
       "onboard_time": 1752842305,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1842353,
-      "num": 1842353,
-      "word": "歌手排名",
-      "onboard_time": 1752846689,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -401,6 +417,14 @@
       "onboard_time": 1752590484,
       "rank": 14,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 1378752,
+      "num": 240889,
+      "word": "IU青龙视后",
+      "onboard_time": 1752847109,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1373589,
@@ -1739,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705320,
+      "num": 219509,
+      "word": "海泉揭榜",
+      "onboard_time": 1752847647,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701381,
       "num": 701381,
       "word": "杨肸子香奈儿竟然是好朋友",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1752547461,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 658241,
+      "num": 658241,
+      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+      "onboard_time": 1752845487,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657117,
@@ -2451,14 +2491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 540795,
-      "num": 540795,
-      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
-      "onboard_time": 1752845487,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538600,
       "num": 538600,
       "word": "合肥一家海底捞店员佩戴打赏码",
@@ -2515,7 +2547,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 527106,
+      "raw_hot": 528275,
       "num": 208782,
       "word": "翟潇闻回应",
       "onboard_time": 1752845306,
@@ -4955,6 +4987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275380,
+      "num": 148077,
+      "word": "杨幂cha万物生",
+      "onboard_time": 1752847168,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275128,
       "num": 490030,
       "word": "肖战连续两天请客剧组",
@@ -5193,6 +5233,14 @@
       "onboard_time": 1752836122,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266367,
+      "num": 266367,
+      "word": "韦世豪红牌",
+      "onboard_time": 1752846507,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 266213,
@@ -5787,6 +5835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242466,
+      "num": 242466,
+      "word": "孙颖莎被印在了EMS录取通知书封面",
+      "onboard_time": 1752843264,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242328,
       "num": 242328,
       "word": "朝雪录第一案凶手道歉",
@@ -6065,14 +6121,6 @@
       "onboard_time": 1752844886,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228161,
-      "num": 228161,
-      "word": "孙颖莎被印在了EMS录取通知书封面",
-      "onboard_time": 1752843264,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 227836,
@@ -7307,6 +7355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199896,
+      "num": 160458,
+      "word": "陈哲远真没破防吗",
+      "onboard_time": 1752846747,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199721,
       "num": 199721,
       "word": "宋轶一口气吃21块炸鸡",
@@ -8019,14 +8075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188331,
-      "num": 188331,
-      "word": "韦世豪红牌",
-      "onboard_time": 1752846507,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188062,
       "num": 188062,
       "word": "提升幸福感的夏日小事",
@@ -8193,6 +8241,14 @@
       "onboard_time": 1752746483,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185478,
+      "num": 142899,
+      "word": "联合国教科文组织推荐丁禹兮话题",
+      "onboard_time": 1752847289,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 185477,
@@ -9475,6 +9531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165580,
+      "num": 165580,
+      "word": "李隼谈曾罚孙颖莎一万米",
+      "onboard_time": 1752848427,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165525,
       "num": 227429,
       "word": "一直躺着玩手机真的会得血栓",
@@ -9723,6 +9787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162338,
+      "num": 142329,
+      "word": "青龙奖人气奖大乌龙",
+      "onboard_time": 1752848486,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162067,
       "num": 162067,
       "word": "成本9毛做了13个菜",
@@ -9833,14 +9905,6 @@
       "onboard_time": 1752482122,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160458,
-      "num": 160458,
-      "word": "陈哲远真没破防吗",
-      "onboard_time": 1752846747,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 160391,
@@ -11083,6 +11147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145292,
+      "num": 188318,
+      "word": "杭州自来水异味事后免单不代表免责",
+      "onboard_time": 1752846387,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 145226,
       "num": 145226,
       "word": "帮儿子做饼干奚梦瑶有的是力气",
@@ -11553,6 +11625,14 @@
       "onboard_time": 1752489622,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139880,
+      "num": 139880,
+      "word": "跑男",
+      "onboard_time": 1752847707,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 139718,
@@ -12825,6 +12905,14 @@
       "onboard_time": 1752742462,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128238,
+      "num": 144668,
+      "word": "男子背痛硬扛3天心肌大面积坏死",
+      "onboard_time": 1752847887,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128144,
@@ -14267,6 +14355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116857,
+      "num": 144167,
+      "word": "特朗普被拍到脚踝肿胀",
+      "onboard_time": 1752848246,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116848,
       "num": 116848,
       "word": "王者英雄池变男友池了",
@@ -15049,6 +15145,14 @@
       "onboard_time": 1752564861,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 110220,
+      "num": 134518,
+      "word": "真正的关系一定是充满羁绊的",
+      "onboard_time": 1752846507,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110187,
@@ -18723,14 +18827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48823,
-      "num": 188318,
-      "word": "杭州自来水异味事后免单不代表免责",
-      "onboard_time": 1752846387,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 48597,
       "num": 204158,
       "word": "夫妻冒充女儿名义借款一家三口全被告",
@@ -18888,6 +18984,14 @@
       "word": "有会员说山姆选品调整后决定不续卡",
       "onboard_time": 1752573742,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44647,
+      "num": 152765,
+      "word": "调拨2万件物资支持内蒙古救灾",
+      "onboard_time": 1752848726,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -20356,7 +20460,7 @@
     },
     {
       "raw_hot": 8120,
-      "num": 2009052,
+      "num": 3527727,
       "word": "00后卢沟桥唱如愿告慰抗战先烈",
       "onboard_time": 1752846087,
       "rank": 2,

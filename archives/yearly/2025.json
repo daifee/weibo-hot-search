@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752846937462,
+  "endTime": 1752848862774,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1531,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6171972,
+      "num": 6171972,
+      "word": "ALin秒了",
+      "onboard_time": 1752845246,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6171526,
       "num": 6171526,
       "word": "李明德因酒后砸车被刑拘",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1738151061,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5978986,
-      "num": 5978986,
-      "word": "ALin秒了",
-      "onboard_time": 1752845246,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 5865317,
