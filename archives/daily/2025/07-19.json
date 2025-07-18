@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752857616708,
+  "endTime": 1752859636901,
   "band_list": [
     {
       "raw_hot": 864112,
@@ -9,6 +9,14 @@
       "onboard_time": 1752846689,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 784749,
+      "num": 784749,
+      "word": "丈夫怀疑妻子出轨将其踹下楼致死",
+      "onboard_time": 1752853342,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 748955,
@@ -33,14 +41,6 @@
       "onboard_time": 1752834741,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 697777,
-      "num": 718745,
-      "word": "丈夫怀疑妻子出轨将其踹下楼致死",
-      "onboard_time": 1752853342,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 663525,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102076,
+      "num": 86178,
+      "word": "GAI又不想走了",
+      "onboard_time": 1752844164,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96506,
       "num": 99859,
       "word": "陈情令",
@@ -305,6 +313,14 @@
       "onboard_time": 1752837142,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83143,
+      "num": 69953,
+      "word": "徐正源称韦世豪很委屈",
+      "onboard_time": 1752857900,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 83018,
@@ -409,6 +425,14 @@
       "onboard_time": 1752852083,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33616,
+      "num": 69782,
+      "word": "现代鼠标vs唐代兔标",
+      "onboard_time": 1752858079,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
