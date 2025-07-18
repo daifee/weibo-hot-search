@@ -1,10 +1,10 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752878734283,
+  "endTime": 1752881210375,
   "band_list": [
     {
-      "raw_hot": 879775,
-      "num": 879775,
+      "raw_hot": 1288131,
+      "num": 1288131,
       "word": "美国IT大佬出轨被拍慌忙遮脸",
       "onboard_time": 1752860117,
       "rank": 9,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378500,
+      "num": 188804,
+      "word": "肖战",
+      "onboard_time": 1752880699,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339827,
       "num": 273674,
       "word": "肖战留了陈情令",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190761,
+      "num": 190761,
+      "word": "何老师哽咽了",
+      "onboard_time": 1752843084,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176305,
       "num": 176305,
       "word": "日本警方指认进口中国玩具枪能打实弹",
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158753,
+      "num": 107777,
+      "word": "中医建议伏天吃6种温性食物",
+      "onboard_time": 1752878297,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156023,
       "num": 156023,
       "word": "UNIQ",
@@ -211,11 +235,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121072,
+      "num": 121072,
+      "word": "中国驻柬埔寨大使馆回应被抓人遣返",
+      "onboard_time": 1752861377,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120148,
       "num": 302568,
       "word": "美游客戴金项链在米兰遭割喉抢劫",
       "onboard_time": 1752855442,
       "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112810,
+      "num": 112810,
+      "word": "韩国女生独自吃饭被赶出餐厅",
+      "onboard_time": 1752839664,
+      "rank": 28,
       "category": "海外新闻"
     },
     {
@@ -235,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105415,
-      "num": 105415,
-      "word": "韩国女生独自吃饭被赶出餐厅",
-      "onboard_time": 1752839664,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 106887,
+      "num": 106887,
+      "word": "孙菲菲说王阳从未道歉",
+      "onboard_time": 1752836122,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 103180,
@@ -267,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98131,
+      "num": 98131,
+      "word": "三伏天快速减脂的好方法",
+      "onboard_time": 1752875955,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 96506,
       "num": 99859,
       "word": "陈情令",
       "onboard_time": 1752840504,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95780,
-      "num": 95780,
-      "word": "中国驻柬埔寨大使馆回应被抓人遣返",
-      "onboard_time": 1752861377,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95706,
@@ -331,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85576,
+      "num": 85576,
+      "word": "印度5名男子医院行凶画面曝光",
+      "onboard_time": 1752864075,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83143,
       "num": 73791,
       "word": "徐正源称韦世豪很委屈",
@@ -353,6 +401,14 @@
       "onboard_time": 1752853283,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80825,
+      "num": 69993,
+      "word": "女业务员住在车里实现上班零通勤",
+      "onboard_time": 1752879557,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80483,
@@ -379,7 +435,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76940,
+      "raw_hot": 77608,
+      "num": 107798,
+      "word": "黄奕女儿想去韩国当练习生",
+      "onboard_time": 1752880218,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77357,
       "num": 99854,
       "word": "从穷小子到资产上亿的逆袭人生",
       "onboard_time": 1752838883,
@@ -420,7 +484,7 @@
     },
     {
       "raw_hot": 70129,
-      "num": 64573,
+      "num": 66196,
       "word": "为什么说西瓜是很善良的水果",
       "onboard_time": 1752872054,
       "rank": 46,
@@ -435,20 +499,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69090,
+      "num": 69090,
+      "word": "杭州自来水里到底是什么",
+      "onboard_time": 1752869414,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64531,
       "num": 69167,
       "word": "青龙奖人气奖大乌龙",
       "onboard_time": 1752848486,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61841,
-      "num": 61841,
-      "word": "三伏天快速减脂的好方法",
-      "onboard_time": 1752875955,
-      "rank": 27,
-      "category": "运动健身"
     },
     {
       "raw_hot": 57925,
@@ -467,12 +531,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 47149,
-      "num": 49556,
-      "word": "印度5名男子医院行凶画面曝光",
-      "onboard_time": 1752864075,
-      "rank": 36,
-      "category": "海外新闻"
+      "raw_hot": 51987,
+      "num": 56303,
+      "word": "2025第200天",
+      "onboard_time": 1752880399,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46865,
@@ -483,20 +547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41889,
-      "num": 41889,
-      "word": "杭州自来水里到底是什么",
-      "onboard_time": 1752869414,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35950,
-      "num": 35950,
-      "word": "中医建议伏天吃6种温性食物",
-      "onboard_time": 1752878297,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 43351,
+      "num": 56161,
+      "word": "电视剧樱桃琥珀观后感",
+      "onboard_time": 1752863536,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 35926,
@@ -513,14 +569,6 @@
       "onboard_time": 1752858079,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32218,
-      "num": 33887,
-      "word": "电视剧樱桃琥珀观后感",
-      "onboard_time": 1752863536,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 30891,
@@ -577,6 +625,14 @@
       "onboard_time": 1752853463,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 20694,
+      "num": 72253,
+      "word": "叙政权将派遣武装平息冲突",
+      "onboard_time": 1752880337,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18994,
