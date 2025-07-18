@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752843434020,
+  "endTime": 1752844346003,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -155,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1853307,
+      "num": 1853307,
+      "word": "林志炫 太难唱了",
+      "onboard_time": 1752842305,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1805253,
+      "num": 292691,
+      "word": "X玖少年团发文",
+      "onboard_time": 1752841825,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1798323,
       "num": 1798323,
       "word": "私密视频被恶意传播男方岂能逍遥法外",
@@ -177,14 +193,6 @@
       "onboard_time": 1752546441,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1776824,
-      "num": 1776824,
-      "word": "林志炫 太难唱了",
-      "onboard_time": 1752842305,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1776512,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1198271,
+      "num": 268660,
+      "word": "肖战获世界技能组织官员高评价",
+      "onboard_time": 1752843986,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1197124,
       "num": 317705,
       "word": "普通家庭根本没教过怎么送礼",
@@ -705,14 +721,6 @@
       "onboard_time": 1752837744,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1141890,
-      "num": 188787,
-      "word": "X玖少年团发文",
-      "onboard_time": 1752841825,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1140129,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1752370400,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845429,
+      "num": 845429,
+      "word": "市监总局约谈饿了么美团京东",
+      "onboard_time": 1752843865,
+      "rank": 3,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 844793,
@@ -2131,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 590112,
+      "num": 214432,
+      "word": "GAI又不想走了",
+      "onboard_time": 1752844164,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587647,
       "num": 406182,
       "word": "韩红现场叫停录制说要对观众负责",
@@ -2443,8 +2467,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 527299,
-      "num": 527299,
+      "raw_hot": 530640,
+      "num": 530640,
       "word": "韩国女生独自吃饭被赶出餐厅",
       "onboard_time": 1752839664,
       "rank": 3,
@@ -3171,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420414,
+      "num": 207369,
+      "word": "何老师哽咽了",
+      "onboard_time": 1752843084,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418940,
       "num": 392274,
       "word": "白敬亭拍难哄时被千人围观快碎了",
@@ -3209,6 +3241,14 @@
       "onboard_time": 1752380901,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416539,
+      "num": 202677,
+      "word": "UNIQ",
+      "onboard_time": 1752840923,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 414176,
@@ -3339,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394359,
+      "num": 382876,
+      "word": "短剧版山河令有内味了",
+      "onboard_time": 1752834262,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393881,
       "num": 393881,
       "word": "李雪琴 没有一顿饭是白饿的",
@@ -3425,14 +3473,6 @@
       "onboard_time": 1752756262,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382876,
-      "num": 382876,
-      "word": "短剧版山河令有内味了",
-      "onboard_time": 1752834262,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 381185,
@@ -3603,14 +3643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 367865,
-      "num": 173049,
-      "word": "UNIQ",
-      "onboard_time": 1752840923,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366354,
       "num": 366354,
       "word": "吉利与极氪合并",
@@ -3625,6 +3657,22 @@
       "onboard_time": 1752401541,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 364656,
+      "num": 202233,
+      "word": "单依纯口水声",
+      "onboard_time": 1752843325,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362947,
+      "num": 202001,
+      "word": "IU好美",
+      "onboard_time": 1752841883,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 362790,
@@ -3995,14 +4043,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 336274,
-      "num": 172902,
-      "word": "IU好美",
-      "onboard_time": 1752841883,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 335932,
       "num": 335932,
       "word": "王楚钦获胜后将球打给观众",
@@ -4091,20 +4131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 331529,
+      "num": 201687,
+      "word": "陈情令",
+      "onboard_time": 1752840504,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330234,
       "num": 266462,
       "word": "王星眼神终于不再是惊恐状态了",
       "onboard_time": 1752658761,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329766,
-      "num": 172819,
-      "word": "陈情令",
-      "onboard_time": 1752840504,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 329604,
@@ -4195,6 +4235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317667,
+      "num": 221763,
+      "word": "田志希官宣怀孕",
+      "onboard_time": 1752841944,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317171,
       "num": 317171,
       "word": "甘肃提级调查幼儿血铅异常问题",
@@ -4243,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313013,
+      "num": 201518,
+      "word": "孙燕姿 开始懂了",
+      "onboard_time": 1752842605,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309887,
       "num": 309887,
       "word": "网传R1SE披哥二公踢馆",
@@ -4257,14 +4313,6 @@
       "onboard_time": 1752296961,
       "rank": 11,
       "category": "互联网,美食"
-    },
-    {
-      "raw_hot": 307277,
-      "num": 172044,
-      "word": "田志希官宣怀孕",
-      "onboard_time": 1752841944,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 307044,
@@ -4828,7 +4876,7 @@
     },
     {
       "raw_hot": 276720,
-      "num": 172510,
+      "num": 200550,
       "word": "歌手顺序",
       "onboard_time": 1752841105,
       "rank": 26,
@@ -5691,6 +5739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243275,
+      "num": 243275,
+      "word": "从穷小子到资产上亿的逆袭人生",
+      "onboard_time": 1752838883,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242328,
       "num": 242328,
       "word": "朝雪录第一案凶手道歉",
@@ -6060,7 +6116,7 @@
     },
     {
       "raw_hot": 222704,
-      "num": 172389,
+      "num": 200361,
       "word": "李惠利黑长直",
       "onboard_time": 1752840623,
       "rank": 27,
@@ -6220,7 +6276,7 @@
     },
     {
       "raw_hot": 218125,
-      "num": 880397,
+      "num": 1251656,
       "word": "不要以手拉手方式下水救援",
       "onboard_time": 1752802040,
       "rank": 21,
@@ -6795,12 +6851,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205469,
-      "num": 171864,
-      "word": "何老师哽咽了",
-      "onboard_time": 1752843084,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 206100,
+      "num": 206100,
+      "word": "龙族三集三刀",
+      "onboard_time": 1752843565,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 205462,
@@ -6899,6 +6955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203951,
+      "num": 200104,
+      "word": "GAI看史宗伦钟欣舞台表情",
+      "onboard_time": 1752843923,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203939,
       "num": 181352,
       "word": "余茵是真的听劝",
@@ -6940,7 +7004,7 @@
     },
     {
       "raw_hot": 203236,
-      "num": 171840,
+      "num": 200004,
       "word": "李兰迪吊带蓝裙",
       "onboard_time": 1752842484,
       "rank": 33,
@@ -6985,6 +7049,14 @@
       "onboard_time": 1752548481,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202900,
+      "num": 202900,
+      "word": "原神伊涅芙",
+      "onboard_time": 1752843385,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 202838,
@@ -7539,6 +7611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 192583,
+      "num": 192583,
+      "word": "riize直播",
+      "onboard_time": 1752843806,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192575,
       "num": 192575,
       "word": "苏新皓被红海整微醺了",
@@ -7776,14 +7856,6 @@
       "word": "韩红或将不再录制综艺",
       "onboard_time": 1752740541,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188931,
-      "num": 171719,
-      "word": "孙燕姿 开始懂了",
-      "onboard_time": 1752842605,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -8099,12 +8171,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 184446,
-      "num": 184446,
-      "word": "从穷小子到资产上亿的逆袭人生",
-      "onboard_time": 1752838883,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 184424,
+      "num": 184424,
+      "word": "青龙电视剧大赏",
+      "onboard_time": 1752841644,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 184304,
@@ -8441,6 +8513,14 @@
       "onboard_time": 1752574762,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178243,
+      "num": 178243,
+      "word": "鹿晗小雀斑look",
+      "onboard_time": 1752844045,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 178196,
@@ -8857,14 +8937,6 @@
       "onboard_time": 1752384202,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171645,
-      "num": 171645,
-      "word": "青龙电视剧大赏",
-      "onboard_time": 1752841644,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 171285,
@@ -9361,6 +9433,14 @@
       "onboard_time": 1752651261,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164291,
+      "num": 202891,
+      "word": "孙颖莎被印在了EMS录取通知书封面",
+      "onboard_time": 1752843264,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164268,
@@ -10459,6 +10539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150082,
+      "num": 150082,
+      "word": "傲寒回应",
+      "onboard_time": 1752844164,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149912,
       "num": 149912,
       "word": "GEN对战T1",
@@ -10537,6 +10625,14 @@
       "onboard_time": 1752730762,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148695,
+      "num": 148695,
+      "word": "田栩宁设置仅半年可见",
+      "onboard_time": 1752840564,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 148498,
@@ -10632,14 +10728,6 @@
       "word": "咏梅顶级地母系美人",
       "onboard_time": 1752582622,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 147721,
-      "num": 147721,
-      "word": "田栩宁设置仅半年可见",
-      "onboard_time": 1752840564,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -10747,6 +10835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146963,
+      "num": 146963,
+      "word": "应援棒投票",
+      "onboard_time": 1752840083,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146954,
       "num": 146954,
       "word": "刘宇宁折腰实绩图",
@@ -10760,6 +10856,14 @@
       "word": "柯淳自曝初恋被分手",
       "onboard_time": 1752332004,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146823,
+      "num": 146823,
+      "word": "李健急得嘴里炒了盘豆",
+      "onboard_time": 1752842905,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -11603,14 +11707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137708,
-      "num": 137708,
-      "word": "应援棒投票",
-      "onboard_time": 1752840083,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 137593,
       "num": 137593,
       "word": "多肉饱饱",
@@ -11785,14 +11881,6 @@
       "onboard_time": 1752671843,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136058,
-      "num": 136058,
-      "word": "孙颖莎被印在了EMS录取通知书封面",
-      "onboard_time": 1752843264,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 136023,
@@ -12025,14 +12113,6 @@
       "onboard_time": 1752639681,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133513,
-      "num": 133513,
-      "word": "单依纯口水声",
-      "onboard_time": 1752843325,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 133340,
@@ -12611,14 +12691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128196,
-      "num": 128196,
-      "word": "李健急得嘴里炒了盘豆",
-      "onboard_time": 1752842905,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128144,
       "num": 130038,
       "word": "手机充电一整夜会更伤电池吗",
@@ -12985,14 +13057,6 @@
       "onboard_time": 1752332543,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124725,
-      "num": 124725,
-      "word": "原神伊涅芙",
-      "onboard_time": 1752843385,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 124686,
@@ -17235,6 +17299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83041,
+      "num": 178303,
+      "word": "魔卡少女樱库洛牌cos",
+      "onboard_time": 1752843204,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 82894,
       "num": 126251,
       "word": "上海孤老500万遗产寻找继承人",
@@ -17603,14 +17675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75294,
-      "num": 147011,
-      "word": "魔卡少女樱库洛牌cos",
-      "onboard_time": 1752843204,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 75275,
       "num": 213705,
       "word": "张凌赫接了我送的花",
@@ -17809,6 +17873,14 @@
       "onboard_time": 1752685939,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 66025,
+      "num": 201350,
+      "word": "湖北公布7起诬告陷害典型案例",
+      "onboard_time": 1752842605,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66022,
@@ -18016,6 +18088,14 @@
       "word": "市监局回应顾客吃完烤肉发现活蛆",
       "onboard_time": 1752637280,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60715,
+      "num": 201775,
+      "word": "律师解读老年暴走团逼停120和119",
+      "onboard_time": 1752842484,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18504,14 +18584,6 @@
       "word": "失联高考生电话被自称缅甸人接听",
       "onboard_time": 1752384741,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47576,
-      "num": 201350,
-      "word": "湖北公布7起诬告陷害典型案例",
-      "onboard_time": 1752842605,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -19043,14 +19115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33495,
-      "num": 173243,
-      "word": "律师解读老年暴走团逼停120和119",
-      "onboard_time": 1752842484,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33334,
       "num": 125133,
       "word": "苏州东吴与中国香港球员米高解约",
@@ -19563,6 +19627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22791,
+      "num": 200860,
+      "word": "20余商家称遭衣服里藏针退赔讹诈",
+      "onboard_time": 1752842544,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22720,
       "num": 22720,
       "word": "邓为晒库存照",
@@ -19800,14 +19872,6 @@
       "word": "10余人接力守护党的一号机密",
       "onboard_time": 1752344297,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19128,
-      "num": 172237,
-      "word": "20余商家称遭衣服里藏针退赔讹诈",
-      "onboard_time": 1752842544,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -20089,6 +20153,14 @@
       "onboard_time": 1752363317,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7145,
+      "num": 151761,
+      "word": "谁懂三丽鸥和雅迪联名的含金量",
+      "onboard_time": 1752844285,
+      "rank": 44,
+      "category": "民生新闻,数码"
     }
   ],
   "hotgov_list": [
