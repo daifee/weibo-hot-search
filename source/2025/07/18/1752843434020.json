@@ -1,0 +1,410 @@
+{
+  "runTime": 1752843434020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2172880,
+        "num": 2172880,
+        "word": "单依纯 唱法",
+        "onboard_time": 1752841705,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1776824,
+        "num": 1776824,
+        "word": "林志炫 太难唱了",
+        "onboard_time": 1752842305,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11156,
+        "num": 880397,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527299,
+        "num": 527299,
+        "word": "韩国女生独自吃饭被赶出餐厅",
+        "onboard_time": 1752839664,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310282,
+        "num": 310282,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289485,
+        "num": 289485,
+        "word": "年轻人开始卡bug上四休三了",
+        "onboard_time": 1752840024,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1311331,
+        "num": 275962,
+        "word": "肖战留了陈情令",
+        "onboard_time": 1752839844,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1276245,
+        "num": 251510,
+        "word": "李佳薇 好听",
+        "onboard_time": 1752841163,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202612,
+        "num": 202612,
+        "word": "原神5.8前瞻直播",
+        "onboard_time": 1752841764,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47576,
+        "num": 201350,
+        "word": "湖北公布7起诬告陷害典型案例",
+        "onboard_time": 1752842605,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1142800,
+        "num": 195603,
+        "word": "歌手直播",
+        "onboard_time": 1752837744,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9707295,
+        "num": 9707295,
+        "word": "肖战微博改名",
+        "onboard_time": 1752837081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1141890,
+        "num": 188787,
+        "word": "X玖少年团发文",
+        "onboard_time": 1752841825,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834650,
+        "num": 187124,
+        "word": "Jennie删掉和朴彩英的合照",
+        "onboard_time": 1752834741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184446,
+        "num": 184446,
+        "word": "从穷小子到资产上亿的逆袭人生",
+        "onboard_time": 1752838883,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755141,
+        "num": 181261,
+        "word": "X玖少年团成员去前缀",
+        "onboard_time": 1752833960,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173528,
+        "num": 173528,
+        "word": "英国五年内诞生8名三亲婴儿",
+        "onboard_time": 1752823401,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165468,
+        "num": 173448,
+        "word": "免费领鸡蛋骗走244亿养老钱",
+        "onboard_time": 1752834622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60466,
+        "num": 173367,
+        "word": "歌手选曲品味",
+        "onboard_time": 1752837744,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33495,
+        "num": 173243,
+        "word": "律师解读老年暴走团逼停120和119",
+        "onboard_time": 1752842484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743837,
+        "num": 173196,
+        "word": "哇唧唧哇",
+        "onboard_time": 1752837502,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367865,
+        "num": 173049,
+        "word": "UNIQ",
+        "onboard_time": 1752840923,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336274,
+        "num": 172902,
+        "word": "IU好美",
+        "onboard_time": 1752841883,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329766,
+        "num": 172819,
+        "word": "陈情令",
+        "onboard_time": 1752840504,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328310,
+        "num": 172722,
+        "word": "短剧版山河令有内味了",
+        "onboard_time": 1752834262,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317792,
+        "num": 172586,
+        "word": "杨幂不带小糯米上节目的原因",
+        "onboard_time": 1752837142,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276720,
+        "num": 172510,
+        "word": "歌手顺序",
+        "onboard_time": 1752841105,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222704,
+        "num": 172389,
+        "word": "李惠利黑长直",
+        "onboard_time": 1752840623,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207486,
+        "num": 172313,
+        "word": "宋亚轩严浩翔 讨厌红楼梦",
+        "onboard_time": 1752832761,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19128,
+        "num": 172237,
+        "word": "20余商家称遭衣服里藏针退赔讹诈",
+        "onboard_time": 1752842544,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160078,
+        "num": 172143,
+        "word": "中国乒乓变中国兵乓",
+        "onboard_time": 1752827242,
+        "rank": 30,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 307277,
+        "num": 172044,
+        "word": "田志希官宣怀孕",
+        "onboard_time": 1752841944,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205469,
+        "num": 171864,
+        "word": "何老师哽咽了",
+        "onboard_time": 1752843084,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203236,
+        "num": 171840,
+        "word": "李兰迪吊带蓝裙",
+        "onboard_time": 1752842484,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188931,
+        "num": 171719,
+        "word": "孙燕姿 开始懂了",
+        "onboard_time": 1752842605,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171645,
+        "num": 171645,
+        "word": "青龙电视剧大赏",
+        "onboard_time": 1752841644,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171494,
+        "num": 171494,
+        "word": "夏之光改前缀",
+        "onboard_time": 1752833721,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167530,
+        "num": 167530,
+        "word": "深情眼定档",
+        "onboard_time": 1752842784,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147721,
+        "num": 147721,
+        "word": "田栩宁设置仅半年可见",
+        "onboard_time": 1752840564,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75294,
+        "num": 147011,
+        "word": "魔卡少女樱库洛牌cos",
+        "onboard_time": 1752843204,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146337,
+        "num": 146337,
+        "word": "X玖少年团",
+        "onboard_time": 1752834021,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137708,
+        "num": 137708,
+        "word": "应援棒投票",
+        "onboard_time": 1752840083,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137507,
+        "num": 137507,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1752840444,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136058,
+        "num": 136058,
+        "word": "孙颖莎被印在了EMS录取通知书封面",
+        "onboard_time": 1752843264,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133513,
+        "num": 133513,
+        "word": "单依纯口水声",
+        "onboard_time": 1752843325,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128196,
+        "num": 128196,
+        "word": "李健急得嘴里炒了盘豆",
+        "onboard_time": 1752842905,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126736,
+        "num": 126736,
+        "word": "逼停120和119徒步团有近10年历史",
+        "onboard_time": 1752839182,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124725,
+        "num": 124725,
+        "word": "原神伊涅芙",
+        "onboard_time": 1752843385,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121701,
+        "num": 121701,
+        "word": "BLG拼好野",
+        "onboard_time": 1752841526,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121193,
+        "num": 121193,
+        "word": "旺仔小乔不露脸演唱会",
+        "onboard_time": 1752838283,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#万里行程映初心#"
+    }
+  }
+}
