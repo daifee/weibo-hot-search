@@ -1,0 +1,410 @@
+{
+  "runTime": 1752814757997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2306454,
+        "num": 2306454,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 743204,
+        "num": 743204,
+        "word": "茶颜悦色被曝设计与方大同专辑相似",
+        "onboard_time": 1752813142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18455,
+        "num": 737926,
+        "word": "中国航天把中式浪漫写进了宇宙",
+        "onboard_time": 1752800060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 736191,
+        "num": 736191,
+        "word": "杨幂 支持女儿而不是控制她",
+        "onboard_time": 1752810382,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575825,
+        "num": 575825,
+        "word": "刑满释放后去洗浴中心0元购被抓",
+        "onboard_time": 1752805041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409424,
+        "num": 409424,
+        "word": "美国游客在意大利被割喉抢劫",
+        "onboard_time": 1752808521,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 518294,
+        "num": 406338,
+        "word": "网红多肉饱饱赠覃海洋名表均为假货",
+        "onboard_time": 1752804440,
+        "rank": 6,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 388127,
+        "num": 388127,
+        "word": "从128斤瘦到88斤的真实感受",
+        "onboard_time": 1752798801,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 359228,
+        "num": 359228,
+        "word": "张继科回应是否会邀请樊振东",
+        "onboard_time": 1752810561,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204797,
+        "num": 291948,
+        "word": "装修后甲醛风险最大的地方",
+        "onboard_time": 1752813442,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485386,
+        "num": 286795,
+        "word": "普通家庭根本没教过怎么送礼",
+        "onboard_time": 1752798981,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385475,
+        "num": 286449,
+        "word": "偷吃吗 有点意思",
+        "onboard_time": 1752813383,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277776,
+        "num": 277776,
+        "word": "恋与深空",
+        "onboard_time": 1752812122,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276843,
+        "num": 276843,
+        "word": "叠纸心意",
+        "onboard_time": 1752812602,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264994,
+        "num": 264994,
+        "word": "我是王嘉尔我也崩溃了",
+        "onboard_time": 1752809842,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251135,
+        "num": 251135,
+        "word": "闪耀暖暖",
+        "onboard_time": 1752813562,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240347,
+        "num": 240347,
+        "word": "孙颖莎王楚钦王曼昱合影",
+        "onboard_time": 1752808101,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215440,
+        "num": 239425,
+        "word": "你好星期六",
+        "onboard_time": 1752808460,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116186,
+        "num": 234399,
+        "word": "疑似10万级MG4将首发半固态电池",
+        "onboard_time": 1752813203,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212789,
+        "num": 232788,
+        "word": "徐志胜回应一家人共用一张脸",
+        "onboard_time": 1752805581,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7236,
+        "num": 229876,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227326,
+        "num": 227326,
+        "word": "信用卡还款日还款为何6年被收1.2万",
+        "onboard_time": 1752812844,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217175,
+        "num": 217175,
+        "word": "女子朋友圈诅咒辱骂吸烟领导被辞",
+        "onboard_time": 1752813803,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210693,
+        "num": 210693,
+        "word": "特朗普被确诊患静脉疾病",
+        "onboard_time": 1752794118,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183538,
+        "num": 183538,
+        "word": "J人和P人面对选择的不同反应",
+        "onboard_time": 1752811282,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 178859,
+        "num": 178859,
+        "word": "校方回应警犬技术专业将分发小狗",
+        "onboard_time": 1752806781,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173778,
+        "num": 173778,
+        "word": "月租6万元甲醛房致患病房东发声",
+        "onboard_time": 1752796941,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172065,
+        "num": 172065,
+        "word": "大鹏选庄达菲演阿僮的原因",
+        "onboard_time": 1752814162,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167535,
+        "num": 167535,
+        "word": "杭州多个小区自来水现异味后续",
+        "onboard_time": 1752804082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165201,
+        "num": 165201,
+        "word": "喜剧之王单口季",
+        "onboard_time": 1752813262,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184588,
+        "num": 164112,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160688,
+        "num": 161742,
+        "word": "张继科蔡振华打乒乓球",
+        "onboard_time": 1752806420,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165500,
+        "num": 161240,
+        "word": "田栩宁穿背心下班",
+        "onboard_time": 1752800541,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172147,
+        "num": 159800,
+        "word": "董璇被宋丹丹问恋情时脸红",
+        "onboard_time": 1752813623,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158280,
+        "num": 158280,
+        "word": "打歌2025官宣定档",
+        "onboard_time": 1752810320,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159618,
+        "num": 157904,
+        "word": "女性夏季警惕卫生巾惹炎症",
+        "onboard_time": 1752813562,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157478,
+        "num": 157478,
+        "word": "华南理工研究生奖学金发放新规引争议",
+        "onboard_time": 1752805881,
+        "rank": 36,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 155449,
+        "num": 155449,
+        "word": "刘慧涉嫌严重违纪违法被查",
+        "onboard_time": 1752814404,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102923,
+        "num": 149052,
+        "word": "龙族动画第二季开播",
+        "onboard_time": 1752814162,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21660,
+        "num": 148165,
+        "word": "美团养老补贴年底覆盖百万骑手",
+        "onboard_time": 1752811282,
+        "rank": 39,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 147866,
+        "num": 147866,
+        "word": "李昀锐一把抱起周深",
+        "onboard_time": 1752808941,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139007,
+        "num": 139007,
+        "word": "聋哑人司机被欺负",
+        "onboard_time": 1752812062,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136454,
+        "num": 136454,
+        "word": "孙千素颜参加长安的荔枝首映礼",
+        "onboard_time": 1752797660,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133271,
+        "num": 133271,
+        "word": "领位员紧急撤回一个樊振东",
+        "onboard_time": 1752814104,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130543,
+        "num": 130543,
+        "word": "吴宣仪翟潇闻有戏概念海报",
+        "onboard_time": 1752809722,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129211,
+        "num": 129211,
+        "word": "孙颖莎王楚钦中国邮政活动",
+        "onboard_time": 1752804440,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126572,
+        "num": 126572,
+        "word": "邵子恒跳女团舞",
+        "onboard_time": 1752814702,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126145,
+        "num": 126145,
+        "word": "养猫人避雷这种凳子",
+        "onboard_time": 1752814702,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125085,
+        "num": 125085,
+        "word": "虞书欣说不会为了转型而转型",
+        "onboard_time": 1752807022,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125006,
+        "num": 125006,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持足够的历史耐心#"
+    }
+  }
+}
