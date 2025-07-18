@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 00:35:40
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 00:53:36
 </p>
 </blockquote>
 <p>
@@ -4047,6 +4047,12 @@ K1373砸窗男子被批评教育（热度：701716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%80%80%E7%96%91%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%B0%86%E5%85%B6%E8%B8%B9%E4%B8%8B%E6%A5%BC%E8%87%B4%E6%AD%BB%23" target="weibo">
+丈夫怀疑妻子出轨将其踹下楼致死（热度：697777）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%AE%B6%E9%87%8C%E6%8F%92%E5%BA%A7%E5%87%BA%E6%B0%B4%E6%88%90%E7%80%91%E5%B8%83%23" target="weibo">
 成都暴雨致家里插座出水成瀑布（热度：697235）
 </a>
@@ -4529,12 +4535,6 @@ GAI是不是又想走了（热度：658327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E8%AE%A4%E4%B8%BA%E6%AF%94%E8%B5%9B%E7%94%A8%E7%81%AB%E9%94%85%E5%BA%95%E6%96%99%E6%98%AF%E4%BD%9C%E5%BC%8A%23" target="weibo">
 谢霆锋认为比赛用火锅底料是作弊（热度：653266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%80%80%E7%96%91%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%B0%86%E5%85%B6%E8%B8%B9%E4%B8%8B%E6%A5%BC%E8%87%B4%E6%AD%BB%23" target="weibo">
-丈夫怀疑妻子出轨将其踹下楼致死（热度：652918）
 </a>
 </li>
 
