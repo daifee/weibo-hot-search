@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752835755586,
+  "endTime": 1752837898430,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -857,6 +857,14 @@
       "onboard_time": 1746359842,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10211327,
+      "num": 10211327,
+      "word": "肖战微博改名",
+      "onboard_time": 1752837081,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 10208509,
@@ -2092,7 +2100,7 @@
     },
     {
       "raw_hot": 4040259,
-      "num": 261076,
+      "num": 281025,
       "word": "X玖少年团成员去前缀",
       "onboard_time": 1752833960,
       "rank": 10,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3665401,
-      "num": 725439,
-      "word": "郑乃馨吐槽中国厕所脏",
-      "onboard_time": 1744422023,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

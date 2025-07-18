@@ -1,0 +1,410 @@
+{
+  "runTime": 1752837898430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 643816,
+        "num": 1103010,
+        "word": "英国五年内诞生8名三亲婴儿",
+        "onboard_time": 1752823401,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 504107,
+        "num": 504107,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20321,
+        "num": 435918,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382584,
+        "num": 382584,
+        "word": "短剧版山河令有内味了",
+        "onboard_time": 1752834262,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310020,
+        "num": 310020,
+        "word": "宋亚轩严浩翔 讨厌红楼梦",
+        "onboard_time": 1752832761,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281281,
+        "num": 281281,
+        "word": "免费领鸡蛋骗走244亿养老钱",
+        "onboard_time": 1752834622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282605,
+        "num": 281264,
+        "word": "时代少年团空降",
+        "onboard_time": 1752824662,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236865,
+        "num": 281216,
+        "word": "中国乒乓变中国兵乓",
+        "onboard_time": 1752827242,
+        "rank": 7,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 206672,
+        "num": 281163,
+        "word": "易烊千玺真的去看Eason哥了",
+        "onboard_time": 1752834262,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176811,
+        "num": 281146,
+        "word": "派出所回应暴走团占道逼停120和119",
+        "onboard_time": 1752823401,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10211327,
+        "num": 10211327,
+        "word": "肖战微博改名",
+        "onboard_time": 1752837081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2926475,
+        "num": 281025,
+        "word": "X玖少年团成员去前缀",
+        "onboard_time": 1752833960,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1128323,
+        "num": 281014,
+        "word": "Jennie删掉和朴彩英的合照",
+        "onboard_time": 1752834741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228769,
+        "num": 280956,
+        "word": "月薪5w是什么概念",
+        "onboard_time": 1752823702,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58952,
+        "num": 280919,
+        "word": "挖到了pdd15元的报恩防晒伞",
+        "onboard_time": 1752836481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1221486,
+        "num": 280877,
+        "word": "肖战X玖最后一位少年",
+        "onboard_time": 1752835340,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329244,
+        "num": 280821,
+        "word": "晚晚名画诞生",
+        "onboard_time": 1752830302,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302680,
+        "num": 280793,
+        "word": "哇唧唧哇",
+        "onboard_time": 1752837502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280749,
+        "num": 280749,
+        "word": "夏之光改前缀",
+        "onboard_time": 1752833721,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275967,
+        "num": 275967,
+        "word": "杨幂不带小糯米上节目的原因",
+        "onboard_time": 1752837142,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266438,
+        "num": 266438,
+        "word": "孙菲菲说王阳从未道歉",
+        "onboard_time": 1752836122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75935,
+        "num": 230084,
+        "word": "还是太小看义乌了",
+        "onboard_time": 1752836542,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228374,
+        "num": 228374,
+        "word": "X玖少年团",
+        "onboard_time": 1752834021,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210668,
+        "num": 210668,
+        "word": "田栩宁梓渝热门人物前二",
+        "onboard_time": 1752831801,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191542,
+        "num": 191542,
+        "word": "化妆和不化妆的都沉默了",
+        "onboard_time": 1752832761,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 189054,
+        "num": 189054,
+        "word": "一栗莎子瘦了37斤",
+        "onboard_time": 1752823762,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185507,
+        "num": 185507,
+        "word": "赵露思ELLE水下封面",
+        "onboard_time": 1752834200,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149538,
+        "num": 149538,
+        "word": "林志炫选择冲榜单依纯",
+        "onboard_time": 1752835161,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147557,
+        "num": 147557,
+        "word": "四川681分黄毛学霸换发型了",
+        "onboard_time": 1752831741,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 114090,
+        "num": 131196,
+        "word": "歌手直播",
+        "onboard_time": 1752837744,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197710,
+        "num": 130981,
+        "word": "异形舞台更新",
+        "onboard_time": 1752837744,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129560,
+        "num": 129560,
+        "word": "鸿蒙大酒店火了",
+        "onboard_time": 1752835761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128786,
+        "num": 128786,
+        "word": "梓渝偷吃唐九洲的汉堡",
+        "onboard_time": 1752830842,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62659,
+        "num": 121326,
+        "word": "西湖边多只小松鼠被流浪猫捕猎",
+        "onboard_time": 1752832221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120708,
+        "num": 120708,
+        "word": "30岁戴2年牙套的后遗症",
+        "onboard_time": 1752826882,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111576,
+        "num": 111576,
+        "word": "歌手选曲品味",
+        "onboard_time": 1752837744,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110187,
+        "num": 110187,
+        "word": "杨洋分享橘子日落",
+        "onboard_time": 1752836481,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109541,
+        "num": 109541,
+        "word": "外国网红测试中国男人",
+        "onboard_time": 1752835642,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109491,
+        "num": 109491,
+        "word": "朝雪录cp乱成自助餐了趁热吃",
+        "onboard_time": 1752837562,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108415,
+        "num": 108415,
+        "word": "曼谷飞重庆航班前挡风玻璃破裂",
+        "onboard_time": 1752836122,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106192,
+        "num": 106192,
+        "word": "你行你上豆瓣开分6.7",
+        "onboard_time": 1752837142,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104592,
+        "num": 104592,
+        "word": "朝雪录",
+        "onboard_time": 1752820162,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104067,
+        "num": 104067,
+        "word": "亲生父亲伙同继母买1600片泻药喂女儿",
+        "onboard_time": 1752829102,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102507,
+        "num": 102507,
+        "word": "T1对战MKOI",
+        "onboard_time": 1752837623,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96677,
+        "num": 96677,
+        "word": "台风韦帕或致广东多地停工",
+        "onboard_time": 1752836841,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92342,
+        "num": 92342,
+        "word": "北工大回应挖煤小伙逆袭成博士",
+        "onboard_time": 1752834681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91887,
+        "num": 91887,
+        "word": "胡先煦成都人气",
+        "onboard_time": 1752836421,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87951,
+        "num": 87951,
+        "word": "叫板拍立得的小米随身拍来了",
+        "onboard_time": 1752836960,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86657,
+        "num": 86657,
+        "word": "领导让联系王安宇真就联系到了",
+        "onboard_time": 1752827182,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 85410,
+        "num": 85410,
+        "word": "居民称自来水不臭了都是杂质",
+        "onboard_time": 1752833420,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#万里行程映初心#"
+    }
+  }
+}

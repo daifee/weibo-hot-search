@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752835755586,
+  "endTime": 1752837898430,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -41,6 +41,14 @@
       "onboard_time": 1752740001,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10211327,
+      "num": 10211327,
+      "word": "肖战微博改名",
+      "onboard_time": 1752837081,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 10128223,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 4040259,
-      "num": 261076,
+      "num": 281025,
       "word": "X玖少年团成员去前缀",
       "onboard_time": 1752833960,
       "rank": 10,
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 1589798,
-      "num": 247897,
+      "num": 280877,
       "word": "肖战X玖最后一位少年",
       "onboard_time": 1752835340,
       "rank": 12,
@@ -2313,6 +2321,14 @@
       "onboard_time": 1752032725,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1128323,
+      "num": 281014,
+      "word": "Jennie删掉和朴彩英的合照",
+      "onboard_time": 1752834741,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1127850,
@@ -5627,14 +5643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 672568,
-      "num": 248319,
-      "word": "Jennie删掉和朴彩英的合照",
-      "onboard_time": 1752834741,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 671854,
       "num": 532456,
       "word": "横店女明星热得命好苦的样子",
@@ -7556,7 +7564,7 @@
     },
     {
       "raw_hot": 543121,
-      "num": 259238,
+      "num": 280749,
       "word": "夏之光改前缀",
       "onboard_time": 1752833721,
       "rank": 12,
@@ -11059,6 +11067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382584,
+      "num": 382584,
+      "word": "短剧版山河令有内味了",
+      "onboard_time": 1752834262,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382173,
       "num": 297248,
       "word": "邢昭林家传减肥爆改吗",
@@ -14043,6 +14059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302680,
+      "num": 280793,
+      "word": "哇唧唧哇",
+      "onboard_time": 1752837502,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302342,
       "num": 302342,
       "word": "孙颖莎全国青联常务委员会委员",
@@ -15059,6 +15083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 281281,
+      "num": 281281,
+      "word": "免费领鸡蛋骗走244亿养老钱",
+      "onboard_time": 1752834622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281077,
       "num": 281077,
       "word": "高叶大嫂气场完全看不见了",
@@ -15393,6 +15425,14 @@
       "onboard_time": 1752208822,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 275967,
+      "num": 275967,
+      "word": "杨幂不带小糯米上节目的原因",
+      "onboard_time": 1752837142,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 275958,
@@ -16033,6 +16073,14 @@
       "onboard_time": 1752808941,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266438,
+      "num": 266438,
+      "word": "孙菲菲说王阳从未道歉",
+      "onboard_time": 1752836122,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 266307,
@@ -16700,7 +16748,7 @@
     },
     {
       "raw_hot": 255653,
-      "num": 255653,
+      "num": 281163,
       "word": "易烊千玺真的去看Eason哥了",
       "onboard_time": 1752834262,
       "rank": 27,
@@ -17993,14 +18041,6 @@
       "onboard_time": 1751730744,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 236005,
-      "num": 236005,
-      "word": "短剧版山河令有内味了",
-      "onboard_time": 1752834262,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 235883,
@@ -22611,6 +22651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197710,
+      "num": 130981,
+      "word": "异形舞台更新",
+      "onboard_time": 1752837744,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197708,
       "num": 262715,
       "word": "爸爸当家",
@@ -26545,14 +26593,6 @@
       "onboard_time": 1752393021,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176583,
-      "num": 235687,
-      "word": "免费领鸡蛋骗走244亿养老钱",
-      "onboard_time": 1752834622,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176572,
@@ -34596,7 +34636,7 @@
     },
     {
       "raw_hot": 142988,
-      "num": 226491,
+      "num": 280919,
       "word": "挖到了pdd15元的报恩防晒伞",
       "onboard_time": 1752828682,
       "rank": 36,
@@ -38841,6 +38881,14 @@
       "onboard_time": 1752657381,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129560,
+      "num": 129560,
+      "word": "鸿蒙大酒店火了",
+      "onboard_time": 1752835761,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129549,
@@ -45371,6 +45419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111576,
+      "num": 111576,
+      "word": "歌手选曲品味",
+      "onboard_time": 1752837744,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111532,
       "num": 111532,
       "word": "外卖三国杀",
@@ -45835,6 +45891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110187,
+      "num": 110187,
+      "word": "杨洋分享橘子日落",
+      "onboard_time": 1752836481,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110173,
       "num": 110173,
       "word": "马斯克称Grok已比人类聪明得多",
@@ -46003,6 +46067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109541,
+      "num": 110165,
+      "word": "外国网红测试中国男人",
+      "onboard_time": 1752835642,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109520,
       "num": 109520,
       "word": "5岁女童游泳后感染食脑虫昏迷不醒",
@@ -46033,6 +46105,14 @@
       "onboard_time": 1751525482,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109491,
+      "num": 109491,
+      "word": "朝雪录cp乱成自助餐了趁热吃",
+      "onboard_time": 1752837562,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 109455,
@@ -46337,6 +46417,14 @@
       "onboard_time": 1751714121,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108415,
+      "num": 108415,
+      "word": "曼谷飞重庆航班前挡风玻璃破裂",
+      "onboard_time": 1752836122,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108407,
@@ -47113,6 +47201,14 @@
       "onboard_time": 1752110661,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106192,
+      "num": 106192,
+      "word": "你行你上豆瓣开分6.7",
+      "onboard_time": 1752837142,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 106189,
@@ -48345,6 +48441,14 @@
       "onboard_time": 1752592702,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102507,
+      "num": 102507,
+      "word": "T1对战MKOI",
+      "onboard_time": 1752837623,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102496,
@@ -49739,6 +49843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96677,
+      "num": 96677,
+      "word": "台风韦帕或致广东多地停工",
+      "onboard_time": 1752836841,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96614,
       "num": 275222,
       "word": "新疆那拉提景区一游客驾车驶入草场",
@@ -50683,6 +50795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92342,
+      "num": 235460,
+      "word": "北工大回应挖煤小伙逆袭成博士",
+      "onboard_time": 1752834681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92246,
       "num": 92246,
       "word": "特朗普大而美法案被指劫贫济富",
@@ -50761,6 +50881,14 @@
       "onboard_time": 1751686222,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91887,
+      "num": 91887,
+      "word": "胡先煦成都人气",
+      "onboard_time": 1752836421,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 91880,
@@ -51345,6 +51473,14 @@
       "onboard_time": 1752297860,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87951,
+      "num": 87951,
+      "word": "叫板拍立得的小米随身拍来了",
+      "onboard_time": 1752836960,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 87922,
@@ -52483,14 +52619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80902,
-      "num": 110165,
-      "word": "外国网红测试中国男人",
-      "onboard_time": 1752835642,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80851,
       "num": 80851,
       "word": "王以纶千字收官长文",
@@ -53081,6 +53209,14 @@
       "onboard_time": 1752305602,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 75935,
+      "num": 230084,
+      "word": "还是太小看义乌了",
+      "onboard_time": 1752836542,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75880,
@@ -54641,6 +54777,14 @@
       "onboard_time": 1752590184,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62659,
+      "num": 121326,
+      "word": "西湖边多只小松鼠被流浪猫捕猎",
+      "onboard_time": 1752832221,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62623,
@@ -57337,14 +57481,6 @@
       "onboard_time": 1752206483,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41847,
-      "num": 235460,
-      "word": "北工大回应挖煤小伙逆袭成博士",
-      "onboard_time": 1752834681,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41800,
