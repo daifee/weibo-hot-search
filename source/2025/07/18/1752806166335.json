@@ -1,0 +1,410 @@
+{
+  "runTime": 1752806166335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1233198,
+        "num": 1233198,
+        "word": "从128斤瘦到88斤的真实感受",
+        "onboard_time": 1752798801,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1056038,
+        "num": 1056038,
+        "word": "网红多肉饱饱赠覃海洋名表均为假货",
+        "onboard_time": 1752804440,
+        "rank": 1,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 9092,
+        "num": 514295,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511520,
+        "num": 511520,
+        "word": "孙颖莎王楚钦中国邮政活动",
+        "onboard_time": 1752804440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493880,
+        "num": 493880,
+        "word": "孙千素颜参加长安的荔枝首映礼",
+        "onboard_time": 1752797660,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 544762,
+        "num": 488849,
+        "word": "特朗普被确诊患静脉疾病",
+        "onboard_time": 1752794118,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 472979,
+        "num": 472979,
+        "word": "月租6万元甲醛房致患病房东发声",
+        "onboard_time": 1752796941,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404741,
+        "num": 404741,
+        "word": "杜淳妻子聊名媛培训班",
+        "onboard_time": 1752793998,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343841,
+        "num": 343841,
+        "word": "辱骂中国球迷的黑人球员被解约",
+        "onboard_time": 1752802701,
+        "rank": 8,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 309987,
+        "num": 309987,
+        "word": "早产儿疑遭6岁男童摔落后死亡",
+        "onboard_time": 1752798801,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1077358,
+        "num": 309340,
+        "word": "普通家庭根本没教过怎么送礼",
+        "onboard_time": 1752798981,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189629,
+        "num": 296962,
+        "word": "间谍企图将稀土灌入塑料模特偷出境",
+        "onboard_time": 1752797120,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436734,
+        "num": 296554,
+        "word": "田栩宁穿背心下班",
+        "onboard_time": 1752800541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292642,
+        "num": 292642,
+        "word": "王嘉尔 专辑已经出了我自己都不知道",
+        "onboard_time": 1752803660,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91466,
+        "num": 282030,
+        "word": "啤酒节青岛碰一下竟然免费喝",
+        "onboard_time": 1752804082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271752,
+        "num": 271752,
+        "word": "肖战被当面蛐蛐了",
+        "onboard_time": 1752802520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250353,
+        "num": 250353,
+        "word": "杭州多个小区自来水现异味后续",
+        "onboard_time": 1752804082,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233876,
+        "num": 233876,
+        "word": "TMEA阵容",
+        "onboard_time": 1752803060,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213019,
+        "num": 233805,
+        "word": "网传赴山海将接档子夜归",
+        "onboard_time": 1752801500,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38178,
+        "num": 233758,
+        "word": "自称被多肉饱饱诈骗受害者发声",
+        "onboard_time": 1752805281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233758,
+        "num": 233757,
+        "word": "水务公司辟谣网传粪水管接错导致污水",
+        "onboard_time": 1752800481,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193560,
+        "num": 193560,
+        "word": "商务部介绍十四五商务高质量发展成就",
+        "onboard_time": 1752805760,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193129,
+        "num": 193129,
+        "word": "杨瀚森迅速反弹",
+        "onboard_time": 1752801741,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183858,
+        "num": 183858,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1752796580,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183363,
+        "num": 183363,
+        "word": "长期缺觉和短期缺觉的危害",
+        "onboard_time": 1752801561,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175517,
+        "num": 175517,
+        "word": "徐志胜回应一家人共用一张脸",
+        "onboard_time": 1752805581,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164495,
+        "num": 164495,
+        "word": "罗小黑",
+        "onboard_time": 1752804860,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148421,
+        "num": 160374,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159107,
+        "num": 159107,
+        "word": "奔跑吧",
+        "onboard_time": 1752799342,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158106,
+        "num": 158106,
+        "word": "王嘉尔新专辑偷跑",
+        "onboard_time": 1752799042,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151180,
+        "num": 151180,
+        "word": "鬼灭之刃无限城篇",
+        "onboard_time": 1752805400,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150561,
+        "num": 150561,
+        "word": "罗意威拖鞋广告将logo晒痕当卖点",
+        "onboard_time": 1752798082,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 143878,
+        "num": 143878,
+        "word": "Bin",
+        "onboard_time": 1752775575,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137183,
+        "num": 137183,
+        "word": "刑满释放后去洗浴中心0元购被抓",
+        "onboard_time": 1752805041,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129086,
+        "num": 129086,
+        "word": "宝剑嫂雨哥分手",
+        "onboard_time": 1752737241,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118207,
+        "num": 118207,
+        "word": "今年6号台风韦帕生成",
+        "onboard_time": 1752804561,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 117487,
+        "num": 117487,
+        "word": "马斯克连发13帖抨击特朗普",
+        "onboard_time": 1752805160,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113117,
+        "num": 113117,
+        "word": "管泽元 我还没出发BLG都快到上海了",
+        "onboard_time": 1752800960,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107482,
+        "num": 107482,
+        "word": "华南理工研究生奖学金发放新规引争议",
+        "onboard_time": 1752805881,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 106916,
+        "num": 106916,
+        "word": "小猫知道自己穿雨衣很可爱吗",
+        "onboard_time": 1752804681,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106657,
+        "num": 106657,
+        "word": "女子花5万元医美动刀后0变化",
+        "onboard_time": 1752799702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102063,
+        "num": 102063,
+        "word": "游客为拍照不慎将孩子撞落水",
+        "onboard_time": 1752765741,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97552,
+        "num": 97552,
+        "word": "火箭vs开拓者",
+        "onboard_time": 1752804681,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96681,
+        "num": 96681,
+        "word": "劝大家不要在互联网太暴露自己的生活",
+        "onboard_time": 1752793998,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94746,
+        "num": 94746,
+        "word": "被家暴16次女子前婆婆被判返还91万",
+        "onboard_time": 1752760342,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94495,
+        "num": 94495,
+        "word": "龚俊刘宇宁真诚才是必杀技",
+        "onboard_time": 1752801682,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93806,
+        "num": 93806,
+        "word": "一饭封神",
+        "onboard_time": 1752804800,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92638,
+        "num": 92638,
+        "word": "武汉退烧雨来了",
+        "onboard_time": 1752800960,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91880,
+        "num": 91880,
+        "word": "鬼灭之刃",
+        "onboard_time": 1752795860,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 91578,
+        "num": 91578,
+        "word": "急性子瘦腿的15天有效法",
+        "onboard_time": 1752795980,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条中国特色城市现代化新路子#"
+    }
+  }
+}
