@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752866577636,
+  "endTime": 1752867523678,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -19795,6 +19795,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 32582,
+      "num": 32582,
+      "word": "印度5名男子医院行凶画面曝光",
+      "onboard_time": 1752864075,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32280,
       "num": 49329,
       "word": "杨幂潮女爱用手机壳",
@@ -19905,14 +19913,6 @@
       "onboard_time": 1752673284,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29838,
-      "num": 32218,
-      "word": "印度5名男子医院行凶画面曝光",
-      "onboard_time": 1752864075,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 29799,
@@ -20097,6 +20097,14 @@
       "onboard_time": 1752734540,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27144,
+      "num": 27144,
+      "word": "周深打断了郑恺的魔法",
+      "onboard_time": 1752866354,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 27110,
@@ -20515,14 +20523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19875,
-      "num": 26268,
-      "word": "周深打断了郑恺的魔法",
-      "onboard_time": 1752866354,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19872,
       "num": 139930,
       "word": "男子骑车交警查处时死亡有三个疑问",
@@ -20611,20 +20611,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18346,
+      "num": 26658,
+      "word": "山是易烊千玺存放童年记忆的地方",
+      "onboard_time": 1752864795,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18210,
       "num": 400267,
       "word": "辉煌60载魅力新西藏",
       "onboard_time": 1752677244,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18068,
-      "num": 26262,
-      "word": "山是易烊千玺存放童年记忆的地方",
-      "onboard_time": 1752864795,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 17871,
