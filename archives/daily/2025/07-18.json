@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752821811781,
+  "endTime": 1752823774284,
   "band_list": [
     {
       "raw_hot": 2306454,
@@ -17,6 +17,14 @@
       "onboard_time": 1752798801,
       "rank": 0,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 1406439,
+      "num": 878640,
+      "word": "小马云走红十年后现状",
+      "onboard_time": 1752820162,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1317461,
@@ -57,14 +65,6 @@
       "onboard_time": 1752804440,
       "rank": 23,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 878640,
-      "num": 878640,
-      "word": "小马云走红十年后现状",
-      "onboard_time": 1752820162,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 830163,
@@ -203,20 +203,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 489277,
+      "num": 467700,
+      "word": "朝雪录",
+      "onboard_time": 1752750561,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484338,
       "num": 484338,
       "word": "早产儿疑遭6岁男童摔落后死亡",
       "onboard_time": 1752798801,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 467700,
-      "num": 467700,
-      "word": "朝雪录",
-      "onboard_time": 1752750561,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 454202,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336374,
+      "num": 336374,
+      "word": "梓渝cha九万字",
+      "onboard_time": 1752821840,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315453,
       "num": 237945,
       "word": "余杭水务回应臭水事件赔偿问题",
@@ -401,6 +409,14 @@
       "onboard_time": 1752796580,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278590,
+      "num": 278590,
+      "word": "田栩宁打招呼手腕不动手指动",
+      "onboard_time": 1752823462,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 277776,
@@ -515,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248798,
+      "num": 248798,
+      "word": "朋友欠债多年不还男子气出癌症",
+      "onboard_time": 1752819622,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246519,
       "num": 246519,
       "word": "杨瀚森迅速反弹",
       "onboard_time": 1752801741,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245671,
+      "num": 263079,
+      "word": "李兰迪敖瑞鹏复刻一见钟情名场面",
+      "onboard_time": 1752822802,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 237184,
@@ -604,19 +636,11 @@
     },
     {
       "raw_hot": 215328,
-      "num": 215328,
+      "num": 261937,
       "word": "伊能静总算实现了一家三口的旅行",
       "onboard_time": 1752819982,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214783,
-      "num": 214783,
-      "word": "朋友欠债多年不还男子气出癌症",
-      "onboard_time": 1752819622,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212309,
@@ -675,6 +699,30 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199721,
+      "num": 199721,
+      "word": "宋轶一口气吃21块炸鸡",
+      "onboard_time": 1752822142,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "苍兰诀2三界最惨留守儿童",
+      "onboard_time": 1752822920,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 193939,
+      "num": 193939,
+      "word": "12306回应大妈高铁车厢跳舞喧哗",
+      "onboard_time": 1752822080,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193622,
       "num": 193622,
       "word": "J人和P人面对选择的不同反应",
@@ -696,6 +744,14 @@
       "word": "殡仪馆3500招太平间门卫要全天在岗",
       "onboard_time": 1752758121,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189929,
+      "num": 249637,
+      "word": "白象克重透明是对消费者的尊重",
+      "onboard_time": 1752822441,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -755,6 +811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173146,
+      "num": 173146,
+      "word": "韩国学霸没偷来试卷后数学考40分",
+      "onboard_time": 1752822142,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172147,
       "num": 159800,
       "word": "董璇被宋丹丹问恋情时脸红",
@@ -785,6 +849,14 @@
       "onboard_time": 1752804860,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 166012,
+      "num": 166012,
+      "word": "派出所回应暴走团占道逼停120和119",
+      "onboard_time": 1752823401,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165345,
@@ -923,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152885,
+      "num": 152885,
+      "word": "英国五年内诞生8名三亲婴儿",
+      "onboard_time": 1752823401,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 151650,
       "num": 151650,
       "word": "一国企登报喊61名职工回来上班",
@@ -971,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148034,
+      "num": 148034,
+      "word": "肖战侧写",
+      "onboard_time": 1752822621,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146973,
       "num": 207380,
       "word": "李宇春说没有保护好过去的自己",
@@ -985,6 +1073,14 @@
       "onboard_time": 1752756202,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146219,
+      "num": 146219,
+      "word": "还以为看到R1SE的团综了",
+      "onboard_time": 1752822382,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 145980,
@@ -1017,6 +1113,14 @@
       "onboard_time": 1752815183,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139204,
+      "num": 139204,
+      "word": "丁禹兮在非洲创业了",
+      "onboard_time": 1752821961,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 139007,
@@ -1163,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128787,
+      "num": 128787,
+      "word": "工资来了又好像没来过",
+      "onboard_time": 1752822681,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127785,
       "num": 127785,
       "word": "1岁人类幼崽可以有多忙",
@@ -1203,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126422,
+      "num": 126422,
+      "word": "多名大妈高铁车厢内跳舞大声喧哗",
+      "onboard_time": 1752823640,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126145,
       "num": 126145,
       "word": "养猫人避雷这种凳子",
@@ -1217,6 +1337,22 @@
       "onboard_time": 1752820342,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123075,
+      "num": 123075,
+      "word": "几道题做下来感觉我要本升幼了",
+      "onboard_time": 1752823162,
+      "rank": 41,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 122922,
+      "num": 125327,
+      "word": "孙俪怎么偷偷美成这样",
+      "onboard_time": 1752823281,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 122269,
@@ -1307,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116762,
+      "num": 116762,
+      "word": "月薪5w是什么概念",
+      "onboard_time": 1752823702,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116387,
       "num": 116387,
       "word": "我都没有文化哪里来的冲突",
@@ -1369,6 +1513,14 @@
       "onboard_time": 1752754821,
       "rank": 26,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 109312,
+      "num": 109312,
+      "word": "歌红人不红歌手合体出专辑了",
+      "onboard_time": 1752822020,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 108016,
@@ -1555,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96483,
+      "num": 339683,
+      "word": "小马云表哥回应自己长期被网友质疑",
+      "onboard_time": 1752823041,
+      "rank": 9,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 95385,
       "num": 95385,
       "word": "美国真心想同中国合作就正视事实",
@@ -1697,6 +1857,22 @@
       "onboard_time": 1752750682,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71578,
+      "num": 249047,
+      "word": "月租6万甲醛房租客称房东说谎",
+      "onboard_time": 1752822080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68072,
+      "num": 268524,
+      "word": "想要无痛分娩但受到家人阻挠",
+      "onboard_time": 1752822080,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66370,
@@ -1932,7 +2108,7 @@
     },
     {
       "raw_hot": 33334,
-      "num": 122168,
+      "num": 125133,
       "word": "苏州东吴与中国香港球员米高解约",
       "onboard_time": 1752818361,
       "rank": 39,
@@ -2025,6 +2201,14 @@
       "onboard_time": 1752776955,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19452,
+      "num": 107140,
+      "word": "闪耀暖暖换回原配音",
+      "onboard_time": 1752816382,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 15346,

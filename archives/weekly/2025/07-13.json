@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752821811781,
+  "endTime": 1752823774284,
   "band_list": [
     {
       "raw_hot": 14050966,
@@ -304,6 +304,14 @@
       "word": "被女子强搂亲吻男孩妈妈愤怒回应",
       "onboard_time": 1752423024,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1406439,
+      "num": 878640,
+      "word": "小马云走红十年后现状",
+      "onboard_time": 1752820162,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1088,14 +1096,6 @@
       "word": "娃哈哈",
       "onboard_time": 1752396082,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 878640,
-      "num": 878640,
-      "word": "小马云走红十年后现状",
-      "onboard_time": 1752820162,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2531,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489277,
+      "num": 467700,
+      "word": "朝雪录",
+      "onboard_time": 1752383601,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486160,
       "num": 486160,
       "word": "杨幂去健身房路透",
@@ -2633,14 +2641,6 @@
       "onboard_time": 1752572603,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 467700,
-      "num": 467700,
-      "word": "朝雪录",
-      "onboard_time": 1752383601,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 466113,
@@ -3707,6 +3707,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 336374,
+      "num": 336374,
+      "word": "梓渝cha九万字",
+      "onboard_time": 1752821840,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335932,
       "num": 335932,
       "word": "王楚钦获胜后将球打给观众",
@@ -4459,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278590,
+      "num": 278590,
+      "word": "田栩宁打招呼手腕不动手指动",
+      "onboard_time": 1752823462,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278259,
       "num": 278259,
       "word": "美国海啸预警",
@@ -5155,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248798,
+      "num": 248798,
+      "word": "朋友欠债多年不还男子气出癌症",
+      "onboard_time": 1752819622,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248068,
       "num": 248068,
       "word": "Jennie舞台",
@@ -5217,6 +5241,14 @@
       "onboard_time": 1752458300,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 245671,
+      "num": 263079,
+      "word": "李兰迪敖瑞鹏复刻一见钟情名场面",
+      "onboard_time": 1752822802,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 245527,
@@ -5916,7 +5948,7 @@
     },
     {
       "raw_hot": 215328,
-      "num": 215328,
+      "num": 261937,
       "word": "伊能静总算实现了一家三口的旅行",
       "onboard_time": 1752819982,
       "rank": 28,
@@ -5945,14 +5977,6 @@
       "onboard_time": 1752485662,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214783,
-      "num": 214783,
-      "word": "朋友欠债多年不还男子气出癌症",
-      "onboard_time": 1752819622,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214618,
@@ -6643,6 +6667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199721,
+      "num": 199721,
+      "word": "宋轶一口气吃21块炸鸡",
+      "onboard_time": 1752822142,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199662,
       "num": 199662,
       "word": "狼队对战AG",
@@ -6867,6 +6899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "苍兰诀2三界最惨留守儿童",
+      "onboard_time": 1752822920,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194715,
       "num": 207499,
       "word": "杨紫李现锦绣芳华开分7.2",
@@ -6944,6 +6984,14 @@
       "word": "警方通报记者设备被砸",
       "onboard_time": 1752596061,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193939,
+      "num": 193939,
+      "word": "12306回应大妈高铁车厢跳舞喧哗",
+      "onboard_time": 1752822080,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -7129,6 +7177,14 @@
       "onboard_time": 1752741082,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189929,
+      "num": 249637,
+      "word": "白象克重透明是对消费者的尊重",
+      "onboard_time": 1752822441,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189789,
@@ -8107,6 +8163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173146,
+      "num": 173146,
+      "word": "韩国学霸没偷来试卷后数学考40分",
+      "onboard_time": 1752822142,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 173143,
       "num": 173143,
       "word": "光与夜之恋 三丽鸥",
@@ -8609,6 +8673,14 @@
       "onboard_time": 1752662001,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166012,
+      "num": 166012,
+      "word": "派出所回应暴走团占道逼停120和119",
+      "onboard_time": 1752823401,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165756,
@@ -9515,6 +9587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152885,
+      "num": 152885,
+      "word": "英国五年内诞生8名三亲婴儿",
+      "onboard_time": 1752823401,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152838,
       "num": 152838,
       "word": "国足vs中国香港",
@@ -9907,6 +9987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148034,
+      "num": 148034,
+      "word": "肖战侧写",
+      "onboard_time": 1752822621,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148032,
       "num": 351410,
       "word": "家长曝学费上万幼儿园孩子牙刷发霉",
@@ -10073,6 +10161,14 @@
       "onboard_time": 1752583401,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146219,
+      "num": 146219,
+      "word": "还以为看到R1SE的团综了",
+      "onboard_time": 1752822382,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 146137,
@@ -10713,6 +10809,14 @@
       "onboard_time": 1752488122,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139204,
+      "num": 139204,
+      "word": "丁禹兮在非洲创业了",
+      "onboard_time": 1752821961,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 139151,
@@ -11715,6 +11819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128787,
+      "num": 128787,
+      "word": "工资来了又好像没来过",
+      "onboard_time": 1752822681,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128748,
       "num": 159785,
       "word": "听说三伏天适合减肥",
@@ -11945,6 +12057,14 @@
       "onboard_time": 1752814702,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126422,
+      "num": 126422,
+      "word": "多名大妈高铁车厢内跳舞大声喧哗",
+      "onboard_time": 1752823640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126356,
@@ -12235,6 +12355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123075,
+      "num": 123075,
+      "word": "几道题做下来感觉我要本升幼了",
+      "onboard_time": 1752823162,
+      "rank": 41,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 122986,
       "num": 166112,
       "word": "梓渝长沙vlog",
@@ -12249,6 +12377,14 @@
       "onboard_time": 1752553042,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122922,
+      "num": 125327,
+      "word": "孙俪怎么偷偷美成这样",
+      "onboard_time": 1752823281,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 122896,
@@ -13051,6 +13187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116762,
+      "num": 116762,
+      "word": "月薪5w是什么概念",
+      "onboard_time": 1752823702,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116746,
       "num": 116746,
       "word": "教育部明确严控暑期作业总量",
@@ -13801,6 +13945,14 @@
       "onboard_time": 1752388882,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109312,
+      "num": 109312,
+      "word": "歌红人不红歌手合体出专辑了",
+      "onboard_time": 1752822020,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 109294,
@@ -15057,6 +15209,14 @@
       "onboard_time": 1752591682,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96483,
+      "num": 339683,
+      "word": "小马云表哥回应自己长期被网友质疑",
+      "onboard_time": 1752823041,
+      "rank": 9,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 96459,
@@ -16395,6 +16555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71578,
+      "num": 249047,
+      "word": "月租6万甲醛房租客称房东说谎",
+      "onboard_time": 1752822080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71301,
       "num": 195445,
       "word": "A股股民已超2.4亿",
@@ -16449,6 +16617,14 @@
       "onboard_time": 1752488002,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 68072,
+      "num": 268524,
+      "word": "想要无痛分娩但受到家人阻挠",
+      "onboard_time": 1752822080,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67593,
@@ -17660,7 +17836,7 @@
     },
     {
       "raw_hot": 33334,
-      "num": 122168,
+      "num": 125133,
       "word": "苏州东吴与中国香港球员米高解约",
       "onboard_time": 1752818361,
       "rank": 39,
@@ -18377,6 +18553,14 @@
       "onboard_time": 1752776955,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19452,
+      "num": 107140,
+      "word": "闪耀暖暖换回原配音",
+      "onboard_time": 1752816382,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 19274,
