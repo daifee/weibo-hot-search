@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 06:27:10
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 06:45:34
 </p>
 </blockquote>
 <p>
@@ -2769,6 +2769,12 @@ K1373次列车上砸窗男子并未被拘留（热度：901265）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDIT%E5%A4%A7%E4%BD%AC%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%8B%8D%E6%85%8C%E5%BF%99%E9%81%AE%E8%84%B8%23" target="weibo">
+美国IT大佬出轨被拍慌忙遮脸（热度：879775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%A0%E4%B8%BA%E6%8A%A2%E5%8E%95%E6%89%80%E8%A6%81%E5%92%8C%E5%BE%90%E8%89%BA%E6%B4%8B%E5%88%86%E6%89%8B%23" target="weibo">
 黄子韬因为抢厕所要和徐艺洋分手（热度：876609）
 </a>
@@ -4031,12 +4037,6 @@ Angelababy 港风还得港女来（热度：707337）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23K1373%E7%A0%B8%E7%AA%97%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%23" target="weibo">
 K1373砸窗男子被批评教育（热度：701716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDIT%E5%A4%A7%E4%BD%AC%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%8B%8D%E6%85%8C%E5%BF%99%E9%81%AE%E8%84%B8%23" target="weibo">
-美国IT大佬出轨被拍慌忙遮脸（热度：701604）
 </a>
 </li>
 

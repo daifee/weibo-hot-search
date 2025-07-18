@@ -1,7 +1,15 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752877630998,
+  "endTime": 1752878734283,
   "band_list": [
+    {
+      "raw_hot": 879775,
+      "num": 879775,
+      "word": "美国IT大佬出轨被拍慌忙遮脸",
+      "onboard_time": 1752860117,
+      "rank": 9,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 864112,
       "num": 867858,
@@ -41,14 +49,6 @@
       "onboard_time": 1752834741,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 701604,
-      "num": 701604,
-      "word": "美国IT大佬出轨被拍慌忙遮脸",
-      "onboard_time": 1752860117,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 663525,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95780,
+      "num": 95780,
+      "word": "中国驻柬埔寨大使馆回应被抓人遣返",
+      "onboard_time": 1752861377,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95706,
       "num": 99844,
       "word": "柬埔寨突袭诈骗园逮捕超千人",
@@ -305,14 +313,6 @@
       "onboard_time": 1752854482,
       "rank": 40,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 86966,
-      "num": 86966,
-      "word": "中国驻柬埔寨大使馆回应被抓人遣返",
-      "onboard_time": 1752861377,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86429,
@@ -419,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70129,
+      "num": 64573,
+      "word": "为什么说西瓜是很善良的水果",
+      "onboard_time": 1752872054,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 69169,
       "num": 69169,
       "word": "千万不要在洗澡的时候哭泣",
@@ -435,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64172,
-      "num": 58614,
-      "word": "为什么说西瓜是很善良的水果",
-      "onboard_time": 1752872054,
-      "rank": 46,
-      "category": "美食,幽默"
+      "raw_hot": 61841,
+      "num": 61841,
+      "word": "三伏天快速减脂的好方法",
+      "onboard_time": 1752875955,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 57925,
@@ -459,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47149,
+      "num": 49556,
+      "word": "印度5名男子医院行凶画面曝光",
+      "onboard_time": 1752864075,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46865,
       "num": 46865,
       "word": "外交部再次提醒赴菲留学人员",
@@ -467,28 +483,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42575,
-      "num": 42575,
-      "word": "三伏天快速减脂的好方法",
-      "onboard_time": 1752875955,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 40734,
-      "num": 49556,
-      "word": "印度5名男子医院行凶画面曝光",
-      "onboard_time": 1752864075,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38516,
-      "num": 38516,
+      "raw_hot": 41889,
+      "num": 41889,
       "word": "杭州自来水里到底是什么",
       "onboard_time": 1752869414,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35950,
+      "num": 35950,
+      "word": "中医建议伏天吃6种温性食物",
+      "onboard_time": 1752878297,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35926,
@@ -513,6 +521,14 @@
       "onboard_time": 1752863536,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30891,
+      "num": 50585,
+      "word": "是谁站在世界上最危险的4.5英亩",
+      "onboard_time": 1752876254,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27913,
@@ -577,14 +593,6 @@
       "onboard_time": 1752864795,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17273,
-      "num": 50585,
-      "word": "是谁站在世界上最危险的4.5英亩",
-      "onboard_time": 1752876254,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16036,
