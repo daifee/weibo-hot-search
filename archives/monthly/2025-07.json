@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752844346003,
+  "endTime": 1752846135308,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -95,6 +95,14 @@
       "num": 6390116,
       "word": "李佳薇太牛了",
       "onboard_time": 1751632946,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5148522,
+      "num": 5148522,
+      "word": "ALin秒了",
+      "onboard_time": 1752845246,
       "rank": 0,
       "category": "综艺"
     },
@@ -249,6 +257,14 @@
       "onboard_time": 1751610862,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2789375,
+      "num": 2789375,
+      "word": "市监总局约谈饿了么美团京东",
+      "onboard_time": 1752843865,
+      "rank": 3,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 2706470,
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 1805253,
-      "num": 292691,
+      "num": 1470395,
       "word": "X玖少年团发文",
       "onboard_time": 1752841825,
       "rank": 12,
@@ -3651,6 +3667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 873903,
+      "num": 286010,
+      "word": "GAI又不想走了",
+      "onboard_time": 1752844164,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 873271,
       "num": 873271,
       "word": "吃完山竹记得要漱口",
@@ -3857,14 +3881,6 @@
       "onboard_time": 1751952262,
       "rank": 28,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 845429,
-      "num": 845429,
-      "word": "市监总局约谈饿了么美团京东",
-      "onboard_time": 1752843865,
-      "rank": 3,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 844793,
@@ -6523,6 +6539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 618067,
+      "num": 207369,
+      "word": "何老师哽咽了",
+      "onboard_time": 1752843084,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 618064,
       "num": 618064,
       "word": "孙俪女儿化妆还在压脚背",
@@ -6921,14 +6945,6 @@
       "onboard_time": 1752142102,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 590112,
-      "num": 214432,
-      "word": "GAI又不想走了",
-      "onboard_time": 1752844164,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 588973,
@@ -7353,6 +7369,14 @@
       "onboard_time": 1751371342,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558563,
+      "num": 190774,
+      "word": "陈楚生开大了",
+      "onboard_time": 1752845306,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 558333,
@@ -8712,6 +8736,14 @@
       "word": "亮剑等抗战题材经典作品将展播",
       "onboard_time": 1751511260,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 487148,
+      "num": 202001,
+      "word": "IU好美",
+      "onboard_time": 1752841883,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -10163,14 +10195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420414,
-      "num": 207369,
-      "word": "何老师哽咽了",
-      "onboard_time": 1752843084,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 420114,
       "num": 420114,
       "word": "公司团建5人中暑1人热射病进ICU",
@@ -11451,6 +11475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373610,
+      "num": 202233,
+      "word": "单依纯口水声",
+      "onboard_time": 1752843325,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373568,
       "num": 373568,
       "word": "这一轮高温天有几个明显特点",
@@ -11763,14 +11795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 364656,
-      "num": 202233,
-      "word": "单依纯口水声",
-      "onboard_time": 1752843325,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 364539,
       "num": 176924,
       "word": "孙恩盛 PK验资",
@@ -11809,14 +11833,6 @@
       "onboard_time": 1752135444,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362947,
-      "num": 202001,
-      "word": "IU好美",
-      "onboard_time": 1752841883,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 362848,
@@ -11985,6 +12001,14 @@
       "onboard_time": 1751865924,
       "rank": 12,
       "category": "舆论监督,健康医疗"
+    },
+    {
+      "raw_hot": 358664,
+      "num": 201687,
+      "word": "陈情令",
+      "onboard_time": 1752840504,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 358634,
@@ -13035,14 +13059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331529,
-      "num": 201687,
-      "word": "陈情令",
-      "onboard_time": 1752840504,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331318,
       "num": 213959,
       "word": "男子杀害前妻12岁儿子后自杀身亡",
@@ -13596,7 +13612,7 @@
     },
     {
       "raw_hot": 317667,
-      "num": 221763,
+      "num": 280566,
       "word": "田志希官宣怀孕",
       "onboard_time": 1752841944,
       "rank": 31,
@@ -14787,6 +14803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290441,
+      "num": 165509,
+      "word": "翟潇闻回应",
+      "onboard_time": 1752845306,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290286,
       "num": 290286,
       "word": "英国教授称儒家礼可以让世界讲和",
@@ -14840,6 +14864,14 @@
       "word": "全季酒店回应女子半夜被老鼠咬醒",
       "onboard_time": 1752241886,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289242,
+      "num": 289242,
+      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+      "onboard_time": 1752845487,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -18715,6 +18747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229179,
+      "num": 229179,
+      "word": "X玖少年团内娱时间最长限定团",
+      "onboard_time": 1752844886,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229168,
       "num": 229168,
       "word": "最近的雨好难猜",
@@ -20635,6 +20675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 210852,
+      "num": 210852,
+      "word": "孙颖莎被印在了EMS录取通知书封面",
+      "onboard_time": 1752843264,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210803,
       "num": 296339,
       "word": "易烊千玺T锦绣七月刊封面",
@@ -21505,6 +21553,14 @@
       "onboard_time": 1751676261,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204746,
+      "num": 165076,
+      "word": "李惠利郑秀彬黑白配",
+      "onboard_time": 1752845607,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 204715,
@@ -22627,6 +22683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198850,
+      "num": 184424,
+      "word": "青龙电视剧大赏",
+      "onboard_time": 1752841644,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198807,
       "num": 195608,
       "word": "蔡徐坤mugler活动状态",
@@ -22921,6 +22985,14 @@
       "onboard_time": 1752196882,
       "rank": 27,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 197426,
+      "num": 164445,
+      "word": "管乐直播陪看",
+      "onboard_time": 1752845846,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 197402,
@@ -23641,6 +23713,14 @@
       "onboard_time": 1752822080,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193869,
+      "num": 164319,
+      "word": "失恋无罪",
+      "onboard_time": 1752845607,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 193787,
@@ -25499,14 +25579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184424,
-      "num": 184424,
-      "word": "青龙电视剧大赏",
-      "onboard_time": 1752841644,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184267,
       "num": 184267,
       "word": "织音发布会",
@@ -26691,6 +26763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177324,
+      "num": 162658,
+      "word": "红绣花",
+      "onboard_time": 1752846087,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177200,
       "num": 232807,
       "word": "北京开会偶遇张艺兴",
@@ -26889,6 +26969,14 @@
       "onboard_time": 1752119361,
       "rank": 36,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 176142,
+      "num": 162001,
+      "word": "Zombie",
+      "onboard_time": 1752845487,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 176114,
@@ -28947,6 +29035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166735,
+      "num": 161148,
+      "word": "李健急得嘴里炒了盘豆",
+      "onboard_time": 1752842905,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166696,
       "num": 166696,
       "word": "孙颖莎王曼昱vs迪亚兹帕瓦德",
@@ -29073,6 +29169,14 @@
       "onboard_time": 1752335721,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166241,
+      "num": 166241,
+      "word": "傲寒回应",
+      "onboard_time": 1752844164,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 166218,
@@ -29451,14 +29555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164291,
-      "num": 202891,
-      "word": "孙颖莎被印在了EMS录取通知书封面",
-      "onboard_time": 1752843264,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164268,
       "num": 164268,
       "word": "一个人自驾后才知道什么是人生",
@@ -29545,6 +29641,14 @@
       "onboard_time": 1751775742,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163895,
+      "num": 160722,
+      "word": "艾莉西亚 者来女",
+      "onboard_time": 1752845909,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 163891,
@@ -32971,14 +33075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150082,
-      "num": 150082,
-      "word": "傲寒回应",
-      "onboard_time": 1752844164,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150055,
       "num": 150055,
       "word": "一诺科目一通过",
@@ -33873,14 +33969,6 @@
       "onboard_time": 1751554584,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146823,
-      "num": 146823,
-      "word": "李健急得嘴里炒了盘豆",
-      "onboard_time": 1752842905,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 146807,
@@ -41483,6 +41571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122923,
+      "num": 163417,
+      "word": "张子宇杨瀚森都是山东顶级天赋",
+      "onboard_time": 1752845186,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122896,
       "num": 194375,
       "word": "店家回应糖水餐具现内增高仅售3元",
@@ -41649,6 +41745,14 @@
       "onboard_time": 1752478703,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122535,
+      "num": 208552,
+      "word": "谁懂三丽鸥和雅迪联名的含金量",
+      "onboard_time": 1752844285,
+      "rank": 44,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 122496,
@@ -44547,6 +44651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115008,
+      "num": 153124,
+      "word": "前途这么刺眼晚上睡得着吗",
+      "onboard_time": 1752845787,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114996,
       "num": 114996,
       "word": "黄色的巧乐兹我永远的妻子",
@@ -44659,6 +44771,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 114633,
+      "num": 184234,
+      "word": "WB确定卡位赛",
+      "onboard_time": 1752845607,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114621,
       "num": 114621,
       "word": "孟子义有万人迷那味儿了",
@@ -44760,6 +44880,14 @@
       "word": "无畏苏烈",
       "onboard_time": 1751629763,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 114315,
+      "num": 151357,
+      "word": "T1将对战AG",
+      "onboard_time": 1752845246,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -62603,6 +62731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 8120,
+      "num": 2009052,
+      "word": "00后卢沟桥唱如愿告慰抗战先烈",
+      "onboard_time": 1752846087,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8078,
       "num": 21318,
       "word": "白厄黎明恰如此燃烧",
@@ -62625,14 +62761,6 @@
       "onboard_time": 1752072204,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7145,
-      "num": 151761,
-      "word": "谁懂三丽鸥和雅迪联名的含金量",
-      "onboard_time": 1752844285,
-      "rank": 44,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 6974,

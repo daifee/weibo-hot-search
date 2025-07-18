@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752844346003,
+  "endTime": 1752846135308,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5148522,
+      "num": 5148522,
+      "word": "ALin秒了",
+      "onboard_time": 1752845246,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4040259,
       "num": 445486,
       "word": "X玖少年团成员去前缀",
       "onboard_time": 1752833960,
       "rank": 10,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 2789375,
+      "num": 2789375,
+      "word": "市监总局约谈饿了么美团京东",
+      "onboard_time": 1752843865,
+      "rank": 3,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 2306454,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1805253,
-      "num": 292691,
+      "num": 1470395,
       "word": "X玖少年团发文",
       "onboard_time": 1752841825,
       "rank": 12,
@@ -187,12 +203,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 845429,
-      "num": 845429,
-      "word": "市监总局约谈饿了么美团京东",
-      "onboard_time": 1752843865,
-      "rank": 3,
-      "category": "互联网,民生新闻"
+      "raw_hot": 873903,
+      "num": 286010,
+      "word": "GAI又不想走了",
+      "onboard_time": 1752844164,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 844793,
@@ -315,11 +331,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 590112,
-      "num": 214432,
-      "word": "GAI又不想走了",
-      "onboard_time": 1752844164,
-      "rank": 15,
+      "raw_hot": 618067,
+      "num": 207369,
+      "word": "何老师哽咽了",
+      "onboard_time": 1752843084,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -329,6 +345,14 @@
       "onboard_time": 1752737241,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 558563,
+      "num": 190774,
+      "word": "陈楚生开大了",
+      "onboard_time": 1752845306,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 551650,
@@ -435,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487148,
+      "num": 202001,
+      "word": "IU好美",
+      "onboard_time": 1752841883,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484338,
       "num": 484338,
       "word": "早产儿疑遭6岁男童摔落后死亡",
@@ -489,14 +521,6 @@
       "onboard_time": 1752763223,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 420414,
-      "num": 207369,
-      "word": "何老师哽咽了",
-      "onboard_time": 1752843084,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 416539,
@@ -563,15 +587,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 367989,
-      "num": 264994,
-      "word": "我是王嘉尔我也崩溃了",
-      "onboard_time": 1752809842,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 364656,
+      "raw_hot": 373610,
       "num": 202233,
       "word": "单依纯口水声",
       "onboard_time": 1752843325,
@@ -579,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362947,
-      "num": 202001,
-      "word": "IU好美",
-      "onboard_time": 1752841883,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 367989,
+      "num": 264994,
+      "word": "我是王嘉尔我也崩溃了",
+      "onboard_time": 1752809842,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 360640,
@@ -609,6 +625,14 @@
       "onboard_time": 1752765741,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358664,
+      "num": 201687,
+      "word": "陈情令",
+      "onboard_time": 1752840504,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 356551,
@@ -683,16 +707,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331529,
-      "num": 201687,
-      "word": "陈情令",
-      "onboard_time": 1752840504,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 317667,
-      "num": 221763,
+      "num": 280566,
       "word": "田志希官宣怀孕",
       "onboard_time": 1752841944,
       "rank": 31,
@@ -747,11 +763,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 290441,
+      "num": 165509,
+      "word": "翟潇闻回应",
+      "onboard_time": 1752845306,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289485,
       "num": 289485,
       "word": "年轻人开始卡bug上四休三了",
       "onboard_time": 1752840024,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289242,
+      "num": 289242,
+      "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+      "onboard_time": 1752845487,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1035,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229179,
+      "num": 229179,
+      "word": "X玖少年团内娱时间最长限定团",
+      "onboard_time": 1752844886,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227326,
       "num": 227326,
       "word": "信用卡还款日还款为何6年被收1.2万",
@@ -1139,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210852,
+      "num": 210852,
+      "word": "孙颖莎被印在了EMS录取通知书封面",
+      "onboard_time": 1752843264,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209152,
       "num": 209152,
       "word": "无限暖暖",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1752834200,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 204746,
+      "num": 165076,
+      "word": "李惠利郑秀彬黑白配",
+      "onboard_time": 1752845607,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 203951,
@@ -1275,12 +1331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198850,
+      "num": 184424,
+      "word": "青龙电视剧大赏",
+      "onboard_time": 1752841644,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197710,
       "num": 130981,
       "word": "异形舞台更新",
       "onboard_time": 1752837744,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 197426,
+      "num": 164445,
+      "word": "管乐直播陪看",
+      "onboard_time": 1752845846,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 194774,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1752822080,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193869,
+      "num": 164319,
+      "word": "失恋无罪",
+      "onboard_time": 1752845607,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 193622,
@@ -1337,14 +1417,6 @@
       "onboard_time": 1752822441,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184424,
-      "num": 184424,
-      "word": "青龙电视剧大赏",
-      "onboard_time": 1752841644,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 183363,
@@ -1409,6 +1481,22 @@
       "onboard_time": 1752844045,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177324,
+      "num": 162658,
+      "word": "红绣花",
+      "onboard_time": 1752846087,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176142,
+      "num": 162001,
+      "word": "Zombie",
+      "onboard_time": 1752845487,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 174993,
@@ -1483,6 +1571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166735,
+      "num": 161148,
+      "word": "李健急得嘴里炒了盘豆",
+      "onboard_time": 1752842905,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166241,
+      "num": 166241,
+      "word": "傲寒回应",
+      "onboard_time": 1752844164,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165345,
       "num": 145654,
       "word": "今年6号台风韦帕生成",
@@ -1499,12 +1603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164291,
-      "num": 202891,
-      "word": "孙颖莎被印在了EMS录取通知书封面",
-      "onboard_time": 1752843264,
+      "raw_hot": 163895,
+      "num": 160722,
+      "word": "艾莉西亚 者来女",
+      "onboard_time": 1752845909,
       "rank": 43,
-      "category": "体育"
+      "category": "综艺"
     },
     {
       "raw_hot": 163417,
@@ -1707,14 +1811,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 150082,
-      "num": 150082,
-      "word": "傲寒回应",
-      "onboard_time": 1752844164,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149818,
       "num": 149818,
       "word": "中美两国人民完全可以成为好朋友",
@@ -1785,14 +1881,6 @@
       "onboard_time": 1752840083,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146823,
-      "num": 146823,
-      "word": "李健急得嘴里炒了盘豆",
-      "onboard_time": 1752842905,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 146542,
@@ -2235,6 +2323,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122923,
+      "num": 163417,
+      "word": "张子宇杨瀚森都是山东顶级天赋",
+      "onboard_time": 1752845186,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122535,
+      "num": 208552,
+      "word": "谁懂三丽鸥和雅迪联名的含金量",
+      "onboard_time": 1752844285,
+      "rank": 44,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 122269,
       "num": 122269,
       "word": "鬼灭之刃",
@@ -2435,12 +2539,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115008,
+      "num": 153124,
+      "word": "前途这么刺眼晚上睡得着吗",
+      "onboard_time": 1752845787,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 114633,
+      "num": 184234,
+      "word": "WB确定卡位赛",
+      "onboard_time": 1752845607,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114367,
       "num": 114367,
       "word": "第一批回家的大学生已经失去新鲜感了",
       "onboard_time": 1752807921,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114315,
+      "num": 151357,
+      "word": "T1将对战AG",
+      "onboard_time": 1752845246,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 113965,
@@ -3547,12 +3675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7145,
-      "num": 151761,
-      "word": "谁懂三丽鸥和雅迪联名的含金量",
-      "onboard_time": 1752844285,
-      "rank": 44,
-      "category": "民生新闻,数码"
+      "raw_hot": 8120,
+      "num": 2009052,
+      "word": "00后卢沟桥唱如愿告慰抗战先烈",
+      "onboard_time": 1752846087,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

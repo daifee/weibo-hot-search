@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752844346003,
+  "endTime": 1752846135308,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1611,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5148522,
+      "num": 5148522,
+      "word": "ALin秒了",
+      "onboard_time": 1752845246,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5131686,
       "num": 5131686,
       "word": "董璇再婚",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1751597181,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3677184,
-      "num": 3677184,
-      "word": "国考成绩",
-      "onboard_time": 1736860218,
-      "rank": 0,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
