@@ -1,6 +1,6 @@
 {
   "startTime": 1752770117737,
-  "endTime": 1752828713238,
+  "endTime": 1752831134900,
   "band_list": [
     {
       "raw_hot": 2306454,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 894482,
-      "num": 260855,
+      "num": 401124,
       "word": "月薪5w是什么概念",
       "onboard_time": 1752823702,
       "rank": 44,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 763064,
-      "num": 308464,
+      "num": 400819,
       "word": "一栗莎子瘦了37斤",
       "onboard_time": 1752823762,
       "rank": 14,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 728288,
+      "num": 591772,
+      "word": "中国乒乓变中国兵乓",
+      "onboard_time": 1752827242,
+      "rank": 30,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 706492,
       "num": 706492,
       "word": "派出所回应暴走团占道逼停120和119",
@@ -169,6 +177,14 @@
       "onboard_time": 1752793998,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 642355,
+      "num": 642355,
+      "word": "杭州臭味自来水",
+      "onboard_time": 1752827540,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 619446,
@@ -217,14 +233,6 @@
       "onboard_time": 1752816081,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529757,
-      "num": 200906,
-      "word": "中国乒乓变中国兵乓",
-      "onboard_time": 1752827242,
-      "rank": 30,
-      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 526193,
@@ -307,6 +315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 447896,
+      "num": 447896,
+      "word": "黄子韬抱很紧 徐艺洋想报警",
+      "onboard_time": 1752826822,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420505,
       "num": 209464,
       "word": "网红老板西藏自驾途中去世",
@@ -387,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349895,
+      "num": 349895,
+      "word": "领导让联系王安宇真就联系到了",
+      "onboard_time": 1752827182,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 347075,
       "num": 347075,
       "word": "刘慧涉嫌严重违纪违法被查",
       "onboard_time": 1752814404,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346228,
+      "num": 346228,
+      "word": "30岁戴2年牙套的后遗症",
+      "onboard_time": 1752826882,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 343889,
@@ -427,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317452,
+      "num": 401739,
+      "word": "余杭水务承诺为臭水用户免5吨水费",
+      "onboard_time": 1752828741,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315453,
       "num": 237945,
       "word": "余杭水务回应臭水事件赔偿问题",
       "onboard_time": 1752765263,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307023,
-      "num": 243121,
-      "word": "黄子韬抱很紧 徐艺洋想报警",
-      "onboard_time": 1752826822,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 306091,
@@ -563,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262451,
+      "num": 262451,
+      "word": "杭州人洗澡越洗越臭",
+      "onboard_time": 1752829641,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254774,
       "num": 254774,
       "word": "上海暴雨",
@@ -577,6 +617,14 @@
       "onboard_time": 1752798082,
       "rank": 16,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 252241,
+      "num": 252241,
+      "word": "Coldplay下场演出将提供无摄像头观众区",
+      "onboard_time": 1752826521,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 251135,
@@ -635,14 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236805,
-      "num": 185621,
-      "word": "领导让联系王安宇真就联系到了",
-      "onboard_time": 1752827182,
-      "rank": 21,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 234777,
       "num": 234777,
       "word": "TMEA阵容",
@@ -691,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222235,
-      "num": 128510,
-      "word": "30岁戴2年牙套的后遗症",
-      "onboard_time": 1752826882,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221115,
       "num": 221115,
       "word": "乐山大佛热到休假了",
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 218125,
-      "num": 218125,
+      "num": 592261,
       "word": "不要以手拉手方式下水救援",
       "onboard_time": 1752802040,
       "rank": 21,
@@ -745,14 +777,6 @@
       "onboard_time": 1752828262,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214082,
-      "num": 214082,
-      "word": "杭州臭味自来水",
-      "onboard_time": 1752827540,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212309,
@@ -843,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195332,
+      "num": 195332,
+      "word": "晚晚名画诞生",
+      "onboard_time": 1752830302,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 194774,
       "num": 194774,
       "word": "苍兰诀2三界最惨留守儿童",
@@ -888,6 +920,14 @@
       "word": "白象克重透明是对消费者的尊重",
       "onboard_time": 1752822441,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183601,
+      "num": 183601,
+      "word": "亲生父亲伙同继母买1600片泻药喂女儿",
+      "onboard_time": 1752829102,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163417,
+      "num": 163417,
+      "word": "美媒揭H20芯片解禁幕后",
+      "onboard_time": 1752829282,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163408,
       "num": 163408,
       "word": "杨瀚森小三双",
@@ -1035,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161698,
+      "num": 161698,
+      "word": "老外看病被叫号有多尴尬",
+      "onboard_time": 1752830001,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160391,
       "num": 160391,
       "word": "姜文说让子弹飞其实是七个字",
@@ -1056,6 +1112,14 @@
       "word": "奔跑吧",
       "onboard_time": 1752799342,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159046,
+      "num": 159046,
+      "word": "梓渝偷吃唐九洲的汉堡",
+      "onboard_time": 1752830842,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1121,14 +1185,6 @@
       "onboard_time": 1752818961,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 151831,
-      "num": 151831,
-      "word": "Coldplay下场演出将提供无摄像头观众区",
-      "onboard_time": 1752826521,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 151650,
@@ -1257,6 +1313,14 @@
       "onboard_time": 1752816801,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142988,
+      "num": 184588,
+      "word": "挖到了pdd15元的报恩防晒伞",
+      "onboard_time": 1752828682,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 141584,
@@ -1419,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129204,
+      "num": 129204,
+      "word": "雅迪九号全网下架多款电动自行车",
+      "onboard_time": 1752829881,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129179,
       "num": 129179,
       "word": "马斯克连发13帖抨击特朗普",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1752825802,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127159,
+      "num": 127159,
+      "word": "罗小黑战记",
+      "onboard_time": 1752829881,
+      "rank": 28,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 126971,
@@ -1595,12 +1675,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 120421,
+      "num": 120421,
+      "word": "从进厂到公务员再到北大的十年",
+      "onboard_time": 1752830361,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120123,
       "num": 120123,
       "word": "敖瑞鹏怼脸镜头好权威",
       "onboard_time": 1752816922,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120104,
+      "num": 120104,
+      "word": "妈妈的微信里只有38个人",
+      "onboard_time": 1752828622,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 118823,
@@ -1659,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116722,
+      "num": 116722,
+      "word": "马嘉祺唱我爱他",
+      "onboard_time": 1752829102,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116387,
       "num": 116387,
       "word": "我都没有文化哪里来的冲突",
@@ -1683,6 +1787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 115862,
+      "num": 115862,
+      "word": "民警住院顺便戳破一起电诈案",
+      "onboard_time": 1752830242,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114367,
       "num": 114367,
       "word": "第一批回家的大学生已经失去新鲜感了",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1752822080,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112721,
+      "num": 112721,
+      "word": "shad0w疑似加入BLG",
+      "onboard_time": 1752831020,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 111670,
@@ -1803,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105850,
+      "num": 105850,
+      "word": "横跨天际的双彩虹",
+      "onboard_time": 1752830361,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105180,
       "num": 105180,
       "word": "女生养钝口螈没想到一次繁殖好几盆",
@@ -1819,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104631,
+      "num": 104631,
+      "word": "樊振东亮相国球三进活动",
+      "onboard_time": 1752830302,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104542,
       "num": 104542,
       "word": "香港禁烟设施也太超前了",
@@ -1833,6 +1969,14 @@
       "onboard_time": 1752821121,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103867,
+      "num": 103867,
+      "word": "731",
+      "onboard_time": 1752831081,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 103696,
@@ -1889,6 +2033,14 @@
       "onboard_time": 1752819202,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100537,
+      "num": 100537,
+      "word": "减肥最佳速度是每月2到4公斤",
+      "onboard_time": 1752831081,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 100172,
@@ -1971,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94004,
-      "num": 94004,
-      "word": "妈妈的微信里只有38个人",
-      "onboard_time": 1752828622,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 93853,
       "num": 93853,
       "word": "英伟达市值超日本GDP",
@@ -2035,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86831,
+      "num": 183803,
+      "word": "水有异味市民称去3公里外餐厅吃饭",
+      "onboard_time": 1752829282,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86693,
       "num": 86693,
       "word": "李昀锐秀肌肉",
@@ -2075,20 +2227,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82894,
+      "num": 126251,
+      "word": "上海孤老500万遗产寻找继承人",
+      "onboard_time": 1752829341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82672,
       "num": 82672,
       "word": "mlxg说Bin和on纪律性差",
       "onboard_time": 1752795860,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82573,
-      "num": 98453,
-      "word": "挖到了pdd15元的报恩防晒伞",
-      "onboard_time": 1752828682,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 82338,
@@ -2475,6 +2627,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 20899,
+      "num": 113286,
+      "word": "一春虫虫人上半年总结",
+      "onboard_time": 1752830361,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 20316,
       "num": 38946,
       "word": "特朗普有意对150多个次要贸易伙伴加征关税",
@@ -2537,6 +2697,9 @@
     },
     {
       "word": "#保持足够的历史耐心#"
+    },
+    {
+      "word": "#万里行程映初心#"
     }
   ]
 }

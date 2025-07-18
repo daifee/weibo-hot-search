@@ -1,0 +1,410 @@
+{
+  "runTime": 1752831134900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 899202,
+        "num": 1143872,
+        "word": "英国五年内诞生8名三亲婴儿",
+        "onboard_time": 1752823401,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 642355,
+        "num": 642355,
+        "word": "杭州臭味自来水",
+        "onboard_time": 1752827540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25152,
+        "num": 592261,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728288,
+        "num": 591772,
+        "word": "中国乒乓变中国兵乓",
+        "onboard_time": 1752827242,
+        "rank": 3,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 590889,
+        "num": 590889,
+        "word": "王嘉尔深夜崩溃发文",
+        "onboard_time": 1752811702,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457883,
+        "num": 457883,
+        "word": "派出所回应暴走团占道逼停120和119",
+        "onboard_time": 1752823401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447896,
+        "num": 447896,
+        "word": "黄子韬抱很紧 徐艺洋想报警",
+        "onboard_time": 1752826822,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422565,
+        "num": 422565,
+        "word": "千万不要在洗澡的时候哭泣",
+        "onboard_time": 1752813983,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420328,
+        "num": 420328,
+        "word": "孙俪怎么偷偷美成这样",
+        "onboard_time": 1752823281,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317452,
+        "num": 401739,
+        "word": "余杭水务承诺为臭水用户免5吨水费",
+        "onboard_time": 1752828741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693637,
+        "num": 401124,
+        "word": "月薪5w是什么概念",
+        "onboard_time": 1752823702,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 631201,
+        "num": 400819,
+        "word": "一栗莎子瘦了37斤",
+        "onboard_time": 1752823762,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 398741,
+        "num": 398741,
+        "word": "时代少年团空降",
+        "onboard_time": 1752824662,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349895,
+        "num": 349895,
+        "word": "领导让联系王安宇真就联系到了",
+        "onboard_time": 1752827182,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 346228,
+        "num": 346228,
+        "word": "30岁戴2年牙套的后遗症",
+        "onboard_time": 1752826882,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262451,
+        "num": 262451,
+        "word": "杭州人洗澡越洗越臭",
+        "onboard_time": 1752829641,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252241,
+        "num": 252241,
+        "word": "Coldplay下场演出将提供无摄像头观众区",
+        "onboard_time": 1752826521,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206821,
+        "num": 206821,
+        "word": "田栩宁打招呼手腕不动手指动",
+        "onboard_time": 1752823462,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195332,
+        "num": 195332,
+        "word": "晚晚名画诞生",
+        "onboard_time": 1752830302,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142988,
+        "num": 184588,
+        "word": "挖到了pdd15元的报恩防晒伞",
+        "onboard_time": 1752828682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86831,
+        "num": 183803,
+        "word": "水有异味市民称去3公里外餐厅吃饭",
+        "onboard_time": 1752829282,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183601,
+        "num": 183601,
+        "word": "亲生父亲伙同继母买1600片泻药喂女儿",
+        "onboard_time": 1752829102,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163417,
+        "num": 163417,
+        "word": "美媒揭H20芯片解禁幕后",
+        "onboard_time": 1752829282,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161698,
+        "num": 161698,
+        "word": "老外看病被叫号有多尴尬",
+        "onboard_time": 1752830001,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159046,
+        "num": 159046,
+        "word": "梓渝偷吃唐九洲的汉堡",
+        "onboard_time": 1752830842,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146722,
+        "num": 146722,
+        "word": "杨紫李现秋千吻亲了十次",
+        "onboard_time": 1752828262,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130780,
+        "num": 130780,
+        "word": "余承恩朝雪录出场镜头",
+        "onboard_time": 1752826941,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129204,
+        "num": 129204,
+        "word": "雅迪九号全网下架多款电动自行车",
+        "onboard_time": 1752829881,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127159,
+        "num": 127159,
+        "word": "罗小黑战记",
+        "onboard_time": 1752829881,
+        "rank": 28,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 82894,
+        "num": 126251,
+        "word": "上海孤老500万遗产寻找继承人",
+        "onboard_time": 1752829341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125528,
+        "num": 125528,
+        "word": "林依晨二胎满月",
+        "onboard_time": 1752824901,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124603,
+        "num": 124603,
+        "word": "虞书欣王鹤棣包场苍兰诀2动画",
+        "onboard_time": 1752823820,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122556,
+        "num": 122556,
+        "word": "女子被造黄谣教科书式揪出造谣者",
+        "onboard_time": 1752816081,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120421,
+        "num": 120421,
+        "word": "从进厂到公务员再到北大的十年",
+        "onboard_time": 1752830361,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120104,
+        "num": 120104,
+        "word": "妈妈的微信里只有38个人",
+        "onboard_time": 1752828622,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321492,
+        "num": 118950,
+        "word": "黄轩女友晒照",
+        "onboard_time": 1752825142,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116722,
+        "num": 116722,
+        "word": "马嘉祺唱我爱他",
+        "onboard_time": 1752829102,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115862,
+        "num": 115862,
+        "word": "民警住院顺便戳破一起电诈案",
+        "onboard_time": 1752830242,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113527,
+        "num": 113527,
+        "word": "吃不完的荔枝可以冻起来",
+        "onboard_time": 1752824243,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20899,
+        "num": 113286,
+        "word": "一春虫虫人上半年总结",
+        "onboard_time": 1752830361,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14848,
+        "num": 113190,
+        "word": "中国航天把中式浪漫写进了宇宙",
+        "onboard_time": 1752800060,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113181,
+        "num": 113181,
+        "word": "iG官宣Wei加入",
+        "onboard_time": 1752820042,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112721,
+        "num": 112721,
+        "word": "shad0w疑似加入BLG",
+        "onboard_time": 1752831020,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105850,
+        "num": 105850,
+        "word": "横跨天际的双彩虹",
+        "onboard_time": 1752830361,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105077,
+        "num": 105077,
+        "word": "微信安卓安装包出现5处fxxk",
+        "onboard_time": 1752826882,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104631,
+        "num": 104631,
+        "word": "樊振东亮相国球三进活动",
+        "onboard_time": 1752830302,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104585,
+        "num": 104585,
+        "word": "朝雪录",
+        "onboard_time": 1752820162,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103867,
+        "num": 103867,
+        "word": "731",
+        "onboard_time": 1752831081,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101941,
+        "num": 101941,
+        "word": "韩国学霸没偷来试卷后数学考40分",
+        "onboard_time": 1752822142,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100537,
+        "num": 100537,
+        "word": "减肥最佳速度是每月2到4公斤",
+        "onboard_time": 1752831081,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#万里行程映初心#"
+    }
+  }
+}
