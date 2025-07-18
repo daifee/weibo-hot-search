@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752870626917,
+  "endTime": 1752871476927,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -20699,6 +20699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15928,
+      "num": 22801,
+      "word": "杭州自来水里到底是什么",
+      "onboard_time": 1752869414,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15873,
       "num": 18881,
       "word": "陈昊宇回眸巡演长沙站",
@@ -20721,14 +20729,6 @@
       "onboard_time": 1752815362,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14902,
-      "num": 21766,
-      "word": "杭州自来水里到底是什么",
-      "onboard_time": 1752869414,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14808,
@@ -20761,6 +20761,14 @@
       "onboard_time": 1752752122,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14137,
+      "num": 42388,
+      "word": "暴走团占道逼停120和119应担什么责",
+      "onboard_time": 1752870194,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13773,
@@ -20881,14 +20889,6 @@
       "onboard_time": 1752363317,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10440,
-      "num": 27752,
-      "word": "暴走团占道逼停120和119应担什么责",
-      "onboard_time": 1752870194,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8120,
