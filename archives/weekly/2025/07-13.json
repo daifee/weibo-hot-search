@@ -1,7 +1,15 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752837898430,
+  "endTime": 1752838863203,
   "band_list": [
+    {
+      "raw_hot": 14101624,
+      "num": 14101624,
+      "word": "肖战微博改名",
+      "onboard_time": 1752837081,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 14050966,
       "num": 14050966,
@@ -17,14 +25,6 @@
       "onboard_time": 1752740001,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10211327,
-      "num": 10211327,
-      "word": "肖战微博改名",
-      "onboard_time": 1752837081,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 10128223,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 4040259,
-      "num": 281025,
+      "num": 445486,
       "word": "X玖少年团成员去前缀",
       "onboard_time": 1752833960,
       "rank": 10,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1589798,
-      "num": 280877,
+      "num": 283863,
       "word": "肖战X玖最后一位少年",
       "onboard_time": 1752835340,
       "rank": 12,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1128323,
-      "num": 281014,
+      "num": 350423,
       "word": "Jennie删掉和朴彩英的合照",
       "onboard_time": 1752834741,
       "rank": 11,
@@ -1216,6 +1216,14 @@
       "word": "言承旭说F4合体像做梦一样",
       "onboard_time": 1752370400,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 844793,
+      "num": 384399,
+      "word": "哇唧唧哇",
+      "onboard_time": 1752837502,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -3363,8 +3371,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382584,
-      "num": 382584,
+      "raw_hot": 382876,
+      "num": 382876,
       "word": "短剧版山河令有内味了",
       "onboard_time": 1752834262,
       "rank": 38,
@@ -3705,6 +3713,14 @@
       "onboard_time": 1752539123,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350423,
+      "num": 350422,
+      "word": "杨幂不带小糯米上节目的原因",
+      "onboard_time": 1752837142,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 350329,
@@ -4091,6 +4107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 321043,
+      "num": 321043,
+      "word": "歌手直播",
+      "onboard_time": 1752837744,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "吃出半只蟑螂又从喉咙抠出另外半只",
@@ -4249,14 +4273,6 @@
       "onboard_time": 1752756202,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 302680,
-      "num": 280793,
-      "word": "哇唧唧哇",
-      "onboard_time": 1752837502,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 302342,
@@ -4604,7 +4620,7 @@
     },
     {
       "raw_hot": 281281,
-      "num": 281281,
+      "num": 384918,
       "word": "免费领鸡蛋骗走244亿养老钱",
       "onboard_time": 1752834622,
       "rank": 18,
@@ -4737,14 +4753,6 @@
       "onboard_time": 1752633321,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 275967,
-      "num": 275967,
-      "word": "杨幂不带小糯米上节目的原因",
-      "onboard_time": 1752837142,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 275958,
@@ -5595,6 +5603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242258,
+      "num": 217379,
+      "word": "梓渝脸手同步卡点太牛了",
+      "onboard_time": 1752838343,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242147,
       "num": 207649,
       "word": "赛琳娜将于9月结婚",
@@ -5788,7 +5804,7 @@
     },
     {
       "raw_hot": 233222,
-      "num": 233222,
+      "num": 246056,
       "word": "化妆和不化妆的都沉默了",
       "onboard_time": 1752832761,
       "rank": 21,
@@ -8033,6 +8049,14 @@
       "onboard_time": 1752660801,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183066,
+      "num": 183066,
+      "word": "外卖商战送太多也不好",
+      "onboard_time": 1752837983,
+      "rank": 27,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 182999,
@@ -10812,7 +10836,7 @@
     },
     {
       "raw_hot": 142988,
-      "num": 280919,
+      "num": 290751,
       "word": "挖到了pdd15元的报恩防晒伞",
       "onboard_time": 1752828682,
       "rank": 36,
@@ -12747,6 +12771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124686,
+      "num": 124686,
+      "word": "旺仔小乔不露脸演唱会",
+      "onboard_time": 1752838283,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124603,
       "num": 124603,
       "word": "鹿晗降窗和粉丝比耶合照",
@@ -13161,6 +13193,14 @@
       "onboard_time": 1752418466,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121592,
+      "num": 251310,
+      "word": "朝雪录cp乱成自助餐了趁热吃",
+      "onboard_time": 1752837562,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 121376,
@@ -14139,14 +14179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114090,
-      "num": 131196,
-      "word": "歌手直播",
-      "onboard_time": 1752837744,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113965,
       "num": 254689,
       "word": "居民称自来水不臭了都是杂质",
@@ -14603,14 +14635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109491,
-      "num": 109491,
-      "word": "朝雪录cp乱成自助餐了趁热吃",
-      "onboard_time": 1752837562,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "T1无缘MSI第三冠",
@@ -14737,6 +14761,14 @@
       "onboard_time": 1752836122,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108352,
+      "num": 108352,
+      "word": "T1对战MKOI",
+      "onboard_time": 1752837623,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 108319,
@@ -15481,14 +15513,6 @@
       "onboard_time": 1752592702,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102507,
-      "num": 102507,
-      "word": "T1对战MKOI",
-      "onboard_time": 1752837623,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 102496,
@@ -16419,6 +16443,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 91488,
+      "num": 91488,
+      "word": "沙溢跑男无缝衔接王牌9",
+      "onboard_time": 1752838463,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91466,
       "num": 282030,
       "word": "啤酒节青岛碰一下竟然免费喝",
@@ -16939,6 +16971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83335,
+      "num": 104146,
+      "word": "谁懂高温天穿对衣服的快乐",
+      "onboard_time": 1752838763,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 83305,
       "num": 83305,
       "word": "官方辟谣丢儿童表女游客为法院干部",
@@ -16993,6 +17033,14 @@
       "onboard_time": 1752795860,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82602,
+      "num": 82602,
+      "word": "女篮主帅被小孩姐当小孩了",
+      "onboard_time": 1752837202,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 82308,
@@ -17184,6 +17232,14 @@
       "word": "家长让幼儿坐超市绿豆中玩耍",
       "onboard_time": 1752536660,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78063,
+      "num": 350424,
+      "word": "西湖边多只小松鼠被流浪猫捕猎",
+      "onboard_time": 1752832221,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -17641,14 +17697,6 @@
       "onboard_time": 1752590184,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 62659,
-      "num": 121326,
-      "word": "西湖边多只小松鼠被流浪猫捕猎",
-      "onboard_time": 1752832221,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62623,
@@ -18345,6 +18393,14 @@
       "onboard_time": 1752724461,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 43483,
+      "num": 96040,
+      "word": "张博恒的身体像一本不言自明的日记",
+      "onboard_time": 1752838823,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 43408,
