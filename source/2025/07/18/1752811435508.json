@@ -1,0 +1,410 @@
+{
+  "runTime": 1752811435508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254533,
+        "num": 1254533,
+        "word": "刑满释放后去洗浴中心0元购被抓",
+        "onboard_time": 1752805041,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844665,
+        "num": 844665,
+        "word": "网红多肉饱饱赠覃海洋名表均为假货",
+        "onboard_time": 1752804440,
+        "rank": 1,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 9136,
+        "num": 618443,
+        "word": "录取通知书是大学的第一堂课",
+        "onboard_time": 1752741921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609070,
+        "num": 609070,
+        "word": "从128斤瘦到88斤的真实感受",
+        "onboard_time": 1752798801,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 543824,
+        "num": 543824,
+        "word": "徐志胜回应一家人共用一张脸",
+        "onboard_time": 1752805581,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412566,
+        "num": 412566,
+        "word": "张继科蔡振华打乒乓球",
+        "onboard_time": 1752806420,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353087,
+        "num": 353087,
+        "word": "孙颖莎王楚钦中国邮政活动",
+        "onboard_time": 1752804440,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332901,
+        "num": 332901,
+        "word": "孙颖莎王楚钦王曼昱合影",
+        "onboard_time": 1752808101,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273075,
+        "num": 273075,
+        "word": "虞书欣说不会为了转型而转型",
+        "onboard_time": 1752807022,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270425,
+        "num": 270425,
+        "word": "孙千素颜参加长安的荔枝首映礼",
+        "onboard_time": 1752797660,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 706960,
+        "num": 269744,
+        "word": "普通家庭根本没教过怎么送礼",
+        "onboard_time": 1752798981,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402770,
+        "num": 268494,
+        "word": "美国游客在意大利被割喉抢劫",
+        "onboard_time": 1752808521,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359634,
+        "num": 267812,
+        "word": "特朗普被确诊患静脉疾病",
+        "onboard_time": 1752794118,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357090,
+        "num": 267298,
+        "word": "杨幂 支持女儿而不是控制她",
+        "onboard_time": 1752810382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266467,
+        "num": 266467,
+        "word": "李昀锐一把抱起周深",
+        "onboard_time": 1752808941,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284261,
+        "num": 257855,
+        "word": "田栩宁穿背心下班",
+        "onboard_time": 1752800541,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269538,
+        "num": 257732,
+        "word": "王嘉尔 专辑已经出了我自己都不知道",
+        "onboard_time": 1752803660,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248563,
+        "num": 248563,
+        "word": "杭州多个小区自来水现异味后续",
+        "onboard_time": 1752804082,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222793,
+        "num": 222793,
+        "word": "月租6万元甲醛房致患病房东发声",
+        "onboard_time": 1752796941,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209152,
+        "num": 209152,
+        "word": "无限暖暖",
+        "onboard_time": 1752810022,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206118,
+        "num": 206118,
+        "word": "打歌2025官宣定档",
+        "onboard_time": 1752810320,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264608,
+        "num": 206104,
+        "word": "我是王嘉尔我也崩溃了",
+        "onboard_time": 1752809842,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205821,
+        "num": 205821,
+        "word": "张继科回应是否会邀请樊振东",
+        "onboard_time": 1752810561,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201852,
+        "num": 201852,
+        "word": "你好星期六",
+        "onboard_time": 1752808460,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141584,
+        "num": 193010,
+        "word": "2024入境游客总花费942亿美元",
+        "onboard_time": 1752808821,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 188568,
+        "num": 188568,
+        "word": "龙族",
+        "onboard_time": 1752806720,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178459,
+        "num": 178459,
+        "word": "J人和P人面对选择的不同反应",
+        "onboard_time": 1752811282,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 167899,
+        "num": 167899,
+        "word": "肖战被当面蛐蛐了",
+        "onboard_time": 1752802520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153952,
+        "num": 167282,
+        "word": "华南理工研究生奖学金发放新规引争议",
+        "onboard_time": 1752805881,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 155907,
+        "num": 166863,
+        "word": "商务部介绍十四五商务高质量发展成就",
+        "onboard_time": 1752805760,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164819,
+        "num": 166852,
+        "word": "校方回应警犬技术专业将分发小狗",
+        "onboard_time": 1752806781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166846,
+        "num": 166846,
+        "word": "杨瀚森迅速反弹",
+        "onboard_time": 1752801741,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163606,
+        "num": 163606,
+        "word": "罗小黑",
+        "onboard_time": 1752804860,
+        "rank": 32,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 158384,
+        "num": 158384,
+        "word": "吴宣仪翟潇闻有戏概念海报",
+        "onboard_time": 1752809722,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156907,
+        "num": 156907,
+        "word": "焦作鸡蛋灌饼王子结婚",
+        "onboard_time": 1752809601,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156858,
+        "num": 156858,
+        "word": "韩国教授称不适应中国崛起",
+        "onboard_time": 1752808521,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153385,
+        "num": 153385,
+        "word": "杨瀚森小三双",
+        "onboard_time": 1752808340,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137007,
+        "num": 137007,
+        "word": "不要以手拉手方式下水救援",
+        "onboard_time": 1752802040,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103586,
+        "num": 133589,
+        "word": "雷军带王传福参观小米工厂",
+        "onboard_time": 1752807680,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13357,
+        "num": 132588,
+        "word": "美团养老补贴年底覆盖百万骑手",
+        "onboard_time": 1752811282,
+        "rank": 39,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 132406,
+        "num": 132406,
+        "word": "辱骂中国球迷的黑人球员被解约",
+        "onboard_time": 1752802701,
+        "rank": 40,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 126971,
+        "num": 126971,
+        "word": "医生提醒不要盲目跟风割包皮",
+        "onboard_time": 1752810863,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126091,
+        "num": 126091,
+        "word": "鬼灭之刃无限城篇",
+        "onboard_time": 1752805400,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121528,
+        "num": 121528,
+        "word": "马斯克连发13帖抨击特朗普",
+        "onboard_time": 1752805160,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120934,
+        "num": 120934,
+        "word": "有戏",
+        "onboard_time": 1752808040,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119268,
+        "num": 119268,
+        "word": "白鹿说范丞丞当导演让常驻干等",
+        "onboard_time": 1752811102,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116632,
+        "num": 116632,
+        "word": "TMEA阵容",
+        "onboard_time": 1752803060,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114367,
+        "num": 114367,
+        "word": "第一批回家的大学生已经失去新鲜感了",
+        "onboard_time": 1752807921,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107359,
+        "num": 107359,
+        "word": "南科大录取通知书真的燃起来了",
+        "onboard_time": 1752808941,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106220,
+        "num": 106220,
+        "word": "您老从小追更的动画上新了",
+        "onboard_time": 1752808761,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#走出一条中国特色城市现代化新路子#"
+    }
+  }
+}
