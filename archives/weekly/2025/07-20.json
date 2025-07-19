@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752952875168,
+  "endTime": 1752953861462,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -553,6 +553,22 @@
       "onboard_time": 1752951914,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19596,
+      "num": 23188,
+      "word": "水逆",
+      "onboard_time": 1752953294,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 17375,
+      "num": 23134,
+      "word": "樱桃琥珀张凌赫的Hero是赵今麦",
+      "onboard_time": 1752953355,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

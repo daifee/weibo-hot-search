@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752952875168,
+  "endTime": 1752953861462,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -65587,6 +65587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19596,
+      "num": 23188,
+      "word": "水逆",
+      "onboard_time": 1752953294,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19555,
       "num": 153895,
       "word": "别墅漏水2年开发商称是因浙江雨多",
@@ -65953,6 +65961,14 @@
       "onboard_time": 1752172215,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17375,
+      "num": 23134,
+      "word": "樱桃琥珀张凌赫的Hero是赵今麦",
+      "onboard_time": 1752953355,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 17373,
