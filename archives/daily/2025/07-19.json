@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752935088205,
+  "endTime": 1752936191883,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1205661,
-      "num": 837498,
+      "num": 966343,
       "word": "水木年华怒怼郝蕾不够专业",
       "onboard_time": 1752931762,
       "rank": 16,
@@ -129,6 +129,14 @@
       "onboard_time": 1752920900,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1010284,
+      "num": 1010284,
+      "word": "男子疯狂别14岁骑行少女被拘14日",
+      "onboard_time": 1752931402,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 997226,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 829007,
-      "num": 652171,
+      "num": 760405,
       "word": "杨紫都有点不敢回魏哲鸣了",
       "onboard_time": 1752928521,
       "rank": 16,
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702737,
-      "num": 702737,
-      "word": "男子疯狂别14岁骑行少女被拘14日",
-      "onboard_time": 1752931402,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 693010,
       "num": 693010,
       "word": "肖战工作室申请注册肖战商标被驳回",
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 611989,
-      "num": 611989,
+      "num": 793317,
       "word": "外卖平台被约谈后怎么样了",
       "onboard_time": 1752932843,
       "rank": 45,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430007,
+      "num": 430007,
+      "word": "卡车司机带16岁儿子出车双双遇难",
+      "onboard_time": 1752930802,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429678,
       "num": 429678,
       "word": "苏超",
@@ -593,14 +601,6 @@
       "onboard_time": 1752906501,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 390878,
-      "num": 390878,
-      "word": "卡车司机带16岁儿子出车双双遇难",
-      "onboard_time": 1752930802,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 386382,
@@ -1011,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229313,
+      "num": 392450,
+      "word": "体检10年未查出癌症女子称不为赔偿",
+      "onboard_time": 1752933681,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228623,
       "num": 228623,
       "word": "张馨予回应生吞蚂蚁",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1752898281,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221854,
+      "num": 221854,
+      "word": "44岁高管失业后去摆地摊做保洁",
+      "onboard_time": 1752932183,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219606,
@@ -1131,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207260,
+      "num": 207260,
+      "word": "UNINE合体现身李汶翰首唱会",
+      "onboard_time": 1752935303,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206347,
       "num": 206347,
       "word": "翟潇闻痛失本名",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1752902061,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205528,
+      "num": 205528,
+      "word": "时代少年团 接广州",
+      "onboard_time": 1752935603,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 205526,
@@ -1339,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188355,
+      "num": 188355,
+      "word": "全员加速中",
+      "onboard_time": 1752935063,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187805,
       "num": 198833,
       "word": "GAI杭州演唱会",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1752919582,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184243,
-      "num": 184243,
-      "word": "44岁高管失业后去摆地摊做保洁",
-      "onboard_time": 1752932183,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183388,
@@ -1548,7 +1580,7 @@
     },
     {
       "raw_hot": 172706,
-      "num": 328710,
+      "num": 329724,
       "word": "赵丽颖纪梵希线下活动",
       "onboard_time": 1752934643,
       "rank": 17,
@@ -1580,7 +1612,7 @@
     },
     {
       "raw_hot": 170729,
-      "num": 170729,
+      "num": 280164,
       "word": "樱桃琥珀汪叔叔咸鱼翻身当大佬",
       "onboard_time": 1752934523,
       "rank": 34,
@@ -1707,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162177,
+      "num": 162177,
+      "word": "三孩来了",
+      "onboard_time": 1752932302,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161589,
       "num": 192410,
       "word": "沈梦辰吊带鱼尾长裙",
@@ -1720,6 +1760,14 @@
       "word": "苏超南通2比1盐城",
       "onboard_time": 1752932601,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159977,
+      "num": 159977,
+      "word": "浙BA",
+      "onboard_time": 1752935183,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1979,11 +2027,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141713,
-      "num": 141713,
-      "word": "三孩来了",
-      "onboard_time": 1752932302,
-      "rank": 41,
+      "raw_hot": 141435,
+      "num": 141435,
+      "word": "喻言飙高音",
+      "onboard_time": 1752935663,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1993,6 +2041,14 @@
       "onboard_time": 1752892159,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140878,
+      "num": 140878,
+      "word": "越南载有53人游船倾覆",
+      "onboard_time": 1752935362,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140407,
@@ -2115,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135976,
+      "num": 135976,
+      "word": "汪东城撕拉片帅的好权威",
+      "onboard_time": 1752935124,
+      "rank": 41,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 135518,
       "num": 135518,
       "word": "钟镇涛女儿喜提北电场记板录取书",
@@ -2139,12 +2203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134512,
+      "num": 134512,
+      "word": "泰州1比0宿迁",
+      "onboard_time": 1752935423,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134396,
       "num": 134396,
       "word": "LPL",
       "onboard_time": 1752918022,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134344,
+      "num": 134344,
+      "word": "万能遥控器是违法产品",
+      "onboard_time": 1752935124,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133550,
@@ -2171,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133294,
+      "num": 133294,
+      "word": "GEN战胜G2",
+      "onboard_time": 1752935723,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133274,
       "num": 277502,
       "word": "女子驾观光车撞倒男孩拖行2米称没看见",
@@ -2185,6 +2273,14 @@
       "onboard_time": 1752884600,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131929,
+      "num": 131929,
+      "word": "胡夏跟李克勤跳舞嗨到鞋都掉了",
+      "onboard_time": 1752935782,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 131712,
@@ -2347,6 +2443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124703,
+      "num": 124703,
+      "word": "扫毒风暴",
+      "onboard_time": 1752935063,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124594,
       "num": 293368,
       "word": "草原那达慕开幕了",
@@ -2427,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120723,
+      "num": 971579,
+      "word": "台风韦帕风雨时间表",
+      "onboard_time": 1752923961,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120629,
       "num": 117019,
       "word": "郑钦文近期将把重心放在康复训练上",
@@ -2456,14 +2568,6 @@
       "word": "阮经天好一个工地男模",
       "onboard_time": 1752909140,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 118556,
-      "num": 118556,
-      "word": "全员加速中",
-      "onboard_time": 1752935063,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -2523,28 +2627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115832,
-      "num": 840342,
-      "word": "台风韦帕风雨时间表",
-      "onboard_time": 1752923961,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115538,
       "num": 115538,
       "word": "福建福耀科技大学最低投档线公布",
       "onboard_time": 1752934282,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 115512,
-      "num": 115512,
-      "word": "扫毒风暴",
-      "onboard_time": 1752935063,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 115409,
@@ -2561,14 +2649,6 @@
       "onboard_time": 1752901641,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114497,
-      "num": 392450,
-      "word": "体检10年未查出癌症女子称不为赔偿",
-      "onboard_time": 1752933681,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113871,
