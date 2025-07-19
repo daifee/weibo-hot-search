@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752924173542,
+  "endTime": 1752925137511,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -3267,6 +3267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 475084,
+      "num": 475084,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1752920900,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 473073,
       "num": 272222,
       "word": "刘浩存跳舞",
@@ -3401,6 +3409,14 @@
       "onboard_time": 1752775575,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 453597,
+      "num": 308829,
+      "word": "确诊糖尿病前身体给我发出的信号",
+      "onboard_time": 1752919822,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 453550,
@@ -4009,14 +4025,6 @@
       "onboard_time": 1752638542,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377292,
-      "num": 377292,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1752920900,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 376758,
@@ -4772,7 +4780,7 @@
     },
     {
       "raw_hot": 326794,
-      "num": 689840,
+      "num": 793927,
       "word": "2025年三伏共30天",
       "onboard_time": 1752888019,
       "rank": 13,
@@ -5859,14 +5867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267548,
-      "num": 267548,
-      "word": "确诊糖尿病前身体给我发出的信号",
-      "onboard_time": 1752919822,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 267513,
       "num": 296962,
       "word": "间谍企图将稀土灌入塑料模特偷出境",
@@ -6249,6 +6249,14 @@
       "onboard_time": 1752579501,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251477,
+      "num": 251477,
+      "word": "AL晋级EWC决赛",
+      "onboard_time": 1752924380,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 251135,
@@ -7867,6 +7875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205526,
+      "num": 205526,
+      "word": "魏哲鸣线下活动人气",
+      "onboard_time": 1752924019,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205462,
       "num": 189657,
       "word": "这下都没有小桌板了",
@@ -8843,6 +8859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190944,
+      "num": 190944,
+      "word": "刘宇宁演唱会直播",
+      "onboard_time": 1752923901,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190942,
       "num": 190942,
       "word": "张本智和坦言对阵王楚钦胜算低",
@@ -9697,14 +9721,6 @@
       "onboard_time": 1752846689,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179525,
-      "num": 182525,
-      "word": "刘宇宁演唱会直播",
-      "onboard_time": 1752923901,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 179350,
@@ -12371,14 +12387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147605,
-      "num": 147605,
-      "word": "魏哲鸣线下活动人气",
-      "onboard_time": 1752924019,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147597,
       "num": 147597,
       "word": "女子找大师逆天改命被骗80万",
@@ -12451,6 +12459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147066,
+      "num": 147066,
+      "word": "BLG",
+      "onboard_time": 1752924561,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147006,
       "num": 147006,
       "word": "黄景瑜撤回一出又整一出",
@@ -12504,6 +12520,14 @@
       "word": "B萌",
       "onboard_time": 1752761062,
       "rank": 29,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 146418,
+      "num": 146418,
+      "word": "斗破苍穹",
+      "onboard_time": 1752923361,
+      "rank": 44,
       "category": "动漫"
     },
     {
@@ -13073,6 +13097,14 @@
       "onboard_time": 1752598818,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140339,
+      "num": 140339,
+      "word": "看陶喆演唱会误入盘丝洞",
+      "onboard_time": 1752924740,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 140289,
@@ -14347,14 +14379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129818,
-      "num": 129818,
-      "word": "斗破苍穹",
-      "onboard_time": 1752923361,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 129816,
       "num": 129816,
       "word": "Apex",
@@ -14891,6 +14915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126138,
+      "num": 126138,
+      "word": "台风韦帕到哪了",
+      "onboard_time": 1752922042,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126060,
       "num": 126060,
       "word": "王一博早期微博被做成书了",
@@ -15016,14 +15048,6 @@
       "word": "空调免费电价翻倍",
       "onboard_time": 1752886521,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125028,
-      "num": 125028,
-      "word": "台风韦帕到哪了",
-      "onboard_time": 1752922042,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -16347,6 +16371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 116109,
+      "num": 116109,
+      "word": "杭州自来水 生物医药",
+      "onboard_time": 1752924980,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116086,
       "num": 169983,
       "word": "F4合体言承旭当场红了眼眶",
@@ -16393,6 +16425,14 @@
       "onboard_time": 1752715580,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115832,
+      "num": 310376,
+      "word": "台风韦帕风雨时间表",
+      "onboard_time": 1752923961,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115720,
@@ -16843,6 +16883,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112626,
+      "num": 112626,
+      "word": "北京国安vs上海申花",
+      "onboard_time": 1752925101,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112506,
+      "num": 112506,
+      "word": "张凌赫新剧牛馍王",
+      "onboard_time": 1752925101,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112392,
       "num": 112392,
       "word": "马龙北京出发",
@@ -16889,6 +16945,14 @@
       "onboard_time": 1752900021,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112195,
+      "num": 112195,
+      "word": "2.7万做牙齿正畸只给10套塑料牙套",
+      "onboard_time": 1752922581,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112151,
@@ -17185,6 +17249,14 @@
       "onboard_time": 1752894501,
       "rank": 46,
       "category": "动漫,动漫"
+    },
+    {
+      "raw_hot": 109344,
+      "num": 109344,
+      "word": "人民文娱评罗小黑战记2",
+      "onboard_time": 1752925040,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 109312,
@@ -17787,14 +17859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105112,
-      "num": 159777,
-      "word": "台风韦帕风雨时间表",
-      "onboard_time": 1752923961,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105059,
       "num": 105059,
       "word": "两斤肉22块钱做了37个烤肠",
@@ -18265,6 +18329,14 @@
       "onboard_time": 1752419366,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101820,
+      "num": 251756,
+      "word": "苏超南通vs盐城",
+      "onboard_time": 1752924139,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 101604,
@@ -21929,14 +22001,6 @@
       "onboard_time": 1752850885,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 36518,
-      "num": 131580,
-      "word": "苏超南通vs盐城",
-      "onboard_time": 1752924139,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 36474,

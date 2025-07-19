@@ -1,0 +1,410 @@
+{
+  "runTime": 1752925137511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2142957,
+        "num": 2142957,
+        "word": "AL零封T1",
+        "onboard_time": 1752922581,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1224558,
+        "num": 1224558,
+        "word": "缅甸老板送回高考生称其前途光明",
+        "onboard_time": 1752919341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24874,
+        "num": 793927,
+        "word": "2025年三伏共30天",
+        "onboard_time": 1752888019,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475084,
+        "num": 475084,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1752920900,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407641,
+        "num": 407641,
+        "word": "曝合肥一香奈儿店员与顾客扭打",
+        "onboard_time": 1752918803,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 841987,
+        "num": 384853,
+        "word": "官方通报余杭自来水异味",
+        "onboard_time": 1752910282,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 329453,
+        "num": 329453,
+        "word": "杭州苕溪原水粪大肠菌群超3类标准",
+        "onboard_time": 1752917541,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 311441,
+        "num": 311441,
+        "word": "雅鲁藏布江下游水电工程开工",
+        "onboard_time": 1752920962,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301479,
+        "num": 311172,
+        "word": "樱桃琥珀我承认之前对你太大声了",
+        "onboard_time": 1752919881,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115832,
+        "num": 310376,
+        "word": "台风韦帕风雨时间表",
+        "onboard_time": 1752923961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707595,
+        "num": 309680,
+        "word": "素颜张元英",
+        "onboard_time": 1752917002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453597,
+        "num": 308829,
+        "word": "确诊糖尿病前身体给我发出的信号",
+        "onboard_time": 1752919822,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 439229,
+        "num": 307944,
+        "word": "演唱会亲密搂抱两人均被停职",
+        "onboard_time": 1752893602,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365340,
+        "num": 307648,
+        "word": "杨天真 我160斤的时候也这样",
+        "onboard_time": 1752915203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327536,
+        "num": 307080,
+        "word": "王青直播",
+        "onboard_time": 1752916462,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306534,
+        "num": 306534,
+        "word": "AL暴打T1",
+        "onboard_time": 1752922162,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291129,
+        "num": 291129,
+        "word": "怀孕是一场服从性测试",
+        "onboard_time": 1752906681,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255029,
+        "num": 255029,
+        "word": "杨紫回复了锦绣芳华所有人",
+        "onboard_time": 1752922881,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196808,
+        "num": 252194,
+        "word": "网红骑哈雷的小姨去世",
+        "onboard_time": 1752917362,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101820,
+        "num": 251756,
+        "word": "苏超南通vs盐城",
+        "onboard_time": 1752924139,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304921,
+        "num": 251685,
+        "word": "60岁才是来月经最好的年纪",
+        "onboard_time": 1752917121,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251477,
+        "num": 251477,
+        "word": "AL晋级EWC决赛",
+        "onboard_time": 1752924380,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207866,
+        "num": 207866,
+        "word": "泡泡玛特",
+        "onboard_time": 1752916941,
+        "rank": 22,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 205526,
+        "num": 205526,
+        "word": "魏哲鸣线下活动人气",
+        "onboard_time": 1752924019,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190944,
+        "num": 190944,
+        "word": "刘宇宁演唱会直播",
+        "onboard_time": 1752923901,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178905,
+        "num": 178905,
+        "word": "雅鲁藏布江",
+        "onboard_time": 1752920002,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163962,
+        "num": 163962,
+        "word": "鹿晗工作室头像初选",
+        "onboard_time": 1752919102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163817,
+        "num": 163817,
+        "word": "韩国申遗失败未经证实网友为何狂欢",
+        "onboard_time": 1752917722,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 160871,
+        "num": 160871,
+        "word": "我觉得杨幂长得像幂这个字",
+        "onboard_time": 1752920842,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38017,
+        "num": 151398,
+        "word": "庞博的主持业务不止在喜单",
+        "onboard_time": 1752923181,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150199,
+        "num": 150199,
+        "word": "贞操啥都不是",
+        "onboard_time": 1752910462,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147066,
+        "num": 147066,
+        "word": "BLG",
+        "onboard_time": 1752924561,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146418,
+        "num": 146418,
+        "word": "斗破苍穹",
+        "onboard_time": 1752923361,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145447,
+        "num": 145447,
+        "word": "女子称赤裸上半身体检遭护士闯入",
+        "onboard_time": 1752894679,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145134,
+        "num": 145134,
+        "word": "魔仙小蓝扮演者怼黑粉",
+        "onboard_time": 1752919582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140339,
+        "num": 140339,
+        "word": "看陶喆演唱会误入盘丝洞",
+        "onboard_time": 1752924740,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139813,
+        "num": 139813,
+        "word": "郑钦文完成右肘手术",
+        "onboard_time": 1752920002,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130743,
+        "num": 130743,
+        "word": "网友担心余杭周边加工厂食品安全",
+        "onboard_time": 1752910282,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126138,
+        "num": 126138,
+        "word": "台风韦帕到哪了",
+        "onboard_time": 1752922042,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62094,
+        "num": 123760,
+        "word": "球迷高举马龙你是最好的队长",
+        "onboard_time": 1752924139,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122882,
+        "num": 122882,
+        "word": "T1 人机",
+        "onboard_time": 1752923541,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122331,
+        "num": 122331,
+        "word": "山姆被指只有说英文才有人工客服",
+        "onboard_time": 1752919282,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116109,
+        "num": 116109,
+        "word": "杭州自来水 生物医药",
+        "onboard_time": 1752924980,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112626,
+        "num": 112626,
+        "word": "北京国安vs上海申花",
+        "onboard_time": 1752925101,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112582,
+        "num": 112582,
+        "word": "抗癌网红呆呆羊去世",
+        "onboard_time": 1752905841,
+        "rank": 44,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 112506,
+        "num": 112506,
+        "word": "张凌赫新剧牛馍王",
+        "onboard_time": 1752925101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112195,
+        "num": 112195,
+        "word": "2.7万做牙齿正畸只给10套塑料牙套",
+        "onboard_time": 1752922581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109344,
+        "num": 109344,
+        "word": "人民文娱评罗小黑战记2",
+        "onboard_time": 1752925040,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105258,
+        "num": 108936,
+        "word": "许凯白长了一个男团身材",
+        "onboard_time": 1752923782,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108928,
+        "num": 108928,
+        "word": "王青直播人气",
+        "onboard_time": 1752923300,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中毛建交60周年#"
+    }
+  }
+}
