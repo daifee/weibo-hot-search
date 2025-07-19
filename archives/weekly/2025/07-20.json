@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752953861462,
+  "endTime": 1752956953508,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22362,
+      "num": 23188,
+      "word": "水逆",
+      "onboard_time": 1752953294,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22133,
       "num": 22133,
       "word": "TXT预告",
@@ -555,20 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19596,
-      "num": 23188,
-      "word": "水逆",
-      "onboard_time": 1752953294,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17375,
       "num": 23134,
       "word": "樱桃琥珀张凌赫的Hero是赵今麦",
       "onboard_time": 1752953355,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13815,
+      "num": 16419,
+      "word": "女兵军考688分被国防科大录取",
+      "onboard_time": 1752956114,
+      "rank": 48,
+      "category": "教育,民生新闻"
     }
   ],
   "hotgov_list": [
