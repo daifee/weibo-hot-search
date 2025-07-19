@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752932888891,
+  "endTime": 1752935088205,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1728054,
+      "num": 1728054,
+      "word": "金靖瘦成这样了",
+      "onboard_time": 1752930383,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1445708,
       "num": 1445708,
       "word": "被骗至缅甸失联高考生已找到",
       "onboard_time": 1752903502,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1436668,
-      "num": 1436668,
-      "word": "金靖瘦成这样了",
-      "onboard_time": 1752930383,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 1409215,
@@ -89,6 +89,14 @@
       "onboard_time": 1752860117,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1205661,
+      "num": 837498,
+      "word": "水木年华怒怼郝蕾不够专业",
+      "onboard_time": 1752931762,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1134367,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 829007,
-      "num": 563311,
+      "num": 652171,
       "word": "杨紫都有点不敢回魏哲鸣了",
       "onboard_time": 1752928521,
       "rank": 16,
@@ -227,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 749818,
+      "num": 681845,
+      "word": "你好星期六预告",
+      "onboard_time": 1752932902,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 748955,
       "num": 748955,
       "word": "单依纯听到GAI淘汰的反应",
@@ -257,6 +273,14 @@
       "onboard_time": 1752834741,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 702737,
+      "num": 702737,
+      "word": "男子疯狂别14岁骑行少女被拘14日",
+      "onboard_time": 1752931402,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 693010,
@@ -331,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 611989,
+      "num": 611989,
+      "word": "外卖平台被约谈后怎么样了",
+      "onboard_time": 1752932843,
+      "rank": 45,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 611087,
       "num": 611087,
       "word": "泡泡玛特",
@@ -387,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554765,
+      "num": 554765,
+      "word": "中国女篮 李梦",
+      "onboard_time": 1752932183,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553982,
       "num": 553982,
       "word": "曝合肥一香奈儿店员与顾客扭打",
       "onboard_time": 1752918803,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 539517,
-      "num": 421041,
-      "word": "水木年华怒怼郝蕾不够专业",
-      "onboard_time": 1752931762,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 531173,
@@ -563,6 +595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 390878,
+      "num": 390878,
+      "word": "卡车司机带16岁儿子出车双双遇难",
+      "onboard_time": 1752930802,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386382,
       "num": 289606,
       "word": "60岁才是来月经最好的年纪",
@@ -667,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339793,
-      "num": 345506,
-      "word": "卡车司机带16岁儿子出车双双遇难",
-      "onboard_time": 1752930802,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 338322,
       "num": 338664,
       "word": "3对母女乘车阿坝坠河已有5人遇难",
@@ -747,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309810,
-      "num": 309810,
-      "word": "男子疯狂别14岁骑行少女被拘14日",
-      "onboard_time": 1752931402,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305906,
       "num": 305906,
       "word": "郑钦文完成右肘手术",
@@ -800,6 +824,14 @@
       "word": "余杭自来水异味和硫醚类物质有关",
       "onboard_time": 1752911840,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282509,
+      "num": 328692,
+      "word": "有年轻人1年花近20万拍海马体",
+      "onboard_time": 1752931583,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -873,14 +905,6 @@
       "onboard_time": 1752911301,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254004,
-      "num": 254004,
-      "word": "中国女篮 李梦",
-      "onboard_time": 1752932183,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 251477,
@@ -1051,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214120,
+      "num": 328699,
+      "word": "陈小春来了也得在别墅里面唱K",
+      "onboard_time": 1752934102,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213326,
       "num": 303473,
       "word": "韩国申遗失败未经证实网友为何狂欢",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1752905182,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209024,
-      "num": 209024,
-      "word": "有年轻人1年花近20万拍海马体",
-      "onboard_time": 1752931583,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208242,
@@ -1187,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199386,
+      "num": 199386,
+      "word": "他敢说成龙金喜善唱得比韩红孙楠好",
+      "onboard_time": 1752933324,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199079,
       "num": 199079,
       "word": "梓渝音乐节出发机场路透",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1752896120,
       "rank": 18,
       "category": "互联网,美妆"
+    },
+    {
+      "raw_hot": 197396,
+      "num": 197396,
+      "word": "子夜归",
+      "onboard_time": 1752934222,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 196085,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1752850945,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194766,
+      "num": 194766,
+      "word": "GAI杭州演唱会上座率爆",
+      "onboard_time": 1752934462,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 192702,
@@ -1347,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184243,
+      "num": 184243,
+      "word": "44岁高管失业后去摆地摊做保洁",
+      "onboard_time": 1752932183,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183388,
       "num": 183388,
       "word": "亚洲杯",
@@ -1372,7 +1428,7 @@
     },
     {
       "raw_hot": 182010,
-      "num": 182010,
+      "num": 305733,
       "word": "李敏镐说自己会努力控制欲望",
       "onboard_time": 1752930984,
       "rank": 32,
@@ -1491,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172706,
+      "num": 328710,
+      "word": "赵丽颖纪梵希线下活动",
+      "onboard_time": 1752934643,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 172142,
       "num": 172142,
       "word": "朴宝剑苦尽甘橘",
@@ -1513,6 +1577,14 @@
       "onboard_time": 1752929122,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170729,
+      "num": 170729,
+      "word": "樱桃琥珀汪叔叔咸鱼翻身当大佬",
+      "onboard_time": 1752934523,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 169723,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1752891021,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165332,
+      "num": 165332,
+      "word": "萧亚轩喊徐明浩哥哥",
+      "onboard_time": 1752933924,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 164627,
@@ -1635,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160364,
+      "num": 321458,
+      "word": "苏超南通2比1盐城",
+      "onboard_time": 1752932601,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159969,
       "num": 159969,
       "word": "脱友2第一个直接晋级女演员",
@@ -1659,20 +1747,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158841,
-      "num": 321458,
-      "word": "苏超南通2比1盐城",
-      "onboard_time": 1752932601,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 158877,
+      "num": 158877,
+      "word": "李昀锐反向表白粉丝",
+      "onboard_time": 1752933743,
+      "rank": 37,
+      "category": "艺人"
     },
     {
-      "raw_hot": 158661,
-      "num": 158661,
-      "word": "外卖平台被约谈后怎么样了",
-      "onboard_time": 1752932843,
-      "rank": 45,
-      "category": "民生新闻,互联网"
+      "raw_hot": 157498,
+      "num": 157498,
+      "word": "中超",
+      "onboard_time": 1752934042,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 156887,
@@ -1721,14 +1809,6 @@
       "onboard_time": 1752891079,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 154561,
-      "num": 154561,
-      "word": "44岁高管失业后去摆地摊做保洁",
-      "onboard_time": 1752932183,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153712,
@@ -1899,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141713,
+      "num": 141713,
+      "word": "三孩来了",
+      "onboard_time": 1752932302,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141389,
       "num": 188214,
       "word": "金在中连夜给SuperJunior打电话告状",
@@ -1985,6 +2073,14 @@
       "onboard_time": 1752914844,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138102,
+      "num": 138102,
+      "word": "IG jiejie",
+      "onboard_time": 1752933563,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 137886,
@@ -2363,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118556,
+      "num": 118556,
+      "word": "全员加速中",
+      "onboard_time": 1752935063,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118400,
       "num": 118400,
       "word": "李兰迪敖瑞鹏 好嗑",
@@ -2420,11 +2524,27 @@
     },
     {
       "raw_hot": 115832,
-      "num": 310376,
+      "num": 840342,
       "word": "台风韦帕风雨时间表",
       "onboard_time": 1752923961,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115538,
+      "num": 115538,
+      "word": "福建福耀科技大学最低投档线公布",
+      "onboard_time": 1752934282,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 115512,
+      "num": 115512,
+      "word": "扫毒风暴",
+      "onboard_time": 1752935063,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115409,
@@ -2441,6 +2561,14 @@
       "onboard_time": 1752901641,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114497,
+      "num": 392450,
+      "word": "体检10年未查出癌症女子称不为赔偿",
+      "onboard_time": 1752933681,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113871,
@@ -2513,6 +2641,14 @@
       "onboard_time": 1752930262,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111576,
+      "num": 111576,
+      "word": "RNGM战胜eStar",
+      "onboard_time": 1752934163,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 111391,
@@ -3043,6 +3179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 82433,
+      "num": 155766,
+      "word": "张子宇被打脸",
+      "onboard_time": 1752933563,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82148,
       "num": 99845,
       "word": "朱智勋青龙视帝",
@@ -3435,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38759,
+      "num": 195701,
+      "word": "一游客爬到悬崖峭壁上打坐",
+      "onboard_time": 1752933681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37298,
       "num": 120893,
       "word": "柠檬巴巴露亚",
@@ -3660,6 +3812,9 @@
     },
     {
       "word": "#中毛建交60周年#"
+    },
+    {
+      "word": "#总书记心中的人民城市#"
     }
   ]
 }
