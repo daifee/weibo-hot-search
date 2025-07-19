@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 23:27:18
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 23:42:01
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ Jennie删掉和朴彩英的合照（热度：1128323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E4%B8%8B%E8%82%A2%E6%98%AF%E4%BA%BA%E4%BD%93%E8%87%AA%E5%B8%A6%E7%9A%84%E8%A1%80%E7%B3%96%E4%BB%AA%23" target="weibo">
+医生说下肢是人体自带的血糖仪（热度：1057702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%9A%E8%82%89%E9%A5%B1%E9%A5%B1%E8%B5%A0%E8%A6%83%E6%B5%B7%E6%B4%8B%E5%90%8D%E8%A1%A8%E5%9D%87%E4%B8%BA%E5%81%87%E8%B4%A7%23" target="weibo">
 网红多肉饱饱赠覃海洋名表均为假货（热度：1056038）
 </a>
@@ -2681,12 +2687,6 @@ Zeus希望能尽快结束此事（热度：933414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A53%E6%AD%BB3%E4%BC%A4%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%23" target="weibo">
 广州交警通报3死3伤交通事故（热度：919593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E4%B8%8B%E8%82%A2%E6%98%AF%E4%BA%BA%E4%BD%93%E8%87%AA%E5%B8%A6%E7%9A%84%E8%A1%80%E7%B3%96%E4%BB%AA%23" target="weibo">
-医生说下肢是人体自带的血糖仪（热度：919000）
 </a>
 </li>
 

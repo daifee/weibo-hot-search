@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752938838024,
+  "endTime": 1752939721857,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1057702,
+      "num": 1057702,
+      "word": "医生说下肢是人体自带的血糖仪",
+      "onboard_time": 1752936323,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1037062,
       "num": 1037062,
       "word": "刘宇宁演唱会",
@@ -161,14 +169,6 @@
       "onboard_time": 1752906681,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 919000,
-      "num": 919000,
-      "word": "医生说下肢是人体自带的血糖仪",
-      "onboard_time": 1752936323,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 918623,
@@ -499,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 473808,
+      "num": 423076,
+      "word": "很多女孩着急找对象",
+      "onboard_time": 1752926120,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471244,
       "num": 471244,
       "word": "AL暴打T1",
@@ -619,14 +627,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 396260,
-      "num": 396260,
-      "word": "很多女孩着急找对象",
-      "onboard_time": 1752926120,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 386382,
       "num": 289606,
       "word": "60岁才是来月经最好的年纪",
@@ -659,6 +659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 365908,
+      "num": 365908,
+      "word": "喻言又拿了第一",
+      "onboard_time": 1752937943,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363802,
       "num": 363802,
       "word": "杭州苕溪原水粪大肠菌群超3类标准",
@@ -689,6 +697,14 @@
       "onboard_time": 1752911541,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352213,
+      "num": 292230,
+      "word": "月经的四大标准",
+      "onboard_time": 1752936983,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 351013,
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315886,
+      "num": 315886,
+      "word": "十八线歌手音综垫底逆袭成第二",
+      "onboard_time": 1752938482,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305906,
       "num": 305906,
       "word": "郑钦文完成右肘手术",
@@ -825,14 +849,6 @@
       "onboard_time": 1752889880,
       "rank": 19,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 292230,
-      "num": 292230,
-      "word": "月经的四大标准",
-      "onboard_time": 1752936983,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 291904,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1752920842,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241355,
-      "num": 241355,
-      "word": "喻言又拿了第一",
-      "onboard_time": 1752937943,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 239992,
@@ -1331,6 +1339,14 @@
       "category": "互联网,美妆"
     },
     {
+      "raw_hot": 198560,
+      "num": 423108,
+      "word": "年轻人不再为面子买单",
+      "onboard_time": 1752936323,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197396,
       "num": 197396,
       "word": "子夜归",
@@ -1635,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173593,
+      "num": 173593,
+      "word": "毛不易一首歌拦三辆出租车",
+      "onboard_time": 1752938364,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173563,
       "num": 173563,
       "word": "爆红男歌手十年没有动态的原因",
@@ -1715,28 +1739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168379,
-      "num": 168379,
-      "word": "年轻人不再为面子买单",
-      "onboard_time": 1752936323,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168337,
       "num": 309586,
       "word": "徒步团队长称暴走团是贴标签",
       "onboard_time": 1752902902,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167966,
-      "num": 293727,
-      "word": "十八线歌手音综垫底逆袭成第二",
-      "onboard_time": 1752938482,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 167029,
@@ -1859,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160311,
-      "num": 160311,
-      "word": "毛不易一首歌拦三辆出租车",
-      "onboard_time": 1752938364,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 159977,
       "num": 159977,
       "word": "浙BA",
@@ -1955,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154881,
+      "num": 154881,
+      "word": "GALA 保jie派",
+      "onboard_time": 1752939142,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154841,
       "num": 154841,
       "word": "中华小当家最新话男主被处决",
@@ -2003,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151518,
+      "num": 151518,
+      "word": "妻子抑郁症发作伤人丈夫恼怒下反杀",
+      "onboard_time": 1752939563,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151196,
       "num": 151196,
       "word": "原来安全带不只是一拉一扣",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1752911721,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147784,
+      "num": 147784,
+      "word": "李现锦绣芳华收官发文",
+      "onboard_time": 1752939023,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 147197,
@@ -2240,6 +2264,14 @@
       "word": "沈腾这是真daddy",
       "onboard_time": 1752907941,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137667,
+      "num": 137667,
+      "word": "余承恩被丞磊骗惨了",
+      "onboard_time": 1752939263,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -2457,6 +2489,14 @@
       "onboard_time": 1752938302,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "韩红汪苏泷合唱年轮",
+      "onboard_time": 1752939321,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 128166,
@@ -2737,6 +2777,14 @@
       "onboard_time": 1752930321,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115622,
+      "num": 115622,
+      "word": "我发现很多善良的人有一个特点",
+      "onboard_time": 1752936744,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 115538,
@@ -3251,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89935,
+      "num": 292834,
+      "word": "广东2地发布五停通知",
+      "onboard_time": 1752938482,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89668,
       "num": 99836,
       "word": "侯佩岑来主持歌手吧",
@@ -3699,6 +3755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45676,
+      "num": 210000,
+      "word": "10年全职主妇离婚想要家务补偿",
+      "onboard_time": 1752938542,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45647,
       "num": 164600,
       "word": "88万赔偿律师拿走55万合理吗",
@@ -3720,14 +3784,6 @@
       "word": "余杭有人跨区12公里洗澡吃饭",
       "onboard_time": 1752913941,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44951,
-      "num": 292834,
-      "word": "广东2地发布五停通知",
-      "onboard_time": 1752938482,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3809,14 +3865,6 @@
       "onboard_time": 1752909679,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 36213,
-      "num": 210000,
-      "word": "10年全职主妇离婚想要家务补偿",
-      "onboard_time": 1752938542,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35926,
