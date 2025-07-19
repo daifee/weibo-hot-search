@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752902916371,
+  "endTime": 1752903972332,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 1131711,
-      "num": 1144967,
+      "num": 1172143,
       "word": "椰子水 玉米水",
       "onboard_time": 1752893840,
       "rank": 4,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1752411865,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 997226,
+      "num": 322153,
+      "word": "安全裤不就是防走光的吗",
+      "onboard_time": 1752903742,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 996153,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1752890841,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 768634,
+      "num": 324656,
+      "word": "叮叮怀孕",
+      "onboard_time": 1752901582,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 767165,
@@ -2499,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555037,
+      "num": 555037,
+      "word": "人民日报刘宇宁访谈完整版",
+      "onboard_time": 1752899121,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554301,
       "num": 313786,
       "word": "被女子强搂亲吻男孩妈妈最新发声",
@@ -2641,14 +2665,6 @@
       "onboard_time": 1752391942,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538009,
-      "num": 324656,
-      "word": "叮叮怀孕",
-      "onboard_time": 1752901582,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 537059,
@@ -3036,7 +3052,7 @@
     },
     {
       "raw_hot": 486402,
-      "num": 243268,
+      "num": 313133,
       "word": "刘耀文红发",
       "onboard_time": 1752900861,
       "rank": 15,
@@ -3176,14 +3192,6 @@
       "word": "这是41岁的唐嫣",
       "onboard_time": 1752559223,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 459761,
-      "num": 459761,
-      "word": "人民日报刘宇宁访谈完整版",
-      "onboard_time": 1752899121,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -5169,6 +5177,14 @@
       "onboard_time": 1752847168,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281427,
+      "num": 281427,
+      "word": "梓渝回应首登大型音乐节舞台",
+      "onboard_time": 1752903142,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 281349,
@@ -7419,6 +7435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205933,
+      "num": 205933,
+      "word": "歌手",
+      "onboard_time": 1752902061,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205462,
       "num": 189657,
       "word": "这下都没有小桌板了",
@@ -7449,6 +7473,14 @@
       "onboard_time": 1752643281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204930,
+      "num": 204930,
+      "word": "刘亦菲20年前在男生心中的地位",
+      "onboard_time": 1752902601,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 204908,
@@ -7505,14 +7537,6 @@
       "onboard_time": 1752758602,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204308,
-      "num": 189640,
-      "word": "歌手",
-      "onboard_time": 1752902061,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 204103,
@@ -8619,6 +8643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187093,
+      "num": 187093,
+      "word": "被骗至缅甸失联高考生已找到",
+      "onboard_time": 1752903502,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186918,
       "num": 186918,
       "word": "张雅钦在be赛道强得可怕",
@@ -9001,6 +9033,14 @@
       "onboard_time": 1752556523,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182074,
+      "num": 182074,
+      "word": "盛宇得知GAI淘汰后直接爆粗",
+      "onboard_time": 1752902540,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 182063,
@@ -9417,6 +9457,14 @@
       "onboard_time": 1752414624,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 174463,
+      "num": 174463,
+      "word": "樱桃琥珀加更",
+      "onboard_time": 1752903262,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 174419,
@@ -9864,14 +9912,6 @@
       "word": "c83宠爱",
       "onboard_time": 1752395063,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 167780,
-      "num": 167780,
-      "word": "盛宇得知GAI淘汰后直接爆粗",
-      "onboard_time": 1752902540,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -11273,6 +11313,14 @@
       "onboard_time": 1752756021,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150881,
+      "num": 148622,
+      "word": "不要为了省钱而去商场吹空调",
+      "onboard_time": 1752903742,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 150842,
@@ -14051,6 +14099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124594,
+      "num": 293368,
+      "word": "草原那达慕开幕了",
+      "onboard_time": 1752900680,
+      "rank": 33,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 124541,
       "num": 124541,
       "word": "赵今麦新剧一生气就会变得毛茸茸",
@@ -14817,14 +14873,6 @@
       "onboard_time": 1752497542,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119528,
-      "num": 119528,
-      "word": "刘亦菲20年前在男生心中的地位",
-      "onboard_time": 1752902601,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 119407,
@@ -15875,6 +15923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112004,
+      "num": 112004,
+      "word": "下巴凸起的小颗粒到底是啥",
+      "onboard_time": 1752903680,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111949,
       "num": 111949,
       "word": "陈熠说赢蒯曼是运气稍微好了一点",
@@ -16196,7 +16252,7 @@
     },
     {
       "raw_hot": 108914,
-      "num": 108914,
+      "num": 329560,
       "word": "老师回应学生坚持早自习被指假努力",
       "onboard_time": 1752900561,
       "rank": 41,
@@ -16209,14 +16265,6 @@
       "onboard_time": 1752852384,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108864,
-      "num": 293368,
-      "word": "草原那达慕开幕了",
-      "onboard_time": 1752900680,
-      "rank": 33,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 108809,
@@ -16739,6 +16787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104931,
+      "num": 104931,
+      "word": "易烊千玺生气会吃辣条",
+      "onboard_time": 1752903801,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104898,
       "num": 104898,
       "word": "朝雪录最令人心痛的4分钟",
@@ -17163,6 +17219,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101597,
+      "num": 207781,
+      "word": "表扬组合互动上了",
+      "onboard_time": 1752902301,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101533,
+      "num": 101533,
+      "word": "许凯田曦薇豹豹猫猫这一下",
+      "onboard_time": 1752903742,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101514,
       "num": 101514,
       "word": "男子顺风车猥亵同座女子被拘",
@@ -17225,6 +17297,14 @@
       "onboard_time": 1752819202,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100895,
+      "num": 309586,
+      "word": "徒步团队长称暴走团是贴标签",
+      "onboard_time": 1752902902,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100785,
@@ -17417,6 +17497,14 @@
       "onboard_time": 1752888920,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98706,
+      "num": 98706,
+      "word": "三伏天养生六不要",
+      "onboard_time": 1752900263,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98619,
@@ -17689,14 +17777,6 @@
       "onboard_time": 1752757581,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95922,
-      "num": 95922,
-      "word": "三伏天养生六不要",
-      "onboard_time": 1752900263,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 95827,
@@ -17972,7 +18052,7 @@
     },
     {
       "raw_hot": 93206,
-      "num": 252965,
+      "num": 301495,
       "word": "你们有188的人吃得也太好了",
       "onboard_time": 1752901281,
       "rank": 14,
@@ -19475,6 +19555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64806,
+      "num": 114299,
+      "word": "马龙说不想浪费每一分钟",
+      "onboard_time": 1752903622,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64673,
       "num": 285511,
       "word": "山姆小程序被质疑去除商品标识",
@@ -20691,6 +20779,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 34985,
+      "num": 205318,
+      "word": "减免5吨水费换不来安心",
+      "onboard_time": 1752903142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34526,
       "num": 135770,
       "word": "神级风景插画合集",
@@ -21801,14 +21897,6 @@
       "onboard_time": 1752403280,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13537,
-      "num": 207781,
-      "word": "表扬组合互动上了",
-      "onboard_time": 1752902301,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 13351,
