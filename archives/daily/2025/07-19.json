@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752917266804,
+  "endTime": 1752918112799,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 793960,
+      "num": 236608,
+      "word": "王青直播",
+      "onboard_time": 1752916462,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784749,
       "num": 784749,
       "word": "丈夫怀疑妻子出轨将其踹下楼致死",
@@ -217,6 +225,14 @@
       "onboard_time": 1752910462,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 648904,
+      "num": 235413,
+      "word": "素颜张元英",
+      "onboard_time": 1752917002,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 642084,
@@ -403,14 +419,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 379794,
-      "num": 219944,
-      "word": "王青直播",
-      "onboard_time": 1752916462,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378903,
       "num": 378903,
       "word": "余杭臭宝",
@@ -449,6 +457,14 @@
       "onboard_time": 1752883699,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345655,
+      "num": 345655,
+      "word": "佛山已确诊基孔肯雅热超千例",
+      "onboard_time": 1752912680,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 344753,
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316010,
-      "num": 316010,
-      "word": "佛山已确诊基孔肯雅热超千例",
-      "onboard_time": 1752912680,
-      "rank": 28,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 303298,
       "num": 303298,
       "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
@@ -553,14 +561,6 @@
       "onboard_time": 1752911840,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276925,
-      "num": 188067,
-      "word": "素颜张元英",
-      "onboard_time": 1752917002,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 276603,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243136,
+      "num": 243136,
+      "word": "泡泡玛特",
+      "onboard_time": 1752916941,
+      "rank": 48,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 242620,
       "num": 160804,
       "word": "GAI淘汰",
@@ -673,6 +681,14 @@
       "onboard_time": 1752912202,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237224,
+      "num": 237224,
+      "word": "网红骑哈雷的小姨去世",
+      "onboard_time": 1752917362,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 229513,
@@ -891,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186427,
+      "num": 233107,
+      "word": "杭州苕溪原水粪大肠菌群超3类标准",
+      "onboard_time": 1752917541,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 185992,
       "num": 185992,
       "word": "年轻人相亲有多能整活",
@@ -1059,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164818,
+      "num": 164818,
+      "word": "60岁才是来月经最好的年纪",
+      "onboard_time": 1752917121,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163813,
       "num": 163813,
       "word": "家属称4名失联男孩定位显示在柬埔寨",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1752902361,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157059,
+      "num": 157059,
+      "word": "韩国申遗失败未经证实网友为何狂欢",
+      "onboard_time": 1752917722,
+      "rank": 35,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 156537,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1752899000,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148007,
+      "num": 148007,
+      "word": "苏超",
+      "onboard_time": 1752917842,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 147932,
@@ -1307,12 +1355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135518,
+      "num": 135518,
+      "word": "钟镇涛女儿喜提北电场记板录取书",
+      "onboard_time": 1752917842,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135048,
       "num": 135048,
       "word": "原来钟丽丽这么会跳舞",
       "onboard_time": 1752902421,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134396,
+      "num": 134396,
+      "word": "LPL",
+      "onboard_time": 1752918022,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 133550,
@@ -1388,7 +1452,7 @@
     },
     {
       "raw_hot": 129884,
-      "num": 129884,
+      "num": 165290,
       "word": "被骗至缅甸高考生被好心大哥救助",
       "onboard_time": 1752916401,
       "rank": 46,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1752912261,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127551,
+      "num": 127551,
+      "word": "傻妞明年就能开机了",
+      "onboard_time": 1752917662,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 126788,
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121645,
+      "num": 121645,
+      "word": "杨瀚森将回国备战亚洲杯",
+      "onboard_time": 1752917662,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121241,
       "num": 121241,
       "word": "这版bangbangbang权志龙来了都没招",
@@ -1497,14 +1577,6 @@
       "onboard_time": 1752855442,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119479,
-      "num": 119479,
-      "word": "泡泡玛特",
-      "onboard_time": 1752916941,
-      "rank": 48,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 118670,
@@ -1552,14 +1624,6 @@
       "word": "kid撞脸李行亮",
       "onboard_time": 1752901641,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 114424,
-      "num": 114424,
-      "word": "60岁才是来月经最好的年纪",
-      "onboard_time": 1752917121,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2107,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76968,
+      "num": 231884,
+      "word": "在解限机实现机甲梦",
+      "onboard_time": 1752915922,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76520,
       "num": 99831,
       "word": "鹿晗成都版Sugar",
@@ -2129,14 +2201,6 @@
       "onboard_time": 1752856342,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72436,
-      "num": 228084,
-      "word": "在解限机实现机甲梦",
-      "onboard_time": 1752915922,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 71611,
@@ -2395,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31802,
+      "num": 137742,
+      "word": "韩国非遗仍在名单中",
+      "onboard_time": 1752917902,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 30891,
       "num": 50585,
       "word": "是谁站在世界上最危险的4.5英亩",
@@ -2409,6 +2481,14 @@
       "onboard_time": 1752914423,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28633,
+      "num": 229893,
+      "word": "护士强闯背后有无熟人插队问题",
+      "onboard_time": 1752917482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27913,
