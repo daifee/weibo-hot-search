@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752951015220,
+  "endTime": 1752952875168,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67757,
+      "num": 67757,
+      "word": "刘宇宁演唱会为已故粉丝留座和花",
+      "onboard_time": 1752950776,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63767,
       "num": 89985,
       "word": "MLB吉祥物模仿演唱会出轨男女",
@@ -499,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28185,
-      "num": 28185,
-      "word": "刘宇宁演唱会为已故粉丝留座和花",
-      "onboard_time": 1752950776,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 26673,
       "num": 27076,
       "word": "种地吧",
@@ -523,12 +523,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15998,
+      "raw_hot": 23774,
+      "num": 23774,
+      "word": "陈立农宁波演唱会",
+      "onboard_time": 1752951676,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23312,
       "num": 103950,
       "word": "广州多区升级为台风黄色预警信号",
       "onboard_time": 1752950175,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22133,
+      "num": 22133,
+      "word": "TXT预告",
+      "onboard_time": 1752952155,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 20223,
+      "num": 22047,
+      "word": "门尼",
+      "onboard_time": 1752951914,
+      "rank": 48,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

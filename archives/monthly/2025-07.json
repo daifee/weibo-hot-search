@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752951015220,
+  "endTime": 1752952875168,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -58147,6 +58147,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 67757,
+      "num": 67757,
+      "word": "刘宇宁演唱会为已故粉丝留座和花",
+      "onboard_time": 1752950776,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 67670,
       "num": 134840,
       "word": "印度大楼如纸牌屋般倒塌",
@@ -63979,14 +63987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28185,
-      "num": 28185,
-      "word": "刘宇宁演唱会为已故粉丝留座和花",
-      "onboard_time": 1752950776,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 28164,
       "num": 147846,
       "word": "俄法总统通话",
@@ -64795,6 +64795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23774,
+      "num": 23774,
+      "word": "陈立农宁波演唱会",
+      "onboard_time": 1752951676,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23729,
       "num": 231917,
       "word": "19岁高中生找暑假工失联警方介入",
@@ -64872,6 +64880,14 @@
       "word": "道禄和尚戒牒注销",
       "onboard_time": 1752846566,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23312,
+      "num": 103950,
+      "word": "广州多区升级为台风黄色预警信号",
+      "onboard_time": 1752950175,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -65089,6 +65105,14 @@
       "onboard_time": 1751508740,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22133,
+      "num": 22133,
+      "word": "TXT预告",
+      "onboard_time": 1752952155,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 22110,
@@ -65449,6 +65473,14 @@
       "onboard_time": 1752694274,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20223,
+      "num": 22047,
+      "word": "门尼",
+      "onboard_time": 1752951914,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 20197,
@@ -66161,14 +66193,6 @@
       "onboard_time": 1751309715,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15998,
-      "num": 103950,
-      "word": "广州多区升级为台风黄色预警信号",
-      "onboard_time": 1752950175,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15991,
