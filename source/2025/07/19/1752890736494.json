@@ -1,0 +1,402 @@
+{
+  "runTime": 1752890736494,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2246764,
+        "num": 2246764,
+        "word": "韩国申遗全面溃败",
+        "onboard_time": 1752884059,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1117827,
+        "num": 1117827,
+        "word": "演唱会亲密互动被投屏CEO道歉",
+        "onboard_time": 1752887180,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 996153,
+        "num": 996153,
+        "word": "补偿余杭人民15元水费",
+        "onboard_time": 1752882621,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872048,
+        "num": 872048,
+        "word": "27岁小伙取98万装修房子银行报警",
+        "onboard_time": 1752883400,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693010,
+        "num": 693010,
+        "word": "肖战工作室申请注册肖战商标被驳回",
+        "onboard_time": 1752887481,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497477,
+        "num": 497477,
+        "word": "有多少人是被热醒的",
+        "onboard_time": 1752886521,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496497,
+        "num": 496497,
+        "word": "单依纯听到GAI淘汰的反应",
+        "onboard_time": 1752850405,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375734,
+        "num": 375734,
+        "word": "丈夫怀疑妻子出轨将其踹下楼致死",
+        "onboard_time": 1752853342,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97160,
+        "num": 364520,
+        "word": "特朗普起诉默多克及新闻集团",
+        "onboard_time": 1752888980,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363762,
+        "num": 363762,
+        "word": "黄奕女儿想去韩国当练习生",
+        "onboard_time": 1752880218,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351013,
+        "num": 351013,
+        "word": "余杭自来水异味系苕溪原水异常",
+        "onboard_time": 1752883699,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335620,
+        "num": 335620,
+        "word": "白鹿李昀锐合照",
+        "onboard_time": 1752884119,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326794,
+        "num": 326794,
+        "word": "2025年三伏共30天",
+        "onboard_time": 1752888019,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245644,
+        "num": 245644,
+        "word": "于正说拍了近50部剧也就扑了4部",
+        "onboard_time": 1752883459,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242195,
+        "num": 242195,
+        "word": "女儿死后母亲才知道叫到了黑救护车",
+        "onboard_time": 1752852623,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224935,
+        "num": 224935,
+        "word": "歌手排名",
+        "onboard_time": 1752846689,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222606,
+        "num": 222606,
+        "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
+        "onboard_time": 1752845487,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219497,
+        "num": 219497,
+        "word": "台风韦帕将正面袭击广东省",
+        "onboard_time": 1752883820,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161135,
+        "num": 218724,
+        "word": "于正说想和杨幂再合作",
+        "onboard_time": 1752889880,
+        "rank": 19,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 218355,
+        "num": 218355,
+        "word": "张馨予回应生吞蚂蚁",
+        "onboard_time": 1752887541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213301,
+        "num": 213301,
+        "word": "梓渝盛世天下光头造型",
+        "onboard_time": 1752884959,
+        "rank": 21,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 212678,
+        "num": 212678,
+        "word": "美国IT大佬出轨被拍慌忙遮脸",
+        "onboard_time": 1752860117,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192154,
+        "num": 192154,
+        "word": "2025第200天",
+        "onboard_time": 1752880399,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170919,
+        "num": 170919,
+        "word": "中医建议伏天吃6种温性食物",
+        "onboard_time": 1752878297,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147932,
+        "num": 147932,
+        "word": "14岁女孩为护弟弟遭女子殴打",
+        "onboard_time": 1752887060,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146436,
+        "num": 146436,
+        "word": "何老师哽咽了",
+        "onboard_time": 1752843084,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144609,
+        "num": 144609,
+        "word": "特朗普正式签署天才法案",
+        "onboard_time": 1752882078,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141781,
+        "num": 141781,
+        "word": "ALin念肖战",
+        "onboard_time": 1752846987,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135558,
+        "num": 135558,
+        "word": "网传杭州水务集团刘某某潜逃系谣言",
+        "onboard_time": 1752852564,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 133065,
+        "num": 133065,
+        "word": "浏阳河",
+        "onboard_time": 1752884600,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128914,
+        "num": 128914,
+        "word": "女子理遗物发现丈夫出轨还转15万",
+        "onboard_time": 1752850524,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125037,
+        "num": 125037,
+        "word": "空调免费电价翻倍",
+        "onboard_time": 1752886521,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137258,
+        "num": 124830,
+        "word": "ALin秒了",
+        "onboard_time": 1752845246,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104989,
+        "num": 124080,
+        "word": "爱康体检事件当事人称或起诉",
+        "onboard_time": 1752888741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123586,
+        "num": 123586,
+        "word": "白鹿发文告别奔跑吧13",
+        "onboard_time": 1752851604,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122149,
+        "num": 122149,
+        "word": "IU青龙视后",
+        "onboard_time": 1752847109,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121430,
+        "num": 121430,
+        "word": "Jennie删掉和朴彩英的合照",
+        "onboard_time": 1752834741,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115409,
+        "num": 115409,
+        "word": "张雨霏游泳队在逃美人鱼",
+        "onboard_time": 1752889939,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111341,
+        "num": 111341,
+        "word": "台风",
+        "onboard_time": 1752883579,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108325,
+        "num": 108325,
+        "word": "京东回应外卖0元购大战",
+        "onboard_time": 1752884181,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108195,
+        "num": 108195,
+        "word": "李兰迪敖瑞鹏 好嗑",
+        "onboard_time": 1752889700,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107693,
+        "num": 107693,
+        "word": "市监总局约谈饿了么美团京东",
+        "onboard_time": 1752843865,
+        "rank": 42,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 104855,
+        "num": 104855,
+        "word": "歌手2025总决赛帮唱嘉宾",
+        "onboard_time": 1752883400,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103839,
+        "num": 103839,
+        "word": "世界市长到青岛",
+        "onboard_time": 1752883820,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102985,
+        "num": 102985,
+        "word": "日本警方指认进口中国玩具枪能打实弹",
+        "onboard_time": 1752852623,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100246,
+        "num": 100246,
+        "word": "乌兰图雅 歌手",
+        "onboard_time": 1752890240,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98768,
+        "num": 98768,
+        "word": "jiejie状态",
+        "onboard_time": 1752888920,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86434,
+        "num": 86434,
+        "word": "一代人有一代人的拉布布",
+        "onboard_time": 1752883820,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82769,
+        "num": 82769,
+        "word": "上身长下身短的人该如何穿搭",
+        "onboard_time": 1752887841,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#万里行程映初心#"
+    }
+  }
+}
