@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752890736494,
+  "endTime": 1752892175713,
   "band_list": [
     {
       "raw_hot": 2246764,
@@ -11,19 +11,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1378695,
+      "num": 1378695,
+      "word": "演唱会亲密互动被投屏CEO道歉",
+      "onboard_time": 1752887180,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1288131,
       "num": 1288131,
       "word": "美国IT大佬出轨被拍慌忙遮脸",
       "onboard_time": 1752860117,
       "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1117827,
-      "num": 1117827,
-      "word": "演唱会亲密互动被投屏CEO道歉",
-      "onboard_time": 1752887180,
-      "rank": 1,
       "category": "海外新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1752851604,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 563409,
+      "num": 563409,
+      "word": "杭州火灾",
+      "onboard_time": 1752890841,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556987,
@@ -203,12 +211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296441,
+      "num": 296441,
+      "word": "于正说想和杨幂再合作",
+      "onboard_time": 1752889880,
+      "rank": 19,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 291904,
       "num": 291904,
       "word": "女儿死后母亲才知道叫到了黑救护车",
       "onboard_time": 1752852623,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248138,
+      "num": 248138,
+      "word": "梓渝盛世天下光头造型",
+      "onboard_time": 1752884959,
+      "rank": 21,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 245644,
@@ -227,20 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228623,
+      "num": 228623,
+      "word": "张馨予回应生吞蚂蚁",
+      "onboard_time": 1752887541,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220834,
+      "num": 220834,
+      "word": "丁禹兮曾面试过流星花园",
+      "onboard_time": 1752890841,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219497,
       "num": 219497,
       "word": "台风韦帕将正面袭击广东省",
       "onboard_time": 1752883820,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218355,
-      "num": 218355,
-      "word": "张馨予回应生吞蚂蚁",
-      "onboard_time": 1752887541,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 217136,
@@ -259,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213301,
-      "num": 213301,
-      "word": "梓渝盛世天下光头造型",
-      "onboard_time": 1752884959,
-      "rank": 21,
-      "category": "作品衍生,综艺"
-    },
-    {
       "raw_hot": 208033,
       "num": 208033,
       "word": "何老师哽咽了",
@@ -281,6 +305,14 @@
       "onboard_time": 1752842305,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200232,
+      "num": 145288,
+      "word": "控制欲强的人有3个特征",
+      "onboard_time": 1752892101,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 196085,
@@ -307,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180502,
+      "num": 180502,
+      "word": "60岁正是勇闯漫展的年纪",
+      "onboard_time": 1752892159,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 178683,
       "num": 170919,
       "word": "中医建议伏天吃6种温性食物",
@@ -321,6 +361,14 @@
       "onboard_time": 1752852623,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166014,
+      "num": 166014,
+      "word": "长安的荔枝",
+      "onboard_time": 1752891021,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 163813,
@@ -339,20 +387,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161135,
-      "num": 218724,
-      "word": "于正说想和杨幂再合作",
-      "onboard_time": 1752889880,
-      "rank": 19,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 156023,
       "num": 156023,
       "word": "UNIQ",
       "onboard_time": 1752840923,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154841,
+      "num": 154841,
+      "word": "中华小当家最新话男主被处决",
+      "onboard_time": 1752891079,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 153712,
+      "num": 364520,
+      "word": "特朗普起诉默多克及新闻集团",
+      "onboard_time": 1752888980,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147932,
@@ -411,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118400,
+      "num": 118400,
+      "word": "李兰迪敖瑞鹏 好嗑",
+      "onboard_time": 1752889700,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115409,
       "num": 115409,
       "word": "张雨霏游泳队在逃美人鱼",
@@ -451,6 +515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110434,
+      "num": 110434,
+      "word": "金在中连夜给SuperJunior打电话告状",
+      "onboard_time": 1752892159,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109210,
+      "num": 109210,
+      "word": "歌手2025总决赛帮唱嘉宾",
+      "onboard_time": 1752883400,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108898,
       "num": 157285,
       "word": "租客违约退房失联房东一进屋惊呆",
@@ -467,28 +547,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 108195,
-      "num": 108195,
-      "word": "李兰迪敖瑞鹏 好嗑",
-      "onboard_time": 1752889700,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104989,
       "num": 124080,
       "word": "爱康体检事件当事人称或起诉",
       "onboard_time": 1752888741,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104855,
-      "num": 104855,
-      "word": "歌手2025总决赛帮唱嘉宾",
-      "onboard_time": 1752883400,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 103839,
@@ -547,12 +611,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 97160,
-      "num": 364520,
-      "word": "特朗普起诉默多克及新闻集团",
-      "onboard_time": 1752888980,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 97241,
+      "num": 97241,
+      "word": "三伏天如何正确养生",
+      "onboard_time": 1752891501,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96928,
+      "num": 96928,
+      "word": "生菜 寄生虫",
+      "onboard_time": 1752892101,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96506,
@@ -612,7 +684,7 @@
     },
     {
       "raw_hot": 86434,
-      "num": 86434,
+      "num": 153464,
       "word": "一代人有一代人的拉布布",
       "onboard_time": 1752883820,
       "rank": 48,
@@ -769,6 +841,14 @@
       "onboard_time": 1752846206,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57240,
+      "num": 132113,
+      "word": "中央气象台高温暴雨台风三预警",
+      "onboard_time": 1752885741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52767,

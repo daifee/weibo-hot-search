@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752890736494,
+  "endTime": 1752892175713,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1378695,
+      "num": 1378695,
+      "word": "演唱会亲密互动被投屏CEO道歉",
+      "onboard_time": 1752887180,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1373589,
       "num": 1373589,
       "word": "罗家英自曝注射女性荷尔蒙",
@@ -857,14 +865,6 @@
       "onboard_time": 1752652882,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1117827,
-      "num": 1117827,
-      "word": "演唱会亲密互动被投屏CEO道歉",
-      "onboard_time": 1752887180,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1114116,
@@ -2417,6 +2417,14 @@
       "onboard_time": 1752852564,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 563409,
+      "num": 563409,
+      "word": "杭州火灾",
+      "onboard_time": 1752890841,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 558563,
@@ -4731,6 +4739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296441,
+      "num": 296441,
+      "word": "于正说想和杨幂再合作",
+      "onboard_time": 1752889880,
+      "rank": 19,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 295423,
       "num": 295423,
       "word": "中国女排vs美国女排",
@@ -5867,6 +5883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248138,
+      "num": 248138,
+      "word": "梓渝盛世天下光头造型",
+      "onboard_time": 1752884959,
+      "rank": 21,
+      "category": "作品衍生,综艺"
+    },
+    {
       "raw_hot": 248068,
       "num": 248068,
       "word": "Jennie舞台",
@@ -6307,6 +6331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228623,
+      "num": 228623,
+      "word": "张馨予回应生吞蚂蚁",
+      "onboard_time": 1752887541,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227836,
       "num": 227836,
       "word": "荣耀X70是犯天条了吗",
@@ -6467,6 +6499,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 220834,
+      "num": 220834,
+      "word": "丁禹兮曾面试过流星花园",
+      "onboard_time": 1752890841,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220765,
       "num": 220765,
       "word": "田栩宁厦门飞杭州路透",
@@ -6561,14 +6601,6 @@
       "onboard_time": 1752743963,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218355,
-      "num": 218355,
-      "word": "张馨予回应生吞蚂蚁",
-      "onboard_time": 1752887541,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 218313,
@@ -6865,14 +6897,6 @@
       "onboard_time": 1752642800,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213301,
-      "num": 213301,
-      "word": "梓渝盛世天下光头造型",
-      "onboard_time": 1752884959,
-      "rank": 21,
-      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 213087,
@@ -7537,6 +7561,14 @@
       "onboard_time": 1752747261,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 200232,
+      "num": 145288,
+      "word": "控制欲强的人有3个特征",
+      "onboard_time": 1752892101,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 200123,
@@ -8811,6 +8843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180502,
+      "num": 180502,
+      "word": "60岁正是勇闯漫展的年纪",
+      "onboard_time": 1752892159,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 180438,
       "num": 216006,
       "word": "警方通报高中生到西双版纳后失联",
@@ -9771,6 +9811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166014,
+      "num": 166014,
+      "word": "长安的荔枝",
+      "onboard_time": 1752503543,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165756,
       "num": 165756,
       "word": "H20",
@@ -10137,14 +10185,6 @@
       "onboard_time": 1752487163,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161135,
-      "num": 218724,
-      "word": "于正说想和杨幂再合作",
-      "onboard_time": 1752889880,
-      "rank": 19,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 161095,
@@ -10643,6 +10683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154841,
+      "num": 154841,
+      "word": "中华小当家最新话男主被处决",
+      "onboard_time": 1752891079,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 154620,
       "num": 243128,
       "word": "央行将开展14000亿买断式逆回购操作",
@@ -10713,6 +10761,14 @@
       "onboard_time": 1752494301,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153712,
+      "num": 364520,
+      "word": "特朗普起诉默多克及新闻集团",
+      "onboard_time": 1752888980,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153327,
@@ -13011,14 +13067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130072,
-      "num": 130072,
-      "word": "长安的荔枝",
-      "onboard_time": 1752503543,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130068,
       "num": 130068,
       "word": "宇树科技开启上市辅导",
@@ -14507,6 +14555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118400,
+      "num": 118400,
+      "word": "李兰迪敖瑞鹏 好嗑",
+      "onboard_time": 1752889700,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118394,
       "num": 118394,
       "word": "赵今麦这一嗓子直接戳我泪腺上了",
@@ -15531,6 +15587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110434,
+      "num": 110434,
+      "word": "金在中连夜给SuperJunior打电话告状",
+      "onboard_time": 1752892159,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110368,
       "num": 110368,
       "word": "76%的人因为logo记住一个品牌",
@@ -15641,6 +15705,14 @@
       "onboard_time": 1752644241,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109210,
+      "num": 109210,
+      "word": "歌手2025总决赛帮唱嘉宾",
+      "onboard_time": 1752883400,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 109118,
@@ -15761,14 +15833,6 @@
       "onboard_time": 1752418167,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108195,
-      "num": 108195,
-      "word": "李兰迪敖瑞鹏 好嗑",
-      "onboard_time": 1752889700,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 108063,
@@ -16185,14 +16249,6 @@
       "onboard_time": 1752650241,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104855,
-      "num": 104855,
-      "word": "歌手2025总决赛帮唱嘉宾",
-      "onboard_time": 1752883400,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 104827,
@@ -16987,12 +17043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97160,
-      "num": 364520,
-      "word": "特朗普起诉默多克及新闻集团",
-      "onboard_time": 1752888980,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 97241,
+      "num": 97241,
+      "word": "三伏天如何正确养生",
+      "onboard_time": 1752891501,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97128,
@@ -17017,6 +17073,14 @@
       "onboard_time": 1752593302,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96928,
+      "num": 96928,
+      "word": "生菜 寄生虫",
+      "onboard_time": 1752892101,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96787,
@@ -17884,7 +17948,7 @@
     },
     {
       "raw_hot": 86434,
-      "num": 86434,
+      "num": 153464,
       "word": "一代人有一代人的拉布布",
       "onboard_time": 1752883820,
       "rank": 48,
@@ -19161,6 +19225,14 @@
       "onboard_time": 1752650482,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57240,
+      "num": 132113,
+      "word": "中央气象台高温暴雨台风三预警",
+      "onboard_time": 1752885741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57184,
