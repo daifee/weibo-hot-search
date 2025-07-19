@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752947029073,
+  "endTime": 1752950158318,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306651,
+      "num": 306651,
+      "word": "外卖大战被叫停后仍有免费饮料",
+      "onboard_time": 1752942502,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "台风韦帕登陆范围再次西移",
@@ -137,14 +145,6 @@
       "onboard_time": 1752932183,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268889,
-      "num": 268889,
-      "word": "外卖大战被叫停后仍有免费饮料",
-      "onboard_time": 1752942502,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217094,
@@ -219,8 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146413,
-      "num": 146413,
+      "raw_hot": 151138,
+      "num": 151138,
       "word": "印度一家出游瘫痪父亲绑车内险丧命",
       "onboard_time": 1752943879,
       "rank": 20,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42698,
+      "num": 45237,
+      "word": "梓渝在音乐节前一晚睡不着",
+      "onboard_time": 1752946997,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36553,
       "num": 45289,
       "word": "IG jiejie",
@@ -475,20 +483,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35251,
-      "num": 45237,
-      "word": "梓渝在音乐节前一晚睡不着",
-      "onboard_time": 1752946997,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 32535,
       "num": 104536,
       "word": "门票秒没黄牛那198元一张",
       "onboard_time": 1752936323,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26673,
+      "num": 27076,
+      "word": "种地吧",
+      "onboard_time": 1752949456,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

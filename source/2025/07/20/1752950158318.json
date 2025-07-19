@@ -1,0 +1,410 @@
+{
+  "runTime": 1752950158318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 459652,
+        "num": 459652,
+        "word": "妻子抑郁症发作伤人丈夫恼怒下反杀",
+        "onboard_time": 1752939563,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306651,
+        "num": 306651,
+        "word": "外卖大战被叫停后仍有免费饮料",
+        "onboard_time": 1752942502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41554,
+        "num": 228587,
+        "word": "台风韦帕风雨时间表",
+        "onboard_time": 1752923961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226273,
+        "num": 226273,
+        "word": "医生说下肢是人体自带的血糖仪",
+        "onboard_time": 1752936323,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206277,
+        "num": 206277,
+        "word": "一块好丽友砸穿了中产的山姆信仰",
+        "onboard_time": 1752940461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180763,
+        "num": 180763,
+        "word": "金靖瘦成这样了",
+        "onboard_time": 1752930383,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151138,
+        "num": 151138,
+        "word": "印度一家出游瘫痪父亲绑车内险丧命",
+        "onboard_time": 1752943879,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145369,
+        "num": 145369,
+        "word": "官方通报余杭自来水异味",
+        "onboard_time": 1752910282,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143569,
+        "num": 143569,
+        "word": "水木年华怒怼郝蕾不够专业",
+        "onboard_time": 1752931762,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137204,
+        "num": 137204,
+        "word": "央视曝光职业背债人产业链",
+        "onboard_time": 1752942620,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127909,
+        "num": 127909,
+        "word": "十八线歌手音综垫底逆袭成第二",
+        "onboard_time": 1752938482,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126156,
+        "num": 126156,
+        "word": "很多女孩着急找对象",
+        "onboard_time": 1752926120,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95009,
+        "num": 95009,
+        "word": "台风韦帕登陆范围再次西移",
+        "onboard_time": 1752936323,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84747,
+        "num": 84747,
+        "word": "12306回应高铁不要食用方便面提醒",
+        "onboard_time": 1752927022,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84576,
+        "num": 84576,
+        "word": "记者河中报道少女失踪意外踩到其遗体",
+        "onboard_time": 1752940101,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76842,
+        "num": 76842,
+        "word": "男子疯狂别14岁骑行少女被拘14日",
+        "onboard_time": 1752931402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62144,
+        "num": 62144,
+        "word": "AL零封T1",
+        "onboard_time": 1752922581,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58240,
+        "num": 58240,
+        "word": "杨紫都有点不敢回魏哲鸣了",
+        "onboard_time": 1752928521,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55771,
+        "num": 55771,
+        "word": "喻言又拿了第一",
+        "onboard_time": 1752937943,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53671,
+        "num": 53671,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1752920900,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52521,
+        "num": 52521,
+        "word": "有年轻人1年花近20万拍海马体",
+        "onboard_time": 1752931583,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51292,
+        "num": 51292,
+        "word": "中国女篮 李梦",
+        "onboard_time": 1752932183,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49261,
+        "num": 49261,
+        "word": "月经的四大标准",
+        "onboard_time": 1752936983,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46889,
+        "num": 46889,
+        "word": "赵丽颖直播",
+        "onboard_time": 1752928342,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 46822,
+        "num": 46822,
+        "word": "素颜张元英",
+        "onboard_time": 1752917002,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44540,
+        "num": 44540,
+        "word": "UNINE合体现身李汶翰首唱会",
+        "onboard_time": 1752935303,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44087,
+        "num": 44087,
+        "word": "你好星期六预告",
+        "onboard_time": 1752932902,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43197,
+        "num": 43197,
+        "word": "内娱超话钻3的明星",
+        "onboard_time": 1752930862,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42698,
+        "num": 42698,
+        "word": "梓渝在音乐节前一晚睡不着",
+        "onboard_time": 1752946997,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42601,
+        "num": 42601,
+        "word": "儿子氪金1万妈妈边打孩子边哭",
+        "onboard_time": 1752927741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40419,
+        "num": 40419,
+        "word": "MLB吉祥物模仿演唱会出轨男女",
+        "onboard_time": 1752943699,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38037,
+        "num": 38037,
+        "word": "卡车司机带16岁儿子出车双双遇难",
+        "onboard_time": 1752930802,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36613,
+        "num": 36613,
+        "word": "TES战胜IG",
+        "onboard_time": 1752937344,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36165,
+        "num": 36165,
+        "word": "年轻人不再为面子买单",
+        "onboard_time": 1752936323,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34907,
+        "num": 34907,
+        "word": "程潇一生要出片的中国女人",
+        "onboard_time": 1752945918,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32695,
+        "num": 32695,
+        "word": "蔡依林去了lesserafim演唱会",
+        "onboard_time": 1752939861,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31969,
+        "num": 31969,
+        "word": "谁来懂一下刘宇宁的浪漫",
+        "onboard_time": 1752938542,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31728,
+        "num": 31728,
+        "word": "田曦薇猫耳造型",
+        "onboard_time": 1752943580,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31448,
+        "num": 31448,
+        "word": "广东2地发布五停通知",
+        "onboard_time": 1752938482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29824,
+        "num": 29824,
+        "word": "GALA 保jie派",
+        "onboard_time": 1752939142,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29563,
+        "num": 29563,
+        "word": "中国女篮无缘亚洲杯决赛",
+        "onboard_time": 1752931643,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28972,
+        "num": 28972,
+        "word": "脱口秀和Ta的朋友们",
+        "onboard_time": 1752945258,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28819,
+        "num": 28819,
+        "word": "530万买房业主徒手掰开大梁碎块",
+        "onboard_time": 1752944839,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28468,
+        "num": 28468,
+        "word": "时代少年团逆应援",
+        "onboard_time": 1752929482,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28093,
+        "num": 28093,
+        "word": "雅鲁藏布江下游水电工程开工",
+        "onboard_time": 1752920962,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27605,
+        "num": 27605,
+        "word": "肖战上班下班照",
+        "onboard_time": 1752931282,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27130,
+        "num": 27130,
+        "word": "高铁建议勿食用方便面引网友热议",
+        "onboard_time": 1752928042,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27104,
+        "num": 27104,
+        "word": "子夜归",
+        "onboard_time": 1752934222,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27077,
+        "num": 27077,
+        "word": "赵丽颖纪梵希礼服",
+        "onboard_time": 1752939982,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 26673,
+        "num": 27076,
+        "word": "种地吧",
+        "onboard_time": 1752949456,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的人民城市#"
+    }
+  }
+}
