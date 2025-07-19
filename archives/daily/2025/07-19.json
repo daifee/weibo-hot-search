@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752909934083,
+  "endTime": 1752910793051,
   "band_list": [
     {
       "raw_hot": 3313614,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 988140,
+      "num": 501338,
+      "word": "怀孕是一场服从性测试",
+      "onboard_time": 1752906681,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 918623,
       "num": 918623,
       "word": "生菜 寄生虫",
@@ -89,14 +97,6 @@
       "onboard_time": 1752883400,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 867310,
-      "num": 501338,
-      "word": "怀孕是一场服从性测试",
-      "onboard_time": 1752906681,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 864112,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671573,
+      "num": 671573,
+      "word": "周渝民夫妇被闺蜜诈骗事件",
+      "onboard_time": 1752908481,
+      "rank": 7,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 663525,
       "num": 475468,
       "word": "白鹿发文告别奔跑吧13",
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 609302,
+      "num": 571553,
+      "word": "宋小宝这下真成王嘉尔了",
+      "onboard_time": 1752906742,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590314,
       "num": 562403,
       "word": "不要为了省钱而去商场吹空调",
@@ -225,14 +241,6 @@
       "onboard_time": 1752899121,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 581272,
-      "num": 571553,
-      "word": "宋小宝这下真成王嘉尔了",
-      "onboard_time": 1752906742,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 566716,
@@ -305,14 +313,6 @@
       "onboard_time": 1752843865,
       "rank": 7,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 459142,
-      "num": 369394,
-      "word": "周渝民夫妇被闺蜜诈骗事件",
-      "onboard_time": 1752908481,
-      "rank": 7,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 454853,
@@ -451,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312315,
+      "num": 312315,
+      "word": "官方通报余杭自来水异味",
+      "onboard_time": 1752910282,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 307416,
+      "num": 307416,
+      "word": "狗尾巴草 去痣",
+      "onboard_time": 1752906501,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 303298,
       "num": 303298,
       "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
@@ -547,20 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238389,
-      "num": 238389,
-      "word": "狗尾巴草 去痣",
-      "onboard_time": 1752906501,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 228623,
       "num": 228623,
       "word": "张馨予回应生吞蚂蚁",
       "onboard_time": 1752887541,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227155,
+      "num": 354677,
+      "word": "女子称长沙一酒店花洒有排泄物",
+      "onboard_time": 1752905541,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226640,
@@ -715,20 +731,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188266,
-      "num": 354677,
-      "word": "女子称长沙一酒店花洒有排泄物",
-      "onboard_time": 1752905541,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185992,
       "num": 185992,
       "word": "年轻人相亲有多能整活",
       "onboard_time": 1752906021,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185495,
+      "num": 322383,
+      "word": "饭店老板坦言不搞双标就活不下去",
+      "onboard_time": 1752908481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184917,
+      "num": 261791,
+      "word": "贞操啥都不是",
+      "onboard_time": 1752910462,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 182074,
@@ -753,6 +777,14 @@
       "onboard_time": 1752878297,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176591,
+      "num": 176591,
+      "word": "耳洞 自毁与装饰",
+      "onboard_time": 1752909022,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 176305,
@@ -833,14 +865,6 @@
       "onboard_time": 1752896542,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160071,
-      "num": 322383,
-      "word": "饭店老板坦言不搞双标就活不下去",
-      "onboard_time": 1752908481,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159969,
@@ -931,14 +955,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 145167,
-      "num": 145167,
-      "word": "耳洞 自毁与装饰",
-      "onboard_time": 1752909022,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144648,
       "num": 144648,
       "word": "易烊千玺生气会吃辣条",
@@ -953,6 +969,14 @@
       "onboard_time": 1752882078,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143494,
+      "num": 143494,
+      "word": "东方明珠 蜜雪冰城",
+      "onboard_time": 1752906501,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 141389,
@@ -971,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139466,
+      "num": 186672,
+      "word": "演唱会是易烊千玺对自我边界的探索",
+      "onboard_time": 1752910161,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139427,
       "num": 139427,
       "word": "从此杭州人最薄弱的地方就有两个了",
@@ -979,20 +1011,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139294,
-      "num": 139294,
-      "word": "东方明珠 蜜雪冰城",
-      "onboard_time": 1752906501,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137886,
       "num": 137886,
       "word": "沈腾这是真daddy",
       "onboard_time": 1752907941,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136265,
+      "num": 136265,
+      "word": "酒店店长回应女子称花洒有排泄物",
+      "onboard_time": 1752907821,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135048,
@@ -1051,12 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129391,
+      "num": 129391,
+      "word": "美国IT大佬出轨被拍马斯克吃瓜",
+      "onboard_time": 1752910101,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "你行你上",
       "onboard_time": 1752904701,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126788,
+      "num": 126788,
+      "word": "服务员添汤时祖孙被烫烂皮肉",
+      "onboard_time": 1752909441,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125549,
@@ -1097,14 +1145,6 @@
       "onboard_time": 1752900321,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122667,
-      "num": 122667,
-      "word": "服务员添汤时祖孙被烫烂皮肉",
-      "onboard_time": 1752909441,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121241,
@@ -1251,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111050,
+      "num": 111050,
+      "word": "女子在公厕被流浪汉俯身偷窥",
+      "onboard_time": 1752906802,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110542,
       "num": 110542,
       "word": "中国兵乓物料已被撤换",
@@ -1356,19 +1404,11 @@
     },
     {
       "raw_hot": 107085,
-      "num": 107085,
+      "num": 127800,
       "word": "周雨说王楚钦奥运会之前状态很好",
       "onboard_time": 1752908001,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106741,
-      "num": 106741,
-      "word": "酒店店长回应女子称花洒有排泄物",
-      "onboard_time": 1752907821,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105752,
@@ -1545,6 +1585,14 @@
       "onboard_time": 1752848427,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94330,
+      "num": 94330,
+      "word": "富养自己散养孩子",
+      "onboard_time": 1752910640,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 94257,
@@ -1803,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59014,
+      "num": 127245,
+      "word": "龚俊拿蛇皮袋走机场",
+      "onboard_time": 1752909743,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57925,
       "num": 99812,
       "word": "黄誉博切错号了",
@@ -1836,7 +1892,7 @@
     },
     {
       "raw_hot": 54034,
-      "num": 145373,
+      "num": 307418,
       "word": "知情人士称农夫山泉没有良渚生产基地",
       "onboard_time": 1752906501,
       "rank": 37,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1752899961,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38858,
+      "num": 305452,
+      "word": "网友担心余杭周边加工厂食品安全",
+      "onboard_time": 1752910282,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37298,
@@ -2041,14 +2105,6 @@
       "onboard_time": 1752906021,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17003,
-      "num": 120010,
-      "word": "龚俊拿蛇皮袋走机场",
-      "onboard_time": 1752909743,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 16036,
