@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752903972332,
+  "endTime": 1752907072078,
   "band_list": [
     {
       "raw_hot": 3313614,
@@ -17,6 +17,14 @@
       "onboard_time": 1752884059,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1445708,
+      "num": 1445708,
+      "word": "被骗至缅甸失联高考生已找到",
+      "onboard_time": 1752903502,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1409215,
@@ -179,6 +187,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 590314,
+      "num": 248089,
+      "word": "不要为了省钱而去商场吹空调",
+      "onboard_time": 1752903742,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 582529,
+      "num": 582529,
+      "word": "人民日报刘宇宁访谈完整版",
+      "onboard_time": 1752899121,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 566716,
+      "num": 281427,
+      "word": "梓渝回应首登大型音乐节舞台",
+      "onboard_time": 1752903142,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 556987,
       "num": 288375,
       "word": "ALin秒了",
@@ -187,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 555037,
-      "num": 555037,
-      "word": "人民日报刘宇宁访谈完整版",
-      "onboard_time": 1752899121,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 552520,
+      "num": 552520,
+      "word": "抗癌网红呆呆羊去世",
+      "onboard_time": 1752905841,
+      "rank": 5,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 531173,
@@ -249,6 +281,14 @@
       "onboard_time": 1752843865,
       "rank": 7,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 454853,
+      "num": 232559,
+      "word": "俄罗斯母女住在印度蛇洞九个月",
+      "onboard_time": 1752905602,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 454789,
@@ -313,6 +353,14 @@
       "onboard_time": 1752883699,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346320,
+      "num": 346320,
+      "word": "李兰迪敖瑞鹏芭莎",
+      "onboard_time": 1752905122,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 344753,
@@ -387,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281427,
-      "num": 281427,
-      "word": "梓渝回应首登大型音乐节舞台",
-      "onboard_time": 1752903142,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 284063,
+      "num": 284063,
+      "word": "3对母女乘车阿坝坠河已有5人遇难",
+      "onboard_time": 1752904341,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265000,
@@ -409,6 +457,22 @@
       "onboard_time": 1752893242,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261648,
+      "num": 261648,
+      "word": "刘亦菲20年前在男生心中的地位",
+      "onboard_time": 1752902601,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260548,
+      "num": 238633,
+      "word": "宋小宝这下真成王嘉尔了",
+      "onboard_time": 1752906742,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 248138,
@@ -440,6 +504,14 @@
       "word": "GAI淘汰",
       "onboard_time": 1752847349,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239992,
+      "num": 239992,
+      "word": "单依纯舞娘从四月就在准备了",
+      "onboard_time": 1752906081,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -499,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212580,
+      "num": 212580,
+      "word": "张踩铃被错认成向太",
+      "onboard_time": 1752905182,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208033,
       "num": 208033,
       "word": "何老师哽咽了",
@@ -520,14 +600,6 @@
       "word": "歌手",
       "onboard_time": 1752902061,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 204930,
-      "num": 204930,
-      "word": "刘亦菲20年前在男生心中的地位",
-      "onboard_time": 1752902601,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -595,12 +667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187093,
-      "num": 187093,
-      "word": "被骗至缅甸失联高考生已找到",
-      "onboard_time": 1752903502,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 185992,
+      "num": 185992,
+      "word": "年轻人相亲有多能整活",
+      "onboard_time": 1752906021,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 185499,
+      "num": 185499,
+      "word": "怀孕是一场服从性测试",
+      "onboard_time": 1752906681,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 182074,
@@ -635,12 +715,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 175213,
+      "num": 168637,
+      "word": "什么小孩出生就背上贷款了",
+      "onboard_time": 1752906320,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174463,
       "num": 174463,
       "word": "樱桃琥珀加更",
       "onboard_time": 1752903262,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168337,
+      "num": 309586,
+      "word": "徒步团队长称暴走团是贴标签",
+      "onboard_time": 1752902902,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166014,
@@ -665,6 +761,14 @@
       "onboard_time": 1752854482,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162860,
+      "num": 162860,
+      "word": "男团解散后曾去饭店打工",
+      "onboard_time": 1752904581,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 161589,
@@ -723,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150881,
-      "num": 148622,
-      "word": "不要为了省钱而去商场吹空调",
-      "onboard_time": 1752903742,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 151196,
+      "num": 151196,
+      "word": "原来安全带不只是一拉一扣",
+      "onboard_time": 1752902002,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150020,
@@ -747,6 +851,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147197,
+      "num": 147197,
+      "word": "英国老太经营毒品帝国给猫买奢侈品",
+      "onboard_time": 1752905961,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144648,
+      "num": 144648,
+      "word": "易烊千玺生气会吃辣条",
+      "onboard_time": 1752903801,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144609,
       "num": 144609,
       "word": "特朗普正式签署天才法案",
@@ -755,20 +875,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143110,
+      "num": 143110,
+      "word": "女子称长沙一酒店花洒有排泄物",
+      "onboard_time": 1752905541,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141389,
       "num": 188214,
       "word": "金在中连夜给SuperJunior打电话告状",
       "onboard_time": 1752892159,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139978,
-      "num": 139978,
-      "word": "原来安全带不只是一拉一扣",
-      "onboard_time": 1752902002,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139500,
@@ -785,6 +905,14 @@
       "onboard_time": 1752899661,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137937,
+      "num": 137937,
+      "word": "梓渝音乐节出发机场路透",
+      "onboard_time": 1752906922,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 135048,
@@ -835,6 +963,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 131098,
+      "num": 131098,
+      "word": "樊振东下半年赛程有点密集",
+      "onboard_time": 1752905602,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128943,
+      "num": 128943,
+      "word": "东方明珠 蜜雪冰城",
+      "onboard_time": 1752906501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125549,
       "num": 125549,
       "word": "30天瘦了20斤的变化",
@@ -849,6 +993,14 @@
       "onboard_time": 1752886521,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124756,
+      "num": 124756,
+      "word": "下巴凸起的小颗粒到底是啥",
+      "onboard_time": 1752903680,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124594,
@@ -979,14 +1131,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 112004,
-      "num": 112004,
-      "word": "下巴凸起的小颗粒到底是啥",
-      "onboard_time": 1752903680,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111391,
       "num": 105350,
       "word": "我们爱纯这次是第一名",
@@ -1009,6 +1153,14 @@
       "onboard_time": 1752893900,
       "rank": 45,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 110095,
+      "num": 110095,
+      "word": "美国意图用H20延缓中国人工智能发展",
+      "onboard_time": 1752905662,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109466,
@@ -1115,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104931,
-      "num": 104931,
-      "word": "易烊千玺生气会吃辣条",
-      "onboard_time": 1752903801,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103839,
       "num": 103839,
       "word": "世界市长到青岛",
@@ -1171,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100895,
-      "num": 309586,
-      "word": "徒步团队长称暴走团是贴标签",
-      "onboard_time": 1752902902,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100343,
       "num": 100343,
       "word": "见过公主抱没见过公主驮",
@@ -1193,6 +1329,14 @@
       "onboard_time": 1752890240,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99245,
+      "num": 99245,
+      "word": "朴宝剑苦尽甘橘",
+      "onboard_time": 1752907041,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 98768,
@@ -1547,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54034,
+      "num": 145373,
+      "word": "知情人士称农夫山泉没有良渚生产基地",
+      "onboard_time": 1752906501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53204,
       "num": 213575,
       "word": "他在战场上牺牲时年仅24岁",
@@ -1563,6 +1715,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51756,
+      "num": 168639,
+      "word": "骑警队惊艳亮相内蒙古街头",
+      "onboard_time": 1752906861,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51679,
+      "num": 236034,
+      "word": "解限机引领全球科幻潮流",
+      "onboard_time": 1752905602,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51174,
       "num": 174664,
       "word": "叙政权将派遣武装平息冲突",
@@ -1577,6 +1745,14 @@
       "onboard_time": 1752870134,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46259,
+      "num": 217641,
+      "word": "爱康体检事件当事人不认可爱康的回应",
+      "onboard_time": 1752906742,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44186,
@@ -1705,6 +1881,14 @@
       "onboard_time": 1752864795,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17171,
+      "num": 143600,
+      "word": "米兰冬奥会倒计时200天",
+      "onboard_time": 1752906021,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 16036,
