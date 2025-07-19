@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752929502132,
+  "endTime": 1752930402865,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -41,6 +41,14 @@
       "onboard_time": 1752903502,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1427130,
+      "num": 1427130,
+      "word": "12306回应高铁不要食用方便面提醒",
+      "onboard_time": 1752927022,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1409215,
@@ -89,14 +97,6 @@
       "onboard_time": 1752917002,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040120,
-      "num": 1166419,
-      "word": "12306回应高铁不要食用方便面提醒",
-      "onboard_time": 1752927022,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1037062,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574695,
+      "num": 574695,
+      "word": "赵丽颖直播",
+      "onboard_time": 1752928342,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 566716,
       "num": 536005,
       "word": "梓渝回应首登大型音乐节舞台",
@@ -483,6 +491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 404094,
+      "num": 404094,
+      "word": "高铁建议勿食用方便面引网友热议",
+      "onboard_time": 1752928042,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386382,
       "num": 289606,
       "word": "60岁才是来月经最好的年纪",
@@ -529,14 +545,6 @@
       "onboard_time": 1752880218,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360821,
-      "num": 360821,
-      "word": "赵丽颖直播",
-      "onboard_time": 1752928342,
-      "rank": 4,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 359410,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 327717,
-      "num": 231301,
+      "num": 245903,
       "word": "很多女孩着急找对象",
       "onboard_time": 1752926120,
       "rank": 20,
@@ -641,6 +649,14 @@
       "onboard_time": 1752888019,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325443,
+      "num": 325443,
+      "word": "杨紫都有点不敢回魏哲鸣了",
+      "onboard_time": 1752928521,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 322886,
@@ -681,6 +697,14 @@
       "onboard_time": 1752845487,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299569,
+      "num": 299569,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1752923241,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 296441,
@@ -755,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259406,
-      "num": 259406,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1752923241,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257822,
       "num": 247002,
       "word": "张元英机场生图",
@@ -771,20 +787,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252811,
+      "num": 252811,
+      "word": "时代少年团逆应援",
+      "onboard_time": 1752929482,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251477,
       "num": 251477,
       "word": "AL晋级EWC决赛",
       "onboard_time": 1752924380,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 248917,
-      "num": 248917,
-      "word": "杨紫都有点不敢回魏哲鸣了",
-      "onboard_time": 1752928521,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 248138,
@@ -867,8 +883,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231149,
-      "num": 231149,
+      "raw_hot": 237279,
+      "num": 237279,
       "word": "奔跑吧13",
       "onboard_time": 1752925400,
       "rank": 22,
@@ -1067,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200687,
+      "num": 200687,
+      "word": "苏超",
+      "onboard_time": 1752917842,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200232,
       "num": 154333,
       "word": "控制欲强的人有3个特征",
@@ -1148,7 +1172,7 @@
     },
     {
       "raw_hot": 192702,
-      "num": 244987,
+      "num": 253575,
       "word": "曾舜晞通过海底捞三面",
       "onboard_time": 1752926722,
       "rank": 17,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1752923901,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189197,
-      "num": 326923,
-      "word": "高铁建议勿食用方便面引网友热议",
-      "onboard_time": 1752928042,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185992,
@@ -1387,20 +1403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166388,
-      "num": 166388,
-      "word": "苏超",
-      "onboard_time": 1752917842,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166014,
       "num": 166014,
       "word": "长安的荔枝",
       "onboard_time": 1752891021,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164627,
+      "num": 164627,
+      "word": "杨舒予三分太准了",
+      "onboard_time": 1752929361,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 164561,
@@ -1555,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150530,
+      "num": 251756,
+      "word": "苏超南通vs盐城",
+      "onboard_time": 1752924139,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150020,
       "num": 150020,
       "word": "上班跟结婚是一样的感受",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1752905961,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147129,
+      "num": 147129,
+      "word": "刘宇宁银色铠甲白披风",
+      "onboard_time": 1752929782,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 147066,
@@ -1763,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136343,
+      "num": 136343,
+      "word": "新说唱选手被欧阳靖说茶",
+      "onboard_time": 1752929902,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136265,
       "num": 136265,
       "word": "酒店店长回应女子称花洒有排泄物",
@@ -1843,12 +1883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131741,
-      "num": 131741,
-      "word": "杨舒予三分太准了",
-      "onboard_time": 1752929361,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 131712,
+      "num": 131712,
+      "word": "黄誉博演唱会突然停电了",
+      "onboard_time": 1752930081,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 131485,
@@ -1891,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129595,
+      "num": 129595,
+      "word": "金靖瘦成这样了",
+      "onboard_time": 1752930383,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129257,
       "num": 129257,
       "word": "JDG伞兵联赛2600淘汰",
@@ -1931,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127115,
-      "num": 127115,
-      "word": "时代少年团逆应援",
-      "onboard_time": 1752929482,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126919,
       "num": 126919,
       "word": "黄友政弟弟黄友皓参加张继科杯夺冠",
@@ -1955,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126433,
+      "num": 131746,
+      "word": "重庆地铁纳凉乱象",
+      "onboard_time": 1752930022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126138,
       "num": 126138,
       "word": "台风韦帕到哪了",
@@ -1968,14 +2016,6 @@
       "word": "王楚钦碰到一只傲娇小羊",
       "onboard_time": 1752918622,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125883,
-      "num": 251756,
-      "word": "苏超南通vs盐城",
-      "onboard_time": 1752924139,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -2033,6 +2073,14 @@
       "onboard_time": 1752927982,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124417,
+      "num": 124417,
+      "word": "Faker赛后致歉",
+      "onboard_time": 1752930081,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 124096,
@@ -2171,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115961,
+      "num": 115961,
+      "word": "锦绣芳华",
+      "onboard_time": 1752930321,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115832,
       "num": 310376,
       "word": "台风韦帕风雨时间表",
@@ -2265,6 +2321,14 @@
       "onboard_time": 1752896542,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111828,
+      "num": 111828,
+      "word": "男宝星球2C组全是熟人",
+      "onboard_time": 1752930262,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111391,
@@ -2547,6 +2611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98764,
+      "num": 261694,
+      "word": "广东人台风天非必要不出门",
+      "onboard_time": 1752928282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98706,
       "num": 98706,
       "word": "三伏天养生六不要",
@@ -2731,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84872,
+      "num": 307397,
+      "word": "深圳台风预警信号升级为黄色",
+      "onboard_time": 1752929842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83707,
       "num": 109106,
       "word": "杨瀚森最后一场夏联不打",
@@ -2769,14 +2849,6 @@
       "onboard_time": 1752887841,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 82720,
-      "num": 261694,
-      "word": "广东人台风天非必要不出门",
-      "onboard_time": 1752928282,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82148,
@@ -3249,6 +3321,22 @@
       "onboard_time": 1752866354,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26858,
+      "num": 250916,
+      "word": "基孔肯雅热尚无疫苗及特效药",
+      "onboard_time": 1752930143,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23809,
+      "num": 270323,
+      "word": "多家余杭区食品厂商回应工厂在外地",
+      "onboard_time": 1752930143,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23391,
