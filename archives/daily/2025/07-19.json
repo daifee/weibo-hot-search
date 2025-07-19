@@ -1,10 +1,10 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752914028780,
+  "endTime": 1752914889718,
   "band_list": [
     {
-      "raw_hot": 5366686,
-      "num": 6616686,
+      "raw_hot": 9835645,
+      "num": 11085645,
       "word": "官方通报余杭自来水异味",
       "onboard_time": 1752910282,
       "rank": 9,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 658737,
+      "num": 280956,
+      "word": "贞操啥都不是",
+      "onboard_time": 1752910462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642084,
       "num": 570214,
       "word": "王楚钦逛动物园",
@@ -323,14 +331,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 458431,
-      "num": 280956,
-      "word": "贞操啥都不是",
-      "onboard_time": 1752910462,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 454853,
       "num": 410012,
       "word": "俄罗斯母女住在印度蛇洞九个月",
@@ -379,8 +379,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 409457,
-      "num": 409457,
+      "raw_hot": 413457,
+      "num": 413457,
       "word": "狗尾巴草 去痣",
       "onboard_time": 1752906501,
       "rank": 29,
@@ -457,6 +457,14 @@
       "onboard_time": 1752884119,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334145,
+      "num": 242420,
+      "word": "Dior 塔罗牌",
+      "onboard_time": 1752913102,
+      "rank": 21,
+      "category": "时尚"
     },
     {
       "raw_hot": 326794,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257822,
+      "num": 247002,
+      "word": "张元英机场生图",
+      "onboard_time": 1752911301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248138,
       "num": 248138,
       "word": "梓渝盛世天下光头造型",
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239800,
+      "num": 239800,
+      "word": "美国IT大佬出轨被拍马斯克吃瓜",
+      "onboard_time": 1752910101,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 239554,
       "num": 239554,
       "word": "杭州自来水",
@@ -595,12 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231154,
-      "num": 231154,
-      "word": "Dior 塔罗牌",
-      "onboard_time": 1752913102,
-      "rank": 21,
-      "category": "时尚"
+      "raw_hot": 238687,
+      "num": 238687,
+      "word": "余茵黑旗袍造型",
+      "onboard_time": 1752912202,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229513,
+      "num": 229513,
+      "word": "张真源红发",
+      "onboard_time": 1752911601,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 228623,
@@ -627,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220470,
-      "num": 220470,
-      "word": "张真源红发",
-      "onboard_time": 1752911601,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219606,
       "num": 219606,
       "word": "撒贝宁50岁的人三秒钟上树",
@@ -649,6 +673,14 @@
       "onboard_time": 1752883820,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218951,
+      "num": 218951,
+      "word": "佛山已确诊基孔肯雅热超千例",
+      "onboard_time": 1752912680,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 217136,
@@ -668,7 +700,7 @@
     },
     {
       "raw_hot": 212761,
-      "num": 172718,
+      "num": 177311,
       "word": "王楚钦喂骆驼",
       "onboard_time": 1752913581,
       "rank": 30,
@@ -715,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203506,
-      "num": 203506,
-      "word": "张元英机场生图",
-      "onboard_time": 1752911301,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 203899,
+      "num": 203899,
+      "word": "张踩铃老公和儿子的人设",
+      "onboard_time": 1752910941,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 200232,
@@ -753,14 +785,6 @@
       "onboard_time": 1752896120,
       "rank": 18,
       "category": "互联网,美妆"
-    },
-    {
-      "raw_hot": 197024,
-      "num": 197024,
-      "word": "张踩铃老公和儿子的人设",
-      "onboard_time": 1752910941,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 196085,
@@ -827,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184967,
-      "num": 184967,
-      "word": "余茵黑旗袍造型",
-      "onboard_time": 1752912202,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182074,
       "num": 182074,
       "word": "盛宇得知GAI淘汰后直接爆粗",
@@ -867,14 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176370,
-      "num": 176370,
-      "word": "佛山已确诊基孔肯雅热超千例",
-      "onboard_time": 1752912680,
-      "rank": 28,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 176305,
       "num": 176305,
       "word": "日本警方指认进口中国玩具枪能打实弹",
@@ -905,6 +913,14 @@
       "onboard_time": 1752911601,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173249,
+      "num": 173249,
+      "word": "不愧是张艺兴严选",
+      "onboard_time": 1752911900,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 172142,
@@ -1003,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 159278,
-      "num": 159278,
-      "word": "不愧是张艺兴严选",
-      "onboard_time": 1752911900,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156537,
       "num": 326168,
       "word": "cp解绑总有一个人要先改变",
@@ -1027,20 +1035,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154979,
+      "num": 154979,
+      "word": "方媛云南拍孕妇照",
+      "onboard_time": 1752912501,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154841,
       "num": 154841,
       "word": "中华小当家最新话男主被处决",
       "onboard_time": 1752891079,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 154395,
-      "num": 154395,
-      "word": "方媛云南拍孕妇照",
-      "onboard_time": 1752912501,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 153712,
@@ -1091,12 +1099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147519,
-      "num": 147519,
-      "word": "美国IT大佬出轨被拍马斯克吃瓜",
-      "onboard_time": 1752910101,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 147915,
+      "num": 147915,
+      "word": "马伯骞成都相亲角偶遇马思唯",
+      "onboard_time": 1752911721,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 147197,
@@ -1163,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138607,
+      "num": 138607,
+      "word": "张予曦毕雯珺复刻AI神图",
+      "onboard_time": 1752914844,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137886,
       "num": 137886,
       "word": "沈腾这是真daddy",
@@ -1203,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133274,
+      "num": 277502,
+      "word": "女子驾观光车撞倒男孩拖行2米称没看见",
+      "onboard_time": 1752912680,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133065,
       "num": 133065,
       "word": "浏阳河",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1752905602,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130235,
+      "num": 258936,
+      "word": "南京照相馆",
+      "onboard_time": 1752913701,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 128128,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1752892880,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120737,
-      "num": 120737,
-      "word": "马伯骞成都相亲角偶遇马思唯",
-      "onboard_time": 1752911721,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 120445,
@@ -1619,14 +1643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102958,
-      "num": 277502,
-      "word": "女子驾观光车撞倒男孩拖行2米称没看见",
-      "onboard_time": 1752912680,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102203,
       "num": 102203,
       "word": "网友称杭州市民共享洗澡真会做生意",
@@ -1819,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89347,
+      "num": 159864,
+      "word": "爷爷不泡茶荔枝冰酿",
+      "onboard_time": 1752912080,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89047,
       "num": 99866,
       "word": "煤矿工人身亡家属协商赔偿遭喷水",
@@ -1905,22 +1929,6 @@
       "onboard_time": 1752853283,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81961,
-      "num": 159864,
-      "word": "爷爷不泡茶荔枝冰酿",
-      "onboard_time": 1752912080,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 80485,
-      "num": 258936,
-      "word": "南京照相馆",
-      "onboard_time": 1752913701,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 80483,
@@ -2155,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45476,
+      "num": 241516,
+      "word": "余杭有人跨区12公里洗澡吃饭",
+      "onboard_time": 1752913941,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44186,
       "num": 146477,
       "word": "消费者喝不动商家做不动平台卷不动",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1752899961,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42294,
+      "num": 547667,
+      "word": "海拔4650米上有片风车海",
+      "onboard_time": 1752897860,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37298,
@@ -2211,20 +2235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31899,
-      "num": 499664,
-      "word": "海拔4650米上有片风车海",
-      "onboard_time": 1752897860,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30891,
       "num": 50585,
       "word": "是谁站在世界上最危险的4.5英亩",
       "onboard_time": 1752876254,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29727,
+      "num": 152367,
+      "word": "小李琳晒全家新疆游",
+      "onboard_time": 1752914423,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27913,
@@ -2275,20 +2299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22298,
+      "num": 240152,
+      "word": "被骗至缅甸失联高考生发声",
+      "onboard_time": 1752914542,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21030,
       "num": 33880,
       "word": "官方辟谣刘某某接驳下水排污管网",
       "onboard_time": 1752853463,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 20449,
-      "num": 172014,
-      "word": "余杭有人跨区12公里洗澡吃饭",
-      "onboard_time": 1752913941,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18994,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1752864795,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17621,
+      "num": 152872,
+      "word": "谢霆锋下班第一件事是买冰淇淋",
+      "onboard_time": 1752914182,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 17171,
