@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752963962988,
+  "endTime": 1752965072029,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -115,8 +115,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306651,
-      "num": 306651,
+      "raw_hot": 317123,
+      "num": 317123,
       "word": "外卖大战被叫停后仍有免费饮料",
       "onboard_time": 1752942502,
       "rank": 35,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30444,
+      "num": 30444,
+      "word": "女兵军考688分被国防科大录取",
+      "onboard_time": 1752956114,
+      "rank": 48,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 26673,
       "num": 27076,
       "word": "种地吧",
@@ -515,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25926,
-      "num": 25926,
-      "word": "女兵军考688分被国防科大录取",
-      "onboard_time": 1752956114,
-      "rank": 48,
-      "category": "教育,民生新闻"
+      "raw_hot": 25407,
+      "num": 26541,
+      "word": "微信能不能出个批量退群",
+      "onboard_time": 1752959534,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 24667,
@@ -556,11 +564,19 @@
     },
     {
       "raw_hot": 22362,
-      "num": 23188,
+      "num": 26518,
       "word": "水逆",
       "onboard_time": 1752953294,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22298,
+      "num": 26529,
+      "word": "明天正式进入三伏天",
+      "onboard_time": 1752962954,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22133,
@@ -571,28 +587,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21438,
-      "num": 22472,
-      "word": "微信能不能出个批量退群",
-      "onboard_time": 1752959534,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 20223,
       "num": 22047,
       "word": "门尼",
       "onboard_time": 1752951914,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20210,
-      "num": 22468,
-      "word": "明天正式进入三伏天",
-      "onboard_time": 1752962954,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17375,
