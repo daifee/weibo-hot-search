@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752965072029,
+  "endTime": 1752967715093,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394394,
+      "num": 394394,
+      "word": "外卖大战被叫停后仍有免费饮料",
+      "onboard_time": 1752942502,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357607,
       "num": 349379,
       "word": "喻言又拿了第一",
@@ -115,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317123,
-      "num": 317123,
-      "word": "外卖大战被叫停后仍有免费饮料",
-      "onboard_time": 1752942502,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "台风韦帕登陆范围再次西移",
@@ -145,6 +145,14 @@
       "onboard_time": 1752932183,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229202,
+      "num": 169853,
+      "word": "82岁父亲凌晨摘30斤李子儿子发声",
+      "onboard_time": 1752967097,
+      "rank": 10,
+      "category": "正能量"
     },
     {
       "raw_hot": 217094,
@@ -185,6 +193,22 @@
       "onboard_time": 1752928342,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 185814,
+      "num": 169490,
+      "word": "王楚钦和梁靖崑儿子合照",
+      "onboard_time": 1752967158,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166023,
+      "num": 166023,
+      "word": "三伏天夏断食21天",
+      "onboard_time": 1752967277,
+      "rank": 13,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162874,
@@ -243,6 +267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 134771,
+      "num": 139453,
+      "word": "徐艺洋给黄子韬哄成胚胎了",
+      "onboard_time": 1752936622,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133913,
       "num": 133913,
       "word": "卡车司机带16岁儿子出车双双遇难",
@@ -281,6 +313,14 @@
       "onboard_time": 1752927741,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114049,
+      "num": 114049,
+      "word": "斯玛特加盟湖人",
+      "onboard_time": 1752967097,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 111048,
@@ -355,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94882,
+      "num": 94882,
+      "word": "丁禹兮30岁生日照片",
+      "onboard_time": 1752967218,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93286,
       "num": 93286,
       "word": "谁来懂一下刘宇宁的浪漫",
@@ -363,12 +411,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89795,
-      "num": 89795,
-      "word": "徐艺洋给黄子韬哄成胚胎了",
-      "onboard_time": 1752936622,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 93168,
+      "num": 170019,
+      "word": "珠海全市停课停工停产停运停业",
+      "onboard_time": 1752967036,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87033,
@@ -387,12 +435,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86232,
+      "num": 86232,
+      "word": "刘宇宁演唱会为已故粉丝留座和花",
+      "onboard_time": 1752950776,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 79466,
+      "num": 79466,
+      "word": "12306抢票遇到真大佬了",
+      "onboard_time": 1752967338,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77563,
       "num": 90006,
       "word": "李现锦绣芳华收官发文",
       "onboard_time": 1752939023,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72562,
+      "num": 72562,
+      "word": "程潇脸肿了",
+      "onboard_time": 1752967698,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 69560,
@@ -419,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67757,
-      "num": 67757,
-      "word": "刘宇宁演唱会为已故粉丝留座和花",
-      "onboard_time": 1752950776,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 63767,
       "num": 89985,
       "word": "MLB吉祥物模仿演唱会出轨男女",
@@ -436,11 +500,19 @@
     },
     {
       "raw_hot": 60276,
-      "num": 60276,
+      "num": 69581,
       "word": "530万买房业主徒手掰开大梁碎块",
       "onboard_time": 1752944839,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57953,
+      "num": 72604,
+      "word": "肖战更名后首发博",
+      "onboard_time": 1752967516,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 56978,
@@ -483,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37872,
+      "num": 37872,
+      "word": "女兵军考688分被国防科大录取",
+      "onboard_time": 1752956114,
+      "rank": 48,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 36553,
       "num": 45289,
       "word": "IG jiejie",
@@ -505,14 +585,6 @@
       "onboard_time": 1752936323,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30444,
-      "num": 30444,
-      "word": "女兵军考688分被国防科大录取",
-      "onboard_time": 1752956114,
-      "rank": 48,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 26673,
