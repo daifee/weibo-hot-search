@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752892175713,
+  "endTime": 1752896499973,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -225,6 +225,14 @@
       "onboard_time": 1751634567,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2955178,
+      "num": 2955178,
+      "word": "演唱会亲密搂抱两人均被停职",
+      "onboard_time": 1752893602,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2940380,
@@ -2347,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1144824,
+      "num": 1144824,
+      "word": "女子称赤裸上半身体检遭护士闯入",
+      "onboard_time": 1752894679,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1140129,
       "num": 269637,
       "word": "娃哈哈回应宗庆后遗产纠纷",
@@ -3371,6 +3387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 929782,
+      "num": 929782,
+      "word": "椰子水 玉米水",
+      "onboard_time": 1752893840,
+      "rank": 4,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 929021,
       "num": 1148643,
       "word": "表妹万福今天开机",
@@ -3449,6 +3473,14 @@
       "onboard_time": 1752732742,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 918623,
+      "num": 918623,
+      "word": "生菜 寄生虫",
+      "onboard_time": 1752892101,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 916879,
@@ -4569,6 +4601,14 @@
       "onboard_time": 1752046882,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 773744,
+      "num": 773744,
+      "word": "杭州火灾",
+      "onboard_time": 1752890841,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 772649,
@@ -7417,14 +7457,6 @@
       "onboard_time": 1752852564,
       "rank": 3,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 563409,
-      "num": 563409,
-      "word": "杭州火灾",
-      "onboard_time": 1752890841,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 562566,
@@ -11179,6 +11211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390526,
+      "num": 390526,
+      "word": "暴走团群主回应占道逼停120和119",
+      "onboard_time": 1752894140,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390272,
       "num": 285581,
       "word": "何惟芳蒋长扬亲好猛",
@@ -12675,6 +12715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344753,
+      "num": 243269,
+      "word": "孩子吞下的不是药是绝望的信号",
+      "onboard_time": 1752896182,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344697,
       "num": 344697,
       "word": "AG对战HLE",
@@ -12785,6 +12833,14 @@
       "onboard_time": 1751710880,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 342086,
+      "num": 552351,
+      "word": "丁太升建议单依纯离常石磊远点",
+      "onboard_time": 1752895281,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 341783,
@@ -13339,6 +13395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328898,
+      "num": 328898,
+      "word": "余杭臭宝",
+      "onboard_time": 1752892580,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328861,
       "num": 328861,
       "word": "陈梦正面回应退出世界排名",
@@ -13777,6 +13841,14 @@
       "onboard_time": 1752233361,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319408,
+      "num": 529667,
+      "word": "丁禹兮曾面试过流星花园",
+      "onboard_time": 1752890841,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 319407,
@@ -16745,6 +16817,14 @@
       "onboard_time": 1752276319,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262818,
+      "num": 262818,
+      "word": "杭州动物园表演时一男童被扒裤子",
+      "onboard_time": 1752893242,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262673,
@@ -19731,14 +19811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220834,
-      "num": 220834,
-      "word": "丁禹兮曾面试过流星花园",
-      "onboard_time": 1752890841,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220803,
       "num": 220803,
       "word": "网传肖战无缝进组小城良方",
@@ -20785,6 +20857,14 @@
       "onboard_time": 1752363138,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212758,
+      "num": 178646,
+      "word": "梓渝ins新头像",
+      "onboard_time": 1752895822,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 212754,
@@ -22732,7 +22812,7 @@
     },
     {
       "raw_hot": 200232,
-      "num": 145288,
+      "num": 154333,
       "word": "控制欲强的人有3个特征",
       "onboard_time": 1752892101,
       "rank": 30,
@@ -27089,6 +27169,14 @@
       "onboard_time": 1751777361,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177457,
+      "num": 177457,
+      "word": "医用冰淇淋",
+      "onboard_time": 1752893780,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177454,
@@ -33011,6 +33099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151973,
+      "num": 247371,
+      "word": "月经叫例假却不放假",
+      "onboard_time": 1752892820,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151944,
       "num": 378558,
       "word": "江苏河南等地高温健康风险极高",
@@ -34353,6 +34449,14 @@
       "onboard_time": 1751977102,
       "rank": 38,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 147019,
+      "num": 254035,
+      "word": "美团医美承包颜值海岸线",
+      "onboard_time": 1752896120,
+      "rank": 18,
+      "category": "互联网,美妆"
     },
     {
       "raw_hot": 147006,
@@ -35977,6 +36081,14 @@
       "onboard_time": 1752556163,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141389,
+      "num": 178953,
+      "word": "金在中连夜给SuperJunior打电话告状",
+      "onboard_time": 1752892159,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141379,
@@ -39249,6 +39361,14 @@
       "onboard_time": 1751953043,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131201,
+      "num": 131201,
+      "word": "美IT公司CEO搂抱HR双双被停职",
+      "onboard_time": 1752893479,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131154,
@@ -42947,6 +43067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120877,
+      "num": 118763,
+      "word": "余杭食品加工厂疑未停工",
+      "onboard_time": 1752892880,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120871,
       "num": 183166,
       "word": "中国电影导演之夜",
@@ -43561,6 +43689,14 @@
       "onboard_time": 1751294425,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119287,
+      "num": 119287,
+      "word": "30天瘦了20斤的变化",
+      "onboard_time": 1752895460,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 119279,
@@ -44617,6 +44753,14 @@
       "onboard_time": 1752668484,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116450,
+      "num": 116450,
+      "word": "过期眼影 细菌感染",
+      "onboard_time": 1752893602,
+      "rank": 43,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 116421,
@@ -46803,6 +46947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110542,
+      "num": 110542,
+      "word": "中国兵乓物料已被撤换",
+      "onboard_time": 1752893900,
+      "rank": 45,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 110488,
       "num": 154633,
       "word": "王楚钦给小朋友签名",
@@ -46833,14 +46985,6 @@
       "onboard_time": 1751859443,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110434,
-      "num": 110434,
-      "word": "金在中连夜给SuperJunior打电话告状",
-      "onboard_time": 1752892159,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 110426,
@@ -47145,6 +47289,14 @@
       "onboard_time": 1752388882,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109423,
+      "num": 109423,
+      "word": "诡秘之主第五集疯了",
+      "onboard_time": 1752894501,
+      "rank": 46,
+      "category": "动漫,动漫"
     },
     {
       "raw_hot": 109380,
@@ -47649,6 +47801,14 @@
       "onboard_time": 1751454922,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107862,
+      "num": 107862,
+      "word": "上海月薪15000住家阿姨的一天",
+      "onboard_time": 1752894621,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 107860,
@@ -48401,6 +48561,14 @@
       "onboard_time": 1751966243,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105752,
+      "num": 513212,
+      "word": "中国人民抗战胜利80周年",
+      "onboard_time": 1751438902,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105748,
@@ -50897,14 +51065,6 @@
       "onboard_time": 1752593302,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96928,
-      "num": 96928,
-      "word": "生菜 寄生虫",
-      "onboard_time": 1752892101,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 96844,
@@ -56787,14 +56947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57763,
-      "num": 134430,
-      "word": "中国人民抗战胜利80周年",
-      "onboard_time": 1751438902,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 57698,
       "num": 135415,
       "word": "我们坚定站在救人者这边",
@@ -57955,6 +58107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47978,
+      "num": 183060,
+      "word": "官方通报杭州火灾",
+      "onboard_time": 1752896242,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47920,
       "num": 59612,
       "word": "有没有可能这才是真实世界",
@@ -58505,6 +58665,14 @@
       "onboard_time": 1752286100,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44186,
+      "num": 146477,
+      "word": "消费者喝不动商家做不动平台卷不动",
+      "onboard_time": 1752894679,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44138,
@@ -61283,6 +61451,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26464,
+      "num": 250321,
+      "word": "玩偶医生单月修复100多只LABUBU",
+      "onboard_time": 1752895941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26430,
       "num": 54515,
       "word": "王楚钦说巴黎奥运会是孙颖莎带着自己打",
@@ -63705,6 +63881,14 @@
       "onboard_time": 1751570235,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8638,
+      "num": 118832,
+      "word": "在烟台遇见中国电影火热夏天",
+      "onboard_time": 1752894080,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 8508,

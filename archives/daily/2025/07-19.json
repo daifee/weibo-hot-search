@@ -1,7 +1,15 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752892175713,
+  "endTime": 1752896499973,
   "band_list": [
+    {
+      "raw_hot": 2955178,
+      "num": 2955178,
+      "word": "演唱会亲密搂抱两人均被停职",
+      "onboard_time": 1752893602,
+      "rank": 0,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 2246764,
       "num": 2246764,
@@ -27,12 +35,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1144824,
+      "num": 1144824,
+      "word": "女子称赤裸上半身体检遭护士闯入",
+      "onboard_time": 1752894679,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 996153,
       "num": 996153,
       "word": "补偿余杭人民15元水费",
       "onboard_time": 1752882621,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 929782,
+      "num": 929782,
+      "word": "椰子水 玉米水",
+      "onboard_time": 1752893840,
+      "rank": 4,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 918623,
+      "num": 918623,
+      "word": "生菜 寄生虫",
+      "onboard_time": 1752892101,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 872048,
@@ -56,6 +88,14 @@
       "word": "丈夫怀疑妻子出轨将其踹下楼致死",
       "onboard_time": 1752853342,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 773744,
+      "num": 773744,
+      "word": "杭州火灾",
+      "onboard_time": 1752890841,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -97,14 +137,6 @@
       "onboard_time": 1752851604,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 563409,
-      "num": 563409,
-      "word": "杭州火灾",
-      "onboard_time": 1752890841,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 556987,
@@ -163,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390526,
+      "num": 390526,
+      "word": "暴走团群主回应占道逼停120和119",
+      "onboard_time": 1752894140,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363762,
       "num": 363762,
       "word": "黄奕女儿想去韩国当练习生",
@@ -177,6 +217,22 @@
       "onboard_time": 1752883699,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344753,
+      "num": 243269,
+      "word": "孩子吞下的不是药是绝望的信号",
+      "onboard_time": 1752896182,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342086,
+      "num": 552351,
+      "word": "丁太升建议单依纯离常石磊远点",
+      "onboard_time": 1752895281,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 339827,
@@ -195,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328898,
+      "num": 328898,
+      "word": "余杭臭宝",
+      "onboard_time": 1752892580,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326794,
       "num": 326794,
       "word": "2025年三伏共30天",
       "onboard_time": 1752888019,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319408,
+      "num": 529667,
+      "word": "丁禹兮曾面试过流星花园",
+      "onboard_time": 1752890841,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 303298,
@@ -224,6 +296,14 @@
       "word": "女儿死后母亲才知道叫到了黑救护车",
       "onboard_time": 1752852623,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262818,
+      "num": 262818,
+      "word": "杭州动物园表演时一男童被扒裤子",
+      "onboard_time": 1752893242,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -251,20 +331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239554,
+      "num": 239554,
+      "word": "杭州自来水",
+      "onboard_time": 1752893661,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228623,
       "num": 228623,
       "word": "张馨予回应生吞蚂蚁",
       "onboard_time": 1752887541,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220834,
-      "num": 220834,
-      "word": "丁禹兮曾面试过流星花园",
-      "onboard_time": 1752890841,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 219497,
@@ -291,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212758,
+      "num": 178646,
+      "word": "梓渝ins新头像",
+      "onboard_time": 1752895822,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208033,
       "num": 208033,
       "word": "何老师哽咽了",
@@ -308,7 +396,7 @@
     },
     {
       "raw_hot": 200232,
-      "num": 145288,
+      "num": 154333,
       "word": "控制欲强的人有3个特征",
       "onboard_time": 1752892101,
       "rank": 30,
@@ -352,6 +440,14 @@
       "word": "中医建议伏天吃6种温性食物",
       "onboard_time": 1752878297,
       "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 177457,
+      "num": 177457,
+      "word": "医用冰淇淋",
+      "onboard_time": 1752893780,
+      "rank": 31,
       "category": "健康医疗"
     },
     {
@@ -411,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151973,
+      "num": 247371,
+      "word": "月经叫例假却不放假",
+      "onboard_time": 1752892820,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147932,
       "num": 147932,
       "word": "14岁女孩为护弟弟遭女子殴打",
@@ -419,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147019,
+      "num": 254035,
+      "word": "美团医美承包颜值海岸线",
+      "onboard_time": 1752896120,
+      "rank": 18,
+      "category": "互联网,美妆"
+    },
+    {
       "raw_hot": 144609,
       "num": 144609,
       "word": "特朗普正式签署天才法案",
       "onboard_time": 1752882078,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141389,
+      "num": 178953,
+      "word": "金在中连夜给SuperJunior打电话告状",
+      "onboard_time": 1752892159,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 133393,
@@ -443,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131201,
+      "num": 131201,
+      "word": "美IT公司CEO搂抱HR双双被停职",
+      "onboard_time": 1752893479,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125037,
       "num": 125037,
       "word": "空调免费电价翻倍",
@@ -459,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120877,
+      "num": 118763,
+      "word": "余杭食品加工厂疑未停工",
+      "onboard_time": 1752892880,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120148,
       "num": 302568,
       "word": "美游客戴金项链在米兰遭割喉抢劫",
@@ -467,12 +603,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119287,
+      "num": 119287,
+      "word": "30天瘦了20斤的变化",
+      "onboard_time": 1752895460,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118400,
       "num": 118400,
       "word": "李兰迪敖瑞鹏 好嗑",
       "onboard_time": 1752889700,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116450,
+      "num": 116450,
+      "word": "过期眼影 细菌感染",
+      "onboard_time": 1752893602,
+      "rank": 43,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 115409,
@@ -515,12 +667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110434,
-      "num": 110434,
-      "word": "金在中连夜给SuperJunior打电话告状",
-      "onboard_time": 1752892159,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 110542,
+      "num": 110542,
+      "word": "中国兵乓物料已被撤换",
+      "onboard_time": 1752893900,
+      "rank": 45,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 109423,
+      "num": 109423,
+      "word": "诡秘之主第五集疯了",
+      "onboard_time": 1752894501,
+      "rank": 46,
+      "category": "动漫,动漫"
     },
     {
       "raw_hot": 109210,
@@ -545,6 +705,22 @@
       "onboard_time": 1752884181,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107862,
+      "num": 107862,
+      "word": "上海月薪15000住家阿姨的一天",
+      "onboard_time": 1752894621,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105752,
+      "num": 513212,
+      "word": "中国人民抗战胜利80周年",
+      "onboard_time": 1752895881,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104989,
@@ -616,14 +792,6 @@
       "word": "三伏天如何正确养生",
       "onboard_time": 1752891501,
       "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96928,
-      "num": 96928,
-      "word": "生菜 寄生虫",
-      "onboard_time": 1752892101,
-      "rank": 48,
       "category": "健康医疗"
     },
     {
@@ -867,12 +1035,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47978,
+      "num": 183060,
+      "word": "官方通报杭州火灾",
+      "onboard_time": 1752896242,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46865,
       "num": 46865,
       "word": "外交部再次提醒赴菲留学人员",
       "onboard_time": 1752870134,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44186,
+      "num": 146477,
+      "word": "消费者喝不动商家做不动平台卷不动",
+      "onboard_time": 1752894679,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43351,
@@ -939,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26464,
+      "num": 250321,
+      "word": "玩偶医生单月修复100多只LABUBU",
+      "onboard_time": 1752895941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22860,
       "num": 22860,
       "word": "爱康称对张女士肾脏检查不存在瑕疵",
@@ -985,6 +1177,14 @@
       "onboard_time": 1752867855,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8638,
+      "num": 118832,
+      "word": "在烟台遇见中国电影火热夏天",
+      "onboard_time": 1752894080,
+      "rank": 39,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
