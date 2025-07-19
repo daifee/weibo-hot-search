@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/20 00:31:59 ~ 2025/07/20 04:43:01
+本榜单时间：2025/07/20 00:31:59 ~ 2025/07/20 05:25:05
 </p>
 </blockquote>
 <p>
@@ -417,6 +417,12 @@ IG jiejie（热度：36553）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%E6%96%B0%E6%AD%8C%E9%A6%96%E5%94%B1%23" target="weibo">
+刘宇宁演唱会新歌首唱（热度：22682）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%80%86%23" target="weibo">
 水逆（热度：22362）
 </a>
@@ -442,7 +448,13 @@ TXT预告（热度：22133）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%85%B5%E5%86%9B%E8%80%83688%E5%88%86%E8%A2%AB%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%23" target="weibo">
-女兵军考688分被国防科大录取（热度：15395）
+女兵军考688分被国防科大录取（热度：16402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E5%87%BA%E4%B8%AA%E6%89%B9%E9%87%8F%E9%80%80%E7%BE%A4%23" target="weibo">
+微信能不能出个批量退群（热度：14171）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752957781174,
+  "endTime": 1752960305501,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22682,
+      "num": 28335,
+      "word": "刘宇宁演唱会新歌首唱",
+      "onboard_time": 1752959594,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22362,
       "num": 23188,
       "word": "水逆",
@@ -571,12 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15395,
-      "num": 18175,
+      "raw_hot": 16402,
+      "num": 19915,
       "word": "女兵军考688分被国防科大录取",
       "onboard_time": 1752956114,
       "rank": 48,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 14171,
+      "num": 19892,
+      "word": "微信能不能出个批量退群",
+      "onboard_time": 1752959534,
+      "rank": 42,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
