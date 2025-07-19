@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752918112799,
+  "endTime": 1752920919844,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -67,6 +67,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 1094217,
+      "num": 332952,
+      "word": "素颜张元英",
+      "onboard_time": 1752917002,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997226,
       "num": 564615,
       "word": "安全裤不就是防走光的吗",
@@ -115,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 793960,
-      "num": 236608,
+      "raw_hot": 825231,
+      "num": 327702,
       "word": "王青直播",
       "onboard_time": 1752916462,
       "rank": 23,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 674685,
-      "num": 250657,
+      "num": 319844,
       "word": "杨天真 我160斤的时候也这样",
       "onboard_time": 1752915203,
       "rank": 11,
@@ -225,14 +233,6 @@
       "onboard_time": 1752910462,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 648904,
-      "num": 235413,
-      "word": "素颜张元英",
-      "onboard_time": 1752917002,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 642084,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522202,
+      "num": 522202,
+      "word": "泡泡玛特",
+      "onboard_time": 1752916941,
+      "rank": 48,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 497477,
       "num": 497477,
       "word": "有多少人是被热醒的",
@@ -321,6 +329,14 @@
       "onboard_time": 1752900982,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488856,
+      "num": 488856,
+      "word": "曝合肥一香奈儿店员与顾客扭打",
+      "onboard_time": 1752918803,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 487303,
@@ -435,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 370711,
+      "num": 370711,
+      "word": "网红骑哈雷的小姨去世",
+      "onboard_time": 1752917362,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 363762,
       "num": 363762,
       "word": "黄奕女儿想去韩国当练习生",
@@ -449,6 +473,14 @@
       "onboard_time": 1752911541,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351689,
+      "num": 351689,
+      "word": "杭州苕溪原水粪大肠菌群超3类标准",
+      "onboard_time": 1752917541,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 351013,
@@ -472,6 +504,14 @@
       "word": "孩子吞下的不是药是绝望的信号",
       "onboard_time": 1752896182,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344355,
+      "num": 344355,
+      "word": "缅甸老板送回高考生称其前途光明",
+      "onboard_time": 1752919341,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 326794,
-      "num": 370384,
+      "num": 503594,
       "word": "2025年三伏共30天",
       "onboard_time": 1752888019,
       "rank": 13,
@@ -555,6 +595,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285695,
+      "num": 282522,
+      "word": "60岁才是来月经最好的年纪",
+      "onboard_time": 1752917121,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284898,
+      "num": 284898,
+      "word": "AL对战T1",
+      "onboard_time": 1752918622,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284811,
       "num": 284811,
       "word": "余杭自来水异味和硫醚类物质有关",
@@ -585,6 +641,14 @@
       "onboard_time": 1752895822,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263424,
+      "num": 341924,
+      "word": "樱桃琥珀我承认之前对你太大声了",
+      "onboard_time": 1752919881,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 262818,
@@ -643,20 +707,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243136,
-      "num": 243136,
-      "word": "泡泡玛特",
-      "onboard_time": 1752916941,
-      "rank": 48,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 242620,
       "num": 160804,
       "word": "GAI淘汰",
       "onboard_time": 1752847349,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242254,
+      "num": 242254,
+      "word": "郑钦文完成右肘手术",
+      "onboard_time": 1752920002,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 239992,
@@ -683,12 +747,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237224,
-      "num": 237224,
-      "word": "网红骑哈雷的小姨去世",
-      "onboard_time": 1752917362,
-      "rank": 8,
-      "category": "网红"
+      "raw_hot": 232930,
+      "num": 291903,
+      "word": "鹿晗工作室头像初选",
+      "onboard_time": 1752919102,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230229,
+      "num": 230229,
+      "word": "确诊糖尿病前身体给我发出的信号",
+      "onboard_time": 1752919822,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 229513,
@@ -748,7 +820,7 @@
     },
     {
       "raw_hot": 216472,
-      "num": 216472,
+      "num": 235631,
       "word": "接到王嘉尔的电话了",
       "onboard_time": 1752916102,
       "rank": 26,
@@ -777,6 +849,14 @@
       "onboard_time": 1752905182,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208242,
+      "num": 208242,
+      "word": "雅鲁藏布江",
+      "onboard_time": 1752920002,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208033,
@@ -833,6 +913,22 @@
       "onboard_time": 1752910941,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203313,
+      "num": 203313,
+      "word": "韩国申遗失败未经证实网友为何狂欢",
+      "onboard_time": 1752917722,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 202925,
+      "num": 286025,
+      "word": "刘宇宁没到南珩魏劭先来了",
+      "onboard_time": 1752920002,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 200232,
@@ -907,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186427,
-      "num": 233107,
-      "word": "杭州苕溪原水粪大肠菌群超3类标准",
-      "onboard_time": 1752917541,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 185992,
       "num": 185992,
       "word": "年轻人相亲有多能整活",
@@ -936,6 +1024,14 @@
       "word": "张泽禹脚受伤",
       "onboard_time": 1752912922,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184922,
+      "num": 285125,
+      "word": "魔仙小蓝扮演者怼黑粉",
+      "onboard_time": 1752919582,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1043,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169723,
+      "num": 231358,
+      "word": "山姆被指只有说英文才有人工客服",
+      "onboard_time": 1752919282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169250,
       "num": 169250,
       "word": "咖啡 胆固醇",
@@ -1081,14 +1185,6 @@
       "onboard_time": 1752891021,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164818,
-      "num": 164818,
-      "word": "60岁才是来月经最好的年纪",
-      "onboard_time": 1752917121,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 163813,
@@ -1131,12 +1227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157059,
-      "num": 157059,
-      "word": "韩国申遗失败未经证实网友为何狂欢",
-      "onboard_time": 1752917722,
+      "raw_hot": 158907,
+      "num": 158907,
+      "word": "EWC",
+      "onboard_time": 1752919942,
       "rank": 35,
-      "category": "议题讨论"
+      "category": "电竞"
     },
     {
       "raw_hot": 156537,
@@ -1177,6 +1273,14 @@
       "onboard_time": 1752888980,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152444,
+      "num": 152444,
+      "word": "减肥饿三个月瘦了20斤",
+      "onboard_time": 1752917782,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 151973,
@@ -1275,6 +1379,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142139,
+      "num": 146165,
+      "word": "具惠善离婚后近况",
+      "onboard_time": 1752919222,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141748,
+      "num": 141748,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1752920900,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141389,
       "num": 188214,
       "word": "金在中连夜给SuperJunior打电话告状",
@@ -1321,6 +1441,14 @@
       "onboard_time": 1752899661,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138690,
+      "num": 204072,
+      "word": "偶遇王源看陈奕迅的演唱会",
+      "onboard_time": 1752920601,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 138607,
@@ -1451,12 +1579,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130078,
+      "num": 130078,
+      "word": "我觉得杨幂长得像幂这个字",
+      "onboard_time": 1752920842,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129884,
       "num": 165290,
       "word": "被骗至缅甸高考生被好心大哥救助",
       "onboard_time": 1752916401,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128166,
+      "num": 128166,
+      "word": "录制节目男艺人情绪失控自我攻击",
+      "onboard_time": 1752918382,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 128128,
@@ -1489,6 +1633,14 @@
       "onboard_time": 1752909441,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125971,
+      "num": 128737,
+      "word": "王楚钦碰到一只傲娇小羊",
+      "onboard_time": 1752918622,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 125549,
@@ -1915,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99844,
+      "num": 147941,
+      "word": "马龙再谈巴黎奥运的收获",
+      "onboard_time": 1752919881,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98768,
       "num": 98768,
       "word": "jiejie状态",
@@ -2219,6 +2379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71142,
+      "num": 339216,
+      "word": "余杭区政府就自来水异味致歉",
+      "onboard_time": 1752919282,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70129,
       "num": 66196,
       "word": "为什么说西瓜是很善良的水果",
@@ -2419,6 +2587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40388,
+      "num": 148748,
+      "word": "杭州自来水滤芯实验",
+      "onboard_time": 1752920301,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40189,
       "num": 193136,
       "word": "顺德本周末开展灭蚊行动",
@@ -2617,6 +2793,9 @@
     },
     {
       "word": "#一棵大榕树尽显习近平的城市理念#"
+    },
+    {
+      "word": "#中毛建交60周年#"
     }
   ]
 }
