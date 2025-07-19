@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752930402865,
+  "endTime": 1752932163973,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -35,20 +35,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1788737,
+      "num": 1788737,
+      "word": "12306回应高铁不要食用方便面提醒",
+      "onboard_time": 1752927022,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1445708,
       "num": 1445708,
       "word": "被骗至缅甸失联高考生已找到",
       "onboard_time": 1752903502,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1427130,
-      "num": 1427130,
-      "word": "12306回应高铁不要食用方便面提醒",
-      "onboard_time": 1752927022,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1409215,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1094217,
-      "num": 332952,
+      "num": 449710,
       "word": "素颜张元英",
       "onboard_time": 1752917002,
       "rank": 30,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 973033,
+      "num": 973033,
+      "word": "金靖瘦成这样了",
+      "onboard_time": 1752930383,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 918623,
       "num": 918623,
       "word": "生菜 寄生虫",
@@ -161,6 +169,22 @@
       "onboard_time": 1752916462,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805523,
+      "num": 563311,
+      "word": "杨紫都有点不敢回魏哲鸣了",
+      "onboard_time": 1752928521,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 800571,
+      "num": 574695,
+      "word": "赵丽颖直播",
+      "onboard_time": 1752928342,
+      "rank": 4,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 784749,
@@ -212,11 +236,19 @@
     },
     {
       "raw_hot": 725518,
-      "num": 321044,
+      "num": 461680,
       "word": "确诊糖尿病前身体给我发出的信号",
       "onboard_time": 1752919822,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 703706,
+      "num": 703706,
+      "word": "中国女篮无缘亚洲杯决赛",
+      "onboard_time": 1752931643,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 703682,
@@ -331,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574695,
-      "num": 574695,
-      "word": "赵丽颖直播",
-      "onboard_time": 1752928342,
-      "rank": 4,
-      "category": "艺人,时尚"
+      "raw_hot": 571469,
+      "num": 571469,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1752923241,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 566716,
@@ -457,6 +489,14 @@
       "onboard_time": 1752847109,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438773,
+      "num": 438773,
+      "word": "时代少年团逆应援",
+      "onboard_time": 1752929482,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 425173,
@@ -587,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343766,
+      "num": 343766,
+      "word": "肖战上班下班照",
+      "onboard_time": 1752931282,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340193,
       "num": 340193,
       "word": "杨紫回复了锦绣芳华所有人",
@@ -636,7 +684,7 @@
     },
     {
       "raw_hot": 327717,
-      "num": 245903,
+      "num": 294163,
       "word": "很多女孩着急找对象",
       "onboard_time": 1752926120,
       "rank": 20,
@@ -644,19 +692,11 @@
     },
     {
       "raw_hot": 326794,
-      "num": 793927,
+      "num": 876319,
       "word": "2025年三伏共30天",
       "onboard_time": 1752888019,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325443,
-      "num": 325443,
-      "word": "杨紫都有点不敢回魏哲鸣了",
-      "onboard_time": 1752928521,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 322886,
@@ -699,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299569,
-      "num": 299569,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1752923241,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 296441,
       "num": 296441,
       "word": "于正说想和杨幂再合作",
@@ -736,6 +768,22 @@
       "word": "余杭自来水异味和硫醚类物质有关",
       "onboard_time": 1752911840,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281964,
+      "num": 281964,
+      "word": "中国女篮不敌日本女篮",
+      "onboard_time": 1752931643,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 276618,
+      "num": 345506,
+      "word": "卡车司机带16岁儿子出车双双遇难",
+      "onboard_time": 1752930802,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -787,12 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252811,
-      "num": 252811,
-      "word": "时代少年团逆应援",
-      "onboard_time": 1752929482,
-      "rank": 40,
-      "category": "演出"
+      "raw_hot": 257119,
+      "num": 373998,
+      "word": "水木年华怒怼郝蕾不够专业",
+      "onboard_time": 1752931762,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 251477,
@@ -889,6 +937,22 @@
       "onboard_time": 1752925400,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236325,
+      "num": 236325,
+      "word": "苏超",
+      "onboard_time": 1752917842,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233858,
+      "num": 233858,
+      "word": "儿子氪金1万妈妈边打孩子边哭",
+      "onboard_time": 1752927741,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229513,
@@ -1043,11 +1107,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204873,
-      "num": 204873,
-      "word": "儿子氪金1万妈妈边打孩子边哭",
-      "onboard_time": 1752927741,
-      "rank": 24,
+      "raw_hot": 205384,
+      "num": 205384,
+      "word": "男子疯狂别14岁骑行少女被拘14日",
+      "onboard_time": 1752931402,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1081,14 +1145,6 @@
       "onboard_time": 1752921921,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200687,
-      "num": 200687,
-      "word": "苏超",
-      "onboard_time": 1752917842,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 200232,
@@ -1155,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195621,
+      "num": 195621,
+      "word": "田中心三分",
+      "onboard_time": 1752930682,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194985,
       "num": 194985,
       "word": "爱得多的人总先掉眼泪",
@@ -1172,7 +1236,7 @@
     },
     {
       "raw_hot": 192702,
-      "num": 253575,
+      "num": 376962,
       "word": "曾舜晞通过海底捞三面",
       "onboard_time": 1752926722,
       "rank": 17,
@@ -1192,6 +1256,14 @@
       "word": "刘宇宁演唱会直播",
       "onboard_time": 1752923901,
       "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187805,
+      "num": 198833,
+      "word": "GAI杭州演唱会",
+      "onboard_time": 1752931162,
+      "rank": 28,
       "category": "演出"
     },
     {
@@ -1275,6 +1347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180467,
+      "num": 180467,
+      "word": "李敏镐说自己会努力控制欲望",
+      "onboard_time": 1752930984,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179735,
       "num": 179735,
       "word": "T1 人机",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1752903262,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174135,
+      "num": 361907,
+      "word": "怪不得TizzyT问你干嘛捂我嘴",
+      "onboard_time": 1752931462,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 173563,
@@ -1395,11 +1483,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168250,
+      "num": 168250,
+      "word": "有年轻人1年花近20万拍海马体",
+      "onboard_time": 1752931583,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167029,
       "num": 259675,
       "word": "偷渡回流人员称被打七八百棍血流三碗",
       "onboard_time": 1752915681,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166609,
+      "num": 166609,
+      "word": "重庆地铁纳凉乱象",
+      "onboard_time": 1752930022,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1483,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159415,
+      "num": 159415,
+      "word": "内娱超话钻3的明星",
+      "onboard_time": 1752930862,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158907,
       "num": 158907,
       "word": "EWC",
@@ -1537,6 +1649,14 @@
       "onboard_time": 1752888980,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153640,
+      "num": 153640,
+      "word": "吴青峰音乐节",
+      "onboard_time": 1752931162,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 152444,
@@ -1683,6 +1803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142851,
+      "num": 307397,
+      "word": "深圳台风预警信号升级为黄色",
+      "onboard_time": 1752929842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142139,
       "num": 146165,
       "word": "具惠善离婚后近况",
@@ -1784,6 +1912,14 @@
       "word": "沈腾这是真daddy",
       "onboard_time": 1752907941,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137580,
+      "num": 137580,
+      "word": "张子墨弥补了女团没有男生的遗憾",
+      "onboard_time": 1752932062,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1915,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130584,
+      "num": 270323,
+      "word": "多家余杭区食品厂商回应工厂在外地",
+      "onboard_time": 1752930143,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130235,
       "num": 258936,
       "word": "南京照相馆",
@@ -1929,14 +2073,6 @@
       "onboard_time": 1752916401,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129595,
-      "num": 129595,
-      "word": "金靖瘦成这样了",
-      "onboard_time": 1752930383,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 129257,
@@ -1992,14 +2128,6 @@
       "word": "服务员添汤时祖孙被烫烂皮肉",
       "onboard_time": 1752909441,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126433,
-      "num": 131746,
-      "word": "重庆地铁纳凉乱象",
-      "onboard_time": 1752930022,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2723,6 +2851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90418,
+      "num": 154354,
+      "word": "徐汇妍夺泳联世锦赛中国首金",
+      "onboard_time": 1752931701,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89668,
       "num": 99836,
       "word": "侯佩岑来主持歌手吧",
@@ -2801,14 +2937,6 @@
       "onboard_time": 1752837142,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84872,
-      "num": 307397,
-      "word": "深圳台风预警信号升级为黄色",
-      "onboard_time": 1752929842,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83707,
@@ -2905,6 +3033,14 @@
       "onboard_time": 1752854423,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76457,
+      "num": 462581,
+      "word": "第6号台风韦帕进度条",
+      "onboard_time": 1752931342,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75878,
@@ -3211,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38759,
+      "num": 250916,
+      "word": "基孔肯雅热尚无疫苗及特效药",
+      "onboard_time": 1752930143,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37298,
       "num": 120893,
       "word": "柠檬巴巴露亚",
@@ -3233,6 +3377,14 @@
       "onboard_time": 1752903142,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34198,
+      "num": 354182,
+      "word": "IT大佬演唱会这一抱或值4000万美元",
+      "onboard_time": 1752931943,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 33616,
@@ -3283,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28321,
+      "num": 197126,
+      "word": "葫芦娃七彩山标价118元引争议",
+      "onboard_time": 1752931943,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27913,
       "num": 32218,
       "word": "歌手2025",
@@ -3321,22 +3481,6 @@
       "onboard_time": 1752866354,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26858,
-      "num": 250916,
-      "word": "基孔肯雅热尚无疫苗及特效药",
-      "onboard_time": 1752930143,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23809,
-      "num": 270323,
-      "word": "多家余杭区食品厂商回应工厂在外地",
-      "onboard_time": 1752930143,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23391,
