@@ -1,0 +1,410 @@
+{
+  "runTime": 1752902916371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906045,
+        "num": 1144967,
+        "word": "椰子水 玉米水",
+        "onboard_time": 1752893840,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 2439349,
+        "num": 1065181,
+        "word": "演唱会亲密搂抱两人均被停职",
+        "onboard_time": 1752893602,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88653,
+        "num": 843807,
+        "word": "世界市长对话青岛",
+        "onboard_time": 1752898521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1234257,
+        "num": 821844,
+        "word": "女子称赤裸上半身体检遭护士闯入",
+        "onboard_time": 1752894679,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662006,
+        "num": 662006,
+        "word": "入职体检查出乙肝被公司拒录合理吗",
+        "onboard_time": 1752897082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660654,
+        "num": 660654,
+        "word": "韩国申遗全面溃败",
+        "onboard_time": 1752884059,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 485333,
+        "num": 485333,
+        "word": "选秀史上第一个人气第二被淘汰",
+        "onboard_time": 1752896602,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459761,
+        "num": 459761,
+        "word": "人民日报刘宇宁访谈完整版",
+        "onboard_time": 1752899121,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353068,
+        "num": 353068,
+        "word": "丁太升建议单依纯离常石磊远点",
+        "onboard_time": 1752895281,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326302,
+        "num": 326302,
+        "word": "生菜 寄生虫",
+        "onboard_time": 1752892101,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 538009,
+        "num": 324656,
+        "word": "叮叮怀孕",
+        "onboard_time": 1752901582,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 490126,
+        "num": 309627,
+        "word": "时代峰峻719",
+        "onboard_time": 1752900982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108864,
+        "num": 293368,
+        "word": "草原那达慕开幕了",
+        "onboard_time": 1752900680,
+        "rank": 12,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 133550,
+        "num": 280514,
+        "word": "男婴夭折被律师分走55万家长再发声",
+        "onboard_time": 1752901221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93206,
+        "num": 252965,
+        "word": "你们有188的人吃得也太好了",
+        "onboard_time": 1752901281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 486402,
+        "num": 243268,
+        "word": "刘耀文红发",
+        "onboard_time": 1752900861,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237606,
+        "num": 237606,
+        "word": "特朗普称印巴冲突五架战机被击落",
+        "onboard_time": 1752896602,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229633,
+        "num": 229633,
+        "word": "运动一年瘦40斤变成了刘昊然",
+        "onboard_time": 1752897203,
+        "rank": 17,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 220577,
+        "num": 220577,
+        "word": "医用冰淇淋",
+        "onboard_time": 1752893780,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13537,
+        "num": 207781,
+        "word": "表扬组合互动上了",
+        "onboard_time": 1752902301,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386703,
+        "num": 207776,
+        "word": "暴走团群主回应占道逼停120和119",
+        "onboard_time": 1752894140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207539,
+        "num": 207539,
+        "word": "梓渝ins新头像",
+        "onboard_time": 1752895822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194531,
+        "num": 194531,
+        "word": "你好星期六双人搭档舞会派对",
+        "onboard_time": 1752896662,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204308,
+        "num": 189640,
+        "word": "歌手",
+        "onboard_time": 1752902061,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173770,
+        "num": 173770,
+        "word": "2025年三伏共30天",
+        "onboard_time": 1752888019,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167780,
+        "num": 167780,
+        "word": "盛宇得知GAI淘汰后直接爆粗",
+        "onboard_time": 1752902540,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 165626,
+        "word": "孩子吞下的不是药是绝望的信号",
+        "onboard_time": 1752896182,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164721,
+        "num": 164721,
+        "word": "撒贝宁50岁的人三秒钟上树",
+        "onboard_time": 1752896602,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159969,
+        "num": 159969,
+        "word": "脱友2第一个直接晋级女演员",
+        "onboard_time": 1752902361,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150020,
+        "num": 150020,
+        "word": "上班跟结婚是一样的感受",
+        "onboard_time": 1752899000,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146282,
+        "num": 146282,
+        "word": "朝雪录凶手一案更比一案疯",
+        "onboard_time": 1752898281,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139978,
+        "num": 139978,
+        "word": "原来安全带不只是一拉一扣",
+        "onboard_time": 1752902002,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139500,
+        "num": 139500,
+        "word": "时代少年团二开",
+        "onboard_time": 1752901162,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135048,
+        "num": 135048,
+        "word": "原来钟丽丽这么会跳舞",
+        "onboard_time": 1752902421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119528,
+        "num": 119528,
+        "word": "刘亦菲20年前在男生心中的地位",
+        "onboard_time": 1752902601,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116953,
+        "num": 116953,
+        "word": "9个值得坚持的习惯",
+        "onboard_time": 1752901641,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115037,
+        "num": 115037,
+        "word": "kid撞脸李行亮",
+        "onboard_time": 1752901641,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112241,
+        "num": 112241,
+        "word": "有多少人是被热醒的",
+        "onboard_time": 1752886521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109253,
+        "num": 109253,
+        "word": "魏哲鸣感谢刘畅",
+        "onboard_time": 1752901881,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65634,
+        "num": 109106,
+        "word": "杨瀚森最后一场夏联不打",
+        "onboard_time": 1752900622,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109015,
+        "num": 109015,
+        "word": "一个宠综节目找了四个喇叭嘉宾",
+        "onboard_time": 1752902601,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108914,
+        "num": 108914,
+        "word": "老师回应学生坚持早自习被指假努力",
+        "onboard_time": 1752900561,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107905,
+        "num": 107905,
+        "word": "喜剧之王单口季",
+        "onboard_time": 1752902540,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106500,
+        "num": 106500,
+        "word": "27岁小伙取98万装修房子银行报警",
+        "onboard_time": 1752883400,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104065,
+        "num": 104065,
+        "word": "长安的荔枝一骑红尘妃子笑新解",
+        "onboard_time": 1752898942,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103056,
+        "num": 103056,
+        "word": "原来很多歌手都不会用话筒",
+        "onboard_time": 1752897382,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102751,
+        "num": 102751,
+        "word": "杭州自来水",
+        "onboard_time": 1752893661,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97333,
+        "num": 97333,
+        "word": "罗小黑师姐妖精形态",
+        "onboard_time": 1752902002,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93908,
+        "num": 93908,
+        "word": "控制欲强的人有3个特征",
+        "onboard_time": 1752892101,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91813,
+        "num": 91813,
+        "word": "单依纯听到GAI淘汰的反应",
+        "onboard_time": 1752850405,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一棵大榕树尽显习近平的城市理念#"
+    }
+  }
+}
