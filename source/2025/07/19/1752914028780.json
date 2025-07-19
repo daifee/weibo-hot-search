@@ -1,0 +1,410 @@
+{
+  "runTime": 1752914028780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5366686,
+        "num": 6616686,
+        "word": "官方通报余杭自来水异味",
+        "onboard_time": 1752910282,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 571158,
+        "num": 571158,
+        "word": "被骗至缅甸失联高考生已找到",
+        "onboard_time": 1752903502,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31899,
+        "num": 499664,
+        "word": "海拔4650米上有片风车海",
+        "onboard_time": 1752897860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432618,
+        "num": 432618,
+        "word": "周渝民夫妇被闺蜜诈骗事件",
+        "onboard_time": 1752908481,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 409457,
+        "num": 409457,
+        "word": "狗尾巴草 去痣",
+        "onboard_time": 1752906501,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 435175,
+        "num": 406793,
+        "word": "宋小宝这下真成王嘉尔了",
+        "onboard_time": 1752906742,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370808,
+        "num": 370808,
+        "word": "王楚钦逛动物园",
+        "onboard_time": 1752907162,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353816,
+        "num": 353816,
+        "word": "杭州自来水异味来源查明",
+        "onboard_time": 1752911541,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307759,
+        "num": 307759,
+        "word": "人民日报刘宇宁访谈完整版",
+        "onboard_time": 1752899121,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284811,
+        "num": 284811,
+        "word": "余杭自来水异味和硫醚类物质有关",
+        "onboard_time": 1752911840,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719257,
+        "num": 284172,
+        "word": "演唱会亲密搂抱两人均被停职",
+        "onboard_time": 1752893602,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 600549,
+        "num": 282039,
+        "word": "怀孕是一场服从性测试",
+        "onboard_time": 1752906681,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458431,
+        "num": 280956,
+        "word": "贞操啥都不是",
+        "onboard_time": 1752910462,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320641,
+        "num": 279214,
+        "word": "安全裤不就是防走光的吗",
+        "onboard_time": 1752903742,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102958,
+        "num": 277502,
+        "word": "女子驾观光车撞倒男孩拖行2米称没看见",
+        "onboard_time": 1752912680,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276603,
+        "num": 276603,
+        "word": "网友担心余杭周边加工厂食品安全",
+        "onboard_time": 1752910282,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284387,
+        "num": 276502,
+        "word": "女子称赤裸上半身体检遭护士闯入",
+        "onboard_time": 1752894679,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261600,
+        "num": 261600,
+        "word": "抗癌网红呆呆羊去世",
+        "onboard_time": 1752905841,
+        "rank": 17,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 80485,
+        "num": 258936,
+        "word": "南京照相馆",
+        "onboard_time": 1752913701,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258559,
+        "num": 258559,
+        "word": "叮叮怀孕",
+        "onboard_time": 1752901582,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 244763,
+        "num": 244763,
+        "word": "李兰迪敖瑞鹏芭莎",
+        "onboard_time": 1752905122,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231154,
+        "num": 231154,
+        "word": "Dior 塔罗牌",
+        "onboard_time": 1752913102,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 220470,
+        "num": 220470,
+        "word": "张真源红发",
+        "onboard_time": 1752911601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209319,
+        "num": 209319,
+        "word": "俄罗斯母女住在印度蛇洞九个月",
+        "onboard_time": 1752905602,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203506,
+        "num": 203506,
+        "word": "张元英机场生图",
+        "onboard_time": 1752911301,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197024,
+        "num": 197024,
+        "word": "张踩铃老公和儿子的人设",
+        "onboard_time": 1752910941,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185297,
+        "num": 185297,
+        "word": "张泽禹脚受伤",
+        "onboard_time": 1752912922,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184967,
+        "num": 184967,
+        "word": "余茵黑旗袍造型",
+        "onboard_time": 1752912202,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176370,
+        "num": 176370,
+        "word": "佛山已确诊基孔肯雅热超千例",
+        "onboard_time": 1752912680,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 173563,
+        "num": 173563,
+        "word": "爆红男歌手十年没有动态的原因",
+        "onboard_time": 1752911601,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212761,
+        "num": 172718,
+        "word": "王楚钦喂骆驼",
+        "onboard_time": 1752913581,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20449,
+        "num": 172014,
+        "word": "余杭有人跨区12公里洗澡吃饭",
+        "onboard_time": 1752913941,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171355,
+        "num": 171355,
+        "word": "武康路上五花八门的显眼包",
+        "onboard_time": 1752913821,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169035,
+        "num": 169035,
+        "word": "一个26岁尿毒症患者去世后的回忆",
+        "onboard_time": 1752912862,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168545,
+        "num": 168545,
+        "word": "沈羽洁手臂肌肉线条",
+        "onboard_time": 1752913341,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167106,
+        "num": 167106,
+        "word": "时代峰峻719",
+        "onboard_time": 1752900982,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45647,
+        "num": 164600,
+        "word": "88万赔偿律师拿走55万合理吗",
+        "onboard_time": 1752912141,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162761,
+        "num": 162761,
+        "word": "不要为了省钱而去商场吹空调",
+        "onboard_time": 1752903742,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159878,
+        "num": 159878,
+        "word": "梓渝回应首登大型音乐节舞台",
+        "onboard_time": 1752903142,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81961,
+        "num": 159864,
+        "word": "爷爷不泡茶荔枝冰酿",
+        "onboard_time": 1752912080,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159860,
+        "num": 159860,
+        "word": "咖啡 胆固醇",
+        "onboard_time": 1752910882,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159278,
+        "num": 159278,
+        "word": "不愧是张艺兴严选",
+        "onboard_time": 1752911900,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154395,
+        "num": 154395,
+        "word": "方媛云南拍孕妇照",
+        "onboard_time": 1752912501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147519,
+        "num": 147519,
+        "word": "美国IT大佬出轨被拍马斯克吃瓜",
+        "onboard_time": 1752910101,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146163,
+        "num": 146163,
+        "word": "耳洞 自毁与装饰",
+        "onboard_time": 1752909022,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141700,
+        "num": 141700,
+        "word": "歌手",
+        "onboard_time": 1752902061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139829,
+        "num": 139829,
+        "word": "椰子水 玉米水",
+        "onboard_time": 1752893840,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 127768,
+        "num": 127768,
+        "word": "体检遭护士闯入女子称边躺边流泪",
+        "onboard_time": 1752912261,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120737,
+        "num": 120737,
+        "word": "马伯骞成都相亲角偶遇马思唯",
+        "onboard_time": 1752911721,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120445,
+        "num": 120445,
+        "word": "19岁男生在缅曾连续4天背诈骗话术",
+        "onboard_time": 1752912261,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一棵大榕树尽显习近平的城市理念#"
+    }
+  }
+}

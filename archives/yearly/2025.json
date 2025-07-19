@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1752910793051,
+  "endTime": 1752914028780,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1595,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5366686,
+      "num": 6616686,
+      "word": "官方通报余杭自来水异味",
+      "onboard_time": 1752910282,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 5336614,
       "num": 4513174,
       "word": "祝贺哪吒2票房破100亿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1745321421,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 3680796,
-      "num": 3680796,
-      "word": "刘芮麟官宣结婚生子",
-      "onboard_time": 1751597181,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

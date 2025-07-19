@@ -1,7 +1,15 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752910793051,
+  "endTime": 1752914028780,
   "band_list": [
+    {
+      "raw_hot": 5366686,
+      "num": 6616686,
+      "word": "官方通报余杭自来水异味",
+      "onboard_time": 1752910282,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 3313614,
       "num": 3313614,
@@ -315,6 +323,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 458431,
+      "num": 280956,
+      "word": "贞操啥都不是",
+      "onboard_time": 1752910462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454853,
       "num": 410012,
       "word": "俄罗斯母女住在印度蛇洞九个月",
@@ -363,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409457,
+      "num": 409457,
+      "word": "狗尾巴草 去痣",
+      "onboard_time": 1752906501,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 378903,
       "num": 378903,
       "word": "余杭臭宝",
@@ -385,6 +409,14 @@
       "onboard_time": 1752880218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353816,
+      "num": 353816,
+      "word": "杭州自来水异味来源查明",
+      "onboard_time": 1752911541,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351013,
@@ -451,22 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312315,
-      "num": 312315,
-      "word": "官方通报余杭自来水异味",
-      "onboard_time": 1752910282,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 307416,
-      "num": 307416,
-      "word": "狗尾巴草 去痣",
-      "onboard_time": 1752906501,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 303298,
       "num": 303298,
       "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
@@ -488,6 +504,22 @@
       "word": "女儿死后母亲才知道叫到了黑救护车",
       "onboard_time": 1752852623,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284811,
+      "num": 284811,
+      "word": "余杭自来水异味和硫醚类物质有关",
+      "onboard_time": 1752911840,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276603,
+      "num": 305452,
+      "word": "网友担心余杭周边加工厂食品安全",
+      "onboard_time": 1752910282,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231154,
+      "num": 231154,
+      "word": "Dior 塔罗牌",
+      "onboard_time": 1752913102,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 228623,
       "num": 228623,
       "word": "张馨予回应生吞蚂蚁",
@@ -585,6 +625,14 @@
       "onboard_time": 1752898281,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220470,
+      "num": 220470,
+      "word": "张真源红发",
+      "onboard_time": 1752911601,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 219606,
@@ -617,6 +665,14 @@
       "onboard_time": 1752850524,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212761,
+      "num": 172718,
+      "word": "王楚钦喂骆驼",
+      "onboard_time": 1752913581,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 212580,
@@ -659,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203506,
+      "num": 203506,
+      "word": "张元英机场生图",
+      "onboard_time": 1752911301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200232,
       "num": 154333,
       "word": "控制欲强的人有3个特征",
@@ -689,6 +753,14 @@
       "onboard_time": 1752896120,
       "rank": 18,
       "category": "互联网,美妆"
+    },
+    {
+      "raw_hot": 197024,
+      "num": 197024,
+      "word": "张踩铃老公和儿子的人设",
+      "onboard_time": 1752910941,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 196085,
@@ -747,12 +819,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184917,
-      "num": 261791,
-      "word": "贞操啥都不是",
-      "onboard_time": 1752910462,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 185297,
+      "num": 185297,
+      "word": "张泽禹脚受伤",
+      "onboard_time": 1752912922,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184967,
+      "num": 184967,
+      "word": "余茵黑旗袍造型",
+      "onboard_time": 1752912202,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 182074,
@@ -787,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176370,
+      "num": 176370,
+      "word": "佛山已确诊基孔肯雅热超千例",
+      "onboard_time": 1752912680,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 176305,
       "num": 176305,
       "word": "日本警方指认进口中国玩具枪能打实弹",
@@ -811,11 +899,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173563,
+      "num": 173563,
+      "word": "爆红男歌手十年没有动态的原因",
+      "onboard_time": 1752911601,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172142,
       "num": 172142,
       "word": "朴宝剑苦尽甘橘",
       "onboard_time": 1752907041,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171355,
+      "num": 171355,
+      "word": "武康路上五花八门的显眼包",
+      "onboard_time": 1752913821,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169035,
+      "num": 169035,
+      "word": "一个26岁尿毒症患者去世后的回忆",
+      "onboard_time": 1752912862,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 168545,
+      "num": 168545,
+      "word": "沈羽洁手臂肌肉线条",
+      "onboard_time": 1752913341,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -875,6 +995,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159860,
+      "num": 159860,
+      "word": "咖啡 胆固醇",
+      "onboard_time": 1752910882,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159278,
+      "num": 159278,
+      "word": "不愧是张艺兴严选",
+      "onboard_time": 1752911900,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156537,
       "num": 326168,
       "word": "cp解绑总有一个人要先改变",
@@ -897,6 +1033,14 @@
       "onboard_time": 1752891079,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 154395,
+      "num": 154395,
+      "word": "方媛云南拍孕妇照",
+      "onboard_time": 1752912501,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 153712,
@@ -945,6 +1089,14 @@
       "onboard_time": 1752887060,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147519,
+      "num": 147519,
+      "word": "美国IT大佬出轨被拍马斯克吃瓜",
+      "onboard_time": 1752910101,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147197,
@@ -1083,20 +1235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129391,
-      "num": 129391,
-      "word": "美国IT大佬出轨被拍马斯克吃瓜",
-      "onboard_time": 1752910101,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "你行你上",
       "onboard_time": 1752904701,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127768,
+      "num": 127768,
+      "word": "体检遭护士闯入女子称边躺边流泪",
+      "onboard_time": 1752912261,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126788,
@@ -1168,6 +1320,22 @@
       "word": "余杭食品加工厂疑未停工",
       "onboard_time": 1752892880,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120737,
+      "num": 120737,
+      "word": "马伯骞成都相亲角偶遇马思唯",
+      "onboard_time": 1752911721,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120445,
+      "num": 120445,
+      "word": "19岁男生在缅曾连续4天背诈骗话术",
+      "onboard_time": 1752912261,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1451,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102958,
+      "num": 277502,
+      "word": "女子驾观光车撞倒男孩拖行2米称没看见",
+      "onboard_time": 1752912680,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102203,
       "num": 102203,
       "word": "网友称杭州市民共享洗澡真会做生意",
@@ -1731,6 +1907,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81961,
+      "num": 159864,
+      "word": "爷爷不泡茶荔枝冰酿",
+      "onboard_time": 1752912080,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 80485,
+      "num": 258936,
+      "word": "南京照相馆",
+      "onboard_time": 1752913701,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80483,
       "num": 99822,
       "word": "原神菈乌玛",
@@ -1955,6 +2147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45647,
+      "num": 164600,
+      "word": "88万赔偿律师拿走55万合理吗",
+      "onboard_time": 1752912141,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44186,
       "num": 146477,
       "word": "消费者喝不动商家做不动平台卷不动",
@@ -1977,14 +2177,6 @@
       "onboard_time": 1752899961,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38858,
-      "num": 305452,
-      "word": "网友担心余杭周边加工厂食品安全",
-      "onboard_time": 1752910282,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37298,
@@ -2016,6 +2208,14 @@
       "word": "现代鼠标vs唐代兔标",
       "onboard_time": 1752858079,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31899,
+      "num": 499664,
+      "word": "海拔4650米上有片风车海",
+      "onboard_time": 1752897860,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2081,6 +2281,14 @@
       "onboard_time": 1752853463,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 20449,
+      "num": 172014,
+      "word": "余杭有人跨区12公里洗澡吃饭",
+      "onboard_time": 1752913941,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18994,

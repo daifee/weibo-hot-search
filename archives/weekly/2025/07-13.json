@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752910793051,
+  "endTime": 1752914028780,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -49,6 +49,14 @@
       "onboard_time": 1752845246,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5366686,
+      "num": 6616686,
+      "word": "官方通报余杭自来水异味",
+      "onboard_time": 1752910282,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 5131686,
@@ -3275,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458431,
+      "num": 280956,
+      "word": "贞操啥都不是",
+      "onboard_time": 1752910462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456079,
       "num": 456079,
       "word": "樱桃琥珀云包场",
@@ -3689,6 +3705,14 @@
       "onboard_time": 1752378140,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 409457,
+      "num": 409457,
+      "word": "狗尾巴草 去痣",
+      "onboard_time": 1752906501,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 407265,
@@ -4185,6 +4209,14 @@
       "onboard_time": 1752744323,
       "rank": 36,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 353816,
+      "num": 353816,
+      "word": "杭州自来水异味来源查明",
+      "onboard_time": 1752911541,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353572,
@@ -4779,14 +4811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312315,
-      "num": 312315,
-      "word": "官方通报余杭自来水异味",
-      "onboard_time": 1752910282,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 309887,
       "num": 309887,
       "word": "网传R1SE披哥二公踢馆",
@@ -4801,14 +4825,6 @@
       "onboard_time": 1752296961,
       "rank": 11,
       "category": "互联网,美食"
-    },
-    {
-      "raw_hot": 307416,
-      "num": 307416,
-      "word": "狗尾巴草 去痣",
-      "onboard_time": 1752906501,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 307044,
@@ -5235,6 +5251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284811,
+      "num": 284811,
+      "word": "余杭自来水异味和硫醚类物质有关",
+      "onboard_time": 1752911840,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283982,
       "num": 283982,
       "word": "35岁女子长期精神内耗确诊甲状腺癌",
@@ -5417,6 +5441,14 @@
       "onboard_time": 1752841105,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276603,
+      "num": 305452,
+      "word": "网友担心余杭周边加工厂食品安全",
+      "onboard_time": 1752910282,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276487,
@@ -6603,6 +6635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231154,
+      "num": 231154,
+      "word": "Dior 塔罗牌",
+      "onboard_time": 1752913102,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 230976,
       "num": 230976,
       "word": "战至巅峰4三大常驻战队官宣",
@@ -6833,6 +6873,14 @@
       "onboard_time": 1752368479,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 220470,
+      "num": 220470,
+      "word": "张真源红发",
+      "onboard_time": 1752911601,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 220065,
@@ -7241,6 +7289,14 @@
       "onboard_time": 1752363138,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212761,
+      "num": 172718,
+      "word": "王楚钦喂骆驼",
+      "onboard_time": 1752913581,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 212703,
@@ -7707,6 +7763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203506,
+      "num": 203506,
+      "word": "张元英机场生图",
+      "onboard_time": 1752911301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203419,
       "num": 186081,
       "word": "被宋亚轩认成牛肉串的男人来厨综了",
@@ -8112,6 +8176,14 @@
       "word": "管乐直播陪看",
       "onboard_time": 1752845846,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197024,
+      "num": 197024,
+      "word": "张踩铃老公和儿子的人设",
+      "onboard_time": 1752910941,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -8939,6 +9011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185297,
+      "num": 185297,
+      "word": "张泽禹脚受伤",
+      "onboard_time": 1752912922,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185274,
       "num": 185274,
       "word": "未定事件簿",
@@ -8963,12 +9043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184917,
-      "num": 261791,
-      "word": "贞操啥都不是",
-      "onboard_time": 1752910462,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 184967,
+      "num": 184967,
+      "word": "余茵黑旗袍造型",
+      "onboard_time": 1752912202,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 184908,
@@ -9523,6 +9603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176370,
+      "num": 176370,
+      "word": "佛山已确诊基孔肯雅热超千例",
+      "onboard_time": 1752912680,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 176305,
       "num": 309088,
       "word": "日本警方指认进口中国玩具枪能打实弹",
@@ -9697,6 +9785,14 @@
       "onboard_time": 1752751103,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173563,
+      "num": 173563,
+      "word": "爆红男歌手十年没有动态的原因",
+      "onboard_time": 1752911601,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 173329,
@@ -9875,6 +9971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171355,
+      "num": 171355,
+      "word": "武康路上五花八门的显眼包",
+      "onboard_time": 1752913821,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171285,
       "num": 171285,
       "word": "凡人修仙传",
@@ -9979,6 +10083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169035,
+      "num": 169035,
+      "word": "一个26岁尿毒症患者去世后的回忆",
+      "onboard_time": 1752912862,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169019,
       "num": 169019,
       "word": "唐香玉三姨",
@@ -10017,6 +10129,14 @@
       "onboard_time": 1752734481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168545,
+      "num": 168545,
+      "word": "沈羽洁手臂肌肉线条",
+      "onboard_time": 1752913341,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 168446,
@@ -10747,6 +10867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159860,
+      "num": 159860,
+      "word": "咖啡 胆固醇",
+      "onboard_time": 1752910882,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 159649,
       "num": 159649,
       "word": "内娱第一对这么强婚后感的cp",
@@ -10801,6 +10929,14 @@
       "onboard_time": 1752765682,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159278,
+      "num": 159278,
+      "word": "不愧是张艺兴严选",
+      "onboard_time": 1752911900,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 159120,
@@ -11209,6 +11345,14 @@
       "onboard_time": 1752758303,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154395,
+      "num": 154395,
+      "word": "方媛云南拍孕妇照",
+      "onboard_time": 1752912501,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 154210,
@@ -11873,6 +12017,14 @@
       "onboard_time": 1752725242,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147519,
+      "num": 147519,
+      "word": "美国IT大佬出轨被拍马斯克吃瓜",
+      "onboard_time": 1752910101,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147265,
@@ -13763,14 +13915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129391,
-      "num": 129391,
-      "word": "美国IT大佬出轨被拍马斯克吃瓜",
-      "onboard_time": 1752910101,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129246,
       "num": 129246,
       "word": "宋佳晒了跟好多人的合照",
@@ -14001,6 +14145,14 @@
       "onboard_time": 1752793818,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127768,
+      "num": 127768,
+      "word": "体检遭护士闯入女子称边躺边流泪",
+      "onboard_time": 1752912261,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127695,
@@ -14971,6 +15123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120737,
+      "num": 120737,
+      "word": "马伯骞成都相亲角偶遇马思唯",
+      "onboard_time": 1752911721,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120657,
       "num": 120657,
       "word": "国产剧不搞雌竞搞雌敬",
@@ -15008,6 +15168,14 @@
       "word": "八旬老人参加免费旅游途中死亡",
       "onboard_time": 1752495502,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120445,
+      "num": 120445,
+      "word": "19岁男生在缅曾连续4天背诈骗话术",
+      "onboard_time": 1752912261,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -17339,6 +17507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102958,
+      "num": 277502,
+      "word": "女子驾观光车撞倒男孩拖行2米称没看见",
+      "onboard_time": 1752912680,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102923,
       "num": 149052,
       "word": "龙族动画第二季开播",
@@ -19267,6 +19443,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 81961,
+      "num": 159864,
+      "word": "爷爷不泡茶荔枝冰酿",
+      "onboard_time": 1752912080,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81565,
       "num": 81565,
       "word": "给国外的心理医生一些小小的震撼",
@@ -19305,6 +19489,14 @@
       "onboard_time": 1752512238,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80485,
+      "num": 258936,
+      "word": "南京照相馆",
+      "onboard_time": 1752913701,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 80483,
@@ -20699,6 +20891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 45647,
+      "num": 164600,
+      "word": "88万赔偿律师拿走55万合理吗",
+      "onboard_time": 1752912141,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45634,
       "num": 125443,
       "word": "48岁男子搭顺风车猥亵被行拘",
@@ -20969,14 +21169,6 @@
       "onboard_time": 1752757341,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38858,
-      "num": 305452,
-      "word": "网友担心余杭周边加工厂食品安全",
-      "onboard_time": 1752910282,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38699,
@@ -21312,6 +21504,14 @@
       "word": "高温数据",
       "onboard_time": 1752746361,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31899,
+      "num": 499664,
+      "word": "海拔4650米上有片风车海",
+      "onboard_time": 1752897860,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -21985,6 +22185,14 @@
       "onboard_time": 1752660981,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20449,
+      "num": 172014,
+      "word": "余杭有人跨区12公里洗澡吃饭",
+      "onboard_time": 1752913941,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20316,
