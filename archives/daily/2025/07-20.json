@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752943739348,
+  "endTime": 1752945905964,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -41,6 +41,14 @@
       "onboard_time": 1752928521,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522184,
+      "num": 522184,
+      "word": "央视曝光职业背债人产业链",
+      "onboard_time": 1752942620,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467586,
@@ -99,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 323272,
+      "num": 323272,
+      "word": "一块好丽友砸穿了中产的山姆信仰",
+      "onboard_time": 1752940461,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "台风韦帕登陆范围再次西移",
@@ -121,6 +137,14 @@
       "onboard_time": 1752932183,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233232,
+      "num": 233232,
+      "word": "外卖大战被叫停后仍有免费饮料",
+      "onboard_time": 1752942502,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217094,
@@ -171,14 +195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162534,
-      "num": 162534,
-      "word": "一块好丽友砸穿了中产的山姆信仰",
-      "onboard_time": 1752940461,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162182,
       "num": 162182,
       "word": "蔡依林去了lesserafim演唱会",
@@ -201,6 +217,14 @@
       "onboard_time": 1752931583,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146413,
+      "num": 146413,
+      "word": "印度一家出游瘫痪父亲绑车内险丧命",
+      "onboard_time": 1752943879,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143522,
@@ -233,14 +257,6 @@
       "onboard_time": 1752937344,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131602,
-      "num": 302202,
-      "word": "央视曝光职业背债人产业链",
-      "onboard_time": 1752942620,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126771,
@@ -281,14 +297,6 @@
       "onboard_time": 1752930862,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108776,
-      "num": 109253,
-      "word": "外卖大战被叫停后仍有免费饮料",
-      "onboard_time": 1752942502,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106165,
@@ -419,11 +427,35 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60276,
+      "num": 60276,
+      "word": "530万买房业主徒手掰开大梁碎块",
+      "onboard_time": 1752944839,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56978,
+      "num": 58894,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1752945258,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51049,
       "num": 104558,
       "word": "南通上演苏超最散装应援团",
       "onboard_time": 1752938302,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50920,
+      "num": 58872,
+      "word": "中国女篮无缘亚洲杯决赛",
+      "onboard_time": 1752931643,
+      "rank": 45,
       "category": "体育"
     },
     {
