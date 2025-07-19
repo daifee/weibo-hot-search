@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 18:28:39
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/19 18:46:07
 </p>
 </blockquote>
 <p>
@@ -3279,6 +3279,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E8%80%81%E6%9D%BF%E9%80%81%E5%9B%9E%E9%AB%98%E8%80%83%E7%94%9F%E7%A7%B0%E5%85%B6%E5%89%8D%E9%80%94%E5%85%89%E6%98%8E%23" target="weibo">
+缅甸老板送回高考生称其前途光明（热度：804161）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E9%86%9B%E6%88%BF%23" target="weibo">
 甲醛房（热度：804086）
 </a>
@@ -5199,6 +5205,12 @@ G社拍的刘诗诗（热度：619179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%23" target="weibo">
+泡泡玛特（热度：611087）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ye%20%E9%80%80%E7%A5%A8%23" target="weibo">
 ye 退票（热度：610719）
 </a>
@@ -5865,6 +5877,12 @@ GAI表情（热度：577758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%90%88%E8%82%A5%E4%B8%80%E9%A6%99%E5%A5%88%E5%84%BF%E5%BA%97%E5%91%98%E4%B8%8E%E9%A1%BE%E5%AE%A2%E6%89%AD%E6%89%93%23" target="weibo">
+曝合肥一香奈儿店员与顾客扭打（热度：553982）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%92%20%E6%9C%80%E8%8D%A3%E5%B9%B8%E7%9A%84%E6%98%AF%E9%99%AA%E4%BC%B4%E8%BF%87%E4%BD%A0%E4%BB%AC%E7%9A%84%E9%9D%92%E6%98%A5%23" target="weibo">
 王青 最荣幸的是陪伴过你们的青春（热度：553912）
 </a>
@@ -5993,24 +6011,6 @@ AL遗憾止步MSI（热度：543311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E6%94%B9%E5%89%8D%E7%BC%80%23" target="weibo">
 夏之光改前缀（热度：543121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%9B%A0%E7%9C%BC%E7%9D%9B%E5%B0%8F%E8%A2%AB%E6%8C%91%E5%89%A9%E4%B8%8B%E7%9B%BC%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%9B%A2%E5%9C%86%23" target="weibo">
-女婴因眼睛小被挑剩下盼与父母团圆（热度：542685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%23" target="weibo">
-特斯拉（热度：542421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%91%98%E8%B5%B7%E5%86%B2%E7%AA%81%23" target="weibo">
-上海交大学生与校外人员起冲突（热度：542072）
 </a>
 </li>
 

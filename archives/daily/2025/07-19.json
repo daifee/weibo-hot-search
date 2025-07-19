@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752920919844,
+  "endTime": 1752921967106,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804161,
+      "num": 804161,
+      "word": "缅甸老板送回高考生称其前途光明",
+      "onboard_time": 1752919341,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 784749,
       "num": 784749,
       "word": "丈夫怀疑妻子出轨将其踹下楼致死",
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 611087,
+      "num": 611087,
+      "word": "泡泡玛特",
+      "onboard_time": 1752916941,
+      "rank": 48,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 609302,
       "num": 571553,
       "word": "宋小宝这下真成王嘉尔了",
@@ -299,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553982,
+      "num": 553982,
+      "word": "曝合肥一香奈儿店员与顾客扭打",
+      "onboard_time": 1752918803,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531173,
       "num": 552351,
       "word": "丁太升建议单依纯离常石磊远点",
       "onboard_time": 1752895281,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 522202,
-      "num": 522202,
-      "word": "泡泡玛特",
-      "onboard_time": 1752916941,
-      "rank": 48,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 497477,
@@ -329,14 +345,6 @@
       "onboard_time": 1752900982,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 488856,
-      "num": 488856,
-      "word": "曝合肥一香奈儿店员与顾客扭打",
-      "onboard_time": 1752918803,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 487303,
@@ -435,6 +443,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 381310,
+      "num": 289606,
+      "word": "60岁才是来月经最好的年纪",
+      "onboard_time": 1752917121,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378903,
       "num": 378903,
       "word": "余杭臭宝",
@@ -465,6 +481,14 @@
       "onboard_time": 1752880218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358476,
+      "num": 358476,
+      "word": "樱桃琥珀我承认之前对你太大声了",
+      "onboard_time": 1752919881,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 353816,
@@ -507,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344355,
-      "num": 344355,
-      "word": "缅甸老板送回高考生称其前途光明",
-      "onboard_time": 1752919341,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 339827,
       "num": 273674,
       "word": "肖战留了陈情令",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 326794,
-      "num": 503594,
+      "num": 689840,
       "word": "2025年三伏共30天",
       "onboard_time": 1752888019,
       "rank": 13,
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305906,
+      "num": 305906,
+      "word": "郑钦文完成右肘手术",
+      "onboard_time": 1752920002,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303298,
       "num": 303298,
       "word": "4岁娃吃燕窝虫草2年瘦成皮包骨",
@@ -593,14 +617,6 @@
       "onboard_time": 1752852623,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285695,
-      "num": 282522,
-      "word": "60岁才是来月经最好的年纪",
-      "onboard_time": 1752917121,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 284898,
@@ -641,14 +657,6 @@
       "onboard_time": 1752895822,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263424,
-      "num": 341924,
-      "word": "樱桃琥珀我承认之前对你太大声了",
-      "onboard_time": 1752919881,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 262818,
@@ -715,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242254,
-      "num": 242254,
-      "word": "郑钦文完成右肘手术",
-      "onboard_time": 1752920002,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239992,
       "num": 506022,
       "word": "单依纯舞娘从四月就在准备了",
@@ -747,8 +747,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232930,
-      "num": 291903,
+      "raw_hot": 237585,
+      "num": 295566,
       "word": "鹿晗工作室头像初选",
       "onboard_time": 1752919102,
       "rank": 16,
@@ -785,6 +785,14 @@
       "onboard_time": 1752905541,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226732,
+      "num": 294940,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1752920900,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 226640,
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 203313,
-      "num": 203313,
+      "num": 303473,
       "word": "韩国申遗失败未经证实网友为何狂欢",
       "onboard_time": 1752917722,
       "rank": 35,
@@ -929,6 +937,14 @@
       "onboard_time": 1752920002,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202061,
+      "num": 202061,
+      "word": "苏新皓吐槽飞机座位",
+      "onboard_time": 1752921921,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 200232,
@@ -953,6 +969,14 @@
       "onboard_time": 1752906922,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198977,
+      "num": 292998,
+      "word": "全员加速中衍生短剧开机",
+      "onboard_time": 1752921262,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 198825,
@@ -995,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193601,
+      "num": 193601,
+      "word": "我觉得杨幂长得像幂这个字",
+      "onboard_time": 1752920842,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192154,
       "num": 196051,
       "word": "2025第200天",
@@ -1003,12 +1035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187266,
+      "num": 187266,
+      "word": "雅鲁藏布江下游水电工程开工",
+      "onboard_time": 1752920962,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185992,
       "num": 185992,
       "word": "年轻人相亲有多能整活",
       "onboard_time": 1752906021,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185910,
+      "num": 185910,
+      "word": "肖战的推广能力有多强",
+      "onboard_time": 1752921501,
+      "rank": 29,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 185495,
@@ -1187,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164416,
+      "num": 164416,
+      "word": "褚这个姓到底该怎么念",
+      "onboard_time": 1752921440,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 163813,
       "num": 163813,
       "word": "家属称4名失联男孩定位显示在柬埔寨",
@@ -1355,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145741,
+      "num": 145741,
+      "word": "我娶一个进来不就得了吗",
+      "onboard_time": 1752921321,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144648,
       "num": 144648,
       "word": "易烊千玺生气会吃辣条",
@@ -1385,14 +1449,6 @@
       "onboard_time": 1752919222,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141748,
-      "num": 141748,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1752920900,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 141389,
@@ -1579,20 +1635,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130078,
-      "num": 130078,
-      "word": "我觉得杨幂长得像幂这个字",
-      "onboard_time": 1752920842,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129884,
       "num": 165290,
       "word": "被骗至缅甸高考生被好心大哥救助",
       "onboard_time": 1752916401,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129257,
+      "num": 129257,
+      "word": "JDG伞兵联赛2600淘汰",
+      "onboard_time": 1752921622,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 128166,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1752917662,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126919,
+      "num": 126919,
+      "word": "黄友政弟弟黄友皓参加张继科杯夺冠",
+      "onboard_time": 1752918261,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 126788,
@@ -2515,6 +2579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51537,
+      "num": 146222,
+      "word": "奥运冠军抵达拉萨",
+      "onboard_time": 1752920723,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51174,
       "num": 174664,
       "word": "叙政权将派遣武装平息冲突",
@@ -2571,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44114,
+      "num": 290831,
+      "word": "被骗至缅甸失联高考生因年龄小被劝返",
+      "onboard_time": 1752921080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43351,
       "num": 63501,
       "word": "电视剧樱桃琥珀观后感",
@@ -2587,7 +2667,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 40388,
+      "raw_hot": 40713,
       "num": 148748,
       "word": "杭州自来水滤芯实验",
       "onboard_time": 1752920301,
@@ -2705,6 +2785,14 @@
       "onboard_time": 1752866354,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23391,
+      "num": 292205,
+      "word": "未来高温或致510万人住院",
+      "onboard_time": 1752921262,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22860,

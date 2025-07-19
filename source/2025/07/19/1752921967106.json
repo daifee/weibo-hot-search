@@ -1,0 +1,410 @@
+{
+  "runTime": 1752921967106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3488767,
+        "num": 3488767,
+        "word": "官方通报余杭自来水异味",
+        "onboard_time": 1752910282,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 804161,
+        "num": 804161,
+        "word": "缅甸老板送回高考生称其前途光明",
+        "onboard_time": 1752919341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21302,
+        "num": 689840,
+        "word": "2025年三伏共30天",
+        "onboard_time": 1752888019,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611087,
+        "num": 611087,
+        "word": "泡泡玛特",
+        "onboard_time": 1752916941,
+        "rank": 3,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 553982,
+        "num": 553982,
+        "word": "曝合肥一香奈儿店员与顾客扭打",
+        "onboard_time": 1752918803,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358476,
+        "num": 358476,
+        "word": "樱桃琥珀我承认之前对你太大声了",
+        "onboard_time": 1752919881,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319293,
+        "num": 319293,
+        "word": "网红骑哈雷的小姨去世",
+        "onboard_time": 1752917362,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 305906,
+        "num": 305906,
+        "word": "郑钦文完成右肘手术",
+        "onboard_time": 1752920002,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304224,
+        "num": 304224,
+        "word": "杭州苕溪原水粪大肠菌群超3类标准",
+        "onboard_time": 1752917541,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 186732,
+        "num": 303473,
+        "word": "韩国申遗失败未经证实网友为何狂欢",
+        "onboard_time": 1752917722,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 880046,
+        "num": 302549,
+        "word": "素颜张元英",
+        "onboard_time": 1752917002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632790,
+        "num": 301640,
+        "word": "演唱会亲密搂抱两人均被停职",
+        "onboard_time": 1752893602,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 590641,
+        "num": 299079,
+        "word": "王青直播",
+        "onboard_time": 1752916462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460785,
+        "num": 298114,
+        "word": "杨天真 我160斤的时候也这样",
+        "onboard_time": 1752915203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351806,
+        "num": 296508,
+        "word": "怀孕是一场服从性测试",
+        "onboard_time": 1752906681,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237585,
+        "num": 295566,
+        "word": "鹿晗工作室头像初选",
+        "onboard_time": 1752919102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226732,
+        "num": 294940,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1752920900,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198977,
+        "num": 292998,
+        "word": "全员加速中衍生短剧开机",
+        "onboard_time": 1752921262,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23391,
+        "num": 292205,
+        "word": "未来高温或致510万人住院",
+        "onboard_time": 1752921262,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44114,
+        "num": 290831,
+        "word": "被骗至缅甸失联高考生因年龄小被劝返",
+        "onboard_time": 1752921080,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381310,
+        "num": 289606,
+        "word": "60岁才是来月经最好的年纪",
+        "onboard_time": 1752917121,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288786,
+        "num": 288786,
+        "word": "女子称赤裸上半身体检遭护士闯入",
+        "onboard_time": 1752894679,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256424,
+        "num": 256424,
+        "word": "AL对战T1",
+        "onboard_time": 1752918622,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236747,
+        "num": 236747,
+        "word": "被骗至缅甸失联高考生已找到",
+        "onboard_time": 1752903502,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204533,
+        "num": 204533,
+        "word": "狗尾巴草 去痣",
+        "onboard_time": 1752906501,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 204167,
+        "num": 204167,
+        "word": "宋小宝这下真成王嘉尔了",
+        "onboard_time": 1752906742,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202061,
+        "num": 202061,
+        "word": "苏新皓吐槽飞机座位",
+        "onboard_time": 1752921921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193601,
+        "num": 193601,
+        "word": "我觉得杨幂长得像幂这个字",
+        "onboard_time": 1752920842,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187266,
+        "num": 187266,
+        "word": "雅鲁藏布江下游水电工程开工",
+        "onboard_time": 1752920962,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185910,
+        "num": 185910,
+        "word": "肖战的推广能力有多强",
+        "onboard_time": 1752921501,
+        "rank": 29,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 186197,
+        "num": 185898,
+        "word": "确诊糖尿病前身体给我发出的信号",
+        "onboard_time": 1752919822,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185744,
+        "num": 185744,
+        "word": "雅鲁藏布江",
+        "onboard_time": 1752920002,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32665,
+        "num": 183404,
+        "word": "在解限机实现机甲梦",
+        "onboard_time": 1752915922,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183252,
+        "num": 183252,
+        "word": "贞操啥都不是",
+        "onboard_time": 1752910462,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175269,
+        "num": 175269,
+        "word": "魔仙小蓝扮演者怼黑粉",
+        "onboard_time": 1752919582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172498,
+        "num": 172498,
+        "word": "佛山已确诊基孔肯雅热超千例",
+        "onboard_time": 1752912680,
+        "rank": 35,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 164416,
+        "num": 164416,
+        "word": "褚这个姓到底该怎么念",
+        "onboard_time": 1752921440,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 154116,
+        "num": 154116,
+        "word": "刘宇宁没到南珩魏劭先来了",
+        "onboard_time": 1752920002,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40713,
+        "num": 148144,
+        "word": "杭州自来水滤芯实验",
+        "onboard_time": 1752920301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51537,
+        "num": 146222,
+        "word": "奥运冠军抵达拉萨",
+        "onboard_time": 1752920723,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145741,
+        "num": 145741,
+        "word": "我娶一个进来不就得了吗",
+        "onboard_time": 1752921321,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144212,
+        "num": 144212,
+        "word": "网友担心余杭周边加工厂食品安全",
+        "onboard_time": 1752910282,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136020,
+        "num": 136020,
+        "word": "接到王嘉尔的电话了",
+        "onboard_time": 1752916102,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134653,
+        "num": 134653,
+        "word": "王楚钦逛动物园",
+        "onboard_time": 1752907162,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133402,
+        "num": 133402,
+        "word": "偶遇王源看陈奕迅的演唱会",
+        "onboard_time": 1752920601,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129257,
+        "num": 129257,
+        "word": "JDG伞兵联赛2600淘汰",
+        "onboard_time": 1752921622,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127486,
+        "num": 127486,
+        "word": "歌手返场限时投票",
+        "onboard_time": 1752915562,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126919,
+        "num": 126919,
+        "word": "黄友政弟弟黄友皓参加张继科杯夺冠",
+        "onboard_time": 1752918261,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125860,
+        "num": 125860,
+        "word": "减肥饿三个月瘦了20斤",
+        "onboard_time": 1752917782,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125149,
+        "num": 125149,
+        "word": "美国IT大佬出轨被拍马斯克吃瓜",
+        "onboard_time": 1752910101,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中毛建交60周年#"
+    }
+  }
+}
