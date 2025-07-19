@@ -1,0 +1,410 @@
+{
+  "runTime": 1752932888891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612109,
+        "num": 1612109,
+        "word": "12306回应高铁不要食用方便面提醒",
+        "onboard_time": 1752927022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1436668,
+        "num": 1436668,
+        "word": "金靖瘦成这样了",
+        "onboard_time": 1752930383,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18515,
+        "num": 1159838,
+        "word": "2025年三伏共30天",
+        "onboard_time": 1752888019,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1134367,
+        "num": 1134367,
+        "word": "中国女篮无缘亚洲杯决赛",
+        "onboard_time": 1752931643,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 861644,
+        "num": 861644,
+        "word": "赵丽颖直播",
+        "onboard_time": 1752928342,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 494348,
+        "num": 494348,
+        "word": "高铁建议勿食用方便面引网友热议",
+        "onboard_time": 1752928042,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829007,
+        "num": 493556,
+        "word": "杨紫都有点不敢回魏哲鸣了",
+        "onboard_time": 1752928521,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 704022,
+        "num": 491944,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1752920900,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 485554,
+        "num": 485554,
+        "word": "官方通报余杭自来水异味",
+        "onboard_time": 1752910282,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 429678,
+        "num": 429678,
+        "word": "苏超",
+        "onboard_time": 1752917842,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539517,
+        "num": 421041,
+        "word": "水木年华怒怼郝蕾不够专业",
+        "onboard_time": 1752931762,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506067,
+        "num": 409883,
+        "word": "确诊糖尿病前身体给我发出的信号",
+        "onboard_time": 1752919822,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 450539,
+        "num": 403791,
+        "word": "时代少年团逆应援",
+        "onboard_time": 1752929482,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 439720,
+        "num": 388134,
+        "word": "肖战上班下班照",
+        "onboard_time": 1752931282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61875,
+        "num": 377958,
+        "word": "IT大佬演唱会这一抱或值4000万美元",
+        "onboard_time": 1752931943,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71305,
+        "num": 364729,
+        "word": "卫健局回应余杭周边加工厂食品安全",
+        "onboard_time": 1752932544,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358853,
+        "num": 358853,
+        "word": "AL零封T1",
+        "onboard_time": 1752922581,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129379,
+        "num": 346385,
+        "word": "怪不得TizzyT问你干嘛捂我嘴",
+        "onboard_time": 1752931462,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51267,
+        "num": 341516,
+        "word": "榜一之战2万多名球迷齐唱歌唱祖国",
+        "onboard_time": 1752932601,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339793,
+        "num": 339793,
+        "word": "卡车司机带16岁儿子出车双双遇难",
+        "onboard_time": 1752930802,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158841,
+        "num": 321458,
+        "word": "苏超南通2比1盐城",
+        "onboard_time": 1752932601,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389977,
+        "num": 319562,
+        "word": "素颜张元英",
+        "onboard_time": 1752917002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70611,
+        "num": 314266,
+        "word": "曾舜晞通过海底捞三面",
+        "onboard_time": 1752926722,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309810,
+        "num": 309810,
+        "word": "男子疯狂别14岁骑行少女被拘14日",
+        "onboard_time": 1752931402,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301289,
+        "num": 301289,
+        "word": "中国女篮vs日本女篮",
+        "onboard_time": 1752923241,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296434,
+        "num": 296434,
+        "word": "很多女孩着急找对象",
+        "onboard_time": 1752926120,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283286,
+        "num": 283286,
+        "word": "雅鲁藏布江下游水电工程开工",
+        "onboard_time": 1752920962,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272630,
+        "num": 272630,
+        "word": "苏超南通vs盐城",
+        "onboard_time": 1752924139,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259844,
+        "num": 259844,
+        "word": "儿子氪金1万妈妈边打孩子边哭",
+        "onboard_time": 1752927741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33721,
+        "num": 255578,
+        "word": "葫芦娃七彩山标价118元引争议",
+        "onboard_time": 1752931943,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254004,
+        "num": 254004,
+        "word": "中国女篮 李梦",
+        "onboard_time": 1752932183,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252367,
+        "num": 252367,
+        "word": "中国女篮不敌日本女篮",
+        "onboard_time": 1752931643,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209024,
+        "num": 209024,
+        "word": "有年轻人1年花近20万拍海马体",
+        "onboard_time": 1752931583,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194928,
+        "num": 194928,
+        "word": "邓传理 比世界冠军陈梦还强悍的女人",
+        "onboard_time": 1752932243,
+        "rank": 33,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 187712,
+        "num": 187712,
+        "word": "中国花游用长歌行BGM夺冠",
+        "onboard_time": 1752932302,
+        "rank": 34,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 183388,
+        "num": 183388,
+        "word": "亚洲杯",
+        "onboard_time": 1752932243,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182010,
+        "num": 182010,
+        "word": "李敏镐说自己会努力控制欲望",
+        "onboard_time": 1752930984,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32471,
+        "num": 180241,
+        "word": "羽生结弦节目新角度油管初公开",
+        "onboard_time": 1752932783,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179178,
+        "num": 179178,
+        "word": "演唱会亲密搂抱两人均被停职",
+        "onboard_time": 1752893602,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67957,
+        "num": 177632,
+        "word": "徐汇妍夺泳联世锦赛中国首金",
+        "onboard_time": 1752931701,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111015,
+        "num": 177602,
+        "word": "第6号台风韦帕进度条",
+        "onboard_time": 1752931342,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177590,
+        "num": 177590,
+        "word": "张子墨弥补了女团没有男生的遗憾",
+        "onboard_time": 1752932062,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171105,
+        "num": 171105,
+        "word": "南哥盐帝一哥之战",
+        "onboard_time": 1752929122,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162383,
+        "num": 162383,
+        "word": "奔跑吧13",
+        "onboard_time": 1752925400,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159822,
+        "num": 159822,
+        "word": "杨天真 我160斤的时候也这样",
+        "onboard_time": 1752915203,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158661,
+        "num": 158661,
+        "word": "外卖平台被约谈后怎么样了",
+        "onboard_time": 1752932843,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 157433,
+        "num": 157433,
+        "word": "重庆地铁纳凉乱象",
+        "onboard_time": 1752930022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156887,
+        "num": 156887,
+        "word": "北京国安vs上海申花",
+        "onboard_time": 1752925101,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154561,
+        "num": 154561,
+        "word": "44岁高管失业后去摆地摊做保洁",
+        "onboard_time": 1752932183,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142905,
+        "num": 142905,
+        "word": "宋亚轩 爱是怀疑",
+        "onboard_time": 1752928402,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中毛建交60周年#"
+    }
+  }
+}
