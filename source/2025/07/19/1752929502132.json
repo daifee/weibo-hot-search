@@ -1,0 +1,410 @@
+{
+  "runTime": 1752929502132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1040120,
+        "num": 1166419,
+        "word": "12306回应高铁不要食用方便面提醒",
+        "onboard_time": 1752927022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1037062,
+        "num": 1037062,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1752920900,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23782,
+        "num": 610559,
+        "word": "2025年三伏共30天",
+        "onboard_time": 1752888019,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589314,
+        "num": 589314,
+        "word": "AL零封T1",
+        "onboard_time": 1752922581,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 360821,
+        "num": 360821,
+        "word": "赵丽颖直播",
+        "onboard_time": 1752928342,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 572141,
+        "num": 357108,
+        "word": "官方通报余杭自来水异味",
+        "onboard_time": 1752910282,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 340193,
+        "num": 340193,
+        "word": "杨紫回复了锦绣芳华所有人",
+        "onboard_time": 1752922881,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336509,
+        "num": 336509,
+        "word": "雅鲁藏布江下游水电工程开工",
+        "onboard_time": 1752920962,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334456,
+        "num": 334456,
+        "word": "朝雪录好超前的婚恋观",
+        "onboard_time": 1752925281,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189197,
+        "num": 326923,
+        "word": "高铁建议勿食用方便面引网友热议",
+        "onboard_time": 1752928042,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725518,
+        "num": 321044,
+        "word": "确诊糖尿病前身体给我发出的信号",
+        "onboard_time": 1752919822,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 717808,
+        "num": 306113,
+        "word": "素颜张元英",
+        "onboard_time": 1752917002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341154,
+        "num": 290635,
+        "word": "杨天真 我160斤的时候也这样",
+        "onboard_time": 1752915203,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289809,
+        "num": 289809,
+        "word": "演唱会亲密搂抱两人均被停职",
+        "onboard_time": 1752893602,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82720,
+        "num": 261694,
+        "word": "广东人台风天非必要不出门",
+        "onboard_time": 1752928282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259406,
+        "num": 259406,
+        "word": "中国女篮vs日本女篮",
+        "onboard_time": 1752923241,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248917,
+        "num": 248917,
+        "word": "杨紫都有点不敢回魏哲鸣了",
+        "onboard_time": 1752928521,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192702,
+        "num": 244987,
+        "word": "曾舜晞通过海底捞三面",
+        "onboard_time": 1752926722,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241435,
+        "num": 241435,
+        "word": "我觉得杨幂长得像幂这个字",
+        "onboard_time": 1752920842,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48738,
+        "num": 231415,
+        "word": "台风韦帕6级风圈直径超900公里",
+        "onboard_time": 1752928342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327717,
+        "num": 231301,
+        "word": "很多女孩着急找对象",
+        "onboard_time": 1752926120,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279628,
+        "num": 231276,
+        "word": "60岁才是来月经最好的年纪",
+        "onboard_time": 1752917121,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231149,
+        "num": 231149,
+        "word": "奔跑吧13",
+        "onboard_time": 1752925400,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319929,
+        "num": 227435,
+        "word": "曝合肥一香奈儿店员与顾客扭打",
+        "onboard_time": 1752918803,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204873,
+        "num": 204873,
+        "word": "儿子氪金1万妈妈边打孩子边哭",
+        "onboard_time": 1752927741,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199045,
+        "num": 199045,
+        "word": "宋亚轩 爱是怀疑",
+        "onboard_time": 1752928402,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181544,
+        "num": 181544,
+        "word": "黄誉博演唱会上座率",
+        "onboard_time": 1752928701,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177582,
+        "num": 177582,
+        "word": "刘宇宁演唱会直播",
+        "onboard_time": 1752923901,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166388,
+        "num": 166388,
+        "word": "苏超",
+        "onboard_time": 1752917842,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33538,
+        "num": 158589,
+        "word": "有论文显示藻类可致水体现化粪池味",
+        "onboard_time": 1752928941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158310,
+        "num": 158310,
+        "word": "樱桃琥珀我承认之前对你太大声了",
+        "onboard_time": 1752919881,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151116,
+        "num": 151116,
+        "word": "网友担心余杭周边加工厂食品安全",
+        "onboard_time": 1752910282,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145126,
+        "num": 145126,
+        "word": "鬼灭之刃",
+        "onboard_time": 1752928402,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140407,
+        "num": 140407,
+        "word": "第一次见约会要办临时结婚证的",
+        "onboard_time": 1752928822,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44798,
+        "num": 140402,
+        "word": "张踩玲太敢说了",
+        "onboard_time": 1752929482,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140402,
+        "num": 140401,
+        "word": "王青直播",
+        "onboard_time": 1752916462,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "一个比考公考编更难的事",
+        "onboard_time": 1752925460,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139094,
+        "num": 139094,
+        "word": "杭州自来水异味来源查明",
+        "onboard_time": 1752911541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135156,
+        "num": 135156,
+        "word": "张继科首创个人乒乓公开赛",
+        "onboard_time": 1752927022,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131741,
+        "num": 131741,
+        "word": "杨舒予三分太准了",
+        "onboard_time": 1752929361,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127115,
+        "num": 127115,
+        "word": "时代少年团逆应援",
+        "onboard_time": 1752929482,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125883,
+        "num": 125883,
+        "word": "苏超南通vs盐城",
+        "onboard_time": 1752924139,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106734,
+        "num": 125014,
+        "word": "盛宇把GBLOCK带来新说唱了",
+        "onboard_time": 1752927621,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124541,
+        "num": 124541,
+        "word": "徐明浩说一群姐妹扯头花很好看",
+        "onboard_time": 1752927982,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125817,
+        "num": 124001,
+        "word": "蔚来汽车严正声明",
+        "onboard_time": 1752929242,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122751,
+        "num": 122751,
+        "word": "一个没注意中国无人机又升级了",
+        "onboard_time": 1752925881,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124862,
+        "num": 120812,
+        "word": "南哥盐帝一哥之战",
+        "onboard_time": 1752929122,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117093,
+        "num": 117093,
+        "word": "福耀科技大学最低投档线超名校",
+        "onboard_time": 1752925881,
+        "rank": 47,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 120629,
+        "num": 117019,
+        "word": "郑钦文近期将把重心放在康复训练上",
+        "onboard_time": 1752929361,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 116744,
+        "word": "深圳天气",
+        "onboard_time": 1752926002,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中毛建交60周年#"
+    }
+  }
+}
