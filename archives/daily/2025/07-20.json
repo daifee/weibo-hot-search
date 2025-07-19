@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752967715093,
+  "endTime": 1752968656677,
   "band_list": [
     {
       "raw_hot": 1557997,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352083,
+      "num": 178755,
+      "word": "82岁父亲凌晨摘30斤李子儿子发声",
+      "onboard_time": 1752967097,
+      "rank": 10,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 351761,
       "num": 351761,
       "word": "官方通报余杭自来水异味",
@@ -113,6 +121,14 @@
       "onboard_time": 1752926120,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 325978,
+      "num": 178668,
+      "word": "程潇脸肿了",
+      "onboard_time": 1752967698,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 323272,
@@ -147,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229202,
-      "num": 169853,
-      "word": "82岁父亲凌晨摘30斤李子儿子发声",
-      "onboard_time": 1752967097,
-      "rank": 10,
-      "category": "正能量"
+      "raw_hot": 257093,
+      "num": 178278,
+      "word": "三伏天夏断食21天",
+      "onboard_time": 1752967277,
+      "rank": 13,
+      "category": "运动健身"
     },
     {
       "raw_hot": 217094,
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189318,
+      "num": 178027,
+      "word": "王楚钦和梁靖崑儿子合照",
+      "onboard_time": 1752967158,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189032,
       "num": 189032,
       "word": "高铁建议勿食用方便面引网友热议",
@@ -193,22 +217,6 @@
       "onboard_time": 1752928342,
       "rank": 20,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 185814,
-      "num": 169490,
-      "word": "王楚钦和梁靖崑儿子合照",
-      "onboard_time": 1752967158,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166023,
-      "num": 166023,
-      "word": "三伏天夏断食21天",
-      "onboard_time": 1752967277,
-      "rank": 13,
-      "category": "运动健身"
     },
     {
       "raw_hot": 162874,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 134771,
-      "num": 139453,
+      "num": 149484,
       "word": "徐艺洋给黄子韬哄成胚胎了",
       "onboard_time": 1752936622,
       "rank": 46,
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118111,
+      "num": 178994,
+      "word": "珠海全市停课停工停产停运停业",
+      "onboard_time": 1752967036,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114994,
       "num": 114994,
       "word": "GALA 保jie派",
@@ -321,6 +337,14 @@
       "onboard_time": 1752967097,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113959,
+      "num": 113959,
+      "word": "12306抢票遇到真大佬了",
+      "onboard_time": 1752967338,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 111048,
@@ -411,12 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93168,
-      "num": 170019,
-      "word": "珠海全市停课停工停产停运停业",
-      "onboard_time": 1752967036,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 87742,
+      "num": 87742,
+      "word": "肖战更名后首发博",
+      "onboard_time": 1752967516,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 87033,
@@ -443,12 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79466,
-      "num": 79466,
-      "word": "12306抢票遇到真大佬了",
-      "onboard_time": 1752967338,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 78181,
+      "num": 78181,
+      "word": "罗小黑",
+      "onboard_time": 1752968117,
+      "rank": 30,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 77563,
@@ -457,14 +481,6 @@
       "onboard_time": 1752939023,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72562,
-      "num": 72562,
-      "word": "程潇脸肿了",
-      "onboard_time": 1752967698,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 69560,
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64519,
+      "num": 64519,
+      "word": "迪丽热巴送刘宇宁花篮",
+      "onboard_time": 1752967758,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63767,
       "num": 89985,
       "word": "MLB吉祥物模仿演唱会出轨男女",
@@ -499,7 +523,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 60276,
+      "raw_hot": 61490,
       "num": 69581,
       "word": "530万买房业主徒手掰开大梁碎块",
       "onboard_time": 1752944839,
@@ -507,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57953,
-      "num": 72604,
-      "word": "肖战更名后首发博",
-      "onboard_time": 1752967516,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 58948,
+      "num": 58948,
+      "word": "杭州一爱心冰箱被代驾人员免费进货",
+      "onboard_time": 1752968357,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56978,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43425,
+      "num": 43425,
+      "word": "港珠澳大桥已临时封闭",
+      "onboard_time": 1752968298,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42698,
       "num": 45237,
       "word": "梓渝在音乐节前一晚睡不着",
@@ -555,8 +587,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37872,
-      "num": 37872,
+      "raw_hot": 40170,
+      "num": 42023,
       "word": "女兵军考688分被国防科大录取",
       "onboard_time": 1752956114,
       "rank": 48,
