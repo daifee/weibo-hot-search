@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752921967106,
+  "endTime": 1752924173542,
   "band_list": [
     {
       "raw_hot": 9835645,
@@ -17,6 +17,14 @@
       "onboard_time": 1752893602,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2631639,
+      "num": 2631639,
+      "word": "AL零封T1",
+      "onboard_time": 1752922581,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 2246764,
@@ -49,6 +57,14 @@
       "onboard_time": 1752887180,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1339913,
+      "num": 1339913,
+      "word": "缅甸老板送回高考生称其前途光明",
+      "onboard_time": 1752919341,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1288131,
@@ -131,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 804161,
-      "num": 804161,
-      "word": "缅甸老板送回高考生称其前途光明",
-      "onboard_time": 1752919341,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 784749,
       "num": 784749,
       "word": "丈夫怀疑妻子出轨将其踹下楼致死",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 674685,
-      "num": 319844,
+      "num": 321211,
       "word": "杨天真 我160斤的时候也这样",
       "onboard_time": 1752915203,
       "rank": 11,
@@ -371,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471244,
+      "num": 471244,
+      "word": "AL暴打T1",
+      "onboard_time": 1752922162,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 461920,
       "num": 461920,
       "word": "市监总局约谈饿了么美团京东",
@@ -443,7 +459,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 381310,
+      "raw_hot": 386382,
       "num": 289606,
       "word": "60岁才是来月经最好的年纪",
       "onboard_time": 1752917121,
@@ -467,12 +483,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 377292,
+      "num": 377292,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1752920900,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 370711,
       "num": 370711,
       "word": "网红骑哈雷的小姨去世",
       "onboard_time": 1752917362,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 363802,
+      "num": 363802,
+      "word": "杭州苕溪原水粪大肠菌群超3类标准",
+      "onboard_time": 1752917541,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 363762,
@@ -483,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358476,
-      "num": 358476,
+      "raw_hot": 359410,
+      "num": 359410,
       "word": "樱桃琥珀我承认之前对你太大声了",
       "onboard_time": 1752919881,
       "rank": 8,
@@ -497,14 +529,6 @@
       "onboard_time": 1752911541,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351689,
-      "num": 351689,
-      "word": "杭州苕溪原水粪大肠菌群超3类标准",
-      "onboard_time": 1752917541,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 351013,
@@ -553,6 +577,14 @@
       "onboard_time": 1752884119,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328823,
+      "num": 328823,
+      "word": "雅鲁藏布江下游水电工程开工",
+      "onboard_time": 1752920962,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 326794,
@@ -651,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267548,
+      "num": 267548,
+      "word": "确诊糖尿病前身体给我发出的信号",
+      "onboard_time": 1752919822,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 265000,
       "num": 265000,
       "word": "梓渝ins新头像",
@@ -681,6 +721,14 @@
       "onboard_time": 1752911301,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256324,
+      "num": 256324,
+      "word": "杨紫回复了锦绣芳华所有人",
+      "onboard_time": 1752922881,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 248138,
@@ -755,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230229,
-      "num": 230229,
-      "word": "确诊糖尿病前身体给我发出的信号",
-      "onboard_time": 1752919822,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 229513,
       "num": 229513,
       "word": "张真源红发",
@@ -785,14 +825,6 @@
       "onboard_time": 1752905541,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226732,
-      "num": 294940,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1752920900,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 226640,
@@ -841,6 +873,14 @@
       "onboard_time": 1752850524,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213326,
+      "num": 303473,
+      "word": "韩国申遗失败未经证实网友为何狂欢",
+      "onboard_time": 1752917722,
+      "rank": 35,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 212761,
@@ -921,14 +961,6 @@
       "onboard_time": 1752910941,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203313,
-      "num": 303473,
-      "word": "韩国申遗失败未经证实网友为何狂欢",
-      "onboard_time": 1752917722,
-      "rank": 35,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 202925,
@@ -1035,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187266,
-      "num": 187266,
-      "word": "雅鲁藏布江下游水电工程开工",
-      "onboard_time": 1752920962,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 185992,
       "num": 185992,
       "word": "年轻人相亲有多能整活",
@@ -1083,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182128,
+      "num": 182128,
+      "word": "当你第一次参加火把节",
+      "onboard_time": 1752923481,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 182074,
       "num": 182074,
       "word": "盛宇得知GAI淘汰后直接爆粗",
@@ -1105,6 +1137,22 @@
       "onboard_time": 1752892159,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 179735,
+      "num": 179735,
+      "word": "T1 人机",
+      "onboard_time": 1752923541,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 179525,
+      "num": 182525,
+      "word": "刘宇宁演唱会直播",
+      "onboard_time": 1752923901,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 178683,
@@ -1235,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164561,
+      "num": 164561,
+      "word": "AL换了名字是不一样",
+      "onboard_time": 1752923661,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164416,
       "num": 164416,
       "word": "褚这个姓到底该怎么念",
@@ -1267,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162405,
+      "num": 162405,
+      "word": "许凯白长了一个男团身材",
+      "onboard_time": 1752923782,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161589,
       "num": 192410,
       "word": "沈梦辰吊带鱼尾长裙",
@@ -1283,12 +1347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159251,
+      "num": 159251,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1752923241,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158907,
       "num": 158907,
       "word": "EWC",
       "onboard_time": 1752919942,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156752,
+      "num": 156752,
+      "word": "王青直播人气",
+      "onboard_time": 1752923300,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 156537,
@@ -1393,6 +1473,14 @@
       "onboard_time": 1752911721,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147605,
+      "num": 147605,
+      "word": "魏哲鸣线下活动人气",
+      "onboard_time": 1752924019,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 147197,
@@ -1643,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129818,
+      "num": 129818,
+      "word": "斗破苍穹",
+      "onboard_time": 1752923361,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 129257,
       "num": 129257,
       "word": "JDG伞兵联赛2600淘汰",
@@ -1723,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125028,
+      "num": 125028,
+      "word": "台风韦帕到哪了",
+      "onboard_time": 1752922042,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124756,
       "num": 124756,
       "word": "下巴凸起的小颗粒到底是啥",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1752900321,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123151,
+      "num": 123815,
+      "word": "石凯万妮达暗流",
+      "onboard_time": 1752922701,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 121645,
@@ -2043,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105112,
+      "num": 159777,
+      "word": "台风韦帕风雨时间表",
+      "onboard_time": 1752923961,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104989,
       "num": 124080,
       "word": "爱康体检事件当事人称或起诉",
@@ -2057,6 +2177,14 @@
       "onboard_time": 1752883820,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103373,
+      "num": 128390,
+      "word": "还是得上王思雨",
+      "onboard_time": 1752922941,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 103180,
@@ -2315,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86290,
+      "num": 147150,
+      "word": "广东汕头台风预警信号升级至黄色",
+      "onboard_time": 1752923721,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85697,
       "num": 99865,
       "word": "杨幂不带小糯米上节目的原因",
@@ -2327,6 +2463,14 @@
       "num": 109106,
       "word": "杨瀚森最后一场夏联不打",
       "onboard_time": 1752900622,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83550,
+      "num": 149312,
+      "word": "球迷高举马龙你是最好的队长",
+      "onboard_time": 1752924139,
       "rank": 39,
       "category": "体育"
     },
@@ -2417,6 +2561,14 @@
       "onboard_time": 1752851423,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75721,
+      "num": 170384,
+      "word": "名创优品M17充电宝3C标识为多边形",
+      "onboard_time": 1752922881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72684,
@@ -2627,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45520,
+      "num": 173737,
+      "word": "庞博的主持业务不止在喜单",
+      "onboard_time": 1752923181,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45476,
       "num": 241516,
       "word": "余杭有人跨区12公里洗澡吃饭",
@@ -2689,6 +2849,14 @@
       "onboard_time": 1752909679,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 36518,
+      "num": 131580,
+      "word": "苏超南通vs盐城",
+      "onboard_time": 1752924139,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 35926,
