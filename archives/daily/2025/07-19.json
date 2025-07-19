@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752897436700,
+  "endTime": 1752899872861,
   "band_list": [
     {
       "raw_hot": 3313614,
@@ -19,6 +19,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1409215,
+      "num": 1409215,
+      "word": "女子称赤裸上半身体检遭护士闯入",
+      "onboard_time": 1752894679,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1378695,
       "num": 1378695,
       "word": "演唱会亲密互动被投屏CEO道歉",
@@ -35,12 +43,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1257018,
-      "num": 1257018,
-      "word": "女子称赤裸上半身体检遭护士闯入",
-      "onboard_time": 1752894679,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 1114444,
+      "num": 1114444,
+      "word": "椰子水 玉米水",
+      "onboard_time": 1752893840,
+      "rank": 4,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 996153,
@@ -49,14 +57,6 @@
       "onboard_time": 1752882621,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 943977,
-      "num": 943977,
-      "word": "椰子水 玉米水",
-      "onboard_time": 1752893840,
-      "rank": 4,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 918623,
@@ -139,12 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 625032,
-      "num": 625032,
+      "raw_hot": 628550,
+      "num": 628550,
       "word": "选秀史上第一个人气第二被淘汰",
       "onboard_time": 1752896602,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 624483,
+      "num": 425851,
+      "word": "暴走团群主回应占道逼停120和119",
+      "onboard_time": 1752894140,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556987,
@@ -155,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 507699,
-      "num": 425851,
-      "word": "暴走团群主回应占道逼停120和119",
-      "onboard_time": 1752894140,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 531173,
+      "num": 552351,
+      "word": "丁太升建议单依纯离常石磊远点",
+      "onboard_time": 1752895281,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 497477,
@@ -211,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 428160,
-      "num": 552351,
-      "word": "丁太升建议单依纯离常石磊远点",
-      "onboard_time": 1752895281,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 425173,
+      "num": 425173,
+      "word": "医用冰淇淋",
+      "onboard_time": 1752893780,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 378903,
@@ -227,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378686,
+      "num": 378686,
+      "word": "特朗普称印巴冲突五架战机被击落",
+      "onboard_time": 1752896602,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 363762,
       "num": 363762,
       "word": "黄奕女儿想去韩国当练习生",
       "onboard_time": 1752880218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359032,
+      "num": 359032,
+      "word": "杭州 食品加工厂",
+      "onboard_time": 1752896722,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351013,
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322886,
+      "num": 322886,
+      "word": "你好星期六双人搭档舞会派对",
+      "onboard_time": 1752896662,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319408,
       "num": 529667,
       "word": "丁禹兮曾面试过流星花园",
@@ -307,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263907,
+      "num": 243579,
+      "word": "梓渝ins新头像",
+      "onboard_time": 1752895822,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262818,
       "num": 262818,
       "word": "杭州动物园表演时一男童被扒裤子",
@@ -323,12 +363,28 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 246144,
+      "num": 246144,
+      "word": "运动一年瘦40斤变成了刘昊然",
+      "onboard_time": 1752897203,
+      "rank": 49,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 245644,
       "num": 245644,
       "word": "于正说拍了近50部剧也就扑了4部",
       "onboard_time": 1752883459,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243082,
+      "num": 397973,
+      "word": "入职体检查出乙肝被公司拒录合理吗",
+      "onboard_time": 1752897082,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242620,
@@ -355,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223231,
-      "num": 223231,
-      "word": "你好星期六双人搭档舞会派对",
-      "onboard_time": 1752896662,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 226640,
+      "num": 226640,
+      "word": "朝雪录凶手一案更比一案疯",
+      "onboard_time": 1752898281,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 219606,
@@ -395,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212758,
-      "num": 186620,
-      "word": "梓渝ins新头像",
-      "onboard_time": 1752895822,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208033,
       "num": 208033,
       "word": "何老师哽咽了",
@@ -435,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199593,
-      "num": 199593,
-      "word": "医用冰淇淋",
-      "onboard_time": 1752893780,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 198825,
       "num": 254035,
       "word": "美团医美承包颜值海岸线",
@@ -459,6 +499,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195730,
+      "num": 234399,
+      "word": "长安的荔枝一骑红尘妃子笑新解",
+      "onboard_time": 1752898942,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194985,
+      "num": 194985,
+      "word": "爱得多的人总先掉眼泪",
+      "onboard_time": 1752899301,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194917,
       "num": 156688,
       "word": "功夫胖 怎么退款",
@@ -467,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192175,
-      "num": 192175,
-      "word": "特朗普称印巴冲突五架战机被击落",
-      "onboard_time": 1752896602,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 193520,
+      "num": 193520,
+      "word": "人民日报刘宇宁访谈完整版",
+      "onboard_time": 1752899121,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 192154,
@@ -555,14 +611,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 154153,
-      "num": 154153,
-      "word": "入职体检查出乙肝被公司拒录合理吗",
-      "onboard_time": 1752897082,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153712,
       "num": 364520,
       "word": "特朗普起诉默多克及新闻集团",
@@ -576,6 +624,14 @@
       "word": "月经叫例假却不放假",
       "onboard_time": 1752892820,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151715,
+      "num": 151715,
+      "word": "原来很多歌手都不会用话筒",
+      "onboard_time": 1752897382,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -635,20 +691,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126611,
-      "num": 126611,
-      "word": "杭州 食品加工厂",
-      "onboard_time": 1752896722,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125549,
       "num": 125549,
       "word": "30天瘦了20斤的变化",
       "onboard_time": 1752895460,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125340,
+      "num": 125340,
+      "word": "上班跟结婚是一样的感受",
+      "onboard_time": 1752899000,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 125037,
@@ -659,11 +715,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122249,
-      "num": 122249,
-      "word": "原来很多歌手都不会用话筒",
-      "onboard_time": 1752897382,
-      "rank": 48,
+      "raw_hot": 121241,
+      "num": 121241,
+      "word": "这版bangbangbang权志龙来了都没招",
+      "onboard_time": 1752898341,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -699,20 +755,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118150,
-      "num": 118150,
-      "word": "运动一年瘦40斤变成了刘昊然",
-      "onboard_time": 1752897203,
-      "rank": 49,
-      "category": "艺人,运动健身"
-    },
-    {
       "raw_hot": 116450,
       "num": 116450,
       "word": "过期眼影 细菌感染",
       "onboard_time": 1752893602,
       "rank": 43,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 116237,
+      "num": 116237,
+      "word": "从此杭州人最薄弱的地方就有两个了",
+      "onboard_time": 1752899661,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115409,
@@ -739,6 +795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112151,
+      "num": 112151,
+      "word": "浴室 沙雷氏菌",
+      "onboard_time": 1752896542,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111391,
       "num": 105350,
       "word": "我们爱纯这次是第一名",
@@ -761,6 +825,14 @@
       "onboard_time": 1752893900,
       "rank": 45,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 109466,
+      "num": 109466,
+      "word": "外国游客在青岛排长队喝免费啤酒",
+      "onboard_time": 1752899361,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109423,
@@ -803,12 +875,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107152,
+      "num": 107152,
+      "word": "杨紫李现致金疙瘩海报",
+      "onboard_time": 1752897741,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105752,
       "num": 513212,
       "word": "中国人民抗战胜利80周年",
       "onboard_time": 1752895881,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105204,
+      "num": 105204,
+      "word": "粪水澡",
+      "onboard_time": 1752899602,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104989,
@@ -849,6 +937,14 @@
       "onboard_time": 1752844164,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100343,
+      "num": 100343,
+      "word": "见过公主抱没见过公主驮",
+      "onboard_time": 1752898821,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 100246,
@@ -921,6 +1017,14 @@
       "onboard_time": 1752855502,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89591,
+      "num": 89591,
+      "word": "杭州自来水 你让我颜面尽失",
+      "onboard_time": 1752899841,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89047,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1752813983,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67676,
+      "num": 1185283,
+      "word": "世界市长对话青岛",
+      "onboard_time": 1752898521,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65371,
@@ -1302,6 +1414,9 @@
   "hotgov_list": [
     {
       "word": "#万里行程映初心#"
+    },
+    {
+      "word": "#一棵大榕树尽显习近平的城市理念#"
     }
   ]
 }
