@@ -1,6 +1,6 @@
 {
   "startTime": 1752337878390,
-  "endTime": 1752907924734,
+  "endTime": 1752909934083,
   "band_list": [
     {
       "raw_hot": 14101624,
@@ -1395,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867310,
+      "num": 501338,
+      "word": "怀孕是一场服从性测试",
+      "onboard_time": 1752906681,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 866559,
       "num": 866559,
       "word": "帮爷爷查话费时看到的短信",
@@ -2163,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642084,
+      "num": 570214,
+      "word": "王楚钦逛动物园",
+      "onboard_time": 1752907162,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 640225,
       "num": 640225,
       "word": "可口可乐回应特朗普要求改配方",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1752716182,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 581272,
+      "num": 571553,
+      "word": "宋小宝这下真成王嘉尔了",
+      "onboard_time": 1752906742,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 580753,
@@ -2955,14 +2979,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 501338,
-      "num": 501338,
-      "word": "怀孕是一场服从性测试",
-      "onboard_time": 1752906681,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 499130,
       "num": 436024,
       "word": "袁泉夏雨15岁女儿罕见露面",
@@ -3091,14 +3107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 487148,
-      "num": 571553,
-      "word": "宋小宝这下真成王嘉尔了",
-      "onboard_time": 1752906742,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486402,
       "num": 313133,
       "word": "刘耀文红发",
@@ -3179,14 +3187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 474268,
-      "num": 570214,
-      "word": "王楚钦逛动物园",
-      "onboard_time": 1752907162,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 473073,
       "num": 272222,
       "word": "刘浩存跳舞",
@@ -3257,6 +3257,14 @@
       "onboard_time": 1752400401,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 459142,
+      "num": 369394,
+      "word": "周渝民夫妇被闺蜜诈骗事件",
+      "onboard_time": 1752908481,
+      "rank": 7,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 458600,
@@ -4476,7 +4484,7 @@
     },
     {
       "raw_hot": 338322,
-      "num": 338322,
+      "num": 338664,
       "word": "3对母女乘车阿坝坠河已有5人遇难",
       "onboard_time": 1752904341,
       "rank": 7,
@@ -6419,6 +6427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238389,
+      "num": 238389,
+      "word": "狗尾巴草 去痣",
+      "onboard_time": 1752906501,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "ye 退票",
@@ -7883,6 +7899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200133,
+      "num": 200133,
+      "word": "为什么女孩子一定要是香香软软",
+      "onboard_time": 1752907881,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200123,
       "num": 200123,
       "word": "时代少年团 王牌对王牌",
@@ -8209,14 +8233,6 @@
       "onboard_time": 1752456022,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194802,
-      "num": 194802,
-      "word": "狗尾巴草 去痣",
-      "onboard_time": 1752906501,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 194774,
@@ -8697,6 +8713,14 @@
       "onboard_time": 1752460222,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188266,
+      "num": 354677,
+      "word": "女子称长沙一酒店花洒有排泄物",
+      "onboard_time": 1752905541,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188062,
@@ -10683,6 +10707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160071,
+      "num": 322383,
+      "word": "饭店老板坦言不搞双标就活不下去",
+      "onboard_time": 1752908481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159969,
       "num": 159969,
       "word": "脱友2第一个直接晋级女演员",
@@ -10929,6 +10961,14 @@
       "onboard_time": 1752464063,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156537,
+      "num": 326168,
+      "word": "cp解绑总有一个人要先改变",
+      "onboard_time": 1752909022,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 156376,
@@ -11249,14 +11289,6 @@
       "onboard_time": 1752563842,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152724,
-      "num": 152724,
-      "word": "女子称长沙一酒店花洒有排泄物",
-      "onboard_time": 1752905541,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152630,
@@ -12011,6 +12043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145167,
+      "num": 145167,
+      "word": "耳洞 自毁与装饰",
+      "onboard_time": 1752909022,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145096,
       "num": 354472,
       "word": "日本防卫白皮书粗暴干涉中国内政",
@@ -12635,6 +12675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139294,
+      "num": 139294,
+      "word": "东方明珠 蜜雪冰城",
+      "onboard_time": 1752906501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139258,
       "num": 240338,
       "word": "樱桃琥珀剧宣直播",
@@ -12793,6 +12841,14 @@
       "onboard_time": 1752816142,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137886,
+      "num": 137886,
+      "word": "沈腾这是真daddy",
+      "onboard_time": 1752907941,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 137766,
@@ -13209,14 +13265,6 @@
       "onboard_time": 1752466882,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 133802,
-      "num": 133802,
-      "word": "东方明珠 蜜雪冰城",
-      "onboard_time": 1752906501,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 133656,
@@ -13849,6 +13897,14 @@
       "onboard_time": 1752485840,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "你行你上",
+      "onboard_time": 1752770719,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 128099,
@@ -14523,6 +14579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122667,
+      "num": 122667,
+      "word": "服务员添汤时祖孙被烫烂皮肉",
+      "onboard_time": 1752909441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122664,
       "num": 122664,
       "word": "比特币突破12万美元关口",
@@ -15121,6 +15185,14 @@
       "onboard_time": 1752641063,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118670,
+      "num": 118670,
+      "word": "阮经天好一个工地男模",
+      "onboard_time": 1752909140,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 118656,
@@ -16251,14 +16323,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 110292,
-      "num": 110292,
-      "word": "为什么女孩子一定要是香香软软",
-      "onboard_time": 1752907881,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110220,
       "num": 134518,
       "word": "真正的关系一定是充满羁绊的",
@@ -16683,6 +16747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107085,
+      "num": 107085,
+      "word": "周雨说王楚钦奥运会之前状态很好",
+      "onboard_time": 1752908001,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107051,
       "num": 107051,
       "word": "建议不要边吃饭边看朝雪录",
@@ -16729,6 +16801,14 @@
       "onboard_time": 1752746722,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106741,
+      "num": 106741,
+      "word": "酒店店长回应女子称花洒有排泄物",
+      "onboard_time": 1752907821,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106714,
@@ -17513,6 +17593,14 @@
       "onboard_time": 1752540442,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100676,
+      "num": 100676,
+      "word": "EDGM对战RW",
+      "onboard_time": 1752908902,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100522,
@@ -20339,6 +20427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51119,
+      "num": 146321,
+      "word": "因缺根筷子退款不退货后被商家起诉",
+      "onboard_time": 1752908481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50542,
       "num": 105408,
       "word": "MG高管说定价就抄不敢提的品牌",
@@ -20369,14 +20465,6 @@
       "onboard_time": 1752441974,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 49992,
-      "num": 71016,
-      "word": "你行你上",
-      "onboard_time": 1752770719,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 49982,
@@ -20873,6 +20961,14 @@
       "onboard_time": 1752824481,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37298,
+      "num": 120893,
+      "word": "柠檬巴巴露亚",
+      "onboard_time": 1752909679,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 37243,
@@ -22017,6 +22113,14 @@
       "onboard_time": 1752906021,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17003,
+      "num": 120010,
+      "word": "龚俊拿蛇皮袋走机场",
+      "onboard_time": 1752909743,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 16710,

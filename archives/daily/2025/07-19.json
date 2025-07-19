@@ -1,6 +1,6 @@
 {
   "startTime": 1752856540882,
-  "endTime": 1752907924734,
+  "endTime": 1752909934083,
   "band_list": [
     {
       "raw_hot": 3313614,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867310,
+      "num": 501338,
+      "word": "怀孕是一场服从性测试",
+      "onboard_time": 1752906681,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 864112,
       "num": 867858,
       "word": "歌手排名",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642084,
+      "num": 570214,
+      "word": "王楚钦逛动物园",
+      "onboard_time": 1752907162,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 628550,
       "num": 628550,
       "word": "选秀史上第一个人气第二被淘汰",
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581272,
+      "num": 571553,
+      "word": "宋小宝这下真成王嘉尔了",
+      "onboard_time": 1752906742,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566716,
       "num": 536005,
       "word": "梓渝回应首登大型音乐节舞台",
@@ -232,14 +256,6 @@
       "word": "丁太升建议单依纯离常石磊远点",
       "onboard_time": 1752895281,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 501338,
-      "num": 501338,
-      "word": "怀孕是一场服从性测试",
-      "onboard_time": 1752906681,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487148,
-      "num": 571553,
-      "word": "宋小宝这下真成王嘉尔了",
-      "onboard_time": 1752906742,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486748,
       "num": 486748,
       "word": "网传杭州水务集团刘某某潜逃系谣言",
@@ -291,20 +299,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 474268,
-      "num": 570214,
-      "word": "王楚钦逛动物园",
-      "onboard_time": 1752907162,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 461920,
       "num": 461920,
       "word": "市监总局约谈饿了么美团京东",
       "onboard_time": 1752843865,
       "rank": 7,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 459142,
+      "num": 369394,
+      "word": "周渝民夫妇被闺蜜诈骗事件",
+      "onboard_time": 1752908481,
+      "rank": 7,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 454853,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 338322,
-      "num": 338322,
+      "num": 338664,
       "word": "3对母女乘车阿坝坠河已有5人遇难",
       "onboard_time": 1752904341,
       "rank": 7,
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238389,
+      "num": 238389,
+      "word": "狗尾巴草 去痣",
+      "onboard_time": 1752906501,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 228623,
       "num": 228623,
       "word": "张馨予回应生吞蚂蚁",
@@ -635,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200133,
+      "num": 200133,
+      "word": "为什么女孩子一定要是香香软软",
+      "onboard_time": 1752907881,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199079,
       "num": 199079,
       "word": "梓渝音乐节出发机场路透",
@@ -683,19 +707,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194802,
-      "num": 194802,
-      "word": "狗尾巴草 去痣",
-      "onboard_time": 1752906501,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 192154,
       "num": 196051,
       "word": "2025第200天",
       "onboard_time": 1752880399,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188266,
+      "num": 354677,
+      "word": "女子称长沙一酒店花洒有排泄物",
+      "onboard_time": 1752905541,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -811,11 +835,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160071,
+      "num": 322383,
+      "word": "饭店老板坦言不搞双标就活不下去",
+      "onboard_time": 1752908481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159969,
       "num": 159969,
       "word": "脱友2第一个直接晋级女演员",
       "onboard_time": 1752902361,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156537,
+      "num": 326168,
+      "word": "cp解绑总有一个人要先改变",
+      "onboard_time": 1752909022,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -841,14 +881,6 @@
       "onboard_time": 1752888980,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 152724,
-      "num": 152724,
-      "word": "女子称长沙一酒店花洒有排泄物",
-      "onboard_time": 1752905541,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151973,
@@ -899,6 +931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 145167,
+      "num": 145167,
+      "word": "耳洞 自毁与装饰",
+      "onboard_time": 1752909022,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144648,
       "num": 144648,
       "word": "易烊千玺生气会吃辣条",
@@ -939,20 +979,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139294,
+      "num": 139294,
+      "word": "东方明珠 蜜雪冰城",
+      "onboard_time": 1752906501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 137886,
+      "num": 137886,
+      "word": "沈腾这是真daddy",
+      "onboard_time": 1752907941,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135048,
       "num": 135048,
       "word": "原来钟丽丽这么会跳舞",
       "onboard_time": 1752902421,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133802,
-      "num": 133802,
-      "word": "东方明珠 蜜雪冰城",
-      "onboard_time": 1752906501,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 133550,
@@ -1003,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "你行你上",
+      "onboard_time": 1752904701,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125549,
       "num": 125549,
       "word": "30天瘦了20斤的变化",
@@ -1043,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122667,
+      "num": 122667,
+      "word": "服务员添汤时祖孙被烫烂皮肉",
+      "onboard_time": 1752909441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121241,
       "num": 121241,
       "word": "这版bangbangbang权志龙来了都没招",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1752855442,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118670,
+      "num": 118670,
+      "word": "阮经天好一个工地男模",
+      "onboard_time": 1752909140,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 118400,
@@ -1187,14 +1259,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 110292,
-      "num": 110292,
-      "word": "为什么女孩子一定要是香香软软",
-      "onboard_time": 1752907881,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110095,
       "num": 110095,
       "word": "美国意图用H20延缓中国人工智能发展",
@@ -1291,6 +1355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107085,
+      "num": 107085,
+      "word": "周雨说王楚钦奥运会之前状态很好",
+      "onboard_time": 1752908001,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106741,
+      "num": 106741,
+      "word": "酒店店长回应女子称花洒有排泄物",
+      "onboard_time": 1752907821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105752,
       "num": 513212,
       "word": "中国人民抗战胜利80周年",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1752903742,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100676,
+      "num": 100676,
+      "word": "EDGM对战RW",
+      "onboard_time": 1752908902,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100343,
@@ -1795,6 +1883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51119,
+      "num": 146321,
+      "word": "因缺根筷子退款不退货后被商家起诉",
+      "onboard_time": 1752908481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46865,
       "num": 46865,
       "word": "外交部再次提醒赴菲留学人员",
@@ -1825,6 +1921,14 @@
       "onboard_time": 1752899961,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37298,
+      "num": 120893,
+      "word": "柠檬巴巴露亚",
+      "onboard_time": 1752909679,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 35926,
@@ -1937,6 +2041,14 @@
       "onboard_time": 1752906021,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17003,
+      "num": 120010,
+      "word": "龚俊拿蛇皮袋走机场",
+      "onboard_time": 1752909743,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 16036,

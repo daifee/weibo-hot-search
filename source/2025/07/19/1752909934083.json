@@ -1,0 +1,410 @@
+{
+  "runTime": 1752909934083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032622,
+        "num": 1165219,
+        "word": "被骗至缅甸失联高考生已找到",
+        "onboard_time": 1752903502,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 735433,
+        "num": 735433,
+        "word": "抗癌网红呆呆羊去世",
+        "onboard_time": 1752905841,
+        "rank": 1,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 53321,
+        "num": 444726,
+        "word": "世界市长对话青岛",
+        "onboard_time": 1752898521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412792,
+        "num": 412792,
+        "word": "韩国申遗全面溃败",
+        "onboard_time": 1752884059,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 642084,
+        "num": 403366,
+        "word": "王楚钦逛动物园",
+        "onboard_time": 1752907162,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581272,
+        "num": 389119,
+        "word": "宋小宝这下真成王嘉尔了",
+        "onboard_time": 1752906742,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509999,
+        "num": 382521,
+        "word": "人民日报刘宇宁访谈完整版",
+        "onboard_time": 1752899121,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459142,
+        "num": 369394,
+        "word": "周渝民夫妇被闺蜜诈骗事件",
+        "onboard_time": 1752908481,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 355437,
+        "num": 355437,
+        "word": "椰子水 玉米水",
+        "onboard_time": 1752893840,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 188266,
+        "num": 354677,
+        "word": "女子称长沙一酒店花洒有排泄物",
+        "onboard_time": 1752905541,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1030475,
+        "num": 351492,
+        "word": "演唱会亲密搂抱两人均被停职",
+        "onboard_time": 1752893602,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 867310,
+        "num": 346486,
+        "word": "怀孕是一场服从性测试",
+        "onboard_time": 1752906681,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680724,
+        "num": 345729,
+        "word": "安全裤不就是防走光的吗",
+        "onboard_time": 1752903742,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496368,
+        "num": 340008,
+        "word": "不要为了省钱而去商场吹空调",
+        "onboard_time": 1752903742,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273697,
+        "num": 338664,
+        "word": "3对母女乘车阿坝坠河已有5人遇难",
+        "onboard_time": 1752904341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380336,
+        "num": 334396,
+        "word": "李兰迪敖瑞鹏芭莎",
+        "onboard_time": 1752905122,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466737,
+        "num": 331793,
+        "word": "女子称赤裸上半身体检遭护士闯入",
+        "onboard_time": 1752894679,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32417,
+        "num": 330572,
+        "word": "解限机引领全球科幻潮流",
+        "onboard_time": 1752905602,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156537,
+        "num": 326168,
+        "word": "cp解绑总有一个人要先改变",
+        "onboard_time": 1752909022,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160071,
+        "num": 322383,
+        "word": "饭店老板坦言不搞双标就活不下去",
+        "onboard_time": 1752908481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376897,
+        "num": 321138,
+        "word": "梓渝回应首登大型音乐节舞台",
+        "onboard_time": 1752903142,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371934,
+        "num": 316852,
+        "word": "叮叮怀孕",
+        "onboard_time": 1752901582,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 315241,
+        "num": 315241,
+        "word": "俄罗斯母女住在印度蛇洞九个月",
+        "onboard_time": 1752905602,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280449,
+        "num": 280449,
+        "word": "时代峰峻719",
+        "onboard_time": 1752900982,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238389,
+        "num": 238389,
+        "word": "狗尾巴草 去痣",
+        "onboard_time": 1752906501,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200133,
+        "num": 200133,
+        "word": "为什么女孩子一定要是香香软软",
+        "onboard_time": 1752907881,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148874,
+        "num": 148874,
+        "word": "歌手",
+        "onboard_time": 1752902061,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159519,
+        "num": 148722,
+        "word": "刘亦菲20年前在男生心中的地位",
+        "onboard_time": 1752902601,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148567,
+        "num": 148567,
+        "word": "生菜 寄生虫",
+        "onboard_time": 1752892101,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51119,
+        "num": 146321,
+        "word": "因缺根筷子退款不退货后被商家起诉",
+        "onboard_time": 1752908481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145167,
+        "num": 145167,
+        "word": "耳洞 自毁与装饰",
+        "onboard_time": 1752909022,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139294,
+        "num": 139294,
+        "word": "东方明珠 蜜雪冰城",
+        "onboard_time": 1752906501,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139081,
+        "num": 139081,
+        "word": "朴宝剑苦尽甘橘",
+        "onboard_time": 1752907041,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137886,
+        "num": 137886,
+        "word": "沈腾这是真daddy",
+        "onboard_time": 1752907941,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134021,
+        "num": 134021,
+        "word": "选秀史上第一个人气第二被淘汰",
+        "onboard_time": 1752896602,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131214,
+        "num": 131214,
+        "word": "刘耀文红发",
+        "onboard_time": 1752900861,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128128,
+        "num": 128128,
+        "word": "你行你上",
+        "onboard_time": 1752904701,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122667,
+        "num": 122667,
+        "word": "服务员添汤时祖孙被烫烂皮肉",
+        "onboard_time": 1752909441,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37298,
+        "num": 120893,
+        "word": "柠檬巴巴露亚",
+        "onboard_time": 1752909679,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17003,
+        "num": 120010,
+        "word": "龚俊拿蛇皮袋走机场",
+        "onboard_time": 1752909743,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119919,
+        "num": 119919,
+        "word": "英国老太经营毒品帝国给猫买奢侈品",
+        "onboard_time": 1752905961,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118670,
+        "num": 118670,
+        "word": "阮经天好一个工地男模",
+        "onboard_time": 1752909140,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115752,
+        "num": 115752,
+        "word": "2025年三伏共30天",
+        "onboard_time": 1752888019,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113645,
+        "num": 113645,
+        "word": "暴走团群主回应占道逼停120和119",
+        "onboard_time": 1752894140,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109948,
+        "num": 109948,
+        "word": "梓渝音乐节出发机场路透",
+        "onboard_time": 1752906922,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107085,
+        "num": 107085,
+        "word": "周雨说王楚钦奥运会之前状态很好",
+        "onboard_time": 1752908001,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106741,
+        "num": 106741,
+        "word": "酒店店长回应女子称花洒有排泄物",
+        "onboard_time": 1752907821,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100676,
+        "num": 100676,
+        "word": "EDGM对战RW",
+        "onboard_time": 1752908902,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99207,
+        "num": 99207,
+        "word": "下巴凸起的小颗粒到底是啥",
+        "onboard_time": 1752903680,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99155,
+        "num": 99155,
+        "word": "易烊千玺生气会吃辣条",
+        "onboard_time": 1752903801,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一棵大榕树尽显习近平的城市理念#"
+    }
+  }
+}
