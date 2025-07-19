@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/20 00:31:59 ~ 2025/07/20 05:25:05
+本榜单时间：2025/07/20 00:31:59 ~ 2025/07/20 05:40:25
 </p>
 </blockquote>
 <p>
@@ -435,6 +435,12 @@ TXT预告（热度：22133）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%85%B5%E5%86%9B%E8%80%83688%E5%88%86%E8%A2%AB%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%23" target="weibo">
+女兵军考688分被国防科大录取（热度：21128）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%A8%E5%B0%BC%23" target="weibo">
 门尼（热度：20223）
 </a>
@@ -447,14 +453,8 @@ TXT预告（热度：22133）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%85%B5%E5%86%9B%E8%80%83688%E5%88%86%E8%A2%AB%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E5%BD%95%E5%8F%96%23" target="weibo">
-女兵军考688分被国防科大录取（热度：16402）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E5%87%BA%E4%B8%AA%E6%89%B9%E9%87%8F%E9%80%80%E7%BE%A4%23" target="weibo">
-微信能不能出个批量退群（热度：14171）
+微信能不能出个批量退群（热度：16111）
 </a>
 </li>
 
