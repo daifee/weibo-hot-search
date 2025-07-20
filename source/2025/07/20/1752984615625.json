@@ -1,0 +1,410 @@
+{
+  "runTime": 1752984615625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219673,
+        "num": 1219673,
+        "word": "美国卖酱香饼的中国小伙被捕",
+        "onboard_time": 1752974659,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1116371,
+        "num": 1116371,
+        "word": "郑乃馨演唱会抱着男友大哭",
+        "onboard_time": 1752974901,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170012,
+        "num": 954071,
+        "word": "入伏吃什么",
+        "onboard_time": 1752982581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1901088,
+        "num": 933081,
+        "word": "杨洋",
+        "onboard_time": 1752979100,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 871165,
+        "num": 871165,
+        "word": "韩国人装中国人在泰国打架",
+        "onboard_time": 1752983301,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 737920,
+        "num": 737920,
+        "word": "手机壳 医疗废料",
+        "onboard_time": 1752976941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572427,
+        "num": 572427,
+        "word": "女烈士遗体被发现时布满弹孔",
+        "onboard_time": 1752979280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523864,
+        "num": 523864,
+        "word": "带儿子出车双双遇难司机亲属发声",
+        "onboard_time": 1752977481,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495137,
+        "num": 495137,
+        "word": "三伏天最易生病也最养人",
+        "onboard_time": 1752978979,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295551,
+        "num": 429947,
+        "word": "美国男子戴金属链闯核磁共振室丧命",
+        "onboard_time": 1752979641,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 706414,
+        "num": 420831,
+        "word": "建议35岁之前不要买车买房",
+        "onboard_time": 1752978621,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523885,
+        "num": 418298,
+        "word": "梓渝电影客串",
+        "onboard_time": 1752981322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408663,
+        "num": 408663,
+        "word": "程潇脸肿了",
+        "onboard_time": 1752967698,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403608,
+        "num": 403608,
+        "word": "深圳台风",
+        "onboard_time": 1752975140,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354486,
+        "num": 354486,
+        "word": "小鸟因无价值被留捕鸟网上风干了",
+        "onboard_time": 1752978621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336933,
+        "num": 336933,
+        "word": "凡人修仙传",
+        "onboard_time": 1752978979,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110901,
+        "num": 316065,
+        "word": "人民日报对话长城汽车魏建军",
+        "onboard_time": 1752980961,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 303554,
+        "num": 303554,
+        "word": "妻子抑郁症发作伤人丈夫恼怒下反杀",
+        "onboard_time": 1752939563,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178709,
+        "num": 280263,
+        "word": "张子枫我只是想当一个演员",
+        "onboard_time": 1752983000,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276876,
+        "num": 276876,
+        "word": "高铁禁食方便面旅客吃什么",
+        "onboard_time": 1752982941,
+        "rank": 19,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 276780,
+        "num": 276780,
+        "word": "美国鳄鱼恶魔岛一个笼子32人",
+        "onboard_time": 1752979280,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275649,
+        "num": 275649,
+        "word": "高考604分选择定向军士女生发声",
+        "onboard_time": 1752981440,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 239596,
+        "num": 239596,
+        "word": "建议定期更换手机壳",
+        "onboard_time": 1752984440,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229333,
+        "num": 229333,
+        "word": "许梦圆央视网短剧女主",
+        "onboard_time": 1752983422,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220071,
+        "num": 220071,
+        "word": "香港台风",
+        "onboard_time": 1752979881,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217866,
+        "num": 217866,
+        "word": "以色列要出大事了",
+        "onboard_time": 1752975079,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216701,
+        "num": 216701,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1752982281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177851,
+        "num": 177851,
+        "word": "徐明浩评大展宏图审美不该看流量",
+        "onboard_time": 1752982461,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175575,
+        "num": 175575,
+        "word": "台风韦帕",
+        "onboard_time": 1752972139,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102623,
+        "num": 173042,
+        "word": "广东84个台风预警信号生效",
+        "onboard_time": 1752984082,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310452,
+        "num": 172988,
+        "word": "691分考上北大惊动了宗族长老",
+        "onboard_time": 1752983661,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172899,
+        "num": 172899,
+        "word": "梓渝凌晨彩排",
+        "onboard_time": 1752976281,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167686,
+        "num": 167686,
+        "word": "郝蕾直播录制当众甩脸",
+        "onboard_time": 1752977001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164235,
+        "num": 164235,
+        "word": "千万别选择在暑假结婚",
+        "onboard_time": 1752979100,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160634,
+        "num": 160634,
+        "word": "最新央企中国雅江集团成立",
+        "onboard_time": 1752983902,
+        "rank": 34,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 147802,
+        "num": 147802,
+        "word": "女孩撞到相机家长反要道歉",
+        "onboard_time": 1752981921,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146953,
+        "num": 146953,
+        "word": "肖战更名后首发博",
+        "onboard_time": 1752967516,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143293,
+        "num": 143293,
+        "word": "严浩翔被盛宇歌名吓跑",
+        "onboard_time": 1752983661,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142355,
+        "num": 142355,
+        "word": "一人一句为福宝送生日祝福",
+        "onboard_time": 1752969317,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133567,
+        "num": 133567,
+        "word": "官方通报余杭自来水异味",
+        "onboard_time": 1752910282,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 130532,
+        "num": 130532,
+        "word": "韦帕台风眼已打开",
+        "onboard_time": 1752975800,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130233,
+        "num": 130233,
+        "word": "你身边有人一件衣服穿一年吗",
+        "onboard_time": 1752983902,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128436,
+        "num": 128436,
+        "word": "恋与深空",
+        "onboard_time": 1752981022,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127433,
+        "num": 127433,
+        "word": "韦世豪",
+        "onboard_time": 1752976221,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124863,
+        "num": 124863,
+        "word": "外卖大战被叫停后仍有免费饮料",
+        "onboard_time": 1752942502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124076,
+        "num": 124076,
+        "word": "医生说下肢是人体自带的血糖仪",
+        "onboard_time": 1752936323,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120863,
+        "num": 120863,
+        "word": "徐明浩轻轻一跳就秒了",
+        "onboard_time": 1752980542,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115114,
+        "num": 115114,
+        "word": "三伏天夏断食21天",
+        "onboard_time": 1752967277,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113320,
+        "num": 113320,
+        "word": "德甲对手都开始宣传樊振东了",
+        "onboard_time": 1752984140,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111635,
+        "num": 111635,
+        "word": "摄像机关一下就能解决吗",
+        "onboard_time": 1752980301,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
