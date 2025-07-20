@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753036562785,
+  "endTime": 1753037409485,
   "band_list": [
     {
       "raw_hot": 2178759,
@@ -473,6 +473,14 @@
       "onboard_time": 1753025422,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62634,
+      "num": 46195,
+      "word": "汪苏泷粉丝被照顾的很好",
+      "onboard_time": 1753036695,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 61708,
