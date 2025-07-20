@@ -1,0 +1,410 @@
+{
+  "runTime": 1752990566497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1551648,
+        "num": 1551648,
+        "word": "691分考上北大惊动了宗族长老",
+        "onboard_time": 1752983661,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 917655,
+        "num": 917655,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 108571,
+        "num": 885448,
+        "word": "入伏吃什么",
+        "onboard_time": 1752982581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871634,
+        "num": 871634,
+        "word": "韩国人装中国人在泰国打架",
+        "onboard_time": 1752983301,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 863290,
+        "num": 863290,
+        "word": "取14万给孩子结婚包红包银行报警",
+        "onboard_time": 1752985822,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627337,
+        "num": 627337,
+        "word": "郑乃馨演唱会抱着男友大哭",
+        "onboard_time": 1752974901,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 486951,
+        "num": 486951,
+        "word": "原来生日帽是这样戴的",
+        "onboard_time": 1752985761,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457471,
+        "num": 457471,
+        "word": "吴彤你就这么把王牌9给宣了",
+        "onboard_time": 1752987502,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405528,
+        "num": 405528,
+        "word": "梓渝客串飞驰人生3",
+        "onboard_time": 1752986421,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402974,
+        "num": 402974,
+        "word": "美国卖酱香饼的中国小伙被捕",
+        "onboard_time": 1752974659,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2384649,
+        "num": 393659,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263693,
+        "num": 263693,
+        "word": "女子27万存款差2天到期执意要取",
+        "onboard_time": 1752984741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262258,
+        "num": 262258,
+        "word": "广州台风",
+        "onboard_time": 1752987261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318281,
+        "num": 260156,
+        "word": "梓渝音乐节",
+        "onboard_time": 1752988519,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255010,
+        "num": 255010,
+        "word": "程潇脸肿了",
+        "onboard_time": 1752967698,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254147,
+        "num": 254147,
+        "word": "建议35岁之前不要买车买房",
+        "onboard_time": 1752978621,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236828,
+        "num": 236828,
+        "word": "手机壳 医疗废料",
+        "onboard_time": 1752976941,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203894,
+        "num": 203894,
+        "word": "新还珠格格回芒果啦",
+        "onboard_time": 1752988761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100993,
+        "num": 203293,
+        "word": "严浩翔万妮达下狗战队团魂这一块",
+        "onboard_time": 1752989842,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203200,
+        "num": 203200,
+        "word": "AG出战沙特EWC",
+        "onboard_time": 1752989302,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217395,
+        "num": 201748,
+        "word": "建议定期更换手机壳",
+        "onboard_time": 1752984440,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187473,
+        "num": 187473,
+        "word": "深圳台风",
+        "onboard_time": 1752975140,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 181736,
+        "word": "简历 高p照片",
+        "onboard_time": 1752988160,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175671,
+        "num": 175671,
+        "word": "蔡徐坤一下飞机就去排练",
+        "onboard_time": 1752984741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167253,
+        "num": 167253,
+        "word": "汪东城露的好大方",
+        "onboard_time": 1752989781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167184,
+        "num": 167184,
+        "word": "熬夜到什么程度会猝死",
+        "onboard_time": 1752986602,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74092,
+        "num": 162035,
+        "word": "有人租用学生微信用于实施电诈",
+        "onboard_time": 1752990322,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161981,
+        "num": 161981,
+        "word": "priest到底为什么这么爱上班",
+        "onboard_time": 1752989121,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149881,
+        "num": 158297,
+        "word": "她不是女版毛不易她是罗小黑",
+        "onboard_time": 1752989962,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157443,
+        "num": 157443,
+        "word": "台风韦帕",
+        "onboard_time": 1752972139,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47917,
+        "num": 154091,
+        "word": "男孩被困沉船4小时奇迹生还",
+        "onboard_time": 1752987021,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151886,
+        "num": 151886,
+        "word": "女烈士遗体被发现时布满弹孔",
+        "onboard_time": 1752979280,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169104,
+        "num": 147872,
+        "word": "25岁确诊癌症晚期后的忠告",
+        "onboard_time": 1752989722,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134155,
+        "num": 143294,
+        "word": "杨洋重新定义长相平淡无奇",
+        "onboard_time": 1752987141,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134882,
+        "num": 143243,
+        "word": "扫毒风暴重新剪辑前7集",
+        "onboard_time": 1752987082,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143212,
+        "num": 143212,
+        "word": "三伏天最易生病也最养人",
+        "onboard_time": 1752978979,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129306,
+        "num": 129306,
+        "word": "以色列导弹致50死其中超20名儿童",
+        "onboard_time": 1752987622,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127016,
+        "num": 127016,
+        "word": "伊朗20多名儿童睡觉被炸死",
+        "onboard_time": 1752987021,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124027,
+        "num": 124027,
+        "word": "程潇沈月i人互助联盟",
+        "onboard_time": 1752990322,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101656,
+        "num": 122429,
+        "word": "马龙说没找到理由和乒乓球说再见",
+        "onboard_time": 1752990261,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121409,
+        "num": 121409,
+        "word": "为什么永远不能相信那些喝牛奶的角色",
+        "onboard_time": 1752990322,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120662,
+        "num": 120662,
+        "word": "时空中的绘旅人美术集2.0",
+        "onboard_time": 1752989422,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119302,
+        "num": 119302,
+        "word": "美国男子戴金属链闯核磁共振室丧命",
+        "onboard_time": 1752979641,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119600,
+        "num": 119029,
+        "word": "韩网友 为什么要亲亲才会给我发货",
+        "onboard_time": 1752986421,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107910,
+        "num": 107910,
+        "word": "高铁禁食方便面旅客吃什么",
+        "onboard_time": 1752982941,
+        "rank": 44,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 107569,
+        "num": 107569,
+        "word": "小鸟因无价值被留捕鸟网上风干了",
+        "onboard_time": 1752978621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105008,
+        "num": 105008,
+        "word": "X玖少年团成员集体改名",
+        "onboard_time": 1752986061,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104866,
+        "num": 104866,
+        "word": "沈梦辰晒和杨紫的合照",
+        "onboard_time": 1752988519,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103196,
+        "num": 103196,
+        "word": "一个在唱爱情一个在唱友情",
+        "onboard_time": 1752990502,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100191,
+        "num": 100191,
+        "word": "最新央企中国雅江集团成立",
+        "onboard_time": 1752983902,
+        "rank": 49,
+        "category": "国内时政,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}

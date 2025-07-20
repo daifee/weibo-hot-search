@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752989521588,
+  "endTime": 1752990566497,
   "band_list": [
     {
       "raw_hot": 2508537,
@@ -9,6 +9,14 @@
       "onboard_time": 1752979100,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2384649,
+      "num": 474957,
+      "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+      "onboard_time": 1752988942,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1914343,
@@ -32,14 +40,6 @@
       "word": "美国卖酱香饼的中国小伙被捕",
       "onboard_time": 1752974659,
       "rank": 0,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1567925,
-      "num": 474957,
-      "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
-      "onboard_time": 1752988942,
-      "rank": 10,
       "category": "海外新闻"
     },
     {
@@ -67,8 +67,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 857137,
-      "num": 857137,
+      "raw_hot": 917655,
+      "num": 917655,
+      "word": "水蒸蛋被改名日本蒸蛋",
+      "onboard_time": 1752988400,
+      "rank": 5,
+      "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 863290,
+      "num": 863290,
       "word": "取14万给孩子结婚包红包银行报警",
       "onboard_time": 1752985822,
       "rank": 9,
@@ -147,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 524048,
-      "num": 524048,
-      "word": "水蒸蛋被改名日本蒸蛋",
-      "onboard_time": 1752988400,
-      "rank": 5,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 523885,
       "num": 418298,
       "word": "梓渝电影客串",
@@ -195,6 +195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 486951,
+      "num": 486951,
+      "word": "原来生日帽是这样戴的",
+      "onboard_time": 1752985761,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 483928,
       "num": 483928,
       "word": "深圳台风",
@@ -209,14 +217,6 @@
       "onboard_time": 1752987502,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474469,
-      "num": 474469,
-      "word": "原来生日帽是这样戴的",
-      "onboard_time": 1752985761,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 469466,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318281,
+      "num": 274151,
+      "word": "梓渝音乐节",
+      "onboard_time": 1752988519,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 306070,
       "num": 279184,
       "word": "建议定期更换手机壳",
@@ -403,14 +411,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 274151,
-      "num": 274151,
-      "word": "梓渝音乐节",
-      "onboard_time": 1752988519,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 267751,
       "num": 267751,
       "word": "受台风影响香港挂出十号风球",
@@ -427,6 +427,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 262258,
+      "num": 262258,
+      "word": "广州台风",
+      "onboard_time": 1752987261,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258095,
       "num": 258095,
       "word": "杨洋重新定义长相平淡无奇",
@@ -441,14 +449,6 @@
       "onboard_time": 1752967277,
       "rank": 13,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 250620,
-      "num": 250620,
-      "word": "广州台风",
-      "onboard_time": 1752987261,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249697,
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203200,
+      "num": 203200,
+      "word": "AG出战沙特EWC",
+      "onboard_time": 1752989302,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "X玖少年团成员集体改名",
@@ -603,14 +611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188160,
-      "num": 188160,
-      "word": "AG出战沙特EWC",
-      "onboard_time": 1752989302,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187707,
       "num": 187707,
       "word": "马頔喻言都想把黄誉博嘴捂上",
@@ -633,6 +633,14 @@
       "onboard_time": 1752928342,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 181736,
+      "num": 181736,
+      "word": "简历 高p照片",
+      "onboard_time": 1752988160,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 179581,
@@ -683,6 +691,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169104,
+      "num": 147872,
+      "word": "25岁确诊癌症晚期后的忠告",
+      "onboard_time": 1752989722,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167253,
+      "num": 167253,
+      "word": "汪东城露的好大方",
+      "onboard_time": 1752989781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165151,
       "num": 165151,
       "word": "三伏天",
@@ -731,6 +755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161981,
+      "num": 161981,
+      "word": "priest到底为什么这么爱上班",
+      "onboard_time": 1752989121,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160634,
       "num": 312009,
       "word": "最新央企中国雅江集团成立",
@@ -761,22 +793,6 @@
       "onboard_time": 1752979222,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157425,
-      "num": 157425,
-      "word": "简历 高p照片",
-      "onboard_time": 1752988160,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 157110,
-      "num": 157110,
-      "word": "priest到底为什么这么爱上班",
-      "onboard_time": 1752989121,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 156315,
@@ -817,6 +833,14 @@
       "onboard_time": 1752943879,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149881,
+      "num": 158297,
+      "word": "她不是女版毛不易她是罗小黑",
+      "onboard_time": 1752989962,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 147802,
@@ -939,6 +963,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 127016,
+      "num": 476546,
+      "word": "伊朗20多名儿童睡觉被炸死",
+      "onboard_time": 1752987021,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "广东2地发布五停通知",
@@ -953,6 +985,14 @@
       "onboard_time": 1752989422,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124027,
+      "num": 124027,
+      "word": "程潇沈月i人互助联盟",
+      "onboard_time": 1752990322,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 123908,
@@ -977,6 +1017,14 @@
       "onboard_time": 1752973880,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121409,
+      "num": 121409,
+      "word": "为什么永远不能相信那些喝牛奶的角色",
+      "onboard_time": 1752990322,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 121358,
@@ -1203,6 +1251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103196,
+      "num": 103196,
+      "word": "一个在唱爱情一个在唱友情",
+      "onboard_time": 1752990502,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102665,
       "num": 102665,
       "word": "肖战上班下班照",
@@ -1227,6 +1283,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 101656,
+      "num": 122429,
+      "word": "马龙说没找到理由和乒乓球说再见",
+      "onboard_time": 1752990261,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100993,
+      "num": 203293,
+      "word": "严浩翔万妮达下狗战队团魂这一块",
+      "onboard_time": 1752989842,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99952,
       "num": 899814,
       "word": "台风韦帕风雨时间表",
@@ -1241,14 +1313,6 @@
       "onboard_time": 1752939263,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97491,
-      "num": 476546,
-      "word": "伊朗20多名儿童睡觉被炸死",
-      "onboard_time": 1752987021,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96663,
@@ -1371,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74092,
+      "num": 162035,
+      "word": "有人租用学生微信用于实施电诈",
+      "onboard_time": 1752990322,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69560,
       "num": 90070,
       "word": "王赫野直播",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1752931643,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47917,
+      "num": 154091,
+      "word": "男孩被困沉船4小时奇迹生还",
+      "onboard_time": 1752987021,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 46089,
