@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753026130576,
+  "endTime": 1753029117039,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -41,6 +41,14 @@
       "onboard_time": 1752979100,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2178759,
+      "num": 2178759,
+      "word": "AL亚军",
+      "onboard_time": 1753027823,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1914343,
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 829238,
+      "num": 829238,
+      "word": "旺仔小乔演唱会 不露脸",
+      "onboard_time": 1753025841,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 816524,
       "num": 816524,
       "word": "管泽元 好像寄了",
@@ -353,6 +369,14 @@
       "onboard_time": 1752979280,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 570786,
+      "num": 570786,
+      "word": "GEN夺冠",
+      "onboard_time": 1753027702,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 566997,
@@ -587,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451933,
+      "num": 451933,
+      "word": "央视曝光领导视察才开门的农村公厕",
+      "onboard_time": 1753024524,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 445739,
       "num": 445739,
       "word": "丁禹兮扫腿舞",
@@ -689,14 +721,6 @@
       "onboard_time": 1752988160,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366539,
-      "num": 366539,
-      "word": "央视曝光领导视察才开门的农村公厕",
-      "onboard_time": 1753024524,
-      "rank": 31,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 364488,
@@ -875,6 +899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 292978,
+      "num": 292978,
+      "word": "王俊凯拿了五杀",
+      "onboard_time": 1753026980,
+      "rank": 15,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 291200,
       "num": 291200,
       "word": "英雄联盟直播",
@@ -995,6 +1027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 258914,
+      "num": 258914,
+      "word": "GEN战胜AL",
+      "onboard_time": 1753027823,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258095,
       "num": 258095,
       "word": "杨洋重新定义长相平淡无奇",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1753006701,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231390,
+      "num": 231390,
+      "word": "女生为交社保被负债200万",
+      "onboard_time": 1753025841,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229333,
@@ -1497,14 +1545,6 @@
       "onboard_time": 1752984984,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187472,
-      "num": 187472,
-      "word": "旺仔小乔演唱会 不露脸",
-      "onboard_time": 1753025841,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 187273,
@@ -1976,14 +2016,6 @@
       "word": "有年轻人1年花近20万拍海马体",
       "onboard_time": 1752931583,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155745,
-      "num": 155745,
-      "word": "女生为交社保被负债200万",
-      "onboard_time": 1753025841,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2603,6 +2635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124738,
+      "num": 124738,
+      "word": "AL 韧性",
+      "onboard_time": 1753027823,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124455,
       "num": 124455,
       "word": "苏州再这么踢吃蟹买不到醋了",
@@ -2955,6 +2995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 110726,
+      "num": 187549,
+      "word": "Kiin获得FMVP",
+      "onboard_time": 1753028961,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109407,
       "num": 117599,
       "word": "韩国股民抢筹中国股票",
@@ -3225,6 +3273,14 @@
       "onboard_time": 1752939263,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98728,
+      "num": 247690,
+      "word": "卖酱香饼小伙称花3万美金获保释",
+      "onboard_time": 1753025542,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97507,
@@ -3531,6 +3587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62807,
+      "num": 92719,
+      "word": "明日方舟夏活",
+      "onboard_time": 1753025422,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62205,
       "num": 150441,
       "word": "褐石培心幼儿园厨师曾藏匿剩余颜料",
@@ -3683,14 +3747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45681,
-      "num": 247690,
-      "word": "卖酱香饼小伙称花3万美金获保释",
-      "onboard_time": 1753025542,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 43425,
       "num": 43425,
       "word": "港珠澳大桥已临时封闭",
@@ -3753,6 +3809,14 @@
       "onboard_time": 1752992541,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35407,
+      "num": 216511,
+      "word": "褐石培心幼儿园暂被托管",
+      "onboard_time": 1753027281,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32575,

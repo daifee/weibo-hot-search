@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 23:42:10
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/21 00:31:57
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@ GAI淘汰（热度：2359704）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D%E5%8F%96%E6%B6%88hi6%E5%BD%95%E5%88%B6%23" target="weibo">
 梓渝取消hi6录制（热度：2196178）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AL%E4%BA%9A%E5%86%9B%23" target="weibo">
+AL亚军（热度：2178759）
 </a>
 </li>
 
@@ -3381,6 +3387,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%E6%BC%94%E5%94%B1%E4%BC%9A%20%E4%B8%8D%E9%9C%B2%E8%84%B8%23" target="weibo">
+旺仔小乔演唱会 不露脸（热度：829238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%83%BD%E6%9C%89%E7%82%B9%E4%B8%8D%E6%95%A2%E5%9B%9E%E9%AD%8F%E5%93%B2%E9%B8%A3%E4%BA%86%23" target="weibo">
 杨紫都有点不敢回魏哲鸣了（热度：829007）
 </a>
@@ -5997,20 +6009,8 @@ GAI表情（热度：577758）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E7%88%86%E5%89%A7%E4%B8%89%E5%A4%A7%E8%B5%9B%E9%81%93%E5%85%A8%E9%9D%A2%E5%BC%80%E8%8A%B1%23" target="weibo">
-优酷爆剧三大赛道全面开花（热度：569607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%9B%AA%E5%BD%95%20%E6%8F%90%E6%A1%A3%23" target="weibo">
-朝雪录 提档（热度：567795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%A1%8C%E9%AB%98%E7%AE%A1%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%23" target="weibo">
-工行高管实名举报妻子出轨健身教练（热度：567722）
+<a href="https://s.weibo.com/weibo?q=%23GEN%E5%A4%BA%E5%86%A0%23" target="weibo">
+GEN夺冠（热度：570786）
 </a>
 </li>
 
