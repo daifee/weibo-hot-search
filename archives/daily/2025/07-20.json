@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753016901635,
+  "endTime": 1753018614200,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -259,6 +259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 594401,
+      "num": 594401,
+      "word": "朝雪录热度",
+      "onboard_time": 1753016126,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 572427,
       "num": 572427,
       "word": "女烈士遗体被发现时布满弹孔",
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493430,
+      "num": 493430,
+      "word": "常州0比2徐州",
+      "onboard_time": 1753017744,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491483,
       "num": 491483,
       "word": "杨洋回宫",
@@ -475,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 450067,
+      "num": 450067,
+      "word": "楚雨荨她舅当爱豆就这样吧",
+      "onboard_time": 1753017926,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 445739,
       "num": 445739,
       "word": "丁禹兮扫腿舞",
@@ -531,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 404765,
+      "num": 714963,
+      "word": "涉事园长也吃了颜料食品",
+      "onboard_time": 1753014444,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403477,
       "num": 403477,
       "word": "12306回应高铁不要食用方便面提醒",
@@ -571,28 +603,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383073,
-      "num": 383073,
-      "word": "涉事园长也吃了颜料食品",
-      "onboard_time": 1753014444,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370959,
-      "num": 370959,
-      "word": "朝雪录热度",
-      "onboard_time": 1753016126,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 369903,
       "num": 369903,
       "word": "简历 高p照片",
       "onboard_time": 1752988160,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359464,
+      "num": 359464,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1752920900,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 359082,
@@ -665,6 +689,14 @@
       "onboard_time": 1752993621,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340067,
+      "num": 371494,
+      "word": "对甘肃卫健委天水市等10人立案问责",
+      "onboard_time": 1753016545,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336933,
@@ -1035,6 +1067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208011,
+      "num": 208011,
+      "word": "宋佳为了气我什么都做得出来",
+      "onboard_time": 1753016065,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "一人一句为福宝送生日祝福",
@@ -1112,6 +1152,14 @@
       "word": "蔡徐坤一下飞机就去排练",
       "onboard_time": 1752984741,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197375,
+      "num": 197375,
+      "word": "田柾国直播",
+      "onboard_time": 1753017684,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1259,14 +1307,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 180953,
-      "num": 187502,
-      "word": "宋佳为了气我什么都做得出来",
-      "onboard_time": 1753016065,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179581,
       "num": 179581,
       "word": "台风韦帕",
@@ -1388,7 +1428,7 @@
     },
     {
       "raw_hot": 169115,
-      "num": 169115,
+      "num": 439216,
       "word": "为什么越来越多人选择剖腹产了",
       "onboard_time": 1753008982,
       "rank": 48,
@@ -1417,6 +1457,14 @@
       "onboard_time": 1752989781,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166305,
+      "num": 166305,
+      "word": "王思雨第一时间摘掉铜牌",
+      "onboard_time": 1753018103,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 165151,
@@ -1515,20 +1563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160299,
-      "num": 160299,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1752920900,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 160263,
       "num": 160263,
       "word": "达达利亚",
       "onboard_time": 1752986181,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158602,
+      "num": 158602,
+      "word": "他赢了比赛却毁了她的剧本",
+      "onboard_time": 1753018225,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 158160,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1753013605,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155431,
+      "num": 155431,
+      "word": "苏州4比0镇江",
+      "onboard_time": 1753016848,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 152746,
@@ -1643,6 +1699,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150625,
+      "num": 150625,
+      "word": "无锡队吉祥物努力的样子让人心疼",
+      "onboard_time": 1753017384,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150192,
+      "num": 150192,
+      "word": "日本女篮vs澳大利亚女篮",
+      "onboard_time": 1753016965,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149952,
       "num": 149952,
       "word": "女演员投诉花千万买房遭强制交付",
@@ -1708,11 +1780,19 @@
     },
     {
       "raw_hot": 146732,
-      "num": 146732,
+      "num": 256547,
       "word": "一诺被科目二拿捏住了",
       "onboard_time": 1753016126,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145113,
+      "num": 145113,
+      "word": "儿童玩具竟然教孩子用针管",
+      "onboard_time": 1753014263,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144659,
@@ -1771,20 +1851,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142339,
-      "num": 142339,
-      "word": "儿童玩具竟然教孩子用针管",
-      "onboard_time": 1753014263,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142114,
       "num": 107101,
       "word": "梓渝捂得好严实",
       "onboard_time": 1753000101,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140848,
+      "num": 140848,
+      "word": "鹿晗叫醒铃声",
+      "onboard_time": 1753018464,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 140744,
@@ -1841,6 +1921,14 @@
       "onboard_time": 1753008682,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138378,
+      "num": 376560,
+      "word": "234名血铅异常患儿完成第一疗程出院",
+      "onboard_time": 1753016486,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137402,
@@ -2017,6 +2105,14 @@
       "onboard_time": 1753006822,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126378,
+      "num": 126378,
+      "word": "MINNIE开球",
+      "onboard_time": 1753017624,
+      "rank": 49,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 125575,
@@ -2547,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104318,
+      "num": 340812,
+      "word": "2025开分最高国产电影",
+      "onboard_time": 1753017864,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103407,
       "num": 103407,
       "word": "越南一游船倾覆已致27人死亡",
@@ -2657,14 +2761,6 @@
       "onboard_time": 1752939263,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98247,
-      "num": 376560,
-      "word": "234名血铅异常患儿完成第一疗程出院",
-      "onboard_time": 1753016486,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97507,
@@ -2889,14 +2985,6 @@
       "onboard_time": 1752993201,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70228,
-      "num": 371494,
-      "word": "对甘肃卫健委天水市等10人立案问责",
-      "onboard_time": 1753016545,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69560,

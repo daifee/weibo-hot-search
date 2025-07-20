@@ -1,0 +1,410 @@
+{
+  "runTime": 1753018614200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7388733,
+        "num": 7388733,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 743633,
+        "num": 743633,
+        "word": "甘肃疾控中心严重违反操作规程",
+        "onboard_time": 1753013963,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404765,
+        "num": 714963,
+        "word": "涉事园长也吃了颜料食品",
+        "onboard_time": 1753014444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791025,
+        "num": 714864,
+        "word": "陈立农街头拥抱",
+        "onboard_time": 1753012523,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714366,
+        "num": 714366,
+        "word": "天水第二人民医院修改过血铅数据",
+        "onboard_time": 1753013605,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644361,
+        "num": 644361,
+        "word": "梓渝音乐节",
+        "onboard_time": 1752988519,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 594401,
+        "num": 594401,
+        "word": "朝雪录热度",
+        "onboard_time": 1753016126,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565958,
+        "num": 565958,
+        "word": "沙特沉睡王子昏迷近20年后去世",
+        "onboard_time": 1753005562,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 493430,
+        "num": 493430,
+        "word": "常州0比2徐州",
+        "onboard_time": 1753017744,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450067,
+        "num": 450067,
+        "word": "楚雨荨她舅当爱豆就这样吧",
+        "onboard_time": 1753017926,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168470,
+        "num": 439216,
+        "word": "为什么越来越多人选择剖腹产了",
+        "onboard_time": 1753008982,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126783,
+        "num": 425463,
+        "word": "天水幼儿血铅异常问题调查最新通报",
+        "onboard_time": 1753011262,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3413227,
+        "num": 415450,
+        "word": "难听",
+        "onboard_time": 1753014563,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1111241,
+        "num": 407990,
+        "word": "郑乃馨改名",
+        "onboard_time": 1753011862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 939735,
+        "num": 396444,
+        "word": "梓渝挑染",
+        "onboard_time": 1753011563,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 723469,
+        "num": 382357,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 667957,
+        "num": 368321,
+        "word": "鹿晗发博为宝石老舅庆生",
+        "onboard_time": 1753012222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359464,
+        "num": 359464,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1753017983,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104318,
+        "num": 340812,
+        "word": "2025开分最高国产电影",
+        "onboard_time": 1753017864,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441727,
+        "num": 340552,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 19,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 340067,
+        "num": 340067,
+        "word": "对甘肃卫健委天水市等10人立案问责",
+        "onboard_time": 1753016545,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264022,
+        "num": 264022,
+        "word": "纪委监委对检测数据失真等全面调查",
+        "onboard_time": 1753014084,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283309,
+        "num": 262736,
+        "word": "刘宇宁演唱会量大管饱",
+        "onboard_time": 1753009222,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261284,
+        "num": 261284,
+        "word": "苏超常州vs徐州",
+        "onboard_time": 1753010601,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107641,
+        "num": 256547,
+        "word": "一诺被科目二拿捏住了",
+        "onboard_time": 1753016126,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252495,
+        "num": 252495,
+        "word": "模仿出轨CEO成全球热梗",
+        "onboard_time": 1753005622,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218586,
+        "num": 218586,
+        "word": "王俊凯 英雄联盟手游",
+        "onboard_time": 1753010903,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 208310,
+        "num": 208310,
+        "word": "吧唧 甲醛",
+        "onboard_time": 1753003041,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208011,
+        "num": 208011,
+        "word": "宋佳为了气我什么都做得出来",
+        "onboard_time": 1753016065,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197375,
+        "num": 197375,
+        "word": "田柾国直播",
+        "onboard_time": 1753017684,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179996,
+        "num": 179996,
+        "word": "台风",
+        "onboard_time": 1753014325,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178574,
+        "num": 178574,
+        "word": "仙逆 粉雾",
+        "onboard_time": 1753009162,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167524,
+        "num": 167524,
+        "word": "AL对战GEN",
+        "onboard_time": 1753013605,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166305,
+        "num": 166305,
+        "word": "王思雨第一时间摘掉铜牌",
+        "onboard_time": 1753018103,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161127,
+        "num": 161127,
+        "word": "Faker赌AL夺冠",
+        "onboard_time": 1753015344,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158602,
+        "num": 158602,
+        "word": "他赢了比赛却毁了她的剧本",
+        "onboard_time": 1753018225,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155431,
+        "num": 155431,
+        "word": "苏州4比0镇江",
+        "onboard_time": 1753016848,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150625,
+        "num": 150625,
+        "word": "无锡队吉祥物努力的样子让人心疼",
+        "onboard_time": 1753017384,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150192,
+        "num": 150192,
+        "word": "日本女篮vs澳大利亚女篮",
+        "onboard_time": 1753016965,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149359,
+        "num": 149359,
+        "word": "英雄联盟直播",
+        "onboard_time": 1753013304,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148882,
+        "num": 148882,
+        "word": "荔枝根本不是杨贵妃要吃的",
+        "onboard_time": 1753010601,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145471,
+        "num": 145471,
+        "word": "朝雪录",
+        "onboard_time": 1753013363,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138378,
+        "num": 145200,
+        "word": "234名血铅异常患儿完成第一疗程出院",
+        "onboard_time": 1753016486,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145113,
+        "num": 145113,
+        "word": "儿童玩具竟然教孩子用针管",
+        "onboard_time": 1753014263,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140950,
+        "num": 140950,
+        "word": "田栩宁四宫格照",
+        "onboard_time": 1752997823,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140848,
+        "num": 140848,
+        "word": "鹿晗叫醒铃声",
+        "onboard_time": 1753018464,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138783,
+        "num": 138783,
+        "word": "南京vs扬州",
+        "onboard_time": 1753014744,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138351,
+        "num": 138351,
+        "word": "化尸水化到骨头渣都不剩",
+        "onboard_time": 1753011023,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137507,
+        "num": 137507,
+        "word": "敖瑞鹏李兰迪发了芭莎大片",
+        "onboard_time": 1753006881,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126378,
+        "num": 126378,
+        "word": "MINNIE开球",
+        "onboard_time": 1753017624,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
