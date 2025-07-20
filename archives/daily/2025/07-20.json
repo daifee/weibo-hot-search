@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753001232214,
+  "endTime": 1753003657860,
   "band_list": [
     {
       "raw_hot": 2698342,
@@ -75,8 +75,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 949810,
+      "num": 273223,
+      "word": "欲望羞耻",
+      "onboard_time": 1753000641,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 928147,
-      "num": 221420,
+      "num": 353675,
       "word": "上海蝉尿如下雨",
       "onboard_time": 1752998601,
       "rank": 11,
@@ -283,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472559,
+      "num": 472559,
+      "word": "杨洋回宫",
+      "onboard_time": 1753001301,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469466,
       "num": 325914,
       "word": "梓渝凌晨彩排",
@@ -315,12 +331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416313,
+      "num": 416313,
+      "word": "白举纲XXXXXL牛仔裤",
+      "onboard_time": 1753002082,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 403477,
       "num": 403477,
       "word": "12306回应高铁不要食用方便面提醒",
       "onboard_time": 1752927022,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399464,
+      "num": 399464,
+      "word": "程潇曾患双相情感障碍",
+      "onboard_time": 1752999443,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 394394,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 388787,
-      "num": 212704,
+      "num": 350066,
       "word": "田栩宁四宫格照",
       "onboard_time": 1752997823,
       "rank": 13,
@@ -353,6 +385,14 @@
       "onboard_time": 1752988160,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359082,
+      "num": 359082,
+      "word": "州在今天拥有了常",
+      "onboard_time": 1753001002,
+      "rank": 17,
+      "category": "幽默,体育"
     },
     {
       "raw_hot": 357607,
@@ -385,6 +425,14 @@
       "onboard_time": 1752910282,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 349850,
+      "num": 349850,
+      "word": "梓渝彩排特写",
+      "onboard_time": 1753000461,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 347870,
@@ -435,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321785,
+      "num": 321785,
+      "word": "三个少年",
+      "onboard_time": 1753001062,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306070,
       "num": 279184,
       "word": "建议定期更换手机壳",
@@ -449,6 +505,14 @@
       "onboard_time": 1752992422,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301932,
+      "num": 272867,
+      "word": "泰警方确认餐厅斗殴者系韩国游客",
+      "onboard_time": 1753000941,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 296846,
@@ -483,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277441,
-      "num": 184228,
-      "word": "欲望羞耻",
-      "onboard_time": 1753000641,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 283222,
+      "num": 276099,
+      "word": "农民工为了12元差点被烤熟",
+      "onboard_time": 1753002741,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276876,
@@ -507,12 +571,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 276112,
+      "num": 276112,
+      "word": "丁禹兮扫腿舞",
+      "onboard_time": 1753002921,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275649,
       "num": 275649,
       "word": "高考604分选择定向军士女生发声",
       "onboard_time": 1752981440,
       "rank": 21,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 272054,
+      "num": 272054,
+      "word": "英雄联盟",
+      "onboard_time": 1752999680,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 270783,
@@ -579,20 +659,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235810,
+      "num": 235810,
+      "word": "北大在湖北招生出现空档",
+      "onboard_time": 1753002441,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 232631,
       "num": 232631,
       "word": "新还珠格格回芒果啦",
       "onboard_time": 1752988761,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231065,
-      "num": 231065,
-      "word": "程潇曾患双相情感障碍",
-      "onboard_time": 1752999443,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 229333,
@@ -667,20 +747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205006,
-      "num": 205006,
-      "word": "梓渝彩排特写",
-      "onboard_time": 1753000461,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 203642,
-      "num": 203642,
-      "word": "英雄联盟",
-      "onboard_time": 1752999680,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 203622,
+      "num": 229780,
+      "word": "俄罗斯海域6.7级7.4级6.7级地震",
+      "onboard_time": 1752999320,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 203231,
@@ -715,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198088,
-      "num": 198088,
-      "word": "州在今天拥有了常",
-      "onboard_time": 1753001002,
-      "rank": 17,
-      "category": "幽默,体育"
-    },
-    {
       "raw_hot": 197911,
       "num": 197911,
       "word": "蔡徐坤一下飞机就去排练",
@@ -745,6 +809,14 @@
       "onboard_time": 1752987082,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189601,
+      "num": 354503,
+      "word": "佛山累计基孔肯雅热确诊1873例",
+      "onboard_time": 1753001601,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189318,
@@ -867,6 +939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 173736,
+      "num": 173736,
+      "word": "MRC对战DOU5",
+      "onboard_time": 1753003161,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172751,
       "num": 172751,
       "word": "梓渝音乐节唱女孩",
@@ -875,20 +955,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171293,
+      "num": 171293,
+      "word": "DRG对战LGDNBW",
+      "onboard_time": 1753002741,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170012,
       "num": 1217326,
       "word": "入伏吃什么",
       "onboard_time": 1752982581,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169403,
-      "num": 229780,
-      "word": "俄罗斯海域6.7级7.4级6.7级地震",
-      "onboard_time": 1752999320,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 169104,
@@ -905,6 +985,14 @@
       "onboard_time": 1752989781,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166082,
+      "num": 166082,
+      "word": "吧唧 甲醛",
+      "onboard_time": 1753003041,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165151,
@@ -995,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157411,
+      "num": 242419,
+      "word": "陈梦准备恢复训练了",
+      "onboard_time": 1753001002,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156315,
       "num": 156315,
       "word": "有年轻人1年花近20万拍海马体",
@@ -1076,7 +1172,7 @@
     },
     {
       "raw_hot": 146934,
-      "num": 147149,
+      "num": 203660,
       "word": "wakuku",
       "onboard_time": 1752998721,
       "rank": 28,
@@ -1131,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140744,
+      "num": 140744,
+      "word": "广东全省转移超27万人",
+      "onboard_time": 1753002322,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140187,
       "num": 140187,
       "word": "赵丽颖纪梵希礼服",
@@ -1179,14 +1283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 133918,
-      "num": 147021,
-      "word": "三个少年",
-      "onboard_time": 1753001062,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133913,
       "num": 133913,
       "word": "卡车司机带16岁儿子出车双双遇难",
@@ -1201,6 +1297,14 @@
       "onboard_time": 1752937344,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133084,
+      "num": 133084,
+      "word": "美又解雇70名外国研究员多为中国博后",
+      "onboard_time": 1753003282,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132545,
@@ -1273,6 +1377,14 @@
       "onboard_time": 1752938482,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "去了twice演唱会的明星",
+      "onboard_time": 1753002082,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 125575,
@@ -1443,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116472,
-      "num": 116472,
-      "word": "陈梦准备恢复训练了",
-      "onboard_time": 1753001002,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115712,
       "num": 115712,
       "word": "沈腾这段堪比邓超无实物放烟花",
@@ -1489,6 +1593,14 @@
       "onboard_time": 1752927741,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114080,
+      "num": 114080,
+      "word": "龚俊我真服了3.0版",
+      "onboard_time": 1753003522,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 114049,
@@ -1571,6 +1683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109963,
+      "num": 109963,
+      "word": "单休怎么休最回血",
+      "onboard_time": 1753003641,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109407,
       "num": 117599,
       "word": "韩国股民抢筹中国股票",
@@ -1617,6 +1737,14 @@
       "onboard_time": 1752992722,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106995,
+      "num": 106995,
+      "word": "基孔肯雅热",
+      "onboard_time": 1753003401,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 106165,
@@ -2115,20 +2243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46300,
+      "num": 203633,
+      "word": "河北小伙回应在加拿大当公务员",
+      "onboard_time": 1753003282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46089,
       "num": 46089,
       "word": "程潇一生要出片的中国女人",
       "onboard_time": 1752945918,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45752,
-      "num": 169776,
-      "word": "泰警方确认餐厅斗殴者系韩国游客",
-      "onboard_time": 1753000941,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 43425,
@@ -2187,11 +2315,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31837,
+      "num": 128388,
+      "word": "最全deepseek喂饭指令",
+      "onboard_time": 1753002622,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 27225,
       "num": 214552,
       "word": "宇宙诞生超太阳265倍质量新黑洞",
       "onboard_time": 1752996080,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26952,
+      "num": 274459,
+      "word": "一种儿童玩具100度高温220伏电压",
+      "onboard_time": 1753003342,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
