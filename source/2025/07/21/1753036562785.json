@@ -1,0 +1,410 @@
+{
+  "runTime": 1753036562785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 528559,
+        "num": 528559,
+        "word": "天禄",
+        "onboard_time": 1753033096,
+        "rank": 0,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 356462,
+        "num": 356462,
+        "word": "女生为交社保被负债200万",
+        "onboard_time": 1753025841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45426,
+        "num": 355337,
+        "word": "天水幼儿血铅异常问题调查最新通报",
+        "onboard_time": 1753011262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354749,
+        "num": 354749,
+        "word": "梓渝MVP结算",
+        "onboard_time": 1753033937,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 351259,
+        "num": 351259,
+        "word": "旺仔小乔演唱会 不露脸",
+        "onboard_time": 1753025841,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182515,
+        "num": 182515,
+        "word": "AL亚军",
+        "onboard_time": 1753027823,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243953,
+        "num": 182478,
+        "word": "天禄夺冠",
+        "onboard_time": 1753034956,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213130,
+        "num": 182080,
+        "word": "鹿晗摘戒指",
+        "onboard_time": 1753021525,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177345,
+        "num": 177345,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 172765,
+        "num": 172765,
+        "word": "甘肃疾控中心严重违反操作规程",
+        "onboard_time": 1753013963,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234943,
+        "num": 166660,
+        "word": "难听",
+        "onboard_time": 1753014563,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174977,
+        "num": 155639,
+        "word": "tyloo",
+        "onboard_time": 1753034057,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 132257,
+        "num": 132257,
+        "word": "郑乃馨改名",
+        "onboard_time": 1753011862,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114454,
+        "num": 114454,
+        "word": "梓渝全开麦",
+        "onboard_time": 1753019605,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105138,
+        "num": 105138,
+        "word": "街道办回应老人肯德基店内占座乘凉",
+        "onboard_time": 1753031238,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109774,
+        "num": 100462,
+        "word": "于适 很多人在搞我",
+        "onboard_time": 1753018883,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93368,
+        "num": 93368,
+        "word": "王俊凯拿了五杀",
+        "onboard_time": 1753026980,
+        "rank": 16,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 84420,
+        "num": 84420,
+        "word": "央视曝光领导视察才开门的农村公厕",
+        "onboard_time": 1753024524,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 59519,
+        "num": 59519,
+        "word": "沙特沉睡王子昏迷近20年后去世",
+        "onboard_time": 1753005562,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56853,
+        "num": 56853,
+        "word": "老人肯德基店内占座乘凉",
+        "onboard_time": 1753023685,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109704,
+        "num": 56825,
+        "word": "韩女子咬断性侵者舌头被判刑",
+        "onboard_time": 1753020444,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69568,
+        "num": 56792,
+        "word": "田栩宁超话连爆6小时",
+        "onboard_time": 1753021705,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56312,
+        "num": 56312,
+        "word": "天水第二人民医院修改过血铅数据",
+        "onboard_time": 1753013605,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53819,
+        "num": 53819,
+        "word": "陈立农街头拥抱",
+        "onboard_time": 1753012523,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48568,
+        "num": 48568,
+        "word": "不要因为花了父母的钱感到愧疚",
+        "onboard_time": 1753032198,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46824,
+        "num": 46824,
+        "word": "宝石老舅回复鹿晗",
+        "onboard_time": 1753031778,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45196,
+        "num": 45196,
+        "word": "GEN夺冠",
+        "onboard_time": 1753027702,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44555,
+        "num": 44555,
+        "word": "朝雪录热度",
+        "onboard_time": 1753016126,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41097,
+        "num": 41097,
+        "word": "涉事园长也吃了颜料食品",
+        "onboard_time": 1753014444,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35688,
+        "num": 35688,
+        "word": "GEN战胜AL",
+        "onboard_time": 1753027823,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34734,
+        "num": 34734,
+        "word": "Kiin获得FMVP",
+        "onboard_time": 1753028961,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34546,
+        "num": 34546,
+        "word": "刘宇宁书卷一梦顶级售后",
+        "onboard_time": 1753023564,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33315,
+        "num": 33315,
+        "word": "纪委监委对检测数据失真等全面调查",
+        "onboard_time": 1753014084,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32272,
+        "num": 32272,
+        "word": "楚雨荨她舅当爱豆就这样吧",
+        "onboard_time": 1753017926,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30178,
+        "num": 31619,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1753024703,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30024,
+        "num": 31545,
+        "word": "蔡徐坤更新快拍",
+        "onboard_time": 1753024403,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31536,
+        "num": 31536,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1753017983,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29922,
+        "num": 31535,
+        "word": "得物崩了",
+        "onboard_time": 1753020984,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29628,
+        "num": 31532,
+        "word": "英雄联盟手游直播",
+        "onboard_time": 1753036335,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27671,
+        "num": 31532,
+        "word": "韦帕在广东再次登陆",
+        "onboard_time": 1753018705,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26879,
+        "num": 31529,
+        "word": "天水第二人民医院被甘肃省人民医院托管",
+        "onboard_time": 1753024285,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26636,
+        "num": 31528,
+        "word": "步惊云 女人嘛",
+        "onboard_time": 1753029620,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26442,
+        "num": 31524,
+        "word": "辱骂韦世豪球迷被拘留",
+        "onboard_time": 1753020025,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26185,
+        "num": 31521,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26041,
+        "num": 31519,
+        "word": "731部队成员称解剖了活人300名",
+        "onboard_time": 1753021585,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25613,
+        "num": 31517,
+        "word": "迪丽热巴郭培秋冬高定",
+        "onboard_time": 1753025181,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25570,
+        "num": 31517,
+        "word": "梓渝超话热度破纪录",
+        "onboard_time": 1753020626,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24764,
+        "num": 31515,
+        "word": "管泽元 好像寄了",
+        "onboard_time": 1753024345,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23834,
+        "num": 31513,
+        "word": "明日方舟夏活",
+        "onboard_time": 1753025422,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23575,
+        "num": 31511,
+        "word": "AL对战GEN",
+        "onboard_time": 1753013605,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
