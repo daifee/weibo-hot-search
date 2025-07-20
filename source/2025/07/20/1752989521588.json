@@ -1,0 +1,410 @@
+{
+  "runTime": 1752989521588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1914343,
+        "num": 1914343,
+        "word": "691分考上北大惊动了宗族长老",
+        "onboard_time": 1752983661,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1218894,
+        "num": 1218894,
+        "word": "韩国人装中国人在泰国打架",
+        "onboard_time": 1752983301,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121240,
+        "num": 915433,
+        "word": "入伏吃什么",
+        "onboard_time": 1752982581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857137,
+        "num": 857137,
+        "word": "取14万给孩子结婚包红包银行报警",
+        "onboard_time": 1752985822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741826,
+        "num": 741826,
+        "word": "郑乃馨演唱会抱着男友大哭",
+        "onboard_time": 1752974901,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 524048,
+        "num": 524048,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 5,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 523663,
+        "num": 523663,
+        "word": "美国卖酱香饼的中国小伙被捕",
+        "onboard_time": 1752974659,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 481451,
+        "num": 481451,
+        "word": "吴彤你就这么把王牌9给宣了",
+        "onboard_time": 1752987502,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72848,
+        "num": 476546,
+        "word": "伊朗20多名儿童睡觉被炸死",
+        "onboard_time": 1752987021,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475189,
+        "num": 475189,
+        "word": "梓渝客串飞驰人生3",
+        "onboard_time": 1752986421,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1567925,
+        "num": 474957,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474469,
+        "num": 474469,
+        "word": "原来生日帽是这样戴的",
+        "onboard_time": 1752985761,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405088,
+        "num": 405088,
+        "word": "女子27万存款差2天到期执意要取",
+        "onboard_time": 1752984741,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317667,
+        "num": 317667,
+        "word": "程潇脸肿了",
+        "onboard_time": 1752967698,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81072,
+        "num": 316976,
+        "word": "MAGA对特朗普的信任崩塌了",
+        "onboard_time": 1752988342,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316358,
+        "num": 316358,
+        "word": "建议35岁之前不要买车买房",
+        "onboard_time": 1752978621,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278589,
+        "num": 278589,
+        "word": "手机壳 医疗废料",
+        "onboard_time": 1752976941,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274151,
+        "num": 274151,
+        "word": "梓渝音乐节",
+        "onboard_time": 1752988519,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258095,
+        "num": 258095,
+        "word": "杨洋重新定义长相平淡无奇",
+        "onboard_time": 1752987141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251876,
+        "num": 251876,
+        "word": "深圳台风",
+        "onboard_time": 1752975140,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250620,
+        "num": 250620,
+        "word": "广州台风",
+        "onboard_time": 1752987261,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241721,
+        "num": 241721,
+        "word": "建议定期更换手机壳",
+        "onboard_time": 1752984440,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232631,
+        "num": 232631,
+        "word": "新还珠格格回芒果啦",
+        "onboard_time": 1752988761,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197911,
+        "num": 197911,
+        "word": "蔡徐坤一下飞机就去排练",
+        "onboard_time": 1752984741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193797,
+        "num": 193797,
+        "word": "熬夜到什么程度会猝死",
+        "onboard_time": 1752986602,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190598,
+        "num": 190598,
+        "word": "女烈士遗体被发现时布满弹孔",
+        "onboard_time": 1752979280,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188160,
+        "num": 188160,
+        "word": "AG出战沙特EWC",
+        "onboard_time": 1752989302,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180330,
+        "num": 180330,
+        "word": "三伏天最易生病也最养人",
+        "onboard_time": 1752978979,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145976,
+        "num": 175987,
+        "word": "扫毒风暴重新剪辑前7集",
+        "onboard_time": 1752987082,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92433,
+        "num": 175437,
+        "word": "台风下飞机如纸片摇曳",
+        "onboard_time": 1752988942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175324,
+        "num": 175324,
+        "word": "以色列导弹致50死其中超20名儿童",
+        "onboard_time": 1752987622,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169617,
+        "num": 169617,
+        "word": "带儿子出车双双遇难司机亲属发声",
+        "onboard_time": 1752977481,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163865,
+        "num": 163865,
+        "word": "韩网友 为什么要亲亲才会给我发货",
+        "onboard_time": 1752986421,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162713,
+        "num": 162713,
+        "word": "台风韦帕",
+        "onboard_time": 1752972139,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144498,
+        "num": 159182,
+        "word": "沈梦辰晒和杨紫的合照",
+        "onboard_time": 1752988519,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157425,
+        "num": 157425,
+        "word": "简历 高p照片",
+        "onboard_time": 1752988160,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157360,
+        "num": 157360,
+        "word": "高铁禁食方便面旅客吃什么",
+        "onboard_time": 1752982941,
+        "rank": 36,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 157110,
+        "num": 157110,
+        "word": "priest到底为什么这么爱上班",
+        "onboard_time": 1752989121,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143051,
+        "num": 143051,
+        "word": "原神",
+        "onboard_time": 1752987982,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81273,
+        "num": 139914,
+        "word": "漫展古风小生都有马塑了",
+        "onboard_time": 1752989181,
+        "rank": 39,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 137044,
+        "num": 137044,
+        "word": "受台风影响香港挂出十号风球",
+        "onboard_time": 1752985162,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133504,
+        "num": 133504,
+        "word": "X玖少年团成员集体改名",
+        "onboard_time": 1752986061,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129929,
+        "num": 129929,
+        "word": "美国男子戴金属链闯核磁共振室丧命",
+        "onboard_time": 1752979641,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126120,
+        "num": 126120,
+        "word": "小鸟因无价值被留捕鸟网上风干了",
+        "onboard_time": 1752978621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125960,
+        "num": 125960,
+        "word": "刘耀文炫MV",
+        "onboard_time": 1752987082,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124831,
+        "num": 124831,
+        "word": "时空中的绘旅人美术集2.0",
+        "onboard_time": 1752989422,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118213,
+        "num": 118213,
+        "word": "徐明浩评大展宏图审美不该看流量",
+        "onboard_time": 1752982461,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117054,
+        "num": 117054,
+        "word": "因臭水困扰市民到市区买水买饭",
+        "onboard_time": 1752986543,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117005,
+        "num": 117005,
+        "word": "凡人修仙传",
+        "onboard_time": 1752978979,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113998,
+        "num": 113998,
+        "word": "最新央企中国雅江集团成立",
+        "onboard_time": 1752983902,
+        "rank": 49,
+        "category": "国内时政,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}

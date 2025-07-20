@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752987634785,
+  "endTime": 1752989521588,
   "band_list": [
     {
       "raw_hot": 2508537,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1911383,
-      "num": 1911383,
+      "raw_hot": 1914343,
+      "num": 1914343,
       "word": "691分考上北大惊动了宗族长老",
       "onboard_time": 1752983661,
       "rank": 30,
@@ -32,6 +32,14 @@
       "word": "美国卖酱香饼的中国小伙被捕",
       "onboard_time": 1752974659,
       "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1567925,
+      "num": 474957,
+      "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+      "onboard_time": 1752988942,
+      "rank": 10,
       "category": "海外新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1752936323,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 857137,
+      "num": 857137,
+      "word": "取14万给孩子结婚包红包银行报警",
+      "onboard_time": 1752985822,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 802995,
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 524048,
+      "num": 524048,
+      "word": "水蒸蛋被改名日本蒸蛋",
+      "onboard_time": 1752988400,
+      "rank": 5,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 523885,
       "num": 418298,
       "word": "梓渝电影客串",
@@ -177,6 +201,22 @@
       "onboard_time": 1752975140,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481451,
+      "num": 481451,
+      "word": "吴彤你就这么把王牌9给宣了",
+      "onboard_time": 1752987502,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 474469,
+      "num": 474469,
+      "word": "原来生日帽是这样戴的",
+      "onboard_time": 1752985761,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 469466,
@@ -227,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 372866,
-      "num": 342594,
-      "word": "原来生日帽是这样戴的",
-      "onboard_time": 1752985761,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 357607,
       "num": 349379,
       "word": "喻言又拿了第一",
@@ -273,14 +305,6 @@
       "onboard_time": 1752977001,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346468,
-      "num": 346468,
-      "word": "取14万给孩子结婚包红包银行报警",
-      "onboard_time": 1752985822,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 346067,
@@ -379,6 +403,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 274151,
+      "num": 274151,
+      "word": "梓渝音乐节",
+      "onboard_time": 1752988519,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 267751,
       "num": 267751,
       "word": "受台风影响香港挂出十号风球",
@@ -395,6 +427,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 258095,
+      "num": 258095,
+      "word": "杨洋重新定义长相平淡无奇",
+      "onboard_time": 1752987141,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257093,
       "num": 256459,
       "word": "三伏天夏断食21天",
@@ -403,12 +443,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 250620,
+      "num": 250620,
+      "word": "广州台风",
+      "onboard_time": 1752987261,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249697,
       "num": 249697,
       "word": "12306抢票遇到真大佬了",
       "onboard_time": 1752967338,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232631,
+      "num": 232631,
+      "word": "新还珠格格回芒果啦",
+      "onboard_time": 1752988761,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 229333,
@@ -499,20 +555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197911,
+      "num": 197911,
+      "word": "蔡徐坤一下飞机就去排练",
+      "onboard_time": 1752984741,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196449,
       "num": 196449,
       "word": "韦世豪",
       "onboard_time": 1752976221,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196214,
-      "num": 196214,
-      "word": "蔡徐坤一下飞机就去排练",
-      "onboard_time": 1752984741,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 192787,
@@ -545,6 +601,14 @@
       "onboard_time": 1752986841,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188160,
+      "num": 188160,
+      "word": "AG出战沙特EWC",
+      "onboard_time": 1752989302,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 187707,
@@ -595,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175324,
+      "num": 175324,
+      "word": "以色列导弹致50死其中超20名儿童",
+      "onboard_time": 1752987622,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172751,
       "num": 172751,
       "word": "梓渝音乐节唱女孩",
@@ -611,22 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166973,
-      "num": 166973,
-      "word": "杨洋重新定义长相平淡无奇",
-      "onboard_time": 1752987141,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166465,
-      "num": 166465,
-      "word": "吴彤你就这么把王牌9给宣了",
-      "onboard_time": 1752987502,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165151,
       "num": 165151,
       "word": "三伏天",
@@ -640,6 +696,14 @@
       "word": "千万别选择在暑假结婚",
       "onboard_time": 1752979100,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163865,
+      "num": 163865,
+      "word": "韩网友 为什么要亲亲才会给我发货",
+      "onboard_time": 1752986421,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -699,19 +763,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157425,
+      "num": 157425,
+      "word": "简历 高p照片",
+      "onboard_time": 1752988160,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 157110,
+      "num": 157110,
+      "word": "priest到底为什么这么爱上班",
+      "onboard_time": 1752989121,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156315,
       "num": 156315,
       "word": "有年轻人1年花近20万拍海马体",
       "onboard_time": 1752931583,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154450,
-      "num": 154450,
-      "word": "广州台风",
-      "onboard_time": 1752987261,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -732,7 +804,7 @@
     },
     {
       "raw_hot": 151373,
-      "num": 151373,
+      "num": 175987,
       "word": "扫毒风暴重新剪辑前7集",
       "onboard_time": 1752987082,
       "rank": 40,
@@ -755,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144498,
+      "num": 159182,
+      "word": "沈梦辰晒和杨紫的合照",
+      "onboard_time": 1752988519,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143522,
       "num": 143522,
       "word": "雅鲁藏布江下游水电工程开工",
@@ -769,6 +849,14 @@
       "onboard_time": 1752983661,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143051,
+      "num": 143051,
+      "word": "原神",
+      "onboard_time": 1752987982,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 140187,
@@ -851,20 +939,20 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 126797,
-      "num": 126797,
-      "word": "韩网友 为什么要亲亲才会给我发货",
-      "onboard_time": 1752986421,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "广东2地发布五停通知",
       "onboard_time": 1752938482,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124831,
+      "num": 124831,
+      "word": "时空中的绘旅人美术集2.0",
+      "onboard_time": 1752989422,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 123908,
@@ -931,12 +1019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117005,
-      "num": 164806,
-      "word": "以色列导弹致50死其中超20名儿童",
-      "onboard_time": 1752987622,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 117054,
+      "num": 303689,
+      "word": "因臭水困扰市民到市区买水买饭",
+      "onboard_time": 1752986543,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114994,
@@ -1156,7 +1244,7 @@
     },
     {
       "raw_hot": 97491,
-      "num": 126869,
+      "num": 476546,
       "word": "伊朗20多名儿童睡觉被炸死",
       "onboard_time": 1752987021,
       "rank": 47,
@@ -1193,6 +1281,14 @@
       "onboard_time": 1752975079,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92433,
+      "num": 175437,
+      "word": "台风下飞机如纸片摇曳",
+      "onboard_time": 1752988942,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90722,
@@ -1243,6 +1339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81273,
+      "num": 139914,
+      "word": "漫展古风小生都有马塑了",
+      "onboard_time": 1752989181,
+      "rank": 39,
+      "category": "幽默,动漫"
+    },
+    {
+      "raw_hot": 81072,
+      "num": 316976,
+      "word": "MAGA对特朗普的信任崩塌了",
+      "onboard_time": 1752988342,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78181,
       "num": 78181,
       "word": "罗小黑",
@@ -1257,14 +1369,6 @@
       "onboard_time": 1752939023,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73485,
-      "num": 303689,
-      "word": "因臭水困扰市民到市区买水买饭",
-      "onboard_time": 1752986543,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69560,
