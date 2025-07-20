@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/20 00:31:59 ~ 2025/07/21 03:21:37
+本榜单时间：2025/07/20 00:31:59 ~ 2025/07/21 03:37:38
 </p>
 </blockquote>
 <p>
@@ -3069,8 +3069,14 @@ TXT预告（热度：22133）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RIIZE%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+RIIZE香港演唱会（热度：19118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23400%E6%96%A4%E7%9F%B3%E5%A4%B4%E6%BC%82%E6%B5%AE%E6%81%92%E6%B2%B3%E8%A2%AB%E8%86%9C%E6%8B%9C%23" target="weibo">
-400斤石头漂浮恒河被膜拜（热度：18272）
+400斤石头漂浮恒河被膜拜（热度：18836）
 </a>
 </li>
 

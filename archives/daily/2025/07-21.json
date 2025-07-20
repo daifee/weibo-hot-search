@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753039297551,
+  "endTime": 1753040258935,
   "band_list": [
     {
       "raw_hot": 2178759,
@@ -539,12 +539,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18272,
+      "raw_hot": 19118,
+      "num": 23252,
+      "word": "RIIZE香港演唱会",
+      "onboard_time": 1753037596,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18836,
       "num": 25575,
       "word": "400斤石头漂浮恒河被膜拜",
       "onboard_time": 1753038795,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15649,
+      "num": 23240,
+      "word": "明日方舟",
+      "onboard_time": 1753021645,
+      "rank": 48,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

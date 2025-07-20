@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753039297551,
+  "endTime": 1753040258935,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -69019,6 +69019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19118,
+      "num": 23252,
+      "word": "RIIZE香港演唱会",
+      "onboard_time": 1753037596,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 18998,
       "num": 120772,
       "word": "被打中国人为川崎前锋球迷",
@@ -69083,6 +69091,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 18836,
+      "num": 25575,
+      "word": "400斤石头漂浮恒河被膜拜",
+      "onboard_time": 1753038795,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18630,
       "num": 52668,
       "word": "厦门发展战略启示",
@@ -69137,14 +69153,6 @@
       "onboard_time": 1751307196,
       "rank": 36,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 18272,
-      "num": 25575,
-      "word": "400斤石头漂浮恒河被膜拜",
-      "onboard_time": 1753038795,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18210,

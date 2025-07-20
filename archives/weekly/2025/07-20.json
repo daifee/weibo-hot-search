@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753039297551,
+  "endTime": 1753040258935,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -4075,7 +4075,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18272,
+      "raw_hot": 19118,
+      "num": 23252,
+      "word": "RIIZE香港演唱会",
+      "onboard_time": 1753037596,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18836,
       "num": 25575,
       "word": "400斤石头漂浮恒河被膜拜",
       "onboard_time": 1753038795,
