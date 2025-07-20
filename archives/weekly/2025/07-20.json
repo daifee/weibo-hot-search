@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752997192684,
+  "endTime": 1753000398519,
   "band_list": [
     {
       "raw_hot": 2698342,
@@ -75,6 +75,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 928147,
+      "num": 198256,
+      "word": "上海蝉尿如下雨",
+      "onboard_time": 1752998601,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 863290,
       "num": 863290,
       "word": "取14万给孩子结婚包红包银行报警",
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784525,
+      "num": 444168,
+      "word": "房主任被家暴没有反转",
+      "onboard_time": 1752992602,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737920,
       "num": 737920,
       "word": "手机壳 医疗废料",
@@ -113,6 +129,22 @@
       "onboard_time": 1752978621,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 661419,
+      "num": 661419,
+      "word": "三伏天 减肥",
+      "onboard_time": 1752993801,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 647084,
+      "num": 647084,
+      "word": "家里吧唧太多女孩深夜中毒送医",
+      "onboard_time": 1752996322,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572427,
@@ -275,28 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 444168,
-      "num": 444168,
-      "word": "房主任被家暴没有反转",
-      "onboard_time": 1752992602,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439514,
       "num": 424742,
       "word": "肖战更名后首发博",
       "onboard_time": 1752967516,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428638,
-      "num": 428638,
-      "word": "三伏天 减肥",
-      "onboard_time": 1752993801,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 403477,
@@ -313,6 +329,22 @@
       "onboard_time": 1752942502,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390976,
+      "num": 390976,
+      "word": "梓渝音乐节",
+      "onboard_time": 1752988519,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 388787,
+      "num": 198130,
+      "word": "田栩宁四宫格照",
+      "onboard_time": 1752997823,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 369903,
@@ -401,14 +433,6 @@
       "onboard_time": 1752940461,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318281,
-      "num": 310836,
-      "word": "梓渝音乐节",
-      "onboard_time": 1752988519,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 306070,
@@ -651,12 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200592,
+      "num": 189371,
+      "word": "程潇曾患双相情感障碍",
+      "onboard_time": 1752999443,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199474,
       "num": 199474,
       "word": "网友晒和肖战九年前合照",
       "onboard_time": 1752990861,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198533,
+      "num": 198533,
+      "word": "英雄联盟",
+      "onboard_time": 1752999680,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 197911,
@@ -755,6 +795,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178408,
+      "num": 265067,
+      "word": "美国船长酒驾撞上退役航母",
+      "onboard_time": 1752996140,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178319,
+      "num": 178319,
+      "word": "关晓彤入伏吃饺子",
+      "onboard_time": 1752996562,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178293,
+      "num": 145164,
+      "word": "魏雅欣夺冠后发九宫格",
+      "onboard_time": 1752999680,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175324,
       "num": 175324,
       "word": "以色列导弹致50死其中超20名儿童",
@@ -801,14 +865,6 @@
       "onboard_time": 1752989781,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166711,
-      "num": 166711,
-      "word": "家里吧唧太多女孩深夜中毒送医",
-      "onboard_time": 1752996322,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165151,
@@ -865,14 +921,6 @@
       "onboard_time": 1752989121,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161353,
-      "num": 161353,
-      "word": "关晓彤入伏吃饺子",
-      "onboard_time": 1752996562,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 160634,
@@ -971,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145157,
+      "num": 145157,
+      "word": "李想开i8现身常州",
+      "onboard_time": 1753000101,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144498,
       "num": 159182,
       "word": "沈梦辰晒和杨紫的合照",
@@ -1009,6 +1065,22 @@
       "onboard_time": 1752987982,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142492,
+      "num": 183523,
+      "word": "俄罗斯海域6.7级7.4级6.7级地震",
+      "onboard_time": 1752999320,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142114,
+      "num": 107101,
+      "word": "梓渝捂得好严实",
+      "onboard_time": 1753000101,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 140187,
@@ -1083,6 +1155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130054,
+      "num": 145200,
+      "word": "wakuku",
+      "onboard_time": 1752998721,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129662,
+      "num": 186319,
+      "word": "邓超祝老舅生日快乐",
+      "onboard_time": 1752999981,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128436,
       "num": 128436,
       "word": "恋与深空",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1752986901,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128177,
+      "num": 145167,
+      "word": "沈月被黄圣依妈妈热情围攻",
+      "onboard_time": 1752999141,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 127617,
@@ -1139,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125432,
+      "num": 179296,
+      "word": "国羽日本公开赛获3金1银",
+      "onboard_time": 1752999622,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124831,
       "num": 124831,
       "word": "时空中的绘旅人美术集2.0",
@@ -1169,6 +1273,22 @@
       "onboard_time": 1752979401,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122411,
+      "num": 122411,
+      "word": "石宇奇夺本赛季第三冠",
+      "onboard_time": 1752998840,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121859,
+      "num": 121859,
+      "word": "台风韦帕将登陆广东珠江口以西",
+      "onboard_time": 1752997460,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121649,
@@ -1235,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "8090后的青春被00后接手了",
+      "onboard_time": 1752999861,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119012,
       "num": 119012,
       "word": "藏海传野生编剧是怎么一回事",
@@ -1256,6 +1384,14 @@
       "word": "因臭水困扰市民到市区买水买饭",
       "onboard_time": 1752986543,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116497,
+      "num": 116497,
+      "word": "铂金价格猛涨远超白银黄金",
+      "onboard_time": 1752997101,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1337,6 +1473,14 @@
       "onboard_time": 1752980301,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111579,
+      "num": 111579,
+      "word": "被一只猫冷暴力了3年",
+      "onboard_time": 1752999443,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 111405,
@@ -1427,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106048,
+      "num": 106708,
+      "word": "餐馆打包见手青要签免责协议",
+      "onboard_time": 1752998840,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106038,
       "num": 106038,
       "word": "郎园偶遇宋茜陈梦",
@@ -1457,6 +1609,14 @@
       "onboard_time": 1752917002,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105245,
+      "num": 105245,
+      "word": "常州一只恐龙中暑了",
+      "onboard_time": 1752999801,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105241,
@@ -1563,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98217,
-      "num": 98217,
-      "word": "铂金价格猛涨远超白银黄金",
-      "onboard_time": 1752997101,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96663,
       "num": 96663,
       "word": "入伏",
@@ -1656,14 +1808,6 @@
       "word": "越南一游船倾覆已致35死",
       "onboard_time": 1752991581,
       "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88364,
-      "num": 265067,
-      "word": "美国船长酒驾撞上退役航母",
-      "onboard_time": 1752996140,
-      "rank": 22,
       "category": "海外新闻"
     },
     {
@@ -1923,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43153,
+      "num": 160400,
+      "word": "骑手半夜撞伤人自称只有3块钱",
+      "onboard_time": 1752998541,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42698,
       "num": 45237,
       "word": "梓渝在音乐节前一晚睡不着",
@@ -2075,20 +2227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19531,
+      "num": 648243,
+      "word": "今日入伏",
+      "onboard_time": 1752982519,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17375,
       "num": 23134,
       "word": "樱桃琥珀张凌赫的Hero是赵今麦",
       "onboard_time": 1752953355,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10170,
-      "num": 444188,
-      "word": "今日入伏",
-      "onboard_time": 1752982519,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

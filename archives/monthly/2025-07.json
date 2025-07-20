@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752997192684,
+  "endTime": 1753000398519,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3579,6 +3579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 928147,
+      "num": 198256,
+      "word": "上海蝉尿如下雨",
+      "onboard_time": 1752998601,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 927328,
       "num": 927328,
       "word": "山姆越来越像沃尔玛了",
@@ -4705,6 +4713,14 @@
       "onboard_time": 1752853342,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784525,
+      "num": 444168,
+      "word": "房主任被家暴没有反转",
+      "onboard_time": 1752992602,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 782632,
@@ -6299,6 +6315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 661419,
+      "num": 661419,
+      "word": "三伏天 减肥",
+      "onboard_time": 1752993801,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 660143,
       "num": 324287,
       "word": "小沈阳发文力挺女儿",
@@ -6513,6 +6537,14 @@
       "onboard_time": 1752333682,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 647084,
+      "num": 647084,
+      "word": "家里吧唧太多女孩深夜中毒送医",
+      "onboard_time": 1752996322,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 647001,
@@ -10475,14 +10507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 444168,
-      "num": 444168,
-      "word": "房主任被家暴没有反转",
-      "onboard_time": 1752992602,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 444156,
       "num": 691203,
       "word": "田栩宁19岁时许愿不要被黑",
@@ -10841,14 +10865,6 @@
       "onboard_time": 1751519841,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 428638,
-      "num": 428638,
-      "word": "三伏天 减肥",
-      "onboard_time": 1752993801,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 428365,
@@ -11907,6 +11923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390976,
+      "num": 390976,
+      "word": "梓渝音乐节",
+      "onboard_time": 1752988519,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 390648,
       "num": 370398,
       "word": "梓渝和弟弟有一样的痣",
@@ -11945,6 +11969,14 @@
       "onboard_time": 1751860765,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388787,
+      "num": 198130,
+      "word": "田栩宁四宫格照",
+      "onboard_time": 1752997823,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 388469,
@@ -14745,14 +14777,6 @@
       "onboard_time": 1751641107,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318281,
-      "num": 310836,
-      "word": "梓渝音乐节",
-      "onboard_time": 1752988519,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 317667,
@@ -24155,6 +24179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200592,
+      "num": 189371,
+      "word": "程潇曾患双相情感障碍",
+      "onboard_time": 1752999443,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200583,
       "num": 180449,
       "word": "斗罗1天生就是当1的料",
@@ -28779,12 +28811,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178408,
+      "num": 265067,
+      "word": "美国船长酒驾撞上退役航母",
+      "onboard_time": 1752996140,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 178359,
       "num": 178359,
       "word": "白敬亭泳池腹肌照",
       "onboard_time": 1752052163,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178319,
+      "num": 178319,
+      "word": "关晓彤入伏吃饺子",
+      "onboard_time": 1752996562,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178293,
+      "num": 145164,
+      "word": "魏雅欣夺冠后发九宫格",
+      "onboard_time": 1752999680,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 178267,
@@ -31451,14 +31507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166711,
-      "num": 166711,
-      "word": "家里吧唧太多女孩深夜中毒送医",
-      "onboard_time": 1752996322,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166696,
       "num": 166696,
       "word": "孙颖莎王曼昱vs迪亚兹帕瓦德",
@@ -32817,14 +32865,6 @@
       "onboard_time": 1751350581,
       "rank": 36,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 161353,
-      "num": 161353,
-      "word": "关晓彤入伏吃饺子",
-      "onboard_time": 1752996562,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 161339,
@@ -37339,6 +37379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145157,
+      "num": 145157,
+      "word": "李想开i8现身常州",
+      "onboard_time": 1753000101,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145149,
       "num": 149829,
       "word": "龚俊花少7埃及到达路透",
@@ -38139,6 +38187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142492,
+      "num": 183523,
+      "word": "俄罗斯海域6.7级7.4级6.7级地震",
+      "onboard_time": 1752999320,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142484,
       "num": 142484,
       "word": "18岁男生当NPC救爷爷连跳60天未休",
@@ -38247,6 +38303,14 @@
       "num": 146165,
       "word": "具惠善离婚后近况",
       "onboard_time": 1752919222,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142114,
+      "num": 107101,
+      "word": "梓渝捂得好严实",
+      "onboard_time": 1753000101,
       "rank": 41,
       "category": "艺人"
     },
@@ -42523,6 +42587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129662,
+      "num": 186319,
+      "word": "邓超祝老舅生日快乐",
+      "onboard_time": 1752999981,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129645,
       "num": 290114,
       "word": "河南南阳强降雨已致5人遇难",
@@ -43105,6 +43177,14 @@
       "onboard_time": 1751688022,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 128177,
+      "num": 145167,
+      "word": "沈月被黄圣依妈妈热情围攻",
+      "onboard_time": 1752999141,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 128171,
@@ -44201,6 +44281,14 @@
       "onboard_time": 1752124523,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125432,
+      "num": 179296,
+      "word": "国羽日本公开赛获3金1银",
+      "onboard_time": 1752999622,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 125426,
@@ -45387,6 +45475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 122411,
+      "num": 122411,
+      "word": "石宇奇夺本赛季第三冠",
+      "onboard_time": 1752998840,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122379,
       "num": 122379,
       "word": "母亲做上百万个包子替亡子还债",
@@ -45649,6 +45745,14 @@
       "onboard_time": 1752487761,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121859,
+      "num": 121859,
+      "word": "台风韦帕将登陆广东珠江口以西",
+      "onboard_time": 1752997460,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121846,
@@ -46665,6 +46769,14 @@
       "onboard_time": 1751618785,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "8090后的青春被00后接手了",
+      "onboard_time": 1752999861,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 119346,
@@ -47792,6 +47904,14 @@
       "word": "律师称投毒案改判可能性微乎其微",
       "onboard_time": 1752216862,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116497,
+      "num": 116497,
+      "word": "铂金价格猛涨远超白银黄金",
+      "onboard_time": 1752997101,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -49761,6 +49881,14 @@
       "onboard_time": 1752980301,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111579,
+      "num": 111579,
+      "word": "被一只猫冷暴力了3年",
+      "onboard_time": 1752999443,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 111576,
@@ -51835,6 +51963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106048,
+      "num": 106708,
+      "word": "餐馆打包见手青要签免责协议",
+      "onboard_time": 1752998840,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106038,
       "num": 106038,
       "word": "郎园偶遇宋茜陈梦",
@@ -52089,6 +52225,14 @@
       "onboard_time": 1752491962,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105245,
+      "num": 105245,
+      "word": "常州一只恐龙中暑了",
+      "onboard_time": 1752999801,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105241,
@@ -54315,14 +54459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98217,
-      "num": 98217,
-      "word": "铂金价格猛涨远超白银黄金",
-      "onboard_time": 1752997101,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98165,
       "num": 100768,
       "word": "戴燕妮时装周露腰造型",
@@ -56369,14 +56505,6 @@
       "onboard_time": 1751507360,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88364,
-      "num": 265067,
-      "word": "美国船长酒驾撞上退役航母",
-      "onboard_time": 1752996140,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 88352,
@@ -62947,6 +63075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43153,
+      "num": 160400,
+      "word": "骑手半夜撞伤人自称只有3块钱",
+      "onboard_time": 1752998541,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43018,
       "num": 289076,
       "word": "上万销量的18元充电宝自称可上飞机",
@@ -67059,6 +67195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19531,
+      "num": 648243,
+      "word": "今日入伏",
+      "onboard_time": 1752982519,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19497,
       "num": 38518,
       "word": "周震南演我手忙脚乱过安检",
@@ -68257,14 +68401,6 @@
       "onboard_time": 1751523202,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10170,
-      "num": 444188,
-      "word": "今日入伏",
-      "onboard_time": 1752982519,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10068,
