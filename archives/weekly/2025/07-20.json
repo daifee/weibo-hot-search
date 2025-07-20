@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753032241837,
+  "endTime": 1753033374485,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -209,6 +209,14 @@
       "onboard_time": 1753000641,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 937551,
+      "num": 937551,
+      "word": "天禄",
+      "onboard_time": 1753033096,
+      "rank": 0,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 928147,
@@ -619,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447240,
+      "num": 465323,
+      "word": "女生为交社保被负债200万",
+      "onboard_time": 1753025841,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445739,
       "num": 445739,
       "word": "丁禹兮扫腿舞",
@@ -641,14 +657,6 @@
       "onboard_time": 1752967516,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428397,
-      "num": 465323,
-      "word": "女生为交社保被负债200万",
-      "onboard_time": 1753025841,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 416313,
@@ -3507,6 +3515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75304,
+      "num": 75304,
+      "word": "宝石老舅回复鹿晗",
+      "onboard_time": 1753031778,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74092,
       "num": 162035,
       "word": "有人租用学生微信用于实施电诈",
@@ -3577,14 +3593,6 @@
       "onboard_time": 1752943699,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 63646,
-      "num": 63646,
-      "word": "宝石老舅回复鹿晗",
-      "onboard_time": 1753031778,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 62935,
@@ -3665,6 +3673,14 @@
       "onboard_time": 1753009282,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60827,
+      "num": 61945,
+      "word": "不要因为花了父母的钱感到愧疚",
+      "onboard_time": 1753032198,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 60324,
@@ -3833,14 +3849,6 @@
       "onboard_time": 1753031238,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38896,
-      "num": 61945,
-      "word": "不要因为花了父母的钱感到愧疚",
-      "onboard_time": 1753032198,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 36553,

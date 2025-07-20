@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753032241837,
+  "endTime": 1753033374485,
   "band_list": [
     {
       "raw_hot": 2178759,
@@ -9,6 +9,14 @@
       "onboard_time": 1753027823,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 937551,
+      "num": 937551,
+      "word": "天禄",
+      "onboard_time": 1753033096,
+      "rank": 0,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 897128,
@@ -91,7 +99,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 428397,
+      "raw_hot": 447240,
       "num": 465323,
       "word": "女生为交社保被负债200万",
       "onboard_time": 1753025841,
@@ -387,6 +395,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 75304,
+      "num": 75304,
+      "word": "宝石老舅回复鹿晗",
+      "onboard_time": 1753031778,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65379,
       "num": 116659,
       "word": "张峻豪晒生日照",
@@ -400,14 +416,6 @@
       "word": "何与胸肌",
       "onboard_time": 1753025302,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 63646,
-      "num": 63646,
-      "word": "宝石老舅回复鹿晗",
-      "onboard_time": 1753031778,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -443,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60827,
+      "num": 61945,
+      "word": "不要因为花了父母的钱感到愧疚",
+      "onboard_time": 1753032198,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57154,
       "num": 116628,
       "word": "蔡徐坤更新快拍",
@@ -459,28 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40589,
+      "num": 61926,
+      "word": "辱骂韦世豪球迷被拘留",
+      "onboard_time": 1753020025,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39774,
       "num": 61958,
       "word": "街道办回应老人肯德基店内占座乘凉",
       "onboard_time": 1753031238,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38896,
-      "num": 61945,
-      "word": "不要因为花了父母的钱感到愧疚",
-      "onboard_time": 1753032198,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 38419,
-      "num": 61926,
-      "word": "辱骂韦世豪球迷被拘留",
-      "onboard_time": 1753020025,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 35407,
