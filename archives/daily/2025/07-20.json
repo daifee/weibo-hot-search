@@ -1,7 +1,15 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753011536240,
+  "endTime": 1753015912650,
   "band_list": [
+    {
+      "raw_hot": 9992140,
+      "num": 9992140,
+      "word": "血铅事件27人被追责问责",
+      "onboard_time": 1753011141,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 2698342,
       "num": 474957,
@@ -19,12 +27,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2404190,
+      "num": 440873,
+      "word": "难听",
+      "onboard_time": 1753014563,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1914343,
       "num": 1914343,
       "word": "691分考上北大惊动了宗族长老",
       "onboard_time": 1752983661,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1804882,
+      "num": 430979,
+      "word": "梓渝挑染",
+      "onboard_time": 1753011563,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1742226,
@@ -51,6 +75,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1578413,
+      "num": 421272,
+      "word": "郑乃馨改名",
+      "onboard_time": 1753011862,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1557997,
       "num": 1557997,
       "word": "妻子抑郁症发作伤人丈夫恼怒下反杀",
@@ -75,12 +107,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1425566,
-      "num": 1425566,
-      "word": "血铅事件27人被追责问责",
-      "onboard_time": 1753011141,
-      "rank": 1,
-      "category": "辟谣/通报"
+      "raw_hot": 1379894,
+      "num": 1379894,
+      "word": "梓渝音乐节",
+      "onboard_time": 1752988519,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1225901,
+      "num": 1225901,
+      "word": "天水第二人民医院修改过血铅数据",
+      "onboard_time": 1753013605,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1218968,
@@ -89,6 +129,22 @@
       "onboard_time": 1753005622,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1183282,
+      "num": 1183282,
+      "word": "甘肃疾控中心严重违反操作规程",
+      "onboard_time": 1753013963,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1053094,
+      "num": 1053094,
+      "word": "陈立农街头拥抱",
+      "onboard_time": 1753012523,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1011091,
@@ -179,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 701726,
+      "num": 405882,
+      "word": "鹿晗发博为宝石老舅庆生",
+      "onboard_time": 1753012222,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694045,
       "num": 448683,
       "word": "农民工为了12元差点被烤熟",
@@ -225,14 +289,6 @@
       "onboard_time": 1752984741,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545713,
-      "num": 545713,
-      "word": "梓渝音乐节",
-      "onboard_time": 1752988519,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 541620,
@@ -411,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 456030,
+      "num": 456030,
+      "word": "刘宇宁演唱会量大管饱",
+      "onboard_time": 1753009222,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 445739,
       "num": 445739,
       "word": "丁禹兮扫腿舞",
@@ -467,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400342,
+      "num": 400342,
+      "word": "王俊凯 英雄联盟",
+      "onboard_time": 1753010903,
+      "rank": 16,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 399464,
       "num": 399464,
       "word": "程潇曾患双相情感障碍",
@@ -489,6 +561,14 @@
       "onboard_time": 1752997823,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383073,
+      "num": 383073,
+      "word": "涉事园长也吃了颜料食品",
+      "onboard_time": 1753014444,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369903,
@@ -579,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335634,
+      "num": 335634,
+      "word": "苏超常州vs徐州",
+      "onboard_time": 1753010601,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332949,
       "num": 332949,
       "word": "很多女孩着急找对象",
@@ -633,6 +721,14 @@
       "onboard_time": 1752979641,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 291200,
+      "num": 291200,
+      "word": "英雄联盟直播",
+      "onboard_time": 1753013304,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 291166,
@@ -697,14 +793,6 @@
       "onboard_time": 1752991461,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270294,
-      "num": 419637,
-      "word": "刘宇宁演唱会量大管饱",
-      "onboard_time": 1753009222,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 267751,
@@ -777,14 +865,6 @@
       "onboard_time": 1752967338,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241918,
-      "num": 241918,
-      "word": "苏超常州vs徐州",
-      "onboard_time": 1753010601,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 240842,
@@ -883,20 +963,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215228,
+      "num": 347043,
+      "word": "荔枝根本不是杨贵妃要吃的",
+      "onboard_time": 1753010601,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213553,
       "num": 213553,
       "word": "你好星期六预告",
       "onboard_time": 1752932902,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213041,
-      "num": 309070,
-      "word": "王俊凯 英雄联盟",
-      "onboard_time": 1753010903,
-      "rank": 16,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 211468,
@@ -915,12 +995,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207185,
+      "num": 207185,
+      "word": "台风",
+      "onboard_time": 1753014325,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "一人一句为福宝送生日祝福",
       "onboard_time": 1752969317,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205347,
+      "num": 182654,
+      "word": "AL对战GEN",
+      "onboard_time": 1753013605,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "小酒窝不同意董璇打蒋峤西",
+      "onboard_time": 1753011442,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204538,
+      "num": 200801,
+      "word": "化尸水化到骨头渣都不剩",
+      "onboard_time": 1753011023,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 203622,
@@ -953,14 +1065,6 @@
       "onboard_time": 1752986061,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200801,
-      "num": 200801,
-      "word": "化尸水化到骨头渣都不剩",
-      "onboard_time": 1753011023,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 199474,
@@ -1083,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187273,
+      "num": 187273,
+      "word": "盐城银河左岸音乐节直播",
+      "onboard_time": 1753012703,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187030,
       "num": 380678,
       "word": "韦帕台风眼已打开",
@@ -1105,6 +1217,14 @@
       "onboard_time": 1753006822,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182459,
+      "num": 182459,
+      "word": "甘肃幼儿血铅6人被逮捕",
+      "onboard_time": 1753012102,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 179581,
@@ -1179,6 +1299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174303,
+      "num": 337473,
+      "word": "纪委监委对检测数据失真等全面调查",
+      "onboard_time": 1753014084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174137,
       "num": 174137,
       "word": "丫鬟连杀四人为惨死全家复仇",
@@ -1227,12 +1355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169115,
+      "num": 169115,
+      "word": "为什么越来越多人选择剖腹产了",
+      "onboard_time": 1753008982,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169104,
       "num": 157627,
       "word": "25岁确诊癌症晚期后的忠告",
       "onboard_time": 1752989722,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167824,
+      "num": 167824,
+      "word": "南京vs扬州",
+      "onboard_time": 1753014744,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 167253,
@@ -1257,6 +1401,14 @@
       "onboard_time": 1753010842,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164545,
+      "num": 164545,
+      "word": "甘肃幼儿血铅检测数值差异原因",
+      "onboard_time": 1753012585,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 164235,
@@ -1363,20 +1515,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156062,
+      "num": 1277170,
+      "word": "天水幼儿血铅异常问题调查最新通报",
+      "onboard_time": 1753011262,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 155692,
+      "num": 155692,
+      "word": "北京晚霞",
+      "onboard_time": 1753013605,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152746,
+      "num": 264336,
+      "word": "朝雪录待嫁少女连环被害",
+      "onboard_time": 1753014325,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152595,
       "num": 448164,
       "word": "知情人称卖饼的中国小伙无合法执照",
       "onboard_time": 1753009342,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152477,
-      "num": 304085,
-      "word": "荔枝根本不是杨贵妃要吃的",
-      "onboard_time": 1753010601,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 152341,
@@ -1547,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142339,
+      "num": 142339,
+      "word": "儿童玩具竟然教孩子用针管",
+      "onboard_time": 1753014263,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142114,
       "num": 107101,
       "word": "梓渝捂得好严实",
@@ -1555,12 +1731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141901,
+      "num": 141901,
+      "word": "苏州vs镇江",
+      "onboard_time": 1753012643,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140744,
       "num": 140744,
       "word": "广东全省转移超27万人",
       "onboard_time": 1753002322,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140574,
+      "num": 140574,
+      "word": "朝雪录",
+      "onboard_time": 1753013363,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 140187,
@@ -1835,14 +2027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123850,
-      "num": 123850,
-      "word": "为什么越来越多人选择剖腹产了",
-      "onboard_time": 1753008982,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123763,
       "num": 389877,
       "word": "韦帕在广东正式登陆",
@@ -1857,14 +2041,6 @@
       "onboard_time": 1752998840,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122157,
-      "num": 122157,
-      "word": "小酒窝不同意董璇打蒋峤西",
-      "onboard_time": 1753011442,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 122129,
@@ -2081,6 +2257,14 @@
       "onboard_time": 1752975380,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112313,
+      "num": 112313,
+      "word": "昆明暴雨",
+      "onboard_time": 1753015826,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112303,
@@ -2459,6 +2643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92937,
+      "num": 154520,
+      "word": "Faker赌AL夺冠",
+      "onboard_time": 1753015344,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92772,
       "num": 92772,
       "word": "不玩手机还有这么多低成本爱好",
@@ -2579,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79901,
+      "num": 445391,
+      "word": "血铅异常幼儿园周边检测未受铅污染",
+      "onboard_time": 1753013304,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 78181,
       "num": 78181,
       "word": "罗小黑",
@@ -2601,14 +2801,6 @@
       "onboard_time": 1752993682,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76005,
-      "num": 277656,
-      "word": "天水幼儿血铅异常问题调查最新通报",
-      "onboard_time": 1753011262,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 74092,
@@ -3033,6 +3225,9 @@
     },
     {
       "word": "#改革发展必须坚持以人民为中心#"
+    },
+    {
+      "word": "#改革为人民#"
     }
   ]
 }

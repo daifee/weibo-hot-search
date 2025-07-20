@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753011536240,
+  "endTime": 1753015912650,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -57,6 +57,14 @@
       "onboard_time": 1752666082,
       "rank": 0,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 9992140,
+      "num": 9992140,
+      "word": "血铅事件27人被追责问责",
+      "onboard_time": 1753011141,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 9835645,
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2404190,
+      "num": 440873,
+      "word": "难听",
+      "onboard_time": 1752240986,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2359704,
       "num": 326893,
       "word": "GAI淘汰",
@@ -683,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1920352,
-      "num": 361308,
-      "word": "难听",
-      "onboard_time": 1752240986,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1916286,
       "num": 1916286,
       "word": "退休人员基本养老金上调2%",
@@ -809,6 +817,14 @@
       "onboard_time": 1752841825,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1804882,
+      "num": 430979,
+      "word": "梓渝挑染",
+      "onboard_time": 1753011563,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1803943,
@@ -1171,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1578413,
+      "num": 421272,
+      "word": "郑乃馨改名",
+      "onboard_time": 1753011862,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1577676,
       "num": 1577676,
       "word": "男子理发店充430万做灌肠后遭退费难",
@@ -1491,14 +1515,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 1425566,
-      "num": 1425566,
-      "word": "血铅事件27人被追责问责",
-      "onboard_time": 1753011141,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 1419413,
       "num": 1419413,
       "word": "奶奶频繁亲吻孙子致其患亲吻病",
@@ -1624,6 +1640,14 @@
       "word": "张靓颖 网红化",
       "onboard_time": 1751950225,
       "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1379894,
+      "num": 1379894,
+      "word": "梓渝音乐节",
+      "onboard_time": 1752988519,
+      "rank": 17,
       "category": "演出"
     },
     {
@@ -2163,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1225901,
+      "num": 1225901,
+      "word": "天水第二人民医院修改过血铅数据",
+      "onboard_time": 1753013605,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1225523,
       "num": 1158229,
       "word": "Angelababy出席巴黎时装周",
@@ -2400,6 +2432,14 @@
       "word": "12岁女童家中遭21岁网友性侵",
       "onboard_time": 1751685082,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1183282,
+      "num": 1183282,
+      "word": "甘肃疾控中心严重违反操作规程",
+      "onboard_time": 1753013963,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2928,6 +2968,14 @@
       "word": "胡一天回应没进组",
       "onboard_time": 1751368521,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1053094,
+      "num": 1053094,
+      "word": "陈立农街头拥抱",
+      "onboard_time": 1753012523,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -5763,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701726,
+      "num": 405882,
+      "word": "鹿晗发博为宝石老舅庆生",
+      "onboard_time": 1753012222,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701716,
       "num": 701716,
       "word": "K1373砸窗男子被批评教育",
@@ -8275,14 +8331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545713,
-      "num": 545713,
-      "word": "梓渝音乐节",
-      "onboard_time": 1752988519,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 545570,
       "num": 545570,
       "word": "美国游客在意大利被割喉抢劫",
@@ -10147,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456030,
+      "num": 456030,
+      "word": "刘宇宁演唱会量大管饱",
+      "onboard_time": 1753009222,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 455893,
       "num": 696686,
       "word": "余承东因开车看手机去自首了",
@@ -11795,6 +11851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400342,
+      "num": 400342,
+      "word": "王俊凯 英雄联盟",
+      "onboard_time": 1753010903,
+      "rank": 16,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 400311,
       "num": 271853,
       "word": "李兰迪瘦了好多",
@@ -12248,6 +12312,14 @@
       "word": "罗马仕向消费者表示深刻歉意",
       "onboard_time": 1751779283,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383073,
+      "num": 383073,
+      "word": "涉事园长也吃了颜料食品",
+      "onboard_time": 1753014444,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -14137,6 +14209,14 @@
       "onboard_time": 1751601384,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335634,
+      "num": 335634,
+      "word": "苏超常州vs徐州",
+      "onboard_time": 1753010601,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 335620,
@@ -16163,6 +16243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291200,
+      "num": 291200,
+      "word": "英雄联盟直播",
+      "onboard_time": 1753013304,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 291166,
       "num": 291166,
       "word": "记者河中报道少女失踪意外踩到其遗体",
@@ -17481,14 +17569,6 @@
       "onboard_time": 1752489021,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270294,
-      "num": 419637,
-      "word": "刘宇宁演唱会量大管饱",
-      "onboard_time": 1753009222,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 270123,
@@ -19561,14 +19641,6 @@
       "onboard_time": 1751288303,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241918,
-      "num": 241918,
-      "word": "苏超常州vs徐州",
-      "onboard_time": 1753010601,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 241893,
@@ -21987,6 +22059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215228,
+      "num": 347043,
+      "word": "荔枝根本不是杨贵妃要吃的",
+      "onboard_time": 1753010601,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "父母花50万带5岁儿子骑游41国",
@@ -22369,14 +22449,6 @@
       "onboard_time": 1752673462,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 213041,
-      "num": 309070,
-      "word": "王俊凯 英雄联盟",
-      "onboard_time": 1753010903,
-      "rank": 16,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 212961,
@@ -23459,6 +23531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205347,
+      "num": 182654,
+      "word": "AL对战GEN",
+      "onboard_time": 1753013605,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205301,
       "num": 205301,
       "word": "雀骨",
@@ -23481,6 +23561,14 @@
       "onboard_time": 1752643281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205113,
+      "num": 205113,
+      "word": "小酒窝不同意董璇打蒋峤西",
+      "onboard_time": 1753011442,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 205106,
@@ -23609,6 +23697,14 @@
       "onboard_time": 1752758602,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204538,
+      "num": 200801,
+      "word": "化尸水化到骨头渣都不剩",
+      "onboard_time": 1753011023,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 204460,
@@ -24393,14 +24489,6 @@
       "onboard_time": 1751718863,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200801,
-      "num": 200801,
-      "word": "化尸水化到骨头渣都不剩",
-      "onboard_time": 1753011023,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 200765,
@@ -27363,6 +27451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187273,
+      "num": 187273,
+      "word": "盐城银河左岸音乐节直播",
+      "onboard_time": 1753012703,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187142,
       "num": 187142,
       "word": "快递员涉嫌变卖油卡最高判无期",
@@ -28329,6 +28425,14 @@
       "onboard_time": 1752329004,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182459,
+      "num": 182459,
+      "word": "甘肃幼儿血铅6人被逮捕",
+      "onboard_time": 1753012102,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 182405,
@@ -30003,6 +30107,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 174303,
+      "num": 337473,
+      "word": "纪委监委对检测数据失真等全面调查",
+      "onboard_time": 1753014084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174301,
       "num": 174301,
       "word": "郑雅贤在国外LadyGaga在中国王心凌",
@@ -31331,6 +31443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169115,
+      "num": 169115,
+      "word": "为什么越来越多人选择剖腹产了",
+      "onboard_time": 1753008982,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169030,
       "num": 169030,
       "word": "帕尔梅拉斯1比2切尔西",
@@ -31625,6 +31745,14 @@
       "onboard_time": 1752395063,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167824,
+      "num": 167824,
+      "word": "南京vs扬州",
+      "onboard_time": 1753014744,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 167798,
@@ -32425,6 +32553,14 @@
       "onboard_time": 1752923661,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164545,
+      "num": 164545,
+      "word": "甘肃幼儿血铅检测数值差异原因",
+      "onboard_time": 1753012585,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 164480,
@@ -34571,6 +34707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156062,
+      "num": 1277170,
+      "word": "天水幼儿血铅异常问题调查最新通报",
+      "onboard_time": 1753011262,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 156047,
       "num": 156047,
       "word": "闪耀暖暖 陈奕雯",
@@ -34681,6 +34825,14 @@
       "onboard_time": 1752136583,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155692,
+      "num": 155692,
+      "word": "北京晚霞",
+      "onboard_time": 1753013605,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155652,
@@ -35419,6 +35571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152746,
+      "num": 264336,
+      "word": "朝雪录待嫁少女连环被害",
+      "onboard_time": 1753014325,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152682,
       "num": 152682,
       "word": "控糖瓜 没熟",
@@ -35553,14 +35713,6 @@
       "onboard_time": 1752383481,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152477,
-      "num": 304085,
-      "word": "荔枝根本不是杨贵妃要吃的",
-      "onboard_time": 1753010601,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 152473,
@@ -38723,6 +38875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142339,
+      "num": 142339,
+      "word": "儿童玩具竟然教孩子用针管",
+      "onboard_time": 1753014263,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142242,
       "num": 142242,
       "word": "zwy的bp",
@@ -38825,6 +38985,14 @@
       "onboard_time": 1752379282,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141901,
+      "num": 141901,
+      "word": "苏州vs镇江",
+      "onboard_time": 1753012643,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 141861,
@@ -45443,14 +45611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123850,
-      "num": 123850,
-      "word": "为什么越来越多人选择剖腹产了",
-      "onboard_time": 1753008982,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123835,
       "num": 131223,
       "word": "老年暴走团阻碍公务车出勤涉嫌违法",
@@ -46161,14 +46321,6 @@
       "onboard_time": 1752378681,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122157,
-      "num": 122157,
-      "word": "小酒窝不同意董璇打蒋峤西",
-      "onboard_time": 1753011442,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 122146,
@@ -50217,6 +50369,14 @@
       "onboard_time": 1752649883,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112313,
+      "num": 112313,
+      "word": "昆明暴雨",
+      "onboard_time": 1753015826,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112303,
@@ -56347,6 +56507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92937,
+      "num": 154520,
+      "word": "Faker赌AL夺冠",
+      "onboard_time": 1753015344,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92887,
       "num": 92887,
       "word": "李兰迪雪中撑伞美学",
@@ -58643,6 +58811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79901,
+      "num": 445391,
+      "word": "血铅异常幼儿园周边检测未受铅污染",
+      "onboard_time": 1753013304,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 79897,
       "num": 221892,
       "word": "考编专用校分数远超一线985",
@@ -59161,14 +59337,6 @@
       "onboard_time": 1752542901,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76005,
-      "num": 277656,
-      "word": "天水幼儿血铅异常问题调查最新通报",
-      "onboard_time": 1753011262,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 75965,
@@ -69474,6 +69642,9 @@
     },
     {
       "word": "#改革发展必须坚持以人民为中心#"
+    },
+    {
+      "word": "#改革为人民#"
     }
   ]
 }

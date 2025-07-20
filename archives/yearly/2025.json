@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753011536240,
+  "endTime": 1753015912650,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -929,6 +929,14 @@
       "onboard_time": 1735784479,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9992140,
+      "num": 9992140,
+      "word": "血铅事件27人被追责问责",
+      "onboard_time": 1753011141,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 9966428,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741936462,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3684387,
-      "num": 3684387,
-      "word": "仅退款",
-      "onboard_time": 1745321421,
-      "rank": 32,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

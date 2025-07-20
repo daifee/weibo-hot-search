@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/20 19:38:56
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/20 20:51:52
 </p>
 </blockquote>
 <p>
@@ -707,6 +707,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E9%97%AE%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%88%91%E6%80%8E%E4%B9%88%E7%9D%80%E4%BD%A0%E4%BA%86%23" target="weibo">
 于正问赵露思我怎么着你了（热度：10019281）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%80%E9%93%85%E4%BA%8B%E4%BB%B627%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3%23" target="weibo">
+血铅事件27人被追责问责（热度：9992140）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E8%AF%B4%E8%B0%8E%E4%BA%86%23" target="weibo">
 金秀贤说谎了（热度：3690143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%85%E9%80%80%E6%AC%BE%23" target="weibo">
-仅退款（热度：3684387）
 </a>
 </li>
 
