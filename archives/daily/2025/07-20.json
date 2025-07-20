@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753018614200,
+  "endTime": 1753019347741,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3956136,
-      "num": 440873,
+      "num": 462922,
       "word": "难听",
       "onboard_time": 1753014563,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1804882,
-      "num": 430979,
+      "num": 435597,
       "word": "梓渝挑染",
       "onboard_time": 1753011563,
       "rank": 11,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1578413,
-      "num": 421272,
+      "num": 452219,
       "word": "郑乃馨改名",
       "onboard_time": 1753011862,
       "rank": 12,
@@ -201,6 +201,14 @@
       "onboard_time": 1752930383,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 796167,
+      "num": 796167,
+      "word": "楚雨荨她舅当爱豆就这样吧",
+      "onboard_time": 1753017926,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 784525,
@@ -427,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 486901,
+      "num": 806672,
+      "word": "涉事园长也吃了颜料食品",
+      "onboard_time": 1753014444,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485264,
       "num": 485264,
       "word": "仙逆",
@@ -491,14 +507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 450067,
-      "num": 450067,
-      "word": "楚雨荨她舅当爱豆就这样吧",
-      "onboard_time": 1753017926,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 445739,
       "num": 445739,
       "word": "丁禹兮扫腿舞",
@@ -555,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 404765,
-      "num": 714963,
-      "word": "涉事园长也吃了颜料食品",
-      "onboard_time": 1753014444,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 403477,
       "num": 403477,
       "word": "12306回应高铁不要食用方便面提醒",
@@ -611,8 +611,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 359464,
-      "num": 359464,
+      "raw_hot": 364488,
+      "num": 364488,
       "word": "刘宇宁演唱会",
       "onboard_time": 1752920900,
       "rank": 23,
@@ -779,6 +779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 289244,
+      "num": 337473,
+      "word": "纪委监委对检测数据失真等全面调查",
+      "onboard_time": 1753014084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287669,
       "num": 287669,
       "word": "杨舒予哭了",
@@ -865,14 +873,6 @@
       "onboard_time": 1753003942,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 264266,
-      "num": 337473,
-      "word": "纪委监委对检测数据失真等全面调查",
-      "onboard_time": 1753014084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262258,
@@ -979,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228699,
+      "num": 1277170,
+      "word": "天水幼儿血铅异常问题调查最新通报",
+      "onboard_time": 1753011262,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 220517,
       "num": 220517,
       "word": "台风",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1753010601,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214622,
+      "num": 477284,
+      "word": "为什么越来越多人选择剖腹产了",
+      "onboard_time": 1753008982,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213553,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1752989302,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203200,
+      "num": 203200,
+      "word": "于适 很多人在搞我",
+      "onboard_time": 1753018883,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 201331,
@@ -1243,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189309,
+      "num": 189309,
+      "word": "鹿晗叫醒铃声",
+      "onboard_time": 1753018464,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189032,
       "num": 189032,
       "word": "高铁建议勿食用方便面引网友热议",
@@ -1307,6 +1339,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 181961,
+      "num": 181961,
+      "word": "澳大利亚女篮亚洲杯冠军",
+      "onboard_time": 1753018705,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179581,
       "num": 179581,
       "word": "台风韦帕",
@@ -1352,6 +1392,14 @@
       "word": "魏雅欣夺冠后发九宫格",
       "onboard_time": 1752999680,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176743,
+      "num": 176743,
+      "word": "浙BA首个赛区冠军出炉",
+      "onboard_time": 1753018705,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1427,12 +1475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169115,
-      "num": 439216,
-      "word": "为什么越来越多人选择剖腹产了",
-      "onboard_time": 1753008982,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 169345,
+      "num": 169345,
+      "word": "嫌日子过得太舒服可以把空调关了",
+      "onboard_time": 1753019004,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 169104,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1752989722,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168719,
+      "num": 168719,
+      "word": "苏州4比0镇江",
+      "onboard_time": 1753016848,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 167824,
@@ -1497,6 +1553,14 @@
       "onboard_time": 1752979100,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164027,
+      "num": 164027,
+      "word": "常州龙想偷袭徐州龙",
+      "onboard_time": 1753018765,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 163865,
@@ -1603,28 +1667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156062,
-      "num": 1277170,
-      "word": "天水幼儿血铅异常问题调查最新通报",
-      "onboard_time": 1753011262,
-      "rank": 23,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "北京晚霞",
       "onboard_time": 1753013605,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155431,
-      "num": 155431,
-      "word": "苏州4比0镇江",
-      "onboard_time": 1753016848,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 152746,
@@ -1843,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143082,
+      "num": 143082,
+      "word": "韦帕在广东再次登陆",
+      "onboard_time": 1753018705,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143051,
       "num": 143051,
       "word": "原神",
@@ -1857,14 +1913,6 @@
       "onboard_time": 1753000101,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140848,
-      "num": 140848,
-      "word": "鹿晗叫醒铃声",
-      "onboard_time": 1753018464,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 140744,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1752936622,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134518,
+      "num": 134518,
+      "word": "心理学上暗恋的表现",
+      "onboard_time": 1753019185,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 134196,
@@ -2108,7 +2164,7 @@
     },
     {
       "raw_hot": 126378,
-      "num": 126378,
+      "num": 157335,
       "word": "MINNIE开球",
       "onboard_time": 1753017624,
       "rank": 49,
@@ -2985,6 +3041,14 @@
       "onboard_time": 1752993201,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69655,
+      "num": 147291,
+      "word": "马龙发球谁也接不住",
+      "onboard_time": 1753018824,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 69560,

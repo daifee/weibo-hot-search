@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 21:36:54
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 21:49:07
 </p>
 </blockquote>
 <p>
@@ -3543,6 +3543,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A5%9A%E9%9B%A8%E8%8D%A8%E5%A5%B9%E8%88%85%E5%BD%93%E7%88%B1%E8%B1%86%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%90%A7%23" target="weibo">
+楚雨荨她舅当爱豆就这样吧（热度：796167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%87%8C%E6%99%A8%E5%81%B7%E5%A5%94%E9%A9%B0%E8%87%B4%E4%B8%A5%E9%87%8D%E8%BD%A6%E7%A5%B8%23" target="weibo">
 3名初中生凌晨偷奔驰致严重车祸（热度：796085）
 </a>
@@ -6005,12 +6011,6 @@ GAI表情（热度：577758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%BC%96%E6%88%90%E7%BB%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E9%A2%86%E5%85%88%E7%89%B5%E5%87%BA%E8%B7%A8%E7%9C%81%E4%BD%9C%E5%BC%8A%E6%A1%88%23" target="weibo">
 考编成绩断崖式领先牵出跨省作弊案（热度：565432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%AD%E5%B7%9E%E6%B0%B4%E5%8A%A1%E9%9B%86%E5%9B%A2%E5%88%98%E6%9F%90%E6%9F%90%E6%BD%9C%E9%80%83%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
-网传杭州水务集团刘某某潜逃系谣言（热度：563519）
 </a>
 </li>
 
