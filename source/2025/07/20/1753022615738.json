@@ -1,0 +1,410 @@
+{
+  "runTime": 1753022615738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5702922,
+        "num": 5702922,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1129800,
+        "num": 1129800,
+        "word": "梓渝全开麦",
+        "onboard_time": 1753019605,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 392056,
+        "num": 596222,
+        "word": "涉事园长也吃了颜料食品",
+        "onboard_time": 1753014444,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1186685,
+        "num": 579818,
+        "word": "于适 很多人在搞我",
+        "onboard_time": 1753018883,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 544881,
+        "num": 544881,
+        "word": "天水第二人民医院修改过血铅数据",
+        "onboard_time": 1753013605,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526208,
+        "num": 526208,
+        "word": "甘肃疾控中心严重违反操作规程",
+        "onboard_time": 1753013963,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600015,
+        "num": 524865,
+        "word": "陈立农街头拥抱",
+        "onboard_time": 1753012523,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521114,
+        "num": 521114,
+        "word": "沙特沉睡王子昏迷近20年后去世",
+        "onboard_time": 1753005562,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 514531,
+        "num": 514531,
+        "word": "鹿晗摘戒指",
+        "onboard_time": 1753021525,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296321,
+        "num": 296321,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 9,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 1867259,
+        "num": 295670,
+        "word": "难听",
+        "onboard_time": 1753014563,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 714458,
+        "num": 294934,
+        "word": "郑乃馨改名",
+        "onboard_time": 1753011862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637162,
+        "num": 293290,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 484302,
+        "num": 290864,
+        "word": "朝雪录热度",
+        "onboard_time": 1753016126,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 289744,
+        "word": "韦帕在广东再次登陆",
+        "onboard_time": 1753018705,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607533,
+        "num": 288880,
+        "word": "梓渝超话热度破纪录",
+        "onboard_time": 1753020626,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417778,
+        "num": 286943,
+        "word": "田栩宁超话连爆6小时",
+        "onboard_time": 1753021705,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320315,
+        "num": 285549,
+        "word": "鹿晗发博为宝石老舅庆生",
+        "onboard_time": 1753012222,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300441,
+        "num": 284196,
+        "word": "刘宇宁直播",
+        "onboard_time": 1753020325,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13772,
+        "num": 283224,
+        "word": "刑侦中队长伙同律师受贿920万元",
+        "onboard_time": 1753022185,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034828,
+        "num": 281738,
+        "word": "梓渝站姐",
+        "onboard_time": 1753020866,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 734572,
+        "num": 280080,
+        "word": "韩女子咬断性侵者舌头被判刑",
+        "onboard_time": 1753020444,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307582,
+        "num": 279081,
+        "word": "楚雨荨她舅当爱豆就这样吧",
+        "onboard_time": 1753017926,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278469,
+        "num": 278469,
+        "word": "常州0比2徐州",
+        "onboard_time": 1753017744,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276719,
+        "num": 276719,
+        "word": "纪委监委对检测数据失真等全面调查",
+        "onboard_time": 1753014084,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274957,
+        "num": 274957,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1753017983,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258062,
+        "num": 258062,
+        "word": "老舅回应邓超",
+        "onboard_time": 1753020025,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243383,
+        "num": 243383,
+        "word": "模仿出轨CEO成全球热梗",
+        "onboard_time": 1753005622,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225918,
+        "num": 225918,
+        "word": "AL对战GEN",
+        "onboard_time": 1753013605,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211022,
+        "num": 211022,
+        "word": "为什么越来越多人选择剖腹产了",
+        "onboard_time": 1753008982,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25543,
+        "num": 207439,
+        "word": "杨幂长达40S的长镜头名场面",
+        "onboard_time": 1753021705,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205530,
+        "num": 205530,
+        "word": "吧唧 甲醛",
+        "onboard_time": 1753003041,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188220,
+        "num": 188220,
+        "word": "齐齐哈尔烤肉是一个单独赛道",
+        "onboard_time": 1753021285,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182103,
+        "num": 182103,
+        "word": "JDG夏季赛第三周周亚军",
+        "onboard_time": 1753022425,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170663,
+        "num": 170663,
+        "word": "郑乃馨 Nene",
+        "onboard_time": 1753021946,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168956,
+        "num": 168956,
+        "word": "明日方舟",
+        "onboard_time": 1753021645,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164419,
+        "num": 164419,
+        "word": "得物崩了",
+        "onboard_time": 1753020984,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162500,
+        "num": 162500,
+        "word": "辱骂韦世豪球迷被拘留",
+        "onboard_time": 1753020025,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158947,
+        "num": 158947,
+        "word": "731部队成员称解剖了活人300名",
+        "onboard_time": 1753021585,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42481,
+        "num": 157848,
+        "word": "马龙与官兵pk叠被子",
+        "onboard_time": 1753021525,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 157507,
+        "word": "王俊凯 英雄联盟手游",
+        "onboard_time": 1753010903,
+        "rank": 40,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 146536,
+        "num": 146536,
+        "word": "儿童玩具竟然教孩子用针管",
+        "onboard_time": 1753014263,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143829,
+        "num": 143829,
+        "word": "天水幼儿血铅异常问题调查最新通报",
+        "onboard_time": 1753011262,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137843,
+        "num": 137843,
+        "word": "扬州1比5南京",
+        "onboard_time": 1753020444,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134390,
+        "num": 134390,
+        "word": "张峻豪晒生日照",
+        "onboard_time": 1753019963,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128429,
+        "num": 128429,
+        "word": "迪丽热巴让色彩的美更加具象",
+        "onboard_time": 1753020085,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125217,
+        "num": 125217,
+        "word": "时代少年团抢票",
+        "onboard_time": 1753022425,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124455,
+        "num": 124455,
+        "word": "苏州再这么踢吃蟹买不到醋了",
+        "onboard_time": 1753022126,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123714,
+        "num": 123714,
+        "word": "汪苏泷音乐节",
+        "onboard_time": 1753022545,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119161,
+        "num": 119161,
+        "word": "敖瑞鹏李兰迪发了芭莎大片",
+        "onboard_time": 1753006881,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
