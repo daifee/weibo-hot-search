@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753054064433,
+  "endTime": 1753054922296,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1167453,
+      "num": 1167453,
+      "word": "女生为交社保被负债200万",
+      "onboard_time": 1753025841,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1106445,
       "num": 336145,
       "word": "梓渝站姐",
@@ -195,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020946,
+      "num": 1020946,
+      "word": "央视曝光领导视察才开门的农村公厕",
+      "onboard_time": 1753024524,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1011091,
       "num": 1011091,
       "word": "医生说下肢是人体自带的血糖仪",
       "onboard_time": 1752936323,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 980522,
-      "num": 980522,
-      "word": "女生为交社保被负债200万",
-      "onboard_time": 1753025841,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 950723,
@@ -241,14 +249,6 @@
       "onboard_time": 1753025841,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 870821,
-      "num": 870821,
-      "word": "央视曝光领导视察才开门的农村公厕",
-      "onboard_time": 1753024524,
-      "rank": 31,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 869349,
@@ -1131,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243295,
+      "num": 243295,
+      "word": "宝石老舅回复鹿晗",
+      "onboard_time": 1753031778,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240842,
       "num": 240842,
       "word": "中国女篮vs韩国女篮",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1753024703,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 218070,
-      "num": 218070,
-      "word": "宝石老舅回复鹿晗",
-      "onboard_time": 1753031778,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 217094,
@@ -2003,20 +2003,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160288,
+      "num": 160288,
+      "word": "731部队成员称解剖了活人300名",
+      "onboard_time": 1753021585,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160263,
       "num": 160263,
       "word": "达达利亚",
       "onboard_time": 1752986181,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158947,
-      "num": 158947,
-      "word": "731部队成员称解剖了活人300名",
-      "onboard_time": 1753021585,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158602,
@@ -3107,6 +3107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107366,
+      "num": 107366,
+      "word": "400斤石头漂浮恒河被膜拜",
+      "onboard_time": 1753038795,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106995,
       "num": 106995,
       "word": "基孔肯雅热",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1753004301,
       "rank": 47,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 106466,
+      "num": 106466,
+      "word": "台风路径",
+      "onboard_time": 1753053739,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106165,
@@ -3347,6 +3363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95208,
+      "num": 95208,
+      "word": "女骑手回应将女儿装外卖箱送外卖",
+      "onboard_time": 1753041616,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94882,
       "num": 94882,
       "word": "丁禹兮30岁生日照片",
@@ -3435,14 +3459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90698,
-      "num": 90698,
-      "word": "女骑手回应将女儿装外卖箱送外卖",
-      "onboard_time": 1753041616,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90642,
       "num": 163276,
       "word": "北半球酷热南半球世纪严寒",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1753045274,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87241,
-      "num": 87241,
-      "word": "400斤石头漂浮恒河被膜拜",
-      "onboard_time": 1753038795,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87033,
@@ -3539,6 +3547,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 83207,
+      "num": 107064,
+      "word": "王俊凯又双叒叕追星成功了",
+      "onboard_time": 1753053859,
+      "rank": 46,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 82377,
       "num": 276931,
       "word": "贵州两学校指责对方中高考造假",
@@ -3579,6 +3595,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 77825,
+      "num": 77825,
+      "word": "韩国暴雨死亡升至17人",
+      "onboard_time": 1753053378,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77563,
       "num": 90006,
       "word": "李现锦绣芳华收官发文",
@@ -3609,6 +3633,22 @@
       "onboard_time": 1752993201,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72729,
+      "num": 106924,
+      "word": "刘宇宁深圳演唱会",
+      "onboard_time": 1753053679,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 71325,
+      "num": 295207,
+      "word": "特朗普开始审查马斯克公司合同",
+      "onboard_time": 1753054339,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69655,
@@ -3665,6 +3705,14 @@
       "onboard_time": 1752943699,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63640,
+      "num": 63640,
+      "word": "三伏贴哪类人群适合贴",
+      "onboard_time": 1753050436,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62935,
@@ -3731,6 +3779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61610,
+      "num": 61610,
+      "word": "村支书打入苏超第100球",
+      "onboard_time": 1753053498,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61490,
       "num": 69581,
       "word": "530万买房业主徒手掰开大梁碎块",
@@ -3761,14 +3817,6 @@
       "onboard_time": 1753032198,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60339,
-      "num": 60339,
-      "word": "韩国暴雨死亡升至17人",
-      "onboard_time": 1753053378,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 60324,
@@ -3803,11 +3851,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56536,
-      "num": 56536,
-      "word": "村支书打入苏超第100球",
-      "onboard_time": 1753053498,
-      "rank": 36,
+      "raw_hot": 56522,
+      "num": 56522,
+      "word": "常州球员输球后掩面痛哭",
+      "onboard_time": 1753053378,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -3843,14 +3891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 54048,
-      "num": 54048,
-      "word": "刘宇宁深圳演唱会",
-      "onboard_time": 1753053679,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 51049,
       "num": 104558,
       "word": "南通上演苏超最散装应援团",
@@ -3867,24 +3907,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50350,
-      "num": 50350,
-      "word": "三伏贴哪类人群适合贴",
-      "onboard_time": 1753050436,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 50309,
-      "num": 50309,
-      "word": "常州球员输球后掩面痛哭",
-      "onboard_time": 1753053378,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50171,
-      "num": 45329,
+      "num": 54780,
       "word": "站姐的风吹到了婚礼界",
       "onboard_time": 1753048514,
       "rank": 30,
@@ -3892,7 +3916,7 @@
     },
     {
       "raw_hot": 49394,
-      "num": 49394,
+      "num": 54986,
       "word": "觉得累应该去休息",
       "onboard_time": 1753046174,
       "rank": 46,
@@ -3923,28 +3947,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46970,
-      "num": 46970,
-      "word": "台风路径",
-      "onboard_time": 1753053739,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46089,
       "num": 46089,
       "word": "程潇一生要出片的中国女人",
       "onboard_time": 1752945918,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45146,
-      "num": 45146,
-      "word": "王俊凯又双叒叕追星成功了",
-      "onboard_time": 1753053859,
-      "rank": 46,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 43425,
@@ -4121,6 +4129,14 @@
       "onboard_time": 1752951676,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23373,
+      "num": 154517,
+      "word": "日本执政联盟失去参议院过半数席位",
+      "onboard_time": 1753054280,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23312,
