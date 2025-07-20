@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 12:28:08
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 13:00:34
 </p>
 </blockquote>
 <p>
@@ -531,6 +531,12 @@ Grace淘汰（热度：2072748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23691%E5%88%86%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E6%83%8A%E5%8A%A8%E4%BA%86%E5%AE%97%E6%97%8F%E9%95%BF%E8%80%81%23" target="weibo">
+691分考上北大惊动了宗族长老（热度：1911383）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E7%A7%B0%E4%BB%8A%E5%B9%B4%E5%85%A8%E6%A0%A1%E5%AE%BF%E8%88%8D%E5%B0%86%E8%A3%85%E7%A9%BA%E8%B0%83%23" target="weibo">
 青岛大学称今年全校宿舍将装空调（热度：1911043）
 </a>
@@ -683,6 +689,12 @@ X玖少年团发文（热度：1805253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%23" target="weibo">
 上海交大（热度：1743131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%A3%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%89%93%E6%9E%B6%23" target="weibo">
+韩国人装中国人在泰国打架（热度：1742226）
 </a>
 </li>
 
@@ -953,12 +965,6 @@ K1373没达到破窗应急预案紧急程度（热度：1514321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%BA%BA%E9%97%B4%E4%B8%96%23" target="weibo">
 闲鱼就是一个巨大的人间世（热度：1510542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%A3%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%89%93%E6%9E%B6%23" target="weibo">
-韩国人装中国人在泰国打架（热度：1506404）
 </a>
 </li>
 
@@ -3005,12 +3011,6 @@ GAI又不想走了（热度：873903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%AE%E7%88%B7%E7%88%B7%E6%9F%A5%E8%AF%9D%E8%B4%B9%E6%97%B6%E7%9C%8B%E5%88%B0%E7%9A%84%E7%9F%AD%E4%BF%A1%23" target="weibo">
 帮爷爷查话费时看到的短信（热度：866559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23691%E5%88%86%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E6%83%8A%E5%8A%A8%E4%BA%86%E5%AE%97%E6%97%8F%E9%95%BF%E8%80%81%23" target="weibo">
-691分考上北大惊动了宗族长老（热度：865882）
 </a>
 </li>
 

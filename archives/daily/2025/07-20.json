@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752985688172,
+  "endTime": 1752987634785,
   "band_list": [
     {
       "raw_hot": 2508537,
@@ -9,6 +9,22 @@
       "onboard_time": 1752979100,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1911383,
+      "num": 1911383,
+      "word": "691分考上北大惊动了宗族长老",
+      "onboard_time": 1752983661,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1742226,
+      "num": 1742226,
+      "word": "韩国人装中国人在泰国打架",
+      "onboard_time": 1752983301,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1735203,
@@ -27,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1506404,
-      "num": 1506404,
-      "word": "韩国人装中国人在泰国打架",
-      "onboard_time": 1752983301,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1447830,
       "num": 1447830,
       "word": "郑乃馨演唱会抱着男友大哭",
@@ -49,14 +57,6 @@
       "onboard_time": 1752936323,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 865882,
-      "num": 865882,
-      "word": "691分考上北大惊动了宗族长老",
-      "onboard_time": 1752983661,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 802995,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 553364,
+      "num": 553364,
+      "word": "女子27万存款差2天到期执意要取",
+      "onboard_time": 1752984741,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531187,
       "num": 531187,
       "word": "程潇脸肿了",
@@ -145,6 +153,14 @@
       "onboard_time": 1752942620,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513082,
+      "num": 513082,
+      "word": "梓渝客串飞驰人生3",
+      "onboard_time": 1752986421,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 495137,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372866,
+      "num": 342594,
+      "word": "原来生日帽是这样戴的",
+      "onboard_time": 1752985761,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 357607,
       "num": 349379,
       "word": "喻言又拿了第一",
@@ -251,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346468,
+      "num": 346468,
+      "word": "取14万给孩子结婚包红包银行报警",
+      "onboard_time": 1752985822,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346067,
       "num": 346067,
       "word": "男子疯狂别14岁骑行少女被拘14日",
@@ -283,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311988,
-      "num": 311988,
-      "word": "女子27万存款差2天到期执意要取",
-      "onboard_time": 1752984741,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 306070,
+      "num": 279184,
+      "word": "建议定期更换手机壳",
+      "onboard_time": 1752984440,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 296846,
@@ -323,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279184,
-      "num": 279184,
-      "word": "建议定期更换手机壳",
-      "onboard_time": 1752984440,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 276876,
       "num": 276876,
       "word": "高铁禁食方便面旅客吃什么",
@@ -353,6 +377,14 @@
       "onboard_time": 1752981440,
       "rank": 21,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 267751,
+      "num": 267751,
+      "word": "受台风影响香港挂出十号风球",
+      "onboard_time": 1752985162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266531,
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209054,
+      "num": 209054,
+      "word": "熬夜到什么程度会猝死",
+      "onboard_time": 1752986602,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "一人一句为福宝送生日祝福",
@@ -449,6 +489,14 @@
       "onboard_time": 1752975499,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "X玖少年团成员集体改名",
+      "onboard_time": 1752986061,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 196449,
@@ -467,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192787,
+      "num": 209210,
+      "word": "刘耀文炫MV",
+      "onboard_time": 1752987082,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189318,
       "num": 178027,
       "word": "王楚钦和梁靖崑儿子合照",
@@ -483,12 +539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188441,
+      "num": 188441,
+      "word": "张韶涵演唱会嘉宾是春晚机器人",
+      "onboard_time": 1752986841,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187707,
       "num": 187707,
       "word": "马頔喻言都想把黄誉博嘴捂上",
       "onboard_time": 1752984984,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187030,
+      "num": 380678,
+      "word": "韦帕台风眼已打开",
+      "onboard_time": 1752975800,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186816,
@@ -532,19 +604,27 @@
     },
     {
       "raw_hot": 170012,
-      "num": 954071,
+      "num": 1217326,
       "word": "入伏吃什么",
       "onboard_time": 1752982581,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168595,
-      "num": 380678,
-      "word": "韦帕台风眼已打开",
-      "onboard_time": 1752975800,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 166973,
+      "num": 166973,
+      "word": "杨洋重新定义长相平淡无奇",
+      "onboard_time": 1752987141,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166465,
+      "num": 166465,
+      "word": "吴彤你就这么把王牌9给宣了",
+      "onboard_time": 1752987502,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 165151,
@@ -603,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160263,
+      "num": 160263,
+      "word": "达达利亚",
+      "onboard_time": 1752986181,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158160,
       "num": 183878,
       "word": "梓渝音乐节演唱曲目",
@@ -616,6 +704,14 @@
       "word": "有年轻人1年花近20万拍海马体",
       "onboard_time": 1752931583,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154450,
+      "num": 154450,
+      "word": "广州台风",
+      "onboard_time": 1752987261,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -633,6 +729,14 @@
       "onboard_time": 1752974780,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151373,
+      "num": 151373,
+      "word": "扫毒风暴重新剪辑前7集",
+      "onboard_time": 1752987082,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 151138,
@@ -723,12 +827,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128215,
+      "num": 190237,
+      "word": "姜文电影你行你上",
+      "onboard_time": 1752986661,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128208,
+      "num": 128208,
+      "word": "救救gulf",
+      "onboard_time": 1752986901,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127617,
       "num": 178464,
       "word": "头伏饺子",
       "onboard_time": 1752974659,
       "rank": 48,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 126797,
+      "num": 126797,
+      "word": "韩网友 为什么要亲亲才会给我发货",
+      "onboard_time": 1752986421,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 126771,
@@ -763,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121358,
+      "num": 121358,
+      "word": "找了半天新娘结果是升学宴",
+      "onboard_time": 1752986961,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121198,
       "num": 121198,
       "word": "深圳地铁",
@@ -793,6 +929,14 @@
       "onboard_time": 1752967036,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117005,
+      "num": 164806,
+      "word": "以色列导弹致50死其中超20名儿童",
+      "onboard_time": 1752987622,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114994,
@@ -1011,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97491,
+      "num": 126869,
+      "word": "伊朗20多名儿童睡觉被炸死",
+      "onboard_time": 1752987021,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96663,
       "num": 96663,
       "word": "入伏",
@@ -1075,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85989,
+      "num": 187062,
+      "word": "日本首相官邸埋下福岛核污染土壤",
+      "onboard_time": 1752986481,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85104,
       "num": 85104,
       "word": "公牛签约河村勇辉",
@@ -1097,6 +1257,14 @@
       "onboard_time": 1752939023,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73485,
+      "num": 303689,
+      "word": "因臭水困扰市民到市区买水买饭",
+      "onboard_time": 1752986543,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69560,
@@ -1241,6 +1409,14 @@
       "onboard_time": 1752949456,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26531,
+      "num": 151730,
+      "word": "汪顺酝酿破浪的锋芒",
+      "onboard_time": 1752987202,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 25407,
