@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753029117039,
+  "endTime": 1753030078017,
   "band_list": [
     {
       "raw_hot": 2178759,
@@ -11,6 +11,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 897128,
+      "num": 897128,
+      "word": "旺仔小乔演唱会 不露脸",
+      "onboard_time": 1753025841,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 836818,
       "num": 709511,
       "word": "鹿晗摘戒指",
@@ -19,16 +27,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 829238,
-      "num": 829238,
-      "word": "旺仔小乔演唱会 不露脸",
-      "onboard_time": 1753025841,
-      "rank": 1,
-      "category": "演出"
-    },
-    {
       "raw_hot": 817016,
-      "num": 464184,
+      "num": 464279,
       "word": "难听",
       "onboard_time": 1753014563,
       "rank": 10,
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473471,
+      "num": 473471,
+      "word": "央视曝光领导视察才开门的农村公厕",
+      "onboard_time": 1753024524,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 473134,
       "num": 473134,
       "word": "于适 很多人在搞我",
       "onboard_time": 1753018883,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 451933,
-      "num": 451933,
-      "word": "央视曝光领导视察才开门的农村公厕",
-      "onboard_time": 1753024524,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 410186,
@@ -131,6 +131,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 290764,
+      "num": 465323,
+      "word": "女生为交社保被负债200万",
+      "onboard_time": 1753025841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283094,
       "num": 228882,
       "word": "梓渝站姐",
@@ -161,14 +169,6 @@
       "onboard_time": 1753024345,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 231390,
-      "num": 231390,
-      "word": "女生为交社保被负债200万",
-      "onboard_time": 1753025841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225353,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 141028,
-      "num": 716164,
+      "num": 745097,
       "word": "天水幼儿血铅异常问题调查最新通报",
       "onboard_time": 1753011262,
       "rank": 2,
@@ -251,24 +251,24 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116647,
-      "num": 116647,
-      "word": "白桃星座一周运势",
-      "onboard_time": 1753024703,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 115394,
-      "num": 115394,
+      "raw_hot": 116761,
+      "num": 116761,
       "word": "涉事园长也吃了颜料食品",
       "onboard_time": 1753014444,
       "rank": 34,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116647,
+      "num": 116761,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1753024703,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113997,
-      "num": 113997,
+      "num": 116741,
       "word": "刘宇宁书卷一梦顶级售后",
       "onboard_time": 1753023564,
       "rank": 35,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 110726,
-      "num": 187549,
+      "num": 464370,
       "word": "Kiin获得FMVP",
       "onboard_time": 1753028961,
       "rank": 25,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 108802,
-      "num": 97819,
+      "num": 116699,
       "word": "刘宇宁演唱会",
       "onboard_time": 1753017983,
       "rank": 40,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 102314,
-      "num": 102314,
+      "num": 116720,
       "word": "梓渝超话热度破纪录",
       "onboard_time": 1753020626,
       "rank": 37,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 101316,
-      "num": 101316,
+      "num": 116729,
       "word": "鹿晗跳kiyomi了",
       "onboard_time": 1753024585,
       "rank": 38,
@@ -316,11 +316,19 @@
     },
     {
       "raw_hot": 98728,
-      "num": 98728,
+      "num": 116689,
       "word": "卖酱香饼小伙称花3万美金获保释",
       "onboard_time": 1753025542,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94000,
+      "num": 116749,
+      "word": "步惊云 女人嘛",
+      "onboard_time": 1753029620,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 93528,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 92804,
-      "num": 92804,
+      "num": 116686,
       "word": "暗星拍的王俊凯",
       "onboard_time": 1753024943,
       "rank": 43,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 91036,
-      "num": 93155,
+      "num": 116713,
       "word": "731部队成员称解剖了活人300名",
       "onboard_time": 1753021585,
       "rank": 42,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 87539,
-      "num": 92798,
+      "num": 116722,
       "word": "得物崩了",
       "onboard_time": 1753020984,
       "rank": 44,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 81396,
-      "num": 92771,
+      "num": 116665,
       "word": "韦帕在广东再次登陆",
       "onboard_time": 1753018705,
       "rank": 46,
@@ -372,11 +380,27 @@
     },
     {
       "raw_hot": 79208,
-      "num": 92754,
+      "num": 116675,
       "word": "弄简发红包",
       "onboard_time": 1753025244,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 65379,
+      "num": 116659,
+      "word": "张峻豪晒生日照",
+      "onboard_time": 1753019963,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64924,
+      "num": 116651,
+      "word": "何与胸肌",
+      "onboard_time": 1753025302,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 62892,
@@ -387,12 +411,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 62869,
+      "num": 116642,
+      "word": "陈梦氛围感生活碎片",
+      "onboard_time": 1753029859,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62807,
-      "num": 92719,
+      "num": 116617,
       "word": "明日方舟夏活",
       "onboard_time": 1753025422,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61708,
+      "num": 116633,
+      "word": "王翊恩音乐节",
+      "onboard_time": 1753029559,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 57154,
+      "num": 116628,
+      "word": "蔡徐坤更新快拍",
+      "onboard_time": 1753024403,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 35407,
