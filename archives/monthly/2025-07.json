@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753051491225,
+  "endTime": 1753054064433,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3371,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 980522,
+      "num": 980522,
+      "word": "女生为交社保被负债200万",
+      "onboard_time": 1753025841,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 980412,
       "num": 380247,
       "word": "董璇张维伊婚宴敬酒照",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1751470762,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 870821,
+      "num": 870821,
+      "word": "央视曝光领导视察才开门的农村公厕",
+      "onboard_time": 1753024524,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 870007,
@@ -7531,14 +7547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 601719,
-      "num": 601719,
-      "word": "女生为交社保被负债200万",
-      "onboard_time": 1753025841,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 600661,
       "num": 600661,
       "word": "单依纯得知Grace淘汰后黑脸",
@@ -8801,6 +8809,14 @@
       "onboard_time": 1752895281,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531067,
+      "num": 531067,
+      "word": "梓渝MVP结算",
+      "onboard_time": 1753033937,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 531054,
@@ -10067,14 +10083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473471,
-      "num": 473471,
-      "word": "央视曝光领导视察才开门的农村公厕",
-      "onboard_time": 1753024524,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 473073,
       "num": 272222,
       "word": "刘浩存跳舞",
@@ -10993,14 +11001,6 @@
       "onboard_time": 1751868444,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 436833,
-      "num": 436833,
-      "word": "梓渝MVP结算",
-      "onboard_time": 1753033937,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 436809,
@@ -14777,6 +14777,14 @@
       "onboard_time": 1752375441,
       "rank": 20,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 326530,
+      "num": 326530,
+      "word": "街道办回应老人肯德基店内占座乘凉",
+      "onboard_time": 1753031238,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326526,
@@ -21019,6 +21027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227749,
+      "num": 227749,
+      "word": "老人肯德基店内占座乘凉",
+      "onboard_time": 1753023685,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227564,
       "num": 227564,
       "word": "庄周锦麟游梦皮肤",
@@ -21961,6 +21977,14 @@
       "onboard_time": 1752802040,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218070,
+      "num": 218070,
+      "word": "宝石老舅回复鹿晗",
+      "onboard_time": 1753031778,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 217991,
@@ -24137,14 +24161,6 @@
       "onboard_time": 1753025663,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203859,
-      "num": 203859,
-      "word": "街道办回应老人肯德基店内占座乘凉",
-      "onboard_time": 1753031238,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203795,
@@ -29267,14 +29283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180363,
-      "num": 180363,
-      "word": "老人肯德基店内占座乘凉",
-      "onboard_time": 1753023685,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180348,
       "num": 163864,
       "word": "学费通胀",
@@ -34057,14 +34065,6 @@
       "onboard_time": 1752932601,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160332,
-      "num": 160332,
-      "word": "宝石老舅回复鹿晗",
-      "onboard_time": 1753031778,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 160317,
@@ -57715,11 +57715,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90698,
+      "num": 90698,
+      "word": "女骑手回应将女儿装外卖箱送外卖",
+      "onboard_time": 1753041616,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90675,
       "num": 90675,
       "word": "38岁天津北漂男子下班后住车里近3年",
       "onboard_time": 1752189859,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90642,
+      "num": 163276,
+      "word": "北半球酷热南半球世纪严寒",
+      "onboard_time": 1753050796,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -58363,6 +58379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87241,
+      "num": 87241,
+      "word": "400斤石头漂浮恒河被膜拜",
+      "onboard_time": 1753038795,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87130,
       "num": 363300,
       "word": "火车突发停车乘客砸窗通风无需担责",
@@ -58417,6 +58441,14 @@
       "onboard_time": 1751947162,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86668,
+      "num": 86668,
+      "word": "LOL",
+      "onboard_time": 1753053319,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 86590,
@@ -60667,14 +60699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71453,
-      "num": 71453,
-      "word": "女骑手回应将女儿装外卖箱送外卖",
-      "onboard_time": 1753041616,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71347,
       "num": 71347,
       "word": "陈幸同11比0黄怡桦",
@@ -62323,6 +62347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60339,
+      "num": 60339,
+      "word": "韩国暴雨死亡升至17人",
+      "onboard_time": 1753053378,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60324,
       "num": 155306,
       "word": "家属回应交警追车致车祸无人赔偿",
@@ -62891,6 +62923,14 @@
       "category": "辟谣/通报,教育"
     },
     {
+      "raw_hot": 56536,
+      "num": 56536,
+      "word": "村支书打入苏超第100球",
+      "onboard_time": 1753053498,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56468,
       "num": 179796,
       "word": "男子开车出事故致女友截瘫后失联",
@@ -63179,14 +63219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54220,
-      "num": 54220,
-      "word": "400斤石头漂浮恒河被膜拜",
-      "onboard_time": 1753038795,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 54210,
       "num": 114776,
       "word": "仙剑奇侠传30周年主题曲",
@@ -63209,6 +63241,14 @@
       "onboard_time": 1753021705,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54048,
+      "num": 54048,
+      "word": "刘宇宁深圳演唱会",
+      "onboard_time": 1753053679,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 54034,
@@ -63667,12 +63707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50350,
+      "num": 50350,
+      "word": "三伏贴哪类人群适合贴",
+      "onboard_time": 1753050436,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50341,
       "num": 120162,
       "word": "PUBGxaespa",
       "onboard_time": 1751445081,
       "rank": 39,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 50309,
+      "num": 50309,
+      "word": "常州球员输球后掩面痛哭",
+      "onboard_time": 1753053378,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 50236,
@@ -63692,7 +63748,7 @@
     },
     {
       "raw_hot": 50171,
-      "num": 44664,
+      "num": 45329,
       "word": "站姐的风吹到了婚礼界",
       "onboard_time": 1753048514,
       "rank": 30,
@@ -63825,6 +63881,14 @@
       "onboard_time": 1751988749,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49394,
+      "num": 49394,
+      "word": "觉得累应该去休息",
+      "onboard_time": 1753046174,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 49347,
@@ -64211,6 +64275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46970,
+      "num": 46970,
+      "word": "台风路径",
+      "onboard_time": 1753053739,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46865,
       "num": 46865,
       "word": "外交部再次提醒赴菲留学人员",
@@ -64489,6 +64561,14 @@
       "onboard_time": 1752528194,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45146,
+      "num": 45146,
+      "word": "王俊凯又双叒叕追星成功了",
+      "onboard_time": 1753053859,
+      "rank": 46,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 45138,
@@ -66385,14 +66465,6 @@
       "onboard_time": 1752224542,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33201,
-      "num": 33201,
-      "word": "觉得累应该去休息",
-      "onboard_time": 1753046174,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 33195,
@@ -69155,14 +69227,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 18747,
-      "num": 163276,
-      "word": "北半球酷热南半球世纪严寒",
-      "onboard_time": 1753050796,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18630,
       "num": 52668,
       "word": "厦门发展战略启示",
@@ -69721,14 +69785,6 @@
       "onboard_time": 1751535742,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15628,
-      "num": 29287,
-      "word": "三伏贴哪类人群适合贴",
-      "onboard_time": 1753050436,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15597,
