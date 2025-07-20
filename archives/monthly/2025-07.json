@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1752978310638,
+  "endTime": 1752979482896,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -6587,6 +6587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638565,
+      "num": 638565,
+      "word": "手机壳 医疗废料",
+      "onboard_time": 1752976941,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638489,
       "num": 400096,
       "word": "向佐踩12cm的高跟鞋",
@@ -7723,6 +7731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 566997,
+      "num": 566997,
+      "word": "以色列要出大事了",
+      "onboard_time": 1752975079,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 566918,
       "num": 344704,
       "word": "女子下班发现自家猫生3只崽天塌了",
@@ -8411,6 +8427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 531187,
+      "num": 531187,
+      "word": "程潇脸肿了",
+      "onboard_time": 1752967698,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531173,
       "num": 552351,
       "word": "丁太升建议单依纯离常石磊远点",
@@ -8441,14 +8465,6 @@
       "onboard_time": 1751469023,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 529430,
-      "num": 529430,
-      "word": "以色列要出大事了",
-      "onboard_time": 1752975079,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 528760,
@@ -9331,14 +9347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485370,
-      "num": 485370,
-      "word": "程潇脸肿了",
-      "onboard_time": 1752967698,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484817,
       "num": 1053437,
       "word": "王安宇不吃水里的所以只吃鸭头",
@@ -9361,6 +9369,14 @@
       "onboard_time": 1752389602,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483928,
+      "num": 483928,
+      "word": "深圳台风",
+      "onboard_time": 1752975140,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483636,
@@ -9652,7 +9668,7 @@
     },
     {
       "raw_hot": 469466,
-      "num": 316190,
+      "num": 325914,
       "word": "梓渝凌晨彩排",
       "onboard_time": 1752976281,
       "rank": 10,
@@ -10404,7 +10420,7 @@
     },
     {
       "raw_hot": 439514,
-      "num": 407281,
+      "num": 424742,
       "word": "肖战更名后首发博",
       "onboard_time": 1752967516,
       "rank": 29,
@@ -11337,14 +11353,6 @@
       "onboard_time": 1752589945,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 406800,
-      "num": 406800,
-      "word": "深圳台风",
-      "onboard_time": 1752975140,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 406696,
@@ -13169,6 +13177,14 @@
       "onboard_time": 1752750202,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347870,
+      "num": 347870,
+      "word": "郝蕾直播录制当众甩脸",
+      "onboard_time": 1752977001,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 347075,
@@ -15275,14 +15291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298996,
-      "num": 298996,
-      "word": "手机壳 医疗废料",
-      "onboard_time": 1752976941,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298785,
       "num": 239161,
       "word": "抑郁症 不能做近视手术",
@@ -16355,14 +16363,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 280524,
-      "num": 280524,
-      "word": "郝蕾直播录制当众甩脸",
-      "onboard_time": 1752977001,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280409,
       "num": 280409,
       "word": "演员谭凯开饺子店被吐槽出餐慢",
@@ -17281,6 +17281,14 @@
       "onboard_time": 1752289401,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266531,
+      "num": 316939,
+      "word": "小孩哥作业被热没了崩溃大哭",
+      "onboard_time": 1752974961,
+      "rank": 9,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 266467,
@@ -20699,6 +20707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221401,
+      "num": 330705,
+      "word": "小鸟因无价值被留捕鸟网上风干了",
+      "onboard_time": 1752978621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221131,
       "num": 221131,
       "word": "中百万大奖遭摊主夺票女子已顺利兑奖",
@@ -22715,6 +22731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205917,
+      "num": 205917,
+      "word": "一人一句为福宝送生日祝福",
+      "onboard_time": 1752969317,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205903,
       "num": 205903,
       "word": "回流票",
@@ -23227,6 +23251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203231,
+      "num": 203231,
+      "word": "外卖大战是提前透支消费福利",
+      "onboard_time": 1752975499,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203201,
       "num": 203201,
       "word": "张碧晨演唱会哭了",
@@ -23633,14 +23665,6 @@
       "onboard_time": 1752324803,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 201382,
-      "num": 201382,
-      "word": "一人一句为福宝送生日祝福",
-      "onboard_time": 1752969317,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201373,
@@ -24651,6 +24675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196449,
+      "num": 196449,
+      "word": "韦世豪",
+      "onboard_time": 1752976221,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196447,
       "num": 196447,
       "word": "金毛李墩墩主人发声",
@@ -24921,6 +24953,14 @@
       "onboard_time": 1752132922,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195284,
+      "num": 204905,
+      "word": "凡人修仙传",
+      "onboard_time": 1752535218,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 195206,
@@ -27011,14 +27051,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 185610,
-      "num": 185610,
-      "word": "韦世豪",
-      "onboard_time": 1752976221,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185594,
       "num": 216689,
       "word": "荣耀李健称MagicV5地表最强",
@@ -27217,14 +27249,6 @@
       "onboard_time": 1751858484,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184619,
-      "num": 184619,
-      "word": "外卖大战是提前透支消费福利",
-      "onboard_time": 1752975499,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184576,
@@ -28867,6 +28891,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 175742,
+      "num": 175742,
+      "word": "建议35岁之前不要买车买房",
+      "onboard_time": 1752978621,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175733,
       "num": 175733,
       "word": "和平精英",
@@ -30011,14 +30043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171285,
-      "num": 171285,
-      "word": "凡人修仙传",
-      "onboard_time": 1752535218,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171265,
       "num": 171265,
       "word": "樊振东的新男团合影",
@@ -30561,6 +30585,14 @@
       "onboard_time": 1752246324,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168595,
+      "num": 168595,
+      "word": "韦帕台风眼已打开",
+      "onboard_time": 1752975800,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168552,
@@ -31377,6 +31409,14 @@
       "onboard_time": 1751372061,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165151,
+      "num": 165151,
+      "word": "三伏天",
+      "onboard_time": 1752979222,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165136,
@@ -32299,14 +32339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161514,
-      "num": 316939,
-      "word": "小孩哥作业被热没了崩溃大哭",
-      "onboard_time": 1752974961,
-      "rank": 9,
-      "category": "民生新闻,幽默"
-    },
-    {
       "raw_hot": 161484,
       "num": 161484,
       "word": "朱雨玲爸爸说打完比赛回来上班",
@@ -32337,14 +32369,6 @@
       "onboard_time": 1752245005,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161326,
-      "num": 161326,
-      "word": "韦帕台风眼已打开",
-      "onboard_time": 1752975800,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161302,
@@ -33073,6 +33097,14 @@
       "onboard_time": 1752819261,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158160,
+      "num": 183878,
+      "word": "梓渝音乐节演唱曲目",
+      "onboard_time": 1752979222,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 158127,
@@ -34075,6 +34107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154405,
+      "num": 154405,
+      "word": "三伏天最易生病也最养人",
+      "onboard_time": 1752978979,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154392,
       "num": 154392,
       "word": "宋玉章广播剧",
@@ -34683,6 +34723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152341,
+      "num": 191650,
+      "word": "王一博接荔",
+      "onboard_time": 1752974001,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152335,
       "num": 350488,
       "word": "李惠利历任公开男友",
@@ -35017,6 +35065,14 @@
       "onboard_time": 1751981005,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151102,
+      "num": 166228,
+      "word": "杨洋",
+      "onboard_time": 1752979100,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 151079,
@@ -38227,14 +38283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140351,
-      "num": 191650,
-      "word": "王一博接荔",
-      "onboard_time": 1752974001,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 140339,
       "num": 140339,
       "word": "看陶喆演唱会误入盘丝洞",
@@ -38545,6 +38593,14 @@
       "onboard_time": 1752551241,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139523,
+      "num": 139523,
+      "word": "带儿子出车双双遇难司机亲属发声",
+      "onboard_time": 1752977481,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139505,
@@ -39297,6 +39353,14 @@
       "onboard_time": 1751616084,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137402,
+      "num": 165367,
+      "word": "王祖蓝感谢郑恺",
+      "onboard_time": 1752974719,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 137362,
@@ -42731,6 +42795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127617,
+      "num": 178464,
+      "word": "头伏饺子",
+      "onboard_time": 1752974659,
+      "rank": 48,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 127579,
       "num": 127579,
       "word": "李一桐演戏刘宇宁是不是插手了",
@@ -44107,6 +44179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123908,
+      "num": 123908,
+      "word": "梅西又梅开二度了",
+      "onboard_time": 1752979401,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123877,
       "num": 315455,
       "word": "没想到暑假的浪漫是柯南给的",
@@ -44793,14 +44873,6 @@
       "onboard_time": 1751692881,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122180,
-      "num": 122180,
-      "word": "带儿子出车双双遇难司机亲属发声",
-      "onboard_time": 1752977481,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122179,
@@ -45843,6 +45915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119775,
+      "num": 119775,
+      "word": "美国鳄鱼恶魔岛一个笼子32人",
+      "onboard_time": 1752979280,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119732,
       "num": 119732,
       "word": "张凌赫董璇母子对手戏",
@@ -46633,14 +46713,6 @@
       "onboard_time": 1752739761,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117695,
-      "num": 149880,
-      "word": "王祖蓝感谢郑恺",
-      "onboard_time": 1752974719,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 117644,
@@ -47809,6 +47881,14 @@
       "onboard_time": 1752562942,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114709,
+      "num": 255743,
+      "word": "北极都热到穿短袖了",
+      "onboard_time": 1752978080,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 114672,
@@ -50219,6 +50299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108248,
+      "num": 108248,
+      "word": "千万别选择在暑假结婚",
+      "onboard_time": 1752979100,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108168,
       "num": 108168,
       "word": "关于三伏天的9个真相",
@@ -50673,6 +50761,14 @@
       "onboard_time": 1752483082,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107044,
+      "num": 107044,
+      "word": "女烈士遗体被发现时布满弹孔",
+      "onboard_time": 1752979280,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107007,
@@ -56017,14 +56113,6 @@
       "onboard_time": 1752158486,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85545,
-      "num": 85545,
-      "word": "头伏饺子",
-      "onboard_time": 1752974659,
-      "rank": 48,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 85543,
@@ -66401,14 +66489,6 @@
       "onboard_time": 1751898145,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17132,
-      "num": 140063,
-      "word": "北极都热到穿短袖了",
-      "onboard_time": 1752978080,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 17076,
