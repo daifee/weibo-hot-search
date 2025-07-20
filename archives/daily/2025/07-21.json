@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753047637057,
+  "endTime": 1753050377166,
   "band_list": [
     {
       "raw_hot": 2178759,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139851,
+      "num": 139851,
+      "word": "街道办回应老人肯德基店内占座乘凉",
+      "onboard_time": 1753031238,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132885,
       "num": 152366,
       "word": "迪丽热巴郭培秋冬高定",
@@ -281,6 +289,14 @@
       "onboard_time": 1753027823,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118262,
+      "num": 118262,
+      "word": "宝石老舅回复鹿晗",
+      "onboard_time": 1753031778,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 116761,
@@ -321,14 +337,6 @@
       "onboard_time": 1753017983,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105138,
-      "num": 105138,
-      "word": "街道办回应老人肯德基店内占座乘凉",
-      "onboard_time": 1753031238,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103530,
@@ -427,14 +435,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 75304,
-      "num": 75304,
-      "word": "宝石老舅回复鹿晗",
-      "onboard_time": 1753031778,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71453,
       "num": 71453,
       "word": "女骑手回应将女儿装外卖箱送外卖",
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46949,
+      "num": 46949,
+      "word": "女生确诊抑郁症的真实经历",
+      "onboard_time": 1753045274,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41121,
       "num": 61974,
       "word": "老舅回应邓超",
@@ -531,12 +539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39801,
+      "num": 39801,
+      "word": "400斤石头漂浮恒河被膜拜",
+      "onboard_time": 1753038795,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 35407,
       "num": 216511,
       "word": "褐石培心幼儿园暂被托管",
       "onboard_time": 1753027281,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33018,
+      "num": 32556,
+      "word": "站姐的风吹到了婚礼界",
+      "onboard_time": 1753048514,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 29628,
@@ -548,11 +572,19 @@
     },
     {
       "raw_hot": 23657,
-      "num": 23657,
+      "num": 25202,
       "word": "TYLOO裂变天地总冠军",
       "onboard_time": 1753040474,
       "rank": 28,
       "category": "游戏,电竞"
+    },
+    {
+      "raw_hot": 23052,
+      "num": 25245,
+      "word": "觉得累应该去休息",
+      "onboard_time": 1753046174,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 22841,
@@ -561,22 +593,6 @@
       "onboard_time": 1753045394,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21648,
-      "num": 25575,
-      "word": "400斤石头漂浮恒河被膜拜",
-      "onboard_time": 1753038795,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 21008,
-      "num": 21008,
-      "word": "女生确诊抑郁症的真实经历",
-      "onboard_time": 1753045274,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 20102,
@@ -596,19 +612,11 @@
     },
     {
       "raw_hot": 15649,
-      "num": 23240,
+      "num": 25180,
       "word": "明日方舟",
       "onboard_time": 1753021645,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14264,
-      "num": 20858,
-      "word": "觉得累应该去休息",
-      "onboard_time": 1753046174,
-      "rank": 46,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
