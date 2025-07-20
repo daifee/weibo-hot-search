@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753019347741,
+  "endTime": 1753021491796,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -107,6 +107,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1423649,
+      "num": 1423649,
+      "word": "梓渝全开麦",
+      "onboard_time": 1753019605,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1403166,
+      "num": 1403166,
+      "word": "于适 很多人在搞我",
+      "onboard_time": 1753018883,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1379894,
       "num": 1379894,
       "word": "梓渝音乐节",
@@ -137,6 +153,14 @@
       "onboard_time": 1753013963,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1106445,
+      "num": 336145,
+      "word": "梓渝站姐",
+      "onboard_time": 1753020866,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 1053094,
@@ -267,7 +291,15 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 594401,
+      "raw_hot": 637429,
+      "num": 332486,
+      "word": "韩女子咬断性侵者舌头被判刑",
+      "onboard_time": 1753020444,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 621313,
       "num": 594401,
       "word": "朝雪录热度",
       "onboard_time": 1753016126,
@@ -339,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 528834,
+      "num": 386515,
+      "word": "梓渝超话热度破纪录",
+      "onboard_time": 1753020626,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527042,
       "num": 527042,
       "word": "杨紫都有点不敢回魏哲鸣了",
@@ -387,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508682,
+      "num": 1412645,
+      "word": "涉事园长也吃了颜料食品",
+      "onboard_time": 1753014444,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497909,
       "num": 497909,
       "word": "台风韦帕登陆广东台山沿海",
@@ -433,14 +481,6 @@
       "onboard_time": 1752985761,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 486901,
-      "num": 806672,
-      "word": "涉事园长也吃了颜料食品",
-      "onboard_time": 1753014444,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 485264,
@@ -643,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353013,
+      "num": 353013,
+      "word": "纪委监委对检测数据失真等全面调查",
+      "onboard_time": 1753014084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352083,
       "num": 266014,
       "word": "82岁父亲凌晨摘30斤李子儿子发声",
@@ -731,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319260,
+      "num": 319260,
+      "word": "刘宇宁直播",
+      "onboard_time": 1753020325,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 306070,
       "num": 279184,
       "word": "建议定期更换手机壳",
@@ -777,14 +833,6 @@
       "onboard_time": 1752940101,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 289244,
-      "num": 337473,
-      "word": "纪委监委对检测数据失真等全面调查",
-      "onboard_time": 1753014084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 287669,
@@ -875,6 +923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 264217,
+      "num": 264217,
+      "word": "AL对战GEN",
+      "onboard_time": 1753013605,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262258,
       "num": 262258,
       "word": "广州台风",
@@ -907,12 +963,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 253073,
-      "num": 253073,
-      "word": "AL对战GEN",
-      "onboard_time": 1753013605,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 251607,
+      "num": 348404,
+      "word": "老舅回应邓超",
+      "onboard_time": 1753020025,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 249989,
@@ -929,6 +985,14 @@
       "onboard_time": 1752967338,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248126,
+      "num": 477284,
+      "word": "为什么越来越多人选择剖腹产了",
+      "onboard_time": 1753008982,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240842,
@@ -1027,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216620,
+      "num": 216620,
+      "word": "得物崩了",
+      "onboard_time": 1753020984,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 216605,
       "num": 216605,
       "word": "年轻人不再为面子买单",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1753010601,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214622,
-      "num": 477284,
-      "word": "为什么越来越多人选择剖腹产了",
-      "onboard_time": 1753008982,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 213553,
@@ -1091,6 +1155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207104,
+      "num": 207104,
+      "word": "齐齐哈尔烤肉是一个单独赛道",
+      "onboard_time": 1753021285,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 206382,
+      "num": 206382,
+      "word": "辱骂韦世豪球迷被拘留",
+      "onboard_time": 1753020025,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "一人一句为福宝送生日祝福",
@@ -1115,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204336,
+      "num": 204336,
+      "word": "张峻豪晒生日照",
+      "onboard_time": 1753019963,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203622,
       "num": 229780,
       "word": "俄罗斯海域6.7级7.4级6.7级地震",
@@ -1137,14 +1225,6 @@
       "onboard_time": 1752989302,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203200,
-      "num": 203200,
-      "word": "于适 很多人在搞我",
-      "onboard_time": 1753018883,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 201331,
@@ -1240,6 +1320,14 @@
       "word": "姓常和姓徐终于对上了",
       "onboard_time": 1753011141,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190782,
+      "num": 190782,
+      "word": "中国男排3比2古巴男排",
+      "onboard_time": 1753020505,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1441,6 +1529,14 @@
       "onboard_time": 1753003161,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173373,
+      "num": 173373,
+      "word": "扬州1比5南京",
+      "onboard_time": 1753020444,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 172751,
@@ -1651,12 +1747,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157909,
+      "num": 157909,
+      "word": "儿童玩具竟然教孩子用针管",
+      "onboard_time": 1753014263,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157411,
       "num": 242419,
       "word": "陈梦准备恢复训练了",
       "onboard_time": 1753001002,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156573,
+      "num": 156573,
+      "word": "迪丽热巴让色彩的美更加具象",
+      "onboard_time": 1753020085,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 156315,
@@ -1731,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151318,
+      "num": 151318,
+      "word": "黄子弘凡解说",
+      "onboard_time": 1753020924,
+      "rank": 39,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 151138,
       "num": 151138,
       "word": "印度一家出游瘫痪父亲绑车内险丧命",
@@ -1803,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147505,
+      "num": 147505,
+      "word": "应采儿晒陈小春后台应援天团",
+      "onboard_time": 1753020804,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146948,
       "num": 146948,
       "word": "李想开i8现身常州",
@@ -1833,14 +1961,6 @@
       "onboard_time": 1753016126,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145113,
-      "num": 145113,
-      "word": "儿童玩具竟然教孩子用针管",
-      "onboard_time": 1753014263,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144659,
@@ -1892,7 +2012,7 @@
     },
     {
       "raw_hot": 143082,
-      "num": 143082,
+      "num": 369134,
       "word": "韦帕在广东再次登陆",
       "onboard_time": 1753018705,
       "rank": 44,
@@ -2059,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130930,
+      "num": 130930,
+      "word": "田中心太准了",
+      "onboard_time": 1753021104,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130272,
       "num": 130272,
       "word": "去了twice演唱会的明星",
@@ -2179,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125563,
+      "num": 125563,
+      "word": "无锡1比2淮安",
+      "onboard_time": 1753020444,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125432,
       "num": 179296,
       "word": "国羽日本公开赛获3金1银",
@@ -2241,6 +2377,14 @@
       "onboard_time": 1753006881,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 123725,
+      "num": 123725,
+      "word": "朋友之间是靠什么维系关系的",
+      "onboard_time": 1753020924,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 122411,
@@ -2536,6 +2680,14 @@
       "word": "时代少年团逆应援",
       "onboard_time": 1752929482,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 111024,
+      "num": 111024,
+      "word": "王祖蓝的浴花是他身上扒的吧",
+      "onboard_time": 1753021465,
+      "rank": 49,
       "category": "演出"
     },
     {
