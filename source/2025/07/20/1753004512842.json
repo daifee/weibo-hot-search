@@ -1,0 +1,410 @@
+{
+  "runTime": 1753004512842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942474,
+        "num": 1150795,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 0,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 636678,
+        "num": 636678,
+        "word": "家里吧唧太多女孩深夜中毒送医",
+        "onboard_time": 1752996322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17410,
+        "num": 538748,
+        "word": "今日入伏",
+        "onboard_time": 1752982519,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512573,
+        "num": 512573,
+        "word": "韩国人装中国人在泰国打架",
+        "onboard_time": 1752983301,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 491483,
+        "num": 491483,
+        "word": "杨洋回宫",
+        "onboard_time": 1753001301,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398776,
+        "num": 398776,
+        "word": "丁禹兮扫腿舞",
+        "onboard_time": 1753002921,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387948,
+        "num": 387948,
+        "word": "691分考上北大惊动了宗族长老",
+        "onboard_time": 1752983661,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380757,
+        "num": 380757,
+        "word": "白举纲XXXXXL牛仔裤",
+        "onboard_time": 1753002082,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378013,
+        "num": 378013,
+        "word": "程潇曾患双相情感障碍",
+        "onboard_time": 1752999443,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62996,
+        "num": 374622,
+        "word": "美IT大佬出轨门女方老公也是CEO",
+        "onboard_time": 1753003942,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1540473,
+        "num": 365699,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554508,
+        "num": 351282,
+        "word": "农民工为了12元差点被烤熟",
+        "onboard_time": 1753002741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457486,
+        "num": 342916,
+        "word": "上海蝉尿如下雨",
+        "onboard_time": 1752998601,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340929,
+        "num": 340929,
+        "word": "泰警方确认餐厅斗殴者系韩国游客",
+        "onboard_time": 1753000941,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29881,
+        "num": 317687,
+        "word": "佛山两区号召全体市民灭蚊",
+        "onboard_time": 1753003942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310398,
+        "num": 310398,
+        "word": "州在今天拥有了常",
+        "onboard_time": 1753001002,
+        "rank": 15,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 302597,
+        "num": 302597,
+        "word": "三个少年",
+        "onboard_time": 1753001062,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301164,
+        "num": 301164,
+        "word": "田栩宁四宫格照",
+        "onboard_time": 1752997823,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288525,
+        "num": 288525,
+        "word": "梓渝彩排特写",
+        "onboard_time": 1753000461,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62935,
+        "num": 262578,
+        "word": "一种儿童玩具100度高温220伏电压",
+        "onboard_time": 1753003342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 950723,
+        "num": 262575,
+        "word": "欲望羞耻",
+        "onboard_time": 1753000641,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262556,
+        "num": 262556,
+        "word": "三伏天 减肥",
+        "onboard_time": 1752993801,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206357,
+        "num": 206357,
+        "word": "英雄联盟",
+        "onboard_time": 1752999680,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240804,
+        "num": 203227,
+        "word": "梓渝音乐节",
+        "onboard_time": 1752988519,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197197,
+        "num": 197197,
+        "word": "农夫山泉官方到处解释",
+        "onboard_time": 1752993501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196358,
+        "num": 196358,
+        "word": "龚俊我真服了3.0版",
+        "onboard_time": 1753003522,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192320,
+        "num": 192320,
+        "word": "敖瑞鹏李兰迪短剧式剧宣",
+        "onboard_time": 1753004182,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191057,
+        "num": 191057,
+        "word": "北大在湖北招生出现空档",
+        "onboard_time": 1753002441,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190112,
+        "num": 190112,
+        "word": "美又解雇70名外国研究员多为中国博后",
+        "onboard_time": 1753003282,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173442,
+        "num": 173442,
+        "word": "俄罗斯海域6.7级7.4级6.7级地震",
+        "onboard_time": 1752999320,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140263,
+        "num": 169898,
+        "word": "陈梦准备恢复训练了",
+        "onboard_time": 1753001002,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169674,
+        "num": 169674,
+        "word": "女子称因生女儿公公想过继孙子给自己",
+        "onboard_time": 1752995242,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162460,
+        "num": 162460,
+        "word": "MRC对战DOU5",
+        "onboard_time": 1753003161,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151970,
+        "num": 151970,
+        "word": "佛山累计基孔肯雅热确诊1873例",
+        "onboard_time": 1753001601,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130491,
+        "num": 130491,
+        "word": "wakuku",
+        "onboard_time": 1752998721,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55469,
+        "num": 130290,
+        "word": "河北小伙回应在加拿大当公务员",
+        "onboard_time": 1753003282,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130272,
+        "num": 130272,
+        "word": "去了twice演唱会的明星",
+        "onboard_time": 1753002082,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127581,
+        "num": 127581,
+        "word": "24岁女生吃串串香2年查出胃癌晚期",
+        "onboard_time": 1752994941,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126309,
+        "num": 126309,
+        "word": "张凌赫没人喜欢蠢的吧",
+        "onboard_time": 1752991881,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80859,
+        "num": 123051,
+        "word": "张子宇杨瀚森都是山东顶级天赋",
+        "onboard_time": 1753003762,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122541,
+        "num": 122541,
+        "word": "吧唧 甲醛",
+        "onboard_time": 1753003041,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117798,
+        "num": 117798,
+        "word": "樊振东图形商标注册成功",
+        "onboard_time": 1753000522,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117453,
+        "num": 117453,
+        "word": "单休怎么休最回血",
+        "onboard_time": 1753003641,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113903,
+        "num": 113903,
+        "word": "刘亦菲朱珠 小说里玩得好的千金小姐",
+        "onboard_time": 1752992422,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111454,
+        "num": 111454,
+        "word": "广东全省转移超27万人",
+        "onboard_time": 1753002322,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108937,
+        "num": 108937,
+        "word": "章昊粟米摇",
+        "onboard_time": 1753004422,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107949,
+        "num": 107949,
+        "word": "小沈阳 Nina黑粉",
+        "onboard_time": 1752992841,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106795,
+        "num": 106795,
+        "word": "罗小黑2有20万张原画",
+        "onboard_time": 1753004301,
+        "rank": 47,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 101419,
+        "num": 101419,
+        "word": "台风韦帕",
+        "onboard_time": 1752972139,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100990,
+        "num": 100990,
+        "word": "陈楚生选歌第一原则歌词应该有意义",
+        "onboard_time": 1753004481,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}

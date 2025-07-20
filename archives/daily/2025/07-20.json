@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753003657860,
+  "endTime": 1753004512842,
   "band_list": [
     {
       "raw_hot": 2698342,
@@ -75,7 +75,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 949810,
+      "raw_hot": 950723,
       "num": 273223,
       "word": "欲望羞耻",
       "onboard_time": 1753000641,
@@ -179,6 +179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 554508,
+      "num": 351282,
+      "word": "农民工为了12元差点被烤熟",
+      "onboard_time": 1753002741,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553364,
       "num": 553364,
       "word": "女子27万存款差2天到期执意要取",
@@ -259,6 +267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 491483,
+      "num": 491483,
+      "word": "杨洋回宫",
+      "onboard_time": 1753001301,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486951,
       "num": 486951,
       "word": "原来生日帽是这样戴的",
@@ -287,14 +303,6 @@
       "num": 477237,
       "word": "张凌赫没人喜欢蠢的吧",
       "onboard_time": 1752991881,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 472559,
-      "num": 472559,
-      "word": "杨洋回宫",
-      "onboard_time": 1753001301,
       "rank": 4,
       "category": "剧集"
     },
@@ -353,6 +361,14 @@
       "onboard_time": 1752999443,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398776,
+      "num": 398776,
+      "word": "丁禹兮扫腿舞",
+      "onboard_time": 1753002921,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 394394,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340929,
+      "num": 340929,
+      "word": "泰警方确认餐厅斗殴者系韩国游客",
+      "onboard_time": 1753000941,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 336933,
       "num": 336933,
       "word": "凡人修仙传",
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301932,
-      "num": 272867,
-      "word": "泰警方确认餐厅斗殴者系韩国游客",
-      "onboard_time": 1753000941,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "台风韦帕登陆范围再次西移",
@@ -547,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283222,
-      "num": 276099,
-      "word": "农民工为了12元差点被烤熟",
-      "onboard_time": 1753002741,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 276876,
       "num": 276876,
       "word": "高铁禁食方便面旅客吃什么",
@@ -569,14 +577,6 @@
       "onboard_time": 1752979280,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 276112,
-      "num": 276112,
-      "word": "丁禹兮扫腿舞",
-      "onboard_time": 1753002921,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 275649,
@@ -803,12 +803,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196358,
+      "num": 196358,
+      "word": "龚俊我真服了3.0版",
+      "onboard_time": 1753003522,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192787,
       "num": 209210,
       "word": "刘耀文炫MV",
       "onboard_time": 1752987082,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192320,
+      "num": 192320,
+      "word": "敖瑞鹏李兰迪短剧式剧宣",
+      "onboard_time": 1753004182,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190112,
+      "num": 190112,
+      "word": "美又解雇70名外国研究员多为中国博后",
+      "onboard_time": 1753003282,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 189601,
@@ -1299,20 +1323,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133084,
-      "num": 133084,
-      "word": "美又解雇70名外国研究员多为中国博后",
-      "onboard_time": 1753003282,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 132545,
       "num": 146976,
       "word": "深情眼还原度",
       "onboard_time": 1753000403,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130272,
+      "num": 130272,
+      "word": "去了twice演唱会的明星",
+      "onboard_time": 1753002082,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 130233,
@@ -1377,14 +1401,6 @@
       "onboard_time": 1752938482,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126446,
-      "num": 126446,
-      "word": "去了twice演唱会的明星",
-      "onboard_time": 1753002082,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 125575,
@@ -1539,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117453,
+      "num": 117453,
+      "word": "单休怎么休最回血",
+      "onboard_time": 1753003641,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117054,
       "num": 303689,
       "word": "因臭水困扰市民到市区买水买饭",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1752927741,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114080,
-      "num": 114080,
-      "word": "龚俊我真服了3.0版",
-      "onboard_time": 1753003522,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 114049,
@@ -1683,14 +1699,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 109963,
-      "num": 109963,
-      "word": "单休怎么休最回血",
-      "onboard_time": 1753003641,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109407,
       "num": 117599,
       "word": "韩国股民抢筹中国股票",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1752984860,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108937,
+      "num": 108937,
+      "word": "章昊粟米摇",
+      "onboard_time": 1753004422,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108488,
@@ -1745,6 +1761,14 @@
       "onboard_time": 1753003401,
       "rank": 47,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 106795,
+      "num": 106795,
+      "word": "罗小黑2有20万张原画",
+      "onboard_time": 1753004301,
+      "rank": 47,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 106165,
@@ -1880,6 +1904,14 @@
       "word": "严浩翔万妮达下狗战队团魂这一块",
       "onboard_time": 1752989842,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100990,
+      "num": 100990,
+      "word": "陈楚生选歌第一原则歌词应该有意义",
+      "onboard_time": 1753004481,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2067,6 +2099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80859,
+      "num": 123051,
+      "word": "张子宇杨瀚森都是山东顶级天赋",
+      "onboard_time": 1753003762,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78181,
       "num": 78181,
       "word": "罗小黑",
@@ -2155,6 +2195,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 62996,
+      "num": 374622,
+      "word": "美IT大佬出轨门女方老公也是CEO",
+      "onboard_time": 1753003942,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 62935,
+      "num": 274459,
+      "word": "一种儿童玩具100度高温220伏电压",
+      "onboard_time": 1753003342,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62169,
       "num": 230464,
       "word": "台风一线185大个子记者被吹着走",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1752945258,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55469,
+      "num": 203633,
+      "word": "河北小伙回应在加拿大当公务员",
+      "onboard_time": 1753003282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54855,
@@ -2240,14 +2304,6 @@
       "word": "男子救朋友遇害嫌犯被鉴定精神障碍",
       "onboard_time": 1752991341,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46300,
-      "num": 203633,
-      "word": "河北小伙回应在加拿大当公务员",
-      "onboard_time": 1753003282,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2323,19 +2379,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 29881,
+      "num": 317687,
+      "word": "佛山两区号召全体市民灭蚊",
+      "onboard_time": 1753003942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27225,
       "num": 214552,
       "word": "宇宙诞生超太阳265倍质量新黑洞",
       "onboard_time": 1752996080,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26952,
-      "num": 274459,
-      "word": "一种儿童玩具100度高温220伏电压",
-      "onboard_time": 1753003342,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
