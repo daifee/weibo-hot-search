@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752994277872,
+  "endTime": 1752996342388,
   "band_list": [
     {
       "raw_hot": 2698342,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 815612,
+      "num": 281705,
+      "word": "农夫山泉官方到处解释",
+      "onboard_time": 1752993501,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 802995,
       "num": 802995,
       "word": "金靖瘦成这样了",
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539257,
+      "num": 279763,
+      "word": "女子称因生女儿公公想过继孙子给自己",
+      "onboard_time": 1752995242,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531187,
       "num": 531187,
       "word": "程潇脸肿了",
@@ -177,6 +193,14 @@
       "onboard_time": 1752942620,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513174,
+      "num": 297330,
+      "word": "小沈阳 Nina黑粉",
+      "onboard_time": 1752992841,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 513082,
@@ -291,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355067,
+      "num": 355067,
+      "word": "房主任被家暴没有反转",
+      "onboard_time": 1752992602,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354486,
       "num": 354486,
       "word": "小鸟因无价值被留捕鸟网上风干了",
       "onboard_time": 1752978621,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 353635,
-      "num": 297330,
-      "word": "小沈阳 Nina黑粉",
-      "onboard_time": 1752992841,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 352083,
@@ -379,12 +403,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 312121,
+      "num": 312121,
+      "word": "三伏天 减肥",
+      "onboard_time": 1752993801,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 306070,
       "num": 279184,
       "word": "建议定期更换手机壳",
       "onboard_time": 1752984440,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 305709,
+      "num": 275146,
+      "word": "刘亦菲朱珠 小说里玩得好的千金小姐",
+      "onboard_time": 1752992422,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 296846,
@@ -451,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269756,
-      "num": 269756,
-      "word": "农夫山泉官方到处解释",
-      "onboard_time": 1752993501,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267751,
       "num": 267751,
       "word": "受台风影响香港挂出十号风球",
@@ -481,6 +513,14 @@
       "onboard_time": 1752987261,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259816,
+      "num": 211181,
+      "word": "24岁女生吃串串香2年查出胃癌晚期",
+      "onboard_time": 1752994941,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 258095,
@@ -569,14 +609,6 @@
       "onboard_time": 1752932902,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209866,
-      "num": 209866,
-      "word": "刘亦菲朱珠 小说里玩得好的千金小姐",
-      "onboard_time": 1752992422,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 209054,
@@ -731,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175089,
+      "num": 175089,
+      "word": "美国一波音客机空中喷火",
+      "onboard_time": 1752994160,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172751,
       "num": 172751,
       "word": "梓渝音乐节唱女孩",
@@ -851,14 +891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157087,
-      "num": 157087,
-      "word": "房主任被家暴没有反转",
-      "onboard_time": 1752992602,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156315,
       "num": 156315,
       "word": "有年轻人1年花近20万拍海马体",
@@ -897,14 +929,6 @@
       "onboard_time": 1752943879,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 150196,
-      "num": 150196,
-      "word": "三伏天 减肥",
-      "onboard_time": 1752993801,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 149952,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1752936622,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134196,
+      "num": 134196,
+      "word": "67岁梁家辉和71岁成龙的片场状态",
+      "onboard_time": 1752994881,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 133913,
@@ -1163,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "不要删掉讨厌的人的微信",
+      "onboard_time": 1752993081,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119398,
       "num": 187785,
       "word": "迪丽热巴送刘宇宁花篮",
@@ -1195,12 +1235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116917,
-      "num": 115631,
-      "word": "不要删掉讨厌的人的微信",
-      "onboard_time": 1752993081,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 115712,
+      "num": 115712,
+      "word": "沈腾这段堪比邓超无实物放烟花",
+      "onboard_time": 1752994222,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115503,
@@ -1307,14 +1347,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 110789,
-      "num": 110789,
-      "word": "沈腾这段堪比邓超无实物放烟花",
-      "onboard_time": 1752994222,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109407,
       "num": 117599,
       "word": "韩国股民抢筹中国股票",
@@ -1395,12 +1427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105260,
+      "num": 177483,
+      "word": "朱桢薛之谦度假",
+      "onboard_time": 1752992361,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105241,
       "num": 105241,
       "word": "当你出现躯体化的表现时",
       "onboard_time": 1752972919,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104747,
+      "num": 104747,
+      "word": "家里吧唧太多女孩深夜中毒送医",
+      "onboard_time": 1752996322,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104530,
@@ -1475,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100164,
-      "num": 100164,
-      "word": "朱桢薛之谦度假",
-      "onboard_time": 1752992361,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99952,
       "num": 899814,
       "word": "台风韦帕风雨时间表",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1752967218,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94090,
+      "num": 137895,
+      "word": "杨洋好像真的会武功",
+      "onboard_time": 1752994941,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 93286,
@@ -1595,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82377,
+      "num": 276931,
+      "word": "贵州两学校指责对方中高考造假",
+      "onboard_time": 1752994941,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81273,
       "num": 139914,
       "word": "漫展古风小生都有马塑了",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1752988342,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 78420,
-      "num": 150748,
-      "word": "美国一波音客机空中喷火",
-      "onboard_time": 1752994160,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 78181,
@@ -1689,6 +1737,14 @@
       "onboard_time": 1752940821,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64548,
+      "num": 148301,
+      "word": "演唱会被拍婚外情美国IT高管已辞职",
+      "onboard_time": 1752995541,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63767,
@@ -1779,12 +1835,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44696,
+      "num": 155306,
+      "word": "家属回应交警追车致车祸无人赔偿",
+      "onboard_time": 1752996140,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44594,
+      "num": 209209,
+      "word": "美国船长酒驾撞上退役航母",
+      "onboard_time": 1752996140,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43425,
       "num": 43425,
       "word": "港珠澳大桥已临时封闭",
       "onboard_time": 1752968298,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42983,
+      "num": 217216,
+      "word": "房主任登上上海大屏",
+      "onboard_time": 1752995481,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 42698,
@@ -1921,6 +2001,14 @@
       "onboard_time": 1752951914,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17723,
+      "num": 214552,
+      "word": "宇宙诞生超太阳265倍质量新黑洞",
+      "onboard_time": 1752996080,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17375,
