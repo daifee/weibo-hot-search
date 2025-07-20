@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1752993459473,
+  "endTime": 1752994277872,
   "band_list": [
     {
       "raw_hot": 2698342,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369903,
+      "num": 369903,
+      "word": "简历 高p照片",
+      "onboard_time": 1752988160,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357607,
       "num": 349379,
       "word": "喻言又拿了第一",
@@ -289,6 +297,14 @@
       "onboard_time": 1752978621,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353635,
+      "num": 297330,
+      "word": "小沈阳 Nina黑粉",
+      "onboard_time": 1752992841,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 352083,
@@ -315,20 +331,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347811,
-      "num": 347811,
-      "word": "简历 高p照片",
-      "onboard_time": 1752988160,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 346067,
       "num": 346067,
       "word": "男子疯狂别14岁骑行少女被拘14日",
       "onboard_time": 1752931402,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341883,
+      "num": 341883,
+      "word": "陈梦妈妈谈大姐去世泪崩",
+      "onboard_time": 1752993621,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 336933,
@@ -427,6 +443,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 270783,
+      "num": 270783,
+      "word": "珠海台风",
+      "onboard_time": 1752991461,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269756,
+      "num": 269756,
+      "word": "农夫山泉官方到处解释",
+      "onboard_time": 1752993501,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267751,
       "num": 267751,
       "word": "受台风影响香港挂出十号风球",
@@ -475,28 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245622,
-      "num": 245622,
-      "word": "珠海台风",
-      "onboard_time": 1752991461,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232631,
       "num": 232631,
       "word": "新还珠格格回芒果啦",
       "onboard_time": 1752988761,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230872,
-      "num": 230872,
-      "word": "小沈阳 Nina黑粉",
-      "onboard_time": 1752992841,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 229333,
@@ -553,6 +569,14 @@
       "onboard_time": 1752932902,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209866,
+      "num": 209866,
+      "word": "刘亦菲朱珠 小说里玩得好的千金小姐",
+      "onboard_time": 1752992422,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 209054,
@@ -715,14 +739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171895,
-      "num": 171895,
-      "word": "刘亦菲朱珠 小说里玩得好的千金小姐",
-      "onboard_time": 1752992422,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170012,
       "num": 1217326,
       "word": "入伏吃什么",
@@ -835,6 +851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157087,
+      "num": 157087,
+      "word": "房主任被家暴没有反转",
+      "onboard_time": 1752992602,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156315,
       "num": 156315,
       "word": "有年轻人1年花近20万拍海马体",
@@ -873,6 +897,14 @@
       "onboard_time": 1752943879,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150196,
+      "num": 150196,
+      "word": "三伏天 减肥",
+      "onboard_time": 1752993801,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149952,
@@ -915,6 +947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143397,
+      "num": 143397,
+      "word": "恋与深空祁煜",
+      "onboard_time": 1752993201,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143293,
       "num": 143293,
       "word": "严浩翔被盛宇歌名吓跑",
@@ -945,6 +985,14 @@
       "onboard_time": 1752990322,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138798,
+      "num": 138798,
+      "word": "孟子义hi6开业LOOK揭晓",
+      "onboard_time": 1752993861,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 137402,
@@ -1011,14 +1059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128178,
-      "num": 128178,
-      "word": "恋与深空祁煜",
-      "onboard_time": 1752993201,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127617,
       "num": 178464,
       "word": "头伏饺子",
@@ -1043,12 +1083,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126315,
-      "num": 126315,
-      "word": "房主任被家暴没有反转",
-      "onboard_time": 1752992602,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 125575,
+      "num": 125575,
+      "word": "谁来管管现在的女厕马桶",
+      "onboard_time": 1752992961,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 124831,
@@ -1163,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115503,
+      "num": 115503,
+      "word": "房主任的自述",
+      "onboard_time": 1752992661,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114994,
       "num": 114994,
       "word": "GALA 保jie派",
@@ -1259,11 +1307,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 109555,
-      "num": 109555,
-      "word": "房主任的自述",
-      "onboard_time": 1752992661,
-      "rank": 44,
+      "raw_hot": 110789,
+      "num": 110789,
+      "word": "沈腾这段堪比邓超无实物放烟花",
+      "onboard_time": 1752994222,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1299,12 +1347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107580,
+      "num": 107580,
+      "word": "减肥人在三伏天赶进度了",
+      "onboard_time": 1752992722,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106165,
       "num": 106165,
       "word": "你好星期六下期是中餐厅团建",
       "onboard_time": 1752941841,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106038,
+      "num": 106038,
+      "word": "郎园偶遇宋茜陈梦",
+      "onboard_time": 1752994041,
+      "rank": 48,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 105846,
@@ -1345,14 +1409,6 @@
       "onboard_time": 1752935124,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103469,
-      "num": 103469,
-      "word": "谁来管管现在的女厕马桶",
-      "onboard_time": 1752992961,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 103407,
@@ -1491,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89894,
+      "num": 339248,
+      "word": "越南一游船倾覆已致35死",
+      "onboard_time": 1752991581,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87033,
       "num": 87033,
       "word": "外卖平台被约谈后怎么样了",
@@ -1523,14 +1587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 85275,
-      "num": 339248,
-      "word": "越南一游船倾覆已致35死",
-      "onboard_time": 1752991581,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 85104,
       "num": 85104,
       "word": "公牛签约河村勇辉",
@@ -1555,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78420,
+      "num": 150748,
+      "word": "美国一波音客机空中喷火",
+      "onboard_time": 1752994160,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78181,
       "num": 78181,
       "word": "罗小黑",
@@ -1571,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77078,
+      "num": 150226,
+      "word": "特朗普政府想与马斯克分手发现离不开",
+      "onboard_time": 1752993682,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74092,
       "num": 162035,
       "word": "有人租用学生微信用于实施电诈",
@@ -1580,7 +1652,7 @@
     },
     {
       "raw_hot": 72793,
-      "num": 160722,
+      "num": 237809,
       "word": "严浩翔出了楼还是这么调皮",
       "onboard_time": 1752993201,
       "rank": 26,
@@ -1627,6 +1699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 62169,
+      "num": 230464,
+      "word": "台风一线185大个子记者被吹着走",
+      "onboard_time": 1752993741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61490,
       "num": 69581,
       "word": "530万买房业主徒手掰开大梁碎块",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1752931643,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48595,
+      "num": 269822,
+      "word": "杭州通报自来水异味居民讲述现状",
+      "onboard_time": 1752993141,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47917,
@@ -1729,14 +1817,6 @@
       "onboard_time": 1752992541,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 33491,
-      "num": 177856,
-      "word": "杭州通报自来水异味居民讲述现状",
-      "onboard_time": 1752993141,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32575,
