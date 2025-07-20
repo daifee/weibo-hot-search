@@ -1,0 +1,410 @@
+{
+  "runTime": 1752997192684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032435,
+        "num": 1165189,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 0,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 507429,
+        "num": 507429,
+        "word": "691分考上北大惊动了宗族长老",
+        "onboard_time": 1752983661,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 10170,
+        "num": 444188,
+        "word": "今日入伏",
+        "onboard_time": 1752982519,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444168,
+        "num": 444168,
+        "word": "房主任被家暴没有反转",
+        "onboard_time": 1752992602,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428638,
+        "num": 428638,
+        "word": "三伏天 减肥",
+        "onboard_time": 1752993801,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 401709,
+        "num": 401709,
+        "word": "张凌赫没人喜欢蠢的吧",
+        "onboard_time": 1752991881,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359448,
+        "num": 359448,
+        "word": "韩国人装中国人在泰国打架",
+        "onboard_time": 1752983301,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285827,
+        "num": 285827,
+        "word": "陈梦妈妈谈大姐去世泪崩",
+        "onboard_time": 1752993621,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265099,
+        "num": 265099,
+        "word": "郑乃馨演唱会抱着男友大哭",
+        "onboard_time": 1752974901,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88364,
+        "num": 265067,
+        "word": "美国船长酒驾撞上退役航母",
+        "onboard_time": 1752996140,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1882772,
+        "num": 264529,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 813999,
+        "num": 264193,
+        "word": "农夫山泉官方到处解释",
+        "onboard_time": 1752993501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541620,
+        "num": 263537,
+        "word": "女子称因生女儿公公想过继孙子给自己",
+        "onboard_time": 1752995242,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456732,
+        "num": 262887,
+        "word": "小沈阳 Nina黑粉",
+        "onboard_time": 1752992841,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275101,
+        "num": 262736,
+        "word": "刘亦菲朱珠 小说里玩得好的千金小姐",
+        "onboard_time": 1752992422,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262435,
+        "num": 262435,
+        "word": "梓渝音乐节",
+        "onboard_time": 1752988519,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222634,
+        "num": 222634,
+        "word": "珠海台风",
+        "onboard_time": 1752991461,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207937,
+        "num": 207937,
+        "word": "简历 高p照片",
+        "onboard_time": 1752988160,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108488,
+        "num": 202523,
+        "word": "朱桢薛之谦度假",
+        "onboard_time": 1752992361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27225,
+        "num": 200884,
+        "word": "宇宙诞生超太阳265倍质量新黑洞",
+        "onboard_time": 1752996080,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199419,
+        "num": 199419,
+        "word": "24岁女生吃串串香2年查出胃癌晚期",
+        "onboard_time": 1752994941,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182499,
+        "num": 182499,
+        "word": "吴彤你就这么把王牌9给宣了",
+        "onboard_time": 1752987502,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181305,
+        "num": 181305,
+        "word": "美国卖酱香饼的中国小伙被捕",
+        "onboard_time": 1752974659,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167980,
+        "num": 167980,
+        "word": "入伏吃什么",
+        "onboard_time": 1752982581,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20895,
+        "num": 166989,
+        "word": "美记者称特朗普可能流放泽连斯基",
+        "onboard_time": 1752996802,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166711,
+        "num": 166711,
+        "word": "家里吧唧太多女孩深夜中毒送医",
+        "onboard_time": 1752996322,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161353,
+        "num": 161353,
+        "word": "关晓彤入伏吃饺子",
+        "onboard_time": 1752996562,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151662,
+        "num": 151662,
+        "word": "美国一波音客机空中喷火",
+        "onboard_time": 1752994160,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150752,
+        "num": 150752,
+        "word": "网友晒和肖战九年前合照",
+        "onboard_time": 1752990861,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60324,
+        "num": 149086,
+        "word": "家属回应交警追车致车祸无人赔偿",
+        "onboard_time": 1752996140,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148223,
+        "num": 148223,
+        "word": "原来生日帽是这样戴的",
+        "onboard_time": 1752985761,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146863,
+        "num": 146863,
+        "word": "取14万给孩子结婚包红包银行报警",
+        "onboard_time": 1752985822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142463,
+        "num": 142463,
+        "word": "建议定期更换手机壳",
+        "onboard_time": 1752984440,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121400,
+        "num": 121400,
+        "word": "姜云升直播回应",
+        "onboard_time": 1752996981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120159,
+        "num": 120159,
+        "word": "女演员投诉花千万买房遭强制交付",
+        "onboard_time": 1752991282,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118027,
+        "num": 118027,
+        "word": "priest到底为什么这么爱上班",
+        "onboard_time": 1752989121,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114955,
+        "num": 114955,
+        "word": "广州台风",
+        "onboard_time": 1752987261,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108908,
+        "num": 108908,
+        "word": "台风韦帕",
+        "onboard_time": 1752972139,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108218,
+        "num": 108218,
+        "word": "谁来管管现在的女厕马桶",
+        "onboard_time": 1752992961,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60028,
+        "num": 107194,
+        "word": "敖瑞鹏内娱打假签名照第一人",
+        "onboard_time": 1752996562,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106801,
+        "num": 106801,
+        "word": "建议35岁之前不要买车买房",
+        "onboard_time": 1752978621,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "三伏天最易生病也最养人",
+        "onboard_time": 1752978979,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103091,
+        "num": 103091,
+        "word": "恋与深空祁煜",
+        "onboard_time": 1752993201,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102870,
+        "num": 102870,
+        "word": "深圳台风",
+        "onboard_time": 1752975140,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102076,
+        "num": 102076,
+        "word": "陈星旭给宋威龙做手冲咖啡",
+        "onboard_time": 1752997101,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98217,
+        "num": 98217,
+        "word": "铂金价格猛涨远超白银黄金",
+        "onboard_time": 1752997101,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97001,
+        "num": 97001,
+        "word": "郎园偶遇宋茜陈梦",
+        "onboard_time": 1752994041,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 94760,
+        "num": 94760,
+        "word": "房主任登上上海大屏",
+        "onboard_time": 1752995481,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94428,
+        "num": 94428,
+        "word": "有三分像你我便慌了神",
+        "onboard_time": 1752993922,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92293,
+        "num": 92293,
+        "word": "爷爷上辈子好像是个打印机",
+        "onboard_time": 1752997162,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
