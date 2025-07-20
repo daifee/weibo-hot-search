@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753050377166,
+  "endTime": 1753051491225,
   "band_list": [
     {
       "raw_hot": 2178759,
@@ -51,6 +51,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 601719,
+      "num": 601719,
+      "word": "女生为交社保被负债200万",
+      "onboard_time": 1753025841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570786,
       "num": 570786,
       "word": "GEN夺冠",
@@ -99,12 +107,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 447240,
-      "num": 465323,
-      "word": "女生为交社保被负债200万",
-      "onboard_time": 1753025841,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 436833,
+      "num": 436833,
+      "word": "梓渝MVP结算",
+      "onboard_time": 1753033937,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 410186,
@@ -129,14 +137,6 @@
       "onboard_time": 1753020444,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 354749,
-      "num": 354749,
-      "word": "梓渝MVP结算",
-      "onboard_time": 1753033937,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 329209,
@@ -211,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203859,
+      "num": 203859,
+      "word": "街道办回应老人肯德基店内占座乘凉",
+      "onboard_time": 1753031238,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186625,
       "num": 186625,
       "word": "陈立农街头拥抱",
@@ -233,6 +241,14 @@
       "onboard_time": 1753024285,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160332,
+      "num": 160332,
+      "word": "宝石老舅回复鹿晗",
+      "onboard_time": 1753031778,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 152358,
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139851,
-      "num": 139851,
-      "word": "街道办回应老人肯德基店内占座乘凉",
-      "onboard_time": 1753031238,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132885,
       "num": 152366,
       "word": "迪丽热巴郭培秋冬高定",
@@ -289,14 +297,6 @@
       "onboard_time": 1753027823,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118262,
-      "num": 118262,
-      "word": "宝石老舅回复鹿晗",
-      "onboard_time": 1753031778,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 116761,
@@ -401,6 +401,14 @@
       "onboard_time": 1753021585,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88661,
+      "num": 88661,
+      "word": "女生确诊抑郁症的真实经历",
+      "onboard_time": 1753045274,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 87539,
@@ -515,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46949,
-      "num": 46949,
-      "word": "女生确诊抑郁症的真实经历",
-      "onboard_time": 1753045274,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 54220,
+      "num": 54220,
+      "word": "400斤石头漂浮恒河被膜拜",
+      "onboard_time": 1753038795,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50171,
+      "num": 44664,
+      "word": "站姐的风吹到了婚礼界",
+      "onboard_time": 1753048514,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 41121,
@@ -539,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39801,
-      "num": 39801,
-      "word": "400斤石头漂浮恒河被膜拜",
-      "onboard_time": 1753038795,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 35407,
       "num": 216511,
       "word": "褐石培心幼儿园暂被托管",
@@ -555,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33018,
-      "num": 32556,
-      "word": "站姐的风吹到了婚礼界",
-      "onboard_time": 1753048514,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 33201,
+      "num": 33201,
+      "word": "觉得累应该去休息",
+      "onboard_time": 1753046174,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 29628,
@@ -571,20 +579,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23657,
-      "num": 25202,
+      "raw_hot": 26008,
+      "num": 29292,
       "word": "TYLOO裂变天地总冠军",
       "onboard_time": 1753040474,
       "rank": 28,
       "category": "游戏,电竞"
-    },
-    {
-      "raw_hot": 23052,
-      "num": 25245,
-      "word": "觉得累应该去休息",
-      "onboard_time": 1753046174,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 22841,
@@ -611,12 +611,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18747,
+      "num": 163276,
+      "word": "北半球酷热南半球世纪严寒",
+      "onboard_time": 1753050796,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15649,
       "num": 25180,
       "word": "明日方舟",
       "onboard_time": 1753021645,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15628,
+      "num": 29287,
+      "word": "三伏贴哪类人群适合贴",
+      "onboard_time": 1753050436,
+      "rank": 49,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
