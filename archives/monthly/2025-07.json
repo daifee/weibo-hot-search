@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753004512842,
+  "endTime": 1753007373883,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -2963,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1044871,
+      "num": 1167179,
+      "word": "沙特沉睡王子昏迷近20年后去世",
+      "onboard_time": 1753005562,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1042060,
       "num": 477064,
       "word": "夏天杀死了labubu",
@@ -4835,6 +4843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775668,
+      "num": 775668,
+      "word": "模仿出轨CEO成全球热梗",
+      "onboard_time": 1753005622,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 774983,
       "num": 344128,
       "word": "陆毅鲍蕾太会养女儿了",
@@ -5817,6 +5833,14 @@
       "onboard_time": 1751637026,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 694045,
+      "num": 361307,
+      "word": "农民工为了12元差点被烤熟",
+      "onboard_time": 1753002741,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 694014,
@@ -8091,14 +8115,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 554508,
-      "num": 351282,
-      "word": "农民工为了12元差点被烤熟",
-      "onboard_time": 1753002741,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 554301,
       "num": 313786,
       "word": "被女子强搂亲吻男孩妈妈最新发声",
@@ -8585,6 +8601,14 @@
       "onboard_time": 1752285681,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 530913,
+      "num": 530913,
+      "word": "泰警方确认餐厅斗殴者系韩国游客",
+      "onboard_time": 1753000941,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 530640,
@@ -10475,6 +10499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445739,
+      "num": 445739,
+      "word": "丁禹兮扫腿舞",
+      "onboard_time": 1753002921,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445737,
       "num": 346228,
       "word": "30岁戴2年牙套的后遗症",
@@ -11736,14 +11768,6 @@
       "word": "梓渝微博粉丝破500万",
       "onboard_time": 1752160525,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 398776,
-      "num": 398776,
-      "word": "丁禹兮扫腿舞",
-      "onboard_time": 1753002921,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -13811,14 +13835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340929,
-      "num": 340929,
-      "word": "泰警方确认餐厅斗殴者系韩国游客",
-      "onboard_time": 1753000941,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 340496,
       "num": 340496,
       "word": "杨紫 我俩现在多工业糖精",
@@ -15273,6 +15289,14 @@
       "onboard_time": 1752423562,
       "rank": 13,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 306977,
+      "num": 362090,
+      "word": "台风韦帕登陆广东台山沿海",
+      "onboard_time": 1753006522,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306091,
@@ -17723,6 +17747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266161,
+      "num": 374622,
+      "word": "美IT大佬出轨门女方老公也是CEO",
+      "onboard_time": 1753003942,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 266158,
       "num": 266158,
       "word": "世界是一个巨大的余华",
@@ -18595,6 +18627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 253631,
+      "num": 253631,
+      "word": "敖瑞鹏李兰迪发了芭莎大片",
+      "onboard_time": 1753006881,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253483,
       "num": 253483,
       "word": "6个荔枝298",
@@ -19057,6 +19097,14 @@
       "onboard_time": 1751513423,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 247025,
+      "num": 247025,
+      "word": "吧唧 甲醛",
+      "onboard_time": 1753003041,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247007,
@@ -20921,6 +20969,14 @@
       "onboard_time": 1751534542,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223793,
+      "num": 223793,
+      "word": "陈楚生回应歌手难听",
+      "onboard_time": 1753006701,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 223712,
@@ -22897,6 +22953,14 @@
       "onboard_time": 1752655401,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207813,
+      "num": 342242,
+      "word": "中国女篮vs韩国女篮",
+      "onboard_time": 1752584241,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 207782,
@@ -31835,14 +31899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166082,
-      "num": 166082,
-      "word": "吧唧 甲醛",
-      "onboard_time": 1753003041,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166048,
       "num": 181763,
       "word": "85花编年史",
@@ -32809,6 +32865,14 @@
       "onboard_time": 1751371342,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162026,
+      "num": 162026,
+      "word": "微信删过的人就不要加第二次了",
+      "onboard_time": 1753005201,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 162023,
@@ -33835,6 +33899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157788,
+      "num": 162316,
+      "word": "歪嘴战神",
+      "onboard_time": 1753006822,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157769,
       "num": 311682,
       "word": "严浩翔维权获胜",
@@ -34361,6 +34433,14 @@
       "onboard_time": 1751508380,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156012,
+      "num": 156012,
+      "word": "你们江苏人是懂冷门应援的",
+      "onboard_time": 1753007181,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 155992,
@@ -36123,6 +36203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149864,
+      "num": 149864,
+      "word": "T1夺得季军",
+      "onboard_time": 1753005802,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149818,
       "num": 149818,
       "word": "中美两国人民完全可以成为好朋友",
@@ -36297,6 +36385,14 @@
       "onboard_time": 1752121824,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149061,
+      "num": 149061,
+      "word": "女演员微波炉煮蛋被炸伤眼睛",
+      "onboard_time": 1753005861,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 149048,
@@ -37041,6 +37137,14 @@
       "onboard_time": 1752215661,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146891,
+      "num": 146891,
+      "word": "肖战主页访问量601万",
+      "onboard_time": 1753006401,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 146879,
@@ -40523,6 +40627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "沙溢尼格买提异父异母的亲兄弟",
+      "onboard_time": 1753007301,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136150,
       "num": 330487,
       "word": "柴高潮被逮捕",
@@ -43683,6 +43795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127405,
+      "num": 127405,
+      "word": "常州为应援苏超掏出恐龙家底",
+      "onboard_time": 1753005622,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127383,
       "num": 127383,
       "word": "波点美甲",
@@ -44113,6 +44233,14 @@
       "onboard_time": 1752296781,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126385,
+      "num": 126385,
+      "word": "黄子韬变脸比翻书还快",
+      "onboard_time": 1753006822,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 126356,
@@ -44681,6 +44809,14 @@
       "onboard_time": 1751433023,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124789,
+      "num": 124789,
+      "word": "在羊村只有星期一上学",
+      "onboard_time": 1753007122,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 124773,
@@ -46123,14 +46259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121376,
-      "num": 342242,
-      "word": "中国女篮vs韩国女篮",
-      "onboard_time": 1752584241,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121366,
       "num": 121366,
       "word": "预计樊振东7月25日交手林诗栋",
@@ -46521,6 +46649,14 @@
       "onboard_time": 1751304617,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 120302,
+      "num": 120302,
+      "word": "Gr对战TE",
+      "onboard_time": 1753007122,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 120263,
@@ -48921,6 +49057,14 @@
       "onboard_time": 1752232462,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114522,
+      "num": 114522,
+      "word": "黄礼志吃国潮外卖",
+      "onboard_time": 1753007361,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 114478,
@@ -53131,6 +53275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103367,
+      "num": 126586,
+      "word": "韩旭不愧世界级中锋",
+      "onboard_time": 1753005321,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103364,
       "num": 67383,
       "word": "黑马做双眼皮手术",
@@ -56513,6 +56665,14 @@
       "onboard_time": 1751625739,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89723,
+      "num": 259774,
+      "word": "高铁泡面不宜一禁了之",
+      "onboard_time": 1753005741,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89706,
@@ -60435,14 +60595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62996,
-      "num": 374622,
-      "word": "美IT大佬出轨门女方老公也是CEO",
-      "onboard_time": 1753003942,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 62935,
       "num": 274459,
       "word": "一种儿童玩具100度高温220伏电压",
@@ -61568,6 +61720,14 @@
       "word": "官方通报杭州火灾",
       "onboard_time": 1752896242,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55851,
+      "num": 126827,
+      "word": "广东老师课堂怒斥崇洋媚外",
+      "onboard_time": 1753006282,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -67452,7 +67612,7 @@
     },
     {
       "raw_hot": 19531,
-      "num": 648243,
+      "num": 776403,
       "word": "今日入伏",
       "onboard_time": 1752982519,
       "rank": 2,

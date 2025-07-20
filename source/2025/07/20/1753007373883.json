@@ -1,0 +1,410 @@
+{
+  "runTime": 1753007373883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1044871,
+        "num": 1167179,
+        "word": "沙特沉睡王子昏迷近20年后去世",
+        "onboard_time": 1753005562,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 783290,
+        "num": 783290,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 15009,
+        "num": 776403,
+        "word": "今日入伏",
+        "onboard_time": 1752982519,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775668,
+        "num": 775668,
+        "word": "模仿出轨CEO成全球热梗",
+        "onboard_time": 1753005622,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 530913,
+        "num": 530913,
+        "word": "泰警方确认餐厅斗殴者系韩国游客",
+        "onboard_time": 1753000941,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 451234,
+        "num": 451234,
+        "word": "韩国人装中国人在泰国打架",
+        "onboard_time": 1752983301,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 445739,
+        "num": 445739,
+        "word": "丁禹兮扫腿舞",
+        "onboard_time": 1753002921,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407658,
+        "num": 407658,
+        "word": "杨洋回宫",
+        "onboard_time": 1753001301,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383109,
+        "num": 383109,
+        "word": "家里吧唧太多女孩深夜中毒送医",
+        "onboard_time": 1752996322,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306977,
+        "num": 362090,
+        "word": "台风韦帕登陆广东台山沿海",
+        "onboard_time": 1753006522,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1207305,
+        "num": 361560,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 694045,
+        "num": 361307,
+        "word": "农民工为了12元差点被烤熟",
+        "onboard_time": 1753002741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360532,
+        "num": 360532,
+        "word": "691分考上北大惊动了宗族长老",
+        "onboard_time": 1752983661,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266161,
+        "num": 266161,
+        "word": "美IT大佬出轨门女方老公也是CEO",
+        "onboard_time": 1753003942,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89723,
+        "num": 259774,
+        "word": "高铁泡面不宜一禁了之",
+        "onboard_time": 1753005741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257213,
+        "num": 257213,
+        "word": "梓渝音乐节",
+        "onboard_time": 1752988519,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253631,
+        "num": 253631,
+        "word": "敖瑞鹏李兰迪发了芭莎大片",
+        "onboard_time": 1753006881,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247025,
+        "num": 247025,
+        "word": "吧唧 甲醛",
+        "onboard_time": 1753003041,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223793,
+        "num": 223793,
+        "word": "陈楚生回应歌手难听",
+        "onboard_time": 1753006701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215840,
+        "num": 215840,
+        "word": "田栩宁四宫格照",
+        "onboard_time": 1752997823,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677260,
+        "num": 211953,
+        "word": "欲望羞耻",
+        "onboard_time": 1753000641,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207813,
+        "num": 207813,
+        "word": "中国女篮vs韩国女篮",
+        "onboard_time": 1753006282,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200200,
+        "num": 200200,
+        "word": "白举纲XXXXXL牛仔裤",
+        "onboard_time": 1753002082,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193827,
+        "num": 193827,
+        "word": "梓渝彩排特写",
+        "onboard_time": 1753000461,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190631,
+        "num": 190631,
+        "word": "仙逆",
+        "onboard_time": 1753007000,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186030,
+        "num": 186030,
+        "word": "上海蝉尿如下雨",
+        "onboard_time": 1752998601,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177155,
+        "num": 177155,
+        "word": "美又解雇70名外国研究员多为中国博后",
+        "onboard_time": 1753003282,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160240,
+        "num": 164149,
+        "word": "程潇曾患双相情感障碍",
+        "onboard_time": 1752999443,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159711,
+        "num": 162979,
+        "word": "三个少年",
+        "onboard_time": 1753001062,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157788,
+        "num": 162316,
+        "word": "歪嘴战神",
+        "onboard_time": 1753006822,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162026,
+        "num": 162026,
+        "word": "微信删过的人就不要加第二次了",
+        "onboard_time": 1753005201,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156012,
+        "num": 156012,
+        "word": "你们江苏人是懂冷门应援的",
+        "onboard_time": 1753007181,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149864,
+        "num": 149864,
+        "word": "T1夺得季军",
+        "onboard_time": 1753005802,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149061,
+        "num": 149061,
+        "word": "女演员微波炉煮蛋被炸伤眼睛",
+        "onboard_time": 1753005861,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146891,
+        "num": 146891,
+        "word": "肖战主页访问量601万",
+        "onboard_time": 1753006401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136160,
+        "num": 136160,
+        "word": "沙溢尼格买提异父异母的亲兄弟",
+        "onboard_time": 1753007301,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131720,
+        "num": 131720,
+        "word": "敖瑞鹏李兰迪短剧式剧宣",
+        "onboard_time": 1753004182,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127405,
+        "num": 127405,
+        "word": "常州为应援苏超掏出恐龙家底",
+        "onboard_time": 1753005622,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55851,
+        "num": 126827,
+        "word": "广东老师课堂怒斥崇洋媚外",
+        "onboard_time": 1753006282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103367,
+        "num": 126586,
+        "word": "韩旭不愧世界级中锋",
+        "onboard_time": 1753005321,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126385,
+        "num": 126385,
+        "word": "黄子韬变脸比翻书还快",
+        "onboard_time": 1753006822,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124789,
+        "num": 124789,
+        "word": "在羊村只有星期一上学",
+        "onboard_time": 1753007122,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120302,
+        "num": 120302,
+        "word": "Gr对战TE",
+        "onboard_time": 1753007122,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118621,
+        "num": 118621,
+        "word": "州在今天拥有了常",
+        "onboard_time": 1753001002,
+        "rank": 43,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 116818,
+        "num": 116818,
+        "word": "俄罗斯海域6.7级7.4级6.7级地震",
+        "onboard_time": 1752999320,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116202,
+        "num": 116202,
+        "word": "三伏天 减肥",
+        "onboard_time": 1752993801,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114522,
+        "num": 114522,
+        "word": "黄礼志吃国潮外卖",
+        "onboard_time": 1753007361,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113921,
+        "num": 113921,
+        "word": "单休怎么休最回血",
+        "onboard_time": 1753003641,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114141,
+        "num": 113672,
+        "word": "龚俊我真服了3.0版",
+        "onboard_time": 1753003522,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112935,
+        "num": 112935,
+        "word": "女子称因生女儿公公想过继孙子给自己",
+        "onboard_time": 1752995242,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 17:41:52
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 18:29:33
 </p>
 </blockquote>
 <p>
@@ -2235,6 +2235,12 @@ Jennie删掉和朴彩英的合照（热度：1128323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%B2%89%E7%9D%A1%E7%8E%8B%E5%AD%90%E6%98%8F%E8%BF%B7%E8%BF%9120%E5%B9%B4%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
+沙特沉睡王子昏迷近20年后去世（热度：1044871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%9D%80%E6%AD%BB%E4%BA%86labubu%23" target="weibo">
 夏天杀死了labubu（热度：1042060）
 </a>
@@ -3639,6 +3645,12 @@ T1对战AL（热度：778834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%A1%E4%BB%BF%E5%87%BA%E8%BD%A8CEO%E6%88%90%E5%85%A8%E7%90%83%E7%83%AD%E6%A2%97%23" target="weibo">
+模仿出轨CEO成全球热梗（热度：775668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%A4%AA%E4%BC%9A%E5%85%BB%E5%A5%B3%E5%84%BF%E4%BA%86%23" target="weibo">
 陆毅鲍蕾太会养女儿了（热度：774983）
 </a>
@@ -4373,6 +4385,12 @@ K1373砸窗男子被批评教育（热度：701716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9B%B4%E6%8B%8D%20%E5%93%AA%E9%87%8C%E6%9D%A5%E7%9A%84%E6%B4%8B%E5%A8%83%E5%A8%83%23" target="weibo">
 鹿晗直拍 哪里来的洋娃娃（热度：694055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E5%B7%A5%E4%B8%BA%E4%BA%8612%E5%85%83%E5%B7%AE%E7%82%B9%E8%A2%AB%E7%83%A4%E7%86%9F%23" target="weibo">
+农民工为了12元差点被烤熟（热度：694045）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ GAI表情（热度：577758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%97%E5%AD%90%E9%A2%91%E7%B9%81%E6%8B%A8%E6%89%93%E5%AE%B6%E4%B8%AD%E7%94%B5%E8%AF%9D%E5%8F%AA%E4%B8%BA%E6%94%B6%E9%9B%86%E5%A3%B0%E9%9F%B3%23" target="weibo">
 骗子频繁拨打家中电话只为收集声音（热度：558873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%BC%80%E5%A4%A7%E4%BA%86%23" target="weibo">
-陈楚生开大了（热度：558563）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%84%96%E5%AD%90%E8%82%BF%E7%97%9B%E5%BC%80%E5%88%80%E5%8F%96%E5%87%BA7%E9%A2%97%E7%93%9C%E5%AD%90%23" target="weibo">
-小伙脖子肿痛开刀取出7颗瓜子（热度：558333）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E5%BE%A1%E6%9C%A8%E6%9C%AC%23" target="weibo">
-迪丽热巴 御木本（热度：557796）
 </a>
 </li>
 
