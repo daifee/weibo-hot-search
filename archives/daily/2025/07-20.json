@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753015912650,
+  "endTime": 1753016901635,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -9,6 +9,14 @@
       "onboard_time": 1753011141,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 3956136,
+      "num": 440873,
+      "word": "难听",
+      "onboard_time": 1753014563,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 2698342,
@@ -25,14 +33,6 @@
       "onboard_time": 1752979100,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2404190,
-      "num": 440873,
-      "word": "难听",
-      "onboard_time": 1753014563,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1914343,
@@ -131,8 +131,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1183282,
-      "num": 1183282,
+      "raw_hot": 1211637,
+      "num": 1211637,
       "word": "甘肃疾控中心严重违反操作规程",
       "onboard_time": 1753013963,
       "rank": 4,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 411776,
+      "num": 411776,
+      "word": "苏超常州vs徐州",
+      "onboard_time": 1753010601,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409700,
       "num": 409700,
       "word": "李想老婆身材",
@@ -569,6 +577,14 @@
       "onboard_time": 1753014444,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370959,
+      "num": 370959,
+      "word": "朝雪录热度",
+      "onboard_time": 1753016126,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 369903,
@@ -657,14 +673,6 @@
       "onboard_time": 1752978979,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335634,
-      "num": 335634,
-      "word": "苏超常州vs徐州",
-      "onboard_time": 1753010601,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 332949,
@@ -795,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268406,
+      "num": 347509,
+      "word": "王俊凯 英雄联盟手游",
+      "onboard_time": 1753010903,
+      "rank": 19,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 267751,
       "num": 267751,
       "word": "受台风影响香港挂出十号风球",
@@ -817,6 +833,14 @@
       "onboard_time": 1753003942,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 264266,
+      "num": 337473,
+      "word": "纪委监委对检测数据失真等全面调查",
+      "onboard_time": 1753014084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262258,
@@ -849,6 +873,14 @@
       "onboard_time": 1752967277,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 253073,
+      "num": 253073,
+      "word": "AL对战GEN",
+      "onboard_time": 1753013605,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 249989,
@@ -913,6 +945,14 @@
       "onboard_time": 1752983422,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220517,
+      "num": 220517,
+      "word": "台风",
+      "onboard_time": 1753014325,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220236,
@@ -995,28 +1035,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 207185,
-      "num": 207185,
-      "word": "台风",
-      "onboard_time": 1753014325,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "一人一句为福宝送生日祝福",
       "onboard_time": 1752969317,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205347,
-      "num": 182654,
-      "word": "AL对战GEN",
-      "onboard_time": 1753013605,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 205113,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1752986061,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200545,
+      "num": 200545,
+      "word": "Faker赌AL夺冠",
+      "onboard_time": 1753015344,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 199474,
@@ -1227,6 +1259,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 180953,
+      "num": 187502,
+      "word": "宋佳为了气我什么都做得出来",
+      "onboard_time": 1753016065,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179581,
       "num": 179581,
       "word": "台风韦帕",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1752994160,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 174303,
-      "num": 337473,
-      "word": "纪委监委对检测数据失真等全面调查",
-      "onboard_time": 1753014084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174137,
@@ -1475,6 +1507,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 160328,
+      "num": 160328,
+      "word": "朝雪录",
+      "onboard_time": 1753013363,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160299,
       "num": 160299,
       "word": "刘宇宁演唱会",
@@ -1579,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151361,
+      "num": 151361,
+      "word": "苏州vs镇江",
+      "onboard_time": 1753012643,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151138,
       "num": 151138,
       "word": "印度一家出游瘫痪父亲绑车内险丧命",
@@ -1659,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146732,
+      "num": 146732,
+      "word": "一诺被科目二拿捏住了",
+      "onboard_time": 1753016126,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144659,
       "num": 144659,
       "word": "女子打赏男主播43万冲动离婚",
@@ -1731,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141901,
-      "num": 141901,
-      "word": "苏州vs镇江",
-      "onboard_time": 1753012643,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140744,
       "num": 140744,
       "word": "广东全省转移超27万人",
@@ -1747,12 +1795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140574,
-      "num": 140574,
-      "word": "朝雪录",
-      "onboard_time": 1753013363,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 140436,
+      "num": 140436,
+      "word": "徐州队派姆巴佩C罗内马尔应援",
+      "onboard_time": 1753014625,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 140187,
@@ -1833,6 +1881,14 @@
       "onboard_time": 1752937344,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133103,
+      "num": 133103,
+      "word": "苏州3比0镇江",
+      "onboard_time": 1753016848,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 132545,
@@ -2139,6 +2195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119146,
+      "num": 119146,
+      "word": "在美国卖酱香饼网红回应被捕",
+      "onboard_time": 1753016848,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119012,
       "num": 119012,
       "word": "藏海传野生编剧是怎么一回事",
@@ -2193,6 +2257,14 @@
       "onboard_time": 1752997101,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116095,
+      "num": 116095,
+      "word": "陈奕迅7年演出了180多场",
+      "onboard_time": 1753016848,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 115712,
@@ -2587,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98247,
+      "num": 376560,
+      "word": "234名血铅异常患儿完成第一疗程出院",
+      "onboard_time": 1753016486,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97507,
       "num": 97507,
       "word": "曾舜晞这条路走了8年",
@@ -2641,14 +2721,6 @@
       "onboard_time": 1752938542,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92937,
-      "num": 154520,
-      "word": "Faker赌AL夺冠",
-      "onboard_time": 1753015344,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 92772,
@@ -2739,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84242,
+      "num": 445391,
+      "word": "血铅异常幼儿园周边检测未受铅污染",
+      "onboard_time": 1753013304,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 82377,
       "num": 276931,
       "word": "贵州两学校指责对方中高考造假",
@@ -2769,14 +2849,6 @@
       "onboard_time": 1753003762,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79901,
-      "num": 445391,
-      "word": "血铅异常幼儿园周边检测未受铅污染",
-      "onboard_time": 1753013304,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 78181,
@@ -2817,6 +2889,14 @@
       "onboard_time": 1752993201,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70228,
+      "num": 371494,
+      "word": "对甘肃卫健委天水市等10人立案问责",
+      "onboard_time": 1753016545,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69560,
