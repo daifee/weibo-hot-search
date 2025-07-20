@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753010571197,
+  "endTime": 1753011536240,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1751339361,
       "rank": 0,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1425566,
+      "num": 1425566,
+      "word": "血铅事件27人被追责问责",
+      "onboard_time": 1753011141,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1419413,
@@ -11547,6 +11555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 409700,
+      "num": 409700,
+      "word": "李想老婆身材",
+      "onboard_time": 1753010000,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 409668,
       "num": 244136,
       "word": "女脱口秀演员 血肉疯长的声音",
@@ -11673,6 +11689,14 @@
       "onboard_time": 1751862686,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405530,
+      "num": 405530,
+      "word": "仙逆 粉雾",
+      "onboard_time": 1753009162,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 405257,
@@ -13145,14 +13169,6 @@
       "onboard_time": 1751634086,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358446,
-      "num": 358446,
-      "word": "仙逆 粉雾",
-      "onboard_time": 1753009162,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 358337,
@@ -17467,6 +17483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270294,
+      "num": 419637,
+      "word": "刘宇宁演唱会量大管饱",
+      "onboard_time": 1753009222,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270123,
       "num": 270123,
       "word": "天水市长称深感痛心",
@@ -19539,6 +19563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241918,
+      "num": 241918,
+      "word": "苏超常州vs徐州",
+      "onboard_time": 1753010601,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241893,
       "num": 241893,
       "word": "田栩宁夜景live",
@@ -19897,14 +19929,6 @@
       "onboard_time": 1751518461,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 236536,
-      "num": 419637,
-      "word": "刘宇宁演唱会量大管饱",
-      "onboard_time": 1753009222,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 236529,
@@ -21355,6 +21379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220236,
+      "num": 448815,
+      "word": "中国女篮队员们都哭了",
+      "onboard_time": 1753009522,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220071,
       "num": 220071,
       "word": "香港台风",
@@ -22337,6 +22369,14 @@
       "onboard_time": 1752673462,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 213041,
+      "num": 309070,
+      "word": "王俊凯 英雄联盟",
+      "onboard_time": 1753010903,
+      "rank": 16,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 212961,
@@ -24353,6 +24393,14 @@
       "onboard_time": 1751718863,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200801,
+      "num": 200801,
+      "word": "化尸水化到骨头渣都不剩",
+      "onboard_time": 1753011023,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 200765,
@@ -26451,6 +26499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191253,
+      "num": 191253,
+      "word": "姓常和姓徐终于对上了",
+      "onboard_time": 1753011141,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191234,
       "num": 191234,
       "word": "乐评人说GAI唱一整个群体的命运",
@@ -27681,14 +27737,6 @@
       "onboard_time": 1751635826,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185770,
-      "num": 185770,
-      "word": "李想老婆身材",
-      "onboard_time": 1753010000,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 185769,
@@ -30643,6 +30691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172136,
+      "num": 394478,
+      "word": "老外发华为折叠本爆火",
+      "onboard_time": 1753009641,
+      "rank": 19,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 172065,
       "num": 172065,
       "word": "大鹏选庄达菲演阿僮的原因",
@@ -32345,6 +32401,14 @@
       "onboard_time": 1752032184,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164572,
+      "num": 164572,
+      "word": "靳梦佳好适合上恋综",
+      "onboard_time": 1753010842,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 164562,
@@ -35411,6 +35475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152595,
+      "num": 448164,
+      "word": "知情人称卖饼的中国小伙无合法执照",
+      "onboard_time": 1753009342,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152592,
       "num": 152592,
       "word": "钎九拥抱",
@@ -35481,6 +35553,14 @@
       "onboard_time": 1752383481,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152477,
+      "num": 304085,
+      "word": "荔枝根本不是杨贵妃要吃的",
+      "onboard_time": 1753010601,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 152473,
@@ -35816,6 +35896,14 @@
       "word": "村里腾出空调房免费托管全村孩子",
       "onboard_time": 1752717740,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151421,
+      "num": 151421,
+      "word": "警方回应韩国人装中国人在泰国打架",
+      "onboard_time": 1753010121,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -41019,14 +41107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135478,
-      "num": 448815,
-      "word": "中国女篮队员们都哭了",
-      "onboard_time": 1753009522,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135472,
       "num": 135472,
       "word": "狼队对战TTG",
@@ -42459,14 +42539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131364,
-      "num": 131364,
-      "word": "警方回应韩国人装中国人在泰国打架",
-      "onboard_time": 1753010121,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131341,
       "num": 131341,
       "word": "美国橙汁要涨价了",
@@ -43689,14 +43761,6 @@
       "onboard_time": 1752371120,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128096,
-      "num": 394478,
-      "word": "老外发华为折叠本爆火",
-      "onboard_time": 1753009641,
-      "rank": 19,
-      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 128088,
@@ -46099,6 +46163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122157,
+      "num": 122157,
+      "word": "小酒窝不同意董璇打蒋峤西",
+      "onboard_time": 1753011442,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122146,
       "num": 122146,
       "word": "国内哪里适合夏季旅居一个月",
@@ -47097,6 +47169,14 @@
       "onboard_time": 1752420325,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119960,
+      "num": 164904,
+      "word": "女骑手将女儿装外卖箱送外卖",
+      "onboard_time": 1753008141,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119958,
@@ -48265,6 +48345,14 @@
       "onboard_time": 1752135923,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116896,
+      "num": 297977,
+      "word": "倪萍老公给她发要服老视频",
+      "onboard_time": 1753010782,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 116893,
@@ -56259,14 +56347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92900,
-      "num": 448164,
-      "word": "知情人称卖饼的中国小伙无合法执照",
-      "onboard_time": 1753009342,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 92887,
       "num": 92887,
       "word": "李兰迪雪中撑伞美学",
@@ -56553,14 +56633,6 @@
       "onboard_time": 1752475224,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91771,
-      "num": 164904,
-      "word": "女骑手将女儿装外卖箱送外卖",
-      "onboard_time": 1753008141,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91685,
@@ -59091,6 +59163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76005,
+      "num": 277656,
+      "word": "天水幼儿血铅异常问题调查最新通报",
+      "onboard_time": 1753011262,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 75965,
       "num": 75965,
       "word": "李光洁问李人骏是傻白甜吗",
@@ -60843,6 +60923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62873,
+      "num": 203256,
+      "word": "男子和妻子猜拳输了报警12次被捕",
+      "onboard_time": 1753011141,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62841,
       "num": 125485,
       "word": "李想回应被调侃抠厂",
@@ -61168,6 +61256,14 @@
       "word": "郑钦文温网首日比赛推迟至次日",
       "onboard_time": 1751325318,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60885,
+      "num": 432339,
+      "word": "AQ为苏超球迷观赛操碎了心",
+      "onboard_time": 1753009282,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -62201,14 +62297,6 @@
       "onboard_time": 1752201080,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53598,
-      "num": 432339,
-      "word": "AQ为苏超球迷观赛操碎了心",
-      "onboard_time": 1753009282,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 53594,
@@ -67860,7 +67948,7 @@
     },
     {
       "raw_hot": 19531,
-      "num": 776403,
+      "num": 1202034,
       "word": "今日入伏",
       "onboard_time": 1752982519,
       "rank": 2,
@@ -68145,6 +68233,14 @@
       "onboard_time": 1752445396,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17823,
+      "num": 201049,
+      "word": "小马倒隧道大马围住拦路求助",
+      "onboard_time": 1753011202,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 17780,

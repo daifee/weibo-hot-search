@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753010571197,
+  "endTime": 1753011536240,
   "band_list": [
     {
       "raw_hot": 2698342,
@@ -73,6 +73,14 @@
       "onboard_time": 1752974901,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1425566,
+      "num": 1425566,
+      "word": "血铅事件27人被追责问责",
+      "onboard_time": 1753011141,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1218968,
@@ -435,6 +443,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 409700,
+      "num": 409700,
+      "word": "李想老婆身材",
+      "onboard_time": 1753010000,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 405530,
+      "num": 405530,
+      "word": "仙逆 粉雾",
+      "onboard_time": 1753009162,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 403477,
       "num": 403477,
       "word": "12306回应高铁不要食用方便面提醒",
@@ -481,14 +505,6 @@
       "onboard_time": 1753001002,
       "rank": 17,
       "category": "幽默,体育"
-    },
-    {
-      "raw_hot": 358446,
-      "num": 358446,
-      "word": "仙逆 粉雾",
-      "onboard_time": 1753009162,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 357607,
@@ -683,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270294,
+      "num": 419637,
+      "word": "刘宇宁演唱会量大管饱",
+      "onboard_time": 1753009222,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 267751,
       "num": 267751,
       "word": "受台风影响香港挂出十号风球",
@@ -755,20 +779,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241918,
+      "num": 241918,
+      "word": "苏超常州vs徐州",
+      "onboard_time": 1753010601,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240842,
       "num": 240842,
       "word": "中国女篮vs韩国女篮",
       "onboard_time": 1753006282,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236536,
-      "num": 419637,
-      "word": "刘宇宁演唱会量大管饱",
-      "onboard_time": 1753009222,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 235810,
@@ -809,6 +833,14 @@
       "onboard_time": 1752983422,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220236,
+      "num": 448815,
+      "word": "中国女篮队员们都哭了",
+      "onboard_time": 1753009522,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 220071,
@@ -857,6 +889,14 @@
       "onboard_time": 1752932902,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213041,
+      "num": 309070,
+      "word": "王俊凯 英雄联盟",
+      "onboard_time": 1753010903,
+      "rank": 16,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 211468,
@@ -913,6 +953,14 @@
       "onboard_time": 1752986061,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200801,
+      "num": 200801,
+      "word": "化尸水化到骨头渣都不剩",
+      "onboard_time": 1753011023,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 199474,
@@ -977,6 +1025,14 @@
       "onboard_time": 1753007301,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191253,
+      "num": 191253,
+      "word": "姓常和姓徐终于对上了",
+      "onboard_time": 1753011141,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 190112,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1753006822,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185770,
-      "num": 185770,
-      "word": "李想老婆身材",
-      "onboard_time": 1753010000,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 179581,
@@ -1155,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172136,
+      "num": 394478,
+      "word": "老外发华为折叠本爆火",
+      "onboard_time": 1753009641,
+      "rank": 19,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 171293,
       "num": 171293,
       "word": "DRG对战LGDNBW",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1752979222,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164572,
+      "num": 164572,
+      "word": "靳梦佳好适合上恋综",
+      "onboard_time": 1753010842,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 164235,
@@ -1299,6 +1363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152595,
+      "num": 448164,
+      "word": "知情人称卖饼的中国小伙无合法执照",
+      "onboard_time": 1753009342,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152477,
+      "num": 304085,
+      "word": "荔枝根本不是杨贵妃要吃的",
+      "onboard_time": 1753010601,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152341,
       "num": 191650,
       "word": "王一博接荔",
@@ -1312,6 +1392,14 @@
       "word": "暴走团逼停救护车网友吵翻",
       "onboard_time": 1752974780,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151421,
+      "num": 151421,
+      "word": "警方回应韩国人装中国人在泰国打架",
+      "onboard_time": 1753010121,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1523,14 +1611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135478,
-      "num": 448815,
-      "word": "中国女篮队员们都哭了",
-      "onboard_time": 1753009522,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134771,
       "num": 149484,
       "word": "徐艺洋给黄子韬哄成胚胎了",
@@ -1585,14 +1665,6 @@
       "onboard_time": 1753007361,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131364,
-      "num": 131364,
-      "word": "警方回应韩国人装中国人在泰国打架",
-      "onboard_time": 1753010121,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130272,
@@ -1657,14 +1729,6 @@
       "onboard_time": 1752999141,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128096,
-      "num": 394478,
-      "word": "老外发华为折叠本爆火",
-      "onboard_time": 1753009641,
-      "rank": 19,
-      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 127617,
@@ -1795,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122157,
+      "num": 122157,
+      "word": "小酒窝不同意董璇打蒋峤西",
+      "onboard_time": 1753011442,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122129,
       "num": 122129,
       "word": "台风韦帕将登陆广东珠江口以西",
@@ -1859,6 +1931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119960,
+      "num": 164904,
+      "word": "女骑手将女儿装外卖箱送外卖",
+      "onboard_time": 1753008141,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119556,
       "num": 119556,
       "word": "不要删掉讨厌的人的微信",
@@ -1921,6 +2001,14 @@
       "onboard_time": 1752986543,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116896,
+      "num": 297977,
+      "word": "倪萍老公给她发要服老视频",
+      "onboard_time": 1753010782,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 116497,
@@ -2371,14 +2459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92900,
-      "num": 448164,
-      "word": "知情人称卖饼的中国小伙无合法执照",
-      "onboard_time": 1753009342,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 92772,
       "num": 92772,
       "word": "不玩手机还有这么多低成本爱好",
@@ -2401,14 +2481,6 @@
       "onboard_time": 1752997162,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91771,
-      "num": 164904,
-      "word": "女骑手将女儿装外卖箱送外卖",
-      "onboard_time": 1753008141,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90722,
@@ -2531,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76005,
+      "num": 277656,
+      "word": "天水幼儿血铅异常问题调查最新通报",
+      "onboard_time": 1753011262,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 74092,
       "num": 162035,
       "word": "有人租用学生微信用于实施电诈",
@@ -2603,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62873,
+      "num": 203256,
+      "word": "男子和妻子猜拳输了报警12次被捕",
+      "onboard_time": 1753011141,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62169,
       "num": 230464,
       "word": "台风一线185大个子记者被吹着走",
@@ -2617,6 +2705,14 @@
       "onboard_time": 1752944839,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60885,
+      "num": 432339,
+      "word": "AQ为苏超球迷观赛操碎了心",
+      "onboard_time": 1753009282,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 60324,
@@ -2673,14 +2769,6 @@
       "onboard_time": 1752984680,
       "rank": 14,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 53598,
-      "num": 432339,
-      "word": "AQ为苏超球迷观赛操碎了心",
-      "onboard_time": 1753009282,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 51049,
@@ -2916,11 +3004,19 @@
     },
     {
       "raw_hot": 19531,
-      "num": 776403,
+      "num": 1202034,
       "word": "今日入伏",
       "onboard_time": 1752982519,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17823,
+      "num": 201049,
+      "word": "小马倒隧道大马围住拦路求助",
+      "onboard_time": 1753011202,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 17375,

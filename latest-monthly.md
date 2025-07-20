@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 19:22:51
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/20 19:38:56
 </p>
 </blockquote>
 <p>
@@ -1127,6 +1127,12 @@ K1373没达到破窗应急预案紧急程度（热度：1514321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E6%9C%B5%E9%BB%84%E8%89%B2%E5%88%86%E6%B3%8C%E7%89%A9%23" target="weibo">
 耳朵黄色分泌物（热度：1429448）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%80%E9%93%85%E4%BA%8B%E4%BB%B627%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3%23" target="weibo">
+血铅事件27人被追责问责（热度：1425566）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GAI表情（热度：577758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E7%9A%84%E5%9B%9B%E5%A4%A7%E6%A0%87%E5%87%86%23" target="weibo">
 月经的四大标准（热度：559468）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A515%E5%B2%81%E7%94%B7%E5%AD%A9%E8%80%83%E8%AF%95%E5%90%8E%E7%A6%BB%E4%B8%96%23" target="weibo">
-教体局通报15岁男孩考试后离世（热度：559320）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1753011536240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1515465,
+        "num": 1515465,
+        "word": "沙特沉睡王子昏迷近20年后去世",
+        "onboard_time": 1753005562,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1425566,
+        "num": 1425566,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15812,
+        "num": 1202034,
+        "word": "今日入伏",
+        "onboard_time": 1752982519,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1156312,
+        "num": 1156312,
+        "word": "模仿出轨CEO成全球热梗",
+        "onboard_time": 1753005622,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 536691,
+        "num": 536691,
+        "word": "水蒸蛋被改名日本蒸蛋",
+        "onboard_time": 1752988400,
+        "rank": 4,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 473741,
+        "num": 473741,
+        "word": "88万赔偿律师拿55万最新进展",
+        "onboard_time": 1753007482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452647,
+        "num": 452647,
+        "word": "敖瑞鹏李兰迪发了芭莎大片",
+        "onboard_time": 1753006881,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409700,
+        "num": 409700,
+        "word": "李想老婆身材",
+        "onboard_time": 1753010000,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270294,
+        "num": 406706,
+        "word": "刘宇宁演唱会量大管饱",
+        "onboard_time": 1753009222,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 405530,
+        "num": 405530,
+        "word": "仙逆 粉雾",
+        "onboard_time": 1753009162,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1237793,
+        "num": 403493,
+        "word": "演唱会被曝出轨女方与丈夫5月前购豪宅",
+        "onboard_time": 1752988942,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 421908,
+        "num": 402462,
+        "word": "农民工为了12元差点被烤熟",
+        "onboard_time": 1753002741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396637,
+        "num": 396637,
+        "word": "吧唧 甲醛",
+        "onboard_time": 1753003041,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333588,
+        "num": 333588,
+        "word": "台风韦帕登陆广东台山沿海",
+        "onboard_time": 1753006522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60885,
+        "num": 312374,
+        "word": "AQ为苏超球迷观赛操碎了心",
+        "onboard_time": 1753009282,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256123,
+        "num": 309405,
+        "word": "丁禹兮扫腿舞",
+        "onboard_time": 1753002921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213041,
+        "num": 309070,
+        "word": "王俊凯 英雄联盟",
+        "onboard_time": 1753010903,
+        "rank": 16,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 309038,
+        "num": 309038,
+        "word": "仙逆",
+        "onboard_time": 1753007000,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152477,
+        "num": 304085,
+        "word": "荔枝根本不是杨贵妃要吃的",
+        "onboard_time": 1753010601,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116896,
+        "num": 297977,
+        "word": "倪萍老公给她发要服老视频",
+        "onboard_time": 1753010782,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747081,
+        "num": 294204,
+        "word": "梓渝音乐节逆应援",
+        "onboard_time": 1753008501,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185085,
+        "num": 287425,
+        "word": "陈楚生回应歌手难听",
+        "onboard_time": 1753006701,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449904,
+        "num": 282354,
+        "word": "欲望羞耻",
+        "onboard_time": 1753000641,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76005,
+        "num": 277656,
+        "word": "天水幼儿血铅异常问题调查最新通报",
+        "onboard_time": 1753011262,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 274070,
+        "num": 274070,
+        "word": "杨舒予哭了",
+        "onboard_time": 1753009102,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241918,
+        "num": 241918,
+        "word": "苏超常州vs徐州",
+        "onboard_time": 1753010601,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220236,
+        "num": 220236,
+        "word": "中国女篮队员们都哭了",
+        "onboard_time": 1753009522,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206613,
+        "num": 206613,
+        "word": "691分考上北大惊动了宗族长老",
+        "onboard_time": 1752983661,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62873,
+        "num": 203256,
+        "word": "男子和妻子猜拳输了报警12次被捕",
+        "onboard_time": 1753011141,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17823,
+        "num": 201049,
+        "word": "小马倒隧道大马围住拦路求助",
+        "onboard_time": 1753011202,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 200801,
+        "num": 200801,
+        "word": "化尸水化到骨头渣都不剩",
+        "onboard_time": 1753011023,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195964,
+        "num": 195964,
+        "word": "大学四年健身杀死了我的自卑",
+        "onboard_time": 1753007841,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 191253,
+        "num": 191253,
+        "word": "姓常和姓徐终于对上了",
+        "onboard_time": 1753011141,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178134,
+        "num": 178134,
+        "word": "韩国人装中国人在泰国打架",
+        "onboard_time": 1752983301,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "田栩宁四宫格照",
+        "onboard_time": 1752997823,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172136,
+        "num": 172136,
+        "word": "老外发华为折叠本爆火",
+        "onboard_time": 1753009641,
+        "rank": 35,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 170907,
+        "num": 170907,
+        "word": "微信删过的人就不要加第二次了",
+        "onboard_time": 1753005201,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169646,
+        "num": 169646,
+        "word": "杨洋回宫",
+        "onboard_time": 1753001301,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168792,
+        "num": 168792,
+        "word": "家里吧唧太多女孩深夜中毒送医",
+        "onboard_time": 1752996322,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164572,
+        "num": 164572,
+        "word": "靳梦佳好适合上恋综",
+        "onboard_time": 1753010842,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159387,
+        "num": 159387,
+        "word": "时代少年团 谁抢到了",
+        "onboard_time": 1753009700,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152595,
+        "num": 152595,
+        "word": "知情人称卖饼的中国小伙无合法执照",
+        "onboard_time": 1753009342,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151421,
+        "num": 151421,
+        "word": "警方回应韩国人装中国人在泰国打架",
+        "onboard_time": 1753010121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146864,
+        "num": 146864,
+        "word": "丫鬟连杀四人为惨死全家复仇",
+        "onboard_time": 1753009641,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130946,
+        "num": 130946,
+        "word": "县委书记呼吁公职人员花工资下小馆",
+        "onboard_time": 1753008023,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123995,
+        "num": 123995,
+        "word": "减脂要逼自己一次性瘦下来",
+        "onboard_time": 1753007841,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123590,
+        "num": 123590,
+        "word": "女演员微波炉煮蛋被炸伤眼睛",
+        "onboard_time": 1753005861,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122157,
+        "num": 122157,
+        "word": "小酒窝不同意董璇打蒋峤西",
+        "onboard_time": 1753011442,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121806,
+        "num": 121806,
+        "word": "长安的荔枝票房破2亿",
+        "onboard_time": 1753009222,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119960,
+        "num": 119960,
+        "word": "女骑手将女儿装外卖箱送外卖",
+        "onboard_time": 1753008141,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
