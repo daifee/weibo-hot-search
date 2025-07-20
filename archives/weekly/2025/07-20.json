@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753007373883,
+  "endTime": 1753008414001,
   "band_list": [
     {
       "raw_hot": 2698342,
@@ -67,8 +67,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1044871,
-      "num": 1167179,
+      "raw_hot": 1364609,
+      "num": 1364609,
       "word": "沙特沉睡王子昏迷近20年后去世",
       "onboard_time": 1753005562,
       "rank": 0,
@@ -97,6 +97,14 @@
       "onboard_time": 1752998601,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 885541,
+      "num": 885541,
+      "word": "模仿出轨CEO成全球热梗",
+      "onboard_time": 1753005622,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 863290,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 775668,
-      "num": 775668,
-      "word": "模仿出轨CEO成全球热梗",
-      "onboard_time": 1753005622,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 758833,
       "num": 758833,
       "word": "家里吧唧太多女孩深夜中毒送医",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 694045,
-      "num": 361307,
+      "num": 389675,
       "word": "农民工为了12元差点被烤熟",
       "onboard_time": 1753002741,
       "rank": 18,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497909,
+      "num": 497909,
+      "word": "台风韦帕登陆广东台山沿海",
+      "onboard_time": 1753006522,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495137,
       "num": 495137,
       "word": "三伏天最易生病也最养人",
@@ -307,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 485264,
+      "num": 485264,
+      "word": "仙逆",
+      "onboard_time": 1753007000,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 483928,
       "num": 483928,
       "word": "深圳台风",
@@ -321,6 +337,14 @@
       "onboard_time": 1752987502,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477269,
+      "num": 477269,
+      "word": "敖瑞鹏李兰迪发了芭莎大片",
+      "onboard_time": 1753006881,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 477237,
@@ -369,6 +393,14 @@
       "onboard_time": 1752967516,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427602,
+      "num": 427602,
+      "word": "吧唧 甲醛",
+      "onboard_time": 1753003041,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416313,
@@ -531,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306977,
-      "num": 362090,
-      "word": "台风韦帕登陆广东台山沿海",
-      "onboard_time": 1753006522,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306070,
       "num": 279184,
       "word": "建议定期更换手机壳",
@@ -683,12 +707,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 253631,
-      "num": 253631,
-      "word": "敖瑞鹏李兰迪发了芭莎大片",
-      "onboard_time": 1753006881,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 249989,
+      "num": 249989,
+      "word": "微信删过的人就不要加第二次了",
+      "onboard_time": 1753005201,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 249697,
@@ -699,12 +723,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247025,
-      "num": 247025,
-      "word": "吧唧 甲醛",
-      "onboard_time": 1753003041,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 240842,
+      "num": 240842,
+      "word": "中国女篮vs韩国女篮",
+      "onboard_time": 1753006282,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 235810,
@@ -723,20 +747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231755,
+      "num": 257916,
+      "word": "陈楚生回应歌手难听",
+      "onboard_time": 1753006701,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229333,
       "num": 229333,
       "word": "许梦圆央视网短剧女主",
       "onboard_time": 1752983422,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223793,
-      "num": 223793,
-      "word": "陈楚生回应歌手难听",
-      "onboard_time": 1753006701,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 220071,
@@ -793,14 +817,6 @@
       "onboard_time": 1752986602,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207813,
-      "num": 207813,
-      "word": "中国女篮vs韩国女篮",
-      "onboard_time": 1753006282,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 205917,
@@ -875,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195811,
+      "num": 195811,
+      "word": "你们江苏人是懂冷门应援的",
+      "onboard_time": 1753007181,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192787,
       "num": 209210,
       "word": "刘耀文炫MV",
@@ -891,12 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190631,
-      "num": 190631,
-      "word": "仙逆",
-      "onboard_time": 1753007000,
-      "rank": 24,
-      "category": "动漫"
+      "raw_hot": 191986,
+      "num": 191986,
+      "word": "沙溢尼格买提异父异母的亲兄弟",
+      "onboard_time": 1753007301,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 190112,
@@ -961,6 +985,14 @@
       "onboard_time": 1752928342,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 186040,
+      "num": 186040,
+      "word": "歪嘴战神",
+      "onboard_time": 1753006822,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 179581,
@@ -1131,14 +1163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 162026,
-      "num": 162026,
-      "word": "微信删过的人就不要加第二次了",
-      "onboard_time": 1753005201,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161981,
       "num": 161981,
       "word": "priest到底为什么这么爱上班",
@@ -1179,14 +1203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157788,
-      "num": 162316,
-      "word": "歪嘴战神",
-      "onboard_time": 1753006822,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157411,
       "num": 242419,
       "word": "陈梦准备恢复训练了",
@@ -1203,12 +1219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156012,
-      "num": 156012,
-      "word": "你们江苏人是懂冷门应援的",
-      "onboard_time": 1753007181,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 153389,
+      "num": 362017,
+      "word": "88万赔偿律师拿55万最新进展",
+      "onboard_time": 1753007482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152341,
@@ -1243,6 +1259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 150829,
+      "num": 150829,
+      "word": "女演员微波炉煮蛋被炸伤眼睛",
+      "onboard_time": 1753005861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149952,
       "num": 149952,
       "word": "女演员投诉花千万买房遭强制交付",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1753005802,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 149061,
-      "num": 149061,
-      "word": "女演员微波炉煮蛋被炸伤眼睛",
-      "onboard_time": 1753005861,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 148158,
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143277,
+      "num": 143277,
+      "word": "减脂要逼自己一次性瘦下来",
+      "onboard_time": 1753007841,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143051,
       "num": 143051,
       "word": "原神",
@@ -1387,6 +1411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139013,
+      "num": 139013,
+      "word": "县委书记呼吁公职人员花工资下小馆",
+      "onboard_time": 1753008023,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138798,
       "num": 138798,
       "word": "孟子义hi6开业LOOK揭晓",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1752974719,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136160,
-      "num": 136160,
-      "word": "沙溢尼格买提异父异母的亲兄弟",
-      "onboard_time": 1753007301,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 134771,
@@ -1451,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131713,
+      "num": 131713,
+      "word": "黄礼志吃国潮外卖",
+      "onboard_time": 1753007361,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130272,
       "num": 130272,
       "word": "去了twice演唱会的明星",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1752983902,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129364,
+      "num": 129364,
+      "word": "TEC荣都0换4",
+      "onboard_time": 1753008202,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 128436,
@@ -1595,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123763,
+      "num": 389877,
+      "word": "韦帕在广东正式登陆",
+      "onboard_time": 1753006881,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 122411,
       "num": 122411,
       "word": "石宇奇夺本赛季第三冠",
@@ -1699,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118756,
+      "num": 259774,
+      "word": "高铁泡面不宜一禁了之",
+      "onboard_time": 1753005741,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118111,
       "num": 178994,
       "word": "珠海全市停课停工停产停运停业",
@@ -1761,14 +1817,6 @@
       "onboard_time": 1752978080,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 114522,
-      "num": 114522,
-      "word": "黄礼志吃国潮外卖",
-      "onboard_time": 1753007361,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 114140,
@@ -1971,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105694,
+      "num": 105694,
+      "word": "三伏是人体的黄金修补期",
+      "onboard_time": 1753007482,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105518,
       "num": 105518,
       "word": "素颜张元英",
@@ -2091,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99965,
+      "num": 99965,
+      "word": "你看我像公务员还是事业编",
+      "onboard_time": 1753006282,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99952,
       "num": 899814,
       "word": "台风韦帕风雨时间表",
@@ -2105,6 +2169,14 @@
       "onboard_time": 1752939263,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97507,
+      "num": 97507,
+      "word": "曾舜晞这条路走了8年",
+      "onboard_time": 1753008381,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 96663,
@@ -2179,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91771,
+      "num": 164904,
+      "word": "女骑手将女儿装外卖箱送外卖",
+      "onboard_time": 1753008141,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90722,
       "num": 90722,
       "word": "直击杭州余杭自来水发臭事发水厂",
@@ -2193,14 +2273,6 @@
       "onboard_time": 1752991581,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 89723,
-      "num": 259774,
-      "word": "高铁泡面不宜一禁了之",
-      "onboard_time": 1753005741,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87033,
