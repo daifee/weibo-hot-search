@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753106205638,
+  "endTime": 1753108190719,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -305,6 +305,14 @@
       "onboard_time": 1751722466,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2868331,
+      "num": 2868331,
+      "word": "水下吻",
+      "onboard_time": 1753104502,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 2810309,
@@ -953,14 +961,6 @@
       "onboard_time": 1753068201,
       "rank": 1,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1761910,
-      "num": 927974,
-      "word": "水下吻",
-      "onboard_time": 1753104502,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1759372,
@@ -3617,6 +3617,14 @@
       "onboard_time": 1751683943,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 966379,
+      "num": 334633,
+      "word": "姐弟俩为争300万遗产发现均非亲生",
+      "onboard_time": 1753106423,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 965103,
@@ -11355,6 +11363,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 443315,
+      "num": 443315,
+      "word": "离职了我就像张予曦这么拍",
+      "onboard_time": 1753102223,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442897,
       "num": 253883,
       "word": "X玖少年团",
@@ -11497,14 +11513,6 @@
       "onboard_time": 1752456141,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 435599,
-      "num": 435599,
-      "word": "离职了我就像张予曦这么拍",
-      "onboard_time": 1753102223,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 435187,
@@ -12448,6 +12456,14 @@
       "word": "心疼格格",
       "onboard_time": 1751631624,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 404280,
+      "num": 404280,
+      "word": "第一次见田曦薇这么忸怩",
+      "onboard_time": 1753104922,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -13824,6 +13840,14 @@
       "word": "幼童遭碾压身亡知情人谈网上言论",
       "onboard_time": 1751920454,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361388,
+      "num": 361388,
+      "word": "中国大坝让印度网民破防了",
+      "onboard_time": 1753103482,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -15233,6 +15257,14 @@
       "onboard_time": 1752016700,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 329980,
+      "num": 329980,
+      "word": "全村老人都在等她出摊",
+      "onboard_time": 1753105644,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329604,
@@ -19563,14 +19595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256936,
-      "num": 256936,
-      "word": "第一次见田曦薇这么忸怩",
-      "onboard_time": 1753104922,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256820,
       "num": 127266,
       "word": "田栩宁榜一是若若",
@@ -21088,6 +21112,14 @@
       "word": "深圳地铁1号线",
       "onboard_time": 1751851943,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236844,
+      "num": 236844,
+      "word": "23岁男子失联34天家属发声",
+      "onboard_time": 1753105883,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -23092,7 +23124,7 @@
     },
     {
       "raw_hot": 216360,
-      "num": 188879,
+      "num": 210919,
       "word": "梓渝应援色",
       "onboard_time": 1753104382,
       "rank": 25,
@@ -25881,14 +25913,6 @@
       "onboard_time": 1751967143,
       "rank": 22,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 200971,
-      "num": 200971,
-      "word": "中国大坝让印度网民破防了",
-      "onboard_time": 1753103482,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200876,
@@ -30395,6 +30419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180979,
+      "num": 169466,
+      "word": "女性40岁后会对什么东西祛魅",
+      "onboard_time": 1753106902,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180962,
       "num": 174324,
       "word": "雷军直播",
@@ -33635,6 +33667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167378,
+      "num": 167378,
+      "word": "刘宇宁你们是全宇宙最棒的家人",
+      "onboard_time": 1753106902,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167253,
       "num": 167253,
       "word": "汪东城露的好大方",
@@ -35241,14 +35281,6 @@
       "onboard_time": 1752487163,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161455,
-      "num": 161455,
-      "word": "全村老人都在等她出摊",
-      "onboard_time": 1753105644,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161442,
@@ -42611,6 +42643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138305,
+      "num": 138305,
+      "word": "外国男子在华调戏女孩遇霸气回怼",
+      "onboard_time": 1753105822,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138302,
       "num": 138302,
       "word": "南京vs苏州创苏超上座新纪录",
@@ -43049,6 +43089,14 @@
       "onboard_time": 1751705243,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136891,
+      "num": 136891,
+      "word": "女童担心乳猪被宰抱回家养到400斤",
+      "onboard_time": 1753106663,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136861,
@@ -45563,6 +45611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130243,
+      "num": 130243,
+      "word": "爱泼斯坦前女友爆料",
+      "onboard_time": 1753103602,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130235,
       "num": 258936,
       "word": "南京照相馆",
@@ -45641,14 +45697,6 @@
       "onboard_time": 1751431824,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129974,
-      "num": 129974,
-      "word": "爱泼斯坦前女友爆料",
-      "onboard_time": 1753103602,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129887,
@@ -46729,14 +46777,6 @@
       "onboard_time": 1752405022,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127257,
-      "num": 127257,
-      "word": "外国男子在华调戏女孩遇霸气回怼",
-      "onboard_time": 1753105822,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127239,
@@ -49433,6 +49473,14 @@
       "onboard_time": 1751965942,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120976,
+      "num": 920290,
+      "word": "中暑的先兆症状",
+      "onboard_time": 1753104983,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120934,
@@ -53411,14 +53459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111687,
-      "num": 165805,
-      "word": "23岁男子失联34天家属发声",
-      "onboard_time": 1753105883,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111677,
       "num": 111677,
       "word": "伊藤美诚4比2桥本帆乃香",
@@ -53633,6 +53673,14 @@
       "onboard_time": 1752288861,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111162,
+      "num": 111162,
+      "word": "国家邮政局局长谈新疆成包邮区",
+      "onboard_time": 1753105043,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111147,
@@ -54049,6 +54097,14 @@
       "onboard_time": 1751921174,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110098,
+      "num": 110098,
+      "word": "杨紫李现为对方的成长开心",
+      "onboard_time": 1753107862,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 110095,
@@ -57579,6 +57635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100552,
+      "num": 100552,
+      "word": "乌合之众demo",
+      "onboard_time": 1753108043,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100541,
       "num": 100541,
       "word": "张远专业嘉宾又上岗了",
@@ -59849,14 +59913,6 @@
       "onboard_time": 1752864075,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 91579,
-      "num": 920290,
-      "word": "中暑的先兆症状",
-      "onboard_time": 1753104983,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91577,
@@ -64299,6 +64355,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 63170,
+      "num": 225145,
+      "word": "深情眼直播",
+      "onboard_time": 1753106963,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63152,
       "num": 181482,
       "word": "领克两款新车标配激光雷达",
@@ -67544,6 +67608,14 @@
       "word": "校方回应学生跑步时与男童家长冲突",
       "onboard_time": 1751384483,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42575,
+      "num": 158914,
+      "word": "福建南平专项排查整治职业背债人",
+      "onboard_time": 1753106963,
+      "rank": 34,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753106205638,
+  "endTime": 1753108190719,
   "band_list": [
     {
       "raw_hot": 3706489,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2868331,
+      "num": 2868331,
+      "word": "水下吻",
+      "onboard_time": 1753104502,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2178759,
       "num": 2178759,
       "word": "AL亚军",
@@ -33,14 +41,6 @@
       "onboard_time": 1753068201,
       "rank": 1,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1761910,
-      "num": 927974,
-      "word": "水下吻",
-      "onboard_time": 1753104502,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1634173,
@@ -145,6 +145,14 @@
       "onboard_time": 1753086202,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 966379,
+      "num": 334633,
+      "word": "姐弟俩为争300万遗产发现均非亲生",
+      "onboard_time": 1753106423,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 937551,
@@ -587,8 +595,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 435599,
-      "num": 435599,
+      "raw_hot": 443315,
+      "num": 443315,
       "word": "离职了我就像张予曦这么拍",
       "onboard_time": 1753102223,
       "rank": 17,
@@ -625,6 +633,14 @@
       "onboard_time": 1753099582,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404280,
+      "num": 404280,
+      "word": "第一次见田曦薇这么忸怩",
+      "onboard_time": 1753104922,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 399385,
@@ -699,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 361388,
+      "num": 361388,
+      "word": "中国大坝让印度网民破防了",
+      "onboard_time": 1753103482,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359919,
       "num": 359919,
       "word": "48岁男子在家吃馒头被噎死",
@@ -721,6 +745,14 @@
       "onboard_time": 1753067722,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329980,
+      "num": 329980,
+      "word": "全村老人都在等她出摊",
+      "onboard_time": 1753105644,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329209,
@@ -1011,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256936,
-      "num": 256936,
-      "word": "第一次见田曦薇这么忸怩",
-      "onboard_time": 1753104922,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254764,
       "num": 235283,
       "word": "香奈儿否认自己是扁平足",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1753058782,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 236844,
+      "num": 236844,
+      "word": "23岁男子失联34天家属发声",
+      "onboard_time": 1753105883,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233032,
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 216360,
-      "num": 188879,
+      "num": 210919,
       "word": "梓渝应援色",
       "onboard_time": 1753104382,
       "rank": 25,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1753083983,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200971,
-      "num": 200971,
-      "word": "中国大坝让印度网民破防了",
-      "onboard_time": 1753103482,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199512,
@@ -1523,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180979,
+      "num": 169466,
+      "word": "女性40岁后会对什么东西祛魅",
+      "onboard_time": 1753106902,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179257,
       "num": 179257,
       "word": "杨紫访谈完整版",
@@ -1651,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167378,
+      "num": 167378,
+      "word": "刘宇宁你们是全宇宙最棒的家人",
+      "onboard_time": 1753106902,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167102,
       "num": 175311,
       "word": "鹿晗演唱会武汉站预售",
@@ -1712,14 +1752,6 @@
       "word": "山姆的雷半年前就埋下了",
       "onboard_time": 1753083683,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161455,
-      "num": 161455,
-      "word": "全村老人都在等她出摊",
-      "onboard_time": 1753105644,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2043,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138305,
+      "num": 138305,
+      "word": "外国男子在华调戏女孩遇霸气回怼",
+      "onboard_time": 1753105822,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138183,
       "num": 138183,
       "word": "seventeen巡演",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1753074923,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136891,
+      "num": 136891,
+      "word": "女童担心乳猪被宰抱回家养到400斤",
+      "onboard_time": 1753106663,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135805,
@@ -2179,8 +2227,8 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 129974,
-      "num": 129974,
+      "raw_hot": 130243,
+      "num": 130243,
       "word": "爱泼斯坦前女友爆料",
       "onboard_time": 1753103602,
       "rank": 38,
@@ -2225,14 +2273,6 @@
       "onboard_time": 1753092502,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127257,
-      "num": 127257,
-      "word": "外国男子在华调戏女孩遇霸气回怼",
-      "onboard_time": 1753105822,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127117,
@@ -2305,6 +2345,14 @@
       "onboard_time": 1753079843,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120976,
+      "num": 920290,
+      "word": "中暑的先兆症状",
+      "onboard_time": 1753104983,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119373,
@@ -2507,14 +2555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111687,
-      "num": 165805,
-      "word": "23岁男子失联34天家属发声",
-      "onboard_time": 1753105883,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111366,
       "num": 111366,
       "word": "袁姗姗登山被蚂蝗爬小腿",
@@ -2523,12 +2563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111162,
+      "num": 111162,
+      "word": "国家邮政局局长谈新疆成包邮区",
+      "onboard_time": 1753105043,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110726,
       "num": 464370,
       "word": "Kiin获得FMVP",
       "onboard_time": 1753028961,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110098,
+      "num": 110098,
+      "word": "杨紫李现为对方的成长开心",
+      "onboard_time": 1753107862,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 110001,
@@ -2699,6 +2755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100552,
+      "num": 100552,
+      "word": "乌合之众demo",
+      "onboard_time": 1753108043,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99482,
       "num": 119871,
       "word": "被二次背叛的罗小黑",
@@ -2785,14 +2849,6 @@
       "onboard_time": 1753101561,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 91579,
-      "num": 920290,
-      "word": "中暑的先兆症状",
-      "onboard_time": 1753104983,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91227,
@@ -3033,6 +3089,14 @@
       "onboard_time": 1753050436,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63170,
+      "num": 225145,
+      "word": "深情眼直播",
+      "onboard_time": 1753106963,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 62892,
@@ -3289,6 +3353,14 @@
       "onboard_time": 1753064480,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42575,
+      "num": 158914,
+      "word": "福建南平专项排查整治职业背债人",
+      "onboard_time": 1753106963,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41121,
