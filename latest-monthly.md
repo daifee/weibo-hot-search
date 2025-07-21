@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/21 14:55:58
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/21 15:35:04
 </p>
 </blockquote>
 <p>
@@ -953,6 +953,12 @@ X玖少年团发文（热度：1805253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%90%86%E5%8F%91%E5%BA%97%E5%85%85430%E4%B8%87%E5%81%9A%E7%81%8C%E8%82%A0%E5%90%8E%E9%81%AD%E9%80%80%E8%B4%B9%E9%9A%BE%23" target="weibo">
 男子理发店充430万做灌肠后遭退费难（热度：1577676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E9%81%AD%E5%BC%BA%E5%A5%B8%E8%A2%AB%E6%9D%802%E6%AC%A1%E6%AD%BB%E9%87%8C%E9%80%83%E7%94%9F%23" target="weibo">
+女子回应遭强奸被杀2次死里逃生（热度：1569635）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ ye 退票（热度：610719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94G7272%E5%88%97%E8%BD%A6%E5%81%9C%E8%BD%A6%E5%81%9C%E7%94%B5%23" target="weibo">
 12306回应G7272列车停车停电（热度：582338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%B0%E6%AD%8C%23" target="weibo">
-BLACKPINK新歌（热度：582215）
 </a>
 </li>
 

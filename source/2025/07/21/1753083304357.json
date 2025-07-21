@@ -1,0 +1,410 @@
+{
+  "runTime": 1753083304357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1569635,
+        "num": 1569635,
+        "word": "女子回应遭强奸被杀2次死里逃生",
+        "onboard_time": 1753080742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660479,
+        "num": 660479,
+        "word": "昆明交通事故致2死9伤",
+        "onboard_time": 1753075761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25803,
+        "num": 600179,
+        "word": "十余省区市雨雨雨",
+        "onboard_time": 1753058722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566010,
+        "num": 566010,
+        "word": "三伏天 轻断食",
+        "onboard_time": 1753080442,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 449813,
+        "num": 449813,
+        "word": "录到肖战改名那一瞬间了",
+        "onboard_time": 1753080801,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445212,
+        "num": 445212,
+        "word": "老人纳凉的成本不能转嫁给肯德基",
+        "onboard_time": 1753068201,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 444409,
+        "num": 444409,
+        "word": "高铁一次性座椅套热销",
+        "onboard_time": 1753076240,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427978,
+        "num": 427978,
+        "word": "涉及超2亿学生的餐食国标来了",
+        "onboard_time": 1753082002,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318268,
+        "num": 426180,
+        "word": "陶昕然单身原因",
+        "onboard_time": 1753078822,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389469,
+        "num": 424830,
+        "word": "校园配餐首个国家标准发布",
+        "onboard_time": 1753081642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845359,
+        "num": 422228,
+        "word": "李惠利柳俊烈分手后首次见面",
+        "onboard_time": 1753077201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643507,
+        "num": 420964,
+        "word": "田栩宁上身身材",
+        "onboard_time": 1753077983,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499940,
+        "num": 419406,
+        "word": "男子嫌妻子开车慢当街打断其肋骨",
+        "onboard_time": 1753078342,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1321870,
+        "num": 416784,
+        "word": "曾志伟道歉",
+        "onboard_time": 1753079242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436706,
+        "num": 415339,
+        "word": "韩安冉宣布生完双胞胎封肚",
+        "onboard_time": 1753076902,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 414120,
+        "num": 414120,
+        "word": "韩国女子咬断性侵者舌头61年后重审",
+        "onboard_time": 1753081283,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302074,
+        "num": 405787,
+        "word": "曾舜晞有那么一瞬间想回去继承家业",
+        "onboard_time": 1753077862,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260031,
+        "num": 389609,
+        "word": "颖儿我那时髦的二姑",
+        "onboard_time": 1753082241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240660,
+        "num": 378395,
+        "word": "扫腿舞",
+        "onboard_time": 1753081462,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226691,
+        "num": 371157,
+        "word": "菲律宾火锅店射杀中国人嫌犯落网",
+        "onboard_time": 1753082002,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359919,
+        "num": 359919,
+        "word": "48岁男子在家吃馒头被噎死",
+        "onboard_time": 1753081642,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319625,
+        "num": 319625,
+        "word": "学校把胖橘误认美洲狮停课",
+        "onboard_time": 1753077802,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92613,
+        "num": 315415,
+        "word": "我要是被张凌赫涂口红也这样笑",
+        "onboard_time": 1753082002,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205788,
+        "num": 315055,
+        "word": "一看就是刘亦菲拍的",
+        "onboard_time": 1753070600,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53795,
+        "num": 314947,
+        "word": "霸总诚C要包下整个鱼塘了",
+        "onboard_time": 1753082902,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 314941,
+        "num": 314941,
+        "word": "男子强奸嫂子杀害见义勇为者二审开庭",
+        "onboard_time": 1753082720,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230866,
+        "num": 230866,
+        "word": "乳酸菌美式",
+        "onboard_time": 1753079062,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204599,
+        "num": 204599,
+        "word": "肯德基回应老人占座打牌顾客站着",
+        "onboard_time": 1753079482,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194508,
+        "num": 194508,
+        "word": "婚礼没必要的环节",
+        "onboard_time": 1753079843,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160787,
+        "num": 182393,
+        "word": "无预警公开的NewJeans",
+        "onboard_time": 1753081941,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 177308,
+        "word": "成都将50分钟高铁到重庆",
+        "onboard_time": 1753078941,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171225,
+        "num": 171225,
+        "word": "东方电气一度涨超700%",
+        "onboard_time": 1753079541,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162896,
+        "num": 162896,
+        "word": "蛐蛐老板不小心发给他本人了",
+        "onboard_time": 1753079903,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24057,
+        "num": 161723,
+        "word": "领导不来公厕不开是当代厕囧",
+        "onboard_time": 1753083082,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161346,
+        "num": 161346,
+        "word": "冲浪带来的快感约等于20杯奶茶",
+        "onboard_time": 1753082063,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 159682,
+        "num": 159682,
+        "word": "梓渝媚粉的事顺手就干了",
+        "onboard_time": 1753077922,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144658,
+        "num": 155674,
+        "word": "第一次从这个视角看高铁洗澡",
+        "onboard_time": 1753069161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153586,
+        "num": 153586,
+        "word": "台风后广东一海滩遍布生蚝蛤蜊",
+        "onboard_time": 1753082181,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78355,
+        "num": 153271,
+        "word": "被眯眯眼狐狸男硬控了",
+        "onboard_time": 1753081402,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153091,
+        "num": 153091,
+        "word": "郑朋表白现场粉丝",
+        "onboard_time": 1753081521,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148970,
+        "num": 148970,
+        "word": "王伟忠赞肖战是年轻又有演技的演员",
+        "onboard_time": 1753081402,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147790,
+        "num": 147790,
+        "word": "印度坠机事故唯一幸存者受噩梦折磨",
+        "onboard_time": 1753079422,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145385,
+        "num": 145385,
+        "word": "恋与深空黎深",
+        "onboard_time": 1753082841,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143226,
+        "num": 143226,
+        "word": "香奈儿否认自己是扁平足",
+        "onboard_time": 1753079604,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135086,
+        "num": 135086,
+        "word": "敖瑞鹏参加过22年重庆山火救援",
+        "onboard_time": 1753070001,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132743,
+        "num": 132743,
+        "word": "严浩翔养猫",
+        "onboard_time": 1753073122,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130180,
+        "num": 130180,
+        "word": "不敢想象三伏天穿这个有多凉快",
+        "onboard_time": 1753076664,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129117,
+        "num": 129117,
+        "word": "消防员示范跳绳燃脂教程",
+        "onboard_time": 1753083082,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123620,
+        "num": 123620,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123170,
+        "num": 123170,
+        "word": "12306回应高铁座椅消毒情况",
+        "onboard_time": 1753073782,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
