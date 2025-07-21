@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753077073277,
+  "endTime": 1753080062850,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -147,6 +147,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 1506687,
+      "num": 1506687,
+      "word": "曾志伟道歉",
+      "onboard_time": 1753079242,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1447830,
       "num": 1447830,
       "word": "郑乃馨演唱会抱着男友大哭",
@@ -265,6 +273,14 @@
       "onboard_time": 1753033096,
       "rank": 0,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 929502,
+      "num": 301680,
+      "word": "李惠利柳俊烈分手后首次见面",
+      "onboard_time": 1753077201,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 928147,
@@ -449,6 +465,14 @@
       "onboard_time": 1753002741,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679554,
+      "num": 298713,
+      "word": "田栩宁上身身材",
+      "onboard_time": 1753077983,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 661419,
@@ -651,12 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511504,
+      "num": 511504,
+      "word": "高铁一次性座椅套热销",
+      "onboard_time": 1753076240,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 508682,
       "num": 1412645,
       "word": "涉事园长也吃了颜料食品",
       "onboard_time": 1753014444,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503040,
+      "num": 297562,
+      "word": "韩安冉宣布生完双胞胎封肚",
+      "onboard_time": 1753076902,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 501260,
@@ -835,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418629,
+      "num": 294271,
+      "word": "男子嫌妻子开车慢当街打断其肋骨",
+      "onboard_time": 1753078342,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416313,
       "num": 416313,
       "word": "白举纲XXXXXL牛仔裤",
@@ -936,6 +984,14 @@
       "word": "刘宇宁演唱会",
       "onboard_time": 1752920900,
       "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 364065,
+      "num": 364065,
+      "word": "鹿晗跳了可爱颂",
+      "onboard_time": 1753076062,
+      "rank": 5,
       "category": "演出"
     },
     {
@@ -1107,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 312048,
+      "num": 312048,
+      "word": "陶昕然单身原因",
+      "onboard_time": 1753078822,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311834,
       "num": 311834,
       "word": "不敢想象三伏天穿这个有多凉快",
@@ -1171,6 +1235,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 291376,
+      "num": 291376,
+      "word": "曾舜晞有那么一瞬间想回去继承家业",
+      "onboard_time": 1753077862,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291200,
       "num": 291200,
       "word": "英雄联盟直播",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1753060640,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 288261,
+      "num": 288261,
+      "word": "学校把胖橘误认美洲狮停课",
+      "onboard_time": 1753077802,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 287669,
@@ -1515,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229382,
+      "num": 229382,
+      "word": "乳酸菌美式",
+      "onboard_time": 1753079062,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229333,
       "num": 229333,
       "word": "许梦圆央视网短剧女主",
@@ -1636,7 +1724,7 @@
     },
     {
       "raw_hot": 215717,
-      "num": 916843,
+      "num": 995198,
       "word": "第一次从这个视角看高铁洗澡",
       "onboard_time": 1753069161,
       "rank": 2,
@@ -1665,6 +1753,14 @@
       "onboard_time": 1753010601,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214309,
+      "num": 214309,
+      "word": "梓渝媚粉的事顺手就干了",
+      "onboard_time": 1753077922,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 214236,
@@ -1747,12 +1843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206322,
+      "num": 206322,
+      "word": "印度坠机事故唯一幸存者受噩梦折磨",
+      "onboard_time": 1753079422,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "一人一句为福宝送生日祝福",
       "onboard_time": 1752969317,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205547,
+      "num": 205547,
+      "word": "香奈儿否认自己是扁平足",
+      "onboard_time": 1753079604,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205113,
@@ -2107,14 +2219,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184549,
-      "num": 184549,
-      "word": "高铁一次性座椅套热销",
-      "onboard_time": 1753076240,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183232,
       "num": 183232,
       "word": "十余省区市雨雨雨",
@@ -2156,7 +2260,7 @@
     },
     {
       "raw_hot": 180985,
-      "num": 180985,
+      "num": 261308,
       "word": "县委书记挪用6500万用于私利工程",
       "onboard_time": 1753072282,
       "rank": 30,
@@ -2787,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150307,
+      "num": 150307,
+      "word": "梓渝站姐万转神图",
+      "onboard_time": 1753079183,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150192,
       "num": 150192,
       "word": "日本女篮vs澳大利亚女篮",
@@ -2955,14 +3067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143242,
-      "num": 143242,
-      "word": "韩安冉宣布生完双胞胎封肚",
-      "onboard_time": 1753076902,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 143051,
       "num": 143051,
       "word": "原神",
@@ -2985,6 +3089,22 @@
       "onboard_time": 1753000101,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141937,
+      "num": 141937,
+      "word": "小沈阳肌肉",
+      "onboard_time": 1753079782,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141610,
+      "num": 141610,
+      "word": "白鹿杂志",
+      "onboard_time": 1753077082,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140744,
@@ -3331,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127709,
+      "num": 303861,
+      "word": "八旬老人不开空调热得体温飙升41度",
+      "onboard_time": 1753078222,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127617,
       "num": 178464,
       "word": "头伏饺子",
@@ -3475,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124352,
+      "num": 124352,
+      "word": "东方电气一度涨超700%",
+      "onboard_time": 1753079541,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124027,
       "num": 124027,
       "word": "程潇沈月i人互助联盟",
@@ -3505,6 +3641,14 @@
       "onboard_time": 1753020924,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122622,
+      "num": 122622,
+      "word": "成都将50分钟高铁到重庆",
+      "onboard_time": 1753078941,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122411,
@@ -3611,6 +3755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119315,
+      "num": 119315,
+      "word": "蛐蛐老板不小心发给他本人了",
+      "onboard_time": 1753079903,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119146,
       "num": 119146,
       "word": "在美国卖酱香饼网红回应被捕",
@@ -3651,6 +3803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118343,
+      "num": 118343,
+      "word": "杨洋跑步花絮",
+      "onboard_time": 1753079661,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118111,
       "num": 178994,
       "word": "珠海全市停课停工停产停运停业",
@@ -3689,6 +3849,14 @@
       "onboard_time": 1752997101,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116363,
+      "num": 194823,
+      "word": "法医周亦武科普朝雪录验尸",
+      "onboard_time": 1753079843,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 116095,
@@ -3763,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113437,
+      "num": 113437,
+      "word": "林更新爬武当山红温了",
+      "onboard_time": 1753079903,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113320,
       "num": 113320,
       "word": "德甲对手都开始宣传樊振东了",
@@ -3777,6 +3953,22 @@
       "onboard_time": 1752975380,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113129,
+      "num": 113129,
+      "word": "花海说上不去王者了",
+      "onboard_time": 1753079722,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 113113,
+      "num": 113113,
+      "word": "抹茶粉",
+      "onboard_time": 1753078522,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 112803,
@@ -3937,6 +4129,14 @@
       "onboard_time": 1753003401,
       "rank": 47,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 106947,
+      "num": 106947,
+      "word": "TTG沙特之旅进行时",
+      "onboard_time": 1753078941,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 106795,
@@ -4169,6 +4369,14 @@
       "onboard_time": 1752939263,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99482,
+      "num": 119871,
+      "word": "被二次背叛的罗小黑",
+      "onboard_time": 1753079422,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 98728,
@@ -4995,6 +5203,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 40860,
+      "num": 106520,
+      "word": "萌物罗小黑和师傅一起睡觉",
+      "onboard_time": 1753079302,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 40700,
       "num": 297549,
       "word": "俄遭制裁数量突破三万项",
@@ -5209,6 +5425,14 @@
       "onboard_time": 1752953294,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22354,
+      "num": 292966,
+      "word": "肯德基回应老人占座打牌顾客站着",
+      "onboard_time": 1753079482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22298,
