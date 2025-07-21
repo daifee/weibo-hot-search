@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753102647707,
+  "endTime": 1753103596522,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -219,6 +219,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1338335,
+      "num": 1338335,
+      "word": "婚姻登记处向领到离婚证的新人道歉",
+      "onboard_time": 1753097481,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1282197,
+      "num": 1148180,
+      "word": "新人办结婚证却领到离婚证",
+      "onboard_time": 1753096041,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1225901,
       "num": 1225901,
       "word": "天水第二人民医院修改过血铅数据",
@@ -243,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1173820,
-      "num": 1148180,
-      "word": "新人办结婚证却领到离婚证",
-      "onboard_time": 1753096041,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 1177313,
+      "num": 324975,
+      "word": "张元英被臭到捂鼻",
+      "onboard_time": 1753099582,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1167453,
@@ -256,14 +272,6 @@
       "word": "女生为交社保被负债200万",
       "onboard_time": 1753025841,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1164460,
-      "num": 1186313,
-      "word": "婚姻登记处向领到离婚证的新人道歉",
-      "onboard_time": 1753097481,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -339,14 +347,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 930204,
-      "num": 324975,
-      "word": "张元英被臭到捂鼻",
-      "onboard_time": 1753099582,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 929502,
       "num": 422228,
       "word": "李惠利柳俊烈分手后首次见面",
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 873958,
+      "num": 322928,
+      "word": "于正破防删评论",
+      "onboard_time": 1753097662,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869349,
       "num": 372325,
       "word": "梓渝音乐节逆应援",
@@ -417,14 +425,6 @@
       "onboard_time": 1752985822,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 837258,
-      "num": 322928,
-      "word": "于正破防删评论",
-      "onboard_time": 1753097662,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 824513,
@@ -619,6 +619,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 633642,
+      "num": 633642,
+      "word": "住房租赁条例2025年9月15日起施行",
+      "onboard_time": 1753098741,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632294,
       "num": 632294,
       "word": "梓渝神图的诞生",
@@ -723,6 +731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 560973,
+      "num": 256621,
+      "word": "梓渝粉丝名",
+      "onboard_time": 1753101861,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559468,
       "num": 559468,
       "word": "月经的四大标准",
@@ -753,6 +769,22 @@
       "onboard_time": 1753073122,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548348,
+      "num": 258732,
+      "word": "田栩宁粉丝名及应援色公开",
+      "onboard_time": 1753098921,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 545677,
+      "num": 545677,
+      "word": "现在就出发3",
+      "onboard_time": 1753098024,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 541620,
@@ -875,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 508163,
-      "num": 508163,
-      "word": "住房租赁条例2025年9月15日起施行",
-      "onboard_time": 1753098741,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 501260,
       "num": 501260,
       "word": "上门喂猫一小时没找到客户",
@@ -995,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472133,
-      "num": 258732,
-      "word": "田栩宁粉丝名及应援色公开",
-      "onboard_time": 1753098921,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 470297,
       "num": 551948,
       "word": "网红靠骂游戏诱导家长买高价课",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1753003041,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457353,
+      "num": 457353,
+      "word": "王楚钦直播",
+      "onboard_time": 1753100062,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 456030,
@@ -1083,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445323,
-      "num": 445323,
-      "word": "现在就出发3",
-      "onboard_time": 1753098024,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 444300,
       "num": 444300,
       "word": "十八线歌手音综垫底逆袭成第二",
@@ -1123,14 +1139,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 419930,
-      "num": 419930,
-      "word": "王楚钦直播",
-      "onboard_time": 1753100062,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 416313,
       "num": 416313,
       "word": "白举纲XXXXXL牛仔裤",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1753009162,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 405291,
+      "num": 405291,
+      "word": "张凌赫的手好像比赵今麦的腿白",
+      "onboard_time": 1753099582,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 403477,
@@ -1211,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388635,
+      "num": 388635,
+      "word": "易烊千玺演唱会为强实名入场",
+      "onboard_time": 1753096341,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 379705,
       "num": 269870,
       "word": "建议大家不要轻易离职",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1753076062,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 366463,
-      "num": 366463,
-      "word": "张凌赫的手好像比赵今麦的腿白",
-      "onboard_time": 1753099582,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 364488,
@@ -1307,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353299,
+      "num": 353299,
+      "word": "韩国烤肉店一片肥肉70多元人民币",
+      "onboard_time": 1753099702,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 353013,
       "num": 353013,
       "word": "纪委监委对检测数据失真等全面调查",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1752977001,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346614,
-      "num": 346614,
-      "word": "易烊千玺演唱会为强实名入场",
-      "onboard_time": 1753096341,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 346067,
@@ -1417,14 +1433,6 @@
       "onboard_time": 1752926120,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 327843,
-      "num": 327843,
-      "word": "韩国烤肉店一片肥肉70多元人民币",
-      "onboard_time": 1753099702,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 327117,
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305493,
+      "num": 305493,
+      "word": "离职了我就像张予曦这么拍",
+      "onboard_time": 1753102223,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303548,
       "num": 303548,
       "word": "费曼画画天赋",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1753072883,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297515,
+      "num": 378854,
+      "word": "外卖小哥最牛了",
+      "onboard_time": 1753094302,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 296846,
@@ -1699,14 +1723,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 274366,
-      "num": 378854,
-      "word": "外卖小哥最牛了",
-      "onboard_time": 1753094302,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 273729,
       "num": 258298,
       "word": "王俊凯代言花西子",
@@ -1827,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259377,
+      "num": 259377,
+      "word": "王楚钦狼尾发型",
+      "onboard_time": 1753100962,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258914,
       "num": 258914,
       "word": "GEN战胜AL",
@@ -1873,14 +1897,6 @@
       "onboard_time": 1752967277,
       "rank": 13,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 256621,
-      "num": 256621,
-      "word": "梓渝粉丝名",
-      "onboard_time": 1753101861,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 254764,
@@ -1963,11 +1979,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242829,
+      "num": 263201,
+      "word": "尚公主",
+      "onboard_time": 1753094184,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240842,
       "num": 240842,
       "word": "中国女篮vs韩国女篮",
       "onboard_time": 1753006282,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238755,
+      "num": 260471,
+      "word": "王楚钦的侧颜绝了",
+      "onboard_time": 1753100962,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2139,14 +2171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218899,
-      "num": 260471,
-      "word": "王楚钦的侧颜绝了",
-      "onboard_time": 1753100962,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218484,
       "num": 310208,
       "word": "黄子弘凡声而不凡",
@@ -2169,14 +2193,6 @@
       "onboard_time": 1753093882,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216725,
-      "num": 263201,
-      "word": "尚公主",
-      "onboard_time": 1753094184,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 216701,
@@ -2563,14 +2579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195055,
-      "num": 195055,
-      "word": "王楚钦狼尾发型",
-      "onboard_time": 1753100962,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194977,
       "num": 194977,
       "word": "梓渝田栩宁古装正面造型",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1752987082,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192784,
+      "num": 192784,
+      "word": "朝雪录",
+      "onboard_time": 1753013363,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 192320,
@@ -2755,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186148,
+      "num": 186148,
+      "word": "深情眼云包场",
+      "onboard_time": 1753102161,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186040,
       "num": 186040,
       "word": "歪嘴战神",
@@ -2872,14 +2896,6 @@
       "word": "杨紫访谈完整版",
       "onboard_time": 1753088421,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 178755,
-      "num": 178755,
-      "word": "朝雪录",
-      "onboard_time": 1753013363,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3049,6 +3065,14 @@
       "onboard_time": 1753020444,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173336,
+      "num": 173336,
+      "word": "75岁港星公开征婚",
+      "onboard_time": 1753103001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 172773,
@@ -3748,7 +3772,7 @@
     },
     {
       "raw_hot": 147140,
-      "num": 147140,
+      "num": 264542,
       "word": "终于等到燕迟摘面具这一下",
       "onboard_time": 1753094602,
       "rank": 35,
@@ -4099,6 +4123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134218,
+      "num": 134218,
+      "word": "曾经流行的面试话术现在成了大忌",
+      "onboard_time": 1753100182,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134196,
       "num": 134196,
       "word": "67岁梁家辉和71岁成龙的片场状态",
@@ -4387,14 +4419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126861,
-      "num": 126861,
-      "word": "深情眼云包场",
-      "onboard_time": 1753102161,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "广东2地发布五停通知",
@@ -4449,14 +4473,6 @@
       "onboard_time": 1753060041,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 125449,
-      "num": 261709,
-      "word": "离职了我就像张予曦这么拍",
-      "onboard_time": 1753102223,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 125432,
@@ -4899,14 +4915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113524,
-      "num": 113524,
-      "word": "曾经流行的面试话术现在成了大忌",
-      "onboard_time": 1753100182,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113477,
       "num": 113477,
       "word": "古代异装癖嫉妒性别伤害无辜少女",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1753092441,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111868,
+      "num": 257142,
+      "word": "女子拿店家爱心矿泉水洗脚后滑倒",
+      "onboard_time": 1753102881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111635,
@@ -5540,7 +5556,7 @@
     },
     {
       "raw_hot": 94289,
-      "num": 259817,
+      "num": 270026,
       "word": "鸿星尔克宠粉现场人山人海",
       "onboard_time": 1753099521,
       "rank": 19,
@@ -6179,6 +6195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57207,
+      "num": 133642,
+      "word": "男子不满妻子直播离婚后毒杀俩孩子",
+      "onboard_time": 1753103364,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56978,
       "num": 58894,
       "word": "脱口秀和Ta的朋友们",
@@ -6539,6 +6563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35126,
+      "num": 197223,
+      "word": "韩国通报济州航空空难调查结果",
+      "onboard_time": 1753102702,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33590,
       "num": 153444,
       "word": "铁师傅带你围观激光武器系统",
@@ -6569,6 +6601,14 @@
       "onboard_time": 1752936323,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32391,
+      "num": 133787,
+      "word": "认出宝可梦才能排队",
+      "onboard_time": 1753102762,
+      "rank": 38,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 31837,
@@ -6689,6 +6729,14 @@
       "onboard_time": 1752950655,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24270,
+      "num": 184431,
+      "word": "中国大坝让印度网民破防了",
+      "onboard_time": 1753103482,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23774,
@@ -6852,7 +6900,7 @@
     },
     {
       "raw_hot": 13550,
-      "num": 464570,
+      "num": 558314,
       "word": "中国铁路营业里程16.2万公里",
       "onboard_time": 1753065740,
       "rank": 2,
