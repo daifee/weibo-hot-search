@@ -1,0 +1,410 @@
+{
+  "runTime": 1753065698904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 728613,
+        "num": 1116578,
+        "word": "女生为交社保被负债200万",
+        "onboard_time": 1753025841,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632294,
+        "num": 632294,
+        "word": "梓渝神图的诞生",
+        "onboard_time": 1753057461,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83560,
+        "num": 539689,
+        "word": "天水幼儿血铅异常问题调查最新通报",
+        "onboard_time": 1753011262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516369,
+        "num": 516369,
+        "word": "基建狂魔在建世界第一高桥带电梯",
+        "onboard_time": 1753060823,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391321,
+        "num": 391321,
+        "word": "上门喂猫一小时没找到客户",
+        "onboard_time": 1753057641,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387375,
+        "num": 387375,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 334904,
+        "num": 334904,
+        "word": "甘肃疾控中心严重违反操作规程",
+        "onboard_time": 1753013963,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329835,
+        "num": 329835,
+        "word": "央视曝光领导视察才开门的农村公厕",
+        "onboard_time": 1753024524,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 289602,
+        "num": 289602,
+        "word": "shanks",
+        "onboard_time": 1753060640,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228594,
+        "num": 270526,
+        "word": "优酷让我再一次爱上杨紫成毅",
+        "onboard_time": 1753060823,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 852487,
+        "num": 269396,
+        "word": "印度两兄弟同娶一新娘",
+        "onboard_time": 1753057702,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 639398,
+        "num": 269243,
+        "word": "于正七七后续",
+        "onboard_time": 1753058482,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266744,
+        "num": 266744,
+        "word": "老人肯德基店内占座乘凉",
+        "onboard_time": 1753023685,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215323,
+        "num": 215323,
+        "word": "曹承衍正式退伍",
+        "onboard_time": 1753064359,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44042,
+        "num": 196751,
+        "word": "警方通报母子被洪水冲走失联48小时",
+        "onboard_time": 1753065080,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 194977,
+        "num": 194977,
+        "word": "梓渝田栩宁古装正面造型",
+        "onboard_time": 1753064541,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186981,
+        "num": 186981,
+        "word": "台风路径",
+        "onboard_time": 1753053739,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186813,
+        "num": 186813,
+        "word": "国乒女团大运会不敌日本",
+        "onboard_time": 1753065681,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179774,
+        "num": 179774,
+        "word": "26名路人四面八方跑来救人",
+        "onboard_time": 1753058782,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 133933,
+        "num": 179197,
+        "word": "宝石老舅回复鹿晗",
+        "onboard_time": 1753031778,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631241,
+        "num": 178617,
+        "word": "旺仔小乔演唱会 不露脸",
+        "onboard_time": 1753025841,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294125,
+        "num": 177595,
+        "word": "韩女子咬断性侵者舌头被判刑",
+        "onboard_time": 1753020444,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219732,
+        "num": 176065,
+        "word": "华为旗舰平板定档7月24日发布",
+        "onboard_time": 1753062140,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118787,
+        "num": 175063,
+        "word": "田栩宁超话连爆6小时",
+        "onboard_time": 1753021705,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154791,
+        "num": 174830,
+        "word": "肖战更名后第一张帅照",
+        "onboard_time": 1753059021,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474418,
+        "num": 173116,
+        "word": "鹿晗摘戒指",
+        "onboard_time": 1753021525,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117282,
+        "num": 172510,
+        "word": "王俊凯又双叒叕追星成功了",
+        "onboard_time": 1753053859,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 82946,
+        "num": 171470,
+        "word": "十四五加快建设交通强国成效",
+        "onboard_time": 1753065501,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115645,
+        "num": 171128,
+        "word": "沈腾一个菜都不给宋小宝留",
+        "onboard_time": 1753065139,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170190,
+        "num": 170190,
+        "word": "谈恋爱很累的",
+        "onboard_time": 1753059321,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166202,
+        "num": 166202,
+        "word": "我国网民规模达11.23亿人",
+        "onboard_time": 1753065080,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 161021,
+        "num": 161021,
+        "word": "王源鸟巢",
+        "onboard_time": 1753065681,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156906,
+        "num": 156906,
+        "word": "印尼载280人客船起火",
+        "onboard_time": 1753059321,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103163,
+        "num": 148013,
+        "word": "梓渝盐城音乐节",
+        "onboard_time": 1753063161,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86535,
+        "num": 145842,
+        "word": "黄仁勋回应CEO的乐趣是什么",
+        "onboard_time": 1753064601,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143695,
+        "num": 143695,
+        "word": "印女子因出轨被绑柱子上处私刑",
+        "onboard_time": 1753057582,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139293,
+        "num": 139293,
+        "word": "十余省区市雨雨雨",
+        "onboard_time": 1753058722,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128600,
+        "num": 128600,
+        "word": "有了钱我的焦虑症就立刻好了",
+        "onboard_time": 1753062861,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125527,
+        "num": 125527,
+        "word": "美国外卖小哥收入",
+        "onboard_time": 1753060041,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45106,
+        "num": 125394,
+        "word": "中国稀土磁体6月出口激增",
+        "onboard_time": 1753065681,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46274,
+        "num": 125303,
+        "word": "小学生玩血色海龟汤后噩梦连连",
+        "onboard_time": 1753065681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115005,
+        "num": 125116,
+        "word": "你的英语在外国人眼中的样子",
+        "onboard_time": 1753057702,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106620,
+        "num": 125041,
+        "word": "黄仁勋再谈小米华为",
+        "onboard_time": 1753061121,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106936,
+        "num": 124880,
+        "word": "你的朋友圈好久没有提及你的快乐了",
+        "onboard_time": 1753064421,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92770,
+        "num": 124796,
+        "word": "街道办回应老人肯德基店内占座乘凉",
+        "onboard_time": 1753031238,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92271,
+        "num": 124689,
+        "word": "卢旺达国防部长站军姿",
+        "onboard_time": 1753061061,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86599,
+        "num": 124440,
+        "word": "王俊凯ID是凯俊王",
+        "onboard_time": 1753063941,
+        "rank": 46,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 85032,
+        "num": 124359,
+        "word": "日本首相石破茂坚持留任",
+        "onboard_time": 1753056081,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83050,
+        "num": 124224,
+        "word": "天水第二人民医院修改过血铅数据",
+        "onboard_time": 1753013605,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81715,
+        "num": 124040,
+        "word": "tabe赛后采访",
+        "onboard_time": 1753061061,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}

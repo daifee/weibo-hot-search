@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753064535701,
+  "endTime": 1753065698904,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 898066,
-      "num": 267116,
+      "num": 269396,
       "word": "印度两兄弟同娶一新娘",
       "onboard_time": 1753057702,
       "rank": 10,
@@ -380,15 +380,15 @@
     },
     {
       "raw_hot": 651349,
-      "num": 264757,
+      "num": 269243,
       "word": "于正七七后续",
       "onboard_time": 1753058482,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 624395,
-      "num": 624395,
+      "raw_hot": 632294,
+      "num": 632294,
       "word": "梓渝神图的诞生",
       "onboard_time": 1753057461,
       "rank": 1,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516369,
+      "num": 516369,
+      "word": "基建狂魔在建世界第一高桥带电梯",
+      "onboard_time": 1753060823,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 513174,
       "num": 297330,
       "word": "小沈阳 Nina黑粉",
@@ -544,14 +552,6 @@
       "word": "涉事园长也吃了颜料食品",
       "onboard_time": 1753014444,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 507069,
-      "num": 507069,
-      "word": "基建狂魔在建世界第一高桥带电梯",
-      "onboard_time": 1753060823,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -995,6 +995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 289602,
+      "num": 289602,
+      "word": "shanks",
+      "onboard_time": 1753060640,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287669,
       "num": 287669,
       "word": "杨舒予哭了",
@@ -1075,12 +1083,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267637,
-      "num": 267637,
-      "word": "shanks",
-      "onboard_time": 1753060640,
-      "rank": 9,
-      "category": "电竞"
+      "raw_hot": 266744,
+      "num": 266744,
+      "word": "老人肯德基店内占座乘凉",
+      "onboard_time": 1753023685,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266531,
@@ -1113,14 +1121,6 @@
       "onboard_time": 1752994941,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 259303,
-      "num": 259303,
-      "word": "老人肯德基店内占座乘凉",
-      "onboard_time": 1753023685,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258914,
@@ -1323,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219732,
+      "num": 201612,
+      "word": "华为旗舰平板定档7月24日发布",
+      "onboard_time": 1753062140,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 219365,
       "num": 219365,
       "word": "白桃星座一周运势",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1752982461,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215323,
+      "num": 215323,
+      "word": "曹承衍正式退伍",
+      "onboard_time": 1753064359,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 215228,
@@ -1491,14 +1507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201612,
-      "num": 201612,
-      "word": "华为旗舰平板定档7月24日发布",
-      "onboard_time": 1753062140,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "X玖少年团成员集体改名",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1753007181,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194977,
+      "num": 194977,
+      "word": "梓渝田栩宁古装正面造型",
+      "onboard_time": 1753064541,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 193089,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1752928342,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 186813,
+      "num": 186813,
+      "word": "国乒女团大运会不敌日本",
+      "onboard_time": 1753065681,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 186040,
@@ -2003,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166202,
+      "num": 166202,
+      "word": "我国网民规模达11.23亿人",
+      "onboard_time": 1753065080,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 165607,
       "num": 165607,
       "word": "刘宇宁书卷一梦顶级售后",
@@ -2099,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161021,
+      "num": 161021,
+      "word": "王源鸟巢",
+      "onboard_time": 1753065681,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160634,
       "num": 312009,
       "word": "最新央企中国雅江集团成立",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1753001002,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156906,
+      "num": 253706,
+      "word": "印尼载280人客船起火",
+      "onboard_time": 1753059321,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 156573,
@@ -2659,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130027,
-      "num": 253706,
-      "word": "印尼载280人客船起火",
-      "onboard_time": 1753059321,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129364,
       "num": 129364,
       "word": "TEC荣都0换4",
@@ -2689,6 +2729,14 @@
       "onboard_time": 1753025302,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128600,
+      "num": 128600,
+      "word": "有了钱我的焦虑症就立刻好了",
+      "onboard_time": 1753062861,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 128436,
@@ -3075,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115645,
+      "num": 171128,
+      "word": "沈腾一个菜都不给宋小宝留",
+      "onboard_time": 1753065139,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115503,
       "num": 115503,
       "word": "房主任的自述",
@@ -3084,7 +3140,7 @@
     },
     {
       "raw_hot": 115318,
-      "num": 115318,
+      "num": 124359,
       "word": "日本首相石破茂坚持留任",
       "onboard_time": 1753056081,
       "rank": 33,
@@ -3259,14 +3315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108179,
-      "num": 108179,
-      "word": "有了钱我的焦虑症就立刻好了",
-      "onboard_time": 1753062861,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108168,
       "num": 108168,
       "word": "关于三伏天的9个真相",
@@ -3299,6 +3347,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 106936,
+      "num": 124880,
+      "word": "你的朋友圈好久没有提及你的快乐了",
+      "onboard_time": 1753064421,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106795,
       "num": 106795,
       "word": "罗小黑2有20万张原画",
@@ -3308,7 +3364,7 @@
     },
     {
       "raw_hot": 106711,
-      "num": 106711,
+      "num": 125041,
       "word": "黄仁勋再谈小米华为",
       "onboard_time": 1753061121,
       "rank": 35,
@@ -3596,7 +3652,7 @@
     },
     {
       "raw_hot": 93321,
-      "num": 93321,
+      "num": 124040,
       "word": "tabe赛后采访",
       "onboard_time": 1753061061,
       "rank": 39,
@@ -3675,14 +3731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 89578,
-      "num": 184002,
-      "word": "曹承衍正式退伍",
-      "onboard_time": 1753064359,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89577,
       "num": 89577,
       "word": "农村高标准公厕仅活动时开放",
@@ -3721,6 +3769,22 @@
       "onboard_time": 1752934222,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86599,
+      "num": 183448,
+      "word": "王俊凯ID是凯俊王",
+      "onboard_time": 1753063941,
+      "rank": 28,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 86535,
+      "num": 145842,
+      "word": "黄仁勋回应CEO的乐趣是什么",
+      "onboard_time": 1753064601,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86232,
@@ -3771,6 +3835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82946,
+      "num": 171470,
+      "word": "十四五加快建设交通强国成效",
+      "onboard_time": 1753065501,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82377,
       "num": 276931,
       "word": "贵州两学校指责对方中高考造假",
@@ -3801,14 +3873,6 @@
       "onboard_time": 1753003762,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79037,
-      "num": 183448,
-      "word": "王俊凯ID是凯俊王",
-      "onboard_time": 1753063941,
-      "rank": 28,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 78285,
@@ -3857,14 +3921,6 @@
       "onboard_time": 1753063701,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76756,
-      "num": 76756,
-      "word": "你的朋友圈好久没有提及你的快乐了",
-      "onboard_time": 1753064421,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 75131,
@@ -4203,12 +4259,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46274,
+      "num": 125303,
+      "word": "小学生玩血色海龟汤后噩梦连连",
+      "onboard_time": 1753065681,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46089,
       "num": 46089,
       "word": "程潇一生要出片的中国女人",
       "onboard_time": 1752945918,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45106,
+      "num": 125394,
+      "word": "中国稀土磁体6月出口激增",
+      "onboard_time": 1753065681,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44042,
+      "num": 196751,
+      "word": "警方通报母子被洪水冲走失联48小时",
+      "onboard_time": 1753065080,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 43701,
