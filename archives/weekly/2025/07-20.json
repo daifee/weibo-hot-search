@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753133248149,
+  "endTime": 1753134135409,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -7435,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17844,
+      "num": 42344,
+      "word": "以军袭击胡塞武装目标",
+      "onboard_time": 1753129695,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17823,
       "num": 201049,
       "word": "小马倒隧道大马围住拦路求助",
@@ -7464,14 +7472,6 @@
       "word": "美国为何要加征对华石墨关税",
       "onboard_time": 1753115061,
       "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16751,
-      "num": 42344,
-      "word": "以军袭击胡塞武装目标",
-      "onboard_time": 1753129695,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -7507,12 +7507,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 13422,
+      "num": 17796,
+      "word": "凡人修仙传与天争命特辑",
+      "onboard_time": 1753134074,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13191,
-      "num": 16081,
+      "num": 17778,
       "word": "王者荣耀赞萌露比联动",
       "onboard_time": 1753126216,
       "rank": 46,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 9772,
+      "num": 53801,
+      "word": "成都分批取消住房限售",
+      "onboard_time": 1753133175,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7687,
