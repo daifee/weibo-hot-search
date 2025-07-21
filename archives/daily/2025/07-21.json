@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753095014985,
+  "endTime": 1753097102668,
   "band_list": [
     {
       "raw_hot": 3706489,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1425605,
+      "num": 376093,
+      "word": "曝何聪睿刘念恋情",
+      "onboard_time": 1753090702,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1408178,
       "num": 553155,
       "word": "袁姗姗真去哀牢山拍戏了",
@@ -65,14 +73,6 @@
       "onboard_time": 1753085542,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1227768,
-      "num": 376093,
-      "word": "曝何聪睿刘念恋情",
-      "onboard_time": 1753090702,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1167453,
@@ -105,6 +105,14 @@
       "onboard_time": 1753024524,
       "rank": 11,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 976739,
+      "num": 1156278,
+      "word": "男子地铁持刀刺人被学生死死抱住",
+      "onboard_time": 1753086202,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 937551,
@@ -235,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 690370,
-      "num": 1110459,
-      "word": "男子地铁持刀刺人被学生死死抱住",
-      "onboard_time": 1753086202,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 679554,
       "num": 420964,
       "word": "田栩宁上身身材",
@@ -267,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645355,
+      "num": 348593,
+      "word": "CEO出轨梗",
+      "onboard_time": 1753092202,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 632294,
       "num": 632294,
       "word": "梓渝神图的诞生",
       "onboard_time": 1753057461,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 603022,
+      "num": 372080,
+      "word": "孟子义何与巧克力亲子装",
+      "onboard_time": 1753093401,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 591083,
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379705,
+      "num": 269870,
+      "word": "建议大家不要轻易离职",
+      "onboard_time": 1753094541,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377170,
       "num": 377170,
       "word": "菲律宾火锅店射杀中国人嫌犯落网",
@@ -523,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 372080,
-      "num": 372080,
-      "word": "孟子义何与巧克力亲子装",
-      "onboard_time": 1753093401,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 371653,
+      "num": 371653,
+      "word": "新人办结婚证却领到离婚证",
+      "onboard_time": 1753096041,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369568,
@@ -563,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348593,
-      "num": 348593,
-      "word": "CEO出轨梗",
-      "onboard_time": 1753092202,
-      "rank": 24,
-      "category": "海外新闻"
+      "raw_hot": 338252,
+      "num": 228171,
+      "word": "车银优剪头了",
+      "onboard_time": 1753094000,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 333130,
@@ -755,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274366,
+      "num": 378854,
+      "word": "外卖小哥最牛了",
+      "onboard_time": 1753094302,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 273729,
       "num": 258298,
       "word": "王俊凯代言花西子",
@@ -785,14 +817,6 @@
       "onboard_time": 1753079062,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 269870,
-      "num": 269870,
-      "word": "建议大家不要轻易离职",
-      "onboard_time": 1753094541,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 266744,
@@ -859,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252370,
+      "num": 252370,
+      "word": "易烊千玺上海站7月24日开启预售",
+      "onboard_time": 1753095862,
+      "rank": 8,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 250509,
       "num": 250509,
       "word": "管泽元 好像寄了",
@@ -899,6 +931,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 236885,
+      "num": 236885,
+      "word": "2只杜宾没拴绳警方正排查养狗人",
+      "onboard_time": 1753095500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "单依纯回应编曲两级评价",
@@ -931,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228171,
-      "num": 228171,
-      "word": "车银优剪头了",
-      "onboard_time": 1753094000,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225353,
       "num": 225353,
       "word": "纪委监委对检测数据失真等全面调查",
@@ -952,6 +984,14 @@
       "word": "鹿晗哥哥你是妈妈唯一的老公",
       "onboard_time": 1753083921,
       "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 221387,
+      "num": 221387,
+      "word": "易烊千玺演唱会为强实名入场",
+      "onboard_time": 1753096341,
+      "rank": 16,
       "category": "演出"
     },
     {
@@ -1339,12 +1379,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 173783,
+      "num": 173783,
+      "word": "爱尔兰富豪与护工结婚第二天去世",
+      "onboard_time": 1753094482,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 173596,
       "num": 173596,
       "word": "当你喊外卖小哥全名",
       "onboard_time": 1753092561,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173082,
+      "num": 151587,
+      "word": "赵露思背头短发",
+      "onboard_time": 1753096281,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 172114,
@@ -1377,6 +1433,14 @@
       "onboard_time": 1753078222,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167102,
+      "num": 167102,
+      "word": "鹿晗演唱会武汉站预售",
+      "onboard_time": 1753096522,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 166202,
@@ -1499,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154597,
-      "num": 154597,
-      "word": "爱尔兰富豪与护工结婚第二天去世",
-      "onboard_time": 1753094482,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 153586,
       "num": 153586,
       "word": "台风后广东一海滩遍布生蚝蛤蜊",
@@ -1603,6 +1659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144856,
+      "num": 144856,
+      "word": "特朗普发布逮捕奥巴马的AI视频",
+      "onboard_time": 1753096463,
+      "rank": 33,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 144759,
       "num": 144759,
       "word": "丁禹兮尹浩宇谁说内娱没有齐舞",
@@ -1616,6 +1680,14 @@
       "word": "朝雪录热度",
       "onboard_time": 1753016126,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144205,
+      "num": 144205,
+      "word": "卢少骅再掉马甲",
+      "onboard_time": 1753096221,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1705,6 +1777,14 @@
       "onboard_time": 1753074923,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137404,
+      "num": 137404,
+      "word": "田栩宁粉丝名柠檬水",
+      "onboard_time": 1753097000,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 135805,
@@ -2083,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110001,
+      "num": 110001,
+      "word": "当你不靠谱的朋友当伴娘",
+      "onboard_time": 1753095681,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109456,
       "num": 111391,
       "word": "王嘉尔这一世我重生了",
@@ -2153,14 +2241,6 @@
       "onboard_time": 1753090642,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104037,
-      "num": 378854,
-      "word": "外卖小哥最牛了",
-      "onboard_time": 1753094302,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 103956,
@@ -2363,6 +2443,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 86127,
+      "num": 213998,
+      "word": "韩济州航空空难中期调查结果遭质疑",
+      "onboard_time": 1753095742,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83717,
       "num": 83717,
       "word": "加沙人领面粉被坦克包围射击",
@@ -2451,6 +2539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73615,
+      "num": 136385,
+      "word": "俄罗斯疑似对印度出口苏57",
+      "onboard_time": 1753095742,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72729,
       "num": 106924,
       "word": "刘宇宁深圳演唱会",
@@ -2489,6 +2585,14 @@
       "onboard_time": 1753025302,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63770,
+      "num": 152536,
+      "word": "距米兰冬奥会还有200天",
+      "onboard_time": 1753095381,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 63640,
@@ -2787,12 +2891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39411,
+      "num": 135806,
+      "word": "多方回应2只杜宾犬没拴绳引口角",
+      "onboard_time": 1753097060,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37227,
       "num": 154243,
       "word": "罗小黑踩坏人的大脚",
       "onboard_time": 1753086502,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36749,
+      "num": 386288,
+      "word": "辉煌60载魅力新西藏",
+      "onboard_time": 1753095202,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35407,
