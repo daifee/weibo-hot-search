@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753087201495,
+  "endTime": 1753088127869,
   "band_list": [
     {
       "raw_hot": 3706489,
@@ -57,6 +57,14 @@
       "onboard_time": 1753025841,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1146058,
+      "num": 1183369,
+      "word": "旺仔小乔掉粉",
+      "onboard_time": 1753085542,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 1097732,
@@ -137,14 +145,6 @@
       "onboard_time": 1753021525,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 826168,
-      "num": 826168,
-      "word": "旺仔小乔掉粉",
-      "onboard_time": 1753085542,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 824513,
@@ -233,6 +233,14 @@
       "onboard_time": 1753057461,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 613578,
+      "num": 613578,
+      "word": "农夫山泉回应红色尖叫被炒至88一瓶",
+      "onboard_time": 1753085842,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 584894,
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515894,
+      "num": 453876,
+      "word": "单依纯谈常石磊很爱她",
+      "onboard_time": 1753085061,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501260,
       "num": 501260,
       "word": "上门喂猫一小时没找到客户",
@@ -387,20 +403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448284,
+      "num": 448284,
+      "word": "男子地铁持刀刺人被学生死死抱住",
+      "onboard_time": 1753086202,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 447470,
       "num": 342629,
       "word": "农村大席很少有人吃坏肚子",
       "onboard_time": 1753067242,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 434194,
-      "num": 434194,
-      "word": "单依纯谈常石磊很爱她",
-      "onboard_time": 1753085061,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 433115,
@@ -425,14 +441,6 @@
       "onboard_time": 1753021705,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 399018,
-      "num": 399018,
-      "word": "农夫山泉回应红色尖叫被炒至88一瓶",
-      "onboard_time": 1753085842,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 389469,
@@ -539,14 +547,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 319438,
-      "num": 403200,
-      "word": "男子地铁持刀刺人被学生死死抱住",
-      "onboard_time": 1753086202,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 312091,
       "num": 405787,
       "word": "曾舜晞有那么一瞬间想回去继承家业",
@@ -569,6 +569,14 @@
       "onboard_time": 1753068562,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303262,
+      "num": 331508,
+      "word": "小狗在虞书欣床上尿尿",
+      "onboard_time": 1753083322,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 297935,
@@ -707,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255177,
+      "num": 320057,
+      "word": "梓渝提词器",
+      "onboard_time": 1753086441,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254764,
       "num": 235283,
       "word": "香奈儿否认自己是扁平足",
@@ -731,12 +747,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247377,
-      "num": 247377,
-      "word": "小狗在虞书欣床上尿尿",
-      "onboard_time": 1753083322,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 245076,
+      "num": 245076,
+      "word": "穷小孩的人生是从30岁开始的",
+      "onboard_time": 1753086022,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 243953,
@@ -753,14 +769,6 @@
       "onboard_time": 1753031778,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239243,
-      "num": 239243,
-      "word": "穷小孩的人生是从30岁开始的",
-      "onboard_time": 1753086022,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 238169,
@@ -795,14 +803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226225,
-      "num": 226225,
-      "word": "梓渝提词器",
-      "onboard_time": 1753086441,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 225353,
       "num": 225353,
       "word": "纪委监委对检测数据失真等全面调查",
@@ -833,6 +833,14 @@
       "onboard_time": 1753062140,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 219005,
+      "num": 219005,
+      "word": "不要修16岁拍的照片",
+      "onboard_time": 1753086802,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 218484,
@@ -947,20 +955,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201610,
+      "num": 201610,
+      "word": "内娱引导型恋人",
+      "onboard_time": 1753083983,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199512,
       "num": 233257,
       "word": "景甜37岁晒照庆生",
       "onboard_time": 1753074682,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197866,
-      "num": 197866,
-      "word": "内娱引导型恋人",
-      "onboard_time": 1753083983,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197113,
@@ -1011,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191901,
+      "num": 191901,
+      "word": "男子爬五台山时突然晕倒去世",
+      "onboard_time": 1753086202,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188798,
       "num": 399939,
       "word": "警方通报昆明机动车撞人事件",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1753076240,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188309,
-      "num": 188309,
-      "word": "男子爬五台山时突然晕倒去世",
-      "onboard_time": 1753086202,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186813,
@@ -1083,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181899,
+      "num": 181899,
+      "word": "陶喆公布了一个人尽皆知的秘密",
+      "onboard_time": 1753086802,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181319,
       "num": 181319,
       "word": "布瑞吉巡演比去年贵了1000倍",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1753078941,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175831,
+      "num": 175831,
+      "word": "敖子逸 这衣服上电视穿不得",
+      "onboard_time": 1753087463,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 175504,
@@ -1187,6 +1211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165042,
+      "num": 165042,
+      "word": "你抢不到票的歌手在漫展玩cosplay",
+      "onboard_time": 1753087642,
+      "rank": 33,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 161707,
       "num": 161707,
       "word": "A股",
@@ -1211,14 +1243,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 160850,
-      "num": 160850,
-      "word": "不要修16岁拍的照片",
-      "onboard_time": 1753086802,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160787,
       "num": 182393,
       "word": "无预警公开的NewJeans",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1753021585,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159638,
-      "num": 159638,
-      "word": "陶喆公布了一个人尽皆知的秘密",
-      "onboard_time": 1753086802,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 157633,
@@ -1483,6 +1499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133449,
+      "num": 133449,
+      "word": "费曼画画天赋",
+      "onboard_time": 1753087942,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133291,
       "num": 215018,
       "word": "你的英语在外国人眼中的样子",
@@ -1715,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112366,
+      "num": 353593,
+      "word": "中方回应限制一美国银行高管出境",
+      "onboard_time": 1753086562,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110726,
       "num": 464370,
       "word": "Kiin获得FMVP",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1753017983,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107409,
+      "num": 157487,
+      "word": "中方一如既往欢迎各国人士来华旅游经商",
+      "onboard_time": 1753087881,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107366,
@@ -2147,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61308,
+      "num": 216231,
+      "word": "国乒男团大运会银牌",
+      "onboard_time": 1753086681,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60827,
       "num": 61945,
       "word": "不要因为花了父母的钱感到愧疚",
@@ -2219,14 +2267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49696,
-      "num": 216231,
-      "word": "国乒男团大运会银牌",
-      "onboard_time": 1753086681,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49394,
       "num": 54986,
       "word": "觉得累应该去休息",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1753070423,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46646,
+      "num": 313913,
+      "word": "路人与未拴绳杜宾犬主人激烈争吵",
+      "onboard_time": 1753087283,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46274,
@@ -2273,6 +2321,14 @@
       "onboard_time": 1753020025,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44655,
+      "num": 378667,
+      "word": "泡泡玛特王宁谈是什么成就了LABUBU",
+      "onboard_time": 1753086681,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44042,
@@ -2340,11 +2396,19 @@
     },
     {
       "raw_hot": 37227,
-      "num": 150145,
+      "num": 154243,
       "word": "罗小黑踩坏人的大脚",
       "onboard_time": 1753086502,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36301,
+      "num": 150014,
+      "word": "朱洁静自曝曾患乳腺癌",
+      "onboard_time": 1753087522,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 35407,
@@ -2355,16 +2419,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34078,
-      "num": 378667,
-      "word": "泡泡玛特王宁谈是什么成就了LABUBU",
-      "onboard_time": 1753086681,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33590,
-      "num": 149725,
+      "num": 153444,
       "word": "铁师傅带你围观激光武器系统",
       "onboard_time": 1753086982,
       "rank": 37,
@@ -2401,6 +2457,14 @@
       "onboard_time": 1753036335,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28016,
+      "num": 142693,
+      "word": "罗小黑和师姐大战老登",
+      "onboard_time": 1753087522,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 26674,
@@ -2441,6 +2505,14 @@
       "onboard_time": 1753045394,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21418,
+      "num": 183742,
+      "word": "厨师假冒心理咨询师时薪千元",
+      "onboard_time": 1753087283,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 20102,

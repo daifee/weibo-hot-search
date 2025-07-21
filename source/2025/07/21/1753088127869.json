@@ -1,0 +1,410 @@
+{
+  "runTime": 1753088127869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146058,
+        "num": 1183369,
+        "word": "旺仔小乔掉粉",
+        "onboard_time": 1753085542,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 965571,
+        "num": 965571,
+        "word": "韩国女子咬断性侵者舌头61年后重审",
+        "onboard_time": 1753081283,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31076,
+        "num": 735338,
+        "word": "十余省区市雨雨雨",
+        "onboard_time": 1753058722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721746,
+        "num": 721746,
+        "word": "朴彩英五场跳错四场",
+        "onboard_time": 1753084402,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 613578,
+        "num": 613578,
+        "word": "农夫山泉回应红色尖叫被炒至88一瓶",
+        "onboard_time": 1753085842,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454878,
+        "num": 454878,
+        "word": "涉及超2亿学生的餐食国标来了",
+        "onboard_time": 1753082002,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515894,
+        "num": 453876,
+        "word": "单依纯谈常石磊很爱她",
+        "onboard_time": 1753085061,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448284,
+        "num": 448284,
+        "word": "男子地铁持刀刺人被学生死死抱住",
+        "onboard_time": 1753086202,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 387998,
+        "num": 387998,
+        "word": "三伏天 轻断食",
+        "onboard_time": 1753080442,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364452,
+        "num": 364452,
+        "word": "录到肖战改名那一瞬间了",
+        "onboard_time": 1753080801,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899824,
+        "num": 362764,
+        "word": "男子强奸嫂子杀害见义勇为者二审开庭",
+        "onboard_time": 1753082720,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1217320,
+        "num": 360478,
+        "word": "女子回应遭强奸被杀2次死里逃生",
+        "onboard_time": 1753080742,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596288,
+        "num": 359690,
+        "word": "李惠利柳俊烈分手后首次见面",
+        "onboard_time": 1753077201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385758,
+        "num": 356913,
+        "word": "田栩宁上身身材",
+        "onboard_time": 1753077983,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44655,
+        "num": 355344,
+        "word": "泡泡玛特王宁谈是什么成就了LABUBU",
+        "onboard_time": 1753086681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112366,
+        "num": 353593,
+        "word": "中方回应限制一美国银行高管出境",
+        "onboard_time": 1753086562,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352343,
+        "num": 352343,
+        "word": "昆明交通事故致2死9伤",
+        "onboard_time": 1753075761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303262,
+        "num": 331508,
+        "word": "小狗在虞书欣床上尿尿",
+        "onboard_time": 1753083322,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255177,
+        "num": 320057,
+        "word": "梓渝提词器",
+        "onboard_time": 1753086441,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46646,
+        "num": 313913,
+        "word": "路人与未拴绳杜宾犬主人激烈争吵",
+        "onboard_time": 1753087283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312100,
+        "num": 312100,
+        "word": "菲律宾火锅店射杀中国人嫌犯落网",
+        "onboard_time": 1753082002,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245076,
+        "num": 245076,
+        "word": "穷小孩的人生是从30岁开始的",
+        "onboard_time": 1753086022,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243772,
+        "num": 243772,
+        "word": "twice续约",
+        "onboard_time": 1753086022,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219680,
+        "num": 219680,
+        "word": "男子嫌妻子开车慢当街打断其肋骨",
+        "onboard_time": 1753078342,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219005,
+        "num": 219005,
+        "word": "不要修16岁拍的照片",
+        "onboard_time": 1753086802,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201903,
+        "num": 201903,
+        "word": "扫腿舞",
+        "onboard_time": 1753081462,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201610,
+        "num": 201610,
+        "word": "内娱引导型恋人",
+        "onboard_time": 1753083983,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191901,
+        "num": 191901,
+        "word": "男子爬五台山时突然晕倒去世",
+        "onboard_time": 1753086202,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186511,
+        "num": 186511,
+        "word": "48岁男子在家吃馒头被噎死",
+        "onboard_time": 1753081642,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21418,
+        "num": 183742,
+        "word": "厨师假冒心理咨询师时薪千元",
+        "onboard_time": 1753087283,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 181899,
+        "num": 181899,
+        "word": "陶喆公布了一个人尽皆知的秘密",
+        "onboard_time": 1753086802,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175831,
+        "num": 175831,
+        "word": "敖子逸 这衣服上电视穿不得",
+        "onboard_time": 1753087463,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171004,
+        "num": 171004,
+        "word": "鹿晗哥哥你是妈妈唯一的老公",
+        "onboard_time": 1753083921,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165042,
+        "num": 165042,
+        "word": "你抢不到票的歌手在漫展玩cosplay",
+        "onboard_time": 1753087642,
+        "rank": 33,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 159083,
+        "num": 159083,
+        "word": "老人纳凉的成本不能转嫁给肯德基",
+        "onboard_time": 1753068201,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107409,
+        "num": 157487,
+        "word": "中方一如既往欢迎各国人士来华旅游经商",
+        "onboard_time": 1753087881,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30707,
+        "num": 154243,
+        "word": "罗小黑踩坏人的大脚",
+        "onboard_time": 1753086502,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 32424,
+        "num": 153444,
+        "word": "铁师傅带你围观激光武器系统",
+        "onboard_time": 1753086982,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 36301,
+        "num": 150014,
+        "word": "朱洁静自曝曾患乳腺癌",
+        "onboard_time": 1753087522,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148127,
+        "num": 148127,
+        "word": "韩安冉宣布生完双胞胎封肚",
+        "onboard_time": 1753076902,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146281,
+        "num": 146281,
+        "word": "高铁一次性座椅套热销",
+        "onboard_time": 1753076240,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28016,
+        "num": 142693,
+        "word": "罗小黑和师姐大战老登",
+        "onboard_time": 1753087522,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139863,
+        "num": 139863,
+        "word": "山姆的雷半年前就埋下了",
+        "onboard_time": 1753083683,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134797,
+        "num": 134797,
+        "word": "布瑞吉巡演比去年贵了1000倍",
+        "onboard_time": 1753085302,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133449,
+        "num": 133449,
+        "word": "费曼画画天赋",
+        "onboard_time": 1753087942,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61308,
+        "num": 133324,
+        "word": "国乒男团大运会银牌",
+        "onboard_time": 1753086681,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133233,
+        "num": 133233,
+        "word": "校园配餐首个国家标准发布",
+        "onboard_time": 1753081642,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130967,
+        "num": 130967,
+        "word": "旺仔小乔演唱会票价268到968",
+        "onboard_time": 1753084461,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124396,
+        "num": 124396,
+        "word": "陶昕然单身原因",
+        "onboard_time": 1753078822,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116166,
+        "num": 116166,
+        "word": "韩国拟允许个人赴朝鲜旅游",
+        "onboard_time": 1753084881,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
