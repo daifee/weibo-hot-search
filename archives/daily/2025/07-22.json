@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753125868009,
+  "endTime": 1753126798013,
   "band_list": [
     {
       "raw_hot": 2138175,
@@ -507,11 +507,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11606,
+      "raw_hot": 15162,
       "num": 35545,
       "word": "台风韦帕远离福建局部地区仍有暴雨",
       "onboard_time": 1753124535,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10922,
+      "num": 23979,
+      "word": "承租人不得擅自改变租赁住房用途",
+      "onboard_time": 1753126574,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
