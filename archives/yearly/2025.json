@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753109378998,
+  "endTime": 1753111834473,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1779,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4633697,
+      "num": 220475,
+      "word": "田栩宁 灰指甲",
+      "onboard_time": 1753109902,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4626866,
       "num": 4626866,
       "word": "单依纯 舞妹娘",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1753067421,
       "rank": 10,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 3701963,
-      "num": 3701963,
-      "word": "曾黎 灾难公关",
-      "onboard_time": 1745908822,
-      "rank": 7,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

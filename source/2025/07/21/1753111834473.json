@@ -1,0 +1,410 @@
+{
+  "runTime": 1753111834473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2250700,
+        "num": 2250700,
+        "word": "水下吻",
+        "onboard_time": 1753104502,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 900415,
+        "num": 900415,
+        "word": "莫斯科遭到大规模袭击",
+        "onboard_time": 1753109963,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92849,
+        "num": 499673,
+        "word": "中暑的先兆症状",
+        "onboard_time": 1753104983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470894,
+        "num": 470894,
+        "word": "婚姻登记处向领到离婚证的新人道歉",
+        "onboard_time": 1753097481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462828,
+        "num": 462828,
+        "word": "全村老人都在等她出摊",
+        "onboard_time": 1753105644,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 296747,
+        "num": 296747,
+        "word": "第一次见田曦薇这么忸怩",
+        "onboard_time": 1753104922,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282486,
+        "num": 282486,
+        "word": "中国大坝让印度网民破防了",
+        "onboard_time": 1753103482,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275542,
+        "num": 275542,
+        "word": "住房租赁条例2025年9月15日起施行",
+        "onboard_time": 1753098741,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267640,
+        "num": 267640,
+        "word": "新人办结婚证却领到离婚证",
+        "onboard_time": 1753096041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220507,
+        "num": 220507,
+        "word": "卖豆腐的27岁河南姑娘凭什么走红",
+        "onboard_time": 1753105223,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4633697,
+        "num": 220475,
+        "word": "田栩宁 灰指甲",
+        "onboard_time": 1753109902,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732402,
+        "num": 219256,
+        "word": "姐弟俩为争300万遗产发现均非亲生",
+        "onboard_time": 1753106423,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605658,
+        "num": 218793,
+        "word": "张元英被臭到捂鼻",
+        "onboard_time": 1753099582,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496873,
+        "num": 218044,
+        "word": "于正破防删评论",
+        "onboard_time": 1753097662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185815,
+        "num": 217426,
+        "word": "乌克兰全境有导弹来袭风险",
+        "onboard_time": 1753111404,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 567414,
+        "num": 217165,
+        "word": "女子回应遭强奸被杀2次死里逃生",
+        "onboard_time": 1753080742,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481953,
+        "num": 216681,
+        "word": "汪硕造型",
+        "onboard_time": 1753110444,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216108,
+        "num": 216108,
+        "word": "张凌赫的手好像比赵今麦的腿白",
+        "onboard_time": 1753099582,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204330,
+        "num": 204330,
+        "word": "现在就出发3",
+        "onboard_time": 1753098024,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203025,
+        "num": 203025,
+        "word": "曝何聪睿刘念恋情",
+        "onboard_time": 1753090702,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404134,
+        "num": 202829,
+        "word": "袁姗姗真去哀牢山拍戏了",
+        "onboard_time": 1753091062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340531,
+        "num": 201065,
+        "word": "丈夫称无法原谅亲弟弟强奸追杀妻子",
+        "onboard_time": 1753109123,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321928,
+        "num": 200682,
+        "word": "田栩宁粉丝名及应援色公开",
+        "onboard_time": 1753098921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188252,
+        "num": 199082,
+        "word": "离职了我就像张予曦这么拍",
+        "onboard_time": 1753102223,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224300,
+        "num": 198840,
+        "word": "梓渝粉丝名",
+        "onboard_time": 1753101861,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197953,
+        "num": 197953,
+        "word": "建议大家不要轻易离职",
+        "onboard_time": 1753094541,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192618,
+        "num": 192618,
+        "word": "儿子考上北大快递员怕是梦让掐自己",
+        "onboard_time": 1753108763,
+        "rank": 26,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 163243,
+        "num": 163243,
+        "word": "朝雪录",
+        "onboard_time": 1753099762,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154786,
+        "num": 154786,
+        "word": "韩国烤肉店一片肥肉70多元人民币",
+        "onboard_time": 1753099702,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149086,
+        "num": 149086,
+        "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
+        "onboard_time": 1753090581,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 146535,
+        "num": 146535,
+        "word": "张桂源 我好帅",
+        "onboard_time": 1753110324,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139177,
+        "num": 139177,
+        "word": "杨力维说着无憾配图全是遗憾",
+        "onboard_time": 1753109662,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137068,
+        "num": 137068,
+        "word": "B萌",
+        "onboard_time": 1753108883,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116051,
+        "num": 132661,
+        "word": "刘宇宁收到了好朋友好多花",
+        "onboard_time": 1753110202,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119761,
+        "num": 132198,
+        "word": "入股朝雪录",
+        "onboard_time": 1753111702,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131792,
+        "num": 131792,
+        "word": "女性40岁后会对什么东西祛魅",
+        "onboard_time": 1753106902,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131191,
+        "num": 131191,
+        "word": "75岁港星公开征婚",
+        "onboard_time": 1753103001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127200,
+        "num": 127200,
+        "word": "王楚钦直播",
+        "onboard_time": 1753100062,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121539,
+        "num": 121539,
+        "word": "女童担心乳猪被宰抱回家养到400斤",
+        "onboard_time": 1753106663,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61476,
+        "num": 115743,
+        "word": "被马龙的发言激励到了",
+        "onboard_time": 1753109723,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114213,
+        "num": 114213,
+        "word": "旺仔小乔掉粉",
+        "onboard_time": 1753085542,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105996,
+        "num": 105996,
+        "word": "张俪第一次臀推",
+        "onboard_time": 1753104803,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105044,
+        "num": 105044,
+        "word": "669分考上北大天体物理当事人发声",
+        "onboard_time": 1753110683,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104032,
+        "num": 104032,
+        "word": "外卖点一箱水遭骑手嘲讽",
+        "onboard_time": 1753110144,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102715,
+        "num": 102715,
+        "word": "23岁男子失联34天家属发声",
+        "onboard_time": 1753105883,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102152,
+        "num": 102152,
+        "word": "印度国内因战机被击落吵翻天",
+        "onboard_time": 1753111104,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90291,
+        "num": 100468,
+        "word": "国家邮政局局长谈新疆成包邮区",
+        "onboard_time": 1753105043,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99908,
+        "num": 99908,
+        "word": "易烊千玺演唱会为强实名入场",
+        "onboard_time": 1753096341,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98513,
+        "num": 98513,
+        "word": "家养400斤肥猪的女童妈妈发声",
+        "onboard_time": 1753110563,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94122,
+        "num": 94122,
+        "word": "锦绣芳华高光战报",
+        "onboard_time": 1753108943,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
