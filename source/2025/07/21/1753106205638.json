@@ -1,0 +1,410 @@
+{
+  "runTime": 1753106205638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 899437,
+        "num": 1143909,
+        "word": "婚姻登记处向领到离婚证的新人道歉",
+        "onboard_time": 1753097481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702022,
+        "num": 702022,
+        "word": "韩国烤肉店一片肥肉70多元人民币",
+        "onboard_time": 1753099702,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91579,
+        "num": 498254,
+        "word": "中暑的先兆症状",
+        "onboard_time": 1753104983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740904,
+        "num": 464972,
+        "word": "新人办结婚证却领到离婚证",
+        "onboard_time": 1753096041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422878,
+        "num": 422878,
+        "word": "离职了我就像张予曦这么拍",
+        "onboard_time": 1753102223,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421212,
+        "num": 421212,
+        "word": "住房租赁条例2025年9月15日起施行",
+        "onboard_time": 1753098741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361662,
+        "num": 361662,
+        "word": "现在就出发3",
+        "onboard_time": 1753098024,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332596,
+        "num": 332596,
+        "word": "张凌赫的手好像比赵今麦的腿白",
+        "onboard_time": 1753099582,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310621,
+        "num": 310621,
+        "word": "王楚钦直播",
+        "onboard_time": 1753100062,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277007,
+        "num": 277007,
+        "word": "外卖小哥最牛了",
+        "onboard_time": 1753094302,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 940407,
+        "num": 275909,
+        "word": "张元英被臭到捂鼻",
+        "onboard_time": 1753099582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782627,
+        "num": 272542,
+        "word": "于正破防删评论",
+        "onboard_time": 1753097662,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332617,
+        "num": 266152,
+        "word": "曝何聪睿刘念恋情",
+        "onboard_time": 1753090702,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257156,
+        "num": 257156,
+        "word": "易烊千玺演唱会为强实名入场",
+        "onboard_time": 1753096341,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256936,
+        "num": 256936,
+        "word": "第一次见田曦薇这么忸怩",
+        "onboard_time": 1753104922,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493579,
+        "num": 255885,
+        "word": "女子回应遭强奸被杀2次死里逃生",
+        "onboard_time": 1753080742,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251698,
+        "num": 251698,
+        "word": "朝雪录",
+        "onboard_time": 1753099762,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208248,
+        "num": 208248,
+        "word": "王楚钦狼尾发型",
+        "onboard_time": 1753100962,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200971,
+        "num": 200971,
+        "word": "中国大坝让印度网民破防了",
+        "onboard_time": 1753103482,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180030,
+        "num": 180030,
+        "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
+        "onboard_time": 1753090581,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 610549,
+        "num": 179663,
+        "word": "梓渝粉丝名",
+        "onboard_time": 1753101861,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420069,
+        "num": 177345,
+        "word": "袁姗姗真去哀牢山拍戏了",
+        "onboard_time": 1753091062,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386009,
+        "num": 174369,
+        "word": "田栩宁粉丝名及应援色公开",
+        "onboard_time": 1753098921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280730,
+        "num": 173131,
+        "word": "建议大家不要轻易离职",
+        "onboard_time": 1753094541,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171751,
+        "num": 171751,
+        "word": "旺仔小乔掉粉",
+        "onboard_time": 1753085542,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216360,
+        "num": 168274,
+        "word": "梓渝应援色",
+        "onboard_time": 1753104382,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111687,
+        "num": 165805,
+        "word": "23岁男子失联34天家属发声",
+        "onboard_time": 1753105883,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164613,
+        "num": 164613,
+        "word": "尚公主",
+        "onboard_time": 1753094184,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161455,
+        "num": 161455,
+        "word": "全村老人都在等她出摊",
+        "onboard_time": 1753105644,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160403,
+        "num": 160403,
+        "word": "张俪第一次臀推",
+        "onboard_time": 1753104803,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153059,
+        "num": 153059,
+        "word": "罗小黑",
+        "onboard_time": 1753104262,
+        "rank": 30,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 143812,
+        "num": 143812,
+        "word": "卖豆腐的27岁河南姑娘凭什么走红",
+        "onboard_time": 1753105223,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139924,
+        "num": 139924,
+        "word": "75岁港星公开征婚",
+        "onboard_time": 1753103001,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131417,
+        "num": 131417,
+        "word": "2只杜宾没拴绳警方正排查养狗人",
+        "onboard_time": 1753095500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128461,
+        "num": 128461,
+        "word": "感动全网的外卖餐箱宝宝长大了",
+        "onboard_time": 1753103602,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127257,
+        "num": 127257,
+        "word": "外国男子在华调戏女孩遇霸气回怼",
+        "onboard_time": 1753105822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127012,
+        "num": 127012,
+        "word": "女子拿店家爱心矿泉水洗脚后滑倒",
+        "onboard_time": 1753102881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125818,
+        "num": 125818,
+        "word": "爱泼斯坦前女友爆料",
+        "onboard_time": 1753103602,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59783,
+        "num": 125601,
+        "word": "以色列士兵在加沙狩猎儿童",
+        "onboard_time": 1753101561,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1761910,
+        "num": 125583,
+        "word": "水下吻",
+        "onboard_time": 1753104502,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125564,
+        "num": 125564,
+        "word": "湖南卫视连发20条微博官宣沈月",
+        "onboard_time": 1753102103,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121251,
+        "num": 121251,
+        "word": "孙颖莎王楚钦等亮相最新宣传片",
+        "onboard_time": 1753100962,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120597,
+        "num": 120597,
+        "word": "扫毒风暴",
+        "onboard_time": 1753104143,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119245,
+        "num": 119245,
+        "word": "王楚钦的侧颜绝了",
+        "onboard_time": 1753100962,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119022,
+        "num": 119022,
+        "word": "扫毒风暴口碑逆跌",
+        "onboard_time": 1753100421,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118157,
+        "num": 118157,
+        "word": "孟子义何与巧克力亲子装",
+        "onboard_time": 1753093401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116699,
+        "num": 116699,
+        "word": "韩国通报济州航空空难调查结果",
+        "onboard_time": 1753102702,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117052,
+        "num": 116423,
+        "word": "被父母要求让着弟弟13岁姐姐患抑郁",
+        "onboard_time": 1753103964,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116130,
+        "num": 116130,
+        "word": "吕珍九增肌",
+        "onboard_time": 1753106064,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114108,
+        "num": 114108,
+        "word": "深情眼云包场",
+        "onboard_time": 1753102161,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
