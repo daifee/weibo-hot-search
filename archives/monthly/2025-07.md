@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/21 15:35:04
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/21 15:49:22
 </p>
 </blockquote>
 <p>
@@ -3549,6 +3549,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%92%AC%E6%96%AD%E6%80%A7%E4%BE%B5%E8%80%85%E8%88%8C%E5%A4%B461%E5%B9%B4%E5%90%8E%E9%87%8D%E5%AE%A1%23" target="weibo">
+韩国女子咬断性侵者舌头61年后重审（热度：819826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9A%84%E7%8B%97%E5%86%B2%E7%9D%80%E4%B8%BB%E6%8C%81%E4%BA%BA%E4%B8%80%E7%9B%B4%E5%8F%AB%23" target="weibo">
 赵露思的狗冲着主持人一直叫（热度：819711）
 </a>
@@ -5847,6 +5853,12 @@ ye 退票（热度：610719）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%BA%E5%A5%B8%E5%AB%82%E5%AD%90%E6%9D%80%E5%AE%B3%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%80%85%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%23" target="weibo">
+男子强奸嫂子杀害见义勇为者二审开庭（热度：595026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%A2%AB%E8%B0%81%E7%94%A9%E4%BA%86%23" target="weibo">
 陈楚生被谁甩了（热度：594501）
 </a>
@@ -5999,18 +6011,6 @@ ye 退票（热度：610719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E7%BD%97%E9%A9%AC%E4%BB%95%E5%85%85%E7%94%B5%E5%AE%9D%E5%85%85%E7%94%B5%E6%97%B6%E7%88%86%E7%82%B8%23" target="weibo">
 又一罗马仕充电宝充电时爆炸（热度：584598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C2.5%E4%BA%BF%E5%AD%98%E6%AC%BE%E4%B8%A2%E5%A4%B1%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23" target="weibo">
-银行2.5亿存款丢失案将开庭（热度：582431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94G7272%E5%88%97%E8%BD%A6%E5%81%9C%E8%BD%A6%E5%81%9C%E7%94%B5%23" target="weibo">
-12306回应G7272列车停车停电（热度：582338）
 </a>
 </li>
 

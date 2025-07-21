@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753083304357,
+  "endTime": 1753084162699,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -355,6 +355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 819826,
+      "num": 819826,
+      "word": "韩国女子咬断性侵者舌头61年后重审",
+      "onboard_time": 1753081283,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 816524,
       "num": 816524,
       "word": "管泽元 好像寄了",
@@ -521,6 +529,14 @@
       "onboard_time": 1753020626,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595026,
+      "num": 352502,
+      "word": "男子强奸嫂子杀害见义勇为者二审开庭",
+      "onboard_time": 1753082720,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 584894,
@@ -931,14 +947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 414120,
-      "num": 414120,
-      "word": "韩国女子咬断性侵者舌头61年后重审",
-      "onboard_time": 1753081283,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 411776,
       "num": 411776,
       "word": "苏超常州vs徐州",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1752997823,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377170,
+      "num": 377170,
+      "word": "菲律宾火锅店射杀中国人嫌犯落网",
+      "onboard_time": 1753082002,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 372717,
@@ -1235,14 +1251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 314941,
-      "num": 314941,
-      "word": "男子强奸嫂子杀害见义勇为者二审开庭",
-      "onboard_time": 1753082720,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312091,
       "num": 405787,
       "word": "曾舜晞有那么一瞬间想回去继承家业",
@@ -1355,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284117,
+      "num": 389609,
+      "word": "颖儿我那时髦的二姑",
+      "onboard_time": 1753082241,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283827,
       "num": 258479,
       "word": "易烊千玺2025演唱会礐嶨",
@@ -1419,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270803,
+      "num": 378395,
+      "word": "扫腿舞",
+      "onboard_time": 1753081462,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270783,
       "num": 270783,
       "word": "珠海台风",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1752987261,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260031,
-      "num": 389609,
-      "word": "颖儿我那时髦的二姑",
-      "onboard_time": 1753082241,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 259816,
@@ -1619,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240660,
-      "num": 378395,
-      "word": "扫腿舞",
-      "onboard_time": 1753081462,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 238169,
       "num": 238169,
       "word": "26名路人四面八方跑来救人",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1753011262,
       "rank": 23,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 226691,
-      "num": 371157,
-      "word": "菲律宾火锅店射杀中国人嫌犯落网",
-      "onboard_time": 1753082002,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 223530,
@@ -2348,7 +2348,7 @@
     },
     {
       "raw_hot": 183232,
-      "num": 600179,
+      "num": 659099,
       "word": "十余省区市雨雨雨",
       "onboard_time": 1753058722,
       "rank": 29,
@@ -2579,6 +2579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171159,
+      "num": 201293,
+      "word": "鹿晗哥哥你是妈妈唯一的老公",
+      "onboard_time": 1753083921,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170779,
       "num": 170779,
       "word": "张杰合肥演唱会",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1753016848,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168125,
+      "num": 201010,
+      "word": "小狗在虞书欣床上尿尿",
+      "onboard_time": 1753083322,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 167824,
@@ -2972,11 +2988,19 @@
     },
     {
       "raw_hot": 153091,
-      "num": 153091,
+      "num": 200807,
       "word": "郑朋表白现场粉丝",
       "onboard_time": 1753081521,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152984,
+      "num": 152984,
+      "word": "恋与深空黎深",
+      "onboard_time": 1753082841,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 152746,
@@ -3203,14 +3227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145385,
-      "num": 145385,
-      "word": "恋与深空黎深",
-      "onboard_time": 1753082841,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145374,
       "num": 145374,
       "word": "看到评论区这么刻薄我就放心了",
@@ -3281,6 +3297,14 @@
       "onboard_time": 1752987982,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "RIIZE空降",
+      "onboard_time": 1753083683,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 142289,
@@ -3425,6 +3449,14 @@
       "onboard_time": 1752974719,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136187,
+      "num": 136187,
+      "word": "内娱引导型恋人",
+      "onboard_time": 1753083983,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135805,
@@ -3577,6 +3609,14 @@
       "onboard_time": 1752983902,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129469,
+      "num": 129469,
+      "word": "丁禹兮生日卡片点赞破千万",
+      "onboard_time": 1753083683,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 129364,
@@ -4435,6 +4475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103956,
+      "num": 347439,
+      "word": "林樱桃蒋峤西表白吻",
+      "onboard_time": 1753082422,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103407,
       "num": 103407,
       "word": "越南一游船倾覆已致27人死亡",
@@ -4505,6 +4553,14 @@
       "onboard_time": 1752990261,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101641,
+      "num": 314947,
+      "word": "霸总诚C要包下整个鱼塘了",
+      "onboard_time": 1753082902,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 100993,
@@ -4841,6 +4897,14 @@
       "onboard_time": 1753065501,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82764,
+      "num": 200613,
+      "word": "新一轮台风周三起影响我国",
+      "onboard_time": 1753081162,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82377,
@@ -5211,6 +5275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55714,
+      "num": 350249,
+      "word": "领导不来公厕不开是当代厕囧",
+      "onboard_time": 1753083082,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 55469,
       "num": 203633,
       "word": "河北小伙回应在加拿大当公务员",
@@ -5233,14 +5305,6 @@
       "onboard_time": 1753021705,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53795,
-      "num": 314947,
-      "word": "霸总诚C要包下整个鱼塘了",
-      "onboard_time": 1753082902,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 52918,
@@ -5353,6 +5417,14 @@
       "onboard_time": 1753065681,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44914,
+      "num": 346238,
+      "word": "山姆的雷半年前就埋下了",
+      "onboard_time": 1753083683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44042,
@@ -5515,6 +5587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31035,
+      "num": 128073,
+      "word": "高承睿自责落泪",
+      "onboard_time": 1753076664,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29881,
       "num": 317687,
       "word": "佛山两区号召全体市民灭蚊",
@@ -5585,14 +5665,6 @@
       "onboard_time": 1752950655,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24057,
-      "num": 161723,
-      "word": "领导不来公厕不开是当代厕囧",
-      "onboard_time": 1753083082,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 23774,
