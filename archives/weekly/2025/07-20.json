@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753103596522,
+  "endTime": 1753105466860,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1177313,
-      "num": 324975,
+      "num": 367311,
       "word": "张元英被臭到捂鼻",
       "onboard_time": 1753099582,
       "rank": 10,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 927974,
+      "num": 927974,
+      "word": "水下吻",
+      "onboard_time": 1753104502,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 919450,
       "num": 401660,
       "word": "男子强奸嫂子杀害见义勇为者二审开庭",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 873958,
-      "num": 322928,
+      "num": 364917,
       "word": "于正破防删评论",
       "onboard_time": 1753097662,
       "rank": 39,
@@ -489,6 +497,14 @@
       "onboard_time": 1752992602,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 767113,
+      "num": 767113,
+      "word": "韩国烤肉店一片肥肉70多元人民币",
+      "onboard_time": 1753099702,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 758833,
@@ -675,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585011,
+      "num": 256621,
+      "word": "梓渝粉丝名",
+      "onboard_time": 1753101861,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 584894,
       "num": 463438,
       "word": "王源鸟巢",
@@ -729,14 +753,6 @@
       "onboard_time": 1753080442,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 560973,
-      "num": 256621,
-      "word": "梓渝粉丝名",
-      "onboard_time": 1753101861,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 559468,
@@ -1123,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435599,
+      "num": 435599,
+      "word": "离职了我就像张予曦这么拍",
+      "onboard_time": 1753102223,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433115,
       "num": 433115,
       "word": "陶昕然单身原因",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1752978621,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 353299,
-      "num": 353299,
-      "word": "韩国烤肉店一片肥肉70多元人民币",
-      "onboard_time": 1753099702,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 353013,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1752992422,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305493,
-      "num": 305493,
-      "word": "离职了我就像张予曦这么拍",
-      "onboard_time": 1753102223,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 303548,
@@ -1785,6 +1793,14 @@
       "onboard_time": 1752985162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267473,
+      "num": 267473,
+      "word": "朝雪录",
+      "onboard_time": 1753013363,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 266744,
@@ -2395,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204663,
+      "num": 188879,
+      "word": "梓渝应援色",
+      "onboard_time": 1753104382,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204538,
       "num": 200801,
       "word": "化尸水化到骨头渣都不剩",
@@ -2539,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197055,
+      "num": 197055,
+      "word": "中国大坝让印度网民破防了",
+      "onboard_time": 1753103482,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196449,
       "num": 196449,
       "word": "韦世豪",
@@ -2619,14 +2651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192784,
-      "num": 192784,
-      "word": "朝雪录",
-      "onboard_time": 1753013363,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192320,
       "num": 192320,
       "word": "敖瑞鹏李兰迪短剧式剧宣",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1753003282,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189694,
+      "num": 189694,
+      "word": "罗小黑",
+      "onboard_time": 1752968117,
+      "rank": 30,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 189601,
@@ -3115,6 +3147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171264,
+      "num": 171264,
+      "word": "感动全网的外卖餐箱宝宝长大了",
+      "onboard_time": 1753103602,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171225,
       "num": 171225,
       "word": "东方电气一度涨超700%",
@@ -3315,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163386,
+      "num": 163386,
+      "word": "第一次见田曦薇这么忸怩",
+      "onboard_time": 1753104922,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163104,
       "num": 195473,
       "word": "刘耀文红发背头",
@@ -3363,6 +3411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161594,
+      "num": 161594,
+      "word": "扫毒风暴",
+      "onboard_time": 1753104143,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161544,
       "num": 346238,
       "word": "山姆的雷半年前就埋下了",
@@ -3385,6 +3441,14 @@
       "onboard_time": 1753082063,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 161277,
+      "num": 161277,
+      "word": "张俪第一次臀推",
+      "onboard_time": 1753104803,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 160787,
@@ -3649,6 +3713,14 @@
       "onboard_time": 1752943879,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150846,
+      "num": 257142,
+      "word": "女子拿店家爱心矿泉水洗脚后滑倒",
+      "onboard_time": 1753102881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150829,
@@ -4291,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129974,
+      "num": 129974,
+      "word": "爱泼斯坦前女友爆料",
+      "onboard_time": 1753103602,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129469,
       "num": 129469,
       "word": "丁禹兮生日卡片点赞破千万",
@@ -4417,6 +4497,14 @@
       "onboard_time": 1752987021,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126871,
+      "num": 126871,
+      "word": "被父母要求让着弟弟13岁姐姐患抑郁",
+      "onboard_time": 1753103964,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126771,
@@ -4867,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115444,
+      "num": 115444,
+      "word": "这还是我认识的任重吗",
+      "onboard_time": 1753104622,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115318,
       "num": 124359,
       "word": "日本首相石破茂坚持留任",
@@ -4963,6 +5059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112976,
+      "num": 109272,
+      "word": "谁懂朝雪录这群人搞宫斗的含金量",
+      "onboard_time": 1753105403,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112943,
       "num": 150014,
       "word": "朱洁静自曝曾患乳腺癌",
@@ -5009,14 +5113,6 @@
       "onboard_time": 1753092441,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111868,
-      "num": 257142,
-      "word": "女子拿店家爱心矿泉水洗脚后滑倒",
-      "onboard_time": 1753102881,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111635,
@@ -5097,6 +5193,14 @@
       "onboard_time": 1753095681,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109906,
+      "num": 133642,
+      "word": "男子不满妻子直播离婚后毒杀俩孩子",
+      "onboard_time": 1753103364,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109456,
@@ -5201,6 +5305,14 @@
       "onboard_time": 1753078941,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106887,
+      "num": 106887,
+      "word": "卖豆腐的27岁河南姑娘凭什么走红",
+      "onboard_time": 1753105223,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106795,
@@ -5859,14 +5971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78181,
-      "num": 78181,
-      "word": "罗小黑",
-      "onboard_time": 1752968117,
-      "rank": 30,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 77825,
       "num": 77825,
       "word": "韩国暴雨死亡升至17人",
@@ -6192,14 +6296,6 @@
       "word": "侵华日军臭名昭著的不仅仅有731",
       "onboard_time": 1753009881,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57207,
-      "num": 133642,
-      "word": "男子不满妻子直播离婚后毒杀俩孩子",
-      "onboard_time": 1753103364,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -6731,14 +6827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24270,
-      "num": 184431,
-      "word": "中国大坝让印度网民破防了",
-      "onboard_time": 1753103482,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23774,
       "num": 23774,
       "word": "陈立农宁波演唱会",
@@ -6881,6 +6969,14 @@
       "onboard_time": 1753011202,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17716,
+      "num": 920290,
+      "word": "中暑的先兆症状",
+      "onboard_time": 1753104983,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17375,
