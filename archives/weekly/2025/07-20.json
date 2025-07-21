@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753070956112,
+  "endTime": 1753072117173,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -129,6 +129,14 @@
       "onboard_time": 1752988400,
       "rank": 5,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 1512446,
+      "num": 1512446,
+      "word": "老人纳凉的成本不能转嫁给肯德基",
+      "onboard_time": 1753068201,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1447830,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 898066,
-      "num": 294931,
+      "num": 306824,
       "word": "印度两兄弟同娶一新娘",
       "onboard_time": 1753057702,
       "rank": 10,
@@ -289,14 +297,6 @@
       "onboard_time": 1752985822,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 836987,
-      "num": 836987,
-      "word": "老人纳凉的成本不能转嫁给肯德基",
-      "onboard_time": 1753068201,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 824513,
@@ -361,6 +361,14 @@
       "onboard_time": 1752996322,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 758803,
+      "num": 758803,
+      "word": "敖瑞鹏参加过22年重庆山火救援",
+      "onboard_time": 1753070001,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 737920,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584894,
+      "num": 463438,
+      "word": "王源鸟巢",
+      "onboard_time": 1753065681,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 572427,
       "num": 572427,
       "word": "女烈士遗体被发现时布满弹孔",
@@ -481,14 +497,6 @@
       "onboard_time": 1752936983,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 554572,
-      "num": 369537,
-      "word": "王源鸟巢",
-      "onboard_time": 1753065681,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 553364,
@@ -683,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478074,
+      "num": 478074,
+      "word": "山姆给中产丢脸了",
+      "onboard_time": 1753070423,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477237,
       "num": 477237,
       "word": "张凌赫没人喜欢蠢的吧",
       "onboard_time": 1752991881,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 473589,
-      "num": 366887,
-      "word": "敖瑞鹏参加过22年重庆山火救援",
-      "onboard_time": 1753070001,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 469466,
@@ -721,6 +729,14 @@
       "onboard_time": 1753003041,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 461243,
+      "num": 318698,
+      "word": "崔始源 我以后会常用微博",
+      "onboard_time": 1753070661,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 456030,
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372717,
+      "num": 339614,
+      "word": "余茵从电子厂打工到演厂长被认可",
+      "onboard_time": 1753069161,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369903,
       "num": 369903,
       "word": "简历 高p照片",
@@ -955,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 339614,
-      "num": 339614,
-      "word": "余茵从电子厂打工到演厂长被认可",
-      "onboard_time": 1753069161,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 336933,
       "num": 336933,
       "word": "凡人修仙传",
@@ -1011,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323041,
+      "num": 311591,
+      "word": "这下轮到哈妮克孜上恋综了",
+      "onboard_time": 1753069762,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321785,
       "num": 321785,
       "word": "三个少年",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1752984440,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 305942,
+      "num": 305942,
+      "word": "一看就是刘亦菲拍的",
+      "onboard_time": 1753070600,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 305709,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1752940101,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 290152,
-      "num": 258531,
-      "word": "这下轮到哈妮克孜上恋综了",
-      "onboard_time": 1753069762,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 289602,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1753003942,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 262731,
+      "num": 314062,
+      "word": "台风韦帕强度将再度发展",
+      "onboard_time": 1753068562,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262258,
@@ -1419,6 +1451,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 227954,
+      "num": 227954,
+      "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
+      "onboard_time": 1753071802,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223530,
       "num": 223530,
       "word": "成都AG晋级胜者组决赛",
@@ -1476,7 +1516,7 @@
     },
     {
       "raw_hot": 218484,
-      "num": 218484,
+      "num": 310208,
       "word": "黄子弘凡声而不凡",
       "onboard_time": 1753069342,
       "rank": 29,
@@ -1512,6 +1552,14 @@
       "word": "年轻人不再为面子买单",
       "onboard_time": 1752936323,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215717,
+      "num": 827408,
+      "word": "第一次从这个视角看高铁洗澡",
+      "onboard_time": 1753069161,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1667,14 +1715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202539,
-      "num": 202539,
-      "word": "崔始源 我以后会常用微博",
-      "onboard_time": 1753070661,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "X玖少年团成员集体改名",
@@ -1771,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194363,
+      "num": 177492,
+      "word": "佟丽娅神女系舞者",
+      "onboard_time": 1753071562,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193089,
       "num": 193089,
       "word": "蔡徐坤更新快拍",
@@ -1859,14 +1907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188608,
-      "num": 258342,
-      "word": "山姆给中产丢脸了",
-      "onboard_time": 1753070423,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188441,
       "num": 188441,
       "word": "张韶涵演唱会嘉宾是春晚机器人",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1753025542,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184745,
+      "num": 184745,
+      "word": "印度要跟中国比外卖",
+      "onboard_time": 1753067061,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 183232,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1753018705,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175504,
+      "num": 175504,
+      "word": "张彬彬现偶赛道",
+      "onboard_time": 1753071203,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 175324,
@@ -2203,14 +2259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166816,
-      "num": 827408,
-      "word": "第一次从这个视角看高铁洗澡",
-      "onboard_time": 1753069161,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166305,
       "num": 166305,
       "word": "王思雨第一时间摘掉铜牌",
@@ -2291,14 +2339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163339,
-      "num": 163339,
-      "word": "台风韦帕强度将再度发展",
-      "onboard_time": 1753068562,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163104,
       "num": 195473,
       "word": "刘耀文红发背头",
@@ -2345,14 +2385,6 @@
       "onboard_time": 1753066341,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 160675,
-      "num": 160675,
-      "word": "印度要跟中国比外卖",
-      "onboard_time": 1753067061,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 160634,
@@ -2587,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150381,
+      "num": 150381,
+      "word": "明媒善娶",
+      "onboard_time": 1753071262,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150192,
       "num": 150192,
       "word": "日本女篮vs澳大利亚女篮",
@@ -2681,6 +2721,14 @@
       "onboard_time": 1753016126,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146449,
+      "num": 146449,
+      "word": "我选择梓渝21分钟直拍作为我的解药",
+      "onboard_time": 1753071624,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 144759,
@@ -2923,12 +2971,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "撒贝宁趴树上录的反诈宣传片",
+      "onboard_time": 1753072102,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131713,
       "num": 131713,
       "word": "黄礼志吃国潮外卖",
       "onboard_time": 1753007361,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131158,
+      "num": 131158,
+      "word": "猫猫的人瘾很大",
+      "onboard_time": 1753069102,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 130930,
@@ -3779,6 +3843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101888,
+      "num": 308962,
+      "word": "中文系的人讲笑话都是悲壮的",
+      "onboard_time": 1753070963,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101656,
       "num": 122429,
       "word": "马龙说没找到理由和乒乓球说再见",
@@ -4043,14 +4115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86360,
-      "num": 160420,
-      "word": "一看就是刘亦菲拍的",
-      "onboard_time": 1753070600,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86232,
       "num": 86232,
       "word": "刘宇宁演唱会为已故粉丝留座和花",
@@ -4201,6 +4265,14 @@
       "onboard_time": 1753061960,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74967,
+      "num": 133268,
+      "word": "科斯塔冯德莱恩将访华",
+      "onboard_time": 1753072102,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74092,
@@ -4571,6 +4643,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 43795,
+      "num": 308583,
+      "word": "奥巴马政府曾伪造特朗普通俄材料",
+      "onboard_time": 1753071682,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43701,
       "num": 90002,
       "word": "印尼一客船起火5死284人获救",
@@ -4617,6 +4697,14 @@
       "onboard_time": 1753023744,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40462,
+      "num": 150687,
+      "word": "李惠利柳俊烈都去吗",
+      "onboard_time": 1753071802,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 40170,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1753072117173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1512446,
+        "num": 1512446,
+        "word": "老人纳凉的成本不能转嫁给肯德基",
+        "onboard_time": 1753068201,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1039311,
+        "num": 1039311,
+        "word": "程潇向妈妈坦白生病真相",
+        "onboard_time": 1753065801,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215717,
+        "num": 797227,
+        "word": "第一次从这个视角看高铁洗澡",
+        "onboard_time": 1753069161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760494,
+        "num": 760494,
+        "word": "中华小当家男主被处决",
+        "onboard_time": 1753066880,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 758803,
+        "num": 758803,
+        "word": "敖瑞鹏参加过22年重庆山火救援",
+        "onboard_time": 1753070001,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478074,
+        "num": 478074,
+        "word": "山姆给中产丢脸了",
+        "onboard_time": 1753070423,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731837,
+        "num": 464612,
+        "word": "赵露思ELLE首封",
+        "onboard_time": 1753068382,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 584894,
+        "num": 463438,
+        "word": "王源鸟巢",
+        "onboard_time": 1753065681,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 449614,
+        "num": 449614,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 318927,
+        "num": 318927,
+        "word": "女生为交社保被负债200万",
+        "onboard_time": 1753025841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461243,
+        "num": 318698,
+        "word": "崔始源 我以后会常用微博",
+        "onboard_time": 1753070661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2134340,
+        "num": 317421,
+        "word": "昆明官方称机动车撞人肇事者被控制",
+        "onboard_time": 1753067421,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 380413,
+        "num": 315335,
+        "word": "农村大席很少有人吃坏肚子",
+        "onboard_time": 1753067242,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262731,
+        "num": 314062,
+        "word": "台风韦帕强度将再度发展",
+        "onboard_time": 1753068562,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372717,
+        "num": 313110,
+        "word": "余茵从电子厂打工到演厂长被认可",
+        "onboard_time": 1753069161,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323041,
+        "num": 311591,
+        "word": "这下轮到哈妮克孜上恋综了",
+        "onboard_time": 1753069762,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311430,
+        "num": 311430,
+        "word": "梓渝神图的诞生",
+        "onboard_time": 1753057461,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147703,
+        "num": 310208,
+        "word": "黄子弘凡声而不凡",
+        "onboard_time": 1753069342,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101888,
+        "num": 308962,
+        "word": "中文系的人讲笑话都是悲壮的",
+        "onboard_time": 1753070963,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43795,
+        "num": 308583,
+        "word": "奥巴马政府曾伪造特朗普通俄材料",
+        "onboard_time": 1753071682,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233218,
+        "num": 306824,
+        "word": "印度两兄弟同娶一新娘",
+        "onboard_time": 1753057702,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305942,
+        "num": 305942,
+        "word": "一看就是刘亦菲拍的",
+        "onboard_time": 1753070600,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284779,
+        "num": 284779,
+        "word": "霍汶希杜华给女儿暑假做局",
+        "onboard_time": 1753068742,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240229,
+        "num": 240229,
+        "word": "甘肃疾控中心严重违反操作规程",
+        "onboard_time": 1753013963,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227954,
+        "num": 227954,
+        "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
+        "onboard_time": 1753071802,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283545,
+        "num": 225882,
+        "word": "旺仔小乔演唱会 不露脸",
+        "onboard_time": 1753025841,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269512,
+        "num": 224598,
+        "word": "朱珠晒生日合照",
+        "onboard_time": 1753067722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222849,
+        "num": 222849,
+        "word": "内塔尼亚胡食物中毒",
+        "onboard_time": 1753066520,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217489,
+        "num": 217489,
+        "word": "田栩宁满屏都是留言",
+        "onboard_time": 1753067481,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184745,
+        "num": 184745,
+        "word": "印度要跟中国比外卖",
+        "onboard_time": 1753067061,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209443,
+        "num": 180974,
+        "word": "王俊凯代言花西子",
+        "onboard_time": 1753066401,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207827,
+        "num": 179027,
+        "word": "易烊千玺2025演唱会礐嶨",
+        "onboard_time": 1753067722,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194363,
+        "num": 177492,
+        "word": "佟丽娅神女系舞者",
+        "onboard_time": 1753071562,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175504,
+        "num": 175504,
+        "word": "张彬彬现偶赛道",
+        "onboard_time": 1753071203,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168784,
+        "num": 168784,
+        "word": "鹿晗摘戒指",
+        "onboard_time": 1753021525,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167948,
+        "num": 167948,
+        "word": "明媒善娶定档预告",
+        "onboard_time": 1753068801,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157101,
+        "num": 157101,
+        "word": "韩女子咬断性侵者舌头被判刑",
+        "onboard_time": 1753020444,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151291,
+        "num": 151291,
+        "word": "A股",
+        "onboard_time": 1753066341,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40462,
+        "num": 150687,
+        "word": "李惠利柳俊烈都去吗",
+        "onboard_time": 1753071802,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150381,
+        "num": 150381,
+        "word": "明媒善娶",
+        "onboard_time": 1753071262,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150250,
+        "num": 150250,
+        "word": "你的朋友圈好久没有提及你的快乐了",
+        "onboard_time": 1753064421,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87171,
+        "num": 147796,
+        "word": "杨瀚森加盟后开拓者收入暴涨11倍",
+        "onboard_time": 1753067181,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146449,
+        "num": 146449,
+        "word": "我选择梓渝21分钟直拍作为我的解药",
+        "onboard_time": 1753071624,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144234,
+        "num": 144234,
+        "word": "姜文拍出了马丽不一样的美",
+        "onboard_time": 1753069402,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74967,
+        "num": 133268,
+        "word": "科斯塔冯德莱恩将访华",
+        "onboard_time": 1753072102,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132891,
+        "num": 132891,
+        "word": "现在才知道雪花手其实是一种病",
+        "onboard_time": 1753065860,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131983,
+        "num": 131983,
+        "word": "撒贝宁趴树上录的反诈宣传片",
+        "onboard_time": 1753072102,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131518,
+        "num": 131518,
+        "word": "这对父女没有感情全是算计",
+        "onboard_time": 1753070182,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131158,
+        "num": 131158,
+        "word": "猫猫的人瘾很大",
+        "onboard_time": 1753069102,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126986,
+        "num": 131134,
+        "word": "国乒男团大运会亚军",
+        "onboard_time": 1753070541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
