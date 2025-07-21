@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753118844905,
+  "endTime": 1753120011543,
   "band_list": [
     {
       "raw_hot": 2138175,
@@ -35,8 +35,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 578471,
-      "num": 578471,
+      "raw_hot": 675116,
+      "num": 675116,
       "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
       "onboard_time": 1753116379,
       "rank": 34,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 359786,
-      "num": 155947,
+      "num": 164004,
       "word": "张元英被臭到捂鼻",
       "onboard_time": 1753099582,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 272299,
-      "num": 144545,
+      "num": 163723,
       "word": "于正破防删评论",
       "onboard_time": 1753097662,
       "rank": 14,
@@ -147,20 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169361,
+      "num": 169361,
+      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
+      "onboard_time": 1753115000,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157846,
+      "num": 157846,
+      "word": "梓渝live营业",
+      "onboard_time": 1753117758,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151180,
       "num": 151180,
       "word": "第一次见田曦薇这么忸怩",
       "onboard_time": 1753104922,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141728,
-      "num": 141728,
-      "word": "梓渝live营业",
-      "onboard_time": 1753117758,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 140271,
@@ -185,14 +193,6 @@
       "onboard_time": 1753111104,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131946,
-      "num": 131946,
-      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
-      "onboard_time": 1753115000,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131584,
@@ -419,6 +419,30 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35519,
+      "num": 35519,
+      "word": "张凌赫说学生时期叛逆过",
+      "onboard_time": 1753119076,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32824,
+      "num": 121241,
+      "word": "乌克兰多地遭空袭致2死15伤",
+      "onboard_time": 1753117338,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 31942,
+      "num": 170290,
+      "word": "23岁男子失联34天家属痛哭不已",
+      "onboard_time": 1753117697,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31265,
       "num": 91838,
       "word": "小暑不算热大暑三伏天",
@@ -427,20 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30864,
-      "num": 170290,
-      "word": "23岁男子失联34天家属痛哭不已",
-      "onboard_time": 1753117697,
+      "raw_hot": 24516,
+      "num": 165429,
+      "word": "店主回应爱心矿泉水被路人拿来洗脚",
+      "onboard_time": 1753118476,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21204,
-      "num": 121241,
-      "word": "乌克兰多地遭空袭致2死15伤",
-      "onboard_time": 1753117338,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17113,

@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753118844905,
+  "endTime": 1753120011543,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675116,
+      "num": 675116,
+      "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
+      "onboard_time": 1753116379,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661419,
       "num": 661419,
       "word": "三伏天 减肥",
@@ -753,14 +761,6 @@
       "onboard_time": 1753076902,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 578471,
-      "num": 578471,
-      "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
-      "onboard_time": 1753116379,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 572427,
@@ -3347,6 +3347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169361,
+      "num": 169361,
+      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
+      "onboard_time": 1753115000,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169355,
       "num": 303861,
       "word": "八旬老人不开空调热得体温飙升41度",
@@ -3649,6 +3657,14 @@
       "onboard_time": 1753014263,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157846,
+      "num": 157846,
+      "word": "梓渝live营业",
+      "onboard_time": 1753117758,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 157633,
@@ -4171,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141728,
-      "num": 141728,
-      "word": "梓渝live营业",
-      "onboard_time": 1753117758,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141610,
       "num": 141610,
       "word": "白鹿杂志",
@@ -4513,14 +4521,6 @@
       "onboard_time": 1753072102,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131946,
-      "num": 131946,
-      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
-      "onboard_time": 1753115000,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131713,
@@ -7035,6 +7035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35519,
+      "num": 35519,
+      "word": "张凌赫说学生时期叛逆过",
+      "onboard_time": 1753119076,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35407,
       "num": 216511,
       "word": "褐石培心幼儿园暂被托管",
@@ -7067,6 +7075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32824,
+      "num": 121241,
+      "word": "乌克兰多地遭空袭致2死15伤",
+      "onboard_time": 1753117338,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32575,
       "num": 32575,
       "word": "这是讨好型人格还是善良",
@@ -7089,6 +7105,14 @@
       "onboard_time": 1753102762,
       "rank": 38,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 31942,
+      "num": 170290,
+      "word": "23岁男子失联34天家属痛哭不已",
+      "onboard_time": 1753117697,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31837,
@@ -7121,14 +7145,6 @@
       "onboard_time": 1753076664,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30864,
-      "num": 170290,
-      "word": "23岁男子失联34天家属痛哭不已",
-      "onboard_time": 1753117697,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29881,
@@ -7235,6 +7251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24516,
+      "num": 165429,
+      "word": "店主回应爱心矿泉水被路人拿来洗脚",
+      "onboard_time": 1753118476,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23774,
       "num": 23774,
       "word": "陈立农宁波演唱会",
@@ -7329,14 +7353,6 @@
       "onboard_time": 1753087283,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 21204,
-      "num": 121241,
-      "word": "乌克兰多地遭空袭致2死15伤",
-      "onboard_time": 1753117338,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20895,

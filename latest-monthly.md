@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/22 01:27:24
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/22 01:46:51
 </p>
 </blockquote>
 <p>
@@ -4977,6 +4977,12 @@ Oakley 王楚钦（热度：694014）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DKKV%E6%9C%89%E7%81%B0%E6%8C%87%E7%94%B2%E9%A1%BE%E5%AE%A2%E6%8B%BF%E8%AF%95%E7%94%A8%E6%8C%87%E7%94%B2%E6%B2%B9%E6%B6%82%E8%84%9A%23" target="weibo">
+曝KKV有灰指甲顾客拿试用指甲油涂脚（热度：675116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%20%E6%88%91160%E6%96%A4%E7%9A%84%E6%97%B6%E5%80%99%E4%B9%9F%E8%BF%99%E6%A0%B7%23" target="weibo">
 杨天真 我160斤的时候也这样（热度：674685）
 </a>
@@ -6005,12 +6011,6 @@ ye 退票（热度：610719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E8%80%B3%E7%8E%AF%E4%B8%BA%E4%BB%BF%E5%88%B6%E5%A4%A7%E7%89%8C%23" target="weibo">
 当地通报黄杨钿甜耳环为仿制大牌（热度：594306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E5%9B%9E%E5%BA%94%E6%9D%A8%E5%B0%91%E5%8D%8E%E5%8F%82%E5%8A%A0%E5%89%AA%E5%BD%A9%23" target="weibo">
-餐馆回应杨少华参加剪彩（热度：592936）
 </a>
 </li>
 
