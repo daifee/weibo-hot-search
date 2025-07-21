@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753108190719,
+  "endTime": 1753109378998,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -323,6 +323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1014058,
+      "num": 334633,
+      "word": "姐弟俩为争300万遗产发现均非亲生",
+      "onboard_time": 1753106423,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1011091,
       "num": 1011091,
       "word": "医生说下肢是人体自带的血糖仪",
@@ -337,14 +345,6 @@
       "onboard_time": 1753086202,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 966379,
-      "num": 334633,
-      "word": "姐弟俩为争300万遗产发现均非亲生",
-      "onboard_time": 1753106423,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 950723,
@@ -1155,11 +1155,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434150,
+      "num": 434150,
+      "word": "全村老人都在等她出摊",
+      "onboard_time": 1753105644,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433115,
       "num": 433115,
       "word": "陶昕然单身原因",
       "onboard_time": 1753078822,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 428027,
+      "num": 428027,
+      "word": "第一次见田曦薇这么忸怩",
+      "onboard_time": 1753104922,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1209,14 +1225,6 @@
       "onboard_time": 1753099582,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404280,
-      "num": 404280,
-      "word": "第一次见田曦薇这么忸怩",
-      "onboard_time": 1753104922,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 403477,
@@ -1275,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 380522,
+      "num": 380522,
+      "word": "中国大坝让印度网民破防了",
+      "onboard_time": 1753103482,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379705,
       "num": 269870,
       "word": "建议大家不要轻易离职",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1753076062,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 361388,
-      "num": 361388,
-      "word": "中国大坝让印度网民破防了",
-      "onboard_time": 1753103482,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 359919,
@@ -1473,14 +1481,6 @@
       "onboard_time": 1752926120,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 329980,
-      "num": 329980,
-      "word": "全村老人都在等她出摊",
-      "onboard_time": 1753105644,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327117,
@@ -2060,7 +2060,7 @@
     },
     {
       "raw_hot": 236844,
-      "num": 236844,
+      "num": 303982,
       "word": "23岁男子失联34天家属发声",
       "onboard_time": 1753105883,
       "rank": 26,
@@ -2523,6 +2523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201788,
+      "num": 201788,
+      "word": "B萌",
+      "onboard_time": 1753108883,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201610,
       "num": 201610,
       "word": "内娱引导型恋人",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1753079903,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195103,
+      "num": 252540,
+      "word": "75岁港星公开征婚",
+      "onboard_time": 1753103001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 194977,
@@ -3137,14 +3153,6 @@
       "onboard_time": 1753020444,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173336,
-      "num": 173336,
-      "word": "75岁港星公开征婚",
-      "onboard_time": 1753103001,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 172773,
@@ -4227,6 +4235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135318,
+      "num": 135318,
+      "word": "丈夫称无法原谅亲弟弟强奸追杀妻子",
+      "onboard_time": 1753109123,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134771,
       "num": 149484,
       "word": "徐艺洋给黄子韬哄成胚胎了",
@@ -4329,6 +4345,14 @@
       "onboard_time": 1753057702,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133263,
+      "num": 133263,
+      "word": "国家邮政局局长谈新疆成包邮区",
+      "onboard_time": 1753105043,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133103,
@@ -5243,14 +5267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111162,
-      "num": 111162,
-      "word": "国家邮政局局长谈新疆成包邮区",
-      "onboard_time": 1753105043,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111048,
       "num": 111048,
       "word": "时代少年团逆应援",
@@ -5401,6 +5417,14 @@
       "onboard_time": 1753003401,
       "rank": 47,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 106984,
+      "num": 106984,
+      "word": "锦绣芳华高光战报",
+      "onboard_time": 1753108943,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 106947,
@@ -5563,6 +5587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103472,
+      "num": 103472,
+      "word": "NIP战胜LNG",
+      "onboard_time": 1753109063,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103407,
       "num": 103407,
       "word": "越南一游船倾覆已致27人死亡",
@@ -5585,6 +5617,14 @@
       "onboard_time": 1752990502,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103157,
+      "num": 103157,
+      "word": "儿子考上北大快递员怕是梦让掐自己",
+      "onboard_time": 1753108763,
+      "rank": 45,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 102666,
@@ -6001,6 +6041,14 @@
       "onboard_time": 1752974840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84886,
+      "num": 158914,
+      "word": "福建南平专项排查整治职业背债人",
+      "onboard_time": 1753106963,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84242,
@@ -6657,14 +6705,6 @@
       "onboard_time": 1752946997,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42575,
-      "num": 158914,
-      "word": "福建南平专项排查整治职业背债人",
-      "onboard_time": 1753106963,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42481,
