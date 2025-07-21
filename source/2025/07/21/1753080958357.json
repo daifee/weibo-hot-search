@@ -1,0 +1,410 @@
+{
+  "runTime": 1753080958357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1634173,
+        "num": 1634173,
+        "word": "曾志伟道歉",
+        "onboard_time": 1753079242,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1513626,
+        "num": 1513626,
+        "word": "昆明交通事故致2死9伤",
+        "onboard_time": 1753075761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182687,
+        "num": 729274,
+        "word": "第一次从这个视角看高铁洗澡",
+        "onboard_time": 1753069161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556306,
+        "num": 556306,
+        "word": "老人纳凉的成本不能转嫁给肯德基",
+        "onboard_time": 1753068201,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 534251,
+        "num": 534251,
+        "word": "高铁一次性座椅套热销",
+        "onboard_time": 1753076240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433115,
+        "num": 433115,
+        "word": "陶昕然单身原因",
+        "onboard_time": 1753078822,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312091,
+        "num": 312091,
+        "word": "曾舜晞有那么一瞬间想回去继承家业",
+        "onboard_time": 1753077862,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303835,
+        "num": 303835,
+        "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
+        "onboard_time": 1753071802,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276237,
+        "num": 276237,
+        "word": "肯德基回应老人占座打牌顾客站着",
+        "onboard_time": 1753079482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103836,
+        "num": 275277,
+        "word": "成都将50分钟高铁到重庆",
+        "onboard_time": 1753078941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903519,
+        "num": 274735,
+        "word": "李惠利柳俊烈分手后首次见面",
+        "onboard_time": 1753077201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664691,
+        "num": 273259,
+        "word": "田栩宁上身身材",
+        "onboard_time": 1753077983,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580506,
+        "num": 272244,
+        "word": "韩安冉宣布生完双胞胎封肚",
+        "onboard_time": 1753076902,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271311,
+        "num": 271311,
+        "word": "一看就是刘亦菲拍的",
+        "onboard_time": 1753070600,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474046,
+        "num": 270856,
+        "word": "男子嫌妻子开车慢当街打断其肋骨",
+        "onboard_time": 1753078342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269947,
+        "num": 269947,
+        "word": "乳酸菌美式",
+        "onboard_time": 1753079062,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245547,
+        "num": 245547,
+        "word": "不敢想象三伏天穿这个有多凉快",
+        "onboard_time": 1753076664,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243810,
+        "num": 243810,
+        "word": "学校把胖橘误认美洲狮停课",
+        "onboard_time": 1753077802,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205895,
+        "num": 238876,
+        "word": "赵露思ELLE杂志销量",
+        "onboard_time": 1753080203,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40930,
+        "num": 235429,
+        "word": "外国人带打火机候机有无区别对待",
+        "onboard_time": 1753080082,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 254764,
+        "num": 235283,
+        "word": "香奈儿否认自己是扁平足",
+        "onboard_time": 1753079604,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235101,
+        "num": 235101,
+        "word": "三伏天 轻断食",
+        "onboard_time": 1753080442,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233866,
+        "num": 233866,
+        "word": "女子回应遭强奸被杀2次死里逃生",
+        "onboard_time": 1753080742,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213635,
+        "num": 213635,
+        "word": "12306回应高铁座椅消毒情况",
+        "onboard_time": 1753073782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209163,
+        "num": 209163,
+        "word": "印度坠机事故唯一幸存者受噩梦折磨",
+        "onboard_time": 1753079422,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201984,
+        "num": 201984,
+        "word": "小沈阳肌肉",
+        "onboard_time": 1753079782,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169784,
+        "num": 196844,
+        "word": "植村秀专业美发蔡徐坤",
+        "onboard_time": 1753074623,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195384,
+        "num": 195384,
+        "word": "蛐蛐老板不小心发给他本人了",
+        "onboard_time": 1753079903,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121374,
+        "num": 191952,
+        "word": "法医周亦武科普朝雪录验尸",
+        "onboard_time": 1753079843,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52311,
+        "num": 191279,
+        "word": "女装制版师讲述女装为何又贵又难穿",
+        "onboard_time": 1753080143,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 190854,
+        "num": 190854,
+        "word": "中华小当家男主被处决",
+        "onboard_time": 1753066880,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184964,
+        "num": 184964,
+        "word": "梓渝媚粉的事顺手就干了",
+        "onboard_time": 1753077922,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184525,
+        "num": 184525,
+        "word": "敖瑞鹏参加过22年重庆山火救援",
+        "onboard_time": 1753070001,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175377,
+        "num": 175377,
+        "word": "女子被造黄谣失业抑郁离婚仅获道歉",
+        "onboard_time": 1753072282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169355,
+        "num": 169355,
+        "word": "八旬老人不开空调热得体温飙升41度",
+        "onboard_time": 1753078222,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164047,
+        "num": 164047,
+        "word": "婚礼没必要的环节",
+        "onboard_time": 1753079843,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159428,
+        "num": 159428,
+        "word": "严浩翔养猫",
+        "onboard_time": 1753073122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158863,
+        "num": 158863,
+        "word": "录到肖战改名那一瞬间了",
+        "onboard_time": 1753080801,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156812,
+        "num": 156812,
+        "word": "梓渝站姐万转神图",
+        "onboard_time": 1753079183,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28198,
+        "num": 151784,
+        "word": "萌物罗小黑和师傅一起睡觉",
+        "onboard_time": 1753079302,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147308,
+        "num": 147308,
+        "word": "山姆给中产丢脸了",
+        "onboard_time": 1753070423,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139621,
+        "num": 139621,
+        "word": "赵露思ELLE首封",
+        "onboard_time": 1753068382,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138291,
+        "num": 138291,
+        "word": "白鹿杂志",
+        "onboard_time": 1753077082,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133166,
+        "num": 133166,
+        "word": "东方电气一度涨超700%",
+        "onboard_time": 1753079541,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127565,
+        "num": 127565,
+        "word": "GEN冠军底座没选BLG",
+        "onboard_time": 1753076240,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123602,
+        "num": 123602,
+        "word": "王晶谈四大天王谁最专一",
+        "onboard_time": 1753080681,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120696,
+        "num": 120696,
+        "word": "程潇向妈妈坦白生病真相",
+        "onboard_time": 1753065801,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114509,
+        "num": 114509,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112668,
+        "num": 112668,
+        "word": "花海说上不去王者了",
+        "onboard_time": 1753079722,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 104758,
+        "word": "林更新爬武当山红温了",
+        "onboard_time": 1753079903,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
