@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753093905257,
+  "endTime": 1753095014985,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -211,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1227768,
+      "num": 376093,
+      "word": "曝何聪睿刘念恋情",
+      "onboard_time": 1753090702,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1225901,
       "num": 1225901,
       "word": "天水第二人民医院修改过血铅数据",
@@ -225,14 +233,6 @@
       "onboard_time": 1753005622,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1214520,
-      "num": 331974,
-      "word": "曝何聪睿刘念恋情",
-      "onboard_time": 1753090702,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1211637,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 707817,
-      "num": 329908,
+      "num": 373494,
       "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
       "onboard_time": 1753090581,
       "rank": 11,
@@ -537,6 +537,14 @@
       "onboard_time": 1753002741,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 690370,
+      "num": 1110459,
+      "word": "男子地铁持刀刺人被学生死死抱住",
+      "onboard_time": 1753086202,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 679554,
@@ -593,14 +601,6 @@
       "onboard_time": 1753088301,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589856,
-      "num": 589856,
-      "word": "男子地铁持刀刺人被学生死死抱住",
-      "onboard_time": 1753086202,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 589193,
@@ -1027,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421702,
+      "num": 421702,
+      "word": "韩空难中期调查结果为飞行员误关引擎",
+      "onboard_time": 1753091242,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 416313,
       "num": 416313,
       "word": "白举纲XXXXXL牛仔裤",
@@ -1120,6 +1128,14 @@
       "word": "余茵从电子厂打工到演厂长被认可",
       "onboard_time": 1753069161,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 372080,
+      "num": 372080,
+      "word": "孟子义何与巧克力亲子装",
+      "onboard_time": 1753093401,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1217,6 +1233,14 @@
       "onboard_time": 1753000461,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 348593,
+      "num": 348593,
+      "word": "CEO出轨梗",
+      "onboard_time": 1753092202,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 347870,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1753087463,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315685,
-      "num": 315685,
-      "word": "韩空难中期调查结果为飞行员误关引擎",
-      "onboard_time": 1753091242,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 312091,
@@ -1603,6 +1619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269870,
+      "num": 269870,
+      "word": "建议大家不要轻易离职",
+      "onboard_time": 1753094541,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268406,
       "num": 347509,
       "word": "王俊凯 英雄联盟手游",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1752967277,
       "rank": 13,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 255959,
-      "num": 255959,
-      "word": "CEO出轨梗",
-      "onboard_time": 1753092202,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 254764,
@@ -1907,6 +1923,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 228171,
+      "num": 228171,
+      "word": "车银优剪头了",
+      "onboard_time": 1753094000,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223530,
       "num": 223530,
       "word": "成都AG晋级胜者组决赛",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1752935303,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216951,
+      "num": 216951,
+      "word": "沈月一直走上坡路吧",
+      "onboard_time": 1753093882,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 216701,
@@ -2395,14 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192835,
-      "num": 192835,
-      "word": "孟子义何与巧克力亲子装",
-      "onboard_time": 1753093401,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192787,
       "num": 209210,
       "word": "刘耀文炫MV",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1753006822,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185741,
+      "num": 291586,
+      "word": "何文忠受贿2.89亿余元",
+      "onboard_time": 1753091902,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185661,
@@ -2851,14 +2883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171539,
-      "num": 291586,
-      "word": "何文忠受贿2.89亿余元",
-      "onboard_time": 1753091902,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171293,
       "num": 171293,
       "word": "DRG对战LGDNBW",
@@ -3115,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161442,
+      "num": 161442,
+      "word": "女方不喊老公男子希望退回彩礼",
+      "onboard_time": 1753093941,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161346,
       "num": 161346,
       "word": "冲浪带来的快感约等于20杯奶茶",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1753022545,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154597,
+      "num": 154597,
+      "word": "爱尔兰富豪与护工结婚第二天去世",
+      "onboard_time": 1753094482,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 153586,
@@ -3491,6 +3531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147140,
+      "num": 147140,
+      "word": "终于等到燕迟摘面具这一下",
+      "onboard_time": 1753094602,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146948,
       "num": 146948,
       "word": "李想开i8现身常州",
@@ -3529,6 +3577,14 @@
       "onboard_time": 1753071624,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145900,
+      "num": 145900,
+      "word": "你支持朋友圈开通访客功能吗",
+      "onboard_time": 1753093941,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 145374,
@@ -3921,6 +3977,22 @@
       "onboard_time": 1753007361,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131243,
+      "num": 131243,
+      "word": "尚公主",
+      "onboard_time": 1753094184,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131182,
+      "num": 131182,
+      "word": "杨紫和剧组深入学习传统妆造",
+      "onboard_time": 1753094602,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 131158,
@@ -4363,6 +4435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119373,
+      "num": 351834,
+      "word": "于适直播",
+      "onboard_time": 1753091062,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "8090后的青春被00后接手了",
@@ -4409,6 +4489,14 @@
       "onboard_time": 1753072642,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118467,
+      "num": 118467,
+      "word": "狗 忍不住化身一条固执的鱼",
+      "onboard_time": 1753094722,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 118343,
@@ -4515,6 +4603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115217,
+      "num": 115217,
+      "word": "崔然竣solo曲",
+      "onboard_time": 1753094962,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114994,
       "num": 114994,
       "word": "GALA 保jie派",
@@ -4545,14 +4641,6 @@
       "onboard_time": 1752967097,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113714,
-      "num": 113714,
-      "word": "沈月一直走上坡路吧",
-      "onboard_time": 1753093882,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 113437,
@@ -4931,6 +5019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104037,
+      "num": 378854,
+      "word": "外卖小哥最牛了",
+      "onboard_time": 1753094302,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 103956,
       "num": 347439,
       "word": "林樱桃蒋峤西表白吻",
@@ -4993,14 +5089,6 @@
       "onboard_time": 1752985521,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102430,
-      "num": 311985,
-      "word": "于适直播",
-      "onboard_time": 1753091062,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 102076,
@@ -5243,6 +5331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89937,
+      "num": 945577,
+      "word": "新一轮台风周三起影响我国",
+      "onboard_time": 1753081162,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89894,
       "num": 339248,
       "word": "越南一游船倾覆已致35死",
@@ -5337,14 +5433,6 @@
       "onboard_time": 1752986481,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 85415,
-      "num": 945577,
-      "word": "新一轮台风周三起影响我国",
-      "onboard_time": 1753081162,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85104,
