@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753137962007,
+  "endTime": 1753140460399,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -1467,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 348830,
+      "num": 348830,
+      "word": "旺仔小乔曾说不露脸是因遭遇骚扰",
+      "onboard_time": 1753134854,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 347870,
       "num": 347870,
       "word": "郝蕾直播录制当众甩脸",
@@ -1537,6 +1545,14 @@
       "onboard_time": 1752926120,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327803,
+      "num": 212752,
+      "word": "考生晒未被云南大学录取备注总分低",
+      "onboard_time": 1753139958,
+      "rank": 11,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 327117,
@@ -1819,6 +1835,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 275469,
+      "num": 275469,
+      "word": "1000元收10瓶红色尖叫卖家没卖",
+      "onboard_time": 1753115480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273729,
       "num": 258298,
       "word": "王俊凯代言花西子",
@@ -2067,14 +2091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244232,
-      "num": 244232,
-      "word": "1000元收10瓶红色尖叫卖家没卖",
-      "onboard_time": 1753115480,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243953,
       "num": 182478,
       "word": "天禄夺冠",
@@ -2203,6 +2219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229609,
+      "num": 229609,
+      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
+      "onboard_time": 1753115000,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229333,
       "num": 229333,
       "word": "许梦圆央视网短剧女主",
@@ -2289,6 +2313,14 @@
       "onboard_time": 1753062140,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 219661,
+      "num": 219661,
+      "word": "俄罗斯商品馆成了时代的眼泪吗",
+      "onboard_time": 1753115480,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219569,
@@ -2435,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212676,
+      "num": 212676,
+      "word": "山姆面包被指隐藏含转基因配料表",
+      "onboard_time": 1753120516,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211870,
       "num": 296834,
       "word": "张予曦毕雯珺cha了美美桑内",
@@ -2577,6 +2617,14 @@
       "onboard_time": 1752999320,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203579,
+      "num": 203579,
+      "word": "印度国内因战机被击落吵翻天",
+      "onboard_time": 1753111104,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203231,
@@ -3059,14 +3107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180361,
-      "num": 180361,
-      "word": "俄罗斯商品馆成了时代的眼泪吗",
-      "onboard_time": 1753115480,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179581,
       "num": 179581,
       "word": "台风韦帕",
@@ -3347,11 +3387,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169361,
-      "num": 169361,
-      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
-      "onboard_time": 1753115000,
-      "rank": 29,
+      "raw_hot": 169673,
+      "num": 169673,
+      "word": "大暑",
+      "onboard_time": 1753140079,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -3691,12 +3731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156972,
+      "num": 156972,
+      "word": "黄金",
+      "onboard_time": 1753139779,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156906,
       "num": 253706,
       "word": "印尼载280人客船起火",
       "onboard_time": 1753059321,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156819,
+      "num": 156819,
+      "word": "英法等25国发表联合声明",
+      "onboard_time": 1753139839,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156812,
@@ -4091,6 +4147,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145312,
+      "num": 145312,
+      "word": "在美中国女子遭一男子囚禁虐待5天",
+      "onboard_time": 1753139899,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144967,
+      "num": 144967,
+      "word": "不停运动3个月瘦了45斤",
+      "onboard_time": 1753140318,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 144759,
       "num": 144759,
       "word": "丁禹兮尹浩宇谁说内娱没有齐舞",
@@ -4323,14 +4395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138255,
-      "num": 138255,
-      "word": "印度国内因战机被击落吵翻天",
-      "onboard_time": 1753111104,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138183,
       "num": 138183,
       "word": "seventeen巡演",
@@ -4361,6 +4425,14 @@
       "onboard_time": 1753106663,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135913,
+      "num": 158471,
+      "word": "穿普拉达的女王2定妆照",
+      "onboard_time": 1753139477,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 135805,
@@ -4489,14 +4561,6 @@
       "onboard_time": 1753016848,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132803,
-      "num": 140880,
-      "word": "山姆面包被指隐藏含转基因配料表",
-      "onboard_time": 1753120516,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132545,
@@ -5283,14 +5347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113454,
-      "num": 143538,
-      "word": "旺仔小乔曾说不露脸是因遭遇骚扰",
-      "onboard_time": 1753134854,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 113437,
       "num": 113437,
       "word": "林更新爬武当山红温了",
@@ -5707,6 +5763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104888,
+      "num": 157453,
+      "word": "脱口秀",
+      "onboard_time": 1753120037,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104737,
       "num": 104737,
       "word": "鞠婧祎仙鹤塑党上桌了",
@@ -6001,6 +6065,14 @@
       "onboard_time": 1753029620,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93430,
+      "num": 93430,
+      "word": "小暑不算热大暑三伏天",
+      "onboard_time": 1753110083,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93321,
@@ -6299,12 +6371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80406,
-      "num": 92819,
-      "word": "脱口秀",
-      "onboard_time": 1753120037,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 80252,
+      "num": 80252,
+      "word": "保罗加盟快船",
+      "onboard_time": 1753139357,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 78355,
@@ -6579,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62239,
+      "num": 170290,
+      "word": "23岁男子失联34天家属痛哭不已",
+      "onboard_time": 1753117697,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62205,
       "num": 150441,
       "word": "褐石培心幼儿园厨师曾藏匿剩余颜料",
@@ -6763,6 +6843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53177,
+      "num": 53177,
+      "word": "minji开屏",
+      "onboard_time": 1753140259,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52918,
       "num": 145278,
       "word": "小镇出身去留学能改变命运吗",
@@ -6779,6 +6867,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 51425,
+      "num": 43801,
+      "word": "刘宇宁连发9条感谢晒演唱会花篮",
+      "onboard_time": 1753140019,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51049,
       "num": 104558,
       "word": "南通上演苏超最散装应援团",
@@ -6793,14 +6889,6 @@
       "onboard_time": 1752931643,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50729,
-      "num": 170290,
-      "word": "23岁男子失联34天家属痛哭不已",
-      "onboard_time": 1753117697,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50171,
@@ -6841,6 +6929,14 @@
       "onboard_time": 1752987021,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47452,
+      "num": 47452,
+      "word": "摄影师拒绝回应于正联系七七后续",
+      "onboard_time": 1753125374,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 47374,
@@ -7163,14 +7259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 31265,
-      "num": 91838,
-      "word": "小暑不算热大暑三伏天",
-      "onboard_time": 1753110083,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31035,
       "num": 128073,
       "word": "高承睿自责落泪",
@@ -7457,14 +7545,6 @@
       "onboard_time": 1753037596,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18915,
-      "num": 31879,
-      "word": "摄影师拒绝回应于正联系七七后续",
-      "onboard_time": 1753125374,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 17823,
