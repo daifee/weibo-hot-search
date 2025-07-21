@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753090571952,
+  "endTime": 1753091445076,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571257,
+      "num": 565934,
+      "word": "网传尚公主阵容",
+      "onboard_time": 1753089141,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570786,
       "num": 570786,
       "word": "GEN夺冠",
@@ -627,14 +635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 565934,
-      "num": 565934,
-      "word": "网传尚公主阵容",
-      "onboard_time": 1753089141,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 559468,
       "num": 559468,
       "word": "月经的四大标准",
@@ -649,6 +649,14 @@
       "onboard_time": 1753070661,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554001,
+      "num": 403471,
+      "word": "现在就出发",
+      "onboard_time": 1753088301,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 553364,
@@ -691,12 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 533181,
-      "num": 320971,
-      "word": "现在就出发",
-      "onboard_time": 1753088301,
+      "raw_hot": 531238,
+      "num": 290402,
+      "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
+      "onboard_time": 1753090581,
       "rank": 11,
-      "category": "综艺"
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 531187,
@@ -963,20 +971,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 445749,
+      "num": 320057,
+      "word": "梓渝提词器",
+      "onboard_time": 1753086441,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 445739,
       "num": 445739,
       "word": "丁禹兮扫腿舞",
       "onboard_time": 1753002921,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445550,
-      "num": 320057,
-      "word": "梓渝提词器",
-      "onboard_time": 1753086441,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 444300,
@@ -1211,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341955,
+      "num": 277955,
+      "word": "曝何聪睿刘念恋情",
+      "onboard_time": 1753090702,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341883,
       "num": 341883,
       "word": "陈梦妈妈谈大姐去世泪崩",
@@ -1315,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316946,
+      "num": 276575,
+      "word": "敖子逸 这衣服上电视穿不得",
+      "onboard_time": 1753087463,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312091,
       "num": 405787,
       "word": "曾舜晞有那么一瞬间想回去继承家业",
@@ -1371,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300609,
-      "num": 275664,
-      "word": "敖子逸 这衣服上电视穿不得",
-      "onboard_time": 1753087463,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297935,
       "num": 211447,
       "word": "心动的信号",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1752979641,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 295224,
+      "num": 329223,
+      "word": "男子爬五台山时突然晕倒去世",
+      "onboard_time": 1753086202,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292978,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1753067722,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 283452,
-      "num": 329223,
-      "word": "男子爬五台山时突然晕倒去世",
-      "onboard_time": 1753086202,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276876,
@@ -2115,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205042,
+      "num": 195042,
+      "word": "Tarzan发文",
+      "onboard_time": 1753090642,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204538,
       "num": 200801,
       "word": "化尸水化到骨头渣都不剩",
@@ -2475,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186327,
+      "num": 186327,
+      "word": "袁姗姗真去哀牢山拍戏了",
+      "onboard_time": 1753091062,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186040,
       "num": 186040,
       "word": "歪嘴战神",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1753018705,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175790,
+      "num": 175790,
+      "word": "世界之外召唤之王",
+      "onboard_time": 1753090460,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 175504,
@@ -3403,6 +3443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145418,
+      "num": 145418,
+      "word": "考古到了李兰迪的妈妈",
+      "onboard_time": 1753089742,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145374,
       "num": 145374,
       "word": "看到评论区这么刻薄我就放心了",
@@ -3467,12 +3515,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143258,
+      "num": 143258,
+      "word": "世界之外",
+      "onboard_time": 1753091421,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143051,
       "num": 143051,
       "word": "原神",
       "onboard_time": 1752987982,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142481,
+      "num": 142481,
+      "word": "赵露思五年前第一次走红毯",
+      "onboard_time": 1753091002,
+      "rank": 44,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 142321,
@@ -3537,6 +3601,14 @@
       "onboard_time": 1752939982,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 140048,
+      "num": 140048,
+      "word": "男子偷了商店53只右脚鞋又还回51只",
+      "onboard_time": 1753087402,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139830,
@@ -3803,6 +3875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130257,
+      "num": 130257,
+      "word": "韩空难中期调查结果为飞行员误关引擎",
+      "onboard_time": 1753091242,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130233,
       "num": 130233,
       "word": "你身边有人一件衣服穿一年吗",
@@ -3875,6 +3955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128398,
+      "num": 128398,
+      "word": "杨紫访谈完整版",
+      "onboard_time": 1753088421,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128215,
       "num": 190237,
       "word": "姜文电影你行你上",
@@ -3931,14 +4019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126622,
-      "num": 126622,
-      "word": "世界之外召唤之王",
-      "onboard_time": 1753090460,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 126606,
       "num": 126606,
       "word": "藏海传缘何做到三高一破",
@@ -3993,14 +4073,6 @@
       "onboard_time": 1752999622,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125262,
-      "num": 125262,
-      "word": "男子偷了商店53只右脚鞋又还回51只",
-      "onboard_time": 1753087402,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125217,
@@ -4115,6 +4187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122854,
+      "num": 122854,
+      "word": "吴磊 花泽磊",
+      "onboard_time": 1753091362,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122411,
       "num": 122411,
       "word": "石宇奇夺本赛季第三冠",
@@ -4188,7 +4268,7 @@
     },
     {
       "raw_hot": 120332,
-      "num": 120332,
+      "num": 249268,
       "word": "三伏天是提升状态的好时候",
       "onboard_time": 1753089921,
       "rank": 42,
@@ -4747,6 +4827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105049,
+      "num": 280058,
+      "word": "WAKEONE与金虔佑解约",
+      "onboard_time": 1753090642,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104530,
       "num": 104530,
       "word": "万能遥控器是违法产品",
@@ -4795,6 +4883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102666,
+      "num": 294930,
+      "word": "成都公积金贷款首付比调至最低20%",
+      "onboard_time": 1753089562,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102665,
       "num": 102665,
       "word": "肖战上班下班照",
@@ -4817,6 +4913,14 @@
       "onboard_time": 1752985521,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 102430,
+      "num": 284117,
+      "word": "于适直播",
+      "onboard_time": 1753091062,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 102076,
@@ -5323,14 +5427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71203,
-      "num": 125263,
-      "word": "考古到了李兰迪的妈妈",
-      "onboard_time": 1753089742,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69655,
       "num": 147291,
       "word": "马龙发球谁也接不住",
@@ -5659,6 +5755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49506,
+      "num": 148406,
+      "word": "百大潮品安利计划",
+      "onboard_time": 1753090702,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 49394,
       "num": 54986,
       "word": "觉得累应该去休息",
@@ -5753,6 +5857,14 @@
       "onboard_time": 1753065080,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 43832,
+      "num": 282007,
+      "word": "罗小黑8岁就上班了",
+      "onboard_time": 1753090883,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 43795,
@@ -6068,7 +6180,7 @@
     },
     {
       "raw_hot": 22763,
-      "num": 125264,
+      "num": 148637,
       "word": "巡飞弹飞龙家族集体亮相",
       "onboard_time": 1753090042,
       "rank": 38,
