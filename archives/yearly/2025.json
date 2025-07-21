@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753065698904,
+  "endTime": 1753070956112,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2387,19 +2387,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3706489,
+      "num": 343736,
+      "word": "昆明官方称机动车撞人肇事者被控制",
+      "onboard_time": 1753067421,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 3701963,
       "num": 3701963,
       "word": "曾黎 灾难公关",
       "onboard_time": 1745908822,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3690143,
-      "num": 420862,
-      "word": "金秀贤说谎了",
-      "onboard_time": 1741936462,
-      "rank": 10,
       "category": "艺人"
     }
   ],

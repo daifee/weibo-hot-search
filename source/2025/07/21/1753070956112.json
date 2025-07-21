@@ -1,0 +1,410 @@
+{
+  "runTime": 1753070956112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097732,
+        "num": 1175637,
+        "word": "程潇向妈妈坦白生病真相",
+        "onboard_time": 1753065801,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836987,
+        "num": 836987,
+        "word": "老人纳凉的成本不能转嫁给肯德基",
+        "onboard_time": 1753068201,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 166816,
+        "num": 827408,
+        "word": "第一次从这个视角看高铁洗澡",
+        "onboard_time": 1753069161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824513,
+        "num": 824513,
+        "word": "赵露思ELLE首封",
+        "onboard_time": 1753068382,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 823797,
+        "num": 823797,
+        "word": "中华小当家男主被处决",
+        "onboard_time": 1753066880,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 375772,
+        "num": 375772,
+        "word": "女生为交社保被负债200万",
+        "onboard_time": 1753025841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554572,
+        "num": 369537,
+        "word": "王源鸟巢",
+        "onboard_time": 1753065681,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 473589,
+        "num": 366887,
+        "word": "敖瑞鹏参加过22年重庆山火救援",
+        "onboard_time": 1753070001,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345815,
+        "num": 345815,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 86171,
+        "num": 344915,
+        "word": "在逃人员看浙BA当场被抓",
+        "onboard_time": 1753069223,
+        "rank": 9,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 3706489,
+        "num": 343736,
+        "word": "昆明官方称机动车撞人肇事者被控制",
+        "onboard_time": 1753067421,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 447470,
+        "num": 342629,
+        "word": "农村大席很少有人吃坏肚子",
+        "onboard_time": 1753067242,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384847,
+        "num": 340879,
+        "word": "梓渝神图的诞生",
+        "onboard_time": 1753057461,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339614,
+        "num": 339614,
+        "word": "余茵从电子厂打工到演厂长被认可",
+        "onboard_time": 1753069161,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333130,
+        "num": 333130,
+        "word": "朱珠晒生日合照",
+        "onboard_time": 1753067722,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327117,
+        "num": 327117,
+        "word": "霍汶希杜华给女儿暑假做局",
+        "onboard_time": 1753068742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305785,
+        "num": 305785,
+        "word": "甘肃疾控中心严重违反操作规程",
+        "onboard_time": 1753013963,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294931,
+        "num": 294931,
+        "word": "印度两兄弟同娶一新娘",
+        "onboard_time": 1753057702,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220265,
+        "num": 265978,
+        "word": "姜文拍出了马丽不一样的美",
+        "onboard_time": 1753069402,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258584,
+        "num": 258584,
+        "word": "内塔尼亚胡食物中毒",
+        "onboard_time": 1753066520,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305001,
+        "num": 258555,
+        "word": "旺仔小乔演唱会 不露脸",
+        "onboard_time": 1753025841,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290152,
+        "num": 258531,
+        "word": "这下轮到哈妮克孜上恋综了",
+        "onboard_time": 1753069762,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283827,
+        "num": 258479,
+        "word": "易烊千玺2025演唱会礐嶨",
+        "onboard_time": 1753067722,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204535,
+        "num": 258440,
+        "word": "你的朋友圈好久没有提及你的快乐了",
+        "onboard_time": 1753064421,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47124,
+        "num": 258359,
+        "word": "裂变天地S1",
+        "onboard_time": 1753070423,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188608,
+        "num": 258342,
+        "word": "山姆给中产丢脸了",
+        "onboard_time": 1753070423,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273729,
+        "num": 258298,
+        "word": "王俊凯代言花西子",
+        "onboard_time": 1753066401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258255,
+        "num": 258255,
+        "word": "田栩宁满屏都是留言",
+        "onboard_time": 1753067481,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193225,
+        "num": 232960,
+        "word": "韩女子咬断性侵者舌头被判刑",
+        "onboard_time": 1753020444,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218484,
+        "num": 218484,
+        "word": "黄子弘凡声而不凡",
+        "onboard_time": 1753069342,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248888,
+        "num": 217431,
+        "word": "鹿晗摘戒指",
+        "onboard_time": 1753021525,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210240,
+        "num": 210240,
+        "word": "明媒善娶定档预告",
+        "onboard_time": 1753068801,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202539,
+        "num": 202539,
+        "word": "崔始源 我以后会常用微博",
+        "onboard_time": 1753070661,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197113,
+        "num": 197113,
+        "word": "这对父女没有感情全是算计",
+        "onboard_time": 1753070182,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165266,
+        "num": 165266,
+        "word": "现在才知道雪花手其实是一种病",
+        "onboard_time": 1753065860,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163339,
+        "num": 163339,
+        "word": "台风韦帕强度将再度发展",
+        "onboard_time": 1753068562,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161707,
+        "num": 161707,
+        "word": "A股",
+        "onboard_time": 1753066341,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160675,
+        "num": 160675,
+        "word": "印度要跟中国比外卖",
+        "onboard_time": 1753067061,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86360,
+        "num": 160420,
+        "word": "一看就是刘亦菲拍的",
+        "onboard_time": 1753070600,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118906,
+        "num": 160246,
+        "word": "杨瀚森加盟后开拓者收入暴涨11倍",
+        "onboard_time": 1753067181,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160229,
+        "num": 160229,
+        "word": "梓渝田栩宁古装正面造型",
+        "onboard_time": 1753064541,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156400,
+        "num": 156400,
+        "word": "国乒男团大运会亚军",
+        "onboard_time": 1753070541,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159180,
+        "num": 155563,
+        "word": "于正七七后续",
+        "onboard_time": 1753058482,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148942,
+        "num": 148942,
+        "word": "一个人住和爸妈住的区别",
+        "onboard_time": 1753070661,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144759,
+        "num": 144759,
+        "word": "丁禹兮尹浩宇谁说内娱没有齐舞",
+        "onboard_time": 1753069823,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144392,
+        "num": 144392,
+        "word": "央视曝光领导视察才开门的农村公厕",
+        "onboard_time": 1753024524,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 144381,
+        "num": 144381,
+        "word": "国乒女团大运会不敌日本",
+        "onboard_time": 1753065681,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135805,
+        "num": 135805,
+        "word": "上班唯一目的就是赚钱",
+        "onboard_time": 1753069581,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135666,
+        "num": 135666,
+        "word": "我国网民规模达11.23亿人",
+        "onboard_time": 1753065080,
+        "rank": 48,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "秦彻真空西装",
+        "onboard_time": 1753070721,
+        "rank": 49,
+        "category": "游戏,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}

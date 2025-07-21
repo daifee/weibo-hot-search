@@ -1,7 +1,15 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753065698904,
+  "endTime": 1753070956112,
   "band_list": [
+    {
+      "raw_hot": 3706489,
+      "num": 343736,
+      "word": "昆明官方称机动车撞人肇事者被控制",
+      "onboard_time": 1753067421,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 2178759,
       "num": 2178759,
@@ -17,6 +25,14 @@
       "onboard_time": 1753025841,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1097732,
+      "num": 1175637,
+      "word": "程潇向妈妈坦白生病真相",
+      "onboard_time": 1753065801,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1020946,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 898066,
-      "num": 269396,
+      "num": 294931,
       "word": "印度两兄弟同娶一新娘",
       "onboard_time": 1753057702,
       "rank": 10,
@@ -51,12 +67,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 836987,
+      "num": 836987,
+      "word": "老人纳凉的成本不能转嫁给肯德基",
+      "onboard_time": 1753068201,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 836818,
       "num": 709511,
       "word": "鹿晗摘戒指",
       "onboard_time": 1753021525,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 824513,
+      "num": 824513,
+      "word": "赵露思ELLE首封",
+      "onboard_time": 1753068382,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 823797,
+      "num": 823797,
+      "word": "中华小当家男主被处决",
+      "onboard_time": 1753066880,
+      "rank": 4,
+      "category": "动漫"
     },
     {
       "raw_hot": 817016,
@@ -107,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 554572,
+      "num": 369537,
+      "word": "王源鸟巢",
+      "onboard_time": 1753065681,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 537693,
       "num": 537693,
       "word": "AL对战GEN",
@@ -147,12 +195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 473589,
+      "num": 366887,
+      "word": "敖瑞鹏参加过22年重庆山火救援",
+      "onboard_time": 1753070001,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473134,
       "num": 473134,
       "word": "于适 很多人在搞我",
       "onboard_time": 1753018883,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 447470,
+      "num": 342629,
+      "word": "农村大席很少有人吃坏肚子",
+      "onboard_time": 1753067242,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 410186,
@@ -172,11 +236,27 @@
     },
     {
       "raw_hot": 363610,
-      "num": 231472,
+      "num": 232960,
       "word": "韩女子咬断性侵者舌头被判刑",
       "onboard_time": 1753020444,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 339614,
+      "num": 339614,
+      "word": "余茵从电子厂打工到演厂长被认可",
+      "onboard_time": 1753069161,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 333130,
+      "num": 333130,
+      "word": "朱珠晒生日合照",
+      "onboard_time": 1753067722,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 329209,
@@ -185,6 +265,14 @@
       "onboard_time": 1753024943,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327117,
+      "num": 327117,
+      "word": "霍汶希杜华给女儿暑假做局",
+      "onboard_time": 1753068742,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 326530,
@@ -203,12 +291,28 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 290152,
+      "num": 258531,
+      "word": "这下轮到哈妮克孜上恋综了",
+      "onboard_time": 1753069762,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289602,
       "num": 289602,
       "word": "shanks",
       "onboard_time": 1753060640,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 283827,
+      "num": 258479,
+      "word": "易烊千玺2025演唱会礐嶨",
+      "onboard_time": 1753067722,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 283094,
@@ -225,6 +329,14 @@
       "onboard_time": 1753013605,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273729,
+      "num": 258298,
+      "word": "王俊凯代言花西子",
+      "onboard_time": 1753066401,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 271256,
@@ -249,6 +361,22 @@
       "onboard_time": 1753027823,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 258584,
+      "num": 258584,
+      "word": "内塔尼亚胡食物中毒",
+      "onboard_time": 1753066520,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 258255,
+      "num": 258255,
+      "word": "田栩宁满屏都是留言",
+      "onboard_time": 1753067481,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 253564,
@@ -307,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220265,
+      "num": 265978,
+      "word": "姜文拍出了马丽不一样的美",
+      "onboard_time": 1753069402,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219732,
       "num": 201612,
       "word": "华为旗舰平板定档7月24日发布",
       "onboard_time": 1753062140,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 218484,
+      "num": 218484,
+      "word": "黄子弘凡声而不凡",
+      "onboard_time": 1753069342,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 215323,
@@ -329,6 +473,38 @@
       "onboard_time": 1752988942,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 210240,
+      "num": 210240,
+      "word": "明媒善娶定档预告",
+      "onboard_time": 1753068801,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204535,
+      "num": 258440,
+      "word": "你的朋友圈好久没有提及你的快乐了",
+      "onboard_time": 1753064421,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 202539,
+      "num": 202539,
+      "word": "崔始源 我以后会常用微博",
+      "onboard_time": 1753070661,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197113,
+      "num": 197113,
+      "word": "这对父女没有感情全是算计",
+      "onboard_time": 1753070182,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194977,
@@ -352,6 +528,14 @@
       "word": "涉事园长也吃了颜料食品",
       "onboard_time": 1753014444,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188608,
+      "num": 258342,
+      "word": "山姆给中产丢脸了",
+      "onboard_time": 1753070423,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -403,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166816,
+      "num": 827408,
+      "word": "第一次从这个视角看高铁洗澡",
+      "onboard_time": 1753069161,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166202,
       "num": 166202,
       "word": "我国网民规模达11.23亿人",
@@ -419,12 +611,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161021,
-      "num": 161021,
-      "word": "王源鸟巢",
-      "onboard_time": 1753065681,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 165266,
+      "num": 165266,
+      "word": "现在才知道雪花手其实是一种病",
+      "onboard_time": 1753065860,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163339,
+      "num": 163339,
+      "word": "台风韦帕强度将再度发展",
+      "onboard_time": 1753068562,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161707,
+      "num": 161707,
+      "word": "A股",
+      "onboard_time": 1753066341,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 160675,
+      "num": 160675,
+      "word": "印度要跟中国比外卖",
+      "onboard_time": 1753067061,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160288,
@@ -451,12 +667,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156400,
+      "num": 156400,
+      "word": "国乒男团大运会亚军",
+      "onboard_time": 1753070541,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151797,
       "num": 151797,
       "word": "卢旺达国防部长站军姿",
       "onboard_time": 1753061061,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148942,
+      "num": 148942,
+      "word": "一个人住和爸妈住的区别",
+      "onboard_time": 1753070661,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144759,
+      "num": 144759,
+      "word": "丁禹兮尹浩宇谁说内娱没有齐舞",
+      "onboard_time": 1753069823,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 144551,
@@ -483,6 +723,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 135805,
+      "num": 135805,
+      "word": "上班唯一目的就是赚钱",
+      "onboard_time": 1753069581,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133291,
       "num": 215018,
       "word": "你的英语在外国人眼中的样子",
@@ -497,6 +745,14 @@
       "onboard_time": 1753025181,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129259,
+      "num": 129259,
+      "word": "秦彻真空西装",
+      "onboard_time": 1753070721,
+      "rank": 49,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 128600,
@@ -521,6 +777,14 @@
       "onboard_time": 1753027823,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118906,
+      "num": 160246,
+      "word": "杨瀚森加盟后开拓者收入暴涨11倍",
+      "onboard_time": 1753067181,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 116647,
@@ -577,14 +841,6 @@
       "onboard_time": 1753038795,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 106936,
-      "num": 124880,
-      "word": "你的朋友圈好久没有提及你的快乐了",
-      "onboard_time": 1753064421,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 106711,
@@ -737,6 +993,22 @@
       "onboard_time": 1753064601,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86360,
+      "num": 160420,
+      "word": "一看就是刘亦菲拍的",
+      "onboard_time": 1753070600,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86171,
+      "num": 344915,
+      "word": "在逃人员看浙BA当场被抓",
+      "onboard_time": 1753069223,
+      "rank": 9,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 83717,
@@ -955,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47124,
+      "num": 258359,
+      "word": "裂变天地S1",
+      "onboard_time": 1753070423,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 46274,
       "num": 125303,
       "word": "小学生玩血色海龟汤后噩梦连连",
@@ -1070,6 +1350,9 @@
   "hotgov_list": [
     {
       "word": "#总书记为何提起福州工作时的这段往事#"
+    },
+    {
+      "word": "#改革发展必须坚持以人民为中心#"
     }
   ]
 }
