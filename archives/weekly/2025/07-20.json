@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753116756254,
+  "endTime": 1753118844905,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -753,6 +753,14 @@
       "onboard_time": 1753076902,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 578471,
+      "num": 578471,
+      "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
+      "onboard_time": 1753116379,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572427,
@@ -2059,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244232,
+      "num": 244232,
+      "word": "1000元收10瓶红色尖叫卖家没卖",
+      "onboard_time": 1753115480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243953,
       "num": 182478,
       "word": "天禄夺冠",
@@ -3041,6 +3057,14 @@
       "onboard_time": 1753106902,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180361,
+      "num": 180361,
+      "word": "俄罗斯商品馆成了时代的眼泪吗",
+      "onboard_time": 1753115480,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179581,
@@ -4147,6 +4171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141728,
+      "num": 141728,
+      "word": "梓渝live营业",
+      "onboard_time": 1753117758,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141610,
       "num": 141610,
       "word": "白鹿杂志",
@@ -4483,20 +4515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131946,
+      "num": 131946,
+      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
+      "onboard_time": 1753115000,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131713,
       "num": 131713,
       "word": "黄礼志吃国潮外卖",
       "onboard_time": 1753007361,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131256,
-      "num": 131256,
-      "word": "1000元收10瓶红色尖叫卖家没卖",
-      "onboard_time": 1753115480,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131182,
@@ -4825,14 +4857,6 @@
       "onboard_time": 1753022126,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124172,
-      "num": 110735,
-      "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
-      "onboard_time": 1753115000,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124027,
@@ -5875,14 +5899,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 99251,
-      "num": 117048,
-      "word": "俄罗斯商品馆成了时代的眼泪吗",
-      "onboard_time": 1753115480,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98728,
       "num": 247690,
       "word": "卖酱香饼小伙称花3万美金获保释",
@@ -6265,14 +6281,6 @@
       "onboard_time": 1753003762,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78960,
-      "num": 78960,
-      "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
-      "onboard_time": 1753116379,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78355,
@@ -6971,6 +6979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40312,
+      "num": 115667,
+      "word": "火锅英雄栾留伟获国家表彰",
+      "onboard_time": 1753115300,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 40170,
       "num": 42023,
       "word": "女兵军考688分被国防科大录取",
@@ -7075,14 +7091,6 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 32111,
-      "num": 115667,
-      "word": "火锅英雄栾留伟获国家表彰",
-      "onboard_time": 1753115300,
-      "rank": 15,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 31837,
       "num": 128388,
       "word": "最全deepseek喂饭指令",
@@ -7113,6 +7121,14 @@
       "onboard_time": 1753076664,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30864,
+      "num": 170290,
+      "word": "23岁男子失联34天家属痛哭不已",
+      "onboard_time": 1753117697,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29881,
@@ -7313,6 +7329,14 @@
       "onboard_time": 1753087283,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21204,
+      "num": 121241,
+      "word": "乌克兰多地遭空袭致2死15伤",
+      "onboard_time": 1753117338,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20895,
