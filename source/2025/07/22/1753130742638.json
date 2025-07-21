@@ -1,0 +1,410 @@
+{
+  "runTime": 1753130742638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 151775,
+        "num": 151775,
+        "word": "结婚证离婚证一个烫金一个烫银",
+        "onboard_time": 1753112123,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96617,
+        "num": 96617,
+        "word": "莫斯科遭到大规模袭击",
+        "onboard_time": 1753109963,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14184,
+        "num": 78708,
+        "word": "中暑的先兆症状",
+        "onboard_time": 1753104983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73205,
+        "num": 73205,
+        "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
+        "onboard_time": 1753116379,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65034,
+        "num": 65034,
+        "word": "水下吻",
+        "onboard_time": 1753104502,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53303,
+        "num": 53303,
+        "word": "1000元收10瓶红色尖叫卖家没卖",
+        "onboard_time": 1753115480,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47093,
+        "num": 47093,
+        "word": "俄罗斯商品馆成了时代的眼泪吗",
+        "onboard_time": 1753115480,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43155,
+        "num": 43155,
+        "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
+        "onboard_time": 1753115000,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27768,
+        "num": 42728,
+        "word": "脱口秀",
+        "onboard_time": 1753120037,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10308,
+        "num": 42344,
+        "word": "以军袭击胡塞武装目标",
+        "onboard_time": 1753129695,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131438,
+        "num": 41980,
+        "word": "田栩宁 灰指甲",
+        "onboard_time": 1753109902,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44110,
+        "num": 41375,
+        "word": "张元英被臭到捂鼻",
+        "onboard_time": 1753099582,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41324,
+        "num": 41324,
+        "word": "于正破防删评论",
+        "onboard_time": 1753097662,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38540,
+        "num": 38540,
+        "word": "山姆面包被指隐藏含转基因配料表",
+        "onboard_time": 1753120516,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37516,
+        "num": 37516,
+        "word": "23岁研一男生抗癌4个月后离世",
+        "onboard_time": 1753113562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39077,
+        "num": 37484,
+        "word": "女子回应遭强奸被杀2次死里逃生",
+        "onboard_time": 1753080742,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37125,
+        "num": 37125,
+        "word": "梓渝live营业",
+        "onboard_time": 1753117758,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35085,
+        "num": 35085,
+        "word": "全村老人都在等她出摊",
+        "onboard_time": 1753105644,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 23029,
+        "num": 27461,
+        "word": "朝雪录",
+        "onboard_time": 1753099762,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20823,
+        "num": 25523,
+        "word": "张凌赫的手好像比赵今麦的腿白",
+        "onboard_time": 1753099582,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44665,
+        "num": 25509,
+        "word": "丈夫称无法原谅亲弟弟强奸追杀妻子",
+        "onboard_time": 1753109123,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25475,
+        "num": 25475,
+        "word": "乌克兰全境有导弹来袭风险",
+        "onboard_time": 1753111404,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25045,
+        "num": 25045,
+        "word": "男子杀人逃亡34年办厂当老板",
+        "onboard_time": 1753113681,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24783,
+        "num": 24783,
+        "word": "姐弟俩为争300万遗产发现均非亲生",
+        "onboard_time": 1753106423,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22971,
+        "num": 22971,
+        "word": "网友称住全季推门摸到脏袜子",
+        "onboard_time": 1753113322,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22505,
+        "num": 22505,
+        "word": "印度国内因战机被击落吵翻天",
+        "onboard_time": 1753111104,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22105,
+        "num": 22105,
+        "word": "火锅英雄栾留伟获国家表彰",
+        "onboard_time": 1753115300,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21920,
+        "num": 21920,
+        "word": "75岁港星公开征婚",
+        "onboard_time": 1753103001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19070,
+        "num": 19700,
+        "word": "旺仔小乔蒙面演唱会主办方回应",
+        "onboard_time": 1753127715,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19230,
+        "num": 19230,
+        "word": "23岁男子失联34天家属痛哭不已",
+        "onboard_time": 1753117697,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18534,
+        "num": 18534,
+        "word": "袁姗姗真去哀牢山拍戏了",
+        "onboard_time": 1753091062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18053,
+        "num": 18053,
+        "word": "田栩宁粉丝名及应援色公开",
+        "onboard_time": 1753098921,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18047,
+        "num": 18047,
+        "word": "云南大学回应高考未录取备注总分低",
+        "onboard_time": 1753114282,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15383,
+        "num": 17199,
+        "word": "檀健次直播蹦迪",
+        "onboard_time": 1753117039,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 16142,
+        "num": 17153,
+        "word": "第一次见田曦薇这么忸怩",
+        "onboard_time": 1753104922,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17149,
+        "num": 17149,
+        "word": "乌克兰多地遭空袭致2死15伤",
+        "onboard_time": 1753117338,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16915,
+        "num": 16915,
+        "word": "住房租赁条例2025年9月15日起施行",
+        "onboard_time": 1753098741,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16515,
+        "num": 16515,
+        "word": "建议大家不要轻易离职",
+        "onboard_time": 1753094541,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16209,
+        "num": 16209,
+        "word": "承租人不得擅自改变租赁住房用途",
+        "onboard_time": 1753126574,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15898,
+        "num": 15898,
+        "word": "婚姻登记处向领到离婚证的新人道歉",
+        "onboard_time": 1753097481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15765,
+        "num": 15765,
+        "word": "罗小黑",
+        "onboard_time": 1753104262,
+        "rank": 40,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 15412,
+        "num": 15412,
+        "word": "摄影师拒绝回应于正联系七七后续",
+        "onboard_time": 1753125374,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14806,
+        "num": 14806,
+        "word": "汪硕造型",
+        "onboard_time": 1753110444,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13850,
+        "num": 13850,
+        "word": "未定事件簿",
+        "onboard_time": 1753114161,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13652,
+        "num": 13652,
+        "word": "曝何聪睿刘念恋情",
+        "onboard_time": 1753090702,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13501,
+        "num": 13501,
+        "word": "王楚钦直播",
+        "onboard_time": 1753100062,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13191,
+        "num": 13191,
+        "word": "王者荣耀赞萌露比联动",
+        "onboard_time": 1753126216,
+        "rank": 46,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 13164,
+        "num": 13164,
+        "word": "湖南卫视连发20条微博官宣沈月",
+        "onboard_time": 1753102103,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13093,
+        "num": 13093,
+        "word": "梓渝粉丝名",
+        "onboard_time": 1753101861,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12960,
+        "num": 12960,
+        "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
+        "onboard_time": 1753090581,
+        "rank": 49,
+        "category": "民生新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
