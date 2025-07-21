@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753097102668,
+  "endTime": 1753098089924,
   "band_list": [
     {
       "raw_hot": 3706489,
@@ -129,6 +129,14 @@
       "onboard_time": 1753077201,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 926129,
+      "num": 1148180,
+      "word": "新人办结婚证却领到离婚证",
+      "onboard_time": 1753096041,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 919450,
@@ -275,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 641473,
+      "num": 641473,
+      "word": "勇斗歹徒小伙获评全国见义勇为英雄",
+      "onboard_time": 1753086202,
+      "rank": 1,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 632294,
       "num": 632294,
       "word": "梓渝神图的诞生",
@@ -393,6 +409,14 @@
       "onboard_time": 1753033937,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 518752,
+      "num": 217784,
+      "word": "田栩宁粉丝名柠檬水",
+      "onboard_time": 1753097000,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 516369,
@@ -547,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 371653,
-      "num": 371653,
-      "word": "新人办结婚证却领到离婚证",
-      "onboard_time": 1753096041,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369568,
       "num": 369568,
       "word": "鹿晗跳了狼与美女",
@@ -585,6 +601,14 @@
       "onboard_time": 1753081642,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346614,
+      "num": 346614,
+      "word": "易烊千玺演唱会为强实名入场",
+      "onboard_time": 1753096341,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 338252,
@@ -987,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221387,
-      "num": 221387,
-      "word": "易烊千玺演唱会为强实名入场",
-      "onboard_time": 1753096341,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 220265,
       "num": 265978,
       "word": "姜文拍出了马丽不一样的美",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1753070182,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196251,
+      "num": 170208,
+      "word": "赵露思背头短发",
+      "onboard_time": 1753096281,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 195384,
@@ -1395,14 +1419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173082,
-      "num": 151587,
-      "word": "赵露思背头短发",
-      "onboard_time": 1753096281,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 172114,
       "num": 237112,
       "word": "梓渝盐城音乐节",
@@ -1436,7 +1452,7 @@
     },
     {
       "raw_hot": 167102,
-      "num": 167102,
+      "num": 175311,
       "word": "鹿晗演唱会武汉站预售",
       "onboard_time": 1753096522,
       "rank": 28,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1753087642,
       "rank": 33,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 162715,
+      "num": 219966,
+      "word": "婚姻登记处向领到离婚证的新人道歉",
+      "onboard_time": 1753097481,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161707,
@@ -1627,11 +1651,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148162,
+      "num": 148162,
+      "word": "特朗普发布逮捕奥巴马的AI视频",
+      "onboard_time": 1753096463,
+      "rank": 33,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 147140,
       "num": 147140,
       "word": "终于等到燕迟摘面具这一下",
       "onboard_time": 1753094602,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146757,
+      "num": 173361,
+      "word": "原件正确复印件才正确",
+      "onboard_time": 1753096942,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1657,14 +1697,6 @@
       "onboard_time": 1753077022,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144856,
-      "num": 144856,
-      "word": "特朗普发布逮捕奥巴马的AI视频",
-      "onboard_time": 1753096463,
-      "rank": 33,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 144759,
@@ -1777,14 +1809,6 @@
       "onboard_time": 1753074923,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137404,
-      "num": 137404,
-      "word": "田栩宁粉丝名柠檬水",
-      "onboard_time": 1753097000,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 135805,
@@ -2099,6 +2123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113477,
+      "num": 113477,
+      "word": "古代异装癖嫉妒性别伤害无辜少女",
+      "onboard_time": 1753097961,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113437,
       "num": 113437,
       "word": "林更新爬武当山红温了",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1753077022,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112382,
+      "num": 112382,
+      "word": "给小猫买磨牙棒没看尺寸",
+      "onboard_time": 1753096823,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 112129,
@@ -2211,6 +2251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107117,
+      "num": 107117,
+      "word": "现在就出发3",
+      "onboard_time": 1753098024,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106947,
       "num": 106947,
       "word": "TTG沙特之旅进行时",
@@ -2225,6 +2273,14 @@
       "onboard_time": 1753061121,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 106633,
+      "num": 213998,
+      "word": "韩济州航空空难中期调查结果遭质疑",
+      "onboard_time": 1753095742,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106199,
@@ -2371,6 +2427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91227,
+      "num": 106728,
+      "word": "王化回应小米摄影图被指抄袭特斯拉",
+      "onboard_time": 1753097662,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90642,
       "num": 163276,
       "word": "北半球酷热南半球世纪严寒",
@@ -2441,14 +2505,6 @@
       "onboard_time": 1753069223,
       "rank": 9,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 86127,
-      "num": 213998,
-      "word": "韩济州航空空难中期调查结果遭质疑",
-      "onboard_time": 1753095742,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 83717,
@@ -2691,6 +2747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57467,
+      "num": 118516,
+      "word": "于正破防删评论",
+      "onboard_time": 1753097662,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57154,
       "num": 116628,
       "word": "蔡徐坤更新快拍",
@@ -2908,7 +2972,7 @@
     },
     {
       "raw_hot": 36749,
-      "num": 386288,
+      "num": 413268,
       "word": "辉煌60载魅力新西藏",
       "onboard_time": 1753095202,
       "rank": 2,
@@ -2969,6 +3033,14 @@
       "onboard_time": 1753087522,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 27738,
+      "num": 213991,
+      "word": "韩飞行员协会驳斥济州航空空难调查",
+      "onboard_time": 1753097481,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26674,
