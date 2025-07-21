@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753072117173,
+  "endTime": 1753074142551,
   "band_list": [
     {
       "raw_hot": 3706489,
@@ -19,8 +19,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1512446,
-      "num": 1512446,
+      "raw_hot": 1763914,
+      "num": 1763914,
       "word": "老人纳凉的成本不能转嫁给肯德基",
       "onboard_time": 1753068201,
       "rank": 1,
@@ -75,6 +75,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 874981,
+      "num": 874981,
+      "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
+      "onboard_time": 1753071802,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 836818,
       "num": 709511,
       "word": "鹿晗摘戒指",
@@ -105,6 +113,14 @@
       "onboard_time": 1753014563,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 804089,
+      "num": 804089,
+      "word": "山姆给中产丢脸了",
+      "onboard_time": 1753070423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 758803,
@@ -163,6 +179,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 556874,
+      "num": 556874,
+      "word": "崔始源 我以后会常用微博",
+      "onboard_time": 1753070661,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 549645,
+      "num": 549645,
+      "word": "严浩翔养猫",
+      "onboard_time": 1753073122,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537693,
       "num": 537693,
       "word": "AL对战GEN",
@@ -203,12 +235,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 478074,
-      "num": 478074,
-      "word": "山姆给中产丢脸了",
-      "onboard_time": 1753070423,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 488060,
+      "num": 488060,
+      "word": "一看就是刘亦菲拍的",
+      "onboard_time": 1753070600,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 473134,
@@ -219,20 +251,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 461243,
-      "num": 318698,
-      "word": "崔始源 我以后会常用微博",
-      "onboard_time": 1753070661,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447470,
       "num": 342629,
       "word": "农村大席很少有人吃坏肚子",
       "onboard_time": 1753067242,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 411516,
+      "num": 411516,
+      "word": "女子被造黄谣失业抑郁离婚仅获道歉",
+      "onboard_time": 1753072282,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410186,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 372717,
-      "num": 339614,
+      "num": 354375,
       "word": "余茵从电子厂打工到演厂长被认可",
       "onboard_time": 1753069161,
       "rank": 13,
@@ -307,12 +339,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305942,
-      "num": 305942,
-      "word": "一看就是刘亦菲拍的",
-      "onboard_time": 1753070600,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 305779,
+      "num": 314062,
+      "word": "台风韦帕强度将再度发展",
+      "onboard_time": 1753068562,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297935,
+      "num": 211447,
+      "word": "心动的信号",
+      "onboard_time": 1753072883,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295848,
+      "num": 551948,
+      "word": "网红靠骂游戏诱导家长买高价课",
+      "onboard_time": 1753072463,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292978,
@@ -376,14 +424,6 @@
       "word": "老人肯德基店内占座乘凉",
       "onboard_time": 1753023685,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262731,
-      "num": 314062,
-      "word": "台风韦帕强度将再度发展",
-      "onboard_time": 1753068562,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -459,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227954,
-      "num": 227954,
-      "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
-      "onboard_time": 1753071802,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225353,
       "num": 225353,
       "word": "纪委监委对检测数据失真等全面调查",
@@ -499,8 +531,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216359,
+      "num": 201796,
+      "word": "欧阳妮妮儿子鼻泪管阻塞",
+      "onboard_time": 1753072403,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215717,
-      "num": 827408,
+      "num": 876011,
       "word": "第一次从这个视角看高铁洗澡",
       "onboard_time": 1753069161,
       "rank": 2,
@@ -513,6 +553,14 @@
       "onboard_time": 1753064359,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214236,
+      "num": 214236,
+      "word": "一个人与一群人吃火锅的区别",
+      "onboard_time": 1753072163,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 210647,
@@ -608,6 +656,22 @@
       "word": "十余省区市雨雨雨",
       "onboard_time": 1753058722,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183191,
+      "num": 217008,
+      "word": "凡人修仙传剧版和动漫是同班底",
+      "onboard_time": 1753073122,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180985,
+      "num": 180985,
+      "word": "县委书记挪用6500万用于私利工程",
+      "onboard_time": 1753072282,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -739,6 +803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144777,
+      "num": 144777,
+      "word": "12306回应高铁座椅消毒情况",
+      "onboard_time": 1753073782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144759,
       "num": 144759,
       "word": "丁禹兮尹浩宇谁说内娱没有齐舞",
@@ -771,12 +843,28 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 138750,
+      "num": 138750,
+      "word": "跑男团一日义工行",
+      "onboard_time": 1753072883,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135805,
       "num": 135805,
       "word": "上班唯一目的就是赚钱",
       "onboard_time": 1753069581,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134743,
+      "num": 134743,
+      "word": "碰瓷中国游客的日本网红当选议员",
+      "onboard_time": 1753073302,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133291,
@@ -849,6 +937,14 @@
       "onboard_time": 1753067181,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118656,
+      "num": 118656,
+      "word": "印度宣称掌握输电技术",
+      "onboard_time": 1753072642,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116647,
@@ -1259,6 +1355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 59901,
+      "num": 134271,
+      "word": "余承东曝Pura80预售时间",
+      "onboard_time": 1753073122,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57154,
       "num": 116628,
       "word": "蔡徐坤更新快拍",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1753014325,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52918,
+      "num": 145278,
+      "word": "小镇出身去留学能改变命运吗",
+      "onboard_time": 1753072883,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 50171,
@@ -1377,6 +1489,14 @@
       "onboard_time": 1753027281,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31431,
+      "num": 202068,
+      "word": "日本筹建福岛事故后首座核电站",
+      "onboard_time": 1753072943,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29628,
