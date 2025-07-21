@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753098089924,
+  "endTime": 1753102647707,
   "band_list": [
     {
       "raw_hot": 3706489,
@@ -75,11 +75,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1173820,
+      "num": 1148180,
+      "word": "新人办结婚证却领到离婚证",
+      "onboard_time": 1753096041,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1167453,
       "num": 1167453,
       "word": "女生为交社保被负债200万",
       "onboard_time": 1753025841,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1164460,
+      "num": 1186313,
+      "word": "婚姻登记处向领到离婚证的新人道歉",
+      "onboard_time": 1753097481,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -123,20 +139,20 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 930204,
+      "num": 324975,
+      "word": "张元英被臭到捂鼻",
+      "onboard_time": 1753099582,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929502,
       "num": 422228,
       "word": "李惠利柳俊烈分手后首次见面",
       "onboard_time": 1753077201,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 926129,
-      "num": 1148180,
-      "word": "新人办结婚证却领到离婚证",
-      "onboard_time": 1753096041,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 919450,
@@ -177,6 +193,14 @@
       "onboard_time": 1753025841,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 837258,
+      "num": 322928,
+      "word": "于正破防删评论",
+      "onboard_time": 1753097662,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 836818,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508163,
+      "num": 508163,
+      "word": "住房租赁条例2025年9月15日起施行",
+      "onboard_time": 1753098741,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501260,
       "num": 501260,
       "word": "上门喂猫一小时没找到客户",
@@ -475,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 472133,
+      "num": 258732,
+      "word": "田栩宁粉丝名及应援色公开",
+      "onboard_time": 1753098921,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470297,
       "num": 551948,
       "word": "网红靠骂游戏诱导家长买高价课",
@@ -507,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 445323,
+      "num": 445323,
+      "word": "现在就出发3",
+      "onboard_time": 1753098024,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433115,
       "num": 433115,
       "word": "陶昕然单身原因",
@@ -521,6 +569,14 @@
       "onboard_time": 1753091242,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 419930,
+      "num": 419930,
+      "word": "王楚钦直播",
+      "onboard_time": 1753100062,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 410186,
@@ -579,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366463,
+      "num": 366463,
+      "word": "张凌赫的手好像比赵今麦的腿白",
+      "onboard_time": 1753099582,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364065,
       "num": 364065,
       "word": "鹿晗跳了可爱颂",
@@ -635,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327843,
+      "num": 327843,
+      "word": "韩国烤肉店一片肥肉70多元人民币",
+      "onboard_time": 1753099702,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 327117,
       "num": 327117,
       "word": "霍汶希杜华给女儿暑假做局",
@@ -665,6 +737,14 @@
       "onboard_time": 1753077802,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 319210,
+      "num": 319210,
+      "word": "2只杜宾没拴绳警方正排查养狗人",
+      "onboard_time": 1753095500,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316946,
@@ -891,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256621,
+      "num": 256621,
+      "word": "梓渝粉丝名",
+      "onboard_time": 1753101861,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254764,
       "num": 235283,
       "word": "香奈儿否认自己是扁平足",
@@ -953,14 +1041,6 @@
       "onboard_time": 1753058782,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 236885,
-      "num": 236885,
-      "word": "2只杜宾没拴绳警方正排查养狗人",
-      "onboard_time": 1753095500,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233032,
@@ -1027,6 +1107,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 219569,
+      "num": 219569,
+      "word": "扫毒风暴口碑逆跌",
+      "onboard_time": 1753100421,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218899,
+      "num": 260471,
+      "word": "王楚钦的侧颜绝了",
+      "onboard_time": 1753100962,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218484,
       "num": 310208,
       "word": "黄子弘凡声而不凡",
@@ -1041,6 +1137,14 @@
       "onboard_time": 1753093882,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216725,
+      "num": 263201,
+      "word": "尚公主",
+      "onboard_time": 1753094184,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 216359,
@@ -1203,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195055,
+      "num": 195055,
+      "word": "王楚钦狼尾发型",
+      "onboard_time": 1753100962,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194977,
       "num": 194977,
       "word": "梓渝田栩宁古装正面造型",
@@ -1355,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178755,
+      "num": 178755,
+      "word": "朝雪录",
+      "onboard_time": 1753099762,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177308,
       "num": 275277,
       "word": "成都将50分钟高铁到重庆",
       "onboard_time": 1753078941,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176218,
+      "num": 176218,
+      "word": "孙颖莎王楚钦等亮相最新宣传片",
+      "onboard_time": 1753100962,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 175790,
@@ -1491,14 +1619,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 162715,
-      "num": 219966,
-      "word": "婚姻登记处向领到离婚证的新人道歉",
-      "onboard_time": 1753097481,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161707,
       "num": 161707,
       "word": "A股",
@@ -1579,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156562,
+      "num": 156562,
+      "word": "湖南卫视连发20条微博官宣沈月",
+      "onboard_time": 1753102103,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156400,
       "num": 156400,
       "word": "国乒男团大运会亚军",
@@ -1625,6 +1753,14 @@
       "onboard_time": 1753061061,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150761,
+      "num": 150761,
+      "word": "宋妍霏这张脸居然演黑中介",
+      "onboard_time": 1753101503,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 150381,
@@ -1899,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131243,
-      "num": 131243,
-      "word": "尚公主",
-      "onboard_time": 1753094184,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131182,
       "num": 131182,
       "word": "杨紫和剧组深入学习传统妆造",
@@ -1921,6 +2049,14 @@
       "onboard_time": 1753069102,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130308,
+      "num": 130308,
+      "word": "最佳育龄是不是认知骗局",
+      "onboard_time": 1753098382,
+      "rank": 36,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 129469,
@@ -1971,6 +2107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126861,
+      "num": 126861,
+      "word": "深情眼云包场",
+      "onboard_time": 1753102161,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126606,
       "num": 126606,
       "word": "藏海传缘何做到三高一破",
@@ -1985,6 +2129,14 @@
       "onboard_time": 1753060041,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125449,
+      "num": 261709,
+      "word": "离职了我就像张予曦这么拍",
+      "onboard_time": 1753102223,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 124761,
@@ -2091,6 +2243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115682,
+      "num": 115682,
+      "word": "周笔畅工作室想开除周笔畅",
+      "onboard_time": 1753100781,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115645,
       "num": 171128,
       "word": "沈腾一个菜都不给宋小宝留",
@@ -2121,6 +2281,14 @@
       "onboard_time": 1753023564,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113524,
+      "num": 113524,
+      "word": "曾经流行的面试话术现在成了大忌",
+      "onboard_time": 1753100182,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 113477,
@@ -2251,14 +2419,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 107117,
-      "num": 107117,
-      "word": "现在就出发3",
-      "onboard_time": 1753098024,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106947,
       "num": 106947,
       "word": "TTG沙特之旅进行时",
@@ -2297,6 +2457,22 @@
       "onboard_time": 1753090642,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104737,
+      "num": 104737,
+      "word": "鞠婧祎仙鹤塑党上桌了",
+      "onboard_time": 1753102042,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104688,
+      "num": 104688,
+      "word": "约基奇哥哥误食烤鸭卷饼隔离纸",
+      "onboard_time": 1753102581,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103956,
@@ -2379,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94289,
+      "num": 259817,
+      "word": "鸿星尔克宠粉现场人山人海",
+      "onboard_time": 1753099521,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94000,
       "num": 116749,
       "word": "步惊云 女人嘛",
@@ -2425,6 +2609,14 @@
       "onboard_time": 1753064359,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92511,
+      "num": 125126,
+      "word": "韩国10月连休10天",
+      "onboard_time": 1753101561,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91227,
@@ -2611,6 +2803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72717,
+      "num": 325910,
+      "word": "孟加拉国一架军机在学校坠毁",
+      "onboard_time": 1753100421,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67877,
       "num": 131221,
       "word": "怎么会有人拒绝黑咻",
@@ -2747,14 +2947,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 57467,
-      "num": 118516,
-      "word": "于正破防删评论",
-      "onboard_time": 1753097662,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57154,
       "num": 116628,
       "word": "蔡徐坤更新快拍",
@@ -2785,6 +2977,14 @@
       "onboard_time": 1753014325,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53142,
+      "num": 125193,
+      "word": "以色列士兵在加沙狩猎儿童",
+      "onboard_time": 1753101561,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52918,
@@ -3121,6 +3321,14 @@
       "onboard_time": 1753021645,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13550,
+      "num": 464570,
+      "word": "中国铁路营业里程16.2万公里",
+      "onboard_time": 1753065740,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13488,
