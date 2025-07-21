@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753076065489,
+  "endTime": 1753077073277,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -265,6 +265,14 @@
       "onboard_time": 1752893602,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 3171608,
+      "num": 3343217,
+      "word": "昆明交通事故致2死9伤",
+      "onboard_time": 1753075761,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2982827,
@@ -3617,14 +3625,6 @@
       "onboard_time": 1752743722,
       "rank": 14,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 949083,
-      "num": 949083,
-      "word": "昆明交通事故致2死9伤",
-      "onboard_time": 1753075761,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 944944,
@@ -13139,6 +13139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369568,
+      "num": 369568,
+      "word": "鹿晗跳了狼与美女",
+      "onboard_time": 1753076062,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 369525,
       "num": 407022,
       "word": "中餐厅合伙人首日开门迎客状况多",
@@ -15657,6 +15665,14 @@
       "onboard_time": 1751547083,
       "rank": 49,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 311834,
+      "num": 311834,
+      "word": "不敢想象三伏天穿这个有多凉快",
+      "onboard_time": 1753076664,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 311691,
@@ -20875,6 +20891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233030,
+      "num": 233030,
+      "word": "12306回应高铁座椅消毒情况",
+      "onboard_time": 1753073782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232986,
       "num": 186840,
       "word": "黄誉博切错号了",
@@ -21713,14 +21737,6 @@
       "onboard_time": 1751534542,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223980,
-      "num": 223980,
-      "word": "12306回应高铁座椅消毒情况",
-      "onboard_time": 1753073782,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223712,
@@ -22961,6 +22977,14 @@
       "onboard_time": 1752638302,
       "rank": 32,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 213890,
+      "num": 213890,
+      "word": "陈楚生说婚姻是让自己快乐舒适的",
+      "onboard_time": 1753075342,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 213888,
@@ -27923,6 +27947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188798,
+      "num": 399939,
+      "word": "警方通报昆明机动车撞人事件",
+      "onboard_time": 1753075941,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 188778,
       "num": 322146,
       "word": "陈飞宇发色开出隐藏款了",
@@ -28033,6 +28065,14 @@
       "onboard_time": 1751455342,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188344,
+      "num": 188344,
+      "word": "GEN冠军底座没选BLG",
+      "onboard_time": 1753076240,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 188280,
@@ -28667,14 +28707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185734,
-      "num": 185734,
-      "word": "陈楚生说婚姻是让自己快乐舒适的",
-      "onboard_time": 1753075342,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "王俊凯说重庆是名副其实光影之城",
@@ -28953,6 +28985,14 @@
       "onboard_time": 1752494063,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 184549,
+      "num": 184549,
+      "word": "高铁一次性座椅套热销",
+      "onboard_time": 1753076240,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184453,
@@ -35284,7 +35324,7 @@
     },
     {
       "raw_hot": 157627,
-      "num": 237237,
+      "num": 325579,
       "word": "有名的人",
       "onboard_time": 1753074563,
       "rank": 16,
@@ -39075,6 +39115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145374,
+      "num": 145374,
+      "word": "看到评论区这么刻薄我就放心了",
+      "onboard_time": 1753077022,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145364,
       "num": 145364,
       "word": "学历越高越容易焦虑吗",
@@ -39769,6 +39817,14 @@
       "onboard_time": 1751360362,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143242,
+      "num": 143242,
+      "word": "韩安冉宣布生完双胞胎封肚",
+      "onboard_time": 1753076902,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 143219,
@@ -41555,6 +41611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138183,
+      "num": 138183,
+      "word": "seventeen巡演",
+      "onboard_time": 1753075761,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138119,
       "num": 138119,
       "word": "杨幂早期完全是姐幂",
@@ -42201,14 +42265,6 @@
       "onboard_time": 1752050002,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 136178,
-      "num": 136178,
-      "word": "seventeen巡演",
-      "onboard_time": 1753075761,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 136163,
@@ -46577,6 +46633,14 @@
       "onboard_time": 1752993261,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124761,
+      "num": 123595,
+      "word": "EWC英雄联盟奖金分配",
+      "onboard_time": 1753076664,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 124756,
@@ -51593,6 +51657,14 @@
       "onboard_time": 1752632840,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112803,
+      "num": 112803,
+      "word": "黄誉博郑伟旅行后疑似绝交",
+      "onboard_time": 1753077022,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112783,
@@ -61307,14 +61379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73627,
-      "num": 138869,
-      "word": "警方通报昆明机动车撞人事件",
-      "onboard_time": 1753075941,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 73542,
       "num": 73542,
       "word": "王以太邓紫棋新书读后感",
@@ -65467,6 +65531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45206,
+      "num": 336817,
+      "word": "为何我们爱在火车上吃泡面",
+      "onboard_time": 1753075941,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 45204,
       "num": 75539,
       "word": "李乃文晒跟孙红雷欧阳娣娣合照",
@@ -69339,6 +69411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22978,
+      "num": 128772,
+      "word": "马龙说北京是第二故乡",
+      "onboard_time": 1753076722,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22911,
       "num": 88927,
       "word": "中美关系的未来在青年",
@@ -70769,14 +70849,6 @@
       "onboard_time": 1751382444,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 15355,
-      "num": 138625,
-      "word": "为何我们爱在火车上吃泡面",
-      "onboard_time": 1753075941,
-      "rank": 38,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 15346,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753029117039,
-  "endTime": 1753076065489,
+  "endTime": 1753077073277,
   "band_list": [
     {
       "raw_hot": 3706489,
@@ -9,6 +9,14 @@
       "onboard_time": 1753067421,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 3171608,
+      "num": 3343217,
+      "word": "昆明交通事故致2死9伤",
+      "onboard_time": 1753075761,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2178759,
@@ -49,14 +57,6 @@
       "onboard_time": 1753024524,
       "rank": 11,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 949083,
-      "num": 949083,
-      "word": "昆明交通事故致2死9伤",
-      "onboard_time": 1753075761,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 937551,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369568,
+      "num": 369568,
+      "word": "鹿晗跳了狼与美女",
+      "onboard_time": 1753076062,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 363610,
       "num": 232960,
       "word": "韩女子咬断性侵者舌头被判刑",
@@ -353,6 +361,14 @@
       "onboard_time": 1753069762,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311834,
+      "num": 311834,
+      "word": "不敢想象三伏天穿这个有多凉快",
+      "onboard_time": 1753076664,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 305779,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233030,
+      "num": 233030,
+      "word": "12306回应高铁座椅消毒情况",
+      "onboard_time": 1753073782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230255,
       "num": 230255,
       "word": "谈恋爱很累的",
@@ -520,14 +544,6 @@
       "word": "纪委监委对检测数据失真等全面调查",
       "onboard_time": 1753014084,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223980,
-      "num": 223980,
-      "word": "12306回应高铁座椅消毒情况",
-      "onboard_time": 1753073782,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -585,6 +601,14 @@
       "onboard_time": 1753072163,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 213890,
+      "num": 213890,
+      "word": "陈楚生说婚姻是让自己快乐舒适的",
+      "onboard_time": 1753075342,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 210647,
@@ -659,12 +683,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188798,
+      "num": 399939,
+      "word": "警方通报昆明机动车撞人事件",
+      "onboard_time": 1753075941,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 188740,
       "num": 188740,
       "word": "涉事园长也吃了颜料食品",
       "onboard_time": 1753014444,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188344,
+      "num": 188344,
+      "word": "GEN冠军底座没选BLG",
+      "onboard_time": 1753076240,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 186813,
@@ -683,20 +723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185734,
-      "num": 185734,
-      "word": "陈楚生说婚姻是让自己快乐舒适的",
-      "onboard_time": 1753075342,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184745,
       "num": 184745,
       "word": "印度要跟中国比外卖",
       "onboard_time": 1753067061,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184549,
+      "num": 184549,
+      "word": "高铁一次性座椅套热销",
+      "onboard_time": 1753076240,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183232,
@@ -804,7 +844,7 @@
     },
     {
       "raw_hot": 157627,
-      "num": 237237,
+      "num": 325579,
       "word": "有名的人",
       "onboard_time": 1753074563,
       "rank": 16,
@@ -859,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145374,
+      "num": 145374,
+      "word": "看到评论区这么刻薄我就放心了",
+      "onboard_time": 1753077022,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144759,
       "num": 144759,
       "word": "丁禹兮尹浩宇谁说内娱没有齐舞",
@@ -873,6 +921,14 @@
       "onboard_time": 1753016126,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143242,
+      "num": 143242,
+      "word": "韩安冉宣布生完双胞胎封肚",
+      "onboard_time": 1753076902,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 142289,
@@ -915,20 +971,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138183,
+      "num": 138183,
+      "word": "seventeen巡演",
+      "onboard_time": 1753075761,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137948,
       "num": 137948,
       "word": "徐州从哪里摇来这么多冠军脸",
       "onboard_time": 1753074923,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136178,
-      "num": 136178,
-      "word": "seventeen巡演",
-      "onboard_time": 1753075761,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 135805,
@@ -1019,6 +1075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124761,
+      "num": 123595,
+      "word": "EWC英雄联盟奖金分配",
+      "onboard_time": 1753076664,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124738,
       "num": 124738,
       "word": "AL 韧性",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1753023564,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112803,
+      "num": 112803,
+      "word": "黄誉博郑伟旅行后疑似绝交",
+      "onboard_time": 1753077022,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110726,
@@ -1355,14 +1427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 73627,
-      "num": 138869,
-      "word": "警方通报昆明机动车撞人事件",
-      "onboard_time": 1753075941,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 72729,
       "num": 106924,
       "word": "刘宇宁深圳演唱会",
@@ -1547,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45206,
+      "num": 336817,
+      "word": "为何我们爱在火车上吃泡面",
+      "onboard_time": 1753075941,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 45106,
       "num": 125394,
       "word": "中国稀土磁体6月出口激增",
@@ -1651,6 +1723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22978,
+      "num": 128772,
+      "word": "马龙说北京是第二故乡",
+      "onboard_time": 1753076722,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22841,
       "num": 19089,
       "word": "梓渝从小房间唱到大舞台",
@@ -1681,14 +1761,6 @@
       "onboard_time": 1753021645,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15355,
-      "num": 138625,
-      "word": "为何我们爱在火车上吃泡面",
-      "onboard_time": 1753075941,
-      "rank": 38,
-      "category": "议题讨论"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1753077073277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3171608,
+        "num": 3343217,
+        "word": "昆明交通事故致2死9伤",
+        "onboard_time": 1753075761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 963345,
+        "num": 963345,
+        "word": "老人纳凉的成本不能转嫁给肯德基",
+        "onboard_time": 1753068201,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132045,
+        "num": 684397,
+        "word": "第一次从这个视角看高铁洗澡",
+        "onboard_time": 1753069161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641681,
+        "num": 641681,
+        "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
+        "onboard_time": 1753071802,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533258,
+        "num": 533258,
+        "word": "女子被造黄谣失业抑郁离婚仅获道歉",
+        "onboard_time": 1753072282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463678,
+        "num": 463678,
+        "word": "山姆给中产丢脸了",
+        "onboard_time": 1753070423,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428346,
+        "num": 428346,
+        "word": "敖瑞鹏参加过22年重庆山火救援",
+        "onboard_time": 1753070001,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419376,
+        "num": 419376,
+        "word": "中华小当家男主被处决",
+        "onboard_time": 1753066880,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 416832,
+        "num": 416832,
+        "word": "程潇向妈妈坦白生病真相",
+        "onboard_time": 1753065801,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188798,
+        "num": 399939,
+        "word": "警方通报昆明机动车撞人事件",
+        "onboard_time": 1753075941,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 387106,
+        "num": 387106,
+        "word": "一看就是刘亦菲拍的",
+        "onboard_time": 1753070600,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50441,
+        "num": 371644,
+        "word": "植村秀专业美发蔡徐坤",
+        "onboard_time": 1753074623,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369568,
+        "num": 369568,
+        "word": "鹿晗跳了狼与美女",
+        "onboard_time": 1753076062,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339086,
+        "num": 339086,
+        "word": "赵露思ELLE首封",
+        "onboard_time": 1753068382,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45206,
+        "num": 336817,
+        "word": "为何我们爱在火车上吃泡面",
+        "onboard_time": 1753075941,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 335638,
+        "num": 335638,
+        "word": "严浩翔养猫",
+        "onboard_time": 1753073122,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152159,
+        "num": 325579,
+        "word": "有名的人",
+        "onboard_time": 1753074563,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317089,
+        "num": 317089,
+        "word": "网红靠骂游戏诱导家长买高价课",
+        "onboard_time": 1753072463,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311834,
+        "num": 311834,
+        "word": "不敢想象三伏天穿这个有多凉快",
+        "onboard_time": 1753076664,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233030,
+        "num": 233030,
+        "word": "12306回应高铁座椅消毒情况",
+        "onboard_time": 1753073782,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277477,
+        "num": 229423,
+        "word": "崔始源 我以后会常用微博",
+        "onboard_time": 1753070661,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213890,
+        "num": 213890,
+        "word": "陈楚生说婚姻是让自己快乐舒适的",
+        "onboard_time": 1753075342,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208837,
+        "num": 208837,
+        "word": "旺仔小乔演唱会 不露脸",
+        "onboard_time": 1753025841,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198706,
+        "num": 198706,
+        "word": "景甜37岁晒照庆生",
+        "onboard_time": 1753074682,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195773,
+        "num": 195773,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 188344,
+        "num": 188344,
+        "word": "GEN冠军底座没选BLG",
+        "onboard_time": 1753076240,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184549,
+        "num": 184549,
+        "word": "高铁一次性座椅套热销",
+        "onboard_time": 1753076240,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178504,
+        "num": 178504,
+        "word": "农村大席很少有人吃坏肚子",
+        "onboard_time": 1753067242,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177915,
+        "num": 177915,
+        "word": "心动的信号",
+        "onboard_time": 1753072883,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169890,
+        "num": 169890,
+        "word": "余茵从电子厂打工到演厂长被认可",
+        "onboard_time": 1753069161,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160267,
+        "num": 160267,
+        "word": "单依纯回应编曲两级评价",
+        "onboard_time": 1753074862,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152596,
+        "num": 152596,
+        "word": "田栩宁满屏都是留言",
+        "onboard_time": 1753067481,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145374,
+        "num": 145374,
+        "word": "看到评论区这么刻薄我就放心了",
+        "onboard_time": 1753077022,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "韩安冉宣布生完双胞胎封肚",
+        "onboard_time": 1753076902,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138183,
+        "num": 138183,
+        "word": "seventeen巡演",
+        "onboard_time": 1753075761,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135123,
+        "num": 135123,
+        "word": "王源鸟巢",
+        "onboard_time": 1753065681,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134374,
+        "num": 134374,
+        "word": "李诞说谢霆锋做评委比做选手还用心",
+        "onboard_time": 1753074682,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132361,
+        "num": 132361,
+        "word": "县委书记挪用6500万用于私利工程",
+        "onboard_time": 1753072282,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128970,
+        "num": 128970,
+        "word": "碰瓷中国游客的日本网红当选议员",
+        "onboard_time": 1753073302,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22978,
+        "num": 128772,
+        "word": "马龙说北京是第二故乡",
+        "onboard_time": 1753076722,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128739,
+        "num": 128739,
+        "word": "三个少年直播",
+        "onboard_time": 1753074982,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125547,
+        "num": 125547,
+        "word": "台风韦帕强度将再度发展",
+        "onboard_time": 1753068562,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123880,
+        "num": 123880,
+        "word": "杨超越 今天是太阳雨",
+        "onboard_time": 1753075761,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124761,
+        "num": 123595,
+        "word": "EWC英雄联盟奖金分配",
+        "onboard_time": 1753076664,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122529,
+        "num": 122529,
+        "word": "山西稷山通报农村公厕未能正常开放",
+        "onboard_time": 1753072702,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121322,
+        "num": 121322,
+        "word": "欧阳妮妮儿子鼻泪管阻塞",
+        "onboard_time": 1753072403,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119228,
+        "num": 119228,
+        "word": "王俊凯代言花西子",
+        "onboard_time": 1753066401,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117621,
+        "num": 117621,
+        "word": "明媒善娶",
+        "onboard_time": 1753071262,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117089,
+        "num": 117089,
+        "word": "这下轮到哈妮克孜上恋综了",
+        "onboard_time": 1753069762,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112803,
+        "num": 112803,
+        "word": "黄誉博郑伟旅行后疑似绝交",
+        "onboard_time": 1753077022,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
