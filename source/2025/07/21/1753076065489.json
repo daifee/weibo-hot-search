@@ -1,0 +1,410 @@
+{
+  "runTime": 1753076065489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1190175,
+        "num": 1190428,
+        "word": "老人纳凉的成本不能转嫁给肯德基",
+        "onboard_time": 1753068201,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 949083,
+        "num": 949083,
+        "word": "昆明交通事故致2死9伤",
+        "onboard_time": 1753075761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156062,
+        "num": 916843,
+        "word": "第一次从这个视角看高铁洗澡",
+        "onboard_time": 1753069161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 915461,
+        "num": 915461,
+        "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
+        "onboard_time": 1753071802,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700501,
+        "num": 700501,
+        "word": "女子被造黄谣失业抑郁离婚仅获道歉",
+        "onboard_time": 1753072282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624875,
+        "num": 624875,
+        "word": "山姆给中产丢脸了",
+        "onboard_time": 1753070423,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620423,
+        "num": 620423,
+        "word": "程潇向妈妈坦白生病真相",
+        "onboard_time": 1753065801,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563088,
+        "num": 563088,
+        "word": "中华小当家男主被处决",
+        "onboard_time": 1753066880,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 559679,
+        "num": 559679,
+        "word": "敖瑞鹏参加过22年重庆山火救援",
+        "onboard_time": 1753070001,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488159,
+        "num": 488159,
+        "word": "严浩翔养猫",
+        "onboard_time": 1753073122,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485172,
+        "num": 485172,
+        "word": "赵露思ELLE首封",
+        "onboard_time": 1753068382,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470297,
+        "num": 470297,
+        "word": "网红靠骂游戏诱导家长买高价课",
+        "onboard_time": 1753072463,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435457,
+        "num": 435457,
+        "word": "崔始源 我以后会常用微博",
+        "onboard_time": 1753070661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81805,
+        "num": 421963,
+        "word": "植村秀专业美发蔡徐坤",
+        "onboard_time": 1753074623,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408728,
+        "num": 408728,
+        "word": "一看就是刘亦菲拍的",
+        "onboard_time": 1753070600,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243867,
+        "num": 243867,
+        "word": "血铅事件27人被追责问责",
+        "onboard_time": 1753011141,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 157627,
+        "num": 237237,
+        "word": "有名的人",
+        "onboard_time": 1753074563,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199512,
+        "num": 233257,
+        "word": "景甜37岁晒照庆生",
+        "onboard_time": 1753074682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233032,
+        "num": 233032,
+        "word": "单依纯回应编曲两级评价",
+        "onboard_time": 1753074862,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61831,
+        "num": 228083,
+        "word": "花4万送孩子戒网瘾遭暴力胁迫",
+        "onboard_time": 1753075281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263582,
+        "num": 228051,
+        "word": "旺仔小乔演唱会 不露脸",
+        "onboard_time": 1753025841,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223980,
+        "num": 223980,
+        "word": "12306回应高铁座椅消毒情况",
+        "onboard_time": 1753073782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217653,
+        "num": 217653,
+        "word": "王源鸟巢",
+        "onboard_time": 1753065681,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216272,
+        "num": 216272,
+        "word": "欧阳妮妮儿子鼻泪管阻塞",
+        "onboard_time": 1753072403,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210687,
+        "num": 210687,
+        "word": "农村大席很少有人吃坏肚子",
+        "onboard_time": 1753067242,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212220,
+        "num": 210679,
+        "word": "余茵从电子厂打工到演厂长被认可",
+        "onboard_time": 1753069161,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208833,
+        "num": 208833,
+        "word": "三个少年直播",
+        "onboard_time": 1753074982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196882,
+        "num": 196882,
+        "word": "心动的信号",
+        "onboard_time": 1753072883,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185734,
+        "num": 185734,
+        "word": "陈楚生说婚姻是让自己快乐舒适的",
+        "onboard_time": 1753075342,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177985,
+        "num": 177985,
+        "word": "田栩宁满屏都是留言",
+        "onboard_time": 1753067481,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173124,
+        "num": 173124,
+        "word": "台风韦帕强度将再度发展",
+        "onboard_time": 1753068562,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159311,
+        "num": 159311,
+        "word": "这下轮到哈妮克孜上恋综了",
+        "onboard_time": 1753069762,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134138,
+        "num": 153289,
+        "word": "山西稷山通报农村公厕未能正常开放",
+        "onboard_time": 1753072702,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 153251,
+        "num": 153251,
+        "word": "县委书记挪用6500万用于私利工程",
+        "onboard_time": 1753072282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151025,
+        "num": 151025,
+        "word": "梓渝神图的诞生",
+        "onboard_time": 1753057461,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142289,
+        "num": 142289,
+        "word": "李诞说谢霆锋做评委比做选手还用心",
+        "onboard_time": 1753074682,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139203,
+        "num": 139203,
+        "word": "杨超越 今天是太阳雨",
+        "onboard_time": 1753075761,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73627,
+        "num": 138869,
+        "word": "警方通报昆明机动车撞人事件",
+        "onboard_time": 1753075941,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15355,
+        "num": 138625,
+        "word": "为何我们爱在火车上吃泡面",
+        "onboard_time": 1753075941,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 138572,
+        "num": 138572,
+        "word": "一个人与一群人吃火锅的区别",
+        "onboard_time": 1753072163,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137948,
+        "num": 137948,
+        "word": "徐州从哪里摇来这么多冠军脸",
+        "onboard_time": 1753074923,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136345,
+        "num": 136345,
+        "word": "易烊千玺2025演唱会礐嶨",
+        "onboard_time": 1753067722,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136178,
+        "num": 136178,
+        "word": "seventeen巡演",
+        "onboard_time": 1753075761,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134818,
+        "num": 134818,
+        "word": "甘肃疾控中心严重违反操作规程",
+        "onboard_time": 1753013963,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134112,
+        "num": 134112,
+        "word": "侯佩岑加盟喜单2",
+        "onboard_time": 1753074322,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40324,
+        "num": 132420,
+        "word": "我国快递连续11年霸榜世界第一",
+        "onboard_time": 1753075823,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132316,
+        "num": 132316,
+        "word": "王俊凯代言花西子",
+        "onboard_time": 1753066401,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129449,
+        "num": 129449,
+        "word": "明媒善娶",
+        "onboard_time": 1753071262,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127499,
+        "num": 127499,
+        "word": "印度两兄弟同娶一新娘",
+        "onboard_time": 1753057702,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117374,
+        "num": 117374,
+        "word": "碰瓷中国游客的日本网红当选议员",
+        "onboard_time": 1753073302,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}

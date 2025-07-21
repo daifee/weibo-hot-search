@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753074142551,
+  "endTime": 1753076065489,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 949083,
+      "num": 949083,
+      "word": "昆明交通事故致2死9伤",
+      "onboard_time": 1753075761,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 937551,
       "num": 937551,
       "word": "天禄",
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 915461,
+      "num": 915461,
+      "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
+      "onboard_time": 1753071802,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 898066,
       "num": 306824,
       "word": "印度两兄弟同娶一新娘",
@@ -281,14 +297,6 @@
       "onboard_time": 1753025841,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 874981,
-      "num": 874981,
-      "word": "母亲嫌女儿未婚产子丢人将婴儿遗弃",
-      "onboard_time": 1753071802,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 869349,
@@ -425,6 +433,14 @@
       "onboard_time": 1753012222,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 700501,
+      "num": 700501,
+      "word": "女子被造黄谣失业抑郁离婚仅获道歉",
+      "onboard_time": 1753072282,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 694045,
@@ -739,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470297,
+      "num": 551948,
+      "word": "网红靠骂游戏诱导家长买高价课",
+      "onboard_time": 1753072463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469466,
       "num": 325914,
       "word": "梓渝凌晨彩排",
@@ -825,14 +849,6 @@
       "onboard_time": 1753010601,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 411516,
-      "num": 411516,
-      "word": "女子被造黄谣失业抑郁离婚仅获道歉",
-      "onboard_time": 1753072282,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409700,
@@ -1120,14 +1136,6 @@
       "word": "台风韦帕登陆范围再次西移",
       "onboard_time": 1752936323,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295848,
-      "num": 551948,
-      "word": "网红靠骂游戏诱导家长买高价课",
-      "onboard_time": 1753072463,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1443,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233032,
+      "num": 233032,
+      "word": "单依纯回应编曲两级评价",
+      "onboard_time": 1753074862,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232704,
       "num": 232704,
       "word": "鹿晗跳kiyomi了",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1753011262,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 223980,
+      "num": 223980,
+      "word": "12306回应高铁座椅消毒情况",
+      "onboard_time": 1753073782,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223530,
@@ -1588,7 +1612,7 @@
     },
     {
       "raw_hot": 216359,
-      "num": 201796,
+      "num": 216272,
       "word": "欧阳妮妮儿子鼻泪管阻塞",
       "onboard_time": 1753072403,
       "rank": 25,
@@ -1596,7 +1620,7 @@
     },
     {
       "raw_hot": 215717,
-      "num": 876011,
+      "num": 916843,
       "word": "第一次从这个视角看高铁洗澡",
       "onboard_time": 1753069161,
       "rank": 2,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1752986602,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208833,
+      "num": 208833,
+      "word": "三个少年直播",
+      "onboard_time": 1753074982,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 208011,
@@ -1785,6 +1817,14 @@
       "onboard_time": 1753015344,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199512,
+      "num": 233257,
+      "word": "景甜37岁晒照庆生",
+      "onboard_time": 1753074682,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 199474,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1753006822,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185734,
+      "num": 185734,
+      "word": "陈楚生说婚姻是让自己快乐舒适的",
+      "onboard_time": 1753075342,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 185356,
@@ -2515,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157627,
+      "num": 237237,
+      "word": "有名的人",
+      "onboard_time": 1753074563,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157411,
       "num": 242419,
       "word": "陈梦准备恢复训练了",
@@ -2795,14 +2851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144777,
-      "num": 144777,
-      "word": "12306回应高铁座椅消毒情况",
-      "onboard_time": 1753073782,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144759,
       "num": 144759,
       "word": "丁禹兮尹浩宇谁说内娱没有齐舞",
@@ -2867,6 +2915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142289,
+      "num": 142289,
+      "word": "李诞说谢霆锋做评委比做选手还用心",
+      "onboard_time": 1753074682,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142114,
       "num": 107101,
       "word": "梓渝捂得好严实",
@@ -2913,6 +2969,14 @@
       "onboard_time": 1753053859,
       "rank": 46,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 139203,
+      "num": 139203,
+      "word": "杨超越 今天是太阳雨",
+      "onboard_time": 1753075761,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 139106,
@@ -2963,11 +3027,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137948,
+      "num": 137948,
+      "word": "徐州从哪里摇来这么多冠军脸",
+      "onboard_time": 1753074923,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137402,
       "num": 165367,
       "word": "王祖蓝感谢郑恺",
       "onboard_time": 1752974719,
       "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 136178,
+      "num": 136178,
+      "word": "seventeen巡演",
+      "onboard_time": 1753075761,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -3009,6 +3089,22 @@
       "onboard_time": 1752994881,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134138,
+      "num": 153289,
+      "word": "山西稷山通报农村公厕未能正常开放",
+      "onboard_time": 1753072702,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 134112,
+      "num": 134112,
+      "word": "侯佩岑加盟喜单2",
+      "onboard_time": 1753074322,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 133913,
@@ -4283,6 +4379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81805,
+      "num": 421963,
+      "word": "植村秀专业美发蔡徐坤",
+      "onboard_time": 1753074623,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 81273,
       "num": 139914,
       "word": "漫展古风小生都有马塑了",
@@ -4377,6 +4481,14 @@
       "onboard_time": 1752990322,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73627,
+      "num": 138869,
+      "word": "警方通报昆明机动车撞人事件",
+      "onboard_time": 1753075941,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 72793,
@@ -4519,6 +4631,14 @@
       "num": 230464,
       "word": "台风一线185大个子记者被吹着走",
       "onboard_time": 1752993741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61831,
+      "num": 228083,
+      "word": "花4万送孩子戒网瘾遭暴力胁迫",
+      "onboard_time": 1753075281,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -4819,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40324,
+      "num": 132420,
+      "word": "我国快递连续11年霸榜世界第一",
+      "onboard_time": 1753075823,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40170,
       "num": 42023,
       "word": "女兵军考688分被国防科大录取",
@@ -5081,6 +5209,14 @@
       "onboard_time": 1752953355,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15355,
+      "num": 138625,
+      "word": "为何我们爱在火车上吃泡面",
+      "onboard_time": 1753075941,
+      "rank": 38,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 13772,
