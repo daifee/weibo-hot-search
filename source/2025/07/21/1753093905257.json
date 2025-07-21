@@ -1,0 +1,410 @@
+{
+  "runTime": 1753093905257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 647989,
+        "num": 1103678,
+        "word": "韩国女子咬断性侵者舌头61年后重审",
+        "onboard_time": 1753081283,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 591083,
+        "num": 591083,
+        "word": "现在就出发",
+        "onboard_time": 1753088301,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85415,
+        "num": 556112,
+        "word": "新一轮台风周三起影响我国",
+        "onboard_time": 1753081162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1408178,
+        "num": 553155,
+        "word": "袁姗姗真去哀牢山拍戏了",
+        "onboard_time": 1753091062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521981,
+        "num": 521981,
+        "word": "男子地铁持刀刺人被学生死死抱住",
+        "onboard_time": 1753086202,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 504574,
+        "num": 504574,
+        "word": "农夫山泉回应红色尖叫被炒至88一瓶",
+        "onboard_time": 1753085842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806865,
+        "num": 468368,
+        "word": "旺仔小乔掉粉",
+        "onboard_time": 1753085542,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407849,
+        "num": 407849,
+        "word": "朴彩英五场跳错四场",
+        "onboard_time": 1753084402,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368176,
+        "num": 368176,
+        "word": "网传尚公主阵容",
+        "onboard_time": 1753089141,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341055,
+        "num": 341055,
+        "word": "单依纯谈常石磊很爱她",
+        "onboard_time": 1753085061,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1214520,
+        "num": 331974,
+        "word": "曝何聪睿刘念恋情",
+        "onboard_time": 1753090702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707817,
+        "num": 329908,
+        "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
+        "onboard_time": 1753090581,
+        "rank": 11,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 380921,
+        "num": 325896,
+        "word": "李惠利柳俊烈分手后首次见面",
+        "onboard_time": 1753077201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319253,
+        "num": 319253,
+        "word": "男子强奸嫂子杀害见义勇为者二审开庭",
+        "onboard_time": 1753082720,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315685,
+        "num": 315685,
+        "word": "韩空难中期调查结果为飞行员误关引擎",
+        "onboard_time": 1753091242,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86302,
+        "num": 311985,
+        "word": "于适直播",
+        "onboard_time": 1753091062,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278486,
+        "num": 306944,
+        "word": "梓渝提词器",
+        "onboard_time": 1753086441,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 644915,
+        "num": 303453,
+        "word": "女子回应遭强奸被杀2次死里逃生",
+        "onboard_time": 1753080742,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211870,
+        "num": 296834,
+        "word": "张予曦毕雯珺cha了美美桑内",
+        "onboard_time": 1753092202,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171539,
+        "num": 291586,
+        "word": "何文忠受贿2.89亿余元",
+        "onboard_time": 1753091902,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287896,
+        "num": 287896,
+        "word": "Tarzan发文",
+        "onboard_time": 1753090642,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279731,
+        "num": 279731,
+        "word": "世界之外",
+        "onboard_time": 1753091421,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260314,
+        "num": 260314,
+        "word": "昆明交通事故致2死9伤",
+        "onboard_time": 1753075761,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255963,
+        "num": 255963,
+        "word": "男子爬五台山时突然晕倒去世",
+        "onboard_time": 1753086202,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255959,
+        "num": 255959,
+        "word": "CEO出轨梗",
+        "onboard_time": 1753092202,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228953,
+        "num": 228953,
+        "word": "田栩宁这腿是真的长",
+        "onboard_time": 1753091961,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228654,
+        "num": 228654,
+        "word": "敖子逸 这衣服上电视穿不得",
+        "onboard_time": 1753087463,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192835,
+        "num": 192835,
+        "word": "孟子义何与巧克力亲子装",
+        "onboard_time": 1753093401,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181391,
+        "num": 181391,
+        "word": "录到肖战改名那一瞬间了",
+        "onboard_time": 1753080801,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179257,
+        "num": 179257,
+        "word": "杨紫访谈完整版",
+        "onboard_time": 1753088421,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173887,
+        "num": 173887,
+        "word": "赵露思五年前第一次走红毯",
+        "onboard_time": 1753091002,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173596,
+        "num": 173596,
+        "word": "当你喊外卖小哥全名",
+        "onboard_time": 1753092561,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168173,
+        "num": 168173,
+        "word": "三伏天 轻断食",
+        "onboard_time": 1753080442,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155094,
+        "num": 155094,
+        "word": "真的没人能管管现在的面包店了吗",
+        "onboard_time": 1753088842,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152831,
+        "num": 152831,
+        "word": "考古到了李兰迪的妈妈",
+        "onboard_time": 1753089742,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147790,
+        "num": 147790,
+        "word": "男子嫌妻子开车慢当街打断其肋骨",
+        "onboard_time": 1753078342,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136645,
+        "num": 136645,
+        "word": "田栩宁上身身材",
+        "onboard_time": 1753077983,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133670,
+        "num": 133670,
+        "word": "吴磊 花泽磊",
+        "onboard_time": 1753091362,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128228,
+        "num": 128228,
+        "word": "乒超第二阶段推出包厢票",
+        "onboard_time": 1753092502,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127117,
+        "num": 127117,
+        "word": "三伏天是提升状态的好时候",
+        "onboard_time": 1753089921,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126781,
+        "num": 126781,
+        "word": "菲律宾火锅店射杀中国人嫌犯落网",
+        "onboard_time": 1753082002,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121117,
+        "num": 121117,
+        "word": "穷小孩的人生是从30岁开始的",
+        "onboard_time": 1753086022,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120840,
+        "num": 120840,
+        "word": "涉及超2亿学生的餐食国标来了",
+        "onboard_time": 1753082002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118980,
+        "num": 118980,
+        "word": "不要修16岁拍的照片",
+        "onboard_time": 1753086802,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116049,
+        "num": 116049,
+        "word": "小狗在虞书欣床上尿尿",
+        "onboard_time": 1753083322,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113714,
+        "num": 113714,
+        "word": "沈月一直走上坡路吧",
+        "onboard_time": 1753093882,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113000,
+        "num": 113000,
+        "word": "费曼画画天赋",
+        "onboard_time": 1753087942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112129,
+        "num": 112129,
+        "word": "檀健次对接确认好六录制",
+        "onboard_time": 1753092441,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111366,
+        "num": 111366,
+        "word": "袁姗姗登山被蚂蝗爬小腿",
+        "onboard_time": 1753091961,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110433,
+        "num": 110433,
+        "word": "男子偷了商店53只右脚鞋又还回51只",
+        "onboard_time": 1753087402,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}

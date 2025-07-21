@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753091445076,
+  "endTime": 1753093905257,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1408178,
+      "num": 553155,
+      "word": "袁姗姗真去哀牢山拍戏了",
+      "onboard_time": 1753091062,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1403166,
       "num": 1403166,
       "word": "于适 很多人在搞我",
@@ -217,6 +225,14 @@
       "onboard_time": 1753005622,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1214520,
+      "num": 331974,
+      "word": "曝何聪睿刘念恋情",
+      "onboard_time": 1753090702,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1211637,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707817,
+      "num": 329908,
+      "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
+      "onboard_time": 1753090581,
+      "rank": 11,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 706414,
       "num": 420831,
       "word": "建议35岁之前不要买车买房",
@@ -561,6 +585,14 @@
       "onboard_time": 1753020626,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591083,
+      "num": 591083,
+      "word": "现在就出发",
+      "onboard_time": 1753088301,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 589856,
@@ -651,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 554001,
-      "num": 403471,
-      "word": "现在就出发",
-      "onboard_time": 1753088301,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 553364,
       "num": 553364,
       "word": "女子27万存款差2天到期执意要取",
@@ -697,14 +721,6 @@
       "onboard_time": 1753076240,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531238,
-      "num": 290402,
-      "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
-      "onboard_time": 1753090581,
-      "rank": 11,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 531187,
@@ -1219,14 +1235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341955,
-      "num": 277955,
-      "word": "曝何聪睿刘念恋情",
-      "onboard_time": 1753090702,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341883,
       "num": 341883,
       "word": "陈梦妈妈谈大姐去世泪崩",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1753087463,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315685,
+      "num": 315685,
+      "word": "韩空难中期调查结果为飞行员误关引擎",
+      "onboard_time": 1753091242,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 312091,
@@ -1459,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287896,
+      "num": 287896,
+      "word": "Tarzan发文",
+      "onboard_time": 1753090642,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287669,
       "num": 287669,
       "word": "杨舒予哭了",
@@ -1489,6 +1513,14 @@
       "onboard_time": 1753067722,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279731,
+      "num": 279731,
+      "word": "世界之外",
+      "onboard_time": 1753091421,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 276876,
@@ -1691,6 +1723,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 255959,
+      "num": 255959,
+      "word": "CEO出轨梗",
+      "onboard_time": 1753092202,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 254764,
       "num": 235283,
       "word": "香奈儿否认自己是扁平足",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1752983422,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228953,
+      "num": 228953,
+      "word": "田栩宁这腿是真的长",
+      "onboard_time": 1753091961,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 228699,
@@ -2035,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211870,
+      "num": 296834,
+      "word": "张予曦毕雯珺cha了美美桑内",
+      "onboard_time": 1753092202,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211468,
       "num": 211468,
       "word": "大学四年健身杀死了我的自卑",
@@ -2129,14 +2185,6 @@
       "onboard_time": 1753011442,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205042,
-      "num": 195042,
-      "word": "Tarzan发文",
-      "onboard_time": 1753090642,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 204538,
@@ -2347,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192835,
+      "num": 192835,
+      "word": "孟子义何与巧克力亲子装",
+      "onboard_time": 1753093401,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192787,
       "num": 209210,
       "word": "刘耀文炫MV",
@@ -2499,14 +2555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186327,
-      "num": 186327,
-      "word": "袁姗姗真去哀牢山拍戏了",
-      "onboard_time": 1753091062,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186040,
       "num": 186040,
       "word": "歪嘴战神",
@@ -2609,6 +2657,14 @@
       "onboard_time": 1752972139,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179257,
+      "num": 179257,
+      "word": "杨紫访谈完整版",
+      "onboard_time": 1753088421,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 178709,
@@ -2731,12 +2787,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 173887,
+      "num": 173887,
+      "word": "赵露思五年前第一次走红毯",
+      "onboard_time": 1753091002,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 173736,
       "num": 173736,
       "word": "MRC对战DOU5",
       "onboard_time": 1753003161,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173596,
+      "num": 173596,
+      "word": "当你喊外卖小哥全名",
+      "onboard_time": 1753092561,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 173373,
@@ -2777,6 +2849,14 @@
       "onboard_time": 1753063161,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171539,
+      "num": 291586,
+      "word": "何文忠受贿2.89亿余元",
+      "onboard_time": 1753091902,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171293,
@@ -3219,6 +3299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152831,
+      "num": 152831,
+      "word": "考古到了李兰迪的妈妈",
+      "onboard_time": 1753089742,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152746,
       "num": 264336,
       "word": "朝雪录待嫁少女连环被害",
@@ -3443,14 +3531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145418,
-      "num": 145418,
-      "word": "考古到了李兰迪的妈妈",
-      "onboard_time": 1753089742,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145374,
       "num": 145374,
       "word": "看到评论区这么刻薄我就放心了",
@@ -3515,28 +3595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143258,
-      "num": 143258,
-      "word": "世界之外",
-      "onboard_time": 1753091421,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 143051,
       "num": 143051,
       "word": "原神",
       "onboard_time": 1752987982,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142481,
-      "num": 142481,
-      "word": "赵露思五年前第一次走红毯",
-      "onboard_time": 1753091002,
-      "rank": 44,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 142321,
@@ -3779,6 +3843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133670,
+      "num": 133670,
+      "word": "吴磊 花泽磊",
+      "onboard_time": 1753091362,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133665,
       "num": 133665,
       "word": "TES战胜IG",
@@ -3875,14 +3947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130257,
-      "num": 130257,
-      "word": "韩空难中期调查结果为飞行员误关引擎",
-      "onboard_time": 1753091242,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 130233,
       "num": 130233,
       "word": "你身边有人一件衣服穿一年吗",
@@ -3955,12 +4019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128398,
-      "num": 128398,
-      "word": "杨紫访谈完整版",
-      "onboard_time": 1753088421,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 128228,
+      "num": 128228,
+      "word": "乒超第二阶段推出包厢票",
+      "onboard_time": 1753092502,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 128215,
@@ -4001,6 +4065,14 @@
       "onboard_time": 1753005622,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127117,
+      "num": 249268,
+      "word": "三伏天是提升状态的好时候",
+      "onboard_time": 1753089921,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127016,
@@ -4187,14 +4259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122854,
-      "num": 122854,
-      "word": "吴磊 花泽磊",
-      "onboard_time": 1753091362,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122411,
       "num": 122411,
       "word": "石宇奇夺本赛季第三冠",
@@ -4265,14 +4329,6 @@
       "onboard_time": 1752980542,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120332,
-      "num": 249268,
-      "word": "三伏天是提升状态的好时候",
-      "onboard_time": 1753089921,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120302,
@@ -4491,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113714,
+      "num": 113714,
+      "word": "沈月一直走上坡路吧",
+      "onboard_time": 1753093882,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113437,
       "num": 113437,
       "word": "林更新爬武当山红温了",
@@ -4563,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112129,
+      "num": 112129,
+      "word": "檀健次对接确认好六录制",
+      "onboard_time": 1753092441,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111635,
       "num": 111635,
       "word": "摄像机关一下就能解决吗",
@@ -4593,6 +4665,14 @@
       "onboard_time": 1752993261,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111366,
+      "num": 111366,
+      "word": "袁姗姗登山被蚂蝗爬小腿",
+      "onboard_time": 1753091961,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 111048,
@@ -4916,7 +4996,7 @@
     },
     {
       "raw_hot": 102430,
-      "num": 284117,
+      "num": 311985,
       "word": "于适直播",
       "onboard_time": 1753091062,
       "rank": 15,
@@ -5259,6 +5339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85415,
+      "num": 945577,
+      "word": "新一轮台风周三起影响我国",
+      "onboard_time": 1753081162,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85104,
       "num": 85104,
       "word": "公牛签约河村勇辉",
@@ -5289,14 +5377,6 @@
       "onboard_time": 1753065501,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82764,
-      "num": 945577,
-      "word": "新一轮台风周三起影响我国",
-      "onboard_time": 1753081162,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82377,
