@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753191842948,
+  "endTime": 1753192577346,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1131326,
+      "num": 292869,
+      "word": "公职人员回应兼职下班送外卖",
+      "onboard_time": 1753188321,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1119587,
       "num": 340165,
       "word": "旺仔小乔 恋爱告急",
@@ -385,14 +393,6 @@
       "onboard_time": 1753065801,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1094534,
-      "num": 292869,
-      "word": "公职人员回应兼职下班送外卖",
-      "onboard_time": 1753188321,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1092685,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 771154,
+      "num": 771154,
+      "word": "朝雪录热度",
+      "onboard_time": 1753016126,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 767113,
       "num": 767113,
       "word": "韩国烤肉店一片肥肉70多元人民币",
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676532,
+      "num": 676532,
+      "word": "天梭 虞书欣",
+      "onboard_time": 1753189343,
+      "rank": 8,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 675116,
       "num": 675116,
       "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
@@ -915,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 635639,
-      "num": 635639,
-      "word": "天梭 虞书欣",
-      "onboard_time": 1753189343,
-      "rank": 8,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 633642,
       "num": 633642,
       "word": "住房租赁条例2025年9月15日起施行",
@@ -937,14 +945,6 @@
       "onboard_time": 1753057461,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 621313,
-      "num": 594401,
-      "word": "朝雪录热度",
-      "onboard_time": 1753016126,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 617449,
@@ -1835,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387187,
+      "num": 387187,
+      "word": "曝美国将退出联合国教科文组织",
+      "onboard_time": 1753188383,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 386745,
       "num": 386745,
       "word": "王楚钦解释夺冠背影照",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1753094541,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 377570,
-      "num": 377570,
-      "word": "曝美国将退出联合国教科文组织",
-      "onboard_time": 1753188383,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 377170,
@@ -2971,6 +2971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233834,
+      "num": 233834,
+      "word": "张继科办赛前曾和马龙樊振东联系",
+      "onboard_time": 1753188261,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "单依纯回应编曲两级评价",
@@ -3065,14 +3073,6 @@
       "onboard_time": 1753024345,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222353,
-      "num": 222353,
-      "word": "张继科办赛前曾和马龙樊振东联系",
-      "onboard_time": 1753188261,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 221944,
@@ -3289,6 +3289,14 @@
       "onboard_time": 1753072163,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 213922,
+      "num": 213922,
+      "word": "韩国今年爆火的男演员",
+      "onboard_time": 1753186640,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 213890,
@@ -3939,6 +3947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188245,
+      "num": 294227,
+      "word": "今年三伏天为啥少了10天",
+      "onboard_time": 1753187062,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187707,
       "num": 187707,
       "word": "马頔喻言都想把黄誉博嘴捂上",
@@ -4073,14 +4089,6 @@
       "onboard_time": 1753145061,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184048,
-      "num": 184048,
-      "word": "韩国今年爆火的男演员",
-      "onboard_time": 1753186640,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 183232,
@@ -4649,6 +4657,14 @@
       "onboard_time": 1753016848,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168565,
+      "num": 268740,
+      "word": "贵州茅台出资4.9亿成立科研公司",
+      "onboard_time": 1753191143,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168443,
@@ -5339,14 +5355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150435,
-      "num": 294227,
-      "word": "今年三伏天为啥少了10天",
-      "onboard_time": 1753187062,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150419,
       "num": 150419,
       "word": "王力宏时隔14年再唱伯牙绝弦",
@@ -5665,14 +5673,6 @@
       "onboard_time": 1752920962,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143515,
-      "num": 143515,
-      "word": "贵州茅台出资4.9亿成立科研公司",
-      "onboard_time": 1753191143,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143397,
@@ -6963,6 +6963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118151,
+      "num": 229167,
+      "word": "Rain法拉利老了还是法拉利",
+      "onboard_time": 1753180703,
+      "rank": 19,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 118111,
       "num": 178994,
       "word": "珠海全市停课停工停产停运停业",
@@ -7009,6 +7017,22 @@
       "onboard_time": 1753164082,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 116731,
+      "num": 116731,
+      "word": "新疆姑娘公路上高举免费取餐",
+      "onboard_time": 1753191263,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 116703,
+      "num": 143926,
+      "word": "网友和鹿晗四年前合影",
+      "onboard_time": 1753190482,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 116699,
@@ -7153,14 +7177,6 @@
       "onboard_time": 1753156461,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115010,
-      "num": 143926,
-      "word": "网友和鹿晗四年前合影",
-      "onboard_time": 1753190482,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 114994,
@@ -7361,14 +7377,6 @@
       "onboard_time": 1752976461,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112136,
-      "num": 229167,
-      "word": "Rain法拉利老了还是法拉利",
-      "onboard_time": 1753180703,
-      "rank": 19,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 112129,
@@ -7843,14 +7851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103727,
-      "num": 103727,
-      "word": "新疆姑娘公路上高举免费取餐",
-      "onboard_time": 1753191263,
-      "rank": 41,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 103472,
       "num": 103472,
       "word": "NIP战胜LNG",
@@ -8097,6 +8097,14 @@
       "onboard_time": 1753167981,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98219,
+      "num": 98219,
+      "word": "王子铭破门",
+      "onboard_time": 1753191983,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 98061,
@@ -8667,6 +8675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76061,
+      "num": 76061,
+      "word": "徐明浩这段我的解药",
+      "onboard_time": 1753192402,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75724,
       "num": 75724,
       "word": "刘宇宁连发9条感谢晒演唱会花篮",
@@ -9148,7 +9164,7 @@
     },
     {
       "raw_hot": 55633,
-      "num": 762411,
+      "num": 783539,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,
@@ -9505,6 +9521,14 @@
       "onboard_time": 1753162282,
       "rank": 34,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 40011,
+      "num": 143675,
+      "word": "摘豆角大爷大娘排队贴甲片",
+      "onboard_time": 1753191683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39411,
@@ -9969,14 +9993,6 @@
       "onboard_time": 1753023986,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21615,
-      "num": 143675,
-      "word": "摘豆角大爷大娘排队贴甲片",
-      "onboard_time": 1753191683,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21418,

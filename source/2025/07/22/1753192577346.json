@@ -1,0 +1,410 @@
+{
+  "runTime": 1753192577346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564302,
+        "num": 1564302,
+        "word": "微信能自动发消息了",
+        "onboard_time": 1753177822,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 868960,
+        "num": 868960,
+        "word": "错付1010元车费索要无果数日后轻生",
+        "onboard_time": 1753182141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48399,
+        "num": 783539,
+        "word": "万千气象看新疆",
+        "onboard_time": 1753188441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771154,
+        "num": 771154,
+        "word": "朝雪录热度",
+        "onboard_time": 1753190663,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676532,
+        "num": 676532,
+        "word": "天梭 虞书欣",
+        "onboard_time": 1753189343,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 469738,
+        "num": 469738,
+        "word": "疑被骗缅北男生母亲称没业绩或被打死",
+        "onboard_time": 1753183880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387187,
+        "num": 387187,
+        "word": "曝美国将退出联合国教科文组织",
+        "onboard_time": 1753188383,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285589,
+        "num": 285589,
+        "word": "知名男演员度假期间被海浪卷走身亡",
+        "onboard_time": 1753178002,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273892,
+        "num": 273892,
+        "word": "男子下载app炒股1个月以为赚300万",
+        "onboard_time": 1753178661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168565,
+        "num": 268740,
+        "word": "贵州茅台出资4.9亿成立科研公司",
+        "onboard_time": 1753191143,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1131326,
+        "num": 266201,
+        "word": "公职人员回应兼职下班送外卖",
+        "onboard_time": 1753188321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 732722,
+        "num": 261774,
+        "word": "赵美延问中国最火美女是谁",
+        "onboard_time": 1753185442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620128,
+        "num": 256671,
+        "word": "于正 本人近照巨帅别羡慕",
+        "onboard_time": 1753184301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434632,
+        "num": 249876,
+        "word": "胡先煦你让我有点陌生了",
+        "onboard_time": 1753186102,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22696,
+        "num": 244839,
+        "word": "扫毒风暴到底埋了多少条暗线",
+        "onboard_time": 1753189282,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411142,
+        "num": 235513,
+        "word": "柴鸡蛋把身后的豆橛子摘了",
+        "onboard_time": 1753187601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233834,
+        "num": 233834,
+        "word": "张继科办赛前曾和马龙樊振东联系",
+        "onboard_time": 1753188261,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215255,
+        "num": 215255,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213922,
+        "num": 213922,
+        "word": "韩国今年爆火的男演员",
+        "onboard_time": 1753186640,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204270,
+        "num": 204270,
+        "word": "王楚钦解释夺冠背影照",
+        "onboard_time": 1753182440,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232206,
+        "num": 202622,
+        "word": "朝雪录27.4%登顶",
+        "onboard_time": 1753188682,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197282,
+        "num": 197282,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188245,
+        "num": 188245,
+        "word": "今年三伏天为啥少了10天",
+        "onboard_time": 1753187062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183493,
+        "num": 183493,
+        "word": "错付车费索要无果后轻生家属发声",
+        "onboard_time": 1753185561,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159356,
+        "num": 159356,
+        "word": "2人带婴儿入境遇检查扔下孩子就跑",
+        "onboard_time": 1753178721,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139908,
+        "num": 139908,
+        "word": "特斯拉销量冠军因SU7加了定语",
+        "onboard_time": 1753187421,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138980,
+        "num": 138980,
+        "word": "马龙晒50元布达拉宫打卡照",
+        "onboard_time": 1753185922,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134268,
+        "num": 134268,
+        "word": "华东理工大学录取通知书涉嫌抄袭",
+        "onboard_time": 1753178541,
+        "rank": 27,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 111616,
+        "num": 118380,
+        "word": "李兰迪怎么是邓超型人格",
+        "onboard_time": 1753177042,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40011,
+        "num": 118191,
+        "word": "摘豆角大爷大娘排队贴甲片",
+        "onboard_time": 1753191683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118151,
+        "num": 118151,
+        "word": "Rain法拉利老了还是法拉利",
+        "onboard_time": 1753180703,
+        "rank": 30,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 116731,
+        "num": 116731,
+        "word": "新疆姑娘公路上高举免费取餐",
+        "onboard_time": 1753191263,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116703,
+        "num": 116703,
+        "word": "网友和鹿晗四年前合影",
+        "onboard_time": 1753190482,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105417,
+        "num": 105417,
+        "word": "间谍过家家",
+        "onboard_time": 1753190063,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98974,
+        "num": 98974,
+        "word": "iG对战WE",
+        "onboard_time": 1753190243,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98219,
+        "num": 98219,
+        "word": "王子铭破门",
+        "onboard_time": 1753191983,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97662,
+        "num": 97662,
+        "word": "严浩翔最尴尬的十五秒",
+        "onboard_time": 1753189761,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96152,
+        "num": 96152,
+        "word": "杭州3岁男童18楼坠下奇迹生还",
+        "onboard_time": 1753173381,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94263,
+        "num": 94263,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93984,
+        "num": 93984,
+        "word": "杜宾犬未拴绳起冲突养狗人登门道歉",
+        "onboard_time": 1753184901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91650,
+        "num": 91650,
+        "word": "温以凡你怎么能这么对桑延呢",
+        "onboard_time": 1753183700,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87057,
+        "num": 87057,
+        "word": "陈少熙火龙果变芒果",
+        "onboard_time": 1753191621,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86138,
+        "num": 86138,
+        "word": "青岛西海岸vs北京国安",
+        "onboard_time": 1753191502,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 922903,
+        "num": 86085,
+        "word": "夸克崩了",
+        "onboard_time": 1753184780,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83497,
+        "num": 83497,
+        "word": "韩国海王同时交往19人骗十亿韩元",
+        "onboard_time": 1753185382,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80302,
+        "num": 80302,
+        "word": "3岁男童从18楼坠落多个内脏破损",
+        "onboard_time": 1753176921,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78691,
+        "num": 78691,
+        "word": "见义勇为者家属向被强奸女子索赔132万",
+        "onboard_time": 1753176142,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76795,
+        "num": 76795,
+        "word": "深情眼开播",
+        "onboard_time": 1753188742,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76134,
+        "num": 76134,
+        "word": "肖战工作日常live图",
+        "onboard_time": 1753188441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76061,
+        "num": 76061,
+        "word": "徐明浩这段我的解药",
+        "onboard_time": 1753192402,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
