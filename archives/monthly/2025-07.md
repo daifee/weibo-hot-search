@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/22 23:46:00
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/23 00:36:19
 </p>
 </blockquote>
 <p>
@@ -4815,6 +4815,12 @@ K1373砸窗男子被批评教育（热度：701716）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8B%94%E4%B9%B3%E7%89%99%E5%85%A8%E9%BA%BB%E5%90%8E%E6%AE%92%E5%91%BD%23" target="weibo">
+4岁男童拔乳牙全麻后殒命（热度：699258）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8%E8%87%B4%E5%AE%B6%E9%87%8C%E6%8F%92%E5%BA%A7%E5%87%BA%E6%B0%B4%E6%88%90%E7%80%91%E5%B8%83%23" target="weibo">
 成都暴雨致家里插座出水成瀑布（热度：697235）
 </a>
@@ -5315,6 +5321,12 @@ Oakley 王楚钦（热度：694014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%8F%96%E5%90%8C%E4%B8%80%E4%B8%AAid%23" target="weibo">
 不要全平台取同一个id（热度：659510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E9%AB%98%E4%B8%AD%E7%94%9F%E9%AA%91%E7%94%B5%E5%8A%A8%E4%B8%A4%E8%BD%AE%E8%BD%A6%E6%92%9E%E5%9B%B4%E5%A2%99%E8%BA%AB%E4%BA%A1%23" target="weibo">
+2高中生骑电动两轮车撞围墙身亡（热度：659020）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ G社拍的刘诗诗（热度：619179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%BB%A3%23" target="weibo">
 五代（热度：611385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AE%E5%93%81%20%E5%92%96%E5%95%A1%E5%9B%A0%E8%BF%87%E9%87%8F%23" target="weibo">
-饮品 咖啡因过量（热度：611275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%23" target="weibo">
-泡泡玛特（热度：611087）
 </a>
 </li>
 

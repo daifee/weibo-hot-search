@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753199160251,
+  "endTime": 1753202179262,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -795,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699258,
+      "num": 699258,
+      "word": "4岁男童拔乳牙全麻后殒命",
+      "onboard_time": 1753197082,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 694045,
       "num": 448683,
       "word": "农民工为了12元差点被烤熟",
@@ -881,6 +889,14 @@
       "onboard_time": 1752993801,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 659020,
+      "num": 218871,
+      "word": "2高中生骑电动两轮车撞围墙身亡",
+      "onboard_time": 1753197742,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657496,
@@ -993,14 +1009,6 @@
       "onboard_time": 1753101861,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 610276,
-      "num": 610276,
-      "word": "4岁男童拔乳牙全麻后殒命",
-      "onboard_time": 1753197082,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 608394,
@@ -1756,7 +1764,7 @@
     },
     {
       "raw_hot": 413324,
-      "num": 219125,
+      "num": 268977,
       "word": "家属称4岁侄子全麻拔乳牙身亡",
       "onboard_time": 1753198042,
       "rank": 30,
@@ -1856,6 +1864,14 @@
       "word": "外卖大战被叫停后仍有免费饮料",
       "onboard_time": 1752942502,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392376,
+      "num": 392376,
+      "word": "玩CS从5楼坠亡男生即将高三",
+      "onboard_time": 1753198941,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2001,14 +2017,6 @@
       "onboard_time": 1753076062,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 362983,
-      "num": 218871,
-      "word": "2高中生骑电动两轮车撞围墙身亡",
-      "onboard_time": 1753197742,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360311,
@@ -2347,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310930,
+      "num": 310930,
+      "word": "广东佛山出现基孔肯雅热",
+      "onboard_time": 1753200201,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307697,
       "num": 307697,
       "word": "过了35岁就别让人猜你多少岁了",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1752940101,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 290928,
+      "num": 290928,
+      "word": "朝雪录",
+      "onboard_time": 1753013363,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 289602,
@@ -2713,14 +2737,6 @@
       "onboard_time": 1752985162,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267473,
-      "num": 267473,
-      "word": "朝雪录",
-      "onboard_time": 1753013363,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 266744,
@@ -5851,6 +5867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142685,
+      "num": 142685,
+      "word": "樱桃琥珀15集哭成泪人了",
+      "onboard_time": 1753201159,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142671,
       "num": 142671,
       "word": "王楚钦小心翼翼地出洋相",
@@ -8523,6 +8547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93054,
+      "num": 110189,
+      "word": "网友吐槽一餐厅排队到13年后",
+      "onboard_time": 1753200741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93001,
       "num": 169845,
       "word": "人民网评喜剧之王单口季",
@@ -8601,6 +8633,14 @@
       "onboard_time": 1753097662,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 91099,
+      "num": 182908,
+      "word": "山姆员工称好丽友卫龙皆已下架",
+      "onboard_time": 1753198882,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91006,
@@ -8705,6 +8745,14 @@
       "onboard_time": 1753139357,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87207,
+      "num": 87207,
+      "word": "男子强奸大嫂再杀人辩称是受害者",
+      "onboard_time": 1753200080,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87033,
@@ -9043,6 +9091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 72592,
+      "num": 72592,
+      "word": "一批新大学分数线超985",
+      "onboard_time": 1753201099,
+      "rank": 40,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 70926,
       "num": 119857,
       "word": "梁伟铿王昶晋级中国赛16强",
@@ -9089,6 +9145,14 @@
       "onboard_time": 1752942920,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69361,
+      "num": 69361,
+      "word": "医院回应4岁男童全麻拔乳牙身亡",
+      "onboard_time": 1753199841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68933,
@@ -9153,6 +9217,14 @@
       "onboard_time": 1753114161,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65432,
+      "num": 65432,
+      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
+      "onboard_time": 1753201820,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65227,
@@ -9835,6 +9907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37677,
+      "num": 119361,
+      "word": "人民日报刊文总结上半年国产剧集",
+      "onboard_time": 1753201760,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37227,
       "num": 154243,
       "word": "罗小黑踩坏人的大脚",
@@ -10171,6 +10251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24463,
+      "num": 68051,
+      "word": "发生坠亡事件真人CS商家已停业",
+      "onboard_time": 1753201941,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24009,
+      "num": 136794,
+      "word": "实探男孩玩真人CS坠亡事发地",
+      "onboard_time": 1753201879,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23774,
       "num": 23774,
       "word": "陈立农宁波演唱会",
@@ -10337,22 +10433,6 @@
       "onboard_time": 1753037596,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18012,
-      "num": 182908,
-      "word": "山姆员工称好丽友卫龙皆已下架",
-      "onboard_time": 1753198882,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18008,
-      "num": 178141,
-      "word": "玩CS从5楼坠亡男生即将高三",
-      "onboard_time": 1753198941,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17824,
