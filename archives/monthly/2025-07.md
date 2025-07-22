@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/22 18:49:44
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/22 19:25:10
 </p>
 </blockquote>
 <p>
@@ -303,6 +303,12 @@ AL零封T1（热度：2631639）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E8%87%AA%E5%8A%A8%E5%8F%91%E6%B6%88%E6%81%AF%E4%BA%86%23" target="weibo">
+微信能自动发消息了（热度：2606029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%E5%A5%B3%E5%8F%8B%E7%BD%AE%E9%A1%B6%E5%AE%98%E5%AE%A3%E7%85%A7%23" target="weibo">
 田栩宁女友置顶官宣照（热度：2576779）
 </a>
@@ -569,12 +575,6 @@ Grace淘汰（热度：2072748）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%88%92%E6%8C%87%23" target="weibo">
 关晓彤戒指（热度：1941981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E8%87%AA%E5%8A%A8%E5%8F%91%E6%B6%88%E6%81%AF%E4%BA%86%23" target="weibo">
-微信能自动发消息了（热度：1933786）
 </a>
 </li>
 
@@ -5115,6 +5115,12 @@ Oakley 王楚钦（热度：694014）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23" target="weibo">
+华东理工大学录取通知书涉嫌抄袭（热度：670259）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E8%87%AA%E6%9B%9D%E6%83%B3%E6%8E%A5%E5%90%BB%E6%88%8F%E5%89%A7%E6%9C%AC%23" target="weibo">
 陈乔恩自曝想接吻戏剧本（热度：669747）
 </a>
@@ -5531,12 +5537,6 @@ Angelababy巴黎时装周状态（热度：643550）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E6%94%B9%E9%85%8D%E6%96%B9%23" target="weibo">
 可口可乐回应特朗普要求改配方（热度：640225）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23" target="weibo">
-华东理工大学录取通知书涉嫌抄袭（热度：639769）
 </a>
 </li>
 

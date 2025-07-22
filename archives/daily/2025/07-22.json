@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753181384000,
+  "endTime": 1753183510843,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -9,6 +9,14 @@
       "onboard_time": 1753156343,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2606029,
+      "num": 2606029,
+      "word": "微信能自动发消息了",
+      "onboard_time": 1753177822,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 2138175,
@@ -25,14 +33,6 @@
       "onboard_time": 1753153641,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1933786,
-      "num": 1933786,
-      "word": "微信能自动发消息了",
-      "onboard_time": 1753177822,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1463203,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 670259,
+      "num": 670259,
+      "word": "华东理工大学录取通知书涉嫌抄袭",
+      "onboard_time": 1753178541,
+      "rank": 3,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 661493,
       "num": 661493,
       "word": "捏造粪水谣言网民被刑拘",
@@ -217,14 +225,6 @@
       "onboard_time": 1753142120,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 639769,
-      "num": 639769,
-      "word": "华东理工大学录取通知书涉嫌抄袭",
-      "onboard_time": 1753178541,
-      "rank": 3,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 617449,
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 431948,
+      "num": 431948,
+      "word": "知名男演员度假期间被海浪卷走身亡",
+      "onboard_time": 1753178002,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431411,
       "num": 431411,
       "word": "不停运动3个月瘦了45斤",
@@ -408,6 +416,22 @@
       "word": "梓渝 最懂不良笑花的人出现了",
       "onboard_time": 1753173801,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 424436,
+      "num": 424436,
+      "word": "男子下载app炒股1个月以为赚300万",
+      "onboard_time": 1753178661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415679,
+      "num": 277809,
+      "word": "田栩宁梓渝超话热度",
+      "onboard_time": 1753178122,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -443,20 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391152,
-      "num": 277809,
-      "word": "田栩宁梓渝超话热度",
-      "onboard_time": 1753178122,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388168,
       "num": 388168,
       "word": "白鹿白敬亭入围亚洲内容大赏",
       "onboard_time": 1753147941,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386745,
+      "num": 386745,
+      "word": "王楚钦解释夺冠背影照",
+      "onboard_time": 1753182440,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 383076,
@@ -529,14 +553,6 @@
       "onboard_time": 1753154361,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 338187,
-      "num": 338187,
-      "word": "男子下载app炒股1个月以为赚300万",
-      "onboard_time": 1753178661,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333918,
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277478,
+      "num": 277478,
+      "word": "错付1010元车费索要无果数日后轻生",
+      "onboard_time": 1753182141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275469,
       "num": 275469,
       "word": "1000元收10瓶红色尖叫卖家没卖",
@@ -755,6 +779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239293,
+      "num": 225530,
+      "word": "2人带婴儿入境遇检查扔下孩子就跑",
+      "onboard_time": 1753178721,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237120,
       "num": 256281,
       "word": "李现谈两部芳华里的中式美学",
@@ -803,19 +835,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229398,
+      "num": 229398,
+      "word": "何炅说王嘉尔的喉结太厉害了",
+      "onboard_time": 1753183162,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228056,
       "num": 290107,
       "word": "14年前接住的2岁坠楼女孩还好吗",
       "onboard_time": 1753160723,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225530,
-      "num": 225530,
-      "word": "2人带婴儿入境遇检查扔下孩子就跑",
-      "onboard_time": 1753178721,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -899,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206892,
+      "num": 105721,
+      "word": "孔雪儿今日大婚造型头饰比头大",
+      "onboard_time": 1753181241,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206887,
       "num": 186161,
       "word": "马龙是史上第二位获复刻杯男选手",
@@ -945,6 +985,14 @@
       "onboard_time": 1753169360,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198832,
+      "num": 198832,
+      "word": "杨洋3部剧都和蜘蛛杠上了",
+      "onboard_time": 1753182262,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 198293,
@@ -1123,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174449,
+      "num": 174449,
+      "word": "王楚钦复盘今年多场比赛",
+      "onboard_time": 1753182381,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174004,
       "num": 174004,
       "word": "李晨郑恺背着跑男团去冲浪了",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1753153101,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169716,
-      "num": 171044,
-      "word": "知名男演员度假期间被海浪卷走身亡",
-      "onboard_time": 1753178002,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 166879,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1753161921,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153745,
+      "num": 153745,
+      "word": "一诺打车",
+      "onboard_time": 1753182381,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 152944,
@@ -1531,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135807,
+      "num": 135807,
+      "word": "孙乐言赶飞机plog",
+      "onboard_time": 1753182561,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "记者暗访甲醛检测行业造假黑幕",
@@ -1592,6 +1656,14 @@
       "word": "82人曾打退20倍敌人的进攻",
       "onboard_time": 1753164380,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129671,
+      "num": 129671,
+      "word": "工程师抑郁发作时入室绑架女同事",
+      "onboard_time": 1753180641,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1691,12 +1763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123039,
+      "num": 123039,
+      "word": "四个月宝宝记仇了这是咋回事",
+      "onboard_time": 1753181721,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122934,
       "num": 122934,
       "word": "国产人形机器人能给自己换电池",
       "onboard_time": 1753168700,
       "rank": 32,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 121817,
+      "num": 121817,
+      "word": "连续30天早睡面部的变化",
+      "onboard_time": 1753180462,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 121118,
@@ -1713,6 +1801,14 @@
       "onboard_time": 1753176682,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119807,
+      "num": 119807,
+      "word": "姚晨晒儿子画的中草药图谱",
+      "onboard_time": 1753181421,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 119778,
@@ -1811,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114047,
+      "num": 136477,
+      "word": "毛不易三十一岁正是拼的年纪",
+      "onboard_time": 1753183162,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113700,
       "num": 113700,
       "word": "祝绪丹解释什么是竹林四侠",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1753175841,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 112539,
+      "num": 121973,
+      "word": "暑期档最难忘白月光",
+      "onboard_time": 1753182801,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 112538,
@@ -1923,14 +2035,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 105721,
-      "num": 105721,
-      "word": "孔雪儿今日大婚造型头饰比头大",
-      "onboard_time": 1753181241,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105085,
       "num": 105085,
       "word": "曝何聪睿刘念恋情",
@@ -1963,12 +2067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102465,
-      "num": 102465,
-      "word": "连续30天早睡面部的变化",
-      "onboard_time": 1753180462,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 102692,
+      "num": 135808,
+      "word": "扫毒风暴天赐出门买东西意外身亡",
+      "onboard_time": 1753181601,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 102269,
@@ -2129,6 +2233,14 @@
       "onboard_time": 1753100062,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84485,
+      "num": 206445,
+      "word": "大巴车座套印满试管包生儿子广告",
+      "onboard_time": 1753182081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84462,
@@ -2339,6 +2451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 65899,
+      "num": 229167,
+      "word": "Rain法拉利老了还是法拉利",
+      "onboard_time": 1753180703,
+      "rank": 19,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 65191,
       "num": 65191,
       "word": "湖南卫视连发20条微博官宣沈月",
@@ -2401,14 +2521,6 @@
       "onboard_time": 1753108883,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 56686,
-      "num": 229167,
-      "word": "Rain法拉利老了还是法拉利",
-      "onboard_time": 1753180703,
-      "rank": 19,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 53708,
@@ -2529,6 +2641,14 @@
       "onboard_time": 1753117338,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32589,
+      "num": 102151,
+      "word": "难喝成名的红色尖叫为何炒出高价",
+      "onboard_time": 1753182141,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31987,
