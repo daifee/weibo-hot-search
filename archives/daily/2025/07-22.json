@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753173477579,
+  "endTime": 1753174374641,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1463203,
+      "num": 1463203,
+      "word": "租房新规来了",
+      "onboard_time": 1753168401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1458697,
       "num": 1458697,
       "word": "六点半下班真的好残忍啊",
@@ -40,14 +48,6 @@
       "word": "结婚证离婚证一个烫金一个烫银",
       "onboard_time": 1753112123,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1222638,
-      "num": 1222638,
-      "word": "租房新规来了",
-      "onboard_time": 1753168401,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -67,20 +67,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 993920,
+      "num": 340165,
+      "word": "旺仔小乔 恋爱告急",
+      "onboard_time": 1753166720,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 992469,
+      "num": 992469,
+      "word": "应届生拒绝offer被HR威胁业内封杀",
+      "onboard_time": 1753170801,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 976951,
       "num": 976951,
       "word": "水下吻",
       "onboard_time": 1753104502,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 955712,
-      "num": 340165,
-      "word": "旺仔小乔 恋爱告急",
-      "onboard_time": 1753166720,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 918050,
@@ -163,14 +171,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 649110,
-      "num": 649110,
-      "word": "应届生拒绝offer被HR威胁业内封杀",
-      "onboard_time": 1753170801,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 645414,
       "num": 645414,
       "word": "以为会长胖其实很减肥的习惯",
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 565330,
-      "num": 254210,
+      "num": 279358,
       "word": "疑似吴千语怀孕",
       "onboard_time": 1753170200,
       "rank": 49,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347213,
+      "num": 347213,
+      "word": "华尔街展示加沙儿童尸体模型",
+      "onboard_time": 1753167021,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 343095,
       "num": 165517,
       "word": "高瀚宇上个节目确诊扁平足",
@@ -587,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264513,
-      "num": 264513,
-      "word": "华尔街展示加沙儿童尸体模型",
-      "onboard_time": 1753167021,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 261342,
       "num": 261342,
       "word": "75岁港星帮37岁儿子还债",
@@ -619,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249593,
+      "num": 249593,
+      "word": "足协计划组建国家电子竞技足球队",
+      "onboard_time": 1753169422,
+      "rank": 46,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 248595,
       "num": 248595,
       "word": "金价再暴涨",
@@ -633,14 +641,6 @@
       "onboard_time": 1753098921,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245396,
-      "num": 245396,
-      "word": "足协计划组建国家电子竞技足球队",
-      "onboard_time": 1753169422,
-      "rank": 46,
-      "category": "体育,电竞"
     },
     {
       "raw_hot": 242475,
@@ -795,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203321,
+      "num": 203321,
+      "word": "杭州3岁男童18楼坠下奇迹生还",
+      "onboard_time": 1753173381,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201864,
       "num": 201864,
       "word": "男子去世后私生子索要千万遗产",
@@ -809,6 +817,22 @@
       "onboard_time": 1753159703,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198879,
+      "num": 198879,
+      "word": "强奸大嫂再杀人男子未表达歉意",
+      "onboard_time": 1753169360,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198816,
+      "num": 198816,
+      "word": "赛里木湖景区公厕被曝屎满为患",
+      "onboard_time": 1753173801,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198293,
@@ -859,12 +883,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188922,
+      "num": 188922,
+      "word": "现在就出发3原班人马陆续抵达西藏",
+      "onboard_time": 1753173142,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187074,
       "num": 187074,
       "word": "三伏天建议要适当的摆烂",
       "onboard_time": 1753157181,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186539,
+      "num": 186539,
+      "word": "首款折叠iPhone定价或超一万四千元",
+      "onboard_time": 1753171340,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 186010,
@@ -881,6 +921,14 @@
       "onboard_time": 1753145061,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183871,
+      "num": 179248,
+      "word": "梓渝 最懂不良笑花的人出现了",
+      "onboard_time": 1753173801,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 182916,
@@ -947,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174703,
+      "num": 246672,
+      "word": "鹿晗有多爱逛街",
+      "onboard_time": 1753170021,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173826,
       "num": 222138,
       "word": "于正回应破防",
@@ -1003,28 +1059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166190,
-      "num": 166190,
-      "word": "首款折叠iPhone定价或超一万四千元",
-      "onboard_time": 1753171340,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 165550,
       "num": 165550,
       "word": "利剑玫瑰下周央视开播",
       "onboard_time": 1753156162,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164882,
-      "num": 246672,
-      "word": "鹿晗有多爱逛街",
-      "onboard_time": 1753170021,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 163759,
@@ -1097,14 +1137,6 @@
       "onboard_time": 1753158863,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154992,
-      "num": 154992,
-      "word": "强奸大嫂再杀人男子未表达歉意",
-      "onboard_time": 1753169360,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154736,
@@ -1291,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139290,
+      "num": 139290,
+      "word": "布拉德皮特 刘亦菲优选",
+      "onboard_time": 1753172662,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139090,
       "num": 139090,
       "word": "现在就出发3",
@@ -1312,14 +1352,6 @@
       "word": "五十公里桃花坞",
       "onboard_time": 1753160241,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 136556,
-      "num": 160077,
-      "word": "现在就出发3原班人马陆续抵达西藏",
-      "onboard_time": 1753173142,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1345,6 +1377,14 @@
       "onboard_time": 1753172061,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131146,
+      "num": 131146,
+      "word": "充话费为什么会缺货",
+      "onboard_time": 1753172601,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 130794,
@@ -1388,11 +1428,19 @@
     },
     {
       "raw_hot": 126905,
-      "num": 732215,
+      "num": 835257,
       "word": "小暑不算热大暑三伏天",
       "onboard_time": 1753110083,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125970,
+      "num": 125970,
+      "word": "看牙是一件很暧昧的事",
+      "onboard_time": 1753171821,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 125534,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1753162882,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124762,
-      "num": 124762,
-      "word": "充话费为什么会缺货",
-      "onboard_time": 1753172601,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 124496,
@@ -1459,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119001,
+      "num": 119001,
+      "word": "疑似时代少年团跑马拉松",
+      "onboard_time": 1753168999,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118611,
       "num": 118611,
       "word": "奔跑吧13片头美学大赏",
@@ -1481,14 +1529,6 @@
       "onboard_time": 1753160002,
       "rank": 43,
       "category": "汽车,美食"
-    },
-    {
-      "raw_hot": 117086,
-      "num": 117086,
-      "word": "疑似时代少年团跑马拉松",
-      "onboard_time": 1753168999,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 116891,
@@ -1556,11 +1596,19 @@
     },
     {
       "raw_hot": 112538,
-      "num": 119587,
+      "num": 131154,
       "word": "坚持1000天埼玉训练法的意义",
       "onboard_time": 1753172421,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 111846,
+      "num": 111846,
+      "word": "黄子韬徐艺洋三里屯吃火锅",
+      "onboard_time": 1753171163,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 110105,
@@ -1595,12 +1643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106684,
-      "num": 106684,
-      "word": "杭州3岁男童18楼坠下奇迹生还",
-      "onboard_time": 1753173381,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 106052,
+      "num": 248652,
+      "word": "临汾明代古城墙砖疑遭倒卖每块95元",
+      "onboard_time": 1753172541,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 105085,
@@ -1635,28 +1683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103015,
-      "num": 103015,
-      "word": "黄子韬徐艺洋三里屯吃火锅",
-      "onboard_time": 1753171163,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101063,
       "num": 101063,
       "word": "赛里木湖",
       "onboard_time": 1753140919,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 99843,
-      "num": 118560,
-      "word": "布拉德皮特 刘亦菲优选",
-      "onboard_time": 1753172662,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 98237,
@@ -1699,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96293,
+      "num": 96293,
+      "word": "特朗普被爱泼斯坦合照逼急了",
+      "onboard_time": 1753173920,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94385,
       "num": 94385,
       "word": "突击减肥过量运动的后果",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1753151422,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92478,
+      "num": 258308,
+      "word": "田某明故意杀人案择期宣判",
+      "onboard_time": 1753173081,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 89309,
@@ -1785,14 +1833,6 @@
       "onboard_time": 1753151541,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80538,
-      "num": 258308,
-      "word": "田某明故意杀人案择期宣判",
-      "onboard_time": 1753173081,
-      "rank": 13,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 78374,
@@ -2003,14 +2043,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 54057,
-      "num": 248652,
-      "word": "临汾明代古城墙砖疑遭倒卖每块95元",
-      "onboard_time": 1753172541,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 53708,
       "num": 137184,
       "word": "马龙西藏plog来了",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1753162282,
       "rank": 34,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 38610,
+      "num": 131163,
+      "word": "广东倡议全体市民防蚊灭蚊",
+      "onboard_time": 1753174282,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38576,
@@ -2163,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24550,
+      "num": 268834,
+      "word": "用智搜分析看懂小米海报构图争议",
+      "onboard_time": 1753173081,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24516,
       "num": 165429,
       "word": "店主回应爱心矿泉水被路人拿来洗脚",
@@ -2175,6 +2223,14 @@
       "num": 160017,
       "word": "孙坚又欠唐嫣一顿饭",
       "onboard_time": 1753160064,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22311,
+      "num": 131147,
+      "word": "老天爷给刘亦菲关上的是相机快门",
+      "onboard_time": 1753173920,
       "rank": 38,
       "category": "艺人"
     },
@@ -2201,14 +2257,6 @@
       "onboard_time": 1753129695,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19483,
-      "num": 257275,
-      "word": "用智搜分析看懂小米海报构图争议",
-      "onboard_time": 1753173081,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 17824,
