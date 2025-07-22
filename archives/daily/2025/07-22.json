@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753176806160,
+  "endTime": 1753177689161,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1265388,
-      "num": 1265388,
+      "raw_hot": 1342121,
+      "num": 1342121,
       "word": "应届生拒绝offer被HR威胁业内封杀",
       "onboard_time": 1753170801,
       "rank": 3,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1119587,
+      "num": 340165,
+      "word": "旺仔小乔 恋爱告急",
+      "onboard_time": 1753166720,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1002784,
       "num": 1002784,
       "word": "莫斯科遭到大规模袭击",
       "onboard_time": 1753109963,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 993920,
-      "num": 340165,
-      "word": "旺仔小乔 恋爱告急",
-      "onboard_time": 1753166720,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 976951,
@@ -163,6 +163,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 656049,
+      "num": 330406,
+      "word": "阎鹤祥 已婚当爸",
+      "onboard_time": 1753174583,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 655964,
+      "num": 331332,
+      "word": "赛里木湖景区公厕被曝屎满为患",
+      "onboard_time": 1753173801,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 652961,
       "num": 652961,
       "word": "华尔街展示加沙儿童尸体",
@@ -187,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 632605,
-      "num": 331332,
-      "word": "赛里木湖景区公厕被曝屎满为患",
-      "onboard_time": 1753173801,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 617449,
       "num": 309108,
       "word": "导师您好不好意思",
@@ -209,14 +217,6 @@
       "onboard_time": 1753163061,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 612848,
-      "num": 330406,
-      "word": "阎鹤祥 已婚当爸",
-      "onboard_time": 1753174583,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 607369,
@@ -371,7 +371,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 399416,
+      "raw_hot": 428569,
       "num": 328913,
       "word": "梓渝 最懂不良笑花的人出现了",
       "onboard_time": 1753173801,
@@ -401,6 +401,14 @@
       "onboard_time": 1753163001,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395805,
+      "num": 395805,
+      "word": "现在就出发3原班人马陆续抵达西藏",
+      "onboard_time": 1753173142,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 388168,
@@ -483,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335209,
-      "num": 335209,
-      "word": "现在就出发3原班人马陆续抵达西藏",
-      "onboard_time": 1753173142,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 333918,
+      "num": 270614,
+      "word": "布拉德皮特 刘亦菲优选",
+      "onboard_time": 1753172662,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 333752,
@@ -496,6 +504,14 @@
       "word": "女子要跟男友领证发现户口被丈夫销了",
       "onboard_time": 1753160902,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329958,
+      "num": 268245,
+      "word": "杭州3岁男童18楼坠下奇迹生还",
+      "onboard_time": 1753173381,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -555,14 +571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298262,
-      "num": 237199,
-      "word": "杭州3岁男童18楼坠下奇迹生还",
-      "onboard_time": 1753173381,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297628,
       "num": 297628,
       "word": "沈星回暗蚀国王",
@@ -585,6 +593,14 @@
       "onboard_time": 1753158563,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286974,
+      "num": 286974,
+      "word": "见义勇为者家属向被强奸女子索赔132万",
+      "onboard_time": 1753176142,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286181,
@@ -747,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226287,
+      "num": 226287,
+      "word": "李兰迪怎么是邓超型人格",
+      "onboard_time": 1753177042,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222646,
       "num": 222646,
       "word": "全村老人都在等她出摊",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 210180,
-      "num": 353483,
+      "num": 616945,
       "word": "遥感卫星发现商周之际最大城址",
       "onboard_time": 1753168341,
       "rank": 9,
@@ -1011,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177308,
-      "num": 177308,
-      "word": "布拉德皮特 刘亦菲优选",
-      "onboard_time": 1753172662,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177075,
       "num": 177075,
       "word": "TVB方东昇再探香港四大奇案",
@@ -1203,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151668,
+      "num": 151668,
+      "word": "苹果明年或推出6款iPhone",
+      "onboard_time": 1753176322,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151180,
       "num": 151180,
       "word": "第一次见田曦薇这么忸怩",
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 150049,
-      "num": 150049,
+      "num": 272606,
       "word": "韩安冉说即将得知双胞胎性别",
       "onboard_time": 1753171222,
       "rank": 31,
@@ -1339,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140218,
+      "num": 140218,
+      "word": "老天爷给刘亦菲关上的是相机快门",
+      "onboard_time": 1753173920,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139913,
       "num": 139913,
       "word": "感谢朝雪录",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1753150940,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139788,
+      "num": 139788,
+      "word": "香奈儿素人时期街拍照",
+      "onboard_time": 1753177522,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 139339,
@@ -1435,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130193,
+      "num": 130193,
+      "word": "王者英雄团江郡一家亲",
+      "onboard_time": 1753177341,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129963,
       "num": 129963,
       "word": "82人曾打退20倍敌人的进攻",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1753171821,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125945,
-      "num": 131147,
-      "word": "老天爷给刘亦菲关上的是相机快门",
-      "onboard_time": 1753173920,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 125534,
@@ -1595,12 +1635,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 116569,
-      "num": 116569,
-      "word": "苹果明年或推出6款iPhone",
-      "onboard_time": 1753176322,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 116256,
+      "num": 116256,
+      "word": "战至巅峰开播全员给好友打call",
+      "onboard_time": 1753177282,
+      "rank": 47,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 116075,
@@ -1683,20 +1723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110498,
-      "num": 237688,
-      "word": "见义勇为者家属向被强奸女子索赔132万",
-      "onboard_time": 1753176142,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110105,
       "num": 110105,
       "word": "TVB女星姚乐怡称拍戏时曾遭前辈骚扰",
       "onboard_time": 1753147581,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109987,
+      "num": 109987,
+      "word": "便宜首饰 重金属超标",
+      "onboard_time": 1753177161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108347,
@@ -1787,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99749,
+      "num": 263195,
+      "word": "住宅起火继奶奶独自逃生两小孩遇难",
+      "onboard_time": 1753177341,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98237,
       "num": 98237,
       "word": "白鹿把范丞丞PD名牌挡住了",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1753099762,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96712,
+      "num": 332820,
+      "word": "律师称业内封杀侵犯求职者名誉权",
+      "onboard_time": 1753176082,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96672,
@@ -1896,14 +1952,6 @@
       "word": "网友称住全季推门摸到脏袜子",
       "onboard_time": 1753113322,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83081,
-      "num": 332820,
-      "word": "律师称业内封杀侵犯求职者名誉权",
-      "onboard_time": 1753176082,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1987,8 +2035,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74329,
+      "num": 125080,
+      "word": "黄雨婷与布拉达宫合影",
+      "onboard_time": 1753177642,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70926,
-      "num": 116796,
+      "num": 119857,
       "word": "梁伟铿王昶晋级中国赛16强",
       "onboard_time": 1753176562,
       "rank": 39,
@@ -2115,6 +2171,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 63259,
+      "num": 281129,
+      "word": "近50岁济南村民称头回见这么大山洪",
+      "onboard_time": 1753177401,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62318,
       "num": 62318,
       "word": "张俪第一次臀推",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1753161082,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53560,
+      "num": 186928,
+      "word": "博主逼狗狗吃槟榔带货遭怼",
+      "onboard_time": 1753176682,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52682,
@@ -2248,14 +2320,6 @@
       "word": "北京疾控提示预防基孔肯雅热",
       "onboard_time": 1753170141,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32909,
-      "num": 133640,
-      "word": "博主逼狗狗吃槟榔带货遭怼",
-      "onboard_time": 1753176682,
-      "rank": 33,
       "category": "民生新闻"
     },
     {

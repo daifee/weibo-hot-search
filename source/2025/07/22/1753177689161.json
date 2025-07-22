@@ -1,0 +1,410 @@
+{
+  "runTime": 1753177689161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1342121,
+        "num": 1342121,
+        "word": "应届生拒绝offer被HR威胁业内封杀",
+        "onboard_time": 1753170801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766044,
+        "num": 766044,
+        "word": "租房新规来了",
+        "onboard_time": 1753168401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23940,
+        "num": 616945,
+        "word": "遥感卫星发现商周之际最大城址",
+        "onboard_time": 1753168341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575087,
+        "num": 575087,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405187,
+        "num": 405187,
+        "word": "以为会长胖其实很减肥的习惯",
+        "onboard_time": 1753169422,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395805,
+        "num": 395805,
+        "word": "现在就出发3原班人马陆续抵达西藏",
+        "onboard_time": 1753173142,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394543,
+        "num": 394543,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372636,
+        "num": 372636,
+        "word": "孙菲菲曝业内贪污乱象",
+        "onboard_time": 1753169661,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318375,
+        "num": 318375,
+        "word": "女子称被女儿学校老师性侵感染HPV",
+        "onboard_time": 1753168941,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286974,
+        "num": 286974,
+        "word": "见义勇为者家属向被强奸女子索赔132万",
+        "onboard_time": 1753176142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1119587,
+        "num": 286434,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 678121,
+        "num": 283674,
+        "word": "徐艺洋都没亲过这么帅的黄子韬",
+        "onboard_time": 1753158502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19967,
+        "num": 282851,
+        "word": "小暑不算热大暑三伏天",
+        "onboard_time": 1753110083,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63259,
+        "num": 281129,
+        "word": "近50岁济南村民称头回见这么大山洪",
+        "onboard_time": 1753177401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656049,
+        "num": 279663,
+        "word": "阎鹤祥 已婚当爸",
+        "onboard_time": 1753174583,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655964,
+        "num": 277065,
+        "word": "赛里木湖景区公厕被曝屎满为患",
+        "onboard_time": 1753173801,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428569,
+        "num": 274939,
+        "word": "梓渝 最懂不良笑花的人出现了",
+        "onboard_time": 1753173801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365891,
+        "num": 273813,
+        "word": "森林北腿部大片淤青疑受伤",
+        "onboard_time": 1753167621,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83633,
+        "num": 272606,
+        "word": "韩安冉说即将得知双胞胎性别",
+        "onboard_time": 1753171222,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333918,
+        "num": 270614,
+        "word": "布拉德皮特 刘亦菲优选",
+        "onboard_time": 1753172662,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329958,
+        "num": 268245,
+        "word": "杭州3岁男童18楼坠下奇迹生还",
+        "onboard_time": 1753173381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267538,
+        "num": 267538,
+        "word": "疑似吴千语怀孕",
+        "onboard_time": 1753170200,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99749,
+        "num": 263195,
+        "word": "住宅起火继奶奶独自逃生两小孩遇难",
+        "onboard_time": 1753177341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260218,
+        "num": 260218,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238614,
+        "num": 238614,
+        "word": "华尔街展示加沙儿童尸体模型",
+        "onboard_time": 1753167021,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226287,
+        "num": 226287,
+        "word": "李兰迪怎么是邓超型人格",
+        "onboard_time": 1753177042,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147638,
+        "num": 225326,
+        "word": "旺仔小乔演唱会票价",
+        "onboard_time": 1753163483,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147428,
+        "num": 208496,
+        "word": "景甜工作室进高人了",
+        "onboard_time": 1753158442,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115999,
+        "num": 200128,
+        "word": "足协计划组建国家电子竞技足球队",
+        "onboard_time": 1753169422,
+        "rank": 28,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 53560,
+        "num": 186928,
+        "word": "博主逼狗狗吃槟榔带货遭怼",
+        "onboard_time": 1753176682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180199,
+        "num": 180199,
+        "word": "特朗普被爱泼斯坦合照逼急了",
+        "onboard_time": 1753173920,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166132,
+        "num": 166132,
+        "word": "章若楠三年前朋友圈",
+        "onboard_time": 1753175721,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162060,
+        "num": 162060,
+        "word": "导师您好不好意思",
+        "onboard_time": 1753166541,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151668,
+        "num": 151668,
+        "word": "苹果明年或推出6款iPhone",
+        "onboard_time": 1753176322,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140218,
+        "num": 140218,
+        "word": "老天爷给刘亦菲关上的是相机快门",
+        "onboard_time": 1753173920,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139788,
+        "num": 139788,
+        "word": "香奈儿素人时期街拍照",
+        "onboard_time": 1753177522,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96712,
+        "num": 133100,
+        "word": "律师称业内封杀侵犯求职者名誉权",
+        "onboard_time": 1753176082,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130747,
+        "num": 130747,
+        "word": "柴鸡蛋 种地",
+        "onboard_time": 1753164681,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130193,
+        "num": 130193,
+        "word": "王者英雄团江郡一家亲",
+        "onboard_time": 1753177341,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128005,
+        "num": 128005,
+        "word": "北京燃油车彻底禁止入驻网约平台",
+        "onboard_time": 1753175602,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125245,
+        "num": 125245,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 40,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 74329,
+        "num": 125080,
+        "word": "黄雨婷与布拉达宫合影",
+        "onboard_time": 1753177642,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125003,
+        "num": 125003,
+        "word": "首款折叠iPhone定价或超一万四千元",
+        "onboard_time": 1753171340,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120692,
+        "num": 120692,
+        "word": "iPad上可以玩到天昏地暗的游戏",
+        "onboard_time": 1753166062,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69249,
+        "num": 119857,
+        "word": "梁伟铿王昶晋级中国赛16强",
+        "onboard_time": 1753176562,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119485,
+        "num": 119485,
+        "word": "小鼻嘎躺的明白吗让我来躺",
+        "onboard_time": 1753175361,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117452,
+        "num": 117452,
+        "word": "东航一客机因起落架销未拔返航",
+        "onboard_time": 1753175182,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116256,
+        "num": 116256,
+        "word": "战至巅峰开播全员给好友打call",
+        "onboard_time": 1753177282,
+        "rank": 47,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 111396,
+        "num": 111396,
+        "word": "充话费为什么会缺货",
+        "onboard_time": 1753172601,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109987,
+        "num": 109987,
+        "word": "便宜首饰 重金属超标",
+        "onboard_time": 1753177161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
