@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753220544508,
+  "endTime": 1753223227767,
   "band_list": [
     {
       "raw_hot": 926909,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428464,
-      "num": 428464,
+      "raw_hot": 489226,
+      "num": 489226,
       "word": "男子强奸大嫂再杀人辩称是受害者",
       "onboard_time": 1753200080,
       "rank": 33,
@@ -105,6 +105,14 @@
       "onboard_time": 1753189343,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 211990,
+      "num": 211990,
+      "word": "美医生被曝急着摘器官",
+      "onboard_time": 1753207995,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195560,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128920,
+      "num": 128920,
+      "word": "山姆员工称好丽友卫龙皆已下架",
+      "onboard_time": 1753198882,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120239,
       "num": 120239,
       "word": "张继科办赛前曾和马龙樊振东联系",
@@ -185,14 +201,6 @@
       "onboard_time": 1753185561,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119010,
-      "num": 119010,
-      "word": "美医生被曝急着摘器官",
-      "onboard_time": 1753207995,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 116144,
@@ -235,20 +243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102781,
+      "num": 75699,
+      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
+      "onboard_time": 1753201820,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101186,
       "num": 103595,
       "word": "曝美国将退出联合国教科文组织",
       "onboard_time": 1753188383,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91099,
-      "num": 91099,
-      "word": "山姆员工称好丽友卫龙皆已下架",
-      "onboard_time": 1753198882,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83339,
@@ -281,14 +289,6 @@
       "onboard_time": 1753197922,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 75699,
-      "num": 75699,
-      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
-      "onboard_time": 1753201820,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 73259,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32514,
+      "num": 32514,
+      "word": "梓渝熊被挤掉了",
+      "onboard_time": 1753212675,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32253,
       "num": 436752,
       "word": "当责任落笔成光",
@@ -483,12 +491,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27969,
-      "num": 27969,
-      "word": "梓渝熊被挤掉了",
-      "onboard_time": 1753212675,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 29388,
+      "num": 34607,
+      "word": "刘宇宁古装开嗓一眼惊艳",
+      "onboard_time": 1753220713,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 28228,
+      "num": 28228,
+      "word": "在西藏遇到黄金瀑布",
+      "onboard_time": 1753215074,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 27444,
+      "num": 27444,
+      "word": "金店店员看可疑顾客急发特殊微信",
+      "onboard_time": 1753218673,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26446,
@@ -523,15 +547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20606,
-      "num": 20606,
-      "word": "在西藏遇到黄金瀑布",
-      "onboard_time": 1753215074,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 16056,
+      "raw_hot": 18467,
       "num": 24095,
       "word": "只要有人记得相柳就不算离开",
       "onboard_time": 1753206795,
@@ -555,15 +571,7 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 12481,
-      "num": 23675,
-      "word": "金店店员看可疑顾客急发特殊微信",
-      "onboard_time": 1753218673,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9953,
+      "raw_hot": 10618,
       "num": 174326,
       "word": "遥感卫星发现商周之际最大城址",
       "onboard_time": 1753168341,
