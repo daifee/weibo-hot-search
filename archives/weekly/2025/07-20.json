@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753157036266,
+  "endTime": 1753157620102,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2978621,
+      "num": 2978621,
+      "word": "柴鸡蛋被恢复执行3699.9万",
+      "onboard_time": 1753156343,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2868331,
       "num": 2868331,
       "word": "水下吻",
@@ -81,14 +89,6 @@
       "onboard_time": 1753027823,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2015129,
-      "num": 2015129,
-      "word": "柴鸡蛋被恢复执行3699.9万",
-      "onboard_time": 1753156343,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2006200,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585231,
+      "num": 585231,
+      "word": "遇男子强奸嫂子见义勇为被害家属发声",
+      "onboard_time": 1753153281,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584894,
       "num": 463438,
       "word": "王源鸟巢",
@@ -1000,14 +1008,6 @@
       "word": "央视曝光职业背债人产业链",
       "onboard_time": 1752942620,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522122,
-      "num": 522122,
-      "word": "遇男子强奸嫂子见义勇为被害家属发声",
-      "onboard_time": 1753153281,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1315,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434106,
+      "num": 434106,
+      "word": "光遇",
+      "onboard_time": 1753153941,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 433115,
       "num": 433115,
       "word": "陶昕然单身原因",
@@ -1472,6 +1480,14 @@
       "word": "中国大坝让印度网民破防了",
       "onboard_time": 1753103482,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379873,
+      "num": 379873,
+      "word": "山东一地多人哄抢掉地大蒜",
+      "onboard_time": 1753152441,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1777,14 +1793,6 @@
       "onboard_time": 1753150580,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 317997,
-      "num": 317997,
-      "word": "山东一地多人哄抢掉地大蒜",
-      "onboard_time": 1753152441,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316946,
@@ -2363,6 +2371,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 238010,
+      "num": 192744,
+      "word": "孔雪儿机场被男子大吼",
+      "onboard_time": 1753157302,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236844,
       "num": 303982,
       "word": "23岁男子失联34天家属发声",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1753111104,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233641,
+      "num": 233641,
+      "word": "印度网友反复观看新闻联播",
+      "onboard_time": 1753156102,
+      "rank": 27,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 233032,
@@ -3027,6 +3051,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 196102,
+      "num": 196102,
+      "word": "王菲朝阳区麻袋天后",
+      "onboard_time": 1753156282,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195811,
       "num": 195811,
       "word": "你们江苏人是懂冷门应援的",
@@ -3105,6 +3137,14 @@
       "onboard_time": 1753108763,
       "rank": 45,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 192361,
+      "num": 192361,
+      "word": "网红旺仔小乔申请艺名商标被驳回",
+      "onboard_time": 1753157422,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 192320,
@@ -3315,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184006,
-      "num": 184006,
-      "word": "印度网友反复观看新闻联播",
-      "onboard_time": 1753156102,
-      "rank": 27,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 183232,
       "num": 762211,
       "word": "十余省区市雨雨雨",
@@ -3337,6 +3369,14 @@
       "onboard_time": 1753073122,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182671,
+      "num": 182671,
+      "word": "三伏天建议要适当的摆烂",
+      "onboard_time": 1753157181,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 182459,
@@ -3491,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176173,
+      "num": 176173,
+      "word": "全国持社保卡人数达13.9亿人",
+      "onboard_time": 1753156402,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175790,
       "num": 175790,
       "word": "世界之外召唤之王",
@@ -3593,14 +3641,6 @@
       "onboard_time": 1753092561,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173394,
-      "num": 173394,
-      "word": "全国持社保卡人数达13.9亿人",
-      "onboard_time": 1753156402,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173373,
@@ -3849,14 +3889,6 @@
       "onboard_time": 1753156162,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165482,
-      "num": 165482,
-      "word": "王菲朝阳区麻袋天后",
-      "onboard_time": 1753156282,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 165266,
@@ -4115,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156970,
+      "num": 156970,
+      "word": "旺仔小乔演唱会",
+      "onboard_time": 1753141339,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156906,
       "num": 253706,
       "word": "印尼载280人客船起火",
@@ -4183,14 +4223,6 @@
       "num": 155033,
       "word": "汪苏泷音乐节",
       "onboard_time": 1753022545,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 154949,
-      "num": 154949,
-      "word": "旺仔小乔演唱会",
-      "onboard_time": 1753141339,
       "rank": 48,
       "category": "演出"
     },
@@ -4553,6 +4585,14 @@
       "onboard_time": 1753077022,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145104,
+      "num": 145104,
+      "word": "三伏天喝羊汤",
+      "onboard_time": 1753156521,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 144759,
@@ -4955,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133985,
+      "num": 360304,
+      "word": "探访风波中的山姆门店",
+      "onboard_time": 1753156162,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133913,
       "num": 133913,
       "word": "卡车司机带16岁儿子出车双双遇难",
@@ -5043,14 +5091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131930,
-      "num": 137366,
-      "word": "三伏天喝羊汤",
-      "onboard_time": 1753156521,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 131713,
       "num": 131713,
       "word": "黄礼志吃国潮外卖",
@@ -5121,14 +5161,6 @@
       "onboard_time": 1752983902,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130168,
-      "num": 130168,
-      "word": "光遇",
-      "onboard_time": 1753153941,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 129469,
@@ -5393,6 +5425,14 @@
       "onboard_time": 1753086323,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124496,
+      "num": 124496,
+      "word": "铁建重工涨停",
+      "onboard_time": 1753157242,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 124455,
@@ -5779,6 +5819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115068,
+      "num": 159711,
+      "word": "最难喝的红色尖叫为何会被疯抢",
+      "onboard_time": 1753156461,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114994,
       "num": 114994,
       "word": "GALA 保jie派",
@@ -5825,14 +5873,6 @@
       "onboard_time": 1753079903,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113370,
-      "num": 360304,
-      "word": "探访风波中的山姆门店",
-      "onboard_time": 1753156162,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113320,
@@ -7107,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66315,
+      "num": 192979,
+      "word": "用爱心矿泉水洗脚",
+      "onboard_time": 1753156762,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66138,
       "num": 66138,
       "word": "未定事件簿",
@@ -7403,6 +7451,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 52459,
+      "num": 141110,
+      "word": "洒水车可没惯着暴走团",
+      "onboard_time": 1753157483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52311,
       "num": 191279,
       "word": "女装制版师讲述女装为何又贵又难穿",
@@ -7681,14 +7737,6 @@
       "onboard_time": 1753140799,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37835,
-      "num": 184411,
-      "word": "用爱心矿泉水洗脚",
-      "onboard_time": 1753156762,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37227,

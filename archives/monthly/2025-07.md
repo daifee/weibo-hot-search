@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/22 12:03:56
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/22 12:13:40
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ AL对战GEN（热度：3433905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E7%8E%8B%E8%8F%B2%E5%9C%A8%E5%94%B1%E9%82%A3%E8%8B%B1%E7%9A%84%E6%AD%8C%23" target="weibo">
 单依纯 王菲在唱那英的歌（热度：2982827）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%B4%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C3699.9%E4%B8%87%23" target="weibo">
+柴鸡蛋被恢复执行3699.9万（热度：2978621）
 </a>
 </li>
 
@@ -521,12 +527,6 @@ Grace淘汰（热度：2072748）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8E%E5%8E%A8%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
 天水幼儿园后厨监控视频曝光（热度：2017058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%B4%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C3699.9%E4%B8%87%23" target="weibo">
-柴鸡蛋被恢复执行3699.9万（热度：2015129）
 </a>
 </li>
 

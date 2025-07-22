@@ -1,0 +1,410 @@
+{
+  "runTime": 1753157620102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2978621,
+        "num": 2978621,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1856373,
+        "num": 1856373,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38809,
+        "num": 847918,
+        "word": "中暑的先兆症状",
+        "onboard_time": 1753104983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610199,
+        "num": 610199,
+        "word": "恋与深空",
+        "onboard_time": 1753146082,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 585231,
+        "num": 585231,
+        "word": "遇男子强奸嫂子见义勇为被害家属发声",
+        "onboard_time": 1753153281,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504920,
+        "num": 504920,
+        "word": "相柳",
+        "onboard_time": 1753141701,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434106,
+        "num": 434106,
+        "word": "光遇",
+        "onboard_time": 1753153941,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380333,
+        "num": 380333,
+        "word": "东极岛将侵略者罪证搬上大银幕",
+        "onboard_time": 1753152081,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379873,
+        "num": 379873,
+        "word": "山东一地多人哄抢掉地大蒜",
+        "onboard_time": 1753152441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366686,
+        "num": 366686,
+        "word": "特朗普政府公布马丁路德金相关记录",
+        "onboard_time": 1753151422,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1105016,
+        "num": 362581,
+        "word": "结婚证离婚证一个烫金一个烫银",
+        "onboard_time": 1753112123,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280727,
+        "num": 280727,
+        "word": "王琳怒怼被儿子掌掴谣言",
+        "onboard_time": 1753144101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269321,
+        "num": 269321,
+        "word": "捏造粪水谣言网民被刑拘",
+        "onboard_time": 1753142841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268178,
+        "num": 268178,
+        "word": "星巴克推出自习室",
+        "onboard_time": 1753147163,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260754,
+        "num": 260754,
+        "word": "金建希博士学位也没了",
+        "onboard_time": 1753150580,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 233641,
+        "num": 233641,
+        "word": "印度网友反复观看新闻联播",
+        "onboard_time": 1753156102,
+        "rank": 15,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 224058,
+        "num": 224058,
+        "word": "时代少年团大连联排花絮",
+        "onboard_time": 1753155981,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199458,
+        "num": 199458,
+        "word": "白鹿白敬亭入围亚洲内容大赏",
+        "onboard_time": 1753147941,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196102,
+        "num": 196102,
+        "word": "王菲朝阳区麻袋天后",
+        "onboard_time": 1753156282,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66315,
+        "num": 192979,
+        "word": "用爱心矿泉水洗脚",
+        "onboard_time": 1753156762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227198,
+        "num": 192805,
+        "word": "沈星回长发",
+        "onboard_time": 1753154782,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238010,
+        "num": 192744,
+        "word": "孔雪儿机场被男子大吼",
+        "onboard_time": 1753157302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192361,
+        "num": 192361,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 22,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 189189,
+        "num": 189189,
+        "word": "扫毒风暴于文文暗恋不了一点",
+        "onboard_time": 1753156162,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185257,
+        "num": 185257,
+        "word": "水下吻",
+        "onboard_time": 1753104502,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182718,
+        "num": 182718,
+        "word": "金价再暴涨",
+        "onboard_time": 1753144462,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182671,
+        "num": 182671,
+        "word": "三伏天建议要适当的摆烂",
+        "onboard_time": 1753157181,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176173,
+        "num": 176173,
+        "word": "全国持社保卡人数达13.9亿人",
+        "onboard_time": 1753156402,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170241,
+        "num": 170241,
+        "word": "大暑之后会更热吗",
+        "onboard_time": 1753149860,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160560,
+        "num": 160560,
+        "word": "花西子 王俊凯",
+        "onboard_time": 1753148601,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 115068,
+        "num": 159711,
+        "word": "最难喝的红色尖叫为何会被疯抢",
+        "onboard_time": 1753156461,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159225,
+        "num": 159225,
+        "word": "张予曦演技",
+        "onboard_time": 1753153101,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157656,
+        "num": 157656,
+        "word": "旺仔小乔曾说不露脸是因遭遇骚扰",
+        "onboard_time": 1753134854,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156970,
+        "num": 156970,
+        "word": "旺仔小乔演唱会",
+        "onboard_time": 1753141339,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133985,
+        "num": 151118,
+        "word": "探访风波中的山姆门店",
+        "onboard_time": 1753156162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149322,
+        "num": 149322,
+        "word": "田栩宁对接回应灰指甲",
+        "onboard_time": 1753140680,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145104,
+        "num": 145104,
+        "word": "三伏天喝羊汤",
+        "onboard_time": 1753156521,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141555,
+        "num": 141555,
+        "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
+        "onboard_time": 1753116379,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52459,
+        "num": 141110,
+        "word": "洒水车可没惯着暴走团",
+        "onboard_time": 1753157483,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140786,
+        "num": 140786,
+        "word": "减肥黄金期来了",
+        "onboard_time": 1753150940,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138298,
+        "num": 138298,
+        "word": "凡人修仙传OST阵容",
+        "onboard_time": 1753153401,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137404,
+        "num": 137404,
+        "word": "见义勇为牺牲者儿子称诉求只有一个",
+        "onboard_time": 1753153641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132841,
+        "num": 132841,
+        "word": "今天时间不满24小时",
+        "onboard_time": 1753154421,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131340,
+        "num": 131340,
+        "word": "猫到了单位也一样犯困",
+        "onboard_time": 1753156643,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131331,
+        "num": 131331,
+        "word": "沈星回暗蚀国王",
+        "onboard_time": 1753154662,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127308,
+        "num": 127308,
+        "word": "时代峰峻的新兵旧兵同框了",
+        "onboard_time": 1753153281,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124496,
+        "num": 124496,
+        "word": "铁建重工涨停",
+        "onboard_time": 1753157242,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124421,
+        "num": 124421,
+        "word": "烟之凰阵容官宣",
+        "onboard_time": 1753154001,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118612,
+        "num": 118612,
+        "word": "丈夫称无法原谅亲弟弟强奸追杀妻子",
+        "onboard_time": 1753109123,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117753,
+        "num": 117753,
+        "word": "记者暗访甲醛检测行业造假黑幕",
+        "onboard_time": 1753151841,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
