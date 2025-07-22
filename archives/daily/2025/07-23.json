@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753223227767,
+  "endTime": 1753224326944,
   "band_list": [
     {
       "raw_hot": 926909,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630337,
+      "num": 630337,
+      "word": "男子强奸大嫂再杀人辩称是受害者",
+      "onboard_time": 1753200080,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607814,
       "num": 607814,
       "word": "玩CS从5楼坠亡男生即将高三",
@@ -41,14 +49,6 @@
       "onboard_time": 1753196483,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489226,
-      "num": 489226,
-      "word": "男子强奸大嫂再杀人辩称是受害者",
-      "onboard_time": 1753200080,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331440,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265210,
+      "num": 265210,
+      "word": "美医生被曝急着摘器官",
+      "onboard_time": 1753207995,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 242116,
       "num": 242116,
       "word": "知名男演员度假期间被海浪卷走身亡",
@@ -105,14 +113,6 @@
       "onboard_time": 1753189343,
       "rank": 20,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 211990,
-      "num": 211990,
-      "word": "美医生被曝急着摘器官",
-      "onboard_time": 1753207995,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 195560,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164170,
+      "num": 164170,
+      "word": "山姆员工称好丽友卫龙皆已下架",
+      "onboard_time": 1753198882,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142646,
       "num": 145709,
       "word": "深情眼",
@@ -171,7 +179,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135645,
+      "raw_hot": 138003,
       "num": 135645,
       "word": "妈妈回应6个月宝宝眼距过宽引担忧",
       "onboard_time": 1753194564,
@@ -179,12 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128920,
-      "num": 128920,
-      "word": "山姆员工称好丽友卫龙皆已下架",
-      "onboard_time": 1753198882,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 131531,
+      "num": 75699,
+      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
+      "onboard_time": 1753201820,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120239,
@@ -241,14 +249,6 @@
       "onboard_time": 1753200741,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102781,
-      "num": 75699,
-      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
-      "onboard_time": 1753201820,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 101186,
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37482,
+      "num": 37482,
+      "word": "金店店员看可疑顾客急发特殊微信",
+      "onboard_time": 1753218673,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36272,
       "num": 44168,
       "word": "朝雪录27.4%登顶",
@@ -459,20 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36174,
+      "num": 36174,
+      "word": "女子打工被骗逃回家后发现儿子丢了",
+      "onboard_time": 1753205956,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36086,
+      "num": 38633,
+      "word": "刘宇宁古装开嗓一眼惊艳",
+      "onboard_time": 1753220713,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34790,
       "num": 44155,
       "word": "牵牛和仙女",
       "onboard_time": 1753204578,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33487,
-      "num": 34729,
-      "word": "女子打工被骗逃回家后发现儿子丢了",
-      "onboard_time": 1753205956,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32514,
@@ -491,28 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29388,
-      "num": 34607,
-      "word": "刘宇宁古装开嗓一眼惊艳",
-      "onboard_time": 1753220713,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 28228,
-      "num": 28228,
+      "raw_hot": 29206,
+      "num": 29206,
       "word": "在西藏遇到黄金瀑布",
       "onboard_time": 1753215074,
       "rank": 42,
       "category": "旅游"
     },
     {
-      "raw_hot": 27444,
-      "num": 27444,
-      "word": "金店店员看可疑顾客急发特殊微信",
-      "onboard_time": 1753218673,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 26811,
+      "num": 26811,
+      "word": "下班后送外卖成新型情侣约会方式",
+      "onboard_time": 1753222875,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 26446,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 18467,
-      "num": 24095,
+      "num": 26753,
       "word": "只要有人记得相柳就不算离开",
       "onboard_time": 1753206795,
       "rank": 28,
@@ -571,8 +579,8 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 10618,
-      "num": 174326,
+      "raw_hot": 12460,
+      "num": 184854,
       "word": "遥感卫星发现商周之际最大城址",
       "onboard_time": 1753168341,
       "rank": 2,
