@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753198300497,
+  "endTime": 1753199160251,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734000,
+      "num": 219599,
+      "word": "宋江曾被经纪公司禁止健身",
+      "onboard_time": 1753196483,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725582,
       "num": 328132,
       "word": "森林北腿部大片淤青疑受伤",
@@ -328,6 +336,14 @@
       "word": "济南强降雨致2人死亡10人失联",
       "onboard_time": 1753163061,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610276,
+      "num": 610276,
+      "word": "4岁男童拔乳牙全麻后殒命",
+      "onboard_time": 1753197082,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -491,14 +507,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 437315,
-      "num": 191499,
-      "word": "宋江曾被经纪公司禁止健身",
-      "onboard_time": 1753196483,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 434106,
       "num": 434106,
       "word": "光遇",
@@ -561,6 +569,14 @@
       "onboard_time": 1753187601,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413324,
+      "num": 219125,
+      "word": "家属称4岁侄子全麻拔乳牙身亡",
+      "onboard_time": 1753198042,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398585,
@@ -657,6 +673,14 @@
       "onboard_time": 1753142120,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 362983,
+      "num": 218871,
+      "word": "2高中生骑电动两轮车撞围墙身亡",
+      "onboard_time": 1753197742,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360311,
@@ -819,20 +843,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296318,
+      "num": 217613,
+      "word": "妈妈回应6个月宝宝眼距过宽引担忧",
+      "onboard_time": 1753194564,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292390,
       "num": 292390,
       "word": "李兰迪敖瑞鹏回应二搭",
       "onboard_time": 1753159462,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290636,
-      "num": 191380,
-      "word": "妈妈回应6个月宝宝眼距过宽引担忧",
-      "onboard_time": 1753194564,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 289195,
@@ -915,7 +939,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258002,
+      "raw_hot": 259059,
       "num": 196779,
       "word": "蝉尿攻击对人体有害吗",
       "onboard_time": 1753193483,
@@ -1040,14 +1064,6 @@
       "word": "14年前接住的2岁坠楼女孩还好吗",
       "onboard_time": 1753160723,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222719,
-      "num": 137683,
-      "word": "家属称4岁侄子全麻拔乳牙身亡",
-      "onboard_time": 1753198042,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1331,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185229,
+      "num": 185229,
+      "word": "深情眼",
+      "onboard_time": 1753139418,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185142,
       "num": 185142,
       "word": "亲情还是偶尔体验就好",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1753161682,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176637,
-      "num": 176637,
-      "word": "深情眼",
-      "onboard_time": 1753139418,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 176173,
@@ -1569,14 +1585,6 @@
       "onboard_time": 1753156162,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164133,
-      "num": 164133,
-      "word": "4岁男童拔乳牙全麻后殒命",
-      "onboard_time": 1753197082,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163759,
@@ -1795,14 +1803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146807,
-      "num": 146807,
-      "word": "2高中生骑电动两轮车撞围墙身亡",
-      "onboard_time": 1753197742,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146805,
       "num": 146805,
       "word": "猫到了单位也一样犯困",
@@ -2012,7 +2012,7 @@
     },
     {
       "raw_hot": 135103,
-      "num": 173888,
+      "num": 181696,
       "word": "王嘉尔探班何炅暗恋桃花源",
       "onboard_time": 1753194564,
       "rank": 26,
@@ -2308,11 +2308,19 @@
     },
     {
       "raw_hot": 118301,
-      "num": 147806,
+      "num": 178966,
       "word": "温以凡你怎么能这么对桑延呢",
       "onboard_time": 1753183700,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118204,
+      "num": 181183,
+      "word": "蔡依林DIY搓手舞好上头",
+      "onboard_time": 1753197922,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 118151,
@@ -2555,6 +2563,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 105886,
+      "num": 176166,
+      "word": "市监总局暂停对杜邦中国反垄断调查",
+      "onboard_time": 1753195702,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105085,
       "num": 105085,
       "word": "曝何聪睿刘念恋情",
@@ -2627,20 +2643,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100508,
+      "num": 220342,
+      "word": "住房租赁条例全文",
+      "onboard_time": 1753194502,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100431,
       "num": 100431,
       "word": "梁王22分钟速胜",
       "onboard_time": 1753175240,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100386,
-      "num": 176166,
-      "word": "市监总局暂停对杜邦中国反垄断调查",
-      "onboard_time": 1753195702,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98647,
@@ -2835,6 +2851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 88959,
+      "num": 88959,
+      "word": "张予曦毕雯珺姐姐喝醉弟弟别闹",
+      "onboard_time": 1753195762,
+      "rank": 44,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 88623,
       "num": 88623,
       "word": "青岛西海岸vs北京国安",
@@ -2859,14 +2883,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 84850,
-      "num": 84850,
-      "word": "张予曦毕雯珺姐姐喝醉弟弟别闹",
-      "onboard_time": 1753195762,
-      "rank": 44,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 84827,
       "num": 84827,
       "word": "王楚钦直播",
@@ -2883,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84278,
+      "num": 84278,
+      "word": "情绪稳定又骄傲的小狗",
+      "onboard_time": 1753196663,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83927,
       "num": 83927,
       "word": "中国花游第3金",
@@ -2897,14 +2921,6 @@
       "onboard_time": 1753113322,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81714,
-      "num": 81714,
-      "word": "蔡依林DIY搓手舞好上头",
-      "onboard_time": 1753197922,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 81581,
@@ -3065,14 +3081,6 @@
       "onboard_time": 1753159102,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 69290,
-      "num": 122133,
-      "word": "住房租赁条例全文",
-      "onboard_time": 1753194502,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68933,
@@ -3449,6 +3457,22 @@
       "onboard_time": 1753129695,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18012,
+      "num": 182908,
+      "word": "山姆员工称好丽友卫龙皆已下架",
+      "onboard_time": 1753198882,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18008,
+      "num": 178141,
+      "word": "玩CS从5楼坠亡男生即将高三",
+      "onboard_time": 1753198941,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17824,
