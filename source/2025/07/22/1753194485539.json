@@ -1,0 +1,410 @@
+{
+  "runTime": 1753194485539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450467,
+        "num": 1450467,
+        "word": "微信能自动发消息了",
+        "onboard_time": 1753177822,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 829769,
+        "num": 829769,
+        "word": "朝雪录热度",
+        "onboard_time": 1753190663,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30833,
+        "num": 445916,
+        "word": "遥感卫星发现商周之际最大城址",
+        "onboard_time": 1753168341,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390006,
+        "num": 390006,
+        "word": "张继科办赛前曾和马龙樊振东联系",
+        "onboard_time": 1753188261,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354222,
+        "num": 354222,
+        "word": "疑被骗缅北男生母亲称没业绩或被打死",
+        "onboard_time": 1753183880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333318,
+        "num": 333318,
+        "word": "曝美国将退出联合国教科文组织",
+        "onboard_time": 1753188383,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266692,
+        "num": 266692,
+        "word": "男子下载app炒股1个月以为赚300万",
+        "onboard_time": 1753178661,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262584,
+        "num": 262584,
+        "word": "贵州茅台出资4.9亿成立科研公司",
+        "onboard_time": 1753191143,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245028,
+        "num": 245028,
+        "word": "知名男演员度假期间被海浪卷走身亡",
+        "onboard_time": 1753178002,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219191,
+        "num": 219191,
+        "word": "19岁男生刚上大一就拿到国企offer",
+        "onboard_time": 1753192943,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871236,
+        "num": 216250,
+        "word": "公职人员回应兼职下班送外卖",
+        "onboard_time": 1753188321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574128,
+        "num": 213523,
+        "word": "赵美延问中国最火美女是谁",
+        "onboard_time": 1753185442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513554,
+        "num": 209316,
+        "word": "于正 本人近照巨帅别羡慕",
+        "onboard_time": 1753184301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324736,
+        "num": 201723,
+        "word": "韩国今年爆火的男演员",
+        "onboard_time": 1753186640,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318531,
+        "num": 198996,
+        "word": "柴鸡蛋把身后的豆橛子摘了",
+        "onboard_time": 1753187601,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290882,
+        "num": 192349,
+        "word": "胡先煦你让我有点陌生了",
+        "onboard_time": 1753186102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268889,
+        "num": 189372,
+        "word": "方媛三胎孕照",
+        "onboard_time": 1753193062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249639,
+        "num": 182189,
+        "word": "宝可梦发布会",
+        "onboard_time": 1753192943,
+        "rank": 17,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 180481,
+        "num": 180481,
+        "word": "湖南卫视考古白鹿",
+        "onboard_time": 1753193903,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158694,
+        "num": 180005,
+        "word": "福耀科技大学投档分超厦大哈工大",
+        "onboard_time": 1753192882,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 753394,
+        "num": 178070,
+        "word": "错付1010元车费索要无果数日后轻生",
+        "onboard_time": 1753182141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205204,
+        "num": 177405,
+        "word": "新疆姑娘公路上高举免费取餐",
+        "onboard_time": 1753191263,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 706332,
+        "num": 176337,
+        "word": "天梭 虞书欣",
+        "onboard_time": 1753189343,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 175646,
+        "num": 175646,
+        "word": "iG战胜WE",
+        "onboard_time": 1753194263,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174815,
+        "num": 174815,
+        "word": "朝雪录27.4%登顶",
+        "onboard_time": 1753188682,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161725,
+        "num": 161725,
+        "word": "蝉尿攻击对人体有害吗",
+        "onboard_time": 1753193483,
+        "rank": 25,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 156296,
+        "num": 156296,
+        "word": "2人带婴儿入境遇检查扔下孩子就跑",
+        "onboard_time": 1753178721,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155618,
+        "num": 155618,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149578,
+        "num": 149578,
+        "word": "深情眼",
+        "onboard_time": 1753188742,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102450,
+        "num": 147806,
+        "word": "温以凡你怎么能这么对桑延呢",
+        "onboard_time": 1753183700,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153068,
+        "num": 147532,
+        "word": "错付车费索要无果后轻生家属发声",
+        "onboard_time": 1753185561,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147161,
+        "num": 147161,
+        "word": "王楚钦解释夺冠背影照",
+        "onboard_time": 1753182440,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145323,
+        "num": 145323,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143157,
+        "num": 143157,
+        "word": "人际交往中藏着恶意的5句话",
+        "onboard_time": 1753194322,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139523,
+        "num": 139523,
+        "word": "小高和刚喊话第五人格求联动",
+        "onboard_time": 1753194322,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120091,
+        "num": 120091,
+        "word": "第7号台风范斯高或将生成",
+        "onboard_time": 1753193122,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61667,
+        "num": 118180,
+        "word": "韩国海王同时交往19人骗十亿韩元",
+        "onboard_time": 1753185382,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118126,
+        "num": 118126,
+        "word": "夸克回应崩了",
+        "onboard_time": 1753193964,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112895,
+        "num": 112895,
+        "word": "今年三伏天为啥少了10天",
+        "onboard_time": 1753187062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109172,
+        "num": 109172,
+        "word": "邢昭林古装梦回双世宠妃",
+        "onboard_time": 1753192882,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108255,
+        "num": 108255,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91006,
+        "num": 107033,
+        "word": "张予曦毕雯珺新剧上高速前下匝道",
+        "onboard_time": 1753193182,
+        "rank": 41,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 106283,
+        "num": 106283,
+        "word": "民航版12306上线了",
+        "onboard_time": 1753193483,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103481,
+        "num": 103481,
+        "word": "间谍过家家",
+        "onboard_time": 1753190063,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102319,
+        "num": 102319,
+        "word": "摘豆角大爷大娘排队贴甲片",
+        "onboard_time": 1753191683,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102140,
+        "num": 102140,
+        "word": "特斯拉销量冠军因SU7加了定语",
+        "onboard_time": 1753187421,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100590,
+        "num": 100590,
+        "word": "网友和鹿晗四年前合影",
+        "onboard_time": 1753190482,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97223,
+        "num": 97223,
+        "word": "主动记录的人一定很爱你",
+        "onboard_time": 1753194263,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97009,
+        "num": 97009,
+        "word": "李兰迪怎么是邓超型人格",
+        "onboard_time": 1753177042,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96850,
+        "num": 96850,
+        "word": "你做完这个饼就回家睡觉去",
+        "onboard_time": 1753194443,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些话语直抵人心#"
+    }
+  }
+}

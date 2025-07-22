@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753192577346,
+  "endTime": 1753194485539,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -155,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 771154,
-      "num": 771154,
+      "raw_hot": 829769,
+      "num": 829769,
       "word": "朝雪录热度",
       "onboard_time": 1753190663,
       "rank": 4,
@@ -177,6 +177,14 @@
       "onboard_time": 1753167621,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706332,
+      "num": 676532,
+      "word": "天梭 虞书欣",
+      "onboard_time": 1753189343,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 690701,
@@ -209,14 +217,6 @@
       "onboard_time": 1753158442,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676532,
-      "num": 676532,
-      "word": "天梭 虞书欣",
-      "onboard_time": 1753189343,
-      "rank": 8,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 675116,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390006,
+      "num": 390006,
+      "word": "张继科办赛前曾和马龙樊振东联系",
+      "onboard_time": 1753188261,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388168,
       "num": 388168,
       "word": "白鹿白敬亭入围亚洲内容大赏",
@@ -689,6 +697,14 @@
       "onboard_time": 1753158683,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324736,
+      "num": 213922,
+      "word": "韩国今年爆火的男演员",
+      "onboard_time": 1753186640,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 320186,
@@ -827,12 +843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268889,
+      "num": 189372,
+      "word": "方媛三胎孕照",
+      "onboard_time": 1753193062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268525,
       "num": 225932,
       "word": "朝雪录27.4%登顶",
       "onboard_time": 1753188682,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262584,
+      "num": 268740,
+      "word": "贵州茅台出资4.9亿成立科研公司",
+      "onboard_time": 1753191143,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261342,
@@ -857,6 +889,14 @@
       "onboard_time": 1753156162,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249639,
+      "num": 182189,
+      "word": "宝可梦发布会",
+      "onboard_time": 1753192943,
+      "rank": 17,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 249593,
@@ -939,14 +979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233834,
-      "num": 233834,
-      "word": "张继科办赛前曾和马龙樊振东联系",
-      "onboard_time": 1753188261,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229609,
       "num": 229609,
       "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
@@ -995,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219191,
+      "num": 219191,
+      "word": "19岁男生刚上大一就拿到国企offer",
+      "onboard_time": 1753192943,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215528,
       "num": 215528,
       "word": "在美中国女子遭一男子囚禁虐待5天",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1753139839,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 213922,
-      "num": 213922,
-      "word": "韩国今年爆火的男演员",
-      "onboard_time": 1753186640,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 211457,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1753159102,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205204,
+      "num": 177405,
+      "word": "新疆姑娘公路上高举免费取餐",
+      "onboard_time": 1753191263,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 204423,
@@ -1291,6 +1331,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 180481,
+      "num": 180481,
+      "word": "湖南卫视考古白鹿",
+      "onboard_time": 1753193903,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179060,
       "num": 179060,
       "word": "蔡徐坤拍茉莉花",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1753156402,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175646,
+      "num": 175646,
+      "word": "iG战胜WE",
+      "onboard_time": 1753194263,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 174703,
@@ -1427,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168565,
-      "num": 268740,
-      "word": "贵州茅台出资4.9亿成立科研公司",
-      "onboard_time": 1753191143,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168443,
       "num": 168443,
       "word": "战至巅峰4",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1753166062,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161725,
+      "num": 161725,
+      "word": "蝉尿攻击对人体有害吗",
+      "onboard_time": 1753193483,
+      "rank": 25,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 161125,
@@ -1513,6 +1569,14 @@
       "onboard_time": 1753148421,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158694,
+      "num": 180005,
+      "word": "福耀科技大学投档分超厦大哈工大",
+      "onboard_time": 1753192882,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 158039,
@@ -1635,6 +1699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 149578,
+      "num": 149578,
+      "word": "深情眼",
+      "onboard_time": 1753139418,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149183,
       "num": 149183,
       "word": "雅江水电站天才设计",
@@ -1739,6 +1811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143157,
+      "num": 143157,
+      "word": "人际交往中藏着恶意的5句话",
+      "onboard_time": 1753194322,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142938,
       "num": 163588,
       "word": "威尼斯电影节片单",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1753150940,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139523,
+      "num": 139523,
+      "word": "小高和刚喊话第五人格求联动",
+      "onboard_time": 1753194322,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 139339,
@@ -2075,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120091,
+      "num": 120091,
+      "word": "第7号台风范斯高或将生成",
+      "onboard_time": 1753193122,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119948,
       "num": 186928,
       "word": "博主逼狗狗吃槟榔带货遭怼",
@@ -2139,20 +2235,20 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 118126,
+      "num": 118126,
+      "word": "夸克回应崩了",
+      "onboard_time": 1753193964,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116891,
       "num": 116891,
       "word": "全国2800座古镇里近一半成空城",
       "onboard_time": 1753164082,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 116731,
-      "num": 116731,
-      "word": "新疆姑娘公路上高举免费取餐",
-      "onboard_time": 1753191263,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 116703,
@@ -2299,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109172,
+      "num": 109172,
+      "word": "邢昭林古装梦回双世宠妃",
+      "onboard_time": 1753192882,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108525,
       "num": 108525,
       "word": "司法部原副部长刘志强被判13年",
@@ -2337,6 +2441,14 @@
       "onboard_time": 1753168941,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106283,
+      "num": 106283,
+      "word": "民航版12306上线了",
+      "onboard_time": 1753193483,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106052,
@@ -2379,20 +2491,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103738,
-      "num": 128299,
-      "word": "深情眼",
-      "onboard_time": 1753139418,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102692,
       "num": 135808,
       "word": "扫毒风暴天赐出门买东西意外身亡",
       "onboard_time": 1753181601,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102450,
+      "num": 147806,
+      "word": "温以凡你怎么能这么对桑延呢",
+      "onboard_time": 1753183700,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102319,
+      "num": 143675,
+      "word": "摘豆角大爷大娘排队贴甲片",
+      "onboard_time": 1753191683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102269,
@@ -2433,14 +2553,6 @@
       "onboard_time": 1753175240,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99726,
-      "num": 104356,
-      "word": "温以凡你怎么能这么对桑延呢",
-      "onboard_time": 1753183700,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 98647,
@@ -2491,12 +2603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97223,
+      "num": 97223,
+      "word": "主动记录的人一定很爱你",
+      "onboard_time": 1753194263,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97059,
       "num": 128185,
       "word": "朝雪录",
       "onboard_time": 1753099762,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96850,
+      "num": 96850,
+      "word": "你做完这个饼就回家睡觉去",
+      "onboard_time": 1753194443,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 96714,
@@ -2585,6 +2713,14 @@
       "onboard_time": 1753189641,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91006,
+      "num": 107033,
+      "word": "张予曦毕雯珺新剧上高速前下匝道",
+      "onboard_time": 1753193182,
+      "rank": 41,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 90095,
@@ -3003,14 +3139,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 40011,
-      "num": 143675,
-      "word": "摘豆角大爷大娘排队贴甲片",
-      "onboard_time": 1753191683,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38610,
       "num": 131163,
       "word": "广东倡议全体市民防蚊灭蚊",
@@ -3249,6 +3377,9 @@
     },
     {
       "word": "#改革为人民#"
+    },
+    {
+      "word": "#总书记这些话语直抵人心#"
     }
   ]
 }
