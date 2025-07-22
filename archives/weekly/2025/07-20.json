@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753202179262,
+  "endTime": 1753203176304,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -1019,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607814,
+      "num": 607814,
+      "word": "玩CS从5楼坠亡男生即将高三",
+      "onboard_time": 1753198941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607533,
       "num": 386515,
       "word": "梓渝超话热度破纪录",
@@ -1867,14 +1875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392376,
-      "num": 392376,
-      "word": "玩CS从5楼坠亡男生即将高三",
-      "onboard_time": 1753198941,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389469,
       "num": 424830,
       "word": "校园配餐首个国家标准发布",
@@ -2283,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320792,
+      "num": 320792,
+      "word": "朝雪录",
+      "onboard_time": 1753013363,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320186,
       "num": 320186,
       "word": "黄金",
@@ -2521,14 +2529,6 @@
       "onboard_time": 1752940101,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 290928,
-      "num": 290928,
-      "word": "朝雪录",
-      "onboard_time": 1753013363,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 289602,
@@ -3843,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195560,
+      "num": 195560,
+      "word": "樱桃琥珀15集哭成泪人了",
+      "onboard_time": 1753201159,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195384,
       "num": 195384,
       "word": "蛐蛐老板不小心发给他本人了",
@@ -3992,6 +4000,14 @@
       "word": "佛山累计基孔肯雅热确诊1873例",
       "onboard_time": 1753001601,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189514,
+      "num": 189514,
+      "word": "男子强奸大嫂再杀人辩称是受害者",
+      "onboard_time": 1753200080,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -5865,14 +5881,6 @@
       "onboard_time": 1753180941,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142685,
-      "num": 142685,
-      "word": "樱桃琥珀15集哭成泪人了",
-      "onboard_time": 1753201159,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 142671,
@@ -8171,6 +8179,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 102160,
+      "num": 110189,
+      "word": "网友吐槽一餐厅排队到13年后",
+      "onboard_time": 1753200741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102076,
       "num": 102076,
       "word": "陈星旭给宋威龙做手冲咖啡",
@@ -8547,14 +8563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93054,
-      "num": 110189,
-      "word": "网友吐槽一餐厅排队到13年后",
-      "onboard_time": 1753200741,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93001,
       "num": 169845,
       "word": "人民网评喜剧之王单口季",
@@ -8745,14 +8753,6 @@
       "onboard_time": 1753139357,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87207,
-      "num": 87207,
-      "word": "男子强奸大嫂再杀人辩称是受害者",
-      "onboard_time": 1753200080,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87033,
@@ -9195,6 +9195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 67875,
+      "num": 67875,
+      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
+      "onboard_time": 1753201820,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66511,
       "num": 66511,
       "word": "心动的信号8开录",
@@ -9217,14 +9225,6 @@
       "onboard_time": 1753114161,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 65432,
-      "num": 65432,
-      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
-      "onboard_time": 1753201820,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 65227,
@@ -9489,6 +9489,22 @@
       "onboard_time": 1753053378,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56124,
+      "num": 124825,
+      "word": "人民日报刊文总结上半年国产剧集",
+      "onboard_time": 1753201760,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55922,
+      "num": 58446,
+      "word": "别让坏脾气挡了好福气",
+      "onboard_time": 1753200441,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 55851,
@@ -9907,12 +9923,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37677,
-      "num": 119361,
-      "word": "人民日报刊文总结上半年国产剧集",
-      "onboard_time": 1753201760,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 37480,
+      "num": 145499,
+      "word": "实探男孩玩真人CS坠亡事发地",
+      "onboard_time": 1753201879,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37458,
+      "num": 77495,
+      "word": "男孩玩真人CS坠亡目击者发声",
+      "onboard_time": 1753203021,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37227,
@@ -10179,6 +10203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26446,
+      "num": 68051,
+      "word": "发生坠亡事件真人CS商家已停业",
+      "onboard_time": 1753201941,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26034,
       "num": 211680,
       "word": "外卖小哥从10余米高桥面跳河救人",
@@ -10248,22 +10280,6 @@
       "word": "店主回应爱心矿泉水被路人拿来洗脚",
       "onboard_time": 1753118476,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24463,
-      "num": 68051,
-      "word": "发生坠亡事件真人CS商家已停业",
-      "onboard_time": 1753201941,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24009,
-      "num": 136794,
-      "word": "实探男孩玩真人CS坠亡事发地",
-      "onboard_time": 1753201879,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

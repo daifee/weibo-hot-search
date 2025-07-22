@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753202179262,
+  "endTime": 1753203176304,
   "band_list": [
     {
       "raw_hot": 926909,
@@ -20,35 +20,43 @@
     },
     {
       "raw_hot": 659020,
-      "num": 185981,
+      "num": 195208,
       "word": "2高中生骑电动两轮车撞围墙身亡",
       "onboard_time": 1753197742,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 573056,
-      "num": 185133,
-      "word": "宋江曾被经纪公司禁止健身",
-      "onboard_time": 1753196483,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 392376,
-      "num": 392376,
+      "raw_hot": 607814,
+      "num": 607814,
       "word": "玩CS从5楼坠亡男生即将高三",
       "onboard_time": 1753198941,
       "rank": 3,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573056,
+      "num": 192529,
+      "word": "宋江曾被经纪公司禁止健身",
+      "onboard_time": 1753196483,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331440,
-      "num": 184146,
+      "num": 191635,
       "word": "赵美延问中国最火美女是谁",
       "onboard_time": 1753185442,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320792,
+      "num": 320792,
+      "word": "朝雪录",
+      "onboard_time": 1753195103,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 310930,
@@ -57,14 +65,6 @@
       "onboard_time": 1753200201,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290928,
-      "num": 290928,
-      "word": "朝雪录",
-      "onboard_time": 1753195103,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 276941,
@@ -91,12 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223016,
-      "num": 136523,
+      "raw_hot": 236768,
+      "num": 145449,
       "word": "天梭 虞书欣",
       "onboard_time": 1753189343,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 195560,
+      "num": 195560,
+      "word": "樱桃琥珀15集哭成泪人了",
+      "onboard_time": 1753201159,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 192205,
@@ -104,6 +112,14 @@
       "word": "公职人员回应兼职下班送外卖",
       "onboard_time": 1753188321,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189514,
+      "num": 189514,
+      "word": "男子强奸大嫂再杀人辩称是受害者",
+      "onboard_time": 1753200080,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176485,
+      "num": 176485,
+      "word": "胡先煦你让我有点陌生了",
+      "onboard_time": 1753186102,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172524,
       "num": 172524,
       "word": "于正 本人近照巨帅别羡慕",
@@ -131,24 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171125,
-      "num": 171125,
-      "word": "胡先煦你让我有点陌生了",
-      "onboard_time": 1753186102,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 142685,
-      "num": 142685,
-      "word": "樱桃琥珀15集哭成泪人了",
-      "onboard_time": 1753201159,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142646,
-      "num": 142646,
+      "num": 145709,
       "word": "深情眼",
       "onboard_time": 1753188742,
       "rank": 18,
@@ -203,15 +211,7 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 101186,
-      "num": 101186,
-      "word": "曝美国将退出联合国教科文组织",
-      "onboard_time": 1753188383,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 93054,
+      "raw_hot": 102160,
       "num": 110189,
       "word": "网友吐槽一餐厅排队到13年后",
       "onboard_time": 1753200741,
@@ -219,19 +219,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101186,
+      "num": 103595,
+      "word": "曝美国将退出联合国教科文组织",
+      "onboard_time": 1753188383,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91099,
       "num": 91099,
       "word": "山姆员工称好丽友卫龙皆已下架",
       "onboard_time": 1753198882,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87207,
-      "num": 87207,
-      "word": "男子强奸大嫂再杀人辩称是受害者",
-      "onboard_time": 1753200080,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67875,
+      "num": 67875,
+      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
+      "onboard_time": 1753201820,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67015,
       "num": 67015,
       "word": "特斯拉销量冠军因SU7加了定语",
@@ -324,19 +332,11 @@
     },
     {
       "raw_hot": 66096,
-      "num": 80919,
+      "num": 102362,
       "word": "温以凡你怎么能这么对桑延呢",
       "onboard_time": 1753183700,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65432,
-      "num": 65432,
-      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
-      "onboard_time": 1753201820,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 57827,
@@ -348,11 +348,27 @@
     },
     {
       "raw_hot": 57017,
-      "num": 57017,
+      "num": 58358,
       "word": "济南强降雨致2人死亡10人失联",
       "onboard_time": 1753163061,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56124,
+      "num": 124825,
+      "word": "人民日报刊文总结上半年国产剧集",
+      "onboard_time": 1753201760,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55922,
+      "num": 58446,
+      "word": "别让坏脾气挡了好福气",
+      "onboard_time": 1753200441,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 55569,
@@ -372,34 +388,34 @@
     },
     {
       "raw_hot": 46816,
-      "num": 447195,
+      "num": 582942,
       "word": "租房新规来了",
       "onboard_time": 1753168401,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37677,
-      "num": 119361,
-      "word": "人民日报刊文总结上半年国产剧集",
-      "onboard_time": 1753201760,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 37480,
+      "num": 145499,
+      "word": "实探男孩玩真人CS坠亡事发地",
+      "onboard_time": 1753201879,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 24463,
+      "raw_hot": 37458,
+      "num": 77495,
+      "word": "男孩玩真人CS坠亡目击者发声",
+      "onboard_time": 1753203021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26446,
       "num": 68051,
       "word": "发生坠亡事件真人CS商家已停业",
       "onboard_time": 1753201941,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24009,
-      "num": 136794,
-      "word": "实探男孩玩真人CS坠亡事发地",
-      "onboard_time": 1753201879,
-      "rank": 19,
       "category": "民生新闻"
     }
   ],
