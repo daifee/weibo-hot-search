@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753180295439,
+  "endTime": 1753181384000,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -25,6 +25,14 @@
       "onboard_time": 1753153641,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1933786,
+      "num": 1933786,
+      "word": "微信能自动发消息了",
+      "onboard_time": 1753177822,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1463203,
@@ -99,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 846473,
-      "num": 846473,
-      "word": "微信能自动发消息了",
-      "onboard_time": 1753177822,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 836612,
       "num": 261945,
       "word": "孔雪儿机场被男子大吼",
@@ -139,6 +139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 690255,
+      "num": 287371,
+      "word": "李兰迪怎么是邓超型人格",
+      "onboard_time": 1753177042,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 677582,
       "num": 677582,
       "word": "景甜工作室进高人了",
@@ -153,14 +161,6 @@
       "onboard_time": 1753116379,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 668614,
-      "num": 287371,
-      "word": "李兰迪怎么是邓超型人格",
-      "onboard_time": 1753177042,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 661493,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 639769,
+      "num": 639769,
+      "word": "华东理工大学录取通知书涉嫌抄袭",
+      "onboard_time": 1753178541,
+      "rank": 3,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 617449,
       "num": 309108,
       "word": "导师您好不好意思",
@@ -227,19 +235,19 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 614276,
-      "num": 614276,
-      "word": "华东理工大学录取通知书涉嫌抄袭",
-      "onboard_time": 1753178541,
-      "rank": 3,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 614262,
       "num": 614262,
       "word": "济南强降雨致2人死亡10人失联",
       "onboard_time": 1753163061,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608394,
+      "num": 608394,
+      "word": "住宅起火继奶奶独自逃生两小孩遇难",
+      "onboard_time": 1753177341,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -313,14 +321,6 @@
       "onboard_time": 1753164681,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487718,
-      "num": 487718,
-      "word": "住宅起火继奶奶独自逃生两小孩遇难",
-      "onboard_time": 1753177341,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 486683,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391152,
+      "num": 277809,
+      "word": "田栩宁梓渝超话热度",
+      "onboard_time": 1753178122,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388168,
       "num": 388168,
       "word": "白鹿白敬亭入围亚洲内容大赏",
@@ -523,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335825,
-      "num": 277809,
-      "word": "田栩宁梓渝超话热度",
-      "onboard_time": 1753178122,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 338187,
+      "num": 338187,
+      "word": "男子下载app炒股1个月以为赚300万",
+      "onboard_time": 1753178661,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333918,
@@ -803,11 +811,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227925,
-      "num": 227925,
-      "word": "男子下载app炒股1个月以为赚300万",
-      "onboard_time": 1753178661,
-      "rank": 18,
+      "raw_hot": 225530,
+      "num": 225530,
+      "word": "2人带婴儿入境遇检查扔下孩子就跑",
+      "onboard_time": 1753178721,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -915,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204076,
-      "num": 204076,
-      "word": "2人带婴儿入境遇检查扔下孩子就跑",
-      "onboard_time": 1753178721,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201864,
       "num": 201864,
       "word": "男子去世后私生子索要千万遗产",
@@ -1019,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185142,
+      "num": 185142,
+      "word": "亲情还是偶尔体验就好",
+      "onboard_time": 1753180462,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184063,
       "num": 184063,
       "word": "中国旅游大巴再遭零元购",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1753161262,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178000,
+      "num": 178000,
+      "word": "樱桃磕到了我也嗑到了",
+      "onboard_time": 1753180162,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 177837,
@@ -1171,20 +1187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169716,
+      "num": 171044,
+      "word": "知名男演员度假期间被海浪卷走身亡",
+      "onboard_time": 1753178002,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166879,
       "num": 166879,
       "word": "3岁男童从18楼坠落多个内脏破损",
       "onboard_time": 1753176921,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166775,
-      "num": 171044,
-      "word": "知名男演员度假期间被海浪卷走身亡",
-      "onboard_time": 1753178002,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 165550,
@@ -1403,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142938,
+      "num": 163588,
+      "word": "威尼斯电影节片单",
+      "onboard_time": 1753180941,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142671,
       "num": 142671,
       "word": "王楚钦小心翼翼地出洋相",
@@ -1523,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132136,
+      "num": 132136,
+      "word": "我是丁太升不是金武林",
+      "onboard_time": 1753178541,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131574,
       "num": 131574,
       "word": "表妹万福宋祖儿陈鑫海同框路透",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1753099582,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128550,
+      "num": 128550,
+      "word": "又一名厉国俄粉在乌克兰被击毙",
+      "onboard_time": 1753179682,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128080,
@@ -1763,14 +1803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114628,
-      "num": 124506,
-      "word": "樱桃磕到了我也嗑到了",
-      "onboard_time": 1753180162,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114171,
       "num": 114171,
       "word": "樱桃琥珀",
@@ -1788,7 +1820,7 @@
     },
     {
       "raw_hot": 113241,
-      "num": 113241,
+      "num": 710335,
       "word": "夏天的最后1个节气",
       "onboard_time": 1753143142,
       "rank": 40,
@@ -1843,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108525,
+      "num": 108525,
+      "word": "司法部原副部长刘志强被判13年",
+      "onboard_time": 1753180941,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108347,
       "num": 128534,
       "word": "minji开屏",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1753120037,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108103,
+      "num": 114911,
+      "word": "每天掉脂肪的18个小技巧",
+      "onboard_time": 1753179381,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 106912,
@@ -1875,12 +1923,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 105110,
-      "num": 105110,
-      "word": "又一名厉国俄粉在乌克兰被击毙",
-      "onboard_time": 1753179682,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 105721,
+      "num": 105721,
+      "word": "孔雪儿今日大婚造型头饰比头大",
+      "onboard_time": 1753181241,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 105085,
@@ -1915,20 +1963,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102465,
+      "num": 102465,
+      "word": "连续30天早睡面部的变化",
+      "onboard_time": 1753180462,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102269,
       "num": 258308,
       "word": "田某明故意杀人案择期宣判",
       "onboard_time": 1753173081,
       "rank": 13,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 101743,
-      "num": 101743,
-      "word": "我是丁太升不是金武林",
-      "onboard_time": 1753178541,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 101063,
@@ -2075,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86586,
-      "num": 114911,
-      "word": "每天掉脂肪的18个小技巧",
-      "onboard_time": 1753179381,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84827,
       "num": 84827,
       "word": "王楚钦直播",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1753177642,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73710,
+      "num": 105754,
+      "word": "美商务部长称每天凌晨接特朗普电话",
+      "onboard_time": 1753178601,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70926,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1753108883,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 56686,
+      "num": 229167,
+      "word": "Rain法拉利老了还是法拉利",
+      "onboard_time": 1753180703,
+      "rank": 19,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 53708,
