@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753210484667,
+  "endTime": 1753212237967,
   "band_list": [
     {
       "raw_hot": 926909,
@@ -499,19 +499,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23777,
+      "num": 37132,
+      "word": "6双鞋藏15万欧元入境被查",
+      "onboard_time": 1753209016,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22494,
       "num": 22494,
       "word": "见义勇为被害家属讲述庭审过程",
       "onboard_time": 1753206855,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19966,
-      "num": 37132,
-      "word": "6双鞋藏15万欧元入境被查",
-      "onboard_time": 1753209016,
-      "rank": 20,
       "category": "民生新闻"
     },
     {

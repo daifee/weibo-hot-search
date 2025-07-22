@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753210484667,
+  "endTime": 1753212237967,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -74347,6 +74347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23777,
+      "num": 37132,
+      "word": "6双鞋藏15万欧元入境被查",
+      "onboard_time": 1753209016,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23774,
       "num": 23774,
       "word": "陈立农宁波演唱会",
@@ -75193,14 +75201,6 @@
       "onboard_time": 1752775516,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19966,
-      "num": 37132,
-      "word": "6双鞋藏15万欧元入境被查",
-      "onboard_time": 1753209016,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19949,
