@@ -1,0 +1,410 @@
+{
+  "runTime": 1753170257046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990332,
+        "num": 1158453,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652961,
+        "num": 652961,
+        "word": "华尔街展示加沙儿童尸体",
+        "onboard_time": 1753167021,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20298,
+        "num": 569805,
+        "word": "小暑不算热大暑三伏天",
+        "onboard_time": 1753110083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522651,
+        "num": 522651,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433907,
+        "num": 433907,
+        "word": "美国现在怎么成了这个样子",
+        "onboard_time": 1753163241,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1064073,
+        "num": 431109,
+        "word": "六点半下班真的好残忍啊",
+        "onboard_time": 1753161624,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423100,
+        "num": 423100,
+        "word": "租房新规来了",
+        "onboard_time": 1753168401,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370358,
+        "num": 370358,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359309,
+        "num": 359309,
+        "word": "离婚后的龚琳娜终于学会独立",
+        "onboard_time": 1753163121,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294078,
+        "num": 294078,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 942195,
+        "num": 293088,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113111,
+        "num": 280232,
+        "word": "50岁保安提前1小时到岗猝死",
+        "onboard_time": 1753164921,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725582,
+        "num": 273500,
+        "word": "森林北腿部大片淤青疑受伤",
+        "onboard_time": 1753167621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691194,
+        "num": 267439,
+        "word": "徐艺洋都没亲过这么帅的黄子韬",
+        "onboard_time": 1753158502,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617449,
+        "num": 256189,
+        "word": "导师您好不好意思",
+        "onboard_time": 1753166541,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 343803,
+        "num": 251532,
+        "word": "柴鸡蛋 种地",
+        "onboard_time": 1753164681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247052,
+        "num": 247052,
+        "word": "景甜工作室进高人了",
+        "onboard_time": 1753158442,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212569,
+        "num": 212569,
+        "word": "女子称被女儿学校老师性侵感染HPV",
+        "onboard_time": 1753168941,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211228,
+        "num": 211228,
+        "word": "孙菲菲曝业内贪污乱象",
+        "onboard_time": 1753169661,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204028,
+        "num": 211088,
+        "word": "终极揭榜歌手官宣",
+        "onboard_time": 1753161802,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211000,
+        "num": 211000,
+        "word": "以为会长胖其实很减肥的习惯",
+        "onboard_time": 1753169422,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210180,
+        "num": 210180,
+        "word": "遥感卫星发现商周之际最大城址",
+        "onboard_time": 1753168341,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205764,
+        "num": 205764,
+        "word": "村民180万拆迁款变勒索金被判10年",
+        "onboard_time": 1753160482,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 202306,
+        "num": 202306,
+        "word": "结婚证离婚证一个烫金一个烫银",
+        "onboard_time": 1753112123,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200005,
+        "num": 200005,
+        "word": "梓渝鞠婧祎田栩宁超话前三",
+        "onboard_time": 1753163001,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190931,
+        "num": 190931,
+        "word": "李现谈两部芳华里的中式美学",
+        "onboard_time": 1753169301,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162634,
+        "num": 162634,
+        "word": "孔雪儿机场被男子大吼",
+        "onboard_time": 1753157302,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158304,
+        "num": 158304,
+        "word": "旺仔小乔演唱会票价",
+        "onboard_time": 1753163483,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148997,
+        "num": 148997,
+        "word": "iPad上可以玩到天昏地暗的游戏",
+        "onboard_time": 1753166062,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144746,
+        "num": 144746,
+        "word": "程潇陈梦都说不能接受AA制",
+        "onboard_time": 1753167082,
+        "rank": 29,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 142278,
+        "num": 142278,
+        "word": "梓渝音乐节战报",
+        "onboard_time": 1753167382,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139467,
+        "num": 139467,
+        "word": "张予曦毕雯珺红裙单手抱",
+        "onboard_time": 1753167862,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 131297,
+        "word": "湖北可乐600ml",
+        "onboard_time": 1753166241,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127942,
+        "num": 127942,
+        "word": "鹿晗有多爱逛街",
+        "onboard_time": 1753170021,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122983,
+        "num": 122983,
+        "word": "姚译添说孟子义李昀锐很符合跑男气质",
+        "onboard_time": 1753164021,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121294,
+        "num": 121294,
+        "word": "强奸大嫂再杀人男子未表达歉意",
+        "onboard_time": 1753169360,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120221,
+        "num": 120221,
+        "word": "上班几乎不跟同事说一句话",
+        "onboard_time": 1753158502,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28739,
+        "num": 120114,
+        "word": "如何更快发送微信消息",
+        "onboard_time": 1753169482,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46448,
+        "num": 120102,
+        "word": "高铁涨价调查问卷谁同意了",
+        "onboard_time": 1753170141,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34687,
+        "num": 119997,
+        "word": "北京疾控提示预防基孔肯雅热",
+        "onboard_time": 1753170141,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52682,
+        "num": 119804,
+        "word": "沈月把岳云鹏逗成啥样了",
+        "onboard_time": 1753162522,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119778,
+        "num": 119778,
+        "word": "租房9个糟心事有了新规定",
+        "onboard_time": 1753169540,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114607,
+        "num": 114607,
+        "word": "疑似时代少年团跑马拉松",
+        "onboard_time": 1753168999,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109998,
+        "num": 109998,
+        "word": "暴走团升级了",
+        "onboard_time": 1753167740,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12993,
+        "num": 106842,
+        "word": "光遇复刻",
+        "onboard_time": 1753169061,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105827,
+        "num": 105827,
+        "word": "14年前接住的2岁坠楼女孩还好吗",
+        "onboard_time": 1753160723,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104827,
+        "num": 104827,
+        "word": "足协计划组建国家电子竞技足球队",
+        "onboard_time": 1753169422,
+        "rank": 46,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 100857,
+        "num": 100857,
+        "word": "男子去世后私生子索要千万遗产",
+        "onboard_time": 1753162101,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94846,
+        "num": 94846,
+        "word": "新疆成群的牛上山吃天山雪莲",
+        "onboard_time": 1753164681,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94026,
+        "num": 94026,
+        "word": "疑似吴千语怀孕",
+        "onboard_time": 1753170200,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}

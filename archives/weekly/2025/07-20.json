@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753169388630,
+  "endTime": 1753170257046,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 942195,
+      "num": 340165,
+      "word": "旺仔小乔 恋爱告急",
+      "onboard_time": 1753166720,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 937551,
       "num": 937551,
       "word": "天禄",
@@ -481,14 +489,6 @@
       "onboard_time": 1753025841,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 885011,
-      "num": 340165,
-      "word": "旺仔小乔 恋爱告急",
-      "onboard_time": 1753166720,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 873958,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 725582,
+      "num": 301153,
+      "word": "森林北腿部大片淤青疑受伤",
+      "onboard_time": 1753167621,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 707817,
       "num": 373494,
       "word": "5岁男孩脖子长小疙瘩确诊癌症晚期",
@@ -747,6 +755,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 652961,
+      "num": 652961,
+      "word": "华尔街展示加沙儿童尸体",
+      "onboard_time": 1753167021,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 651349,
       "num": 269243,
       "word": "于正七七后续",
@@ -801,6 +817,14 @@
       "onboard_time": 1753016126,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 617449,
+      "num": 309108,
+      "word": "导师您好不好意思",
+      "onboard_time": 1753166541,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 614262,
@@ -891,14 +915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 578287,
-      "num": 578287,
-      "word": "华尔街展示加沙儿童尸体",
-      "onboard_time": 1753167021,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 572427,
       "num": 572427,
       "word": "女烈士遗体被发现时布满弹孔",
@@ -953,14 +969,6 @@
       "onboard_time": 1753141701,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 559509,
-      "num": 309108,
-      "word": "导师您好不好意思",
-      "onboard_time": 1753166541,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 559468,
@@ -1057,14 +1065,6 @@
       "onboard_time": 1753033937,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 531012,
-      "num": 301153,
-      "word": "森林北腿部大片淤青疑受伤",
-      "onboard_time": 1753167621,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 530913,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1753104922,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423100,
+      "num": 423100,
+      "word": "租房新规来了",
+      "onboard_time": 1753168401,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421702,
@@ -2979,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212569,
+      "num": 212569,
+      "word": "女子称被女儿学校老师性侵感染HPV",
+      "onboard_time": 1753168941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211870,
       "num": 296834,
       "word": "张予曦毕雯珺cha了美美桑内",
@@ -3011,12 +3027,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211228,
+      "num": 211228,
+      "word": "孙菲菲曝业内贪污乱象",
+      "onboard_time": 1753169661,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211000,
+      "num": 211000,
+      "word": "以为会长胖其实很减肥的习惯",
+      "onboard_time": 1753169422,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210240,
       "num": 210240,
       "word": "明媒善娶定档预告",
       "onboard_time": 1753068801,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210180,
+      "num": 353483,
+      "word": "遥感卫星发现商周之际最大城址",
+      "onboard_time": 1753168341,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209163,
@@ -3435,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190931,
+      "num": 190931,
+      "word": "李现谈两部芳华里的中式美学",
+      "onboard_time": 1753169301,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190782,
       "num": 190782,
       "word": "中国男排3比2古巴男排",
@@ -3537,14 +3585,6 @@
       "onboard_time": 1753076240,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188096,
-      "num": 353483,
-      "word": "遥感卫星发现商周之际最大城址",
-      "onboard_time": 1753168341,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187707,
@@ -4345,14 +4385,6 @@
       "onboard_time": 1752989121,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161867,
-      "num": 161867,
-      "word": "租房新规来了",
-      "onboard_time": 1753168401,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161707,
@@ -5707,6 +5739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127942,
+      "num": 127942,
+      "word": "鹿晗有多爱逛街",
+      "onboard_time": 1753170021,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127617,
       "num": 178464,
       "word": "头伏饺子",
@@ -5740,7 +5780,7 @@
     },
     {
       "raw_hot": 126907,
-      "num": 126907,
+      "num": 280232,
       "word": "50岁保安提前1小时到岗猝死",
       "onboard_time": 1753164921,
       "rank": 32,
@@ -6027,6 +6067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121294,
+      "num": 121294,
+      "word": "强奸大嫂再杀人男子未表达歉意",
+      "onboard_time": 1753169360,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121198,
       "num": 121198,
       "word": "深圳地铁",
@@ -6072,6 +6120,14 @@
       "word": "女骑手将女儿装外卖箱送外卖",
       "onboard_time": 1753008141,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119778,
+      "num": 119778,
+      "word": "租房9个糟心事有了新规定",
+      "onboard_time": 1753169540,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -6385,6 +6441,14 @@
       "onboard_time": 1752978080,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "疑似时代少年团跑马拉松",
+      "onboard_time": 1753168999,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 114171,
@@ -6899,6 +6963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104827,
+      "num": 104827,
+      "word": "足协计划组建国家电子竞技足球队",
+      "onboard_time": 1753169422,
+      "rank": 46,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 104737,
       "num": 104737,
       "word": "鞠婧祎仙鹤塑党上桌了",
@@ -7187,14 +7259,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96306,
-      "num": 96306,
-      "word": "强奸大嫂再杀人男子未表达歉意",
-      "onboard_time": 1753169360,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95208,
       "num": 95208,
       "word": "女骑手回应将女儿装外卖箱送外卖",
@@ -7257,6 +7321,14 @@
       "onboard_time": 1752994941,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94026,
+      "num": 94026,
+      "word": "疑似吴千语怀孕",
+      "onboard_time": 1753170200,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 94000,
@@ -7827,14 +7899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65092,
-      "num": 108895,
-      "word": "女子称被女儿学校老师性侵感染HPV",
-      "onboard_time": 1753168941,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64852,
       "num": 170290,
       "word": "23岁男子失联34天家属痛哭不已",
@@ -8139,6 +8203,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 52682,
+      "num": 235063,
+      "word": "沈月把岳云鹏逗成啥样了",
+      "onboard_time": 1753162522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52311,
       "num": 191279,
       "word": "女装制版师讲述女装为何又贵又难穿",
@@ -8169,14 +8241,6 @@
       "onboard_time": 1753048514,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 49667,
-      "num": 108907,
-      "word": "疑似时代少年团跑马拉松",
-      "onboard_time": 1753168999,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 49506,
@@ -8248,6 +8312,14 @@
       "word": "路人与未拴绳杜宾犬主人激烈争吵",
       "onboard_time": 1753087283,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46448,
+      "num": 120102,
+      "word": "高铁涨价调查问卷谁同意了",
+      "onboard_time": 1753170141,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -8467,14 +8539,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 36777,
-      "num": 235063,
-      "word": "沈月把岳云鹏逗成啥样了",
-      "onboard_time": 1753162522,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36749,
       "num": 413268,
       "word": "辉煌60载魅力新西藏",
@@ -8520,6 +8584,14 @@
       "word": "遭同居暴力事件女生称法医不予鉴定",
       "onboard_time": 1753111883,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34687,
+      "num": 119997,
+      "word": "北京疾控提示预防基孔肯雅热",
+      "onboard_time": 1753170141,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -8625,6 +8697,14 @@
       "onboard_time": 1753036335,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28739,
+      "num": 120114,
+      "word": "如何更快发送微信消息",
+      "onboard_time": 1753169482,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 28323,
@@ -8985,6 +9065,14 @@
       "onboard_time": 1753126216,
       "rank": 46,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 12993,
+      "num": 106842,
+      "word": "光遇复刻",
+      "onboard_time": 1753169061,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 10096,
