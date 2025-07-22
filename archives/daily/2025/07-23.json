@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753209603234,
+  "endTime": 1753210484667,
   "band_list": [
     {
       "raw_hot": 926909,
@@ -211,6 +211,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 108415,
+      "num": 108415,
+      "word": "英国一双层公交撞桥被削顶",
+      "onboard_time": 1753204697,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105576,
       "num": 110189,
       "word": "网友吐槽一餐厅排队到13年后",
@@ -225,14 +233,6 @@
       "onboard_time": 1753188383,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97103,
-      "num": 97103,
-      "word": "英国一双层公交撞桥被削顶",
-      "onboard_time": 1753204697,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 91099,
@@ -507,20 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14783,
-      "num": 30927,
-      "word": "深情眼镜头美学",
-      "onboard_time": 1753208415,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11886,
+      "raw_hot": 19966,
       "num": 37132,
       "word": "6双鞋藏15万欧元入境被查",
       "onboard_time": 1753209016,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15039,
+      "num": 30927,
+      "word": "深情眼镜头美学",
+      "onboard_time": 1753208415,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 9953,

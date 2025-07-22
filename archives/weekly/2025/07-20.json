@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753209603234,
+  "endTime": 1753210484667,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -7811,6 +7811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108415,
+      "num": 108415,
+      "word": "英国一双层公交撞桥被削顶",
+      "onboard_time": 1753204697,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108347,
       "num": 128534,
       "word": "minji开屏",
@@ -8401,14 +8409,6 @@
       "onboard_time": 1753194263,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97103,
-      "num": 97103,
-      "word": "英国一双层公交撞桥被削顶",
-      "onboard_time": 1753204697,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 96850,
@@ -10515,6 +10515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19966,
+      "num": 37132,
+      "word": "6双鞋藏15万欧元入境被查",
+      "onboard_time": 1753209016,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19531,
       "num": 1202034,
       "word": "今日入伏",
@@ -10579,7 +10587,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14783,
+      "raw_hot": 15039,
       "num": 30927,
       "word": "深情眼镜头美学",
       "onboard_time": 1753208415,
@@ -10625,14 +10633,6 @@
       "onboard_time": 1753169061,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11886,
-      "num": 37132,
-      "word": "6双鞋藏15万欧元入境被查",
-      "onboard_time": 1753209016,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10096,
