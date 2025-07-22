@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753141343737,
+  "endTime": 1753150219452,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -643,12 +643,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661493,
+      "num": 661493,
+      "word": "捏造粪水谣言网民被刑拘",
+      "onboard_time": 1753142841,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661419,
       "num": 661419,
       "word": "三伏天 减肥",
       "onboard_time": 1752993801,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 659478,
+      "num": 659478,
+      "word": "星巴克推出自习室",
+      "onboard_time": 1753147163,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651349,
@@ -673,6 +689,14 @@
       "onboard_time": 1753086202,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 640313,
+      "num": 640313,
+      "word": "5元红色尖叫炒到8900元一箱",
+      "onboard_time": 1753142120,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 633642,
@@ -712,6 +736,14 @@
       "word": "梓渝超话热度破纪录",
       "onboard_time": 1753020626,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 607369,
+      "num": 365660,
+      "word": "王琳怒怼被儿子掌掴谣言",
+      "onboard_time": 1753144101,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1219,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431411,
+      "num": 431411,
+      "word": "不停运动3个月瘦了45斤",
+      "onboard_time": 1753140318,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 428027,
       "num": 428027,
       "word": "第一次见田曦薇这么忸怩",
@@ -1347,6 +1387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 381441,
+      "num": 381441,
+      "word": "相柳",
+      "onboard_time": 1753141701,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380522,
       "num": 380522,
       "word": "中国大坝让印度网民破防了",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1753082002,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 373324,
+      "num": 373324,
+      "word": "白鹿白敬亭入围亚洲内容大赏",
+      "onboard_time": 1753147941,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 372717,
@@ -1395,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366515,
+      "num": 366515,
+      "word": "袁姗姗回应去哀牢山拍戏",
+      "onboard_time": 1753142120,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 364488,
       "num": 364488,
       "word": "刘宇宁演唱会",
@@ -1409,6 +1473,14 @@
       "onboard_time": 1753076062,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360311,
+      "num": 360311,
+      "word": "邵某豪编造虚假警情通报被刑拘",
+      "onboard_time": 1753145842,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359919,
@@ -1468,7 +1540,7 @@
     },
     {
       "raw_hot": 350856,
-      "num": 217085,
+      "num": 258427,
       "word": "丈夫称无法原谅亲弟弟强奸追杀妻子",
       "onboard_time": 1753109123,
       "rank": 33,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1753087463,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315382,
+      "num": 315382,
+      "word": "广东18岁男孩玩真人CS时坠亡",
+      "onboard_time": 1753142900,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312091,
@@ -1803,6 +1883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282146,
+      "num": 282146,
+      "word": "田栩宁对接回应灰指甲",
+      "onboard_time": 1753140680,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279731,
       "num": 279731,
       "word": "世界之外",
@@ -1963,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261342,
+      "num": 261342,
+      "word": "75岁港星帮37岁儿子还债",
+      "onboard_time": 1753140619,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259816,
       "num": 211181,
       "word": "24岁女生吃串串香2年查出胃癌晚期",
@@ -2059,6 +2155,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 252110,
+      "num": 252110,
+      "word": "吃个螺蛳粉被爸爸做局了",
+      "onboard_time": 1753146082,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249989,
       "num": 249989,
       "word": "微信删过的人就不要加第二次了",
@@ -2073,6 +2177,14 @@
       "onboard_time": 1752967338,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248595,
+      "num": 248595,
+      "word": "金价再暴涨",
+      "onboard_time": 1753144462,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 248126,
@@ -2160,6 +2272,14 @@
       "word": "23岁男子失联34天家属发声",
       "onboard_time": 1753105883,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235973,
+      "num": 235973,
+      "word": "12306回应G326票价涨幅近1成",
+      "onboard_time": 1753147701,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -3075,12 +3195,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184403,
-      "num": 184403,
-      "word": "不停运动3个月瘦了45斤",
-      "onboard_time": 1753140318,
-      "rank": 24,
-      "category": "运动健身"
+      "raw_hot": 184063,
+      "num": 184063,
+      "word": "中国旅游大巴再遭零元购",
+      "onboard_time": 1753145061,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183232,
@@ -3283,6 +3403,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 174775,
+      "num": 174775,
+      "word": "花西子 王俊凯",
+      "onboard_time": 1753148601,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 174137,
       "num": 174137,
       "word": "丫鬟连杀四人为惨死全家复仇",
@@ -3369,6 +3497,14 @@
       "onboard_time": 1753063161,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171921,
+      "num": 171921,
+      "word": "曝一残疾妇女遭强占耕地又被殴打",
+      "onboard_time": 1753147041,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171293,
@@ -3683,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161125,
+      "num": 161125,
+      "word": "家长给婴儿绑绷带戒吃手致手指坏死",
+      "onboard_time": 1753140981,
+      "rank": 25,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 160787,
       "num": 182393,
       "word": "无预警公开的NewJeans",
@@ -3713,6 +3857,14 @@
       "onboard_time": 1752986181,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158995,
+      "num": 158995,
+      "word": "门店回应灰指甲顾客拿试用指甲油涂脚",
+      "onboard_time": 1753148421,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158602,
@@ -3897,14 +4049,6 @@
       "onboard_time": 1753009342,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152553,
-      "num": 152553,
-      "word": "家长给婴儿绑绷带戒吃手致手指坏死",
-      "onboard_time": 1753140981,
-      "rank": 25,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 152341,
@@ -4281,6 +4425,14 @@
       "onboard_time": 1753077082,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141187,
+      "num": 141187,
+      "word": "敖瑞鹏真能扛",
+      "onboard_time": 1753141281,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140744,
@@ -4667,14 +4819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129916,
-      "num": 128048,
-      "word": "75岁港星帮37岁儿子还债",
-      "onboard_time": 1753140619,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129469,
       "num": 129469,
       "word": "丁禹兮生日卡片点赞破千万",
@@ -4739,14 +4883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128290,
-      "num": 128290,
-      "word": "田栩宁对接回应灰指甲",
-      "onboard_time": 1753140680,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128228,
       "num": 128228,
       "word": "乒超第二阶段推出包厢票",
@@ -4809,6 +4945,14 @@
       "onboard_time": 1752987021,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126992,
+      "num": 126992,
+      "word": "华为新平板首曝动画功能",
+      "onboard_time": 1753150100,
+      "rank": 36,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 126905,
@@ -5072,6 +5216,14 @@
       "word": "中暑的先兆症状",
       "onboard_time": 1753104983,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120942,
+      "num": 120942,
+      "word": "大暑之后会更热吗",
+      "onboard_time": 1753149860,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -5403,6 +5555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113241,
+      "num": 113241,
+      "word": "夏天的最后1个节气",
+      "onboard_time": 1753143142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113129,
       "num": 113129,
       "word": "花海说上不去王者了",
@@ -5545,6 +5705,14 @@
       "onboard_time": 1753028961,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110105,
+      "num": 110105,
+      "word": "TVB女星姚乐怡称拍戏时曾遭前辈骚扰",
+      "onboard_time": 1753147581,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 110098,
@@ -5955,6 +6123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101063,
+      "num": 101063,
+      "word": "赛里木湖",
+      "onboard_time": 1753140919,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 100993,
       "num": 203293,
       "word": "严浩翔万妮达下狗战队团魂这一块",
@@ -6035,6 +6211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98061,
+      "num": 98061,
+      "word": "Ruler解释选底座原因",
+      "onboard_time": 1753146921,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97507,
       "num": 97507,
       "word": "曾舜晞这条路走了8年",
@@ -6049,6 +6233,14 @@
       "onboard_time": 1752971540,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95378,
+      "num": 95378,
+      "word": "旺仔小乔演唱会",
+      "onboard_time": 1753141339,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 95208,
@@ -6089,6 +6281,14 @@
       "onboard_time": 1753099521,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94177,
+      "num": 94177,
+      "word": "大暑养生5个要点",
+      "onboard_time": 1753148900,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94090,
@@ -6185,6 +6385,14 @@
       "onboard_time": 1753097662,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 90824,
+      "num": 365684,
+      "word": "G326次区间票价从528元涨至571元",
+      "onboard_time": 1753144161,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90722,
@@ -6289,14 +6497,6 @@
       "onboard_time": 1753064601,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86361,
-      "num": 86361,
-      "word": "敖瑞鹏真能扛",
-      "onboard_time": 1753141281,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 86232,
@@ -6625,14 +6825,6 @@
       "onboard_time": 1753063100,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 64927,
-      "num": 64927,
-      "word": "赛里木湖",
-      "onboard_time": 1753140919,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 64852,
@@ -7001,6 +7193,14 @@
       "onboard_time": 1753070423,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47039,
+      "num": 197676,
+      "word": "美股贵金属板块猛涨",
+      "onboard_time": 1753149801,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 46646,
