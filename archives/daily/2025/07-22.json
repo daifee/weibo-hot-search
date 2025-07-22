@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753189054938,
+  "endTime": 1753190000542,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 896183,
-      "num": 227221,
+      "num": 232003,
       "word": "梓渝杂志",
       "onboard_time": 1753186881,
       "rank": 10,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 806774,
-      "num": 223240,
+      "num": 231068,
       "word": "夸克崩了",
       "onboard_time": 1753184780,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 796975,
+      "num": 231460,
+      "word": "赵美延问中国最火美女是谁",
+      "onboard_time": 1753185442,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 753931,
@@ -243,14 +251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 652755,
-      "num": 223151,
-      "word": "赵美延问中国最火美女是谁",
-      "onboard_time": 1753185442,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 645414,
       "num": 645414,
       "word": "以为会长胖其实很减肥的习惯",
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 609127,
+      "num": 230592,
+      "word": "于正 本人近照巨帅别羡慕",
+      "onboard_time": 1753184301,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608394,
       "num": 608394,
       "word": "住宅起火继奶奶独自逃生两小孩遇难",
@@ -304,6 +312,14 @@
       "word": "遇男子强奸嫂子见义勇为被害家属发声",
       "onboard_time": 1753153281,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578477,
+      "num": 229282,
+      "word": "公职人员回应兼职下班送外卖",
+      "onboard_time": 1753188321,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -344,6 +360,14 @@
       "word": "孙菲菲曝业内贪污乱象",
       "onboard_time": 1753169661,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 521146,
+      "num": 228506,
+      "word": "胡先煦你让我有点陌生了",
+      "onboard_time": 1753186102,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -425,14 +449,6 @@
       "onboard_time": 1753160482,
       "rank": 6,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 434226,
-      "num": 218902,
-      "word": "胡先煦你让我有点陌生了",
-      "onboard_time": 1753186102,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 434106,
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388168,
+      "num": 227617,
+      "word": "柴鸡蛋把身后的豆橛子摘了",
+      "onboard_time": 1753187601,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386745,
       "num": 386745,
       "word": "王楚钦解释夺冠背影照",
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 371225,
-      "num": 216481,
+      "num": 226649,
       "word": "错付车费索要无果后轻生家属发声",
       "onboard_time": 1753185561,
       "rank": 14,
@@ -691,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305994,
+      "num": 305994,
+      "word": "曝美国将退出联合国教科文组织",
+      "onboard_time": 1753188383,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299518,
       "num": 299518,
       "word": "沈星回长发",
@@ -713,14 +745,6 @@
       "onboard_time": 1753159462,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 292123,
-      "num": 208021,
-      "word": "于正 本人近照巨帅别羡慕",
-      "onboard_time": 1753184301,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 289195,
@@ -787,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268525,
+      "num": 225932,
+      "word": "朝雪录27.4%登顶",
+      "onboard_time": 1753188682,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261342,
       "num": 261342,
       "word": "75岁港星帮37岁儿子还债",
@@ -835,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246977,
-      "num": 205296,
-      "word": "柴鸡蛋把身后的豆橛子摘了",
-      "onboard_time": 1753187601,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 243534,
+      "num": 243534,
+      "word": "天梭 虞书欣",
+      "onboard_time": 1753189343,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 242475,
@@ -848,14 +880,6 @@
       "word": "乌克兰全境有导弹来袭风险",
       "onboard_time": 1753111404,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 241724,
-      "num": 241724,
-      "word": "曝美国将退出联合国教科文组织",
-      "onboard_time": 1753188383,
-      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -907,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233993,
-      "num": 202644,
-      "word": "公职人员回应兼职下班送外卖",
-      "onboard_time": 1753188321,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229609,
       "num": 229609,
       "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
@@ -937,6 +953,14 @@
       "onboard_time": 1753105644,
       "rank": 6,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 222353,
+      "num": 222353,
+      "word": "张继科办赛前曾和马龙樊振东联系",
+      "onboard_time": 1753188261,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 220870,
@@ -1195,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183209,
-      "num": 183209,
-      "word": "朝雪录27.4%登顶",
-      "onboard_time": 1753188682,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182916,
       "num": 182916,
       "word": "水上过家家只有0次和无数次",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1753148601,
       "rank": 26,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 180903,
-      "num": 180903,
-      "word": "张继科办赛前曾和马龙樊振东联系",
-      "onboard_time": 1753188261,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 179060,
@@ -1371,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169983,
+      "num": 169983,
+      "word": "深情眼开播",
+      "onboard_time": 1753188742,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169032,
       "num": 169032,
       "word": "杜宾犬未拴绳起冲突养狗人登门道歉",
@@ -1451,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158039,
+      "num": 158039,
+      "word": "韩国海王同时交往19人骗十亿韩元",
+      "onboard_time": 1753185382,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 157846,
       "num": 157846,
       "word": "梓渝live营业",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1753141339,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156424,
+      "num": 156424,
+      "word": "梓渝新刊预热",
+      "onboard_time": 1753188862,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 155882,
@@ -1523,6 +1555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151535,
+      "num": 151535,
+      "word": "特斯拉销量冠军因SU7加了定语",
+      "onboard_time": 1753187421,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 151180,
       "num": 151180,
       "word": "第一次见田曦薇这么忸怩",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1753171222,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 149183,
+      "num": 149183,
+      "word": "雅江水电站天才设计",
+      "onboard_time": 1753188621,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148602,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1753156643,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146802,
+      "num": 223093,
+      "word": "严浩翔最尴尬的十五秒",
+      "onboard_time": 1753189761,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 146328,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1753153401,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142318,
-      "num": 142318,
-      "word": "特斯拉销量冠军因SU7加了定语",
-      "onboard_time": 1753187421,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 141187,
@@ -1875,14 +1923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127343,
-      "num": 127343,
-      "word": "深情眼开播",
-      "onboard_time": 1753188742,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127072,
       "num": 127072,
       "word": "建议大家不要轻易离职",
@@ -1963,20 +2003,20 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 121854,
-      "num": 121854,
-      "word": "雅江水电站天才设计",
-      "onboard_time": 1753188621,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121817,
       "num": 121817,
       "word": "连续30天早睡面部的变化",
       "onboard_time": 1753180462,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121588,
+      "num": 121588,
+      "word": "美国或再次退出联合国教科文组织",
+      "onboard_time": 1753189402,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121118,
@@ -2187,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108967,
-      "num": 108967,
-      "word": "梓渝新刊预热",
-      "onboard_time": 1753188862,
-      "rank": 38,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 108525,
       "num": 108525,
       "word": "司法部原副部长刘志强被判13年",
@@ -2283,14 +2315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102972,
-      "num": 102972,
-      "word": "韩国海王同时交往19人骗十亿韩元",
-      "onboard_time": 1753185382,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 102692,
       "num": 135808,
       "word": "扫毒风暴天赐出门买东西意外身亡",
@@ -2331,6 +2355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99726,
+      "num": 104356,
+      "word": "温以凡你怎么能这么对桑延呢",
+      "onboard_time": 1753183700,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98647,
+      "num": 98647,
+      "word": "杨超越张含韵现场背时代少年团名字",
+      "onboard_time": 1753188983,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98237,
       "num": 98237,
       "word": "白鹿把范丞丞PD名牌挡住了",
@@ -2353,14 +2393,6 @@
       "onboard_time": 1753187421,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97754,
-      "num": 104356,
-      "word": "温以凡你怎么能这么对桑延呢",
-      "onboard_time": 1753183700,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 97331,
@@ -2393,14 +2425,6 @@
       "onboard_time": 1753163842,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95190,
-      "num": 95190,
-      "word": "杨超越张含韵现场背时代少年团名字",
-      "onboard_time": 1753188983,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 94847,
@@ -2459,12 +2483,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91674,
+      "num": 91674,
+      "word": "沈星回长毛兔毛发护理",
+      "onboard_time": 1753189641,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 91024,
+      "num": 91024,
+      "word": "今年三伏天为啥少了10天",
+      "onboard_time": 1753187062,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90095,
       "num": 90095,
       "word": "货拉拉的原始资金是靠德州扑克赚的",
       "onboard_time": 1753179682,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89662,
+      "num": 89662,
+      "word": "宋亚轩加冠礼演唱会联排影像",
+      "onboard_time": 1753189943,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 89309,
@@ -2771,6 +2819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 55633,
+      "num": 701608,
+      "word": "万千气象看新疆",
+      "onboard_time": 1753188441,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55328,
       "num": 190478,
       "word": "朱茵岁月不败美人",
@@ -2843,14 +2899,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 40194,
-      "num": 701608,
-      "word": "万千气象看新疆",
-      "onboard_time": 1753188441,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40164,
       "num": 175204,
       "word": "不法商家刻意渲染制造甲醛焦虑",
@@ -2897,6 +2945,14 @@
       "onboard_time": 1753170141,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34134,
+      "num": 229538,
+      "word": "扫毒风暴到底埋了多少条暗线",
+      "onboard_time": 1753189282,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 33189,
