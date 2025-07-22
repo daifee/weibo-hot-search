@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753157620102,
+  "endTime": 1753160308412,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1139971,
+      "num": 330770,
+      "word": "徐艺洋都没亲过这么帅的黄子韬",
+      "onboard_time": 1753158502,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1106445,
       "num": 336145,
       "word": "梓渝站姐",
@@ -489,6 +497,14 @@
       "onboard_time": 1752985822,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 836612,
+      "num": 256269,
+      "word": "孔雪儿机场被男子大吼",
+      "onboard_time": 1753157302,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 824513,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677582,
+      "num": 677582,
+      "word": "景甜工作室进高人了",
+      "onboard_time": 1753158442,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675116,
       "num": 675116,
       "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
@@ -737,6 +761,14 @@
       "onboard_time": 1753057461,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 625176,
+      "num": 625176,
+      "word": "网红旺仔小乔申请艺名商标被驳回",
+      "onboard_time": 1753157422,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 621313,
@@ -1587,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354698,
+      "num": 354698,
+      "word": "印度网友反复观看新闻联播",
+      "onboard_time": 1753156102,
+      "rank": 27,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 354486,
       "num": 354486,
       "word": "小鸟因无价值被留捕鸟网上风干了",
@@ -1715,6 +1755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328867,
+      "num": 328867,
+      "word": "57岁家政阿姨在北京攒下100万",
+      "onboard_time": 1753158563,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327117,
       "num": 327117,
       "word": "霍汶希杜华给女儿暑假做局",
@@ -1825,6 +1873,22 @@
       "onboard_time": 1753076664,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307697,
+      "num": 307697,
+      "word": "过了35岁就别让人猜你多少岁了",
+      "onboard_time": 1753158742,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 307050,
+      "num": 307050,
+      "word": "原神",
+      "onboard_time": 1752987982,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 306070,
@@ -1955,6 +2019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289195,
+      "num": 289195,
+      "word": "光与夜之恋戒指",
+      "onboard_time": 1753158563,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287896,
       "num": 287896,
       "word": "Tarzan发文",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1753091421,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277423,
+      "num": 255437,
+      "word": "上班几乎不跟同事说一句话",
+      "onboard_time": 1753158502,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 276876,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1753079062,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269228,
+      "num": 269228,
+      "word": "龚俊说刘宇宁私下转账很大方",
+      "onboard_time": 1753158683,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 268406,
@@ -2243,6 +2331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 256910,
+      "num": 256910,
+      "word": "王菲朝阳区麻袋天后",
+      "onboard_time": 1753156282,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254764,
       "num": 235283,
       "word": "香奈儿否认自己是扁平足",
@@ -2265,6 +2361,14 @@
       "onboard_time": 1753095862,
       "rank": 8,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 250031,
+      "num": 250031,
+      "word": "扫毒风暴于文文暗恋不了一点",
+      "onboard_time": 1753156162,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 249989,
@@ -2371,14 +2475,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 238010,
-      "num": 192744,
-      "word": "孔雪儿机场被男子大吼",
-      "onboard_time": 1753157302,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236844,
       "num": 303982,
       "word": "23岁男子失联34天家属发声",
@@ -2417,14 +2513,6 @@
       "onboard_time": 1753111104,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233641,
-      "num": 233641,
-      "word": "印度网友反复观看新闻联播",
-      "onboard_time": 1753156102,
-      "rank": 27,
-      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 233032,
@@ -2529,6 +2617,14 @@
       "onboard_time": 1753083921,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221406,
+      "num": 221406,
+      "word": "李兰迪敖瑞鹏回应二搭",
+      "onboard_time": 1753159462,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 220870,
@@ -2763,6 +2859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 211457,
+      "num": 211457,
+      "word": "丁太升点评喻言钟镇涛女儿野花舞台",
+      "onboard_time": 1753159342,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211328,
       "num": 211328,
       "word": "TXT回归",
@@ -2825,6 +2929,14 @@
       "onboard_time": 1753021285,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 206887,
+      "num": 186161,
+      "word": "马龙是史上第二位获复刻杯男选手",
+      "onboard_time": 1753159102,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 206382,
@@ -2963,20 +3075,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 200880,
-      "num": 200880,
-      "word": "扫毒风暴于文文暗恋不了一点",
-      "onboard_time": 1753156162,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200545,
       "num": 200545,
       "word": "Faker赌AL夺冠",
       "onboard_time": 1753015344,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199938,
+      "num": 199938,
+      "word": "梓渝超话签到人数71.2万",
+      "onboard_time": 1753159703,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 199512,
@@ -3049,14 +3161,6 @@
       "onboard_time": 1753096281,
       "rank": 31,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 196102,
-      "num": 196102,
-      "word": "王菲朝阳区麻袋天后",
-      "onboard_time": 1753156282,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 195811,
@@ -3139,14 +3243,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 192361,
-      "num": 192361,
-      "word": "网红旺仔小乔申请艺名商标被驳回",
-      "onboard_time": 1753157422,
-      "rank": 22,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 192320,
       "num": 192320,
       "word": "敖瑞鹏李兰迪短剧式剧宣",
@@ -3187,6 +3283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 189869,
+      "num": 189869,
+      "word": "月夜的叙事诗",
+      "onboard_time": 1753159643,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189694,
       "num": 189694,
       "word": "罗小黑",
@@ -3225,6 +3329,14 @@
       "onboard_time": 1752928042,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188946,
+      "num": 188946,
+      "word": "3000请到贾樟柯",
+      "onboard_time": 1753157661,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 188935,
@@ -3273,6 +3385,14 @@
       "onboard_time": 1753012703,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187074,
+      "num": 187074,
+      "word": "三伏天建议要适当的摆烂",
+      "onboard_time": 1753157181,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 187030,
@@ -3371,11 +3491,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182671,
-      "num": 182671,
-      "word": "三伏天建议要适当的摆烂",
-      "onboard_time": 1753157181,
-      "rank": 26,
+      "raw_hot": 182916,
+      "num": 182916,
+      "word": "水上过家家只有0次和无数次",
+      "onboard_time": 1753159462,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -3532,7 +3652,7 @@
     },
     {
       "raw_hot": 176173,
-      "num": 176173,
+      "num": 332365,
       "word": "全国持社保卡人数达13.9亿人",
       "onboard_time": 1753156402,
       "rank": 29,
@@ -3721,6 +3841,14 @@
       "onboard_time": 1753079541,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171188,
+      "num": 171188,
+      "word": "台风韦帕登陆泰国两名中国游客身亡",
+      "onboard_time": 1753159462,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 171094,
@@ -4059,6 +4187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160771,
+      "num": 160771,
+      "word": "洒水车可没惯着暴走团",
+      "onboard_time": 1753157483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160634,
       "num": 312009,
       "word": "最新央企中国雅江集团成立",
@@ -4203,6 +4339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155882,
+      "num": 155882,
+      "word": "被谢霆锋看上的女人不想反驳",
+      "onboard_time": 1753158863,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "北京晚霞",
@@ -4225,6 +4369,14 @@
       "onboard_time": 1753022545,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154736,
+      "num": 154736,
+      "word": "马龙已经开始期待再访西藏",
+      "onboard_time": 1753160182,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 153586,
@@ -4255,6 +4407,14 @@
       "num": 152984,
       "word": "恋与深空黎深",
       "onboard_time": 1753082841,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 152944,
+      "num": 152944,
+      "word": "无限暖暖",
+      "onboard_time": 1753158863,
       "rank": 42,
       "category": "游戏"
     },
@@ -4659,14 +4819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143051,
-      "num": 143051,
-      "word": "原神",
-      "onboard_time": 1752987982,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 142671,
       "num": 142671,
       "word": "王楚钦小心翼翼地出洋相",
@@ -4795,6 +4947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139281,
+      "num": 139281,
+      "word": "原神挪德卡莱12位新角色",
+      "onboard_time": 1753160182,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139203,
       "num": 139203,
       "word": "杨超越 今天是太阳雨",
@@ -4841,6 +5001,14 @@
       "onboard_time": 1753088662,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 138801,
+      "num": 138801,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1753160241,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 138798,
@@ -7091,6 +7259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69684,
+      "num": 215427,
+      "word": "一诺大帅到沙特先开掐",
+      "onboard_time": 1753159102,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69655,
       "num": 147291,
       "word": "马龙发球谁也接不住",
@@ -7105,6 +7281,14 @@
       "onboard_time": 1752942920,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68933,
+      "num": 160166,
+      "word": "马龙这段演讲又燃又戳泪",
+      "onboard_time": 1753158142,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 68588,
@@ -7449,14 +7633,6 @@
       "onboard_time": 1753072883,
       "rank": 34,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 52459,
-      "num": 141110,
-      "word": "洒水车可没惯着暴走团",
-      "onboard_time": 1753157483,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52311,
@@ -7875,6 +8051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30132,
+      "num": 777255,
+      "word": "山河见证",
+      "onboard_time": 1753159703,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29881,
       "num": 317687,
       "word": "佛山两区号召全体市民灭蚊",
@@ -8057,6 +8241,14 @@
       "onboard_time": 1752953294,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22357,
+      "num": 160017,
+      "word": "孙坚又欠唐嫣一顿饭",
+      "onboard_time": 1753160064,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 22298,
