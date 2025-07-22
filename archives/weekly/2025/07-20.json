@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753170257046,
+  "endTime": 1753173477579,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1222638,
+      "num": 1222638,
+      "word": "租房新规来了",
+      "onboard_time": 1753168401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1218968,
       "num": 1218968,
       "word": "模仿出轨CEO成全球热梗",
@@ -403,20 +411,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 955712,
+      "num": 340165,
+      "word": "旺仔小乔 恋爱告急",
+      "onboard_time": 1753166720,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 950723,
       "num": 359761,
       "word": "欲望羞耻",
       "onboard_time": 1753000641,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 942195,
-      "num": 340165,
-      "word": "旺仔小乔 恋爱告急",
-      "onboard_time": 1753166720,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 937551,
@@ -771,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649110,
+      "num": 649110,
+      "word": "应届生拒绝offer被HR威胁业内封杀",
+      "onboard_time": 1753170801,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645414,
+      "num": 645414,
+      "word": "以为会长胖其实很减肥的习惯",
+      "onboard_time": 1753169422,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 645355,
       "num": 348593,
       "word": "CEO出轨梗",
@@ -963,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 565330,
+      "num": 254210,
+      "word": "疑似吴千语怀孕",
+      "onboard_time": 1753170200,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559939,
       "num": 559939,
       "word": "相柳",
@@ -1075,6 +1107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 528401,
+      "num": 528401,
+      "word": "孙菲菲曝业内贪污乱象",
+      "onboard_time": 1753169661,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527042,
       "num": 527042,
       "word": "杨紫都有点不敢回魏哲鸣了",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1752986421,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508865,
+      "num": 508865,
+      "word": "女子称被女儿学校老师性侵感染HPV",
+      "onboard_time": 1753168941,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 508682,
@@ -1481,14 +1529,6 @@
       "onboard_time": 1753104922,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423100,
-      "num": 423100,
-      "word": "租房新规来了",
-      "onboard_time": 1753168401,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 421702,
@@ -2371,6 +2411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 264513,
+      "num": 264513,
+      "word": "华尔街展示加沙儿童尸体模型",
+      "onboard_time": 1753167021,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 264423,
       "num": 264423,
       "word": "不要修16岁拍的照片",
@@ -2547,6 +2595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245396,
+      "num": 245396,
+      "word": "足协计划组建国家电子竞技足球队",
+      "onboard_time": 1753169422,
+      "rank": 46,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 245076,
       "num": 245076,
       "word": "穷小孩的人生是从30岁开始的",
@@ -2609,6 +2665,14 @@
       "onboard_time": 1753058782,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 237120,
+      "num": 256281,
+      "word": "李现谈两部芳华里的中式美学",
+      "onboard_time": 1753169301,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 236844,
@@ -2987,14 +3051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212569,
-      "num": 212569,
-      "word": "女子称被女儿学校老师性侵感染HPV",
-      "onboard_time": 1753168941,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211870,
       "num": 296834,
       "word": "张予曦毕雯珺cha了美美桑内",
@@ -3025,22 +3081,6 @@
       "onboard_time": 1753089682,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211228,
-      "num": 211228,
-      "word": "孙菲菲曝业内贪污乱象",
-      "onboard_time": 1753169661,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 211000,
-      "num": 211000,
-      "word": "以为会长胖其实很减肥的习惯",
-      "onboard_time": 1753169422,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 210240,
@@ -3473,14 +3513,6 @@
       "onboard_time": 1753011141,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190931,
-      "num": 190931,
-      "word": "李现谈两部芳华里的中式美学",
-      "onboard_time": 1753169301,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 190782,
@@ -4259,6 +4291,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 166190,
+      "num": 166190,
+      "word": "首款折叠iPhone定价或超一万四千元",
+      "onboard_time": 1753171340,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165607,
       "num": 165607,
       "word": "刘宇宁书卷一梦顶级售后",
@@ -4297,6 +4337,14 @@
       "onboard_time": 1753087642,
       "rank": 33,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 164882,
+      "num": 246672,
+      "word": "鹿晗有多爱逛街",
+      "onboard_time": 1753170021,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 164572,
@@ -4651,6 +4699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154992,
+      "num": 154992,
+      "word": "强奸大嫂再杀人男子未表达歉意",
+      "onboard_time": 1753169360,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154736,
       "num": 154736,
       "word": "马龙已经开始期待再访西藏",
@@ -4849,6 +4905,14 @@
       "onboard_time": 1753016965,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150049,
+      "num": 150049,
+      "word": "韩安冉说即将得知双胞胎性别",
+      "onboard_time": 1753171222,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 149952,
@@ -5395,6 +5459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136556,
+      "num": 160077,
+      "word": "现在就出发3原班人马陆续抵达西藏",
+      "onboard_time": 1753173142,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135805,
       "num": 135805,
       "word": "上班唯一目的就是赚钱",
@@ -5579,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131574,
+      "num": 131574,
+      "word": "表妹万福宋祖儿陈鑫海同框路透",
+      "onboard_time": 1753172061,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131182,
       "num": 131182,
       "word": "杨紫和剧组深入学习传统妆造",
@@ -5739,14 +5819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127942,
-      "num": 127942,
-      "word": "鹿晗有多爱逛街",
-      "onboard_time": 1753170021,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127617,
       "num": 178464,
       "word": "头伏饺子",
@@ -5788,7 +5860,7 @@
     },
     {
       "raw_hot": 126905,
-      "num": 704585,
+      "num": 732215,
       "word": "小暑不算热大暑三伏天",
       "onboard_time": 1753110083,
       "rank": 32,
@@ -5912,6 +5984,14 @@
       "word": "老实人思维vs精明人思维",
       "onboard_time": 1752993261,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124762,
+      "num": 124762,
+      "word": "充话费为什么会缺货",
+      "onboard_time": 1753172601,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -6065,14 +6145,6 @@
       "onboard_time": 1752986961,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121294,
-      "num": 121294,
-      "word": "强奸大嫂再杀人男子未表达歉意",
-      "onboard_time": 1753169360,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121198,
@@ -6275,6 +6347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117086,
+      "num": 117086,
+      "word": "疑似时代少年团跑马拉松",
+      "onboard_time": 1753168999,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117054,
       "num": 303689,
       "word": "因臭水困扰市民到市区买水买饭",
@@ -6443,14 +6523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 114607,
-      "num": 114607,
-      "word": "疑似时代少年团跑马拉松",
-      "onboard_time": 1753168999,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114171,
       "num": 114171,
       "word": "樱桃琥珀",
@@ -6569,6 +6641,14 @@
       "onboard_time": 1753167141,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112538,
+      "num": 119587,
+      "word": "坚持1000天埼玉训练法的意义",
+      "onboard_time": 1753172421,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 112382,
@@ -6859,6 +6939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106684,
+      "num": 106684,
+      "word": "杭州3岁男童18楼坠下奇迹生还",
+      "onboard_time": 1753173381,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106633,
       "num": 213998,
       "word": "韩济州航空空难中期调查结果遭质疑",
@@ -6963,14 +7051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104827,
-      "num": 104827,
-      "word": "足协计划组建国家电子竞技足球队",
-      "onboard_time": 1753169422,
-      "rank": 46,
-      "category": "体育,电竞"
-    },
-    {
       "raw_hot": 104737,
       "num": 104737,
       "word": "鞠婧祎仙鹤塑党上桌了",
@@ -7057,6 +7137,14 @@
       "onboard_time": 1752990502,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103015,
+      "num": 103015,
+      "word": "黄子韬徐艺洋三里屯吃火锅",
+      "onboard_time": 1753171163,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 102666,
@@ -7177,6 +7265,14 @@
       "onboard_time": 1752923961,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99843,
+      "num": 118560,
+      "word": "布拉德皮特 刘亦菲优选",
+      "onboard_time": 1753172662,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 99489,
@@ -7321,14 +7417,6 @@
       "onboard_time": 1752994941,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94026,
-      "num": 94026,
-      "word": "疑似吴千语怀孕",
-      "onboard_time": 1753170200,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 94000,
@@ -7665,6 +7753,14 @@
       "onboard_time": 1753003762,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80538,
+      "num": 258308,
+      "word": "田某明故意杀人案择期宣判",
+      "onboard_time": 1753173081,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 78355,
@@ -8185,6 +8281,14 @@
       "onboard_time": 1753021705,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54057,
+      "num": 248652,
+      "word": "临汾明代古城墙砖疑遭倒卖每块95元",
+      "onboard_time": 1753172541,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53708,
@@ -8977,6 +9081,14 @@
       "onboard_time": 1752982519,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19483,
+      "num": 257275,
+      "word": "用智搜分析看懂小米海报构图争议",
+      "onboard_time": 1753173081,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 19118,

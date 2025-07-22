@@ -1,0 +1,410 @@
+{
+  "runTime": 1753173477579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1222638,
+        "num": 1222638,
+        "word": "租房新规来了",
+        "onboard_time": 1753168401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830286,
+        "num": 830286,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31612,
+        "num": 732215,
+        "word": "小暑不算热大暑三伏天",
+        "onboard_time": 1753110083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649110,
+        "num": 649110,
+        "word": "应届生拒绝offer被HR威胁业内封杀",
+        "onboard_time": 1753170801,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645414,
+        "num": 645414,
+        "word": "以为会长胖其实很减肥的习惯",
+        "onboard_time": 1753169422,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 528401,
+        "num": 528401,
+        "word": "孙菲菲曝业内贪污乱象",
+        "onboard_time": 1753169661,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508865,
+        "num": 508865,
+        "word": "女子称被女儿学校老师性侵感染HPV",
+        "onboard_time": 1753168941,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389739,
+        "num": 389739,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319753,
+        "num": 319753,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264513,
+        "num": 264513,
+        "word": "华尔街展示加沙儿童尸体模型",
+        "onboard_time": 1753167021,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 955712,
+        "num": 263363,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 685577,
+        "num": 262493,
+        "word": "徐艺洋都没亲过这么帅的黄子韬",
+        "onboard_time": 1753158502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568275,
+        "num": 260519,
+        "word": "导师您好不好意思",
+        "onboard_time": 1753166541,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 80538,
+        "num": 258308,
+        "word": "田某明故意杀人案择期宣判",
+        "onboard_time": 1753173081,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 19483,
+        "num": 257275,
+        "word": "用智搜分析看懂小米海报构图争议",
+        "onboard_time": 1753173081,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237120,
+        "num": 256281,
+        "word": "李现谈两部芳华里的中式美学",
+        "onboard_time": 1753169301,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565330,
+        "num": 254210,
+        "word": "疑似吴千语怀孕",
+        "onboard_time": 1753170200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539594,
+        "num": 252376,
+        "word": "森林北腿部大片淤青疑受伤",
+        "onboard_time": 1753167621,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301532,
+        "num": 251260,
+        "word": "柴鸡蛋 种地",
+        "onboard_time": 1753164681,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54057,
+        "num": 248652,
+        "word": "临汾明代古城墙砖疑遭倒卖每块95元",
+        "onboard_time": 1753172541,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212581,
+        "num": 248085,
+        "word": "景甜工作室进高人了",
+        "onboard_time": 1753158442,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164882,
+        "num": 246672,
+        "word": "鹿晗有多爱逛街",
+        "onboard_time": 1753170021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245396,
+        "num": 245396,
+        "word": "足协计划组建国家电子竞技足球队",
+        "onboard_time": 1753169422,
+        "rank": 22,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 222955,
+        "num": 222955,
+        "word": "美国现在怎么成了这个样子",
+        "onboard_time": 1753163241,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222240,
+        "num": 222240,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 24,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 171652,
+        "num": 171652,
+        "word": "旺仔小乔演唱会票价",
+        "onboard_time": 1753163483,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166190,
+        "num": 166190,
+        "word": "首款折叠iPhone定价或超一万四千元",
+        "onboard_time": 1753171340,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 160077,
+        "word": "现在就出发3原班人马陆续抵达西藏",
+        "onboard_time": 1753173142,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135255,
+        "num": 156306,
+        "word": "程潇陈梦都说不能接受AA制",
+        "onboard_time": 1753167082,
+        "rank": 28,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 132894,
+        "num": 155418,
+        "word": "离婚后的龚琳娜终于学会独立",
+        "onboard_time": 1753163121,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154992,
+        "num": 154992,
+        "word": "强奸大嫂再杀人男子未表达歉意",
+        "onboard_time": 1753169360,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150049,
+        "num": 150049,
+        "word": "韩安冉说即将得知双胞胎性别",
+        "onboard_time": 1753171222,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141679,
+        "num": 141679,
+        "word": "iPad上可以玩到天昏地暗的游戏",
+        "onboard_time": 1753166062,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131574,
+        "num": 131574,
+        "word": "表妹万福宋祖儿陈鑫海同框路透",
+        "onboard_time": 1753172061,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124762,
+        "num": 124762,
+        "word": "充话费为什么会缺货",
+        "onboard_time": 1753172601,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122606,
+        "num": 122606,
+        "word": "梓渝鞠婧祎田栩宁超话前三",
+        "onboard_time": 1753163001,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122598,
+        "num": 122598,
+        "word": "50岁保安提前1小时到岗猝死",
+        "onboard_time": 1753164921,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112538,
+        "num": 119587,
+        "word": "坚持1000天埼玉训练法的意义",
+        "onboard_time": 1753172421,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 99843,
+        "num": 118560,
+        "word": "布拉德皮特 刘亦菲优选",
+        "onboard_time": 1753172662,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118553,
+        "num": 118553,
+        "word": "终极揭榜歌手官宣",
+        "onboard_time": 1753161802,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 117086,
+        "word": "疑似时代少年团跑马拉松",
+        "onboard_time": 1753168999,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116631,
+        "num": 116631,
+        "word": "孔雪儿机场被男子大吼",
+        "onboard_time": 1753157302,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115717,
+        "num": 115717,
+        "word": "暴走团升级了",
+        "onboard_time": 1753167740,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116126,
+        "num": 115693,
+        "word": "梓渝音乐节战报",
+        "onboard_time": 1753167382,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115603,
+        "num": 115603,
+        "word": "张予曦毕雯珺红裙单手抱",
+        "onboard_time": 1753167862,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106684,
+        "num": 106684,
+        "word": "杭州3岁男童18楼坠下奇迹生还",
+        "onboard_time": 1753173381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103015,
+        "num": 103015,
+        "word": "黄子韬徐艺洋三里屯吃火锅",
+        "onboard_time": 1753171163,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100592,
+        "num": 100592,
+        "word": "结婚证离婚证一个烫金一个烫银",
+        "onboard_time": 1753112123,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99314,
+        "num": 99314,
+        "word": "湖北可乐600ml",
+        "onboard_time": 1753166241,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97520,
+        "num": 97520,
+        "word": "租房9个糟心事有了新规定",
+        "onboard_time": 1753169540,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
