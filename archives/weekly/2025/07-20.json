@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753163378294,
+  "endTime": 1753166451096,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1216601,
-      "num": 330770,
+      "num": 373063,
       "word": "徐艺洋都没亲过这么帅的黄子韬",
       "onboard_time": 1753158502,
       "rank": 10,
@@ -321,6 +321,14 @@
       "onboard_time": 1753099582,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1171521,
+      "num": 1171521,
+      "word": "六点半下班真的好残忍啊",
+      "onboard_time": 1753161624,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 1167453,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596763,
+      "num": 596763,
+      "word": "美国现在怎么成了这个样子",
+      "onboard_time": 1753163241,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 591083,
       "num": 591083,
       "word": "现在就出发",
@@ -1220,7 +1236,7 @@
     },
     {
       "raw_hot": 472388,
-      "num": 289599,
+      "num": 370212,
       "word": "上班几乎不跟同事说一句话",
       "onboard_time": 1753158502,
       "rank": 21,
@@ -1339,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445164,
+      "num": 445164,
+      "word": "终极揭榜歌手官宣",
+      "onboard_time": 1753161802,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444300,
       "num": 444300,
       "word": "十八线歌手音综垫底逆袭成第二",
@@ -1363,12 +1387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 435979,
-      "num": 435979,
-      "word": "六点半下班真的好残忍啊",
-      "onboard_time": 1753161624,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 438195,
+      "num": 438195,
+      "word": "村民180万拆迁款变勒索金被判10年",
+      "onboard_time": 1753160482,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 434106,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1753002082,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 413251,
-      "num": 413251,
-      "word": "村民180万拆迁款变勒索金被判10年",
-      "onboard_time": 1753160482,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 411776,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1753134854,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 396725,
+      "num": 363753,
+      "word": "梓渝鞠婧祎田栩宁超话前三",
+      "onboard_time": 1753163001,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 394394,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1753076062,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 362288,
+      "num": 362288,
+      "word": "柴鸡蛋 种地",
+      "onboard_time": 1753164681,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 360311,
@@ -1771,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333752,
+      "num": 333752,
+      "word": "女子要跟男友领证发现户口被丈夫销了",
+      "onboard_time": 1753160902,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333130,
       "num": 333130,
       "word": "朱珠晒生日合照",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1752926120,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 329063,
-      "num": 275373,
-      "word": "女子要跟男友领证发现户口被丈夫销了",
-      "onboard_time": 1753160902,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327117,
@@ -1915,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311690,
+      "num": 311690,
+      "word": "济南强降雨致2人死亡10人失联",
+      "onboard_time": 1753163061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307697,
       "num": 307697,
       "word": "过了35岁就别让人猜你多少岁了",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1752936323,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296263,
-      "num": 296263,
-      "word": "终极揭榜歌手官宣",
-      "onboard_time": 1753161802,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 295551,
@@ -2115,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284306,
+      "num": 284306,
+      "word": "姚译添说孟子义李昀锐很符合跑男气质",
+      "onboard_time": 1753164021,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284117,
       "num": 389609,
       "word": "颖儿我那时髦的二姑",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1753091421,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279275,
+      "num": 377271,
+      "word": "离婚后的龚琳娜终于学会独立",
+      "onboard_time": 1753163121,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 276876,
@@ -2555,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234097,
+      "num": 234097,
+      "word": "旺仔小乔演唱会票价",
+      "onboard_time": 1753163483,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "单依纯回应编曲两级评价",
@@ -2681,14 +2737,6 @@
       "onboard_time": 1753014325,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220276,
-      "num": 220276,
-      "word": "梓渝鞠婧祎田栩宁超话前三",
-      "onboard_time": 1753163001,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 220265,
@@ -3089,6 +3137,14 @@
       "onboard_time": 1753079782,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201864,
+      "num": 201864,
+      "word": "男子去世后私生子索要千万遗产",
+      "onboard_time": 1753162101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201788,
@@ -3571,6 +3627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182666,
+      "num": 259940,
+      "word": "丁程鑫顶级中译中",
+      "onboard_time": 1753166062,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182459,
       "num": 182459,
       "word": "甘肃幼儿血铅6人被逮捕",
@@ -3801,14 +3865,6 @@
       "onboard_time": 1753034057,
       "rank": 11,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 174920,
-      "num": 174920,
-      "word": "美国现在怎么成了这个样子",
-      "onboard_time": 1753163241,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 174137,
@@ -4321,6 +4377,14 @@
       "onboard_time": 1752986181,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159337,
+      "num": 159337,
+      "word": "宁艺卓费加罗七月刊预告",
+      "onboard_time": 1753166362,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 158995,
@@ -4867,6 +4931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145126,
+      "num": 145126,
+      "word": "iPad上可以玩到天昏地暗的游戏",
+      "onboard_time": 1753166062,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145104,
       "num": 145104,
       "word": "三伏天喝羊汤",
@@ -5075,14 +5147,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139261,
-      "num": 139928,
-      "word": "男子去世后私生子索要千万遗产",
-      "onboard_time": 1753162101,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139203,
       "num": 139203,
       "word": "杨超越 今天是太阳雨",
@@ -5185,6 +5249,14 @@
       "onboard_time": 1753075761,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138147,
+      "num": 138147,
+      "word": "新疆成群的牛上山吃天山雪莲",
+      "onboard_time": 1753164681,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137948,
@@ -5459,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129963,
+      "num": 129963,
+      "word": "82人曾打退20倍敌人的进攻",
+      "onboard_time": 1753164380,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129469,
       "num": 129469,
       "word": "丁禹兮生日卡片点赞破千万",
@@ -5579,6 +5659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126907,
+      "num": 126907,
+      "word": "50岁保安提前1小时到岗猝死",
+      "onboard_time": 1753164921,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126905,
       "num": 126905,
       "word": "小暑不算热大暑三伏天",
@@ -5641,6 +5729,14 @@
       "onboard_time": 1753020444,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125534,
+      "num": 125534,
+      "word": "曹骏少年剑客感",
+      "onboard_time": 1753162882,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 125527,
@@ -5755,14 +5851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123786,
-      "num": 123786,
-      "word": "离婚后的龚琳娜终于学会独立",
-      "onboard_time": 1753163121,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123763,
       "num": 389877,
       "word": "韦帕在广东正式登陆",
@@ -5849,6 +5937,14 @@
       "onboard_time": 1752984860,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121118,
+      "num": 121118,
+      "word": "我们的宿舍",
+      "onboard_time": 1753165822,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 120976,
@@ -6033,6 +6129,14 @@
       "onboard_time": 1753010782,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116891,
+      "num": 116891,
+      "word": "全国2800座古镇里近一半成空城",
+      "onboard_time": 1753164082,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 116699,
@@ -6715,6 +6819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103831,
+      "num": 103831,
+      "word": "孟子义李雪琴五年来给彼此的支撑",
+      "onboard_time": 1753165522,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103472,
       "num": 103472,
       "word": "NIP战胜LNG",
@@ -6769,6 +6881,14 @@
       "onboard_time": 1752984082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102572,
+      "num": 102572,
+      "word": "湖北可乐600ml",
+      "onboard_time": 1753166241,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 102500,
@@ -6851,6 +6971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100369,
+      "num": 100369,
+      "word": "巴以冲突",
+      "onboard_time": 1753166121,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99965,
       "num": 99965,
       "word": "你看我像公务员还是事业编",
@@ -6899,14 +7027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98476,
-      "num": 174925,
-      "word": "济南强降雨致2人死亡10人失联",
-      "onboard_time": 1753163061,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98061,
       "num": 98061,
       "word": "Ruler解释选底座原因",
@@ -6921,6 +7041,14 @@
       "onboard_time": 1753008381,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96672,
+      "num": 96672,
+      "word": "有的人一看就知道工作能力很强",
+      "onboard_time": 1753163842,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 96663,
@@ -6961,6 +7089,14 @@
       "onboard_time": 1752993922,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94385,
+      "num": 94385,
+      "word": "突击减肥过量运动的后果",
+      "onboard_time": 1753164320,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94289,
@@ -7009,6 +7145,14 @@
       "onboard_time": 1752938542,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93161,
+      "num": 93161,
+      "word": "我怀疑月经有自我意识",
+      "onboard_time": 1753160782,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 93105,
@@ -8145,6 +8289,14 @@
       "onboard_time": 1753140799,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38192,
+      "num": 103045,
+      "word": "杨洋演韩立天天步数第一吧",
+      "onboard_time": 1753165581,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 37227,
