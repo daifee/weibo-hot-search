@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753150219452,
+  "endTime": 1753151725993,
   "band_list": [
     {
       "raw_hot": 2138175,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 918050,
+      "num": 918050,
+      "word": "星巴克推出自习室",
+      "onboard_time": 1753147163,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675116,
       "num": 675116,
       "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
@@ -48,14 +56,6 @@
       "word": "捏造粪水谣言网民被刑拘",
       "onboard_time": 1753142841,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 659478,
-      "num": 659478,
-      "word": "星巴克推出自习室",
-      "onboard_time": 1753147163,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -83,6 +83,22 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 486683,
+      "num": 337019,
+      "word": "吃个螺蛳粉被爸爸做局了",
+      "onboard_time": 1753146082,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 464157,
+      "num": 464157,
+      "word": "12306回应G326票价涨幅近1成",
+      "onboard_time": 1753147701,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431411,
       "num": 431411,
       "word": "不停运动3个月瘦了45斤",
@@ -107,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 388168,
+      "num": 388168,
+      "word": "白鹿白敬亭入围亚洲内容大赏",
+      "onboard_time": 1753147941,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383076,
       "num": 138894,
       "word": "汪硕造型",
@@ -121,14 +145,6 @@
       "onboard_time": 1753141701,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373324,
-      "num": 373324,
-      "word": "白鹿白敬亭入围亚洲内容大赏",
-      "onboard_time": 1753147941,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 366515,
@@ -179,8 +195,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282146,
-      "num": 282146,
+      "raw_hot": 286181,
+      "num": 286181,
       "word": "田栩宁对接回应灰指甲",
       "onboard_time": 1753140680,
       "rank": 30,
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252110,
-      "num": 252110,
-      "word": "吃个螺蛳粉被爸爸做局了",
-      "onboard_time": 1753146082,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248595,
       "num": 248595,
       "word": "金价再暴涨",
@@ -251,20 +259,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 235973,
-      "num": 235973,
-      "word": "12306回应G326票价涨幅近1成",
-      "onboard_time": 1753147701,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235302,
       "num": 235302,
       "word": "印度国内因战机被击落吵翻天",
       "onboard_time": 1753111104,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 234912,
+      "num": 234912,
+      "word": "金建希博士学位也没了",
+      "onboard_time": 1753150580,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 229609,
@@ -355,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182444,
+      "num": 182444,
+      "word": "黄婷婷闯进恶毒女配赛道",
+      "onboard_time": 1753151120,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174775,
       "num": 174775,
       "word": "花西子 王俊凯",
@@ -363,12 +379,36 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 173826,
+      "num": 222138,
+      "word": "于正回应破防",
+      "onboard_time": 1753150760,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171921,
       "num": 171921,
       "word": "曝一残疾妇女遭强占耕地又被殴打",
       "onboard_time": 1753147041,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165142,
+      "num": 182196,
+      "word": "大暑之后会更热吗",
+      "onboard_time": 1753149860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162843,
+      "num": 162843,
+      "word": "减肥黄金期来了",
+      "onboard_time": 1753150940,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 161125,
@@ -403,6 +443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146832,
+      "num": 146832,
+      "word": "特朗普政府公布马丁路德金相关记录",
+      "onboard_time": 1753151422,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146285,
+      "num": 146285,
+      "word": "华为新平板首曝动画功能",
+      "onboard_time": 1753150100,
+      "rank": 36,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 141187,
       "num": 141187,
       "word": "敖瑞鹏真能扛",
@@ -411,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141097,
+      "num": 365684,
+      "word": "G326次区间票价从528元涨至571元",
+      "onboard_time": 1753144161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140271,
       "num": 140271,
       "word": "婚姻登记处向领到离婚证的新人道歉",
       "onboard_time": 1753097481,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139820,
+      "num": 183515,
+      "word": "揭秘KKV关联公司",
+      "onboard_time": 1753150940,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 139339,
@@ -435,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139049,
+      "num": 139049,
+      "word": "雷军称特斯拉保值率非常不错",
+      "onboard_time": 1753150100,
+      "rank": 39,
+      "category": "汽车,互联网"
+    },
+    {
       "raw_hot": 128808,
       "num": 175091,
       "word": "张凌赫的手好像比赵今麦的腿白",
@@ -451,14 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126992,
-      "num": 126992,
-      "word": "华为新平板首曝动画功能",
-      "onboard_time": 1753150100,
-      "rank": 36,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 126905,
       "num": 126905,
       "word": "小暑不算热大暑三伏天",
@@ -473,14 +545,6 @@
       "onboard_time": 1753101861,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120942,
-      "num": 120942,
-      "word": "大暑之后会更热吗",
-      "onboard_time": 1753149860,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113241,
@@ -531,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102198,
+      "num": 102198,
+      "word": "旺仔小乔演唱会",
+      "onboard_time": 1753141339,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101180,
       "num": 101180,
       "word": "恋与深空",
@@ -563,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95378,
-      "num": 95378,
-      "word": "旺仔小乔演唱会",
-      "onboard_time": 1753141339,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 94177,
       "num": 94177,
       "word": "大暑养生5个要点",
@@ -579,11 +643,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 90824,
-      "num": 365684,
-      "word": "G326次区间票价从528元涨至571元",
-      "onboard_time": 1753144161,
-      "rank": 9,
+      "raw_hot": 93105,
+      "num": 101362,
+      "word": "G326次高铁票价1年半涨超40元",
+      "onboard_time": 1753151422,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -633,6 +697,14 @@
       "onboard_time": 1753110683,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 81184,
+      "num": 101501,
+      "word": "星巴克回应广深地区推出自习室",
+      "onboard_time": 1753151541,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78374,
@@ -897,6 +969,14 @@
       "onboard_time": 1753129695,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17824,
+      "num": 182043,
+      "word": "官方通报网传录取通知书混入广告单",
+      "onboard_time": 1753151541,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17288,
