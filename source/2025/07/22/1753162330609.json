@@ -1,0 +1,410 @@
+{
+  "runTime": 1753162330609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1608358,
+        "num": 1608358,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820100,
+        "num": 820100,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17950,
+        "num": 722584,
+        "word": "中暑的先兆症状",
+        "onboard_time": 1753104983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657496,
+        "num": 657496,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 618238,
+        "num": 618238,
+        "word": "景甜工作室进高人了",
+        "onboard_time": 1753158442,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488298,
+        "num": 488298,
+        "word": "57岁家政阿姨在北京攒下100万",
+        "onboard_time": 1753158563,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351213,
+        "num": 351213,
+        "word": "村民180万拆迁款变勒索金被判10年",
+        "onboard_time": 1753160482,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 312353,
+        "num": 312353,
+        "word": "龚俊说刘宇宁私下转账很大方",
+        "onboard_time": 1753158683,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292390,
+        "num": 292390,
+        "word": "李兰迪敖瑞鹏回应二搭",
+        "onboard_time": 1753159462,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184197,
+        "num": 290107,
+        "word": "14年前接住的2岁坠楼女孩还好吗",
+        "onboard_time": 1753160723,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1216601,
+        "num": 282678,
+        "word": "徐艺洋都没亲过这么帅的黄子韬",
+        "onboard_time": 1753158502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544320,
+        "num": 279455,
+        "word": "结婚证离婚证一个烫金一个烫银",
+        "onboard_time": 1753112123,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307726,
+        "num": 273869,
+        "word": "上班几乎不跟同事说一句话",
+        "onboard_time": 1753158502,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271364,
+        "num": 271364,
+        "word": "过了35岁就别让人猜你多少岁了",
+        "onboard_time": 1753158742,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64585,
+        "num": 247390,
+        "word": "花150元不寄样就能拿甲醛检测报告",
+        "onboard_time": 1753161082,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 246578,
+        "num": 246578,
+        "word": "女子要跟男友领证发现户口被丈夫销了",
+        "onboard_time": 1753160902,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240068,
+        "num": 240068,
+        "word": "扫毒风暴于文文暗恋不了一点",
+        "onboard_time": 1753156162,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232220,
+        "num": 232220,
+        "word": "终极揭榜歌手官宣",
+        "onboard_time": 1753161802,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215550,
+        "num": 215550,
+        "word": "遇男子强奸嫂子见义勇为被害家属发声",
+        "onboard_time": 1753153281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129246,
+        "num": 204267,
+        "word": "俞定延演员出道",
+        "onboard_time": 1753160423,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531543,
+        "num": 203544,
+        "word": "孔雪儿机场被男子大吼",
+        "onboard_time": 1753157302,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198668,
+        "num": 198668,
+        "word": "恋与深空",
+        "onboard_time": 1753146082,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198411,
+        "num": 198411,
+        "word": "六点半下班真的好残忍啊",
+        "onboard_time": 1753161624,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195549,
+        "num": 198339,
+        "word": "印度网友反复观看新闻联播",
+        "onboard_time": 1753156102,
+        "rank": 23,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 198293,
+        "num": 198293,
+        "word": "赵今麦张凌赫新剧初吻连亲三次",
+        "onboard_time": 1753161322,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195831,
+        "num": 195831,
+        "word": "台风韦帕登陆泰国两名中国游客身亡",
+        "onboard_time": 1753159462,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186010,
+        "num": 186010,
+        "word": "长安二十四计",
+        "onboard_time": 1753161382,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183343,
+        "num": 183343,
+        "word": "三伏天建议要适当的摆烂",
+        "onboard_time": 1753157181,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182621,
+        "num": 182621,
+        "word": "相柳",
+        "onboard_time": 1753141701,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179060,
+        "num": 179060,
+        "word": "蔡徐坤拍茉莉花",
+        "onboard_time": 1753161262,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177075,
+        "num": 177075,
+        "word": "TVB方东昇再探香港四大奇案",
+        "onboard_time": 1753161682,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176148,
+        "num": 176148,
+        "word": "马龙是史上第二位获复刻杯男选手",
+        "onboard_time": 1753159102,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173611,
+        "num": 173611,
+        "word": "75岁男星自曝儿子37岁在家啃老",
+        "onboard_time": 1753160544,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156642,
+        "num": 156642,
+        "word": "原神",
+        "onboard_time": 1753159102,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32618,
+        "num": 154486,
+        "word": "不法商家刻意渲染制造甲醛焦虑",
+        "onboard_time": 1753162282,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154353,
+        "num": 154353,
+        "word": "凡人修仙传",
+        "onboard_time": 1753161921,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148177,
+        "num": 148177,
+        "word": "原神挪德卡莱12位新角色",
+        "onboard_time": 1753160182,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143537,
+        "num": 143537,
+        "word": "广电总局发文杜绝抗战神剧",
+        "onboard_time": 1753160723,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90699,
+        "num": 141299,
+        "word": "月租六万甲醛房疑全屋假墙",
+        "onboard_time": 1753159884,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119906,
+        "num": 139928,
+        "word": "男子去世后私生子索要千万遗产",
+        "onboard_time": 1753162101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139514,
+        "num": 139514,
+        "word": "王菲朝阳区麻袋天后",
+        "onboard_time": 1753156282,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53708,
+        "num": 137184,
+        "word": "马龙西藏plog来了",
+        "onboard_time": 1753161082,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135150,
+        "num": 135150,
+        "word": "东极岛将侵略者罪证搬上大银幕",
+        "onboard_time": 1753152081,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130416,
+        "num": 130416,
+        "word": "洒水车可没惯着暴走团",
+        "onboard_time": 1753157483,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130257,
+        "num": 130257,
+        "word": "光与夜之恋戒指",
+        "onboard_time": 1753158563,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118611,
+        "num": 118611,
+        "word": "奔跑吧13片头美学大赏",
+        "onboard_time": 1753160662,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118591,
+        "num": 118591,
+        "word": "被谢霆锋看上的女人不想反驳",
+        "onboard_time": 1753158863,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118446,
+        "num": 118446,
+        "word": "梓渝超话签到人数71.2万",
+        "onboard_time": 1753159703,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114171,
+        "num": 114171,
+        "word": "樱桃琥珀",
+        "onboard_time": 1753162041,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113700,
+        "num": 113700,
+        "word": "祝绪丹解释什么是竹林四侠",
+        "onboard_time": 1753160844,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}
