@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753194485539,
+  "endTime": 1753195651801,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -139,6 +139,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 843883,
+      "num": 843883,
+      "word": "朝雪录热度",
+      "onboard_time": 1753190663,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 836612,
       "num": 261945,
       "word": "孔雪儿机场被男子大吼",
@@ -155,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 829769,
-      "num": 829769,
-      "word": "朝雪录热度",
-      "onboard_time": 1753190663,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 804987,
+      "num": 676532,
+      "word": "天梭 虞书欣",
+      "onboard_time": 1753189343,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 753931,
@@ -177,14 +185,6 @@
       "onboard_time": 1753167621,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 706332,
-      "num": 676532,
-      "word": "天梭 虞书欣",
-      "onboard_time": 1753189343,
-      "rank": 8,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 690701,
@@ -411,6 +411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 476608,
+      "num": 476608,
+      "word": "19岁男生刚上大一就拿到国企offer",
+      "onboard_time": 1753192943,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474925,
+      "num": 230483,
+      "word": "方媛三胎孕照",
+      "onboard_time": 1753193062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474003,
       "num": 474003,
       "word": "特朗普政府公布马丁路德金相关记录",
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422481,
+      "num": 422481,
+      "word": "张继科办赛前曾和马龙樊振东联系",
+      "onboard_time": 1753188261,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415679,
       "num": 277809,
       "word": "田栩宁梓渝超话热度",
@@ -553,14 +577,6 @@
       "onboard_time": 1753173142,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390006,
-      "num": 390006,
-      "word": "张继科办赛前曾和马龙樊振东联系",
-      "onboard_time": 1753188261,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 388168,
@@ -635,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357294,
+      "num": 229003,
+      "word": "韩国今年爆火的男演员",
+      "onboard_time": 1753186640,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354698,
       "num": 354698,
       "word": "印度网友反复观看新闻联播",
@@ -697,14 +721,6 @@
       "onboard_time": 1753158683,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324736,
-      "num": 213922,
-      "word": "韩国今年爆火的男演员",
-      "onboard_time": 1753186640,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 320186,
@@ -843,12 +859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268889,
-      "num": 189372,
-      "word": "方媛三胎孕照",
-      "onboard_time": 1753193062,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 271607,
+      "num": 271607,
+      "word": "朝雪录破万",
+      "onboard_time": 1753195103,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 268525,
@@ -1003,6 +1019,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 221914,
+      "num": 221914,
+      "word": "新疆姑娘公路上高举免费取餐",
+      "onboard_time": 1753191263,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 220870,
       "num": 220870,
       "word": "山姆面包被指隐藏含转基因配料表",
@@ -1024,14 +1048,6 @@
       "word": "俄罗斯商品馆成了时代的眼泪吗",
       "onboard_time": 1753115480,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219191,
-      "num": 219191,
-      "word": "19岁男生刚上大一就拿到国企offer",
-      "onboard_time": 1753192943,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1067,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210139,
+      "num": 163713,
+      "word": "妈妈回应6个月宝宝眼距过宽引担忧",
+      "onboard_time": 1753194564,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210127,
       "num": 124358,
       "word": "袁姗姗真去哀牢山拍戏了",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1753159102,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205204,
-      "num": 177405,
-      "word": "新疆姑娘公路上高举免费取餐",
-      "onboard_time": 1753191263,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 204423,
@@ -1179,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196779,
+      "num": 196779,
+      "word": "蝉尿攻击对人体有害吗",
+      "onboard_time": 1753193483,
+      "rank": 25,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 195831,
       "num": 195831,
       "word": "台风韦帕登陆泰国两名中国游客身亡",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1753166362,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 191133,
+      "num": 246020,
+      "word": "第7号台风范斯高或将生成",
+      "onboard_time": 1753193122,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191102,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1753187062,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187809,
+      "num": 187809,
+      "word": "福耀科技大学投档分超厦大哈工大",
+      "onboard_time": 1753192882,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 187074,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1753161682,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176637,
+      "num": 176637,
+      "word": "深情眼",
+      "onboard_time": 1753139418,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 176173,
@@ -1515,14 +1563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161725,
-      "num": 161725,
-      "word": "蝉尿攻击对人体有害吗",
-      "onboard_time": 1753193483,
-      "rank": 25,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 161125,
       "num": 161125,
       "word": "家长给婴儿绑绷带戒吃手致手指坏死",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1753148421,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158694,
-      "num": 180005,
-      "word": "福耀科技大学投档分超厦大哈工大",
-      "onboard_time": 1753192882,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 158039,
@@ -1697,14 +1729,6 @@
       "onboard_time": 1753171222,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 149578,
-      "num": 149578,
-      "word": "深情眼",
-      "onboard_time": 1753139418,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 149183,
@@ -1947,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135103,
+      "num": 173888,
+      "word": "王嘉尔探班何炅暗恋桃花源",
+      "onboard_time": 1753194564,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "记者暗访甲醛检测行业造假黑幕",
@@ -2155,20 +2187,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121547,
+      "num": 121547,
+      "word": "民航版12306上线了",
+      "onboard_time": 1753193483,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121118,
       "num": 121118,
       "word": "我们的宿舍",
       "onboard_time": 1753165822,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120091,
-      "num": 120091,
-      "word": "第7号台风范斯高或将生成",
-      "onboard_time": 1753193122,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119948,
@@ -2227,6 +2259,14 @@
       "category": "汽车,美食"
     },
     {
+      "raw_hot": 118301,
+      "num": 147806,
+      "word": "温以凡你怎么能这么对桑延呢",
+      "onboard_time": 1753183700,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118151,
       "num": 229167,
       "word": "Rain法拉利老了还是法拉利",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1753193964,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117578,
+      "num": 143675,
+      "word": "摘豆角大爷大娘排队贴甲片",
+      "onboard_time": 1753191683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116891,
@@ -2443,14 +2491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106283,
-      "num": 106283,
-      "word": "民航版12306上线了",
-      "onboard_time": 1753193483,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106052,
       "num": 248652,
       "word": "临汾明代古城墙砖疑遭倒卖每块95元",
@@ -2497,22 +2537,6 @@
       "onboard_time": 1753181601,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102450,
-      "num": 147806,
-      "word": "温以凡你怎么能这么对桑延呢",
-      "onboard_time": 1753183700,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 102319,
-      "num": 143675,
-      "word": "摘豆角大爷大娘排队贴甲片",
-      "onboard_time": 1753191683,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102269,
@@ -2761,6 +2785,14 @@
       "onboard_time": 1753139357,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86206,
+      "num": 86206,
+      "word": "美国正开发吃机器人的机器人",
+      "onboard_time": 1753195282,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84827,
@@ -3083,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52622,
+      "num": 167014,
+      "word": "章子怡打卡狮身人面像",
+      "onboard_time": 1753194683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47452,
       "num": 47452,
       "word": "摄影师拒绝回应于正联系七七后续",
@@ -3249,6 +3289,14 @@
       "onboard_time": 1753167801,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25328,
+      "num": 165589,
+      "word": "18楼坠下奇迹生还男童身体指标好转",
+      "onboard_time": 1753195282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25314,

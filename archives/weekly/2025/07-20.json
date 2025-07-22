@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753194485539,
+  "endTime": 1753195651801,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 843883,
+      "num": 843883,
+      "word": "朝雪录热度",
+      "onboard_time": 1753016126,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 836612,
       "num": 261945,
       "word": "孔雪儿机场被男子大吼",
@@ -585,14 +593,6 @@
       "onboard_time": 1753185442,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 829769,
-      "num": 829769,
-      "word": "朝雪录热度",
-      "onboard_time": 1753016126,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 824513,
@@ -625,6 +625,14 @@
       "onboard_time": 1752993501,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 804987,
+      "num": 676532,
+      "word": "天梭 虞书欣",
+      "onboard_time": 1753189343,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 804089,
@@ -745,14 +753,6 @@
       "onboard_time": 1752978621,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 706332,
-      "num": 676532,
-      "word": "天梭 虞书欣",
-      "onboard_time": 1753189343,
-      "rank": 8,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 701726,
@@ -1443,6 +1443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476608,
+      "num": 476608,
+      "word": "19岁男生刚上大一就拿到国企offer",
+      "onboard_time": 1753192943,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474925,
+      "num": 230483,
+      "word": "方媛三胎孕照",
+      "onboard_time": 1753193062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474003,
       "num": 474003,
       "word": "特朗普政府公布马丁路德金相关记录",
@@ -1675,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422481,
+      "num": 422481,
+      "word": "张继科办赛前曾和马龙樊振东联系",
+      "onboard_time": 1753188261,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421702,
       "num": 421702,
       "word": "韩空难中期调查结果为飞行员误关引擎",
@@ -1801,14 +1825,6 @@
       "onboard_time": 1752942502,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 390006,
-      "num": 390006,
-      "word": "张继科办赛前曾和马龙樊振东联系",
-      "onboard_time": 1753188261,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 389469,
@@ -1977,6 +1993,14 @@
       "onboard_time": 1752937943,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357294,
+      "num": 229003,
+      "word": "韩国今年爆火的男演员",
+      "onboard_time": 1753186640,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 354698,
@@ -2169,14 +2193,6 @@
       "onboard_time": 1753031238,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324736,
-      "num": 213922,
-      "word": "韩国今年爆火的男演员",
-      "onboard_time": 1753186640,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 323272,
@@ -2579,6 +2595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271607,
+      "num": 271607,
+      "word": "朝雪录破万",
+      "onboard_time": 1753195103,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271256,
       "num": 271256,
       "word": "优酷让我再一次爱上杨紫成毅",
@@ -2609,14 +2633,6 @@
       "onboard_time": 1753079062,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 268889,
-      "num": 189372,
-      "word": "方媛三胎孕照",
-      "onboard_time": 1753193062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 268525,
@@ -3115,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221914,
+      "num": 221914,
+      "word": "新疆姑娘公路上高举免费取餐",
+      "onboard_time": 1753191263,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 221444,
       "num": 221444,
       "word": "鹿晗哥哥你是妈妈唯一的老公",
@@ -3193,14 +3217,6 @@
       "onboard_time": 1753024703,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219191,
-      "num": 219191,
-      "word": "19岁男生刚上大一就拿到国企offer",
-      "onboard_time": 1753192943,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218484,
@@ -3395,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210139,
+      "num": 163713,
+      "word": "妈妈回应6个月宝宝眼距过宽引担忧",
+      "onboard_time": 1753194564,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209163,
       "num": 209163,
       "word": "印度坠机事故唯一幸存者受噩梦折磨",
@@ -3481,14 +3505,6 @@
       "onboard_time": 1753080203,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205204,
-      "num": 177405,
-      "word": "新疆姑娘公路上高举免费取餐",
-      "onboard_time": 1753191263,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 205113,
@@ -3723,6 +3739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196779,
+      "num": 196779,
+      "word": "蝉尿攻击对人体有害吗",
+      "onboard_time": 1753193483,
+      "rank": 25,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 196449,
       "num": 196449,
       "word": "韦世豪",
@@ -3867,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191133,
+      "num": 246020,
+      "word": "第7号台风范斯高或将生成",
+      "onboard_time": 1753193122,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191102,
       "num": 191102,
       "word": "肖战工作日常live图",
@@ -3993,6 +4025,14 @@
       "onboard_time": 1753187062,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187809,
+      "num": 187809,
+      "word": "福耀科技大学投档分超厦大哈工大",
+      "onboard_time": 1753192882,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 187707,
@@ -4353,6 +4393,14 @@
       "onboard_time": 1753018705,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176637,
+      "num": 176637,
+      "word": "深情眼",
+      "onboard_time": 1752984802,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 176218,
@@ -4907,14 +4955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161725,
-      "num": 161725,
-      "word": "蝉尿攻击对人体有害吗",
-      "onboard_time": 1753193483,
-      "rank": 25,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 161707,
       "num": 161707,
       "word": "A股",
@@ -5041,14 +5081,6 @@
       "onboard_time": 1753148421,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158694,
-      "num": 180005,
-      "word": "福耀科技大学投档分超厦大哈工大",
-      "onboard_time": 1753192882,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 158602,
@@ -5473,14 +5505,6 @@
       "onboard_time": 1753005802,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 149578,
-      "num": 149578,
-      "word": "深情眼",
-      "onboard_time": 1752984802,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 149183,
@@ -6089,6 +6113,14 @@
       "onboard_time": 1753069581,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135103,
+      "num": 173888,
+      "word": "王嘉尔探班何炅暗恋桃花源",
+      "onboard_time": 1753194564,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 134869,
@@ -6827,6 +6859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121547,
+      "num": 121547,
+      "word": "民航版12306上线了",
+      "onboard_time": 1753193483,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121400,
       "num": 121400,
       "word": "姜云升直播回应",
@@ -6889,14 +6929,6 @@
       "onboard_time": 1753007122,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120091,
-      "num": 120091,
-      "word": "第7号台风范斯高或将生成",
-      "onboard_time": 1753193122,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119960,
@@ -7059,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118301,
+      "num": 147806,
+      "word": "温以凡你怎么能这么对桑延呢",
+      "onboard_time": 1753183700,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118151,
       "num": 229167,
       "word": "Rain法拉利老了还是法拉利",
@@ -7088,6 +7128,14 @@
       "word": "男子被网友邀请免费出国被民警拦下",
       "onboard_time": 1753084161,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117578,
+      "num": 143675,
+      "word": "摘豆角大爷大娘排队贴甲片",
+      "onboard_time": 1753191683,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -7787,14 +7835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 106283,
-      "num": 106283,
-      "word": "民航版12306上线了",
-      "onboard_time": 1753193483,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106199,
       "num": 106199,
       "word": "解说米勒",
@@ -8025,22 +8065,6 @@
       "onboard_time": 1752985521,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102450,
-      "num": 147806,
-      "word": "温以凡你怎么能这么对桑延呢",
-      "onboard_time": 1753183700,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 102319,
-      "num": 143675,
-      "word": "摘豆角大爷大娘排队贴甲片",
-      "onboard_time": 1753191683,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102269,
@@ -8641,6 +8665,14 @@
       "onboard_time": 1752950776,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86206,
+      "num": 86206,
+      "word": "美国正开发吃机器人的机器人",
+      "onboard_time": 1753195282,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86171,
@@ -9363,6 +9395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52622,
+      "num": 167014,
+      "word": "章子怡打卡狮身人面像",
+      "onboard_time": 1753194683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52311,
       "num": 191279,
       "word": "女装制版师讲述女装为何又贵又难穿",
@@ -9985,6 +10025,14 @@
       "onboard_time": 1752959534,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25328,
+      "num": 165589,
+      "word": "18楼坠下奇迹生还男童身体指标好转",
+      "onboard_time": 1753195282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25314,

@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753194485539,
+  "endTime": 1753195651801,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -4675,6 +4675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 843883,
+      "num": 843883,
+      "word": "朝雪录热度",
+      "onboard_time": 1752389302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 843410,
       "num": 843410,
       "word": "救女子被质疑袭胸男子称感到寒心",
@@ -4849,14 +4857,6 @@
       "onboard_time": 1752794118,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 829769,
-      "num": 829769,
-      "word": "朝雪录热度",
-      "onboard_time": 1752389302,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 829007,
@@ -5049,6 +5049,14 @@
       "onboard_time": 1752661462,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 804987,
+      "num": 676532,
+      "word": "天梭 虞书欣",
+      "onboard_time": 1753189343,
+      "rank": 8,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 804089,
@@ -6249,14 +6257,6 @@
       "onboard_time": 1752978621,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 706332,
-      "num": 676532,
-      "word": "天梭 虞书欣",
-      "onboard_time": 1753189343,
-      "rank": 8,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 706212,
@@ -10867,6 +10867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476608,
+      "num": 476608,
+      "word": "19岁男生刚上大一就拿到国企offer",
+      "onboard_time": 1753192943,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476063,
       "num": 476063,
       "word": "男孩呼吸困难母亲用塑料袋罩头急救",
@@ -10889,6 +10897,14 @@
       "onboard_time": 1752209123,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474925,
+      "num": 230483,
+      "word": "方媛三胎孕照",
+      "onboard_time": 1753193062,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 474885,
@@ -12395,6 +12411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422481,
+      "num": 422481,
+      "word": "张继科办赛前曾和马龙樊振东联系",
+      "onboard_time": 1753188261,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422319,
       "num": 422319,
       "word": "胡歌肖战或将合作",
@@ -13401,14 +13425,6 @@
       "onboard_time": 1751631744,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 390006,
-      "num": 390006,
-      "word": "张继科办赛前曾和马龙樊振东联系",
-      "onboard_time": 1753188261,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 390002,
@@ -14657,6 +14673,14 @@
       "onboard_time": 1751958681,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357294,
+      "num": 229003,
+      "word": "韩国今年爆火的男演员",
+      "onboard_time": 1753186640,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 356551,
@@ -16169,14 +16193,6 @@
       "onboard_time": 1751936542,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 324736,
-      "num": 213922,
-      "word": "韩国今年爆火的男演员",
-      "onboard_time": 1753186640,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 324554,
@@ -19227,6 +19243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271607,
+      "num": 271607,
+      "word": "朝雪录破万",
+      "onboard_time": 1753195103,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271585,
       "num": 271585,
       "word": "AG战胜HLE",
@@ -19457,14 +19481,6 @@
       "onboard_time": 1751602943,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268889,
-      "num": 189372,
-      "word": "方媛三胎孕照",
-      "onboard_time": 1753193062,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 268844,
@@ -23459,6 +23475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221914,
+      "num": 221914,
+      "word": "新疆姑娘公路上高举免费取餐",
+      "onboard_time": 1753191263,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 221905,
       "num": 256397,
       "word": "打砸记者摄像机负责人称冲动了",
@@ -23785,14 +23809,6 @@
       "onboard_time": 1752676942,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 219191,
-      "num": 219191,
-      "word": "19岁男生刚上大一就拿到国企offer",
-      "onboard_time": 1753192943,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219035,
@@ -25139,6 +25155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210139,
+      "num": 163713,
+      "word": "妈妈回应6个月宝宝眼距过宽引担忧",
+      "onboard_time": 1753194564,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210046,
       "num": 215447,
       "word": "王青我十年前不知道直播有回放",
@@ -25969,14 +25993,6 @@
       "onboard_time": 1751892624,
       "rank": 43,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 205204,
-      "num": 177405,
-      "word": "新疆姑娘公路上高举免费取餐",
-      "onboard_time": 1753191263,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 205116,
@@ -27963,6 +27979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196779,
+      "num": 196779,
+      "word": "蝉尿攻击对人体有害吗",
+      "onboard_time": 1753193483,
+      "rank": 25,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 196728,
       "num": 196728,
       "word": "提醒老年人警惕免费送鸡蛋等引流套路",
@@ -29299,6 +29323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191133,
+      "num": 246020,
+      "word": "第7号台风范斯高或将生成",
+      "onboard_time": 1753193122,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191102,
       "num": 301101,
       "word": "云南警方回应高考生疑被骗去缅甸",
@@ -30089,6 +30121,14 @@
       "onboard_time": 1752297740,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187809,
+      "num": 187809,
+      "word": "福耀科技大学投档分超厦大哈工大",
+      "onboard_time": 1753192882,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 187805,
@@ -32601,6 +32641,14 @@
       "onboard_time": 1752318921,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176637,
+      "num": 176637,
+      "word": "深情眼",
+      "onboard_time": 1752821001,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 176622,
@@ -36635,14 +36683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161725,
-      "num": 161725,
-      "word": "蝉尿攻击对人体有害吗",
-      "onboard_time": 1753193483,
-      "rank": 25,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 161705,
       "num": 161705,
       "word": "小米两地员工公寓月租金1999元",
@@ -37449,14 +37489,6 @@
       "onboard_time": 1751716881,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158694,
-      "num": 180005,
-      "word": "福耀科技大学投档分超厦大哈工大",
-      "onboard_time": 1753192882,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 158602,
@@ -40361,14 +40393,6 @@
       "onboard_time": 1752144084,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149578,
-      "num": 149578,
-      "word": "深情眼",
-      "onboard_time": 1752821001,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 149552,
@@ -45577,6 +45601,14 @@
       "onboard_time": 1752302420,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135103,
+      "num": 173888,
+      "word": "王嘉尔探班何炅暗恋桃花源",
+      "onboard_time": 1753194564,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 135091,
@@ -51243,6 +51275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121547,
+      "num": 121547,
+      "word": "民航版12306上线了",
+      "onboard_time": 1753193483,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121514,
       "num": 121514,
       "word": "关晓彤吴磊等谈从游本昌身上学到的",
@@ -51865,14 +51905,6 @@
       "onboard_time": 1751453301,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120091,
-      "num": 120091,
-      "word": "第7号台风范斯高或将生成",
-      "onboard_time": 1753193122,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120086,
@@ -52699,6 +52731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118301,
+      "num": 147806,
+      "word": "温以凡你怎么能这么对桑延呢",
+      "onboard_time": 1753183700,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118288,
       "num": 118288,
       "word": "张新成冲浪到自己工作室发现天塌了",
@@ -53017,6 +53057,14 @@
       "onboard_time": 1751588843,
       "rank": 47,
       "category": "母婴育儿,时尚"
+    },
+    {
+      "raw_hot": 117578,
+      "num": 143675,
+      "word": "摘豆角大爷大娘排队贴甲片",
+      "onboard_time": 1753191683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117566,
@@ -57883,14 +57931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106283,
-      "num": 106283,
-      "word": "民航版12306上线了",
-      "onboard_time": 1753193483,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106262,
       "num": 112999,
       "word": "洪亮版楚门的世界",
@@ -59459,14 +59499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102450,
-      "num": 147806,
-      "word": "温以凡你怎么能这么对桑延呢",
-      "onboard_time": 1753183700,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102415,
       "num": 102415,
       "word": "小猫要一辈子崇拜你了",
@@ -59497,14 +59529,6 @@
       "onboard_time": 1752590064,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102319,
-      "num": 143675,
-      "word": "摘豆角大爷大娘排队贴甲片",
-      "onboard_time": 1753191683,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102307,
@@ -63577,6 +63601,14 @@
       "onboard_time": 1751700741,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86206,
+      "num": 86206,
+      "word": "美国正开发吃机器人的机器人",
+      "onboard_time": 1753195282,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86171,
@@ -68859,6 +68891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52622,
+      "num": 167014,
+      "word": "章子怡打卡狮身人面像",
+      "onboard_time": 1753194683,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52591,
       "num": 205008,
       "word": "孕妇遭殴打当地处理为何迟缓",
@@ -73705,6 +73745,14 @@
       "onboard_time": 1752345975,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25328,
+      "num": 165589,
+      "word": "18楼坠下奇迹生还男童身体指标好转",
+      "onboard_time": 1753195282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25314,

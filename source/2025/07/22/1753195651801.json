@@ -1,0 +1,410 @@
+{
+  "runTime": 1753195651801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1543042,
+        "num": 1543042,
+        "word": "微信能自动发消息了",
+        "onboard_time": 1753177822,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 843883,
+        "num": 843883,
+        "word": "朝雪录热度",
+        "onboard_time": 1753190663,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40867,
+        "num": 498382,
+        "word": "遥感卫星发现商周之际最大城址",
+        "onboard_time": 1753168341,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476608,
+        "num": 476608,
+        "word": "19岁男生刚上大一就拿到国企offer",
+        "onboard_time": 1753192943,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422481,
+        "num": 422481,
+        "word": "张继科办赛前曾和马龙樊振东联系",
+        "onboard_time": 1753188261,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334123,
+        "num": 334123,
+        "word": "疑被骗缅北男生母亲称没业绩或被打死",
+        "onboard_time": 1753183880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271607,
+        "num": 271607,
+        "word": "朝雪录破万",
+        "onboard_time": 1753195103,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259773,
+        "num": 259773,
+        "word": "贵州茅台出资4.9亿成立科研公司",
+        "onboard_time": 1753191143,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246032,
+        "num": 246032,
+        "word": "男子下载app炒股1个月以为赚300万",
+        "onboard_time": 1753178661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191133,
+        "num": 246020,
+        "word": "第7号台风范斯高或将生成",
+        "onboard_time": 1753193122,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817271,
+        "num": 242678,
+        "word": "公职人员回应兼职下班送外卖",
+        "onboard_time": 1753188321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509538,
+        "num": 241117,
+        "word": "赵美延问中国最火美女是谁",
+        "onboard_time": 1753185442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506627,
+        "num": 238940,
+        "word": "于正 本人近照巨帅别羡慕",
+        "onboard_time": 1753184301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238763,
+        "num": 238763,
+        "word": "曝美国将退出联合国教科文组织",
+        "onboard_time": 1753188383,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231404,
+        "num": 231404,
+        "word": "知名男演员度假期间被海浪卷走身亡",
+        "onboard_time": 1753178002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474925,
+        "num": 230483,
+        "word": "方媛三胎孕照",
+        "onboard_time": 1753193062,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357294,
+        "num": 229003,
+        "word": "韩国今年爆火的男演员",
+        "onboard_time": 1753186640,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276198,
+        "num": 225409,
+        "word": "柴鸡蛋把身后的豆橛子摘了",
+        "onboard_time": 1753187601,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258600,
+        "num": 223316,
+        "word": "胡先煦你让我有点陌生了",
+        "onboard_time": 1753186102,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221914,
+        "num": 221914,
+        "word": "新疆姑娘公路上高举免费取餐",
+        "onboard_time": 1753191263,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 804987,
+        "num": 215235,
+        "word": "天梭 虞书欣",
+        "onboard_time": 1753189343,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 201243,
+        "num": 201243,
+        "word": "错付车费索要无果后轻生家属发声",
+        "onboard_time": 1753185561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196779,
+        "num": 196779,
+        "word": "蝉尿攻击对人体有害吗",
+        "onboard_time": 1753193483,
+        "rank": 22,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 187809,
+        "num": 187809,
+        "word": "福耀科技大学投档分超厦大哈工大",
+        "onboard_time": 1753192882,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 176637,
+        "num": 176637,
+        "word": "深情眼",
+        "onboard_time": 1753188742,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175315,
+        "num": 175315,
+        "word": "湖南卫视考古白鹿",
+        "onboard_time": 1753193903,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135103,
+        "num": 173888,
+        "word": "王嘉尔探班何炅暗恋桃花源",
+        "onboard_time": 1753194564,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133388,
+        "num": 171468,
+        "word": "朝雪录27.4%登顶",
+        "onboard_time": 1753188682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52622,
+        "num": 167014,
+        "word": "章子怡打卡狮身人面像",
+        "onboard_time": 1753194683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25328,
+        "num": 165589,
+        "word": "18楼坠下奇迹生还男童身体指标好转",
+        "onboard_time": 1753195282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210139,
+        "num": 163713,
+        "word": "妈妈回应6个月宝宝眼距过宽引担忧",
+        "onboard_time": 1753194564,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161222,
+        "num": 161222,
+        "word": "宝可梦发布会",
+        "onboard_time": 1753192943,
+        "rank": 31,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 145938,
+        "num": 145938,
+        "word": "王楚钦解释夺冠背影照",
+        "onboard_time": 1753182440,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142844,
+        "num": 142844,
+        "word": "2人带婴儿入境遇检查扔下孩子就跑",
+        "onboard_time": 1753178721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141199,
+        "num": 141199,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133444,
+        "num": 133444,
+        "word": "人际交往中藏着恶意的5句话",
+        "onboard_time": 1753194322,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132615,
+        "num": 132615,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132014,
+        "num": 132014,
+        "word": "iG战胜WE",
+        "onboard_time": 1753194263,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124886,
+        "num": 124886,
+        "word": "小高和刚喊话第五人格求联动",
+        "onboard_time": 1753194322,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121547,
+        "num": 121547,
+        "word": "民航版12306上线了",
+        "onboard_time": 1753193483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118301,
+        "num": 118301,
+        "word": "温以凡你怎么能这么对桑延呢",
+        "onboard_time": 1753183700,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117578,
+        "num": 117578,
+        "word": "摘豆角大爷大娘排队贴甲片",
+        "onboard_time": 1753191683,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114871,
+        "num": 114871,
+        "word": "网友和鹿晗四年前合影",
+        "onboard_time": 1753190482,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111858,
+        "num": 111858,
+        "word": "间谍过家家",
+        "onboard_time": 1753190063,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103037,
+        "num": 103037,
+        "word": "特斯拉销量冠军因SU7加了定语",
+        "onboard_time": 1753187421,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 91802,
+        "num": 91802,
+        "word": "今年三伏天为啥少了10天",
+        "onboard_time": 1753187062,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89275,
+        "num": 89275,
+        "word": "邢昭林古装梦回双世宠妃",
+        "onboard_time": 1753192882,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88196,
+        "num": 88196,
+        "word": "主动记录的人一定很爱你",
+        "onboard_time": 1753194263,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86206,
+        "num": 86206,
+        "word": "美国正开发吃机器人的机器人",
+        "onboard_time": 1753195282,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84552,
+        "num": 84552,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些话语直抵人心#"
+    }
+  }
+}
