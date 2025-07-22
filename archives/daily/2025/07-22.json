@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753190000542,
+  "endTime": 1753191842948,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -83,6 +83,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1094534,
+      "num": 292869,
+      "word": "公职人员回应兼职下班送外卖",
+      "onboard_time": 1753188321,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1008860,
+      "num": 231068,
+      "word": "夸克崩了",
+      "onboard_time": 1753184780,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1002784,
       "num": 1002784,
       "word": "莫斯科遭到大规模袭击",
@@ -131,16 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 806774,
-      "num": 231068,
-      "word": "夸克崩了",
-      "onboard_time": 1753184780,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 796975,
-      "num": 231460,
+      "raw_hot": 832375,
+      "num": 279738,
       "word": "赵美延问中国最火美女是谁",
       "onboard_time": 1753185442,
       "rank": 12,
@@ -177,6 +185,14 @@
       "onboard_time": 1753177042,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 684849,
+      "num": 267472,
+      "word": "于正 本人近照巨帅别羡慕",
+      "onboard_time": 1753184301,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 677582,
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635639,
+      "num": 635639,
+      "word": "天梭 虞书欣",
+      "onboard_time": 1753189343,
+      "rank": 8,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 617449,
       "num": 309108,
       "word": "导师您好不好意思",
@@ -281,14 +305,6 @@
       "onboard_time": 1753163061,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 609127,
-      "num": 230592,
-      "word": "于正 本人近照巨帅别羡慕",
-      "onboard_time": 1753184301,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 608394,
@@ -312,14 +328,6 @@
       "word": "遇男子强奸嫂子见义勇为被害家属发声",
       "onboard_time": 1753153281,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 578477,
-      "num": 229282,
-      "word": "公职人员回应兼职下班送外卖",
-      "onboard_time": 1753188321,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -355,19 +363,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544695,
+      "num": 544695,
+      "word": "朝雪录热度",
+      "onboard_time": 1753190663,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 543928,
+      "num": 262390,
+      "word": "胡先煦你让我有点陌生了",
+      "onboard_time": 1753186102,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528401,
       "num": 528401,
       "word": "孙菲菲曝业内贪污乱象",
       "onboard_time": 1753169661,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 521146,
-      "num": 228506,
-      "word": "胡先煦你让我有点陌生了",
-      "onboard_time": 1753186102,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414097,
+      "num": 240166,
+      "word": "柴鸡蛋把身后的豆橛子摘了",
+      "onboard_time": 1753187601,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398585,
       "num": 398585,
       "word": "23岁研一男生抗癌4个月后离世",
@@ -539,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388168,
-      "num": 227617,
-      "word": "柴鸡蛋把身后的豆橛子摘了",
-      "onboard_time": 1753187601,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386745,
       "num": 386745,
       "word": "王楚钦解释夺冠背影照",
@@ -569,6 +585,14 @@
       "onboard_time": 1753152441,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377570,
+      "num": 377570,
+      "word": "曝美国将退出联合国教科文组织",
+      "onboard_time": 1753188383,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 371225,
@@ -715,14 +739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305994,
-      "num": 305994,
-      "word": "曝美国将退出联合国教科文组织",
-      "onboard_time": 1753188383,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 299518,
       "num": 299518,
       "word": "沈星回长发",
@@ -865,14 +881,6 @@
       "onboard_time": 1753098921,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243534,
-      "num": 243534,
-      "word": "天梭 虞书欣",
-      "onboard_time": 1753189343,
-      "rank": 8,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 242475,
@@ -1171,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188664,
+      "num": 188664,
+      "word": "马龙晒50元布达拉宫打卡照",
+      "onboard_time": 1753185922,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187074,
       "num": 187074,
       "word": "三伏天建议要适当的摆烂",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1753145061,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "韩国今年爆火的男演员",
+      "onboard_time": 1753186640,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 182916,
@@ -1459,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160266,
+      "num": 160266,
+      "word": "毕雯珺发了李靳屿的第一视角",
+      "onboard_time": 1753190724,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158995,
       "num": 158995,
       "word": "门店回应灰指甲顾客拿试用指甲油涂脚",
@@ -1523,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153782,
+      "num": 153782,
+      "word": "特斯拉销量冠军因SU7加了定语",
+      "onboard_time": 1753187421,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153745,
       "num": 153745,
       "word": "一诺打车",
@@ -1555,14 +1595,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151535,
-      "num": 151535,
-      "word": "特斯拉销量冠军因SU7加了定语",
-      "onboard_time": 1753187421,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 151180,
       "num": 151180,
       "word": "第一次见田曦薇这么忸怩",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1753153401,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150435,
+      "num": 294227,
+      "word": "今年三伏天为啥少了10天",
+      "onboard_time": 1753187062,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150049,
@@ -1683,6 +1723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143515,
+      "num": 143515,
+      "word": "贵州茅台出资4.9亿成立科研公司",
+      "onboard_time": 1753191143,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143203,
+      "num": 143203,
+      "word": "间谍过家家",
+      "onboard_time": 1753190063,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 142938,
       "num": 163588,
       "word": "威尼斯电影节片单",
@@ -1713,14 +1769,6 @@
       "onboard_time": 1753144161,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140285,
-      "num": 140285,
-      "word": "马龙晒50元布达拉宫打卡照",
-      "onboard_time": 1753185922,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 140276,
@@ -2115,12 +2163,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115115,
+      "num": 115115,
+      "word": "辛芷蕾的国际电影节履历",
+      "onboard_time": 1753191084,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115068,
       "num": 159711,
       "word": "最难喝的红色尖叫为何会被疯抢",
       "onboard_time": 1753156461,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115010,
+      "num": 143926,
+      "word": "网友和鹿晗四年前合影",
+      "onboard_time": 1753190482,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 114711,
@@ -2163,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112969,
-      "num": 112969,
-      "word": "韩国今年爆火的男演员",
-      "onboard_time": 1753186640,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112761,
       "num": 115508,
       "word": "魏大勋这张嘴还是太能贫了",
@@ -2201,6 +2257,14 @@
       "onboard_time": 1753172421,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 112136,
+      "num": 229167,
+      "word": "Rain法拉利老了还是法拉利",
+      "onboard_time": 1753180703,
+      "rank": 19,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 111846,
@@ -2315,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103727,
+      "num": 103727,
+      "word": "新疆姑娘公路上高举免费取餐",
+      "onboard_time": 1753191263,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 102692,
       "num": 135808,
       "word": "扫毒风暴天赐出门买东西意外身亡",
@@ -2329,6 +2401,14 @@
       "onboard_time": 1753173081,
       "rank": 13,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 101351,
+      "num": 101351,
+      "word": "iG对战WE",
+      "onboard_time": 1753190243,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 101063,
@@ -2467,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93121,
+      "num": 93121,
+      "word": "陈少熙火龙果变芒果",
+      "onboard_time": 1753191621,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93105,
       "num": 101362,
       "word": "G326次高铁票价1年半涨超40元",
@@ -2491,14 +2579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91024,
-      "num": 91024,
-      "word": "今年三伏天为啥少了10天",
-      "onboard_time": 1753187062,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90095,
       "num": 90095,
       "word": "货拉拉的原始资金是靠德州扑克赚的",
@@ -2521,6 +2601,14 @@
       "onboard_time": 1753114282,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88623,
+      "num": 88623,
+      "word": "青岛西海岸vs北京国安",
+      "onboard_time": 1753191502,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87682,
@@ -2747,14 +2835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65899,
-      "num": 229167,
-      "word": "Rain法拉利老了还是法拉利",
-      "onboard_time": 1753180703,
-      "rank": 19,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 65191,
       "num": 65191,
       "word": "湖南卫视连发20条微博官宣沈月",
@@ -2820,7 +2900,7 @@
     },
     {
       "raw_hot": 55633,
-      "num": 701608,
+      "num": 762411,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,
@@ -2948,7 +3028,7 @@
     },
     {
       "raw_hot": 34134,
-      "num": 229538,
+      "num": 249612,
       "word": "扫毒风暴到底埋了多少条暗线",
       "onboard_time": 1753189282,
       "rank": 14,
@@ -3057,6 +3137,14 @@
       "onboard_time": 1753134074,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21615,
+      "num": 143675,
+      "word": "摘豆角大爷大娘排队贴甲片",
+      "onboard_time": 1753191683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21396,
