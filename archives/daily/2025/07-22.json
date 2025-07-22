@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753177689161,
+  "endTime": 1753180295439,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 846473,
+      "num": 846473,
+      "word": "微信能自动发消息了",
+      "onboard_time": 1753177822,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 836612,
       "num": 261945,
       "word": "孔雪儿机场被男子大吼",
@@ -145,6 +153,14 @@
       "onboard_time": 1753116379,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 668614,
+      "num": 287371,
+      "word": "李兰迪怎么是邓超型人格",
+      "onboard_time": 1753177042,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 661493,
@@ -209,6 +225,14 @@
       "onboard_time": 1753166541,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 614276,
+      "num": 614276,
+      "word": "华东理工大学录取通知书涉嫌抄袭",
+      "onboard_time": 1753178541,
+      "rank": 3,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 614262,
@@ -289,6 +313,14 @@
       "onboard_time": 1753164681,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487718,
+      "num": 487718,
+      "word": "住宅起火继奶奶独自逃生两小孩遇难",
+      "onboard_time": 1753177341,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486683,
@@ -491,8 +523,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335825,
+      "num": 277809,
+      "word": "田栩宁梓渝超话热度",
+      "onboard_time": 1753178122,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333918,
-      "num": 270614,
+      "num": 274287,
       "word": "布拉德皮特 刘亦菲优选",
       "onboard_time": 1753172662,
       "rank": 38,
@@ -763,12 +803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226287,
-      "num": 226287,
-      "word": "李兰迪怎么是邓超型人格",
-      "onboard_time": 1753177042,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 227925,
+      "num": 227925,
+      "word": "男子下载app炒股1个月以为赚300万",
+      "onboard_time": 1753178661,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222646,
@@ -873,6 +913,14 @@
       "onboard_time": 1753139477,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204076,
+      "num": 204076,
+      "word": "2人带婴儿入境遇检查扔下孩子就跑",
+      "onboard_time": 1753178721,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201864,
@@ -1059,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174004,
+      "num": 174004,
+      "word": "李晨郑恺背着跑男团去冲浪了",
+      "onboard_time": 1753178241,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173826,
       "num": 222138,
       "word": "于正回应破防",
@@ -1113,6 +1169,22 @@
       "onboard_time": 1753153101,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166879,
+      "num": 166879,
+      "word": "3岁男童从18楼坠落多个内脏破损",
+      "onboard_time": 1753176921,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166775,
+      "num": 171044,
+      "word": "知名男演员度假期间被海浪卷走身亡",
+      "onboard_time": 1753178002,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 165550,
@@ -1217,6 +1289,14 @@
       "onboard_time": 1753158863,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152678,
+      "num": 152678,
+      "word": "香奈儿素人时期街拍照",
+      "onboard_time": 1753177522,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 151668,
@@ -1387,14 +1467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139788,
-      "num": 139788,
-      "word": "香奈儿素人时期街拍照",
-      "onboard_time": 1753177522,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139339,
       "num": 139339,
       "word": "住房租赁条例2025年9月15日起施行",
@@ -1507,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128080,
+      "num": 292869,
+      "word": "赛里木湖景区回应公厕被粪便堵满",
+      "onboard_time": 1753179201,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127072,
       "num": 127072,
       "word": "建议大家不要轻易离职",
@@ -1587,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119948,
+      "num": 186928,
+      "word": "博主逼狗狗吃槟榔带货遭怼",
+      "onboard_time": 1753176682,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119778,
       "num": 119778,
       "word": "租房9个糟心事有了新规定",
@@ -1665,6 +1753,22 @@
       "onboard_time": 1753156461,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114711,
+      "num": 332820,
+      "word": "律师称业内封杀侵犯求职者名誉权",
+      "onboard_time": 1753176082,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114628,
+      "num": 124506,
+      "word": "樱桃磕到了我也嗑到了",
+      "onboard_time": 1753180162,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 114171,
@@ -1771,6 +1875,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 105110,
+      "num": 105110,
+      "word": "又一名厉国俄粉在乌克兰被击毙",
+      "onboard_time": 1753179682,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105085,
       "num": 105085,
       "word": "曝何聪睿刘念恋情",
@@ -1811,6 +1923,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 101743,
+      "num": 101743,
+      "word": "我是丁太升不是金武林",
+      "onboard_time": 1753178541,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101063,
       "num": 101063,
       "word": "赛里木湖",
@@ -1819,20 +1939,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 100536,
+      "num": 100536,
+      "word": "北京车主一年一度的噩梦来了",
+      "onboard_time": 1753179682,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100431,
       "num": 100431,
       "word": "梁王22分钟速胜",
       "onboard_time": 1753175240,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99749,
-      "num": 263195,
-      "word": "住宅起火继奶奶独自逃生两小孩遇难",
-      "onboard_time": 1753177341,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98237,
@@ -1867,12 +1987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96712,
-      "num": 332820,
-      "word": "律师称业内封杀侵犯求职者名誉权",
-      "onboard_time": 1753176082,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 96714,
+      "num": 96714,
+      "word": "你醒啦 现在是2008年的普通一天",
+      "onboard_time": 1753178781,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 96672,
@@ -1881,6 +2001,14 @@
       "onboard_time": 1753163842,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94705,
+      "num": 94705,
+      "word": "九元航空回应广州飞广州航班",
+      "onboard_time": 1753180281,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94385,
@@ -1915,6 +2043,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93001,
+      "num": 169845,
+      "word": "人民网评喜剧之王单口季",
+      "onboard_time": 1753179201,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90095,
+      "num": 90095,
+      "word": "货拉拉的原始资金是靠德州扑克赚的",
+      "onboard_time": 1753179682,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89309,
       "num": 89309,
       "word": "云南大学回应高考未录取备注总分低",
@@ -1928,6 +2072,14 @@
       "word": "保罗加盟快船",
       "onboard_time": 1753139357,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86586,
+      "num": 114911,
+      "word": "每天掉脂肪的18个小技巧",
+      "onboard_time": 1753179381,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -2211,14 +2363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53560,
-      "num": 186928,
-      "word": "博主逼狗狗吃槟榔带货遭怼",
-      "onboard_time": 1753176682,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52682,
       "num": 235063,
       "word": "沈月把岳云鹏逗成啥样了",
@@ -2486,6 +2630,9 @@
   "hotgov_list": [
     {
       "word": "#总书记为何提起福州工作时的这段往事#"
+    },
+    {
+      "word": "#改革为人民#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1753180295439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072841,
+        "num": 1171654,
+        "word": "应届生拒绝offer被HR威胁业内封杀",
+        "onboard_time": 1753170801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 846473,
+        "num": 846473,
+        "word": "微信能自动发消息了",
+        "onboard_time": 1753177822,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12467,
+        "num": 697234,
+        "word": "小暑不算热大暑三伏天",
+        "onboard_time": 1753110083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614276,
+        "num": 614276,
+        "word": "华东理工大学录取通知书涉嫌抄袭",
+        "onboard_time": 1753178541,
+        "rank": 3,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 541670,
+        "num": 541670,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487718,
+        "num": 487718,
+        "word": "住宅起火继奶奶独自逃生两小孩遇难",
+        "onboard_time": 1753177341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330806,
+        "num": 330806,
+        "word": "租房新规来了",
+        "onboard_time": 1753168401,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295412,
+        "num": 295412,
+        "word": "现在就出发3原班人马陆续抵达西藏",
+        "onboard_time": 1753173142,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293516,
+        "num": 293516,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128080,
+        "num": 292869,
+        "word": "赛里木湖景区回应公厕被粪便堵满",
+        "onboard_time": 1753179201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 891984,
+        "num": 289489,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 668614,
+        "num": 287371,
+        "word": "李兰迪怎么是邓超型人格",
+        "onboard_time": 1753177042,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486257,
+        "num": 283575,
+        "word": "赛里木湖景区公厕被曝屎满为患",
+        "onboard_time": 1753173801,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464581,
+        "num": 281260,
+        "word": "徐艺洋都没亲过这么帅的黄子韬",
+        "onboard_time": 1753158502,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415256,
+        "num": 279258,
+        "word": "阎鹤祥 已婚当爸",
+        "onboard_time": 1753174583,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335825,
+        "num": 277809,
+        "word": "田栩宁梓渝超话热度",
+        "onboard_time": 1753178122,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322492,
+        "num": 274287,
+        "word": "布拉德皮特 刘亦菲优选",
+        "onboard_time": 1753172662,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272739,
+        "num": 272739,
+        "word": "以为会长胖其实很减肥的习惯",
+        "onboard_time": 1753169422,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227925,
+        "num": 227925,
+        "word": "男子下载app炒股1个月以为赚300万",
+        "onboard_time": 1753178661,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218582,
+        "num": 218582,
+        "word": "女子称被女儿学校老师性侵感染HPV",
+        "onboard_time": 1753168941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287708,
+        "num": 211621,
+        "word": "梓渝 最懂不良笑花的人出现了",
+        "onboard_time": 1753173801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204076,
+        "num": 204076,
+        "word": "2人带婴儿入境遇检查扔下孩子就跑",
+        "onboard_time": 1753178721,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193480,
+        "num": 193480,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189624,
+        "num": 189624,
+        "word": "森林北腿部大片淤青疑受伤",
+        "onboard_time": 1753167621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188259,
+        "num": 188259,
+        "word": "杭州3岁男童18楼坠下奇迹生还",
+        "onboard_time": 1753173381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185165,
+        "num": 185165,
+        "word": "见义勇为者家属向被强奸女子索赔132万",
+        "onboard_time": 1753176142,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174222,
+        "num": 174222,
+        "word": "孙菲菲曝业内贪污乱象",
+        "onboard_time": 1753169661,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174004,
+        "num": 174004,
+        "word": "李晨郑恺背着跑男团去冲浪了",
+        "onboard_time": 1753178241,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166775,
+        "num": 171044,
+        "word": "知名男演员度假期间被海浪卷走身亡",
+        "onboard_time": 1753178002,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93001,
+        "num": 169845,
+        "word": "人民网评喜剧之王单口季",
+        "onboard_time": 1753179201,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169296,
+        "num": 169296,
+        "word": "疑似吴千语怀孕",
+        "onboard_time": 1753170200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166879,
+        "num": 166879,
+        "word": "3岁男童从18楼坠落多个内脏破损",
+        "onboard_time": 1753176921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152678,
+        "num": 152678,
+        "word": "香奈儿素人时期街拍照",
+        "onboard_time": 1753177522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135884,
+        "num": 135884,
+        "word": "苹果明年或推出6款iPhone",
+        "onboard_time": 1753176322,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114628,
+        "num": 124506,
+        "word": "樱桃磕到了我也嗑到了",
+        "onboard_time": 1753180162,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110475,
+        "num": 119993,
+        "word": "旺仔小乔演唱会票价",
+        "onboard_time": 1753163483,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119948,
+        "num": 119948,
+        "word": "博主逼狗狗吃槟榔带货遭怼",
+        "onboard_time": 1753176682,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115168,
+        "num": 115168,
+        "word": "章若楠三年前朋友圈",
+        "onboard_time": 1753175721,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86586,
+        "num": 114911,
+        "word": "每天掉脂肪的18个小技巧",
+        "onboard_time": 1753179381,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114711,
+        "num": 114711,
+        "word": "律师称业内封杀侵犯求职者名誉权",
+        "onboard_time": 1753176082,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105110,
+        "num": 105110,
+        "word": "又一名厉国俄粉在乌克兰被击毙",
+        "onboard_time": 1753179682,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104153,
+        "num": 104153,
+        "word": "华尔街展示加沙儿童尸体模型",
+        "onboard_time": 1753167021,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101743,
+        "num": 101743,
+        "word": "我是丁太升不是金武林",
+        "onboard_time": 1753178541,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100536,
+        "num": 100536,
+        "word": "北京车主一年一度的噩梦来了",
+        "onboard_time": 1753179682,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98721,
+        "num": 98721,
+        "word": "特朗普被爱泼斯坦合照逼急了",
+        "onboard_time": 1753173920,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97066,
+        "num": 97066,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 96714,
+        "num": 96714,
+        "word": "你醒啦 现在是2008年的普通一天",
+        "onboard_time": 1753178781,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94705,
+        "num": 94705,
+        "word": "九元航空回应广州飞广州航班",
+        "onboard_time": 1753180281,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93789,
+        "num": 93789,
+        "word": "便宜首饰 重金属超标",
+        "onboard_time": 1753177161,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90095,
+        "num": 90095,
+        "word": "货拉拉的原始资金是靠德州扑克赚的",
+        "onboard_time": 1753179682,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革为人民#"
+    }
+  }
+}
