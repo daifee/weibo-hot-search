@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753167339128,
+  "endTime": 1753169388630,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 885011,
+      "num": 340165,
+      "word": "旺仔小乔 恋爱告急",
+      "onboard_time": 1753166720,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 836612,
       "num": 261945,
       "word": "孔雪儿机场被男子大吼",
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614262,
+      "num": 614262,
+      "word": "济南强降雨致2人死亡10人失联",
+      "onboard_time": 1753163061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607369,
       "num": 365660,
       "word": "王琳怒怼被儿子掌掴谣言",
@@ -155,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 578674,
-      "num": 578674,
-      "word": "济南强降雨致2人死亡10人失联",
-      "onboard_time": 1753163061,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 578287,
+      "num": 578287,
+      "word": "华尔街展示加沙儿童尸体",
+      "onboard_time": 1753167021,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 571120,
@@ -179,12 +195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559509,
+      "num": 309108,
+      "word": "导师您好不好意思",
+      "onboard_time": 1753166541,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 547955,
       "num": 547955,
       "word": "57岁家政阿姨在北京攒下100万",
       "onboard_time": 1753158563,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531012,
+      "num": 301153,
+      "word": "森林北腿部大片淤青疑受伤",
+      "onboard_time": 1753167621,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 501691,
@@ -507,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263949,
-      "num": 263949,
-      "word": "华尔街展示加沙儿童尸体",
-      "onboard_time": 1753167021,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 261342,
       "num": 261342,
       "word": "75岁港星帮37岁儿子还债",
@@ -537,14 +561,6 @@
       "onboard_time": 1753156162,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249613,
-      "num": 249613,
-      "word": "旺仔小乔 恋爱告急",
-      "onboard_time": 1753166720,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 248595,
@@ -739,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194112,
-      "num": 146106,
-      "word": "导师您好不好意思",
-      "onboard_time": 1753166541,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 192483,
       "num": 192483,
       "word": "宁艺卓费加罗七月刊预告",
@@ -769,6 +777,14 @@
       "onboard_time": 1753157661,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188096,
+      "num": 353483,
+      "word": "遥感卫星发现商周之际最大城址",
+      "onboard_time": 1753168341,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187074,
@@ -801,6 +817,14 @@
       "onboard_time": 1753159462,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182864,
+      "num": 161594,
+      "word": "梓渝音乐节战报",
+      "onboard_time": 1753167382,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 182444,
@@ -923,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161867,
+      "num": 161867,
+      "word": "租房新规来了",
+      "onboard_time": 1753168401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161125,
       "num": 161125,
       "word": "家长给婴儿绑绷带戒吃手致手指坏死",
@@ -937,6 +969,22 @@
       "onboard_time": 1753157483,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160727,
+      "num": 160727,
+      "word": "程潇陈梦都说不能接受AA制",
+      "onboard_time": 1753167082,
+      "rank": 33,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 160542,
+      "num": 160542,
+      "word": "张予曦毕雯珺红裙单手抱",
+      "onboard_time": 1753167862,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 158995,
@@ -1012,7 +1060,7 @@
     },
     {
       "raw_hot": 148602,
-      "num": 145211,
+      "num": 147131,
       "word": "湖北可乐600ml",
       "onboard_time": 1753166241,
       "rank": 40,
@@ -1171,14 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135344,
-      "num": 135344,
-      "word": "程潇陈梦都说不能接受AA制",
-      "onboard_time": 1753167082,
-      "rank": 33,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "记者暗访甲醛检测行业造假黑幕",
@@ -1236,7 +1276,7 @@
     },
     {
       "raw_hot": 126905,
-      "num": 126905,
+      "num": 704585,
       "word": "小暑不算热大暑三伏天",
       "onboard_time": 1753110083,
       "rank": 32,
@@ -1265,6 +1305,22 @@
       "onboard_time": 1753101861,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124087,
+      "num": 124087,
+      "word": "暴走团升级了",
+      "onboard_time": 1753167740,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122934,
+      "num": 122934,
+      "word": "国产人形机器人能给自己换电池",
+      "onboard_time": 1753168700,
+      "rank": 32,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 121118,
@@ -1355,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112761,
+      "num": 115508,
+      "word": "魏大勋这张嘴还是太能贫了",
+      "onboard_time": 1753167141,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110105,
       "num": 110105,
       "word": "TVB女星姚乐怡称拍戏时曾遭前辈骚扰",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1753120037,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106912,
+      "num": 106912,
+      "word": "陶喆把阿胶念成E胶",
+      "onboard_time": 1753168941,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 105085,
@@ -1419,6 +1491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98237,
+      "num": 98237,
+      "word": "白鹿把范丞丞PD名牌挡住了",
+      "onboard_time": 1753167981,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98061,
       "num": 98061,
       "word": "Ruler解释选底座原因",
@@ -1451,12 +1531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96224,
-      "num": 115508,
-      "word": "魏大勋这张嘴还是太能贫了",
-      "onboard_time": 1753167141,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 96306,
+      "num": 96306,
+      "word": "强奸大嫂再杀人男子未表达歉意",
+      "onboard_time": 1753169360,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94385,
@@ -1707,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65092,
+      "num": 108895,
+      "word": "女子称被女儿学校老师性侵感染HPV",
+      "onboard_time": 1753168941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64852,
       "num": 170290,
       "word": "23岁男子失联34天家属痛哭不已",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1753161082,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49667,
+      "num": 108907,
+      "word": "疑似时代少年团跑马拉松",
+      "onboard_time": 1753168999,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 47452,
@@ -1827,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36777,
+      "num": 235063,
+      "word": "沈月把岳云鹏逗成啥样了",
+      "onboard_time": 1753162522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35519,
       "num": 35519,
       "word": "张凌赫说学生时期叛逆过",
@@ -1857,6 +1961,14 @@
       "onboard_time": 1753159703,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25713,
+      "num": 109073,
+      "word": "清清到达沙特",
+      "onboard_time": 1753167801,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 25314,

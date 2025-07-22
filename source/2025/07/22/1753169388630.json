@@ -1,0 +1,410 @@
+{
+  "runTime": 1753169388630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937745,
+        "num": 1150039,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1192255,
+        "num": 900414,
+        "word": "六点半下班真的好残忍啊",
+        "onboard_time": 1753161624,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17974,
+        "num": 704585,
+        "word": "小暑不算热大暑三伏天",
+        "onboard_time": 1753110083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614262,
+        "num": 614262,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578287,
+        "num": 578287,
+        "word": "华尔街展示加沙儿童尸体",
+        "onboard_time": 1753167021,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 570719,
+        "num": 570719,
+        "word": "美国现在怎么成了这个样子",
+        "onboard_time": 1753163241,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 462050,
+        "num": 462050,
+        "word": "离婚后的龚琳娜终于学会独立",
+        "onboard_time": 1753163121,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405809,
+        "num": 405809,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354100,
+        "num": 354100,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 188096,
+        "num": 353483,
+        "word": "遥感卫星发现商周之际最大城址",
+        "onboard_time": 1753168341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885011,
+        "num": 340165,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 749259,
+        "num": 330084,
+        "word": "徐艺洋都没亲过这么帅的黄子韬",
+        "onboard_time": 1753158502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559509,
+        "num": 309108,
+        "word": "导师您好不好意思",
+        "onboard_time": 1753166541,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 531012,
+        "num": 301153,
+        "word": "森林北腿部大片淤青疑受伤",
+        "onboard_time": 1753167621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389315,
+        "num": 295674,
+        "word": "柴鸡蛋 种地",
+        "onboard_time": 1753164681,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284069,
+        "num": 284069,
+        "word": "景甜工作室进高人了",
+        "onboard_time": 1753158442,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278350,
+        "num": 278350,
+        "word": "村民180万拆迁款变勒索金被判10年",
+        "onboard_time": 1753160482,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 244572,
+        "num": 244572,
+        "word": "终极揭榜歌手官宣",
+        "onboard_time": 1753161802,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36777,
+        "num": 235063,
+        "word": "沈月把岳云鹏逗成啥样了",
+        "onboard_time": 1753162522,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262742,
+        "num": 235022,
+        "word": "结婚证离婚证一个烫金一个烫银",
+        "onboard_time": 1753112123,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234806,
+        "num": 234806,
+        "word": "梓渝鞠婧祎田栩宁超话前三",
+        "onboard_time": 1753163001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195753,
+        "num": 195753,
+        "word": "孔雪儿机场被男子大吼",
+        "onboard_time": 1753157302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173054,
+        "num": 173054,
+        "word": "上班几乎不跟同事说一句话",
+        "onboard_time": 1753158502,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171301,
+        "num": 171301,
+        "word": "旺仔小乔演唱会票价",
+        "onboard_time": 1753163483,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161867,
+        "num": 161867,
+        "word": "租房新规来了",
+        "onboard_time": 1753168401,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182864,
+        "num": 161594,
+        "word": "梓渝音乐节战报",
+        "onboard_time": 1753167382,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160727,
+        "num": 160727,
+        "word": "程潇陈梦都说不能接受AA制",
+        "onboard_time": 1753167082,
+        "rank": 26,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 160542,
+        "num": 160542,
+        "word": "张予曦毕雯珺红裙单手抱",
+        "onboard_time": 1753167862,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 154542,
+        "word": "姚译添说孟子义李昀锐很符合跑男气质",
+        "onboard_time": 1753164021,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147131,
+        "num": 147131,
+        "word": "湖北可乐600ml",
+        "onboard_time": 1753166241,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145068,
+        "num": 145068,
+        "word": "iPad上可以玩到天昏地暗的游戏",
+        "onboard_time": 1753166062,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124087,
+        "num": 124087,
+        "word": "暴走团升级了",
+        "onboard_time": 1753167740,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122934,
+        "num": 122934,
+        "word": "国产人形机器人能给自己换电池",
+        "onboard_time": 1753168700,
+        "rank": 32,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 121193,
+        "num": 121193,
+        "word": "女子要跟男友领证发现户口被丈夫销了",
+        "onboard_time": 1753160902,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114304,
+        "num": 114304,
+        "word": "男子去世后私生子索要千万遗产",
+        "onboard_time": 1753162101,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112761,
+        "num": 112761,
+        "word": "魏大勋这张嘴还是太能贫了",
+        "onboard_time": 1753167141,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109954,
+        "num": 109954,
+        "word": "50岁保安提前1小时到岗猝死",
+        "onboard_time": 1753164921,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25713,
+        "num": 109073,
+        "word": "清清到达沙特",
+        "onboard_time": 1753167801,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49667,
+        "num": 108907,
+        "word": "疑似时代少年团跑马拉松",
+        "onboard_time": 1753168999,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65092,
+        "num": 108895,
+        "word": "女子称被女儿学校老师性侵感染HPV",
+        "onboard_time": 1753168941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108884,
+        "num": 108884,
+        "word": "新疆成群的牛上山吃天山雪莲",
+        "onboard_time": 1753164681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108193,
+        "num": 108193,
+        "word": "57岁家政阿姨在北京攒下100万",
+        "onboard_time": 1753158563,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106912,
+        "num": 106912,
+        "word": "陶喆把阿胶念成E胶",
+        "onboard_time": 1753168941,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105382,
+        "num": 105382,
+        "word": "14年前接住的2岁坠楼女孩还好吗",
+        "onboard_time": 1753160723,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101388,
+        "num": 101388,
+        "word": "唐艺昕英国旅行晴天含量很高",
+        "onboard_time": 1753167021,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98345,
+        "num": 98345,
+        "word": "巴以冲突",
+        "onboard_time": 1753166121,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98237,
+        "num": 98237,
+        "word": "白鹿把范丞丞PD名牌挡住了",
+        "onboard_time": 1753167981,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97707,
+        "num": 97707,
+        "word": "龚俊说刘宇宁私下转账很大方",
+        "onboard_time": 1753158683,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23066,
+        "num": 96996,
+        "word": "夏天的最后1个节气",
+        "onboard_time": 1753143142,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96306,
+        "num": 96306,
+        "word": "强奸大嫂再杀人男子未表达歉意",
+        "onboard_time": 1753169360,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}

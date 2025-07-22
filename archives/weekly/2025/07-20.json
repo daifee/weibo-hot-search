@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753167339128,
+  "endTime": 1753169388630,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 885011,
+      "num": 340165,
+      "word": "旺仔小乔 恋爱告急",
+      "onboard_time": 1753166720,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 873958,
       "num": 364917,
       "word": "于正破防删评论",
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 614262,
+      "num": 614262,
+      "word": "济南强降雨致2人死亡10人失联",
+      "onboard_time": 1753163061,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610549,
       "num": 256621,
       "word": "梓渝粉丝名",
@@ -875,12 +891,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 578674,
-      "num": 578674,
-      "word": "济南强降雨致2人死亡10人失联",
-      "onboard_time": 1753163061,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 578287,
+      "num": 578287,
+      "word": "华尔街展示加沙儿童尸体",
+      "onboard_time": 1753167021,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 572427,
@@ -937,6 +953,14 @@
       "onboard_time": 1753141701,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 559509,
+      "num": 309108,
+      "word": "导师您好不好意思",
+      "onboard_time": 1753166541,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 559468,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1753033937,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 531012,
+      "num": 301153,
+      "word": "森林北腿部大片淤青疑受伤",
+      "onboard_time": 1753167621,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 530913,
@@ -2339,14 +2371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 263949,
-      "num": 263949,
-      "word": "华尔街展示加沙儿童尸体",
-      "onboard_time": 1753167021,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 262258,
       "num": 262258,
       "word": "广州台风",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1752967338,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 249613,
-      "num": 249613,
-      "word": "旺仔小乔 恋爱告急",
-      "onboard_time": 1753166720,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 248595,
@@ -3363,14 +3379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194112,
-      "num": 146106,
-      "word": "导师您好不好意思",
-      "onboard_time": 1753166541,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 193089,
       "num": 193089,
       "word": "蔡徐坤更新快拍",
@@ -3531,6 +3539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188096,
+      "num": 353483,
+      "word": "遥感卫星发现商周之际最大城址",
+      "onboard_time": 1753168341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187707,
       "num": 187707,
       "word": "马頔喻言都想把黄誉博嘴捂上",
@@ -3665,6 +3681,14 @@
       "onboard_time": 1753159462,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182864,
+      "num": 161594,
+      "word": "梓渝音乐节战报",
+      "onboard_time": 1753167382,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 182459,
@@ -4323,6 +4347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161867,
+      "num": 161867,
+      "word": "租房新规来了",
+      "onboard_time": 1753168401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161707,
       "num": 161707,
       "word": "A股",
@@ -4395,12 +4427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160727,
+      "num": 160727,
+      "word": "程潇陈梦都说不能接受AA制",
+      "onboard_time": 1753167082,
+      "rank": 33,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 160634,
       "num": 312009,
       "word": "最新央企中国雅江集团成立",
       "onboard_time": 1752983902,
       "rank": 34,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 160542,
+      "num": 160542,
+      "word": "张予曦毕雯珺红裙单手抱",
+      "onboard_time": 1753167862,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 160288,
@@ -4812,7 +4860,7 @@
     },
     {
       "raw_hot": 148602,
-      "num": 145211,
+      "num": 147131,
       "word": "湖北可乐600ml",
       "onboard_time": 1753166241,
       "rank": 40,
@@ -5323,14 +5371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135344,
-      "num": 135344,
-      "word": "程潇陈梦都说不能接受AA制",
-      "onboard_time": 1753167082,
-      "rank": 33,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "记者暗访甲醛检测行业造假黑幕",
@@ -5708,7 +5748,7 @@
     },
     {
       "raw_hot": 126905,
-      "num": 126905,
+      "num": 704585,
       "word": "小暑不算热大暑三伏天",
       "onboard_time": 1753110083,
       "rank": 32,
@@ -5875,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124087,
+      "num": 124087,
+      "word": "暴走团升级了",
+      "onboard_time": 1753167740,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124027,
       "num": 124027,
       "word": "程潇沈月i人互助联盟",
@@ -5913,6 +5961,14 @@
       "onboard_time": 1753080681,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122934,
+      "num": 122934,
+      "word": "国产人形机器人能给自己换电池",
+      "onboard_time": 1753168700,
+      "rank": 32,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 122411,
@@ -6443,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112761,
+      "num": 115508,
+      "word": "魏大勋这张嘴还是太能贫了",
+      "onboard_time": 1753167141,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112382,
       "num": 112382,
       "word": "给小猫买磨牙棒没看尺寸",
@@ -6705,6 +6769,14 @@
       "onboard_time": 1753078941,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106912,
+      "num": 106912,
+      "word": "陶喆把阿胶念成E胶",
+      "onboard_time": 1753168941,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 106795,
@@ -7067,6 +7139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98237,
+      "num": 98237,
+      "word": "白鹿把范丞丞PD名牌挡住了",
+      "onboard_time": 1753167981,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98061,
       "num": 98061,
       "word": "Ruler解释选底座原因",
@@ -7107,12 +7187,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96224,
-      "num": 115508,
-      "word": "魏大勋这张嘴还是太能贫了",
-      "onboard_time": 1753167141,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 96306,
+      "num": 96306,
+      "word": "强奸大嫂再杀人男子未表达歉意",
+      "onboard_time": 1753169360,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95208,
@@ -7747,6 +7827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65092,
+      "num": 108895,
+      "word": "女子称被女儿学校老师性侵感染HPV",
+      "onboard_time": 1753168941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64852,
       "num": 170290,
       "word": "23岁男子失联34天家属痛哭不已",
@@ -8083,6 +8171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49667,
+      "num": 108907,
+      "word": "疑似时代少年团跑马拉松",
+      "onboard_time": 1753168999,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49506,
       "num": 148406,
       "word": "百大潮品安利计划",
@@ -8371,6 +8467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 36777,
+      "num": 235063,
+      "word": "沈月把岳云鹏逗成啥样了",
+      "onboard_time": 1753162522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36749,
       "num": 413268,
       "word": "辉煌60载魅力新西藏",
@@ -8593,6 +8697,14 @@
       "onboard_time": 1753040474,
       "rank": 28,
       "category": "游戏,电竞"
+    },
+    {
+      "raw_hot": 25713,
+      "num": 109073,
+      "word": "清清到达沙特",
+      "onboard_time": 1753167801,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 25407,
