@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753151725993,
+  "endTime": 1753157036266,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -680,6 +680,22 @@
       "word": "天水幼儿园后厨监控视频曝光",
       "onboard_time": 1751949921,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2015129,
+      "num": 2015129,
+      "word": "柴鸡蛋被恢复执行3699.9万",
+      "onboard_time": 1753156343,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2006200,
+      "num": 2006200,
+      "word": "在山姆发现一盒好丽友被拒绝结账",
+      "onboard_time": 1753153641,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -6355,6 +6371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 690701,
+      "num": 690701,
+      "word": "恋与深空",
+      "onboard_time": 1751340380,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 690458,
       "num": 690458,
       "word": "男子因好奇上个厕所连续转账14次",
@@ -8611,6 +8635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 559939,
+      "num": 559939,
+      "word": "相柳",
+      "onboard_time": 1753141701,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559667,
       "num": 462918,
       "word": "电视剧花好官宣",
@@ -9480,6 +9512,14 @@
       "word": "央视曝光职业背债人产业链",
       "onboard_time": 1752942620,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 522122,
+      "num": 522122,
+      "word": "遇男子强奸嫂子见义勇为被害家属发声",
+      "onboard_time": 1753153281,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -10587,6 +10627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474003,
+      "num": 474003,
+      "word": "特朗普政府公布马丁路德金相关记录",
+      "onboard_time": 1753151422,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 473835,
       "num": 473835,
       "word": "闪婚后车祸去世女子丈夫回应骗保指责",
@@ -11233,6 +11281,14 @@
       "onboard_time": 1752068664,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 449427,
+      "num": 449427,
+      "word": "东极岛将侵略者罪证搬上大银幕",
+      "onboard_time": 1753152081,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 449275,
@@ -13195,14 +13251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381441,
-      "num": 381441,
-      "word": "相柳",
-      "onboard_time": 1753141701,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 381325,
       "num": 381325,
       "word": "中方对欧盟采取对等限制措施",
@@ -14835,6 +14883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343095,
+      "num": 165517,
+      "word": "高瀚宇上个节目确诊扁平足",
+      "onboard_time": 1753154361,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341883,
       "num": 341883,
       "word": "陈梦妈妈谈大姐去世泪崩",
@@ -16019,6 +16075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319198,
+      "num": 319198,
+      "word": "金建希博士学位也没了",
+      "onboard_time": 1753150580,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 318921,
       "num": 318921,
       "word": "恋与深空回应剧情去中化",
@@ -16041,6 +16105,14 @@
       "onboard_time": 1751641107,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317997,
+      "num": 317997,
+      "word": "山东一地多人哄抢掉地大蒜",
+      "onboard_time": 1753152441,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317667,
@@ -16835,6 +16907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299518,
+      "num": 299518,
+      "word": "沈星回长发",
+      "onboard_time": 1753154782,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299295,
       "num": 266198,
       "word": "夏天女装 不日常",
@@ -16913,6 +16993,14 @@
       "onboard_time": 1751628802,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297628,
+      "num": 297628,
+      "word": "沈星回暗蚀国王",
+      "onboard_time": 1753154662,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 297568,
@@ -17481,14 +17569,6 @@
       "onboard_time": 1751351540,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289077,
-      "num": 289077,
-      "word": "恋与深空",
-      "onboard_time": 1751340380,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 288949,
@@ -21403,6 +21483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236236,
+      "num": 236236,
+      "word": "时代少年团大连联排花絮",
+      "onboard_time": 1753155981,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236233,
       "num": 236233,
       "word": "成毅狐妖小红娘王权篇ID",
@@ -21553,14 +21641,6 @@
       "onboard_time": 1752151464,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234912,
-      "num": 234912,
-      "word": "金建希博士学位也没了",
-      "onboard_time": 1753150580,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 234845,
@@ -24675,6 +24755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208631,
+      "num": 208631,
+      "word": "大暑之后会更热吗",
+      "onboard_time": 1753149860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208617,
       "num": 208617,
       "word": "谍报上不封顶",
@@ -26209,6 +26297,14 @@
       "onboard_time": 1751967143,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 200880,
+      "num": 200880,
+      "word": "扫毒风暴于文文暗恋不了一点",
+      "onboard_time": 1753156162,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 200876,
@@ -30123,6 +30219,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 184006,
+      "num": 184006,
+      "word": "印度网友反复观看新闻联播",
+      "onboard_time": 1753156102,
+      "rank": 27,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 183956,
       "num": 183956,
       "word": "为什么品牌都在换logo",
@@ -30641,6 +30745,14 @@
       "onboard_time": 1751963242,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181355,
+      "num": 181355,
+      "word": "花西子 王俊凯",
+      "onboard_time": 1753148601,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 181322,
@@ -32083,14 +32195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174775,
-      "num": 174775,
-      "word": "花西子 王俊凯",
-      "onboard_time": 1753148601,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 174690,
       "num": 174690,
       "word": "2万枚污损硬币遭银行拒绝兑换",
@@ -32529,6 +32633,14 @@
       "onboard_time": 1752132143,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173394,
+      "num": 173394,
+      "word": "全国持社保卡人数达13.9亿人",
+      "onboard_time": 1753156402,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173373,
@@ -33123,6 +33235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171307,
+      "num": 171307,
+      "word": "今天时间不满24小时",
+      "onboard_time": 1753154421,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 171293,
       "num": 171293,
       "word": "DRG对战LGDNBW",
@@ -33201,6 +33321,14 @@
       "onboard_time": 1752929122,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171094,
+      "num": 171094,
+      "word": "见义勇为牺牲者儿子称诉求只有一个",
+      "onboard_time": 1753153641,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171093,
@@ -33411,6 +33539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170219,
+      "num": 171143,
+      "word": "减肥黄金期来了",
+      "onboard_time": 1753150940,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 170181,
       "num": 170181,
       "word": "重庆渝中区文旅委致歉",
@@ -33433,6 +33569,14 @@
       "onboard_time": 1752982581,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169996,
+      "num": 169996,
+      "word": "张予曦演技",
+      "onboard_time": 1753153101,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 169994,
@@ -34523,6 +34667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165550,
+      "num": 165550,
+      "word": "利剑玫瑰下周央视开播",
+      "onboard_time": 1753156162,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165525,
       "num": 227429,
       "word": "一直躺着玩手机真的会得血栓",
@@ -34545,6 +34697,14 @@
       "onboard_time": 1752849085,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165482,
+      "num": 165482,
+      "word": "王菲朝阳区麻袋天后",
+      "onboard_time": 1753156282,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 165374,
@@ -34633,14 +34793,6 @@
       "onboard_time": 1752979222,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 165142,
-      "num": 182196,
-      "word": "大暑之后会更热吗",
-      "onboard_time": 1753149860,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165136,
@@ -35209,14 +35361,6 @@
       "onboard_time": 1752904581,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162843,
-      "num": 162843,
-      "word": "减肥黄金期来了",
-      "onboard_time": 1753150940,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 162817,
@@ -37491,6 +37635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154949,
+      "num": 154949,
+      "word": "旺仔小乔演唱会",
+      "onboard_time": 1753141339,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154908,
       "num": 154908,
       "word": "秦彻预言",
@@ -38681,6 +38833,14 @@
       "onboard_time": 1751699062,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150904,
+      "num": 150904,
+      "word": "凡人修仙传OST阵容",
+      "onboard_time": 1753153401,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 150846,
@@ -40067,20 +40227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146832,
-      "num": 146832,
-      "word": "特朗普政府公布马丁路德金相关记录",
-      "onboard_time": 1753151422,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 146807,
       "num": 146807,
       "word": "冰袋能重复使用吗",
       "onboard_time": 1752124346,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146805,
+      "num": 146805,
+      "word": "猫到了单位也一样犯困",
+      "onboard_time": 1753156643,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 146788,
@@ -40273,6 +40433,14 @@
       "onboard_time": 1752583401,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146328,
+      "num": 146328,
+      "word": "烟之凰阵容官宣",
+      "onboard_time": 1753154001,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 146319,
@@ -41395,6 +41563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142671,
+      "num": 142671,
+      "word": "王楚钦小心翼翼地出洋相",
+      "onboard_time": 1753153401,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142627,
       "num": 142627,
       "word": "回顾王一博八场大秀经典造型",
@@ -42211,6 +42387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140276,
+      "num": 140276,
+      "word": "时代峰峻的新兵旧兵同框了",
+      "onboard_time": 1753153281,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140243,
       "num": 140243,
       "word": "书卷一梦开虐",
@@ -42297,6 +42481,14 @@
       "onboard_time": 1751883861,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139913,
+      "num": 139913,
+      "word": "感谢朝雪录",
+      "onboard_time": 1753152741,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 139910,
@@ -44323,6 +44515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134869,
+      "num": 134869,
+      "word": "记者暗访甲醛检测行业造假黑幕",
+      "onboard_time": 1753151841,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 134867,
       "num": 134867,
       "word": "王楚钦球员晚宴开心觅食",
@@ -45355,6 +45555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131930,
+      "num": 137366,
+      "word": "三伏天喝羊汤",
+      "onboard_time": 1753156521,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131929,
       "num": 131929,
       "word": "胡夏跟李克勤跳舞嗨到鞋都掉了",
@@ -45841,6 +46049,14 @@
       "onboard_time": 1752050242,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130794,
+      "num": 135180,
+      "word": "最想让人去上班的公司",
+      "onboard_time": 1753156824,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 130791,
@@ -49940,7 +50156,7 @@
     },
     {
       "raw_hot": 120976,
-      "num": 920290,
+      "num": 1034740,
       "word": "中暑的先兆症状",
       "onboard_time": 1753104983,
       "rank": 2,
@@ -53160,6 +53376,14 @@
       "word": "医学生的暑假被全村老人约满了",
       "onboard_time": 1752460522,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113370,
+      "num": 360304,
+      "word": "探访风波中的山姆门店",
+      "onboard_time": 1753156162,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -57705,14 +57929,6 @@
       "onboard_time": 1752852683,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102198,
-      "num": 102198,
-      "word": "旺仔小乔演唱会",
-      "onboard_time": 1753141339,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 102188,
@@ -69128,6 +69344,14 @@
       "word": "矿山瞒报事故举报者信息泄露",
       "onboard_time": 1751914995,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37835,
+      "num": 184411,
+      "word": "用爱心矿泉水洗脚",
+      "onboard_time": 1753156762,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
