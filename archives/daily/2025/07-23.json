@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753203176304,
+  "endTime": 1753205273004,
   "band_list": [
     {
       "raw_hot": 926909,
@@ -41,6 +41,14 @@
       "onboard_time": 1753196483,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409188,
+      "num": 409188,
+      "word": "男子强奸大嫂再杀人辩称是受害者",
+      "onboard_time": 1753200080,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331440,
@@ -112,14 +120,6 @@
       "word": "公职人员回应兼职下班送外卖",
       "onboard_time": 1753188321,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189514,
-      "num": 189514,
-      "word": "男子强奸大嫂再杀人辩称是受害者",
-      "onboard_time": 1753200080,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -267,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75699,
+      "num": 75699,
+      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
+      "onboard_time": 1753201820,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73259,
       "num": 73259,
       "word": "福耀科技大学投档分超厦大哈工大",
@@ -313,14 +321,6 @@
       "onboard_time": 1753194564,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67875,
-      "num": 67875,
-      "word": "格鲁吉亚女子突然发狂咬住护士颈部",
-      "onboard_time": 1753201820,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 67015,
@@ -387,6 +387,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52242,
+      "num": 145499,
+      "word": "实探男孩玩真人CS坠亡事发地",
+      "onboard_time": 1753201879,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50057,
+      "num": 57416,
+      "word": "虞书欣看看是谁的作业还没写",
+      "onboard_time": 1753204457,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 47558,
+      "num": 77495,
+      "word": "男孩玩真人CS坠亡目击者发声",
+      "onboard_time": 1753203021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46816,
       "num": 582942,
       "word": "租房新规来了",
@@ -395,19 +419,51 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37480,
-      "num": 145499,
-      "word": "实探男孩玩真人CS坠亡事发地",
-      "onboard_time": 1753201879,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 45882,
+      "num": 57343,
+      "word": "辛芷蕾张颂文新片入围威尼斯主竞赛",
+      "onboard_time": 1753204278,
+      "rank": 28,
+      "category": "电影"
     },
     {
-      "raw_hot": 37458,
-      "num": 77495,
-      "word": "男孩玩真人CS坠亡目击者发声",
-      "onboard_time": 1753203021,
-      "rank": 34,
+      "raw_hot": 40949,
+      "num": 44215,
+      "word": "英国一双层公交撞桥被削顶",
+      "onboard_time": 1753204697,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39724,
+      "num": 44199,
+      "word": "邝玲玲杭州人气",
+      "onboard_time": 1753205056,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36272,
+      "num": 44168,
+      "word": "朝雪录27.4%登顶",
+      "onboard_time": 1753188682,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34790,
+      "num": 44155,
+      "word": "牵牛和仙女",
+      "onboard_time": 1753204578,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30290,
+      "num": 436752,
+      "word": "当责任落笔成光",
+      "onboard_time": 1753203318,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
