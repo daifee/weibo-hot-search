@@ -1,0 +1,410 @@
+{
+  "runTime": 1753213115959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165882,
+        "num": 165882,
+        "word": "男子强奸大嫂再杀人辩称是受害者",
+        "onboard_time": 1753200080,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116355,
+        "num": 116355,
+        "word": "微信能自动发消息了",
+        "onboard_time": 1753177822,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 7880,
+        "num": 78834,
+        "word": "遥感卫星发现商周之际最大城址",
+        "onboard_time": 1753168341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73476,
+        "num": 73476,
+        "word": "英国一双层公交撞桥被削顶",
+        "onboard_time": 1753204697,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71204,
+        "num": 71204,
+        "word": "玩CS从5楼坠亡男生即将高三",
+        "onboard_time": 1753198941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50620,
+        "num": 50620,
+        "word": "网友吐槽一餐厅排队到13年后",
+        "onboard_time": 1753200741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50232,
+        "num": 50232,
+        "word": "家属称4岁侄子全麻拔乳牙身亡",
+        "onboard_time": 1753198042,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44952,
+        "num": 44952,
+        "word": "深情眼",
+        "onboard_time": 1753188742,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44415,
+        "num": 44415,
+        "word": "4岁男童拔乳牙全麻后殒命",
+        "onboard_time": 1753197082,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37339,
+        "num": 37339,
+        "word": "广东佛山出现基孔肯雅热",
+        "onboard_time": 1753200201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97667,
+        "num": 37103,
+        "word": "2高中生骑电动两轮车撞围墙身亡",
+        "onboard_time": 1753197742,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72934,
+        "num": 36501,
+        "word": "于正 本人近照巨帅别羡慕",
+        "onboard_time": 1753184301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64878,
+        "num": 36235,
+        "word": "宋江曾被经纪公司禁止健身",
+        "onboard_time": 1753196483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59970,
+        "num": 35805,
+        "word": "赵美延问中国最火美女是谁",
+        "onboard_time": 1753185442,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54716,
+        "num": 35247,
+        "word": "柴鸡蛋把身后的豆橛子摘了",
+        "onboard_time": 1753187601,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37545,
+        "num": 34619,
+        "word": "胡先煦你让我有点陌生了",
+        "onboard_time": 1753186102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34465,
+        "num": 34465,
+        "word": "公职人员回应兼职下班送外卖",
+        "onboard_time": 1753188321,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31644,
+        "num": 31644,
+        "word": "山姆员工称好丽友卫龙皆已下架",
+        "onboard_time": 1753198882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29500,
+        "num": 29500,
+        "word": "知名男演员度假期间被海浪卷走身亡",
+        "onboard_time": 1753178002,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26737,
+        "num": 27659,
+        "word": "樱桃琥珀15集哭成泪人了",
+        "onboard_time": 1753201159,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57715,
+        "num": 27537,
+        "word": "格鲁吉亚女子突然发狂咬住护士颈部",
+        "onboard_time": 1753201820,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33496,
+        "num": 27518,
+        "word": "天梭 虞书欣",
+        "onboard_time": 1753189343,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 27258,
+        "num": 27258,
+        "word": "美医生被曝急着摘器官",
+        "onboard_time": 1753207995,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27238,
+        "num": 27238,
+        "word": "韩国今年爆火的男演员",
+        "onboard_time": 1753186640,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26318,
+        "num": 26318,
+        "word": "梓渝熊被挤掉了",
+        "onboard_time": 1753212675,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25789,
+        "num": 25789,
+        "word": "错付车费索要无果后轻生家属发声",
+        "onboard_time": 1753185561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18707,
+        "num": 25721,
+        "word": "牵牛和仙女",
+        "onboard_time": 1753204578,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18304,
+        "num": 25463,
+        "word": "朝雪录",
+        "onboard_time": 1753195103,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16697,
+        "num": 25344,
+        "word": "温以凡你怎么能这么对桑延呢",
+        "onboard_time": 1753183700,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16576,
+        "num": 25219,
+        "word": "虞书欣看到小狗尿床的反应",
+        "onboard_time": 1753208895,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25069,
+        "num": 25069,
+        "word": "曝美国将退出联合国教科文组织",
+        "onboard_time": 1753188383,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24587,
+        "num": 24587,
+        "word": "妈妈回应6个月宝宝眼距过宽引担忧",
+        "onboard_time": 1753194564,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23512,
+        "num": 23512,
+        "word": "6双鞋藏15万欧元入境被查",
+        "onboard_time": 1753209016,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22332,
+        "num": 22332,
+        "word": "男孩玩真人CS坠亡目击者发声",
+        "onboard_time": 1753203021,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22153,
+        "num": 22153,
+        "word": "疑被骗缅北男生母亲称没业绩或被打死",
+        "onboard_time": 1753183880,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22152,
+        "num": 22152,
+        "word": "张继科办赛前曾和马龙樊振东联系",
+        "onboard_time": 1753188261,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21611,
+        "num": 21611,
+        "word": "一批新大学分数线超985",
+        "onboard_time": 1753201099,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 21573,
+        "num": 21573,
+        "word": "19岁男生刚上大一就拿到国企offer",
+        "onboard_time": 1753192943,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21242,
+        "num": 21242,
+        "word": "女子打工被骗逃回家后发现儿子丢了",
+        "onboard_time": 1753205956,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15067,
+        "num": 21182,
+        "word": "蔡依林DIY搓手舞好上头",
+        "onboard_time": 1753197922,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21145,
+        "num": 21145,
+        "word": "方媛三胎孕照",
+        "onboard_time": 1753193062,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18862,
+        "num": 18862,
+        "word": "福耀科技大学投档分超厦大哈工大",
+        "onboard_time": 1753192882,
+        "rank": 41,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 18490,
+        "num": 18490,
+        "word": "医院回应4岁男童全麻拔乳牙身亡",
+        "onboard_time": 1753199841,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17587,
+        "num": 17587,
+        "word": "人际交往中藏着恶意的5句话",
+        "onboard_time": 1753194322,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17522,
+        "num": 17522,
+        "word": "男子下载app炒股1个月以为赚300万",
+        "onboard_time": 1753178661,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17395,
+        "num": 17395,
+        "word": "实探男孩玩真人CS坠亡事发地",
+        "onboard_time": 1753201879,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16918,
+        "num": 16918,
+        "word": "第7号台风范斯高或将生成",
+        "onboard_time": 1753193122,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16683,
+        "num": 16683,
+        "word": "蝉尿攻击对人体有害吗",
+        "onboard_time": 1753193483,
+        "rank": 47,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 15652,
+        "num": 16682,
+        "word": "别让坏脾气挡了好福气",
+        "onboard_time": 1753200441,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14267,
+        "num": 16680,
+        "word": "特斯拉销量冠军因SU7加了定语",
+        "onboard_time": 1753187421,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些话语直抵人心#"
+    }
+  }
+}
