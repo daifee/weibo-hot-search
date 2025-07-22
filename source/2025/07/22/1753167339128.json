@@ -1,0 +1,410 @@
+{
+  "runTime": 1753167339128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458697,
+        "num": 1458697,
+        "word": "六点半下班真的好残忍啊",
+        "onboard_time": 1753161624,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1325589,
+        "num": 1325589,
+        "word": "柴鸡蛋被恢复执行3699.9万",
+        "onboard_time": 1753156343,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13172,
+        "num": 798135,
+        "word": "中暑的先兆症状",
+        "onboard_time": 1753104983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753931,
+        "num": 753931,
+        "word": "美国现在怎么成了这个样子",
+        "onboard_time": 1753163241,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 578674,
+        "num": 578674,
+        "word": "济南强降雨致2人死亡10人失联",
+        "onboard_time": 1753163061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575527,
+        "num": 575527,
+        "word": "在山姆发现一盒好丽友被拒绝结账",
+        "onboard_time": 1753153641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487075,
+        "num": 487075,
+        "word": "网红旺仔小乔申请艺名商标被驳回",
+        "onboard_time": 1753157422,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 466605,
+        "num": 466605,
+        "word": "离婚后的龚琳娜终于学会独立",
+        "onboard_time": 1753163121,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423476,
+        "num": 423476,
+        "word": "村民180万拆迁款变勒索金被判10年",
+        "onboard_time": 1753160482,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 416384,
+        "num": 416384,
+        "word": "终极揭榜歌手官宣",
+        "onboard_time": 1753161802,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 909417,
+        "num": 413281,
+        "word": "徐艺洋都没亲过这么帅的黄子韬",
+        "onboard_time": 1753158502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501691,
+        "num": 410674,
+        "word": "柴鸡蛋 种地",
+        "onboard_time": 1753164681,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402203,
+        "num": 402203,
+        "word": "景甜工作室进高人了",
+        "onboard_time": 1753158442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395353,
+        "num": 395353,
+        "word": "上班几乎不跟同事说一句话",
+        "onboard_time": 1753158502,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381006,
+        "num": 381006,
+        "word": "梓渝鞠婧祎田栩宁超话前三",
+        "onboard_time": 1753163001,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352484,
+        "num": 352484,
+        "word": "结婚证离婚证一个烫金一个烫银",
+        "onboard_time": 1753112123,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297071,
+        "num": 297071,
+        "word": "女子要跟男友领证发现户口被丈夫销了",
+        "onboard_time": 1753160902,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283163,
+        "num": 283163,
+        "word": "姚译添说孟子义李昀锐很符合跑男气质",
+        "onboard_time": 1753164021,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279622,
+        "num": 279622,
+        "word": "丁程鑫顶级中译中",
+        "onboard_time": 1753166062,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263949,
+        "num": 263949,
+        "word": "华尔街展示加沙儿童尸体",
+        "onboard_time": 1753167021,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269182,
+        "num": 261945,
+        "word": "孔雪儿机场被男子大吼",
+        "onboard_time": 1753157302,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249613,
+        "num": 249613,
+        "word": "旺仔小乔 恋爱告急",
+        "onboard_time": 1753166720,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193299,
+        "num": 193299,
+        "word": "男子去世后私生子索要千万遗产",
+        "onboard_time": 1753162101,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192483,
+        "num": 192483,
+        "word": "宁艺卓费加罗七月刊预告",
+        "onboard_time": 1753166362,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 186300,
+        "num": 186300,
+        "word": "57岁家政阿姨在北京攒下100万",
+        "onboard_time": 1753158563,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45166,
+        "num": 170204,
+        "word": "拆迁款变勒索金事件家属发声",
+        "onboard_time": 1753167082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221266,
+        "num": 169721,
+        "word": "旺仔小乔演唱会票价",
+        "onboard_time": 1753163483,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163759,
+        "num": 163759,
+        "word": "iPad上可以玩到天昏地暗的游戏",
+        "onboard_time": 1753166062,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148232,
+        "num": 148232,
+        "word": "龚俊说刘宇宁私下转账很大方",
+        "onboard_time": 1753158683,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146194,
+        "num": 146194,
+        "word": "14年前接住的2岁坠楼女孩还好吗",
+        "onboard_time": 1753160723,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194112,
+        "num": 146106,
+        "word": "导师您好不好意思",
+        "onboard_time": 1753166541,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148602,
+        "num": 145211,
+        "word": "湖北可乐600ml",
+        "onboard_time": 1753166241,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144199,
+        "num": 144199,
+        "word": "新疆成群的牛上山吃天山雪莲",
+        "onboard_time": 1753164681,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135344,
+        "num": 135344,
+        "word": "程潇陈梦都说不能接受AA制",
+        "onboard_time": 1753167082,
+        "rank": 33,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 124440,
+        "num": 124440,
+        "word": "75岁男星自曝儿子37岁在家啃老",
+        "onboard_time": 1753160544,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122877,
+        "num": 122877,
+        "word": "50岁保安提前1小时到岗猝死",
+        "onboard_time": 1753164921,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120506,
+        "num": 120506,
+        "word": "洒水车可没惯着暴走团",
+        "onboard_time": 1753157483,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118411,
+        "num": 118411,
+        "word": "唐艺昕英国旅行晴天含量很高",
+        "onboard_time": 1753167021,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115732,
+        "num": 115732,
+        "word": "全国2800座古镇里近一半成空城",
+        "onboard_time": 1753164082,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96224,
+        "num": 115508,
+        "word": "魏大勋这张嘴还是太能贫了",
+        "onboard_time": 1753167141,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115331,
+        "num": 115331,
+        "word": "巴以冲突",
+        "onboard_time": 1753166121,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113165,
+        "num": 113165,
+        "word": "原神",
+        "onboard_time": 1753159102,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112682,
+        "num": 112682,
+        "word": "曹骏少年剑客感",
+        "onboard_time": 1753162882,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111877,
+        "num": 111877,
+        "word": "82人曾打退20倍敌人的进攻",
+        "onboard_time": 1753164380,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110569,
+        "num": 110569,
+        "word": "凡人修仙传",
+        "onboard_time": 1753161921,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106854,
+        "num": 106854,
+        "word": "过了35岁就别让人猜你多少岁了",
+        "onboard_time": 1753158742,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104914,
+        "num": 104914,
+        "word": "广电总局发文杜绝抗战神剧",
+        "onboard_time": 1753160723,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102369,
+        "num": 102369,
+        "word": "李兰迪敖瑞鹏回应二搭",
+        "onboard_time": 1753159462,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97331,
+        "num": 97331,
+        "word": "姐妹花为男友贷款400多万发现被骗",
+        "onboard_time": 1753166901,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95747,
+        "num": 95747,
+        "word": "三伏天建议要适当的摆烂",
+        "onboard_time": 1753157181,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何提起福州工作时的这段往事#"
+    }
+  }
+}

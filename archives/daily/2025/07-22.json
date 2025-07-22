@@ -1,6 +1,6 @@
 {
   "startTime": 1753115745493,
-  "endTime": 1753166451096,
+  "endTime": 1753167339128,
   "band_list": [
     {
       "raw_hot": 2978621,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1458697,
+      "num": 1458697,
+      "word": "六点半下班真的好残忍啊",
+      "onboard_time": 1753161624,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1353597,
       "num": 1353597,
       "word": "结婚证离婚证一个烫金一个烫银",
@@ -36,19 +44,11 @@
     },
     {
       "raw_hot": 1216601,
-      "num": 373063,
+      "num": 413281,
       "word": "徐艺洋都没亲过这么帅的黄子韬",
       "onboard_time": 1753158502,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1171521,
-      "num": 1171521,
-      "word": "六点半下班真的好残忍啊",
-      "onboard_time": 1753161624,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 1002784,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 836612,
-      "num": 256269,
+      "num": 261945,
       "word": "孔雪儿机场被男子大吼",
       "onboard_time": 1753157302,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 753931,
+      "num": 753931,
+      "word": "美国现在怎么成了这个样子",
+      "onboard_time": 1753163241,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 690701,
@@ -139,19 +147,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 596763,
-      "num": 596763,
-      "word": "美国现在怎么成了这个样子",
-      "onboard_time": 1753163241,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 585231,
       "num": 585231,
       "word": "遇男子强奸嫂子见义勇为被害家属发声",
       "onboard_time": 1753153281,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578674,
+      "num": 578674,
+      "word": "济南强降雨致2人死亡10人失联",
+      "onboard_time": 1753163061,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501691,
+      "num": 410674,
+      "word": "柴鸡蛋 种地",
+      "onboard_time": 1753164681,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486683,
       "num": 337019,
       "word": "吃个螺蛳粉被爸爸做局了",
@@ -196,11 +212,19 @@
     },
     {
       "raw_hot": 472388,
-      "num": 370212,
+      "num": 395353,
       "word": "上班几乎不跟同事说一句话",
       "onboard_time": 1753158502,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 466605,
+      "num": 466605,
+      "word": "离婚后的龚琳娜终于学会独立",
+      "onboard_time": 1753163121,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 464157,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 396725,
-      "num": 363753,
+      "num": 381006,
       "word": "梓渝鞠婧祎田栩宁超话前三",
       "onboard_time": 1753163001,
       "rank": 17,
@@ -305,14 +329,6 @@
       "onboard_time": 1753142120,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 362288,
-      "num": 362288,
-      "word": "柴鸡蛋 种地",
-      "onboard_time": 1753164681,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 360311,
@@ -395,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311690,
-      "num": 311690,
-      "word": "济南强降雨致2人死亡10人失联",
-      "onboard_time": 1753163061,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307697,
       "num": 307697,
       "word": "过了35岁就别让人猜你多少岁了",
@@ -475,11 +483,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279275,
-      "num": 377271,
-      "word": "离婚后的龚琳娜终于学会独立",
-      "onboard_time": 1753163121,
-      "rank": 42,
+      "raw_hot": 279622,
+      "num": 279622,
+      "word": "丁程鑫顶级中译中",
+      "onboard_time": 1753166062,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -497,6 +505,14 @@
       "onboard_time": 1753097662,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263949,
+      "num": 263949,
+      "word": "华尔街展示加沙儿童尸体",
+      "onboard_time": 1753167021,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 261342,
@@ -521,6 +537,14 @@
       "onboard_time": 1753156162,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249613,
+      "num": 249613,
+      "word": "旺仔小乔 恋爱告急",
+      "onboard_time": 1753166720,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 248595,
@@ -715,6 +739,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194112,
+      "num": 146106,
+      "word": "导师您好不好意思",
+      "onboard_time": 1753166541,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 192483,
+      "num": 192483,
+      "word": "宁艺卓费加罗七月刊预告",
+      "onboard_time": 1753166362,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 189869,
       "num": 189869,
       "word": "月夜的叙事诗",
@@ -761,14 +801,6 @@
       "onboard_time": 1753159462,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182666,
-      "num": 259940,
-      "word": "丁程鑫顶级中译中",
-      "onboard_time": 1753166062,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 182444,
@@ -883,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163759,
+      "num": 163759,
+      "word": "iPad上可以玩到天昏地暗的游戏",
+      "onboard_time": 1753166062,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161125,
       "num": 161125,
       "word": "家长给婴儿绑绷带戒吃手致手指坏死",
@@ -897,14 +937,6 @@
       "onboard_time": 1753157483,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159337,
-      "num": 159337,
-      "word": "宁艺卓费加罗七月刊预告",
-      "onboard_time": 1753166362,
-      "rank": 24,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 158995,
@@ -979,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148602,
+      "num": 145211,
+      "word": "湖北可乐600ml",
+      "onboard_time": 1753166241,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148177,
       "num": 148177,
       "word": "原神挪德卡莱12位新角色",
@@ -1019,14 +1059,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 145126,
-      "num": 145126,
-      "word": "iPad上可以玩到天昏地暗的游戏",
-      "onboard_time": 1753166062,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145104,
       "num": 145104,
       "word": "三伏天喝羊汤",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1753160723,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144199,
+      "num": 144199,
+      "word": "新疆成群的牛上山吃天山雪莲",
+      "onboard_time": 1753164681,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142671,
@@ -1131,12 +1171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138147,
-      "num": 138147,
-      "word": "新疆成群的牛上山吃天山雪莲",
-      "onboard_time": 1753164681,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 135344,
+      "num": 135344,
+      "word": "程潇陈梦都说不能接受AA制",
+      "onboard_time": 1753167082,
+      "rank": 33,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 134869,
@@ -1243,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118411,
+      "num": 118411,
+      "word": "唐艺昕英国旅行晴天含量很高",
+      "onboard_time": 1753167021,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118381,
       "num": 118381,
       "word": "马斯克正式进军餐饮业",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1753159884,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115331,
+      "num": 115331,
+      "word": "巴以冲突",
+      "onboard_time": 1753166121,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115068,
@@ -1355,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102572,
-      "num": 102572,
-      "word": "湖北可乐600ml",
-      "onboard_time": 1753166241,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101063,
       "num": 101063,
       "word": "赛里木湖",
@@ -1371,20 +1419,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 100369,
-      "num": 100369,
-      "word": "巴以冲突",
-      "onboard_time": 1753166121,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98061,
       "num": 98061,
       "word": "Ruler解释选底座原因",
       "onboard_time": 1753146921,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97331,
+      "num": 97331,
+      "word": "姐妹花为男友贷款400多万发现被骗",
+      "onboard_time": 1753166901,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97059,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1753163842,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96224,
+      "num": 115508,
+      "word": "魏大勋这张嘴还是太能贫了",
+      "onboard_time": 1753167141,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 94385,
@@ -1721,6 +1777,14 @@
       "onboard_time": 1753149801,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 45166,
+      "num": 170204,
+      "word": "拆迁款变勒索金事件家属发声",
+      "onboard_time": 1753167082,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42097,
