@@ -1,7 +1,15 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753238211591,
+  "endTime": 1753243540529,
   "band_list": [
+    {
+      "raw_hot": 2998546,
+      "num": 2998546,
+      "word": "微信 后悔药",
+      "onboard_time": 1753241661,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1840826,
       "num": 1840826,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1341089,
-      "num": 441764,
+      "num": 989146,
       "word": "水果 脂肪肝",
       "onboard_time": 1753236080,
       "rank": 3,
@@ -35,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984076,
+      "num": 984076,
+      "word": "建议存款不要告诉任何人",
+      "onboard_time": 1753236621,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 926909,
       "num": 926909,
       "word": "微信能自动发消息了",
@@ -43,8 +59,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 732624,
+      "num": 732624,
+      "word": "凡人修仙传定档",
+      "onboard_time": 1753241361,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 707057,
-      "num": 292553,
+      "num": 316418,
       "word": "汪峰一家与森林北一家同游日本",
       "onboard_time": 1753234399,
       "rank": 10,
@@ -83,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535905,
+      "num": 535905,
+      "word": "日媒称首相石破茂将辞职",
+      "onboard_time": 1753238841,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 535315,
       "num": 214465,
       "word": "20岁女模拒绝发生关系被从高处扔下",
       "onboard_time": 1753232241,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 507902,
+      "num": 841568,
+      "word": "海南自由贸易港封关12月18日启动",
+      "onboard_time": 1753238000,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436035,
@@ -107,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389583,
+      "num": 538307,
+      "word": "山姆App重新上架卫龙魔芋爽",
+      "onboard_time": 1753240580,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381654,
       "num": 381654,
       "word": "中国网约车分会致歉",
@@ -121,6 +169,14 @@
       "onboard_time": 1753234820,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353390,
+      "num": 353390,
+      "word": "乔任梁出道18周年父亲身穿粉色扫墓",
+      "onboard_time": 1753238902,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 346996,
@@ -171,12 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323046,
-      "num": 323046,
-      "word": "建议存款不要告诉任何人",
-      "onboard_time": 1753236621,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 326143,
+      "num": 326143,
+      "word": "王楚钦分享面对压力自己心路历程",
+      "onboard_time": 1753237280,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 324799,
+      "num": 324799,
+      "word": "TMEA阵容",
+      "onboard_time": 1753240701,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 320792,
@@ -203,6 +267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293629,
+      "num": 141645,
+      "word": "腾讯内部新规",
+      "onboard_time": 1753240762,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 292897,
+      "num": 199983,
+      "word": "Pura80数字版开启预售",
+      "onboard_time": 1753239561,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 291052,
       "num": 291052,
       "word": "一架香港飞往新德里客机着陆后起火",
@@ -225,6 +305,14 @@
       "onboard_time": 1753192943,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273111,
+      "num": 196971,
+      "word": "敖瑞鹏说入圈后幸福感降低",
+      "onboard_time": 1753242922,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 243429,
@@ -265,14 +353,6 @@
       "onboard_time": 1753236200,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219294,
-      "num": 219294,
-      "word": "王楚钦分享面对压力自己心路历程",
-      "onboard_time": 1753237280,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 218319,
@@ -323,12 +403,28 @@
       "category": "国际时政,健康医疗"
     },
     {
+      "raw_hot": 198316,
+      "num": 198316,
+      "word": "57岁金星巴黎被偶遇",
+      "onboard_time": 1753241061,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195560,
       "num": 212782,
       "word": "樱桃琥珀15集哭成泪人了",
       "onboard_time": 1753201159,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187711,
+      "num": 187711,
+      "word": "朴彩英跳错",
+      "onboard_time": 1753243041,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 187027,
@@ -344,6 +440,14 @@
       "word": "山姆员工称好丽友卫龙皆已下架",
       "onboard_time": 1753198882,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183255,
+      "num": 183255,
+      "word": "海南",
+      "onboard_time": 1753239981,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -387,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174765,
+      "num": 174765,
+      "word": "上证指数逼近3600点",
+      "onboard_time": 1753242682,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171429,
       "num": 183650,
       "word": "七七站台接商演两小时酬劳8000",
@@ -395,20 +507,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 165802,
-      "num": 165802,
-      "word": "海南自由贸易港封关12月18日启动",
-      "onboard_time": 1753238000,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158050,
       "num": 158050,
       "word": "我国渔民打捞到了间谍窃密装置",
       "onboard_time": 1753228879,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155775,
+      "num": 155775,
+      "word": "一天省5块相当于银行存了十几万",
+      "onboard_time": 1753237641,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 153352,
@@ -420,7 +532,7 @@
     },
     {
       "raw_hot": 150577,
-      "num": 150577,
+      "num": 536540,
       "word": "特朗普称期待在不久的将来访问中国",
       "onboard_time": 1753235539,
       "rank": 34,
@@ -435,12 +547,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141352,
+      "num": 141352,
+      "word": "12306回应高铁商务座卫生脏乱",
+      "onboard_time": 1753241241,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139559,
+      "num": 139559,
+      "word": "僵尸校园2剧本围读",
+      "onboard_time": 1753238241,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136397,
       "num": 183377,
       "word": "关晓彤投喂彩椒碗",
       "onboard_time": 1753229362,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134102,
+      "num": 242698,
+      "word": "蔚来乐道L90全国试驾抢先开启",
+      "onboard_time": 1753240042,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 134020,
@@ -499,6 +635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120144,
+      "num": 120144,
+      "word": "蔡依林新专辑pleasure",
+      "onboard_time": 1753242982,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 120122,
+      "num": 120122,
+      "word": "Shanks谈Faker和Chovy谁厉害",
+      "onboard_time": 1753243462,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119299,
       "num": 119299,
       "word": "错付车费索要无果后轻生家属发声",
@@ -515,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114016,
+      "num": 114016,
+      "word": "朝雪录每一个角色都有高光",
+      "onboard_time": 1753243161,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113884,
       "num": 113884,
       "word": "江西通报一未成年人校外被殴打",
@@ -529,6 +689,14 @@
       "onboard_time": 1753233382,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111144,
+      "num": 111144,
+      "word": "披荆斩棘二公录制",
+      "onboard_time": 1753238780,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 110189,
@@ -579,12 +747,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103935,
+      "num": 103935,
+      "word": "我就说一个抱抱有什么好非礼勿视的",
+      "onboard_time": 1753241901,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103210,
+      "num": 103210,
+      "word": "原来长胖55斤的面相变化这么大",
+      "onboard_time": 1753243522,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101166,
+      "num": 101166,
+      "word": "韩国打工人4500韩元餐标的午餐",
+      "onboard_time": 1753242922,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 100012,
+      "num": 100012,
+      "word": "旅游三千块钱定律",
+      "onboard_time": 1753243522,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 98142,
       "num": 178392,
       "word": "女子打工被骗逃回家后发现儿子丢了",
       "onboard_time": 1753205956,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97615,
+      "num": 97615,
+      "word": "练背一星期全练斜方肌上去了",
+      "onboard_time": 1753241361,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 92131,
@@ -803,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51969,
+      "num": 210766,
+      "word": "用智搜分析看懂歌手2025",
+      "onboard_time": 1753243283,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51106,
       "num": 51106,
       "word": "约克雷斯加盟阿森纳",
@@ -851,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42065,
+      "num": 121238,
+      "word": "师姐的朋友圈",
+      "onboard_time": 1753243462,
+      "rank": 37,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 36659,
       "num": 47191,
       "word": "Rain法拉利老了还是法拉利",
@@ -884,7 +1108,7 @@
     },
     {
       "raw_hot": 27143,
-      "num": 449718,
+      "num": 989159,
       "word": "遥感卫星发现商周之际最大城址",
       "onboard_time": 1753168341,
       "rank": 2,
