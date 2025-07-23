@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753246778401,
+  "endTime": 1753248898162,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -443,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1075728,
+      "num": 1075728,
+      "word": "于正拒签爆火七七为何炸锅",
+      "onboard_time": 1753245682,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1053094,
       "num": 1053094,
       "word": "陈立农街头拥抱",
@@ -531,6 +539,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 937240,
+      "num": 937240,
+      "word": "莲花楼",
+      "onboard_time": 1753243882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 929502,
       "num": 422228,
       "word": "李惠利柳俊烈分手后首次见面",
@@ -617,14 +633,6 @@
       "onboard_time": 1753008501,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 864166,
-      "num": 864166,
-      "word": "莲花楼",
-      "onboard_time": 1753243882,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 863290,
@@ -761,6 +769,14 @@
       "onboard_time": 1753163241,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 748814,
+      "num": 748814,
+      "word": "旅游三千块钱定律",
+      "onboard_time": 1753243522,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 741720,
@@ -1051,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 632725,
-      "num": 632725,
-      "word": "旅游三千块钱定律",
-      "onboard_time": 1753243522,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 632294,
       "num": 632294,
       "word": "梓渝神图的诞生",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1753076902,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 576213,
+      "num": 576213,
+      "word": "原来长胖55斤的面相变化这么大",
+      "onboard_time": 1753243522,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 572427,
@@ -1417,14 +1433,6 @@
       "onboard_time": 1752942620,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520203,
-      "num": 520203,
-      "word": "原来长胖55斤的面相变化这么大",
-      "onboard_time": 1753243522,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 518752,
@@ -1707,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 455246,
+      "num": 455246,
+      "word": "大鹏本想让李雪琴演杨贵妃",
+      "onboard_time": 1753246582,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 454135,
       "num": 612149,
       "word": "天水第二人民医院被甘肃省人民医院托管",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1753091242,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 420883,
+      "num": 583173,
+      "word": "当985大学教授沉迷短剧",
+      "onboard_time": 1753243882,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416313,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1753182440,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 385016,
-      "num": 385016,
-      "word": "于正拒签爆火七七为何炸锅",
-      "onboard_time": 1753245682,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 381654,
@@ -2683,6 +2699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298867,
+      "num": 521228,
+      "word": "女子辅助生殖手术失败九次未要到孩子",
+      "onboard_time": 1753247422,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297935,
       "num": 211447,
       "word": "心动的信号",
@@ -2841,14 +2865,6 @@
       "onboard_time": 1753164021,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284203,
-      "num": 393865,
-      "word": "当985大学教授沉迷短剧",
-      "onboard_time": 1753243882,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284117,
@@ -3027,6 +3043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263590,
+      "num": 263590,
+      "word": "杨幂演技",
+      "onboard_time": 1753245381,
+      "rank": 24,
+      "category": "作品衍生,电影"
+    },
+    {
       "raw_hot": 262258,
       "num": 262258,
       "word": "广州台风",
@@ -3137,6 +3161,14 @@
       "onboard_time": 1753079604,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254094,
+      "num": 254094,
+      "word": "遂宁纪委回应公职人员兼职送外卖",
+      "onboard_time": 1753247781,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 253564,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1753111404,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 241648,
+      "num": 241648,
+      "word": "咖啡 护肝",
+      "onboard_time": 1753244844,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240842,
@@ -3417,14 +3457,6 @@
       "onboard_time": 1753059321,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229678,
-      "num": 229678,
-      "word": "杨幂演技",
-      "onboard_time": 1753245381,
-      "rank": 24,
-      "category": "作品衍生,电影"
     },
     {
       "raw_hot": 229609,
@@ -3595,20 +3627,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 217991,
+      "num": 217991,
+      "word": "伊能静三伏天瘦身法",
+      "onboard_time": 1753246222,
+      "rank": 28,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 217094,
       "num": 217094,
       "word": "UNINE合体现身李汶翰首唱会",
       "onboard_time": 1752935303,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216979,
-      "num": 216979,
-      "word": "咖啡 护肝",
-      "onboard_time": 1753244844,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 216951,
@@ -3779,6 +3811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211279,
+      "num": 211279,
+      "word": "彩椒碗",
+      "onboard_time": 1753243582,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210871,
       "num": 210871,
       "word": "A股",
@@ -3905,14 +3945,6 @@
       "onboard_time": 1753080203,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205664,
-      "num": 205664,
-      "word": "伊能静三伏天瘦身法",
-      "onboard_time": 1753246222,
-      "rank": 28,
-      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 205113,
@@ -4313,6 +4345,14 @@
       "onboard_time": 1753244962,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191461,
+      "num": 160825,
+      "word": "赵小棠凡人修仙传领衔主演",
+      "onboard_time": 1753248382,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 191253,
@@ -5059,6 +5099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173305,
+      "num": 173305,
+      "word": "宋亚轩缺席现在就出发3录制",
+      "onboard_time": 1753248022,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172773,
       "num": 172773,
       "word": "王俊凯入场生频",
@@ -5515,6 +5563,14 @@
       "category": "民生新闻,母婴育儿"
     },
     {
+      "raw_hot": 160824,
+      "num": 160824,
+      "word": "恭喜这位女士终于脱下高跟鞋",
+      "onboard_time": 1753248561,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160787,
       "num": 182393,
       "word": "无预警公开的NewJeans",
@@ -5896,14 +5952,6 @@
       "word": "王一博接荔",
       "onboard_time": 1752974001,
       "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 152083,
-      "num": 152083,
-      "word": "大鹏本想让李雪琴演杨贵妃",
-      "onboard_time": 1753246582,
-      "rank": 38,
       "category": "电影"
     },
     {
@@ -6555,6 +6603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139228,
+      "num": 139228,
+      "word": "卫健委回应4岁男童全麻拔乳牙身亡",
+      "onboard_time": 1753248441,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 139203,
       "num": 139203,
       "word": "杨超越 今天是太阳雨",
@@ -6763,6 +6819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134714,
+      "num": 194793,
+      "word": "赛里木湖景区对公厕问题道歉",
+      "onboard_time": 1753245083,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134555,
       "num": 134555,
       "word": "王多多谈AL惜败GEN",
@@ -6891,14 +6955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132948,
-      "num": 132948,
-      "word": "彩椒碗",
-      "onboard_time": 1753243582,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 132545,
       "num": 146976,
       "word": "深情眼还原度",
@@ -7003,6 +7059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "樱桃琥珀香港篇要来了",
+      "onboard_time": 1753248742,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130308,
       "num": 130308,
       "word": "最佳育龄是不是认知骗局",
@@ -7017,6 +7081,14 @@
       "onboard_time": 1753002082,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130245,
+      "num": 128395,
+      "word": "窦靖童心虚不敢看杨超越",
+      "onboard_time": 1753247300,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 130243,
@@ -7128,6 +7200,14 @@
       "word": "有了钱我的焦虑症就立刻好了",
       "onboard_time": 1753062861,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128590,
+      "num": 128590,
+      "word": "才知道女性胸贴没有统一标准",
+      "onboard_time": 1753248441,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -7259,6 +7339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126589,
+      "num": 132256,
+      "word": "特朗普使出一招围魏救赵",
+      "onboard_time": 1753246883,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126385,
       "num": 126385,
       "word": "黄子韬变脸比翻书还快",
@@ -7273,6 +7361,14 @@
       "onboard_time": 1753017624,
       "rank": 49,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 126004,
+      "num": 160826,
+      "word": "G7350高铁商务座有大量灰尘卫生脏乱",
+      "onboard_time": 1753248322,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125970,
@@ -7883,14 +7979,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 116865,
-      "num": 194793,
-      "word": "赛里木湖景区对公厕问题道歉",
-      "onboard_time": 1753245083,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116703,
       "num": 143926,
       "word": "网友和鹿晗四年前合影",
@@ -7969,6 +8057,14 @@
       "onboard_time": 1752994222,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115685,
+      "num": 115685,
+      "word": "小高再喊话明日方舟求联动",
+      "onboard_time": 1753247721,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 115682,
@@ -8113,6 +8209,14 @@
       "onboard_time": 1753243161,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113953,
+      "num": 113953,
+      "word": "以后去海南可买更多免关税产品",
+      "onboard_time": 1753246943,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113884,
@@ -10819,6 +10923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35357,
+      "num": 991160,
+      "word": "恭王府与中国时尚文化",
+      "onboard_time": 1753248022,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35263,
       "num": 179779,
       "word": "遭同居暴力事件女生称法医不予鉴定",
@@ -10987,6 +11099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28807,
+      "num": 160844,
+      "word": "两男子造谣昆明驾车撞人案被刑拘",
+      "onboard_time": 1753248742,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28739,
       "num": 120114,
       "word": "如何更快发送微信消息",
@@ -11025,6 +11145,14 @@
       "onboard_time": 1752996080,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26765,
+      "num": 227134,
+      "word": "四岁男童拔乳牙身亡疑问重重",
+      "onboard_time": 1753248682,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26674,
