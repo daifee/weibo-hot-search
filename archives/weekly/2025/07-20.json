@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753275476163,
+  "endTime": 1753276412893,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -219,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1596736,
+      "num": 397981,
+      "word": "卢昱晓机场被人敲头",
+      "onboard_time": 1753272743,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1578413,
       "num": 602830,
       "word": "郑乃馨改名",
@@ -371,14 +379,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1289518,
-      "num": 245038,
-      "word": "卢昱晓机场被人敲头",
-      "onboard_time": 1753272743,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1282197,
       "num": 1148180,
       "word": "新人办结婚证却领到离婚证",
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1143628,
+      "num": 1108860,
+      "word": "张碧晨年轮原唱被取消",
+      "onboard_time": 1753267701,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1131326,
       "num": 292869,
       "word": "公职人员回应兼职下班送外卖",
@@ -481,14 +489,6 @@
       "onboard_time": 1753166720,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1108860,
-      "num": 1108860,
-      "word": "张碧晨年轮原唱被取消",
-      "onboard_time": 1753267701,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 1106445,
@@ -795,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 812755,
+      "num": 812755,
+      "word": "服务员当面倒入罐装可乐一杯卖50元",
+      "onboard_time": 1753272081,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804987,
       "num": 676532,
       "word": "天梭 虞书欣",
@@ -873,6 +881,14 @@
       "onboard_time": 1753243522,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 741776,
+      "num": 741776,
+      "word": "女子不知父亲去世3个姑姑分掉遗产",
+      "onboard_time": 1753272442,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 741720,
@@ -1035,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678331,
+      "num": 678331,
+      "word": "压垮19岁男孩的只是910元的车费吗",
+      "onboard_time": 1753267101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677582,
       "num": 677582,
       "word": "景甜工作室进高人了",
@@ -1048,14 +1072,6 @@
       "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
       "onboard_time": 1753116379,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 673320,
-      "num": 673320,
-      "word": "压垮19岁男孩的只是910元的车费吗",
-      "onboard_time": 1753267101,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1195,12 +1211,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 626269,
+      "num": 396562,
+      "word": "原来普通人一辈子的存款差不多是这样",
+      "onboard_time": 1753267762,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 617449,
       "num": 309108,
       "word": "导师您好不好意思",
       "onboard_time": 1753166541,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 614707,
+      "num": 395007,
+      "word": "Angelababy是仿妆博主的终点",
+      "onboard_time": 1753272262,
+      "rank": 14,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 614262,
@@ -1387,22 +1419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 567213,
-      "num": 567213,
-      "word": "服务员当面倒入罐装可乐一杯卖50元",
-      "onboard_time": 1753272081,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 567030,
-      "num": 567030,
-      "word": "女子不知父亲去世3个姑姑分掉遗产",
-      "onboard_time": 1753272442,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 566997,
       "num": 566997,
       "word": "以色列要出大事了",
@@ -1569,14 +1585,6 @@
       "onboard_time": 1753076240,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 532967,
-      "num": 320739,
-      "word": "原来普通人一辈子的存款差不多是这样",
-      "onboard_time": 1753267762,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 531187,
@@ -2043,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439872,
+      "num": 439872,
+      "word": "市监局回应上海和平饭店可乐卖50元",
+      "onboard_time": 1753274363,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439514,
       "num": 424742,
       "word": "肖战更名后首发博",
@@ -2060,7 +2076,7 @@
     },
     {
       "raw_hot": 436785,
-      "num": 251341,
+      "num": 336414,
       "word": "1岁娃吃鸡蛋羹得了败血症",
       "onboard_time": 1753268481,
       "rank": 23,
@@ -2081,6 +2097,14 @@
       "onboard_time": 1753153941,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 433322,
+      "num": 433322,
+      "word": "网红出轨粉丝意外产子不给抚养费",
+      "onboard_time": 1753274723,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 433115,
@@ -2291,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399240,
+      "num": 399240,
+      "word": "汪峰 服死了",
+      "onboard_time": 1753275683,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398585,
       "num": 398585,
       "word": "23岁研一男生抗癌4个月后离世",
@@ -2323,20 +2355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394922,
+      "num": 394922,
+      "word": "张元英疑似回应被臭到捂鼻",
+      "onboard_time": 1753265062,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394394,
       "num": 394394,
       "word": "外卖大战被叫停后仍有免费饮料",
       "onboard_time": 1752942502,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392802,
-      "num": 320184,
-      "word": "张元英疑似回应被臭到捂鼻",
-      "onboard_time": 1753265062,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 389609,
@@ -2353,14 +2385,6 @@
       "onboard_time": 1753081642,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 388950,
-      "num": 229128,
-      "word": "Angelababy是仿妆博主的终点",
-      "onboard_time": 1753272262,
-      "rank": 14,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 388787,
@@ -2451,6 +2475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 376231,
+      "num": 376231,
+      "word": "李兰迪敖瑞鹏破万拍立得",
+      "onboard_time": 1753270761,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374729,
       "num": 374729,
       "word": "重庆姐弟坠亡案涉事房产拍卖",
@@ -2513,14 +2545,6 @@
       "onboard_time": 1753076062,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 363143,
-      "num": 225408,
-      "word": "李兰迪敖瑞鹏破万拍立得",
-      "onboard_time": 1753270761,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 361395,
@@ -3083,6 +3107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298423,
+      "num": 322480,
+      "word": "抗日英烈在狱中为儿子起名抗生",
+      "onboard_time": 1753270101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297935,
       "num": 211447,
       "word": "心动的信号",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1753158563,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289037,
+      "num": 289037,
+      "word": "虞书欣给颖儿送了wakuku",
+      "onboard_time": 1753273102,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 287896,
@@ -3379,14 +3419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270545,
-      "num": 322480,
-      "word": "抗日英烈在狱中为儿子起名抗生",
-      "onboard_time": 1753270101,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269947,
       "num": 269947,
       "word": "乳酸菌美式",
@@ -3443,6 +3475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 264974,
+      "num": 264974,
+      "word": "网友自曝麦当劳兼职偷吃被开除",
+      "onboard_time": 1753274663,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264423,
       "num": 264423,
       "word": "不要修16岁拍的照片",
@@ -3473,6 +3513,14 @@
       "onboard_time": 1753140619,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260300,
+      "num": 260300,
+      "word": "两年了莲花楼还是让我意难平",
+      "onboard_time": 1753275082,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 259816,
@@ -4115,14 +4163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216278,
-      "num": 249355,
-      "word": "市监局回应上海和平饭店可乐卖50元",
-      "onboard_time": 1753274363,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215798,
       "num": 215798,
       "word": "MUJI无印良品称与無印良品无关联",
@@ -4707,6 +4747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196376,
+      "num": 196376,
+      "word": "邓佳鑫生日直播",
+      "onboard_time": 1753275563,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196358,
       "num": 196358,
       "word": "龚俊我真服了3.0版",
@@ -4721,14 +4769,6 @@
       "onboard_time": 1753096281,
       "rank": 31,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 196005,
-      "num": 196005,
-      "word": "虞书欣给颖儿送了wakuku",
-      "onboard_time": 1753273102,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 195831,
@@ -5041,6 +5081,14 @@
       "onboard_time": 1753012703,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187128,
+      "num": 187128,
+      "word": "敖子逸拉丁程鑫进内娱王者群",
+      "onboard_time": 1753276403,
+      "rank": 27,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 187074,
@@ -5531,20 +5579,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175645,
+      "num": 175645,
+      "word": "杨凯雯赵琦君婚纱照",
+      "onboard_time": 1753272921,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175504,
       "num": 175504,
       "word": "张彬彬现偶赛道",
       "onboard_time": 1753071203,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175459,
-      "num": 175459,
-      "word": "网红出轨粉丝意外产子不给抚养费",
-      "onboard_time": 1753274723,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175324,
@@ -5609,14 +5657,6 @@
       "onboard_time": 1753009641,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174121,
-      "num": 174121,
-      "word": "网友自曝麦当劳兼职偷吃被开除",
-      "onboard_time": 1753274663,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174073,
@@ -6691,6 +6731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151588,
+      "num": 151588,
+      "word": "狗狗疑被宠物店放烘干箱一小时烤死",
+      "onboard_time": 1753274001,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151509,
       "num": 151509,
       "word": "暴走团逼停救护车网友吵翻",
@@ -6963,14 +7011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147576,
-      "num": 147576,
-      "word": "狗狗疑被宠物店放烘干箱一小时烤死",
-      "onboard_time": 1753274001,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147505,
       "num": 147505,
       "word": "应采儿晒陈小春后台应援天团",
@@ -7161,6 +7201,14 @@
       "onboard_time": 1753160723,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144456,
+      "num": 399170,
+      "word": "确诊2659例记者探访收治医院",
+      "onboard_time": 1753274243,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144205,
@@ -7483,14 +7531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138976,
-      "num": 138976,
-      "word": "杨凯雯赵琦君婚纱照",
-      "onboard_time": 1753272921,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138883,
       "num": 138883,
       "word": "江西人吃黄皮东北人震惊",
@@ -7529,6 +7569,14 @@
       "onboard_time": 1753008682,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138618,
+      "num": 138618,
+      "word": "中古项链 镍中毒",
+      "onboard_time": 1753271483,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 138560,
@@ -8187,6 +8235,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 127487,
+      "num": 127487,
+      "word": "郑业成十年后再现李星云",
+      "onboard_time": 1753273583,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127405,
       "num": 127405,
       "word": "常州为应援苏超掏出恐龙家底",
@@ -8571,14 +8627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122102,
-      "num": 122102,
-      "word": "中古项链 镍中毒",
-      "onboard_time": 1753271483,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 121932,
       "num": 121932,
       "word": "一觉醒来冰公主去超自然摸金了",
@@ -8683,6 +8731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120415,
+      "num": 120415,
+      "word": "王源演唱会",
+      "onboard_time": 1753273401,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120302,
       "num": 120302,
       "word": "Gr对战TE",
@@ -8771,14 +8827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119384,
-      "num": 192967,
-      "word": "两年了莲花楼还是让我意难平",
-      "onboard_time": 1753275082,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119373,
       "num": 351834,
       "word": "于适直播",
@@ -8795,20 +8843,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119266,
+      "num": 119266,
+      "word": "喝咖啡的黄金时段",
+      "onboard_time": 1753272682,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119146,
       "num": 119146,
       "word": "在美国卖酱香饼网红回应被捕",
       "onboard_time": 1753016848,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119103,
-      "num": 119103,
-      "word": "确诊2659例记者探访收治医院",
-      "onboard_time": 1753274243,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119012,
@@ -8865,6 +8913,14 @@
       "onboard_time": 1753094722,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118454,
+      "num": 118454,
+      "word": "修复了7年没有举办B萌的bug",
+      "onboard_time": 1753276283,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 118411,
@@ -8945,14 +9001,6 @@
       "onboard_time": 1753238780,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117829,
-      "num": 117829,
-      "word": "喝咖啡的黄金时段",
-      "onboard_time": 1753272682,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117820,
@@ -9683,14 +9731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108264,
-      "num": 108264,
-      "word": "王源演唱会",
-      "onboard_time": 1753273401,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 108206,
       "num": 157453,
       "word": "脱口秀",
@@ -10145,14 +10185,6 @@
       "onboard_time": 1753070963,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101784,
-      "num": 108579,
-      "word": "郑业成十年后再现李星云",
-      "onboard_time": 1753273583,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 101656,
@@ -12793,6 +12825,14 @@
       "onboard_time": 1753263802,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20034,
+      "num": 120498,
+      "word": "日民众不认可特朗普关税政策",
+      "onboard_time": 1753276164,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19531,
