@@ -1,0 +1,410 @@
+{
+  "runTime": 1753270889966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883815,
+        "num": 1883815,
+        "word": "余杭自来水异味调查情况",
+        "onboard_time": 1753264402,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1774623,
+        "num": 1774623,
+        "word": "朝雪录破万",
+        "onboard_time": 1753268781,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46875,
+        "num": 1323196,
+        "word": "封关后去海南无需额外办证件",
+        "onboard_time": 1753245624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1108860,
+        "num": 1108860,
+        "word": "张碧晨年轮原唱被取消",
+        "onboard_time": 1753267701,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541317,
+        "num": 541317,
+        "word": "压垮19岁男孩的只是910元的车费吗",
+        "onboard_time": 1753267101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388876,
+        "num": 388876,
+        "word": "微信 后悔药",
+        "onboard_time": 1753241661,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 455455,
+        "num": 386937,
+        "word": "李兰迪敖瑞鹏破万共创",
+        "onboard_time": 1753270342,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333199,
+        "num": 333199,
+        "word": "自来水异味7人被严肃问责",
+        "onboard_time": 1753265422,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322765,
+        "num": 322765,
+        "word": "仅退款 AI图",
+        "onboard_time": 1753258882,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 270545,
+        "num": 322480,
+        "word": "抗日英烈在狱中为儿子起名抗生",
+        "onboard_time": 1753270101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1448508,
+        "num": 322327,
+        "word": "艺人张艺洋杀害16岁女友被枪决",
+        "onboard_time": 1753257982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298352,
+        "num": 321560,
+        "word": "余杭受影响用户7月份水费全免",
+        "onboard_time": 1753265843,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 510878,
+        "num": 321365,
+        "word": "旺仔小乔直播怒怼素人",
+        "onboard_time": 1753263024,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 442634,
+        "num": 320739,
+        "word": "原来普通人一辈子的存款差不多是这样",
+        "onboard_time": 1753267762,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337588,
+        "num": 320523,
+        "word": "丁程鑫金发",
+        "onboard_time": 1753266682,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320184,
+        "num": 320184,
+        "word": "张元英疑似回应被臭到捂鼻",
+        "onboard_time": 1753265062,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299752,
+        "num": 299752,
+        "word": "自提30个冰淇淋被蜜雪冰城店员阴阳",
+        "onboard_time": 1753252641,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251341,
+        "num": 251341,
+        "word": "1岁娃吃鸡蛋羹得了败血症",
+        "onboard_time": 1753268481,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208793,
+        "num": 208793,
+        "word": "李兰迪敖瑞鹏破万拍立得",
+        "onboard_time": 1753270761,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201812,
+        "num": 201812,
+        "word": "展丞闪耀泰兰德",
+        "onboard_time": 1753262183,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637520,
+        "num": 199096,
+        "word": "迪丽热巴扫腿舞",
+        "onboard_time": 1753262183,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405936,
+        "num": 193598,
+        "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
+        "onboard_time": 1753259124,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245985,
+        "num": 193409,
+        "word": "刘晓艳 预言家",
+        "onboard_time": 1753265062,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187362,
+        "num": 187362,
+        "word": "糖尿病 烂苹果味",
+        "onboard_time": 1753257263,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179691,
+        "num": 179691,
+        "word": "浙江开始整治PPT",
+        "onboard_time": 1753263621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166683,
+        "num": 166683,
+        "word": "凡人修仙传把杨洋拍成壁纸了",
+        "onboard_time": 1753268301,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166631,
+        "num": 166631,
+        "word": "外卖0元购首批受害者出现了",
+        "onboard_time": 1753266202,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143160,
+        "num": 156545,
+        "word": "张予曦吻戏还不忘翘二郎腿",
+        "onboard_time": 1753268662,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152602,
+        "num": 152602,
+        "word": "日本网民大呼完了",
+        "onboard_time": 1753260682,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150898,
+        "num": 150898,
+        "word": "Jennie舞台态度",
+        "onboard_time": 1753264823,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143298,
+        "num": 143298,
+        "word": "曝旺仔小乔妈妈挪用公款",
+        "onboard_time": 1753265362,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136720,
+        "num": 136720,
+        "word": "李一桐刘宇宁书卷一梦庆功宴",
+        "onboard_time": 1753266143,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136076,
+        "num": 136076,
+        "word": "张博恒打卡在逃运动员",
+        "onboard_time": 1753269681,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135891,
+        "num": 135891,
+        "word": "规培护士自杀事件背后",
+        "onboard_time": 1753264942,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130539,
+        "num": 130539,
+        "word": "董璇女儿佟丽娅儿子同台表演",
+        "onboard_time": 1753262841,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127656,
+        "num": 127656,
+        "word": "敖瑞鹏谢谢喜欢燕迟",
+        "onboard_time": 1753269382,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125373,
+        "num": 125373,
+        "word": "姐姐当家定档",
+        "onboard_time": 1753270462,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124859,
+        "num": 124859,
+        "word": "时代少年团热血训练也要认真吃饭",
+        "onboard_time": 1753269982,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121932,
+        "num": 121932,
+        "word": "一觉醒来冰公主去超自然摸金了",
+        "onboard_time": 1753270161,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120792,
+        "num": 120792,
+        "word": "山河四省开始抄河北文旅作业了",
+        "onboard_time": 1753267820,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116899,
+        "num": 116899,
+        "word": "孙燕姿723生日快乐",
+        "onboard_time": 1753269081,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113448,
+        "num": 113448,
+        "word": "印度恢复向中国公民发放旅游签证",
+        "onboard_time": 1753252460,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106934,
+        "num": 106934,
+        "word": "律师解读旺仔小乔演唱会不露脸",
+        "onboard_time": 1753259003,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105647,
+        "num": 106853,
+        "word": "莲花楼",
+        "onboard_time": 1753243882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106836,
+        "num": 106836,
+        "word": "烽火家书",
+        "onboard_time": 1753270824,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105948,
+        "num": 105948,
+        "word": "退机票被扣1700女子觉得没人情味",
+        "onboard_time": 1753260262,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103147,
+        "num": 103147,
+        "word": "李栋旭老了好多",
+        "onboard_time": 1753255402,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99949,
+        "num": 99949,
+        "word": "韩庚在火把节当站哥",
+        "onboard_time": 1753269561,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99811,
+        "num": 99811,
+        "word": "智能眼镜 偷拍",
+        "onboard_time": 1753270402,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99011,
+        "num": 99011,
+        "word": "您好能不能把音量调低一点",
+        "onboard_time": 1753270462,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切着眼于便民利民安民#"
+    }
+  }
+}

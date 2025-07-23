@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753269936549,
+  "endTime": 1753270889966,
   "band_list": [
     {
       "raw_hot": 3019867,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1774623,
+      "num": 1774623,
+      "word": "朝雪录破万",
+      "onboard_time": 1753268781,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1341089,
       "num": 1023341,
       "word": "水果 脂肪肝",
@@ -57,14 +65,6 @@
       "onboard_time": 1753253901,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1309824,
-      "num": 1309824,
-      "word": "朝雪录破万",
-      "onboard_time": 1753268781,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1297658,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1108860,
+      "num": 1108860,
+      "word": "张碧晨年轮原唱被取消",
+      "onboard_time": 1753267701,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1093603,
       "num": 1060916,
       "word": "疆域阿力木塌房",
@@ -113,14 +121,6 @@
       "onboard_time": 1753236621,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 937341,
-      "num": 937341,
-      "word": "张碧晨年轮原唱被取消",
-      "onboard_time": 1753267701,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 937240,
@@ -323,6 +323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 541317,
+      "num": 541317,
+      "word": "压垮19岁男孩的只是910元的车费吗",
+      "onboard_time": 1753267101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 535905,
       "num": 535905,
       "word": "日媒称首相石破茂将辞职",
@@ -379,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455455,
+      "num": 386937,
+      "word": "李兰迪敖瑞鹏破万共创",
+      "onboard_time": 1753270342,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449187,
       "num": 449187,
       "word": "遂宁纪委回应公职人员兼职送外卖",
       "onboard_time": 1753247781,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 442634,
+      "num": 320739,
+      "word": "原来普通人一辈子的存款差不多是这样",
+      "onboard_time": 1753267762,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 436035,
@@ -491,14 +515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 359265,
-      "num": 297509,
-      "word": "原来普通人一辈子的存款差不多是这样",
-      "onboard_time": 1753267762,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 356639,
       "num": 356639,
       "word": "朝雪录吻戏被删",
@@ -532,10 +548,18 @@
     },
     {
       "raw_hot": 338477,
-      "num": 292777,
+      "num": 320184,
       "word": "张元英疑似回应被臭到捂鼻",
       "onboard_time": 1753265062,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337588,
+      "num": 320523,
+      "word": "丁程鑫金发",
+      "onboard_time": 1753266682,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -576,14 +600,6 @@
       "word": "赵美延问中国最火美女是谁",
       "onboard_time": 1753185442,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 327974,
-      "num": 291778,
-      "word": "丁程鑫金发",
-      "onboard_time": 1753266682,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 308054,
-      "num": 310425,
+      "num": 321560,
       "word": "余杭受影响用户7月份水费全免",
       "onboard_time": 1753265843,
       "rank": 9,
@@ -723,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270545,
+      "num": 322480,
+      "word": "抗日英烈在狱中为儿子起名抗生",
+      "onboard_time": 1753270101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263590,
       "num": 263590,
       "word": "杨幂演技",
@@ -752,6 +776,14 @@
       "word": "浙江开始整治PPT",
       "onboard_time": 1753263621,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251341,
+      "num": 251341,
+      "word": "1岁娃吃鸡蛋羹得了败血症",
+      "onboard_time": 1753268481,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -795,28 +827,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 233409,
-      "num": 188083,
-      "word": "1岁娃吃鸡蛋羹得了败血症",
-      "onboard_time": 1753268481,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228834,
       "num": 228834,
       "word": "沈佳润星二代的不公平感",
       "onboard_time": 1753256001,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227365,
-      "num": 307115,
-      "word": "压垮19岁男孩的只是910元的车费吗",
-      "onboard_time": 1753267101,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220220,
@@ -913,6 +929,14 @@
       "onboard_time": 1753236560,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208793,
+      "num": 208793,
+      "word": "李兰迪敖瑞鹏破万拍立得",
+      "onboard_time": 1753270761,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 208725,
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166683,
+      "num": 182282,
+      "word": "凡人修仙传把杨洋拍成壁纸了",
+      "onboard_time": 1753268301,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166109,
       "num": 166109,
       "word": "男子让女儿跪超市门口扇巴掌",
@@ -1307,14 +1339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156094,
-      "num": 182282,
-      "word": "凡人修仙传把杨洋拍成壁纸了",
-      "onboard_time": 1753268301,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155775,
       "num": 155775,
       "word": "一天省5块相当于银行存了十几万",
@@ -1324,7 +1348,7 @@
     },
     {
       "raw_hot": 154704,
-      "num": 940306,
+      "num": 1323196,
       "word": "封关后去海南无需额外办证件",
       "onboard_time": 1753245624,
       "rank": 9,
@@ -1707,6 +1731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125373,
+      "num": 125373,
+      "word": "姐姐当家定档",
+      "onboard_time": 1753270462,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124859,
+      "num": 124859,
+      "word": "时代少年团热血训练也要认真吃饭",
+      "onboard_time": 1753269982,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124600,
       "num": 124600,
       "word": "山姆 转基因",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1753258282,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121932,
+      "num": 121932,
+      "word": "一觉醒来冰公主去超自然摸金了",
+      "onboard_time": 1753270161,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 121177,
@@ -1915,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106836,
+      "num": 106836,
+      "word": "烽火家书",
+      "onboard_time": 1753270824,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106778,
       "num": 130358,
       "word": "佛山四区基孔肯雅热升至2658例",
@@ -1993,6 +2049,22 @@
       "onboard_time": 1753248922,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99811,
+      "num": 99811,
+      "word": "智能眼镜 偷拍",
+      "onboard_time": 1753270402,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 99011,
+      "num": 99011,
+      "word": "您好能不能把音量调低一点",
+      "onboard_time": 1753270462,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98142,
