@@ -1,0 +1,410 @@
+{
+  "runTime": 1753263282969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091533,
+        "num": 1174645,
+        "word": "自提30个冰淇淋被蜜雪冰城店员阴阳",
+        "onboard_time": 1753252641,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575453,
+        "num": 575453,
+        "word": "微信 后悔药",
+        "onboard_time": 1753241661,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67937,
+        "num": 556331,
+        "word": "封关后去海南无需额外办证件",
+        "onboard_time": 1753245624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 868937,
+        "num": 555174,
+        "word": "仅退款 AI图",
+        "onboard_time": 1753258882,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 551482,
+        "num": 551482,
+        "word": "糖尿病 烂苹果味",
+        "onboard_time": 1753257263,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 508176,
+        "num": 508176,
+        "word": "妈妈否认七七接商演2小时酬劳8000元",
+        "onboard_time": 1753256061,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484279,
+        "num": 484279,
+        "word": "日本网民大呼完了",
+        "onboard_time": 1753260682,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407482,
+        "num": 407482,
+        "word": "莲花楼",
+        "onboard_time": 1753243882,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375703,
+        "num": 375703,
+        "word": "迪丽热巴扫腿舞",
+        "onboard_time": 1753262183,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219143,
+        "num": 364164,
+        "word": "我国是世界公认最安全国家之一",
+        "onboard_time": 1753257143,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2949723,
+        "num": 362969,
+        "word": "艺人张艺洋杀害16岁女友被枪决",
+        "onboard_time": 1753257982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 871494,
+        "num": 361826,
+        "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
+        "onboard_time": 1753259124,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360150,
+        "num": 360150,
+        "word": "展丞闪耀泰兰德",
+        "onboard_time": 1753262183,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332637,
+        "num": 332637,
+        "word": "毕雯珺颜值",
+        "onboard_time": 1753257742,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300067,
+        "num": 300067,
+        "word": "卫健公安联合调查4岁男童拔牙死亡",
+        "onboard_time": 1753261283,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 260482,
+        "num": 260482,
+        "word": "Uzi得二胎",
+        "onboard_time": 1753259182,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242979,
+        "num": 242979,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1753259783,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206094,
+        "num": 206094,
+        "word": "重庆姐弟坠亡案涉事房产拍卖",
+        "onboard_time": 1753255760,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200031,
+        "num": 200031,
+        "word": "疆域阿力木塌房",
+        "onboard_time": 1753251022,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 198471,
+        "num": 198471,
+        "word": "白敬亭抱范丞丞",
+        "onboard_time": 1753259721,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554722,
+        "num": 197372,
+        "word": "李栋旭老了好多",
+        "onboard_time": 1753255402,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308469,
+        "num": 195496,
+        "word": "吴姗儒向刘宇宁道歉",
+        "onboard_time": 1753251981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188003,
+        "num": 188003,
+        "word": "退机票被扣1700女子觉得没人情味",
+        "onboard_time": 1753260262,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167770,
+        "num": 167770,
+        "word": "TXT回归直播",
+        "onboard_time": 1753262003,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166788,
+        "num": 166788,
+        "word": "王楚然刚来密逃就玩这么大",
+        "onboard_time": 1753260323,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162085,
+        "num": 162085,
+        "word": "七七母亲被指吃相难看",
+        "onboard_time": 1753254501,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160275,
+        "num": 160275,
+        "word": "旺仔小乔直播怒怼素人",
+        "onboard_time": 1753263024,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158599,
+        "num": 158599,
+        "word": "男子让女儿跪超市门口扇巴掌",
+        "onboard_time": 1753259423,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157822,
+        "num": 157822,
+        "word": "当暑假工发了工资",
+        "onboard_time": 1753261883,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31334,
+        "num": 157474,
+        "word": "官方回应喜报称高分学生拒报清北",
+        "onboard_time": 1753263144,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946559,
+        "num": 157186,
+        "word": "月薪一万二双休和一万八单休怎么选",
+        "onboard_time": 1753253901,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35374,
+        "num": 156637,
+        "word": "41名农民因养老金起诉乌市政府",
+        "onboard_time": 1753263144,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219709,
+        "num": 156434,
+        "word": "董璇女儿佟丽娅儿子同台表演",
+        "onboard_time": 1753262841,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156061,
+        "num": 156061,
+        "word": "印度恢复向中国公民发放旅游签证",
+        "onboard_time": 1753252460,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152067,
+        "num": 152067,
+        "word": "沈佳润星二代的不公平感",
+        "onboard_time": 1753256001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150721,
+        "num": 150721,
+        "word": "新疆 减肥圣地",
+        "onboard_time": 1753257922,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150633,
+        "num": 150633,
+        "word": "大张伟想带杨幂来脱友2",
+        "onboard_time": 1753262963,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148304,
+        "num": 148304,
+        "word": "赵露思ELLE销量",
+        "onboard_time": 1753261163,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 45346,
+        "num": 147544,
+        "word": "土拨鼠把我的大疆相机叼洞里了",
+        "onboard_time": 1753262662,
+        "rank": 38,
+        "category": "幽默,数码"
+      },
+      {
+        "raw_hot": 149562,
+        "num": 147542,
+        "word": "于正拒签爆火七七为何炸锅",
+        "onboard_time": 1753245682,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28141,
+        "num": 147506,
+        "word": "张震岳带新歌开YU7去露营",
+        "onboard_time": 1753263202,
+        "rank": 40,
+        "category": "音乐,汽车"
+      },
+      {
+        "raw_hot": 147489,
+        "num": 147489,
+        "word": "奚梦瑶何猷君为赌王外孙女庆生",
+        "onboard_time": 1753252521,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139462,
+        "num": 139462,
+        "word": "20岁女模拒绝发生关系被从高处扔下",
+        "onboard_time": 1753232241,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135689,
+        "num": 135689,
+        "word": "蔡依林称自己单身",
+        "onboard_time": 1753260503,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70085,
+        "num": 133350,
+        "word": "老铺黄金店员招聘要求堪比空乘",
+        "onboard_time": 1753263081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132146,
+        "num": 132146,
+        "word": "全市下跌个股近3900只",
+        "onboard_time": 1753263024,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131654,
+        "num": 131654,
+        "word": "MUJI无印良品称与無印良品无关联",
+        "onboard_time": 1753262963,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39025,
+        "num": 126663,
+        "word": "公职人员送外卖也是在为人民服务",
+        "onboard_time": 1753261343,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122037,
+        "num": 122037,
+        "word": "内娱长红明星",
+        "onboard_time": 1753255824,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120776,
+        "num": 120776,
+        "word": "高质量完成十四五规划",
+        "onboard_time": 1753257201,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切着眼于便民利民安民#"
+    }
+  }
+}

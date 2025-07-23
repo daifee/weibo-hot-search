@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753260799294,
+  "endTime": 1753263282969,
   "band_list": [
     {
       "raw_hot": 3019867,
@@ -115,6 +115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 871494,
+      "num": 458680,
+      "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
+      "onboard_time": 1753259124,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 868937,
+      "num": 650237,
+      "word": "仅退款 AI图",
+      "onboard_time": 1753258882,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 748814,
       "num": 748814,
       "word": "旅游三千块钱定律",
@@ -169,22 +185,6 @@
       "onboard_time": 1753197742,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 650237,
-      "num": 650237,
-      "word": "仅退款 AI图",
-      "onboard_time": 1753258882,
-      "rank": 14,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 616544,
-      "num": 458680,
-      "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
-      "onboard_time": 1753259124,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 607814,
@@ -283,12 +283,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 508176,
+      "num": 508176,
+      "word": "妈妈否认七七接商演2小时酬劳8000元",
+      "onboard_time": 1753256061,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 507902,
       "num": 841568,
       "word": "海南自由贸易港封关12月18日启动",
       "onboard_time": 1753238000,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484279,
+      "num": 484279,
+      "word": "日本网民大呼完了",
+      "onboard_time": 1753260682,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 459288,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375703,
+      "num": 375703,
+      "word": "迪丽热巴扫腿舞",
+      "onboard_time": 1753262183,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374729,
       "num": 374729,
       "word": "重庆姐弟坠亡案涉事房产拍卖",
@@ -393,6 +417,14 @@
       "onboard_time": 1753252460,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 360150,
+      "num": 360150,
+      "word": "展丞闪耀泰兰德",
+      "onboard_time": 1753262183,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 356639,
@@ -441,6 +473,14 @@
       "onboard_time": 1753228759,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 332637,
+      "num": 418125,
+      "word": "毕雯珺颜值",
+      "onboard_time": 1753257742,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 332424,
@@ -515,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300067,
+      "num": 300067,
+      "word": "卫健公安联合调查4岁男童拔牙死亡",
+      "onboard_time": 1753261283,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 297115,
       "num": 297115,
       "word": "微博文化交流之夜",
@@ -537,14 +585,6 @@
       "onboard_time": 1753234880,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 289331,
-      "num": 289331,
-      "word": "妈妈否认七七接商演2小时酬劳8000元",
-      "onboard_time": 1753256061,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285488,
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 255738,
-      "num": 255738,
+      "num": 364164,
       "word": "我国是世界公认最安全国家之一",
       "onboard_time": 1753257143,
       "rank": 24,
@@ -649,6 +689,14 @@
       "onboard_time": 1753236200,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219709,
+      "num": 156434,
+      "word": "董璇女儿佟丽娅儿子同台表演",
+      "onboard_time": 1753262841,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 218319,
@@ -811,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188003,
+      "num": 188003,
+      "word": "退机票被扣1700女子觉得没人情味",
+      "onboard_time": 1753260262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187027,
       "num": 187027,
       "word": "第7号台风范斯高或将生成",
@@ -939,14 +995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 174144,
-      "num": 418125,
-      "word": "毕雯珺颜值",
-      "onboard_time": 1753257742,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173563,
       "num": 173563,
       "word": "无限暖暖国风",
@@ -977,6 +1025,22 @@
       "onboard_time": 1753256122,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 167770,
+      "num": 167770,
+      "word": "TXT回归直播",
+      "onboard_time": 1753262003,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166788,
+      "num": 166788,
+      "word": "王楚然刚来密逃就玩这么大",
+      "onboard_time": 1753260323,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 164209,
@@ -1019,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160275,
+      "num": 160275,
+      "word": "旺仔小乔直播怒怼素人",
+      "onboard_time": 1753263024,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 158625,
       "num": 158625,
       "word": "黄圣依教育儿子不要用讨好赢得友谊",
@@ -1027,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158599,
+      "num": 158599,
+      "word": "男子让女儿跪超市门口扇巴掌",
+      "onboard_time": 1753259423,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158050,
       "num": 158050,
       "word": "我国渔民打捞到了间谍窃密装置",
       "onboard_time": 1753228879,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157822,
+      "num": 157822,
+      "word": "当暑假工发了工资",
+      "onboard_time": 1753261883,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 157054,
@@ -1083,6 +1171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150633,
+      "num": 150633,
+      "word": "大张伟想带杨幂来脱友2",
+      "onboard_time": 1753262963,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149740,
       "num": 149740,
       "word": "女子将婴儿放在斑马线上爬行",
@@ -1091,12 +1187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149582,
-      "num": 149582,
-      "word": "王楚然刚来密逃就玩这么大",
-      "onboard_time": 1753260323,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 148304,
+      "num": 148304,
+      "word": "赵露思ELLE销量",
+      "onboard_time": 1753261163,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 147999,
@@ -1203,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135689,
+      "num": 135689,
+      "word": "蔡依林称自己单身",
+      "onboard_time": 1753260503,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134714,
       "num": 194793,
       "word": "赛里木湖景区对公厕问题道歉",
@@ -1243,12 +1347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132146,
+      "num": 132146,
+      "word": "全市下跌个股近3900只",
+      "onboard_time": 1753263024,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132020,
       "num": 132020,
       "word": "英国一双层公交撞桥被削顶",
       "onboard_time": 1753204697,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131654,
+      "num": 131654,
+      "word": "MUJI无印良品称与無印良品无关联",
+      "onboard_time": 1753262963,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131104,
@@ -1331,22 +1451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125097,
-      "num": 148402,
-      "word": "退机票被扣1700女子觉得没人情味",
-      "onboard_time": 1753260262,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124683,
-      "num": 124683,
-      "word": "蔡依林称自己单身",
-      "onboard_time": 1753260503,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124600,
       "num": 124600,
       "word": "山姆 转基因",
@@ -1377,14 +1481,6 @@
       "onboard_time": 1753238000,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120487,
-      "num": 120487,
-      "word": "日本网民大呼完了",
-      "onboard_time": 1753260682,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 120239,
@@ -1433,14 +1529,6 @@
       "onboard_time": 1753238780,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117897,
-      "num": 117897,
-      "word": "男子让女儿跪超市门口扇巴掌",
-      "onboard_time": 1753259423,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116017,
@@ -1795,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70085,
+      "num": 133350,
+      "word": "老铺黄金店员招聘要求堪比空乘",
+      "onboard_time": 1753263081,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69361,
       "num": 69361,
       "word": "医院回应4岁男童全麻拔乳牙身亡",
@@ -1971,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45346,
+      "num": 147544,
+      "word": "土拨鼠把我的大疆相机叼洞里了",
+      "onboard_time": 1753262662,
+      "rank": 38,
+      "category": "幽默,数码"
+    },
+    {
       "raw_hot": 42794,
       "num": 489579,
       "word": "多个印度空难遇难者遗体被送错",
@@ -1985,6 +2089,14 @@
       "onboard_time": 1753252942,
       "rank": 40,
       "category": "数码,休闲"
+    },
+    {
+      "raw_hot": 39025,
+      "num": 126663,
+      "word": "公职人员送外卖也是在为人民服务",
+      "onboard_time": 1753261343,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38651,
@@ -2019,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35374,
+      "num": 156637,
+      "word": "41名农民因养老金起诉乌市政府",
+      "onboard_time": 1753263144,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35357,
       "num": 991160,
       "word": "恭王府与中国时尚文化",
@@ -2041,6 +2161,22 @@
       "onboard_time": 1753203318,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31334,
+      "num": 157474,
+      "word": "官方回应喜报称高分学生拒报清北",
+      "onboard_time": 1753263144,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28141,
+      "num": 147506,
+      "word": "张震岳带新歌开YU7去露营",
+      "onboard_time": 1753263202,
+      "rank": 40,
+      "category": "音乐,汽车"
     },
     {
       "raw_hot": 27143,
