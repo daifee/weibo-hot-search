@@ -1,0 +1,410 @@
+{
+  "runTime": 1753249943031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2026681,
+        "num": 2026681,
+        "word": "微信 后悔药",
+        "onboard_time": 1753241661,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1247184,
+        "num": 1247184,
+        "word": "于正拒签爆火七七为何炸锅",
+        "onboard_time": 1753245682,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55154,
+        "num": 802476,
+        "word": "三伏天煮这种水补阳祛湿",
+        "onboard_time": 1753227439,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716242,
+        "num": 716242,
+        "word": "莲花楼",
+        "onboard_time": 1753243882,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 631019,
+        "num": 631019,
+        "word": "旅游三千块钱定律",
+        "onboard_time": 1753243522,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 426066,
+        "num": 614149,
+        "word": "当985大学教授沉迷短剧",
+        "onboard_time": 1753243882,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599187,
+        "num": 599187,
+        "word": "大鹏本想让李雪琴演杨贵妃",
+        "onboard_time": 1753246582,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518441,
+        "num": 518441,
+        "word": "原来长胖55斤的面相变化这么大",
+        "onboard_time": 1753243522,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436539,
+        "num": 436539,
+        "word": "建议存款不要告诉任何人",
+        "onboard_time": 1753236621,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52712,
+        "num": 428986,
+        "word": "两男子造谣昆明驾车撞人案被刑拘",
+        "onboard_time": 1753248742,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423413,
+        "num": 423413,
+        "word": "水果 脂肪肝",
+        "onboard_time": 1753236080,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 391825,
+        "num": 391825,
+        "word": "遂宁纪委回应公职人员兼职送外卖",
+        "onboard_time": 1753247781,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 358168,
+        "num": 358168,
+        "word": "微信 对讲机",
+        "onboard_time": 1753231822,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 335647,
+        "num": 335647,
+        "word": "咖啡 护肝",
+        "onboard_time": 1753244844,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304053,
+        "num": 304053,
+        "word": "素人变艺人需慎之又慎",
+        "onboard_time": 1753233020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297072,
+        "num": 297072,
+        "word": "敖瑞鹏说入圈后幸福感降低",
+        "onboard_time": 1753242922,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296849,
+        "num": 296849,
+        "word": "朴彩英跳错",
+        "onboard_time": 1753243041,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85192,
+        "num": 267051,
+        "word": "这次明星buff算是叠满了",
+        "onboard_time": 1753249283,
+        "rank": 17,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 256580,
+        "num": 256580,
+        "word": "女子辅助生殖手术失败九次未要到孩子",
+        "onboard_time": 1753247422,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38418,
+        "num": 250877,
+        "word": "四岁男童拔乳牙身亡疑问重重",
+        "onboard_time": 1753248682,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 363852,
+        "num": 250334,
+        "word": "20岁女模拒绝发生关系被从高处扔下",
+        "onboard_time": 1753232241,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249752,
+        "num": 249752,
+        "word": "才知道女性胸贴没有统一标准",
+        "onboard_time": 1753248441,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223573,
+        "num": 223573,
+        "word": "杨幂演技",
+        "onboard_time": 1753245381,
+        "rank": 22,
+        "category": "作品衍生,电影"
+      },
+      {
+        "raw_hot": 214729,
+        "num": 214729,
+        "word": "G7350高铁商务座有大量灰尘卫生脏乱",
+        "onboard_time": 1753248322,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211045,
+        "num": 211045,
+        "word": "伊能静三伏天瘦身法",
+        "onboard_time": 1753246222,
+        "rank": 24,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 202987,
+        "num": 202987,
+        "word": "凡人修仙传定档",
+        "onboard_time": 1753241361,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196274,
+        "num": 196274,
+        "word": "你好 我是练习生汪硕",
+        "onboard_time": 1753245742,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189410,
+        "num": 189410,
+        "word": "樱桃琥珀香港篇要来了",
+        "onboard_time": 1753248742,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175967,
+        "num": 184355,
+        "word": "海南自由贸易港封关12月18日启动",
+        "onboard_time": 1753238000,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182149,
+        "num": 182149,
+        "word": "恭喜这位女士终于脱下高跟鞋",
+        "onboard_time": 1753248561,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186128,
+        "num": 180598,
+        "word": "溜肩和直角肩的区别",
+        "onboard_time": 1753248201,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178592,
+        "num": 178592,
+        "word": "宋亚轩缺席现在就出发3录制",
+        "onboard_time": 1753248022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172181,
+        "num": 172181,
+        "word": "日媒称首相石破茂将辞职",
+        "onboard_time": 1753238841,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170573,
+        "num": 170573,
+        "word": "卫健委回应4岁男童全麻拔乳牙身亡",
+        "onboard_time": 1753248441,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 166761,
+        "num": 166761,
+        "word": "彩椒碗",
+        "onboard_time": 1753243582,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161784,
+        "num": 161784,
+        "word": "云南哀牢山现绝美丁达尔效应",
+        "onboard_time": 1753246883,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146415,
+        "num": 146415,
+        "word": "赵小棠凡人修仙传领衔主演",
+        "onboard_time": 1753248382,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141206,
+        "num": 141206,
+        "word": "乔任梁出道18周年父亲身穿粉色扫墓",
+        "onboard_time": 1753238902,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139287,
+        "num": 139287,
+        "word": "王楚钦说基本屏蔽了所有社交软件",
+        "onboard_time": 1753244962,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133945,
+        "num": 133945,
+        "word": "汪峰一家与森林北一家同游日本",
+        "onboard_time": 1753234399,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128021,
+        "num": 128021,
+        "word": "我国平均每人每年吃近100斤西瓜",
+        "onboard_time": 1753230681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118568,
+        "num": 118568,
+        "word": "442斤小伙一年减了220斤",
+        "onboard_time": 1753249161,
+        "rank": 41,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 110804,
+        "num": 110804,
+        "word": "窦靖童心虚不敢看杨超越",
+        "onboard_time": 1753247300,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109354,
+        "num": 109354,
+        "word": "四川一公职人员下班送外卖日挣百元",
+        "onboard_time": 1753249880,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109164,
+        "num": 109164,
+        "word": "泡脚 祛湿",
+        "onboard_time": 1753246462,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105189,
+        "num": 105189,
+        "word": "杨瀚森无缘夏联最佳阵容",
+        "onboard_time": 1753245442,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103406,
+        "num": 103406,
+        "word": "易烊千玺电影狂野时代",
+        "onboard_time": 1753249880,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103332,
+        "num": 103332,
+        "word": "封关后去海南无需额外办证件",
+        "onboard_time": 1753245624,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101564,
+        "num": 101564,
+        "word": "当我知道所有人最后都会死",
+        "onboard_time": 1753249102,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101354,
+        "num": 101354,
+        "word": "张予曦毕雯珺合唱Summerholiday",
+        "onboard_time": 1753248922,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的大国城思#"
+    }
+  }
+}
