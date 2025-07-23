@@ -1,0 +1,410 @@
+{
+  "runTime": 1753266688686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 727274,
+        "num": 1116363,
+        "word": "余杭自来水异味调查情况",
+        "onboard_time": 1753264402,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 565388,
+        "num": 565388,
+        "word": "Jennie舞台态度",
+        "onboard_time": 1753264823,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62639,
+        "num": 510958,
+        "word": "封关后去海南无需额外办证件",
+        "onboard_time": 1753245624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819958,
+        "num": 501990,
+        "word": "自提30个冰淇淋被蜜雪冰城店员阴阳",
+        "onboard_time": 1753252641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470659,
+        "num": 470659,
+        "word": "日本网民大呼完了",
+        "onboard_time": 1753260682,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456401,
+        "num": 456401,
+        "word": "仅退款 AI图",
+        "onboard_time": 1753258882,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 403745,
+        "num": 403745,
+        "word": "微信 后悔药",
+        "onboard_time": 1753241661,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 340137,
+        "num": 340137,
+        "word": "展丞闪耀泰兰德",
+        "onboard_time": 1753262183,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311268,
+        "num": 311268,
+        "word": "糖尿病 烂苹果味",
+        "onboard_time": 1753257263,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154749,
+        "num": 310425,
+        "word": "余杭受影响用户7月份水费全免",
+        "onboard_time": 1753265843,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1904862,
+        "num": 308256,
+        "word": "艺人张艺洋杀害16岁女友被枪决",
+        "onboard_time": 1753257982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1297658,
+        "num": 307004,
+        "word": "旺仔小乔直播怒怼素人",
+        "onboard_time": 1753263024,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 885340,
+        "num": 305170,
+        "word": "迪丽热巴扫腿舞",
+        "onboard_time": 1753262183,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581320,
+        "num": 303633,
+        "word": "退机票被扣1700女子觉得没人情味",
+        "onboard_time": 1753260262,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325352,
+        "num": 302168,
+        "word": "董璇女儿佟丽娅儿子同台表演",
+        "onboard_time": 1753262841,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301917,
+        "num": 301917,
+        "word": "莲花楼",
+        "onboard_time": 1753243882,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293600,
+        "num": 293600,
+        "word": "刘晓艳 预言家",
+        "onboard_time": 1753265062,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215798,
+        "num": 215798,
+        "word": "MUJI无印良品称与無印良品无关联",
+        "onboard_time": 1753262963,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202680,
+        "num": 211576,
+        "word": "李一桐刘宇宁书卷一梦庆功宴",
+        "onboard_time": 1753266143,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210927,
+        "num": 210927,
+        "word": "规培护士自杀事件背后",
+        "onboard_time": 1753264942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188621,
+        "num": 207169,
+        "word": "自来水异味7人被严肃问责",
+        "onboard_time": 1753265422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613329,
+        "num": 206606,
+        "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
+        "onboard_time": 1753259124,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336467,
+        "num": 206595,
+        "word": "李栋旭老了好多",
+        "onboard_time": 1753255402,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205907,
+        "num": 205907,
+        "word": "张元英疑似回应被臭到捂鼻",
+        "onboard_time": 1753265062,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161532,
+        "num": 205620,
+        "word": "孟子义素颜皮肤状态",
+        "onboard_time": 1753266382,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142177,
+        "num": 204519,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1753259783,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138560,
+        "num": 203895,
+        "word": "胡先煦再次代表年轻人与世界对话",
+        "onboard_time": 1753265482,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127328,
+        "num": 203249,
+        "word": "毕雯珺颜值",
+        "onboard_time": 1753257742,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125854,
+        "num": 202980,
+        "word": "律师解读旺仔小乔演唱会不露脸",
+        "onboard_time": 1753259003,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202381,
+        "num": 202381,
+        "word": "浙江开始整治PPT",
+        "onboard_time": 1753263621,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196675,
+        "num": 196675,
+        "word": "曝旺仔小乔妈妈挪用公款",
+        "onboard_time": 1753265362,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179262,
+        "num": 179262,
+        "word": "我国是世界公认最安全国家之一",
+        "onboard_time": 1753257143,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136504,
+        "num": 136504,
+        "word": "当暑假工发了工资",
+        "onboard_time": 1753261883,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132250,
+        "num": 132250,
+        "word": "泰奶",
+        "onboard_time": 1753263682,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132029,
+        "num": 132029,
+        "word": "印度恢复向中国公民发放旅游签证",
+        "onboard_time": 1753252460,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131614,
+        "num": 131614,
+        "word": "Uzi得二胎",
+        "onboard_time": 1753259182,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131136,
+        "num": 131136,
+        "word": "余杭自来水发黄因管壁锈层脱落",
+        "onboard_time": 1753265961,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 129776,
+        "num": 129776,
+        "word": "妈妈否认七七接商演2小时酬劳8000元",
+        "onboard_time": 1753256061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127833,
+        "num": 127833,
+        "word": "王者荣耀",
+        "onboard_time": 1753266441,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34998,
+        "num": 126549,
+        "word": "杨幂长红近20年",
+        "onboard_time": 1753266143,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125936,
+        "num": 125936,
+        "word": "卫健公安联合调查4岁男童拔牙死亡",
+        "onboard_time": 1753261283,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124930,
+        "num": 124930,
+        "word": "吴姗儒向刘宇宁道歉",
+        "onboard_time": 1753251981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115531,
+        "num": 115531,
+        "word": "重庆姐弟坠亡案涉事房产拍卖",
+        "onboard_time": 1753255760,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113918,
+        "num": 113918,
+        "word": "外卖0元购首批受害者出现了",
+        "onboard_time": 1753266202,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112267,
+        "num": 112267,
+        "word": "男子让女儿跪超市门口扇巴掌",
+        "onboard_time": 1753259423,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109942,
+        "num": 109942,
+        "word": "赵露思ELLE销量",
+        "onboard_time": 1753261163,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 107940,
+        "num": 107940,
+        "word": "白敬亭抱范丞丞",
+        "onboard_time": 1753259721,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102363,
+        "num": 102363,
+        "word": "疆域阿力木塌房",
+        "onboard_time": 1753251022,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 99899,
+        "num": 99899,
+        "word": "沈佳润星二代的不公平感",
+        "onboard_time": 1753256001,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98863,
+        "num": 98863,
+        "word": "减肥为什么减出脂肪肝",
+        "onboard_time": 1753264643,
+        "rank": 49,
+        "category": "健康医疗,运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切着眼于便民利民安民#"
+    }
+  }
+}

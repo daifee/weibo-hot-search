@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753264163564,
+  "endTime": 1753266688686,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -347,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1297658,
+      "num": 353659,
+      "word": "旺仔小乔直播怒怼素人",
+      "onboard_time": 1753263024,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1282197,
       "num": 1148180,
       "word": "新人办结婚证却领到离婚证",
@@ -651,6 +659,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 885340,
+      "num": 522475,
+      "word": "迪丽热巴扫腿舞",
+      "onboard_time": 1753262183,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 873958,
       "num": 364917,
       "word": "于正破防删评论",
@@ -889,6 +905,14 @@
       "onboard_time": 1753021705,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 727274,
+      "num": 1116363,
+      "word": "余杭自来水异味调查情况",
+      "onboard_time": 1753264402,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 725582,
@@ -1267,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 581320,
+      "num": 303633,
+      "word": "退机票被扣1700女子觉得没人情味",
+      "onboard_time": 1753260262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580506,
       "num": 415339,
       "word": "韩安冉宣布生完双胞胎封肚",
@@ -1347,20 +1379,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 565388,
+      "num": 565388,
+      "word": "Jennie舞台态度",
+      "onboard_time": 1753264823,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 565330,
       "num": 327438,
       "word": "疑似吴千语怀孕",
       "onboard_time": 1753170200,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 564888,
-      "num": 353659,
-      "word": "旺仔小乔直播怒怼素人",
-      "onboard_time": 1753263024,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 559939,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1752977481,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522475,
-      "num": 522475,
-      "word": "迪丽热巴扫腿舞",
-      "onboard_time": 1753262183,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 522184,
@@ -2707,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325352,
+      "num": 302168,
+      "word": "董璇女儿佟丽娅儿子同台表演",
+      "onboard_time": 1753262841,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324799,
       "num": 324799,
       "word": "TMEA阵容",
@@ -2987,6 +3019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293600,
+      "num": 293600,
+      "word": "刘晓艳 预言家",
+      "onboard_time": 1753265062,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 292978,
       "num": 292978,
       "word": "王俊凯拿了五杀",
@@ -3097,14 +3137,6 @@
       "onboard_time": 1753259182,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 284912,
-      "num": 284912,
-      "word": "董璇女儿佟丽娅儿子同台表演",
-      "onboard_time": 1753262841,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 284306,
@@ -3425,14 +3457,6 @@
       "onboard_time": 1753079604,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254505,
-      "num": 254505,
-      "word": "退机票被扣1700女子觉得没人情味",
-      "onboard_time": 1753260262,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253564,
@@ -3955,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215798,
+      "num": 215798,
+      "word": "MUJI无印良品称与無印良品无关联",
+      "onboard_time": 1753262963,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215717,
       "num": 995198,
       "word": "第一次从这个视角看高铁洗澡",
@@ -4107,6 +4139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 210927,
+      "num": 210927,
+      "word": "规培护士自杀事件背后",
+      "onboard_time": 1753264942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210871,
       "num": 210871,
       "word": "A股",
@@ -4235,6 +4275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205907,
+      "num": 205907,
+      "word": "张元英疑似回应被臭到捂鼻",
+      "onboard_time": 1753265062,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205895,
       "num": 238876,
       "word": "赵露思ELLE杂志销量",
@@ -4321,6 +4369,22 @@
       "onboard_time": 1752989302,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202680,
+      "num": 211576,
+      "word": "李一桐刘宇宁书卷一梦庆功宴",
+      "onboard_time": 1753266143,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202381,
+      "num": 202381,
+      "word": "浙江开始整治PPT",
+      "onboard_time": 1753263621,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202239,
@@ -4505,6 +4569,14 @@
       "onboard_time": 1753070182,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196675,
+      "num": 196675,
+      "word": "曝旺仔小乔妈妈挪用公款",
+      "onboard_time": 1753265362,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 196449,
@@ -4785,6 +4857,14 @@
       "onboard_time": 1753185922,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188621,
+      "num": 207169,
+      "word": "自来水异味7人被严肃问责",
+      "onboard_time": 1753265422,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188441,
@@ -5939,6 +6019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161532,
+      "num": 205620,
+      "word": "孟子义素颜皮肤状态",
+      "onboard_time": 1753266382,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161442,
       "num": 161442,
       "word": "女方不喊老公男子希望退回彩礼",
@@ -6051,27 +6139,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159192,
-      "num": 159192,
-      "word": "浙江开始整治PPT",
-      "onboard_time": 1753263621,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158995,
       "num": 158995,
       "word": "门店回应灰指甲顾客拿试用指甲油涂脚",
       "onboard_time": 1753148421,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158875,
-      "num": 158875,
-      "word": "MUJI无印良品称与無印良品无关联",
-      "onboard_time": 1753262963,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -6273,6 +6345,14 @@
       "onboard_time": 1753022545,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154749,
+      "num": 310425,
+      "word": "余杭受影响用户7月份水费全免",
+      "onboard_time": 1753265843,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 154736,
@@ -7203,6 +7283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138560,
+      "num": 203895,
+      "word": "胡先煦再次代表年轻人与世界对话",
+      "onboard_time": 1753265482,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138378,
       "num": 376560,
       "word": "234名血铅异常患儿完成第一疗程出院",
@@ -7499,6 +7587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132250,
+      "num": 132250,
+      "word": "泰奶",
+      "onboard_time": 1753263682,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132146,
       "num": 132146,
       "word": "全市下跌个股近3900只",
@@ -7577,6 +7673,14 @@
       "onboard_time": 1753172601,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131136,
+      "num": 131136,
+      "word": "余杭自来水发黄因管壁锈层脱落",
+      "onboard_time": 1753265961,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 131104,
@@ -7755,14 +7859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128423,
-      "num": 128423,
-      "word": "泰奶",
-      "onboard_time": 1753263682,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128228,
       "num": 128228,
       "word": "乒超第二阶段推出包厢票",
@@ -7801,6 +7897,14 @@
       "onboard_time": 1753179201,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127833,
+      "num": 127833,
+      "word": "王者荣耀",
+      "onboard_time": 1753266441,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 127764,
@@ -7945,6 +8049,14 @@
       "onboard_time": 1753171821,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125854,
+      "num": 202980,
+      "word": "律师解读旺仔小乔演唱会不露脸",
+      "onboard_time": 1753259003,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 125600,
@@ -8185,14 +8297,6 @@
       "onboard_time": 1752997460,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121933,
-      "num": 121933,
-      "word": "律师解读旺仔小乔演唱会不露脸",
-      "onboard_time": 1753259003,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 121817,
@@ -8832,6 +8936,14 @@
       "word": "以后去海南可买更多免关税产品",
       "onboard_time": 1753246943,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113918,
+      "num": 113918,
+      "word": "外卖0元购首批受害者出现了",
+      "onboard_time": 1753266202,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -9801,6 +9913,14 @@
       "onboard_time": 1753079422,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 98863,
+      "num": 98863,
+      "word": "减肥为什么减出脂肪肝",
+      "onboard_time": 1753264643,
+      "rank": 49,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 98728,
@@ -11721,6 +11841,14 @@
       "onboard_time": 1753111883,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34998,
+      "num": 126549,
+      "word": "杨幂长红近20年",
+      "onboard_time": 1753266143,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 34790,
