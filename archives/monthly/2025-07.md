@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/24 06:45:55
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/24 07:28:14
 </p>
 </blockquote>
 <p>
@@ -4143,6 +4143,12 @@ twice回归（热度：792592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BC%81%E4%B8%9A%E5%8F%82%E8%A7%82%E6%BA%BA%E4%BA%A1%23" target="weibo">
+官方回应6名大学生企业参观溺亡（热度：783101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AEcos%E5%AD%99%E6%9D%83%23" target="weibo">
 丁禹兮cos孙权（热度：782632）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy巴黎时装周状态（热度：643550）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E8%BD%A6%E5%86%85%E6%AF%94%E8%BD%A6%E5%A4%96%E6%B8%A9%E5%BA%A6%E8%BF%98%E9%AB%98%23" target="weibo">
 12306回应高铁车内比车外温度还高（热度：628981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E7%A7%80%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%B0%94%E7%AC%AC%E4%BA%8C%E8%A2%AB%E6%B7%98%E6%B1%B0%23" target="weibo">
-选秀史上第一个人气第二被淘汰（热度：628550）
 </a>
 </li>
 
