@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753313294331,
+  "endTime": 1753314149617,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -8,6 +8,14 @@
       "word": "6名大学生在企业参观学习时溺亡",
       "onboard_time": 1753281086,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1167735,
+      "num": 869202,
+      "word": "官方回应6名大学生企业参观溺亡",
+      "onboard_time": 1753311859,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -27,14 +35,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 783101,
-      "num": 869202,
-      "word": "官方回应6名大学生企业参观溺亡",
-      "onboard_time": 1753311859,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 480962,
       "num": 806554,
       "word": "朝雪录破万",
@@ -51,11 +51,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351947,
-      "num": 351947,
+      "raw_hot": 427143,
+      "num": 916276,
       "word": "95后掏粪工上班开粪车下班开奔驰",
       "onboard_time": 1753284693,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333703,
+      "num": 333703,
+      "word": "女子不知父亲去世3个姑姑分掉遗产",
+      "onboard_time": 1753272442,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -83,28 +91,36 @@
       "category": "网红"
     },
     {
-      "raw_hot": 259632,
-      "num": 259632,
-      "word": "女子不知父亲去世3个姑姑分掉遗产",
-      "onboard_time": 1753272442,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257567,
-      "num": 257567,
+      "raw_hot": 287092,
+      "num": 287092,
       "word": "网红出轨粉丝意外产子不给抚养费",
       "onboard_time": 1753274723,
       "rank": 26,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253119,
-      "num": 171229,
+      "raw_hot": 286212,
+      "num": 271820,
       "word": "赵本山女儿球球回应为何不当明星",
       "onboard_time": 1753308435,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273685,
+      "num": 273685,
+      "word": "旺仔小乔方称已报案",
+      "onboard_time": 1753311799,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271704,
+      "num": 271704,
+      "word": "自述在马代遭性侵女子最新发声",
+      "onboard_time": 1753285175,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234678,
@@ -115,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231628,
-      "num": 234862,
-      "word": "自述在马代遭性侵女子最新发声",
-      "onboard_time": 1753285175,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224116,
       "num": 234181,
       "word": "服务员当面倒入罐装可乐一杯卖50元",
@@ -131,11 +139,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202887,
-      "num": 108098,
-      "word": "旺仔小乔方称已报案",
-      "onboard_time": 1753311799,
-      "rank": 20,
+      "raw_hot": 205194,
+      "num": 234339,
+      "word": "女子为减肥连续晒背9天导致肾衰竭",
+      "onboard_time": 1753284632,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -148,19 +156,27 @@
     },
     {
       "raw_hot": 190491,
-      "num": 233740,
+      "num": 272586,
       "word": "朝雪录爱奇艺热度破10100",
       "onboard_time": 1753288466,
       "rank": 23,
       "category": "剧集"
     },
     {
-      "raw_hot": 186307,
-      "num": 234339,
-      "word": "女子为减肥连续晒背9天导致肾衰竭",
-      "onboard_time": 1753284632,
+      "raw_hot": 179618,
+      "num": 272487,
+      "word": "东北大学溺亡者同学发声",
+      "onboard_time": 1753313300,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176706,
+      "num": 233692,
+      "word": "每天吃1根玉米身体会有什么变化",
+      "onboard_time": 1753277904,
+      "rank": 25,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 176092,
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165171,
+      "num": 273130,
+      "word": "确诊2659例记者探访收治医院",
+      "onboard_time": 1753274243,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162569,
       "num": 233603,
       "word": "辛迪瑞拉",
@@ -219,23 +243,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156488,
-      "num": 234604,
-      "word": "确诊2659例记者探访收治医院",
-      "onboard_time": 1753274243,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148555,
-      "num": 233692,
-      "word": "每天吃1根玉米身体会有什么变化",
-      "onboard_time": 1753277904,
-      "rank": 25,
-      "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 137475,
+      "raw_hot": 147821,
       "num": 233462,
       "word": "压垮19岁男孩的只是910元的车费吗",
       "onboard_time": 1753267101,
@@ -249,6 +257,14 @@
       "onboard_time": 1753282831,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115976,
+      "num": 232447,
+      "word": "山姆有机大豆质量1级降到3级",
+      "onboard_time": 1753284093,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113736,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105685,
+      "num": 232956,
+      "word": "市监局回应上海和平饭店可乐卖50元",
+      "onboard_time": 1753274363,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103873,
       "num": 233193,
       "word": "原来普通人一辈子的存款差不多是这样",
@@ -307,20 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94362,
-      "num": 232956,
-      "word": "市监局回应上海和平饭店可乐卖50元",
-      "onboard_time": 1753274363,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92506,
+      "raw_hot": 96804,
       "num": 232637,
       "word": "上海交通委介入错付车费后轻生案",
       "onboard_time": 1753277664,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96640,
+      "num": 232910,
+      "word": "AI暴走日本网民破大防",
+      "onboard_time": 1753283732,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90593,
@@ -329,14 +353,6 @@
       "onboard_time": 1753280785,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 90066,
-      "num": 232447,
-      "word": "山姆有机大豆质量1级降到3级",
-      "onboard_time": 1753284093,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89963,
@@ -355,10 +371,18 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 79817,
-      "num": 232910,
-      "word": "AI暴走日本网民破大防",
-      "onboard_time": 1753283732,
+      "raw_hot": 84119,
+      "num": 233110,
+      "word": "麦当劳回应工作人员没必要偷吃",
+      "onboard_time": 1753278384,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79482,
+      "num": 131235,
+      "word": "韩国西瓜抹了腮红的冬瓜",
+      "onboard_time": 1753280485,
       "rank": 46,
       "category": "海外新闻"
     },
@@ -435,23 +459,23 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63506,
-      "num": 233110,
-      "word": "麦当劳回应工作人员没必要偷吃",
-      "onboard_time": 1753278384,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 59588,
+      "num": 72800,
+      "word": "吴易昺怒吼庆祝晋级",
+      "onboard_time": 1753313721,
+      "rank": 42,
+      "category": "体育"
     },
     {
-      "raw_hot": 62106,
-      "num": 131235,
-      "word": "韩国西瓜抹了腮红的冬瓜",
-      "onboard_time": 1753280485,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 54483,
+      "num": 72727,
+      "word": "中国女排2比3波兰女排",
+      "onboard_time": 1753314022,
+      "rank": 44,
+      "category": "体育"
     },
     {
-      "raw_hot": 44623,
+      "raw_hot": 49834,
       "num": 76216,
       "word": "玩切水果不小心把老板切了",
       "onboard_time": 1753306154,
@@ -499,7 +523,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2054,
+      "raw_hot": 2209,
       "num": 396793,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,

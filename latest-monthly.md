@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/24 07:28:14
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/24 07:42:29
 </p>
 </blockquote>
 <p>
@@ -2145,6 +2145,12 @@ TVB演员周聪去世（热度：1170482）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BC%81%E4%B8%9A%E5%8F%82%E8%A7%82%E6%BA%BA%E4%BA%A1%23" target="weibo">
+官方回应6名大学生企业参观溺亡（热度：1167735）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E4%BA%A4%E7%A4%BE%E4%BF%9D%E8%A2%AB%E8%B4%9F%E5%80%BA200%E4%B8%87%23" target="weibo">
 女生为交社保被负债200万（热度：1167453）
 </a>
@@ -4139,12 +4145,6 @@ twice回归（热度：792592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%A2%AB%E5%AE%B6%E6%9A%B4%E6%B2%A1%E6%9C%89%E5%8F%8D%E8%BD%AC%23" target="weibo">
 房主任被家暴没有反转（热度：784525）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%946%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BC%81%E4%B8%9A%E5%8F%82%E8%A7%82%E6%BA%BA%E4%BA%A1%23" target="weibo">
-官方回应6名大学生企业参观溺亡（热度：783101）
 </a>
 </li>
 
