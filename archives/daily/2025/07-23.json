@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753263282969,
+  "endTime": 1753264163564,
   "band_list": [
     {
       "raw_hot": 3019867,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 564888,
+      "num": 353659,
+      "word": "旺仔小乔直播怒怼素人",
+      "onboard_time": 1753263024,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 556457,
       "num": 556457,
       "word": "糖尿病 烂苹果味",
@@ -283,6 +291,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 525865,
+      "num": 509846,
+      "word": "日本网民大呼完了",
+      "onboard_time": 1753260682,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 522475,
+      "num": 522475,
+      "word": "迪丽热巴扫腿舞",
+      "onboard_time": 1753262183,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508176,
       "num": 508176,
       "word": "妈妈否认七七接商演2小时酬劳8000元",
@@ -297,14 +321,6 @@
       "onboard_time": 1753238000,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 484279,
-      "num": 484279,
-      "word": "日本网民大呼完了",
-      "onboard_time": 1753260682,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 459288,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402481,
+      "num": 402481,
+      "word": "展丞闪耀泰兰德",
+      "onboard_time": 1753262183,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394751,
       "num": 394751,
       "word": "家属称4岁侄子全麻拔乳牙身亡",
@@ -395,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 375703,
-      "num": 375703,
-      "word": "迪丽热巴扫腿舞",
-      "onboard_time": 1753262183,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 374729,
       "num": 374729,
       "word": "重庆姐弟坠亡案涉事房产拍卖",
@@ -417,14 +433,6 @@
       "onboard_time": 1753252460,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 360150,
-      "num": 360150,
-      "word": "展丞闪耀泰兰德",
-      "onboard_time": 1753262183,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 356639,
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318365,
+      "num": 318365,
+      "word": "卫健公安联合调查4岁男童拔牙死亡",
+      "onboard_time": 1753261283,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 316956,
       "num": 316956,
       "word": "我国平均每人每年吃近100斤西瓜",
@@ -555,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300067,
-      "num": 300067,
-      "word": "卫健公安联合调查4岁男童拔牙死亡",
-      "onboard_time": 1753261283,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 297115,
       "num": 297115,
       "word": "微博文化交流之夜",
@@ -593,6 +601,14 @@
       "onboard_time": 1753259182,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284912,
+      "num": 284912,
+      "word": "董璇女儿佟丽娅儿子同台表演",
+      "onboard_time": 1753262841,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 281011,
@@ -628,10 +644,18 @@
     },
     {
       "raw_hot": 255738,
-      "num": 364164,
+      "num": 385479,
       "word": "我国是世界公认最安全国家之一",
       "onboard_time": 1753257143,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254505,
+      "num": 254505,
+      "word": "退机票被扣1700女子觉得没人情味",
+      "onboard_time": 1753260262,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -689,14 +713,6 @@
       "onboard_time": 1753236200,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219709,
-      "num": 156434,
-      "word": "董璇女儿佟丽娅儿子同台表演",
-      "onboard_time": 1753262841,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 218319,
@@ -859,20 +875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188003,
-      "num": 188003,
-      "word": "退机票被扣1700女子觉得没人情味",
-      "onboard_time": 1753260262,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187027,
       "num": 187027,
       "word": "第7号台风范斯高或将生成",
       "onboard_time": 1753193122,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186711,
+      "num": 186711,
+      "word": "大张伟想带杨幂来脱友2",
+      "onboard_time": 1753262963,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 186128,
@@ -1043,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166109,
+      "num": 166109,
+      "word": "男子让女儿跪超市门口扇巴掌",
+      "onboard_time": 1753259423,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164209,
       "num": 164209,
       "word": "杨瀚森无缘夏联最佳阵容",
@@ -1083,12 +1107,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160275,
-      "num": 160275,
-      "word": "旺仔小乔直播怒怼素人",
-      "onboard_time": 1753263024,
-      "rank": 26,
-      "category": "网红"
+      "raw_hot": 159192,
+      "num": 159192,
+      "word": "浙江开始整治PPT",
+      "onboard_time": 1753263621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158875,
+      "num": 158875,
+      "word": "MUJI无印良品称与無印良品无关联",
+      "onboard_time": 1753262963,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158625,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1753250781,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158599,
-      "num": 158599,
-      "word": "男子让女儿跪超市门口扇巴掌",
-      "onboard_time": 1753259423,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158050,
@@ -1171,14 +1195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 150633,
-      "num": 150633,
-      "word": "大张伟想带杨幂来脱友2",
-      "onboard_time": 1753262963,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149740,
       "num": 149740,
       "word": "女子将婴儿放在斑马线上爬行",
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 148304,
-      "num": 148304,
+      "num": 158970,
       "word": "赵露思ELLE销量",
       "onboard_time": 1753261163,
       "rank": 37,
@@ -1363,14 +1379,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 131654,
-      "num": 131654,
-      "word": "MUJI无印良品称与無印良品无关联",
-      "onboard_time": 1753262963,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131104,
       "num": 131104,
       "word": "韩国 一人食不友好",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1753230800,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128423,
+      "num": 128423,
+      "word": "泰奶",
+      "onboard_time": 1753263682,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 128041,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1753246883,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125600,
+      "num": 125600,
+      "word": "王一博被风吹乱的头发",
+      "onboard_time": 1753263382,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 124600,
@@ -1603,6 +1627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113767,
+      "num": 113767,
+      "word": "樊振东抵达厦门参加乒超联赛",
+      "onboard_time": 1753262243,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113181,
       "num": 113181,
       "word": "泡脚 祛湿",
@@ -1755,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91214,
+      "num": 133350,
+      "word": "老铺黄金店员招聘要求堪比空乘",
+      "onboard_time": 1753263081,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90669,
       "num": 163115,
       "word": "汤唯和老公新疆骑马",
@@ -1880,14 +1920,6 @@
       "word": "住房租赁条例全文",
       "onboard_time": 1753194502,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70085,
-      "num": 133350,
-      "word": "老铺黄金店员招聘要求堪比空乘",
-      "onboard_time": 1753263081,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2019,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51272,
+      "num": 248876,
+      "word": "41名农民因养老金起诉乌市政府",
+      "onboard_time": 1753263144,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51106,
       "num": 51106,
       "word": "约克雷斯加盟阿森纳",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1753262662,
       "rank": 38,
       "category": "幽默,数码"
+    },
+    {
+      "raw_hot": 43013,
+      "num": 158914,
+      "word": "官方回应喜报称高分学生拒报清北",
+      "onboard_time": 1753263144,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42794,
@@ -2131,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35374,
-      "num": 156637,
-      "word": "41名农民因养老金起诉乌市政府",
-      "onboard_time": 1753263144,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35357,
       "num": 991160,
       "word": "恭王府与中国时尚文化",
@@ -2160,14 +2200,6 @@
       "word": "当责任落笔成光",
       "onboard_time": 1753203318,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31334,
-      "num": 157474,
-      "word": "官方回应喜报称高分学生拒报清北",
-      "onboard_time": 1753263144,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2235,12 +2267,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 20058,
+      "num": 253591,
+      "word": "沈腾王安宇再现贴贴名场面",
+      "onboard_time": 1753263802,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18467,
       "num": 26753,
       "word": "只要有人记得相柳就不算离开",
       "onboard_time": 1753206795,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17516,
+      "num": 126023,
+      "word": "多个账号模仿旺仔小乔不露脸直播",
+      "onboard_time": 1753263862,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 16616,
