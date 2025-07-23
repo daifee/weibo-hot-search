@@ -1,0 +1,410 @@
+{
+  "runTime": 1753298658784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121663,
+        "num": 121663,
+        "word": "大麦网给亲人离世退票遭拒的歌迷退款",
+        "onboard_time": 1753285112,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79021,
+        "num": 121587,
+        "word": "朝雪录破万",
+        "onboard_time": 1753268781,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1331,
+        "num": 121569,
+        "word": "万千气象看新疆",
+        "onboard_time": 1753188441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89126,
+        "num": 121438,
+        "word": "汪峰 服死了",
+        "onboard_time": 1753275683,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65743,
+        "num": 121369,
+        "word": "网红出轨粉丝意外产子不给抚养费",
+        "onboard_time": 1753274723,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61757,
+        "num": 121331,
+        "word": "自述在马代遭性侵女子最新发声",
+        "onboard_time": 1753285175,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51003,
+        "num": 121240,
+        "word": "李兰迪敖瑞鹏破万共创",
+        "onboard_time": 1753270342,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47385,
+        "num": 121163,
+        "word": "95后掏粪工上班开粪车下班开奔驰",
+        "onboard_time": 1753284693,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46289,
+        "num": 121069,
+        "word": "母亲以不服管教为由虐待儿子致死",
+        "onboard_time": 1753286493,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39202,
+        "num": 120991,
+        "word": "确诊2659例记者探访收治医院",
+        "onboard_time": 1753274243,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75735,
+        "num": 120888,
+        "word": "K总形容旺仔小乔长相",
+        "onboard_time": 1753278503,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69093,
+        "num": 120811,
+        "word": "好可爱的道歉方式",
+        "onboard_time": 1753285712,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61290,
+        "num": 120736,
+        "word": "卢昱晓机场被人敲头",
+        "onboard_time": 1753272743,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48071,
+        "num": 120660,
+        "word": "旺仔小乔直播怒怼素人",
+        "onboard_time": 1753263024,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40288,
+        "num": 120565,
+        "word": "黑龙江考生389分捡漏双一流郑州大学",
+        "onboard_time": 1753277603,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38103,
+        "num": 120479,
+        "word": "女子不知父亲去世3个姑姑分掉遗产",
+        "onboard_time": 1753272442,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32845,
+        "num": 120388,
+        "word": "时代少年团彩排",
+        "onboard_time": 1753284213,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31750,
+        "num": 120375,
+        "word": "朝雪录爱奇艺热度破10100",
+        "onboard_time": 1753288466,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31673,
+        "num": 120233,
+        "word": "懂车帝测试",
+        "onboard_time": 1753284153,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31220,
+        "num": 120192,
+        "word": "服务员当面倒入罐装可乐一杯卖50元",
+        "onboard_time": 1753272081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48631,
+        "num": 120078,
+        "word": "张碧晨年轮原唱被取消",
+        "onboard_time": 1753267701,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30434,
+        "num": 119997,
+        "word": "压垮19岁男孩的只是910元的车费吗",
+        "onboard_time": 1753267101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29145,
+        "num": 119972,
+        "word": "麦当劳回应工作人员没必要偷吃",
+        "onboard_time": 1753278384,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28954,
+        "num": 119867,
+        "word": "女子为减肥连续晒背9天导致肾衰竭",
+        "onboard_time": 1753284632,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28844,
+        "num": 119810,
+        "word": "虞书欣给颖儿送了wakuku",
+        "onboard_time": 1753273102,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28486,
+        "num": 119693,
+        "word": "外卖0元购首批受害者出现了",
+        "onboard_time": 1753266202,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28363,
+        "num": 119613,
+        "word": "辛迪瑞拉",
+        "onboard_time": 1753281386,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26295,
+        "num": 119524,
+        "word": "一日店长",
+        "onboard_time": 1753280785,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25583,
+        "num": 119474,
+        "word": "毕雯珺太帅了",
+        "onboard_time": 1753281265,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24696,
+        "num": 119379,
+        "word": "每天吃1根玉米身体会有什么变化",
+        "onboard_time": 1753277904,
+        "rank": 29,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 27166,
+        "num": 119342,
+        "word": "律师称司机多收钱致人死系不当得利",
+        "onboard_time": 1753293498,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26939,
+        "num": 119258,
+        "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
+        "onboard_time": 1753259124,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26721,
+        "num": 119178,
+        "word": "T1向Zeus正式道歉",
+        "onboard_time": 1753282770,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26552,
+        "num": 119038,
+        "word": "上海交通委介入错付车费后轻生案",
+        "onboard_time": 1753277664,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24109,
+        "num": 118979,
+        "word": "市监局回应上海和平饭店可乐卖50元",
+        "onboard_time": 1753274363,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23776,
+        "num": 118906,
+        "word": "原来普通人一辈子的存款差不多是这样",
+        "onboard_time": 1753267762,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23491,
+        "num": 118820,
+        "word": "韩国西瓜抹了腮红的冬瓜",
+        "onboard_time": 1753280485,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23226,
+        "num": 118746,
+        "word": "狗狗疑被宠物店放烘干箱一小时烤死",
+        "onboard_time": 1753274001,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23092,
+        "num": 118678,
+        "word": "男子骑摩托追尾后一脸撞上榴莲",
+        "onboard_time": 1753287748,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22732,
+        "num": 118581,
+        "word": "患者称血小板明显异常医生未告知",
+        "onboard_time": 1753286493,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21278,
+        "num": 118480,
+        "word": "小伙救起一家三口后不幸溺亡",
+        "onboard_time": 1753284393,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20919,
+        "num": 118429,
+        "word": "小女孩舞台摔倒临场反应绝了",
+        "onboard_time": 1753288585,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20275,
+        "num": 118368,
+        "word": "9.9元假银饰致癌物超标1179倍",
+        "onboard_time": 1753284033,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19979,
+        "num": 118243,
+        "word": "招考院回应389分捡漏郑州大学",
+        "onboard_time": 1753283492,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19813,
+        "num": 118148,
+        "word": "AI暴走日本网民破大防",
+        "onboard_time": 1753283732,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18847,
+        "num": 118129,
+        "word": "嘴里出现这3种异常或是癌症信号",
+        "onboard_time": 1753277182,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18223,
+        "num": 118033,
+        "word": "王者荣耀电竞世界杯",
+        "onboard_time": 1753286730,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17894,
+        "num": 117944,
+        "word": "时代少年团三开",
+        "onboard_time": 1753277784,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16787,
+        "num": 117864,
+        "word": "山姆有机大豆质量1级降到3级",
+        "onboard_time": 1753284093,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15997,
+        "num": 117759,
+        "word": "鹿晗与穿越火线主创合照",
+        "onboard_time": 1753282831,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#打开改革发展新天地#"
+    }
+  }
+}
