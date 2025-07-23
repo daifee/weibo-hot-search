@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753243540529,
+  "endTime": 1753244095439,
   "band_list": [
     {
       "raw_hot": 2998546,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1341089,
-      "num": 989146,
+      "num": 1023341,
       "word": "水果 脂肪肝",
       "onboard_time": 1753236080,
       "rank": 3,
@@ -139,19 +139,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 409487,
+      "num": 549322,
+      "word": "山姆App重新上架卫龙魔芋爽",
+      "onboard_time": 1753240580,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394751,
       "num": 394751,
       "word": "家属称4岁侄子全麻拔乳牙身亡",
       "onboard_time": 1753198042,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389583,
-      "num": 538307,
-      "word": "山姆App重新上架卫龙魔芋爽",
-      "onboard_time": 1753240580,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1753188321,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335850,
+      "num": 141645,
+      "word": "腾讯内部新规",
+      "onboard_time": 1753240762,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 335086,
@@ -267,16 +275,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 293629,
-      "num": 141645,
-      "word": "腾讯内部新规",
-      "onboard_time": 1753240762,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 292897,
-      "num": 199983,
+      "num": 211904,
       "word": "Pura80数字版开启预售",
       "onboard_time": 1753239561,
       "rank": 21,
@@ -289,6 +289,14 @@
       "onboard_time": 1753234880,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 289531,
+      "num": 211079,
+      "word": "敖瑞鹏说入圈后幸福感降低",
+      "onboard_time": 1753242922,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 281011,
@@ -307,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273111,
-      "num": 196971,
-      "word": "敖瑞鹏说入圈后幸福感降低",
-      "onboard_time": 1753242922,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 270361,
+      "num": 270361,
+      "word": "朴彩英跳错",
+      "onboard_time": 1753243041,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 243429,
@@ -371,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 212269,
+      "num": 212269,
+      "word": "57岁金星巴黎被偶遇",
+      "onboard_time": 1753241061,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210871,
       "num": 210871,
       "word": "A股",
@@ -385,6 +401,14 @@
       "onboard_time": 1753236560,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208725,
+      "num": 208725,
+      "word": "海南",
+      "onboard_time": 1753239981,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202239,
@@ -403,28 +427,12 @@
       "category": "国际时政,健康医疗"
     },
     {
-      "raw_hot": 198316,
-      "num": 198316,
-      "word": "57岁金星巴黎被偶遇",
-      "onboard_time": 1753241061,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195560,
       "num": 212782,
       "word": "樱桃琥珀15集哭成泪人了",
       "onboard_time": 1753201159,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187711,
-      "num": 187711,
-      "word": "朴彩英跳错",
-      "onboard_time": 1753243041,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 187027,
@@ -443,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183255,
-      "num": 183255,
-      "word": "海南",
-      "onboard_time": 1753239981,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 183613,
+      "num": 536540,
+      "word": "特朗普称期待在不久的将来访问中国",
+      "onboard_time": 1753235539,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 183188,
+      "num": 183188,
+      "word": "Shanks谈Faker和Chovy谁厉害",
+      "onboard_time": 1753243462,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 182563,
@@ -507,6 +523,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 160887,
+      "num": 136625,
+      "word": "旅游三千块钱定律",
+      "onboard_time": 1753243522,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 160403,
+      "num": 133237,
+      "word": "原来长胖55斤的面相变化这么大",
+      "onboard_time": 1753243522,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160336,
+      "num": 160336,
+      "word": "TIMA音乐大赏阵容",
+      "onboard_time": 1753240701,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158050,
       "num": 158050,
       "word": "我国渔民打捞到了间谍窃密装置",
@@ -531,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 150577,
-      "num": 536540,
-      "word": "特朗普称期待在不久的将来访问中国",
-      "onboard_time": 1753235539,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 144946,
+      "num": 144946,
+      "word": "莲花楼",
+      "onboard_time": 1753243882,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 142646,
@@ -545,6 +585,14 @@
       "onboard_time": 1753188742,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141370,
+      "num": 137316,
+      "word": "当985大学教授沉迷短剧",
+      "onboard_time": 1753243882,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141352,
@@ -585,6 +633,14 @@
       "onboard_time": 1753229901,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132948,
+      "num": 132948,
+      "word": "彩椒碗",
+      "onboard_time": 1753243582,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 132020,
@@ -643,20 +699,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120122,
-      "num": 120122,
-      "word": "Shanks谈Faker和Chovy谁厉害",
-      "onboard_time": 1753243462,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 119299,
       "num": 119299,
       "word": "错付车费索要无果后轻生家属发声",
       "onboard_time": 1753185561,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117926,
+      "num": 117926,
+      "word": "披荆斩棘二公录制",
+      "onboard_time": 1753238780,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 116017,
@@ -691,12 +747,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111144,
-      "num": 111144,
-      "word": "披荆斩棘二公录制",
-      "onboard_time": 1753238780,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 112824,
+      "num": 112824,
+      "word": "螺蛳粉定律",
+      "onboard_time": 1753242502,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 112226,
+      "num": 112226,
+      "word": "韩国打工人4500韩元餐标的午餐",
+      "onboard_time": 1753242922,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "微信实时对讲功能已下线",
+      "onboard_time": 1753244062,
+      "rank": 47,
+      "category": "互联网,互联网"
     },
     {
       "raw_hot": 110189,
@@ -753,30 +825,6 @@
       "onboard_time": 1753241901,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103210,
-      "num": 103210,
-      "word": "原来长胖55斤的面相变化这么大",
-      "onboard_time": 1753243522,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 101166,
-      "num": 101166,
-      "word": "韩国打工人4500韩元餐标的午餐",
-      "onboard_time": 1753242922,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 100012,
-      "num": 100012,
-      "word": "旅游三千块钱定律",
-      "onboard_time": 1753243522,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 98142,
@@ -873,6 +921,14 @@
       "onboard_time": 1753197922,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 74933,
+      "num": 140580,
+      "word": "师姐的朋友圈",
+      "onboard_time": 1753243462,
+      "rank": 37,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 74170,
@@ -995,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54914,
+      "num": 140861,
+      "word": "爱蹲的人有好运气",
+      "onboard_time": 1753243882,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54248,
       "num": 55568,
       "word": "杨广弟陪孙颖莎加练",
@@ -1012,7 +1076,7 @@
     },
     {
       "raw_hot": 51969,
-      "num": 210766,
+      "num": 273864,
       "word": "用智搜分析看懂歌手2025",
       "onboard_time": 1753243283,
       "rank": 17,
@@ -1067,14 +1131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42065,
-      "num": 121238,
-      "word": "师姐的朋友圈",
-      "onboard_time": 1753243462,
-      "rank": 37,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 36659,
       "num": 47191,
       "word": "Rain法拉利老了还是法拉利",
@@ -1108,7 +1164,7 @@
     },
     {
       "raw_hot": 27143,
-      "num": 989159,
+      "num": 1050591,
       "word": "遥感卫星发现商周之际最大城址",
       "onboard_time": 1753168341,
       "rank": 2,

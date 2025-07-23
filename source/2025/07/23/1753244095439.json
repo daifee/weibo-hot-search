@@ -1,0 +1,410 @@
+{
+  "runTime": 1753244095439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2773605,
+        "num": 2773605,
+        "word": "微信 后悔药",
+        "onboard_time": 1753241661,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1110920,
+        "num": 1110920,
+        "word": "微信 对讲机",
+        "onboard_time": 1753231822,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 6670,
+        "num": 1050591,
+        "word": "遥感卫星发现商周之际最大城址",
+        "onboard_time": 1753168341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1023341,
+        "num": 1023341,
+        "word": "水果 脂肪肝",
+        "onboard_time": 1753236080,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 932672,
+        "num": 932672,
+        "word": "建议存款不要告诉任何人",
+        "onboard_time": 1753236621,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452199,
+        "num": 732675,
+        "word": "海南自由贸易港封关12月18日启动",
+        "onboard_time": 1753238000,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639106,
+        "num": 639106,
+        "word": "凡人修仙传定档",
+        "onboard_time": 1753241361,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409487,
+        "num": 549322,
+        "word": "山姆App重新上架卫龙魔芋爽",
+        "onboard_time": 1753240580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356214,
+        "num": 510407,
+        "word": "素人变艺人需慎之又慎",
+        "onboard_time": 1753233020,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183613,
+        "num": 486225,
+        "word": "特朗普称期待在不久的将来访问中国",
+        "onboard_time": 1753235539,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 473412,
+        "num": 473412,
+        "word": "日媒称首相石破茂将辞职",
+        "onboard_time": 1753238841,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347103,
+        "num": 347103,
+        "word": "乔任梁出道18周年父亲身穿粉色扫墓",
+        "onboard_time": 1753238902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284062,
+        "num": 284062,
+        "word": "王楚钦分享面对压力自己心路历程",
+        "onboard_time": 1753237280,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280913,
+        "num": 280913,
+        "word": "汪峰一家与森林北一家同游日本",
+        "onboard_time": 1753234399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48045,
+        "num": 273864,
+        "word": "用智搜分析看懂歌手2025",
+        "onboard_time": 1753243283,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270361,
+        "num": 270361,
+        "word": "朴彩英跳错",
+        "onboard_time": 1753243041,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256887,
+        "num": 256887,
+        "word": "我国平均每人每年吃近100斤西瓜",
+        "onboard_time": 1753230681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238653,
+        "num": 238653,
+        "word": "特朗普称与日本达成一项巨大协议",
+        "onboard_time": 1753228759,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128881,
+        "num": 214889,
+        "word": "蔚来乐道L90全国试驾抢先开启",
+        "onboard_time": 1753240042,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212269,
+        "num": 212269,
+        "word": "57岁金星巴黎被偶遇",
+        "onboard_time": 1753241061,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288168,
+        "num": 211904,
+        "word": "Pura80数字版开启预售",
+        "onboard_time": 1753239561,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 462583,
+        "num": 211406,
+        "word": "20岁女模拒绝发生关系被从高处扔下",
+        "onboard_time": 1753232241,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289531,
+        "num": 211079,
+        "word": "敖瑞鹏说入圈后幸福感降低",
+        "onboard_time": 1753242922,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208725,
+        "num": 208725,
+        "word": "海南",
+        "onboard_time": 1753239981,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183188,
+        "num": 183188,
+        "word": "Shanks谈Faker和Chovy谁厉害",
+        "onboard_time": 1753243462,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160336,
+        "num": 160336,
+        "word": "TIMA音乐大赏阵容",
+        "onboard_time": 1753240701,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172981,
+        "num": 156610,
+        "word": "朝雪录吻戏被删",
+        "onboard_time": 1753234820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144946,
+        "num": 144946,
+        "word": "莲花楼",
+        "onboard_time": 1753243882,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54914,
+        "num": 140861,
+        "word": "爱蹲的人有好运气",
+        "onboard_time": 1753243882,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74933,
+        "num": 140580,
+        "word": "师姐的朋友圈",
+        "onboard_time": 1753243462,
+        "rank": 29,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 140370,
+        "num": 140370,
+        "word": "特朗普称对菲律宾收19%关税",
+        "onboard_time": 1753235781,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335850,
+        "num": 139054,
+        "word": "腾讯内部新规",
+        "onboard_time": 1753240762,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141370,
+        "num": 137316,
+        "word": "当985大学教授沉迷短剧",
+        "onboard_time": 1753243882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160887,
+        "num": 136625,
+        "word": "旅游三千块钱定律",
+        "onboard_time": 1753243522,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160403,
+        "num": 133237,
+        "word": "原来长胖55斤的面相变化这么大",
+        "onboard_time": 1753243522,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132948,
+        "num": 132948,
+        "word": "彩椒碗",
+        "onboard_time": 1753243582,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126194,
+        "num": 126194,
+        "word": "40岁宝妈练背一年换了张脸",
+        "onboard_time": 1753232601,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125171,
+        "num": 125171,
+        "word": "僵尸校园2剧本围读",
+        "onboard_time": 1753238241,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124749,
+        "num": 124749,
+        "word": "一天省5块相当于银行存了十几万",
+        "onboard_time": 1753237641,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113191,
+        "num": 121246,
+        "word": "上证指数逼近3600点",
+        "onboard_time": 1753242682,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120034,
+        "num": 120034,
+        "word": "家属称4岁侄子全麻拔乳牙身亡",
+        "onboard_time": 1753198042,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117926,
+        "num": 117926,
+        "word": "披荆斩棘二公录制",
+        "onboard_time": 1753238780,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117088,
+        "num": 117088,
+        "word": "12306回应高铁商务座卫生脏乱",
+        "onboard_time": 1753241241,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116257,
+        "num": 116257,
+        "word": "世界之外",
+        "onboard_time": 1753236980,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116140,
+        "num": 116140,
+        "word": "国新办介绍海南自由贸易港建设情况",
+        "onboard_time": 1753237520,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112824,
+        "num": 112824,
+        "word": "螺蛳粉定律",
+        "onboard_time": 1753242502,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112226,
+        "num": 112226,
+        "word": "韩国打工人4500韩元餐标的午餐",
+        "onboard_time": 1753242922,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110931,
+        "num": 110931,
+        "word": "微信实时对讲功能已下线",
+        "onboard_time": 1753244062,
+        "rank": 47,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 103765,
+        "num": 103765,
+        "word": "世卫专家就基孔肯雅热发警报",
+        "onboard_time": 1753236621,
+        "rank": 48,
+        "category": "国际时政,健康医疗"
+      },
+      {
+        "raw_hot": 109226,
+        "num": 102965,
+        "word": "关晓彤投喂彩椒碗",
+        "onboard_time": 1753229362,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些话语直抵人心#"
+    }
+  }
+}

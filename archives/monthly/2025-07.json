@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753243540529,
+  "endTime": 1753244095439,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1940,7 +1940,7 @@
     },
     {
       "raw_hot": 1341089,
-      "num": 989146,
+      "num": 1023341,
       "word": "水果 脂肪肝",
       "onboard_time": 1753236080,
       "rank": 3,
@@ -13019,6 +13019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 409487,
+      "num": 549322,
+      "word": "山姆App重新上架卫龙魔芋爽",
+      "onboard_time": 1753240580,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409024,
       "num": 409024,
       "word": "北京 回南天",
@@ -13577,14 +13585,6 @@
       "onboard_time": 1751414961,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 389583,
-      "num": 538307,
-      "word": "山姆App重新上架卫龙魔芋爽",
-      "onboard_time": 1753240580,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 389469,
@@ -15875,6 +15875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335850,
+      "num": 141645,
+      "word": "腾讯内部新规",
+      "onboard_time": 1753240762,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 335773,
       "num": 357251,
       "word": "你在cos鹿 鹿在cos王俊凯",
@@ -18027,14 +18035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 293629,
-      "num": 141645,
-      "word": "腾讯内部新规",
-      "onboard_time": 1753240762,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 293595,
       "num": 417560,
       "word": "中日友好医院称要有刮骨疗毒的决心",
@@ -18084,7 +18084,7 @@
     },
     {
       "raw_hot": 292897,
-      "num": 199983,
+      "num": 211904,
       "word": "Pura80数字版开启预售",
       "onboard_time": 1753239561,
       "rank": 21,
@@ -18329,6 +18329,14 @@
       "onboard_time": 1753060640,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 289531,
+      "num": 211079,
+      "word": "敖瑞鹏说入圈后幸福感降低",
+      "onboard_time": 1753242922,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 289485,
@@ -19387,14 +19395,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 273111,
-      "num": 196971,
-      "word": "敖瑞鹏说入圈后幸福感降低",
-      "onboard_time": 1753242922,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273075,
       "num": 273075,
       "word": "虞书欣说不会为了转型而转型",
@@ -19657,6 +19657,14 @@
       "onboard_time": 1752489021,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270361,
+      "num": 270361,
+      "word": "朴彩英跳错",
+      "onboard_time": 1753243041,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 270123,
@@ -25195,6 +25203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212269,
+      "num": 212269,
+      "word": "57岁金星巴黎被偶遇",
+      "onboard_time": 1753241061,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212233,
       "num": 212233,
       "word": "无畏躺平猫",
@@ -25436,7 +25452,7 @@
     },
     {
       "raw_hot": 210180,
-      "num": 989159,
+      "num": 1050591,
       "word": "遥感卫星发现商周之际最大城址",
       "onboard_time": 1753168341,
       "rank": 9,
@@ -25705,6 +25721,14 @@
       "onboard_time": 1752328283,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208725,
+      "num": 208725,
+      "word": "海南",
+      "onboard_time": 1753239981,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208666,
@@ -27929,14 +27953,6 @@
       "onboard_time": 1751897005,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198316,
-      "num": 198316,
-      "word": "57岁金星巴黎被偶遇",
-      "onboard_time": 1753241061,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 198293,
@@ -30491,14 +30507,6 @@
       "category": "体育,剧集"
     },
     {
-      "raw_hot": 187711,
-      "num": 187711,
-      "word": "朴彩英跳错",
-      "onboard_time": 1753243041,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 187707,
       "num": 187707,
       "word": "马頔喻言都想把黄誉博嘴捂上",
@@ -31451,6 +31459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183613,
+      "num": 536540,
+      "word": "特朗普称期待在不久的将来访问中国",
+      "onboard_time": 1753235539,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183607,
       "num": 183607,
       "word": "无畏契约",
@@ -31507,14 +31523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183255,
-      "num": 183255,
-      "word": "海南",
-      "onboard_time": 1753239981,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183232,
       "num": 762211,
       "word": "十余省区市雨雨雨",
@@ -31529,6 +31537,14 @@
       "onboard_time": 1753073122,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183188,
+      "num": 183188,
+      "word": "Shanks谈Faker和Chovy谁厉害",
+      "onboard_time": 1753243462,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 183174,
@@ -37243,6 +37259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160887,
+      "num": 136625,
+      "word": "旅游三千块钱定律",
+      "onboard_time": 1753243522,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 160787,
       "num": 182393,
       "word": "无预警公开的NewJeans",
@@ -37371,6 +37395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160403,
+      "num": 133237,
+      "word": "原来长胖55斤的面相变化这么大",
+      "onboard_time": 1753243522,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160392,
       "num": 160392,
       "word": "JDG战胜LGDNBW",
@@ -37393,6 +37425,14 @@
       "onboard_time": 1752932601,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160336,
+      "num": 160336,
+      "word": "TIMA音乐大赏阵容",
+      "onboard_time": 1753240701,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 160317,
@@ -40363,14 +40403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150577,
-      "num": 536540,
-      "word": "特朗普称期待在不久的将来访问中国",
-      "onboard_time": 1753235539,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150561,
       "num": 150561,
       "word": "无名之辈 荒诞",
@@ -42355,6 +42387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144946,
+      "num": 144946,
+      "word": "莲花楼",
+      "onboard_time": 1753243882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144916,
       "num": 170764,
       "word": "黄子韬在哪里都有人哄",
@@ -43601,6 +43641,14 @@
       "onboard_time": 1751627422,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141370,
+      "num": 137316,
+      "word": "当985大学教授沉迷短剧",
+      "onboard_time": 1753243882,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141352,
@@ -46817,6 +46865,14 @@
       "onboard_time": 1751608764,
       "rank": 48,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 132948,
+      "num": 132948,
+      "word": "彩椒碗",
+      "onboard_time": 1753243582,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 132941,
@@ -52355,14 +52411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120122,
-      "num": 120122,
-      "word": "Shanks谈Faker和Chovy谁厉害",
-      "onboard_time": 1753243462,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 120114,
       "num": 120114,
       "word": "侯明昊艾米开机应援",
@@ -53433,6 +53481,14 @@
       "onboard_time": 1751445024,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117926,
+      "num": 117926,
+      "word": "披荆斩棘二公录制",
+      "onboard_time": 1753238780,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 117864,
@@ -55771,6 +55827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112824,
+      "num": 112824,
+      "word": "螺蛳粉定律",
+      "onboard_time": 1753242502,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112803,
       "num": 112803,
       "word": "黄誉博郑伟旅行后疑似绝交",
@@ -56041,6 +56105,14 @@
       "onboard_time": 1752900021,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112226,
+      "num": 112226,
+      "word": "韩国打工人4500韩元餐标的午餐",
+      "onboard_time": 1753242922,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 112195,
@@ -56491,14 +56563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111144,
-      "num": 111144,
-      "word": "披荆斩棘二公录制",
-      "onboard_time": 1753238780,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111142,
       "num": 111142,
       "word": "男子从卖1元百货卖到了年销4亿元",
@@ -56617,6 +56681,14 @@
       "onboard_time": 1752980961,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "微信实时对讲功能已下线",
+      "onboard_time": 1753244062,
+      "rank": 47,
+      "category": "互联网,互联网"
     },
     {
       "raw_hot": 110880,
@@ -59763,14 +59835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103210,
-      "num": 103210,
-      "word": "原来长胖55斤的面相变化这么大",
-      "onboard_time": 1753243522,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 103196,
       "num": 103196,
       "word": "一个在唱爱情一个在唱友情",
@@ -60491,14 +60555,6 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 101166,
-      "num": 101166,
-      "word": "韩国打工人4500韩元餐标的午餐",
-      "onboard_time": 1753242922,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101165,
       "num": 101165,
       "word": "其实大家真的没什么好焦虑的",
@@ -60897,14 +60953,6 @@
       "onboard_time": 1751708242,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100012,
-      "num": 100012,
-      "word": "旅游三千块钱定律",
-      "onboard_time": 1753243522,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 100005,
@@ -66187,6 +66235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74933,
+      "num": 140580,
+      "word": "师姐的朋友圈",
+      "onboard_time": 1753243462,
+      "rank": 37,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 74826,
       "num": 328942,
       "word": "北京发布24条举措提振消费",
@@ -69323,6 +69379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54914,
+      "num": 140861,
+      "word": "爱蹲的人有好运气",
+      "onboard_time": 1753243882,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54855,
       "num": 318698,
       "word": "多家航司去高跟鞋化",
@@ -69756,7 +69820,7 @@
     },
     {
       "raw_hot": 51969,
-      "num": 210766,
+      "num": 273864,
       "word": "用智搜分析看懂歌手2025",
       "onboard_time": 1753243283,
       "rank": 17,
@@ -71409,14 +71473,6 @@
       "onboard_time": 1752226641,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 42065,
-      "num": 121238,
-      "word": "师姐的朋友圈",
-      "onboard_time": 1753243462,
-      "rank": 37,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 42060,
