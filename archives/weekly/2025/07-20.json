@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753280983165,
+  "endTime": 1753282143577,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -41,6 +41,14 @@
       "onboard_time": 1753013605,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3204631,
+      "num": 3204631,
+      "word": "6名大学生在企业参观学习时溺亡",
+      "onboard_time": 1753281086,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3171608,
@@ -599,6 +607,14 @@
       "num": 1148905,
       "word": "服务员当面倒入罐装可乐一杯卖50元",
       "onboard_time": 1753272081,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 984654,
+      "num": 587627,
+      "word": "东北大学",
+      "onboard_time": 1753281446,
       "rank": 3,
       "category": "民生新闻"
     },
@@ -3372,7 +3388,7 @@
     },
     {
       "raw_hot": 276847,
-      "num": 216314,
+      "num": 223954,
       "word": "每天吃1根玉米身体会有什么变化",
       "onboard_time": 1753277904,
       "rank": 43,
@@ -3793,6 +3809,14 @@
       "onboard_time": 1753227740,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243260,
+      "num": 421621,
+      "word": "上海交通委介入错付车费后轻生案",
+      "onboard_time": 1753277664,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242829,
@@ -4675,20 +4699,20 @@
       "category": "国际时政,健康医疗"
     },
     {
+      "raw_hot": 200781,
+      "num": 200781,
+      "word": "浮选槽",
+      "onboard_time": 1753281507,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200724,
       "num": 200724,
       "word": "迪丽热巴邓妍原声",
       "onboard_time": 1753188801,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200681,
-      "num": 421621,
-      "word": "上海交通委介入错付车费后轻生案",
-      "onboard_time": 1753277664,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200545,
@@ -5153,6 +5177,14 @@
       "onboard_time": 1753012703,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187137,
+      "num": 224842,
+      "word": "辛迪瑞拉",
+      "onboard_time": 1753281386,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 187128,
@@ -6147,6 +6179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165568,
+      "num": 165568,
+      "word": "毕雯珺太帅了",
+      "onboard_time": 1753281265,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165550,
       "num": 165550,
       "word": "利剑玫瑰下周央视开播",
@@ -6883,6 +6923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151108,
+      "num": 160184,
+      "word": "一日店长",
+      "onboard_time": 1753280785,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 150904,
       "num": 150904,
       "word": "凡人修仙传OST阵容",
@@ -7179,20 +7227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146773,
+      "num": 146773,
+      "word": "40度吃火锅",
+      "onboard_time": 1753281507,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146757,
       "num": 173361,
       "word": "原件正确复印件才正确",
       "onboard_time": 1753096942,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146750,
-      "num": 146750,
-      "word": "一日店长",
-      "onboard_time": 1753280785,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 146732,
@@ -7761,6 +7809,14 @@
       "onboard_time": 1753279704,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136556,
+      "num": 136556,
+      "word": "韩国西瓜抹了腮红的冬瓜",
+      "onboard_time": 1753280485,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136397,
@@ -8737,6 +8793,14 @@
       "onboard_time": 1753168700,
       "rank": 32,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 122646,
+      "num": 122646,
+      "word": "汪东城自曝曾被小三",
+      "onboard_time": 1753281086,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 122492,
@@ -10211,6 +10275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104041,
+      "num": 104041,
+      "word": "定妆照到底能有多阴间",
+      "onboard_time": 1753281990,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104032,
       "num": 104032,
       "word": "外卖点一箱水遭骑手嘲讽",
@@ -11387,6 +11459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73561,
+      "num": 124610,
+      "word": "情侣网红7年必翻车魔咒",
+      "onboard_time": 1753281807,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 72810,
       "num": 120878,
       "word": "张馨予晚餐是只虫子",
@@ -11809,6 +11889,14 @@
       "onboard_time": 1753101561,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57713,
+      "num": 287758,
+      "word": "网红回应被判支付非婚生女抚养费",
+      "onboard_time": 1753279104,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57656,
@@ -13187,7 +13275,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 6907,
+      "raw_hot": 7349,
       "num": 1001008,
       "word": "太空视角看地球家园每一帧都震撼",
       "onboard_time": 1753239200,
