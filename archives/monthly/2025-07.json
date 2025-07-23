@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753282143577,
+  "endTime": 1753284713846,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -41,6 +41,14 @@
       "onboard_time": 1752415406,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12863672,
+      "num": 12863672,
+      "word": "6名大学生在企业参观学习时溺亡",
+      "onboard_time": 1753281086,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11780659,
@@ -273,14 +281,6 @@
       "onboard_time": 1752893602,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 3204631,
-      "num": 3204631,
-      "word": "6名大学生在企业参观学习时溺亡",
-      "onboard_time": 1753281086,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3171608,
@@ -1491,6 +1491,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 1506741,
+      "num": 597838,
+      "word": "东北大学",
+      "onboard_time": 1753281446,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1505027,
       "num": 414229,
       "word": "21岁女子因痛经去医院结果生了个娃",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1752298580,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1241355,
+      "num": 1241355,
+      "word": "汪峰 服死了",
+      "onboard_time": 1753275683,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1238312,
@@ -3769,14 +3785,6 @@
       "onboard_time": 1751381965,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 984654,
-      "num": 587627,
-      "word": "东北大学",
-      "onboard_time": 1753281446,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 984076,
@@ -7835,14 +7843,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 635919,
-      "num": 635919,
-      "word": "汪峰 服死了",
-      "onboard_time": 1753275683,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 635481,
       "num": 474000,
       "word": "原来普通人一辈子的存款差不多是这样",
@@ -11481,6 +11481,14 @@
       "onboard_time": 1751606302,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 471375,
+      "num": 471375,
+      "word": "浮选槽",
+      "onboard_time": 1753281507,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471244,
@@ -16411,6 +16419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 335067,
+      "num": 335067,
+      "word": "T1向Zeus正式道歉",
+      "onboard_time": 1753282770,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 334937,
       "num": 232197,
       "word": "巨瘦肚子的7天有效法",
@@ -16745,6 +16761,14 @@
       "onboard_time": 1752021263,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 327691,
+      "num": 223954,
+      "word": "每天吃1根玉米身体会有什么变化",
+      "onboard_time": 1753277904,
+      "rank": 43,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 327122,
@@ -19673,14 +19697,6 @@
       "onboard_time": 1752982941,
       "rank": 19,
       "category": "议题讨论,民生新闻"
-    },
-    {
-      "raw_hot": 276847,
-      "num": 223954,
-      "word": "每天吃1根玉米身体会有什么变化",
-      "onboard_time": 1753277904,
-      "rank": 43,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 276843,
@@ -25955,6 +25971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211657,
+      "num": 211657,
+      "word": "时代少年团彩排",
+      "onboard_time": 1753284213,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211644,
       "num": 211644,
       "word": "宋亚轩cha加绒摇",
@@ -26545,6 +26569,14 @@
       "onboard_time": 1752100878,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207897,
+      "num": 224842,
+      "word": "辛迪瑞拉",
+      "onboard_time": 1753281386,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 207814,
@@ -27523,6 +27555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203139,
+      "num": 203139,
+      "word": "一日店长",
+      "onboard_time": 1753280785,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 203074,
       "num": 235595,
       "word": "盼盼回应改英文名上架山姆",
@@ -28057,14 +28097,6 @@
       "onboard_time": 1751718863,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200781,
-      "num": 200781,
-      "word": "浮选槽",
-      "onboard_time": 1753281507,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200765,
@@ -31369,14 +31401,6 @@
       "onboard_time": 1752756082,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187137,
-      "num": 224842,
-      "word": "辛迪瑞拉",
-      "onboard_time": 1753281386,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 187135,
@@ -36499,6 +36523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "毕雯珺太帅了",
+      "onboard_time": 1753281265,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167029,
       "num": 259675,
       "word": "偷渡回流人员称被打七八百棍血流三碗",
@@ -36720,6 +36752,14 @@
       "word": "中通回应幼童躺街上被快递车碾压身亡",
       "onboard_time": 1751779641,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166452,
+      "num": 166451,
+      "word": "狗狗疑被宠物店放烘干箱一小时烤死",
+      "onboard_time": 1753274001,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -36961,14 +37001,6 @@
       "onboard_time": 1752565342,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165568,
-      "num": 165568,
-      "word": "毕雯珺太帅了",
-      "onboard_time": 1753281265,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 165550,
@@ -37288,6 +37320,14 @@
       "word": "书卷一梦热度",
       "onboard_time": 1751413038,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164381,
+      "num": 166699,
+      "word": "鹿晗与穿越火线主创合照",
+      "onboard_time": 1753282831,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -38617,6 +38657,14 @@
       "onboard_time": 1752930862,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159405,
+      "num": 159405,
+      "word": "招考院回应389分捡漏郑州大学",
+      "onboard_time": 1753283492,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 159391,
@@ -40307,6 +40355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153920,
+      "num": 153920,
+      "word": "懂车帝测试",
+      "onboard_time": 1753284153,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153871,
       "num": 153871,
       "word": "兴趣一定要有用吗",
@@ -41139,14 +41195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 151588,
-      "num": 151588,
-      "word": "狗狗疑被宠物店放烘干箱一小时烤死",
-      "onboard_time": 1753274001,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151510,
       "num": 693796,
       "word": "谈恋爱要从朋友开始",
@@ -41331,14 +41379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151108,
-      "num": 160184,
-      "word": "一日店长",
-      "onboard_time": 1753280785,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 151079,
       "num": 151079,
       "word": "梁伟铿球包上全是labubu",
@@ -41449,6 +41489,14 @@
       "onboard_time": 1751636246,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150722,
+      "num": 150722,
+      "word": "只有这样的外卖才配收我的打包费",
+      "onboard_time": 1753282710,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 150686,
@@ -46875,6 +46923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136106,
+      "num": 136106,
+      "word": "女子为减肥连续晒背9天导致肾衰竭",
+      "onboard_time": 1753284632,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136081,
       "num": 186198,
       "word": "王源说的是谁好难猜啊",
@@ -48401,6 +48457,14 @@
       "onboard_time": 1752822681,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132244,
+      "num": 166452,
+      "word": "民警去理发一眼认出Tony该拘",
+      "onboard_time": 1753282891,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132220,
@@ -50771,6 +50835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 126968,
+      "num": 126968,
+      "word": "9.9元假银饰致癌物超标1179倍",
+      "onboard_time": 1753284033,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126966,
       "num": 186203,
       "word": "律师称强吻男孩致水痘或涉故意伤害",
@@ -50952,6 +51024,14 @@
       "word": "逼停120和119徒步团有近10年历史",
       "onboard_time": 1752839182,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126688,
+      "num": 126688,
+      "word": "小伙救起一家三口后不幸溺亡",
+      "onboard_time": 1753284393,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -51513,6 +51593,14 @@
       "onboard_time": 1753197082,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125274,
+      "num": 125274,
+      "word": "上海申花10比11河南队",
+      "onboard_time": 1753282233,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125273,
@@ -52281,6 +52369,14 @@
       "onboard_time": 1751898985,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123560,
+      "num": 123560,
+      "word": "95后掏粪工上班开粪车下班开奔驰",
+      "onboard_time": 1753284693,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123558,
@@ -65267,6 +65363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89775,
+      "num": 141211,
+      "word": "AI暴走日本网民破大防",
+      "onboard_time": 1753283732,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89706,
       "num": 89706,
       "word": "vkg夺冠",
@@ -66883,6 +66987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82016,
+      "num": 126723,
+      "word": "山姆有机大豆质量1级降到3级",
+      "onboard_time": 1753284093,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81944,
       "num": 81944,
       "word": "提供情绪价值是了不起的能力",
@@ -67513,6 +67625,14 @@
       "onboard_time": 1752401780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77132,
+      "num": 392971,
+      "word": "母亲回应儿子放弃重点高中读中职",
+      "onboard_time": 1753283615,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77078,
@@ -71020,7 +71140,7 @@
     },
     {
       "raw_hot": 55633,
-      "num": 783539,
+      "num": 919721,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,
@@ -71329,6 +71449,14 @@
       "onboard_time": 1752731001,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 53336,
+      "num": 141748,
+      "word": "求职者问工作时间被HR嘲讽水平一般",
+      "onboard_time": 1753284693,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53263,
@@ -74601,6 +74729,14 @@
       "onboard_time": 1753204578,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34757,
+      "num": 166454,
+      "word": "房子还没交付业主做PPT反映问题",
+      "onboard_time": 1753282891,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34687,

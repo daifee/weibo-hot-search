@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/23 22:49:03
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/23 23:31:53
 </p>
 </blockquote>
 <p>
@@ -401,6 +401,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E6%81%8B%E6%83%85%23" target="weibo">
 赵丽颖新恋情（热度：12882219）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%BC%81%E4%B8%9A%E5%8F%82%E8%A7%82%E5%AD%A6%E4%B9%A0%E6%97%B6%E6%BA%BA%E4%BA%A1%23" target="weibo">
+6名大学生在企业参观学习时溺亡（热度：12863672）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E8%B6%85%E6%88%98%E7%8B%BC2%23" target="weibo">
 哪吒2票房超战狼2（热度：3710052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E5%AE%98%E6%96%B9%E7%A7%B0%E6%9C%BA%E5%8A%A8%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%82%87%E4%BA%8B%E8%80%85%E8%A2%AB%E6%8E%A7%E5%88%B6%23" target="weibo">
-昆明官方称机动车撞人肇事者被控制（热度：3706489）
 </a>
 </li>
 

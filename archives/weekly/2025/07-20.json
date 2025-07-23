@@ -1,7 +1,15 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753282143577,
+  "endTime": 1753284713846,
   "band_list": [
+    {
+      "raw_hot": 12863672,
+      "num": 12863672,
+      "word": "6名大学生在企业参观学习时溺亡",
+      "onboard_time": 1753281086,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 9992140,
       "num": 9992140,
@@ -41,14 +49,6 @@
       "onboard_time": 1753013605,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 3204631,
-      "num": 3204631,
-      "word": "6名大学生在企业参观学习时溺亡",
-      "onboard_time": 1753281086,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3171608,
@@ -267,6 +267,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 1506741,
+      "num": 597838,
+      "word": "东北大学",
+      "onboard_time": 1753281446,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1463203,
       "num": 1463203,
       "word": "租房新规来了",
@@ -409,6 +417,14 @@
       "onboard_time": 1753245682,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1241355,
+      "num": 1241355,
+      "word": "汪峰 服死了",
+      "onboard_time": 1753275683,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1225901,
@@ -607,14 +623,6 @@
       "num": 1148905,
       "word": "服务员当面倒入罐装可乐一杯卖50元",
       "onboard_time": 1753272081,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 984654,
-      "num": 587627,
-      "word": "东北大学",
-      "onboard_time": 1753281446,
       "rank": 3,
       "category": "民生新闻"
     },
@@ -1241,14 +1249,6 @@
       "onboard_time": 1753142120,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 635919,
-      "num": 635919,
-      "word": "汪峰 服死了",
-      "onboard_time": 1753275683,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 635481,
@@ -1961,6 +1961,14 @@
       "onboard_time": 1753158502,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 471375,
+      "num": 471375,
+      "word": "浮选槽",
+      "onboard_time": 1753281507,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470297,
@@ -2827,6 +2835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 335067,
+      "num": 335067,
+      "word": "T1向Zeus正式道歉",
+      "onboard_time": 1753282770,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 333918,
       "num": 274287,
       "word": "布拉德皮特 刘亦菲优选",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1753173381,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327691,
+      "num": 223954,
+      "word": "每天吃1根玉米身体会有什么变化",
+      "onboard_time": 1753277904,
+      "rank": 43,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 327117,
@@ -3385,14 +3409,6 @@
       "onboard_time": 1752982941,
       "rank": 19,
       "category": "议题讨论,民生新闻"
-    },
-    {
-      "raw_hot": 276847,
-      "num": 223954,
-      "word": "每天吃1根玉米身体会有什么变化",
-      "onboard_time": 1753277904,
-      "rank": 43,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 276780,
@@ -4371,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211657,
+      "num": 211657,
+      "word": "时代少年团彩排",
+      "onboard_time": 1753284213,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211468,
       "num": 211468,
       "word": "大学四年健身杀死了我的自卑",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1753016065,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207897,
+      "num": 224842,
+      "word": "辛迪瑞拉",
+      "onboard_time": 1753281386,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 207104,
@@ -4619,6 +4651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203139,
+      "num": 203139,
+      "word": "一日店长",
+      "onboard_time": 1753280785,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202680,
       "num": 212490,
       "word": "李一桐刘宇宁书卷一梦庆功宴",
@@ -4697,14 +4737,6 @@
       "onboard_time": 1753236621,
       "rank": 9,
       "category": "国际时政,健康医疗"
-    },
-    {
-      "raw_hot": 200781,
-      "num": 200781,
-      "word": "浮选槽",
-      "onboard_time": 1753281507,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200724,
@@ -5177,14 +5209,6 @@
       "onboard_time": 1753012703,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187137,
-      "num": 224842,
-      "word": "辛迪瑞拉",
-      "onboard_time": 1753281386,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 187128,
@@ -6123,6 +6147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "毕雯珺太帅了",
+      "onboard_time": 1753281265,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166879,
       "num": 166879,
       "word": "3岁男童从18楼坠落多个内脏破损",
@@ -6145,6 +6177,14 @@
       "onboard_time": 1753268301,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166452,
+      "num": 166451,
+      "word": "狗狗疑被宠物店放烘干箱一小时烤死",
+      "onboard_time": 1753274001,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166305,
@@ -6177,14 +6217,6 @@
       "onboard_time": 1753023564,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165568,
-      "num": 165568,
-      "word": "毕雯珺太帅了",
-      "onboard_time": 1753281265,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 165550,
@@ -6233,6 +6265,14 @@
       "onboard_time": 1753012585,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 164381,
+      "num": 166699,
+      "word": "鹿晗与穿越火线主创合照",
+      "onboard_time": 1753282831,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 164235,
@@ -6465,6 +6505,14 @@
       "onboard_time": 1752986181,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159405,
+      "num": 159405,
+      "word": "招考院回应389分捡漏郑州大学",
+      "onboard_time": 1753283492,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 158995,
@@ -6707,6 +6755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153920,
+      "num": 153920,
+      "word": "懂车帝测试",
+      "onboard_time": 1753284153,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153782,
       "num": 153782,
       "word": "特斯拉销量冠军因SU7加了定语",
@@ -6859,14 +6915,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151588,
-      "num": 151588,
-      "word": "狗狗疑被宠物店放烘干箱一小时烤死",
-      "onboard_time": 1753274001,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151509,
       "num": 151509,
       "word": "暴走团逼停救护车网友吵翻",
@@ -6923,14 +6971,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 151108,
-      "num": 160184,
-      "word": "一日店长",
-      "onboard_time": 1753280785,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 150904,
       "num": 150904,
       "word": "凡人修仙传OST阵容",
@@ -6969,6 +7009,14 @@
       "onboard_time": 1753101503,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150722,
+      "num": 150722,
+      "word": "只有这样的外卖才配收我的打包费",
+      "onboard_time": 1753282710,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 150625,
@@ -7827,6 +7875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136106,
+      "num": 136106,
+      "word": "女子为减肥连续晒背9天导致肾衰竭",
+      "onboard_time": 1753284632,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135954,
       "num": 135954,
       "word": "东航一客机因起落架销未拔返航",
@@ -8089,6 +8145,14 @@
       "onboard_time": 1753263682,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132244,
+      "num": 166452,
+      "word": "民警去理发一眼认出Tony该拘",
+      "onboard_time": 1753282891,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132146,
@@ -8475,6 +8539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126968,
+      "num": 126968,
+      "word": "9.9元假银饰致癌物超标1179倍",
+      "onboard_time": 1753284033,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126959,
       "num": 143714,
       "word": "孙杨祝豆姐生日快乐",
@@ -8521,6 +8593,14 @@
       "onboard_time": 1753253422,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126688,
+      "num": 126688,
+      "word": "小伙救起一家三口后不幸溺亡",
+      "onboard_time": 1753284393,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126606,
@@ -8633,6 +8713,14 @@
       "onboard_time": 1753197082,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125274,
+      "num": 125274,
+      "word": "上海申花10比11河南队",
+      "onboard_time": 1753282233,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125217,
@@ -8777,6 +8865,14 @@
       "onboard_time": 1753080681,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123560,
+      "num": 123560,
+      "word": "95后掏粪工上班开粪车下班开奔驰",
+      "onboard_time": 1753284693,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123039,
@@ -11035,6 +11131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89775,
+      "num": 141211,
+      "word": "AI暴走日本网民破大防",
+      "onboard_time": 1753283732,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89662,
       "num": 89662,
       "word": "宋亚轩加冠礼演唱会联排影像",
@@ -11283,6 +11387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82016,
+      "num": 126723,
+      "word": "山姆有机大豆质量1级降到3级",
+      "onboard_time": 1753284093,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81726,
       "num": 81726,
       "word": "中国人形机器人足球世界杯首冠",
@@ -11353,6 +11465,14 @@
       "onboard_time": 1752939023,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77132,
+      "num": 392971,
+      "word": "母亲回应儿子放弃重点高中读中职",
+      "onboard_time": 1753283615,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77078,
@@ -11956,7 +12076,7 @@
     },
     {
       "raw_hot": 55633,
-      "num": 783539,
+      "num": 919721,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,
@@ -12001,6 +12121,14 @@
       "onboard_time": 1753161082,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53336,
+      "num": 141748,
+      "word": "求职者问工作时间被HR嘲讽水平一般",
+      "onboard_time": 1753284693,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52918,
@@ -12593,6 +12721,14 @@
       "onboard_time": 1753204578,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34757,
+      "num": 166454,
+      "word": "房子还没交付业主做PPT反映问题",
+      "onboard_time": 1753282891,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34687,

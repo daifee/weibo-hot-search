@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753282143577,
+  "endTime": 1753284713846,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -521,6 +521,14 @@
       "onboard_time": 1747198647,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12863672,
+      "num": 12863672,
+      "word": "6名大学生在企业参观学习时溺亡",
+      "onboard_time": 1753281086,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12853710,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738813524,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3706489,
-      "num": 343736,
-      "word": "昆明官方称机动车撞人肇事者被控制",
-      "onboard_time": 1753067421,
-      "rank": 10,
-      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [
