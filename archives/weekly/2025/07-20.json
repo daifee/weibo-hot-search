@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753306966896,
+  "endTime": 1753309676510,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -12619,6 +12619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41516,
+      "num": 41516,
+      "word": "赵本山女儿球球回应为何不当明星",
+      "onboard_time": 1753308435,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40930,
       "num": 235429,
       "word": "外国人带打火机候机有无区别对待",
@@ -12753,6 +12761,14 @@
       "onboard_time": 1753277904,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37264,
+      "num": 37264,
+      "word": "玩切水果不小心把老板切了",
+      "onboard_time": 1753306154,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 37227,
@@ -13489,14 +13505,6 @@
       "onboard_time": 1753208415,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14603,
-      "num": 22516,
-      "word": "玩切水果不小心把老板切了",
-      "onboard_time": 1753306154,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 13772,
