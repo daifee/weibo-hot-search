@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753244095439,
+  "endTime": 1753246778401,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -619,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 864166,
+      "num": 864166,
+      "word": "莲花楼",
+      "onboard_time": 1753243882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 863290,
       "num": 863290,
       "word": "取14万给孩子结婚包红包银行报警",
@@ -1043,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632725,
+      "num": 632725,
+      "word": "旅游三千块钱定律",
+      "onboard_time": 1753243522,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 632294,
       "num": 632294,
       "word": "梓渝神图的诞生",
@@ -1299,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541552,
+      "num": 193901,
+      "word": "腾讯内部新规",
+      "onboard_time": 1753240762,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 535905,
       "num": 535905,
       "word": "日媒称首相石破茂将辞职",
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 535315,
-      "num": 214465,
+      "num": 252360,
       "word": "20岁女模拒绝发生关系被从高处扔下",
       "onboard_time": 1753232241,
       "rank": 21,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1752942620,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520203,
+      "num": 520203,
+      "word": "原来长胖55斤的面相变化这么大",
+      "onboard_time": 1753243522,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 518752,
@@ -1875,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412294,
+      "num": 412294,
+      "word": "敖瑞鹏说入圈后幸福感降低",
+      "onboard_time": 1753242922,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411776,
       "num": 411776,
       "word": "苏超常州vs徐州",
@@ -1979,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389609,
+      "num": 389609,
+      "word": "朴彩英跳错",
+      "onboard_time": 1753243041,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 389469,
       "num": 424830,
       "word": "校园配餐首个国家标准发布",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1753182440,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385016,
+      "num": 385016,
+      "word": "于正拒签爆火七七为何炸锅",
+      "onboard_time": 1753245682,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 381654,
@@ -2337,14 +2393,6 @@
       "onboard_time": 1752978979,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335850,
-      "num": 141645,
-      "word": "腾讯内部新规",
-      "onboard_time": 1753240762,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 335086,
@@ -2739,14 +2787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 289531,
-      "num": 211079,
-      "word": "敖瑞鹏说入圈后幸福感降低",
-      "onboard_time": 1753242922,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289195,
       "num": 289195,
       "word": "光与夜之恋戒指",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1753164021,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284203,
+      "num": 393865,
+      "word": "当985大学教授沉迷短剧",
+      "onboard_time": 1753243882,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284117,
@@ -2913,14 +2961,6 @@
       "onboard_time": 1752991461,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270361,
-      "num": 270361,
-      "word": "朴彩英跳错",
-      "onboard_time": 1753243041,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 269947,
@@ -3259,6 +3299,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 237573,
+      "num": 237573,
+      "word": "你好 我是练习生汪硕",
+      "onboard_time": 1753245742,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237120,
       "num": 256281,
       "word": "李现谈两部芳华里的中式美学",
@@ -3369,6 +3417,14 @@
       "onboard_time": 1753059321,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229678,
+      "num": 229678,
+      "word": "杨幂演技",
+      "onboard_time": 1753245381,
+      "rank": 24,
+      "category": "作品衍生,电影"
     },
     {
       "raw_hot": 229609,
@@ -3545,6 +3601,14 @@
       "onboard_time": 1752935303,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216979,
+      "num": 216979,
+      "word": "咖啡 护肝",
+      "onboard_time": 1753244844,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 216951,
@@ -3841,6 +3905,14 @@
       "onboard_time": 1753080203,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205664,
+      "num": 205664,
+      "word": "伊能静三伏天瘦身法",
+      "onboard_time": 1753246222,
+      "rank": 28,
+      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 205113,
@@ -4233,6 +4305,14 @@
       "onboard_time": 1753007301,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191654,
+      "num": 191654,
+      "word": "王楚钦说基本屏蔽了所有社交软件",
+      "onboard_time": 1753244962,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191253,
@@ -4811,6 +4891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175945,
+      "num": 175945,
+      "word": "宁艺卓费加罗七月刊封面",
+      "onboard_time": 1753246162,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175790,
       "num": 175790,
       "word": "世界之外召唤之王",
@@ -5299,6 +5387,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164209,
+      "num": 164209,
+      "word": "杨瀚森无缘夏联最佳阵容",
+      "onboard_time": 1753245442,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164030,
+      "num": 164030,
+      "word": "螺蛳粉定律",
+      "onboard_time": 1753242502,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164027,
       "num": 164027,
       "word": "常州龙想偷袭徐州龙",
@@ -5411,14 +5515,6 @@
       "category": "民生新闻,母婴育儿"
     },
     {
-      "raw_hot": 160887,
-      "num": 136625,
-      "word": "旅游三千块钱定律",
-      "onboard_time": 1753243522,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 160787,
       "num": 182393,
       "word": "无预警公开的NewJeans",
@@ -5457,14 +5553,6 @@
       "onboard_time": 1753167862,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160403,
-      "num": 133237,
-      "word": "原来长胖55斤的面相变化这么大",
-      "onboard_time": 1753243522,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 160336,
@@ -5691,6 +5779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154704,
+      "num": 424426,
+      "word": "封关后去海南无需额外办证件",
+      "onboard_time": 1753245624,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153782,
       "num": 153782,
       "word": "特斯拉销量冠军因SU7加了定语",
@@ -5787,11 +5883,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152450,
+      "num": 297941,
+      "word": "爱蹲的人有好运气",
+      "onboard_time": 1753243882,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152341,
       "num": 191650,
       "word": "王一博接荔",
       "onboard_time": 1752974001,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 152083,
+      "num": 152083,
+      "word": "大鹏本想让李雪琴演杨贵妃",
+      "onboard_time": 1753246582,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -6011,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147999,
+      "num": 147999,
+      "word": "微信实时对讲功能已下线",
+      "onboard_time": 1753244062,
+      "rank": 47,
+      "category": "互联网,互联网"
+    },
+    {
       "raw_hot": 147986,
       "num": 147986,
       "word": "原神流浪者",
@@ -6025,6 +6145,14 @@
       "onboard_time": 1752981921,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147606,
+      "num": 147606,
+      "word": "被赵今麦的小窃喜钓得翘嘴了",
+      "onboard_time": 1753246282,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 147505,
@@ -6161,14 +6289,6 @@
       "onboard_time": 1753156521,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 144946,
-      "num": 144946,
-      "word": "莲花楼",
-      "onboard_time": 1753243882,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 144759,
@@ -6313,14 +6433,6 @@
       "onboard_time": 1753077082,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141370,
-      "num": 137316,
-      "word": "当985大学教授沉迷短剧",
-      "onboard_time": 1753243882,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141352,
@@ -6553,6 +6665,14 @@
       "onboard_time": 1753074923,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137507,
+      "num": 137507,
+      "word": "高瀚宇跳likejennie",
+      "onboard_time": 1753245381,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 137402,
@@ -7524,7 +7644,7 @@
     },
     {
       "raw_hot": 119778,
-      "num": 119778,
+      "num": 859796,
       "word": "租房9个糟心事有了新规定",
       "onboard_time": 1753169540,
       "rank": 41,
@@ -7537,6 +7657,14 @@
       "onboard_time": 1753111702,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119585,
+      "num": 119585,
+      "word": "孙菲菲曝张汉杰霸凌内幕",
+      "onboard_time": 1753244844,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 119556,
@@ -7755,6 +7883,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116865,
+      "num": 194793,
+      "word": "赛里木湖景区对公厕问题道歉",
+      "onboard_time": 1753245083,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116703,
       "num": 143926,
       "word": "网友和鹿晗四年前合影",
@@ -7881,6 +8017,14 @@
       "onboard_time": 1753056081,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115307,
+      "num": 115307,
+      "word": "韩国打工人4500韩元餐标的午餐",
+      "onboard_time": 1753242922,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 115217,
@@ -8035,6 +8179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113181,
+      "num": 113181,
+      "word": "泡脚 祛湿",
+      "onboard_time": 1753246462,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113129,
       "num": 113129,
       "word": "花海说上不去王者了",
@@ -8065,14 +8217,6 @@
       "onboard_time": 1753087522,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112824,
-      "num": 112824,
-      "word": "螺蛳粉定律",
-      "onboard_time": 1753242502,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 112803,
@@ -8137,14 +8281,6 @@
       "onboard_time": 1752976461,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112226,
-      "num": 112226,
-      "word": "韩国打工人4500韩元餐标的午餐",
-      "onboard_time": 1753242922,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 112129,
@@ -8225,14 +8361,6 @@
       "onboard_time": 1752980961,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 110931,
-      "num": 110931,
-      "word": "微信实时对讲功能已下线",
-      "onboard_time": 1753244062,
-      "rank": 47,
-      "category": "互联网,互联网"
     },
     {
       "raw_hot": 110726,
@@ -9371,6 +9499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87838,
+      "num": 252992,
+      "word": "基孔肯雅热疫情易造成跨省传播",
+      "onboard_time": 1753245083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87682,
       "num": 87682,
       "word": "保罗加盟快船",
@@ -9684,7 +9820,7 @@
     },
     {
       "raw_hot": 74170,
-      "num": 74170,
+      "num": 211159,
       "word": "三伏天煮这种水补阳祛湿",
       "onboard_time": 1753227439,
       "rank": 36,
@@ -10203,14 +10339,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 54914,
-      "num": 140861,
-      "word": "爱蹲的人有好运气",
-      "onboard_time": 1753243882,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 54855,
       "num": 318698,
       "word": "多家航司去高跟鞋化",
@@ -10276,7 +10404,7 @@
     },
     {
       "raw_hot": 51969,
-      "num": 273864,
+      "num": 385088,
       "word": "用智搜分析看懂歌手2025",
       "onboard_time": 1753243283,
       "rank": 17,
@@ -11354,6 +11482,9 @@
     },
     {
       "word": "#总书记这些话语直抵人心#"
+    },
+    {
+      "word": "#总书记的大国城思#"
     }
   ]
 }

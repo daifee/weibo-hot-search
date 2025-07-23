@@ -1,0 +1,410 @@
+{
+  "runTime": 1753246778401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2867624,
+        "num": 2867624,
+        "word": "微信 后悔药",
+        "onboard_time": 1753241661,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 864166,
+        "num": 864166,
+        "word": "莲花楼",
+        "onboard_time": 1753243882,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 953,
+        "num": 859796,
+        "word": "租房9个糟心事有了新规定",
+        "onboard_time": 1753169540,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857852,
+        "num": 857852,
+        "word": "微信 对讲机",
+        "onboard_time": 1753231822,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 688601,
+        "num": 688601,
+        "word": "水果 脂肪肝",
+        "onboard_time": 1753236080,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 679371,
+        "num": 679371,
+        "word": "建议存款不要告诉任何人",
+        "onboard_time": 1753236621,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 632725,
+        "num": 632725,
+        "word": "旅游三千块钱定律",
+        "onboard_time": 1753243522,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 458774,
+        "num": 523983,
+        "word": "凡人修仙传定档",
+        "onboard_time": 1753241361,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520203,
+        "num": 520203,
+        "word": "原来长胖55斤的面相变化这么大",
+        "onboard_time": 1753243522,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154704,
+        "num": 424426,
+        "word": "封关后去海南无需额外办证件",
+        "onboard_time": 1753245624,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412294,
+        "num": 412294,
+        "word": "敖瑞鹏说入圈后幸福感降低",
+        "onboard_time": 1753242922,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265936,
+        "num": 400201,
+        "word": "海南自由贸易港封关12月18日启动",
+        "onboard_time": 1753238000,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284203,
+        "num": 393865,
+        "word": "当985大学教授沉迷短剧",
+        "onboard_time": 1753243882,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389609,
+        "num": 389609,
+        "word": "朴彩英跳错",
+        "onboard_time": 1753243041,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37610,
+        "num": 385088,
+        "word": "用智搜分析看懂歌手2025",
+        "onboard_time": 1753243283,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385016,
+        "num": 385016,
+        "word": "于正拒签爆火七七为何炸锅",
+        "onboard_time": 1753245682,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303978,
+        "num": 303978,
+        "word": "日媒称首相石破茂将辞职",
+        "onboard_time": 1753238841,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152450,
+        "num": 297941,
+        "word": "爱蹲的人有好运气",
+        "onboard_time": 1753243882,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293490,
+        "num": 293490,
+        "word": "素人变艺人需慎之又慎",
+        "onboard_time": 1753233020,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87838,
+        "num": 252992,
+        "word": "基孔肯雅热疫情易造成跨省传播",
+        "onboard_time": 1753245083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445536,
+        "num": 252360,
+        "word": "20岁女模拒绝发生关系被从高处扔下",
+        "onboard_time": 1753232241,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251720,
+        "num": 251720,
+        "word": "山姆App重新上架卫龙魔芋爽",
+        "onboard_time": 1753240580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237573,
+        "num": 237573,
+        "word": "你好 我是练习生汪硕",
+        "onboard_time": 1753245742,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236429,
+        "num": 236429,
+        "word": "汪峰一家与森林北一家同游日本",
+        "onboard_time": 1753234399,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229678,
+        "num": 229678,
+        "word": "杨幂演技",
+        "onboard_time": 1753245381,
+        "rank": 24,
+        "category": "作品衍生,电影"
+      },
+      {
+        "raw_hot": 221614,
+        "num": 221614,
+        "word": "乔任梁出道18周年父亲身穿粉色扫墓",
+        "onboard_time": 1753238902,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216979,
+        "num": 216979,
+        "word": "咖啡 护肝",
+        "onboard_time": 1753244844,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61516,
+        "num": 211159,
+        "word": "三伏天煮这种水补阳祛湿",
+        "onboard_time": 1753227439,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205664,
+        "num": 205664,
+        "word": "伊能静三伏天瘦身法",
+        "onboard_time": 1753246222,
+        "rank": 28,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 116865,
+        "num": 194793,
+        "word": "赛里木湖景区对公厕问题道歉",
+        "onboard_time": 1753245083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541552,
+        "num": 193901,
+        "word": "腾讯内部新规",
+        "onboard_time": 1753240762,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191654,
+        "num": 191654,
+        "word": "王楚钦说基本屏蔽了所有社交软件",
+        "onboard_time": 1753244962,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175945,
+        "num": 175945,
+        "word": "宁艺卓费加罗七月刊封面",
+        "onboard_time": 1753246162,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168993,
+        "num": 168993,
+        "word": "王楚钦分享面对压力自己心路历程",
+        "onboard_time": 1753237280,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165066,
+        "num": 165066,
+        "word": "特朗普称期待在不久的将来访问中国",
+        "onboard_time": 1753235539,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164209,
+        "num": 164209,
+        "word": "杨瀚森无缘夏联最佳阵容",
+        "onboard_time": 1753245442,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164030,
+        "num": 164030,
+        "word": "螺蛳粉定律",
+        "onboard_time": 1753242502,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160106,
+        "num": 160106,
+        "word": "我国平均每人每年吃近100斤西瓜",
+        "onboard_time": 1753230681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152083,
+        "num": 152083,
+        "word": "大鹏本想让李雪琴演杨贵妃",
+        "onboard_time": 1753246582,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147999,
+        "num": 147999,
+        "word": "微信实时对讲功能已下线",
+        "onboard_time": 1753244062,
+        "rank": 39,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 147606,
+        "num": 147606,
+        "word": "被赵今麦的小窃喜钓得翘嘴了",
+        "onboard_time": 1753246282,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144114,
+        "num": 144114,
+        "word": "Shanks谈Faker和Chovy谁厉害",
+        "onboard_time": 1753243462,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137507,
+        "num": 137507,
+        "word": "高瀚宇跳likejennie",
+        "onboard_time": 1753245381,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131747,
+        "num": 131747,
+        "word": "海南",
+        "onboard_time": 1753239981,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131583,
+        "num": 131583,
+        "word": "彩椒碗",
+        "onboard_time": 1753243582,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125172,
+        "num": 125172,
+        "word": "TIMA音乐大赏阵容",
+        "onboard_time": 1753240701,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123257,
+        "num": 123257,
+        "word": "世界之外",
+        "onboard_time": 1753236980,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119585,
+        "num": 119585,
+        "word": "孙菲菲曝张汉杰霸凌内幕",
+        "onboard_time": 1753244844,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115307,
+        "num": 115307,
+        "word": "韩国打工人4500韩元餐标的午餐",
+        "onboard_time": 1753242922,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113181,
+        "num": 113181,
+        "word": "泡脚 祛湿",
+        "onboard_time": 1753246462,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的大国城思#"
+    }
+  }
+}
