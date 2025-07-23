@@ -1,0 +1,410 @@
+{
+  "runTime": 1753255865344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605593,
+        "num": 1605593,
+        "word": "自提30个冰淇淋被蜜雪冰城店员阴阳",
+        "onboard_time": 1753252641,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1374366,
+        "num": 1374366,
+        "word": "微信 后悔药",
+        "onboard_time": 1753241661,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55006,
+        "num": 904605,
+        "word": "三伏天煮这种水补阳祛湿",
+        "onboard_time": 1753227439,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789244,
+        "num": 789244,
+        "word": "莲花楼",
+        "onboard_time": 1753243882,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644402,
+        "num": 644402,
+        "word": "于正拒签爆火七七为何炸锅",
+        "onboard_time": 1753245682,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405495,
+        "num": 405495,
+        "word": "卫健委回应4岁男童全麻拔乳牙身亡",
+        "onboard_time": 1753248441,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 590717,
+        "num": 393567,
+        "word": "奚梦瑶何猷君为赌王外孙女庆生",
+        "onboard_time": 1753252521,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580104,
+        "num": 384464,
+        "word": "吴姗儒向刘宇宁道歉",
+        "onboard_time": 1753251981,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365283,
+        "num": 365283,
+        "word": "月薪一万二双休和一万八单休怎么选",
+        "onboard_time": 1753253901,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166790,
+        "num": 357473,
+        "word": "蜜雪冰城回应自提30个冰淇淋被店员阴阳",
+        "onboard_time": 1753255101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1093603,
+        "num": 357378,
+        "word": "疆域阿力木塌房",
+        "onboard_time": 1753251022,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 367033,
+        "num": 357280,
+        "word": "韩国大学生对肖战当世赛大使的反应",
+        "onboard_time": 1753250061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357066,
+        "num": 357066,
+        "word": "才知道女性胸贴没有统一标准",
+        "onboard_time": 1753248441,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332228,
+        "num": 332228,
+        "word": "印度恢复向中国公民发放旅游签证",
+        "onboard_time": 1753252460,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302185,
+        "num": 302185,
+        "word": "四川一公职人员下班送外卖日挣百元",
+        "onboard_time": 1753249880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290904,
+        "num": 290904,
+        "word": "建议存款不要告诉任何人",
+        "onboard_time": 1753236621,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272289,
+        "num": 272289,
+        "word": "水果 脂肪肝",
+        "onboard_time": 1753236080,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260874,
+        "num": 260874,
+        "word": "咖啡 护肝",
+        "onboard_time": 1753244844,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252626,
+        "num": 252626,
+        "word": "大鹏本想让李雪琴演杨贵妃",
+        "onboard_time": 1753246582,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34830,
+        "num": 252226,
+        "word": "公职人员兼职送外卖凭啥不行",
+        "onboard_time": 1753255282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255320,
+        "num": 252111,
+        "word": "20岁女模拒绝发生关系被从高处扔下",
+        "onboard_time": 1753232241,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251848,
+        "num": 251848,
+        "word": "七七母亲被指吃相难看",
+        "onboard_time": 1753254501,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229936,
+        "num": 229936,
+        "word": "不要再玩月薪3000的梗了",
+        "onboard_time": 1753254861,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210840,
+        "num": 210840,
+        "word": "李栋旭老了好多",
+        "onboard_time": 1753255402,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206845,
+        "num": 206845,
+        "word": "上海3元面馆茅台论杯卖",
+        "onboard_time": 1753254382,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201259,
+        "num": 201259,
+        "word": "易烊千玺成都演唱会审批通过",
+        "onboard_time": 1753254982,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194681,
+        "num": 194681,
+        "word": "遂宁纪委回应公职人员兼职送外卖",
+        "onboard_time": 1753247781,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 192114,
+        "num": 192114,
+        "word": "田曦薇置顶合照微博给肖露庆生",
+        "onboard_time": 1753253901,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183772,
+        "num": 183772,
+        "word": "现在就出发",
+        "onboard_time": 1753252942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161089,
+        "num": 161089,
+        "word": "云南哀牢山现绝美丁达尔效应",
+        "onboard_time": 1753246883,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182647,
+        "num": 160085,
+        "word": "迪士尼随地吸烟小便",
+        "onboard_time": 1753253002,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150394,
+        "num": 150394,
+        "word": "无限暖暖国风",
+        "onboard_time": 1753255042,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147706,
+        "num": 147706,
+        "word": "为什么很难取悦单身很久的人",
+        "onboard_time": 1753253661,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146190,
+        "num": 146190,
+        "word": "韩女子独自育儿抑郁杀害双胞胎女儿",
+        "onboard_time": 1753255402,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143665,
+        "num": 143665,
+        "word": "敖瑞鹏说入圈后幸福感降低",
+        "onboard_time": 1753242922,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138133,
+        "num": 138133,
+        "word": "女子辅助生殖手术失败九次未要到孩子",
+        "onboard_time": 1753247422,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129566,
+        "num": 129566,
+        "word": "于正说的各家都在防爆的演员是谁",
+        "onboard_time": 1753254982,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 127663,
+        "word": "黄圣依教育儿子不要用讨好赢得友谊",
+        "onboard_time": 1753250781,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125748,
+        "num": 125748,
+        "word": "素人变艺人需慎之又慎",
+        "onboard_time": 1753233020,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124314,
+        "num": 124314,
+        "word": "叙利亚街头行刑式处决",
+        "onboard_time": 1753252460,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42285,
+        "num": 123577,
+        "word": "聚会就是要人手一张照片啊",
+        "onboard_time": 1753252942,
+        "rank": 40,
+        "category": "数码,休闲"
+      },
+      {
+        "raw_hot": 59654,
+        "num": 123333,
+        "word": "孙俪嘉人八月刊封面",
+        "onboard_time": 1753253361,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123193,
+        "num": 123193,
+        "word": "我国平均每人每年吃近100斤西瓜",
+        "onboard_time": 1753230681,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119858,
+        "num": 119858,
+        "word": "旅游三千块钱定律",
+        "onboard_time": 1753243522,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117515,
+        "num": 117515,
+        "word": "溜肩和直角肩的区别",
+        "onboard_time": 1753248201,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114108,
+        "num": 114108,
+        "word": "朴彩英跳错",
+        "onboard_time": 1753243041,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113787,
+        "num": 113787,
+        "word": "多地图书馆批评放娃现象",
+        "onboard_time": 1753255522,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113578,
+        "num": 113578,
+        "word": "凡人修仙传定档",
+        "onboard_time": 1753241361,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111454,
+        "num": 111454,
+        "word": "内娱长红明星",
+        "onboard_time": 1753255824,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109769,
+        "num": 109769,
+        "word": "重庆姐弟坠亡案涉事房产拍卖",
+        "onboard_time": 1753255760,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的大国城思#"
+    }
+  }
+}
