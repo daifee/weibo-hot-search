@@ -1,6 +1,6 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753270889966,
+  "endTime": 1753275476163,
   "band_list": [
     {
       "raw_hot": 3019867,
@@ -73,6 +73,14 @@
       "onboard_time": 1753263024,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1289518,
+      "num": 245038,
+      "word": "卢昱晓机场被人敲头",
+      "onboard_time": 1753272743,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1247184,
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 673320,
+      "num": 673320,
+      "word": "压垮19岁男孩的只是910元的车费吗",
+      "onboard_time": 1753267101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 670150,
       "num": 560051,
       "word": "吴姗儒向刘宇宁道歉",
@@ -291,6 +307,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 567213,
+      "num": 567213,
+      "word": "服务员当面倒入罐装可乐一杯卖50元",
+      "onboard_time": 1753272081,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 567030,
+      "num": 567030,
+      "word": "女子不知父亲去世3个姑姑分掉遗产",
+      "onboard_time": 1753272442,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565388,
       "num": 565388,
       "word": "Jennie舞台态度",
@@ -323,14 +355,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 541317,
-      "num": 541317,
-      "word": "压垮19岁男孩的只是910元的车费吗",
-      "onboard_time": 1753267101,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 535905,
       "num": 535905,
       "word": "日媒称首相石破茂将辞职",
@@ -345,6 +369,14 @@
       "onboard_time": 1753232241,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 532967,
+      "num": 320739,
+      "word": "原来普通人一辈子的存款差不多是这样",
+      "onboard_time": 1753267762,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 528215,
@@ -379,20 +411,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494436,
+      "num": 494436,
+      "word": "李兰迪敖瑞鹏破万共创",
+      "onboard_time": 1753270342,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459288,
       "num": 459288,
       "word": "韩国大学生对肖战当世赛大使的反应",
       "onboard_time": 1753250061,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 455455,
-      "num": 386937,
-      "word": "李兰迪敖瑞鹏破万共创",
-      "onboard_time": 1753270342,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 449187,
@@ -403,12 +435,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 442634,
-      "num": 320739,
-      "word": "原来普通人一辈子的存款差不多是这样",
-      "onboard_time": 1753267762,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 436785,
+      "num": 251341,
+      "word": "1岁娃吃鸡蛋羹得了败血症",
+      "onboard_time": 1753268481,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436035,
@@ -483,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392802,
+      "num": 320184,
+      "word": "张元英疑似回应被臭到捂鼻",
+      "onboard_time": 1753265062,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389609,
       "num": 389609,
       "word": "朴彩英跳错",
       "onboard_time": 1753243041,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 388950,
+      "num": 229128,
+      "word": "Angelababy是仿妆博主的终点",
+      "onboard_time": 1753272262,
+      "rank": 14,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 381654,
@@ -505,6 +553,14 @@
       "onboard_time": 1753255760,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363143,
+      "num": 225408,
+      "word": "李兰迪敖瑞鹏破万拍立得",
+      "onboard_time": 1753270761,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 361395,
@@ -545,14 +601,6 @@
       "onboard_time": 1753194564,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 338477,
-      "num": 320184,
-      "word": "张元英疑似回应被臭到捂鼻",
-      "onboard_time": 1753265062,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 337588,
@@ -779,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251341,
-      "num": 251341,
-      "word": "1岁娃吃鸡蛋羹得了败血症",
-      "onboard_time": 1753268481,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243429,
       "num": 197227,
       "word": "于正 本人近照巨帅别羡慕",
@@ -857,6 +897,14 @@
       "onboard_time": 1753246222,
       "rank": 28,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 216278,
+      "num": 249355,
+      "word": "市监局回应上海和平饭店可乐卖50元",
+      "onboard_time": 1753274363,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215798,
@@ -931,14 +979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208793,
-      "num": 208793,
-      "word": "李兰迪敖瑞鹏破万拍立得",
-      "onboard_time": 1753270761,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208725,
       "num": 208725,
       "word": "海南",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1753265362,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 196005,
+      "num": 196005,
+      "word": "虞书欣给颖儿送了wakuku",
+      "onboard_time": 1753273102,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 195560,
@@ -1179,12 +1227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175459,
+      "num": 175459,
+      "word": "网红出轨粉丝意外产子不给抚养费",
+      "onboard_time": 1753274723,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174765,
       "num": 174765,
       "word": "上证指数逼近3600点",
       "onboard_time": 1753242682,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174121,
+      "num": 174121,
+      "word": "网友自曝麦当劳兼职偷吃被开除",
+      "onboard_time": 1753274663,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173563,
@@ -1315,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158080,
+      "num": 158080,
+      "word": "汪顺到新加坡说贼开心",
+      "onboard_time": 1753274962,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158050,
       "num": 158050,
       "word": "我国渔民打捞到了间谍窃密装置",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1753268662,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152984,
+      "num": 152984,
+      "word": "基孔肯雅热",
+      "onboard_time": 1753274902,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152450,
@@ -1443,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147576,
+      "num": 147576,
+      "word": "狗狗疑被宠物店放烘干箱一小时烤死",
+      "onboard_time": 1753274001,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146542,
       "num": 146542,
       "word": "山河四省开始抄河北文旅作业了",
@@ -1483,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142021,
+      "num": 142021,
+      "word": "原来减肥跟血型也有关系",
+      "onboard_time": 1753271123,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141352,
       "num": 141352,
       "word": "12306回应高铁商务座卫生脏乱",
@@ -1521,6 +1617,22 @@
       "onboard_time": 1753238241,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139190,
+      "num": 139190,
+      "word": "B站直播崩了",
+      "onboard_time": 1753272862,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 138976,
+      "num": 138976,
+      "word": "杨凯雯赵琦君婚纱照",
+      "onboard_time": 1753272921,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 138560,
@@ -1723,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126462,
+      "num": 154458,
+      "word": "嘘嘘给陆虎哄成陆狗了",
+      "onboard_time": 1753271901,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125600,
       "num": 125600,
       "word": "王一博被风吹乱的头发",
@@ -1761,6 +1881,14 @@
       "onboard_time": 1753258282,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122102,
+      "num": 122102,
+      "word": "中古项链 镍中毒",
+      "onboard_time": 1753271483,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 121932,
@@ -1811,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119384,
+      "num": 192967,
+      "word": "两年了莲花楼还是让我意难平",
+      "onboard_time": 1753275082,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119299,
       "num": 119299,
       "word": "错付车费索要无果后轻生家属发声",
@@ -1819,12 +1955,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119103,
+      "num": 119103,
+      "word": "确诊2659例记者探访收治医院",
+      "onboard_time": 1753274243,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118174,
+      "num": 118174,
+      "word": "智能眼镜 偷拍",
+      "onboard_time": 1753270402,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117926,
       "num": 117926,
       "word": "披荆斩棘二公录制",
       "onboard_time": 1753238780,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117829,
+      "num": 117829,
+      "word": "喝咖啡的黄金时段",
+      "onboard_time": 1753272682,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116017,
@@ -1915,11 +2075,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112891,
+      "num": 153338,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1753273583,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112709,
       "num": 163004,
       "word": "舒淇陈坤素颜合照",
       "onboard_time": 1753258402,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112331,
+      "num": 153046,
+      "word": "孙燕姿敷着面膜开启47岁",
+      "onboard_time": 1753271601,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1945,6 +2121,14 @@
       "onboard_time": 1753230800,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108264,
+      "num": 108264,
+      "word": "王源演唱会",
+      "onboard_time": 1753273401,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 107317,
@@ -1977,6 +2161,14 @@
       "onboard_time": 1753226058,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106198,
+      "num": 106198,
+      "word": "想看樊振东vs王楚钦还得等等",
+      "onboard_time": 1753273462,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 105659,
@@ -2027,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101784,
+      "num": 108579,
+      "word": "郑业成十年后再现李星云",
+      "onboard_time": 1753273583,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101564,
       "num": 101564,
       "word": "当我知道所有人最后都会死",
@@ -2049,14 +2249,6 @@
       "onboard_time": 1753248922,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 99811,
-      "num": 99811,
-      "word": "智能眼镜 偷拍",
-      "onboard_time": 1753270402,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 99011,
