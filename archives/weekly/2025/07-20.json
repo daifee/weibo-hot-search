@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753291711033,
+  "endTime": 1753292796934,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -12993,6 +12993,14 @@
       "onboard_time": 1753159703,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29973,
+      "num": 50420,
+      "word": "京东回应外卖自营店无堂食",
+      "onboard_time": 1753289962,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 29881,
