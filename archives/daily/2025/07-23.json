@@ -1,7 +1,15 @@
 {
   "startTime": 1753202179262,
-  "endTime": 1753259893138,
+  "endTime": 1753260799294,
   "band_list": [
+    {
+      "raw_hot": 3019867,
+      "num": 476157,
+      "word": "艺人张艺洋杀害16岁女友被枪决",
+      "onboard_time": 1753257982,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2998546,
       "num": 2998546,
@@ -9,14 +17,6 @@
       "onboard_time": 1753241661,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2723259,
-      "num": 470366,
-      "word": "艺人张艺洋杀害16岁女友被枪决",
-      "onboard_time": 1753257982,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1840826,
@@ -43,7 +43,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1304654,
+      "raw_hot": 1330333,
       "num": 1304654,
       "word": "月薪一万二双休和一万八单休怎么选",
       "onboard_time": 1753253901,
@@ -171,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 650237,
+      "num": 650237,
+      "word": "仅退款 AI图",
+      "onboard_time": 1753258882,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 616544,
+      "num": 458680,
+      "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
+      "onboard_time": 1753259124,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 607814,
       "num": 607814,
       "word": "玩CS从5楼坠亡男生即将高三",
@@ -227,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 556457,
+      "num": 556457,
+      "word": "糖尿病 烂苹果味",
+      "onboard_time": 1753257263,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 541552,
       "num": 193901,
       "word": "腾讯内部新规",
@@ -251,8 +275,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 520276,
-      "num": 520276,
+      "raw_hot": 528215,
+      "num": 528215,
       "word": "不要再玩月薪3000的梗了",
       "onboard_time": 1753254861,
       "rank": 22,
@@ -355,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 375109,
-      "num": 375109,
-      "word": "糖尿病 烂苹果味",
-      "onboard_time": 1753257263,
-      "rank": 11,
-      "category": "健康医疗"
+      "raw_hot": 374729,
+      "num": 374729,
+      "word": "重庆姐弟坠亡案涉事房产拍卖",
+      "onboard_time": 1753255760,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361395,
@@ -385,14 +409,6 @@
       "onboard_time": 1753238902,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353111,
-      "num": 353111,
-      "word": "重庆姐弟坠亡案涉事房产拍卖",
-      "onboard_time": 1753255760,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 346996,
@@ -484,19 +500,11 @@
     },
     {
       "raw_hot": 305799,
-      "num": 260753,
+      "num": 294822,
       "word": "七七母亲被指吃相难看",
       "onboard_time": 1753254501,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 303676,
-      "num": 303676,
-      "word": "仅退款 AI图",
-      "onboard_time": 1753258882,
-      "rank": 14,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 303392,
@@ -505,6 +513,14 @@
       "onboard_time": 1753247422,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297115,
+      "num": 297115,
+      "word": "微博文化交流之夜",
+      "onboard_time": 1753259783,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 292897,
@@ -521,6 +537,22 @@
       "onboard_time": 1753234880,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 289331,
+      "num": 289331,
+      "word": "妈妈否认七七接商演2小时酬劳8000元",
+      "onboard_time": 1753256061,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285488,
+      "num": 285488,
+      "word": "Uzi得二胎",
+      "onboard_time": 1753259182,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 281011,
@@ -547,20 +579,20 @@
       "category": "作品衍生,电影"
     },
     {
-      "raw_hot": 263459,
-      "num": 263459,
-      "word": "妈妈否认七七接商演2小时酬劳8000元",
-      "onboard_time": 1753256061,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256244,
-      "num": 260773,
+      "num": 437990,
       "word": "内娱长红明星",
       "onboard_time": 1753255824,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255738,
+      "num": 255738,
+      "word": "我国是世界公认最安全国家之一",
+      "onboard_time": 1753257143,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243429,
@@ -592,14 +624,6 @@
       "word": "你好 我是练习生汪硕",
       "onboard_time": 1753245742,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 237071,
-      "num": 237071,
-      "word": "吴宗宪承认女儿踩刘宇宁照片不妥",
-      "onboard_time": 1753259124,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -641,6 +665,14 @@
       "onboard_time": 1753246222,
       "rank": 28,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 215510,
+      "num": 405708,
+      "word": "白敬亭抱范丞丞",
+      "onboard_time": 1753259721,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 214729,
@@ -707,26 +739,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206974,
-      "num": 206974,
-      "word": "Uzi得二胎",
-      "onboard_time": 1753259182,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 206845,
       "num": 206845,
       "word": "上海3元面馆茅台论杯卖",
       "onboard_time": 1753254382,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202454,
-      "num": 246979,
-      "word": "我国是世界公认最安全国家之一",
-      "onboard_time": 1753257143,
       "rank": 24,
       "category": "民生新闻"
     },
@@ -923,6 +939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174144,
+      "num": 418125,
+      "word": "毕雯珺颜值",
+      "onboard_time": 1753257742,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173563,
       "num": 173563,
       "word": "无限暖暖国风",
@@ -939,28 +963,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 170618,
+      "num": 170618,
+      "word": "多地图书馆批评放娃现象",
+      "onboard_time": 1753255522,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168931,
       "num": 168931,
       "word": "A股震荡回落缩量284亿",
       "onboard_time": 1753256122,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 168565,
-      "num": 168565,
-      "word": "微博文化交流之夜",
-      "onboard_time": 1753259783,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 167511,
-      "num": 167511,
-      "word": "毕雯珺颜值",
-      "onboard_time": 1753257742,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 164209,
@@ -977,14 +993,6 @@
       "onboard_time": 1753242502,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 162990,
-      "num": 162990,
-      "word": "多地图书馆批评放娃现象",
-      "onboard_time": 1753255522,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161904,
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 154704,
-      "num": 424426,
+      "num": 663028,
       "word": "封关后去海南无需额外办证件",
       "onboard_time": 1753245624,
       "rank": 9,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1753257143,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149582,
+      "num": 149582,
+      "word": "王楚然刚来密逃就玩这么大",
+      "onboard_time": 1753260323,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 147999,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1753257801,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 140558,
-      "num": 192882,
-      "word": "白敬亭抱范丞丞",
-      "onboard_time": 1753259721,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 139559,
@@ -1323,6 +1331,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125097,
+      "num": 148402,
+      "word": "退机票被扣1700女子觉得没人情味",
+      "onboard_time": 1753260262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124683,
+      "num": 124683,
+      "word": "蔡依林称自己单身",
+      "onboard_time": 1753260503,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124600,
       "num": 124600,
       "word": "山姆 转基因",
@@ -1355,6 +1379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120487,
+      "num": 120487,
+      "word": "日本网民大呼完了",
+      "onboard_time": 1753260682,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120239,
       "num": 120239,
       "word": "张继科办赛前曾和马龙樊振东联系",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1753242982,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120139,
+      "num": 883832,
+      "word": "2025新疆网络文明大会",
+      "onboard_time": 1753259843,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119585,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1753238780,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117897,
+      "num": 117897,
+      "word": "男子让女儿跪超市门口扇巴掌",
+      "onboard_time": 1753259423,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116017,
@@ -1619,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90669,
+      "num": 163115,
+      "word": "汤唯和老公新疆骑马",
+      "onboard_time": 1753259783,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90212,
       "num": 90212,
       "word": "下班后送外卖成新型情侣约会方式",
@@ -1643,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84406,
+      "num": 220277,
+      "word": "韩女子咬断性侵者舌头61年后获无罪",
+      "onboard_time": 1753259483,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83648,
       "num": 83648,
       "word": "一批新大学分数线超985",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1753194322,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82990,
-      "num": 163115,
-      "word": "汤唯和老公新疆骑马",
-      "onboard_time": 1753259783,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 82950,
@@ -1721,14 +1777,6 @@
       "onboard_time": 1753227439,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 72480,
-      "num": 206983,
-      "word": "韩女子咬断性侵者舌头61年后获无罪",
-      "onboard_time": 1753259483,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 71774,
@@ -1923,12 +1971,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42794,
+      "num": 489579,
+      "word": "多个印度空难遇难者遗体被送错",
+      "onboard_time": 1753259483,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42285,
       "num": 123577,
       "word": "聚会就是要人手一张照片啊",
       "onboard_time": 1753252942,
       "rank": 40,
       "category": "数码,休闲"
+    },
+    {
+      "raw_hot": 38651,
+      "num": 382667,
+      "word": "不出境4个月拿海外文凭灰产调查",
+      "onboard_time": 1753259544,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38418,
@@ -2019,14 +2083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23028,
-      "num": 260756,
-      "word": "不出境4个月拿海外文凭灰产调查",
-      "onboard_time": 1753259544,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 22494,
       "num": 22494,
       "word": "见义勇为被害家属讲述庭审过程",
@@ -2041,14 +2097,6 @@
       "onboard_time": 1753237881,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 19163,
-      "num": 247006,
-      "word": "多个印度空难遇难者遗体被送错",
-      "onboard_time": 1753259483,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18467,
@@ -2083,14 +2131,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 5950,
-      "num": 883832,
-      "word": "2025新疆网络文明大会",
-      "onboard_time": 1753259843,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 953,
       "num": 859796,
       "word": "租房9个糟心事有了新规定",
@@ -2105,6 +2145,9 @@
     },
     {
       "word": "#总书记的大国城思#"
+    },
+    {
+      "word": "#一切着眼于便民利民安民#"
     }
   ]
 }
