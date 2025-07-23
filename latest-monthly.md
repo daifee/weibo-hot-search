@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/23 18:31:28
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/23 18:49:32
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ AL零封T1（热度：2631639）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E6%B7%98%E6%B1%B0%23" target="weibo">
 GAI淘汰（热度：2359704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%9D%AD%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%BC%82%E5%91%B3%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
+余杭自来水异味调查情况（热度：2331512）
 </a>
 </li>
 
@@ -4607,12 +4613,6 @@ K1373次列车亲历者称当时已有人中暑（热度：734592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%96%91%E8%A2%AB%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%A3%AB%E6%AE%B4%E6%89%93%23" target="weibo">
 上海交大学生疑被校外人士殴打（热度：727425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%9D%AD%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%BC%82%E5%91%B3%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
-余杭自来水异味调查情况（热度：727274）
 </a>
 </li>
 

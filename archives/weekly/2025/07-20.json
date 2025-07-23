@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753266688686,
+  "endTime": 1753267772900,
   "band_list": [
     {
       "raw_hot": 9992140,
@@ -105,6 +105,14 @@
       "onboard_time": 1752979100,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2331512,
+      "num": 2331512,
+      "word": "余杭自来水异味调查情况",
+      "onboard_time": 1753264402,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 2178759,
@@ -907,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 727274,
-      "num": 1116363,
-      "word": "余杭自来水异味调查情况",
-      "onboard_time": 1753264402,
-      "rank": 0,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 725582,
       "num": 328132,
       "word": "森林北腿部大片淤青疑受伤",
@@ -1393,6 +1393,14 @@
       "onboard_time": 1753170200,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563300,
+      "num": 293600,
+      "word": "刘晓艳 预言家",
+      "onboard_time": 1753265062,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 559939,
@@ -2499,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353249,
+      "num": 353249,
+      "word": "自来水异味7人被严肃问责",
+      "onboard_time": 1753265422,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353013,
       "num": 353013,
       "word": "纪委监委对检测数据失真等全面调查",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1753173381,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327974,
+      "num": 270800,
+      "word": "丁程鑫金发",
+      "onboard_time": 1753266682,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 327117,
@@ -2995,6 +3019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 296942,
+      "num": 310425,
+      "word": "余杭受影响用户7月份水费全免",
+      "onboard_time": 1753265843,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 296846,
       "num": 296846,
       "word": "台风韦帕登陆范围再次西移",
@@ -3017,14 +3049,6 @@
       "onboard_time": 1753086202,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293600,
-      "num": 293600,
-      "word": "刘晓艳 预言家",
-      "onboard_time": 1753265062,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 292978,
@@ -3200,6 +3224,14 @@
       "word": "肯德基回应老人占座打牌顾客站着",
       "onboard_time": 1753079482,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276231,
+      "num": 276231,
+      "word": "规培护士自杀事件背后",
+      "onboard_time": 1753264942,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3449,6 +3481,14 @@
       "onboard_time": 1753257143,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254877,
+      "num": 254877,
+      "word": "张元英疑似回应被臭到捂鼻",
+      "onboard_time": 1753265062,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 254764,
@@ -3787,6 +3827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225967,
+      "num": 294321,
+      "word": "浙江开始整治PPT",
+      "onboard_time": 1753263621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223530,
       "num": 223530,
       "word": "成都AG晋级胜者组决赛",
@@ -4051,6 +4099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214516,
+      "num": 214516,
+      "word": "张碧晨年轮原唱被取消",
+      "onboard_time": 1753267701,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214309,
       "num": 214309,
       "word": "梓渝媚粉的事顺手就干了",
@@ -4137,14 +4193,6 @@
       "onboard_time": 1753243582,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 210927,
-      "num": 210927,
-      "word": "规培护士自杀事件背后",
-      "onboard_time": 1753264942,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210871,
@@ -4275,14 +4323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205907,
-      "num": 205907,
-      "word": "张元英疑似回应被臭到捂鼻",
-      "onboard_time": 1753265062,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205895,
       "num": 238876,
       "word": "赵露思ELLE杂志销量",
@@ -4372,19 +4412,11 @@
     },
     {
       "raw_hot": 202680,
-      "num": 211576,
+      "num": 212490,
       "word": "李一桐刘宇宁书卷一梦庆功宴",
       "onboard_time": 1753266143,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202381,
-      "num": 202381,
-      "word": "浙江开始整治PPT",
-      "onboard_time": 1753263621,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202239,
@@ -4859,14 +4891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188621,
-      "num": 207169,
-      "word": "自来水异味7人被严肃问责",
-      "onboard_time": 1753265422,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188441,
       "num": 188441,
       "word": "张韶涵演唱会嘉宾是春晚机器人",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1753161262,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178785,
+      "num": 214177,
+      "word": "孟子义素颜皮肤状态",
+      "onboard_time": 1753266382,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 178709,
@@ -5691,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169948,
+      "num": 169948,
+      "word": "外卖0元购首批受害者出现了",
+      "onboard_time": 1753266202,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169847,
       "num": 169847,
       "word": "EWC英雄联盟",
@@ -5939,6 +5979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163982,
+      "num": 163982,
+      "word": "王者荣耀",
+      "onboard_time": 1753266441,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163865,
       "num": 163865,
       "word": "韩网友 为什么要亲亲才会给我发货",
@@ -6017,14 +6065,6 @@
       "onboard_time": 1753083683,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161532,
-      "num": 205620,
-      "word": "孟子义素颜皮肤状态",
-      "onboard_time": 1753266382,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 161442,
@@ -6345,14 +6385,6 @@
       "onboard_time": 1753022545,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154749,
-      "num": 310425,
-      "word": "余杭受影响用户7月份水费全免",
-      "onboard_time": 1753265843,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 154736,
@@ -7676,7 +7708,7 @@
     },
     {
       "raw_hot": 131136,
-      "num": 131136,
+      "num": 209067,
       "word": "余杭自来水发黄因管壁锈层脱落",
       "onboard_time": 1753265961,
       "rank": 36,
@@ -7707,12 +7739,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130749,
+      "num": 130749,
+      "word": "压垮19岁男孩的只是910元的车费吗",
+      "onboard_time": 1753267101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130420,
       "num": 130420,
       "word": "家长点外卖让孩子呆图书馆一整天",
       "onboard_time": 1753257380,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130360,
+      "num": 211223,
+      "word": "律师解读旺仔小乔演唱会不露脸",
+      "onboard_time": 1753259003,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 130308,
@@ -7899,14 +7947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127833,
-      "num": 127833,
-      "word": "王者荣耀",
-      "onboard_time": 1753266441,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 127764,
       "num": 127764,
       "word": "日本女星中山麻理去世",
@@ -8049,14 +8089,6 @@
       "onboard_time": 1753171821,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125854,
-      "num": 202980,
-      "word": "律师解读旺仔小乔演唱会不露脸",
-      "onboard_time": 1753259003,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 125600,
@@ -8939,14 +8971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113918,
-      "num": 113918,
-      "word": "外卖0元购首批受害者出现了",
-      "onboard_time": 1753266202,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113884,
       "num": 113884,
       "word": "江西通报一未成年人校外被殴打",
@@ -9555,6 +9579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105532,
+      "num": 105532,
+      "word": "迪丽热巴新疆名片",
+      "onboard_time": 1753267101,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105518,
       "num": 105518,
       "word": "素颜张元英",
@@ -9803,6 +9835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101396,
+      "num": 101396,
+      "word": "减肥为什么减出脂肪肝",
+      "onboard_time": 1753264643,
+      "rank": 49,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 101354,
       "num": 101354,
       "word": "张予曦毕雯珺合唱Summerholiday",
@@ -9913,14 +9953,6 @@
       "onboard_time": 1753079422,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 98863,
-      "num": 98863,
-      "word": "减肥为什么减出脂肪肝",
-      "onboard_time": 1753264643,
-      "rank": 49,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 98728,
@@ -10067,6 +10099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95503,
+      "num": 126549,
+      "word": "杨幂长红近20年",
+      "onboard_time": 1753266143,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95208,
       "num": 95208,
       "word": "女骑手回应将女儿装外卖箱送外卖",
@@ -10105,6 +10145,14 @@
       "onboard_time": 1753180281,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94452,
+      "num": 94452,
+      "word": "第五人格",
+      "onboard_time": 1753266322,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 94428,
@@ -11203,6 +11251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57656,
+      "num": 259275,
+      "word": "余杭自来水总大肠菌群未检出",
+      "onboard_time": 1753266742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56978,
       "num": 58894,
       "word": "脱口秀和Ta的朋友们",
@@ -11387,6 +11443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50345,
+      "num": 110929,
+      "word": "于正说有兴趣和鞠婧祎合作",
+      "onboard_time": 1753267161,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50171,
       "num": 54780,
       "word": "站姐的风吹到了婚礼界",
@@ -11425,6 +11489,14 @@
       "onboard_time": 1752993141,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48204,
+      "num": 101494,
+      "word": "余杭水务报告异味时间严重滞后",
+      "onboard_time": 1753266682,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 47917,
@@ -11841,14 +11913,6 @@
       "onboard_time": 1753111883,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34998,
-      "num": 126549,
-      "word": "杨幂长红近20年",
-      "onboard_time": 1753266143,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 34790,
