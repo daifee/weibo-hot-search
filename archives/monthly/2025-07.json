@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753299588277,
+  "endTime": 1753302699186,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -78145,6 +78145,14 @@
       "onboard_time": 1752344297,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19201,
+      "num": 19201,
+      "word": "一场台风让民进党当局原形毕露",
+      "onboard_time": 1753299735,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19170,
