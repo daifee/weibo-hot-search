@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753361840586,
+  "endTime": 1753362773922,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1090388,
+      "num": 974908,
+      "word": "东北大学受伤老师坠落半空被救",
+      "onboard_time": 1753358483,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1062225,
       "num": 483045,
       "word": "东北大学一遇难男生堂妹发声",
@@ -208,14 +216,6 @@
       "word": "6名学生溺亡事件家属发声",
       "onboard_time": 1753348345,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 974908,
-      "num": 974908,
-      "word": "东北大学受伤老师坠落半空被救",
-      "onboard_time": 1753358483,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -267,7 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 716814,
+      "raw_hot": 736070,
       "num": 428495,
       "word": "阚清子老公是她的粉丝",
       "onboard_time": 1753358964,
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 543256,
+      "num": 534575,
+      "word": "临江仙庆功宴",
+      "onboard_time": 1753358242,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539585,
       "num": 392587,
       "word": "网评四大影帝幼年体",
@@ -435,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534575,
-      "num": 534575,
-      "word": "临江仙庆功宴",
-      "onboard_time": 1753358242,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 526203,
+      "num": 377992,
+      "word": "蔡依林已冻卵",
+      "onboard_time": 1753360224,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 524274,
@@ -571,6 +579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 404613,
+      "num": 289368,
+      "word": "刘轩丞发vlog",
+      "onboard_time": 1753361364,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386161,
       "num": 386161,
       "word": "顺德一村通知全村准时在家点蚊香",
@@ -593,14 +609,6 @@
       "onboard_time": 1753321104,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 377992,
-      "num": 377992,
-      "word": "蔡依林已冻卵",
-      "onboard_time": 1753360224,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 346499,
@@ -723,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302419,
+      "num": 506241,
+      "word": "中南大学通报谭某兵被举报",
+      "onboard_time": 1753358902,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 301958,
       "num": 301958,
       "word": "任嘉伦线下活动被人扔东西",
@@ -753,6 +769,14 @@
       "onboard_time": 1753338685,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289272,
+      "num": 289272,
+      "word": "谢娜辣评张杰不适合唱的歌",
+      "onboard_time": 1753361485,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 288049,
@@ -907,6 +931,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232783,
+      "num": 294857,
+      "word": "中南大学谭某兵被暂停工作",
+      "onboard_time": 1753360764,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 231422,
+      "num": 231422,
+      "word": "董璇小酒窝与沐言母女合照",
+      "onboard_time": 1753359025,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230548,
       "num": 307959,
       "word": "深情眼第八集",
@@ -937,14 +977,6 @@
       "onboard_time": 1753338984,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226673,
-      "num": 506241,
-      "word": "中南大学通报谭某兵被举报",
-      "onboard_time": 1753358902,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 226162,
@@ -1043,14 +1075,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 216883,
-      "num": 216883,
-      "word": "董璇小酒窝与沐言母女合照",
-      "onboard_time": 1753359025,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214238,
       "num": 214238,
       "word": "柬泰双方交火致大量学生平民受伤",
@@ -1067,14 +1091,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 213909,
-      "num": 213909,
-      "word": "刘轩丞发vlog",
-      "onboard_time": 1753361364,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213905,
       "num": 213905,
       "word": "其实花小钱也能过得很体面",
@@ -1088,6 +1104,14 @@
       "word": "成都天府机场一网约车失控",
       "onboard_time": 1753349123,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211257,
+      "num": 294734,
+      "word": "家属称遇难学生从小懂事努力考上985",
+      "onboard_time": 1753360344,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1187,6 +1211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 197573,
+      "num": 197573,
+      "word": "迪丽热巴花海红衣",
+      "onboard_time": 1753362324,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196884,
       "num": 196884,
       "word": "JDG对战iG",
@@ -1208,6 +1240,14 @@
       "word": "内娱重生剧已经癫成这样了",
       "onboard_time": 1753337007,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194344,
+      "num": 194344,
+      "word": "燕离岳凝亲都亲了别嘴硬了",
+      "onboard_time": 1753361485,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1267,6 +1307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191549,
+      "num": 191549,
+      "word": "起猛了看到丁禹兮帮化妆师挡太阳了",
+      "onboard_time": 1753361845,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190698,
+      "num": 190698,
+      "word": "张娜拉自曝因童颜感到压力",
+      "onboard_time": 1753360104,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190491,
       "num": 272586,
       "word": "朝雪录爱奇艺热度破10100",
@@ -1289,14 +1345,6 @@
       "onboard_time": 1753348705,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189461,
-      "num": 189461,
-      "word": "中南大学谭某兵被暂停工作",
-      "onboard_time": 1753360764,
-      "rank": 31,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 188238,
@@ -1361,22 +1409,6 @@
       "onboard_time": 1753345525,
       "rank": 32,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 183145,
-      "num": 189518,
-      "word": "张娜拉自曝因童颜感到压力",
-      "onboard_time": 1753360104,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 183068,
-      "num": 183068,
-      "word": "谢娜辣评张杰不适合唱的歌",
-      "onboard_time": 1753361485,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 183006,
@@ -1787,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156719,
+      "num": 156719,
+      "word": "B萌投票",
+      "onboard_time": 1753361905,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 156286,
       "num": 156286,
       "word": "33冰美式换成了中药",
@@ -1833,14 +1873,6 @@
       "onboard_time": 1753339407,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149394,
-      "num": 149394,
-      "word": "燕离岳凝亲都亲了别嘴硬了",
-      "onboard_time": 1753361485,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 148341,
@@ -2171,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123900,
+      "num": 123900,
+      "word": "深情眼直播",
+      "onboard_time": 1753361664,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123570,
       "num": 123570,
       "word": "张柏芝珠光宝气具象化",
@@ -2249,14 +2289,6 @@
       "onboard_time": 1753354943,
       "rank": 19,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 119338,
-      "num": 119338,
-      "word": "深情眼直播",
-      "onboard_time": 1753361664,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 119003,
@@ -2427,14 +2459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109473,
-      "num": 229442,
-      "word": "家属称遇难学生从小懂事努力考上985",
-      "onboard_time": 1753360344,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108150,
       "num": 108150,
       "word": "打心眼里喜欢这样的人",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1753321524,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106349,
+      "num": 106349,
+      "word": "代露娃直播疑似微醺",
+      "onboard_time": 1753359504,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 105981,
@@ -2545,6 +2577,14 @@
       "onboard_time": 1753326684,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101872,
+      "num": 101872,
+      "word": "明末致歉公告",
+      "onboard_time": 1753362743,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 101694,
@@ -2995,6 +3035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26121,
+      "num": 277447,
+      "word": "上海一镇招保洁需笔试面试引争议",
+      "onboard_time": 1753362145,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26116,
       "num": 492284,
       "word": "高考录取季警惕通知书陷阱",
@@ -3011,7 +3059,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3262,
+      "raw_hot": 3954,
       "num": 740691,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
