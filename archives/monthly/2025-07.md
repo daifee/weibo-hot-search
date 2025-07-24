@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/24 19:25:36
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/24 19:40:39
 </p>
 </blockquote>
 <p>
@@ -3219,6 +3219,12 @@ jump（热度：950362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BA%BA%E4%BA%A1%E5%AD%A6%E7%94%9F%E5%87%BA%E4%BA%8B%E5%89%8D%E7%BB%99%E6%9C%8B%E5%8F%8B%E5%8F%91%E6%A0%BC%E6%A0%85%E6%9D%BF%E8%A7%86%E9%A2%91%23" target="weibo">
+溺亡学生出事前给朋友发格栅板视频（热度：936278）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E7%89%A7%E6%89%8B%E6%9C%AF%E5%A4%B1%E8%B4%A5%E8%A2%AB%E5%8C%BB%E9%99%A2%E5%BC%80%E8%BD%A6%E6%92%9E%E6%AD%BB%23" target="weibo">
 边牧手术失败被医院开车撞死（热度：936142）
 </a>
@@ -4529,6 +4535,12 @@ T1对战AL（热度：778834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3%23" target="weibo">
 飞驰人生3（热度：757415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%BA%BA%E4%BA%A1%E6%B6%89%E4%BA%8B%E7%9F%BF%E4%BC%813%E4%BA%BA%E8%A2%AB%E6%8A%93%23" target="weibo">
+6名大学生溺亡涉事矿企3人被抓（热度：755956）
 </a>
 </li>
 
@@ -5985,6 +5997,12 @@ Angelababy巴黎时装周状态（热度：643550）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E9%81%93%E7%A7%B0%E8%A2%AB%E6%9C%B1%E5%AD%9D%E5%A4%A9%E5%88%A0%E5%A5%BD%E5%8F%8B%23" target="weibo">
+明道称被朱孝天删好友（热度：642484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%80%9B%E5%8A%A8%E7%89%A9%E5%9B%AD%23" target="weibo">
 王楚钦逛动物园（热度：642084）
 </a>
@@ -5993,24 +6011,6 @@ Angelababy巴黎时装周状态（热度：643550）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%860%E5%88%86%23" target="weibo">
 刘轩丞表情管理0分（热度：642005）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E6%96%87%E5%A9%A7%E4%BA%A7%E5%90%8E%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%23" target="weibo">
-包文婧产后情绪失控（热度：641845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E9%A6%86%E7%A7%B0%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%97%E4%BD%93%E6%8D%9F%E5%9D%8F%E4%B8%8D%E5%AE%9E%23" target="weibo">
-殡仪馆称网传大学生遗体损坏不实（热度：641704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8B%87%E6%96%97%E6%AD%B9%E5%BE%92%E5%B0%8F%E4%BC%99%E8%8E%B7%E8%AF%84%E5%85%A8%E5%9B%BD%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%8B%B1%E9%9B%84%23" target="weibo">
-勇斗歹徒小伙获评全国见义勇为英雄（热度：641473）
 </a>
 </li>
 

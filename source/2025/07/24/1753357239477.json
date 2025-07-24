@@ -1,0 +1,410 @@
+{
+  "runTime": 1753357239477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755956,
+        "num": 1120952,
+        "word": "6名大学生溺亡涉事矿企3人被抓",
+        "onboard_time": 1753356502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528217,
+        "num": 528217,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 1,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 17903,
+        "num": 464308,
+        "word": "国家医保目录药品数达3159种",
+        "onboard_time": 1753326385,
+        "rank": 2,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 444049,
+        "num": 444049,
+        "word": "樊振东王楚钦开心击掌",
+        "onboard_time": 1753351823,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369843,
+        "num": 369843,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298941,
+        "num": 298941,
+        "word": "内蒙古将提级调查6名学生溺亡",
+        "onboard_time": 1753345283,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294812,
+        "num": 294812,
+        "word": "时代少年团 偶像万万岁",
+        "onboard_time": 1753351943,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270603,
+        "num": 270603,
+        "word": "iG战胜JDG",
+        "onboard_time": 1753355302,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225671,
+        "num": 269946,
+        "word": "俄罗斯失事客机上有一名中国公民",
+        "onboard_time": 1753354943,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191647,
+        "num": 269396,
+        "word": "周一围想不到这里有这么多孟子义",
+        "onboard_time": 1753356383,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2000108,
+        "num": 268373,
+        "word": "阚清子官宣怀孕",
+        "onboard_time": 1753349545,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1293737,
+        "num": 267812,
+        "word": "30万存款定律",
+        "onboard_time": 1753352423,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 936278,
+        "num": 266398,
+        "word": "溺亡学生出事前给朋友发格栅板视频",
+        "onboard_time": 1753354823,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646932,
+        "num": 266251,
+        "word": "迪丽热巴吴磊 将门毒后",
+        "onboard_time": 1753346243,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102248,
+        "num": 264650,
+        "word": "东北大学6名学生溺亡事故最新调查",
+        "onboard_time": 1753356922,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188588,
+        "num": 264153,
+        "word": "R1SE咱还回内娱当男团吗",
+        "onboard_time": 1753356262,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642484,
+        "num": 262990,
+        "word": "明道称被朱孝天删好友",
+        "onboard_time": 1753355724,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 591433,
+        "num": 262557,
+        "word": "刘轩丞表情管理0分",
+        "onboard_time": 1753353804,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439665,
+        "num": 261415,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320325,
+        "num": 260714,
+        "word": "咖啡灌肠",
+        "onboard_time": 1753345643,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313674,
+        "num": 259688,
+        "word": "网评四大影帝幼年体",
+        "onboard_time": 1753348524,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297131,
+        "num": 259399,
+        "word": "阚清子老公",
+        "onboard_time": 1753348823,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258679,
+        "num": 258679,
+        "word": "金饰克价跌到1012元",
+        "onboard_time": 1753347984,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253623,
+        "num": 253623,
+        "word": "东北大学一遇难男生堂妹发声",
+        "onboard_time": 1753355782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230858,
+        "num": 230858,
+        "word": "东北大学一遇难学生刚保研",
+        "onboard_time": 1753349664,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208865,
+        "num": 208865,
+        "word": "浮选车间主任还原大学生溺亡经过",
+        "onboard_time": 1753350325,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187760,
+        "num": 187760,
+        "word": "杨幂 王牌9",
+        "onboard_time": 1753349424,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178700,
+        "num": 178700,
+        "word": "任嘉伦线下活动被人扔东西",
+        "onboard_time": 1753347503,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177892,
+        "num": 177892,
+        "word": "NewJeans再提ILLIT打招呼事件",
+        "onboard_time": 1753353324,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31591,
+        "num": 162509,
+        "word": "6人溺亡涉事矿企删除零事故文章",
+        "onboard_time": 1753356803,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152521,
+        "num": 152521,
+        "word": "印度恢复种姓普查",
+        "onboard_time": 1753350984,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151430,
+        "num": 151430,
+        "word": "泰柬边境冲突现场画面曝光",
+        "onboard_time": 1753353144,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149820,
+        "num": 149820,
+        "word": "5名员工出差遇车祸3死2伤",
+        "onboard_time": 1753356984,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147558,
+        "num": 147558,
+        "word": "学生遇难企业3人被采取刑事强制措施",
+        "onboard_time": 1753356742,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 146316,
+        "num": 146316,
+        "word": "展轩真诚",
+        "onboard_time": 1753355302,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143021,
+        "num": 143021,
+        "word": "明末",
+        "onboard_time": 1753351523,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140264,
+        "num": 140264,
+        "word": "辛巴卫生巾",
+        "onboard_time": 1753355544,
+        "rank": 36,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 138845,
+        "num": 138845,
+        "word": "李兰迪敖瑞鹏可以二搭了",
+        "onboard_time": 1753348464,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135718,
+        "num": 135718,
+        "word": "戒断牛奶后身体的变化",
+        "onboard_time": 1753342826,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130330,
+        "num": 130330,
+        "word": "Wei二连MVP",
+        "onboard_time": 1753355244,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119928,
+        "num": 119928,
+        "word": "溺亡的描述是否过于轻描淡写",
+        "onboard_time": 1753354943,
+        "rank": 40,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 721766,
+        "num": 119297,
+        "word": "6名学生溺亡事件家属发声",
+        "onboard_time": 1753348345,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137475,
+        "num": 118034,
+        "word": "敖瑞鹏教粉丝要男生微信",
+        "onboard_time": 1753354284,
+        "rank": 42,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 116762,
+        "num": 116762,
+        "word": "周也和珠珠宝宝们",
+        "onboard_time": 1753357223,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116530,
+        "num": 116530,
+        "word": "大润发疑内涵山姆",
+        "onboard_time": 1753354044,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115734,
+        "num": 115734,
+        "word": "成都天府机场一网约车失控",
+        "onboard_time": 1753349123,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115562,
+        "num": 115562,
+        "word": "张柏芝珠光宝气具象化",
+        "onboard_time": 1753356023,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65368,
+        "num": 115459,
+        "word": "杨幂的妹妹是只鹦鹉",
+        "onboard_time": 1753354284,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115411,
+        "num": 115411,
+        "word": "JDG对战iG",
+        "onboard_time": 1753350564,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114656,
+        "num": 114656,
+        "word": "清潭国际高中2",
+        "onboard_time": 1753351883,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#要牢牢把握中欧关系发展的正确方向#"
+    }
+  }
+}
