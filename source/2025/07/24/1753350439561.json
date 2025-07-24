@@ -1,0 +1,410 @@
+{
+  "runTime": 1753350439561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259673,
+        "num": 1259673,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 0,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 601744,
+        "num": 601744,
+        "word": "戒断牛奶后身体的变化",
+        "onboard_time": 1753342826,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28433,
+        "num": 495856,
+        "word": "国家医保目录药品数达3159种",
+        "onboard_time": 1753326385,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1270605,
+        "num": 488188,
+        "word": "迪丽热巴吴磊 将门毒后",
+        "onboard_time": 1753346243,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739038,
+        "num": 485217,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 475685,
+        "num": 475685,
+        "word": "6名学生溺亡事件家属发声",
+        "onboard_time": 1753348345,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428887,
+        "num": 428887,
+        "word": "内蒙古将提级调查6名学生溺亡",
+        "onboard_time": 1753345283,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374919,
+        "num": 374919,
+        "word": "金饰克价跌到1012元",
+        "onboard_time": 1753347984,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 324591,
+        "num": 324591,
+        "word": "棉密码声明",
+        "onboard_time": 1753348763,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106595,
+        "num": 324481,
+        "word": "探访6名学生溺亡事件涉事厂区",
+        "onboard_time": 1753349784,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3490529,
+        "num": 323805,
+        "word": "阚清子官宣怀孕",
+        "onboard_time": 1753349545,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 788631,
+        "num": 323170,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723905,
+        "num": 322617,
+        "word": "咖啡灌肠",
+        "onboard_time": 1753345643,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313703,
+        "num": 321753,
+        "word": "坠入浮选槽1分钟内即丧失行动能力",
+        "onboard_time": 1753344085,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384989,
+        "num": 321453,
+        "word": "爷爷的不动产开始动了",
+        "onboard_time": 1753344145,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321043,
+        "num": 321043,
+        "word": "6名溺亡学生家属暂未到达殡仪馆",
+        "onboard_time": 1753347684,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280002,
+        "num": 280002,
+        "word": "沈腾这是真缺席王牌9录制了",
+        "onboard_time": 1753342646,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278175,
+        "num": 278175,
+        "word": "杨幂 王牌9",
+        "onboard_time": 1753349424,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219532,
+        "num": 219532,
+        "word": "王牌对王牌9首轮飞行阵容",
+        "onboard_time": 1753347864,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210149,
+        "num": 210149,
+        "word": "新款彩色Labubu",
+        "onboard_time": 1753344265,
+        "rank": 19,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 206341,
+        "num": 206341,
+        "word": "任嘉伦线下活动被人扔东西",
+        "onboard_time": 1753347503,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204399,
+        "num": 204399,
+        "word": "李兰迪敖瑞鹏可以二搭了",
+        "onboard_time": 1753348464,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201044,
+        "num": 201044,
+        "word": "张予曦毕雯珺还原漫画这块",
+        "onboard_time": 1753344805,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196192,
+        "num": 196192,
+        "word": "杨瀚森不出战亚洲杯",
+        "onboard_time": 1753349664,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189635,
+        "num": 189635,
+        "word": "结婚是为了和喜欢的人谈一辈子恋爱",
+        "onboard_time": 1753348705,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188052,
+        "num": 188052,
+        "word": "东北大学一遇难学生刚保研",
+        "onboard_time": 1753349664,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174445,
+        "num": 174445,
+        "word": "俄客机失事原因",
+        "onboard_time": 1753347563,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173102,
+        "num": 173102,
+        "word": "娄烨回应",
+        "onboard_time": 1753344265,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192446,
+        "num": 171783,
+        "word": "成都天府机场一网约车失控",
+        "onboard_time": 1753349123,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43319,
+        "num": 170297,
+        "word": "浮选槽矿浆温度可达90℃且有腐蚀性",
+        "onboard_time": 1753349484,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169315,
+        "num": 169315,
+        "word": "恶搞中国人的外国女网红翻车",
+        "onboard_time": 1753348885,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 967699,
+        "num": 162454,
+        "word": "比亚迪失控",
+        "onboard_time": 1753345704,
+        "rank": 31,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 149098,
+        "num": 149098,
+        "word": "网评四大影帝幼年体",
+        "onboard_time": 1753348524,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144857,
+        "num": 144857,
+        "word": "敖瑞鹏开始做杀青之后的规划了",
+        "onboard_time": 1753345044,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143173,
+        "num": 143173,
+        "word": "我国累计追回医保基金1045亿元",
+        "onboard_time": 1753342165,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138346,
+        "num": 138346,
+        "word": "白敬亭扫腿舞",
+        "onboard_time": 1753348285,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138052,
+        "num": 138052,
+        "word": "柬方火箭弹落入泰国一加油站",
+        "onboard_time": 1753336405,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137176,
+        "num": 137176,
+        "word": "排尿性晕厥",
+        "onboard_time": 1753345704,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136624,
+        "num": 136624,
+        "word": "肖战同款腰带被撒贝宁系脖子上",
+        "onboard_time": 1753345164,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133436,
+        "num": 133436,
+        "word": "男子逆行致人摔车身亡获刑四年赔203万",
+        "onboard_time": 1753349424,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128816,
+        "num": 128816,
+        "word": "卫生巾 硫脲",
+        "onboard_time": 1753325902,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125494,
+        "num": 125494,
+        "word": "newjeans开庭",
+        "onboard_time": 1753333465,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124799,
+        "num": 124799,
+        "word": "山姆又要闹哪样",
+        "onboard_time": 1753349484,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123430,
+        "num": 123430,
+        "word": "孙颖莎出发厦门参加乒超",
+        "onboard_time": 1753350204,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117673,
+        "num": 117673,
+        "word": "辽宁丹东一饭店突发火灾",
+        "onboard_time": 1753345525,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 116066,
+        "num": 116066,
+        "word": "男子骗情人1100万转给妻子挥霍",
+        "onboard_time": 1753336645,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113402,
+        "num": 113402,
+        "word": "看别人朋友圈好像一场盛大的自虐",
+        "onboard_time": 1753350204,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112678,
+        "num": 112678,
+        "word": "实探巴奴毛肚78元7片",
+        "onboard_time": 1753348885,
+        "rank": 47,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 110621,
+        "num": 110621,
+        "word": "白鹿计划给自己放小长假",
+        "onboard_time": 1753348524,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110431,
+        "num": 110431,
+        "word": "任嘉伦这个黄毛真不一样",
+        "onboard_time": 1753350385,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要牢牢把握中欧关系发展的正确方向#"
+    }
+  }
+}
