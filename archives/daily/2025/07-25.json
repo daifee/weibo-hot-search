@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753374801114,
+  "endTime": 1753375841488,
   "band_list": [
     {
       "raw_hot": 886749,
@@ -11,15 +11,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 541860,
-      "num": 228803,
-      "word": "曝boss直聘再次涉黄",
-      "onboard_time": 1753364785,
-      "rank": 10,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 494344,
+      "raw_hot": 610364,
       "num": 151463,
       "word": "医生称坠入矿浆无黄金救援时间",
       "onboard_time": 1753362925,
@@ -27,12 +19,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 381788,
-      "num": 381788,
+      "raw_hot": 602882,
+      "num": 602882,
       "word": "易烊千玺演唱会480的票闲鱼卖6800",
       "onboard_time": 1753372945,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 541860,
+      "num": 228803,
+      "word": "曝boss直聘再次涉黄",
+      "onboard_time": 1753364785,
+      "rank": 10,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 334208,
@@ -171,6 +171,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 138298,
+      "num": 151300,
+      "word": "小伙想要王嘉尔同款花4288元纹唇",
+      "onboard_time": 1753372345,
+      "rank": 26,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 136035,
       "num": 234613,
       "word": "母亲当8岁儿子面吸毒当场被抓",
@@ -201,14 +209,6 @@
       "onboard_time": 1753356502,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122341,
-      "num": 151300,
-      "word": "小伙想要王嘉尔同款花4288元纹唇",
-      "onboard_time": 1753372345,
-      "rank": 26,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 117138,
@@ -251,7 +251,7 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 93416,
+      "raw_hot": 97262,
       "num": 151189,
       "word": "东北大学与企业曾签署实习安全协议",
       "onboard_time": 1753372883,
@@ -291,7 +291,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78330,
+      "raw_hot": 79926,
+      "num": 150776,
+      "word": "看樱桃琥珀18集友情线想哭",
+      "onboard_time": 1753372824,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78502,
       "num": 150929,
       "word": "5名员工出差遇车祸3死2伤",
       "onboard_time": 1753356984,
@@ -331,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 67728,
-      "num": 150776,
-      "word": "看樱桃琥珀18集友情线想哭",
-      "onboard_time": 1753372824,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66932,
       "num": 150750,
       "word": "中南大学通报谭某兵被举报",
@@ -355,12 +355,52 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 48777,
+      "raw_hot": 61912,
+      "num": 122054,
+      "word": "东北大学获救老师被截肢是谣言",
+      "onboard_time": 1753375640,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59516,
+      "num": 122052,
+      "word": "于适火把节切姬发小号",
+      "onboard_time": 1753375160,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58874,
+      "num": 122052,
+      "word": "白鹿晒临江仙拍立得合照",
+      "onboard_time": 1753363585,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55155,
+      "num": 150970,
+      "word": "遭面试官殴打致腰椎骨折女子发声",
+      "onboard_time": 1753374740,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49355,
       "num": 150692,
       "word": "B萌投票",
       "onboard_time": 1753361905,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41795,
+      "num": 150679,
+      "word": "鸣潮弗洛洛",
+      "onboard_time": 1753374142,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 40184,
@@ -371,22 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 38050,
-      "num": 150679,
-      "word": "鸣潮弗洛洛",
-      "onboard_time": 1753374142,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 37005,
-      "num": 150970,
-      "word": "遭面试官殴打致腰椎骨折女子发声",
-      "onboard_time": 1753374740,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35554,
       "num": 150653,
       "word": "樊振东王楚钦开心击掌",
@@ -395,8 +419,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32482,
+      "num": 122050,
+      "word": "比亚迪官方辟谣失控事件",
+      "onboard_time": 1753367908,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 2385,
-      "num": 295296,
+      "num": 399285,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#习近平就中欧关系发展提出三点主张#"
+    },
+    {
+      "word": "#中欧建交50年的重要经验和启示#"
     }
   ]
 }
