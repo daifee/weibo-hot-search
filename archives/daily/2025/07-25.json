@@ -1,7 +1,15 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753397196427,
+  "endTime": 1753399682176,
   "band_list": [
+    {
+      "raw_hot": 922864,
+      "num": 922864,
+      "word": "张碧晨方回应年轮原唱",
+      "onboard_time": 1753398679,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 886749,
       "num": 892991,
@@ -9,6 +17,22 @@
       "onboard_time": 1753366107,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 706869,
+      "num": 223868,
+      "word": "东北大学获救老师被截肢是谣言",
+      "onboard_time": 1753375640,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 650742,
+      "num": 228803,
+      "word": "曝boss直聘再次涉黄",
+      "onboard_time": 1753364785,
+      "rank": 10,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 610364,
@@ -27,23 +51,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 541860,
-      "num": 228803,
-      "word": "曝boss直聘再次涉黄",
-      "onboard_time": 1753364785,
-      "rank": 10,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 516308,
-      "num": 223868,
-      "word": "东北大学获救老师被截肢是谣言",
-      "onboard_time": 1753375640,
-      "rank": 42,
+      "raw_hot": 473994,
+      "num": 473994,
+      "word": "企业学校同6名遇难学生家属协商赔偿",
+      "onboard_time": 1753374203,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334208,
+      "raw_hot": 455615,
       "num": 223100,
       "word": "董璇再婚后的生活状态",
       "onboard_time": 1753370607,
@@ -51,11 +67,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316995,
-      "num": 316995,
-      "word": "企业学校同6名遇难学生家属协商赔偿",
-      "onboard_time": 1753374203,
-      "rank": 28,
+      "raw_hot": 445125,
+      "num": 445125,
+      "word": "橘子洲小火车暴雨开门",
+      "onboard_time": 1753397597,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437992,
+      "num": 204890,
+      "word": "张碧晨",
+      "onboard_time": 1753399099,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 385085,
+      "num": 199710,
+      "word": "男子6次结婚6次离婚五任前妻都是债主",
+      "onboard_time": 1753398378,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -99,12 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218882,
+      "raw_hot": 238117,
       "num": 218882,
       "word": "12岁女孩拿家人手术钱买半麻袋卡片",
       "onboard_time": 1753371150,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233665,
+      "num": 233665,
+      "word": "韩国一斯里兰卡籍工人遭同事霸凌",
+      "onboard_time": 1753375880,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 218726,
@@ -179,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160513,
-      "num": 160513,
-      "word": "韩国一斯里兰卡籍工人遭同事霸凌",
-      "onboard_time": 1753375880,
-      "rank": 23,
-      "category": "海外新闻"
+      "raw_hot": 160801,
+      "num": 232604,
+      "word": "张娜拉自曝因童颜感到压力",
+      "onboard_time": 1753360104,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 151476,
@@ -193,6 +233,14 @@
       "onboard_time": 1753360764,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 140247,
+      "num": 226929,
+      "word": "8旬独居老太深夜持菜刀砍邻居门",
+      "onboard_time": 1753379357,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138298,
@@ -219,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128203,
+      "num": 150929,
+      "word": "5名员工出差遇车祸3死2伤",
+      "onboard_time": 1753356984,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127100,
       "num": 151352,
       "word": "东北大学一遇难男生堂妹发声",
@@ -235,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117138,
-      "num": 151278,
-      "word": "张娜拉自曝因童颜感到压力",
-      "onboard_time": 1753360104,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 120757,
+      "num": 120757,
+      "word": "17省区市有大到暴雨",
+      "onboard_time": 1753385174,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111490,
@@ -249,6 +305,14 @@
       "onboard_time": 1753358604,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109893,
+      "num": 150986,
+      "word": "5年前扶贫小组欠万元餐费仍未结清",
+      "onboard_time": 1753362864,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101869,
@@ -275,27 +339,11 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 99060,
-      "num": 99060,
-      "word": "8旬独居老太深夜持菜刀砍邻居门",
-      "onboard_time": 1753379357,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97262,
       "num": 151189,
       "word": "东北大学与企业曾签署实习安全协议",
       "onboard_time": 1753372883,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96399,
-      "num": 96399,
-      "word": "17省区市有大到暴雨",
-      "onboard_time": 1753385174,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -307,7 +355,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84159,
+      "raw_hot": 85735,
       "num": 151067,
       "word": "俄一客机坠毁无人生还",
       "onboard_time": 1753341145,
@@ -323,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82638,
-      "num": 150986,
-      "word": "5年前扶贫小组欠万元餐费仍未结清",
-      "onboard_time": 1753362864,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79926,
       "num": 150776,
       "word": "看樱桃琥珀18集友情线想哭",
@@ -339,20 +379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78502,
-      "num": 150929,
-      "word": "5名员工出差遇车祸3死2伤",
-      "onboard_time": 1753356984,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77362,
       "num": 150892,
       "word": "阚清子老公是她的粉丝",
       "onboard_time": 1753358964,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75497,
+      "num": 84966,
+      "word": "明道称被朱孝天删好友",
+      "onboard_time": 1753355724,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74934,
@@ -411,6 +451,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 65453,
+      "num": 151031,
+      "word": "洪森辟谣搭乘专机飞往中国",
+      "onboard_time": 1753372945,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 61877,
+      "num": 68942,
+      "word": "40岁姐姐给25岁女生的建议",
+      "onboard_time": 1753358422,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 59897,
+      "num": 59897,
+      "word": "大连00后家长带女儿追星让人羡慕",
+      "onboard_time": 1753398980,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59516,
       "num": 122052,
       "word": "于适火把节切姬发小号",
@@ -427,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58609,
-      "num": 69027,
-      "word": "明道称被朱孝天删好友",
-      "onboard_time": 1753355724,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 56090,
+      "num": 56090,
+      "word": "涉事浮选槽内不存在强酸强碱",
+      "onboard_time": 1753390454,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55542,
+      "num": 55542,
+      "word": "让张予曦毕雯珺最红温的片段来了",
+      "onboard_time": 1753394715,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 49920,
@@ -451,28 +523,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 47846,
-      "num": 151031,
-      "word": "洪森辟谣搭乘专机飞往中国",
-      "onboard_time": 1753372945,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 45620,
-      "num": 68942,
-      "word": "40岁姐姐给25岁女生的建议",
-      "onboard_time": 1753358422,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 44041,
       "num": 104241,
       "word": "72岁农民被授予时代楷模",
       "onboard_time": 1753378038,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 44007,
+      "num": 68989,
+      "word": "肖战谍报上不封顶也是同期声",
+      "onboard_time": 1753378399,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43528,
+      "num": 84623,
+      "word": "调查组已进驻大学生溺亡事故现场",
+      "onboard_time": 1753398919,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42006,
@@ -491,20 +563,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40769,
+      "num": 148863,
+      "word": "中国驻泰使馆发布提醒公告",
+      "onboard_time": 1753399039,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35740,
+      "num": 122050,
+      "word": "比亚迪官方辟谣失控事件",
+      "onboard_time": 1753367908,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35554,
       "num": 150653,
       "word": "樊振东王楚钦开心击掌",
       "onboard_time": 1753351823,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35367,
-      "num": 68989,
-      "word": "肖战谍报上不封顶也是同期声",
-      "onboard_time": 1753378399,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 33251,
@@ -515,30 +595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32482,
-      "num": 122050,
-      "word": "比亚迪官方辟谣失控事件",
-      "onboard_time": 1753367908,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 32000,
-      "num": 44029,
-      "word": "让张予曦毕雯珺最红温的片段来了",
-      "onboard_time": 1753394715,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27541,
-      "num": 44005,
-      "word": "涉事浮选槽内不存在强酸强碱",
-      "onboard_time": 1753390454,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27342,
       "num": 96201,
       "word": "受强降雨影响荔波大七孔暂停开放",
@@ -547,7 +603,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22511,
+      "raw_hot": 27249,
       "num": 68765,
       "word": "10万买什么车能一步到位",
       "onboard_time": 1753364124,
@@ -596,7 +652,7 @@
     },
     {
       "raw_hot": 2385,
-      "num": 399285,
+      "num": 568383,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,

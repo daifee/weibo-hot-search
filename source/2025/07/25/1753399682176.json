@@ -1,0 +1,410 @@
+{
+  "runTime": 1753399682176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 922864,
+        "num": 922864,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 841051,
+        "num": 841051,
+        "word": "富豪CEO被大象踩踏身亡",
+        "onboard_time": 1753366107,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2184,
+        "num": 568383,
+        "word": "万千气象看新疆",
+        "onboard_time": 1753188441,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 473994,
+        "num": 473994,
+        "word": "企业学校同6名遇难学生家属协商赔偿",
+        "onboard_time": 1753374203,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445125,
+        "num": 445125,
+        "word": "橘子洲小火车暴雨开门",
+        "onboard_time": 1753397597,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258061,
+        "num": 258061,
+        "word": "易烊千玺演唱会480的票闲鱼卖6800",
+        "onboard_time": 1753372945,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240186,
+        "num": 240186,
+        "word": "李佳琦承诺赔付铂爵旅拍订单",
+        "onboard_time": 1753364725,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233665,
+        "num": 233665,
+        "word": "韩国一斯里兰卡籍工人遭同事霸凌",
+        "onboard_time": 1753375880,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160801,
+        "num": 232604,
+        "word": "张娜拉自曝因童颜感到压力",
+        "onboard_time": 1753360104,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140247,
+        "num": 226929,
+        "word": "8旬独居老太深夜持菜刀砍邻居门",
+        "onboard_time": 1753379357,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706869,
+        "num": 218333,
+        "word": "东北大学获救老师被截肢是谣言",
+        "onboard_time": 1753375640,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650742,
+        "num": 216606,
+        "word": "曝boss直聘再次涉黄",
+        "onboard_time": 1753364785,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 455615,
+        "num": 207423,
+        "word": "董璇再婚后的生活状态",
+        "onboard_time": 1753370607,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437992,
+        "num": 204890,
+        "word": "张碧晨",
+        "onboard_time": 1753399099,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385085,
+        "num": 199710,
+        "word": "男子6次结婚6次离婚五任前妻都是债主",
+        "onboard_time": 1753398378,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238117,
+        "num": 189433,
+        "word": "12岁女孩拿家人手术钱买半麻袋卡片",
+        "onboard_time": 1753371150,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188474,
+        "num": 188474,
+        "word": "女子呕吐暴瘦30斤竟是大脑开关失灵",
+        "onboard_time": 1753371626,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164792,
+        "num": 164792,
+        "word": "30万存款定律",
+        "onboard_time": 1753352423,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119983,
+        "num": 152192,
+        "word": "王一博 演唱会",
+        "onboard_time": 1753360284,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40769,
+        "num": 148863,
+        "word": "中国驻泰使馆发布提醒公告",
+        "onboard_time": 1753399039,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148719,
+        "num": 148719,
+        "word": "中南大学谭某兵被暂停工作",
+        "onboard_time": 1753360764,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128203,
+        "num": 128203,
+        "word": "5名员工出差遇车祸3死2伤",
+        "onboard_time": 1753356984,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120757,
+        "num": 120757,
+        "word": "17省区市有大到暴雨",
+        "onboard_time": 1753385174,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109893,
+        "num": 109893,
+        "word": "5年前扶贫小组欠万元餐费仍未结清",
+        "onboard_time": 1753362864,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102218,
+        "num": 102218,
+        "word": "阚清子孕肚写真",
+        "onboard_time": 1753363944,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100266,
+        "num": 100266,
+        "word": "母亲当8岁儿子面吸毒当场被抓",
+        "onboard_time": 1753363524,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89066,
+        "num": 89066,
+        "word": "美国骚猪肉",
+        "onboard_time": 1753364425,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85735,
+        "num": 85735,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75497,
+        "num": 84966,
+        "word": "明道称被朱孝天删好友",
+        "onboard_time": 1753355724,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43528,
+        "num": 84623,
+        "word": "调查组已进驻大学生溺亡事故现场",
+        "onboard_time": 1753398919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84593,
+        "num": 84593,
+        "word": "内蒙古成立723事故调查组",
+        "onboard_time": 1753376359,
+        "rank": 30,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 74773,
+        "num": 74773,
+        "word": "警方通报网约车在停车场绕行",
+        "onboard_time": 1753369287,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 69486,
+        "num": 69486,
+        "word": "迪丽热巴吴磊 将门毒后",
+        "onboard_time": 1753346243,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66285,
+        "num": 66285,
+        "word": "蔡依林已冻卵",
+        "onboard_time": 1753360224,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65453,
+        "num": 65453,
+        "word": "洪森辟谣搭乘专机飞往中国",
+        "onboard_time": 1753372945,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61877,
+        "num": 61877,
+        "word": "40岁姐姐给25岁女生的建议",
+        "onboard_time": 1753358422,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61296,
+        "num": 61296,
+        "word": "警方通报比亚迪四川机场内绕圈",
+        "onboard_time": 1753367967,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 59897,
+        "num": 59897,
+        "word": "大连00后家长带女儿追星让人羡慕",
+        "onboard_time": 1753398980,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58560,
+        "num": 58560,
+        "word": "董璇小酒窝与沐言母女合照",
+        "onboard_time": 1753359025,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58261,
+        "num": 58261,
+        "word": "创始人说LABUBU缝纫机踩冒烟了",
+        "onboard_time": 1753371027,
+        "rank": 39,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 57241,
+        "num": 57241,
+        "word": "遭面试官殴打致腰椎骨折女子发声",
+        "onboard_time": 1753374740,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56564,
+        "num": 56564,
+        "word": "泰柬边境冲突致泰国14人死亡",
+        "onboard_time": 1753371208,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56090,
+        "num": 56090,
+        "word": "涉事浮选槽内不存在强酸强碱",
+        "onboard_time": 1753390454,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55542,
+        "num": 55542,
+        "word": "让张予曦毕雯珺最红温的片段来了",
+        "onboard_time": 1753394715,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48468,
+        "num": 55521,
+        "word": "中南大学通报谭某兵被举报",
+        "onboard_time": 1753358902,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44007,
+        "num": 55512,
+        "word": "肖战谍报上不封顶也是同期声",
+        "onboard_time": 1753378399,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43478,
+        "num": 55487,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 35740,
+        "num": 55450,
+        "word": "比亚迪官方辟谣失控事件",
+        "onboard_time": 1753367908,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27249,
+        "num": 55432,
+        "word": "10万买什么车能一步到位",
+        "onboard_time": 1753364124,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21342,
+        "num": 55415,
+        "word": "B萌投票",
+        "onboard_time": 1753361905,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就中欧关系发展提出三点主张#"
+    }
+  }
+}
