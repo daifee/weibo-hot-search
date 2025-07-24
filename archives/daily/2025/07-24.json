@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753336200287,
+  "endTime": 1753339279083,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -35,6 +35,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2048759,
+      "num": 369222,
+      "word": "殡仪馆称会把6人遗体清理干净",
+      "onboard_time": 1753336585,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1993152,
       "num": 272487,
       "word": "东北大学溺亡者同学发声",
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1537847,
+      "num": 1537847,
+      "word": "大麦",
+      "onboard_time": 1753334365,
+      "rank": 25,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 1433351,
       "num": 1341366,
       "word": "6名溺亡学生为大三生",
@@ -73,6 +89,14 @@
       "onboard_time": 1753328005,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1234422,
+      "num": 1234422,
+      "word": "6名大学生溺亡涉事选矿厂画面曝光",
+      "onboard_time": 1753333465,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1206984,
@@ -235,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 475820,
-      "num": 475820,
-      "word": "6名大学生溺亡涉事选矿厂画面曝光",
-      "onboard_time": 1753333465,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 475155,
       "num": 916276,
       "word": "95后掏粪工上班开粪车下班开奔驰",
@@ -251,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 472543,
-      "num": 429812,
-      "word": "大麦",
-      "onboard_time": 1753334365,
-      "rank": 25,
-      "category": "演出,民生新闻"
+      "raw_hot": 472788,
+      "num": 472788,
+      "word": "喝了半年牛初乳6岁女孩查出性早熟",
+      "onboard_time": 1753333706,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 452154,
@@ -275,20 +291,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434504,
-      "num": 434504,
-      "word": "喝了半年牛初乳6岁女孩查出性早熟",
-      "onboard_time": 1753333706,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 441918,
+      "num": 335144,
+      "word": "阚清子 怀孕",
+      "onboard_time": 1753339046,
+      "rank": 12,
+      "category": "艺人"
     },
     {
-      "raw_hot": 403170,
-      "num": 356844,
+      "raw_hot": 431531,
+      "num": 402246,
       "word": "内娱首部正统修仙剧来了",
       "onboard_time": 1753331907,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408144,
+      "num": 408144,
+      "word": "一架搭载约50人的俄罗斯客机失联",
+      "onboard_time": 1753336465,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 388819,
+      "num": 388819,
+      "word": "无意识控糖行为",
+      "onboard_time": 1753335983,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 386161,
@@ -329,6 +361,14 @@
       "onboard_time": 1753277603,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 317255,
+      "num": 250642,
+      "word": "男子骗情人1100万转给妻子挥霍",
+      "onboard_time": 1753336645,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307992,
@@ -395,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275077,
+      "num": 247973,
+      "word": "任豪因虞书欣张凌赫选了深圳店",
+      "onboard_time": 1753338385,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 274047,
+      "num": 376632,
+      "word": "柬方火箭弹落入泰国一加油站",
+      "onboard_time": 1753336405,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 271704,
       "num": 271704,
       "word": "自述在马代遭性侵女子最新发声",
@@ -425,6 +481,14 @@
       "onboard_time": 1753325782,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 255563,
+      "num": 255563,
+      "word": "6岁女孩和奶奶混洗内衣感染妇科病",
+      "onboard_time": 1753338685,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247092,
@@ -539,6 +603,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 213905,
+      "num": 213905,
+      "word": "其实花小钱也能过得很体面",
+      "onboard_time": 1753339226,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207393,
       "num": 207393,
       "word": "李兰迪说和敖瑞鹏吻戏治颈椎病",
@@ -579,12 +651,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197947,
+      "num": 252697,
+      "word": "半醒浮生今日开播",
+      "onboard_time": 1753338984,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194904,
       "num": 194904,
       "word": "刘宇宁看起来是少爷实际是老爷",
       "onboard_time": 1753329024,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194595,
+      "num": 194595,
+      "word": "内娱重生剧已经癫成这样了",
+      "onboard_time": 1753337007,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 194029,
@@ -643,6 +731,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 180874,
+      "num": 180874,
+      "word": "当你不停运动7个月后",
+      "onboard_time": 1753338566,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 177929,
+      "num": 177929,
+      "word": "陈都灵穿红衣从未失手",
+      "onboard_time": 1753338445,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176706,
       "num": 233692,
       "word": "每天吃1根玉米身体会有什么变化",
@@ -683,12 +787,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174139,
+      "num": 174139,
+      "word": "棉密码14份样品仅1个未检出硫脲",
+      "onboard_time": 1753336405,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173263,
       "num": 234135,
       "word": "T1向Zeus正式道歉",
       "onboard_time": 1753282770,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170705,
+      "num": 170705,
+      "word": "张予曦累坏了我的截屏键",
+      "onboard_time": 1753338685,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 170683,
@@ -712,6 +832,14 @@
       "word": "涉6名大学生溺亡公司检查曾发现隐患",
       "onboard_time": 1753331545,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169513,
+      "num": 169513,
+      "word": "他用六个月时间打破所有质疑",
+      "onboard_time": 1753338746,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -859,6 +987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153699,
+      "num": 153699,
+      "word": "樊振东在苏州被偶遇",
+      "onboard_time": 1753338746,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153487,
       "num": 153487,
       "word": "杨瀚森确认归队中国男篮",
@@ -923,6 +1059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142531,
+      "num": 174321,
+      "word": "宁艺卓费加罗销量女艺人第一",
+      "onboard_time": 1753337426,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140724,
       "num": 140724,
       "word": "庞颖多次被问做辩论挣钱吗",
@@ -969,14 +1113,6 @@
       "onboard_time": 1753317744,
       "rank": 25,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 135419,
-      "num": 135419,
-      "word": "无意识控糖行为",
-      "onboard_time": 1753335983,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128584,
@@ -1033,6 +1169,14 @@
       "onboard_time": 1753282831,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119984,
+      "num": 138700,
+      "word": "歌手第十一期歌单",
+      "onboard_time": 1753336465,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 119003,
@@ -1307,6 +1451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79096,
+      "num": 169556,
+      "word": "殷世航回应求婚",
+      "onboard_time": 1753338506,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 78862,
       "num": 87909,
       "word": "真正的放下不是什么删除拉黑",
@@ -1356,11 +1508,19 @@
     },
     {
       "raw_hot": 72505,
-      "num": 609730,
+      "num": 855332,
       "word": "抗日英烈在狱中为儿子起名抗生",
       "onboard_time": 1753270101,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72008,
+      "num": 169686,
+      "word": "金晨教出发团跳扫腿舞",
+      "onboard_time": 1753338385,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 70632,
@@ -1451,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56831,
+      "num": 251416,
+      "word": "华南理工暂缓执行研究生奖学金新规",
+      "onboard_time": 1753338746,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54483,
       "num": 72727,
       "word": "中国女排2比3波兰女排",
@@ -1513,6 +1681,14 @@
       "onboard_time": 1753289962,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27082,
+      "num": 178052,
+      "word": "6名大学生殒命浮选槽谁该担责",
+      "onboard_time": 1753338746,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26116,
