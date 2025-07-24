@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753353070480,
+  "endTime": 1753354166221,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4388956,
-      "num": 323805,
+      "num": 3035647,
       "word": "阚清子官宣怀孕",
       "onboard_time": 1753349545,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 955950,
+      "num": 403977,
+      "word": "30万存款定律",
+      "onboard_time": 1753352423,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 931528,
       "num": 385742,
       "word": "汪峰 服死了",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 594511,
-      "num": 235071,
+      "num": 393878,
       "word": "阚清子老公",
       "onboard_time": 1753348823,
       "rank": 15,
@@ -323,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562145,
+      "num": 439796,
+      "word": "金饰克价跌到1012元",
+      "onboard_time": 1753347984,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 549905,
       "num": 286811,
       "word": "买鞋要记得看鞋底",
       "onboard_time": 1753330644,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 539585,
+      "num": 392587,
+      "word": "网评四大影帝幼年体",
+      "onboard_time": 1753348524,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 524274,
@@ -371,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 492841,
+      "num": 389974,
+      "word": "东北大学一遇难学生刚保研",
+      "onboard_time": 1753349664,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484688,
       "num": 407587,
       "word": "杨幂 王牌9",
@@ -403,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 459232,
-      "num": 233522,
-      "word": "东北大学一遇难学生刚保研",
-      "onboard_time": 1753349664,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 455236,
+      "num": 455236,
+      "word": "樊振东王楚钦开心击掌",
+      "onboard_time": 1753351823,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 452154,
@@ -443,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 424937,
-      "num": 424937,
-      "word": "金饰克价跌到1012元",
-      "onboard_time": 1753347984,
-      "rank": 16,
-      "category": "财经"
+      "raw_hot": 422611,
+      "num": 422611,
+      "word": "时代少年团 偶像万万岁",
+      "onboard_time": 1753351943,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 408144,
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385998,
+      "num": 385998,
+      "word": "刘轩丞表情管理0分",
+      "onboard_time": 1753353804,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384321,
       "num": 469235,
       "word": "我国累计追回医保基金1045亿元",
@@ -481,22 +521,6 @@
       "onboard_time": 1753321104,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 374556,
-      "num": 232326,
-      "word": "网评四大影帝幼年体",
-      "onboard_time": 1753348524,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 348141,
-      "num": 231265,
-      "word": "30万存款定律",
-      "onboard_time": 1753352423,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 346499,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328557,
+      "num": 328557,
+      "word": "浮选车间主任还原大学生溺亡经过",
+      "onboard_time": 1753350325,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328445,
       "num": 376632,
       "word": "柬方火箭弹落入泰国一加油站",
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 326680,
-      "num": 326680,
+      "num": 406943,
       "word": "印度恢复种姓普查",
       "onboard_time": 1753350984,
       "rank": 7,
@@ -595,20 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310978,
-      "num": 219553,
-      "word": "浮选车间主任还原大学生溺亡经过",
-      "onboard_time": 1753350325,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307992,
       "num": 307992,
       "word": "樱桃琥珀张凌赫戏份",
       "onboard_time": 1753324944,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301958,
+      "num": 301958,
+      "word": "任嘉伦线下活动被人扔东西",
+      "onboard_time": 1753347503,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 301895,
@@ -723,14 +755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 250930,
-      "num": 250930,
-      "word": "时代少年团 偶像万万岁",
-      "onboard_time": 1753351943,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 247092,
       "num": 247092,
       "word": "辛巴 棉密码",
@@ -747,14 +771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 246154,
-      "num": 219115,
-      "word": "任嘉伦线下活动被人扔东西",
-      "onboard_time": 1753347503,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245212,
       "num": 245212,
       "word": "张真源solo",
@@ -769,14 +785,6 @@
       "onboard_time": 1753335623,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 242354,
-      "num": 242354,
-      "word": "樊振东王楚钦开心击掌",
-      "onboard_time": 1753351823,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 241030,
@@ -971,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202636,
+      "num": 202636,
+      "word": "NewJeans再提ILLIT打招呼事件",
+      "onboard_time": 1753353324,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202046,
       "num": 202046,
       "word": "棉密码",
@@ -1011,6 +1027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 196884,
+      "num": 196884,
+      "word": "JDG对战iG",
+      "onboard_time": 1753350564,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194904,
       "num": 194904,
       "word": "刘宇宁看起来是少爷实际是老爷",
@@ -1032,6 +1056,14 @@
       "word": "公安厅副厅长受贿被东北前首富供出",
       "onboard_time": 1753331605,
       "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 193867,
+      "num": 193867,
+      "word": "百名红通人员周静华被引渡回国",
+      "onboard_time": 1753353203,
+      "rank": 30,
       "category": "国内时政"
     },
     {
@@ -1079,6 +1111,14 @@
       "num": 225241,
       "word": "清潭国际高中2",
       "onboard_time": 1753351883,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186597,
+      "num": 209435,
+      "word": "朝雪录疯教连害7人",
+      "onboard_time": 1753353144,
       "rank": 24,
       "category": "剧集"
     },
@@ -1683,6 +1723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132207,
+      "num": 177721,
+      "word": "郭羡妮否认婚变",
+      "onboard_time": 1753352906,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 131841,
       "num": 131841,
       "word": "杨瀚森感谢篮协国家队理解和支持",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1753335504,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128584,
+      "num": 128584,
+      "word": "大润发疑内涵山姆",
+      "onboard_time": 1753354044,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128505,
@@ -1859,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118762,
-      "num": 118762,
-      "word": "JDG对战iG",
-      "onboard_time": 1753350564,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 118148,
       "num": 118148,
       "word": "小众水果真的很努力让你吃到了",
@@ -1915,12 +1963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115329,
+      "num": 168898,
+      "word": "姜文说于和伟这演员演得多好",
+      "onboard_time": 1753353024,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114968,
       "num": 114968,
       "word": "蒋敦豪赵小童互动太有节目了",
       "onboard_time": 1753346665,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114558,
+      "num": 114558,
+      "word": "佩通坦含泪谴责柬埔寨向平民区开火",
+      "onboard_time": 1753353623,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113736,
@@ -2235,14 +2299,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 78179,
-      "num": 168898,
-      "word": "姜文说于和伟这演员演得多好",
-      "onboard_time": 1753353024,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 78125,
       "num": 87904,
       "word": "国安通报3起泄密案例",
@@ -2305,14 +2361,6 @@
       "onboard_time": 1753282831,
       "rank": 44,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 68647,
-      "num": 177721,
-      "word": "郭羡妮否认婚变",
-      "onboard_time": 1753352906,
-      "rank": 38,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 68434,
@@ -2411,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57417,
+      "num": 364002,
+      "word": "泰柬边境冲突现场画面曝光",
+      "onboard_time": 1753353144,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54483,
       "num": 72727,
       "word": "中国女排2比3波兰女排",
@@ -2499,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34192,
+      "num": 221427,
+      "word": "辛选并未下架陷致癌风波卫生巾",
+      "onboard_time": 1753351284,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32968,
       "num": 190038,
       "word": "女童因加所谓明星好友被索要5000元",
@@ -2521,14 +2585,6 @@
       "onboard_time": 1753326385,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28212,
-      "num": 221427,
-      "word": "辛选并未下架陷致癌风波卫生巾",
-      "onboard_time": 1753351284,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26116,

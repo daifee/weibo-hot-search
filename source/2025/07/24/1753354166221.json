@@ -1,0 +1,410 @@
+{
+  "runTime": 1753354166221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3035647,
+        "num": 3035647,
+        "word": "阚清子官宣怀孕",
+        "onboard_time": 1753349545,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455236,
+        "num": 455236,
+        "word": "樊振东王楚钦开心击掌",
+        "onboard_time": 1753351823,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22044,
+        "num": 445737,
+        "word": "国家医保目录药品数达3159种",
+        "onboard_time": 1753326385,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 825681,
+        "num": 445422,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 3,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 444954,
+        "num": 444954,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 562145,
+        "num": 439796,
+        "word": "金饰克价跌到1012元",
+        "onboard_time": 1753347984,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 422611,
+        "num": 422611,
+        "word": "时代少年团 偶像万万岁",
+        "onboard_time": 1753351943,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 409674,
+        "num": 409674,
+        "word": "内蒙古将提级调查6名学生溺亡",
+        "onboard_time": 1753345283,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407235,
+        "num": 407235,
+        "word": "杨幂 王牌9",
+        "onboard_time": 1753349424,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311610,
+        "num": 406943,
+        "word": "印度恢复种姓普查",
+        "onboard_time": 1753350984,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 955950,
+        "num": 403977,
+        "word": "30万存款定律",
+        "onboard_time": 1753352423,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 944731,
+        "num": 402372,
+        "word": "迪丽热巴吴磊 将门毒后",
+        "onboard_time": 1753346243,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 875373,
+        "num": 398208,
+        "word": "6名学生溺亡事件家属发声",
+        "onboard_time": 1753348345,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641393,
+        "num": 397651,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578523,
+        "num": 393878,
+        "word": "阚清子老公",
+        "onboard_time": 1753348823,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539585,
+        "num": 392587,
+        "word": "网评四大影帝幼年体",
+        "onboard_time": 1753348524,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492841,
+        "num": 389974,
+        "word": "东北大学一遇难学生刚保研",
+        "onboard_time": 1753349664,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420061,
+        "num": 386037,
+        "word": "咖啡灌肠",
+        "onboard_time": 1753345643,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385998,
+        "num": 385998,
+        "word": "刘轩丞表情管理0分",
+        "onboard_time": 1753353804,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57417,
+        "num": 364002,
+        "word": "泰柬边境冲突现场画面曝光",
+        "onboard_time": 1753353144,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353110,
+        "num": 353110,
+        "word": "戒断牛奶后身体的变化",
+        "onboard_time": 1753342826,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 328557,
+        "num": 328557,
+        "word": "浮选车间主任还原大学生溺亡经过",
+        "onboard_time": 1753350325,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301958,
+        "num": 301958,
+        "word": "任嘉伦线下活动被人扔东西",
+        "onboard_time": 1753347503,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245616,
+        "num": 245616,
+        "word": "6名溺亡学生家属暂未到达殡仪馆",
+        "onboard_time": 1753347684,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186597,
+        "num": 209435,
+        "word": "朝雪录疯教连害7人",
+        "onboard_time": 1753353144,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183834,
+        "num": 203890,
+        "word": "李兰迪敖瑞鹏可以二搭了",
+        "onboard_time": 1753348464,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152014,
+        "num": 202898,
+        "word": "清潭国际高中2",
+        "onboard_time": 1753351883,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202636,
+        "num": 202636,
+        "word": "NewJeans再提ILLIT打招呼事件",
+        "onboard_time": 1753353324,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196884,
+        "num": 196884,
+        "word": "JDG对战iG",
+        "onboard_time": 1753350564,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34192,
+        "num": 195203,
+        "word": "辛选并未下架陷致癌风波卫生巾",
+        "onboard_time": 1753351284,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193867,
+        "num": 193867,
+        "word": "百名红通人员周静华被引渡回国",
+        "onboard_time": 1753353203,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178905,
+        "num": 178905,
+        "word": "成都天府机场一网约车失控",
+        "onboard_time": 1753349123,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176238,
+        "num": 176238,
+        "word": "NewJeans一到HYBE附近就抑郁",
+        "onboard_time": 1753352184,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171454,
+        "num": 171454,
+        "word": "棉密码声明",
+        "onboard_time": 1753348763,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140889,
+        "num": 152542,
+        "word": "王牌对王牌9首轮飞行阵容",
+        "onboard_time": 1753347864,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152336,
+        "num": 152336,
+        "word": "恶搞中国人的外国女网红翻车",
+        "onboard_time": 1753348885,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149286,
+        "num": 149286,
+        "word": "杨瀚森不出战亚洲杯",
+        "onboard_time": 1753349664,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148753,
+        "num": 148753,
+        "word": "结婚是为了和喜欢的人谈一辈子恋爱",
+        "onboard_time": 1753348705,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 134326,
+        "word": "韩国男子继承牧场后63头牛饿死被拘",
+        "onboard_time": 1753350445,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132207,
+        "num": 132207,
+        "word": "郭羡妮否认婚变",
+        "onboard_time": 1753352906,
+        "rank": 39,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 130325,
+        "word": "明末",
+        "onboard_time": 1753351523,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128785,
+        "num": 128785,
+        "word": "官方回应成都天府机场一网约车失控",
+        "onboard_time": 1753351343,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128584,
+        "num": 128584,
+        "word": "大润发疑内涵山姆",
+        "onboard_time": 1753354044,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126711,
+        "num": 126711,
+        "word": "探访6名学生溺亡事件涉事厂区",
+        "onboard_time": 1753349784,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121682,
+        "num": 121682,
+        "word": "慕胥辞",
+        "onboard_time": 1753350744,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118908,
+        "num": 118908,
+        "word": "山姆又要闹哪样",
+        "onboard_time": 1753349484,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117814,
+        "num": 117814,
+        "word": "爷爷的不动产开始动了",
+        "onboard_time": 1753344145,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115329,
+        "num": 115329,
+        "word": "姜文说于和伟这演员演得多好",
+        "onboard_time": 1753353024,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114558,
+        "num": 114558,
+        "word": "佩通坦含泪谴责柬埔寨向平民区开火",
+        "onboard_time": 1753353623,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113174,
+        "num": 113174,
+        "word": "杨瀚森感谢篮协国家队理解和支持",
+        "onboard_time": 1753350805,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要牢牢把握中欧关系发展的正确方向#"
+    }
+  }
+}
