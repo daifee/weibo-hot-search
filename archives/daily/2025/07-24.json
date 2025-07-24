@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753368551487,
+  "endTime": 1753370896663,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1303449,
+      "num": 1303449,
+      "word": "富豪CEO被大象踩踏身亡",
+      "onboard_time": 1753366107,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1234422,
       "num": 1234422,
       "word": "6名大学生溺亡涉事选矿厂画面曝光",
@@ -281,14 +289,6 @@
       "onboard_time": 1753332265,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 751360,
-      "num": 751360,
-      "word": "富豪CEO被大象踩踏身亡",
-      "onboard_time": 1753366107,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 736070,
@@ -683,20 +683,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 382607,
+      "num": 502620,
+      "word": "东北大学获救老师受轻伤",
+      "onboard_time": 1753367128,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346499,
       "num": 262193,
       "word": "阚清子自曝孕期胖了30斤",
       "onboard_time": 1753345164,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340601,
-      "num": 502620,
-      "word": "东北大学获救老师受轻伤",
-      "onboard_time": 1753367128,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337572,
@@ -880,6 +880,14 @@
       "word": "醉驾车在闹市区顶了交警600米",
       "onboard_time": 1753320984,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276899,
+      "num": 276899,
+      "word": "母亲当8岁儿子面吸毒当场被抓",
+      "onboard_time": 1753363524,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1147,6 +1155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 215414,
+      "num": 177458,
+      "word": "警方通报比亚迪四川机场内绕圈",
+      "onboard_time": 1753367967,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 214238,
       "num": 214238,
       "word": "柬泰双方交火致大量学生平民受伤",
@@ -1259,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200935,
-      "num": 173947,
-      "word": "警方通报比亚迪四川机场内绕圈",
-      "onboard_time": 1753367967,
-      "rank": 30,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 200761,
       "num": 200761,
       "word": "肖战同款腰带被撒贝宁系脖子上",
@@ -1355,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194089,
+      "num": 271073,
+      "word": "straykids将回归",
+      "onboard_time": 1753370367,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194029,
       "num": 194029,
       "word": "公安厅副厅长受贿被东北前首富供出",
@@ -1372,7 +1388,7 @@
     },
     {
       "raw_hot": 193441,
-      "num": 182624,
+      "num": 196283,
       "word": "比亚迪官方辟谣失控事件",
       "onboard_time": 1753367908,
       "rank": 26,
@@ -1451,6 +1467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189662,
+      "num": 235206,
+      "word": "一诺获EWC全场MVP",
+      "onboard_time": 1753370308,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189635,
       "num": 189635,
       "word": "结婚是为了和喜欢的人谈一辈子恋爱",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1753364905,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188459,
+      "num": 188459,
+      "word": "曾舜晞回应缺席庆功宴",
+      "onboard_time": 1753368925,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 188238,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1753345525,
       "rank": 32,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 183314,
+      "num": 174330,
+      "word": "董璇再婚后的生活状态",
+      "onboard_time": 1753370607,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 183006,
@@ -1744,14 +1784,6 @@
       "word": "母亲以不服管教为由虐待儿子致死",
       "onboard_time": 1753286493,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169868,
-      "num": 169868,
-      "word": "母亲当8岁儿子面吸毒当场被抓",
-      "onboard_time": 1753363524,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2132,7 +2164,7 @@
     },
     {
       "raw_hot": 144718,
-      "num": 144718,
+      "num": 276072,
       "word": "5年前扶贫小组欠万元餐费仍未结清",
       "onboard_time": 1753362864,
       "rank": 40,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1753352906,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 132015,
+      "num": 232634,
+      "word": "警方通报网约车在停车场绕行",
+      "onboard_time": 1753369287,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 131841,
@@ -2899,12 +2939,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97861,
+      "num": 97861,
+      "word": "专家称溺亡大学生或吸入化学药剂窒息",
+      "onboard_time": 1753370847,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97120,
       "num": 233649,
       "word": "毕雯珺太帅了",
       "onboard_time": 1753281265,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97052,
+      "num": 97052,
+      "word": "周深演唱借过一下",
+      "onboard_time": 1753370726,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 96946,
+      "num": 96946,
+      "word": "小猫不语只是一味地发电",
+      "onboard_time": 1753369948,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 96804,
@@ -2921,6 +2985,14 @@
       "onboard_time": 1753283732,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94709,
+      "num": 94709,
+      "word": "王琳在关灯的空房子和小狗说话",
+      "onboard_time": 1753369166,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 93220,
