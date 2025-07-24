@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753396075383,
+  "endTime": 1753397196427,
   "band_list": [
     {
       "raw_hot": 886749,
@@ -35,7 +35,7 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 407989,
+      "raw_hot": 516308,
       "num": 223868,
       "word": "东北大学获救老师被截肢是谣言",
       "onboard_time": 1753375640,
@@ -51,19 +51,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316995,
+      "num": 316995,
+      "word": "企业学校同6名遇难学生家属协商赔偿",
+      "onboard_time": 1753374203,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285566,
       "num": 220325,
       "word": "女子呕吐暴瘦30斤竟是大脑开关失灵",
       "onboard_time": 1753371626,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279464,
-      "num": 279464,
-      "word": "企业学校同6名遇难学生家属协商赔偿",
-      "onboard_time": 1753374203,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "韩国一斯里兰卡籍工人遭同事霸凌",
+      "onboard_time": 1753375880,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 151476,
       "num": 151476,
       "word": "中南大学谭某兵被暂停工作",
@@ -201,14 +209,6 @@
       "onboard_time": 1753363524,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135190,
-      "num": 135190,
-      "word": "韩国一斯里兰卡籍工人遭同事霸凌",
-      "onboard_time": 1753375880,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 132831,
@@ -275,11 +275,27 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 99060,
+      "num": 99060,
+      "word": "8旬独居老太深夜持菜刀砍邻居门",
+      "onboard_time": 1753379357,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97262,
       "num": 151189,
       "word": "东北大学与企业曾签署实习安全协议",
       "onboard_time": 1753372883,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96399,
+      "num": 96399,
+      "word": "17省区市有大到暴雨",
+      "onboard_time": 1753385174,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -328,14 +344,6 @@
       "word": "5名员工出差遇车祸3死2伤",
       "onboard_time": 1753356984,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78393,
-      "num": 78393,
-      "word": "8旬独居老太深夜持菜刀砍邻居门",
-      "onboard_time": 1753379357,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58609,
+      "num": 69027,
+      "word": "明道称被朱孝天删好友",
+      "onboard_time": 1753355724,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 49920,
       "num": 68849,
       "word": "扫毒风暴",
@@ -435,6 +451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 47846,
+      "num": 151031,
+      "word": "洪森辟谣搭乘专机飞往中国",
+      "onboard_time": 1753372945,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45620,
       "num": 68942,
       "word": "40岁姐姐给25岁女生的建议",
@@ -443,28 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 44312,
-      "num": 76156,
-      "word": "17省区市有大到暴雨",
-      "onboard_time": 1753385174,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42605,
-      "num": 151031,
-      "word": "洪森辟谣搭乘专机飞往中国",
-      "onboard_time": 1753372945,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 42258,
-      "num": 69027,
-      "word": "明道称被朱孝天删好友",
-      "onboard_time": 1753355724,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 44041,
+      "num": 104241,
+      "word": "72岁农民被授予时代楷模",
+      "onboard_time": 1753378038,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 42006,
@@ -499,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35110,
-      "num": 104241,
-      "word": "72岁农民被授予时代楷模",
-      "onboard_time": 1753378038,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 33251,
       "num": 68883,
       "word": "一诺获EWC全场MVP",
@@ -523,11 +523,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32000,
+      "num": 44029,
+      "word": "让张予曦毕雯珺最红温的片段来了",
+      "onboard_time": 1753394715,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27541,
-      "num": 35083,
+      "num": 44005,
       "word": "涉事浮选槽内不存在强酸强碱",
       "onboard_time": 1753390454,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27342,
+      "num": 96201,
+      "word": "受强降雨影响荔波大七孔暂停开放",
+      "onboard_time": 1753396215,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -539,20 +555,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21773,
-      "num": 35060,
-      "word": "让张予曦毕雯珺最红温的片段来了",
-      "onboard_time": 1753394715,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21595,
-      "num": 35058,
+      "raw_hot": 22241,
+      "num": 43987,
       "word": "欧盟通过对美关税反制计划",
       "onboard_time": 1753387635,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21248,
+      "num": 46068,
+      "word": "上海某互联网企业高管韩某被抓",
+      "onboard_time": 1753385234,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21005,
@@ -569,14 +585,6 @@
       "onboard_time": 1753381036,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19278,
-      "num": 46068,
-      "word": "上海某互联网企业高管韩某被抓",
-      "onboard_time": 1753385234,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17648,

@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753396075383,
+  "endTime": 1753397196427,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -2251,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516308,
+      "num": 223868,
+      "word": "东北大学获救老师被截肢是谣言",
+      "onboard_time": 1753375640,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 513174,
       "num": 297330,
       "word": "小沈阳 Nina黑粉",
@@ -2969,14 +2977,6 @@
       "onboard_time": 1753336465,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 407989,
-      "num": 223868,
-      "word": "东北大学获救老师被截肢是谣言",
-      "onboard_time": 1753375640,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 407440,
@@ -3811,6 +3811,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 316995,
+      "num": 316995,
+      "word": "企业学校同6名遇难学生家属协商赔偿",
+      "onboard_time": 1753374203,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316956,
       "num": 316956,
       "word": "我国平均每人每年吃近100斤西瓜",
@@ -4241,14 +4249,6 @@
       "onboard_time": 1753166062,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279464,
-      "num": 279464,
-      "word": "企业学校同6名遇难学生家属协商赔偿",
-      "onboard_time": 1753374203,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 277643,
@@ -8347,6 +8347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "韩国一斯里兰卡籍工人遭同事霸凌",
+      "onboard_time": 1753375880,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160382,
       "num": 160382,
       "word": "丁程鑫恋我癖solo彩排",
@@ -10113,14 +10121,6 @@
       "onboard_time": 1753277483,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135190,
-      "num": 135190,
-      "word": "韩国一斯里兰卡籍工人遭同事霸凌",
-      "onboard_time": 1753375880,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 135103,
@@ -13499,6 +13499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99060,
+      "num": 99060,
+      "word": "8旬独居老太深夜持菜刀砍邻居门",
+      "onboard_time": 1753379357,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99011,
       "num": 99011,
       "word": "您好能不能把音量调低一点",
@@ -13665,6 +13673,14 @@
       "onboard_time": 1752971540,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96399,
+      "num": 96399,
+      "word": "17省区市有大到暴雨",
+      "onboard_time": 1753385174,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95503,
@@ -14361,14 +14377,6 @@
       "onboard_time": 1753332085,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78393,
-      "num": 78393,
-      "word": "8旬独居老太深夜持菜刀砍邻居门",
-      "onboard_time": 1753379357,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78355,
@@ -15379,6 +15387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47846,
+      "num": 151031,
+      "word": "洪森辟谣搭乘专机飞往中国",
+      "onboard_time": 1753372945,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47558,
       "num": 77495,
       "word": "男孩玩真人CS坠亡目击者发声",
@@ -15531,14 +15547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44312,
-      "num": 76156,
-      "word": "17省区市有大到暴雨",
-      "onboard_time": 1753385174,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44164,
       "num": 113174,
       "word": "尾号7个0靓号法拍需预存100万话费",
@@ -15553,6 +15561,14 @@
       "onboard_time": 1753065080,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 44041,
+      "num": 104241,
+      "word": "72岁农民被授予时代楷模",
+      "onboard_time": 1753378038,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 43832,
@@ -15617,14 +15633,6 @@
       "onboard_time": 1752946997,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42605,
-      "num": 151031,
-      "word": "洪森辟谣搭乘专机飞往中国",
-      "onboard_time": 1753372945,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42481,
@@ -15899,14 +15907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35110,
-      "num": 104241,
-      "word": "72岁农民被授予时代楷模",
-      "onboard_time": 1753378038,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 34790,
       "num": 44155,
       "word": "牵牛和仙女",
@@ -16041,6 +16041,14 @@
       "onboard_time": 1753203318,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32000,
+      "num": 44029,
+      "word": "让张予曦毕雯珺最红温的片段来了",
+      "onboard_time": 1753394715,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 31987,
@@ -16180,10 +16188,18 @@
     },
     {
       "raw_hot": 27541,
-      "num": 35083,
+      "num": 44005,
       "word": "涉事浮选槽内不存在强酸强碱",
       "onboard_time": 1753390454,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27342,
+      "num": 96201,
+      "word": "受强降雨影响荔波大七孔暂停开放",
+      "onboard_time": 1753396215,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -16427,6 +16443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22241,
+      "num": 43987,
+      "word": "欧盟通过对美关税反制计划",
+      "onboard_time": 1753387635,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22133,
       "num": 22133,
       "word": "TXT预告",
@@ -16451,28 +16475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21773,
-      "num": 35060,
-      "word": "让张予曦毕雯珺最红温的片段来了",
-      "onboard_time": 1753394715,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21713,
       "num": 217244,
       "word": "警方通报旅客飞机上抓扯叫骂",
       "onboard_time": 1753237881,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 21595,
-      "num": 35058,
-      "word": "欧盟通过对美关税反制计划",
-      "onboard_time": 1753387635,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21418,
@@ -16489,6 +16497,14 @@
       "onboard_time": 1753127715,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21248,
+      "num": 46068,
+      "word": "上海某互联网企业高管韩某被抓",
+      "onboard_time": 1753385234,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21005,
@@ -16561,14 +16577,6 @@
       "onboard_time": 1753381036,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19278,
-      "num": 46068,
-      "word": "上海某互联网企业高管韩某被抓",
-      "onboard_time": 1753385234,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19201,
