@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753357239477,
+  "endTime": 1753361840586,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1542539,
-      "num": 403977,
+      "num": 475731,
       "word": "30万存款定律",
       "onboard_time": 1753352423,
       "rank": 18,
@@ -147,6 +147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1197836,
+      "num": 676907,
+      "word": "王一博 演唱会",
+      "onboard_time": 1753360284,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1167735,
       "num": 869202,
       "word": "官方回应6名大学生企业参观溺亡",
@@ -171,6 +179,22 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 1096279,
+      "num": 1120952,
+      "word": "6名大学生溺亡涉事矿企3人被抓",
+      "onboard_time": 1753356502,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1062225,
+      "num": 483045,
+      "word": "东北大学一遇难男生堂妹发声",
+      "onboard_time": 1753355782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1052434,
       "num": 448583,
       "word": "咖啡灌肠",
@@ -184,6 +208,14 @@
       "word": "6名学生溺亡事件家属发声",
       "onboard_time": 1753348345,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 974908,
+      "num": 974908,
+      "word": "东北大学受伤老师坠落半空被救",
+      "onboard_time": 1753358483,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -235,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 755956,
-      "num": 1120952,
-      "word": "6名大学生溺亡涉事矿企3人被抓",
-      "onboard_time": 1753356502,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 716814,
+      "num": 428495,
+      "word": "阚清子老公是她的粉丝",
+      "onboard_time": 1753358964,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 715381,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 642484,
-      "num": 302863,
+      "num": 397204,
       "word": "明道称被朱孝天删好友",
       "onboard_time": 1753355724,
       "rank": 18,
@@ -312,6 +344,14 @@
       "word": "殡仪馆称网传大学生遗体损坏不实",
       "onboard_time": 1753333525,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608435,
+      "num": 608435,
+      "word": "5名员工出差遇车祸3死2伤",
+      "onboard_time": 1753356984,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -393,6 +433,14 @@
       "onboard_time": 1753348524,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534575,
+      "num": 534575,
+      "word": "临江仙庆功宴",
+      "onboard_time": 1753358242,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 524274,
@@ -545,6 +593,14 @@
       "onboard_time": 1753321104,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 377992,
+      "num": 377992,
+      "word": "蔡依林已冻卵",
+      "onboard_time": 1753360224,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 346499,
@@ -787,14 +843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253623,
-      "num": 253623,
-      "word": "东北大学一遇难男生堂妹发声",
-      "onboard_time": 1753355782,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247092,
       "num": 247092,
       "word": "辛巴 棉密码",
@@ -867,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229230,
+      "num": 229230,
+      "word": "朝雪录编剧",
+      "onboard_time": 1753358604,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228850,
       "num": 296743,
       "word": "俄客机失事原因",
@@ -881,6 +937,14 @@
       "onboard_time": 1753338984,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226673,
+      "num": 506241,
+      "word": "中南大学通报谭某兵被举报",
+      "onboard_time": 1753358902,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 226162,
@@ -979,12 +1043,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 216883,
+      "num": 216883,
+      "word": "董璇小酒窝与沐言母女合照",
+      "onboard_time": 1753359025,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214238,
       "num": 214238,
       "word": "柬泰双方交火致大量学生平民受伤",
       "onboard_time": 1753340066,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 213997,
+      "num": 213997,
+      "word": "学生遇难企业3人被采取刑事强制措施",
+      "onboard_time": 1753356742,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 213909,
+      "num": 213909,
+      "word": "刘轩丞发vlog",
+      "onboard_time": 1753361364,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 213905,
@@ -1083,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200569,
+      "num": 264153,
+      "word": "R1SE咱还回内娱当男团吗",
+      "onboard_time": 1753356262,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200078,
       "num": 200078,
       "word": "HYBE被扣押搜查",
@@ -1163,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191562,
+      "num": 191562,
+      "word": "关晓彤大花感",
+      "onboard_time": 1753360284,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190491,
       "num": 272586,
       "word": "朝雪录爱奇艺热度破10100",
@@ -1187,12 +1291,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188588,
-      "num": 264153,
-      "word": "R1SE咱还回内娱当男团吗",
-      "onboard_time": 1753356262,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 189461,
+      "num": 189461,
+      "word": "中南大学谭某兵被暂停工作",
+      "onboard_time": 1753360764,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 188238,
@@ -1227,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184428,
+      "num": 189471,
+      "word": "泰国军方通报与柬埔寨战况",
+      "onboard_time": 1753359923,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184332,
       "num": 224221,
       "word": "慕胥辞双端预约破200万",
@@ -1251,12 +1363,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 183145,
+      "num": 189518,
+      "word": "张娜拉自曝因童颜感到压力",
+      "onboard_time": 1753360104,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183068,
+      "num": 183068,
+      "word": "谢娜辣评张杰不适合唱的歌",
+      "onboard_time": 1753361485,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183006,
       "num": 183006,
       "word": "华为发布首款AI手写笔",
       "onboard_time": 1753348285,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182640,
+      "num": 264650,
+      "word": "东北大学6名学生溺亡事故最新调查",
+      "onboard_time": 1753356922,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182098,
@@ -1355,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174972,
+      "num": 174972,
+      "word": "肖战新剧片场脱衣路透",
+      "onboard_time": 1753358363,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174636,
       "num": 194513,
       "word": "肖战谍报上不封顶路透",
@@ -1369,6 +1513,14 @@
       "onboard_time": 1753282770,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171461,
+      "num": 171461,
+      "word": "周也粉色吊带长裙",
+      "onboard_time": 1753358422,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171253,
@@ -1425,6 +1577,14 @@
       "onboard_time": 1753338746,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168665,
+      "num": 168665,
+      "word": "40岁姐姐给25岁女生的建议",
+      "onboard_time": 1753358422,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 167975,
@@ -1603,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157546,
+      "num": 157546,
+      "word": "员工顶撞上司被其丈夫打到脾脏摘除",
+      "onboard_time": 1753357343,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157033,
       "num": 157033,
       "word": "西瓜真的是最善良的水果了",
@@ -1667,12 +1835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149820,
-      "num": 149820,
-      "word": "5名员工出差遇车祸3死2伤",
-      "onboard_time": 1753356984,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 149394,
+      "num": 149394,
+      "word": "燕离岳凝亲都亲了别嘴硬了",
+      "onboard_time": 1753361485,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 148341,
@@ -1707,14 +1875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147558,
-      "num": 147558,
-      "word": "学生遇难企业3人被采取刑事强制措施",
-      "onboard_time": 1753356742,
-      "rank": 33,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 147054,
       "num": 147054,
       "word": "KPL夏季赛第三轮赛程公布",
@@ -1745,6 +1905,14 @@
       "onboard_time": 1753350445,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143404,
+      "num": 143404,
+      "word": "中金黄金董秘办回应6名大学生溺亡",
+      "onboard_time": 1753358124,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142623,
@@ -1827,6 +1995,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 136897,
+      "num": 136897,
+      "word": "Meiko世运会火炬手",
+      "onboard_time": 1753359744,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136792,
       "num": 136792,
       "word": "内蒙古矿业年净利润22.8亿元",
@@ -1849,6 +2025,22 @@
       "onboard_time": 1753349424,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133005,
+      "num": 133005,
+      "word": "梦幻彩虹与村庄同框有多浪漫",
+      "onboard_time": 1753361364,
+      "rank": 44,
+      "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 132228,
+      "num": 132228,
+      "word": "都0轮游了还摇来11个艺人应援",
+      "onboard_time": 1753358543,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 132224,
@@ -2027,6 +2219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 120633,
+      "num": 120633,
+      "word": "中国男篮vs委内瑞拉男篮",
+      "onboard_time": 1753359863,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120403,
       "num": 233006,
       "word": "鹿晗与穿越火线主创合照",
@@ -2049,6 +2249,14 @@
       "onboard_time": 1753354943,
       "rank": 19,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 119338,
+      "num": 119338,
+      "word": "深情眼直播",
+      "onboard_time": 1753361664,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119003,
@@ -2219,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109473,
+      "num": 229442,
+      "word": "家属称遇难学生从小懂事努力考上985",
+      "onboard_time": 1753360344,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108150,
       "num": 108150,
       "word": "打心眼里喜欢这样的人",
@@ -2329,14 +2545,6 @@
       "onboard_time": 1753326684,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102248,
-      "num": 264650,
-      "word": "东北大学6名学生溺亡事故最新调查",
-      "onboard_time": 1753356922,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101694,
@@ -2771,6 +2979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 29391,
+      "num": 189485,
+      "word": "居家办公处理邮件摔骨折公司拒认工伤",
+      "onboard_time": 1753360344,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28433,
       "num": 575114,
       "word": "国家医保目录药品数达3159种",
@@ -2795,8 +3011,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2209,
-      "num": 396793,
+      "raw_hot": 3262,
+      "num": 740691,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,
