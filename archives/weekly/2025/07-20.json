@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753350439561,
+  "endTime": 1753353070480,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -23,6 +23,14 @@
       "num": 222613,
       "word": "田栩宁 灰指甲",
       "onboard_time": 1753109902,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4388956,
+      "num": 323805,
+      "word": "阚清子官宣怀孕",
+      "onboard_time": 1753349545,
       "rank": 10,
       "category": "艺人"
     },
@@ -64,14 +72,6 @@
       "word": "阚清子 怀孕",
       "onboard_time": 1753339046,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3490529,
-      "num": 323805,
-      "word": "阚清子官宣怀孕",
-      "onboard_time": 1753349545,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -784,6 +784,14 @@
       "word": "服务员当面倒入罐装可乐一杯卖50元",
       "onboard_time": 1753272081,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 991842,
+      "num": 475685,
+      "word": "6名学生溺亡事件家属发声",
+      "onboard_time": 1753348345,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1627,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 594511,
+      "num": 235071,
+      "word": "阚清子老公",
+      "onboard_time": 1753348823,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591083,
       "num": 591083,
       "word": "现在就出发",
@@ -2251,6 +2267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 484688,
+      "num": 407587,
+      "word": "杨幂 王牌9",
+      "onboard_time": 1753349424,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483928,
       "num": 483928,
       "word": "深圳台风",
@@ -2273,14 +2297,6 @@
       "onboard_time": 1752991881,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 475685,
-      "num": 475685,
-      "word": "6名学生溺亡事件家属发声",
-      "onboard_time": 1753348345,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475155,
@@ -2393,6 +2409,14 @@
       "onboard_time": 1753250061,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459232,
+      "num": 233522,
+      "word": "东北大学一遇难学生刚保研",
+      "onboard_time": 1753349664,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 457353,
@@ -2617,6 +2641,14 @@
       "onboard_time": 1753248441,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 424937,
+      "num": 424937,
+      "word": "金饰克价跌到1012元",
+      "onboard_time": 1753347984,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 424436,
@@ -2963,20 +2995,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 374919,
-      "num": 374919,
-      "word": "金饰克价跌到1012元",
-      "onboard_time": 1753347984,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 374729,
       "num": 374729,
       "word": "重庆姐弟坠亡案涉事房产拍卖",
       "onboard_time": 1753255760,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374556,
+      "num": 232326,
+      "word": "网评四大影帝幼年体",
+      "onboard_time": 1753348524,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 372717,
@@ -3155,6 +3187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 348141,
+      "num": 231265,
+      "word": "30万存款定律",
+      "onboard_time": 1753352423,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 347870,
       "num": 347870,
       "word": "郝蕾直播录制当众甩脸",
@@ -3323,6 +3363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332796,
+      "num": 228158,
+      "word": "NewJeans一到HYBE附近就抑郁",
+      "onboard_time": 1753352184,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332637,
       "num": 418125,
       "word": "毕雯珺颜值",
@@ -3355,6 +3403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 328366,
+      "num": 321043,
+      "word": "6名溺亡学生家属暂未到达殡仪馆",
+      "onboard_time": 1753347684,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327691,
       "num": 233692,
       "word": "每天吃1根玉米身体会有什么变化",
@@ -3377,6 +3433,14 @@
       "onboard_time": 1753158683,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326680,
+      "num": 326680,
+      "word": "印度恢复种姓普查",
+      "onboard_time": 1753350984,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 326530,
@@ -3457,14 +3521,6 @@
       "onboard_time": 1753345044,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321043,
-      "num": 321043,
-      "word": "6名溺亡学生家属暂未到达殡仪馆",
-      "onboard_time": 1753347684,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320792,
@@ -3561,6 +3617,14 @@
       "onboard_time": 1753076664,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310978,
+      "num": 219553,
+      "word": "浮选车间主任还原大学生溺亡经过",
+      "onboard_time": 1753350325,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310930,
@@ -3936,14 +4000,6 @@
       "word": "丁程鑫顶级中译中",
       "onboard_time": 1753166062,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 278175,
-      "num": 278175,
-      "word": "杨幂 王牌9",
-      "onboard_time": 1753349424,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -4331,6 +4387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250930,
+      "num": 250930,
+      "word": "时代少年团 偶像万万岁",
+      "onboard_time": 1753351943,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 250031,
       "num": 250031,
       "word": "扫毒风暴于文文暗恋不了一点",
@@ -4411,6 +4475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246154,
+      "num": 219115,
+      "word": "任嘉伦线下活动被人扔东西",
+      "onboard_time": 1753347503,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245212,
       "num": 245212,
       "word": "张真源solo",
@@ -4481,6 +4553,14 @@
       "onboard_time": 1753111404,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242354,
+      "num": 242354,
+      "word": "樊振东王楚钦开心击掌",
+      "onboard_time": 1753351823,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 241030,
@@ -4731,6 +4811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226162,
+      "num": 226162,
+      "word": "李兰迪敖瑞鹏可以二搭了",
+      "onboard_time": 1753348464,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225396,
       "num": 225396,
       "word": "GEN战胜HLE",
@@ -4876,7 +4964,7 @@
     },
     {
       "raw_hot": 219532,
-      "num": 219532,
+      "num": 225712,
       "word": "王牌对王牌9首轮飞行阵容",
       "onboard_time": 1753347864,
       "rank": 29,
@@ -4889,6 +4977,14 @@
       "onboard_time": 1753024703,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218814,
+      "num": 218814,
+      "word": "明末",
+      "onboard_time": 1753351523,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 218484,
@@ -5115,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213498,
+      "num": 213498,
+      "word": "成都天府机场一网约车失控",
+      "onboard_time": 1753349123,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212269,
       "num": 212269,
       "word": "57岁金星巴黎被偶遇",
@@ -5323,14 +5427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206341,
-      "num": 206341,
-      "word": "任嘉伦线下活动被人扔东西",
-      "onboard_time": 1753347503,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205917,
       "num": 205917,
       "word": "一人一句为福宝送生日祝福",
@@ -5385,14 +5481,6 @@
       "onboard_time": 1753175602,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204399,
-      "num": 204399,
-      "word": "李兰迪敖瑞鹏可以二搭了",
-      "onboard_time": 1753348464,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 204378,
@@ -5563,6 +5651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200657,
+      "num": 200657,
+      "word": "杨瀚森不出战亚洲杯",
+      "onboard_time": 1753349664,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200545,
       "num": 200545,
       "word": "Faker赌AL夺冠",
@@ -5715,14 +5811,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 196192,
-      "num": 196192,
-      "word": "杨瀚森不出战亚洲杯",
-      "onboard_time": 1753349664,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195831,
       "num": 195831,
       "word": "台风韦帕登陆泰国两名中国游客身亡",
@@ -5865,14 +5953,6 @@
       "onboard_time": 1753166362,
       "rank": 24,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 192446,
-      "num": 179460,
-      "word": "成都天府机场一网约车失控",
-      "onboard_time": 1753349123,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192320,
@@ -6091,20 +6171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188052,
-      "num": 188052,
-      "word": "东北大学一遇难学生刚保研",
-      "onboard_time": 1753349664,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187809,
       "num": 187809,
       "word": "福耀科技大学投档分超厦大哈工大",
       "onboard_time": 1753192882,
       "rank": 19,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 187759,
+      "num": 225241,
+      "word": "清潭国际高中2",
+      "onboard_time": 1753351883,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 187707,
@@ -6281,6 +6361,14 @@
       "onboard_time": 1753067061,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184332,
+      "num": 224221,
+      "word": "慕胥辞双端预约破200万",
+      "onboard_time": 1753352423,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 184107,
@@ -6489,6 +6577,14 @@
       "onboard_time": 1753338566,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 180525,
+      "num": 180525,
+      "word": "恶搞中国人的外国女网红翻车",
+      "onboard_time": 1753348885,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 180481,
@@ -6729,6 +6825,14 @@
       "onboard_time": 1753071203,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175460,
+      "num": 324481,
+      "word": "探访6名学生溺亡事件涉事厂区",
+      "onboard_time": 1753349784,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175324,
@@ -7129,14 +7233,6 @@
       "onboard_time": 1753019004,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169315,
-      "num": 169315,
-      "word": "恶搞中国人的外国女网红翻车",
-      "onboard_time": 1753348885,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 169104,
@@ -7571,6 +7667,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 161385,
+      "num": 223298,
+      "word": "官方回应成都天府机场一网约车失控",
+      "onboard_time": 1753351343,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161346,
       "num": 161346,
       "word": "冲浪带来的快感约等于20杯奶茶",
@@ -7691,6 +7795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160262,
+      "num": 160262,
+      "word": "杨瀚森回应不参加亚洲杯",
+      "onboard_time": 1753352725,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160190,
       "num": 160190,
       "word": "中金黄金股价开盘大跌",
@@ -7744,6 +7856,14 @@
       "word": "他赢了比赛却毁了她的剧本",
       "onboard_time": 1753018225,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158522,
+      "num": 222619,
+      "word": "慕胥辞",
+      "onboard_time": 1753350744,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8363,14 +8483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149098,
-      "num": 149098,
-      "word": "网评四大影帝幼年体",
-      "onboard_time": 1753348524,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148970,
       "num": 148970,
       "word": "王伟忠赞肖战是年轻又有演技的演员",
@@ -8745,6 +8857,14 @@
       "onboard_time": 1753256182,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143564,
+      "num": 143564,
+      "word": "韩国男子继承牧场后63头牛饿死被拘",
+      "onboard_time": 1753350445,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143522,
@@ -9619,6 +9739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131841,
+      "num": 131841,
+      "word": "杨瀚森感谢篮协国家队理解和支持",
+      "onboard_time": 1753350805,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131713,
       "num": 131713,
       "word": "黄礼志吃国潮外卖",
@@ -10027,6 +10155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126839,
+      "num": 126839,
+      "word": "李靳屿都养比格了你让让他吧",
+      "onboard_time": 1753352906,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "广东2地发布五停通知",
@@ -10065,6 +10201,14 @@
       "onboard_time": 1753246883,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126499,
+      "num": 126499,
+      "word": "看别人朋友圈好像一场盛大的自虐",
+      "onboard_time": 1753350204,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 126462,
@@ -10739,6 +10883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118762,
+      "num": 118762,
+      "word": "JDG对战iG",
+      "onboard_time": 1753350564,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118756,
       "num": 259774,
       "word": "高铁泡面不宜一禁了之",
@@ -11297,14 +11449,6 @@
       "onboard_time": 1753079903,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113402,
-      "num": 113402,
-      "word": "看别人朋友圈好像一场盛大的自虐",
-      "onboard_time": 1753350204,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 113320,
@@ -11889,14 +12033,6 @@
       "onboard_time": 1753095742,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 106595,
-      "num": 324481,
-      "word": "探访6名学生溺亡事件涉事厂区",
-      "onboard_time": 1753349784,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106495,
@@ -12715,6 +12851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93220,
+      "num": 229725,
+      "word": "辛选客服回应棉密码卫生巾问题",
+      "onboard_time": 1753351343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93161,
       "num": 93161,
       "word": "我怀疑月经有自我意识",
@@ -13259,6 +13403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78179,
+      "num": 168898,
+      "word": "姜文说于和伟这演员演得多好",
+      "onboard_time": 1753353024,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78125,
       "num": 87904,
       "word": "国安通报3起泄密案例",
@@ -13529,6 +13681,14 @@
       "onboard_time": 1753158142,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68647,
+      "num": 177721,
+      "word": "郭羡妮否认婚变",
+      "onboard_time": 1753352906,
+      "rank": 38,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 68588,
@@ -14939,6 +15099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28212,
+      "num": 221427,
+      "word": "辛选并未下架陷致癌风波卫生巾",
+      "onboard_time": 1753351284,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28141,
       "num": 147506,
       "word": "张震岳带新歌开YU7去露营",
@@ -15497,6 +15665,9 @@
     },
     {
       "word": "#要牢牢把握中欧关系发展的正确方向#"
+    },
+    {
+      "word": "#习近平会见科斯塔和冯德莱恩#"
     }
   ]
 }

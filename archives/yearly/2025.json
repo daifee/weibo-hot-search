@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753350439561,
+  "endTime": 1753353070480,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1899,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 4388956,
+      "num": 323805,
+      "word": "阚清子官宣怀孕",
+      "onboard_time": 1753349545,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4382418,
       "num": 685448,
       "word": "甜馨签约乐华了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738818210,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3711983,
-      "num": 299071,
-      "word": "境外论坛传大量中国女性私密照",
-      "onboard_time": 1753331605,
-      "rank": 10,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
