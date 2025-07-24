@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753367372319,
+  "endTime": 1753368551487,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -1195,6 +1195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 751360,
+      "num": 751360,
+      "word": "富豪CEO被大象踩踏身亡",
+      "onboard_time": 1753366107,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 750845,
       "num": 750845,
       "word": "女子不知父亲去世3个姑姑分掉遗产",
@@ -1636,7 +1644,7 @@
     },
     {
       "raw_hot": 625572,
-      "num": 576880,
+      "num": 600134,
       "word": "李佳琦承诺赔付铂爵旅拍订单",
       "onboard_time": 1753364725,
       "rank": 26,
@@ -1801,14 +1809,6 @@
       "onboard_time": 1753351823,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 586801,
-      "num": 586801,
-      "word": "富豪CEO被大象踩踏身亡",
-      "onboard_time": 1753366107,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 585231,
@@ -2939,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409244,
+      "num": 605310,
+      "word": "美国骚猪肉",
+      "onboard_time": 1753364425,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 408144,
       "num": 408144,
       "word": "一架搭载约50人的俄罗斯客机失联",
@@ -3227,14 +3235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 366813,
-      "num": 578604,
-      "word": "美国骚猪肉",
-      "onboard_time": 1753364425,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 366515,
       "num": 366515,
       "word": "袁姗姗回应去哀牢山拍戏",
@@ -3448,6 +3448,14 @@
       "word": "血铅异常幼儿后续治疗及服务保障方案",
       "onboard_time": 1753024943,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340601,
+      "num": 502620,
+      "word": "东北大学获救老师受轻伤",
+      "onboard_time": 1753367128,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -5891,6 +5899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200935,
+      "num": 173947,
+      "word": "警方通报比亚迪四川机场内绕圈",
+      "onboard_time": 1753367967,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 200871,
       "num": 293689,
       "word": "世卫专家就基孔肯雅热发警报",
@@ -6049,6 +6065,14 @@
       "onboard_time": 1753017684,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197227,
+      "num": 197227,
+      "word": "鹭卓王一珩没收水稻来录节目了",
+      "onboard_time": 1753367427,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197113,
@@ -6217,6 +6241,22 @@
       "onboard_time": 1753353203,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193441,
+      "num": 182624,
+      "word": "比亚迪官方辟谣失控事件",
+      "onboard_time": 1753367908,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 193207,
+      "num": 173077,
+      "word": "Ale曝Jiejie离队",
+      "onboard_time": 1753367310,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 193089,
@@ -7091,14 +7131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178176,
-      "num": 164698,
-      "word": "东北大学获救老师受轻伤",
-      "onboard_time": 1753367128,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178000,
       "num": 178000,
       "word": "樱桃磕到了我也嗑到了",
@@ -7465,6 +7497,14 @@
       "onboard_time": 1753147041,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171910,
+      "num": 171910,
+      "word": "AG战胜A7",
+      "onboard_time": 1753368448,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 171461,
@@ -7865,6 +7905,14 @@
       "onboard_time": 1753156162,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165267,
+      "num": 176238,
+      "word": "谢娜内核",
+      "onboard_time": 1753368088,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 165266,
@@ -9195,6 +9243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146563,
+      "num": 146563,
+      "word": "比亚迪已对网络谣言全面取证",
+      "onboard_time": 1753367908,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146542,
       "num": 146542,
       "word": "山河四省开始抄河北文旅作业了",
@@ -9505,6 +9561,14 @@
       "onboard_time": 1753241241,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141234,
+      "num": 141234,
+      "word": "李沁 你好星期六",
+      "onboard_time": 1753368209,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 141187,
@@ -10123,6 +10187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133754,
+      "num": 168727,
+      "word": "女子称面试后想删个人信息反遭殴打",
+      "onboard_time": 1753365686,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133670,
       "num": 133670,
       "word": "吴磊 花泽磊",
@@ -10497,6 +10569,14 @@
       "onboard_time": 1753164380,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129958,
+      "num": 129958,
+      "word": "适合三伏天的新中式健身操",
+      "onboard_time": 1753368209,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 129671,
@@ -11923,6 +12003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115022,
+      "num": 115022,
+      "word": "AG拿下EWC开门红",
+      "onboard_time": 1753368509,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114994,
       "num": 114994,
       "word": "GALA 保jie派",
@@ -12169,14 +12257,6 @@
       "onboard_time": 1753078522,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 113095,
-      "num": 113095,
-      "word": "Ale曝Jiejie离队",
-      "onboard_time": 1753367310,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 112976,
@@ -14443,14 +14523,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 67109,
-      "num": 168727,
-      "word": "女子称面试后想删个人信息反遭殴打",
-      "onboard_time": 1753365686,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66511,
       "num": 66511,
       "word": "心动的信号8开录",
@@ -15820,7 +15892,7 @@
     },
     {
       "raw_hot": 28433,
-      "num": 742717,
+      "num": 744355,
       "word": "国家医保目录药品数达3159种",
       "onboard_time": 1753326385,
       "rank": 2,

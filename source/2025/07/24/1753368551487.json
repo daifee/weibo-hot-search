@@ -1,0 +1,410 @@
+{
+  "runTime": 1753368551487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1330741,
+        "num": 1330741,
+        "word": "医生称坠入矿浆无黄金救援时间",
+        "onboard_time": 1753362925,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751360,
+        "num": 751360,
+        "word": "富豪CEO被大象踩踏身亡",
+        "onboard_time": 1753366107,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5294,
+        "num": 744355,
+        "word": "国家医保目录药品数达3159种",
+        "onboard_time": 1753326385,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 737834,
+        "num": 737834,
+        "word": "王一博 演唱会",
+        "onboard_time": 1753360284,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 409244,
+        "num": 605310,
+        "word": "美国骚猪肉",
+        "onboard_time": 1753364425,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1209395,
+        "num": 603345,
+        "word": "阚清子官宣怀孕",
+        "onboard_time": 1753349545,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600134,
+        "num": 600134,
+        "word": "李佳琦承诺赔付铂爵旅拍订单",
+        "onboard_time": 1753364725,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340601,
+        "num": 502620,
+        "word": "东北大学获救老师受轻伤",
+        "onboard_time": 1753367128,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318979,
+        "num": 453328,
+        "word": "迪丽热巴吴磊 将门毒后",
+        "onboard_time": 1753346243,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447304,
+        "num": 447304,
+        "word": "中南大学通报谭某兵被举报",
+        "onboard_time": 1753358902,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 923883,
+        "num": 430721,
+        "word": "曝boss直聘再次涉黄",
+        "onboard_time": 1753364785,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 466899,
+        "num": 405877,
+        "word": "30万存款定律",
+        "onboard_time": 1753352423,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377922,
+        "num": 377922,
+        "word": "中南大学谭某兵被暂停工作",
+        "onboard_time": 1753360764,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 369356,
+        "num": 369356,
+        "word": "阚清子孕肚写真",
+        "onboard_time": 1753363944,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357727,
+        "num": 357727,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328886,
+        "num": 328886,
+        "word": "蔡依林已冻卵",
+        "onboard_time": 1753360224,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321720,
+        "num": 321720,
+        "word": "刘轩丞发vlog",
+        "onboard_time": 1753361364,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316665,
+        "num": 316665,
+        "word": "溺亡学生出事前给朋友发格栅板视频",
+        "onboard_time": 1753354823,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288091,
+        "num": 288091,
+        "word": "5名员工出差遇车祸3死2伤",
+        "onboard_time": 1753356984,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232976,
+        "num": 232976,
+        "word": "临江仙庆功宴",
+        "onboard_time": 1753358242,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1136465,
+        "num": 229715,
+        "word": "东北大学受伤老师坠落半空被救",
+        "onboard_time": 1753358483,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121984,
+        "num": 218855,
+        "word": "10万买什么车能一步到位",
+        "onboard_time": 1753364124,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209053,
+        "num": 209053,
+        "word": "东北大学一遇难男生堂妹发声",
+        "onboard_time": 1753355782,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203554,
+        "num": 203554,
+        "word": "6名大学生溺亡涉事矿企3人被抓",
+        "onboard_time": 1753356502,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197227,
+        "num": 197227,
+        "word": "鹭卓王一珩没收水稻来录节目了",
+        "onboard_time": 1753367427,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183353,
+        "num": 183353,
+        "word": "内蒙古将提级调查6名学生溺亡",
+        "onboard_time": 1753345283,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193441,
+        "num": 182624,
+        "word": "比亚迪官方辟谣失控事件",
+        "onboard_time": 1753367908,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178014,
+        "num": 178014,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165472,
+        "num": 177486,
+        "word": "张娜拉自曝因童颜感到压力",
+        "onboard_time": 1753360104,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165267,
+        "num": 176238,
+        "word": "谢娜内核",
+        "onboard_time": 1753368088,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200935,
+        "num": 173947,
+        "word": "警方通报比亚迪四川机场内绕圈",
+        "onboard_time": 1753367967,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 193207,
+        "num": 173077,
+        "word": "Ale曝Jiejie离队",
+        "onboard_time": 1753367310,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171910,
+        "num": 171910,
+        "word": "AG战胜A7",
+        "onboard_time": 1753368448,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158136,
+        "num": 158136,
+        "word": "董璇小酒窝与沐言母女合照",
+        "onboard_time": 1753359025,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156523,
+        "num": 156523,
+        "word": "浮选车间主任还原大学生溺亡经过",
+        "onboard_time": 1753350325,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150985,
+        "num": 150985,
+        "word": "红舞鞋",
+        "onboard_time": 1753365505,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146563,
+        "num": 146563,
+        "word": "比亚迪已对网络谣言全面取证",
+        "onboard_time": 1753367908,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144819,
+        "num": 144819,
+        "word": "母亲当8岁儿子面吸毒当场被抓",
+        "onboard_time": 1753363524,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141234,
+        "num": 141234,
+        "word": "李沁 你好星期六",
+        "onboard_time": 1753368209,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139440,
+        "num": 139440,
+        "word": "朝雪录编剧",
+        "onboard_time": 1753358604,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133754,
+        "num": 133754,
+        "word": "女子称面试后想删个人信息反遭殴打",
+        "onboard_time": 1753365686,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134960,
+        "num": 133290,
+        "word": "李兰迪敖瑞鹏可以二搭了",
+        "onboard_time": 1753348464,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131075,
+        "num": 131075,
+        "word": "白鹿晒临江仙拍立得合照",
+        "onboard_time": 1753363585,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129958,
+        "num": 129958,
+        "word": "适合三伏天的新中式健身操",
+        "onboard_time": 1753368209,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126956,
+        "num": 126956,
+        "word": "谢娜辣评张杰不适合唱的歌",
+        "onboard_time": 1753361485,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127286,
+        "num": 126254,
+        "word": "40岁姐姐给25岁女生的建议",
+        "onboard_time": 1753358422,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123892,
+        "num": 123892,
+        "word": "深情眼直播",
+        "onboard_time": 1753361664,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120414,
+        "num": 120414,
+        "word": "B萌投票",
+        "onboard_time": 1753361905,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118509,
+        "num": 118509,
+        "word": "起猛了看到丁禹兮帮化妆师挡太阳了",
+        "onboard_time": 1753361845,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115022,
+        "num": 115022,
+        "word": "AG拿下EWC开门红",
+        "onboard_time": 1753368509,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧建交50年的重要经验和启示#"
+    }
+  }
+}
