@@ -1,0 +1,410 @@
+{
+  "runTime": 1753343064868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1660902,
+        "num": 1660902,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 0,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 806205,
+        "num": 806205,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6736,
+        "num": 636372,
+        "word": "抗日英烈在狱中为儿子起名抗生",
+        "onboard_time": 1753270101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476482,
+        "num": 476482,
+        "word": "无意识控糖行为",
+        "onboard_time": 1753335983,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370579,
+        "num": 370579,
+        "word": "新华社4问6名大学生溺亡事件",
+        "onboard_time": 1753340846,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311219,
+        "num": 311219,
+        "word": "张峻豪 先别闹了",
+        "onboard_time": 1753328725,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275161,
+        "num": 275161,
+        "word": "一架搭载约50人的俄罗斯客机失联",
+        "onboard_time": 1753336465,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271999,
+        "num": 271999,
+        "word": "俄发现失联客机残骸",
+        "onboard_time": 1753340245,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260268,
+        "num": 260268,
+        "word": "柬方火箭弹落入泰国一加油站",
+        "onboard_time": 1753336405,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253461,
+        "num": 253461,
+        "word": "任豪因虞书欣张凌赫选了深圳店",
+        "onboard_time": 1753338385,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3343800,
+        "num": 251000,
+        "word": "阚清子 怀孕",
+        "onboard_time": 1753339046,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1208931,
+        "num": 249597,
+        "word": "6名大学生溺亡涉事选矿厂画面曝光",
+        "onboard_time": 1753333465,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090200,
+        "num": 244852,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331988,
+        "num": 242762,
+        "word": "卫生巾 硫脲",
+        "onboard_time": 1753325902,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241062,
+        "num": 241062,
+        "word": "喝了半年牛初乳6岁女孩查出性早熟",
+        "onboard_time": 1753333706,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235513,
+        "num": 235513,
+        "word": "6岁女孩和奶奶混洗内衣感染妇科病",
+        "onboard_time": 1753338685,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219338,
+        "num": 219338,
+        "word": "沈腾这是真缺席王牌9录制了",
+        "onboard_time": 1753342646,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195603,
+        "num": 218539,
+        "word": "曝娄烨涉嫌职务侵占上千万",
+        "onboard_time": 1753331186,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194003,
+        "num": 217895,
+        "word": "鸿蒙新平板像电脑一样强大",
+        "onboard_time": 1753340607,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94078,
+        "num": 217499,
+        "word": "6名溺亡大学生非采矿工程专业",
+        "onboard_time": 1753340006,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268726,
+        "num": 216729,
+        "word": "男子骗情人1100万转给妻子挥霍",
+        "onboard_time": 1753336645,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221637,
+        "num": 215522,
+        "word": "展轩机场",
+        "onboard_time": 1753328005,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215237,
+        "num": 215237,
+        "word": "泰国柬埔寨在边境交火",
+        "onboard_time": 1753323924,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206807,
+        "num": 206807,
+        "word": "柬埔寨公主内娱首刊",
+        "onboard_time": 1753339586,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200158,
+        "num": 200158,
+        "word": "我国累计追回医保基金1045亿元",
+        "onboard_time": 1753342165,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200078,
+        "num": 200078,
+        "word": "HYBE被扣押搜查",
+        "onboard_time": 1753342346,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182063,
+        "num": 182063,
+        "word": "内娱首部正统修仙剧来了",
+        "onboard_time": 1753331907,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179862,
+        "num": 179862,
+        "word": "柬泰双方交火致大量学生平民受伤",
+        "onboard_time": 1753340066,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176390,
+        "num": 176390,
+        "word": "易烊千玺演唱会300多万人抢7309张票",
+        "onboard_time": 1753334724,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59930,
+        "num": 174091,
+        "word": "卖水的利润有多大",
+        "onboard_time": 1753334125,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 173335,
+        "num": 173335,
+        "word": "买鞋要记得看鞋底",
+        "onboard_time": 1753330644,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171253,
+        "num": 171253,
+        "word": "朴元彬腹肌",
+        "onboard_time": 1753342766,
+        "rank": 31,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 162698,
+        "num": 162698,
+        "word": "戒断牛奶后身体的变化",
+        "onboard_time": 1753342826,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157817,
+        "num": 157817,
+        "word": "本世纪有6次闰六月",
+        "onboard_time": 1753340126,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157758,
+        "num": 157758,
+        "word": "泰方将在泰柬边境部署6架F16战机",
+        "onboard_time": 1753334125,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157338,
+        "num": 157338,
+        "word": "7号台风来了8号台风已生成",
+        "onboard_time": 1753342525,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156245,
+        "num": 156245,
+        "word": "棉密码卫生巾超30人自述患甲癌",
+        "onboard_time": 1753321284,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150506,
+        "num": 150506,
+        "word": "当你不停运动7个月后",
+        "onboard_time": 1753338566,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 61556,
+        "num": 149389,
+        "word": "小泡芙12岁了",
+        "onboard_time": 1753341984,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36722,
+        "num": 148770,
+        "word": "王珞丹回应为何沉寂多年",
+        "onboard_time": 1753342826,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148341,
+        "num": 148341,
+        "word": "沪指站稳3600点缩量199亿",
+        "onboard_time": 1753342946,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113362,
+        "num": 138708,
+        "word": "capper演唱会",
+        "onboard_time": 1753341387,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134576,
+        "num": 134576,
+        "word": "6名溺亡学生为大三生",
+        "onboard_time": 1753326082,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132224,
+        "num": 132224,
+        "word": "柯南官配小情侣发糖啦",
+        "onboard_time": 1753341865,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132204,
+        "num": 132204,
+        "word": "樊振东在苏州被偶遇",
+        "onboard_time": 1753338746,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130510,
+        "num": 130510,
+        "word": "年轻人真的很会过高品质的生活",
+        "onboard_time": 1753341806,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129498,
+        "num": 129498,
+        "word": "newjeans开庭",
+        "onboard_time": 1753333465,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128411,
+        "num": 128411,
+        "word": "内蒙古矿业年净利润22.8亿元",
+        "onboard_time": 1753342165,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127708,
+        "num": 127708,
+        "word": "其实花小钱也能过得很体面",
+        "onboard_time": 1753339226,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 126721,
+        "word": "他用六个月时间打破所有质疑",
+        "onboard_time": 1753338746,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何以泰山喻作风#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753342208038,
+  "endTime": 1753343064868,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1660902,
+      "num": 1660902,
+      "word": "大麦",
+      "onboard_time": 1753334365,
+      "rank": 25,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 1660171,
       "num": 1660171,
       "word": "沙特沉睡王子昏迷近20年后去世",
@@ -273,14 +281,6 @@
       "onboard_time": 1753079242,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1628701,
-      "num": 1628701,
-      "word": "大麦",
-      "onboard_time": 1753334365,
-      "rank": 25,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 1618857,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1753274663,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 806205,
+      "num": 806205,
+      "word": "俄一客机坠毁无人生还",
+      "onboard_time": 1753341145,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 804987,
@@ -2875,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370579,
+      "num": 370579,
+      "word": "新华社4问6名大学生溺亡事件",
+      "onboard_time": 1753340846,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369903,
       "num": 369903,
       "word": "简历 高p照片",
@@ -3603,14 +3619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294494,
-      "num": 294494,
-      "word": "俄一客机坠毁无人生还",
-      "onboard_time": 1753341145,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 292978,
       "num": 292978,
       "word": "王俊凯拿了五杀",
@@ -3867,6 +3875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271999,
+      "num": 271999,
+      "word": "俄发现失联客机残骸",
+      "onboard_time": 1753340245,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271704,
       "num": 271704,
       "word": "自述在马代遭性侵女子最新发声",
@@ -3904,14 +3920,6 @@
       "word": "珠海台风",
       "onboard_time": 1752991461,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270491,
-      "num": 270491,
-      "word": "俄发现失联客机残骸",
-      "onboard_time": 1753340245,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -4000,14 +4008,6 @@
       "word": "广州台风",
       "onboard_time": 1752987261,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262200,
-      "num": 262200,
-      "word": "新华社4问6名大学生溺亡事件",
-      "onboard_time": 1753340846,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -4715,6 +4715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219338,
+      "num": 219338,
+      "word": "沈腾这是真缺席王牌9录制了",
+      "onboard_time": 1753342646,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218484,
       "num": 310208,
       "word": "黄子弘凡声而不凡",
@@ -5131,6 +5139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206807,
+      "num": 206807,
+      "word": "柬埔寨公主内娱首刊",
+      "onboard_time": 1753339586,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206382,
       "num": 206382,
       "word": "辱骂韦世豪球迷被拘留",
@@ -5363,12 +5379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200152,
-      "num": 200152,
-      "word": "柬埔寨公主内娱首刊",
-      "onboard_time": 1753339586,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 200158,
+      "num": 200158,
+      "word": "我国累计追回医保基金1045亿元",
+      "onboard_time": 1753342165,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200132,
@@ -5377,6 +5393,14 @@
       "onboard_time": 1753246883,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200078,
+      "num": 200078,
+      "word": "HYBE被扣押搜查",
+      "onboard_time": 1753342346,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199938,
@@ -6691,6 +6715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171253,
+      "num": 171253,
+      "word": "朴元彬腹肌",
+      "onboard_time": 1753342766,
+      "rank": 31,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 171225,
       "num": 171225,
       "word": "东方电气一度涨超700%",
@@ -7203,6 +7235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162698,
+      "num": 162698,
+      "word": "戒断牛奶后身体的变化",
+      "onboard_time": 1753342826,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162182,
       "num": 162182,
       "word": "蔡依林去了lesserafim演唱会",
@@ -7521,6 +7561,14 @@
       "onboard_time": 1753001002,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157338,
+      "num": 157338,
+      "word": "7号台风来了8号台风已生成",
+      "onboard_time": 1753342525,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157054,
@@ -8083,6 +8131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148341,
+      "num": 148341,
+      "word": "沪指站稳3600点缩量199亿",
+      "onboard_time": 1753342946,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148304,
       "num": 158970,
       "word": "赵露思ELLE销量",
@@ -8225,14 +8281,6 @@
       "onboard_time": 1753006401,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146861,
-      "num": 146861,
-      "word": "我国累计追回医保基金1045亿元",
-      "onboard_time": 1753342165,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146805,
@@ -9227,6 +9275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132224,
+      "num": 132224,
+      "word": "柯南官配小情侣发糖啦",
+      "onboard_time": 1753341865,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132153,
       "num": 132153,
       "word": "朝雪录值得",
@@ -9329,14 +9385,6 @@
       "onboard_time": 1753257742,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 131011,
-      "num": 131011,
-      "word": "柯南官配小情侣发糖啦",
-      "onboard_time": 1753341865,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 130930,
@@ -9964,7 +10012,7 @@
     },
     {
       "raw_hot": 123961,
-      "num": 123961,
+      "num": 217499,
       "word": "6名溺亡大学生非采矿工程专业",
       "onboard_time": 1753340006,
       "rank": 47,
@@ -13331,6 +13379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61556,
+      "num": 149389,
+      "word": "小泡芙12岁了",
+      "onboard_time": 1753341984,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61490,
       "num": 69581,
       "word": "530万买房业主徒手掰开大梁碎块",
@@ -13633,14 +13689,6 @@
       "onboard_time": 1753201879,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52088,
-      "num": 138925,
-      "word": "小泡芙12岁了",
-      "onboard_time": 1753341984,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 51969,
@@ -14161,6 +14209,14 @@
       "onboard_time": 1753095202,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36722,
+      "num": 148770,
+      "word": "王珞丹回应为何沉寂多年",
+      "onboard_time": 1753342826,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36553,
