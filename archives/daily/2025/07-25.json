@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753375841488,
+  "endTime": 1753378016342,
   "band_list": [
     {
       "raw_hot": 886749,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279464,
+      "num": 279464,
+      "word": "企业学校同6名遇难学生家属协商赔偿",
+      "onboard_time": 1753374203,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255909,
       "num": 151423,
       "word": "殡仪馆称会把6人遗体清理干净",
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 242810,
-      "num": 242810,
+      "num": 272311,
       "word": "李佳琦承诺赔付铂爵旅拍订单",
       "onboard_time": 1753364725,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223868,
+      "num": 223868,
+      "word": "东北大学获救老师被截肢是谣言",
+      "onboard_time": 1753375640,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218882,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 201560,
-      "num": 243251,
+      "num": 258023,
       "word": "美国骚猪肉",
       "onboard_time": 1753364425,
       "rank": 5,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 190959,
-      "num": 242741,
+      "num": 265913,
       "word": "警方通报网约车在停车场绕行",
       "onboard_time": 1753369287,
       "rank": 7,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 168558,
-      "num": 168558,
+      "num": 251556,
       "word": "迪丽热巴吴磊 将门毒后",
       "onboard_time": 1753346243,
       "rank": 17,
@@ -219,20 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115289,
-      "num": 151249,
-      "word": "企业学校同6名遇难学生家属协商赔偿",
-      "onboard_time": 1753374203,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111490,
       "num": 151207,
       "word": "朝雪录编剧",
       "onboard_time": 1753358604,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101869,
+      "num": 247658,
+      "word": "内蒙古成立723事故调查组",
+      "onboard_time": 1753376359,
+      "rank": 8,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 100254,
@@ -265,6 +281,14 @@
       "onboard_time": 1753371208,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86341,
+      "num": 86341,
+      "word": "韩国一斯里兰卡籍工人遭同事霸凌",
+      "onboard_time": 1753375880,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84159,
@@ -331,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68149,
+      "num": 150970,
+      "word": "遭面试官殴打致腰椎骨折女子发声",
+      "onboard_time": 1753374740,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68133,
       "num": 150813,
       "word": "张艺兴JVKE新歌easy",
@@ -355,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 61912,
-      "num": 122054,
-      "word": "东北大学获救老师被截肢是谣言",
-      "onboard_time": 1753375640,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59516,
       "num": 122052,
       "word": "于适火把节切姬发小号",
@@ -379,12 +403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55155,
-      "num": 150970,
-      "word": "遭面试官殴打致腰椎骨折女子发声",
-      "onboard_time": 1753374740,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 58815,
+      "num": 74906,
+      "word": "毕雯珺你别光理罗伯特不理我啊",
+      "onboard_time": 1753376539,
+      "rank": 29,
+      "category": "剧集,互联网"
+    },
+    {
+      "raw_hot": 49920,
+      "num": 68026,
+      "word": "扫毒风暴",
+      "onboard_time": 1753376240,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 49355,
@@ -393,6 +425,30 @@
       "onboard_time": 1753361905,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 45620,
+      "num": 67935,
+      "word": "40岁姐姐给25岁女生的建议",
+      "onboard_time": 1753358422,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42258,
+      "num": 67859,
+      "word": "明道称被朱孝天删好友",
+      "onboard_time": 1753355724,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42006,
+      "num": 67794,
+      "word": "樱桃琥珀",
+      "onboard_time": 1753377079,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 41795,
@@ -423,6 +479,14 @@
       "num": 122050,
       "word": "比亚迪官方辟谣失控事件",
       "onboard_time": 1753367908,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 22511,
+      "num": 67718,
+      "word": "10万买什么车能一步到位",
+      "onboard_time": 1753364124,
       "rank": 49,
       "category": "汽车"
     },
