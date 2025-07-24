@@ -1,0 +1,410 @@
+{
+  "runTime": 1753342208038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628701,
+        "num": 1628701,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 0,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 523968,
+        "num": 523968,
+        "word": "无意识控糖行为",
+        "onboard_time": 1753335983,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 6810,
+        "num": 395984,
+        "word": "抗日英烈在狱中为儿子起名抗生",
+        "onboard_time": 1753270101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1061196,
+        "num": 393059,
+        "word": "6名大学生溺亡涉事选矿厂画面曝光",
+        "onboard_time": 1753333465,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373263,
+        "num": 373263,
+        "word": "张峻豪 先别闹了",
+        "onboard_time": 1753328725,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329742,
+        "num": 329742,
+        "word": "一架搭载约50人的俄罗斯客机失联",
+        "onboard_time": 1753336465,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328445,
+        "num": 328445,
+        "word": "柬方火箭弹落入泰国一加油站",
+        "onboard_time": 1753336405,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324459,
+        "num": 324459,
+        "word": "任豪因虞书欣张凌赫选了深圳店",
+        "onboard_time": 1753338385,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306333,
+        "num": 306333,
+        "word": "喝了半年牛初乳6岁女孩查出性早熟",
+        "onboard_time": 1753333706,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294494,
+        "num": 294494,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3637626,
+        "num": 294343,
+        "word": "阚清子 怀孕",
+        "onboard_time": 1753339046,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1242687,
+        "num": 290247,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406807,
+        "num": 287428,
+        "word": "卫生巾 硫脲",
+        "onboard_time": 1753325902,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284240,
+        "num": 284240,
+        "word": "泰国柬埔寨在边境交火",
+        "onboard_time": 1753323924,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270491,
+        "num": 270491,
+        "word": "俄发现失联客机残骸",
+        "onboard_time": 1753340245,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262200,
+        "num": 262200,
+        "word": "新华社4问6名大学生溺亡事件",
+        "onboard_time": 1753340846,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210678,
+        "num": 262196,
+        "word": "内娱首部正统修仙剧来了",
+        "onboard_time": 1753331907,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191582,
+        "num": 262066,
+        "word": "易烊千玺演唱会300多万人抢7309张票",
+        "onboard_time": 1753334724,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236394,
+        "num": 261992,
+        "word": "鸿蒙新平板像电脑一样强大",
+        "onboard_time": 1753340607,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59778,
+        "num": 261933,
+        "word": "热销的新西兰8分钟只是洗发水产品名",
+        "onboard_time": 1753340485,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 261910,
+        "num": 261910,
+        "word": "6岁女孩和奶奶混洗内衣感染妇科病",
+        "onboard_time": 1753338685,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292493,
+        "num": 252985,
+        "word": "男子骗情人1100万转给妻子挥霍",
+        "onboard_time": 1753336645,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244011,
+        "num": 244011,
+        "word": "展轩机场",
+        "onboard_time": 1753328005,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214238,
+        "num": 214238,
+        "word": "柬泰双方交火致大量学生平民受伤",
+        "onboard_time": 1753340066,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200152,
+        "num": 200152,
+        "word": "柬埔寨公主内娱首刊",
+        "onboard_time": 1753339586,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181252,
+        "num": 181252,
+        "word": "泰方将在泰柬边境部署6架F16战机",
+        "onboard_time": 1753334125,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165919,
+        "num": 179383,
+        "word": "曝娄烨涉嫌职务侵占上千万",
+        "onboard_time": 1753331186,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163981,
+        "num": 176263,
+        "word": "capper演唱会",
+        "onboard_time": 1753341387,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151977,
+        "num": 173064,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1753326265,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47314,
+        "num": 172463,
+        "word": "一大学规定30度以上才能开空调",
+        "onboard_time": 1753340485,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169738,
+        "num": 169738,
+        "word": "本世纪有6次闰六月",
+        "onboard_time": 1753340126,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169027,
+        "num": 169027,
+        "word": "6名溺亡学生为大三生",
+        "onboard_time": 1753326082,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168319,
+        "num": 168319,
+        "word": "棉密码卫生巾超30人自述患甲癌",
+        "onboard_time": 1753321284,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160352,
+        "num": 160352,
+        "word": "樊振东在苏州被偶遇",
+        "onboard_time": 1753338746,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158086,
+        "num": 158086,
+        "word": "买鞋要记得看鞋底",
+        "onboard_time": 1753330644,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152921,
+        "num": 152921,
+        "word": "当你不停运动7个月后",
+        "onboard_time": 1753338566,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 147378,
+        "num": 147378,
+        "word": "辛巴 棉密码",
+        "onboard_time": 1753332805,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146861,
+        "num": 146861,
+        "word": "我国累计追回医保基金1045亿元",
+        "onboard_time": 1753342165,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139729,
+        "num": 139729,
+        "word": "年轻人真的很会过高品质的生活",
+        "onboard_time": 1753341806,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52088,
+        "num": 138925,
+        "word": "小泡芙12岁了",
+        "onboard_time": 1753341984,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138855,
+        "num": 138855,
+        "word": "他用六个月时间打破所有质疑",
+        "onboard_time": 1753338746,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138768,
+        "num": 138768,
+        "word": "其实花小钱也能过得很体面",
+        "onboard_time": 1753339226,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136792,
+        "num": 136792,
+        "word": "内蒙古矿业年净利润22.8亿元",
+        "onboard_time": 1753342165,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136696,
+        "num": 136696,
+        "word": "newjeans开庭",
+        "onboard_time": 1753333465,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131011,
+        "num": 131011,
+        "word": "柯南官配小情侣发糖啦",
+        "onboard_time": 1753341865,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126616,
+        "num": 126616,
+        "word": "彭昱畅来一次密逃倒欠一条命",
+        "onboard_time": 1753341926,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126594,
+        "num": 126594,
+        "word": "棉密码14份样品仅1个未检出硫脲",
+        "onboard_time": 1753336405,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126059,
+        "num": 126059,
+        "word": "中国游客住豪华别墅被一扫而空",
+        "onboard_time": 1753341686,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124422,
+        "num": 124422,
+        "word": "有孕妇称使用棉密码卫生巾后停胎",
+        "onboard_time": 1753332265,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119863,
+        "num": 119863,
+        "word": "运动和睡眠是最好的药",
+        "onboard_time": 1753339766,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何以泰山喻作风#"
+    }
+  }
+}
