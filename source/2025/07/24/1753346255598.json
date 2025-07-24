@@ -1,0 +1,410 @@
+{
+  "runTime": 1753346255598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555731,
+        "num": 1555731,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 994697,
+        "num": 994697,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 1,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 7422,
+        "num": 725692,
+        "word": "抗日英烈在狱中为儿子起名抗生",
+        "onboard_time": 1753270101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 576225,
+        "num": 576225,
+        "word": "沈腾这是真缺席王牌9录制了",
+        "onboard_time": 1753342646,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421122,
+        "num": 421122,
+        "word": "戒断牛奶后身体的变化",
+        "onboard_time": 1753342826,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 512480,
+        "num": 411056,
+        "word": "新华社4问6名大学生溺亡事件",
+        "onboard_time": 1753340846,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524274,
+        "num": 406249,
+        "word": "娄烨回应",
+        "onboard_time": 1753344265,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384321,
+        "num": 384321,
+        "word": "我国累计追回医保基金1045亿元",
+        "onboard_time": 1753342165,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359510,
+        "num": 359510,
+        "word": "坠入浮选槽1分钟内即丧失行动能力",
+        "onboard_time": 1753344085,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202517,
+        "num": 353485,
+        "word": "内蒙古将提级调查6名学生溺亡",
+        "onboard_time": 1753345283,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2242014,
+        "num": 344462,
+        "word": "阚清子 怀孕",
+        "onboard_time": 1753339046,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817165,
+        "num": 339587,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557757,
+        "num": 330968,
+        "word": "爷爷的不动产开始动了",
+        "onboard_time": 1753344145,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479325,
+        "num": 323921,
+        "word": "咖啡灌肠",
+        "onboard_time": 1753345643,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321767,
+        "num": 321767,
+        "word": "敖瑞鹏开始做杀青之后的规划了",
+        "onboard_time": 1753345044,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275766,
+        "num": 275766,
+        "word": "新款彩色Labubu",
+        "onboard_time": 1753344265,
+        "rank": 15,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 223198,
+        "num": 223198,
+        "word": "无意识控糖行为",
+        "onboard_time": 1753335983,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216627,
+        "num": 216627,
+        "word": "比亚迪失控",
+        "onboard_time": 1753345704,
+        "rank": 17,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 167633,
+        "num": 216104,
+        "word": "张予曦毕雯珺还原漫画这块",
+        "onboard_time": 1753344805,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101809,
+        "num": 214695,
+        "word": "华为新平板强光下也清晰",
+        "onboard_time": 1753344864,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49267,
+        "num": 213181,
+        "word": "东北大学将统一向社会发布调查情况",
+        "onboard_time": 1753345884,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332874,
+        "num": 210214,
+        "word": "阚清子自曝孕期胖了30斤",
+        "onboard_time": 1753345164,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142403,
+        "num": 209088,
+        "word": "任豪因虞书欣张凌赫选了深圳店",
+        "onboard_time": 1753338385,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208269,
+        "num": 208269,
+        "word": "柬方火箭弹落入泰国一加油站",
+        "onboard_time": 1753336405,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179306,
+        "num": 179306,
+        "word": "肖战同款腰带被撒贝宁系脖子上",
+        "onboard_time": 1753345164,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175008,
+        "num": 175008,
+        "word": "卫生巾 硫脲",
+        "onboard_time": 1753325902,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171275,
+        "num": 171275,
+        "word": "喝了半年牛初乳6岁女孩查出性早熟",
+        "onboard_time": 1753333706,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156573,
+        "num": 156573,
+        "word": "男子骗情人1100万转给妻子挥霍",
+        "onboard_time": 1753336645,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143371,
+        "num": 143371,
+        "word": "展轩机场",
+        "onboard_time": 1753328005,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143053,
+        "num": 143053,
+        "word": "6岁女孩和奶奶混洗内衣感染妇科病",
+        "onboard_time": 1753338685,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167351,
+        "num": 143035,
+        "word": "排尿性晕厥",
+        "onboard_time": 1753345704,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110662,
+        "num": 142853,
+        "word": "鸿蒙新平板像电脑一样强大",
+        "onboard_time": 1753340607,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142678,
+        "num": 142678,
+        "word": "辽宁丹东一饭店突发火灾",
+        "onboard_time": 1753345525,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 140303,
+        "num": 140303,
+        "word": "俄发现失联客机残骸",
+        "onboard_time": 1753340245,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139590,
+        "num": 139590,
+        "word": "6名溺亡大学生非采矿工程专业",
+        "onboard_time": 1753340006,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139476,
+        "num": 139476,
+        "word": "本世纪有6次闰六月",
+        "onboard_time": 1753340126,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134287,
+        "num": 134287,
+        "word": "7号台风来了8号台风已生成",
+        "onboard_time": 1753342525,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132352,
+        "num": 132352,
+        "word": "newjeans开庭",
+        "onboard_time": 1753333465,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90286,
+        "num": 131361,
+        "word": "美国大豆借阿根廷出口中国",
+        "onboard_time": 1753345884,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131035,
+        "num": 131035,
+        "word": "泰国柬埔寨在边境交火",
+        "onboard_time": 1753323924,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126955,
+        "num": 126955,
+        "word": "买鞋要记得看鞋底",
+        "onboard_time": 1753330644,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118434,
+        "num": 118434,
+        "word": "张峻豪 先别闹了",
+        "onboard_time": 1753328725,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117907,
+        "num": 117907,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1753326265,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117808,
+        "num": 117808,
+        "word": "柬泰双方交火致大量学生平民受伤",
+        "onboard_time": 1753340066,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115776,
+        "num": 115776,
+        "word": "朴元彬腹肌",
+        "onboard_time": 1753342766,
+        "rank": 44,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 111782,
+        "num": 111782,
+        "word": "棉密码卫生巾超30人自述患甲癌",
+        "onboard_time": 1753321284,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108479,
+        "num": 108479,
+        "word": "内娱首部正统修仙剧来了",
+        "onboard_time": 1753331907,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107997,
+        "num": 107997,
+        "word": "李兰迪敖瑞鹏对彼此初印象",
+        "onboard_time": 1753346183,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106896,
+        "num": 106896,
+        "word": "外交部回应泰柬边境冲突",
+        "onboard_time": 1753344444,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105596,
+        "num": 105596,
+        "word": "柬埔寨公主内娱首刊",
+        "onboard_time": 1753339586,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何以泰山喻作风#"
+    }
+  }
+}
