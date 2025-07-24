@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753362773922,
+  "endTime": 1753364650962,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -257,6 +257,14 @@
       "onboard_time": 1752974659,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1683118,
+      "num": 974908,
+      "word": "东北大学受伤老师坠落半空被救",
+      "onboard_time": 1753358483,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1667177,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 1197836,
-      "num": 676907,
+      "num": 1182284,
       "word": "王一博 演唱会",
       "onboard_time": 1753360284,
       "rank": 3,
@@ -737,14 +745,6 @@
       "onboard_time": 1753081283,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1090388,
-      "num": 974908,
-      "word": "东北大学受伤老师坠落半空被救",
-      "onboard_time": 1753358483,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1062225,
@@ -1403,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675578,
+      "num": 675578,
+      "word": "中南大学通报谭某兵被举报",
+      "onboard_time": 1753358902,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 675116,
       "num": 675116,
       "word": "曝KKV有灰指甲顾客拿试用指甲油涂脚",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1753086202,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 641060,
+      "num": 457549,
+      "word": "蔡依林已冻卵",
+      "onboard_time": 1753360224,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 640313,
@@ -1947,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 553861,
+      "num": 451405,
+      "word": "阚清子孕肚写真",
+      "onboard_time": 1753363944,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553364,
       "num": 553364,
       "word": "女子27万存款差2天到期执意要取",
@@ -2115,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 526203,
-      "num": 377992,
-      "word": "蔡依林已冻卵",
-      "onboard_time": 1753360224,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 525865,
       "num": 509846,
       "word": "日本网民大呼完了",
@@ -2201,6 +2217,14 @@
       "onboard_time": 1752986421,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512490,
+      "num": 471313,
+      "word": "谢娜辣评张杰不适合唱的歌",
+      "onboard_time": 1753361485,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 512480,
@@ -2427,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476431,
+      "num": 476431,
+      "word": "中南大学谭某兵被暂停工作",
+      "onboard_time": 1753360764,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 475155,
       "num": 916276,
       "word": "95后掏粪工上班开粪车下班开奔驰",
@@ -2571,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 451020,
+      "num": 451020,
+      "word": "刘轩丞发vlog",
+      "onboard_time": 1753361364,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449813,
       "num": 449813,
       "word": "录到肖战改名那一瞬间了",
@@ -2649,6 +2689,14 @@
       "onboard_time": 1753102223,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440712,
+      "num": 474167,
+      "word": "医生称坠入矿浆无黄金救援时间",
+      "onboard_time": 1753362925,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439514,
@@ -2897,14 +2945,6 @@
       "onboard_time": 1753099582,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404613,
-      "num": 289368,
-      "word": "刘轩丞发vlog",
-      "onboard_time": 1753361364,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 403477,
@@ -3851,14 +3891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302419,
-      "num": 506241,
-      "word": "中南大学通报谭某兵被举报",
-      "onboard_time": 1753358902,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 301958,
       "num": 301958,
       "word": "任嘉伦线下活动被人扔东西",
@@ -4017,14 +4049,6 @@
       "onboard_time": 1753060640,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 289272,
-      "num": 289272,
-      "word": "谢娜辣评张杰不适合唱的歌",
-      "onboard_time": 1753361485,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 289195,
@@ -4587,6 +4611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 247672,
+      "num": 231422,
+      "word": "董璇小酒窝与沐言母女合照",
+      "onboard_time": 1753359025,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247596,
       "num": 247596,
       "word": "迪丽热巴郭培秋冬高定",
@@ -4827,14 +4859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232783,
-      "num": 294857,
-      "word": "中南大学谭某兵被暂停工作",
-      "onboard_time": 1753360764,
-      "rank": 31,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 232704,
       "num": 232704,
       "word": "鹿晗跳kiyomi了",
@@ -4857,14 +4881,6 @@
       "onboard_time": 1753006701,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231422,
-      "num": 231422,
-      "word": "董璇小酒窝与沐言母女合照",
-      "onboard_time": 1753359025,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 230548,
@@ -5483,6 +5499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210110,
+      "num": 210110,
+      "word": "白鹿晒临江仙拍立得合照",
+      "onboard_time": 1753363585,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209208,
       "num": 209208,
       "word": "花蚊子 基孔肯雅热",
@@ -5817,6 +5841,14 @@
       "onboard_time": 1753025244,
       "rank": 28,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 200935,
+      "num": 200935,
+      "word": "张娜拉自曝因童颜感到压力",
+      "onboard_time": 1753360104,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200871,
@@ -6281,14 +6313,6 @@
       "onboard_time": 1753020505,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190698,
-      "num": 190698,
-      "word": "张娜拉自曝因童颜感到压力",
-      "onboard_time": 1753360104,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 190491,
@@ -6851,6 +6875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181059,
+      "num": 446136,
+      "word": "10万买什么车能一步到位",
+      "onboard_time": 1753364124,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181052,
       "num": 181052,
       "word": "白敬亭扫腿舞",
@@ -7163,6 +7195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175135,
+      "num": 175135,
+      "word": "比亚迪海狮06",
+      "onboard_time": 1753363465,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175089,
       "num": 175089,
       "word": "美国一波音客机空中喷火",
@@ -7209,6 +7249,14 @@
       "onboard_time": 1753315523,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174582,
+      "num": 174582,
+      "word": "40岁姐姐给25岁女生的建议",
+      "onboard_time": 1753358422,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 174449,
@@ -7313,6 +7361,14 @@
       "onboard_time": 1753020444,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173318,
+      "num": 463734,
+      "word": "员工顶撞上司被其丈夫打到脾脏摘除",
+      "onboard_time": 1753357343,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172773,
@@ -7499,6 +7555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169868,
+      "num": 169868,
+      "word": "母亲当8岁儿子面吸毒当场被抓",
+      "onboard_time": 1753363524,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169847,
       "num": 169847,
       "word": "EWC英雄联盟",
@@ -7593,14 +7657,6 @@
       "onboard_time": 1753016848,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168665,
-      "num": 168665,
-      "word": "40岁姐姐给25岁女生的建议",
-      "onboard_time": 1753358422,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 168443,
@@ -7939,6 +7995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 162122,
+      "num": 440790,
+      "word": "零跑B01还是太全面了",
+      "onboard_time": 1753363105,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 161981,
       "num": 161981,
       "word": "priest到底为什么这么爱上班",
@@ -8267,14 +8331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157546,
-      "num": 157546,
-      "word": "员工顶撞上司被其丈夫打到脾脏摘除",
-      "onboard_time": 1753357343,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157411,
       "num": 242419,
       "word": "陈梦准备恢复训练了",
@@ -8385,6 +8441,14 @@
       "onboard_time": 1753355123,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155907,
+      "num": 225145,
+      "word": "深情眼直播",
+      "onboard_time": 1753106963,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 155882,
@@ -9169,6 +9233,14 @@
       "onboard_time": 1753069823,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144718,
+      "num": 144718,
+      "word": "5年前扶贫小组欠万元餐费仍未结清",
+      "onboard_time": 1753362864,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144659,
@@ -10051,6 +10123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132344,
+      "num": 132344,
+      "word": "杨迪挟巧克力以令孟子义",
+      "onboard_time": 1753363825,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132326,
       "num": 132326,
       "word": "孙燕姿723生日快乐",
@@ -10144,6 +10224,14 @@
       "word": "撒贝宁趴树上录的反诈宣传片",
       "onboard_time": 1753072102,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131928,
+      "num": 131928,
+      "word": "胡先煦与现在就出发汇合",
+      "onboard_time": 1753362986,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -10505,6 +10593,14 @@
       "onboard_time": 1753355963,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127430,
+      "num": 127430,
+      "word": "动漫影响力榜单",
+      "onboard_time": 1753361185,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 127405,
@@ -10889,14 +10985,6 @@
       "onboard_time": 1752979401,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123900,
-      "num": 225145,
-      "word": "深情眼直播",
-      "onboard_time": 1753106963,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 123763,
@@ -12377,6 +12465,14 @@
       "onboard_time": 1753179381,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107850,
+      "num": 150744,
+      "word": "美国骚猪肉",
+      "onboard_time": 1753364425,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107791,
@@ -14217,6 +14313,14 @@
       "onboard_time": 1753086441,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 67810,
+      "num": 432331,
+      "word": "卫健局回应棉密码卫生巾问题",
+      "onboard_time": 1753363944,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66511,
