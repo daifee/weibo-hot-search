@@ -1,0 +1,410 @@
+{
+  "runTime": 1753335168136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1195226,
+        "num": 1195226,
+        "word": "张峻豪 先别闹了",
+        "onboard_time": 1753328725,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748049,
+        "num": 748049,
+        "word": "有孕妇称使用棉密码卫生巾后停胎",
+        "onboard_time": 1753332265,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11730,
+        "num": 609730,
+        "word": "抗日英烈在狱中为儿子起名抗生",
+        "onboard_time": 1753270101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 762991,
+        "num": 569636,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1753326265,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 521266,
+        "num": 521266,
+        "word": "什么是浮选槽",
+        "onboard_time": 1753327463,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385794,
+        "num": 385794,
+        "word": "喝了半年牛初乳6岁女孩查出性早熟",
+        "onboard_time": 1753333706,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715381,
+        "num": 378679,
+        "word": "曝娄烨涉嫌职务侵占上千万",
+        "onboard_time": 1753331186,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510331,
+        "num": 378111,
+        "word": "陈梦任嘉伦同框打乒乓",
+        "onboard_time": 1753330226,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 359037,
+        "num": 359037,
+        "word": "殡仪馆称网传大学生遗体损坏不实",
+        "onboard_time": 1753333525,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354691,
+        "num": 354691,
+        "word": "泰国柬埔寨在边境交火",
+        "onboard_time": 1753323924,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200029,
+        "num": 353992,
+        "word": "泰方将在泰柬边境部署6架F16战机",
+        "onboard_time": 1753334125,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1295990,
+        "num": 351412,
+        "word": "卫生巾 硫脲",
+        "onboard_time": 1753325902,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 966578,
+        "num": 347761,
+        "word": "6名溺亡学生为大三生",
+        "onboard_time": 1753326082,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762060,
+        "num": 345590,
+        "word": "展轩机场",
+        "onboard_time": 1753328005,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612381,
+        "num": 344119,
+        "word": "溺亡学生同学称浮选槽里是矿浆",
+        "onboard_time": 1753324222,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403170,
+        "num": 340574,
+        "word": "内娱首部正统修仙剧来了",
+        "onboard_time": 1753331907,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339580,
+        "num": 339580,
+        "word": "东北大学回应6名大学生企业参观溺亡",
+        "onboard_time": 1753323443,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322715,
+        "num": 322715,
+        "word": "6名大学生溺亡涉事选矿厂画面曝光",
+        "onboard_time": 1753333465,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70632,
+        "num": 275416,
+        "word": "时代少年团美团旅行哄睡电话",
+        "onboard_time": 1753333584,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274572,
+        "num": 274572,
+        "word": "顺德一村通知全村准时在家点蚊香",
+        "onboard_time": 1753323564,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549905,
+        "num": 272689,
+        "word": "买鞋要记得看鞋底",
+        "onboard_time": 1753330644,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267569,
+        "num": 267569,
+        "word": "newjeans开庭",
+        "onboard_time": 1753333465,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256630,
+        "num": 256630,
+        "word": "佛山顺德一天增463例基孔肯雅热",
+        "onboard_time": 1753327282,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244775,
+        "num": 244775,
+        "word": "辛巴 棉密码",
+        "onboard_time": 1753332805,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237100,
+        "num": 237100,
+        "word": "高叶继大嫂后的又一人生角色",
+        "onboard_time": 1753333285,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219430,
+        "num": 219430,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 25,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 217342,
+        "num": 217342,
+        "word": "卖水的利润有多大",
+        "onboard_time": 1753334125,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 203893,
+        "num": 203893,
+        "word": "张凌赫看了想报警",
+        "onboard_time": 1753332205,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203050,
+        "num": 203050,
+        "word": "时代峰峻回应张峻豪恋爱",
+        "onboard_time": 1753334244,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192958,
+        "num": 192958,
+        "word": "易烊千玺演唱会300多万人抢7309张票",
+        "onboard_time": 1753334724,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330038,
+        "num": 192824,
+        "word": "棉密码卫生巾超30人自述患甲癌",
+        "onboard_time": 1753321284,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188632,
+        "num": 188632,
+        "word": "美多名儿童被下药性虐待长达一年",
+        "onboard_time": 1753321104,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175145,
+        "num": 175145,
+        "word": "张凌赫出租屋糙汉男主有脸了",
+        "onboard_time": 1753334485,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170683,
+        "num": 170683,
+        "word": "棉密码卫生巾多位受害者发声",
+        "onboard_time": 1753331965,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164542,
+        "num": 164542,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1753333342,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164512,
+        "num": 164512,
+        "word": "59岁李若彤健身房碾压孟鹤堂纪凌尘",
+        "onboard_time": 1753331784,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161758,
+        "num": 161758,
+        "word": "患上4种炎症拖下去小心癌变",
+        "onboard_time": 1753325782,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160593,
+        "num": 160593,
+        "word": "明末渊虚之羽正式上线",
+        "onboard_time": 1753333465,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160564,
+        "num": 160564,
+        "word": "汪苏泷直播cos付航算数",
+        "onboard_time": 1753334724,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125306,
+        "num": 156023,
+        "word": "云之羽剧粉死去的记忆攻击我",
+        "onboard_time": 1753334785,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153074,
+        "num": 153074,
+        "word": "涉6名大学生溺亡公司检查曾发现隐患",
+        "onboard_time": 1753331545,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46258,
+        "num": 141597,
+        "word": "浮选槽矿浆是具有腐蚀性的泥石流",
+        "onboard_time": 1753333285,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138807,
+        "num": 138807,
+        "word": "李兰迪敖瑞鹏神回应眼睛会爱人",
+        "onboard_time": 1753334365,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137439,
+        "num": 137439,
+        "word": "西瓜真的是最善良的水果了",
+        "onboard_time": 1753331605,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128505,
+        "num": 128505,
+        "word": "男子雨天穿洞洞鞋蹚水感染丹毒",
+        "onboard_time": 1753333645,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110799,
+        "num": 110799,
+        "word": "中国黄金集团董事长毕业于东北大学",
+        "onboard_time": 1753332685,
+        "rank": 45,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 107501,
+        "num": 107501,
+        "word": "公安厅副厅长受贿被东北前首富供出",
+        "onboard_time": 1753331605,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127414,
+        "num": 107037,
+        "word": "李兰迪说和敖瑞鹏吻戏治颈椎病",
+        "onboard_time": 1753333045,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105981,
+        "num": 105981,
+        "word": "黎深昭岁与黎",
+        "onboard_time": 1753333824,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105028,
+        "num": 105028,
+        "word": "人均资产过亿的穷国",
+        "onboard_time": 1753335023,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何以泰山喻作风#"
+    }
+  }
+}
