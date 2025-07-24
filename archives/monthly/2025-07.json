@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753354166221,
+  "endTime": 1753356336056,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1753281446,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1542539,
+      "num": 403977,
+      "word": "30万存款定律",
+      "onboard_time": 1753352423,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 1538090,
@@ -4153,14 +4161,6 @@
       "onboard_time": 1752373404,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 955950,
-      "num": 403977,
-      "word": "30万存款定律",
-      "onboard_time": 1753352423,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 950759,
@@ -7971,6 +7971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 642005,
+      "num": 385998,
+      "word": "刘轩丞表情管理0分",
+      "onboard_time": 1753353804,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641845,
       "num": 367846,
       "word": "包文婧产后情绪失控",
@@ -9073,6 +9081,14 @@
       "onboard_time": 1752110301,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 587567,
+      "num": 587567,
+      "word": "樊振东王楚钦开心击掌",
+      "onboard_time": 1753351823,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 586999,
@@ -11755,6 +11771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476152,
+      "num": 476152,
+      "word": "溺亡学生出事前给朋友发格栅板视频",
+      "onboard_time": 1753354823,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476063,
       "num": 476063,
       "word": "男孩呼吸困难母亲用塑料袋罩头急救",
@@ -12193,14 +12217,6 @@
       "onboard_time": 1751983108,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 455236,
-      "num": 455236,
-      "word": "樊振东王楚钦开心击掌",
-      "onboard_time": 1753351823,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 455135,
@@ -14659,14 +14675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385998,
-      "num": 385998,
-      "word": "刘轩丞表情管理0分",
-      "onboard_time": 1753353804,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385991,
       "num": 385991,
       "word": "烟台一高校宿舍无空调学生中暑送医",
@@ -16363,6 +16371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345365,
+      "num": 302863,
+      "word": "明道称被朱孝天删好友",
+      "onboard_time": 1753355724,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345362,
       "num": 345362,
       "word": "Alin官宣补位",
@@ -16785,6 +16801,14 @@
       "onboard_time": 1753266682,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337572,
+      "num": 337572,
+      "word": "iG战胜JDG",
+      "onboard_time": 1753355302,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 337380,
@@ -24955,6 +24979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 224414,
+      "num": 364002,
+      "word": "泰柬边境冲突现场画面曝光",
+      "onboard_time": 1753353144,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 224398,
       "num": 224398,
       "word": "卖儿父母获刑出狱后又要抚养权",
@@ -27553,6 +27585,14 @@
       "onboard_time": 1752123203,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206920,
+      "num": 206920,
+      "word": "展轩真诚",
+      "onboard_time": 1753355302,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 206892,
@@ -31011,6 +31051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192873,
+      "num": 192873,
+      "word": "辛巴卫生巾",
+      "onboard_time": 1753355544,
+      "rank": 31,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 192845,
       "num": 192845,
       "word": "京东回应外卖取消超时20分钟免单",
@@ -32195,6 +32243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188238,
+      "num": 188238,
+      "word": "Wei二连MVP",
+      "onboard_time": 1753355244,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188197,
       "num": 188197,
       "word": "者来女火星电台淘汰",
@@ -32569,6 +32625,14 @@
       "onboard_time": 1752288559,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186725,
+      "num": 336910,
+      "word": "俄罗斯失事客机上有一名中国公民",
+      "onboard_time": 1753354943,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 186711,
@@ -40275,6 +40339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158576,
+      "num": 158576,
+      "word": "东北大学一遇难男生堂妹发声",
+      "onboard_time": 1753355782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158533,
       "num": 149252,
       "word": "王楚钦敬礼庆祝胜利",
@@ -41041,6 +41113,14 @@
       "onboard_time": 1752324563,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156286,
+      "num": 156286,
+      "word": "33冰美式换成了中药",
+      "onboard_time": 1753355123,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 156269,
@@ -41953,6 +42033,14 @@
       "onboard_time": 1752039562,
       "rank": 32,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 153220,
+      "num": 153220,
+      "word": "大润发疑内涵山姆",
+      "onboard_time": 1753354044,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153191,
@@ -48931,6 +49019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135063,
+      "num": 135063,
+      "word": "敖瑞鹏教粉丝要男生微信",
+      "onboard_time": 1753354284,
+      "rank": 40,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 135057,
       "num": 135057,
       "word": "金饰克价一夜涨10元",
@@ -51675,14 +51771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128584,
-      "num": 128584,
-      "word": "大润发疑内涵山姆",
-      "onboard_time": 1753354044,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128582,
       "num": 200921,
       "word": "董晴谈和谭松韵十年友谊",
@@ -52193,6 +52281,14 @@
       "onboard_time": 1751965282,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127459,
+      "num": 127459,
+      "word": "平野美宇和樊振东打招呼",
+      "onboard_time": 1753355963,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 127436,
@@ -54043,6 +54139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123570,
+      "num": 123570,
+      "word": "张柏芝珠光宝气具象化",
+      "onboard_time": 1753356023,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123558,
       "num": 123558,
       "word": "特朗普称8月1日开始征新关税",
@@ -55561,6 +55665,14 @@
       "onboard_time": 1752577282,
       "rank": 35,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 120247,
+      "num": 120247,
+      "word": "R1SE咱还回内娱当男团吗",
+      "onboard_time": 1753356262,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 120213,
@@ -58785,6 +58897,14 @@
       "onboard_time": 1752167837,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113775,
+      "num": 113775,
+      "word": "棉密码发检测报告",
+      "onboard_time": 1753356142,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113767,
@@ -63185,6 +63305,14 @@
       "onboard_time": 1753241901,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103930,
+      "num": 112977,
+      "word": "黄子韬你别太宠",
+      "onboard_time": 1753356023,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 103922,
@@ -70763,6 +70891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70246,
+      "num": 199962,
+      "word": "杨幂的妹妹是只鹦鹉",
+      "onboard_time": 1753354284,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70231,
       "num": 234188,
       "word": "胡兵谈新身份的转变",
@@ -72979,14 +73115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57417,
-      "num": 364002,
-      "word": "泰柬边境冲突现场画面曝光",
-      "onboard_time": 1753353144,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57349,
       "num": 57349,
       "word": "蔚来回应特斯拉ModelYL",
@@ -75169,6 +75297,14 @@
       "onboard_time": 1751373681,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44330,
+      "num": 301145,
+      "word": "溺亡的描述是否过于轻描淡写",
+      "onboard_time": 1753354943,
+      "rank": 19,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 44239,

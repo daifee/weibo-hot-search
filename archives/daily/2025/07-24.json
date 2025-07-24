@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753354166221,
+  "endTime": 1753356336056,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -107,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1542539,
+      "num": 403977,
+      "word": "30万存款定律",
+      "onboard_time": 1753352423,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1433351,
       "num": 1341366,
       "word": "6名溺亡学生为大三生",
@@ -177,14 +185,6 @@
       "onboard_time": 1753348345,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 955950,
-      "num": 403977,
-      "word": "30万存款定律",
-      "onboard_time": 1753352423,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 931528,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642005,
+      "num": 385998,
+      "word": "刘轩丞表情管理0分",
+      "onboard_time": 1753353804,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641704,
       "num": 641704,
       "word": "殡仪馆称网传大学生遗体损坏不实",
@@ -313,6 +321,14 @@
       "onboard_time": 1753330226,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 587567,
+      "num": 587567,
+      "word": "樊振东王楚钦开心击掌",
+      "onboard_time": 1753351823,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 584693,
@@ -419,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476152,
+      "num": 476152,
+      "word": "溺亡学生出事前给朋友发格栅板视频",
+      "onboard_time": 1753354823,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475155,
       "num": 916276,
       "word": "95后掏粪工上班开粪车下班开奔驰",
@@ -433,14 +457,6 @@
       "onboard_time": 1753333706,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455236,
-      "num": 455236,
-      "word": "樊振东王楚钦开心击掌",
-      "onboard_time": 1753351823,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 452154,
@@ -499,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 385998,
-      "num": 385998,
-      "word": "刘轩丞表情管理0分",
-      "onboard_time": 1753353804,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384321,
       "num": 469235,
       "word": "我国累计追回医保基金1045亿元",
@@ -529,6 +537,22 @@
       "onboard_time": 1753345164,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345365,
+      "num": 302863,
+      "word": "明道称被朱孝天删好友",
+      "onboard_time": 1753355724,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 337572,
+      "num": 337572,
+      "word": "iG战胜JDG",
+      "onboard_time": 1753355302,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 337153,
@@ -867,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224414,
+      "num": 364002,
+      "word": "泰柬边境冲突现场画面曝光",
+      "onboard_time": 1753353144,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 224116,
       "num": 234181,
       "word": "服务员当面倒入罐装可乐一杯卖50元",
@@ -953,6 +985,14 @@
       "onboard_time": 1753333045,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206920,
+      "num": 206920,
+      "word": "展轩真诚",
+      "onboard_time": 1753355302,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 206807,
@@ -1075,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192873,
+      "num": 192873,
+      "word": "辛巴卫生巾",
+      "onboard_time": 1753355544,
+      "rank": 31,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 192056,
       "num": 155027,
       "word": "身体发出异味可能是疾病征兆",
@@ -1107,12 +1155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188238,
+      "num": 188238,
+      "word": "Wei二连MVP",
+      "onboard_time": 1753355244,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187759,
       "num": 225241,
       "word": "清潭国际高中2",
       "onboard_time": 1753351883,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186725,
+      "num": 336910,
+      "word": "俄罗斯失事客机上有一名中国公民",
+      "onboard_time": 1753354943,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 186597,
@@ -1499,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158576,
+      "num": 158576,
+      "word": "东北大学一遇难男生堂妹发声",
+      "onboard_time": 1753355782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158522,
       "num": 222619,
       "word": "慕胥辞",
@@ -1523,12 +1595,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156286,
+      "num": 156286,
+      "word": "33冰美式换成了中药",
+      "onboard_time": 1753355123,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153487,
       "num": 153487,
       "word": "杨瀚森确认归队中国男篮",
       "onboard_time": 1753324884,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153220,
+      "num": 153220,
+      "word": "大润发疑内涵山姆",
+      "onboard_time": 1753354044,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152145,
@@ -1707,6 +1795,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 135063,
+      "num": 135063,
+      "word": "敖瑞鹏教粉丝要男生微信",
+      "onboard_time": 1753354284,
+      "rank": 40,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 133436,
       "num": 133436,
       "word": "男子逆行致人摔车身亡获刑四年赔203万",
@@ -1763,20 +1859,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128584,
-      "num": 128584,
-      "word": "大润发疑内涵山姆",
-      "onboard_time": 1753354044,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128505,
       "num": 128505,
       "word": "男子雨天穿洞洞鞋蹚水感染丹毒",
       "onboard_time": 1753333645,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127459,
+      "num": 127459,
+      "word": "平野美宇和樊振东打招呼",
+      "onboard_time": 1753355963,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 126839,
@@ -1843,6 +1939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123570,
+      "num": 123570,
+      "word": "张柏芝珠光宝气具象化",
+      "onboard_time": 1753356023,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123430,
       "num": 123430,
       "word": "孙颖莎出发厦门参加乒超",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1753282831,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120247,
+      "num": 120247,
+      "word": "R1SE咱还回内娱当男团吗",
+      "onboard_time": 1753356262,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 119984,
@@ -1985,6 +2097,14 @@
       "onboard_time": 1753353623,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113775,
+      "num": 113775,
+      "word": "棉密码发检测报告",
+      "onboard_time": 1753356142,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113736,
@@ -2137,6 +2257,14 @@
       "onboard_time": 1753344864,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103930,
+      "num": 112977,
+      "word": "黄子韬你别太宠",
+      "onboard_time": 1753356023,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 103873,
@@ -2355,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70246,
+      "num": 199962,
+      "word": "杨幂的妹妹是只鹦鹉",
+      "onboard_time": 1753354284,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68851,
       "num": 68851,
       "word": "2026亚运会电竞项目名单",
@@ -2459,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57417,
-      "num": 364002,
-      "word": "泰柬边境冲突现场画面曝光",
-      "onboard_time": 1753353144,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54483,
       "num": 72727,
       "word": "中国女排2比3波兰女排",
@@ -2513,6 +2641,14 @@
       "onboard_time": 1753338746,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44330,
+      "num": 301145,
+      "word": "溺亡的描述是否过于轻描淡写",
+      "onboard_time": 1753354943,
+      "rank": 19,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 43319,

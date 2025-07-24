@@ -1,0 +1,410 @@
+{
+  "runTime": 1753356336056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 616770,
+        "num": 1098683,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 0,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 587567,
+        "num": 587567,
+        "word": "樊振东王楚钦开心击掌",
+        "onboard_time": 1753351823,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18004,
+        "num": 513945,
+        "word": "国家医保目录药品数达3159种",
+        "onboard_time": 1753326385,
+        "rank": 2,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 476152,
+        "num": 476152,
+        "word": "溺亡学生出事前给朋友发格栅板视频",
+        "onboard_time": 1753354823,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430574,
+        "num": 430574,
+        "word": "俄一客机坠毁无人生还",
+        "onboard_time": 1753341145,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 370622,
+        "num": 370622,
+        "word": "内蒙古将提级调查6名学生溺亡",
+        "onboard_time": 1753345283,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359468,
+        "num": 359468,
+        "word": "时代少年团 偶像万万岁",
+        "onboard_time": 1753351943,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352112,
+        "num": 352112,
+        "word": "金饰克价跌到1012元",
+        "onboard_time": 1753347984,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337572,
+        "num": 337572,
+        "word": "iG战胜JDG",
+        "onboard_time": 1753355302,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186725,
+        "num": 336910,
+        "word": "俄罗斯失事客机上有一名中国公民",
+        "onboard_time": 1753354943,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2451678,
+        "num": 330588,
+        "word": "阚清子官宣怀孕",
+        "onboard_time": 1753349545,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1542539,
+        "num": 327933,
+        "word": "30万存款定律",
+        "onboard_time": 1753352423,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 826091,
+        "num": 324101,
+        "word": "迪丽热巴吴磊 将门毒后",
+        "onboard_time": 1753346243,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 771362,
+        "num": 322537,
+        "word": "6名学生溺亡事件家属发声",
+        "onboard_time": 1753348345,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642005,
+        "num": 318911,
+        "word": "刘轩丞表情管理0分",
+        "onboard_time": 1753353804,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601000,
+        "num": 314447,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406998,
+        "num": 312074,
+        "word": "网评四大影帝幼年体",
+        "onboard_time": 1753348524,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384422,
+        "num": 308620,
+        "word": "阚清子老公",
+        "onboard_time": 1753348823,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345365,
+        "num": 302863,
+        "word": "明道称被朱孝天删好友",
+        "onboard_time": 1753355724,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44330,
+        "num": 301145,
+        "word": "溺亡的描述是否过于轻描淡写",
+        "onboard_time": 1753354943,
+        "rank": 19,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 379055,
+        "num": 298373,
+        "word": "东北大学一遇难学生刚保研",
+        "onboard_time": 1753349664,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357522,
+        "num": 294539,
+        "word": "咖啡灌肠",
+        "onboard_time": 1753345643,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291841,
+        "num": 291841,
+        "word": "杨幂 王牌9",
+        "onboard_time": 1753349424,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263503,
+        "num": 263503,
+        "word": "浮选车间主任还原大学生溺亡经过",
+        "onboard_time": 1753350325,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231917,
+        "num": 231917,
+        "word": "印度恢复种姓普查",
+        "onboard_time": 1753350984,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224414,
+        "num": 224414,
+        "word": "泰柬边境冲突现场画面曝光",
+        "onboard_time": 1753353144,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220386,
+        "num": 220386,
+        "word": "任嘉伦线下活动被人扔东西",
+        "onboard_time": 1753347503,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206920,
+        "num": 206920,
+        "word": "展轩真诚",
+        "onboard_time": 1753355302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145359,
+        "num": 201243,
+        "word": "李兰迪敖瑞鹏可以二搭了",
+        "onboard_time": 1753348464,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70246,
+        "num": 199962,
+        "word": "杨幂的妹妹是只鹦鹉",
+        "onboard_time": 1753354284,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199903,
+        "num": 199903,
+        "word": "NewJeans再提ILLIT打招呼事件",
+        "onboard_time": 1753353324,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192873,
+        "num": 192873,
+        "word": "辛巴卫生巾",
+        "onboard_time": 1753355544,
+        "rank": 31,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 190815,
+        "num": 190815,
+        "word": "戒断牛奶后身体的变化",
+        "onboard_time": 1753342826,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188238,
+        "num": 188238,
+        "word": "Wei二连MVP",
+        "onboard_time": 1753355244,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167501,
+        "num": 167501,
+        "word": "JDG对战iG",
+        "onboard_time": 1753350564,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158576,
+        "num": 158576,
+        "word": "东北大学一遇难男生堂妹发声",
+        "onboard_time": 1753355782,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156286,
+        "num": 156286,
+        "word": "33冰美式换成了中药",
+        "onboard_time": 1753355123,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155369,
+        "num": 155369,
+        "word": "百名红通人员周静华被引渡回国",
+        "onboard_time": 1753353203,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153220,
+        "num": 153220,
+        "word": "大润发疑内涵山姆",
+        "onboard_time": 1753354044,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144608,
+        "num": 144608,
+        "word": "成都天府机场一网约车失控",
+        "onboard_time": 1753349123,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135063,
+        "num": 135063,
+        "word": "敖瑞鹏教粉丝要男生微信",
+        "onboard_time": 1753354284,
+        "rank": 40,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 132963,
+        "num": 132963,
+        "word": "清潭国际高中2",
+        "onboard_time": 1753351883,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127459,
+        "num": 127459,
+        "word": "平野美宇和樊振东打招呼",
+        "onboard_time": 1753355963,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123570,
+        "num": 123570,
+        "word": "张柏芝珠光宝气具象化",
+        "onboard_time": 1753356023,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120247,
+        "num": 120247,
+        "word": "R1SE咱还回内娱当男团吗",
+        "onboard_time": 1753356262,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116325,
+        "num": 116325,
+        "word": "恶搞中国人的外国女网红翻车",
+        "onboard_time": 1753348885,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116050,
+        "num": 116050,
+        "word": "韩国男子继承牧场后63头牛饿死被拘",
+        "onboard_time": 1753350445,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113775,
+        "num": 113775,
+        "word": "棉密码发检测报告",
+        "onboard_time": 1753356142,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113608,
+        "num": 113608,
+        "word": "探访6名学生溺亡事件涉事厂区",
+        "onboard_time": 1753349784,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103930,
+        "num": 112977,
+        "word": "黄子韬你别太宠",
+        "onboard_time": 1753356023,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见科斯塔和冯德莱恩#"
+    }
+  }
+}
