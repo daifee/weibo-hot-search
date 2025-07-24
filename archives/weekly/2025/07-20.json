@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753339279083,
+  "endTime": 1753340165983,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -80,6 +80,14 @@
       "word": "艺人张艺洋杀害16岁女友被枪决",
       "onboard_time": 1753257982,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3017024,
+      "num": 335144,
+      "word": "阚清子 怀孕",
+      "onboard_time": 1753339046,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1571147,
+      "num": 1571147,
+      "word": "大麦",
+      "onboard_time": 1753334365,
+      "rank": 25,
+      "category": "演出,民生新闻"
+    },
+    {
       "raw_hot": 1569635,
       "num": 1569635,
       "word": "女子回应遭强奸被杀2次死里逃生",
@@ -321,14 +337,6 @@
       "onboard_time": 1753281446,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1537847,
-      "num": 1537847,
-      "word": "大麦",
-      "onboard_time": 1753334365,
-      "rank": 25,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 1535461,
@@ -2395,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 441918,
-      "num": 335144,
-      "word": "阚清子 怀孕",
-      "onboard_time": 1753339046,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439514,
       "num": 424742,
       "word": "肖战更名后首发博",
@@ -2473,6 +2473,14 @@
       "onboard_time": 1753140318,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 428588,
+      "num": 428588,
+      "word": "无意识控糖行为",
+      "onboard_time": 1753335983,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 428569,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1753081642,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 388819,
-      "num": 388819,
-      "word": "无意识控糖行为",
-      "onboard_time": 1753335983,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 388787,
@@ -3131,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337153,
+      "num": 250642,
+      "word": "男子骗情人1100万转给妻子挥霍",
+      "onboard_time": 1753336645,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336933,
       "num": 336933,
       "word": "凡人修仙传",
@@ -3347,14 +3355,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 317255,
-      "num": 250642,
-      "word": "男子骗情人1100万转给妻子挥霍",
-      "onboard_time": 1753336645,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316956,
       "num": 316956,
       "word": "我国平均每人每年吃近100斤西瓜",
@@ -3371,12 +3371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316922,
+      "num": 316922,
+      "word": "任豪因虞书欣张凌赫选了深圳店",
+      "onboard_time": 1753338385,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315382,
       "num": 315382,
       "word": "广东18岁男孩玩真人CS时坠亡",
       "onboard_time": 1753142900,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312551,
+      "num": 376632,
+      "word": "柬方火箭弹落入泰国一加油站",
+      "onboard_time": 1753336405,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 312091,
@@ -3635,6 +3651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 289962,
+      "num": 289962,
+      "word": "6岁女孩和奶奶混洗内衣感染妇科病",
+      "onboard_time": 1753338685,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289602,
       "num": 289602,
       "word": "shanks",
@@ -3817,22 +3841,6 @@
       "onboard_time": 1753115480,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275077,
-      "num": 247973,
-      "word": "任豪因虞书欣张凌赫选了深圳店",
-      "onboard_time": 1753338385,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 274047,
-      "num": 376632,
-      "word": "柬方火箭弹落入泰国一加油站",
-      "onboard_time": 1753336405,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 273729,
@@ -4112,14 +4120,6 @@
       "word": "我国是世界公认最安全国家之一",
       "onboard_time": 1753257143,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255563,
-      "num": 255563,
-      "word": "6岁女孩和奶奶混洗内衣感染妇科病",
-      "onboard_time": 1753338685,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -4529,6 +4529,14 @@
       "onboard_time": 1753160723,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228052,
+      "num": 269711,
+      "word": "半醒浮生今日开播",
+      "onboard_time": 1753338984,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 225396,
@@ -5385,14 +5393,6 @@
       "onboard_time": 1753024943,
       "rank": 32,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 197947,
-      "num": 252697,
-      "word": "半醒浮生今日开播",
-      "onboard_time": 1753338984,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 197911,
@@ -6339,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176509,
+      "num": 296569,
+      "word": "棉密码14份样品仅1个未检出硫脲",
+      "onboard_time": 1753336405,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176218,
       "num": 176218,
       "word": "孙颖莎王楚钦等亮相最新宣传片",
@@ -6465,14 +6473,6 @@
       "onboard_time": 1753182381,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174139,
-      "num": 174139,
-      "word": "棉密码14份样品仅1个未检出硫脲",
-      "onboard_time": 1753336405,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174137,
@@ -7043,6 +7043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164256,
+      "num": 192164,
+      "word": "柬埔寨公主内娱首刊",
+      "onboard_time": 1753339586,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164235,
       "num": 164235,
       "word": "千万别选择在暑假结婚",
@@ -7097,6 +7105,14 @@
       "onboard_time": 1753166062,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163378,
+      "num": 163378,
+      "word": "樊振东在苏州被偶遇",
+      "onboard_time": 1753338746,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 163104,
@@ -7619,14 +7635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153699,
-      "num": 153699,
-      "word": "樊振东在苏州被偶遇",
-      "onboard_time": 1753338746,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153586,
       "num": 153586,
       "word": "台风后广东一海滩遍布生蚝蛤蜊",
@@ -7923,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150117,
+      "num": 150117,
+      "word": "黄明昊没吓着黄景瑜林一快吓死了",
+      "onboard_time": 1753339407,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150049,
       "num": 272606,
       "word": "韩安冉说即将得知双胞胎性别",
@@ -8017,6 +8033,14 @@
       "onboard_time": 1753261163,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 148222,
+      "num": 148222,
+      "word": "运动和睡眠是最好的药",
+      "onboard_time": 1753339766,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148177,
@@ -8433,6 +8457,14 @@
       "onboard_time": 1753074682,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142122,
+      "num": 142122,
+      "word": "柬泰双方交火致大量学生平民受伤",
+      "onboard_time": 1753340066,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142114,
@@ -9081,6 +9113,14 @@
       "onboard_time": 1753016848,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132992,
+      "num": 132992,
+      "word": "本世纪有6次闰六月",
+      "onboard_time": 1753340126,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132545,
@@ -9835,6 +9875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123961,
+      "num": 123961,
+      "word": "6名溺亡大学生非采矿工程专业",
+      "onboard_time": 1753340006,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123908,
       "num": 123908,
       "word": "梅西又梅开二度了",
@@ -9928,6 +9976,14 @@
       "word": "台风韦帕将登陆广东珠江口以西",
       "onboard_time": 1752997460,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121960,
+      "num": 251416,
+      "word": "华南理工暂缓执行研究生奖学金新规",
+      "onboard_time": 1753338746,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -10041,6 +10097,14 @@
       "onboard_time": 1753272682,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120755,
+      "num": 169556,
+      "word": "殷世航回应求婚",
+      "onboard_time": 1753338506,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 120415,
@@ -10449,6 +10513,14 @@
       "onboard_time": 1753177282,
       "rank": 47,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 116167,
+      "num": 180771,
+      "word": "卢昱晓工作室呼吁尊重艺人",
+      "onboard_time": 1753339645,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 116130,
@@ -12611,14 +12683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 79096,
-      "num": 169556,
-      "word": "殷世航回应求婚",
-      "onboard_time": 1753338506,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 78862,
       "num": 87909,
       "word": "真正的放下不是什么删除拉黑",
@@ -13323,14 +13387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56831,
-      "num": 251416,
-      "word": "华南理工暂缓执行研究生奖学金新规",
-      "onboard_time": 1753338746,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56522,
       "num": 56522,
       "word": "常州球员输球后掩面痛哭",
@@ -13689,6 +13745,14 @@
       "onboard_time": 1753204278,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45672,
+      "num": 178052,
+      "word": "6名大学生殒命浮选槽谁该担责",
+      "onboard_time": 1753338746,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45346,
@@ -14288,14 +14352,6 @@
       "word": "宇宙诞生超太阳265倍质量新黑洞",
       "onboard_time": 1752996080,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27082,
-      "num": 178052,
-      "word": "6名大学生殒命浮选槽谁该担责",
-      "onboard_time": 1753338746,
-      "rank": 29,
       "category": "民生新闻"
     },
     {

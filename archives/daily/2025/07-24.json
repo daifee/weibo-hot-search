@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753339279083,
+  "endTime": 1753340165983,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -25,6 +25,14 @@
       "onboard_time": 1753331605,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3017024,
+      "num": 335144,
+      "word": "阚清子 怀孕",
+      "onboard_time": 1753339046,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2155665,
@@ -67,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1537847,
-      "num": 1537847,
+      "raw_hot": 1571147,
+      "num": 1571147,
       "word": "大麦",
       "onboard_time": 1753334365,
       "rank": 25,
@@ -291,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441918,
-      "num": 335144,
-      "word": "阚清子 怀孕",
-      "onboard_time": 1753339046,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431531,
       "num": 402246,
       "word": "内娱首部正统修仙剧来了",
@@ -307,20 +307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428588,
+      "num": 428588,
+      "word": "无意识控糖行为",
+      "onboard_time": 1753335983,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 408144,
       "num": 408144,
       "word": "一架搭载约50人的俄罗斯客机失联",
       "onboard_time": 1753336465,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 388819,
-      "num": 388819,
-      "word": "无意识控糖行为",
-      "onboard_time": 1753335983,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 386161,
@@ -337,6 +337,14 @@
       "onboard_time": 1753321104,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 337153,
+      "num": 250642,
+      "word": "男子骗情人1100万转给妻子挥霍",
+      "onboard_time": 1753336645,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333703,
@@ -363,12 +371,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 317255,
-      "num": 250642,
-      "word": "男子骗情人1100万转给妻子挥霍",
-      "onboard_time": 1753336645,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 316922,
+      "num": 316922,
+      "word": "任豪因虞书欣张凌赫选了深圳店",
+      "onboard_time": 1753338385,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312551,
+      "num": 376632,
+      "word": "柬方火箭弹落入泰国一加油站",
+      "onboard_time": 1753336405,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 307992,
@@ -393,6 +409,14 @@
       "onboard_time": 1753316673,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289962,
+      "num": 289962,
+      "word": "6岁女孩和奶奶混洗内衣感染妇科病",
+      "onboard_time": 1753338685,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288049,
@@ -435,22 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275077,
-      "num": 247973,
-      "word": "任豪因虞书欣张凌赫选了深圳店",
-      "onboard_time": 1753338385,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 274047,
-      "num": 376632,
-      "word": "柬方火箭弹落入泰国一加油站",
-      "onboard_time": 1753336405,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 271704,
       "num": 271704,
       "word": "自述在马代遭性侵女子最新发声",
@@ -481,14 +489,6 @@
       "onboard_time": 1753325782,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 255563,
-      "num": 255563,
-      "word": "6岁女孩和奶奶混洗内衣感染妇科病",
-      "onboard_time": 1753338685,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247092,
@@ -552,6 +552,14 @@
       "word": "深情眼第八集",
       "onboard_time": 1753325303,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228052,
+      "num": 269711,
+      "word": "半醒浮生今日开播",
+      "onboard_time": 1753338984,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -649,14 +657,6 @@
       "onboard_time": 1753267701,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197947,
-      "num": 252697,
-      "word": "半醒浮生今日开播",
-      "onboard_time": 1753338984,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 194904,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176509,
+      "num": 296569,
+      "word": "棉密码14份样品仅1个未检出硫脲",
+      "onboard_time": 1753336405,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176092,
       "num": 234039,
       "word": "时代少年团彩排",
@@ -785,14 +793,6 @@
       "onboard_time": 1753315523,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174139,
-      "num": 174139,
-      "word": "棉密码14份样品仅1个未检出硫脲",
-      "onboard_time": 1753336405,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173263,
@@ -891,6 +891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164256,
+      "num": 192164,
+      "word": "柬埔寨公主内娱首刊",
+      "onboard_time": 1753339586,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163378,
+      "num": 163378,
+      "word": "樊振东在苏州被偶遇",
+      "onboard_time": 1753338746,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163067,
       "num": 163067,
       "word": "中国黄金集团董事长毕业于东北大学",
@@ -987,14 +1003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153699,
-      "num": 153699,
-      "word": "樊振东在苏州被偶遇",
-      "onboard_time": 1753338746,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153487,
       "num": 153487,
       "word": "杨瀚森确认归队中国男篮",
@@ -1017,6 +1025,22 @@
       "onboard_time": 1753326324,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150117,
+      "num": 150117,
+      "word": "黄明昊没吓着黄景瑜林一快吓死了",
+      "onboard_time": 1753339407,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148222,
+      "num": 148222,
+      "word": "运动和睡眠是最好的药",
+      "onboard_time": 1753339766,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147957,
@@ -1067,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142122,
+      "num": 142122,
+      "word": "柬泰双方交火致大量学生平民受伤",
+      "onboard_time": 1753340066,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140724,
       "num": 140724,
       "word": "庞颖多次被问做辩论挣钱吗",
@@ -1115,6 +1147,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 132992,
+      "num": 132992,
+      "word": "本世纪有6次闰六月",
+      "onboard_time": 1753340126,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128584,
       "num": 128584,
       "word": "票星球 回流票",
@@ -1155,12 +1195,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123961,
+      "num": 123961,
+      "word": "6名溺亡大学生非采矿工程专业",
+      "onboard_time": 1753340006,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122357,
       "num": 122357,
       "word": "走路有4个表现或是大病来临信号",
       "onboard_time": 1753335325,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121960,
+      "num": 251416,
+      "word": "华南理工暂缓执行研究生奖学金新规",
+      "onboard_time": 1753338746,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120755,
+      "num": 169556,
+      "word": "殷世航回应求婚",
+      "onboard_time": 1753338506,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 120403,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1753335922,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116167,
+      "num": 180771,
+      "word": "卢昱晓工作室呼吁尊重艺人",
+      "onboard_time": 1753339645,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 115976,
@@ -1451,14 +1523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 79096,
-      "num": 169556,
-      "word": "殷世航回应求婚",
-      "onboard_time": 1753338506,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 78862,
       "num": 87909,
       "word": "真正的放下不是什么删除拉黑",
@@ -1611,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56831,
-      "num": 251416,
-      "word": "华南理工暂缓执行研究生奖学金新规",
-      "onboard_time": 1753338746,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54483,
       "num": 72727,
       "word": "中国女排2比3波兰女排",
@@ -1648,6 +1704,14 @@
       "word": "浮选槽矿浆是具有腐蚀性的泥石流",
       "onboard_time": 1753333285,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45672,
+      "num": 178052,
+      "word": "6名大学生殒命浮选槽谁该担责",
+      "onboard_time": 1753338746,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1681,14 +1745,6 @@
       "onboard_time": 1753289962,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 27082,
-      "num": 178052,
-      "word": "6名大学生殒命浮选槽谁该担责",
-      "onboard_time": 1753338746,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26116,

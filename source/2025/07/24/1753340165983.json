@@ -1,0 +1,410 @@
+{
+  "runTime": 1753340165983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571147,
+        "num": 1571147,
+        "word": "大麦",
+        "onboard_time": 1753334365,
+        "rank": 0,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 1205389,
+        "num": 1205389,
+        "word": "6名大学生溺亡涉事选矿厂画面曝光",
+        "onboard_time": 1753333465,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7802,
+        "num": 632351,
+        "word": "抗日英烈在狱中为儿子起名抗生",
+        "onboard_time": 1753270101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571437,
+        "num": 571437,
+        "word": "张峻豪 先别闹了",
+        "onboard_time": 1753328725,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428588,
+        "num": 428588,
+        "word": "无意识控糖行为",
+        "onboard_time": 1753335983,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389969,
+        "num": 389969,
+        "word": "喝了半年牛初乳6岁女孩查出性早熟",
+        "onboard_time": 1753333706,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385257,
+        "num": 385257,
+        "word": "一架搭载约50人的俄罗斯客机失联",
+        "onboard_time": 1753336465,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329567,
+        "num": 329567,
+        "word": "内娱首部正统修仙剧来了",
+        "onboard_time": 1753331907,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316922,
+        "num": 316922,
+        "word": "任豪因虞书欣张凌赫选了深圳店",
+        "onboard_time": 1753338385,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312551,
+        "num": 312551,
+        "word": "柬方火箭弹落入泰国一加油站",
+        "onboard_time": 1753336405,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3017024,
+        "num": 309930,
+        "word": "阚清子 怀孕",
+        "onboard_time": 1753339046,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1750307,
+        "num": 304455,
+        "word": "殡仪馆称会把6人遗体清理干净",
+        "onboard_time": 1753336585,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593512,
+        "num": 302246,
+        "word": "卫生巾 硫脲",
+        "onboard_time": 1753325902,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176509,
+        "num": 296569,
+        "word": "棉密码14份样品仅1个未检出硫脲",
+        "onboard_time": 1753336405,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337394,
+        "num": 294149,
+        "word": "展轩机场",
+        "onboard_time": 1753328005,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289962,
+        "num": 289962,
+        "word": "6岁女孩和奶奶混洗内衣感染妇科病",
+        "onboard_time": 1753338685,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228052,
+        "num": 269711,
+        "word": "半醒浮生今日开播",
+        "onboard_time": 1753338984,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227928,
+        "num": 257988,
+        "word": "曝娄烨涉嫌职务侵占上千万",
+        "onboard_time": 1753331186,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249799,
+        "num": 249799,
+        "word": "殡仪馆称网传大学生遗体损坏不实",
+        "onboard_time": 1753333525,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121960,
+        "num": 245198,
+        "word": "华南理工暂缓执行研究生奖学金新规",
+        "onboard_time": 1753338746,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337153,
+        "num": 243758,
+        "word": "男子骗情人1100万转给妻子挥霍",
+        "onboard_time": 1753336645,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240841,
+        "num": 240841,
+        "word": "泰国柬埔寨在边境交火",
+        "onboard_time": 1753323924,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205542,
+        "num": 205542,
+        "word": "买鞋要记得看鞋底",
+        "onboard_time": 1753330644,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200309,
+        "num": 200309,
+        "word": "6名溺亡学生为大三生",
+        "onboard_time": 1753326082,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193695,
+        "num": 193695,
+        "word": "辛巴 棉密码",
+        "onboard_time": 1753332805,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177245,
+        "num": 192561,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1753326265,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164256,
+        "num": 192164,
+        "word": "柬埔寨公主内娱首刊",
+        "onboard_time": 1753339586,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192123,
+        "num": 192123,
+        "word": "泰方将在泰柬边境部署6架F16战机",
+        "onboard_time": 1753334125,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116167,
+        "num": 180771,
+        "word": "卢昱晓工作室呼吁尊重艺人",
+        "onboard_time": 1753339645,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45672,
+        "num": 174646,
+        "word": "6名大学生殒命浮选槽谁该担责",
+        "onboard_time": 1753338746,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209251,
+        "num": 174361,
+        "word": "棉密码卫生巾超30人自述患甲癌",
+        "onboard_time": 1753321284,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173280,
+        "num": 173280,
+        "word": "有孕妇称使用棉密码卫生巾后停胎",
+        "onboard_time": 1753332265,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151103,
+        "num": 168019,
+        "word": "内娱重生剧已经癫成这样了",
+        "onboard_time": 1753337007,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 165626,
+        "word": "其实花小钱也能过得很体面",
+        "onboard_time": 1753339226,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163378,
+        "num": 163378,
+        "word": "樊振东在苏州被偶遇",
+        "onboard_time": 1753338746,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163088,
+        "num": 163088,
+        "word": "他用六个月时间打破所有质疑",
+        "onboard_time": 1753338746,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150117,
+        "num": 150117,
+        "word": "黄明昊没吓着黄景瑜林一快吓死了",
+        "onboard_time": 1753339407,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148222,
+        "num": 148222,
+        "word": "运动和睡眠是最好的药",
+        "onboard_time": 1753339766,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144455,
+        "num": 144455,
+        "word": "newjeans开庭",
+        "onboard_time": 1753333465,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142827,
+        "num": 142827,
+        "word": "陈梦任嘉伦同框打乒乓",
+        "onboard_time": 1753330226,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 142122,
+        "num": 142122,
+        "word": "柬泰双方交火致大量学生平民受伤",
+        "onboard_time": 1753340066,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139755,
+        "num": 139755,
+        "word": "当你不停运动7个月后",
+        "onboard_time": 1753338566,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 136120,
+        "num": 136120,
+        "word": "张予曦累坏了我的截屏键",
+        "onboard_time": 1753338685,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132992,
+        "num": 132992,
+        "word": "本世纪有6次闰六月",
+        "onboard_time": 1753340126,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130027,
+        "num": 130027,
+        "word": "金价大涨有人趁机变现470万元",
+        "onboard_time": 1753335623,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129385,
+        "num": 129385,
+        "word": "宁艺卓费加罗销量女艺人第一",
+        "onboard_time": 1753337426,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125632,
+        "num": 125632,
+        "word": "易烊千玺演唱会300多万人抢7309张票",
+        "onboard_time": 1753334724,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123961,
+        "num": 123961,
+        "word": "6名溺亡大学生非采矿工程专业",
+        "onboard_time": 1753340006,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122513,
+        "num": 122513,
+        "word": "减脂期一定要杜绝的食物",
+        "onboard_time": 1753335385,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120755,
+        "num": 120755,
+        "word": "殷世航回应求婚",
+        "onboard_time": 1753338506,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为何以泰山喻作风#"
+    }
+  }
+}
