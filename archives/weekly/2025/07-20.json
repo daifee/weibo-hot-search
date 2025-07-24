@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753335168136,
+  "endTime": 1753336200287,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2155665,
-      "num": 360939,
+      "num": 407574,
       "word": "卫生巾 硫脲",
       "onboard_time": 1753325902,
       "rank": 10,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1388093,
-      "num": 350722,
+      "num": 381660,
       "word": "展轩机场",
       "onboard_time": 1753328005,
       "rank": 11,
@@ -1019,6 +1019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 767106,
+      "num": 748049,
+      "word": "有孕妇称使用棉密码卫生巾后停胎",
+      "onboard_time": 1753332265,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758833,
       "num": 758833,
       "word": "家里吧唧太多女孩深夜中毒送医",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1753243522,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 748049,
-      "num": 748049,
-      "word": "有孕妇称使用棉密码卫生巾后停胎",
-      "onboard_time": 1753332265,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 741720,
@@ -1140,7 +1140,7 @@
     },
     {
       "raw_hot": 715381,
-      "num": 378679,
+      "num": 533454,
       "word": "曝娄烨涉嫌职务侵占上千万",
       "onboard_time": 1753331186,
       "rank": 7,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1753092202,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 641704,
+      "num": 641704,
+      "word": "殡仪馆称网传大学生遗体损坏不实",
+      "onboard_time": 1753333525,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 641473,
@@ -2139,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475820,
+      "num": 475820,
+      "word": "6名大学生溺亡涉事选矿厂画面曝光",
+      "onboard_time": 1753333465,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475155,
       "num": 916276,
       "word": "95后掏粪工上班开粪车下班开奔驰",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1753151422,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 472543,
+      "num": 429812,
+      "word": "大麦",
+      "onboard_time": 1753334365,
+      "rank": 25,
+      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 472388,
@@ -2387,6 +2411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 434504,
+      "num": 434504,
+      "word": "喝了半年牛初乳6岁女孩查出性早熟",
+      "onboard_time": 1753333706,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434106,
       "num": 434106,
       "word": "光遇",
@@ -2580,7 +2612,7 @@
     },
     {
       "raw_hot": 403170,
-      "num": 340574,
+      "num": 356844,
       "word": "内娱首部正统修仙剧来了",
       "onboard_time": 1753331907,
       "rank": 24,
@@ -2728,14 +2760,6 @@
       "word": "顺德一村通知全村准时在家点蚊香",
       "onboard_time": 1753323564,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385794,
-      "num": 385794,
-      "word": "喝了半年牛初乳6岁女孩查出性早熟",
-      "onboard_time": 1753333706,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -2889,14 +2913,6 @@
       "onboard_time": 1753001002,
       "rank": 17,
       "category": "幽默,体育"
-    },
-    {
-      "raw_hot": 359037,
-      "num": 359037,
-      "word": "殡仪馆称网传大学生遗体损坏不实",
-      "onboard_time": 1753333525,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357607,
@@ -3233,14 +3249,6 @@
       "onboard_time": 1753069762,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322715,
-      "num": 322715,
-      "word": "6名大学生溺亡涉事选矿厂画面曝光",
-      "onboard_time": 1753333465,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321785,
@@ -3827,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270180,
+      "num": 270180,
+      "word": "newjeans开庭",
+      "onboard_time": 1753333465,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269947,
       "num": 269947,
       "word": "乳酸菌美式",
@@ -3857,14 +3873,6 @@
       "onboard_time": 1752985162,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267569,
-      "num": 267569,
-      "word": "newjeans开庭",
-      "onboard_time": 1753333465,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 266744,
@@ -4147,6 +4155,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247092,
+      "num": 247092,
+      "word": "辛巴 棉密码",
+      "onboard_time": 1753332805,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246786,
+      "num": 353992,
+      "word": "泰方将在泰柬边境部署6架F16战机",
+      "onboard_time": 1753334125,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 245212,
       "num": 245212,
       "word": "张真源solo",
@@ -4163,12 +4187,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244775,
-      "num": 244775,
-      "word": "辛巴 棉密码",
-      "onboard_time": 1753332805,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 244480,
+      "num": 244480,
+      "word": "金价大涨有人趁机变现470万元",
+      "onboard_time": 1753335623,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 243953,
@@ -4577,14 +4601,6 @@
       "onboard_time": 1753100421,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219430,
-      "num": 219430,
-      "word": "大麦",
-      "onboard_time": 1753334365,
-      "rank": 25,
-      "category": "演出,民生新闻"
     },
     {
       "raw_hot": 219365,
@@ -5233,14 +5249,6 @@
       "onboard_time": 1753246883,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200029,
-      "num": 353992,
-      "word": "泰方将在泰柬边境部署6架F16战机",
-      "onboard_time": 1753334125,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 199938,
@@ -6219,6 +6227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176706,
+      "num": 176706,
+      "word": "云之羽剧粉死去的记忆攻击我",
+      "onboard_time": 1753334785,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176218,
       "num": 176218,
       "word": "孙颖莎王楚钦等亮相最新宣传片",
@@ -7009,6 +7025,14 @@
       "onboard_time": 1752989121,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161962,
+      "num": 247192,
+      "word": "减脂期一定要杜绝的食物",
+      "onboard_time": 1753335385,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 161904,
@@ -7955,6 +7979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147054,
+      "num": 147054,
+      "word": "KPL夏季赛第三轮赛程公布",
+      "onboard_time": 1753335385,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146948,
       "num": 146948,
       "word": "李想开i8现身常州",
@@ -8707,6 +8739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135419,
+      "num": 135419,
+      "word": "无意识控糖行为",
+      "onboard_time": 1753335983,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135103,
       "num": 181696,
       "word": "王嘉尔探班何炅暗恋桃花源",
@@ -9219,6 +9259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128584,
+      "num": 128584,
+      "word": "票星球 回流票",
+      "onboard_time": 1753335504,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128550,
       "num": 128550,
       "word": "又一名厉国俄粉在乌克兰被击毙",
@@ -9499,14 +9547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125306,
-      "num": 156023,
-      "word": "云之羽剧粉死去的记忆攻击我",
-      "onboard_time": 1753334785,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125297,
       "num": 125297,
       "word": "敖瑞鹏又在发射什么快乐病毒",
@@ -9729,6 +9769,14 @@
       "onboard_time": 1752998840,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122357,
+      "num": 122357,
+      "word": "走路有4个表现或是大病来临信号",
+      "onboard_time": 1753335325,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122173,
@@ -10241,6 +10289,14 @@
       "onboard_time": 1752997101,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116346,
+      "num": 116346,
+      "word": "人赚不到气血以外的钱",
+      "onboard_time": 1753335922,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 116256,
@@ -10825,6 +10881,14 @@
       "onboard_time": 1753326684,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 110427,
+      "num": 110427,
+      "word": "养了6年的兔子悄悄给我做了个窝",
+      "onboard_time": 1753335864,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 110105,
@@ -12761,6 +12825,14 @@
       "onboard_time": 1753114161,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65602,
+      "num": 415414,
+      "word": "奥巴马方回怼特朗普胡言乱语",
+      "onboard_time": 1753335683,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65256,
