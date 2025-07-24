@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753379146706,
+  "endTime": 1753382378784,
   "band_list": [
     {
       "raw_hot": 886749,
@@ -467,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40098,
+      "num": 40098,
+      "word": "8旬独居老太深夜持菜刀砍邻居门",
+      "onboard_time": 1753379357,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35554,
       "num": 150653,
       "word": "樊振东王楚钦开心击掌",
@@ -481,6 +489,14 @@
       "onboard_time": 1753378399,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34001,
+      "num": 104241,
+      "word": "72岁农民被授予时代楷模",
+      "onboard_time": 1753378038,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 33251,
@@ -507,12 +523,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21693,
-      "num": 104241,
-      "word": "72岁农民被授予时代楷模",
-      "onboard_time": 1753378038,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 19472,
+      "num": 40097,
+      "word": "原来处女座的爱干净从小就注定了",
+      "onboard_time": 1753381036,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 17648,
+      "num": 40097,
+      "word": "健身圈也没放过邪修",
+      "onboard_time": 1753380736,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 2385,
