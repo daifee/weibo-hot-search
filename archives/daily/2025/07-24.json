@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753347169044,
+  "endTime": 1753349583719,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -83,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1558422,
+      "num": 642626,
+      "word": "迪丽热巴吴磊 将门毒后",
+      "onboard_time": 1753346243,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1555731,
       "num": 1555731,
       "word": "俄一客机坠毁无人生还",
       "onboard_time": 1753341145,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1492352,
+      "num": 290678,
+      "word": "阚清子官宣怀孕",
+      "onboard_time": 1753349545,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1433351,
@@ -139,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1146504,
+      "num": 917906,
+      "word": "比亚迪失控",
+      "onboard_time": 1753345704,
+      "rank": 17,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 1052434,
       "num": 448583,
       "word": "咖啡灌肠",
@@ -169,14 +193,6 @@
       "onboard_time": 1753311799,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 917906,
-      "num": 917906,
-      "word": "比亚迪失控",
-      "onboard_time": 1753345704,
-      "rank": 17,
-      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 871538,
@@ -227,20 +243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 657616,
+      "num": 657616,
+      "word": "戒断牛奶后身体的变化",
+      "onboard_time": 1753342826,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 656931,
       "num": 656931,
       "word": "41岁交警生前最后画面看得人心疼",
       "onboard_time": 1753318164,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 642626,
-      "num": 642626,
-      "word": "迪丽热巴吴磊 将门毒后",
-      "onboard_time": 1753346243,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 641704,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510405,
+      "num": 510405,
+      "word": "内蒙古将提级调查6名学生溺亡",
+      "onboard_time": 1753345283,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504309,
       "num": 239046,
       "word": "重度抑郁躯体化的真实表现",
@@ -345,14 +369,6 @@
       "onboard_time": 1753284693,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 473073,
-      "num": 473073,
-      "word": "戒断牛奶后身体的变化",
-      "onboard_time": 1753342826,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 472788,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436110,
+      "num": 436110,
+      "word": "坠入浮选槽1分钟内即丧失行动能力",
+      "onboard_time": 1753344085,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431531,
       "num": 402246,
       "word": "内娱首部正统修仙剧来了",
@@ -387,28 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 418511,
-      "num": 418511,
-      "word": "内蒙古将提级调查6名学生溺亡",
-      "onboard_time": 1753345283,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 408144,
       "num": 408144,
       "word": "一架搭载约50人的俄罗斯客机失联",
       "onboard_time": 1753336465,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 404857,
-      "num": 404857,
-      "word": "坠入浮选槽1分钟内即丧失行动能力",
-      "onboard_time": 1753344085,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 386161,
@@ -505,6 +513,14 @@
       "onboard_time": 1753324944,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302370,
+      "num": 302370,
+      "word": "6名学生溺亡事件家属发声",
+      "onboard_time": 1753348345,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301895,
@@ -619,6 +635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 256369,
+      "num": 256369,
+      "word": "金饰克价跌到1012元",
+      "onboard_time": 1753347984,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 247092,
       "num": 247092,
       "word": "辛巴 棉密码",
@@ -659,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240783,
+      "num": 240783,
+      "word": "6名溺亡学生家属暂未到达殡仪馆",
+      "onboard_time": 1753347684,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237100,
       "num": 237100,
       "word": "高叶继大嫂后的又一人生角色",
@@ -683,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234026,
+      "num": 234026,
+      "word": "棉密码声明",
+      "onboard_time": 1753348763,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230548,
       "num": 307959,
       "word": "深情眼第八集",
@@ -691,10 +731,26 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228850,
+      "num": 296743,
+      "word": "俄客机失事原因",
+      "onboard_time": 1753347563,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 228052,
       "num": 269711,
       "word": "半醒浮生今日开播",
       "onboard_time": 1753338984,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224775,
+      "num": 265605,
+      "word": "张予曦毕雯珺还原漫画这块",
+      "onboard_time": 1753344805,
       "rank": 18,
       "category": "剧集"
     },
@@ -811,14 +867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201334,
-      "num": 265605,
-      "word": "张予曦毕雯珺还原漫画这块",
-      "onboard_time": 1753344805,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200761,
       "num": 200761,
       "word": "肖战同款腰带被撒贝宁系脖子上",
@@ -891,6 +939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187418,
+      "num": 182760,
+      "word": "李兰迪敖瑞鹏可以二搭了",
+      "onboard_time": 1753348464,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186303,
       "num": 238112,
       "word": "书卷一梦庆功宴",
@@ -915,6 +971,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 183006,
+      "num": 183006,
+      "word": "华为发布首款AI手写笔",
+      "onboard_time": 1753348285,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 182098,
+      "num": 182098,
+      "word": "叶罗丽第11季今日开播",
+      "onboard_time": 1753348583,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182020,
       "num": 244534,
       "word": "上个翻唱网红开演唱会后掉粉超370万",
@@ -923,12 +995,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 181052,
+      "num": 181052,
+      "word": "白敬亭扫腿舞",
+      "onboard_time": 1753348285,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180874,
       "num": 180874,
       "word": "当你不停运动7个月后",
       "onboard_time": 1753338566,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 179460,
+      "num": 179460,
+      "word": "成都天府机场一网约车失控",
+      "onboard_time": 1753349123,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177929,
@@ -987,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174465,
+      "num": 174465,
+      "word": "王牌对王牌9首轮飞行阵容",
+      "onboard_time": 1753347864,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173263,
       "num": 234135,
       "word": "T1向Zeus正式道歉",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1753286493,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169864,
+      "num": 169864,
+      "word": "任嘉伦线下活动被人扔东西",
+      "onboard_time": 1753347503,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 169744,
@@ -1291,6 +1395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146540,
+      "num": 146540,
+      "word": "白鹿计划给自己放小长假",
+      "onboard_time": 1753348524,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144820,
       "num": 144820,
       "word": "反复提醒是一种恶意的关心",
@@ -1395,12 +1507,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 130797,
+      "num": 130797,
+      "word": "实探巴奴毛肚78元7片",
+      "onboard_time": 1753348885,
+      "rank": 41,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 130676,
       "num": 161851,
       "word": "李兰迪敖瑞鹏对彼此初印象",
       "onboard_time": 1753346183,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129210,
+      "num": 129210,
+      "word": "杨幂 王牌9",
+      "onboard_time": 1753349424,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128801,
+      "num": 128801,
+      "word": "结婚是为了和喜欢的人谈一辈子恋爱",
+      "onboard_time": 1753348705,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 128584,
@@ -1475,6 +1611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121318,
+      "num": 121318,
+      "word": "男子逆行致人摔车身亡获刑四年赔203万",
+      "onboard_time": 1753349424,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121192,
+      "num": 121192,
+      "word": "深情眼逮住两个模特使劲薅",
+      "onboard_time": 1753349306,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120755,
       "num": 169556,
       "word": "殷世航回应求婚",
@@ -1504,6 +1656,14 @@
       "word": "樊振东奥运逆转看一遍激动一遍",
       "onboard_time": 1753328246,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118896,
+      "num": 118896,
+      "word": "樊振东赛前练到头发湿透",
+      "onboard_time": 1753347383,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1561,6 +1721,14 @@
       "onboard_time": 1753346665,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114000,
+      "num": 114000,
+      "word": "山姆又要闹哪样",
+      "onboard_time": 1753349484,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113736,
@@ -1747,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97161,
+      "num": 145107,
+      "word": "网评四大影帝幼年体",
+      "onboard_time": 1753348524,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97120,
       "num": 233649,
       "word": "毕雯珺太帅了",
@@ -1825,6 +2001,14 @@
       "onboard_time": 1753278384,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83128,
+      "num": 145470,
+      "word": "恶搞中国人的外国女网红翻车",
+      "onboard_time": 1753348885,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79162,
@@ -2075,6 +2259,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 37890,
+      "num": 173708,
+      "word": "浮选槽矿浆温度可达90℃且有腐蚀性",
+      "onboard_time": 1753349484,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36722,
       "num": 148770,
       "word": "王珞丹回应为何沉寂多年",
@@ -2088,6 +2280,14 @@
       "word": "律师称司机多收钱致人死系不当得利",
       "onboard_time": 1753293498,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34343,
+      "num": 177304,
+      "word": "暂不能确认失联俄客机上有无中国公民",
+      "onboard_time": 1753347744,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -2105,6 +2305,14 @@
       "onboard_time": 1753289962,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 26269,
+      "num": 575114,
+      "word": "国家医保目录药品数达3159种",
+      "onboard_time": 1753326385,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26116,
@@ -2137,6 +2345,9 @@
     },
     {
       "word": "#总书记为何以泰山喻作风#"
+    },
+    {
+      "word": "#要牢牢把握中欧关系发展的正确方向#"
     }
   ]
 }
