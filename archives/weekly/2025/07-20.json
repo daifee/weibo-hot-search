@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753365376672,
+  "endTime": 1753367372319,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -297,6 +297,14 @@
       "onboard_time": 1753079242,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1620065,
+      "num": 1620065,
+      "word": "医生称坠入矿浆无黄金救援时间",
+      "onboard_time": 1753362925,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1618857,
@@ -755,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1059013,
+      "num": 501206,
+      "word": "曝boss直聘再次涉黄",
+      "onboard_time": 1753364785,
+      "rank": 24,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 1053094,
       "num": 1053094,
       "word": "陈立农街头拥抱",
@@ -977,14 +993,6 @@
       "onboard_time": 1753262183,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 876796,
-      "num": 876796,
-      "word": "医生称坠入矿浆无黄金救援时间",
-      "onboard_time": 1753362925,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 873958,
@@ -1627,6 +1635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 625572,
+      "num": 576880,
+      "word": "李佳琦承诺赔付铂爵旅拍订单",
+      "onboard_time": 1753364725,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 617449,
       "num": 309108,
       "word": "导师您好不好意思",
@@ -1785,6 +1801,14 @@
       "onboard_time": 1753351823,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586801,
+      "num": 586801,
+      "word": "富豪CEO被大象踩踏身亡",
+      "onboard_time": 1753366107,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 585231,
@@ -2203,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517173,
+      "num": 517173,
+      "word": "中南大学谭某兵被暂停工作",
+      "onboard_time": 1753360764,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 516369,
       "num": 516369,
       "word": "基建狂魔在建世界第一高桥带电梯",
@@ -2457,14 +2489,6 @@
       "onboard_time": 1752991881,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 476431,
-      "num": 476431,
-      "word": "中南大学谭某兵被暂停工作",
-      "onboard_time": 1753360764,
-      "rank": 31,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 475155,
@@ -3203,20 +3227,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 366813,
+      "num": 578604,
+      "word": "美国骚猪肉",
+      "onboard_time": 1753364425,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 366515,
       "num": 366515,
       "word": "袁姗姗回应去哀牢山拍戏",
       "onboard_time": 1753142120,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 365813,
-      "num": 365813,
-      "word": "曝boss直聘再次涉黄",
-      "onboard_time": 1753364785,
-      "rank": 24,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 364488,
@@ -4737,14 +4761,6 @@
       "onboard_time": 1753006282,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240648,
-      "num": 240648,
-      "word": "李佳琦承诺赔付铂爵旅拍订单",
-      "onboard_time": 1753364725,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 239293,
@@ -7075,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178176,
+      "num": 164698,
+      "word": "东北大学获救老师受轻伤",
+      "onboard_time": 1753367128,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178000,
       "num": 178000,
       "word": "樱桃磕到了我也嗑到了",
@@ -7161,14 +7185,6 @@
       "onboard_time": 1753156402,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 176019,
-      "num": 176019,
-      "word": "美国骚猪肉",
-      "onboard_time": 1753364425,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 175945,
@@ -8027,6 +8043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162280,
+      "num": 162280,
+      "word": "红舞鞋",
+      "onboard_time": 1753365505,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162182,
       "num": 162182,
       "word": "蔡依林去了lesserafim演唱会",
@@ -8625,6 +8649,14 @@
       "onboard_time": 1753081521,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152999,
+      "num": 152999,
+      "word": "AG对战A7",
+      "onboard_time": 1753366528,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 152984,
@@ -10139,6 +10171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133261,
+      "num": 133261,
+      "word": "杨舒予说下一次只会更好",
+      "onboard_time": 1753366948,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133103,
       "num": 133103,
       "word": "苏州3比0镇江",
@@ -10592,6 +10632,14 @@
       "word": "赛里木湖景区回应公厕被粪便堵满",
       "onboard_time": 1753179201,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "12行小字开始揭开西周分封真相",
+      "onboard_time": 1753366528,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -12011,6 +12059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113796,
+      "num": 113796,
+      "word": "村干部回应东北大学一男生遇难",
+      "onboard_time": 1753366828,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113775,
       "num": 113775,
       "word": "棉密码发检测报告",
@@ -12113,6 +12169,14 @@
       "onboard_time": 1753078522,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113095,
+      "num": 113095,
+      "word": "Ale曝Jiejie离队",
+      "onboard_time": 1753367310,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 112976,
@@ -13691,6 +13755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89820,
+      "num": 357527,
+      "word": "下乡帮扶人员吃饭打68张白条",
+      "onboard_time": 1753365686,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89662,
       "num": 89662,
       "word": "宋亚轩加冠礼演唱会联排影像",
@@ -14369,6 +14441,14 @@
       "onboard_time": 1753086441,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 67109,
+      "num": 168727,
+      "word": "女子称面试后想删个人信息反遭殴打",
+      "onboard_time": 1753365686,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66511,
@@ -16324,6 +16404,9 @@
     },
     {
       "word": "#习近平会见科斯塔和冯德莱恩#"
+    },
+    {
+      "word": "#中欧建交50年的重要经验和启示#"
     }
   ]
 }
