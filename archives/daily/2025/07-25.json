@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753385059188,
+  "endTime": 1753385983226,
   "band_list": [
     {
       "raw_hot": 886749,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54213,
+      "num": 54213,
+      "word": "8旬独居老太深夜持菜刀砍邻居门",
+      "onboard_time": 1753379357,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49920,
       "num": 68849,
       "word": "扫毒风暴",
@@ -425,14 +433,6 @@
       "onboard_time": 1753361905,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 46349,
-      "num": 46349,
-      "word": "8旬独居老太深夜持菜刀砍邻居门",
-      "onboard_time": 1753379357,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45620,
@@ -537,6 +537,22 @@
       "onboard_time": 1753380736,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 14918,
+      "num": 31824,
+      "word": "17省区市有大到暴雨",
+      "onboard_time": 1753385174,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14590,
+      "num": 46068,
+      "word": "上海某互联网企业高管韩某被抓",
+      "onboard_time": 1753385234,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2385,
