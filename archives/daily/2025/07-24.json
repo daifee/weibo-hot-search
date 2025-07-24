@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753314149617,
+  "endTime": 1753323030200,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -8,6 +8,22 @@
       "word": "6名大学生在企业参观学习时溺亡",
       "onboard_time": 1753281086,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1993152,
+      "num": 272487,
+      "word": "东北大学溺亡者同学发声",
+      "onboard_time": 1753313300,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1667177,
+      "num": 1667177,
+      "word": "中金黄金致歉",
+      "onboard_time": 1753319483,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -35,12 +51,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 919978,
+      "num": 273685,
+      "word": "旺仔小乔方称已报案",
+      "onboard_time": 1753311799,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485347,
+      "num": 225214,
+      "word": "重度抑郁躯体化的真实表现",
+      "onboard_time": 1753321104,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 480962,
       "num": 806554,
       "word": "朝雪录破万",
       "onboard_time": 1753268781,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475155,
+      "num": 916276,
+      "word": "95后掏粪工上班开粪车下班开奔驰",
+      "onboard_time": 1753284693,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452446,
+      "num": 452446,
+      "word": "41岁交警生前最后画面看得人心疼",
+      "onboard_time": 1753318164,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 443652,
@@ -51,11 +99,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 427143,
-      "num": 916276,
-      "word": "95后掏粪工上班开粪车下班开奔驰",
-      "onboard_time": 1753284693,
+      "raw_hot": 420956,
+      "num": 420956,
+      "word": "中金黄金通报6名大学生溺亡",
+      "onboard_time": 1753319844,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384083,
+      "num": 221376,
+      "word": "美多名儿童被下药性虐待长达一年",
+      "onboard_time": 1753321104,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 340194,
+      "num": 219941,
+      "word": "棉密码卫生巾超30人自述患甲癌",
+      "onboard_time": 1753321284,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -83,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 299969,
+      "num": 216172,
+      "word": "为什么性格很好却给人一种距离感",
+      "onboard_time": 1753316673,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288049,
       "num": 234495,
       "word": "K总形容旺仔小乔长相",
@@ -107,11 +179,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273685,
-      "num": 273685,
-      "word": "旺仔小乔方称已报案",
-      "onboard_time": 1753311799,
-      "rank": 20,
+      "raw_hot": 283743,
+      "num": 283743,
+      "word": "科研人员违规使用AI致泄密",
+      "onboard_time": 1753314621,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -121,6 +193,22 @@
       "onboard_time": 1753285175,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245440,
+      "num": 245440,
+      "word": "醉驾车在闹市区顶了交警600米",
+      "onboard_time": 1753320984,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241247,
+      "num": 241247,
+      "word": "张真源solo",
+      "onboard_time": 1753318523,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 234678,
@@ -139,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217029,
+      "num": 165513,
+      "word": "身上肉软其实是体脂率高",
+      "onboard_time": 1753315883,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 205194,
       "num": 234339,
       "word": "女子为减肥连续晒背9天导致肾衰竭",
@@ -155,6 +251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192056,
+      "num": 155027,
+      "word": "身体发出异味可能是疾病征兆",
+      "onboard_time": 1753315282,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190491,
       "num": 272586,
       "word": "朝雪录爱奇艺热度破10100",
@@ -163,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179618,
-      "num": 272487,
-      "word": "东北大学溺亡者同学发声",
-      "onboard_time": 1753313300,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 186303,
+      "num": 238112,
+      "word": "书卷一梦庆功宴",
+      "onboard_time": 1753316186,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 176706,
@@ -185,6 +289,14 @@
       "onboard_time": 1753284213,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174636,
+      "num": 174636,
+      "word": "肖战谍报上不封顶路透",
+      "onboard_time": 1753315523,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 173263,
@@ -251,6 +363,62 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143559,
+      "num": 143559,
+      "word": "特朗普称将征15%至50%简单关税",
+      "onboard_time": 1753322243,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 142376,
+      "num": 236023,
+      "word": "特斯拉司机高速别车比侮辱手势被查",
+      "onboard_time": 1753321463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139785,
+      "num": 139785,
+      "word": "深圳地铁",
+      "onboard_time": 1753322424,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137801,
+      "num": 135444,
+      "word": "司机头伸出来的那一刻大家都笑了",
+      "onboard_time": 1753321645,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136214,
+      "num": 136214,
+      "word": "山姆回应有机大豆质量降级",
+      "onboard_time": 1753317744,
+      "rank": 25,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 131499,
+      "num": 131499,
+      "word": "反复提醒是一种恶意的关心",
+      "onboard_time": 1753322484,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124392,
+      "num": 124392,
+      "word": "6名大学生意外溺亡涉事企业致歉",
+      "onboard_time": 1753319844,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120403,
       "num": 233006,
       "word": "鹿晗与穿越火线主创合照",
@@ -265,6 +433,14 @@
       "onboard_time": 1753284093,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113934,
+      "num": 136093,
+      "word": "上个翻唱网红开演唱会后掉粉超370万",
+      "onboard_time": 1753321944,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 113736,
@@ -299,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106747,
+      "num": 106747,
+      "word": "江苏延长婚假",
+      "onboard_time": 1753321524,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105771,
+      "num": 105771,
+      "word": "结婚后体会到了何为父母的托举",
+      "onboard_time": 1753315043,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105685,
       "num": 232956,
       "word": "市监局回应上海和平饭店可乐卖50元",
@@ -321,6 +513,14 @@
       "onboard_time": 1753284033,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 99840,
+      "num": 99840,
+      "word": "小猫看B超机里自己的宝宝",
+      "onboard_time": 1753321344,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 97120,
@@ -371,6 +571,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88859,
+      "num": 131235,
+      "word": "韩国西瓜抹了腮红的冬瓜",
+      "onboard_time": 1753280485,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87917,
+      "num": 87917,
+      "word": "孙颖莎瑞典大满贯宣传片",
+      "onboard_time": 1753321524,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87763,
+      "num": 135865,
+      "word": "时代少年团三开",
+      "onboard_time": 1753277784,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 84119,
       "num": 233110,
       "word": "麦当劳回应工作人员没必要偷吃",
@@ -379,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79482,
-      "num": 131235,
-      "word": "韩国西瓜抹了腮红的冬瓜",
-      "onboard_time": 1753280485,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 78862,
+      "num": 87909,
+      "word": "真正的放下不是什么删除拉黑",
+      "onboard_time": 1753321583,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 78453,
@@ -393,6 +617,22 @@
       "onboard_time": 1753272262,
       "rank": 41,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 78125,
+      "num": 87904,
+      "word": "国安通报3起泄密案例",
+      "onboard_time": 1753319184,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74284,
+      "num": 135505,
+      "word": "6名大学生溺亡矿企本月刚开安全会",
+      "onboard_time": 1753321524,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72882,
@@ -409,6 +649,14 @@
       "onboard_time": 1753270101,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70300,
+      "num": 87901,
+      "word": "西班牙窃贼闯卧室盯着熟睡女子",
+      "onboard_time": 1753322124,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68851,
@@ -433,14 +681,6 @@
       "onboard_time": 1753277182,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 66801,
-      "num": 131156,
-      "word": "时代少年团三开",
-      "onboard_time": 1753277784,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 66047,
@@ -513,6 +753,14 @@
       "onboard_time": 1753289962,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25582,
+      "num": 456890,
+      "word": "高考录取季警惕通知书陷阱",
+      "onboard_time": 1753319844,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19201,
