@@ -1,6 +1,6 @@
 {
   "startTime": 1753288587529,
-  "endTime": 1753324557334,
+  "endTime": 1753329858798,
   "band_list": [
     {
       "raw_hot": 7676756,
@@ -9,6 +9,22 @@
       "onboard_time": 1753281086,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4115198,
+      "num": 4115198,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1753326265,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 2155665,
+      "num": 335669,
+      "word": "卫生巾 硫脲",
+      "onboard_time": 1753325902,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1993152,
@@ -24,6 +40,30 @@
       "word": "中金黄金致歉",
       "onboard_time": 1753319483,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1509568,
+      "num": 1509568,
+      "word": "溺亡学生同学称浮选槽里是矿浆",
+      "onboard_time": 1753324222,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1388093,
+      "num": 328021,
+      "word": "展轩机场",
+      "onboard_time": 1753328005,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1211950,
+      "num": 1211950,
+      "word": "6名溺亡学生为大三生",
+      "onboard_time": 1753326082,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -67,11 +107,51 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 871538,
+      "num": 686072,
+      "word": "易烊千玺演唱会主海报",
+      "onboard_time": 1753327282,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 686144,
+      "num": 686144,
+      "word": "东北大学回应6名大学生企业参观溺亡",
+      "onboard_time": 1753323443,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 669679,
+      "num": 321282,
+      "word": "张峻豪方声明",
+      "onboard_time": 1753328364,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 660394,
+      "num": 660394,
+      "word": "张峻豪 先别闹了",
+      "onboard_time": 1753328725,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 656931,
       "num": 656931,
       "word": "41岁交警生前最后画面看得人心疼",
       "onboard_time": 1753318164,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 603834,
+      "num": 283758,
+      "word": "棉密码卫生巾超30人自述患甲癌",
+      "onboard_time": 1753321284,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -99,11 +179,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 452154,
+      "num": 452154,
+      "word": "泰国柬埔寨在边境交火",
+      "onboard_time": 1753323924,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 443652,
       "num": 678326,
       "word": "大麦网给亲人离世退票遭拒的歌迷退款",
       "onboard_time": 1753285112,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386161,
+      "num": 386161,
+      "word": "顺德一村通知全村准时在家点蚊香",
+      "onboard_time": 1753323564,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -115,11 +211,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 363247,
-      "num": 237381,
-      "word": "棉密码卫生巾超30人自述患甲癌",
-      "onboard_time": 1753321284,
-      "rank": 14,
+      "raw_hot": 337012,
+      "num": 337012,
+      "word": "什么是浮选槽",
+      "onboard_time": 1753327463,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -147,12 +243,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 321894,
-      "num": 321894,
-      "word": "东北大学回应6名大学生企业参观溺亡",
-      "onboard_time": 1753323443,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 307992,
+      "num": 307992,
+      "word": "樱桃琥珀张凌赫戏份",
+      "onboard_time": 1753324944,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 299969,
@@ -219,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258190,
+      "num": 258190,
+      "word": "患上4种炎症拖下去小心癌变",
+      "onboard_time": 1753325782,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 245212,
       "num": 245212,
       "word": "张真源solo",
@@ -233,6 +337,30 @@
       "onboard_time": 1753270342,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230548,
+      "num": 307959,
+      "word": "深情眼第八集",
+      "onboard_time": 1753325303,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230434,
+      "num": 294778,
+      "word": "以为一见钟情其实互相下套",
+      "onboard_time": 1753328605,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224494,
+      "num": 224494,
+      "word": "柬埔寨称对泰国采取对等回应",
+      "onboard_time": 1753329265,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 224116,
@@ -267,19 +395,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197584,
-      "num": 197584,
-      "word": "泰国柬埔寨在边境交火",
-      "onboard_time": 1753323924,
-      "rank": 16,
-      "category": "国际时政"
+      "raw_hot": 194904,
+      "num": 194904,
+      "word": "刘宇宁看起来是少爷实际是老爷",
+      "onboard_time": 1753329024,
+      "rank": 25,
+      "category": "综艺"
     },
     {
-      "raw_hot": 192495,
-      "num": 192495,
-      "word": "顺德一村通知全村准时在家点蚊香",
-      "onboard_time": 1753323564,
-      "rank": 20,
+      "raw_hot": 192196,
+      "num": 192196,
+      "word": "棉密码",
+      "onboard_time": 1753329445,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -307,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184107,
+      "num": 184107,
+      "word": "孙俪已做好演奶奶的准备",
+      "onboard_time": 1753327104,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182020,
       "num": 244534,
       "word": "上个翻唱网红开演唱会后掉粉超370万",
       "onboard_time": 1753321944,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178071,
+      "num": 178071,
+      "word": "佛山顺德一天增463例基孔肯雅热",
+      "onboard_time": 1753327282,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176706,
@@ -403,12 +547,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151432,
-      "num": 151432,
-      "word": "溺亡学生同学称浮选槽里是矿浆",
-      "onboard_time": 1753324222,
-      "rank": 24,
+      "raw_hot": 156118,
+      "num": 156118,
+      "word": "中金黄金股价开盘大跌",
+      "onboard_time": 1753327282,
+      "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153487,
+      "num": 153487,
+      "word": "杨瀚森确认归队中国男篮",
+      "onboard_time": 1753324884,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150417,
+      "num": 150417,
+      "word": "泰国将降低与柬埔寨外交关系等级",
+      "onboard_time": 1753326324,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147821,
@@ -427,12 +587,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142623,
+      "num": 142623,
+      "word": "乔布斯小女儿婚礼耗资500万英镑",
+      "onboard_time": 1753327523,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139785,
       "num": 139785,
       "word": "深圳地铁",
       "onboard_time": 1753322424,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138757,
+      "num": 138757,
+      "word": "孙俪纠结长发or短发",
+      "onboard_time": 1753328485,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137801,
@@ -451,6 +627,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 130372,
+      "num": 312117,
+      "word": "理想i8开起来怎么样",
+      "onboard_time": 1753328364,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 124392,
       "num": 124392,
       "word": "6名大学生意外溺亡涉事企业致歉",
@@ -465,6 +649,22 @@
       "onboard_time": 1753282831,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117891,
+      "num": 117891,
+      "word": "老祖宗的审美绝了",
+      "onboard_time": 1753327463,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117285,
+      "num": 288551,
+      "word": "给人生一片厦门海",
+      "onboard_time": 1753326804,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115976,
@@ -497,6 +697,14 @@
       "onboard_time": 1753266202,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110585,
+      "num": 151302,
+      "word": "增程车纯电续航突破400公里",
+      "onboard_time": 1753326684,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 107807,
@@ -537,6 +745,14 @@
       "onboard_time": 1753267762,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103684,
+      "num": 103684,
+      "word": "南京照相馆片尾曲MV",
+      "onboard_time": 1753326684,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 101694,
@@ -731,6 +947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 64938,
+      "num": 178343,
+      "word": "央视曝光视频剪辑课骗局",
+      "onboard_time": 1753329145,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64613,
       "num": 232795,
       "word": "王者荣耀电竞世界杯",
@@ -753,6 +977,14 @@
       "onboard_time": 1753313721,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58681,
+      "num": 158939,
+      "word": "山姆称面包未标转基因是字太多",
+      "onboard_time": 1753329743,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54483,
@@ -795,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31588,
+      "num": 1257832,
+      "word": "簪花为什么突然火出圈了",
+      "onboard_time": 1753277123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29973,
       "num": 50420,
       "word": "京东回应外卖自营店无堂食",
@@ -830,6 +1070,9 @@
   "hotgov_list": [
     {
       "word": "#打开改革发展新天地#"
+    },
+    {
+      "word": "#总书记为何以泰山喻作风#"
     }
   ]
 }
