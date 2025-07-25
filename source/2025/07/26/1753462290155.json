@@ -1,0 +1,410 @@
+{
+  "runTime": 1753462290155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1688209,
+        "num": 1688209,
+        "word": "汪苏泷体面人",
+        "onboard_time": 1753458084,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425504,
+        "num": 425504,
+        "word": "连休8天的长假来了",
+        "onboard_time": 1753431083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22152,
+        "num": 307780,
+        "word": "打卡夏天里的大美中国",
+        "onboard_time": 1753451368,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226188,
+        "num": 226188,
+        "word": "学生遇难时5块格栅板坠落",
+        "onboard_time": 1753452506,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178064,
+        "num": 178064,
+        "word": "懂车帝",
+        "onboard_time": 1753439243,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1130101,
+        "num": 177445,
+        "word": "汪苏泷一语双关",
+        "onboard_time": 1753454190,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1110799,
+        "num": 175520,
+        "word": "年轮纠纷撕裂了谁的体面",
+        "onboard_time": 1753458384,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 827886,
+        "num": 174410,
+        "word": "单依纯 邓丽君",
+        "onboard_time": 1753451488,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169487,
+        "num": 169487,
+        "word": "美国人看到中国公园破防了",
+        "onboard_time": 1753452506,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163086,
+        "num": 163086,
+        "word": "广州全市开展集中灭蚊行动",
+        "onboard_time": 1753457365,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740033,
+        "num": 162734,
+        "word": "花千骨只用过张碧晨版年轮",
+        "onboard_time": 1753449807,
+        "rank": 10,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 493714,
+        "num": 162641,
+        "word": "歌手排名",
+        "onboard_time": 1753453889,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487588,
+        "num": 162202,
+        "word": "90后夫妻结婚14年丈夫出轨8年",
+        "onboard_time": 1753456646,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408297,
+        "num": 161918,
+        "word": "肖战转发王琳",
+        "onboard_time": 1753459043,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367252,
+        "num": 161359,
+        "word": "时代少年团感谢王源",
+        "onboard_time": 1753458205,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188047,
+        "num": 160757,
+        "word": "网易游戏遭大量玩家维权",
+        "onboard_time": 1753442664,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134198,
+        "num": 160716,
+        "word": "6名学生内蒙古遇难最新细节披露",
+        "onboard_time": 1753451848,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132617,
+        "num": 160003,
+        "word": "丰川祥子",
+        "onboard_time": 1753456466,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130445,
+        "num": 159589,
+        "word": "iPhone17Pro橙色新配色",
+        "onboard_time": 1753435644,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123800,
+        "num": 159390,
+        "word": "环卫招聘设笔试面试198人报名",
+        "onboard_time": 1753459345,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2164008,
+        "num": 158856,
+        "word": "张碧晨方称享有年轮永久演唱权利",
+        "onboard_time": 1753442423,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307035,
+        "num": 158692,
+        "word": "讨厌红楼梦",
+        "onboard_time": 1753449687,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188457,
+        "num": 158214,
+        "word": "孩子撞见爸爸出轨半夜被赶出家门",
+        "onboard_time": 1753443686,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185914,
+        "num": 158019,
+        "word": "难听",
+        "onboard_time": 1753447706,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157636,
+        "num": 157636,
+        "word": "东京性交易场所成游客著名景点",
+        "onboard_time": 1753446986,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 157023,
+        "word": "网易游戏一年不登录或被删除账号",
+        "onboard_time": 1753449208,
+        "rank": 25,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 156688,
+        "num": 156688,
+        "word": "ALin 马嘉祺我爱他",
+        "onboard_time": 1753453349,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151609,
+        "num": 151609,
+        "word": "花千骨制片人回应年轮争议",
+        "onboard_time": 1753434384,
+        "rank": 27,
+        "category": "音乐,剧集"
+      },
+      {
+        "raw_hot": 140180,
+        "num": 140180,
+        "word": "董璇自曝再婚后与丈夫分开住",
+        "onboard_time": 1753447227,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31230,
+        "num": 140014,
+        "word": "自称因反对穿超短裙被辞当事人发声",
+        "onboard_time": 1753461203,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139881,
+        "num": 139881,
+        "word": "鹿晗腹肌",
+        "onboard_time": 1753450288,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127177,
+        "num": 127177,
+        "word": "宋亚轩 要你管",
+        "onboard_time": 1753456226,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122088,
+        "num": 122088,
+        "word": "单依纯回应重得第一",
+        "onboard_time": 1753459345,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118848,
+        "num": 118848,
+        "word": "种地吧",
+        "onboard_time": 1753457546,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117393,
+        "num": 117393,
+        "word": "年轮争原唱是落入了话题陷阱",
+        "onboard_time": 1753461562,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134250,
+        "num": 117078,
+        "word": "鹿晗跳了肯恰那",
+        "onboard_time": 1753456945,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115102,
+        "num": 115102,
+        "word": "印度男子开假大使馆近10年才被发现",
+        "onboard_time": 1753459525,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110522,
+        "num": 115095,
+        "word": "张予曦毕雯珺好嗑",
+        "onboard_time": 1753461502,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101845,
+        "num": 115086,
+        "word": "时代少年团X",
+        "onboard_time": 1753460364,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73186,
+        "num": 115079,
+        "word": "骑手被树砸到脖子导致高位截瘫",
+        "onboard_time": 1753458084,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88128,
+        "num": 115064,
+        "word": "ALin又秒了",
+        "onboard_time": 1753449567,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85821,
+        "num": 115055,
+        "word": "孟子义血泪镜头杀疯了",
+        "onboard_time": 1753453349,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81457,
+        "num": 115049,
+        "word": "周安信C位",
+        "onboard_time": 1753460483,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73767,
+        "num": 115033,
+        "word": "罗小黑2",
+        "onboard_time": 1753457006,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 70084,
+        "num": 115030,
+        "word": "歌手突围赛",
+        "onboard_time": 1753457485,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68672,
+        "num": 115018,
+        "word": "樱桃琥珀",
+        "onboard_time": 1753458026,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67758,
+        "num": 115002,
+        "word": "友情走到头的5个信号",
+        "onboard_time": 1753457785,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65303,
+        "num": 114994,
+        "word": "歌手直播",
+        "onboard_time": 1753442423,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53568,
+        "num": 114979,
+        "word": "为什么建议每天最少走7000步",
+        "onboard_time": 1753454190,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 52276,
+        "num": 114974,
+        "word": "申请信息公开需缴22万元打印费",
+        "onboard_time": 1753461083,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平妙喻阐释中欧关系发展之道#"
+    }
+  }
+}

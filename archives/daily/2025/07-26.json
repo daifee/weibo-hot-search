@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753461318202,
+  "endTime": 1753462290155,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -11,8 +11,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1686245,
-      "num": 1686245,
+      "raw_hot": 1688209,
+      "num": 1688209,
       "word": "汪苏泷体面人",
       "onboard_time": 1753458084,
       "rank": 0,
@@ -35,7 +35,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1050817,
+      "raw_hot": 1110799,
       "num": 220465,
       "word": "年轮纠纷撕裂了谁的体面",
       "onboard_time": 1753458384,
@@ -43,7 +43,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 706754,
+      "raw_hot": 740033,
       "num": 220010,
       "word": "花千骨只用过张碧晨版年轮",
       "onboard_time": 1753449807,
@@ -83,20 +83,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408297,
+      "num": 218548,
+      "word": "肖战转发王琳",
+      "onboard_time": 1753459043,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356221,
       "num": 219566,
       "word": "讨厌红楼梦",
       "onboard_time": 1753449687,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 351483,
-      "num": 218548,
-      "word": "肖战转发王琳",
-      "onboard_time": 1753459043,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 233039,
@@ -107,8 +107,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 220809,
-      "num": 220809,
+      "raw_hot": 226188,
+      "num": 226188,
       "word": "学生遇难时5块格栅板坠落",
       "onboard_time": 1753452506,
       "rank": 4,
@@ -153,6 +153,14 @@
       "onboard_time": 1753457365,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188047,
+      "num": 219148,
+      "word": "网易游戏遭大量玩家维权",
+      "onboard_time": 1753442664,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 186983,
@@ -211,14 +219,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 147448,
-      "num": 219148,
-      "word": "网易游戏遭大量玩家维权",
-      "onboard_time": 1753442664,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146059,
       "num": 219032,
       "word": "6名学生内蒙古遇难最新细节披露",
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123800,
+      "num": 216882,
+      "word": "环卫招聘设笔试面试198人报名",
+      "onboard_time": 1753459345,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117552,
       "num": 216959,
       "word": "印度男子开假大使馆近10年才被发现",
@@ -275,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106586,
-      "num": 216882,
-      "word": "环卫招聘设笔试面试198人报名",
-      "onboard_time": 1753459345,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 117393,
+      "num": 117393,
+      "word": "年轮争原唱是落入了话题陷阱",
+      "onboard_time": 1753461562,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 110522,
+      "num": 115095,
+      "word": "张予曦毕雯珺好嗑",
+      "onboard_time": 1753461502,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 105689,
@@ -347,6 +363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73767,
+      "num": 115033,
+      "word": "罗小黑2",
+      "onboard_time": 1753457006,
+      "rank": 43,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 73186,
+      "num": 215436,
+      "word": "骑手被树砸到脖子导致高位截瘫",
+      "onboard_time": 1753458084,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69284,
       "num": 215579,
       "word": "医院丢弃CT机已无使用价值",
@@ -355,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68403,
-      "num": 215436,
-      "word": "骑手被树砸到脖子导致高位截瘫",
-      "onboard_time": 1753458084,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 68672,
+      "num": 115018,
+      "word": "樱桃琥珀",
+      "onboard_time": 1753458026,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 57625,
@@ -387,7 +419,15 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 25681,
+      "raw_hot": 52276,
+      "num": 114974,
+      "word": "申请信息公开需缴22万元打印费",
+      "onboard_time": 1753461083,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31230,
       "num": 216367,
       "word": "自称因反对穿超短裙被辞当事人发声",
       "onboard_time": 1753461203,
