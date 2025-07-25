@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753479704968,
+  "endTime": 1753482443630,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1304833,
-      "num": 220593,
+      "num": 302324,
       "word": "汪苏泷一语双关",
       "onboard_time": 1753454190,
       "rank": 6,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79942,
+      "num": 42414,
+      "word": "中国最神秘军校72年来首次招女生",
+      "onboard_time": 1753475055,
+      "rank": 23,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 77988,
       "num": 77988,
       "word": "3名脑瘫少年拒绝捐款摆摊卖蒜",
@@ -435,14 +443,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 56575,
-      "num": 30749,
-      "word": "中国最神秘军校72年来首次招女生",
-      "onboard_time": 1753475055,
-      "rank": 23,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 53963,
       "num": 215205,
       "word": "再探6名大学生遇难选矿厂",
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49084,
+      "num": 216367,
+      "word": "自称因反对穿超短裙被辞当事人发声",
+      "onboard_time": 1753461203,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47897,
       "num": 69000,
       "word": "银川地震",
@@ -475,20 +483,20 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 44989,
-      "num": 216367,
-      "word": "自称因反对穿超短裙被辞当事人发声",
-      "onboard_time": 1753461203,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44369,
       "num": 80719,
       "word": "陈楚生直通总决赛",
       "onboard_time": 1753464678,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32563,
+      "num": 62717,
+      "word": "老人卧床多年跟保姆结婚并赠与房产",
+      "onboard_time": 1753451607,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30242,
@@ -507,6 +515,14 @@
       "category": "辟谣/通报,健康医疗"
     },
     {
+      "raw_hot": 25247,
+      "num": 42306,
+      "word": "李昀锐金发泡面头",
+      "onboard_time": 1753480395,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23645,
       "num": 44789,
       "word": "天官赐福广播剧第三季",
@@ -523,36 +539,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21811,
-      "num": 62717,
-      "word": "老人卧床多年跟保姆结婚并赠与房产",
-      "onboard_time": 1753451607,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19199,
-      "num": 44757,
-      "word": "脱口秀和Ta的朋友们",
-      "onboard_time": 1753469896,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18495,
-      "num": 30172,
+      "raw_hot": 22097,
+      "num": 42276,
       "word": "阚清子孕肚大片",
       "onboard_time": 1753474695,
       "rank": 40,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18018,
+      "raw_hot": 21464,
       "num": 44741,
       "word": "腹部温度低于手背温度说明身体是寒的",
       "onboard_time": 1753470555,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20513,
+      "num": 44757,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1753469896,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 13646,
