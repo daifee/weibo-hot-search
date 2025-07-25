@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753419603551,
+  "endTime": 1753421659136,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -115,6 +115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 655553,
+      "num": 238201,
+      "word": "虞书欣 天梭",
+      "onboard_time": 1753419384,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 615568,
+      "num": 235591,
+      "word": "花千骨",
+      "onboard_time": 1753419326,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610364,
       "num": 151463,
       "word": "医生称坠入矿浆无黄金救援时间",
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455802,
+      "num": 455802,
+      "word": "日本最美初中生大赛",
+      "onboard_time": 1753417524,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 455615,
       "num": 223100,
       "word": "董璇再婚后的生活状态",
@@ -195,12 +219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419230,
+      "num": 161961,
+      "word": "爸爸一躺小孩面相都变了",
+      "onboard_time": 1753420823,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409942,
       "num": 409942,
       "word": "瘦了82斤身体各部位的变化",
       "onboard_time": 1753404203,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 407590,
+      "num": 407590,
+      "word": "赵子豪3比1林诗栋",
+      "onboard_time": 1753420644,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 383634,
@@ -211,12 +251,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 309791,
-      "num": 309791,
-      "word": "日本最美初中生大赛",
-      "onboard_time": 1753417524,
-      "rank": 4,
-      "category": "海外新闻"
+      "raw_hot": 326190,
+      "num": 227486,
+      "word": "姐脱了解脱了",
+      "onboard_time": 1753419745,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 304055,
@@ -329,6 +369,14 @@
       "onboard_time": 1753360284,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248368,
+      "num": 248368,
+      "word": "黄仁勋称美国独特优势是特朗普总统",
+      "onboard_time": 1753419326,
+      "rank": 40,
+      "category": "国际时政,数码"
     },
     {
       "raw_hot": 245027,
@@ -483,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202500,
+      "num": 180802,
+      "word": "综艺之神李乃文开始修仙了",
+      "onboard_time": 1753420465,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201560,
       "num": 258023,
       "word": "美国骚猪肉",
@@ -563,12 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186939,
-      "num": 186939,
-      "word": "虞书欣 天梭",
-      "onboard_time": 1753419384,
-      "rank": 26,
-      "category": "艺人,时尚"
+      "raw_hot": 186745,
+      "num": 161844,
+      "word": "成年以后还是很单纯的原因",
+      "onboard_time": 1753420823,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 185711,
@@ -603,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182376,
+      "num": 182376,
+      "word": "演唱会被抓包出轨女高管辞职",
+      "onboard_time": 1753421305,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182292,
       "num": 198921,
       "word": "丁禹兮小太阳",
@@ -627,20 +691,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179690,
+      "num": 179690,
+      "word": "凡人修仙传",
+      "onboard_time": 1753421004,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178909,
+      "num": 178909,
+      "word": "鹿晗演唱会大型跳操现场",
+      "onboard_time": 1753420644,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176512,
       "num": 176512,
       "word": "产后11个月坚持运动瘦了61斤",
       "onboard_time": 1753412305,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 174749,
-      "num": 174749,
-      "word": "花千骨",
-      "onboard_time": 1753419326,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 171363,
@@ -699,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161777,
+      "num": 161777,
+      "word": "和平精英刺激之夜官宣",
+      "onboard_time": 1753420403,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160961,
       "num": 160961,
       "word": "泰柬边境再次交火",
@@ -707,12 +787,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160040,
+      "num": 180241,
+      "word": "招聘平台回应一主持人简历疑似涉黄",
+      "onboard_time": 1753420943,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159886,
       "num": 159886,
       "word": "录取通知书切西瓜",
       "onboard_time": 1753401382,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159259,
+      "num": 159259,
+      "word": "王楚钦3比2徐海东",
+      "onboard_time": 1753420103,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159184,
+      "num": 159184,
+      "word": "入境男子体内藏毒1387.45克",
+      "onboard_time": 1753418725,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158880,
@@ -731,6 +835,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153784,
+      "num": 162097,
+      "word": "张予曦大大方方东北夹子",
+      "onboard_time": 1753420345,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153333,
+      "num": 153333,
+      "word": "求职简历涉黄账号已被永久封禁",
+      "onboard_time": 1753418845,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151764,
       "num": 151764,
       "word": "中南大学谭某兵被暂停工作",
@@ -745,6 +865,14 @@
       "onboard_time": 1753379357,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149725,
+      "num": 149725,
+      "word": "上海地产vs黄石华新",
+      "onboard_time": 1753421243,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 147739,
@@ -787,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141904,
-      "num": 141904,
-      "word": "黄仁勋称美国独特优势是特朗普总统",
-      "onboard_time": 1753419326,
-      "rank": 40,
-      "category": "国际时政,数码"
-    },
-    {
       "raw_hot": 140153,
       "num": 140153,
       "word": "失联安徽高中生已平安回国",
@@ -803,12 +923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139137,
-      "num": 142164,
-      "word": "入境男子体内藏毒1387.45克",
-      "onboard_time": 1753418725,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 138628,
+      "num": 159200,
+      "word": "李宇春情绪疾病更值得被正视",
+      "onboard_time": 1753420644,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 138298,
@@ -859,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135038,
+      "num": 135038,
+      "word": "吴谦少将新任国防武官",
+      "onboard_time": 1753419985,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134290,
       "num": 134290,
       "word": "蒋峤西出租屋是樱桃痛屋",
@@ -891,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130489,
+      "num": 130489,
+      "word": "李相夷的剑舞是武侠剧一绝",
+      "onboard_time": 1753421544,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128673,
       "num": 128673,
       "word": "林诗栋vs赵子豪",
@@ -905,6 +1041,14 @@
       "onboard_time": 1753355782,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127023,
+      "num": 127023,
+      "word": "齐司礼你在时月亮皎洁",
+      "onboard_time": 1753420703,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 126162,
@@ -1449,6 +1593,14 @@
       "onboard_time": 1753378399,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42088,
+      "num": 162230,
+      "word": "母女遭到出租车司机辱骂绕路甩客",
+      "onboard_time": 1753420883,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42006,
