@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753458307129,
+  "endTime": 1753461318202,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1751698942,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1686245,
+      "num": 1686245,
+      "word": "汪苏泷体面人",
+      "onboard_time": 1753458084,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1685930,
@@ -3785,6 +3793,14 @@
       "onboard_time": 1753345643,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1050817,
+      "num": 220465,
+      "word": "年轮纠纷撕裂了谁的体面",
+      "onboard_time": 1753458384,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1050102,
@@ -10123,6 +10139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 560344,
+      "num": 296365,
+      "word": "90后夫妻结婚14年丈夫出轨8年",
+      "onboard_time": 1753456646,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 559939,
       "num": 559939,
       "word": "相柳",
@@ -11771,6 +11795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499268,
+      "num": 288474,
+      "word": "时代少年团感谢王源",
+      "onboard_time": 1753458205,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 499130,
       "num": 436024,
       "word": "袁泉夏雨15岁女儿罕见露面",
@@ -12001,14 +12033,6 @@
       "onboard_time": 1752556523,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490659,
-      "num": 296696,
-      "word": "汪苏泷体面人",
-      "onboard_time": 1753458084,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 490478,
@@ -14571,14 +14595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 410290,
-      "num": 296365,
-      "word": "90后夫妻结婚14年丈夫出轨8年",
-      "onboard_time": 1753456646,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 409942,
       "num": 409942,
       "word": "瘦了82斤身体各部位的变化",
@@ -16881,6 +16897,14 @@
       "onboard_time": 1751347642,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351483,
+      "num": 218548,
+      "word": "肖战转发王琳",
+      "onboard_time": 1753459043,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 351448,
@@ -20601,14 +20625,6 @@
       "onboard_time": 1751683883,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 288474,
-      "num": 288474,
-      "word": "时代少年团感谢王源",
-      "onboard_time": 1753458205,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 288379,
@@ -26627,6 +26643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220809,
+      "num": 801791,
+      "word": "学生遇难时5块格栅板坠落",
+      "onboard_time": 1753452506,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220803,
       "num": 220803,
       "word": "网传肖战无缝进组小城良方",
@@ -30411,14 +30435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201609,
-      "num": 801791,
-      "word": "学生遇难时5块格栅板坠落",
-      "onboard_time": 1753452506,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201552,
       "num": 201552,
       "word": "时代少年团在里面闹麻了",
@@ -30793,6 +30809,14 @@
       "onboard_time": 1752411865,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200091,
+      "num": 218328,
+      "word": "时代少年团X",
+      "onboard_time": 1753460364,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 200078,
@@ -32745,6 +32769,14 @@
       "onboard_time": 1753334724,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192895,
+      "num": 268171,
+      "word": "广州全市开展集中灭蚊行动",
+      "onboard_time": 1753457365,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192873,
@@ -51771,6 +51803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134814,
+      "num": 217256,
+      "word": "单依纯回应重得第一",
+      "onboard_time": 1753459345,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134788,
       "num": 134788,
       "word": "星穹铁道3.4",
@@ -60179,6 +60219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117552,
+      "num": 216959,
+      "word": "印度男子开假大使馆近10年才被发现",
+      "onboard_time": 1753459525,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117546,
       "num": 117546,
       "word": "李斌称电池越大对马路破坏越大",
@@ -65643,6 +65691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 106586,
+      "num": 216882,
+      "word": "环卫招聘设笔试面试198人报名",
+      "onboard_time": 1753459345,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106576,
       "num": 106576,
       "word": "建党节",
@@ -66145,6 +66201,14 @@
       "onboard_time": 1751623881,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 105316,
+      "num": 216675,
+      "word": "周安信C位",
+      "onboard_time": 1753460483,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 105300,
@@ -67441,14 +67505,6 @@
       "onboard_time": 1752766102,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102403,
-      "num": 268171,
-      "word": "广州全市开展集中灭蚊行动",
-      "onboard_time": 1753457365,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102394,
@@ -72435,6 +72491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84124,
+      "num": 277494,
+      "word": "友情走到头的5个信号",
+      "onboard_time": 1753457785,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84072,
       "num": 90813,
       "word": "俄罗斯全面控制卢甘斯克",
@@ -73689,14 +73753,6 @@
       "onboard_time": 1752026122,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76847,
-      "num": 277494,
-      "word": "友情走到头的5个信号",
-      "onboard_time": 1753457785,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 76815,
@@ -75121,6 +75177,14 @@
       "onboard_time": 1752238944,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 68403,
+      "num": 277984,
+      "word": "骑手被树砸到脖子导致高位截瘫",
+      "onboard_time": 1753458084,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68386,
@@ -77648,6 +77712,14 @@
       "word": "监拍老鼠熟练挪开粘鼠板",
       "onboard_time": 1752298340,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53963,
+      "num": 288254,
+      "word": "再探6名大学生遇难选矿厂",
+      "onboard_time": 1753458145,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -80763,28 +80835,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37214,
-      "num": 288254,
-      "word": "再探6名大学生遇难选矿厂",
-      "onboard_time": 1753458145,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37199,
       "num": 52390,
       "word": "尹锡悦将被押往看守所",
       "onboard_time": 1752091814,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 37124,
-      "num": 277984,
-      "word": "骑手被树砸到脖子导致高位截瘫",
-      "onboard_time": 1753458084,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37063,
@@ -83201,6 +83257,14 @@
       "onboard_time": 1753167801,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25681,
+      "num": 216367,
+      "word": "自称因反对穿超短裙被辞当事人发声",
+      "onboard_time": 1753461203,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25584,

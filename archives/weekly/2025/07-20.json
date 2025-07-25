@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753458307129,
+  "endTime": 1753461318202,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -361,6 +361,14 @@
       "onboard_time": 1752974659,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1686245,
+      "num": 1686245,
+      "word": "汪苏泷体面人",
+      "onboard_time": 1753458084,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1683118,
@@ -961,6 +969,14 @@
       "onboard_time": 1753345643,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1050817,
+      "num": 220465,
+      "word": "年轮纠纷撕裂了谁的体面",
+      "onboard_time": 1753458384,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1048325,
@@ -2371,6 +2387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 560344,
+      "num": 296365,
+      "word": "90后夫妻结婚14年丈夫出轨8年",
+      "onboard_time": 1753456646,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 559939,
       "num": 559939,
       "word": "相柳",
@@ -2787,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499268,
+      "num": 288474,
+      "word": "时代少年团感谢王源",
+      "onboard_time": 1753458205,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 497909,
       "num": 497909,
       "word": "台风韦帕登陆广东台山沿海",
@@ -2873,14 +2905,6 @@
       "onboard_time": 1753001301,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490659,
-      "num": 296696,
-      "word": "汪苏泷体面人",
-      "onboard_time": 1753458084,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 488060,
@@ -3483,14 +3507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410290,
-      "num": 296365,
-      "word": "90后夫妻结婚14年丈夫出轨8年",
-      "onboard_time": 1753456646,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 409942,
       "num": 409942,
       "word": "瘦了82斤身体各部位的变化",
@@ -4033,6 +4049,14 @@
       "onboard_time": 1752910282,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 351483,
+      "num": 218548,
+      "word": "肖战转发王琳",
+      "onboard_time": 1753459043,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 350856,
@@ -4953,14 +4977,6 @@
       "onboard_time": 1753273102,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288474,
-      "num": 288474,
-      "word": "时代少年团感谢王源",
-      "onboard_time": 1753458205,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 287896,
@@ -6259,6 +6275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220809,
+      "num": 801791,
+      "word": "学生遇难时5块格栅板坠落",
+      "onboard_time": 1753452506,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220517,
       "num": 220517,
       "word": "台风",
@@ -7219,14 +7243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201609,
-      "num": 801791,
-      "word": "学生遇难时5块格栅板坠落",
-      "onboard_time": 1753452506,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "X玖少年团成员集体改名",
@@ -7329,6 +7345,14 @@
       "onboard_time": 1753246883,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200091,
+      "num": 218328,
+      "word": "时代少年团X",
+      "onboard_time": 1753460364,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 200078,
@@ -7753,6 +7777,14 @@
       "onboard_time": 1753334724,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192895,
+      "num": 268171,
+      "word": "广州全市开展集中灭蚊行动",
+      "onboard_time": 1753457365,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192873,
@@ -12291,6 +12323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 134814,
+      "num": 217256,
+      "word": "单依纯回应重得第一",
+      "onboard_time": 1753459345,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134771,
       "num": 149484,
       "word": "徐艺洋给黄子韬哄成胚胎了",
@@ -14379,6 +14419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117552,
+      "num": 216959,
+      "word": "印度男子开假大使馆近10年才被发现",
+      "onboard_time": 1753459525,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117453,
       "num": 117453,
       "word": "单休怎么休最回血",
@@ -15755,6 +15803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 106586,
+      "num": 216882,
+      "word": "环卫招聘设笔试面试198人报名",
+      "onboard_time": 1753459345,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106495,
       "num": 106495,
       "word": "杨广弟陪孙颖莎加练",
@@ -15889,6 +15945,14 @@
       "onboard_time": 1752917002,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105316,
+      "num": 216675,
+      "word": "周安信C位",
+      "onboard_time": 1753460483,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 105245,
@@ -16153,14 +16217,6 @@
       "onboard_time": 1752985521,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102403,
-      "num": 268171,
-      "word": "广州全市开展集中灭蚊行动",
-      "onboard_time": 1753457365,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102369,
@@ -17339,6 +17395,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 84124,
+      "num": 277494,
+      "word": "友情走到头的5个信号",
+      "onboard_time": 1753457785,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83927,
       "num": 83927,
       "word": "中国花游第3金",
@@ -17561,14 +17625,6 @@
       "onboard_time": 1752993682,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76847,
-      "num": 277494,
-      "word": "友情走到头的5个信号",
-      "onboard_time": 1753457785,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 76815,
@@ -17897,6 +17953,14 @@
       "onboard_time": 1753441584,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68403,
+      "num": 277984,
+      "word": "骑手被树砸到脖子导致高位截瘫",
+      "onboard_time": 1753458084,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68149,
@@ -18520,6 +18584,14 @@
       "word": "调查组已进驻大学生溺亡事故现场",
       "onboard_time": 1753398919,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53963,
+      "num": 288254,
+      "word": "再探6名大学生遇难选矿厂",
+      "onboard_time": 1753458145,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -19203,22 +19275,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 37214,
-      "num": 288254,
-      "word": "再探6名大学生遇难选矿厂",
-      "onboard_time": 1753458145,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37124,
-      "num": 277984,
-      "word": "骑手被树砸到脖子导致高位截瘫",
-      "onboard_time": 1753458084,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36749,
       "num": 413268,
       "word": "辉煌60载魅力新西藏",
@@ -19689,6 +19745,14 @@
       "onboard_time": 1753167801,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25681,
+      "num": 216367,
+      "word": "自称因反对穿超短裙被辞当事人发声",
+      "onboard_time": 1753461203,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25407,
