@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753432597255,
+  "endTime": 1753433474371,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -17,6 +17,14 @@
       "onboard_time": 1753398679,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3387369,
+      "num": 3387369,
+      "word": "连休8天的长假来了",
+      "onboard_time": 1753431083,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3182402,
@@ -41,14 +49,6 @@
       "onboard_time": 1753422442,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2163873,
-      "num": 2163873,
-      "word": "连休8天的长假来了",
-      "onboard_time": 1753431083,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1799835,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 590065,
-      "num": 380869,
+      "num": 496519,
       "word": "海蝶登记有年轮录音制品著作权",
       "onboard_time": 1753428144,
       "rank": 12,
@@ -259,12 +259,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 494212,
+      "num": 494212,
+      "word": "宋慧乔瘦成这样了",
+      "onboard_time": 1753431503,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475477,
       "num": 475477,
       "word": "马斯克转发懂车帝测试",
       "onboard_time": 1753403724,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 474341,
+      "num": 474341,
+      "word": "王青杂志",
+      "onboard_time": 1753430962,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 473994,
@@ -329,14 +345,6 @@
       "onboard_time": 1753418187,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 369835,
-      "num": 329382,
-      "word": "王青杂志",
-      "onboard_time": 1753430962,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 326190,
@@ -451,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274210,
+      "num": 274210,
+      "word": "命真好头胎就生了个月嫂",
+      "onboard_time": 1753431622,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 273247,
+      "num": 362568,
+      "word": "面馆老板已下架48元一杯茅台",
+      "onboard_time": 1753430843,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264164,
       "num": 264164,
       "word": "千万别带着女朋友送外卖",
@@ -473,14 +497,6 @@
       "onboard_time": 1753336585,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254432,
-      "num": 227615,
-      "word": "宋慧乔瘦成这样了",
-      "onboard_time": 1753431503,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 254131,
@@ -563,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237849,
+      "num": 237849,
+      "word": "女子1年半内家里4人确诊癌症",
+      "onboard_time": 1753432283,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 233665,
       "num": 233665,
       "word": "韩国一斯里兰卡籍工人遭同事霸凌",
@@ -585,14 +609,6 @@
       "onboard_time": 1753427963,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 226628,
-      "num": 159062,
-      "word": "命真好头胎就生了个月嫂",
-      "onboard_time": 1753431622,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 224798,
@@ -619,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221782,
-      "num": 221782,
-      "word": "面馆老板已下架48元一杯茅台",
-      "onboard_time": 1753430843,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 222836,
+      "num": 222836,
+      "word": "孟子义你的狗背着你上综艺了",
+      "onboard_time": 1753431685,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 219377,
@@ -931,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179751,
+      "num": 179751,
+      "word": "张江高科涨停",
+      "onboard_time": 1753433004,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179690,
       "num": 179690,
       "word": "凡人修仙传",
@@ -961,14 +985,6 @@
       "onboard_time": 1753427544,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174948,
-      "num": 174948,
-      "word": "孟子义你的狗背着你上综艺了",
-      "onboard_time": 1753431685,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 171363,
@@ -1099,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158387,
+      "num": 158387,
+      "word": "邓为银白发",
+      "onboard_time": 1753433363,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155766,
       "num": 155766,
       "word": "你买东西的网店可能是骗子开的",
@@ -1129,6 +1153,22 @@
       "onboard_time": 1753423463,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 152632,
+      "num": 152632,
+      "word": "东北大学一溺亡学生来自黄金班",
+      "onboard_time": 1753430483,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152181,
+      "num": 152181,
+      "word": "花千骨OST",
+      "onboard_time": 1753430123,
+      "rank": 39,
+      "category": "剧集,音乐"
     },
     {
       "raw_hot": 151764,
@@ -1243,12 +1283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143461,
+      "num": 143461,
+      "word": "我一直以为许嵩是个老人",
+      "onboard_time": 1753431323,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143380,
       "num": 143380,
       "word": "八个小时谁能下班啊",
       "onboard_time": 1753425743,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "彻底把女朋友爷爷整崩溃了",
+      "onboard_time": 1753431503,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 142722,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1753417586,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138703,
+      "num": 138703,
+      "word": "曝沈腾明晚落地杭州参加王牌9",
+      "onboard_time": 1753432524,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 138628,
@@ -1323,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135898,
-      "num": 135898,
-      "word": "女子1年半内家里4人确诊癌症",
-      "onboard_time": 1753432283,
-      "rank": 35,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 135719,
       "num": 278513,
       "word": "安徽一高中生被骗境外失联时间线",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1753414345,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135282,
+      "num": 135282,
+      "word": "樊振东猫猫趴",
+      "onboard_time": 1753433184,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 135038,
@@ -1379,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131808,
-      "num": 131808,
-      "word": "我一直以为许嵩是个老人",
-      "onboard_time": 1753431323,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130613,
       "num": 150929,
       "word": "5名员工出差遇车祸3死2伤",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1753428805,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129947,
+      "num": 129947,
+      "word": "减肥反弹20斤没人告诉你的真相",
+      "onboard_time": 1753432104,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 129180,
@@ -1499,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123078,
-      "num": 121984,
-      "word": "花千骨OST",
-      "onboard_time": 1753430123,
-      "rank": 39,
-      "category": "剧集,音乐"
-    },
-    {
       "raw_hot": 122407,
       "num": 122407,
       "word": "陶琳称特斯拉不关注排名",
@@ -1516,7 +1572,7 @@
     },
     {
       "raw_hot": 122323,
-      "num": 122323,
+      "num": 140109,
       "word": "首款可折叠iPhone屏幕尺寸曝光",
       "onboard_time": 1753431984,
       "rank": 38,
@@ -1675,14 +1731,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113131,
-      "num": 113131,
-      "word": "东北大学一溺亡学生来自黄金班",
-      "onboard_time": 1753430483,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112155,
       "num": 112155,
       "word": "朱志鑫最近在流汗也在历练",
@@ -1835,22 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106206,
-      "num": 106206,
-      "word": "彻底把女朋友爷爷整崩溃了",
-      "onboard_time": 1753431503,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 105897,
-      "num": 105897,
-      "word": "减肥反弹20斤没人告诉你的真相",
-      "onboard_time": 1753432104,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104054,
       "num": 104054,
       "word": "猿辅导员工称反对穿超短裙发奖品被辞",
@@ -1923,6 +1955,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 98302,
+      "num": 337824,
+      "word": "央视追踪高中生被骗境外失联案",
+      "onboard_time": 1753431383,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97262,
       "num": 151189,
       "word": "东北大学与企业曾签署实习安全协议",
@@ -1937,14 +1977,6 @@
       "onboard_time": 1753423283,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96526,
-      "num": 96526,
-      "word": "曝沈腾明晚落地杭州参加王牌9",
-      "onboard_time": 1753432524,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 96450,
@@ -2099,14 +2131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77945,
-      "num": 337824,
-      "word": "央视追踪高中生被骗境外失联案",
-      "onboard_time": 1753431383,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77362,
       "num": 150892,
       "word": "阚清子老公是她的粉丝",
@@ -2251,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62202,
+      "num": 159470,
+      "word": "河北易县一天下了近1年的雨",
+      "onboard_time": 1753432283,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 61812,
       "num": 227618,
       "word": "终于有综艺演我倒贴上班",
@@ -2339,6 +2371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 52809,
+      "num": 159417,
+      "word": "山姆消费者正在寻找替代品",
+      "onboard_time": 1753433243,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49920,
       "num": 68849,
       "word": "扫毒风暴",
@@ -2369,14 +2409,6 @@
       "onboard_time": 1753420883,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42410,
-      "num": 159470,
-      "word": "河北易县一天下了近1年的雨",
-      "onboard_time": 1753432283,
-      "rank": 29,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 42006,
@@ -2427,12 +2459,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 32657,
+      "num": 140102,
+      "word": "车银优入伍前发文",
+      "onboard_time": 1753433243,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31513,
       "num": 68765,
       "word": "10万买什么车能一步到位",
       "onboard_time": 1753364124,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28183,
+      "num": 131454,
+      "word": "明末渊虚之羽补偿",
+      "onboard_time": 1753433004,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 27342,
