@@ -1,0 +1,410 @@
+{
+  "runTime": 1753486943699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1132016,
+        "num": 1132016,
+        "word": "年轮纠纷撕裂了谁的体面",
+        "onboard_time": 1753458384,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 833782,
+        "num": 833782,
+        "word": "汪苏泷一语双关",
+        "onboard_time": 1753454190,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26378,
+        "num": 493564,
+        "word": "打卡夏天里的大美中国",
+        "onboard_time": 1753451368,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283422,
+        "num": 283422,
+        "word": "连休8天的长假来了",
+        "onboard_time": 1753431083,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264515,
+        "num": 264515,
+        "word": "中国最神秘军校72年来首次招女生",
+        "onboard_time": 1753475055,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 193091,
+        "num": 193091,
+        "word": "印度男子开假大使馆近10年才被发现",
+        "onboard_time": 1753459525,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423735,
+        "num": 177706,
+        "word": "董璇自曝再婚后与丈夫分开住",
+        "onboard_time": 1753447227,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408563,
+        "num": 159523,
+        "word": "花千骨只用过张碧晨版年轮",
+        "onboard_time": 1753449807,
+        "rank": 7,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 128452,
+        "num": 128452,
+        "word": "环卫招聘设笔试面试198人报名",
+        "onboard_time": 1753459345,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116366,
+        "num": 116366,
+        "word": "银川地震",
+        "onboard_time": 1753467975,
+        "rank": 9,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 440845,
+        "num": 115414,
+        "word": "90后夫妻结婚14年丈夫出轨8年",
+        "onboard_time": 1753456646,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278222,
+        "num": 113501,
+        "word": "歌手排名",
+        "onboard_time": 1753453889,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257791,
+        "num": 112203,
+        "word": "汪苏泷体面人",
+        "onboard_time": 1753458084,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155762,
+        "num": 111283,
+        "word": "年轮",
+        "onboard_time": 1753486519,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141916,
+        "num": 109104,
+        "word": "肖战转发王琳",
+        "onboard_time": 1753459043,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127706,
+        "num": 108675,
+        "word": "医院丢弃CT机已无使用价值",
+        "onboard_time": 1753448187,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107351,
+        "num": 107351,
+        "word": "网易游戏遭大量玩家维权",
+        "onboard_time": 1753442664,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104472,
+        "num": 104472,
+        "word": "第三批国补资金已下达",
+        "onboard_time": 1753486459,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 102526,
+        "num": 102526,
+        "word": "老人卧床多年跟保姆结婚并赠与房产",
+        "onboard_time": 1753451607,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90459,
+        "num": 90459,
+        "word": "佛山顺德确诊3627例基孔肯雅热",
+        "onboard_time": 1753486099,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 795486,
+        "num": 90189,
+        "word": "张碧晨方称享有年轮永久演唱权利",
+        "onboard_time": 1753442423,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408252,
+        "num": 89925,
+        "word": "东京性交易场所成游客著名景点",
+        "onboard_time": 1753446986,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177863,
+        "num": 89620,
+        "word": "孩子撞见爸爸出轨半夜被赶出家门",
+        "onboard_time": 1753443686,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17836,
+        "num": 89282,
+        "word": "药品集采这一变化传递明确信息",
+        "onboard_time": 1753486639,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 100360,
+        "num": 89100,
+        "word": "懂车帝",
+        "onboard_time": 1753439243,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105765,
+        "num": 88869,
+        "word": "单依纯 邓丽君",
+        "onboard_time": 1753451488,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88588,
+        "num": 88588,
+        "word": "讨厌红楼梦",
+        "onboard_time": 1753449687,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84881,
+        "num": 84881,
+        "word": "自称因反对穿超短裙被辞当事人发声",
+        "onboard_time": 1753461203,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81489,
+        "num": 81489,
+        "word": "为什么建议每天最少走7000步",
+        "onboard_time": 1753454190,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 77723,
+        "num": 77723,
+        "word": "内蒙古阿拉善4.7级地震",
+        "onboard_time": 1753485559,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 72307,
+        "num": 72307,
+        "word": "李昀锐金发泡面头",
+        "onboard_time": 1753480395,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66452,
+        "num": 66452,
+        "word": "和平精英",
+        "onboard_time": 1753447346,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64731,
+        "num": 64731,
+        "word": "佛山2公园投放5200尾灭蚊鱼",
+        "onboard_time": 1753486519,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63661,
+        "num": 63661,
+        "word": "为什么你人很好却交不到真朋友",
+        "onboard_time": 1753486157,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63612,
+        "num": 63612,
+        "word": "花千骨制片人回应年轮争议",
+        "onboard_time": 1753434384,
+        "rank": 34,
+        "category": "音乐,剧集"
+      },
+      {
+        "raw_hot": 63071,
+        "num": 63071,
+        "word": "孟子义血泪镜头杀疯了",
+        "onboard_time": 1753453349,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62253,
+        "num": 62253,
+        "word": "3名脑瘫少年拒绝捐款摆摊卖蒜",
+        "onboard_time": 1753473615,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53719,
+        "num": 53719,
+        "word": "黄景瑜看看胡先煦的美貌",
+        "onboard_time": 1753483336,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53037,
+        "num": 53037,
+        "word": "腹部温度低于手背温度说明身体是寒的",
+        "onboard_time": 1753470555,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50277,
+        "num": 50277,
+        "word": "时代少年团感谢王源",
+        "onboard_time": 1753458205,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50220,
+        "num": 50220,
+        "word": "广州全市开展集中灭蚊行动",
+        "onboard_time": 1753457365,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48805,
+        "num": 48805,
+        "word": "美国人看到中国公园破防了",
+        "onboard_time": 1753452506,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47051,
+        "num": 47051,
+        "word": "鹿晗腹肌",
+        "onboard_time": 1753450288,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46377,
+        "num": 46377,
+        "word": "难听",
+        "onboard_time": 1753447706,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45722,
+        "num": 45722,
+        "word": "女子过户手机号要证明奶奶是爸爸的妈",
+        "onboard_time": 1753486099,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45713,
+        "num": 45713,
+        "word": "网易游戏一年不登录或被删除账号",
+        "onboard_time": 1753449208,
+        "rank": 45,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 44904,
+        "num": 44904,
+        "word": "ALin又秒了",
+        "onboard_time": 1753449567,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40353,
+        "num": 44899,
+        "word": "直观的感受脸小能作弊",
+        "onboard_time": 1753486701,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39868,
+        "num": 44893,
+        "word": "年轮争原唱是落入了话题陷阱",
+        "onboard_time": 1753461562,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37958,
+        "num": 44887,
+        "word": "时代少年团对抗歌手",
+        "onboard_time": 1753452691,
+        "rank": 49,
+        "category": "综艺,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平妙喻阐释中欧关系发展之道#"
+    }
+  }
+}
