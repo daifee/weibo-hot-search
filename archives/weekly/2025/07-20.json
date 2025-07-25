@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753443630140,
+  "endTime": 1753448162985,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -27,8 +27,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 8266287,
-      "num": 8266287,
+      "raw_hot": 8778816,
+      "num": 8778816,
       "word": "张碧晨方称享有年轮永久演唱权利",
       "onboard_time": 1753442423,
       "rank": 0,
@@ -201,6 +201,14 @@
       "onboard_time": 1752979100,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2403526,
+      "num": 325968,
+      "word": "汪苏泷说深圳不怕影子斜",
+      "onboard_time": 1753445365,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 2309264,
@@ -483,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1458205,
+      "num": 1458205,
+      "word": "歌手直播",
+      "onboard_time": 1753442423,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1447830,
       "num": 1447830,
       "word": "郑乃馨演唱会抱着男友大哭",
@@ -601,6 +617,14 @@
       "onboard_time": 1753253901,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1329783,
+      "num": 910207,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1753333342,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 1320478,
@@ -851,6 +875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1086745,
+      "num": 281600,
+      "word": "林志炫 破音",
+      "onboard_time": 1753447467,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1062225,
       "num": 483045,
       "word": "东北大学一遇难男生堂妹发声",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1753071802,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 910207,
-      "num": 910207,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1753333342,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 909321,
@@ -1867,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624332,
+      "num": 226482,
+      "word": "孩子撞见爸爸出轨半夜被赶出家门",
+      "onboard_time": 1753443686,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617449,
       "num": 309108,
       "word": "导师您好不好意思",
@@ -2459,6 +2491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 525182,
+      "num": 271635,
+      "word": "年轮 好听",
+      "onboard_time": 1753446146,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 524274,
       "num": 492655,
       "word": "娄烨回应",
@@ -2753,14 +2793,6 @@
       "onboard_time": 1753007000,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 485135,
-      "num": 485135,
-      "word": "歌手直播",
-      "onboard_time": 1753442423,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 484688,
@@ -3363,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404599,
+      "num": 264499,
+      "word": "董璇自曝再婚后与丈夫分开住",
+      "onboard_time": 1753447227,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403477,
       "num": 403477,
       "word": "12306回应高铁不要食用方便面提醒",
@@ -3689,6 +3729,14 @@
       "onboard_time": 1753076062,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363392,
+      "num": 225401,
+      "word": "张碧晨不会再唱年轮",
+      "onboard_time": 1753443866,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 361395,
@@ -4019,6 +4067,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 331117,
+      "num": 331117,
+      "word": "24岁女外卖员落水2天后遗体找到",
+      "onboard_time": 1753444046,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329958,
       "num": 268245,
       "word": "杭州3岁男童18楼坠下奇迹生还",
@@ -4195,6 +4251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 320069,
+      "num": 225073,
+      "word": "时代少年团节目单",
+      "onboard_time": 1753446146,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319625,
       "num": 319625,
       "word": "学校把胖橘误认美洲狮停课",
@@ -4281,6 +4345,14 @@
       "onboard_time": 1753076664,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311677,
+      "num": 224680,
+      "word": "宋亚轩 爱是怀疑",
+      "onboard_time": 1753446507,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 310930,
@@ -4537,6 +4609,14 @@
       "onboard_time": 1753086202,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294950,
+      "num": 224367,
+      "word": "严浩翔亢奋舞台",
+      "onboard_time": 1753447406,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 293116,
@@ -4843,6 +4923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276187,
+      "num": 224189,
+      "word": "沈星回",
+      "onboard_time": 1753446447,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275766,
       "num": 275766,
       "word": "新款彩色Labubu",
@@ -5145,6 +5233,14 @@
       "onboard_time": 1753156282,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256681,
+      "num": 256681,
+      "word": "女外卖员疑送餐途中坠河失联",
+      "onboard_time": 1753445905,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256244,
@@ -5723,6 +5819,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 228216,
+      "num": 228216,
+      "word": "和平精英",
+      "onboard_time": 1753447346,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228056,
       "num": 290107,
       "word": "14年前接住的2岁坠楼女孩还好吗",
@@ -5793,6 +5897,14 @@
       "onboard_time": 1753353144,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224013,
+      "num": 224013,
+      "word": "东京性交易场所成游客著名景点",
+      "onboard_time": 1753446986,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223530,
@@ -6467,6 +6579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207292,
+      "num": 207292,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1753447106,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207104,
       "num": 207104,
       "word": "齐齐哈尔烤肉是一个单独赛道",
@@ -6907,6 +7027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199396,
+      "num": 228109,
+      "word": "恋与深空新日卡登顶",
+      "onboard_time": 1753444644,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199205,
       "num": 434627,
       "word": "北京强降雨持续三天",
@@ -7057,6 +7185,14 @@
       "onboard_time": 1753436364,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195987,
+      "num": 227804,
+      "word": "网易游戏遭大量玩家维权",
+      "onboard_time": 1753442664,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 195831,
@@ -7361,6 +7497,14 @@
       "onboard_time": 1753020505,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190743,
+      "num": 190743,
+      "word": "于正再回应临江仙难看",
+      "onboard_time": 1753446926,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 190491,
@@ -7785,6 +7929,14 @@
       "onboard_time": 1753359923,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184353,
+      "num": 184353,
+      "word": "云飞弥补了7月没有春晚的遗憾",
+      "onboard_time": 1753446867,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 184332,
@@ -8251,6 +8403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177643,
+      "num": 227461,
+      "word": "孙颖莎把球打到王楚钦场上了",
+      "onboard_time": 1753438942,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177308,
       "num": 275277,
       "word": "成都将50分钟高铁到重庆",
@@ -8433,6 +8593,14 @@
       "onboard_time": 1753242682,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174753,
+      "num": 174753,
+      "word": "歌手曲风",
+      "onboard_time": 1753445846,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 174703,
@@ -9307,6 +9475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161791,
+      "num": 161791,
+      "word": "云飞揭榜失败",
+      "onboard_time": 1753447886,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161777,
       "num": 161777,
       "word": "和平精英刺激之夜官宣",
@@ -9851,12 +10027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155366,
-      "num": 188925,
-      "word": "孙颖莎把球打到王楚钦场上了",
-      "onboard_time": 1753438942,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 155285,
+      "num": 155285,
+      "word": "贺峻霖唱了那些年",
+      "onboard_time": 1753447949,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 155266,
@@ -10065,14 +10241,6 @@
       "onboard_time": 1753009342,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152518,
-      "num": 152518,
-      "word": "网易游戏遭大量玩家维权",
-      "onboard_time": 1753442664,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 152450,
@@ -10489,6 +10657,14 @@
       "onboard_time": 1753329923,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147929,
+      "num": 147929,
+      "word": "沈梦辰回应毕雯珺",
+      "onboard_time": 1753447045,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 147802,
@@ -11081,6 +11257,14 @@
       "onboard_time": 1753257801,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 140967,
+      "num": 227161,
+      "word": "樊振东削球",
+      "onboard_time": 1753447467,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 140758,
@@ -12643,6 +12827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126077,
+      "num": 226756,
+      "word": "中国黄金内蒙古矿业安全副总发声",
+      "onboard_time": 1753447824,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126059,
       "num": 126059,
       "word": "中国游客住豪华别墅被一扫而空",
@@ -13145,6 +13337,14 @@
       "onboard_time": 1752986961,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121235,
+      "num": 135489,
+      "word": "深圳大学1比1山东鲁能",
+      "onboard_time": 1753448126,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121192,
@@ -14251,6 +14451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113079,
+      "num": 134901,
+      "word": "25岁盲人自学剪视频年入5万",
+      "onboard_time": 1753447645,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112976,
       "num": 109272,
       "word": "谁懂朝雪录这群人搞宫斗的含金量",
@@ -14393,6 +14601,14 @@
       "onboard_time": 1753269561,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111875,
+      "num": 134105,
+      "word": "调查组明日进驻中国黄金内蒙古矿业",
+      "onboard_time": 1753444344,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111846,
@@ -14603,6 +14819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109512,
+      "num": 133424,
+      "word": "瘦了之后对自己的长相好陌生",
+      "onboard_time": 1753444104,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109496,
       "num": 127753,
       "word": "朝雪录制片人 破万是我们幸运",
@@ -14721,6 +14945,14 @@
       "onboard_time": 1753425084,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108448,
+      "num": 157914,
+      "word": "胡海泉揭榜林志炫",
+      "onboard_time": 1753447406,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 108347,
@@ -15569,6 +15801,14 @@
       "onboard_time": 1753434144,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100024,
+      "num": 132353,
+      "word": "王曼昱3比1胜覃予萱",
+      "onboard_time": 1753446266,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99965,
@@ -17667,6 +17907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53715,
+      "num": 175799,
+      "word": "泰方已有超13万民众撤离",
+      "onboard_time": 1753448004,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53708,
       "num": 137184,
       "word": "马龙西藏plog来了",
@@ -17825,6 +18073,14 @@
       "onboard_time": 1753090702,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 49481,
+      "num": 216216,
+      "word": "宜宾警方通报女外卖员落水身亡",
+      "onboard_time": 1753446806,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49394,
@@ -19291,6 +19547,9 @@
     },
     {
       "word": "#习近平接受16位驻华大使递交国书#"
+    },
+    {
+      "word": "#携手开创这个星球更加美好的未来#"
     }
   ]
 }

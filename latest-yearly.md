@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/25 19:40:30
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/25 20:56:02
 </p>
 </blockquote>
 <p>
@@ -879,6 +879,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9%23" target="weibo">
+张碧晨方称享有年轮永久演唱权利（热度：8778816）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%8E%A5%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%8B%E5%8F%B0%23" target="weibo">
 丁禹兮接虞书欣下台（热度：8711179）
 </a>
@@ -923,12 +929,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E9%AB%98%E9%9F%B3%E6%B2%A1%E5%A3%B0%23" target="weibo">
 陈楚生 高音没声（热度：8298321）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9%23" target="weibo">
-张碧晨方称享有年轮永久演唱权利（热度：8266287）
 </a>
 </li>
 
