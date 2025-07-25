@@ -1,10 +1,10 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753416242925,
+  "endTime": 1753416820148,
   "band_list": [
     {
-      "raw_hot": 9971200,
-      "num": 9971200,
+      "raw_hot": 10742821,
+      "num": 10742821,
       "word": "张碧晨告别年轮",
       "onboard_time": 1753412543,
       "rank": 0,
@@ -43,8 +43,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1116526,
-      "num": 228886,
+      "raw_hot": 1159784,
+      "num": 275314,
       "word": "众星恭喜阚清子",
       "onboard_time": 1753413082,
       "rank": 10,
@@ -59,12 +59,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 901624,
+      "num": 901624,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1753415064,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 886749,
       "num": 892991,
       "word": "富豪CEO被大象踩踏身亡",
       "onboard_time": 1753366107,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 771673,
+      "num": 426938,
+      "word": "曝boss直聘再次涉黄",
+      "onboard_time": 1753364785,
+      "rank": 10,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 728143,
@@ -81,14 +97,6 @@
       "onboard_time": 1753375640,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 706694,
-      "num": 426938,
-      "word": "曝boss直聘再次涉黄",
-      "onboard_time": 1753364785,
-      "rank": 10,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 685151,
@@ -131,12 +139,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 535992,
-      "num": 535992,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1753415064,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 547397,
+      "num": 272872,
+      "word": "家属回应抬去世老人安葬路上现钉子",
+      "onboard_time": 1753414944,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495470,
@@ -195,16 +203,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 387915,
-      "num": 228666,
-      "word": "家属回应抬去世老人安葬路上现钉子",
-      "onboard_time": 1753414944,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300920,
-      "num": 242616,
+      "num": 260082,
       "word": "裴秀智金宣虎要来横店拍戏",
       "onboard_time": 1753410561,
       "rank": 15,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 300811,
-      "num": 228334,
+      "num": 258589,
       "word": "最好的旅行搭子就是自己的孩子",
       "onboard_time": 1753412181,
       "rank": 13,
@@ -243,20 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284005,
+      "num": 284005,
+      "word": "徐海东vs王楚钦",
+      "onboard_time": 1753415304,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 264164,
+      "num": 264164,
+      "word": "千万别带着女朋友送外卖",
+      "onboard_time": 1753413444,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260919,
       "num": 272311,
       "word": "李佳琦承诺赔付铂爵旅拍订单",
       "onboard_time": 1753364725,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257154,
-      "num": 228151,
-      "word": "千万别带着女朋友送外卖",
-      "onboard_time": 1753413444,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 255909,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239961,
+      "num": 239961,
+      "word": "年轮商标已被申请注册",
+      "onboard_time": 1753411342,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238117,
       "num": 218882,
       "word": "12岁女孩拿家人手术钱买半麻袋卡片",
@@ -315,12 +331,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 227993,
-      "num": 227993,
-      "word": "年轮商标已被申请注册",
-      "onboard_time": 1753411342,
-      "rank": 15,
-      "category": "音乐"
+      "raw_hot": 224798,
+      "num": 224798,
+      "word": "灵笼",
+      "onboard_time": 1753416386,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 222902,
@@ -363,6 +379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209841,
+      "num": 209841,
+      "word": "坂本日常动画入驻微博",
+      "onboard_time": 1753416685,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 206555,
+      "num": 206555,
+      "word": "鞠婧祎吃顿好的",
+      "onboard_time": 1753416264,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203420,
       "num": 203420,
       "word": "安全格栅怎么成了致命陷阱",
@@ -371,12 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202813,
+      "raw_hot": 202979,
       "num": 229195,
       "word": "孙颖莎平野美宇vs李雨琪向俊霖",
       "onboard_time": 1753415604,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202937,
+      "num": 202937,
+      "word": "被易烊千玺限定票根拿捏了",
+      "onboard_time": 1753416264,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 201560,
@@ -387,28 +427,44 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 199205,
-      "num": 434627,
-      "word": "北京强降雨持续三天",
-      "onboard_time": 1753404503,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 201099,
+      "num": 201099,
+      "word": "沈星回暗蚀国王",
+      "onboard_time": 1753416624,
+      "rank": 24,
+      "category": "游戏"
     },
     {
-      "raw_hot": 199148,
-      "num": 184394,
+      "raw_hot": 201044,
+      "num": 201044,
       "word": "男大学生偷穿妈妈的裙子突然被发现",
       "onboard_time": 1753414163,
       "rank": 20,
       "category": "幽默"
     },
     {
-      "raw_hot": 197553,
-      "num": 197553,
-      "word": "徐海东vs王楚钦",
-      "onboard_time": 1753415304,
-      "rank": 17,
+      "raw_hot": 200529,
+      "num": 201135,
+      "word": "孙颖莎平野美宇3比2李雨琪向俊霖",
+      "onboard_time": 1753415604,
+      "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199532,
+      "num": 199532,
+      "word": "懂车帝回应马斯克转发",
+      "onboard_time": 1753416146,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 199205,
+      "num": 434627,
+      "word": "北京强降雨持续三天",
+      "onboard_time": 1753404503,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192101,
@@ -435,19 +491,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185004,
-      "num": 185004,
-      "word": "孙颖莎平野美宇3比2李雨琪向俊霖",
-      "onboard_time": 1753415604,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184926,
       "num": 184926,
       "word": "阚清子孕肚写真",
       "onboard_time": 1753363944,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183423,
+      "num": 183423,
+      "word": "沈羽洁文笔",
+      "onboard_time": 1753413384,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -464,14 +520,6 @@
       "word": "张娜拉自曝因童颜感到压力",
       "onboard_time": 1753360104,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181847,
-      "num": 181847,
-      "word": "沈羽洁文笔",
-      "onboard_time": 1753413384,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -497,6 +545,14 @@
       "onboard_time": 1753368925,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170411,
+      "num": 170411,
+      "word": "居然把一只野兔给养大了",
+      "onboard_time": 1753416685,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 168558,
@@ -531,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165756,
+      "num": 165756,
+      "word": "妈妈收到儿子送的大金镯泣不成声",
+      "onboard_time": 1753416324,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160961,
       "num": 160961,
       "word": "泰柬边境再次交火",
@@ -553,6 +617,14 @@
       "onboard_time": 1753412181,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155766,
+      "num": 155766,
+      "word": "你买东西的网店可能是骗子开的",
+      "onboard_time": 1753415964,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151764,
@@ -592,22 +664,6 @@
       "word": "东北大学6名遇难学生最小20岁",
       "onboard_time": 1753403003,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142691,
-      "num": 142691,
-      "word": "懂车帝回应马斯克转发",
-      "onboard_time": 1753416146,
-      "rank": 34,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 139730,
-      "num": 139730,
-      "word": "你买东西的网店可能是骗子开的",
-      "onboard_time": 1753415964,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -675,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128673,
+      "num": 128673,
+      "word": "林诗栋vs赵子豪",
+      "onboard_time": 1753416745,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127100,
       "num": 151352,
       "word": "东北大学一遇难男生堂妹发声",
@@ -692,7 +756,7 @@
     },
     {
       "raw_hot": 125386,
-      "num": 181932,
+      "num": 258610,
       "word": "意大利一飞机俯冲坠入高速公路",
       "onboard_time": 1753401322,
       "rank": 38,
@@ -881,6 +945,14 @@
       "onboard_time": 1753371027,
       "rank": 32,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 98749,
+      "num": 146258,
+      "word": "张艺兴拖拉机证还有2年到期",
+      "onboard_time": 1753416146,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 97262,
@@ -1156,7 +1228,7 @@
     },
     {
       "raw_hot": 54892,
-      "num": 112385,
+      "num": 144054,
       "word": "北京多个预警齐发",
       "onboard_time": 1753414583,
       "rank": 44,
@@ -1171,8 +1243,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49952,
-      "num": 127881,
+      "raw_hot": 53290,
+      "num": 145945,
       "word": "俄失事客机坠毁前舱内画面曝光",
       "onboard_time": 1753416084,
       "rank": 39,
@@ -1193,14 +1265,6 @@
       "onboard_time": 1753361905,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 44666,
-      "num": 128562,
-      "word": "张艺兴拖拉机证还有2年到期",
-      "onboard_time": 1753416146,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 44007,

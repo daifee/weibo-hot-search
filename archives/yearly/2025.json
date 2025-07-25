@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753416242925,
+  "endTime": 1753416820148,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -819,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10742821,
+      "num": 10742821,
+      "word": "张碧晨告别年轮",
+      "onboard_time": 1753412543,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 10705430,
       "num": 10705430,
       "word": "哪吒打人 敖丙劝架",
@@ -945,14 +953,6 @@
       "onboard_time": 1753011141,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 9971200,
-      "num": 9971200,
-      "word": "张碧晨告别年轮",
-      "onboard_time": 1753412543,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 9966428,
