@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753439514559,
+  "endTime": 1753440584650,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -6699,6 +6699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723975,
+      "num": 723975,
+      "word": "iPhone17Pro橙色新配色",
+      "onboard_time": 1753435644,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 723104,
       "num": 429955,
       "word": "51岁阿姨月薪1700元的独居生活",
@@ -6817,6 +6825,14 @@
       "onboard_time": 1751597661,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716427,
+      "num": 716427,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1753333342,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 715707,
@@ -10419,14 +10435,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 542277,
-      "num": 542277,
-      "word": "iPhone17Pro橙色新配色",
-      "onboard_time": 1753435644,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 542072,
       "num": 542072,
       "word": "上海交大学生与校外人员起冲突",
@@ -13379,14 +13387,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 438165,
-      "num": 438165,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1753333342,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 437880,
       "num": 437880,
       "word": "意外怀孕诱发罕见癌症女子发声",
@@ -15955,6 +15955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 366327,
+      "num": 366327,
+      "word": "懂车帝",
+      "onboard_time": 1753439243,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 366283,
       "num": 257125,
       "word": "美团外卖",
@@ -18291,6 +18299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321195,
+      "num": 321195,
+      "word": "多车企回应懂车帝测试",
+      "onboard_time": 1753437443,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 320535,
       "num": 320535,
       "word": "吃出半只蟑螂又从喉咙抠出另外半只",
@@ -18473,14 +18489,6 @@
       "onboard_time": 1753150580,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 318935,
-      "num": 318935,
-      "word": "多车企回应懂车帝测试",
-      "onboard_time": 1753437443,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 318921,
@@ -21169,6 +21177,14 @@
       "onboard_time": 1752981440,
       "rank": 21,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 275545,
+      "num": 275545,
+      "word": "网易游戏",
+      "onboard_time": 1753436723,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 275469,
@@ -23891,14 +23907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 243849,
-      "num": 243849,
-      "word": "网易游戏",
-      "onboard_time": 1753436723,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243712,
       "num": 243712,
       "word": "员工曝罗马仕已通知全面停工停产",
@@ -25723,6 +25731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224897,
+      "num": 190587,
+      "word": "丁禹兮居然成了姜妍的模版",
+      "onboard_time": 1753438704,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224886,
       "num": 224886,
       "word": "单眼皮的小黄豆",
@@ -26745,14 +26761,6 @@
       "onboard_time": 1751965881,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217247,
-      "num": 217247,
-      "word": "懂车帝",
-      "onboard_time": 1753439243,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 217120,
@@ -31691,6 +31699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194909,
+      "num": 190491,
+      "word": "泡泡玛特 周深",
+      "onboard_time": 1753440023,
+      "rank": 28,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 194904,
       "num": 194904,
       "word": "刘宇宁看起来是少爷实际是老爷",
@@ -32873,6 +32889,14 @@
       "onboard_time": 1752741082,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190423,
+      "num": 190423,
+      "word": "慕容云海 喂你好",
+      "onboard_time": 1753439543,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 190214,
@@ -34489,14 +34513,6 @@
       "onboard_time": 1751861244,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184574,
-      "num": 184574,
-      "word": "丁禹兮居然成了姜妍的模版",
-      "onboard_time": 1753438704,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 184560,
@@ -39827,6 +39843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165178,
+      "num": 191191,
+      "word": "T1对战GEN",
+      "onboard_time": 1753434443,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165162,
       "num": 165162,
       "word": "向佐你怎么穿了吉赛尔的衣服",
@@ -41369,6 +41393,14 @@
       "onboard_time": 1752584542,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160195,
+      "num": 160195,
+      "word": "王楚钦练到大汗淋漓浑身湿透",
+      "onboard_time": 1753440383,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 160190,
@@ -42953,6 +42985,14 @@
       "onboard_time": 1751965881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155366,
+      "num": 188925,
+      "word": "孙颖莎把球打到王楚钦场上了",
+      "onboard_time": 1753438942,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 155316,
@@ -46377,14 +46417,6 @@
       "onboard_time": 1752072924,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 146250,
-      "num": 146250,
-      "word": "T1对战GEN",
-      "onboard_time": 1753434443,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 146219,
@@ -50731,6 +50763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135380,
+      "num": 135380,
+      "word": "仙侠剧越拍越烂的真相",
+      "onboard_time": 1753437383,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135337,
       "num": 150110,
       "word": "这届白玉兰奖是女演员们的友情局",
@@ -51377,6 +51417,14 @@
       "onboard_time": 1752664823,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133895,
+      "num": 189098,
+      "word": "当年的他们争的是万一",
+      "onboard_time": 1753440443,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 133844,
@@ -54507,6 +54555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127087,
+      "num": 127087,
+      "word": "TTG对战NOVA",
+      "onboard_time": 1753440563,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127072,
       "num": 116498,
       "word": "Hope状态",
@@ -55571,6 +55627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124924,
+      "num": 127170,
+      "word": "曝柯淳拒绝品牌方200万合作",
+      "onboard_time": 1753438942,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 124916,
       "num": 198676,
       "word": "长安的荔枝票房破2亿",
@@ -56529,14 +56593,6 @@
       "onboard_time": 1751439020,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122864,
-      "num": 122864,
-      "word": "仙侠剧越拍越烂的真相",
-      "onboard_time": 1753437383,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 122846,
@@ -58939,6 +58995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118248,
+      "num": 118248,
+      "word": "BLG官宣Shad0w加入",
+      "onboard_time": 1753437501,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118238,
       "num": 130922,
       "word": "日本警方回应中国球迷遭袭击致重伤",
@@ -59131,14 +59195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117996,
-      "num": 117996,
-      "word": "孙颖莎把球打到王楚钦场上了",
-      "onboard_time": 1753438942,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117931,
       "num": 117931,
       "word": "第一次见这么没技术含量的摆摊",
@@ -59256,6 +59312,14 @@
       "word": "李佳薇谭薇相互搀扶好好笑",
       "onboard_time": 1752248902,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117717,
+      "num": 117717,
+      "word": "谢娜在姐姐当家哭了",
+      "onboard_time": 1753439664,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -60219,14 +60283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115786,
-      "num": 127170,
-      "word": "曝柯淳拒绝品牌方200万合作",
-      "onboard_time": 1753438942,
-      "rank": 39,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 115779,
       "num": 206155,
       "word": "山河为证是一部全民回忆录",
@@ -60553,14 +60609,6 @@
       "onboard_time": 1751539940,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115252,
-      "num": 115252,
-      "word": "BLG官宣Shad0w加入",
-      "onboard_time": 1753437501,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 115226,
@@ -69475,6 +69523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92798,
+      "num": 130510,
+      "word": "美美伤lay",
+      "onboard_time": 1753439844,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 92778,
       "num": 92778,
       "word": "要不要把印度踢出群聊",
@@ -74371,6 +74427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 66273,
+      "num": 131589,
+      "word": "中美混血儿谈中美生活",
+      "onboard_time": 1753440204,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66175,
       "num": 66175,
       "word": "谁还记得2001年的网络流行语",
@@ -75401,6 +75465,14 @@
       "onboard_time": 1751901624,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61023,
+      "num": 191633,
+      "word": "跟胡连馨学拍生命力照片",
+      "onboard_time": 1753439903,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 60932,
