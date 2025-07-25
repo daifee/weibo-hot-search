@@ -1,7 +1,15 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753410934440,
+  "endTime": 1753416242925,
   "band_list": [
+    {
+      "raw_hot": 9971200,
+      "num": 9971200,
+      "word": "张碧晨告别年轮",
+      "onboard_time": 1753412543,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 3744333,
       "num": 3744333,
@@ -33,6 +41,14 @@
       "onboard_time": 1753407202,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1116526,
+      "num": 228886,
+      "word": "众星恭喜阚清子",
+      "onboard_time": 1753413082,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1020372,
@@ -115,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 535992,
+      "num": 535992,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1753415064,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495470,
       "num": 288369,
       "word": "大窑汽水",
@@ -155,10 +179,42 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439874,
+      "num": 439874,
+      "word": "高温超42度晒黑元凶竟是热",
+      "onboard_time": 1753410983,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409942,
       "num": 409942,
       "word": "瘦了82斤身体各部位的变化",
       "onboard_time": 1753404203,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 387915,
+      "num": 228666,
+      "word": "家属回应抬去世老人安葬路上现钉子",
+      "onboard_time": 1753414944,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300920,
+      "num": 242616,
+      "word": "裴秀智金宣虎要来横店拍戏",
+      "onboard_time": 1753410561,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 300811,
+      "num": 228334,
+      "word": "最好的旅行搭子就是自己的孩子",
+      "onboard_time": 1753412181,
       "rank": 13,
       "category": "情感"
     },
@@ -187,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265155,
-      "num": 242616,
-      "word": "裴秀智金宣虎要来横店拍戏",
-      "onboard_time": 1753410561,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260919,
       "num": 272311,
       "word": "李佳琦承诺赔付铂爵旅拍订单",
       "onboard_time": 1753364725,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257154,
+      "num": 228151,
+      "word": "千万别带着女朋友送外卖",
+      "onboard_time": 1753413444,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 255909,
@@ -259,6 +315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227993,
+      "num": 227993,
+      "word": "年轮商标已被申请注册",
+      "onboard_time": 1753411342,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222902,
       "num": 454779,
       "word": "17省区市有大到暴雨",
@@ -307,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202813,
+      "num": 229195,
+      "word": "孙颖莎平野美宇vs李雨琪向俊霖",
+      "onboard_time": 1753415604,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201560,
       "num": 258023,
       "word": "美国骚猪肉",
@@ -323,6 +395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199148,
+      "num": 184394,
+      "word": "男大学生偷穿妈妈的裙子突然被发现",
+      "onboard_time": 1753414163,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197553,
+      "num": 197553,
+      "word": "徐海东vs王楚钦",
+      "onboard_time": 1753415304,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192101,
       "num": 151408,
       "word": "东北大学受伤老师坠落半空被救",
@@ -337,6 +425,22 @@
       "onboard_time": 1753369287,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 186995,
+      "num": 183049,
+      "word": "南京照相馆",
+      "onboard_time": 1753415545,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 185004,
+      "num": 185004,
+      "word": "孙颖莎平野美宇3比2李雨琪向俊霖",
+      "onboard_time": 1753415604,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 184926,
@@ -363,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181847,
+      "num": 181847,
+      "word": "沈羽洁文笔",
+      "onboard_time": 1753413384,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181670,
       "num": 181670,
       "word": "泰军4架F16第二次空袭柬埔寨",
       "onboard_time": 1753407083,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176512,
+      "num": 176512,
+      "word": "产后11个月坚持运动瘦了61斤",
+      "onboard_time": 1753412305,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 171363,
@@ -387,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167784,
+      "num": 167784,
+      "word": "易梦玲说因为太瘦自卑过",
+      "onboard_time": 1753414885,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 166565,
       "num": 166565,
       "word": "刘轩丞发vlog",
       "onboard_time": 1753361364,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166463,
+      "num": 166463,
+      "word": "抬去世老人安葬路上被放百颗钉子",
+      "onboard_time": 1753414944,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160961,
@@ -411,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158880,
+      "num": 158880,
+      "word": "单依纯祝时代少年团大连站演出顺利",
+      "onboard_time": 1753412181,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151764,
       "num": 151764,
       "word": "中南大学谭某兵被暂停工作",
@@ -427,11 +571,43 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147006,
+      "num": 147006,
+      "word": "大V陈震谈懂车帝测试结果",
+      "onboard_time": 1753410983,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 143543,
+      "num": 143543,
+      "word": "利剑玫瑰OST",
+      "onboard_time": 1753413082,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143489,
       "num": 143489,
       "word": "东北大学6名遇难学生最小20岁",
       "onboard_time": 1753403003,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142691,
+      "num": 142691,
+      "word": "懂车帝回应马斯克转发",
+      "onboard_time": 1753416146,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 139730,
+      "num": 139730,
+      "word": "你买东西的网店可能是骗子开的",
+      "onboard_time": 1753415964,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -441,6 +617,14 @@
       "onboard_time": 1753372345,
       "rank": 26,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 137997,
+      "num": 137997,
+      "word": "马伊琍的工作心态我狠狠学",
+      "onboard_time": 1753414703,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 137985,
@@ -457,6 +641,14 @@
       "onboard_time": 1753363524,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135585,
+      "num": 135585,
+      "word": "阿楚姑娘唱的原来是蒋峤西",
+      "onboard_time": 1753414345,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 133794,
@@ -491,8 +683,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126162,
+      "num": 126162,
+      "word": "泰柬边境冲突致泰方14死46伤",
+      "onboard_time": 1753411342,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125386,
-      "num": 125386,
+      "num": 181932,
       "word": "意大利一飞机俯冲坠入高速公路",
       "onboard_time": 1753401322,
       "rank": 38,
@@ -513,6 +713,14 @@
       "onboard_time": 1753399039,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120859,
+      "num": 120859,
+      "word": "梁靖崑林昀儒3比0林高远陈垣宇",
+      "onboard_time": 1753414282,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 120434,
@@ -579,12 +787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113637,
+      "num": 113637,
+      "word": "为什么不熬夜之后感觉身体虚了",
+      "onboard_time": 1753415004,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112155,
       "num": 112155,
       "word": "朱志鑫最近在流汗也在历练",
       "onboard_time": 1753408341,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111632,
+      "num": 111632,
+      "word": "田曦薇日杂风",
+      "onboard_time": 1753413803,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111490,
@@ -595,12 +819,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111364,
+      "num": 111364,
+      "word": "出去玩要试着把孩子当成小大人",
+      "onboard_time": 1753412902,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109263,
       "num": 109263,
       "word": "减肥后感觉世界变得尖锐了",
       "onboard_time": 1753400421,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107478,
+      "num": 107478,
+      "word": "暑期环切咨询涨5倍",
+      "onboard_time": 1753412121,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107409,
+      "num": 107409,
+      "word": "2分钟镜头杨洋打了1分半",
+      "onboard_time": 1753414044,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102897,
@@ -851,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64815,
+      "num": 563631,
+      "word": "72岁农民被授予时代楷模",
+      "onboard_time": 1753378038,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 62346,
       "num": 62346,
       "word": "大连00后家长带女儿追星让人羡慕",
@@ -899,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54892,
+      "num": 112385,
+      "word": "北京多个预警齐发",
+      "onboard_time": 1753414583,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54129,
       "num": 153978,
       "word": "调查组已进驻大学生溺亡事故现场",
       "onboard_time": 1753398919,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49952,
+      "num": 127881,
+      "word": "俄失事客机坠毁前舱内画面曝光",
+      "onboard_time": 1753416084,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49920,
@@ -923,12 +1195,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 44041,
-      "num": 104241,
-      "word": "72岁农民被授予时代楷模",
-      "onboard_time": 1753378038,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 44666,
+      "num": 128562,
+      "word": "张艺兴拖拉机证还有2年到期",
+      "onboard_time": 1753416146,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 44007,
@@ -1057,6 +1329,9 @@
     },
     {
       "word": "#中欧建交50年的重要经验和启示#"
+    },
+    {
+      "word": "#习近平就俄客机失事向普京致慰问电#"
     }
   ]
 }

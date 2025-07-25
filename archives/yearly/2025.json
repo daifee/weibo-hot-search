@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753410934440,
+  "endTime": 1753416242925,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -945,6 +945,14 @@
       "onboard_time": 1753011141,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 9971200,
+      "num": 9971200,
+      "word": "张碧晨告别年轮",
+      "onboard_time": 1753412543,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 9966428,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740468321,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3716611,
-      "num": 3716611,
-      "word": "李明德 张颂文",
-      "onboard_time": 1736042491,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
