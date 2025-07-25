@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753483593229,
+  "endTime": 1753486040288,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1304833,
-      "num": 348654,
+      "num": 638202,
       "word": "汪苏泷一语双关",
       "onboard_time": 1753454190,
       "rank": 6,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356633,
+      "num": 217910,
+      "word": "东京性交易场所成游客著名景点",
+      "onboard_time": 1753446986,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356221,
       "num": 219566,
       "word": "讨厌红楼梦",
@@ -105,6 +113,14 @@
       "onboard_time": 1753459345,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280733,
+      "num": 217671,
+      "word": "董璇自曝再婚后与丈夫分开住",
+      "onboard_time": 1753447227,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 233039,
@@ -128,14 +144,6 @@
       "word": "孩子撞见爸爸出轨半夜被赶出家门",
       "onboard_time": 1753443686,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204210,
-      "num": 217910,
-      "word": "东京性交易场所成游客著名景点",
-      "onboard_time": 1753446986,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 183131,
+      "num": 216959,
+      "word": "印度男子开假大使馆近10年才被发现",
+      "onboard_time": 1753459525,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168816,
       "num": 218074,
       "word": "花千骨制片人回应年轮争议",
@@ -203,14 +219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159727,
-      "num": 216959,
-      "word": "印度男子开假大使馆近10年才被发现",
-      "onboard_time": 1753459525,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156446,
       "num": 219396,
       "word": "网易游戏一年不登录或被删除账号",
@@ -219,12 +227,12 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 151399,
-      "num": 217671,
-      "word": "董璇自曝再婚后与丈夫分开住",
-      "onboard_time": 1753447227,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 151592,
+      "num": 151592,
+      "word": "中国最神秘军校72年来首次招女生",
+      "onboard_time": 1753475055,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 147894,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106595,
+      "num": 106595,
+      "word": "银川地震",
+      "onboard_time": 1753467975,
+      "rank": 18,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 105689,
       "num": 216703,
       "word": "孟子义血泪镜头杀疯了",
@@ -315,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99982,
-      "num": 51499,
-      "word": "中国最神秘军校72年来首次招女生",
-      "onboard_time": 1753475055,
-      "rank": 23,
-      "category": "正能量"
+      "raw_hot": 97378,
+      "num": 215579,
+      "word": "医院丢弃CT机已无使用价值",
+      "onboard_time": 1753448187,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95145,
@@ -329,6 +345,14 @@
       "onboard_time": 1753449567,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91229,
+      "num": 216367,
+      "word": "自称因反对穿超短裙被辞当事人发声",
+      "onboard_time": 1753461203,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84124,
@@ -347,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80962,
+      "num": 80962,
+      "word": "老人卧床多年跟保姆结婚并赠与房产",
+      "onboard_time": 1753451607,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80955,
       "num": 97855,
       "word": "娱乐圈对女明星的严格要求",
@@ -363,8 +395,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77988,
-      "num": 77988,
+      "raw_hot": 78480,
+      "num": 78480,
       "word": "3名脑瘫少年拒绝捐款摆摊卖蒜",
       "onboard_time": 1753473615,
       "rank": 8,
@@ -395,20 +427,20 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 73471,
-      "num": 215579,
-      "word": "医院丢弃CT机已无使用价值",
-      "onboard_time": 1753448187,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73186,
       "num": 215436,
       "word": "骑手被树砸到脖子导致高位截瘫",
       "onboard_time": 1753458084,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71024,
+      "num": 71024,
+      "word": "李昀锐金发泡面头",
+      "onboard_time": 1753480395,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70145,
@@ -427,20 +459,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66983,
-      "num": 216367,
-      "word": "自称因反对穿超短裙被辞当事人发声",
-      "onboard_time": 1753461203,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 67913,
+      "num": 67913,
+      "word": "内蒙古阿拉善4.7级地震",
+      "onboard_time": 1753485559,
+      "rank": 26,
+      "category": "突发/灾害"
     },
     {
-      "raw_hot": 61512,
-      "num": 69000,
-      "word": "银川地震",
-      "onboard_time": 1753467975,
-      "rank": 18,
-      "category": "民生新闻,国内时政"
+      "raw_hot": 63030,
+      "num": 215292,
+      "word": "为什么建议每天最少走7000步",
+      "onboard_time": 1753454190,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 59171,
+      "num": 59171,
+      "word": "和平精英",
+      "onboard_time": 1753447346,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 58365,
@@ -449,14 +489,6 @@
       "onboard_time": 1753463120,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57625,
-      "num": 215292,
-      "word": "为什么建议每天最少走7000步",
-      "onboard_time": 1753454190,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 53963,
@@ -483,6 +515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46028,
+      "num": 57995,
+      "word": "阚清子孕肚大片",
+      "onboard_time": 1753474695,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45608,
+      "num": 57948,
+      "word": "黄景瑜看看胡先煦的美貌",
+      "onboard_time": 1753483336,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44369,
       "num": 80719,
       "word": "陈楚生直通总决赛",
@@ -491,20 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42914,
-      "num": 62717,
-      "word": "老人卧床多年跟保姆结婚并赠与房产",
-      "onboard_time": 1753451607,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 38043,
+      "num": 57863,
+      "word": "腹部温度低于手背温度说明身体是寒的",
+      "onboard_time": 1753470555,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 38410,
-      "num": 51466,
-      "word": "李昀锐金发泡面头",
-      "onboard_time": 1753480395,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 30447,
+      "num": 57435,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1753469896,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 30242,
@@ -515,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27631,
-      "num": 51428,
-      "word": "腹部温度低于手背温度说明身体是寒的",
-      "onboard_time": 1753470555,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 26021,
       "num": 80650,
       "word": "医院回应几百万购置CT机被丢弃",
@@ -531,12 +571,12 @@
       "category": "辟谣/通报,健康医疗"
     },
     {
-      "raw_hot": 25983,
-      "num": 51420,
-      "word": "阚清子孕肚大片",
-      "onboard_time": 1753474695,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 24667,
+      "num": 661940,
+      "word": "打卡夏天里的大美中国",
+      "onboard_time": 1753451368,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23645,
@@ -545,30 +585,6 @@
       "onboard_time": 1753470495,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 22950,
-      "num": 661940,
-      "word": "打卡夏天里的大美中国",
-      "onboard_time": 1753451368,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22488,
-      "num": 51372,
-      "word": "脱口秀和Ta的朋友们",
-      "onboard_time": 1753469896,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 19412,
-      "num": 51344,
-      "word": "黄景瑜看看胡先煦的美貌",
-      "onboard_time": 1753483336,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 13646,
