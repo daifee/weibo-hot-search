@@ -1,0 +1,410 @@
+{
+  "runTime": 1753435931678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2967711,
+        "num": 2967711,
+        "word": "连休8天的长假来了",
+        "onboard_time": 1753431083,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1333099,
+        "num": 1333099,
+        "word": "花千骨制片人回应年轮争议",
+        "onboard_time": 1753434384,
+        "rank": 1,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 13228,
+        "num": 929956,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649121,
+        "num": 649121,
+        "word": "面馆老板已下架48元一杯茅台",
+        "onboard_time": 1753430843,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489775,
+        "num": 489775,
+        "word": "宋慧乔瘦成这样了",
+        "onboard_time": 1753431503,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383035,
+        "num": 383035,
+        "word": "命真好头胎就生了个月嫂",
+        "onboard_time": 1753431622,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399363,
+        "num": 382997,
+        "word": "海蝶登记有年轮录音制品著作权",
+        "onboard_time": 1753428144,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382151,
+        "num": 382151,
+        "word": "王青杂志",
+        "onboard_time": 1753430962,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360597,
+        "num": 360597,
+        "word": "爸爸烟不离手10岁儿子查出肺癌",
+        "onboard_time": 1753424062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308839,
+        "num": 308839,
+        "word": "韩国网红怀孕36周堕胎被控谋杀",
+        "onboard_time": 1753428384,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293116,
+        "num": 293116,
+        "word": "孟子义你的狗背着你上综艺了",
+        "onboard_time": 1753431685,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264034,
+        "num": 264034,
+        "word": "东北大学一溺亡学生来自黄金班",
+        "onboard_time": 1753430483,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99837,
+        "num": 262752,
+        "word": "印度男子揭露惊天大案",
+        "onboard_time": 1753430423,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262496,
+        "num": 262496,
+        "word": "高分考生被厦门大学马来分校误录取",
+        "onboard_time": 1753424302,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 254695,
+        "num": 254695,
+        "word": "凉哈皮 goodgood",
+        "onboard_time": 1753434384,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249930,
+        "num": 249930,
+        "word": "秦昊伊能静看新房施工进度",
+        "onboard_time": 1753434144,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247855,
+        "num": 247855,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173669,
+        "num": 173669,
+        "word": "那英已读乱回",
+        "onboard_time": 1753434863,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 161753,
+        "num": 161753,
+        "word": "鸿蒙智行不予置评",
+        "onboard_time": 1753427483,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149150,
+        "num": 149150,
+        "word": "中国小哥韩国探店连续翻车",
+        "onboard_time": 1753434502,
+        "rank": 19,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 995391,
+        "num": 148845,
+        "word": "汪苏泷的版权意识有多强",
+        "onboard_time": 1753422442,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2102088,
+        "num": 148489,
+        "word": "张碧晨告别年轮",
+        "onboard_time": 1753412543,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 450588,
+        "num": 148014,
+        "word": "沈佳润OneSpot韩国榜第一",
+        "onboard_time": 1753426763,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296698,
+        "num": 147669,
+        "word": "女子1年半内家里4人确诊癌症",
+        "onboard_time": 1753432283,
+        "rank": 23,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 182632,
+        "num": 146991,
+        "word": "东北大学官网已变黑白",
+        "onboard_time": 1753424664,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504465,
+        "num": 146356,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146250,
+        "num": 146250,
+        "word": "T1对战GEN",
+        "onboard_time": 1753434443,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144003,
+        "num": 144003,
+        "word": "邓为银白发",
+        "onboard_time": 1753433363,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133132,
+        "num": 133132,
+        "word": "iPhone17Pro橙色新配色",
+        "onboard_time": 1753435644,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131518,
+        "num": 131518,
+        "word": "张凌赫说好演员最重要的是人品",
+        "onboard_time": 1753435464,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151791,
+        "num": 129698,
+        "word": "彻底把女朋友爷爷整崩溃了",
+        "onboard_time": 1753431503,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126264,
+        "num": 126264,
+        "word": "麻六记酸辣粉在开市客下架",
+        "onboard_time": 1753431023,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125520,
+        "num": 125520,
+        "word": "孙颖莎又把自己打笑了",
+        "onboard_time": 1753434923,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116596,
+        "num": 125394,
+        "word": "GW对战Wolves",
+        "onboard_time": 1753434323,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 125365,
+        "word": "时代少年团国风玄衣",
+        "onboard_time": 1753428204,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100100,
+        "num": 121206,
+        "word": "电诈者暗示诈骗对象别汇款只聊天",
+        "onboard_time": 1753434144,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119889,
+        "num": 119889,
+        "word": "柬士兵赤裸上身向泰军开火",
+        "onboard_time": 1753434744,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117829,
+        "num": 117829,
+        "word": "虞书欣 天梭",
+        "onboard_time": 1753419384,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 115563,
+        "num": 115563,
+        "word": "原来被尊重的面试是这样子的",
+        "onboard_time": 1753435823,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113902,
+        "num": 113902,
+        "word": "张江高科涨停",
+        "onboard_time": 1753433004,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113235,
+        "num": 113235,
+        "word": "宋亚轩不笑的时候还蛮好笑的",
+        "onboard_time": 1753435705,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 111085,
+        "num": 111085,
+        "word": "我一直以为许嵩是个老人",
+        "onboard_time": 1753431323,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107686,
+        "num": 107686,
+        "word": "山姆消费者正在寻找替代品",
+        "onboard_time": 1753433243,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 106088,
+        "word": "众星恭喜阚清子",
+        "onboard_time": 1753413082,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103782,
+        "num": 103782,
+        "word": "演唱会被抓包出轨女高管辞职",
+        "onboard_time": 1753421305,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103553,
+        "num": 103553,
+        "word": "从哪吒2藏海传等看中国文化圈粉世界",
+        "onboard_time": 1753409482,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102787,
+        "num": 102787,
+        "word": "遇难男生是村里第一个985大学生",
+        "onboard_time": 1753426223,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101520,
+        "num": 101520,
+        "word": "戒咖啡30天后身体的变化",
+        "onboard_time": 1753425623,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101008,
+        "num": 101008,
+        "word": "沈佳润原来美美桑内之父也在",
+        "onboard_time": 1753427244,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100645,
+        "num": 100645,
+        "word": "女子被蜜蜂蜇伤全身取出52枚蜂针",
+        "onboard_time": 1753435644,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席谈到一个生动比喻#"
+    }
+  }
+}

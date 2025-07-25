@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753433474371,
+  "endTime": 1753435931678,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -57,6 +57,14 @@
       "onboard_time": 1753407202,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1333099,
+      "num": 1333099,
+      "word": "花千骨制片人回应年轮争议",
+      "onboard_time": 1753434384,
+      "rank": 1,
+      "category": "剧集,音乐"
     },
     {
       "raw_hot": 1261825,
@@ -169,6 +177,14 @@
       "onboard_time": 1753424302,
       "rank": 4,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 649121,
+      "num": 649121,
+      "word": "面馆老板已下架48元一杯茅台",
+      "onboard_time": 1753430843,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 644068,
@@ -347,6 +363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 383035,
+      "num": 383035,
+      "word": "命真好头胎就生了个月嫂",
+      "onboard_time": 1753431622,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326190,
       "num": 227486,
       "word": "姐脱了解脱了",
@@ -395,12 +419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296698,
+      "num": 237849,
+      "word": "女子1年半内家里4人确诊癌症",
+      "onboard_time": 1753432283,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 295834,
       "num": 249167,
       "word": "准新娘上了前男友车一起上山",
       "onboard_time": 1753422202,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293116,
+      "num": 293116,
+      "word": "孟子义你的狗背着你上综艺了",
+      "onboard_time": 1753431685,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 291716,
@@ -459,28 +499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274210,
-      "num": 274210,
-      "word": "命真好头胎就生了个月嫂",
-      "onboard_time": 1753431622,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 273247,
-      "num": 362568,
-      "word": "面馆老板已下架48元一杯茅台",
-      "onboard_time": 1753430843,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264164,
       "num": 264164,
       "word": "千万别带着女朋友送外卖",
       "onboard_time": 1753413444,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264034,
+      "num": 264034,
+      "word": "东北大学一溺亡学生来自黄金班",
+      "onboard_time": 1753430483,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260919,
@@ -497,6 +529,14 @@
       "onboard_time": 1753336585,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254695,
+      "num": 254695,
+      "word": "凉哈皮 goodgood",
+      "onboard_time": 1753434384,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 254131,
@@ -521,6 +561,14 @@
       "onboard_time": 1753360284,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249930,
+      "num": 249930,
+      "word": "秦昊伊能静看新房施工进度",
+      "onboard_time": 1753434144,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 248368,
@@ -579,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237849,
-      "num": 237849,
-      "word": "女子1年半内家里4人确诊癌症",
-      "onboard_time": 1753432283,
-      "rank": 35,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 233665,
       "num": 233665,
       "word": "韩国一斯里兰卡籍工人遭同事霸凌",
@@ -633,14 +673,6 @@
       "onboard_time": 1753409482,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222836,
-      "num": 222836,
-      "word": "孟子义你的狗背着你上综艺了",
-      "onboard_time": 1753431685,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 219377,
@@ -987,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173669,
+      "num": 173669,
+      "word": "那英已读乱回",
+      "onboard_time": 1753434863,
+      "rank": 17,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 171363,
       "num": 238031,
       "word": "曾舜晞回应缺席庆功宴",
@@ -1140,7 +1180,7 @@
     },
     {
       "raw_hot": 153236,
-      "num": 153236,
+      "num": 262752,
       "word": "印度男子揭露惊天大案",
       "onboard_time": 1753430423,
       "rank": 32,
@@ -1155,20 +1195,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 152632,
-      "num": 152632,
-      "word": "东北大学一溺亡学生来自黄金班",
-      "onboard_time": 1753430483,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152181,
       "num": 152181,
       "word": "花千骨OST",
       "onboard_time": 1753430123,
       "rank": 39,
       "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 151791,
+      "num": 143022,
+      "word": "彻底把女朋友爷爷整崩溃了",
+      "onboard_time": 1753431503,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 151764,
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149150,
+      "num": 149150,
+      "word": "中国小哥韩国探店连续翻车",
+      "onboard_time": 1753434502,
+      "rank": 19,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 148011,
       "num": 148011,
       "word": "庞博想好了告别演出的名字",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1753410983,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 146250,
+      "num": 146250,
+      "word": "T1对战GEN",
+      "onboard_time": 1753434443,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 144808,
@@ -1297,14 +1353,6 @@
       "onboard_time": 1753425743,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143022,
-      "num": 143022,
-      "word": "彻底把女朋友爷爷整崩溃了",
-      "onboard_time": 1753431503,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 142722,
@@ -1435,11 +1483,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133132,
+      "num": 133132,
+      "word": "iPhone17Pro橙色新配色",
+      "onboard_time": 1753435644,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132831,
       "num": 151388,
       "word": "蔡依林已冻卵",
       "onboard_time": 1753360224,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131518,
+      "num": 131518,
+      "word": "张凌赫说好演员最重要的是人品",
+      "onboard_time": 1753435464,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1513,6 +1577,14 @@
       "onboard_time": 1753411342,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125520,
+      "num": 125520,
+      "word": "孙颖莎又把自己打笑了",
+      "onboard_time": 1753434923,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 125386,
@@ -1635,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119889,
+      "num": 119889,
+      "word": "柬士兵赤裸上身向泰军开火",
+      "onboard_time": 1753434744,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119803,
       "num": 150986,
       "word": "5年前扶贫小组欠万元餐费仍未结清",
@@ -1683,6 +1763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116596,
+      "num": 125394,
+      "word": "GW对战Wolves",
+      "onboard_time": 1753434323,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116360,
       "num": 116360,
       "word": "台风范斯高会影响江苏吗",
@@ -1707,6 +1795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 115563,
+      "num": 115563,
+      "word": "原来被尊重的面试是这样子的",
+      "onboard_time": 1753435823,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114616,
       "num": 138001,
       "word": "广东佛山基孔肯雅热确诊超3600例",
@@ -1729,6 +1825,14 @@
       "onboard_time": 1753415004,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113235,
+      "num": 113235,
+      "word": "宋亚轩不笑的时候还蛮好笑的",
+      "onboard_time": 1753435705,
+      "rank": 40,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 112155,
@@ -1851,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107686,
+      "num": 159417,
+      "word": "山姆消费者正在寻找替代品",
+      "onboard_time": 1753433243,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107478,
       "num": 107478,
       "word": "暑期环切咨询涨5倍",
@@ -1931,6 +2043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100645,
+      "num": 100645,
+      "word": "女子被蜜蜂蜇伤全身取出52枚蜂针",
+      "onboard_time": 1753435644,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100491,
       "num": 100491,
       "word": "王楚钦回应3比2战胜徐海东",
@@ -1945,6 +2065,14 @@
       "onboard_time": 1753367967,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 100100,
+      "num": 121206,
+      "word": "电诈者暗示诈骗对象别汇款只聊天",
+      "onboard_time": 1753434144,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99178,
@@ -2260,7 +2388,7 @@
     },
     {
       "raw_hot": 64815,
-      "num": 754165,
+      "num": 929956,
       "word": "72岁农民被授予时代楷模",
       "onboard_time": 1753378038,
       "rank": 9,
@@ -2369,14 +2497,6 @@
       "onboard_time": 1753416084,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 52809,
-      "num": 159417,
-      "word": "山姆消费者正在寻找替代品",
-      "onboard_time": 1753433243,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49920,
