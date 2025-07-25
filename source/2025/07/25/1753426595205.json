@@ -1,0 +1,410 @@
+{
+  "runTime": 1753426595205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5340705,
+        "num": 5340705,
+        "word": "张碧晨告别年轮",
+        "onboard_time": 1753412543,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1038965,
+        "num": 1038965,
+        "word": "演唱会被抓包出轨女高管辞职",
+        "onboard_time": 1753421305,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33381,
+        "num": 564366,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2285329,
+        "num": 558101,
+        "word": "汪苏泷的版权意识有多强",
+        "onboard_time": 1753422442,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541235,
+        "num": 541235,
+        "word": "高分考生被厦门大学马来分校误录取",
+        "onboard_time": 1753424302,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 409944,
+        "num": 409944,
+        "word": "东北大学官网已变黑白",
+        "onboard_time": 1753424664,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389011,
+        "num": 389011,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333041,
+        "num": 333041,
+        "word": "爸爸烟不离手10岁儿子查出肺癌",
+        "onboard_time": 1753424062,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837766,
+        "num": 330352,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192855,
+        "num": 192855,
+        "word": "求职简历涉黄账号已被永久封禁",
+        "onboard_time": 1753418845,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76976,
+        "num": 191685,
+        "word": "桌子够大红黄蓝都坐得下",
+        "onboard_time": 1753423463,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366788,
+        "num": 186640,
+        "word": "众星恭喜阚清子",
+        "onboard_time": 1753413082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354014,
+        "num": 184314,
+        "word": "虞书欣 天梭",
+        "onboard_time": 1753419384,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 336979,
+        "num": 181668,
+        "word": "爸爸一躺小孩面相都变了",
+        "onboard_time": 1753420823,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284427,
+        "num": 176178,
+        "word": "准新娘上了前男友车一起上山",
+        "onboard_time": 1753422202,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266570,
+        "num": 174212,
+        "word": "关晓彤上新了三款彩椒碗",
+        "onboard_time": 1753423463,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206245,
+        "num": 170180,
+        "word": "花千骨",
+        "onboard_time": 1753419326,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205252,
+        "num": 165064,
+        "word": "李思睿 年轮回家",
+        "onboard_time": 1753406003,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164450,
+        "num": 164450,
+        "word": "日本最美初中生大赛",
+        "onboard_time": 1753417524,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93482,
+        "num": 161807,
+        "word": "男子被困水下溶洞5天5夜奇迹生还",
+        "onboard_time": 1753425084,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197247,
+        "num": 161656,
+        "word": "朝雪录豆瓣开分6.4",
+        "onboard_time": 1753425743,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161482,
+        "num": 161482,
+        "word": "王赫野给了粉丝名和分",
+        "onboard_time": 1753426223,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158002,
+        "num": 158002,
+        "word": "赵子豪3比1林诗栋",
+        "onboard_time": 1753420644,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157508,
+        "num": 157508,
+        "word": "从哪吒2藏海传等看中国文化圈粉世界",
+        "onboard_time": 1753409482,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156056,
+        "num": 156056,
+        "word": "戒咖啡30天后身体的变化",
+        "onboard_time": 1753425623,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143380,
+        "num": 143380,
+        "word": "八个小时谁能下班啊",
+        "onboard_time": 1753425743,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141434,
+        "num": 141434,
+        "word": "01年的庄达菲被叫姐姐绷不住了",
+        "onboard_time": 1753423463,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140355,
+        "num": 140355,
+        "word": "肖战一个人演完猫和老鼠",
+        "onboard_time": 1753425323,
+        "rank": 27,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 133832,
+        "num": 133832,
+        "word": "潘宏发了接狗新规则",
+        "onboard_time": 1753423463,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103404,
+        "num": 131360,
+        "word": "县政府官方稿件被质疑抄袭",
+        "onboard_time": 1753425084,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150280,
+        "num": 131102,
+        "word": "曝boss直聘再次涉黄",
+        "onboard_time": 1753364785,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 130797,
+        "num": 130797,
+        "word": "全场高喊樊振东大满贯",
+        "onboard_time": 1753426163,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79400,
+        "num": 129451,
+        "word": "化妆店老板帮买肉被骗16万",
+        "onboard_time": 1753426523,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129180,
+        "num": 129180,
+        "word": "一起打卡昌吉玛纳斯县南部山区花海",
+        "onboard_time": 1753426404,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125053,
+        "num": 125053,
+        "word": "樊振东3比0林诗栋",
+        "onboard_time": 1753418783,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123605,
+        "num": 123605,
+        "word": "大象音乐",
+        "onboard_time": 1753423822,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122550,
+        "num": 122550,
+        "word": "家属回应抬去世老人安葬路上现钉子",
+        "onboard_time": 1753414944,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122407,
+        "num": 122407,
+        "word": "陶琳称特斯拉不关注排名",
+        "onboard_time": 1753426342,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115574,
+        "num": 115574,
+        "word": "迅猛龙回应台湾上大学",
+        "onboard_time": 1753426523,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14565,
+        "num": 110743,
+        "word": "喜茶抹茶全球爆单",
+        "onboard_time": 1753423283,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110108,
+        "num": 110108,
+        "word": "黄晓明为了年轻也是真犟",
+        "onboard_time": 1753424902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109503,
+        "num": 109503,
+        "word": "招聘平台回应一主持人简历疑似涉黄",
+        "onboard_time": 1753420943,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108258,
+        "num": 108258,
+        "word": "LPL更新名单shad0w加入BLG",
+        "onboard_time": 1753425144,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104070,
+        "num": 104070,
+        "word": "A股三大突破",
+        "onboard_time": 1753426523,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104054,
+        "num": 104054,
+        "word": "猿辅导员工称反对穿超短裙发奖品被辞",
+        "onboard_time": 1753424364,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 103366,
+        "num": 103366,
+        "word": "对尺寸没概念的可以看看",
+        "onboard_time": 1753425564,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101725,
+        "num": 101725,
+        "word": "枣糕 玛芬",
+        "onboard_time": 1753425443,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100781,
+        "num": 100781,
+        "word": "姐脱了解脱了",
+        "onboard_time": 1753419745,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100726,
+        "num": 100726,
+        "word": "遇难男生是村里第一个985大学生",
+        "onboard_time": 1753426223,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95879,
+        "num": 95879,
+        "word": "第一次见主创团队全员泪崩的首映礼",
+        "onboard_time": 1753426583,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席谈到一个生动比喻#"
+    }
+  }
+}

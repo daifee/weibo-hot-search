@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753425682491,
+  "endTime": 1753426595205,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -10371,6 +10371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 541235,
+      "num": 541235,
+      "word": "高分考生被厦门大学马来分校误录取",
+      "onboard_time": 1753424302,
+      "rank": 4,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 541219,
       "num": 541219,
       "word": "空调 酸臭味",
@@ -14243,6 +14251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 409944,
+      "num": 409944,
+      "word": "东北大学官网已变黑白",
+      "onboard_time": 1753424664,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409942,
       "num": 409942,
       "word": "瘦了82斤身体各部位的变化",
@@ -14873,14 +14889,6 @@
       "onboard_time": 1751866224,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391093,
-      "num": 391093,
-      "word": "高分考生被厦门大学马来分校误录取",
-      "onboard_time": 1753424302,
-      "rank": 4,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 390648,
@@ -17497,6 +17505,14 @@
       "onboard_time": 1751679861,
       "rank": 20,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 333041,
+      "num": 333041,
+      "word": "爸爸烟不离手10岁儿子查出肺癌",
+      "onboard_time": 1753424062,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332935,
@@ -25355,14 +25371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226121,
-      "num": 226121,
-      "word": "爸爸烟不离手10岁儿子查出肺癌",
-      "onboard_time": 1753424062,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226080,
       "num": 226080,
       "word": "小鱼薄荷影视化",
@@ -25625,14 +25633,6 @@
       "onboard_time": 1752367160,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224132,
-      "num": 224132,
-      "word": "东北大学官网已变黑白",
-      "onboard_time": 1753424664,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224080,
@@ -30793,6 +30793,14 @@
       "onboard_time": 1752288381,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197247,
+      "num": 161656,
+      "word": "朝雪录豆瓣开分6.4",
+      "onboard_time": 1753425743,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 197227,
@@ -40643,6 +40651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161482,
+      "num": 161482,
+      "word": "王赫野给了粉丝名和分",
+      "onboard_time": 1753426223,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161442,
       "num": 161442,
       "word": "女方不喊老公男子希望退回彩礼",
@@ -42369,6 +42385,14 @@
       "onboard_time": 1751973563,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156056,
+      "num": 156056,
+      "word": "戒咖啡30天后身体的变化",
+      "onboard_time": 1753425623,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156047,
@@ -47019,6 +47043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143380,
+      "num": 143380,
+      "word": "八个小时谁能下班啊",
+      "onboard_time": 1753425743,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143363,
       "num": 171116,
       "word": "锦绣芳华有自己的nimomo",
@@ -48113,6 +48145,14 @@
       "onboard_time": 1752598818,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140355,
+      "num": 140355,
+      "word": "肖战一个人演完猫和老鼠",
+      "onboard_time": 1753425323,
+      "rank": 38,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 140339,
@@ -52307,6 +52347,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 130797,
+      "num": 130797,
+      "word": "全场高喊樊振东大满贯",
+      "onboard_time": 1753426163,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130794,
       "num": 135180,
       "word": "最想让人去上班的公司",
@@ -52985,6 +53033,14 @@
       "onboard_time": 1751951482,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129180,
+      "num": 129180,
+      "word": "一起打卡昌吉玛纳斯县南部山区花海",
+      "onboard_time": 1753426404,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 129179,
@@ -56233,6 +56289,14 @@
       "onboard_time": 1752998840,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122407,
+      "num": 122407,
+      "word": "陶琳称特斯拉不关注排名",
+      "onboard_time": 1753426342,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 122379,
@@ -59745,6 +59809,14 @@
       "onboard_time": 1752509481,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115574,
+      "num": 115574,
+      "word": "迅猛龙回应台湾上大学",
+      "onboard_time": 1753426523,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 115563,
@@ -63731,14 +63803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107053,
-      "num": 110842,
-      "word": "肖战一个人演完猫和老鼠",
-      "onboard_time": 1753425323,
-      "rank": 38,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 107051,
       "num": 107051,
       "word": "建议不要边吃饭边看朝雪录",
@@ -64835,14 +64899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104683,
-      "num": 104683,
-      "word": "戒咖啡30天后身体的变化",
-      "onboard_time": 1753425623,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 104677,
       "num": 523960,
       "word": "王楚钦暂定打到洛杉矶奥运",
@@ -65059,12 +65115,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104070,
+      "num": 104070,
+      "word": "A股三大突破",
+      "onboard_time": 1753426523,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104068,
       "num": 104068,
       "word": "肖战见证梦想战放点亮技能之光",
       "onboard_time": 1752484461,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104054,
+      "num": 104054,
+      "word": "猿辅导员工称反对穿超短裙发奖品被辞",
+      "onboard_time": 1753424364,
+      "rank": 44,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 104048,
@@ -65369,6 +65441,14 @@
       "onboard_time": 1753249880,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103404,
+      "num": 137640,
+      "word": "县政府官方稿件被质疑抄袭",
+      "onboard_time": 1753425084,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 103388,
@@ -65835,14 +65915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102321,
-      "num": 102321,
-      "word": "猿辅导员工称反对穿超短裙发奖品被辞",
-      "onboard_time": 1753424364,
-      "rank": 44,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 102307,
       "num": 102307,
       "word": "比特币btc",
@@ -66057,6 +66129,14 @@
       "onboard_time": 1751887822,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101725,
+      "num": 101725,
+      "word": "枣糕 玛芬",
+      "onboard_time": 1753425443,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 101716,
@@ -66345,6 +66425,14 @@
       "onboard_time": 1751816125,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100726,
+      "num": 100726,
+      "word": "遇难男生是村里第一个985大学生",
+      "onboard_time": 1753426223,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100718,
@@ -67827,6 +67915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95879,
+      "num": 95879,
+      "word": "第一次见主创团队全员泪崩的首映礼",
+      "onboard_time": 1753426583,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95859,
       "num": 95859,
       "word": "跑男这期被碳水做局了",
@@ -67969,14 +68065,6 @@
       "onboard_time": 1751506520,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95273,
-      "num": 95273,
-      "word": "枣糕 玛芬",
-      "onboard_time": 1753425443,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 95272,
@@ -68489,6 +68577,14 @@
       "onboard_time": 1752667764,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93482,
+      "num": 226187,
+      "word": "男子被困水下溶洞5天5夜奇迹生还",
+      "onboard_time": 1753425084,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93475,
@@ -71475,6 +71571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79400,
+      "num": 129451,
+      "word": "化妆店老板帮买肉被骗16万",
+      "onboard_time": 1753426523,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79391,
       "num": 167648,
       "word": "中国女篮51分大胜印尼女篮",
@@ -72577,14 +72681,6 @@
       "onboard_time": 1752856342,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72669,
-      "num": 137640,
-      "word": "县政府官方稿件被质疑抄袭",
-      "onboard_time": 1753425084,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 72493,
@@ -78465,14 +78561,6 @@
       "onboard_time": 1752513557,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39030,
-      "num": 226187,
-      "word": "男子被困水下溶洞5天5夜奇迹生还",
-      "onboard_time": 1753425084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39025,
