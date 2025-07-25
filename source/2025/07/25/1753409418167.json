@@ -1,0 +1,410 @@
+{
+  "runTime": 1753409418167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3744333,
+        "num": 3744333,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475477,
+        "num": 475477,
+        "word": "马斯克转发懂车帝测试",
+        "onboard_time": 1753403724,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 4397,
+        "num": 462812,
+        "word": "万千气象看新疆",
+        "onboard_time": 1753188441,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2683186,
+        "num": 461553,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 458009,
+        "num": 458009,
+        "word": "富豪CEO被大象踩踏身亡",
+        "onboard_time": 1753366107,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222462,
+        "num": 454779,
+        "word": "17省区市有大到暴雨",
+        "onboard_time": 1753385174,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1799835,
+        "num": 446587,
+        "word": "张碧晨方列出年轮关键事件时间线",
+        "onboard_time": 1753407202,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1020372,
+        "num": 441780,
+        "word": "李思睿 年轮回家",
+        "onboard_time": 1753406003,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199205,
+        "num": 434627,
+        "word": "北京强降雨持续三天",
+        "onboard_time": 1753404503,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77475,
+        "num": 433290,
+        "word": "通风报信致案件侦办受影响被国安处罚",
+        "onboard_time": 1753406842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690737,
+        "num": 426938,
+        "word": "曝boss直聘再次涉黄",
+        "onboard_time": 1753364785,
+        "rank": 10,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 665080,
+        "num": 420369,
+        "word": "致癌物疑似加在棉密码卫生巾芯片中",
+        "onboard_time": 1753403424,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574607,
+        "num": 410299,
+        "word": "王不染道歉",
+        "onboard_time": 1753406723,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 409942,
+        "num": 409942,
+        "word": "瘦了82斤身体各部位的变化",
+        "onboard_time": 1753404203,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321074,
+        "num": 321074,
+        "word": "东北大学获救老师被截肢是谣言",
+        "onboard_time": 1753375640,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308234,
+        "num": 308234,
+        "word": "男子6次结婚6次离婚五任前妻都是债主",
+        "onboard_time": 1753398378,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291716,
+        "num": 291716,
+        "word": "宋亚轩蓝发",
+        "onboard_time": 1753402703,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288369,
+        "num": 288369,
+        "word": "大窑汽水",
+        "onboard_time": 1753407682,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244436,
+        "num": 244436,
+        "word": "葛荟婕说女儿小苹果不想认她",
+        "onboard_time": 1753401683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206378,
+        "num": 206378,
+        "word": "易烊千玺演唱会480的票闲鱼卖6800",
+        "onboard_time": 1753372945,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203420,
+        "num": 203420,
+        "word": "安全格栅怎么成了致命陷阱",
+        "onboard_time": 1753404923,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198242,
+        "num": 198242,
+        "word": "乒超",
+        "onboard_time": 1753407863,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183042,
+        "num": 183042,
+        "word": "台风范斯高将向浙江福建沿海靠近",
+        "onboard_time": 1753405163,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166772,
+        "num": 166772,
+        "word": "12岁女孩拿家人手术钱买半麻袋卡片",
+        "onboard_time": 1753371150,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160961,
+        "num": 160961,
+        "word": "泰柬边境再次交火",
+        "onboard_time": 1753403962,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159886,
+        "num": 159886,
+        "word": "录取通知书切西瓜",
+        "onboard_time": 1753401382,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154211,
+        "num": 154211,
+        "word": "泰军4架F16第二次空袭柬埔寨",
+        "onboard_time": 1753407083,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134229,
+        "num": 138216,
+        "word": "李佳琦承诺赔付铂爵旅拍订单",
+        "onboard_time": 1753364725,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119403,
+        "num": 138088,
+        "word": "王一博对接否认演唱会",
+        "onboard_time": 1753402284,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71140,
+        "num": 138001,
+        "word": "广东佛山基孔肯雅热确诊超3600例",
+        "onboard_time": 1753408884,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "特朗普造访美联储",
+        "onboard_time": 1753402344,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136561,
+        "num": 136561,
+        "word": "女子呕吐暴瘦30斤竟是大脑开关失灵",
+        "onboard_time": 1753371626,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120434,
+        "num": 120434,
+        "word": "请和我的老公结婚",
+        "onboard_time": 1753400119,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116357,
+        "num": 117775,
+        "word": "苏醒张远王栎鑫王铮亮跳扫腿舞",
+        "onboard_time": 1753404563,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117163,
+        "num": 117163,
+        "word": "马克龙称法国将承认巴勒斯坦国",
+        "onboard_time": 1753399880,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112155,
+        "num": 112155,
+        "word": "朱志鑫最近在流汗也在历练",
+        "onboard_time": 1753408341,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109263,
+        "num": 109263,
+        "word": "减肥后感觉世界变得尖锐了",
+        "onboard_time": 1753400421,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108854,
+        "num": 108854,
+        "word": "韩国一斯里兰卡籍工人遭同事霸凌",
+        "onboard_time": 1753375880,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107204,
+        "num": 107204,
+        "word": "意大利一飞机俯冲坠入高速公路",
+        "onboard_time": 1753401322,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100706,
+        "num": 100706,
+        "word": "东北大学6名遇难学生最小20岁",
+        "onboard_time": 1753403003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100632,
+        "num": 100632,
+        "word": "董璇再婚后的生活状态",
+        "onboard_time": 1753370607,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98901,
+        "num": 98901,
+        "word": "00后在动物园当NPC自己成了景点",
+        "onboard_time": 1753409123,
+        "rank": 41,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 91894,
+        "num": 91894,
+        "word": "基孔肯雅热",
+        "onboard_time": 1753406183,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91707,
+        "num": 91707,
+        "word": "东北大学老师称以往参观很安全",
+        "onboard_time": 1753402464,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91316,
+        "num": 91316,
+        "word": "母亲当8岁儿子面吸毒当场被抓",
+        "onboard_time": 1753363524,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90087,
+        "num": 90087,
+        "word": "2025乒超联赛第二阶段今日开打",
+        "onboard_time": 1753408943,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89549,
+        "num": 89549,
+        "word": "侯明昊艾米雀骨公主抱路透",
+        "onboard_time": 1753406842,
+        "rank": 46,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 84831,
+        "num": 87258,
+        "word": "职业也能改变性格",
+        "onboard_time": 1753409123,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86866,
+        "num": 86866,
+        "word": "俄坠机原因初步调查",
+        "onboard_time": 1753406662,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85908,
+        "num": 85908,
+        "word": "福耀科技大学河南投档线658分",
+        "onboard_time": 1753407983,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧建交50年的重要经验和启示#"
+    }
+  }
+}

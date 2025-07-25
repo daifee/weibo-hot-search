@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753400541039,
+  "endTime": 1753409418167,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2371,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3744333,
+      "num": 3744333,
+      "word": "张碧晨方回应年轮原唱",
+      "onboard_time": 1753398679,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3737321,
       "num": 3737321,
       "word": "小米YU7价格",
@@ -2392,14 +2400,6 @@
       "word": "李明德 张颂文",
       "onboard_time": 1736042491,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3716352,
-      "num": 494755,
-      "word": "小S许雅钧为大S包机",
-      "onboard_time": 1738818210,
-      "rank": 10,
       "category": "艺人"
     }
   ],
