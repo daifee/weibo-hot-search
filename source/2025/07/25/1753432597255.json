@@ -1,0 +1,410 @@
+{
+  "runTime": 1753432597255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2163873,
+        "num": 2163873,
+        "word": "连休8天的长假来了",
+        "onboard_time": 1753431083,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655956,
+        "num": 655956,
+        "word": "爸爸烟不离手10岁儿子查出肺癌",
+        "onboard_time": 1753424062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19347,
+        "num": 648361,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644068,
+        "num": 644068,
+        "word": "韩国网红怀孕36周堕胎被控谋杀",
+        "onboard_time": 1753428384,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356492,
+        "num": 356492,
+        "word": "高分考生被厦门大学马来分校误录取",
+        "onboard_time": 1753424302,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 2762475,
+        "num": 353516,
+        "word": "张碧晨告别年轮",
+        "onboard_time": 1753412543,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1106783,
+        "num": 349526,
+        "word": "汪苏泷的版权意识有多强",
+        "onboard_time": 1753422442,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 785701,
+        "num": 345699,
+        "word": "沈佳润OneSpot韩国榜第一",
+        "onboard_time": 1753426763,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590065,
+        "num": 343918,
+        "word": "海蝶登记有年轮录音制品著作权",
+        "onboard_time": 1753428144,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77945,
+        "num": 337824,
+        "word": "央视追踪高中生被骗境外失联案",
+        "onboard_time": 1753431383,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631586,
+        "num": 334426,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369835,
+        "num": 329382,
+        "word": "王青杂志",
+        "onboard_time": 1753430962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328549,
+        "num": 328549,
+        "word": "鸿蒙智行不予置评",
+        "onboard_time": 1753427483,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 321855,
+        "num": 321855,
+        "word": "东北大学官网已变黑白",
+        "onboard_time": 1753424664,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299249,
+        "num": 299249,
+        "word": "众星恭喜阚清子",
+        "onboard_time": 1753413082,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270113,
+        "num": 270113,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243283,
+        "num": 243283,
+        "word": "遇难男生是村里第一个985大学生",
+        "onboard_time": 1753426223,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228303,
+        "num": 228303,
+        "word": "戒咖啡30天后身体的变化",
+        "onboard_time": 1753425623,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61812,
+        "num": 227618,
+        "word": "终于有综艺演我倒贴上班",
+        "onboard_time": 1753430903,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143852,
+        "num": 227616,
+        "word": "俄坠机黑匣子已找到",
+        "onboard_time": 1753431383,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 254432,
+        "num": 227615,
+        "word": "宋慧乔瘦成这样了",
+        "onboard_time": 1753431503,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227614,
+        "num": 227614,
+        "word": "全场高喊樊振东大满贯",
+        "onboard_time": 1753426163,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221782,
+        "num": 221782,
+        "word": "面馆老板已下架48元一杯茅台",
+        "onboard_time": 1753430843,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199027,
+        "num": 199027,
+        "word": "演唱会被抓包出轨女高管辞职",
+        "onboard_time": 1753421305,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174948,
+        "num": 174948,
+        "word": "孟子义你的狗背着你上综艺了",
+        "onboard_time": 1753431685,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170769,
+        "num": 170769,
+        "word": "易烊千玺北京站过审",
+        "onboard_time": 1753427963,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164317,
+        "num": 164317,
+        "word": "麻六记酸辣粉在开市客下架",
+        "onboard_time": 1753431023,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161985,
+        "num": 161985,
+        "word": "爸爸一躺小孩面相都变了",
+        "onboard_time": 1753420823,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 160474,
+        "word": "虞书欣 天梭",
+        "onboard_time": 1753419384,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 42410,
+        "num": 159470,
+        "word": "河北易县一天下了近1年的雨",
+        "onboard_time": 1753432283,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 226628,
+        "num": 159062,
+        "word": "命真好头胎就生了个月嫂",
+        "onboard_time": 1753431622,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158521,
+        "num": 158521,
+        "word": "关晓彤上新了三款彩椒碗",
+        "onboard_time": 1753423463,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153236,
+        "num": 153236,
+        "word": "印度男子揭露惊天大案",
+        "onboard_time": 1753430423,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152352,
+        "num": 152352,
+        "word": "沈佳润原来美美桑内之父也在",
+        "onboard_time": 1753427244,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139084,
+        "num": 139084,
+        "word": "时代少年团国风玄衣",
+        "onboard_time": 1753428204,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135898,
+        "num": 135898,
+        "word": "女子1年半内家里4人确诊癌症",
+        "onboard_time": 1753432283,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 134106,
+        "num": 134106,
+        "word": "苏醒演唱会票价是他的生日数字",
+        "onboard_time": 1753428743,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131808,
+        "num": 131808,
+        "word": "我一直以为许嵩是个老人",
+        "onboard_time": 1753431323,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122323,
+        "num": 122323,
+        "word": "首款可折叠iPhone屏幕尺寸曝光",
+        "onboard_time": 1753431984,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123078,
+        "num": 121984,
+        "word": "花千骨OST",
+        "onboard_time": 1753430123,
+        "rank": 39,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 119612,
+        "num": 119612,
+        "word": "双胞胎高考666分神同步携手考入西交大",
+        "onboard_time": 1753431622,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 117548,
+        "num": 117548,
+        "word": "从哪吒2藏海传等看中国文化圈粉世界",
+        "onboard_time": 1753409482,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114261,
+        "num": 114261,
+        "word": "喜羊羊也把头发梳起来了",
+        "onboard_time": 1753431863,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113131,
+        "num": 113131,
+        "word": "东北大学一溺亡学生来自黄金班",
+        "onboard_time": 1753430483,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109320,
+        "num": 109320,
+        "word": "蔡依林新专",
+        "onboard_time": 1753428504,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106206,
+        "num": 106206,
+        "word": "彻底把女朋友爷爷整崩溃了",
+        "onboard_time": 1753431503,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105897,
+        "num": 105897,
+        "word": "减肥反弹20斤没人告诉你的真相",
+        "onboard_time": 1753432104,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100491,
+        "num": 100491,
+        "word": "王楚钦回应3比2战胜徐海东",
+        "onboard_time": 1753432463,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96526,
+        "num": 96526,
+        "word": "曝沈腾明晚落地杭州参加王牌9",
+        "onboard_time": 1753432524,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95711,
+        "num": 95711,
+        "word": "易烊千玺演唱会门票可通过助农获得",
+        "onboard_time": 1753429404,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席谈到一个生动比喻#"
+    }
+  }
+}
