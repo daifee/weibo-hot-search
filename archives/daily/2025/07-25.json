@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753453651533,
+  "endTime": 1753454806231,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -19,11 +19,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 6792185,
-      "num": 6792185,
+      "raw_hot": 8724543,
+      "num": 8724543,
       "word": "单依纯 邓丽君",
       "onboard_time": 1753451488,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7525813,
+      "num": 7525813,
+      "word": "歌手排名",
+      "onboard_time": 1753453889,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 3387369,
-      "num": 4242646,
+      "num": 4613631,
       "word": "连休8天的长假来了",
       "onboard_time": 1753431083,
       "rank": 0,
@@ -81,6 +89,14 @@
       "onboard_time": 1753422442,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1844730,
+      "num": 1844730,
+      "word": "ALin 马嘉祺我爱他",
+      "onboard_time": 1753453349,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1800823,
@@ -179,6 +195,14 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 1001523,
+      "num": 826880,
+      "word": "汪苏泷一语双关",
+      "onboard_time": 1753454190,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 995926,
       "num": 471061,
       "word": "沈佳润OneSpot韩国榜第一",
@@ -219,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 859735,
+      "num": 859735,
+      "word": "单依纯第一",
+      "onboard_time": 1753454312,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 844734,
       "num": 426938,
       "word": "曝boss直聘再次涉黄",
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 723975,
-      "num": 2000716,
+      "num": 2578470,
       "word": "iPhone17Pro橙色新配色",
       "onboard_time": 1753435644,
       "rank": 28,
@@ -265,14 +297,6 @@
       "onboard_time": 1753375640,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 697720,
-      "num": 697720,
-      "word": "ALin 马嘉祺我爱他",
-      "onboard_time": 1753453349,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 692223,
@@ -339,8 +363,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 633143,
+      "num": 633143,
+      "word": "讨厌红楼梦",
+      "onboard_time": 1753449687,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 624332,
-      "num": 536356,
+      "num": 635205,
       "word": "孩子撞见爸爸出轨半夜被赶出家门",
       "onboard_time": 1753443686,
       "rank": 20,
@@ -387,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 581949,
+      "num": 778737,
+      "word": "时代少年团对抗歌手",
+      "onboard_time": 1753452691,
+      "rank": 16,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 574607,
       "num": 410299,
       "word": "王不染道歉",
@@ -425,14 +465,6 @@
       "onboard_time": 1753446146,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 496749,
-      "num": 496749,
-      "word": "讨厌红楼梦",
-      "onboard_time": 1753449687,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 495470,
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 467058,
-      "num": 467058,
+      "num": 559088,
       "word": "行走的鱼",
       "onboard_time": 1753451488,
       "rank": 41,
@@ -497,14 +529,6 @@
       "onboard_time": 1753448787,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 458885,
-      "num": 778737,
-      "word": "时代少年团对抗歌手",
-      "onboard_time": 1753452691,
-      "rank": 16,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 455615,
@@ -547,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 421245,
+      "num": 3856718,
+      "word": "6名学生内蒙古遇难最新细节披露",
+      "onboard_time": 1753451848,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413117,
       "num": 413117,
       "word": "时代少年团节目单",
@@ -569,14 +601,6 @@
       "onboard_time": 1753420644,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394889,
-      "num": 2792863,
-      "word": "6名学生内蒙古遇难最新细节披露",
-      "onboard_time": 1753451848,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 394281,
@@ -691,12 +715,36 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 314090,
+      "num": 314090,
+      "word": "孟子义血泪镜头杀疯了",
+      "onboard_time": 1753453349,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311677,
       "num": 224680,
       "word": "宋亚轩 爱是怀疑",
       "onboard_time": 1753446507,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 310678,
+      "num": 310678,
+      "word": "何炅来揭榜唱栀子花开",
+      "onboard_time": 1753452930,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 309459,
+      "num": 1578590,
+      "word": "美国人看到中国公园破防了",
+      "onboard_time": 1753452506,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304055,
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 292093,
-      "num": 523638,
+      "num": 634301,
       "word": "东京性交易场所成游客著名景点",
       "onboard_time": 1753446986,
       "rank": 28,
@@ -804,7 +852,7 @@
     },
     {
       "raw_hot": 290815,
-      "num": 741392,
+      "num": 827325,
       "word": "网易游戏一年不登录或被删除账号",
       "onboard_time": 1753449208,
       "rank": 14,
@@ -875,8 +923,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267004,
+      "num": 267004,
+      "word": "想GAI了",
+      "onboard_time": 1753454128,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266160,
-      "num": 622991,
+      "num": 783545,
       "word": "中国黄金内蒙古矿业安全副总发声",
       "onboard_time": 1753447824,
       "rank": 19,
@@ -979,12 +1035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243695,
-      "num": 758991,
-      "word": "美国人看到中国公园破防了",
-      "onboard_time": 1753452506,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 243341,
+      "num": 243341,
+      "word": "中餐厅",
+      "onboard_time": 1753454312,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 243284,
@@ -1044,19 +1100,11 @@
     },
     {
       "raw_hot": 232900,
-      "num": 584500,
+      "num": 782971,
       "word": "樊振东削球",
       "onboard_time": 1753447467,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232817,
-      "num": 247503,
-      "word": "何炅来揭榜唱栀子花开",
-      "onboard_time": 1753452930,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 231180,
@@ -1396,7 +1444,7 @@
     },
     {
       "raw_hot": 195987,
-      "num": 232082,
+      "num": 242990,
       "word": "网易游戏遭大量玩家维权",
       "onboard_time": 1753442664,
       "rank": 45,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1753440023,
       "rank": 28,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 193693,
+      "num": 243250,
+      "word": "何洁 破音",
+      "onboard_time": 1753454789,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 193080,
@@ -1553,6 +1609,14 @@
       "onboard_time": 1753407083,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181642,
+      "num": 801791,
+      "word": "学生遇难时5块格栅板坠落",
+      "onboard_time": 1753452506,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180282,
@@ -1995,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143898,
+      "num": 311761,
+      "word": "为什么建议每天最少走7000步",
+      "onboard_time": 1753454190,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 143883,
       "num": 202217,
       "word": "化妆店老板帮买肉被骗16万",
@@ -2179,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135141,
+      "num": 264515,
+      "word": "梁伟铿超绝滚网",
+      "onboard_time": 1753454312,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135038,
       "num": 135038,
       "word": "吴谦少将新任国防武官",
@@ -2216,14 +2296,6 @@
       "word": "通风报信致案件侦办受影响被国安处罚",
       "onboard_time": 1753406842,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133193,
-      "num": 707137,
-      "word": "学生遇难时5块格栅板坠落",
-      "onboard_time": 1753452506,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2265,6 +2337,14 @@
       "onboard_time": 1753436483,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130797,
+      "num": 545928,
+      "word": "宠物店员浓烟滚滚中救出30只猫狗",
+      "onboard_time": 1753453469,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130613,
@@ -2316,7 +2396,7 @@
     },
     {
       "raw_hot": 128786,
-      "num": 210261,
+      "num": 243172,
       "word": "医院丢弃CT机已无使用价值",
       "onboard_time": 1753448187,
       "rank": 46,
@@ -2468,7 +2548,7 @@
     },
     {
       "raw_hot": 122096,
-      "num": 211443,
+      "num": 243038,
       "word": "老人卧床多年跟保姆结婚并赠与房产",
       "onboard_time": 1753451607,
       "rank": 38,
@@ -2489,6 +2569,14 @@
       "onboard_time": 1753424902,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121546,
+      "num": 243207,
+      "word": "AG对战TWIS",
+      "onboard_time": 1753452088,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 120859,
@@ -2721,6 +2809,14 @@
       "onboard_time": 1753449627,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112360,
+      "num": 243119,
+      "word": "王楚钦观赛表情太丰富了",
+      "onboard_time": 1753453230,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 112155,
@@ -3580,7 +3676,7 @@
     },
     {
       "raw_hot": 47638,
-      "num": 5116275,
+      "num": 5183433,
       "word": "打卡夏天里的大美中国",
       "onboard_time": 1753451368,
       "rank": 2,
@@ -3616,14 +3712,6 @@
       "word": "母女遭到出租车司机辱骂绕路甩客",
       "onboard_time": 1753420883,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42093,
-      "num": 245447,
-      "word": "宠物店员浓烟滚滚中救出30只猫狗",
-      "onboard_time": 1753453469,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3816,6 +3904,9 @@
     },
     {
       "word": "#习近平接受外国新任驻华大使递交国书#"
+    },
+    {
+      "word": "#习近平妙喻阐释中欧关系发展之道#"
     }
   ]
 }
