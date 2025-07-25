@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753448162985,
+  "endTime": 1753449121163,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -51,8 +51,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2403526,
-      "num": 325968,
+      "raw_hot": 2428035,
+      "num": 354567,
       "word": "汪苏泷说深圳不怕影子斜",
       "onboard_time": 1753445365,
       "rank": 6,
@@ -65,6 +65,14 @@
       "onboard_time": 1753422442,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1800823,
+      "num": 343146,
+      "word": "难听",
+      "onboard_time": 1753447706,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 1799835,
@@ -81,14 +89,6 @@
       "onboard_time": 1753434384,
       "rank": 1,
       "category": "剧集,音乐"
-    },
-    {
-      "raw_hot": 1552441,
-      "num": 324296,
-      "word": "难听",
-      "onboard_time": 1753447706,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 1458205,
@@ -123,12 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1086745,
-      "num": 281600,
+      "raw_hot": 1136067,
+      "num": 310638,
       "word": "林志炫 破音",
       "onboard_time": 1753447467,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1048325,
+      "num": 308236,
+      "word": "汪苏泷年轮大合唱",
+      "onboard_time": 1753448487,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1020372,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 624332,
-      "num": 226482,
+      "num": 230398,
       "word": "孩子撞见爸爸出轨半夜被赶出家门",
       "onboard_time": 1753443686,
       "rank": 20,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 525182,
-      "num": 271635,
+      "num": 299270,
       "word": "年轮 好听",
       "onboard_time": 1753446146,
       "rank": 11,
@@ -393,6 +401,14 @@
       "onboard_time": 1753374203,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469222,
+      "num": 295362,
+      "word": "董璇自曝再婚后与丈夫分开住",
+      "onboard_time": 1753447227,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 455615,
@@ -451,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 404599,
-      "num": 264499,
-      "word": "董璇自曝再婚后与丈夫分开住",
-      "onboard_time": 1753447227,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394281,
       "num": 328735,
       "word": "时代少年团直播",
@@ -481,6 +489,14 @@
       "onboard_time": 1753418187,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 379352,
+      "num": 379352,
+      "word": "24岁女外卖员落水2天后遗体找到",
+      "onboard_time": 1753444046,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375890,
@@ -515,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331117,
-      "num": 331117,
-      "word": "24岁女外卖员落水2天后遗体找到",
-      "onboard_time": 1753444046,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 326190,
       "num": 227486,
       "word": "姐脱了解脱了",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 320069,
-      "num": 225073,
+      "num": 228814,
       "word": "时代少年团节目单",
       "onboard_time": 1753446146,
       "rank": 24,
@@ -577,6 +585,14 @@
       "onboard_time": 1753426163,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302601,
+      "num": 226315,
+      "word": "海泉编曲不错 唱得不行",
+      "onboard_time": 1753448787,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 302223,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 294950,
-      "num": 224367,
+      "num": 225722,
       "word": "严浩翔亢奋舞台",
       "onboard_time": 1753447406,
       "rank": 26,
@@ -633,6 +649,14 @@
       "onboard_time": 1753431685,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292531,
+      "num": 292531,
+      "word": "女外卖员疑送餐途中坠河失联",
+      "onboard_time": 1753445905,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291716,
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 276187,
-      "num": 224189,
+      "num": 225272,
       "word": "沈星回",
       "onboard_time": 1753446447,
       "rank": 27,
@@ -729,14 +753,6 @@
       "onboard_time": 1753364725,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256681,
-      "num": 256681,
-      "word": "女外卖员疑送餐途中坠河失联",
-      "onboard_time": 1753445905,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255909,
@@ -795,6 +811,14 @@
       "category": "国际时政,数码"
     },
     {
+      "raw_hot": 245310,
+      "num": 318262,
+      "word": "中国黄金内蒙古矿业安全副总发声",
+      "onboard_time": 1753447824,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245027,
       "num": 245027,
       "word": "乒超",
@@ -824,6 +848,14 @@
       "word": "遇难男生是村里第一个985大学生",
       "onboard_time": 1753426223,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241061,
+      "num": 227600,
+      "word": "东京性交易场所成游客著名景点",
+      "onboard_time": 1753446986,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -859,6 +891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 232900,
+      "num": 232900,
+      "word": "樊振东削球",
+      "onboard_time": 1753447467,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230992,
       "num": 230992,
       "word": "厦大马来分校称已有考生申请退档",
@@ -889,14 +929,6 @@
       "onboard_time": 1753416386,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 224013,
-      "num": 224013,
-      "word": "东京性交易场所成游客著名景点",
-      "onboard_time": 1753446986,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222902,
@@ -1148,7 +1180,7 @@
     },
     {
       "raw_hot": 195987,
-      "num": 227804,
+      "num": 232082,
       "word": "网易游戏遭大量玩家维权",
       "onboard_time": 1753442664,
       "rank": 45,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1753420823,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185873,
+      "num": 185873,
+      "word": "歌手曲风",
+      "onboard_time": 1753445846,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 185711,
@@ -1363,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174753,
-      "num": 174753,
-      "word": "歌手曲风",
-      "onboard_time": 1753445846,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173790,
       "num": 173790,
       "word": "彭昱畅怎么又瘦了",
@@ -1467,7 +1499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161791,
+      "raw_hot": 163986,
       "num": 161791,
       "word": "云飞揭榜失败",
       "onboard_time": 1753447886,
@@ -1571,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156449,
+      "num": 156449,
+      "word": "深圳大学1比1山东鲁能",
+      "onboard_time": 1753448126,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155766,
       "num": 155766,
       "word": "你买东西的网店可能是骗子开的",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1753423463,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 152542,
+      "num": 152542,
+      "word": "TTG战胜NOVA",
+      "onboard_time": 1753448546,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 152181,
@@ -1684,7 +1732,7 @@
     },
     {
       "raw_hot": 147929,
-      "num": 147929,
+      "num": 224284,
       "word": "沈梦辰回应毕雯珺",
       "onboard_time": 1753447045,
       "rank": 41,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1753438223,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140967,
-      "num": 227161,
-      "word": "樊振东削球",
-      "onboard_time": 1753447467,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 140162,
@@ -1979,6 +2019,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 132234,
+      "num": 132234,
+      "word": "樊振东乒超第2阶段2连胜",
+      "onboard_time": 1753448668,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131741,
       "num": 131741,
       "word": "扫毒风暴卢少骅被判死刑",
@@ -2083,14 +2131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126077,
-      "num": 226756,
-      "word": "中国黄金内蒙古矿业安全副总发声",
-      "onboard_time": 1753447824,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125520,
       "num": 125520,
       "word": "孙颖莎又把自己打笑了",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1753425144,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124907,
+      "num": 156473,
+      "word": "陈楚生C位",
+      "onboard_time": 1753448487,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 124549,
@@ -2187,14 +2235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121235,
-      "num": 135489,
-      "word": "深圳大学1比1山东鲁能",
-      "onboard_time": 1753448126,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120859,
       "num": 120859,
       "word": "梁靖崑林昀儒3比0林高远陈垣宇",
@@ -2240,6 +2280,14 @@
       "word": "5年前扶贫小组欠万元餐费仍未结清",
       "onboard_time": 1753362864,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119653,
+      "num": 134901,
+      "word": "25岁盲人自学剪视频年入5万",
+      "onboard_time": 1753447645,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2315,6 +2363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116503,
+      "num": 232584,
+      "word": "酸酸乳瓶实力好喝",
+      "onboard_time": 1753448428,
+      "rank": 17,
+      "category": "综艺,美食"
+    },
+    {
       "raw_hot": 116360,
       "num": 116360,
       "word": "台风范斯高会影响江苏吗",
@@ -2331,12 +2387,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 116029,
+      "num": 116029,
+      "word": "医院丢弃CT机已无使用价值",
+      "onboard_time": 1753448187,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115574,
       "num": 115574,
       "word": "迅猛龙回应台湾上大学",
       "onboard_time": 1753426523,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115415,
+      "num": 115415,
+      "word": "大学生溺亡位置偏离了绿色参观通道",
+      "onboard_time": 1753448728,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114652,
@@ -2379,14 +2451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113079,
-      "num": 134901,
-      "word": "25岁盲人自学剪视频年入5万",
-      "onboard_time": 1753447645,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112155,
       "num": 112155,
       "word": "朱志鑫最近在流汗也在历练",
@@ -2401,6 +2465,14 @@
       "onboard_time": 1753444344,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111793,
+      "num": 133424,
+      "word": "瘦了之后对自己的长相好陌生",
+      "onboard_time": 1753444104,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 111632,
@@ -2467,14 +2539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109512,
-      "num": 133424,
-      "word": "瘦了之后对自己的长相好陌生",
-      "onboard_time": 1753444104,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109496,
       "num": 127753,
       "word": "朝雪录制片人 破万是我们幸运",
@@ -2504,6 +2568,14 @@
       "word": "减肥后感觉世界变得尖锐了",
       "onboard_time": 1753400421,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108569,
+      "num": 108569,
+      "word": "头一次见让盲人舍友带饭的",
+      "onboard_time": 1753445487,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -3251,6 +3323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43849,
+      "num": 156978,
+      "word": "云飞伴唱",
+      "onboard_time": 1753448728,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43559,
+      "num": 228057,
+      "word": "樊振东率上海单日两连胜",
+      "onboard_time": 1753448907,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42714,
       "num": 162230,
       "word": "母女遭到出租车司机辱骂绕路甩客",
@@ -3283,12 +3371,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38147,
+      "num": 231091,
+      "word": "公司设厕所报备群还要求截图证明",
+      "onboard_time": 1753448487,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35554,
       "num": 150653,
       "word": "樊振东王楚钦开心击掌",
       "onboard_time": 1753351823,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33864,
+      "num": 224934,
+      "word": "电驴越来越多停哪",
+      "onboard_time": 1753448487,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33251,
