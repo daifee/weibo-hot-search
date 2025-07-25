@@ -1,0 +1,410 @@
+{
+  "runTime": 1753419603551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9735461,
+        "num": 9735461,
+        "word": "张碧晨告别年轮",
+        "onboard_time": 1753412543,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 767598,
+        "num": 767598,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1753415064,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58668,
+        "num": 431789,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1905885,
+        "num": 427248,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309791,
+        "num": 309791,
+        "word": "日本最美初中生大赛",
+        "onboard_time": 1753417524,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304055,
+        "num": 304055,
+        "word": "樊振东3比0林诗栋",
+        "onboard_time": 1753418783,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 930101,
+        "num": 299661,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 739244,
+        "num": 299122,
+        "word": "李思睿 年轮回家",
+        "onboard_time": 1753406003,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280738,
+        "num": 280738,
+        "word": "光与夜之恋",
+        "onboard_time": 1753418244,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135719,
+        "num": 278513,
+        "word": "安徽一高中生被骗境外失联时间线",
+        "onboard_time": 1753418783,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66916,
+        "num": 268620,
+        "word": "丁禹兮且初",
+        "onboard_time": 1753417705,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847265,
+        "num": 267351,
+        "word": "众星恭喜阚清子",
+        "onboard_time": 1753413082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518925,
+        "num": 260218,
+        "word": "家属回应抬去世老人安葬路上现钉子",
+        "onboard_time": 1753414944,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254131,
+        "num": 254131,
+        "word": "芋泥色的孙颖莎",
+        "onboard_time": 1753417586,
+        "rank": 13,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 251054,
+        "num": 251054,
+        "word": "山西地震",
+        "onboard_time": 1753410322,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 245928,
+        "num": 245928,
+        "word": "从哪吒2藏海传等看中国文化圈粉世界",
+        "onboard_time": 1753409482,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241959,
+        "num": 241959,
+        "word": "千万别带着女朋友送外卖",
+        "onboard_time": 1753413444,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219377,
+        "num": 219377,
+        "word": "肖战你还会写诗呢",
+        "onboard_time": 1753417164,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207352,
+        "num": 207352,
+        "word": "高温超42度晒黑元凶竟是热",
+        "onboard_time": 1753410983,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207307,
+        "num": 207307,
+        "word": "热依扎带5岁女儿散步",
+        "onboard_time": 1753417345,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383634,
+        "num": 206314,
+        "word": "问界M8纯电版预售37.8万起",
+        "onboard_time": 1753418187,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210859,
+        "num": 205429,
+        "word": "男大学生偷穿妈妈的裙子突然被发现",
+        "onboard_time": 1753414163,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200322,
+        "num": 200322,
+        "word": "张艺兴拖拉机证还有2年到期",
+        "onboard_time": 1753416146,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182292,
+        "num": 198921,
+        "word": "丁禹兮小太阳",
+        "onboard_time": 1753418905,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197906,
+        "num": 197906,
+        "word": "裴秀智金宣虎要来横店拍戏",
+        "onboard_time": 1753410561,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189712,
+        "num": 189712,
+        "word": "光与夜之恋 齐司礼",
+        "onboard_time": 1753419205,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186939,
+        "num": 186939,
+        "word": "虞书欣 天梭",
+        "onboard_time": 1753419384,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 174749,
+        "num": 174749,
+        "word": "花千骨",
+        "onboard_time": 1753419326,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172521,
+        "num": 172521,
+        "word": "王不染道歉",
+        "onboard_time": 1753406723,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159772,
+        "num": 159772,
+        "word": "被易烊千玺限定票根拿捏了",
+        "onboard_time": 1753416264,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185711,
+        "num": 159624,
+        "word": "如鸢奖牌",
+        "onboard_time": 1753419384,
+        "rank": 30,
+        "category": "动漫,运动健身"
+      },
+      {
+        "raw_hot": 180491,
+        "num": 159159,
+        "word": "孙颖莎平野美宇3比2李雨琪向俊霖",
+        "onboard_time": 1753415604,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 844734,
+        "num": 158434,
+        "word": "曝boss直聘再次涉黄",
+        "onboard_time": 1753364785,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 160939,
+        "num": 157824,
+        "word": "最好的旅行搭子就是自己的孩子",
+        "onboard_time": 1753412181,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157755,
+        "num": 157755,
+        "word": "居然把一只野兔给养大了",
+        "onboard_time": 1753416685,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147739,
+        "num": 147739,
+        "word": "子宫对于女性来说很重要",
+        "onboard_time": 1753419026,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144808,
+        "num": 144808,
+        "word": "姐姐当家先导片中女力量感",
+        "onboard_time": 1753419083,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144611,
+        "num": 144611,
+        "word": "鞠婧祎吃顿好的",
+        "onboard_time": 1753416264,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139137,
+        "num": 142164,
+        "word": "入境男子体内藏毒1387.45克",
+        "onboard_time": 1753418725,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117884,
+        "num": 141933,
+        "word": "王传君碰上他就演不了好人",
+        "onboard_time": 1753418304,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141904,
+        "num": 141904,
+        "word": "黄仁勋称美国独特优势是特朗普总统",
+        "onboard_time": 1753419326,
+        "rank": 40,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 141082,
+        "num": 141082,
+        "word": "男子6次结婚6次离婚五任前妻都是债主",
+        "onboard_time": 1753398378,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140153,
+        "num": 140153,
+        "word": "失联安徽高中生已平安回国",
+        "onboard_time": 1753417586,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136622,
+        "num": 136622,
+        "word": "沈羽洁文笔",
+        "onboard_time": 1753413384,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134290,
+        "num": 134290,
+        "word": "蒋峤西出租屋是樱桃痛屋",
+        "onboard_time": 1753417224,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130899,
+        "num": 130899,
+        "word": "灵笼",
+        "onboard_time": 1753416386,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129778,
+        "num": 129778,
+        "word": "徐海东vs王楚钦",
+        "onboard_time": 1753415304,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124597,
+        "num": 124597,
+        "word": "懂车帝回应马斯克转发",
+        "onboard_time": 1753416146,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124549,
+        "num": 124549,
+        "word": "谁拍的周翊然出来挨夸",
+        "onboard_time": 1753419564,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122645,
+        "num": 122645,
+        "word": "你买东西的网店可能是骗子开的",
+        "onboard_time": 1753415964,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席谈到一个生动比喻#"
+    }
+  }
+}

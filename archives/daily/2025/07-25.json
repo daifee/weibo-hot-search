@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753416820148,
+  "endTime": 1753419603551,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -75,7 +75,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 771673,
+      "raw_hot": 844734,
       "num": 426938,
       "word": "曝boss直聘再次涉黄",
       "onboard_time": 1753364785,
@@ -203,6 +203,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 383634,
+      "num": 206314,
+      "word": "问界M8纯电版预售37.8万起",
+      "onboard_time": 1753418187,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 309791,
+      "num": 309791,
+      "word": "日本最美初中生大赛",
+      "onboard_time": 1753417524,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 304055,
+      "num": 304055,
+      "word": "樊振东3比0林诗栋",
+      "onboard_time": 1753418783,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300920,
       "num": 260082,
       "word": "裴秀智金宣虎要来横店拍戏",
@@ -251,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280738,
+      "num": 280738,
+      "word": "光与夜之恋",
+      "onboard_time": 1753418244,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264164,
       "num": 264164,
       "word": "千万别带着女朋友送外卖",
@@ -273,6 +305,14 @@
       "onboard_time": 1753336585,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254131,
+      "num": 254131,
+      "word": "芋泥色的孙颖莎",
+      "onboard_time": 1753417586,
+      "rank": 13,
+      "category": "体育,体育"
     },
     {
       "raw_hot": 252863,
@@ -355,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "肖战你还会写诗呢",
+      "onboard_time": 1753417164,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218726,
       "num": 218726,
       "word": "30万存款定律",
@@ -371,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210859,
+      "num": 205429,
+      "word": "男大学生偷穿妈妈的裙子突然被发现",
+      "onboard_time": 1753414163,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210212,
       "num": 210212,
       "word": "溺亡学生出事前给朋友发格栅板视频",
@@ -385,6 +441,14 @@
       "onboard_time": 1753416685,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 207307,
+      "num": 207307,
+      "word": "热依扎带5岁女儿散步",
+      "onboard_time": 1753417345,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 206555,
@@ -435,20 +499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201044,
-      "num": 201044,
-      "word": "男大学生偷穿妈妈的裙子突然被发现",
-      "onboard_time": 1753414163,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200529,
       "num": 201135,
       "word": "孙颖莎平野美宇3比2李雨琪向俊霖",
       "onboard_time": 1753415604,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200322,
+      "num": 200322,
+      "word": "张艺兴拖拉机证还有2年到期",
+      "onboard_time": 1753416146,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 199532,
@@ -483,12 +547,36 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 189712,
+      "num": 189712,
+      "word": "光与夜之恋 齐司礼",
+      "onboard_time": 1753419205,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186995,
       "num": 183049,
       "word": "南京照相馆",
       "onboard_time": 1753415545,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186939,
+      "num": 186939,
+      "word": "虞书欣 天梭",
+      "onboard_time": 1753419384,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 185711,
+      "num": 159624,
+      "word": "如鸢奖牌",
+      "onboard_time": 1753419384,
+      "rank": 30,
+      "category": "动漫,运动健身"
     },
     {
       "raw_hot": 184926,
@@ -515,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182292,
+      "num": 198921,
+      "word": "丁禹兮小太阳",
+      "onboard_time": 1753418905,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182193,
       "num": 232604,
       "word": "张娜拉自曝因童颜感到压力",
@@ -537,6 +633,14 @@
       "onboard_time": 1753412305,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174749,
+      "num": 174749,
+      "word": "花千骨",
+      "onboard_time": 1753419326,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 171363,
@@ -643,12 +747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147739,
+      "num": 147739,
+      "word": "子宫对于女性来说很重要",
+      "onboard_time": 1753419026,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147006,
       "num": 147006,
       "word": "大V陈震谈懂车帝测试结果",
       "onboard_time": 1753410983,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 144808,
+      "num": 144808,
+      "word": "姐姐当家先导片中女力量感",
+      "onboard_time": 1753419083,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 143543,
@@ -664,6 +784,30 @@
       "word": "东北大学6名遇难学生最小20岁",
       "onboard_time": 1753403003,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141904,
+      "num": 141904,
+      "word": "黄仁勋称美国独特优势是特朗普总统",
+      "onboard_time": 1753419326,
+      "rank": 40,
+      "category": "国际时政,数码"
+    },
+    {
+      "raw_hot": 140153,
+      "num": 140153,
+      "word": "失联安徽高中生已平安回国",
+      "onboard_time": 1753417586,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139137,
+      "num": 142164,
+      "word": "入境男子体内藏毒1387.45克",
+      "onboard_time": 1753418725,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -699,11 +843,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135719,
+      "num": 278513,
+      "word": "安徽一高中生被骗境外失联时间线",
+      "onboard_time": 1753418783,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135585,
       "num": 135585,
       "word": "阿楚姑娘唱的原来是蒋峤西",
       "onboard_time": 1753414345,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134290,
+      "num": 134290,
+      "word": "蒋峤西出租屋是樱桃痛屋",
+      "onboard_time": 1753417224,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -763,6 +923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124549,
+      "num": 124549,
+      "word": "谁拍的周翊然出来挨夸",
+      "onboard_time": 1753419564,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 124140,
       "num": 151313,
       "word": "6名大学生溺亡涉事矿企3人被抓",
@@ -817,6 +985,14 @@
       "onboard_time": 1753402284,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117884,
+      "num": 141933,
+      "word": "王传君碰上他就演不了好人",
+      "onboard_time": 1753418304,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 117163,
@@ -945,14 +1121,6 @@
       "onboard_time": 1753371027,
       "rank": 32,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 98749,
-      "num": 146258,
-      "word": "张艺兴拖拉机证还有2年到期",
-      "onboard_time": 1753416146,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 97262,
@@ -1145,6 +1313,14 @@
       "onboard_time": 1753358902,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 66916,
+      "num": 268620,
+      "word": "丁禹兮且初",
+      "onboard_time": 1753417705,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 66895,
@@ -1396,6 +1572,9 @@
     },
     {
       "word": "#习近平就俄客机失事向普京致慰问电#"
+    },
+    {
+      "word": "#习主席谈到一个生动比喻#"
     }
   ]
 }

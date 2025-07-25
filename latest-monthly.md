@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/25 12:13:40
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/25 13:00:03
 </p>
 </blockquote>
 <p>
@@ -6455,6 +6455,12 @@ GAI是不是又想走了（热度：658327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E4%BF%84%E5%AE%A2%E6%9C%BA%E5%A4%B1%E4%BA%8B%E5%90%91%E6%99%AE%E4%BA%AC%E8%87%B4%E6%85%B0%E9%97%AE%E7%94%B5%23%23" target="weibo">
 #习近平就俄客机失事向普京致慰问电#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%B0%88%E5%88%B0%E4%B8%80%E4%B8%AA%E7%94%9F%E5%8A%A8%E6%AF%94%E5%96%BB%23%23" target="weibo">
+#习主席谈到一个生动比喻#
 </a>
 </li>
 
