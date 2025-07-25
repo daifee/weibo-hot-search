@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753451660576,
+  "endTime": 1753453651533,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -19,6 +19,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 6792185,
+      "num": 6792185,
+      "word": "单依纯 邓丽君",
+      "onboard_time": 1753451488,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3744333,
       "num": 3744333,
       "word": "张碧晨方回应年轮原唱",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 3387369,
-      "num": 3387369,
+      "num": 4242646,
       "word": "连休8天的长假来了",
       "onboard_time": 1753431083,
       "rank": 0,
@@ -115,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1266079,
+      "num": 1266079,
+      "word": "李佳薇戏腔",
+      "onboard_time": 1753452269,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1261825,
       "num": 1261825,
       "word": "演唱会被抓包出轨女高管辞职",
@@ -155,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1007016,
+      "num": 1007016,
+      "word": "花千骨只用过张碧晨版年轮",
+      "onboard_time": 1753449807,
+      "rank": 22,
+      "category": "剧集,音乐"
+    },
+    {
       "raw_hot": 995926,
       "num": 471061,
       "word": "沈佳润OneSpot韩国榜第一",
@@ -169,14 +193,6 @@
       "onboard_time": 1753424062,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 922119,
-      "num": 404518,
-      "word": "单依纯 邓丽君",
-      "onboard_time": 1753451488,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 909321,
@@ -211,12 +227,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 739995,
-      "num": 481565,
-      "word": "花千骨只用过张碧晨版年轮",
-      "onboard_time": 1753449807,
-      "rank": 22,
-      "category": "剧集,音乐"
+      "raw_hot": 811638,
+      "num": 811638,
+      "word": "陈楚生 换气声",
+      "onboard_time": 1753450888,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 739856,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 723975,
-      "num": 1928069,
+      "num": 2000716,
       "word": "iPhone17Pro橙色新配色",
       "onboard_time": 1753435644,
       "rank": 28,
@@ -249,6 +265,22 @@
       "onboard_time": 1753375640,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697720,
+      "num": 697720,
+      "word": "ALin 马嘉祺我爱他",
+      "onboard_time": 1753453349,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 692223,
+      "num": 692223,
+      "word": "鹿晗腹肌",
+      "onboard_time": 1753450288,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 685151,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 624332,
-      "num": 515369,
+      "num": 536356,
       "word": "孩子撞见爸爸出轨半夜被赶出家门",
       "onboard_time": 1753443686,
       "rank": 20,
@@ -337,14 +369,6 @@
       "onboard_time": 1753424664,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 604163,
-      "num": 400552,
-      "word": "陈楚生 换气声",
-      "onboard_time": 1753450888,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 602882,
@@ -403,11 +427,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 516105,
-      "num": 400022,
-      "word": "鹿晗腹肌",
-      "onboard_time": 1753450288,
-      "rank": 35,
+      "raw_hot": 496749,
+      "num": 496749,
+      "word": "讨厌红楼梦",
+      "onboard_time": 1753449687,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -459,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467058,
+      "num": 467058,
+      "word": "行走的鱼",
+      "onboard_time": 1753451488,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458961,
       "num": 458961,
       "word": "海泉编曲不错 唱得不行",
       "onboard_time": 1753448787,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458885,
+      "num": 778737,
+      "word": "时代少年团对抗歌手",
+      "onboard_time": 1753452691,
+      "rank": 16,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 455615,
@@ -499,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429401,
-      "num": 429401,
-      "word": "讨厌红楼梦",
-      "onboard_time": 1753449687,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 429131,
       "num": 478287,
       "word": "命真好头胎就生了个月嫂",
@@ -537,6 +569,14 @@
       "onboard_time": 1753420644,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394889,
+      "num": 2792863,
+      "word": "6名学生内蒙古遇难最新细节披露",
+      "onboard_time": 1753451848,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394281,
@@ -617,6 +657,14 @@
       "onboard_time": 1753441584,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327070,
+      "num": 1267281,
+      "word": "专家解释为何中国垃圾不够烧",
+      "onboard_time": 1753452388,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326190,
@@ -731,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292093,
+      "num": 523638,
+      "word": "东京性交易场所成游客著名景点",
+      "onboard_time": 1753446986,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291716,
       "num": 291716,
       "word": "宋亚轩蓝发",
@@ -748,7 +804,7 @@
     },
     {
       "raw_hot": 290815,
-      "num": 635987,
+      "num": 741392,
       "word": "网易游戏一年不登录或被删除账号",
       "onboard_time": 1753449208,
       "rank": 14,
@@ -768,14 +824,6 @@
       "word": "从哪吒2藏海传等看中国文化圈粉世界",
       "onboard_time": 1753409482,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286469,
-      "num": 381240,
-      "word": "东京性交易场所成游客著名景点",
-      "onboard_time": 1753446986,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -915,12 +963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244652,
+      "num": 244652,
+      "word": "歌手的诱惑",
+      "onboard_time": 1753446266,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244436,
       "num": 244436,
       "word": "葛荟婕说女儿小苹果不想认她",
       "onboard_time": 1753401683,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243695,
+      "num": 758991,
+      "word": "美国人看到中国公园破防了",
+      "onboard_time": 1753452506,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243284,
@@ -937,6 +1001,14 @@
       "onboard_time": 1753426223,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241996,
+      "num": 241996,
+      "word": "单依纯 君",
+      "onboard_time": 1753452630,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 239961,
@@ -977,6 +1049,14 @@
       "onboard_time": 1753447467,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232817,
+      "num": 247503,
+      "word": "何炅来揭榜唱栀子花开",
+      "onboard_time": 1753452930,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 231180,
@@ -1035,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219481,
+      "num": 519672,
+      "word": "山东鲁能3比1深圳大学",
+      "onboard_time": 1753452210,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219377,
       "num": 219377,
       "word": "肖战你还会写诗呢",
@@ -1073,6 +1161,14 @@
       "onboard_time": 1753409964,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212960,
+      "num": 212960,
+      "word": "内娱2张漂亮脸蛋同框了",
+      "onboard_time": 1753451669,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 210859,
@@ -1128,14 +1224,6 @@
       "word": "Grace好听",
       "onboard_time": 1753451126,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207392,
-      "num": 207392,
-      "word": "行走的鱼",
-      "onboard_time": 1753451488,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1273,6 +1361,14 @@
       "onboard_time": 1753404503,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197696,
+      "num": 269552,
+      "word": "王曼昱2分助山东鲁能取胜",
+      "onboard_time": 1753452691,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 197247,
@@ -1939,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143451,
+      "num": 212427,
+      "word": "王曼昱3比0平野美宇",
+      "onboard_time": 1753452751,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143380,
       "num": 143380,
       "word": "八个小时谁能下班啊",
@@ -2115,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133193,
+      "num": 707137,
+      "word": "学生遇难时5块格栅板坠落",
+      "onboard_time": 1753452506,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132941,
       "num": 132941,
       "word": "樊振东vs李天阳",
@@ -2204,7 +2316,7 @@
     },
     {
       "raw_hot": 128786,
-      "num": 193497,
+      "num": 210261,
       "word": "医院丢弃CT机已无使用价值",
       "onboard_time": 1753448187,
       "rank": 46,
@@ -2355,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122096,
+      "num": 211443,
+      "word": "老人卧床多年跟保姆结婚并赠与房产",
+      "onboard_time": 1753451607,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121961,
       "num": 121961,
       "word": "通过小帕终于知道怎么描述双相了",
@@ -2443,8 +2563,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119147,
-      "num": 191301,
+      "raw_hot": 119369,
+      "num": 209401,
       "word": "当狗咖送走了最后一位客人",
       "onboard_time": 1753451549,
       "rank": 48,
@@ -3443,14 +3563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49737,
-      "num": 211443,
-      "word": "老人卧床多年跟保姆结婚并赠与房产",
-      "onboard_time": 1753451607,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49481,
       "num": 216216,
       "word": "宜宾警方通报女外卖员落水身亡",
@@ -3468,7 +3580,7 @@
     },
     {
       "raw_hot": 47638,
-      "num": 1404917,
+      "num": 5116275,
       "word": "打卡夏天里的大美中国",
       "onboard_time": 1753451368,
       "rank": 2,
@@ -3504,6 +3616,14 @@
       "word": "母女遭到出租车司机辱骂绕路甩客",
       "onboard_time": 1753420883,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42093,
+      "num": 245447,
+      "word": "宠物店员浓烟滚滚中救出30只猫狗",
+      "onboard_time": 1753453469,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3693,6 +3813,9 @@
     },
     {
       "word": "#携手开创这个星球更加美好的未来#"
+    },
+    {
+      "word": "#习近平接受外国新任驻华大使递交国书#"
     }
   ]
 }

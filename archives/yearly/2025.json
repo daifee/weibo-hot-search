@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753451660576,
+  "endTime": 1753453651533,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1499,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6792185,
+      "num": 6792185,
+      "word": "单依纯 邓丽君",
+      "onboard_time": 1753451488,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6766123,
       "num": 6766123,
       "word": "阿云嘎秒了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1753398679,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3737321,
-      "num": 3737321,
-      "word": "小米YU7价格",
-      "onboard_time": 1750940903,
-      "rank": 1,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
