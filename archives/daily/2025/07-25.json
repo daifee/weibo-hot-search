@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753454806231,
+  "endTime": 1753457444540,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -123,6 +123,14 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 1480612,
+      "num": 826880,
+      "word": "汪苏泷一语双关",
+      "onboard_time": 1753454190,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1458205,
       "num": 1458205,
       "word": "歌手直播",
@@ -193,14 +201,6 @@
       "onboard_time": 1753449807,
       "rank": 22,
       "category": "剧集,音乐"
-    },
-    {
-      "raw_hot": 1001523,
-      "num": 826880,
-      "word": "汪苏泷一语双关",
-      "onboard_time": 1753454190,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 995926,
@@ -675,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359775,
+      "num": 1578590,
+      "word": "美国人看到中国公园破防了",
+      "onboard_time": 1753452506,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349277,
       "num": 325372,
       "word": "肖战的摄影作品参展",
@@ -737,14 +745,6 @@
       "onboard_time": 1753452930,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309459,
-      "num": 1578590,
-      "word": "美国人看到中国公园破防了",
-      "onboard_time": 1753452506,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304055,
@@ -1163,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220138,
+      "num": 220138,
+      "word": "董璇说张维伊粘人",
+      "onboard_time": 1753456166,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219481,
       "num": 519672,
       "word": "山东鲁能3比1深圳大学",
@@ -1219,6 +1227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210995,
+      "num": 252132,
+      "word": "丰川祥子",
+      "onboard_time": 1753456466,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 210969,
+      "num": 210969,
+      "word": "鹿晗跳了肯恰那",
+      "onboard_time": 1753456945,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210859,
       "num": 205429,
       "word": "男大学生偷穿妈妈的裙子突然被发现",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1753442544,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208109,
+      "num": 208109,
+      "word": "宋亚轩 要你管",
+      "onboard_time": 1753456226,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 208031,
@@ -1347,6 +1379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201839,
+      "num": 201839,
+      "word": "歌手云端谁在投",
+      "onboard_time": 1753456048,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201609,
+      "num": 801791,
+      "word": "学生遇难时5块格栅板坠落",
+      "onboard_time": 1753452506,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201560,
       "num": 258023,
       "word": "美国骚猪肉",
@@ -1408,6 +1456,14 @@
       "word": "北京强降雨持续三天",
       "onboard_time": 1753404503,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198499,
+      "num": 251925,
+      "word": "90后夫妻结婚14年丈夫出轨8年",
+      "onboard_time": 1753456646,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1611,14 +1667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 181642,
-      "num": 801791,
-      "word": "学生遇难时5块格栅板坠落",
-      "onboard_time": 1753452506,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180282,
       "num": 155232,
       "word": "宋亚轩不笑的时候还蛮好笑的",
@@ -1699,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170547,
+      "num": 201831,
+      "word": "罗小黑2",
+      "onboard_time": 1753457006,
+      "rank": 37,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 170525,
       "num": 170525,
       "word": "tzym 菜",
@@ -1721,6 +1777,14 @@
       "onboard_time": 1753420943,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169399,
+      "num": 201787,
+      "word": "张真源唱跳braveheart",
+      "onboard_time": 1753456408,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 168558,
@@ -2043,6 +2107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145692,
+      "num": 251634,
+      "word": "贵州一男子误触电野猪设备身亡",
+      "onboard_time": 1753455806,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144808,
       "num": 144808,
       "word": "姐姐当家先导片中女力量感",
@@ -2147,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140972,
+      "num": 201698,
+      "word": "李佳薇第二",
+      "onboard_time": 1753457066,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140162,
       "num": 140162,
       "word": "原来被尊重的面试是这样子的",
@@ -2233,6 +2313,14 @@
       "onboard_time": 1753414345,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 250343,
+      "word": "良好家庭教育是教会孩子这6件事",
+      "onboard_time": 1753456166,
+      "rank": 27,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 135380,
@@ -2721,6 +2809,14 @@
       "onboard_time": 1753448428,
       "rank": 17,
       "category": "综艺,美食"
+    },
+    {
+      "raw_hot": 116441,
+      "num": 201812,
+      "word": "忍野忍",
+      "onboard_time": 1753456945,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 116360,
@@ -3299,6 +3395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87840,
+      "num": 201642,
+      "word": "泰国改口不拒绝第三方调解",
+      "onboard_time": 1753456587,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86866,
       "num": 86866,
       "word": "俄坠机原因初步调查",
@@ -3329,6 +3433,14 @@
       "onboard_time": 1753359025,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81953,
+      "num": 201619,
+      "word": "广州全市开展集中灭蚊行动",
+      "onboard_time": 1753457365,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81021,
@@ -3745,6 +3857,14 @@
       "onboard_time": 1753367908,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38834,
+      "num": 251469,
+      "word": "棉密码卫生巾芯片专利6年前获授权",
+      "onboard_time": 1753456286,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38147,

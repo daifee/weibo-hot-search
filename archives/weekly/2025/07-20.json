@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753454806231,
+  "endTime": 1753457444540,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -505,6 +505,14 @@
       "onboard_time": 1752988400,
       "rank": 5,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 1480612,
+      "num": 826880,
+      "word": "汪苏泷一语双关",
+      "onboard_time": 1753454190,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1463203,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1753449807,
       "rank": 22,
       "category": "剧集,音乐"
-    },
-    {
-      "raw_hot": 1001523,
-      "num": 826880,
-      "word": "汪苏泷一语双关",
-      "onboard_time": 1753454190,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 995926,
@@ -3931,6 +3931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359775,
+      "num": 1578590,
+      "word": "美国人看到中国公园破防了",
+      "onboard_time": 1753452506,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359082,
       "num": 359082,
       "word": "州在今天拥有了常",
@@ -4537,14 +4545,6 @@
       "onboard_time": 1753452930,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309459,
-      "num": 1578590,
-      "word": "美国人看到中国公园破防了",
-      "onboard_time": 1753452506,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308054,
@@ -6267,6 +6267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220138,
+      "num": 220138,
+      "word": "董璇说张维伊粘人",
+      "onboard_time": 1753456166,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220071,
       "num": 220071,
       "word": "香港台风",
@@ -6699,6 +6707,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210995,
+      "num": 252132,
+      "word": "丰川祥子",
+      "onboard_time": 1753456466,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 210969,
+      "num": 210969,
+      "word": "鹿晗跳了肯恰那",
+      "onboard_time": 1753456945,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210871,
       "num": 210871,
       "word": "A股",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1753149860,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208109,
+      "num": 208109,
+      "word": "宋亚轩 要你管",
+      "onboard_time": 1753456226,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 208031,
@@ -7139,6 +7171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201839,
+      "num": 201839,
+      "word": "歌手云端谁在投",
+      "onboard_time": 1753456048,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201788,
       "num": 201788,
       "word": "B萌",
@@ -7153,6 +7193,14 @@
       "onboard_time": 1753083983,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201609,
+      "num": 801791,
+      "word": "学生遇难时5块格栅板坠落",
+      "onboard_time": 1753452506,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201331,
@@ -7345,6 +7393,14 @@
       "onboard_time": 1753182262,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198499,
+      "num": 251925,
+      "word": "90后夫妻结婚14年丈夫出轨8年",
+      "onboard_time": 1753456646,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198293,
@@ -8483,14 +8539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 181642,
-      "num": 801791,
-      "word": "学生遇难时5块格栅板坠落",
-      "onboard_time": 1753452506,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181355,
       "num": 181355,
       "word": "花西子 王俊凯",
@@ -9203,6 +9251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170547,
+      "num": 201831,
+      "word": "罗小黑2",
+      "onboard_time": 1753457006,
+      "rank": 37,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 170525,
       "num": 170525,
       "word": "tzym 菜",
@@ -9305,6 +9361,14 @@
       "onboard_time": 1753338746,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169399,
+      "num": 201787,
+      "word": "张真源唱跳braveheart",
+      "onboard_time": 1753456408,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 169355,
@@ -11211,6 +11275,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 145692,
+      "num": 251634,
+      "word": "贵州一男子误触电野猪设备身亡",
+      "onboard_time": 1753455806,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145374,
       "num": 145374,
       "word": "看到评论区这么刻薄我就放心了",
@@ -11601,6 +11673,14 @@
       "onboard_time": 1753257801,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 140972,
+      "num": 201698,
+      "word": "李佳薇第二",
+      "onboard_time": 1753457066,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 140758,
@@ -12097,6 +12177,14 @@
       "onboard_time": 1753277483,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 250343,
+      "word": "良好家庭教育是教会孩子这6件事",
+      "onboard_time": 1753456166,
+      "rank": 27,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 135380,
@@ -14361,6 +14449,14 @@
       "onboard_time": 1752997101,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116441,
+      "num": 201812,
+      "word": "忍野忍",
+      "onboard_time": 1753456945,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 116360,
@@ -17019,6 +17115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87840,
+      "num": 201642,
+      "word": "泰国改口不拒绝第三方调解",
+      "onboard_time": 1753456587,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87838,
       "num": 252992,
       "word": "基孔肯雅热疫情易造成跨省传播",
@@ -17240,6 +17344,14 @@
       "word": "贵州两学校指责对方中高考造假",
       "onboard_time": 1752994941,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81953,
+      "num": 201619,
+      "word": "广州全市开展集中灭蚊行动",
+      "onboard_time": 1753457365,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -18960,6 +19072,14 @@
       "word": "公职人员送外卖也是在为人民服务",
       "onboard_time": 1753261343,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38834,
+      "num": 251469,
+      "word": "棉密码卫生巾芯片专利6年前获授权",
+      "onboard_time": 1753456286,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
