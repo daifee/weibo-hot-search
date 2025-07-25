@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753409418167,
+  "endTime": 1753410934440,
   "band_list": [
     {
       "raw_hot": 3744333,
@@ -11,8 +11,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3182402,
+      "num": 3182402,
+      "word": "山西地震",
+      "onboard_time": 1753410322,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 2683186,
-      "num": 461553,
+      "num": 2435710,
       "word": "汪苏泷方决定收回年轮授权",
       "onboard_time": 1753401021,
       "rank": 3,
@@ -107,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 495470,
+      "num": 288369,
+      "word": "大窑汽水",
+      "onboard_time": 1753407682,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 475477,
       "num": 475477,
       "word": "马斯克转发懂车帝测试",
@@ -155,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288369,
-      "num": 288369,
-      "word": "大窑汽水",
-      "onboard_time": 1753407682,
-      "rank": 17,
-      "category": "美食"
+      "raw_hot": 287404,
+      "num": 287404,
+      "word": "从哪吒2藏海传等看中国文化圈粉世界",
+      "onboard_time": 1753409482,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285566,
@@ -169,6 +185,14 @@
       "onboard_time": 1753371626,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265155,
+      "num": 242616,
+      "word": "裴秀智金宣虎要来横店拍戏",
+      "onboard_time": 1753410561,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 260919,
@@ -203,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245027,
+      "num": 245027,
+      "word": "乒超",
+      "onboard_time": 1753407863,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244436,
       "num": 244436,
       "word": "葛荟婕说女儿小苹果不想认她",
@@ -227,11 +259,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 222462,
+      "raw_hot": 222902,
       "num": 454779,
       "word": "17省区市有大到暴雨",
       "onboard_time": 1753385174,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222899,
+      "num": 222899,
+      "word": "南北方雨雨雨连成片了",
+      "onboard_time": 1753409482,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -241,6 +281,14 @@
       "onboard_time": 1753352423,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213892,
+      "num": 213892,
+      "word": "2025英雄联盟全球总决赛重返中国",
+      "onboard_time": 1753409964,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 210212,
@@ -273,14 +321,6 @@
       "onboard_time": 1753404503,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198242,
-      "num": 198242,
-      "word": "乒超",
-      "onboard_time": 1753407863,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 192101,
@@ -323,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181670,
+      "num": 181670,
+      "word": "泰军4架F16第二次空袭柬埔寨",
+      "onboard_time": 1753407083,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171363,
       "num": 238031,
       "word": "曾舜晞回应缺席庆功宴",
@@ -363,14 +411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 154211,
-      "num": 154211,
-      "word": "泰军4架F16第二次空袭柬埔寨",
-      "onboard_time": 1753407083,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151764,
       "num": 151764,
       "word": "中南大学谭某兵被暂停工作",
@@ -384,6 +424,14 @@
       "word": "8旬独居老太深夜持菜刀砍邻居门",
       "onboard_time": 1753379357,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143489,
+      "num": 143489,
+      "word": "东北大学6名遇难学生最小20岁",
+      "onboard_time": 1753403003,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -407,6 +455,14 @@
       "num": 234613,
       "word": "母亲当8岁儿子面吸毒当场被抓",
       "onboard_time": 1753363524,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133794,
+      "num": 433290,
+      "word": "通风报信致案件侦办受影响被国安处罚",
+      "onboard_time": 1753406842,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -435,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125386,
+      "num": 125386,
+      "word": "意大利一飞机俯冲坠入高速公路",
+      "onboard_time": 1753401322,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124140,
       "num": 151313,
       "word": "6名大学生溺亡涉事矿企3人被抓",
@@ -459,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120186,
+      "num": 120186,
+      "word": "00后在动物园当NPC自己成了景点",
+      "onboard_time": 1753409123,
+      "rank": 41,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 119803,
       "num": 150986,
       "word": "5年前扶贫小组欠万元餐费仍未结清",
@@ -468,7 +540,7 @@
     },
     {
       "raw_hot": 119403,
-      "num": 138088,
+      "num": 142907,
       "word": "王一博对接否认演唱会",
       "onboard_time": 1753402284,
       "rank": 28,
@@ -483,12 +555,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116360,
+      "num": 116360,
+      "word": "台风范斯高会影响江苏吗",
+      "onboard_time": 1753409662,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116357,
       "num": 117775,
       "word": "苏醒张远王栎鑫王铮亮跳扫腿舞",
       "onboard_time": 1753404563,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114616,
+      "num": 138001,
+      "word": "广东佛山基孔肯雅热确诊超3600例",
+      "onboard_time": 1753408884,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112155,
@@ -515,12 +603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107204,
-      "num": 107204,
-      "word": "意大利一飞机俯冲坠入高速公路",
-      "onboard_time": 1753401322,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 102897,
+      "num": 102897,
+      "word": "花蚊子为什么这么毒",
+      "onboard_time": 1753408463,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101869,
@@ -529,14 +617,6 @@
       "onboard_time": 1753376359,
       "rank": 8,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 100706,
-      "num": 100706,
-      "word": "东北大学6名遇难学生最小20岁",
-      "onboard_time": 1753403003,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100254,
@@ -555,20 +635,20 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 98901,
-      "num": 98901,
-      "word": "00后在动物园当NPC自己成了景点",
-      "onboard_time": 1753409123,
-      "rank": 41,
-      "category": "民生新闻,幽默"
-    },
-    {
       "raw_hot": 97262,
       "num": 151189,
       "word": "东北大学与企业曾签署实习安全协议",
       "onboard_time": 1753372883,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94918,
+      "num": 94918,
+      "word": "多博主质疑懂车帝智驾评测",
+      "onboard_time": 1753409842,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 93290,
@@ -579,12 +659,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92576,
+      "num": 92576,
+      "word": "侯明昊艾米雀骨公主抱路透",
+      "onboard_time": 1753406842,
+      "rank": 46,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 91894,
       "num": 91894,
       "word": "基孔肯雅热",
       "onboard_time": 1753406183,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91740,
+      "num": 91740,
+      "word": "第一次当猫粮好紧张",
+      "onboard_time": 1753410204,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 91707,
@@ -603,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89549,
-      "num": 89549,
-      "word": "侯明昊艾米雀骨公主抱路透",
-      "onboard_time": 1753406842,
-      "rank": 46,
-      "category": "剧集,艺人"
+      "raw_hot": 89481,
+      "num": 89481,
+      "word": "福耀科技大学河南投档线658分",
+      "onboard_time": 1753407983,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 86866,
@@ -617,14 +713,6 @@
       "onboard_time": 1753406662,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85908,
-      "num": 85908,
-      "word": "福耀科技大学河南投档线658分",
-      "onboard_time": 1753407983,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 85735,
@@ -657,14 +745,6 @@
       "onboard_time": 1753372824,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77475,
-      "num": 433290,
-      "word": "通风报信致案件侦办受影响被国安处罚",
-      "onboard_time": 1753406842,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77362,
@@ -713,14 +793,6 @@
       "onboard_time": 1753400300,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71140,
-      "num": 138001,
-      "word": "广东佛山基孔肯雅热确诊超3600例",
-      "onboard_time": 1753408884,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68149,
@@ -971,8 +1043,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 4397,
-      "num": 568383,
+      "raw_hot": 4556,
+      "num": 2640486,
       "word": "万千气象看新疆",
       "onboard_time": 1753188441,
       "rank": 2,
