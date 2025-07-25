@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753421659136,
+  "endTime": 1753422727100,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 909321,
+      "num": 238201,
+      "word": "虞书欣 天梭",
+      "onboard_time": 1753419384,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 901624,
       "num": 901624,
       "word": "樊振东vs林诗栋",
@@ -115,16 +123,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 655553,
-      "num": 238201,
-      "word": "虞书欣 天梭",
-      "onboard_time": 1753419384,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 615568,
-      "num": 235591,
+      "num": 328682,
       "word": "花千骨",
       "onboard_time": 1753419326,
       "rank": 27,
@@ -137,6 +137,14 @@
       "onboard_time": 1753362925,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609378,
+      "num": 609378,
+      "word": "演唱会被抓包出轨女高管辞职",
+      "onboard_time": 1753421305,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 602882,
@@ -163,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541440,
+      "num": 541440,
+      "word": "日本最美初中生大赛",
+      "onboard_time": 1753417524,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 528101,
+      "num": 228400,
+      "word": "爸爸一躺小孩面相都变了",
+      "onboard_time": 1753420823,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 495470,
       "num": 288369,
       "word": "大窑汽水",
@@ -187,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455802,
-      "num": 455802,
-      "word": "日本最美初中生大赛",
-      "onboard_time": 1753417524,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 455615,
       "num": 223100,
       "word": "董璇再婚后的生活状态",
@@ -217,14 +233,6 @@
       "onboard_time": 1753410983,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419230,
-      "num": 161961,
-      "word": "爸爸一躺小孩面相都变了",
-      "onboard_time": 1753420823,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 409942,
@@ -491,6 +499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 208031,
+      "num": 208031,
+      "word": "李相夷的剑舞是武侠剧一绝",
+      "onboard_time": 1753421544,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207307,
       "num": 207307,
       "word": "热依扎带5岁女儿散步",
@@ -505,6 +521,14 @@
       "onboard_time": 1753416264,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203879,
+      "num": 231369,
+      "word": "求职简历涉黄账号已被永久封禁",
+      "onboard_time": 1753418845,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203420,
@@ -563,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200404,
+      "num": 108024,
+      "word": "汪苏泷的版权意识有多强",
+      "onboard_time": 1753422442,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200322,
       "num": 200322,
       "word": "张艺兴拖拉机证还有2年到期",
@@ -585,6 +617,14 @@
       "onboard_time": 1753404503,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197088,
+      "num": 197088,
+      "word": "樊振东乒超8连胜",
+      "onboard_time": 1753422262,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 192101,
@@ -659,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182376,
-      "num": 182376,
-      "word": "演唱会被抓包出轨女高管辞职",
-      "onboard_time": 1753421305,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 182292,
       "num": 198921,
       "word": "丁禹兮小太阳",
@@ -731,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170292,
+      "num": 180241,
+      "word": "招聘平台回应一主持人简历疑似涉黄",
+      "onboard_time": 1753420943,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168558,
       "num": 251556,
       "word": "迪丽热巴吴磊 将门毒后",
@@ -787,14 +827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160040,
-      "num": 180241,
-      "word": "招聘平台回应一主持人简历疑似涉黄",
-      "onboard_time": 1753420943,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159886,
       "num": 159886,
       "word": "录取通知书切西瓜",
@@ -816,6 +848,14 @@
       "word": "入境男子体内藏毒1387.45克",
       "onboard_time": 1753418725,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159183,
+      "num": 159183,
+      "word": "准新娘上了前男友车一起上山",
+      "onboard_time": 1753422202,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -843,20 +883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153333,
-      "num": 153333,
-      "word": "求职简历涉黄账号已被永久封禁",
-      "onboard_time": 1753418845,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151764,
       "num": 151764,
       "word": "中南大学谭某兵被暂停工作",
       "onboard_time": 1753360764,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 150650,
+      "num": 150650,
+      "word": "敖瑞鹏李兰迪 开启人生新副本",
+      "onboard_time": 1753422025,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 150593,
@@ -873,6 +913,14 @@
       "onboard_time": 1753421243,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148011,
+      "num": 148011,
+      "word": "庞博想好了告别演出的名字",
+      "onboard_time": 1753422025,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 147739,
@@ -913,6 +961,14 @@
       "onboard_time": 1753403003,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142722,
+      "num": 140434,
+      "word": "男生打群架不还手被通报表扬",
+      "onboard_time": 1753421722,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 140153,
@@ -1019,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130489,
-      "num": 130489,
-      "word": "李相夷的剑舞是武侠剧一绝",
-      "onboard_time": 1753421544,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128673,
       "num": 128673,
       "word": "林诗栋vs赵子豪",
@@ -1089,6 +1137,22 @@
       "onboard_time": 1753399039,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122299,
+      "num": 122299,
+      "word": "金晨好像那个仙女在施法",
+      "onboard_time": 1753422564,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121961,
+      "num": 121961,
+      "word": "通过小帕终于知道怎么描述双相了",
+      "onboard_time": 1753422084,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 120859,
@@ -1219,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108119,
+      "num": 108119,
+      "word": "深圳大学3比0成都高新若水居",
+      "onboard_time": 1753422323,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107478,
       "num": 107478,
       "word": "暑期环切咨询涨5倍",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1753414044,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107336,
+      "num": 107336,
+      "word": "王楚钦乒超第二阶段首胜",
+      "onboard_time": 1753422504,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102897,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1753406842,
       "rank": 46,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 92242,
+      "num": 121980,
+      "word": "孙颖莎课堂开讲了",
+      "onboard_time": 1753421844,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 91894,
@@ -1427,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69690,
+      "num": 268620,
+      "word": "丁禹兮且初",
+      "onboard_time": 1753417705,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68149,
       "num": 150970,
       "word": "遭面试官殴打致腰椎骨折女子发声",
@@ -1459,14 +1555,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 66916,
-      "num": 268620,
-      "word": "丁禹兮且初",
-      "onboard_time": 1753417705,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66895,
       "num": 150734,
       "word": "straykids将回归",
@@ -1492,7 +1580,7 @@
     },
     {
       "raw_hot": 64815,
-      "num": 563631,
+      "num": 571573,
       "word": "72岁农民被授予时代楷模",
       "onboard_time": 1753378038,
       "rank": 9,
@@ -1595,7 +1683,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42088,
+      "raw_hot": 42714,
       "num": 162230,
       "word": "母女遭到出租车司机辱骂绕路甩客",
       "onboard_time": 1753420883,

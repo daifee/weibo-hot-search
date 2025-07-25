@@ -1,0 +1,410 @@
+{
+  "runTime": 1753422727100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6995536,
+        "num": 6995536,
+        "word": "张碧晨告别年轮",
+        "onboard_time": 1753412543,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 609378,
+        "num": 609378,
+        "word": "演唱会被抓包出轨女高管辞职",
+        "onboard_time": 1753421305,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37022,
+        "num": 571573,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1479815,
+        "num": 564929,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541440,
+        "num": 541440,
+        "word": "日本最美初中生大赛",
+        "onboard_time": 1753417524,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 377301,
+        "num": 377301,
+        "word": "赵子豪3比1林诗栋",
+        "onboard_time": 1753420644,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684326,
+        "num": 359721,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543902,
+        "num": 328682,
+        "word": "花千骨",
+        "onboard_time": 1753419326,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231913,
+        "num": 231913,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1753415064,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203879,
+        "num": 231369,
+        "word": "求职简历涉黄账号已被永久封禁",
+        "onboard_time": 1753418845,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909321,
+        "num": 230356,
+        "word": "虞书欣 天梭",
+        "onboard_time": 1753419384,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 705359,
+        "num": 229313,
+        "word": "众星恭喜阚清子",
+        "onboard_time": 1753413082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528101,
+        "num": 228400,
+        "word": "爸爸一躺小孩面相都变了",
+        "onboard_time": 1753420823,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194153,
+        "num": 226378,
+        "word": "从哪吒2藏海传等看中国文化圈粉世界",
+        "onboard_time": 1753409482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438262,
+        "num": 225917,
+        "word": "李思睿 年轮回家",
+        "onboard_time": 1753406003,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273483,
+        "num": 224044,
+        "word": "家属回应抬去世老人安葬路上现钉子",
+        "onboard_time": 1753414944,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254669,
+        "num": 223090,
+        "word": "姐脱了解脱了",
+        "onboard_time": 1753419745,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222563,
+        "num": 222563,
+        "word": "樊振东3比0林诗栋",
+        "onboard_time": 1753418783,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208031,
+        "num": 208031,
+        "word": "李相夷的剑舞是武侠剧一绝",
+        "onboard_time": 1753421544,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197088,
+        "num": 197088,
+        "word": "樊振东乒超8连胜",
+        "onboard_time": 1753422262,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229498,
+        "num": 190818,
+        "word": "黄仁勋称美国独特优势是特朗普总统",
+        "onboard_time": 1753419326,
+        "rank": 20,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 69690,
+        "num": 190170,
+        "word": "丁禹兮且初",
+        "onboard_time": 1753417705,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145094,
+        "num": 178272,
+        "word": "丁禹兮小太阳",
+        "onboard_time": 1753418905,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223401,
+        "num": 172966,
+        "word": "问界M8纯电版预售37.8万起",
+        "onboard_time": 1753418187,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170292,
+        "num": 170292,
+        "word": "招聘平台回应一主持人简历疑似涉黄",
+        "onboard_time": 1753420943,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159183,
+        "num": 159183,
+        "word": "准新娘上了前男友车一起上山",
+        "onboard_time": 1753422202,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150650,
+        "num": 150650,
+        "word": "敖瑞鹏李兰迪 开启人生新副本",
+        "onboard_time": 1753422025,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150532,
+        "num": 150532,
+        "word": "热依扎带5岁女儿散步",
+        "onboard_time": 1753417345,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121541,
+        "num": 149538,
+        "word": "李宇春情绪疾病更值得被正视",
+        "onboard_time": 1753420644,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149305,
+        "num": 149305,
+        "word": "肖战你还会写诗呢",
+        "onboard_time": 1753417164,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349949,
+        "num": 148939,
+        "word": "曝boss直聘再次涉黄",
+        "onboard_time": 1753364785,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 148011,
+        "num": 148011,
+        "word": "庞博想好了告别演出的名字",
+        "onboard_time": 1753422025,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142383,
+        "num": 142383,
+        "word": "成年以后还是很单纯的原因",
+        "onboard_time": 1753420823,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142722,
+        "num": 140434,
+        "word": "男生打群架不还手被通报表扬",
+        "onboard_time": 1753421722,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42714,
+        "num": 137831,
+        "word": "母女遭到出租车司机辱骂绕路甩客",
+        "onboard_time": 1753420883,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137800,
+        "num": 137800,
+        "word": "入境男子体内藏毒1387.45克",
+        "onboard_time": 1753418725,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128947,
+        "num": 128947,
+        "word": "孙颖莎平野美宇3比2李雨琪向俊霖",
+        "onboard_time": 1753415604,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122299,
+        "num": 122299,
+        "word": "金晨好像那个仙女在施法",
+        "onboard_time": 1753422564,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92242,
+        "num": 121980,
+        "word": "孙颖莎课堂开讲了",
+        "onboard_time": 1753421844,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121961,
+        "num": 121961,
+        "word": "通过小帕终于知道怎么描述双相了",
+        "onboard_time": 1753422084,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119946,
+        "num": 119946,
+        "word": "凡人修仙传",
+        "onboard_time": 1753421004,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119646,
+        "num": 119646,
+        "word": "男大学生偷穿妈妈的裙子突然被发现",
+        "onboard_time": 1753414163,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118962,
+        "num": 118962,
+        "word": "张艺兴拖拉机证还有2年到期",
+        "onboard_time": 1753416146,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114234,
+        "num": 114234,
+        "word": "综艺之神李乃文开始修仙了",
+        "onboard_time": 1753420465,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112547,
+        "num": 112547,
+        "word": "吴谦少将新任国防武官",
+        "onboard_time": 1753419985,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110429,
+        "num": 110429,
+        "word": "山西地震",
+        "onboard_time": 1753410322,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 108119,
+        "num": 108119,
+        "word": "深圳大学3比0成都高新若水居",
+        "onboard_time": 1753422323,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200404,
+        "num": 108024,
+        "word": "汪苏泷的版权意识有多强",
+        "onboard_time": 1753422442,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107447,
+        "num": 107447,
+        "word": "裴秀智金宣虎要来横店拍戏",
+        "onboard_time": 1753410561,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107336,
+        "num": 107336,
+        "word": "王楚钦乒超第二阶段首胜",
+        "onboard_time": 1753422504,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就俄客机失事向普京致慰问电#"
+    }
+  }
+}
