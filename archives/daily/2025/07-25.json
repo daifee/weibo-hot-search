@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753436871843,
+  "endTime": 1753439514559,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -139,6 +139,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 739856,
+      "num": 739856,
+      "word": "马嘉祺应援棒可以中控发消息",
+      "onboard_time": 1753438401,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 728143,
       "num": 308234,
       "word": "男子6次结婚6次离婚五任前妻都是债主",
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 542277,
+      "num": 542277,
+      "word": "iPhone17Pro橙色新配色",
+      "onboard_time": 1753435644,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 541440,
       "num": 541440,
       "word": "日本最美初中生大赛",
@@ -331,8 +347,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438165,
+      "num": 438165,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1753437983,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 429783,
+      "num": 429783,
+      "word": "张凌赫说好演员最重要的是人品",
+      "onboard_time": 1753435464,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429131,
-      "num": 429131,
+      "num": 478287,
       "word": "命真好头胎就生了个月嫂",
       "onboard_time": 1753431622,
       "rank": 30,
@@ -371,28 +403,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 369455,
-      "num": 369455,
+      "raw_hot": 375890,
+      "num": 375890,
       "word": "东北大学一溺亡学生来自黄金班",
       "onboard_time": 1753430483,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 334515,
-      "num": 334515,
-      "word": "iPhone17Pro橙色新配色",
-      "onboard_time": 1753435644,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 326319,
-      "num": 326319,
-      "word": "张凌赫说好演员最重要的是人品",
-      "onboard_time": 1753435464,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 326190,
@@ -401,6 +417,22 @@
       "onboard_time": 1753419745,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319327,
+      "num": 319327,
+      "word": "那英已读乱回",
+      "onboard_time": 1753434863,
+      "rank": 17,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 318935,
+      "num": 318935,
+      "word": "多车企回应懂车帝测试",
+      "onboard_time": 1753437443,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 304055,
@@ -587,20 +619,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249731,
+      "num": 249731,
+      "word": "Shad0w晒光头照",
+      "onboard_time": 1753437804,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248368,
       "num": 248368,
       "word": "黄仁勋称美国独特优势是特朗普总统",
       "onboard_time": 1753419326,
       "rank": 40,
       "category": "国际时政,数码"
-    },
-    {
-      "raw_hot": 246823,
-      "num": 246823,
-      "word": "那英已读乱回",
-      "onboard_time": 1753434863,
-      "rank": 17,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 245027,
@@ -617,6 +649,14 @@
       "onboard_time": 1753401683,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243849,
+      "num": 243849,
+      "word": "网易游戏",
+      "onboard_time": 1753436723,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 243284,
@@ -729,6 +769,14 @@
       "onboard_time": 1753428204,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 217247,
+      "num": 217247,
+      "word": "懂车帝",
+      "onboard_time": 1753439243,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 213892,
@@ -963,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184574,
+      "num": 184574,
+      "word": "丁禹兮居然成了姜妍的模版",
+      "onboard_time": 1753438704,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183423,
       "num": 183423,
       "word": "沈羽洁文笔",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1753403962,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160935,
+      "num": 160935,
+      "word": "王欣瑜晋级布拉格赛四强",
+      "onboard_time": 1753438464,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 159886,
@@ -1403,6 +1467,22 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 141137,
+      "num": 141137,
+      "word": "江苏天空现巨型棒棒糖云",
+      "onboard_time": 1753438223,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140162,
+      "num": 140162,
+      "word": "原来被尊重的面试是这样子的",
+      "onboard_time": 1753435823,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140153,
       "num": 140153,
       "word": "失联安徽高中生已平安回国",
@@ -1563,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129941,
+      "num": 129941,
+      "word": "众星祝希林娜依高生日快乐",
+      "onboard_time": 1753436844,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129180,
       "num": 129180,
       "word": "一起打卡昌吉玛纳斯县南部山区花海",
@@ -1675,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122864,
+      "num": 122864,
+      "word": "仙侠剧越拍越烂的真相",
+      "onboard_time": 1753437383,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122407,
       "num": 122407,
       "word": "陶琳称特斯拉不关注排名",
@@ -1721,6 +1817,14 @@
       "onboard_time": 1753414282,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120859,
+      "num": 120859,
+      "word": "河南通报下乡帮扶人员赊欠3万餐费",
+      "onboard_time": 1753437324,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 120434,
@@ -1779,6 +1883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117996,
+      "num": 117996,
+      "word": "孙颖莎把球打到王楚钦场上了",
+      "onboard_time": 1753438942,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117884,
       "num": 141933,
       "word": "王传君碰上他就演不了好人",
@@ -1819,6 +1931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115786,
+      "num": 127170,
+      "word": "曝柯淳拒绝品牌方200万合作",
+      "onboard_time": 1753438942,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 115574,
       "num": 115574,
       "word": "迅猛龙回应台湾上大学",
@@ -1827,12 +1947,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 115563,
-      "num": 115563,
-      "word": "原来被尊重的面试是这样子的",
-      "onboard_time": 1753435823,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 115252,
+      "num": 115252,
+      "word": "BLG官宣Shad0w加入",
+      "onboard_time": 1753437501,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 114652,
@@ -1849,6 +1969,14 @@
       "onboard_time": 1753408884,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114286,
+      "num": 114286,
+      "word": "丈夫摔成植物人妻子不离不弃唤醒",
+      "onboard_time": 1753439483,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 114261,
@@ -1939,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109496,
+      "num": 127753,
+      "word": "朝雪录制片人 破万是我们幸运",
+      "onboard_time": 1753438642,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109440,
       "num": 109440,
       "word": "对尺寸没概念的可以看看",
@@ -2019,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106747,
+      "num": 106747,
+      "word": "田曦薇杂志",
+      "onboard_time": 1753438464,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 104054,
       "num": 104054,
       "word": "猿辅导员工称反对穿超短裙发奖品被辞",
@@ -2083,14 +2227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100603,
-      "num": 100603,
-      "word": "众星祝希林娜依高生日快乐",
-      "onboard_time": 1753436844,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100491,
       "num": 100491,
       "word": "王楚钦回应3比2战胜徐海东",
@@ -2115,20 +2251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99209,
+      "num": 140520,
+      "word": "老人离世家中清出14卡车垃圾",
+      "onboard_time": 1753437684,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99178,
       "num": 151127,
       "word": "创始人说LABUBU缝纫机踩冒烟了",
       "onboard_time": 1753371027,
       "rank": 32,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 98839,
-      "num": 98839,
-      "word": "网易游戏",
-      "onboard_time": 1753436723,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 98302,
@@ -2377,6 +2513,14 @@
       "onboard_time": 1753426943,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70897,
+      "num": 172019,
+      "word": "他们的底片是幸福的具象化",
+      "onboard_time": 1753438344,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 69690,
