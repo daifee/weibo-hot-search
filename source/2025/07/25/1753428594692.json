@@ -1,0 +1,410 @@
+{
+  "runTime": 1753428594692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4361528,
+        "num": 4361528,
+        "word": "张碧晨告别年轮",
+        "onboard_time": 1753412543,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 824364,
+        "num": 824364,
+        "word": "爸爸烟不离手10岁儿子查出肺癌",
+        "onboard_time": 1753424062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32764,
+        "num": 754165,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1858583,
+        "num": 744486,
+        "word": "汪苏泷的版权意识有多强",
+        "onboard_time": 1753422442,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 723173,
+        "num": 723173,
+        "word": "演唱会被抓包出轨女高管辞职",
+        "onboard_time": 1753421305,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 661484,
+        "num": 661484,
+        "word": "高分考生被厦门大学马来分校误录取",
+        "onboard_time": 1753424302,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 914808,
+        "num": 471061,
+        "word": "沈佳润OneSpot韩国榜第一",
+        "onboard_time": 1753426763,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279420,
+        "num": 279420,
+        "word": "全场高喊樊振东大满贯",
+        "onboard_time": 1753426163,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1103702,
+        "num": 279347,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243056,
+        "num": 278654,
+        "word": "戒咖啡30天后身体的变化",
+        "onboard_time": 1753425623,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 515035,
+        "num": 278311,
+        "word": "东北大学官网已变黑白",
+        "onboard_time": 1753424664,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399785,
+        "num": 277415,
+        "word": "张碧晨方回应年轮原唱",
+        "onboard_time": 1753398679,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349289,
+        "num": 277201,
+        "word": "海蝶登记有年轮录音制品著作权",
+        "onboard_time": 1753428144,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362773,
+        "num": 276867,
+        "word": "众星恭喜阚清子",
+        "onboard_time": 1753413082,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329547,
+        "num": 276015,
+        "word": "爸爸一躺小孩面相都变了",
+        "onboard_time": 1753420823,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275883,
+        "num": 275883,
+        "word": "关晓彤上新了三款彩椒碗",
+        "onboard_time": 1753423463,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255042,
+        "num": 255042,
+        "word": "虞书欣 天梭",
+        "onboard_time": 1753419384,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 249167,
+        "num": 249167,
+        "word": "准新娘上了前男友车一起上山",
+        "onboard_time": 1753422202,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232975,
+        "num": 232975,
+        "word": "鸿蒙智行不予置评",
+        "onboard_time": 1753427483,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204128,
+        "num": 204128,
+        "word": "厦大马来分校称已有考生申请退档",
+        "onboard_time": 1753427363,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243284,
+        "num": 203053,
+        "word": "沈佳润原来美美桑内之父也在",
+        "onboard_time": 1753427244,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143883,
+        "num": 202217,
+        "word": "化妆店老板帮买肉被骗16万",
+        "onboard_time": 1753426523,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218377,
+        "num": 202158,
+        "word": "高露吃关晓彤同款彩椒碗",
+        "onboard_time": 1753427123,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201876,
+        "num": 201876,
+        "word": "易烊千玺北京站过审",
+        "onboard_time": 1753427963,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192121,
+        "num": 192121,
+        "word": "时代少年团国风玄衣",
+        "onboard_time": 1753428204,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186929,
+        "num": 186929,
+        "word": "孟子义说丁禹兮花开锦绣大爆",
+        "onboard_time": 1753428444,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 175703,
+        "word": "腾讯暑期档怎么了",
+        "onboard_time": 1753427544,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172156,
+        "num": 172156,
+        "word": "花千骨",
+        "onboard_time": 1753419326,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167640,
+        "num": 167640,
+        "word": "李思睿 年轮回家",
+        "onboard_time": 1753406003,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71300,
+        "num": 162839,
+        "word": "泰方警告泰柬冲突可能演变为战争",
+        "onboard_time": 1753426943,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104925,
+        "num": 162097,
+        "word": "桌子够大红黄蓝都坐得下",
+        "onboard_time": 1753423463,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161820,
+        "num": 161820,
+        "word": "遇难男生是村里第一个985大学生",
+        "onboard_time": 1753426223,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156608,
+        "num": 156608,
+        "word": "蔡依林新专",
+        "onboard_time": 1753428504,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149767,
+        "num": 149767,
+        "word": "从哪吒2藏海传等看中国文化圈粉世界",
+        "onboard_time": 1753409482,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141227,
+        "num": 141227,
+        "word": "肖战一个人演完猫和老鼠",
+        "onboard_time": 1753425323,
+        "rank": 34,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 130467,
+        "num": 130467,
+        "word": "朝雪录豆瓣开分6.4",
+        "onboard_time": 1753425743,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128869,
+        "num": 128869,
+        "word": "李一桐只顾饭撒忘记头撞车上了",
+        "onboard_time": 1753428323,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126170,
+        "num": 126170,
+        "word": "求职简历涉黄账号已被永久封禁",
+        "onboard_time": 1753418845,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73946,
+        "num": 124768,
+        "word": "霉霉男友晒了很多张合照",
+        "onboard_time": 1753427723,
+        "rank": 38,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 86582,
+        "num": 124320,
+        "word": "韩国网红怀孕36周堕胎被控谋杀",
+        "onboard_time": 1753428384,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124229,
+        "num": 124229,
+        "word": "潘宏发了接狗新规则",
+        "onboard_time": 1753423463,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121417,
+        "num": 121417,
+        "word": "赵子豪3比1林诗栋",
+        "onboard_time": 1753420644,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111874,
+        "num": 111874,
+        "word": "01年的庄达菲被叫姐姐绷不住了",
+        "onboard_time": 1753423463,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111107,
+        "num": 111107,
+        "word": "景区用拉布拉多假装藏獒",
+        "onboard_time": 1753427182,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109950,
+        "num": 109950,
+        "word": "兰香如故原著作者维权",
+        "onboard_time": 1753427244,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109920,
+        "num": 109920,
+        "word": "家属回应抬去世老人安葬路上现钉子",
+        "onboard_time": 1753414944,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109907,
+        "num": 109907,
+        "word": "樊振东3比0林诗栋",
+        "onboard_time": 1753418783,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108457,
+        "num": 108457,
+        "word": "男子被困水下溶洞5天5夜奇迹生还",
+        "onboard_time": 1753425084,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108001,
+        "num": 108001,
+        "word": "日本最美初中生大赛",
+        "onboard_time": 1753417524,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106675,
+        "num": 106675,
+        "word": "大象音乐",
+        "onboard_time": 1753423822,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就俄客机失事向普京致慰问电#"
+    }
+  }
+}
