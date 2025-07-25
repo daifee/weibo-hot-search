@@ -1,0 +1,410 @@
+{
+  "runTime": 1753442705765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2422614,
+        "num": 2422614,
+        "word": "张碧晨方称享有年轮永久演唱权利",
+        "onboard_time": 1753442423,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1955032,
+        "num": 1955032,
+        "word": "连休8天的长假来了",
+        "onboard_time": 1753431083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7503,
+        "num": 944600,
+        "word": "72岁农民被授予时代楷模",
+        "onboard_time": 1753378038,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750666,
+        "num": 750666,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1753437983,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 675965,
+        "num": 675965,
+        "word": "懂车帝",
+        "onboard_time": 1753439243,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 653514,
+        "num": 653514,
+        "word": "iPhone17Pro橙色新配色",
+        "onboard_time": 1753435644,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 374769,
+        "num": 374769,
+        "word": "丁禹兮居然成了姜妍的模版",
+        "onboard_time": 1753438704,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328738,
+        "num": 328738,
+        "word": "东北大学一溺亡学生来自黄金班",
+        "onboard_time": 1753430483,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394281,
+        "num": 328735,
+        "word": "时代少年团直播",
+        "onboard_time": 1753440503,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328710,
+        "num": 328710,
+        "word": "面馆老板已下架48元一杯茅台",
+        "onboard_time": 1753430843,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325372,
+        "num": 325372,
+        "word": "肖战的摄影作品参展",
+        "onboard_time": 1753441584,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312677,
+        "num": 312677,
+        "word": "马嘉祺应援棒可以中控发消息",
+        "onboard_time": 1753438401,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272501,
+        "num": 272501,
+        "word": "多车企回应懂车帝测试",
+        "onboard_time": 1753437443,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 257480,
+        "num": 257480,
+        "word": "韩国网红怀孕36周堕胎被控谋杀",
+        "onboard_time": 1753428384,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256335,
+        "num": 256335,
+        "word": "网易游戏",
+        "onboard_time": 1753436723,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1121430,
+        "num": 254118,
+        "word": "花千骨制片人回应年轮争议",
+        "onboard_time": 1753434384,
+        "rank": 15,
+        "category": "音乐,剧集"
+      },
+      {
+        "raw_hot": 233876,
+        "num": 233876,
+        "word": "T1战胜GEN",
+        "onboard_time": 1753440623,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202481,
+        "num": 202481,
+        "word": "命真好头胎就生了个月嫂",
+        "onboard_time": 1753431622,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72514,
+        "num": 201262,
+        "word": "跟胡连馨学拍生命力照片",
+        "onboard_time": 1753439903,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145698,
+        "num": 200217,
+        "word": "河南通报下乡帮扶人员赊欠3万餐费",
+        "onboard_time": 1753437324,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1888047,
+        "num": 197866,
+        "word": "张碧晨告别年轮",
+        "onboard_time": 1753412543,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212754,
+        "num": 195182,
+        "word": "张凌赫说好演员最重要的是人品",
+        "onboard_time": 1753435464,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435071,
+        "num": 192927,
+        "word": "汪苏泷方决定收回年轮授权",
+        "onboard_time": 1753401021,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219201,
+        "num": 191235,
+        "word": "沈佳润OneSpot韩国榜第一",
+        "onboard_time": 1753426763,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189207,
+        "num": 189207,
+        "word": "海蝶登记有年轮录音制品著作权",
+        "onboard_time": 1753428144,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188610,
+        "num": 188610,
+        "word": "泡泡玛特 周深",
+        "onboard_time": 1753440023,
+        "rank": 25,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 183560,
+        "num": 183560,
+        "word": "邓为银白发直播",
+        "onboard_time": 1753441824,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419295,
+        "num": 179608,
+        "word": "汪苏泷的版权意识有多强",
+        "onboard_time": 1753422442,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157837,
+        "num": 174176,
+        "word": "爸爸烟不离手10岁儿子查出肺癌",
+        "onboard_time": 1753424062,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101550,
+        "num": 173823,
+        "word": "居民称500万只蝎子养殖场被冲毁",
+        "onboard_time": 1753440863,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173790,
+        "num": 173790,
+        "word": "彭昱畅怎么又瘦了",
+        "onboard_time": 1753441044,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173208,
+        "num": 173208,
+        "word": "歌手直播",
+        "onboard_time": 1753442423,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69951,
+        "num": 171145,
+        "word": "首战世锦赛12岁中国姑娘于子迪",
+        "onboard_time": 1753442483,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170525,
+        "num": 170525,
+        "word": "tzym 菜",
+        "onboard_time": 1753441584,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161068,
+        "num": 161068,
+        "word": "清融假装上班",
+        "onboard_time": 1753441466,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154334,
+        "num": 159617,
+        "word": "王楚然被雨幕隔绝的油画美人",
+        "onboard_time": 1753441343,
+        "rank": 35,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 159451,
+        "num": 159451,
+        "word": "那英已读乱回",
+        "onboard_time": 1753434863,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 68425,
+        "num": 158128,
+        "word": "仁义礼智信最讽刺的一段",
+        "onboard_time": 1753441584,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158113,
+        "num": 158113,
+        "word": "Rapeter和SharK来看严浩翔了",
+        "onboard_time": 1753442544,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154743,
+        "num": 154743,
+        "word": "宋慧乔瘦成这样了",
+        "onboard_time": 1753431503,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138796,
+        "num": 138796,
+        "word": "孙颖莎把球打到王楚钦场上了",
+        "onboard_time": 1753438942,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135667,
+        "num": 135667,
+        "word": "女子1年半内家里4人确诊癌症",
+        "onboard_time": 1753432283,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 133787,
+        "num": 133787,
+        "word": "慕容云海 喂你好",
+        "onboard_time": 1753439543,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132704,
+        "num": 132704,
+        "word": "曝柯淳拒绝品牌方200万合作",
+        "onboard_time": 1753438942,
+        "rank": 43,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 132427,
+        "num": 132427,
+        "word": "Shad0w晒光头照",
+        "onboard_time": 1753437804,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123138,
+        "num": 123138,
+        "word": "网易游戏遭大量玩家维权",
+        "onboard_time": 1753442664,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121775,
+        "num": 121775,
+        "word": "仙侠剧越拍越烂的真相",
+        "onboard_time": 1753437383,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45569,
+        "num": 121198,
+        "word": "林高远徐海东vs郭勇温瑞博",
+        "onboard_time": 1753441404,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120723,
+        "num": 120723,
+        "word": "EWC选手评选王者荣耀现役第一人",
+        "onboard_time": 1753442004,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107546,
+        "num": 107546,
+        "word": "TTG对战NOVA",
+        "onboard_time": 1753440563,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受16位驻华大使递交国书#"
+    }
+  }
+}

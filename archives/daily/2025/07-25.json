@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753440584650,
+  "endTime": 1753442705765,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -40,6 +40,14 @@
       "word": "汪苏泷方决定收回年轮授权",
       "onboard_time": 1753401021,
       "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 2422614,
+      "num": 2422614,
+      "word": "张碧晨方称享有年轮永久演唱权利",
+      "onboard_time": 1753442423,
+      "rank": 0,
       "category": "音乐"
     },
     {
@@ -139,6 +147,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 750666,
+      "num": 750666,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1753437983,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 739856,
       "num": 739856,
       "word": "马嘉祺应援棒可以中控发消息",
@@ -163,14 +179,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 716427,
-      "num": 716427,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1753437983,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 706869,
       "num": 321074,
       "word": "东北大学获救老师被截肢是谣言",
@@ -185,6 +193,14 @@
       "onboard_time": 1753399099,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 675965,
+      "num": 675965,
+      "word": "懂车帝",
+      "onboard_time": 1753439243,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 665080,
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394281,
+      "num": 328735,
+      "word": "时代少年团直播",
+      "onboard_time": 1753440503,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 387644,
       "num": 387644,
       "word": "鸿蒙智行不予置评",
@@ -411,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366327,
-      "num": 366327,
-      "word": "懂车帝",
-      "onboard_time": 1753439243,
-      "rank": 18,
-      "category": "汽车"
+      "raw_hot": 374769,
+      "num": 374769,
+      "word": "丁禹兮居然成了姜妍的模版",
+      "onboard_time": 1753438704,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 326190,
@@ -425,6 +449,14 @@
       "onboard_time": 1753419745,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325372,
+      "num": 325372,
+      "word": "肖战的摄影作品参展",
+      "onboard_time": 1753441584,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 321195,
@@ -699,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233876,
+      "num": 233876,
+      "word": "T1战胜GEN",
+      "onboard_time": 1753440623,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233665,
       "num": 233665,
       "word": "韩国一斯里兰卡籍工人遭同事霸凌",
@@ -721,14 +761,6 @@
       "onboard_time": 1753427963,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 224897,
-      "num": 190587,
-      "word": "丁禹兮居然成了姜妍的模版",
-      "onboard_time": 1753438704,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 224798,
@@ -1003,14 +1035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188897,
-      "num": 188897,
-      "word": "时代少年团直播",
-      "onboard_time": 1753440503,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 186995,
       "num": 183049,
       "word": "南京照相馆",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1753363944,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183560,
+      "num": 183560,
+      "word": "邓为银白发直播",
+      "onboard_time": 1753441824,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183423,
@@ -1139,12 +1171,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173790,
+      "num": 173790,
+      "word": "彭昱畅怎么又瘦了",
+      "onboard_time": 1753441044,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173208,
+      "num": 173208,
+      "word": "歌手直播",
+      "onboard_time": 1753442423,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171363,
       "num": 238031,
       "word": "曾舜晞回应缺席庆功宴",
       "onboard_time": 1753368925,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170525,
+      "num": 170525,
+      "word": "tzym 菜",
+      "onboard_time": 1753441584,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 170411,
@@ -1235,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161068,
+      "num": 161068,
+      "word": "清融假装上班",
+      "onboard_time": 1753441466,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160961,
       "num": 160961,
       "word": "泰柬边境再次交火",
@@ -1299,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158113,
+      "num": 158113,
+      "word": "Rapeter和SharK来看严浩翔了",
+      "onboard_time": 1753442544,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155766,
       "num": 155766,
       "word": "你买东西的网店可能是骗子开的",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1753438942,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154334,
+      "num": 159617,
+      "word": "王楚然被雨幕隔绝的油画美人",
+      "onboard_time": 1753441343,
+      "rank": 35,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 153784,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1753410983,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145698,
+      "num": 200217,
+      "word": "河南通报下乡帮扶人员赊欠3万餐费",
+      "onboard_time": 1753437324,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 144808,
@@ -1667,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132704,
+      "num": 132704,
+      "word": "曝柯淳拒绝品牌方200万合作",
+      "onboard_time": 1753438942,
+      "rank": 39,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 131741,
       "num": 131741,
       "word": "扫毒风暴卢少骅被判死刑",
@@ -1795,14 +1891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124924,
-      "num": 127170,
-      "word": "曝柯淳拒绝品牌方200万合作",
-      "onboard_time": 1753438942,
-      "rank": 39,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 124549,
       "num": 124549,
       "word": "谁拍的周翊然出来挨夸",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1753399039,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123138,
+      "num": 123138,
+      "word": "网易游戏遭大量玩家维权",
+      "onboard_time": 1753442664,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 122407,
@@ -1883,12 +1979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120859,
-      "num": 120859,
-      "word": "河南通报下乡帮扶人员赊欠3万餐费",
-      "onboard_time": 1753437324,
-      "rank": 42,
-      "category": "辟谣/通报"
+      "raw_hot": 120723,
+      "num": 120723,
+      "word": "EWC选手评选王者荣耀现役第一人",
+      "onboard_time": 1753442004,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 120434,
@@ -2267,6 +2363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 101550,
+      "num": 173823,
+      "word": "居民称500万只蝎子养殖场被冲毁",
+      "onboard_time": 1753440863,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100645,
       "num": 100645,
       "word": "女子被蜜蜂蜇伤全身取出52枚蜂针",
@@ -2563,6 +2667,14 @@
       "category": "剧集,互联网"
     },
     {
+      "raw_hot": 72514,
+      "num": 201262,
+      "word": "跟胡连馨学拍生命力照片",
+      "onboard_time": 1753439903,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72493,
       "num": 72493,
       "word": "小猫把两只脚丫晃来晃去",
@@ -2587,12 +2699,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69951,
+      "num": 171145,
+      "word": "首战世锦赛12岁中国姑娘于子迪",
+      "onboard_time": 1753442483,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69690,
       "num": 268620,
       "word": "丁禹兮且初",
       "onboard_time": 1753417705,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68425,
+      "num": 158128,
+      "word": "仁义礼智信最讽刺的一段",
+      "onboard_time": 1753441584,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 68149,
@@ -2691,14 +2819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61023,
-      "num": 191633,
-      "word": "跟胡连馨学拍生命力照片",
-      "onboard_time": 1753439903,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59516,
       "num": 122052,
       "word": "于适火把节切姬发小号",
@@ -2793,6 +2913,14 @@
       "onboard_time": 1753361905,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 45569,
+      "num": 121198,
+      "word": "林高远徐海东vs郭勇温瑞博",
+      "onboard_time": 1753441404,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 44007,
