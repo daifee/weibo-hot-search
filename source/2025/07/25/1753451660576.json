@@ -1,0 +1,410 @@
+{
+  "runTime": 1753451660576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7434446,
+        "num": 7434446,
+        "word": "张碧晨方称享有年轮永久演唱权利",
+        "onboard_time": 1753442423,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2048531,
+        "num": 2048531,
+        "word": "ALin又秒了",
+        "onboard_time": 1753449567,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47638,
+        "num": 1404917,
+        "word": "打卡夏天里的大美中国",
+        "onboard_time": 1753451368,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855162,
+        "num": 855162,
+        "word": "连休8天的长假来了",
+        "onboard_time": 1753431083,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406692,
+        "num": 406692,
+        "word": "iPhone17Pro橙色新配色",
+        "onboard_time": 1753435644,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 311515,
+        "num": 406631,
+        "word": "懂车帝",
+        "onboard_time": 1753439243,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2167078,
+        "num": 406074,
+        "word": "汪苏泷说深圳不怕影子斜",
+        "onboard_time": 1753445365,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1336399,
+        "num": 405936,
+        "word": "歌手直播",
+        "onboard_time": 1753442423,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287695,
+        "num": 405448,
+        "word": "24岁女外卖员落水2天后遗体找到",
+        "onboard_time": 1753444046,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242547,
+        "num": 405060,
+        "word": "中国黄金内蒙古矿业安全副总发声",
+        "onboard_time": 1753447824,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1243837,
+        "num": 404838,
+        "word": "难听",
+        "onboard_time": 1753447706,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 922119,
+        "num": 404518,
+        "word": "单依纯 邓丽君",
+        "onboard_time": 1753451488,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 883268,
+        "num": 404024,
+        "word": "汪苏泷年轮大合唱",
+        "onboard_time": 1753448487,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 739995,
+        "num": 403881,
+        "word": "花千骨只用过张碧晨版年轮",
+        "onboard_time": 1753449807,
+        "rank": 13,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 289087,
+        "num": 403403,
+        "word": "网易游戏一年不登录或被删除账号",
+        "onboard_time": 1753449208,
+        "rank": 14,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 203867,
+        "num": 403236,
+        "word": "女外卖员疑送餐途中坠河失联",
+        "onboard_time": 1753445905,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200323,
+        "num": 402759,
+        "word": "樊振东削球",
+        "onboard_time": 1753447467,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171213,
+        "num": 402382,
+        "word": "孙颖莎把球打到王楚钦场上了",
+        "onboard_time": 1753438942,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47024,
+        "num": 402259,
+        "word": "酸酸乳瓶实力好喝",
+        "onboard_time": 1753448428,
+        "rank": 18,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 81021,
+        "num": 401857,
+        "word": "网传学生遇难企业3人被刑拘消息不实",
+        "onboard_time": 1753450288,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757178,
+        "num": 401419,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1753437983,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 548002,
+        "num": 401125,
+        "word": "马嘉祺我爱他",
+        "onboard_time": 1753449868,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 506400,
+        "num": 400697,
+        "word": "林志炫 破音",
+        "onboard_time": 1753447467,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604163,
+        "num": 400552,
+        "word": "陈楚生 换气声",
+        "onboard_time": 1753450888,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516105,
+        "num": 400022,
+        "word": "鹿晗腹肌",
+        "onboard_time": 1753450288,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 510577,
+        "num": 399985,
+        "word": "孩子撞见爸爸出轨半夜被赶出家门",
+        "onboard_time": 1753443686,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399656,
+        "num": 399656,
+        "word": "讨厌红楼梦",
+        "onboard_time": 1753449687,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41591,
+        "num": 362559,
+        "word": "行进看中国",
+        "onboard_time": 1753450888,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359382,
+        "num": 359382,
+        "word": "花千骨制片人回应年轮争议",
+        "onboard_time": 1753434384,
+        "rank": 28,
+        "category": "音乐,剧集"
+      },
+      {
+        "raw_hot": 22065,
+        "num": 356103,
+        "word": "老人热衷购物投资深信只涨不跌",
+        "onboard_time": 1753450408,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255423,
+        "num": 355830,
+        "word": "东京性交易场所成游客著名景点",
+        "onboard_time": 1753446986,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355662,
+        "num": 355662,
+        "word": "董璇自曝再婚后与丈夫分开住",
+        "onboard_time": 1753447227,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344236,
+        "num": 344236,
+        "word": "陈楚生C位",
+        "onboard_time": 1753448487,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330764,
+        "num": 330764,
+        "word": "海泉编曲不错 唱得不行",
+        "onboard_time": 1753448787,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329140,
+        "num": 329140,
+        "word": "时代少年团节目单",
+        "onboard_time": 1753446146,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306742,
+        "num": 306742,
+        "word": "道枝骏佑直播",
+        "onboard_time": 1753449388,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266031,
+        "num": 266031,
+        "word": "年轮 好听",
+        "onboard_time": 1753446146,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218932,
+        "num": 218932,
+        "word": "华山论剑定档",
+        "onboard_time": 1753449927,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49737,
+        "num": 211443,
+        "word": "老人卧床多年跟保姆结婚并赠与房产",
+        "onboard_time": 1753451607,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123776,
+        "num": 208267,
+        "word": "孙颖莎鼓掌致意",
+        "onboard_time": 1753450949,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207766,
+        "num": 207766,
+        "word": "Grace好听",
+        "onboard_time": 1753451126,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207392,
+        "num": 207392,
+        "word": "行走的鱼",
+        "onboard_time": 1753451488,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203952,
+        "num": 203952,
+        "word": "宋亚轩神级ending",
+        "onboard_time": 1753450647,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143886,
+        "num": 203429,
+        "word": "沈星回",
+        "onboard_time": 1753446447,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136097,
+        "num": 200265,
+        "word": "网易游戏遭大量玩家维权",
+        "onboard_time": 1753442664,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126045,
+        "num": 197991,
+        "word": "大学生溺亡位置偏离了绿色参观通道",
+        "onboard_time": 1753448728,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125542,
+        "num": 195391,
+        "word": "深圳大学1比1山东鲁能",
+        "onboard_time": 1753448126,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123426,
+        "num": 193497,
+        "word": "医院丢弃CT机已无使用价值",
+        "onboard_time": 1753448187,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119147,
+        "num": 191301,
+        "word": "当狗咖送走了最后一位客人",
+        "onboard_time": 1753451549,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114924,
+        "num": 187912,
+        "word": "泰方已有超13万民众撤离",
+        "onboard_time": 1753448004,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受16位驻华大使递交国书#"
+    }
+  }
+}

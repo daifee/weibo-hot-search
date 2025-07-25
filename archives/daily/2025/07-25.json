@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753450938100,
+  "endTime": 1753451660576,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 922119,
+      "num": 404518,
+      "word": "单依纯 邓丽君",
+      "onboard_time": 1753451488,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 909321,
       "num": 255042,
       "word": "虞书欣 天梭",
@@ -201,6 +209,14 @@
       "onboard_time": 1753364785,
       "rank": 10,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 739995,
+      "num": 481565,
+      "word": "花千骨只用过张碧晨版年轮",
+      "onboard_time": 1753449807,
+      "rank": 22,
+      "category": "剧集,音乐"
     },
     {
       "raw_hot": 739856,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604163,
+      "num": 400552,
+      "word": "陈楚生 换气声",
+      "onboard_time": 1753450888,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 602882,
       "num": 602882,
       "word": "易烊千玺演唱会480的票闲鱼卖6800",
@@ -379,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 516105,
+      "num": 400022,
+      "word": "鹿晗腹肌",
+      "onboard_time": 1753450288,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 495470,
       "num": 288369,
       "word": "大窑汽水",
@@ -393,14 +425,6 @@
       "onboard_time": 1753431503,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 481565,
-      "num": 481565,
-      "word": "花千骨只用过张碧晨版年轮",
-      "onboard_time": 1753449807,
-      "rank": 22,
-      "category": "剧集,音乐"
     },
     {
       "raw_hot": 475477,
@@ -617,14 +641,6 @@
       "onboard_time": 1753434863,
       "rank": 17,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 314052,
-      "num": 314052,
-      "word": "鹿晗腹肌",
-      "onboard_time": 1753450288,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 311677,
@@ -1107,6 +1123,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207766,
+      "num": 207766,
+      "word": "Grace好听",
+      "onboard_time": 1753451126,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207392,
+      "num": 207392,
+      "word": "行走的鱼",
+      "onboard_time": 1753451488,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207307,
       "num": 207307,
       "word": "热依扎带5岁女儿散步",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1753416264,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203952,
+      "num": 203952,
+      "word": "宋亚轩神级ending",
+      "onboard_time": 1753450647,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 203420,
@@ -1459,14 +1499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178184,
-      "num": 178184,
-      "word": "陈楚生 换气声",
-      "onboard_time": 1753450888,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177643,
       "num": 461995,
       "word": "孙颖莎把球打到王楚钦场上了",
@@ -1692,7 +1724,7 @@
     },
     {
       "raw_hot": 156449,
-      "num": 156449,
+      "num": 195391,
       "word": "深圳大学1比1山东鲁能",
       "onboard_time": 1753448126,
       "rank": 45,
@@ -2172,7 +2204,7 @@
     },
     {
       "raw_hot": 128786,
-      "num": 175130,
+      "num": 193497,
       "word": "医院丢弃CT机已无使用价值",
       "onboard_time": 1753448187,
       "rank": 46,
@@ -2227,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126045,
+      "num": 197991,
+      "word": "大学生溺亡位置偏离了绿色参观通道",
+      "onboard_time": 1753448728,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125520,
       "num": 125520,
       "word": "孙颖莎又把自己打笑了",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1753423884,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123776,
+      "num": 208267,
+      "word": "孙颖莎鼓掌致意",
+      "onboard_time": 1753450949,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 123488,
@@ -2395,6 +2443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119147,
+      "num": 191301,
+      "word": "当狗咖送走了最后一位客人",
+      "onboard_time": 1753451549,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118755,
       "num": 118755,
       "word": "智界汽车不予置评",
@@ -2483,12 +2539,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 115415,
-      "num": 172566,
-      "word": "大学生溺亡位置偏离了绿色参观通道",
-      "onboard_time": 1753448728,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 114924,
+      "num": 380200,
+      "word": "泰方已有超13万民众撤离",
+      "onboard_time": 1753448004,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114652,
@@ -2529,14 +2585,6 @@
       "onboard_time": 1753431863,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 114090,
-      "num": 380200,
-      "word": "泰方已有超13万民众撤离",
-      "onboard_time": 1753448004,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113637,
@@ -3067,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81021,
+      "num": 554305,
+      "word": "网传学生遇难企业3人被刑拘消息不实",
+      "onboard_time": 1753450288,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80897,
       "num": 143224,
       "word": "歌手终极揭榜赛顺序",
@@ -3121,14 +3177,6 @@
       "onboard_time": 1753367310,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 74500,
-      "num": 554305,
-      "word": "网传学生遇难企业3人被刑拘消息不实",
-      "onboard_time": 1753450288,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73946,
@@ -3395,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49737,
+      "num": 211443,
+      "word": "老人卧床多年跟保姆结婚并赠与房产",
+      "onboard_time": 1753451607,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49481,
       "num": 216216,
       "word": "宜宾警方通报女外卖员落水身亡",
@@ -3409,6 +3465,14 @@
       "onboard_time": 1753361905,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 47638,
+      "num": 1404917,
+      "word": "打卡夏天里的大美中国",
+      "onboard_time": 1753451368,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45569,
@@ -3457,6 +3521,14 @@
       "onboard_time": 1753374142,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41591,
+      "num": 2272370,
+      "word": "行进看中国",
+      "onboard_time": 1753450888,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39509,
@@ -3539,20 +3611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26383,
-      "num": 2272370,
-      "word": "行进看中国",
-      "onboard_time": 1753450888,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22241,
       "num": 43987,
       "word": "欧盟通过对美关税反制计划",
       "onboard_time": 1753387635,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22065,
+      "num": 383065,
+      "word": "老人热衷购物投资深信只涨不跌",
+      "onboard_time": 1753450408,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21736,
@@ -3585,14 +3657,6 @@
       "onboard_time": 1753381036,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19076,
-      "num": 383065,
-      "word": "老人热衷购物投资深信只涨不跌",
-      "onboard_time": 1753450408,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17648,
