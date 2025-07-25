@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753442705765,
+  "endTime": 1753443630140,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -25,6 +25,14 @@
       "onboard_time": 1753011141,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 8266287,
+      "num": 8266287,
+      "word": "张碧晨方称享有年轮永久演唱权利",
+      "onboard_time": 1753442423,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 4633697,
@@ -193,14 +201,6 @@
       "onboard_time": 1752979100,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2422614,
-      "num": 2422614,
-      "word": "张碧晨方称享有年轮永久演唱权利",
-      "onboard_time": 1753442423,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 2309264,
@@ -1075,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 910207,
+      "num": 910207,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1753333342,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 909321,
       "num": 255042,
       "word": "虞书欣 天梭",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1753272442,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 750666,
-      "num": 750666,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1753333342,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 748814,
@@ -2755,6 +2755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 485135,
+      "num": 485135,
+      "word": "歌手直播",
+      "onboard_time": 1753442423,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484688,
       "num": 407587,
       "word": "杨幂 王牌9",
@@ -3803,6 +3811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 349277,
+      "num": 325372,
+      "word": "肖战的摄影作品参展",
+      "onboard_time": 1753441584,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347870,
       "num": 347870,
       "word": "郝蕾直播录制当众甩脸",
@@ -4089,14 +4105,6 @@
       "onboard_time": 1753237280,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325372,
-      "num": 325372,
-      "word": "肖战的摄影作品参展",
-      "onboard_time": 1753441584,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 325352,
@@ -6355,6 +6363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209821,
+      "num": 209821,
+      "word": "Rapeter和SharK来看严浩翔了",
+      "onboard_time": 1753442544,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209208,
       "num": 209208,
       "word": "花蚊子 基孔肯雅热",
@@ -7201,6 +7217,14 @@
       "onboard_time": 1753024403,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193080,
+      "num": 193080,
+      "word": "九尾去歌手现场纯欣赏",
+      "onboard_time": 1753443386,
+      "rank": 17,
+      "category": "电竞,综艺"
     },
     {
       "raw_hot": 192958,
@@ -8547,14 +8571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173208,
-      "num": 173208,
-      "word": "歌手直播",
-      "onboard_time": 1753442423,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172773,
       "num": 172773,
       "word": "王俊凯入场生频",
@@ -9531,6 +9547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159557,
+      "num": 200217,
+      "word": "河南通报下乡帮扶人员赊欠3万餐费",
+      "onboard_time": 1753437324,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 159405,
       "num": 232594,
       "word": "招考院回应389分捡漏郑州大学",
@@ -9617,14 +9641,6 @@
       "onboard_time": 1752979222,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158113,
-      "num": 158113,
-      "word": "Rapeter和SharK来看严浩翔了",
-      "onboard_time": 1753442544,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 158080,
@@ -10049,6 +10065,14 @@
       "onboard_time": 1753009342,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152518,
+      "num": 152518,
+      "word": "网易游戏遭大量玩家维权",
+      "onboard_time": 1753442664,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 152450,
@@ -10681,14 +10705,6 @@
       "onboard_time": 1753093941,
       "rank": 36,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 145698,
-      "num": 200217,
-      "word": "河南通报下乡帮扶人员赊欠3万餐费",
-      "onboard_time": 1753437324,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 145374,
@@ -11867,6 +11883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132941,
+      "num": 132941,
+      "word": "樊振东vs李天阳",
+      "onboard_time": 1753442843,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132704,
       "num": 132704,
       "word": "曝柯淳拒绝品牌方200万合作",
@@ -12947,14 +12971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123138,
-      "num": 123138,
-      "word": "网易游戏遭大量玩家维权",
-      "onboard_time": 1753442664,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 123039,
       "num": 123039,
       "word": "四个月宝宝记仇了这是咋回事",
@@ -13521,6 +13537,14 @@
       "onboard_time": 1753079661,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118310,
+      "num": 118310,
+      "word": "孙颖莎嘟嘟脸好可爱",
+      "onboard_time": 1753443446,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 118301,
@@ -15323,6 +15347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102369,
+      "num": 102369,
+      "word": "F1",
+      "onboard_time": 1753443565,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102269,
       "num": 258308,
       "word": "田某明故意杀人案择期宣判",
@@ -15601,6 +15633,14 @@
       "onboard_time": 1753321524,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99119,
+      "num": 99119,
+      "word": "0成本让痘印自愈的行为",
+      "onboard_time": 1753443565,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 99011,
@@ -16569,6 +16609,14 @@
       "onboard_time": 1753003762,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80237,
+      "num": 285669,
+      "word": "警方提醒陌生人共享屏幕是诈骗",
+      "onboard_time": 1753443024,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79926,
@@ -17697,6 +17745,14 @@
       "onboard_time": 1753243283,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51873,
+      "num": 183186,
+      "word": "东北大学黄金班成绩均在本专业前50%",
+      "onboard_time": 1753443146,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51272,

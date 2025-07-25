@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753442705765,
+  "endTime": 1753443630140,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -113,6 +113,14 @@
       "onboard_time": 1751843478,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 8266287,
+      "num": 8266287,
+      "word": "张碧晨方称享有年轮永久演唱权利",
+      "onboard_time": 1753442423,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 7611710,
@@ -569,14 +577,6 @@
       "onboard_time": 1751767582,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2422614,
-      "num": 2422614,
-      "word": "张碧晨方称享有年轮永久演唱权利",
-      "onboard_time": 1753442423,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 2359704,
@@ -4723,6 +4723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 910207,
+      "num": 910207,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1753333342,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 909321,
       "num": 255042,
       "word": "虞书欣 天梭",
@@ -6233,14 +6241,6 @@
       "onboard_time": 1753272442,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 750666,
-      "num": 750666,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1753333342,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 750350,
@@ -16779,6 +16779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 349277,
+      "num": 325372,
+      "word": "肖战的摄影作品参展",
+      "onboard_time": 1753441584,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349035,
       "num": 349035,
       "word": "王牌对王牌9摇人",
@@ -18073,14 +18081,6 @@
       "onboard_time": 1752404901,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325372,
-      "num": 325372,
-      "word": "肖战的摄影作品参展",
-      "onboard_time": 1753441584,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 325352,
@@ -28115,6 +28115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209821,
+      "num": 209821,
+      "word": "Rapeter和SharK来看严浩翔了",
+      "onboard_time": 1753442544,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209810,
       "num": 324409,
       "word": "蔡徐坤respect派克特我相信",
@@ -32209,6 +32217,14 @@
       "onboard_time": 1753024403,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193080,
+      "num": 193080,
+      "word": "九尾去歌手现场纯欣赏",
+      "onboard_time": 1753443386,
+      "rank": 17,
+      "category": "电竞,综艺"
     },
     {
       "raw_hot": 193059,
@@ -41619,6 +41635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159557,
+      "num": 200217,
+      "word": "河南通报下乡帮扶人员赊欠3万餐费",
+      "onboard_time": 1753437324,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 159546,
       "num": 166830,
       "word": "胡先煦是来加入这个家的",
@@ -42097,14 +42121,6 @@
       "onboard_time": 1751735179,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158113,
-      "num": 158113,
-      "word": "Rapeter和SharK来看严浩翔了",
-      "onboard_time": 1753442544,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 158080,
@@ -43985,6 +44001,14 @@
       "onboard_time": 1752110301,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152518,
+      "num": 152518,
+      "word": "网易游戏遭大量玩家维权",
+      "onboard_time": 1753442664,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 152516,
@@ -46705,14 +46729,6 @@
       "onboard_time": 1751429843,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145698,
-      "num": 200217,
-      "word": "河南通报下乡帮扶人员赊欠3万餐费",
-      "onboard_time": 1753437324,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 145539,
@@ -51899,6 +51915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132941,
+      "num": 132941,
+      "word": "樊振东vs李天阳",
+      "onboard_time": 1753442843,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "香奈儿镜头拉近美我一大跳",
@@ -56563,14 +56587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 123138,
-      "num": 123138,
-      "word": "网易游戏遭大量玩家维权",
-      "onboard_time": 1753442664,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 123075,
       "num": 123075,
       "word": "几道题做下来感觉我要本升幼了",
@@ -59065,6 +59081,14 @@
       "onboard_time": 1751839395,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118310,
+      "num": 118310,
+      "word": "孙颖莎嘟嘟脸好可爱",
+      "onboard_time": 1753443446,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 118301,
@@ -67843,6 +67867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99119,
+      "num": 99119,
+      "word": "0成本让痘印自愈的行为",
+      "onboard_time": 1753443565,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 99096,
       "num": 236047,
       "word": "何惟芳开芳园六郎可以开茶园",
@@ -72297,6 +72329,14 @@
       "onboard_time": 1752579142,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80237,
+      "num": 285669,
+      "word": "警方提醒陌生人共享屏幕是诈骗",
+      "onboard_time": 1753443024,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80187,
@@ -77153,6 +77193,14 @@
       "onboard_time": 1752819502,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51873,
+      "num": 183186,
+      "word": "东北大学黄金班成绩均在本专业前50%",
+      "onboard_time": 1753443146,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51870,

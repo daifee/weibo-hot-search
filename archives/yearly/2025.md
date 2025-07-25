@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/07/25 19:25:05
+本榜单时间：2025/01/01 00:26:38 ~ 2025/07/25 19:40:30
 </p>
 </blockquote>
 <p>
@@ -927,6 +927,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9%23" target="weibo">
+张碧晨方称享有年轮永久演唱权利（热度：8266287）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B7%E4%BF%8A%E6%99%94%E5%9B%9E%E5%BA%94%E5%A4%A7S%E5%8E%BB%E4%B8%96%23" target="weibo">
 具俊晔回应大S去世（热度：8226159）
 </a>
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7%E4%BB%B7%E6%A0%BC%23" target="weibo">
 小米YU7价格（热度：3737321）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%B8%88%E5%A4%A7%23" target="weibo">
-南师大（热度：3735413）
 </a>
 </li>
 
