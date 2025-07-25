@@ -1,6 +1,6 @@
 {
   "startTime": 1753374801114,
-  "endTime": 1753428594692,
+  "endTime": 1753429444185,
   "band_list": [
     {
       "raw_hot": 10742821,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1159784,
-      "num": 276867,
+      "num": 348951,
       "word": "众星恭喜阚清子",
       "onboard_time": 1753413082,
       "rank": 10,
@@ -75,12 +75,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 914808,
+      "raw_hot": 995926,
       "num": 471061,
       "word": "沈佳润OneSpot韩国榜第一",
       "onboard_time": 1753426763,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 942886,
+      "num": 942886,
+      "word": "爸爸烟不离手10岁儿子查出肺癌",
+      "onboard_time": 1753424062,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 909321,
@@ -113,14 +121,6 @@
       "onboard_time": 1753364785,
       "rank": 10,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 824364,
-      "num": 824364,
-      "word": "爸爸烟不离手10岁儿子查出肺癌",
-      "onboard_time": 1753424062,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 728143,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 605521,
+      "num": 409944,
+      "word": "东北大学官网已变黑白",
+      "onboard_time": 1753424664,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 602882,
       "num": 602882,
       "word": "易烊千玺演唱会480的票闲鱼卖6800",
@@ -193,6 +201,14 @@
       "onboard_time": 1753406723,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 552570,
+      "num": 380869,
+      "word": "海蝶登记有年轮录音制品著作权",
+      "onboard_time": 1753428144,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 547397,
@@ -212,19 +228,11 @@
     },
     {
       "raw_hot": 528101,
-      "num": 276015,
+      "num": 290822,
       "word": "爸爸一躺小孩面相都变了",
       "onboard_time": 1753420823,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 515035,
-      "num": 409944,
-      "word": "东北大学官网已变黑白",
-      "onboard_time": 1753424664,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 495470,
@@ -291,20 +299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402552,
+      "num": 402552,
+      "word": "韩国网红怀孕36周堕胎被控谋杀",
+      "onboard_time": 1753428384,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 387644,
+      "num": 387644,
+      "word": "鸿蒙智行不予置评",
+      "onboard_time": 1753427483,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 383634,
       "num": 206314,
       "word": "问界M8纯电版预售37.8万起",
       "onboard_time": 1753418187,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 349289,
-      "num": 277201,
-      "word": "海蝶登记有年轮录音制品著作权",
-      "onboard_time": 1753428144,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 326190,
@@ -320,6 +336,14 @@
       "word": "樊振东3比0林诗栋",
       "onboard_time": 1753418783,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 302765,
+      "num": 302765,
+      "word": "全场高喊樊振东大满贯",
+      "onboard_time": 1753426163,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 290887,
-      "num": 275883,
+      "num": 285857,
       "word": "关晓彤上新了三款彩椒碗",
       "onboard_time": 1753423463,
       "rank": 14,
@@ -395,20 +419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282204,
+      "num": 282204,
+      "word": "戒咖啡30天后身体的变化",
+      "onboard_time": 1753425623,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280738,
       "num": 280738,
       "word": "光与夜之恋",
       "onboard_time": 1753418244,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279420,
-      "num": 279420,
-      "word": "全场高喊樊振东大满贯",
-      "onboard_time": 1753426163,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 264164,
@@ -484,19 +508,11 @@
     },
     {
       "raw_hot": 243284,
-      "num": 203053,
+      "num": 217381,
       "word": "沈佳润原来美美桑内之父也在",
       "onboard_time": 1753427244,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243056,
-      "num": 278654,
-      "word": "戒咖啡30天后身体的变化",
-      "onboard_time": 1753425623,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 239961,
@@ -523,12 +539,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 232975,
-      "num": 232975,
-      "word": "鸿蒙智行不予置评",
-      "onboard_time": 1753427483,
-      "rank": 18,
-      "category": "汽车"
+      "raw_hot": 230992,
+      "num": 230992,
+      "word": "厦大马来分校称已有考生申请退档",
+      "onboard_time": 1753427363,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 229601,
+      "num": 229601,
+      "word": "易烊千玺北京站过审",
+      "onboard_time": 1753427963,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 224798,
@@ -579,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217508,
+      "num": 217508,
+      "word": "时代少年团国风玄衣",
+      "onboard_time": 1753428204,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213892,
       "num": 213892,
       "word": "2025英雄联盟全球总决赛重返中国",
@@ -619,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207841,
+      "num": 207841,
+      "word": "蔡依林新专",
+      "onboard_time": 1753428504,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207307,
       "num": 207307,
       "word": "热依扎带5岁女儿散步",
@@ -633,14 +673,6 @@
       "onboard_time": 1753416264,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204128,
-      "num": 204128,
-      "word": "厦大马来分校称已有考生申请退档",
-      "onboard_time": 1753427363,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 203420,
@@ -667,20 +699,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202731,
+      "num": 202731,
+      "word": "孟子义说丁禹兮花开锦绣大爆",
+      "onboard_time": 1753428444,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202500,
       "num": 180802,
       "word": "综艺之神李乃文开始修仙了",
       "onboard_time": 1753420465,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201876,
-      "num": 201876,
-      "word": "易烊千玺北京站过审",
-      "onboard_time": 1753427963,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 201560,
@@ -747,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192121,
-      "num": 192121,
-      "word": "时代少年团国风玄衣",
-      "onboard_time": 1753428204,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192101,
       "num": 151408,
       "word": "东北大学受伤老师坠落半空被救",
@@ -785,14 +809,6 @@
       "onboard_time": 1753415545,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186929,
-      "num": 186929,
-      "word": "孟子义说丁禹兮花开锦绣大爆",
-      "onboard_time": 1753428444,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 186745,
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 161820,
-      "num": 161820,
+      "num": 204762,
       "word": "遇难男生是村里第一个985大学生",
       "onboard_time": 1753426223,
       "rank": 48,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1753412181,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156608,
-      "num": 156608,
-      "word": "蔡依林新专",
-      "onboard_time": 1753428504,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 155766,
@@ -1227,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137983,
+      "num": 137983,
+      "word": "苏醒演唱会票价是他的生日数字",
+      "onboard_time": 1753428743,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136035,
       "num": 234613,
       "word": "母亲当8岁儿子面吸毒当场被抓",
@@ -1291,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130145,
+      "num": 130145,
+      "word": "第十五届全运会",
+      "onboard_time": 1753428805,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129180,
       "num": 129180,
       "word": "一起打卡昌吉玛纳斯县南部山区花海",
@@ -1300,7 +1324,7 @@
     },
     {
       "raw_hot": 128869,
-      "num": 128869,
+      "num": 149548,
       "word": "李一桐只顾饭撒忘记头撞车上了",
       "onboard_time": 1753428323,
       "rank": 36,
@@ -1467,6 +1491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118755,
+      "num": 118755,
+      "word": "智界汽车不予置评",
+      "onboard_time": 1753429221,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117884,
       "num": 141933,
       "word": "王传君碰上他就演不了好人",
@@ -1571,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110913,
+      "num": 110913,
+      "word": "暑期片单交换计划",
+      "onboard_time": 1753428624,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 110782,
       "num": 110782,
       "word": "黄晓明为了年轻也是真犟",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1753425564,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109364,
+      "num": 109364,
+      "word": "A股三大突破",
+      "onboard_time": 1753426523,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 109263,
@@ -1635,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107439,
+      "num": 107439,
+      "word": "孙颖莎和平野美宇没训练直接上场",
+      "onboard_time": 1753429284,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107409,
       "num": 107409,
       "word": "2分钟镜头杨洋打了1分半",
@@ -1649,14 +1705,6 @@
       "onboard_time": 1753422504,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104070,
-      "num": 104070,
-      "word": "A股三大突破",
-      "onboard_time": 1753426523,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 104054,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1753408463,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102002,
+      "num": 102002,
+      "word": "易烊千玺演唱会门票可通过助农获得",
+      "onboard_time": 1753429404,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 101869,
@@ -1739,12 +1795,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96325,
+      "num": 96325,
+      "word": "周深边哭边唱镜头电影感",
+      "onboard_time": 1753428984,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95879,
       "num": 95879,
       "word": "第一次见主创团队全员泪崩的首映礼",
       "onboard_time": 1753426583,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95149,
+      "num": 95149,
+      "word": "扫毒风暴11.99吨毒品铺满屏幕",
+      "onboard_time": 1753426883,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 94918,
@@ -1761,6 +1833,14 @@
       "onboard_time": 1753371208,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92710,
+      "num": 92710,
+      "word": "跟AI客服说投诉才肯转人工",
+      "onboard_time": 1753429102,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 92576,
@@ -1825,14 +1905,6 @@
       "onboard_time": 1753406662,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86582,
-      "num": 124320,
-      "word": "韩国网红怀孕36周堕胎被控谋杀",
-      "onboard_time": 1753428384,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85735,
@@ -2041,6 +2113,14 @@
       "onboard_time": 1753400480,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55846,
+      "num": 116261,
+      "word": "正好100元不用找了",
+      "onboard_time": 1753428922,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 55542,
