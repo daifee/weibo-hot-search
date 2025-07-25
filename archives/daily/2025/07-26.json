@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753468777197,
+  "endTime": 1753469647656,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -451,7 +451,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45222,
+      "raw_hot": 47897,
       "num": 69000,
       "word": "银川地震",
       "onboard_time": 1753467975,
