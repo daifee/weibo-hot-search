@@ -1,0 +1,410 @@
+{
+  "runTime": 1753529015369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1484688,
+        "num": 1484688,
+        "word": "樊振东微博发文",
+        "onboard_time": 1753524441,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1021757,
+        "num": 1021757,
+        "word": "综艺史上长达两分钟的沉默",
+        "onboard_time": 1753525281,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77151,
+        "num": 923021,
+        "word": "每5只帝王蟹就有4只来自吉林",
+        "onboard_time": 1753520782,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 825103,
+        "num": 825103,
+        "word": "甄嬛 收回胧月",
+        "onboard_time": 1753526781,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 423068,
+        "num": 423068,
+        "word": "印度对中国人签证门槛还是太高",
+        "onboard_time": 1753524262,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 400638,
+        "num": 400638,
+        "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+        "onboard_time": 1753526722,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 666472,
+        "num": 400352,
+        "word": "王琳儿子",
+        "onboard_time": 1753528941,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393616,
+        "num": 393616,
+        "word": "樊振东首次回应加盟德甲联赛争议",
+        "onboard_time": 1753519702,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315547,
+        "num": 315547,
+        "word": "北大将全面取消绩点",
+        "onboard_time": 1753512921,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265075,
+        "num": 265075,
+        "word": "樊振东名人面对面",
+        "onboard_time": 1753519402,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583962,
+        "num": 260005,
+        "word": "王子文回应王琳",
+        "onboard_time": 1753526541,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497404,
+        "num": 256133,
+        "word": "时代少年团上海站官宣",
+        "onboard_time": 1753527861,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 522429,
+        "num": 253112,
+        "word": "马頔买房了",
+        "onboard_time": 1753523783,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464273,
+        "num": 247644,
+        "word": "李炜方称剑魂版权为汪苏泷所有",
+        "onboard_time": 1753525221,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 432734,
+        "num": 241263,
+        "word": "张碧晨汪苏泷年轮合约存在信息差",
+        "onboard_time": 1753521022,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424731,
+        "num": 238051,
+        "word": "拉塞尔 出轨",
+        "onboard_time": 1753517362,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364444,
+        "num": 229734,
+        "word": "丁程鑫金发",
+        "onboard_time": 1753527923,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318433,
+        "num": 227725,
+        "word": "985硕士首月工资分享",
+        "onboard_time": 1753518983,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223913,
+        "num": 223913,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1753505422,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179266,
+        "num": 222768,
+        "word": "韩国富人家庭的豪华晚餐",
+        "onboard_time": 1753527141,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301488,
+        "num": 217575,
+        "word": "时代少年团大连演唱会",
+        "onboard_time": 1753527861,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1290641,
+        "num": 215150,
+        "word": "张碧晨方说无需多言",
+        "onboard_time": 1753518801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309952,
+        "num": 210390,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244095,
+        "num": 207416,
+        "word": "肖战不内耗",
+        "onboard_time": 1753519102,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206878,
+        "num": 206878,
+        "word": "王俊凯蟹钳2.0",
+        "onboard_time": 1753528342,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205399,
+        "num": 205399,
+        "word": "被公司拖累的明星",
+        "onboard_time": 1753527082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173324,
+        "num": 173324,
+        "word": "朝雪录 纯爱变背德",
+        "onboard_time": 1753518862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119805,
+        "num": 172786,
+        "word": "巴黎奥运的10个难忘瞬间",
+        "onboard_time": 1753525702,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204516,
+        "num": 172646,
+        "word": "肖战藏海传庆功宴花絮",
+        "onboard_time": 1753528763,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129094,
+        "num": 172394,
+        "word": "女网红向被骚扰中国人道歉",
+        "onboard_time": 1753528522,
+        "rank": 29,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 172256,
+        "num": 172256,
+        "word": "女生凌晨未接挪车电话车子被砸",
+        "onboard_time": 1753514121,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160447,
+        "num": 160447,
+        "word": "NCTWISH韩文版爱你",
+        "onboard_time": 1753528522,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160345,
+        "num": 160345,
+        "word": "朝雪录拍了古代蒸骨验尸",
+        "onboard_time": 1753527622,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145515,
+        "num": 145515,
+        "word": "艾滋病 隐私",
+        "onboard_time": 1753528282,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154535,
+        "num": 143094,
+        "word": "朝雪录后宫前朝乱成一锅粥了",
+        "onboard_time": 1753528222,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139640,
+        "num": 139640,
+        "word": "李荣浩到底给多少人写过歌啊",
+        "onboard_time": 1753527501,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138819,
+        "num": 138819,
+        "word": "小猫未婚绝育产后抑郁了",
+        "onboard_time": 1753528882,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136116,
+        "num": 136116,
+        "word": "考古毕雯珺怎么全是笑料",
+        "onboard_time": 1753528222,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126067,
+        "num": 126067,
+        "word": "关晓彤跳扇子舞美我一大跳",
+        "onboard_time": 1753524923,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123934,
+        "num": 123934,
+        "word": "斗破苍穹",
+        "onboard_time": 1753528401,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119248,
+        "num": 119248,
+        "word": "艾滋病人信息保密是否合理",
+        "onboard_time": 1753516581,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118374,
+        "num": 118374,
+        "word": "孙颖莎笑容好有感染力",
+        "onboard_time": 1753528522,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116858,
+        "num": 116858,
+        "word": "日本女人参观731罪证陈列馆",
+        "onboard_time": 1753522222,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114526,
+        "num": 114526,
+        "word": "DFYG世界杯生死战",
+        "onboard_time": 1753528882,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115466,
+        "num": 114464,
+        "word": "每次吃布洛芬都觉得很想笑",
+        "onboard_time": 1753522222,
+        "rank": 44,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 114330,
+        "num": 114330,
+        "word": "跳水梦之队世锦赛首金",
+        "onboard_time": 1753528702,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107821,
+        "num": 107821,
+        "word": "柬泰边境冲突已造成上百人伤亡",
+        "onboard_time": 1753525762,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106403,
+        "num": 106403,
+        "word": "AL对战BLG",
+        "onboard_time": 1753528941,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105982,
+        "num": 105982,
+        "word": "2025f1比利时大奖赛",
+        "onboard_time": 1753528461,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105538,
+        "num": 105538,
+        "word": "十年前的娱乐圈好热闹",
+        "onboard_time": 1753528882,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#40多年前习近平亲自为干部出题阅卷#"
+    }
+  }
+}
