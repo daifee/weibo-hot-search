@@ -1,0 +1,410 @@
+{
+  "runTime": 1753522926583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2070356,
+        "num": 2070356,
+        "word": "张碧晨方说无需多言",
+        "onboard_time": 1753518801,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704968,
+        "num": 704968,
+        "word": "樊振东首次回应加盟德甲联赛争议",
+        "onboard_time": 1753519702,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58944,
+        "num": 536182,
+        "word": "每5只帝王蟹就有4只来自吉林",
+        "onboard_time": 1753520782,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 480568,
+        "num": 480568,
+        "word": "樊振东名人面对面",
+        "onboard_time": 1753519402,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446286,
+        "num": 446286,
+        "word": "北大将全面取消绩点",
+        "onboard_time": 1753512921,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 574139,
+        "num": 425030,
+        "word": "张碧晨汪苏泷年轮合约存在信息差",
+        "onboard_time": 1753521022,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365907,
+        "num": 365907,
+        "word": "艾滋病人信息保密是否合理",
+        "onboard_time": 1753516581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335198,
+        "num": 335198,
+        "word": "肖战不内耗",
+        "onboard_time": 1753519102,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334549,
+        "num": 334549,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1753505422,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74749,
+        "num": 315975,
+        "word": "伊朗发生恐袭已致6死20伤",
+        "onboard_time": 1753521501,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1083121,
+        "num": 315619,
+        "word": "拉塞尔 出轨",
+        "onboard_time": 1753517362,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314343,
+        "num": 314343,
+        "word": "女生凌晨未接挪车电话车子被砸",
+        "onboard_time": 1753514121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306313,
+        "num": 306313,
+        "word": "朝雪录 纯爱变背德",
+        "onboard_time": 1753518862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302869,
+        "num": 302869,
+        "word": "985硕士首月工资分享",
+        "onboard_time": 1753518983,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225229,
+        "num": 225229,
+        "word": "快递 蟑螂卵",
+        "onboard_time": 1753510702,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220515,
+        "num": 220515,
+        "word": "房主任太炸了",
+        "onboard_time": 1753517842,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196327,
+        "num": 196327,
+        "word": "Gr对战GW",
+        "onboard_time": 1753522103,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190259,
+        "num": 190259,
+        "word": "樱桃琥珀意识流婚礼",
+        "onboard_time": 1753517061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157226,
+        "num": 189635,
+        "word": "谁能解释夏天爱吃烧烤的现象",
+        "onboard_time": 1753522462,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116104,
+        "num": 187356,
+        "word": "张文宏解释为何基孔肯雅热传播较快",
+        "onboard_time": 1753522522,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 576076,
+        "num": 184943,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191823,
+        "num": 181911,
+        "word": "月薪三千4年存了10万块",
+        "onboard_time": 1753519402,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181630,
+        "num": 181630,
+        "word": "杨幂王牌9录制出发",
+        "onboard_time": 1753519642,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179333,
+        "num": 179333,
+        "word": "美国在病毒爆发前研发出疫苗",
+        "onboard_time": 1753501883,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168292,
+        "num": 168292,
+        "word": "男子乘摩托艇遇难留下两幼童",
+        "onboard_time": 1753520243,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167170,
+        "num": 167170,
+        "word": "郑恺微博头像是张颜齐拍的",
+        "onboard_time": 1753520182,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149996,
+        "num": 149996,
+        "word": "肖战4分钟小站记",
+        "onboard_time": 1753522762,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147170,
+        "num": 147170,
+        "word": "不穿内衣正在年轻女性中悄悄流行",
+        "onboard_time": 1753507103,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 138751,
+        "word": "房主任 哥哥容易塌房",
+        "onboard_time": 1753520962,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89563,
+        "num": 136337,
+        "word": "甘肃庆阳暴雨有人失联",
+        "onboard_time": 1753519882,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 165276,
+        "num": 136334,
+        "word": "樊振东打完奥运后发自内心的累",
+        "onboard_time": 1753522462,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136187,
+        "num": 136187,
+        "word": "200万存款是什么概念",
+        "onboard_time": 1753520303,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130939,
+        "num": 130939,
+        "word": "跟BLACKPINK提升审美",
+        "onboard_time": 1753522582,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123466,
+        "num": 123466,
+        "word": "谢谢你内衣侠",
+        "onboard_time": 1753522642,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117335,
+        "num": 117335,
+        "word": "电影浪浪山小妖怪口碑",
+        "onboard_time": 1753521982,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117095,
+        "num": 117095,
+        "word": "孟子义陈都灵开播海报",
+        "onboard_time": 1753515083,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112023,
+        "num": 112023,
+        "word": "樊振东说到了场上没想过输",
+        "onboard_time": 1753522762,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105912,
+        "num": 105912,
+        "word": "皮蛋 不能生吃",
+        "onboard_time": 1753505302,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105806,
+        "num": 105806,
+        "word": "女子入住男网友家与其妻子共处1年",
+        "onboard_time": 1753522462,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105739,
+        "num": 105739,
+        "word": "李子柒担任成都世运会火炬手",
+        "onboard_time": 1753521261,
+        "rank": 39,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 112255,
+        "num": 105200,
+        "word": "孟子义的疯批恶女本子请都吻上来",
+        "onboard_time": 1753522402,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103706,
+        "num": 103706,
+        "word": "歌谣大战红毯",
+        "onboard_time": 1753516822,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102442,
+        "num": 102442,
+        "word": "扫毒风暴里有向佐",
+        "onboard_time": 1753522103,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102212,
+        "num": 102212,
+        "word": "日本女人参观731罪证陈列馆",
+        "onboard_time": 1753522222,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41720,
+        "num": 102183,
+        "word": "房东回应小伙租房9年缴近8万电费",
+        "onboard_time": 1753522882,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102164,
+        "num": 102164,
+        "word": "基孔肯雅热 后遗症",
+        "onboard_time": 1753508602,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100989,
+        "num": 100989,
+        "word": "宋亚轩回应粉丝长灯牌",
+        "onboard_time": 1753513402,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99710,
+        "num": 99710,
+        "word": "小龙女还是这么猛反手就是一巴掌",
+        "onboard_time": 1753522882,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96832,
+        "num": 96832,
+        "word": "每次吃布洛芬都觉得很想笑",
+        "onboard_time": 1753522222,
+        "rank": 48,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 95406,
+        "num": 95406,
+        "word": "练瑜伽三年和练力量一年半的身材对比",
+        "onboard_time": 1753519583,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#40多年前习近平亲自为干部出题阅卷#"
+    }
+  }
+}

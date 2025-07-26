@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753522067246,
+  "endTime": 1753522926583,
   "band_list": [
     {
       "raw_hot": 2471809,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 480568,
+      "num": 480568,
+      "word": "樊振东名人面对面",
+      "onboard_time": 1753519402,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474659,
       "num": 474659,
       "word": "减肥太猛断崖式变老了",
@@ -337,14 +345,6 @@
       "onboard_time": 1753504224,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 427717,
-      "num": 427717,
-      "word": "樊振东名人面对面",
-      "onboard_time": 1753519402,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 423735,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335198,
+      "num": 335198,
+      "word": "肖战不内耗",
+      "onboard_time": 1753519102,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328927,
       "num": 328927,
       "word": "杭州6人男寝4清北1浙大1交大",
@@ -489,6 +497,22 @@
       "onboard_time": 1753501883,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306313,
+      "num": 306313,
+      "word": "朝雪录 纯爱变背德",
+      "onboard_time": 1753518862,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302869,
+      "num": 302869,
+      "word": "985硕士首月工资分享",
+      "onboard_time": 1753518983,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 302767,
@@ -571,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256074,
-      "num": 256074,
-      "word": "朝雪录 纯爱变背德",
-      "onboard_time": 1753518862,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239416,
       "num": 210484,
       "word": "和什么样的人结婚才会幸福",
@@ -619,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231628,
-      "num": 231628,
-      "word": "肖战不内耗",
-      "onboard_time": 1753519102,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229593,
       "num": 205693,
       "word": "沈小婷一个人打2份工",
@@ -657,6 +665,14 @@
       "onboard_time": 1753503322,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 220515,
+      "num": 220515,
+      "word": "房主任太炸了",
+      "onboard_time": 1753517842,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 218379,
@@ -731,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199422,
-      "num": 199422,
-      "word": "985硕士首月工资分享",
-      "onboard_time": 1753518983,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 198269,
       "num": 218167,
       "word": "ALin 马嘉祺我爱他",
@@ -753,6 +761,14 @@
       "onboard_time": 1753452506,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196327,
+      "num": 196327,
+      "word": "Gr对战GW",
+      "onboard_time": 1753522103,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 194222,
@@ -801,6 +817,14 @@
       "onboard_time": 1753457365,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191823,
+      "num": 181911,
+      "word": "月薪三千4年存了10万块",
+      "onboard_time": 1753519402,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 191680,
@@ -931,14 +955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175311,
-      "num": 175311,
-      "word": "房主任太炸了",
-      "onboard_time": 1753517842,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168816,
       "num": 218074,
       "word": "花千骨制片人回应年轮争议",
@@ -955,6 +971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168292,
+      "num": 168292,
+      "word": "男子乘摩托艇遇难留下两幼童",
+      "onboard_time": 1753520243,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167451,
       "num": 283649,
       "word": "25年前与普京合影的中国男孩找到了",
@@ -963,12 +987,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167170,
+      "num": 167170,
+      "word": "郑恺微博头像是张颜齐拍的",
+      "onboard_time": 1753520182,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166261,
       "num": 166261,
       "word": "谁给檀健次孟子义递本子就当为了我",
       "onboard_time": 1753504403,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165276,
+      "num": 136334,
+      "word": "樊振东打完奥运后发自内心的累",
+      "onboard_time": 1753522462,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 162618,
@@ -1001,14 +1041,6 @@
       "onboard_time": 1753514482,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160673,
-      "num": 160673,
-      "word": "月薪三千4年存了10万块",
-      "onboard_time": 1753519402,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 160043,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1753505663,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157226,
+      "num": 189635,
+      "word": "谁能解释夏天爱吃烧烤的现象",
+      "onboard_time": 1753522462,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 156446,
@@ -1123,12 +1163,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149250,
-      "num": 149250,
-      "word": "郑恺微博头像是张颜齐拍的",
-      "onboard_time": 1753520182,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 149996,
+      "num": 149996,
+      "word": "肖战4分钟小站记",
+      "onboard_time": 1753522762,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 147894,
@@ -1443,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130939,
+      "num": 130939,
+      "word": "跟BLACKPINK提升审美",
+      "onboard_time": 1753522582,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 130285,
       "num": 130285,
       "word": "日本一份面条母子两人分着吃",
@@ -1544,6 +1592,14 @@
       "word": "胡海泉怎么输的",
       "onboard_time": 1753491262,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123466,
+      "num": 123466,
+      "word": "谢谢你内衣侠",
+      "onboard_time": 1753522642,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1683,6 +1739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117335,
+      "num": 117335,
+      "word": "电影浪浪山小妖怪口碑",
+      "onboard_time": 1753521982,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117281,
       "num": 117281,
       "word": "结婚后才明白什么是隐形家务",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1753467975,
       "rank": 18,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 116104,
+      "num": 187356,
+      "word": "张文宏解释为何基孔肯雅热传播较快",
+      "onboard_time": 1753522522,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115198,
@@ -1763,6 +1835,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112255,
+      "num": 105200,
+      "word": "孟子义的疯批恶女本子请都吻上来",
+      "onboard_time": 1753522402,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112023,
+      "num": 112023,
+      "word": "樊振东说到了场上没想过输",
+      "onboard_time": 1753522762,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111748,
       "num": 111748,
       "word": "刘旸太子的身份藏不住了",
@@ -1819,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105806,
+      "num": 105806,
+      "word": "女子入住男网友家与其妻子共处1年",
+      "onboard_time": 1753522462,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105705,
       "num": 105705,
       "word": "和平精英",
@@ -1851,14 +1947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103441,
-      "num": 154077,
-      "word": "男子乘摩托艇遇难留下两幼童",
-      "onboard_time": 1753520243,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102887,
       "num": 102887,
       "word": "宋妍霏顶着这张脸就该演meangirl",
@@ -1872,6 +1960,22 @@
       "word": "老人卧床多年跟保姆结婚并赠与房产",
       "onboard_time": 1753451607,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102442,
+      "num": 102442,
+      "word": "扫毒风暴里有向佐",
+      "onboard_time": 1753522103,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102212,
+      "num": 102212,
+      "word": "日本女人参观731罪证陈列馆",
+      "onboard_time": 1753522222,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1923,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99710,
+      "num": 99710,
+      "word": "小龙女还是这么猛反手就是一巴掌",
+      "onboard_time": 1753522882,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99561,
       "num": 99561,
       "word": "纯爱那年他死在她怀里",
@@ -1955,12 +2067,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96832,
+      "num": 96832,
+      "word": "每次吃布洛芬都觉得很想笑",
+      "onboard_time": 1753522222,
+      "rank": 48,
+      "category": "幽默,健康医疗"
+    },
+    {
       "raw_hot": 96006,
       "num": 96006,
       "word": "我得的是抑郁症不是玉玉症",
       "onboard_time": 1753511903,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95406,
+      "num": 95406,
+      "word": "练瑜伽三年和练力量一年半的身材对比",
+      "onboard_time": 1753519583,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 95145,
@@ -1977,14 +2105,6 @@
       "onboard_time": 1753488980,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94695,
-      "num": 94695,
-      "word": "练瑜伽三年和练力量一年半的身材对比",
-      "onboard_time": 1753519583,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 94366,
@@ -2009,14 +2129,6 @@
       "onboard_time": 1753521923,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91996,
-      "num": 91996,
-      "word": "电影浪浪山小妖怪口碑",
-      "onboard_time": 1753521982,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 91692,
@@ -2195,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74749,
+      "num": 315975,
+      "word": "伊朗发生恐袭已致6死20伤",
+      "onboard_time": 1753521501,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74484,
       "num": 80061,
       "word": "消防车遇到受伤女童秒变救护车",
@@ -2347,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49242,
-      "num": 308210,
-      "word": "伊朗发生恐袭已致6死20伤",
-      "onboard_time": 1753521501,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47835,
       "num": 121814,
       "word": "男子称200元凉拖高温缩成童鞋",
@@ -2409,6 +2521,14 @@
       "onboard_time": 1753464678,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41720,
+      "num": 102183,
+      "word": "房东回应小伙租房9年缴近8万电费",
+      "onboard_time": 1753522882,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40353,
