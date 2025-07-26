@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753505825330,
+  "endTime": 1753507774423,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -2075,6 +2075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 628580,
+      "num": 628580,
+      "word": "淘宝闪购",
+      "onboard_time": 1753501822,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 625572,
       "num": 600134,
       "word": "李佳琦承诺赔付铂爵旅拍订单",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1753489700,
       "rank": 3,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 582285,
-      "num": 582285,
-      "word": "淘宝闪购",
-      "onboard_time": 1753501822,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 581949,
@@ -3099,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474659,
+      "num": 474659,
+      "word": "减肥太猛断崖式变老了",
+      "onboard_time": 1753503802,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474341,
       "num": 474341,
       "word": "王青杂志",
@@ -3275,6 +3283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454552,
+      "num": 454552,
+      "word": "米蛆",
+      "onboard_time": 1753504224,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 454135,
       "num": 612149,
       "word": "天水第二人民医院被甘肃省人民医院托管",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1753323924,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 450035,
+      "num": 450035,
+      "word": "皮蛋 不能生吃",
+      "onboard_time": 1753505302,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 449813,
@@ -3817,14 +3841,6 @@
       "onboard_time": 1753449388,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393059,
-      "num": 393059,
-      "word": "减肥太猛断崖式变老了",
-      "onboard_time": 1753503802,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 390176,
@@ -4627,6 +4643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 320990,
+      "num": 320990,
+      "word": "柬埔寨要求立即无条件停火",
+      "onboard_time": 1753503981,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320862,
       "num": 320862,
       "word": "中国最神秘军校72年来首次招女生",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1753077862,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311902,
+      "num": 176664,
+      "word": "沈梦辰原生肤色露馅了",
+      "onboard_time": 1753506982,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 311834,
@@ -5475,6 +5507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270698,
+      "num": 270698,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1753505422,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270180,
       "num": 270180,
       "word": "newjeans开庭",
@@ -5609,14 +5649,6 @@
       "onboard_time": 1753486459,
       "rank": 17,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 260898,
-      "num": 260898,
-      "word": "柬埔寨要求立即无条件停火",
-      "onboard_time": 1753503981,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 260300,
@@ -6115,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237436,
+      "num": 179858,
+      "word": "于正你把白鹿当逗号用呢",
+      "onboard_time": 1753504884,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237120,
       "num": 256281,
       "word": "李现谈两部芳华里的中式美学",
@@ -6217,6 +6257,14 @@
       "onboard_time": 1753375880,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 233588,
+      "num": 233588,
+      "word": "抠抠搜搜花了两万块买破烂",
+      "onboard_time": 1753506803,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 233032,
@@ -6459,6 +6507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224228,
+      "num": 224228,
+      "word": "蔡徐坤换iG头像",
+      "onboard_time": 1753507522,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223530,
       "num": 223530,
       "word": "成都AG晋级胜者组决赛",
@@ -6497,6 +6553,14 @@
       "onboard_time": 1753191263,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 221703,
+      "num": 170876,
+      "word": "不穿内衣正在年轻女性中悄悄流行",
+      "onboard_time": 1753507103,
+      "rank": 25,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 221519,
@@ -6593,6 +6657,14 @@
       "onboard_time": 1752979881,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220059,
+      "num": 220059,
+      "word": "于正有种明天就不在娱乐圈干的疯感",
+      "onboard_time": 1753506323,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 219732,
@@ -6921,14 +6993,6 @@
       "onboard_time": 1753075342,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213884,
-      "num": 213884,
-      "word": "长期不换各种社交头像",
-      "onboard_time": 1753505422,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 213553,
@@ -7699,14 +7763,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 199532,
-      "num": 179858,
-      "word": "于正你把白鹿当逗号用呢",
-      "onboard_time": 1753504884,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199512,
       "num": 233257,
       "word": "景甜37岁晒照庆生",
@@ -7761,14 +7817,6 @@
       "onboard_time": 1753182262,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198529,
-      "num": 198529,
-      "word": "米蛆",
-      "onboard_time": 1753504224,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 198293,
@@ -9315,6 +9363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176147,
+      "num": 176147,
+      "word": "快递箱 甲醛",
+      "onboard_time": 1753501643,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175945,
       "num": 175945,
       "word": "宁艺卓费加罗七月刊封面",
@@ -9537,14 +9593,6 @@
       "onboard_time": 1753003161,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173676,
-      "num": 173676,
-      "word": "快递箱 甲醛",
-      "onboard_time": 1753501643,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173611,
@@ -10235,14 +10283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163905,
-      "num": 163905,
-      "word": "皮蛋 不能生吃",
-      "onboard_time": 1753505302,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 163865,
       "num": 163865,
       "word": "韩网友 为什么要亲亲才会给我发货",
@@ -10609,6 +10649,14 @@
       "onboard_time": 1753284153,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 159592,
+      "num": 159592,
+      "word": "王琳圈内人缘",
+      "onboard_time": 1753505484,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 159557,
@@ -11875,6 +11923,14 @@
       "category": "民生新闻,运动健身"
     },
     {
+      "raw_hot": 145209,
+      "num": 145209,
+      "word": "终于明白自己的消费观多么畸形",
+      "onboard_time": 1753506383,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145104,
       "num": 145104,
       "word": "三伏天喝羊汤",
@@ -12187,6 +12243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141730,
+      "num": 141730,
+      "word": "HR何时能消除学历歧视",
+      "onboard_time": 1753507403,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141610,
       "num": 141610,
       "word": "白鹿杂志",
@@ -12443,12 +12507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139112,
+      "num": 139112,
+      "word": "张艺兴first电影市场主理人",
+      "onboard_time": 1753506742,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139106,
       "num": 156892,
       "word": "为什么永远不能相信那些喝牛奶的角色",
       "onboard_time": 1752990322,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139075,
+      "num": 139075,
+      "word": "林昀儒3比1松岛辉空",
+      "onboard_time": 1753506742,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 139049,
@@ -12593,6 +12673,14 @@
       "onboard_time": 1753075761,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138116,
+      "num": 138116,
+      "word": "考古张予曦",
+      "onboard_time": 1753505962,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137997,
@@ -13283,6 +13371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131220,
+      "num": 131220,
+      "word": "张雪峰包场请全公司看长安的荔枝",
+      "onboard_time": 1753507582,
+      "rank": 40,
+      "category": "电影,互联网"
+    },
+    {
       "raw_hot": 131182,
       "num": 131182,
       "word": "杨紫和剧组深入学习传统妆造",
@@ -13723,6 +13819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127624,
+      "num": 127624,
+      "word": "谢娜一家反骨的爸操心的孩无奈的妈",
+      "onboard_time": 1753507642,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127617,
       "num": 178464,
       "word": "头伏饺子",
@@ -13849,6 +13953,14 @@
       "onboard_time": 1753352906,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126775,
+      "num": 126775,
+      "word": "25年前与普京合影的中国男孩找到了",
+      "onboard_time": 1753507582,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126771,
@@ -14235,14 +14347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123823,
-      "num": 123823,
-      "word": "王琳圈内人缘",
-      "onboard_time": 1753505484,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123776,
       "num": 208267,
       "word": "孙颖莎鼓掌致意",
@@ -14571,6 +14675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120874,
+      "num": 120874,
+      "word": "这才是真正的有效标语",
+      "onboard_time": 1753507703,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120863,
       "num": 120863,
       "word": "徐明浩轻轻一跳就秒了",
@@ -14721,6 +14833,14 @@
       "onboard_time": 1753354943,
       "rank": 19,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 119865,
+      "num": 119865,
+      "word": "原来猫下手知道分轻重啊",
+      "onboard_time": 1753505783,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 119807,
@@ -15059,14 +15179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117827,
-      "num": 117827,
-      "word": "原来猫下手知道分轻重啊",
-      "onboard_time": 1753505783,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117820,
       "num": 117820,
       "word": "男子被网友邀请免费出国被民警拦下",
@@ -15121,6 +15233,14 @@
       "onboard_time": 1753399880,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117161,
+      "num": 117161,
+      "word": "复刻懂车帝消失的前车",
+      "onboard_time": 1753506023,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 117054,
@@ -19891,6 +20011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44756,
+      "num": 144147,
+      "word": "数智新时代电商新价值",
+      "onboard_time": 1753506922,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44655,
       "num": 378667,
       "word": "泡泡玛特王宁谈是什么成就了LABUBU",
@@ -20553,6 +20681,14 @@
       "onboard_time": 1753036335,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29591,
+      "num": 834414,
+      "word": "第五届中国新电商大会",
+      "onboard_time": 1753507403,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29391,

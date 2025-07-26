@@ -1,0 +1,410 @@
+{
+  "runTime": 1753507774423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313267,
+        "num": 1313267,
+        "word": "张碧晨有三首歌都是汪苏泷作词作曲",
+        "onboard_time": 1753491201,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1167715,
+        "num": 1167715,
+        "word": "731",
+        "onboard_time": 1753499541,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29591,
+        "num": 834414,
+        "word": "第五届中国新电商大会",
+        "onboard_time": 1753507403,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812961,
+        "num": 812961,
+        "word": "美国在病毒爆发前研发出疫苗",
+        "onboard_time": 1753501883,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 628580,
+        "num": 628580,
+        "word": "淘宝闪购",
+        "onboard_time": 1753501822,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 545014,
+        "num": 545014,
+        "word": "636分考生放弃985选民办大学",
+        "onboard_time": 1753500082,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474659,
+        "num": 474659,
+        "word": "减肥太猛断崖式变老了",
+        "onboard_time": 1753503802,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454552,
+        "num": 454552,
+        "word": "米蛆",
+        "onboard_time": 1753504224,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 450035,
+        "num": 450035,
+        "word": "皮蛋 不能生吃",
+        "onboard_time": 1753505302,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360613,
+        "num": 360613,
+        "word": "博士学历爸爸无法接受抽动症儿子",
+        "onboard_time": 1753499302,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729881,
+        "num": 355781,
+        "word": "孔雪儿负债期间还捐款",
+        "onboard_time": 1753502903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339527,
+        "num": 339527,
+        "word": "汪苏泷方希望纷扰止于今夜",
+        "onboard_time": 1753489161,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320990,
+        "num": 320990,
+        "word": "柬埔寨要求立即无条件停火",
+        "onboard_time": 1753503981,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270698,
+        "num": 270698,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1753505422,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268385,
+        "num": 268385,
+        "word": "梁靖崑乒超因伤退赛",
+        "onboard_time": 1753503143,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233588,
+        "num": 233588,
+        "word": "抠抠搜搜花了两万块买破烂",
+        "onboard_time": 1753506803,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228708,
+        "num": 228708,
+        "word": "孟子义九重紫后再演复仇女主",
+        "onboard_time": 1753501883,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224228,
+        "num": 224228,
+        "word": "蔡徐坤换iG头像",
+        "onboard_time": 1753507522,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220059,
+        "num": 220059,
+        "word": "于正有种明天就不在娱乐圈干的疯感",
+        "onboard_time": 1753506323,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177984,
+        "num": 177984,
+        "word": "重庆动物园",
+        "onboard_time": 1753503802,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628106,
+        "num": 177102,
+        "word": "张碧晨方称享有年轮永久演唱权利",
+        "onboard_time": 1753442423,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311902,
+        "num": 176664,
+        "word": "沈梦辰原生肤色露馅了",
+        "onboard_time": 1753506982,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237436,
+        "num": 176537,
+        "word": "于正你把白鹿当逗号用呢",
+        "onboard_time": 1753504884,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176147,
+        "num": 176147,
+        "word": "快递箱 甲醛",
+        "onboard_time": 1753501643,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173784,
+        "num": 173784,
+        "word": "建议大家要舍得为自己花钱",
+        "onboard_time": 1753497080,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221703,
+        "num": 170876,
+        "word": "不穿内衣正在年轻女性中悄悄流行",
+        "onboard_time": 1753507103,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 166592,
+        "num": 166592,
+        "word": "平台回应张馨予碰到聋哑人外卖员",
+        "onboard_time": 1753498822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163203,
+        "num": 163203,
+        "word": "瘦腿界的邪修",
+        "onboard_time": 1753503322,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159592,
+        "num": 159592,
+        "word": "王琳圈内人缘",
+        "onboard_time": 1753505484,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155680,
+        "num": 155680,
+        "word": "深情眼",
+        "onboard_time": 1753506442,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151679,
+        "num": 151679,
+        "word": "每天1杯奶茶后3个月的外貌变化",
+        "onboard_time": 1753490722,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145209,
+        "num": 145209,
+        "word": "终于明白自己的消费观多么畸形",
+        "onboard_time": 1753506383,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44756,
+        "num": 144147,
+        "word": "数智新时代电商新价值",
+        "onboard_time": 1753506922,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143119,
+        "num": 143119,
+        "word": "心疼陈昊宇",
+        "onboard_time": 1753502242,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141730,
+        "num": 141730,
+        "word": "HR何时能消除学历歧视",
+        "onboard_time": 1753507403,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141550,
+        "num": 141550,
+        "word": "终于有下雨天会打伞的男女主了",
+        "onboard_time": 1753504461,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139112,
+        "num": 139112,
+        "word": "张艺兴first电影市场主理人",
+        "onboard_time": 1753506742,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139075,
+        "num": 139075,
+        "word": "林昀儒3比1松岛辉空",
+        "onboard_time": 1753506742,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138116,
+        "num": 138116,
+        "word": "考古张予曦",
+        "onboard_time": 1753505962,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134214,
+        "num": 134214,
+        "word": "原来肖战也是王琳的儿子",
+        "onboard_time": 1753491681,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131220,
+        "num": 131220,
+        "word": "张雪峰包场请全公司看长安的荔枝",
+        "onboard_time": 1753507582,
+        "rank": 40,
+        "category": "电影,互联网"
+      },
+      {
+        "raw_hot": 129595,
+        "num": 129595,
+        "word": "谁给檀健次孟子义递本子就当为了我",
+        "onboard_time": 1753504403,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127624,
+        "num": 127624,
+        "word": "谢娜一家反骨的爸操心的孩无奈的妈",
+        "onboard_time": 1753507642,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126775,
+        "num": 126775,
+        "word": "25年前与普京合影的中国男孩找到了",
+        "onboard_time": 1753507582,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120874,
+        "num": 120874,
+        "word": "这才是真正的有效标语",
+        "onboard_time": 1753507703,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119865,
+        "num": 119865,
+        "word": "原来猫下手知道分轻重啊",
+        "onboard_time": 1753505783,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117161,
+        "num": 117161,
+        "word": "复刻懂车帝消失的前车",
+        "onboard_time": 1753506023,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114935,
+        "num": 114935,
+        "word": "和什么样的人结婚才会幸福",
+        "onboard_time": 1753498162,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113555,
+        "num": 113555,
+        "word": "易烊千玺礐嶨演唱会宣传片释出",
+        "onboard_time": 1753505663,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97473,
+        "num": 112848,
+        "word": "兵马俑身上发现100多枚工匠指纹",
+        "onboard_time": 1753489700,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受外国新任驻华大使递交国书#"
+    }
+  }
+}
