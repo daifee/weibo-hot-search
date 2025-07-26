@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753518816010,
+  "endTime": 1753519675390,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -17,6 +17,14 @@
       "onboard_time": 1753491201,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1755550,
+      "num": 1755550,
+      "word": "张碧晨方说无需多言",
+      "onboard_time": 1753518801,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1688209,
@@ -99,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1064041,
+      "num": 902954,
+      "word": "拉塞尔 出轨",
+      "onboard_time": 1753517362,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 969178,
       "num": 969178,
       "word": "美国在病毒爆发前研发出疫苗",
@@ -131,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824894,
+      "num": 824894,
+      "word": "女生凌晨未接挪车电话车子被砸",
+      "onboard_time": 1753514121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 784223,
       "num": 532244,
       "word": "汪苏泷方希望纷扰止于今夜",
       "onboard_time": 1753489161,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 746120,
-      "num": 746120,
-      "word": "女生凌晨未接挪车电话车子被砸",
-      "onboard_time": 1753514121,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 741657,
@@ -169,6 +185,14 @@
       "onboard_time": 1753510702,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 714403,
+      "num": 216947,
+      "word": "女性摆脱不穿内衣的羞耻后有多爽",
+      "onboard_time": 1753513941,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 671778,
@@ -211,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 598977,
-      "num": 216947,
-      "word": "女性摆脱不穿内衣的羞耻后有多爽",
-      "onboard_time": 1753513941,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 582447,
       "num": 582447,
       "word": "兵马俑身上发现100多枚工匠指纹",
@@ -241,14 +257,6 @@
       "onboard_time": 1753497080,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 536715,
-      "num": 536715,
-      "word": "拉塞尔 出轨",
-      "onboard_time": 1753517362,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 510445,
@@ -307,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 430177,
+      "num": 430177,
+      "word": "艾滋病人信息保密是否合理",
+      "onboard_time": 1753516581,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423735,
       "num": 217671,
       "word": "董璇自曝再婚后与丈夫分开住",
@@ -329,14 +345,6 @@
       "onboard_time": 1753508602,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 420027,
-      "num": 272805,
-      "word": "艾滋病人信息保密是否合理",
-      "onboard_time": 1753516581,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 408297,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 283882,
-      "num": 250475,
+      "num": 253166,
       "word": "宋亚轩回应粉丝长灯牌",
       "onboard_time": 1753513402,
       "rank": 20,
@@ -571,20 +579,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231791,
+      "num": 231791,
+      "word": "樱桃琥珀意识流婚礼",
+      "onboard_time": 1753517061,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229593,
       "num": 205693,
       "word": "沈小婷一个人打2份工",
       "onboard_time": 1753501522,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229393,
-      "num": 229393,
-      "word": "樱桃琥珀意识流婚礼",
-      "onboard_time": 1753517061,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 226188,
@@ -657,6 +665,14 @@
       "onboard_time": 1753490781,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201542,
+      "num": 226746,
+      "word": "歌谣大战红毯",
+      "onboard_time": 1753516822,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 201036,
@@ -737,14 +753,6 @@
       "onboard_time": 1753515021,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190542,
-      "num": 226459,
-      "word": "歌谣大战红毯",
-      "onboard_time": 1753516822,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 190399,
@@ -843,6 +851,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 177777,
+      "num": 177777,
+      "word": "樊振东名人面对面",
+      "onboard_time": 1753519402,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177146,
       "num": 177146,
       "word": "谭维维别唱了杨洋已经哭了",
@@ -915,6 +931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161711,
+      "num": 161711,
+      "word": "房主任太炸了",
+      "onboard_time": 1753517842,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161190,
       "num": 161190,
       "word": "马丽字字不提沈腾句句是沈腾",
@@ -937,6 +961,14 @@
       "onboard_time": 1753507703,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159647,
+      "num": 134951,
+      "word": "985硕士首月工资分享",
+      "onboard_time": 1753518983,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 159592,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1753456466,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147318,
+      "num": 205113,
+      "word": "胡先煦赛道被阮经天闯进来了",
+      "onboard_time": 1753518503,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 146109,
@@ -1172,7 +1212,7 @@
     },
     {
       "raw_hot": 141157,
-      "num": 138001,
+      "num": 147615,
       "word": "单依纯回复李冰冰",
       "onboard_time": 1753514601,
       "rank": 47,
@@ -1275,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134560,
+      "num": 134560,
+      "word": "周内小鸟胃周六鹈鹕胃",
+      "onboard_time": 1753518322,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133866,
       "num": 133866,
       "word": "沈月最美永远下一期",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1753515262,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132979,
-      "num": 205113,
-      "word": "胡先煦赛道被阮经天闯进来了",
-      "onboard_time": 1753518503,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 132228,
@@ -1323,6 +1363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129573,
+      "num": 129573,
+      "word": "华熙生物报案",
+      "onboard_time": 1753518682,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129391,
       "num": 129391,
       "word": "鸿蒙智行辅助驾驶报告去掉智能二字",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1753502362,
       "rank": 35,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 128191,
+      "num": 128191,
+      "word": "肖战不内耗",
+      "onboard_time": 1753519102,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 128101,
@@ -1376,6 +1432,22 @@
       "word": "全妆住酒店把一个好人逼没辙了",
       "onboard_time": 1753514121,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126922,
+      "num": 126230,
+      "word": "艺术家肖战的文笔",
+      "onboard_time": 1753513642,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126318,
+      "num": 126318,
+      "word": "歌手",
+      "onboard_time": 1753519342,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1425,6 +1497,14 @@
       "onboard_time": 1753491081,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121903,
+      "num": 220552,
+      "word": "伊朗大楼恐袭已致5死13伤",
+      "onboard_time": 1753518381,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120916,
@@ -1499,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118161,
-      "num": 126230,
-      "word": "艺术家肖战的文笔",
-      "onboard_time": 1753513642,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118052,
       "num": 118052,
       "word": "世运会120棒火炬手11公里火炬传递",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1753461562,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117281,
+      "num": 117281,
+      "word": "结婚后才明白什么是隐形家务",
+      "onboard_time": 1753518142,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 117161,
@@ -1555,12 +1635,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113585,
-      "num": 113585,
-      "word": "房主任太炸了",
-      "onboard_time": 1753517842,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 114759,
+      "num": 114759,
+      "word": "李在明回应在韩外籍劳工被挂叉车上",
+      "onboard_time": 1753516461,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113057,
@@ -1603,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111060,
+      "num": 111060,
+      "word": "在互联网你甚至能看到给水壶过生日",
+      "onboard_time": 1753518742,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110522,
       "num": 115095,
       "word": "张予曦毕雯珺好嗑",
@@ -1635,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107209,
-      "num": 107209,
-      "word": "李在明回应在韩外籍劳工被挂叉车上",
-      "onboard_time": 1753516461,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105705,
       "num": 105705,
       "word": "和平精英",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1753453349,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105464,
+      "num": 105464,
+      "word": "月薪三千4年存了10万块",
+      "onboard_time": 1753519402,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 105316,
@@ -1681,14 +1769,6 @@
       "onboard_time": 1753517962,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102765,
-      "num": 102765,
-      "word": "结婚后才明白什么是隐形家务",
-      "onboard_time": 1753518142,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 102526,
@@ -1779,12 +1859,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94574,
-      "num": 94574,
-      "word": "周内小鸟胃周六鹈鹕胃",
-      "onboard_time": 1753518322,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 94776,
+      "num": 224050,
+      "word": "朝雪录 纯爱变背德",
+      "onboard_time": 1753518862,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 94366,
@@ -1800,14 +1880,6 @@
       "word": "太子见皇叔谁先下跪",
       "onboard_time": 1753509082,
       "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 92300,
-      "num": 92300,
-      "word": "在互联网你甚至能看到给水壶过生日",
-      "onboard_time": 1753518742,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1955,14 +2027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74948,
-      "num": 103826,
-      "word": "华熙生物报案",
-      "onboard_time": 1753518682,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74943,
       "num": 215755,
       "word": "歌手云端谁在投",
@@ -2043,14 +2107,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64155,
-      "num": 220552,
-      "word": "伊朗大楼恐袭已致5死13伤",
-      "onboard_time": 1753518381,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63661,
       "num": 63661,
       "word": "为什么你人很好却交不到真朋友",
@@ -2072,6 +2128,14 @@
       "word": "耳帝缺席",
       "onboard_time": 1753463120,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56293,
+      "num": 109953,
+      "word": "杨幂王牌9录制出发",
+      "onboard_time": 1753519642,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -2129,6 +2193,14 @@
       "onboard_time": 1753500622,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47456,
+      "num": 136164,
+      "word": "外籍工人在韩国工地被绑上叉车",
+      "onboard_time": 1753519583,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46028,

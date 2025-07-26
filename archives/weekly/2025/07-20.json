@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753518816010,
+  "endTime": 1753519675390,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -353,6 +353,14 @@
       "onboard_time": 1753068201,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1755550,
+      "num": 1755550,
+      "word": "张碧晨方说无需多言",
+      "onboard_time": 1753518801,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1742226,
@@ -1003,6 +1011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1064041,
+      "num": 902954,
+      "word": "拉塞尔 出轨",
+      "onboard_time": 1753517362,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1062225,
       "num": 483045,
       "word": "东北大学一遇难男生堂妹发声",
@@ -1419,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824894,
+      "num": 824894,
+      "word": "女生凌晨未接挪车电话车子被砸",
+      "onboard_time": 1753514121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 824513,
       "num": 824513,
       "word": "赵露思ELLE首封",
@@ -1571,14 +1595,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 746120,
-      "num": 746120,
-      "word": "女生凌晨未接挪车电话车子被砸",
-      "onboard_time": 1753514121,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 741720,
       "num": 741720,
       "word": "19岁男生刚上大一就拿到国企offer",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1753331186,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 714403,
+      "num": 216947,
+      "word": "女性摆脱不穿内衣的羞耻后有多爽",
+      "onboard_time": 1753513941,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 708870,
@@ -2307,14 +2331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 598977,
-      "num": 216947,
-      "word": "女性摆脱不穿内衣的羞耻后有多爽",
-      "onboard_time": 1753513941,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 594511,
       "num": 393878,
       "word": "阚清子老公",
@@ -2705,14 +2721,6 @@
       "onboard_time": 1753348524,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536715,
-      "num": 536715,
-      "word": "拉塞尔 出轨",
-      "onboard_time": 1753517362,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 535905,
@@ -3579,6 +3587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 430177,
+      "num": 430177,
+      "word": "艾滋病人信息保密是否合理",
+      "onboard_time": 1753516581,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429783,
       "num": 429783,
       "word": "张凌赫说好演员最重要的是人品",
@@ -3689,14 +3705,6 @@
       "onboard_time": 1753508602,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 420027,
-      "num": 272805,
-      "word": "艾滋病人信息保密是否合理",
-      "onboard_time": 1753516581,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 416313,
@@ -5468,7 +5476,7 @@
     },
     {
       "raw_hot": 283882,
-      "num": 250475,
+      "num": 253166,
       "word": "宋亚轩回应粉丝长灯牌",
       "onboard_time": 1753513402,
       "rank": 20,
@@ -6459,6 +6467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231791,
+      "num": 231791,
+      "word": "樱桃琥珀意识流婚礼",
+      "onboard_time": 1753517061,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231755,
       "num": 402034,
       "word": "陈楚生回应歌手难听",
@@ -6521,14 +6537,6 @@
       "onboard_time": 1753501522,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229393,
-      "num": 229393,
-      "word": "樱桃琥珀意识流婚礼",
-      "onboard_time": 1753517061,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 229333,
@@ -7755,6 +7763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201542,
+      "num": 226746,
+      "word": "歌谣大战红毯",
+      "onboard_time": 1753516822,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "X玖少年团成员集体改名",
@@ -8489,14 +8505,6 @@
       "onboard_time": 1753446926,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190542,
-      "num": 226459,
-      "word": "歌谣大战红毯",
-      "onboard_time": 1753516822,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 190491,
@@ -9481,6 +9489,14 @@
       "onboard_time": 1753160423,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177777,
+      "num": 177777,
+      "word": "樊振东名人面对面",
+      "onboard_time": 1753519402,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 177677,
@@ -10635,6 +10651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161711,
+      "num": 161711,
+      "word": "房主任太炸了",
+      "onboard_time": 1753517842,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161594,
       "num": 161594,
       "word": "扫毒风暴",
@@ -10889,6 +10913,14 @@
       "onboard_time": 1753284153,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 159647,
+      "num": 134951,
+      "word": "985硕士首月工资分享",
+      "onboard_time": 1753518983,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 159592,
@@ -11979,6 +12011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147318,
+      "num": 205113,
+      "word": "胡先煦赛道被阮经天闯进来了",
+      "onboard_time": 1753518503,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147140,
       "num": 264542,
       "word": "终于等到燕迟摘面具这一下",
@@ -12612,7 +12652,7 @@
     },
     {
       "raw_hot": 141157,
-      "num": 138001,
+      "num": 147615,
       "word": "单依纯回复李冰冰",
       "onboard_time": 1753514601,
       "rank": 47,
@@ -13339,6 +13379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134560,
+      "num": 134560,
+      "word": "周内小鸟胃周六鹈鹕胃",
+      "onboard_time": 1753518322,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134555,
       "num": 134555,
       "word": "王多多谈AL惜败GEN",
@@ -13569,14 +13617,6 @@
       "onboard_time": 1753365325,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132979,
-      "num": 205113,
-      "word": "胡先煦赛道被阮经天闯进来了",
-      "onboard_time": 1753518503,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 132941,
@@ -13987,6 +14027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129573,
+      "num": 129573,
+      "word": "华熙生物报案",
+      "onboard_time": 1753518682,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129469,
       "num": 129469,
       "word": "丁禹兮生日卡片点赞破千万",
@@ -14145,6 +14193,14 @@
       "onboard_time": 1752986901,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128191,
+      "num": 128191,
+      "word": "肖战不内耗",
+      "onboard_time": 1753519102,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 128177,
@@ -14321,6 +14377,14 @@
       "onboard_time": 1753256241,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126922,
+      "num": 126230,
+      "word": "艺术家肖战的文笔",
+      "onboard_time": 1753513642,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 126907,
@@ -14947,6 +15011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121903,
+      "num": 220552,
+      "word": "伊朗大楼恐袭已致5死13伤",
+      "onboard_time": 1753518381,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121817,
       "num": 121817,
       "word": "连续30天早睡面部的变化",
@@ -15539,14 +15611,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 118161,
-      "num": 126230,
-      "word": "艺术家肖战的文笔",
-      "onboard_time": 1753513642,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118151,
       "num": 229167,
       "word": "Rain法拉利老了还是法拉利",
@@ -15649,6 +15713,14 @@
       "onboard_time": 1753326804,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117281,
+      "num": 117281,
+      "word": "结婚后才明白什么是隐形家务",
+      "onboard_time": 1753518142,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 117163,
@@ -16027,6 +16099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114759,
+      "num": 114759,
+      "word": "李在明回应在韩外籍劳工被挂叉车上",
+      "onboard_time": 1753516461,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114711,
       "num": 332820,
       "word": "律师称业内封杀侵犯求职者名誉权",
@@ -16225,14 +16305,6 @@
       "onboard_time": 1753415004,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 113585,
-      "num": 113585,
-      "word": "房主任太炸了",
-      "onboard_time": 1753517842,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 113477,
@@ -16608,6 +16680,14 @@
       "word": "景区用拉布拉多假装藏獒",
       "onboard_time": 1753427182,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111060,
+      "num": 111060,
+      "word": "在互联网你甚至能看到给水壶过生日",
+      "onboard_time": 1753518742,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -17027,14 +17107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107209,
-      "num": 107209,
-      "word": "李在明回应在韩外籍劳工被挂叉车上",
-      "onboard_time": 1753516461,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 106984,
       "num": 106984,
       "word": "锦绣芳华高光战报",
@@ -17265,6 +17337,14 @@
       "onboard_time": 1752917002,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105464,
+      "num": 105464,
+      "word": "月薪三千4年存了10万块",
+      "onboard_time": 1753519402,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 105316,
@@ -17513,14 +17593,6 @@
       "onboard_time": 1753517962,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102765,
-      "num": 102765,
-      "word": "结婚后才明白什么是隐形家务",
-      "onboard_time": 1753518142,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 102692,
@@ -18195,6 +18267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94776,
+      "num": 224050,
+      "word": "朝雪录 纯爱变背德",
+      "onboard_time": 1753518862,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94760,
       "num": 217216,
       "word": "房主任登上上海大屏",
@@ -18217,14 +18297,6 @@
       "onboard_time": 1753180281,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94574,
-      "num": 94574,
-      "word": "周内小鸟胃周六鹈鹕胃",
-      "onboard_time": 1753518322,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 94452,
@@ -18425,14 +18497,6 @@
       "onboard_time": 1752988942,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92300,
-      "num": 92300,
-      "word": "在互联网你甚至能看到给水壶过生日",
-      "onboard_time": 1753518742,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 92293,
@@ -19211,14 +19275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 74948,
-      "num": 103826,
-      "word": "华熙生物报案",
-      "onboard_time": 1753518682,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74933,
       "num": 140580,
       "word": "师姐的朋友圈",
@@ -19715,14 +19771,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64155,
-      "num": 220552,
-      "word": "伊朗大楼恐袭已致5死13伤",
-      "onboard_time": 1753518381,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63770,
       "num": 152536,
       "word": "距米兰冬奥会还有200天",
@@ -20081,6 +20129,14 @@
       "onboard_time": 1753053378,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56293,
+      "num": 109953,
+      "word": "杨幂王牌9录制出发",
+      "onboard_time": 1753519642,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 56124,
@@ -20481,6 +20537,14 @@
       "onboard_time": 1753203021,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47456,
+      "num": 136164,
+      "word": "外籍工人在韩国工地被绑上叉车",
+      "onboard_time": 1753519583,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47452,
