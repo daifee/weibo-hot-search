@@ -1,0 +1,410 @@
+{
+  "runTime": 1753501631791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1722411,
+        "num": 1722411,
+        "word": "张碧晨有三首歌都是汪苏泷作词作曲",
+        "onboard_time": 1753491201,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1093509,
+        "num": 1093509,
+        "word": "博士学历爸爸无法接受抽动症儿子",
+        "onboard_time": 1753499302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26089,
+        "num": 737228,
+        "word": "打卡夏天里的大美中国",
+        "onboard_time": 1753451368,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670244,
+        "num": 670244,
+        "word": "636分考生放弃985选民办大学",
+        "onboard_time": 1753500082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540176,
+        "num": 540176,
+        "word": "建议大家要舍得为自己花钱",
+        "onboard_time": 1753497080,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 550967,
+        "num": 532244,
+        "word": "汪苏泷方希望纷扰止于今夜",
+        "onboard_time": 1753489161,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510445,
+        "num": 510445,
+        "word": "沈佳润美美桑内出圈了",
+        "onboard_time": 1753494802,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415071,
+        "num": 415071,
+        "word": "731",
+        "onboard_time": 1753499541,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384685,
+        "num": 384685,
+        "word": "每天1杯奶茶后3个月的外貌变化",
+        "onboard_time": 1753490722,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100439,
+        "num": 365124,
+        "word": "广东基孔肯雅热疫情快速传播正常吗",
+        "onboard_time": 1753500322,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56627,
+        "num": 363894,
+        "word": "周深把我唱饿了",
+        "onboard_time": 1753499662,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 669369,
+        "num": 363681,
+        "word": "基孔肯雅热 致残",
+        "onboard_time": 1753494382,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363444,
+        "num": 363444,
+        "word": "你好星期六两位店长的兵来了",
+        "onboard_time": 1753498401,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346398,
+        "num": 346398,
+        "word": "平台回应张馨予碰到聋哑人外卖员",
+        "onboard_time": 1753498822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328927,
+        "num": 328927,
+        "word": "杭州6人男寝4清北1浙大1交大",
+        "onboard_time": 1753491501,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 258747,
+        "num": 258747,
+        "word": "杨幂治好了我的犯错羞耻症",
+        "onboard_time": 1753498462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243813,
+        "num": 243813,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1753499122,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242903,
+        "num": 242903,
+        "word": "原来肖战也是王琳的儿子",
+        "onboard_time": 1753491681,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213992,
+        "num": 213992,
+        "word": "出远门一定要记得在冰箱里放戒指",
+        "onboard_time": 1753493361,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25621,
+        "num": 211146,
+        "word": "相似浮选槽格栅板多处仍存在裂口",
+        "onboard_time": 1753500622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772247,
+        "num": 211121,
+        "word": "张碧晨方称享有年轮永久演唱权利",
+        "onboard_time": 1753442423,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211044,
+        "num": 211044,
+        "word": "外交部向日方提出强烈抗议",
+        "onboard_time": 1753495822,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278737,
+        "num": 210796,
+        "word": "年轮纠纷撕裂了谁的体面",
+        "onboard_time": 1753458384,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239416,
+        "num": 210484,
+        "word": "和什么样的人结婚才会幸福",
+        "onboard_time": 1753498162,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238318,
+        "num": 210343,
+        "word": "许嵩太超前了",
+        "onboard_time": 1753496782,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210050,
+        "num": 210050,
+        "word": "沈梦辰一把按住胡海泉",
+        "onboard_time": 1753501161,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199624,
+        "num": 199624,
+        "word": "兵马俑身上发现100多枚工匠指纹",
+        "onboard_time": 1753489700,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 189673,
+        "num": 189673,
+        "word": "中国女篮击败美国卫冕大运金牌",
+        "onboard_time": 1753498281,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153956,
+        "num": 153956,
+        "word": "女子吃羊胎盘补身体感染致命细菌",
+        "onboard_time": 1753497080,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151407,
+        "num": 151407,
+        "word": "银河左岸 还我朴宰范",
+        "onboard_time": 1753498042,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150747,
+        "num": 150747,
+        "word": "网易有权力删号吗",
+        "onboard_time": 1753499722,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149024,
+        "num": 149024,
+        "word": "歌手排名",
+        "onboard_time": 1753453889,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146559,
+        "num": 146559,
+        "word": "刘宇宁礼貌性脱鞋",
+        "onboard_time": 1753501282,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132177,
+        "num": 132177,
+        "word": "佛山顺德确诊3627例基孔肯雅热",
+        "onboard_time": 1753486099,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128101,
+        "num": 128101,
+        "word": "林昀儒梁靖崑3比0徐瑛彬袁励岑",
+        "onboard_time": 1753501041,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126824,
+        "num": 126824,
+        "word": "第三批国补资金已下达",
+        "onboard_time": 1753486459,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 126064,
+        "num": 126064,
+        "word": "银河左岸",
+        "onboard_time": 1753499243,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123025,
+        "num": 123025,
+        "word": "网易口碑",
+        "onboard_time": 1753499722,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47835,
+        "num": 121814,
+        "word": "男子称200元凉拖高温缩成童鞋",
+        "onboard_time": 1753500622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119137,
+        "num": 121171,
+        "word": "宋亚轩说爱是不止此刻",
+        "onboard_time": 1753501340,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120735,
+        "num": 120735,
+        "word": "中国最神秘军校72年来首次招女生",
+        "onboard_time": 1753475055,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 119052,
+        "num": 119052,
+        "word": "严浩翔站姐",
+        "onboard_time": 1753491081,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113961,
+        "num": 113961,
+        "word": "沈小婷一个人打2份工",
+        "onboard_time": 1753501522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112663,
+        "num": 112663,
+        "word": "广东佛山基孔肯雅热确诊已超4000例",
+        "onboard_time": 1753495340,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108055,
+        "num": 108055,
+        "word": "淋雨后一定要洗澡",
+        "onboard_time": 1753500562,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 104442,
+        "num": 104442,
+        "word": "日本一份面条母子两人分着吃",
+        "onboard_time": 1753495822,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103841,
+        "num": 103841,
+        "word": "网易 一年不登录自动注销",
+        "onboard_time": 1753500322,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102861,
+        "num": 102861,
+        "word": "90后夫妻结婚14年丈夫出轨8年",
+        "onboard_time": 1753456646,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100439,
+        "num": 100439,
+        "word": "Faker和oner合唱",
+        "onboard_time": 1753501161,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97324,
+        "num": 97324,
+        "word": "你在餐厅等候上菜的极限时间是多长",
+        "onboard_time": 1753501522,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平妙喻阐释中欧关系发展之道#"
+    }
+  }
+}
