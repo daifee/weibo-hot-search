@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753505186380,
+  "endTime": 1753505825330,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -2491,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1296916,
+      "num": 1296916,
+      "word": "731",
+      "onboard_time": 1752831081,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1294555,
       "num": 1294555,
       "word": "王晶曝成龙被粉丝扇耳光",
@@ -2897,14 +2905,6 @@
       "onboard_time": 1752460461,
       "rank": 30,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 1212102,
-      "num": 1212102,
-      "word": "731",
-      "onboard_time": 1752831081,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 1211637,
@@ -3540,7 +3540,7 @@
     },
     {
       "raw_hot": 1106037,
-      "num": 546215,
+      "num": 582285,
       "word": "淘宝闪购",
       "onboard_time": 1752282021,
       "rank": 11,
@@ -4339,6 +4339,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 969178,
+      "num": 969178,
+      "word": "美国在病毒爆发前研发出疫苗",
+      "onboard_time": 1753501883,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 968427,
       "num": 968427,
       "word": "九江教育局致歉",
@@ -4393,14 +4401,6 @@
       "onboard_time": 1751706141,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 964643,
-      "num": 964643,
-      "word": "美国在病毒爆发前研发出疫苗",
-      "onboard_time": 1753501883,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 962933,
@@ -5099,20 +5099,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 882596,
+      "num": 358207,
+      "word": "孔雪儿负债期间还捐款",
+      "onboard_time": 1753502903,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 881393,
       "num": 881393,
       "word": "洪崖洞一游客遭陌生女子强拉拍照",
       "onboard_time": 1752295580,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 880972,
-      "num": 345237,
-      "word": "孔雪儿负债期间还捐款",
-      "onboard_time": 1753502903,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 876609,
@@ -12772,7 +12772,7 @@
     },
     {
       "raw_hot": 464582,
-      "num": 339642,
+      "num": 412543,
       "word": "梁靖崑乒超因伤退赛",
       "onboard_time": 1753503143,
       "rank": 11,
@@ -15297,6 +15297,14 @@
       "onboard_time": 1751784801,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393059,
+      "num": 393059,
+      "word": "减肥太猛断崖式变老了",
+      "onboard_time": 1753503802,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 392941,
@@ -18153,14 +18161,6 @@
       "onboard_time": 1751376685,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330973,
-      "num": 330973,
-      "word": "减肥太猛断崖式变老了",
-      "onboard_time": 1753503802,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 330598,
@@ -23027,6 +23027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260898,
+      "num": 260898,
+      "word": "柬埔寨要求立即无条件停火",
+      "onboard_time": 1753503981,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 260459,
       "num": 260459,
       "word": "朋友圈的窒息感",
@@ -26820,7 +26828,7 @@
     },
     {
       "raw_hot": 221519,
-      "num": 167315,
+      "num": 179136,
       "word": "瘦腿界的邪修",
       "onboard_time": 1753503322,
       "rank": 31,
@@ -28137,6 +28145,14 @@
       "onboard_time": 1752447557,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213884,
+      "num": 213884,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1753505422,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 213857,
@@ -30827,6 +30843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201036,
+      "num": 201036,
+      "word": "抽动症",
+      "onboard_time": 1753504884,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "王一博VOGUE",
@@ -31291,6 +31315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199532,
+      "num": 179858,
+      "word": "于正你把白鹿当逗号用呢",
+      "onboard_time": 1753504884,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199512,
       "num": 233257,
       "word": "景甜37岁晒照庆生",
@@ -31529,6 +31561,14 @@
       "onboard_time": 1752214763,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198529,
+      "num": 198529,
+      "word": "米蛆",
+      "onboard_time": 1753504224,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 198486,
@@ -34363,6 +34403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188209,
+      "num": 179551,
+      "word": "终于有下雨天会打伞的男女主了",
+      "onboard_time": 1753504461,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188197,
       "num": 188197,
       "word": "者来女火星电台淘汰",
@@ -36241,6 +36289,14 @@
       "onboard_time": 1752501925,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 181238,
+      "num": 181238,
+      "word": "重庆动物园",
+      "onboard_time": 1753503802,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181188,
@@ -38323,6 +38379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173676,
+      "num": 173676,
+      "word": "快递箱 甲醛",
+      "onboard_time": 1753501643,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173637,
       "num": 173637,
       "word": "桃子已经离谱到用吸管喝了",
@@ -38755,14 +38819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172349,
-      "num": 172349,
-      "word": "抽动症",
-      "onboard_time": 1753504884,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 172296,
       "num": 207383,
       "word": "乌克兰称首都遭俄军大规模袭击",
@@ -39155,14 +39211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171018,
-      "num": 171018,
-      "word": "米蛆",
-      "onboard_time": 1753504224,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 171016,
       "num": 414934,
       "word": "娇妻文学不是荣誉书而是举报信",
@@ -39337,14 +39385,6 @@
       "onboard_time": 1753441584,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170522,
-      "num": 170522,
-      "word": "终于有下雨天会打伞的男女主了",
-      "onboard_time": 1753504461,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 170453,
@@ -41235,6 +41275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163905,
+      "num": 163905,
+      "word": "皮蛋 不能生吃",
+      "onboard_time": 1753505302,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163903,
       "num": 163903,
       "word": "谁敢老了以后这样生活",
@@ -42009,14 +42057,6 @@
       "onboard_time": 1753426223,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161478,
-      "num": 161478,
-      "word": "于正你把白鹿当逗号用呢",
-      "onboard_time": 1753504884,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 161442,
@@ -43147,6 +43187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157873,
+      "num": 157873,
+      "word": "易烊千玺礐嶨演唱会宣传片释出",
+      "onboard_time": 1753505663,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157846,
       "num": 157846,
       "word": "梓渝live营业",
@@ -43339,14 +43387,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 157158,
-      "num": 157158,
-      "word": "快递箱 甲醛",
-      "onboard_time": 1753501643,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 157133,
       "num": 164238,
       "word": "黄仁勋称中国军方不会使用美国技术",
@@ -43433,14 +43473,6 @@
       "onboard_time": 1752143182,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 156941,
-      "num": 169555,
-      "word": "重庆动物园",
-      "onboard_time": 1753503802,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156907,
@@ -57507,6 +57539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123823,
+      "num": 123823,
+      "word": "王琳圈内人缘",
+      "onboard_time": 1753505484,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123818,
       "num": 258705,
       "word": "若塔最后一条动态是婚礼纪录片",
@@ -59115,6 +59155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120666,
+      "num": 120666,
+      "word": "养成系偶像出道七年背后的苦与泪",
+      "onboard_time": 1753505544,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120657,
       "num": 120657,
       "word": "国产剧不搞雌竞搞雌敬",
@@ -60673,6 +60721,14 @@
       "onboard_time": 1752816261,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117827,
+      "num": 117827,
+      "word": "原来猫下手知道分轻重啊",
+      "onboard_time": 1753505783,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 117826,
@@ -63187,6 +63243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113057,
+      "num": 113057,
+      "word": "柳岩修仙剧里妈妈级别",
+      "onboard_time": 1753505544,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113040,
       "num": 113040,
       "word": "虞书欣wakuku塑",
@@ -64585,6 +64649,14 @@
       "onboard_time": 1752038244,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110225,
+      "num": 363894,
+      "word": "周深把我唱饿了",
+      "onboard_time": 1753499662,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110220,
@@ -69417,14 +69489,6 @@
       "onboard_time": 1751784081,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98972,
-      "num": 363894,
-      "word": "周深把我唱饿了",
-      "onboard_time": 1753499662,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98906,
@@ -74569,14 +74633,6 @@
       "onboard_time": 1751671938,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 76256,
-      "num": 179852,
-      "word": "柬埔寨要求立即无条件停火",
-      "onboard_time": 1753503981,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76242,
