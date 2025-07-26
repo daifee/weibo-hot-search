@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753547545813,
+  "endTime": 1753548569605,
   "band_list": [
     {
       "raw_hot": 2110545,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 905641,
-      "num": 691359,
+      "num": 813282,
       "word": "丁程鑫脖子上有唇印",
       "onboard_time": 1753538486,
       "rank": 3,
       "category": "演出"
     },
     {
-      "raw_hot": 691404,
-      "num": 691404,
+      "raw_hot": 850651,
+      "num": 850651,
       "word": "TTG对战AG",
       "onboard_time": 1753536747,
       "rank": 1,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 404672,
-      "num": 280128,
+      "num": 369730,
       "word": "柯淳自曝经济状况紧张",
       "onboard_time": 1753533503,
       "rank": 11,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 388045,
-      "num": 278505,
+      "num": 282607,
       "word": "刘耀文舌钉",
       "onboard_time": 1753536866,
       "rank": 12,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281755,
-      "num": 281755,
+      "raw_hot": 284934,
+      "num": 284934,
       "word": "俄车臣领导人卡德罗夫突然溺水",
       "onboard_time": 1753544485,
       "rank": 9,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271233,
+      "num": 271233,
+      "word": "太宰治",
+      "onboard_time": 1753542686,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 268289,
       "num": 268289,
       "word": "花千骨和三生三世十里桃花哪个更爆",
@@ -123,12 +131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254283,
-      "num": 254283,
-      "word": "太宰治",
-      "onboard_time": 1753542686,
-      "rank": 16,
-      "category": "动漫"
+      "raw_hot": 227972,
+      "num": 227972,
+      "word": "李雪琴携男友看毛不易演唱会",
+      "onboard_time": 1753532484,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 218981,
+      "num": 218981,
+      "word": "演唱会CEO出轨的最大赢家出现了",
+      "onboard_time": 1753532063,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 201468,
@@ -137,22 +153,6 @@
       "onboard_time": 1753541247,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197920,
-      "num": 197920,
-      "word": "演唱会CEO出轨的最大赢家出现了",
-      "onboard_time": 1753532063,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 196995,
-      "num": 196995,
-      "word": "李雪琴携男友看毛不易演唱会",
-      "onboard_time": 1753532484,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 183857,
@@ -219,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145810,
+      "num": 145810,
+      "word": "周笔畅这背不拔罐可惜了",
+      "onboard_time": 1753546164,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140658,
       "num": 140658,
       "word": "严浩翔衣服呢",
       "onboard_time": 1753538486,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140507,
+      "num": 140507,
+      "word": "糊涂家长下猛药女婴被喂出肝衰竭",
+      "onboard_time": 1753547543,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137630,
@@ -267,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122452,
-      "num": 122452,
-      "word": "周笔畅这背不拔罐可惜了",
-      "onboard_time": 1753546164,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120643,
       "num": 120643,
       "word": "何浩楠完蛋了天塌了",
@@ -283,8 +291,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114578,
-      "num": 114578,
+      "raw_hot": 116326,
+      "num": 116326,
       "word": "房主任好牛",
       "onboard_time": 1753546943,
       "rank": 37,
@@ -339,7 +347,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92237,
+      "raw_hot": 93155,
       "num": 103180,
       "word": "洪水涌入县城一金店近20公斤货被冲走",
       "onboard_time": 1753544965,
@@ -380,27 +388,35 @@
     },
     {
       "raw_hot": 85554,
-      "num": 691359,
+      "num": 828977,
       "word": "李子柒眼中的吉林之美",
       "onboard_time": 1753542386,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 73619,
-      "num": 112799,
-      "word": "机器人做菜做生气了",
-      "onboard_time": 1753546764,
-      "rank": 39,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 56116,
+      "raw_hot": 82952,
       "num": 138818,
       "word": "基孔肯雅热患者记录病程",
       "onboard_time": 1753546284,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81461,
+      "num": 90808,
+      "word": "BLG战胜AL",
+      "onboard_time": 1753535007,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 77075,
+      "num": 112799,
+      "word": "机器人做菜做生气了",
+      "onboard_time": 1753546764,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [
