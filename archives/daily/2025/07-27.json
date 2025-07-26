@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753548569605,
+  "endTime": 1753550765586,
   "band_list": [
     {
       "raw_hot": 2110545,
@@ -97,6 +97,14 @@
       "onboard_time": 1753529182,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349041,
+      "num": 193768,
+      "word": "糊涂家长下猛药女婴被喂出肝衰竭",
+      "onboard_time": 1753547543,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284934,
@@ -235,14 +243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140507,
-      "num": 140507,
-      "word": "糊涂家长下猛药女婴被喂出肝衰竭",
-      "onboard_time": 1753547543,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137630,
       "num": 137630,
       "word": "刘宇宁不演燃羽",
@@ -283,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122354,
+      "num": 116326,
+      "word": "房主任好牛",
+      "onboard_time": 1753546943,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120643,
       "num": 120643,
       "word": "何浩楠完蛋了天塌了",
       "onboard_time": 1753543945,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116326,
-      "num": 116326,
-      "word": "房主任好牛",
-      "onboard_time": 1753546943,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 113077,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86037,
+      "num": 138818,
+      "word": "基孔肯雅热患者记录病程",
+      "onboard_time": 1753546284,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85554,
       "num": 828977,
       "word": "李子柒眼中的吉林之美",
@@ -395,20 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82952,
-      "num": 138818,
-      "word": "基孔肯雅热患者记录病程",
-      "onboard_time": 1753546284,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81461,
-      "num": 90808,
+      "num": 99136,
       "word": "BLG战胜AL",
       "onboard_time": 1753535007,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80056,
+      "num": 99301,
+      "word": "37岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1753550179,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77075,
@@ -417,6 +425,22 @@
       "onboard_time": 1753546764,
       "rank": 39,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 63248,
+      "num": 99208,
+      "word": "单依纯上期造型师已被发配非洲",
+      "onboard_time": 1753539265,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52551,
+      "num": 99114,
+      "word": "陈粒演唱会",
+      "onboard_time": 1753549761,
+      "rank": 48,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
