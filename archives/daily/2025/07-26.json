@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753525682995,
+  "endTime": 1753526756121,
   "band_list": [
     {
       "raw_hot": 2471809,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 639764,
-      "num": 520475,
+      "num": 574265,
       "word": "张碧晨汪苏泷年轮合约存在信息差",
       "onboard_time": 1753521022,
       "rank": 5,
@@ -281,6 +281,14 @@
       "onboard_time": 1753489700,
       "rank": 3,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 564472,
+      "num": 564472,
+      "word": "印度对中国人签证门槛还是太高",
+      "onboard_time": 1753524262,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 560344,
@@ -425,6 +433,14 @@
       "onboard_time": 1753491681,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380562,
+      "num": 330514,
+      "word": "李炜方称剑魂版权为汪苏泷所有",
+      "onboard_time": 1753525221,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 371364,
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241324,
+      "num": 241324,
+      "word": "普通人被道德绑架的一生",
+      "onboard_time": 1753526242,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239416,
       "num": 210484,
       "word": "和什么样的人结婚才会幸福",
@@ -691,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219613,
+      "num": 219613,
+      "word": "综艺史上长达两分钟的沉默",
+      "onboard_time": 1753525281,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218379,
       "num": 218379,
       "word": "孩子撞见爸爸出轨半夜被赶出家门",
@@ -729,14 +761,6 @@
       "onboard_time": 1753501161,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207023,
-      "num": 293400,
-      "word": "印度对中国人签证门槛还是太高",
-      "onboard_time": 1753524262,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 206058,
@@ -817,6 +841,14 @@
       "onboard_time": 1753494921,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193242,
+      "num": 193242,
+      "word": "周六一天吃五顿碳水有多过瘾",
+      "onboard_time": 1753525402,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 193172,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1753522462,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163207,
+      "num": 163207,
+      "word": "王源演唱会",
+      "onboard_time": 1753526420,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 162618,
@@ -1363,14 +1403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 141851,
-      "num": 150336,
-      "word": "李炜方称剑魂版权为汪苏泷所有",
-      "onboard_time": 1753525221,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 141753,
       "num": 141753,
       "word": "易烊千玺宣传片导演朱云逸",
@@ -1555,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132208,
+      "num": 132208,
+      "word": "王子文回应王琳",
+      "onboard_time": 1753526541,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131011,
       "num": 365124,
       "word": "广东基孔肯雅热疫情快速传播正常吗",
@@ -1579,6 +1619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130265,
+      "num": 130265,
+      "word": "巴黎奥运的10个难忘瞬间",
+      "onboard_time": 1753525702,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129573,
       "num": 129573,
       "word": "华熙生物报案",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1753502362,
       "rank": 35,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 128377,
+      "num": 128377,
+      "word": "贾乃亮跟AI聊了一个小时",
+      "onboard_time": 1753526063,
+      "rank": 29,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 128101,
@@ -1731,14 +1787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120704,
-      "num": 120704,
-      "word": "周六一天吃五顿碳水有多过瘾",
-      "onboard_time": 1753525402,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120666,
       "num": 120666,
       "word": "养成系偶像出道七年背后的苦与泪",
@@ -1808,14 +1856,6 @@
       "word": "丁程鑫cha万物生",
       "onboard_time": 1753517481,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 118292,
-      "num": 118292,
-      "word": "综艺史上长达两分钟的沉默",
-      "onboard_time": 1753525281,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -2027,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106560,
+      "num": 106560,
+      "word": "科普 AI假图",
+      "onboard_time": 1753525402,
+      "rank": 35,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 106181,
       "num": 106181,
       "word": "王正行爆冷安东森",
@@ -2099,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102317,
+      "num": 102317,
+      "word": "每次吃布洛芬都觉得很想笑",
+      "onboard_time": 1753522222,
+      "rank": 48,
+      "category": "幽默,健康医疗"
+    },
+    {
       "raw_hot": 101713,
       "num": 101713,
       "word": "陈都灵翘楚婚服造型",
@@ -2163,14 +2219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99223,
-      "num": 99223,
-      "word": "每次吃布洛芬都觉得很想笑",
-      "onboard_time": 1753522222,
-      "rank": 48,
-      "category": "幽默,健康医疗"
-    },
-    {
       "raw_hot": 99018,
       "num": 99018,
       "word": "莫兰特人气真高",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1753513823,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97453,
+      "num": 97453,
+      "word": "我国汽车智驾功能不具备自动驾驶能力",
+      "onboard_time": 1753526122,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 97324,
@@ -2241,6 +2297,14 @@
       "onboard_time": 1753491622,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93328,
+      "num": 93328,
+      "word": "樊振东说Last dance是激励自己",
+      "onboard_time": 1753526182,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 92447,
@@ -2307,12 +2371,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90048,
+      "num": 90048,
+      "word": "樊振东回应曾被陌生人闯入房间",
+      "onboard_time": 1753526722,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89502,
       "num": 89502,
       "word": "女生没衣服穿的原因找到了",
       "onboard_time": 1753519702,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89229,
+      "num": 89229,
+      "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+      "onboard_time": 1753526722,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 88952,
@@ -2444,7 +2524,7 @@
     },
     {
       "raw_hot": 76372,
-      "num": 560749,
+      "num": 565977,
       "word": "每5只帝王蟹就有4只来自吉林",
       "onboard_time": 1753520782,
       "rank": 2,
@@ -2529,6 +2609,14 @@
       "onboard_time": 1753500622,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66976,
+      "num": 283140,
+      "word": "柬泰边境冲突已造成上百人伤亡",
+      "onboard_time": 1753525762,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66350,
@@ -2753,6 +2841,14 @@
       "onboard_time": 1753470495,
       "rank": 38,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 20243,
+      "num": 101281,
+      "word": "东北 魔童诞生地",
+      "onboard_time": 1753526662,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 18898,

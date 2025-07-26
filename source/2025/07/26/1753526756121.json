@@ -1,0 +1,410 @@
+{
+  "runTime": 1753526756121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677070,
+        "num": 1677070,
+        "word": "樊振东微博发文",
+        "onboard_time": 1753524441,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574265,
+        "num": 574265,
+        "word": "张碧晨汪苏泷年轮合约存在信息差",
+        "onboard_time": 1753521022,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72466,
+        "num": 565977,
+        "word": "每5只帝王蟹就有4只来自吉林",
+        "onboard_time": 1753520782,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 564472,
+        "num": 564472,
+        "word": "印度对中国人签证门槛还是太高",
+        "onboard_time": 1753524262,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419939,
+        "num": 419939,
+        "word": "樊振东首次回应加盟德甲联赛争议",
+        "onboard_time": 1753519702,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353242,
+        "num": 353242,
+        "word": "北大将全面取消绩点",
+        "onboard_time": 1753512921,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1477075,
+        "num": 336062,
+        "word": "张碧晨方说无需多言",
+        "onboard_time": 1753518801,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380562,
+        "num": 330514,
+        "word": "李炜方称剑魂版权为汪苏泷所有",
+        "onboard_time": 1753525221,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289322,
+        "num": 289322,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1753505422,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66976,
+        "num": 283140,
+        "word": "柬泰边境冲突已造成上百人伤亡",
+        "onboard_time": 1753525762,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 793299,
+        "num": 282545,
+        "word": "马頔买房了",
+        "onboard_time": 1753523783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539428,
+        "num": 275661,
+        "word": "拉塞尔 出轨",
+        "onboard_time": 1753517362,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519015,
+        "num": 268676,
+        "word": "985硕士首月工资分享",
+        "onboard_time": 1753518983,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301197,
+        "num": 258415,
+        "word": "肖战不内耗",
+        "onboard_time": 1753519102,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258400,
+        "num": 258400,
+        "word": "朝雪录 纯爱变背德",
+        "onboard_time": 1753518862,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241324,
+        "num": 241324,
+        "word": "普通人被道德绑架的一生",
+        "onboard_time": 1753526242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238877,
+        "num": 238877,
+        "word": "女生凌晨未接挪车电话车子被砸",
+        "onboard_time": 1753514121,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219613,
+        "num": 219613,
+        "word": "综艺史上长达两分钟的沉默",
+        "onboard_time": 1753525281,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193242,
+        "num": 193242,
+        "word": "周六一天吃五顿碳水有多过瘾",
+        "onboard_time": 1753525402,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97455,
+        "num": 178879,
+        "word": "谁能解释夏天爱吃烧烤的现象",
+        "onboard_time": 1753522462,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 382587,
+        "num": 178434,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177518,
+        "num": 177518,
+        "word": "樊振东名人面对面",
+        "onboard_time": 1753519402,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171627,
+        "num": 171627,
+        "word": "艾滋病人信息保密是否合理",
+        "onboard_time": 1753516581,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 163207,
+        "word": "王源演唱会",
+        "onboard_time": 1753526420,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161631,
+        "num": 161631,
+        "word": "肖战4分钟小站记",
+        "onboard_time": 1753522762,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151560,
+        "num": 151560,
+        "word": "郑恺微博头像是张颜齐拍的",
+        "onboard_time": 1753520182,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132208,
+        "num": 132208,
+        "word": "王子文回应王琳",
+        "onboard_time": 1753526541,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131951,
+        "num": 131951,
+        "word": "日本女人参观731罪证陈列馆",
+        "onboard_time": 1753522222,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130265,
+        "num": 130265,
+        "word": "巴黎奥运的10个难忘瞬间",
+        "onboard_time": 1753525702,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128377,
+        "num": 128377,
+        "word": "贾乃亮跟AI聊了一个小时",
+        "onboard_time": 1753526063,
+        "rank": 29,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 128091,
+        "num": 128091,
+        "word": "樊振东感谢国家队理解",
+        "onboard_time": 1753525342,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124222,
+        "num": 124222,
+        "word": "原来理发店二楼这么恐怖的吗",
+        "onboard_time": 1753523842,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122230,
+        "num": 122230,
+        "word": "快递 蟑螂卵",
+        "onboard_time": 1753510702,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120782,
+        "num": 120782,
+        "word": "200万存款是什么概念",
+        "onboard_time": 1753520303,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113897,
+        "num": 113897,
+        "word": "张文宏解释为何基孔肯雅热传播较快",
+        "onboard_time": 1753522522,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106560,
+        "num": 106560,
+        "word": "科普 AI假图",
+        "onboard_time": 1753525402,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 106032,
+        "num": 106032,
+        "word": "房主任太炸了",
+        "onboard_time": 1753517842,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102317,
+        "num": 102317,
+        "word": "每次吃布洛芬都觉得很想笑",
+        "onboard_time": 1753522222,
+        "rank": 37,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 20243,
+        "num": 101281,
+        "word": "东北 魔童诞生地",
+        "onboard_time": 1753526662,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100697,
+        "num": 100697,
+        "word": "李子柒担任成都世运会火炬手",
+        "onboard_time": 1753521261,
+        "rank": 39,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 100024,
+        "num": 100024,
+        "word": "不穿内衣正在年轻女性中悄悄流行",
+        "onboard_time": 1753507103,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 97453,
+        "num": 97453,
+        "word": "我国汽车智驾功能不具备自动驾驶能力",
+        "onboard_time": 1753526122,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97198,
+        "num": 97198,
+        "word": "跟BLACKPINK提升审美",
+        "onboard_time": 1753522582,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 93328,
+        "num": 93328,
+        "word": "樊振东说Last dance是激励自己",
+        "onboard_time": 1753526182,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92894,
+        "num": 92894,
+        "word": "梓豪说好想用章昊的脸活一次",
+        "onboard_time": 1753524560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90057,
+        "num": 90057,
+        "word": "申请让侯佩岑常驻喜单2",
+        "onboard_time": 1753524923,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90048,
+        "num": 90048,
+        "word": "樊振东回应曾被陌生人闯入房间",
+        "onboard_time": 1753526722,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89373,
+        "num": 89373,
+        "word": "tzym 逛街",
+        "onboard_time": 1753524740,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89294,
+        "num": 89294,
+        "word": "女子入住男网友家与其妻子共处1年",
+        "onboard_time": 1753522462,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89229,
+        "num": 89229,
+        "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+        "onboard_time": 1753526722,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#40多年前习近平亲自为干部出题阅卷#"
+    }
+  }
+}
