@@ -1,0 +1,410 @@
+{
+  "runTime": 1753541055168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6204815,
+        "num": 6204815,
+        "word": "旺仔小乔道歉信",
+        "onboard_time": 1753536266,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 575403,
+        "num": 575403,
+        "word": "樊振东微博发文",
+        "onboard_time": 1753524441,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15025,
+        "num": 549835,
+        "word": "第三批国补资金已下达",
+        "onboard_time": 1753486459,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1788709,
+        "num": 548184,
+        "word": "丁程鑫脖子上有唇印",
+        "onboard_time": 1753538486,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 530788,
+        "num": 530788,
+        "word": "16人考上厦门大学马来分校决定复读",
+        "onboard_time": 1753537047,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506581,
+        "num": 506581,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1400963,
+        "num": 476351,
+        "word": "贺峻霖 保研",
+        "onboard_time": 1753539807,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671062,
+        "num": 474047,
+        "word": "柯淳自曝经济状况紧张",
+        "onboard_time": 1753533503,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443987,
+        "num": 443987,
+        "word": "艾滋病 隐私",
+        "onboard_time": 1753528282,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208162,
+        "num": 422597,
+        "word": "国外研究推测疑外星飞船11月袭击地球",
+        "onboard_time": 1753539087,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 853066,
+        "num": 401156,
+        "word": "刘耀文舌钉",
+        "onboard_time": 1753536866,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 633732,
+        "num": 383165,
+        "word": "严浩翔衣服呢",
+        "onboard_time": 1753538486,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 610977,
+        "num": 358521,
+        "word": "马頔李纯 婚房",
+        "onboard_time": 1753529182,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573102,
+        "num": 339828,
+        "word": "花千骨和三生三世十里桃花哪个更爆",
+        "onboard_time": 1753533985,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317847,
+        "num": 317847,
+        "word": "TTG对战AG",
+        "onboard_time": 1753536747,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 467651,
+        "num": 312927,
+        "word": "李雪琴携男友看毛不易演唱会",
+        "onboard_time": 1753532484,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355544,
+        "num": 302038,
+        "word": "刘宇宁又直播辟谣了",
+        "onboard_time": 1753539627,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282307,
+        "num": 282307,
+        "word": "演唱会CEO出轨的最大赢家出现了",
+        "onboard_time": 1753532063,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231301,
+        "num": 231301,
+        "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+        "onboard_time": 1753526722,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 212180,
+        "num": 212180,
+        "word": "樊振东说中国最懂球的人都在身边",
+        "onboard_time": 1753540166,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350365,
+        "num": 211901,
+        "word": "刘耀文张真源掀头纱",
+        "onboard_time": 1753538728,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319054,
+        "num": 211748,
+        "word": "马嘉祺丁程鑫我的名字",
+        "onboard_time": 1753537227,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304762,
+        "num": 211669,
+        "word": "汪苏泷终于唱了无名之辈",
+        "onboard_time": 1753540287,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211519,
+        "num": 211519,
+        "word": "王楚钦引导球迷文明观赛",
+        "onboard_time": 1753539987,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184267,
+        "num": 211118,
+        "word": "真鹿现身浙BA温州场上演群雄逐鹿",
+        "onboard_time": 1753536626,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275535,
+        "num": 208288,
+        "word": "黄晓明陈梦现身岳云鹏演唱会",
+        "onboard_time": 1753538667,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261822,
+        "num": 206283,
+        "word": "遇到肖战但没认出来",
+        "onboard_time": 1753530263,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238171,
+        "num": 204547,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203926,
+        "num": 203926,
+        "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
+        "onboard_time": 1753532004,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110511,
+        "num": 203630,
+        "word": "印度对中国人签证门槛还是太高",
+        "onboard_time": 1753524262,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203461,
+        "num": 203461,
+        "word": "雅江集团董事长总经理亮相",
+        "onboard_time": 1753539507,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199729,
+        "num": 199729,
+        "word": "石凯三巡舞台变眼泪收割机",
+        "onboard_time": 1753539987,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195233,
+        "num": 195233,
+        "word": "综艺史上长达两分钟的沉默",
+        "onboard_time": 1753525281,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179967,
+        "num": 179967,
+        "word": "腾讯取消主创云包场",
+        "onboard_time": 1753537585,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178194,
+        "num": 178194,
+        "word": "徐滨说这是我们在一起的第五年",
+        "onboard_time": 1753540287,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177719,
+        "num": 177719,
+        "word": "刘宇宁 65岁以下都叫姐",
+        "onboard_time": 1753537766,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191533,
+        "num": 177470,
+        "word": "石凯演唱会",
+        "onboard_time": 1753529903,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177106,
+        "num": 177106,
+        "word": "单依纯上期造型师已被发配非洲",
+        "onboard_time": 1753539265,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175048,
+        "num": 175048,
+        "word": "严浩翔solo",
+        "onboard_time": 1753537285,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149876,
+        "num": 173742,
+        "word": "韩国富人家庭的豪华晚餐",
+        "onboard_time": 1753527141,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172559,
+        "num": 172559,
+        "word": "华晨宇的向阳而生太有力量了",
+        "onboard_time": 1753540045,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169134,
+        "num": 169134,
+        "word": "贺峻霖法修散打",
+        "onboard_time": 1753536026,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165322,
+        "num": 165322,
+        "word": "周深演唱会喊话GAI",
+        "onboard_time": 1753537047,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "宋亚轩撕漫",
+        "onboard_time": 1753534826,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154517,
+        "num": 154517,
+        "word": "深情眼不语只是一味放饭",
+        "onboard_time": 1753540828,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146358,
+        "num": 146358,
+        "word": "樊振东乒超十战十胜",
+        "onboard_time": 1753536026,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145694,
+        "num": 145694,
+        "word": "杨洋新剧修仙前vs修仙后",
+        "onboard_time": 1753540949,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134742,
+        "num": 134742,
+        "word": "撞艇事故遇难者家属盼完整遗体",
+        "onboard_time": 1753538847,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132977,
+        "num": 132977,
+        "word": "洪水冲走金店价值上千万首饰",
+        "onboard_time": 1753537227,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131633,
+        "num": 131633,
+        "word": "BLG战胜AL",
+        "onboard_time": 1753535007,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
