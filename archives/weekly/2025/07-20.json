@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753515658456,
+  "endTime": 1753518816010,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -931,20 +931,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1131120,
+      "num": 1180979,
+      "word": "北大将全面取消绩点",
+      "onboard_time": 1753512921,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1119587,
       "num": 340165,
       "word": "旺仔小乔 恋爱告急",
       "onboard_time": 1753166720,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1106463,
-      "num": 1177034,
-      "word": "北大将全面取消绩点",
-      "onboard_time": 1753512921,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1106445,
@@ -1571,6 +1571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 746120,
+      "num": 746120,
+      "word": "女生凌晨未接挪车电话车子被砸",
+      "onboard_time": 1753514121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 741720,
       "num": 741720,
       "word": "19岁男生刚上大一就拿到国企offer",
@@ -1580,7 +1588,7 @@
     },
     {
       "raw_hot": 741657,
-      "num": 196194,
+      "num": 211526,
       "word": "不穿内衣正在年轻女性中悄悄流行",
       "onboard_time": 1753507103,
       "rank": 25,
@@ -2243,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604811,
+      "num": 604811,
+      "word": "谢娜张杰夫妻俩是真没把我当外人",
+      "onboard_time": 1753513881,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603834,
       "num": 283758,
       "word": "棉密码卫生巾超30人自述患甲癌",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1753246582,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 598977,
+      "num": 216947,
+      "word": "女性摆脱不穿内衣的羞耻后有多爽",
+      "onboard_time": 1753513941,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 594511,
@@ -2683,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536715,
+      "num": 536715,
+      "word": "拉塞尔 出轨",
+      "onboard_time": 1753517362,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535905,
       "num": 535905,
       "word": "日媒称首相石破茂将辞职",
@@ -2785,14 +2817,6 @@
       "onboard_time": 1753446146,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 524761,
-      "num": 524761,
-      "word": "谢娜张杰夫妻俩是真没把我当外人",
-      "onboard_time": 1753513881,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 524274,
@@ -3667,6 +3691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 420027,
+      "num": 272805,
+      "word": "艾滋病人信息保密是否合理",
+      "onboard_time": 1753516581,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416313,
       "num": 416313,
       "word": "白举纲XXXXXL牛仔裤",
@@ -4345,14 +4377,6 @@
       "onboard_time": 1753441584,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348737,
-      "num": 348737,
-      "word": "女生凌晨未接挪车电话车子被砸",
-      "onboard_time": 1753514121,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 347916,
@@ -5243,6 +5267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292278,
+      "num": 292278,
+      "word": "孟子义陈都灵开播海报",
+      "onboard_time": 1753515083,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291716,
       "num": 291716,
       "word": "宋亚轩蓝发",
@@ -5411,14 +5443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 285344,
-      "num": 164936,
-      "word": "女性摆脱不穿内衣的羞耻后有多爽",
-      "onboard_time": 1753513941,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284306,
       "num": 284306,
       "word": "姚译添说孟子义李昀锐很符合跑男气质",
@@ -5441,6 +5465,14 @@
       "onboard_time": 1753415304,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283882,
+      "num": 250475,
+      "word": "宋亚轩回应粉丝长灯牌",
+      "onboard_time": 1753513402,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 283827,
@@ -6411,14 +6443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232760,
-      "num": 232760,
-      "word": "宋亚轩回应粉丝长灯牌",
-      "onboard_time": 1753513402,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 232704,
       "num": 232704,
       "word": "鹿晗跳kiyomi了",
@@ -6497,6 +6521,14 @@
       "onboard_time": 1753501522,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229393,
+      "num": 229393,
+      "word": "樱桃琥珀意识流婚礼",
+      "onboard_time": 1753517061,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 229333,
@@ -8259,6 +8291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193172,
+      "num": 193172,
+      "word": "被这些小众名字硬控30秒",
+      "onboard_time": 1753518262,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193091,
       "num": 216959,
       "word": "印度男子开假大使馆近10年才被发现",
@@ -8449,6 +8489,14 @@
       "onboard_time": 1753446926,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190542,
+      "num": 226459,
+      "word": "歌谣大战红毯",
+      "onboard_time": 1753516822,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 190491,
@@ -8880,6 +8928,14 @@
       "word": "深情眼",
       "onboard_time": 1752984802,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185194,
+      "num": 224497,
+      "word": "孟子义何与1次营业放俩波饭",
+      "onboard_time": 1753518201,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -9324,7 +9380,7 @@
     },
     {
       "raw_hot": 178994,
-      "num": 196356,
+      "num": 202002,
       "word": "谭爷爷给花花和叶说当了火炬手",
       "onboard_time": 1753510762,
       "rank": 26,
@@ -12131,6 +12187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145303,
+      "num": 206006,
+      "word": "沙溢因为我是军艺校草",
+      "onboard_time": 1753515501,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145261,
       "num": 145261,
       "word": "442斤小伙一年减了220斤",
@@ -12273,14 +12337,6 @@
       "onboard_time": 1753431383,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 143806,
-      "num": 143806,
-      "word": "沙溢因为我是军艺校草",
-      "onboard_time": 1753515501,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 143711,
@@ -12995,14 +13051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 137953,
-      "num": 137953,
-      "word": "孟子义陈都灵开播海报",
-      "onboard_time": 1753515083,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137948,
       "num": 137948,
       "word": "徐州从哪里摇来这么多冠军脸",
@@ -13521,6 +13569,14 @@
       "onboard_time": 1753365325,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132979,
+      "num": 205113,
+      "word": "胡先煦赛道被阮经天闯进来了",
+      "onboard_time": 1753518503,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 132941,
@@ -15387,6 +15443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118612,
+      "num": 118612,
+      "word": "丁程鑫cha万物生",
+      "onboard_time": 1753517481,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118611,
       "num": 118611,
       "word": "奔跑吧13片头美学大赏",
@@ -16161,6 +16225,14 @@
       "onboard_time": 1753415004,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113585,
+      "num": 113585,
+      "word": "房主任太炸了",
+      "onboard_time": 1753517842,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 113477,
@@ -16955,6 +17027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107209,
+      "num": 107209,
+      "word": "李在明回应在韩外籍劳工被挂叉车上",
+      "onboard_time": 1753516461,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106984,
       "num": 106984,
       "word": "锦绣芳华高光战报",
@@ -17425,6 +17505,22 @@
       "onboard_time": 1753408463,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102887,
+      "num": 102887,
+      "word": "宋妍霏顶着这张脸就该演meangirl",
+      "onboard_time": 1753517962,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102765,
+      "num": 102765,
+      "word": "结婚后才明白什么是隐形家务",
+      "onboard_time": 1753518142,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 102692,
@@ -18123,6 +18219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94574,
+      "num": 94574,
+      "word": "周内小鸟胃周六鹈鹕胃",
+      "onboard_time": 1753518322,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94452,
       "num": 94452,
       "word": "第五人格",
@@ -18323,6 +18427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92300,
+      "num": 92300,
+      "word": "在互联网你甚至能看到给水壶过生日",
+      "onboard_time": 1753518742,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92293,
       "num": 92293,
       "word": "爷爷上辈子好像是个打印机",
@@ -18417,6 +18529,14 @@
       "onboard_time": 1753193182,
       "rank": 41,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 90814,
+      "num": 90814,
+      "word": "谢霆锋妹妹二胎得子",
+      "onboard_time": 1753516342,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 90722,
@@ -19091,6 +19211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74948,
+      "num": 103826,
+      "word": "华熙生物报案",
+      "onboard_time": 1753518682,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74933,
       "num": 140580,
       "word": "师姐的朋友圈",
@@ -19252,7 +19380,7 @@
     },
     {
       "raw_hot": 72227,
-      "num": 138126,
+      "num": 221722,
       "word": "房主任国民级商务终于来了",
       "onboard_time": 1753515380,
       "rank": 37,
@@ -19585,6 +19713,14 @@
       "onboard_time": 1752995541,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 64155,
+      "num": 220552,
+      "word": "伊朗大楼恐袭已致5死13伤",
+      "onboard_time": 1753518381,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63770,
@@ -20441,6 +20577,14 @@
       "onboard_time": 1753474695,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45969,
+      "num": 183783,
+      "word": "李冰冰转发了单依纯的舞台",
+      "onboard_time": 1753518503,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 45882,
@@ -21881,6 +22025,14 @@
       "onboard_time": 1753239200,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4316,
+      "num": 103566,
+      "word": "网易免责协议波及第五人格",
+      "onboard_time": 1753518262,
+      "rank": 38,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
