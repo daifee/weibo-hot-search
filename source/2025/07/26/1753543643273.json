@@ -1,0 +1,410 @@
+{
+  "runTime": 1753543643273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4101534,
+        "num": 4101534,
+        "word": "旺仔小乔道歉信",
+        "onboard_time": 1753536266,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 640786,
+        "num": 640786,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85038,
+        "num": 485268,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1400656,
+        "num": 476058,
+        "word": "丁程鑫脖子上有唇印",
+        "onboard_time": 1753538486,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 456795,
+        "num": 456795,
+        "word": "樊振东微博发文",
+        "onboard_time": 1753524441,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365055,
+        "num": 365055,
+        "word": "16人考上厦门大学马来分校决定复读",
+        "onboard_time": 1753537047,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951745,
+        "num": 344168,
+        "word": "贺峻霖 保研",
+        "onboard_time": 1753539807,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558627,
+        "num": 332201,
+        "word": "柯淳自曝经济状况紧张",
+        "onboard_time": 1753533503,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302783,
+        "num": 302783,
+        "word": "国外研究推测疑外星飞船11月袭击地球",
+        "onboard_time": 1753539087,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291836,
+        "num": 291836,
+        "word": "艾滋病 隐私",
+        "onboard_time": 1753528282,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 751611,
+        "num": 290697,
+        "word": "刘耀文舌钉",
+        "onboard_time": 1753536866,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 520290,
+        "num": 278539,
+        "word": "汪苏泷终于唱了无名之辈",
+        "onboard_time": 1753540287,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 510130,
+        "num": 275103,
+        "word": "花千骨和三生三世十里桃花哪个更爆",
+        "onboard_time": 1753533985,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427610,
+        "num": 265342,
+        "word": "马頔李纯 婚房",
+        "onboard_time": 1753529182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265111,
+        "num": 265111,
+        "word": "TTG对战AG",
+        "onboard_time": 1753536747,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 417368,
+        "num": 256820,
+        "word": "严浩翔衣服呢",
+        "onboard_time": 1753538486,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247284,
+        "num": 247284,
+        "word": "演唱会CEO出轨的最大赢家出现了",
+        "onboard_time": 1753532063,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 244981,
+        "num": 244981,
+        "word": "李雪琴携男友看毛不易演唱会",
+        "onboard_time": 1753532484,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226891,
+        "num": 226891,
+        "word": "zwy的bp",
+        "onboard_time": 1753541247,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217906,
+        "num": 217906,
+        "word": "太宰治",
+        "onboard_time": 1753542686,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 238495,
+        "num": 216643,
+        "word": "刘宇宁不演燃羽",
+        "onboard_time": 1753543165,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225772,
+        "num": 215282,
+        "word": "遇到肖战但没认出来",
+        "onboard_time": 1753530263,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223617,
+        "num": 214668,
+        "word": "刘宇宁又直播辟谣了",
+        "onboard_time": 1753539627,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205001,
+        "num": 205001,
+        "word": "孟子义 梅超风",
+        "onboard_time": 1753542866,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183827,
+        "num": 183827,
+        "word": "樊振东说中国最懂球的人都在身边",
+        "onboard_time": 1753540166,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201006,
+        "num": 183443,
+        "word": "刘耀文张真源掀头纱",
+        "onboard_time": 1753538728,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199655,
+        "num": 182716,
+        "word": "综艺史上长达两分钟的沉默",
+        "onboard_time": 1753525281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196103,
+        "num": 181890,
+        "word": "刘轩丞深V黑衬衫",
+        "onboard_time": 1753542567,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179062,
+        "num": 179062,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193096,
+        "num": 178935,
+        "word": "全员加速中",
+        "onboard_time": 1753542686,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184260,
+        "num": 178396,
+        "word": "李炜 版权可聊",
+        "onboard_time": 1753543286,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177542,
+        "num": 177542,
+        "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+        "onboard_time": 1753526722,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 180537,
+        "num": 173260,
+        "word": "樱木花道",
+        "onboard_time": 1753541727,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162614,
+        "num": 162614,
+        "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
+        "onboard_time": 1753532004,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159489,
+        "num": 159489,
+        "word": "周深西安演唱会",
+        "onboard_time": 1753543105,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156433,
+        "num": 156433,
+        "word": "杜华说香奈儿能成为巨星",
+        "onboard_time": 1753542148,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154893,
+        "num": 154893,
+        "word": "雅江集团董事长总经理亮相",
+        "onboard_time": 1753539507,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151127,
+        "num": 151127,
+        "word": "陈小春GAI两个笨小孩",
+        "onboard_time": 1753542148,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85791,
+        "num": 147788,
+        "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+        "onboard_time": 1753543405,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86838,
+        "num": 147227,
+        "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+        "onboard_time": 1753543405,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146987,
+        "num": 146987,
+        "word": "韩国富人家庭的豪华晚餐",
+        "onboard_time": 1753527141,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145798,
+        "num": 145798,
+        "word": "马嘉祺丁程鑫我的名字",
+        "onboard_time": 1753537227,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138083,
+        "num": 138083,
+        "word": "中国羽毛球公开赛",
+        "onboard_time": 1753542806,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137051,
+        "num": 137051,
+        "word": "韦雪说不敢联系秦奋",
+        "onboard_time": 1753543526,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132801,
+        "num": 132801,
+        "word": "石凯演唱会",
+        "onboard_time": 1753529903,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127910,
+        "num": 127910,
+        "word": "汪苏泷说泷来了都得上岗",
+        "onboard_time": 1753541126,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126835,
+        "num": 126835,
+        "word": "王楚钦引导球迷文明观赛",
+        "onboard_time": 1753539987,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125065,
+        "num": 125065,
+        "word": "黄晓明陈梦现身岳云鹏演唱会",
+        "onboard_time": 1753538667,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124613,
+        "num": 124613,
+        "word": "杨洋新剧修仙前vs修仙后",
+        "onboard_time": 1753540949,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111472,
+        "num": 123437,
+        "word": "洪水冲走金店价值上千万首饰",
+        "onboard_time": 1753537227,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}

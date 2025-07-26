@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753541055168,
+  "endTime": 1753543643273,
   "band_list": [
     {
       "raw_hot": 8469133,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 640786,
+      "num": 640786,
+      "word": "少林寺回应网传释永信方丈被带走",
+      "onboard_time": 1753539507,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 639764,
       "num": 574265,
       "word": "张碧晨汪苏泷年轮合约存在信息差",
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520290,
+      "num": 278539,
+      "word": "汪苏泷终于唱了无名之辈",
+      "onboard_time": 1753540287,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 510445,
       "num": 510445,
       "word": "沈佳润美美桑内出圈了",
@@ -513,14 +529,6 @@
       "onboard_time": 1753510222,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 506581,
-      "num": 506581,
-      "word": "少林寺回应网传释永信方丈被带走",
-      "onboard_time": 1753539507,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 499268,
@@ -851,12 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304762,
-      "num": 211669,
-      "word": "汪苏泷终于唱了无名之辈",
-      "onboard_time": 1753540287,
-      "rank": 22,
-      "category": "演出"
+      "raw_hot": 302783,
+      "num": 422597,
+      "word": "国外研究推测疑外星飞船11月袭击地球",
+      "onboard_time": 1753539087,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302767,
@@ -1035,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238495,
+      "num": 216643,
+      "word": "刘宇宁不演燃羽",
+      "onboard_time": 1753543165,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238318,
       "num": 210343,
       "word": "许嵩太超前了",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1753501522,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226891,
+      "num": 226891,
+      "word": "zwy的bp",
+      "onboard_time": 1753541247,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 226510,
@@ -1179,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217906,
+      "num": 217906,
+      "word": "太宰治",
+      "onboard_time": 1753542686,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 213046,
       "num": 213046,
       "word": "世界之外",
@@ -1243,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208162,
-      "num": 422597,
-      "word": "国外研究推测疑外星飞船11月袭击地球",
-      "onboard_time": 1753539087,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207752,
       "num": 207752,
       "word": "岳云鹏演唱会",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1753490781,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205001,
+      "num": 205001,
+      "word": "孟子义 梅超风",
+      "onboard_time": 1753542866,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 204516,
@@ -1395,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196103,
+      "num": 181890,
+      "word": "刘轩丞深V黑衬衫",
+      "onboard_time": 1753542567,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195886,
       "num": 195886,
       "word": "浙BA",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1753518262,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193096,
+      "num": 178935,
+      "word": "全员加速中",
+      "onboard_time": 1753542686,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 193091,
@@ -1555,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184260,
+      "num": 178396,
+      "word": "李炜 版权可聊",
+      "onboard_time": 1753543286,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183496,
       "num": 183496,
       "word": "美国代表散布关于中国的谎言",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1753503802,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180537,
+      "num": 173260,
+      "word": "樱木花道",
+      "onboard_time": 1753541727,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 178994,
@@ -1899,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159489,
+      "num": 159489,
+      "word": "周深西安演唱会",
+      "onboard_time": 1753543105,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158865,
       "num": 160743,
       "word": "石宇奇晋级决赛",
@@ -1945,6 +2017,14 @@
       "onboard_time": 1753449208,
       "rank": 15,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 156433,
+      "num": 156433,
+      "word": "杜华说香奈儿能成为巨星",
+      "onboard_time": 1753542148,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156244,
@@ -2064,6 +2144,14 @@
       "word": "银河左岸 还我朴宰范",
       "onboard_time": 1753498042,
       "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151127,
+      "num": 151127,
+      "word": "陈小春GAI两个笨小孩",
+      "onboard_time": 1753542148,
+      "rank": 37,
       "category": "演出"
     },
     {
@@ -2395,6 +2483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138083,
+      "num": 138083,
+      "word": "中国羽毛球公开赛",
+      "onboard_time": 1753542806,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137799,
       "num": 137799,
       "word": "胰岛素抵抗 增肌",
@@ -2409,6 +2505,14 @@
       "onboard_time": 1753495340,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137051,
+      "num": 137051,
+      "word": "韦雪说不敢联系秦奋",
+      "onboard_time": 1753543526,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 136602,
@@ -2593,6 +2697,14 @@
       "onboard_time": 1753512441,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127910,
+      "num": 127910,
+      "word": "汪苏泷说泷来了都得上岗",
+      "onboard_time": 1753541126,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 127706,
@@ -3419,12 +3531,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86838,
+      "num": 147227,
+      "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+      "onboard_time": 1753543405,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85791,
+      "num": 147788,
+      "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+      "onboard_time": 1753543405,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85740,
       "num": 85740,
       "word": "王楚钦为林昀儒鼓掌",
       "onboard_time": 1753509202,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85038,
+      "num": 485268,
+      "word": "李子柒眼中的吉林之美",
+      "onboard_time": 1753542386,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84589,

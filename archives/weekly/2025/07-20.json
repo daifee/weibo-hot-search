@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753541055168,
+  "endTime": 1753543643273,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -2275,6 +2275,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 640786,
+      "num": 640786,
+      "word": "少林寺回应网传释永信方丈被带走",
+      "onboard_time": 1753539507,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640313,
       "num": 640313,
       "word": "5元红色尖叫炒到8900元一箱",
@@ -3107,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520290,
+      "num": 278539,
+      "word": "汪苏泷终于唱了无名之辈",
+      "onboard_time": 1753540287,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 518752,
       "num": 217784,
       "word": "田栩宁粉丝名柠檬水",
@@ -3224,14 +3240,6 @@
       "word": "海南自由贸易港封关12月18日启动",
       "onboard_time": 1753238000,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 506581,
-      "num": 506581,
-      "word": "少林寺回应网传释永信方丈被带走",
-      "onboard_time": 1753539507,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -5387,14 +5395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304762,
-      "num": 211669,
-      "word": "汪苏泷终于唱了无名之辈",
-      "onboard_time": 1753540287,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 304055,
       "num": 304055,
       "word": "樊振东3比0林诗栋",
@@ -5425,6 +5425,14 @@
       "onboard_time": 1753083322,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302783,
+      "num": 422597,
+      "word": "国外研究推测疑外星飞船11月袭击地球",
+      "onboard_time": 1753539087,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302767,
@@ -6747,6 +6755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238495,
+      "num": 216643,
+      "word": "刘宇宁不演燃羽",
+      "onboard_time": 1753543165,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238318,
       "num": 210343,
       "word": "许嵩太超前了",
@@ -7099,6 +7115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226891,
+      "num": 226891,
+      "word": "zwy的bp",
+      "onboard_time": 1753541247,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226510,
       "num": 226510,
       "word": "风年",
@@ -7441,6 +7465,14 @@
       "onboard_time": 1753246222,
       "rank": 28,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 217906,
+      "num": 217906,
+      "word": "太宰治",
+      "onboard_time": 1753542686,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 217508,
@@ -7939,14 +7971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208162,
-      "num": 422597,
-      "word": "国外研究推测疑外星飞船11月袭击地球",
-      "onboard_time": 1753539087,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208109,
       "num": 283883,
       "word": "宋亚轩 要你管",
@@ -8136,6 +8160,14 @@
       "word": "小酒窝不同意董璇打蒋峤西",
       "onboard_time": 1753011442,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205001,
+      "num": 205001,
+      "word": "孟子义 梅超风",
+      "onboard_time": 1753542866,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -8787,6 +8819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196103,
+      "num": 181890,
+      "word": "刘轩丞深V黑衬衫",
+      "onboard_time": 1753542567,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195987,
       "num": 295052,
       "word": "网易游戏遭大量玩家维权",
@@ -9009,6 +9049,14 @@
       "onboard_time": 1753518262,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193096,
+      "num": 178935,
+      "word": "全员加速中",
+      "onboard_time": 1753542686,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 193091,
@@ -9715,6 +9763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184260,
+      "num": 178396,
+      "word": "李炜 版权可聊",
+      "onboard_time": 1753543286,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184107,
       "num": 184107,
       "word": "孙俪已做好演奶奶的准备",
@@ -10041,6 +10097,14 @@
       "onboard_time": 1753338566,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 180537,
+      "num": 173260,
+      "word": "樱木花道",
+      "onboard_time": 1753541727,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 180525,
@@ -11835,6 +11899,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 159489,
+      "num": 159489,
+      "word": "周深西安演唱会",
+      "onboard_time": 1753543105,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159405,
       "num": 232594,
       "word": "招考院回应389分捡漏郑州大学",
@@ -12113,6 +12185,14 @@
       "onboard_time": 1753448126,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156433,
+      "num": 156433,
+      "word": "杜华说香奈儿能成为巨星",
+      "onboard_time": 1753542148,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156424,
@@ -12633,6 +12713,14 @@
       "onboard_time": 1752943879,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 151127,
+      "num": 151127,
+      "word": "陈小春GAI两个笨小孩",
+      "onboard_time": 1753542148,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 150904,
@@ -14147,6 +14235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138083,
+      "num": 138083,
+      "word": "中国羽毛球公开赛",
+      "onboard_time": 1753542806,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137997,
       "num": 137997,
       "word": "马伊琍的工作心态我狠狠学",
@@ -14233,6 +14329,14 @@
       "onboard_time": 1753196124,
       "rank": 31,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 137051,
+      "num": 137051,
+      "word": "韦雪说不敢联系秦奋",
+      "onboard_time": 1753543526,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 136897,
@@ -15393,6 +15497,14 @@
       "onboard_time": 1753512441,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127910,
+      "num": 127910,
+      "word": "汪苏泷说泷来了都得上岗",
+      "onboard_time": 1753541126,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 127764,
@@ -20267,6 +20379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86838,
+      "num": 147227,
+      "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+      "onboard_time": 1753543405,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86668,
       "num": 86668,
       "word": "LOL",
@@ -20347,6 +20467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85791,
+      "num": 147788,
+      "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+      "onboard_time": 1753543405,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85740,
       "num": 85740,
       "word": "王楚钦为林昀儒鼓掌",
@@ -20361,6 +20489,14 @@
       "onboard_time": 1752974840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85038,
+      "num": 485268,
+      "word": "李子柒眼中的吉林之美",
+      "onboard_time": 1753542386,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84886,
