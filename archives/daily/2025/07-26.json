@@ -1,7 +1,15 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753535256563,
+  "endTime": 1753537089593,
   "band_list": [
+    {
+      "raw_hot": 8190532,
+      "num": 8190532,
+      "word": "旺仔小乔道歉信",
+      "onboard_time": 1753536266,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 2471809,
       "num": 2471809,
@@ -147,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1080611,
+      "num": 812125,
+      "word": "柯淳自曝经济状况紧张",
+      "onboard_time": 1753533503,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1072804,
       "num": 300652,
       "word": "马頔买房了",
@@ -163,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 971352,
+      "num": 1151706,
+      "word": "李雪琴携男友看毛不易演唱会",
+      "onboard_time": 1753532484,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 969178,
       "num": 969178,
       "word": "美国在病毒爆发前研发出疫苗",
@@ -177,14 +201,6 @@
       "onboard_time": 1753506803,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 948167,
-      "num": 1151706,
-      "word": "李雪琴携男友看毛不易演唱会",
-      "onboard_time": 1753532484,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 888492,
@@ -233,14 +249,6 @@
       "onboard_time": 1753528282,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 812125,
-      "num": 812125,
-      "word": "柯淳自曝经济状况紧张",
-      "onboard_time": 1753533503,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 784223,
@@ -361,6 +369,14 @@
       "onboard_time": 1753518983,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 605388,
+      "num": 431428,
+      "word": "花千骨和三生三世十里桃花哪个更爆",
+      "onboard_time": 1753533985,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 604811,
@@ -523,12 +539,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 430894,
-      "num": 276688,
-      "word": "花千骨和三生三世十里桃花哪个更爆",
-      "onboard_time": 1753533985,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 430394,
+      "num": 352841,
+      "word": "马嘉祺帮丁程鑫整理麦克风",
+      "onboard_time": 1753534526,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 423735,
@@ -571,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400532,
+      "num": 332875,
+      "word": "刘耀文舌钉",
+      "onboard_time": 1753536866,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 400163,
       "num": 321587,
       "word": "出远门一定要记得在冰箱里放戒指",
@@ -585,14 +609,6 @@
       "onboard_time": 1753491681,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376809,
-      "num": 242590,
-      "word": "马嘉祺帮丁程鑫整理麦克风",
-      "onboard_time": 1753534526,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 371364,
@@ -635,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 351443,
+      "num": 351443,
+      "word": "BLG战胜AL",
+      "onboard_time": 1753535007,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347916,
       "num": 347916,
       "word": "樱桃琥珀大结局",
@@ -649,6 +673,14 @@
       "onboard_time": 1753527861,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 346367,
+      "num": 346367,
+      "word": "真鹿现身浙BA温州场上演群雄逐鹿",
+      "onboard_time": 1753536626,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 344819,
@@ -771,12 +803,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288987,
+      "num": 278212,
+      "word": "贺峻霖法修散打",
+      "onboard_time": 1753536026,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 287805,
       "num": 287805,
       "word": "王楚钦vs松岛辉空",
       "onboard_time": 1753499122,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287212,
+      "num": 287212,
+      "word": "Bin哥厉害",
+      "onboard_time": 1753536626,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 283882,
@@ -804,7 +852,7 @@
     },
     {
       "raw_hot": 261289,
-      "num": 261289,
+      "num": 729248,
       "word": "第三批国补资金已下达",
       "onboard_time": 1753486459,
       "rank": 17,
@@ -835,6 +883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246075,
+      "num": 502071,
+      "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
+      "onboard_time": 1753532004,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245123,
+      "num": 245123,
+      "word": "宋亚轩撕漫",
+      "onboard_time": 1753534826,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244899,
       "num": 244899,
       "word": "AL对战BLG",
@@ -843,20 +907,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 242809,
-      "num": 502071,
-      "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
-      "onboard_time": 1753532004,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241324,
       "num": 241324,
       "word": "普通人被道德绑架的一生",
       "onboard_time": 1753526242,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241245,
+      "num": 241245,
+      "word": "樊振东乒超十战十胜",
+      "onboard_time": 1753536026,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 239416,
@@ -905,6 +969,14 @@
       "onboard_time": 1753531824,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233102,
+      "num": 233102,
+      "word": "沙溢瘦下来的秘密",
+      "onboard_time": 1753536326,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 233039,
@@ -963,6 +1035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 220634,
+      "num": 220634,
+      "word": "TTG对战AG",
+      "onboard_time": 1753536747,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220515,
       "num": 220515,
       "word": "房主任太炸了",
@@ -1019,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 210730,
+      "num": 210730,
+      "word": "徐明浩被张子墨整没招了",
+      "onboard_time": 1753535847,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210050,
       "num": 210050,
       "word": "沈梦辰一把按住胡海泉",
@@ -1027,12 +1115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207645,
-      "num": 207645,
-      "word": "BLG战胜AL",
-      "onboard_time": 1753535007,
-      "rank": 31,
-      "category": "电竞"
+      "raw_hot": 207752,
+      "num": 207752,
+      "word": "岳云鹏演唱会",
+      "onboard_time": 1753535185,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 206878,
@@ -1123,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197501,
+      "num": 197501,
+      "word": "风年",
+      "onboard_time": 1753536568,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197222,
       "num": 220702,
       "word": "美国人看到中国公园破防了",
@@ -1163,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193442,
-      "num": 193442,
-      "word": "宋亚轩撕漫",
-      "onboard_time": 1753534826,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193367,
       "num": 153163,
       "word": "进组工作后彻底对明星祛魅了",
@@ -1209,6 +1297,14 @@
       "onboard_time": 1753457365,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192374,
+      "num": 139707,
+      "word": "丁程鑫八音盒里的人偶王子",
+      "onboard_time": 1753536926,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 191823,
@@ -1419,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172326,
+      "num": 172326,
+      "word": "严浩翔0帧起跳",
+      "onboard_time": 1753532183,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168816,
       "num": 218074,
       "word": "花千骨制片人回应年轮争议",
@@ -1467,12 +1571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165814,
+      "num": 165814,
+      "word": "Shad0w为了头发会继续加油的",
+      "onboard_time": 1753537047,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165276,
       "num": 136334,
       "word": "樊振东打完奥运后发自内心的累",
       "onboard_time": 1753522462,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163590,
+      "num": 163590,
+      "word": "宋亚轩摇滚风",
+      "onboard_time": 1753536266,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 163207,
@@ -1539,6 +1659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160351,
+      "num": 160351,
+      "word": "周深演唱会喊话GAI",
+      "onboard_time": 1753537047,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160345,
       "num": 160345,
       "word": "朝雪录拍了古代蒸骨验尸",
@@ -1547,28 +1675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160302,
-      "num": 160302,
-      "word": "岳云鹏演唱会",
-      "onboard_time": 1753535185,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 160043,
       "num": 160043,
       "word": "这才是真正的有效标语",
       "onboard_time": 1753507703,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160008,
-      "num": 156141,
-      "word": "严浩翔0帧起跳",
-      "onboard_time": 1753532183,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 159592,
@@ -1897,6 +2009,14 @@
       "onboard_time": 1753435644,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 141836,
+      "num": 241295,
+      "word": "曝歌手突围赛名单",
+      "onboard_time": 1753534886,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 141753,
@@ -2524,7 +2644,7 @@
     },
     {
       "raw_hot": 113277,
-      "num": 208071,
+      "num": 220482,
       "word": "为什么建议睡觉把脚露在外面",
       "onboard_time": 1753530204,
       "rank": 29,
@@ -2931,6 +3051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91996,
+      "num": 168719,
+      "word": "16人考上厦门大学马来分校决定复读",
+      "onboard_time": 1753537047,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91692,
       "num": 91692,
       "word": "无限暖暖",
@@ -3105,6 +3233,14 @@
       "onboard_time": 1753456166,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79996,
+      "num": 219997,
+      "word": "南京照相馆把真话说出来了",
+      "onboard_time": 1753536326,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 78480,
@@ -3435,14 +3571,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 22550,
-      "num": 241295,
-      "word": "曝歌手突围赛名单",
-      "onboard_time": 1753534886,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20243,
       "num": 101281,
       "word": "东北 魔童诞生地",
@@ -3511,6 +3639,9 @@
     },
     {
       "word": "#40多年前习近平亲自为干部出题阅卷#"
+    },
+    {
+      "word": "#习近平以桥为喻阐述中欧关系#"
     }
   ]
 }
