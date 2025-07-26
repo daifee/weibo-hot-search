@@ -1,0 +1,410 @@
+{
+  "runTime": 1753515658456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1106463,
+        "num": 1177034,
+        "word": "北大将全面取消绩点",
+        "onboard_time": 1753512921,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 986258,
+        "num": 986258,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1753505422,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25769,
+        "num": 766389,
+        "word": "第五届中国新电商大会",
+        "onboard_time": 1753507403,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725623,
+        "num": 725623,
+        "word": "快递 蟑螂卵",
+        "onboard_time": 1753510702,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 627027,
+        "num": 627027,
+        "word": "董璇张维伊求婚视频",
+        "onboard_time": 1753512381,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718738,
+        "num": 582702,
+        "word": "张碧晨有三首歌都是汪苏泷作词作曲",
+        "onboard_time": 1753491201,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 524761,
+        "num": 524761,
+        "word": "谢娜张杰夫妻俩是真没把我当外人",
+        "onboard_time": 1753513881,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508534,
+        "num": 508534,
+        "word": "薄底鞋 筋膜炎",
+        "onboard_time": 1753510222,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 394377,
+        "num": 394377,
+        "word": "皮蛋 不能生吃",
+        "onboard_time": 1753505302,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348737,
+        "num": 348737,
+        "word": "女生凌晨未接挪车电话车子被砸",
+        "onboard_time": 1753514121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523016,
+        "num": 336695,
+        "word": "抠抠搜搜花了两万块买破烂",
+        "onboard_time": 1753506803,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321818,
+        "num": 321818,
+        "word": "美国在病毒爆发前研发出疫苗",
+        "onboard_time": 1753501883,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286245,
+        "num": 286245,
+        "word": "房主任说女儿来了血压快飙到300",
+        "onboard_time": 1753509143,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246371,
+        "num": 246371,
+        "word": "樱桃琥珀大结局",
+        "onboard_time": 1753510401,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232760,
+        "num": 232760,
+        "word": "宋亚轩回应粉丝长灯牌",
+        "onboard_time": 1753513402,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218557,
+        "num": 218557,
+        "word": "基孔肯雅热 后遗症",
+        "onboard_time": 1753508602,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211955,
+        "num": 211955,
+        "word": "王琳给儿子打电话情绪失控",
+        "onboard_time": 1753509323,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191680,
+        "num": 191680,
+        "word": "MRC对战北京WBG",
+        "onboard_time": 1753515021,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184183,
+        "num": 184183,
+        "word": "于正有种明天就不在娱乐圈干的疯感",
+        "onboard_time": 1753506323,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169759,
+        "num": 169759,
+        "word": "谭爷爷给花花和叶说当了火炬手",
+        "onboard_time": 1753510762,
+        "rank": 19,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 553164,
+        "num": 168909,
+        "word": "不穿内衣正在年轻女性中悄悄流行",
+        "onboard_time": 1753507103,
+        "rank": 20,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 293953,
+        "num": 167972,
+        "word": "张碧晨最火最具代表性的歌",
+        "onboard_time": 1753513102,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285344,
+        "num": 164936,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190043,
+        "num": 163351,
+        "word": "徐艺洋越素越美",
+        "onboard_time": 1753511242,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85924,
+        "num": 161755,
+        "word": "景区回应工作人员管猴子被游客指责",
+        "onboard_time": 1753511242,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161190,
+        "num": 161190,
+        "word": "马丽字字不提沈腾句句是沈腾",
+        "onboard_time": 1753513041,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107855,
+        "num": 160743,
+        "word": "石宇奇晋级决赛",
+        "onboard_time": 1753514182,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83160,
+        "num": 160714,
+        "word": "预防基孔肯雅热的关键",
+        "onboard_time": 1753510582,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98343,
+        "num": 160714,
+        "word": "李兰迪就这样一直演大女主吧",
+        "onboard_time": 1753513823,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160714,
+        "num": 160713,
+        "word": "做饭的时候就饱了谁还上桌",
+        "onboard_time": 1753514482,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155692,
+        "num": 155692,
+        "word": "罗小黑",
+        "onboard_time": 1753514902,
+        "rank": 30,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 143806,
+        "num": 143806,
+        "word": "沙溢因为我是军艺校草",
+        "onboard_time": 1753515501,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143289,
+        "num": 143289,
+        "word": "裴珠泫也被wakuku硬控了",
+        "onboard_time": 1753513642,
+        "rank": 32,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 141831,
+        "num": 141831,
+        "word": "孔雪儿负债期间还捐款",
+        "onboard_time": 1753502903,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98409,
+        "num": 139157,
+        "word": "博士学历爸爸无法接受抽动症儿子",
+        "onboard_time": 1753499302,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138208,
+        "num": 138208,
+        "word": "李羲承 上海",
+        "onboard_time": 1753515262,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95286,
+        "num": 138194,
+        "word": "减肥太猛断崖式变老了",
+        "onboard_time": 1753503802,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72227,
+        "num": 138126,
+        "word": "房主任国民级商务终于来了",
+        "onboard_time": 1753515380,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14138,
+        "num": 138123,
+        "word": "何超云泳装",
+        "onboard_time": 1753514902,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30903,
+        "num": 138053,
+        "word": "人工智能大会上的科技敢",
+        "onboard_time": 1753513282,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141157,
+        "num": 138001,
+        "word": "单依纯回复李冰冰",
+        "onboard_time": 1753514601,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90299,
+        "num": 137973,
+        "word": "国外品牌喜欢投资中国的原因",
+        "onboard_time": 1753514421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137953,
+        "num": 137953,
+        "word": "孟子义陈都灵开播海报",
+        "onboard_time": 1753515083,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133024,
+        "num": 133024,
+        "word": "毕雯珺问叶濛能嫁给我吗",
+        "onboard_time": 1753515262,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120785,
+        "num": 120785,
+        "word": "基孔肯雅热 典型症状",
+        "onboard_time": 1753513462,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124556,
+        "num": 120363,
+        "word": "嫁给我爱豆我就这样",
+        "onboard_time": 1753512441,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118161,
+        "num": 118161,
+        "word": "艺术家肖战的文笔",
+        "onboard_time": 1753513642,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 110857,
+        "word": "宋亚轩表情管理本硕博连读",
+        "onboard_time": 1753511061,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92269,
+        "num": 109122,
+        "word": "减掉10斤脂肪到底需要多久",
+        "onboard_time": 1753511961,
+        "rank": 48,
+        "category": "体育,运动健身"
+      },
+      {
+        "raw_hot": 108469,
+        "num": 108469,
+        "word": "鸿蒙智行辅助驾驶报告去掉智能二字",
+        "onboard_time": 1753514121,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国对欧政策保持长期稳定#"
+    }
+  }
+}

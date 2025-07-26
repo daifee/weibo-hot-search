@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753514786786,
+  "endTime": 1753515658456,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3539,6 +3539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1106463,
+      "num": 1177034,
+      "word": "北大将全面取消绩点",
+      "onboard_time": 1753512921,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1106445,
       "num": 336145,
       "word": "梓渝站姐",
@@ -6107,14 +6115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 782211,
-      "num": 782211,
-      "word": "北大将全面取消绩点",
-      "onboard_time": 1753512921,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 781905,
       "num": 781905,
       "word": "外卖大战有骑手一天赚1000多元",
@@ -6865,6 +6865,14 @@
       "onboard_time": 1751382145,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725623,
+      "num": 725623,
+      "word": "快递 蟑螂卵",
+      "onboard_time": 1753510702,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 725582,
@@ -8843,6 +8851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 627027,
+      "num": 627027,
+      "word": "董璇张维伊求婚视频",
+      "onboard_time": 1753512381,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626998,
       "num": 626998,
       "word": "女儿6岁起被父亲持续性侵虐待10年",
@@ -10155,14 +10171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 565601,
-      "num": 565601,
-      "word": "董璇张维伊求婚视频",
-      "onboard_time": 1753512381,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565455,
       "num": 565455,
       "word": "黄圣依孩子用石明鑫主编的数学题",
@@ -10329,14 +10337,6 @@
       "onboard_time": 1751728585,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 557905,
-      "num": 557905,
-      "word": "快递 蟑螂卵",
-      "onboard_time": 1753510702,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 557796,
@@ -11219,6 +11219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 524761,
+      "num": 524761,
+      "word": "谢娜张杰夫妻俩是真没把我当外人",
+      "onboard_time": 1753513881,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524741,
       "num": 524741,
       "word": "怀孕3个月抗日女战士牺牲那一刻",
@@ -11681,6 +11689,14 @@
       "onboard_time": 1752149662,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508534,
+      "num": 508534,
+      "word": "薄底鞋 筋膜炎",
+      "onboard_time": 1753510222,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 508410,
@@ -12297,14 +12313,6 @@
       "onboard_time": 1751364623,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 486320,
-      "num": 486320,
-      "word": "薄底鞋 筋膜炎",
-      "onboard_time": 1753510222,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 486160,
@@ -17299,6 +17307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348737,
+      "num": 348737,
+      "word": "女生凌晨未接挪车电话车子被砸",
+      "onboard_time": 1753514121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348514,
       "num": 348514,
       "word": "张艺凡的腿",
@@ -17897,14 +17913,6 @@
       "onboard_time": 1753355302,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 337558,
-      "num": 337558,
-      "word": "谢娜张杰夫妻俩是真没把我当外人",
-      "onboard_time": 1753513881,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 337380,
@@ -20491,6 +20499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293953,
+      "num": 167972,
+      "word": "张碧晨最火最具代表性的歌",
+      "onboard_time": 1753513102,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293842,
       "num": 293842,
       "word": "GEN对战AL",
@@ -21083,14 +21099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286245,
-      "num": 157767,
-      "word": "张碧晨最火最具代表性的歌",
-      "onboard_time": 1753513102,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 286212,
       "num": 271820,
       "word": "赵本山女儿球球回应为何不当明星",
@@ -21169,6 +21177,14 @@
       "onboard_time": 1753259182,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285344,
+      "num": 164936,
+      "word": "女性摆脱不穿内衣的羞耻后有多爽",
+      "onboard_time": 1753513941,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285309,
@@ -25763,6 +25779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232760,
+      "num": 232760,
+      "word": "宋亚轩回应粉丝长灯牌",
+      "onboard_time": 1753513402,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232739,
       "num": 232739,
       "word": "华策经纪",
@@ -28508,7 +28532,7 @@
     },
     {
       "raw_hot": 212797,
-      "num": 161366,
+      "num": 163351,
       "word": "徐艺洋越素越美",
       "onboard_time": 1753511242,
       "rank": 30,
@@ -33555,6 +33579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191680,
+      "num": 191680,
+      "word": "MRC对战北京WBG",
+      "onboard_time": 1753515021,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191672,
       "num": 191672,
       "word": "尚界H5正式亮相",
@@ -37865,14 +37897,6 @@
       "onboard_time": 1753272921,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175626,
-      "num": 158205,
-      "word": "宋亚轩回应粉丝长灯牌",
-      "onboard_time": 1753513402,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 175527,
@@ -42307,6 +42331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161190,
+      "num": 161190,
+      "word": "马丽字字不提沈腾句句是沈腾",
+      "onboard_time": 1753513041,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161158,
       "num": 161158,
       "word": "谭晶林俊杰是不是在给我剧透",
@@ -42417,6 +42449,14 @@
       "onboard_time": 1752073104,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160714,
+      "num": 160713,
+      "word": "做饭的时候就饱了谁还上桌",
+      "onboard_time": 1753514482,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 160698,
@@ -43092,7 +43132,7 @@
     },
     {
       "raw_hot": 158865,
-      "num": 158865,
+      "num": 160743,
       "word": "石宇奇晋级决赛",
       "onboard_time": 1753514182,
       "rank": 19,
@@ -43545,14 +43585,6 @@
       "onboard_time": 1751622022,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157386,
-      "num": 157386,
-      "word": "女生凌晨未接挪车电话车子被砸",
-      "onboard_time": 1753514121,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157354,
@@ -45209,14 +45241,6 @@
       "onboard_time": 1751651178,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152613,
-      "num": 141699,
-      "word": "女性摆脱不穿内衣的羞耻后有多爽",
-      "onboard_time": 1753513941,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152609,
@@ -48747,6 +48771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143806,
+      "num": 143806,
+      "word": "沙溢因为我是军艺校草",
+      "onboard_time": 1753515501,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143749,
       "num": 143749,
       "word": "杏是绝佳的减肥水果",
@@ -48945,6 +48977,14 @@
       "onboard_time": 1752983661,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143289,
+      "num": 143289,
+      "word": "裴珠泫也被wakuku硬控了",
+      "onboard_time": 1753513642,
+      "rank": 38,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 143286,
@@ -49777,6 +49817,14 @@
       "onboard_time": 1751891183,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141157,
+      "num": 138001,
+      "word": "单依纯回复李冰冰",
+      "onboard_time": 1753514601,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 141137,
@@ -51179,6 +51227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138208,
+      "num": 138208,
+      "word": "李羲承 上海",
+      "onboard_time": 1753515262,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138183,
       "num": 138183,
       "word": "seventeen巡演",
@@ -51281,6 +51337,14 @@
       "onboard_time": 1752817102,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 137953,
+      "num": 137953,
+      "word": "孟子义陈都灵开播海报",
+      "onboard_time": 1753515083,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 137948,
@@ -51513,14 +51577,6 @@
       "onboard_time": 1752974719,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137396,
-      "num": 137396,
-      "word": "马丽字字不提沈腾句句是沈腾",
-      "onboard_time": 1753513041,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 137372,
@@ -53377,6 +53433,14 @@
       "onboard_time": 1751963422,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133024,
+      "num": 133024,
+      "word": "毕雯珺问叶濛能嫁给我吗",
+      "onboard_time": 1753515262,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 133005,
@@ -57179,14 +57243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125366,
-      "num": 125366,
-      "word": "裴珠泫也被wakuku硬控了",
-      "onboard_time": 1753513642,
-      "rank": 38,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 125316,
       "num": 125316,
       "word": "外国人的视角看中国式排队",
@@ -60971,6 +61027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118161,
+      "num": 126230,
+      "word": "艺术家肖战的文笔",
+      "onboard_time": 1753513642,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118151,
       "num": 229167,
       "word": "Rain法拉利老了还是法拉利",
@@ -63876,7 +63940,7 @@
     },
     {
       "raw_hot": 112718,
-      "num": 112718,
+      "num": 137973,
       "word": "国外品牌喜欢投资中国的原因",
       "onboard_time": 1753514421,
       "rank": 45,
@@ -68323,14 +68387,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 103157,
-      "num": 103157,
-      "word": "做饭的时候就饱了谁还上桌",
-      "onboard_time": 1753514482,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103145,
       "num": 103145,
       "word": "干部重点项目违规审批但省下200万",
@@ -68985,14 +69041,6 @@
       "onboard_time": 1752902301,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101583,
-      "num": 101583,
-      "word": "单依纯回复李冰冰",
-      "onboard_time": 1753514601,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 101565,
@@ -70115,6 +70163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98343,
+      "num": 160714,
+      "word": "李兰迪就这样一直演大女主吧",
+      "onboard_time": 1753513823,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98333,
       "num": 122330,
       "word": "中国台北女足2比4中国女足",
@@ -70145,14 +70201,6 @@
       "onboard_time": 1752821782,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98257,
-      "num": 126230,
-      "word": "艺术家肖战的文笔",
-      "onboard_time": 1753513642,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 98249,
@@ -75835,6 +75883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72227,
+      "num": 138126,
+      "word": "房主任国民级商务终于来了",
+      "onboard_time": 1753515380,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72114,
       "num": 72114,
       "word": "狗狗扑向路过男孩主人冲上去阻止",
@@ -75977,14 +76033,6 @@
       "onboard_time": 1752822080,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71556,
-      "num": 141302,
-      "word": "李兰迪就这样一直演大女主吧",
-      "onboard_time": 1753513823,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 71531,
@@ -83188,7 +83236,7 @@
     },
     {
       "raw_hot": 32896,
-      "num": 124555,
+      "num": 138053,
       "word": "人工智能大会上的科技敢",
       "onboard_time": 1753513282,
       "rank": 39,
@@ -87113,6 +87161,14 @@
       "onboard_time": 1752169995,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14138,
+      "num": 138123,
+      "word": "何超云泳装",
+      "onboard_time": 1753514902,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 14101,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753514786786,
+  "endTime": 1753515658456,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1106463,
+      "num": 1177034,
+      "word": "北大将全面取消绩点",
+      "onboard_time": 1753512921,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1093509,
       "num": 1093509,
       "word": "博士学历爸爸无法接受抽动症儿子",
@@ -131,14 +139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 782211,
-      "num": 782211,
-      "word": "北大将全面取消绩点",
-      "onboard_time": 1753512921,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 741657,
       "num": 196194,
       "word": "不穿内衣正在年轻女性中悄悄流行",
@@ -153,6 +153,14 @@
       "onboard_time": 1753449807,
       "rank": 10,
       "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 725623,
+      "num": 725623,
+      "word": "快递 蟑螂卵",
+      "onboard_time": 1753510702,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 671778,
@@ -179,20 +187,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 627027,
+      "num": 627027,
+      "word": "董璇张维伊求婚视频",
+      "onboard_time": 1753512381,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582447,
       "num": 582447,
       "word": "兵马俑身上发现100多枚工匠指纹",
       "onboard_time": 1753489700,
       "rank": 3,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 565601,
-      "num": 565601,
-      "word": "董璇张维伊求婚视频",
-      "onboard_time": 1753512381,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 560344,
@@ -203,20 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557905,
-      "num": 557905,
-      "word": "快递 蟑螂卵",
-      "onboard_time": 1753510702,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 540176,
       "num": 540176,
       "word": "建议大家要舍得为自己花钱",
       "onboard_time": 1753497080,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524761,
+      "num": 524761,
+      "word": "谢娜张杰夫妻俩是真没把我当外人",
+      "onboard_time": 1753513881,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 510445,
@@ -227,20 +235,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 508534,
+      "num": 508534,
+      "word": "薄底鞋 筋膜炎",
+      "onboard_time": 1753510222,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 499268,
       "num": 219722,
       "word": "时代少年团感谢王源",
       "onboard_time": 1753458205,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 486320,
-      "num": 486320,
-      "word": "薄底鞋 筋膜炎",
-      "onboard_time": 1753510222,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 474659,
@@ -363,20 +371,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 348737,
+      "num": 348737,
+      "word": "女生凌晨未接挪车电话车子被砸",
+      "onboard_time": 1753514121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347916,
       "num": 347916,
       "word": "樱桃琥珀大结局",
       "onboard_time": 1753510401,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337558,
-      "num": 337558,
-      "word": "谢娜张杰夫妻俩是真没把我当外人",
-      "onboard_time": 1753513881,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 328927,
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293953,
+      "num": 167972,
+      "word": "张碧晨最火最具代表性的歌",
+      "onboard_time": 1753513102,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287805,
       "num": 287805,
       "word": "王楚钦vs松岛辉空",
@@ -459,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286245,
-      "num": 157767,
-      "word": "张碧晨最火最具代表性的歌",
-      "onboard_time": 1753513102,
-      "rank": 22,
-      "category": "音乐"
+      "raw_hot": 285344,
+      "num": 164936,
+      "word": "女性摆脱不穿内衣的羞耻后有多爽",
+      "onboard_time": 1753513941,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263759,
@@ -523,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 232760,
+      "num": 232760,
+      "word": "宋亚轩回应粉丝长灯牌",
+      "onboard_time": 1753513402,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229593,
       "num": 205693,
       "word": "沈小婷一个人打2份工",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 212797,
-      "num": 161366,
+      "num": 163351,
       "word": "徐艺洋越素越美",
       "onboard_time": 1753511242,
       "rank": 30,
@@ -665,6 +689,14 @@
       "onboard_time": 1753457365,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191680,
+      "num": 191680,
+      "word": "MRC对战北京WBG",
+      "onboard_time": 1753515021,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 190399,
@@ -779,14 +811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175626,
-      "num": 158205,
-      "word": "宋亚轩回应粉丝长灯牌",
-      "onboard_time": 1753513402,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168816,
       "num": 218074,
       "word": "花千骨制片人回应年轮争议",
@@ -835,6 +859,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161190,
+      "num": 161190,
+      "word": "马丽字字不提沈腾句句是沈腾",
+      "onboard_time": 1753513041,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160714,
+      "num": 160713,
+      "word": "做饭的时候就饱了谁还上桌",
+      "onboard_time": 1753514482,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160043,
       "num": 160043,
       "word": "这才是真正的有效标语",
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 158865,
-      "num": 158865,
+      "num": 160743,
       "word": "石宇奇晋级决赛",
       "onboard_time": 1753514182,
       "rank": 19,
@@ -865,14 +905,6 @@
       "onboard_time": 1753505663,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157386,
-      "num": 157386,
-      "word": "女生凌晨未接挪车电话车子被砸",
-      "onboard_time": 1753514121,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156446,
@@ -899,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155692,
+      "num": 155692,
+      "word": "罗小黑",
+      "onboard_time": 1753514902,
+      "rank": 30,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 155680,
       "num": 155680,
       "word": "深情眼",
@@ -911,14 +951,6 @@
       "num": 153956,
       "word": "女子吃羊胎盘补身体感染致命细菌",
       "onboard_time": 1753497080,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152613,
-      "num": 141699,
-      "word": "女性摆脱不穿内衣的羞耻后有多爽",
-      "onboard_time": 1753513941,
       "rank": 28,
       "category": "民生新闻"
     },
@@ -1011,12 +1043,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143806,
+      "num": 143806,
+      "word": "沙溢因为我是军艺校草",
+      "onboard_time": 1753515501,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143343,
       "num": 292858,
       "word": "预防基孔肯雅热的关键",
       "onboard_time": 1753510582,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143289,
+      "num": 143289,
+      "word": "裴珠泫也被wakuku硬控了",
+      "onboard_time": 1753513642,
+      "rank": 38,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 142784,
@@ -1064,6 +1112,14 @@
       "word": "HR何时能消除学历歧视",
       "onboard_time": 1753507403,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141157,
+      "num": 138001,
+      "word": "单依纯回复李冰冰",
+      "onboard_time": 1753514601,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1115,12 +1171,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138208,
+      "num": 138208,
+      "word": "李羲承 上海",
+      "onboard_time": 1753515262,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138116,
       "num": 138116,
       "word": "考古张予曦",
       "onboard_time": 1753505962,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137953,
+      "num": 137953,
+      "word": "孟子义陈都灵开播海报",
+      "onboard_time": 1753515083,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 137799,
@@ -1137,14 +1209,6 @@
       "onboard_time": 1753495340,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137396,
-      "num": 137396,
-      "word": "马丽字字不提沈腾句句是沈腾",
-      "onboard_time": 1753513041,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 136602,
@@ -1169,6 +1233,14 @@
       "onboard_time": 1753510401,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133024,
+      "num": 133024,
+      "word": "毕雯珺问叶濛能嫁给我吗",
+      "onboard_time": 1753515262,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 132228,
@@ -1267,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125366,
-      "num": 125366,
-      "word": "裴珠泫也被wakuku硬控了",
-      "onboard_time": 1753513642,
-      "rank": 38,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 123025,
       "num": 123025,
       "word": "网易口碑",
@@ -1371,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118161,
+      "num": 126230,
+      "word": "艺术家肖战的文笔",
+      "onboard_time": 1753513642,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118052,
       "num": 118052,
       "word": "世运会120棒火炬手11公里火炬传递",
@@ -1436,7 +1508,7 @@
     },
     {
       "raw_hot": 112718,
-      "num": 112718,
+      "num": 137973,
       "word": "国外品牌喜欢投资中国的原因",
       "onboard_time": 1753514421,
       "rank": 45,
@@ -1523,14 +1595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103157,
-      "num": 103157,
-      "word": "做饭的时候就饱了谁还上桌",
-      "onboard_time": 1753514482,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102526,
       "num": 102526,
       "word": "老人卧床多年跟保姆结婚并赠与房产",
@@ -1545,14 +1609,6 @@
       "onboard_time": 1753496421,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101583,
-      "num": 101583,
-      "word": "单依纯回复李冰冰",
-      "onboard_time": 1753514601,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 101355,
@@ -1587,12 +1643,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98257,
-      "num": 126230,
-      "word": "艺术家肖战的文笔",
-      "onboard_time": 1753513642,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 98343,
+      "num": 160714,
+      "word": "李兰迪就这样一直演大女主吧",
+      "onboard_time": 1753513823,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 97324,
@@ -1811,12 +1867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71556,
-      "num": 141302,
-      "word": "李兰迪就这样一直演大女主吧",
-      "onboard_time": 1753513823,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 72227,
+      "num": 138126,
+      "word": "房主任国民级商务终于来了",
+      "onboard_time": 1753515380,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 70935,
@@ -1988,7 +2044,7 @@
     },
     {
       "raw_hot": 32896,
-      "num": 124555,
+      "num": 138053,
       "word": "人工智能大会上的科技敢",
       "onboard_time": 1753513282,
       "rank": 39,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1753486639,
       "rank": 23,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 14138,
+      "num": 138123,
+      "word": "何超云泳装",
+      "onboard_time": 1753514902,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 13646,
