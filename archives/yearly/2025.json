@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753537089593,
+  "endTime": 1753537766224,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1203,6 +1203,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 8469133,
+      "num": 8469133,
+      "word": "旺仔小乔道歉信",
+      "onboard_time": 1753536266,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 8423438,
       "num": 8423438,
       "word": "云南震感",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1743422722,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8190532,
-      "num": 8190532,
-      "word": "旺仔小乔道歉信",
-      "onboard_time": 1753536266,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 8108051,

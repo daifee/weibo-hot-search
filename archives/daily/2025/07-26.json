@@ -1,10 +1,10 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753537089593,
+  "endTime": 1753537766224,
   "band_list": [
     {
-      "raw_hot": 8190532,
-      "num": 8190532,
+      "raw_hot": 8469133,
+      "num": 8469133,
       "word": "旺仔小乔道歉信",
       "onboard_time": 1753536266,
       "rank": 0,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1135784,
+      "num": 812125,
+      "word": "柯淳自曝经济状况紧张",
+      "onboard_time": 1753533503,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1132016,
       "num": 1132016,
       "word": "年轮纠纷撕裂了谁的体面",
@@ -153,14 +161,6 @@
       "onboard_time": 1753505302,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1080611,
-      "num": 812125,
-      "word": "柯淳自曝经济状况紧张",
-      "onboard_time": 1753533503,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1072804,
@@ -339,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 658228,
+      "num": 431428,
+      "word": "花千骨和三生三世十里桃花哪个更爆",
+      "onboard_time": 1753533985,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639764,
       "num": 574265,
       "word": "张碧晨汪苏泷年轮合约存在信息差",
@@ -363,20 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622861,
+      "num": 332875,
+      "word": "刘耀文舌钉",
+      "onboard_time": 1753536866,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 615154,
+      "num": 296944,
+      "word": "马嘉祺丁程鑫我的名字",
+      "onboard_time": 1753537227,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 614239,
       "num": 302869,
       "word": "985硕士首月工资分享",
       "onboard_time": 1753518983,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 605388,
-      "num": 431428,
-      "word": "花千骨和三生三世十里桃花哪个更爆",
-      "onboard_time": 1753533985,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 604811,
@@ -585,14 +601,6 @@
       "onboard_time": 1753446986,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400532,
-      "num": 332875,
-      "word": "刘耀文舌钉",
-      "onboard_time": 1753536866,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 400163,
@@ -835,6 +843,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282874,
+      "num": 254990,
+      "word": "严浩翔solo",
+      "onboard_time": 1753537285,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 282665,
+      "num": 253594,
+      "word": "腾讯取消主创云包场",
+      "onboard_time": 1753537585,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270819,
+      "num": 270819,
+      "word": "樊振东乒超十战十胜",
+      "onboard_time": 1753536026,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266423,
       "num": 266423,
       "word": "关晓彤帅成这样",
@@ -915,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241245,
-      "num": 241245,
-      "word": "樊振东乒超十战十胜",
-      "onboard_time": 1753536026,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239416,
       "num": 210484,
       "word": "和什么样的人结婚才会幸福",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1753501522,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226510,
+      "num": 226510,
+      "word": "风年",
+      "onboard_time": 1753536568,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 226188,
@@ -1147,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204416,
+      "num": 204416,
+      "word": "16人考上厦门大学马来分校决定复读",
+      "onboard_time": 1753537047,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204235,
       "num": 204235,
       "word": "明日方舟 大白兔",
@@ -1155,12 +1195,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203238,
+      "num": 203238,
+      "word": "Shad0w为了头发会继续加油的",
+      "onboard_time": 1753537047,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202880,
       "num": 202880,
       "word": "梁王组合中国赛无缘决赛",
       "onboard_time": 1753532603,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201845,
+      "num": 201845,
+      "word": "周深演唱会喊话GAI",
+      "onboard_time": 1753537047,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 201542,
@@ -1211,14 +1267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 197501,
-      "num": 197501,
-      "word": "风年",
-      "onboard_time": 1753536568,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 197222,
       "num": 220702,
       "word": "美国人看到中国公园破防了",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1753522103,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195886,
+      "num": 195886,
+      "word": "浙BA",
+      "onboard_time": 1753537285,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 194357,
@@ -1443,6 +1499,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 178788,
+      "num": 178788,
+      "word": "重返未来1999",
+      "onboard_time": 1753537466,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177217,
       "num": 177217,
       "word": "肖战4分钟小站记",
@@ -1571,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165814,
-      "num": 165814,
-      "word": "Shad0w为了头发会继续加油的",
-      "onboard_time": 1753537047,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 165276,
       "num": 136334,
       "word": "樊振东打完奥运后发自内心的累",
@@ -1656,14 +1712,6 @@
       "word": "NCTWISH韩文版爱你",
       "onboard_time": 1753528522,
       "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 160351,
-      "num": 160351,
-      "word": "周深演唱会喊话GAI",
-      "onboard_time": 1753537047,
-      "rank": 42,
       "category": "演出"
     },
     {
@@ -1803,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152889,
+      "num": 152889,
+      "word": "音乐节取消姚琛给粉丝组饭局",
+      "onboard_time": 1753537707,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152676,
       "num": 152676,
       "word": "房主任 哥哥容易塌房",
@@ -1865,6 +1921,14 @@
       "onboard_time": 1753518503,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146333,
+      "num": 146333,
+      "word": "张真源场内长灯牌",
+      "onboard_time": 1753537466,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 146109,
@@ -2507,6 +2571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118968,
+      "num": 224187,
+      "word": "为什么建议睡觉把脚露在外面",
+      "onboard_time": 1753530204,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118612,
       "num": 118612,
       "word": "丁程鑫cha万物生",
@@ -2641,14 +2713,6 @@
       "onboard_time": 1753524923,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113277,
-      "num": 220482,
-      "word": "为什么建议睡觉把脚露在外面",
-      "onboard_time": 1753530204,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 113057,
@@ -3051,14 +3115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91996,
-      "num": 168719,
-      "word": "16人考上厦门大学马来分校决定复读",
-      "onboard_time": 1753537047,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91692,
       "num": 91692,
       "word": "无限暖暖",
@@ -3097,6 +3153,14 @@
       "onboard_time": 1753516342,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90408,
+      "num": 191584,
+      "word": "洪水冲走金店价值上千万首饰",
+      "onboard_time": 1753537227,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90363,
