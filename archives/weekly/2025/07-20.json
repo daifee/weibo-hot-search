@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753534323351,
+  "endTime": 1753535256563,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -1235,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 948167,
+      "num": 1151706,
+      "word": "李雪琴携男友看毛不易演唱会",
+      "onboard_time": 1753532484,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 942886,
       "num": 942886,
       "word": "爸爸烟不离手10岁儿子查出肺癌",
@@ -1547,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 812125,
+      "num": 812125,
+      "word": "柯淳自曝经济状况紧张",
+      "onboard_time": 1753533503,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811807,
       "num": 811807,
       "word": "网友自曝麦当劳兼职偷吃被开除",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1753489161,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 770631,
-      "num": 770631,
-      "word": "李雪琴携男友看毛不易演唱会",
-      "onboard_time": 1753532484,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 767113,
@@ -3043,14 +3051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517290,
-      "num": 517290,
-      "word": "柯淳自曝经济状况紧张",
-      "onboard_time": 1753533503,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517173,
       "num": 517173,
       "word": "中南大学谭某兵被暂停工作",
@@ -3795,6 +3795,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 430894,
+      "num": 276688,
+      "word": "花千骨和三生三世十里桃花哪个更爆",
+      "onboard_time": 1753533985,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429783,
       "num": 429783,
       "word": "张凌赫说好演员最重要的是人品",
@@ -4329,6 +4337,14 @@
       "onboard_time": 1753082002,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 376809,
+      "num": 242590,
+      "word": "马嘉祺帮丁程鑫整理麦克风",
+      "onboard_time": 1753534526,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 376231,
@@ -4969,6 +4985,14 @@
       "onboard_time": 1753069762,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322242,
+      "num": 322242,
+      "word": "王楚钦vs周雨",
+      "onboard_time": 1753534103,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 321785,
@@ -5787,14 +5811,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 276688,
-      "num": 276688,
-      "word": "花千骨和三生三世十里桃花哪个更爆",
-      "onboard_time": 1753533985,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276237,
       "num": 292966,
       "word": "肯德基回应老人占座打牌顾客站着",
@@ -6083,6 +6099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 259799,
+      "num": 249138,
+      "word": "石凯演唱会",
+      "onboard_time": 1753529903,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259396,
       "num": 259396,
       "word": "twice续约",
@@ -6299,14 +6323,6 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 249138,
-      "num": 249138,
-      "word": "石凯演唱会",
-      "onboard_time": 1753529903,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 248595,
       "num": 248595,
       "word": "金价再暴涨",
@@ -6385,6 +6401,14 @@
       "onboard_time": 1753407863,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244899,
+      "num": 244899,
+      "word": "AL对战BLG",
+      "onboard_time": 1753528941,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 244652,
@@ -6473,6 +6497,14 @@
       "onboard_time": 1753094184,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242809,
+      "num": 502071,
+      "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
+      "onboard_time": 1753532004,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242475,
@@ -6937,6 +6969,14 @@
       "onboard_time": 1753344805,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224513,
+      "num": 224513,
+      "word": "命中注定我爱你番外更新了",
+      "onboard_time": 1753534103,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 224494,
@@ -7531,6 +7571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211290,
+      "num": 211290,
+      "word": "安洗莹退赛",
+      "onboard_time": 1753534346,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211279,
       "num": 211279,
       "word": "彩椒碗",
@@ -7651,14 +7699,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208920,
-      "num": 502071,
-      "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
-      "onboard_time": 1753532004,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208833,
       "num": 208833,
       "word": "三个少年直播",
@@ -7729,6 +7769,14 @@
       "onboard_time": 1753451126,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207645,
+      "num": 207645,
+      "word": "BLG战胜AL",
+      "onboard_time": 1753535007,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 207393,
@@ -7827,14 +7875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206192,
-      "num": 206192,
-      "word": "王楚钦vs周雨",
-      "onboard_time": 1753534103,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206058,
       "num": 206058,
       "word": "公司回应学生坠落应急小队38分钟后到场",
@@ -7921,6 +7961,14 @@
       "onboard_time": 1753019963,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204235,
+      "num": 204235,
+      "word": "明日方舟 大白兔",
+      "onboard_time": 1753534103,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 203952,
@@ -8299,6 +8347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198987,
+      "num": 198987,
+      "word": "张真源生图五官好立体",
+      "onboard_time": 1753534826,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198888,
       "num": 284569,
       "word": "种地吧",
@@ -8649,6 +8705,14 @@
       "onboard_time": 1753454789,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193442,
+      "num": 193442,
+      "word": "宋亚轩撕漫",
+      "onboard_time": 1753534826,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 193441,
@@ -9067,6 +9131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188604,
+      "num": 188604,
+      "word": "李佳隆不接受新说唱选手diss",
+      "onboard_time": 1753534346,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188441,
       "num": 188441,
       "word": "张韶涵演唱会嘉宾是春晚机器人",
@@ -9307,14 +9379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 185630,
-      "num": 185630,
-      "word": "明日方舟 大白兔",
-      "onboard_time": 1753534103,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185356,
       "num": 185356,
       "word": "AL对战GEN决胜局",
@@ -9529,6 +9593,14 @@
       "onboard_time": 1753356922,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182601,
+      "num": 182601,
+      "word": "EWC",
+      "onboard_time": 1753279945,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 182459,
@@ -11051,6 +11123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162749,
+      "num": 162749,
+      "word": "韩悦晋级中国赛决赛",
+      "onboard_time": 1753534405,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162618,
       "num": 138607,
       "word": "肺癌早期症状就像感冒",
@@ -11065,6 +11145,14 @@
       "onboard_time": 1753365505,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162276,
+      "num": 162276,
+      "word": "刘耀文顶级阴湿男鬼味",
+      "onboard_time": 1753535185,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 162182,
@@ -11320,6 +11408,14 @@
       "word": "TIMA音乐大赏阵容",
       "onboard_time": 1753240701,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 160302,
+      "num": 160302,
+      "word": "岳云鹏演唱会",
+      "onboard_time": 1753535185,
+      "rank": 49,
       "category": "演出"
     },
     {
@@ -12355,14 +12451,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 149634,
-      "num": 149634,
-      "word": "EWC",
-      "onboard_time": 1753279945,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149396,
       "num": 149396,
       "word": "你就是今天结婚了也得给我上学去",
@@ -12705,14 +12793,6 @@
       "onboard_time": 1753071624,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146393,
-      "num": 182372,
-      "word": "命中注定我爱你番外更新了",
-      "onboard_time": 1753534103,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 146328,
@@ -17091,6 +17171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113277,
+      "num": 208071,
+      "word": "为什么建议睡觉把脚露在外面",
+      "onboard_time": 1753530204,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113259,
       "num": 113259,
       "word": "全红婵训练状态",
@@ -18033,14 +18121,6 @@
       "onboard_time": 1753195702,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106403,
-      "num": 106403,
-      "word": "AL对战BLG",
-      "onboard_time": 1753528941,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 106349,
@@ -19969,6 +20049,14 @@
       "onboard_time": 1753201099,
       "rank": 40,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 83471,
+      "num": 187145,
+      "word": "王楚钦3比0周雨",
+      "onboard_time": 1753535185,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 83126,
@@ -22689,6 +22777,14 @@
       "onboard_time": 1752959594,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22550,
+      "num": 241295,
+      "word": "曝歌手突围赛名单",
+      "onboard_time": 1753534886,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 22494,
