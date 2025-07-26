@@ -1,0 +1,410 @@
+{
+  "runTime": 1753551867989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985651,
+        "num": 985651,
+        "word": "旺仔小乔道歉信",
+        "onboard_time": 1753536266,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231926,
+        "num": 231926,
+        "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+        "onboard_time": 1753543405,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41401,
+        "num": 212363,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449212,
+        "num": 209956,
+        "word": "丁程鑫脖子上有唇印",
+        "onboard_time": 1753538486,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199740,
+        "num": 199740,
+        "word": "TTG对战AG",
+        "onboard_time": 1753536747,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215847,
+        "num": 198516,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214843,
+        "num": 188518,
+        "word": "柯淳自曝经济状况紧张",
+        "onboard_time": 1753533503,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173565,
+        "num": 173565,
+        "word": "李炜 版权可聊",
+        "onboard_time": 1753543286,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157681,
+        "num": 157681,
+        "word": "俄车臣领导人卡德罗夫突然溺水",
+        "onboard_time": 1753544485,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153928,
+        "num": 153928,
+        "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+        "onboard_time": 1753543405,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 276524,
+        "num": 152792,
+        "word": "糊涂家长下猛药女婴被喂出肝衰竭",
+        "onboard_time": 1753547543,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225831,
+        "num": 152205,
+        "word": "马頔李纯 婚房",
+        "onboard_time": 1753529182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188569,
+        "num": 151877,
+        "word": "刘耀文舌钉",
+        "onboard_time": 1753536866,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151239,
+        "num": 151239,
+        "word": "演唱会CEO出轨的最大赢家出现了",
+        "onboard_time": 1753532063,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138892,
+        "num": 138892,
+        "word": "李雪琴携男友看毛不易演唱会",
+        "onboard_time": 1753532484,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136362,
+        "num": 136362,
+        "word": "贺峻霖 保研",
+        "onboard_time": 1753539807,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130425,
+        "num": 130425,
+        "word": "花千骨和三生三世十里桃花哪个更爆",
+        "onboard_time": 1753533985,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117294,
+        "num": 117294,
+        "word": "汪苏泷终于唱了无名之辈",
+        "onboard_time": 1753540287,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92643,
+        "num": 92643,
+        "word": "基孔肯雅热患者记录病程",
+        "onboard_time": 1753546284,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85650,
+        "num": 85650,
+        "word": "太宰治",
+        "onboard_time": 1753542686,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98859,
+        "num": 85550,
+        "word": "房主任好牛",
+        "onboard_time": 1753546943,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84363,
+        "num": 84363,
+        "word": "朝雪录预告",
+        "onboard_time": 1753545927,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75272,
+        "num": 75272,
+        "word": "遇到肖战但没认出来",
+        "onboard_time": 1753530263,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74215,
+        "num": 74215,
+        "word": "樊振东微博发文",
+        "onboard_time": 1753524441,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73576,
+        "num": 73576,
+        "word": "易烊千玺张艺兴电影节同框",
+        "onboard_time": 1753544544,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73549,
+        "num": 73549,
+        "word": "韦雪说不敢联系秦奋",
+        "onboard_time": 1753543526,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64548,
+        "num": 73549,
+        "word": "16人考上厦门大学马来分校决定复读",
+        "onboard_time": 1753537047,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63756,
+        "num": 73539,
+        "word": "综艺史上长达两分钟的沉默",
+        "onboard_time": 1753525281,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62519,
+        "num": 73525,
+        "word": "艾滋病 隐私",
+        "onboard_time": 1753528282,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60182,
+        "num": 73517,
+        "word": "国外研究推测疑外星飞船11月袭击地球",
+        "onboard_time": 1753539087,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120168,
+        "num": 73509,
+        "word": "37岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1753550179,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58827,
+        "num": 73509,
+        "word": "孟子义 梅超风",
+        "onboard_time": 1753542866,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58747,
+        "num": 73500,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53527,
+        "num": 73490,
+        "word": "石凯演唱会",
+        "onboard_time": 1753529903,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52827,
+        "num": 73478,
+        "word": "樱木花道",
+        "onboard_time": 1753541727,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 50210,
+        "num": 73473,
+        "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+        "onboard_time": 1753526722,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 49440,
+        "num": 73466,
+        "word": "张真源回应饭撒叫姐姐",
+        "onboard_time": 1753545025,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49356,
+        "num": 73460,
+        "word": "何浩楠完蛋了天塌了",
+        "onboard_time": 1753543945,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43763,
+        "num": 73444,
+        "word": "zwy的bp",
+        "onboard_time": 1753541247,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42988,
+        "num": 73440,
+        "word": "周笔畅这背不拔罐可惜了",
+        "onboard_time": 1753546164,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42697,
+        "num": 73429,
+        "word": "陈粒演唱会",
+        "onboard_time": 1753549761,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41899,
+        "num": 73424,
+        "word": "周深戏腔还是太权威了",
+        "onboard_time": 1753545264,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41804,
+        "num": 73413,
+        "word": "BLG战胜AL",
+        "onboard_time": 1753535007,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40920,
+        "num": 73410,
+        "word": "AG获KWC最受欢迎战队奖",
+        "onboard_time": 1753547243,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40909,
+        "num": 73400,
+        "word": "机器人做菜做生气了",
+        "onboard_time": 1753546764,
+        "rank": 44,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 38891,
+        "num": 73390,
+        "word": "杜华说香奈儿能成为巨星",
+        "onboard_time": 1753542148,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37139,
+        "num": 73386,
+        "word": "刘铮打伞照",
+        "onboard_time": 1753544725,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35712,
+        "num": 73378,
+        "word": "华山论剑",
+        "onboard_time": 1753551798,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35166,
+        "num": 73365,
+        "word": "洪水涌入县城一金店近20公斤货被冲走",
+        "onboard_time": 1753544965,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34874,
+        "num": 73361,
+        "word": "单依纯上期造型师已被发配非洲",
+        "onboard_time": 1753539265,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
