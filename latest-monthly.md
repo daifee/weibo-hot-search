@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/26 11:47:11
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/26 12:02:03
 </p>
 </blockquote>
 <p>
@@ -4119,6 +4119,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23636%E5%88%86%E8%80%83%E7%94%9F%E6%94%BE%E5%BC%83985%E9%80%89%E6%B0%91%E5%8A%9E%E5%A4%A7%E5%AD%A6%23" target="weibo">
+636分考生放弃985选民办大学（热度：839649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B1%8F%E4%BF%9D%23" target="weibo">
 鹿晗屏保（热度：838506）
 </a>
@@ -5885,12 +5891,6 @@ Oakley 王楚钦（热度：694014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23" target="weibo">
 华东理工大学录取通知书涉嫌抄袭（热度：670259）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23636%E5%88%86%E8%80%83%E7%94%9F%E6%94%BE%E5%BC%83985%E9%80%89%E6%B0%91%E5%8A%9E%E5%A4%A7%E5%AD%A6%23" target="weibo">
-636分考生放弃985选民办大学（热度：670244）
 </a>
 </li>
 

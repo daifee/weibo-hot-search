@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753501631791,
+  "endTime": 1753502523104,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -1339,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 839649,
+      "num": 839649,
+      "word": "636分考生放弃985选民办大学",
+      "onboard_time": 1753500082,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 836612,
       "num": 261945,
       "word": "孔雪儿机场被男子大吼",
@@ -1811,14 +1819,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 670244,
-      "num": 670244,
-      "word": "636分考生放弃985选民办大学",
-      "onboard_time": 1753500082,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 670150,
       "num": 560051,
       "word": "吴姗儒向刘宇宁道歉",
@@ -2177,6 +2177,14 @@
       "onboard_time": 1753372945,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 602065,
+      "num": 602065,
+      "word": "731",
+      "onboard_time": 1753499541,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 600685,
@@ -3537,14 +3545,6 @@
       "onboard_time": 1753178122,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415071,
-      "num": 415071,
-      "word": "731",
-      "onboard_time": 1753499541,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 414097,
@@ -5131,6 +5131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287805,
+      "num": 287805,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1753499122,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287669,
       "num": 287669,
       "word": "杨舒予哭了",
@@ -5497,6 +5505,14 @@
       "onboard_time": 1753447824,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264816,
+      "num": 187821,
+      "word": "美国在病毒爆发前研发出疫苗",
+      "onboard_time": 1753501883,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 264423,
@@ -5899,14 +5915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 243813,
-      "num": 243813,
-      "word": "王楚钦vs松岛辉空",
-      "onboard_time": 1753499122,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243341,
       "num": 243341,
       "word": "中餐厅",
@@ -6243,6 +6251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229766,
+      "num": 229766,
+      "word": "孟子义九重紫后再演复仇女主",
+      "onboard_time": 1753501883,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229609,
       "num": 229609,
       "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
@@ -6257,6 +6273,14 @@
       "onboard_time": 1753427963,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229593,
+      "num": 205693,
+      "word": "沈小婷一个人打2份工",
+      "onboard_time": 1753501522,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 229333,
@@ -6985,6 +7009,14 @@
       "onboard_time": 1753414163,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210438,
+      "num": 210438,
+      "word": "淘宝闪购",
+      "onboard_time": 1753501822,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 210240,
@@ -8179,6 +8211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190399,
+      "num": 190399,
+      "word": "蔡徐坤新歌Jasmine封面",
+      "onboard_time": 1753502121,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190112,
       "num": 190112,
       "word": "美又解雇70名外国研究员多为中国博后",
@@ -8345,6 +8385,14 @@
       "onboard_time": 1753076240,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188291,
+      "num": 188291,
+      "word": "刘宇宁礼貌性脱鞋",
+      "onboard_time": 1753501282,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188245,
@@ -9105,6 +9153,14 @@
       "onboard_time": 1753078941,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177146,
+      "num": 177146,
+      "word": "谭维维别唱了杨洋已经哭了",
+      "onboard_time": 1753501883,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 177075,
@@ -11579,14 +11635,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 146559,
-      "num": 146559,
-      "word": "刘宇宁礼貌性脱鞋",
-      "onboard_time": 1753501282,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146542,
       "num": 146542,
       "word": "山河四省开始抄河北文旅作业了",
@@ -13427,6 +13475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128501,
+      "num": 128501,
+      "word": "女娲都有时间捏精品了",
+      "onboard_time": 1753502362,
+      "rank": 35,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 128228,
       "num": 128228,
       "word": "乒超第二阶段推出包厢票",
@@ -14075,6 +14131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123082,
+      "num": 365124,
+      "word": "广东基孔肯雅热疫情快速传播正常吗",
+      "onboard_time": 1753500322,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123039,
       "num": 123039,
       "word": "四个月宝宝记仇了这是咋回事",
@@ -14097,6 +14161,22 @@
       "onboard_time": 1753168700,
       "rank": 32,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 122811,
+      "num": 122811,
+      "word": "良月当妈妈了",
+      "onboard_time": 1753502422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122798,
+      "num": 122798,
+      "word": "周深光亮",
+      "onboard_time": 1753501703,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 122646,
@@ -15331,14 +15411,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 113961,
-      "num": 113961,
-      "word": "沈小婷一个人打2份工",
-      "onboard_time": 1753501522,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113953,
       "num": 113953,
       "word": "以后去海南可买更多免关税产品",
@@ -15441,6 +15513,14 @@
       "onboard_time": 1752975380,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113249,
+      "num": 113249,
+      "word": "心疼陈昊宇",
+      "onboard_time": 1753502242,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 113241,
@@ -15945,6 +16025,14 @@
       "onboard_time": 1753192882,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109163,
+      "num": 109163,
+      "word": "宋亚轩躲彩带",
+      "onboard_time": 1753502482,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 108998,
@@ -16779,6 +16867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101487,
+      "num": 101487,
+      "word": "好想吃老式鸡柳",
+      "onboard_time": 1753502301,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101396,
       "num": 101396,
       "word": "减肥为什么减出脂肪肝",
@@ -16889,14 +16985,6 @@
       "onboard_time": 1752990740,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100439,
-      "num": 365124,
-      "word": "广东基孔肯雅热疫情快速传播正常吗",
-      "onboard_time": 1753500322,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 100439,
@@ -18547,6 +18635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68045,
+      "num": 211146,
+      "word": "相似浮选槽格栅板多处仍存在裂口",
+      "onboard_time": 1753500622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67882,
       "num": 90036,
       "word": "苏新皓招人喜欢含金量还在上升",
@@ -18577,6 +18673,14 @@
       "onboard_time": 1753329145,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66350,
+      "num": 292069,
+      "word": "外交部回应林佳龙窜访日本",
+      "onboard_time": 1753501941,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66315,
@@ -18649,6 +18753,14 @@
       "onboard_time": 1753284693,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65002,
+      "num": 363894,
+      "word": "周深把我唱饿了",
+      "onboard_time": 1753499662,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 64852,
@@ -18923,6 +19035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60302,
+      "num": 122910,
+      "word": "Deepseek这个回答真的太治愈了",
+      "onboard_time": 1753501822,
+      "rank": 38,
+      "category": "情感,互联网"
+    },
+    {
       "raw_hot": 60040,
       "num": 125594,
       "word": "6名大学生溺亡知情人称实习与毕业挂钩",
@@ -19033,14 +19153,6 @@
       "onboard_time": 1752945258,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56627,
-      "num": 363894,
-      "word": "周深把我唱饿了",
-      "onboard_time": 1753499662,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 56522,
@@ -20417,14 +20529,6 @@
       "onboard_time": 1753167801,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 25621,
-      "num": 211146,
-      "word": "相似浮选槽格栅板多处仍存在裂口",
-      "onboard_time": 1753500622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25407,
