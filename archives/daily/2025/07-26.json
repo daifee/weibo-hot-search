@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753508841855,
+  "endTime": 1753511916736,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -33,6 +33,14 @@
       "onboard_time": 1753451488,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1324938,
+      "num": 1324938,
+      "word": "长期不换各种社交头像",
+      "onboard_time": 1753505422,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 1304833,
@@ -75,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1081826,
+      "num": 1081826,
+      "word": "皮蛋 不能生吃",
+      "onboard_time": 1753505302,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 969178,
       "num": 969178,
       "word": "美国在病毒爆发前研发出疫苗",
       "onboard_time": 1753501883,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 950561,
+      "num": 393614,
+      "word": "抠抠搜搜花了两万块买破烂",
+      "onboard_time": 1753506803,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 888492,
@@ -99,20 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 807691,
-      "num": 807691,
-      "word": "皮蛋 不能生吃",
-      "onboard_time": 1753505302,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 784223,
       "num": 532244,
       "word": "汪苏泷方希望纷扰止于今夜",
       "onboard_time": 1753489161,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 741657,
+      "num": 196194,
+      "word": "不穿内衣正在年轻女性中悄悄流行",
+      "onboard_time": 1753507103,
+      "rank": 25,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 740033,
@@ -163,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 556734,
-      "num": 556734,
-      "word": "长期不换各种社交头像",
-      "onboard_time": 1753505422,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 540176,
       "num": 540176,
       "word": "建议大家要舍得为自己花钱",
@@ -219,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458271,
-      "num": 393614,
-      "word": "抠抠搜搜花了两万块买破烂",
-      "onboard_time": 1753506803,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 454552,
       "num": 454552,
       "word": "米蛆",
@@ -241,6 +249,14 @@
       "onboard_time": 1753447227,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419904,
+      "num": 419904,
+      "word": "王琳给儿子打电话情绪失控",
+      "onboard_time": 1753509323,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 408297,
@@ -283,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357883,
-      "num": 186329,
-      "word": "不穿内衣正在年轻女性中悄悄流行",
-      "onboard_time": 1753507103,
-      "rank": 25,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 357788,
       "num": 357788,
       "word": "平台回应张馨予碰到聋哑人外卖员",
@@ -305,6 +313,14 @@
       "onboard_time": 1753449687,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 340380,
+      "num": 340380,
+      "word": "基孔肯雅热 后遗症",
+      "onboard_time": 1753508602,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 328927,
@@ -371,12 +387,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295670,
+      "num": 295670,
+      "word": "谢娜一家反骨的爸操心的孩无奈的妈",
+      "onboard_time": 1753507642,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287805,
       "num": 287805,
       "word": "王楚钦vs松岛辉空",
       "onboard_time": 1753499122,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280192,
+      "num": 280192,
+      "word": "房主任说女儿来了血压快飙到300",
+      "onboard_time": 1753509143,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266534,
+      "num": 266534,
+      "word": "樱桃琥珀大结局",
+      "onboard_time": 1753510401,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 263759,
@@ -467,14 +507,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 220579,
-      "num": 220579,
-      "word": "谢娜一家反骨的爸操心的孩无奈的妈",
-      "onboard_time": 1753507642,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218379,
       "num": 218379,
       "word": "孩子撞见爸爸出轨半夜被赶出家门",
@@ -539,12 +571,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197563,
+      "num": 197563,
+      "word": "薄底鞋 筋膜炎",
+      "onboard_time": 1753510222,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197222,
       "num": 220702,
       "word": "美国人看到中国公园破防了",
       "onboard_time": 1753452506,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194222,
+      "num": 194222,
+      "word": "宋亚轩表情管理本硕博连读",
+      "onboard_time": 1753511061,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193853,
+      "num": 193853,
+      "word": "快递 蟑螂卵",
+      "onboard_time": 1753510702,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193367,
@@ -649,14 +705,6 @@
       "onboard_time": 1753503802,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179886,
-      "num": 179886,
-      "word": "基孔肯雅热 后遗症",
-      "onboard_time": 1753508602,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 177146,
@@ -851,12 +899,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143169,
+      "num": 198258,
+      "word": "25年前与普京合影的中国男孩找到了",
+      "onboard_time": 1753507582,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142784,
       "num": 142784,
       "word": "张雪峰包场请全公司看长安的荔枝",
       "onboard_time": 1753507582,
       "rank": 40,
       "category": "电影,互联网"
+    },
+    {
+      "raw_hot": 142451,
+      "num": 142451,
+      "word": "徐艺洋越素越美",
+      "onboard_time": 1753511242,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 142441,
@@ -971,12 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134462,
-      "num": 134462,
-      "word": "25年前与普京合影的中国男孩找到了",
-      "onboard_time": 1753507582,
-      "rank": 43,
-      "category": "国内时政"
+      "raw_hot": 133866,
+      "num": 133866,
+      "word": "沈月最美永远下一期",
+      "onboard_time": 1753510401,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 132228,
@@ -1051,6 +1115,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125525,
+      "num": 144677,
+      "word": "谭爷爷给花花和叶说当了火炬手",
+      "onboard_time": 1753510762,
+      "rank": 26,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 124350,
+      "num": 292858,
+      "word": "预防基孔肯雅热的关键",
+      "onboard_time": 1753510582,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123025,
       "num": 123025,
       "word": "网易口碑",
@@ -1116,7 +1196,7 @@
     },
     {
       "raw_hot": 119562,
-      "num": 119562,
+      "num": 144631,
       "word": "台独才是台湾真正的杂质",
       "onboard_time": 1753508421,
       "rank": 41,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1753467975,
       "rank": 18,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 115198,
+      "num": 115198,
+      "word": "董璇张维伊18年演话剧认识的",
+      "onboard_time": 1753511662,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 115075,
@@ -1225,6 +1313,14 @@
       "onboard_time": 1753500562,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107745,
+      "num": 107745,
+      "word": "林一好直一男的",
+      "onboard_time": 1753511361,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 105705,
@@ -1291,6 +1387,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100225,
+      "num": 100225,
+      "word": "敕勒川音乐节",
+      "onboard_time": 1753509022,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98965,
+      "num": 98965,
+      "word": "空腹断食66小时的变化",
+      "onboard_time": 1753511242,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97324,
       "num": 97324,
       "word": "你在餐厅等候上菜的极限时间是多长",
@@ -1323,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92447,
+      "num": 92447,
+      "word": "太子见皇叔谁先下跪",
+      "onboard_time": 1753509082,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91692,
       "num": 91692,
       "word": "无限暖暖",
@@ -1347,12 +1467,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88952,
+      "num": 142650,
+      "word": "徐志胜你还是搞笑帅哥我另有人选",
+      "onboard_time": 1753509743,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87983,
+      "num": 87983,
+      "word": "伊蚊",
+      "onboard_time": 1753511842,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87724,
       "num": 87724,
       "word": "樊振东和上海队都被问住了",
       "onboard_time": 1753494201,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86954,
+      "num": 102770,
+      "word": "景区回应工作人员管猴子被游客指责",
+      "onboard_time": 1753511242,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85740,
+      "num": 85740,
+      "word": "王楚钦为林昀儒鼓掌",
+      "onboard_time": 1753509202,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85051,
+      "num": 85051,
+      "word": "我得的是抑郁症不是玉玉症",
+      "onboard_time": 1753511903,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84124,
@@ -1433,6 +1593,14 @@
       "onboard_time": 1753456048,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74484,
+      "num": 80061,
+      "word": "消防车遇到受伤女童秒变救护车",
+      "onboard_time": 1753511662,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73767,
@@ -1612,7 +1780,7 @@
     },
     {
       "raw_hot": 36225,
-      "num": 834414,
+      "num": 907621,
       "word": "第五届中国新电商大会",
       "onboard_time": 1753507403,
       "rank": 2,
