@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753519675390,
+  "endTime": 1753522067246,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2471809,
+      "num": 2471809,
+      "word": "张碧晨方说无需多言",
+      "onboard_time": 1753518801,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2356549,
       "num": 2356549,
       "word": "ALin又秒了",
@@ -353,14 +361,6 @@
       "onboard_time": 1753068201,
       "rank": 1,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1755550,
-      "num": 1755550,
-      "word": "张碧晨方说无需多言",
-      "onboard_time": 1753518801,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1742226,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1223689,
+      "num": 902954,
+      "word": "拉塞尔 出轨",
+      "onboard_time": 1753517362,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1218968,
       "num": 1218968,
       "word": "模仿出轨CEO成全球热梗",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1753505302,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1064041,
-      "num": 902954,
-      "word": "拉塞尔 出轨",
-      "onboard_time": 1753517362,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1062225,
@@ -1651,6 +1651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 734518,
+      "num": 734518,
+      "word": "樊振东首次回应加盟德甲联赛争议",
+      "onboard_time": 1753519702,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 734000,
       "num": 219599,
       "word": "宋江曾被经纪公司禁止健身",
@@ -2121,6 +2129,14 @@
       "onboard_time": 1753142120,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 639764,
+      "num": 458848,
+      "word": "张碧晨汪苏泷年轮合约存在信息差",
+      "onboard_time": 1753521022,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 635481,
@@ -3363,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457392,
+      "num": 457392,
+      "word": "艾滋病人信息保密是否合理",
+      "onboard_time": 1753516581,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457353,
       "num": 457353,
       "word": "王楚钦直播",
@@ -3587,14 +3611,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 430177,
-      "num": 430177,
-      "word": "艾滋病人信息保密是否合理",
-      "onboard_time": 1753516581,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 429783,
       "num": 429783,
       "word": "张凌赫说好演员最重要的是人品",
@@ -3625,6 +3641,14 @@
       "onboard_time": 1753104922,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427717,
+      "num": 427717,
+      "word": "樊振东名人面对面",
+      "onboard_time": 1753519402,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 426066,
@@ -5947,6 +5971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256074,
+      "num": 256074,
+      "word": "朝雪录 纯爱变背德",
+      "onboard_time": 1753518862,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255738,
       "num": 385479,
       "word": "我国是世界公认最安全国家之一",
@@ -6339,6 +6371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236904,
+      "num": 236904,
+      "word": "樱桃琥珀意识流婚礼",
+      "onboard_time": 1753517061,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236844,
       "num": 303982,
       "word": "23岁男子失联34天家属发声",
@@ -6467,20 +6507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231791,
-      "num": 231791,
-      "word": "樱桃琥珀意识流婚礼",
-      "onboard_time": 1753517061,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231755,
       "num": 402034,
       "word": "陈楚生回应歌手难听",
       "onboard_time": 1753006701,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231628,
+      "num": 231628,
+      "word": "肖战不内耗",
+      "onboard_time": 1753519102,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 231180,
@@ -7947,6 +7987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199422,
+      "num": 199422,
+      "word": "985硕士首月工资分享",
+      "onboard_time": 1753518983,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199396,
       "num": 228109,
       "word": "恋与深空新日卡登顶",
@@ -8257,6 +8305,14 @@
       "onboard_time": 1753370367,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194075,
+      "num": 194075,
+      "word": "杨幂王牌9录制出发",
+      "onboard_time": 1753519642,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 194029,
@@ -9491,14 +9547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177777,
-      "num": 177777,
-      "word": "樊振东名人面对面",
-      "onboard_time": 1753519402,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177677,
       "num": 180230,
       "word": "国新办介绍海南自由贸易港建设情况",
@@ -9665,6 +9713,14 @@
       "onboard_time": 1752987622,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175311,
+      "num": 175311,
+      "word": "房主任太炸了",
+      "onboard_time": 1753517842,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 175173,
@@ -10651,14 +10707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161711,
-      "num": 161711,
-      "word": "房主任太炸了",
-      "onboard_time": 1753517842,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161594,
       "num": 161594,
       "word": "扫毒风暴",
@@ -10795,6 +10843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160673,
+      "num": 160673,
+      "word": "月薪三千4年存了10万块",
+      "onboard_time": 1753519402,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160634,
       "num": 312009,
       "word": "最新央企中国雅江集团成立",
@@ -10915,14 +10971,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 159647,
-      "num": 134951,
-      "word": "985硕士首月工资分享",
-      "onboard_time": 1753518983,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159592,
       "num": 159592,
       "word": "王琳圈内人缘",
@@ -11041,6 +11089,14 @@
       "onboard_time": 1753274962,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158057,
+      "num": 158057,
+      "word": "200万存款是什么概念",
+      "onboard_time": 1753520303,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 158050,
@@ -11499,6 +11555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152676,
+      "num": 152676,
+      "word": "房主任 哥哥容易塌房",
+      "onboard_time": 1753520962,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152595,
       "num": 448164,
       "word": "知情人称卖饼的中国小伙无合法执照",
@@ -11825,6 +11889,14 @@
       "onboard_time": 1753269382,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149250,
+      "num": 149250,
+      "word": "郑恺微博头像是张颜齐拍的",
+      "onboard_time": 1753520182,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 149183,
@@ -13195,12 +13267,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136433,
+      "num": 136433,
+      "word": "李子柒担任成都世运会火炬手",
+      "onboard_time": 1753521261,
+      "rank": 31,
+      "category": "网红,体育"
+    },
+    {
       "raw_hot": 136397,
       "num": 183377,
       "word": "关晓彤投喂彩椒碗",
       "onboard_time": 1753229362,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136370,
+      "num": 136370,
+      "word": "歌谣大战",
+      "onboard_time": 1753521082,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 136214,
@@ -14193,14 +14281,6 @@
       "onboard_time": 1752986901,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128191,
-      "num": 128191,
-      "word": "肖战不内耗",
-      "onboard_time": 1753519102,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 128177,
@@ -15217,6 +15297,14 @@
       "onboard_time": 1753007122,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120216,
+      "num": 120216,
+      "word": "丁太升说单依纯君没再向常石磊致敬",
+      "onboard_time": 1753519882,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120186,
@@ -17067,6 +17155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107426,
+      "num": 107426,
+      "word": "赵今麦 林其乐祝你永远勇敢幸福",
+      "onboard_time": 1753520901,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107409,
       "num": 157487,
       "word": "中方一如既往欢迎各国人士来华旅游经商",
@@ -17339,14 +17435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105464,
-      "num": 105464,
-      "word": "月薪三千4年存了10万块",
-      "onboard_time": 1753519402,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105316,
       "num": 216675,
       "word": "周安信C位",
@@ -17537,6 +17625,14 @@
       "onboard_time": 1753253361,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103441,
+      "num": 154077,
+      "word": "男子乘摩托艇遇难留下两幼童",
+      "onboard_time": 1753520243,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103407,
@@ -17883,6 +17979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100251,
+      "num": 100251,
+      "word": "减到130斤后放飞到165斤面部变化",
+      "onboard_time": 1753521742,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100225,
       "num": 100225,
       "word": "敕勒川音乐节",
@@ -17931,6 +18035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99561,
+      "num": 99561,
+      "word": "纯爱那年他死在她怀里",
+      "onboard_time": 1753519761,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99489,
       "num": 91585,
       "word": "余承恩被丞磊骗惨了",
@@ -17977,6 +18089,14 @@
       "onboard_time": 1753443565,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 99018,
+      "num": 99018,
+      "word": "莫兰特人气真高",
+      "onboard_time": 1753520603,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 99011,
@@ -18267,14 +18387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94776,
-      "num": 224050,
-      "word": "朝雪录 纯爱变背德",
-      "onboard_time": 1753518862,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94760,
       "num": 217216,
       "word": "房主任登上上海大屏",
@@ -18297,6 +18409,14 @@
       "onboard_time": 1753180281,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94695,
+      "num": 94695,
+      "word": "练瑜伽三年和练力量一年半的身材对比",
+      "onboard_time": 1753519583,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94452,
@@ -18515,12 +18635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92148,
+      "num": 92148,
+      "word": "尽量去找你配不上的工作",
+      "onboard_time": 1753521923,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92131,
       "num": 130539,
       "word": "迪丽热巴粉丝土味剧宣",
       "onboard_time": 1753236740,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91996,
+      "num": 91996,
+      "word": "电影浪浪山小妖怪口碑",
+      "onboard_time": 1753521982,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 91740,
@@ -18545,6 +18681,14 @@
       "onboard_time": 1753189641,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91577,
+      "num": 233504,
+      "word": "甘肃庆阳暴雨有人失联",
+      "onboard_time": 1753519882,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 91355,
@@ -18596,7 +18740,7 @@
     },
     {
       "raw_hot": 90814,
-      "num": 90814,
+      "num": 141361,
       "word": "谢霆锋妹妹二胎得子",
       "onboard_time": 1753516342,
       "rank": 49,
@@ -18625,6 +18769,14 @@
       "onboard_time": 1753050796,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90363,
+      "num": 90363,
+      "word": "腾讯视频 会员权益",
+      "onboard_time": 1753519761,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 90212,
@@ -18705,6 +18857,14 @@
       "onboard_time": 1753056802,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89502,
+      "num": 89502,
+      "word": "女生没衣服穿的原因找到了",
+      "onboard_time": 1753519702,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89481,
@@ -19523,6 +19683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69868,
+      "num": 560749,
+      "word": "每5只帝王蟹就有4只来自吉林",
+      "onboard_time": 1753520782,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 69690,
       "num": 268620,
       "word": "丁禹兮且初",
@@ -20131,14 +20299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56293,
-      "num": 109953,
-      "word": "杨幂王牌9录制出发",
-      "onboard_time": 1753519642,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 56124,
       "num": 124825,
       "word": "人民日报刊文总结上半年国产剧集",
@@ -20489,6 +20649,14 @@
       "onboard_time": 1753046174,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49242,
+      "num": 308210,
+      "word": "伊朗发生恐袭已致6死20伤",
+      "onboard_time": 1753521501,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48595,
@@ -21899,6 +22067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18898,
+      "num": 111636,
+      "word": "刘雨柔产后9天速瘦20斤",
+      "onboard_time": 1753521443,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18467,
       "num": 26753,
       "word": "只要有人记得相柳就不算离开",
@@ -22159,6 +22335,9 @@
     },
     {
       "word": "#中国对欧政策保持长期稳定#"
+    },
+    {
+      "word": "#40多年前习近平亲自为干部出题阅卷#"
     }
   ]
 }

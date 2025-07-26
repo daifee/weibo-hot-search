@@ -1,7 +1,15 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753519675390,
+  "endTime": 1753522067246,
   "band_list": [
+    {
+      "raw_hot": 2471809,
+      "num": 2471809,
+      "word": "张碧晨方说无需多言",
+      "onboard_time": 1753518801,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2454500,
       "num": 218653,
@@ -17,14 +25,6 @@
       "onboard_time": 1753491201,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1755550,
-      "num": 1755550,
-      "word": "张碧晨方说无需多言",
-      "onboard_time": 1753518801,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1688209,
@@ -67,6 +67,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1223689,
+      "num": 902954,
+      "word": "拉塞尔 出轨",
+      "onboard_time": 1753517362,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1143196,
       "num": 1143196,
       "word": "636分考生放弃985选民办大学",
@@ -105,14 +113,6 @@
       "onboard_time": 1753505302,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1064041,
-      "num": 902954,
-      "word": "拉塞尔 出轨",
-      "onboard_time": 1753517362,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 969178,
@@ -179,6 +179,14 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 734518,
+      "num": 734518,
+      "word": "樊振东首次回应加盟德甲联赛争议",
+      "onboard_time": 1753519702,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 725623,
       "num": 725623,
       "word": "快递 蟑螂卵",
@@ -209,6 +217,14 @@
       "onboard_time": 1753494382,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 639764,
+      "num": 458848,
+      "word": "张碧晨汪苏泷年轮合约存在信息差",
+      "onboard_time": 1753521022,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 628580,
@@ -307,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457392,
+      "num": 457392,
+      "word": "艾滋病人信息保密是否合理",
+      "onboard_time": 1753516581,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454552,
       "num": 454552,
       "word": "米蛆",
@@ -315,12 +339,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 430177,
-      "num": 430177,
-      "word": "艾滋病人信息保密是否合理",
-      "onboard_time": 1753516581,
-      "rank": 10,
-      "category": "民生新闻"
+      "raw_hot": 427717,
+      "num": 427717,
+      "word": "樊振东名人面对面",
+      "onboard_time": 1753519402,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 423735,
@@ -547,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256074,
+      "num": 256074,
+      "word": "朝雪录 纯爱变背德",
+      "onboard_time": 1753518862,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239416,
       "num": 210484,
       "word": "和什么样的人结婚才会幸福",
@@ -571,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236904,
+      "num": 236904,
+      "word": "樱桃琥珀意识流婚礼",
+      "onboard_time": 1753517061,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233039,
       "num": 218467,
       "word": "难听",
@@ -579,12 +619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231791,
-      "num": 231791,
-      "word": "樱桃琥珀意识流婚礼",
-      "onboard_time": 1753517061,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 231628,
+      "num": 231628,
+      "word": "肖战不内耗",
+      "onboard_time": 1753519102,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 229593,
@@ -691,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199422,
+      "num": 199422,
+      "word": "985硕士首月工资分享",
+      "onboard_time": 1753518983,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198269,
       "num": 218167,
       "word": "ALin 马嘉祺我爱他",
@@ -713,6 +761,14 @@
       "onboard_time": 1753511061,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194075,
+      "num": 194075,
+      "word": "杨幂王牌9录制出发",
+      "onboard_time": 1753519642,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 193367,
@@ -851,14 +907,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 177777,
-      "num": 177777,
-      "word": "樊振东名人面对面",
-      "onboard_time": 1753519402,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177146,
       "num": 177146,
       "word": "谭维维别唱了杨洋已经哭了",
@@ -881,6 +929,14 @@
       "onboard_time": 1753503924,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175311,
+      "num": 175311,
+      "word": "房主任太炸了",
+      "onboard_time": 1753517842,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 168816,
@@ -931,14 +987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161711,
-      "num": 161711,
-      "word": "房主任太炸了",
-      "onboard_time": 1753517842,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161190,
       "num": 161190,
       "word": "马丽字字不提沈腾句句是沈腾",
@@ -955,20 +1003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160673,
+      "num": 160673,
+      "word": "月薪三千4年存了10万块",
+      "onboard_time": 1753519402,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160043,
       "num": 160043,
       "word": "这才是真正的有效标语",
       "onboard_time": 1753507703,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159647,
-      "num": 134951,
-      "word": "985硕士首月工资分享",
-      "onboard_time": 1753518983,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 159592,
@@ -985,6 +1033,14 @@
       "onboard_time": 1753514182,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158057,
+      "num": 158057,
+      "word": "200万存款是什么概念",
+      "onboard_time": 1753520303,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 157873,
@@ -1043,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152676,
+      "num": 152676,
+      "word": "房主任 哥哥容易塌房",
+      "onboard_time": 1753520962,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151407,
       "num": 151407,
       "word": "银河左岸 还我朴宰范",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1753499722,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149250,
+      "num": 149250,
+      "word": "郑恺微博头像是张颜齐拍的",
+      "onboard_time": 1753520182,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 147894,
@@ -1307,6 +1379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136433,
+      "num": 136433,
+      "word": "李子柒担任成都世运会火炬手",
+      "onboard_time": 1753521261,
+      "rank": 31,
+      "category": "网红,体育"
+    },
+    {
+      "raw_hot": 136370,
+      "num": 136370,
+      "word": "歌谣大战",
+      "onboard_time": 1753521082,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134814,
       "num": 217256,
       "word": "单依纯回应重得第一",
@@ -1385,14 +1473,6 @@
       "onboard_time": 1753502362,
       "rank": 35,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 128191,
-      "num": 128191,
-      "word": "肖战不内耗",
-      "onboard_time": 1753519102,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 128101,
@@ -1520,6 +1600,14 @@
       "word": "养成系偶像出道七年背后的苦与泪",
       "onboard_time": 1753505544,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120216,
+      "num": 120216,
+      "word": "丁太升说单依纯君没再向常石磊致敬",
+      "onboard_time": 1753519882,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1723,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107426,
+      "num": 107426,
+      "word": "赵今麦 林其乐祝你永远勇敢幸福",
+      "onboard_time": 1753520901,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105705,
       "num": 105705,
       "word": "和平精英",
@@ -1739,14 +1835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105464,
-      "num": 105464,
-      "word": "月薪三千4年存了10万块",
-      "onboard_time": 1753519402,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105316,
       "num": 216675,
       "word": "周安信C位",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1753500322,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103441,
+      "num": 154077,
+      "word": "男子乘摩托艇遇难留下两幼童",
+      "onboard_time": 1753520243,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102887,
@@ -1811,12 +1907,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100251,
+      "num": 100251,
+      "word": "减到130斤后放飞到165斤面部变化",
+      "onboard_time": 1753521742,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100225,
       "num": 100225,
       "word": "敕勒川音乐节",
       "onboard_time": 1753509022,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99561,
+      "num": 99561,
+      "word": "纯爱那年他死在她怀里",
+      "onboard_time": 1753519761,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99018,
+      "num": 99018,
+      "word": "莫兰特人气真高",
+      "onboard_time": 1753520603,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 98343,
@@ -1859,12 +1979,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94776,
-      "num": 224050,
-      "word": "朝雪录 纯爱变背德",
-      "onboard_time": 1753518862,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 94695,
+      "num": 94695,
+      "word": "练瑜伽三年和练力量一年半的身材对比",
+      "onboard_time": 1753519583,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94366,
@@ -1883,12 +2003,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92148,
+      "num": 92148,
+      "word": "尽量去找你配不上的工作",
+      "onboard_time": 1753521923,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91996,
+      "num": 91996,
+      "word": "电影浪浪山小妖怪口碑",
+      "onboard_time": 1753521982,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91692,
       "num": 91692,
       "word": "无限暖暖",
       "onboard_time": 1753495161,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91577,
+      "num": 233504,
+      "word": "甘肃庆阳暴雨有人失联",
+      "onboard_time": 1753519882,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 91229,
@@ -1908,11 +2052,27 @@
     },
     {
       "raw_hot": 90814,
-      "num": 90814,
+      "num": 141361,
       "word": "谢霆锋妹妹二胎得子",
       "onboard_time": 1753516342,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90363,
+      "num": 90363,
+      "word": "腾讯视频 会员权益",
+      "onboard_time": 1753519761,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 89502,
+      "num": 89502,
+      "word": "女生没衣服穿的原因找到了",
+      "onboard_time": 1753519702,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 88952,
@@ -2083,6 +2243,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 69868,
+      "num": 560749,
+      "word": "每5只帝王蟹就有4只来自吉林",
+      "onboard_time": 1753520782,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 68672,
       "num": 115018,
       "word": "樱桃琥珀",
@@ -2128,14 +2296,6 @@
       "word": "耳帝缺席",
       "onboard_time": 1753463120,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 56293,
-      "num": 109953,
-      "word": "杨幂王牌9录制出发",
-      "onboard_time": 1753519642,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -2185,6 +2345,14 @@
       "onboard_time": 1753507762,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49242,
+      "num": 308210,
+      "word": "伊朗发生恐袭已致6死20伤",
+      "onboard_time": 1753521501,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47835,
@@ -2315,6 +2483,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 18898,
+      "num": 111636,
+      "word": "刘雨柔产后9天速瘦20斤",
+      "onboard_time": 1753521443,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17836,
       "num": 89282,
       "word": "药品集采这一变化传递明确信息",
@@ -2364,6 +2540,9 @@
     },
     {
       "word": "#中国对欧政策保持长期稳定#"
+    },
+    {
+      "word": "#40多年前习近平亲自为干部出题阅卷#"
     }
   ]
 }
