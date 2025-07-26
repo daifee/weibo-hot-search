@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753543643273,
+  "endTime": 1753544680154,
   "band_list": [
     {
       "raw_hot": 8469133,
@@ -323,6 +323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 723008,
+      "num": 723008,
+      "word": "少林寺回应网传释永信方丈被带走",
+      "onboard_time": 1753539507,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 714403,
       "num": 270102,
       "word": "女性摆脱不穿内衣的羞耻后有多爽",
@@ -363,20 +371,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 670341,
+      "num": 342792,
+      "word": "汪苏泷终于唱了无名之辈",
+      "onboard_time": 1753540287,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 658228,
       "num": 431428,
       "word": "花千骨和三生三世十里桃花哪个更爆",
       "onboard_time": 1753533985,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 640786,
-      "num": 640786,
-      "word": "少林寺回应网传释永信方丈被带走",
-      "onboard_time": 1753539507,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 639764,
@@ -507,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 520290,
-      "num": 278539,
-      "word": "汪苏泷终于唱了无名之辈",
-      "onboard_time": 1753540287,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 510445,
       "num": 510445,
       "word": "沈佳润美美桑内出圈了",
@@ -592,6 +592,14 @@
       "word": "李炜方称剑魂版权为汪苏泷所有",
       "onboard_time": 1753525221,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 459945,
+      "num": 316846,
+      "word": "李炜 版权可聊",
+      "onboard_time": 1753543286,
+      "rank": 30,
       "category": "音乐"
     },
     {
@@ -755,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346190,
+      "num": 346190,
+      "word": "zwy的bp",
+      "onboard_time": 1753541247,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 344819,
       "num": 344819,
       "word": "同手同脚",
@@ -785,6 +801,14 @@
       "onboard_time": 1753491501,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 322970,
+      "num": 422597,
+      "word": "国外研究推测疑外星飞船11月袭击地球",
+      "onboard_time": 1753539087,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322242,
@@ -859,11 +883,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302783,
-      "num": 422597,
-      "word": "国外研究推测疑外星飞船11月袭击地球",
-      "onboard_time": 1753539087,
+      "raw_hot": 308571,
+      "num": 308571,
+      "word": "太宰治",
+      "onboard_time": 1753542686,
       "rank": 19,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 306066,
+      "num": 306066,
+      "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+      "onboard_time": 1753543405,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1035,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250850,
+      "num": 250850,
+      "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+      "onboard_time": 1753543405,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 249405,
+      "num": 249405,
+      "word": "樱木花道",
+      "onboard_time": 1753541727,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 247462,
+      "num": 247462,
+      "word": "刘宇宁不演燃羽",
+      "onboard_time": 1753543165,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246075,
       "num": 502071,
       "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1753498162,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238495,
-      "num": 216643,
-      "word": "刘宇宁不演燃羽",
-      "onboard_time": 1753543165,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 238318,
@@ -1123,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226891,
-      "num": 226891,
-      "word": "zwy的bp",
-      "onboard_time": 1753541247,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 226510,
       "num": 226510,
       "word": "风年",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1753443686,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217906,
-      "num": 217906,
-      "word": "太宰治",
-      "onboard_time": 1753542686,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 213046,
@@ -1419,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197132,
+      "num": 197132,
+      "word": "你好星期六",
+      "onboard_time": 1753543766,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196327,
       "num": 196327,
       "word": "Gr对战GW",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1753537285,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195086,
+      "num": 195086,
+      "word": "何浩楠完蛋了天塌了",
+      "onboard_time": 1753543945,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 194357,
@@ -1603,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184260,
-      "num": 178396,
-      "word": "李炜 版权可聊",
-      "onboard_time": 1753543286,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 183496,
       "num": 183496,
       "word": "美国代表散布关于中国的谎言",
@@ -1667,12 +1707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180537,
-      "num": 173260,
-      "word": "樱木花道",
-      "onboard_time": 1753541727,
-      "rank": 32,
-      "category": "动漫"
+      "raw_hot": 180429,
+      "num": 180429,
+      "word": "韦雪说不敢联系秦奋",
+      "onboard_time": 1753543526,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 178994,
@@ -1979,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158463,
+      "num": 158463,
+      "word": "杜华说香奈儿能成为巨星",
+      "onboard_time": 1753542148,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158057,
       "num": 158057,
       "word": "200万存款是什么概念",
@@ -2017,14 +2065,6 @@
       "onboard_time": 1753449208,
       "rank": 15,
       "category": "游戏,互联网"
-    },
-    {
-      "raw_hot": 156433,
-      "num": 156433,
-      "word": "杜华说香奈儿能成为巨星",
-      "onboard_time": 1753542148,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 156244,
@@ -2507,14 +2547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137051,
-      "num": 137051,
-      "word": "韦雪说不敢联系秦奋",
-      "onboard_time": 1753543526,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 136602,
       "num": 136602,
       "word": "老没钱风",
@@ -2691,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127958,
+      "num": 127958,
+      "word": "易烊千玺张艺兴电影节同框",
+      "onboard_time": 1753544544,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127920,
       "num": 127920,
       "word": "嫁给我爱豆我就这样",
@@ -2800,6 +2840,14 @@
       "word": "周深光亮",
       "onboard_time": 1753501703,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122251,
+      "num": 122251,
+      "word": "王牌对王牌9直播嘉宾",
+      "onboard_time": 1753544485,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -3259,6 +3307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101936,
+      "num": 556316,
+      "word": "李子柒眼中的吉林之美",
+      "onboard_time": 1753542386,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 101784,
+      "num": 115533,
+      "word": "俄车臣领导人卡德罗夫突然溺水",
+      "onboard_time": 1753544485,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101713,
       "num": 101713,
       "word": "陈都灵翘楚婚服造型",
@@ -3531,36 +3595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86838,
-      "num": 147227,
-      "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
-      "onboard_time": 1753543405,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85791,
-      "num": 147788,
-      "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
-      "onboard_time": 1753543405,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 85740,
       "num": 85740,
       "word": "王楚钦为林昀儒鼓掌",
       "onboard_time": 1753509202,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85038,
-      "num": 485268,
-      "word": "李子柒眼中的吉林之美",
-      "onboard_time": 1753542386,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84589,
@@ -3681,6 +3721,14 @@
       "onboard_time": 1753521501,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74706,
+      "num": 339017,
+      "word": "王楚钦乒超第二阶段3连胜",
+      "onboard_time": 1753543766,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 74484,
