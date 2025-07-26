@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753537766224,
+  "endTime": 1753539958205,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -393,6 +393,14 @@
       "onboard_time": 1752974659,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1727678,
+      "num": 513238,
+      "word": "丁程鑫脖子上有唇印",
+      "onboard_time": 1753538486,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1688209,
@@ -1611,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797504,
+      "num": 332875,
+      "word": "刘耀文舌钉",
+      "onboard_time": 1753536866,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 796167,
       "num": 796167,
       "word": "楚雨荨她舅当爱豆就这样吧",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1753443686,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 622861,
-      "num": 332875,
-      "word": "刘耀文舌钉",
-      "onboard_time": 1753536866,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 617449,
@@ -3363,6 +3371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 484761,
+      "num": 230517,
+      "word": "刘耀文张真源掀头纱",
+      "onboard_time": 1753538728,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 484688,
       "num": 407587,
       "word": "杨幂 王牌9",
@@ -3393,6 +3409,14 @@
       "onboard_time": 1753519402,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 477311,
+      "num": 227720,
+      "word": "严浩翔衣服呢",
+      "onboard_time": 1753538486,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 477237,
@@ -3552,6 +3576,14 @@
       "word": "吧唧 甲醛",
       "onboard_time": 1753003041,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464383,
+      "num": 464383,
+      "word": "16人考上厦门大学马来分校决定复读",
+      "onboard_time": 1753537047,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -4787,6 +4819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 337448,
+      "num": 209591,
+      "word": "黄晓明陈梦现身岳云鹏演唱会",
+      "onboard_time": 1753538667,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 337153,
       "num": 252985,
       "word": "男子骗情人1100万转给妻子挥霍",
@@ -5129,6 +5169,14 @@
       "onboard_time": 1753150580,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 318584,
+      "num": 254990,
+      "word": "严浩翔solo",
+      "onboard_time": 1753537285,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 318365,
@@ -5803,14 +5851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282874,
-      "num": 254990,
-      "word": "严浩翔solo",
-      "onboard_time": 1753537285,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 282665,
       "num": 253594,
       "word": "腾讯取消主创云包场",
@@ -6323,6 +6363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254294,
+      "num": 208232,
+      "word": "贺峻霖 保研",
+      "onboard_time": 1753539807,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254131,
       "num": 254131,
       "word": "芋泥色的孙颖莎",
@@ -6673,6 +6721,14 @@
       "onboard_time": 1753496782,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 238179,
+      "num": 238179,
+      "word": "少林寺回应网传释永信方丈被带走",
+      "onboard_time": 1753539507,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238169,
@@ -7059,6 +7115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225388,
+      "num": 207854,
+      "word": "刘宇宁 65岁以下都叫姐",
+      "onboard_time": 1753537766,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224798,
       "num": 224798,
       "word": "灵笼",
@@ -7185,6 +7249,14 @@
       "onboard_time": 1753332205,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220960,
+      "num": 198568,
+      "word": "刘宇宁又直播辟谣了",
+      "onboard_time": 1753539627,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 220870,
@@ -8064,14 +8136,6 @@
       "word": "北京燃油车彻底禁止入驻网约平台",
       "onboard_time": 1753175602,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204416,
-      "num": 204416,
-      "word": "16人考上厦门大学马来分校决定复读",
-      "onboard_time": 1753537047,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -9843,6 +9907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181896,
+      "num": 181896,
+      "word": "时代少年团跳星奇摇",
+      "onboard_time": 1753539507,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181727,
       "num": 181727,
       "word": "王源彩色头发",
@@ -10097,6 +10169,14 @@
       "onboard_time": 1752999680,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178114,
+      "num": 178114,
+      "word": "雅江集团董事长总经理亮相",
+      "onboard_time": 1753539507,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178000,
@@ -11075,6 +11155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165522,
+      "num": 155139,
+      "word": "马嘉祺束腰红衣",
+      "onboard_time": 1753538607,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165276,
       "num": 136334,
       "word": "樊振东打完奥运后发自内心的累",
@@ -11257,6 +11345,14 @@
       "onboard_time": 1753338746,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163344,
+      "num": 155049,
+      "word": "现在知道周深的厉害了",
+      "onboard_time": 1753537766,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 163207,
@@ -11867,6 +11963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157157,
+      "num": 211287,
+      "word": "国外研究推测疑外星飞船11月袭击地球",
+      "onboard_time": 1753539087,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "新疆 减肥圣地",
@@ -12051,6 +12155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155495,
+      "num": 191584,
+      "word": "洪水冲走金店价值上千万首饰",
+      "onboard_time": 1753537227,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155285,
       "num": 155285,
       "word": "贺峻霖唱了那些年",
@@ -12113,6 +12225,22 @@
       "onboard_time": 1753441343,
       "rank": 35,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 154257,
+      "num": 154257,
+      "word": "许凯看周笔畅演唱会",
+      "onboard_time": 1753539147,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 154222,
+      "num": 154222,
+      "word": "易烊千玺出席First影展晚宴",
+      "onboard_time": 1753538547,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 154194,
@@ -13161,6 +13289,14 @@
       "onboard_time": 1753160723,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144403,
+      "num": 182116,
+      "word": "单依纯上期造型师已被发配非洲",
+      "onboard_time": 1753539265,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 144205,
@@ -14801,6 +14937,14 @@
       "onboard_time": 1753156824,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130703,
+      "num": 344648,
+      "word": "撞艇事故遇难者家属盼完整遗体",
+      "onboard_time": 1753538847,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130676,
@@ -19824,14 +19968,6 @@
       "word": "北半球酷热南半球世纪严寒",
       "onboard_time": 1753050796,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90408,
-      "num": 191584,
-      "word": "洪水冲走金店价值上千万首饰",
-      "onboard_time": 1753537227,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
