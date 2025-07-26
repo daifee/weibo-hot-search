@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753502523104,
+  "endTime": 1753505186380,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1212102,
+      "num": 1212102,
+      "word": "731",
+      "onboard_time": 1753499541,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1211637,
       "num": 1211637,
       "word": "甘肃疾控中心严重违反操作规程",
@@ -873,6 +881,14 @@
       "onboard_time": 1753267701,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1143196,
+      "num": 1143196,
+      "word": "636分考生放弃985选民办大学",
+      "onboard_time": 1753500082,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1139540,
@@ -1107,6 +1123,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 964643,
+      "num": 964643,
+      "word": "美国在病毒爆发前研发出疫苗",
+      "onboard_time": 1753501883,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 950723,
       "num": 359761,
       "word": "欲望羞耻",
@@ -1267,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 880972,
+      "num": 345237,
+      "word": "孔雪儿负债期间还捐款",
+      "onboard_time": 1753502903,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 873958,
       "num": 364917,
       "word": "于正破防删评论",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1753016126,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 839649,
-      "num": 839649,
-      "word": "636分考生放弃985选民办大学",
-      "onboard_time": 1753500082,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 836612,
@@ -2179,14 +2203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 602065,
-      "num": 602065,
-      "word": "731",
-      "onboard_time": 1753499541,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 600685,
       "num": 221476,
       "word": "汪硕造型",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1753414944,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 546215,
+      "num": 546215,
+      "word": "淘宝闪购",
+      "onboard_time": 1753501822,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 545677,
@@ -3177,6 +3201,14 @@
       "onboard_time": 1753163121,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464582,
+      "num": 339642,
+      "word": "梁靖崑乒超因伤退赛",
+      "onboard_time": 1753503143,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 464579,
@@ -4099,6 +4131,14 @@
       "category": "幽默,体育"
     },
     {
+      "raw_hot": 357788,
+      "num": 357788,
+      "word": "平台回应张馨予碰到聋哑人外卖员",
+      "onboard_time": 1753498822,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357607,
       "num": 349379,
       "word": "喻言又拿了第一",
@@ -4224,14 +4264,6 @@
       "word": "阚清子自曝孕期胖了30斤",
       "onboard_time": 1753345164,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 346398,
-      "num": 346398,
-      "word": "平台回应张馨予碰到聋哑人外卖员",
-      "onboard_time": 1753498822,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -4401,6 +4433,14 @@
       "onboard_time": 1753232601,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 330973,
+      "num": 330973,
+      "word": "减肥太猛断崖式变老了",
+      "onboard_time": 1753503802,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 329958,
@@ -4729,6 +4769,14 @@
       "onboard_time": 1753452930,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310572,
+      "num": 310572,
+      "word": "孟子义九重紫后再演复仇女主",
+      "onboard_time": 1753501883,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 308054,
@@ -5507,14 +5555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264816,
-      "num": 187821,
-      "word": "美国在病毒爆发前研发出疫苗",
-      "onboard_time": 1753501883,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 264423,
       "num": 264423,
       "word": "不要修16岁拍的照片",
@@ -6251,14 +6291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229766,
-      "num": 229766,
-      "word": "孟子义九重紫后再演复仇女主",
-      "onboard_time": 1753501883,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229609,
       "num": 229609,
       "word": "女子隐瞒已婚仍恋爱流产后起诉男友",
@@ -6457,6 +6489,14 @@
       "onboard_time": 1753191263,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 221519,
+      "num": 167315,
+      "word": "瘦腿界的邪修",
+      "onboard_time": 1753503322,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 221465,
@@ -7009,14 +7049,6 @@
       "onboard_time": 1753414163,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210438,
-      "num": 210438,
-      "word": "淘宝闪购",
-      "onboard_time": 1753501822,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 210240,
@@ -8899,6 +8931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181363,
+      "num": 181363,
+      "word": "心疼陈昊宇",
+      "onboard_time": 1753502242,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181355,
       "num": 181355,
       "word": "花西子 王俊凯",
@@ -9227,6 +9267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175807,
+      "num": 175807,
+      "word": "以闪亮之名",
+      "onboard_time": 1753503924,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175790,
       "num": 175790,
       "word": "世界之外召唤之王",
@@ -9491,6 +9539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172349,
+      "num": 172349,
+      "word": "抽动症",
+      "onboard_time": 1753504884,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172136,
       "num": 394478,
       "word": "老外发华为折叠本爆火",
@@ -9587,6 +9643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171018,
+      "num": 171018,
+      "word": "米蛆",
+      "onboard_time": 1753504224,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170779,
       "num": 170779,
       "word": "张杰合肥演唱会",
@@ -9633,6 +9697,14 @@
       "onboard_time": 1753441584,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170522,
+      "num": 170522,
+      "word": "终于有下雨天会打伞的男女主了",
+      "onboard_time": 1753504461,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 170421,
@@ -9929,6 +10001,14 @@
       "onboard_time": 1753018103,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166261,
+      "num": 166261,
+      "word": "谁给檀健次孟子义递本子就当为了我",
+      "onboard_time": 1753504403,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 166202,
@@ -10273,6 +10353,14 @@
       "onboard_time": 1753426223,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161478,
+      "num": 161478,
+      "word": "于正你把白鹿当逗号用呢",
+      "onboard_time": 1753504884,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 161442,
@@ -10651,6 +10739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157158,
+      "num": 157158,
+      "word": "快递箱 甲醛",
+      "onboard_time": 1753501643,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "新疆 减肥圣地",
@@ -10673,6 +10769,14 @@
       "onboard_time": 1753141339,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156941,
+      "num": 169555,
+      "word": "重庆动物园",
+      "onboard_time": 1753503802,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156906,
@@ -11713,6 +11817,14 @@
       "onboard_time": 1753455806,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145473,
+      "num": 159008,
+      "word": "疯批的嫂子受气的他",
+      "onboard_time": 1753503623,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 145374,
@@ -13179,6 +13291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 131011,
+      "num": 365124,
+      "word": "广东基孔肯雅热疫情快速传播正常吗",
+      "onboard_time": 1753500322,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130930,
       "num": 130930,
       "word": "田中心太准了",
@@ -13553,6 +13673,14 @@
       "onboard_time": 1753188082,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127656,
+      "num": 127656,
+      "word": "当患者说拉了4次吃了韩国人",
+      "onboard_time": 1753505002,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 127630,
@@ -14131,14 +14259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123082,
-      "num": 365124,
-      "word": "广东基孔肯雅热疫情快速传播正常吗",
-      "onboard_time": 1753500322,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123039,
       "num": 123039,
       "word": "四个月宝宝记仇了这是咋回事",
@@ -14163,8 +14283,8 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 122811,
-      "num": 122811,
+      "raw_hot": 122894,
+      "num": 122894,
       "word": "良月当妈妈了",
       "onboard_time": 1753502422,
       "rank": 39,
@@ -14403,6 +14523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120916,
+      "num": 120916,
+      "word": "宋亚轩躲彩带",
+      "onboard_time": 1753502482,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120863,
       "num": 120863,
       "word": "徐明浩轻轻一跳就秒了",
@@ -14505,6 +14633,14 @@
       "onboard_time": 1753424242,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120009,
+      "num": 120009,
+      "word": "好想吃老式鸡柳",
+      "onboard_time": 1753502301,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 119984,
@@ -15515,14 +15651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113249,
-      "num": 113249,
-      "word": "心疼陈昊宇",
-      "onboard_time": 1753502242,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113241,
       "num": 710335,
       "word": "夏天的最后1个节气",
@@ -16025,14 +16153,6 @@
       "onboard_time": 1753192882,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109163,
-      "num": 109163,
-      "word": "宋亚轩躲彩带",
-      "onboard_time": 1753502482,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 108998,
@@ -16867,14 +16987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101487,
-      "num": 101487,
-      "word": "好想吃老式鸡柳",
-      "onboard_time": 1753502301,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101396,
       "num": 101396,
       "word": "减肥为什么减出脂肪肝",
@@ -17097,6 +17209,14 @@
       "onboard_time": 1753270462,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98972,
+      "num": 363894,
+      "word": "周深把我唱饿了",
+      "onboard_time": 1753499662,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 98728,
@@ -18283,6 +18403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76256,
+      "num": 179852,
+      "word": "柬埔寨要求立即无条件停火",
+      "onboard_time": 1753503981,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76061,
       "num": 76061,
       "word": "徐明浩这段我的解药",
@@ -18753,14 +18881,6 @@
       "onboard_time": 1753284693,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65002,
-      "num": 363894,
-      "word": "周深把我唱饿了",
-      "onboard_time": 1753499662,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 64852,
