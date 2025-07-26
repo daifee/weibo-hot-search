@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753511916736,
+  "endTime": 1753512801046,
   "band_list": [
     {
       "raw_hot": 2454500,
@@ -251,12 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419904,
-      "num": 419904,
+      "raw_hot": 422126,
+      "num": 422126,
       "word": "王琳给儿子打电话情绪失控",
       "onboard_time": 1753509323,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420242,
+      "num": 420242,
+      "word": "基孔肯雅热 后遗症",
+      "onboard_time": 1753508602,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 408297,
@@ -315,12 +323,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 340380,
-      "num": 340380,
-      "word": "基孔肯雅热 后遗症",
-      "onboard_time": 1753508602,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 347916,
+      "num": 347916,
+      "word": "樱桃琥珀大结局",
+      "onboard_time": 1753510401,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 338349,
+      "num": 338349,
+      "word": "房主任说女儿来了血压快飙到300",
+      "onboard_time": 1753509143,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 328927,
@@ -403,22 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280192,
-      "num": 280192,
-      "word": "房主任说女儿来了血压快飙到300",
-      "onboard_time": 1753509143,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 266534,
-      "num": 266534,
-      "word": "樱桃琥珀大结局",
-      "onboard_time": 1753510401,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263759,
       "num": 263759,
       "word": "马龙抓住一个空气乒乓球",
@@ -441,6 +441,14 @@
       "onboard_time": 1753498462,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246213,
+      "num": 246213,
+      "word": "薄底鞋 筋膜炎",
+      "onboard_time": 1753510222,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239416,
@@ -523,6 +531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212797,
+      "num": 161366,
+      "word": "徐艺洋越素越美",
+      "onboard_time": 1753511242,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211044,
       "num": 211044,
       "word": "外交部向日方提出强烈抗议",
@@ -569,14 +585,6 @@
       "onboard_time": 1753453349,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197563,
-      "num": 197563,
-      "word": "薄底鞋 筋膜炎",
-      "onboard_time": 1753510222,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197222,
@@ -747,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167451,
+      "num": 283649,
+      "word": "25年前与普京合影的中国男孩找到了",
+      "onboard_time": 1753507582,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166261,
       "num": 166261,
       "word": "谁给檀健次孟子义递本子就当为了我",
@@ -851,6 +867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 146109,
+      "num": 146109,
+      "word": "张凌赫24秒无台词看哭了",
+      "onboard_time": 1753512021,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146059,
       "num": 219032,
       "word": "6名学生内蒙古遇难最新细节披露",
@@ -899,12 +923,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143169,
-      "num": 198258,
-      "word": "25年前与普京合影的中国男孩找到了",
-      "onboard_time": 1753507582,
-      "rank": 43,
-      "category": "国内时政"
+      "raw_hot": 143343,
+      "num": 292858,
+      "word": "预防基孔肯雅热的关键",
+      "onboard_time": 1753510582,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142784,
@@ -913,14 +937,6 @@
       "onboard_time": 1753507582,
       "rank": 40,
       "category": "电影,互联网"
-    },
-    {
-      "raw_hot": 142451,
-      "num": 142451,
-      "word": "徐艺洋越素越美",
-      "onboard_time": 1753511242,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 142441,
@@ -979,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139389,
+      "num": 139389,
+      "word": "空腹断食66小时的变化",
+      "onboard_time": 1753511242,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139112,
       "num": 139112,
       "word": "张艺兴first电影市场主理人",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1753505962,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "胰岛素抵抗 增肌",
+      "onboard_time": 1753512743,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137406,
@@ -1067,6 +1099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129457,
+      "num": 196356,
+      "word": "谭爷爷给花花和叶说当了火炬手",
+      "onboard_time": 1753510762,
+      "rank": 26,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 128501,
       "num": 128501,
       "word": "女娲都有时间捏精品了",
@@ -1113,22 +1153,6 @@
       "onboard_time": 1753491262,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125525,
-      "num": 144677,
-      "word": "谭爷爷给花花和叶说当了火炬手",
-      "onboard_time": 1753510762,
-      "rank": 26,
-      "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 124350,
-      "num": 292858,
-      "word": "预防基孔肯雅热的关键",
-      "onboard_time": 1753510582,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 123025,
@@ -1203,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119233,
+      "num": 119233,
+      "word": "减掉10斤脂肪到底需要多久",
+      "onboard_time": 1753511961,
+      "rank": 32,
+      "category": "体育,运动健身"
+    },
+    {
       "raw_hot": 119137,
       "num": 121171,
       "word": "宋亚轩说爱是不止此刻",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1753508602,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118194,
+      "num": 118194,
+      "word": "董璇张维伊求婚视频",
+      "onboard_time": 1753512381,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 118052,
@@ -1283,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112521,
+      "num": 112521,
+      "word": "伊蚊",
+      "onboard_time": 1753511842,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111748,
       "num": 111748,
       "word": "刘旸太子的身份藏不住了",
@@ -1319,6 +1367,14 @@
       "num": 107745,
       "word": "林一好直一男的",
       "onboard_time": 1753511361,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106859,
+      "num": 106859,
+      "word": "嫁给我爱豆我就这样",
+      "onboard_time": 1753512441,
       "rank": 37,
       "category": "综艺"
     },
@@ -1371,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101355,
+      "num": 101355,
+      "word": "王楚钦说梁靖崑赛前就不舒服了",
+      "onboard_time": 1753512201,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100625,
       "num": 100625,
       "word": "骗子打视频看到这4个字沉默了",
@@ -1395,20 +1459,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98965,
-      "num": 98965,
-      "word": "空腹断食66小时的变化",
-      "onboard_time": 1753511242,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97324,
       "num": 97324,
       "word": "你在餐厅等候上菜的极限时间是多长",
       "onboard_time": 1753501522,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96006,
+      "num": 96006,
+      "word": "我得的是抑郁症不是玉玉症",
+      "onboard_time": 1753511903,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95145,
@@ -1475,12 +1539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87983,
-      "num": 87983,
-      "word": "伊蚊",
-      "onboard_time": 1753511842,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 88297,
+      "num": 90504,
+      "word": "沙县小吃 减肥餐",
+      "onboard_time": 1753511061,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 87724,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1753509202,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85051,
-      "num": 85051,
-      "word": "我得的是抑郁症不是玉玉症",
-      "onboard_time": 1753511903,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 84124,
@@ -1792,6 +1848,14 @@
       "word": "打卡夏天里的大美中国",
       "onboard_time": 1753451368,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30497,
+      "num": 162523,
+      "word": "河北涿州暴雨居民称开车像开船",
+      "onboard_time": 1753512261,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
