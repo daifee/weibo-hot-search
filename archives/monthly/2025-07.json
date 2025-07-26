@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753529974587,
+  "endTime": 1753534323351,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1753324222,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1615107,
+      "num": 494172,
+      "word": "马頔李纯 婚房",
+      "onboard_time": 1753529182,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1614537,
@@ -3281,6 +3289,14 @@
       "onboard_time": 1752417268,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1149595,
+      "num": 485980,
+      "word": "佟丽娅陈思诚离婚后能一起拍戏",
+      "onboard_time": 1753529662,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1148094,
@@ -5243,6 +5259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 872382,
+      "num": 872382,
+      "word": "演唱会CEO出轨的最大赢家出现了",
+      "onboard_time": 1753532063,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 872367,
       "num": 872367,
       "word": "奶茶店人人人人外卖小哥被吓退",
@@ -5425,6 +5449,14 @@
       "onboard_time": 1752285560,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 853724,
+      "num": 473653,
+      "word": "刘耀文耳洞",
+      "onboard_time": 1753529842,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 853423,
@@ -5841,6 +5873,14 @@
       "onboard_time": 1752630920,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 819679,
+      "num": 819679,
+      "word": "艾滋病 隐私",
+      "onboard_time": 1753528282,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 818563,
@@ -6299,6 +6339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 770631,
+      "num": 770631,
+      "word": "李雪琴携男友看毛不易演唱会",
+      "onboard_time": 1753532484,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 770617,
       "num": 770617,
       "word": "使馆提醒在日中国公民防范自然灾害",
@@ -6441,6 +6489,14 @@
       "onboard_time": 1752552562,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759398,
+      "num": 759398,
+      "word": "刘宇宁直播",
+      "onboard_time": 1753020325,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 758833,
@@ -7156,7 +7212,7 @@
     },
     {
       "raw_hot": 714403,
-      "num": 264124,
+      "num": 270102,
       "word": "女性摆脱不穿内衣的羞耻后有多爽",
       "onboard_time": 1753513941,
       "rank": 28,
@@ -7185,6 +7241,14 @@
       "onboard_time": 1751558361,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 712076,
+      "num": 467828,
+      "word": "遇到肖战但没认出来",
+      "onboard_time": 1753530263,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 711442,
@@ -10443,6 +10507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558775,
+      "num": 417817,
+      "word": "任嘉伦 真男人",
+      "onboard_time": 1753531104,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558563,
       "num": 212051,
       "word": "陈楚生开大了",
@@ -10769,6 +10841,14 @@
       "onboard_time": 1752808521,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 544411,
+      "num": 415683,
+      "word": "丁程鑫美甲",
+      "onboard_time": 1753529424,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 544144,
@@ -11521,6 +11601,14 @@
       "onboard_time": 1752499583,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 517290,
+      "num": 517290,
+      "word": "柯淳自曝经济状况紧张",
+      "onboard_time": 1753533503,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 517216,
@@ -15579,14 +15667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392807,
-      "num": 273547,
-      "word": "马頔李纯 婚房",
-      "onboard_time": 1753529182,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 392435,
       "num": 368773,
       "word": "陈泽希被曝多次出轨",
@@ -17683,6 +17763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344819,
+      "num": 344819,
+      "word": "同手同脚",
+      "onboard_time": 1753529782,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 344753,
       "num": 243269,
       "word": "孩子吞下的不是药是绝望的信号",
@@ -18441,14 +18529,6 @@
       "onboard_time": 1752207923,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331672,
-      "num": 331672,
-      "word": "艾滋病 隐私",
-      "onboard_time": 1753528282,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 331318,
@@ -19241,14 +19321,6 @@
       "onboard_time": 1751546121,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 319260,
-      "num": 319260,
-      "word": "刘宇宁直播",
-      "onboard_time": 1753020325,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 319210,
@@ -21995,6 +22067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 276688,
+      "num": 276688,
+      "word": "花千骨和三生三世十里桃花哪个更爆",
+      "onboard_time": 1753533985,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276603,
       "num": 305452,
       "word": "网友担心余杭周边加工厂食品安全",
@@ -22883,6 +22963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266423,
+      "num": 266423,
+      "word": "关晓彤帅成这样",
+      "onboard_time": 1753532845,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266367,
       "num": 266367,
       "word": "韦世豪红牌",
@@ -23385,6 +23473,14 @@
       "onboard_time": 1752757702,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260788,
+      "num": 260788,
+      "word": "韩国富人家庭的豪华晚餐",
+      "onboard_time": 1753527141,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 260459,
@@ -24393,6 +24489,14 @@
       "onboard_time": 1752656361,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 249138,
+      "num": 249138,
+      "word": "石凯演唱会",
+      "onboard_time": 1753529903,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 249089,
@@ -25739,14 +25843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235078,
-      "num": 235078,
-      "word": "韩国富人家庭的豪华晚餐",
-      "onboard_time": 1753527141,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 235046,
       "num": 235046,
       "word": "关晓彤把造型师发配边疆好吗",
@@ -25801,6 +25897,14 @@
       "onboard_time": 1751943081,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234463,
+      "num": 234463,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1753533744,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 234243,
@@ -27387,14 +27491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220292,
-      "num": 220292,
-      "word": "丁程鑫美甲",
-      "onboard_time": 1753529424,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220265,
       "num": 265978,
       "word": "姜文拍出了马丽不一样的美",
@@ -27601,6 +27697,14 @@
       "onboard_time": 1752676942,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 219164,
+      "num": 219164,
+      "word": "14岁安吉这么帅了",
+      "onboard_time": 1753531104,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 219035,
@@ -27817,14 +27921,6 @@
       "onboard_time": 1751349082,
       "rank": 47,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 217611,
-      "num": 217611,
-      "word": "佟丽娅陈思诚离婚后能一起拍戏",
-      "onboard_time": 1753529662,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 217608,
@@ -29427,6 +29523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208920,
+      "num": 502071,
+      "word": "婴儿育婴馆洗澡时摔下1米多高操作台",
+      "onboard_time": 1753532004,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208892,
       "num": 208892,
       "word": "王源杭州嘉宾 薛之谦",
@@ -29921,6 +30025,14 @@
       "onboard_time": 1752642862,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206192,
+      "num": 206192,
+      "word": "王楚钦vs周雨",
+      "onboard_time": 1753534103,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 206124,
@@ -30817,6 +30929,14 @@
       "onboard_time": 1752843385,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202880,
+      "num": 202880,
+      "word": "梁王组合中国赛无缘决赛",
+      "onboard_time": 1753532603,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 202874,
@@ -32123,6 +32243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198000,
+      "num": 198000,
+      "word": "EWC决胜巅峰中国赛区遗憾淘汰",
+      "onboard_time": 1753533565,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197994,
       "num": 197994,
       "word": "王曼昱当选为全国青联第十四届委员",
@@ -33169,6 +33297,14 @@
       "onboard_time": 1753071562,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194357,
+      "num": 199561,
+      "word": "一诺KWC最受欢迎选手",
+      "onboard_time": 1753533925,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 194344,
@@ -35667,6 +35803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185630,
+      "num": 185630,
+      "word": "明日方舟 大白兔",
+      "onboard_time": 1753534103,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185629,
       "num": 199881,
       "word": "古装剧拍出真正的死亡视角",
@@ -36673,6 +36817,14 @@
       "onboard_time": 1752324021,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181727,
+      "num": 181727,
+      "word": "王源彩色头发",
+      "onboard_time": 1753533445,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 181670,
@@ -38523,6 +38675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174664,
+      "num": 174664,
+      "word": "孙颖莎绝不让话落地上",
+      "onboard_time": 1753532304,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174641,
       "num": 174641,
       "word": "荣耀magic V5",
@@ -39017,6 +39177,14 @@
       "onboard_time": 1751463383,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173443,
+      "num": 173443,
+      "word": "ive新歌剧透",
+      "onboard_time": 1753533264,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 173404,
@@ -43115,6 +43283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160008,
+      "num": 156141,
+      "word": "严浩翔0帧起跳",
+      "onboard_time": 1753532183,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160002,
       "num": 160002,
       "word": "龙族定档预告全是名台词",
@@ -44449,6 +44625,14 @@
       "onboard_time": 1751980524,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156244,
+      "num": 156244,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1753532364,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 156242,
@@ -47035,6 +47219,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 149123,
+      "num": 149123,
+      "word": "董力上完三孩来了想生三胎了",
+      "onboard_time": 1753532904,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149071,
       "num": 149071,
       "word": "兵家不争之地",
@@ -48235,6 +48427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146393,
+      "num": 182372,
+      "word": "命中注定我爱你番外更新了",
+      "onboard_time": 1753534103,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146352,
       "num": 152575,
       "word": "敖瑞鹏又发红包了",
@@ -48897,6 +49097,14 @@
       "onboard_time": 1752150083,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144618,
+      "num": 144618,
+      "word": "明日方舟直播",
+      "onboard_time": 1753529662,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 144612,
@@ -49883,6 +50091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142099,
+      "num": 142099,
+      "word": "樊振东说哪条路都是被堵死的",
+      "onboard_time": 1753533925,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142067,
       "num": 142067,
       "word": "山东舰上歼15T为香港观众遮风挡雨",
@@ -49913,6 +50129,14 @@
       "onboard_time": 1752485062,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142031,
+      "num": 142031,
+      "word": "刘昊然十年前的回旋镖正中眉心",
+      "onboard_time": 1753534224,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 142021,
@@ -50953,14 +51177,6 @@
       "onboard_time": 1753340006,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139567,
-      "num": 139567,
-      "word": "同手同脚",
-      "onboard_time": 1753529782,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 139559,
@@ -55611,6 +55827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129543,
+      "num": 328829,
+      "word": "14名大汉轮流用变声器假扮网恋女友",
+      "onboard_time": 1753528702,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 129541,
       "num": 129541,
       "word": "杨紫带piupiu跳手势舞",
@@ -59803,14 +60027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121497,
-      "num": 121497,
-      "word": "刘耀文耳洞",
-      "onboard_time": 1753529842,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 121477,
       "num": 121477,
       "word": "陈飞宇和哥哥机场聊天",
@@ -61329,6 +61545,14 @@
       "onboard_time": 1751537601,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118560,
+      "num": 183266,
+      "word": "王菲嘎图",
+      "onboard_time": 1753532304,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 118559,
@@ -66579,14 +66803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108558,
-      "num": 108558,
-      "word": "明日方舟直播",
-      "onboard_time": 1753529662,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 108530,
       "num": 108530,
       "word": "大鹏说早年间跟白客是王不见王",
@@ -69203,14 +69419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 102959,
-      "num": 102959,
-      "word": "石凯演唱会",
-      "onboard_time": 1753529903,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 102923,
       "num": 149052,
       "word": "龙族动画第二季开播",
@@ -71729,6 +71937,14 @@
       "onboard_time": 1752158245,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95880,
+      "num": 1031182,
+      "word": "每5只帝王蟹就有4只来自吉林",
+      "onboard_time": 1753520782,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 95879,
@@ -74355,14 +74571,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 86197,
-      "num": 328829,
-      "word": "14名大汉轮流用变声器假扮网恋女友",
-      "onboard_time": 1753528702,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 86171,
       "num": 290709,
       "word": "MG总经理刚上任就背刺",
@@ -75497,14 +75705,6 @@
       "onboard_time": 1752853702,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80416,
-      "num": 1031182,
-      "word": "每5只帝王蟹就有4只来自吉林",
-      "onboard_time": 1753520782,
-      "rank": 2,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 80306,
