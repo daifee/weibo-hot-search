@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753512801046,
+  "endTime": 1753514786786,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -6107,6 +6107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 782211,
+      "num": 782211,
+      "word": "北大将全面取消绩点",
+      "onboard_time": 1753512921,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 781905,
       "num": 781905,
       "word": "外卖大战有骑手一天赚1000多元",
@@ -10147,6 +10155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 565601,
+      "num": 565601,
+      "word": "董璇张维伊求婚视频",
+      "onboard_time": 1753512381,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565455,
       "num": 565455,
       "word": "黄圣依孩子用石明鑫主编的数学题",
@@ -10313,6 +10329,14 @@
       "onboard_time": 1751728585,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557905,
+      "num": 557905,
+      "word": "快递 蟑螂卵",
+      "onboard_time": 1753510702,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 557796,
@@ -12273,6 +12297,14 @@
       "onboard_time": 1751364623,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 486320,
+      "num": 486320,
+      "word": "薄底鞋 筋膜炎",
+      "onboard_time": 1753510222,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 486160,
@@ -16235,6 +16267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371364,
+      "num": 371364,
+      "word": "房主任说女儿来了血压快飙到300",
+      "onboard_time": 1753509143,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371225,
       "num": 226649,
       "word": "错付车费索要无果后轻生家属发声",
@@ -17795,14 +17835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 338349,
-      "num": 338349,
-      "word": "房主任说女儿来了血压快飙到300",
-      "onboard_time": 1753509143,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 338322,
       "num": 338664,
       "word": "3对母女乘车阿坝坠河已有5人遇难",
@@ -17865,6 +17897,14 @@
       "onboard_time": 1753355302,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 337558,
+      "num": 337558,
+      "word": "谢娜张杰夫妻俩是真没把我当外人",
+      "onboard_time": 1753513881,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 337380,
@@ -21041,6 +21081,14 @@
       "onboard_time": 1752211761,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286245,
+      "num": 157767,
+      "word": "张碧晨最火最具代表性的歌",
+      "onboard_time": 1753513102,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 286212,
@@ -24361,14 +24409,6 @@
       "onboard_time": 1751544081,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 246213,
-      "num": 246213,
-      "word": "薄底鞋 筋膜炎",
-      "onboard_time": 1753510222,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246168,
@@ -32971,14 +33011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193853,
-      "num": 193853,
-      "word": "快递 蟑螂卵",
-      "onboard_time": 1753510702,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 193787,
       "num": 193787,
       "word": "以法之名万潮",
@@ -36979,6 +37011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178994,
+      "num": 196356,
+      "word": "谭爷爷给花花和叶说当了火炬手",
+      "onboard_time": 1753510762,
+      "rank": 26,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 178966,
       "num": 178966,
       "word": "双轨还不定档",
@@ -37825,6 +37865,14 @@
       "onboard_time": 1753272921,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175626,
+      "num": 158205,
+      "word": "宋亚轩回应粉丝长灯牌",
+      "onboard_time": 1753513402,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 175527,
@@ -43043,6 +43091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158865,
+      "num": 158865,
+      "word": "石宇奇晋级决赛",
+      "onboard_time": 1753514182,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158830,
       "num": 158830,
       "word": "Tabe发文道歉",
@@ -43489,6 +43545,14 @@
       "onboard_time": 1751622022,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157386,
+      "num": 157386,
+      "word": "女生凌晨未接挪车电话车子被砸",
+      "onboard_time": 1753514121,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157354,
@@ -43945,6 +44009,14 @@
       "onboard_time": 1752062243,
       "rank": 32,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 156207,
+      "num": 156207,
+      "word": "林志玲像一只雪豹",
+      "onboard_time": 1753513759,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 156195,
@@ -45137,6 +45209,14 @@
       "onboard_time": 1751651178,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152613,
+      "num": 141699,
+      "word": "女性摆脱不穿内衣的羞耻后有多爽",
+      "onboard_time": 1753513941,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152609,
@@ -47905,6 +47985,14 @@
       "onboard_time": 1753493122,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145765,
+      "num": 145765,
+      "word": "基孔肯雅热 典型症状",
+      "onboard_time": 1753513462,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145763,
@@ -51425,6 +51513,14 @@
       "onboard_time": 1752974719,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137396,
+      "num": 137396,
+      "word": "马丽字字不提沈腾句句是沈腾",
+      "onboard_time": 1753513041,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 137372,
@@ -54955,14 +55051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129457,
-      "num": 196356,
-      "word": "谭爷爷给花花和叶说当了火炬手",
-      "onboard_time": 1753510762,
-      "rank": 26,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 129453,
       "num": 345051,
       "word": "特朗普被拍到脚踝肿胀",
@@ -54993,6 +55081,14 @@
       "onboard_time": 1752827422,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129391,
+      "num": 129391,
+      "word": "鸿蒙智行辅助驾驶报告去掉智能二字",
+      "onboard_time": 1753514121,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 129390,
@@ -55739,6 +55835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127920,
+      "num": 127920,
+      "word": "嫁给我爱豆我就这样",
+      "onboard_time": 1753512441,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127914,
       "num": 127914,
       "word": "馊人",
@@ -56169,6 +56273,14 @@
       "onboard_time": 1753440563,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127084,
+      "num": 122393,
+      "word": "全妆住酒店把一个好人逼没辙了",
+      "onboard_time": 1753514121,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 127072,
@@ -57065,6 +57177,14 @@
       "onboard_time": 1753270462,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125366,
+      "num": 125366,
+      "word": "裴珠泫也被wakuku硬控了",
+      "onboard_time": 1753513642,
+      "rank": 38,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 125316,
@@ -60803,14 +60923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118194,
-      "num": 118194,
-      "word": "董璇张维伊求婚视频",
-      "onboard_time": 1753512381,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118187,
       "num": 118187,
       "word": "董璇张维伊小酒窝参加婚礼",
@@ -63763,6 +63875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112718,
+      "num": 112718,
+      "word": "国外品牌喜欢投资中国的原因",
+      "onboard_time": 1753514421,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112709,
       "num": 163004,
       "word": "舒淇陈坤素颜合照",
@@ -66555,14 +66675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106859,
-      "num": 106859,
-      "word": "嫁给我爱豆我就这样",
-      "onboard_time": 1753512441,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106836,
       "num": 106836,
       "word": "烽火家书",
@@ -68211,6 +68323,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 103157,
+      "num": 103157,
+      "word": "做饭的时候就饱了谁还上桌",
+      "onboard_time": 1753514482,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103145,
       "num": 103145,
       "word": "干部重点项目违规审批但省下200万",
@@ -68865,6 +68985,14 @@
       "onboard_time": 1752902301,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101583,
+      "num": 101583,
+      "word": "单依纯回复李冰冰",
+      "onboard_time": 1753514601,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 101565,
@@ -70017,6 +70145,14 @@
       "onboard_time": 1752821782,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98257,
+      "num": 126230,
+      "word": "艺术家肖战的文笔",
+      "onboard_time": 1753513642,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 98249,
@@ -73060,7 +73196,7 @@
     },
     {
       "raw_hot": 86954,
-      "num": 102770,
+      "num": 179535,
       "word": "景区回应工作人员管猴子被游客指责",
       "onboard_time": 1753511242,
       "rank": 39,
@@ -75841,6 +75977,14 @@
       "onboard_time": 1752822080,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71556,
+      "num": 141302,
+      "word": "李兰迪就这样一直演大女主吧",
+      "onboard_time": 1753513823,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 71531,
@@ -83041,6 +83185,14 @@
       "onboard_time": 1752601218,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32896,
+      "num": 124555,
+      "word": "人工智能大会上的科技敢",
+      "onboard_time": 1753513282,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 32886,
