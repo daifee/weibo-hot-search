@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753558645356,
+  "endTime": 1753561742590,
   "band_list": [
     {
       "raw_hot": 2110545,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35964,
+      "num": 35964,
+      "word": "团播",
+      "onboard_time": 1753558816,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 35712,
       "num": 73378,
       "word": "华山论剑",
@@ -515,12 +523,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25393,
+      "num": 27732,
+      "word": "汪苏泷说BB喔猴挂剧雷",
+      "onboard_time": 1753559414,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23646,
       "num": 35344,
       "word": "周笔畅天呐我怎么会变成这样巡演",
       "onboard_time": 1753555635,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21959,
+      "num": 35326,
+      "word": "特朗普称克林顿去过萝莉岛28次",
+      "onboard_time": 1753557616,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19972,
@@ -531,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17332,
-      "num": 35326,
-      "word": "特朗普称克林顿去过萝莉岛28次",
-      "onboard_time": 1753557616,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 15754,
+      "num": 27579,
+      "word": "让我来唱",
+      "onboard_time": 1753559655,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
