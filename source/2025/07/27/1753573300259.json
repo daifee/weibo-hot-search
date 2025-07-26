@@ -1,0 +1,410 @@
+{
+  "runTime": 1753573300259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673246,
+        "num": 955653,
+        "word": "旺仔小乔道歉信",
+        "onboard_time": 1753536266,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 469206,
+        "num": 469206,
+        "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+        "onboard_time": 1753543405,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55011,
+        "num": 438962,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421137,
+        "num": 421137,
+        "word": "37岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1753550179,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219978,
+        "num": 219978,
+        "word": "演唱会CEO出轨的最大赢家出现了",
+        "onboard_time": 1753532063,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351930,
+        "num": 212095,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188776,
+        "num": 188776,
+        "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+        "onboard_time": 1753543405,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165040,
+        "num": 165040,
+        "word": "村超现场有肖战粉丝小飞侠方阵",
+        "onboard_time": 1753571177,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 162376,
+        "num": 162376,
+        "word": "柯淳自曝经济状况紧张",
+        "onboard_time": 1753533503,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31519,
+        "num": 162359,
+        "word": "北京密云区暴雨红色预警",
+        "onboard_time": 1753572318,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207020,
+        "num": 159410,
+        "word": "马頔李纯 婚房",
+        "onboard_time": 1753529182,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189052,
+        "num": 157695,
+        "word": "糊涂家长下猛药女婴被喂出肝衰竭",
+        "onboard_time": 1753547543,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182875,
+        "num": 155048,
+        "word": "普通人的存款天花板是30万",
+        "onboard_time": 1753568415,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154022,
+        "num": 154022,
+        "word": "14岁安吉这么帅了",
+        "onboard_time": 1753531104,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150898,
+        "num": 150898,
+        "word": "俄车臣领导人卡德罗夫突然溺水",
+        "onboard_time": 1753544485,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136799,
+        "num": 136799,
+        "word": "丁程鑫脖子上有唇印",
+        "onboard_time": 1753538486,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101980,
+        "num": 135360,
+        "word": "花千骨和三生三世十里桃花哪个更爆",
+        "onboard_time": 1753533985,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99502,
+        "num": 130639,
+        "word": "李雪琴携男友看毛不易演唱会",
+        "onboard_time": 1753532484,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89451,
+        "num": 124592,
+        "word": "贺峻霖辅导员去看了时代少年团演唱会",
+        "onboard_time": 1753571897,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71471,
+        "num": 119386,
+        "word": "河北阜平强降雨2死2失踪",
+        "onboard_time": 1753571839,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142361,
+        "num": 118060,
+        "word": "AG夺冠",
+        "onboard_time": 1753572076,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114684,
+        "num": 114684,
+        "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+        "onboard_time": 1753526722,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108999,
+        "num": 108999,
+        "word": "16人考上厦门大学马来分校决定复读",
+        "onboard_time": 1753537047,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108706,
+        "num": 108706,
+        "word": "汪苏泷被导演做局了",
+        "onboard_time": 1753571839,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85791,
+        "num": 85791,
+        "word": "综艺史上长达两分钟的沉默",
+        "onboard_time": 1753525281,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84456,
+        "num": 84456,
+        "word": "遇到肖战但没认出来",
+        "onboard_time": 1753530263,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82064,
+        "num": 82064,
+        "word": "单依纯上期造型师已被发配非洲",
+        "onboard_time": 1753539265,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75750,
+        "num": 75750,
+        "word": "释永信账号已停更两日",
+        "onboard_time": 1753571237,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71331,
+        "num": 71331,
+        "word": "易烊千玺张艺兴电影节同框",
+        "onboard_time": 1753544544,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69475,
+        "num": 69475,
+        "word": "李炜 版权可聊",
+        "onboard_time": 1753543286,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75839,
+        "num": 68505,
+        "word": "国外很贵国内却很便宜的东西",
+        "onboard_time": 1753572558,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65512,
+        "num": 65512,
+        "word": "在美国生意好的中餐馆后厨现状",
+        "onboard_time": 1753566134,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65188,
+        "num": 65188,
+        "word": "基孔肯雅热患者记录病程",
+        "onboard_time": 1753546284,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64560,
+        "num": 64560,
+        "word": "潘展乐点赞蔡徐坤deadman视频",
+        "onboard_time": 1753572377,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 64224,
+        "num": 64224,
+        "word": "樊振东说现阶段无法承受各方面压力",
+        "onboard_time": 1753572738,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62132,
+        "num": 62132,
+        "word": "基孔肯雅热住院患者发声",
+        "onboard_time": 1753572257,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61914,
+        "num": 61914,
+        "word": "贺峻霖 保研",
+        "onboard_time": 1753539807,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59855,
+        "num": 59855,
+        "word": "69岁的健身女孩什么样",
+        "onboard_time": 1753566976,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 57430,
+        "num": 57430,
+        "word": "涉事选矿厂回应浮选槽三大质疑",
+        "onboard_time": 1753571118,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57289,
+        "num": 57289,
+        "word": "韩安冉称前夫像菲佣",
+        "onboard_time": 1753567035,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55342,
+        "num": 55342,
+        "word": "国外研究推测疑外星飞船11月袭击地球",
+        "onboard_time": 1753539087,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54663,
+        "num": 54663,
+        "word": "刘宇宁又直播辟谣了",
+        "onboard_time": 1753539627,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52065,
+        "num": 52065,
+        "word": "韦雪说不敢联系秦奋",
+        "onboard_time": 1753543526,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50055,
+        "num": 50055,
+        "word": "南京照相馆",
+        "onboard_time": 1753572198,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49834,
+        "num": 49834,
+        "word": "刘耀文舌钉",
+        "onboard_time": 1753536866,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49592,
+        "num": 49592,
+        "word": "47岁元斌与妻子现身美术馆",
+        "onboard_time": 1753556776,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49477,
+        "num": 49477,
+        "word": "樊振东微博发文",
+        "onboard_time": 1753524441,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48761,
+        "num": 48761,
+        "word": "特朗普称克林顿去过萝莉岛28次",
+        "onboard_time": 1753557616,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47631,
+        "num": 47631,
+        "word": "朝雪录",
+        "onboard_time": 1753572857,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45631,
+        "num": 47621,
+        "word": "汪苏泷终于唱了无名之辈",
+        "onboard_time": 1753540287,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
