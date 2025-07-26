@@ -1,6 +1,6 @@
 {
   "startTime": 1753461318202,
-  "endTime": 1753529015369,
+  "endTime": 1753529974587,
   "band_list": [
     {
       "raw_hot": 2471809,
@@ -107,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1115729,
+      "num": 1115729,
+      "word": "综艺史上长达两分钟的沉默",
+      "onboard_time": 1753525281,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093509,
       "num": 1093509,
       "word": "博士学历爸爸无法接受抽动症儿子",
@@ -124,19 +132,19 @@
     },
     {
       "raw_hot": 1072804,
-      "num": 289747,
+      "num": 300652,
       "word": "马頔买房了",
       "onboard_time": 1753523783,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1021757,
-      "num": 1021757,
-      "word": "综艺史上长达两分钟的沉默",
-      "onboard_time": 1753525281,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 991904,
+      "num": 991904,
+      "word": "甄嬛 收回胧月",
+      "onboard_time": 1753526781,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 969178,
@@ -169,14 +177,6 @@
       "onboard_time": 1753502903,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 825103,
-      "num": 825103,
-      "word": "甄嬛 收回胧月",
-      "onboard_time": 1753526781,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 824894,
@@ -228,11 +228,19 @@
     },
     {
       "raw_hot": 714403,
-      "num": 216947,
+      "num": 264124,
       "word": "女性摆脱不穿内衣的羞耻后有多爽",
       "onboard_time": 1753513941,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 710419,
+      "num": 400352,
+      "word": "王琳儿子",
+      "onboard_time": 1753528941,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 671778,
@@ -249,14 +257,6 @@
       "onboard_time": 1753494382,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 666472,
-      "num": 400352,
-      "word": "王琳儿子",
-      "onboard_time": 1753528941,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 639764,
@@ -299,8 +299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 583962,
-      "num": 260005,
+      "raw_hot": 588268,
+      "num": 313383,
       "word": "王子文回应王琳",
       "onboard_time": 1753526541,
       "rank": 26,
@@ -339,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 535271,
+      "num": 535271,
+      "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+      "onboard_time": 1753526722,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 510445,
       "num": 510445,
       "word": "沈佳润美美桑内出圈了",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 497404,
-      "num": 256133,
+      "num": 320870,
       "word": "时代少年团上海站官宣",
       "onboard_time": 1753527861,
       "rank": 11,
@@ -467,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 400638,
-      "num": 400638,
-      "word": "女子到派出所蹭空调后买40杯奶茶致谢",
-      "onboard_time": 1753526722,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 400163,
       "num": 321587,
       "word": "出远门一定要记得在冰箱里放戒指",
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392807,
+      "num": 273547,
+      "word": "马頔李纯 婚房",
+      "onboard_time": 1753529182,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371364,
       "num": 371364,
       "word": "房主任说女儿来了血压快飙到300",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 364444,
-      "num": 229734,
+      "num": 291277,
       "word": "丁程鑫金发",
       "onboard_time": 1753527923,
       "rank": 16,
@@ -539,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347676,
+      "num": 280236,
+      "word": "时代少年团大连演唱会",
+      "onboard_time": 1753527861,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 341409,
       "num": 335198,
       "word": "肖战不内耗",
       "onboard_time": 1753519102,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331672,
+      "num": 331672,
+      "word": "艾滋病 隐私",
+      "onboard_time": 1753528282,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 328927,
@@ -609,14 +633,6 @@
       "onboard_time": 1753459345,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301488,
-      "num": 217575,
-      "word": "时代少年团大连演唱会",
-      "onboard_time": 1753527861,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 298010,
@@ -731,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235078,
+      "num": 235078,
+      "word": "韩国富人家庭的豪华晚餐",
+      "onboard_time": 1753527141,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 233039,
       "num": 218467,
       "word": "难听",
       "onboard_time": 1753447706,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232824,
+      "num": 232824,
+      "word": "被公司拖累的明星",
+      "onboard_time": 1753527082,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 229593,
@@ -779,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220292,
+      "num": 220292,
+      "word": "丁程鑫美甲",
+      "onboard_time": 1753529424,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218379,
       "num": 218379,
       "word": "孩子撞见爸爸出轨半夜被赶出家门",
       "onboard_time": 1753443686,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217611,
+      "num": 217611,
+      "word": "佟丽娅陈思诚离婚后能一起拍戏",
+      "onboard_time": 1753529662,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 213046,
@@ -835,16 +883,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205399,
-      "num": 205399,
-      "word": "被公司拖累的明星",
-      "onboard_time": 1753527082,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204516,
-      "num": 172646,
+      "num": 190703,
       "word": "肖战藏海传庆功宴花絮",
       "onboard_time": 1753528763,
       "rank": 28,
@@ -1059,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179266,
-      "num": 222768,
-      "word": "韩国富人家庭的豪华晚餐",
-      "onboard_time": 1753527141,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 178994,
       "num": 202002,
       "word": "谭爷爷给花花和叶说当了火炬手",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1753503924,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175350,
+      "num": 175350,
+      "word": "樊振东vs严升",
+      "onboard_time": 1753529301,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 173798,
@@ -1307,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156095,
+      "num": 156095,
+      "word": "十年前的娱乐圈好热闹",
+      "onboard_time": 1753528882,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155762,
       "num": 111283,
       "word": "年轮",
@@ -1371,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149643,
+      "num": 149643,
+      "word": "斗破苍穹",
+      "onboard_time": 1753528401,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 148340,
       "num": 148340,
       "word": "樊振东感谢国家队理解",
@@ -1424,14 +1480,6 @@
       "word": "基孔肯雅热 典型症状",
       "onboard_time": 1753513462,
       "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 145515,
-      "num": 145515,
-      "word": "艾滋病 隐私",
-      "onboard_time": 1753528282,
-      "rank": 33,
       "category": "健康医疗"
     },
     {
@@ -1569,6 +1617,14 @@
       "onboard_time": 1753527501,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139567,
+      "num": 139567,
+      "word": "同手同脚",
+      "onboard_time": 1753529782,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 139389,
@@ -1883,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123934,
-      "num": 123934,
-      "word": "斗破苍穹",
-      "onboard_time": 1753528401,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 123466,
       "num": 123466,
       "word": "谢谢你内衣侠",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1753518381,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121497,
+      "num": 121497,
+      "word": "刘耀文耳洞",
+      "onboard_time": 1753529842,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 120916,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1753506023,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 116426,
+      "num": 116426,
+      "word": "罗小黑战记",
+      "onboard_time": 1753529724,
+      "rank": 42,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 116366,
@@ -2227,6 +2291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108558,
+      "num": 108558,
+      "word": "明日方舟直播",
+      "onboard_time": 1753529662,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108055,
       "num": 108055,
       "word": "淋雨后一定要洗澡",
@@ -2323,14 +2395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105538,
-      "num": 105538,
-      "word": "十年前的娱乐圈好热闹",
-      "onboard_time": 1753528882,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105316,
       "num": 216675,
       "word": "周安信C位",
@@ -2345,6 +2409,14 @@
       "onboard_time": 1753500322,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102959,
+      "num": 102959,
+      "word": "石凯演唱会",
+      "onboard_time": 1753529903,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 102887,
@@ -2635,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86197,
+      "num": 328829,
+      "word": "14名大汉轮流用变声器假扮网恋女友",
+      "onboard_time": 1753528702,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 85740,
       "num": 85740,
       "word": "王楚钦为林昀儒鼓掌",
@@ -2707,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80416,
+      "num": 1031182,
+      "word": "每5只帝王蟹就有4只来自吉林",
+      "onboard_time": 1753520782,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 78480,
       "num": 78480,
       "word": "3名脑瘫少年拒绝捐款摆摊卖蒜",
@@ -2721,14 +2809,6 @@
       "onboard_time": 1753485559,
       "rank": 26,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 77151,
-      "num": 923021,
-      "word": "每5只帝王蟹就有4只来自吉林",
-      "onboard_time": 1753520782,
-      "rank": 2,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 77089,

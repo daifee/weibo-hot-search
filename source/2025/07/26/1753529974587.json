@@ -1,0 +1,410 @@
+{
+  "runTime": 1753529974587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462432,
+        "num": 1462432,
+        "word": "樊振东微博发文",
+        "onboard_time": 1753524441,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1115729,
+        "num": 1115729,
+        "word": "综艺史上长达两分钟的沉默",
+        "onboard_time": 1753525281,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80416,
+        "num": 1031182,
+        "word": "每5只帝王蟹就有4只来自吉林",
+        "onboard_time": 1753520782,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 991904,
+        "num": 991904,
+        "word": "甄嬛 收回胧月",
+        "onboard_time": 1753526781,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 535271,
+        "num": 535271,
+        "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+        "onboard_time": 1753526722,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 396132,
+        "num": 396132,
+        "word": "樊振东首次回应加盟德甲联赛争议",
+        "onboard_time": 1753519702,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 710419,
+        "num": 379525,
+        "word": "王琳儿子",
+        "onboard_time": 1753528941,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361355,
+        "num": 361355,
+        "word": "印度对中国人签证门槛还是太高",
+        "onboard_time": 1753524262,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331672,
+        "num": 331672,
+        "word": "艾滋病 隐私",
+        "onboard_time": 1753528282,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86197,
+        "num": 328829,
+        "word": "14名大汉轮流用变声器假扮网恋女友",
+        "onboard_time": 1753528702,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 478181,
+        "num": 320870,
+        "word": "时代少年团上海站官宣",
+        "onboard_time": 1753527861,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 588268,
+        "num": 313383,
+        "word": "王子文回应王琳",
+        "onboard_time": 1753526541,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428076,
+        "num": 309935,
+        "word": "拉塞尔 出轨",
+        "onboard_time": 1753517362,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412808,
+        "num": 300652,
+        "word": "马頔买房了",
+        "onboard_time": 1753523783,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378529,
+        "num": 295122,
+        "word": "李炜方称剑魂版权为汪苏泷所有",
+        "onboard_time": 1753525221,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 363402,
+        "num": 291277,
+        "word": "丁程鑫金发",
+        "onboard_time": 1753527923,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 347676,
+        "num": 280236,
+        "word": "时代少年团大连演唱会",
+        "onboard_time": 1753527861,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279546,
+        "num": 279546,
+        "word": "北大将全面取消绩点",
+        "onboard_time": 1753512921,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392807,
+        "num": 273547,
+        "word": "马頔李纯 婚房",
+        "onboard_time": 1753529182,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265223,
+        "num": 265223,
+        "word": "樊振东名人面对面",
+        "onboard_time": 1753519402,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1275900,
+        "num": 264553,
+        "word": "张碧晨方说无需多言",
+        "onboard_time": 1753518801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317430,
+        "num": 264124,
+        "word": "女性摆脱不穿内衣的羞耻后有多爽",
+        "onboard_time": 1753513941,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262142,
+        "num": 262142,
+        "word": "985硕士首月工资分享",
+        "onboard_time": 1753518983,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235078,
+        "num": 235078,
+        "word": "韩国富人家庭的豪华晚餐",
+        "onboard_time": 1753527141,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232824,
+        "num": 232824,
+        "word": "被公司拖累的明星",
+        "onboard_time": 1753527082,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220292,
+        "num": 220292,
+        "word": "丁程鑫美甲",
+        "onboard_time": 1753529424,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217611,
+        "num": 217611,
+        "word": "佟丽娅陈思诚离婚后能一起拍戏",
+        "onboard_time": 1753529662,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190808,
+        "num": 190808,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1753505422,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190703,
+        "num": 190703,
+        "word": "肖战藏海传庆功宴花絮",
+        "onboard_time": 1753528763,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189980,
+        "num": 189980,
+        "word": "王俊凯蟹钳2.0",
+        "onboard_time": 1753528342,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175350,
+        "num": 175350,
+        "word": "樊振东vs严升",
+        "onboard_time": 1753529301,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156095,
+        "num": 156095,
+        "word": "十年前的娱乐圈好热闹",
+        "onboard_time": 1753528882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326997,
+        "num": 155800,
+        "word": "张碧晨汪苏泷年轮合约存在信息差",
+        "onboard_time": 1753521022,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179183,
+        "num": 155252,
+        "word": "肖战不内耗",
+        "onboard_time": 1753519102,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153922,
+        "num": 153922,
+        "word": "朝雪录 纯爱变背德",
+        "onboard_time": 1753518862,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149643,
+        "num": 149643,
+        "word": "斗破苍穹",
+        "onboard_time": 1753528401,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139567,
+        "num": 139567,
+        "word": "同手同脚",
+        "onboard_time": 1753529782,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134913,
+        "num": 134913,
+        "word": "NCTWISH韩文版爱你",
+        "onboard_time": 1753528522,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133201,
+        "num": 133201,
+        "word": "李荣浩到底给多少人写过歌啊",
+        "onboard_time": 1753527501,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126004,
+        "num": 126004,
+        "word": "女生凌晨未接挪车电话车子被砸",
+        "onboard_time": 1753514121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123690,
+        "num": 123690,
+        "word": "女网红向被骚扰中国人道歉",
+        "onboard_time": 1753528522,
+        "rank": 40,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 121497,
+        "num": 121497,
+        "word": "刘耀文耳洞",
+        "onboard_time": 1753529842,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116426,
+        "num": 116426,
+        "word": "罗小黑战记",
+        "onboard_time": 1753529724,
+        "rank": 42,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 115803,
+        "num": 115803,
+        "word": "巴黎奥运的10个难忘瞬间",
+        "onboard_time": 1753525702,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115471,
+        "num": 115471,
+        "word": "朝雪录拍了古代蒸骨验尸",
+        "onboard_time": 1753527622,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114437,
+        "num": 114437,
+        "word": "孙颖莎笑容好有感染力",
+        "onboard_time": 1753528522,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109248,
+        "num": 109248,
+        "word": "关晓彤跳扇子舞美我一大跳",
+        "onboard_time": 1753524923,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108558,
+        "num": 108558,
+        "word": "明日方舟直播",
+        "onboard_time": 1753529662,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102959,
+        "num": 102959,
+        "word": "石凯演唱会",
+        "onboard_time": 1753529903,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98407,
+        "num": 98407,
+        "word": "AL对战BLG",
+        "onboard_time": 1753528941,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#40多年前习近平亲自为干部出题阅卷#"
+    }
+  }
+}

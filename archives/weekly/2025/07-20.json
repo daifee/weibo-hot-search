@@ -1,6 +1,6 @@
 {
   "startTime": 1752942719790,
-  "endTime": 1753529015369,
+  "endTime": 1753529974587,
   "band_list": [
     {
       "raw_hot": 12863672,
@@ -971,6 +971,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1115729,
+      "num": 1115729,
+      "word": "综艺史上长达两分钟的沉默",
+      "onboard_time": 1753525281,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1106445,
       "num": 336145,
       "word": "梓渝站姐",
@@ -1028,7 +1036,7 @@
     },
     {
       "raw_hot": 1072804,
-      "num": 289747,
+      "num": 300652,
       "word": "马頔买房了",
       "onboard_time": 1753523783,
       "rank": 10,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1753448487,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1021757,
-      "num": 1021757,
-      "word": "综艺史上长达两分钟的沉默",
-      "onboard_time": 1753525281,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 1020946,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1753272081,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 991904,
+      "num": 991904,
+      "word": "甄嬛 收回胧月",
+      "onboard_time": 1753526781,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 991842,
@@ -1457,14 +1465,6 @@
       "onboard_time": 1753185442,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 825103,
-      "num": 825103,
-      "word": "甄嬛 收回胧月",
-      "onboard_time": 1753526781,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 824894,
@@ -1764,11 +1764,19 @@
     },
     {
       "raw_hot": 714403,
-      "num": 216947,
+      "num": 264124,
       "word": "女性摆脱不穿内衣的羞耻后有多爽",
       "onboard_time": 1753513941,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 710419,
+      "num": 400352,
+      "word": "王琳儿子",
+      "onboard_time": 1753528941,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 708870,
@@ -1977,14 +1985,6 @@
       "onboard_time": 1753327463,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 666472,
-      "num": 400352,
-      "word": "王琳儿子",
-      "onboard_time": 1753528941,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 665080,
@@ -2443,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588268,
+      "num": 313383,
+      "word": "王子文回应王琳",
+      "onboard_time": 1753526541,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587567,
       "num": 587567,
       "word": "樊振东王楚钦开心击掌",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1753344145,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 583962,
-      "num": 260005,
-      "word": "王子文回应王琳",
-      "onboard_time": 1753526541,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 582447,
@@ -2819,6 +2819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 535271,
+      "num": 535271,
+      "word": "女子到派出所蹭空调后买40杯奶茶致谢",
+      "onboard_time": 1753526722,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 535249,
       "num": 535249,
       "word": "敖瑞鹏李兰迪发了芭莎大片",
@@ -3116,7 +3124,7 @@
     },
     {
       "raw_hot": 497404,
-      "num": 256133,
+      "num": 320870,
       "word": "时代少年团上海站官宣",
       "onboard_time": 1753527861,
       "rank": 11,
@@ -3971,14 +3979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400638,
-      "num": 400638,
-      "word": "女子到派出所蹭空调后买40杯奶茶致谢",
-      "onboard_time": 1753526722,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 400342,
       "num": 400342,
       "word": "王俊凯 英雄联盟",
@@ -4072,6 +4072,14 @@
       "word": "道枝骏佑直播",
       "onboard_time": 1753449388,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 392807,
+      "num": 273547,
+      "word": "马頔李纯 婚房",
+      "onboard_time": 1753529182,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4523,6 +4531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347676,
+      "num": 280236,
+      "word": "时代少年团大连演唱会",
+      "onboard_time": 1753527861,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 347213,
       "num": 347213,
       "word": "华尔街展示加沙儿童尸体模型",
@@ -4713,6 +4729,14 @@
       "onboard_time": 1753232601,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 331672,
+      "num": 331672,
+      "word": "艾滋病 隐私",
+      "onboard_time": 1753528282,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 329958,
@@ -5217,14 +5241,6 @@
       "onboard_time": 1753327282,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301488,
-      "num": 217575,
-      "word": "时代少年团大连演唱会",
-      "onboard_time": 1753527861,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 300920,
@@ -6555,6 +6571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235078,
+      "num": 235078,
+      "word": "韩国富人家庭的豪华晚餐",
+      "onboard_time": 1753527141,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 234097,
       "num": 234097,
       "word": "旺仔小乔演唱会票价",
@@ -6601,6 +6625,14 @@
       "onboard_time": 1753447467,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232824,
+      "num": 232824,
+      "word": "被公司拖累的明星",
+      "onboard_time": 1753527082,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 232704,
@@ -6931,6 +6963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220292,
+      "num": 220292,
+      "word": "丁程鑫美甲",
+      "onboard_time": 1753529424,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220265,
       "num": 265978,
       "word": "姜文拍出了马丽不一样的美",
@@ -7065,6 +7105,14 @@
       "onboard_time": 1753246222,
       "rank": 28,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 217611,
+      "num": 217611,
+      "word": "佟丽娅陈思诚离婚后能一起拍戏",
+      "onboard_time": 1753529662,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 217508,
@@ -7699,14 +7747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205399,
-      "num": 205399,
-      "word": "被公司拖累的明星",
-      "onboard_time": 1753527082,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205194,
       "num": 234339,
       "word": "女子为减肥连续晒背9天导致肾衰竭",
@@ -7740,7 +7780,7 @@
     },
     {
       "raw_hot": 204516,
-      "num": 172646,
+      "num": 190703,
       "word": "肖战藏海传庆功宴花絮",
       "onboard_time": 1753528763,
       "rank": 28,
@@ -9571,14 +9611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179266,
-      "num": 222768,
-      "word": "韩国富人家庭的豪华晚餐",
-      "onboard_time": 1753527141,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179257,
       "num": 179257,
       "word": "杨紫访谈完整版",
@@ -9881,6 +9913,14 @@
       "onboard_time": 1753349784,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175350,
+      "num": 175350,
+      "word": "樊振东vs严升",
+      "onboard_time": 1753529301,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 175324,
@@ -11523,6 +11563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156095,
+      "num": 156095,
+      "word": "十年前的娱乐圈好热闹",
+      "onboard_time": 1753528882,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155882,
       "num": 155882,
       "word": "被谢霆锋看上的女人不想反驳",
@@ -12115,6 +12163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149643,
+      "num": 149643,
+      "word": "斗破苍穹",
+      "onboard_time": 1753528401,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 149634,
       "num": 149634,
       "word": "EWC",
@@ -12521,14 +12577,6 @@
       "onboard_time": 1753455806,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145515,
-      "num": 145515,
-      "word": "艾滋病 隐私",
-      "onboard_time": 1753528282,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145473,
@@ -13161,6 +13209,14 @@
       "onboard_time": 1753340006,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139567,
+      "num": 139567,
+      "word": "同手同脚",
+      "onboard_time": 1753529782,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 139559,
@@ -15195,14 +15251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123934,
-      "num": 123934,
-      "word": "斗破苍穹",
-      "onboard_time": 1753528401,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 123917,
       "num": 123917,
       "word": "女子被打骨折涉事面试官被刑拘",
@@ -15489,6 +15537,14 @@
       "onboard_time": 1753452088,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121497,
+      "num": 121497,
+      "word": "刘耀文耳洞",
+      "onboard_time": 1753529842,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 121400,
@@ -16273,6 +16329,14 @@
       "onboard_time": 1753456945,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 116426,
+      "num": 116426,
+      "word": "罗小黑战记",
+      "onboard_time": 1753529724,
+      "rank": 42,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 116366,
@@ -17427,6 +17491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108558,
+      "num": 108558,
+      "word": "明日方舟直播",
+      "onboard_time": 1753529662,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108530,
       "num": 108530,
       "word": "大鹏说早年间跟白客是王不见王",
@@ -17891,14 +17963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105538,
-      "num": 105538,
-      "word": "十年前的娱乐圈好热闹",
-      "onboard_time": 1753528882,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105532,
       "num": 105532,
       "word": "迪丽热巴新疆名片",
@@ -18145,6 +18209,14 @@
       "onboard_time": 1752990502,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102959,
+      "num": 102959,
+      "word": "石凯演唱会",
+      "onboard_time": 1753529903,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 102897,
@@ -19563,6 +19635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86197,
+      "num": 328829,
+      "word": "14名大汉轮流用变声器假扮网恋女友",
+      "onboard_time": 1753528702,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 86171,
       "num": 344915,
       "word": "在逃人员看浙BA当场被抓",
@@ -19803,6 +19883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80416,
+      "num": 1031182,
+      "word": "每5只帝王蟹就有4只来自吉林",
+      "onboard_time": 1753520782,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 80237,
       "num": 285669,
       "word": "警方提醒陌生人共享屏幕是诈骗",
@@ -19913,14 +20001,6 @@
       "onboard_time": 1752939023,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77151,
-      "num": 923021,
-      "word": "每5只帝王蟹就有4只来自吉林",
-      "onboard_time": 1753520782,
-      "rank": 2,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 77078,
