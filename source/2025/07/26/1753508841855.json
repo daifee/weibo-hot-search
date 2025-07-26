@@ -1,0 +1,410 @@
+{
+  "runTime": 1753508841855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271205,
+        "num": 1271205,
+        "word": "731",
+        "onboard_time": 1753499541,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 807691,
+        "num": 807691,
+        "word": "皮蛋 不能生吃",
+        "onboard_time": 1753505302,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36225,
+        "num": 710906,
+        "word": "第五届中国新电商大会",
+        "onboard_time": 1753507403,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1149255,
+        "num": 709721,
+        "word": "张碧晨有三首歌都是汪苏泷作词作曲",
+        "onboard_time": 1753491201,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 692545,
+        "num": 692545,
+        "word": "美国在病毒爆发前研发出疫苗",
+        "onboard_time": 1753501883,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 556734,
+        "num": 556734,
+        "word": "长期不换各种社交头像",
+        "onboard_time": 1753505422,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428535,
+        "num": 428535,
+        "word": "淘宝闪购",
+        "onboard_time": 1753501822,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428000,
+        "num": 428000,
+        "word": "米蛆",
+        "onboard_time": 1753504224,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 405655,
+        "num": 405655,
+        "word": "减肥太猛断崖式变老了",
+        "onboard_time": 1753503802,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49811,
+        "num": 394594,
+        "word": "台风范斯高已停止编号",
+        "onboard_time": 1753507762,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657788,
+        "num": 394185,
+        "word": "孔雪儿负债期间还捐款",
+        "onboard_time": 1753502903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458271,
+        "num": 393614,
+        "word": "抠抠搜搜花了两万块买破烂",
+        "onboard_time": 1753506803,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392481,
+        "num": 392481,
+        "word": "636分考生放弃985选民办大学",
+        "onboard_time": 1753500082,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354846,
+        "num": 354846,
+        "word": "汪苏泷方希望纷扰止于今夜",
+        "onboard_time": 1753489161,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315480,
+        "num": 315480,
+        "word": "博士学历爸爸无法接受抽动症儿子",
+        "onboard_time": 1753499302,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298010,
+        "num": 298010,
+        "word": "于正有种明天就不在娱乐圈干的疯感",
+        "onboard_time": 1753506323,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278236,
+        "num": 278236,
+        "word": "柬埔寨要求立即无条件停火",
+        "onboard_time": 1753503981,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220579,
+        "num": 220579,
+        "word": "谢娜一家反骨的爸操心的孩无奈的妈",
+        "onboard_time": 1753507642,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204166,
+        "num": 204166,
+        "word": "梁靖崑乒超因伤退赛",
+        "onboard_time": 1753503143,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192121,
+        "num": 192121,
+        "word": "蔡徐坤换iG头像",
+        "onboard_time": 1753507522,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600807,
+        "num": 188691,
+        "word": "张碧晨方称享有年轮永久演唱权利",
+        "onboard_time": 1753442423,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357883,
+        "num": 186329,
+        "word": "不穿内衣正在年轻女性中悄悄流行",
+        "onboard_time": 1753507103,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 244422,
+        "num": 184838,
+        "word": "沈梦辰原生肤色露馅了",
+        "onboard_time": 1753506982,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182851,
+        "num": 182851,
+        "word": "陈乔恩阮经天陈欣怡纪存希重遇",
+        "onboard_time": 1753508303,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181688,
+        "num": 181688,
+        "word": "于正你把白鹿当逗号用呢",
+        "onboard_time": 1753504884,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179886,
+        "num": 179886,
+        "word": "基孔肯雅热 后遗症",
+        "onboard_time": 1753508602,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162342,
+        "num": 162342,
+        "word": "瘦腿界的邪修",
+        "onboard_time": 1753503322,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157847,
+        "num": 161025,
+        "word": "孟子义九重紫后再演复仇女主",
+        "onboard_time": 1753501883,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160043,
+        "num": 160043,
+        "word": "这才是真正的有效标语",
+        "onboard_time": 1753507703,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132228,
+        "num": 148017,
+        "word": "30岁内娱演员赴韩参加选秀追梦",
+        "onboard_time": 1753508303,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146578,
+        "num": 146578,
+        "word": "重庆动物园",
+        "onboard_time": 1753503802,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144200,
+        "num": 144200,
+        "word": "张艺兴张鲁一偷吃动作好整齐",
+        "onboard_time": 1753507882,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142784,
+        "num": 142784,
+        "word": "张雪峰包场请全公司看长安的荔枝",
+        "onboard_time": 1753507582,
+        "rank": 32,
+        "category": "电影,教育"
+      },
+      {
+        "raw_hot": 141753,
+        "num": 141753,
+        "word": "易烊千玺宣传片导演朱云逸",
+        "onboard_time": 1753508243,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141314,
+        "num": 141314,
+        "word": "平台回应张馨予碰到聋哑人外卖员",
+        "onboard_time": 1753498822,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137197,
+        "num": 137197,
+        "word": "建议大家要舍得为自己花钱",
+        "onboard_time": 1753497080,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136602,
+        "num": 136602,
+        "word": "老没钱风",
+        "onboard_time": 1753507762,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134462,
+        "num": 134462,
+        "word": "25年前与普京合影的中国男孩找到了",
+        "onboard_time": 1753507582,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130877,
+        "num": 130877,
+        "word": "王琳圈内人缘",
+        "onboard_time": 1753505484,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124104,
+        "num": 124104,
+        "word": "每天1杯奶茶后3个月的外貌变化",
+        "onboard_time": 1753490722,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119990,
+        "num": 119990,
+        "word": "快递箱 甲醛",
+        "onboard_time": 1753501643,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119562,
+        "num": 119562,
+        "word": "台独才是台湾真正的杂质",
+        "onboard_time": 1753508421,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119260,
+        "num": 119260,
+        "word": "谁给檀健次孟子义递本子就当为了我",
+        "onboard_time": 1753504403,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119032,
+        "num": 119032,
+        "word": "TF四代见面会划区",
+        "onboard_time": 1753508602,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111748,
+        "num": 111748,
+        "word": "刘旸太子的身份藏不住了",
+        "onboard_time": 1753508722,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110651,
+        "num": 110651,
+        "word": "原来猫下手知道分轻重啊",
+        "onboard_time": 1753505783,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109762,
+        "num": 109762,
+        "word": "考古张予曦",
+        "onboard_time": 1753505962,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109568,
+        "num": 109568,
+        "word": "原来肖战也是王琳的儿子",
+        "onboard_time": 1753491681,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108498,
+        "num": 108498,
+        "word": "终于明白自己的消费观多么畸形",
+        "onboard_time": 1753506383,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108079,
+        "num": 108079,
+        "word": "心疼陈昊宇",
+        "onboard_time": 1753502242,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国对欧政策保持长期稳定#"
+    }
+  }
+}
