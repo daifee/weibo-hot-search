@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753651556540,
+  "endTime": 1753652457933,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -475,19 +475,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26136,
-      "num": 23600,
-      "word": "29岁视网膜脱落的真实经历",
-      "onboard_time": 1753648273,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25366,
-      "num": 25728,
+      "raw_hot": 27414,
+      "num": 27414,
       "word": "感染基孔肯雅热禁用阿司匹林",
       "onboard_time": 1753648873,
       "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26136,
+      "num": 24835,
+      "word": "29岁视网膜脱落的真实经历",
+      "onboard_time": 1753648273,
+      "rank": 44,
       "category": "健康医疗"
     },
     {
@@ -555,8 +555,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12278,
-      "num": 15817,
+      "raw_hot": 14186,
+      "num": 18130,
       "word": "她一会儿不会咬我吧",
       "onboard_time": 1753651274,
       "rank": 48,
