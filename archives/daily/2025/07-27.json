@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753592515226,
+  "endTime": 1753594352988,
   "band_list": [
     {
       "raw_hot": 2110545,
@@ -49,6 +49,14 @@
       "onboard_time": 1753538486,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 856462,
+      "num": 856462,
+      "word": "谢娜赶不上张杰演唱会大哭",
+      "onboard_time": 1753592544,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 850651,
@@ -115,12 +123,20 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 554548,
-      "num": 554548,
+      "raw_hot": 624036,
+      "num": 624036,
       "word": "蜜雪冰城冰淇淋 化得快",
       "onboard_time": 1753587681,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 586843,
+      "num": 325481,
+      "word": "未录取通知书",
+      "onboard_time": 1753590020,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 553280,
@@ -179,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 425355,
+      "num": 255053,
+      "word": "1岁男童把眼镜蛇当玩具撕咬致昏迷",
+      "onboard_time": 1753591042,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422466,
       "num": 368885,
       "word": "少林寺",
@@ -209,6 +233,14 @@
       "onboard_time": 1753533503,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404580,
+      "num": 319796,
+      "word": "制污穴 催月经",
+      "onboard_time": 1753593202,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 403852,
@@ -267,20 +299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344020,
+      "num": 344020,
+      "word": "李小龙死因或系癫痫",
+      "onboard_time": 1753591462,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326081,
       "num": 326081,
       "word": "樊振东说现阶段无法承受各方面压力",
       "onboard_time": 1753572738,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325481,
-      "num": 325481,
-      "word": "未录取通知书",
-      "onboard_time": 1753590020,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 308671,
@@ -297,6 +329,14 @@
       "onboard_time": 1753544485,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 280899,
+      "num": 257166,
+      "word": "章若楠完全是按照视觉爽点长的",
+      "onboard_time": 1753588522,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 277123,
@@ -331,22 +371,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 270524,
-      "num": 270524,
-      "word": "李小龙死因或系癫痫",
-      "onboard_time": 1753591462,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269272,
-      "num": 208670,
-      "word": "1岁男童把眼镜蛇当玩具撕咬致昏迷",
-      "onboard_time": 1753591042,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268289,
       "num": 268289,
       "word": "花千骨和三生三世十里桃花哪个更爆",
@@ -379,14 +403,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 235034,
-      "num": 235034,
-      "word": "章若楠完全是按照视觉爽点长的",
-      "onboard_time": 1753588522,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230482,
       "num": 230482,
       "word": "男空乘厕所偷拍未成年女孩判18年",
@@ -401,6 +417,14 @@
       "onboard_time": 1753532484,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226861,
+      "num": 226861,
+      "word": "于佩尔扶易烊千玺手上台",
+      "onboard_time": 1753591462,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 223660,
@@ -427,12 +451,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205020,
-      "num": 205020,
-      "word": "于佩尔扶易烊千玺手上台",
-      "onboard_time": 1753591462,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 212571,
+      "num": 212571,
+      "word": "杨洋演技",
+      "onboard_time": 1753593744,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208512,
+      "num": 208512,
+      "word": "Yamy说新说唱选手飘了",
+      "onboard_time": 1753592841,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 203261,
@@ -459,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199499,
+      "num": 199499,
+      "word": "杜华拜托那可是seventeen",
+      "onboard_time": 1753593381,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183857,
       "num": 183857,
       "word": "16人考上厦门大学马来分校决定复读",
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 181492,
-      "num": 130526,
+      "num": 147355,
       "word": "被爱会长出血肉 被溺爱会长出板油",
       "onboard_time": 1753591161,
       "rank": 30,
@@ -497,6 +537,14 @@
       "onboard_time": 1753578322,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174079,
+      "num": 174079,
+      "word": "刘耀文神图",
+      "onboard_time": 1753593323,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 173213,
@@ -547,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168946,
+      "num": 178018,
+      "word": "赵子豪3比2徐海东",
+      "onboard_time": 1753593381,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166146,
       "num": 166146,
       "word": "张靓颖有意见憋着吧",
@@ -584,6 +640,14 @@
       "word": "朝雪录预告",
       "onboard_time": 1753545927,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162155,
+      "num": 162155,
+      "word": "李兰迪敖瑞鹏朝雪录大婚",
+      "onboard_time": 1753593142,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -651,12 +715,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150026,
+      "num": 150026,
+      "word": "大学生要尽早学会打扮",
+      "onboard_time": 1753592662,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 149443,
       "num": 149443,
       "word": "刘昊然全程严肃的一场采访",
       "onboard_time": 1753586842,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148921,
+      "num": 148921,
+      "word": "奶奶我都说了我挺有出息的",
+      "onboard_time": 1753593863,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 148469,
@@ -729,6 +809,14 @@
       "onboard_time": 1753543165,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135030,
+      "num": 256989,
+      "word": "吴彤透露王牌9嘉宾",
+      "onboard_time": 1753593262,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 135004,
@@ -819,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123204,
+      "num": 123204,
+      "word": "锦月如歌开播",
+      "onboard_time": 1753594283,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122354,
       "num": 116326,
       "word": "房主任好牛",
@@ -883,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114746,
+      "num": 114746,
+      "word": "沈腾平等殴打每位沈精兵",
+      "onboard_time": 1753593262,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114684,
       "num": 114684,
       "word": "女子到派出所蹭空调后买40杯奶茶致谢",
@@ -899,12 +1003,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113358,
+      "num": 123212,
+      "word": "金在中晒了一对wakuku",
+      "onboard_time": 1753593924,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113077,
       "num": 113077,
       "word": "张真源回应饭撒叫姐姐",
       "onboard_time": 1753545025,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112887,
+      "num": 112887,
+      "word": "杨迪王牌9首录背着痛包跳上了",
+      "onboard_time": 1753593023,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 112879,
@@ -920,6 +1040,14 @@
       "word": "杜华说香奈儿能成为巨星",
       "onboard_time": 1753542148,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112389,
+      "num": 112389,
+      "word": "音综史上学费最贵的两分钟",
+      "onboard_time": 1753594102,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1163,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88124,
+      "num": 96904,
+      "word": "坚持练肩3个月后的变化",
+      "onboard_time": 1753594283,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 88024,
       "num": 103173,
       "word": "雅江集团董事长总经理亮相",
@@ -1401,6 +1537,14 @@
       "onboard_time": 1753549761,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52015,
+      "num": 123220,
+      "word": "妈妈将3岁女儿送人求活路",
+      "onboard_time": 1753594102,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51362,

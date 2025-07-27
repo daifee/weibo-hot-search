@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/27 13:01:55
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/27 13:32:32
 </p>
 </blockquote>
 <p>
@@ -4149,6 +4149,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%B5%B6%E4%B8%8D%E4%B8%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%93%AD%23" target="weibo">
+谢娜赶不上张杰演唱会大哭（热度：856462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 国乒无缘包揽五冠（热度：855599）
 </a>
@@ -6005,12 +6011,6 @@ Oakley 王楚钦（热度：694014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%9C%A8%E6%96%B0%E7%96%86%E5%8F%AB%E9%A6%95%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%8F%AB%E8%B4%9D%E6%9E%9C%23" target="weibo">
 卫生巾在新疆叫馕在上海叫贝果（热度：679197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B6%E5%BC%80%E5%8F%91%E5%BB%BA%E8%AE%BE41%E4%B8%AA%E5%A4%A7%E5%9E%8B%E8%B5%8C%E8%AF%88%E5%9B%AD%E5%8C%BA%23" target="weibo">
-缅北白家开发建设41个大型赌诈园区（热度：678784）
 </a>
 </li>
 

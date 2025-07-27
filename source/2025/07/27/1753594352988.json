@@ -1,0 +1,410 @@
+{
+  "runTime": 1753594352988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1043162,
+        "num": 1166905,
+        "word": "警方辟谣释永信携带34人潜逃",
+        "onboard_time": 1753588522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 856462,
+        "num": 856462,
+        "word": "谢娜赶不上张杰演唱会大哭",
+        "onboard_time": 1753592544,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35255,
+        "num": 812784,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 802123,
+        "num": 802123,
+        "word": "鼠尿病",
+        "onboard_time": 1753583902,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 624036,
+        "num": 624036,
+        "word": "蜜雪冰城冰淇淋 化得快",
+        "onboard_time": 1753587681,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 598960,
+        "num": 598960,
+        "word": "王牌对王牌直播",
+        "onboard_time": 1753585762,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598524,
+        "num": 598524,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1753577781,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 456958,
+        "num": 456958,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344020,
+        "num": 344020,
+        "word": "李小龙死因或系癫痫",
+        "onboard_time": 1753591462,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320793,
+        "num": 320793,
+        "word": "凡人修仙传26广开播",
+        "onboard_time": 1753590143,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586843,
+        "num": 320485,
+        "word": "未录取通知书",
+        "onboard_time": 1753590020,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478240,
+        "num": 320481,
+        "word": "印度1岁男童徒手将眼镜蛇撕成两半",
+        "onboard_time": 1753590020,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 411847,
+        "num": 320388,
+        "word": "不体面却高薪的工作",
+        "onboard_time": 1753584560,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320072,
+        "num": 320072,
+        "word": "吉克隽逸隔空喊话汪苏泷",
+        "onboard_time": 1753589002,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 404580,
+        "num": 319796,
+        "word": "制污穴 催月经",
+        "onboard_time": 1753593202,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258383,
+        "num": 258383,
+        "word": "在深圳赶海捡到了波士顿大龙虾",
+        "onboard_time": 1753588342,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208446,
+        "num": 257430,
+        "word": "全球已近30万人感染基孔肯雅热",
+        "onboard_time": 1753582400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280899,
+        "num": 257166,
+        "word": "章若楠完全是按照视觉爽点长的",
+        "onboard_time": 1753588522,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135030,
+        "num": 256989,
+        "word": "吴彤透露王牌9嘉宾",
+        "onboard_time": 1753593262,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256873,
+        "num": 256873,
+        "word": "董璇张维伊 黄牛变爱人",
+        "onboard_time": 1753588641,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425355,
+        "num": 255053,
+        "word": "1岁男童把眼镜蛇当玩具撕咬致昏迷",
+        "onboard_time": 1753591042,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239913,
+        "num": 239913,
+        "word": "突然意识到1万块这么有质感",
+        "onboard_time": 1753575020,
+        "rank": 21,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 226861,
+        "num": 226861,
+        "word": "于佩尔扶易烊千玺手上台",
+        "onboard_time": 1753591462,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212571,
+        "num": 212571,
+        "word": "杨洋演技",
+        "onboard_time": 1753593744,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208512,
+        "num": 208512,
+        "word": "Yamy说新说唱选手飘了",
+        "onboard_time": 1753592841,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207925,
+        "num": 207925,
+        "word": "时代少年团上海",
+        "onboard_time": 1753591702,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199499,
+        "num": 199499,
+        "word": "杜华拜托那可是seventeen",
+        "onboard_time": 1753593381,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168946,
+        "num": 178018,
+        "word": "赵子豪3比2徐海东",
+        "onboard_time": 1753593381,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145520,
+        "num": 174831,
+        "word": "一家六口空调房内煲糖水4人中毒",
+        "onboard_time": 1753581261,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92409,
+        "num": 174152,
+        "word": "印度一800年历史神庙曝出惊天大案",
+        "onboard_time": 1753577901,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174079,
+        "num": 174079,
+        "word": "刘耀文神图",
+        "onboard_time": 1753593323,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169232,
+        "num": 169232,
+        "word": "白鹿为赵晴新剧做宣传",
+        "onboard_time": 1753589242,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162155,
+        "num": 162155,
+        "word": "李兰迪敖瑞鹏朝雪录大婚",
+        "onboard_time": 1753593142,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150026,
+        "num": 150026,
+        "word": "大学生要尽早学会打扮",
+        "onboard_time": 1753592662,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 148921,
+        "num": 148921,
+        "word": "奶奶我都说了我挺有出息的",
+        "onboard_time": 1753593863,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147355,
+        "num": 147355,
+        "word": "被爱会长出血肉 被溺爱会长出板油",
+        "onboard_time": 1753591161,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131567,
+        "num": 131567,
+        "word": "凡人修仙传",
+        "onboard_time": 1753574060,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52015,
+        "num": 123220,
+        "word": "妈妈将3岁女儿送人求活路",
+        "onboard_time": 1753594102,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113358,
+        "num": 123212,
+        "word": "金在中晒了一对wakuku",
+        "onboard_time": 1753593924,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123204,
+        "num": 123204,
+        "word": "锦月如歌开播",
+        "onboard_time": 1753594283,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120661,
+        "num": 120661,
+        "word": "王牌对王牌",
+        "onboard_time": 1753573579,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114746,
+        "num": 114746,
+        "word": "沈腾平等殴打每位沈精兵",
+        "onboard_time": 1753593262,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114551,
+        "num": 114551,
+        "word": "孟子义这段看一遍得笑十遍",
+        "onboard_time": 1753590381,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112887,
+        "num": 112887,
+        "word": "杨迪王牌9首录背着痛包跳上了",
+        "onboard_time": 1753593023,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112389,
+        "num": 112389,
+        "word": "音综史上学费最贵的两分钟",
+        "onboard_time": 1753594102,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108728,
+        "num": 108728,
+        "word": "现在的女装是不是对宽松有什么误解",
+        "onboard_time": 1753587561,
+        "rank": 45,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 112005,
+        "num": 108658,
+        "word": "地球超新鲜",
+        "onboard_time": 1753589601,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97944,
+        "num": 97944,
+        "word": "以后见了戴眼镜的人要低调点",
+        "onboard_time": 1753591042,
+        "rank": 47,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 96917,
+        "num": 96917,
+        "word": "高钾晚餐能让人睡得更香",
+        "onboard_time": 1753579942,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88124,
+        "num": 96904,
+        "word": "坚持练肩3个月后的变化",
+        "onboard_time": 1753594283,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
