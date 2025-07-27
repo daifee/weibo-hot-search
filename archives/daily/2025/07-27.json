@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753602040254,
+  "endTime": 1753605202728,
   "band_list": [
     {
       "raw_hot": 2420501,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1264272,
+      "num": 796339,
+      "word": "杨洋不油了",
+      "onboard_time": 1753602623,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 960053,
       "num": 582397,
       "word": "少林寺回应网传释永信方丈被带走",
@@ -83,6 +91,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 860486,
+      "num": 1137677,
+      "word": "女子要取走390万现金柜员报警",
+      "onboard_time": 1753600524,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 850651,
       "num": 850651,
       "word": "TTG对战AG",
@@ -97,6 +113,14 @@
       "onboard_time": 1753577481,
       "rank": 1,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 793343,
+      "num": 793343,
+      "word": "张碧晨年轮海外版权受限",
+      "onboard_time": 1753604002,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 791406,
@@ -187,6 +211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 568543,
+      "num": 568543,
+      "word": "杨某人 怪我了",
+      "onboard_time": 1753604421,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 553280,
       "num": 553280,
       "word": "全球已近30万人感染基孔肯雅热",
@@ -211,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 504644,
+      "num": 504644,
+      "word": "26岁女干部当选全国重点镇副镇长",
+      "onboard_time": 1753602562,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 503271,
       "num": 433824,
       "word": "印度1岁男童徒手将眼镜蛇撕成两半",
@@ -233,6 +273,14 @@
       "onboard_time": 1753593202,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 446485,
+      "num": 446485,
+      "word": "王晓晨维护俞灏明",
+      "onboard_time": 1753600524,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 438017,
@@ -315,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 392667,
+      "num": 392667,
+      "word": "三宝说孙俪不是一个好演员",
+      "onboard_time": 1753604603,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388414,
       "num": 388414,
       "word": "吉克隽逸隔空喊话汪苏泷",
@@ -356,7 +412,7 @@
     },
     {
       "raw_hot": 374661,
-      "num": 374661,
+      "num": 467179,
       "word": "山西一辆载12人的中巴车因强降雨失联",
       "onboard_time": 1753599502,
       "rank": 8,
@@ -387,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348096,
-      "num": 348096,
-      "word": "女子要取走390万现金柜员报警",
-      "onboard_time": 1753600524,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 334684,
       "num": 334684,
       "word": "锦月如歌开播",
@@ -419,12 +467,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305839,
+      "num": 305839,
+      "word": "金靖直观的瘦",
+      "onboard_time": 1753603882,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302607,
+      "num": 302607,
+      "word": "最怕就是工作人员比艺人还大咖",
+      "onboard_time": 1753603583,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299906,
       "num": 299906,
       "word": "章若楠完全是按照视觉爽点长的",
       "onboard_time": 1753588522,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288878,
+      "num": 288878,
+      "word": "WBG战胜Gr",
+      "onboard_time": 1753603823,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 284934,
@@ -523,14 +595,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 238415,
-      "num": 238415,
-      "word": "王晓晨维护俞灏明",
-      "onboard_time": 1753600524,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237238,
       "num": 237238,
       "word": "锦月如歌",
@@ -579,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 219876,
+      "num": 219876,
+      "word": "因强降雨失联载12人中巴车仍未找到",
+      "onboard_time": 1753603043,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 212906,
       "num": 212906,
       "word": "时代少年团上海",
@@ -611,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202943,
+      "num": 202943,
+      "word": "奚梦瑶牵小金土豆逛街",
+      "onboard_time": 1753604483,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201495,
       "num": 201495,
       "word": "张靓颖穿了一身蝴蝶在身上",
@@ -625,6 +705,14 @@
       "onboard_time": 1753541247,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200359,
+      "num": 200359,
+      "word": "SBS",
+      "onboard_time": 1753604183,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 199499,
@@ -651,11 +739,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191337,
+      "num": 191337,
+      "word": "陈梦否认已结婚领证",
+      "onboard_time": 1753604842,
+      "rank": 31,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 186069,
       "num": 186069,
       "word": "Gr对战北京WBG",
       "onboard_time": 1753600822,
       "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 184502,
+      "num": 184502,
+      "word": "一诺登顶世一射",
+      "onboard_time": 1753604063,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -689,6 +793,14 @@
       "onboard_time": 1753596922,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177291,
+      "num": 199479,
+      "word": "孙千彭冠英 早春晴朗",
+      "onboard_time": 1753603043,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 176667,
@@ -771,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170720,
+      "num": 198319,
+      "word": "谢娜让李小冉保重她却越来越瘦",
+      "onboard_time": 1753602682,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169373,
       "num": 169373,
       "word": "樱木花道",
@@ -809,6 +929,14 @@
       "onboard_time": 1753584622,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165423,
+      "num": 197408,
+      "word": "周深最对不起的人是小张",
+      "onboard_time": 1753601842,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 165228,
@@ -907,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157366,
+      "num": 157366,
+      "word": "噩梦四抓",
+      "onboard_time": 1753605083,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156641,
       "num": 156641,
       "word": "硅胶鲨鱼夹",
@@ -985,6 +1121,14 @@
       "onboard_time": 1753598303,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150098,
+      "num": 150098,
+      "word": "对敖瑞鹏腿长有了实感",
+      "onboard_time": 1753604903,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 150026,
@@ -1123,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137383,
+      "num": 137383,
+      "word": "不停运动三个月瘦了35斤",
+      "onboard_time": 1753602382,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 136238,
       "num": 136238,
       "word": "生吃蔬菜 寄生虫",
@@ -1251,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129138,
+      "num": 129138,
+      "word": "第五人格赛事",
+      "onboard_time": 1753604963,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "你好星期六",
@@ -1371,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120693,
+      "num": 120693,
+      "word": "普通家庭结一次婚要花多少钱",
+      "onboard_time": 1753602261,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120643,
       "num": 120643,
       "word": "何浩楠完蛋了天塌了",
@@ -1387,12 +1555,20 @@
       "category": "运动健身,休闲"
     },
     {
-      "raw_hot": 117535,
-      "num": 117535,
-      "word": "周深最对不起的人是小张",
-      "onboard_time": 1753601842,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 120381,
+      "num": 120381,
+      "word": "谁懂李兰迪这个挑衅的表情",
+      "onboard_time": 1753602562,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118342,
+      "num": 118342,
+      "word": "女性安全约会APP",
+      "onboard_time": 1753602562,
+      "rank": 49,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 117395,
@@ -1955,6 +2131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66712,
+      "num": 157532,
+      "word": "直击密云水库泄流现场",
+      "onboard_time": 1753603823,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 65512,
       "num": 65512,
       "word": "在美国生意好的中餐馆后厨现状",
@@ -1969,6 +2153,14 @@
       "onboard_time": 1753566976,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 63235,
+      "num": 155899,
+      "word": "一家四口人一年内接连确诊癌症",
+      "onboard_time": 1753604722,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 62925,
@@ -2107,6 +2299,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34881,
+      "num": 192715,
+      "word": "北京暴雨村民独守危险路段一整夜",
+      "onboard_time": 1753604002,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 33948,
+      "num": 155472,
+      "word": "北京密云共转移3270人暂无伤亡",
+      "onboard_time": 1753605144,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 33160,
       "num": 130635,
       "word": "陈奕迅庆生全家福",
@@ -2196,7 +2404,7 @@
     },
     {
       "raw_hot": 4199,
-      "num": 777990,
+      "num": 798284,
       "word": "第五届中国新电商大会",
       "onboard_time": 1753507403,
       "rank": 2,
