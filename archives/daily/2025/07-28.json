@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753637111245,
+  "endTime": 1753638254855,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -131,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251404,
+      "num": 251404,
+      "word": "南京大屠杀幸存者后人在日本发声",
+      "onboard_time": 1753633401,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249617,
       "num": 236732,
       "word": "居然之家",
@@ -233,14 +241,6 @@
       "onboard_time": 1753613061,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147398,
-      "num": 147398,
-      "word": "南京大屠杀幸存者后人在日本发声",
-      "onboard_time": 1753633401,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146114,
@@ -371,20 +371,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85274,
+      "num": 184080,
+      "word": "沉海500年的文物出水惊艳了",
+      "onboard_time": 1753634839,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83234,
       "num": 83234,
       "word": "Faker与T1续约四年",
       "onboard_time": 1753622966,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77936,
-      "num": 105339,
-      "word": "沉海500年的文物出水惊艳了",
-      "onboard_time": 1753634839,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77912,
@@ -425,6 +425,14 @@
       "onboard_time": 1753636998,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 37937,
+      "num": 46146,
+      "word": "张极射箭",
+      "onboard_time": 1753637237,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 2158,
