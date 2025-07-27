@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753658874436,
+  "endTime": 1753659764760,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1541452,
+      "raw_hot": 1942099,
       "num": 299762,
       "word": "释永信老婆",
       "onboard_time": 1753628784,
@@ -27,7 +27,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 841569,
+      "raw_hot": 940972,
       "num": 288867,
       "word": "释延鲁",
       "onboard_time": 1753628784,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 715428,
-      "num": 715428,
+      "raw_hot": 809740,
+      "num": 809740,
       "word": "释永信与多名女性保持不正当关系",
       "onboard_time": 1753618822,
       "rank": 1,
@@ -65,6 +65,14 @@
       "onboard_time": 1753626686,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 422765,
+      "num": 422765,
+      "word": "汪苏泷这一跪又有多少人沦陷了",
+      "onboard_time": 1753658118,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 363762,
@@ -131,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252770,
+      "num": 252770,
+      "word": "寺内外一切合作都由释永信拍板",
+      "onboard_time": 1753629145,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251404,
       "num": 251404,
       "word": "南京大屠杀幸存者后人在日本发声",
@@ -147,19 +163,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247889,
+      "num": 247889,
+      "word": "男子约见台球助教收到5000元清单",
+      "onboard_time": 1753657399,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246596,
       "num": 279101,
       "word": "释永信涉嫌刑事犯罪",
       "onboard_time": 1753618882,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220362,
-      "num": 220362,
-      "word": "寺内外一切合作都由释永信拍板",
-      "onboard_time": 1753629145,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202353,
+      "num": 202353,
+      "word": "美国与欧盟达成贸易协议",
+      "onboard_time": 1753658599,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191915,
       "num": 191915,
       "word": "柳智敏上海",
@@ -203,20 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185528,
-      "num": 157236,
-      "word": "汪苏泷这一跪又有多少人沦陷了",
-      "onboard_time": 1753658118,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 169546,
-      "num": 157044,
+      "raw_hot": 182960,
+      "num": 182960,
       "word": "鸠摩智",
       "onboard_time": 1753631064,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166058,
+      "num": 166058,
+      "word": "央视曝光私域直播坑老骗局",
+      "onboard_time": 1753629446,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 164592,
@@ -225,14 +249,6 @@
       "onboard_time": 1753620205,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 164058,
-      "num": 164058,
-      "word": "央视曝光私域直播坑老骗局",
-      "onboard_time": 1753629446,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 157838,
@@ -259,20 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150771,
-      "num": 150771,
-      "word": "男子约见台球助教收到5000元清单",
-      "onboard_time": 1753657399,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150761,
       "num": 150761,
       "word": "张碧晨年轮海外版权受限",
       "onboard_time": 1753604002,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147697,
+      "num": 147697,
+      "word": "带着轻微饥饿感入睡能瘦吗",
+      "onboard_time": 1753642875,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147415,
@@ -307,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125032,
+      "num": 164963,
+      "word": "李兰迪扫腿舞地是干净了",
+      "onboard_time": 1753658059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122384,
       "num": 122384,
       "word": "赵今麦健身",
       "onboard_time": 1753620326,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118409,
+      "num": 105683,
+      "word": "释永信已全面主持少林寺38年",
+      "onboard_time": 1753659200,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116860,
@@ -363,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109596,
-      "num": 109596,
-      "word": "带着轻微饥饿感入睡能瘦吗",
-      "onboard_time": 1753642875,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 107342,
       "num": 107342,
       "word": "韩国热到冰美式都不冰了",
@@ -403,6 +427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 86796,
+      "num": 244891,
+      "word": "多支增援力量已抵达北京受灾一线",
+      "onboard_time": 1753658659,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85782,
       "num": 85782,
       "word": "杨洋不油了",
@@ -419,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81069,
+      "num": 81069,
+      "word": "井柏然刘雯两眼一睁就是被偶遇",
+      "onboard_time": 1753618102,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77912,
       "num": 77912,
       "word": "他的课上只有好很好特好非常好",
@@ -427,36 +467,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70200,
-      "num": 70200,
-      "word": "美国与欧盟达成贸易协议",
-      "onboard_time": 1753658599,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 68048,
-      "num": 94987,
-      "word": "李兰迪扫腿舞地是干净了",
-      "onboard_time": 1753658059,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 63938,
-      "num": 63938,
+      "raw_hot": 77396,
+      "num": 77396,
       "word": "29岁视网膜脱落的真实经历",
       "onboard_time": 1753648273,
       "rank": 44,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 60883,
-      "num": 60883,
-      "word": "井柏然刘雯两眼一睁就是被偶遇",
-      "onboard_time": 1753618102,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 72039,
+      "num": 72039,
+      "word": "被喜欢的东西叫醒是不会有起床气的",
+      "onboard_time": 1753657939,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70432,
+      "num": 70432,
+      "word": "释永信最后一次公开露面",
+      "onboard_time": 1753608322,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67350,
+      "num": 106682,
+      "word": "欧盟将对美增加6000亿美元投资",
+      "onboard_time": 1753659260,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54493,
@@ -475,12 +515,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 45428,
-      "num": 54487,
-      "word": "释永信最后一次公开露面",
-      "onboard_time": 1753608322,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 52282,
+      "num": 241524,
+      "word": "美对欧盟征收15%关税",
+      "onboard_time": 1753659260,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48251,
+      "num": 51738,
+      "word": "中国男篮下起三分雨",
+      "onboard_time": 1753659140,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 42691,
@@ -515,14 +563,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 39138,
-      "num": 44342,
-      "word": "被喜欢的东西叫醒是不会有起床气的",
-      "onboard_time": 1753657939,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 37937,
       "num": 46146,
       "word": "张极射箭",
@@ -553,14 +593,6 @@
       "onboard_time": 1753641376,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27032,
-      "num": 102266,
-      "word": "多支增援力量已抵达北京受灾一线",
-      "onboard_time": 1753658659,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24794,
@@ -609,6 +641,14 @@
       "onboard_time": 1753648934,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15439,
+      "num": 162557,
+      "word": "德国一列火车脱轨已致3人死亡",
+      "onboard_time": 1753659260,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14796,
