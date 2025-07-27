@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753627432261,
+  "endTime": 1753630048681,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -59,6 +59,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 1786088,
+      "num": 474210,
+      "word": "释永信老婆",
+      "onboard_time": 1753628784,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1626875,
       "num": 1626875,
       "word": "布洛芬率先发现了甲沟炎",
@@ -99,6 +107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1218063,
+      "num": 1218063,
+      "word": "鸠摩智扮演者回应",
+      "onboard_time": 1753627826,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1189886,
       "num": 1189886,
       "word": "沈佳润写了美美桑内中文版歌词",
@@ -137,6 +153,14 @@
       "onboard_time": 1753600524,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 927426,
+      "num": 467862,
+      "word": "生理期真正不能做的10件事",
+      "onboard_time": 1753626686,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 924876,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 780012,
+      "num": 322129,
+      "word": "宁宁",
+      "onboard_time": 1753628304,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 742121,
       "num": 1118739,
       "word": "东营震感",
@@ -265,6 +297,14 @@
       "onboard_time": 1753584560,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 711062,
+      "num": 461993,
+      "word": "释延鲁",
+      "onboard_time": 1753628784,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 704108,
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 616337,
-      "num": 369131,
+      "num": 432608,
       "word": "金泫雅更新ins",
       "onboard_time": 1753622845,
       "rank": 38,
@@ -393,6 +433,14 @@
       "onboard_time": 1753605383,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 582671,
+      "num": 582671,
+      "word": "鹿晗金宣虎笑",
+      "onboard_time": 1753628784,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 567184,
@@ -611,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413260,
-      "num": 311848,
-      "word": "生理期真正不能做的10件事",
-      "onboard_time": 1753626686,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 410502,
       "num": 462419,
       "word": "李小龙死因或系癫痫",
@@ -649,6 +689,14 @@
       "onboard_time": 1753579942,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 402503,
+      "num": 402503,
+      "word": "柳智敏上海",
+      "onboard_time": 1753627045,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 388414,
@@ -724,7 +772,7 @@
     },
     {
       "raw_hot": 353107,
-      "num": 379539,
+      "num": 480522,
       "word": "加沙5个月婴儿死亡时比出生时还轻",
       "onboard_time": 1753620205,
       "rank": 37,
@@ -963,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257622,
+      "num": 257622,
+      "word": "鹿晗唱了第一首会的韩语歌",
+      "onboard_time": 1753627705,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255639,
       "num": 255639,
       "word": "谢娜白得发光的闺蜜李小冉",
@@ -987,12 +1043,28 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 239664,
+      "num": 248535,
+      "word": "许嵩哭了",
+      "onboard_time": 1753629026,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237238,
       "num": 237238,
       "word": "锦月如歌",
       "onboard_time": 1753594283,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234433,
+      "num": 234433,
+      "word": "偶遇李冰冰管乐手挽手看舞剧",
+      "onboard_time": 1753627885,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 230482,
@@ -1235,11 +1307,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 196899,
-      "num": 196899,
-      "word": "柳智敏上海",
-      "onboard_time": 1753627045,
-      "rank": 35,
+      "raw_hot": 196504,
+      "num": 196504,
+      "word": "TF家族空降",
+      "onboard_time": 1753629266,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1329,6 +1401,14 @@
       "onboard_time": 1753608502,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188262,
+      "num": 188262,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1753629624,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 186205,
@@ -1753,6 +1833,14 @@
       "onboard_time": 1753589601,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160192,
+      "num": 160192,
+      "word": "周深这次轮到西安社死了",
+      "onboard_time": 1753629446,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 159876,
@@ -2219,6 +2307,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 139091,
+      "num": 139091,
+      "word": "曾舜晞你在狗塑什么",
+      "onboard_time": 1753629624,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138552,
       "num": 138552,
       "word": "刘宇宁承包了主题曲的半壁江山",
@@ -2345,6 +2441,14 @@
       "onboard_time": 1753605862,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133170,
+      "num": 246085,
+      "word": "他的课上只有好很好特好非常好",
+      "onboard_time": 1753629565,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133155,
@@ -2611,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122509,
+      "num": 122509,
+      "word": "巧克力巨头集体宣布涨价",
+      "onboard_time": 1753628484,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122354,
       "num": 116326,
       "word": "房主任好牛",
@@ -2691,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119735,
+      "num": 119735,
+      "word": "汪苏泷无袖背心热舞",
+      "onboard_time": 1753628604,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118520,
       "num": 118520,
       "word": "陈梦说找到合适的人会官宣",
@@ -2705,6 +2825,14 @@
       "onboard_time": 1753602562,
       "rank": 49,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 117599,
+      "num": 117599,
+      "word": "朝雪录云合占比破30%",
+      "onboard_time": 1753629985,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 117395,
@@ -3515,6 +3643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52248,
+      "num": 243921,
+      "word": "韩国热到冰美式都不冰了",
+      "onboard_time": 1753629206,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51362,
       "num": 51362,
       "word": "团播",
@@ -3561,6 +3697,22 @@
       "onboard_time": 1753623206,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 42964,
+      "num": 342849,
+      "word": "寺内外一切合作都由释永信拍板",
+      "onboard_time": 1753629145,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40582,
+      "num": 475492,
+      "word": "央视曝光私域直播坑老骗局",
+      "onboard_time": 1753629446,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38233,
