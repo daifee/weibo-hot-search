@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753644216343,
+  "endTime": 1753645090834,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -3787,6 +3787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 50719,
+      "num": 50719,
+      "word": "拧瓶盖 诈骗",
+      "onboard_time": 1753642335,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50634,
       "num": 364251,
       "word": "夸克AI眼镜",
@@ -3859,20 +3867,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37438,
-      "num": 37438,
-      "word": "拧瓶盖 诈骗",
-      "onboard_time": 1753642335,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37146,
       "num": 147263,
       "word": "年内已有三个家居企业创始人被留置",
       "onboard_time": 1753609162,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36562,
+      "num": 36562,
+      "word": "带着轻微饥饿感入睡能瘦吗",
+      "onboard_time": 1753642875,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36319,
@@ -3940,7 +3948,7 @@
     },
     {
       "raw_hot": 31554,
-      "num": 32615,
+      "num": 38549,
       "word": "汪苏泷你得香成啥样了",
       "onboard_time": 1753642994,
       "rank": 23,
@@ -4003,14 +4011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26150,
-      "num": 26150,
-      "word": "带着轻微饥饿感入睡能瘦吗",
-      "onboard_time": 1753642875,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 25455,
       "num": 174590,
       "word": "顺德16家定点医院收治基孔肯雅热",
@@ -4024,6 +4024,14 @@
       "word": "汪苏泷说BB喔猴挂剧雷",
       "onboard_time": 1753559414,
       "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24794,
+      "num": 25117,
+      "word": "汪苏泷帅气多金的贵公子",
+      "onboard_time": 1753644434,
+      "rank": 35,
       "category": "演出"
     },
     {
@@ -4089,6 +4097,14 @@
       "onboard_time": 1753559655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11109,
+      "num": 28224,
+      "word": "95后姑娘为大爷大妈做美甲",
+      "onboard_time": 1753644974,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4536,
