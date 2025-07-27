@@ -1,0 +1,410 @@
+{
+  "runTime": 1753609374421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1059804,
+        "num": 1169568,
+        "word": "张碧晨年轮海外版权受限",
+        "onboard_time": 1753604002,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 739636,
+        "num": 739636,
+        "word": "陈梦否认已结婚领证",
+        "onboard_time": 1753604842,
+        "rank": 1,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 2618,
+        "num": 489315,
+        "word": "数智新时代电商新价值",
+        "onboard_time": 1753506922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 982300,
+        "num": 482911,
+        "word": "冰饮料 猝死",
+        "onboard_time": 1753596623,
+        "rank": 3,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 795599,
+        "num": 480817,
+        "word": "杨洋不油了",
+        "onboard_time": 1753602623,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471728,
+        "num": 471728,
+        "word": "蜜雪冰城客服回应冰淇淋融化快",
+        "onboard_time": 1753605383,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 757886,
+        "num": 464787,
+        "word": "三宝说孙俪不是一个好演员",
+        "onboard_time": 1753604603,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142100,
+        "num": 450290,
+        "word": "特朗普又发奥巴马恶搞图",
+        "onboard_time": 1753607002,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 396287,
+        "num": 439903,
+        "word": "26岁女干部当选全国重点镇副镇长",
+        "onboard_time": 1753602562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679538,
+        "num": 421888,
+        "word": "SBS",
+        "onboard_time": 1753604183,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 419500,
+        "num": 419500,
+        "word": "洪水冲走千万金饰目前只找回1公斤",
+        "onboard_time": 1753607002,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414648,
+        "num": 414648,
+        "word": "孙千彭冠英 早春晴朗",
+        "onboard_time": 1753603043,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371464,
+        "num": 371464,
+        "word": "奚梦瑶牵小金土豆逛街",
+        "onboard_time": 1753604483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346916,
+        "num": 346916,
+        "word": "女子要取走390万现金柜员报警",
+        "onboard_time": 1753600524,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44302,
+        "num": 338774,
+        "word": "夸克AI眼镜",
+        "onboard_time": 1753606883,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 338315,
+        "num": 338315,
+        "word": "金靖直观的瘦",
+        "onboard_time": 1753603882,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309157,
+        "num": 309157,
+        "word": "山西车祸6死8伤",
+        "onboard_time": 1753595243,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 272154,
+        "num": 272154,
+        "word": "从128斤瘦到94斤的邪修减肥",
+        "onboard_time": 1753607603,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 236674,
+        "num": 236674,
+        "word": "女子跟风生吃彩椒碗感染钩虫",
+        "onboard_time": 1753598601,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33043,
+        "num": 235796,
+        "word": "医学生机舱救人被网友质疑风险极高",
+        "onboard_time": 1753608862,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1228027,
+        "num": 235706,
+        "word": "李小冉把何炅微信删了",
+        "onboard_time": 1753596023,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235551,
+        "num": 235551,
+        "word": "一环卫阿姨喝完爱心饮料还顺走鸭货",
+        "onboard_time": 1753606282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190214,
+        "num": 190214,
+        "word": "韩国博主男扮女装印度旅行",
+        "onboard_time": 1753607902,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188692,
+        "num": 188692,
+        "word": "5岁的我在玩泥巴5岁的她准备出道了",
+        "onboard_time": 1753608502,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169592,
+        "num": 169592,
+        "word": "宋亚轩金靖颠公颠婆同框",
+        "onboard_time": 1753608202,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161523,
+        "num": 161523,
+        "word": "杨某人 怪我了",
+        "onboard_time": 1753604421,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156750,
+        "num": 156750,
+        "word": "张艺兴说缺氧缺觉缺第一次",
+        "onboard_time": 1753606702,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153978,
+        "num": 153978,
+        "word": "徐明浩王牌9上班",
+        "onboard_time": 1753608561,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151735,
+        "num": 151735,
+        "word": "谢娜赶不上张杰演唱会大哭",
+        "onboard_time": 1753592544,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147471,
+        "num": 147471,
+        "word": "警方通报1名未成年人被6人殴打",
+        "onboard_time": 1753604303,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37146,
+        "num": 147263,
+        "word": "年内已有三个家居企业创始人被留置",
+        "onboard_time": 1753609162,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183830,
+        "num": 147223,
+        "word": "王者荣耀直播预告",
+        "onboard_time": 1753608982,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147149,
+        "num": 147149,
+        "word": "中国队0.06分险胜朝鲜队",
+        "onboard_time": 1753608442,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144701,
+        "num": 145578,
+        "word": "最怕就是工作人员比艺人还大咖",
+        "onboard_time": 1753603583,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145255,
+        "num": 145255,
+        "word": "多名女性称曾遭同一面试官施暴",
+        "onboard_time": 1753606223,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141508,
+        "num": 141508,
+        "word": "山西一辆载12人的中巴车因强降雨失联",
+        "onboard_time": 1753599502,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 134980,
+        "num": 134980,
+        "word": "北京大暴雨为什么下在密云怀柔",
+        "onboard_time": 1753607961,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33526,
+        "num": 134967,
+        "word": "男子偷女友7万黄金卖钱给她花",
+        "onboard_time": 1753608682,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117649,
+        "num": 134937,
+        "word": "释永信最后一次公开露面",
+        "onboard_time": 1753608322,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27799,
+        "num": 134888,
+        "word": "9名未成年围殴1人叫嚣欢迎报警",
+        "onboard_time": 1753609222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62508,
+        "num": 134840,
+        "word": "人形机器人学会自己换电池了",
+        "onboard_time": 1753607782,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134831,
+        "num": 134831,
+        "word": "警方辟谣释永信携带34人潜逃",
+        "onboard_time": 1753588522,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125457,
+        "num": 125457,
+        "word": "什么是性单恋",
+        "onboard_time": 1753596741,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123889,
+        "num": 123889,
+        "word": "四果汤",
+        "onboard_time": 1753609041,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121890,
+        "num": 121890,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120557,
+        "num": 120557,
+        "word": "太阳的后裔NCT127",
+        "onboard_time": 1753608742,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120077,
+        "num": 120077,
+        "word": "沈月内核",
+        "onboard_time": 1753607242,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119958,
+        "num": 119958,
+        "word": "国家一级高跟鞋运动员",
+        "onboard_time": 1753606823,
+        "rank": 47,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 118520,
+        "num": 118520,
+        "word": "陈梦说找到合适的人会官宣",
+        "onboard_time": 1753609162,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116868,
+        "num": 116868,
+        "word": "尽量和减肥成功的人做朋友",
+        "onboard_time": 1753606762,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
