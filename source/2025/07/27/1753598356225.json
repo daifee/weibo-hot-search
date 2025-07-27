@@ -1,0 +1,410 @@
+{
+  "runTime": 1753598356225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2396934,
+        "num": 2396934,
+        "word": "李小冉把何炅微信删了",
+        "onboard_time": 1753596023,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882505,
+        "num": 882505,
+        "word": "山西车祸6死8伤",
+        "onboard_time": 1753595243,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 864,
+        "num": 834060,
+        "word": "这些中国名片正在闪闪发光",
+        "onboard_time": 1753488380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1407844,
+        "num": 828673,
+        "word": "冰饮料 猝死",
+        "onboard_time": 1753596623,
+        "rank": 3,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 821464,
+        "num": 821464,
+        "word": "谢娜赶不上张杰演唱会大哭",
+        "onboard_time": 1753592544,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630384,
+        "num": 630384,
+        "word": "广州地铁通报一乘客突发异常行为",
+        "onboard_time": 1753594403,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 791406,
+        "num": 596934,
+        "word": "杨洋演技",
+        "onboard_time": 1753593744,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437658,
+        "num": 437658,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1753577781,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404253,
+        "num": 404253,
+        "word": "警方辟谣释永信携带34人潜逃",
+        "onboard_time": 1753588522,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80121,
+        "num": 336137,
+        "word": "记者直击北京密云防汛现场",
+        "onboard_time": 1753591702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405478,
+        "num": 334641,
+        "word": "制污穴 催月经",
+        "onboard_time": 1753593202,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332326,
+        "num": 332326,
+        "word": "蜜雪冰城冰淇淋 化得快",
+        "onboard_time": 1753587681,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326738,
+        "num": 326738,
+        "word": "李小龙死因或系癫痫",
+        "onboard_time": 1753591462,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311398,
+        "num": 311398,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14537,
+        "num": 289298,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271621,
+        "num": 271621,
+        "word": "印度1岁男童徒手将眼镜蛇撕成两半",
+        "onboard_time": 1753590020,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266965,
+        "num": 266965,
+        "word": "王牌对王牌直播",
+        "onboard_time": 1753585762,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253113,
+        "num": 253113,
+        "word": "突然意识到1万块这么有质感",
+        "onboard_time": 1753575020,
+        "rank": 17,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 248563,
+        "num": 248563,
+        "word": "未录取通知书",
+        "onboard_time": 1753590020,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201925,
+        "num": 233250,
+        "word": "锦月如歌",
+        "onboard_time": 1753594283,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225901,
+        "num": 225901,
+        "word": "1岁男童把眼镜蛇当玩具撕咬致昏迷",
+        "onboard_time": 1753591042,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219764,
+        "num": 219764,
+        "word": "什么是性单恋",
+        "onboard_time": 1753596741,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212878,
+        "num": 212878,
+        "word": "15岁少年冒死藏日军暴行照片",
+        "onboard_time": 1753594462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198434,
+        "num": 198434,
+        "word": "鼠尿病",
+        "onboard_time": 1753583902,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190469,
+        "num": 190469,
+        "word": "王牌第一期嘉宾吃席都要摆三桌",
+        "onboard_time": 1753597704,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22952,
+        "num": 188047,
+        "word": "探访北京密云安置点现场",
+        "onboard_time": 1753598124,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 187607,
+        "num": 187607,
+        "word": "章若楠完全是按照视觉爽点长的",
+        "onboard_time": 1753588522,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161259,
+        "num": 161259,
+        "word": "11岁重症女孩主动选择冷冻卵巢组织",
+        "onboard_time": 1753596382,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159301,
+        "num": 159301,
+        "word": "于正藏头诗赵晴升咖",
+        "onboard_time": 1753597582,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17849,
+        "num": 158112,
+        "word": "北京密云村庄受灾航拍曝光",
+        "onboard_time": 1753598124,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 157728,
+        "num": 157728,
+        "word": "又被张韶涵的高定硬控了",
+        "onboard_time": 1753596684,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153415,
+        "num": 153415,
+        "word": "白敬亭助力凡人修仙传",
+        "onboard_time": 1753597160,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144823,
+        "num": 144823,
+        "word": "时代少年团上海",
+        "onboard_time": 1753591702,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137606,
+        "num": 137606,
+        "word": "不体面却高薪的工作",
+        "onboard_time": 1753584560,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133716,
+        "num": 133716,
+        "word": "坚持练肩3个月后的变化",
+        "onboard_time": 1753594283,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133506,
+        "num": 133506,
+        "word": "张铁",
+        "onboard_time": 1753597403,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131447,
+        "num": 131447,
+        "word": "易烊千玺回应宁愿犯错不要无聊",
+        "onboard_time": 1753595542,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130965,
+        "num": 130965,
+        "word": "王玉雯你真虎啊",
+        "onboard_time": 1753597343,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128243,
+        "num": 128243,
+        "word": "在深圳赶海捡到了波士顿大龙虾",
+        "onboard_time": 1753588342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127860,
+        "num": 127860,
+        "word": "杜华拜托那可是seventeen",
+        "onboard_time": 1753593381,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123843,
+        "num": 123843,
+        "word": "沈月程潇攀岩互相拍照",
+        "onboard_time": 1753597524,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122005,
+        "num": 122005,
+        "word": "女子结婚第2天带32万彩礼跑路",
+        "onboard_time": 1753596684,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121202,
+        "num": 121202,
+        "word": "谢娜白得发光的闺蜜李小冉",
+        "onboard_time": 1753594462,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119986,
+        "num": 119986,
+        "word": "汪苏泷为了哄我什么都说的出来",
+        "onboard_time": 1753597461,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117313,
+        "num": 117313,
+        "word": "妈妈问黄圣依如果有一天不记得你了",
+        "onboard_time": 1753597160,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115545,
+        "num": 115545,
+        "word": "努力的女明星都火起来了",
+        "onboard_time": 1753596922,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113140,
+        "num": 113140,
+        "word": "Yamy说新说唱选手飘了",
+        "onboard_time": 1753592841,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112119,
+        "num": 112119,
+        "word": "全球已近30万人感染基孔肯雅热",
+        "onboard_time": 1753582400,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103551,
+        "num": 103551,
+        "word": "大学生要尽早学会打扮",
+        "onboard_time": 1753592662,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 103529,
+        "num": 103529,
+        "word": "74岁张纪中坐过山车被拒",
+        "onboard_time": 1753598303,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}

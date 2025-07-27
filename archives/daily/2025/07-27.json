@@ -1,7 +1,15 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753595386342,
+  "endTime": 1753598356225,
   "band_list": [
+    {
+      "raw_hot": 2396934,
+      "num": 2396934,
+      "word": "李小冉把何炅微信删了",
+      "onboard_time": 1753596023,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2110545,
       "num": 2110545,
@@ -35,6 +43,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1407844,
+      "num": 828673,
+      "word": "冰饮料 猝死",
+      "onboard_time": 1753596623,
+      "rank": 3,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 1288910,
       "num": 1288910,
       "word": "谢娜赶不上张杰演唱会大哭",
@@ -59,6 +75,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 882505,
+      "num": 882505,
+      "word": "山西车祸6死8伤",
+      "onboard_time": 1753595243,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 850651,
       "num": 850651,
       "word": "TTG对战AG",
@@ -73,6 +97,14 @@
       "onboard_time": 1753577481,
       "rank": 1,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 791406,
+      "num": 596934,
+      "word": "杨洋演技",
+      "onboard_time": 1753593744,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 782872,
@@ -131,20 +163,20 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 630384,
+      "num": 630384,
+      "word": "广州地铁通报一乘客突发异常行为",
+      "onboard_time": 1753594403,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 624036,
       "num": 624036,
       "word": "蜜雪冰城冰淇淋 化得快",
       "onboard_time": 1753587681,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 560474,
-      "num": 560474,
-      "word": "杨洋演技",
-      "onboard_time": 1753593744,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 553280,
@@ -371,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273472,
-      "num": 273472,
-      "word": "广州地铁通报一乘客突发异常行为",
-      "onboard_time": 1753594403,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 272738,
       "num": 423090,
       "word": "王牌对王牌",
@@ -475,12 +499,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 219764,
+      "num": 219764,
+      "word": "什么是性单恋",
+      "onboard_time": 1753596741,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212906,
       "num": 212906,
       "word": "时代少年团上海",
       "onboard_time": 1753591702,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212878,
+      "num": 212878,
+      "word": "15岁少年冒死藏日军暴行照片",
+      "onboard_time": 1753594462,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208512,
@@ -497,6 +537,14 @@
       "onboard_time": 1753588462,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201925,
+      "num": 233250,
+      "word": "锦月如歌",
+      "onboard_time": 1753594283,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 201495,
@@ -520,6 +568,14 @@
       "word": "杜华拜托那可是seventeen",
       "onboard_time": 1753593381,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190469,
+      "num": 190469,
+      "word": "王牌第一期嘉宾吃席都要摆三桌",
+      "onboard_time": 1753597704,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -699,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161259,
+      "num": 161259,
+      "word": "11岁重症女孩主动选择冷冻卵巢组织",
+      "onboard_time": 1753596382,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161173,
       "num": 161173,
       "word": "地球超新鲜",
@@ -715,12 +779,20 @@
       "category": "幽默,时尚"
     },
     {
-      "raw_hot": 156450,
-      "num": 178480,
-      "word": "15岁少年冒死藏日军暴行照片",
-      "onboard_time": 1753594462,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 159301,
+      "num": 159301,
+      "word": "于正藏头诗赵晴升咖",
+      "onboard_time": 1753597582,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157728,
+      "num": 157728,
+      "word": "又被张韶涵的高定硬控了",
+      "onboard_time": 1753596684,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156224,
@@ -745,6 +817,14 @@
       "onboard_time": 1753531104,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153415,
+      "num": 153415,
+      "word": "白敬亭助力凡人修仙传",
+      "onboard_time": 1753597160,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 152898,
@@ -883,6 +963,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133716,
+      "num": 133716,
+      "word": "坚持练肩3个月后的变化",
+      "onboard_time": 1753594283,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 133506,
+      "num": 133506,
+      "word": "张铁",
+      "onboard_time": 1753597403,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133155,
       "num": 133155,
       "word": "国外很贵国内却很便宜的东西",
@@ -903,6 +999,22 @@
       "num": 131599,
       "word": "Rapeter不辜负严浩翔万妮达",
       "onboard_time": 1753590262,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131447,
+      "num": 131447,
+      "word": "易烊千玺回应宁愿犯错不要无聊",
+      "onboard_time": 1753595542,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 130965,
+      "num": 130965,
+      "word": "王玉雯你真虎啊",
+      "onboard_time": 1753597343,
       "rank": 37,
       "category": "综艺"
     },
@@ -940,7 +1052,7 @@
     },
     {
       "raw_hot": 127942,
-      "num": 134337,
+      "num": 336137,
       "word": "记者直击北京密云防汛现场",
       "onboard_time": 1753591702,
       "rank": 28,
@@ -987,12 +1099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123843,
+      "num": 123843,
+      "word": "沈月程潇攀岩互相拍照",
+      "onboard_time": 1753597524,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122354,
       "num": 116326,
       "word": "房主任好牛",
       "onboard_time": 1753546943,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122005,
+      "num": 122005,
+      "word": "女子结婚第2天带32万彩礼跑路",
+      "onboard_time": 1753596684,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121799,
@@ -1027,11 +1155,27 @@
       "category": "运动健身,休闲"
     },
     {
+      "raw_hot": 119986,
+      "num": 119986,
+      "word": "汪苏泷为了哄我什么都说的出来",
+      "onboard_time": 1753597461,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117395,
       "num": 117395,
       "word": "锤娜丽莎还给周深7个感叹号",
       "onboard_time": 1753586362,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117313,
+      "num": 117313,
+      "word": "妈妈问黄圣依如果有一天不记得你了",
+      "onboard_time": 1753597160,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1041,6 +1185,14 @@
       "onboard_time": 1753588342,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115545,
+      "num": 115545,
+      "word": "努力的女明星都火起来了",
+      "onboard_time": 1753596922,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 114909,
@@ -1235,6 +1387,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 103529,
+      "num": 103529,
+      "word": "74岁张纪中坐过山车被拒",
+      "onboard_time": 1753598303,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102281,
       "num": 102281,
       "word": "狗 为了你我变成狼人模样",
@@ -1353,14 +1513,6 @@
       "onboard_time": 1753582342,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88124,
-      "num": 96904,
-      "word": "坚持练肩3个月后的变化",
-      "onboard_time": 1753594283,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 88024,
@@ -1715,6 +1867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22952,
+      "num": 188047,
+      "word": "探访北京密云安置点现场",
+      "onboard_time": 1753598124,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 19755,
       "num": 28921,
       "word": "汪苏泷戴了粉丝准备的帽子",
@@ -1723,12 +1883,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17849,
+      "num": 158112,
+      "word": "北京密云村庄受灾航拍曝光",
+      "onboard_time": 1753598124,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 15754,
       "num": 27579,
       "word": "让我来唱",
       "onboard_time": 1753559655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 864,
+      "num": 834060,
+      "word": "这些中国名片正在闪闪发光",
+      "onboard_time": 1753488380,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
