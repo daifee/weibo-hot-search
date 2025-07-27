@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753626288867,
+  "endTime": 1753627432261,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -99,8 +99,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1020408,
-      "num": 1020408,
+      "raw_hot": 1189886,
+      "num": 1189886,
       "word": "沈佳润写了美美桑内中文版歌词",
       "onboard_time": 1753622425,
       "rank": 17,
@@ -267,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 704108,
+      "num": 704108,
+      "word": "起底释永信和他的商业帝国",
+      "onboard_time": 1753622966,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 691354,
       "num": 691354,
       "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
@@ -363,6 +371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 616337,
+      "num": 369131,
+      "word": "金泫雅更新ins",
+      "onboard_time": 1753622845,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605523,
       "num": 605523,
       "word": "10号台风白鹿即将生成或直奔江浙沪",
@@ -377,14 +393,6 @@
       "onboard_time": 1753605383,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 578109,
-      "num": 581636,
-      "word": "起底释永信和他的商业帝国",
-      "onboard_time": 1753622966,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 567184,
@@ -547,14 +555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 433145,
-      "num": 369131,
-      "word": "金泫雅更新ins",
-      "onboard_time": 1753622845,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 426302,
       "num": 426302,
       "word": "汪苏泷终于唱了无名之辈",
@@ -609,6 +609,14 @@
       "onboard_time": 1753599023,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413260,
+      "num": 311848,
+      "word": "生理期真正不能做的10件事",
+      "onboard_time": 1753626686,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 410502,
@@ -713,6 +721,14 @@
       "onboard_time": 1753612883,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 353107,
+      "num": 379539,
+      "word": "加沙5个月婴儿死亡时比出生时还轻",
+      "onboard_time": 1753620205,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 350224,
@@ -843,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 288199,
+      "num": 344324,
+      "word": "鹿晗又扔戒指了",
+      "onboard_time": 1753623086,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 284934,
       "num": 284934,
       "word": "俄车臣领导人卡德罗夫突然溺水",
@@ -931,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259851,
-      "num": 379539,
-      "word": "加沙5个月婴儿死亡时比出生时还轻",
-      "onboard_time": 1753620205,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "白鹿为赵晴新剧做宣传",
@@ -953,14 +969,6 @@
       "onboard_time": 1753594462,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245175,
-      "num": 344324,
-      "word": "鹿晗又扔戒指了",
-      "onboard_time": 1753623086,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 243240,
@@ -1083,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216277,
+      "num": 216277,
+      "word": "外公葬礼上的陌生人",
+      "onboard_time": 1753626865,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216048,
       "num": 216048,
       "word": "警方通报1名未成年人被6人殴打",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1753592841,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208491,
+      "num": 278649,
+      "word": "毕雯珺好帅",
+      "onboard_time": 1753626266,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 206613,
@@ -1195,12 +1219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197884,
+      "num": 197884,
+      "word": "张泽禹红苹果队队长报道",
+      "onboard_time": 1753626387,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197832,
       "num": 588880,
       "word": "我国成功发射一箭5星",
       "onboard_time": 1753619845,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 196899,
+      "num": 196899,
+      "word": "柳智敏上海",
+      "onboard_time": 1753627045,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 196088,
@@ -1264,6 +1304,22 @@
       "word": "樊振东3比1袁励岑",
       "onboard_time": 1753621466,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189235,
+      "num": 189235,
+      "word": "翟潇闻姜妍一起看岳云鹏演唱会",
+      "onboard_time": 1753626085,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188966,
+      "num": 344912,
+      "word": "山东泰山主场上万名球迷现场助威",
+      "onboard_time": 1753625305,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -1659,14 +1715,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162573,
-      "num": 344912,
-      "word": "山东泰山主场上万名球迷现场助威",
-      "onboard_time": 1753625305,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "李兰迪敖瑞鹏朝雪录大婚",
@@ -1739,14 +1787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157210,
-      "num": 157210,
-      "word": "翟潇闻姜妍一起看岳云鹏演唱会",
-      "onboard_time": 1753626085,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 157085,
       "num": 157085,
       "word": "IJL",
@@ -1784,6 +1824,14 @@
       "word": "汪苏泷金色传说",
       "onboard_time": 1753626085,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 154657,
+      "num": 154657,
+      "word": "被张艺兴大海合唱硬控三分钟",
+      "onboard_time": 1753627105,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -1891,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150140,
+      "num": 150140,
+      "word": "樊振东弯腰的瞬间比赢球更帅",
+      "onboard_time": 1753627225,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150026,
       "num": 150026,
       "word": "大学生要尽早学会打扮",
@@ -1937,6 +1993,14 @@
       "onboard_time": 1753593863,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148680,
+      "num": 148680,
+      "word": "中国队男子4x100自接力第五",
+      "onboard_time": 1753623925,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148469,
@@ -2099,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142101,
+      "num": 142101,
+      "word": "广东疾控回应基孔肯雅热交叉感染",
+      "onboard_time": 1753626024,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141449,
       "num": 141449,
       "word": "石宇奇夺冠",
@@ -2137,14 +2209,6 @@
       "onboard_time": 1753619184,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139678,
-      "num": 139678,
-      "word": "中国队男子4x100自接力第五",
-      "onboard_time": 1753623925,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 139236,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1753614862,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131201,
-      "num": 131201,
-      "word": "毕雯珺好帅",
-      "onboard_time": 1753626266,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 130965,
@@ -3307,6 +3363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 72264,
+      "num": 179933,
+      "word": "释永信已多次被举报",
+      "onboard_time": 1753626445,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71471,
       "num": 119386,
       "word": "河北阜平强降雨2死2失踪",
@@ -3492,7 +3556,7 @@
     },
     {
       "raw_hot": 47567,
-      "num": 170231,
+      "num": 179587,
       "word": "B太榕江救灾Vlog",
       "onboard_time": 1753623206,
       "rank": 40,
