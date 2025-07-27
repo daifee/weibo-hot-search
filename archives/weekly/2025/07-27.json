@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753638254855,
+  "endTime": 1753641401504,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -3827,6 +3827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 40246,
+      "num": 48133,
+      "word": "汪苏泷摇头晃脑躲泡泡",
+      "onboard_time": 1753640236,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 40030,
       "num": 54487,
       "word": "买贵的东西就把价格除以365天",
@@ -3987,12 +3995,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24073,
+      "num": 33110,
+      "word": "地球超新鲜今日开播",
+      "onboard_time": 1753640896,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23860,
+      "num": 33107,
+      "word": "和汪苏泷背靠背的怎么就不能是我",
+      "onboard_time": 1753641376,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23646,
       "num": 35344,
       "word": "周笔畅天呐我怎么会变成这样巡演",
       "onboard_time": 1753555635,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21559,
+      "num": 33103,
+      "word": "86不存在的战区",
+      "onboard_time": 1753641376,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 19755,
