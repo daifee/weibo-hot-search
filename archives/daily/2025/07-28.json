@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753655199343,
+  "endTime": 1753656360803,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119093,
+      "num": 119093,
+      "word": "少林景区将全面实行线上预约购票",
+      "onboard_time": 1753632444,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116860,
       "num": 116860,
       "word": "李小冉说一路繁花塌的也不是我",
@@ -331,11 +339,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103699,
-      "num": 118463,
-      "word": "少林景区将全面实行线上预约购票",
-      "onboard_time": 1753632444,
-      "rank": 36,
+      "raw_hot": 96564,
+      "num": 96564,
+      "word": "拧瓶盖 诈骗",
+      "onboard_time": 1753642335,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -361,14 +369,6 @@
       "onboard_time": 1753623626,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 86497,
-      "num": 86497,
-      "word": "拧瓶盖 诈骗",
-      "onboard_time": 1753642335,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85782,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63374,
+      "num": 63374,
+      "word": "带着轻微饥饿感入睡能瘦吗",
+      "onboard_time": 1753642875,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54493,
       "num": 54493,
       "word": "朱志鑫黑珠返场",
@@ -416,14 +424,6 @@
       "word": "广东疾控回应基孔肯雅热交叉感染",
       "onboard_time": 1753626024,
       "rank": 16,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 50006,
-      "num": 50006,
-      "word": "带着轻微饥饿感入睡能瘦吗",
-      "onboard_time": 1753642875,
-      "rank": 35,
       "category": "健康医疗"
     },
     {
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36601,
+      "num": 36601,
+      "word": "29岁视网膜脱落的真实经历",
+      "onboard_time": 1753648273,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34940,
       "num": 38549,
       "word": "汪苏泷你得香成啥样了",
@@ -467,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34827,
-      "num": 34827,
-      "word": "29岁视网膜脱落的真实经历",
-      "onboard_time": 1753648273,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 30402,
+      "num": 30402,
+      "word": "她一会儿不会咬我吧",
+      "onboard_time": 1753651274,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 30058,
@@ -484,19 +492,11 @@
     },
     {
       "raw_hot": 27414,
-      "num": 27414,
+      "num": 28012,
       "word": "感染基孔肯雅热禁用阿司匹林",
       "onboard_time": 1753648873,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 26856,
-      "num": 26856,
-      "word": "她一会儿不会咬我吧",
-      "onboard_time": 1753651274,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 24794,
@@ -513,6 +513,14 @@
       "onboard_time": 1753640896,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23326,
+      "num": 28001,
+      "word": "广东累计报告4824例基孔肯雅热",
+      "onboard_time": 1753644135,
+      "rank": 48,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 22776,
@@ -537,14 +545,6 @@
       "onboard_time": 1753641556,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20284,
-      "num": 26078,
-      "word": "广东累计报告4824例基孔肯雅热",
-      "onboard_time": 1753644135,
-      "rank": 48,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 19157,
