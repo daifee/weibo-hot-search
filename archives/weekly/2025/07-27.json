@@ -1,10 +1,10 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753598356225,
+  "endTime": 1753599205872,
   "band_list": [
     {
-      "raw_hot": 2396934,
-      "num": 2396934,
+      "raw_hot": 2420501,
+      "num": 2420501,
       "word": "李小冉把何炅微信删了",
       "onboard_time": 1753596023,
       "rank": 0,
@@ -35,20 +35,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1792652,
+      "num": 828673,
+      "word": "冰饮料 猝死",
+      "onboard_time": 1753596623,
+      "rank": 3,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 1626875,
       "num": 1626875,
       "word": "布洛芬率先发现了甲沟炎",
       "onboard_time": 1753577781,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1407844,
-      "num": 828673,
-      "word": "冰饮料 猝死",
-      "onboard_time": 1753596623,
-      "rank": 3,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 1288910,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 791406,
-      "num": 596934,
+      "num": 705906,
       "word": "杨洋演技",
       "onboard_time": 1753593744,
       "rank": 23,
@@ -435,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262369,
+      "num": 262369,
+      "word": "王楚钦被周启豪满电口号逗乐了",
+      "onboard_time": 1753598543,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 259967,
+      "num": 259967,
+      "word": "女子跟风生吃彩椒碗感染钩虫",
+      "onboard_time": 1753598601,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "白鹿为赵晴新剧做宣传",
@@ -457,6 +473,14 @@
       "onboard_time": 1753575261,
       "rank": 13,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 237238,
+      "num": 237238,
+      "word": "锦月如歌",
+      "onboard_time": 1753594283,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 230482,
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201925,
-      "num": 233250,
-      "word": "锦月如歌",
-      "onboard_time": 1753594283,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201495,
       "num": 201495,
       "word": "张靓颖穿了一身蝴蝶在身上",
@@ -569,6 +585,14 @@
       "onboard_time": 1753593381,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193925,
+      "num": 145640,
+      "word": "梁伟铿感谢战友王昶",
+      "onboard_time": 1753598900,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 190469,
@@ -601,6 +625,14 @@
       "onboard_time": 1753591161,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177696,
+      "num": 177696,
+      "word": "撒贝宁吃到了陈乔恩阮经天大瓜",
+      "onboard_time": 1753599023,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 176667,
@@ -851,6 +883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150413,
+      "num": 150413,
+      "word": "74岁张纪中坐过山车被拒",
+      "onboard_time": 1753598303,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150026,
       "num": 150026,
       "word": "大学生要尽早学会打扮",
@@ -937,6 +977,22 @@
       "onboard_time": 1753538486,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140607,
+      "num": 140607,
+      "word": "汪苏泷为了哄我什么都说的出来",
+      "onboard_time": 1753597461,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 138552,
+      "num": 138552,
+      "word": "刘宇宁承包了主题曲的半壁江山",
+      "onboard_time": 1753598662,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137630,
@@ -1043,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128356,
+      "num": 128356,
+      "word": "努力的女明星都火起来了",
+      "onboard_time": 1753596922,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128120,
       "num": 128120,
       "word": "贺峻霖小雀斑妆",
@@ -1057,6 +1121,14 @@
       "onboard_time": 1753591702,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125790,
+      "num": 125790,
+      "word": "谢娜和女儿通话自动变夹子",
+      "onboard_time": 1753599023,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 125276,
@@ -1155,14 +1227,6 @@
       "category": "运动健身,休闲"
     },
     {
-      "raw_hot": 119986,
-      "num": 119986,
-      "word": "汪苏泷为了哄我什么都说的出来",
-      "onboard_time": 1753597461,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 117395,
       "num": 117395,
       "word": "锤娜丽莎还给周深7个感叹号",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1753588342,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115545,
-      "num": 115545,
-      "word": "努力的女明星都火起来了",
-      "onboard_time": 1753596922,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 114909,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1753592183,
       "rank": 46,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 114013,
+      "num": 114013,
+      "word": "董力何浩楠出场像走了个秀",
+      "onboard_time": 1753597824,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 113779,
@@ -1385,14 +1449,6 @@
       "onboard_time": 1753595302,
       "rank": 43,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 103529,
-      "num": 103529,
-      "word": "74岁张纪中坐过山车被拒",
-      "onboard_time": 1753598303,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 102281,
@@ -1683,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67442,
+      "num": 293003,
+      "word": "美一波音客机发生故障179人撤离",
+      "onboard_time": 1753593863,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65512,
       "num": 65512,
       "word": "在美国生意好的中餐馆后厨现状",
@@ -1803,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36018,
+      "num": 158112,
+      "word": "北京密云村庄受灾航拍曝光",
+      "onboard_time": 1753598124,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 35712,
       "num": 73378,
       "word": "华山论剑",
@@ -1817,6 +1889,14 @@
       "onboard_time": 1753556836,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31441,
+      "num": 221369,
+      "word": "探访北京密云安置点现场",
+      "onboard_time": 1753598124,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 26943,
@@ -1867,14 +1947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22952,
-      "num": 188047,
-      "word": "探访北京密云安置点现场",
-      "onboard_time": 1753598124,
-      "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 19755,
       "num": 28921,
       "word": "汪苏泷戴了粉丝准备的帽子",
@@ -1883,20 +1955,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17849,
-      "num": 158112,
-      "word": "北京密云村庄受灾航拍曝光",
-      "onboard_time": 1753598124,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 15754,
       "num": 27579,
       "word": "让我来唱",
       "onboard_time": 1753559655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3639,
+      "num": 777990,
+      "word": "第五届中国新电商大会",
+      "onboard_time": 1753507403,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 864,
