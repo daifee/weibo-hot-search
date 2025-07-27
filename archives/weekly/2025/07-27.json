@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753601172137,
+  "endTime": 1753602040254,
   "band_list": [
     {
       "raw_hot": 2420501,
@@ -147,20 +147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677261,
+      "num": 677261,
+      "word": "女子跟风生吃彩椒碗感染钩虫",
+      "onboard_time": 1753598601,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660756,
       "num": 462414,
       "word": "未录取通知书",
       "onboard_time": 1753590020,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 638226,
-      "num": 638226,
-      "word": "女子跟风生吃彩椒碗感染钩虫",
-      "onboard_time": 1753598601,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 633611,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417301,
+      "num": 343389,
+      "word": "撒贝宁吃到了陈乔恩阮经天大瓜",
+      "onboard_time": 1753599023,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410502,
       "num": 462419,
       "word": "李小龙死因或系癫痫",
@@ -323,6 +331,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 386380,
+      "num": 337583,
+      "word": "什么是性单恋",
+      "onboard_time": 1753596741,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 381769,
+      "num": 381769,
+      "word": "冯建宇 曼谷",
+      "onboard_time": 1753600341,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376558,
       "num": 276974,
       "word": "马頔李纯 婚房",
@@ -331,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374661,
+      "num": 374661,
+      "word": "山西一辆载12人的中巴车因强降雨失联",
+      "onboard_time": 1753599502,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 370990,
       "num": 370990,
       "word": "凡人修仙传26广开播",
       "onboard_time": 1753590143,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 351820,
-      "num": 351820,
-      "word": "山西一辆载12人的中巴车因强降雨失联",
-      "onboard_time": 1753599502,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 350224,
@@ -363,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348096,
+      "num": 348096,
+      "word": "女子要取走390万现金柜员报警",
+      "onboard_time": 1753600524,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334684,
       "num": 334684,
       "word": "锦月如歌开播",
       "onboard_time": 1753594283,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327492,
-      "num": 257865,
-      "word": "撒贝宁吃到了陈乔恩阮经天大瓜",
-      "onboard_time": 1753599023,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 326081,
@@ -419,14 +443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 276252,
-      "num": 253968,
-      "word": "什么是性单恋",
-      "onboard_time": 1753596741,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 276198,
       "num": 276198,
       "word": "樊振东微博发文",
@@ -457,6 +473,14 @@
       "onboard_time": 1753533985,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266563,
+      "num": 266563,
+      "word": "王牌第一期嘉宾吃席都要摆三桌",
+      "onboard_time": 1753597704,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 263239,
@@ -491,20 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248127,
-      "num": 248127,
-      "word": "王牌第一期嘉宾吃席都要摆三桌",
-      "onboard_time": 1753597704,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241409,
       "num": 241409,
       "word": "大学生月薪18000住家保姆的一天",
       "onboard_time": 1753575261,
       "rank": 13,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 238415,
+      "num": 238415,
+      "word": "王晓晨维护俞灏明",
+      "onboard_time": 1753600524,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 237238,
@@ -619,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198240,
-      "num": 198240,
-      "word": "冯建宇 曼谷",
-      "onboard_time": 1753600341,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193925,
       "num": 145640,
       "word": "梁伟铿感谢战友王昶",
@@ -635,8 +651,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184953,
-      "num": 184953,
+      "raw_hot": 186069,
+      "num": 186069,
       "word": "Gr对战北京WBG",
       "onboard_time": 1753600822,
       "rank": 23,
@@ -667,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179695,
+      "num": 179695,
+      "word": "努力的女明星都火起来了",
+      "onboard_time": 1753596922,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176667,
       "num": 176667,
       "word": "孟子义这段看一遍得笑十遍",
@@ -681,14 +705,6 @@
       "onboard_time": 1753578322,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 176332,
-      "num": 176332,
-      "word": "女子要取走390万现金柜员报警",
-      "onboard_time": 1753600524,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174783,
@@ -811,14 +827,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 164939,
-      "num": 178505,
-      "word": "努力的女明星都火起来了",
-      "onboard_time": 1753596922,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164588,
       "num": 164588,
       "word": "王牌对王牌9",
@@ -899,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156641,
+      "num": 156641,
+      "word": "硅胶鲨鱼夹",
+      "onboard_time": 1753599622,
+      "rank": 36,
+      "category": "时尚,休闲"
+    },
+    {
       "raw_hot": 156224,
       "num": 156224,
       "word": "王一博电影热烈获新奖项",
@@ -945,6 +961,14 @@
       "onboard_time": 1753525281,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150664,
+      "num": 163871,
+      "word": "杨洋新剧开局双杀",
+      "onboard_time": 1753601423,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 150500,
@@ -1099,12 +1123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136989,
-      "num": 136989,
-      "word": "硅胶鲨鱼夹",
-      "onboard_time": 1753599622,
-      "rank": 36,
-      "category": "时尚,休闲"
+      "raw_hot": 136238,
+      "num": 136238,
+      "word": "生吃蔬菜 寄生虫",
+      "onboard_time": 1753601303,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135030,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1753572558,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132996,
+      "num": 132996,
+      "word": "一诺说底座选GEN是为了AL",
+      "onboard_time": 1753601423,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 132897,
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124735,
+      "num": 124735,
+      "word": "紫色战袍的孙颖莎",
+      "onboard_time": 1753601122,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124458,
       "num": 116517,
       "word": "孟子义原始帧好强的破碎感",
@@ -1347,6 +1387,14 @@
       "category": "运动健身,休闲"
     },
     {
+      "raw_hot": 117535,
+      "num": 117535,
+      "word": "周深最对不起的人是小张",
+      "onboard_time": 1753601842,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117395,
       "num": 117395,
       "word": "锤娜丽莎还给周深7个感叹号",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1753597824,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113833,
+      "num": 113833,
+      "word": "皮肤上的蜘蛛痣是什么",
+      "onboard_time": 1753601361,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113779,
@@ -1491,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110687,
+      "num": 110687,
+      "word": "地铁跑酷",
+      "onboard_time": 1753601903,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110591,
       "num": 162359,
       "word": "北京密云区暴雨红色预警",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1753575500,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 107227,
-      "num": 107227,
-      "word": "紫色战袍的孙颖莎",
-      "onboard_time": 1753601122,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 107079,
@@ -1787,14 +1843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82298,
-      "num": 131598,
-      "word": "王晓晨维护俞灏明",
-      "onboard_time": 1753600524,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82064,
       "num": 99208,
       "word": "单依纯上期造型师已被发配非洲",
@@ -1928,6 +1976,14 @@
       "word": "灭蚊鱼1天能吃438条蚊幼虫",
       "onboard_time": 1753588702,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60925,
+      "num": 266952,
+      "word": "有一种震撼叫逢山开路",
+      "onboard_time": 1753598900,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
