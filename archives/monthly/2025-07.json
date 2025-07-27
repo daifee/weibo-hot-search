@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753583177413,
+  "endTime": 1753584359531,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1626875,
+      "num": 1626875,
+      "word": "布洛芬率先发现了甲沟炎",
+      "onboard_time": 1753577781,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1625750,
       "num": 1625750,
       "word": "花千骨制片人回应年轮争议",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1753168401,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1462212,
-      "num": 1462212,
-      "word": "布洛芬率先发现了甲沟炎",
-      "onboard_time": 1753577781,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1461569,
@@ -8988,7 +8988,7 @@
     },
     {
       "raw_hot": 633611,
-      "num": 333811,
+      "num": 407842,
       "word": "突然意识到1万块这么有质感",
       "onboard_time": 1753575020,
       "rank": 10,
@@ -12176,6 +12176,14 @@
       "word": "雪糕刺客开始倒闭了",
       "onboard_time": 1752034284,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505197,
+      "num": 408509,
+      "word": "全球已近30万人感染基孔肯雅热",
+      "onboard_time": 1753582400,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -15459,6 +15467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403852,
+      "num": 403852,
+      "word": "高钾晚餐能让人睡得更香",
+      "onboard_time": 1753579942,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 402933,
       "num": 402933,
       "word": "官方回应火车突发停车乘客砸窗通风",
@@ -18235,14 +18251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340319,
-      "num": 340319,
-      "word": "高钾晚餐能让人睡得更香",
-      "onboard_time": 1753579942,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 340193,
       "num": 340193,
       "word": "杨紫回复了锦绣芳华所有人",
@@ -18444,7 +18452,7 @@
     },
     {
       "raw_hot": 336933,
-      "num": 350311,
+      "num": 409557,
       "word": "凡人修仙传",
       "onboard_time": 1752535218,
       "rank": 38,
@@ -22305,6 +22313,14 @@
       "onboard_time": 1752613153,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277123,
+      "num": 277123,
+      "word": "演唱会和自担吵架是什么体验",
+      "onboard_time": 1753580901,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 277090,
@@ -26651,6 +26667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230482,
+      "num": 230482,
+      "word": "男空乘厕所偷拍未成年女孩判18年",
+      "onboard_time": 1753579581,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "王楚钦4比0张本智和",
@@ -28305,14 +28329,6 @@
       "onboard_time": 1751888061,
       "rank": 23,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 217632,
-      "num": 217632,
-      "word": "男空乘厕所偷拍未成年女孩判18年",
-      "onboard_time": 1753579581,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 217616,
@@ -45427,6 +45443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155843,
+      "num": 207925,
+      "word": "贺峻霖辅导员去看了时代少年团演唱会",
+      "onboard_time": 1753571897,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155805,
       "num": 155805,
       "word": "U16国足vs韩国U16",
@@ -46369,6 +46393,14 @@
       "onboard_time": 1751634567,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153058,
+      "num": 164819,
+      "word": "王牌对王牌",
+      "onboard_time": 1753573579,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 153055,
@@ -48017,14 +48049,6 @@
       "onboard_time": 1752152483,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148794,
-      "num": 207925,
-      "word": "贺峻霖辅导员去看了时代少年团演唱会",
-      "onboard_time": 1753571897,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 148774,
@@ -50433,14 +50457,6 @@
       "onboard_time": 1753194322,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143094,
-      "num": 201473,
-      "word": "演唱会和自担吵架是什么体验",
-      "onboard_time": 1753580901,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 143071,
@@ -53753,6 +53769,14 @@
       "onboard_time": 1752323781,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135627,
+      "num": 135627,
+      "word": "鼠尿病",
+      "onboard_time": 1753583902,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135623,
@@ -61315,6 +61339,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 120564,
+      "num": 120564,
+      "word": "三伏天6大减肥邪修",
+      "onboard_time": 1753576822,
+      "rank": 25,
+      "category": "运动健身,休闲"
+    },
+    {
       "raw_hot": 120495,
       "num": 120495,
       "word": "八旬老人参加免费旅游途中死亡",
@@ -62067,6 +62099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119121,
+      "num": 119121,
+      "word": "直击北京洪水",
+      "onboard_time": 1753583722,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119084,
       "num": 119084,
       "word": "贵阳音乐节全阵容官宣",
@@ -62281,14 +62321,6 @@
       "onboard_time": 1751929758,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118677,
-      "num": 118677,
-      "word": "三伏天6大减肥邪修",
-      "onboard_time": 1753576822,
-      "rank": 25,
-      "category": "运动健身,休闲"
     },
     {
       "raw_hot": 118672,
@@ -64025,6 +64057,14 @@
       "onboard_time": 1752658401,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115660,
+      "num": 115660,
+      "word": "Jennie纯欲的神",
+      "onboard_time": 1753583841,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 115645,
@@ -67827,14 +67867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108266,
-      "num": 108266,
-      "word": "王牌对王牌",
-      "onboard_time": 1753573579,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108206,
       "num": 157453,
       "word": "脱口秀",
@@ -68017,6 +68049,14 @@
       "onboard_time": 1751436082,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107854,
+      "num": 107854,
+      "word": "rapeter歌词里有严浩翔",
+      "onboard_time": 1753584081,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 107837,
@@ -68432,6 +68472,14 @@
       "word": "周雨说王楚钦奥运会之前状态很好",
       "onboard_time": 1752908001,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107063,
+      "num": 107063,
+      "word": "樊振东再谈退出世界排名",
+      "onboard_time": 1753583601,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -71899,6 +71947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99089,
+      "num": 99089,
+      "word": "潘展乐点赞蔡徐坤deadman视频",
+      "onboard_time": 1753572377,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 99082,
       "num": 99082,
       "word": "易烊千玺的获奖感言戳到我了",
@@ -72291,14 +72347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97674,
-      "num": 97674,
-      "word": "潘展乐点赞蔡徐坤deadman视频",
-      "onboard_time": 1753572377,
-      "rank": 47,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 97615,
       "num": 97615,
       "word": "练背一星期全练斜方肌上去了",
@@ -72531,11 +72579,27 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 97038,
+      "num": 97038,
+      "word": "bin败如shadow",
+      "onboard_time": 1753584140,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97008,
       "num": 97008,
       "word": "这样送清凉的方式真的很直给",
       "onboard_time": 1752831741,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 96998,
+      "num": 96998,
+      "word": "没有脚踝是一件挺不性感的事",
+      "onboard_time": 1753575801,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -75075,14 +75139,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 87935,
-      "num": 87935,
-      "word": "没有脚踝是一件挺不性感的事",
-      "onboard_time": 1753575801,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 87922,
       "num": 87922,
       "word": "许红豆许红米又聚会了",
@@ -75497,6 +75553,14 @@
       "onboard_time": 1752923721,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86242,
+      "num": 200032,
+      "word": "民进党的政治操弄不得人心",
+      "onboard_time": 1753583001,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86232,
@@ -76139,14 +76203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83224,
-      "num": 83224,
-      "word": "民进党的政治操弄不得人心",
-      "onboard_time": 1753583001,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83183,
       "num": 117118,
       "word": "理想小米同一个地方开发布会",
@@ -76611,6 +76667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81068,
+      "num": 81068,
+      "word": "QQ你对我意见很大吗",
+      "onboard_time": 1753575560,
+      "rank": 46,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 81066,
       "num": 177600,
       "word": "南珩弥补了古偶不会说英文的遗憾",
@@ -76745,14 +76809,6 @@
       "onboard_time": 1751969424,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80129,
-      "num": 80129,
-      "word": "QQ你对我意见很大吗",
-      "onboard_time": 1753575560,
-      "rank": 46,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 80092,
@@ -77139,6 +77195,14 @@
       "category": "情感,运动健身"
     },
     {
+      "raw_hot": 77838,
+      "num": 77838,
+      "word": "警方拦截违规运猫车救下900余只猫",
+      "onboard_time": 1753583361,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77831,
       "num": 286163,
       "word": "央视调查学步鞋营销乱象",
@@ -77225,6 +77289,14 @@
       "onboard_time": 1751623941,
       "rank": 24,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 77237,
+      "num": 81903,
+      "word": "平台显示不可退的电影票其实都能退",
+      "onboard_time": 1753584261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77235,
@@ -77513,6 +77585,14 @@
       "onboard_time": 1751280502,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75807,
+      "num": 75807,
+      "word": "成都世运会到底是个什么会",
+      "onboard_time": 1753583421,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75725,
@@ -80635,6 +80715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58630,
+      "num": 108131,
+      "word": "越南倾覆游船确认39人死亡",
+      "onboard_time": 1753584201,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58621,
       "num": 194210,
       "word": "美公民在约旦河西岸被殴打致死",
@@ -83080,14 +83168,6 @@
       "word": "带头下馆子的区委书记表态",
       "onboard_time": 1751334920,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45251,
-      "num": 187910,
-      "word": "全球已近30万人感染基孔肯雅热",
-      "onboard_time": 1753582400,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

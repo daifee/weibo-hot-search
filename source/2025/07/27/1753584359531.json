@@ -1,0 +1,410 @@
+{
+  "runTime": 1753584359531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1626875,
+        "num": 1626875,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1753577781,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 631396,
+        "num": 631396,
+        "word": "一家六口空调房内煲糖水4人中毒",
+        "onboard_time": 1753581261,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68903,
+        "num": 614973,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599913,
+        "num": 599913,
+        "word": "多所高校宣布延长研究生学制",
+        "onboard_time": 1753577481,
+        "rank": 3,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 537254,
+        "num": 537254,
+        "word": "印度一800年历史神庙曝出惊天大案",
+        "onboard_time": 1753577901,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 645093,
+        "num": 532174,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516465,
+        "num": 516465,
+        "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+        "onboard_time": 1753543405,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494996,
+        "num": 494996,
+        "word": "黄子韬对徐艺洋也是没招了",
+        "onboard_time": 1753577660,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295079,
+        "num": 409557,
+        "word": "凡人修仙传",
+        "onboard_time": 1753574060,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505197,
+        "num": 408509,
+        "word": "全球已近30万人感染基孔肯雅热",
+        "onboard_time": 1753582400,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548622,
+        "num": 407842,
+        "word": "突然意识到1万块这么有质感",
+        "onboard_time": 1753575020,
+        "rank": 10,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 403852,
+        "num": 403852,
+        "word": "高钾晚餐能让人睡得更香",
+        "onboard_time": 1753579942,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277123,
+        "num": 277123,
+        "word": "演唱会和自担吵架是什么体验",
+        "onboard_time": 1753580901,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236026,
+        "num": 236026,
+        "word": "樊振东说现阶段无法承受各方面压力",
+        "onboard_time": 1753572738,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230482,
+        "num": 230482,
+        "word": "男空乘厕所偷拍未成年女孩判18年",
+        "onboard_time": 1753579581,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86242,
+        "num": 200032,
+        "word": "民进党的政治操弄不得人心",
+        "onboard_time": 1753583001,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192329,
+        "num": 192329,
+        "word": "北京洪水红色预警",
+        "onboard_time": 1753575619,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191712,
+        "num": 191712,
+        "word": "丁程鑫脖子上有唇印",
+        "onboard_time": 1753538486,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155843,
+        "num": 174330,
+        "word": "贺峻霖辅导员去看了时代少年团演唱会",
+        "onboard_time": 1753571897,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153058,
+        "num": 164819,
+        "word": "王牌对王牌",
+        "onboard_time": 1753573579,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164409,
+        "num": 164409,
+        "word": "37岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1753550179,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158998,
+        "num": 158998,
+        "word": "大学生月薪18000住家保姆的一天",
+        "onboard_time": 1753575261,
+        "rank": 21,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 144018,
+        "num": 144018,
+        "word": "为什么有人出汗后特别酸臭",
+        "onboard_time": 1753578322,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135627,
+        "num": 135627,
+        "word": "鼠尿病",
+        "onboard_time": 1753583902,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123112,
+        "num": 123112,
+        "word": "汪苏泷被导演做局了",
+        "onboard_time": 1753571839,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120564,
+        "num": 120564,
+        "word": "三伏天6大减肥邪修",
+        "onboard_time": 1753576822,
+        "rank": 25,
+        "category": "运动健身,休闲"
+      },
+      {
+        "raw_hot": 119121,
+        "num": 119121,
+        "word": "直击北京洪水",
+        "onboard_time": 1753583722,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115660,
+        "num": 115660,
+        "word": "Jennie纯欲的神",
+        "onboard_time": 1753583841,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58630,
+        "num": 108131,
+        "word": "越南倾覆游船确认39人死亡",
+        "onboard_time": 1753584201,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107854,
+        "num": 107854,
+        "word": "rapeter歌词里有严浩翔",
+        "onboard_time": 1753584081,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107063,
+        "num": 107063,
+        "word": "樊振东再谈退出世界排名",
+        "onboard_time": 1753583601,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104945,
+        "num": 104945,
+        "word": "终于有人把考公考编区别讲明白了",
+        "onboard_time": 1753575500,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99089,
+        "num": 99089,
+        "word": "潘展乐点赞蔡徐坤deadman视频",
+        "onboard_time": 1753572377,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 97529,
+        "num": 97529,
+        "word": "贺峻霖老师澄清贺峻霖保研",
+        "onboard_time": 1753581202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97038,
+        "num": 97038,
+        "word": "bin败如shadow",
+        "onboard_time": 1753584140,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96998,
+        "num": 96998,
+        "word": "没有脚踝是一件挺不性感的事",
+        "onboard_time": 1753575801,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92767,
+        "num": 92767,
+        "word": "10余省区市大到暴雨",
+        "onboard_time": 1753576580,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90551,
+        "num": 90551,
+        "word": "国外很贵国内却很便宜的东西",
+        "onboard_time": 1753572558,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83730,
+        "num": 83730,
+        "word": "23岁男子疑因未洗罐装饮料染病身亡",
+        "onboard_time": 1753578202,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77237,
+        "num": 81903,
+        "word": "平台显示不可退的电影票其实都能退",
+        "onboard_time": 1753584261,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81068,
+        "num": 81068,
+        "word": "QQ你对我意见很大吗",
+        "onboard_time": 1753575560,
+        "rank": 40,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 80234,
+        "num": 80234,
+        "word": "敖瑞鹏哭戏",
+        "onboard_time": 1753582102,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78376,
+        "num": 78376,
+        "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+        "onboard_time": 1753543405,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77838,
+        "num": 77838,
+        "word": "警方拦截违规运猫车救下900余只猫",
+        "onboard_time": 1753583361,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77277,
+        "num": 77277,
+        "word": "狗 为了你我变成狼人模样",
+        "onboard_time": 1753579821,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77117,
+        "num": 77117,
+        "word": "花千骨和三生三世十里桃花哪个更爆",
+        "onboard_time": 1753533985,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77089,
+        "num": 77089,
+        "word": "糊涂家长下猛药女婴被喂出肝衰竭",
+        "onboard_time": 1753547543,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77084,
+        "num": 77084,
+        "word": "北京密云区暴雨红色预警",
+        "onboard_time": 1753572318,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76244,
+        "num": 76244,
+        "word": "李炜 版权可聊",
+        "onboard_time": 1753543286,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75807,
+        "num": 75807,
+        "word": "成都世运会到底是个什么会",
+        "onboard_time": 1753583421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
