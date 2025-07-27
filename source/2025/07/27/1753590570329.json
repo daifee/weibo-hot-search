@@ -1,0 +1,410 @@
+{
+  "runTime": 1753590570329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2036157,
+        "num": 2036157,
+        "word": "警方辟谣释永信携带34人潜逃",
+        "onboard_time": 1753588522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1828728,
+        "num": 1828728,
+        "word": "鼠尿病",
+        "onboard_time": 1753583902,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51384,
+        "num": 1004396,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 943258,
+        "num": 943258,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1753577781,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 609125,
+        "num": 609125,
+        "word": "王牌对王牌直播",
+        "onboard_time": 1753585762,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 842726,
+        "num": 582397,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553174,
+        "num": 553174,
+        "word": "蜜雪冰城冰淇淋 化得快",
+        "onboard_time": 1753587681,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 467844,
+        "num": 467844,
+        "word": "在深圳赶海捡到了波士顿大龙虾",
+        "onboard_time": 1753588342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414382,
+        "num": 414382,
+        "word": "全球已近30万人感染基孔肯雅热",
+        "onboard_time": 1753582400,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335838,
+        "num": 335838,
+        "word": "吉克隽逸隔空喊话汪苏泷",
+        "onboard_time": 1753589002,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 624931,
+        "num": 335742,
+        "word": "不体面却高薪的工作",
+        "onboard_time": 1753584560,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110025,
+        "num": 332161,
+        "word": "奥运前郑钦文看了刘翔的夺冠瞬间",
+        "onboard_time": 1753589841,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340695,
+        "num": 331342,
+        "word": "董璇张维伊 黄牛变爱人",
+        "onboard_time": 1753588641,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328809,
+        "num": 328809,
+        "word": "突然意识到1万块这么有质感",
+        "onboard_time": 1753575020,
+        "rank": 13,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 264004,
+        "num": 264004,
+        "word": "王牌对王牌",
+        "onboard_time": 1753573579,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259783,
+        "num": 259783,
+        "word": "白鹿为赵晴新剧做宣传",
+        "onboard_time": 1753589242,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251521,
+        "num": 251521,
+        "word": "少林寺",
+        "onboard_time": 1753585762,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250887,
+        "num": 250887,
+        "word": "凡人修仙传",
+        "onboard_time": 1753574060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215666,
+        "num": 215666,
+        "word": "章若楠完全是按照视觉爽点长的",
+        "onboard_time": 1753588522,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215370,
+        "num": 215370,
+        "word": "一家六口空调房内煲糖水4人中毒",
+        "onboard_time": 1753581261,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200849,
+        "num": 200849,
+        "word": "凡人修仙传26广开播",
+        "onboard_time": 1753590143,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184077,
+        "num": 184077,
+        "word": "印度1岁男童徒手将眼镜蛇撕成两半",
+        "onboard_time": 1753590020,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171233,
+        "num": 171233,
+        "word": "迪丽热巴台词爆发力",
+        "onboard_time": 1753589601,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168832,
+        "num": 168832,
+        "word": "演唱会和自担吵架是什么体验",
+        "onboard_time": 1753580901,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168247,
+        "num": 168247,
+        "word": "朝雪录今日大结局",
+        "onboard_time": 1753589181,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164588,
+        "num": 164588,
+        "word": "王牌对王牌9",
+        "onboard_time": 1753590201,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161895,
+        "num": 161895,
+        "word": "印度一800年历史神庙曝出惊天大案",
+        "onboard_time": 1753577901,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161173,
+        "num": 161173,
+        "word": "地球超新鲜",
+        "onboard_time": 1753589601,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157422,
+        "num": 157422,
+        "word": "百香果果然还在磨合期",
+        "onboard_time": 1753588462,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156224,
+        "num": 156224,
+        "word": "王一博电影热烈获新奖项",
+        "onboard_time": 1753589721,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148147,
+        "num": 148147,
+        "word": "张靓颖穿了一身蝴蝶在身上",
+        "onboard_time": 1753587802,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147825,
+        "num": 147825,
+        "word": "现在的女装是不是对宽松有什么误解",
+        "onboard_time": 1753587561,
+        "rank": 31,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 143541,
+        "num": 143541,
+        "word": "高钾晚餐能让人睡得更香",
+        "onboard_time": 1753579942,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139217,
+        "num": 139217,
+        "word": "朝雪录",
+        "onboard_time": 1753572857,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139002,
+        "num": 139002,
+        "word": "樊振东3比0陈垣宇",
+        "onboard_time": 1753588702,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138590,
+        "num": 138590,
+        "word": "直击北京洪水",
+        "onboard_time": 1753583722,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131902,
+        "num": 131902,
+        "word": "樊振东10战10胜最满意把控力",
+        "onboard_time": 1753585523,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131599,
+        "num": 131599,
+        "word": "Rapeter不辜负严浩翔万妮达",
+        "onboard_time": 1753590262,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131536,
+        "num": 131536,
+        "word": "刘昊然全程严肃的一场采访",
+        "onboard_time": 1753586842,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129783,
+        "num": 129783,
+        "word": "凡人修仙传大道三千版预告",
+        "onboard_time": 1753588942,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127982,
+        "num": 127982,
+        "word": "孟子义这段看一遍得笑十遍",
+        "onboard_time": 1753590381,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125888,
+        "num": 125888,
+        "word": "多所高校宣布延长研究生学制",
+        "onboard_time": 1753577481,
+        "rank": 41,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 124926,
+        "num": 124926,
+        "word": "Jennie纯欲的神",
+        "onboard_time": 1753583841,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117395,
+        "num": 117395,
+        "word": "锤娜丽莎还给周深7个感叹号",
+        "onboard_time": 1753586362,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106221,
+        "num": 116679,
+        "word": "未录取通知书",
+        "onboard_time": 1753590020,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124458,
+        "num": 116517,
+        "word": "孟子义原始帧好强的破碎感",
+        "onboard_time": 1753589543,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116025,
+        "num": 116025,
+        "word": "丁程鑫脖子上有唇印",
+        "onboard_time": 1753538486,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114909,
+        "num": 114909,
+        "word": "新说唱这把披哥大战浪姐",
+        "onboard_time": 1753590262,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112782,
+        "num": 112782,
+        "word": "张靓颖有意见憋着吧",
+        "onboard_time": 1753584622,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112152,
+        "num": 112152,
+        "word": "月薪1w一年能存下6万",
+        "onboard_time": 1753585762,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}

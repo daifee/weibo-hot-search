@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/27 12:11:12
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/27 12:29:30
 </p>
 </blockquote>
 <p>
@@ -669,6 +669,12 @@ Grace淘汰（热度：2072748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%90%BA%E5%B8%A634%E4%BA%BA%E6%BD%9C%E9%80%83%23" target="weibo">
+警方辟谣释永信携带34人潜逃（热度：2036157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8E%E5%8E%A8%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
 天水幼儿园后厨监控视频曝光（热度：2017058）
 </a>
@@ -825,6 +831,12 @@ ALin 马嘉祺我爱他（热度：1844730）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%B0%BF%E7%97%85%23" target="weibo">
+鼠尿病（热度：1828728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%B7%B2%E5%BC%80%E5%A7%8B%E8%A3%85%E7%A9%BA%E8%B0%83%23" target="weibo">
 青岛大学已开始装空调（热度：1822812）
 </a>
@@ -953,12 +965,6 @@ X玖少年团发文（热度：1805253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%23" target="weibo">
 上海交大（热度：1743131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%B0%BF%E7%97%85%23" target="weibo">
-鼠尿病（热度：1743069）
 </a>
 </li>
 
@@ -1535,12 +1541,6 @@ K1373没达到破窗应急预案紧急程度（热度：1514321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D%E5%85%A8%E5%BC%80%E9%BA%A6%23" target="weibo">
 梓渝全开麦（热度：1423649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%90%BA%E5%B8%A634%E4%BA%BA%E6%BD%9C%E9%80%83%23" target="weibo">
-警方辟谣释永信携带34人潜逃（热度：1420428）
 </a>
 </li>
 

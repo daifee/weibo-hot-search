@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753589472833,
+  "endTime": 1753590570329,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -875,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2036157,
+      "num": 2036157,
+      "word": "警方辟谣释永信携带34人潜逃",
+      "onboard_time": 1753588522,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2017058,
       "num": 298890,
       "word": "天水幼儿园后厨监控视频曝光",
@@ -1083,6 +1091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1828728,
+      "num": 1828728,
+      "word": "鼠尿病",
+      "onboard_time": 1753583902,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1822812,
       "num": 1822812,
       "word": "青岛大学已开始装空调",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1751427141,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1743069,
-      "num": 1743069,
-      "word": "鼠尿病",
-      "onboard_time": 1753583902,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1742226,
@@ -2033,14 +2041,6 @@
       "onboard_time": 1753019605,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1420428,
-      "num": 1420428,
-      "word": "警方辟谣释永信携带34人潜逃",
-      "onboard_time": 1753588522,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1419413,
@@ -9539,6 +9539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609125,
+      "num": 609125,
+      "word": "王牌对王牌直播",
+      "onboard_time": 1753585762,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608668,
       "num": 608668,
       "word": "幽门螺旋杆菌",
@@ -10243,14 +10251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 578091,
-      "num": 578091,
-      "word": "王牌对王牌直播",
-      "onboard_time": 1753585762,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 577758,
       "num": 252391,
       "word": "GAI表情",
@@ -10859,6 +10859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 553174,
+      "num": 553174,
+      "word": "蜜雪冰城冰淇淋 化得快",
+      "onboard_time": 1753587681,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 552232,
       "num": 402193,
       "word": "田栩宁栩宁摇",
@@ -11337,14 +11345,6 @@
       "onboard_time": 1753076240,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 534121,
-      "num": 534121,
-      "word": "蜜雪冰城冰淇淋 化得快",
-      "onboard_time": 1753587681,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 533989,
@@ -13227,6 +13227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467844,
+      "num": 467844,
+      "word": "在深圳赶海捡到了波士顿大龙虾",
+      "onboard_time": 1753588342,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467805,
       "num": 467805,
       "word": "顾客称吃苏州糖水发现餐具内增高",
@@ -14889,14 +14897,6 @@
       "onboard_time": 1752031763,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419675,
-      "num": 419675,
-      "word": "在深圳赶海捡到了波士顿大龙虾",
-      "onboard_time": 1753588342,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 419297,
@@ -18291,6 +18291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340695,
+      "num": 331342,
+      "word": "董璇张维伊 黄牛变爱人",
+      "onboard_time": 1753588641,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340496,
       "num": 340496,
       "word": "杨紫 我俩现在多工业糖精",
@@ -18561,6 +18569,14 @@
       "onboard_time": 1752414804,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335838,
+      "num": 335838,
+      "word": "吉克隽逸隔空喊话汪苏泷",
+      "onboard_time": 1753589002,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 335773,
@@ -24003,6 +24019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 259783,
+      "num": 259783,
+      "word": "白鹿为赵晴新剧做宣传",
+      "onboard_time": 1753589242,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259644,
       "num": 259644,
       "word": "男子开车看手机致车辆失控3死3伤",
@@ -25537,14 +25561,6 @@
       "onboard_time": 1751971582,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 242749,
-      "num": 242749,
-      "word": "董璇张维伊 黄牛变爱人",
-      "onboard_time": 1753588641,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 242676,
@@ -28723,6 +28739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215666,
+      "num": 215666,
+      "word": "章若楠完全是按照视觉爽点长的",
+      "onboard_time": 1753588522,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215656,
       "num": 215656,
       "word": "邓佳鑫生日直播",
@@ -30129,14 +30153,6 @@
       "onboard_time": 1752209483,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208552,
-      "num": 234568,
-      "word": "白鹿为赵晴新剧做宣传",
-      "onboard_time": 1753589242,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 208530,
@@ -32033,6 +32049,14 @@
       "onboard_time": 1753236621,
       "rank": 9,
       "category": "国际时政,健康医疗"
+    },
+    {
+      "raw_hot": 200849,
+      "num": 200849,
+      "word": "凡人修仙传26广开播",
+      "onboard_time": 1753590143,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 200828,
@@ -36803,6 +36827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184077,
+      "num": 184077,
+      "word": "印度1岁男童徒手将眼镜蛇撕成两半",
+      "onboard_time": 1753590020,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 184063,
       "num": 184063,
       "word": "中国旅游大巴再遭零元购",
@@ -39907,14 +39939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 173329,
-      "num": 173329,
-      "word": "吉克隽逸隔空喊话汪苏泷",
-      "onboard_time": 1753589002,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 173276,
       "num": 173276,
       "word": "一人一句祝福伟大的党伟大的祖国",
@@ -40585,6 +40609,14 @@
       "onboard_time": 1753342766,
       "rank": 31,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 171233,
+      "num": 171233,
+      "word": "迪丽热巴台词爆发力",
+      "onboard_time": 1753589601,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 171225,
@@ -42571,6 +42603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164588,
+      "num": 164588,
+      "word": "王牌对王牌9",
+      "onboard_time": 1753590201,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164572,
       "num": 164572,
       "word": "靳梦佳好适合上恋综",
@@ -43688,6 +43728,14 @@
       "word": "马丽字字不提沈腾句句是沈腾",
       "onboard_time": 1753513041,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161173,
+      "num": 161173,
+      "word": "地球超新鲜",
+      "onboard_time": 1752725242,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -45449,6 +45497,14 @@
       "onboard_time": 1752062243,
       "rank": 32,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 156224,
+      "num": 156224,
+      "word": "王一博电影热烈获新奖项",
+      "onboard_time": 1753589721,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 156207,
@@ -48776,14 +48832,6 @@
       "word": "沈腾龚俊好糟糕的姿势",
       "onboard_time": 1752301760,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 147531,
-      "num": 147531,
-      "word": "地球超新鲜",
-      "onboard_time": 1752725242,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -55875,6 +55923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131599,
+      "num": 131599,
+      "word": "Rapeter不辜负严浩翔万妮达",
+      "onboard_time": 1753590262,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131592,
       "num": 131592,
       "word": "陈楚生句句都在刀我",
@@ -56721,6 +56777,14 @@
       "onboard_time": 1751433562,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129783,
+      "num": 129783,
+      "word": "凡人修仙传大道三千版预告",
+      "onboard_time": 1753588942,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 129674,
@@ -57633,6 +57697,14 @@
       "onboard_time": 1752765082,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127982,
+      "num": 127982,
+      "word": "孟子义这段看一遍得笑十遍",
+      "onboard_time": 1753590381,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 127963,
@@ -59465,6 +59537,14 @@
       "onboard_time": 1751949864,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124458,
+      "num": 116517,
+      "word": "孟子义原始帧好强的破碎感",
+      "onboard_time": 1753589543,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 124455,
@@ -63267,6 +63347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117395,
+      "num": 117395,
+      "word": "锤娜丽莎还给周深7个感叹号",
+      "onboard_time": 1753586362,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117393,
       "num": 117393,
       "word": "年轮争原唱是落入了话题陷阱",
@@ -64691,11 +64779,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114906,
-      "num": 114906,
-      "word": "锤娜丽莎还给周深7个感叹号",
-      "onboard_time": 1753586362,
-      "rank": 41,
+      "raw_hot": 114909,
+      "num": 114909,
+      "word": "新说唱这把披哥大战浪姐",
+      "onboard_time": 1753590262,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -65827,14 +65915,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 112809,
-      "num": 112809,
-      "word": "凡人修仙传大道三千版预告",
-      "onboard_time": 1753588942,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112803,
       "num": 112803,
       "word": "黄誉博郑伟旅行后疑似绝交",
@@ -66185,6 +66265,14 @@
       "onboard_time": 1753408341,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112152,
+      "num": 112152,
+      "word": "月薪1w一年能存下6万",
+      "onboard_time": 1753585762,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 112151,
@@ -67241,6 +67329,14 @@
       "onboard_time": 1751692822,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110025,
+      "num": 332161,
+      "word": "奥运前郑钦文看了刘翔的夺冠瞬间",
+      "onboard_time": 1753589841,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 110001,
@@ -68411,14 +68507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107491,
-      "num": 107491,
-      "word": "月薪1w一年能存下6万",
-      "onboard_time": 1753585762,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107484,
       "num": 107484,
       "word": "小米深圳大厦即将开园",
@@ -69089,6 +69177,14 @@
       "onboard_time": 1752668004,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106221,
+      "num": 116679,
+      "word": "未录取通知书",
+      "onboard_time": 1753590020,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 106220,
@@ -79329,14 +79425,6 @@
       "onboard_time": 1751719282,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66645,
-      "num": 117709,
-      "word": "章若楠完全是按照视觉爽点长的",
-      "onboard_time": 1753588522,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 66546,
