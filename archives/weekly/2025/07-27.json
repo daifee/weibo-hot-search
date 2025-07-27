@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753648186684,
+  "endTime": 1753649042927,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -3915,6 +3915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34940,
+      "num": 38549,
+      "word": "汪苏泷你得香成啥样了",
+      "onboard_time": 1753642994,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34881,
       "num": 192715,
       "word": "北京暴雨村民独守危险路段一整夜",
@@ -3937,14 +3945,6 @@
       "onboard_time": 1753600524,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32912,
-      "num": 38549,
-      "word": "汪苏泷你得香成啥样了",
-      "onboard_time": 1753642994,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 31624,
@@ -4083,12 +4083,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19553,
+      "raw_hot": 19728,
       "num": 26078,
       "word": "广东累计报告4824例基孔肯雅热",
       "onboard_time": 1753644135,
       "rank": 48,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 19157,
+      "num": 21529,
+      "word": "汪苏泷丝绒西装造型像是来结婚的",
+      "onboard_time": 1753648934,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 18677,
@@ -4097,6 +4105,14 @@
       "onboard_time": 1753584442,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17473,
+      "num": 19699,
+      "word": "29岁视网膜脱落的真实经历",
+      "onboard_time": 1753648273,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15754,
@@ -4115,12 +4131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10154,
+      "raw_hot": 11816,
       "num": 38177,
       "word": "南京今昔对比看得泪目",
       "onboard_time": 1753647554,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9701,
+      "num": 25728,
+      "word": "感染基孔肯雅热禁用阿司匹林",
+      "onboard_time": 1753648873,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 4536,
