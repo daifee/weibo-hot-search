@@ -1,0 +1,410 @@
+{
+  "runTime": 1753634916511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2273237,
+        "num": 2273237,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579290,
+        "num": 579290,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1734,
+        "num": 510403,
+        "word": "数智新时代电商新价值",
+        "onboard_time": 1753506922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073012,
+        "num": 507469,
+        "word": "国外司机与13岁巴士迷车内发生关系",
+        "onboard_time": 1753632383,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 464314,
+        "num": 464314,
+        "word": "鸠摩智扮演者回应",
+        "onboard_time": 1753627826,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327245,
+        "num": 327245,
+        "word": "鹿晗扫腿舞星奇摇",
+        "onboard_time": 1753631123,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320424,
+        "num": 320424,
+        "word": "释永信育有私生子",
+        "onboard_time": 1753621046,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315577,
+        "num": 315577,
+        "word": "女子同情老人加价收购知了壳反遭骗",
+        "onboard_time": 1753632623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205505,
+        "num": 310965,
+        "word": "沈佳润写了美美桑内中文版歌词",
+        "onboard_time": 1753622425,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127159,
+        "num": 307000,
+        "word": "加沙5个月婴儿死亡时比出生时还轻",
+        "onboard_time": 1753620205,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1043908,
+        "num": 299762,
+        "word": "释永信老婆",
+        "onboard_time": 1753628784,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568781,
+        "num": 288867,
+        "word": "释延鲁",
+        "onboard_time": 1753628784,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358945,
+        "num": 283039,
+        "word": "生理期真正不能做的10件事",
+        "onboard_time": 1753626686,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190934,
+        "num": 279101,
+        "word": "释永信涉嫌刑事犯罪",
+        "onboard_time": 1753618882,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275037,
+        "num": 275037,
+        "word": "鹿晗金宣虎笑",
+        "onboard_time": 1753628784,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257050,
+        "num": 257050,
+        "word": "车银优寸头",
+        "onboard_time": 1753621886,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236732,
+        "num": 236732,
+        "word": "居然之家",
+        "onboard_time": 1753631185,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196364,
+        "num": 196364,
+        "word": "许嵩哭了",
+        "onboard_time": 1753629026,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53082,
+        "num": 195473,
+        "word": "广东疾控回应基孔肯雅热交叉感染",
+        "onboard_time": 1753626024,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 435339,
+        "num": 185385,
+        "word": "宁宁",
+        "onboard_time": 1753628304,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267647,
+        "num": 181820,
+        "word": "李小冉把何炅微信删了",
+        "onboard_time": 1753596023,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238351,
+        "num": 175628,
+        "word": "印度女子昏迷在救护车遭轮奸",
+        "onboard_time": 1753612821,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174409,
+        "num": 174409,
+        "word": "金泫雅更新ins",
+        "onboard_time": 1753622845,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157054,
+        "num": 157054,
+        "word": "虞书欣工作室通知",
+        "onboard_time": 1753614023,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155283,
+        "num": 155283,
+        "word": "冰饮料 猝死",
+        "onboard_time": 1753596623,
+        "rank": 24,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 135042,
+        "num": 135042,
+        "word": "南京大屠杀幸存者后人在日本发声",
+        "onboard_time": 1753633401,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134339,
+        "num": 134339,
+        "word": "释永信涉嫌挪用侵占寺院资产",
+        "onboard_time": 1753621226,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132119,
+        "num": 133777,
+        "word": "王鹤棣咸鱼飞升无实物表演",
+        "onboard_time": 1753631305,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77948,
+        "num": 133757,
+        "word": "男子被人酒后捅伤致死遭保险拒赔",
+        "onboard_time": 1753630764,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133756,
+        "num": 133756,
+        "word": "柳智敏上海",
+        "onboard_time": 1753627045,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132177,
+        "num": 132177,
+        "word": "张碧晨年轮海外版权受限",
+        "onboard_time": 1753604002,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131267,
+        "num": 131267,
+        "word": "鸠摩智",
+        "onboard_time": 1753631064,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119105,
+        "num": 119105,
+        "word": "凡人修仙传首播口碑",
+        "onboard_time": 1753613061,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115995,
+        "num": 115995,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1753629624,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113217,
+        "num": 113217,
+        "word": "央视曝光私域直播坑老骗局",
+        "onboard_time": 1753629446,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102377,
+        "num": 102377,
+        "word": "李小冉说一路繁花塌的也不是我",
+        "onboard_time": 1753619485,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100367,
+        "num": 100367,
+        "word": "少林景区将全面实行线上预约购票",
+        "onboard_time": 1753632444,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97783,
+        "num": 97783,
+        "word": "台风",
+        "onboard_time": 1753630105,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97431,
+        "num": 97431,
+        "word": "韩国热到冰美式都不冰了",
+        "onboard_time": 1753629206,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97095,
+        "num": 97095,
+        "word": "赵今麦健身",
+        "onboard_time": 1753620326,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95606,
+        "num": 95606,
+        "word": "她一次性做了我一辈子的工作",
+        "onboard_time": 1753610302,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94356,
+        "num": 94356,
+        "word": "10号台风白鹿即将生成或直奔江浙沪",
+        "onboard_time": 1753618343,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88893,
+        "num": 88893,
+        "word": "毕雯珺好帅",
+        "onboard_time": 1753626266,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83125,
+        "num": 83125,
+        "word": "偶遇李冰冰管乐手挽手看舞剧",
+        "onboard_time": 1753627885,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77631,
+        "num": 77631,
+        "word": "寺内外一切合作都由释永信拍板",
+        "onboard_time": 1753629145,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74893,
+        "num": 74893,
+        "word": "Faker与T1续约四年",
+        "onboard_time": 1753622966,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73295,
+        "num": 73295,
+        "word": "廉价版ModelY车型内饰首曝",
+        "onboard_time": 1753623626,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64609,
+        "num": 64609,
+        "word": "车银优明天入伍",
+        "onboard_time": 1753632742,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63733,
+        "num": 63733,
+        "word": "杨洋不油了",
+        "onboard_time": 1753602623,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60685,
+        "num": 60685,
+        "word": "沉海500年的文物出水惊艳了",
+        "onboard_time": 1753634839,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
