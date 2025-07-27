@@ -1,0 +1,410 @@
+{
+  "runTime": 1753620792774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14210235,
+        "num": 14210235,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4297177,
+        "num": 4297177,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3923,
+        "num": 990674,
+        "word": "数智新时代电商新价值",
+        "onboard_time": 1753506922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884226,
+        "num": 884226,
+        "word": "冰饮料 猝死",
+        "onboard_time": 1753596623,
+        "rank": 3,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 672269,
+        "num": 672269,
+        "word": "释永信涉嫌刑事犯罪",
+        "onboard_time": 1753618882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537681,
+        "num": 537681,
+        "word": "10号台风白鹿即将生成或直奔江浙沪",
+        "onboard_time": 1753618343,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503472,
+        "num": 503472,
+        "word": "凡人修仙传首播口碑",
+        "onboard_time": 1753613061,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328197,
+        "num": 445423,
+        "word": "王玉雯大大方方的一辈子",
+        "onboard_time": 1753611623,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154187,
+        "num": 441876,
+        "word": "我国成功发射一箭5星",
+        "onboard_time": 1753619845,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 438407,
+        "num": 438407,
+        "word": "12306回应乘客高铁打7小时电话争议",
+        "onboard_time": 1753612942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657485,
+        "num": 437746,
+        "word": "她一次性做了我一辈子的工作",
+        "onboard_time": 1753610302,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627869,
+        "num": 437632,
+        "word": "虞书欣工作室通知",
+        "onboard_time": 1753614023,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434779,
+        "num": 434779,
+        "word": "李小冉说一路繁花塌的也不是我",
+        "onboard_time": 1753619485,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395445,
+        "num": 395445,
+        "word": "赵今麦健身",
+        "onboard_time": 1753620326,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369056,
+        "num": 369056,
+        "word": "鹿晗腹肌",
+        "onboard_time": 1753619365,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311746,
+        "num": 311746,
+        "word": "朝雪录热度",
+        "onboard_time": 1753618585,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325229,
+        "num": 310430,
+        "word": "井柏然刘雯两眼一睁就是被偶遇",
+        "onboard_time": 1753618102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304225,
+        "num": 304225,
+        "word": "网友吐槽8小时高铁乘客打电话7小时",
+        "onboard_time": 1753610543,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267204,
+        "num": 267204,
+        "word": "李昀锐被电动车烫到屁股了",
+        "onboard_time": 1753613962,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251359,
+        "num": 251359,
+        "word": "释永信最后一次公开露面",
+        "onboard_time": 1753608322,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115011,
+        "num": 250737,
+        "word": "香港警方披露酒店4尸案详情",
+        "onboard_time": 1753617982,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810563,
+        "num": 248044,
+        "word": "李小冉把何炅微信删了",
+        "onboard_time": 1753596023,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783680,
+        "num": 247613,
+        "word": "印度女子昏迷在救护车遭轮奸",
+        "onboard_time": 1753612821,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 416630,
+        "num": 245712,
+        "word": "张碧晨年轮海外版权受限",
+        "onboard_time": 1753604002,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244540,
+        "num": 244540,
+        "word": "海飞丝 张康乐",
+        "onboard_time": 1753620565,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 378406,
+        "num": 244365,
+        "word": "杨洋不油了",
+        "onboard_time": 1753602623,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223001,
+        "num": 244086,
+        "word": "阮经天不能撞衫的原因",
+        "onboard_time": 1753618945,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186205,
+        "num": 243578,
+        "word": "杨洋 人系帅哥",
+        "onboard_time": 1753619065,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154286,
+        "num": 243273,
+        "word": "李宇春是陈粒演唱会惊喜嘉宾",
+        "onboard_time": 1753620087,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101063,
+        "num": 242866,
+        "word": "央视揭互联网保险藏暗礁",
+        "onboard_time": 1753612522,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 242680,
+        "num": 242680,
+        "word": "蜜雪冰城客服回应冰淇淋融化快",
+        "onboard_time": 1753605383,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225263,
+        "num": 225263,
+        "word": "东营震感",
+        "onboard_time": 1753615764,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 217180,
+        "num": 217180,
+        "word": "三宝说孙俪不是一个好演员",
+        "onboard_time": 1753604603,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216655,
+        "num": 216655,
+        "word": "林允老钱度假风",
+        "onboard_time": 1753619304,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202021,
+        "num": 202021,
+        "word": "仙逆王林",
+        "onboard_time": 1753612883,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180098,
+        "num": 180098,
+        "word": "BBC有史以来最真实的报道之一",
+        "onboard_time": 1753615522,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171009,
+        "num": 171009,
+        "word": "陈梦否认已结婚领证",
+        "onboard_time": 1753604842,
+        "rank": 36,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 166885,
+        "num": 166885,
+        "word": "加沙5个月婴儿死亡时比出生时还轻",
+        "onboard_time": 1753620205,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161983,
+        "num": 161983,
+        "word": "闪耀暖暖",
+        "onboard_time": 1753616962,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161601,
+        "num": 161601,
+        "word": "樊振东vs松岛辉空",
+        "onboard_time": 1753614322,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148252,
+        "num": 148252,
+        "word": "考试院回应考生被厦大马来分校误录",
+        "onboard_time": 1753620625,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148179,
+        "num": 148179,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753613482,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148055,
+        "num": 148055,
+        "word": "aespa新歌",
+        "onboard_time": 1753619785,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146515,
+        "num": 146515,
+        "word": "游泳世锦赛",
+        "onboard_time": 1753617203,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144982,
+        "num": 144982,
+        "word": "樊振东这个救球引起哇声一片",
+        "onboard_time": 1753620386,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144308,
+        "num": 144308,
+        "word": "多名女性称曾遭同一面试官施暴",
+        "onboard_time": 1753606223,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142925,
+        "num": 142925,
+        "word": "香港一酒店有男子坠亡妻儿死在房内",
+        "onboard_time": 1753614083,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141974,
+        "num": 141974,
+        "word": "产后三年这肚皮再也回不去了",
+        "onboard_time": 1753614562,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140316,
+        "num": 140316,
+        "word": "babymonster舞台",
+        "onboard_time": 1753619184,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136785,
+        "num": 136785,
+        "word": "王曼昱vs陈熠",
+        "onboard_time": 1753616663,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}

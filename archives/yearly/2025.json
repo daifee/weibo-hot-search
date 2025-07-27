@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753616329170,
+  "endTime": 1753620792774,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -393,6 +393,14 @@
       "onboard_time": 1738985241,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14210235,
+      "num": 14210235,
+      "word": "少林寺住持释永信被查",
+      "onboard_time": 1753618643,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14139204,
@@ -1971,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4297177,
+      "num": 4297177,
+      "word": "释永信与多名女性保持不正当关系",
+      "onboard_time": 1753618822,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4294334,
       "num": 4294334,
       "word": "汪小菲抖音账号被无限期封禁",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1737798499,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3757305,
-      "num": 3757305,
-      "word": "徐大久称演员星星已进入园区",
-      "onboard_time": 1736136505,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3750083,
-      "num": 3750083,
-      "word": "周六 不出门",
-      "onboard_time": 1744287502,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,23 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753616329170,
+  "endTime": 1753620792774,
   "band_list": [
+    {
+      "raw_hot": 14210235,
+      "num": 14210235,
+      "word": "少林寺住持释永信被查",
+      "onboard_time": 1753618643,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4297177,
+      "num": 4297177,
+      "word": "释永信与多名女性保持不正当关系",
+      "onboard_time": 1753618822,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2420501,
       "num": 2420501,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1792652,
-      "num": 864988,
+      "num": 884226,
       "word": "冰饮料 猝死",
       "onboard_time": 1753596623,
       "rank": 3,
@@ -163,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783680,
+      "num": 346800,
+      "word": "印度女子昏迷在救护车遭轮奸",
+      "onboard_time": 1753612821,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 782872,
       "num": 782872,
       "word": "王牌对王牌直播",
@@ -235,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672269,
+      "num": 672269,
+      "word": "释永信涉嫌刑事犯罪",
+      "onboard_time": 1753618882,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660756,
       "num": 462414,
       "word": "未录取通知书",
       "onboard_time": 1753590020,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 657485,
+      "num": 437746,
+      "word": "她一次性做了我一辈子的工作",
+      "onboard_time": 1753610302,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 633611,
@@ -259,6 +299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 627869,
+      "num": 437632,
+      "word": "虞书欣工作室通知",
+      "onboard_time": 1753614023,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626337,
       "num": 626337,
       "word": "26岁女干部当选全国重点镇副镇长",
@@ -275,36 +323,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 620207,
-      "num": 359774,
-      "word": "她一次性做了我一辈子的工作",
-      "onboard_time": 1753610302,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 604810,
       "num": 604810,
       "word": "蜜雪冰城客服回应冰淇淋融化快",
       "onboard_time": 1753605383,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 603333,
-      "num": 359295,
-      "word": "虞书欣工作室通知",
-      "onboard_time": 1753614023,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 583680,
-      "num": 346800,
-      "word": "印度女子昏迷在救护车遭轮奸",
-      "onboard_time": 1753612821,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 553280,
@@ -329,6 +353,14 @@
       "onboard_time": 1753607603,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 537681,
+      "num": 537681,
+      "word": "10号台风白鹿即将生成或直奔江浙沪",
+      "onboard_time": 1753618343,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526406,
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 508708,
-      "num": 454535,
+      "num": 503472,
       "word": "凡人修仙传首播口碑",
       "onboard_time": 1753613061,
       "rank": 49,
@@ -427,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438407,
+      "num": 438407,
+      "word": "12306回应乘客高铁打7小时电话争议",
+      "onboard_time": 1753612942,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438017,
       "num": 438017,
       "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
       "onboard_time": 1753543405,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 434779,
+      "num": 434779,
+      "word": "李小冉说一路繁花塌的也不是我",
+      "onboard_time": 1753619485,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 426302,
@@ -515,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 395445,
+      "num": 395445,
+      "word": "赵今麦健身",
+      "onboard_time": 1753620326,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388414,
       "num": 388414,
       "word": "吉克隽逸隔空喊话汪苏泷",
@@ -579,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369056,
+      "num": 369056,
+      "word": "鹿晗腹肌",
+      "onboard_time": 1753619365,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354966,
       "num": 354966,
       "word": "仙逆王林",
@@ -619,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325229,
+      "num": 310430,
+      "word": "井柏然刘雯两眼一睁就是被偶遇",
+      "onboard_time": 1753618102,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317808,
       "num": 317808,
       "word": "最怕就是工作人员比艺人还大咖",
       "onboard_time": 1753603583,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311746,
+      "num": 311746,
+      "word": "朝雪录热度",
+      "onboard_time": 1753618585,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 308671,
@@ -715,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267204,
+      "num": 267204,
+      "word": "李昀锐被电动车烫到屁股了",
+      "onboard_time": 1753613962,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266563,
       "num": 266563,
       "word": "王牌第一期嘉宾吃席都要摆三桌",
@@ -753,6 +841,22 @@
       "onboard_time": 1753594462,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251359,
+      "num": 251359,
+      "word": "释永信最后一次公开露面",
+      "onboard_time": 1753608322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244540,
+      "num": 244540,
+      "word": "海飞丝 张康乐",
+      "onboard_time": 1753620565,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 241409,
@@ -803,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223001,
+      "num": 244086,
+      "word": "阮经天不能撞衫的原因",
+      "onboard_time": 1753618945,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221601,
       "num": 235796,
       "word": "医学生机舱救人被网友质疑风险极高",
@@ -827,20 +939,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 216655,
+      "num": 216655,
+      "word": "林允老钱度假风",
+      "onboard_time": 1753619304,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216048,
       "num": 216048,
       "word": "警方通报1名未成年人被6人殴打",
       "onboard_time": 1753604303,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215779,
-      "num": 215779,
-      "word": "李昀锐被电动车烫到屁股了",
-      "onboard_time": 1753613962,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 212906,
@@ -931,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195182,
-      "num": 195182,
-      "word": "释永信最后一次公开露面",
-      "onboard_time": 1753608322,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195021,
       "num": 195021,
       "word": "和平精英",
@@ -985,6 +1089,14 @@
       "onboard_time": 1753608502,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186205,
+      "num": 243578,
+      "word": "杨洋 人系帅哥",
+      "onboard_time": 1753619065,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 186125,
@@ -1049,6 +1161,14 @@
       "onboard_time": 1753611861,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180098,
+      "num": 180098,
+      "word": "BBC有史以来最真实的报道之一",
+      "onboard_time": 1753615522,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179695,
@@ -1211,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166885,
+      "num": 166885,
+      "word": "加沙5个月婴儿死亡时比出生时还轻",
+      "onboard_time": 1753620205,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166146,
       "num": 166146,
       "word": "张靓颖有意见憋着吧",
@@ -1315,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161983,
+      "num": 161983,
+      "word": "闪耀暖暖",
+      "onboard_time": 1753616962,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161480,
       "num": 161480,
       "word": "石宇奇赛季第四冠",
@@ -1403,12 +1539,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155503,
-      "num": 172284,
-      "word": "12306回应乘客高铁打7小时电话争议",
-      "onboard_time": 1753612942,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 154286,
+      "num": 243273,
+      "word": "李宇春是陈粒演唱会惊喜嘉宾",
+      "onboard_time": 1753620087,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 154187,
+      "num": 441876,
+      "word": "我国成功发射一箭5星",
+      "onboard_time": 1753619845,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 154022,
@@ -1539,11 +1683,35 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 148252,
+      "num": 148252,
+      "word": "考试院回应考生被厦大马来分校误录",
+      "onboard_time": 1753620625,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148055,
+      "num": 148055,
+      "word": "aespa新歌",
+      "onboard_time": 1753619785,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147149,
       "num": 147149,
       "word": "中国队0.06分险胜朝鲜队",
       "onboard_time": 1753608442,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146515,
+      "num": 146515,
+      "word": "游泳世锦赛",
+      "onboard_time": 1753617203,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1553,6 +1721,14 @@
       "onboard_time": 1753546164,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144982,
+      "num": 144982,
+      "word": "樊振东这个救球引起哇声一片",
+      "onboard_time": 1753620386,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 144848,
@@ -1611,20 +1787,20 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 142925,
+      "num": 312492,
+      "word": "香港一酒店有男子坠亡妻儿死在房内",
+      "onboard_time": 1753614083,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142531,
       "num": 142531,
       "word": "Jennie纯欲的神",
       "onboard_time": 1753583841,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142388,
-      "num": 312492,
-      "word": "香港一酒店有男子坠亡妻儿死在房内",
-      "onboard_time": 1753614083,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 142361,
@@ -1664,6 +1840,14 @@
       "word": "汪苏泷为了哄我什么都说的出来",
       "onboard_time": 1753597461,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 140316,
+      "num": 140316,
+      "word": "babymonster舞台",
+      "onboard_time": 1753619184,
+      "rank": 48,
       "category": "演出"
     },
     {
@@ -1713,6 +1897,14 @@
       "onboard_time": 1753606762,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136785,
+      "num": 136785,
+      "word": "王曼昱vs陈熠",
+      "onboard_time": 1753616663,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 136238,
@@ -2171,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115011,
+      "num": 250737,
+      "word": "香港警方披露酒店4尸案详情",
+      "onboard_time": 1753617982,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114909,
       "num": 114909,
       "word": "新说唱这把披哥大战浪姐",
@@ -2419,14 +2619,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 106121,
-      "num": 106121,
-      "word": "BBC有史以来最真实的报道之一",
-      "onboard_time": 1753615522,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104987,
       "num": 104987,
       "word": "作弊式赶海",
@@ -2489,6 +2681,14 @@
       "onboard_time": 1753579821,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101063,
+      "num": 317507,
+      "word": "央视揭互联网保险藏暗礁",
+      "onboard_time": 1753612522,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 101013,
@@ -2601,14 +2801,6 @@
       "onboard_time": 1753578202,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 89953,
-      "num": 317507,
-      "word": "央视揭互联网保险藏暗礁",
-      "onboard_time": 1753612522,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 89288,
@@ -3163,8 +3355,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3033,
-      "num": 697423,
+      "raw_hot": 3923,
+      "num": 990674,
       "word": "数智新时代电商新价值",
       "onboard_time": 1753506922,
       "rank": 42,
