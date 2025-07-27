@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753623396558,
+  "endTime": 1753624116181,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -65,6 +65,14 @@
       "onboard_time": 1753577781,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1479855,
+      "num": 578545,
+      "word": "车银优寸头",
+      "onboard_time": 1753621886,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1288910,
@@ -155,14 +163,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 862534,
-      "num": 398738,
-      "word": "车银优寸头",
-      "onboard_time": 1753621886,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 855944,
       "num": 792591,
       "word": "三宝说孙俪不是一个好演员",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 809110,
-      "num": 436672,
+      "num": 573596,
       "word": "赵今麦健身",
       "onboard_time": 1753620326,
       "rank": 13,
@@ -203,8 +203,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783944,
+      "num": 404999,
+      "word": "展轩",
+      "onboard_time": 1753622786,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 783680,
-      "num": 347678,
+      "num": 367353,
       "word": "印度女子昏迷在救护车遭轮奸",
       "onboard_time": 1753612821,
       "rank": 21,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 689395,
+      "num": 689395,
+      "word": "沈佳润写了美美桑内中文版歌词",
+      "onboard_time": 1753622425,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 681090,
       "num": 681090,
       "word": "一家六口空调房内煲糖水4人中毒",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 657485,
-      "num": 437746,
+      "num": 569119,
       "word": "她一次性做了我一辈子的工作",
       "onboard_time": 1753610302,
       "rank": 30,
@@ -363,20 +379,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 567184,
+      "num": 567184,
+      "word": "李小冉说一路繁花塌的也不是我",
+      "onboard_time": 1753619485,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553280,
       "num": 553280,
       "word": "全球已近30万人感染基孔肯雅热",
       "onboard_time": 1753582400,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 542038,
-      "num": 434779,
-      "word": "李小冉说一路繁花塌的也不是我",
-      "onboard_time": 1753619485,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 540114,
@@ -419,6 +435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 516018,
+      "num": 516018,
+      "word": "释永信涉嫌挪用侵占寺院资产",
+      "onboard_time": 1753621226,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510242,
       "num": 510242,
       "word": "樊振东vs松岛辉空",
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 508708,
-      "num": 503472,
+      "num": 590171,
       "word": "凡人修仙传首播口碑",
       "onboard_time": 1753613061,
       "rank": 49,
@@ -441,6 +465,14 @@
       "onboard_time": 1753590020,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 502404,
+      "num": 502404,
+      "word": "Faker与T1续约四年",
+      "onboard_time": 1753622966,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 483612,
@@ -507,14 +539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 437686,
-      "num": 439077,
-      "word": "释永信涉嫌挪用侵占寺院资产",
-      "onboard_time": 1753621226,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 426302,
       "num": 426302,
       "word": "汪苏泷终于唱了无名之辈",
@@ -577,14 +601,6 @@
       "onboard_time": 1753591462,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 404999,
-      "num": 404999,
-      "word": "展轩",
-      "onboard_time": 1753622786,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 404672,
@@ -651,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379170,
-      "num": 379170,
-      "word": "沈佳润写了美美桑内中文版歌词",
-      "onboard_time": 1753622425,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 376558,
       "num": 276974,
       "word": "马頔李纯 婚房",
@@ -681,6 +689,14 @@
       "onboard_time": 1753590143,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369131,
+      "num": 369131,
+      "word": "金泫雅更新ins",
+      "onboard_time": 1753622845,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 354966,
@@ -748,11 +764,19 @@
     },
     {
       "raw_hot": 311746,
-      "num": 311746,
+      "num": 422933,
       "word": "朝雪录热度",
       "onboard_time": 1753618585,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309958,
+      "num": 309958,
+      "word": "释永信10年前就曾被举报私生活混乱",
+      "onboard_time": 1753622786,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308671,
@@ -793,6 +817,14 @@
       "onboard_time": 1753620565,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 293957,
+      "num": 581636,
+      "word": "起底释永信和他的商业帝国",
+      "onboard_time": 1753622966,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288878,
@@ -891,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259851,
+      "num": 309383,
+      "word": "加沙5个月婴儿死亡时比出生时还轻",
+      "onboard_time": 1753620205,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "白鹿为赵晴新剧做宣传",
@@ -931,28 +971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230977,
-      "num": 242818,
-      "word": "加沙5个月婴儿死亡时比出生时还轻",
-      "onboard_time": 1753620205,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 230482,
       "num": 230482,
       "word": "男空乘厕所偷拍未成年女孩判18年",
       "onboard_time": 1753579581,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 230223,
-      "num": 230223,
-      "word": "Faker与T1续约四年",
-      "onboard_time": 1753622966,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 227972,
@@ -971,12 +995,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226099,
-      "num": 226099,
-      "word": "释永信10年前就曾被举报私生活混乱",
-      "onboard_time": 1753622786,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 224488,
+      "num": 305751,
+      "word": "鹿晗又扔戒指了",
+      "onboard_time": 1753623086,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 223660,
@@ -993,6 +1017,14 @@
       "onboard_time": 1753618945,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222883,
+      "num": 222883,
+      "word": "F1",
+      "onboard_time": 1753621226,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 221601,
@@ -1075,20 +1107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206749,
-      "num": 206749,
-      "word": "F1",
-      "onboard_time": 1753621226,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206613,
       "num": 206613,
       "word": "这才是真实的冷宫",
       "onboard_time": 1753614083,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203325,
+      "num": 203325,
+      "word": "廉价版ModelY车型内饰首曝",
+      "onboard_time": 1753623626,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 203261,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1753541247,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200488,
-      "num": 238800,
-      "word": "鹿晗又扔戒指了",
-      "onboard_time": 1753623086,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 199499,
@@ -1148,11 +1172,19 @@
     },
     {
       "raw_hot": 197832,
-      "num": 441876,
+      "num": 588880,
       "word": "我国成功发射一箭5星",
       "onboard_time": 1753619845,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 196088,
+      "num": 196088,
+      "word": "樊振东乒超13连胜",
+      "onboard_time": 1753622066,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 195021,
@@ -1299,20 +1331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179430,
-      "num": 179430,
-      "word": "樊振东乒超13连胜",
-      "onboard_time": 1753622066,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179158,
       "num": 179158,
       "word": "考试院回应考生被厦大马来分校误录",
       "onboard_time": 1753620625,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178035,
+      "num": 225001,
+      "word": "赵晴凡人修仙传状态",
+      "onboard_time": 1753622246,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 177260,
@@ -1385,14 +1417,6 @@
       "onboard_time": 1753593323,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173456,
-      "num": 174756,
-      "word": "金泫雅更新ins",
-      "onboard_time": 1753622845,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 173213,
@@ -1587,14 +1611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162537,
-      "num": 162537,
-      "word": "赵晴凡人修仙传状态",
-      "onboard_time": 1753622246,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "李兰迪敖瑞鹏朝雪录大婚",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1753604903,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157856,
+      "num": 157856,
+      "word": "上海地产2比3山东鲁能",
+      "onboard_time": 1753623866,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157728,
@@ -2027,6 +2051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139678,
+      "num": 139678,
+      "word": "中国队男子4x100自接力第五",
+      "onboard_time": 1753623925,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139236,
       "num": 139236,
       "word": "买了男装才知道女装质量这么差",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1753528282,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130143,
+      "num": 130143,
+      "word": "没生在首尔去什么男宝星球",
+      "onboard_time": 1753624046,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 129783,
@@ -2609,14 +2649,6 @@
       "onboard_time": 1753591702,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113589,
-      "num": 400192,
-      "word": "起底释永信和他的商业帝国",
-      "onboard_time": 1753622966,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113544,
@@ -3252,7 +3284,7 @@
     },
     {
       "raw_hot": 61085,
-      "num": 232285,
+      "num": 367670,
       "word": "释永信曾被举报向弟子索要供养钱",
       "onboard_time": 1753623206,
       "rank": 32,
@@ -3555,19 +3587,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4264,
+      "num": 1501410,
+      "word": "数智新时代电商新价值",
+      "onboard_time": 1753506922,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4199,
       "num": 798284,
       "word": "第五届中国新电商大会",
       "onboard_time": 1753507403,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4170,
-      "num": 1501410,
-      "word": "数智新时代电商新价值",
-      "onboard_time": 1753506922,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
