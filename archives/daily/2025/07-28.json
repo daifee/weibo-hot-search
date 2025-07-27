@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753656360803,
+  "endTime": 1753658874436,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1302121,
+      "raw_hot": 1541452,
       "num": 299762,
       "word": "释永信老婆",
       "onboard_time": 1753628784,
@@ -27,7 +27,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 717414,
+      "raw_hot": 841569,
       "num": 288867,
       "word": "释延鲁",
       "onboard_time": 1753628784,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220362,
+      "num": 220362,
+      "word": "寺内外一切合作都由释永信拍板",
+      "onboard_time": 1753629145,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213156,
       "num": 213156,
       "word": "冰饮料 猝死",
@@ -195,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185528,
+      "num": 157236,
+      "word": "汪苏泷这一跪又有多少人沦陷了",
+      "onboard_time": 1753658118,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169546,
+      "num": 157044,
+      "word": "鸠摩智",
+      "onboard_time": 1753631064,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164592,
       "num": 307000,
       "word": "加沙5个月婴儿死亡时比出生时还轻",
@@ -219,12 +243,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156979,
+      "num": 156979,
+      "word": "少林景区将全面实行线上预约购票",
+      "onboard_time": 1753632444,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150957,
       "num": 150957,
       "word": "车银优明天入伍",
       "onboard_time": 1753632742,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150771,
+      "num": 150771,
+      "word": "男子约见台球助教收到5000元清单",
+      "onboard_time": 1753657399,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150761,
@@ -267,28 +307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131267,
-      "num": 131267,
-      "word": "鸠摩智",
-      "onboard_time": 1753631064,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122384,
       "num": 122384,
       "word": "赵今麦健身",
       "onboard_time": 1753620326,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119093,
-      "num": 119093,
-      "word": "少林景区将全面实行线上预约购票",
-      "onboard_time": 1753632444,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116860,
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113435,
+      "num": 113435,
+      "word": "拧瓶盖 诈骗",
+      "onboard_time": 1753642335,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112006,
       "num": 112006,
       "word": "10号台风白鹿即将生成或直奔江浙沪",
@@ -323,28 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110156,
+      "num": 184080,
+      "word": "沉海500年的文物出水惊艳了",
+      "onboard_time": 1753634839,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109596,
+      "num": 109596,
+      "word": "带着轻微饥饿感入睡能瘦吗",
+      "onboard_time": 1753642875,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107342,
       "num": 107342,
       "word": "韩国热到冰美式都不冰了",
       "onboard_time": 1753629206,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 105434,
-      "num": 105434,
-      "word": "寺内外一切合作都由释永信拍板",
-      "onboard_time": 1753629145,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96564,
-      "num": 96564,
-      "word": "拧瓶盖 诈骗",
-      "onboard_time": 1753642335,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96364,
@@ -379,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85274,
-      "num": 184080,
-      "word": "沉海500年的文物出水惊艳了",
-      "onboard_time": 1753634839,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83234,
       "num": 83234,
       "word": "Faker与T1续约四年",
@@ -403,12 +427,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63374,
-      "num": 63374,
-      "word": "带着轻微饥饿感入睡能瘦吗",
-      "onboard_time": 1753642875,
-      "rank": 35,
+      "raw_hot": 70200,
+      "num": 70200,
+      "word": "美国与欧盟达成贸易协议",
+      "onboard_time": 1753658599,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 68048,
+      "num": 94987,
+      "word": "李兰迪扫腿舞地是干净了",
+      "onboard_time": 1753658059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63938,
+      "num": 63938,
+      "word": "29岁视网膜脱落的真实经历",
+      "onboard_time": 1753648273,
+      "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60883,
+      "num": 60883,
+      "word": "井柏然刘雯两眼一睁就是被偶遇",
+      "onboard_time": 1753618102,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 54493,
@@ -427,12 +475,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 40857,
+      "raw_hot": 45428,
       "num": 54487,
       "word": "释永信最后一次公开露面",
       "onboard_time": 1753608322,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42691,
+      "num": 44346,
+      "word": "广东累计报告4824例基孔肯雅热",
+      "onboard_time": 1753644135,
+      "rank": 48,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 41395,
+      "num": 44343,
+      "word": "感染基孔肯雅热禁用阿司匹林",
+      "onboard_time": 1753648873,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 40246,
@@ -451,20 +515,20 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 39138,
+      "num": 44342,
+      "word": "被喜欢的东西叫醒是不会有起床气的",
+      "onboard_time": 1753657939,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37937,
       "num": 46146,
       "word": "张极射箭",
       "onboard_time": 1753637237,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36601,
-      "num": 36601,
-      "word": "29岁视网膜脱落的真实经历",
-      "onboard_time": 1753648273,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 34940,
@@ -491,12 +555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27414,
-      "num": 28012,
-      "word": "感染基孔肯雅热禁用阿司匹林",
-      "onboard_time": 1753648873,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 27032,
+      "num": 102266,
+      "word": "多支增援力量已抵达北京受灾一线",
+      "onboard_time": 1753658659,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24794,
@@ -513,14 +577,6 @@
       "onboard_time": 1753640896,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23326,
-      "num": 28001,
-      "word": "广东累计报告4824例基孔肯雅热",
-      "onboard_time": 1753644135,
-      "rank": 48,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 22776,
