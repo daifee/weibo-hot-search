@@ -1,0 +1,410 @@
+{
+  "runTime": 1753592515226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1704044,
+        "num": 1704044,
+        "word": "警方辟谣释永信携带34人潜逃",
+        "onboard_time": 1753588522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1225055,
+        "num": 1225055,
+        "word": "鼠尿病",
+        "onboard_time": 1753583902,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46265,
+        "num": 899721,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 782872,
+        "num": 782872,
+        "word": "王牌对王牌直播",
+        "onboard_time": 1753585762,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697689,
+        "num": 697689,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1753577781,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 554548,
+        "num": 554548,
+        "word": "蜜雪冰城冰淇淋 化得快",
+        "onboard_time": 1753587681,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 490694,
+        "num": 490694,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388414,
+        "num": 388414,
+        "word": "吉克隽逸隔空喊话汪苏泷",
+        "onboard_time": 1753589002,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 370990,
+        "num": 370990,
+        "word": "凡人修仙传26广开播",
+        "onboard_time": 1753590143,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352494,
+        "num": 352494,
+        "word": "在深圳赶海捡到了波士顿大龙虾",
+        "onboard_time": 1753588342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554276,
+        "num": 352075,
+        "word": "不体面却高薪的工作",
+        "onboard_time": 1753584560,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 503271,
+        "num": 351185,
+        "word": "印度1岁男童徒手将眼镜蛇撕成两半",
+        "onboard_time": 1753590020,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350224,
+        "num": 350224,
+        "word": "董璇张维伊 黄牛变爱人",
+        "onboard_time": 1753588641,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325481,
+        "num": 325481,
+        "word": "未录取通知书",
+        "onboard_time": 1753590020,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285413,
+        "num": 285413,
+        "word": "突然意识到1万块这么有质感",
+        "onboard_time": 1753575020,
+        "rank": 14,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 270524,
+        "num": 270524,
+        "word": "李小龙死因或系癫痫",
+        "onboard_time": 1753591462,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235034,
+        "num": 235034,
+        "word": "章若楠完全是按照视觉爽点长的",
+        "onboard_time": 1753588522,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224551,
+        "num": 224551,
+        "word": "全球已近30万人感染基孔肯雅热",
+        "onboard_time": 1753582400,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212906,
+        "num": 212906,
+        "word": "时代少年团上海",
+        "onboard_time": 1753591702,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211758,
+        "num": 211758,
+        "word": "白鹿为赵晴新剧做宣传",
+        "onboard_time": 1753589242,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269272,
+        "num": 208670,
+        "word": "1岁男童把眼镜蛇当玩具撕咬致昏迷",
+        "onboard_time": 1753591042,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205020,
+        "num": 205020,
+        "word": "于佩尔扶易烊千玺手上台",
+        "onboard_time": 1753591462,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187759,
+        "num": 187759,
+        "word": "凡人修仙传",
+        "onboard_time": 1753574060,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176667,
+        "num": 176667,
+        "word": "孟子义这段看一遍得笑十遍",
+        "onboard_time": 1753590381,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152958,
+        "num": 152958,
+        "word": "王牌对王牌",
+        "onboard_time": 1753573579,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148469,
+        "num": 148469,
+        "word": "以后见了戴眼镜的人要低调点",
+        "onboard_time": 1753591042,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 144953,
+        "num": 144953,
+        "word": "一家六口空调房内煲糖水4人中毒",
+        "onboard_time": 1753581261,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143645,
+        "num": 143645,
+        "word": "朝雪录",
+        "onboard_time": 1753572857,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127942,
+        "num": 134337,
+        "word": "记者直击北京密云防汛现场",
+        "onboard_time": 1753591702,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121231,
+        "num": 130610,
+        "word": "北京洪水红色预警",
+        "onboard_time": 1753575619,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181492,
+        "num": 130526,
+        "word": "被爱会长出血肉 被溺爱会长出板油",
+        "onboard_time": 1753591161,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130332,
+        "num": 130332,
+        "word": "现在的女装是不是对宽松有什么误解",
+        "onboard_time": 1753587561,
+        "rank": 31,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 129461,
+        "num": 129461,
+        "word": "百香果果然还在磨合期",
+        "onboard_time": 1753588462,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128120,
+        "num": 128120,
+        "word": "贺峻霖小雀斑妆",
+        "onboard_time": 1753591641,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124850,
+        "num": 124850,
+        "word": "张靓颖穿了一身蝴蝶在身上",
+        "onboard_time": 1753587802,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116414,
+        "num": 116414,
+        "word": "地球超新鲜",
+        "onboard_time": 1753589601,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113779,
+        "num": 113779,
+        "word": "李兰迪敖瑞鹏千燕莞语大婚",
+        "onboard_time": 1753591702,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111046,
+        "num": 111046,
+        "word": "樊振东变线的神",
+        "onboard_time": 1753591224,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110021,
+        "num": 110021,
+        "word": "记录生活原来可以这么轻松",
+        "onboard_time": 1753592422,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109527,
+        "num": 109527,
+        "word": "印度一800年历史神庙曝出惊天大案",
+        "onboard_time": 1753577901,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106642,
+        "num": 106642,
+        "word": "Rapeter押完蒋文涵押刘聪",
+        "onboard_time": 1753592302,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104987,
+        "num": 104987,
+        "word": "作弊式赶海",
+        "onboard_time": 1753592362,
+        "rank": 41,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 103700,
+        "num": 103700,
+        "word": "当机器人跳起机械舞",
+        "onboard_time": 1753592362,
+        "rank": 42,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 102287,
+        "num": 102287,
+        "word": "少林寺",
+        "onboard_time": 1753585762,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101779,
+        "num": 101779,
+        "word": "高钾晚餐能让人睡得更香",
+        "onboard_time": 1753579942,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99630,
+        "num": 99630,
+        "word": "景区回应作弊式赶海爆火出圈",
+        "onboard_time": 1753590621,
+        "rank": 45,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 98022,
+        "num": 98022,
+        "word": "水果玄学",
+        "onboard_time": 1753592183,
+        "rank": 46,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 97667,
+        "num": 97667,
+        "word": "Jennie纯欲的神",
+        "onboard_time": 1753583841,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96121,
+        "num": 96121,
+        "word": "演唱会和自担吵架是什么体验",
+        "onboard_time": 1753580901,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95430,
+        "num": 95430,
+        "word": "直击北京洪水",
+        "onboard_time": 1753583722,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}

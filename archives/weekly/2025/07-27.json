@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753590570329,
+  "endTime": 1753592515226,
   "band_list": [
     {
       "raw_hot": 2110545,
@@ -67,6 +67,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 782872,
+      "num": 782872,
+      "word": "王牌对王牌直播",
+      "onboard_time": 1753585762,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 714028,
       "num": 714028,
       "word": "印度一800年历史神庙曝出惊天大案",
@@ -107,12 +115,12 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 609125,
-      "num": 609125,
-      "word": "王牌对王牌直播",
-      "onboard_time": 1753585762,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 554548,
+      "num": 554548,
+      "word": "蜜雪冰城冰淇淋 化得快",
+      "onboard_time": 1753587681,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 553280,
@@ -121,14 +129,6 @@
       "onboard_time": 1753582400,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 553174,
-      "num": 553174,
-      "word": "蜜雪冰城冰淇淋 化得快",
-      "onboard_time": 1753587681,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 540114,
@@ -145,6 +145,14 @@
       "onboard_time": 1753543286,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 503271,
+      "num": 351185,
+      "word": "印度1岁男童徒手将眼镜蛇撕成两半",
+      "onboard_time": 1753590020,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 467844,
@@ -211,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 388414,
+      "num": 388414,
+      "word": "吉克隽逸隔空喊话汪苏泷",
+      "onboard_time": 1753589002,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 388045,
       "num": 282607,
       "word": "刘耀文舌钉",
@@ -227,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370990,
+      "num": 370990,
+      "word": "凡人修仙传26广开播",
+      "onboard_time": 1753590143,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 350224,
+      "num": 350224,
+      "word": "董璇张维伊 黄牛变爱人",
+      "onboard_time": 1753588641,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349041,
       "num": 193768,
       "word": "糊涂家长下猛药女婴被喂出肝衰竭",
@@ -235,28 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340695,
-      "num": 331342,
-      "word": "董璇张维伊 黄牛变爱人",
-      "onboard_time": 1753588641,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 335838,
-      "num": 335838,
-      "word": "吉克隽逸隔空喊话汪苏泷",
-      "onboard_time": 1753589002,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 326081,
       "num": 326081,
       "word": "樊振东说现阶段无法承受各方面压力",
       "onboard_time": 1753572738,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325481,
+      "num": 325481,
+      "word": "未录取通知书",
+      "onboard_time": 1753590020,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 308671,
@@ -307,6 +331,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 270524,
+      "num": 270524,
+      "word": "李小龙死因或系癫痫",
+      "onboard_time": 1753591462,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269272,
+      "num": 208670,
+      "word": "1岁男童把眼镜蛇当玩具撕咬致昏迷",
+      "onboard_time": 1753591042,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268289,
       "num": 268289,
       "word": "花千骨和三生三世十里桃花哪个更爆",
@@ -337,6 +377,14 @@
       "onboard_time": 1753575261,
       "rank": 13,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 235034,
+      "num": 235034,
+      "word": "章若楠完全是按照视觉爽点长的",
+      "onboard_time": 1753588522,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 230482,
@@ -371,12 +419,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 215666,
-      "num": 215666,
-      "word": "章若楠完全是按照视觉爽点长的",
-      "onboard_time": 1753588522,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 212906,
+      "num": 212906,
+      "word": "时代少年团上海",
+      "onboard_time": 1753591702,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 205020,
+      "num": 205020,
+      "word": "于佩尔扶易烊千玺手上台",
+      "onboard_time": 1753591462,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 203261,
@@ -403,22 +459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200849,
-      "num": 200849,
-      "word": "凡人修仙传26广开播",
-      "onboard_time": 1753590143,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 184077,
-      "num": 184077,
-      "word": "印度1岁男童徒手将眼镜蛇撕成两半",
-      "onboard_time": 1753590020,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 183857,
       "num": 183857,
       "word": "16人考上厦门大学马来分校决定复读",
@@ -433,6 +473,22 @@
       "onboard_time": 1753568415,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181492,
+      "num": 130526,
+      "word": "被爱会长出血肉 被溺爱会长出板油",
+      "onboard_time": 1753591161,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176667,
+      "num": 176667,
+      "word": "孟子义这段看一遍得笑十遍",
+      "onboard_time": 1753590381,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 176561,
@@ -603,6 +659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148469,
+      "num": 148469,
+      "word": "以后见了戴眼镜的人要低调点",
+      "onboard_time": 1753591042,
+      "rank": 25,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 145810,
       "num": 145810,
       "word": "周笔畅这背不拔罐可惜了",
@@ -617,6 +681,14 @@
       "onboard_time": 1753585523,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143645,
+      "num": 143645,
+      "word": "朝雪录",
+      "onboard_time": 1753572857,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 142531,
@@ -649,14 +721,6 @@
       "onboard_time": 1753538486,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139217,
-      "num": 139217,
-      "word": "朝雪录",
-      "onboard_time": 1753572857,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 137630,
@@ -723,12 +787,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127982,
-      "num": 127982,
-      "word": "孟子义这段看一遍得笑十遍",
-      "onboard_time": 1753590381,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 128120,
+      "num": 128120,
+      "word": "贺峻霖小雀斑妆",
+      "onboard_time": 1753591641,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 127942,
+      "num": 134337,
+      "word": "记者直击北京密云防汛现场",
+      "onboard_time": 1753591702,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124458,
@@ -819,6 +891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 113779,
+      "num": 113779,
+      "word": "李兰迪敖瑞鹏千燕莞语大婚",
+      "onboard_time": 1753591702,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113077,
       "num": 113077,
       "word": "张真源回应饭撒叫姐姐",
@@ -851,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111046,
+      "num": 111046,
+      "word": "樊振东变线的神",
+      "onboard_time": 1753591224,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110591,
       "num": 162359,
       "word": "北京密云区暴雨红色预警",
@@ -865,6 +953,14 @@
       "onboard_time": 1753589841,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110021,
+      "num": 110021,
+      "word": "记录生活原来可以这么轻松",
+      "onboard_time": 1753592422,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 107854,
@@ -899,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106642,
+      "num": 106642,
+      "word": "Rapeter押完蒋文涵押刘聪",
+      "onboard_time": 1753592302,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106449,
       "num": 106449,
       "word": "石凯演唱会",
@@ -907,12 +1011,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106221,
-      "num": 116679,
-      "word": "未录取通知书",
-      "onboard_time": 1753590020,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 104987,
+      "num": 104987,
+      "word": "作弊式赶海",
+      "onboard_time": 1753592362,
+      "rank": 41,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 103700,
+      "num": 103700,
+      "word": "当机器人跳起机械舞",
+      "onboard_time": 1753592362,
+      "rank": 42,
+      "category": "互联网,互联网"
     },
     {
       "raw_hot": 103556,
@@ -939,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99630,
+      "num": 99630,
+      "word": "景区回应作弊式赶海爆火出圈",
+      "onboard_time": 1753590621,
+      "rank": 45,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 99089,
       "num": 99089,
       "word": "潘展乐点赞蔡徐坤deadman视频",
@@ -953,6 +1073,14 @@
       "onboard_time": 1753513941,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98022,
+      "num": 98022,
+      "word": "水果玄学",
+      "onboard_time": 1753592183,
+      "rank": 46,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 97038,
