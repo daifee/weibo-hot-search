@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753621707449,
+  "endTime": 1753623396558,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1016794,
+      "num": 1016794,
+      "word": "释永信育有私生子",
+      "onboard_time": 1753621046,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 997829,
       "num": 815742,
       "word": "杨某人 怪我了",
@@ -147,6 +155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 862534,
+      "num": 398738,
+      "word": "车银优寸头",
+      "onboard_time": 1753621886,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 855944,
       "num": 792591,
       "word": "三宝说孙俪不是一个好演员",
@@ -171,6 +187,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 809110,
+      "num": 436672,
+      "word": "赵今麦健身",
+      "onboard_time": 1753620326,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791406,
       "num": 705906,
       "word": "杨洋演技",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 783680,
-      "num": 346800,
+      "num": 347678,
       "word": "印度女子昏迷在救护车遭轮奸",
       "onboard_time": 1753612821,
       "rank": 21,
@@ -323,12 +347,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 613980,
-      "num": 436672,
-      "word": "赵今麦健身",
-      "onboard_time": 1753620326,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 605523,
+      "num": 605523,
+      "word": "10号台风白鹿即将生成或直奔江浙沪",
+      "onboard_time": 1753618343,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 604810,
@@ -339,20 +363,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 590079,
-      "num": 590079,
-      "word": "10号台风白鹿即将生成或直奔江浙沪",
-      "onboard_time": 1753618343,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 553280,
       "num": 553280,
       "word": "全球已近30万人感染基孔肯雅热",
       "onboard_time": 1753582400,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542038,
+      "num": 434779,
+      "word": "李小冉说一路繁花塌的也不是我",
+      "onboard_time": 1753619485,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 540114,
@@ -483,12 +507,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 434779,
-      "num": 434779,
-      "word": "李小冉说一路繁花塌的也不是我",
-      "onboard_time": 1753619485,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 437686,
+      "num": 439077,
+      "word": "释永信涉嫌挪用侵占寺院资产",
+      "onboard_time": 1753621226,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426302,
@@ -555,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 404999,
+      "num": 404999,
+      "word": "展轩",
+      "onboard_time": 1753622786,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404672,
       "num": 369730,
       "word": "柯淳自曝经济状况紧张",
@@ -617,6 +649,14 @@
       "onboard_time": 1753600341,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379170,
+      "num": 379170,
+      "word": "沈佳润写了美美桑内中文版歌词",
+      "onboard_time": 1753622425,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 376558,
@@ -721,6 +761,14 @@
       "onboard_time": 1753574060,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308107,
+      "num": 356575,
+      "word": "五月天F4鸟巢再合体",
+      "onboard_time": 1753621105,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 301570,
@@ -859,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254744,
-      "num": 254744,
-      "word": "释永信育有私生子",
-      "onboard_time": 1753621046,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 243240,
+      "num": 243240,
+      "word": "闪耀暖暖星夜主神",
+      "onboard_time": 1753622726,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 241409,
@@ -883,12 +931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230977,
+      "num": 242818,
+      "word": "加沙5个月婴儿死亡时比出生时还轻",
+      "onboard_time": 1753620205,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 230482,
       "num": 230482,
       "word": "男空乘厕所偷拍未成年女孩判18年",
       "onboard_time": 1753579581,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 230223,
+      "num": 230223,
+      "word": "Faker与T1续约四年",
+      "onboard_time": 1753622966,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 227972,
@@ -905,6 +969,14 @@
       "onboard_time": 1753591462,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226099,
+      "num": 226099,
+      "word": "释永信10年前就曾被举报私生活混乱",
+      "onboard_time": 1753622786,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223660,
@@ -947,14 +1019,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 219463,
-      "num": 219463,
-      "word": "加沙5个月婴儿死亡时比出生时还轻",
-      "onboard_time": 1753620205,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "林允老钱度假风",
@@ -971,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213103,
-      "num": 259559,
-      "word": "五月天F4鸟巢再合体",
-      "onboard_time": 1753621105,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 212906,
       "num": 212906,
       "word": "时代少年团上海",
@@ -992,6 +1048,14 @@
       "word": "15岁少年冒死藏日军暴行照片",
       "onboard_time": 1753594462,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209887,
+      "num": 283878,
+      "word": "释永信到少林寺已44年",
+      "onboard_time": 1753621346,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1051,6 +1115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200488,
+      "num": 238800,
+      "word": "鹿晗又扔戒指了",
+      "onboard_time": 1753623086,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199499,
       "num": 199499,
       "word": "杜华拜托那可是seventeen",
@@ -1073,6 +1145,14 @@
       "onboard_time": 1753605264,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197832,
+      "num": 441876,
+      "word": "我国成功发射一箭5星",
+      "onboard_time": 1753619845,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 195021,
@@ -1219,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179430,
+      "num": 179430,
+      "word": "樊振东乒超13连胜",
+      "onboard_time": 1753622066,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179158,
       "num": 179158,
       "word": "考试院回应考生被厦大马来分校误录",
@@ -1297,6 +1385,14 @@
       "onboard_time": 1753593323,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173456,
+      "num": 174756,
+      "word": "金泫雅更新ins",
+      "onboard_time": 1753622845,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 173213,
@@ -1491,6 +1587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162537,
+      "num": 162537,
+      "word": "赵晴凡人修仙传状态",
+      "onboard_time": 1753622246,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "李兰迪敖瑞鹏朝雪录大婚",
@@ -1601,14 +1705,6 @@
       "onboard_time": 1753620087,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154187,
-      "num": 441876,
-      "word": "我国成功发射一箭5星",
-      "onboard_time": 1753619845,
-      "rank": 8,
-      "category": "军事"
     },
     {
       "raw_hot": 154022,
@@ -1809,6 +1905,14 @@
       "onboard_time": 1753605264,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144846,
+      "num": 144846,
+      "word": "徐瑛彬3比1赵子豪",
+      "onboard_time": 1753623326,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144524,
@@ -2099,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131974,
-      "num": 439077,
-      "word": "释永信涉嫌挪用侵占寺院资产",
-      "onboard_time": 1753621226,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131599,
       "num": 131599,
       "word": "Rapeter不辜负严浩翔万妮达",
@@ -2288,6 +2384,14 @@
       "word": "美航男空乘厕所偷拍未成年女孩",
       "onboard_time": 1753582221,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124090,
+      "num": 237443,
+      "word": "少林寺官网首页仍是释永信",
+      "onboard_time": 1753621765,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2505,6 +2609,14 @@
       "onboard_time": 1753591702,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113589,
+      "num": 400192,
+      "word": "起底释永信和他的商业帝国",
+      "onboard_time": 1753622966,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113544,
@@ -3107,14 +3219,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 65962,
-      "num": 283878,
-      "word": "释永信到少林寺已44年",
-      "onboard_time": 1753621346,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65512,
       "num": 65512,
       "word": "在美国生意好的中餐馆后厨现状",
@@ -3144,6 +3248,14 @@
       "word": "灭蚊鱼1天能吃438条蚊幼虫",
       "onboard_time": 1753588702,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61085,
+      "num": 232285,
+      "word": "释永信曾被举报向弟子索要供养钱",
+      "onboard_time": 1753623206,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -3257,6 +3369,14 @@
       "onboard_time": 1753557616,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47567,
+      "num": 170231,
+      "word": "B太榕江救灾Vlog",
+      "onboard_time": 1753623206,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 38233,
