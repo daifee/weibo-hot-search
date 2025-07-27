@@ -1,10 +1,10 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753620792774,
+  "endTime": 1753621707449,
   "band_list": [
     {
-      "raw_hot": 14210235,
-      "num": 14210235,
+      "raw_hot": 14578485,
+      "num": 14578485,
       "word": "少林寺住持释永信被查",
       "onboard_time": 1753618643,
       "rank": 0,
@@ -323,12 +323,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 613980,
+      "num": 436672,
+      "word": "赵今麦健身",
+      "onboard_time": 1753620326,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604810,
       "num": 604810,
       "word": "蜜雪冰城客服回应冰淇淋融化快",
       "onboard_time": 1753605383,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 590079,
+      "num": 590079,
+      "word": "10号台风白鹿即将生成或直奔江浙沪",
+      "onboard_time": 1753618343,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 553280,
@@ -353,14 +369,6 @@
       "onboard_time": 1753607603,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 537681,
-      "num": 537681,
-      "word": "10号台风白鹿即将生成或直奔江浙沪",
-      "onboard_time": 1753618343,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526406,
@@ -555,20 +563,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403880,
+      "num": 403880,
+      "word": "鹿晗腹肌",
+      "onboard_time": 1753619365,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 403852,
       "num": 403852,
       "word": "高钾晚餐能让人睡得更香",
       "onboard_time": 1753579942,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 395445,
-      "num": 395445,
-      "word": "赵今麦健身",
-      "onboard_time": 1753620326,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 388414,
@@ -635,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369056,
-      "num": 369056,
-      "word": "鹿晗腹肌",
-      "onboard_time": 1753619365,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 354966,
       "num": 354966,
       "word": "仙逆王林",
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336391,
+      "num": 434963,
+      "word": "释永信最后一次公开露面",
+      "onboard_time": 1753608322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334684,
       "num": 334684,
       "word": "锦月如歌开播",
@@ -675,20 +683,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331568,
+      "num": 331568,
+      "word": "井柏然刘雯两眼一睁就是被偶遇",
+      "onboard_time": 1753618102,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326081,
       "num": 326081,
       "word": "樊振东说现阶段无法承受各方面压力",
       "onboard_time": 1753572738,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325229,
-      "num": 310430,
-      "word": "井柏然刘雯两眼一睁就是被偶遇",
-      "onboard_time": 1753618102,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 317808,
@@ -729,6 +737,14 @@
       "onboard_time": 1753588522,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296814,
+      "num": 441003,
+      "word": "海飞丝 张康乐",
+      "onboard_time": 1753620565,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 288878,
@@ -843,20 +859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251359,
-      "num": 251359,
-      "word": "释永信最后一次公开露面",
-      "onboard_time": 1753608322,
-      "rank": 39,
+      "raw_hot": 254744,
+      "num": 254744,
+      "word": "释永信育有私生子",
+      "onboard_time": 1753621046,
+      "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244540,
-      "num": 244540,
-      "word": "海飞丝 张康乐",
-      "onboard_time": 1753620565,
-      "rank": 24,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 241409,
@@ -939,6 +947,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 219463,
+      "num": 219463,
+      "word": "加沙5个月婴儿死亡时比出生时还轻",
+      "onboard_time": 1753620205,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "林允老钱度假风",
@@ -953,6 +969,14 @@
       "onboard_time": 1753604303,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213103,
+      "num": 259559,
+      "word": "五月天F4鸟巢再合体",
+      "onboard_time": 1753621105,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 212906,
@@ -985,6 +1009,14 @@
       "onboard_time": 1753592841,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206749,
+      "num": 206749,
+      "word": "F1",
+      "onboard_time": 1753621226,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 206613,
@@ -1083,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 189912,
+      "num": 189912,
+      "word": "樊振东3比1袁励岑",
+      "onboard_time": 1753621466,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188692,
       "num": 188692,
       "word": "5岁的我在玩泥巴5岁的她准备出道了",
@@ -1179,12 +1219,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179158,
+      "num": 179158,
+      "word": "考试院回应考生被厦大马来分校误录",
+      "onboard_time": 1753620625,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177260,
+      "num": 250737,
+      "word": "香港警方披露酒店4尸案详情",
+      "onboard_time": 1753617982,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176947,
       "num": 176947,
       "word": "张艺兴说缺氧缺觉缺第一次",
       "onboard_time": 1753606702,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176902,
+      "num": 176902,
+      "word": "Wolves获胜",
+      "onboard_time": 1753621466,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 176667,
@@ -1329,14 +1393,6 @@
       "onboard_time": 1753594524,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166885,
-      "num": 166885,
-      "word": "加沙5个月婴儿死亡时比出生时还轻",
-      "onboard_time": 1753620205,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 166146,
@@ -1571,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153816,
+      "num": 153816,
+      "word": "王者农家乐",
+      "onboard_time": 1753620986,
+      "rank": 43,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 153415,
       "num": 153415,
       "word": "白敬亭助力凡人修仙传",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1753525281,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151135,
+      "num": 151135,
+      "word": "独居女生住100平的房子有多爽",
+      "onboard_time": 1753619545,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 150934,
@@ -1651,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149596,
+      "num": 149596,
+      "word": "宋雨琦歌谣大战舞台",
+      "onboard_time": 1753621466,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149543,
       "num": 149543,
       "word": "T1对战NS",
@@ -1681,14 +1761,6 @@
       "onboard_time": 1753591042,
       "rank": 25,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 148252,
-      "num": 148252,
-      "word": "考试院回应考生被厦大马来分校误录",
-      "onboard_time": 1753620625,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148055,
@@ -2027,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131974,
+      "num": 439077,
+      "word": "释永信涉嫌挪用侵占寺院资产",
+      "onboard_time": 1753621226,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131599,
       "num": 131599,
       "word": "Rapeter不辜负严浩翔万妮达",
@@ -2361,14 +2441,6 @@
       "onboard_time": 1753588342,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115011,
-      "num": 250737,
-      "word": "香港警方披露酒店4尸案详情",
-      "onboard_time": 1753617982,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114909,
@@ -2755,6 +2827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95357,
+      "num": 177396,
+      "word": "李冰洁400米自银牌",
+      "onboard_time": 1753618222,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95098,
       "num": 95098,
       "word": "北京青龙峡水库开闸泄洪",
@@ -3025,6 +3105,14 @@
       "onboard_time": 1753603823,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65962,
+      "num": 283878,
+      "word": "释永信到少林寺已44年",
+      "onboard_time": 1753621346,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65512,
@@ -3355,8 +3443,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3923,
-      "num": 990674,
+      "raw_hot": 4170,
+      "num": 1501410,
       "word": "数智新时代电商新价值",
       "onboard_time": 1753506922,
       "rank": 42,
