@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753599205872,
+  "endTime": 1753601172137,
   "band_list": [
     {
       "raw_hot": 2420501,
@@ -153,6 +153,14 @@
       "onboard_time": 1753590020,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 638226,
+      "num": 638226,
+      "word": "女子跟风生吃彩椒碗感染钩虫",
+      "onboard_time": 1753598601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 633611,
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351820,
+      "num": 351820,
+      "word": "山西一辆载12人的中巴车因强降雨失联",
+      "onboard_time": 1753599502,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 350224,
       "num": 350224,
       "word": "董璇张维伊 黄牛变爱人",
@@ -353,6 +369,14 @@
       "onboard_time": 1753594283,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327492,
+      "num": 257865,
+      "word": "撒贝宁吃到了陈乔恩阮经天大瓜",
+      "onboard_time": 1753599023,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 326081,
@@ -393,6 +417,14 @@
       "onboard_time": 1753580901,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276252,
+      "num": 253968,
+      "word": "什么是性单恋",
+      "onboard_time": 1753596741,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 276198,
@@ -443,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259967,
-      "num": 259967,
-      "word": "女子跟风生吃彩椒碗感染钩虫",
-      "onboard_time": 1753598601,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "白鹿为赵晴新剧做宣传",
@@ -464,6 +488,14 @@
       "word": "谢娜白得发光的闺蜜李小冉",
       "onboard_time": 1753594462,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248127,
+      "num": 248127,
+      "word": "王牌第一期嘉宾吃席都要摆三桌",
+      "onboard_time": 1753597704,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -523,14 +555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 219764,
-      "num": 219764,
-      "word": "什么是性单恋",
-      "onboard_time": 1753596741,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212906,
       "num": 212906,
       "word": "时代少年团上海",
@@ -587,6 +611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198829,
+      "num": 198829,
+      "word": "身份证照片符合这些要求就行",
+      "onboard_time": 1753599201,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198240,
+      "num": 198240,
+      "word": "冯建宇 曼谷",
+      "onboard_time": 1753600341,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193925,
       "num": 145640,
       "word": "梁伟铿感谢战友王昶",
@@ -595,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190469,
-      "num": 190469,
-      "word": "王牌第一期嘉宾吃席都要摆三桌",
-      "onboard_time": 1753597704,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 184953,
+      "num": 184953,
+      "word": "Gr对战北京WBG",
+      "onboard_time": 1753600822,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 183857,
@@ -627,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177696,
-      "num": 177696,
-      "word": "撒贝宁吃到了陈乔恩阮经天大瓜",
-      "onboard_time": 1753599023,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176667,
       "num": 176667,
       "word": "孟子义这段看一遍得笑十遍",
@@ -651,12 +683,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 176332,
+      "num": 176332,
+      "word": "女子要取走390万现金柜员报警",
+      "onboard_time": 1753600524,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174783,
       "num": 174783,
       "word": "三个少年直播探班王牌",
       "onboard_time": 1753594702,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174582,
+      "num": 174582,
+      "word": "过客",
+      "onboard_time": 1753600223,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 174079,
@@ -689,6 +737,14 @@
       "onboard_time": 1753544544,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171696,
+      "num": 171696,
+      "word": "终于懂爸妈碰到熟人为什么能聊半天了",
+      "onboard_time": 1753598543,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 171233,
@@ -755,12 +811,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 164939,
+      "num": 178505,
+      "word": "努力的女明星都火起来了",
+      "onboard_time": 1753596922,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164588,
       "num": 164588,
       "word": "王牌对王牌9",
       "onboard_time": 1753590201,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164310,
+      "num": 177279,
+      "word": "易烊千玺从顶流偶像到专业电影人",
+      "onboard_time": 1753599682,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 163718,
@@ -947,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143635,
+      "num": 143635,
+      "word": "过了35岁就别让人猜你多少岁了",
+      "onboard_time": 1753600643,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142531,
       "num": 142531,
       "word": "Jennie纯欲的神",
@@ -987,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139236,
+      "num": 139236,
+      "word": "买了男装才知道女装质量这么差",
+      "onboard_time": 1753600582,
+      "rank": 34,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 138552,
       "num": 138552,
       "word": "刘宇宁承包了主题曲的半壁江山",
@@ -995,12 +1083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138271,
+      "num": 138271,
+      "word": "蔡依林想象自己在女团的样子",
+      "onboard_time": 1753600223,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137630,
       "num": 137630,
       "word": "刘宇宁不演燃羽",
       "onboard_time": 1753543165,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136989,
+      "num": 136989,
+      "word": "硅胶鲨鱼夹",
+      "onboard_time": 1753599622,
+      "rank": 36,
+      "category": "时尚,休闲"
     },
     {
       "raw_hot": 135030,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1753547243,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134178,
+      "num": 134178,
+      "word": "张晚意新剧进组",
+      "onboard_time": 1753599923,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 133716,
@@ -1091,20 +1203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129418,
+      "num": 129418,
+      "word": "原来杨洋交作业前也会紧张",
+      "onboard_time": 1753600101,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129210,
+      "num": 129210,
+      "word": "男子4x100自接力中国队晋级决赛",
+      "onboard_time": 1753599923,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "你好星期六",
       "onboard_time": 1753543766,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128356,
-      "num": 128356,
-      "word": "努力的女明星都火起来了",
-      "onboard_time": 1753596922,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 128120,
@@ -1243,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116335,
+      "num": 174749,
+      "word": "刘宇宁龚俊友情",
+      "onboard_time": 1753599262,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115614,
       "num": 115614,
       "word": "倪萍说人生有多少时候是委屈的",
@@ -1299,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113130,
+      "num": 113130,
+      "word": "朝雪录团综",
+      "onboard_time": 1753601002,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113077,
       "num": 113077,
       "word": "张真源回应饭撒叫姐姐",
@@ -1337,6 +1473,14 @@
       "onboard_time": 1753585762,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112023,
+      "num": 112023,
+      "word": "梁伟铿发文称将会总结不足",
+      "onboard_time": 1753600762,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111046,
@@ -1385,6 +1529,14 @@
       "onboard_time": 1753575500,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 107227,
+      "num": 107227,
+      "word": "紫色战袍的孙颖莎",
+      "onboard_time": 1753601122,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107079,
@@ -1633,6 +1785,14 @@
       "onboard_time": 1753572257,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82298,
+      "num": 131598,
+      "word": "王晓晨维护俞灏明",
+      "onboard_time": 1753600524,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 82064,
@@ -1891,6 +2051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33160,
+      "num": 130635,
+      "word": "陈奕迅庆生全家福",
+      "onboard_time": 1753600524,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31441,
       "num": 221369,
       "word": "探访北京密云安置点现场",
@@ -1931,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25455,
+      "num": 174590,
+      "word": "顺德16家定点医院收治基孔肯雅热",
+      "onboard_time": 1753600701,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25393,
       "num": 27732,
       "word": "汪苏泷说BB喔猴挂剧雷",
@@ -1963,7 +2139,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3639,
+      "raw_hot": 4199,
       "num": 777990,
       "word": "第五届中国新电商大会",
       "onboard_time": 1753507403,
