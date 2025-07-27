@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753630048681,
+  "endTime": 1753630930705,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 917703,
+      "num": 461993,
+      "word": "释延鲁",
+      "onboard_time": 1753628784,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 905641,
       "num": 813282,
       "word": "丁程鑫脖子上有唇印",
@@ -297,14 +305,6 @@
       "onboard_time": 1753584560,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 711062,
-      "num": 461993,
-      "word": "释延鲁",
-      "onboard_time": 1753628784,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 704108,
@@ -1019,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256916,
+      "num": 256916,
+      "word": "许嵩哭了",
+      "onboard_time": 1753629026,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255639,
       "num": 255639,
       "word": "谢娜白得发光的闺蜜李小冉",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1753575261,
       "rank": 13,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 239664,
-      "num": 248535,
-      "word": "许嵩哭了",
-      "onboard_time": 1753629026,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 237238,
@@ -1275,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198977,
+      "num": 188262,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1753629624,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198829,
       "num": 198829,
       "word": "身份证照片符合这些要求就行",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1753608502,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188262,
-      "num": 188262,
-      "word": "白桃星座一周运势",
-      "onboard_time": 1753629624,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 186205,
@@ -1595,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173751,
+      "num": 475492,
+      "word": "央视曝光私域直播坑老骗局",
+      "onboard_time": 1753629446,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 173213,
       "num": 173213,
       "word": "直击北京洪水",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1753594524,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168460,
+      "num": 168460,
+      "word": "731",
+      "onboard_time": 1753630285,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 166146,
@@ -2299,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139714,
+      "num": 342849,
+      "word": "寺内外一切合作都由释永信拍板",
+      "onboard_time": 1753629145,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139236,
       "num": 139236,
       "word": "买了男装才知道女装质量这么差",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1753599923,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134022,
+      "num": 243921,
+      "word": "韩国热到冰美式都不冰了",
+      "onboard_time": 1753629206,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133716,
@@ -3267,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94819,
+      "num": 94819,
+      "word": "台风",
+      "onboard_time": 1753630105,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94452,
       "num": 94452,
       "word": "工作留痕",
@@ -3595,6 +3635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58078,
+      "num": 224740,
+      "word": "男子被人酒后捅伤致死遭保险拒赔",
+      "onboard_time": 1753630764,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57430,
       "num": 85833,
       "word": "涉事选矿厂回应浮选槽三大质疑",
@@ -3643,14 +3691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52248,
-      "num": 243921,
-      "word": "韩国热到冰美式都不冰了",
-      "onboard_time": 1753629206,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 51362,
       "num": 51362,
       "word": "团播",
@@ -3697,22 +3737,6 @@
       "onboard_time": 1753623206,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 42964,
-      "num": 342849,
-      "word": "寺内外一切合作都由释永信拍板",
-      "onboard_time": 1753629145,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40582,
-      "num": 475492,
-      "word": "央视曝光私域直播坑老骗局",
-      "onboard_time": 1753629446,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 38233,
