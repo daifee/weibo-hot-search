@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753613168037,
+  "endTime": 1753615371676,
   "band_list": [
     {
       "raw_hot": 2420501,
@@ -139,6 +139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 835581,
+      "num": 360600,
+      "word": "网友吐槽8小时高铁乘客打电话7小时",
+      "onboard_time": 1753610543,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 817579,
       "num": 817579,
       "word": "多所高校宣布延长研究生学制",
@@ -160,6 +168,14 @@
       "word": "王牌对王牌直播",
       "onboard_time": 1753585762,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 714517,
+      "num": 1114322,
+      "word": "王玉雯大大方方的一辈子",
+      "onboard_time": 1753611623,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -251,12 +267,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 558114,
-      "num": 558114,
+      "raw_hot": 604810,
+      "num": 604810,
       "word": "蜜雪冰城客服回应冰淇淋融化快",
       "onboard_time": 1753605383,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 583680,
+      "num": 346800,
+      "word": "印度女子昏迷在救护车遭轮奸",
+      "onboard_time": 1753612821,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 553280,
@@ -283,6 +307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 536363,
+      "num": 359774,
+      "word": "她一次性做了我一辈子的工作",
+      "onboard_time": 1753610302,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 526406,
       "num": 526406,
       "word": "李炜 版权可聊",
@@ -307,12 +339,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 508708,
+      "num": 361960,
+      "word": "凡人修仙传首播口碑",
+      "onboard_time": 1753613061,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503271,
       "num": 433824,
       "word": "印度1岁男童徒手将眼镜蛇撕成两半",
       "onboard_time": 1753590020,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 501576,
+      "num": 359295,
+      "word": "虞书欣工作室通知",
+      "onboard_time": 1753614023,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 483612,
@@ -467,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 386658,
-      "num": 386658,
-      "word": "王玉雯大大方方的一辈子",
-      "onboard_time": 1753611623,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386380,
       "num": 337583,
       "word": "什么是性单恋",
@@ -521,6 +561,14 @@
       "onboard_time": 1753590143,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354966,
+      "num": 354966,
+      "word": "仙逆王林",
+      "onboard_time": 1753612883,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 350224,
@@ -572,7 +620,7 @@
     },
     {
       "raw_hot": 301570,
-      "num": 301570,
+      "num": 356405,
       "word": "aespa新歌初舞台",
       "onboard_time": 1753610183,
       "rank": 14,
@@ -699,28 +747,12 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 241078,
-      "num": 225443,
-      "word": "印度女子昏迷在救护车遭轮奸",
-      "onboard_time": 1753612821,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 237238,
       "num": 237238,
       "word": "锦月如歌",
       "onboard_time": 1753594283,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231816,
-      "num": 231816,
-      "word": "网友吐槽8小时高铁乘客打电话7小时",
-      "onboard_time": 1753610543,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230482,
@@ -787,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215779,
+      "num": 215779,
+      "word": "李昀锐被电动车烫到屁股了",
+      "onboard_time": 1753613962,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212906,
       "num": 212906,
       "word": "时代少年团上海",
@@ -817,6 +857,22 @@
       "onboard_time": 1753592841,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207122,
+      "num": 356018,
+      "word": "樊振东vs松岛辉空",
+      "onboard_time": 1753614322,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206613,
+      "num": 206613,
+      "word": "这才是真实的冷宫",
+      "onboard_time": 1753614083,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203261,
@@ -865,14 +921,6 @@
       "onboard_time": 1753605264,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195376,
-      "num": 195376,
-      "word": "她一次性做了我一辈子的工作",
-      "onboard_time": 1753610302,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 195182,
@@ -1011,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175141,
+      "num": 329973,
+      "word": "利剑玫瑰",
+      "onboard_time": 1753613482,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174783,
       "num": 174783,
       "word": "三个少年直播探班王牌",
@@ -1044,7 +1100,7 @@
     },
     {
       "raw_hot": 171864,
-      "num": 172817,
+      "num": 326429,
       "word": "朕与杨贵妃何曾有过嫌隙",
       "onboard_time": 1753612222,
       "rank": 28,
@@ -1211,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162700,
+      "num": 162700,
+      "word": "产后三年这肚皮再也回不去了",
+      "onboard_time": 1753614562,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "李兰迪敖瑞鹏朝雪录大婚",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1753589601,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160176,
-      "num": 160176,
-      "word": "仙逆王林",
-      "onboard_time": 1753612883,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 159876,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1753591042,
       "rank": 25,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 147346,
+      "num": 147346,
+      "word": "12306回应乘客高铁打7小时电话争议",
+      "onboard_time": 1753612942,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147149,
@@ -1651,6 +1715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134962,
+      "num": 134962,
+      "word": "时代少年团偶像剧情节",
+      "onboard_time": 1753614621,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134178,
       "num": 134178,
       "word": "张晚意新剧进组",
@@ -1691,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133129,
+      "num": 133129,
+      "word": "33光影大片",
+      "onboard_time": 1753614262,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132996,
       "num": 132996,
       "word": "一诺说底座选GEN是为了AL",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1753595542,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131422,
+      "num": 131422,
+      "word": "BLG战胜FPX",
+      "onboard_time": 1753614862,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 130965,
@@ -1787,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128408,
+      "num": 128408,
+      "word": "长期宅家的心理变化",
+      "onboard_time": 1753615042,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128120,
       "num": 128120,
       "word": "贺峻霖小雀斑妆",
@@ -1809,6 +1905,14 @@
       "onboard_time": 1753604963,
       "rank": 46,
       "category": "健康医疗,体育"
+    },
+    {
+      "raw_hot": 126177,
+      "num": 126177,
+      "word": "利剑玫瑰渣爹气人",
+      "onboard_time": 1753614982,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 125790,
@@ -1865,6 +1969,14 @@
       "onboard_time": 1753582221,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124155,
+      "num": 124155,
+      "word": "杨洋没否认韩立是山东人",
+      "onboard_time": 1753615282,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 123843,
@@ -1987,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117170,
+      "num": 363984,
+      "word": "泰柬双方将在马来西亚举行会晤",
+      "onboard_time": 1753613902,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116335,
       "num": 174749,
       "word": "刘宇宁龚俊友情",
@@ -2067,12 +2187,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113307,
-      "num": 113307,
-      "word": "12306回应乘客高铁打7小时电话争议",
-      "onboard_time": 1753612942,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 113544,
+      "num": 113544,
+      "word": "时代少年团王牌9出发录制",
+      "onboard_time": 1753613722,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113236,
+      "num": 312492,
+      "word": "香港一酒店有男子坠亡妻儿死在房内",
+      "onboard_time": 1753614083,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113130,
@@ -2299,14 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100476,
-      "num": 100476,
-      "word": "凡人修仙传首播口碑",
-      "onboard_time": 1753613061,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100080,
       "num": 100080,
       "word": "万千惠被老公言论整懵了",
@@ -2409,6 +2529,14 @@
       "onboard_time": 1753578202,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 89953,
+      "num": 317507,
+      "word": "央视揭互联网保险藏暗礁",
+      "onboard_time": 1753612522,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 88636,
@@ -2723,6 +2851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52053,
+      "num": 352521,
+      "word": "大同失联中巴车上均为外出务工人员",
+      "onboard_time": 1753614441,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 51362,
       "num": 51362,
       "word": "团播",
@@ -2849,14 +2985,6 @@
       "onboard_time": 1753598124,
       "rank": 25,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 30058,
-      "num": 225593,
-      "word": "央视揭互联网保险藏暗礁",
-      "onboard_time": 1753612522,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 27799,

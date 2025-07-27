@@ -1,0 +1,410 @@
+{
+  "runTime": 1753615371676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 714517,
+        "num": 1114322,
+        "word": "王玉雯大大方方的一辈子",
+        "onboard_time": 1753611623,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604810,
+        "num": 604810,
+        "word": "蜜雪冰城客服回应冰淇淋融化快",
+        "onboard_time": 1753605383,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2534,
+        "num": 422856,
+        "word": "数智新时代电商新价值",
+        "onboard_time": 1753506922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718717,
+        "num": 419089,
+        "word": "冰饮料 猝死",
+        "onboard_time": 1753596623,
+        "rank": 3,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 369394,
+        "num": 369394,
+        "word": "四果汤",
+        "onboard_time": 1753609041,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 307427,
+        "num": 369340,
+        "word": "陈梦否认已结婚领证",
+        "onboard_time": 1753604842,
+        "rank": 5,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 748892,
+        "num": 368067,
+        "word": "张碧晨年轮海外版权受限",
+        "onboard_time": 1753604002,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207187,
+        "num": 366166,
+        "word": "洪水冲走千万金饰目前只找回1公斤",
+        "onboard_time": 1753607002,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123116,
+        "num": 365933,
+        "word": "特朗普又发奥巴马恶搞图",
+        "onboard_time": 1753607002,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117170,
+        "num": 363984,
+        "word": "泰柬双方将在马来西亚举行会晤",
+        "onboard_time": 1753613902,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 838811,
+        "num": 363394,
+        "word": "杨洋不油了",
+        "onboard_time": 1753602623,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508708,
+        "num": 361960,
+        "word": "凡人修仙传首播口碑",
+        "onboard_time": 1753613061,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 835581,
+        "num": 360600,
+        "word": "网友吐槽8小时高铁乘客打电话7小时",
+        "onboard_time": 1753610543,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536363,
+        "num": 359774,
+        "word": "她一次性做了我一辈子的工作",
+        "onboard_time": 1753610302,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 501576,
+        "num": 359295,
+        "word": "虞书欣工作室通知",
+        "onboard_time": 1753614023,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411150,
+        "num": 357350,
+        "word": "李小冉给何炅备注八块腹肌不能删",
+        "onboard_time": 1753611502,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286014,
+        "num": 356405,
+        "word": "aespa新歌初舞台",
+        "onboard_time": 1753610183,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207122,
+        "num": 356018,
+        "word": "樊振东vs松岛辉空",
+        "onboard_time": 1753614322,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354966,
+        "num": 354966,
+        "word": "仙逆王林",
+        "onboard_time": 1753612883,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 52053,
+        "num": 352521,
+        "word": "大同失联中巴车上均为外出务工人员",
+        "onboard_time": 1753614441,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1060268,
+        "num": 347921,
+        "word": "李小冉把何炅微信删了",
+        "onboard_time": 1753596023,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583680,
+        "num": 346800,
+        "word": "印度女子昏迷在救护车遭轮奸",
+        "onboard_time": 1753612821,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361586,
+        "num": 343250,
+        "word": "三宝说孙俪不是一个好演员",
+        "onboard_time": 1753604603,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339358,
+        "num": 339358,
+        "word": "仙逆",
+        "onboard_time": 1753611382,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186755,
+        "num": 334063,
+        "word": "26岁女干部当选全国重点镇副镇长",
+        "onboard_time": 1753602562,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175141,
+        "num": 329973,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753613482,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168756,
+        "num": 326429,
+        "word": "朕与杨贵妃何曾有过嫌隙",
+        "onboard_time": 1753612222,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89953,
+        "num": 317507,
+        "word": "央视揭互联网保险藏暗礁",
+        "onboard_time": 1753612522,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 113236,
+        "num": 312492,
+        "word": "香港一酒店有男子坠亡妻儿死在房内",
+        "onboard_time": 1753614083,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 309610,
+        "num": 309610,
+        "word": "从128斤瘦到94斤的邪修减肥",
+        "onboard_time": 1753607603,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 215779,
+        "num": 215779,
+        "word": "李昀锐被电动车烫到屁股了",
+        "onboard_time": 1753613962,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206613,
+        "num": 206613,
+        "word": "这才是真实的冷宫",
+        "onboard_time": 1753614083,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179884,
+        "num": 179884,
+        "word": "奚梦瑶牵小金土豆逛街",
+        "onboard_time": 1753604483,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165692,
+        "num": 165692,
+        "word": "一环卫阿姨喝完爱心饮料还顺走鸭货",
+        "onboard_time": 1753606282,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 162700,
+        "word": "产后三年这肚皮再也回不去了",
+        "onboard_time": 1753614562,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161262,
+        "num": 161262,
+        "word": "释永信最后一次公开露面",
+        "onboard_time": 1753608322,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147785,
+        "num": 147785,
+        "word": "和平精英",
+        "onboard_time": 1753612821,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147346,
+        "num": 147346,
+        "word": "12306回应乘客高铁打7小时电话争议",
+        "onboard_time": 1753612942,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142455,
+        "num": 142455,
+        "word": "山西车祸6死8伤",
+        "onboard_time": 1753595243,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 136926,
+        "num": 136926,
+        "word": "王者荣耀直播预告",
+        "onboard_time": 1753608982,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134962,
+        "num": 134962,
+        "word": "时代少年团偶像剧情节",
+        "onboard_time": 1753614621,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133129,
+        "num": 133129,
+        "word": "33光影大片",
+        "onboard_time": 1753614262,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131422,
+        "num": 131422,
+        "word": "BLG战胜FPX",
+        "onboard_time": 1753614862,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129549,
+        "num": 129549,
+        "word": "女子跟风生吃彩椒碗感染钩虫",
+        "onboard_time": 1753598601,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128408,
+        "num": 128408,
+        "word": "长期宅家的心理变化",
+        "onboard_time": 1753615042,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126177,
+        "num": 126177,
+        "word": "利剑玫瑰渣爹气人",
+        "onboard_time": 1753614982,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124155,
+        "num": 124155,
+        "word": "杨洋没否认韩立是山东人",
+        "onboard_time": 1753615282,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123009,
+        "num": 123009,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119285,
+        "num": 119285,
+        "word": "多名女性称曾遭同一面试官施暴",
+        "onboard_time": 1753606223,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113544,
+        "num": 113544,
+        "word": "时代少年团王牌9出发录制",
+        "onboard_time": 1753613722,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
