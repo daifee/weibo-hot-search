@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753624116181,
+  "endTime": 1753626288867,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -96,6 +96,14 @@
       "word": "张碧晨年轮海外版权受限",
       "onboard_time": 1753604002,
       "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1020408,
+      "num": 1020408,
+      "word": "沈佳润写了美美桑内中文版歌词",
+      "onboard_time": 1753622425,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -267,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 689395,
-      "num": 689395,
-      "word": "沈佳润写了美美桑内中文版歌词",
-      "onboard_time": 1753622425,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 681090,
       "num": 681090,
       "word": "一家六口空调房内煲糖水4人中毒",
@@ -377,6 +377,14 @@
       "onboard_time": 1753605383,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 578109,
+      "num": 581636,
+      "word": "起底释永信和他的商业帝国",
+      "onboard_time": 1753622966,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 567184,
@@ -539,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 433145,
+      "num": 369131,
+      "word": "金泫雅更新ins",
+      "onboard_time": 1753622845,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426302,
       "num": 426302,
       "word": "汪苏泷终于唱了无名之辈",
@@ -691,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369131,
-      "num": 369131,
-      "word": "金泫雅更新ins",
-      "onboard_time": 1753622845,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354966,
       "num": 354966,
       "word": "仙逆王林",
@@ -721,6 +729,14 @@
       "onboard_time": 1753547543,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344371,
+      "num": 344371,
+      "word": "WBG战胜AL",
+      "onboard_time": 1753624527,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 336391,
@@ -817,14 +833,6 @@
       "onboard_time": 1753620565,
       "rank": 24,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 293957,
-      "num": 581636,
-      "word": "起底释永信和他的商业帝国",
-      "onboard_time": 1753622966,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288878,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 259851,
-      "num": 309383,
+      "num": 379539,
       "word": "加沙5个月婴儿死亡时比出生时还轻",
       "onboard_time": 1753620205,
       "rank": 37,
@@ -945,6 +953,14 @@
       "onboard_time": 1753594462,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245175,
+      "num": 344324,
+      "word": "鹿晗又扔戒指了",
+      "onboard_time": 1753623086,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 243240,
@@ -995,12 +1011,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224488,
-      "num": 305751,
-      "word": "鹿晗又扔戒指了",
-      "onboard_time": 1753623086,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 225848,
+      "num": 225848,
+      "word": "上海地产2比3山东鲁能",
+      "onboard_time": 1753623866,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225264,
+      "num": 225264,
+      "word": "廉价版ModelY车型内饰首曝",
+      "onboard_time": 1753623626,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 223660,
@@ -1091,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209549,
+      "num": 367670,
+      "word": "释永信曾被举报向弟子索要供养钱",
+      "onboard_time": 1753623206,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209359,
       "num": 481775,
       "word": "特朗普又发奥巴马恶搞图",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1753614083,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203325,
-      "num": 203325,
-      "word": "廉价版ModelY车型内饰首曝",
-      "onboard_time": 1753623626,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 203261,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1753622066,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195293,
+      "num": 235771,
+      "word": "李宇春 空空",
+      "onboard_time": 1753625546,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 195021,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1753600822,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185028,
+      "num": 233046,
+      "word": "敖瑞鹏破万福利",
+      "onboard_time": 1753625486,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 184502,
@@ -1595,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163597,
+      "num": 163597,
+      "word": "杨紫手握两部大女主待播剧",
+      "onboard_time": 1753625726,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163541,
       "num": 163541,
       "word": "妈妈将3岁女儿送人求活路",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1753614562,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162573,
+      "num": 344912,
+      "word": "山东泰山主场上万名球迷现场助威",
+      "onboard_time": 1753625305,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 162155,
@@ -1675,20 +1731,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157856,
-      "num": 157856,
-      "word": "上海地产2比3山东鲁能",
-      "onboard_time": 1753623866,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157728,
       "num": 157728,
       "word": "又被张韶涵的高定硬控了",
       "onboard_time": 1753596684,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157210,
+      "num": 157210,
+      "word": "翟潇闻姜妍一起看岳云鹏演唱会",
+      "onboard_time": 1753626085,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 157085,
@@ -1720,6 +1776,14 @@
       "word": "贺峻霖辅导员去看了时代少年团演唱会",
       "onboard_time": 1753571897,
       "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 155334,
+      "num": 155334,
+      "word": "汪苏泷金色传说",
+      "onboard_time": 1753626085,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -1939,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144806,
+      "num": 144806,
+      "word": "浙ba谁是杭州一哥",
+      "onboard_time": 1753624707,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144524,
       "num": 144524,
       "word": "樊振东10战10胜最满意把控力",
@@ -2003,12 +2075,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142379,
+      "num": 142379,
+      "word": "念念有词现生番外来了",
+      "onboard_time": 1753625726,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142361,
       "num": 118060,
       "word": "AG夺冠",
       "onboard_time": 1753572076,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142255,
+      "num": 142255,
+      "word": "许嵩演唱会天外飞伞",
+      "onboard_time": 1753625185,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 141449,
@@ -2257,6 +2345,14 @@
       "onboard_time": 1753614862,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131201,
+      "num": 131201,
+      "word": "毕雯珺好帅",
+      "onboard_time": 1753626266,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 130965,
@@ -3283,14 +3379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61085,
-      "num": 367670,
-      "word": "释永信曾被举报向弟子索要供养钱",
-      "onboard_time": 1753623206,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60925,
       "num": 266952,
       "word": "有一种震撼叫逢山开路",
@@ -3587,7 +3675,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 4264,
+      "raw_hot": 4536,
       "num": 1501410,
       "word": "数智新时代电商新价值",
       "onboard_time": 1753506922,

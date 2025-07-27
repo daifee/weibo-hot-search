@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753624116181,
+  "endTime": 1753626288867,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -4243,6 +4243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1020408,
+      "num": 1020408,
+      "word": "沈佳润写了美美桑内中文版歌词",
+      "onboard_time": 1753622425,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1020372,
       "num": 441780,
       "word": "李思睿 年轮回家",
@@ -7947,14 +7955,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 689395,
-      "num": 689395,
-      "word": "沈佳润写了美美桑内中文版歌词",
-      "onboard_time": 1753622425,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 688856,
       "num": 688856,
       "word": "郑钦文温网止步首轮",
@@ -10512,6 +10512,14 @@
       "word": "退休教师奶奶辅导孙子作业燃起来了",
       "onboard_time": 1752193702,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578109,
+      "num": 581636,
+      "word": "起底释永信和他的商业帝国",
+      "onboard_time": 1753622966,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -14731,6 +14739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433145,
+      "num": 369131,
+      "word": "金泫雅更新ins",
+      "onboard_time": 1753622845,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433115,
       "num": 433115,
       "word": "陶昕然单身原因",
@@ -17347,14 +17363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369131,
-      "num": 369131,
-      "word": "金泫雅更新ins",
-      "onboard_time": 1753622845,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369074,
       "num": 266245,
       "word": "张一山的字好帅",
@@ -18577,6 +18585,14 @@
       "onboard_time": 1752723562,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344371,
+      "num": 344371,
+      "word": "WBG战胜AL",
+      "onboard_time": 1753624527,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 344145,
@@ -21643,14 +21659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293957,
-      "num": 581636,
-      "word": "起底释永信和他的商业帝国",
-      "onboard_time": 1753622966,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293953,
       "num": 167972,
       "word": "张碧晨最火最具代表性的歌",
@@ -24572,7 +24580,7 @@
     },
     {
       "raw_hot": 259851,
-      "num": 309383,
+      "num": 379539,
       "word": "加沙5个月婴儿死亡时比出生时还轻",
       "onboard_time": 1753620205,
       "rank": 37,
@@ -25881,6 +25889,14 @@
       "onboard_time": 1753318523,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245175,
+      "num": 344324,
+      "word": "鹿晗又扔戒指了",
+      "onboard_time": 1753623086,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 245168,
@@ -27915,6 +27931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225848,
+      "num": 225848,
+      "word": "上海地产2比3山东鲁能",
+      "onboard_time": 1753623866,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225787,
       "num": 228151,
       "word": "桃花映江山18集22分54秒",
@@ -27985,6 +28009,14 @@
       "onboard_time": 1753537766,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225264,
+      "num": 225264,
+      "word": "廉价版ModelY车型内饰首曝",
+      "onboard_time": 1753623626,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 225179,
@@ -28113,14 +28145,6 @@
       "onboard_time": 1753329265,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 224488,
-      "num": 305751,
-      "word": "鹿晗又扔戒指了",
-      "onboard_time": 1753623086,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 224437,
@@ -30611,6 +30635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209549,
+      "num": 367670,
+      "word": "释永信曾被举报向弟子索要供养钱",
+      "onboard_time": 1753623206,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209515,
       "num": 282567,
       "word": "王一博北京飞巴黎路透",
@@ -32009,14 +32041,6 @@
       "onboard_time": 1752758542,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203325,
-      "num": 203325,
-      "word": "廉价版ModelY车型内饰首曝",
-      "onboard_time": 1753623626,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 203264,
@@ -34385,6 +34409,14 @@
       "onboard_time": 1753140079,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195293,
+      "num": 235771,
+      "word": "李宇春 空空",
+      "onboard_time": 1753625546,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 195206,
@@ -37449,6 +37481,14 @@
       "onboard_time": 1753180462,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185028,
+      "num": 233046,
+      "word": "敖瑞鹏破万福利",
+      "onboard_time": 1753625486,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 185016,
@@ -43947,6 +43987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163597,
+      "num": 163597,
+      "word": "杨紫手握两部大女主待播剧",
+      "onboard_time": 1753625726,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163590,
       "num": 163590,
       "word": "宋亚轩摇滚风",
@@ -44289,6 +44337,14 @@
       "onboard_time": 1753494201,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162573,
+      "num": 344912,
+      "word": "山东泰山主场上万名球迷现场助威",
+      "onboard_time": 1753625305,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 162560,
@@ -45939,14 +45995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157856,
-      "num": 157856,
-      "word": "上海地产2比3山东鲁能",
-      "onboard_time": 1753623866,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157846,
       "num": 157846,
       "word": "梓渝live营业",
@@ -46145,6 +46193,14 @@
       "onboard_time": 1753522462,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157210,
+      "num": 157210,
+      "word": "翟潇闻姜妍一起看岳云鹏演唱会",
+      "onboard_time": 1753626085,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 157172,
@@ -46929,6 +46985,14 @@
       "onboard_time": 1751965881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155334,
+      "num": 155334,
+      "word": "汪苏泷金色传说",
+      "onboard_time": 1753626085,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 155316,
@@ -51179,6 +51243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144806,
+      "num": 144806,
+      "word": "浙ba谁是杭州一哥",
+      "onboard_time": 1753624707,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144790,
       "num": 193741,
       "word": "男子租冥币厂印假美金能过印钞机",
@@ -52259,6 +52331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142379,
+      "num": 142379,
+      "word": "念念有词现生番外来了",
+      "onboard_time": 1753625726,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142361,
       "num": 118060,
       "word": "AG夺冠",
@@ -52305,6 +52385,14 @@
       "onboard_time": 1753074682,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142255,
+      "num": 142255,
+      "word": "许嵩演唱会天外飞伞",
+      "onboard_time": 1753625185,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 142241,
@@ -57577,6 +57665,14 @@
       "onboard_time": 1752893479,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131201,
+      "num": 131201,
+      "word": "毕雯珺好帅",
+      "onboard_time": 1753626266,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131182,
@@ -82568,14 +82664,6 @@
       "word": "律师解读南京红老头将担刑责",
       "onboard_time": 1751901624,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61085,
-      "num": 367670,
-      "word": "释永信曾被举报向弟子索要供养钱",
-      "onboard_time": 1753623206,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
