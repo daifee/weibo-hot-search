@@ -1,0 +1,410 @@
+{
+  "runTime": 1753583177413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462212,
+        "num": 1462212,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1753577781,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 817579,
+        "num": 817579,
+        "word": "多所高校宣布延长研究生学制",
+        "onboard_time": 1753577481,
+        "rank": 1,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 75763,
+        "num": 731884,
+        "word": "李子柒眼中的吉林之美",
+        "onboard_time": 1753542386,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714028,
+        "num": 714028,
+        "word": "印度一800年历史神庙曝出惊天大案",
+        "onboard_time": 1753577901,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 681090,
+        "num": 681090,
+        "word": "一家六口空调房内煲糖水4人中毒",
+        "onboard_time": 1753581261,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599961,
+        "num": 599961,
+        "word": "双胞胎姐妹诈骗园区获救后态度冷漠",
+        "onboard_time": 1753543405,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540114,
+        "num": 540114,
+        "word": "黄子韬对徐艺洋也是没招了",
+        "onboard_time": 1753577660,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384598,
+        "num": 384598,
+        "word": "少林寺回应网传释永信方丈被带走",
+        "onboard_time": 1753539507,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308671,
+        "num": 350311,
+        "word": "凡人修仙传",
+        "onboard_time": 1753574060,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340319,
+        "num": 340319,
+        "word": "高钾晚餐能让人睡得更香",
+        "onboard_time": 1753579942,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 633611,
+        "num": 333811,
+        "word": "突然意识到1万块这么有质感",
+        "onboard_time": 1753575020,
+        "rank": 10,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 326081,
+        "num": 326081,
+        "word": "樊振东说现阶段无法承受各方面压力",
+        "onboard_time": 1753572738,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263239,
+        "num": 263239,
+        "word": "北京洪水红色预警",
+        "onboard_time": 1753575619,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241409,
+        "num": 241409,
+        "word": "大学生月薪18000住家保姆的一天",
+        "onboard_time": 1753575261,
+        "rank": 13,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 217632,
+        "num": 217632,
+        "word": "男空乘厕所偷拍未成年女孩判18年",
+        "onboard_time": 1753579581,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214623,
+        "num": 214623,
+        "word": "丁程鑫脖子上有唇印",
+        "onboard_time": 1753538486,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148794,
+        "num": 207925,
+        "word": "贺峻霖辅导员去看了时代少年团演唱会",
+        "onboard_time": 1753571897,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143094,
+        "num": 201473,
+        "word": "演唱会和自担吵架是什么体验",
+        "onboard_time": 1753580901,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141365,
+        "num": 196021,
+        "word": "汪苏泷被导演做局了",
+        "onboard_time": 1753571839,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45251,
+        "num": 187910,
+        "word": "全球已近30万人感染基孔肯雅热",
+        "onboard_time": 1753582400,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215779,
+        "num": 178428,
+        "word": "37岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1753550179,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176561,
+        "num": 176561,
+        "word": "为什么有人出汗后特别酸臭",
+        "onboard_time": 1753578322,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133155,
+        "num": 133155,
+        "word": "国外很贵国内却很便宜的东西",
+        "onboard_time": 1753572558,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124173,
+        "num": 124173,
+        "word": "美航男空乘厕所偷拍未成年女孩",
+        "onboard_time": 1753582221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121082,
+        "num": 121082,
+        "word": "10余省区市大到暴雨",
+        "onboard_time": 1753576580,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118677,
+        "num": 118677,
+        "word": "三伏天6大减肥邪修",
+        "onboard_time": 1753576822,
+        "rank": 25,
+        "category": "运动健身,休闲"
+      },
+      {
+        "raw_hot": 110591,
+        "num": 110591,
+        "word": "北京密云区暴雨红色预警",
+        "onboard_time": 1753572318,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108266,
+        "num": 108266,
+        "word": "王牌对王牌",
+        "onboard_time": 1753573579,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101013,
+        "num": 107612,
+        "word": "贺峻霖老师澄清贺峻霖保研",
+        "onboard_time": 1753581202,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36319,
+        "num": 107515,
+        "word": "密云暴雨转移群众3065人",
+        "onboard_time": 1753582221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107511,
+        "num": 107511,
+        "word": "终于有人把考公考编区别讲明白了",
+        "onboard_time": 1753575500,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102281,
+        "num": 102281,
+        "word": "狗 为了你我变成狼人模样",
+        "onboard_time": 1753579821,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101406,
+        "num": 101406,
+        "word": "花千骨和三生三世十里桃花哪个更爆",
+        "onboard_time": 1753533985,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97674,
+        "num": 97674,
+        "word": "潘展乐点赞蔡徐坤deadman视频",
+        "onboard_time": 1753572377,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 92868,
+        "num": 92868,
+        "word": "男子疑因未洗罐装瓶口染鼠尿病身亡",
+        "onboard_time": 1753543405,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90212,
+        "num": 90212,
+        "word": "23岁男子疑因未洗罐装饮料染病身亡",
+        "onboard_time": 1753578202,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88636,
+        "num": 88636,
+        "word": "蒲熠星巡回演唱会",
+        "onboard_time": 1753582342,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87935,
+        "num": 87935,
+        "word": "没有脚踝是一件挺不性感的事",
+        "onboard_time": 1753575801,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83847,
+        "num": 83847,
+        "word": "基孔肯雅热住院患者发声",
+        "onboard_time": 1753572257,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83224,
+        "num": 83224,
+        "word": "民进党的政治操弄不得人心",
+        "onboard_time": 1753583001,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83200,
+        "num": 83200,
+        "word": "糊涂家长下猛药女婴被喂出肝衰竭",
+        "onboard_time": 1753547543,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81599,
+        "num": 81599,
+        "word": "其实大家都在偷偷攒钱",
+        "onboard_time": 1753575080,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81054,
+        "num": 81054,
+        "word": "李炜 版权可聊",
+        "onboard_time": 1753543286,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80808,
+        "num": 80808,
+        "word": "敖瑞鹏哭戏",
+        "onboard_time": 1753582102,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80618,
+        "num": 80618,
+        "word": "罗小黑你就是这么报答关晓彤的",
+        "onboard_time": 1753577301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80287,
+        "num": 80287,
+        "word": "柯淳自曝经济状况紧张",
+        "onboard_time": 1753533503,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80129,
+        "num": 80129,
+        "word": "QQ你对我意见很大吗",
+        "onboard_time": 1753575560,
+        "rank": 46,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 79086,
+        "num": 79086,
+        "word": "村超现场有肖战粉丝小飞侠方阵",
+        "onboard_time": 1753571177,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 74441,
+        "num": 74441,
+        "word": "致学生遇难矿浆温度正常无有毒物质",
+        "onboard_time": 1753582582,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73694,
+        "num": 73694,
+        "word": "演唱会CEO出轨的最大赢家出现了",
+        "onboard_time": 1753532063,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平以桥为喻阐述中欧关系#"
+    }
+  }
+}
