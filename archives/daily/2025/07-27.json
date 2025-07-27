@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753615371676,
+  "endTime": 1753616329170,
   "band_list": [
     {
       "raw_hot": 2420501,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 924876,
+      "num": 360600,
+      "word": "网友吐槽8小时高铁乘客打电话7小时",
+      "onboard_time": 1753610543,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 905641,
       "num": 813282,
       "word": "丁程鑫脖子上有唇印",
@@ -139,14 +147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 835581,
-      "num": 360600,
-      "word": "网友吐槽8小时高铁乘客打电话7小时",
-      "onboard_time": 1753610543,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 817579,
       "num": 817579,
       "word": "多所高校宣布延长研究生学制",
@@ -169,6 +169,14 @@
       "onboard_time": 1753585762,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742121,
+      "num": 1118739,
+      "word": "东营震感",
+      "onboard_time": 1753615764,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 714517,
@@ -267,12 +275,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 620207,
+      "num": 359774,
+      "word": "她一次性做了我一辈子的工作",
+      "onboard_time": 1753610302,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 604810,
       "num": 604810,
       "word": "蜜雪冰城客服回应冰淇淋融化快",
       "onboard_time": 1753605383,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 603333,
+      "num": 359295,
+      "word": "虞书欣工作室通知",
+      "onboard_time": 1753614023,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 583680,
@@ -307,14 +331,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 536363,
-      "num": 359774,
-      "word": "她一次性做了我一辈子的工作",
-      "onboard_time": 1753610302,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 526406,
       "num": 526406,
       "word": "李炜 版权可聊",
@@ -339,8 +355,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 510242,
+      "num": 510242,
+      "word": "樊振东vs松岛辉空",
+      "onboard_time": 1753614322,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508708,
-      "num": 361960,
+      "num": 454535,
       "word": "凡人修仙传首播口碑",
       "onboard_time": 1753613061,
       "rank": 49,
@@ -353,14 +377,6 @@
       "onboard_time": 1753590020,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 501576,
-      "num": 359295,
-      "word": "虞书欣工作室通知",
-      "onboard_time": 1753614023,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 483612,
@@ -859,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207122,
-      "num": 356018,
-      "word": "樊振东vs松岛辉空",
-      "onboard_time": 1753614322,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206613,
       "num": 206613,
       "word": "这才是真实的冷宫",
@@ -955,6 +963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191609,
+      "num": 191609,
+      "word": "闪耀暖暖六周年直播",
+      "onboard_time": 1753615883,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190214,
       "num": 190214,
       "word": "韩国博主男扮女装印度旅行",
@@ -969,6 +985,14 @@
       "onboard_time": 1753608502,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186125,
+      "num": 186125,
+      "word": "杨洋没否认韩立是山东人",
+      "onboard_time": 1753615282,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 186069,
@@ -1203,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165294,
+      "num": 165294,
+      "word": "石宇奇夺冠文案查重率100%",
+      "onboard_time": 1753615582,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165228,
       "num": 165228,
       "word": "韦雪说不敢联系秦奋",
@@ -1371,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155503,
+      "num": 172284,
+      "word": "12306回应乘客高铁打7小时电话争议",
+      "onboard_time": 1753612942,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154022,
       "num": 154022,
       "word": "14岁安吉这么帅了",
@@ -1460,7 +1500,7 @@
     },
     {
       "raw_hot": 149845,
-      "num": 149845,
+      "num": 165249,
       "word": "多名女性称曾遭同一面试官施暴",
       "onboard_time": 1753606223,
       "rank": 33,
@@ -1497,14 +1537,6 @@
       "onboard_time": 1753591042,
       "rank": 25,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 147346,
-      "num": 147346,
-      "word": "12306回应乘客高铁打7小时电话争议",
-      "onboard_time": 1753612942,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147149,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1753583841,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142388,
+      "num": 312492,
+      "word": "香港一酒店有男子坠亡妻儿死在房内",
+      "onboard_time": 1753614083,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142361,
@@ -1787,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132384,
+      "num": 165277,
+      "word": "和迪丽热巴是瑰蜜关系",
+      "onboard_time": 1753615883,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131599,
       "num": 131599,
       "word": "Rapeter不辜负严浩翔万妮达",
@@ -1971,14 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124155,
-      "num": 124155,
-      "word": "杨洋没否认韩立是山东人",
-      "onboard_time": 1753615282,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123843,
       "num": 123843,
       "word": "沈月程潇攀岩互相拍照",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1753613061,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122957,
+      "num": 122957,
+      "word": "樊振东vs袁励岑",
+      "onboard_time": 1753616064,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 122354,
@@ -2059,6 +2107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120494,
+      "num": 363984,
+      "word": "泰柬双方将在马来西亚举行会晤",
+      "onboard_time": 1753613902,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120381,
       "num": 120381,
       "word": "谁懂李兰迪这个挑衅的表情",
@@ -2097,14 +2153,6 @@
       "onboard_time": 1753597160,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117170,
-      "num": 363984,
-      "word": "泰柬双方将在马来西亚举行会晤",
-      "onboard_time": 1753613902,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116335,
@@ -2193,14 +2241,6 @@
       "onboard_time": 1753613722,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113236,
-      "num": 312492,
-      "word": "香港一酒店有男子坠亡妻儿死在房内",
-      "onboard_time": 1753614083,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 113130,
@@ -2347,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106647,
+      "num": 106647,
+      "word": "什么时候该结束一段关系",
+      "onboard_time": 1753616302,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106642,
       "num": 106642,
       "word": "Rapeter押完蒋文涵押刘聪",
@@ -2363,12 +2411,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106380,
+      "num": 106380,
+      "word": "160斤躺瘦一天的真实状态",
+      "onboard_time": 1753615643,
+      "rank": 45,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 106121,
+      "num": 106121,
+      "word": "BBC有史以来最真实的报道之一",
+      "onboard_time": 1753615522,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104987,
       "num": 104987,
       "word": "作弊式赶海",
       "onboard_time": 1753592362,
       "rank": 41,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 104943,
+      "num": 132625,
+      "word": "王楚钦看似休战其实超忙",
+      "onboard_time": 1753615702,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 103931,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1753612522,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 89288,
+      "num": 352521,
+      "word": "大同失联中巴车上均为外出务工人员",
+      "onboard_time": 1753614441,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 88636,
@@ -2723,6 +2803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 70441,
+      "num": 165258,
+      "word": "口腔溃疡长期不愈小心癌症",
+      "onboard_time": 1753614501,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69940,
       "num": 116357,
       "word": "骑三轮大爷撞上劳斯莱斯执意赔钱",
@@ -2849,14 +2937,6 @@
       "onboard_time": 1753549761,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 52053,
-      "num": 352521,
-      "word": "大同失联中巴车上均为外出务工人员",
-      "onboard_time": 1753614441,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 51362,
