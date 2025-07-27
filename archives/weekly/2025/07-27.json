@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753612100831,
+  "endTime": 1753613168037,
   "band_list": [
     {
       "raw_hot": 2420501,
@@ -251,8 +251,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 555474,
-      "num": 555474,
+      "raw_hot": 558114,
+      "num": 558114,
       "word": "蜜雪冰城客服回应冰淇淋融化快",
       "onboard_time": 1753605383,
       "rank": 21,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538943,
+      "num": 461773,
+      "word": "从128斤瘦到94斤的邪修减肥",
+      "onboard_time": 1753607603,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 526406,
       "num": 526406,
       "word": "李炜 版权可聊",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516874,
+      "num": 516874,
+      "word": "仙逆",
+      "onboard_time": 1753611382,
+      "rank": 11,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 503271,
       "num": 433824,
       "word": "印度1岁男童徒手将眼镜蛇撕成两半",
@@ -299,20 +315,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 498942,
-      "num": 395852,
-      "word": "从128斤瘦到94斤的邪修减肥",
-      "onboard_time": 1753607603,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 483612,
       "num": 414648,
       "word": "孙千彭冠英 早春晴朗",
       "onboard_time": 1753603043,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 472186,
+      "num": 472186,
+      "word": "四果汤",
+      "onboard_time": 1753609041,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 467844,
@@ -329,6 +345,14 @@
       "onboard_time": 1753593202,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 455703,
+      "num": 455703,
+      "word": "李小冉给何炅备注八块腹肌不能删",
+      "onboard_time": 1753611502,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 446485,
@@ -403,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 412995,
-      "num": 412995,
-      "word": "四果汤",
-      "onboard_time": 1753609041,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 410502,
       "num": 462419,
       "word": "李小龙死因或系癫痫",
@@ -449,6 +465,14 @@
       "onboard_time": 1753536866,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 386658,
+      "num": 386658,
+      "word": "王玉雯大大方方的一辈子",
+      "onboard_time": 1753611623,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 386380,
@@ -523,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 328033,
-      "num": 328033,
-      "word": "仙逆",
-      "onboard_time": 1753611382,
-      "rank": 11,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 326081,
       "num": 326081,
       "word": "樊振东说现阶段无法承受各方面压力",
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301570,
+      "num": 301570,
+      "word": "aespa新歌初舞台",
+      "onboard_time": 1753610183,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299906,
       "num": 299906,
       "word": "章若楠完全是按照视觉爽点长的",
@@ -569,14 +593,6 @@
       "onboard_time": 1753603823,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 286368,
-      "num": 286368,
-      "word": "aespa新歌初舞台",
-      "onboard_time": 1753610183,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 284934,
@@ -683,12 +699,28 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 241078,
+      "num": 225443,
+      "word": "印度女子昏迷在救护车遭轮奸",
+      "onboard_time": 1753612821,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 237238,
       "num": 237238,
       "word": "锦月如歌",
       "onboard_time": 1753594283,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231816,
+      "num": 231816,
+      "word": "网友吐槽8小时高铁乘客打电话7小时",
+      "onboard_time": 1753610543,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230482,
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 209359,
-      "num": 450290,
+      "num": 481775,
       "word": "特朗普又发奥巴马恶搞图",
       "onboard_time": 1753607002,
       "rank": 9,
@@ -835,6 +867,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195376,
+      "num": 195376,
+      "word": "她一次性做了我一辈子的工作",
+      "onboard_time": 1753610302,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 195182,
+      "num": 195182,
+      "word": "释永信最后一次公开露面",
+      "onboard_time": 1753608322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195021,
+      "num": 195021,
+      "word": "和平精英",
+      "onboard_time": 1753612821,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193925,
       "num": 145640,
       "word": "梁伟铿感谢战友王昶",
@@ -867,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187331,
-      "num": 241915,
-      "word": "李小冉给何炅备注八块腹肌不能删",
-      "onboard_time": 1753611502,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186069,
       "num": 186069,
       "word": "Gr对战北京WBG",
@@ -883,28 +931,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184876,
-      "num": 184876,
-      "word": "网友吐槽8小时高铁乘客打电话7小时",
-      "onboard_time": 1753610543,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184502,
       "num": 184502,
       "word": "一诺登顶世一射",
       "onboard_time": 1753604063,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183951,
-      "num": 163997,
-      "word": "她一次性做了我一辈子的工作",
-      "onboard_time": 1753610302,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 183857,
@@ -939,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180536,
+      "num": 172728,
+      "word": "RC夺冠",
+      "onboard_time": 1753611861,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179695,
       "num": 179695,
       "word": "努力的女明星都火起来了",
@@ -971,14 +1011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 175540,
-      "num": 175540,
-      "word": "释永信最后一次公开露面",
-      "onboard_time": 1753608322,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174783,
       "num": 174783,
       "word": "三个少年直播探班王牌",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1753583722,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171864,
+      "num": 172817,
+      "word": "朕与杨贵妃何曾有过嫌隙",
+      "onboard_time": 1753612222,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 171827,
@@ -1091,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168844,
-      "num": 168844,
-      "word": "RC夺冠",
-      "onboard_time": 1753611861,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 166146,
       "num": 166146,
       "word": "张靓颖有意见憋着吧",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1753599682,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164221,
+      "num": 164221,
+      "word": "北京大暴雨为什么下在密云怀柔",
+      "onboard_time": 1753607961,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164186,
@@ -1203,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160176,
+      "num": 160176,
+      "word": "仙逆王林",
+      "onboard_time": 1753612883,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 159876,
       "num": 159876,
       "word": "现在的女装是不是对宽松有什么误解",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1753596684,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157085,
+      "num": 157085,
+      "word": "IJL",
+      "onboard_time": 1753612281,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 156641,
@@ -1307,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151061,
-      "num": 151061,
-      "word": "北京大暴雨为什么下在密云怀柔",
-      "onboard_time": 1753607961,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150934,
       "num": 150934,
       "word": "不停运动三个月瘦了35斤",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1753606223,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149543,
+      "num": 149543,
+      "word": "T1对战NS",
+      "onboard_time": 1753612161,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 149443,
@@ -1569,6 +1625,14 @@
       "onboard_time": 1753605563,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135117,
+      "num": 135117,
+      "word": "陆家嘴四件套",
+      "onboard_time": 1753608142,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 135030,
@@ -1811,12 +1875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122698,
-      "num": 122698,
-      "word": "王玉雯大大方方的一辈子",
-      "onboard_time": 1753611623,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 123086,
+      "num": 123086,
+      "word": "吒宝好一个制服欧巴",
+      "onboard_time": 1753613061,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 122354,
@@ -1971,6 +2035,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 114068,
+      "num": 114068,
+      "word": "武汉大学医学生回应机舱救人引争议",
+      "onboard_time": 1753612042,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114013,
       "num": 114013,
       "word": "董力何浩楠出场像走了个秀",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1753591702,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113307,
+      "num": 113307,
+      "word": "12306回应乘客高铁打7小时电话争议",
+      "onboard_time": 1753612942,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113130,
@@ -2155,14 +2235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 105366,
-      "num": 105366,
-      "word": "武汉大学医学生回应机舱救人引争议",
-      "onboard_time": 1753612042,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104987,
       "num": 104987,
       "word": "作弊式赶海",
@@ -2227,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100476,
+      "num": 100476,
+      "word": "凡人修仙传首播口碑",
+      "onboard_time": 1753613061,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100080,
       "num": 100080,
       "word": "万千惠被老公言论整懵了",
@@ -2273,14 +2353,6 @@
       "onboard_time": 1753575801,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96684,
-      "num": 96684,
-      "word": "陆家嘴四件套",
-      "onboard_time": 1753608142,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 95638,
@@ -2779,6 +2851,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 30058,
+      "num": 225593,
+      "word": "央视揭互联网保险藏暗礁",
+      "onboard_time": 1753612522,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27799,
       "num": 134888,
       "word": "9名未成年围殴1人叫嚣欢迎报警",
@@ -2875,7 +2955,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2618,
+      "raw_hot": 3033,
       "num": 697423,
       "word": "数智新时代电商新价值",
       "onboard_time": 1753506922,
