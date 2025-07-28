@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753714183620,
+  "endTime": 1753716697897,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1301109,
-      "num": 727303,
+      "num": 762745,
       "word": "省厅邓妍",
       "onboard_time": 1753709964,
       "rank": 39,
@@ -131,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1172459,
+      "num": 286124,
+      "word": "美国发现一颗富含黄金小行星",
+      "onboard_time": 1753713924,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1158938,
       "num": 1158938,
       "word": "金价",
@@ -160,6 +168,22 @@
       "word": "嵩山少林景区再发公告",
       "onboard_time": 1753674682,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1074053,
+      "num": 399314,
+      "word": "网易云回应张碧晨原唱取消又恢复",
+      "onboard_time": 1753713205,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1042517,
+      "num": 1042517,
+      "word": "北京大雨",
+      "onboard_time": 1753712786,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -403,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 589716,
-      "num": 399314,
-      "word": "网易云回应张碧晨原唱取消又恢复",
-      "onboard_time": 1753713205,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 587271,
       "num": 319428,
       "word": "朱孝天回应删明道好友",
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510052,
+      "num": 1081608,
+      "word": "针对北京河北启动国家救灾应急响应",
+      "onboard_time": 1753715424,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495188,
       "num": 495188,
       "word": "北京全市景区关闭",
@@ -576,14 +600,6 @@
       "word": "商场女厕所隔间被指安装双面镜",
       "onboard_time": 1753705405,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 447891,
-      "num": 447891,
-      "word": "北京大雨",
-      "onboard_time": 1753712786,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -681,6 +697,14 @@
       "onboard_time": 1753705405,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 369510,
+      "num": 369510,
+      "word": "密云暴雨",
+      "onboard_time": 1753714166,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363762,
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232699,
+      "num": 232699,
+      "word": "聚焦北京暴雨",
+      "onboard_time": 1753713386,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232680,
       "num": 272581,
       "word": "拿下权志龙只需要一个小风扇",
@@ -1195,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209431,
+      "num": 254688,
+      "word": "心动的信号 嘉宾",
+      "onboard_time": 1753715724,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209404,
       "num": 209404,
       "word": "你减肥主要靠什么",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1753678704,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199826,
+      "num": 201227,
+      "word": "朝雪录太子被偷走的人生",
+      "onboard_time": 1753710145,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 199576,
@@ -1443,14 +1491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 190055,
-      "num": 201227,
-      "word": "朝雪录太子被偷走的人生",
-      "onboard_time": 1753710145,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189953,
       "num": 189953,
       "word": "虞书欣工作室通知",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1753681761,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188932,
+      "num": 188932,
+      "word": "金泰亨说中文",
+      "onboard_time": 1753715724,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 187046,
@@ -1531,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185149,
+      "num": 185149,
+      "word": "秦岚包场利剑玫瑰",
+      "onboard_time": 1753716444,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184934,
       "num": 184934,
       "word": "徐磊 世界姐",
@@ -1545,6 +1601,14 @@
       "onboard_time": 1753676785,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183000,
+      "num": 183000,
+      "word": "山东女正厅袭燕主动投案",
+      "onboard_time": 1753715305,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182960,
@@ -1771,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163483,
+      "num": 163483,
+      "word": "北京非必要不要求员工到岗",
+      "onboard_time": 1753714045,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163319,
       "num": 163319,
       "word": "北京地铁",
@@ -1937,6 +2009,14 @@
       "onboard_time": 1753679125,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156427,
+      "num": 156427,
+      "word": "一个家最好的相处模式",
+      "onboard_time": 1753716563,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 156277,
@@ -2211,6 +2291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141162,
+      "num": 141162,
+      "word": "金世佳演技",
+      "onboard_time": 1753716444,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141004,
+      "num": 141004,
+      "word": "陈鲁豫说易烊千玺双会齐飞",
+      "onboard_time": 1753714045,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140932,
       "num": 142281,
       "word": "马斯克预言的机器人送餐在上海实现",
@@ -2225,14 +2321,6 @@
       "onboard_time": 1753682183,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139843,
-      "num": 139843,
-      "word": "陈鲁豫说易烊千玺双会齐飞",
-      "onboard_time": 1753714045,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 139375,
@@ -2337,14 +2425,6 @@
       "onboard_time": 1753700722,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134010,
-      "num": 134010,
-      "word": "密云暴雨",
-      "onboard_time": 1753714166,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133768,
@@ -2467,12 +2547,12 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 126500,
-      "num": 126500,
-      "word": "美国发现一颗富含黄金小行星",
-      "onboard_time": 1753713924,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 126760,
+      "num": 126760,
+      "word": "阿云嘎也抢不到票",
+      "onboard_time": 1753715125,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 125772,
@@ -2635,20 +2715,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118395,
-      "num": 152714,
-      "word": "北京非必要不要求员工到岗",
-      "onboard_time": 1753714045,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118330,
       "num": 118330,
       "word": "杨幂说自己变得不那么好说话",
       "onboard_time": 1753688544,
       "rank": 49,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 117850,
+      "num": 117850,
+      "word": "scout评分",
+      "onboard_time": 1753714943,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 116860,
@@ -2777,6 +2857,14 @@
       "onboard_time": 1753629206,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107065,
+      "num": 107065,
+      "word": "敖瑞鹏初中时期旧照",
+      "onboard_time": 1753714285,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 106919,
@@ -3171,6 +3259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45467,
+      "num": 112439,
+      "word": "北京出现西红柿炒鸡蛋雷达图",
+      "onboard_time": 1753715786,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45060,
+      "num": 267323,
+      "word": "京冀洪水防御响应提至Ⅲ级",
+      "onboard_time": 1753716382,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44601,
       "num": 148411,
       "word": "你们机器人不要再打啦",
@@ -3233,6 +3337,14 @@
       "onboard_time": 1753636998,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 38596,
+      "num": 246885,
+      "word": "罗大美家属称嫌犯像劳荣枝太会装",
+      "onboard_time": 1753715786,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38551,
