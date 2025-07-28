@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753745369129,
+  "endTime": 1753746279284,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2307,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3860760,
+      "num": 4721521,
+      "word": "北京因灾死亡30人",
+      "onboard_time": 1753744518,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3850490,
       "num": 3850490,
       "word": "侵华日军为便于奸淫百姓赤身骑马",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742520561,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3761403,
-      "num": 1037137,
-      "word": "张大大被指暴力殴打工作人员",
-      "onboard_time": 1737798499,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
