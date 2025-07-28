@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753669389558,
+  "endTime": 1753670538989,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -27,8 +27,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 955941,
-      "num": 955941,
+      "raw_hot": 978510,
+      "num": 978510,
       "word": "前央视主持人杨茗茗离职后自曝后悔",
       "onboard_time": 1753665083,
       "rank": 1,
@@ -43,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 891822,
-      "num": 891822,
+      "raw_hot": 930073,
+      "num": 930073,
       "word": "释永信与多名女性保持不正当关系",
       "onboard_time": 1753618822,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 858552,
+      "num": 346095,
+      "word": "吴京谢楠大儿子肌肉照",
+      "onboard_time": 1753667361,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 709341,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 686478,
-      "num": 321751,
+      "num": 344912,
       "word": "汪峰带四个孩子回京",
       "onboard_time": 1753666521,
       "rank": 10,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 597090,
-      "num": 204683,
+      "num": 212049,
       "word": "宁宁",
       "onboard_time": 1753628304,
       "rank": 20,
@@ -83,6 +91,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 517406,
+      "num": 517406,
+      "word": "我国头颈癌患者发病率呈上升趋势",
+      "onboard_time": 1753666762,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 515895,
+      "num": 515895,
+      "word": "大雨还要下多久",
+      "onboard_time": 1753665620,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461104,
       "num": 283039,
       "word": "生理期真正不能做的10件事",
@@ -91,24 +115,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 458659,
-      "num": 318872,
-      "word": "吴京谢楠大儿子肌肉照",
-      "onboard_time": 1753667361,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 412997,
-      "num": 412997,
-      "word": "大雨还要下多久",
-      "onboard_time": 1753665620,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377289,
-      "num": 377289,
+      "raw_hot": 378246,
+      "num": 378246,
       "word": "深情眼你敢演我不敢看了",
       "onboard_time": 1753663463,
       "rank": 7,
@@ -139,8 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335195,
-      "num": 335195,
+      "raw_hot": 343312,
+      "num": 343312,
       "word": "释永信涉嫌刑事犯罪",
       "onboard_time": 1753618882,
       "rank": 17,
@@ -177,6 +185,14 @@
       "onboard_time": 1753663463,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297091,
+      "num": 322206,
+      "word": "首席预报员分析北京本轮雨情",
+      "onboard_time": 1753665203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288552,
@@ -243,20 +259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247022,
-      "num": 247022,
-      "word": "我国头颈癌患者发病率呈上升趋势",
-      "onboard_time": 1753666762,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 241226,
       "num": 214936,
       "word": "越吃越胖的素菜名单",
       "onboard_time": 1753662683,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239648,
+      "num": 348310,
+      "word": "和朱一龙一起从抗战文物中汲取力量",
+      "onboard_time": 1753670062,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 232297,
@@ -267,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226313,
+      "num": 226313,
+      "word": "美国与欧盟达成贸易协议",
+      "onboard_time": 1753658599,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217552,
       "num": 217552,
       "word": "人真的会突然变好",
       "onboard_time": 1753665562,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214063,
-      "num": 214063,
-      "word": "美国与欧盟达成贸易协议",
-      "onboard_time": 1753658599,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 213156,
@@ -299,12 +315,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205597,
+      "num": 205597,
+      "word": "白家阿宽向消费者和麻六记致歉",
+      "onboard_time": 1753669522,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204571,
       "num": 204571,
       "word": "金泫雅更新ins",
       "onboard_time": 1753622845,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201993,
+      "num": 201993,
+      "word": "盗墓笔记",
+      "onboard_time": 1753669522,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195307,
+      "num": 215773,
+      "word": "杨洋确实就是硬帅",
+      "onboard_time": 1753666162,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 191915,
@@ -323,12 +363,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184934,
+      "num": 184934,
+      "word": "徐磊 世界姐",
+      "onboard_time": 1753665383,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 182960,
       "num": 182960,
       "word": "鸠摩智",
       "onboard_time": 1753631064,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182313,
+      "num": 212318,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1753670001,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 167648,
+      "num": 167648,
+      "word": "怀孕后脏器都被挤变形了",
+      "onboard_time": 1753669042,
+      "rank": 31,
+      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 166058,
@@ -419,12 +483,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149543,
-      "num": 149543,
-      "word": "徐磊 世界姐",
-      "onboard_time": 1753665383,
-      "rank": 30,
-      "category": "读书作家"
+      "raw_hot": 149983,
+      "num": 149983,
+      "word": "国家安全部披露间谍常用套路",
+      "onboard_time": 1753661062,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147697,
@@ -443,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146904,
-      "num": 215773,
-      "word": "杨洋确实就是硬帅",
-      "onboard_time": 1753666162,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146114,
       "num": 146114,
       "word": "她一次性做了我一辈子的工作",
@@ -459,20 +515,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145216,
+      "num": 145216,
+      "word": "太平洋岛国图瓦卢计划举国移民",
+      "onboard_time": 1753670121,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144561,
       "num": 144561,
       "word": "释永信涉嫌挪用侵占寺院资产",
       "onboard_time": 1753621226,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142653,
-      "num": 142653,
-      "word": "怀孕后脏器都被挤变形了",
-      "onboard_time": 1753669042,
-      "rank": 31,
-      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 133768,
@@ -491,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128276,
+      "num": 128276,
+      "word": "高质量完成十四五规划",
+      "onboard_time": 1753670421,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126976,
       "num": 126976,
       "word": "切开的西瓜能冷藏多久",
       "onboard_time": 1753667361,
       "rank": 33,
       "category": "美食,民生新闻"
-    },
-    {
-      "raw_hot": 126548,
-      "num": 126548,
-      "word": "国家安全部披露间谍常用套路",
-      "onboard_time": 1753661062,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123885,
@@ -563,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113729,
-      "num": 322206,
-      "word": "首席预报员分析北京本轮雨情",
-      "onboard_time": 1753665203,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 114392,
+      "num": 212162,
+      "word": "肝炎一定会发展成肝癌吗",
+      "onboard_time": 1753670181,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113435,
@@ -595,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109919,
+      "num": 109919,
+      "word": "华北东北持续雨雨雨雨雨",
+      "onboard_time": 1753667301,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107342,
       "num": 107342,
       "word": "韩国热到冰美式都不冰了",
@@ -611,12 +675,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103639,
+      "num": 103639,
+      "word": "30岁住1500一月养老院的日常",
+      "onboard_time": 1753669762,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103365,
       "num": 103365,
       "word": "方丈负责制下的少林寺商业化之路",
       "onboard_time": 1753667661,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99981,
+      "num": 99981,
+      "word": "陈都灵包场杨洋凡人修仙传",
+      "onboard_time": 1753668141,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99311,
+      "num": 119256,
+      "word": "日本人的无油晚餐",
+      "onboard_time": 1753670421,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98177,
@@ -659,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88984,
-      "num": 88984,
-      "word": "华北东北持续雨雨雨雨雨",
-      "onboard_time": 1753667301,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87726,
       "num": 87726,
       "word": "亚马逊创始人套现超400亿元",
@@ -681,14 +761,6 @@
       "onboard_time": 1753658659,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86779,
-      "num": 86779,
-      "word": "陈都灵包场杨洋凡人修仙传",
-      "onboard_time": 1753668141,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 85782,
@@ -891,12 +963,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20305,
+      "num": 188009,
+      "word": "密云游客遇洪水被困农家院跳窗逃生",
+      "onboard_time": 1753669881,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19157,
       "num": 21529,
       "word": "汪苏泷丝绒西装造型像是来结婚的",
       "onboard_time": 1753648934,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17263,
+      "num": 212521,
+      "word": "盘点释永信相关企业和少林系产业",
+      "onboard_time": 1753669881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15439,
@@ -931,8 +1019,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4013,
-      "num": 916965,
+      "raw_hot": 4503,
+      "num": 933260,
       "word": "数智新时代电商新价值",
       "onboard_time": 1753506922,
       "rank": 2,
