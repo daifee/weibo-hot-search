@@ -1,0 +1,410 @@
+{
+  "runTime": 1753738911718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 63965,
+        "num": 187335,
+        "word": "针对北京河北启动国家救灾应急响应",
+        "onboard_time": 1753715424,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218287,
+        "num": 165114,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15299,
+        "num": 141432,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139561,
+        "num": 139561,
+        "word": "爸爸回应女儿去世儿子患同种病进ICU",
+        "onboard_time": 1753726456,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56084,
+        "num": 56084,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55254,
+        "num": 55254,
+        "word": "聚焦北京暴雨",
+        "onboard_time": 1753713386,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46636,
+        "num": 46636,
+        "word": "柬泰两国领导人分别感谢中国",
+        "onboard_time": 1753717881,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43107,
+        "num": 43107,
+        "word": "释永信春节前后已被限制出境",
+        "onboard_time": 1753702104,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38534,
+        "num": 38534,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753703603,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31426,
+        "num": 38037,
+        "word": "金世佳演技",
+        "onboard_time": 1753716444,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104760,
+        "num": 36915,
+        "word": "全红婵近照",
+        "onboard_time": 1753717042,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63051,
+        "num": 36392,
+        "word": "美国发现一颗富含黄金小行星",
+        "onboard_time": 1753713924,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52804,
+        "num": 35733,
+        "word": "杨采钰是生了吗",
+        "onboard_time": 1753719261,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43173,
+        "num": 35193,
+        "word": "网易云回应张碧晨原唱取消又恢复",
+        "onboard_time": 1753713205,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34418,
+        "num": 34418,
+        "word": "村委会会计涉嫌杀害前夫潜逃26年",
+        "onboard_time": 1753728855,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33373,
+        "num": 33373,
+        "word": "居家办公",
+        "onboard_time": 1753717583,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 32831,
+        "word": "北京大雨",
+        "onboard_time": 1753712786,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27971,
+        "num": 27971,
+        "word": "任权回应薛小婉整容",
+        "onboard_time": 1753720460,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23666,
+        "num": 27675,
+        "word": "秦岚包场利剑玫瑰",
+        "onboard_time": 1753716444,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23137,
+        "num": 27527,
+        "word": "早春晴朗选角争议",
+        "onboard_time": 1753723458,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94680,
+        "num": 27515,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 20,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 27408,
+        "num": 27408,
+        "word": "小英喂药量杯不洗",
+        "onboard_time": 1753709546,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25876,
+        "num": 25876,
+        "word": "中方敦促乌方立即纠正错误",
+        "onboard_time": 1753702523,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25403,
+        "num": 25403,
+        "word": "麻六记酸辣粉发霉背后",
+        "onboard_time": 1753718782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25137,
+        "num": 25137,
+        "word": "山东女正厅袭燕主动投案",
+        "onboard_time": 1753715305,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25062,
+        "num": 25062,
+        "word": "中国司机生命最后挽救一车韩国游客",
+        "onboard_time": 1753731974,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24934,
+        "num": 24934,
+        "word": "北京发布积水内涝橙色预警",
+        "onboard_time": 1753723637,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21815,
+        "num": 21815,
+        "word": "省厅邓妍",
+        "onboard_time": 1753709964,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21601,
+        "num": 21601,
+        "word": "中方回应乌方制裁中国等国个人法人实体",
+        "onboard_time": 1753725017,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21313,
+        "num": 21313,
+        "word": "女儿患病离世儿子又患同种病进ICU",
+        "onboard_time": 1753717881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28001,
+        "num": 21307,
+        "word": "原来月经是我们的健康显示器",
+        "onboard_time": 1753705405,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24685,
+        "num": 21287,
+        "word": "北京最大降水量315毫米什么概念",
+        "onboard_time": 1753738094,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21240,
+        "num": 21240,
+        "word": "直击北京暴雨救援",
+        "onboard_time": 1753718121,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20371,
+        "num": 20371,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1753706062,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19582,
+        "num": 19582,
+        "word": "麻六记致歉",
+        "onboard_time": 1753708105,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19274,
+        "num": 19274,
+        "word": "广东地毯式消杀花斑蚊",
+        "onboard_time": 1753720520,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18964,
+        "num": 18964,
+        "word": "密云暴雨",
+        "onboard_time": 1753714166,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18758,
+        "num": 18758,
+        "word": "卜冠今变化",
+        "onboard_time": 1753707563,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18412,
+        "num": 18412,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 38,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 17423,
+        "num": 17423,
+        "word": "增加调拨4.3万件物资支持京冀救灾",
+        "onboard_time": 1753718543,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17242,
+        "num": 17242,
+        "word": "货车坠桥遭村民哄抢冻品损失40万",
+        "onboard_time": 1753737434,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17076,
+        "num": 17076,
+        "word": "育儿补贴制度实施方案发布",
+        "onboard_time": 1753694122,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16315,
+        "num": 16315,
+        "word": "心动的信号 嘉宾",
+        "onboard_time": 1753715724,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16278,
+        "num": 16278,
+        "word": "女子筷子5年不换胃里发现黄曲霉菌",
+        "onboard_time": 1753713205,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16241,
+        "num": 16241,
+        "word": "广东人陷入高温暴雨循环",
+        "onboard_time": 1753716683,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16180,
+        "num": 16180,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15523,
+        "num": 16179,
+        "word": "王楚钦乒超第二阶段男单五连胜",
+        "onboard_time": 1753717163,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14491,
+        "num": 16176,
+        "word": "看得出张雅钦是真公主",
+        "onboard_time": 1753718903,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14109,
+        "num": 16175,
+        "word": "山东魏桥乒超首败",
+        "onboard_time": 1753713025,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11933,
+        "num": 16174,
+        "word": "迪丽热巴利剑玫瑰开车追人贩子",
+        "onboard_time": 1753731134,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧大个子携手下一个50年#"
+    }
+  }
+}
