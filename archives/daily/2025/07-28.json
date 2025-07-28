@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753701915874,
+  "endTime": 1753702891796,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -27,20 +27,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 2628804,
+      "num": 2628804,
+      "word": "网易云取消张碧晨三首歌原唱",
+      "onboard_time": 1753700003,
+      "rank": 0,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 2410597,
       "num": 2410597,
       "word": "官方查处一批明星偷逃税案件",
       "onboard_time": 1753691004,
       "rank": 18,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 2336412,
-      "num": 2336412,
-      "word": "网易云取消张碧晨三首歌原唱",
-      "onboard_time": 1753700003,
-      "rank": 0,
-      "category": "音乐,互联网"
     },
     {
       "raw_hot": 1942099,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 970864,
+      "num": 416170,
+      "word": "魏如萱承认恋情",
+      "onboard_time": 1753701144,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 940972,
       "num": 288867,
       "word": "释延鲁",
@@ -243,7 +251,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 760185,
+      "raw_hot": 782179,
       "num": 316404,
       "word": "杨洋迪丽热巴 荣耀夫妇对打",
       "onboard_time": 1753699043,
@@ -257,14 +265,6 @@
       "onboard_time": 1753696882,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 721558,
-      "num": 312293,
-      "word": "魏如萱承认恋情",
-      "onboard_time": 1753701144,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 709341,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 587271,
-      "num": 308742,
+      "num": 319428,
       "word": "朱孝天回应删明道好友",
       "onboard_time": 1753697242,
       "rank": 12,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 495188,
+      "num": 495188,
+      "word": "北京全市景区关闭",
+      "onboard_time": 1753699462,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471015,
       "num": 471015,
       "word": "东方甄选主播离职后都咋样了",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 464308,
-      "num": 311192,
+      "num": 411760,
       "word": "刘诗诗染红发",
       "onboard_time": 1753698383,
       "rank": 25,
@@ -465,14 +473,6 @@
       "onboard_time": 1753626686,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 447930,
-      "num": 447930,
-      "word": "北京全市景区关闭",
-      "onboard_time": 1753699462,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 443267,
@@ -497,6 +497,14 @@
       "onboard_time": 1753681823,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427940,
+      "num": 427940,
+      "word": "覃海洋58秒23",
+      "onboard_time": 1753701801,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 412408,
@@ -587,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331055,
+      "num": 331055,
+      "word": "麻六记别躲白家阿宽后装无辜",
+      "onboard_time": 1753698682,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322758,
       "num": 348492,
       "word": "于正说赵晴总拿自己黑料调侃自己",
@@ -600,14 +616,6 @@
       "word": "释永信育有私生子",
       "onboard_time": 1753621046,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317886,
-      "num": 317886,
-      "word": "麻六记别躲白家阿宽后装无辜",
-      "onboard_time": 1753698682,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 238472,
-      "num": 292664,
+      "num": 419637,
       "word": "严浩翔说时团被吴彤做局了",
       "onboard_time": 1753699883,
       "rank": 17,
@@ -873,6 +881,14 @@
       "onboard_time": 1753677445,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235315,
+      "num": 235315,
+      "word": "中方敦促乌方立即纠正错误",
+      "onboard_time": 1753702523,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232680,
@@ -963,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214449,
+      "num": 214449,
+      "word": "王楚钦周启豪2比3薛飞向鹏",
+      "onboard_time": 1753702584,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213248,
       "num": 213248,
       "word": "尖叫瓶盖 不密封",
@@ -985,6 +1009,14 @@
       "onboard_time": 1753696343,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210401,
+      "num": 210401,
+      "word": "王牌对王牌",
+      "onboard_time": 1753702464,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 209705,
@@ -1064,6 +1096,14 @@
       "word": "李小冉转发谢娜",
       "onboard_time": 1753678226,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199499,
+      "num": 199499,
+      "word": "李乃文年轻的时候就这么老",
+      "onboard_time": 1753701683,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1579,14 +1619,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 155432,
-      "num": 155432,
-      "word": "李乃文年轻的时候就这么老",
-      "onboard_time": 1753701683,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154100,
       "num": 154100,
       "word": "读书真的会影响潜意识",
@@ -1627,14 +1659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152456,
-      "num": 152456,
-      "word": "覃海洋58秒23",
-      "onboard_time": 1753701801,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150957,
       "num": 150957,
       "word": "车银优明天入伍",
@@ -1659,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150153,
+      "num": 150153,
+      "word": "陈芋汐掌敏洁双人10米台金牌",
+      "onboard_time": 1753702643,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149983,
       "num": 920928,
       "word": "国家安全部披露间谍常用套路",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1753697300,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148241,
+      "num": 148241,
+      "word": "2岁女童患心肌炎去世家人以为是感冒",
+      "onboard_time": 1753702643,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147758,
@@ -1699,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147251,
+      "num": 147251,
+      "word": "速食湿粉 发霉",
+      "onboard_time": 1753701442,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147023,
       "num": 147023,
       "word": "2024年个税汇算专项附加扣除近3000亿元",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1753610302,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146083,
+      "num": 183134,
+      "word": "严浩翔在台下模仿张真源",
+      "onboard_time": 1753701865,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 145433,
@@ -1745,6 +1801,22 @@
       "onboard_time": 1753681761,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 143828,
+      "num": 143828,
+      "word": "黄友政vs林诗栋",
+      "onboard_time": 1753701865,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142715,
+      "num": 142715,
+      "word": "女双10米台中国队世锦赛14连冠",
+      "onboard_time": 1753702464,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 142567,
@@ -1785,6 +1857,14 @@
       "onboard_time": 1753690763,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138779,
+      "num": 425880,
+      "word": "北京暂停有组织的户外体育活动",
+      "onboard_time": 1753702343,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138070,
@@ -1899,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130880,
+      "num": 270219,
+      "word": "北京气象台发布暴雨红色预警",
+      "onboard_time": 1753693585,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129481,
       "num": 129481,
       "word": "在长久的婚姻中爱并不是秘诀",
@@ -1953,6 +2041,14 @@
       "onboard_time": 1753695563,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124520,
+      "num": 124520,
+      "word": "覃海洋世锦赛100蛙金牌",
+      "onboard_time": 1753702823,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123885,
@@ -2011,14 +2107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119675,
-      "num": 119675,
-      "word": "严浩翔在台下模仿张真源",
-      "onboard_time": 1753701865,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119397,
       "num": 119397,
       "word": "小鹏称绝对不上激光雷达",
@@ -2028,7 +2116,7 @@
     },
     {
       "raw_hot": 119349,
-      "num": 119349,
+      "num": 148325,
       "word": "舒畅cos宝莲灯小玉",
       "onboard_time": 1753701865,
       "rank": 42,
@@ -2091,28 +2179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115172,
-      "num": 115172,
-      "word": "速食湿粉 发霉",
-      "onboard_time": 1753701442,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 114757,
       "num": 114757,
       "word": "台风",
       "onboard_time": 1753630105,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114597,
-      "num": 114597,
-      "word": "黄友政vs林诗栋",
-      "onboard_time": 1753701865,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 114425,
@@ -2259,6 +2331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100295,
+      "num": 287894,
+      "word": "少林寺官网删除释永信个人专题",
+      "onboard_time": 1753701083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100014,
       "num": 117120,
       "word": "在二手平台赚了一百万总结出来的经验",
@@ -2313,14 +2393,6 @@
       "onboard_time": 1753681042,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94870,
-      "num": 270219,
-      "word": "北京气象台发布暴雨红色预警",
-      "onboard_time": 1753693585,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93419,
@@ -2467,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68696,
+      "num": 148279,
+      "word": "释永信春节前后已被限制出境",
+      "onboard_time": 1753702104,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68170,
       "num": 114744,
       "word": "胜宏科技总市值突破1500亿",
@@ -2481,6 +2561,14 @@
       "onboard_time": 1753659260,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61651,
+      "num": 193031,
+      "word": "多肉饱饱被限制高消费",
+      "onboard_time": 1753701083,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59648,
@@ -2513,14 +2601,6 @@
       "onboard_time": 1753636220,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54089,
-      "num": 152651,
-      "word": "多肉饱饱被限制高消费",
-      "onboard_time": 1753701083,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53654,
@@ -2561,6 +2641,14 @@
       "onboard_time": 1753659140,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44601,
+      "num": 148411,
+      "word": "你们机器人不要再打啦",
+      "onboard_time": 1753702464,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 43236,
@@ -2649,14 +2737,6 @@
       "onboard_time": 1753642994,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31259,
-      "num": 287894,
-      "word": "少林寺官网删除释永信个人专题",
-      "onboard_time": 1753701083,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30402,

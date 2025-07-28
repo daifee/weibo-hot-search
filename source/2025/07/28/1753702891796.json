@@ -1,0 +1,410 @@
+{
+  "runTime": 1753702891796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2628804,
+        "num": 2628804,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 0,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 1308135,
+        "num": 1308135,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41408,
+        "num": 914454,
+        "word": "大雨还要下多久",
+        "onboard_time": 1753665620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 904054,
+        "num": 904054,
+        "word": "育儿补贴",
+        "onboard_time": 1753694185,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557483,
+        "num": 557483,
+        "word": "6个月工资一万三被索赔两万多",
+        "onboard_time": 1753696882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495188,
+        "num": 495188,
+        "word": "北京全市景区关闭",
+        "onboard_time": 1753699462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427940,
+        "num": 427940,
+        "word": "覃海洋58秒23",
+        "onboard_time": 1753701801,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426863,
+        "num": 426863,
+        "word": "育儿补贴制度实施方案发布",
+        "onboard_time": 1753694122,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138779,
+        "num": 425880,
+        "word": "北京暂停有组织的户外体育活动",
+        "onboard_time": 1753702343,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233746,
+        "num": 419637,
+        "word": "严浩翔说时团被吴彤做局了",
+        "onboard_time": 1753699883,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 970864,
+        "num": 416170,
+        "word": "魏如萱承认恋情",
+        "onboard_time": 1753701144,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642688,
+        "num": 412457,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 437851,
+        "num": 411760,
+        "word": "刘诗诗染红发",
+        "onboard_time": 1753698383,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408221,
+        "num": 408221,
+        "word": "释永信所作所为性质十分恶劣",
+        "onboard_time": 1753692987,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346975,
+        "num": 346975,
+        "word": "北京请市民非必要不外出",
+        "onboard_time": 1753694783,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331055,
+        "num": 331055,
+        "word": "麻六记别躲白家阿宽后装无辜",
+        "onboard_time": 1753698682,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319428,
+        "num": 319428,
+        "word": "朱孝天回应删明道好友",
+        "onboard_time": 1753697242,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285230,
+        "num": 285230,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782179,
+        "num": 272725,
+        "word": "杨洋迪丽热巴 荣耀夫妇对打",
+        "onboard_time": 1753699043,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100295,
+        "num": 254570,
+        "word": "少林寺官网删除释永信个人专题",
+        "onboard_time": 1753701083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243693,
+        "num": 243693,
+        "word": "TF家族成员每天睡10个小时",
+        "onboard_time": 1753700064,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235315,
+        "num": 235315,
+        "word": "中方敦促乌方立即纠正错误",
+        "onboard_time": 1753702523,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224662,
+        "num": 224662,
+        "word": "育儿补贴如何申领和发放",
+        "onboard_time": 1753698743,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214449,
+        "num": 214449,
+        "word": "王楚钦周启豪2比3薛飞向鹏",
+        "onboard_time": 1753702584,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210401,
+        "num": 210401,
+        "word": "王牌对王牌",
+        "onboard_time": 1753702464,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158588,
+        "num": 201025,
+        "word": "迪丽热巴工作室剧宣",
+        "onboard_time": 1753697783,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152205,
+        "num": 200250,
+        "word": "凡人修仙传7.7%",
+        "onboard_time": 1753698143,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146807,
+        "num": 199559,
+        "word": "龚俊打开手机一看天塌了",
+        "onboard_time": 1753698383,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199499,
+        "num": 199499,
+        "word": "李乃文年轻的时候就这么老",
+        "onboard_time": 1753701683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61651,
+        "num": 193031,
+        "word": "多肉饱饱被限制高消费",
+        "onboard_time": 1753701083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190186,
+        "num": 190186,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146083,
+        "num": 183134,
+        "word": "严浩翔在台下模仿张真源",
+        "onboard_time": 1753701865,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176313,
+        "num": 176313,
+        "word": "喜茶 CHIIKAWA",
+        "onboard_time": 1753686263,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172310,
+        "num": 172310,
+        "word": "王者荣耀",
+        "onboard_time": 1753699583,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158987,
+        "num": 158987,
+        "word": "短短8集吻戏床戏都安排上了",
+        "onboard_time": 1753682782,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155929,
+        "num": 155929,
+        "word": "曼谷市场枪击事件已致6人死亡",
+        "onboard_time": 1753689444,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150153,
+        "num": 150153,
+        "word": "陈芋汐掌敏洁双人10米台金牌",
+        "onboard_time": 1753702643,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44601,
+        "num": 148411,
+        "word": "你们机器人不要再打啦",
+        "onboard_time": 1753702464,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116681,
+        "num": 148325,
+        "word": "舒畅cos宝莲灯小玉",
+        "onboard_time": 1753701865,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68696,
+        "num": 148279,
+        "word": "释永信春节前后已被限制出境",
+        "onboard_time": 1753702104,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148241,
+        "num": 148241,
+        "word": "2岁女童患心肌炎去世家人以为是感冒",
+        "onboard_time": 1753702643,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147251,
+        "num": 147251,
+        "word": "速食湿粉 发霉",
+        "onboard_time": 1753701442,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143828,
+        "num": 143828,
+        "word": "黄友政vs林诗栋",
+        "onboard_time": 1753701865,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142715,
+        "num": 142715,
+        "word": "女双10米台中国队世锦赛14连冠",
+        "onboard_time": 1753702464,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133077,
+        "num": 133077,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130880,
+        "num": 130880,
+        "word": "北京气象台发布暴雨红色预警",
+        "onboard_time": 1753693585,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125194,
+        "num": 125194,
+        "word": "董璇情绪稳定得像AI",
+        "onboard_time": 1753701264,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 124520,
+        "word": "覃海洋世锦赛100蛙金牌",
+        "onboard_time": 1753702823,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123905,
+        "num": 123905,
+        "word": "点外卖和不点外卖的都沉默了",
+        "onboard_time": 1753688663,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120640,
+        "num": 120640,
+        "word": "体重仅35斤女生发视频求助",
+        "onboard_time": 1753684523,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济乘风破浪稳中向好#"
+    }
+  }
+}
