@@ -1,0 +1,410 @@
+{
+  "runTime": 1753680934902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 795213,
+        "num": 1127234,
+        "word": "全球首个计划整体迁移的国家",
+        "onboard_time": 1753671262,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1228591,
+        "num": 1025787,
+        "word": "中国佛教协会对释永信戒牒予以注销",
+        "onboard_time": 1753675945,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 79271,
+        "num": 722001,
+        "word": "国家安全部披露间谍常用套路",
+        "onboard_time": 1753661062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519680,
+        "num": 519680,
+        "word": "救一家三口牺牲的宋士佳下葬",
+        "onboard_time": 1753677085,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455252,
+        "num": 455252,
+        "word": "张元英的生图已经进化成这样了吗",
+        "onboard_time": 1753676365,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352871,
+        "num": 352871,
+        "word": "心动的信号8",
+        "onboard_time": 1753673783,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302987,
+        "num": 302987,
+        "word": "中国佛教协会发布公告",
+        "onboard_time": 1753674682,
+        "rank": 6,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 293665,
+        "num": 293665,
+        "word": "许嵩哽咽说对不起",
+        "onboard_time": 1753678404,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274932,
+        "num": 274932,
+        "word": "太平洋岛国图瓦卢计划举国移民",
+        "onboard_time": 1753670121,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76452,
+        "num": 274654,
+        "word": "2024年1.19亿人个税汇算享受专项附加扣除",
+        "onboard_time": 1753679903,
+        "rank": 9,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 1075029,
+        "num": 272471,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1054146,
+        "num": 270839,
+        "word": "李晟 女人不能这么坐吗",
+        "onboard_time": 1753678046,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1019437,
+        "num": 269500,
+        "word": "嵩山少林景区再发公告",
+        "onboard_time": 1753674682,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 950437,
+        "num": 267990,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501347,
+        "num": 266834,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302015,
+        "num": 265138,
+        "word": "吴京谢楠大儿子肌肉照",
+        "onboard_time": 1753667361,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264991,
+        "num": 264991,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1753679483,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255688,
+        "num": 255688,
+        "word": "释永信涉嫌刑事犯罪",
+        "onboard_time": 1753618882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250568,
+        "num": 250568,
+        "word": "迪丽热巴的代言包场利剑玫瑰了",
+        "onboard_time": 1753674744,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226487,
+        "num": 226487,
+        "word": "易烊千玺演唱会二开",
+        "onboard_time": 1753679723,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 892960,
+        "num": 224216,
+        "word": "金价",
+        "onboard_time": 1753672344,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 384147,
+        "num": 222406,
+        "word": "血瘀是大病的开始",
+        "onboard_time": 1753678763,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252590,
+        "num": 222366,
+        "word": "肯德基 光与夜之恋",
+        "onboard_time": 1753679423,
+        "rank": 22,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 220190,
+        "num": 220190,
+        "word": "陈慧琳回应儿子恋情",
+        "onboard_time": 1753677445,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183352,
+        "num": 183352,
+        "word": "东方甄选主播离职后都咋样了",
+        "onboard_time": 1753671621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175267,
+        "num": 175267,
+        "word": "杨洋居然还留着那个大绿瓶",
+        "onboard_time": 1753680743,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173941,
+        "num": 173941,
+        "word": "越吃越胖的素菜名单",
+        "onboard_time": 1753662683,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172737,
+        "num": 172737,
+        "word": "王嘉尔晒全家福",
+        "onboard_time": 1753671022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172330,
+        "num": 172330,
+        "word": "盗墓笔记",
+        "onboard_time": 1753669522,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160077,
+        "num": 171230,
+        "word": "上一秒大婚下一秒大虐",
+        "onboard_time": 1753674744,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39890,
+        "num": 170646,
+        "word": "吴磊大型扛饿充能现场",
+        "onboard_time": 1753676185,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170554,
+        "num": 170554,
+        "word": "世界肝炎日",
+        "onboard_time": 1753680323,
+        "rank": 31,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 168860,
+        "num": 168860,
+        "word": "看电梯按键就知道上班怨气有多大",
+        "onboard_time": 1753677324,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162194,
+        "num": 162194,
+        "word": "女子生气抓男友头发撞墙致其去世",
+        "onboard_time": 1753659920,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158874,
+        "num": 158874,
+        "word": "恋与祁煜电视台",
+        "onboard_time": 1753680023,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95246,
+        "num": 157536,
+        "word": "后备箱的西瓜终于掉不出来了",
+        "onboard_time": 1753676185,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156568,
+        "num": 156568,
+        "word": "原来买菜送宠物是真的",
+        "onboard_time": 1753679125,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154100,
+        "num": 154100,
+        "word": "读书真的会影响潜意识",
+        "onboard_time": 1753680083,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153803,
+        "num": 153803,
+        "word": "李小冉转发谢娜",
+        "onboard_time": 1753678226,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20500,
+        "num": 152031,
+        "word": "林志玲马思纯手拉手下班",
+        "onboard_time": 1753679963,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151216,
+        "num": 151216,
+        "word": "无畏契约",
+        "onboard_time": 1753678285,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149115,
+        "num": 149115,
+        "word": "顾客就餐发现餐桌上一堆蛆在爬",
+        "onboard_time": 1753680202,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49089,
+        "num": 148381,
+        "word": "少林景区正常开放",
+        "onboard_time": 1753678884,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148060,
+        "num": 148060,
+        "word": "凡人修仙传",
+        "onboard_time": 1753680862,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147758,
+        "num": 147758,
+        "word": "31岁女生花一整年装修的梦中情家",
+        "onboard_time": 1753679843,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146856,
+        "num": 146856,
+        "word": "陈梦发长文",
+        "onboard_time": 1753670601,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142614,
+        "num": 142614,
+        "word": "唯一一个上班让老板亏钱的人",
+        "onboard_time": 1753680142,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140932,
+        "num": 140932,
+        "word": "马斯克预言的机器人送餐在上海实现",
+        "onboard_time": 1753680561,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139199,
+        "num": 139199,
+        "word": "懒羊羊的角是可拆卸的",
+        "onboard_time": 1753680923,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138007,
+        "num": 138007,
+        "word": "不愧是山东ip",
+        "onboard_time": 1753678644,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席生动喻中欧#"
+    }
+  }
+}

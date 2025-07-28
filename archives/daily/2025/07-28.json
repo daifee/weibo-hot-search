@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753679101598,
+  "endTime": 1753680934902,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -35,6 +35,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1228591,
+      "num": 1028383,
+      "word": "中国佛教协会对释永信戒牒予以注销",
+      "onboard_time": 1753675945,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1212894,
       "num": 711739,
       "word": "国外司机与13岁巴士迷车内发生关系",
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1028383,
-      "num": 1028383,
-      "word": "中国佛教协会对释永信戒牒予以注销",
-      "onboard_time": 1753675945,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 1054146,
+      "num": 287939,
+      "word": "李晟 女人不能这么坐吗",
+      "onboard_time": 1753678046,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 978510,
@@ -131,14 +139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 587824,
-      "num": 287939,
-      "word": "李晟 女人不能这么坐吗",
-      "onboard_time": 1753678046,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 580645,
       "num": 580645,
       "word": "陈梦发长文",
@@ -169,6 +169,14 @@
       "onboard_time": 1753671022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519680,
+      "num": 519680,
+      "word": "救一家三口牺牲的宋士佳下葬",
+      "onboard_time": 1753677085,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 517406,
@@ -203,20 +211,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 455252,
+      "num": 455252,
+      "word": "张元英的生图已经进化成这样了吗",
+      "onboard_time": 1753676365,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434842,
       "num": 469007,
       "word": "开推团包场迪丽热巴利剑玫瑰",
       "onboard_time": 1753672223,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 416638,
-      "num": 416638,
-      "word": "救一家三口牺牲的宋士佳下葬",
-      "onboard_time": 1753677085,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 404672,
@@ -233,6 +241,14 @@
       "onboard_time": 1753618882,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384147,
+      "num": 222406,
+      "word": "血瘀是大病的开始",
+      "onboard_time": 1753678763,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 378246,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293665,
+      "num": 293665,
+      "word": "许嵩哽咽说对不起",
+      "onboard_time": 1753678404,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 288552,
       "num": 204659,
       "word": "李小冉把何炅微信删了",
@@ -387,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264991,
+      "num": 264991,
+      "word": "谁能管管现在的商场厕所",
+      "onboard_time": 1753679483,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259347,
       "num": 219699,
       "word": "看电梯按键就知道上班怨气有多大",
       "onboard_time": 1753677324,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259280,
-      "num": 259280,
-      "word": "张元英的生图已经进化成这样了吗",
-      "onboard_time": 1753676365,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 258122,
@@ -417,6 +441,14 @@
       "onboard_time": 1753629145,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252590,
+      "num": 222366,
+      "word": "肯德基 光与夜之恋",
+      "onboard_time": 1753679423,
+      "rank": 22,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 251404,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 237534,
-      "num": 219130,
+      "num": 220190,
       "word": "陈慧琳回应儿子恋情",
       "onboard_time": 1753677445,
       "rank": 31,
@@ -473,6 +505,14 @@
       "onboard_time": 1753658059,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226487,
+      "num": 226487,
+      "word": "易烊千玺演唱会二开",
+      "onboard_time": 1753679723,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 226313,
@@ -523,14 +563,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 211479,
-      "num": 211479,
-      "word": "血瘀是大病的开始",
-      "onboard_time": 1753678763,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 205916,
       "num": 205916,
       "word": "许嵩哭了",
@@ -577,14 +609,6 @@
       "onboard_time": 1753666162,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194798,
-      "num": 217272,
-      "word": "许嵩哽咽说对不起",
-      "onboard_time": 1753678404,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 193887,
@@ -699,12 +723,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175267,
+      "num": 175267,
+      "word": "杨洋居然还留着那个大绿瓶",
+      "onboard_time": 1753680743,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174759,
       "num": 174759,
       "word": "黄晓明陈梦聚餐",
       "onboard_time": 1753673783,
       "rank": 33,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 170554,
+      "num": 170554,
+      "word": "世界肝炎日",
+      "onboard_time": 1753680323,
+      "rank": 31,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 166058,
@@ -745,6 +785,14 @@
       "onboard_time": 1753675524,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158874,
+      "num": 158874,
+      "word": "恋与祁煜电视台",
+      "onboard_time": 1753680023,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 158817,
@@ -811,12 +859,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156568,
+      "num": 156568,
+      "word": "原来买菜送宠物是真的",
+      "onboard_time": 1753679125,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156277,
       "num": 156277,
       "word": "林忆莲4天唱了100首",
       "onboard_time": 1753675164,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154100,
+      "num": 154100,
+      "word": "读书真的会影响潜意识",
+      "onboard_time": 1753680083,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 153879,
@@ -867,6 +931,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149115,
+      "num": 149115,
+      "word": "顾客就餐发现餐桌上一堆蛆在爬",
+      "onboard_time": 1753680202,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148060,
+      "num": 148060,
+      "word": "凡人修仙传",
+      "onboard_time": 1753680862,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147758,
+      "num": 147758,
+      "word": "31岁女生花一整年装修的梦中情家",
+      "onboard_time": 1753679843,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147697,
       "num": 147697,
       "word": "带着轻微饥饿感入睡能瘦吗",
@@ -915,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142614,
+      "num": 142614,
+      "word": "唯一一个上班让老板亏钱的人",
+      "onboard_time": 1753680142,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142567,
       "num": 142567,
       "word": "李兰迪颜值的权威我后知后觉",
@@ -923,12 +1019,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140932,
+      "num": 140932,
+      "word": "马斯克预言的机器人送餐在上海实现",
+      "onboard_time": 1753680561,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139199,
+      "num": 139199,
+      "word": "懒羊羊的角是可拆卸的",
+      "onboard_time": 1753680923,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138070,
       "num": 154977,
       "word": "SHE三人合影",
       "onboard_time": 1753675044,
       "rank": 38,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 138007,
+      "num": 138007,
+      "word": "不愧是山东ip",
+      "onboard_time": 1753678644,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 135147,
@@ -1227,6 +1347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76452,
+      "num": 274654,
+      "word": "2024年1.19亿人个税汇算享受专项附加扣除",
+      "onboard_time": 1753679903,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 72039,
       "num": 72039,
       "word": "被喜欢的东西叫醒是不会有起床气的",
@@ -1289,6 +1417,14 @@
       "onboard_time": 1753659260,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49089,
+      "num": 259822,
+      "word": "少林景区正常开放",
+      "onboard_time": 1753678884,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48251,
@@ -1355,14 +1491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30711,
-      "num": 259822,
-      "word": "少林景区正常开放",
-      "onboard_time": 1753678884,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30402,
       "num": 30402,
       "word": "她一会儿不会咬我吧",
@@ -1417,6 +1545,14 @@
       "onboard_time": 1753641556,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20500,
+      "num": 152031,
+      "word": "林志玲马思纯手拉手下班",
+      "onboard_time": 1753679963,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 20305,
