@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753659764760,
+  "endTime": 1753669389558,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -161,6 +161,14 @@
       "onboard_time": 1753600524,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 955941,
+      "num": 955941,
+      "word": "前央视主持人杨茗茗离职后自曝后悔",
+      "onboard_time": 1753665083,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 940972,
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686478,
+      "num": 321751,
+      "word": "汪峰带四个孩子回京",
+      "onboard_time": 1753666521,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 681090,
       "num": 681090,
       "word": "一家六口空调房内煲糖水4人中毒",
@@ -483,6 +499,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 537601,
+      "num": 537601,
+      "word": "汪苏泷这一跪又有多少人沦陷了",
+      "onboard_time": 1753658118,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 526406,
       "num": 526406,
       "word": "李炜 版权可聊",
@@ -579,6 +603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 458659,
+      "num": 318872,
+      "word": "吴京谢楠大儿子肌肉照",
+      "onboard_time": 1753667361,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455703,
       "num": 455703,
       "word": "李小冉给何炅备注八块腹肌不能删",
@@ -627,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 422765,
-      "num": 422765,
-      "word": "汪苏泷这一跪又有多少人沦陷了",
-      "onboard_time": 1753658118,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 422466,
       "num": 368885,
       "word": "少林寺",
@@ -673,6 +697,14 @@
       "onboard_time": 1753599023,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412997,
+      "num": 412997,
+      "word": "大雨还要下多久",
+      "onboard_time": 1753665620,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410502,
@@ -753,6 +785,14 @@
       "onboard_time": 1753600341,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377289,
+      "num": 377289,
+      "word": "深情眼你敢演我不敢看了",
+      "onboard_time": 1753663463,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 376558,
@@ -867,12 +907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317724,
+      "num": 215302,
+      "word": "女子生气抓男友头发撞墙致其去世",
+      "onboard_time": 1753659920,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315577,
       "num": 315577,
       "word": "女子同情老人加价收购知了壳反遭骗",
       "onboard_time": 1753632623,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312996,
+      "num": 312996,
+      "word": "南京照相馆票房",
+      "onboard_time": 1753663463,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 311746,
@@ -977,6 +1033,14 @@
       "onboard_time": 1753524441,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276101,
+      "num": 276101,
+      "word": "山西失联客车找到1名遇难者",
+      "onboard_time": 1753664481,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 272738,
@@ -1099,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247022,
+      "num": 247022,
+      "word": "我国头颈癌患者发病率呈上升趋势",
+      "onboard_time": 1753666762,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243240,
       "num": 243240,
       "word": "闪耀暖暖星夜主神",
@@ -1115,6 +1187,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 241226,
+      "num": 214936,
+      "word": "越吃越胖的素菜名单",
+      "onboard_time": 1753662683,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237238,
       "num": 237238,
       "word": "锦月如歌",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1753627885,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232297,
+      "num": 232297,
+      "word": "李兰迪扫腿舞地是干净了",
+      "onboard_time": 1753658059,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 230482,
@@ -1219,6 +1307,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 217552,
+      "num": 217552,
+      "word": "人真的会突然变好",
+      "onboard_time": 1753665562,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "林允老钱度假风",
@@ -1241,6 +1337,14 @@
       "onboard_time": 1753604303,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214063,
+      "num": 214063,
+      "word": "美国与欧盟达成贸易协议",
+      "onboard_time": 1753658599,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212906,
@@ -1313,14 +1417,6 @@
       "onboard_time": 1753588462,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202353,
-      "num": 202353,
-      "word": "美国与欧盟达成贸易协议",
-      "onboard_time": 1753658599,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 201495,
@@ -1963,12 +2059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158193,
+      "num": 158193,
+      "word": "女孩患胃萎缩从90多斤暴瘦至35斤",
+      "onboard_time": 1753662922,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157728,
       "num": 157728,
       "word": "又被张韶涵的高定硬控了",
       "onboard_time": 1753596684,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157197,
+      "num": 157197,
+      "word": "阿姨开超市为晚归女孩留灯13年",
+      "onboard_time": 1753667961,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157085,
@@ -1985,6 +2097,14 @@
       "onboard_time": 1753632444,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156913,
+      "num": 156913,
+      "word": "为什么很少听说数学系的学生被压榨",
+      "onboard_time": 1753659979,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 156641,
@@ -2075,12 +2195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152963,
+      "num": 152963,
+      "word": "少林寺官号已删除多篇涉释永信文章",
+      "onboard_time": 1753663523,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152898,
       "num": 152898,
       "word": "国外研究推测疑外星飞船11月袭击地球",
       "onboard_time": 1753539087,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152604,
+      "num": 152604,
+      "word": "上周金价跌了",
+      "onboard_time": 1753667600,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 151506,
@@ -2179,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149543,
+      "num": 149543,
+      "word": "徐磊 世界姐",
+      "onboard_time": 1753665383,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 149443,
       "num": 149443,
       "word": "刘昊然全程严肃的一场采访",
@@ -2233,6 +2377,14 @@
       "onboard_time": 1753608442,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146904,
+      "num": 215773,
+      "word": "杨洋确实就是硬帅",
+      "onboard_time": 1753666162,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 146515,
@@ -2337,6 +2489,14 @@
       "onboard_time": 1753614083,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142653,
+      "num": 142653,
+      "word": "怀孕后脏器都被挤变形了",
+      "onboard_time": 1753669042,
+      "rank": 31,
+      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 142531,
@@ -2547,6 +2707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133768,
+      "num": 133768,
+      "word": "张本美和女单冠军",
+      "onboard_time": 1753663163,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133716,
       "num": 133716,
       "word": "坚持练肩3个月后的变化",
@@ -2755,6 +2923,22 @@
       "category": "健康医疗,体育"
     },
     {
+      "raw_hot": 126976,
+      "num": 126976,
+      "word": "切开的西瓜能冷藏多久",
+      "onboard_time": 1753667361,
+      "rank": 33,
+      "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 126548,
+      "num": 126548,
+      "word": "国家安全部披露间谍常用套路",
+      "onboard_time": 1753661062,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "利剑玫瑰渣爹气人",
@@ -2785,14 +2969,6 @@
       "onboard_time": 1753593924,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125032,
-      "num": 164963,
-      "word": "李兰迪扫腿舞地是干净了",
-      "onboard_time": 1753658059,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 124735,
@@ -2833,6 +3009,14 @@
       "onboard_time": 1753621765,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123885,
+      "num": 123885,
+      "word": "原来这就是属于00后的红利",
+      "onboard_time": 1753665442,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 123843,
@@ -2963,6 +3147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118509,
+      "num": 118509,
+      "word": "杭州开市客门店已下架麻六记酸辣粉",
+      "onboard_time": 1753665442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118409,
       "num": 105683,
       "word": "释永信已全面主持少林寺38年",
@@ -3089,6 +3281,14 @@
       "onboard_time": 1753591702,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113729,
+      "num": 322206,
+      "word": "首席预报员分析北京本轮雨情",
+      "onboard_time": 1753665203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113544,
@@ -3251,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106919,
+      "num": 106919,
+      "word": "对河北启动国家四级救灾应急响应",
+      "onboard_time": 1753668922,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106667,
       "num": 106667,
       "word": "谁能来救救陈星旭",
@@ -3347,6 +3555,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 103365,
+      "num": 103365,
+      "word": "方丈负责制下的少林寺商业化之路",
+      "onboard_time": 1753667661,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102281,
       "num": 102281,
       "word": "狗 为了你我变成狼人模样",
@@ -3401,6 +3617,14 @@
       "onboard_time": 1753513941,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98177,
+      "num": 98177,
+      "word": "王楚钦奥沙利文互赠to签礼物",
+      "onboard_time": 1753664242,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 97038,
@@ -3499,6 +3723,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 89127,
+      "num": 89127,
+      "word": "山西遇险客车仍有13人失联",
+      "onboard_time": 1753668381,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88984,
+      "num": 88984,
+      "word": "华北东北持续雨雨雨雨雨",
+      "onboard_time": 1753667301,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88636,
       "num": 88636,
       "word": "蒲熠星巡回演唱会",
@@ -3515,12 +3755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87726,
+      "num": 87726,
+      "word": "亚马逊创始人套现超400亿元",
+      "onboard_time": 1753667422,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86796,
       "num": 244891,
       "word": "多支增援力量已抵达北京受灾一线",
       "onboard_time": 1753658659,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86779,
+      "num": 86779,
+      "word": "陈都灵包场杨洋凡人修仙传",
+      "onboard_time": 1753668141,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 86716,
