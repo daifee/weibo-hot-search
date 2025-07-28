@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753708439814,
+  "endTime": 1753710361210,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -75,6 +75,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1405759,
+      "num": 1405759,
+      "word": "利剑玫瑰收视率",
+      "onboard_time": 1753706062,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1289614,
       "num": 1289614,
       "word": "任权被整容后的薛小婉吓到了",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1240651,
-      "num": 691252,
+      "num": 843499,
       "word": "李乃文下楼",
       "onboard_time": 1753703064,
       "rank": 3,
@@ -128,6 +136,14 @@
       "word": "娜扎瘦成纸片人了",
       "onboard_time": 1753690283,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1106823,
+      "num": 416110,
+      "word": "卜冠今变化",
+      "onboard_time": 1753707563,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -283,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 759867,
-      "num": 470605,
-      "word": "利剑玫瑰收视率",
-      "onboard_time": 1753706062,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 726242,
       "num": 726242,
       "word": "6个月工资一万三被索赔两万多",
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 552667,
-      "num": 416110,
-      "word": "卜冠今变化",
-      "onboard_time": 1753707563,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 547465,
       "num": 440428,
       "word": "利剑玫瑰热度",
@@ -465,6 +465,14 @@
       "onboard_time": 1753685125,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531135,
+      "num": 531135,
+      "word": "麻六记致歉",
+      "onboard_time": 1753708105,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526181,
@@ -539,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 450938,
+      "num": 450938,
+      "word": "商场女厕所隔间被指安装双面镜",
+      "onboard_time": 1753705405,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443267,
       "num": 443267,
       "word": "许嵩哽咽说对不起",
@@ -569,14 +585,6 @@
       "onboard_time": 1753701801,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 419533,
-      "num": 419533,
-      "word": "商场女厕所隔间被指安装双面镜",
-      "onboard_time": 1753705405,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412408,
@@ -659,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 360480,
+      "num": 190734,
+      "word": "原来月经是我们的健康显示器",
+      "onboard_time": 1753705405,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 357362,
       "num": 357362,
       "word": "喜茶 CHIIKAWA",
@@ -673,6 +689,14 @@
       "onboard_time": 1753621886,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337841,
+      "num": 337841,
+      "word": "王楚钦乒超第二阶段收官",
+      "onboard_time": 1753708224,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 331055,
@@ -705,14 +729,6 @@
       "onboard_time": 1753659920,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317364,
-      "num": 190734,
-      "word": "原来月经是我们的健康显示器",
-      "onboard_time": 1753705405,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 315577,
@@ -761,6 +777,14 @@
       "onboard_time": 1753699583,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304199,
+      "num": 141108,
+      "word": "省厅邓妍",
+      "onboard_time": 1753709964,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 297091,
@@ -883,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255979,
+      "num": 214094,
+      "word": "张雪峰想让女儿高考后当一年助理",
+      "onboard_time": 1753708224,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 255333,
       "num": 255333,
       "word": "成毅朋友圈个性签名",
@@ -929,6 +961,14 @@
       "onboard_time": 1753702584,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249934,
+      "num": 249934,
+      "word": "中美经贸会谈在瑞典开始举行",
+      "onboard_time": 1753708345,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249617,
@@ -1003,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226422,
+      "num": 226422,
+      "word": "小英喂药量杯不洗",
+      "onboard_time": 1753709546,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 226313,
       "num": 226313,
       "word": "美国与欧盟达成贸易协议",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1753673902,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222067,
-      "num": 222067,
-      "word": "王楚钦乒超第二阶段收官",
-      "onboard_time": 1753708224,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 219970,
@@ -1091,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214094,
-      "num": 214094,
-      "word": "张雪峰想让女儿高考后当一年助理",
-      "onboard_time": 1753708224,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 213248,
       "num": 213248,
       "word": "尖叫瓶盖 不密封",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1753691185,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209404,
+      "num": 209404,
+      "word": "你减肥主要靠什么",
+      "onboard_time": 1753710086,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 208261,
@@ -1595,14 +1635,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 168703,
-      "num": 168703,
-      "word": "麻六记致歉",
-      "onboard_time": 1753708105,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167593,
       "num": 167593,
       "word": "罗小黑2和流浪地球3联动了",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1753620205,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164145,
+      "num": 164145,
+      "word": "南京照相馆",
+      "onboard_time": 1753703723,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 163938,
@@ -1851,14 +1891,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 152997,
-      "num": 152997,
-      "word": "南京照相馆",
-      "onboard_time": 1753703723,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152963,
       "num": 152963,
       "word": "少林寺官号已删除多篇涉释永信文章",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1753667600,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152540,
+      "num": 164100,
+      "word": "终于有打不过就跑的男主了",
+      "onboard_time": 1753708825,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 152479,
@@ -1932,7 +1972,7 @@
     },
     {
       "raw_hot": 148241,
-      "num": 148241,
+      "num": 162521,
       "word": "2岁女童患心肌炎去世家人以为是感冒",
       "onboard_time": 1753702643,
       "rank": 40,
@@ -2051,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143781,
+      "num": 163020,
+      "word": "易烊千玺看演出被拍到了",
+      "onboard_time": 1753706905,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142715,
       "num": 142715,
       "word": "女双10米台中国队世锦赛14连冠",
@@ -2131,6 +2179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135673,
+      "num": 135673,
+      "word": "首席预报员称北京今夜的雨大不同",
+      "onboard_time": 1753709424,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135173,
       "num": 140279,
       "word": "田曦薇一秒入戏",
@@ -2145,14 +2201,6 @@
       "onboard_time": 1753672823,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135102,
-      "num": 135102,
-      "word": "易烊千玺看演出被拍到了",
-      "onboard_time": 1753706905,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 134919,
@@ -2217,6 +2265,14 @@
       "onboard_time": 1753681703,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132571,
+      "num": 132571,
+      "word": "TES四连胜",
+      "onboard_time": 1753709604,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 132119,
@@ -2443,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116181,
+      "num": 116181,
+      "word": "朝雪录太子被偷走的人生",
+      "onboard_time": 1753710145,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114757,
       "num": 114757,
       "word": "台风",
@@ -2505,6 +2569,14 @@
       "onboard_time": 1753618343,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111169,
+      "num": 111169,
+      "word": "刘端端离了庆国再遇二皇子",
+      "onboard_time": 1753710024,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 110156,
@@ -2633,6 +2705,14 @@
       "onboard_time": 1753688842,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96588,
+      "num": 141123,
+      "word": "为什么机器人需要屁股蛋子",
+      "onboard_time": 1753709424,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 96364,
@@ -2883,14 +2963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50309,
-      "num": 178485,
-      "word": "中美经贸会谈在瑞典开始举行",
-      "onboard_time": 1753708345,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49089,
       "num": 259822,
       "word": "少林景区正常开放",
@@ -2908,7 +2980,7 @@
     },
     {
       "raw_hot": 45561,
-      "num": 702419,
+      "num": 880684,
       "word": "网警提醒快乐过暑假安全不放假",
       "onboard_time": 1753706664,
       "rank": 2,
