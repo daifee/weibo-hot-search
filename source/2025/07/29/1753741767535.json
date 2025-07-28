@@ -1,0 +1,410 @@
+{
+  "runTime": 1753741767535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 129209,
+        "num": 406107,
+        "word": "针对北京河北启动国家救灾应急响应",
+        "onboard_time": 1753715424,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525401,
+        "num": 395277,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26039,
+        "num": 327234,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283152,
+        "num": 283152,
+        "word": "爸爸回应女儿去世儿子患同种病进ICU",
+        "onboard_time": 1753726456,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123794,
+        "num": 123794,
+        "word": "聚焦北京暴雨",
+        "onboard_time": 1753713386,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120442,
+        "num": 120442,
+        "word": "居家办公",
+        "onboard_time": 1753717583,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99266,
+        "num": 99266,
+        "word": "柬泰两国领导人分别感谢中国",
+        "onboard_time": 1753717881,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 97544,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61881,
+        "num": 97088,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753703603,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45035,
+        "num": 95150,
+        "word": "早春晴朗选角争议",
+        "onboard_time": 1753723458,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221607,
+        "num": 91817,
+        "word": "全红婵近照",
+        "onboard_time": 1753717042,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128512,
+        "num": 91079,
+        "word": "美国发现一颗富含黄金小行星",
+        "onboard_time": 1753713924,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109261,
+        "num": 89337,
+        "word": "杨采钰是生了吗",
+        "onboard_time": 1753719261,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87931,
+        "num": 87931,
+        "word": "北京大雨",
+        "onboard_time": 1753712786,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82973,
+        "num": 82973,
+        "word": "网易云回应张碧晨原唱取消又恢复",
+        "onboard_time": 1753713205,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70959,
+        "num": 70959,
+        "word": "释永信春节前后已被限制出境",
+        "onboard_time": 1753702104,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58133,
+        "num": 58133,
+        "word": "小英喂药量杯不洗",
+        "onboard_time": 1753709546,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47405,
+        "num": 58091,
+        "word": "任权回应薛小婉整容",
+        "onboard_time": 1753720460,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41305,
+        "num": 58021,
+        "word": "秦岚包场利剑玫瑰",
+        "onboard_time": 1753716444,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34633,
+        "num": 57934,
+        "word": "金世佳演技",
+        "onboard_time": 1753716444,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149611,
+        "num": 57915,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 20,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 67950,
+        "num": 57786,
+        "word": "北京最大降水量315毫米什么概念",
+        "onboard_time": 1753738094,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57772,
+        "num": 57772,
+        "word": "村委会会计涉嫌杀害前夫潜逃26年",
+        "onboard_time": 1753728855,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57644,
+        "num": 57644,
+        "word": "山东女正厅袭燕主动投案",
+        "onboard_time": 1753715305,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47719,
+        "num": 47719,
+        "word": "省厅邓妍",
+        "onboard_time": 1753709964,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44283,
+        "num": 44283,
+        "word": "货车坠桥遭村民哄抢冻品损失40万",
+        "onboard_time": 1753737434,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38571,
+        "num": 38571,
+        "word": "中方敦促乌方立即纠正错误",
+        "onboard_time": 1753702523,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33882,
+        "num": 33882,
+        "word": "北京发布积水内涝橙色预警",
+        "onboard_time": 1753723637,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33032,
+        "num": 33032,
+        "word": "女子筷子5年不换胃里发现黄曲霉菌",
+        "onboard_time": 1753713205,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28347,
+        "num": 32954,
+        "word": "看得出张雅钦是真公主",
+        "onboard_time": 1753718903,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57814,
+        "num": 32949,
+        "word": "原来月经是我们的健康显示器",
+        "onboard_time": 1753705405,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32912,
+        "num": 32912,
+        "word": "麻六记酸辣粉发霉背后",
+        "onboard_time": 1753718782,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32802,
+        "num": 32802,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1753706062,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30511,
+        "num": 30511,
+        "word": "卜冠今变化",
+        "onboard_time": 1753707563,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29957,
+        "num": 29957,
+        "word": "直击北京暴雨救援",
+        "onboard_time": 1753718121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29407,
+        "num": 29407,
+        "word": "中方回应乌方制裁中国等国个人法人实体",
+        "onboard_time": 1753725017,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28995,
+        "num": 28995,
+        "word": "女儿患病离世儿子又患同种病进ICU",
+        "onboard_time": 1753717881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28858,
+        "num": 28858,
+        "word": "麻六记致歉",
+        "onboard_time": 1753708105,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28837,
+        "num": 28837,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 38,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 27641,
+        "num": 27641,
+        "word": "心动的信号 嘉宾",
+        "onboard_time": 1753715724,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27185,
+        "num": 27185,
+        "word": "杨洋迪丽热巴 荣耀夫妇对打",
+        "onboard_time": 1753699043,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27155,
+        "num": 27155,
+        "word": "密云暴雨",
+        "onboard_time": 1753714166,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24747,
+        "num": 24747,
+        "word": "广东地毯式消杀花斑蚊",
+        "onboard_time": 1753720520,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23468,
+        "num": 24747,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21661,
+        "num": 24731,
+        "word": "山东魏桥乒超首败",
+        "onboard_time": 1753713025,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21238,
+        "num": 24725,
+        "word": "南京照相馆",
+        "onboard_time": 1753703723,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19700,
+        "num": 24714,
+        "word": "中国好丽友回应韩国鱼形派召回事件",
+        "onboard_time": 1753731315,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18649,
+        "num": 24693,
+        "word": "育儿补贴制度实施方案发布",
+        "onboard_time": 1753694122,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18203,
+        "num": 24688,
+        "word": "增加调拨4.3万件物资支持京冀救灾",
+        "onboard_time": 1753718543,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17998,
+        "num": 24672,
+        "word": "王楚钦乒超第二阶段男单五连胜",
+        "onboard_time": 1753717163,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧大个子携手下一个50年#"
+    }
+  }
+}
