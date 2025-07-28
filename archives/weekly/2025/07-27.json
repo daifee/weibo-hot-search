@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753685929771,
+  "endTime": 1753687964872,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -371,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 746074,
+      "num": 746074,
+      "word": "北京暴雨",
+      "onboard_time": 1753682723,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742121,
       "num": 1118739,
       "word": "东营震感",
@@ -497,6 +505,14 @@
       "onboard_time": 1753673783,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 644062,
+      "num": 644062,
+      "word": "体重仅35斤女生发视频求助",
+      "onboard_time": 1753684523,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 633611,
@@ -657,6 +673,14 @@
       "onboard_time": 1753671022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524914,
+      "num": 445081,
+      "word": "朝雪录热度超了风吹半夏宁安如梦",
+      "onboard_time": 1753685125,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 519203,
@@ -883,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410653,
-      "num": 410653,
-      "word": "北京暴雨",
-      "onboard_time": 1753682723,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 410502,
       "num": 462419,
       "word": "李小龙死因或系癫痫",
@@ -1019,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375718,
+      "num": 375718,
+      "word": "高铁儿童票",
+      "onboard_time": 1753685185,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374661,
       "num": 467179,
       "word": "山西一辆载12人的中巴车因强降雨失联",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1753631123,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 357362,
+      "num": 357362,
+      "word": "喜茶 CHIIKAWA",
+      "onboard_time": 1753686263,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 354966,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1753594283,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332599,
+      "num": 332599,
+      "word": "男子冒充女性求职者造黄谣被刑拘",
+      "onboard_time": 1753687223,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331568,
@@ -1203,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 302225,
+      "num": 302225,
+      "word": "boss直聘通报王某香简历事件",
+      "onboard_time": 1753687283,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301570,
       "num": 356405,
       "word": "aespa新歌初舞台",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1753679723,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 282871,
+      "num": 282871,
+      "word": "新郎爸爸患癌新娘家主动退彩礼",
+      "onboard_time": 1753685244,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280684,
@@ -1345,14 +1401,6 @@
       "onboard_time": 1753542686,
       "rank": 16,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 268895,
-      "num": 268895,
-      "word": "朝雪录热度超了风吹半夏宁安如梦",
-      "onboard_time": 1753685125,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 268289,
@@ -1539,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231374,
+      "num": 253650,
+      "word": "泰首都枪击事件已致4人死亡",
+      "onboard_time": 1753687522,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 230482,
       "num": 230482,
       "word": "男空乘厕所偷拍未成年女孩判18年",
@@ -1657,6 +1713,14 @@
       "onboard_time": 1753603043,
       "rank": 17,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 218461,
+      "num": 253410,
+      "word": "张予曦初中时被男同学揍过",
+      "onboard_time": 1753686022,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 217569,
@@ -1803,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202570,
-      "num": 202570,
-      "word": "体重仅35斤女生发视频求助",
-      "onboard_time": 1753684523,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201495,
       "num": 201495,
       "word": "张靓颖穿了一身蝴蝶在身上",
@@ -1865,6 +1921,14 @@
       "onboard_time": 1753599201,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198785,
+      "num": 253168,
+      "word": "赵四扮演者儿子被曝家暴",
+      "onboard_time": 1753686682,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 198719,
@@ -1939,12 +2003,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195004,
+      "num": 195004,
+      "word": "吴京吴所谓完全是复制粘贴",
+      "onboard_time": 1753687043,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194512,
       "num": 194512,
       "word": "潘展乐无缘200自半决赛",
       "onboard_time": 1753681761,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194496,
+      "num": 194496,
+      "word": "主播查补税款30多亿元",
+      "onboard_time": 1753687343,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193925,
@@ -1977,6 +2057,14 @@
       "onboard_time": 1753684702,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191714,
+      "num": 191714,
+      "word": "体态比减脂更重要",
+      "onboard_time": 1753686202,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 191609,
@@ -2212,7 +2300,7 @@
     },
     {
       "raw_hot": 178478,
-      "num": 178478,
+      "num": 206367,
       "word": "何超仪老公再次病重",
       "onboard_time": 1753675703,
       "rank": 48,
@@ -2401,14 +2489,6 @@
       "onboard_time": 1753598543,
       "rank": 31,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 171329,
-      "num": 171329,
-      "word": "新郎爸爸患癌新娘家主动退彩礼",
-      "onboard_time": 1753685244,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171237,
@@ -2705,6 +2785,14 @@
       "onboard_time": 1753680023,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158825,
+      "num": 158825,
+      "word": "交警化身安全超人提醒交通安全",
+      "onboard_time": 1753687402,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158817,
@@ -3033,6 +3121,14 @@
       "onboard_time": 1753606223,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149668,
+      "num": 149668,
+      "word": "真道士一个月能赚多少钱",
+      "onboard_time": 1753687223,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 149596,
@@ -3795,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124875,
+      "num": 124875,
+      "word": "敖子逸没人告诉我遛小狗这么累",
+      "onboard_time": 1753686862,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124735,
       "num": 124735,
       "word": "紫色战袍的孙颖莎",
@@ -3865,6 +3969,14 @@
       "onboard_time": 1753616064,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122755,
+      "num": 122755,
+      "word": "王玉雯唱我和你哭了",
+      "onboard_time": 1753687943,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 122509,
@@ -4347,14 +4459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105141,
-      "num": 149159,
-      "word": "高铁儿童票",
-      "onboard_time": 1753685185,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104987,
       "num": 104987,
       "word": "作弊式赶海",
@@ -4369,6 +4473,14 @@
       "onboard_time": 1753615702,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104231,
+      "num": 253630,
+      "word": "苏州气象台发布强对流黄色预警",
+      "onboard_time": 1753687463,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103931,
@@ -4705,6 +4817,14 @@
       "onboard_time": 1753572257,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82180,
+      "num": 172617,
+      "word": "罗大美遗体已在太平间待了752天",
+      "onboard_time": 1753687883,
+      "rank": 34,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 82064,
@@ -5147,6 +5267,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 38551,
+      "num": 162231,
+      "word": "龚俊 我真服了3.0",
+      "onboard_time": 1753687283,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38233,
       "num": 141950,
       "word": "朱雀玄武敕令自曝被送精神病院",
@@ -5305,6 +5433,14 @@
       "onboard_time": 1753558217,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26477,
+      "num": 153051,
+      "word": "罗大美家属诉求判3被告死刑",
+      "onboard_time": 1753687943,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 26280,
