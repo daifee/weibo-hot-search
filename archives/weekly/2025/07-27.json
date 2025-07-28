@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753699809700,
+  "endTime": 1753701915874,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -49,6 +49,14 @@
       "onboard_time": 1753691004,
       "rank": 18,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 2336412,
+      "num": 2336412,
+      "word": "网易云取消张碧晨三首歌原唱",
+      "onboard_time": 1753700003,
+      "rank": 0,
+      "category": "音乐,互联网"
     },
     {
       "raw_hot": 2110545,
@@ -475,12 +483,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 760185,
+      "num": 316404,
+      "word": "杨洋迪丽热巴 荣耀夫妇对打",
+      "onboard_time": 1753699043,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 742121,
       "num": 1118739,
       "word": "东营震感",
       "onboard_time": 1753615764,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 726242,
+      "num": 726242,
+      "word": "6个月工资一万三被索赔两万多",
+      "onboard_time": 1753696882,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 721558,
+      "num": 312293,
+      "word": "魏如萱承认恋情",
+      "onboard_time": 1753701144,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 714517,
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 587271,
-      "num": 249997,
+      "num": 308742,
       "word": "朱孝天回应删明道好友",
       "onboard_time": 1753697242,
       "rank": 12,
@@ -932,19 +964,11 @@
     },
     {
       "raw_hot": 464308,
-      "num": 232441,
+      "num": 311192,
       "word": "刘诗诗染红发",
       "onboard_time": 1753698383,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463560,
-      "num": 463560,
-      "word": "6个月工资一万三被索赔两万多",
-      "onboard_time": 1753696882,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 462124,
@@ -961,6 +985,14 @@
       "onboard_time": 1753611502,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447930,
+      "num": 447930,
+      "word": "北京全市景区关闭",
+      "onboard_time": 1753699462,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446485,
@@ -1315,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317886,
+      "num": 317886,
+      "word": "麻六记别躲白家阿宽后装无辜",
+      "onboard_time": 1753698682,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317808,
       "num": 317808,
       "word": "最怕就是工作人员比艺人还大咖",
@@ -1403,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307814,
+      "num": 307814,
+      "word": "王者荣耀",
+      "onboard_time": 1753699583,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301570,
       "num": 356405,
       "word": "aespa新歌初舞台",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1753693283,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287736,
+      "num": 287736,
+      "word": "TF家族成员每天睡10个小时",
+      "onboard_time": 1753700064,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 284934,
@@ -1603,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261672,
+      "num": 261672,
+      "word": "育儿补贴如何申领和发放",
+      "onboard_time": 1753698743,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "白鹿为赵晴新剧做宣传",
@@ -1731,12 +1795,12 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 238314,
-      "num": 238314,
-      "word": "麻六记别躲白家阿宽后装无辜",
-      "onboard_time": 1753698682,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 238472,
+      "num": 292664,
+      "word": "严浩翔说时团被吴彤做局了",
+      "onboard_time": 1753699883,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 237534,
@@ -2081,14 +2145,6 @@
       "onboard_time": 1753684583,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203705,
-      "num": 203705,
-      "word": "杨洋迪丽热巴 荣耀夫妇对打",
-      "onboard_time": 1753699043,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 203261,
@@ -2811,14 +2867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170881,
-      "num": 223712,
-      "word": "北京全市景区关闭",
-      "onboard_time": 1753699462,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170869,
       "num": 181490,
       "word": "路人视角的迅猛龙特蕾莎",
@@ -2889,14 +2937,6 @@
       "onboard_time": 1753630285,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167794,
-      "num": 200842,
-      "word": "育儿补贴如何申领和发放",
-      "onboard_time": 1753698743,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167593,
@@ -3057,14 +3097,6 @@
       "onboard_time": 1753607722,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161404,
-      "num": 161404,
-      "word": "王者荣耀",
-      "onboard_time": 1753699583,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 161331,
@@ -3283,6 +3315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155432,
+      "num": 155432,
+      "word": "李乃文年轻的时候就这么老",
+      "onboard_time": 1753701683,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155334,
       "num": 155334,
       "word": "汪苏泷金色传说",
@@ -3393,6 +3433,14 @@
       "onboard_time": 1753680923,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152456,
+      "num": 152456,
+      "word": "覃海洋58秒23",
+      "onboard_time": 1753701801,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 151506,
@@ -3609,6 +3657,14 @@
       "onboard_time": 1753674923,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144999,
+      "num": 144999,
+      "word": "王楚钦周启豪vs薛飞向鹏",
+      "onboard_time": 1753699342,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 144982,
@@ -3915,14 +3971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136372,
-      "num": 136372,
-      "word": "王楚钦周启豪vs薛飞向鹏",
-      "onboard_time": 1753699342,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136238,
       "num": 136238,
       "word": "生吃蔬菜 寄生虫",
@@ -3995,12 +4043,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134857,
+      "num": 134857,
+      "word": "董璇情绪稳定得像AI",
+      "onboard_time": 1753701264,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134567,
       "num": 134567,
       "word": "马来西亚总理表示泰柬同意停火",
       "onboard_time": 1753698682,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134520,
+      "num": 134520,
+      "word": "藏海传细节越来越多了",
+      "onboard_time": 1753700722,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 134178,
@@ -4555,12 +4619,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119675,
+      "num": 119675,
+      "word": "严浩翔在台下模仿张真源",
+      "onboard_time": 1753701865,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119397,
       "num": 119397,
       "word": "小鹏称绝对不上激光雷达",
       "onboard_time": 1753699642,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 119349,
+      "num": 119349,
+      "word": "舒畅cos宝莲灯小玉",
+      "onboard_time": 1753701865,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 118747,
@@ -4667,6 +4747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115172,
+      "num": 115172,
+      "word": "速食湿粉 发霉",
+      "onboard_time": 1753701442,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114909,
       "num": 114909,
       "word": "新说唱这把披哥大战浪姐",
@@ -4707,6 +4795,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 114597,
+      "num": 114597,
+      "word": "黄友政vs林诗栋",
+      "onboard_time": 1753701865,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114392,
       "num": 212162,
       "word": "肝炎一定会发展成肝癌吗",
@@ -4729,6 +4825,14 @@
       "onboard_time": 1753597824,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113912,
+      "num": 113912,
+      "word": "李嘉诚旗下长和港口交易有重大调整",
+      "onboard_time": 1753700423,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113833,
@@ -4889,6 +4993,14 @@
       "onboard_time": 1753667301,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109521,
+      "num": 112714,
+      "word": "王玉雯偏爱美丽小破烂",
+      "onboard_time": 1753700364,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107854,
@@ -5115,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100014,
+      "num": 117120,
+      "word": "在二手平台赚了一百万总结出来的经验",
+      "onboard_time": 1753700664,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99981,
       "num": 99981,
       "word": "陈都灵包场杨洋凡人修仙传",
@@ -5216,6 +5336,14 @@
       "word": "北京青龙峡水库开闸泄洪",
       "onboard_time": 1753587923,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94870,
+      "num": 270219,
+      "word": "北京气象台发布暴雨红色预警",
+      "onboard_time": 1753693585,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -5723,6 +5851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54089,
+      "num": 152651,
+      "word": "多肉饱饱被限制高消费",
+      "onboard_time": 1753701083,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53654,
       "num": 140731,
       "word": "油电平权的时代来了",
@@ -5993,6 +6129,14 @@
       "onboard_time": 1753598124,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 31259,
+      "num": 287894,
+      "word": "少林寺官网删除释永信个人专题",
+      "onboard_time": 1753701083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30402,

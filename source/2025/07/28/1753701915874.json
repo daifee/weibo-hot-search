@@ -1,0 +1,410 @@
+{
+  "runTime": 1753701915874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2336412,
+        "num": 2336412,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 0,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 1297232,
+        "num": 1297232,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42729,
+        "num": 965046,
+        "word": "大雨还要下多久",
+        "onboard_time": 1753665620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852098,
+        "num": 852098,
+        "word": "育儿补贴",
+        "onboard_time": 1753694185,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726242,
+        "num": 726242,
+        "word": "6个月工资一万三被索赔两万多",
+        "onboard_time": 1753696882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474203,
+        "num": 474203,
+        "word": "育儿补贴制度实施方案发布",
+        "onboard_time": 1753694122,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447930,
+        "num": 447930,
+        "word": "北京全市景区关闭",
+        "onboard_time": 1753699462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428212,
+        "num": 428212,
+        "word": "北京请市民非必要不外出",
+        "onboard_time": 1753694783,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410023,
+        "num": 410023,
+        "word": "释永信所作所为性质十分恶劣",
+        "onboard_time": 1753692987,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317886,
+        "num": 317886,
+        "word": "麻六记别躲白家阿宽后装无辜",
+        "onboard_time": 1753698682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760185,
+        "num": 316404,
+        "word": "杨洋迪丽热巴 荣耀夫妇对打",
+        "onboard_time": 1753699043,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746073,
+        "num": 315749,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 721558,
+        "num": 312293,
+        "word": "魏如萱承认恋情",
+        "onboard_time": 1753701144,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402564,
+        "num": 311192,
+        "word": "刘诗诗染红发",
+        "onboard_time": 1753698383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338203,
+        "num": 308742,
+        "word": "朱孝天回应删明道好友",
+        "onboard_time": 1753697242,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307814,
+        "num": 307814,
+        "word": "王者荣耀",
+        "onboard_time": 1753699583,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299041,
+        "num": 299041,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238472,
+        "num": 292664,
+        "word": "严浩翔说时团被吴彤做局了",
+        "onboard_time": 1753699883,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202663,
+        "num": 288413,
+        "word": "短短8集吻戏床戏都安排上了",
+        "onboard_time": 1753682782,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31259,
+        "num": 287894,
+        "word": "少林寺官网删除释永信个人专题",
+        "onboard_time": 1753701083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287736,
+        "num": 287736,
+        "word": "TF家族成员每天睡10个小时",
+        "onboard_time": 1753700064,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94870,
+        "num": 270219,
+        "word": "北京气象台发布暴雨红色预警",
+        "onboard_time": 1753693585,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261672,
+        "num": 261672,
+        "word": "育儿补贴如何申领和发放",
+        "onboard_time": 1753698743,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240485,
+        "num": 240485,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 190331,
+        "word": "凡人修仙传7.7%",
+        "onboard_time": 1753698143,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178392,
+        "num": 178392,
+        "word": "曼谷市场枪击事件已致6人死亡",
+        "onboard_time": 1753689444,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176595,
+        "num": 176595,
+        "word": "迪丽热巴工作室剧宣",
+        "onboard_time": 1753697783,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155432,
+        "num": 155432,
+        "word": "李乃文年轻的时候就这么老",
+        "onboard_time": 1753701683,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137102,
+        "num": 153135,
+        "word": "龚俊打开手机一看天塌了",
+        "onboard_time": 1753698383,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54089,
+        "num": 152651,
+        "word": "多肉饱饱被限制高消费",
+        "onboard_time": 1753701083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181110,
+        "num": 152604,
+        "word": "喜茶 CHIIKAWA",
+        "onboard_time": 1753686263,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152456,
+        "num": 152456,
+        "word": "覃海洋58秒23",
+        "onboard_time": 1753701801,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144999,
+        "num": 144999,
+        "word": "王楚钦周启豪vs薛飞向鹏",
+        "onboard_time": 1753699342,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143828,
+        "num": 143828,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134857,
+        "num": 134857,
+        "word": "董璇情绪稳定得像AI",
+        "onboard_time": 1753701264,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134520,
+        "num": 134520,
+        "word": "藏海传细节越来越多了",
+        "onboard_time": 1753700722,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131181,
+        "num": 131181,
+        "word": "点外卖和不点外卖的都沉默了",
+        "onboard_time": 1753688663,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521450,
+        "num": 130393,
+        "word": "王丽坤竟然也演短剧了",
+        "onboard_time": 1753692987,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128723,
+        "num": 128723,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127105,
+        "num": 127105,
+        "word": "马思纯明媚成这样",
+        "onboard_time": 1753696343,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126727,
+        "num": 126727,
+        "word": "王者山海奇都平行世界",
+        "onboard_time": 1753699642,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119675,
+        "num": 119675,
+        "word": "严浩翔在台下模仿张真源",
+        "onboard_time": 1753701865,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119349,
+        "num": 119349,
+        "word": "舒畅cos宝莲灯小玉",
+        "onboard_time": 1753701865,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100014,
+        "num": 117120,
+        "word": "在二手平台赚了一百万总结出来的经验",
+        "onboard_time": 1753700664,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115351,
+        "num": 115351,
+        "word": "三伏天养生就这么干",
+        "onboard_time": 1753699222,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115172,
+        "num": 115172,
+        "word": "速食湿粉 发霉",
+        "onboard_time": 1753701442,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114597,
+        "num": 114597,
+        "word": "黄友政vs林诗栋",
+        "onboard_time": 1753701865,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110852,
+        "num": 114157,
+        "word": "小米车主说遭货车逼停被指别车在先",
+        "onboard_time": 1753698383,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113912,
+        "num": 113912,
+        "word": "李嘉诚旗下长和港口交易有重大调整",
+        "onboard_time": 1753700423,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109521,
+        "num": 112714,
+        "word": "王玉雯偏爱美丽小破烂",
+        "onboard_time": 1753700364,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济乘风破浪稳中向好#"
+    }
+  }
+}
