@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753734725477,
+  "endTime": 1753735570872,
   "band_list": [
     {
       "raw_hot": 1164370,
@@ -427,8 +427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58464,
-      "num": 58464,
+      "raw_hot": 58989,
+      "num": 58989,
       "word": "村委会会计涉嫌杀害前夫潜逃26年",
       "onboard_time": 1753728855,
       "rank": 34,
@@ -459,20 +459,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36764,
+      "num": 36764,
+      "word": "中国司机生命最后挽救一车韩国游客",
+      "onboard_time": 1753731974,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34930,
       "num": 145645,
       "word": "北京发布积水内涝橙色预警",
       "onboard_time": 1753723637,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27173,
-      "num": 27173,
-      "word": "中国司机生命最后挽救一车韩国游客",
-      "onboard_time": 1753731974,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21210,
