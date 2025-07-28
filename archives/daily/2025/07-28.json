@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753680934902,
+  "endTime": 1753681958878,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -35,7 +35,15 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1228591,
+      "raw_hot": 1283137,
+      "num": 315024,
+      "word": "李晟 女人不能这么坐吗",
+      "onboard_time": 1753678046,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1242728,
       "num": 1028383,
       "word": "中国佛教协会对释永信戒牒予以注销",
       "onboard_time": 1753675945,
@@ -65,14 +73,6 @@
       "onboard_time": 1753674682,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1054146,
-      "num": 287939,
-      "word": "李晟 女人不能这么坐吗",
-      "onboard_time": 1753678046,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 978510,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622179,
+      "num": 622179,
+      "word": "救一家三口牺牲的宋士佳下葬",
+      "onboard_time": 1753677085,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597090,
       "num": 212049,
       "word": "宁宁",
@@ -145,6 +153,14 @@
       "onboard_time": 1753670601,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 563578,
+      "num": 563578,
+      "word": "张元英的生图已经进化成这样了吗",
+      "onboard_time": 1753676365,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 537601,
@@ -171,11 +187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519680,
-      "num": 519680,
-      "word": "救一家三口牺牲的宋士佳下葬",
-      "onboard_time": 1753677085,
-      "rank": 4,
+      "raw_hot": 519239,
+      "num": 519239,
+      "word": "谁能管管现在的商场厕所",
+      "onboard_time": 1753679483,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -211,12 +227,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 455252,
-      "num": 455252,
-      "word": "张元英的生图已经进化成这样了吗",
-      "onboard_time": 1753676365,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 443267,
+      "num": 443267,
+      "word": "许嵩哽咽说对不起",
+      "onboard_time": 1753678404,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 434842,
@@ -243,8 +259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384147,
-      "num": 222406,
+      "raw_hot": 385423,
+      "num": 280401,
       "word": "血瘀是大病的开始",
       "onboard_time": 1753678763,
       "rank": 35,
@@ -280,6 +296,14 @@
       "word": "车银优寸头",
       "onboard_time": 1753621886,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342405,
+      "num": 342405,
+      "word": "田栩宁没有法令纹的原因找到了",
+      "onboard_time": 1753681823,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314898,
+      "num": 314898,
+      "word": "任权被整容后的薛小婉吓到了",
+      "onboard_time": 1753681283,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 312996,
       "num": 312996,
       "word": "南京照相馆票房",
@@ -347,20 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 293665,
-      "num": 293665,
-      "word": "许嵩哽咽说对不起",
-      "onboard_time": 1753678404,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 288552,
       "num": 204659,
       "word": "李小冉把何炅微信删了",
       "onboard_time": 1753596023,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283691,
+      "num": 283691,
+      "word": "易烊千玺演唱会二开",
+      "onboard_time": 1753679723,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 280684,
@@ -409,14 +441,6 @@
       "onboard_time": 1753669522,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264991,
-      "num": 264991,
-      "word": "谁能管管现在的商场厕所",
-      "onboard_time": 1753679483,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259347,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 237534,
-      "num": 220190,
+      "num": 220710,
       "word": "陈慧琳回应儿子恋情",
       "onboard_time": 1753677445,
       "rank": 31,
@@ -505,14 +529,6 @@
       "onboard_time": 1753658059,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226487,
-      "num": 226487,
-      "word": "易烊千玺演唱会二开",
-      "onboard_time": 1753679723,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 226313,
@@ -563,6 +579,22 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 208261,
+      "num": 208261,
+      "word": "杨洋居然还留着那个大绿瓶",
+      "onboard_time": 1753680743,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207744,
+      "num": 207744,
+      "word": "凡人修仙传",
+      "onboard_time": 1753680862,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205916,
       "num": 205916,
       "word": "许嵩哭了",
@@ -611,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194512,
+      "num": 194512,
+      "word": "潘展乐无缘200自半决赛",
+      "onboard_time": 1753681761,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193887,
       "num": 193887,
       "word": "内娱歌手全来新说唱当嘉宾了",
@@ -649,6 +689,14 @@
       "onboard_time": 1753614023,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189304,
+      "num": 189304,
+      "word": "樊振东德甲赛场见",
+      "onboard_time": 1753681761,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 185172,
@@ -723,12 +771,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 175267,
-      "num": 175267,
-      "word": "杨洋居然还留着那个大绿瓶",
-      "onboard_time": 1753680743,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 176077,
+      "num": 176077,
+      "word": "顾客就餐发现餐桌上一堆蛆在爬",
+      "onboard_time": 1753680202,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174759,
@@ -737,6 +785,14 @@
       "onboard_time": 1753673783,
       "rank": 33,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 171237,
+      "num": 171237,
+      "word": "唯一一个上班让老板亏钱的人",
+      "onboard_time": 1753680142,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 170554,
@@ -907,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152479,
+      "num": 152479,
+      "word": "懒羊羊的角是可拆卸的",
+      "onboard_time": 1753680923,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150957,
       "num": 150957,
       "word": "车银优明天入伍",
@@ -929,22 +993,6 @@
       "onboard_time": 1753661062,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149115,
-      "num": 149115,
-      "word": "顾客就餐发现餐桌上一堆蛆在爬",
-      "onboard_time": 1753680202,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148060,
-      "num": 148060,
-      "word": "凡人修仙传",
-      "onboard_time": 1753680862,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 147758,
@@ -979,6 +1027,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 146668,
+      "num": 146668,
+      "word": "年收入前10%群体缴纳个税占比约9成",
+      "onboard_time": 1753681761,
+      "rank": 38,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 146114,
       "num": 146114,
       "word": "她一次性做了我一辈子的工作",
@@ -1003,12 +1059,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142614,
-      "num": 142614,
-      "word": "唯一一个上班让老板亏钱的人",
-      "onboard_time": 1753680142,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 144009,
+      "num": 144009,
+      "word": "圈外人真的手气这么好吗",
+      "onboard_time": 1753681761,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 142567,
@@ -1020,19 +1076,11 @@
     },
     {
       "raw_hot": 140932,
-      "num": 140932,
+      "num": 142281,
       "word": "马斯克预言的机器人送餐在上海实现",
       "onboard_time": 1753680561,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139199,
-      "num": 139199,
-      "word": "懒羊羊的角是可拆卸的",
-      "onboard_time": 1753680923,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 138070,
@@ -1275,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95150,
+      "num": 197402,
+      "word": "林志炫感到内疚",
+      "onboard_time": 1753681042,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93419,
       "num": 93419,
       "word": "廉价版ModelY车型内饰首曝",
@@ -1363,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71256,
+      "num": 314931,
+      "word": "十四五以来挽回税款损失5710亿元",
+      "onboard_time": 1753670723,
+      "rank": 14,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 70432,
       "num": 70432,
       "word": "释永信最后一次公开露面",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1753659260,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59648,
+      "num": 280621,
+      "word": "金靖式上班太真实了",
+      "onboard_time": 1753681223,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 56629,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1753659260,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50665,
+      "num": 145164,
+      "word": "女子称误将碘伏当糖浆喂孩子",
+      "onboard_time": 1753681703,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49089,

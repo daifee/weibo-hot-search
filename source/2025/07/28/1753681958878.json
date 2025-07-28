@@ -1,0 +1,410 @@
+{
+  "runTime": 1753681958878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 827769,
+        "num": 1132443,
+        "word": "全球首个计划整体迁移的国家",
+        "onboard_time": 1753671262,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 622179,
+        "num": 622179,
+        "word": "救一家三口牺牲的宋士佳下葬",
+        "onboard_time": 1753677085,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73714,
+        "num": 567541,
+        "word": "国家安全部披露间谍常用套路",
+        "onboard_time": 1753661062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1242728,
+        "num": 566949,
+        "word": "中国佛教协会对释永信戒牒予以注销",
+        "onboard_time": 1753675945,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 563578,
+        "num": 563578,
+        "word": "张元英的生图已经进化成这样了吗",
+        "onboard_time": 1753676365,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519239,
+        "num": 519239,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1753679483,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443267,
+        "num": 443267,
+        "word": "许嵩哽咽说对不起",
+        "onboard_time": 1753678404,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352860,
+        "num": 352860,
+        "word": "中国佛教协会发布公告",
+        "onboard_time": 1753674682,
+        "rank": 7,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 342405,
+        "num": 342405,
+        "word": "田栩宁没有法令纹的原因找到了",
+        "onboard_time": 1753681823,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315024,
+        "num": 315024,
+        "word": "太平洋岛国图瓦卢计划举国移民",
+        "onboard_time": 1753670121,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1283137,
+        "num": 315024,
+        "word": "李晟 女人不能这么坐吗",
+        "onboard_time": 1753678046,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046072,
+        "num": 314991,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 992471,
+        "num": 314982,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834884,
+        "num": 314948,
+        "word": "嵩山少林景区再发公告",
+        "onboard_time": 1753674682,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71256,
+        "num": 314931,
+        "word": "十四五以来挽回税款损失5710亿元",
+        "onboard_time": 1753670723,
+        "rank": 14,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 475297,
+        "num": 314915,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314898,
+        "num": 314898,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 296123,
+        "num": 296123,
+        "word": "心动的信号8",
+        "onboard_time": 1753673783,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283691,
+        "num": 283691,
+        "word": "易烊千玺演唱会二开",
+        "onboard_time": 1753679723,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59648,
+        "num": 280621,
+        "word": "金靖式上班太真实了",
+        "onboard_time": 1753681223,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 957595,
+        "num": 280478,
+        "word": "金价",
+        "onboard_time": 1753672344,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 385423,
+        "num": 280401,
+        "word": "血瘀是大病的开始",
+        "onboard_time": 1753678763,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280240,
+        "num": 280240,
+        "word": "吴京谢楠大儿子肌肉照",
+        "onboard_time": 1753667361,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220710,
+        "num": 220710,
+        "word": "陈慧琳回应儿子恋情",
+        "onboard_time": 1753677445,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210409,
+        "num": 210409,
+        "word": "迪丽热巴的代言包场利剑玫瑰了",
+        "onboard_time": 1753674744,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208261,
+        "num": 208261,
+        "word": "杨洋居然还留着那个大绿瓶",
+        "onboard_time": 1753680743,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207744,
+        "num": 207744,
+        "word": "凡人修仙传",
+        "onboard_time": 1753680862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206392,
+        "num": 206392,
+        "word": "释永信涉嫌刑事犯罪",
+        "onboard_time": 1753618882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201021,
+        "num": 201021,
+        "word": "肯德基 光与夜之恋",
+        "onboard_time": 1753679423,
+        "rank": 28,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 95150,
+        "num": 197402,
+        "word": "林志炫感到内疚",
+        "onboard_time": 1753681042,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194512,
+        "num": 194512,
+        "word": "潘展乐无缘200自半决赛",
+        "onboard_time": 1753681761,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189304,
+        "num": 189304,
+        "word": "樊振东德甲赛场见",
+        "onboard_time": 1753681761,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176077,
+        "num": 176077,
+        "word": "顾客就餐发现餐桌上一堆蛆在爬",
+        "onboard_time": 1753680202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172204,
+        "num": 172204,
+        "word": "看电梯按键就知道上班怨气有多大",
+        "onboard_time": 1753677324,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171237,
+        "num": 171237,
+        "word": "唯一一个上班让老板亏钱的人",
+        "onboard_time": 1753680142,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159246,
+        "num": 159246,
+        "word": "盗墓笔记",
+        "onboard_time": 1753669522,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152479,
+        "num": 152479,
+        "word": "懒羊羊的角是可拆卸的",
+        "onboard_time": 1753680923,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147404,
+        "num": 147404,
+        "word": "越吃越胖的素菜名单",
+        "onboard_time": 1753662683,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146668,
+        "num": 146668,
+        "word": "年收入前10%群体缴纳个税占比约9成",
+        "onboard_time": 1753681761,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 50665,
+        "num": 145164,
+        "word": "女子称误将碘伏当糖浆喂孩子",
+        "onboard_time": 1753681703,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144009,
+        "num": 144009,
+        "word": "圈外人真的手气这么好吗",
+        "onboard_time": 1753681761,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 133935,
+        "num": 142281,
+        "word": "马斯克预言的机器人送餐在上海实现",
+        "onboard_time": 1753680561,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141710,
+        "num": 141710,
+        "word": "无畏契约",
+        "onboard_time": 1753678285,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139997,
+        "num": 139997,
+        "word": "东方甄选主播离职后都咋样了",
+        "onboard_time": 1753671621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139976,
+        "num": 139976,
+        "word": "李小冉转发谢娜",
+        "onboard_time": 1753678226,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136612,
+        "num": 136612,
+        "word": "读书真的会影响潜意识",
+        "onboard_time": 1753680083,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135030,
+        "num": 135030,
+        "word": "女子生气抓男友头发撞墙致其去世",
+        "onboard_time": 1753659920,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133790,
+        "num": 133790,
+        "word": "王嘉尔晒全家福",
+        "onboard_time": 1753671022,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128533,
+        "num": 128533,
+        "word": "恋与祁煜电视台",
+        "onboard_time": 1753680023,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127994,
+        "num": 127994,
+        "word": "31岁女生花一整年装修的梦中情家",
+        "onboard_time": 1753679843,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席生动喻中欧#"
+    }
+  }
+}
