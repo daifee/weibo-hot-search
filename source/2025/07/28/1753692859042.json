@@ -1,0 +1,410 @@
+{
+  "runTime": 1753692859042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2698115,
+        "num": 2698115,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1367182,
+        "num": 1367182,
+        "word": "官方查处一批明星偷逃税案件",
+        "onboard_time": 1753691004,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 45249,
+        "num": 920928,
+        "word": "国家安全部披露间谍常用套路",
+        "onboard_time": 1753661062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 906788,
+        "num": 906788,
+        "word": "曼谷市场枪击事件已致6人死亡",
+        "onboard_time": 1753689444,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 790867,
+        "num": 790867,
+        "word": "张予曦初中时被男同学揍过",
+        "onboard_time": 1753686022,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616757,
+        "num": 616757,
+        "word": "主播查补税款30多亿元",
+        "onboard_time": 1753687343,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562751,
+        "num": 562751,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 549006,
+        "num": 549006,
+        "word": "体重仅35斤女生发视频求助",
+        "onboard_time": 1753684523,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530124,
+        "num": 530124,
+        "word": "高铁儿童票",
+        "onboard_time": 1753685185,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379602,
+        "num": 379602,
+        "word": "北京暴雨",
+        "onboard_time": 1753682723,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1155291,
+        "num": 376952,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826894,
+        "num": 373010,
+        "word": "boss直聘通报王某香简历事件",
+        "onboard_time": 1753687283,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626206,
+        "num": 364982,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462521,
+        "num": 357707,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412408,
+        "num": 351823,
+        "word": "男子冒充女性求职者造黄谣被刑拘",
+        "onboard_time": 1753687223,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348072,
+        "num": 348072,
+        "word": "短短8集吻戏床戏都安排上了",
+        "onboard_time": 1753682782,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322929,
+        "num": 322929,
+        "word": "董璇说领证让她和张维伊都踏实了",
+        "onboard_time": 1753682484,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309605,
+        "num": 309605,
+        "word": "朝雪录热度超了风吹半夏宁安如梦",
+        "onboard_time": 1753685125,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300993,
+        "num": 300993,
+        "word": "李晟 女人不能这么坐吗",
+        "onboard_time": 1753678046,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88306,
+        "num": 290743,
+        "word": "那些拼多多包邮送来的神器",
+        "onboard_time": 1753688842,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325760,
+        "num": 288817,
+        "word": "金价",
+        "onboard_time": 1753672344,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280998,
+        "num": 280998,
+        "word": "点外卖和不点外卖的都沉默了",
+        "onboard_time": 1753688663,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255333,
+        "num": 255333,
+        "word": "成毅朋友圈个性签名",
+        "onboard_time": 1753689322,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81651,
+        "num": 243470,
+        "word": "苏州气象台发布强对流黄色预警",
+        "onboard_time": 1753687463,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234635,
+        "num": 234635,
+        "word": "中国佛教协会对释永信戒牒予以注销",
+        "onboard_time": 1753675945,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 223796,
+        "num": 223796,
+        "word": "血瘀是大病的开始",
+        "onboard_time": 1753678763,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213248,
+        "num": 213248,
+        "word": "尖叫瓶盖 不密封",
+        "onboard_time": 1753690043,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208469,
+        "num": 208469,
+        "word": "小S小女儿晒与闺蜜度假照",
+        "onboard_time": 1753682782,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179099,
+        "num": 196273,
+        "word": "徐璐回应不拍戏",
+        "onboard_time": 1753692563,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169990,
+        "num": 190800,
+        "word": "田栩宁没有法令纹的原因找到了",
+        "onboard_time": 1753681823,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190677,
+        "num": 190677,
+        "word": "喜茶 CHIIKAWA",
+        "onboard_time": 1753686263,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190596,
+        "num": 190596,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170180,
+        "num": 170180,
+        "word": "怪不得沙溢能瘦下来呢",
+        "onboard_time": 1753689384,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160664,
+        "num": 160664,
+        "word": "浪漫满屋 对抗路情侣",
+        "onboard_time": 1753689204,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159975,
+        "num": 159975,
+        "word": "真道士一个月能赚多少钱",
+        "onboard_time": 1753687223,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85881,
+        "num": 153172,
+        "word": "219国道西藏山南段藏了多少蓝",
+        "onboard_time": 1753692202,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152823,
+        "num": 152823,
+        "word": "路人视角的迅猛龙特蕾莎",
+        "onboard_time": 1753689862,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151880,
+        "num": 151880,
+        "word": "释永信曾说和尚婚恋犯根本大戒",
+        "onboard_time": 1753684702,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18471,
+        "num": 150721,
+        "word": "萧剑柳红时隔28年合体",
+        "onboard_time": 1753691902,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149980,
+        "num": 149980,
+        "word": "第一个发明劳动派遣的就是这样想的",
+        "onboard_time": 1753691603,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148815,
+        "num": 149604,
+        "word": "黄金",
+        "onboard_time": 1753691542,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149347,
+        "num": 149347,
+        "word": "罗大美遇害被告酒后自曝作案细节",
+        "onboard_time": 1753689742,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148396,
+        "num": 148396,
+        "word": "下班后的工作是一场服从性测试",
+        "onboard_time": 1753691185,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140075,
+        "num": 140075,
+        "word": "交警化身安全超人提醒交通安全",
+        "onboard_time": 1753687402,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125295,
+        "num": 125295,
+        "word": "体态比减脂更重要",
+        "onboard_time": 1753686202,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120395,
+        "num": 120395,
+        "word": "原来上班真的有这么多预制人",
+        "onboard_time": 1753691542,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119361,
+        "num": 119361,
+        "word": "深圳上百个环卫机器人上岗",
+        "onboard_time": 1753692202,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116072,
+        "num": 116072,
+        "word": "在长久的婚姻中爱并不是秘诀",
+        "onboard_time": 1753691723,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115353,
+        "num": 115353,
+        "word": "迪丽热巴红裙复古elegance",
+        "onboard_time": 1753685483,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113938,
+        "num": 113938,
+        "word": "吴京吴所谓完全是复制粘贴",
+        "onboard_time": 1753687043,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席生动喻中欧#"
+    }
+  }
+}
