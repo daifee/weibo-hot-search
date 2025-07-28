@@ -1,0 +1,410 @@
+{
+  "runTime": 1753675875982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659723,
+        "num": 1659723,
+        "word": "全球首个计划整体迁移的国家",
+        "onboard_time": 1753671262,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1158938,
+        "num": 1158938,
+        "word": "金价",
+        "onboard_time": 1753672344,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78308,
+        "num": 797386,
+        "word": "国家安全部披露间谍常用套路",
+        "onboard_time": 1753661062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1426642,
+        "num": 752686,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622715,
+        "num": 622715,
+        "word": "心动的信号8",
+        "onboard_time": 1753673783,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580645,
+        "num": 580645,
+        "word": "陈梦发长文",
+        "onboard_time": 1753670601,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461252,
+        "num": 461252,
+        "word": "东方甄选主播离职后都咋样了",
+        "onboard_time": 1753671621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436012,
+        "num": 436012,
+        "word": "我国头颈癌患者发病率呈上升趋势",
+        "onboard_time": 1753666762,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 434842,
+        "num": 434842,
+        "word": "开推团包场迪丽热巴利剑玫瑰",
+        "onboard_time": 1753672223,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349229,
+        "num": 434745,
+        "word": "中国佛教协会发布公告",
+        "onboard_time": 1753674682,
+        "rank": 9,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 1754175,
+        "num": 434615,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927273,
+        "num": 434429,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526181,
+        "num": 434254,
+        "word": "王嘉尔晒全家福",
+        "onboard_time": 1753671022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434224,
+        "num": 434224,
+        "word": "吴京谢楠大儿子肌肉照",
+        "onboard_time": 1753667361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376206,
+        "num": 376206,
+        "word": "太平洋岛国图瓦卢计划举国移民",
+        "onboard_time": 1753670121,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348795,
+        "num": 348795,
+        "word": "前央视主持人杨茗茗离职后自曝后悔",
+        "onboard_time": 1753665083,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322758,
+        "num": 348492,
+        "word": "于正说赵晴总拿自己黑料调侃自己",
+        "onboard_time": 1753672344,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258935,
+        "num": 348011,
+        "word": "迪丽热巴的代言包场利剑玫瑰了",
+        "onboard_time": 1753674744,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241072,
+        "num": 347332,
+        "word": "汪苏泷这一跪又有多少人沦陷了",
+        "onboard_time": 1753658118,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223740,
+        "num": 346418,
+        "word": "利剑玫瑰云包场",
+        "onboard_time": 1753673902,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346147,
+        "num": 346147,
+        "word": "嵩山少林景区再发公告",
+        "onboard_time": 1753674682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306947,
+        "num": 306947,
+        "word": "释永信涉嫌刑事犯罪",
+        "onboard_time": 1753618882,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101176,
+        "num": 286188,
+        "word": "上汽奥迪A5L首发测评",
+        "onboard_time": 1753672462,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 280351,
+        "num": 280351,
+        "word": "怀孕后脏器都被挤变形了",
+        "onboard_time": 1753669042,
+        "rank": 23,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 266323,
+        "num": 266323,
+        "word": "盗墓笔记",
+        "onboard_time": 1753669522,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265776,
+        "num": 265776,
+        "word": "越吃越胖的素菜名单",
+        "onboard_time": 1753662683,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264411,
+        "num": 264411,
+        "word": "女子生气抓男友头发撞墙致其去世",
+        "onboard_time": 1753659920,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212215,
+        "num": 212215,
+        "word": "拿下权志龙只需要一个小风扇",
+        "onboard_time": 1753675103,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207257,
+        "num": 207257,
+        "word": "上一秒大婚下一秒大虐",
+        "onboard_time": 1753674744,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161668,
+        "num": 190530,
+        "word": "宋佳佟丽娅新片又争又抢",
+        "onboard_time": 1753675524,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190372,
+        "num": 190372,
+        "word": "A股",
+        "onboard_time": 1753674443,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180981,
+        "num": 180981,
+        "word": "宁宁",
+        "onboard_time": 1753628304,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177304,
+        "num": 177304,
+        "word": "顿顿回应离职东方甄选争议",
+        "onboard_time": 1753674863,
+        "rank": 32,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 174759,
+        "num": 174759,
+        "word": "黄晓明陈梦聚餐",
+        "onboard_time": 1753673783,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 163226,
+        "num": 163226,
+        "word": "大雨还要下多久",
+        "onboard_time": 1753665620,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163223,
+        "num": 163223,
+        "word": "汪峰带四个孩子回京",
+        "onboard_time": 1753666521,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158752,
+        "num": 158752,
+        "word": "杨幂爆炸头双封面",
+        "onboard_time": 1753675164,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156277,
+        "num": 156277,
+        "word": "林忆莲4天唱了100首",
+        "onboard_time": 1753675164,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86932,
+        "num": 154977,
+        "word": "SHE三人合影",
+        "onboard_time": 1753675044,
+        "rank": 38,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 154691,
+        "num": 154691,
+        "word": "但凡偏科一点都接不了这活",
+        "onboard_time": 1753675464,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153879,
+        "num": 153879,
+        "word": "余承东曝全新问界M7实车外观",
+        "onboard_time": 1753673783,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148160,
+        "num": 148160,
+        "word": "内娱歌手全来新说唱当嘉宾了",
+        "onboard_time": 1753675584,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146521,
+        "num": 146521,
+        "word": "和朱一龙一起从抗战文物中汲取力量",
+        "onboard_time": 1753670062,
+        "rank": 42,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 145433,
+        "num": 145433,
+        "word": "定风波",
+        "onboard_time": 1753674923,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142567,
+        "num": 142567,
+        "word": "李兰迪颜值的权威我后知后觉",
+        "onboard_time": 1753675524,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137080,
+        "num": 137080,
+        "word": "2024年个税汇算专项附加扣除近3000亿元",
+        "onboard_time": 1753675763,
+        "rank": 45,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 135147,
+        "num": 135147,
+        "word": "80岁老人怕商家卖不出天天网购",
+        "onboard_time": 1753672823,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134919,
+        "num": 134919,
+        "word": "日本人的无油晚餐",
+        "onboard_time": 1753670421,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134796,
+        "num": 134796,
+        "word": "何超仪老公再次病重",
+        "onboard_time": 1753675703,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123093,
+        "num": 123093,
+        "word": "白家阿宽向消费者和麻六记致歉",
+        "onboard_time": 1753669522,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席生动喻中欧#"
+    }
+  }
+}
