@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753677050900,
+  "endTime": 1753679101598,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -153,6 +153,22 @@
       "onboard_time": 1753672344,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1076589,
+      "num": 528117,
+      "word": "嵩山少林景区再发公告",
+      "onboard_time": 1753674682,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1028383,
+      "num": 1028383,
+      "word": "中国佛教协会对释永信戒牒予以注销",
+      "onboard_time": 1753675945,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1016794,
@@ -499,6 +515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 587824,
+      "num": 287939,
+      "word": "李晟 女人不能这么坐吗",
+      "onboard_time": 1753678046,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582671,
       "num": 582671,
       "word": "鹿晗金宣虎笑",
@@ -561,14 +585,6 @@
       "onboard_time": 1753674682,
       "rank": 9,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 528117,
-      "num": 528117,
-      "word": "嵩山少林景区再发公告",
-      "onboard_time": 1753674682,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526406,
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416638,
+      "num": 416638,
+      "word": "救一家三口牺牲的宋士佳下葬",
+      "onboard_time": 1753677085,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410502,
       "num": 462419,
       "word": "李小龙死因或系癫痫",
@@ -923,14 +947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 359523,
-      "num": 467611,
-      "word": "中国佛教协会对释永信戒牒予以注销",
-      "onboard_time": 1753675945,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 354966,
       "num": 354966,
       "word": "仙逆王林",
@@ -1035,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314930,
+      "num": 388662,
+      "word": "迪丽热巴的代言包场利剑玫瑰了",
+      "onboard_time": 1753674744,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312996,
       "num": 312996,
       "word": "南京照相馆票房",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1753621105,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307171,
-      "num": 388662,
-      "word": "迪丽热巴的代言包场利剑玫瑰了",
-      "onboard_time": 1753674744,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 301570,
@@ -1163,6 +1179,14 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 277645,
+      "num": 387536,
+      "word": "上一秒大婚下一秒大虐",
+      "onboard_time": 1753674744,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277123,
       "num": 277123,
       "word": "演唱会和自担吵架是什么体验",
@@ -1200,14 +1224,6 @@
       "word": "盗墓笔记",
       "onboard_time": 1753669522,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 274315,
-      "num": 387536,
-      "word": "上一秒大婚下一秒大虐",
-      "onboard_time": 1753674744,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1273,6 +1289,22 @@
       "onboard_time": 1753589242,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259347,
+      "num": 219699,
+      "word": "看电梯按键就知道上班怨气有多大",
+      "onboard_time": 1753677324,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 259280,
+      "num": 259280,
+      "word": "张元英的生图已经进化成这样了吗",
+      "onboard_time": 1753676365,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 257622,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1753670062,
       "rank": 9,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 237534,
+      "num": 219130,
+      "word": "陈慧琳回应儿子恋情",
+      "onboard_time": 1753677445,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 237238,
@@ -1507,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216793,
+      "num": 216793,
+      "word": "无畏契约",
+      "onboard_time": 1753678285,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "林允老钱度假风",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1753594462,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211479,
+      "num": 211479,
+      "word": "血瘀是大病的开始",
+      "onboard_time": 1753678763,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209887,
@@ -1625,6 +1681,22 @@
       "onboard_time": 1753541247,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200027,
+      "num": 200027,
+      "word": "汪顺回应为什么报100仰",
+      "onboard_time": 1753678704,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199576,
+      "num": 212361,
+      "word": "李小冉转发谢娜",
+      "onboard_time": 1753678226,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 199499,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1753612821,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194798,
+      "num": 217272,
+      "word": "许嵩哽咽说对不起",
+      "onboard_time": 1753678404,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 193925,
@@ -1827,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185172,
+      "num": 185172,
+      "word": "一条视频看懂苏超为啥火",
+      "onboard_time": 1753678704,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185028,
       "num": 233046,
       "word": "敖瑞鹏破万福利",
@@ -1939,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178478,
+      "num": 178478,
+      "word": "何超仪老公再次病重",
+      "onboard_time": 1753675703,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178035,
       "num": 225001,
       "word": "赵晴凡人修仙传状态",
@@ -1947,11 +2043,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177498,
-      "num": 177498,
-      "word": "何超仪老公再次病重",
-      "onboard_time": 1753675703,
-      "rank": 48,
+      "raw_hot": 177614,
+      "num": 177614,
+      "word": "演员吴静芝逝世",
+      "onboard_time": 1753676723,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1993,6 +2089,14 @@
       "onboard_time": 1753590381,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176648,
+      "num": 176648,
+      "word": "地球超新鲜全球美食美景大赏",
+      "onboard_time": 1753678644,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 176561,
@@ -2057,14 +2161,6 @@
       "onboard_time": 1753583722,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173137,
-      "num": 173137,
-      "word": "演员吴静芝逝世",
-      "onboard_time": 1753676723,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 171864,
@@ -2235,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163938,
+      "num": 270656,
+      "word": "后备箱的西瓜终于掉不出来了",
+      "onboard_time": 1753676185,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 163718,
       "num": 163718,
       "word": "朝雪录预告",
@@ -2355,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158817,
+      "num": 294860,
+      "word": "河北滦平山体滑坡4人遇难8人失联",
+      "onboard_time": 1753677505,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158752,
       "num": 158752,
       "word": "杨幂爆炸头双封面",
@@ -2369,6 +2481,14 @@
       "onboard_time": 1753662922,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157946,
+      "num": 157946,
+      "word": "上海地产1比1先锋乒羽",
+      "onboard_time": 1753678704,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 157728,
@@ -3107,6 +3227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133133,
+      "num": 188137,
+      "word": "魏如萱方回应插足",
+      "onboard_time": 1753678763,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133129,
       "num": 133129,
       "word": "33光影大片",
@@ -3241,14 +3369,6 @@
       "onboard_time": 1753543766,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128739,
-      "num": 173582,
-      "word": "张元英的生图已经进化成这样了吗",
-      "onboard_time": 1753676365,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 128408,
@@ -3481,14 +3601,6 @@
       "onboard_time": 1753613902,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120411,
-      "num": 270656,
-      "word": "后备箱的西瓜终于掉不出来了",
-      "onboard_time": 1753676185,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 120381,
@@ -4475,6 +4587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 56629,
+      "num": 221563,
+      "word": "28岁销售过度情绪劳动患中度抑郁",
+      "onboard_time": 1753678943,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54726,
       "num": 157550,
       "word": "潜水教练因被氧气瓶砸脚扇游客巴掌",
@@ -4577,6 +4697,14 @@
       "onboard_time": 1753623206,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 43236,
+      "num": 172200,
+      "word": "老人出游身亡家属质疑旅行社",
+      "onboard_time": 1753677144,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42691,
@@ -4713,6 +4841,14 @@
       "onboard_time": 1753598124,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 30711,
+      "num": 259822,
+      "word": "少林景区正常开放",
+      "onboard_time": 1753678884,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30402,
