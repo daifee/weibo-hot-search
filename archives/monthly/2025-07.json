@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753717596273,
+  "endTime": 1753720627729,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3483,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1164370,
+      "num": 320322,
+      "word": "全红婵近照",
+      "onboard_time": 1753717042,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1163518,
       "num": 1163518,
       "word": "高校学生热晕一晚开进五六辆救护车",
@@ -4648,6 +4656,14 @@
       "word": "6名学生溺亡事件家属发声",
       "onboard_time": 1753348345,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 990458,
+      "num": 990458,
+      "word": "北京密云暴雨致洪灾",
+      "onboard_time": 1753717762,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -17379,6 +17395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382862,
+      "num": 210900,
+      "word": "杨采钰是生了吗",
+      "onboard_time": 1753719261,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382173,
       "num": 297248,
       "word": "邢昭林家传减肥爆改吗",
@@ -18273,6 +18297,14 @@
       "onboard_time": 1753443866,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 363257,
+      "num": 363257,
+      "word": "居家办公",
+      "onboard_time": 1753717583,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363097,
@@ -20747,6 +20779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 321023,
+      "num": 321023,
+      "word": "金世佳演技",
+      "onboard_time": 1753716444,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320990,
       "num": 320990,
       "word": "柬埔寨要求立即无条件停火",
@@ -20793,14 +20833,6 @@
       "onboard_time": 1752846387,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 320322,
-      "num": 320322,
-      "word": "全红婵近照",
-      "onboard_time": 1753717042,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 320309,
@@ -22073,14 +22105,6 @@
       "onboard_time": 1753154782,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299421,
-      "num": 299421,
-      "word": "金世佳演技",
-      "onboard_time": 1753716444,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 299295,
@@ -31051,6 +31075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213780,
+      "num": 213780,
+      "word": "柬泰两国领导人分别感谢中国",
+      "onboard_time": 1753717881,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213769,
       "num": 213769,
       "word": "于正说等着你们集体破防",
@@ -32113,6 +32145,14 @@
       "onboard_time": 1751460681,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 208310,
+      "num": 208310,
+      "word": "女儿患病离世儿子又患同种病进ICU",
+      "onboard_time": 1753717881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208261,
@@ -37065,6 +37105,14 @@
       "onboard_time": 1752118942,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191214,
+      "num": 191214,
+      "word": "广东人陷入高温暴雨循环",
+      "onboard_time": 1753716683,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191146,
@@ -58803,6 +58851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133530,
+      "num": 133530,
+      "word": "增加调拨4.3万件物资支持京冀救灾",
+      "onboard_time": 1753718543,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133506,
       "num": 133506,
       "word": "张铁",
@@ -76187,14 +76243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101105,
-      "num": 101105,
-      "word": "广东人陷入高温暴雨循环",
-      "onboard_time": 1753716683,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101069,
       "num": 101934,
       "word": "居然有音综的主题曲摇来了TF三代",
@@ -78427,6 +78475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94724,
+      "num": 94724,
+      "word": "麻六记酸辣粉发霉背后",
+      "onboard_time": 1753718782,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94709,
       "num": 94709,
       "word": "王琳在关灯的空房子和小狗说话",
@@ -78529,6 +78585,14 @@
       "onboard_time": 1752831440,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94411,
+      "num": 94411,
+      "word": "北京市民称多辆车被洪水冲走",
+      "onboard_time": 1753719322,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94385,
@@ -81803,6 +81867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81684,
+      "num": 81684,
+      "word": "看得出张雅钦是真公主",
+      "onboard_time": 1753718903,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81613,
       "num": 81613,
       "word": "小鹏G7价格",
@@ -83835,6 +83907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70625,
+      "num": 70625,
+      "word": "北京大风",
+      "onboard_time": 1753718121,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70510,
       "num": 70510,
       "word": "京东首家自营外卖门店开业",
@@ -84225,6 +84305,14 @@
       "onboard_time": 1751686642,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68427,
+      "num": 68427,
+      "word": "任权回应薛小婉整容",
+      "onboard_time": 1753720460,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 68425,
@@ -84803,6 +84891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65158,
+      "num": 300952,
+      "word": "王楚钦乒超第二阶段男单五连胜",
+      "onboard_time": 1753717163,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65146,
       "num": 65146,
       "word": "日本一男子被前同事刺伤喉咙身亡",
@@ -85187,14 +85283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62893,
-      "num": 300952,
-      "word": "王楚钦乒超第二阶段男单五连胜",
-      "onboard_time": 1753717163,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62889,
       "num": 160136,
       "word": "山东多所高校将启动安装空调",
@@ -85465,6 +85553,14 @@
       "onboard_time": 1753430903,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61803,
+      "num": 72308,
+      "word": "广东地毯式消杀花斑蚊",
+      "onboard_time": 1753720520,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61798,
@@ -86641,6 +86737,14 @@
       "onboard_time": 1751354242,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56009,
+      "num": 198249,
+      "word": "直击北京暴雨救援",
+      "onboard_time": 1753718121,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55991,

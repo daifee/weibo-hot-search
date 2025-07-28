@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753717596273,
+  "endTime": 1753720627729,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -243,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1164370,
+      "num": 320322,
+      "word": "全红婵近照",
+      "onboard_time": 1753717042,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1158938,
       "num": 1158938,
       "word": "金价",
@@ -329,6 +337,14 @@
       "onboard_time": 1753604421,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 990458,
+      "num": 990458,
+      "word": "北京密云暴雨致洪灾",
+      "onboard_time": 1753717762,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 978510,
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382862,
+      "num": 210900,
+      "word": "杨采钰是生了吗",
+      "onboard_time": 1753719261,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381769,
       "num": 381769,
       "word": "冯建宇 曼谷",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1753631123,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363257,
+      "num": 363257,
+      "word": "居家办公",
+      "onboard_time": 1753717583,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362367,
@@ -1539,12 +1571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320322,
-      "num": 320322,
-      "word": "全红婵近照",
-      "onboard_time": 1753717042,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 321023,
+      "num": 321023,
+      "word": "金世佳演技",
+      "onboard_time": 1753716444,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 317808,
@@ -1657,14 +1689,6 @@
       "onboard_time": 1753588522,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299421,
-      "num": 299421,
-      "word": "金世佳演技",
-      "onboard_time": 1753716444,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 297091,
@@ -2283,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213780,
+      "num": 213780,
+      "word": "柬泰两国领导人分别感谢中国",
+      "onboard_time": 1753717881,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213248,
       "num": 213248,
       "word": "尖叫瓶盖 不密封",
@@ -2369,6 +2401,14 @@
       "onboard_time": 1753626266,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208310,
+      "num": 208310,
+      "word": "女儿患病离世儿子又患同种病进ICU",
+      "onboard_time": 1753717881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208261,
@@ -2697,6 +2737,14 @@
       "onboard_time": 1753699642,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191214,
+      "num": 191214,
+      "word": "广东人陷入高温暴雨循环",
+      "onboard_time": 1753716683,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190533,
@@ -4675,6 +4723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133530,
+      "num": 133530,
+      "word": "增加调拨4.3万件物资支持京冀救灾",
+      "onboard_time": 1753718543,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133506,
       "num": 133506,
       "word": "张铁",
@@ -5859,14 +5915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101105,
-      "num": 101105,
-      "word": "广东人陷入高温暴雨循环",
-      "onboard_time": 1753716683,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101063,
       "num": 317507,
       "word": "央视揭互联网保险藏暗礁",
@@ -6019,12 +6067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94724,
+      "num": 94724,
+      "word": "麻六记酸辣粉发霉背后",
+      "onboard_time": 1753718782,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94452,
       "num": 94452,
       "word": "工作留痕",
       "onboard_time": 1753553238,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94411,
+      "num": 94411,
+      "word": "北京市民称多辆车被洪水冲走",
+      "onboard_time": 1753719322,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93155,
@@ -6203,6 +6267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81684,
+      "num": 81684,
+      "word": "看得出张雅钦是真公主",
+      "onboard_time": 1753718903,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81599,
       "num": 81599,
       "word": "其实大家都在偷偷攒钱",
@@ -6347,6 +6419,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 70625,
+      "num": 70625,
+      "word": "北京大风",
+      "onboard_time": 1753718121,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70441,
       "num": 165258,
       "word": "口腔溃疡长期不愈小心癌症",
@@ -6385,6 +6465,14 @@
       "onboard_time": 1753688302,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68427,
+      "num": 68427,
+      "word": "任权回应薛小婉整容",
+      "onboard_time": 1753720460,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 68170,
@@ -6435,6 +6523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65158,
+      "num": 300952,
+      "word": "王楚钦乒超第二阶段男单五连胜",
+      "onboard_time": 1753717163,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64334,
       "num": 64334,
       "word": "69岁的健身女孩什么样",
@@ -6459,12 +6555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62893,
-      "num": 300952,
-      "word": "王楚钦乒超第二阶段男单五连胜",
-      "onboard_time": 1753717163,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 61803,
+      "num": 72308,
+      "word": "广东地毯式消杀花斑蚊",
+      "onboard_time": 1753720520,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61651,
@@ -6528,6 +6624,14 @@
       "word": "28岁销售过度情绪劳动患中度抑郁",
       "onboard_time": 1753678943,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56009,
+      "num": 198249,
+      "word": "直击北京暴雨救援",
+      "onboard_time": 1753718121,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
