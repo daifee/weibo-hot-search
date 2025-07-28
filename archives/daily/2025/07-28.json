@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753675875982,
+  "endTime": 1753677050900,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1754175,
-      "num": 434615,
+      "num": 465981,
       "word": "Jennie打码朴彩英",
       "onboard_time": 1753670601,
       "rank": 10,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 622715,
-      "num": 622715,
+      "raw_hot": 645966,
+      "num": 645966,
       "word": "心动的信号8",
       "onboard_time": 1753673783,
       "rank": 4,
@@ -131,8 +131,24 @@
       "category": "演出"
     },
     {
+      "raw_hot": 535087,
+      "num": 535087,
+      "word": "中国佛教协会发布公告",
+      "onboard_time": 1753674682,
+      "rank": 9,
+      "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 528117,
+      "num": 528117,
+      "word": "嵩山少林景区再发公告",
+      "onboard_time": 1753674682,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526181,
-      "num": 434254,
+      "num": 459106,
       "word": "王嘉尔晒全家福",
       "onboard_time": 1753671022,
       "rank": 12,
@@ -155,8 +171,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 461252,
-      "num": 461252,
+      "raw_hot": 471015,
+      "num": 471015,
       "word": "东方甄选主播离职后都咋样了",
       "onboard_time": 1753671621,
       "rank": 6,
@@ -172,11 +188,27 @@
     },
     {
       "raw_hot": 434842,
-      "num": 434842,
+      "num": 469007,
       "word": "开推团包场迪丽热巴利剑玫瑰",
       "onboard_time": 1753672223,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404672,
+      "num": 461656,
+      "word": "太平洋岛国图瓦卢计划举国移民",
+      "onboard_time": 1753670121,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 395167,
+      "num": 395167,
+      "word": "释永信涉嫌刑事犯罪",
+      "onboard_time": 1753618882,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378246,
@@ -185,14 +217,6 @@
       "onboard_time": 1753663463,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376206,
-      "num": 376206,
-      "word": "太平洋岛国图瓦卢计划举国移民",
-      "onboard_time": 1753670121,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 363762,
@@ -211,36 +235,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359523,
+      "num": 467611,
+      "word": "中国佛教协会对释永信戒牒予以注销",
+      "onboard_time": 1753675945,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 351399,
       "num": 257050,
       "word": "车银优寸头",
       "onboard_time": 1753621886,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349229,
-      "num": 434745,
-      "word": "中国佛教协会发布公告",
-      "onboard_time": 1753674682,
-      "rank": 9,
-      "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 346147,
-      "num": 346147,
-      "word": "嵩山少林景区再发公告",
-      "onboard_time": 1753674682,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343312,
-      "num": 343312,
-      "word": "释永信涉嫌刑事犯罪",
-      "onboard_time": 1753618882,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322758,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 317724,
-      "num": 264411,
+      "num": 276775,
       "word": "女子生气抓男友头发撞墙致其去世",
       "onboard_time": 1753659920,
       "rank": 20,
@@ -283,6 +291,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310978,
+      "num": 310978,
+      "word": "张艺凡自曝患甲沟炎",
+      "onboard_time": 1753676244,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307171,
+      "num": 388662,
+      "word": "迪丽热巴的代言包场利剑玫瑰了",
+      "onboard_time": 1753674744,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297091,
       "num": 322206,
       "word": "首席预报员分析北京本轮雨情",
@@ -297,6 +321,14 @@
       "onboard_time": 1753596023,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280684,
+      "num": 280684,
+      "word": "越吃越胖的素菜名单",
+      "onboard_time": 1753662683,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 280351,
@@ -323,27 +355,19 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 266323,
-      "num": 266323,
+      "raw_hot": 274456,
+      "num": 274456,
       "word": "盗墓笔记",
       "onboard_time": 1753669522,
       "rank": 27,
       "category": "剧集"
     },
     {
-      "raw_hot": 265776,
-      "num": 265776,
-      "word": "越吃越胖的素菜名单",
-      "onboard_time": 1753662683,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 258935,
-      "num": 348011,
-      "word": "迪丽热巴的代言包场利剑玫瑰了",
+      "raw_hot": 274315,
+      "num": 387536,
+      "word": "上一秒大婚下一秒大虐",
       "onboard_time": 1753674744,
-      "rank": 17,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -395,6 +419,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 232680,
+      "num": 272581,
+      "word": "拿下权志龙只需要一个小风扇",
+      "onboard_time": 1753675103,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232297,
       "num": 232297,
       "word": "李兰迪扫腿舞地是干净了",
@@ -409,6 +441,14 @@
       "onboard_time": 1753658599,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 225973,
+      "num": 271635,
+      "word": "龚俊王玉雯一分熟九分虎",
+      "onboard_time": 1753675885,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 223740,
@@ -433,22 +473,6 @@
       "onboard_time": 1753596623,
       "rank": 8,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 212215,
-      "num": 212215,
-      "word": "拿下权志龙只需要一个小风扇",
-      "onboard_time": 1753675103,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207257,
-      "num": 207257,
-      "word": "上一秒大婚下一秒大虐",
-      "onboard_time": 1753674744,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 205916,
@@ -483,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193887,
+      "num": 193887,
+      "word": "内娱歌手全来新说唱当嘉宾了",
+      "onboard_time": 1753675584,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191915,
       "num": 191915,
       "word": "柳智敏上海",
       "onboard_time": 1753627045,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190533,
+      "num": 190533,
+      "word": "但凡偏科一点都接不了这活",
+      "onboard_time": 1753675464,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 190372,
@@ -515,6 +555,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 184055,
+      "num": 184055,
+      "word": "同时给老公和爸妈养老是什么体验",
+      "onboard_time": 1753676785,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182960,
       "num": 182960,
       "word": "鸠摩智",
@@ -529,6 +577,14 @@
       "onboard_time": 1753670001,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177498,
+      "num": 177498,
+      "word": "何超仪老公再次病重",
+      "onboard_time": 1753675703,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 177304,
@@ -547,6 +603,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 173137,
+      "num": 173137,
+      "word": "演员吴静芝逝世",
+      "onboard_time": 1753676723,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166058,
       "num": 166058,
       "word": "央视曝光私域直播坑老骗局",
@@ -561,6 +625,14 @@
       "onboard_time": 1753620205,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161880,
+      "num": 161880,
+      "word": "林志玲西装裙比例",
+      "onboard_time": 1753676125,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 161668,
@@ -627,14 +699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154691,
-      "num": 154691,
-      "word": "但凡偏科一点都接不了这活",
-      "onboard_time": 1753675464,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153879,
       "num": 153879,
       "word": "余承东曝全新问界M7实车外观",
@@ -683,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148160,
-      "num": 148160,
-      "word": "内娱歌手全来新说唱当嘉宾了",
-      "onboard_time": 1753675584,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147697,
       "num": 147697,
       "word": "带着轻微饥饿感入睡能瘦吗",
@@ -705,6 +761,14 @@
       "onboard_time": 1753613061,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147023,
+      "num": 147023,
+      "word": "2024年个税汇算专项附加扣除近3000亿元",
+      "onboard_time": 1753675763,
+      "rank": 45,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 146114,
@@ -739,12 +803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137080,
-      "num": 137080,
-      "word": "2024年个税汇算专项附加扣除近3000亿元",
-      "onboard_time": 1753675763,
-      "rank": 45,
-      "category": "财经,民生新闻"
+      "raw_hot": 138070,
+      "num": 154977,
+      "word": "SHE三人合影",
+      "onboard_time": 1753675044,
+      "rank": 38,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 135147,
@@ -763,14 +827,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 134796,
-      "num": 134796,
-      "word": "何超仪老公再次病重",
-      "onboard_time": 1753675703,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133768,
       "num": 133768,
       "word": "张本美和女单冠军",
@@ -785,6 +841,14 @@
       "onboard_time": 1753631305,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128739,
+      "num": 173582,
+      "word": "张元英的生图已经进化成这样了吗",
+      "onboard_time": 1753676365,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 128276,
@@ -817,6 +881,14 @@
       "onboard_time": 1753620326,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120411,
+      "num": 270656,
+      "word": "后备箱的西瓜终于掉不出来了",
+      "onboard_time": 1753676185,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 118509,
@@ -875,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112736,
+      "num": 286188,
+      "word": "上汽奥迪A5L首发测评",
+      "onboard_time": 1753672462,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112006,
       "num": 112006,
       "word": "10号台风白鹿即将生成或直奔江浙沪",
@@ -931,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101176,
-      "num": 286188,
-      "word": "上汽奥迪A5L首发测评",
-      "onboard_time": 1753672462,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 99981,
       "num": 99981,
       "word": "陈都灵包场杨洋凡人修仙传",
@@ -993,14 +1065,6 @@
       "onboard_time": 1753667422,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 86932,
-      "num": 154977,
-      "word": "SHE三人合影",
-      "onboard_time": 1753675044,
-      "rank": 38,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 86796,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1753608322,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70104,
+      "num": 329423,
+      "word": "吴磊大型扛饿充能现场",
+      "onboard_time": 1753676185,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 67350,
