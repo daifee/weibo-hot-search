@@ -1,0 +1,410 @@
+{
+  "runTime": 1753707511522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1127626,
+        "num": 1180420,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753493,
+        "num": 753493,
+        "word": "育儿补贴",
+        "onboard_time": 1753694185,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45561,
+        "num": 702419,
+        "word": "网警提醒快乐过暑假安全不放假",
+        "onboard_time": 1753706664,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1240651,
+        "num": 691252,
+        "word": "李乃文下楼",
+        "onboard_time": 1753703064,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661041,
+        "num": 661041,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753703603,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492301,
+        "num": 492301,
+        "word": "中方敦促乌方立即纠正错误",
+        "onboard_time": 1753702523,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584432,
+        "num": 484149,
+        "word": "利剑玫瑰 开头好刺激",
+        "onboard_time": 1753705104,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469582,
+        "num": 469582,
+        "word": "育儿补贴制度实施方案发布",
+        "onboard_time": 1753694122,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517949,
+        "num": 401142,
+        "word": "利剑玫瑰热度",
+        "onboard_time": 1753705824,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315254,
+        "num": 315254,
+        "word": "商场女厕所隔间被指安装双面镜",
+        "onboard_time": 1753705405,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656321,
+        "num": 314888,
+        "word": "张雪峰称赚多少钱又怎样",
+        "onboard_time": 1753702284,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 653702,
+        "num": 314643,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 470241,
+        "num": 314047,
+        "word": "魏如萱承认恋情",
+        "onboard_time": 1753701144,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456874,
+        "num": 313457,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1753706062,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338246,
+        "num": 313170,
+        "word": "宋亚轩扫腿舞",
+        "onboard_time": 1753704803,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132224,
+        "num": 312287,
+        "word": "外交部回应泽连斯基批准对华制裁",
+        "onboard_time": 1753706484,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337585,
+        "num": 312172,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311662,
+        "num": 311662,
+        "word": "覃海洋58秒23",
+        "onboard_time": 1753701801,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307973,
+        "num": 307973,
+        "word": "北京全市景区关闭",
+        "onboard_time": 1753699462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155245,
+        "num": 257518,
+        "word": "思考在当下还重要吗",
+        "onboard_time": 1753704743,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1647262,
+        "num": 254936,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 20,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 462720,
+        "num": 252806,
+        "word": "杨洋迪丽热巴 荣耀夫妇对打",
+        "onboard_time": 1753699043,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250069,
+        "num": 250069,
+        "word": "王楚钦周启豪2比3薛飞向鹏",
+        "onboard_time": 1753702584,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214394,
+        "num": 214394,
+        "word": "网友曝山姆多款产品偷偷减重",
+        "onboard_time": 1753702764,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208217,
+        "num": 208217,
+        "word": "刘诗诗染红发",
+        "onboard_time": 1753698383,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207894,
+        "num": 207894,
+        "word": "释永信春节前后已被限制出境",
+        "onboard_time": 1753702104,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197425,
+        "num": 197425,
+        "word": "杨洋赵晴凡人修仙传cp感",
+        "onboard_time": 1753706185,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185361,
+        "num": 185361,
+        "word": "12岁于子迪200混第四",
+        "onboard_time": 1753707145,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163920,
+        "num": 185347,
+        "word": "王牌对王牌",
+        "onboard_time": 1753702464,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160369,
+        "num": 185341,
+        "word": "在挪威和花少隔桌吃饭",
+        "onboard_time": 1753706783,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218312,
+        "num": 185338,
+        "word": "原来月经是我们的健康显示器",
+        "onboard_time": 1753705405,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185336,
+        "num": 185336,
+        "word": "陈芋汐掌敏洁双人10米台金牌",
+        "onboard_time": 1753702643,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171279,
+        "num": 171279,
+        "word": "重庆姐弟坠亡房屋法拍再被撤回",
+        "onboard_time": 1753702943,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165661,
+        "num": 165661,
+        "word": "女子涉嫌杀害前夫潜逃26年再婚生子",
+        "onboard_time": 1753704743,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163319,
+        "num": 163319,
+        "word": "北京地铁",
+        "onboard_time": 1753704983,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90839,
+        "num": 160904,
+        "word": "李嘉诚旗下长和港口交易有重大调整",
+        "onboard_time": 1753700423,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160385,
+        "num": 160385,
+        "word": "育儿补贴如何申领和发放",
+        "onboard_time": 1753698743,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154481,
+        "num": 154481,
+        "word": "北京请市民非必要不外出",
+        "onboard_time": 1753694783,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145966,
+        "num": 145966,
+        "word": "TES对战JDG",
+        "onboard_time": 1753706963,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144669,
+        "num": 144669,
+        "word": "南京照相馆",
+        "onboard_time": 1753703723,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142165,
+        "num": 142165,
+        "word": "酷云",
+        "onboard_time": 1753707264,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137549,
+        "num": 137549,
+        "word": "麻六记别躲白家阿宽后装无辜",
+        "onboard_time": 1753698682,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135102,
+        "num": 135102,
+        "word": "易烊千玺看演出被拍到了",
+        "onboard_time": 1753706905,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132627,
+        "num": 132627,
+        "word": "徐嘉余无缘100仰决赛",
+        "onboard_time": 1753707324,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132106,
+        "num": 132106,
+        "word": "2岁女童患心肌炎去世家人以为是感冒",
+        "onboard_time": 1753702643,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131370,
+        "num": 131370,
+        "word": "6个月工资一万三被索赔两万多",
+        "onboard_time": 1753696882,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129665,
+        "num": 129665,
+        "word": "星穹铁道3.5版本前瞻",
+        "onboard_time": 1753706004,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127624,
+        "num": 127624,
+        "word": "人贩子三分钟毁掉一个家庭",
+        "onboard_time": 1753707203,
+        "rank": 47,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 124827,
+        "num": 124827,
+        "word": "TF家族成员每天睡10个小时",
+        "onboard_time": 1753700064,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121129,
+        "num": 121129,
+        "word": "谍报群演分享和肖战拍戏经历",
+        "onboard_time": 1753707384,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济乘风破浪稳中向好#"
+    }
+  }
+}
