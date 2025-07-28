@@ -1,0 +1,410 @@
+{
+  "runTime": 1753685929771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289614,
+        "num": 1289614,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 801892,
+        "num": 801892,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1753679483,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55540,
+        "num": 726565,
+        "word": "国家安全部披露间谍常用套路",
+        "onboard_time": 1753661062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879006,
+        "num": 720162,
+        "word": "短短8集吻戏床戏都安排上了",
+        "onboard_time": 1753682782,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702011,
+        "num": 702011,
+        "word": "19公斤黄金被冲走当地号召拾金不昧",
+        "onboard_time": 1753681882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623431,
+        "num": 623431,
+        "word": "中国佛教协会对释永信戒牒予以注销",
+        "onboard_time": 1753675945,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 687530,
+        "num": 582519,
+        "word": "董璇说领证让她和张维伊都踏实了",
+        "onboard_time": 1753682484,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452078,
+        "num": 452078,
+        "word": "全球首个计划整体迁移的国家",
+        "onboard_time": 1753671262,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 428108,
+        "num": 428108,
+        "word": "田栩宁没有法令纹的原因找到了",
+        "onboard_time": 1753681823,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410653,
+        "num": 410653,
+        "word": "北京暴雨",
+        "onboard_time": 1753682723,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689639,
+        "num": 410111,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684931,
+        "num": 409239,
+        "word": "李晟 女人不能这么坐吗",
+        "onboard_time": 1753678046,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594942,
+        "num": 408548,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402081,
+        "num": 402081,
+        "word": "大冰坐飞机只买一个座吗",
+        "onboard_time": 1753682484,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376100,
+        "num": 376100,
+        "word": "小S小女儿晒与闺蜜度假照",
+        "onboard_time": 1753682782,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309804,
+        "num": 309804,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268895,
+        "num": 268895,
+        "word": "朝雪录热度超了风吹半夏宁安如梦",
+        "onboard_time": 1753685125,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231283,
+        "num": 231283,
+        "word": "嵩山少林景区再发公告",
+        "onboard_time": 1753674682,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220530,
+        "num": 220530,
+        "word": "太平洋岛国图瓦卢计划举国移民",
+        "onboard_time": 1753670121,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219970,
+        "num": 219970,
+        "word": "迪丽热巴红裙复古elegance",
+        "onboard_time": 1753685483,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587589,
+        "num": 217572,
+        "word": "金价",
+        "onboard_time": 1753672344,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304914,
+        "num": 213036,
+        "word": "血瘀是大病的开始",
+        "onboard_time": 1753678763,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204354,
+        "num": 204354,
+        "word": "邓亚萍哭了",
+        "onboard_time": 1753684583,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202570,
+        "num": 202570,
+        "word": "体重仅35斤女生发视频求助",
+        "onboard_time": 1753684523,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198929,
+        "num": 198929,
+        "word": "金晨出场就是师祖级别",
+        "onboard_time": 1753682543,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192389,
+        "num": 192389,
+        "word": "微博文化交流之夜 泰国",
+        "onboard_time": 1753684702,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189558,
+        "num": 189558,
+        "word": "释永信曾说和尚婚恋犯根本大戒",
+        "onboard_time": 1753684702,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186511,
+        "num": 186511,
+        "word": "张元英的生图已经进化成这样了吗",
+        "onboard_time": 1753676365,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181994,
+        "num": 181994,
+        "word": "汪峰 三个女儿",
+        "onboard_time": 1753683084,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176704,
+        "num": 176704,
+        "word": "乒超联赛卫冕冠军演逆转",
+        "onboard_time": 1753684523,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176511,
+        "num": 176511,
+        "word": "顾客就餐发现餐桌上一堆蛆在爬",
+        "onboard_time": 1753680202,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171329,
+        "num": 171329,
+        "word": "新郎爸爸患癌新娘家主动退彩礼",
+        "onboard_time": 1753685244,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169086,
+        "num": 169086,
+        "word": "无畏契约",
+        "onboard_time": 1753678285,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166844,
+        "num": 166844,
+        "word": "中国佛教协会发布公告",
+        "onboard_time": 1753674682,
+        "rank": 33,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 165571,
+        "num": 165571,
+        "word": "杨力维杨舒予女孩的样子",
+        "onboard_time": 1753683862,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161331,
+        "num": 161331,
+        "word": "乒超联赛上海地产遗憾落败",
+        "onboard_time": 1753685363,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157610,
+        "num": 157610,
+        "word": "朝雪录最忙的人是邓超",
+        "onboard_time": 1753683986,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36232,
+        "num": 152859,
+        "word": "我国出现今年大江大河首次编号洪水",
+        "onboard_time": 1753685723,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "杨洋居然还留着那个大绿瓶",
+        "onboard_time": 1753680743,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105141,
+        "num": 149159,
+        "word": "高铁儿童票",
+        "onboard_time": 1753685185,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145903,
+        "num": 145903,
+        "word": "许嵩哽咽说对不起",
+        "onboard_time": 1753678404,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126794,
+        "num": 126794,
+        "word": "女子称误将碘伏当糖浆喂孩子",
+        "onboard_time": 1753681703,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124336,
+        "num": 124336,
+        "word": "没抢到千玺门票的我被哄好了",
+        "onboard_time": 1753684343,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124058,
+        "num": 124058,
+        "word": "心动的信号8",
+        "onboard_time": 1753673783,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120510,
+        "num": 120510,
+        "word": "赵子豪11比0",
+        "onboard_time": 1753682183,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112972,
+        "num": 112972,
+        "word": "年收入前10%群体缴纳个税占比约9成",
+        "onboard_time": 1753681761,
+        "rank": 45,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 106773,
+        "num": 106773,
+        "word": "易烊千玺演唱会二开",
+        "onboard_time": 1753679723,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105454,
+        "num": 105454,
+        "word": "北京强降雨为何没完没了",
+        "onboard_time": 1753684104,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105313,
+        "num": 105313,
+        "word": "田曦薇一秒入戏",
+        "onboard_time": 1753683563,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 104100,
+        "word": "肯德基 光与夜之恋",
+        "onboard_time": 1753679423,
+        "rank": 49,
+        "category": "美食,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席生动喻中欧#"
+    }
+  }
+}
