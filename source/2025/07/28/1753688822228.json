@@ -1,0 +1,410 @@
+{
+  "runTime": 1753688822228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048349,
+        "num": 1167735,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1014855,
+        "num": 1014855,
+        "word": "体重仅35斤女生发视频求助",
+        "onboard_time": 1753684523,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57690,
+        "num": 821853,
+        "word": "国家安全部披露间谍常用套路",
+        "onboard_time": 1753661062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787208,
+        "num": 787208,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 782912,
+        "num": 782912,
+        "word": "北京暴雨",
+        "onboard_time": 1753682723,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672199,
+        "num": 672199,
+        "word": "高铁儿童票",
+        "onboard_time": 1753685185,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594601,
+        "num": 594601,
+        "word": "董璇说领证让她和张维伊都踏实了",
+        "onboard_time": 1753682484,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579091,
+        "num": 579091,
+        "word": "短短8集吻戏床戏都安排上了",
+        "onboard_time": 1753682782,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533829,
+        "num": 533829,
+        "word": "朝雪录热度超了风吹半夏宁安如梦",
+        "onboard_time": 1753685125,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469289,
+        "num": 469289,
+        "word": "泰首都枪击事件已致4人死亡",
+        "onboard_time": 1753687522,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 673362,
+        "num": 464467,
+        "word": "boss直聘通报王某香简历事件",
+        "onboard_time": 1753687283,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575440,
+        "num": 463464,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557424,
+        "num": 462754,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459059,
+        "num": 459059,
+        "word": "李晟 女人不能这么坐吗",
+        "onboard_time": 1753678046,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405340,
+        "num": 405340,
+        "word": "男子冒充女性求职者造黄谣被刑拘",
+        "onboard_time": 1753687223,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385866,
+        "num": 385866,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1753679483,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356883,
+        "num": 356883,
+        "word": "中国佛教协会对释永信戒牒予以注销",
+        "onboard_time": 1753675945,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 346654,
+        "num": 346654,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296068,
+        "num": 330122,
+        "word": "大冰坐飞机只买一个座吗",
+        "onboard_time": 1753682484,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30361,
+        "num": 318293,
+        "word": "罗大美家属诉求判3被告死刑",
+        "onboard_time": 1753687943,
+        "rank": 19,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 415149,
+        "num": 316843,
+        "word": "金价",
+        "onboard_time": 1753672344,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314015,
+        "num": 314015,
+        "word": "新郎爸爸患癌新娘家主动退彩礼",
+        "onboard_time": 1753685244,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310265,
+        "num": 310265,
+        "word": "主播查补税款30多亿元",
+        "onboard_time": 1753687343,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292333,
+        "num": 292333,
+        "word": "小S小女儿晒与闺蜜度假照",
+        "onboard_time": 1753682782,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279029,
+        "num": 279029,
+        "word": "田栩宁没有法令纹的原因找到了",
+        "onboard_time": 1753681823,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263424,
+        "num": 263424,
+        "word": "血瘀是大病的开始",
+        "onboard_time": 1753678763,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246809,
+        "num": 246809,
+        "word": "吴京吴所谓完全是复制粘贴",
+        "onboard_time": 1753687043,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222122,
+        "num": 222122,
+        "word": "张予曦初中时被男同学揍过",
+        "onboard_time": 1753686022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193070,
+        "num": 217327,
+        "word": "刘宇宁这8秒长的像一辈子",
+        "onboard_time": 1753688185,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288794,
+        "num": 216911,
+        "word": "喜茶 CHIIKAWA",
+        "onboard_time": 1753686263,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216277,
+        "num": 216277,
+        "word": "真道士一个月能赚多少钱",
+        "onboard_time": 1753687223,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197755,
+        "num": 197755,
+        "word": "全球首个计划整体迁移的国家",
+        "onboard_time": 1753671262,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177299,
+        "num": 177299,
+        "word": "释永信曾说和尚婚恋犯根本大戒",
+        "onboard_time": 1753684702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173190,
+        "num": 173190,
+        "word": "迪丽热巴红裙复古elegance",
+        "onboard_time": 1753685483,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168194,
+        "num": 168194,
+        "word": "体态比减脂更重要",
+        "onboard_time": 1753686202,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 167660,
+        "num": 167660,
+        "word": "中国佛教协会发布公告",
+        "onboard_time": 1753674682,
+        "rank": 35,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 160537,
+        "num": 160537,
+        "word": "赵四扮演者儿子被曝家暴",
+        "onboard_time": 1753686682,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155020,
+        "num": 155020,
+        "word": "交警化身安全超人提醒交通安全",
+        "onboard_time": 1753687402,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68831,
+        "num": 149882,
+        "word": "女孩ICU里收到录取通知书后苏醒",
+        "onboard_time": 1753688302,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148323,
+        "num": 148323,
+        "word": "汪峰 三个女儿",
+        "onboard_time": 1753683084,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134878,
+        "num": 134878,
+        "word": "无畏契约",
+        "onboard_time": 1753678285,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132353,
+        "num": 132353,
+        "word": "乒超联赛上海地产遗憾落败",
+        "onboard_time": 1753685363,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129374,
+        "num": 129374,
+        "word": "嵩山少林景区再发公告",
+        "onboard_time": 1753674682,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128983,
+        "num": 128983,
+        "word": "点外卖和不点外卖的都沉默了",
+        "onboard_time": 1753688663,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125772,
+        "num": 125772,
+        "word": "原来大家都是这样找到高薪工作的",
+        "onboard_time": 1753688364,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 123910,
+        "num": 123910,
+        "word": "朝雪录最忙的人是邓超",
+        "onboard_time": 1753683986,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122972,
+        "num": 122972,
+        "word": "最能吃苦的那一代人又回来了",
+        "onboard_time": 1753688544,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121786,
+        "num": 121786,
+        "word": "乒超联赛卫冕冠军演逆转",
+        "onboard_time": 1753684523,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120446,
+        "num": 120446,
+        "word": "王玉雯唱我和你哭了",
+        "onboard_time": 1753687943,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118330,
+        "num": 118330,
+        "word": "杨幂说自己变得不那么好说话",
+        "onboard_time": 1753688544,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席生动喻中欧#"
+    }
+  }
+}
