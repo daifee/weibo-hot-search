@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753688822228,
+  "endTime": 1753691972596,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -9,6 +9,14 @@
       "onboard_time": 1753618643,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2579280,
+      "num": 2579280,
+      "word": "罗大美遗体已在太平间待了752天",
+      "onboard_time": 1753687883,
+      "rank": 34,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1942099,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908818,
+      "num": 465647,
+      "word": "boss直聘通报王某香简历事件",
+      "onboard_time": 1753687283,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 879006,
       "num": 814772,
       "word": "短短8集吻戏床戏都安排上了",
@@ -139,12 +155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 787208,
-      "num": 787208,
-      "word": "罗大美遗体已在太平间待了752天",
-      "onboard_time": 1753687883,
-      "rank": 34,
-      "category": "民生新闻,网红"
+      "raw_hot": 844163,
+      "num": 461239,
+      "word": "娜扎瘦成纸片人了",
+      "onboard_time": 1753690283,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 792576,
+      "num": 656909,
+      "word": "张予曦初中时被男同学揍过",
+      "onboard_time": 1753686022,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 782912,
@@ -187,20 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 673362,
-      "num": 464467,
-      "word": "boss直聘通报王某香简历事件",
-      "onboard_time": 1753687283,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 672199,
       "num": 672199,
       "word": "高铁儿童票",
       "onboard_time": 1753685185,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 654786,
+      "num": 654786,
+      "word": "曼谷市场枪击事件已致6人死亡",
+      "onboard_time": 1753689444,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 645966,
@@ -288,6 +312,14 @@
       "word": "大雨还要下多久",
       "onboard_time": 1753665620,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473764,
+      "num": 473764,
+      "word": "主播查补税款30多亿元",
+      "onboard_time": 1753687343,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320455,
+      "num": 320455,
+      "word": "官方查处一批明星偷逃税案件",
+      "onboard_time": 1753691004,
+      "rank": 18,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 320424,
       "num": 320424,
       "word": "释永信育有私生子",
@@ -489,14 +529,6 @@
       "onboard_time": 1753676244,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310265,
-      "num": 310265,
-      "word": "主播查补税款30多亿元",
-      "onboard_time": 1753687343,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297091,
@@ -571,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261368,
+      "num": 261368,
+      "word": "点外卖和不点外卖的都沉默了",
+      "onboard_time": 1753688663,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259347,
       "num": 219699,
       "word": "看电梯按键就知道上班怨气有多大",
@@ -587,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253797,
+      "num": 253797,
+      "word": "成毅朋友圈个性签名",
+      "onboard_time": 1753689322,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252770,
       "num": 252770,
       "word": "寺内外一切合作都由释永信拍板",
@@ -601,6 +649,14 @@
       "onboard_time": 1753679423,
       "rank": 22,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 251626,
+      "num": 251626,
+      "word": "罗大美遇害被告酒后自曝作案细节",
+      "onboard_time": 1753689742,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251404,
@@ -691,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222122,
-      "num": 253410,
-      "word": "张予曦初中时被男同学揍过",
-      "onboard_time": 1753686022,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219970,
       "num": 219970,
       "word": "迪丽热巴红裙复古elegance",
@@ -745,6 +793,14 @@
       "onboard_time": 1753596623,
       "rank": 8,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 209705,
+      "num": 209705,
+      "word": "下班后的工作是一场服从性测试",
+      "onboard_time": 1753691185,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 208261,
@@ -795,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202765,
+      "num": 202765,
+      "word": "尖叫瓶盖 不密封",
+      "onboard_time": 1753690043,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "汪顺回应为什么报100仰",
@@ -832,6 +896,14 @@
       "word": "杨洋确实就是硬帅",
       "onboard_time": 1753666162,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194540,
+      "num": 194540,
+      "word": "浪漫满屋 对抗路情侣",
+      "onboard_time": 1753689204,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -923,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185393,
+      "num": 185393,
+      "word": "黄金",
+      "onboard_time": 1753691542,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185172,
       "num": 185172,
       "word": "一条视频看懂苏超为啥火",
@@ -968,6 +1048,14 @@
       "word": "汪峰 三个女儿",
       "onboard_time": 1753683084,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180712,
+      "num": 180712,
+      "word": "怪不得沙溢能瘦下来呢",
+      "onboard_time": 1753689384,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1043,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170869,
+      "num": 181490,
+      "word": "路人视角的迅猛龙特蕾莎",
+      "onboard_time": 1753689862,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 170554,
       "num": 170554,
       "word": "世界肝炎日",
@@ -1108,7 +1204,7 @@
     },
     {
       "raw_hot": 158825,
-      "num": 158825,
+      "num": 469212,
       "word": "交警化身安全超人提醒交通安全",
       "onboard_time": 1753687402,
       "rank": 38,
@@ -1153,6 +1249,14 @@
       "onboard_time": 1753629624,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157773,
+      "num": 157773,
+      "word": "第一个发明劳动派遣的就是这样想的",
+      "onboard_time": 1753691603,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 157610,
@@ -1363,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139007,
+      "num": 139007,
+      "word": "迪丽热巴手电筒live图",
+      "onboard_time": 1753690763,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138070,
       "num": 154977,
       "word": "SHE三人合影",
@@ -1435,12 +1547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128983,
-      "num": 128983,
-      "word": "点外卖和不点外卖的都沉默了",
-      "onboard_time": 1753688663,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 129481,
+      "num": 129481,
+      "word": "在长久的婚姻中爱并不是秘诀",
+      "onboard_time": 1753691723,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 128276,
@@ -1505,6 +1617,14 @@
       "onboard_time": 1753620326,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122307,
+      "num": 122307,
+      "word": "原来上班真的有这么多预制人",
+      "onboard_time": 1753691542,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 118509,
@@ -1665,6 +1785,14 @@
       "onboard_time": 1753664242,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98126,
+      "num": 307030,
+      "word": "那些拼多多包邮送来的神器",
+      "onboard_time": 1753688842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96364,
@@ -2051,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16918,
+      "num": 158549,
+      "word": "宋佳哪个单位的",
+      "onboard_time": 1753691484,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15439,
       "num": 162557,
       "word": "德国一列火车脱轨已致3人死亡",
@@ -2065,6 +2201,14 @@
       "onboard_time": 1753644974,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13729,
+      "num": 160490,
+      "word": "萧剑柳红时隔28年合体",
+      "onboard_time": 1753691902,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 11816,

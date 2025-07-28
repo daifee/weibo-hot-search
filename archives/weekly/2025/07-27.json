@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753688822228,
+  "endTime": 1753691972596,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -17,6 +17,14 @@
       "onboard_time": 1753618822,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2579280,
+      "num": 2579280,
+      "word": "罗大美遗体已在太平间待了752天",
+      "onboard_time": 1753687883,
+      "rank": 34,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 2420501,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908818,
+      "num": 465647,
+      "word": "boss直聘通报王某香简历事件",
+      "onboard_time": 1753687283,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 905641,
       "num": 813282,
       "word": "丁程鑫脖子上有唇印",
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844163,
+      "num": 461239,
+      "word": "娜扎瘦成纸片人了",
+      "onboard_time": 1753690283,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 817579,
       "num": 817579,
       "word": "多所高校宣布延长研究生学制",
@@ -339,20 +363,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792576,
+      "num": 656909,
+      "word": "张予曦初中时被男同学揍过",
+      "onboard_time": 1753686022,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791406,
       "num": 705906,
       "word": "杨洋演技",
       "onboard_time": 1753593744,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 787208,
-      "num": 787208,
-      "word": "罗大美遗体已在太平间待了752天",
-      "onboard_time": 1753687883,
-      "rank": 34,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 783944,
@@ -491,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 673362,
-      "num": 464467,
-      "word": "boss直聘通报王某香简历事件",
-      "onboard_time": 1753687283,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 672269,
       "num": 672269,
       "word": "释永信涉嫌刑事犯罪",
@@ -529,6 +545,14 @@
       "onboard_time": 1753610302,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 654786,
+      "num": 654786,
+      "word": "曼谷市场枪击事件已致6人死亡",
+      "onboard_time": 1753689444,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 645966,
@@ -785,6 +809,14 @@
       "onboard_time": 1753603043,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473764,
+      "num": 473764,
+      "word": "主播查补税款30多亿元",
+      "onboard_time": 1753687343,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472186,
@@ -1187,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320455,
+      "num": 320455,
+      "word": "官方查处一批明星偷逃税案件",
+      "onboard_time": 1753691004,
+      "rank": 18,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 317808,
       "num": 317808,
       "word": "最怕就是工作人员比艺人还大咖",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1753676244,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310265,
-      "num": 310265,
-      "word": "主播查补税款30多亿元",
-      "onboard_time": 1753687343,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309958,
@@ -1467,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261368,
+      "num": 261368,
+      "word": "点外卖和不点外卖的都沉默了",
+      "onboard_time": 1753688663,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "白鹿为赵晴新剧做宣传",
@@ -1507,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253797,
+      "num": 253797,
+      "word": "成毅朋友圈个性签名",
+      "onboard_time": 1753689322,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252770,
       "num": 342849,
       "word": "寺内外一切合作都由释永信拍板",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1753679423,
       "rank": 22,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 251626,
+      "num": 251626,
+      "word": "罗大美遇害被告酒后自曝作案细节",
+      "onboard_time": 1753689742,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251404,
@@ -1707,14 +1763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222122,
-      "num": 253410,
-      "word": "张予曦初中时被男同学揍过",
-      "onboard_time": 1753686022,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221601,
       "num": 235796,
       "word": "医学生机舱救人被网友质疑风险极高",
@@ -1827,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209705,
+      "num": 209705,
+      "word": "下班后的工作是一场服从性测试",
+      "onboard_time": 1753691185,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209549,
       "num": 367670,
       "word": "释永信曾被举报向弟子索要供养钱",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1753588462,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202765,
+      "num": 202765,
+      "word": "尖叫瓶盖 不密封",
+      "onboard_time": 1753690043,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201495,
@@ -2033,6 +2097,14 @@
       "onboard_time": 1753612821,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194540,
+      "num": 194540,
+      "word": "浪漫满屋 对抗路情侣",
+      "onboard_time": 1753689204,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 194512,
@@ -2195,6 +2267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185393,
+      "num": 185393,
+      "word": "黄金",
+      "onboard_time": 1753691542,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185172,
       "num": 185172,
       "word": "一条视频看懂苏超为啥火",
@@ -2289,6 +2369,14 @@
       "onboard_time": 1753591161,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180712,
+      "num": 180712,
+      "word": "怪不得沙溢能瘦下来呢",
+      "onboard_time": 1753689384,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 180536,
@@ -2529,6 +2617,14 @@
       "onboard_time": 1753589601,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170869,
+      "num": 181490,
+      "word": "路人视角的迅猛龙特蕾莎",
+      "onboard_time": 1753689862,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 170720,
@@ -2812,7 +2908,7 @@
     },
     {
       "raw_hot": 158825,
-      "num": 158825,
+      "num": 469212,
       "word": "交警化身安全超人提醒交通安全",
       "onboard_time": 1753687402,
       "rank": 38,
@@ -2849,6 +2945,14 @@
       "onboard_time": 1753678704,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157773,
+      "num": 157773,
+      "word": "第一个发明劳动派遣的就是这样想的",
+      "onboard_time": 1753691603,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 157728,
@@ -3475,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139007,
+      "num": 139007,
+      "word": "迪丽热巴手电筒live图",
+      "onboard_time": 1753690763,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138552,
       "num": 138552,
       "word": "刘宇宁承包了主题曲的半壁江山",
@@ -3787,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129481,
+      "num": 129481,
+      "word": "在长久的婚姻中爱并不是秘诀",
+      "onboard_time": 1753691723,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129418,
       "num": 129418,
       "word": "原来杨洋交作业前也会紧张",
@@ -3817,14 +3937,6 @@
       "onboard_time": 1753604963,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128983,
-      "num": 128983,
-      "word": "点外卖和不点外卖的都沉默了",
-      "onboard_time": 1753688663,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128971,
@@ -4033,6 +4145,14 @@
       "onboard_time": 1753546943,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122307,
+      "num": 122307,
+      "word": "原来上班真的有这么多预制人",
+      "onboard_time": 1753691542,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 122005,
@@ -4657,6 +4777,14 @@
       "onboard_time": 1753664242,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98126,
+      "num": 307030,
+      "word": "那些拼多多包邮送来的神器",
+      "onboard_time": 1753688842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97038,
@@ -5611,6 +5739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16918,
+      "num": 158549,
+      "word": "宋佳哪个单位的",
+      "onboard_time": 1753691484,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15754,
       "num": 27579,
       "word": "让我来唱",
@@ -5633,6 +5769,14 @@
       "onboard_time": 1753644974,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13729,
+      "num": 160490,
+      "word": "萧剑柳红时隔28年合体",
+      "onboard_time": 1753691902,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 11816,
