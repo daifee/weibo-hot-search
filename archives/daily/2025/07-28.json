@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753692859042,
+  "endTime": 1753695361392,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -11,12 +11,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2862524,
+      "num": 2862524,
+      "word": "3岁以下婴幼儿每年补贴3600元",
+      "onboard_time": 1753693764,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2698115,
       "num": 2698115,
       "word": "罗大美遗体已在太平间待了752天",
       "onboard_time": 1753687883,
       "rank": 34,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2410597,
+      "num": 2410597,
+      "word": "官方查处一批明星偷逃税案件",
+      "onboard_time": 1753691004,
+      "rank": 18,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1942099,
@@ -43,12 +59,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1367182,
-      "num": 1367182,
-      "word": "官方查处一批明星偷逃税案件",
-      "onboard_time": 1753691004,
-      "rank": 18,
-      "category": "民生新闻,艺人"
+      "raw_hot": 1291388,
+      "num": 1291388,
+      "word": "育儿补贴",
+      "onboard_time": 1753694185,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1289614,
@@ -123,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 961890,
+      "num": 961890,
+      "word": "育儿补贴制度实施方案发布",
+      "onboard_time": 1753694122,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 940972,
       "num": 288867,
       "word": "释延鲁",
@@ -193,6 +217,14 @@
       "onboard_time": 1753682723,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774216,
+      "num": 774216,
+      "word": "王丽坤竟然也演短剧了",
+      "onboard_time": 1753692987,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 709341,
@@ -275,12 +307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 572022,
+      "num": 572022,
+      "word": "徐璐回应不拍戏",
+      "onboard_time": 1753692563,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563578,
       "num": 563578,
       "word": "张元英的生图已经进化成这样了吗",
       "onboard_time": 1753676365,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541939,
+      "num": 396625,
+      "word": "点外卖和不点外卖的都沉默了",
+      "onboard_time": 1753688663,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537601,
@@ -467,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330565,
+      "num": 330565,
+      "word": "释永信所作所为性质十分恶劣",
+      "onboard_time": 1753692987,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322758,
       "num": 348492,
       "word": "于正说赵晴总拿自己黑料调侃自己",
@@ -547,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287815,
+      "num": 287815,
+      "word": "湖南一景区有女游客玩漂流被水冲走",
+      "onboard_time": 1753693283,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283691,
       "num": 283691,
       "word": "易烊千玺演唱会二开",
       "onboard_time": 1753679723,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 280998,
-      "num": 280998,
-      "word": "点外卖和不点外卖的都沉默了",
-      "onboard_time": 1753688663,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280684,
@@ -1027,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183661,
+      "num": 181263,
+      "word": "全世界都在羡慕迪丽热巴的粉丝",
+      "onboard_time": 1753695263,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182960,
       "num": 182960,
       "word": "鸠摩智",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1753670001,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181998,
+      "num": 181998,
+      "word": "王牌对王牌9他们来了",
+      "onboard_time": 1753693823,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 181994,
@@ -1059,12 +1131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179099,
-      "num": 196273,
-      "word": "徐璐回应不拍戏",
-      "onboard_time": 1753692563,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 179592,
+      "num": 179592,
+      "word": "深圳上百个环卫机器人上岗",
+      "onboard_time": 1753692202,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178478,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1753629446,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 166037,
+      "num": 233445,
+      "word": "北京请市民非必要不外出",
+      "onboard_time": 1753694783,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164592,
@@ -1499,6 +1579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136988,
+      "num": 136988,
+      "word": "一图看懂育儿补贴",
+      "onboard_time": 1753695263,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135173,
       "num": 140279,
       "word": "田曦薇一秒入戏",
@@ -1635,14 +1723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119361,
-      "num": 119361,
-      "word": "深圳上百个环卫机器人上岗",
-      "onboard_time": 1753692202,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118509,
       "num": 118509,
       "word": "杭州开市客门店已下架麻六记酸辣粉",
@@ -1673,6 +1753,14 @@
       "onboard_time": 1753619485,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115281,
+      "num": 115281,
+      "word": "一周赚了15亿韩元的男人",
+      "onboard_time": 1753694304,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114757,
@@ -1755,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106096,
+      "num": 177979,
+      "word": "方程豹为见义勇为车主送车",
+      "onboard_time": 1753694663,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105454,
       "num": 424673,
       "word": "北京强降雨为何没完没了",
@@ -1785,6 +1881,14 @@
       "onboard_time": 1753667661,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102453,
+      "num": 174612,
+      "word": "32天从153到137.7瘦了15.3斤",
+      "onboard_time": 1753693643,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 99981,
@@ -1963,12 +2067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68170,
+      "num": 114744,
+      "word": "胜宏科技总市值突破1500亿",
+      "onboard_time": 1753695322,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67350,
       "num": 106682,
       "word": "欧盟将对美增加6000亿美元投资",
       "onboard_time": 1753659260,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61983,
+      "num": 234254,
+      "word": "戒牒什么情况下会被注销",
+      "onboard_time": 1753695082,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59648,
@@ -2095,6 +2215,14 @@
       "num": 152859,
       "word": "我国出现今年大江大河首次编号洪水",
       "onboard_time": 1753685723,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35974,
+      "num": 175566,
+      "word": "少林寺控制15家企业",
+      "onboard_time": 1753694663,
       "rank": 37,
       "category": "民生新闻"
     },
@@ -2248,6 +2376,14 @@
       "word": "暴雨天气9个安全提醒",
       "onboard_time": 1753650074,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7464,
+      "num": 1796684,
+      "word": "文化中国行看千年考工智慧",
+      "onboard_time": 1753674263,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
