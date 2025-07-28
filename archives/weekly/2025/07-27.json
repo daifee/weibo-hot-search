@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753707511522,
+  "endTime": 1753708439814,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 840568,
+      "num": 418332,
+      "word": "张雪峰称赚多少钱又怎样",
+      "onboard_time": 1753702284,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 817579,
       "num": 817579,
       "word": "多所高校宣布延长研究生学制",
@@ -441,6 +449,14 @@
       "onboard_time": 1753620326,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 797616,
+      "num": 797616,
+      "word": "利剑玫瑰",
+      "onboard_time": 1753613482,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 792576,
@@ -505,6 +521,14 @@
       "onboard_time": 1753628304,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 759867,
+      "num": 470605,
+      "word": "利剑玫瑰收视率",
+      "onboard_time": 1753706062,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 742121,
@@ -635,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 661041,
-      "num": 661041,
-      "word": "利剑玫瑰",
-      "onboard_time": 1753613482,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 660756,
       "num": 462414,
       "word": "未录取通知书",
@@ -657,14 +673,6 @@
       "onboard_time": 1753610302,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 656321,
-      "num": 314888,
-      "word": "张雪峰称赚多少钱又怎样",
-      "onboard_time": 1753702284,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 645966,
@@ -819,6 +827,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552667,
+      "num": 416110,
+      "word": "卜冠今变化",
+      "onboard_time": 1753707563,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 547465,
+      "num": 440428,
+      "word": "利剑玫瑰热度",
+      "onboard_time": 1753705824,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541939,
       "num": 434234,
       "word": "点外卖和不点外卖的都沉默了",
@@ -889,14 +913,6 @@
       "onboard_time": 1753604483,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517949,
-      "num": 401142,
-      "word": "利剑玫瑰热度",
-      "onboard_time": 1753705824,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 517406,
@@ -1035,14 +1051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 456874,
-      "num": 313457,
-      "word": "利剑玫瑰收视率",
-      "onboard_time": 1753706062,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 455703,
       "num": 455703,
       "word": "李小冉给何炅备注八块腹肌不能删",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1753550179,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 419533,
+      "num": 419533,
+      "word": "商场女厕所隔间被指安装双面镜",
+      "onboard_time": 1753705405,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419500,
@@ -1323,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 362367,
+      "num": 362367,
+      "word": "宋亚轩扫腿舞",
+      "onboard_time": 1753704803,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357362,
       "num": 357362,
       "word": "喜茶 CHIIKAWA",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1753624527,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 338246,
-      "num": 313170,
-      "word": "宋亚轩扫腿舞",
-      "onboard_time": 1753704803,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 336391,
@@ -1443,19 +1459,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317364,
+      "num": 190734,
+      "word": "原来月经是我们的健康显示器",
+      "onboard_time": 1753705405,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 315577,
       "num": 315577,
       "word": "女子同情老人加价收购知了壳反遭骗",
       "onboard_time": 1753632623,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315254,
-      "num": 315254,
-      "word": "商场女厕所隔间被指安装双面镜",
-      "onboard_time": 1753705405,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1939,6 +1955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 228679,
+      "num": 228679,
+      "word": "12岁于子迪200混第四",
+      "onboard_time": 1753707145,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227972,
       "num": 227972,
       "word": "李雪琴携男友看毛不易演唱会",
@@ -2019,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222067,
+      "num": 222067,
+      "word": "王楚钦乒超第二阶段收官",
+      "onboard_time": 1753708224,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221601,
       "num": 235796,
       "word": "医学生机舱救人被网友质疑风险极高",
@@ -2057,14 +2089,6 @@
       "onboard_time": 1753697783,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218312,
-      "num": 185338,
-      "word": "原来月经是我们的健康显示器",
-      "onboard_time": 1753705405,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 217569,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1753702764,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214094,
+      "num": 214094,
+      "word": "张雪峰想让女儿高考后当一年助理",
+      "onboard_time": 1753708224,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 213248,
@@ -2232,6 +2264,14 @@
       "word": "这才是真实的冷宫",
       "onboard_time": 1753614083,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206015,
+      "num": 206015,
+      "word": "重庆姐弟坠亡房屋法拍再被撤回",
+      "onboard_time": 1753702943,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2635,14 +2675,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 185361,
-      "num": 185361,
-      "word": "12岁于子迪200混第四",
-      "onboard_time": 1753707145,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185336,
       "num": 185336,
       "word": "陈芋汐掌敏洁双人10米台金牌",
@@ -2891,6 +2923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175188,
+      "num": 192595,
+      "word": "酷云",
+      "onboard_time": 1753707264,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174783,
       "num": 174783,
       "word": "三个少年直播探班王牌",
@@ -2947,6 +2987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172373,
+      "num": 312287,
+      "word": "外交部回应泽连斯基批准对华制裁",
+      "onboard_time": 1753706484,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171869,
       "num": 171869,
       "word": "没抢到千玺门票的我被哄好了",
@@ -2985,14 +3033,6 @@
       "onboard_time": 1753598543,
       "rank": 31,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 171279,
-      "num": 171279,
-      "word": "重庆姐弟坠亡房屋法拍再被撤回",
-      "onboard_time": 1753702943,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171237,
@@ -3075,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168703,
+      "num": 168703,
+      "word": "麻六记致歉",
+      "onboard_time": 1753708105,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168460,
       "num": 168460,
       "word": "731",
@@ -3091,11 +3139,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166789,
+      "num": 166789,
+      "word": "王楚钦3比0战胜向鹏",
+      "onboard_time": 1753707744,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166146,
       "num": 166146,
       "word": "张靓颖有意见憋着吧",
       "onboard_time": 1753584622,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165852,
+      "num": 185341,
+      "word": "在挪威和花少隔桌吃饭",
+      "onboard_time": 1753706783,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -3283,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160369,
-      "num": 185341,
-      "word": "在挪威和花少隔桌吃饭",
-      "onboard_time": 1753706783,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160192,
       "num": 160192,
       "word": "周深这次轮到西安社死了",
@@ -3305,6 +3361,14 @@
       "onboard_time": 1753587561,
       "rank": 28,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 159411,
+      "num": 159411,
+      "word": "樊振东回应球迷高喊德甲见",
+      "onboard_time": 1753707925,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 159301,
@@ -3492,7 +3556,7 @@
     },
     {
       "raw_hot": 155245,
-      "num": 257518,
+      "num": 278896,
       "word": "思考在当下还重要吗",
       "onboard_time": 1753704743,
       "rank": 19,
@@ -3569,6 +3633,14 @@
       "onboard_time": 1753611742,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152997,
+      "num": 152997,
+      "word": "南京照相馆",
+      "onboard_time": 1753572198,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 152963,
@@ -3697,6 +3769,14 @@
       "onboard_time": 1753606223,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149826,
+      "num": 149826,
+      "word": "谍报群演分享和肖战拍戏经历",
+      "onboard_time": 1753707384,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 149596,
@@ -3835,6 +3915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145913,
+      "num": 145913,
+      "word": "徐嘉余无缘100仰决赛",
+      "onboard_time": 1753707324,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145810,
       "num": 145810,
       "word": "周笔畅这背不拔罐可惜了",
@@ -3889,14 +3977,6 @@
       "onboard_time": 1753624707,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144669,
-      "num": 144669,
-      "word": "南京照相馆",
-      "onboard_time": 1753572198,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 144524,
@@ -4017,14 +4097,6 @@
       "onboard_time": 1753625185,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142165,
-      "num": 142165,
-      "word": "酷云",
-      "onboard_time": 1753707264,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 142101,
@@ -4419,28 +4491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132627,
-      "num": 132627,
-      "word": "徐嘉余无缘100仰决赛",
-      "onboard_time": 1753707324,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132384,
       "num": 165277,
       "word": "和迪丽热巴是瑰蜜关系",
       "onboard_time": 1753615883,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132224,
-      "num": 312287,
-      "word": "外交部回应泽连斯基批准对华制裁",
-      "onboard_time": 1753706484,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132119,
@@ -4833,14 +4889,6 @@
       "onboard_time": 1753589421,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121129,
-      "num": 121129,
-      "word": "谍报群演分享和肖战拍戏经历",
-      "onboard_time": 1753707384,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 121082,
@@ -6177,6 +6225,14 @@
       "onboard_time": 1753606883,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50309,
+      "num": 178485,
+      "word": "中美经贸会谈在瑞典开始举行",
+      "onboard_time": 1753708345,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49592,
