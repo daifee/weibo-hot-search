@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753730690881,
+  "endTime": 1753731617034,
   "band_list": [
     {
       "raw_hot": 1164370,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142092,
+      "num": 83464,
+      "word": "爸爸回应女儿去世儿子患同种病进ICU",
+      "onboard_time": 1753726456,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135696,
       "num": 148858,
       "word": "任权回应薛小婉整容",
@@ -209,14 +217,6 @@
       "onboard_time": 1753705405,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124490,
-      "num": 83464,
-      "word": "爸爸回应女儿去世儿子患同种病进ICU",
-      "onboard_time": 1753726456,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122986,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21210,
+      "num": 21210,
+      "word": "迪丽热巴利剑玫瑰开车追人贩子",
+      "onboard_time": 1753731134,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20858,
       "num": 113298,
       "word": "国家育儿补贴方案六大热点问答",
@@ -475,11 +483,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11727,
+      "raw_hot": 20615,
       "num": 57419,
       "word": "罗大美父亲暴瘦近20斤",
       "onboard_time": 1753730055,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17824,
+      "num": 18548,
+      "word": "中国好丽友回应韩国鱼形派召回事件",
+      "onboard_time": 1753731315,
+      "rank": 46,
       "category": "民生新闻"
     }
   ],
