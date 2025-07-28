@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753731617034,
+  "endTime": 1753734725477,
   "band_list": [
     {
       "raw_hot": 1164370,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58464,
+      "num": 58464,
+      "word": "村委会会计涉嫌杀害前夫潜逃26年",
+      "onboard_time": 1753728855,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52950,
       "num": 144969,
       "word": "山东魏桥乒超首败",
@@ -459,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33868,
-      "num": 33868,
-      "word": "村委会会计涉嫌杀害前夫潜逃26年",
-      "onboard_time": 1753728855,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 27173,
+      "num": 27173,
+      "word": "中国司机生命最后挽救一车韩国游客",
+      "onboard_time": 1753731974,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21210,
@@ -473,6 +481,14 @@
       "onboard_time": 1753731134,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21079,
+      "num": 21079,
+      "word": "耳帝6年前力荐的新人女歌手夺冠",
+      "onboard_time": 1753734194,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 20858,
