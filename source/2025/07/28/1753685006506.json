@@ -1,0 +1,410 @@
+{
+  "runTime": 1753685006506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1226275,
+        "num": 1226275,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 845622,
+        "num": 845622,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1753679483,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59578,
+        "num": 815337,
+        "word": "国家安全部披露间谍常用套路",
+        "onboard_time": 1753661062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845818,
+        "num": 814772,
+        "word": "短短8集吻戏床戏都安排上了",
+        "onboard_time": 1753682782,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 808828,
+        "num": 808828,
+        "word": "中国佛教协会对释永信戒牒予以注销",
+        "onboard_time": 1753675945,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 658600,
+        "num": 658600,
+        "word": "19公斤黄金被冲走当地号召拾金不昧",
+        "onboard_time": 1753681882,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669688,
+        "num": 642273,
+        "word": "董璇说领证让她和张维伊都踏实了",
+        "onboard_time": 1753682484,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507692,
+        "num": 507692,
+        "word": "全球首个计划整体迁移的国家",
+        "onboard_time": 1753671262,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 432458,
+        "num": 432458,
+        "word": "田栩宁没有法令纹的原因找到了",
+        "onboard_time": 1753681823,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61622,
+        "num": 424673,
+        "word": "北京强降雨为何没完没了",
+        "onboard_time": 1753684104,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785216,
+        "num": 400353,
+        "word": "李晟 女人不能这么坐吗",
+        "onboard_time": 1753678046,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706104,
+        "num": 387085,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643114,
+        "num": 363919,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362731,
+        "num": 362731,
+        "word": "释永信与多名女性保持不正当关系",
+        "onboard_time": 1753618822,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318946,
+        "num": 318946,
+        "word": "大冰坐飞机只买一个座吗",
+        "onboard_time": 1753682484,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46810,
+        "num": 271525,
+        "word": "金靖式上班太真实了",
+        "onboard_time": 1753681223,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266584,
+        "num": 266584,
+        "word": "太平洋岛国图瓦卢计划举国移民",
+        "onboard_time": 1753670121,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261187,
+        "num": 261187,
+        "word": "小S小女儿晒与闺蜜度假照",
+        "onboard_time": 1753682782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259252,
+        "num": 259252,
+        "word": "嵩山少林景区再发公告",
+        "onboard_time": 1753674682,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246749,
+        "num": 246749,
+        "word": "张元英的生图已经进化成这样了吗",
+        "onboard_time": 1753676365,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649718,
+        "num": 245916,
+        "word": "金价",
+        "onboard_time": 1753672344,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 348335,
+        "num": 243886,
+        "word": "血瘀是大病的开始",
+        "onboard_time": 1753678763,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237378,
+        "num": 237378,
+        "word": "北京暴雨",
+        "onboard_time": 1753682723,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235534,
+        "num": 235534,
+        "word": "许嵩哽咽说对不起",
+        "onboard_time": 1753678404,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217569,
+        "num": 217569,
+        "word": "金晨出场就是师祖级别",
+        "onboard_time": 1753682543,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198719,
+        "num": 198719,
+        "word": "顾客就餐发现餐桌上一堆蛆在爬",
+        "onboard_time": 1753680202,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191705,
+        "num": 191705,
+        "word": "中国佛教协会发布公告",
+        "onboard_time": 1753674682,
+        "rank": 26,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 173848,
+        "num": 173848,
+        "word": "杨力维杨舒予女孩的样子",
+        "onboard_time": 1753683862,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171869,
+        "num": 171869,
+        "word": "没抢到千玺门票的我被哄好了",
+        "onboard_time": 1753684343,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58253,
+        "num": 168467,
+        "word": "何超仪老公再次病重",
+        "onboard_time": 1753675703,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167912,
+        "num": 167912,
+        "word": "救一家三口牺牲的宋士佳下葬",
+        "onboard_time": 1753677085,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164540,
+        "num": 164540,
+        "word": "无畏契约",
+        "onboard_time": 1753678285,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159163,
+        "num": 159163,
+        "word": "乒超联赛卫冕冠军演逆转",
+        "onboard_time": 1753684523,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158688,
+        "num": 158688,
+        "word": "杨洋居然还留着那个大绿瓶",
+        "onboard_time": 1753680743,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158255,
+        "num": 158255,
+        "word": "汪峰 三个女儿",
+        "onboard_time": 1753683084,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158027,
+        "num": 158027,
+        "word": "释永信曾说和尚婚恋犯根本大戒",
+        "onboard_time": 1753684702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156667,
+        "num": 156667,
+        "word": "朝雪录最忙的人是邓超",
+        "onboard_time": 1753683986,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156252,
+        "num": 156252,
+        "word": "年收入前10%群体缴纳个税占比约9成",
+        "onboard_time": 1753681761,
+        "rank": 37,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 138986,
+        "num": 152410,
+        "word": "邓亚萍哭了",
+        "onboard_time": 1753684583,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151311,
+        "num": 151311,
+        "word": "体重仅35斤女生发视频求助",
+        "onboard_time": 1753684523,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144264,
+        "num": 144264,
+        "word": "陈慧琳回应儿子恋情",
+        "onboard_time": 1753677445,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142481,
+        "num": 142481,
+        "word": "心动的信号8",
+        "onboard_time": 1753673783,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53654,
+        "num": 140731,
+        "word": "油电平权的时代来了",
+        "onboard_time": 1753682902,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135173,
+        "num": 140279,
+        "word": "田曦薇一秒入戏",
+        "onboard_time": 1753683563,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147071,
+        "num": 140276,
+        "word": "微博文化交流之夜 泰国",
+        "onboard_time": 1753684702,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140274,
+        "num": 140274,
+        "word": "赵子豪11比0",
+        "onboard_time": 1753682183,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137814,
+        "num": 137814,
+        "word": "易烊千玺演唱会二开",
+        "onboard_time": 1753679723,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133037,
+        "num": 133037,
+        "word": "女子称误将碘伏当糖浆喂孩子",
+        "onboard_time": 1753681703,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125944,
+        "num": 125944,
+        "word": "潘展乐无缘200自半决赛",
+        "onboard_time": 1753681761,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121927,
+        "num": 121927,
+        "word": "懒羊羊的角是可拆卸的",
+        "onboard_time": 1753680923,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席生动喻中欧#"
+    }
+  }
+}
