@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753728088458,
+  "endTime": 1753728958604,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -87067,6 +87067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54175,
+      "num": 54175,
+      "word": "爸爸回应女儿去世儿子患同种病进ICU",
+      "onboard_time": 1753726456,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54163,
       "num": 212772,
       "word": "杨幂长达40S的长镜头名场面",
@@ -90689,14 +90697,6 @@
       "onboard_time": 1752795140,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 36469,
-      "num": 36469,
-      "word": "爸爸回应女儿去世儿子患同种病进ICU",
-      "onboard_time": 1753726456,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36464,
@@ -95921,6 +95921,14 @@
       "onboard_time": 1752867855,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12654,
+      "num": 26781,
+      "word": "村委会会计涉嫌杀害前夫潜逃26年",
+      "onboard_time": 1753728855,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12640,
