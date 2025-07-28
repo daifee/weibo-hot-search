@@ -1,0 +1,410 @@
+{
+  "runTime": 1753713015631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1482266,
+        "num": 1482266,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1753706062,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 828639,
+        "num": 828639,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298322,
+        "num": 731675,
+        "word": "育儿补贴制度实施方案发布",
+        "onboard_time": 1753694122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000515,
+        "num": 727303,
+        "word": "省厅邓妍",
+        "onboard_time": 1753709964,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671451,
+        "num": 671451,
+        "word": "育儿补贴",
+        "onboard_time": 1753694185,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501794,
+        "num": 501794,
+        "word": "麻六记致歉",
+        "onboard_time": 1753708105,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582389,
+        "num": 490000,
+        "word": "李乃文下楼",
+        "onboard_time": 1753703064,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374517,
+        "num": 374517,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753703603,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373799,
+        "num": 373799,
+        "word": "北京请市民非必要不外出",
+        "onboard_time": 1753694783,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259436,
+        "num": 259436,
+        "word": "商场女厕所隔间被指安装双面镜",
+        "onboard_time": 1753705405,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756263,
+        "num": 258894,
+        "word": "小英喂药量杯不洗",
+        "onboard_time": 1753709546,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 654849,
+        "num": 256955,
+        "word": "卜冠今变化",
+        "onboard_time": 1753707563,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362381,
+        "num": 255123,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 283168,
+        "num": 252793,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252751,
+        "num": 252751,
+        "word": "中方敦促乌方立即纠正错误",
+        "onboard_time": 1753702523,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239586,
+        "num": 239586,
+        "word": "王楚钦乒超第二阶段收官",
+        "onboard_time": 1753708224,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234938,
+        "num": 234938,
+        "word": "北京全市景区关闭",
+        "onboard_time": 1753699462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204340,
+        "num": 204340,
+        "word": "魏如萱承认恋情",
+        "onboard_time": 1753701144,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190020,
+        "num": 190020,
+        "word": "宋亚轩扫腿舞",
+        "onboard_time": 1753704803,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185632,
+        "num": 185632,
+        "word": "王楚钦阿童木发型",
+        "onboard_time": 1753712005,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1430490,
+        "num": 185437,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 20,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 346019,
+        "num": 184521,
+        "word": "张雪峰想让女儿高考后当一年助理",
+        "onboard_time": 1753708224,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336664,
+        "num": 183907,
+        "word": "杨洋迪丽热巴 荣耀夫妇对打",
+        "onboard_time": 1753699043,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190055,
+        "num": 183771,
+        "word": "朝雪录太子被偷走的人生",
+        "onboard_time": 1753710145,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150509,
+        "num": 182711,
+        "word": "首席预报员称北京今夜的雨大不同",
+        "onboard_time": 1753709424,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182658,
+        "num": 182658,
+        "word": "王曼昱发博总结乒超第二阶段",
+        "onboard_time": 1753712786,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157818,
+        "num": 182143,
+        "word": "昔日荣耀夫妇一个仙界一个现实",
+        "onboard_time": 1753712425,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149086,
+        "num": 180291,
+        "word": "南京照相馆",
+        "onboard_time": 1753703723,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138816,
+        "num": 178416,
+        "word": "利剑玫瑰热度",
+        "onboard_time": 1753705824,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58944,
+        "num": 177551,
+        "word": "海底捞臻选店加收服务费",
+        "onboard_time": 1753712485,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295578,
+        "num": 175483,
+        "word": "原来月经是我们的健康显示器",
+        "onboard_time": 1753705405,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174929,
+        "num": 174929,
+        "word": "北京大雨",
+        "onboard_time": 1753712786,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172450,
+        "num": 172450,
+        "word": "释永信春节前后已被限制出境",
+        "onboard_time": 1753702104,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150776,
+        "num": 150776,
+        "word": "2岁女童患心肌炎去世家人以为是感冒",
+        "onboard_time": 1753702643,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123419,
+        "num": 145931,
+        "word": "北京今天最强降雨在后半夜",
+        "onboard_time": 1753712306,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85935,
+        "num": 145195,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144578,
+        "num": 144578,
+        "word": "育儿补贴如何申领和发放",
+        "onboard_time": 1753698743,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138501,
+        "num": 138501,
+        "word": "郭晶晶入选国际游泳名人堂",
+        "onboard_time": 1753708945,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118989,
+        "num": 136956,
+        "word": "20公斤金饰被冲走老板愿半价收购",
+        "onboard_time": 1753712005,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 136697,
+        "word": "戒牒被注销意味着什么",
+        "onboard_time": 1753711945,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136489,
+        "num": 136489,
+        "word": "易烊千玺看演出被拍到了",
+        "onboard_time": 1753706905,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126680,
+        "num": 126680,
+        "word": "刘诗诗染红发",
+        "onboard_time": 1753698383,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125583,
+        "num": 125583,
+        "word": "中方向日方严正交涉提出强烈抗议",
+        "onboard_time": 1753711345,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124649,
+        "num": 124649,
+        "word": "网友曝山姆多款产品偷偷减重",
+        "onboard_time": 1753702764,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120352,
+        "num": 120352,
+        "word": "覃海洋58秒23",
+        "onboard_time": 1753701801,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116069,
+        "num": 116069,
+        "word": "姥姥养的小鸡胖成了一个圆球",
+        "onboard_time": 1753711345,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113430,
+        "num": 113430,
+        "word": "中美经贸会谈在瑞典开始举行",
+        "onboard_time": 1753708345,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111916,
+        "num": 111916,
+        "word": "艺考时期的刘轩丞",
+        "onboard_time": 1753712904,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110704,
+        "num": 110704,
+        "word": "TES四连胜",
+        "onboard_time": 1753709604,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109558,
+        "num": 109558,
+        "word": "刘端端离了庆国再遇二皇子",
+        "onboard_time": 1753710024,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧大个子携手下一个50年#"
+    }
+  }
+}

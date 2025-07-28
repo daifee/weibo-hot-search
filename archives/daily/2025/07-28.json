@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753711062541,
+  "endTime": 1753713015631,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -75,8 +75,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1432688,
-      "num": 1432688,
+      "raw_hot": 1482266,
+      "num": 1482266,
       "word": "利剑玫瑰收视率",
       "onboard_time": 1753706062,
       "rank": 13,
@@ -169,6 +169,14 @@
       "onboard_time": 1753684523,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1000515,
+      "num": 727303,
+      "word": "省厅邓妍",
+      "onboard_time": 1753709964,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 978510,
@@ -297,6 +305,14 @@
       "onboard_time": 1753699043,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 756263,
+      "num": 409577,
+      "word": "小英喂药量杯不洗",
+      "onboard_time": 1753709546,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 726242,
@@ -563,14 +579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 440637,
-      "num": 440637,
-      "word": "省厅邓妍",
-      "onboard_time": 1753709964,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434842,
       "num": 469007,
       "word": "开推团包场迪丽热巴利剑玫瑰",
@@ -601,14 +609,6 @@
       "onboard_time": 1753687223,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 409577,
-      "num": 409577,
-      "word": "小英喂药量杯不洗",
-      "onboard_time": 1753709546,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 404672,
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346019,
+      "num": 251787,
+      "word": "张雪峰想让女儿高考后当一年助理",
+      "onboard_time": 1753708224,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 337841,
       "num": 337841,
       "word": "王楚钦乒超第二阶段收官",
@@ -793,14 +801,6 @@
       "onboard_time": 1753699583,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301813,
-      "num": 251787,
-      "word": "张雪峰想让女儿高考后当一年助理",
-      "onboard_time": 1753708224,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 297091,
@@ -1395,6 +1395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190055,
+      "num": 183771,
+      "word": "朝雪录太子被偷走的人生",
+      "onboard_time": 1753710145,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189953,
       "num": 189953,
       "word": "虞书欣工作室通知",
@@ -1443,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185632,
+      "num": 185632,
+      "word": "王楚钦阿童木发型",
+      "onboard_time": 1753712005,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185393,
       "num": 185393,
       "word": "黄金",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1753631064,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182658,
+      "num": 182658,
+      "word": "王曼昱发博总结乒超第二阶段",
+      "onboard_time": 1753712786,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 182313,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1753707264,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174929,
+      "num": 174929,
+      "word": "北京大雨",
+      "onboard_time": 1753712786,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174759,
@@ -1684,7 +1716,7 @@
     },
     {
       "raw_hot": 164145,
-      "num": 164145,
+      "num": 180291,
       "word": "南京照相馆",
       "onboard_time": 1753703723,
       "rank": 39,
@@ -1803,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157818,
+      "num": 182143,
+      "word": "昔日荣耀夫妇一个仙界一个现实",
+      "onboard_time": 1753712425,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157773,
       "num": 157773,
       "word": "第一个发明劳动派遣的就是这样想的",
@@ -1868,7 +1908,7 @@
     },
     {
       "raw_hot": 155760,
-      "num": 155760,
+      "num": 182711,
       "word": "首席预报员称北京今夜的雨大不同",
       "onboard_time": 1753709424,
       "rank": 42,
@@ -1939,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150776,
+      "num": 441077,
+      "word": "2岁女童患心肌炎去世家人以为是感冒",
+      "onboard_time": 1753702643,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150761,
       "num": 150761,
       "word": "张碧晨年轮海外版权受限",
@@ -1985,14 +2033,6 @@
       "onboard_time": 1753697300,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148241,
-      "num": 441077,
-      "word": "2岁女童患心肌炎去世家人以为是感冒",
-      "onboard_time": 1753702643,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147758,
@@ -2161,6 +2201,14 @@
       "onboard_time": 1753702343,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "郭晶晶入选国际游泳名人堂",
+      "onboard_time": 1753708945,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 138070,
@@ -2347,12 +2395,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 125074,
-      "num": 125074,
-      "word": "郭晶晶入选国际游泳名人堂",
-      "onboard_time": 1753708945,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 125583,
+      "num": 125583,
+      "word": "中方向日方严正交涉提出强烈抗议",
+      "onboard_time": 1753711345,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124896,
@@ -2387,12 +2435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123913,
+      "num": 136697,
+      "word": "戒牒被注销意味着什么",
+      "onboard_time": 1753711945,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123885,
       "num": 123885,
       "word": "原来这就是属于00后的红利",
       "onboard_time": 1753665442,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123419,
+      "num": 145931,
+      "word": "北京今天最强降雨在后半夜",
+      "onboard_time": 1753712306,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122972,
@@ -2409,14 +2473,6 @@
       "onboard_time": 1753687943,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122419,
-      "num": 122419,
-      "word": "朝雪录太子被偷走的人生",
-      "onboard_time": 1753710145,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 122384,
@@ -2465,6 +2521,14 @@
       "onboard_time": 1753701865,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118989,
+      "num": 136956,
+      "word": "20公斤金饰被冲走老板愿半价收购",
+      "onboard_time": 1753712005,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118747,
@@ -2516,11 +2580,19 @@
     },
     {
       "raw_hot": 116382,
-      "num": 143620,
+      "num": 145195,
       "word": "国家育儿补贴方案六大热点问答",
       "onboard_time": 1753697963,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116069,
+      "num": 116069,
+      "word": "姥姥养的小鸡胖成了一个圆球",
+      "onboard_time": 1753711345,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 114757,
@@ -2585,6 +2657,14 @@
       "onboard_time": 1753618343,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111916,
+      "num": 111916,
+      "word": "艺考时期的刘轩丞",
+      "onboard_time": 1753712904,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 110156,
@@ -2921,6 +3001,14 @@
       "onboard_time": 1753681223,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58944,
+      "num": 177551,
+      "word": "海底捞臻选店加收服务费",
+      "onboard_time": 1753712485,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56629,
@@ -3260,6 +3348,9 @@
     },
     {
       "word": "#中国经济乘风破浪稳中向好#"
+    },
+    {
+      "word": "#中欧大个子携手下一个50年#"
     }
   ]
 }
