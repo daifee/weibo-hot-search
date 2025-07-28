@@ -1,6 +1,6 @@
 {
   "startTime": 1753633952383,
-  "endTime": 1753698701667,
+  "endTime": 1753699809700,
   "band_list": [
     {
       "raw_hot": 3790041,
@@ -419,6 +419,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 464308,
+      "num": 232441,
+      "word": "刘诗诗染红发",
+      "onboard_time": 1753698383,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 463560,
+      "num": 463560,
+      "word": "6个月工资一万三被索赔两万多",
+      "onboard_time": 1753696882,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461104,
       "num": 283039,
       "word": "生理期真正不能做的10件事",
@@ -659,6 +675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 278762,
+      "num": 278762,
+      "word": "凡人修仙传7.7%",
+      "onboard_time": 1753698143,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277645,
       "num": 387536,
       "word": "上一秒大婚下一秒大虐",
@@ -689,14 +713,6 @@
       "onboard_time": 1753677324,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259012,
-      "num": 259012,
-      "word": "6个月工资一万三被索赔两万多",
-      "onboard_time": 1753696882,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258122,
@@ -779,6 +795,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 238314,
+      "num": 238314,
+      "word": "麻六记别躲白家阿宽后装无辜",
+      "onboard_time": 1753698682,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237534,
       "num": 220710,
       "word": "陈慧琳回应儿子恋情",
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218777,
+      "num": 218777,
+      "word": "迪丽热巴工作室剧宣",
+      "onboard_time": 1753697783,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217569,
       "num": 217569,
       "word": "金晨出场就是师祖级别",
@@ -849,14 +881,6 @@
       "onboard_time": 1753665562,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217460,
-      "num": 232127,
-      "word": "凡人修仙传7.7%",
-      "onboard_time": 1753698143,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 216793,
@@ -963,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203705,
+      "num": 203705,
+      "word": "杨洋迪丽热巴 荣耀夫妇对打",
+      "onboard_time": 1753699043,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "汪顺回应为什么报100仰",
@@ -993,6 +1025,14 @@
       "onboard_time": 1753680202,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197438,
+      "num": 230829,
+      "word": "泰柬双方同意停火",
+      "onboard_time": 1753697541,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195307,
@@ -1059,6 +1099,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 191302,
+      "num": 191302,
+      "word": "王者山海奇都平行世界",
+      "onboard_time": 1753699642,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190533,
       "num": 190533,
       "word": "但凡偏科一点都接不了这活",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1753697242,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189706,
-      "num": 189706,
-      "word": "刘诗诗染红发",
-      "onboard_time": 1753698383,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 189558,
@@ -1267,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173757,
-      "num": 173757,
-      "word": "迪丽热巴工作室剧宣",
-      "onboard_time": 1753697783,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171869,
       "num": 171869,
       "word": "没抢到千玺门票的我被哄好了",
@@ -1291,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170881,
+      "num": 223712,
+      "word": "北京全市景区关闭",
+      "onboard_time": 1753699462,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170869,
       "num": 181490,
       "word": "路人视角的迅猛龙特蕾莎",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1753680323,
       "rank": 31,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 167794,
+      "num": 200842,
+      "word": "育儿补贴如何申领和发放",
+      "onboard_time": 1753698743,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167593,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1753675524,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161404,
+      "num": 161404,
+      "word": "王者荣耀",
+      "onboard_time": 1753699583,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 161331,
@@ -1547,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150612,
+      "num": 199586,
+      "word": "龚俊打开手机一看天塌了",
+      "onboard_time": 1753698383,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149983,
       "num": 920928,
       "word": "国家安全部披露间谍常用套路",
@@ -1651,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139375,
+      "num": 139375,
+      "word": "三伏天养生就这么干",
+      "onboard_time": 1753699222,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139007,
       "num": 139007,
       "word": "迪丽热巴手电筒live图",
@@ -1683,6 +1755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136372,
+      "num": 136372,
+      "word": "王楚钦周启豪vs薛飞向鹏",
+      "onboard_time": 1753699342,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135173,
       "num": 140279,
       "word": "田曦薇一秒入戏",
@@ -1707,12 +1787,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 134746,
-      "num": 134746,
-      "word": "龚俊打开手机一看天塌了",
-      "onboard_time": 1753698383,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 134567,
+      "num": 134567,
+      "word": "马来西亚总理表示泰柬同意停火",
+      "onboard_time": 1753698682,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133768,
@@ -1721,6 +1801,14 @@
       "onboard_time": 1753663163,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133615,
+      "num": 133615,
+      "word": "小米车主说遭货车逼停被指别车在先",
+      "onboard_time": 1753698383,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133133,
@@ -1753,14 +1841,6 @@
       "onboard_time": 1753691723,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129375,
-      "num": 129375,
-      "word": "小米车主说遭货车逼停被指别车在先",
-      "onboard_time": 1753698383,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128276,
@@ -1819,14 +1899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123223,
-      "num": 123223,
-      "word": "马来西亚总理表示泰柬同意停火",
-      "onboard_time": 1753698682,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122972,
       "num": 122972,
       "word": "最能吃苦的那一代人又回来了",
@@ -1859,12 +1931,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122036,
+      "num": 122036,
+      "word": "迪丽热巴喜极而泣镜头",
+      "onboard_time": 1753699462,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121040,
       "num": 121040,
       "word": "一周赚了15亿韩元的男人",
       "onboard_time": 1753694304,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119397,
+      "num": 119397,
+      "word": "小鹏称绝对不上激光雷达",
+      "onboard_time": 1753699642,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 118747,
@@ -1907,20 +1995,20 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 117629,
-      "num": 117629,
-      "word": "麻六记别躲白家阿宽后装无辜",
-      "onboard_time": 1753698682,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116860,
       "num": 116860,
       "word": "李小冉说一路繁花塌的也不是我",
       "onboard_time": 1753619485,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116382,
+      "num": 143620,
+      "word": "国家育儿补贴方案六大热点问答",
+      "onboard_time": 1753697963,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114757,
@@ -2059,14 +2147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101411,
-      "num": 143620,
-      "word": "国家育儿补贴方案六大热点问答",
-      "onboard_time": 1753697963,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99981,
       "num": 99981,
       "word": "陈都灵包场杨洋凡人修仙传",
@@ -2123,6 +2203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92002,
+      "num": 136556,
+      "word": "一玩家玩昆仑秘境玩破产了",
+      "onboard_time": 1753699462,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 89127,
       "num": 89127,
       "word": "山西遇险客车仍有13人失联",
@@ -2169,14 +2257,6 @@
       "onboard_time": 1753622966,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82233,
-      "num": 230829,
-      "word": "泰柬双方同意停火",
-      "onboard_time": 1753697541,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81883,
@@ -2289,6 +2369,14 @@
       "onboard_time": 1753678943,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55707,
+      "num": 220594,
+      "word": "泰国曼谷枪击事件枪手当场自尽",
+      "onboard_time": 1753699342,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54493,

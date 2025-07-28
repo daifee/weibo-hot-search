@@ -1,0 +1,410 @@
+{
+  "runTime": 1753699809700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900685,
+        "num": 1900685,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1114719,
+        "num": 1114719,
+        "word": "育儿补贴",
+        "onboard_time": 1753694185,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51591,
+        "num": 939144,
+        "word": "大雨还要下多久",
+        "onboard_time": 1753665620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811528,
+        "num": 811528,
+        "word": "北京请市民非必要不外出",
+        "onboard_time": 1753694783,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594655,
+        "num": 594655,
+        "word": "育儿补贴制度实施方案发布",
+        "onboard_time": 1753694122,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501425,
+        "num": 501425,
+        "word": "释永信所作所为性质十分恶劣",
+        "onboard_time": 1753692987,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463560,
+        "num": 463560,
+        "word": "6个月工资一万三被索赔两万多",
+        "onboard_time": 1753696882,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315350,
+        "num": 315350,
+        "word": "短短8集吻戏床戏都安排上了",
+        "onboard_time": 1753682782,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278762,
+        "num": 278762,
+        "word": "凡人修仙传7.7%",
+        "onboard_time": 1753698143,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238314,
+        "num": 238314,
+        "word": "麻六记别躲白家阿宽后装无辜",
+        "onboard_time": 1753698682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1167154,
+        "num": 237611,
+        "word": "罗大美遗体已在太平间待了752天",
+        "onboard_time": 1753687883,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 643911,
+        "num": 236158,
+        "word": "王丽坤竟然也演短剧了",
+        "onboard_time": 1753692987,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 560126,
+        "num": 234422,
+        "word": "朱孝天回应删明道好友",
+        "onboard_time": 1753697242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464308,
+        "num": 232441,
+        "word": "刘诗诗染红发",
+        "onboard_time": 1753698383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66195,
+        "num": 229795,
+        "word": "那些拼多多包邮送来的神器",
+        "onboard_time": 1753696882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417162,
+        "num": 228934,
+        "word": "娜扎瘦成纸片人了",
+        "onboard_time": 1753690283,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337923,
+        "num": 227389,
+        "word": "任权被整容后的薛小婉吓到了",
+        "onboard_time": 1753681283,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256362,
+        "num": 224938,
+        "word": "Jennie打码朴彩英",
+        "onboard_time": 1753670601,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170881,
+        "num": 223712,
+        "word": "北京全市景区关闭",
+        "onboard_time": 1753699462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55707,
+        "num": 220594,
+        "word": "泰国曼谷枪击事件枪手当场自尽",
+        "onboard_time": 1753699342,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248944,
+        "num": 219605,
+        "word": "徐璐回应不拍戏",
+        "onboard_time": 1753692563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218777,
+        "num": 218777,
+        "word": "迪丽热巴工作室剧宣",
+        "onboard_time": 1753697783,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215790,
+        "num": 215790,
+        "word": "少林寺住持释永信被查",
+        "onboard_time": 1753618643,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203705,
+        "num": 203705,
+        "word": "杨洋迪丽热巴 荣耀夫妇对打",
+        "onboard_time": 1753699043,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201584,
+        "num": 201584,
+        "word": "曼谷市场枪击事件已致6人死亡",
+        "onboard_time": 1753689444,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167794,
+        "num": 200842,
+        "word": "育儿补贴如何申领和发放",
+        "onboard_time": 1753698743,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181995,
+        "num": 199957,
+        "word": "马思纯明媚成这样",
+        "onboard_time": 1753696343,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150612,
+        "num": 199586,
+        "word": "龚俊打开手机一看天塌了",
+        "onboard_time": 1753698383,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138749,
+        "num": 198792,
+        "word": "查处一批主播明星等偷逃税案件",
+        "onboard_time": 1753691004,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 130538,
+        "num": 197879,
+        "word": "董璇说领证让她和张维伊都踏实了",
+        "onboard_time": 1753682484,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197438,
+        "num": 197438,
+        "word": "泰柬双方同意停火",
+        "onboard_time": 1753697541,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207707,
+        "num": 196456,
+        "word": "喜茶 CHIIKAWA",
+        "onboard_time": 1753686263,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192524,
+        "num": 192524,
+        "word": "点外卖和不点外卖的都沉默了",
+        "onboard_time": 1753688663,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191302,
+        "num": 191302,
+        "word": "王者山海奇都平行世界",
+        "onboard_time": 1753699642,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161404,
+        "num": 161404,
+        "word": "王者荣耀",
+        "onboard_time": 1753699583,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159163,
+        "num": 159163,
+        "word": "boss直聘通报王某香简历事件",
+        "onboard_time": 1753687283,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140777,
+        "num": 140777,
+        "word": "男子冒充女性求职者造黄谣被刑拘",
+        "onboard_time": 1753687223,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139375,
+        "num": 139375,
+        "word": "三伏天养生就这么干",
+        "onboard_time": 1753699222,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92002,
+        "num": 136556,
+        "word": "一玩家玩昆仑秘境玩破产了",
+        "onboard_time": 1753699462,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136372,
+        "num": 136372,
+        "word": "王楚钦周启豪vs薛飞向鹏",
+        "onboard_time": 1753699342,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134567,
+        "num": 134567,
+        "word": "马来西亚总理表示泰柬同意停火",
+        "onboard_time": 1753698682,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133615,
+        "num": 133615,
+        "word": "小米车主说遭货车逼停被指别车在先",
+        "onboard_time": 1753698383,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "成毅朋友圈个性签名",
+        "onboard_time": 1753689322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122036,
+        "num": 122036,
+        "word": "迪丽热巴喜极而泣镜头",
+        "onboard_time": 1753699462,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 119481,
+        "word": "体重仅35斤女生发视频求助",
+        "onboard_time": 1753684523,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119397,
+        "num": 119397,
+        "word": "小鹏称绝对不上激光雷达",
+        "onboard_time": 1753699642,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118693,
+        "num": 118693,
+        "word": "王牌对王牌9他们来了",
+        "onboard_time": 1753693823,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118163,
+        "num": 118163,
+        "word": "湖南一景区有女游客玩漂流被水冲走",
+        "onboard_time": 1753693283,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116382,
+        "num": 116382,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107526,
+        "num": 116256,
+        "word": "罗小黑2和流浪地球3联动了",
+        "onboard_time": 1753698023,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济乘风破浪稳中向好#"
+    }
+  }
+}
