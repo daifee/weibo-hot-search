@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753804096056,
+  "endTime": 1753806955247,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3961,6 +3961,14 @@
       "onboard_time": 1753525281,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1115343,
+      "num": 1115343,
+      "word": "成人安抚奶嘴走红月销量破千",
+      "onboard_time": 1753802903,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1114116,
@@ -13459,6 +13467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 507398,
+      "num": 507398,
+      "word": "成都地铁防走光设计",
+      "onboard_time": 1753804883,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 507151,
       "num": 507151,
       "word": "高校对出轨Zeus女生处罚是否过重",
@@ -14945,6 +14961,14 @@
       "onboard_time": 1751983108,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 455787,
+      "num": 194723,
+      "word": "亲爱的柳岩女士 时代跟上你了",
+      "onboard_time": 1753805963,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 455703,
@@ -19161,14 +19185,6 @@
       "onboard_time": 1751610023,
       "rank": 23,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 357843,
-      "num": 357843,
-      "word": "成人安抚奶嘴走红月销量破千",
-      "onboard_time": 1753802903,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357788,
@@ -30163,6 +30179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224491,
+      "num": 224491,
+      "word": "床垫买成800元扔掉花了500元",
+      "onboard_time": 1753804223,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224437,
       "num": 224437,
       "word": "广东中考数学",
@@ -33945,6 +33969,14 @@
       "onboard_time": 1751762239,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204945,
+      "num": 204945,
+      "word": "深圳一央企被爆大量员工资金被套",
+      "onboard_time": 1753803384,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 204917,
@@ -41427,6 +41459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181205,
+      "num": 181205,
+      "word": "女子发现电影院座椅布满白色虫卵",
+      "onboard_time": 1753802364,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181188,
       "num": 181188,
       "word": "兔墨大战",
@@ -43361,6 +43401,14 @@
       "onboard_time": 1752379159,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174824,
+      "num": 140668,
+      "word": "外卖员组团评论区感谢孙颖莎",
+      "onboard_time": 1753804044,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 174805,
@@ -46339,14 +46387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166398,
-      "num": 166796,
-      "word": "女子发现电影院座椅布满白色虫卵",
-      "onboard_time": 1753802364,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166383,
       "num": 186861,
       "word": "逍遥剧组直播",
@@ -47065,14 +47105,6 @@
       "onboard_time": 1751533581,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164345,
-      "num": 164345,
-      "word": "深圳一央企被爆大量员工资金被套",
-      "onboard_time": 1753803384,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 164317,
@@ -58643,14 +58675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138045,
-      "num": 138045,
-      "word": "外卖员组团评论区感谢孙颖莎",
-      "onboard_time": 1753804044,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138007,
       "num": 138007,
       "word": "不愧是山东ip",
@@ -59612,7 +59636,7 @@
     },
     {
       "raw_hot": 135822,
-      "num": 135822,
+      "num": 198657,
       "word": "江西一树林现大量被丢弃药品",
       "onboard_time": 1753799004,
       "rank": 43,
@@ -64857,6 +64881,14 @@
       "onboard_time": 1753017624,
       "rank": 49,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 126376,
+      "num": 126376,
+      "word": "刘浩存主角路透",
+      "onboard_time": 1753806142,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 126356,
@@ -79955,6 +79987,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 98548,
+      "num": 98548,
+      "word": "店员故意文丑眉强迫顾客升单获刑",
+      "onboard_time": 1753804763,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98513,
       "num": 98513,
       "word": "家养400斤肥猪的女童妈妈发声",
@@ -79977,6 +80017,14 @@
       "onboard_time": 1753782323,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98352,
+      "num": 98352,
+      "word": "TheShy采访",
+      "onboard_time": 1753804703,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 98343,
@@ -83107,6 +83155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88201,
+      "num": 88201,
+      "word": "刘诗诗娜扎周冬雨同框视频",
+      "onboard_time": 1753804944,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88199,
       "num": 88199,
       "word": "Labubu版糖醋酥肉饭",
@@ -84089,6 +84145,14 @@
       "onboard_time": 1753013304,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84242,
+      "num": 84242,
+      "word": "歌手重新录制浏阳河段落",
+      "onboard_time": 1753805483,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 84218,
@@ -85409,6 +85473,14 @@
       "onboard_time": 1753772003,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77413,
+      "num": 81507,
+      "word": "2025年赵默笙41岁",
+      "onboard_time": 1753806562,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 77396,
@@ -89739,6 +89811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55640,
+      "num": 81508,
+      "word": "峨眉山骡子负重爬石阶引争议",
+      "onboard_time": 1753804883,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55633,
       "num": 2640486,
       "word": "万千气象看新疆",
@@ -93161,6 +93241,14 @@
       "onboard_time": 1752757341,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38947,
+      "num": 121801,
+      "word": "孕妇遭有电诈前科亲戚诱骗失联6天",
+      "onboard_time": 1753806740,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38930,
@@ -97640,6 +97728,14 @@
       "word": "户口未迁出前妻打官司赢回征地款",
       "onboard_time": 1752567743,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20180,
+      "num": 136603,
+      "word": "副教授被精神病人杀害家属起诉人社局",
+      "onboard_time": 1753806681,
+      "rank": 24,
       "category": "民生新闻"
     },
     {

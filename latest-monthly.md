@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/29 23:48:16
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 00:35:55
 </p>
 </blockquote>
 <p>
@@ -2981,6 +2981,12 @@ Jennie删掉和朴彩英的合照（热度：1128323）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BC%E8%89%BA%E5%8F%B2%E4%B8%8A%E9%95%BF%E8%BE%BE%E4%B8%A4%E5%88%86%E9%92%9F%E7%9A%84%E6%B2%89%E9%BB%98%23" target="weibo">
 综艺史上长达两分钟的沉默（热度：1115729）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E4%BA%BA%E5%AE%89%E6%8A%9A%E5%A5%B6%E5%98%B4%E8%B5%B0%E7%BA%A2%E6%9C%88%E9%94%80%E9%87%8F%E7%A0%B4%E5%8D%83%23" target="weibo">
+成人安抚奶嘴走红月销量破千（热度：1115343）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17Pro橙色新配色（热度：723975）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E8%8A%B3%E5%8D%8E%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 锦绣芳华大结局（热度：721403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E6%9C%8D%E5%8A%A1%E5%91%98%E8%83%B8%E5%89%8D%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%23" target="weibo">
-海底捞回应服务员胸前打赏二维码（热度：721361）
 </a>
 </li>
 
