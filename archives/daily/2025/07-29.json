@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753793953050,
+  "endTime": 1753794917727,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1209260,
+      "num": 1209260,
+      "word": "QQ音乐回应张碧晨仍是年轮原唱",
+      "onboard_time": 1753791263,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1179091,
       "num": 1188654,
       "word": "宝妈卖劳力士收32万后银行卡被冻结",
@@ -105,6 +113,14 @@
       "onboard_time": 1753717042,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1158167,
+      "num": 322782,
+      "word": "陈都灵内娱第一位饭拍路透破千万点赞",
+      "onboard_time": 1753792702,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1105257,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 758197,
-      "num": 247046,
+      "num": 312167,
       "word": "内娱惊为天人的帅哥",
       "onboard_time": 1753783763,
       "rank": 31,
@@ -283,6 +299,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 576533,
+      "num": 576533,
+      "word": "少林寺新住持佛学院本科毕业",
+      "onboard_time": 1753788141,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576050,
       "num": 468596,
       "word": "周杰伦演唱会",
@@ -307,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 544528,
+      "num": 544528,
+      "word": "世界之外史诗级公关",
+      "onboard_time": 1753790001,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 544079,
       "num": 210900,
       "word": "杨采钰是生了吗",
@@ -321,6 +353,14 @@
       "onboard_time": 1753763786,
       "rank": 4,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 537637,
+      "num": 537637,
+      "word": "关晓彤好长一条人",
+      "onboard_time": 1753789283,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 535036,
@@ -345,6 +385,14 @@
       "onboard_time": 1753778543,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 525195,
+      "num": 525195,
+      "word": "美国人对核爆日本认可度下降",
+      "onboard_time": 1753788561,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 524737,
@@ -425,6 +473,14 @@
       "onboard_time": 1753746682,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 454426,
+      "num": 288378,
+      "word": "女子得知弟媳被家暴怒扇亲弟弟",
+      "onboard_time": 1753791202,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442631,
@@ -523,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341878,
+      "num": 341878,
+      "word": "利剑玫瑰",
+      "onboard_time": 1753703603,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337756,
       "num": 323108,
       "word": "南宫婉选角",
@@ -547,12 +611,28 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 335109,
+      "num": 335109,
+      "word": "短剧特朗普爱上白宫保洁赚疯了",
+      "onboard_time": 1753793003,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 333538,
       "num": 333538,
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1753763786,
       "rank": 22,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 329812,
+      "num": 288144,
+      "word": "维生素D真的很神奇",
+      "onboard_time": 1753790001,
+      "rank": 22,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 323458,
@@ -675,12 +755,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 275637,
+      "num": 275637,
+      "word": "曾被28689位网友托举男孩考上985",
+      "onboard_time": 1753789342,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269333,
       "num": 269333,
       "word": "被调剂到图书情报专业了",
       "onboard_time": 1753760964,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 267648,
+      "num": 289723,
+      "word": "定风波OST阵容",
+      "onboard_time": 1753793964,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 266593,
@@ -811,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230281,
+      "num": 193544,
+      "word": "印度医生睡着致伤者失血身亡",
+      "onboard_time": 1753792582,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 222913,
       "num": 222913,
       "word": "何炅年纪大阅历就是丰富",
@@ -883,12 +987,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215057,
+      "num": 192151,
+      "word": "为什么十年前没让我刷到这句话",
+      "onboard_time": 1753793121,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213780,
       "num": 213780,
       "word": "柬泰两国领导人分别感谢中国",
       "onboard_time": 1753717881,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212019,
+      "num": 212019,
+      "word": "刘诗诗活动路透",
+      "onboard_time": 1753789283,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 211482,
@@ -913,14 +1033,6 @@
       "onboard_time": 1753764205,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209943,
-      "num": 242580,
-      "word": "少林寺新住持佛学院本科毕业",
-      "onboard_time": 1753788141,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209546,
@@ -1091,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195002,
+      "num": 195002,
+      "word": "包上恩高智千金感",
+      "onboard_time": 1753793545,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194281,
       "num": 194281,
       "word": "战至巅峰4开始燃了",
@@ -1227,14 +1347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179932,
-      "num": 255447,
-      "word": "利剑玫瑰",
-      "onboard_time": 1753703603,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179746,
       "num": 179746,
       "word": "释永信春节前后已被限制出境",
@@ -1307,12 +1419,28 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 174680,
+      "num": 291370,
+      "word": "买理想送司机",
+      "onboard_time": 1753793964,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172621,
       "num": 207005,
       "word": "许我耀眼双轨或将对打",
       "onboard_time": 1753746742,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172252,
+      "num": 172252,
+      "word": "李冰洁世锦赛1500自第四",
+      "onboard_time": 1753794324,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 172048,
@@ -1331,6 +1459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171367,
+      "num": 194664,
+      "word": "解放军加强黄岩岛领海周边巡逻警戒",
+      "onboard_time": 1753792943,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171358,
       "num": 171358,
       "word": "北京暴雨孕妇被困直升机接力送医",
@@ -1344,6 +1480,14 @@
       "word": "月租贷款",
       "onboard_time": 1753763607,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170807,
+      "num": 170807,
+      "word": "少林寺新住持16岁出家",
+      "onboard_time": 1753794564,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1427,14 +1571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 162770,
-      "num": 162770,
-      "word": "美国人对核爆日本认可度下降",
-      "onboard_time": 1753788561,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162639,
       "num": 162639,
       "word": "孙千方回应与男友人共回家",
@@ -1489,6 +1625,14 @@
       "onboard_time": 1753766844,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158672,
+      "num": 158672,
+      "word": "FPX对战iG",
+      "onboard_time": 1753793782,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 157126,
@@ -1611,6 +1755,14 @@
       "category": "互联网,互联网"
     },
     {
+      "raw_hot": 146273,
+      "num": 162056,
+      "word": "田曦薇对自己的坦是有清晰认知的",
+      "onboard_time": 1753794445,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146111,
       "num": 146111,
       "word": "杨洋汪铎你俩根本没喝中药",
@@ -1675,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140948,
+      "num": 140948,
+      "word": "吴磊突然靠近这一下",
+      "onboard_time": 1753794745,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140272,
       "num": 140272,
       "word": "凡人修仙传第7集西游记含量过高",
@@ -1689,6 +1849,14 @@
       "onboard_time": 1753752204,
       "rank": 36,
       "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 139298,
+      "num": 136998,
+      "word": "张真源一句话戳中所有打野",
+      "onboard_time": 1753794324,
+      "rank": 42,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 139100,
@@ -1713,6 +1881,14 @@
       "onboard_time": 1753705405,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138064,
+      "num": 138064,
+      "word": "赴山海因谣言延播属实太冤",
+      "onboard_time": 1753792282,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 137839,
@@ -1779,6 +1955,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134845,
+      "num": 134845,
+      "word": "退59万捐款妈妈回应儿子考上985",
+      "onboard_time": 1753790362,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134579,
+      "num": 134579,
+      "word": "关晓彤黑长直黑色短裙",
+      "onboard_time": 1753793782,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134423,
       "num": 130169,
       "word": "杨洋漏胸肌这块",
@@ -1809,6 +2001,14 @@
       "onboard_time": 1753745060,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133395,
+      "num": 133395,
+      "word": "RNG汤圆一人一城",
+      "onboard_time": 1753794264,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 133113,
@@ -1883,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126808,
+      "num": 126808,
+      "word": "把烟花拍成巨型大虫",
+      "onboard_time": 1753794204,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126676,
       "num": 126676,
       "word": "战至巅峰4",
@@ -1929,6 +2137,14 @@
       "onboard_time": 1753771462,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125165,
+      "num": 125165,
+      "word": "迪丽热巴哭戏",
+      "onboard_time": 1753794865,
+      "rank": 49,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 125160,
@@ -2017,6 +2233,14 @@
       "onboard_time": 1753773743,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120578,
+      "num": 141881,
+      "word": "花海第一选择是张真源",
+      "onboard_time": 1753793423,
+      "rank": 37,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 120521,
@@ -2403,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97272,
+      "num": 192750,
+      "word": "周柯宇在海边播到天黑",
+      "onboard_time": 1753794384,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96691,
       "num": 272939,
       "word": "北京提醒防范山体崩塌",
@@ -2779,6 +3011,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52427,
+      "num": 332368,
+      "word": "店主为让肠粉更筋道掺硼砂",
+      "onboard_time": 1753793845,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51307,
+      "num": 288989,
+      "word": "密云救人的铲车司机找到了",
+      "onboard_time": 1753794085,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 50699,
       "num": 298927,
       "word": "罗大美被害案一审择期宣判",
@@ -2849,6 +3097,22 @@
       "onboard_time": 1753731974,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36622,
+      "num": 134699,
+      "word": "理想i8的空间藏着哪些巧思",
+      "onboard_time": 1753790723,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 35681,
+      "num": 140924,
+      "word": "孩子被拐母亲欲跳楼",
+      "onboard_time": 1753794085,
+      "rank": 39,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 33839,

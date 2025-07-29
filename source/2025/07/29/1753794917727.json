@@ -1,0 +1,410 @@
+{
+  "runTime": 1753794917727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359813,
+        "num": 1359813,
+        "word": "肠粉 硼砂",
+        "onboard_time": 1753782981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1209260,
+        "num": 1209260,
+        "word": "QQ音乐回应张碧晨仍是年轮原唱",
+        "onboard_time": 1753791263,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40361,
+        "num": 705606,
+        "word": "国内首个通过人机辩论图灵测试大模型",
+        "onboard_time": 1753779622,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576533,
+        "num": 576533,
+        "word": "少林寺新住持佛学院本科毕业",
+        "onboard_time": 1753788141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544528,
+        "num": 544528,
+        "word": "世界之外史诗级公关",
+        "onboard_time": 1753790001,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 537637,
+        "num": 537637,
+        "word": "关晓彤好长一条人",
+        "onboard_time": 1753789283,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525195,
+        "num": 525195,
+        "word": "美国人对核爆日本认可度下降",
+        "onboard_time": 1753788561,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341878,
+        "num": 341878,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753790302,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335109,
+        "num": 335109,
+        "word": "短剧特朗普爱上白宫保洁赚疯了",
+        "onboard_time": 1753793003,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52427,
+        "num": 332368,
+        "word": "店主为让肠粉更筋道掺硼砂",
+        "onboard_time": 1753793845,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1158167,
+        "num": 322782,
+        "word": "陈都灵内娱第一位饭拍路透破千万点赞",
+        "onboard_time": 1753792702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886746,
+        "num": 319933,
+        "word": "第一次对成龙71岁有了实感",
+        "onboard_time": 1753786400,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 639321,
+        "num": 312167,
+        "word": "内娱惊为天人的帅哥",
+        "onboard_time": 1753783763,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444222,
+        "num": 305225,
+        "word": "27岁存款30万从体制内辞职了",
+        "onboard_time": 1753781182,
+        "rank": 13,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 371448,
+        "num": 300191,
+        "word": "白鹿晒照给闺蜜庆生",
+        "onboard_time": 1753784363,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174680,
+        "num": 291370,
+        "word": "买理想送司机",
+        "onboard_time": 1753793964,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 290007,
+        "num": 290007,
+        "word": "小英要离婚了",
+        "onboard_time": 1753760784,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267648,
+        "num": 289723,
+        "word": "定风波OST阵容",
+        "onboard_time": 1753793964,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230561,
+        "num": 289364,
+        "word": "张艺兴送京东外卖",
+        "onboard_time": 1753781663,
+        "rank": 18,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 51307,
+        "num": 288989,
+        "word": "密云救人的铲车司机找到了",
+        "onboard_time": 1753794085,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 573151,
+        "num": 288674,
+        "word": "世界之外",
+        "onboard_time": 1753781424,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454426,
+        "num": 288378,
+        "word": "女子得知弟媳被家暴怒扇亲弟弟",
+        "onboard_time": 1753791202,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329812,
+        "num": 288144,
+        "word": "维生素D真的很神奇",
+        "onboard_time": 1753790001,
+        "rank": 22,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 287952,
+        "num": 287952,
+        "word": "印乐法师任少林寺住持",
+        "onboard_time": 1753778962,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275637,
+        "num": 275637,
+        "word": "曾被28689位网友托举男孩考上985",
+        "onboard_time": 1753789342,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212019,
+        "num": 212019,
+        "word": "刘诗诗活动路透",
+        "onboard_time": 1753789283,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195002,
+        "num": 195002,
+        "word": "包上恩高智千金感",
+        "onboard_time": 1753793545,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171367,
+        "num": 194664,
+        "word": "解放军加强黄岩岛领海周边巡逻警戒",
+        "onboard_time": 1753792943,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230281,
+        "num": 193544,
+        "word": "印度医生睡着致伤者失血身亡",
+        "onboard_time": 1753792582,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97272,
+        "num": 192750,
+        "word": "周柯宇在海边播到天黑",
+        "onboard_time": 1753794384,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215057,
+        "num": 192151,
+        "word": "为什么十年前没让我刷到这句话",
+        "onboard_time": 1753793121,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191345,
+        "num": 191345,
+        "word": "宝妈卖劳力士收32万后银行卡被冻结",
+        "onboard_time": 1753780282,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172252,
+        "num": 172252,
+        "word": "李冰洁世锦赛1500自第四",
+        "onboard_time": 1753794324,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170807,
+        "num": 170807,
+        "word": "少林寺新住持16岁出家",
+        "onboard_time": 1753794564,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146273,
+        "num": 162056,
+        "word": "田曦薇对自己的坦是有清晰认知的",
+        "onboard_time": 1753794445,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158672,
+        "num": 158672,
+        "word": "FPX对战iG",
+        "onboard_time": 1753793782,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146435,
+        "num": 146435,
+        "word": "麻六记销售额已缩水至此前五分之一",
+        "onboard_time": 1753786883,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120578,
+        "num": 141881,
+        "word": "花海第一选择是张真源",
+        "onboard_time": 1753793423,
+        "rank": 37,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 140948,
+        "num": 140948,
+        "word": "吴磊突然靠近这一下",
+        "onboard_time": 1753794745,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35681,
+        "num": 140924,
+        "word": "孩子被拐母亲欲跳楼",
+        "onboard_time": 1753794085,
+        "rank": 39,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 140918,
+        "num": 140918,
+        "word": "上海台风",
+        "onboard_time": 1753780520,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138064,
+        "num": 138064,
+        "word": "赴山海因谣言延播属实太冤",
+        "onboard_time": 1753792282,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139298,
+        "num": 136998,
+        "word": "张真源一句话戳中所有打野",
+        "onboard_time": 1753794324,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 135766,
+        "num": 135766,
+        "word": "河北网友称家中发现白纹伊蚊",
+        "onboard_time": 1753785922,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134845,
+        "num": 134845,
+        "word": "退59万捐款妈妈回应儿子考上985",
+        "onboard_time": 1753790362,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36622,
+        "num": 134699,
+        "word": "理想i8的空间藏着哪些巧思",
+        "onboard_time": 1753790723,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134579,
+        "num": 134579,
+        "word": "关晓彤黑长直黑色短裙",
+        "onboard_time": 1753793782,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133395,
+        "num": 133395,
+        "word": "RNG汤圆一人一城",
+        "onboard_time": 1753794264,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126808,
+        "num": 126808,
+        "word": "把烟花拍成巨型大虫",
+        "onboard_time": 1753794204,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125165,
+        "num": 125165,
+        "word": "迪丽热巴哭戏",
+        "onboard_time": 1753794865,
+        "rank": 49,
+        "category": "剧集,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实做好防汛抢险救灾各项工作#"
+    }
+  }
+}
