@@ -1,0 +1,410 @@
+{
+  "runTime": 1753771311384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 734105,
+        "num": 1117456,
+        "word": "iPhone17Pro原型机曝光",
+        "onboard_time": 1753758084,
+        "rank": 0,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 496490,
+        "num": 496490,
+        "word": "河北承德一镇因暴雨断联",
+        "onboard_time": 1753764926,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 12506,
+        "num": 449594,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576050,
+        "num": 447518,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1753767503,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 442653,
+        "num": 442653,
+        "word": "天津蓟州爆发70年来最大山洪",
+        "onboard_time": 1753769663,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 410704,
+        "num": 410704,
+        "word": "三甲医院医生谈李晟岔腿坐是有益的",
+        "onboard_time": 1753764265,
+        "rank": 5,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 354840,
+        "num": 354840,
+        "word": "河北滦平强降雨已致8人死亡",
+        "onboard_time": 1753765885,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 344087,
+        "num": 344087,
+        "word": "这次极端暴雨怎么来的",
+        "onboard_time": 1753751723,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339635,
+        "num": 339635,
+        "word": "田曦薇将cos千金淑猫",
+        "onboard_time": 1753769001,
+        "rank": 8,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 250615,
+        "num": 339517,
+        "word": "女主播每天喝4杯冰奶茶突然失声",
+        "onboard_time": 1753766904,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1280922,
+        "num": 337757,
+        "word": "小英要离婚了",
+        "onboard_time": 1753760784,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 811366,
+        "num": 334419,
+        "word": "汪苏泷曾因口误连夜向容祖儿道歉",
+        "onboard_time": 1753766782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580202,
+        "num": 334147,
+        "word": "北京因灾死亡30人",
+        "onboard_time": 1753744518,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520112,
+        "num": 331752,
+        "word": "突然失去住持的少林寺戒备森严",
+        "onboard_time": 1753761144,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377715,
+        "num": 330565,
+        "word": "妈妈说我的labubu光着身体太寒碜",
+        "onboard_time": 1753766004,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329049,
+        "num": 329049,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302421,
+        "num": 302421,
+        "word": "热巴回复郭晓婷",
+        "onboard_time": 1753763786,
+        "rank": 16,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 257756,
+        "num": 299538,
+        "word": "孙红雷跳张艺兴的sheep",
+        "onboard_time": 1753769425,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243830,
+        "num": 299016,
+        "word": "汪苏泷方律师严正声明",
+        "onboard_time": 1753755862,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50699,
+        "num": 298927,
+        "word": "罗大美被害案一审择期宣判",
+        "onboard_time": 1753770742,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298892,
+        "num": 298892,
+        "word": "韩国87元一碗的排骨汤全是大肥肉",
+        "onboard_time": 1753764865,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 254366,
+        "num": 254366,
+        "word": "一家三口吃清洗过的鸡蛋后中毒",
+        "onboard_time": 1753756162,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240938,
+        "num": 240938,
+        "word": "苹果首次在中国关停直营店",
+        "onboard_time": 1753767444,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197176,
+        "num": 197176,
+        "word": "你猜关闭朋友圈一年会发生什么",
+        "onboard_time": 1753769124,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 193602,
+        "num": 193602,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1753763786,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 163691,
+        "num": 163691,
+        "word": "赴山海",
+        "onboard_time": 1753760964,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157538,
+        "num": 157538,
+        "word": "内娱吻戏请按这唇享1分钟来",
+        "onboard_time": 1753767624,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154243,
+        "num": 154243,
+        "word": "虞书欣cos焦糖拿铁",
+        "onboard_time": 1753762646,
+        "rank": 27,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 148395,
+        "num": 148395,
+        "word": "聚焦北京暴雨",
+        "onboard_time": 1753713386,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144805,
+        "num": 144805,
+        "word": "鹅组",
+        "onboard_time": 1753768585,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134019,
+        "num": 134019,
+        "word": "iPhone17Pro横向矩阵设计",
+        "onboard_time": 1753765105,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130183,
+        "num": 130183,
+        "word": "宋小宝回应白血病女孩私信",
+        "onboard_time": 1753767503,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119048,
+        "num": 119048,
+        "word": "孙千方回应与男友人共回家",
+        "onboard_time": 1753768044,
+        "rank": 32,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 116437,
+        "num": 116437,
+        "word": "北京大哥用铲斗端出80多条人命",
+        "onboard_time": 1753749924,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 115325,
+        "num": 115325,
+        "word": "日本女生最美上班照走红",
+        "onboard_time": 1753758623,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114501,
+        "num": 114501,
+        "word": "这一刻对沈月的聪明有了实感",
+        "onboard_time": 1753770502,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113539,
+        "num": 113539,
+        "word": "内娱智性恋选手上新了",
+        "onboard_time": 1753770865,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113359,
+        "num": 113359,
+        "word": "小英一天花10万",
+        "onboard_time": 1753768522,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90224,
+        "num": 113104,
+        "word": "赵磊帮老婆qko带货",
+        "onboard_time": 1753771282,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33839,
+        "num": 112958,
+        "word": "魏大勋 天选白雪公主",
+        "onboard_time": 1753770802,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112938,
+        "num": 112938,
+        "word": "成毅工作室再被前经纪公司起诉",
+        "onboard_time": 1753761084,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112479,
+        "num": 112479,
+        "word": "月租贷款",
+        "onboard_time": 1753763607,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110489,
+        "num": 110489,
+        "word": "李乃文昨天下楼今天扫楼",
+        "onboard_time": 1753771042,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109533,
+        "num": 109533,
+        "word": "金饰克价再跌破1000元大关",
+        "onboard_time": 1753769482,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109232,
+        "num": 109232,
+        "word": "陆星材刀斩labubu",
+        "onboard_time": 1753771103,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107684,
+        "num": 107684,
+        "word": "周杰伦武汉",
+        "onboard_time": 1753768044,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105694,
+        "num": 105694,
+        "word": "日本首相石破茂再次拒绝辞职",
+        "onboard_time": 1753769001,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104969,
+        "num": 104969,
+        "word": "杨洋 微博让你施法你就得施法",
+        "onboard_time": 1753769244,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104639,
+        "num": 104639,
+        "word": "好友称罗大美遇害后妹妹被迫长大",
+        "onboard_time": 1753768943,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104469,
+        "num": 104469,
+        "word": "大学生在校3个月瘦了60斤的变化",
+        "onboard_time": 1753771282,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#全力保障人民生命财产安全#"
+    }
+  }
+}

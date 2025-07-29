@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753768373356,
+  "endTime": 1753771311384,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 811366,
+      "num": 334419,
+      "word": "汪苏泷曾因口误连夜向容祖儿道歉",
+      "onboard_time": 1753766782,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 762028,
       "num": 181687,
       "word": "网易云取消张碧晨三首歌原唱",
@@ -129,14 +137,6 @@
       "onboard_time": 1753751723,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 697687,
-      "num": 325534,
-      "word": "汪苏泷曾因口误连夜向容祖儿道歉",
-      "onboard_time": 1753766782,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 623268,
@@ -161,6 +161,14 @@
       "onboard_time": 1753760483,
       "rank": 7,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 576050,
+      "num": 447518,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1753767503,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 544079,
@@ -201,6 +209,14 @@
       "onboard_time": 1753760964,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496490,
+      "num": 496490,
+      "word": "河北承德一镇因暴雨断联",
+      "onboard_time": 1753764926,
+      "rank": 26,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 494165,
@@ -251,6 +267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 442653,
+      "num": 442653,
+      "word": "天津蓟州爆发70年来最大山洪",
+      "onboard_time": 1753769663,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 442631,
       "num": 552811,
       "word": "定风波定档",
@@ -291,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403088,
-      "num": 251638,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1753767503,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 392220,
       "num": 347036,
       "word": "妈妈说我的labubu光着身体太寒碜",
@@ -313,6 +329,14 @@
       "onboard_time": 1753762044,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339635,
+      "num": 339635,
+      "word": "田曦薇将cos千金淑猫",
+      "onboard_time": 1753769001,
+      "rank": 8,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 337551,
@@ -361,6 +385,14 @@
       "onboard_time": 1753768044,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 298892,
+      "num": 298892,
+      "word": "韩国87元一碗的排骨汤全是大肥肉",
+      "onboard_time": 1753764865,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 298420,
@@ -427,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257756,
+      "num": 299538,
+      "word": "孙红雷跳张艺兴的sheep",
+      "onboard_time": 1753769425,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256855,
       "num": 256855,
       "word": "老一辈人总喜欢把臭鱼烂虾当人脉",
@@ -451,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250615,
+      "num": 339517,
+      "word": "女主播每天喝4杯冰奶茶突然失声",
+      "onboard_time": 1753766904,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250224,
       "num": 153331,
       "word": "霍启刚发文祝贺郭晶晶",
@@ -467,20 +515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240938,
+      "num": 240938,
+      "word": "苹果首次在中国关停直营店",
+      "onboard_time": 1753767444,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 236207,
       "num": 236207,
       "word": "北京大雨",
       "onboard_time": 1753712786,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230483,
-      "num": 259423,
-      "word": "河北承德一镇因暴雨断联",
-      "onboard_time": 1753764926,
-      "rank": 26,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 220755,
@@ -521,14 +569,6 @@
       "onboard_time": 1753717881,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 211467,
-      "num": 211467,
-      "word": "韩国87元一碗的排骨汤全是大肥肉",
-      "onboard_time": 1753764865,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 210765,
@@ -635,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200846,
-      "num": 200846,
-      "word": "苹果首次在中国关停直营店",
-      "onboard_time": 1753767444,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 198806,
       "num": 198806,
       "word": "北京最大降水量315毫米什么概念",
@@ -657,6 +689,14 @@
       "onboard_time": 1753758084,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197176,
+      "num": 197176,
+      "word": "你猜关闭朋友圈一年会发生什么",
+      "onboard_time": 1753769124,
+      "rank": 23,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 196341,
@@ -745,14 +785,6 @@
       "onboard_time": 1753763064,
       "rank": 38,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 184453,
-      "num": 184453,
-      "word": "女主播每天喝4杯冰奶茶突然失声",
-      "onboard_time": 1753766904,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179932,
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144805,
+      "num": 144805,
+      "word": "鹅组",
+      "onboard_time": 1753768585,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141329,
       "num": 141329,
       "word": "战至巅峰",
@@ -1075,6 +1115,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 130183,
+      "num": 130183,
+      "word": "宋小宝回应白血病女孩私信",
+      "onboard_time": 1753767503,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129088,
       "num": 129088,
       "word": "双曲线一号遥十运载火箭发射成功",
@@ -1131,12 +1179,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114501,
+      "num": 114501,
+      "word": "这一刻对沈月的聪明有了实感",
+      "onboard_time": 1753770502,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113826,
       "num": 113826,
       "word": "英国将承认巴勒斯坦国",
       "onboard_time": 1753750764,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113539,
+      "num": 113539,
+      "word": "内娱智性恋选手上新了",
+      "onboard_time": 1753770865,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113359,
+      "num": 113359,
+      "word": "小英一天花10万",
+      "onboard_time": 1753768522,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 113319,
@@ -1163,6 +1235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 110489,
+      "num": 110489,
+      "word": "李乃文昨天下楼今天扫楼",
+      "onboard_time": 1753771042,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110095,
       "num": 145052,
       "word": "小英喂药量杯不洗",
@@ -1185,6 +1265,22 @@
       "onboard_time": 1753756162,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109533,
+      "num": 109533,
+      "word": "金饰克价再跌破1000元大关",
+      "onboard_time": 1753769482,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 109232,
+      "num": 109232,
+      "word": "陆星材刀斩labubu",
+      "onboard_time": 1753771103,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 108307,
@@ -1211,12 +1307,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105694,
+      "num": 105694,
+      "word": "日本首相石破茂再次拒绝辞职",
+      "onboard_time": 1753769001,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105083,
       "num": 211301,
       "word": "河北一超市多名顾客强行开榴莲试吃",
       "onboard_time": 1753765285,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104969,
+      "num": 104969,
+      "word": "杨洋 微博让你施法你就得施法",
+      "onboard_time": 1753769244,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104639,
+      "num": 104639,
+      "word": "好友称罗大美遇害后妹妹被迫长大",
+      "onboard_time": 1753768943,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104469,
+      "num": 104469,
+      "word": "大学生在校3个月瘦了60斤的变化",
+      "onboard_time": 1753771282,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 103578,
@@ -1297,6 +1425,14 @@
       "onboard_time": 1753747764,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90224,
+      "num": 113104,
+      "word": "赵磊帮老婆qko带货",
+      "onboard_time": 1753771282,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 89843,
@@ -1539,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50699,
+      "num": 298927,
+      "word": "罗大美被害案一审择期宣判",
+      "onboard_time": 1753770742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50373,
       "num": 388634,
       "word": "预计当前至今晚8时北京降雨持续",
@@ -1577,6 +1721,14 @@
       "onboard_time": 1753731974,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33839,
+      "num": 112958,
+      "word": "魏大勋 天选白雪公主",
+      "onboard_time": 1753770802,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 31852,
