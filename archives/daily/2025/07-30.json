@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753808016155,
+  "endTime": 1753810135613,
   "band_list": [
     {
       "raw_hot": 1150359,
@@ -131,12 +131,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179282,
+      "num": 179282,
+      "word": "店员故意文丑眉强迫顾客升单获刑",
+      "onboard_time": 1753804763,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178716,
       "num": 178716,
       "word": "陈都灵内娱第一位饭拍路透破千万点赞",
       "onboard_time": 1753792702,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178078,
+      "num": 178078,
+      "word": "推动美方暂停的对等关税24%如期展期",
+      "onboard_time": 1753807101,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174824,
@@ -153,14 +169,6 @@
       "onboard_time": 1753803023,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161468,
-      "num": 161468,
-      "word": "推动美方暂停的对等关税24%如期展期",
-      "onboard_time": 1753807101,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159490,
@@ -201,6 +209,14 @@
       "onboard_time": 1753797026,
       "rank": 18,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 147147,
+      "num": 147147,
+      "word": "2025年赵默笙41岁",
+      "onboard_time": 1753806562,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 144996,
@@ -259,28 +275,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 107443,
-      "num": 107443,
-      "word": "店员故意文丑眉强迫顾客升单获刑",
-      "onboard_time": 1753804763,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106214,
       "num": 106214,
       "word": "大理上空现大量蜘蛛",
       "onboard_time": 1753802364,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102414,
-      "num": 109376,
-      "word": "2025年赵默笙41岁",
-      "onboard_time": 1753806562,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 102280,
@@ -403,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62160,
+      "num": 62160,
+      "word": "卫健委回应树林发现大量被丢弃药品",
+      "onboard_time": 1753808060,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61817,
       "num": 64690,
       "word": "恩利 谢谢爸爸照顾我的红屁股",
       "onboard_time": 1753796185,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58299,
+      "num": 66409,
+      "word": "成都地铁回应步梯防走光设计",
+      "onboard_time": 1753808778,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55640,
@@ -419,7 +435,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47762,
+      "raw_hot": 52383,
+      "num": 70370,
+      "word": "关晓彤跳了美美桑内",
+      "onboard_time": 1753797265,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51613,
       "num": 121801,
       "word": "孕妇遭有电诈前科亲戚诱骗失联6天",
       "onboard_time": 1753806740,
@@ -427,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35217,
+      "raw_hot": 49148,
       "num": 138244,
       "word": "副教授被精神病人杀害家属起诉人社局",
       "onboard_time": 1753806681,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39638,
+      "num": 55869,
+      "word": "赴山海因谣言延播属实太冤",
+      "onboard_time": 1753792282,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 9117,
@@ -446,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#扎实做好防汛抢险救灾各项工作#"
+    },
+    {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
     }
   ]
 }
