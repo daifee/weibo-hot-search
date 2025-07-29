@@ -1,7 +1,15 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753806955247,
+  "endTime": 1753808016155,
   "band_list": [
+    {
+      "raw_hot": 1150359,
+      "num": 194723,
+      "word": "亲爱的柳岩女士 时代跟上你了",
+      "onboard_time": 1753805963,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1115343,
       "num": 1115343,
@@ -11,20 +19,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 507398,
-      "num": 507398,
+      "raw_hot": 565052,
+      "num": 565052,
       "word": "成都地铁防走光设计",
       "onboard_time": 1753804883,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455787,
-      "num": 194723,
-      "word": "亲爱的柳岩女士 时代跟上你了",
-      "onboard_time": 1753805963,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 419670,
@@ -67,8 +67,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224491,
-      "num": 224491,
+      "raw_hot": 243812,
+      "num": 243812,
       "word": "床垫买成800元扔掉花了500元",
       "onboard_time": 1753804223,
       "rank": 5,
@@ -89,6 +89,14 @@
       "onboard_time": 1753797026,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 207389,
+      "num": 137826,
+      "word": "王楚钦孙颖莎巴黎混双夺金一周年",
+      "onboard_time": 1753807160,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 204945,
@@ -147,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161468,
+      "num": 161468,
+      "word": "推动美方暂停的对等关税24%如期展期",
+      "onboard_time": 1753807101,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 159490,
+      "num": 159490,
+      "word": "中美双方经贸团队将继续密切沟通",
+      "onboard_time": 1753807400,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 158583,
       "num": 139145,
       "word": "维生素D真的很神奇",
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 157306,
-      "num": 135318,
+      "num": 137532,
       "word": "女子得知弟媳被家暴怒扇亲弟弟",
       "onboard_time": 1753791202,
       "rank": 25,
@@ -195,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141141,
+      "num": 141141,
+      "word": "刘浩存主角路透",
+      "onboard_time": 1753806142,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134836,
       "num": 134836,
       "word": "这版周冬雨美我一大跳",
@@ -209,14 +241,6 @@
       "onboard_time": 1753783763,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126376,
-      "num": 126376,
-      "word": "刘浩存主角路透",
-      "onboard_time": 1753806142,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 111270,
@@ -235,12 +259,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107443,
+      "num": 107443,
+      "word": "店员故意文丑眉强迫顾客升单获刑",
+      "onboard_time": 1753804763,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106214,
       "num": 106214,
       "word": "大理上空现大量蜘蛛",
       "onboard_time": 1753802364,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102414,
+      "num": 109376,
+      "word": "2025年赵默笙41岁",
+      "onboard_time": 1753806562,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102280,
@@ -257,14 +297,6 @@
       "onboard_time": 1753793121,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98548,
-      "num": 98548,
-      "word": "店员故意文丑眉强迫顾客升单获刑",
-      "onboard_time": 1753804763,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98352,
@@ -347,20 +379,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79866,
+      "num": 79866,
+      "word": "张艺兴送京东外卖",
+      "onboard_time": 1753781663,
+      "rank": 40,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 78175,
       "num": 81507,
       "word": "印乐法师曾表示不评价少林寺商业化",
       "onboard_time": 1753801404,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77413,
-      "num": 81507,
-      "word": "2025年赵默笙41岁",
-      "onboard_time": 1753806562,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 63800,
@@ -371,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61817,
+      "num": 64690,
+      "word": "恩利 谢谢爸爸照顾我的红屁股",
+      "onboard_time": 1753796185,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55640,
       "num": 81508,
       "word": "峨眉山骡子负重爬石阶引争议",
@@ -379,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38947,
+      "raw_hot": 47762,
       "num": 121801,
       "word": "孕妇遭有电诈前科亲戚诱骗失联6天",
       "onboard_time": 1753806740,
@@ -387,8 +427,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20180,
-      "num": 136603,
+      "raw_hot": 35217,
+      "num": 138244,
       "word": "副教授被精神病人杀害家属起诉人社局",
       "onboard_time": 1753806681,
       "rank": 24,
