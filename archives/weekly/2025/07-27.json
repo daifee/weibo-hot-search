@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753765590010,
+  "endTime": 1753767371557,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -915,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 618121,
+      "num": 618121,
+      "word": "三甲医院医生谈李晟岔腿坐是有益的",
+      "onboard_time": 1753764265,
+      "rank": 16,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 616757,
       "num": 616757,
       "word": "主播查补税款30多亿元",
@@ -1227,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 484168,
+      "num": 650483,
+      "word": "河北滦平强降雨已致8人死亡",
+      "onboard_time": 1753765885,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 483612,
       "num": 414648,
       "word": "孙千彭冠英 早春晴朗",
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392220,
+      "num": 347036,
+      "word": "妈妈说我的labubu光着身体太寒碜",
+      "onboard_time": 1753766004,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388414,
       "num": 388414,
       "word": "吉克隽逸隔空喊话汪苏泷",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1753600341,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381235,
-      "num": 381235,
-      "word": "三甲医院医生谈李晟岔腿坐是有益的",
-      "onboard_time": 1753764265,
-      "rank": 16,
-      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 378246,
@@ -1785,6 +1801,14 @@
       "onboard_time": 1753572738,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325534,
+      "num": 325534,
+      "word": "汪苏泷曾因口误连夜向容祖儿道歉",
+      "onboard_time": 1753766782,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 323458,
@@ -2049,6 +2073,14 @@
       "onboard_time": 1753606282,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276429,
+      "num": 276429,
+      "word": "虞书欣cos焦糖拿铁",
+      "onboard_time": 1753762646,
+      "rank": 27,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 276198,
@@ -2339,6 +2371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242460,
+      "num": 452444,
+      "word": "北京暴雨武警一夜搬10万个沙袋",
+      "onboard_time": 1753764685,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241409,
       "num": 241409,
       "word": "大学生月薪18000住家保姆的一天",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1753594283,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235929,
-      "num": 260263,
-      "word": "虞书欣cos焦糖拿铁",
-      "onboard_time": 1753762646,
-      "rank": 27,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 234433,
@@ -2569,14 +2601,6 @@
       "onboard_time": 1753697783,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218711,
-      "num": 452444,
-      "word": "北京暴雨武警一夜搬10万个沙袋",
-      "onboard_time": 1753764685,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218407,
@@ -2931,6 +2955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201252,
+      "num": 201252,
+      "word": "阴阳师",
+      "onboard_time": 1753767084,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201015,
       "num": 258093,
       "word": "入青云",
@@ -3073,6 +3105,14 @@
       "onboard_time": 1753629266,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196341,
+      "num": 196341,
+      "word": "化妆2小时脱妆5分钟的季节又到了",
+      "onboard_time": 1753766483,
+      "rank": 28,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 196133,
@@ -4667,6 +4707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150485,
+      "num": 150485,
+      "word": "为什么油皮更容易晒老晒黑",
+      "onboard_time": 1753767264,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 150413,
       "num": 150413,
       "word": "74岁张纪中坐过山车被拒",
@@ -5099,6 +5147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141329,
+      "num": 141329,
+      "word": "战至巅峰",
+      "onboard_time": 1753766844,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141004,
       "num": 141004,
       "word": "陈鲁豫说易烊千玺双会齐飞",
@@ -5315,6 +5371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 135375,
+      "num": 141342,
+      "word": "李凯馨工作人员被判赔偿",
+      "onboard_time": 1753765824,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135173,
       "num": 140279,
       "word": "田曦薇一秒入戏",
@@ -5409,6 +5473,14 @@
       "onboard_time": 1753629206,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133990,
+      "num": 133990,
+      "word": "女主播每天喝4杯冰奶茶突然失声",
+      "onboard_time": 1753766904,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133973,
@@ -5731,6 +5803,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 127285,
+      "num": 127285,
+      "word": "刘宇宁连续多年悼念已故粉丝",
+      "onboard_time": 1753766844,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126976,
       "num": 126976,
       "word": "切开的西瓜能冷藏多久",
@@ -5785,6 +5865,14 @@
       "onboard_time": 1753594943,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125160,
+      "num": 125160,
+      "word": "适合脑袋空空的人做的工作",
+      "onboard_time": 1753767084,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125052,
@@ -6033,6 +6121,14 @@
       "onboard_time": 1753602562,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120229,
+      "num": 124122,
+      "word": "月租贷款",
+      "onboard_time": 1753763607,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119735,
@@ -6299,6 +6395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113319,
+      "num": 141789,
+      "word": "哈马斯暴力制止加沙人领取物资",
+      "onboard_time": 1753766483,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113137,
       "num": 113137,
       "word": "北京平谷区5座水库正在泄水",
@@ -6505,6 +6609,14 @@
       "onboard_time": 1753610961,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107201,
+      "num": 141537,
+      "word": "金世佳低声些这难道光彩吗",
+      "onboard_time": 1753764387,
+      "rank": 39,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 107079,
@@ -6937,6 +7049,14 @@
       "onboard_time": 1753578202,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 89843,
+      "num": 231656,
+      "word": "12306回应卧铺车厢里跳广场舞",
+      "onboard_time": 1753765344,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89288,
@@ -7785,14 +7905,6 @@
       "onboard_time": 1753637237,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37491,
-      "num": 231656,
-      "word": "12306回应卧铺车厢里跳广场舞",
-      "onboard_time": 1753765344,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37146,
