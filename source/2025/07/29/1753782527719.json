@@ -1,0 +1,410 @@
+{
+  "runTime": 1753782527719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2091510,
+        "num": 2091510,
+        "word": "印乐法师任少林寺住持",
+        "onboard_time": 1753778962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1220235,
+        "num": 1220235,
+        "word": "成都冰雹",
+        "onboard_time": 1753780224,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81242,
+        "num": 618366,
+        "word": "国内首个通过人机辩论图灵测试大模型",
+        "onboard_time": 1753779622,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598653,
+        "num": 598653,
+        "word": "傅首尔爆改做自己的女王",
+        "onboard_time": 1753779082,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450793,
+        "num": 450793,
+        "word": "世界之外",
+        "onboard_time": 1753781424,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442452,
+        "num": 442452,
+        "word": "会计挪用294万获利1600退休后被判刑",
+        "onboard_time": 1753774524,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393114,
+        "num": 393114,
+        "word": "宝妈卖劳力士收32万后银行卡被冻结",
+        "onboard_time": 1753780282,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385796,
+        "num": 385796,
+        "word": "天津蓟州爆发70年来最大山洪",
+        "onboard_time": 1753769663,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 381163,
+        "num": 381163,
+        "word": "成都暴雨",
+        "onboard_time": 1753780344,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242103,
+        "num": 380180,
+        "word": "印乐法师曾是洛阳白马寺方丈",
+        "onboard_time": 1753780884,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1143660,
+        "num": 373507,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1753776982,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 655509,
+        "num": 362125,
+        "word": "华晨宇告泥塑娱乐博主胜诉",
+        "onboard_time": 1753778182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591324,
+        "num": 358209,
+        "word": "小英要离婚了",
+        "onboard_time": 1753760784,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250445,
+        "num": 350858,
+        "word": "这游戏别让时代峰峻看到了",
+        "onboard_time": 1753778603,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281356,
+        "num": 344558,
+        "word": "张艺兴送京东外卖",
+        "onboard_time": 1753781663,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 534071,
+        "num": 337450,
+        "word": "只有瘦的人知道自己底子有多差",
+        "onboard_time": 1753776743,
+        "rank": 15,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 336667,
+        "num": 336667,
+        "word": "难怪没吃过透明的荔枝",
+        "onboard_time": 1753778543,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 288518,
+        "num": 288518,
+        "word": "孙颖莎驰援京津冀洪涝灾区",
+        "onboard_time": 1753781843,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242591,
+        "num": 270304,
+        "word": "龚俊 当初张艺兴都没敢锁孙红雷喉",
+        "onboard_time": 1753773442,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23389,
+        "num": 268936,
+        "word": "用铲斗救出上百人北京大哥发声",
+        "onboard_time": 1753781481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267604,
+        "num": 267604,
+        "word": "27岁存款30万从体制内辞职了",
+        "onboard_time": 1753781182,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 262820,
+        "num": 262820,
+        "word": "男子网购退货私吞800件赠品",
+        "onboard_time": 1753772003,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255283,
+        "num": 255283,
+        "word": "上海台风",
+        "onboard_time": 1753780520,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236897,
+        "num": 236897,
+        "word": "汪苏泷曾因口误连夜向容祖儿道歉",
+        "onboard_time": 1753766782,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222202,
+        "num": 222202,
+        "word": "想替王一博报警",
+        "onboard_time": 1753779383,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196364,
+        "num": 196364,
+        "word": "赵晴今天扫楼感觉瘦了好多",
+        "onboard_time": 1753780824,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191407,
+        "num": 191407,
+        "word": "孙颖莎捐款",
+        "onboard_time": 1753782144,
+        "rank": 26,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 177117,
+        "num": 177117,
+        "word": "突然失去住持的少林寺戒备森严",
+        "onboard_time": 1753761144,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156376,
+        "num": 169954,
+        "word": "南宫婉选角",
+        "onboard_time": 1753773983,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141088,
+        "num": 168415,
+        "word": "杨洋李乃文全方面搞砸",
+        "onboard_time": 1753772063,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167607,
+        "num": 167607,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161692,
+        "num": 161692,
+        "word": "河北滦平强降雨已致8人死亡",
+        "onboard_time": 1753765885,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 151332,
+        "num": 151332,
+        "word": "男子开锁坐地起价遭拒将母女2人反锁",
+        "onboard_time": 1753777222,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131224,
+        "num": 131224,
+        "word": "设计师夫妻转行卖咖啡月入10万",
+        "onboard_time": 1753782022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102634,
+        "num": 127556,
+        "word": "工作暂停要跟周深回家过节了",
+        "onboard_time": 1753781962,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101728,
+        "num": 126975,
+        "word": "TIMA上唯一的内娱男团",
+        "onboard_time": 1753779203,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126718,
+        "num": 126718,
+        "word": "北京暴雨孕妇被困直升机接力送医",
+        "onboard_time": 1753777942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125597,
+        "num": 125597,
+        "word": "iPhone17Pro原型机曝光",
+        "onboard_time": 1753758084,
+        "rank": 37,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 102992,
+        "num": 116817,
+        "word": "我承认之前对杨洋大声了点",
+        "onboard_time": 1753780585,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99316,
+        "num": 115588,
+        "word": "李晟罗予彤浪姐舞台耳返没声音",
+        "onboard_time": 1753780282,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115380,
+        "num": 115380,
+        "word": "女主播每天喝4杯冰奶茶突然失声",
+        "onboard_time": 1753766904,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98439,
+        "num": 98439,
+        "word": "利剑玫瑰 人贩子黑话",
+        "onboard_time": 1753782323,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97597,
+        "num": 97597,
+        "word": "田曦薇将cos千金淑猫",
+        "onboard_time": 1753769001,
+        "rank": 42,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 95951,
+        "num": 95951,
+        "word": "男子被流浪狗绊倒泄愤刺死路过老太",
+        "onboard_time": 1753779684,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92800,
+        "num": 92800,
+        "word": "豆瓣八组",
+        "onboard_time": 1753781962,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91431,
+        "num": 91431,
+        "word": "35岁两次患晚期癌症她说自己是种代价",
+        "onboard_time": 1753773264,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91151,
+        "num": 91151,
+        "word": "厦门大学的食堂建议本好可爱",
+        "onboard_time": 1753776562,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89470,
+        "num": 89470,
+        "word": "不会挂专家号的看这个就够了",
+        "onboard_time": 1753782502,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86336,
+        "num": 86336,
+        "word": "研究的尽头是玄学",
+        "onboard_time": 1753781723,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 86290,
+        "num": 86290,
+        "word": "王星越我鬼混回来了",
+        "onboard_time": 1753779264,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}
