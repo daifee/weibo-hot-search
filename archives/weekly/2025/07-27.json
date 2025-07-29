@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753757820696,
+  "endTime": 1753762367931,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -49,6 +49,14 @@
       "onboard_time": 1753700003,
       "rank": 0,
       "category": "音乐,互联网"
+    },
+    {
+      "raw_hot": 2564331,
+      "num": 550001,
+      "word": "小英要离婚了",
+      "onboard_time": 1753760784,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2420501,
@@ -177,6 +185,14 @@
       "onboard_time": 1753621886,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1476023,
+      "num": 1476023,
+      "word": "iPhone17Pro原型机曝光",
+      "onboard_time": 1753758084,
+      "rank": 0,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 1301109,
@@ -385,6 +401,14 @@
       "onboard_time": 1753665083,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 973853,
+      "num": 536665,
+      "word": "日本女生最美上班照走红",
+      "onboard_time": 1753758623,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 970864,
@@ -819,6 +843,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 631644,
+      "num": 631644,
+      "word": "美团拼好饭",
+      "onboard_time": 1753759584,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 630384,
       "num": 630384,
       "word": "广州地铁通报一乘客突发异常行为",
@@ -921,6 +953,14 @@
       "onboard_time": 1753628784,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 581705,
+      "num": 581705,
+      "word": "易烊千玺二开",
+      "onboard_time": 1753760483,
+      "rank": 7,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 580645,
@@ -1035,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527415,
+      "num": 527415,
+      "word": "金价四连跌",
+      "onboard_time": 1753756881,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 526406,
       "num": 526406,
       "word": "李炜 版权可聊",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1753590020,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 502906,
+      "num": 502906,
+      "word": "突然失去住持的少林寺戒备森严",
+      "onboard_time": 1753761144,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502404,
@@ -1243,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 442631,
+      "num": 552811,
+      "word": "定风波定档",
+      "onboard_time": 1753757363,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439518,
       "num": 439518,
       "word": "无人机向北京灾区空投面包火腿肠",
@@ -1276,7 +1340,7 @@
     },
     {
       "raw_hot": 433619,
-      "num": 256858,
+      "num": 271179,
       "word": "吴艳妮称说我整容代表我好看",
       "onboard_time": 1753754603,
       "rank": 20,
@@ -1579,14 +1643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 350434,
-      "num": 350434,
-      "word": "金价四连跌",
-      "onboard_time": 1753756881,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 350224,
       "num": 350224,
       "word": "董璇张维伊 黄牛变爱人",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1753672344,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322109,
+      "num": 322109,
+      "word": "密云因灾死亡28人",
+      "onboard_time": 1753760784,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321023,
@@ -1819,12 +1883,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 293275,
+      "num": 524825,
+      "word": "白鹿专辑",
+      "onboard_time": 1753760604,
+      "rank": 15,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 293231,
       "num": 211562,
       "word": "最疯狂的缅甸度过最惊魂的一夜",
       "onboard_time": 1753749265,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 290222,
+      "num": 521437,
+      "word": "赴山海",
+      "onboard_time": 1753760964,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 288878,
@@ -1979,6 +2059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 269333,
+      "num": 269333,
+      "word": "被调剂到图书情报专业了",
+      "onboard_time": 1753760964,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 268289,
       "num": 268289,
       "word": "花千骨和三生三世十里桃花哪个更爆",
@@ -2097,6 +2185,14 @@
       "onboard_time": 1753629145,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252770,
+      "num": 505295,
+      "word": "成毅工作室再被前经纪公司起诉",
+      "onboard_time": 1753761084,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 252590,
@@ -2603,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207063,
+      "num": 514330,
+      "word": "华北本轮强降雨何时结束",
+      "onboard_time": 1753761986,
+      "rank": 17,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 206613,
       "num": 206613,
       "word": "这才是真实的冷宫",
@@ -2649,6 +2753,14 @@
       "onboard_time": 1753684583,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203914,
+      "num": 203914,
+      "word": "凡人修仙传新浪扫楼",
+      "onboard_time": 1753761203,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 203261,
@@ -2779,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197963,
+      "num": 197963,
+      "word": "育儿补贴线上线下都可办理",
+      "onboard_time": 1753758084,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197884,
       "num": 197884,
       "word": "张泽禹红苹果队队长报道",
@@ -2817,6 +2937,14 @@
       "onboard_time": 1753629266,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196133,
+      "num": 196133,
+      "word": "台风",
+      "onboard_time": 1753630105,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196088,
@@ -3035,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189089,
+      "num": 511227,
+      "word": "与你同行的力量",
+      "onboard_time": 1753761866,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188966,
       "num": 344912,
       "word": "山东泰山主场上万名球迷现场助威",
@@ -3169,6 +3305,14 @@
       "onboard_time": 1753604063,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184473,
+      "num": 184473,
+      "word": "民航版12306直销机票来了",
+      "onboard_time": 1753762044,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184055,
@@ -3312,6 +3456,14 @@
       "word": "何超仪老公再次病重",
       "onboard_time": 1753675703,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178086,
+      "num": 178086,
+      "word": "蔡徐坤TikTok更新",
+      "onboard_time": 1753760903,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -3491,6 +3643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172048,
+      "num": 172048,
+      "word": "谁懂迪丽热巴戴耳麦这一下",
+      "onboard_time": 1753760425,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171869,
       "num": 171869,
       "word": "没抢到千玺门票的我被哄好了",
@@ -3579,6 +3739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169571,
+      "num": 169571,
+      "word": "金与正表示朝鲜拥核国地位不可逆转",
+      "onboard_time": 1753760303,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169373,
       "num": 169373,
       "word": "樱木花道",
@@ -3608,6 +3776,14 @@
       "word": "凡人修仙传两岸三地全明星阵容",
       "onboard_time": 1753594524,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168563,
+      "num": 168563,
+      "word": "赴山海剧方辟谣",
+      "onboard_time": 1753761805,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -3681,6 +3857,14 @@
       "onboard_time": 1753543526,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 165098,
+      "num": 189675,
+      "word": "南波万派对",
+      "onboard_time": 1753757543,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 165040,
@@ -3795,14 +3979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162077,
-      "num": 189913,
-      "word": "定风波定档",
-      "onboard_time": 1753757363,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161983,
       "num": 161983,
       "word": "闪耀暖暖",
@@ -3857,6 +4033,14 @@
       "onboard_time": 1753589601,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160912,
+      "num": 160912,
+      "word": "筷子 霉菌",
+      "onboard_time": 1753759943,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160563,
@@ -4112,14 +4296,6 @@
       "word": "鹿晗高瀚宇扫腿舞",
       "onboard_time": 1753751965,
       "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 155067,
-      "num": 189675,
-      "word": "南波万派对",
-      "onboard_time": 1753757543,
-      "rank": 29,
       "category": "演出"
     },
     {
@@ -4523,6 +4699,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 145682,
+      "num": 145682,
+      "word": "李艾看爸爸当家哭到卸了个妆",
+      "onboard_time": 1753761565,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145433,
       "num": 145433,
       "word": "定风波",
@@ -4833,6 +5017,14 @@
       "onboard_time": 1753708945,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138296,
+      "num": 142421,
+      "word": "光与夜之恋 KFC",
+      "onboard_time": 1753759943,
+      "rank": 49,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 138271,
@@ -5811,14 +6003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114757,
-      "num": 114757,
-      "word": "台风",
-      "onboard_time": 1753630105,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114746,
       "num": 114746,
       "word": "沈腾平等殴打每位沈精兵",
@@ -6747,6 +6931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80471,
+      "num": 169030,
+      "word": "收费站口几十辆老头乐排队上高速",
+      "onboard_time": 1753762285,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77838,
       "num": 77838,
       "word": "警方拦截违规运猫车救下900余只猫",
@@ -6897,6 +7089,14 @@
       "onboard_time": 1753588281,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69907,
+      "num": 161077,
+      "word": "魏如萱道歉",
+      "onboard_time": 1753762344,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 68831,
@@ -7187,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49212,
+      "num": 162228,
+      "word": "一碗烩面外卖与堂食价差达10元",
+      "onboard_time": 1753762344,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49089,
       "num": 259822,
       "word": "少林景区正常开放",
@@ -7441,6 +7649,14 @@
       "onboard_time": 1753600524,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32670,
+      "num": 172410,
+      "word": "预计当前至今晚8时北京降雨持续",
+      "onboard_time": 1753762285,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31624,

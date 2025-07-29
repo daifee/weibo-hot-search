@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753757820696,
+  "endTime": 1753762367931,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -577,6 +577,14 @@
       "onboard_time": 1751609542,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2564331,
+      "num": 550001,
+      "word": "小英要离婚了",
+      "onboard_time": 1753760784,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 2549402,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1752116782,
       "rank": 3,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1476023,
+      "num": 1476023,
+      "word": "iPhone17Pro原型机曝光",
+      "onboard_time": 1753758084,
+      "rank": 0,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 1475053,
@@ -4793,6 +4809,14 @@
       "onboard_time": 1753086202,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 973853,
+      "num": 536665,
+      "word": "日本女生最美上班照走红",
+      "onboard_time": 1753758623,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 973396,
@@ -9779,6 +9803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 631644,
+      "num": 631644,
+      "word": "美团拼好饭",
+      "onboard_time": 1753759584,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 631253,
       "num": 212093,
       "word": "何老师哽咽了",
@@ -11001,6 +11033,14 @@
       "onboard_time": 1752212362,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581705,
+      "num": 581705,
+      "word": "易烊千玺二开",
+      "onboard_time": 1753760483,
+      "rank": 7,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 581324,
@@ -12443,6 +12483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527415,
+      "num": 527415,
+      "word": "金价四连跌",
+      "onboard_time": 1753756881,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 527139,
       "num": 422401,
       "word": "陈梦妈妈嗑上女儿的糖了",
@@ -13249,6 +13297,14 @@
       "onboard_time": 1752448460,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 502906,
+      "num": 502906,
+      "word": "突然失去住持的少林寺戒备森严",
+      "onboard_time": 1753761144,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502805,
@@ -15211,6 +15267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442631,
+      "num": 552811,
+      "word": "定风波定档",
+      "onboard_time": 1753757363,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441939,
       "num": 441939,
       "word": "缅北白家明家覆灭时间线",
@@ -15404,7 +15468,7 @@
     },
     {
       "raw_hot": 435187,
-      "num": 435187,
+      "num": 521437,
       "word": "赴山海",
       "onboard_time": 1751880202,
       "rank": 24,
@@ -15452,7 +15516,7 @@
     },
     {
       "raw_hot": 433619,
-      "num": 256858,
+      "num": 271179,
       "word": "吴艳妮称说我整容代表我好看",
       "onboard_time": 1753754603,
       "rank": 20,
@@ -19059,14 +19123,6 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 350434,
-      "num": 350434,
-      "word": "金价四连跌",
-      "onboard_time": 1753756881,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 350423,
       "num": 350422,
       "word": "杨幂不带小糯米上节目的原因",
@@ -20809,6 +20865,14 @@
       "onboard_time": 1752322522,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 322109,
+      "num": 322109,
+      "word": "密云因灾死亡28人",
+      "onboard_time": 1753760784,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322081,
@@ -22689,6 +22753,14 @@
       "onboard_time": 1751723906,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293275,
+      "num": 524825,
+      "word": "白鹿专辑",
+      "onboard_time": 1753760604,
+      "rank": 15,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 293231,
@@ -24747,6 +24819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269333,
+      "num": 269333,
+      "word": "被调剂到图书情报专业了",
+      "onboard_time": 1753760964,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 269185,
       "num": 260280,
       "word": "剑桥大学偶遇任嘉伦",
@@ -26305,6 +26385,14 @@
       "onboard_time": 1753629145,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252770,
+      "num": 505295,
+      "word": "成毅工作室再被前经纪公司起诉",
+      "onboard_time": 1753761084,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 252590,
@@ -32571,6 +32659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207063,
+      "num": 514330,
+      "word": "华北本轮强降雨何时结束",
+      "onboard_time": 1753761986,
+      "rank": 17,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 206920,
       "num": 206920,
       "word": "展轩真诚",
@@ -33353,6 +33449,14 @@
       "onboard_time": 1752117741,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 203914,
+      "num": 203914,
+      "word": "凡人修仙传新浪扫楼",
+      "onboard_time": 1753761203,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 203899,
@@ -35161,6 +35265,14 @@
       "onboard_time": 1751609962,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197963,
+      "num": 197963,
+      "word": "育儿补贴线上线下都可办理",
+      "onboard_time": 1753758084,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197926,
@@ -37955,6 +38067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189089,
+      "num": 511227,
+      "word": "与你同行的力量",
+      "onboard_time": 1753761866,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189054,
       "num": 189054,
       "word": "外卖商战别只盯着免费奶茶了",
@@ -39401,6 +39521,14 @@
       "onboard_time": 1753604063,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184473,
+      "num": 184473,
+      "word": "民航版12306直销机票来了",
+      "onboard_time": 1753762044,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184453,
@@ -41193,6 +41321,14 @@
       "onboard_time": 1753540287,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178086,
+      "num": 178086,
+      "word": "蔡徐坤TikTok更新",
+      "onboard_time": 1753760903,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 178044,
@@ -43283,6 +43419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172048,
+      "num": 172048,
+      "word": "谁懂迪丽热巴戴耳麦这一下",
+      "onboard_time": 1753760425,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172035,
       "num": 172035,
       "word": "肖战寄语两岸青年",
@@ -44075,6 +44219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169571,
+      "num": 169571,
+      "word": "金与正表示朝鲜拥核国地位不可逆转",
+      "onboard_time": 1753760303,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169559,
       "num": 169559,
       "word": "于正闲鱼收到了四万份简历",
@@ -44368,6 +44520,14 @@
       "word": "书卷一梦剧中剧中剧",
       "onboard_time": 1752246324,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168563,
+      "num": 168563,
+      "word": "赴山海剧方辟谣",
+      "onboard_time": 1753761805,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -45507,6 +45667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165098,
+      "num": 189675,
+      "word": "南波万派对",
+      "onboard_time": 1753757543,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165054,
       "num": 165054,
       "word": "剑网3",
@@ -46547,14 +46715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 162077,
-      "num": 189913,
-      "word": "定风波定档",
-      "onboard_time": 1753757363,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162067,
       "num": 162067,
       "word": "成本9毛做了13个菜",
@@ -46993,6 +47153,14 @@
       "onboard_time": 1752849324,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160912,
+      "num": 160912,
+      "word": "筷子 霉菌",
+      "onboard_time": 1753759943,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160787,
@@ -49361,14 +49529,6 @@
       "onboard_time": 1751704161,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155067,
-      "num": 189675,
-      "word": "南波万派对",
-      "onboard_time": 1753757543,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 155033,
@@ -53435,6 +53595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145682,
+      "num": 145682,
+      "word": "李艾看爸爸当家哭到卸了个妆",
+      "onboard_time": 1753761565,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145539,
       "num": 153153,
       "word": "李兰迪古早名门贵女",
@@ -56897,6 +57065,14 @@
       "onboard_time": 1753372345,
       "rank": 26,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 138296,
+      "num": 142421,
+      "word": "光与夜之恋 KFC",
+      "onboard_time": 1753759943,
+      "rank": 49,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 138282,
@@ -82515,6 +82691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80471,
+      "num": 169030,
+      "word": "收费站口几十辆老头乐排队上高速",
+      "onboard_time": 1753762285,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80306,
       "num": 194141,
       "word": "33生活是个动词",
@@ -84449,6 +84633,14 @@
       "onboard_time": 1751875281,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69907,
+      "num": 161077,
+      "word": "魏如萱道歉",
+      "onboard_time": 1753762344,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 69886,
@@ -88395,6 +88587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49212,
+      "num": 162228,
+      "word": "一碗烩面外卖与堂食价差达10元",
+      "onboard_time": 1753762344,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49184,
       "num": 252285,
       "word": "苏超十佳球",
@@ -92001,6 +92201,14 @@
       "onboard_time": 1751730086,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32670,
+      "num": 172410,
+      "word": "预计当前至今晚8时北京降雨持续",
+      "onboard_time": 1753762285,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32657,
