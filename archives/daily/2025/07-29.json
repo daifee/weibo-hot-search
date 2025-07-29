@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753785069381,
+  "endTime": 1753786182609,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1295946,
-      "num": 375129,
+      "num": 496431,
       "word": "妈我已经过了需要你的年龄了",
       "onboard_time": 1753776982,
       "rank": 20,
@@ -83,20 +83,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1179091,
+      "num": 1188654,
+      "word": "宝妈卖劳力士收32万后银行卡被冻结",
+      "onboard_time": 1753780282,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1164370,
       "num": 224743,
       "word": "全红婵近照",
       "onboard_time": 1753717042,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1111934,
-      "num": 1177909,
-      "word": "宝妈卖劳力士收32万后银行卡被冻结",
-      "onboard_time": 1753780282,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1105257,
@@ -155,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 847958,
+      "num": 500793,
+      "word": "白鹿晒照给闺蜜庆生",
+      "onboard_time": 1753784363,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846280,
       "num": 846280,
       "word": "美团拼好饭",
@@ -196,11 +204,19 @@
     },
     {
       "raw_hot": 733198,
-      "num": 370772,
+      "num": 455053,
       "word": "华晨宇告泥塑娱乐博主胜诉",
       "onboard_time": 1753778182,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 721205,
+      "num": 721205,
+      "word": "肠粉 硼砂",
+      "onboard_time": 1753782981,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 700279,
@@ -259,6 +275,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 561069,
+      "num": 481822,
+      "word": "27岁存款30万从体制内辞职了",
+      "onboard_time": 1753781182,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 558665,
       "num": 558665,
       "word": "龚俊 当初张艺兴都没敢锁孙红雷喉",
@@ -297,6 +321,14 @@
       "onboard_time": 1753756881,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 525927,
+      "num": 525927,
+      "word": "难怪没吃过透明的荔枝",
+      "onboard_time": 1753778543,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 524737,
@@ -379,14 +411,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 452225,
-      "num": 452225,
-      "word": "难怪没吃过透明的荔枝",
-      "onboard_time": 1753778543,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 442631,
       "num": 552811,
       "word": "定风波定档",
@@ -451,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 381676,
-      "num": 352356,
-      "word": "27岁存款30万从体制内辞职了",
-      "onboard_time": 1753781182,
-      "rank": 30,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 381163,
       "num": 381163,
       "word": "成都暴雨",
@@ -481,14 +497,6 @@
       "onboard_time": 1753773264,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 357782,
-      "num": 357782,
-      "word": "肠粉 硼砂",
-      "onboard_time": 1753782981,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337756,
@@ -555,12 +563,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310915,
+      "num": 310915,
+      "word": "豆瓣八组",
+      "onboard_time": 1753781962,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 305429,
-      "num": 350858,
+      "num": 462969,
       "word": "这游戏别让时代峰峻看到了",
       "onboard_time": 1753778603,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301891,
+      "num": 395963,
+      "word": "少林寺通报新住持任职",
+      "onboard_time": 1753782863,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298892,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 281356,
-      "num": 405515,
+      "num": 457486,
       "word": "张艺兴送京东外卖",
       "onboard_time": 1753781663,
       "rank": 14,
@@ -651,6 +675,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 259024,
+      "num": 523246,
+      "word": "赵晴今天扫楼感觉瘦了好多",
+      "onboard_time": 1753780824,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258266,
       "num": 258266,
       "word": "谍报上不封顶",
@@ -683,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253567,
-      "num": 253567,
-      "word": "豆瓣八组",
-      "onboard_time": 1753781962,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 252770,
       "num": 505295,
       "word": "成毅工作室再被前经纪公司起诉",
@@ -715,20 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249372,
-      "num": 249372,
-      "word": "白鹿晒照给闺蜜庆生",
-      "onboard_time": 1753784363,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248986,
       "num": 248986,
       "word": "洪水冲走千万金饰好心人送回1kg",
       "onboard_time": 1753777282,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247046,
+      "num": 247046,
+      "word": "内娱惊为天人的帅哥",
+      "onboard_time": 1753783763,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 242460,
@@ -955,20 +979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200567,
+      "num": 200567,
+      "word": "肖战高情商是怎样炼成的",
+      "onboard_time": 1753783163,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198806,
       "num": 198806,
       "word": "北京最大降水量315毫米什么概念",
       "onboard_time": 1753738094,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198060,
-      "num": 321570,
-      "word": "赵晴今天扫楼感觉瘦了好多",
-      "onboard_time": 1753780824,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 197963,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1753715724,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188442,
+      "num": 188442,
+      "word": "南波万一下聚齐了八个人",
+      "onboard_time": 1753785742,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 186845,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1753768522,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 171611,
-      "num": 171611,
-      "word": "内娱惊为天人的帅哥",
-      "onboard_time": 1753783763,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 171358,
@@ -1363,6 +1387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157126,
+      "num": 320094,
+      "word": "车辆被暴雨冲走能申请全款赔偿吗",
+      "onboard_time": 1753781602,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156112,
+      "num": 156112,
+      "word": "33冷酷情绪写真",
+      "onboard_time": 1753785143,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155220,
       "num": 155220,
       "word": "鹿晗高瀚宇扫腿舞",
@@ -1409,14 +1449,6 @@
       "onboard_time": 1753749204,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149329,
-      "num": 149329,
-      "word": "肖战高情商是怎样炼成的",
-      "onboard_time": 1753783163,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 149167,
@@ -1491,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145348,
-      "num": 395963,
-      "word": "少林寺通报新住持任职",
-      "onboard_time": 1753782863,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145252,
       "num": 145252,
       "word": "设计师夫妻转行卖咖啡月入10万",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1753774403,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136161,
+      "num": 136161,
+      "word": "陈星旭聊咖啡发了狠忘了情",
+      "onboard_time": 1753785624,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 136153,
@@ -1643,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132654,
-      "num": 320094,
-      "word": "车辆被暴雨冲走能申请全款赔偿吗",
-      "onboard_time": 1753781602,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132245,
       "num": 132245,
       "word": "警方回应女子卖劳力士后账户被冻结",
@@ -1675,6 +1699,22 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 131079,
+      "num": 131079,
+      "word": "ZB1空降超话",
+      "onboard_time": 1753785262,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129483,
+      "num": 336613,
+      "word": "迪丽热巴微指数双榜断层第一",
+      "onboard_time": 1753785442,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129088,
       "num": 272329,
       "word": "双曲线一号遥十运载火箭发射成功",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1753771282,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127548,
+      "num": 508539,
+      "word": "百名红通人员梁锦文回国投案",
+      "onboard_time": 1753785262,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127463,
@@ -1795,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120521,
+      "num": 120521,
+      "word": "世界之外连发三文回应质疑",
+      "onboard_time": 1753785802,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120181,
       "num": 120181,
       "word": "饮料换配方 果葡糖浆",
@@ -1875,12 +1931,36 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 115811,
+      "num": 115811,
+      "word": "河北网友称家中发现白纹伊蚊",
+      "onboard_time": 1753785922,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115608,
+      "num": 115608,
+      "word": "First电影节 逆天主持人",
+      "onboard_time": 1753786043,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115427,
       "num": 145924,
       "word": "李乃文下楼",
       "onboard_time": 1753703064,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115053,
+      "num": 115053,
+      "word": "一笙带猫拍写真",
+      "onboard_time": 1753784962,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 114501,
@@ -1961,14 +2041,6 @@
       "onboard_time": 1753709546,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 109935,
-      "num": 109935,
-      "word": "一笙带猫拍写真",
-      "onboard_time": 1753784962,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 109865,
@@ -2531,6 +2603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44565,
+      "num": 331131,
+      "word": "顾客称麻六记将赔偿但希望其删帖",
+      "onboard_time": 1753785143,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39102,
       "num": 82201,
       "word": "北京再发洪水黄色预警",
@@ -2611,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22494,
+      "num": 159474,
+      "word": "李想鲁豫19年后再对话",
+      "onboard_time": 1753786102,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22347,
       "num": 128198,
       "word": "47岁欧弟晒一家三口合影回应婚变",
@@ -2660,6 +2748,9 @@
     },
     {
       "word": "#习近平对防汛救灾工作作出重要指示#"
+    },
+    {
+      "word": "#扎实做好防汛抢险救灾各项工作#"
     }
   ]
 }
