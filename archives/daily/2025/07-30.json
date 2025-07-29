@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753810135613,
+  "endTime": 1753811281797,
   "band_list": [
     {
       "raw_hot": 1150359,
@@ -419,7 +419,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58299,
+      "raw_hot": 61313,
+      "num": 61313,
+      "word": "4个可能让你变丑的睡姿",
+      "onboard_time": 1753810698,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59277,
       "num": 66409,
       "word": "成都地铁回应步梯防走光设计",
       "onboard_time": 1753808778,
@@ -459,7 +467,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39638,
+      "raw_hot": 42032,
       "num": 55869,
       "word": "赴山海因谣言延播属实太冤",
       "onboard_time": 1753792282,
