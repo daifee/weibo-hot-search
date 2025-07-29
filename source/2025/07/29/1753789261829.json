@@ -1,0 +1,410 @@
+{
+  "runTime": 1753789261829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748529,
+        "num": 1748529,
+        "word": "肠粉 硼砂",
+        "onboard_time": 1753782981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572525,
+        "num": 572525,
+        "word": "宝妈卖劳力士收32万后银行卡被冻结",
+        "onboard_time": 1753780282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46066,
+        "num": 393071,
+        "word": "国内首个通过人机辩论图灵测试大模型",
+        "onboard_time": 1753779622,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 976879,
+        "num": 388382,
+        "word": "第一次对成龙71岁有了实感",
+        "onboard_time": 1753786400,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352301,
+        "num": 352301,
+        "word": "豆瓣八组",
+        "onboard_time": 1753781962,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 549084,
+        "num": 345866,
+        "word": "印乐法师任少林寺住持",
+        "onboard_time": 1753778962,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320709,
+        "num": 320709,
+        "word": "难怪没吃过透明的荔枝",
+        "onboard_time": 1753778543,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 280127,
+        "num": 280127,
+        "word": "成都冰雹",
+        "onboard_time": 1753780224,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244766,
+        "num": 244766,
+        "word": "陈都灵新剧病娇女鬼味",
+        "onboard_time": 1753786643,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209943,
+        "num": 242580,
+        "word": "少林寺新住持佛学院本科毕业",
+        "onboard_time": 1753788141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 894574,
+        "num": 239079,
+        "word": "白鹿晒照给闺蜜庆生",
+        "onboard_time": 1753784363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758197,
+        "num": 236101,
+        "word": "内娱惊为天人的帅哥",
+        "onboard_time": 1753783763,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279750,
+        "num": 230324,
+        "word": "河北网友称家中发现白纹伊蚊",
+        "onboard_time": 1753785922,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723266,
+        "num": 227623,
+        "word": "27岁存款30万从体制内辞职了",
+        "onboard_time": 1753781182,
+        "rank": 13,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 364340,
+        "num": 219515,
+        "word": "小英要离婚了",
+        "onboard_time": 1753760784,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358573,
+        "num": 217443,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1753776982,
+        "rank": 15,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 215131,
+        "num": 215131,
+        "word": "华晨宇告泥塑娱乐博主胜诉",
+        "onboard_time": 1753778182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198859,
+        "num": 214515,
+        "word": "展轩分享不是最近的最近",
+        "onboard_time": 1753788382,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196780,
+        "num": 213825,
+        "word": "赵晴今天扫楼感觉瘦了好多",
+        "onboard_time": 1753780824,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168886,
+        "num": 213368,
+        "word": "江奇霖周奇奇夫妻对视这15秒",
+        "onboard_time": 1753788202,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705048,
+        "num": 212745,
+        "word": "世界之外",
+        "onboard_time": 1753781424,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243764,
+        "num": 211543,
+        "word": "为什么现在打车都不爱坐副驾了",
+        "onboard_time": 1753787783,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211482,
+        "num": 211482,
+        "word": "娜扎欧米茄活动路透",
+        "onboard_time": 1753788862,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 210803,
+        "num": 210803,
+        "word": "孙颖莎驰援京津冀洪涝灾区",
+        "onboard_time": 1753781843,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182996,
+        "num": 182996,
+        "word": "麻六记销售额已缩水至此前五分之一",
+        "onboard_time": 1753786883,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168298,
+        "num": 168298,
+        "word": "上海台风",
+        "onboard_time": 1753780520,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164186,
+        "num": 164186,
+        "word": "迪丽热巴微指数双榜断层第一",
+        "onboard_time": 1753785442,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162770,
+        "num": 162770,
+        "word": "美国人对核爆日本认可度下降",
+        "onboard_time": 1753788561,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156243,
+        "num": 156243,
+        "word": "旅行的小七仔泰国篇",
+        "onboard_time": 1753788382,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90438,
+        "num": 154347,
+        "word": "金与正称金正恩特朗普关系不错",
+        "onboard_time": 1753787543,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153609,
+        "num": 153609,
+        "word": "只有瘦的人知道自己底子有多差",
+        "onboard_time": 1753776743,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 150971,
+        "num": 150971,
+        "word": "傅首尔爆改做自己的女王",
+        "onboard_time": 1753779082,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143710,
+        "num": 143710,
+        "word": "指甲被夹到生长饱满6个月成长史",
+        "onboard_time": 1753788141,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141240,
+        "num": 141240,
+        "word": "天津蓟州爆发70年来最大山洪",
+        "onboard_time": 1753769663,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 140272,
+        "num": 140272,
+        "word": "凡人修仙传第7集西游记含量过高",
+        "onboard_time": 1753788982,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137882,
+        "num": 137882,
+        "word": "想替王一博报警",
+        "onboard_time": 1753779383,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133113,
+        "num": 133113,
+        "word": "吴俊霆曾宥臻一个好天气",
+        "onboard_time": 1753788501,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132105,
+        "num": 132105,
+        "word": "少林寺通报新住持任职",
+        "onboard_time": 1753782863,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130305,
+        "num": 130305,
+        "word": "肖战高情商是怎样炼成的",
+        "onboard_time": 1753783163,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88891,
+        "num": 127584,
+        "word": "女子凌晨4点跑32公里",
+        "onboard_time": 1753788082,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126676,
+        "num": 126676,
+        "word": "战至巅峰4",
+        "onboard_time": 1753788982,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 114688,
+        "num": 124800,
+        "word": "虞书欣实体专完成备案",
+        "onboard_time": 1753787723,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124577,
+        "num": 124577,
+        "word": "上海制皂回应药皂含苏丹红",
+        "onboard_time": 1753787902,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123867,
+        "num": 123867,
+        "word": "白宫狗血短剧3个月狂揽1.5亿美元",
+        "onboard_time": 1753788262,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123359,
+        "num": 123359,
+        "word": "第一次对汪铎腿长有了实感",
+        "onboard_time": 1753788922,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122501,
+        "num": 122501,
+        "word": "暗蚀国王沈星回",
+        "onboard_time": 1753789222,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119460,
+        "num": 119460,
+        "word": "南波万一下聚齐了八个人",
+        "onboard_time": 1753785742,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115942,
+        "num": 115942,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102568,
+        "num": 115893,
+        "word": "95后土木工程研究生卖烧饼涨粉40万",
+        "onboard_time": 1753787961,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115882,
+        "num": 115882,
+        "word": "张艺兴送京东外卖",
+        "onboard_time": 1753781663,
+        "rank": 49,
+        "category": "艺人,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实做好防汛抢险救灾各项工作#"
+    }
+  }
+}
