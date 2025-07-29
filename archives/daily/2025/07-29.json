@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753767371557,
+  "endTime": 1753768373356,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -129,6 +129,14 @@
       "onboard_time": 1753751723,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697687,
+      "num": 325534,
+      "word": "汪苏泷曾因口误连夜向容祖儿道歉",
+      "onboard_time": 1753766782,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 623268,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403088,
+      "num": 251638,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1753767503,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 392220,
       "num": 347036,
       "word": "妈妈说我的labubu光着身体太寒碜",
@@ -323,14 +339,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 325534,
-      "num": 325534,
-      "word": "汪苏泷曾因口误连夜向容祖儿道歉",
-      "onboard_time": 1753766782,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323458,
       "num": 243874,
       "word": "黄金星球全球均分每人可分6912亿",
@@ -345,6 +353,14 @@
       "onboard_time": 1753716444,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314022,
+      "num": 248465,
+      "word": "周杰伦武汉",
+      "onboard_time": 1753768044,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 298420,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 230483,
-      "num": 230483,
+      "num": 259423,
       "word": "河北承德一镇因暴雨断联",
       "onboard_time": 1753764926,
       "rank": 26,
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201441,
+      "num": 201441,
+      "word": "内娱吻戏请按这唇享1分钟来",
+      "onboard_time": 1753767624,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201412,
       "num": 201412,
       "word": "索尼起诉腾讯新游抄袭",
@@ -609,6 +633,14 @@
       "onboard_time": 1753756823,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200846,
+      "num": 200846,
+      "word": "苹果首次在中国关停直营店",
+      "onboard_time": 1753767444,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 198806,
@@ -715,6 +747,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 184453,
+      "num": 184453,
+      "word": "女主播每天喝4杯冰奶茶突然失声",
+      "onboard_time": 1753766904,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179932,
       "num": 255447,
       "word": "利剑玫瑰",
@@ -803,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171064,
+      "num": 171064,
+      "word": "月租贷款",
+      "onboard_time": 1753763607,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169571,
       "num": 169571,
       "word": "金与正表示朝鲜拥核国地位不可逆转",
@@ -817,6 +865,22 @@
       "onboard_time": 1753761805,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168145,
+      "num": 168145,
+      "word": "为什么油皮更容易晒老晒黑",
+      "onboard_time": 1753767264,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 165124,
+      "num": 165124,
+      "word": "曹骏城墙舞剑",
+      "onboard_time": 1753767682,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 165098,
@@ -843,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162639,
+      "num": 162639,
+      "word": "孙千方回应与男友人共回家",
+      "onboard_time": 1753768044,
+      "rank": 34,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 162204,
       "num": 169030,
       "word": "收费站口几十辆老头乐排队上高速",
@@ -867,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159272,
+      "num": 159272,
+      "word": "刘宇宁连续多年悼念已故粉丝",
+      "onboard_time": 1753766844,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155220,
       "num": 155220,
       "word": "鹿晗高瀚宇扫腿舞",
@@ -875,12 +955,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150485,
-      "num": 150485,
-      "word": "为什么油皮更容易晒老晒黑",
-      "onboard_time": 1753767264,
-      "rank": 34,
-      "category": "情感,休闲"
+      "raw_hot": 154702,
+      "num": 154702,
+      "word": "和平精英",
+      "onboard_time": 1753768223,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 150101,
@@ -971,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133990,
-      "num": 133990,
-      "word": "女主播每天喝4杯冰奶茶突然失声",
-      "onboard_time": 1753766904,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133973,
       "num": 170258,
       "word": "一碗烩面外卖与堂食价差达10元",
@@ -1003,12 +1075,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 127285,
-      "num": 127285,
-      "word": "刘宇宁连续多年悼念已故粉丝",
-      "onboard_time": 1753766844,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 129088,
+      "num": 129088,
+      "word": "双曲线一号遥十运载火箭发射成功",
+      "onboard_time": 1753767863,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125160,
@@ -1035,12 +1107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120229,
-      "num": 124122,
-      "word": "月租贷款",
-      "onboard_time": 1753763607,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 119853,
+      "num": 119853,
+      "word": "杨洋你也半夜听郭德纲吗",
+      "onboard_time": 1753768343,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119180,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1753701144,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97881,
+      "num": 151756,
+      "word": "侯佩岑回应主持歌手",
+      "onboard_time": 1753767682,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 95496,
@@ -1345,6 +1425,14 @@
       "onboard_time": 1753728855,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72128,
+      "num": 182295,
+      "word": "老一辈审美还是在线的",
+      "onboard_time": 1753767863,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 70625,
