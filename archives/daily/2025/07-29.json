@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753756097306,
+  "endTime": 1753757820696,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -11,12 +11,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1825493,
+      "num": 979662,
+      "word": "汪苏泷方律师严正声明",
+      "onboard_time": 1753755862,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1818482,
       "num": 1818482,
       "word": "北京大哥用铲斗端出80多条人命",
       "onboard_time": 1753749924,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1730866,
+      "num": 1730866,
+      "word": "孙颖莎代言美团",
+      "onboard_time": 1753756464,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1164370,
@@ -43,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 819971,
+      "num": 819971,
+      "word": "一家三口吃清洗过的鸡蛋后中毒",
+      "onboard_time": 1753756162,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 762028,
       "num": 181687,
       "word": "网易云取消张碧晨三首歌原唱",
@@ -51,20 +75,20 @@
       "category": "音乐,互联网"
     },
     {
-      "raw_hot": 623268,
-      "num": 308305,
-      "word": "迪丽热巴接受三个月高强度警务特训",
-      "onboard_time": 1753751544,
-      "rank": 3,
-      "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 558452,
-      "num": 558452,
+      "raw_hot": 700279,
+      "num": 700279,
       "word": "这次极端暴雨怎么来的",
       "onboard_time": 1753751723,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623268,
+      "num": 498816,
+      "word": "迪丽热巴接受三个月高强度警务特训",
+      "onboard_time": 1753751544,
+      "rank": 3,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 544079,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 475393,
-      "num": 225920,
+      "num": 285507,
       "word": "美国发现一颗富含黄金小行星",
       "onboard_time": 1753713924,
       "rank": 13,
@@ -108,11 +132,35 @@
     },
     {
       "raw_hot": 458300,
-      "num": 214787,
+      "num": 399224,
       "word": "因花园太丑华人收2000美元罚款",
       "onboard_time": 1753746682,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 439518,
+      "num": 439518,
+      "word": "无人机向北京灾区空投面包火腿肠",
+      "onboard_time": 1753753342,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 433619,
+      "num": 256858,
+      "word": "吴艳妮称说我整容代表我好看",
+      "onboard_time": 1753754603,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 431973,
+      "num": 431973,
+      "word": "北京累计转移80332人",
+      "onboard_time": 1753755802,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407232,
@@ -131,16 +179,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 373778,
-      "num": 206118,
-      "word": "吴艳妮称说我整容代表我好看",
-      "onboard_time": 1753754603,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 350434,
+      "num": 350434,
+      "word": "金价四连跌",
+      "onboard_time": 1753756881,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 323458,
-      "num": 212852,
+      "num": 243874,
       "word": "黄金星球全球均分每人可分6912亿",
       "onboard_time": 1753750345,
       "rank": 12,
@@ -153,14 +201,6 @@
       "onboard_time": 1753716444,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299202,
-      "num": 299202,
-      "word": "无人机向北京灾区空投面包火腿肠",
-      "onboard_time": 1753753342,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 298420,
@@ -180,11 +220,27 @@
     },
     {
       "raw_hot": 282620,
-      "num": 205098,
+      "num": 238712,
       "word": "切断孩子手机上瘾最快的方法",
       "onboard_time": 1753751783,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258266,
+      "num": 258266,
+      "word": "谍报上不封顶",
+      "onboard_time": 1753754361,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 256855,
+      "num": 256855,
+      "word": "老一辈人总喜欢把臭鱼烂虾当人脉",
+      "onboard_time": 1753757303,
+      "rank": 21,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 250224,
@@ -203,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217915,
-      "num": 217915,
-      "word": "谍报上不封顶",
-      "onboard_time": 1753754361,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215911,
       "num": 215911,
       "word": "利剑玫瑰收视率",
@@ -220,7 +268,7 @@
     },
     {
       "raw_hot": 215251,
-      "num": 215251,
+      "num": 257821,
       "word": "于途和晶晶终究走上了事业疯批路",
       "onboard_time": 1753749204,
       "rank": 9,
@@ -251,12 +299,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208830,
+      "num": 407836,
+      "word": "北京动用空中力量支援受困地区",
+      "onboard_time": 1753754243,
+      "rank": 24,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 204917,
       "num": 204917,
       "word": "突然意识到自己上了年纪的瞬间",
       "onboard_time": 1753752204,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201412,
+      "num": 201412,
+      "word": "索尼起诉腾讯新游抄袭",
+      "onboard_time": 1753755982,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201015,
+      "num": 258093,
+      "word": "入青云",
+      "onboard_time": 1753756823,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 198806,
@@ -283,8 +355,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189355,
-      "num": 189355,
+      "raw_hot": 189674,
+      "num": 189674,
       "word": "她一个月赶的通勤比我一辈子还多",
       "onboard_time": 1753754243,
       "rank": 23,
@@ -299,20 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186845,
+      "num": 186845,
+      "word": "中国公民在津巴布韦遇抢劫中弹身亡",
+      "onboard_time": 1753756282,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185683,
       "num": 185683,
       "word": "平野美宇叫孙颖莎莎莎桑",
       "onboard_time": 1753752144,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182035,
-      "num": 186626,
-      "word": "北京动用空中力量支援受困地区",
-      "onboard_time": 1753754243,
-      "rank": 24,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 179932,
@@ -363,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162077,
+      "num": 189913,
+      "word": "定风波定档",
+      "onboard_time": 1753757363,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160563,
       "num": 160563,
       "word": "男子用几十元挡雨帘替代封阳台",
@@ -371,19 +451,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158182,
-      "num": 164828,
-      "word": "汪苏泷方律师严正声明",
-      "onboard_time": 1753755862,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155220,
       "num": 155220,
       "word": "鹿晗高瀚宇扫腿舞",
       "onboard_time": 1753751965,
       "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 155067,
+      "num": 189675,
+      "word": "南波万派对",
+      "onboard_time": 1753757543,
+      "rank": 29,
       "category": "演出"
     },
     {
@@ -409,14 +489,6 @@
       "onboard_time": 1753690283,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140457,
-      "num": 140457,
-      "word": "索尼起诉腾讯新游抄袭",
-      "onboard_time": 1753755982,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 140238,
@@ -483,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119180,
+      "num": 119180,
+      "word": "陈若琳入选2025国际游泳名人堂",
+      "onboard_time": 1753755503,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115427,
       "num": 145924,
       "word": "李乃文下楼",
@@ -499,12 +579,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 111877,
-      "num": 111877,
-      "word": "陈若琳入选2025国际游泳名人堂",
-      "onboard_time": 1753755503,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 113137,
+      "num": 113137,
+      "word": "北京平谷区5座水库正在泄水",
+      "onboard_time": 1753756583,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110671,
@@ -531,19 +611,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 109656,
+      "num": 109656,
+      "word": "原来这才是大厂人的工作现状",
+      "onboard_time": 1753756162,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108307,
+      "num": 108307,
+      "word": "故宫国博今天闭馆一天",
+      "onboard_time": 1753755862,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106281,
       "num": 145282,
       "word": "北京非必要不要求员工到岗",
       "onboard_time": 1753714045,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103925,
-      "num": 207813,
-      "word": "北京累计转移80332人",
-      "onboard_time": 1753755802,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -561,14 +649,6 @@
       "onboard_time": 1753701144,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96140,
-      "num": 96140,
-      "word": "故宫国博今天闭馆一天",
-      "onboard_time": 1753755862,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95496,
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 75666,
-      "num": 569872,
+      "num": 1017641,
       "word": "国家育儿补贴方案六大热点问答",
       "onboard_time": 1753697963,
       "rank": 2,
@@ -745,6 +825,14 @@
       "onboard_time": 1753721180,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65474,
+      "num": 257404,
+      "word": "记者直击雷暴大风雨伞险被吹飞",
+      "onboard_time": 1753756282,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 65158,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1753757820696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1730866,
+        "num": 1730866,
+        "word": "孙颖莎代言美团",
+        "onboard_time": 1753756464,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1266631,
+        "num": 1266631,
+        "word": "北京大哥用铲斗端出80多条人命",
+        "onboard_time": 1753749924,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 50023,
+        "num": 1017641,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1825493,
+        "num": 979662,
+        "word": "汪苏泷方律师严正声明",
+        "onboard_time": 1753755862,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819971,
+        "num": 819971,
+        "word": "一家三口吃清洗过的鸡蛋后中毒",
+        "onboard_time": 1753756162,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700279,
+        "num": 700279,
+        "word": "这次极端暴雨怎么来的",
+        "onboard_time": 1753751723,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498816,
+        "num": 498816,
+        "word": "迪丽热巴接受三个月高强度警务特训",
+        "onboard_time": 1753751544,
+        "rank": 6,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 439518,
+        "num": 439518,
+        "word": "无人机向北京灾区空投面包火腿肠",
+        "onboard_time": 1753753342,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 431973,
+        "num": 431973,
+        "word": "北京累计转移80332人",
+        "onboard_time": 1753755802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208830,
+        "num": 407836,
+        "word": "北京动用空中力量支援受困地区",
+        "onboard_time": 1753754243,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 2316444,
+        "num": 406495,
+        "word": "北京因灾死亡30人",
+        "onboard_time": 1753744518,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399224,
+        "num": 399224,
+        "word": "因花园太丑华人收2000美元罚款",
+        "onboard_time": 1753746682,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 394458,
+        "num": 394458,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350434,
+        "num": 350434,
+        "word": "金价四连跌",
+        "onboard_time": 1753756881,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 387354,
+        "num": 345454,
+        "word": "聚焦北京暴雨",
+        "onboard_time": 1753713386,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285507,
+        "num": 285507,
+        "word": "美国发现一颗富含黄金小行星",
+        "onboard_time": 1753713924,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258266,
+        "num": 258266,
+        "word": "谍报上不封顶",
+        "onboard_time": 1753754361,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201015,
+        "num": 258093,
+        "word": "入青云",
+        "onboard_time": 1753756823,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173828,
+        "num": 257821,
+        "word": "于途和晶晶终究走上了事业疯批路",
+        "onboard_time": 1753749204,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65474,
+        "num": 257404,
+        "word": "记者直击雷暴大风雨伞险被吹飞",
+        "onboard_time": 1753756282,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 433619,
+        "num": 256858,
+        "word": "吴艳妮称说我整容代表我好看",
+        "onboard_time": 1753754603,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256855,
+        "num": 256855,
+        "word": "老一辈人总喜欢把臭鱼烂虾当人脉",
+        "onboard_time": 1753757303,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 243874,
+        "num": 243874,
+        "word": "黄金星球全球均分每人可分6912亿",
+        "onboard_time": 1753750345,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238712,
+        "num": 238712,
+        "word": "切断孩子手机上瘾最快的方法",
+        "onboard_time": 1753751783,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201412,
+        "num": 201412,
+        "word": "索尼起诉腾讯新游抄袭",
+        "onboard_time": 1753755982,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193112,
+        "num": 193112,
+        "word": "网易云回应张碧晨原唱取消又恢复",
+        "onboard_time": 1753713205,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190454,
+        "num": 190454,
+        "word": "爸爸回应女儿去世儿子患同种病进ICU",
+        "onboard_time": 1753726456,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162077,
+        "num": 189913,
+        "word": "定风波定档",
+        "onboard_time": 1753757363,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158276,
+        "num": 189706,
+        "word": "许我耀眼双轨或将对打",
+        "onboard_time": 1753746742,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155067,
+        "num": 189675,
+        "word": "南波万派对",
+        "onboard_time": 1753757543,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189674,
+        "num": 189674,
+        "word": "她一个月赶的通勤比我一辈子还多",
+        "onboard_time": 1753754243,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 187187,
+        "num": 187187,
+        "word": "突然意识到自己上了年纪的瞬间",
+        "onboard_time": 1753752204,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186845,
+        "num": 186845,
+        "word": "中国公民在津巴布韦遇抢劫中弹身亡",
+        "onboard_time": 1753756282,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179457,
+        "num": 179457,
+        "word": "全红婵近照",
+        "onboard_time": 1753717042,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171608,
+        "num": 171608,
+        "word": "最疯狂的缅甸度过最惊魂的一夜",
+        "onboard_time": 1753749265,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151952,
+        "num": 151952,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 35,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 143593,
+        "num": 143593,
+        "word": "鹿晗高瀚宇扫腿舞",
+        "onboard_time": 1753751965,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136592,
+        "num": 136592,
+        "word": "经常内耗的人其实有3个优势",
+        "onboard_time": 1753752204,
+        "rank": 37,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 136053,
+        "num": 136053,
+        "word": "居家办公",
+        "onboard_time": 1753717583,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128343,
+        "num": 128343,
+        "word": "平野美宇叫孙颖莎莎莎桑",
+        "onboard_time": 1753752144,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126245,
+        "num": 126245,
+        "word": "霍启刚发文祝贺郭晶晶",
+        "onboard_time": 1753744880,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119180,
+        "num": 119180,
+        "word": "陈若琳入选2025国际游泳名人堂",
+        "onboard_time": 1753755503,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115429,
+        "num": 115429,
+        "word": "广东人陷入高温暴雨循环",
+        "onboard_time": 1753716683,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115029,
+        "num": 115029,
+        "word": "紧急预拨3.5亿元中央自然灾害救灾资金",
+        "onboard_time": 1753752984,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113137,
+        "num": 113137,
+        "word": "北京平谷区5座水库正在泄水",
+        "onboard_time": 1753756583,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110815,
+        "num": 110815,
+        "word": "3小孩卖冰棍遭遇霸王餐",
+        "onboard_time": 1753749204,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109656,
+        "num": 109656,
+        "word": "原来这才是大厂人的工作现状",
+        "onboard_time": 1753756162,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108307,
+        "num": 108307,
+        "word": "故宫国博今天闭馆一天",
+        "onboard_time": 1753755862,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105583,
+        "num": 105583,
+        "word": "密云水库泄流的水去哪了",
+        "onboard_time": 1753744580,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68310,
+        "num": 103570,
+        "word": "为什么要去看演唱会",
+        "onboard_time": 1753747764,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧大个子携手下一个50年#"
+    }
+  }
+}
