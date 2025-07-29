@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753786182609,
+  "endTime": 1753788331540,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -57,6 +57,14 @@
       "onboard_time": 1753758084,
       "rank": 0,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 1348020,
+      "num": 1348020,
+      "word": "肠粉 硼砂",
+      "onboard_time": 1753782981,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1295946,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1049780,
+      "num": 500793,
+      "word": "白鹿晒照给闺蜜庆生",
+      "onboard_time": 1753784363,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1038678,
       "num": 1038678,
       "word": "世界之外",
@@ -153,14 +169,6 @@
       "onboard_time": 1753758623,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 847958,
-      "num": 500793,
-      "word": "白鹿晒照给闺蜜庆生",
-      "onboard_time": 1753784363,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 846280,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 774225,
+      "num": 481822,
+      "word": "27岁存款30万从体制内辞职了",
+      "onboard_time": 1753781182,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 762028,
       "num": 181687,
       "word": "网易云取消张碧晨三首歌原唱",
@@ -203,20 +219,20 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 755315,
+      "num": 509530,
+      "word": "第一次对成龙71岁有了实感",
+      "onboard_time": 1753786400,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 733198,
       "num": 455053,
       "word": "华晨宇告泥塑娱乐博主胜诉",
       "onboard_time": 1753778182,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 721205,
-      "num": 721205,
-      "word": "肠粉 硼砂",
-      "onboard_time": 1753782981,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 700279,
@@ -272,14 +288,6 @@
       "word": "只有瘦的人知道自己底子有多差",
       "onboard_time": 1753776743,
       "rank": 14,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 561069,
-      "num": 481822,
-      "word": "27岁存款30万从体制内辞职了",
-      "onboard_time": 1753781182,
-      "rank": 30,
       "category": "情感,休闲"
     },
     {
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421471,
+      "num": 421471,
+      "word": "豆瓣八组",
+      "onboard_time": 1753781962,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 414769,
       "num": 414769,
       "word": "女主播每天喝4杯冰奶茶突然失声",
@@ -481,6 +497,14 @@
       "onboard_time": 1753780344,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366001,
+      "num": 247046,
+      "word": "内娱惊为天人的帅哥",
+      "onboard_time": 1753783763,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 365168,
@@ -561,14 +585,6 @@
       "onboard_time": 1753768044,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 310915,
-      "num": 310915,
-      "word": "豆瓣八组",
-      "onboard_time": 1753781962,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 305429,
@@ -747,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247046,
-      "num": 247046,
-      "word": "内娱惊为天人的帅哥",
-      "onboard_time": 1753783763,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242460,
       "num": 452444,
       "word": "北京暴雨武警一夜搬10万个沙袋",
@@ -768,6 +776,14 @@
       "word": "北京大雨",
       "onboard_time": 1753712786,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231269,
+      "num": 231269,
+      "word": "河北网友称家中发现白纹伊蚊",
+      "onboard_time": 1753785922,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -963,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201356,
+      "num": 201356,
+      "word": "陈都灵新剧病娇女鬼味",
+      "onboard_time": 1753786643,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201252,
       "num": 201252,
       "word": "阴阳师",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1753758323,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194281,
+      "num": 194281,
+      "word": "战至巅峰4开始燃了",
+      "onboard_time": 1753787183,
+      "rank": 18,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 193470,
@@ -1219,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175945,
+      "num": 336613,
+      "word": "迪丽热巴微指数双榜断层第一",
+      "onboard_time": 1753785442,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175535,
       "num": 175535,
       "word": "多家企业捐赠驰援北京",
@@ -1363,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160691,
+      "num": 168983,
+      "word": "虞书欣实体专完成备案",
+      "onboard_time": 1753787723,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160563,
       "num": 160563,
       "word": "男子用几十元挡雨帘替代封阳台",
@@ -1395,12 +1443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156116,
+      "num": 156116,
+      "word": "我选择关晓彤的黑长直作为迷药",
+      "onboard_time": 1753786643,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156112,
       "num": 156112,
       "word": "33冷酷情绪写真",
       "onboard_time": 1753785143,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156047,
+      "num": 156047,
+      "word": "麻六记销售额已缩水至此前五分之一",
+      "onboard_time": 1753786883,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155220,
@@ -1563,6 +1627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138490,
+      "num": 138490,
+      "word": "为什么现在打车都不爱坐副驾了",
+      "onboard_time": 1753787783,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138296,
       "num": 142421,
       "word": "光与夜之恋 KFC",
@@ -1707,20 +1779,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129483,
-      "num": 336613,
-      "word": "迪丽热巴微指数双榜断层第一",
-      "onboard_time": 1753785442,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129088,
       "num": 272329,
       "word": "双曲线一号遥十运载火箭发射成功",
       "onboard_time": 1753767863,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128949,
+      "num": 128949,
+      "word": "江奇霖周奇奇夫妻对视这15秒",
+      "onboard_time": 1753788202,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 128243,
@@ -1867,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119370,
+      "num": 119370,
+      "word": "少林寺新住持佛学院本科毕业",
+      "onboard_time": 1753788141,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119180,
       "num": 119180,
       "word": "陈若琳入选2025国际游泳名人堂",
@@ -1889,6 +1969,14 @@
       "onboard_time": 1753773682,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118297,
+      "num": 118297,
+      "word": "指甲被夹到生长饱满6个月成长史",
+      "onboard_time": 1753788141,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 117946,
@@ -1931,14 +2019,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 115811,
-      "num": 115811,
-      "word": "河北网友称家中发现白纹伊蚊",
-      "onboard_time": 1753785922,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115608,
       "num": 115608,
       "word": "First电影节 逆天主持人",
@@ -1961,6 +2041,14 @@
       "onboard_time": 1753784962,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114845,
+      "num": 114845,
+      "word": "世界之外想赚钱",
+      "onboard_time": 1753786102,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 114501,
@@ -2011,20 +2099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113009,
+      "num": 113009,
+      "word": "上海制皂回应药皂含苏丹红",
+      "onboard_time": 1753787902,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112878,
+      "num": 112878,
+      "word": "果糖 尿酸升高",
+      "onboard_time": 1753784783,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112532,
       "num": 112532,
       "word": "陆星材刀斩labubu",
       "onboard_time": 1753771103,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112328,
-      "num": 112328,
-      "word": "果糖 尿酸升高",
-      "onboard_time": 1753784783,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 110671,
@@ -2083,6 +2179,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 108651,
+      "num": 129016,
+      "word": "女子凌晨4点跑32公里",
+      "onboard_time": 1753788082,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 108307,
       "num": 108307,
       "word": "故宫国博今天闭馆一天",
@@ -2097,6 +2201,14 @@
       "onboard_time": 1753764387,
       "rank": 39,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 106728,
+      "num": 106728,
+      "word": "白宫狗血短剧3个月狂揽1.5亿美元",
+      "onboard_time": 1753788262,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106281,
@@ -2152,6 +2264,14 @@
       "word": "男子被流浪狗绊倒泄愤刺死路过老太",
       "onboard_time": 1753779684,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103934,
+      "num": 103934,
+      "word": "男子KTV遇AI抽象MV被折磨3小时",
+      "onboard_time": 1753786883,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2539,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58207,
+      "num": 129916,
+      "word": "95后土木工程研究生卖烧饼涨粉40万",
+      "onboard_time": 1753787961,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58108,
       "num": 58108,
       "word": "中方回应乌方制裁中国等国个人法人实体",
@@ -2585,6 +2713,14 @@
       "onboard_time": 1753762285,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48708,
+      "num": 193482,
+      "word": "特朗普称自己6个月内结束多场战争",
+      "onboard_time": 1753786883,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47629,
@@ -2651,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31515,
+      "num": 168438,
+      "word": "干燥的北京为何屡遭暴雨袭击",
+      "onboard_time": 1753786883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31101,
       "num": 208105,
       "word": "密云大哥爬房顶敲窗户喊醒邻居逃生",
@@ -2692,7 +2836,7 @@
     },
     {
       "raw_hot": 22494,
-      "num": 159474,
+      "num": 181247,
       "word": "李想鲁豫19年后再对话",
       "onboard_time": 1753786102,
       "rank": 33,
