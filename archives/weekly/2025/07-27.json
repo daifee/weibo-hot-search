@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753771311384,
+  "endTime": 1753772242147,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -699,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 759805,
+      "num": 1121568,
+      "word": "天津蓟州爆发70年来最大山洪",
+      "onboard_time": 1753769663,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 756263,
       "num": 409577,
       "word": "小英喂药量杯不洗",
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 576050,
-      "num": 447518,
+      "num": 468596,
       "word": "周杰伦演唱会",
       "onboard_time": 1753767503,
       "rank": 15,
@@ -1227,8 +1235,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 496490,
-      "num": 496490,
+      "raw_hot": 500764,
+      "num": 500764,
       "word": "河北承德一镇因暴雨断联",
       "onboard_time": 1753764926,
       "rank": 26,
@@ -1363,14 +1371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 442653,
-      "num": 442653,
-      "word": "天津蓟州爆发70年来最大山洪",
-      "onboard_time": 1753769663,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 442631,
       "num": 552811,
       "word": "定风波定档",
@@ -1449,6 +1449,14 @@
       "onboard_time": 1753540287,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 426142,
+      "num": 426142,
+      "word": "田曦薇将cos千金淑猫",
+      "onboard_time": 1753769001,
+      "rank": 8,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 425355,
@@ -1731,6 +1739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 350947,
+      "num": 350947,
+      "word": "女主播每天喝4杯冰奶茶突然失声",
+      "onboard_time": 1753766904,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350224,
       "num": 350224,
       "word": "董璇张维伊 黄牛变爱人",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1753624527,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 339635,
-      "num": 339635,
-      "word": "田曦薇将cos千金淑猫",
-      "onboard_time": 1753769001,
-      "rank": 8,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 337841,
@@ -2057,6 +2065,14 @@
       "onboard_time": 1753544485,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 284707,
+      "num": 284707,
+      "word": "苹果首次在中国关停直营店",
+      "onboard_time": 1753767444,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 283691,
@@ -2371,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250615,
-      "num": 339517,
-      "word": "女主播每天喝4杯冰奶茶突然失声",
-      "onboard_time": 1753766904,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250224,
       "num": 153331,
       "word": "霍启刚发文祝贺郭晶晶",
@@ -2449,14 +2457,6 @@
       "onboard_time": 1753575261,
       "rank": 13,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 240938,
-      "num": 240938,
-      "word": "苹果首次在中国关停直营店",
-      "onboard_time": 1753767444,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 239648,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1753763186,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220412,
+      "num": 220412,
+      "word": "你猜关闭朋友圈一年会发生什么",
+      "onboard_time": 1753769124,
+      "rank": 23,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 219978,
@@ -2979,6 +2987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203587,
+      "num": 203587,
+      "word": "利剑玫瑰使用闵玧其童年照",
+      "onboard_time": 1753771344,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203261,
       "num": 228184,
       "word": "百香果果然还在磨合期",
@@ -3163,14 +3179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197176,
-      "num": 197176,
-      "word": "你猜关闭朋友圈一年会发生什么",
-      "onboard_time": 1753769124,
-      "rank": 23,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 196504,
       "num": 196504,
       "word": "TF家族空降",
@@ -3337,6 +3345,14 @@
       "onboard_time": 1753716683,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190764,
+      "num": 190764,
+      "word": "鹅组",
+      "onboard_time": 1753768585,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 190533,
@@ -4011,6 +4027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 170865,
+      "num": 191009,
+      "word": "男子网购退货私吞800件赠品",
+      "onboard_time": 1753772003,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170720,
       "num": 198319,
       "word": "谢娜让李小冉保重她却越来越瘦",
@@ -4105,6 +4129,14 @@
       "onboard_time": 1753698023,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167115,
+      "num": 167115,
+      "word": "杨洋李乃文全方面搞砸",
+      "onboard_time": 1753772063,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 166789,
@@ -4899,6 +4931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149167,
+      "num": 131080,
+      "word": "李乃文昨天下楼今天扫楼",
+      "onboard_time": 1753771042,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149122,
       "num": 196934,
       "word": "易烊千玺看演出被拍到了",
@@ -4929,6 +4969,14 @@
       "onboard_time": 1753623925,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148577,
+      "num": 148577,
+      "word": "小英一天花10万",
+      "onboard_time": 1753768522,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 148475,
@@ -5097,14 +5145,6 @@
       "onboard_time": 1753624707,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144805,
-      "num": 144805,
-      "word": "鹅组",
-      "onboard_time": 1753768585,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 144524,
@@ -5459,6 +5499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136153,
+      "num": 136153,
+      "word": "宋小宝回应白血病女孩私信",
+      "onboard_time": 1753767503,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136041,
       "num": 110553,
       "word": "长安汽车新央企成立在即",
@@ -5569,6 +5617,14 @@
       "onboard_time": 1753700722,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134423,
+      "num": 130169,
+      "word": "杨洋漏胸肌这块",
+      "onboard_time": 1753771702,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 134178,
@@ -5779,14 +5835,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 130183,
-      "num": 130183,
-      "word": "宋小宝回应白血病女孩私信",
-      "onboard_time": 1753767503,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130143,
       "num": 130143,
       "word": "没生在首尔去什么男宝星球",
@@ -5852,7 +5900,7 @@
     },
     {
       "raw_hot": 129088,
-      "num": 129088,
+      "num": 272329,
       "word": "双曲线一号遥十运载火箭发射成功",
       "onboard_time": 1753767863,
       "rank": 41,
@@ -5881,6 +5929,14 @@
       "onboard_time": 1753670421,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128243,
+      "num": 128243,
+      "word": "大学生在校3个月瘦了60斤的变化",
+      "onboard_time": 1753771282,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 128184,
@@ -5977,6 +6033,14 @@
       "onboard_time": 1753594943,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125265,
+      "num": 125265,
+      "word": "爷爷是时候该把孙子逐出族谱了",
+      "onboard_time": 1753771462,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 125160,
@@ -6339,6 +6403,22 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 117946,
+      "num": 128404,
+      "word": "赵磊帮老婆qko带货",
+      "onboard_time": 1753771282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117934,
+      "num": 117934,
+      "word": "美团承诺绝不自营外卖",
+      "onboard_time": 1753771942,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117850,
       "num": 117850,
       "word": "scout评分",
@@ -6371,6 +6451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117147,
+      "num": 117147,
+      "word": "被困男子大喊先救我媳妇儿",
+      "onboard_time": 1753772182,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 116382,
       "num": 1017641,
       "word": "国家育儿补贴方案六大热点问答",
@@ -6385,6 +6473,14 @@
       "onboard_time": 1753599262,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116092,
+      "num": 116092,
+      "word": "魏哲鸣cha了大展鸿图",
+      "onboard_time": 1753772063,
+      "rank": 45,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 116069,
@@ -6449,6 +6545,14 @@
       "onboard_time": 1753670181,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114256,
+      "num": 114256,
+      "word": "你考虑换iPhone17吗",
+      "onboard_time": 1753771462,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 114068,
@@ -6523,14 +6627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113359,
-      "num": 113359,
-      "word": "小英一天花10万",
-      "onboard_time": 1753768522,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 113319,
       "num": 141789,
       "word": "哈马斯暴力制止加沙人领取物资",
@@ -6603,6 +6699,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112532,
+      "num": 112532,
+      "word": "陆星材刀斩labubu",
+      "onboard_time": 1753771103,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112152,
       "num": 112152,
       "word": "月薪1w一年能存下6万",
@@ -6657,14 +6761,6 @@
       "onboard_time": 1753572318,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110489,
-      "num": 110489,
-      "word": "李乃文昨天下楼今天扫楼",
-      "onboard_time": 1753771042,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 110156,
@@ -6729,14 +6825,6 @@
       "onboard_time": 1753700364,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109232,
-      "num": 109232,
-      "word": "陆星材刀斩labubu",
-      "onboard_time": 1753771103,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 108307,
@@ -6913,14 +7001,6 @@
       "onboard_time": 1753768943,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104469,
-      "num": 104469,
-      "word": "大学生在校3个月瘦了60斤的变化",
-      "onboard_time": 1753771282,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 104231,
@@ -7243,14 +7323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 90224,
-      "num": 113104,
-      "word": "赵磊帮老婆qko带货",
-      "onboard_time": 1753771282,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90212,
       "num": 90212,
       "word": "23岁男子疑因未洗罐装饮料染病身亡",
@@ -7489,6 +7561,14 @@
       "onboard_time": 1753583361,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77433,
+      "num": 181343,
+      "word": "少前2最强轮椅",
+      "onboard_time": 1753772003,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 77396,
