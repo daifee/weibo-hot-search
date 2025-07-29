@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753763558146,
+  "endTime": 1753765590010,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1060284,
+      "num": 502906,
+      "word": "突然失去住持的少林寺戒备森严",
+      "onboard_time": 1753761144,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1019836,
       "num": 1019836,
       "word": "针对北京河北启动国家救灾应急响应",
@@ -91,12 +99,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 936442,
-      "num": 502906,
-      "word": "突然失去住持的少林寺戒备森严",
-      "onboard_time": 1753761144,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 846280,
+      "num": 846280,
+      "word": "美团拼好饭",
+      "onboard_time": 1753759584,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 819971,
@@ -105,14 +113,6 @@
       "onboard_time": 1753756162,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 797864,
-      "num": 797864,
-      "word": "美团拼好饭",
-      "onboard_time": 1753759584,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 762028,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541461,
+      "num": 541461,
+      "word": "热巴回复郭晓婷",
+      "onboard_time": 1753763786,
+      "rank": 4,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 527415,
       "num": 527415,
       "word": "金价四连跌",
@@ -169,6 +177,14 @@
       "onboard_time": 1753713205,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 503652,
+      "num": 521437,
+      "word": "赴山海",
+      "onboard_time": 1753760964,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 494165,
@@ -201,14 +217,6 @@
       "onboard_time": 1753713924,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 459117,
-      "num": 521437,
-      "word": "赴山海",
-      "onboard_time": 1753760964,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 458300,
@@ -259,6 +267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381235,
+      "num": 381235,
+      "word": "三甲医院医生谈李晟岔腿坐是有益的",
+      "onboard_time": 1753764265,
+      "rank": 16,
+      "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 365168,
+      "num": 376198,
+      "word": "民航版12306直销机票来了",
+      "onboard_time": 1753762044,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337551,
       "num": 337551,
       "word": "密云因灾死亡28人",
@@ -273,6 +297,14 @@
       "onboard_time": 1753760604,
       "rank": 15,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 333538,
+      "num": 333538,
+      "word": "上海月薪27000一天的花销",
+      "onboard_time": 1753763786,
+      "rank": 22,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 323458,
@@ -321,6 +353,14 @@
       "onboard_time": 1753760964,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 266593,
+      "num": 210910,
+      "word": "少一两肉都穿不出这富贵的味道",
+      "onboard_time": 1753764205,
+      "rank": 31,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 264022,
@@ -379,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235592,
+      "raw_hot": 235929,
       "num": 260263,
       "word": "虞书欣cos焦糖拿铁",
       "onboard_time": 1753762646,
@@ -387,12 +427,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 234915,
-      "num": 376198,
-      "word": "民航版12306直销机票来了",
-      "onboard_time": 1753762044,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 230483,
+      "num": 230483,
+      "word": "河北承德一镇因暴雨断联",
+      "onboard_time": 1753764926,
+      "rank": 26,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 220755,
@@ -401,6 +441,14 @@
       "onboard_time": 1753763186,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218711,
+      "num": 452444,
+      "word": "北京暴雨武警一夜搬10万个沙袋",
+      "onboard_time": 1753764685,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218407,
@@ -435,6 +483,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 211467,
+      "num": 211467,
+      "word": "韩国87元一碗的排骨汤全是大肥肉",
+      "onboard_time": 1753764865,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 210765,
+      "num": 210765,
+      "word": "iPhone17Pro横向矩阵设计",
+      "onboard_time": 1753765105,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 210694,
+      "num": 210694,
+      "word": "孟子义对自己的美貌没有一丝犹豫",
+      "onboard_time": 1753764205,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209546,
       "num": 209546,
       "word": "山东女正厅袭燕主动投案",
@@ -459,12 +531,28 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 205501,
+      "num": 210295,
+      "word": "密室大逃脱",
+      "onboard_time": 1753764505,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204917,
       "num": 204917,
       "word": "突然意识到自己上了年纪的瞬间",
       "onboard_time": 1753752204,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203987,
+      "num": 203987,
+      "word": "AI医生会让黄牛下岗吗",
+      "onboard_time": 1753764387,
+      "rank": 39,
+      "category": "互联网,互联网"
     },
     {
       "raw_hot": 203914,
@@ -521,6 +609,14 @@
       "onboard_time": 1753758323,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191547,
+      "num": 210998,
+      "word": "729声工场九周年",
+      "onboard_time": 1753764865,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 191214,
@@ -595,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179722,
+      "num": 179722,
+      "word": "张雅钦原来是照着胖橘演幼贞",
+      "onboard_time": 1753763607,
+      "rank": 44,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 178938,
       "num": 178938,
       "word": "文淇赵今麦十五岁时的发言",
@@ -619,12 +723,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177526,
+      "num": 177526,
+      "word": "中午修仙 晚上打拐",
+      "onboard_time": 1753764084,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176292,
       "num": 176292,
       "word": "北京市民称多辆车被洪水冲走",
       "onboard_time": 1753719322,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175535,
+      "num": 175535,
+      "word": "多家企业捐赠驰援北京",
+      "onboard_time": 1753765463,
+      "rank": 47,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 172621,
@@ -907,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105083,
+      "num": 211301,
+      "word": "河北一超市多名顾客强行开榴莲试吃",
+      "onboard_time": 1753765285,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103578,
       "num": 103578,
       "word": "货车坠桥遭村民哄抢冻品损失40万",
@@ -1003,12 +1131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84533,
+      "num": 206418,
+      "word": "樊振东坚毅眼神",
+      "onboard_time": 1753765164,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83424,
       "num": 615648,
       "word": "育儿补贴制度实施方案发布",
       "onboard_time": 1753694122,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81859,
+      "num": 153117,
+      "word": "承德兴隆县部分村庄发生山洪泥石流",
+      "onboard_time": 1753764146,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 81684,
@@ -1147,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58668,
+      "num": 204302,
+      "word": "女子上班挤断手指被说不是公司的人",
+      "onboard_time": 1753765285,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58108,
       "num": 58108,
       "word": "中方回应乌方制裁中国等国个人法人实体",
@@ -1195,11 +1347,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47619,
+      "num": 211201,
+      "word": "曾策划袭击中国人的武装分子被击毙",
+      "onboard_time": 1753765344,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39102,
       "num": 82201,
       "word": "北京再发洪水黄色预警",
       "onboard_time": 1753746020,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37491,
+      "num": 231656,
+      "word": "12306回应卧铺车厢里跳广场舞",
+      "onboard_time": 1753765344,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
