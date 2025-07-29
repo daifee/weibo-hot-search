@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753774275856,
+  "endTime": 1753775173869,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 669202,
+      "num": 669202,
+      "word": "男子网购退货私吞800件赠品",
+      "onboard_time": 1753772003,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 623268,
       "num": 498816,
       "word": "迪丽热巴接受三个月高强度警务特训",
@@ -209,6 +217,14 @@
       "onboard_time": 1753756881,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 524737,
+      "num": 524737,
+      "word": "杨洋李乃文全方面搞砸",
+      "onboard_time": 1753772063,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 504906,
@@ -299,14 +315,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 434741,
-      "num": 434741,
-      "word": "男子网购退货私吞800件赠品",
-      "onboard_time": 1753772003,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 433619,
       "num": 271179,
       "word": "吴艳妮称说我整容代表我好看",
@@ -323,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424596,
-      "num": 424596,
-      "word": "杨洋李乃文全方面搞砸",
-      "onboard_time": 1753772063,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 414769,
+      "num": 414769,
+      "word": "女主播每天喝4杯冰奶茶突然失声",
+      "onboard_time": 1753766904,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406929,
@@ -347,20 +355,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 379708,
-      "num": 379708,
-      "word": "女主播每天喝4杯冰奶茶突然失声",
-      "onboard_time": 1753766904,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365168,
       "num": 376198,
       "word": "民航版12306直销机票来了",
       "onboard_time": 1753762044,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360540,
+      "num": 270141,
+      "word": "35岁两次患晚期癌症她说自己是种代价",
+      "onboard_time": 1753773264,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 340530,
+      "num": 340530,
+      "word": "龚俊 当初张艺兴都没敢锁孙红雷喉",
+      "onboard_time": 1753773442,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 337551,
@@ -427,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293390,
+      "num": 242892,
+      "word": "你猜关闭朋友圈一年会发生什么",
+      "onboard_time": 1753769124,
+      "rank": 23,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 293231,
       "num": 211562,
       "word": "最疯狂的缅甸度过最惊魂的一夜",
@@ -457,14 +481,6 @@
       "onboard_time": 1753762646,
       "rank": 27,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 270141,
-      "num": 270141,
-      "word": "35岁两次患晚期癌症她说自己是种代价",
-      "onboard_time": 1753773264,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 269333,
@@ -537,14 +553,6 @@
       "onboard_time": 1753744880,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242892,
-      "num": 242892,
-      "word": "你猜关闭朋友圈一年会发生什么",
-      "onboard_time": 1753769124,
-      "rank": 23,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 242460,
@@ -659,6 +667,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 206598,
+      "num": 239299,
+      "word": "南宫婉选角",
+      "onboard_time": 1753773983,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205501,
       "num": 210295,
       "word": "密室大逃脱",
@@ -689,14 +705,6 @@
       "onboard_time": 1753761203,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203680,
-      "num": 203680,
-      "word": "龚俊 当初张艺兴都没敢锁孙红雷喉",
-      "onboard_time": 1753773442,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 203587,
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193470,
+      "num": 193470,
+      "word": "王楚钦达成150周世排前十",
+      "onboard_time": 1753774461,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191547,
       "num": 210998,
       "word": "729声工场九周年",
@@ -833,6 +849,14 @@
       "onboard_time": 1753756282,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 186083,
+      "num": 186083,
+      "word": "原来这些都是王玉雯",
+      "onboard_time": 1753774524,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 185683,
@@ -929,6 +953,14 @@
       "onboard_time": 1753746742,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172467,
+      "num": 172467,
+      "word": "会计挪用294万获利1600退休后被判刑",
+      "onboard_time": 1753774524,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172048,
@@ -1075,6 +1107,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153059,
+      "num": 320961,
+      "word": "无信号时可发北斗卫星应急短信",
+      "onboard_time": 1753772543,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150409,
+      "num": 150409,
+      "word": "王楚钦证明自我价值的方式",
+      "onboard_time": 1753774524,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150101,
       "num": 150101,
       "word": "3小孩卖冰棍遭遇霸王餐",
@@ -1091,20 +1139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148190,
-      "num": 148190,
-      "word": "南宫婉选角",
-      "onboard_time": 1753773983,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147095,
       "num": 147095,
       "word": "北京解除暴雨黄色预警",
       "onboard_time": 1753773024,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146351,
+      "num": 146351,
+      "word": "微信聊天记录可以断舍离吗",
+      "onboard_time": 1753772961,
+      "rank": 44,
+      "category": "互联网,互联网"
     },
     {
       "raw_hot": 145747,
@@ -1163,6 +1211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136231,
+      "num": 136231,
+      "word": "深情眼",
+      "onboard_time": 1753774403,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136153,
       "num": 136153,
       "word": "宋小宝回应白血病女孩私信",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1753765824,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135322,
+      "num": 135322,
+      "word": "你考虑换iPhone17吗",
+      "onboard_time": 1753771462,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 134423,
@@ -1251,14 +1315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127901,
-      "num": 320961,
-      "word": "无信号时可发北斗卫星应急短信",
-      "onboard_time": 1753772543,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125265,
       "num": 125265,
       "word": "爷爷是时候该把孙子逐出族谱了",
@@ -1299,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120181,
+      "num": 120181,
+      "word": "饮料换配方 果葡糖浆",
+      "onboard_time": 1753773082,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119853,
       "num": 119853,
       "word": "杨洋你也半夜听郭德纲吗",
@@ -1315,20 +1379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119010,
-      "num": 119010,
-      "word": "你考虑换iPhone17吗",
-      "onboard_time": 1753771462,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 118762,
       "num": 118762,
       "word": "镇政府回应整个镇因暴雨断联",
       "onboard_time": 1753770562,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 118385,
+      "num": 129823,
+      "word": "哈啰宠物快车小狗被关后备箱闷死",
+      "onboard_time": 1753773682,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117946,
@@ -1345,22 +1409,6 @@
       "onboard_time": 1753771942,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 117487,
-      "num": 117487,
-      "word": "微信聊天记录可以断舍离吗",
-      "onboard_time": 1753772961,
-      "rank": 44,
-      "category": "互联网,互联网"
-    },
-    {
-      "raw_hot": 116636,
-      "num": 116636,
-      "word": "饮料换配方 果葡糖浆",
-      "onboard_time": 1753773082,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 116092,
@@ -1547,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96691,
+      "num": 272939,
+      "word": "北京提醒防范山体崩塌",
+      "onboard_time": 1753774342,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95496,
       "num": 95496,
       "word": "日本烟花怪兽",
@@ -1616,14 +1672,6 @@
       "word": "密云暴雨",
       "onboard_time": 1753714166,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87111,
-      "num": 129823,
-      "word": "哈啰宠物快车小狗被关后备箱闷死",
-      "onboard_time": 1753773682,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1713,6 +1761,14 @@
       "onboard_time": 1753715724,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76610,
+      "num": 173171,
+      "word": "香港荃湾悦来酒店命案细节曝光",
+      "onboard_time": 1753774342,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76086,
@@ -1819,11 +1875,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58822,
+      "num": 135707,
+      "word": "开锁费从60变800元客户直接报警",
+      "onboard_time": 1753774642,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58668,
       "num": 204302,
       "word": "女子上班挤断手指被说不是公司的人",
       "onboard_time": 1753765285,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58356,
+      "num": 231104,
+      "word": "北京4天下了近一年的雨",
+      "onboard_time": 1753774342,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1968,6 +2040,14 @@
       "word": "罗大美父亲暴瘦近20斤",
       "onboard_time": 1753730055,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14345,
+      "num": 550102,
+      "word": "武警官兵雨中连夜奋战加固堤坝",
+      "onboard_time": 1753746742,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],

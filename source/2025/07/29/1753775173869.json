@@ -1,0 +1,410 @@
+{
+  "runTime": 1753775173869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153286,
+        "num": 1184525,
+        "word": "天津蓟州爆发70年来最大山洪",
+        "onboard_time": 1753769663,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 669202,
+        "num": 669202,
+        "word": "男子网购退货私吞800件赠品",
+        "onboard_time": 1753772003,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14345,
+        "num": 550102,
+        "word": "武警官兵雨中连夜奋战加固堤坝",
+        "onboard_time": 1753746742,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524737,
+        "num": 524737,
+        "word": "杨洋李乃文全方面搞砸",
+        "onboard_time": 1753772063,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421100,
+        "num": 421100,
+        "word": "田曦薇将cos千金淑猫",
+        "onboard_time": 1753769001,
+        "rank": 4,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 414769,
+        "num": 414769,
+        "word": "女主播每天喝4杯冰奶茶突然失声",
+        "onboard_time": 1753766904,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408769,
+        "num": 408769,
+        "word": "iPhone17Pro原型机曝光",
+        "onboard_time": 1753758084,
+        "rank": 6,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 340530,
+        "num": 340530,
+        "word": "龚俊 当初张艺兴都没敢锁孙红雷喉",
+        "onboard_time": 1753773442,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273218,
+        "num": 273218,
+        "word": "河北承德一镇因暴雨断联",
+        "onboard_time": 1753764926,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 96691,
+        "num": 272939,
+        "word": "北京提醒防范山体崩塌",
+        "onboard_time": 1753774342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1014169,
+        "num": 262070,
+        "word": "小英要离婚了",
+        "onboard_time": 1753760784,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 553568,
+        "num": 253552,
+        "word": "北京因灾死亡30人",
+        "onboard_time": 1753744518,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532208,
+        "num": 250486,
+        "word": "汪苏泷曾因口误连夜向容祖儿道歉",
+        "onboard_time": 1753766782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242967,
+        "num": 242967,
+        "word": "河北滦平强降雨已致8人死亡",
+        "onboard_time": 1753765885,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 428371,
+        "num": 242923,
+        "word": "突然失去住持的少林寺戒备森严",
+        "onboard_time": 1753761144,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284569,
+        "num": 242669,
+        "word": "三甲医院医生谈李晟岔腿坐是有益的",
+        "onboard_time": 1753764265,
+        "rank": 15,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 242324,
+        "num": 242324,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1753767503,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206598,
+        "num": 239299,
+        "word": "南宫婉选角",
+        "onboard_time": 1753773983,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52655,
+        "num": 236933,
+        "word": "少前2最强轮椅",
+        "onboard_time": 1753772003,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58356,
+        "num": 231104,
+        "word": "北京4天下了近一年的雨",
+        "onboard_time": 1753774342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360540,
+        "num": 227700,
+        "word": "35岁两次患晚期癌症她说自己是种代价",
+        "onboard_time": 1753773264,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293390,
+        "num": 224454,
+        "word": "你猜关闭朋友圈一年会发生什么",
+        "onboard_time": 1753769124,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 223536,
+        "num": 223536,
+        "word": "这次极端暴雨怎么来的",
+        "onboard_time": 1753751723,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193470,
+        "num": 193470,
+        "word": "王楚钦达成150周世排前十",
+        "onboard_time": 1753774461,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210686,
+        "num": 192436,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186948,
+        "num": 186948,
+        "word": "苹果首次在中国关停直营店",
+        "onboard_time": 1753767444,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186083,
+        "num": 186083,
+        "word": "原来这些都是王玉雯",
+        "onboard_time": 1753774524,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178391,
+        "num": 178391,
+        "word": "何炅年纪大阅历就是丰富",
+        "onboard_time": 1753773622,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164865,
+        "num": 173966,
+        "word": "虞书欣cos焦糖拿铁",
+        "onboard_time": 1753762646,
+        "rank": 28,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 76610,
+        "num": 173171,
+        "word": "香港荃湾悦来酒店命案细节曝光",
+        "onboard_time": 1753774342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172467,
+        "num": 172467,
+        "word": "会计挪用294万获利1600退休后被判刑",
+        "onboard_time": 1753774524,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163944,
+        "num": 163944,
+        "word": "汪苏泷方律师严正声明",
+        "onboard_time": 1753755862,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153059,
+        "num": 153059,
+        "word": "无信号时可发北斗卫星应急短信",
+        "onboard_time": 1753772543,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150409,
+        "num": 150409,
+        "word": "王楚钦证明自我价值的方式",
+        "onboard_time": 1753774524,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147154,
+        "num": 147154,
+        "word": "热巴回复郭晓婷",
+        "onboard_time": 1753763786,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 146351,
+        "num": 146351,
+        "word": "微信聊天记录可以断舍离吗",
+        "onboard_time": 1753772961,
+        "rank": 35,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 144800,
+        "num": 144800,
+        "word": "一家三口吃清洗过的鸡蛋后中毒",
+        "onboard_time": 1753756162,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "被困男子大喊先救我媳妇儿",
+        "onboard_time": 1753772182,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 136231,
+        "num": 136231,
+        "word": "深情眼",
+        "onboard_time": 1753774403,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58822,
+        "num": 135707,
+        "word": "开锁费从60变800元客户直接报警",
+        "onboard_time": 1753774642,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135322,
+        "num": 135322,
+        "word": "你考虑换iPhone17吗",
+        "onboard_time": 1753771462,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134789,
+        "num": 134789,
+        "word": "小英一天花10万",
+        "onboard_time": 1753768522,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129523,
+        "num": 129523,
+        "word": "韩国87元一碗的排骨汤全是大肥肉",
+        "onboard_time": 1753764865,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126370,
+        "num": 126370,
+        "word": "利剑玫瑰使用闵玧其童年照",
+        "onboard_time": 1753771344,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124663,
+        "num": 124663,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1753763786,
+        "rank": 44,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 120181,
+        "num": 120181,
+        "word": "饮料换配方 果葡糖浆",
+        "onboard_time": 1753773082,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119626,
+        "num": 119626,
+        "word": "日本女生最美上班照走红",
+        "onboard_time": 1753758623,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119026,
+        "num": 119026,
+        "word": "孙红雷跳张艺兴的sheep",
+        "onboard_time": 1753769425,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112233,
+        "num": 118412,
+        "word": "杨洋韩立连续两天V榜第一",
+        "onboard_time": 1753773743,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118385,
+        "num": 118385,
+        "word": "哈啰宠物快车小狗被关后备箱闷死",
+        "onboard_time": 1753773682,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全力保障人民生命财产安全#"
+    }
+  }
+}
