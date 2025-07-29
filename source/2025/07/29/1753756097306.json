@@ -1,0 +1,410 @@
+{
+  "runTime": 1753756097306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818482,
+        "num": 1818482,
+        "word": "北京大哥用铲斗端出80多条人命",
+        "onboard_time": 1753749924,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 558452,
+        "num": 558452,
+        "word": "这次极端暴雨怎么来的",
+        "onboard_time": 1753751723,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53600,
+        "num": 309299,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623268,
+        "num": 308305,
+        "word": "迪丽热巴接受三个月高强度警务特训",
+        "onboard_time": 1753751544,
+        "rank": 3,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 299202,
+        "num": 299202,
+        "word": "无人机向北京灾区空投面包火腿肠",
+        "onboard_time": 1753753342,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 288054,
+        "num": 288054,
+        "word": "爸爸回应女儿去世儿子患同种病进ICU",
+        "onboard_time": 1753726456,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279667,
+        "num": 279667,
+        "word": "居家办公",
+        "onboard_time": 1753717583,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5818302,
+        "num": 5818302,
+        "word": "北京因灾死亡30人",
+        "onboard_time": 1753744518,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217915,
+        "num": 217915,
+        "word": "谍报上不封顶",
+        "onboard_time": 1753754361,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215251,
+        "num": 215251,
+        "word": "于途和晶晶终究走上了事业疯批路",
+        "onboard_time": 1753749204,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458300,
+        "num": 214787,
+        "word": "因花园太丑华人收2000美元罚款",
+        "onboard_time": 1753746682,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 430710,
+        "num": 214049,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323458,
+        "num": 212852,
+        "word": "黄金星球全球均分每人可分6912亿",
+        "onboard_time": 1753750345,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407232,
+        "num": 211991,
+        "word": "聚焦北京暴雨",
+        "onboard_time": 1753713386,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293231,
+        "num": 211562,
+        "word": "最疯狂的缅甸度过最惊魂的一夜",
+        "onboard_time": 1753749265,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285126,
+        "num": 210862,
+        "word": "美国发现一颗富含黄金小行星",
+        "onboard_time": 1753713924,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245166,
+        "num": 209284,
+        "word": "全红婵近照",
+        "onboard_time": 1753717042,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231194,
+        "num": 208367,
+        "word": "网易云回应张碧晨原唱取消又恢复",
+        "onboard_time": 1753713205,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103925,
+        "num": 207813,
+        "word": "北京累计转移80332人",
+        "onboard_time": 1753755802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172621,
+        "num": 207005,
+        "word": "许我耀眼双轨或将对打",
+        "onboard_time": 1753746742,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373778,
+        "num": 206118,
+        "word": "吴艳妮称说我整容代表我好看",
+        "onboard_time": 1753754603,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282620,
+        "num": 205098,
+        "word": "切断孩子手机上瘾最快的方法",
+        "onboard_time": 1753751783,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204917,
+        "num": 204917,
+        "word": "突然意识到自己上了年纪的瞬间",
+        "onboard_time": 1753752204,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189355,
+        "num": 189355,
+        "word": "她一个月赶的通勤比我一辈子还多",
+        "onboard_time": 1753754243,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 182035,
+        "num": 186626,
+        "word": "北京动用空中力量支援受困地区",
+        "onboard_time": 1753754243,
+        "rank": 24,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 185683,
+        "num": 185683,
+        "word": "平野美宇叫孙颖莎莎莎桑",
+        "onboard_time": 1753752144,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181687,
+        "num": 181687,
+        "word": "网易云取消张碧晨三首歌原唱",
+        "onboard_time": 1753700003,
+        "rank": 26,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 173173,
+        "num": 173173,
+        "word": "密云水库泄流的水去哪了",
+        "onboard_time": 1753744580,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158182,
+        "num": 164828,
+        "word": "汪苏泷方律师严正声明",
+        "onboard_time": 1753755862,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91367,
+        "num": 162678,
+        "word": "为什么要去看演唱会",
+        "onboard_time": 1753747764,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160563,
+        "num": 160563,
+        "word": "男子用几十元挡雨帘替代封阳台",
+        "onboard_time": 1753749384,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155220,
+        "num": 155220,
+        "word": "鹿晗高瀚宇扫腿舞",
+        "onboard_time": 1753751965,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150159,
+        "num": 150159,
+        "word": "霍启刚发文祝贺郭晶晶",
+        "onboard_time": 1753744880,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150101,
+        "num": 150101,
+        "word": "3小孩卖冰棍遭遇霸王餐",
+        "onboard_time": 1753749204,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145747,
+        "num": 145747,
+        "word": "紧急预拨3.5亿元中央自然灾害救灾资金",
+        "onboard_time": 1753752984,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 140457,
+        "num": 140457,
+        "word": "索尼起诉腾讯新游抄袭",
+        "onboard_time": 1753755982,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140238,
+        "num": 140238,
+        "word": "经常内耗的人其实有3个优势",
+        "onboard_time": 1753752204,
+        "rank": 36,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 125734,
+        "num": 125734,
+        "word": "3岁以下婴幼儿每年补贴3600元",
+        "onboard_time": 1753693764,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123118,
+        "num": 123118,
+        "word": "广东人陷入高温暴雨循环",
+        "onboard_time": 1753716683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117969,
+        "num": 117969,
+        "word": "王楚钦把世界前十赢了个遍",
+        "onboard_time": 1753745060,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113826,
+        "num": 113826,
+        "word": "英国将承认巴勒斯坦国",
+        "onboard_time": 1753750764,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111877,
+        "num": 111877,
+        "word": "陈若琳入选2025国际游泳名人堂",
+        "onboard_time": 1753755503,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110671,
+        "num": 110671,
+        "word": "B萌投票",
+        "onboard_time": 1753754902,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136041,
+        "num": 110553,
+        "word": "长安汽车新央企成立在即",
+        "onboard_time": 1753755263,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109798,
+        "num": 109798,
+        "word": "雷军雨天健身房打卡",
+        "onboard_time": 1753752204,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103688,
+        "num": 103688,
+        "word": "小英喂药量杯不洗",
+        "onboard_time": 1753709546,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96140,
+        "num": 96140,
+        "word": "故宫国博今天闭馆一天",
+        "onboard_time": 1753755862,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95496,
+        "num": 95496,
+        "word": "日本烟花怪兽",
+        "onboard_time": 1753750345,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94522,
+        "num": 94522,
+        "word": "2025年国际乒联第31周排名",
+        "onboard_time": 1753755562,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89976,
+        "num": 89976,
+        "word": "针对北京河北启动国家救灾应急响应",
+        "onboard_time": 1753715424,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧大个子携手下一个50年#"
+    }
+  }
+}

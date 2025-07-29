@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753746279284,
+  "endTime": 1753756097306,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5818302,
+      "num": 5818302,
+      "word": "北京因灾死亡30人",
+      "onboard_time": 1753744518,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5131686,
       "num": 5131686,
       "word": "董璇再婚",
@@ -265,14 +273,6 @@
       "onboard_time": 1752240986,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3860760,
-      "num": 4721521,
-      "word": "北京因灾死亡30人",
-      "onboard_time": 1753744518,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3744333,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1752030504,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1818482,
+      "num": 1818482,
+      "word": "北京大哥用铲斗端出80多条人命",
+      "onboard_time": 1753749924,
+      "rank": 0,
+      "category": "正能量"
     },
     {
       "raw_hot": 1805253,
@@ -9955,6 +9963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 623268,
+      "num": 308305,
+      "word": "迪丽热巴接受三个月高强度警务特训",
+      "onboard_time": 1753751544,
+      "rank": 3,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 623236,
       "num": 623236,
       "word": "烟台南山学院",
@@ -11473,6 +11489,14 @@
       "onboard_time": 1752845306,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558452,
+      "num": 558452,
+      "word": "这次极端暴雨怎么来的",
+      "onboard_time": 1753751723,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 558333,
@@ -14449,6 +14473,14 @@
       "onboard_time": 1752145822,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458300,
+      "num": 214787,
+      "word": "因花园太丑华人收2000美元罚款",
+      "onboard_time": 1753746682,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 457392,
@@ -17827,6 +17859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 373778,
+      "num": 206118,
+      "word": "吴艳妮称说我整容代表我好看",
+      "onboard_time": 1753754603,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373768,
       "num": 492866,
       "word": "未来一周热热热热热热热",
@@ -20595,6 +20635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323458,
+      "num": 212852,
+      "word": "黄金星球全球均分每人可分6912亿",
+      "onboard_time": 1753750345,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 323438,
       "num": 323438,
       "word": "GEN战胜AL",
@@ -22131,6 +22179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299202,
+      "num": 299202,
+      "word": "无人机向北京灾区空投面包火腿肠",
+      "onboard_time": 1753753342,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 299196,
       "num": 299196,
       "word": "王楚钦帅得好权威",
@@ -22593,6 +22649,14 @@
       "onboard_time": 1751723906,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293231,
+      "num": 211562,
+      "word": "最疯狂的缅甸度过最惊魂的一夜",
+      "onboard_time": 1753749265,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 293116,
@@ -23481,6 +23545,14 @@
       "onboard_time": 1753537585,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282620,
+      "num": 205098,
+      "word": "切断孩子手机上瘾最快的方法",
+      "onboard_time": 1753751783,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 282509,
@@ -30227,6 +30299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217915,
+      "num": 217915,
+      "word": "谍报上不封顶",
+      "onboard_time": 1752821360,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217796,
       "num": 217796,
       "word": "AL战胜Fly",
@@ -30744,6 +30824,14 @@
       "word": "秦是她的姓美是她的命",
       "onboard_time": 1752393682,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215251,
+      "num": 215251,
+      "word": "于途和晶晶终究走上了事业疯批路",
+      "onboard_time": 1753749204,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -32123,14 +32211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208617,
-      "num": 208617,
-      "word": "谍报上不封顶",
-      "onboard_time": 1752821360,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208594,
       "num": 208594,
       "word": "王楚钦快速进8强",
@@ -32945,6 +33025,14 @@
       "onboard_time": 1751762239,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204917,
+      "num": 204917,
+      "word": "突然意识到自己上了年纪的瞬间",
+      "onboard_time": 1753752204,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 204908,
@@ -37691,6 +37779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189355,
+      "num": 189355,
+      "word": "她一个月赶的通勤比我一辈子还多",
+      "onboard_time": 1753754243,
+      "rank": 23,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 189353,
       "num": 189353,
       "word": "山姆年初变更负责人",
@@ -38859,6 +38955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185683,
+      "num": 185683,
+      "word": "平野美宇叫孙颖莎莎莎桑",
+      "onboard_time": 1753752144,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185661,
       "num": 353593,
       "word": "中方回应限制一美国银行高管出境",
@@ -39913,6 +40017,14 @@
       "onboard_time": 1752067285,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182035,
+      "num": 186626,
+      "word": "北京动用空中力量支援受困地区",
+      "onboard_time": 1753754243,
+      "rank": 24,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 182020,
@@ -42912,6 +43024,14 @@
       "word": "今夕赫夕",
       "onboard_time": 1752481042,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172621,
+      "num": 207005,
+      "word": "许我耀眼双轨或将对打",
+      "onboard_time": 1753746742,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -46899,6 +47019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160563,
+      "num": 160563,
+      "word": "男子用几十元挡雨帘替代封阳台",
+      "onboard_time": 1753749384,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160542,
       "num": 160542,
       "word": "张予曦毕雯珺红裙单手抱",
@@ -47817,6 +47945,14 @@
       "onboard_time": 1752063384,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158182,
+      "num": 164828,
+      "word": "汪苏泷方律师严正声明",
+      "onboard_time": 1753755862,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 158168,
@@ -49105,6 +49241,14 @@
       "onboard_time": 1751463383,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155220,
+      "num": 155220,
+      "word": "鹿晗高瀚宇扫腿舞",
+      "onboard_time": 1753751965,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 155211,
@@ -51195,6 +51339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150101,
+      "num": 150101,
+      "word": "3小孩卖冰棍遭遇霸王餐",
+      "onboard_time": 1753749204,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150095,
       "num": 150095,
       "word": "下午还没起床的妹妹被妈妈缝床上了",
@@ -53153,6 +53305,14 @@
       "onboard_time": 1752303021,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145747,
+      "num": 145747,
+      "word": "紧急预拨3.5亿元中央自然灾害救灾资金",
+      "onboard_time": 1753752984,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 145741,
@@ -55443,6 +55603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140457,
+      "num": 140457,
+      "word": "索尼起诉腾讯新游抄袭",
+      "onboard_time": 1753755982,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140451,
       "num": 140451,
       "word": "减肥不提倡戒掉任何东西",
@@ -55545,6 +55713,14 @@
       "onboard_time": 1751723007,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140238,
+      "num": 140238,
+      "word": "经常内耗的人其实有3个优势",
+      "onboard_time": 1753752204,
+      "rank": 36,
+      "category": "情感,健康医疗"
     },
     {
       "raw_hot": 140233,
@@ -57609,6 +57785,14 @@
       "onboard_time": 1752220703,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136041,
+      "num": 110553,
+      "word": "长安汽车新央企成立在即",
+      "onboard_time": 1753755263,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 136023,
@@ -69931,6 +70115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113826,
+      "num": 113826,
+      "word": "英国将承认巴勒斯坦国",
+      "onboard_time": 1753750764,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113811,
       "num": 113811,
       "word": "ACT对战MRC",
@@ -71147,6 +71339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111877,
+      "num": 111877,
+      "word": "陈若琳入选2025国际游泳名人堂",
+      "onboard_time": 1753755503,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111875,
       "num": 134105,
       "word": "调查组明日进驻中国黄金内蒙古矿业",
@@ -72169,6 +72369,14 @@
       "onboard_time": 1752576082,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109798,
+      "num": 109798,
+      "word": "雷军雨天健身房打卡",
+      "onboard_time": 1753752204,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 109758,
@@ -75089,6 +75297,14 @@
       "onboard_time": 1753356023,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103925,
+      "num": 207813,
+      "word": "北京累计转移80332人",
+      "onboard_time": 1753755802,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103922,
@@ -78107,6 +78323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96140,
+      "num": 96140,
+      "word": "故宫国博今天闭馆一天",
+      "onboard_time": 1753755862,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96109,
       "num": 152692,
       "word": "晚晚回应没有义务分享",
@@ -78297,6 +78521,14 @@
       "onboard_time": 1753266143,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95496,
+      "num": 95496,
+      "word": "日本烟花怪兽",
+      "onboard_time": 1753750345,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95485,
@@ -78608,6 +78840,14 @@
       "word": "WTT回应雨果无缘美国大满贯",
       "onboard_time": 1751621243,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94522,
+      "num": 94522,
+      "word": "2025年国际乒联第31周排名",
+      "onboard_time": 1753755562,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -79609,6 +79849,14 @@
       "onboard_time": 1752804082,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91367,
+      "num": 162678,
+      "word": "为什么要去看演唱会",
+      "onboard_time": 1753747764,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 91355,

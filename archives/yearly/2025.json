@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753746279284,
+  "endTime": 1753756097306,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1643,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5818302,
+      "num": 5818302,
+      "word": "北京因灾死亡30人",
+      "onboard_time": 1753744518,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5694074,
       "num": 5694074,
       "word": "自由点道歉",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1735814900,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3860760,
-      "num": 4721521,
-      "word": "北京因灾死亡30人",
-      "onboard_time": 1753744518,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3850490,
