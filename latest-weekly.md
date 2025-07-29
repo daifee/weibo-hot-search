@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/27 00:32:25 ~ 2025/07/30 03:41:25
+本榜单时间：2025/07/27 00:32:25 ~ 2025/07/30 04:32:17
 </p>
 </blockquote>
 <p>
@@ -7239,6 +7239,12 @@ QQ你对我意见很大吗（热度：81068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A726%E5%B2%81%E5%8D%8E%E8%A3%94%E5%B0%8F%E4%BC%99%E4%B8%AD%E7%BA%A63%E4%BA%BF%E5%85%83%E5%A4%A7%E5%A5%96%23" target="weibo">
+加拿大26岁华裔小伙中约3亿元大奖（热度：64448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2369%E5%B2%81%E7%9A%84%E5%81%A5%E8%BA%AB%E5%A5%B3%E5%AD%A9%E4%BB%80%E4%B9%88%E6%A0%B7%23" target="weibo">
 69岁的健身女孩什么样（热度：64334）
 </a>
@@ -7977,6 +7983,12 @@ First电影节 只有熟客的主理人店（热度：23990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%8E%9F%E7%BA%BD%E7%BA%A6%E6%9B%BC%E5%93%88%E9%A1%BF%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
+还原纽约曼哈顿枪击事件（热度：18024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E9%87%8A%E6%B0%B8%E4%BF%A1%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E5%92%8C%E5%B0%91%E6%9E%97%E7%B3%BB%E4%BA%A7%E4%B8%9A%23" target="weibo">
 盘点释永信相关企业和少林系产业（热度：17263）
 </a>
@@ -8003,12 +8015,6 @@ First电影节 只有熟客的主理人店（热度：23990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A7%91%E5%A8%98%E4%B8%BA%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E5%81%9A%E7%BE%8E%E7%94%B2%23" target="weibo">
 95后姑娘为大爷大妈做美甲（热度：14796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%8E%9F%E7%BA%BD%E7%BA%A6%E6%9B%BC%E5%93%88%E9%A1%BF%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
-还原纽约曼哈顿枪击事件（热度：14192）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/30 00:35:55 ~ 2025/07/30 03:41:25
+本榜单时间：2025/07/30 00:35:55 ~ 2025/07/30 04:32:17
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ GALA 回去好好休息（热度：81508）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A726%E5%B2%81%E5%8D%8E%E8%A3%94%E5%B0%8F%E4%BC%99%E4%B8%AD%E7%BA%A63%E4%BA%BF%E5%85%83%E5%A4%A7%E5%A5%96%23" target="weibo">
+加拿大26岁华裔小伙中约3亿元大奖（热度：64448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%A0%91%E6%9E%97%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%A2%AB%E4%B8%A2%E5%BC%83%E8%8D%AF%E5%93%81%23" target="weibo">
 江西一树林现大量被丢弃药品（热度：63800）
 </a>
@@ -406,7 +412,7 @@ First电影节 只有熟客的主理人店（热度：23990）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%8E%9F%E7%BA%BD%E7%BA%A6%E6%9B%BC%E5%93%88%E9%A1%BF%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
-还原纽约曼哈顿枪击事件（热度：14192）
+还原纽约曼哈顿枪击事件（热度：18024）
 </a>
 </li>
 

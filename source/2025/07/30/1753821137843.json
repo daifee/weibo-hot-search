@@ -1,0 +1,410 @@
+{
+  "runTime": 1753821137843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94680,
+        "num": 94680,
+        "word": "成人安抚奶嘴走红月销量破千",
+        "onboard_time": 1753802903,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77035,
+        "num": 77035,
+        "word": "推动美方暂停的对等关税24%如期展期",
+        "onboard_time": 1753807101,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4021,
+        "num": 69791,
+        "word": "双曲线一号遥十运载火箭发射成功",
+        "onboard_time": 1753767863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68962,
+        "num": 68962,
+        "word": "卫健委回应树林发现大量被丢弃药品",
+        "onboard_time": 1753808060,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64448,
+        "num": 64448,
+        "word": "加拿大26岁华裔小伙中约3亿元大奖",
+        "onboard_time": 1753818854,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59086,
+        "num": 59086,
+        "word": "中美双方经贸团队将继续密切沟通",
+        "onboard_time": 1753807400,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58281,
+        "num": 58281,
+        "word": "成都地铁防走光设计",
+        "onboard_time": 1753804883,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47874,
+        "num": 47874,
+        "word": "王楚钦孙颖莎巴黎混双夺金一周年",
+        "onboard_time": 1753807160,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32104,
+        "num": 44004,
+        "word": "白鹿支持过虞书欣专辑",
+        "onboard_time": 1753815375,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25732,
+        "num": 42777,
+        "word": "2025年赵默笙41岁",
+        "onboard_time": 1753806562,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154647,
+        "num": 42739,
+        "word": "亲爱的柳岩女士 时代跟上你了",
+        "onboard_time": 1753805963,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42162,
+        "num": 42162,
+        "word": "QQ音乐回应张碧晨仍是年轮原唱",
+        "onboard_time": 1753791263,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40656,
+        "num": 40656,
+        "word": "店员故意文丑眉强迫顾客升单获刑",
+        "onboard_time": 1753804763,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39384,
+        "num": 39384,
+        "word": "孕妇遭有电诈前科亲戚诱骗失联6天",
+        "onboard_time": 1753806740,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38889,
+        "num": 38889,
+        "word": "床垫买成800元扔掉花了500元",
+        "onboard_time": 1753804223,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36528,
+        "num": 36528,
+        "word": "上海台风",
+        "onboard_time": 1753780520,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34851,
+        "num": 34851,
+        "word": "清朝状元的名字完全无网红感",
+        "onboard_time": 1753798345,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30226,
+        "num": 30226,
+        "word": "世界之外史诗级公关",
+        "onboard_time": 1753790001,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21035,
+        "num": 30055,
+        "word": "刘浩存主角路透",
+        "onboard_time": 1753806142,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20052,
+        "num": 29915,
+        "word": "南京照相馆是否适合小朋友观看",
+        "onboard_time": 1753811537,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41502,
+        "num": 29909,
+        "word": "第一次对成龙71岁有了实感",
+        "onboard_time": 1753786400,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29899,
+        "num": 29899,
+        "word": "世界之外",
+        "onboard_time": 1753781424,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 26679,
+        "word": "内娱惊为天人的帅哥",
+        "onboard_time": 1753783763,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25282,
+        "num": 25282,
+        "word": "女子得知弟媳被家暴怒扇亲弟弟",
+        "onboard_time": 1753791202,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24658,
+        "num": 24658,
+        "word": "印度医生睡着致伤者失血身亡",
+        "onboard_time": 1753792582,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24221,
+        "num": 24221,
+        "word": "无期迷途",
+        "onboard_time": 1753797384,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23152,
+        "num": 23152,
+        "word": "4个可能让你变丑的睡姿",
+        "onboard_time": 1753810698,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22781,
+        "num": 22781,
+        "word": "赴山海因谣言延播属实太冤",
+        "onboard_time": 1753792282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17112,
+        "num": 22044,
+        "word": "迪丽热巴哭戏",
+        "onboard_time": 1753794865,
+        "rank": 28,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 16488,
+        "num": 21988,
+        "word": "关晓彤跳了美美桑内",
+        "onboard_time": 1753797265,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21936,
+        "num": 21936,
+        "word": "女子发现电影院座椅布满白色虫卵",
+        "onboard_time": 1753802364,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21818,
+        "num": 21818,
+        "word": "维生素D真的很神奇",
+        "onboard_time": 1753790001,
+        "rank": 31,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 21369,
+        "num": 21369,
+        "word": "B萌",
+        "onboard_time": 1753802484,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21161,
+        "num": 21161,
+        "word": "成都地铁回应步梯防走光设计",
+        "onboard_time": 1753808778,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20943,
+        "num": 20943,
+        "word": "深圳一央企被爆大量员工资金被套",
+        "onboard_time": 1753803384,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20044,
+        "num": 20943,
+        "word": "肠粉 硼砂",
+        "onboard_time": 1753782981,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19448,
+        "num": 20941,
+        "word": "大理上空现大量蜘蛛",
+        "onboard_time": 1753802364,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18679,
+        "num": 20941,
+        "word": "副教授被精神病人杀害家属起诉人社局",
+        "onboard_time": 1753806681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18390,
+        "num": 20941,
+        "word": "外卖员组团评论区感谢孙颖莎",
+        "onboard_time": 1753804044,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18220,
+        "num": 20940,
+        "word": "差1分同考上南大双胞胎错题都一样",
+        "onboard_time": 1753797026,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 18102,
+        "num": 20939,
+        "word": "多家银行集体封杀一贷款中介",
+        "onboard_time": 1753796724,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18024,
+        "num": 20938,
+        "word": "还原纽约曼哈顿枪击事件",
+        "onboard_time": 1753816694,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17805,
+        "num": 20937,
+        "word": "47岁练瑜伽一年的体态变化",
+        "onboard_time": 1753797026,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 17535,
+        "num": 20936,
+        "word": "陈都灵内娱第一位饭拍路透破千万点赞",
+        "onboard_time": 1753792702,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15195,
+        "num": 20936,
+        "word": "助理否认沈玉琳进ICU",
+        "onboard_time": 1753797384,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16340,
+        "num": 20935,
+        "word": "为什么十年前没让我刷到这句话",
+        "onboard_time": 1753793121,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15806,
+        "num": 20934,
+        "word": "27岁存款30万从体制内辞职了",
+        "onboard_time": 1753781182,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 15785,
+        "num": 20934,
+        "word": "恩利 谢谢爸爸照顾我的红屁股",
+        "onboard_time": 1753796185,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15557,
+        "num": 20933,
+        "word": "高叶回应南京照相馆是否适合小朋友",
+        "onboard_time": 1753816816,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15024,
+        "num": 20933,
+        "word": "欧阳娜娜归国千金既视感",
+        "onboard_time": 1753801704,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}
