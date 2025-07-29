@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753778276522,
+  "endTime": 1753779192568,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1024565,
+      "num": 1163930,
+      "word": "会计挪用294万获利1600退休后被判刑",
+      "onboard_time": 1753774524,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1019836,
       "num": 1019836,
       "word": "针对北京河北启动国家救灾应急响应",
@@ -105,14 +113,6 @@
       "onboard_time": 1753758623,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 851573,
-      "num": 1136251,
-      "word": "会计挪用294万获利1600退休后被判刑",
-      "onboard_time": 1753774524,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 846280,
@@ -371,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 391472,
+      "num": 249986,
+      "word": "妈我已经过了需要你的年龄了",
+      "onboard_time": 1753776982,
+      "rank": 20,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 365168,
       "num": 376198,
       "word": "民航版12306直销机票来了",
@@ -385,6 +393,14 @@
       "onboard_time": 1753773264,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 337756,
+      "num": 323108,
+      "word": "南宫婉选角",
+      "onboard_time": 1753773983,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 337551,
@@ -417,14 +433,6 @@
       "onboard_time": 1753750345,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 323108,
-      "num": 323108,
-      "word": "南宫婉选角",
-      "onboard_time": 1753773983,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 321023,
@@ -563,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250762,
-      "num": 196669,
-      "word": "妈我已经过了需要你的年龄了",
-      "onboard_time": 1753776982,
-      "rank": 20,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 250698,
       "num": 250698,
       "word": "魏如萱道歉",
@@ -585,6 +585,14 @@
       "onboard_time": 1753744880,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248986,
+      "num": 248986,
+      "word": "洪水冲走千万金饰好心人送回1kg",
+      "onboard_time": 1753777282,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242460,
@@ -609,6 +617,14 @@
       "onboard_time": 1753773622,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222079,
+      "num": 222079,
+      "word": "印乐法师接任少林寺住持",
+      "onboard_time": 1753778962,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220755,
@@ -657,6 +673,14 @@
       "onboard_time": 1753717881,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 211318,
+      "num": 211318,
+      "word": "男子开锁坐地起价遭拒将母女2人反锁",
+      "onboard_time": 1753777222,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210765,
@@ -736,6 +760,14 @@
       "word": "利剑玫瑰使用闵玧其童年照",
       "onboard_time": 1753771344,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203364,
+      "num": 249567,
+      "word": "李兰迪2025现偶古偶有效破圈",
+      "onboard_time": 1753778062,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -873,6 +905,14 @@
       "onboard_time": 1753715724,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187530,
+      "num": 187530,
+      "word": "难怪没吃过透明的荔枝",
+      "onboard_time": 1753778543,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 186845,
@@ -1035,6 +1075,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 167503,
+      "num": 248912,
+      "word": "这游戏别让时代峰峻看到了",
+      "onboard_time": 1753778603,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167138,
+      "num": 167138,
+      "word": "华晨宇告泥塑娱乐博主胜诉",
+      "onboard_time": 1753778182,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165124,
       "num": 165124,
       "word": "曹骏城墙舞剑",
@@ -1065,6 +1121,22 @@
       "onboard_time": 1753758384,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163764,
+      "num": 163764,
+      "word": "剧集凡人修仙传热度破万",
+      "onboard_time": 1753778722,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163274,
+      "num": 163274,
+      "word": "Capper官宣海报只剩眼睛了",
+      "onboard_time": 1753778422,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 162639,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1753772543,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151998,
+      "num": 151998,
+      "word": "严浩翔真的把粉丝养得很好",
+      "onboard_time": 1753778243,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 150409,
@@ -1219,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143130,
-      "num": 143130,
-      "word": "李兰迪2025现偶古偶有效破圈",
-      "onboard_time": 1753778062,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142766,
       "num": 142766,
       "word": "杨幂也是村里人",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1753705405,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137839,
+      "num": 137839,
+      "word": "女双3米板中国世锦赛14连冠",
+      "onboard_time": 1753779023,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 136231,
@@ -1355,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131334,
+      "num": 131334,
+      "word": "薛小婉称整容花费几百万",
+      "onboard_time": 1753777642,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131269,
       "num": 146309,
       "word": "罗大美遗体已在太平间待了752天",
@@ -1363,19 +1451,19 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 130759,
-      "num": 130759,
-      "word": "华晨宇告泥塑娱乐博主胜诉",
-      "onboard_time": 1753778182,
-      "rank": 33,
+      "raw_hot": 129793,
+      "num": 129793,
+      "word": "傅首尔爆改做自己的女王",
+      "onboard_time": 1753779082,
+      "rank": 42,
       "category": "艺人"
     },
     {
-      "raw_hot": 129624,
-      "num": 130418,
-      "word": "男子开锁坐地起价遭拒将母女2人反锁",
-      "onboard_time": 1753777222,
-      "rank": 34,
+      "raw_hot": 129579,
+      "num": 226033,
+      "word": "印乐法师任少林寺住持",
+      "onboard_time": 1753778962,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1395,12 +1483,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127463,
+      "num": 127463,
+      "word": "一诺偶遇一个聪明男人",
+      "onboard_time": 1753778362,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125985,
       "num": 125985,
       "word": "2025ChinaJoy",
       "onboard_time": 1753777701,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125410,
+      "num": 125410,
+      "word": "98年药剂学小伙卖汉服单款年销八万件",
+      "onboard_time": 1753778663,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125382,
+      "num": 132903,
+      "word": "再也不敢洗完澡就洗内裤了",
+      "onboard_time": 1753778062,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125265,
@@ -1417,14 +1529,6 @@
       "onboard_time": 1753767084,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 123002,
-      "num": 123002,
-      "word": "严浩翔真的把粉丝养得很好",
-      "onboard_time": 1753778243,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 122986,
@@ -1625,14 +1729,6 @@
       "onboard_time": 1753769482,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108626,
-      "num": 127794,
-      "word": "再也不敢洗完澡就洗内裤了",
-      "onboard_time": 1753778062,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108307,
@@ -1859,14 +1955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80038,
-      "num": 200613,
-      "word": "洪水冲走千万金饰好心人送回1kg",
-      "onboard_time": 1753777282,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78396,
       "num": 146149,
       "word": "迪丽热巴打戏",
@@ -1921,6 +2009,14 @@
       "onboard_time": 1753714045,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74612,
+      "num": 248903,
+      "word": "河北承德一村遭泥石流网友发文求助",
+      "onboard_time": 1753777942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72811,
@@ -2067,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47637,
+      "num": 157103,
+      "word": "北京暴雨孕妇被困直升机接力送医",
+      "onboard_time": 1753777942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47629,
       "num": 113577,
       "word": "密云一养老院被洪水围困",
@@ -2105,14 +2209,6 @@
       "onboard_time": 1753770802,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32050,
-      "num": 140481,
-      "word": "北京暴雨孕妇被困直升机接力送医",
-      "onboard_time": 1753777942,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31852,
@@ -2155,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22347,
+      "num": 128198,
+      "word": "47岁欧弟晒一家三口合影回应婚变",
+      "onboard_time": 1753779143,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21210,
       "num": 21210,
       "word": "迪丽热巴利剑玫瑰开车追人贩子",
@@ -2180,27 +2284,11 @@
     },
     {
       "raw_hot": 19961,
-      "num": 126027,
+      "num": 132116,
       "word": "这群人平时开网约车灾情时开冲锋艇救人",
       "onboard_time": 1753776082,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19894,
-      "num": 199648,
-      "word": "河北承德一村遭泥石流网友发文求助",
-      "onboard_time": 1753777942,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15836,
-      "num": 126349,
-      "word": "薛小婉称整容花费几百万",
-      "onboard_time": 1753777642,
-      "rank": 38,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

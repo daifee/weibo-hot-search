@@ -1,0 +1,410 @@
+{
+  "runTime": 1753779192568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1024565,
+        "num": 1163930,
+        "word": "会计挪用294万获利1600退休后被判刑",
+        "onboard_time": 1753774524,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624943,
+        "num": 624943,
+        "word": "男子网购退货私吞800件赠品",
+        "onboard_time": 1753772003,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21611,
+        "num": 539914,
+        "word": "武警官兵雨中连夜奋战加固堤坝",
+        "onboard_time": 1753746742,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532540,
+        "num": 532540,
+        "word": "天津蓟州爆发70年来最大山洪",
+        "onboard_time": 1753769663,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 513701,
+        "num": 513701,
+        "word": "龚俊 当初张艺兴都没敢锁孙红雷喉",
+        "onboard_time": 1753773442,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400051,
+        "num": 400051,
+        "word": "杨洋李乃文全方面搞砸",
+        "onboard_time": 1753772063,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282393,
+        "num": 282393,
+        "word": "女主播每天喝4杯冰奶茶突然失声",
+        "onboard_time": 1753766904,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337756,
+        "num": 280614,
+        "word": "南宫婉选角",
+        "onboard_time": 1753773983,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276749,
+        "num": 276749,
+        "word": "河北滦平强降雨已致8人死亡",
+        "onboard_time": 1753765885,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 251199,
+        "num": 251199,
+        "word": "iPhone17Pro原型机曝光",
+        "onboard_time": 1753758084,
+        "rank": 9,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 870089,
+        "num": 251096,
+        "word": "小英要离婚了",
+        "onboard_time": 1753760784,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 405878,
+        "num": 250600,
+        "word": "汪苏泷曾因口误连夜向容祖儿道歉",
+        "onboard_time": 1753766782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399506,
+        "num": 250477,
+        "word": "突然失去住持的少林寺戒备森严",
+        "onboard_time": 1753761144,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391472,
+        "num": 249986,
+        "word": "妈我已经过了需要你的年龄了",
+        "onboard_time": 1753776982,
+        "rank": 13,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 316188,
+        "num": 249933,
+        "word": "35岁两次患晚期癌症她说自己是种代价",
+        "onboard_time": 1753773264,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203364,
+        "num": 249567,
+        "word": "李兰迪2025现偶古偶有效破圈",
+        "onboard_time": 1753778062,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184837,
+        "num": 249260,
+        "word": "田曦薇将cos千金淑猫",
+        "onboard_time": 1753769001,
+        "rank": 16,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 248986,
+        "num": 248986,
+        "word": "洪水冲走千万金饰好心人送回1kg",
+        "onboard_time": 1753777282,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167503,
+        "num": 248912,
+        "word": "这游戏别让时代峰峻看到了",
+        "onboard_time": 1753778603,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74612,
+        "num": 248903,
+        "word": "河北承德一村遭泥石流网友发文求助",
+        "onboard_time": 1753777942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248898,
+        "num": 248898,
+        "word": "只有瘦的人知道自己底子有多差",
+        "onboard_time": 1753776743,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 129579,
+        "num": 226033,
+        "word": "印乐法师任少林寺住持",
+        "onboard_time": 1753778962,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222079,
+        "num": 222079,
+        "word": "印乐法师接任少林寺住持",
+        "onboard_time": 1753778962,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211318,
+        "num": 211318,
+        "word": "男子开锁坐地起价遭拒将母女2人反锁",
+        "onboard_time": 1753777222,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198991,
+        "num": 198991,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187530,
+        "num": 187530,
+        "word": "难怪没吃过透明的荔枝",
+        "onboard_time": 1753778543,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167138,
+        "num": 167138,
+        "word": "华晨宇告泥塑娱乐博主胜诉",
+        "onboard_time": 1753778182,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163764,
+        "num": 163764,
+        "word": "剧集凡人修仙传热度破万",
+        "onboard_time": 1753778722,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163274,
+        "num": 163274,
+        "word": "Capper官宣海报只剩眼睛了",
+        "onboard_time": 1753778422,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47637,
+        "num": 157103,
+        "word": "北京暴雨孕妇被困直升机接力送医",
+        "onboard_time": 1753777942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163399,
+        "num": 157044,
+        "word": "第五人格",
+        "onboard_time": 1753777101,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156935,
+        "num": 156935,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1753767503,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151998,
+        "num": 151998,
+        "word": "严浩翔真的把粉丝养得很好",
+        "onboard_time": 1753778243,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145986,
+        "num": 145986,
+        "word": "原来这些都是王玉雯",
+        "onboard_time": 1753774524,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142996,
+        "num": 142996,
+        "word": "虞书欣cos焦糖拿铁",
+        "onboard_time": 1753762646,
+        "rank": 34,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 142249,
+        "num": 142249,
+        "word": "开锁费从60变800元客户直接报警",
+        "onboard_time": 1753774642,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137839,
+        "num": 137839,
+        "word": "女双3米板中国世锦赛14连冠",
+        "onboard_time": 1753779023,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136097,
+        "num": 136097,
+        "word": "你猜关闭朋友圈一年会发生什么",
+        "onboard_time": 1753769124,
+        "rank": 37,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 125382,
+        "num": 132903,
+        "word": "再也不敢洗完澡就洗内裤了",
+        "onboard_time": 1753778062,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12824,
+        "num": 132116,
+        "word": "这群人平时开网约车灾情时开冲锋艇救人",
+        "onboard_time": 1753776082,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131971,
+        "num": 131971,
+        "word": "杨幂也是村里人",
+        "onboard_time": 1753775182,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131334,
+        "num": 131334,
+        "word": "薛小婉称整容花费几百万",
+        "onboard_time": 1753777642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129793,
+        "num": 129793,
+        "word": "傅首尔爆改做自己的女王",
+        "onboard_time": 1753779082,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129677,
+        "num": 129677,
+        "word": "苹果首次在中国关停直营店",
+        "onboard_time": 1753767444,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22347,
+        "num": 128198,
+        "word": "47岁欧弟晒一家三口合影回应婚变",
+        "onboard_time": 1753779143,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121171,
+        "num": 127755,
+        "word": "微信聊天记录可以断舍离吗",
+        "onboard_time": 1753772961,
+        "rank": 45,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 121151,
+        "num": 127537,
+        "word": "被困男子大喊先救我媳妇儿",
+        "onboard_time": 1753772182,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 127463,
+        "num": 127463,
+        "word": "一诺偶遇一个聪明男人",
+        "onboard_time": 1753778362,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125492,
+        "num": 125492,
+        "word": "日本女生最美上班照走红",
+        "onboard_time": 1753758623,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125410,
+        "num": 125410,
+        "word": "98年药剂学小伙卖汉服单款年销八万件",
+        "onboard_time": 1753778663,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}
