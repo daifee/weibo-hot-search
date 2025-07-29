@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753814510709,
+  "endTime": 1753815408641,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -9595,6 +9595,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 66356,
+      "num": 66356,
+      "word": "南京照相馆是否适合小朋友观看",
+      "onboard_time": 1753811537,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 66235,
       "num": 195317,
       "word": "海底捞臻选店加收服务费",
@@ -9843,14 +9851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53342,
-      "num": 56673,
-      "word": "南京照相馆是否适合小朋友观看",
-      "onboard_time": 1753811537,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 52659,
       "num": 150707,
       "word": "山西发生一起交通事故致6死8伤",
@@ -9969,6 +9969,14 @@
       "onboard_time": 1753786883,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48636,
+      "num": 48636,
+      "word": "白鹿支持过虞书欣专辑",
+      "onboard_time": 1753815375,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 48251,
@@ -10403,6 +10411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25815,
+      "num": 37715,
+      "word": "密室大逃脱助TA解锁buff道具",
+      "onboard_time": 1753814356,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25455,
       "num": 174590,
       "word": "顺德16家定点医院收治基孔肯雅热",
@@ -10435,20 +10451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24399,
-      "num": 37715,
-      "word": "密室大逃脱助TA解锁buff道具",
-      "onboard_time": 1753814356,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 24073,
       "num": 33110,
       "word": "地球超新鲜今日开播",
       "onboard_time": 1753640896,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23990,
+      "num": 35195,
+      "word": "First电影节 只有熟客的主理人店",
+      "onboard_time": 1753812916,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 23869,
