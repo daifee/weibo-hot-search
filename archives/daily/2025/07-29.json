@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753782527719,
+  "endTime": 1753785069381,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1295946,
-      "num": 373507,
+      "num": 375129,
       "word": "妈我已经过了需要你的年龄了",
       "onboard_time": 1753776982,
       "rank": 20,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1111934,
+      "num": 1177909,
+      "word": "宝妈卖劳力士收32万后银行卡被冻结",
+      "onboard_time": 1753780282,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1105257,
       "num": 445705,
       "word": "豆瓣崩了",
@@ -113,6 +121,14 @@
       "onboard_time": 1753761144,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1038678,
+      "num": 1038678,
+      "word": "世界之外",
+      "onboard_time": 1753781424,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 1024565,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 733198,
-      "num": 362125,
+      "num": 370772,
       "word": "华晨宇告泥塑娱乐博主胜诉",
       "onboard_time": 1753778182,
       "rank": 33,
@@ -193,6 +209,14 @@
       "onboard_time": 1753751723,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 654482,
+      "num": 654482,
+      "word": "傅首尔爆改做自己的女王",
+      "onboard_time": 1753779082,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 623268,
@@ -209,14 +233,6 @@
       "onboard_time": 1753764265,
       "rank": 16,
       "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 598653,
-      "num": 598653,
-      "word": "傅首尔爆改做自己的女王",
-      "onboard_time": 1753779082,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 581705,
@@ -363,12 +379,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 450793,
-      "num": 450793,
-      "word": "世界之外",
-      "onboard_time": 1753781424,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 452225,
+      "num": 452225,
+      "word": "难怪没吃过透明的荔枝",
+      "onboard_time": 1753778543,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 442631,
@@ -411,19 +427,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411424,
+      "num": 411424,
+      "word": "孙颖莎驰援京津冀洪涝灾区",
+      "onboard_time": 1753781843,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406929,
       "num": 406929,
       "word": "居家办公",
       "onboard_time": 1753717583,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 393114,
-      "num": 393114,
-      "word": "宝妈卖劳力士收32万后银行卡被冻结",
-      "onboard_time": 1753780282,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -433,6 +449,14 @@
       "onboard_time": 1753766004,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381676,
+      "num": 352356,
+      "word": "27岁存款30万从体制内辞职了",
+      "onboard_time": 1753781182,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 381163,
@@ -459,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357782,
+      "num": 357782,
+      "word": "肠粉 硼砂",
+      "onboard_time": 1753782981,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337756,
       "num": 323108,
       "word": "南宫婉选角",
@@ -473,14 +505,6 @@
       "onboard_time": 1753760784,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336667,
-      "num": 336667,
-      "word": "难怪没吃过透明的荔枝",
-      "onboard_time": 1753778543,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 335634,
@@ -513,6 +537,14 @@
       "onboard_time": 1753716444,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319282,
+      "num": 380180,
+      "word": "印乐法师曾是洛阳白马寺方丈",
+      "onboard_time": 1753780884,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314022,
@@ -563,14 +595,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 288518,
-      "num": 288518,
-      "word": "孙颖莎驰援京津冀洪涝灾区",
-      "onboard_time": 1753781843,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284707,
       "num": 284707,
       "word": "苹果首次在中国关停直营店",
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 281356,
-      "num": 344558,
+      "num": 405515,
       "word": "张艺兴送京东外卖",
       "onboard_time": 1753781663,
       "rank": 14,
@@ -609,14 +633,6 @@
       "onboard_time": 1753760964,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 267604,
-      "num": 267604,
-      "word": "27岁存款30万从体制内辞职了",
-      "onboard_time": 1753781182,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 266593,
@@ -667,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253567,
+      "num": 253567,
+      "word": "豆瓣八组",
+      "onboard_time": 1753781962,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 252770,
       "num": 505295,
       "word": "成毅工作室再被前经纪公司起诉",
@@ -691,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249372,
+      "num": 249372,
+      "word": "白鹿晒照给闺蜜庆生",
+      "onboard_time": 1753784363,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248986,
       "num": 248986,
       "word": "洪水冲走千万金饰好心人送回1kg",
@@ -707,20 +739,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242103,
-      "num": 380180,
-      "word": "印乐法师曾是洛阳白马寺方丈",
-      "onboard_time": 1753780884,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236207,
       "num": 236207,
       "word": "北京大雨",
       "onboard_time": 1753712786,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230522,
+      "num": 230522,
+      "word": "世界之外说了6次没变",
+      "onboard_time": 1753783823,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 222913,
@@ -931,20 +963,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198060,
+      "num": 321570,
+      "word": "赵晴今天扫楼感觉瘦了好多",
+      "onboard_time": 1753780824,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197963,
       "num": 197963,
       "word": "育儿补贴线上线下都可办理",
       "onboard_time": 1753758084,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196364,
-      "num": 196364,
-      "word": "赵晴今天扫楼感觉瘦了好多",
-      "onboard_time": 1753780824,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 196341,
@@ -985,6 +1017,22 @@
       "onboard_time": 1753774461,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192612,
+      "num": 192612,
+      "word": "世界之外精神状态",
+      "onboard_time": 1753783823,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191784,
+      "num": 191784,
+      "word": "130家中国公司上榜世界500强",
+      "onboard_time": 1753783823,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 191547,
@@ -1171,6 +1219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171611,
+      "num": 171611,
+      "word": "内娱惊为天人的帅哥",
+      "onboard_time": 1753783763,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171358,
       "num": 171358,
       "word": "北京暴雨孕妇被困直升机接力送医",
@@ -1355,12 +1411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149329,
+      "num": 149329,
+      "word": "肖战高情商是怎样炼成的",
+      "onboard_time": 1753783163,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149167,
       "num": 131080,
       "word": "李乃文昨天下楼今天扫楼",
       "onboard_time": 1753771042,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148593,
+      "num": 148593,
+      "word": "无畏学长你好帅",
+      "onboard_time": 1753783222,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 147852,
@@ -1417,6 +1489,22 @@
       "onboard_time": 1753690283,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145348,
+      "num": 395963,
+      "word": "少林寺通报新住持任职",
+      "onboard_time": 1753782863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145252,
+      "num": 145252,
+      "word": "设计师夫妻转行卖咖啡月入10万",
+      "onboard_time": 1753782022,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142766,
@@ -1555,6 +1643,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132654,
+      "num": 320094,
+      "word": "车辆被暴雨冲走能申请全款赔偿吗",
+      "onboard_time": 1753781602,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132245,
+      "num": 132245,
+      "word": "警方回应女子卖劳力士后账户被冻结",
+      "onboard_time": 1753782923,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131334,
       "num": 131334,
       "word": "薛小婉称整容花费几百万",
@@ -1569,14 +1673,6 @@
       "onboard_time": 1753687883,
       "rank": 23,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 131224,
-      "num": 131224,
-      "word": "设计师夫妻转行卖咖啡月入10万",
-      "onboard_time": 1753782022,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129088,
@@ -1649,6 +1745,14 @@
       "onboard_time": 1753767084,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 123685,
+      "num": 123685,
+      "word": "我承认之前对杨洋大声了点",
+      "onboard_time": 1753780585,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122986,
@@ -1835,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112328,
+      "num": 112328,
+      "word": "果糖 尿酸升高",
+      "onboard_time": 1753784783,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110671,
       "num": 110671,
       "word": "B萌投票",
@@ -1849,6 +1961,22 @@
       "onboard_time": 1753709546,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 109935,
+      "num": 109935,
+      "word": "一笙带猫拍写真",
+      "onboard_time": 1753784962,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109865,
+      "num": 109865,
+      "word": "阿里CFO首谈4000亿投向AI与内需",
+      "onboard_time": 1753784002,
+      "rank": 47,
+      "category": "互联网,互联网"
     },
     {
       "raw_hot": 109798,
@@ -1875,20 +2003,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108917,
+      "num": 108917,
+      "word": "研究的尽头是玄学",
+      "onboard_time": 1753781723,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 108307,
       "num": 108307,
       "word": "故宫国博今天闭馆一天",
       "onboard_time": 1753755862,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107492,
-      "num": 116817,
-      "word": "我承认之前对杨洋大声了点",
-      "onboard_time": 1753780585,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 107201,
@@ -2043,22 +2171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92800,
-      "num": 92800,
-      "word": "豆瓣八组",
-      "onboard_time": 1753781962,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 92584,
-      "num": 92584,
-      "word": "车辆被暴雨冲走能申请全款赔偿吗",
-      "onboard_time": 1753781602,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92456,
       "num": 145038,
       "word": "女子筷子5年不换胃里发现黄曲霉菌",
@@ -2115,14 +2227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86336,
-      "num": 86336,
-      "word": "研究的尽头是玄学",
-      "onboard_time": 1753781723,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 85210,
       "num": 85210,
       "word": "蓟运河潮白河断面流量黄色预警级洪水",
@@ -2132,7 +2236,7 @@
     },
     {
       "raw_hot": 85068,
-      "num": 751714,
+      "num": 1041144,
       "word": "国内首个通过人机辩论图灵测试大模型",
       "onboard_time": 1753779622,
       "rank": 2,
@@ -2273,6 +2377,14 @@
       "onboard_time": 1753718121,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70252,
+      "num": 183852,
+      "word": "南京照相馆 我们不是朋友",
+      "onboard_time": 1753780824,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 69706,
@@ -2424,6 +2536,14 @@
       "word": "北京再发洪水黄色预警",
       "onboard_time": 1753746020,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38481,
+      "num": 178043,
+      "word": "裕莲茶楼蜜饯中被曝吃出指甲盖",
+      "onboard_time": 1753783341,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
