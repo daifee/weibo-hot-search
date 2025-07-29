@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753762367931,
+  "endTime": 1753763558146,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -491,6 +491,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 2743603,
+      "num": 550001,
+      "word": "小英要离婚了",
+      "onboard_time": 1753760784,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2721402,
       "num": 1078483,
       "word": "ALin念肖战",
@@ -577,14 +585,6 @@
       "onboard_time": 1751609542,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2564331,
-      "num": 550001,
-      "word": "小英要离婚了",
-      "onboard_time": 1753760784,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 2549402,
@@ -3947,6 +3947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1105257,
+      "num": 445705,
+      "word": "豆瓣崩了",
+      "onboard_time": 1753762584,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1100027,
       "num": 554996,
       "word": "何老师注定无法体面的老去",
@@ -5137,6 +5145,14 @@
       "onboard_time": 1751499380,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 936442,
+      "num": 502906,
+      "word": "突然失去住持的少林寺戒备森严",
+      "onboard_time": 1753761144,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 936278,
@@ -6657,6 +6673,14 @@
       "onboard_time": 1751613504,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 797864,
+      "num": 797864,
+      "word": "美团拼好饭",
+      "onboard_time": 1753759584,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 797658,
@@ -9801,14 +9825,6 @@
       "onboard_time": 1752051742,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 631644,
-      "num": 631644,
-      "word": "美团拼好饭",
-      "onboard_time": 1753759584,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 631253,
@@ -13299,14 +13315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 502906,
-      "num": 502906,
-      "word": "突然失去住持的少林寺戒备森严",
-      "onboard_time": 1753761144,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502805,
       "num": 279264,
       "word": "LV 补差价",
@@ -14507,6 +14515,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 459117,
+      "num": 521437,
+      "word": "赴山海",
+      "onboard_time": 1751880202,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458976,
       "num": 334639,
       "word": "相亲遛弯瘦了40斤",
@@ -15465,14 +15481,6 @@
       "onboard_time": 1753207995,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 435187,
-      "num": 521437,
-      "word": "赴山海",
-      "onboard_time": 1751880202,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 434842,
@@ -19891,6 +19899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 337551,
+      "num": 337551,
+      "word": "密云因灾死亡28人",
+      "onboard_time": 1753760784,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337448,
       "num": 209591,
       "word": "黄晓明陈梦现身岳云鹏演唱会",
@@ -20001,6 +20017,14 @@
       "onboard_time": 1751601384,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335634,
+      "num": 524825,
+      "word": "白鹿专辑",
+      "onboard_time": 1753760604,
+      "rank": 15,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 335620,
@@ -20865,14 +20889,6 @@
       "onboard_time": 1752322522,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 322109,
-      "num": 322109,
-      "word": "密云因灾死亡28人",
-      "onboard_time": 1753760784,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322081,
@@ -22753,14 +22769,6 @@
       "onboard_time": 1751723906,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293275,
-      "num": 524825,
-      "word": "白鹿专辑",
-      "onboard_time": 1753760604,
-      "rank": 15,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 293231,
@@ -25339,6 +25347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264022,
+      "num": 514330,
+      "word": "华北本轮强降雨何时结束",
+      "onboard_time": 1753761986,
+      "rank": 17,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 263759,
       "num": 263759,
       "word": "马龙抓住一个空气乒乓球",
@@ -26553,6 +26569,14 @@
       "onboard_time": 1752486861,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 250698,
+      "num": 250698,
+      "word": "魏如萱道歉",
+      "onboard_time": 1753762344,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 250659,
@@ -28187,6 +28211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235592,
+      "num": 260263,
+      "word": "虞书欣cos焦糖拿铁",
+      "onboard_time": 1753762646,
+      "rank": 27,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 235495,
       "num": 235495,
       "word": "白鹿晒临江仙拍立得合照",
@@ -28256,6 +28288,14 @@
       "word": "山东通报看守所在押人员死亡",
       "onboard_time": 1752151464,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234915,
+      "num": 376198,
+      "word": "民航版12306直销机票来了",
+      "onboard_time": 1753762044,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -29963,6 +30003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 220755,
+      "num": 220755,
+      "word": "田亮发文恭喜陈若琳",
+      "onboard_time": 1753763186,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220682,
       "num": 244986,
       "word": "颖儿胆结石疼到喊救护车送医",
@@ -30345,6 +30393,14 @@
       "onboard_time": 1751967262,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 218407,
+      "num": 253340,
+      "word": "黄子弘凡浪浪山小妖怪MV",
+      "onboard_time": 1753762825,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 218403,
@@ -32657,14 +32713,6 @@
       "onboard_time": 1752123203,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207063,
-      "num": 514330,
-      "word": "华北本轮强降雨何时结束",
-      "onboard_time": 1753761986,
-      "rank": 17,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 206920,
@@ -39379,6 +39427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185098,
+      "num": 185098,
+      "word": "小米捐赠500万驰援华北",
+      "onboard_time": 1753763064,
+      "rank": 38,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 185028,
       "num": 233046,
       "word": "敖瑞鹏破万福利",
@@ -39521,14 +39577,6 @@
       "onboard_time": 1753604063,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 184473,
-      "num": 184473,
-      "word": "民航版12306直销机票来了",
-      "onboard_time": 1753762044,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184453,
@@ -41089,6 +41137,14 @@
       "onboard_time": 1751514142,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178938,
+      "num": 178938,
+      "word": "文淇赵今麦十五岁时的发言",
+      "onboard_time": 1753763304,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 178934,
@@ -46641,6 +46697,14 @@
       "onboard_time": 1751974282,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162204,
+      "num": 169030,
+      "word": "收费站口几十辆老头乐排队上高速",
+      "onboard_time": 1753762285,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162182,
@@ -59128,6 +59192,14 @@
       "word": "探访风波中的山姆门店",
       "onboard_time": 1753156162,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133973,
+      "num": 170258,
+      "word": "一碗烩面外卖与堂食价差达10元",
+      "onboard_time": 1753762344,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -82691,14 +82763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80471,
-      "num": 169030,
-      "word": "收费站口几十辆老头乐排队上高速",
-      "onboard_time": 1753762285,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80306,
       "num": 194141,
       "word": "33生活是个动词",
@@ -83409,6 +83473,14 @@
       "onboard_time": 1752076942,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76086,
+      "num": 191593,
+      "word": "10张表搞懂育儿补贴",
+      "onboard_time": 1753761744,
+      "rank": 36,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 76074,
@@ -84633,14 +84705,6 @@
       "onboard_time": 1751875281,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69907,
-      "num": 161077,
-      "word": "魏如萱道歉",
-      "onboard_time": 1753762344,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 69886,
@@ -88347,6 +88411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50373,
+      "num": 388634,
+      "word": "预计当前至今晚8时北京降雨持续",
+      "onboard_time": 1753762285,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50345,
       "num": 110929,
       "word": "于正说有兴趣和鞠婧祎合作",
@@ -88585,14 +88657,6 @@
       "onboard_time": 1751604084,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49212,
-      "num": 162228,
-      "word": "一碗烩面外卖与堂食价差达10元",
-      "onboard_time": 1753762344,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49184,
@@ -92203,14 +92267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32670,
-      "num": 172410,
-      "word": "预计当前至今晚8时北京降雨持续",
-      "onboard_time": 1753762285,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32657,
       "num": 140102,
       "word": "车银优入伍前发文",
@@ -92419,6 +92475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31852,
+      "num": 179644,
+      "word": "肖战这张脸是来打击化妆师自信的",
+      "onboard_time": 1753763544,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31837,
       "num": 128388,
       "word": "最全deepseek喂饭指令",
@@ -92536,6 +92600,14 @@
       "word": "男童扁桃体术后脑死亡医院内部调查",
       "onboard_time": 1752316461,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31101,
+      "num": 208105,
+      "word": "密云大哥爬房顶敲窗户喊醒邻居逃生",
+      "onboard_time": 1753763485,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -97223,6 +97295,9 @@
     },
     {
       "word": "#中欧大个子携手下一个50年#"
+    },
+    {
+      "word": "#全力保障人民生命财产安全#"
     }
   ]
 }

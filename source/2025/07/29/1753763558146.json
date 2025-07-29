@@ -1,0 +1,410 @@
+{
+  "runTime": 1753763558146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1328274,
+        "num": 1328274,
+        "word": "iPhone17Pro原型机曝光",
+        "onboard_time": 1753758084,
+        "rank": 0,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 797864,
+        "num": 797864,
+        "word": "美团拼好饭",
+        "onboard_time": 1753759584,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36169,
+        "num": 774790,
+        "word": "国家育儿补贴方案六大热点问答",
+        "onboard_time": 1753697963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 994734,
+        "num": 774266,
+        "word": "汪苏泷方律师严正声明",
+        "onboard_time": 1753755862,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773323,
+        "num": 773323,
+        "word": "北京大哥用铲斗端出80多条人命",
+        "onboard_time": 1753749924,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 644752,
+        "num": 644752,
+        "word": "一家三口吃清洗过的鸡蛋后中毒",
+        "onboard_time": 1753756162,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591827,
+        "num": 591827,
+        "word": "孙颖莎代言美团",
+        "onboard_time": 1753756464,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557501,
+        "num": 557501,
+        "word": "这次极端暴雨怎么来的",
+        "onboard_time": 1753751723,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459117,
+        "num": 459117,
+        "word": "赴山海",
+        "onboard_time": 1753760964,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449564,
+        "num": 449564,
+        "word": "聚焦北京暴雨",
+        "onboard_time": 1753713386,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2743603,
+        "num": 448293,
+        "word": "小英要离婚了",
+        "onboard_time": 1753760784,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1206450,
+        "num": 446578,
+        "word": "北京因灾死亡30人",
+        "onboard_time": 1753744518,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1105257,
+        "num": 445705,
+        "word": "豆瓣崩了",
+        "onboard_time": 1753762584,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 936442,
+        "num": 443744,
+        "word": "突然失去住持的少林寺戒备森严",
+        "onboard_time": 1753761144,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442502,
+        "num": 442502,
+        "word": "易烊千玺二开",
+        "onboard_time": 1753760483,
+        "rank": 14,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 766840,
+        "num": 438738,
+        "word": "日本女生最美上班照走红",
+        "onboard_time": 1753758623,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407587,
+        "num": 407587,
+        "word": "定风波定档",
+        "onboard_time": 1753757363,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104711,
+        "num": 405606,
+        "word": "与你同行的力量",
+        "onboard_time": 1753761866,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335634,
+        "num": 394405,
+        "word": "白鹿专辑",
+        "onboard_time": 1753760604,
+        "rank": 18,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 50373,
+        "num": 388634,
+        "word": "预计当前至今晚8时北京降雨持续",
+        "onboard_time": 1753762285,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234915,
+        "num": 376198,
+        "word": "民航版12306直销机票来了",
+        "onboard_time": 1753762044,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373494,
+        "num": 373494,
+        "word": "金价四连跌",
+        "onboard_time": 1753756881,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337551,
+        "num": 337551,
+        "word": "密云因灾死亡28人",
+        "onboard_time": 1753760784,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232925,
+        "num": 319767,
+        "word": "迪丽热巴接受三个月高强度警务特训",
+        "onboard_time": 1753751544,
+        "rank": 23,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 303839,
+        "num": 303839,
+        "word": "北京密云暴雨致洪灾",
+        "onboard_time": 1753717762,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265585,
+        "num": 265585,
+        "word": "吴艳妮称说我整容代表我好看",
+        "onboard_time": 1753754603,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264022,
+        "num": 264022,
+        "word": "华北本轮强降雨何时结束",
+        "onboard_time": 1753761986,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 235592,
+        "num": 260263,
+        "word": "虞书欣cos焦糖拿铁",
+        "onboard_time": 1753762646,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 257703,
+        "num": 257703,
+        "word": "被调剂到图书情报专业了",
+        "onboard_time": 1753760964,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218407,
+        "num": 253340,
+        "word": "黄子弘凡浪浪山小妖怪MV",
+        "onboard_time": 1753762825,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250698,
+        "num": 250698,
+        "word": "魏如萱道歉",
+        "onboard_time": 1753762344,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220755,
+        "num": 220755,
+        "word": "田亮发文恭喜陈若琳",
+        "onboard_time": 1753763186,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218574,
+        "num": 218574,
+        "word": "老一辈人总喜欢把臭鱼烂虾当人脉",
+        "onboard_time": 1753757303,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 209819,
+        "num": 209819,
+        "word": "因花园太丑华人收2000美元罚款",
+        "onboard_time": 1753746682,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31101,
+        "num": 208105,
+        "word": "密云大哥爬房顶敲窗户喊醒邻居逃生",
+        "onboard_time": 1753763485,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207015,
+        "num": 207015,
+        "word": "北京累计转移80332人",
+        "onboard_time": 1753755802,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76086,
+        "num": 191593,
+        "word": "10张表搞懂育儿补贴",
+        "onboard_time": 1753761744,
+        "rank": 36,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 188774,
+        "num": 188774,
+        "word": "台风",
+        "onboard_time": 1753758323,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185098,
+        "num": 185098,
+        "word": "小米捐赠500万驰援华北",
+        "onboard_time": 1753763064,
+        "rank": 38,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 31852,
+        "num": 179644,
+        "word": "肖战这张脸是来打击化妆师自信的",
+        "onboard_time": 1753763544,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178938,
+        "num": 178938,
+        "word": "文淇赵今麦十五岁时的发言",
+        "onboard_time": 1753763304,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178926,
+        "num": 178926,
+        "word": "切断孩子手机上瘾最快的方法",
+        "onboard_time": 1753751783,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178336,
+        "num": 178336,
+        "word": "突然意识到自己上了年纪的瞬间",
+        "onboard_time": 1753752204,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176673,
+        "num": 176673,
+        "word": "成毅工作室再被前经纪公司起诉",
+        "onboard_time": 1753761084,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133973,
+        "num": 170258,
+        "word": "一碗烩面外卖与堂食价差达10元",
+        "onboard_time": 1753762344,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164393,
+        "num": 164393,
+        "word": "光与夜之恋",
+        "onboard_time": 1753758384,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162965,
+        "num": 162965,
+        "word": "美国发现一颗富含黄金小行星",
+        "onboard_time": 1753713924,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162204,
+        "num": 162204,
+        "word": "收费站口几十辆老头乐排队上高速",
+        "onboard_time": 1753762285,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161994,
+        "num": 161994,
+        "word": "金与正表示朝鲜拥核国地位不可逆转",
+        "onboard_time": 1753760303,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156698,
+        "num": 156698,
+        "word": "蔡徐坤TikTok更新",
+        "onboard_time": 1753760903,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#全力保障人民生命财产安全#"
+    }
+  }
+}

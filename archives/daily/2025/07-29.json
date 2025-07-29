@@ -1,6 +1,6 @@
 {
   "startTime": 1753720627729,
-  "endTime": 1753762367931,
+  "endTime": 1753763558146,
   "band_list": [
     {
       "raw_hot": 5818302,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2564331,
+      "raw_hot": 2743603,
       "num": 550001,
       "word": "小英要离婚了",
       "onboard_time": 1753760784,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1105257,
+      "num": 445705,
+      "word": "豆瓣崩了",
+      "onboard_time": 1753762584,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1081511,
       "num": 990458,
       "word": "北京密云暴雨致洪灾",
@@ -83,12 +91,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 936442,
+      "num": 502906,
+      "word": "突然失去住持的少林寺戒备森严",
+      "onboard_time": 1753761144,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 819971,
       "num": 819971,
       "word": "一家三口吃清洗过的鸡蛋后中毒",
       "onboard_time": 1753756162,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 797864,
+      "num": 797864,
+      "word": "美团拼好饭",
+      "onboard_time": 1753759584,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 762028,
@@ -105,14 +129,6 @@
       "onboard_time": 1753751723,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 631644,
-      "num": 631644,
-      "word": "美团拼好饭",
-      "onboard_time": 1753759584,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 623268,
@@ -155,14 +171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 502906,
-      "num": 502906,
-      "word": "突然失去住持的少林寺戒备森严",
-      "onboard_time": 1753761144,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 494165,
       "num": 494165,
       "word": "爸爸回应女儿去世儿子患同种病进ICU",
@@ -193,6 +201,14 @@
       "onboard_time": 1753713924,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 459117,
+      "num": 521437,
+      "word": "赴山海",
+      "onboard_time": 1753760964,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 458300,
@@ -243,20 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337551,
+      "num": 337551,
+      "word": "密云因灾死亡28人",
+      "onboard_time": 1753760784,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335634,
+      "num": 524825,
+      "word": "白鹿专辑",
+      "onboard_time": 1753760604,
+      "rank": 15,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 323458,
       "num": 243874,
       "word": "黄金星球全球均分每人可分6912亿",
       "onboard_time": 1753750345,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 322109,
-      "num": 322109,
-      "word": "密云因灾死亡28人",
-      "onboard_time": 1753760784,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321023,
@@ -275,28 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 293275,
-      "num": 524825,
-      "word": "白鹿专辑",
-      "onboard_time": 1753760604,
-      "rank": 15,
-      "category": "艺人,音乐"
-    },
-    {
       "raw_hot": 293231,
       "num": 211562,
       "word": "最疯狂的缅甸度过最惊魂的一夜",
       "onboard_time": 1753749265,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 290222,
-      "num": 521437,
-      "word": "赴山海",
-      "onboard_time": 1753760964,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 282620,
@@ -313,6 +321,14 @@
       "onboard_time": 1753760964,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 264022,
+      "num": 514330,
+      "word": "华北本轮强降雨何时结束",
+      "onboard_time": 1753761986,
+      "rank": 17,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 258266,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250698,
+      "num": 250698,
+      "word": "魏如萱道歉",
+      "onboard_time": 1753762344,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250224,
       "num": 153331,
       "word": "霍启刚发文祝贺郭晶晶",
@@ -353,6 +377,38 @@
       "onboard_time": 1753712786,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235592,
+      "num": 260263,
+      "word": "虞书欣cos焦糖拿铁",
+      "onboard_time": 1753762646,
+      "rank": 27,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 234915,
+      "num": 376198,
+      "word": "民航版12306直销机票来了",
+      "onboard_time": 1753762044,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220755,
+      "num": 220755,
+      "word": "田亮发文恭喜陈若琳",
+      "onboard_time": 1753763186,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218407,
+      "num": 253340,
+      "word": "黄子弘凡浪浪山小妖怪MV",
+      "onboard_time": 1753762825,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 215911,
@@ -401,14 +457,6 @@
       "onboard_time": 1753754243,
       "rank": 24,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 207063,
-      "num": 514330,
-      "word": "华北本轮强降雨何时结束",
-      "onboard_time": 1753761986,
-      "rank": 17,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 204917,
@@ -523,12 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184473,
-      "num": 184473,
-      "word": "民航版12306直销机票来了",
-      "onboard_time": 1753762044,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 185098,
+      "num": 185098,
+      "word": "小米捐赠500万驰援华北",
+      "onboard_time": 1753763064,
+      "rank": 38,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 179932,
@@ -545,6 +593,14 @@
       "onboard_time": 1753702104,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178938,
+      "num": 178938,
+      "word": "文淇赵今麦十五岁时的发言",
+      "onboard_time": 1753763304,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 178691,
@@ -616,6 +672,22 @@
       "word": "增加调拨4.3万件物资支持京冀救灾",
       "onboard_time": 1753718543,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164393,
+      "num": 164393,
+      "word": "光与夜之恋",
+      "onboard_time": 1753758384,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 162204,
+      "num": 169030,
+      "word": "收费站口几十辆老头乐排队上高速",
+      "onboard_time": 1753762285,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -713,6 +785,14 @@
       "onboard_time": 1753720460,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 133973,
+      "num": 170258,
+      "word": "一碗烩面外卖与堂食价差达10元",
+      "onboard_time": 1753762344,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133923,
@@ -955,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80471,
-      "num": 169030,
-      "word": "收费站口几十辆老头乐排队上高速",
-      "onboard_time": 1753762285,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78396,
       "num": 146149,
       "word": "迪丽热巴打戏",
@@ -977,6 +1049,14 @@
       "onboard_time": 1753715724,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76086,
+      "num": 191593,
+      "word": "10张表搞懂育儿补贴",
+      "onboard_time": 1753761744,
+      "rank": 36,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 75666,
@@ -1009,14 +1089,6 @@
       "onboard_time": 1753718121,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69907,
-      "num": 161077,
-      "word": "魏如萱道歉",
-      "onboard_time": 1753762344,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 69706,
@@ -1107,11 +1179,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49212,
-      "num": 162228,
-      "word": "一碗烩面外卖与堂食价差达10元",
-      "onboard_time": 1753762344,
-      "rank": 42,
+      "raw_hot": 50373,
+      "num": 388634,
+      "word": "预计当前至今晚8时北京降雨持续",
+      "onboard_time": 1753762285,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1139,11 +1211,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32670,
-      "num": 172410,
-      "word": "预计当前至今晚8时北京降雨持续",
-      "onboard_time": 1753762285,
-      "rank": 36,
+      "raw_hot": 31852,
+      "num": 179644,
+      "word": "肖战这张脸是来打击化妆师自信的",
+      "onboard_time": 1753763544,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31101,
+      "num": 208105,
+      "word": "密云大哥爬房顶敲窗户喊醒邻居逃生",
+      "onboard_time": 1753763485,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1182,6 +1262,9 @@
   "hotgov_list": [
     {
       "word": "#中欧大个子携手下一个50年#"
+    },
+    {
+      "word": "#全力保障人民生命财产安全#"
     }
   ]
 }
