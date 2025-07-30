@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753851787897,
+  "endTime": 1753853779664,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2323,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3861521,
+      "num": 3861521,
+      "word": "日本海啸",
+      "onboard_time": 1753844363,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 3850490,
       "num": 3850490,
       "word": "侵华日军为便于奸淫百姓赤身骑马",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1745393722,
       "rank": 26,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 3789802,
-      "num": 3789802,
-      "word": "多位演员自曝曾被导演郑某某侵害",
-      "onboard_time": 1740039083,
-      "rank": 3,
-      "category": "民生新闻,艺人"
     }
   ],
   "hotgov_list": [

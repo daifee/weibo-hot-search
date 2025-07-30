@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753851787897,
+  "endTime": 1753853779664,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3438278,
-      "num": 3438278,
+      "raw_hot": 3861521,
+      "num": 3861521,
       "word": "日本海啸",
       "onboard_time": 1753844363,
       "rank": 1,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1593301,
+      "num": 1593301,
+      "word": "海啸到达台湾浙江上海沿海时间",
+      "onboard_time": 1753849584,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1210673,
       "num": 659514,
       "word": "巴基斯坦一女子被亲弟弟荣誉处决",
@@ -49,6 +57,14 @@
       "onboard_time": 1753845204,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1184582,
+      "num": 701943,
+      "word": "真实记录鬼压床的时刻",
+      "onboard_time": 1753848685,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 1150359,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 962651,
-      "num": 641959,
+      "num": 701299,
       "word": "余景天 再造谣给你们找个老嫂子",
       "onboard_time": 1753849344,
       "rank": 21,
@@ -107,6 +123,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 766360,
+      "num": 766360,
+      "word": "俄罗斯地震",
+      "onboard_time": 1753840103,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 746602,
       "num": 746602,
       "word": "台风竹节草",
@@ -115,12 +139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 719382,
-      "num": 719382,
-      "word": "俄罗斯地震",
-      "onboard_time": 1753840103,
-      "rank": 4,
-      "category": "突发/灾害"
+      "raw_hot": 705259,
+      "num": 705259,
+      "word": "日本北海道第一波海啸到达",
+      "onboard_time": 1753843103,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 694838,
+      "num": 704699,
+      "word": "刘诗诗关晓彤两个生硬的北京人",
+      "onboard_time": 1753850125,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 690171,
@@ -131,28 +163,12 @@
       "category": "演出,艺人"
     },
     {
-      "raw_hot": 686555,
-      "num": 686555,
-      "word": "海啸到达台湾浙江上海沿海时间",
-      "onboard_time": 1753849584,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 616980,
-      "num": 673390,
-      "word": "日本北海道第一波海啸到达",
-      "onboard_time": 1753843103,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 603108,
-      "num": 603108,
-      "word": "真实记录鬼压床的时刻",
-      "onboard_time": 1753848685,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 608361,
+      "num": 703723,
+      "word": "王玉雯怎么和谁都是发小",
+      "onboard_time": 1753850426,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 590954,
@@ -219,14 +235,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 420756,
-      "num": 682851,
-      "word": "王玉雯怎么和谁都是发小",
-      "onboard_time": 1753850426,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419670,
       "num": 419670,
       "word": "肠粉 硼砂",
@@ -257,14 +265,6 @@
       "onboard_time": 1753807101,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 361225,
-      "num": 678887,
-      "word": "刘诗诗关晓彤两个生硬的北京人",
-      "onboard_time": 1753850125,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 354559,
@@ -419,8 +419,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234324,
-      "num": 234324,
+      "raw_hot": 241933,
+      "num": 241933,
       "word": "俄罗斯部分地区海啸预警",
       "onboard_time": 1753843523,
       "rank": 42,
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212264,
+      "num": 212264,
+      "word": "酱子贝 我写的角色都没有原型",
+      "onboard_time": 1753852463,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 207389,
       "num": 176095,
       "word": "王楚钦孙颖莎巴黎混双夺金一周年",
@@ -531,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203028,
+      "num": 203028,
+      "word": "祝绪丹三杀",
+      "onboard_time": 1753853124,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202584,
       "num": 270954,
       "word": "孟子义祝绪丹早期合照",
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199446,
+      "num": 199446,
+      "word": "14名零工消失在山西暴雨中",
+      "onboard_time": 1753851685,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198223,
       "num": 285801,
       "word": "张予曦毕雯珺 般配",
@@ -593,6 +617,14 @@
       "onboard_time": 1753807400,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190428,
+      "num": 190428,
+      "word": "目前你最舍不得删的小众APP",
+      "onboard_time": 1753851503,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 189288,
@@ -723,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176683,
+      "num": 176683,
+      "word": "巨瘦手臂的方法",
+      "onboard_time": 1753848625,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 174824,
       "num": 140668,
       "word": "外卖员组团评论区感谢孙颖莎",
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 173048,
-      "num": 173048,
+      "num": 702678,
       "word": "人民军队大片攻坚",
       "onboard_time": 1753850426,
       "rank": 33,
@@ -763,20 +803,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 169155,
-      "num": 163822,
-      "word": "巨瘦手臂的方法",
-      "onboard_time": 1753848625,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 168539,
       "num": 388600,
       "word": "间谍在共享充电宝植入后门程序监视",
       "onboard_time": 1753833682,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167531,
+      "num": 167531,
+      "word": "樊振东抱郑培锋的娃",
+      "onboard_time": 1753851503,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 167289,
@@ -787,12 +827,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166956,
+      "num": 166956,
+      "word": "张晓玲回应被爱康国宾起诉",
+      "onboard_time": 1753852944,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166700,
       "num": 166184,
       "word": "马龙儿子社交e人",
       "onboard_time": 1753830978,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165783,
+      "num": 165783,
+      "word": "启动海洋灾害二级应急响应",
+      "onboard_time": 1753852403,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 165512,
@@ -867,6 +923,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 153517,
+      "num": 209084,
+      "word": "利剑玫瑰三个老头镜头",
+      "onboard_time": 1753853064,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153378,
       "num": 512536,
       "word": "沙溢真实家庭地位",
@@ -881,14 +945,6 @@
       "onboard_time": 1753845083,
       "rank": 46,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 153142,
-      "num": 151666,
-      "word": "樊振东抱郑培锋的娃",
-      "onboard_time": 1753851503,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 153072,
@@ -955,20 +1011,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146561,
-      "num": 146561,
-      "word": "目前你最舍不得删的小众APP",
-      "onboard_time": 1753851503,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 144996,
       "num": 144996,
       "word": "迪丽热巴哭戏",
       "onboard_time": 1753794865,
       "rank": 19,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 143279,
+      "num": 143279,
+      "word": "妇产科医生解读劣质卫生巾致癌风险",
+      "onboard_time": 1753852044,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143113,
@@ -1003,12 +1059,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139356,
+      "num": 139356,
+      "word": "日本受海啸影响暂停核污染水排海",
+      "onboard_time": 1753853363,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139265,
       "num": 130205,
       "word": "中方坚定支持巴勒斯坦建国",
       "onboard_time": 1753830798,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138888,
+      "num": 204912,
+      "word": "杨洋人在新疆只想修仙",
+      "onboard_time": 1753853244,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 138144,
@@ -1065,6 +1137,14 @@
       "onboard_time": 1753783763,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130589,
+      "num": 130589,
+      "word": "业主曝300多万新房楼梯一踢就碎",
+      "onboard_time": 1753853423,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129702,
@@ -1139,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121604,
+      "num": 121604,
+      "word": "和家里人说话容易生气的原因",
+      "onboard_time": 1753850905,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119627,
       "num": 119627,
       "word": "刘军一审获刑11年",
@@ -1147,12 +1235,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118862,
+      "num": 118862,
+      "word": "在北京月入1万5存9千的真实生活",
+      "onboard_time": 1753853603,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115649,
+      "num": 115649,
+      "word": "猫用巨大的伊丽莎白圈向人类控诉",
+      "onboard_time": 1753853484,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113121,
+      "num": 113121,
+      "word": "探店博主 我真没招了",
+      "onboard_time": 1753853545,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112149,
       "num": 112149,
       "word": "库克宣布苹果捐款支援灾区",
       "onboard_time": 1753838363,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111071,
+      "num": 111071,
+      "word": "原神5.8",
+      "onboard_time": 1753853124,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 110124,
@@ -1339,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82982,
+      "num": 200327,
+      "word": "戴燕妮疑似被生日直播做局了",
+      "onboard_time": 1753853244,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82341,
       "num": 82341,
       "word": "4个可能让你变丑的睡姿",
@@ -1403,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72865,
-      "num": 172650,
-      "word": "14名零工消失在山西暴雨中",
-      "onboard_time": 1753851685,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72517,
       "num": 72517,
       "word": "公司回应招聘要求35岁以上勿扰",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1753847724,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62669,
+      "num": 205761,
+      "word": "爱康国宾称张女士并非肾癌晚期",
+      "onboard_time": 1753853545,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60584,
@@ -1553,6 +1681,14 @@
       "onboard_time": 1753791442,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45726,
+      "num": 140938,
+      "word": "以色列考古随手一捡皆是文物",
+      "onboard_time": 1753852704,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 45387,
