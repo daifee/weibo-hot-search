@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753861608768,
+  "endTime": 1753864707088,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -41,6 +41,22 @@
       "onboard_time": 1753847664,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1554369,
+      "num": 439722,
+      "word": "武大图书馆性骚扰事件没有赢家",
+      "onboard_time": 1753861283,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1273095,
+      "num": 1273095,
+      "word": "上拉如曝小英4元衣服卖29.9元",
+      "onboard_time": 1753860683,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 1210673,
@@ -195,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 698505,
+      "num": 698505,
+      "word": "女生苦练化妆一个月的变化",
+      "onboard_time": 1753862424,
+      "rank": 5,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 690171,
       "num": 345002,
       "word": "演唱会偷情事件男主起诉Coldplay",
@@ -275,14 +299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 463549,
-      "num": 463549,
-      "word": "上拉如曝小英4元衣服卖29.9元",
-      "onboard_time": 1753860683,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 450421,
       "num": 450421,
       "word": "张碧晨曾称和汪苏泷关系非常好",
@@ -355,6 +371,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 386040,
+      "num": 386040,
+      "word": "GAI无法参加歌手突围赛",
+      "onboard_time": 1753862483,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367392,
+      "num": 615669,
+      "word": "育儿补贴发放渠道",
+      "onboard_time": 1753859304,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 354559,
       "num": 354559,
       "word": "黄晓明考博本不想考表演系",
@@ -403,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330886,
+      "num": 330886,
+      "word": "俄远海8.8级地震后港口被冲毁淹没",
+      "onboard_time": 1753861043,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 324593,
       "num": 324593,
       "word": "台风竹节草登陆浙江舟山沿海",
@@ -433,14 +473,6 @@
       "onboard_time": 1753838963,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 311972,
-      "num": 615669,
-      "word": "育儿补贴发放渠道",
-      "onboard_time": 1753859304,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 308571,
@@ -507,11 +539,43 @@
       "category": "电影"
     },
     {
+      "raw_hot": 277582,
+      "num": 277582,
+      "word": "俄堪察加附近监测到3至4米海啸波",
+      "onboard_time": 1753863324,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 273853,
+      "num": 273853,
+      "word": "20公斤金饰被冲走仅寻回70余克",
+      "onboard_time": 1753862543,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260229,
       "num": 260229,
       "word": "泡泡玛特给海关发布送锦旗",
       "onboard_time": 1753839803,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259699,
+      "num": 259699,
+      "word": "皮肤科医生才会知道的护肤信息差",
+      "onboard_time": 1753862904,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259574,
+      "num": 216062,
+      "word": "嵩山少林寺方丈室已被铁皮封死",
+      "onboard_time": 1753861403,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -603,14 +667,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237261,
-      "num": 237261,
-      "word": "俄远海8.8级地震后港口被冲毁淹没",
-      "onboard_time": 1753861043,
-      "rank": 26,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 231757,
       "num": 231757,
       "word": "酱子贝 我写的角色都没有原型",
@@ -699,12 +755,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211798,
-      "num": 211798,
-      "word": "武大图书馆性骚扰事件没有赢家",
-      "onboard_time": 1753861283,
-      "rank": 30,
+      "raw_hot": 213380,
+      "num": 213380,
+      "word": "上海已转移安置超28万人",
+      "onboard_time": 1753862062,
+      "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211667,
+      "num": 211667,
+      "word": "王曼昱时尚街拍花絮",
+      "onboard_time": 1753864524,
+      "rank": 32,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 209802,
@@ -729,6 +793,14 @@
       "onboard_time": 1753846344,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206931,
+      "num": 206931,
+      "word": "让体脂率不断下降的习惯",
+      "onboard_time": 1753863143,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 206699,
@@ -848,6 +920,14 @@
       "word": "孙颖莎球场上赛场外",
       "onboard_time": 1753848206,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199586,
+      "num": 199586,
+      "word": "徐嘉余采访",
+      "onboard_time": 1753863983,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1139,12 +1219,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177529,
+      "num": 220882,
+      "word": "白鹿首张实体专辑销量",
+      "onboard_time": 1753859183,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176683,
       "num": 176683,
       "word": "巨瘦手臂的方法",
       "onboard_time": 1753848625,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 175056,
+      "num": 175056,
+      "word": "吃烧烤和不吃烧烤的都沉默了",
+      "onboard_time": 1753861884,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 174824,
@@ -1163,12 +1259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173843,
-      "num": 198858,
-      "word": "白鹿首张实体专辑销量",
-      "onboard_time": 1753859183,
-      "rank": 48,
-      "category": "音乐"
+      "raw_hot": 173667,
+      "num": 173667,
+      "word": "男子约见女网友睡觉时钱被转走",
+      "onboard_time": 1753863863,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172677,
@@ -1195,6 +1291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 171900,
+      "num": 171900,
+      "word": "吴磊的泡面头必有高人指点",
+      "onboard_time": 1753862483,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171854,
       "num": 171854,
       "word": "原来可以一眼看出柯南里面的凶手",
@@ -1209,6 +1313,14 @@
       "onboard_time": 1753852044,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169023,
+      "num": 169023,
+      "word": "海啸淹没俄罗斯2000人居住城镇",
+      "onboard_time": 1753864461,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 168539,
@@ -1419,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148881,
+      "num": 148881,
+      "word": "原来冻过的蛋挞这么好吃",
+      "onboard_time": 1753864403,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148610,
       "num": 179447,
       "word": "南京照相馆",
@@ -1523,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138605,
+      "num": 174050,
+      "word": "杨博文被北京十二中录取",
+      "onboard_time": 1753864645,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138144,
       "num": 138144,
       "word": "张康乐 海飞丝",
@@ -1593,6 +1721,14 @@
       "onboard_time": 1753783763,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132579,
+      "num": 169029,
+      "word": "云南一甜品店卖见手青冰淇淋",
+      "onboard_time": 1753863444,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 131475,
@@ -1673,6 +1809,14 @@
       "onboard_time": 1753835364,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122687,
+      "num": 333593,
+      "word": "成都欧米茄活动红气超标",
+      "onboard_time": 1753864344,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 121604,
@@ -1835,6 +1979,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 95888,
+      "num": 173735,
+      "word": "潘展乐以为对手抢跳",
+      "onboard_time": 1753863744,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94736,
       "num": 125078,
       "word": "助理否认沈玉琳进ICU",
@@ -1868,7 +2020,7 @@
     },
     {
       "raw_hot": 92036,
-      "num": 173960,
+      "num": 274943,
       "word": "爱自己就很Tiffany",
       "onboard_time": 1753861583,
       "rank": 43,
@@ -1897,6 +2049,14 @@
       "onboard_time": 1753801704,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85253,
+      "num": 439760,
+      "word": "各省均设15天左右配偶陪产假",
+      "onboard_time": 1753863444,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85023,
@@ -1969,14 +2129,6 @@
       "onboard_time": 1753781663,
       "rank": 40,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 78355,
-      "num": 186918,
-      "word": "嵩山少林寺方丈室已被铁皮封死",
-      "onboard_time": 1753861403,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78175,
@@ -2121,6 +2273,22 @@
       "onboard_time": 1753815375,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52240,
+      "num": 219461,
+      "word": "四川攀枝花发现10多株冥界之花",
+      "onboard_time": 1753864344,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51228,
+      "num": 413723,
+      "word": "get到易烊千玺风只用了一秒",
+      "onboard_time": 1753862663,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 49627,
@@ -2272,6 +2440,14 @@
       "word": "河北紧急转移安置4.4万人",
       "onboard_time": 1753832420,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16538,
+      "num": 327221,
+      "word": "患癌女律师称不畏惧爱康国宾起诉",
+      "onboard_time": 1753864344,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
