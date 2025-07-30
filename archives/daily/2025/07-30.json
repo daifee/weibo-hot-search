@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753858744200,
+  "endTime": 1753860742992,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -91,20 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1056024,
+      "num": 1056024,
+      "word": "台湾海啸",
+      "onboard_time": 1753856904,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1032192,
+      "num": 1032192,
+      "word": "请回答1988珍珠扮演者近照",
+      "onboard_time": 1753857623,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 962651,
       "num": 701299,
       "word": "余景天 再造谣给你们找个老嫂子",
       "onboard_time": 1753849344,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 947397,
-      "num": 947397,
-      "word": "台湾海啸",
-      "onboard_time": 1753856904,
-      "rank": 28,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 879597,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791704,
+      "num": 791704,
+      "word": "育儿补贴不分一孩二孩或者三孩",
+      "onboard_time": 1753857684,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 766360,
       "num": 766360,
       "word": "俄罗斯地震",
@@ -160,6 +176,14 @@
       "word": "台风竹节草",
       "onboard_time": 1753830919,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 727918,
+      "num": 727918,
+      "word": "男子开假装上班公司2个月40人来上班",
+      "onboard_time": 1753857504,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -211,15 +235,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 559241,
-      "num": 559241,
-      "word": "请回答1988珍珠扮演者近照",
-      "onboard_time": 1753857623,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 530432,
+      "raw_hot": 531322,
       "num": 547709,
       "word": "育儿补贴制度及生育支持措施介绍",
       "onboard_time": 1753856063,
@@ -297,6 +313,14 @@
       "onboard_time": 1753855284,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 404796,
+      "num": 531059,
+      "word": "吴谨言全面复出",
+      "onboard_time": 1753859063,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 403246,
@@ -387,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315255,
-      "num": 315255,
-      "word": "男子开假装上班公司2个月40人来上班",
-      "onboard_time": 1753857504,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 315154,
       "num": 315154,
       "word": "iPhone17Pro橙色机模曝光",
@@ -435,6 +451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 298663,
+      "num": 298663,
+      "word": "朵莉亚鲛人皮肤爆料",
+      "onboard_time": 1753860083,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286003,
       "num": 286003,
       "word": "夏威夷预计将遭破坏性海啸",
@@ -459,20 +483,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275597,
+      "num": 504822,
+      "word": "毕业照给我拍成刘亦菲了",
+      "onboard_time": 1753856904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260229,
       "num": 260229,
       "word": "泡泡玛特给海关发布送锦旗",
       "onboard_time": 1753839803,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255363,
-      "num": 375681,
-      "word": "育儿补贴不分一孩二孩或者三孩",
-      "onboard_time": 1753857684,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 254996,
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244028,
+      "num": 244028,
+      "word": "贾静雯一家夏威夷遇海啸",
+      "onboard_time": 1753858463,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243812,
       "num": 243812,
       "word": "床垫买成800元扔掉花了500元",
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222337,
+      "num": 222337,
+      "word": "潘玮柏岳云鹏一起吃饭得晕一吨碳",
+      "onboard_time": 1753860083,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220228,
       "num": 220228,
       "word": "身上长这种肉疙瘩警惕是癌症先兆",
@@ -627,20 +667,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212094,
+      "num": 525237,
+      "word": "育儿补贴发放渠道",
+      "onboard_time": 1753859304,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 210520,
+      "num": 210520,
+      "word": "俄失事客机遇难中国公民身份已确认",
+      "onboard_time": 1753858403,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209802,
       "num": 209802,
       "word": "今年育儿补贴补助资金预算900亿元左右",
       "onboard_time": 1753858162,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207613,
-      "num": 294771,
-      "word": "毕业照给我拍成刘亦菲了",
-      "onboard_time": 1753856904,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 207389,
@@ -691,12 +739,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 205187,
+      "num": 205187,
+      "word": "刘轩丞不语只是一味超话签到",
+      "onboard_time": 1753859724,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204945,
       "num": 204945,
       "word": "深圳一央企被爆大量员工资金被套",
       "onboard_time": 1753803384,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 204108,
+      "num": 204108,
+      "word": "上班穿得过于烂被领导怜爱了",
+      "onboard_time": 1753860143,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 203566,
@@ -739,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201156,
+      "num": 201156,
+      "word": "华晨宇音乐节",
+      "onboard_time": 1753859724,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200708,
       "num": 275293,
       "word": "TMEA盛典阵容官宣",
@@ -777,6 +849,14 @@
       "onboard_time": 1753818854,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 196887,
+      "num": 196887,
+      "word": "修仙要不要有房子",
+      "onboard_time": 1753859663,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 196782,
@@ -835,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190870,
+      "num": 190870,
+      "word": "未定事件簿婚礼",
+      "onboard_time": 1753858763,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190428,
       "num": 190428,
       "word": "目前你最舍不得删的小众APP",
@@ -873,14 +961,6 @@
       "onboard_time": 1753840224,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187124,
-      "num": 187124,
-      "word": "俄失事客机遇难中国公民身份已确认",
-      "onboard_time": 1753858403,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 187106,
@@ -1059,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171955,
+      "num": 171955,
+      "word": "俄罗斯堪察加远海3次6级以上地震",
+      "onboard_time": 1753858763,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 171854,
       "num": 171854,
       "word": "原来可以一眼看出柯南里面的凶手",
       "onboard_time": 1753847484,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 171697,
+      "num": 171697,
+      "word": "上拉如曝小英4元衣服卖29.9元",
+      "onboard_time": 1753860683,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 170124,
@@ -1131,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162745,
+      "num": 162745,
+      "word": "白鹿首张实体专辑销量",
+      "onboard_time": 1753859183,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162128,
       "num": 162128,
       "word": "孙颖莎捐赠灾区的物资已装车发出",
@@ -1140,7 +1244,7 @@
     },
     {
       "raw_hot": 161076,
-      "num": 454366,
+      "num": 522970,
       "word": "孙颖莎拼好饭",
       "onboard_time": 1753857324,
       "rank": 13,
@@ -1619,14 +1723,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 103158,
-      "num": 198546,
-      "word": "贾静雯一家夏威夷遇海啸",
-      "onboard_time": 1753858463,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102907,
       "num": 102907,
       "word": "一啤酒检出含有类似伟哥物质",
@@ -2032,6 +2128,14 @@
       "word": "山东已启动防汛四级应急响应",
       "onboard_time": 1753832361,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29777,
+      "num": 499466,
+      "word": "掺伟哥类似物酒企子公司经营异常",
+      "onboard_time": 1753858942,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
