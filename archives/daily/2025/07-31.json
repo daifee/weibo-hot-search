@@ -1,7 +1,15 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753918085810,
+  "endTime": 1753919044113,
   "band_list": [
+    {
+      "raw_hot": 841425,
+      "num": 997978,
+      "word": "日本海啸",
+      "onboard_time": 1753844363,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 775778,
       "num": 868030,
@@ -11,20 +19,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 731842,
-      "num": 850127,
-      "word": "日本海啸",
-      "onboard_time": 1753844363,
-      "rank": 1,
-      "category": "突发/灾害"
+      "raw_hot": 719624,
+      "num": 226122,
+      "word": "太平洋岛国即将被海淹没",
+      "onboard_time": 1753918039,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 561088,
-      "num": 561088,
+      "raw_hot": 666074,
+      "num": 666074,
       "word": "乘警回应给穿吊带女乘客发提示卡",
       "onboard_time": 1753889844,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571574,
+      "num": 217764,
+      "word": "向太说郭碧婷得管三孩其中一个是向佐",
+      "onboard_time": 1753889604,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 529751,
@@ -35,11 +51,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 521052,
-      "num": 209795,
-      "word": "向太说郭碧婷得管三孩其中一个是向佐",
-      "onboard_time": 1753889604,
-      "rank": 10,
+      "raw_hot": 479861,
+      "num": 216835,
+      "word": "才知道释小龙是王宝强师叔",
+      "onboard_time": 1753914075,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -51,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393003,
-      "num": 393003,
+      "raw_hot": 409142,
+      "num": 409142,
       "word": "日本女子躲海啸驾车从30米悬崖坠亡",
       "onboard_time": 1753883785,
       "rank": 6,
@@ -64,14 +80,6 @@
       "word": "李雪琴的腰怎么了",
       "onboard_time": 1753873943,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 364516,
-      "num": 165378,
-      "word": "才知道释小龙是王宝强师叔",
-      "onboard_time": 1753914075,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -91,12 +99,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 342244,
-      "num": 164123,
-      "word": "太平洋岛国即将被海淹没",
-      "onboard_time": 1753918039,
-      "rank": 12,
-      "category": "海外新闻"
+      "raw_hot": 324390,
+      "num": 209757,
+      "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
+      "onboard_time": 1753887265,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315691,
@@ -107,8 +115,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278471,
-      "num": 167612,
+      "raw_hot": 286363,
+      "num": 170249,
       "word": "带状疱疹缠腰一圈意味着什么",
       "onboard_time": 1753887745,
       "rank": 20,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249450,
-      "num": 204181,
-      "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
-      "onboard_time": 1753887265,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247554,
       "num": 203222,
       "word": "正式确诊为痣性恋",
@@ -155,28 +155,36 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 230164,
-      "num": 230164,
+      "raw_hot": 244773,
+      "num": 244773,
       "word": "上海迪士尼游客暴雨中撑伞游园",
       "onboard_time": 1753889004,
       "rank": 26,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240088,
+      "num": 240088,
+      "word": "日本民众撤离到屋顶躲避海啸",
+      "onboard_time": 1753906334,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 225513,
-      "num": 143202,
+      "num": 183828,
       "word": "分享欲其实是一种情绪霸凌",
       "onboard_time": 1753895659,
       "rank": 34,
       "category": "情感"
     },
     {
-      "raw_hot": 216084,
-      "num": 216084,
-      "word": "日本民众撤离到屋顶躲避海啸",
-      "onboard_time": 1753906334,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 212658,
+      "num": 212658,
+      "word": "台风",
+      "onboard_time": 1753917139,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211145,
@@ -195,16 +203,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185813,
-      "num": 104587,
-      "word": "台风",
-      "onboard_time": 1753917139,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169703,
-      "num": 169703,
+      "raw_hot": 201677,
+      "num": 201677,
       "word": "俄罗斯一加工厂被海啸冲走",
       "onboard_time": 1753879343,
       "rank": 24,
@@ -225,6 +225,14 @@
       "onboard_time": 1753891823,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 167556,
+      "num": 167556,
+      "word": "面试为什么要问父母工作信息",
+      "onboard_time": 1753915816,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 161458,
@@ -259,20 +267,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105191,
-      "num": 105191,
+      "raw_hot": 122545,
+      "num": 122545,
+      "word": "俄罗斯堪察加半岛一火山喷发",
+      "onboard_time": 1753916958,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121917,
+      "num": 171240,
+      "word": "李兰迪 我的状态比较恐怖",
+      "onboard_time": 1753918039,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113909,
+      "num": 113909,
       "word": "舞蹈生俩月瘦40斤致3个月没来例假",
       "onboard_time": 1753884926,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103959,
-      "num": 103959,
-      "word": "面试为什么要问父母工作信息",
-      "onboard_time": 1753915816,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 102116,
@@ -283,12 +299,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100718,
+      "num": 100718,
+      "word": "潘展乐坦言奥运会后曾失去目标",
+      "onboard_time": 1753918160,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100046,
+      "num": 100046,
+      "word": "果然祛魅最好的方式就是经历和拥有",
+      "onboard_time": 1753883726,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96193,
       "num": 96193,
       "word": "日本海啸预警一艘赴日游轮无法靠岸",
       "onboard_time": 1753876943,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92574,
+      "num": 92574,
+      "word": "爱奇艺发了热度值科普",
+      "onboard_time": 1753918160,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 89577,
@@ -307,20 +347,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 86128,
-      "num": 88607,
-      "word": "果然祛魅最好的方式就是经历和拥有",
-      "onboard_time": 1753883726,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 80420,
       "num": 102066,
       "word": "马嘉祺赛后聊歌手直播感受",
       "onboard_time": 1753889483,
       "rank": 27,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 79761,
+      "num": 79761,
+      "word": "深圳暴雨",
+      "onboard_time": 1753918521,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79702,
@@ -363,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75846,
+      "num": 88607,
+      "word": "金店悬赏每克380元寻被冲走首饰",
+      "onboard_time": 1753889782,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74117,
       "num": 100698,
       "word": "利剑玫瑰 全员演技在线",
       "onboard_time": 1753881625,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73294,
-      "num": 88607,
-      "word": "金店悬赏每克380元寻被冲走首饰",
-      "onboard_time": 1753889782,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69528,
@@ -395,6 +435,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 66053,
+      "num": 66053,
+      "word": "特朗普称对印度征收25%关税",
+      "onboard_time": 1753906934,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65465,
       "num": 98512,
       "word": "龚俊杨洋刘雨昕致敬中国军人",
@@ -404,19 +452,11 @@
     },
     {
       "raw_hot": 65017,
-      "num": 102494,
+      "num": 228206,
       "word": "大学生为200元返现背上16万元债务",
       "onboard_time": 1753890683,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64956,
-      "num": 86159,
-      "word": "俄罗斯堪察加半岛一火山喷发",
-      "onboard_time": 1753916958,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63412,
@@ -435,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62153,
+      "num": 86138,
+      "word": "战至巅峰",
+      "onboard_time": 1753917740,
+      "rank": 29,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 61277,
       "num": 88606,
       "word": "敖瑞鹏拍完朝雪录有皱眉后遗症",
@@ -451,28 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59049,
-      "num": 88606,
-      "word": "肖战深情演唱往事随风",
-      "onboard_time": 1753881625,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 58110,
-      "num": 58110,
+      "raw_hot": 59100,
+      "num": 59100,
       "word": "网售5盒思诺思被判贩毒二审发回重审",
       "onboard_time": 1753890683,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58097,
-      "num": 58097,
-      "word": "特朗普称对印度征收25%关税",
-      "onboard_time": 1753906934,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 59049,
+      "num": 88606,
+      "word": "肖战深情演唱往事随风",
+      "onboard_time": 1753881625,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 56199,
@@ -491,28 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54235,
-      "num": 87164,
-      "word": "请你务必坚定地支持自己",
-      "onboard_time": 1753891164,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 53853,
-      "num": 54457,
+      "raw_hot": 55149,
+      "num": 55149,
       "word": "莎头组合这枚混双金牌来之不易",
       "onboard_time": 1753895899,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 53464,
-      "num": 86138,
-      "word": "战至巅峰",
-      "onboard_time": 1753917740,
-      "rank": 29,
-      "category": "综艺,电竞"
+      "raw_hot": 54235,
+      "num": 87164,
+      "word": "请你务必坚定地支持自己",
+      "onboard_time": 1753891164,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 52642,
@@ -531,20 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51532,
-      "num": 51532,
-      "word": "李兰迪 我的状态比较恐怖",
-      "onboard_time": 1753918039,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50132,
       "num": 54673,
       "word": "用一首歌和你说晚安",
       "onboard_time": 1753895119,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47179,
+      "num": 94614,
+      "word": "TFING门开了",
+      "onboard_time": 1753918521,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 44542,
@@ -627,8 +659,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8799,
-      "num": 362107,
+      "raw_hot": 10804,
+      "num": 517059,
       "word": "可免签或落地签前往90多个国家和地区",
       "onboard_time": 1753845083,
       "rank": 2,
