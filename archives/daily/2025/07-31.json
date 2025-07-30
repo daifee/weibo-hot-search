@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753901728344,
+  "endTime": 1753903501754,
   "band_list": [
     {
       "raw_hot": 775778,
@@ -491,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23896,
+      "raw_hot": 25678,
       "num": 37785,
       "word": "我们是长大了不是发财了",
       "onboard_time": 1753899856,
@@ -507,20 +507,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21061,
+      "num": 37731,
+      "word": "定风波",
+      "onboard_time": 1753901656,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19684,
       "num": 37762,
       "word": "李雪琴疑似腰伤",
       "onboard_time": 1753901476,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17215,
-      "num": 37731,
-      "word": "定风波",
-      "onboard_time": 1753901656,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 8586,
