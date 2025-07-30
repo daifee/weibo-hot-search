@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753875681917,
+  "endTime": 1753880325961,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -235,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 825456,
+      "num": 332402,
+      "word": "李雪琴的腰怎么了",
+      "onboard_time": 1753873943,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766360,
       "num": 766360,
       "word": "俄罗斯地震",
@@ -267,12 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 731124,
-      "num": 309533,
-      "word": "李雪琴的腰怎么了",
-      "onboard_time": 1753873943,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 732266,
+      "num": 732266,
+      "word": "张碧晨广州站演唱会开票遇冷",
+      "onboard_time": 1753879583,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 709706,
+      "num": 709706,
+      "word": "潘展乐无缘100自决赛",
+      "onboard_time": 1753877003,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 705259,
@@ -289,6 +305,14 @@
       "onboard_time": 1753830978,
       "rank": 10,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 686437,
+      "num": 393752,
+      "word": "窦骁刘浩存 庄图南李佳该有的样子",
+      "onboard_time": 1753875743,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 673987,
@@ -347,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540220,
+      "num": 540220,
+      "word": "住民宿被指3女1男涉事商家道歉",
+      "onboard_time": 1753876883,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531322,
       "num": 547709,
       "word": "育儿补贴制度及生育支持措施介绍",
@@ -385,6 +417,14 @@
       "onboard_time": 1753861043,
       "rank": 26,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 456342,
+      "num": 320093,
+      "word": "吴千语婚礼品位被VOGUE认证",
+      "onboard_time": 1753877904,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 450421,
@@ -475,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 387507,
+      "num": 307310,
+      "word": "26岁确诊了早期胃癌的忠告",
+      "onboard_time": 1753869983,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 367392,
       "num": 615669,
       "word": "育儿补贴发放渠道",
@@ -489,6 +537,14 @@
       "onboard_time": 1753870883,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361310,
+      "num": 302210,
+      "word": "刘亦菲把渔网袜穿得好清纯",
+      "onboard_time": 1753876104,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 354559,
@@ -545,6 +601,14 @@
       "onboard_time": 1753867044,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337327,
+      "num": 337327,
+      "word": "新人领结婚证收到1500元补贴",
+      "onboard_time": 1753875143,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333254,
@@ -699,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268753,
-      "num": 268753,
-      "word": "26岁确诊了早期胃癌的忠告",
-      "onboard_time": 1753869983,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 260229,
       "num": 260229,
       "word": "泡泡玛特给海关发布送锦旗",
@@ -803,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242253,
+      "num": 242253,
+      "word": "王青杂志销售额",
+      "onboard_time": 1753878083,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241724,
       "num": 241724,
       "word": "8月下旬陆续开放育儿补贴申领",
@@ -825,6 +889,22 @@
       "onboard_time": 1753863143,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 237499,
+      "num": 296870,
+      "word": "强降雨致河北35.6万人受灾",
+      "onboard_time": 1753874363,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234817,
+      "num": 234817,
+      "word": "IVE全员开球",
+      "onboard_time": 1753878324,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 232967,
@@ -915,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224060,
+      "num": 224060,
+      "word": "利剑玫瑰",
+      "onboard_time": 1753875803,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222337,
       "num": 222337,
       "word": "潘玮柏岳云鹏一起吃饭得晕一吨碳",
@@ -977,14 +1065,6 @@
       "onboard_time": 1753864524,
       "rank": 32,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 210621,
-      "num": 296870,
-      "word": "强降雨致河北35.6万人受灾",
-      "onboard_time": 1753874363,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210454,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1753850426,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 205322,
+      "num": 205322,
+      "word": "厦大通报学生辱骂国家运动员",
+      "onboard_time": 1753880304,
+      "rank": 20,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 205187,
@@ -1203,6 +1291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 196995,
+      "num": 196995,
+      "word": "你要讲啊 你不讲你还指望谁讲",
+      "onboard_time": 1753873523,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196887,
       "num": 196887,
       "word": "修仙要不要有房子",
@@ -1323,14 +1419,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 187651,
-      "num": 187651,
-      "word": "你要讲啊 你不讲你还指望谁讲",
-      "onboard_time": 1753873523,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 187358,
       "num": 187358,
       "word": "王者荣耀",
@@ -1425,6 +1513,14 @@
       "onboard_time": 1753861283,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181889,
+      "num": 181889,
+      "word": "龚俊杨洋刘雨昕致敬中国军人",
+      "onboard_time": 1753879223,
+      "rank": 23,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 181586,
@@ -1523,12 +1619,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177014,
+      "num": 177014,
+      "word": "长期零食成瘾对身体的危害",
+      "onboard_time": 1753875202,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176683,
       "num": 176683,
       "word": "巨瘦手臂的方法",
       "onboard_time": 1753848625,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 176175,
+      "num": 159008,
+      "word": "刘雨昕感谢中国军人的挺身而出",
+      "onboard_time": 1753879464,
+      "rank": 28,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 175056,
@@ -1747,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159803,
+      "num": 159803,
+      "word": "12岁男孩高温天跑400米体测身亡",
+      "onboard_time": 1753877363,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158583,
       "num": 139145,
       "word": "维生素D真的很神奇",
@@ -1779,12 +1899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156489,
+      "num": 156489,
+      "word": "俄罗斯一加工厂被海啸冲走",
+      "onboard_time": 1753879343,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156159,
       "num": 185749,
       "word": "范丞丞王牌9上班霸总撕漫男",
       "onboard_time": 1753869983,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156132,
+      "num": 156132,
+      "word": "沈春阳接女儿回国",
+      "onboard_time": 1753879944,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 155984,
@@ -1916,7 +2052,7 @@
     },
     {
       "raw_hot": 150333,
-      "num": 150333,
+      "num": 267506,
       "word": "河北一草原有游客骑马相撞一马死亡",
       "onboard_time": 1753874423,
       "rank": 39,
@@ -1961,6 +2097,14 @@
       "onboard_time": 1753848385,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147428,
+      "num": 147428,
+      "word": "日本福岛第一核电站现状",
+      "onboard_time": 1753873282,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147231,
@@ -2009,6 +2153,14 @@
       "onboard_time": 1753866142,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144196,
+      "num": 146019,
+      "word": "33超长vlog",
+      "onboard_time": 1753879104,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 143601,
@@ -2107,11 +2259,35 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 138073,
+      "num": 138073,
+      "word": "覃海洋26秒67",
+      "onboard_time": 1753879343,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138058,
       "num": 138058,
       "word": "重温莎头奥运夺冠依旧超燃",
       "onboard_time": 1753868182,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137531,
+      "num": 137531,
+      "word": "学生辱骂国家运动员厦门大学开展调查",
+      "onboard_time": 1753880304,
+      "rank": 38,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 136393,
+      "num": 136393,
+      "word": "汪顺的17岁到31岁",
+      "onboard_time": 1753879825,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -2129,6 +2305,14 @@
       "onboard_time": 1753854682,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135600,
+      "num": 135600,
+      "word": "女子回应领证收到1500元补贴",
+      "onboard_time": 1753878143,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135498,
@@ -2161,6 +2345,14 @@
       "onboard_time": 1753853603,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134551,
+      "num": 134551,
+      "word": "新加坡游泳世锦赛",
+      "onboard_time": 1753878863,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134483,
@@ -2235,6 +2427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131210,
+      "num": 131210,
+      "word": "青岛晚霞",
+      "onboard_time": 1753878383,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130438,
       "num": 130438,
       "word": "这次怎么没人问杨幂要链接了",
@@ -2275,6 +2475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128964,
+      "num": 128964,
+      "word": "徐嘉余覃海洋张雨霏吴卿风出战",
+      "onboard_time": 1753879704,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128894,
       "num": 128894,
       "word": "原神更新",
@@ -2289,6 +2497,14 @@
       "onboard_time": 1753842383,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127725,
+      "num": 127725,
+      "word": "日本海啸预警一艘赴日游轮无法靠岸",
+      "onboard_time": 1753876943,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127294,
@@ -2307,36 +2523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126993,
-      "num": 126993,
-      "word": "日本福岛第一核电站现状",
-      "onboard_time": 1753873282,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 126977,
       "num": 126977,
       "word": "95后夫妻结婚6年存款100万",
       "onboard_time": 1753872322,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126951,
-      "num": 126951,
-      "word": "长期零食成瘾对身体的危害",
-      "onboard_time": 1753875202,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126730,
-      "num": 126730,
-      "word": "新人领结婚证收到1500元补贴",
-      "onboard_time": 1753875143,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125593,
@@ -2393,6 +2585,14 @@
       "onboard_time": 1753850905,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121358,
+      "num": 121358,
+      "word": "今年见过最丑的咪",
+      "onboard_time": 1753880064,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 120798,
@@ -2811,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75073,
+      "num": 157507,
+      "word": "曾辉差点把韩雨彤的包丢了",
+      "onboard_time": 1753877963,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73101,
       "num": 150591,
       "word": "落马官员一副眼镜4.36万起拍",
@@ -2824,6 +3032,14 @@
       "word": "公司回应招聘要求35岁以上勿扰",
       "onboard_time": 1753821554,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72093,
+      "num": 131794,
+      "word": "海啸不会对上海造成灾害性影响",
+      "onboard_time": 1753878083,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
