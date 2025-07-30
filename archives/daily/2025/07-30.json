@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753872587191,
+  "endTime": 1753874752172,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -32,6 +32,14 @@
       "word": "海啸到达台湾浙江上海沿海时间",
       "onboard_time": 1753849584,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1830286,
+      "num": 897950,
+      "word": "女车主摇中88888车牌有人现场出价110万",
+      "onboard_time": 1753871363,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 948055,
+      "num": 758865,
+      "word": "媒体评武汉大学图书馆性骚扰事件",
+      "onboard_time": 1753870583,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 879597,
       "num": 879597,
       "word": "十年前举报释永信的释延鲁去哪了",
@@ -235,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 758865,
-      "num": 758865,
-      "word": "媒体评武汉大学图书馆性骚扰事件",
-      "onboard_time": 1753870583,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 746602,
       "num": 746602,
       "word": "台风竹节草",
@@ -281,6 +289,14 @@
       "onboard_time": 1753866923,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 645917,
+      "num": 645917,
+      "word": "上海LV大船被淹视频系伪造",
+      "onboard_time": 1753870644,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 633500,
@@ -483,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 354349,
-      "num": 354349,
-      "word": "上海LV大船被淹视频系伪造",
-      "onboard_time": 1753870644,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353192,
       "num": 353192,
       "word": "中文真的不再加密",
@@ -539,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330808,
-      "num": 330808,
-      "word": "女车主摇中88888车牌有人现场出价110万",
-      "onboard_time": 1753871363,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 328325,
+      "num": 309533,
+      "word": "李雪琴的腰怎么了",
+      "onboard_time": 1753873943,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 324593,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 252760,
-      "num": 181477,
+      "num": 249607,
       "word": "26岁确诊了早期胃癌的忠告",
       "onboard_time": 1753869983,
       "rank": 30,
@@ -753,6 +761,14 @@
       "onboard_time": 1753835304,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249704,
+      "num": 249704,
+      "word": "王安宇张凌赫李昀锐网课素材",
+      "onboard_time": 1753871783,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 247857,
@@ -809,6 +825,14 @@
       "onboard_time": 1753863143,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 232967,
+      "num": 232967,
+      "word": "领取育儿补贴记住三步",
+      "onboard_time": 1753869263,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231757,
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 209802,
-      "num": 974497,
+      "num": 992884,
       "word": "今年育儿补贴补助资金预算900亿元左右",
       "onboard_time": 1753858162,
       "rank": 35,
@@ -1283,12 +1307,12 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 187675,
-      "num": 187675,
-      "word": "王安宇张凌赫李昀锐网课素材",
-      "onboard_time": 1753871783,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 187651,
+      "num": 187651,
+      "word": "你要讲啊 你不讲你还指望谁讲",
+      "onboard_time": 1753873523,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 187358,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1753804763,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178851,
+      "num": 150503,
+      "word": "头一次见七尺男儿被叫总裁夫人",
+      "onboard_time": 1753873702,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 178716,
@@ -1627,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164751,
+      "num": 251600,
+      "word": "强降雨致河北35.6万人受灾",
+      "onboard_time": 1753874363,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164312,
       "num": 164312,
       "word": "原来猛犸象还没有灭绝",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1753840641,
       "rank": 33,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 161617,
+      "num": 161617,
+      "word": "许凯王楚然这段过于浪漫了",
+      "onboard_time": 1753874303,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 161231,
@@ -1697,14 +1745,6 @@
       "onboard_time": 1753790001,
       "rank": 23,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 157864,
-      "num": 157864,
-      "word": "领取育儿补贴记住三步",
-      "onboard_time": 1753869263,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157857,
@@ -1931,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146430,
+      "num": 146430,
+      "word": "第一次见做蛇类科普带助教的",
+      "onboard_time": 1753872084,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144996,
       "num": 144996,
       "word": "迪丽热巴哭戏",
@@ -2075,6 +2123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135124,
+      "num": 150884,
+      "word": "TFING直播",
+      "onboard_time": 1753874184,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134836,
       "num": 134836,
       "word": "这版周冬雨美我一大跳",
@@ -2089,6 +2145,14 @@
       "onboard_time": 1753853603,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134483,
+      "num": 134483,
+      "word": "九尾39度躺床上了",
+      "onboard_time": 1753873702,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 134447,
@@ -2283,6 +2347,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120931,
+      "num": 120931,
+      "word": "河北一草原有游客骑马相撞一马死亡",
+      "onboard_time": 1753874423,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "张杰直播倒计时开启",
+      "onboard_time": 1753873882,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119627,
       "num": 119627,
       "word": "刘军一审获刑11年",
@@ -2297,6 +2377,14 @@
       "onboard_time": 1753853484,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114289,
+      "num": 114289,
+      "word": "花海和钎城当上同学了",
+      "onboard_time": 1753873882,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 113759,
@@ -2347,20 +2435,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 109325,
-      "num": 109325,
-      "word": "第一次见做蛇类科普带助教的",
-      "onboard_time": 1753872084,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108131,
       "num": 108131,
       "word": "空气炸锅面包",
       "onboard_time": 1753841545,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 106892,
+      "num": 106892,
+      "word": "日本海浪逆流向河道现场",
+      "onboard_time": 1753872983,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106732,
@@ -2385,6 +2473,14 @@
       "onboard_time": 1753831881,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103825,
+      "num": 103825,
+      "word": "银河M9价格泄露",
+      "onboard_time": 1753874723,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 103786,
@@ -2643,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73101,
+      "num": 150591,
+      "word": "落马官员一副眼镜4.36万起拍",
+      "onboard_time": 1753873282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72517,
       "num": 72517,
       "word": "公司回应招聘要求35岁以上勿扰",
@@ -2697,6 +2801,14 @@
       "onboard_time": 1753840882,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 64684,
+      "num": 114802,
+      "word": "日本福岛第一核电站现状",
+      "onboard_time": 1753873282,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63800,
@@ -2947,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23247,
+      "num": 249909,
+      "word": "少林书画院称联系不上释永信弟弟",
+      "onboard_time": 1753874243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19097,
       "num": 28654,
       "word": "高叶回应南京照相馆是否适合小朋友",
@@ -2969,6 +3089,22 @@
       "onboard_time": 1753832420,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15638,
+      "num": 121637,
+      "word": "以后通勤就让机器人推着",
+      "onboard_time": 1753872744,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 9368,
+      "num": 120938,
+      "word": "体验贾冰减肥法的一天",
+      "onboard_time": 1753874663,
+      "rank": 38,
+      "category": "艺人,运动健身"
     },
     {
       "raw_hot": 9117,
