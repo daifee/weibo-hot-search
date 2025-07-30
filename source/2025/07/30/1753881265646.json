@@ -1,0 +1,410 @@
+{
+  "runTime": 1753881265646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1667976,
+        "num": 1667976,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 670009,
+        "num": 670009,
+        "word": "住民宿被指3女1男涉事商家道歉",
+        "onboard_time": 1753876883,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4053,
+        "num": 651828,
+        "word": "可免签或落地签前往90多个国家和地区",
+        "onboard_time": 1753845083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650219,
+        "num": 650219,
+        "word": "窦骁刘浩存 庄图南李佳该有的样子",
+        "onboard_time": 1753875743,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626208,
+        "num": 626208,
+        "word": "潘展乐无缘100自决赛",
+        "onboard_time": 1753877003,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546952,
+        "num": 546952,
+        "word": "孟子义经纪人道歉",
+        "onboard_time": 1753868002,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361607,
+        "num": 361607,
+        "word": "新人领结婚证收到1500元补贴",
+        "onboard_time": 1753875143,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321822,
+        "num": 321822,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753875803,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271384,
+        "num": 271384,
+        "word": "女生苦练化妆一个月的变化",
+        "onboard_time": 1753862424,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 196019,
+        "num": 268010,
+        "word": "俄罗斯一加工厂被海啸冲走",
+        "onboard_time": 1753879343,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1326039,
+        "num": 263516,
+        "word": "女车主摇中88888车牌有人现场出价110万",
+        "onboard_time": 1753871363,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784129,
+        "num": 256098,
+        "word": "李雪琴的腰怎么了",
+        "onboard_time": 1753873943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135144,
+        "num": 248943,
+        "word": "今年育儿补贴补助资金预算900亿元左右",
+        "onboard_time": 1753858162,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437554,
+        "num": 237059,
+        "word": "吴千语婚礼品位被VOGUE认证",
+        "onboard_time": 1753877904,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403437,
+        "num": 230674,
+        "word": "刘亦菲把渔网袜穿得好清纯",
+        "onboard_time": 1753876104,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362769,
+        "num": 221426,
+        "word": "26岁确诊了早期胃癌的忠告",
+        "onboard_time": 1753869983,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220706,
+        "num": 220706,
+        "word": "强降雨致河北35.6万人受灾",
+        "onboard_time": 1753874363,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212159,
+        "num": 212159,
+        "word": "学生辱骂国家运动员厦门大学开展调查",
+        "onboard_time": 1753880304,
+        "rank": 17,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 181170,
+        "num": 211721,
+        "word": "龚俊杨洋刘雨昕致敬中国军人",
+        "onboard_time": 1753879223,
+        "rank": 18,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 40947,
+        "num": 211666,
+        "word": "高铁静音车厢每10分钟左右巡查一次",
+        "onboard_time": 1753880484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246954,
+        "num": 211666,
+        "word": "厦大通报学生辱骂国家运动员",
+        "onboard_time": 1753880304,
+        "rank": 20,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 211658,
+        "num": 211658,
+        "word": "覃海洋26秒67",
+        "onboard_time": 1753879343,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207608,
+        "num": 207608,
+        "word": "IVE全员开球",
+        "onboard_time": 1753878324,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 208232,
+        "num": 207606,
+        "word": "王青杂志销售额",
+        "onboard_time": 1753878083,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204738,
+        "num": 204738,
+        "word": "你要讲啊 你不讲你还指望谁讲",
+        "onboard_time": 1753873523,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203517,
+        "num": 203517,
+        "word": "长期零食成瘾对身体的危害",
+        "onboard_time": 1753875202,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179713,
+        "num": 179713,
+        "word": "沈春阳接女儿回国",
+        "onboard_time": 1753879944,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171609,
+        "num": 171609,
+        "word": "12岁男孩高温天跑400米体测身亡",
+        "onboard_time": 1753877363,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160114,
+        "num": 170995,
+        "word": "马嘉祺首秀就被针对全是尊重",
+        "onboard_time": 1753880843,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 42397,
+        "num": 170631,
+        "word": "工作性抑郁应该算新型工伤",
+        "onboard_time": 1753880484,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1548396,
+        "num": 169263,
+        "word": "张碧晨广州站演唱会开票遇冷",
+        "onboard_time": 1753879583,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119817,
+        "num": 168032,
+        "word": "龚俊臭成啥样了",
+        "onboard_time": 1753865423,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119019,
+        "num": 167722,
+        "word": "李兰迪 少女时期的生长痛终于结束了",
+        "onboard_time": 1753866563,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187981,
+        "num": 166188,
+        "word": "马尔尚打破200米混合泳世界纪录",
+        "onboard_time": 1753880963,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23153,
+        "num": 165456,
+        "word": "丁禹兮把我想看的都拍了",
+        "onboard_time": 1753880906,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165097,
+        "num": 165097,
+        "word": "台湾海啸",
+        "onboard_time": 1753856904,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 163683,
+        "word": "日本海啸预警一艘赴日游轮无法靠岸",
+        "onboard_time": 1753876943,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155458,
+        "num": 155458,
+        "word": "汪顺的17岁到31岁",
+        "onboard_time": 1753879825,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147646,
+        "num": 147646,
+        "word": "台风把西湖吹成了海",
+        "onboard_time": 1753880182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38069,
+        "num": 145068,
+        "word": "北京147小时下了多少雨",
+        "onboard_time": 1753880906,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143750,
+        "num": 143750,
+        "word": "新加坡游泳世锦赛",
+        "onboard_time": 1753878863,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142885,
+        "num": 142885,
+        "word": "小洋芋找到了",
+        "onboard_time": 1753881204,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141849,
+        "num": 141849,
+        "word": "徐嘉余覃海洋张雨霏吴卿风出战",
+        "onboard_time": 1753879704,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142311,
+        "num": 140574,
+        "word": "王安宇张凌赫李昀锐网课素材",
+        "onboard_time": 1753871783,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112489,
+        "num": 139403,
+        "word": "李乃文回家打开评论区后天塌了",
+        "onboard_time": 1753866923,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "青岛晚霞",
+        "onboard_time": 1753878383,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138294,
+        "num": 138294,
+        "word": "刘雨昕感谢中国军人的挺身而出",
+        "onboard_time": 1753879464,
+        "rank": 46,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 134442,
+        "num": 134442,
+        "word": "上海中心1000吨阻尼器开始摆动",
+        "onboard_time": 1753864943,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124730,
+        "num": 124730,
+        "word": "罗小黑战记2",
+        "onboard_time": 1753881204,
+        "rank": 48,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 123813,
+        "num": 123813,
+        "word": "上海LV大船被淹视频系伪造",
+        "onboard_time": 1753870644,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025下半年经济工作#"
+    }
+  }
+}
