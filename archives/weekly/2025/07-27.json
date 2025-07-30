@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753869068158,
+  "endTime": 1753871482012,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -193,6 +193,14 @@
       "onboard_time": 1753782981,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1744467,
+      "num": 537264,
+      "word": "孟子义经纪人道歉",
+      "onboard_time": 1753868002,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1740441,
@@ -441,6 +449,14 @@
       "onboard_time": 1753672344,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1158887,
+      "num": 1158887,
+      "word": "因为男主太丑了所以用美颜相机看",
+      "onboard_time": 1753870044,
+      "rank": 1,
+      "category": "剧集,幽默"
     },
     {
       "raw_hot": 1158429,
@@ -1411,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595023,
+      "num": 595023,
+      "word": "李乃文回家打开评论区后天塌了",
+      "onboard_time": 1753866923,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590954,
       "num": 590954,
       "word": "坐高铁因为好奇选了静音车厢",
@@ -1601,14 +1625,6 @@
       "onboard_time": 1753658118,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 537264,
-      "num": 537264,
-      "word": "孟子义经纪人道歉",
-      "onboard_time": 1753868002,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 535087,
@@ -2459,6 +2475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357589,
+      "num": 357589,
+      "word": "媒体评武汉大学图书馆性骚扰事件",
+      "onboard_time": 1753870583,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357362,
       "num": 357362,
       "word": "喜茶 CHIIKAWA",
@@ -2643,6 +2667,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 333254,
+      "num": 333254,
+      "word": "马嘉祺感谢歌手2025的邀请",
+      "onboard_time": 1753869865,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331568,
       "num": 331568,
       "word": "井柏然刘雯两眼一睁就是被偶遇",
@@ -2803,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314684,
+      "num": 314684,
+      "word": "心疼徐嘉余",
+      "onboard_time": 1753865963,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314022,
       "num": 248465,
       "word": "周杰伦武汉",
@@ -2849,14 +2889,6 @@
       "onboard_time": 1753622786,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308778,
-      "num": 308778,
-      "word": "李乃文回家打开评论区后天塌了",
-      "onboard_time": 1753866923,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 308671,
@@ -3451,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252760,
+      "num": 178846,
+      "word": "26岁确诊了早期胃癌的忠告",
+      "onboard_time": 1753869983,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 252590,
       "num": 222366,
       "word": "肯德基 光与夜之恋",
@@ -3635,6 +3675,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 239881,
+      "num": 239881,
+      "word": "李想希望易烊千玺演自己",
+      "onboard_time": 1753870223,
+      "rank": 22,
+      "category": "汽车,艺人"
+    },
+    {
       "raw_hot": 239648,
       "num": 348310,
       "word": "和朱一龙一起从抗战文物中汲取力量",
@@ -3761,6 +3809,14 @@
       "onboard_time": 1753864461,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 229340,
+      "num": 229340,
+      "word": "突发黄体破裂的黄金2小时自救法",
+      "onboard_time": 1753865664,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 228764,
@@ -4107,6 +4163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213850,
+      "num": 213850,
+      "word": "上海LV大船被淹视频系伪造",
+      "onboard_time": 1753870644,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213780,
       "num": 213780,
       "word": "柬泰两国领导人分别感谢中国",
@@ -4193,6 +4257,14 @@
       "onboard_time": 1753764205,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210454,
+      "num": 170971,
+      "word": "无畏阳光明媚的过头了",
+      "onboard_time": 1753871064,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 210405,
@@ -4425,6 +4497,14 @@
       "onboard_time": 1753752204,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204606,
+      "num": 204606,
+      "word": "汪顺你的兵来了",
+      "onboard_time": 1753868662,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 204354,
@@ -5235,6 +5315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188604,
+      "num": 188604,
+      "word": "4s店员工回应女车主摇中88888车牌",
+      "onboard_time": 1753869683,
+      "rank": 26,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 188442,
       "num": 188442,
       "word": "南波万一下聚齐了八个人",
@@ -5249,14 +5337,6 @@
       "onboard_time": 1753802484,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 187931,
-      "num": 187931,
-      "word": "心疼徐嘉余",
-      "onboard_time": 1753865963,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 187106,
@@ -5451,20 +5531,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 184675,
+      "num": 283071,
+      "word": "马嘉祺回应缺席突围赛",
+      "onboard_time": 1753870883,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184502,
       "num": 184502,
       "word": "一诺登顶世一射",
       "onboard_time": 1753604063,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 184359,
-      "num": 184359,
-      "word": "突发黄体破裂的黄金2小时自救法",
-      "onboard_time": 1753865664,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184055,
@@ -5505,14 +5585,6 @@
       "onboard_time": 1753792282,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183079,
-      "num": 183079,
-      "word": "汪顺你的兵来了",
-      "onboard_time": 1753868662,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 182996,
@@ -6379,6 +6451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166061,
+      "num": 166061,
+      "word": "29岁谷歌女工程师被树枝砸中身亡",
+      "onboard_time": 1753870343,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165852,
       "num": 185341,
       "word": "在挪威和花少隔桌吃饭",
@@ -6907,6 +6987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157394,
+      "num": 157394,
+      "word": "全智贤19岁旧照",
+      "onboard_time": 1753870044,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157197,
       "num": 157197,
       "word": "阿姨开超市为晚归女孩留灯13年",
@@ -6953,6 +7041,14 @@
       "onboard_time": 1753659979,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156808,
+      "num": 370191,
+      "word": "山西失联车辆已确认10人遇难",
+      "onboard_time": 1753870883,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156641,
@@ -7009,6 +7105,14 @@
       "onboard_time": 1753589721,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156159,
+      "num": 185749,
+      "word": "范丞丞王牌9上班霸总撕漫男",
+      "onboard_time": 1753869983,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 156116,
@@ -7915,6 +8019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142636,
+      "num": 142636,
+      "word": "不是意大利是青岛",
+      "onboard_time": 1753870883,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142567,
       "num": 142567,
       "word": "李兰迪颜值的权威我后知后觉",
@@ -8088,6 +8200,14 @@
       "word": "Baolan复盘iG被偷家",
       "onboard_time": 1753849464,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 139956,
+      "num": 139956,
+      "word": "吒宝兑现粉丝撒娇九连",
+      "onboard_time": 1753871124,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -8499,6 +8619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134447,
+      "num": 134447,
+      "word": "探案剧新娘死法上新",
+      "onboard_time": 1753869683,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134423,
       "num": 130169,
       "word": "杨洋漏胸肌这块",
@@ -8689,6 +8817,14 @@
       "onboard_time": 1753542866,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132636,
+      "num": 132636,
+      "word": "鹭卓种地音乐两不误",
+      "onboard_time": 1753870763,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 132579,
@@ -8891,6 +9027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129363,
+      "num": 129363,
+      "word": "日本多地屋顶挤满避险人群",
+      "onboard_time": 1753869083,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129210,
       "num": 129210,
       "word": "男子4x100自接力中国队晋级决赛",
@@ -8937,6 +9081,14 @@
       "onboard_time": 1753840822,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128517,
+      "num": 128517,
+      "word": "女车主摇中88888车牌有人现场出价110万",
+      "onboard_time": 1753871363,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128408,
@@ -9113,6 +9265,14 @@
       "onboard_time": 1753688364,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 125593,
+      "num": 125593,
+      "word": "上海迎战台风竹节草",
+      "onboard_time": 1753869562,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125583,
