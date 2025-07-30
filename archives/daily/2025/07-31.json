@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753893280399,
+  "endTime": 1753894331025,
   "band_list": [
     {
       "raw_hot": 775778,
@@ -99,12 +99,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 257678,
+      "num": 173411,
+      "word": "周冬雨刘诗诗娜扎鞋跟高度",
+      "onboard_time": 1753890863,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247773,
       "num": 204181,
       "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
       "onboard_time": 1753887265,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247554,
+      "num": 203222,
+      "word": "正式确诊为痣性恋",
+      "onboard_time": 1753890144,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 247445,
@@ -123,14 +139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 245931,
-      "num": 203222,
-      "word": "正式确诊为痣性恋",
-      "onboard_time": 1753890144,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211145,
       "num": 211145,
       "word": "直击北京密云太师屯镇",
@@ -147,20 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173411,
-      "num": 173411,
-      "word": "周冬雨刘诗诗娜扎鞋跟高度",
-      "onboard_time": 1753890863,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168057,
       "num": 168057,
       "word": "女生苦练化妆一个月的变化",
       "onboard_time": 1753862424,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 167726,
+      "num": 210467,
+      "word": "河北兴隆强降雨8人遇难18人失联",
+      "onboard_time": 1753891823,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 161458,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 144263,
-      "num": 144263,
+      "num": 150563,
       "word": "窦骁刘浩存 庄图南李佳该有的样子",
       "onboard_time": 1753875743,
       "rank": 23,
@@ -201,14 +209,6 @@
       "onboard_time": 1753873523,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121538,
-      "num": 210467,
-      "word": "河北兴隆强降雨8人遇难18人失联",
-      "onboard_time": 1753891823,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 104050,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65017,
+      "num": 88606,
+      "word": "大学生为200元返现背上16万元债务",
+      "onboard_time": 1753890683,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63412,
       "num": 88606,
       "word": "吴千语婚礼品位被VOGUE认证",
@@ -361,14 +369,6 @@
       "onboard_time": 1753892723,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62356,
-      "num": 88606,
-      "word": "大学生为200元返现背上16万元债务",
-      "onboard_time": 1753890683,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61277,
@@ -393,6 +393,30 @@
       "onboard_time": 1753881625,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55549,
+      "num": 87245,
+      "word": "港中大辞退反华推手侯儒楷",
+      "onboard_time": 1753890982,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54235,
+      "num": 87164,
+      "word": "请你务必坚定地支持自己",
+      "onboard_time": 1753891164,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 51855,
+      "num": 86998,
+      "word": "利剑玫瑰",
+      "onboard_time": 1753875803,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 36306,
