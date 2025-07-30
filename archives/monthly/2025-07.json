@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753904428529,
+  "endTime": 1753907407904,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -100691,6 +100691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21861,
+      "num": 21861,
+      "word": "游轮客服回应因日本海啸预警无法靠岸",
+      "onboard_time": 1753904956,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21812,
       "num": 30398,
       "word": "世界义乌vs中国横店",
@@ -101561,6 +101569,14 @@
       "onboard_time": 1751916914,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18393,
+      "num": 41236,
+      "word": "日本民众撤离到屋顶躲避海啸",
+      "onboard_time": 1753906334,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18365,
@@ -102537,6 +102553,14 @@
       "onboard_time": 1752748941,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13060,
+      "num": 20430,
+      "word": "特朗普称对印度征收25%关税",
+      "onboard_time": 1753906934,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12982,
