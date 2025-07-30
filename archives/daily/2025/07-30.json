@@ -1,10 +1,10 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753841613438,
+  "endTime": 1753843156640,
   "band_list": [
     {
-      "raw_hot": 6484765,
-      "num": 6484765,
+      "raw_hot": 9937784,
+      "num": 9937784,
       "word": "刘宇宁祝绪丹否认恋情",
       "onboard_time": 1753840103,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 876254,
-      "num": 306652,
+      "num": 379927,
       "word": "留几手说葛夕新恋情与我无关",
       "onboard_time": 1753838423,
       "rank": 11,
@@ -51,8 +51,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 718800,
+      "num": 718800,
+      "word": "俄罗斯地震",
+      "onboard_time": 1753840103,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 690171,
-      "num": 305217,
+      "num": 345002,
       "word": "演唱会偷情事件男主起诉Coldplay",
       "onboard_time": 1753830978,
       "rank": 10,
@@ -83,16 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 496635,
-      "num": 496635,
-      "word": "俄罗斯地震",
-      "onboard_time": 1753840103,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 488315,
-      "num": 306186,
+      "num": 361133,
       "word": "张予曦自曝曾遭多名男生霸凌",
       "onboard_time": 1753837104,
       "rank": 12,
@@ -105,6 +105,22 @@
       "onboard_time": 1753830978,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431020,
+      "num": 431020,
+      "word": "全家一起跳操2月瘦了50多斤",
+      "onboard_time": 1753840103,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422683,
+      "num": 422683,
+      "word": "哀牢山",
+      "onboard_time": 1753837703,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 419670,
@@ -139,11 +155,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 352322,
-      "num": 284496,
+      "raw_hot": 354436,
+      "num": 285048,
       "word": "一家四口住民宿被指3女1男",
       "onboard_time": 1753837045,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324593,
+      "num": 324593,
+      "word": "台风竹节草登陆浙江舟山沿海",
+      "onboard_time": 1753837703,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -155,19 +179,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315154,
+      "num": 315154,
+      "word": "iPhone17Pro橙色机模曝光",
+      "onboard_time": 1753838963,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 308571,
       "num": 308571,
       "word": "人人人人人贵州人人人人人",
       "onboard_time": 1753832962,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304571,
-      "num": 304571,
-      "word": "台风竹节草登陆浙江舟山沿海",
-      "onboard_time": 1753837703,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -195,20 +219,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 285045,
+      "num": 285045,
+      "word": "银行存了35万取款时被清零了",
+      "onboard_time": 1753842981,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282706,
       "num": 282706,
       "word": "欧阳娜娜归国千金既视感",
       "onboard_time": 1753801704,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281947,
-      "num": 281947,
-      "word": "全家一起跳操2月瘦了50多斤",
-      "onboard_time": 1753840103,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279293,
@@ -243,12 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225910,
-      "num": 225910,
-      "word": "iPhone17Pro橙色机模曝光",
-      "onboard_time": 1753838963,
-      "rank": 24,
-      "category": "数码"
+      "raw_hot": 231549,
+      "num": 231549,
+      "word": "阿汤哥安娜恋情",
+      "onboard_time": 1753841783,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229487,
+      "num": 229487,
+      "word": "日本多地发布海啸预警",
+      "onboard_time": 1753833503,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 225628,
@@ -259,12 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218803,
-      "num": 218803,
-      "word": "哀牢山",
-      "onboard_time": 1753837703,
-      "rank": 26,
-      "category": "旅游"
+      "raw_hot": 220228,
+      "num": 220228,
+      "word": "身上长这种肉疙瘩警惕是癌症先兆",
+      "onboard_time": 1753836325,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 216530,
@@ -291,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206844,
-      "num": 206844,
-      "word": "日本多地发布海啸预警",
-      "onboard_time": 1753833503,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 206227,
       "num": 137532,
       "word": "女子得知弟媳被家暴怒扇亲弟弟",
@@ -315,12 +339,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 203566,
+      "num": 203566,
+      "word": "医生回应得荨麻疹女子在皮肤上划字",
+      "onboard_time": 1753839504,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201321,
       "num": 201321,
       "word": "孙芮官宣和丝芭不续约",
       "onboard_time": 1753801525,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198223,
+      "num": 285801,
+      "word": "张予曦毕雯珺 般配",
+      "onboard_time": 1753841964,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 197130,
@@ -363,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186159,
+      "num": 302112,
+      "word": "专家称张碧晨唯一原唱证据不足",
+      "onboard_time": 1753837404,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181205,
       "num": 181205,
       "word": "女子发现电影院座椅布满白色虫卵",
@@ -403,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178189,
+      "num": 229610,
+      "word": "演唱会出轨被拍男主起诉酷玩乐队",
+      "onboard_time": 1753842503,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174824,
       "num": 140668,
       "word": "外卖员组团评论区感谢孙颖莎",
@@ -411,16 +467,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169434,
-      "num": 169434,
-      "word": "身上长这种肉疙瘩警惕是癌症先兆",
-      "onboard_time": 1753836325,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168539,
-      "num": 168539,
+      "num": 388600,
       "word": "间谍在共享充电宝植入后门程序监视",
       "onboard_time": 1753833682,
       "rank": 32,
@@ -459,20 +507,20 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 157913,
-      "num": 302112,
-      "word": "专家称张碧晨唯一原唱证据不足",
-      "onboard_time": 1753837404,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 155326,
       "num": 155326,
       "word": "27岁存款30万从体制内辞职了",
       "onboard_time": 1753781182,
       "rank": 17,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 155236,
+      "num": 155236,
+      "word": "汪顺东京奥运夺冠四周年",
+      "onboard_time": 1753841964,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 153752,
@@ -489,6 +537,14 @@
       "onboard_time": 1753840702,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147231,
+      "num": 147231,
+      "word": "鸿蒙迎来千万级设备量里程碑",
+      "onboard_time": 1753842383,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 147147,
@@ -515,14 +571,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 143456,
-      "num": 143456,
-      "word": "医生回应得荨麻疹女子在皮肤上划字",
-      "onboard_time": 1753839504,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 143113,
       "num": 118645,
       "word": "白鹿晒照给闺蜜庆生",
@@ -545,6 +593,14 @@
       "onboard_time": 1753830798,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138144,
+      "num": 138144,
+      "word": "张康乐 海飞丝",
+      "onboard_time": 1753842144,
+      "rank": 37,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 134836,
@@ -579,12 +635,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129702,
+      "num": 129702,
+      "word": "十四五移民管理工作发展成就",
+      "onboard_time": 1753842981,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 129439,
+      "num": 147810,
+      "word": "三伏天已经过了三分之一",
+      "onboard_time": 1753832600,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129134,
+      "num": 129134,
+      "word": "李想回忆被赶出公司",
+      "onboard_time": 1753842683,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128894,
       "num": 128894,
       "word": "原神更新",
       "onboard_time": 1753840822,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127877,
+      "num": 127877,
+      "word": "济南专家呼吁市民重视带状疱疹预防",
+      "onboard_time": 1753842383,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127294,
@@ -595,12 +683,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126178,
-      "num": 147810,
-      "word": "三伏天已经过了三分之一",
-      "onboard_time": 1753832600,
-      "rank": 35,
+      "raw_hot": 125157,
+      "num": 125157,
+      "word": "被杭州街头无人机表白整破防了",
+      "onboard_time": 1753842803,
+      "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124608,
+      "num": 124608,
+      "word": "岔腿坐其实是个女性友好坐姿",
+      "onboard_time": 1753835124,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124041,
@@ -609,14 +705,6 @@
       "onboard_time": 1753835364,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122267,
-      "num": 122267,
-      "word": "岔腿坐其实是个女性友好坐姿",
-      "onboard_time": 1753835124,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 119627,
@@ -667,12 +755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105809,
+      "num": 105809,
+      "word": "日本北海道第一波海啸到达",
+      "onboard_time": 1753843103,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 103921,
       "num": 94586,
       "word": "伊朗外长为防暗杀立即关手机",
       "onboard_time": 1753831881,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103786,
+      "num": 103786,
+      "word": "御坂美琴",
+      "onboard_time": 1753839743,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 102907,
@@ -851,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76557,
+      "num": 221041,
+      "word": "周柯宇 先别着急投诉我",
+      "onboard_time": 1753842563,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72517,
       "num": 72517,
       "word": "公司回应招聘要求35岁以上勿扰",
@@ -1020,7 +1132,7 @@
     },
     {
       "raw_hot": 9117,
-      "num": 528886,
+      "num": 1123657,
       "word": "双曲线一号遥十运载火箭发射成功",
       "onboard_time": 1753767863,
       "rank": 2,
