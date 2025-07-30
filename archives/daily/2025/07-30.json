@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753860742992,
+  "endTime": 1753861608768,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1117367,
+      "num": 1117367,
+      "word": "台湾海啸",
+      "onboard_time": 1753856904,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1115343,
       "num": 1115343,
       "word": "成人安抚奶嘴走红月销量破千",
@@ -91,20 +99,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1056024,
-      "num": 1056024,
-      "word": "台湾海啸",
-      "onboard_time": 1753856904,
-      "rank": 28,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 1032192,
       "num": 1032192,
       "word": "请回答1988珍珠扮演者近照",
       "onboard_time": 1753857623,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 982058,
+      "num": 982058,
+      "word": "男子开假装上班公司2个月40人来上班",
+      "onboard_time": 1753857504,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 962651,
@@ -140,15 +148,15 @@
     },
     {
       "raw_hot": 856194,
-      "num": 551481,
+      "num": 594695,
       "word": "吉克隽逸因瘦不下去崩溃大哭",
       "onboard_time": 1753853843,
       "rank": 22,
       "category": "艺人"
     },
     {
-      "raw_hot": 791704,
-      "num": 791704,
+      "raw_hot": 847522,
+      "num": 847522,
       "word": "育儿补贴不分一孩二孩或者三孩",
       "onboard_time": 1753857684,
       "rank": 36,
@@ -179,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 727918,
-      "num": 727918,
-      "word": "男子开假装上班公司2个月40人来上班",
-      "onboard_time": 1753857504,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 705259,
       "num": 705259,
       "word": "日本北海道第一波海啸到达",
@@ -201,6 +201,14 @@
       "onboard_time": 1753830978,
       "rank": 10,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 673987,
+      "num": 673987,
+      "word": "吴谨言全面复出",
+      "onboard_time": 1753859063,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 608361,
@@ -267,6 +275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 463549,
+      "num": 463549,
+      "word": "上拉如曝小英4元衣服卖29.9元",
+      "onboard_time": 1753860683,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 450421,
       "num": 450421,
       "word": "张碧晨曾称和汪苏泷关系非常好",
@@ -313,14 +329,6 @@
       "onboard_time": 1753855284,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 404796,
-      "num": 531059,
-      "word": "吴谨言全面复出",
-      "onboard_time": 1753859063,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 403246,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342763,
+      "num": 504822,
+      "word": "毕业照给我拍成刘亦菲了",
+      "onboard_time": 1753856904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324593,
       "num": 324593,
       "word": "台风竹节草登陆浙江舟山沿海",
@@ -417,6 +433,14 @@
       "onboard_time": 1753838963,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 311972,
+      "num": 615669,
+      "word": "育儿补贴发放渠道",
+      "onboard_time": 1753859304,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 308571,
@@ -483,20 +507,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275597,
-      "num": 504822,
-      "word": "毕业照给我拍成刘亦菲了",
-      "onboard_time": 1753856904,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260229,
       "num": 260229,
       "word": "泡泡玛特给海关发布送锦旗",
       "onboard_time": 1753839803,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259151,
+      "num": 259151,
+      "word": "贾静雯一家夏威夷遇海啸",
+      "onboard_time": 1753858463,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 254996,
@@ -563,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244028,
-      "num": 244028,
-      "word": "贾静雯一家夏威夷遇海啸",
-      "onboard_time": 1753858463,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243812,
       "num": 243812,
       "word": "床垫买成800元扔掉花了500元",
@@ -585,6 +601,14 @@
       "onboard_time": 1753858283,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 237261,
+      "num": 237261,
+      "word": "俄远海8.8级地震后港口被冲毁淹没",
+      "onboard_time": 1753861043,
+      "rank": 26,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 231757,
@@ -617,6 +641,14 @@
       "onboard_time": 1753856962,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227317,
+      "num": 227317,
+      "word": "俄失事客机遇难中国公民身份已确认",
+      "onboard_time": 1753858403,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 225628,
@@ -667,20 +699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212094,
-      "num": 525237,
-      "word": "育儿补贴发放渠道",
-      "onboard_time": 1753859304,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 210520,
-      "num": 210520,
-      "word": "俄失事客机遇难中国公民身份已确认",
-      "onboard_time": 1753858403,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 211798,
+      "num": 211798,
+      "word": "武大图书馆性骚扰事件没有赢家",
+      "onboard_time": 1753861283,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209802,
@@ -939,6 +963,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 189625,
+      "num": 189625,
+      "word": "毕雯珺早期",
+      "onboard_time": 1753861224,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189288,
       "num": 189288,
       "word": "孙颖莎 美团",
@@ -1131,6 +1163,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173843,
+      "num": 198858,
+      "word": "白鹿首张实体专辑销量",
+      "onboard_time": 1753859183,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 172677,
+      "num": 188093,
+      "word": "这个外滩是非去不可吗",
+      "onboard_time": 1753861283,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172027,
       "num": 444127,
       "word": "像王皓一样思考",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1753847484,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 171697,
-      "num": 171697,
-      "word": "上拉如曝小英4元衣服卖29.9元",
-      "onboard_time": 1753860683,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 170124,
@@ -1227,12 +1267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162745,
-      "num": 162745,
-      "word": "白鹿首张实体专辑销量",
-      "onboard_time": 1753859183,
-      "rank": 48,
-      "category": "音乐"
+      "raw_hot": 163119,
+      "num": 163119,
+      "word": "这喜糖长辈会吐槽但年轻人一定喜欢",
+      "onboard_time": 1753861523,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 162128,
@@ -1243,8 +1283,16 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 161231,
+      "num": 161231,
+      "word": "进一步完善生育休假制度",
+      "onboard_time": 1753861104,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161076,
-      "num": 522970,
+      "num": 557014,
       "word": "孙颖莎拼好饭",
       "onboard_time": 1753857324,
       "rank": 13,
@@ -1819,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92036,
+      "num": 173960,
+      "word": "爱自己就很Tiffany",
+      "onboard_time": 1753861583,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 88201,
       "num": 88201,
       "word": "刘诗诗娜扎周冬雨同框视频",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1753781663,
       "rank": 40,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 78355,
+      "num": 186918,
+      "word": "嵩山少林寺方丈室已被铁皮封死",
+      "onboard_time": 1753861403,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78175,
@@ -2115,6 +2179,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 38327,
+      "num": 394041,
+      "word": "上海两大机场取消航班640架次",
+      "onboard_time": 1753860743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37828,
       "num": 179553,
       "word": "于正发文庆祝三喜临门",
@@ -2169,6 +2241,14 @@
       "onboard_time": 1753813576,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23640,
+      "num": 214994,
+      "word": "72岁老人莫名成5家公司法定代表人",
+      "onboard_time": 1753860743,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19097,
