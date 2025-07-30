@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753848557188,
+  "endTime": 1753849718963,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -24,6 +24,14 @@
       "word": "哀牢山发现7株冥界之花",
       "onboard_time": 1753833022,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1337528,
+      "num": 1337528,
+      "word": "海啸黄色警报发布",
+      "onboard_time": 1753847664,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 879597,
+      "num": 879597,
+      "word": "十年前举报释永信的释延鲁去哪了",
+      "onboard_time": 1753846644,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 876254,
       "num": 379927,
       "word": "留几手说葛夕新恋情与我无关",
@@ -67,12 +83,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 759801,
-      "num": 759801,
-      "word": "海啸黄色警报发布",
-      "onboard_time": 1753847664,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 798295,
+      "num": 569198,
+      "word": "巴基斯坦一女子被亲弟弟荣誉处决",
+      "onboard_time": 1753845743,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 746602,
@@ -80,14 +96,6 @@
       "word": "台风竹节草",
       "onboard_time": 1753830919,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 727354,
-      "num": 727354,
-      "word": "十年前举报释永信的释延鲁去哪了",
-      "onboard_time": 1753846644,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -123,14 +131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 569198,
-      "num": 569198,
-      "word": "巴基斯坦一女子被亲弟弟荣誉处决",
-      "onboard_time": 1753845743,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 565052,
       "num": 565052,
       "word": "成都地铁防走光设计",
@@ -139,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508917,
+      "num": 508917,
+      "word": "张予曦自曝曾遭多名男生霸凌",
+      "onboard_time": 1753837104,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501941,
       "num": 501941,
       "word": "每孩1年3600元育儿补贴影响有多大",
       "onboard_time": 1753834705,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 492292,
-      "num": 492292,
-      "word": "张予曦自曝曾遭多名男生霸凌",
-      "onboard_time": 1753837104,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 450421,
@@ -203,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397826,
+      "num": 397826,
+      "word": "上海浦东计划避险转移11万人",
+      "onboard_time": 1753845384,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396477,
       "num": 396477,
       "word": "推动美方暂停的对等关税24%如期展期",
       "onboard_time": 1753807101,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 380678,
-      "num": 380678,
-      "word": "上海浦东计划避险转移11万人",
-      "onboard_time": 1753845384,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 354559,
@@ -249,6 +249,14 @@
       "onboard_time": 1753845624,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336966,
+      "num": 336966,
+      "word": "真实记录鬼压床的时刻",
+      "onboard_time": 1753848685,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 324593,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281927,
+      "num": 281927,
+      "word": "余景天 再造谣给你们找个老嫂子",
+      "onboard_time": 1753849344,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279293,
       "num": 144642,
       "word": "第一次对成龙71岁有了实感",
@@ -345,6 +361,14 @@
       "onboard_time": 1753835304,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244762,
+      "num": 278944,
+      "word": "心动的信号8素人官宣",
+      "onboard_time": 1753848264,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 243812,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 213730,
-      "num": 194768,
+      "num": 262723,
       "word": "电影青蛇定档",
       "onboard_time": 1753845864,
       "rank": 27,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200708,
+      "num": 275293,
+      "word": "TMEA盛典阵容官宣",
+      "onboard_time": 1753849164,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200561,
       "num": 191842,
       "word": "孙颖莎球场上赛场外",
@@ -499,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191160,
+      "num": 270954,
+      "word": "孟子义祝绪丹早期合照",
+      "onboard_time": 1753849105,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190952,
       "num": 190952,
       "word": "中美双方经贸团队将继续密切沟通",
       "onboard_time": 1753807400,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189288,
+      "num": 189288,
+      "word": "孙颖莎 美团",
+      "onboard_time": 1753848564,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189282,
+      "num": 189282,
+      "word": "俄罗斯部分地区海啸预警",
+      "onboard_time": 1753843523,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 188720,
@@ -547,11 +603,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 183300,
-      "num": 185550,
-      "word": "心动的信号8素人官宣",
-      "onboard_time": 1753848264,
-      "rank": 32,
+      "raw_hot": 183868,
+      "num": 266133,
+      "word": "何老师大拇哥被考古到没招了",
+      "onboard_time": 1753848625,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -635,12 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173135,
-      "num": 173135,
-      "word": "俄罗斯部分地区海啸预警",
-      "onboard_time": 1753843523,
-      "rank": 42,
-      "category": "突发/灾害"
+      "raw_hot": 174532,
+      "num": 174532,
+      "word": "爱康集团起诉张女士",
+      "onboard_time": 1753848985,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172027,
+      "num": 324967,
+      "word": "像王皓一样思考",
+      "onboard_time": 1753848744,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 171854,
@@ -659,12 +723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167289,
+      "num": 167289,
+      "word": "微信好友通过没提示消息了",
+      "onboard_time": 1753849525,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166700,
       "num": 166184,
       "word": "马龙儿子社交e人",
       "onboard_time": 1753830978,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165937,
+      "num": 165937,
+      "word": "海啸到达台湾浙江上海沿海时间",
+      "onboard_time": 1753849584,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165512,
@@ -691,12 +771,28 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 159885,
+      "num": 159885,
+      "word": "巨瘦手臂的方法",
+      "onboard_time": 1753848625,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 158583,
       "num": 139145,
       "word": "维生素D真的很神奇",
       "onboard_time": 1753790001,
       "rank": 23,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 155984,
+      "num": 155984,
+      "word": "爱康国宾媒体说明会",
+      "onboard_time": 1753845263,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155326,
@@ -732,7 +828,7 @@
     },
     {
       "raw_hot": 153378,
-      "num": 285705,
+      "num": 326971,
       "word": "沙溢真实家庭地位",
       "onboard_time": 1753847544,
       "rank": 17,
@@ -747,8 +843,8 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 149386,
-      "num": 149386,
+      "raw_hot": 150602,
+      "num": 150602,
       "word": "潘展乐晋级100自半决赛",
       "onboard_time": 1753847364,
       "rank": 48,
@@ -819,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140185,
+      "num": 135100,
+      "word": "Baolan复盘iG被偷家",
+      "onboard_time": 1753849464,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139265,
       "num": 130205,
       "word": "中方坚定支持巴勒斯坦建国",
@@ -833,6 +937,14 @@
       "onboard_time": 1753842144,
       "rank": 37,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 136371,
+      "num": 136371,
+      "word": "医学生看两个血管都觉得暧昧",
+      "onboard_time": 1753849404,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 134836,
@@ -1148,7 +1260,7 @@
     },
     {
       "raw_hot": 81982,
-      "num": 285569,
+      "num": 328269,
       "word": "测试还要看专业权威机构",
       "onboard_time": 1753847484,
       "rank": 18,
@@ -1235,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63799,
+      "num": 254173,
+      "word": "普通人也能完成的奇观",
+      "onboard_time": 1753847724,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60584,
       "num": 60584,
       "word": "不晕车不符合生理常识",
@@ -1248,6 +1368,14 @@
       "word": "成都地铁回应步梯防走光设计",
       "onboard_time": 1753808778,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58883,
+      "num": 320833,
+      "word": "公司浴室起火致26死涉事13人被公诉",
+      "onboard_time": 1753848085,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1315,19 +1443,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45168,
-      "num": 2041935,
+      "raw_hot": 45387,
+      "num": 2055092,
       "word": "致敬暴雨中向险而行的身影",
       "onboard_time": 1753837045,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45147,
-      "num": 285550,
-      "word": "公司浴室起火致26死涉事13人被公诉",
-      "onboard_time": 1753848085,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
