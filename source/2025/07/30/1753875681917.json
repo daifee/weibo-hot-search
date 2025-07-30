@@ -1,0 +1,410 @@
+{
+  "runTime": 1753875681917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510644,
+        "num": 1510644,
+        "word": "因为男主太丑了所以用美颜相机看",
+        "onboard_time": 1753870044,
+        "rank": 0,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 1345392,
+        "num": 1345392,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147903,
+        "num": 838665,
+        "word": "今年育儿补贴补助资金预算900亿元左右",
+        "onboard_time": 1753858162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1824068,
+        "num": 820671,
+        "word": "女车主摇中88888车牌有人现场出价110万",
+        "onboard_time": 1753871363,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 752563,
+        "num": 752563,
+        "word": "上海LV大船被淹视频系伪造",
+        "onboard_time": 1753870644,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356203,
+        "num": 356203,
+        "word": "李乃文回家打开评论区后天塌了",
+        "onboard_time": 1753866923,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321699,
+        "num": 321699,
+        "word": "女生苦练化妆一个月的变化",
+        "onboard_time": 1753862424,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 315448,
+        "num": 315448,
+        "word": "上海中心1000吨阻尼器开始摆动",
+        "onboard_time": 1753864943,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296882,
+        "num": 296882,
+        "word": "网络造谣的法律责任",
+        "onboard_time": 1753864943,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210621,
+        "num": 296870,
+        "word": "强降雨致河北35.6万人受灾",
+        "onboard_time": 1753874363,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001962,
+        "num": 296631,
+        "word": "孟子义经纪人道歉",
+        "onboard_time": 1753868002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910623,
+        "num": 296483,
+        "word": "媒体评武汉大学图书馆性骚扰事件",
+        "onboard_time": 1753870583,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731124,
+        "num": 296369,
+        "word": "李雪琴的腰怎么了",
+        "onboard_time": 1753873943,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296312,
+        "num": 296312,
+        "word": "台湾海啸",
+        "onboard_time": 1753856904,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 275029,
+        "num": 275029,
+        "word": "李兰迪 少女时期的生长痛终于结束了",
+        "onboard_time": 1753866563,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274340,
+        "num": 274340,
+        "word": "王安宇张凌赫李昀锐网课素材",
+        "onboard_time": 1753871783,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268753,
+        "num": 268753,
+        "word": "26岁确诊了早期胃癌的忠告",
+        "onboard_time": 1753869983,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232356,
+        "num": 260430,
+        "word": "马嘉祺感谢歌手2025的邀请",
+        "onboard_time": 1753869865,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190306,
+        "num": 257100,
+        "word": "上拉如曝小英4元衣服卖29.9元",
+        "onboard_time": 1753860683,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41359,
+        "num": 257039,
+        "word": "少林书画院称联系不上释永信弟弟",
+        "onboard_time": 1753874243,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257003,
+        "num": 257003,
+        "word": "山西失联车辆已确认10人遇难",
+        "onboard_time": 1753870883,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209539,
+        "num": 209539,
+        "word": "龚俊臭成啥样了",
+        "onboard_time": 1753865423,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201248,
+        "num": 201248,
+        "word": "肖战丝滑出场有太多细节",
+        "onboard_time": 1753875563,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192081,
+        "num": 192081,
+        "word": "李想希望易烊千玺演自己",
+        "onboard_time": 1753870223,
+        "rank": 23,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 176469,
+        "num": 176469,
+        "word": "海啸到达台湾浙江上海沿海时间",
+        "onboard_time": 1753849584,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163162,
+        "num": 163162,
+        "word": "领取育儿补贴记住三步",
+        "onboard_time": 1753869263,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150333,
+        "num": 150333,
+        "word": "河北一草原有游客骑马相撞一马死亡",
+        "onboard_time": 1753874423,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145771,
+        "num": 145771,
+        "word": "让体脂率不断下降的习惯",
+        "onboard_time": 1753863143,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131136,
+        "num": 131136,
+        "word": "TFING直播",
+        "onboard_time": 1753874184,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123004,
+        "num": 130637,
+        "word": "许凯王楚然这段过于浪漫了",
+        "onboard_time": 1753874303,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131468,
+        "num": 130569,
+        "word": "第一次见做蛇类科普带助教的",
+        "onboard_time": 1753872084,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130438,
+        "num": 130438,
+        "word": "这次怎么没人问杨幂要链接了",
+        "onboard_time": 1753875082,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126993,
+        "num": 126993,
+        "word": "日本福岛第一核电站现状",
+        "onboard_time": 1753873282,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126951,
+        "num": 126951,
+        "word": "长期零食成瘾对身体的危害",
+        "onboard_time": 1753875202,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126730,
+        "num": 126730,
+        "word": "新人领结婚证收到1500元补贴",
+        "onboard_time": 1753875143,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124254,
+        "num": 124254,
+        "word": "你要讲啊 你不讲你还指望谁讲",
+        "onboard_time": 1753873523,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20637,
+        "num": 122318,
+        "word": "以后通勤就让机器人推着",
+        "onboard_time": 1753872744,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112311,
+        "num": 121626,
+        "word": "歌手2025突围赛名单官宣",
+        "onboard_time": 1753867044,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13803,
+        "num": 121150,
+        "word": "体验贾冰减肥法的一天",
+        "onboard_time": 1753874663,
+        "rank": 38,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 121142,
+        "num": 121142,
+        "word": "海啸黄色警报发布",
+        "onboard_time": 1753847664,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120798,
+        "num": 120798,
+        "word": "神印王座",
+        "onboard_time": 1753874782,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120866,
+        "num": 120588,
+        "word": "95后夫妻结婚6年存款100万",
+        "onboard_time": 1753872322,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114738,
+        "num": 114738,
+        "word": "等我小了要去卖冰棍",
+        "onboard_time": 1753875263,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107198,
+        "num": 107198,
+        "word": "范丞丞王牌9上班霸总撕漫男",
+        "onboard_time": 1753869983,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106982,
+        "num": 106982,
+        "word": "浙江省饭",
+        "onboard_time": 1753875202,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104238,
+        "num": 104238,
+        "word": "谁给张晚意做的造型",
+        "onboard_time": 1753875323,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102337,
+        "num": 102337,
+        "word": "日本北海道第一波海啸到达",
+        "onboard_time": 1753843103,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100341,
+        "num": 100341,
+        "word": "银河M9价格泄露",
+        "onboard_time": 1753874723,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98571,
+        "num": 98571,
+        "word": "日本海浪逆流向河道现场",
+        "onboard_time": 1753872983,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95118,
+        "num": 95118,
+        "word": "俄远海8.8级地震后港口被冲毁淹没",
+        "onboard_time": 1753861043,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
