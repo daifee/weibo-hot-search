@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 21:14:25
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 21:47:43
 </p>
 </blockquote>
 <p>
@@ -1877,6 +1877,12 @@ IU青龙视后（热度：1378752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%B2%E5%AF%86%E4%BA%92%E5%8A%A8%E8%A2%AB%E6%8A%95%E5%B1%8FCEO%E9%81%93%E6%AD%89%23" target="weibo">
 演唱会亲密互动被投屏CEO道歉（热度：1378695）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%BE%B1%E9%AA%82%E5%9B%BD%E5%AE%B6%E8%BF%90%E5%8A%A8%E5%91%98%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%B1%95%E8%B0%83%E6%9F%A5%23" target="weibo">
+学生辱骂国家运动员厦门大学开展调查（热度：1376348）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ K1373次列车亲历者称当时已有人中暑（热度：734592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%8A%A0%E7%9B%9F%E5%BE%B7%E7%94%B2%E8%81%94%E8%B5%9B%E4%BA%89%E8%AE%AE%23" target="weibo">
 樊振东首次回应加盟德甲联赛争议（热度：734518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%8D%83%E4%B8%9E%20Boom%23" target="weibo">
-水千丞 Boom（热度：734502）
 </a>
 </li>
 
