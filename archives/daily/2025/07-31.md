@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/31 00:34:40 ~ 2025/07/31 05:28:11
+本榜单时间：2025/07/31 00:34:40 ~ 2025/07/31 05:43:16
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23" target="weibo">
+日本民众撤离到屋顶躲避海啸（热度：91379）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23130%E6%96%A4%E5%A5%B3%E7%94%9F%E7%98%A6%E5%88%B0100%E6%96%A4%E9%9C%80%E8%A6%81%E5%A4%9A%E4%B9%85%23" target="weibo">
 130斤女生瘦到100斤需要多久（热度：88608）
 </a>
@@ -233,12 +239,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%97%A0%E7%BC%98100%E8%87%AA%E5%86%B3%E8%B5%9B%23" target="weibo">
 潘展乐无缘100自决赛（热度：76188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23" target="weibo">
-日本民众撤离到屋顶躲避海啸（热度：76087）
 </a>
 </li>
 
@@ -430,7 +430,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%85%8D%E7%AD%BE%E6%88%96%E8%90%BD%E5%9C%B0%E7%AD%BE%E5%89%8D%E5%BE%8090%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%23" target="weibo">
-可免签或落地签前往90多个国家和地区（热度：964）
+可免签或落地签前往90多个国家和地区（热度：1839）
 </a>
 </li>
 
