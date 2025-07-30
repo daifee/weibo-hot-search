@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753865616225,
+  "endTime": 1753868182942,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1052907,
+      "num": 1052907,
+      "word": "女生苦练化妆一个月的变化",
+      "onboard_time": 1753862424,
+      "rank": 5,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1032192,
       "num": 1032192,
       "word": "请回答1988珍珠扮演者近照",
@@ -139,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 952673,
-      "num": 952673,
-      "word": "女生苦练化妆一个月的变化",
-      "onboard_time": 1753862424,
-      "rank": 5,
-      "category": "美妆"
+      "raw_hot": 889521,
+      "num": 889521,
+      "word": "上海中心1000吨阻尼器开始摆动",
+      "onboard_time": 1753864943,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 879597,
@@ -185,6 +193,14 @@
       "onboard_time": 1753857684,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 795680,
+      "num": 795680,
+      "word": "龚俊臭成啥样了",
+      "onboard_time": 1753865423,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 766360,
@@ -329,6 +345,14 @@
       "onboard_time": 1753862483,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433394,
+      "num": 433394,
+      "word": "李兰迪 少女时期的生长痛终于结束了",
+      "onboard_time": 1753866563,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 431020,
@@ -523,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288666,
+      "num": 288666,
+      "word": "网络造谣的法律责任",
+      "onboard_time": 1753864943,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287138,
       "num": 501764,
       "word": "俄堪察加附近监测到3至4米海啸波",
@@ -561,14 +593,6 @@
       "onboard_time": 1753786400,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 277352,
-      "num": 277352,
-      "word": "上海中心1000吨阻尼器开始摆动",
-      "onboard_time": 1753864943,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273853,
@@ -683,7 +707,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235201,
+      "raw_hot": 238385,
       "num": 235201,
       "word": "让体脂率不断下降的习惯",
       "onboard_time": 1753863143,
@@ -691,12 +715,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 232174,
-      "num": 232174,
-      "word": "网络造谣的法律责任",
-      "onboard_time": 1753864943,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 236117,
+      "num": 236117,
+      "word": "歌手2025突围赛名单官宣",
+      "onboard_time": 1753867044,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234572,
+      "num": 234572,
+      "word": "李乃文回家打开评论区后天塌了",
+      "onboard_time": 1753866923,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 231757,
@@ -745,6 +777,14 @@
       "onboard_time": 1753856962,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 228667,
+      "num": 228667,
+      "word": "癌症专门爱挑抠搜人",
+      "onboard_time": 1753866683,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227317,
@@ -819,12 +859,28 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 210405,
+      "num": 210405,
+      "word": "诸葛亮山海奇都新皮肤",
+      "onboard_time": 1753866985,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209802,
-      "num": 209802,
+      "num": 960776,
       "word": "今年育儿补贴补助资金预算900亿元左右",
       "onboard_time": 1753858162,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207555,
+      "num": 207555,
+      "word": "迪丽热巴近期两套高定",
+      "onboard_time": 1753866804,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 207389,
@@ -1107,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187931,
+      "num": 187931,
+      "word": "心疼徐嘉余",
+      "onboard_time": 1753865963,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187358,
       "num": 187358,
       "word": "王者荣耀",
@@ -1315,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174016,
+      "num": 174016,
+      "word": "孟子义经纪人道歉",
+      "onboard_time": 1753868002,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172027,
       "num": 444127,
       "word": "像王皓一样思考",
@@ -1411,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164023,
+      "num": 164023,
+      "word": "突发黄体破裂的黄金2小时自救法",
+      "onboard_time": 1753865664,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163119,
       "num": 163119,
       "word": "这喜糖长辈会吐槽但年轻人一定喜欢",
@@ -1425,6 +1505,14 @@
       "onboard_time": 1753840641,
       "rank": 33,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 161544,
+      "num": 161544,
+      "word": "苹果官方闹乌龙",
+      "onboard_time": 1753865483,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 161231,
@@ -1459,20 +1547,20 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 159345,
-      "num": 159345,
-      "word": "龚俊臭成啥样了",
-      "onboard_time": 1753865423,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158583,
       "num": 139145,
       "word": "维生素D真的很神奇",
       "onboard_time": 1753790001,
       "rank": 23,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 157857,
+      "num": 157857,
+      "word": "面包保存 冷冻",
+      "onboard_time": 1753866382,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 155984,
@@ -1507,12 +1595,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 154900,
-      "num": 154900,
-      "word": "苹果官方闹乌龙",
-      "onboard_time": 1753865483,
-      "rank": 48,
-      "category": "数码"
+      "raw_hot": 154080,
+      "num": 154080,
+      "word": "外卖大战引发大量电动车流入二手市场",
+      "onboard_time": 1753866743,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153752,
@@ -1569,6 +1657,14 @@
       "onboard_time": 1753847364,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150341,
+      "num": 150341,
+      "word": "黄枫谷 没房子",
+      "onboard_time": 1753867404,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 149504,
@@ -1641,6 +1737,22 @@
       "onboard_time": 1753794865,
       "rank": 19,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 144418,
+      "num": 144418,
+      "word": "全国最长婚假已达30天",
+      "onboard_time": 1753866142,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143601,
+      "num": 143601,
+      "word": "八月要播五部剧",
+      "onboard_time": 1753867283,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 143113,
@@ -1723,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135498,
+      "num": 135498,
+      "word": "Cat诸葛亮天机白泽签名",
+      "onboard_time": 1753867824,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134836,
       "num": 134836,
       "word": "这版周冬雨美我一大跳",
@@ -1760,6 +1880,14 @@
       "word": "老外中国穷游睡桥下",
       "onboard_time": 1753851503,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133016,
+      "num": 133016,
+      "word": "台风竹节草在上海二次登陆",
+      "onboard_time": 1753868122,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1889,6 +2017,14 @@
       "onboard_time": 1753853484,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113759,
+      "num": 472411,
+      "word": "get到易烊千玺风只用了一秒",
+      "onboard_time": 1753862663,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 113121,
@@ -2243,6 +2379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66616,
+      "num": 164798,
+      "word": "孙红雷被丹东摩羯硬控的一生",
+      "onboard_time": 1753867283,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66376,
       "num": 131782,
       "word": "留几手评与葛夕感情如外卖",
@@ -2345,14 +2489,6 @@
       "onboard_time": 1753815375,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51228,
-      "num": 472411,
-      "word": "get到易烊千玺风只用了一秒",
-      "onboard_time": 1753862663,
-      "rank": 12,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 49627,
@@ -2459,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24003,
+      "num": 188206,
+      "word": "法院发布悬赏公告最高奖励229万",
+      "onboard_time": 1753867943,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23990,
       "num": 35195,
       "word": "First电影节 只有熟客的主理人店",
@@ -2507,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16896,
+      "num": 230527,
+      "word": "记者暗访资格证交钱包过黑产链",
+      "onboard_time": 1753867883,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 9117,
       "num": 1123657,
       "word": "双曲线一号遥十运载火箭发射成功",
@@ -2524,6 +2676,9 @@
     },
     {
       "word": "#习近平向世界青年和平大会致信#"
+    },
+    {
+      "word": "#中共中央召开党外人士座谈会#"
     }
   ]
 }

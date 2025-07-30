@@ -1,0 +1,410 @@
+{
+  "runTime": 1753868182942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2126501,
+        "num": 2126501,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1052907,
+        "num": 1052907,
+        "word": "女生苦练化妆一个月的变化",
+        "onboard_time": 1753862424,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 68105,
+        "num": 960776,
+        "word": "今年育儿补贴补助资金预算900亿元左右",
+        "onboard_time": 1753858162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 889521,
+        "num": 889521,
+        "word": "上海中心1000吨阻尼器开始摆动",
+        "onboard_time": 1753864943,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 825021,
+        "num": 825021,
+        "word": "上拉如曝小英4元衣服卖29.9元",
+        "onboard_time": 1753860683,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 795680,
+        "num": 795680,
+        "word": "龚俊臭成啥样了",
+        "onboard_time": 1753865423,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670782,
+        "num": 670782,
+        "word": "台湾海啸",
+        "onboard_time": 1753856904,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 456507,
+        "num": 456507,
+        "word": "海啸到达台湾浙江上海沿海时间",
+        "onboard_time": 1753849584,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436112,
+        "num": 436112,
+        "word": "GAI无法参加歌手突围赛",
+        "onboard_time": 1753862483,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401073,
+        "num": 434210,
+        "word": "俄远海8.8级地震后港口被冲毁淹没",
+        "onboard_time": 1753861043,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 433394,
+        "num": 433394,
+        "word": "李兰迪 少女时期的生长痛终于结束了",
+        "onboard_time": 1753866563,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418750,
+        "num": 418750,
+        "word": "男子开假装上班公司2个月40人来上班",
+        "onboard_time": 1753857504,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342186,
+        "num": 342186,
+        "word": "育儿补贴发放渠道",
+        "onboard_time": 1753859304,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315912,
+        "num": 315912,
+        "word": "海啸黄色警报发布",
+        "onboard_time": 1753847664,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42407,
+        "num": 312409,
+        "word": "成都欧米茄活动红气超标",
+        "onboard_time": 1753864344,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 308982,
+        "num": 308982,
+        "word": "日本北海道第一波海啸到达",
+        "onboard_time": 1753843103,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288666,
+        "num": 288666,
+        "word": "网络造谣的法律责任",
+        "onboard_time": 1753864943,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276676,
+        "num": 276676,
+        "word": "俄堪察加附近监测到3至4米海啸波",
+        "onboard_time": 1753863324,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236117,
+        "num": 236117,
+        "word": "歌手2025突围赛名单官宣",
+        "onboard_time": 1753867044,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234572,
+        "num": 234572,
+        "word": "李乃文回家打开评论区后天塌了",
+        "onboard_time": 1753866923,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238385,
+        "num": 234232,
+        "word": "让体脂率不断下降的习惯",
+        "onboard_time": 1753863143,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16896,
+        "num": 230527,
+        "word": "记者暗访资格证交钱包过黑产链",
+        "onboard_time": 1753867883,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 222827,
+        "num": 229522,
+        "word": "吴谨言全面复出",
+        "onboard_time": 1753859063,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228916,
+        "num": 228916,
+        "word": "国新办发布会介绍育儿补贴情况",
+        "onboard_time": 1753857202,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228667,
+        "num": 228667,
+        "word": "癌症专门爱挑抠搜人",
+        "onboard_time": 1753866683,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210405,
+        "num": 210405,
+        "word": "诸葛亮山海奇都新皮肤",
+        "onboard_time": 1753866985,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207555,
+        "num": 207555,
+        "word": "迪丽热巴近期两套高定",
+        "onboard_time": 1753866804,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 199235,
+        "num": 199235,
+        "word": "嵩山少林寺方丈室已被铁皮封死",
+        "onboard_time": 1753861403,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188653,
+        "num": 188653,
+        "word": "请回答1988珍珠扮演者近照",
+        "onboard_time": 1753857623,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24003,
+        "num": 188206,
+        "word": "法院发布悬赏公告最高奖励229万",
+        "onboard_time": 1753867943,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187931,
+        "num": 187931,
+        "word": "心疼徐嘉余",
+        "onboard_time": 1753865963,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113759,
+        "num": 185170,
+        "word": "get到易烊千玺风只用了一秒",
+        "onboard_time": 1753862663,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 182497,
+        "num": 182497,
+        "word": "毕业照给我拍成刘亦菲了",
+        "onboard_time": 1753856904,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181002,
+        "num": 181002,
+        "word": "吉克隽逸因瘦不下去崩溃大哭",
+        "onboard_time": 1753853843,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174016,
+        "num": 174016,
+        "word": "孟子义经纪人道歉",
+        "onboard_time": 1753868002,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173614,
+        "num": 173614,
+        "word": "上海已转移安置超28万人",
+        "onboard_time": 1753862062,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170704,
+        "num": 170704,
+        "word": "海啸淹没俄罗斯2000人居住城镇",
+        "onboard_time": 1753864461,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166556,
+        "num": 166556,
+        "word": "王玉雯怎么和谁都是发小",
+        "onboard_time": 1753850426,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66616,
+        "num": 164798,
+        "word": "孙红雷被丹东摩羯硬控的一生",
+        "onboard_time": 1753867283,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164023,
+        "num": 164023,
+        "word": "突发黄体破裂的黄金2小时自救法",
+        "onboard_time": 1753865664,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161744,
+        "num": 161744,
+        "word": "杨博文被北京十二中录取",
+        "onboard_time": 1753864645,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161544,
+        "num": 161544,
+        "word": "苹果官方闹乌龙",
+        "onboard_time": 1753865483,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157857,
+        "num": 157857,
+        "word": "面包保存 冷冻",
+        "onboard_time": 1753866382,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154080,
+        "num": 154080,
+        "word": "外卖大战引发大量电动车流入二手市场",
+        "onboard_time": 1753866743,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150341,
+        "num": 150341,
+        "word": "黄枫谷 没房子",
+        "onboard_time": 1753867404,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144418,
+        "num": 144418,
+        "word": "全国最长婚假已达30天",
+        "onboard_time": 1753866142,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149192,
+        "num": 144114,
+        "word": "男子约见女网友睡觉时钱被转走",
+        "onboard_time": 1753863863,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143601,
+        "num": 143601,
+        "word": "八月要播五部剧",
+        "onboard_time": 1753867283,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135498,
+        "num": 135498,
+        "word": "Cat诸葛亮天机白泽签名",
+        "onboard_time": 1753867824,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133016,
+        "num": 133016,
+        "word": "台风竹节草在上海二次登陆",
+        "onboard_time": 1753868122,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
