@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753853779664,
+  "endTime": 1753854843555,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -27,19 +27,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1843668,
+      "num": 1843668,
+      "word": "海啸到达台湾浙江上海沿海时间",
+      "onboard_time": 1753849584,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1614628,
       "num": 1614628,
       "word": "海啸黄色警报发布",
       "onboard_time": 1753847664,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1593301,
-      "num": 1593301,
-      "word": "海啸到达台湾浙江上海沿海时间",
-      "onboard_time": 1753849584,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -131,6 +131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 759764,
+      "num": 759764,
+      "word": "刘诗诗关晓彤两个生硬的北京人",
+      "onboard_time": 1753850125,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746602,
       "num": 746602,
       "word": "台风竹节草",
@@ -145,14 +153,6 @@
       "onboard_time": 1753843103,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 694838,
-      "num": 704699,
-      "word": "刘诗诗关晓彤两个生硬的北京人",
-      "onboard_time": 1753850125,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 690171,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329193,
+      "num": 329193,
+      "word": "吉克隽逸因瘦不下去崩溃大哭",
+      "onboard_time": 1753853843,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324593,
       "num": 324593,
       "word": "台风竹节草登陆浙江舟山沿海",
@@ -395,6 +403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254334,
+      "num": 254334,
+      "word": "iG对阵BLG的比赛将延期举行",
+      "onboard_time": 1753854024,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 253248,
+      "num": 331880,
+      "word": "俄罗斯部分地区海啸预警",
+      "onboard_time": 1753843523,
+      "rank": 42,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 250289,
       "num": 304467,
       "word": "黄晓明再回应考博落榜",
@@ -417,14 +441,6 @@
       "onboard_time": 1753804223,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241933,
-      "num": 241933,
-      "word": "俄罗斯部分地区海啸预警",
-      "onboard_time": 1753843523,
-      "rank": 42,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 231549,
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205558,
+      "num": 702678,
+      "word": "人民军队大片攻坚",
+      "onboard_time": 1753850426,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 204945,
       "num": 204945,
       "word": "深圳一央企被爆大量员工资金被套",
@@ -603,6 +627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 196782,
+      "num": 336540,
+      "word": "爱康国宾称张女士并非肾癌晚期",
+      "onboard_time": 1753853545,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193774,
       "num": 193774,
       "word": "郑希怡女儿缩小版的郑希怡",
@@ -673,6 +705,14 @@
       "onboard_time": 1753847664,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185147,
+      "num": 367603,
+      "word": "余宇涵首次个人直播",
+      "onboard_time": 1753853783,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 183868,
@@ -763,6 +803,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 175920,
+      "num": 175920,
+      "word": "日本受海啸影响暂停核污染水排海",
+      "onboard_time": 1753853363,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174824,
       "num": 140668,
       "word": "外卖员组团评论区感谢孙颖莎",
@@ -777,14 +825,6 @@
       "onboard_time": 1753848985,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173048,
-      "num": 702678,
-      "word": "人民军队大片攻坚",
-      "onboard_time": 1753850426,
-      "rank": 33,
-      "category": "军事"
     },
     {
       "raw_hot": 172027,
@@ -803,12 +843,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170124,
+      "num": 170124,
+      "word": "妇产科医生解读劣质卫生巾致癌风险",
+      "onboard_time": 1753852044,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169500,
+      "num": 342434,
+      "word": "刘宇宁几小时没见又长高了",
+      "onboard_time": 1753854204,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168539,
       "num": 388600,
       "word": "间谍在共享充电宝植入后门程序监视",
       "onboard_time": 1753833682,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168300,
+      "num": 168300,
+      "word": "田志希回农村养胎",
+      "onboard_time": 1753853783,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 167531,
@@ -857,6 +921,14 @@
       "onboard_time": 1753803023,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163446,
+      "num": 163446,
+      "word": "业主曝300多万新房楼梯一踢就碎",
+      "onboard_time": 1753853423,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162128,
@@ -955,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151328,
+      "num": 151328,
+      "word": "LPL",
+      "onboard_time": 1753854024,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150602,
       "num": 150602,
       "word": "潘展乐晋级100自半决赛",
@@ -977,6 +1057,14 @@
       "onboard_time": 1753840702,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148610,
+      "num": 179447,
+      "word": "南京照相馆",
+      "onboard_time": 1753854024,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 148573,
@@ -1019,14 +1107,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 143279,
-      "num": 143279,
-      "word": "妇产科医生解读劣质卫生巾致癌风险",
-      "onboard_time": 1753852044,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143113,
       "num": 118645,
       "word": "白鹿晒照给闺蜜庆生",
@@ -1036,7 +1116,7 @@
     },
     {
       "raw_hot": 141336,
-      "num": 141336,
+      "num": 171419,
       "word": "浙江迎战台风竹节草",
       "onboard_time": 1753849824,
       "rank": 49,
@@ -1057,14 +1137,6 @@
       "onboard_time": 1753849464,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139356,
-      "num": 139356,
-      "word": "日本受海啸影响暂停核污染水排海",
-      "onboard_time": 1753853363,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 139265,
@@ -1099,12 +1171,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136127,
+      "num": 136127,
+      "word": "心动8女e男i两极分化",
+      "onboard_time": 1753854682,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134836,
       "num": 134836,
       "word": "这版周冬雨美我一大跳",
       "onboard_time": 1753802424,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134741,
+      "num": 134741,
+      "word": "在北京月入1万5存9千的真实生活",
+      "onboard_time": 1753853603,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 134396,
@@ -1137,14 +1225,6 @@
       "onboard_time": 1753783763,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130589,
-      "num": 130589,
-      "word": "业主曝300多万新房楼梯一踢就碎",
-      "onboard_time": 1753853423,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129702,
@@ -1233,14 +1313,6 @@
       "onboard_time": 1753839142,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118862,
-      "num": 118862,
-      "word": "在北京月入1万5存9千的真实生活",
-      "onboard_time": 1753853603,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 115649,
@@ -1427,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86449,
+      "num": 152801,
+      "word": "巨浪直扑日本海岸线",
+      "onboard_time": 1753854504,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85424,
       "num": 81508,
       "word": "娜扎像是一条发光的美人鱼",
@@ -1577,14 +1657,6 @@
       "onboard_time": 1753847724,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 62669,
-      "num": 205761,
-      "word": "爱康国宾称张女士并非肾癌晚期",
-      "onboard_time": 1753853545,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60584,
