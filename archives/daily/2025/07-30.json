@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753843156640,
+  "endTime": 1753848557188,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3438278,
+      "num": 3438278,
+      "word": "日本海啸",
+      "onboard_time": 1753844363,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 2197145,
       "num": 2197145,
       "word": "哀牢山发现7株冥界之花",
       "onboard_time": 1753833022,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1203281,
+      "num": 605893,
+      "word": "亚洲第一渣男正式复出",
+      "onboard_time": 1753845204,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1150359,
@@ -35,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1062258,
+      "num": 1062258,
+      "word": "银行存了35万取款时被清零了",
+      "onboard_time": 1753842981,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 876254,
       "num": 379927,
       "word": "留几手说葛夕新恋情与我无关",
       "onboard_time": 1753838423,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 759801,
+      "num": 759801,
+      "word": "海啸黄色警报发布",
+      "onboard_time": 1753847664,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 746602,
@@ -51,8 +83,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 718800,
-      "num": 718800,
+      "raw_hot": 727354,
+      "num": 727354,
+      "word": "十年前举报释永信的释延鲁去哪了",
+      "onboard_time": 1753846644,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 719382,
+      "num": 719382,
       "word": "俄罗斯地震",
       "onboard_time": 1753840103,
       "rank": 4,
@@ -67,12 +107,28 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 616980,
+      "num": 616980,
+      "word": "日本北海道第一波海啸到达",
+      "onboard_time": 1753843103,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 590954,
       "num": 590954,
       "word": "坐高铁因为好奇选了静音车厢",
       "onboard_time": 1753832719,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 569198,
+      "num": 569198,
+      "word": "巴基斯坦一女子被亲弟弟荣誉处决",
+      "onboard_time": 1753845743,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 565052,
@@ -91,8 +147,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 488315,
-      "num": 361133,
+      "raw_hot": 492292,
+      "num": 492292,
       "word": "张予曦自曝曾遭多名男生霸凌",
       "onboard_time": 1753837104,
       "rank": 12,
@@ -139,12 +195,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399152,
+      "num": 630018,
+      "word": "锦月如歌定档",
+      "onboard_time": 1753843403,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396477,
       "num": 396477,
       "word": "推动美方暂停的对等关税24%如期展期",
       "onboard_time": 1753807101,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 380678,
+      "num": 380678,
+      "word": "上海浦东计划避险转移11万人",
+      "onboard_time": 1753845384,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354559,
@@ -161,6 +233,22 @@
       "onboard_time": 1753837045,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353192,
+      "num": 353192,
+      "word": "中文真的不再加密",
+      "onboard_time": 1753844964,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351226,
+      "num": 351226,
+      "word": "迪丽热巴粉丝不是妥协了是真没招了",
+      "onboard_time": 1753845624,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 324593,
@@ -195,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303690,
+      "num": 303690,
+      "word": "王宝强自传",
+      "onboard_time": 1753845143,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301088,
       "num": 181519,
       "word": "清朝状元的名字完全无网红感",
@@ -217,14 +313,6 @@
       "onboard_time": 1753839803,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 285045,
-      "num": 285045,
-      "word": "银行存了35万取款时被清零了",
-      "onboard_time": 1753842981,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282706,
@@ -315,12 +403,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 213730,
+      "num": 194768,
+      "word": "电影青蛇定档",
+      "onboard_time": 1753845864,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207389,
       "num": 176095,
       "word": "王楚钦孙颖莎巴黎混双夺金一周年",
       "onboard_time": 1753807160,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206939,
+      "num": 206939,
+      "word": "我也在王牌打上卡了",
+      "onboard_time": 1753846344,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206418,
+      "num": 206418,
+      "word": "老公旁边是另一个老公",
+      "onboard_time": 1753847786,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 206227,
@@ -355,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200561,
+      "num": 191842,
+      "word": "孙颖莎球场上赛场外",
+      "onboard_time": 1753848206,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198223,
       "num": 285801,
       "word": "张予曦毕雯珺 般配",
@@ -369,6 +489,14 @@
       "onboard_time": 1753818854,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193774,
+      "num": 193774,
+      "word": "郑希怡女儿缩小版的郑希怡",
+      "onboard_time": 1753844002,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 190952,
@@ -411,12 +539,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185745,
+      "num": 185745,
+      "word": "余承东抽百台手机感谢鸿蒙用户",
+      "onboard_time": 1753847664,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 183300,
+      "num": 185550,
+      "word": "心动的信号8素人官宣",
+      "onboard_time": 1753848264,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181366,
+      "num": 181366,
+      "word": "NBA女主持金佳悦跨界拍古偶",
+      "onboard_time": 1753848026,
+      "rank": 35,
+      "category": "剧集,体育"
+    },
+    {
       "raw_hot": 181205,
       "num": 181205,
       "word": "女子发现电影院座椅布满白色虫卵",
       "onboard_time": 1753802364,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181095,
+      "num": 181095,
+      "word": "日本",
+      "onboard_time": 1753847244,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181083,
@@ -433,6 +593,14 @@
       "onboard_time": 1753801884,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179503,
+      "num": 179503,
+      "word": "在沈佳润面前跳美美桑内",
+      "onboard_time": 1753846705,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 179282,
@@ -467,6 +635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173135,
+      "num": 173135,
+      "word": "俄罗斯部分地区海啸预警",
+      "onboard_time": 1753843523,
+      "rank": 42,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 171854,
+      "num": 171854,
+      "word": "原来可以一眼看出柯南里面的凶手",
+      "onboard_time": 1753847484,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 168539,
       "num": 388600,
       "word": "间谍在共享充电宝植入后门程序监视",
@@ -499,6 +683,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 160604,
+      "num": 181188,
+      "word": "内娱女将军赛道又添一员猛将",
+      "onboard_time": 1753848206,
+      "rank": 36,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 158583,
       "num": 139145,
       "word": "维生素D真的很神奇",
@@ -523,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154903,
+      "num": 154903,
+      "word": "没冲过浪的夏天是不完整的",
+      "onboard_time": 1753848385,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 153752,
       "num": 153752,
       "word": "差1分同考上南大双胞胎错题都一样",
@@ -531,12 +731,44 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 153378,
+      "num": 285705,
+      "word": "沙溢真实家庭地位",
+      "onboard_time": 1753847544,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153358,
+      "num": 153358,
+      "word": "可免签或落地签前往90多个国家和地区",
+      "onboard_time": 1753845083,
+      "rank": 46,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 149386,
+      "num": 149386,
+      "word": "潘展乐晋级100自半决赛",
+      "onboard_time": 1753847364,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148924,
       "num": 148924,
       "word": "上海进入台风竹节草7级风圈",
       "onboard_time": 1753840702,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148573,
+      "num": 148573,
+      "word": "杨洋赢了颜值输了游戏",
+      "onboard_time": 1753848385,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 147231,
@@ -755,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105809,
-      "num": 105809,
-      "word": "日本北海道第一波海啸到达",
-      "onboard_time": 1753843103,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 103921,
       "num": 94586,
       "word": "伊朗外长为防暗杀立即关手机",
@@ -923,6 +1147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81982,
+      "num": 285569,
+      "word": "测试还要看专业权威机构",
+      "onboard_time": 1753847484,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81847,
       "num": 192103,
       "word": "中美新一轮经贸会谈共识",
@@ -1019,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57994,
+      "num": 179518,
+      "word": "道枝骏佑来微博求职",
+      "onboard_time": 1753847905,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57241,
       "num": 192254,
       "word": "台风竹节草外围将影响山东",
@@ -1051,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49627,
+      "num": 193787,
+      "word": "钟楚曦的时尚搭子小鹏P7",
+      "onboard_time": 1753845204,
+      "rank": 28,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 49148,
       "num": 138244,
       "word": "副教授被精神病人杀害家属起诉人社局",
@@ -1065,6 +1313,30 @@
       "onboard_time": 1753791442,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45168,
+      "num": 2041935,
+      "word": "致敬暴雨中向险而行的身影",
+      "onboard_time": 1753837045,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45147,
+      "num": 285550,
+      "word": "公司浴室起火致26死涉事13人被公诉",
+      "onboard_time": 1753848085,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37828,
+      "num": 179553,
+      "word": "于正发文庆祝三喜临门",
+      "onboard_time": 1753847844,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 33025,
@@ -1145,6 +1417,9 @@
     },
     {
       "word": "#习近平对防汛救灾工作作出重要指示#"
+    },
+    {
+      "word": "#习近平向世界青年和平大会致信#"
     }
   ]
 }
