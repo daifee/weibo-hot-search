@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/31 00:34:40 ~ 2025/07/31 04:30:07
+本榜单时间：2025/07/31 00:34:40 ~ 2025/07/31 04:45:04
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23" target="weibo">
+日本民众撤离到屋顶躲避海啸（热度：36142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%8A%98%E5%8F%A0%E6%80%8E%E4%B9%88%E6%8A%98%E9%83%BD%E6%98%AF%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 三折叠怎么折都是王鹤棣（热度：34359）
 </a>
@@ -411,14 +417,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23" target="weibo">
-日本民众撤离到屋顶躲避海啸（热度：18393）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%BE%81%E6%94%B625%25%E5%85%B3%E7%A8%8E%23" target="weibo">
-特朗普称对印度征收25%关税（热度：13060）
+特朗普称对印度征收25%关税（热度：14970）
 </a>
 </li>
 
