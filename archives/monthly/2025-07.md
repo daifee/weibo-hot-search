@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 13:54:03
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 14:43:06
 </p>
 </blockquote>
 <p>
@@ -4689,6 +4689,12 @@ TVB演员雪妮病逝（热度：861936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%9B%A0%E7%98%A6%E4%B8%8D%E4%B8%8B%E5%8E%BB%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
+吉克隽逸因瘦不下去崩溃大哭（热度：856194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AE%9D%E8%AF%B4%E5%AD%99%E4%BF%AA%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%BC%94%E5%91%98%23" target="weibo">
 三宝说孙俪不是一个好演员（热度：855944）
 </a>
@@ -6005,12 +6011,6 @@ K1373次列车亲历者称当时已有人中暑（热度：734592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231979%E5%B9%B4%E9%AD%94%E7%AB%A5%E8%B6%85%E7%94%9F%23" target="weibo">
 1979年魔童超生（热度：727722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%AA%8C%E8%B5%84PK%23" target="weibo">
-网红验资PK（热度：727697）
 </a>
 </li>
 

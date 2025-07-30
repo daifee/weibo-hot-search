@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753854843555,
+  "endTime": 1753857786489,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -123,6 +123,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 856194,
+      "num": 477324,
+      "word": "吉克隽逸因瘦不下去崩溃大哭",
+      "onboard_time": 1753853843,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766360,
       "num": 766360,
       "word": "俄罗斯地震",
@@ -168,6 +176,14 @@
       "word": "王玉雯怎么和谁都是发小",
       "onboard_time": 1753850426,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 602292,
+      "num": 462222,
+      "word": "赵丽颖带儿子逛街看展",
+      "onboard_time": 1753855523,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -243,6 +259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413152,
+      "num": 413152,
+      "word": "俄地震后鲸鱼被冲上日本海滩",
+      "onboard_time": 1753855284,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 403749,
+      "num": 487453,
+      "word": "育儿补贴制度及生育支持措施介绍",
+      "onboard_time": 1753856063,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403246,
       "num": 190317,
       "word": "QQ音乐回应张碧晨仍是年轮原唱",
@@ -299,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329193,
-      "num": 329193,
-      "word": "吉克隽逸因瘦不下去崩溃大哭",
-      "onboard_time": 1753853843,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 347823,
+      "num": 347823,
+      "word": "刘宇宁几小时没见又长高了",
+      "onboard_time": 1753854204,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 324593,
@@ -419,12 +451,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 250715,
+      "num": 250715,
+      "word": "巨浪直扑日本海岸线",
+      "onboard_time": 1753854504,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 250289,
       "num": 304467,
       "word": "黄晓明再回应考博落榜",
       "onboard_time": 1753835304,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248332,
+      "num": 248332,
+      "word": "国新办发布会介绍育儿补贴情况",
+      "onboard_time": 1753857202,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 244762,
@@ -443,6 +491,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241656,
+      "num": 241656,
+      "word": "台湾海啸",
+      "onboard_time": 1753856904,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 236272,
+      "num": 236272,
+      "word": "月入1万已经能过得非常好了",
+      "onboard_time": 1753855106,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231757,
+      "num": 231757,
+      "word": "酱子贝 我写的角色都没有原型",
+      "onboard_time": 1753852463,
+      "rank": 23,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 231549,
       "num": 231549,
       "word": "阿汤哥安娜恋情",
@@ -457,6 +529,14 @@
       "onboard_time": 1753833503,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 228764,
+      "num": 228764,
+      "word": "二十届四中全会",
+      "onboard_time": 1753856962,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 225628,
@@ -497,14 +577,6 @@
       "onboard_time": 1753845864,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212264,
-      "num": 212264,
-      "word": "酱子贝 我写的角色都没有原型",
-      "onboard_time": 1753852463,
-      "rank": 23,
-      "category": "读书作家"
     },
     {
       "raw_hot": 207389,
@@ -635,12 +707,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193796,
+      "num": 247533,
+      "word": "毕业照给我拍成刘亦菲了",
+      "onboard_time": 1753856904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193774,
       "num": 193774,
       "word": "郑希怡女儿缩小版的郑希怡",
       "onboard_time": 1753844002,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193133,
+      "num": 246137,
+      "word": "时代少年团输赢写脸上",
+      "onboard_time": 1753854985,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192301,
+      "num": 192301,
+      "word": "30岁存了60万的真实生活",
+      "onboard_time": 1753855703,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 190952,
@@ -657,6 +753,14 @@
       "onboard_time": 1753851503,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190266,
+      "num": 190266,
+      "word": "启动海洋灾害二级应急响应",
+      "onboard_time": 1753852403,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 189288,
@@ -683,12 +787,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187106,
+      "num": 187106,
+      "word": "日本受海啸影响暂停核污染水排海",
+      "onboard_time": 1753853363,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 186672,
+      "num": 186672,
+      "word": "王曼昱 巴黎世家",
+      "onboard_time": 1753856783,
+      "rank": 41,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 186346,
       "num": 303523,
       "word": "银河左岸音乐节",
       "onboard_time": 1753834282,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186185,
+      "num": 244027,
+      "word": "祝绪丹扫腿舞",
+      "onboard_time": 1753856063,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 186159,
@@ -707,6 +835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185271,
+      "num": 185271,
+      "word": "业主曝300多万新房楼梯一踢就碎",
+      "onboard_time": 1753853423,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185147,
       "num": 367603,
       "word": "余宇涵首次个人直播",
@@ -721,6 +857,14 @@
       "onboard_time": 1753848625,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181586,
+      "num": 181586,
+      "word": "A股",
+      "onboard_time": 1753855343,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 181366,
@@ -787,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178546,
+      "num": 178546,
+      "word": "学会剩菜是一个很重要的能力",
+      "onboard_time": 1753857444,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178189,
       "num": 229610,
       "word": "演唱会出轨被拍男主起诉酷玩乐队",
@@ -795,20 +947,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176779,
+      "num": 176779,
+      "word": "男子开假装上班公司2个月40人来上班",
+      "onboard_time": 1753857504,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176683,
       "num": 176683,
       "word": "巨瘦手臂的方法",
       "onboard_time": 1753848625,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 175920,
-      "num": 175920,
-      "word": "日本受海啸影响暂停核污染水排海",
-      "onboard_time": 1753853363,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 174824,
@@ -851,12 +1003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169500,
-      "num": 342434,
-      "word": "刘宇宁几小时没见又长高了",
-      "onboard_time": 1753854204,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 169332,
+      "num": 202096,
+      "word": "请回答1988珍珠扮演者近照",
+      "onboard_time": 1753857623,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 168539,
@@ -907,28 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165783,
-      "num": 165783,
-      "word": "启动海洋灾害二级应急响应",
-      "onboard_time": 1753852403,
-      "rank": 37,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 165512,
       "num": 165512,
       "word": "田柾国健身照",
       "onboard_time": 1753803023,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163446,
-      "num": 163446,
-      "word": "业主曝300多万新房楼梯一踢就碎",
-      "onboard_time": 1753853423,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162128,
@@ -1115,12 +1251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141336,
+      "raw_hot": 142151,
       "num": 171419,
       "word": "浙江迎战台风竹节草",
       "onboard_time": 1753849824,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141435,
+      "num": 242673,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1753857262,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 141141,
@@ -1267,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127583,
+      "num": 454366,
+      "word": "孙颖莎拼好饭",
+      "onboard_time": 1753857324,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127294,
       "num": 127294,
       "word": "印度医生睡着致伤者失血身亡",
@@ -1411,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101868,
+      "num": 236401,
+      "word": "心动8初见面就steve文学",
+      "onboard_time": 1753856483,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101496,
       "num": 101496,
       "word": "恩利 谢谢爸爸照顾我的红屁股",
@@ -1497,14 +1657,6 @@
       "onboard_time": 1753792282,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86449,
-      "num": 152801,
-      "word": "巨浪直扑日本海岸线",
-      "onboard_time": 1753854504,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85424,
@@ -1707,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55621,
+      "num": 194273,
+      "word": "育儿补贴不分一孩二孩或者三孩",
+      "onboard_time": 1753857684,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55315,
       "num": 191253,
       "word": "关晓彤跳了美美桑内",
@@ -1825,6 +1985,14 @@
       "onboard_time": 1753813576,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20263,
+      "num": 190974,
+      "word": "小英一家小县城非主流恋爱",
+      "onboard_time": 1753857742,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 19097,

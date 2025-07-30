@@ -1,0 +1,410 @@
+{
+  "runTime": 1753857786489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3582056,
+        "num": 3582056,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1626362,
+        "num": 1626362,
+        "word": "海啸到达台湾浙江上海沿海时间",
+        "onboard_time": 1753849584,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30568,
+        "num": 882754,
+        "word": "致敬暴雨中向险而行的身影",
+        "onboard_time": 1753837045,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688231,
+        "num": 688231,
+        "word": "海啸黄色警报发布",
+        "onboard_time": 1753847664,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651548,
+        "num": 651548,
+        "word": "日本北海道第一波海啸到达",
+        "onboard_time": 1753843103,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 601481,
+        "num": 601481,
+        "word": "俄罗斯地震",
+        "onboard_time": 1753840103,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 568809,
+        "num": 568809,
+        "word": "十年前举报释永信的释延鲁去哪了",
+        "onboard_time": 1753846644,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505838,
+        "num": 505838,
+        "word": "刘诗诗关晓彤两个生硬的北京人",
+        "onboard_time": 1753850125,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488831,
+        "num": 488831,
+        "word": "王玉雯怎么和谁都是发小",
+        "onboard_time": 1753850426,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403749,
+        "num": 487453,
+        "word": "育儿补贴制度及生育支持措施介绍",
+        "onboard_time": 1753856063,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 856194,
+        "num": 477324,
+        "word": "吉克隽逸因瘦不下去崩溃大哭",
+        "onboard_time": 1753853843,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817109,
+        "num": 464316,
+        "word": "真实记录鬼压床的时刻",
+        "onboard_time": 1753848685,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 602292,
+        "num": 462222,
+        "word": "赵丽颖带儿子逛街看展",
+        "onboard_time": 1753855523,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127583,
+        "num": 454366,
+        "word": "孙颖莎拼好饭",
+        "onboard_time": 1753857324,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446027,
+        "num": 446027,
+        "word": "哀牢山发现7株冥界之花",
+        "onboard_time": 1753833022,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428447,
+        "num": 428447,
+        "word": "银行存了35万取款时被清零了",
+        "onboard_time": 1753842981,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413152,
+        "num": 413152,
+        "word": "俄地震后鲸鱼被冲上日本海滩",
+        "onboard_time": 1753855284,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407266,
+        "num": 407266,
+        "word": "上海浦东计划避险转移11万人",
+        "onboard_time": 1753845384,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353450,
+        "num": 353450,
+        "word": "余景天 再造谣给你们找个老嫂子",
+        "onboard_time": 1753849344,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347823,
+        "num": 347823,
+        "word": "刘宇宁几小时没见又长高了",
+        "onboard_time": 1753854204,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345519,
+        "num": 345519,
+        "word": "亚洲第一渣男正式复出",
+        "onboard_time": 1753845204,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251589,
+        "num": 251589,
+        "word": "巴基斯坦一女子被亲弟弟荣誉处决",
+        "onboard_time": 1753845743,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250715,
+        "num": 250715,
+        "word": "巨浪直扑日本海岸线",
+        "onboard_time": 1753854504,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248332,
+        "num": 248332,
+        "word": "国新办发布会介绍育儿补贴情况",
+        "onboard_time": 1753857202,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193796,
+        "num": 247533,
+        "word": "毕业照给我拍成刘亦菲了",
+        "onboard_time": 1753856904,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193133,
+        "num": 246137,
+        "word": "时代少年团输赢写脸上",
+        "onboard_time": 1753854985,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186185,
+        "num": 244027,
+        "word": "祝绪丹扫腿舞",
+        "onboard_time": 1753856063,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141435,
+        "num": 242673,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1753857262,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241656,
+        "num": 241656,
+        "word": "台湾海啸",
+        "onboard_time": 1753856904,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 101868,
+        "num": 236401,
+        "word": "心动8初见面就steve文学",
+        "onboard_time": 1753856483,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236272,
+        "num": 236272,
+        "word": "月入1万已经能过得非常好了",
+        "onboard_time": 1753855106,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231757,
+        "num": 231757,
+        "word": "酱子贝 我写的角色都没有原型",
+        "onboard_time": 1753852463,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 228764,
+        "num": 228764,
+        "word": "二十届四中全会",
+        "onboard_time": 1753856962,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209700,
+        "num": 209700,
+        "word": "光与夜之恋 肯德基",
+        "onboard_time": 1753850246,
+        "rank": 33,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 169332,
+        "num": 202096,
+        "word": "请回答1988珍珠扮演者近照",
+        "onboard_time": 1753857623,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199723,
+        "num": 199723,
+        "word": "堪察加东岸远海地震震级修正为8.7级",
+        "onboard_time": 1753840044,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55621,
+        "num": 194273,
+        "word": "育儿补贴不分一孩二孩或者三孩",
+        "onboard_time": 1753857684,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192301,
+        "num": 192301,
+        "word": "30岁存了60万的真实生活",
+        "onboard_time": 1753855703,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20263,
+        "num": 190974,
+        "word": "小英一家小县城非主流恋爱",
+        "onboard_time": 1753857742,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190266,
+        "num": 190266,
+        "word": "启动海洋灾害二级应急响应",
+        "onboard_time": 1753852403,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 187106,
+        "num": 187106,
+        "word": "日本受海啸影响暂停核污染水排海",
+        "onboard_time": 1753853363,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186672,
+        "num": 186672,
+        "word": "王曼昱 巴黎世家",
+        "onboard_time": 1753856783,
+        "rank": 41,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 185271,
+        "num": 185271,
+        "word": "业主曝300多万新房楼梯一踢就碎",
+        "onboard_time": 1753853423,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184517,
+        "num": 184517,
+        "word": "俄罗斯部分地区海啸预警",
+        "onboard_time": 1753843523,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 181586,
+        "num": 181586,
+        "word": "A股",
+        "onboard_time": 1753855343,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178546,
+        "num": 178546,
+        "word": "学会剩菜是一个很重要的能力",
+        "onboard_time": 1753857444,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176779,
+        "num": 176779,
+        "word": "男子开假装上班公司2个月40人来上班",
+        "onboard_time": 1753857504,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160758,
+        "num": 160758,
+        "word": "台风竹节草",
+        "onboard_time": 1753830919,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159664,
+        "num": 159664,
+        "word": "iG对阵BLG的比赛将延期举行",
+        "onboard_time": 1753854024,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142151,
+        "num": 142151,
+        "word": "浙江迎战台风竹节草",
+        "onboard_time": 1753849824,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向世界青年和平大会致信#"
+    }
+  }
+}
