@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/31 00:34:40 ~ 2025/07/31 04:45:04
+本榜单时间：2025/07/31 00:34:40 ~ 2025/07/31 05:28:11
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23" target="weibo">
+日本民众撤离到屋顶躲避海啸（热度：76087）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E7%A5%9B%E9%AD%85%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F%E5%B0%B1%E6%98%AF%E7%BB%8F%E5%8E%86%E5%92%8C%E6%8B%A5%E6%9C%89%23" target="weibo">
 果然祛魅最好的方式就是经历和拥有（热度：74894）
 </a>
@@ -363,12 +369,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23" target="weibo">
-日本民众撤离到屋顶躲避海啸（热度：36142）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%8A%98%E5%8F%A0%E6%80%8E%E4%B9%88%E6%8A%98%E9%83%BD%E6%98%AF%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 三折叠怎么折都是王鹤棣（热度：34359）
 </a>
@@ -418,13 +418,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%BE%81%E6%94%B625%25%E5%85%B3%E7%A8%8E%23" target="weibo">
-特朗普称对印度征收25%关税（热度：14970）
+特朗普称对印度征收25%关税（热度：17866）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E5%9C%A8%E5%93%AA%E7%94%B3%E9%A2%86%23" target="weibo">
 育儿补贴在哪申领（热度：8586）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%85%8D%E7%AD%BE%E6%88%96%E8%90%BD%E5%9C%B0%E7%AD%BE%E5%89%8D%E5%BE%8090%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%23" target="weibo">
+可免签或落地签前往90多个国家和地区（热度：964）
 </a>
 </li>
 
