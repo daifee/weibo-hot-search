@@ -1,0 +1,410 @@
+{
+  "runTime": 1753886936952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904591,
+        "num": 1904591,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 947566,
+        "num": 947566,
+        "word": "老人一次拔牙12颗种6颗后身亡",
+        "onboard_time": 1753884746,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80350,
+        "num": 920844,
+        "word": "育儿补贴发放渠道",
+        "onboard_time": 1753859304,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 913179,
+        "num": 913179,
+        "word": "日本女子躲海啸驾车从30米悬崖坠亡",
+        "onboard_time": 1753883785,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 548685,
+        "num": 548685,
+        "word": "孟子义经纪人道歉",
+        "onboard_time": 1753868002,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067017,
+        "num": 547747,
+        "word": "学生辱骂国家运动员厦门大学开展调查",
+        "onboard_time": 1753880304,
+        "rank": 5,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 762374,
+        "num": 538684,
+        "word": "武大女生被质疑学术不端何时查",
+        "onboard_time": 1753882825,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386858,
+        "num": 386858,
+        "word": "俄罗斯一加工厂被海啸冲走",
+        "onboard_time": 1753879343,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 384640,
+        "num": 384640,
+        "word": "利剑玫瑰 全员演技在线",
+        "onboard_time": 1753881625,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204578,
+        "num": 384458,
+        "word": "直击北京密云太师屯镇",
+        "onboard_time": 1753885885,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764928,
+        "num": 384458,
+        "word": "女车主摇中88888车牌有人现场出价110万",
+        "onboard_time": 1753871363,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660114,
+        "num": 384456,
+        "word": "李雪琴的腰怎么了",
+        "onboard_time": 1753873943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384440,
+        "num": 384440,
+        "word": "厦大通报学生辱骂国家运动员",
+        "onboard_time": 1753880304,
+        "rank": 12,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 365808,
+        "num": 365808,
+        "word": "窦骁刘浩存 庄图南李佳该有的样子",
+        "onboard_time": 1753875743,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360420,
+        "num": 360420,
+        "word": "张元英开球直拍",
+        "onboard_time": 1753884746,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 344127,
+        "num": 344127,
+        "word": "女生苦练化妆一个月的变化",
+        "onboard_time": 1753862424,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 284368,
+        "num": 303064,
+        "word": "格力把高管送去火焰山",
+        "onboard_time": 1753884626,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290712,
+        "num": 290712,
+        "word": "新人领结婚证收到1500元补贴",
+        "onboard_time": 1753875143,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251189,
+        "num": 251189,
+        "word": "中国一年吃掉5亿斤毛肚震惊老外",
+        "onboard_time": 1753882825,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237948,
+        "num": 237948,
+        "word": "吴千语婚礼品位被VOGUE认证",
+        "onboard_time": 1753877904,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426255,
+        "num": 228763,
+        "word": "杨幂赵露思孟子义同品牌大片",
+        "onboard_time": 1753884146,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206426,
+        "num": 206426,
+        "word": "26岁确诊了早期胃癌的忠告",
+        "onboard_time": 1753869983,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202073,
+        "num": 202073,
+        "word": "你要讲啊 你不讲你还指望谁讲",
+        "onboard_time": 1753873523,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197866,
+        "num": 197866,
+        "word": "潘展乐无缘100自决赛",
+        "onboard_time": 1753877003,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184325,
+        "num": 184325,
+        "word": "以为会胖实际能减肥的6个行为",
+        "onboard_time": 1753884806,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 173534,
+        "num": 173534,
+        "word": "刘亦菲把渔网袜穿得好清纯",
+        "onboard_time": 1753876104,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171986,
+        "num": 171986,
+        "word": "教育局回应男孩高温天体测身亡",
+        "onboard_time": 1753880662,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168206,
+        "num": 168206,
+        "word": "龚俊杨洋刘雨昕致敬中国军人",
+        "onboard_time": 1753879223,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 144551,
+        "num": 161551,
+        "word": "龚俊臭成啥样了",
+        "onboard_time": 1753865423,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143126,
+        "num": 160151,
+        "word": "李兰迪 少女时期的生长痛终于结束了",
+        "onboard_time": 1753866563,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715895,
+        "num": 160036,
+        "word": "张碧晨广州站演唱会开票遇冷",
+        "onboard_time": 1753879583,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159834,
+        "num": 159834,
+        "word": "汪顺人气震惊外国解说",
+        "onboard_time": 1753882165,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155093,
+        "num": 155093,
+        "word": "果然祛魅最好的方式就是经历和拥有",
+        "onboard_time": 1753883726,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154502,
+        "num": 154502,
+        "word": "日本海啸预警一艘赴日游轮无法靠岸",
+        "onboard_time": 1753876943,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151055,
+        "num": 151055,
+        "word": "沈春阳接女儿回国",
+        "onboard_time": 1753879944,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150034,
+        "num": 150034,
+        "word": "丁禹兮把我想看的都拍了",
+        "onboard_time": 1753880906,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133394,
+        "num": 133394,
+        "word": "台风把西湖吹成了海",
+        "onboard_time": 1753880182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129302,
+        "num": 129302,
+        "word": "肖战深情演唱往事随风",
+        "onboard_time": 1753881625,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129280,
+        "num": 129280,
+        "word": "迪丽热巴不是救赎感是真救赎",
+        "onboard_time": 1753884986,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124986,
+        "num": 124986,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753875803,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121764,
+        "num": 121764,
+        "word": "疯狂动物城2",
+        "onboard_time": 1753886785,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114404,
+        "num": 114404,
+        "word": "12岁男孩高温天跑400米体测身亡",
+        "onboard_time": 1753877363,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113460,
+        "num": 113460,
+        "word": "5个动作祛湿瘦身",
+        "onboard_time": 1753885585,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109871,
+        "num": 109871,
+        "word": "强降雨致河北35.6万人受灾",
+        "onboard_time": 1753874363,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175729,
+        "num": 109766,
+        "word": "住民宿被指3女1男涉事商家道歉",
+        "onboard_time": 1753876883,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109363,
+        "num": 109363,
+        "word": "少林寺平安香等收费项目已不见",
+        "onboard_time": 1753882345,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107756,
+        "num": 107756,
+        "word": "上海近岸海域将有3到5米巨浪",
+        "onboard_time": 1753885106,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102766,
+        "num": 102766,
+        "word": "舞蹈生俩月瘦40斤致3个月没来例假",
+        "onboard_time": 1753884926,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97411,
+        "num": 97411,
+        "word": "张杰21周年发一万条博了",
+        "onboard_time": 1753884025,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93454,
+        "num": 93454,
+        "word": "英雄联盟积木皮肤",
+        "onboard_time": 1753883907,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025下半年经济工作#"
+    }
+  }
+}
