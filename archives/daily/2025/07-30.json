@@ -1,7 +1,23 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753832586145,
+  "endTime": 1753841613438,
   "band_list": [
+    {
+      "raw_hot": 6484765,
+      "num": 6484765,
+      "word": "刘宇宁祝绪丹否认恋情",
+      "onboard_time": 1753840103,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2197145,
+      "num": 2197145,
+      "word": "哀牢山发现7株冥界之花",
+      "onboard_time": 1753833022,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1150359,
       "num": 194723,
@@ -19,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 876254,
+      "num": 306652,
+      "word": "留几手说葛夕新恋情与我无关",
+      "onboard_time": 1753838423,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 746602,
       "num": 746602,
       "word": "台风竹节草",
@@ -28,11 +52,19 @@
     },
     {
       "raw_hot": 690171,
-      "num": 191733,
+      "num": 305217,
       "word": "演唱会偷情事件男主起诉Coldplay",
       "onboard_time": 1753830978,
       "rank": 10,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 590954,
+      "num": 590954,
+      "word": "坐高铁因为好奇选了静音车厢",
+      "onboard_time": 1753832719,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 565052,
@@ -41,6 +73,38 @@
       "onboard_time": 1753804883,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501941,
+      "num": 501941,
+      "word": "每孩1年3600元育儿补贴影响有多大",
+      "onboard_time": 1753834705,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496635,
+      "num": 496635,
+      "word": "俄罗斯地震",
+      "onboard_time": 1753840103,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 488315,
+      "num": 306186,
+      "word": "张予曦自曝曾遭多名男生霸凌",
+      "onboard_time": 1753837104,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 450421,
+      "num": 450421,
+      "word": "张碧晨曾称和汪苏泷关系非常好",
+      "onboard_time": 1753830978,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 419670,
@@ -67,11 +131,43 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 354559,
+      "num": 354559,
+      "word": "黄晓明考博本不想考表演系",
+      "onboard_time": 1753834522,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 352322,
+      "num": 284496,
+      "word": "一家四口住民宿被指3女1男",
+      "onboard_time": 1753837045,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317149,
       "num": 317149,
       "word": "卫健委回应树林发现大量被丢弃药品",
       "onboard_time": 1753808060,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308571,
+      "num": 308571,
+      "word": "人人人人人贵州人人人人人",
+      "onboard_time": 1753832962,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304571,
+      "num": 304571,
+      "word": "台风竹节草登陆浙江舟山沿海",
+      "onboard_time": 1753837703,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -83,6 +179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 300944,
+      "num": 300944,
+      "word": "堪察加东岸远海地震震级修正为8.7级",
+      "onboard_time": 1753840044,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 286003,
+      "num": 286003,
+      "word": "夏威夷预计将遭破坏性海啸",
+      "onboard_time": 1753839803,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 282706,
       "num": 282706,
       "word": "欧阳娜娜归国千金既视感",
@@ -91,11 +203,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281947,
+      "num": 281947,
+      "word": "全家一起跳操2月瘦了50多斤",
+      "onboard_time": 1753840103,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279293,
       "num": 144642,
       "word": "第一次对成龙71岁有了实感",
       "onboard_time": 1753786400,
       "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 260229,
+      "num": 260229,
+      "word": "泡泡玛特给海关发布送锦旗",
+      "onboard_time": 1753839803,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250289,
+      "num": 304467,
+      "word": "黄晓明再回应考博落榜",
+      "onboard_time": 1753835304,
+      "rank": 15,
       "category": "电影"
     },
     {
@@ -107,12 +243,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239998,
-      "num": 128661,
-      "word": "张碧晨曾称和汪苏泷关系非常好",
-      "onboard_time": 1753830978,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 225910,
+      "num": 225910,
+      "word": "iPhone17Pro橙色机模曝光",
+      "onboard_time": 1753838963,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 225628,
+      "num": 225628,
+      "word": "王小平一审获刑10年6个月",
+      "onboard_time": 1753838184,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218803,
+      "num": 218803,
+      "word": "哀牢山",
+      "onboard_time": 1753837703,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 216530,
@@ -137,6 +289,14 @@
       "onboard_time": 1753807160,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206844,
+      "num": 206844,
+      "word": "日本多地发布海啸预警",
+      "onboard_time": 1753833503,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 206227,
@@ -187,12 +347,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187358,
+      "num": 187358,
+      "word": "王者荣耀",
+      "onboard_time": 1753840224,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186346,
+      "num": 303523,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1753834282,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181205,
       "num": 181205,
       "word": "女子发现电影院座椅布满白色虫卵",
       "onboard_time": 1753802364,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181083,
+      "num": 181083,
+      "word": "日本部分地区或出现3米海啸",
+      "onboard_time": 1753837885,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 180773,
@@ -227,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169434,
+      "num": 169434,
+      "word": "身上长这种肉疙瘩警惕是癌症先兆",
+      "onboard_time": 1753836325,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168539,
+      "num": 168539,
+      "word": "间谍在共享充电宝植入后门程序监视",
+      "onboard_time": 1753833682,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166700,
       "num": 166184,
       "word": "马龙儿子社交e人",
@@ -243,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162128,
+      "num": 162128,
+      "word": "孙颖莎捐赠灾区的物资已装车发出",
+      "onboard_time": 1753840641,
+      "rank": 33,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 158583,
       "num": 139145,
       "word": "维生素D真的很神奇",
       "onboard_time": 1753790001,
       "rank": 23,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 157913,
+      "num": 302112,
+      "word": "专家称张碧晨唯一原唱证据不足",
+      "onboard_time": 1753837404,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 155326,
@@ -267,6 +483,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 148924,
+      "num": 148924,
+      "word": "上海进入台风竹节草7级风圈",
+      "onboard_time": 1753840702,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147147,
       "num": 147147,
       "word": "2025年赵默笙41岁",
@@ -275,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147115,
+      "num": 147115,
+      "word": "豆瓣鹅组已被雪藏",
+      "onboard_time": 1753840583,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144996,
       "num": 144996,
       "word": "迪丽热巴哭戏",
       "onboard_time": 1753794865,
       "rank": 19,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 143456,
+      "num": 143456,
+      "word": "医生回应得荨麻疹女子在皮肤上划字",
+      "onboard_time": 1753839504,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143113,
@@ -316,7 +556,7 @@
     },
     {
       "raw_hot": 134396,
-      "num": 192539,
+      "num": 301640,
       "word": "南京照相馆是否适合小朋友观看",
       "onboard_time": 1753811537,
       "rank": 9,
@@ -339,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128894,
+      "num": 128894,
+      "word": "原神更新",
+      "onboard_time": 1753840822,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127294,
       "num": 127294,
       "word": "印度医生睡着致伤者失血身亡",
@@ -347,12 +595,68 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126178,
+      "num": 147810,
+      "word": "三伏天已经过了三分之一",
+      "onboard_time": 1753832600,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124041,
+      "num": 124041,
+      "word": "宁波台风",
+      "onboard_time": 1753835364,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122267,
+      "num": 122267,
+      "word": "岔腿坐其实是个女性友好坐姿",
+      "onboard_time": 1753835124,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119627,
+      "num": 119627,
+      "word": "刘军一审获刑11年",
+      "onboard_time": 1753839142,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112149,
+      "num": 112149,
+      "word": "库克宣布苹果捐款支援灾区",
+      "onboard_time": 1753838363,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110124,
       "num": 110124,
       "word": "世界之外史诗级公关",
       "onboard_time": 1753790001,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109377,
+      "num": 109377,
+      "word": "可折叠iPhone售价",
+      "onboard_time": 1753839262,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 108131,
+      "num": 108131,
+      "word": "空气炸锅面包",
+      "onboard_time": 1753841545,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 106214,
@@ -369,6 +673,14 @@
       "onboard_time": 1753831881,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102907,
+      "num": 102907,
+      "word": "一啤酒检出含有类似伟哥物质",
+      "onboard_time": 1753837703,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102280,
@@ -475,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85023,
+      "num": 181384,
+      "word": "声纹鉴定为何重要",
+      "onboard_time": 1753837344,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84242,
       "num": 84242,
       "word": "歌手重新录制浏阳河段落",
@@ -553,6 +873,14 @@
       "onboard_time": 1753830919,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66376,
+      "num": 131782,
+      "word": "留几手评与葛夕感情如外卖",
+      "onboard_time": 1753840882,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 63800,
@@ -692,7 +1020,7 @@
     },
     {
       "raw_hot": 9117,
-      "num": 452883,
+      "num": 528886,
       "word": "双曲线一号遥十运载火箭发射成功",
       "onboard_time": 1753767863,
       "rank": 2,
