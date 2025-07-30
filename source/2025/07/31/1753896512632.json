@@ -1,0 +1,410 @@
+{
+  "runTime": 1753896512632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 425133,
+        "num": 474427,
+        "word": "疯狂动物城2",
+        "onboard_time": 1753886785,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372952,
+        "num": 372952,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 4358,
+        "num": 367330,
+        "word": "育儿补贴在哪申领",
+        "onboard_time": 1753857924,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362275,
+        "num": 362275,
+        "word": "小黄豆掉粉",
+        "onboard_time": 1753890624,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 306775,
+        "num": 306775,
+        "word": "佛山释放不咬人蚊子捕食咬人蚊子",
+        "onboard_time": 1753890085,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267640,
+        "num": 267640,
+        "word": "乘警回应给穿吊带女乘客发提示卡",
+        "onboard_time": 1753889844,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200135,
+        "num": 200135,
+        "word": "日本女子躲海啸驾车从30米悬崖坠亡",
+        "onboard_time": 1753883785,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152308,
+        "num": 152308,
+        "word": "张元英开球直拍",
+        "onboard_time": 1753884746,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 141113,
+        "num": 141113,
+        "word": "河北兴隆强降雨8人遇难18人失联",
+        "onboard_time": 1753891823,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113767,
+        "num": 113767,
+        "word": "直击北京密云太师屯镇",
+        "onboard_time": 1753885885,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274691,
+        "num": 113763,
+        "word": "向太说郭碧婷得管三孩其中一个是向佐",
+        "onboard_time": 1753889604,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241936,
+        "num": 112005,
+        "word": "周冬雨刘诗诗娜扎鞋跟高度",
+        "onboard_time": 1753890863,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188149,
+        "num": 110492,
+        "word": "正式确诊为痣性恋",
+        "onboard_time": 1753890144,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172458,
+        "num": 109604,
+        "word": "老人一次拔牙12颗种6颗后身亡",
+        "onboard_time": 1753884746,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161950,
+        "num": 108310,
+        "word": "女车主摇中88888车牌有人现场出价110万",
+        "onboard_time": 1753871363,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123992,
+        "num": 106905,
+        "word": "李雪琴的腰怎么了",
+        "onboard_time": 1753873943,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106786,
+        "num": 106786,
+        "word": "孟子义经纪人道歉",
+        "onboard_time": 1753868002,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103346,
+        "num": 103346,
+        "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
+        "onboard_time": 1753887265,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89255,
+        "num": 89255,
+        "word": "黄一鸣回应给孩子找后爸",
+        "onboard_time": 1753888823,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87061,
+        "num": 87061,
+        "word": "俄罗斯一加工厂被海啸冲走",
+        "onboard_time": 1753879343,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130691,
+        "num": 85952,
+        "word": "带状疱疹缠腰一圈意味着什么",
+        "onboard_time": 1753887745,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111202,
+        "num": 84519,
+        "word": "杨幂赵露思孟子义同品牌大片",
+        "onboard_time": 1753884146,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75250,
+        "num": 75250,
+        "word": "窦骁刘浩存 庄图南李佳该有的样子",
+        "onboard_time": 1753875743,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72751,
+        "num": 72751,
+        "word": "女生苦练化妆一个月的变化",
+        "onboard_time": 1753862424,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 60994,
+        "num": 60994,
+        "word": "果然祛魅最好的方式就是经历和拥有",
+        "onboard_time": 1753883726,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56199,
+        "num": 56199,
+        "word": "男子路边买排骨遇鬼手藏肉",
+        "onboard_time": 1753895180,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55164,
+        "num": 55164,
+        "word": "130斤女生瘦到100斤需要多久",
+        "onboard_time": 1753888464,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 51203,
+        "num": 55095,
+        "word": "敖瑞鹏拍完朝雪录有皱眉后遗症",
+        "onboard_time": 1753893021,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46305,
+        "num": 54912,
+        "word": "利剑玫瑰",
+        "onboard_time": 1753875803,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44160,
+        "num": 54787,
+        "word": "汪苏泷西安站心愿曲目",
+        "onboard_time": 1753892723,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50132,
+        "num": 54673,
+        "word": "用一首歌和你说晚安",
+        "onboard_time": 1753895119,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229168,
+        "num": 54576,
+        "word": "张碧晨广州站演唱会开票遇冷",
+        "onboard_time": 1753879583,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54498,
+        "num": 54498,
+        "word": "大学生为200元返现背上16万元债务",
+        "onboard_time": 1753890683,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52503,
+        "num": 54495,
+        "word": "上海迪士尼游客暴雨中撑伞游园",
+        "onboard_time": 1753889004,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51055,
+        "num": 54492,
+        "word": "分享欲其实是一种情绪霸凌",
+        "onboard_time": 1753895659,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49424,
+        "num": 54482,
+        "word": "潘展乐无缘100自决赛",
+        "onboard_time": 1753877003,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47004,
+        "num": 54478,
+        "word": "港中大辞退反华推手侯儒楷",
+        "onboard_time": 1753890982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45434,
+        "num": 54471,
+        "word": "刘亦菲把渔网袜穿得好清纯",
+        "onboard_time": 1753876104,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42828,
+        "num": 54467,
+        "word": "马嘉祺赛后聊歌手直播感受",
+        "onboard_time": 1753889483,
+        "rank": 38,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 44263,
+        "num": 54465,
+        "word": "强降雨致河北35.6万人受灾",
+        "onboard_time": 1753874363,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43611,
+        "num": 54457,
+        "word": "莎头组合这枚混双金牌来之不易",
+        "onboard_time": 1753895899,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43416,
+        "num": 54450,
+        "word": "26岁确诊了早期胃癌的忠告",
+        "onboard_time": 1753869983,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42816,
+        "num": 54447,
+        "word": "新人领结婚证收到1500元补贴",
+        "onboard_time": 1753875143,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41642,
+        "num": 54440,
+        "word": "老人以狗试毒蘑菇结果全家仍然中毒",
+        "onboard_time": 1753887685,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39379,
+        "num": 54438,
+        "word": "利剑玫瑰 全员演技在线",
+        "onboard_time": 1753881625,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39370,
+        "num": 54431,
+        "word": "舞蹈生俩月瘦40斤致3个月没来例假",
+        "onboard_time": 1753884926,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21016,
+        "num": 54428,
+        "word": "育儿补贴发放渠道",
+        "onboard_time": 1753859304,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38122,
+        "num": 54418,
+        "word": "日本海啸预警一艘赴日游轮无法靠岸",
+        "onboard_time": 1753876943,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36628,
+        "num": 54415,
+        "word": "以为会胖实际能减肥的6个行为",
+        "onboard_time": 1753884806,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 35402,
+        "num": 54409,
+        "word": "你要讲啊 你不讲你还指望谁讲",
+        "onboard_time": 1753873523,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025下半年经济工作#"
+    }
+  }
+}
