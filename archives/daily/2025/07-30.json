@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753849718963,
+  "endTime": 1753851787897,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -27,16 +27,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1337528,
-      "num": 1337528,
+      "raw_hot": 1614628,
+      "num": 1614628,
       "word": "海啸黄色警报发布",
       "onboard_time": 1753847664,
       "rank": 5,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1210673,
+      "num": 659514,
+      "word": "巴基斯坦一女子被亲弟弟荣誉处决",
+      "onboard_time": 1753845743,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1203281,
-      "num": 605893,
+      "num": 623638,
       "word": "亚洲第一渣男正式复出",
       "onboard_time": 1753845204,
       "rank": 10,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 962651,
+      "num": 641959,
+      "word": "余景天 再造谣给你们找个老嫂子",
+      "onboard_time": 1753849344,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 879597,
       "num": 879597,
       "word": "十年前举报释永信的释延鲁去哪了",
@@ -83,12 +99,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 798295,
-      "num": 569198,
-      "word": "巴基斯坦一女子被亲弟弟荣誉处决",
-      "onboard_time": 1753845743,
-      "rank": 11,
-      "category": "海外新闻"
+      "raw_hot": 856946,
+      "num": 856946,
+      "word": "光与夜之恋 肯德基",
+      "onboard_time": 1753850246,
+      "rank": 3,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 746602,
@@ -115,12 +131,28 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 686555,
+      "num": 686555,
+      "word": "海啸到达台湾浙江上海沿海时间",
+      "onboard_time": 1753849584,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616980,
-      "num": 616980,
+      "num": 673390,
       "word": "日本北海道第一波海啸到达",
       "onboard_time": 1753843103,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 603108,
+      "num": 603108,
+      "word": "真实记录鬼压床的时刻",
+      "onboard_time": 1753848685,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 590954,
@@ -163,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443332,
+      "num": 443332,
+      "word": "上海浦东计划避险转移11万人",
+      "onboard_time": 1753845384,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431020,
       "num": 431020,
       "word": "全家一起跳操2月瘦了50多斤",
@@ -177,6 +217,14 @@
       "onboard_time": 1753837703,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 420756,
+      "num": 682851,
+      "word": "王玉雯怎么和谁都是发小",
+      "onboard_time": 1753850426,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 419670,
@@ -203,20 +251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397826,
-      "num": 397826,
-      "word": "上海浦东计划避险转移11万人",
-      "onboard_time": 1753845384,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 396477,
       "num": 396477,
       "word": "推动美方暂停的对等关税24%如期展期",
       "onboard_time": 1753807101,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 361225,
+      "num": 678887,
+      "word": "刘诗诗关晓彤两个生硬的北京人",
+      "onboard_time": 1753850125,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 354559,
@@ -251,19 +299,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 336966,
-      "num": 336966,
-      "word": "真实记录鬼压床的时刻",
-      "onboard_time": 1753848685,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 324593,
       "num": 324593,
       "word": "台风竹节草登陆浙江舟山沿海",
       "onboard_time": 1753837703,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320987,
+      "num": 320987,
+      "word": "爱康CEO称别指望几百块查出所有病",
+      "onboard_time": 1753849945,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -331,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281927,
-      "num": 281927,
-      "word": "余景天 再造谣给你们找个老嫂子",
-      "onboard_time": 1753849344,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279293,
       "num": 144642,
       "word": "第一次对成龙71岁有了实感",
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 244762,
-      "num": 278944,
+      "num": 604537,
       "word": "心动的信号8素人官宣",
       "onboard_time": 1753848264,
       "rank": 32,
@@ -377,6 +417,14 @@
       "onboard_time": 1753804223,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234324,
+      "num": 234324,
+      "word": "俄罗斯部分地区海啸预警",
+      "onboard_time": 1753843523,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 231549,
@@ -483,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 202584,
+      "num": 270954,
+      "word": "孟子义祝绪丹早期合照",
+      "onboard_time": 1753849105,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201321,
       "num": 201321,
       "word": "孙芮官宣和丝芭不续约",
@@ -531,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191160,
-      "num": 270954,
-      "word": "孟子义祝绪丹早期合照",
-      "onboard_time": 1753849105,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190952,
       "num": 190952,
       "word": "中美双方经贸团队将继续密切沟通",
@@ -553,14 +601,6 @@
       "onboard_time": 1753848564,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189282,
-      "num": 189282,
-      "word": "俄罗斯部分地区海啸预警",
-      "onboard_time": 1753843523,
-      "rank": 42,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 188720,
@@ -699,8 +739,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173048,
+      "num": 173048,
+      "word": "人民军队大片攻坚",
+      "onboard_time": 1753850426,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 172027,
-      "num": 324967,
+      "num": 444127,
       "word": "像王皓一样思考",
       "onboard_time": 1753848744,
       "rank": 18,
@@ -713,6 +761,14 @@
       "onboard_time": 1753847484,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 169155,
+      "num": 163822,
+      "word": "巨瘦手臂的方法",
+      "onboard_time": 1753848625,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 168539,
@@ -739,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165937,
-      "num": 165937,
-      "word": "海啸到达台湾浙江上海沿海时间",
-      "onboard_time": 1753849584,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165512,
       "num": 165512,
       "word": "田柾国健身照",
@@ -769,14 +817,6 @@
       "onboard_time": 1753848206,
       "rank": 36,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 159885,
-      "num": 159885,
-      "word": "巨瘦手臂的方法",
-      "onboard_time": 1753848625,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 158583,
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 153378,
-      "num": 326971,
+      "num": 512536,
       "word": "沙溢真实家庭地位",
       "onboard_time": 1753847544,
       "rank": 17,
@@ -843,12 +883,36 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 153142,
+      "num": 151666,
+      "word": "樊振东抱郑培锋的娃",
+      "onboard_time": 1753851503,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153072,
+      "num": 153072,
+      "word": "世锦赛200混汪顺晋级半决赛",
+      "onboard_time": 1753851145,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150602,
       "num": 150602,
       "word": "潘展乐晋级100自半决赛",
       "onboard_time": 1753847364,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149504,
+      "num": 170837,
+      "word": "牛在在逛女装店是给李梦买衣服",
+      "onboard_time": 1753851564,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148924,
@@ -891,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146561,
+      "num": 146561,
+      "word": "目前你最舍不得删的小众APP",
+      "onboard_time": 1753851503,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144996,
       "num": 144996,
       "word": "迪丽热巴哭戏",
@@ -905,6 +977,14 @@
       "onboard_time": 1753784363,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141336,
+      "num": 141336,
+      "word": "浙江迎战台风竹节草",
+      "onboard_time": 1753849824,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141141,
@@ -968,6 +1048,14 @@
       "word": "孕妇遭有电诈前科亲戚诱骗失联6天",
       "onboard_time": 1753806740,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133821,
+      "num": 169314,
+      "word": "老外中国穷游睡桥下",
+      "onboard_time": 1753851503,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1299,12 +1387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76769,
+      "num": 168329,
+      "word": "家长称频遭作业帮夜间信息骚扰",
+      "onboard_time": 1753849884,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76557,
       "num": 221041,
       "word": "周柯宇 先别着急投诉我",
       "onboard_time": 1753842563,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72865,
+      "num": 172650,
+      "word": "14名零工消失在山西暴雨中",
+      "onboard_time": 1753851685,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72517,
@@ -1435,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47677,
+      "num": 170515,
+      "word": "夏令营让教官当学生面吃泔水桶剩饭",
+      "onboard_time": 1753851685,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46823,
       "num": 71526,
       "word": "这个外卖小哥长得好像张艺兴",
@@ -1449,6 +1561,14 @@
       "onboard_time": 1753837045,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41194,
+      "num": 171713,
+      "word": "暴雨致河北7个村庄一度失联",
+      "onboard_time": 1753851685,
+      "rank": 35,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 37828,
