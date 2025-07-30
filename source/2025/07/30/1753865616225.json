@@ -1,0 +1,410 @@
+{
+  "runTime": 1753865616225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2628939,
+        "num": 2628939,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1332114,
+        "num": 1332114,
+        "word": "上拉如曝小英4元衣服卖29.9元",
+        "onboard_time": 1753860683,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25854,
+        "num": 1005457,
+        "word": "致敬暴雨中向险而行的身影",
+        "onboard_time": 1753837045,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 952673,
+        "num": 952673,
+        "word": "女生苦练化妆一个月的变化",
+        "onboard_time": 1753862424,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 933433,
+        "num": 933433,
+        "word": "台湾海啸",
+        "onboard_time": 1753856904,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 740009,
+        "num": 740009,
+        "word": "海啸到达台湾浙江上海沿海时间",
+        "onboard_time": 1753849584,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628951,
+        "num": 628951,
+        "word": "男子开假装上班公司2个月40人来上班",
+        "onboard_time": 1753857504,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519267,
+        "num": 519267,
+        "word": "海啸黄色警报发布",
+        "onboard_time": 1753847664,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449100,
+        "num": 518717,
+        "word": "吴谨言全面复出",
+        "onboard_time": 1753859063,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287138,
+        "num": 501764,
+        "word": "俄堪察加附近监测到3至4米海啸波",
+        "onboard_time": 1753863324,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1740441,
+        "num": 484225,
+        "word": "武大图书馆性骚扰事件没有赢家",
+        "onboard_time": 1753861283,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49270,
+        "num": 472411,
+        "word": "get到易烊千玺风只用了一秒",
+        "onboard_time": 1753862663,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 467836,
+        "num": 467836,
+        "word": "俄远海8.8级地震后港口被冲毁淹没",
+        "onboard_time": 1753861043,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 443093,
+        "num": 443093,
+        "word": "GAI无法参加歌手突围赛",
+        "onboard_time": 1753862483,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85203,
+        "num": 439990,
+        "word": "成都欧米茄活动红气超标",
+        "onboard_time": 1753864344,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 438247,
+        "num": 438247,
+        "word": "日本北海道第一波海啸到达",
+        "onboard_time": 1753843103,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361499,
+        "num": 361499,
+        "word": "请回答1988珍珠扮演者近照",
+        "onboard_time": 1753857623,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349491,
+        "num": 349491,
+        "word": "吉克隽逸因瘦不下去崩溃大哭",
+        "onboard_time": 1753853843,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68533,
+        "num": 340116,
+        "word": "范玮琪回应缺席歌手突围赛",
+        "onboard_time": 1753864763,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57221,
+        "num": 337847,
+        "word": "患癌女律师称不畏惧爱康国宾起诉",
+        "onboard_time": 1753864344,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337074,
+        "num": 337074,
+        "word": "育儿补贴发放渠道",
+        "onboard_time": 1753859304,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316381,
+        "num": 316381,
+        "word": "杨博文被北京十二中录取",
+        "onboard_time": 1753864645,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310110,
+        "num": 310110,
+        "word": "国新办发布会介绍育儿补贴情况",
+        "onboard_time": 1753857202,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78440,
+        "num": 306409,
+        "word": "爱自己就很Tiffany",
+        "onboard_time": 1753861583,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 304967,
+        "num": 304967,
+        "word": "育儿补贴不分一孩二孩或者三孩",
+        "onboard_time": 1753857684,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 283782,
+        "num": 283782,
+        "word": "嵩山少林寺方丈室已被铁皮封死",
+        "onboard_time": 1753861403,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277352,
+        "num": 277352,
+        "word": "上海中心1000吨阻尼器开始摆动",
+        "onboard_time": 1753864943,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223479,
+        "num": 252457,
+        "word": "王玉雯怎么和谁都是发小",
+        "onboard_time": 1753850426,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190172,
+        "num": 238565,
+        "word": "毕业照给我拍成刘亦菲了",
+        "onboard_time": 1753856904,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71360,
+        "num": 235440,
+        "word": "四川攀枝花发现10多株冥界之花",
+        "onboard_time": 1753864344,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235201,
+        "num": 235201,
+        "word": "让体脂率不断下降的习惯",
+        "onboard_time": 1753863143,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 232174,
+        "num": 232174,
+        "word": "网络造谣的法律责任",
+        "onboard_time": 1753864943,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231903,
+        "num": 231903,
+        "word": "20公斤金饰被冲走仅寻回70余克",
+        "onboard_time": 1753862543,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172750,
+        "num": 231133,
+        "word": "白鹿首张实体专辑销量",
+        "onboard_time": 1753859183,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231038,
+        "num": 231038,
+        "word": "上海已转移安置超28万人",
+        "onboard_time": 1753862062,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229424,
+        "num": 229424,
+        "word": "海啸淹没俄罗斯2000人居住城镇",
+        "onboard_time": 1753864461,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215194,
+        "num": 215194,
+        "word": "男子约见女网友睡觉时钱被转走",
+        "onboard_time": 1753863863,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188092,
+        "num": 188092,
+        "word": "王曼昱时尚街拍花絮",
+        "onboard_time": 1753864524,
+        "rank": 37,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 94749,
+        "num": 185948,
+        "word": "仙剑三常胤赢了现在大多数主角",
+        "onboard_time": 1753864943,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185429,
+        "num": 185429,
+        "word": "各省均设15天左右配偶陪产假",
+        "onboard_time": 1753863444,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182192,
+        "num": 182192,
+        "word": "这个外滩是非去不可吗",
+        "onboard_time": 1753861283,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177642,
+        "num": 177642,
+        "word": "哀牢山发现7株冥界之花",
+        "onboard_time": 1753833022,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169207,
+        "num": 169207,
+        "word": "吃烧烤和不吃烧烤的都沉默了",
+        "onboard_time": 1753861884,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167304,
+        "num": 167304,
+        "word": "皮肤科医生才会知道的护肤信息差",
+        "onboard_time": 1753862904,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163554,
+        "num": 163554,
+        "word": "育儿补贴制度及生育支持措施介绍",
+        "onboard_time": 1753856063,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160828,
+        "num": 160828,
+        "word": "各地产假普遍延长至158天及以上",
+        "onboard_time": 1753865303,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159345,
+        "num": 159345,
+        "word": "龚俊臭成啥样了",
+        "onboard_time": 1753865423,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156648,
+        "num": 156648,
+        "word": "赵丽颖带儿子逛街看展",
+        "onboard_time": 1753855523,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154900,
+        "num": 154900,
+        "word": "苹果官方闹乌龙",
+        "onboard_time": 1753865483,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153425,
+        "num": 153425,
+        "word": "俄罗斯部分地区海啸预警",
+        "onboard_time": 1753843523,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向世界青年和平大会致信#"
+    }
+  }
+}
