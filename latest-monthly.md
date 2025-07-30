@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 22:48:56
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 23:31:14
 </p>
 </blockquote>
 <p>
@@ -3351,6 +3351,12 @@ Jennie删掉和朴彩英的合照（热度：1128323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%23" target="weibo">
+疯狂动物城2（热度：1060721）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%A4%B1%E5%8E%BB%E4%BD%8F%E6%8C%81%E7%9A%84%E5%B0%91%E6%9E%97%E5%AF%BA%E6%88%92%E5%A4%87%E6%A3%AE%E4%B8%A5%23" target="weibo">
 突然失去住持的少林寺戒备森严（热度：1060284）
 </a>
@@ -3843,6 +3849,12 @@ Bin哥骗我（热度：979053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%80%E6%AC%A1%E6%8B%94%E7%89%9912%E9%A2%97%E7%A7%8D6%E9%A2%97%E5%90%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
+老人一次拔牙12颗种6颗后身亡（热度：975630）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%94%9F%E6%9C%80%E7%BE%8E%E4%B8%8A%E7%8F%AD%E7%85%A7%E8%B5%B0%E7%BA%A2%23" target="weibo">
 日本女生最美上班照走红（热度：973853）
 </a>
@@ -4031,12 +4043,6 @@ jump（热度：950362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%80%A7%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%23" target="weibo">
 媒体评武汉大学图书馆性骚扰事件（热度：948055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%80%E6%AC%A1%E6%8B%94%E7%89%9912%E9%A2%97%E7%A7%8D6%E9%A2%97%E5%90%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
-老人一次拔牙12颗种6颗后身亡（热度：947566）
 </a>
 </li>
 
@@ -4535,6 +4541,12 @@ K1373次列车上砸窗男子并未被拘留（热度：901265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%BB%91%E4%BA%BA%E8%AE%A1%E5%88%92%E6%9D%A5%E5%8D%8E%E4%BC%A0%E6%92%AD%E8%89%BE%E6%BB%8B%E7%97%85%23" target="weibo">
 英国黑人计划来华传播艾滋病（热度：883716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%B4%A8%E7%96%91%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E4%BD%95%E6%97%B6%E6%9F%A5%23" target="weibo">
+武大女生被质疑学术不端何时查（热度：882899）
 </a>
 </li>
 
@@ -5703,12 +5715,6 @@ T1对战AL（热度：778834）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%B4%A8%E7%96%91%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E4%BD%95%E6%97%B6%E6%9F%A5%23" target="weibo">
-武大女生被质疑学术不端何时查（热度：762374）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%86%8D%E5%A4%84%E7%90%86%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E8%BF%9D%E6%B3%95%E7%94%9F%E8%82%B2%E4%BA%8C%E5%AD%A9%23" target="weibo">
 不再处理黄杨钿甜父亲违法生育二孩（热度：761918）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战G2（热度：737123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E7%BE%8E%E7%94%B2%E5%92%8C%E4%B8%8D%E5%81%9A%E7%BE%8E%E7%94%B2%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
 做美甲和不做美甲的都沉默了（热度：735147）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E4%BA%94%E5%9C%BA%E8%B7%B3%E9%94%99%E5%9B%9B%E5%9C%BA%23" target="weibo">
-朴彩英五场跳错四场（热度：734871）
 </a>
 </li>
 

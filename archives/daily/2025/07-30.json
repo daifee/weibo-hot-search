@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753886936952,
+  "endTime": 1753889474814,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1060721,
+      "num": 1060721,
+      "word": "疯狂动物城2",
+      "onboard_time": 1753886785,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1052907,
       "num": 1052907,
       "word": "女生苦练化妆一个月的变化",
@@ -176,6 +184,14 @@
       "word": "男子开假装上班公司2个月40人来上班",
       "onboard_time": 1753857504,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 975630,
+      "num": 975630,
+      "word": "老人一次拔牙12颗种6颗后身亡",
+      "onboard_time": 1753884746,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -203,20 +219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 947566,
-      "num": 947566,
-      "word": "老人一次拔牙12颗种6颗后身亡",
-      "onboard_time": 1753884746,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 913179,
       "num": 913179,
       "word": "日本女子躲海啸驾车从30米悬崖坠亡",
       "onboard_time": 1753883785,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 882899,
+      "num": 732753,
+      "word": "武大女生被质疑学术不端何时查",
+      "onboard_time": 1753882825,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 879597,
@@ -281,14 +297,6 @@
       "onboard_time": 1753840103,
       "rank": 4,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 762374,
-      "num": 732753,
-      "word": "武大女生被质疑学术不端何时查",
-      "onboard_time": 1753882825,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 759764,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431979,
+      "num": 431979,
+      "word": "张元英开球直拍",
+      "onboard_time": 1753884746,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 431020,
       "num": 431020,
       "word": "全家一起跳操2月瘦了50多斤",
@@ -545,6 +561,14 @@
       "onboard_time": 1753855284,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 404734,
+      "num": 133478,
+      "word": "带状疱疹缠腰一圈意味着什么",
+      "onboard_time": 1753887745,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 403437,
@@ -595,8 +619,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 370396,
+      "num": 230895,
+      "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
+      "onboard_time": 1753887265,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367392,
-      "num": 920844,
+      "num": 1001949,
       "word": "育儿补贴发放渠道",
       "onboard_time": 1753859304,
       "rank": 11,
@@ -617,14 +649,6 @@
       "onboard_time": 1753875143,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360420,
-      "num": 360420,
-      "word": "张元英开球直拍",
-      "onboard_time": 1753884746,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 354559,
@@ -856,6 +880,14 @@
       "word": "教育局回应男孩高温天体测身亡",
       "onboard_time": 1753880662,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263780,
+      "num": 384458,
+      "word": "直击北京密云太师屯镇",
+      "onboard_time": 1753885885,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1305,14 +1337,6 @@
       "onboard_time": 1753868662,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204578,
-      "num": 384458,
-      "word": "直击北京密云太师屯镇",
-      "onboard_time": 1753885885,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204108,
@@ -2083,6 +2107,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 158263,
+      "num": 113715,
+      "word": "黄一鸣回应给孩子找后爸",
+      "onboard_time": 1753888823,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157857,
       "num": 157857,
       "word": "面包保存 冷冻",
@@ -2667,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131028,
+      "num": 131028,
+      "word": "老人以狗试毒蘑菇结果全家仍然中毒",
+      "onboard_time": 1753887685,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130514,
       "num": 130514,
       "word": "上海近岸海域将有3到5米巨浪",
@@ -2827,20 +2867,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123284,
+      "num": 123284,
+      "word": "疑似马凡舒驯服四肢视频流出",
+      "onboard_time": 1753887265,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122687,
       "num": 439990,
       "word": "成都欧米茄活动红气超标",
       "onboard_time": 1753864344,
       "rank": 17,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 121764,
-      "num": 121764,
-      "word": "疯狂动物城2",
-      "onboard_time": 1753886785,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 121746,
@@ -2891,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119258,
+      "num": 119258,
+      "word": "舞蹈生俩月瘦40斤致3个月没来例假",
+      "onboard_time": 1753884926,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115649,
       "num": 115649,
       "word": "猫用巨大的伊丽莎白圈向人类控诉",
@@ -2913,14 +2961,6 @@
       "onboard_time": 1753873882,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114278,
-      "num": 114278,
-      "word": "舞蹈生俩月瘦40斤致3个月没来例假",
-      "onboard_time": 1753884926,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113759,
@@ -3033,6 +3073,14 @@
       "onboard_time": 1753875323,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104209,
+      "num": 104209,
+      "word": "徐嘉余覃海洋张雨霏吴卿风接力银牌",
+      "onboard_time": 1753887564,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 103921,
@@ -3179,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92198,
+      "num": 92198,
+      "word": "130斤女生瘦到100斤需要多久",
+      "onboard_time": 1753888464,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 92036,
       "num": 306409,
       "word": "爱自己就很Tiffany",
@@ -3209,6 +3265,14 @@
       "onboard_time": 1753792282,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86423,
+      "num": 86423,
+      "word": "黎深今天也辛苦了",
+      "onboard_time": 1753887324,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 85424,
@@ -3459,6 +3523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56156,
+      "num": 92073,
+      "word": "上海迪士尼游客暴雨中撑伞游园",
+      "onboard_time": 1753889004,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55997,
       "num": 199328,
       "word": "小英一家小县城非主流恋爱",
@@ -3481,6 +3553,14 @@
       "onboard_time": 1753797265,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55136,
+      "num": 92180,
+      "word": "地震后4头鲸鱼被冲上日本海岸搁浅",
+      "onboard_time": 1753889004,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55124,
@@ -3529,6 +3609,14 @@
       "onboard_time": 1753791442,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46670,
+      "num": 113929,
+      "word": "去泰国旅游不要带无人机",
+      "onboard_time": 1753888585,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 45726,
@@ -3649,6 +3737,14 @@
       "onboard_time": 1753829057,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 26256,
+      "num": 89002,
+      "word": "乌允许60岁以上公民服役",
+      "onboard_time": 1753888884,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25815,
