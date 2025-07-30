@@ -1,0 +1,410 @@
+{
+  "runTime": 1753858744200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3452401,
+        "num": 3452401,
+        "word": "日本海啸",
+        "onboard_time": 1753844363,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1412291,
+        "num": 1412291,
+        "word": "海啸到达台湾浙江上海沿海时间",
+        "onboard_time": 1753849584,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29887,
+        "num": 1097466,
+        "word": "致敬暴雨中向险而行的身影",
+        "onboard_time": 1753837045,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 947397,
+        "num": 947397,
+        "word": "台湾海啸",
+        "onboard_time": 1753856904,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 664371,
+        "num": 664371,
+        "word": "海啸黄色警报发布",
+        "onboard_time": 1753847664,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650353,
+        "num": 650353,
+        "word": "十年前举报释永信的释延鲁去哪了",
+        "onboard_time": 1753846644,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586509,
+        "num": 586509,
+        "word": "日本北海道第一波海啸到达",
+        "onboard_time": 1753843103,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 559241,
+        "num": 559241,
+        "word": "请回答1988珍珠扮演者近照",
+        "onboard_time": 1753857623,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418422,
+        "num": 556190,
+        "word": "刘诗诗关晓彤两个生硬的北京人",
+        "onboard_time": 1753850125,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501130,
+        "num": 554227,
+        "word": "国新办发布会介绍育儿补贴情况",
+        "onboard_time": 1753857202,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 821448,
+        "num": 551481,
+        "word": "吉克隽逸因瘦不下去崩溃大哭",
+        "onboard_time": 1753853843,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530432,
+        "num": 547709,
+        "word": "育儿补贴制度及生育支持措施介绍",
+        "onboard_time": 1753856063,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692762,
+        "num": 543234,
+        "word": "真实记录鬼压床的时刻",
+        "onboard_time": 1753848685,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 540392,
+        "num": 540392,
+        "word": "俄罗斯地震",
+        "onboard_time": 1753840103,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 491980,
+        "num": 491980,
+        "word": "赵丽颖带儿子逛街看展",
+        "onboard_time": 1753855523,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396532,
+        "num": 396532,
+        "word": "哀牢山发现7株冥界之花",
+        "onboard_time": 1753833022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161076,
+        "num": 394652,
+        "word": "孙颖莎拼好饭",
+        "onboard_time": 1753857324,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393817,
+        "num": 393817,
+        "word": "王玉雯怎么和谁都是发小",
+        "onboard_time": 1753850426,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300062,
+        "num": 382798,
+        "word": "刘宇宁几小时没见又长高了",
+        "onboard_time": 1753854204,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255363,
+        "num": 375681,
+        "word": "育儿补贴不分一孩二孩或者三孩",
+        "onboard_time": 1753857684,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254996,
+        "num": 372787,
+        "word": "育儿补贴在哪申领",
+        "onboard_time": 1753857924,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372134,
+        "num": 372134,
+        "word": "上海浦东计划避险转移11万人",
+        "onboard_time": 1753845384,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363176,
+        "num": 363176,
+        "word": "俄地震后鲸鱼被冲上日本海滩",
+        "onboard_time": 1753855284,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317575,
+        "num": 317575,
+        "word": "亚洲第一渣男正式复出",
+        "onboard_time": 1753845204,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315255,
+        "num": 315255,
+        "word": "男子开假装上班公司2个月40人来上班",
+        "onboard_time": 1753857504,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297205,
+        "num": 297205,
+        "word": "银行存了35万取款时被清零了",
+        "onboard_time": 1753842981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207613,
+        "num": 294771,
+        "word": "毕业照给我拍成刘亦菲了",
+        "onboard_time": 1753856904,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193112,
+        "num": 288352,
+        "word": "心动8女二有种气血充足的美",
+        "onboard_time": 1753858463,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180586,
+        "num": 283011,
+        "word": "时代少年团输赢写脸上",
+        "onboard_time": 1753854985,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142551,
+        "num": 282607,
+        "word": "祝绪丹扫腿舞",
+        "onboard_time": 1753856063,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278183,
+        "num": 278183,
+        "word": "余景天 再造谣给你们找个老嫂子",
+        "onboard_time": 1753849344,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247857,
+        "num": 247857,
+        "word": "月入1万已经能过得非常好了",
+        "onboard_time": 1753855106,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247694,
+        "num": 247694,
+        "word": "二十届四中全会10月召开",
+        "onboard_time": 1753857982,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241724,
+        "num": 241724,
+        "word": "8月下旬陆续开放育儿补贴申领",
+        "onboard_time": 1753858283,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220836,
+        "num": 220836,
+        "word": "二十届四中全会",
+        "onboard_time": 1753856962,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209802,
+        "num": 209802,
+        "word": "今年育儿补贴补助资金预算900亿元左右",
+        "onboard_time": 1753858162,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206699,
+        "num": 206699,
+        "word": "初步安排预算900亿元育儿补贴",
+        "onboard_time": 1753857802,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201348,
+        "num": 201348,
+        "word": "学会剩菜是一个很重要的能力",
+        "onboard_time": 1753857444,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55997,
+        "num": 199328,
+        "word": "小英一家小县城非主流恋爱",
+        "onboard_time": 1753857742,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103158,
+        "num": 198546,
+        "word": "贾静雯一家夏威夷遇海啸",
+        "onboard_time": 1753858463,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198404,
+        "num": 198404,
+        "word": "巨浪直扑日本海岸线",
+        "onboard_time": 1753854504,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192575,
+        "num": 192575,
+        "word": "酱子贝 我写的角色都没有原型",
+        "onboard_time": 1753852463,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 191156,
+        "num": 191156,
+        "word": "王曼昱 巴黎世家",
+        "onboard_time": 1753856783,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 187124,
+        "num": 187124,
+        "word": "俄失事客机遇难中国公民身份已确认",
+        "onboard_time": 1753858403,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182724,
+        "num": 182724,
+        "word": "巴基斯坦一女子被亲弟弟荣誉处决",
+        "onboard_time": 1753845743,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173496,
+        "num": 173496,
+        "word": "堪察加东岸远海地震震级修正为8.7级",
+        "onboard_time": 1753840044,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169253,
+        "num": 169253,
+        "word": "俄罗斯部分地区海啸预警",
+        "onboard_time": 1753843523,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 164786,
+        "num": 164786,
+        "word": "光与夜之恋 肯德基",
+        "onboard_time": 1753850246,
+        "rank": 47,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 154849,
+        "num": 154849,
+        "word": "30岁存了60万的真实生活",
+        "onboard_time": 1753855703,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131475,
+        "num": 145436,
+        "word": "西瓜最优雅的吃法",
+        "onboard_time": 1753858584,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛救灾工作作出重要指示#"
+    }
+  }
+}

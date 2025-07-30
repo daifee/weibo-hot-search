@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 14:43:06
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/30 14:59:04
 </p>
 </blockquote>
 <p>
@@ -3957,6 +3957,12 @@ jump（热度：950362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%95%B8%23" target="weibo">
+台湾海啸（热度：947397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%B3%95%E4%B9%8B%E5%90%8D%E6%9B%B4%E6%96%B0%E4%BA%86%23" target="weibo">
 以法之名更新了（热度：944944）
 </a>
@@ -6005,12 +6011,6 @@ K1373次列车亲历者称当时已有人中暑（热度：734592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E4%B8%8D%E6%94%AF%E6%8C%81%E5%BC%80%E9%99%A4%E5%87%BA%E8%BD%A8Zeus%E5%A5%B3%E7%94%9F%23" target="weibo">
 胡锡进不支持开除出轨Zeus女生（热度：727856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231979%E5%B9%B4%E9%AD%94%E7%AB%A5%E8%B6%85%E7%94%9F%23" target="weibo">
-1979年魔童超生（热度：727722）
 </a>
 </li>
 

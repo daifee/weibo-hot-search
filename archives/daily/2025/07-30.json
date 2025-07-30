@@ -1,6 +1,6 @@
 {
   "startTime": 1753806955247,
-  "endTime": 1753857786489,
+  "endTime": 1753858744200,
   "band_list": [
     {
       "raw_hot": 9937784,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 947397,
+      "num": 947397,
+      "word": "台湾海啸",
+      "onboard_time": 1753856904,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 879597,
       "num": 879597,
       "word": "十年前举报释永信的释延鲁去哪了",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 856194,
-      "num": 477324,
+      "num": 551481,
       "word": "吉克隽逸因瘦不下去崩溃大哭",
       "onboard_time": 1753853843,
       "rank": 22,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 602292,
-      "num": 462222,
+      "num": 491980,
       "word": "赵丽颖带儿子逛街看展",
       "onboard_time": 1753855523,
       "rank": 12,
@@ -203,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559241,
+      "num": 559241,
+      "word": "请回答1988珍珠扮演者近照",
+      "onboard_time": 1753857623,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 530432,
+      "num": 547709,
+      "word": "育儿补贴制度及生育支持措施介绍",
+      "onboard_time": 1753856063,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 508917,
       "num": 508917,
       "word": "张予曦自曝曾遭多名男生霸凌",
@@ -217,6 +241,14 @@
       "onboard_time": 1753834705,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501130,
+      "num": 554227,
+      "word": "国新办发布会介绍育儿补贴情况",
+      "onboard_time": 1753857202,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 450421,
@@ -265,14 +297,6 @@
       "onboard_time": 1753855284,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 403749,
-      "num": 487453,
-      "word": "育儿补贴制度及生育支持措施介绍",
-      "onboard_time": 1753856063,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403246,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 347823,
-      "num": 347823,
+      "num": 382798,
       "word": "刘宇宁几小时没见又长高了",
       "onboard_time": 1753854204,
       "rank": 18,
@@ -360,6 +384,14 @@
       "word": "卫健委回应树林发现大量被丢弃药品",
       "onboard_time": 1753808060,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315255,
+      "num": 315255,
+      "word": "男子开假装上班公司2个月40人来上班",
+      "onboard_time": 1753857504,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -435,6 +467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255363,
+      "num": 375681,
+      "word": "育儿补贴不分一孩二孩或者三孩",
+      "onboard_time": 1753857684,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 254996,
+      "num": 372787,
+      "word": "育儿补贴在哪申领",
+      "onboard_time": 1753857924,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 254334,
       "num": 254334,
       "word": "iG对阵BLG的比赛将延期举行",
@@ -467,11 +515,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248332,
-      "num": 248332,
-      "word": "国新办发布会介绍育儿补贴情况",
-      "onboard_time": 1753857202,
-      "rank": 23,
+      "raw_hot": 247857,
+      "num": 247857,
+      "word": "月入1万已经能过得非常好了",
+      "onboard_time": 1753855106,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 247694,
+      "num": 247694,
+      "word": "二十届四中全会10月召开",
+      "onboard_time": 1753857982,
+      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -491,20 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241656,
-      "num": 241656,
-      "word": "台湾海啸",
-      "onboard_time": 1753856904,
-      "rank": 28,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 236272,
-      "num": 236272,
-      "word": "月入1万已经能过得非常好了",
-      "onboard_time": 1753855106,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 241724,
+      "num": 241724,
+      "word": "8月下旬陆续开放育儿补贴申领",
+      "onboard_time": 1753858283,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231757,
@@ -579,6 +627,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209802,
+      "num": 209802,
+      "word": "今年育儿补贴补助资金预算900亿元左右",
+      "onboard_time": 1753858162,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207613,
+      "num": 294771,
+      "word": "毕业照给我拍成刘亦菲了",
+      "onboard_time": 1753856904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207389,
       "num": 176095,
       "word": "王楚钦孙颖莎巴黎混双夺金一周年",
@@ -593,6 +657,14 @@
       "onboard_time": 1753846344,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206699,
+      "num": 206699,
+      "word": "初步安排预算900亿元育儿补贴",
+      "onboard_time": 1753857802,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206418,
@@ -651,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201348,
+      "num": 201348,
+      "word": "学会剩菜是一个很重要的能力",
+      "onboard_time": 1753857444,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201321,
       "num": 201321,
       "word": "孙芮官宣和丝芭不续约",
@@ -707,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193796,
-      "num": 247533,
-      "word": "毕业照给我拍成刘亦菲了",
-      "onboard_time": 1753856904,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193774,
       "num": 193774,
       "word": "郑希怡女儿缩小版的郑希怡",
@@ -724,10 +796,18 @@
     },
     {
       "raw_hot": 193133,
-      "num": 246137,
+      "num": 283011,
       "word": "时代少年团输赢写脸上",
       "onboard_time": 1753854985,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193112,
+      "num": 288352,
+      "word": "心动8女二有种气血充足的美",
+      "onboard_time": 1753858463,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -737,6 +817,14 @@
       "onboard_time": 1753855703,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191156,
+      "num": 191156,
+      "word": "王曼昱 巴黎世家",
+      "onboard_time": 1753856783,
+      "rank": 41,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 190952,
@@ -787,20 +875,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187124,
+      "num": 187124,
+      "word": "俄失事客机遇难中国公民身份已确认",
+      "onboard_time": 1753858403,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 187106,
       "num": 187106,
       "word": "日本受海啸影响暂停核污染水排海",
       "onboard_time": 1753853363,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 186672,
-      "num": 186672,
-      "word": "王曼昱 巴黎世家",
-      "onboard_time": 1753856783,
-      "rank": 41,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 186346,
@@ -812,7 +900,7 @@
     },
     {
       "raw_hot": 186185,
-      "num": 244027,
+      "num": 282607,
       "word": "祝绪丹扫腿舞",
       "onboard_time": 1753856063,
       "rank": 26,
@@ -931,28 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178546,
-      "num": 178546,
-      "word": "学会剩菜是一个很重要的能力",
-      "onboard_time": 1753857444,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178189,
       "num": 229610,
       "word": "演唱会出轨被拍男主起诉酷玩乐队",
       "onboard_time": 1753842503,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176779,
-      "num": 176779,
-      "word": "男子开假装上班公司2个月40人来上班",
-      "onboard_time": 1753857504,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176683,
@@ -1001,14 +1073,6 @@
       "onboard_time": 1753852044,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169332,
-      "num": 202096,
-      "word": "请回答1988珍珠扮演者近照",
-      "onboard_time": 1753857623,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 168539,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1753840641,
       "rank": 33,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 161076,
+      "num": 454366,
+      "word": "孙颖莎拼好饭",
+      "onboard_time": 1753857324,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 160604,
@@ -1371,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131475,
+      "num": 145436,
+      "word": "西瓜最优雅的吃法",
+      "onboard_time": 1753858584,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129702,
       "num": 129702,
       "word": "十四五移民管理工作发展成就",
@@ -1409,14 +1489,6 @@
       "onboard_time": 1753842383,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127583,
-      "num": 454366,
-      "word": "孙颖莎拼好饭",
-      "onboard_time": 1753857324,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 127294,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1753839743,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 103158,
+      "num": 198546,
+      "word": "贾静雯一家夏威夷遇海啸",
+      "onboard_time": 1753858463,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 102907,
@@ -1851,20 +1931,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55997,
+      "num": 199328,
+      "word": "小英一家小县城非主流恋爱",
+      "onboard_time": 1753857742,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 55640,
       "num": 81508,
       "word": "峨眉山骡子负重爬石阶引争议",
       "onboard_time": 1753804883,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55621,
-      "num": 194273,
-      "word": "育儿补贴不分一孩二孩或者三孩",
-      "onboard_time": 1753857684,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55315,
@@ -1985,14 +2065,6 @@
       "onboard_time": 1753813576,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20263,
-      "num": 190974,
-      "word": "小英一家小县城非主流恋爱",
-      "onboard_time": 1753857742,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 19097,
