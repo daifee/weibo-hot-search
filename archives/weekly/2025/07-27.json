@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753900849525,
+  "endTime": 1753901728344,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -13612,7 +13612,7 @@
     },
     {
       "raw_hot": 33992,
-      "num": 33992,
+      "num": 37844,
       "word": "美国偶遇蔡徐坤合照",
       "onboard_time": 1753897517,
       "rank": 25,
@@ -13875,6 +13875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23896,
+      "num": 37785,
+      "word": "我们是长大了不是发财了",
+      "onboard_time": 1753899856,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23869,
       "num": 37714,
       "word": "檀健次刀马手势舞",
@@ -13913,14 +13921,6 @@
       "onboard_time": 1753641376,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 22527,
-      "num": 32701,
-      "word": "我们是长大了不是发财了",
-      "onboard_time": 1753899856,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 22494,
@@ -14017,6 +14017,14 @@
       "onboard_time": 1753562174,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19684,
+      "num": 37762,
+      "word": "李雪琴疑似腰伤",
+      "onboard_time": 1753901476,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 19157,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753900849525,
+  "endTime": 1753901728344,
   "band_list": [
     {
       "raw_hot": 775778,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 33992,
-      "num": 33992,
+      "num": 37844,
       "word": "美国偶遇蔡徐坤合照",
       "onboard_time": 1753897517,
       "rank": 25,
@@ -491,20 +491,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23896,
+      "num": 37785,
+      "word": "我们是长大了不是发财了",
+      "onboard_time": 1753899856,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23864,
-      "num": 32716,
+      "num": 37815,
       "word": "锦月如歌",
       "onboard_time": 1753895779,
       "rank": 38,
       "category": "剧集"
     },
     {
-      "raw_hot": 22527,
-      "num": 32701,
-      "word": "我们是长大了不是发财了",
-      "onboard_time": 1753899856,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 19684,
+      "num": 37762,
+      "word": "李雪琴疑似腰伤",
+      "onboard_time": 1753901476,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17215,
+      "num": 37731,
+      "word": "定风波",
+      "onboard_time": 1753901656,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 8586,
