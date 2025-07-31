@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753945052565,
+  "endTime": 1753947067871,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1684862,
-      "num": 376719,
+      "num": 416697,
       "word": "李明德砸车事件车主获赔20万",
       "onboard_time": 1753942824,
       "rank": 6,
@@ -107,6 +107,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 791594,
+      "num": 446998,
+      "word": "电影院座椅 虫卵",
+      "onboard_time": 1753944568,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 780982,
+      "num": 184907,
+      "word": "马天宇",
+      "onboard_time": 1753945704,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 775778,
       "num": 868030,
       "word": "疯狂动物城2",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 693067,
-      "num": 364633,
+      "num": 398495,
       "word": "短剧的真情侣居然比营业的多",
       "onboard_time": 1753939042,
       "rank": 24,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 673015,
-      "num": 319931,
+      "num": 413875,
       "word": "陈赫让鹿晗帮买两份小龙虾",
       "onboard_time": 1753942343,
       "rank": 12,
@@ -227,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 548710,
+      "num": 404467,
+      "word": "孟子义百度百科年龄被改",
+      "onboard_time": 1753944746,
+      "rank": 16,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 531219,
       "num": 531219,
       "word": "海啸",
@@ -249,6 +273,14 @@
       "onboard_time": 1753926503,
       "rank": 12,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 520571,
+      "num": 400965,
+      "word": "半退圈女演员因利剑玫瑰翻红",
+      "onboard_time": 1753944984,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 520341,
@@ -321,6 +353,14 @@
       "onboard_time": 1753937906,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 417538,
+      "num": 417538,
+      "word": "汤家凤称武大应撤销对肖某某处分",
+      "onboard_time": 1753944147,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409142,
@@ -409,6 +449,14 @@
       "onboard_time": 1753932563,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 336325,
+      "num": 336325,
+      "word": "胡一天时隔700天再进组",
+      "onboard_time": 1753945406,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 324390,
@@ -505,14 +553,6 @@
       "onboard_time": 1753934063,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275359,
-      "num": 275359,
-      "word": "孟子义百度百科年龄被改",
-      "onboard_time": 1753944746,
-      "rank": 16,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 271630,
@@ -619,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216391,
+      "num": 184295,
+      "word": "王俊凯CL",
+      "onboard_time": 1753945345,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212658,
       "num": 212658,
       "word": "台风",
@@ -643,12 +691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205058,
-      "num": 303571,
-      "word": "汤家凤称武大应撤销对肖某某处分",
-      "onboard_time": 1753944147,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 208351,
+      "num": 184112,
+      "word": "杨洋金晨双舞蹈生打戏",
+      "onboard_time": 1753945885,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 204078,
@@ -689,6 +737,14 @@
       "onboard_time": 1753940063,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 197177,
+      "num": 170391,
+      "word": "美国婴儿尝试中国婴儿的食物",
+      "onboard_time": 1753946724,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 195630,
@@ -755,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186328,
+      "num": 171669,
+      "word": "杨洋这几集真的演爽了",
+      "onboard_time": 1753946305,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185546,
       "num": 185546,
       "word": "老外写了首关于731罪行的英文歌",
@@ -776,6 +840,14 @@
       "word": "猫猫就这样暗示主人开空调",
       "onboard_time": 1753937784,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 178671,
+      "num": 178671,
+      "word": "不同存款的人发工资的表现",
+      "onboard_time": 1753944865,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -835,6 +907,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171969,
+      "num": 171969,
+      "word": "为什么过桥米线店越来越少了",
+      "onboard_time": 1753946606,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171321,
+      "num": 408505,
+      "word": "美军证实一架F35战机坠毁",
+      "onboard_time": 1753944686,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171003,
       "num": 171003,
       "word": "整治拉踩互撕等体育饭圈行为",
@@ -867,6 +955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 167898,
+      "num": 167898,
+      "word": "很意外但是易烊千玺的话很合理",
+      "onboard_time": 1753945166,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167726,
       "num": 210467,
       "word": "河北兴隆强降雨8人遇难18人失联",
@@ -881,6 +977,14 @@
       "onboard_time": 1753939884,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166604,
+      "num": 166604,
+      "word": "日本警方正抓捕4名袭击者",
+      "onboard_time": 1753946904,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 165482,
@@ -915,12 +1019,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159700,
-      "num": 159700,
-      "word": "电影院座椅 虫卵",
-      "onboard_time": 1753944568,
-      "rank": 28,
+      "raw_hot": 159933,
+      "num": 159933,
+      "word": "男孩在商场拽母亲衣领",
+      "onboard_time": 1753946064,
+      "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159182,
+      "num": 159182,
+      "word": "花海脑子里全是钎宝说我是猪",
+      "onboard_time": 1753946004,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 158642,
@@ -929,6 +1041,22 @@
       "onboard_time": 1753939823,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 156715,
+      "num": 156715,
+      "word": "应采儿嘻嘻jasper不嘻嘻",
+      "onboard_time": 1753944568,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156457,
+      "num": 156457,
+      "word": "缅甸决定解除全国紧急状态",
+      "onboard_time": 1753944207,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155804,
@@ -979,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149190,
-      "num": 149190,
-      "word": "美军证实一架F35战机坠毁",
-      "onboard_time": 1753944686,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148870,
       "num": 148870,
       "word": "这才是四大国乙",
@@ -1001,6 +1121,14 @@
       "onboard_time": 1753935143,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145515,
+      "num": 145515,
+      "word": "一条plog告别七月",
+      "onboard_time": 1753945824,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 144263,
@@ -1027,20 +1155,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142416,
-      "num": 142416,
-      "word": "应采儿嘻嘻jasper不嘻嘻",
-      "onboard_time": 1753944568,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142282,
       "num": 142282,
       "word": "男子去世继女继承遗产亲生女反对",
       "onboard_time": 1753941142,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142069,
+      "num": 142069,
+      "word": "撒贝宁 我一直以为你是明道",
+      "onboard_time": 1753946844,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 141978,
@@ -1243,14 +1371,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 125302,
-      "num": 125302,
-      "word": "不同存款的人发工资的表现",
-      "onboard_time": 1753944865,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125090,
       "num": 125090,
       "word": "我不会被男人骗了因为周也是女人",
@@ -1291,12 +1411,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 118662,
-      "num": 135763,
-      "word": "缅甸决定解除全国紧急状态",
-      "onboard_time": 1753944207,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 121640,
+      "num": 121640,
+      "word": "周也丞磊水下吻戏",
+      "onboard_time": 1753945285,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120923,
+      "num": 120923,
+      "word": "A股半日放量562亿元",
+      "onboard_time": 1753945946,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 119207,
+      "num": 119207,
+      "word": "冲浪人自带一种向上的生命力",
+      "onboard_time": 1753946904,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 117939,
@@ -1785,14 +1921,6 @@
       "onboard_time": 1753895119,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49740,
-      "num": 131808,
-      "word": "半退圈女演员因利剑玫瑰翻红",
-      "onboard_time": 1753944984,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 47179,
