@@ -1,0 +1,410 @@
+{
+  "runTime": 1753993907296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 239485,
+        "num": 239485,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84255,
+        "num": 84255,
+        "word": "佛山突发公共卫生事件三级响应启动",
+        "onboard_time": 1753973184,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1053,
+        "num": 80164,
+        "word": "我军新型潜艇远航任务画面首曝光",
+        "onboard_time": 1753922663,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78714,
+        "num": 78714,
+        "word": "你是真的",
+        "onboard_time": 1753986196,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75089,
+        "num": 75089,
+        "word": "张俪道歉",
+        "onboard_time": 1753964123,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57326,
+        "num": 57326,
+        "word": "外嫁女户籍仍在本村拆迁补偿却没份",
+        "onboard_time": 1753979362,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52726,
+        "num": 52726,
+        "word": "人民军队向前向前向前",
+        "onboard_time": 1753980140,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52139,
+        "num": 52139,
+        "word": "张碧晨爱的史诗交响演唱会",
+        "onboard_time": 1753974683,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46625,
+        "num": 46625,
+        "word": "美国医生边手术边玩游戏致患者死亡",
+        "onboard_time": 1753988594,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46247,
+        "num": 46247,
+        "word": "央视曝光票务平台退款难乱象",
+        "onboard_time": 1753975882,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 44805,
+        "num": 44805,
+        "word": "冷冻31年胚胎孕育婴儿诞生",
+        "onboard_time": 1753972764,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40027,
+        "num": 40027,
+        "word": "多伦多市中心几乎全是印度人",
+        "onboard_time": 1753968864,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34896,
+        "num": 34896,
+        "word": "黄子韬卸任公司执行董事职务",
+        "onboard_time": 1753964183,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31514,
+        "num": 31514,
+        "word": "湖南一女子30楼坠落奇迹生还",
+        "onboard_time": 1753973723,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30812,
+        "num": 30812,
+        "word": "敖瑞鹏工作室发文道歉",
+        "onboard_time": 1753963643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29074,
+        "num": 29074,
+        "word": "原神超话",
+        "onboard_time": 1753980919,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29017,
+        "num": 29017,
+        "word": "刘芸晒照帮儿子挽回颜值形象",
+        "onboard_time": 1753972105,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26706,
+        "num": 26706,
+        "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+        "onboard_time": 1753964302,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25340,
+        "num": 25340,
+        "word": "哈尔滨发生2.4级地震",
+        "onboard_time": 1753986796,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21210,
+        "num": 25256,
+        "word": "by2说要勇于撇清关系",
+        "onboard_time": 1753971385,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81615,
+        "num": 24742,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43069,
+        "num": 24151,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38091,
+        "num": 23885,
+        "word": "12岁女孩因不良用眼习惯捉出几十条虫",
+        "onboard_time": 1753971444,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23668,
+        "num": 23668,
+        "word": "陈芋汐女子10米台夺冠",
+        "onboard_time": 1753961663,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22442,
+        "num": 22442,
+        "word": "14岁女孩摆摊卖玩具25天赚2000元",
+        "onboard_time": 1753974563,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21677,
+        "num": 21677,
+        "word": "佛山基孔肯雅热目前病例均为轻症",
+        "onboard_time": 1753988055,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21590,
+        "num": 21590,
+        "word": "理想邀请乘龙卡车直播对撞",
+        "onboard_time": 1753972584,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19344,
+        "num": 21093,
+        "word": "密室大逃脱",
+        "onboard_time": 1753985236,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19201,
+        "num": 21068,
+        "word": "辛迪瑞拉",
+        "onboard_time": 1753984817,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18981,
+        "num": 21066,
+        "word": "赵立坚推介成毅赴红尘",
+        "onboard_time": 1753976423,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21064,
+        "num": 21064,
+        "word": "哈尔滨震感",
+        "onboard_time": 1753975824,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20313,
+        "num": 20313,
+        "word": "中国军人在安全感就在",
+        "onboard_time": 1753979660,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19161,
+        "num": 19161,
+        "word": "刘亦菲本科毕业论文答辩",
+        "onboard_time": 1753955124,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19035,
+        "num": 19035,
+        "word": "陈芋汐拥抱教练泪洒赛场",
+        "onboard_time": 1753991534,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18825,
+        "num": 18825,
+        "word": "全身烧伤超9成男生治疗已花费300万",
+        "onboard_time": 1753972286,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18621,
+        "num": 18621,
+        "word": "朱孝天称台湾就是一个省希望赶快统一",
+        "onboard_time": 1753969343,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18367,
+        "num": 18367,
+        "word": "利剑玫瑰 内鬼",
+        "onboard_time": 1753965983,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18157,
+        "num": 18365,
+        "word": "宋浩然独自带女儿回十堰办周岁宴",
+        "onboard_time": 1753965564,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17697,
+        "num": 18365,
+        "word": "国防部祝战友们节日快乐",
+        "onboard_time": 1753982958,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18013,
+        "num": 18364,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1753960463,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16474,
+        "num": 18363,
+        "word": "室友电瓶爆燃伤者父亲称已不期待道歉",
+        "onboard_time": 1753979481,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16198,
+        "num": 18362,
+        "word": "加沙男童领食物道谢后即遭射杀",
+        "onboard_time": 1753955003,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15962,
+        "num": 18361,
+        "word": "改掉这些习惯后肚子变小了",
+        "onboard_time": 1753965084,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14917,
+        "num": 18359,
+        "word": "杨幂芭莎神图的诞生",
+        "onboard_time": 1753982658,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 14725,
+        "num": 18358,
+        "word": "航仔回复让杨洋替演阔夫",
+        "onboard_time": 1753976181,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14203,
+        "num": 18358,
+        "word": "沙特一游乐场大摆锤断裂致23人受伤",
+        "onboard_time": 1753973664,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13974,
+        "num": 18357,
+        "word": "杨迪错过奔跑吧第一季邀请",
+        "onboard_time": 1753973304,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13897,
+        "num": 18354,
+        "word": "得多馋才能想到这些美食配方",
+        "onboard_time": 1753987995,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13129,
+        "num": 18354,
+        "word": "短片守护献给最可爱的人",
+        "onboard_time": 1753990155,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 13119,
+        "num": 18352,
+        "word": "田曦薇的七月plog",
+        "onboard_time": 1753993154,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署通令给2个单位5名个人记功#"
+    }
+  }
+}
