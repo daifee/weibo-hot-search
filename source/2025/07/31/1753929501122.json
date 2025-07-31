@@ -1,0 +1,410 @@
+{
+  "runTime": 1753929501122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1078795,
+        "num": 1172607,
+        "word": "2024年结婚登记610.6万对",
+        "onboard_time": 1753919962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902608,
+        "num": 902608,
+        "word": "藏海传导演因为肖战长胖30斤",
+        "onboard_time": 1753928003,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10762,
+        "num": 739960,
+        "word": "8月下旬陆续开放育儿补贴申领",
+        "onboard_time": 1753858283,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722787,
+        "num": 722787,
+        "word": "留几手回应葛夕新恋情不能完全接受",
+        "onboard_time": 1753921943,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 635767,
+        "num": 635767,
+        "word": "太平洋岛国即将被海淹没",
+        "onboard_time": 1753918039,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 563550,
+        "num": 563550,
+        "word": "竹节草",
+        "onboard_time": 1753923322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527706,
+        "num": 527706,
+        "word": "12岁小孩姐让整个游泳馆沸腾",
+        "onboard_time": 1753924222,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527348,
+        "num": 527348,
+        "word": "夏断食一个月瘦了30斤",
+        "onboard_time": 1753926503,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 520341,
+        "num": 520341,
+        "word": "行程图",
+        "onboard_time": 1753928003,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482786,
+        "num": 482786,
+        "word": "新疆出现罕见白色藏羚羊",
+        "onboard_time": 1753920681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482470,
+        "num": 482470,
+        "word": "黄一鸣想让女儿出国留学",
+        "onboard_time": 1753927102,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 393750,
+        "num": 393750,
+        "word": "面试为什么要问父母工作信息",
+        "onboard_time": 1753915816,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173895,
+        "num": 391690,
+        "word": "建军98周年主题曲山河守望",
+        "onboard_time": 1753928241,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391277,
+        "num": 391277,
+        "word": "疯狂动物城2",
+        "onboard_time": 1753886785,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357584,
+        "num": 357584,
+        "word": "酱子贝再回应",
+        "onboard_time": 1753927823,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 357153,
+        "num": 357153,
+        "word": "中国游客在日本地铁遇骚扰",
+        "onboard_time": 1753927043,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 309380,
+        "num": 309380,
+        "word": "向太说郭碧婷得管三孩其中一个是向佐",
+        "onboard_time": 1753889604,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307788,
+        "num": 307788,
+        "word": "心动的信号徐如蓝",
+        "onboard_time": 1753927643,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279099,
+        "num": 279099,
+        "word": "我军发射洲际弹道导弹独家披露",
+        "onboard_time": 1753921943,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252021,
+        "num": 252021,
+        "word": "美国与韩国达成贸易协议",
+        "onboard_time": 1753921823,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212567,
+        "num": 212567,
+        "word": "佛山释放不咬人蚊子捕食咬人蚊子",
+        "onboard_time": 1753890085,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204381,
+        "num": 204381,
+        "word": "带状疱疹缠腰一圈意味着什么",
+        "onboard_time": 1753887745,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194046,
+        "num": 194046,
+        "word": "U21篮球赛爆发大规模冲突",
+        "onboard_time": 1753929201,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193871,
+        "num": 193871,
+        "word": "去年我国25到29岁结婚人数最多",
+        "onboard_time": 1753926503,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178647,
+        "num": 178647,
+        "word": "毛茸茸的简自豪",
+        "onboard_time": 1753928362,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175452,
+        "num": 175452,
+        "word": "才知道释小龙是王宝强师叔",
+        "onboard_time": 1753914075,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174609,
+        "num": 174609,
+        "word": "乘警回应给穿吊带女乘客发提示卡",
+        "onboard_time": 1753889844,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144109,
+        "num": 167266,
+        "word": "女生长得像车银优是什么体验",
+        "onboard_time": 1753922002,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141850,
+        "num": 165673,
+        "word": "时代少年团七个大SD",
+        "onboard_time": 1753928900,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31350,
+        "num": 165649,
+        "word": "韩驻中美日俄大使首次同时空缺",
+        "onboard_time": 1753929082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165638,
+        "num": 165638,
+        "word": "老外写了首关于731罪行的英文歌",
+        "onboard_time": 1753926322,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165482,
+        "num": 165482,
+        "word": "新加坡成人玩具商被曝安全漏洞",
+        "onboard_time": 1753927823,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157380,
+        "num": 157380,
+        "word": "分享欲其实是一种情绪霸凌",
+        "onboard_time": 1753895659,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141414,
+        "num": 153373,
+        "word": "歌手歌单",
+        "onboard_time": 1753924822,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150890,
+        "num": 150890,
+        "word": "七月最后一天",
+        "onboard_time": 1753917980,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147311,
+        "num": 147311,
+        "word": "董璇小酒窝 i人妈妈和她的e人女儿",
+        "onboard_time": 1753929262,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144768,
+        "num": 144768,
+        "word": "美国将对进口铜产品征收50%关税",
+        "onboard_time": 1753921823,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142642,
+        "num": 142642,
+        "word": "深圳暴雨",
+        "onboard_time": 1753918521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131941,
+        "num": 131941,
+        "word": "这下轮到王星越请苍天辨忠奸了",
+        "onboard_time": 1753924283,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131296,
+        "num": 131296,
+        "word": "正式确诊为痣性恋",
+        "onboard_time": 1753890144,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119582,
+        "num": 119582,
+        "word": "日本女子躲海啸驾车从30米悬崖坠亡",
+        "onboard_time": 1753883785,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117841,
+        "num": 117841,
+        "word": "田柾国又纹身了",
+        "onboard_time": 1753923681,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113360,
+        "num": 113360,
+        "word": "凡人修仙传第10集开挂",
+        "onboard_time": 1753923503,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112998,
+        "num": 112998,
+        "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
+        "onboard_time": 1753887265,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112908,
+        "num": 112908,
+        "word": "整治拉踩互撕等体育饭圈行为",
+        "onboard_time": 1753927823,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110668,
+        "num": 110668,
+        "word": "8月起现金买黄金超过10万需上报",
+        "onboard_time": 1753927762,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108482,
+        "num": 108482,
+        "word": "川渝人出远门最放心不下的东西",
+        "onboard_time": 1753926202,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107954,
+        "num": 107954,
+        "word": "女乘客说高铁上收到小卡片暖到了",
+        "onboard_time": 1753926503,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106714,
+        "num": 106714,
+        "word": "第一次对蛋糕失去食欲",
+        "onboard_time": 1753924762,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99961,
+        "num": 99961,
+        "word": "智利发布海啸红色预警",
+        "onboard_time": 1753928661,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
