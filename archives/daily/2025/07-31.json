@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753947067871,
+  "endTime": 1753947942490,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1008031,
+      "num": 400965,
+      "word": "半退圈女演员因利剑玫瑰翻红",
+      "onboard_time": 1753944984,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 938210,
       "num": 728941,
       "word": "留几手回应葛夕新恋情不能完全接受",
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 887897,
+      "num": 202633,
+      "word": "马天宇",
+      "onboard_time": 1753945704,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841425,
       "num": 997978,
       "word": "日本海啸",
@@ -107,20 +123,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 791594,
+      "raw_hot": 794435,
       "num": 446998,
       "word": "电影院座椅 虫卵",
       "onboard_time": 1753944568,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 780982,
-      "num": 184907,
-      "word": "马天宇",
-      "onboard_time": 1753945704,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 775778,
@@ -275,14 +283,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 520571,
-      "num": 400965,
-      "word": "半退圈女演员因利剑玫瑰翻红",
-      "onboard_time": 1753944984,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 520341,
       "num": 520341,
       "word": "行程图",
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457919,
+      "num": 417538,
+      "word": "汤家凤称武大应撤销对肖某某处分",
+      "onboard_time": 1753944147,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448868,
       "num": 217558,
       "word": "纪凌尘 你们俩睡一块吗",
@@ -353,14 +361,6 @@
       "onboard_time": 1753937906,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 417538,
-      "num": 417538,
-      "word": "汤家凤称武大应撤销对肖某某处分",
-      "onboard_time": 1753944147,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409142,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360269,
+      "num": 336325,
+      "word": "胡一天时隔700天再进组",
+      "onboard_time": 1753945406,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357584,
       "num": 357584,
       "word": "酱子贝再回应",
@@ -449,14 +457,6 @@
       "onboard_time": 1753932563,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 336325,
-      "num": 336325,
-      "word": "胡一天时隔700天再进组",
-      "onboard_time": 1753945406,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 324390,
@@ -547,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 282263,
+      "num": 282263,
+      "word": "日本警方正抓捕4名袭击者",
+      "onboard_time": 1753946904,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 278144,
       "num": 278144,
       "word": "夜旅人",
@@ -569,6 +577,14 @@
       "onboard_time": 1753888823,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 268394,
+      "num": 170391,
+      "word": "美国婴儿尝试中国婴儿的食物",
+      "onboard_time": 1753946724,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 257678,
@@ -651,20 +667,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220507,
+      "num": 184295,
+      "word": "王俊凯CL",
+      "onboard_time": 1753945345,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217120,
       "num": 153625,
       "word": "为什么你一眼就被认出是最好欺负的",
       "onboard_time": 1753944267,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216391,
-      "num": 184295,
-      "word": "王俊凯CL",
-      "onboard_time": 1753945345,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 212658,
@@ -739,12 +755,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 197177,
-      "num": 170391,
-      "word": "美国婴儿尝试中国婴儿的食物",
-      "onboard_time": 1753946724,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 196167,
+      "num": 408505,
+      "word": "美军证实一架F35战机坠毁",
+      "onboard_time": 1753944686,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195630,
@@ -875,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177924,
+      "num": 167105,
+      "word": "三大指数收盘跌超1%",
+      "onboard_time": 1753947444,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177108,
       "num": 177108,
       "word": "TMEA音乐盛典全阵容",
@@ -899,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172840,
+      "num": 172840,
+      "word": "为什么过桥米线店越来越少了",
+      "onboard_time": 1753946606,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171977,
       "num": 171977,
       "word": "毕雯珺 第十名的人生",
@@ -907,28 +939,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171969,
-      "num": 171969,
-      "word": "为什么过桥米线店越来越少了",
-      "onboard_time": 1753946606,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171321,
-      "num": 408505,
-      "word": "美军证实一架F35战机坠毁",
-      "onboard_time": 1753944686,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 171003,
       "num": 171003,
       "word": "整治拉踩互撕等体育饭圈行为",
       "onboard_time": 1753927823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169199,
+      "num": 169199,
+      "word": "男孩在商场拽母亲衣领",
+      "onboard_time": 1753946064,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168341,
@@ -979,14 +1003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166604,
-      "num": 166604,
-      "word": "日本警方正抓捕4名袭击者",
-      "onboard_time": 1753946904,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 165482,
       "num": 165482,
       "word": "新加坡成人玩具商被曝安全漏洞",
@@ -1016,14 +1032,6 @@
       "word": "强降雨致河北35.6万人受灾",
       "onboard_time": 1753874363,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159933,
-      "num": 159933,
-      "word": "男孩在商场拽母亲衣领",
-      "onboard_time": 1753946064,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1315,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128352,
+      "num": 128352,
+      "word": "黄子弘凡杂志",
+      "onboard_time": 1753947205,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 127896,
       "num": 127896,
       "word": "原来这就是表白啊",
@@ -1459,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115931,
+      "num": 115931,
+      "word": "程序员上班突发窒息竟是惊恐发作",
+      "onboard_time": 1753947444,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115776,
       "num": 115776,
       "word": "包上恩卢昱晓撕拉片",
@@ -1504,6 +1528,14 @@
       "word": "果然玄学的尽头是科学",
       "onboard_time": 1753934364,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111060,
+      "num": 111060,
+      "word": "猫也没想过自己会被禁言",
+      "onboard_time": 1753947685,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -1625,6 +1657,14 @@
       "onboard_time": 1753876943,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94967,
+      "num": 142601,
+      "word": "7岁娃鼻炎1年半鼻子竟然长颗牙",
+      "onboard_time": 1753947864,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92574,

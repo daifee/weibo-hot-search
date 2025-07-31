@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753947067871,
+  "endTime": 1753947942490,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -747,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1008031,
+      "num": 400965,
+      "word": "半退圈女演员因利剑玫瑰翻红",
+      "onboard_time": 1753944984,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 997829,
       "num": 815742,
       "word": "杨某人 怪我了",
@@ -929,6 +937,14 @@
       "onboard_time": 1753928003,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 887897,
+      "num": 202633,
+      "word": "马天宇",
+      "onboard_time": 1753945704,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 882899,
@@ -1139,20 +1155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 794435,
+      "num": 446998,
+      "word": "电影院座椅 虫卵",
+      "onboard_time": 1753944568,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 792576,
       "num": 790867,
       "word": "张予曦初中时被男同学揍过",
       "onboard_time": 1753686022,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 791594,
-      "num": 446998,
-      "word": "电影院座椅 虫卵",
-      "onboard_time": 1753944568,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 791406,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1753699043,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 780982,
-      "num": 184907,
-      "word": "马天宇",
-      "onboard_time": 1753945704,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 780012,
@@ -2075,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 520571,
-      "num": 400965,
-      "word": "半退圈女演员因利剑玫瑰翻红",
-      "onboard_time": 1753944984,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 520341,
       "num": 520341,
       "word": "行程图",
@@ -2395,6 +2395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 457919,
+      "num": 417538,
+      "word": "汤家凤称武大应撤销对肖某某处分",
+      "onboard_time": 1753944147,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456342,
       "num": 337720,
       "word": "吴千语婚礼品位被VOGUE认证",
@@ -2656,14 +2664,6 @@
       "word": "洪水冲走千万金饰目前只找回1公斤",
       "onboard_time": 1753607002,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417538,
-      "num": 417538,
-      "word": "汤家凤称武大应撤销对肖某某处分",
-      "onboard_time": 1753944147,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3051,6 +3051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 360269,
+      "num": 336325,
+      "word": "胡一天时隔700天再进组",
+      "onboard_time": 1753945406,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357584,
       "num": 357584,
       "word": "酱子贝再回应",
@@ -3233,14 +3241,6 @@
       "onboard_time": 1753608322,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336325,
-      "num": 336325,
-      "word": "胡一天时隔700天再进组",
-      "onboard_time": 1753945406,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 335634,
@@ -3795,6 +3795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282263,
+      "num": 282263,
+      "word": "日本警方正抓捕4名袭击者",
+      "onboard_time": 1753946904,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 281356,
       "num": 457486,
       "word": "张艺兴送京东外卖",
@@ -3969,6 +3977,14 @@
       "onboard_time": 1753888823,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 268394,
+      "num": 170391,
+      "word": "美国婴儿尝试中国婴儿的食物",
+      "onboard_time": 1753946724,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 268289,
@@ -4843,6 +4859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220507,
+      "num": 184295,
+      "word": "王俊凯CL",
+      "onboard_time": 1753945345,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220228,
       "num": 220228,
       "word": "身上长这种肉疙瘩警惕是癌症先兆",
@@ -4953,14 +4977,6 @@
       "onboard_time": 1753777222,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216391,
-      "num": 184295,
-      "word": "王俊凯CL",
-      "onboard_time": 1753945345,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 216277,
@@ -5787,14 +5803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 197177,
-      "num": 170391,
-      "word": "美国婴儿尝试中国婴儿的食物",
-      "onboard_time": 1753946724,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197130,
       "num": 197130,
       "word": "加拿大26岁华裔小伙中约3亿元大奖",
@@ -5857,6 +5865,14 @@
       "onboard_time": 1753879944,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196167,
+      "num": 408505,
+      "word": "美军证实一架F35战机坠毁",
+      "onboard_time": 1753944686,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196088,
@@ -6947,6 +6963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177924,
+      "num": 167105,
+      "word": "三大指数收盘跌超1%",
+      "onboard_time": 1753947444,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177759,
       "num": 322979,
       "word": "中方回应传言俄美总统将在华会晤",
@@ -7227,6 +7251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172840,
+      "num": 172840,
+      "word": "为什么过桥米线店越来越少了",
+      "onboard_time": 1753946606,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172621,
       "num": 207005,
       "word": "许我耀眼双轨或将对打",
@@ -7273,14 +7305,6 @@
       "onboard_time": 1753936104,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171969,
-      "num": 171969,
-      "word": "为什么过桥米线店越来越少了",
-      "onboard_time": 1753946606,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171955,
@@ -7385,14 +7409,6 @@
       "onboard_time": 1753777942,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171321,
-      "num": 408505,
-      "word": "美军证实一架F35战机坠毁",
-      "onboard_time": 1753944686,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 171237,
@@ -7505,6 +7521,14 @@
       "onboard_time": 1753589181,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169199,
+      "num": 169199,
+      "word": "男孩在商场拽母亲衣领",
+      "onboard_time": 1753946064,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168946,
@@ -7689,14 +7713,6 @@
       "onboard_time": 1753830978,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166604,
-      "num": 166604,
-      "word": "日本警方正抓捕4名袭击者",
-      "onboard_time": 1753946904,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 166316,
@@ -8169,14 +8185,6 @@
       "onboard_time": 1753871842,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159933,
-      "num": 159933,
-      "word": "男孩在商场拽母亲衣领",
-      "onboard_time": 1753946064,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159876,
@@ -10883,6 +10891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128352,
+      "num": 128352,
+      "word": "黄子弘凡杂志",
+      "onboard_time": 1753947205,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 128276,
       "num": 128276,
       "word": "高质量完成十四五规划",
@@ -11955,6 +11971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115931,
+      "num": 115931,
+      "word": "程序员上班突发窒息竟是惊恐发作",
+      "onboard_time": 1753947444,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115776,
       "num": 115776,
       "word": "包上恩卢昱晓撕拉片",
@@ -12345,6 +12369,14 @@
       "onboard_time": 1753853124,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111060,
+      "num": 111060,
+      "word": "猫也没想过自己会被禁言",
+      "onboard_time": 1753947685,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 111046,
@@ -13256,6 +13288,14 @@
       "word": "北京青龙峡水库开闸泄洪",
       "onboard_time": 1753587923,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94967,
+      "num": 142601,
+      "word": "7岁娃鼻炎1年半鼻子竟然长颗牙",
+      "onboard_time": 1753947864,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

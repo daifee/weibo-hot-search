@@ -1,0 +1,410 @@
+{
+  "runTime": 1753947942490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9310172,
+        "num": 9310172,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547005,
+        "num": 547005,
+        "word": "英伟达被约谈",
+        "onboard_time": 1753939283,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43429,
+        "num": 390866,
+        "word": "我军发射洲际弹道导弹独家披露",
+        "onboard_time": 1753921943,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1089388,
+        "num": 346519,
+        "word": "何猷君辟谣私生子传闻",
+        "onboard_time": 1753940363,
+        "rank": 3,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 794435,
+        "num": 324568,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297086,
+        "num": 297086,
+        "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+        "onboard_time": 1753930342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1059805,
+        "num": 290232,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1008031,
+        "num": 288524,
+        "word": "半退圈女演员因利剑玫瑰翻红",
+        "onboard_time": 1753944984,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282263,
+        "num": 282263,
+        "word": "日本警方正抓捕4名袭击者",
+        "onboard_time": 1753946904,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202746,
+        "num": 202746,
+        "word": "研究称28到32岁是最佳结婚年龄",
+        "onboard_time": 1753941203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 887897,
+        "num": 202633,
+        "word": "马天宇",
+        "onboard_time": 1753945704,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478531,
+        "num": 202561,
+        "word": "陈赫让鹿晗帮买两份小龙虾",
+        "onboard_time": 1753942343,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 457919,
+        "num": 202330,
+        "word": "汤家凤称武大应撤销对肖某某处分",
+        "onboard_time": 1753944147,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401426,
+        "num": 202134,
+        "word": "孟子义百度百科年龄被改",
+        "onboard_time": 1753944746,
+        "rank": 13,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 360269,
+        "num": 202070,
+        "word": "胡一天时隔700天再进组",
+        "onboard_time": 1753945406,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321940,
+        "num": 201918,
+        "word": "李嘉诚40万起卖大湾区400套房产",
+        "onboard_time": 1753931362,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201790,
+        "num": 201790,
+        "word": "瘦不下来是因为一直在过临时生活",
+        "onboard_time": 1753938144,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 196167,
+        "num": 196167,
+        "word": "美军证实一架F35战机坠毁",
+        "onboard_time": 1753944686,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188784,
+        "num": 188784,
+        "word": "微信聊天发截图前先改亲密备注",
+        "onboard_time": 1753933645,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173699,
+        "num": 173699,
+        "word": "两中国人在东京街上遭4人殴打",
+        "onboard_time": 1753937906,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348992,
+        "num": 173621,
+        "word": "汪苏泷张碧晨上个月还在聚餐",
+        "onboard_time": 1753934364,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334689,
+        "num": 173467,
+        "word": "短剧的真情侣居然比营业的多",
+        "onboard_time": 1753939042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233805,
+        "num": 173367,
+        "word": "纪凌尘 你们俩睡一块吗",
+        "onboard_time": 1753938684,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220507,
+        "num": 173215,
+        "word": "王俊凯CL",
+        "onboard_time": 1753945345,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203059,
+        "num": 173124,
+        "word": "方圆脸瘦了35斤的面部变化",
+        "onboard_time": 1753934664,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 206344,
+        "num": 172897,
+        "word": "终于有剧拍出了真豪门",
+        "onboard_time": 1753932743,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172840,
+        "num": 172840,
+        "word": "为什么过桥米线店越来越少了",
+        "onboard_time": 1753946606,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169485,
+        "num": 169485,
+        "word": "曹政奭Gummy得二胎",
+        "onboard_time": 1753944447,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169199,
+        "num": 169199,
+        "word": "男孩在商场拽母亲衣领",
+        "onboard_time": 1753946064,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167673,
+        "num": 167673,
+        "word": "杨洋这几集真的演爽了",
+        "onboard_time": 1753946305,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268394,
+        "num": 167342,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1753946724,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177924,
+        "num": 167105,
+        "word": "三大指数收盘跌超1%",
+        "onboard_time": 1753947444,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165896,
+        "num": 165896,
+        "word": "不同存款的人发工资的表现",
+        "onboard_time": 1753944865,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158231,
+        "num": 158231,
+        "word": "很意外但是易烊千玺的话很合理",
+        "onboard_time": 1753945166,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151673,
+        "num": 151673,
+        "word": "杨洋金晨双舞蹈生打戏",
+        "onboard_time": 1753945885,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147374,
+        "num": 147374,
+        "word": "应采儿嘻嘻jasper不嘻嘻",
+        "onboard_time": 1753944568,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145142,
+        "num": 145142,
+        "word": "为什么你一眼就被认出是最好欺负的",
+        "onboard_time": 1753944267,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94967,
+        "num": 142601,
+        "word": "7岁娃鼻炎1年半鼻子竟然长颗牙",
+        "onboard_time": 1753947864,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141139,
+        "num": 141139,
+        "word": "缅甸决定解除全国紧急状态",
+        "onboard_time": 1753944207,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128566,
+        "num": 128566,
+        "word": "撒贝宁 我一直以为你是明道",
+        "onboard_time": 1753946844,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128352,
+        "num": 128352,
+        "word": "黄子弘凡杂志",
+        "onboard_time": 1753947205,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126005,
+        "num": 126005,
+        "word": "张予曦八月行程让我有点晕字",
+        "onboard_time": 1753936705,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121771,
+        "num": 121771,
+        "word": "藏海传导演因为肖战长胖30斤",
+        "onboard_time": 1753928003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118597,
+        "num": 118597,
+        "word": "何猷君回应",
+        "onboard_time": 1753942824,
+        "rank": 43,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 115931,
+        "num": 115931,
+        "word": "程序员上班突发窒息竟是惊恐发作",
+        "onboard_time": 1753947444,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112201,
+        "num": 112201,
+        "word": "心动8女嘉宾拒绝绑定",
+        "onboard_time": 1753942582,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111060,
+        "num": 111060,
+        "word": "猫也没想过自己会被禁言",
+        "onboard_time": 1753947685,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109241,
+        "num": 109241,
+        "word": "傅首尔妈系变姐系",
+        "onboard_time": 1753943664,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108585,
+        "num": 108585,
+        "word": "侧躺时脊柱的状态变化",
+        "onboard_time": 1753940483,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106557,
+        "num": 106557,
+        "word": "樱花动漫运营者被判2年3个月",
+        "onboard_time": 1753936825,
+        "rank": 49,
+        "category": "民生新闻,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
