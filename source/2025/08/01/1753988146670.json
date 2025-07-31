@@ -1,0 +1,410 @@
+{
+  "runTime": 1753988146670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 478854,
+        "num": 478854,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152264,
+        "num": 152264,
+        "word": "张俪道歉",
+        "onboard_time": 1753964123,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1479,
+        "num": 88861,
+        "word": "我军新型潜艇远航任务画面首曝光",
+        "onboard_time": 1753922663,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86852,
+        "num": 86852,
+        "word": "张碧晨爱的史诗交响演唱会",
+        "onboard_time": 1753974683,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84516,
+        "num": 84516,
+        "word": "佛山突发公共卫生事件三级响应启动",
+        "onboard_time": 1753973184,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78932,
+        "num": 78932,
+        "word": "外嫁女户籍仍在本村拆迁补偿却没份",
+        "onboard_time": 1753979362,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73518,
+        "num": 73518,
+        "word": "央视曝光票务平台退款难乱象",
+        "onboard_time": 1753975882,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 69431,
+        "num": 69431,
+        "word": "你是真的",
+        "onboard_time": 1753986196,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69398,
+        "num": 69398,
+        "word": "人民军队向前向前向前",
+        "onboard_time": 1753980140,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 63014,
+        "num": 63014,
+        "word": "冷冻31年胚胎孕育婴儿诞生",
+        "onboard_time": 1753972764,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83151,
+        "num": 62878,
+        "word": "敖瑞鹏工作室发文道歉",
+        "onboard_time": 1753963643,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62497,
+        "num": 62497,
+        "word": "黄子韬卸任公司执行董事职务",
+        "onboard_time": 1753964183,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52585,
+        "num": 52585,
+        "word": "多伦多市中心几乎全是印度人",
+        "onboard_time": 1753968864,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50747,
+        "num": 50747,
+        "word": "湖南一女子30楼坠落奇迹生还",
+        "onboard_time": 1753973723,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45321,
+        "num": 45321,
+        "word": "理想邀请乘龙卡车直播对撞",
+        "onboard_time": 1753972584,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44314,
+        "num": 44314,
+        "word": "泰格西没失误",
+        "onboard_time": 1753983496,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41382,
+        "num": 41382,
+        "word": "刘芸晒照帮儿子挽回颜值形象",
+        "onboard_time": 1753972105,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38323,
+        "num": 38323,
+        "word": "中国军人在安全感就在",
+        "onboard_time": 1753979660,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 38315,
+        "num": 38315,
+        "word": "刘亦菲本科毕业论文答辩",
+        "onboard_time": 1753955124,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31078,
+        "num": 37922,
+        "word": "哈尔滨发生2.4级地震",
+        "onboard_time": 1753986796,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162701,
+        "num": 37505,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86894,
+        "num": 37367,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53091,
+        "num": 36927,
+        "word": "12岁女孩因不良用眼习惯捉出几十条虫",
+        "onboard_time": 1753971444,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36548,
+        "num": 36548,
+        "word": "by2说要勇于撇清关系",
+        "onboard_time": 1753971385,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34646,
+        "num": 34646,
+        "word": "哈尔滨震感",
+        "onboard_time": 1753975824,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 33562,
+        "num": 33562,
+        "word": "辛迪瑞拉",
+        "onboard_time": 1753984817,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33379,
+        "num": 33379,
+        "word": "密室大逃脱",
+        "onboard_time": 1753985236,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32150,
+        "num": 32150,
+        "word": "陈芋汐女子10米台夺冠",
+        "onboard_time": 1753961663,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31555,
+        "num": 31555,
+        "word": "14岁女孩摆摊卖玩具25天赚2000元",
+        "onboard_time": 1753974563,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31274,
+        "num": 31274,
+        "word": "赵立坚推介成毅赴红尘",
+        "onboard_time": 1753976423,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30770,
+        "num": 30770,
+        "word": "原神超话",
+        "onboard_time": 1753980919,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28967,
+        "num": 28967,
+        "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+        "onboard_time": 1753964302,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28913,
+        "num": 28913,
+        "word": "利剑玫瑰 内鬼",
+        "onboard_time": 1753965983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26077,
+        "num": 26077,
+        "word": "朱孝天称台湾就是一个省希望赶快统一",
+        "onboard_time": 1753969343,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25362,
+        "num": 25362,
+        "word": "室友电瓶爆燃伤者父亲称已不期待道歉",
+        "onboard_time": 1753979481,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25245,
+        "num": 25245,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1753960463,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24980,
+        "num": 24980,
+        "word": "宋浩然独自带女儿回十堰办周岁宴",
+        "onboard_time": 1753965564,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24967,
+        "num": 24967,
+        "word": "李昀锐看一饭封神吃豪华泡面",
+        "onboard_time": 1753975043,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24210,
+        "num": 24966,
+        "word": "改掉这些习惯后肚子变小了",
+        "onboard_time": 1753965084,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23968,
+        "num": 24964,
+        "word": "杨幂芭莎神图的诞生",
+        "onboard_time": 1753982658,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 23585,
+        "num": 24964,
+        "word": "加沙男童领食物道谢后即遭射杀",
+        "onboard_time": 1753955003,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12910,
+        "num": 24962,
+        "word": "佛山基孔肯雅热目前病例均为轻症",
+        "onboard_time": 1753988055,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22644,
+        "num": 24959,
+        "word": "沙特一游乐场大摆锤断裂致23人受伤",
+        "onboard_time": 1753973664,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21762,
+        "num": 24959,
+        "word": "陈凯文rap",
+        "onboard_time": 1753978282,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20966,
+        "num": 24958,
+        "word": "李兰迪发文告别秦莞",
+        "onboard_time": 1753978881,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20852,
+        "num": 24955,
+        "word": "全身烧伤超9成男生治疗已花费300万",
+        "onboard_time": 1753972286,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20746,
+        "num": 24954,
+        "word": "杨迪错过奔跑吧第一季邀请",
+        "onboard_time": 1753973304,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20034,
+        "num": 24954,
+        "word": "朱一龙倪妮 顶级过肺",
+        "onboard_time": 1753963043,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19916,
+        "num": 24951,
+        "word": "张极替爸爸追星成功",
+        "onboard_time": 1753974983,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19756,
+        "num": 24949,
+        "word": "得多馋才能想到这些美食配方",
+        "onboard_time": 1753987995,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#建军节到来之际习近平致以节日祝贺#"
+    }
+  }
+}
