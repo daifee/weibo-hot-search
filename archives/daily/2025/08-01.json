@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1753982861317,
+  "endTime": 1753983981121,
   "band_list": [
     {
       "raw_hot": 1778162,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88688,
+      "num": 113630,
+      "word": "中国军人在安全感就在",
+      "onboard_time": 1753979660,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 86485,
       "num": 86485,
       "word": "余承恩发了朝雪录主创合照",
@@ -321,14 +329,6 @@
       "onboard_time": 1753955003,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 73310,
-      "num": 73310,
-      "word": "中国军人在安全感就在",
-      "onboard_time": 1753979660,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 73134,
@@ -419,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51119,
+      "num": 51119,
+      "word": "泰格西没失误",
+      "onboard_time": 1753983496,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41753,
       "num": 91871,
       "word": "室友电瓶爆燃伤者父亲称已不期待道歉",
@@ -435,12 +443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37723,
+      "raw_hot": 40609,
       "num": 81103,
       "word": "杨幂芭莎神图的诞生",
       "onboard_time": 1753982658,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 36950,
+      "num": 45406,
+      "word": "国防部祝战友们节日快乐",
+      "onboard_time": 1753982958,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36172,
@@ -457,6 +473,14 @@
       "onboard_time": 1753965324,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29788,
+      "num": 45397,
+      "word": "肖战超话里的录取通知书",
+      "onboard_time": 1753954763,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 3829,
