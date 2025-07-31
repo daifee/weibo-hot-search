@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753957900228,
+  "endTime": 1753958984550,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2195616,
+      "num": 2195616,
+      "word": "请回答1988宝拉上海偷拍快递员",
+      "onboard_time": 1753955424,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2178759,
       "num": 2178759,
       "word": "AL亚军",
@@ -1320,14 +1328,6 @@
       "word": "杨少华上午还在剪彩",
       "onboard_time": 1752058522,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1803238,
-      "num": 1803238,
-      "word": "请回答1988宝拉上海偷拍快递员",
-      "onboard_time": 1753955424,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -3313,6 +3313,14 @@
       "onboard_time": 1752471140,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1228817,
+      "num": 1228817,
+      "word": "武大回应法院驳回对性骚扰男生指控",
+      "onboard_time": 1753956623,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1227903,
@@ -5953,6 +5961,14 @@
       "onboard_time": 1751526082,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 907187,
+      "num": 550784,
+      "word": "刘亦菲本科毕业论文答辩",
+      "onboard_time": 1753955124,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 906933,
@@ -8635,14 +8651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 714029,
-      "num": 550784,
-      "word": "刘亦菲本科毕业论文答辩",
-      "onboard_time": 1753955124,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 714028,
       "num": 714028,
       "word": "印度一800年历史神庙曝出惊天大案",
@@ -9489,6 +9497,14 @@
       "onboard_time": 1752793998,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677998,
+      "num": 677998,
+      "word": "北京31死养老中心未列入转移范围",
+      "onboard_time": 1753954342,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 677582,
@@ -10467,14 +10483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 639252,
-      "num": 639252,
-      "word": "武大回应法院驳回对性骚扰男生指控",
-      "onboard_time": 1753956623,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 639006,
       "num": 639006,
       "word": "原来报恩的孩子从小就能看出来",
@@ -10681,6 +10689,14 @@
       "onboard_time": 1752051742,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631625,
+      "num": 631625,
+      "word": "加沙男童领食物道谢后即遭射杀",
+      "onboard_time": 1753955003,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 631253,
@@ -12905,14 +12921,6 @@
       "onboard_time": 1753790001,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 544517,
-      "num": 544517,
-      "word": "北京31死养老中心未列入转移范围",
-      "onboard_time": 1753954342,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 544411,
@@ -15681,14 +15689,6 @@
       "onboard_time": 1753593202,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 461525,
-      "num": 551017,
-      "word": "加沙男童领食物道谢后即遭射杀",
-      "onboard_time": 1753955003,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 460678,
@@ -32355,6 +32355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222028,
+      "num": 222028,
+      "word": "外卖单王把记者跑崩溃了",
+      "onboard_time": 1753958123,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221953,
       "num": 221953,
       "word": "A股",
@@ -32937,6 +32945,14 @@
       "onboard_time": 1752743963,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218510,
+      "num": 218510,
+      "word": "王者山海奇都皮肤",
+      "onboard_time": 1753958483,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 218501,
@@ -40355,6 +40371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192233,
+      "num": 192233,
+      "word": "何炅 内娱战地记者",
+      "onboard_time": 1753958541,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192188,
       "num": 192188,
       "word": "新疆旅游偶遇张雨绮尼格买提",
@@ -41561,6 +41585,14 @@
       "onboard_time": 1753075941,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 188789,
+      "num": 188789,
+      "word": "新说唱总决赛",
+      "onboard_time": 1753958244,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188778,
@@ -43267,6 +43299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183585,
+      "num": 183585,
+      "word": "罗永浩怼网友",
+      "onboard_time": 1753958783,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183575,
       "num": 208934,
       "word": "多家银行火速撤下养老贷",
@@ -44105,6 +44145,14 @@
       "onboard_time": 1751636007,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181140,
+      "num": 190472,
+      "word": "你抢不到票的歌手都来TMEA了",
+      "onboard_time": 1753957582,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 181125,
@@ -45625,14 +45673,6 @@
       "onboard_time": 1752492503,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176343,
-      "num": 176343,
-      "word": "你抢不到票的歌手都来TMEA了",
-      "onboard_time": 1753957582,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 176342,
@@ -50075,6 +50115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164495,
+      "num": 164495,
+      "word": "马龙打卡乐高乐园",
+      "onboard_time": 1753958483,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164480,
       "num": 141781,
       "word": "耳帝",
@@ -50769,6 +50817,14 @@
       "onboard_time": 1751456962,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "心有鱼 力不足",
+      "onboard_time": 1753957463,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 162644,
@@ -52001,14 +52057,6 @@
       "onboard_time": 1751786181,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159662,
-      "num": 159662,
-      "word": "心有鱼 力不足",
-      "onboard_time": 1753957463,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 159649,
@@ -56131,6 +56179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150270,
+      "num": 193539,
+      "word": "草莓熊设计师居然是罗小黑激推",
+      "onboard_time": 1753957823,
+      "rank": 34,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 150255,
       "num": 150255,
       "word": "敢跟谢霆锋这么说话的只有阿Sa",
@@ -58185,6 +58241,14 @@
       "onboard_time": 1753255402,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 146174,
+      "num": 146174,
+      "word": "喝蜜雪冰城会被攻击的受害者出现了",
+      "onboard_time": 1753958541,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 146162,
@@ -61947,14 +62011,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138740,
-      "num": 138740,
-      "word": "草莓熊设计师居然是罗小黑激推",
-      "onboard_time": 1753957823,
-      "rank": 34,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 138724,
       "num": 138724,
       "word": "Bin分享和Faker合照",
@@ -63081,6 +63137,14 @@
       "onboard_time": 1753521082,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136369,
+      "num": 136369,
+      "word": "网红欧大发被妈妈催去上班",
+      "onboard_time": 1753958244,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 136361,
@@ -67020,7 +67084,7 @@
     },
     {
       "raw_hot": 129578,
-      "num": 138316,
+      "num": 192554,
       "word": "广东一地开展免费核酸筛查",
       "onboard_time": 1753956083,
       "rank": 35,
@@ -99009,6 +99073,14 @@
       "onboard_time": 1753609162,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37106,
+      "num": 163096,
+      "word": "张成教练夸樊振东乒超太厉害了",
+      "onboard_time": 1753958724,
+      "rank": 38,
+      "category": "体育,体育"
     },
     {
       "raw_hot": 37063,

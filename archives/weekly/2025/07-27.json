@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753957900228,
+  "endTime": 1753958984550,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2195616,
+      "num": 2195616,
+      "word": "请回答1988宝拉上海偷拍快递员",
+      "onboard_time": 1753955424,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2110545,
       "num": 2110545,
       "word": "旺仔小乔道歉信",
@@ -201,14 +209,6 @@
       "onboard_time": 1753749924,
       "rank": 0,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1803238,
-      "num": 1803238,
-      "word": "请回答1988宝拉上海偷拍快递员",
-      "onboard_time": 1753955424,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1797484,
@@ -473,6 +473,14 @@
       "onboard_time": 1753604002,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1228817,
+      "num": 1228817,
+      "word": "武大回应法院驳回对性骚扰男生指控",
+      "onboard_time": 1753956623,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1220235,
@@ -955,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 907187,
+      "num": 550784,
+      "word": "刘亦菲本科毕业论文答辩",
+      "onboard_time": 1753955124,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 906788,
       "num": 906788,
       "word": "曼谷市场枪击事件已致6人死亡",
@@ -1403,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 714029,
-      "num": 550784,
-      "word": "刘亦菲本科毕业论文答辩",
-      "onboard_time": 1753955124,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 714028,
       "num": 714028,
       "word": "印度一800年历史神庙曝出惊天大案",
@@ -1571,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677998,
+      "num": 677998,
+      "word": "北京31死养老中心未列入转移范围",
+      "onboard_time": 1753954342,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677541,
       "num": 677541,
       "word": "12岁小孩姐让整个游泳馆沸腾",
@@ -1691,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 639252,
-      "num": 639252,
-      "word": "武大回应法院驳回对性骚扰男生指控",
-      "onboard_time": 1753956623,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 638841,
       "num": 638841,
       "word": "网易云音乐起诉韩国SM娱乐",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1753866563,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 631625,
+      "num": 631625,
+      "word": "加沙男童领食物道谢后即遭射杀",
+      "onboard_time": 1753955003,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 630384,
@@ -2017,14 +2033,6 @@
       "onboard_time": 1753790001,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 544517,
-      "num": 544517,
-      "word": "北京31死养老中心未列入转移范围",
-      "onboard_time": 1753954342,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 544079,
@@ -2489,14 +2497,6 @@
       "onboard_time": 1753593202,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 461525,
-      "num": 551017,
-      "word": "加沙男童领食物道谢后即遭射杀",
-      "onboard_time": 1753955003,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 460458,
@@ -5027,6 +5027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222028,
+      "num": 222028,
+      "word": "外卖单王把记者跑崩溃了",
+      "onboard_time": 1753958123,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221629,
       "num": 221629,
       "word": "Wendy开通微博",
@@ -5113,6 +5121,14 @@
       "onboard_time": 1753697783,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218510,
+      "num": 218510,
+      "word": "王者山海奇都皮肤",
+      "onboard_time": 1753958483,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 218407,
@@ -6355,6 +6371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192233,
+      "num": 192233,
+      "word": "何炅 内娱战地记者",
+      "onboard_time": 1753958541,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191949,
       "num": 191949,
       "word": "英雄联盟",
@@ -6625,6 +6649,14 @@
       "onboard_time": 1753715724,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188789,
+      "num": 188789,
+      "word": "新说唱总决赛",
+      "onboard_time": 1753958244,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188692,
@@ -6963,6 +6995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183585,
+      "num": 183585,
+      "word": "罗永浩怼网友",
+      "onboard_time": 1753958783,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 183544,
       "num": 183544,
       "word": "赴山海因谣言延播属实太冤",
@@ -7065,6 +7105,14 @@
       "onboard_time": 1753802364,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181140,
+      "num": 190472,
+      "word": "你抢不到票的歌手都来TMEA了",
+      "onboard_time": 1753957582,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 181095,
@@ -7385,14 +7433,6 @@
       "onboard_time": 1753578322,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 176343,
-      "num": 176343,
-      "word": "你抢不到票的歌手都来TMEA了",
-      "onboard_time": 1753957582,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 176292,
@@ -7795,6 +7835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169910,
+      "num": 169910,
+      "word": "上海暴雨",
+      "onboard_time": 1753958541,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169741,
       "num": 169741,
       "word": "别让性别对立成为舆论的预设立场",
@@ -8171,6 +8219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164495,
+      "num": 164495,
+      "word": "马龙打卡乐高乐园",
+      "onboard_time": 1753958483,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164393,
       "num": 164393,
       "word": "光与夜之恋",
@@ -8305,6 +8361,14 @@
       "onboard_time": 1753614562,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "心有鱼 力不足",
+      "onboard_time": 1753957463,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 162639,
@@ -8545,14 +8609,6 @@
       "onboard_time": 1753772182,
       "rank": 43,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 159662,
-      "num": 159662,
-      "word": "心有鱼 力不足",
-      "onboard_time": 1753957463,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 159411,
@@ -9171,6 +9227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151150,
+      "num": 151150,
+      "word": "清潭国际高中2",
+      "onboard_time": 1753955784,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151135,
       "num": 151135,
       "word": "独居女生住100平的房子有多爽",
@@ -9283,6 +9347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150270,
+      "num": 193539,
+      "word": "草莓熊设计师居然是罗小黑激推",
+      "onboard_time": 1753957823,
+      "rank": 34,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 150140,
       "num": 150140,
       "word": "樊振东弯腰的瞬间比赢球更帅",
@@ -9385,14 +9457,6 @@
       "onboard_time": 1753586842,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149205,
-      "num": 149205,
-      "word": "清潭国际高中2",
-      "onboard_time": 1753955784,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 149167,
@@ -9649,6 +9713,14 @@
       "onboard_time": 1753794445,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146174,
+      "num": 146174,
+      "word": "喝蜜雪冰城会被攻击的受害者出现了",
+      "onboard_time": 1753958541,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 146111,
@@ -10291,14 +10363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138740,
-      "num": 138740,
-      "word": "草莓熊设计师居然是罗小黑激推",
-      "onboard_time": 1753957823,
-      "rank": 34,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 138552,
       "num": 138552,
       "word": "刘宇宁承包了主题曲的半壁江山",
@@ -10473,6 +10537,14 @@
       "onboard_time": 1753849404,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136369,
+      "num": 136369,
+      "word": "网红欧大发被妈妈催去上班",
+      "onboard_time": 1753958244,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 136238,
@@ -11244,7 +11316,7 @@
     },
     {
       "raw_hot": 129578,
-      "num": 138316,
+      "num": 192554,
       "word": "广东一地开展免费核酸筛查",
       "onboard_time": 1753956083,
       "rank": 35,
@@ -15617,6 +15689,14 @@
       "onboard_time": 1753609162,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37106,
+      "num": 163096,
+      "word": "张成教练夸樊振东乒超太厉害了",
+      "onboard_time": 1753958724,
+      "rank": 38,
+      "category": "体育,体育"
     },
     {
       "raw_hot": 36950,
