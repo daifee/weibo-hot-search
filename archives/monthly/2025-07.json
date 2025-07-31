@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753962112031,
+  "endTime": 1753966649729,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -3979,6 +3979,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1138585,
+      "num": 1182173,
+      "word": "张俪道歉",
+      "onboard_time": 1753964123,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1137211,
       "num": 1137211,
       "word": "林俊杰cue田曦薇",
@@ -7611,6 +7619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775743,
+      "num": 775743,
+      "word": "陈芋汐女子10米台夺冠",
+      "onboard_time": 1753961663,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 774983,
       "num": 344128,
       "word": "陆毅鲍蕾太会养女儿了",
@@ -8569,6 +8585,14 @@
       "onboard_time": 1751276424,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 720031,
+      "num": 341245,
+      "word": "敖瑞鹏工作室发文道歉",
+      "onboard_time": 1753963643,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 719257,
@@ -10220,7 +10244,7 @@
     },
     {
       "raw_hot": 650716,
-      "num": 309280,
+      "num": 331211,
       "word": "喝蜜雪冰城会被攻击的受害者出现了",
       "onboard_time": 1753958541,
       "rank": 41,
@@ -15171,6 +15195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479531,
+      "num": 333755,
+      "word": "36岁存款30万决定提前退休",
+      "onboard_time": 1753960463,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 479417,
       "num": 378164,
       "word": "苏醒为老婆庆30岁生日",
@@ -16409,6 +16441,14 @@
       "onboard_time": 1752565641,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447022,
+      "num": 447022,
+      "word": "黄子韬卸任公司执行董事职务",
+      "onboard_time": 1753964183,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 446610,
@@ -18209,6 +18249,14 @@
       "onboard_time": 1753670121,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 404245,
+      "num": 404245,
+      "word": "朱一龙倪妮 顶级过肺",
+      "onboard_time": 1753963043,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 403852,
@@ -20251,6 +20299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359563,
+      "num": 501548,
+      "word": "哥哥杀死弟弟7个月女儿案将开庭",
+      "onboard_time": 1753965863,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359410,
       "num": 359410,
       "word": "樱桃琥珀我承认之前对你太大声了",
@@ -20433,6 +20489,14 @@
       "onboard_time": 1751623042,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356256,
+      "num": 356256,
+      "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+      "onboard_time": 1753964302,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356221,
@@ -25283,6 +25347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287289,
+      "num": 255313,
+      "word": "弟弟回应7个月女儿被发病期哥哥杀死",
+      "onboard_time": 1753964963,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287212,
       "num": 287212,
       "word": "Bin哥厉害",
@@ -26587,14 +26659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272362,
-      "num": 272362,
-      "word": "36岁存款30万决定提前退休",
-      "onboard_time": 1753960463,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272331,
       "num": 272331,
       "word": "怪不得赵晓卉没空参加脱口秀",
@@ -27185,6 +27249,14 @@
       "onboard_time": 1751706862,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266618,
+      "num": 266618,
+      "word": "凡人修仙传 卖房做特效",
+      "onboard_time": 1753963703,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 266593,
@@ -30811,14 +30883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233900,
-      "num": 233900,
-      "word": "陈芋汐女子10米台夺冠",
-      "onboard_time": 1753961663,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233882,
       "num": 233882,
       "word": "马斯克准备明年参选",
@@ -33145,6 +33209,14 @@
       "onboard_time": 1752802040,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218117,
+      "num": 218117,
+      "word": "改掉这些习惯后肚子变小了",
+      "onboard_time": 1753965084,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217991,
@@ -39619,6 +39691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194586,
+      "num": 194586,
+      "word": "利剑玫瑰 内鬼",
+      "onboard_time": 1753965983,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194585,
       "num": 194585,
       "word": "第二个逼疯摄影师的节目嘉宾出现了",
@@ -40417,6 +40497,14 @@
       "onboard_time": 1753166362,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 192452,
+      "num": 192452,
+      "word": "宋浩然独自带女儿回十堰办周岁宴",
+      "onboard_time": 1753965564,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 192420,
@@ -48393,6 +48481,14 @@
       "onboard_time": 1751807906,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169539,
+      "num": 169539,
+      "word": "武大账号仅允许好友评论",
+      "onboard_time": 1753964422,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169533,
@@ -58171,6 +58267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146637,
+      "num": 146637,
+      "word": "大疆全景相机",
+      "onboard_time": 1753966224,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146591,
       "num": 146591,
       "word": "苏超宿迁队vs连云港队",
@@ -59185,6 +59289,14 @@
       "onboard_time": 1753585523,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144520,
+      "num": 144520,
+      "word": "丈夫花1.9万买古董妻子一看印英文",
+      "onboard_time": 1753963282,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144511,
@@ -60643,6 +60755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141484,
+      "num": 141484,
+      "word": "一诺央视采访",
+      "onboard_time": 1753964843,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141449,
       "num": 141449,
       "word": "石宇奇夺冠",
@@ -61849,6 +61969,14 @@
       "onboard_time": 1753109662,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139160,
+      "num": 139160,
+      "word": "广西35碗必嗦粉",
+      "onboard_time": 1753964603,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 139159,
@@ -63081,6 +63209,14 @@
       "onboard_time": 1751705243,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136937,
+      "num": 136937,
+      "word": "汪顺200混第七",
+      "onboard_time": 1753962744,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 136897,
@@ -64819,6 +64955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133935,
+      "num": 133935,
+      "word": "乐道发布会",
+      "onboard_time": 1753965324,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133923,
       "num": 133923,
       "word": "王楚钦把世界前十赢了个遍",
@@ -65497,6 +65641,14 @@
       "onboard_time": 1751344762,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 132776,
+      "num": 132776,
+      "word": "看卢昱晓vlog好像在看古早台剧",
+      "onboard_time": 1753966465,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 132758,
@@ -66673,6 +66825,14 @@
       "onboard_time": 1753797384,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130775,
+      "num": 130775,
+      "word": "波波维奇100自夺冠",
+      "onboard_time": 1753966164,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 130772,
@@ -68169,6 +68329,14 @@
       "onboard_time": 1751780062,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128151,
+      "num": 128151,
+      "word": "家里不乱的可以买个回去添乱",
+      "onboard_time": 1753966104,
+      "rank": 47,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 128144,
@@ -76057,6 +76225,14 @@
       "onboard_time": 1751985932,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115355,
+      "num": 115355,
+      "word": "武汉到处都是蒜鸟",
+      "onboard_time": 1753964963,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115345,
@@ -87987,6 +88163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88973,
+      "num": 265133,
+      "word": "轿车前10米外自行车摔倒司机被索赔",
+      "onboard_time": 1753965084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88959,
       "num": 88959,
       "word": "张予曦毕雯珺姐姐喝醉弟弟别闹",
@@ -90553,6 +90737,14 @@
       "onboard_time": 1751346921,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77454,
+      "num": 193090,
+      "word": "于文文直呼小孩姐出片折么美",
+      "onboard_time": 1753964422,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 77433,

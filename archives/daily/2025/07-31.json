@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753962112031,
+  "endTime": 1753966649729,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -97,6 +97,14 @@
       "onboard_time": 1753956623,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1138585,
+      "num": 1182173,
+      "word": "张俪道歉",
+      "onboard_time": 1753964123,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1094422,
@@ -203,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 775743,
+      "num": 775743,
+      "word": "陈芋汐女子10米台夺冠",
+      "onboard_time": 1753961663,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 762674,
       "num": 762674,
       "word": "太平洋岛国即将被海淹没",
@@ -225,6 +241,14 @@
       "onboard_time": 1753923322,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 720031,
+      "num": 341245,
+      "word": "敖瑞鹏工作室发文道歉",
+      "onboard_time": 1753963643,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 713949,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 650716,
-      "num": 309280,
+      "num": 331211,
       "word": "喝蜜雪冰城会被攻击的受害者出现了",
       "onboard_time": 1753958541,
       "rank": 41,
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479531,
+      "num": 333755,
+      "word": "36岁存款30万决定提前退休",
+      "onboard_time": 1753960463,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 478872,
       "num": 321848,
       "word": "汪苏泷与张碧晨上个月还在聚餐",
@@ -499,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 447022,
+      "num": 447022,
+      "word": "黄子韬卸任公司执行董事职务",
+      "onboard_time": 1753964183,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443832,
       "num": 443832,
       "word": "两中国人在东京街上遭4人殴打",
@@ -529,6 +569,14 @@
       "onboard_time": 1753935684,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404245,
+      "num": 404245,
+      "word": "朱一龙倪妮 顶级过肺",
+      "onboard_time": 1753963043,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 399776,
@@ -595,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359563,
+      "num": 501548,
+      "word": "哥哥杀死弟弟7个月女儿案将开庭",
+      "onboard_time": 1753965863,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357584,
       "num": 357584,
       "word": "酱子贝再回应",
@@ -617,6 +673,14 @@
       "onboard_time": 1753879583,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 356256,
+      "num": 356256,
+      "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+      "onboard_time": 1753964302,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349654,
@@ -747,6 +811,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 287289,
+      "num": 255313,
+      "word": "弟弟回应7个月女儿被发病期哥哥杀死",
+      "onboard_time": 1753964963,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286363,
       "num": 206988,
       "word": "带状疱疹缠腰一圈意味着什么",
@@ -769,14 +841,6 @@
       "onboard_time": 1753934063,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272362,
-      "num": 272362,
-      "word": "36岁存款30万决定提前退休",
-      "onboard_time": 1753960463,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 271630,
@@ -809,6 +873,14 @@
       "onboard_time": 1753948704,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266618,
+      "num": 266618,
+      "word": "凡人修仙传 卖房做特效",
+      "onboard_time": 1753963703,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 257678,
@@ -899,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233900,
-      "num": 233900,
-      "word": "陈芋汐女子10米台夺冠",
-      "onboard_time": 1753961663,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233124,
       "num": 233124,
       "word": "第一次见挫骨扬灰型男主",
@@ -985,6 +1049,14 @@
       "onboard_time": 1753958483,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218117,
+      "num": 218117,
+      "word": "改掉这些习惯后肚子变小了",
+      "onboard_time": 1753965084,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217120,
@@ -1163,6 +1235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194586,
+      "num": 194586,
+      "word": "利剑玫瑰 内鬼",
+      "onboard_time": 1753965983,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194046,
       "num": 194046,
       "word": "U21篮球赛爆发大规模冲突",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1753937543,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192452,
+      "num": 192452,
+      "word": "宋浩然独自带女儿回十堰办周岁宴",
+      "onboard_time": 1753965564,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 192195,
@@ -1441,6 +1529,14 @@
       "onboard_time": 1753927823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169539,
+      "num": 169539,
+      "word": "武大账号仅允许好友评论",
+      "onboard_time": 1753964422,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169199,
@@ -1731,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146637,
+      "num": 146637,
+      "word": "大疆全景相机",
+      "onboard_time": 1753966224,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146507,
       "num": 170496,
       "word": "南京照相馆王真儿意难平",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1753945824,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144520,
+      "num": 144520,
+      "word": "丈夫花1.9万买古董妻子一看印英文",
+      "onboard_time": 1753963282,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144263,
@@ -1819,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141484,
+      "num": 141484,
+      "word": "一诺央视采访",
+      "onboard_time": 1753964843,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141100,
       "num": 141100,
       "word": "被高能量生日祝福感染到了",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1753951823,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139160,
+      "num": 139160,
+      "word": "广西35碗必嗦粉",
+      "onboard_time": 1753964603,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 138122,
@@ -1873,6 +2001,14 @@
       "onboard_time": 1753927762,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136937,
+      "num": 136937,
+      "word": "汪顺200混第七",
+      "onboard_time": 1753962744,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 136763,
@@ -1939,6 +2075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133935,
+      "num": 133935,
+      "word": "乐道发布会",
+      "onboard_time": 1753965324,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133785,
       "num": 133785,
       "word": "36岁残疾男子赔偿金全打给了女网友",
@@ -1979,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132776,
+      "num": 132776,
+      "word": "看卢昱晓vlog好像在看古早台剧",
+      "onboard_time": 1753966465,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131979,
       "num": 131979,
       "word": "建议大家尽量不要跟同学一起合租",
@@ -2000,6 +2152,14 @@
       "word": "ESPN发布NBA球队最新实力榜",
       "onboard_time": 1753954942,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130775,
+      "num": 130775,
+      "word": "波波维奇100自夺冠",
+      "onboard_time": 1753966164,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -2065,6 +2225,14 @@
       "onboard_time": 1753948526,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128151,
+      "num": 128151,
+      "word": "家里不乱的可以买个回去添乱",
+      "onboard_time": 1753966104,
+      "rank": 47,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 127896,
@@ -2259,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115355,
+      "num": 115355,
+      "word": "武汉到处都是蒜鸟",
+      "onboard_time": 1753964963,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114209,
       "num": 114209,
       "word": "穿和穿搭真的不一样",
@@ -2443,6 +2619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 88973,
+      "num": 265133,
+      "word": "轿车前10米外自行车摔倒司机被索赔",
+      "onboard_time": 1753965084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88608,
       "num": 88608,
       "word": "130斤女生瘦到100斤需要多久",
@@ -2489,6 +2673,14 @@
       "onboard_time": 1753887685,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77454,
+      "num": 193090,
+      "word": "于文文直呼小孩姐出片折么美",
+      "onboard_time": 1753964422,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 76733,
