@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/31 22:49:13
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/31 23:31:02
 </p>
 </blockquote>
 <p>
@@ -695,6 +695,12 @@ AL亚军（热度：2178759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%96%E6%9B%B2%E7%BB%99%E6%9D%8E%E4%BD%B3%E8%96%87%E5%81%9A%E5%B1%80%E4%BA%86%23" target="weibo">
 编曲给李佳薇做局了（热度：2139826）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E6%92%A4%E9%94%80%E8%82%96%E5%90%8C%E5%AD%A6%E5%A4%84%E5%88%86%23" target="weibo">
+武大校长回应是否撤销肖同学处分（热度：2132935）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ T1对战AL（热度：778834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%AC%E5%88%B0GAI%E6%B7%98%E6%B1%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 单依纯听到GAI淘汰的反应（热度：748955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E4%B8%89%E5%8D%83%E5%9D%97%E9%92%B1%E5%AE%9A%E5%BE%8B%23" target="weibo">
-旅游三千块钱定律（热度：748814）
 </a>
 </li>
 
