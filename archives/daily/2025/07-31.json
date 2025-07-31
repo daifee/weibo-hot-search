@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753938062722,
+  "endTime": 1753940054266,
   "band_list": [
     {
       "raw_hot": 2064202,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 960591,
+      "num": 1153694,
+      "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+      "onboard_time": 1753930342,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 938210,
       "num": 728941,
       "word": "留几手回应葛夕新恋情不能完全接受",
@@ -43,11 +51,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 909572,
-      "num": 909572,
-      "word": "龙凤胎弟弟手臂吸入出水口溺亡",
-      "onboard_time": 1753930342,
-      "rank": 3,
+      "raw_hot": 927176,
+      "num": 442457,
+      "word": "韩国人长白山挥国旗被一把夺下",
+      "onboard_time": 1753936406,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -65,14 +73,6 @@
       "onboard_time": 1753844363,
       "rank": 1,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 785429,
-      "num": 442457,
-      "word": "韩国人长白山挥国旗被一把夺下",
-      "onboard_time": 1753936406,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 775778,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416999,
+      "num": 206036,
+      "word": "纪凌尘 你们俩睡一块吗",
+      "onboard_time": 1753938684,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409142,
       "num": 409142,
       "word": "日本女子躲海啸驾车从30米悬崖坠亡",
@@ -281,6 +289,14 @@
       "onboard_time": 1753873943,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370044,
+      "num": 370044,
+      "word": "咖啡店店员遭遇150杯团单跳单",
+      "onboard_time": 1753935684,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 368244,
@@ -331,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 343490,
+      "num": 296022,
+      "word": "两中国人在东京街上遭4人殴打",
+      "onboard_time": 1753937906,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 324390,
       "num": 209757,
       "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
@@ -379,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292328,
+      "num": 292328,
+      "word": "樱花动漫运营者被判2年3个月",
+      "onboard_time": 1753936825,
+      "rank": 18,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 287552,
       "num": 287552,
       "word": "没想到内衣也有自己的升咖史",
@@ -403,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273484,
-      "num": 273484,
-      "word": "咖啡店店员遭遇150杯团单跳单",
-      "onboard_time": 1753935684,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268744,
       "num": 205513,
       "word": "黄一鸣回应给孩子找后爸",
       "onboard_time": 1753888823,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 264215,
+      "num": 332140,
+      "word": "英伟达被约谈",
+      "onboard_time": 1753939283,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 257678,
@@ -451,20 +483,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244136,
-      "num": 244136,
-      "word": "樱花动漫运营者被判2年3个月",
-      "onboard_time": 1753936825,
-      "rank": 18,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 240088,
       "num": 240088,
       "word": "日本民众撤离到屋顶躲避海啸",
       "onboard_time": 1753906334,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 236798,
+      "num": 236798,
+      "word": "瘦不下来是因为一直在过临时生活",
+      "onboard_time": 1753938144,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 233124,
+      "num": 233124,
+      "word": "第一次见挫骨扬灰型男主",
+      "onboard_time": 1753938085,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 230935,
@@ -512,6 +552,14 @@
       "word": "孟子义经纪人道歉",
       "onboard_time": 1753868002,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202278,
+      "num": 202278,
+      "word": "短剧的真情侣居然比营业的多",
+      "onboard_time": 1753939042,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -643,12 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171977,
+      "num": 171977,
+      "word": "毕雯珺 第十名的人生",
+      "onboard_time": 1753936104,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171003,
       "num": 171003,
       "word": "整治拉踩互撕等体育饭圈行为",
       "onboard_time": 1753927823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168341,
+      "num": 168341,
+      "word": "卢昱晓返场我家那闺女",
+      "onboard_time": 1753937906,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168057,
@@ -667,12 +731,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 167714,
-      "num": 167714,
-      "word": "毕雯珺 第十名的人生",
-      "onboard_time": 1753936104,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 167432,
+      "num": 167432,
+      "word": "光与夜之恋灼灼金帐栖",
+      "onboard_time": 1753939884,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 165482,
@@ -707,12 +771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157021,
+      "num": 157021,
+      "word": "黄圣依小儿子作品在东京画廊展出",
+      "onboard_time": 1753939644,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155804,
       "num": 155804,
       "word": "杨幂赵露思孟子义同品牌大片",
       "onboard_time": 1753884146,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154554,
+      "num": 154554,
+      "word": "国家网信办约谈英伟达",
+      "onboard_time": 1753939823,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 152970,
@@ -835,28 +915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131420,
-      "num": 131420,
-      "word": "两中国人在东京街上遭4人殴打",
-      "onboard_time": 1753937906,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128661,
       "num": 128661,
       "word": "凡人修仙传第10集开挂",
       "onboard_time": 1753923503,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128554,
-      "num": 128554,
-      "word": "卢昱晓返场我家那闺女",
-      "onboard_time": 1753937906,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 127896,
@@ -915,6 +979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125090,
+      "num": 125090,
+      "word": "我不会被男人骗了因为周也是女人",
+      "onboard_time": 1753939163,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "你要讲啊 你不讲你还指望谁讲",
@@ -929,6 +1001,14 @@
       "onboard_time": 1753935925,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123116,
+      "num": 123116,
+      "word": "毕雯珺现偶黑马男主",
+      "onboard_time": 1753939523,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 122545,
@@ -1003,12 +1083,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108365,
+      "num": 108365,
+      "word": "香港环保餐具居然是2D的",
+      "onboard_time": 1753939884,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105549,
       "num": 105549,
       "word": "我国已全面将辅助生殖技术纳入报销",
       "onboard_time": 1753925601,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105083,
+      "num": 105083,
+      "word": "建议大家尽量不要跟同学一起合租",
+      "onboard_time": 1753938623,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104704,
+      "num": 104704,
+      "word": "月底了 还好没努力",
+      "onboard_time": 1753939523,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 103588,
