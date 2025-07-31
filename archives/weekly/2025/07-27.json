@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753969469988,
+  "endTime": 1753970226311,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1753615764,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 735360,
+      "num": 735360,
+      "word": "怎么不等微信下架再告诉我",
+      "onboard_time": 1753969763,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 733198,
@@ -3443,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341379,
+      "num": 341379,
+      "word": "改掉这些习惯后肚子变小了",
+      "onboard_time": 1753965084,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 338403,
       "num": 338403,
       "word": "歌手2025突围赛名单官宣",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1753778603,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303916,
-      "num": 303916,
-      "word": "改掉这些习惯后肚子变小了",
-      "onboard_time": 1753965084,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 303690,
@@ -4579,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251868,
+      "num": 251868,
+      "word": "李兰迪回应生长痛",
+      "onboard_time": 1753968683,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251626,
       "num": 251626,
       "word": "罗大美遇害被告酒后自曝作案细节",
@@ -4931,14 +4947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233069,
-      "num": 233069,
-      "word": "李兰迪回应生长痛",
-      "onboard_time": 1753968683,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232967,
       "num": 232967,
       "word": "领取育儿补贴记住三步",
@@ -5033,6 +5041,14 @@
       "onboard_time": 1753865664,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229082,
+      "num": 229082,
+      "word": "多伦多市中心几乎全是印度人",
+      "onboard_time": 1753968864,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 228764,
@@ -6507,6 +6523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193741,
+      "num": 193741,
+      "word": "乐道l90价格",
+      "onboard_time": 1753969045,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 193579,
       "num": 193579,
       "word": "王一博回归板仔",
@@ -6809,6 +6833,14 @@
       "onboard_time": 1753697242,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189784,
+      "num": 189784,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1753969643,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189674,
@@ -7427,20 +7459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179582,
-      "num": 179582,
-      "word": "多伦多市中心几乎全是印度人",
-      "onboard_time": 1753968864,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179503,
       "num": 179503,
       "word": "在沈佳润面前跳美美桑内",
       "onboard_time": 1753846705,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179451,
+      "num": 179451,
+      "word": "赵心童6比1战胜丁俊晖",
+      "onboard_time": 1753969825,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 179443,
@@ -7731,6 +7763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175287,
+      "num": 175287,
+      "word": "7年前的孙颖莎好像小苹果",
+      "onboard_time": 1753968804,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175188,
       "num": 192595,
       "word": "酷云",
@@ -7860,7 +7900,7 @@
     },
     {
       "raw_hot": 173331,
-      "num": 173331,
+      "num": 180729,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
       "onboard_time": 1753969343,
       "rank": 27,
@@ -8211,14 +8251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168484,
-      "num": 168484,
-      "word": "乐道l90价格",
-      "onboard_time": 1753969045,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 168460,
       "num": 168460,
       "word": "731",
@@ -8379,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166664,
+      "num": 166664,
+      "word": "男宝星球2",
+      "onboard_time": 1753969704,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166316,
       "num": 187207,
       "word": "三胞胎上名校是复制粘贴的优秀",
@@ -8491,6 +8531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164830,
+      "num": 164830,
+      "word": "陈芋汐夺金后激动到落泪",
+      "onboard_time": 1753965324,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164609,
       "num": 164609,
       "word": "青岛晚霞",
@@ -8571,14 +8619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164085,
-      "num": 164085,
-      "word": "7年前的孙颖莎好像小苹果",
-      "onboard_time": 1753968804,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163938,
       "num": 270656,
       "word": "后备箱的西瓜终于掉不出来了",
@@ -8609,14 +8649,6 @@
       "onboard_time": 1753876943,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 163664,
-      "num": 163664,
-      "word": "陈芋汐夺金后激动到落泪",
-      "onboard_time": 1753965324,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 163597,
@@ -8673,6 +8705,14 @@
       "onboard_time": 1753614562,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162678,
+      "num": 162678,
+      "word": "理想汽车",
+      "onboard_time": 1753969884,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 162653,
@@ -10363,6 +10403,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 142947,
+      "num": 142947,
+      "word": "不妨对全红婵体重浮动多些耐心",
+      "onboard_time": 1753968925,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142925,
       "num": 312492,
       "word": "香港一酒店有男子坠亡妻儿死在房内",
@@ -10881,14 +10929,6 @@
       "onboard_time": 1753918039,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137809,
-      "num": 137809,
-      "word": "不妨对全红婵体重浮动多些耐心",
-      "onboard_time": 1753968925,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 137630,
@@ -11891,12 +11931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128909,
+      "num": 128909,
+      "word": "赵心童上海大师赛晋级四强",
+      "onboard_time": 1753970065,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128894,
       "num": 128894,
       "word": "原神更新",
       "onboard_time": 1753840822,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128880,
+      "num": 128880,
+      "word": "邓妍气场",
+      "onboard_time": 1753969404,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128702,
@@ -12352,6 +12408,14 @@
       "word": "上海制皂回应药皂含苏丹红",
       "onboard_time": 1753787902,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124573,
+      "num": 124573,
+      "word": "18岁烈士祭扫现场全员马赛克",
+      "onboard_time": 1753970186,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -13296,14 +13360,6 @@
       "word": "王星越我鬼混回来了",
       "onboard_time": 1753779264,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 113556,
-      "num": 113556,
-      "word": "邓妍气场",
-      "onboard_time": 1753969404,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -15184,6 +15240,14 @@
       "word": "骑三轮大爷撞上劳斯莱斯执意赔钱",
       "onboard_time": 1753588281,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69064,
+      "num": 288104,
+      "word": "151位无名烈士有名字了",
+      "onboard_time": 1753969884,
+      "rank": 10,
       "category": "民生新闻"
     },
     {

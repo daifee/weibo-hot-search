@@ -1,6 +1,6 @@
 {
   "startTime": 1751301220076,
-  "endTime": 1753969469988,
+  "endTime": 1753970226311,
   "band_list": [
     {
       "raw_hot": 21806068,
@@ -8209,6 +8209,14 @@
       "onboard_time": 1753358964,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 735360,
+      "num": 735360,
+      "word": "怎么不等微信下架再告诉我",
+      "onboard_time": 1753969763,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 735299,
@@ -21411,6 +21419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341379,
+      "num": 341379,
+      "word": "改掉这些习惯后肚子变小了",
+      "onboard_time": 1753965084,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 341374,
       "num": 204813,
       "word": "雨果因签证问题无缘美国大满贯",
@@ -23985,14 +24001,6 @@
       "onboard_time": 1753418783,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303916,
-      "num": 303916,
-      "word": "改掉这些习惯后肚子变小了",
-      "onboard_time": 1753965084,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 303690,
@@ -28827,6 +28835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251868,
+      "num": 251868,
+      "word": "李兰迪回应生长痛",
+      "onboard_time": 1753968683,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251781,
       "num": 251781,
       "word": "GEN战胜T1",
@@ -31035,14 +31051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233069,
-      "num": 233069,
-      "word": "李兰迪回应生长痛",
-      "onboard_time": 1753968683,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233032,
       "num": 233032,
       "word": "单依纯回应编曲两级评价",
@@ -31569,6 +31577,14 @@
       "onboard_time": 1751417481,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229082,
+      "num": 229082,
+      "word": "多伦多市中心几乎全是印度人",
+      "onboard_time": 1753968864,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 228989,
@@ -40051,6 +40067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193741,
+      "num": 193741,
+      "word": "乐道l90价格",
+      "onboard_time": 1752159745,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 193693,
       "num": 243250,
       "word": "何洁 破音",
@@ -41409,6 +41433,14 @@
       "onboard_time": 1752659182,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189784,
+      "num": 246674,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1751341521,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189774,
@@ -44859,14 +44891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179582,
-      "num": 179582,
-      "word": "多伦多市中心几乎全是印度人",
-      "onboard_time": 1753968864,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179581,
       "num": 179581,
       "word": "台风韦帕",
@@ -44897,6 +44921,14 @@
       "onboard_time": 1753846705,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179451,
+      "num": 179451,
+      "word": "赵心童6比1战胜丁俊晖",
+      "onboard_time": 1753969825,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 179443,
@@ -46291,6 +46323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175287,
+      "num": 175287,
+      "word": "7年前的孙颖莎好像小苹果",
+      "onboard_time": 1753968804,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175247,
       "num": 235520,
       "word": "白宇周柯宇battle受伤的是刘宇宁",
@@ -47124,7 +47164,7 @@
     },
     {
       "raw_hot": 173331,
-      "num": 173331,
+      "num": 180729,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
       "onboard_time": 1753969343,
       "rank": 27,
@@ -48891,14 +48931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168484,
-      "num": 168484,
-      "word": "乐道l90价格",
-      "onboard_time": 1752159745,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 168465,
       "num": 264447,
       "word": "腾讯视频连发五条折腰",
@@ -49611,6 +49643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166664,
+      "num": 166664,
+      "word": "男宝星球2",
+      "onboard_time": 1752758303,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166655,
       "num": 166655,
       "word": "福州两男子拖400万现金坐动车",
@@ -50283,6 +50323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164830,
+      "num": 164830,
+      "word": "陈芋汐夺金后激动到落泪",
+      "onboard_time": 1753965324,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164827,
       "num": 152518,
       "word": "陈思罕受伤",
@@ -50563,14 +50611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164085,
-      "num": 164085,
-      "word": "7年前的孙颖莎好像小苹果",
-      "onboard_time": 1753968804,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164060,
       "num": 206228,
       "word": "藏海传跻身上半年电视剧三榜单",
@@ -50761,14 +50801,6 @@
       "onboard_time": 1753876943,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 163664,
-      "num": 163664,
-      "word": "陈芋汐夺金后激动到落泪",
-      "onboard_time": 1753965324,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 163597,
@@ -51121,6 +51153,14 @@
       "onboard_time": 1753614562,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162678,
+      "num": 162678,
+      "word": "理想汽车",
+      "onboard_time": 1753969884,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 162669,
@@ -54593,14 +54633,6 @@
       "onboard_time": 1752641123,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154538,
-      "num": 154538,
-      "word": "男宝星球2",
-      "onboard_time": 1752758303,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 154535,
@@ -60147,6 +60179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 142947,
+      "num": 142947,
+      "word": "不妨对全红婵体重浮动多些耐心",
+      "onboard_time": 1753968925,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142939,
       "num": 142939,
       "word": "王楚钦战胜达科第二局最关键",
@@ -62977,14 +63017,6 @@
       "onboard_time": 1753918039,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137809,
-      "num": 137809,
-      "word": "不妨对全红婵体重浮动多些耐心",
-      "onboard_time": 1753968925,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 137808,
@@ -68083,12 +68115,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128909,
+      "num": 128909,
+      "word": "赵心童上海大师赛晋级四强",
+      "onboard_time": 1753970065,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128894,
       "num": 128894,
       "word": "原神更新",
       "onboard_time": 1753840822,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128880,
+      "num": 128880,
+      "word": "邓妍气场",
+      "onboard_time": 1753969404,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128873,
@@ -70699,6 +70747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124573,
+      "num": 124573,
+      "word": "18岁烈士祭扫现场全员马赛克",
+      "onboard_time": 1753970186,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124549,
       "num": 124549,
       "word": "谁拍的周翊然出来挨夸",
@@ -72785,14 +72841,6 @@
       "onboard_time": 1751779043,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121137,
-      "num": 246674,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1751341521,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121120,
@@ -77529,14 +77577,6 @@
       "onboard_time": 1752309802,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113556,
-      "num": 113556,
-      "word": "邓妍气场",
-      "onboard_time": 1753969404,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 113544,
@@ -92649,6 +92689,14 @@
       "onboard_time": 1751758458,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69064,
+      "num": 288104,
+      "word": "151位无名烈士有名字了",
+      "onboard_time": 1753969884,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68933,
