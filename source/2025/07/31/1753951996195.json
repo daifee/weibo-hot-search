@@ -1,0 +1,410 @@
+{
+  "runTime": 1753951996195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5608901,
+        "num": 5608901,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1636333,
+        "num": 1636333,
+        "word": "北京因灾死亡44人",
+        "onboard_time": 1753949304,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24031,
+        "num": 1476342,
+        "word": "建军98周年主题曲山河守望",
+        "onboard_time": 1753928241,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1388549,
+        "num": 1388549,
+        "word": "密云一养老照料中心死亡31人",
+        "onboard_time": 1753950744,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1094422,
+        "num": 1094422,
+        "word": "马天宇",
+        "onboard_time": 1753945704,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658328,
+        "num": 658328,
+        "word": "女生拆录取通知发现夹带他人通知书",
+        "onboard_time": 1753948526,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860367,
+        "num": 639790,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694611,
+        "num": 615113,
+        "word": "半退圈女演员因利剑玫瑰翻红",
+        "onboard_time": 1753944984,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590071,
+        "num": 590071,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314815,
+        "num": 314815,
+        "word": "日本警方通报2中国人东京遭4人殴打",
+        "onboard_time": 1753948285,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 686819,
+        "num": 313092,
+        "word": "王俊凯演唱会",
+        "onboard_time": 1753948405,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 519619,
+        "num": 312742,
+        "word": "何猷君辟谣私生子传闻",
+        "onboard_time": 1753940363,
+        "rank": 11,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 452159,
+        "num": 310793,
+        "word": "纪凌尘 你们俩睡一块吗",
+        "onboard_time": 1753938684,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354778,
+        "num": 307670,
+        "word": "胡一天时隔700天再进组",
+        "onboard_time": 1753945406,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307329,
+        "num": 307329,
+        "word": "日本遭殴打中国人称不认识袭击者",
+        "onboard_time": 1753949125,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329479,
+        "num": 306623,
+        "word": "汪苏泷张碧晨上个月还在聚餐",
+        "onboard_time": 1753934364,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312933,
+        "num": 304966,
+        "word": "孟子义百度百科年龄被改",
+        "onboard_time": 1753944746,
+        "rank": 16,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 297453,
+        "num": 297453,
+        "word": "日本警方正抓捕4名袭击者",
+        "onboard_time": 1753946904,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280859,
+        "num": 280859,
+        "word": "卫健委工作人员怒吼女子后续",
+        "onboard_time": 1753948346,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253958,
+        "num": 253958,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1753946724,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267287,
+        "num": 253154,
+        "word": "心动的信号8 二本恋综",
+        "onboard_time": 1753948704,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254890,
+        "num": 252842,
+        "word": "陈赫让鹿晗帮买两份小龙虾",
+        "onboard_time": 1753942343,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249753,
+        "num": 249753,
+        "word": "英伟达被约谈",
+        "onboard_time": 1753939283,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221629,
+        "num": 221629,
+        "word": "Wendy开通微博",
+        "onboard_time": 1753951223,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201399,
+        "num": 201399,
+        "word": "武大称未关注到杨某某学术不端质疑",
+        "onboard_time": 1753951102,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194771,
+        "num": 194771,
+        "word": "周深梦泪决战王者之巅",
+        "onboard_time": 1753951523,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243464,
+        "num": 194641,
+        "word": "鹿晗买单call黄子韬",
+        "onboard_time": 1753951283,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172475,
+        "num": 172475,
+        "word": "网易云音乐起诉韩国SM娱乐",
+        "onboard_time": 1753951523,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171960,
+        "num": 171960,
+        "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+        "onboard_time": 1753930342,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146507,
+        "num": 170496,
+        "word": "南京照相馆王真儿意难平",
+        "onboard_time": 1753951223,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220773,
+        "num": 170398,
+        "word": "日本爱子公主和男友去动物园",
+        "onboard_time": 1753950025,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170028,
+        "num": 170028,
+        "word": "为什么过桥米线店越来越少了",
+        "onboard_time": 1753946606,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167720,
+        "num": 167720,
+        "word": "终于有剧拍出了真豪门",
+        "onboard_time": 1753932743,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157847,
+        "num": 157847,
+        "word": "短剧的真情侣居然比营业的多",
+        "onboard_time": 1753939042,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148296,
+        "num": 148296,
+        "word": "方圆脸瘦了35斤的面部变化",
+        "onboard_time": 1753934664,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 147770,
+        "num": 147770,
+        "word": "李想回应把雷军关车里",
+        "onboard_time": 1753949664,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147278,
+        "num": 147278,
+        "word": "北京因灾失踪失联9人",
+        "onboard_time": 1753950443,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142022,
+        "num": 142022,
+        "word": "千岛群岛6.5级地震或引发海啸",
+        "onboard_time": 1753949845,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124184,
+        "num": 141384,
+        "word": "95生猴王格局",
+        "onboard_time": 1753951463,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16783,
+        "num": 141251,
+        "word": "大群如蚂蚁一样的东西是加沙饥民",
+        "onboard_time": 1753951463,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141251,
+        "num": 141250,
+        "word": "李嘉诚40万起卖大湾区400套房产",
+        "onboard_time": 1753931362,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139978,
+        "num": 139978,
+        "word": "汪顺到底是多少人的好朋友",
+        "onboard_time": 1753951823,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28931,
+        "num": 137920,
+        "word": "我军发射洲际弹道导弹独家披露",
+        "onboard_time": 1753921943,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137412,
+        "num": 137412,
+        "word": "张予曦毕雯珺七夕大片",
+        "onboard_time": 1753950443,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131216,
+        "num": 131216,
+        "word": "不同存款的人发工资的表现",
+        "onboard_time": 1753944865,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125389,
+        "num": 125389,
+        "word": "外交部回应2名中国公民在日遭袭",
+        "onboard_time": 1753948526,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125155,
+        "num": 125155,
+        "word": "很意外但是易烊千玺的话很合理",
+        "onboard_time": 1753945166,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124315,
+        "num": 124315,
+        "word": "商务部召开新闻发布会",
+        "onboard_time": 1753949363,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120999,
+        "num": 120999,
+        "word": "四大法术助你安全斩竹节草",
+        "onboard_time": 1753948585,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47709,
+        "num": 120268,
+        "word": "淘宝闪购谁教你这么会送的",
+        "onboard_time": 1753950084,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#山海万里人民军队始终在你身旁#"
+    }
+  }
+}
