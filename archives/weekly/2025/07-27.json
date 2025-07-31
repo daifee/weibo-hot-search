@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753961131656,
+  "endTime": 1753962112031,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -1699,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650716,
+      "num": 309280,
+      "word": "喝蜜雪冰城会被攻击的受害者出现了",
+      "onboard_time": 1753958541,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 645966,
       "num": 645966,
       "word": "心动的信号8",
@@ -2336,6 +2344,14 @@
       "word": "爸爸回应女儿去世儿子患同种病进ICU",
       "onboard_time": 1753726456,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 492859,
+      "num": 492859,
+      "word": "因为她是我妈",
+      "onboard_time": 1753953683,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -3419,14 +3435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334554,
-      "num": 309280,
-      "word": "喝蜜雪冰城会被攻击的受害者出现了",
-      "onboard_time": 1753958541,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 333538,
       "num": 333538,
       "word": "上海月薪27000一天的花销",
@@ -3771,6 +3779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301930,
+      "num": 301930,
+      "word": "王楚钦蘑菇头",
+      "onboard_time": 1753960283,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301891,
       "num": 395963,
       "word": "少林寺通报新住持任职",
@@ -3795,6 +3811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 300762,
+      "num": 273295,
+      "word": "刘轩丞艺考成绩",
+      "onboard_time": 1753959382,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299906,
       "num": 299906,
       "word": "章若楠完全是按照视觉爽点长的",
@@ -3817,6 +3841,14 @@
       "onboard_time": 1753860083,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297834,
+      "num": 297834,
+      "word": "肖战超话里的录取通知书",
+      "onboard_time": 1753954763,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 297091,
@@ -3961,14 +3993,6 @@
       "onboard_time": 1753679723,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 283115,
-      "num": 283115,
-      "word": "肖战超话里的录取通知书",
-      "onboard_time": 1753954763,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 282620,
@@ -4129,6 +4153,14 @@
       "onboard_time": 1753573579,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272362,
+      "num": 272362,
+      "word": "36岁存款30万决定提前退休",
+      "onboard_time": 1753960463,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 271630,
@@ -4387,6 +4419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255140,
+      "num": 255140,
+      "word": "宽带欠费 征信",
+      "onboard_time": 1753960582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254996,
       "num": 372787,
       "word": "育儿补贴在哪申领",
@@ -4433,6 +4473,14 @@
       "onboard_time": 1753679423,
       "rank": 22,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 252470,
+      "num": 286813,
+      "word": "谁家片子一次来这么多明星",
+      "onboard_time": 1753960582,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 251626,
@@ -4576,14 +4624,6 @@
       "word": "武大图书馆事件诬告者岂能毫发无损",
       "onboard_time": 1753959382,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244998,
-      "num": 311226,
-      "word": "因为她是我妈",
-      "onboard_time": 1753953683,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -4755,14 +4795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236884,
-      "num": 236884,
-      "word": "36岁存款30万决定提前退休",
-      "onboard_time": 1753960463,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234817,
       "num": 234817,
       "word": "IVE全员开球",
@@ -4793,6 +4825,14 @@
       "onboard_time": 1753942582,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233900,
+      "num": 233900,
+      "word": "陈芋汐女子10米台夺冠",
+      "onboard_time": 1753961663,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 233124,
@@ -4921,14 +4961,6 @@
       "onboard_time": 1753866683,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 228296,
-      "num": 228296,
-      "word": "刘轩丞艺考成绩",
-      "onboard_time": 1753959382,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 227972,
@@ -5283,6 +5315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215476,
+      "num": 215476,
+      "word": "上海暴雨",
+      "onboard_time": 1753958541,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215251,
       "num": 257821,
       "word": "于途和晶晶终究走上了事业疯批路",
@@ -5579,6 +5619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207918,
+      "num": 235207,
+      "word": "檀健次hi6完全daddy级别",
+      "onboard_time": 1753961242,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207894,
       "num": 207894,
       "word": "释永信春节前后已被限制出境",
@@ -5689,14 +5737,6 @@
       "onboard_time": 1753850426,
       "rank": 33,
       "category": "军事"
-    },
-    {
-      "raw_hot": 205507,
-      "num": 205507,
-      "word": "王楚钦蘑菇头",
-      "onboard_time": 1753960283,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 205501,
@@ -6083,14 +6123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198018,
-      "num": 198018,
-      "word": "上海暴雨",
-      "onboard_time": 1753958541,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197963,
       "num": 197963,
       "word": "育儿补贴线上线下都可办理",
@@ -6324,7 +6356,7 @@
     },
     {
       "raw_hot": 193941,
-      "num": 193941,
+      "num": 267788,
       "word": "洪水中儿子硬把妈妈推上飞机",
       "onboard_time": 1753953083,
       "rank": 28,
@@ -6407,14 +6439,6 @@
       "num": 217327,
       "word": "刘宇宁这8秒长的像一辈子",
       "onboard_time": 1753688185,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192917,
-      "num": 209547,
-      "word": "谁家片子一次来这么多明星",
-      "onboard_time": 1753960582,
       "rank": 28,
       "category": "综艺"
     },
@@ -7163,6 +7187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181976,
+      "num": 181976,
+      "word": "8月份十二星座重点提示",
+      "onboard_time": 1753961544,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181731,
       "num": 207044,
       "word": "这下轮到王星越请苍天辨忠奸了",
@@ -7681,6 +7713,22 @@
       "onboard_time": 1753629446,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 173742,
+      "num": 173742,
+      "word": "陈芋汐207C的神",
+      "onboard_time": 1753961603,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173380,
+      "num": 173380,
+      "word": "MAMA舞台连翻唱都是百万级播放",
+      "onboard_time": 1753961902,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 173213,
@@ -8465,6 +8513,14 @@
       "onboard_time": 1753931542,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162530,
+      "num": 181595,
+      "word": "MINJU开球",
+      "onboard_time": 1753960763,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 162204,
@@ -10603,14 +10659,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136999,
-      "num": 136999,
-      "word": "MINJU开球",
-      "onboard_time": 1753960763,
-      "rank": 45,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 136785,
       "num": 136785,
       "word": "王曼昱vs陈熠",
@@ -12643,6 +12691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116454,
+      "num": 181884,
+      "word": "密密麻麻黑甲虫爬满酒店墙壁",
+      "onboard_time": 1753961183,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116382,
       "num": 1017641,
       "word": "国家育儿补贴方案六大热点问答",
@@ -13553,14 +13609,6 @@
       "onboard_time": 1753887564,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103943,
-      "num": 162170,
-      "word": "宽带欠费 征信",
-      "onboard_time": 1753960582,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103934,
@@ -15283,6 +15331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53644,
+      "num": 265606,
+      "word": "省卫健委回应老人拔12颗牙后身亡",
+      "onboard_time": 1753961483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53505,
       "num": 71645,
       "word": "白鹿支持过虞书欣专辑",
@@ -15947,6 +16003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33524,
+      "num": 258580,
+      "word": "果然世界是个巨大的淘宝闪购",
+      "onboard_time": 1753961784,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33160,
       "num": 130635,
       "word": "陈奕迅庆生全家福",
@@ -16073,6 +16137,14 @@
       "onboard_time": 1753888884,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28724,
+      "num": 181669,
+      "word": "劝烟博主艾伦被打",
+      "onboard_time": 1753961784,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 28481,
