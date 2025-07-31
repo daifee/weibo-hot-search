@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753958984550,
+  "endTime": 1753961131656,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476580,
+      "num": 476580,
+      "word": "武大未删除被指性骚扰男生处分通报",
+      "onboard_time": 1753959203,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474594,
       "num": 474594,
       "word": "瘦不下来是因为一直在过临时生活",
@@ -603,6 +611,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 334554,
+      "num": 309280,
+      "word": "喝蜜雪冰城会被攻击的受害者出现了",
+      "onboard_time": 1753958541,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 329543,
+      "num": 309100,
+      "word": "快递员敲门不开关水阀",
+      "onboard_time": 1753953383,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324390,
       "num": 209757,
       "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
@@ -675,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298770,
-      "num": 298770,
-      "word": "快递员敲门不开关水阀",
-      "onboard_time": 1753953383,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288017,
       "num": 288017,
       "word": "研究称28到32岁是最佳结婚年龄",
@@ -705,6 +721,14 @@
       "onboard_time": 1753887745,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 284674,
+      "num": 284674,
+      "word": "何炅 内娱战地记者",
+      "onboard_time": 1753958541,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 283115,
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 251180,
-      "num": 251180,
+      "num": 278061,
       "word": "新时代人民军队军旗体系发布",
       "onboard_time": 1753953923,
       "rank": 34,
@@ -785,6 +809,22 @@
       "onboard_time": 1753884746,
       "rank": 7,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 246466,
+      "num": 246466,
+      "word": "武大图书馆事件诬告者岂能毫发无损",
+      "onboard_time": 1753959382,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244998,
+      "num": 311226,
+      "word": "因为她是我妈",
+      "onboard_time": 1753953683,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244773,
@@ -811,6 +851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 236884,
+      "num": 236884,
+      "word": "36岁存款30万决定提前退休",
+      "onboard_time": 1753960463,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234129,
       "num": 234129,
       "word": "心动8女嘉宾拒绝绑定",
@@ -833,6 +881,14 @@
       "onboard_time": 1753918521,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228296,
+      "num": 228296,
+      "word": "刘轩丞艺考成绩",
+      "onboard_time": 1753959382,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225513,
@@ -963,6 +1019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206544,
+      "num": 206544,
+      "word": "罗永浩怼网友",
+      "onboard_time": 1753958783,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 205507,
+      "num": 205507,
+      "word": "王楚钦蘑菇头",
+      "onboard_time": 1753960283,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204078,
       "num": 204078,
       "word": "女生长得像车银优是什么体验",
@@ -1000,6 +1072,14 @@
       "word": "武大称未关注到杨某某学术不端质疑",
       "onboard_time": 1753951102,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198018,
+      "num": 198018,
+      "word": "上海暴雨",
+      "onboard_time": 1753958541,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1075,6 +1155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193579,
+      "num": 193579,
+      "word": "王一博回归板仔",
+      "onboard_time": 1753960643,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192917,
+      "num": 209547,
+      "word": "谁家片子一次来这么多明星",
+      "onboard_time": 1753960582,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192554,
       "num": 192554,
       "word": "这届年轻人的拍照僵硬症",
@@ -1083,12 +1179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192233,
-      "num": 192233,
-      "word": "何炅 内娱战地记者",
-      "onboard_time": 1753958541,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 192195,
+      "num": 192195,
+      "word": "985准大学生流水线上读父爱",
+      "onboard_time": 1753959863,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191949,
@@ -1169,14 +1265,6 @@
       "onboard_time": 1753926322,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183585,
-      "num": 183585,
-      "word": "罗永浩怼网友",
-      "onboard_time": 1753958783,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 181731,
@@ -1307,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169910,
-      "num": 169910,
-      "word": "上海暴雨",
-      "onboard_time": 1753958541,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169199,
       "num": 169199,
       "word": "男孩在商场拽母亲衣领",
@@ -1435,12 +1515,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161952,
+      "num": 161952,
+      "word": "漫展上cos王楚钦的男子已道歉",
+      "onboard_time": 1753959022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161458,
       "num": 161458,
       "word": "强降雨致河北35.6万人受灾",
       "onboard_time": 1753874363,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159990,
+      "num": 159990,
+      "word": "K总谈皮皮朱近况",
+      "onboard_time": 1753959203,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 159585,
+      "num": 159585,
+      "word": "哪吒2预约1246万破纪录",
+      "onboard_time": 1753959981,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 159182,
@@ -1579,14 +1683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146174,
-      "num": 146174,
-      "word": "喝蜜雪冰城会被攻击的受害者出现了",
-      "onboard_time": 1753958541,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145515,
       "num": 145515,
       "word": "一条plog告别七月",
@@ -1723,6 +1819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136999,
+      "num": 136999,
+      "word": "MINJU开球",
+      "onboard_time": 1753960763,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 136763,
       "num": 136763,
       "word": "少林寺没人摆摊卖香了",
@@ -1849,14 +1953,6 @@
       "onboard_time": 1753954942,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131548,
-      "num": 131548,
-      "word": "因为她是我妈",
-      "onboard_time": 1753953683,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129796,
@@ -2201,6 +2297,14 @@
       "onboard_time": 1753939523,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103943,
+      "num": 162170,
+      "word": "宽带欠费 征信",
+      "onboard_time": 1753960582,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103588,
@@ -2553,6 +2657,14 @@
       "onboard_time": 1753895899,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54875,
+      "num": 207737,
+      "word": "北京一村支书夫妇救援时被洪水冲走",
+      "onboard_time": 1753959683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54235,
