@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753936036464,
+  "endTime": 1753938062722,
   "band_list": [
     {
       "raw_hot": 2064202,
@@ -11,6 +11,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1253737,
+      "num": 464875,
+      "word": "汪苏泷张碧晨上个月还在聚餐",
+      "onboard_time": 1753934364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1234064,
       "num": 1234064,
       "word": "2024年结婚登记610.6万对",
@@ -19,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 978021,
-      "num": 1153197,
+      "raw_hot": 1074383,
+      "num": 1171901,
       "word": "李嘉诚40万起卖大湾区400套房产",
       "onboard_time": 1753931362,
       "rank": 1,
@@ -35,6 +43,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 909572,
+      "num": 909572,
+      "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+      "onboard_time": 1753930342,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 902608,
       "num": 902608,
       "word": "藏海传导演因为肖战长胖30斤",
@@ -43,20 +59,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 885318,
-      "num": 885318,
-      "word": "龙凤胎弟弟手臂吸入出水口溺亡",
-      "onboard_time": 1753930342,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 841425,
       "num": 997978,
       "word": "日本海啸",
       "onboard_time": 1753844363,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 785429,
+      "num": 442457,
+      "word": "韩国人长白山挥国旗被一把夺下",
+      "onboard_time": 1753936406,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 775778,
@@ -83,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 683681,
+      "num": 683681,
+      "word": "方圆脸瘦了35斤的面部变化",
+      "onboard_time": 1753934664,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 679515,
+      "num": 679515,
+      "word": "于正让李梦少穿点丑衣服",
+      "onboard_time": 1753934124,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677541,
       "num": 677541,
       "word": "12岁小孩姐让整个游泳馆沸腾",
@@ -107,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 606379,
-      "num": 383382,
-      "word": "汪苏泷张碧晨上个月还在聚餐",
-      "onboard_time": 1753934364,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 600106,
+      "num": 600106,
+      "word": "微信聊天发截图前先改亲密备注",
+      "onboard_time": 1753933645,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 574883,
@@ -139,12 +171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 551135,
-      "num": 551135,
-      "word": "于正让李梦少穿点丑衣服",
-      "onboard_time": 1753934124,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 548010,
+      "num": 548010,
+      "word": "终于有剧拍出了真豪门",
+      "onboard_time": 1753932743,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 531219,
@@ -251,28 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376827,
-      "num": 376827,
-      "word": "微信聊天发截图前先改亲密备注",
-      "onboard_time": 1753933645,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 368244,
-      "num": 368244,
+      "num": 760756,
       "word": "我军发射洲际弹道导弹独家披露",
       "onboard_time": 1753921943,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 362819,
-      "num": 242535,
-      "word": "终于有剧拍出了真豪门",
-      "onboard_time": 1753932743,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 361273,
@@ -305,14 +321,6 @@
       "onboard_time": 1753879583,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 352610,
-      "num": 352610,
-      "word": "方圆脸瘦了35斤的面部变化",
-      "onboard_time": 1753934664,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 349654,
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303439,
+      "num": 218487,
+      "word": "张予曦八月行程让我有点晕字",
+      "onboard_time": 1753936705,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287552,
       "num": 287552,
       "word": "没想到内衣也有自己的升咖史",
@@ -385,6 +401,14 @@
       "onboard_time": 1753934063,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273484,
+      "num": 273484,
+      "word": "咖啡店店员遭遇150杯团单跳单",
+      "onboard_time": 1753935684,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 268744,
@@ -425,6 +449,14 @@
       "onboard_time": 1753889004,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244136,
+      "num": 244136,
+      "word": "樱花动漫运营者被判2年3个月",
+      "onboard_time": 1753936825,
+      "rank": 18,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 240088,
@@ -483,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201812,
+      "num": 201812,
+      "word": "坐位体前屈真的公平吗",
+      "onboard_time": 1753936766,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201677,
       "num": 201677,
       "word": "俄罗斯一加工厂被海啸冲走",
       "onboard_time": 1753879343,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 195630,
+      "num": 195630,
+      "word": "王楚钦代言舒肤佳",
+      "onboard_time": 1753937065,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 194621,
@@ -515,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192554,
+      "num": 192554,
+      "word": "这届年轻人的拍照僵硬症",
+      "onboard_time": 1753937543,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187720,
       "num": 187720,
       "word": "美国将对进口铜产品征收50%关税",
@@ -539,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179826,
-      "num": 179826,
-      "word": "咖啡店店员遭遇150杯团单跳单",
-      "onboard_time": 1753935684,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 179034,
+      "num": 179034,
+      "word": "猫猫就这样暗示主人开空调",
+      "onboard_time": 1753937784,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 178651,
@@ -609,6 +665,14 @@
       "onboard_time": 1753891823,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 167714,
+      "num": 167714,
+      "word": "毕雯珺 第十名的人生",
+      "onboard_time": 1753936104,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 165482,
@@ -707,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141978,
+      "num": 141978,
+      "word": "李沁录制令人心动的offer7",
+      "onboard_time": 1753936225,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141850,
       "num": 165673,
       "word": "时代少年团七个大SD",
@@ -755,6 +827,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132388,
+      "num": 132388,
+      "word": "黄金首饰被冲走店主回应为何没投保",
+      "onboard_time": 1753936464,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131420,
+      "num": 131420,
+      "word": "两中国人在东京街上遭4人殴打",
+      "onboard_time": 1753937906,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128661,
       "num": 128661,
       "word": "凡人修仙传第10集开挂",
@@ -763,12 +851,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128554,
+      "num": 128554,
+      "word": "卢昱晓返场我家那闺女",
+      "onboard_time": 1753937906,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127896,
+      "num": 127896,
+      "word": "原来这就是表白啊",
+      "onboard_time": 1753937784,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127865,
+      "num": 127865,
+      "word": "易烊千玺礐峃演唱会官宣成都",
+      "onboard_time": 1753937784,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127834,
       "num": 127834,
       "word": "精彩OK",
       "onboard_time": 1753935504,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 126882,
+      "num": 179770,
+      "word": "丁禹兮爱一个本身很好的人具象化",
+      "onboard_time": 1753935084,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 126812,
@@ -857,6 +977,14 @@
       "onboard_time": 1753934723,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 113265,
+      "num": 113265,
+      "word": "果然玄学的尽头是科学",
+      "onboard_time": 1753934364,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110679,
@@ -971,6 +1099,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 82826,
+      "num": 210475,
+      "word": "兵器装备集团原副总经理刘卫东被双开",
+      "onboard_time": 1753937065,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80420,
       "num": 102066,
       "word": "马嘉祺赛后聊歌手直播感受",
@@ -1023,6 +1159,14 @@
       "num": 88607,
       "word": "金店悬赏每克380元寻被冲走首饰",
       "onboard_time": 1753889782,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74545,
+      "num": 131581,
+      "word": "中国海油原副总经理袁光宇被开除党籍",
+      "onboard_time": 1753936166,
       "rank": 41,
       "category": "民生新闻"
     },
@@ -1105,6 +1249,14 @@
       "onboard_time": 1753917740,
       "rank": 29,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 62049,
+      "num": 180704,
+      "word": "李兰迪直播说剧情说着说着演起来了",
+      "onboard_time": 1753937784,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 61277,
@@ -1283,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23144,
-      "num": 150440,
-      "word": "丁禹兮爱一个本身很好的人具象化",
-      "onboard_time": 1753935084,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21861,
       "num": 27758,
       "word": "游轮客服回应因日本海啸预警无法靠岸",
@@ -1345,6 +1489,9 @@
     },
     {
       "word": "#中共中央召开党外人士座谈会#"
+    },
+    {
+      "word": "#人民军队攻坚向前#"
     }
   ]
 }

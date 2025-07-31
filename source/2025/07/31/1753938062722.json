@@ -1,0 +1,410 @@
+{
+  "runTime": 1753938062722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074383,
+        "num": 1171901,
+        "word": "李嘉诚40万起卖大湾区400套房产",
+        "onboard_time": 1753931362,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909572,
+        "num": 909572,
+        "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+        "onboard_time": 1753930342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81014,
+        "num": 760756,
+        "word": "我军发射洲际弹道导弹独家披露",
+        "onboard_time": 1753921943,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 683681,
+        "num": 683681,
+        "word": "方圆脸瘦了35斤的面部变化",
+        "onboard_time": 1753934664,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 679515,
+        "num": 679515,
+        "word": "于正让李梦少穿点丑衣服",
+        "onboard_time": 1753934124,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600106,
+        "num": 600106,
+        "word": "微信聊天发截图前先改亲密备注",
+        "onboard_time": 1753933645,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 548010,
+        "num": 548010,
+        "word": "终于有剧拍出了真豪门",
+        "onboard_time": 1753932743,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527830,
+        "num": 527830,
+        "word": "藏海传导演因为肖战长胖30斤",
+        "onboard_time": 1753928003,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494064,
+        "num": 494064,
+        "word": "我家那闺女",
+        "onboard_time": 1753931844,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486245,
+        "num": 486245,
+        "word": "海啸",
+        "onboard_time": 1753932684,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1253737,
+        "num": 464875,
+        "word": "汪苏泷张碧晨上个月还在聚餐",
+        "onboard_time": 1753934364,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 908959,
+        "num": 446526,
+        "word": "新疆炒米粉",
+        "onboard_time": 1753930162,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 785429,
+        "num": 442457,
+        "word": "韩国人长白山挥国旗被一把夺下",
+        "onboard_time": 1753936406,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381691,
+        "num": 381691,
+        "word": "虞书欣变更工作联系方式",
+        "onboard_time": 1753933402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331103,
+        "num": 331103,
+        "word": "2025年上半年结婚登记353.9万对",
+        "onboard_time": 1753931904,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285752,
+        "num": 285752,
+        "word": "迪丽热巴明艳黄玫瑰",
+        "onboard_time": 1753931542,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273484,
+        "num": 273484,
+        "word": "咖啡店店员遭遇150杯团单跳单",
+        "onboard_time": 1753935684,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258397,
+        "num": 258397,
+        "word": "朝雪录向李兰迪敖瑞鹏及粉丝道歉",
+        "onboard_time": 1753931542,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244136,
+        "num": 244136,
+        "word": "樱花动漫运营者被判2年3个月",
+        "onboard_time": 1753936825,
+        "rank": 18,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 240717,
+        "num": 240717,
+        "word": "中国游客在日本地铁遇骚扰",
+        "onboard_time": 1753927043,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30530,
+        "num": 220018,
+        "word": "建军98周年主题曲山河守望",
+        "onboard_time": 1753928241,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303439,
+        "num": 218487,
+        "word": "张予曦八月行程让我有点晕字",
+        "onboard_time": 1753936705,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210887,
+        "num": 210887,
+        "word": "心动的信号徐如蓝",
+        "onboard_time": 1753927643,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82826,
+        "num": 210475,
+        "word": "兵器装备集团原副总经理刘卫东被双开",
+        "onboard_time": 1753937065,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210347,
+        "num": 210347,
+        "word": "夜旅人",
+        "onboard_time": 1753934063,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201812,
+        "num": 201812,
+        "word": "坐位体前屈真的公平吗",
+        "onboard_time": 1753936766,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 195630,
+        "num": 195630,
+        "word": "王楚钦代言舒肤佳",
+        "onboard_time": 1753937065,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192554,
+        "num": 192554,
+        "word": "这届年轻人的拍照僵硬症",
+        "onboard_time": 1753937543,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192408,
+        "num": 192408,
+        "word": "巴基斯坦遥感卫星01星发射成功",
+        "onboard_time": 1753932563,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62049,
+        "num": 180704,
+        "word": "李兰迪直播说剧情说着说着演起来了",
+        "onboard_time": 1753937784,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126882,
+        "num": 179770,
+        "word": "丁禹兮爱一个本身很好的人具象化",
+        "onboard_time": 1753935084,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179034,
+        "num": 179034,
+        "word": "猫猫就这样暗示主人开空调",
+        "onboard_time": 1753937784,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167714,
+        "num": 167714,
+        "word": "毕雯珺 第十名的人生",
+        "onboard_time": 1753936104,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157713,
+        "num": 157713,
+        "word": "没想到内衣也有自己的升咖史",
+        "onboard_time": 1753933045,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148111,
+        "num": 148111,
+        "word": "夏断食一个月瘦了30斤",
+        "onboard_time": 1753926503,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141978,
+        "num": 141978,
+        "word": "李沁录制令人心动的offer7",
+        "onboard_time": 1753936225,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141164,
+        "num": 141164,
+        "word": "其实你根本不用纠结离不离职",
+        "onboard_time": 1753933943,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139430,
+        "num": 139430,
+        "word": "张予曦毕雯珺七夕双人封面",
+        "onboard_time": 1753933823,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138902,
+        "num": 138902,
+        "word": "少林寺新住持对待商业化很谨慎",
+        "onboard_time": 1753931542,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138138,
+        "num": 138138,
+        "word": "黄一鸣想让女儿出国留学",
+        "onboard_time": 1753927102,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132388,
+        "num": 132388,
+        "word": "黄金首饰被冲走店主回应为何没投保",
+        "onboard_time": 1753936464,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74545,
+        "num": 131581,
+        "word": "中国海油原副总经理袁光宇被开除党籍",
+        "onboard_time": 1753936166,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131420,
+        "num": 131420,
+        "word": "两中国人在东京街上遭4人殴打",
+        "onboard_time": 1753937906,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130223,
+        "num": 130223,
+        "word": "这才是四大国乙",
+        "onboard_time": 1753932144,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128554,
+        "num": 128554,
+        "word": "卢昱晓返场我家那闺女",
+        "onboard_time": 1753937906,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127896,
+        "num": 127896,
+        "word": "原来这就是表白啊",
+        "onboard_time": 1753937784,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127865,
+        "num": 127865,
+        "word": "易烊千玺礐峃演唱会官宣成都",
+        "onboard_time": 1753937784,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113265,
+        "num": 113265,
+        "word": "果然玄学的尽头是科学",
+        "onboard_time": 1753934364,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113223,
+        "num": 113223,
+        "word": "TMEA音乐盛典全阵容",
+        "onboard_time": 1753935925,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105252,
+        "num": 105252,
+        "word": "行程图",
+        "onboard_time": 1753928003,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
