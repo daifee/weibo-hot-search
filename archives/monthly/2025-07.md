@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/31 23:31:02
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/31 23:46:15
 </p>
 </blockquote>
 <p>
@@ -387,6 +387,12 @@ GAI 公务员裸辞的疯感（热度：2940380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E6%92%A4%E9%94%80%E8%82%96%E5%90%8C%E5%AD%A6%E5%A4%84%E5%88%86%23" target="weibo">
+武大校长回应是否撤销肖同学处分（热度：2819388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%9C%AC%E6%98%8C%23" target="weibo">
 游本昌（热度：2810309）
 </a>
@@ -695,12 +701,6 @@ AL亚军（热度：2178759）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%96%E6%9B%B2%E7%BB%99%E6%9D%8E%E4%BD%B3%E8%96%87%E5%81%9A%E5%B1%80%E4%BA%86%23" target="weibo">
 编曲给李佳薇做局了（热度：2139826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E6%92%A4%E9%94%80%E8%82%96%E5%90%8C%E5%AD%A6%E5%A4%84%E5%88%86%23" target="weibo">
-武大校长回应是否撤销肖同学处分（热度：2132935）
 </a>
 </li>
 
