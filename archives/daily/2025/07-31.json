@@ -1,7 +1,23 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753941125298,
+  "endTime": 1753944109092,
   "band_list": [
+    {
+      "raw_hot": 9217823,
+      "num": 9217823,
+      "word": "李明德被判有期徒刑六个月",
+      "onboard_time": 1753942884,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2320220,
+      "num": 968869,
+      "word": "何猷君辟谣私生子传闻",
+      "onboard_time": 1753940363,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2064202,
       "num": 1894840,
@@ -9,6 +25,14 @@
       "onboard_time": 1753930162,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1684862,
+      "num": 376719,
+      "word": "李明德砸车事件车主获赔20万",
+      "onboard_time": 1753942824,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1253737,
@@ -49,14 +73,6 @@
       "onboard_time": 1753930342,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 968869,
-      "num": 968869,
-      "word": "何猷君辟谣私生子传闻",
-      "onboard_time": 1753940363,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 938210,
@@ -163,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 578953,
+      "num": 364633,
+      "word": "短剧的真情侣居然比营业的多",
+      "onboard_time": 1753939042,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574883,
       "num": 574883,
       "word": "新疆出现罕见白色藏羚羊",
@@ -225,6 +249,14 @@
       "onboard_time": 1753928003,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500540,
+      "num": 319931,
+      "word": "陈赫让鹿晗帮买两份小龙虾",
+      "onboard_time": 1753942343,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 482918,
@@ -379,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 344965,
-      "num": 217544,
-      "word": "短剧的真情侣居然比营业的多",
-      "onboard_time": 1753939042,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324390,
       "num": 209757,
       "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288017,
+      "num": 288017,
+      "word": "研究称28到32岁是最佳结婚年龄",
+      "onboard_time": 1753941203,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287552,
       "num": 287552,
       "word": "没想到内衣也有自己的升咖史",
@@ -465,6 +497,14 @@
       "onboard_time": 1753934063,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271630,
+      "num": 271630,
+      "word": "黄圣依小儿子作品在东京画廊展出",
+      "onboard_time": 1753939644,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 268744,
@@ -515,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 234129,
+      "num": 234129,
+      "word": "心动8女嘉宾拒绝绑定",
+      "onboard_time": 1753942582,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233124,
       "num": 233124,
       "word": "第一次见挫骨扬灰型男主",
@@ -537,14 +585,6 @@
       "onboard_time": 1753895659,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222435,
-      "num": 222435,
-      "word": "黄圣依小儿子作品在东京画廊展出",
-      "onboard_time": 1753939644,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 212658,
@@ -651,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191782,
+      "num": 191782,
+      "word": "seventeen香港",
+      "onboard_time": 1753943003,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187720,
       "num": 187720,
       "word": "美国将对进口铜产品征收50%关税",
@@ -673,6 +721,14 @@
       "onboard_time": 1753924283,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180428,
+      "num": 180428,
+      "word": "傅首尔妈系变姐系",
+      "onboard_time": 1753943664,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 179034,
@@ -713,6 +769,22 @@
       "onboard_time": 1753935925,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176225,
+      "num": 228918,
+      "word": "侧躺时脊柱的状态变化",
+      "onboard_time": 1753940483,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175504,
+      "num": 175504,
+      "word": "何猷君回应",
+      "onboard_time": 1753942824,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 173895,
@@ -827,6 +899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154001,
+      "num": 154001,
+      "word": "迪丽热巴这段不知道的以为是花絮",
+      "onboard_time": 1753942403,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153273,
+      "num": 153273,
+      "word": "地板坏 嘉祺好",
+      "onboard_time": 1753943183,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152970,
       "num": 152970,
       "word": "七月最后一天",
@@ -923,12 +1011,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137250,
+      "num": 135580,
+      "word": "恋综男嘉宾和路人奶奶撞衫",
+      "onboard_time": 1753944086,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137113,
       "num": 137113,
       "word": "8月起现金买黄金超过10万需上报",
       "onboard_time": 1753927762,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136387,
+      "num": 121057,
+      "word": "凡人修仙传特效",
+      "onboard_time": 1753943484,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136054,
+      "num": 136054,
+      "word": "黄金首饰被冲走店主回应为何没投保",
+      "onboard_time": 1753936464,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134659,
@@ -947,19 +1059,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133785,
+      "num": 133785,
+      "word": "36岁残疾男子赔偿金全打给了女网友",
+      "onboard_time": 1753942343,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133310,
       "num": 133310,
       "word": "女乘客说高铁上收到小卡片暖到了",
       "onboard_time": 1753926503,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132388,
-      "num": 132388,
-      "word": "黄金首饰被冲走店主回应为何没投保",
-      "onboard_time": 1753936464,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -979,12 +1091,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129137,
+      "num": 131788,
+      "word": "香港环保餐具居然是2D的",
+      "onboard_time": 1753939884,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128702,
+      "num": 122754,
+      "word": "陈都灵翘楚路透1女vN男",
+      "onboard_time": 1753942824,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128661,
       "num": 128661,
       "word": "凡人修仙传第10集开挂",
       "onboard_time": 1753923503,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128612,
+      "num": 128612,
+      "word": "男子去世继女继承遗产亲生女反对",
+      "onboard_time": 1753941142,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127896,
@@ -1033,14 +1169,6 @@
       "onboard_time": 1753933223,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126086,
-      "num": 131788,
-      "word": "香港环保餐具居然是2D的",
-      "onboard_time": 1753939884,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125870,
@@ -1163,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109532,
+      "num": 109532,
+      "word": "李兰迪敖瑞鹏芭莎双人爱恋大片",
+      "onboard_time": 1753941743,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 108482,
       "num": 108482,
       "word": "川渝人出远门最放心不下的东西",
@@ -1283,6 +1419,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 84285,
+      "num": 123006,
+      "word": "乌克兰人跪地迎接阵亡士兵回家",
+      "onboard_time": 1753943968,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82826,
       "num": 210475,
       "word": "兵器装备集团原副总经理刘卫东被双开",
@@ -1401,6 +1545,14 @@
       "onboard_time": 1753879223,
       "rank": 29,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 65235,
+      "num": 325429,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1753943603,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65017,
@@ -1577,6 +1729,14 @@
       "onboard_time": 1753899856,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40295,
+      "num": 128682,
+      "word": "韩立又给师姐喂了忘尘丹",
+      "onboard_time": 1753943543,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 36306,

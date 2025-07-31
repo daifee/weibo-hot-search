@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1753941125298,
+  "endTime": 1753944109092,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1095,6 +1095,14 @@
       "num": 9238219,
       "word": "沈腾方否认和林允恋情",
       "onboard_time": 1738746503,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9217823,
+      "num": 9217823,
+      "word": "李明德被判有期徒刑六个月",
+      "onboard_time": 1753942884,
       "rank": 0,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744340783,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 3800303,
-      "num": 541677,
-      "word": "恋丑癖",
-      "onboard_time": 1745393722,
-      "rank": 26,
-      "category": "情感,艺人"
     }
   ],
   "hotgov_list": [
