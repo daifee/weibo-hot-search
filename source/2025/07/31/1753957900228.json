@@ -1,0 +1,410 @@
+{
+  "runTime": 1753957900228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1803238,
+        "num": 1803238,
+        "word": "请回答1988宝拉上海偷拍快递员",
+        "onboard_time": 1753955424,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1178704,
+        "num": 1178704,
+        "word": "漫展cos王楚钦",
+        "onboard_time": 1753952124,
+        "rank": 1,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 52978,
+        "num": 962048,
+        "word": "万千气象看西藏",
+        "onboard_time": 1753952423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765169,
+        "num": 765169,
+        "word": "女生拆录取通知发现夹带他人通知书",
+        "onboard_time": 1753948526,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661833,
+        "num": 661833,
+        "word": "密云一养老照料中心死亡31人",
+        "onboard_time": 1753950744,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2084519,
+        "num": 653648,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639252,
+        "num": 639252,
+        "word": "武大回应法院驳回对性骚扰男生指控",
+        "onboard_time": 1753956623,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558285,
+        "num": 558285,
+        "word": "北京因灾死亡44人",
+        "onboard_time": 1753949304,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552960,
+        "num": 552960,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461525,
+        "num": 551017,
+        "word": "加沙男童领食物道谢后即遭射杀",
+        "onboard_time": 1753955003,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 714029,
+        "num": 550784,
+        "word": "刘亦菲本科毕业论文答辩",
+        "onboard_time": 1753955124,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593142,
+        "num": 550111,
+        "word": "纪凌尘 你们俩睡一块吗",
+        "onboard_time": 1753938684,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549235,
+        "num": 549235,
+        "word": "刘芸14岁儿子近照",
+        "onboard_time": 1753953144,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544517,
+        "num": 544517,
+        "word": "北京31死养老中心未列入转移范围",
+        "onboard_time": 1753954342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521418,
+        "num": 521418,
+        "word": "马天宇",
+        "onboard_time": 1753945704,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405996,
+        "num": 405996,
+        "word": "日本遭殴打中国人称不认识袭击者",
+        "onboard_time": 1753949125,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 448827,
+        "num": 397735,
+        "word": "王俊凯演唱会",
+        "onboard_time": 1753948405,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376775,
+        "num": 376775,
+        "word": "网易云音乐起诉韩国SM娱乐",
+        "onboard_time": 1753951523,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351009,
+        "num": 351009,
+        "word": "鹿晗买单call黄子韬",
+        "onboard_time": 1753951283,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304819,
+        "num": 304819,
+        "word": "哪吒2网播定档",
+        "onboard_time": 1753953504,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298770,
+        "num": 298770,
+        "word": "快递员敲门不开关水阀",
+        "onboard_time": 1753953383,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297583,
+        "num": 297583,
+        "word": "北京密云通报太师屯救援情况",
+        "onboard_time": 1753952364,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271328,
+        "num": 271328,
+        "word": "肖战超话里的录取通知书",
+        "onboard_time": 1753954763,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261818,
+        "num": 261818,
+        "word": "半退圈女演员因利剑玫瑰翻红",
+        "onboard_time": 1753944984,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229682,
+        "num": 229682,
+        "word": "何猷君辟谣私生子传闻",
+        "onboard_time": 1753940363,
+        "rank": 24,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 212634,
+        "num": 212634,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210161,
+        "num": 210161,
+        "word": "女主破破烂烂男主缝缝补补",
+        "onboard_time": 1753957103,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176343,
+        "num": 176343,
+        "word": "你抢不到票的歌手都来TMEA了",
+        "onboard_time": 1753957582,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173753,
+        "num": 173753,
+        "word": "李明德工作室被税务多次催报",
+        "onboard_time": 1753955064,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165318,
+        "num": 165318,
+        "word": "孟子义百度百科年龄被改",
+        "onboard_time": 1753944746,
+        "rank": 29,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 159662,
+        "num": 159662,
+        "word": "心有鱼 力不足",
+        "onboard_time": 1753957463,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150447,
+        "num": 150447,
+        "word": "胡一天时隔700天再进组",
+        "onboard_time": 1753945406,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149205,
+        "num": 149205,
+        "word": "清潭国际高中2",
+        "onboard_time": 1753955784,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142619,
+        "num": 142619,
+        "word": "理想i8 乘龙卡车",
+        "onboard_time": 1753956083,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138740,
+        "num": 138740,
+        "word": "草莓熊设计师居然是罗小黑激推",
+        "onboard_time": 1753957823,
+        "rank": 34,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 129578,
+        "num": 138316,
+        "word": "广东一地开展免费核酸筛查",
+        "onboard_time": 1753956083,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139068,
+        "num": 138311,
+        "word": "一些初显老人味的生活特征",
+        "onboard_time": 1753954165,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138122,
+        "num": 138122,
+        "word": "这些歌被翻唱后听着更对味了",
+        "onboard_time": 1753957643,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137712,
+        "num": 137712,
+        "word": "卫健委工作人员怒吼女子后续",
+        "onboard_time": 1753948346,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136763,
+        "num": 136763,
+        "word": "少林寺没人摆摊卖香了",
+        "onboard_time": 1753956083,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136038,
+        "num": 136038,
+        "word": "黄景瑜怎么知道黄明昊练车到三点",
+        "onboard_time": 1753956443,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135673,
+        "num": 135673,
+        "word": "汪苏泷张碧晨上个月还在聚餐",
+        "onboard_time": 1753934364,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135585,
+        "num": 135585,
+        "word": "新住持首次在少林寺公开亮相",
+        "onboard_time": 1753954284,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135275,
+        "num": 135275,
+        "word": "新时代人民军队军旗体系发布",
+        "onboard_time": 1753953923,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134559,
+        "num": 134559,
+        "word": "厦大陈同学为何会在网上出口成脏",
+        "onboard_time": 1753957762,
+        "rank": 44,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 133639,
+        "num": 133639,
+        "word": "给2个单位5名个人记功",
+        "onboard_time": 1753956143,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132793,
+        "num": 132793,
+        "word": "黎深杂志",
+        "onboard_time": 1753957223,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129796,
+        "num": 129796,
+        "word": "深情眼暑期档黑马",
+        "onboard_time": 1753955364,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128926,
+        "num": 128926,
+        "word": "上拉如曝小英高薪雇5个小工养牛",
+        "onboard_time": 1753953743,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126276,
+        "num": 126276,
+        "word": "心动的信号8 二本恋综",
+        "onboard_time": 1753948704,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
