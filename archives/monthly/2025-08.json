@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754004486685,
+  "endTime": 1754005350055,
   "band_list": [
     {
       "raw_hot": 1778162,
@@ -19,20 +19,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 565139,
-      "num": 141324,
-      "word": "李明德被判有期徒刑六个月",
-      "onboard_time": 1753942884,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 556946,
-      "num": 556946,
+      "raw_hot": 618535,
+      "num": 618535,
       "word": "佛山突发公共卫生事件三级响应启动",
       "onboard_time": 1753973184,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565139,
+      "num": 164433,
+      "word": "李明德被判有期徒刑六个月",
+      "onboard_time": 1753942884,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 484599,
@@ -51,20 +51,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438255,
-      "num": 438255,
+      "raw_hot": 455990,
+      "num": 455990,
       "word": "张碧晨爱的史诗交响演唱会",
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
     },
     {
-      "raw_hot": 357409,
-      "num": 357409,
+      "raw_hot": 422515,
+      "num": 422515,
       "word": "多伦多市中心几乎全是印度人",
       "onboard_time": 1753968864,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 355767,
+      "num": 220159,
+      "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
+      "onboard_time": 1753998674,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 332349,
@@ -75,12 +83,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 270721,
-      "num": 200650,
-      "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
-      "onboard_time": 1753998674,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 291894,
+      "num": 291894,
+      "word": "昆明通报129名游客滞留服务区",
+      "onboard_time": 1753994654,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266209,
@@ -88,6 +96,14 @@
       "word": "李明德砸车事件车主获赔20万",
       "onboard_time": 1753942824,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262921,
+      "num": 220120,
+      "word": "刘芸晒照帮儿子挽回颜值形象",
+      "onboard_time": 1753972105,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -99,28 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251334,
-      "num": 251334,
-      "word": "昆明通报129名游客滞留服务区",
-      "onboard_time": 1753994654,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250616,
       "num": 250616,
       "word": "湖南一女子30楼坠落奇迹生还",
       "onboard_time": 1753973723,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242193,
-      "num": 197395,
-      "word": "刘芸晒照帮儿子挽回颜值形象",
-      "onboard_time": 1753972105,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 233227,
@@ -139,11 +139,35 @@
       "category": "演出"
     },
     {
-      "raw_hot": 225258,
-      "num": 225258,
+      "raw_hot": 228995,
+      "num": 228995,
       "word": "外嫁女户籍仍在本村拆迁补偿却没份",
       "onboard_time": 1753979362,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220220,
+      "num": 220220,
+      "word": "八月对我好一点",
+      "onboard_time": 1754003779,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 219639,
+      "num": 219639,
+      "word": "原来微信右上角的加号有这么多功能",
+      "onboard_time": 1754004318,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 214182,
+      "num": 166204,
+      "word": "39岁爸爸与05后儿子同框像兄弟",
+      "onboard_time": 1754004499,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 202271,
-      "num": 141308,
+      "num": 158296,
       "word": "12岁女孩因不良用眼习惯捉出几十条虫",
       "onboard_time": 1753971444,
       "rank": 22,
@@ -179,12 +203,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 191357,
-      "num": 194149,
-      "word": "八月对我好一点",
-      "onboard_time": 1754003779,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 194476,
+      "num": 194476,
+      "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+      "onboard_time": 1753964302,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186635,
@@ -195,12 +219,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 164389,
-      "num": 164389,
-      "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
-      "onboard_time": 1753964302,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 164729,
+      "num": 164729,
+      "word": "八月长安",
+      "onboard_time": 1754003898,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 161232,
@@ -236,19 +260,11 @@
     },
     {
       "raw_hot": 150487,
-      "num": 150487,
+      "num": 196106,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
       "onboard_time": 1753969343,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136064,
-      "num": 136064,
-      "word": "原来微信右上角的加号有这么多功能",
-      "onboard_time": 1754004318,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 135668,
@@ -275,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122751,
-      "num": 122751,
-      "word": "八月长安",
-      "onboard_time": 1754003898,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113167,
       "num": 113167,
       "word": "航仔回复让杨洋替演阔夫",
@@ -297,6 +305,14 @@
       "onboard_time": 1753960463,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96157,
+      "num": 96157,
+      "word": "宋浩然独自带女儿回十堰办周岁宴",
+      "onboard_time": 1753965564,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 96127,
@@ -315,20 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95633,
-      "num": 95633,
-      "word": "宋浩然独自带女儿回十堰办周岁宴",
-      "onboard_time": 1753965564,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 93073,
       "num": 93073,
       "word": "最佳减重运动排行榜第一是跳绳",
       "onboard_time": 1753974624,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 92565,
+      "num": 166764,
+      "word": "汪苏泷回应和韩红合唱年轮",
+      "onboard_time": 1754004620,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 91735,
@@ -379,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84070,
+      "num": 84070,
+      "word": "第一次见小孔雀开屏",
+      "onboard_time": 1754002637,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83326,
       "num": 83326,
       "word": "易烊千玺抢票",
@@ -419,12 +443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 72434,
-      "num": 72434,
-      "word": "第一次见小孔雀开屏",
-      "onboard_time": 1754002637,
+      "raw_hot": 73569,
+      "num": 73569,
+      "word": "Rapeter淘汰",
+      "onboard_time": 1754005039,
       "rank": 34,
-      "category": "幽默"
+      "category": "综艺"
     },
     {
       "raw_hot": 71574,
@@ -435,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70852,
+      "num": 70852,
+      "word": "这穿搭让人眼前一暗又一亮的",
+      "onboard_time": 1753999217,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 70308,
       "num": 81121,
       "word": "员工篡改中奖二维码盗走650万元奖金",
       "onboard_time": 1753974443,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69531,
-      "num": 69531,
-      "word": "这穿搭让人眼前一暗又一亮的",
-      "onboard_time": 1753999217,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 69017,
@@ -491,8 +515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61904,
-      "num": 61904,
+      "raw_hot": 64371,
+      "num": 64371,
       "word": "杨迪错过奔跑吧第一季邀请",
       "onboard_time": 1753973304,
       "rank": 46,
@@ -505,6 +529,14 @@
       "onboard_time": 1753977442,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58570,
+      "num": 190689,
+      "word": "沙特一游乐场大摆锤断裂致23人受伤",
+      "onboard_time": 1753973664,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56569,
@@ -523,12 +555,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56096,
-      "num": 190689,
-      "word": "沙特一游乐场大摆锤断裂致23人受伤",
-      "onboard_time": 1753973664,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 51639,
+      "num": 58558,
+      "word": "八月文案",
+      "onboard_time": 1754005280,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 48176,
+      "num": 58550,
+      "word": "赵心童6比1战胜丁俊晖",
+      "onboard_time": 1753969825,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46299,
+      "num": 58545,
+      "word": "佛山基孔肯雅热目前病例均为轻症",
+      "onboard_time": 1753988055,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41803,
@@ -569,14 +617,6 @@
       "onboard_time": 1753982658,
       "rank": 47,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 39689,
-      "num": 53549,
-      "word": "佛山基孔肯雅热目前病例均为轻症",
-      "onboard_time": 1753988055,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38519,
@@ -659,14 +699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 18198,
-      "num": 29860,
-      "word": "赵心童6比1战胜丁俊晖",
-      "onboard_time": 1753969825,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13477,
       "num": 18290,
       "word": "杨洋航仔合拍",
@@ -691,8 +723,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3829,
-      "num": 480158,
+      "raw_hot": 3866,
+      "num": 516945,
       "word": "我军新型潜艇远航任务画面首曝光",
       "onboard_time": 1753922663,
       "rank": 2,

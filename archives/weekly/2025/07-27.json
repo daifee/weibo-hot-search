@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754004486685,
+  "endTime": 1754005350055,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -1851,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 618535,
+      "num": 618535,
+      "word": "佛山突发公共卫生事件三级响应启动",
+      "onboard_time": 1753973184,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 618121,
       "num": 618121,
       "word": "三甲医院医生谈李晟岔腿坐是有益的",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1753915816,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 556946,
-      "num": 556946,
-      "word": "佛山突发公共卫生事件三级响应启动",
-      "onboard_time": 1753973184,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 553280,
@@ -2659,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455990,
+      "num": 455990,
+      "word": "张碧晨爱的史诗交响演唱会",
+      "onboard_time": 1753974683,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 455703,
       "num": 455703,
       "word": "李小冉给何炅备注八块腹肌不能删",
@@ -2801,14 +2809,6 @@
       "onboard_time": 1753612942,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 438255,
-      "num": 438255,
-      "word": "张碧晨爱的史诗交响演唱会",
-      "onboard_time": 1753974683,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 438017,
@@ -3417,6 +3417,14 @@
       "onboard_time": 1753927043,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 355767,
+      "num": 220159,
+      "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
+      "onboard_time": 1753998674,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 354966,
@@ -4091,6 +4099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 291894,
+      "num": 291894,
+      "word": "昆明通报129名游客滞留服务区",
+      "onboard_time": 1753994654,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288878,
       "num": 288878,
       "word": "WBG战胜Gr",
@@ -4393,14 +4409,6 @@
       "onboard_time": 1753542686,
       "rank": 16,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 270721,
-      "num": 200650,
-      "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
-      "onboard_time": 1753998674,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 269333,
@@ -4736,14 +4744,6 @@
       "word": "南京大屠杀幸存者后人在日本发声",
       "onboard_time": 1753633401,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251334,
-      "num": 251334,
-      "word": "昆明通报129名游客滞留服务区",
-      "onboard_time": 1753994654,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -5195,6 +5195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 228995,
+      "num": 228995,
+      "word": "外嫁女户籍仍在本村拆迁补偿却没份",
+      "onboard_time": 1753979362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228764,
       "num": 228764,
       "word": "二十届四中全会",
@@ -5289,14 +5297,6 @@
       "onboard_time": 1753623626,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 225258,
-      "num": 225258,
-      "word": "外嫁女户籍仍在本村拆迁补偿却没份",
-      "onboard_time": 1753979362,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225005,
@@ -5443,6 +5443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220220,
+      "num": 220220,
+      "word": "八月对我好一点",
+      "onboard_time": 1754003779,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219978,
       "num": 219978,
       "word": "演唱会CEO出轨的最大赢家出现了",
@@ -5465,6 +5473,14 @@
       "onboard_time": 1753603043,
       "rank": 17,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 219639,
+      "num": 219639,
+      "word": "原来微信右上角的加号有这么多功能",
+      "onboard_time": 1754004318,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 218777,
@@ -5624,6 +5640,14 @@
       "word": "网友曝山姆多款产品偷偷减重",
       "onboard_time": 1753702764,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214182,
+      "num": 166204,
+      "word": "39岁爸爸与05后儿子同框像兄弟",
+      "onboard_time": 1754004499,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -6913,14 +6937,6 @@
       "onboard_time": 1753882825,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191357,
-      "num": 194149,
-      "word": "八月对我好一点",
-      "onboard_time": 1754003779,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 191302,
@@ -8753,6 +8769,14 @@
       "onboard_time": 1753971265,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164729,
+      "num": 164729,
+      "word": "八月长安",
+      "onboard_time": 1754003898,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 164609,
@@ -11331,14 +11355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136064,
-      "num": 136064,
-      "word": "原来微信右上角的加号有这么多功能",
-      "onboard_time": 1754004318,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 136054,
       "num": 136054,
       "word": "黄金首饰被冲走店主回应为何没投保",
@@ -12913,14 +12929,6 @@
       "onboard_time": 1753687943,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122751,
-      "num": 122751,
-      "word": "八月长安",
-      "onboard_time": 1754003898,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 122687,
@@ -14931,6 +14939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 92565,
+      "num": 166764,
+      "word": "汪苏泷回应和韩红合唱年轮",
+      "onboard_time": 1754004620,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92420,
       "num": 116659,
       "word": "曝沈玉琳因猛爆性肝炎引发脑水肿",
@@ -15209,6 +15225,14 @@
       "onboard_time": 1753805483,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84070,
+      "num": 84070,
+      "word": "第一次见小孔雀开屏",
+      "onboard_time": 1754002637,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 83847,
@@ -15539,6 +15563,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 73569,
+      "num": 73569,
+      "word": "Rapeter淘汰",
+      "onboard_time": 1754005039,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73101,
       "num": 150591,
       "word": "落马官员一副眼镜4.36万起拍",
@@ -15561,14 +15593,6 @@
       "onboard_time": 1753821554,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72434,
-      "num": 72434,
-      "word": "第一次见小孔雀开屏",
-      "onboard_time": 1754002637,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 72264,
@@ -15667,6 +15691,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 70852,
+      "num": 70852,
+      "word": "这穿搭让人眼前一暗又一亮的",
+      "onboard_time": 1753999217,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 70625,
       "num": 70625,
       "word": "北京大风",
@@ -15713,14 +15745,6 @@
       "onboard_time": 1753588281,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69531,
-      "num": 69531,
-      "word": "这穿搭让人眼前一暗又一亮的",
-      "onboard_time": 1753999217,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 69064,
@@ -16091,6 +16115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58570,
+      "num": 190689,
+      "word": "沙特一游乐场大摆锤断裂致23人受伤",
+      "onboard_time": 1753973664,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58356,
       "num": 231104,
       "word": "北京4天下了近一年的雨",
@@ -16177,14 +16209,6 @@
       "onboard_time": 1753983496,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56096,
-      "num": 190689,
-      "word": "沙特一游乐场大摆锤断裂致23人受伤",
-      "onboard_time": 1753973664,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 55997,
@@ -16387,6 +16411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51639,
+      "num": 58558,
+      "word": "八月文案",
+      "onboard_time": 1754005280,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 51362,
       "num": 51362,
       "word": "团播",
@@ -16545,6 +16577,14 @@
       "onboard_time": 1753791442,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46299,
+      "num": 58545,
+      "word": "佛山基孔肯雅热目前病例均为轻症",
+      "onboard_time": 1753988055,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45726,
@@ -16793,14 +16833,6 @@
       "onboard_time": 1753636998,
       "rank": 48,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 39689,
-      "num": 53549,
-      "word": "佛山基孔肯雅热目前病例均为轻症",
-      "onboard_time": 1753988055,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39102,
