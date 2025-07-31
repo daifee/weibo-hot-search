@@ -1,0 +1,410 @@
+{
+  "runTime": 1753951120975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5793679,
+        "num": 5793679,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1797484,
+        "num": 1797484,
+        "word": "北京因灾死亡44人",
+        "onboard_time": 1753949304,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32849,
+        "num": 1212106,
+        "word": "我军发射洲际弹道导弹独家披露",
+        "onboard_time": 1753921943,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1044383,
+        "num": 1044383,
+        "word": "马天宇",
+        "onboard_time": 1753945704,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646230,
+        "num": 646230,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606282,
+        "num": 606282,
+        "word": "女生拆录取通知发现夹带他人通知书",
+        "onboard_time": 1753948526,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946947,
+        "num": 542428,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743137,
+        "num": 537918,
+        "word": "半退圈女演员因利剑玫瑰翻红",
+        "onboard_time": 1753944984,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376563,
+        "num": 376563,
+        "word": "日本警方正抓捕4名袭击者",
+        "onboard_time": 1753946904,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 346049,
+        "num": 346049,
+        "word": "密云一养老照料中心死亡31人",
+        "onboard_time": 1753950744,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708292,
+        "num": 342520,
+        "word": "王俊凯演唱会",
+        "onboard_time": 1753948405,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 548587,
+        "num": 336501,
+        "word": "何猷君辟谣私生子传闻",
+        "onboard_time": 1753940363,
+        "rank": 11,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 429506,
+        "num": 330776,
+        "word": "纪凌尘 你们俩睡一块吗",
+        "onboard_time": 1753938684,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417865,
+        "num": 325093,
+        "word": "胡一天时隔700天再进组",
+        "onboard_time": 1753945406,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320449,
+        "num": 320449,
+        "word": "日本警方通报2中国人东京遭4人殴打",
+        "onboard_time": 1753948285,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 319972,
+        "num": 319972,
+        "word": "英伟达被约谈",
+        "onboard_time": 1753939283,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306841,
+        "num": 306841,
+        "word": "孟子义百度百科年龄被改",
+        "onboard_time": 1753944746,
+        "rank": 16,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 246193,
+        "num": 246193,
+        "word": "日本遭殴打中国人称不认识袭击者",
+        "onboard_time": 1753949125,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243610,
+        "num": 243610,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1753946724,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72198,
+        "num": 242881,
+        "word": "北京防汛救灾发布会现场默哀",
+        "onboard_time": 1753949605,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282524,
+        "num": 242787,
+        "word": "汪苏泷张碧晨上个月还在聚餐",
+        "onboard_time": 1753934364,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269285,
+        "num": 242001,
+        "word": "陈赫让鹿晗帮买两份小龙虾",
+        "onboard_time": 1753942343,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256398,
+        "num": 240810,
+        "word": "心动的信号8 二本恋综",
+        "onboard_time": 1753948704,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240674,
+        "num": 240674,
+        "word": "卫健委工作人员怒吼女子后续",
+        "onboard_time": 1753948346,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193327,
+        "num": 193327,
+        "word": "方圆脸瘦了35斤的面部变化",
+        "onboard_time": 1753934664,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 192660,
+        "num": 192660,
+        "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+        "onboard_time": 1753930342,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191903,
+        "num": 191903,
+        "word": "张予曦毕雯珺七夕大片",
+        "onboard_time": 1753950443,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179443,
+        "num": 179443,
+        "word": "沈羽洁一开口就是高情商",
+        "onboard_time": 1753949725,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175900,
+        "num": 175900,
+        "word": "北京因灾失踪失联9人",
+        "onboard_time": 1753950443,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170590,
+        "num": 170590,
+        "word": "李嘉诚40万起卖大湾区400套房产",
+        "onboard_time": 1753931362,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182692,
+        "num": 169299,
+        "word": "日本爱子公主和男友去动物园",
+        "onboard_time": 1753950025,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167472,
+        "num": 167472,
+        "word": "千岛群岛6.5级地震或引发海啸",
+        "onboard_time": 1753949845,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165302,
+        "num": 165302,
+        "word": "李想回应把雷军关车里",
+        "onboard_time": 1753949664,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155465,
+        "num": 164068,
+        "word": "商务部召开新闻发布会",
+        "onboard_time": 1753949363,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163373,
+        "num": 163373,
+        "word": "外交部回应2名中国公民在日遭袭",
+        "onboard_time": 1753948526,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159429,
+        "num": 159429,
+        "word": "杨洋这几集真的演爽了",
+        "onboard_time": 1753946305,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154097,
+        "num": 154097,
+        "word": "为什么过桥米线店越来越少了",
+        "onboard_time": 1753946606,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152444,
+        "num": 152444,
+        "word": "短剧的真情侣居然比营业的多",
+        "onboard_time": 1753939042,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40763,
+        "num": 149464,
+        "word": "同事们的个签还是太超前了",
+        "onboard_time": 1753950263,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45519,
+        "num": 147902,
+        "word": "原来社会化程度高的人是这样向上社交的",
+        "onboard_time": 1753950263,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147576,
+        "num": 147576,
+        "word": "王俊凯CL",
+        "onboard_time": 1753945345,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147503,
+        "num": 147503,
+        "word": "终于有剧拍出了真豪门",
+        "onboard_time": 1753932743,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144739,
+        "num": 144739,
+        "word": "不同存款的人发工资的表现",
+        "onboard_time": 1753944865,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323053,
+        "num": 144689,
+        "word": "汤家凤称武大应撤销对肖某某处分",
+        "onboard_time": 1753944147,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144558,
+        "num": 144558,
+        "word": "很意外但是易烊千玺的话很合理",
+        "onboard_time": 1753945166,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144047,
+        "num": 144047,
+        "word": "四大法术助你安全斩竹节草",
+        "onboard_time": 1753948585,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53965,
+        "num": 132324,
+        "word": "淘宝闪购谁教你这么会送的",
+        "onboard_time": 1753950084,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130877,
+        "num": 130877,
+        "word": "武大称未关注到杨某某学术不端质疑",
+        "onboard_time": 1753951102,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129878,
+        "num": 129878,
+        "word": "瘦不下来是因为一直在过临时生活",
+        "onboard_time": 1753938144,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 128289,
+        "word": "外交部敦促日方保障中国公民安全",
+        "onboard_time": 1753948526,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
