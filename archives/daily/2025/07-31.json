@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753966649729,
+  "endTime": 1753967609586,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1469556,
+      "num": 1469556,
+      "word": "张俪道歉",
+      "onboard_time": 1753964123,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1446131,
       "num": 1446131,
       "word": "女生拆录取通知发现夹带他人通知书",
@@ -97,14 +105,6 @@
       "onboard_time": 1753956623,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1138585,
-      "num": 1182173,
-      "word": "张俪道歉",
-      "onboard_time": 1753964123,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1094422,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 720031,
-      "num": 341245,
+      "num": 375962,
       "word": "敖瑞鹏工作室发文道歉",
       "onboard_time": 1753963643,
       "rank": 10,
@@ -363,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 628527,
+      "num": 628527,
+      "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+      "onboard_time": 1753964302,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 611166,
       "num": 611166,
       "word": "微信聊天发截图前先改亲密备注",
@@ -409,6 +417,14 @@
       "onboard_time": 1753944746,
       "rank": 16,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 537300,
+      "num": 537300,
+      "word": "黄子韬卸任公司执行董事职务",
+      "onboard_time": 1753964183,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 531219,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 479531,
-      "num": 333755,
+      "num": 375894,
       "word": "36岁存款30万决定提前退休",
       "onboard_time": 1753960463,
       "rank": 25,
@@ -507,6 +523,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 467258,
+      "num": 501548,
+      "word": "哥哥杀死弟弟7个月女儿案将开庭",
+      "onboard_time": 1753965863,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460458,
       "num": 460458,
       "word": "佛山释放不咬人蚊子捕食咬人蚊子",
@@ -529,14 +553,6 @@
       "onboard_time": 1753953504,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 447022,
-      "num": 447022,
-      "word": "黄子韬卸任公司执行董事职务",
-      "onboard_time": 1753964183,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 443832,
@@ -643,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359563,
-      "num": 501548,
-      "word": "哥哥杀死弟弟7个月女儿案将开庭",
-      "onboard_time": 1753965863,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357584,
       "num": 357584,
       "word": "酱子贝再回应",
@@ -675,20 +683,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 356256,
-      "num": 356256,
-      "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
-      "onboard_time": 1753964302,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 349654,
       "num": 349654,
       "word": "巴基斯坦遥感卫星01星发射成功",
       "onboard_time": 1753932563,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 342910,
+      "num": 342910,
+      "word": "凡人修仙传 卖房做特效",
+      "onboard_time": 1753963703,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 329543,
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288644,
+      "num": 288644,
+      "word": "利剑玫瑰 内鬼",
+      "onboard_time": 1753965983,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288017,
       "num": 288017,
       "word": "研究称28到32岁是最佳结婚年龄",
@@ -873,14 +889,6 @@
       "onboard_time": 1753948704,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266618,
-      "num": 266618,
-      "word": "凡人修仙传 卖房做特效",
-      "onboard_time": 1753963703,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 257678,
@@ -987,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228299,
+      "num": 228299,
+      "word": "改掉这些习惯后肚子变小了",
+      "onboard_time": 1753965084,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225513,
       "num": 206802,
       "word": "分享欲其实是一种情绪霸凌",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1753958483,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218117,
-      "num": 218117,
-      "word": "改掉这些习惯后肚子变小了",
-      "onboard_time": 1753965084,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 217120,
@@ -1155,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203795,
+      "num": 230478,
+      "word": "金晨说最近右臂粗了点",
+      "onboard_time": 1753966704,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202281,
       "num": 202281,
       "word": "孟子义经纪人道歉",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1753951102,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200926,
+      "num": 229071,
+      "word": "朱志鑫跳BoyInLuv了",
+      "onboard_time": 1753967183,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197283,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1753933823,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 194586,
-      "num": 194586,
-      "word": "利剑玫瑰 内鬼",
-      "onboard_time": 1753965983,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 194046,
@@ -1627,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163664,
+      "num": 163664,
+      "word": "陈芋汐夺金后激动到落泪",
+      "onboard_time": 1753965324,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163373,
       "num": 163373,
       "word": "外交部回应2名中国公民在日遭袭",
@@ -1881,6 +1905,22 @@
       "onboard_time": 1753940124,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143870,
+      "num": 143870,
+      "word": "内娱帅气男人鼻",
+      "onboard_time": 1753967005,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143845,
+      "num": 143845,
+      "word": "睡前的5个习惯让肚子长肉",
+      "onboard_time": 1753966884,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 142619,
@@ -2155,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131188,
+      "num": 265133,
+      "word": "轿车前10米外自行车摔倒司机被索赔",
+      "onboard_time": 1753965084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130775,
       "num": 130775,
       "word": "波波维奇100自夺冠",
@@ -2193,6 +2241,14 @@
       "onboard_time": 1753939884,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128947,
+      "num": 128947,
+      "word": "乐道l90",
+      "onboard_time": 1753964063,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 128702,
@@ -2297,6 +2353,14 @@
       "onboard_time": 1753924762,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125569,
+      "num": 125569,
+      "word": "理想称撞击实验全权委托第三方",
+      "onboard_time": 1753966884,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 125090,
@@ -2433,6 +2497,14 @@
       "onboard_time": 1753964963,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114267,
+      "num": 257006,
+      "word": "武汉一地铁站座椅被指形似马桶",
+      "onboard_time": 1753966884,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114209,
@@ -2619,14 +2691,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 88973,
-      "num": 265133,
-      "word": "轿车前10米外自行车摔倒司机被索赔",
-      "onboard_time": 1753965084,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88608,
       "num": 88608,
       "word": "130斤女生瘦到100斤需要多久",
@@ -2712,6 +2776,14 @@
       "word": "金店悬赏每克380元寻被冲走首饰",
       "onboard_time": 1753889782,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75562,
+      "num": 376101,
+      "word": "养老中心31人因灾死亡详情披露",
+      "onboard_time": 1753964483,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2963,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47725,
+      "num": 149444,
+      "word": "利剑玫瑰世界观",
+      "onboard_time": 1753967545,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47179,
       "num": 94614,
       "word": "TFING门开了",
@@ -3051,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34528,
+      "num": 258580,
+      "word": "果然世界是个巨大的淘宝闪购",
+      "onboard_time": 1753961784,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34359,
       "num": 53525,
       "word": "三折叠怎么折都是王鹤棣",
@@ -3065,14 +3153,6 @@
       "onboard_time": 1753897517,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33524,
-      "num": 258580,
-      "word": "果然世界是个巨大的淘宝闪购",
-      "onboard_time": 1753961784,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 31350,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1753967609586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1469556,
+        "num": 1469556,
+        "word": "张俪道歉",
+        "onboard_time": 1753964123,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980420,
+        "num": 980420,
+        "word": "武大回应法院驳回对性骚扰男生指控",
+        "onboard_time": 1753956623,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38305,
+        "num": 918264,
+        "word": "万千气象看西藏",
+        "onboard_time": 1753952423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903080,
+        "num": 903080,
+        "word": "请回答1988宝拉上海偷拍快递员",
+        "onboard_time": 1753955424,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647928,
+        "num": 647928,
+        "word": "陈芋汐女子10米台夺冠",
+        "onboard_time": 1753961663,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628527,
+        "num": 628527,
+        "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+        "onboard_time": 1753964302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537300,
+        "num": 537300,
+        "word": "黄子韬卸任公司执行董事职务",
+        "onboard_time": 1753964183,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467258,
+        "num": 467258,
+        "word": "哥哥杀死弟弟7个月女儿案将开庭",
+        "onboard_time": 1753965863,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396848,
+        "num": 396848,
+        "word": "朱一龙倪妮 顶级过肺",
+        "onboard_time": 1753963043,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75562,
+        "num": 376101,
+        "word": "养老中心31人因灾死亡详情披露",
+        "onboard_time": 1753964483,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681088,
+        "num": 375962,
+        "word": "敖瑞鹏工作室发文道歉",
+        "onboard_time": 1753963643,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419831,
+        "num": 375894,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1753960463,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374678,
+        "num": 374678,
+        "word": "北京因灾死亡44人",
+        "onboard_time": 1753949304,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350610,
+        "num": 350610,
+        "word": "加沙男童领食物道谢后即遭射杀",
+        "onboard_time": 1753955003,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342910,
+        "num": 342910,
+        "word": "凡人修仙传 卖房做特效",
+        "onboard_time": 1753963703,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307273,
+        "num": 307273,
+        "word": "因为她是我妈",
+        "onboard_time": 1753953683,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 288644,
+        "num": 288644,
+        "word": "利剑玫瑰 内鬼",
+        "onboard_time": 1753965983,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277089,
+        "num": 277089,
+        "word": "刘亦菲本科毕业论文答辩",
+        "onboard_time": 1753955124,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269408,
+        "num": 269408,
+        "word": "喝蜜雪冰城会被攻击的受害者出现了",
+        "onboard_time": 1753958541,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114267,
+        "num": 257006,
+        "word": "武汉一地铁站座椅被指形似马桶",
+        "onboard_time": 1753966884,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1531778,
+        "num": 256218,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532420,
+        "num": 254726,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252647,
+        "num": 252647,
+        "word": "密云一养老照料中心死亡31人",
+        "onboard_time": 1753950744,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237557,
+        "num": 237557,
+        "word": "弟弟回应7个月女儿被发病期哥哥杀死",
+        "onboard_time": 1753964963,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234632,
+        "num": 234632,
+        "word": "武大未删除被指性骚扰男生处分通报",
+        "onboard_time": 1753959203,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203795,
+        "num": 230478,
+        "word": "金晨说最近右臂粗了点",
+        "onboard_time": 1753966704,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200926,
+        "num": 229071,
+        "word": "朱志鑫跳BoyInLuv了",
+        "onboard_time": 1753967183,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228299,
+        "num": 228299,
+        "word": "改掉这些习惯后肚子变小了",
+        "onboard_time": 1753965084,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70552,
+        "num": 182490,
+        "word": "于文文直呼小孩姐出片折么美",
+        "onboard_time": 1753964422,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179357,
+        "num": 179357,
+        "word": "王楚钦蘑菇头",
+        "onboard_time": 1753960283,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177449,
+        "num": 177449,
+        "word": "肖战超话里的录取通知书",
+        "onboard_time": 1753954763,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176827,
+        "num": 176827,
+        "word": "宋浩然独自带女儿回十堰办周岁宴",
+        "onboard_time": 1753965564,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164887,
+        "num": 164887,
+        "word": "马天宇",
+        "onboard_time": 1753945704,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163664,
+        "num": 163664,
+        "word": "陈芋汐夺金后激动到落泪",
+        "onboard_time": 1753965324,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161509,
+        "num": 161509,
+        "word": "武大账号仅允许好友评论",
+        "onboard_time": 1753964422,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161064,
+        "num": 161064,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160767,
+        "num": 160767,
+        "word": "刘轩丞艺考成绩",
+        "onboard_time": 1753959382,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34528,
+        "num": 150461,
+        "word": "果然世界是个巨大的淘宝闪购",
+        "onboard_time": 1753961784,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47725,
+        "num": 149444,
+        "word": "利剑玫瑰世界观",
+        "onboard_time": 1753967545,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148517,
+        "num": 148517,
+        "word": "漫展cos王楚钦",
+        "onboard_time": 1753952124,
+        "rank": 39,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 143870,
+        "num": 143870,
+        "word": "内娱帅气男人鼻",
+        "onboard_time": 1753967005,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143845,
+        "num": 143845,
+        "word": "睡前的5个习惯让肚子长肉",
+        "onboard_time": 1753966884,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143478,
+        "num": 143478,
+        "word": "大疆全景相机",
+        "onboard_time": 1753966224,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137800,
+        "num": 137800,
+        "word": "刘芸14岁儿子近照",
+        "onboard_time": 1753953144,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136538,
+        "num": 136538,
+        "word": "武大图书馆事件诬告者岂能毫发无损",
+        "onboard_time": 1753959382,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133832,
+        "num": 133832,
+        "word": "一诺央视采访",
+        "onboard_time": 1753964843,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133688,
+        "num": 133688,
+        "word": "丈夫花1.9万买古董妻子一看印英文",
+        "onboard_time": 1753963282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131188,
+        "num": 131188,
+        "word": "轿车前10米外自行车摔倒司机被索赔",
+        "onboard_time": 1753965084,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128947,
+        "num": 128947,
+        "word": "乐道l90",
+        "onboard_time": 1753964063,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125569,
+        "num": 125569,
+        "word": "理想称撞击实验全权委托第三方",
+        "onboard_time": 1753966884,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#山海万里人民军队始终在你身旁#"
+    }
+  }
+}
