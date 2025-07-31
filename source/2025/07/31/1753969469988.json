@@ -1,0 +1,410 @@
+{
+  "runTime": 1753969469988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507057,
+        "num": 1507057,
+        "word": "张俪道歉",
+        "onboard_time": 1753964123,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1460555,
+        "num": 1460555,
+        "word": "哥哥杀死弟弟7个月女儿案将开庭",
+        "onboard_time": 1753965863,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40560,
+        "num": 920413,
+        "word": "万千气象看西藏",
+        "onboard_time": 1753952423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584448,
+        "num": 584448,
+        "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
+        "onboard_time": 1753964302,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442975,
+        "num": 442975,
+        "word": "陈芋汐女子10米台夺冠",
+        "onboard_time": 1753961663,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1156792,
+        "num": 428319,
+        "word": "武大回应法院驳回对性骚扰男生指控",
+        "onboard_time": 1753956623,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 866487,
+        "num": 418637,
+        "word": "请回答1988宝拉上海偷拍快递员",
+        "onboard_time": 1753955424,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489175,
+        "num": 416442,
+        "word": "黄子韬卸任公司执行董事职务",
+        "onboard_time": 1753964183,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408432,
+        "num": 408432,
+        "word": "利剑玫瑰 内鬼",
+        "onboard_time": 1753965983,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271556,
+        "num": 369111,
+        "word": "90秒直击北京147小时暴雨救援",
+        "onboard_time": 1753968444,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602973,
+        "num": 360028,
+        "word": "敖瑞鹏工作室发文道歉",
+        "onboard_time": 1753963643,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350170,
+        "num": 350170,
+        "word": "凡人修仙传 卖房做特效",
+        "onboard_time": 1753963703,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336878,
+        "num": 336878,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1753960463,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312204,
+        "num": 312204,
+        "word": "北京因灾死亡44人",
+        "onboard_time": 1753949304,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322283,
+        "num": 311328,
+        "word": "朱一龙倪妮 顶级过肺",
+        "onboard_time": 1753963043,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309834,
+        "num": 309834,
+        "word": "加沙男童领食物道谢后即遭射杀",
+        "onboard_time": 1753955003,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303916,
+        "num": 303916,
+        "word": "改掉这些习惯后肚子变小了",
+        "onboard_time": 1753965084,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297690,
+        "num": 297690,
+        "word": "刘亦菲本科毕业论文答辩",
+        "onboard_time": 1753955124,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250542,
+        "num": 250542,
+        "word": "密云一养老照料中心死亡31人",
+        "onboard_time": 1753950744,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233069,
+        "num": 233069,
+        "word": "李兰迪回应生长痛",
+        "onboard_time": 1753968683,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1392858,
+        "num": 227846,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474571,
+        "num": 224910,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215977,
+        "num": 215977,
+        "word": "因为她是我妈",
+        "onboard_time": 1753953683,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 206220,
+        "num": 206220,
+        "word": "喝蜜雪冰城会被攻击的受害者出现了",
+        "onboard_time": 1753958541,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192078,
+        "num": 192078,
+        "word": "弟弟回应7个月女儿被发病期哥哥杀死",
+        "onboard_time": 1753964963,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179582,
+        "num": 179582,
+        "word": "多伦多市中心几乎全是印度人",
+        "onboard_time": 1753968864,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173964,
+        "num": 173964,
+        "word": "宋浩然独自带女儿回十堰办周岁宴",
+        "onboard_time": 1753965564,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173331,
+        "num": 173331,
+        "word": "朱孝天称台湾就是一个省希望赶快统一",
+        "onboard_time": 1753969343,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168484,
+        "num": 168484,
+        "word": "乐道l90价格",
+        "onboard_time": 1753969045,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167067,
+        "num": 167067,
+        "word": "乐道l90",
+        "onboard_time": 1753964063,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164662,
+        "num": 164662,
+        "word": "武大未删除被指性骚扰男生处分通报",
+        "onboard_time": 1753959203,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164248,
+        "num": 164248,
+        "word": "一饭封神",
+        "onboard_time": 1753968564,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164085,
+        "num": 164085,
+        "word": "7年前的孙颖莎好像小苹果",
+        "onboard_time": 1753968804,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160250,
+        "num": 160250,
+        "word": "肖战超话里的录取通知书",
+        "onboard_time": 1753954763,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158396,
+        "num": 158396,
+        "word": "陈芋汐夺金后激动到落泪",
+        "onboard_time": 1753965324,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157242,
+        "num": 157242,
+        "word": "金晨说最近右臂粗了点",
+        "onboard_time": 1753966704,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155743,
+        "num": 155743,
+        "word": "虞书欣7月plog",
+        "onboard_time": 1753968744,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155624,
+        "num": 155624,
+        "word": "刘芸14岁儿子近照",
+        "onboard_time": 1753953144,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150819,
+        "num": 150819,
+        "word": "武汉一地铁站座椅被指形似马桶",
+        "onboard_time": 1753966884,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149121,
+        "num": 149121,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148409,
+        "num": 148409,
+        "word": "肖战的人生节点",
+        "onboard_time": 1753967904,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140512,
+        "num": 140512,
+        "word": "大疆全景相机",
+        "onboard_time": 1753966224,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137809,
+        "num": 137809,
+        "word": "不妨对全红婵体重浮动多些耐心",
+        "onboard_time": 1753968925,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47368,
+        "num": 132006,
+        "word": "于文文直呼小孩姐出片折么美",
+        "onboard_time": 1753964422,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131242,
+        "num": 131242,
+        "word": "睡前的5个习惯让肚子长肉",
+        "onboard_time": 1753966884,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125782,
+        "num": 125782,
+        "word": "家里不乱的可以买个回去添乱",
+        "onboard_time": 1753966104,
+        "rank": 45,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "东风柳州汽车声明",
+        "onboard_time": 1753967904,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122461,
+        "num": 122461,
+        "word": "养老中心31人因灾死亡详情披露",
+        "onboard_time": 1753964483,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120705,
+        "num": 120705,
+        "word": "乐道发布会",
+        "onboard_time": 1753965324,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113556,
+        "num": 113556,
+        "word": "邓妍气场",
+        "onboard_time": 1753969404,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}

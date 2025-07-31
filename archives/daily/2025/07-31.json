@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753967609586,
+  "endTime": 1753969469988,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -51,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1469556,
-      "num": 1469556,
+      "raw_hot": 1507057,
+      "num": 1507057,
       "word": "张俪道歉",
       "onboard_time": 1753964123,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1460555,
+      "num": 1460555,
+      "word": "哥哥杀死弟弟7个月女儿案将开庭",
+      "onboard_time": 1753965863,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1446131,
@@ -523,14 +531,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 467258,
-      "num": 501548,
-      "word": "哥哥杀死弟弟7个月女儿案将开庭",
-      "onboard_time": 1753965863,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 460458,
       "num": 460458,
       "word": "佛山释放不咬人蚊子捕食咬人蚊子",
@@ -577,6 +577,14 @@
       "onboard_time": 1753883785,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 408432,
+      "num": 408432,
+      "word": "利剑玫瑰 内鬼",
+      "onboard_time": 1753965983,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 405880,
@@ -683,20 +691,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 350170,
+      "num": 350170,
+      "word": "凡人修仙传 卖房做特效",
+      "onboard_time": 1753963703,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349654,
       "num": 349654,
       "word": "巴基斯坦遥感卫星01星发射成功",
       "onboard_time": 1753932563,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 342910,
-      "num": 342910,
-      "word": "凡人修仙传 卖房做特效",
-      "onboard_time": 1753963703,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 329543,
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303916,
+      "num": 303916,
+      "word": "改掉这些习惯后肚子变小了",
+      "onboard_time": 1753965084,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 303439,
       "num": 218487,
       "word": "张予曦八月行程让我有点晕字",
@@ -801,14 +817,6 @@
       "onboard_time": 1753954763,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288644,
-      "num": 288644,
-      "word": "利剑玫瑰 内鬼",
-      "onboard_time": 1753965983,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 288017,
@@ -865,6 +873,14 @@
       "onboard_time": 1753939644,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271556,
+      "num": 369111,
+      "word": "90秒直击北京147小时暴雨救援",
+      "onboard_time": 1753968444,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268744,
@@ -987,20 +1003,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233069,
+      "num": 233069,
+      "word": "李兰迪回应生长痛",
+      "onboard_time": 1753968683,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230935,
       "num": 230935,
       "word": "深圳暴雨",
       "onboard_time": 1753918521,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228299,
-      "num": 228299,
-      "word": "改掉这些习惯后肚子变小了",
-      "onboard_time": 1753965084,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 225513,
@@ -1419,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179582,
+      "num": 179582,
+      "word": "多伦多市中心几乎全是印度人",
+      "onboard_time": 1753968864,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179443,
       "num": 179443,
       "word": "沈羽洁一开口就是高情商",
@@ -1523,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173331,
+      "num": 173331,
+      "word": "朱孝天称台湾就是一个省希望赶快统一",
+      "onboard_time": 1753969343,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172840,
       "num": 172840,
       "word": "为什么过桥米线店越来越少了",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1753946064,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168484,
+      "num": 168484,
+      "word": "乐道l90价格",
+      "onboard_time": 1753969045,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 168341,
@@ -1619,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "乐道l90",
+      "onboard_time": 1753964063,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 165482,
       "num": 165482,
       "word": "新加坡成人玩具商被曝安全漏洞",
@@ -1640,6 +1688,22 @@
       "word": "马龙打卡乐高乐园",
       "onboard_time": 1753958483,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "一饭封神",
+      "onboard_time": 1753968564,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164085,
+      "num": 164085,
+      "word": "7年前的孙颖莎好像小苹果",
+      "onboard_time": 1753968804,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1763,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155743,
+      "num": 155743,
+      "word": "虞书欣7月plog",
+      "onboard_time": 1753968744,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154001,
       "num": 154001,
       "word": "迪丽热巴这段不知道的以为是花絮",
@@ -1811,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150819,
+      "num": 257006,
+      "word": "武汉一地铁站座椅被指形似马桶",
+      "onboard_time": 1753966884,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150270,
       "num": 193539,
       "word": "草莓熊设计师居然是罗小黑激推",
@@ -1841,6 +1921,14 @@
       "onboard_time": 1753932144,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148409,
+      "num": 148409,
+      "word": "肖战的人生节点",
+      "onboard_time": 1753967904,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 146989,
@@ -2025,6 +2113,14 @@
       "onboard_time": 1753918039,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137809,
+      "num": 137809,
+      "word": "不妨对全红婵体重浮动多些耐心",
+      "onboard_time": 1753968925,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 137250,
@@ -2243,14 +2339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128947,
-      "num": 128947,
-      "word": "乐道l90",
-      "onboard_time": 1753964063,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 128702,
       "num": 122754,
       "word": "陈都灵翘楚路透1女vN男",
@@ -2363,6 +2451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 125261,
+      "num": 125261,
+      "word": "东风柳州汽车声明",
+      "onboard_time": 1753967904,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125090,
       "num": 125090,
       "word": "我不会被男人骗了因为周也是女人",
@@ -2417,6 +2513,14 @@
       "onboard_time": 1753916958,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122461,
+      "num": 376101,
+      "word": "养老中心31人因灾死亡详情披露",
+      "onboard_time": 1753964483,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121640,
@@ -2499,14 +2603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114267,
-      "num": 257006,
-      "word": "武汉一地铁站座椅被指形似马桶",
-      "onboard_time": 1753966884,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114209,
       "num": 114209,
       "word": "穿和穿搭真的不一样",
@@ -2537,6 +2633,14 @@
       "onboard_time": 1753934723,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 113556,
+      "num": 113556,
+      "word": "邓妍气场",
+      "onboard_time": 1753969404,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113265,
@@ -2776,14 +2880,6 @@
       "word": "金店悬赏每克380元寻被冲走首饰",
       "onboard_time": 1753889782,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75562,
-      "num": 376101,
-      "word": "养老中心31人因灾死亡详情披露",
-      "onboard_time": 1753964483,
-      "rank": 9,
       "category": "民生新闻"
     },
     {

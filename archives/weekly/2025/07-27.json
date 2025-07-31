@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753967609586,
+  "endTime": 1753969469988,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -315,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1507057,
+      "num": 1507057,
+      "word": "张俪道歉",
+      "onboard_time": 1753964123,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1482266,
       "num": 1482266,
       "word": "利剑玫瑰收视率",
@@ -339,12 +347,12 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 1469556,
-      "num": 1469556,
-      "word": "张俪道歉",
-      "onboard_time": 1753964123,
-      "rank": 0,
-      "category": "艺人"
+      "raw_hot": 1460555,
+      "num": 1460555,
+      "word": "哥哥杀死弟弟7个月女儿案将开庭",
+      "onboard_time": 1753965863,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1446131,
@@ -2555,14 +2563,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 467258,
-      "num": 501548,
-      "word": "哥哥杀死弟弟7个月女儿案将开庭",
-      "onboard_time": 1753965863,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 464308,
       "num": 411760,
       "word": "刘诗诗染红发",
@@ -2937,6 +2937,14 @@
       "onboard_time": 1753591462,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408432,
+      "num": 408432,
+      "word": "利剑玫瑰 内鬼",
+      "onboard_time": 1753965983,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 406929,
@@ -3379,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350170,
+      "num": 350170,
+      "word": "凡人修仙传 卖房做特效",
+      "onboard_time": 1753963703,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349654,
       "num": 349654,
       "word": "巴基斯坦遥感卫星01星发射成功",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1753624527,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 342910,
-      "num": 342910,
-      "word": "凡人修仙传 卖房做特效",
-      "onboard_time": 1753963703,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 342763,
@@ -3835,6 +3843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303916,
+      "num": 303916,
+      "word": "改掉这些习惯后肚子变小了",
+      "onboard_time": 1753965084,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 303690,
       "num": 303690,
       "word": "王宝强自传",
@@ -3961,14 +3977,6 @@
       "onboard_time": 1753603823,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 288644,
-      "num": 288644,
-      "word": "利剑玫瑰 内鬼",
-      "onboard_time": 1753965983,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 288199,
@@ -4249,6 +4257,14 @@
       "onboard_time": 1753939644,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271556,
+      "num": 369111,
+      "word": "90秒直击北京147小时暴雨救援",
+      "onboard_time": 1753968444,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271233,
@@ -4915,6 +4931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233069,
+      "num": 233069,
+      "word": "李兰迪回应生长痛",
+      "onboard_time": 1753968683,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232967,
       "num": 232967,
       "word": "领取育儿补贴记住三步",
@@ -5032,14 +5056,6 @@
       "word": "癌症专门爱挑抠搜人",
       "onboard_time": 1753866683,
       "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 228299,
-      "num": 228299,
-      "word": "改掉这些习惯后肚子变小了",
-      "onboard_time": 1753965084,
-      "rank": 25,
       "category": "健康医疗"
     },
     {
@@ -7411,6 +7427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179582,
+      "num": 179582,
+      "word": "多伦多市中心几乎全是印度人",
+      "onboard_time": 1753968864,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179503,
       "num": 179503,
       "word": "在沈佳润面前跳美美桑内",
@@ -7835,6 +7859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173331,
+      "num": 173331,
+      "word": "朱孝天称台湾就是一个省希望赶快统一",
+      "onboard_time": 1753969343,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173213,
       "num": 173213,
       "word": "直击北京洪水",
@@ -8179,6 +8211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168484,
+      "num": 168484,
+      "word": "乐道l90价格",
+      "onboard_time": 1753969045,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168460,
       "num": 168460,
       "word": "731",
@@ -8289,6 +8329,14 @@
       "onboard_time": 1753849525,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "乐道l90",
+      "onboard_time": 1753964063,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 166956,
@@ -8491,6 +8539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "一饭封神",
+      "onboard_time": 1753968564,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164221,
       "num": 164221,
       "word": "北京大暴雨为什么下在密云怀柔",
@@ -8513,6 +8569,14 @@
       "onboard_time": 1753572198,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164085,
+      "num": 164085,
+      "word": "7年前的孙颖莎好像小苹果",
+      "onboard_time": 1753968804,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 163938,
@@ -9211,6 +9275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155743,
+      "num": 155743,
+      "word": "虞书欣7月plog",
+      "onboard_time": 1753968744,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155458,
       "num": 155458,
       "word": "汪顺的17岁到31岁",
@@ -9539,6 +9611,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 150819,
+      "num": 257006,
+      "word": "武汉一地铁站座椅被指形似马桶",
+      "onboard_time": 1753966884,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150776,
       "num": 441077,
       "word": "2岁女童患心肌炎去世家人以为是感冒",
@@ -9833,6 +9913,14 @@
       "onboard_time": 1753591042,
       "rank": 25,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 148409,
+      "num": 148409,
+      "word": "肖战的人生节点",
+      "onboard_time": 1753967904,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 148090,
@@ -10793,6 +10881,14 @@
       "onboard_time": 1753918039,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137809,
+      "num": 137809,
+      "word": "不妨对全红婵体重浮动多些耐心",
+      "onboard_time": 1753968925,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 137630,
@@ -11795,14 +11891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128947,
-      "num": 128947,
-      "word": "乐道l90",
-      "onboard_time": 1753964063,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 128894,
       "num": 128894,
       "word": "原神更新",
@@ -12163,6 +12251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125261,
+      "num": 125261,
+      "word": "东风柳州汽车声明",
+      "onboard_time": 1753967904,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125160,
       "num": 125160,
       "word": "适合脑袋空空的人做的工作",
@@ -12473,6 +12569,14 @@
       "onboard_time": 1753789222,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122461,
+      "num": 376101,
+      "word": "养老中心31人因灾死亡详情披露",
+      "onboard_time": 1753964483,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122354,
@@ -13107,14 +13211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114267,
-      "num": 257006,
-      "word": "武汉一地铁站座椅被指形似马桶",
-      "onboard_time": 1753966884,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114209,
       "num": 114209,
       "word": "穿和穿搭真的不一样",
@@ -13200,6 +13296,14 @@
       "word": "王星越我鬼混回来了",
       "onboard_time": 1753779264,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113556,
+      "num": 113556,
+      "word": "邓妍气场",
+      "onboard_time": 1753969404,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -14881,14 +14985,6 @@
       "onboard_time": 1753583421,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75562,
-      "num": 376101,
-      "word": "养老中心31人因灾死亡详情披露",
-      "onboard_time": 1753964483,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75384,
