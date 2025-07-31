@@ -1,0 +1,410 @@
+{
+  "runTime": 1753954470005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3455750,
+        "num": 3455750,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1327052,
+        "num": 1327052,
+        "word": "女生拆录取通知发现夹带他人通知书",
+        "onboard_time": 1753948526,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59386,
+        "num": 1269652,
+        "word": "万千气象看西藏",
+        "onboard_time": 1753952423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1263085,
+        "num": 1263085,
+        "word": "密云一养老照料中心死亡31人",
+        "onboard_time": 1753950744,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877199,
+        "num": 877199,
+        "word": "漫展cos王楚钦",
+        "onboard_time": 1753952124,
+        "rank": 4,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 872017,
+        "num": 872017,
+        "word": "北京因灾死亡44人",
+        "onboard_time": 1753949304,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 828479,
+        "num": 828479,
+        "word": "马天宇",
+        "onboard_time": 1753945704,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699268,
+        "num": 699268,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694351,
+        "num": 694351,
+        "word": "王俊凯演唱会",
+        "onboard_time": 1753948405,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176767,
+        "num": 687883,
+        "word": "北京密云通报太师屯救援情况",
+        "onboard_time": 1753952364,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687367,
+        "num": 687367,
+        "word": "纪凌尘 你们俩睡一块吗",
+        "onboard_time": 1753938684,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620667,
+        "num": 620667,
+        "word": "鹿晗买单call黄子韬",
+        "onboard_time": 1753951283,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 554078,
+        "num": 554078,
+        "word": "日本遭殴打中国人称不认识袭击者",
+        "onboard_time": 1753949125,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 522966,
+        "num": 522966,
+        "word": "刘芸14岁儿子近照",
+        "onboard_time": 1753953144,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458277,
+        "num": 458277,
+        "word": "网易云音乐起诉韩国SM娱乐",
+        "onboard_time": 1753951523,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 451772,
+        "num": 451772,
+        "word": "半退圈女演员因利剑玫瑰翻红",
+        "onboard_time": 1753944984,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399776,
+        "num": 399776,
+        "word": "卫健委工作人员怒吼女子后续",
+        "onboard_time": 1753948346,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361926,
+        "num": 361926,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341734,
+        "num": 341734,
+        "word": "哪吒2网播定档",
+        "onboard_time": 1753953504,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330693,
+        "num": 330693,
+        "word": "何猷君辟谣私生子传闻",
+        "onboard_time": 1753940363,
+        "rank": 19,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 319388,
+        "num": 319388,
+        "word": "日本警方通报2中国人东京遭4人殴打",
+        "onboard_time": 1753948285,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262547,
+        "num": 262547,
+        "word": "汪苏泷张碧晨上个月还在聚餐",
+        "onboard_time": 1753934364,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243499,
+        "num": 243499,
+        "word": "商务部召开新闻发布会",
+        "onboard_time": 1753949363,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232606,
+        "num": 232606,
+        "word": "心动的信号8 二本恋综",
+        "onboard_time": 1753948704,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220715,
+        "num": 220715,
+        "word": "这张脸已经权威到无关性别",
+        "onboard_time": 1753953203,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206890,
+        "num": 206890,
+        "word": "李承铉说戚薇太久没说他帅了",
+        "onboard_time": 1753953443,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201269,
+        "num": 201269,
+        "word": "孟子义百度百科年龄被改",
+        "onboard_time": 1753944746,
+        "rank": 26,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 195448,
+        "num": 195448,
+        "word": "北京4名村党支部书记因救灾失踪失联",
+        "onboard_time": 1753952484,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193941,
+        "num": 193941,
+        "word": "洪水中儿子硬把妈妈推上飞机",
+        "onboard_time": 1753953083,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176354,
+        "num": 176354,
+        "word": "快递员敲门不开关水阀",
+        "onboard_time": 1753953383,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36950,
+        "num": 175807,
+        "word": "丁禹兮发了拍立得",
+        "onboard_time": 1753953083,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36375,
+        "num": 175494,
+        "word": "北京31死养老中心未列入转移范围",
+        "onboard_time": 1753954342,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208857,
+        "num": 175471,
+        "word": "一些初显老人味的生活特征",
+        "onboard_time": 1753954165,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175407,
+        "num": 175407,
+        "word": "胡一天时隔700天再进组",
+        "onboard_time": 1753945406,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173276,
+        "num": 173276,
+        "word": "新时代人民军队军旗体系发布",
+        "onboard_time": 1753953923,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87767,
+        "num": 171756,
+        "word": "新住持首次在少林寺公开亮相",
+        "onboard_time": 1753954284,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170836,
+        "num": 170836,
+        "word": "陈赫让鹿晗帮买两份小龙虾",
+        "onboard_time": 1753942343,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169420,
+        "num": 169420,
+        "word": "上拉如曝小英高薪雇5个小工养牛",
+        "onboard_time": 1753953743,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165005,
+        "num": 165005,
+        "word": "英雄联盟",
+        "onboard_time": 1753953984,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160900,
+        "num": 160900,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1753946724,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159470,
+        "num": 159470,
+        "word": "日本警方正抓捕4名袭击者",
+        "onboard_time": 1753946904,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42431,
+        "num": 154833,
+        "word": "淘宝闪购谁教你这么会送的",
+        "onboard_time": 1753950084,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154249,
+        "num": 154249,
+        "word": "日本爱子公主和男友去动物园",
+        "onboard_time": 1753950025,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152085,
+        "num": 152085,
+        "word": "狼队教你重庆怎么吃",
+        "onboard_time": 1753953803,
+        "rank": 43,
+        "category": "电竞,美食"
+      },
+      {
+        "raw_hot": 145244,
+        "num": 145244,
+        "word": "Wendy开通微博",
+        "onboard_time": 1753951223,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131548,
+        "num": 131548,
+        "word": "因为她是我妈",
+        "onboard_time": 1753953683,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130205,
+        "num": 130205,
+        "word": "英伟达被约谈",
+        "onboard_time": 1753939283,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127434,
+        "num": 127434,
+        "word": "猫咪为了被选上疯狂阻止同伴出现",
+        "onboard_time": 1753952423,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123836,
+        "num": 123836,
+        "word": "基孔肯雅热诊疗方案",
+        "onboard_time": 1753952303,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118157,
+        "num": 118157,
+        "word": "武大称未关注到杨某某学术不端质疑",
+        "onboard_time": 1753951102,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#山海万里人民军队始终在你身旁#"
+    }
+  }
+}

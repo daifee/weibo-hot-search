@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753951996195,
+  "endTime": 1753954470005,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1684862,
-      "num": 639790,
+      "num": 699268,
       "word": "李明德砸车事件车主获赔20万",
       "onboard_time": 1753942824,
       "rank": 6,
@@ -48,6 +48,14 @@
       "word": "密云一养老照料中心死亡31人",
       "onboard_time": 1753950744,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1327052,
+      "num": 1327052,
+      "word": "女生拆录取通知发现夹带他人通知书",
+      "onboard_time": 1753948526,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 877199,
+      "num": 877199,
+      "word": "漫展cos王楚钦",
+      "onboard_time": 1753952124,
+      "rank": 4,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 841425,
       "num": 997978,
       "word": "日本海啸",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 708292,
-      "num": 342520,
+      "num": 694351,
       "word": "王俊凯演唱会",
       "onboard_time": 1753948405,
       "rank": 10,
@@ -185,6 +201,14 @@
       "onboard_time": 1753939042,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687367,
+      "num": 687367,
+      "word": "纪凌尘 你们俩睡一块吗",
+      "onboard_time": 1753938684,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 683681,
@@ -235,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 658328,
-      "num": 658328,
-      "word": "女生拆录取通知发现夹带他人通知书",
-      "onboard_time": 1753948526,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 620667,
+      "num": 620667,
+      "word": "鹿晗买单call黄子韬",
+      "onboard_time": 1753951283,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 611166,
@@ -273,6 +297,14 @@
       "onboard_time": 1753915816,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 554078,
+      "num": 554078,
+      "word": "日本遭殴打中国人称不认识袭击者",
+      "onboard_time": 1753949125,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 551011,
@@ -313,6 +345,14 @@
       "onboard_time": 1753926503,
       "rank": 12,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 522966,
+      "num": 522966,
+      "word": "刘芸14岁儿子近照",
+      "onboard_time": 1753953144,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 520341,
@@ -371,20 +411,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458277,
+      "num": 458277,
+      "word": "网易云音乐起诉韩国SM娱乐",
+      "onboard_time": 1753951523,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 457919,
       "num": 417538,
       "word": "汤家凤称武大应撤销对肖某某处分",
       "onboard_time": 1753944147,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 452159,
-      "num": 330776,
-      "word": "纪凌尘 你们俩睡一块吗",
-      "onboard_time": 1753938684,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 443832,
@@ -417,6 +457,14 @@
       "onboard_time": 1753935684,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399776,
+      "num": 399776,
+      "word": "卫健委工作人员怒吼女子后续",
+      "onboard_time": 1753948346,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395434,
@@ -499,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 341734,
+      "num": 341734,
+      "word": "哪吒2网播定档",
+      "onboard_time": 1753953504,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 324390,
       "num": 209757,
       "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
@@ -555,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307329,
-      "num": 307329,
-      "word": "日本遭殴打中国人称不认识袭击者",
-      "onboard_time": 1753949125,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 306367,
       "num": 285168,
       "word": "傅首尔妈系变姐系",
@@ -601,14 +649,6 @@
       "onboard_time": 1753887745,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 280859,
-      "num": 280859,
-      "word": "卫健委工作人员怒吼女子后续",
-      "onboard_time": 1753948346,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278144,
@@ -683,12 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243464,
-      "num": 194641,
-      "word": "鹿晗买单call黄子韬",
-      "onboard_time": 1753951283,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 243499,
+      "num": 243499,
+      "word": "商务部召开新闻发布会",
+      "onboard_time": 1753949363,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 240088,
@@ -755,6 +795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 220715,
+      "num": 220715,
+      "word": "这张脸已经权威到无关性别",
+      "onboard_time": 1753953203,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220507,
       "num": 184295,
       "word": "王俊凯CL",
@@ -795,12 +843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208857,
+      "num": 175471,
+      "word": "一些初显老人味的生活特征",
+      "onboard_time": 1753954165,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208351,
       "num": 184112,
       "word": "杨洋金晨双舞蹈生打戏",
       "onboard_time": 1753945885,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206890,
+      "num": 206890,
+      "word": "李承铉说戚薇太久没说他帅了",
+      "onboard_time": 1753953443,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 204078,
@@ -867,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195448,
+      "num": 195448,
+      "word": "北京4名村党支部书记因救灾失踪失联",
+      "onboard_time": 1753952484,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194771,
       "num": 194771,
       "word": "周深梦泪决战王者之巅",
@@ -889,6 +961,14 @@
       "onboard_time": 1753929201,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193941,
+      "num": 193941,
+      "word": "洪水中儿子硬把妈妈推上飞机",
+      "onboard_time": 1753953083,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193871,
@@ -1027,6 +1107,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176767,
+      "num": 687883,
+      "word": "北京密云通报太师屯救援情况",
+      "onboard_time": 1753952364,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176354,
+      "num": 176354,
+      "word": "快递员敲门不开关水阀",
+      "onboard_time": 1753953383,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175900,
       "num": 175900,
       "word": "北京因灾失踪失联9人",
@@ -1051,20 +1147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173276,
+      "num": 173276,
+      "word": "新时代人民军队军旗体系发布",
+      "onboard_time": 1753953923,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172840,
       "num": 172840,
       "word": "为什么过桥米线店越来越少了",
       "onboard_time": 1753946606,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172475,
-      "num": 172475,
-      "word": "网易云音乐起诉韩国SM娱乐",
-      "onboard_time": 1753951523,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 171977,
@@ -1081,6 +1177,14 @@
       "onboard_time": 1753927823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169420,
+      "num": 169420,
+      "word": "上拉如曝小英高薪雇5个小工养牛",
+      "onboard_time": 1753953743,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 169199,
@@ -1163,6 +1267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 165005,
+      "num": 165005,
+      "word": "英雄联盟",
+      "onboard_time": 1753953984,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163373,
       "num": 163373,
       "word": "外交部回应2名中国公民在日遭袭",
@@ -1235,14 +1347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155465,
-      "num": 164068,
-      "word": "商务部召开新闻发布会",
-      "onboard_time": 1753949363,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154001,
       "num": 154001,
       "word": "迪丽热巴这段不知道的以为是花絮",
@@ -1273,6 +1377,14 @@
       "onboard_time": 1753924822,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152085,
+      "num": 152085,
+      "word": "狼队教你重庆怎么吃",
+      "onboard_time": 1753953803,
+      "rank": 43,
+      "category": "电竞,美食"
     },
     {
       "raw_hot": 149848,
@@ -1483,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131548,
+      "num": 131548,
+      "word": "因为她是我妈",
+      "onboard_time": 1753953683,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129378,
       "num": 129378,
       "word": "徐明浩觉得心动8男嘉宾追太紧",
@@ -1555,6 +1675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127434,
+      "num": 127434,
+      "word": "猫咪为了被选上疯狂阻止同伴出现",
+      "onboard_time": 1753952423,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126882,
       "num": 179770,
       "word": "丁禹兮爱一个本身很好的人具象化",
@@ -1609,6 +1737,14 @@
       "onboard_time": 1753951463,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123836,
+      "num": 123836,
+      "word": "基孔肯雅热诊疗方案",
+      "onboard_time": 1753952303,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123251,
@@ -1891,6 +2027,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 87767,
+      "num": 171756,
+      "word": "新住持首次在少林寺公开亮相",
+      "onboard_time": 1753954284,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84285,
       "num": 140758,
       "word": "乌克兰人跪地迎接阵亡士兵回家",
@@ -2091,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59386,
+      "num": 1269652,
+      "word": "万千气象看西藏",
+      "onboard_time": 1753952423,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59100,
       "num": 59100,
       "word": "网售5盒思诺思被判贩毒二审发回重审",
@@ -2148,7 +2300,7 @@
     },
     {
       "raw_hot": 53965,
-      "num": 132324,
+      "num": 154833,
       "word": "淘宝闪购谁教你这么会送的",
       "onboard_time": 1753950084,
       "rank": 46,
@@ -2249,6 +2401,22 @@
       "onboard_time": 1753943543,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36950,
+      "num": 175807,
+      "word": "丁禹兮发了拍立得",
+      "onboard_time": 1753953083,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36375,
+      "num": 175494,
+      "word": "北京31死养老中心未列入转移范围",
+      "onboard_time": 1753954342,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36306,
