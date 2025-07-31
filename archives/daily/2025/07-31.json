@@ -1,6 +1,6 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753970226311,
+  "endTime": 1753972204113,
   "band_list": [
     {
       "raw_hot": 12737739,
@@ -9,6 +9,14 @@
       "onboard_time": 1753942884,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2386138,
+      "num": 2386138,
+      "word": "怎么不等微信下架再告诉我",
+      "onboard_time": 1753969763,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2320220,
@@ -241,14 +249,6 @@
       "onboard_time": 1753953144,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 735360,
-      "num": 735360,
-      "word": "怎么不等微信下架再告诉我",
-      "onboard_time": 1753969763,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 725654,
@@ -563,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 450403,
+      "num": 450403,
+      "word": "多伦多市中心几乎全是印度人",
+      "onboard_time": 1753968864,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 443832,
       "num": 443832,
       "word": "两中国人在东京街上遭4人殴打",
@@ -763,6 +771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 319342,
+      "num": 319342,
+      "word": "深圳暴雨开车挡风玻璃似瀑布",
+      "onboard_time": 1753970605,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315691,
       "num": 206166,
       "word": "女车主摇中88888车牌有人现场出价110万",
@@ -811,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301131,
+      "num": 301131,
+      "word": "李兰迪回应生长痛",
+      "onboard_time": 1753968683,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300762,
       "num": 273295,
       "word": "刘轩丞艺考成绩",
@@ -825,6 +849,14 @@
       "onboard_time": 1753954763,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297725,
+      "num": 315098,
+      "word": "赵心童6比1战胜丁俊晖",
+      "onboard_time": 1753969825,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 288017,
@@ -915,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258880,
+      "num": 258880,
+      "word": "乐道L90上市惊爆价26.58万起",
+      "onboard_time": 1753970665,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 257678,
       "num": 173411,
       "word": "周冬雨刘诗诗娜扎鞋跟高度",
@@ -937,14 +977,6 @@
       "onboard_time": 1753960582,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251868,
-      "num": 251868,
-      "word": "李兰迪回应生长痛",
-      "onboard_time": 1753968683,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 251180,
@@ -1027,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229082,
-      "num": 229082,
-      "word": "多伦多市中心几乎全是印度人",
-      "onboard_time": 1753968864,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 225513,
       "num": 206802,
       "word": "分享欲其实是一种情绪霸凌",
@@ -1049,6 +1073,22 @@
       "onboard_time": 1753940483,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 223812,
+      "num": 236406,
+      "word": "by2说要勇于撇清关系",
+      "onboard_time": 1753971385,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 223613,
+      "num": 223613,
+      "word": "12岁女孩因不良用眼习惯捉出几十条虫",
+      "onboard_time": 1753971444,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222028,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1753958541,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214490,
+      "num": 214490,
+      "word": "朱孝天称台湾就是一个省希望赶快统一",
+      "onboard_time": 1753969343,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 212658,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1753958783,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 205292,
+      "num": 229610,
+      "word": "余承恩发了朝雪录主创合照",
+      "onboard_time": 1753970665,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 204078,
@@ -1379,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191427,
+      "num": 191427,
+      "word": "理想汽车",
+      "onboard_time": 1753969884,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 189784,
       "num": 189784,
       "word": "睡眠真的超级重要",
@@ -1467,12 +1531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179451,
-      "num": 179451,
-      "word": "赵心童6比1战胜丁俊晖",
-      "onboard_time": 1753969825,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 180274,
+      "num": 180274,
+      "word": "王俊凯说我没有周末",
+      "onboard_time": 1753970785,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 179443,
@@ -1585,14 +1649,6 @@
       "onboard_time": 1753961902,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173331,
-      "num": 180729,
-      "word": "朱孝天称台湾就是一个省希望赶快统一",
-      "onboard_time": 1753969343,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 172840,
@@ -1731,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164824,
+      "num": 164824,
+      "word": "BLG战胜WBG",
+      "onboard_time": 1753971265,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164495,
       "num": 164495,
       "word": "马龙打卡乐高乐园",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1753948526,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 162678,
-      "num": 162678,
-      "word": "理想汽车",
-      "onboard_time": 1753969884,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 162653,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1753874363,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160929,
+      "num": 160929,
+      "word": "迪丽热巴邓妍的人生底色",
+      "onboard_time": 1753971144,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 159990,
@@ -1995,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145707,
+      "num": 145707,
+      "word": "汪顺硬闯鲍家",
+      "onboard_time": 1753971325,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145515,
       "num": 145515,
       "word": "一条plog告别七月",
@@ -2137,6 +2209,14 @@
       "onboard_time": 1753951823,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139444,
+      "num": 139444,
+      "word": "18岁烈士祭扫现场全员马赛克",
+      "onboard_time": 1753970186,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139160,
@@ -2531,14 +2611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124573,
-      "num": 124573,
-      "word": "18岁烈士祭扫现场全员马赛克",
-      "onboard_time": 1753970186,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124184,
       "num": 141384,
       "word": "95生猴王格局",
@@ -2603,6 +2675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120316,
+      "num": 120316,
+      "word": "刘芸晒照帮儿子挽回颜值形象",
+      "onboard_time": 1753972105,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119207,
       "num": 119207,
       "word": "冲浪人自带一种向上的生命力",
@@ -2625,6 +2705,14 @@
       "onboard_time": 1753940723,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116797,
+      "num": 116797,
+      "word": "金晨怼脸拍美我一跳",
+      "onboard_time": 1753972045,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116454,
@@ -2875,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81035,
+      "num": 234048,
+      "word": "车主吐槽找加油站走近发现是饭店",
+      "onboard_time": 1753970484,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80420,
       "num": 102066,
       "word": "马嘉祺赛后聊歌手直播感受",
@@ -2960,6 +3056,22 @@
       "word": "北京防汛救灾发布会现场默哀",
       "onboard_time": 1753949605,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72154,
+      "num": 142461,
+      "word": "李想被鲁豫问到茅侃侃哽咽了",
+      "onboard_time": 1753970605,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 71638,
+      "num": 180487,
+      "word": "贵州19岁大学生失联18天",
+      "onboard_time": 1753970484,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3049,6 +3161,14 @@
       "onboard_time": 1753892723,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62674,
+      "num": 183287,
+      "word": "陈哲远是怕假发跑掉吗",
+      "onboard_time": 1753969884,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 62153,
