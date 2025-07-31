@@ -1,10 +1,10 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753944109092,
+  "endTime": 1753945052565,
   "band_list": [
     {
-      "raw_hot": 9217823,
-      "num": 9217823,
+      "raw_hot": 12737739,
+      "num": 12737739,
       "word": "李明德被判有期徒刑六个月",
       "onboard_time": 1753942884,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 693067,
+      "num": 364633,
+      "word": "短剧的真情侣居然比营业的多",
+      "onboard_time": 1753939042,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683681,
       "num": 683681,
       "word": "方圆脸瘦了35斤的面部变化",
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 673015,
+      "num": 319931,
+      "word": "陈赫让鹿晗帮买两份小龙虾",
+      "onboard_time": 1753942343,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 666870,
       "num": 666870,
       "word": "我家那闺女",
@@ -177,14 +193,6 @@
       "onboard_time": 1753933645,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 578953,
-      "num": 364633,
-      "word": "短剧的真情侣居然比营业的多",
-      "onboard_time": 1753939042,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 574883,
@@ -249,14 +257,6 @@
       "onboard_time": 1753928003,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 500540,
-      "num": 319931,
-      "word": "陈赫让鹿晗帮买两份小龙虾",
-      "onboard_time": 1753942343,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 482918,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306367,
+      "num": 285168,
+      "word": "傅首尔妈系变姐系",
+      "onboard_time": 1753943664,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303439,
       "num": 218487,
       "word": "张予曦八月行程让我有点晕字",
@@ -497,6 +505,14 @@
       "onboard_time": 1753934063,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275359,
+      "num": 275359,
+      "word": "孟子义百度百科年龄被改",
+      "onboard_time": 1753944746,
+      "rank": 16,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 271630,
@@ -587,6 +603,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224128,
+      "num": 228918,
+      "word": "侧躺时脊柱的状态变化",
+      "onboard_time": 1753940483,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217120,
+      "num": 153625,
+      "word": "为什么你一眼就被认出是最好欺负的",
+      "onboard_time": 1753944267,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212658,
       "num": 212658,
       "word": "台风",
@@ -608,6 +640,14 @@
       "word": "直击北京密云太师屯镇",
       "onboard_time": 1753885885,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205058,
+      "num": 303571,
+      "word": "汤家凤称武大应撤销对肖某某处分",
+      "onboard_time": 1753944147,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -699,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187800,
+      "num": 187800,
+      "word": "曹政奭Gummy得二胎",
+      "onboard_time": 1753944447,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187720,
       "num": 187720,
       "word": "美国将对进口铜产品征收50%关税",
@@ -721,14 +769,6 @@
       "onboard_time": 1753924283,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180428,
-      "num": 180428,
-      "word": "傅首尔妈系变姐系",
-      "onboard_time": 1753943664,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 179034,
@@ -769,14 +809,6 @@
       "onboard_time": 1753935925,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176225,
-      "num": 228918,
-      "word": "侧躺时脊柱的状态变化",
-      "onboard_time": 1753940483,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 175504,
@@ -883,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159700,
+      "num": 159700,
+      "word": "电影院座椅 虫卵",
+      "onboard_time": 1753944568,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158642,
       "num": 158642,
       "word": "国家网信办约谈英伟达",
@@ -939,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149190,
+      "num": 149190,
+      "word": "美军证实一架F35战机坠毁",
+      "onboard_time": 1753944686,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148870,
       "num": 148870,
       "word": "这才是四大国乙",
@@ -977,6 +1025,22 @@
       "onboard_time": 1753933943,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142416,
+      "num": 142416,
+      "word": "应采儿嘻嘻jasper不嘻嘻",
+      "onboard_time": 1753944568,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142282,
+      "num": 142282,
+      "word": "男子去世继女继承遗产亲生女反对",
+      "onboard_time": 1753941142,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141978,
@@ -1091,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129378,
+      "num": 129378,
+      "word": "徐明浩觉得心动8男嘉宾追太紧",
+      "onboard_time": 1753944805,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129137,
       "num": 131788,
       "word": "香港环保餐具居然是2D的",
@@ -1113,14 +1185,6 @@
       "onboard_time": 1753923503,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128612,
-      "num": 128612,
-      "word": "男子去世继女继承遗产亲生女反对",
-      "onboard_time": 1753941142,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127896,
@@ -1179,6 +1243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125302,
+      "num": 125302,
+      "word": "不同存款的人发工资的表现",
+      "onboard_time": 1753944865,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125090,
       "num": 125090,
       "word": "我不会被男人骗了因为周也是女人",
@@ -1217,6 +1289,22 @@
       "onboard_time": 1753916958,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118662,
+      "num": 135763,
+      "word": "缅甸决定解除全国紧急状态",
+      "onboard_time": 1753944207,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 117939,
+      "num": 117939,
+      "word": "一只小狗会怎样描述闪电",
+      "onboard_time": 1753944925,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 117401,
@@ -1420,7 +1508,7 @@
     },
     {
       "raw_hot": 84285,
-      "num": 123006,
+      "num": 140758,
       "word": "乌克兰人跪地迎接阵亡士兵回家",
       "onboard_time": 1753943968,
       "rank": 40,
@@ -1627,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58962,
+      "num": 137190,
+      "word": "租户强占房东房子阳台挂满狗皮",
+      "onboard_time": 1753944327,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56199,
       "num": 56199,
       "word": "男子路边买排骨遇鬼手藏肉",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1753895119,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49740,
+      "num": 131808,
+      "word": "半退圈女演员因利剑玫瑰翻红",
+      "onboard_time": 1753944984,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 47179,

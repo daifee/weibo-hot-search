@@ -1,0 +1,410 @@
+{
+  "runTime": 1753945052565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12737739,
+        "num": 12737739,
+        "word": "李明德被判有期徒刑六个月",
+        "onboard_time": 1753942884,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786564,
+        "num": 786564,
+        "word": "英伟达被约谈",
+        "onboard_time": 1753939283,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61783,
+        "num": 574970,
+        "word": "我军发射洲际弹道导弹独家披露",
+        "onboard_time": 1753921943,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1968865,
+        "num": 529462,
+        "word": "何猷君辟谣私生子传闻",
+        "onboard_time": 1753940363,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414121,
+        "num": 414121,
+        "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+        "onboard_time": 1753930342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344532,
+        "num": 344532,
+        "word": "瘦不下来是因为一直在过临时生活",
+        "onboard_time": 1753938144,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1655751,
+        "num": 337849,
+        "word": "李明德砸车事件车主获赔20万",
+        "onboard_time": 1753942824,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693067,
+        "num": 329177,
+        "word": "短剧的真情侣居然比营业的多",
+        "onboard_time": 1753939042,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304551,
+        "num": 304551,
+        "word": "微信聊天发截图前先改亲密备注",
+        "onboard_time": 1753933645,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205058,
+        "num": 303571,
+        "word": "汤家凤称武大应撤销对肖某某处分",
+        "onboard_time": 1753944147,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673015,
+        "num": 303102,
+        "word": "陈赫让鹿晗帮买两份小龙虾",
+        "onboard_time": 1753942343,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 602684,
+        "num": 301264,
+        "word": "李嘉诚40万起卖大湾区400套房产",
+        "onboard_time": 1753931362,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549953,
+        "num": 301064,
+        "word": "汪苏泷张碧晨上个月还在聚餐",
+        "onboard_time": 1753934364,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299948,
+        "num": 299948,
+        "word": "两中国人在东京街上遭4人殴打",
+        "onboard_time": 1753937906,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 370967,
+        "num": 288060,
+        "word": "终于有剧拍出了真豪门",
+        "onboard_time": 1753932743,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306367,
+        "num": 285168,
+        "word": "傅首尔妈系变姐系",
+        "onboard_time": 1753943664,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275359,
+        "num": 275359,
+        "word": "孟子义百度百科年龄被改",
+        "onboard_time": 1753944746,
+        "rank": 16,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 269312,
+        "num": 269312,
+        "word": "研究称28到32岁是最佳结婚年龄",
+        "onboard_time": 1753941203,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224128,
+        "num": 224128,
+        "word": "侧躺时脊柱的状态变化",
+        "onboard_time": 1753940483,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187762,
+        "num": 219373,
+        "word": "樱花动漫运营者被判2年3个月",
+        "onboard_time": 1753936825,
+        "rank": 19,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 239433,
+        "num": 219228,
+        "word": "黄圣依小儿子作品在东京画廊展出",
+        "onboard_time": 1753939644,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216228,
+        "num": 216228,
+        "word": "方圆脸瘦了35斤的面部变化",
+        "onboard_time": 1753934664,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 206358,
+        "num": 206358,
+        "word": "纪凌尘 你们俩睡一块吗",
+        "onboard_time": 1753938684,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194179,
+        "num": 194179,
+        "word": "心动8女嘉宾拒绝绑定",
+        "onboard_time": 1753942582,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187800,
+        "num": 187800,
+        "word": "曹政奭Gummy得二胎",
+        "onboard_time": 1753944447,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185240,
+        "num": 185240,
+        "word": "张予曦八月行程让我有点晕字",
+        "onboard_time": 1753936705,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182725,
+        "num": 182725,
+        "word": "于正让李梦少穿点丑衣服",
+        "onboard_time": 1753934124,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162151,
+        "num": 162151,
+        "word": "藏海传导演因为肖战长胖30斤",
+        "onboard_time": 1753928003,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159700,
+        "num": 159700,
+        "word": "电影院座椅 虫卵",
+        "onboard_time": 1753944568,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155368,
+        "num": 155368,
+        "word": "黄一鸣否认偷偷怀孕",
+        "onboard_time": 1753940063,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217120,
+        "num": 153625,
+        "word": "为什么你一眼就被认出是最好欺负的",
+        "onboard_time": 1753944267,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149190,
+        "num": 149190,
+        "word": "美军证实一架F35战机坠毁",
+        "onboard_time": 1753944686,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146804,
+        "num": 146804,
+        "word": "我家那闺女",
+        "onboard_time": 1753931844,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146251,
+        "num": 146251,
+        "word": "seventeen香港",
+        "onboard_time": 1753943003,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142416,
+        "num": 142416,
+        "word": "应采儿嘻嘻jasper不嘻嘻",
+        "onboard_time": 1753944568,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142282,
+        "num": 142282,
+        "word": "男子去世继女继承遗产亲生女反对",
+        "onboard_time": 1753941142,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141785,
+        "num": 141785,
+        "word": "咖啡店店员遭遇150杯团单跳单",
+        "onboard_time": 1753935684,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70577,
+        "num": 140758,
+        "word": "乌克兰人跪地迎接阵亡士兵回家",
+        "onboard_time": 1753943968,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58962,
+        "num": 137190,
+        "word": "租户强占房东房子阳台挂满狗皮",
+        "onboard_time": 1753944327,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118662,
+        "num": 135763,
+        "word": "缅甸决定解除全国紧急状态",
+        "onboard_time": 1753944207,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49740,
+        "num": 131808,
+        "word": "半退圈女演员因利剑玫瑰翻红",
+        "onboard_time": 1753944984,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130706,
+        "num": 130706,
+        "word": "2025年上半年结婚登记353.9万对",
+        "onboard_time": 1753931904,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130367,
+        "num": 130367,
+        "word": "迪丽热巴这段不知道的以为是花絮",
+        "onboard_time": 1753942403,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126058,
+        "num": 129805,
+        "word": "虞书欣变更工作联系方式",
+        "onboard_time": 1753933402,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129378,
+        "num": 129378,
+        "word": "徐明浩觉得心动8男嘉宾追太紧",
+        "onboard_time": 1753944805,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128386,
+        "num": 128386,
+        "word": "恋综男嘉宾和路人奶奶撞衫",
+        "onboard_time": 1753944086,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125302,
+        "num": 125302,
+        "word": "不同存款的人发工资的表现",
+        "onboard_time": 1753944865,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117939,
+        "num": 117939,
+        "word": "一只小狗会怎样描述闪电",
+        "onboard_time": 1753944925,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116923,
+        "num": 116923,
+        "word": "何猷君回应",
+        "onboard_time": 1753942824,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115236,
+        "num": 115236,
+        "word": "香港环保餐具居然是2D的",
+        "onboard_time": 1753939884,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
