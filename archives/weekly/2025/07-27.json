@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1753954470005,
+  "endTime": 1753955321074,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -331,6 +331,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 1446131,
+      "num": 1446131,
+      "word": "女生拆录取通知发现夹带他人通知书",
+      "onboard_time": 1753948526,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1388549,
       "num": 1388549,
       "word": "密云一养老照料中心死亡31人",
@@ -353,14 +361,6 @@
       "onboard_time": 1753860683,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1327052,
-      "num": 1327052,
-      "word": "女生拆录取通知发现夹带他人通知书",
-      "onboard_time": 1753948526,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1301109,
@@ -441,6 +441,14 @@
       "onboard_time": 1753703064,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1236485,
+      "num": 1236485,
+      "word": "漫展cos王楚钦",
+      "onboard_time": 1753952124,
+      "rank": 4,
+      "category": "体育,动漫"
     },
     {
       "raw_hot": 1234064,
@@ -1011,14 +1019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 877199,
-      "num": 877199,
-      "word": "漫展cos王楚钦",
-      "onboard_time": 1753952124,
-      "rank": 4,
-      "category": "体育,动漫"
-    },
-    {
       "raw_hot": 876254,
       "num": 379927,
       "word": "留几手说葛夕新恋情与我无关",
@@ -1121,6 +1121,14 @@
       "onboard_time": 1753702284,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 826144,
+      "num": 826144,
+      "word": "日本遭殴打中国人称不认识袭击者",
+      "onboard_time": 1753949125,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 825456,
@@ -1323,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 748598,
+      "num": 663206,
+      "word": "刘芸14岁儿子近照",
+      "onboard_time": 1753953144,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746602,
       "num": 746602,
       "word": "台风竹节草",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1753577901,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 713949,
+      "num": 687367,
+      "word": "纪凌尘 你们俩睡一块吗",
+      "onboard_time": 1753938684,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 712242,
@@ -1475,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 687367,
-      "num": 687367,
-      "word": "纪凌尘 你们俩睡一块吗",
-      "onboard_time": 1753938684,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 686478,
       "num": 344912,
       "word": "汪峰带四个孩子回京",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1753934664,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 681448,
+      "num": 681448,
+      "word": "鹿晗买单call黄子韬",
+      "onboard_time": 1753951283,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 681090,
@@ -1651,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638841,
+      "num": 638841,
+      "word": "网易云音乐起诉韩国SM娱乐",
+      "onboard_time": 1753951523,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 633611,
       "num": 407842,
       "word": "突然意识到1万块这么有质感",
@@ -1713,14 +1745,6 @@
       "onboard_time": 1753677085,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 620667,
-      "num": 620667,
-      "word": "鹿晗买单call黄子韬",
-      "onboard_time": 1753951283,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 618121,
@@ -1931,14 +1955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 554078,
-      "num": 554078,
-      "word": "日本遭殴打中国人称不认识袭击者",
-      "onboard_time": 1753949125,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 553280,
       "num": 553280,
       "word": "全球已近30万人感染基孔肯雅热",
@@ -2145,14 +2161,6 @@
       "onboard_time": 1753772063,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 522966,
-      "num": 522966,
-      "word": "刘芸14岁儿子近照",
-      "onboard_time": 1753953144,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 520341,
@@ -2467,14 +2475,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 458277,
-      "num": 458277,
-      "word": "网易云音乐起诉韩国SM娱乐",
-      "onboard_time": 1753951523,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 457919,
       "num": 417538,
       "word": "汤家凤称武大应撤销对肖某某处分",
@@ -2505,6 +2505,14 @@
       "onboard_time": 1753791202,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452396,
+      "num": 452396,
+      "word": "哪吒2网播定档",
+      "onboard_time": 1753953504,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 451132,
@@ -3083,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368283,
+      "num": 687883,
+      "word": "北京密云通报太师屯救援情况",
+      "onboard_time": 1753952364,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368244,
       "num": 1212106,
       "word": "我军发射洲际弹道导弹独家披露",
@@ -3281,14 +3297,6 @@
       "onboard_time": 1753856904,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341734,
-      "num": 341734,
-      "word": "哪吒2网播定档",
-      "onboard_time": 1753953504,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 338403,
@@ -3763,6 +3771,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 296178,
+      "num": 296178,
+      "word": "快递员敲门不开关水阀",
+      "onboard_time": 1753953383,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293390,
       "num": 242892,
       "word": "你猜关闭朋友圈一年会发生什么",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1753679723,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 283115,
+      "num": 283115,
+      "word": "肖战超话里的录取通知书",
+      "onboard_time": 1753954763,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 282620,
@@ -4369,6 +4393,14 @@
       "onboard_time": 1753882825,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251180,
+      "num": 251180,
+      "word": "新时代人民军队军旗体系发布",
+      "onboard_time": 1753953923,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250715,
@@ -5355,6 +5387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209408,
+      "num": 209408,
+      "word": "一些初显老人味的生活特征",
+      "onboard_time": 1753954165,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209404,
       "num": 209404,
       "word": "你减肥主要靠什么",
@@ -5377,14 +5417,6 @@
       "onboard_time": 1753717881,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208857,
-      "num": 175471,
-      "word": "一些初显老人味的生活特征",
-      "onboard_time": 1753954165,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 208830,
@@ -6275,6 +6307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191949,
+      "num": 191949,
+      "word": "英雄联盟",
+      "onboard_time": 1753953984,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191903,
       "num": 191903,
       "word": "张予曦毕雯珺七夕大片",
@@ -6515,6 +6555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188998,
+      "num": 188998,
+      "word": "李明德工作室被税务多次催报",
+      "onboard_time": 1753955064,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188966,
       "num": 344912,
       "word": "山东泰山主场上万名球迷现场助威",
@@ -6569,6 +6617,14 @@
       "onboard_time": 1753880963,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187969,
+      "num": 187969,
+      "word": "上拉如曝小英高薪雇5个小工养牛",
+      "onboard_time": 1753953743,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 187800,
@@ -6801,6 +6857,14 @@
       "onboard_time": 1753665383,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 184861,
+      "num": 184861,
+      "word": "刘亦菲本科毕业论文答辩",
+      "onboard_time": 1753955124,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 184675,
@@ -7243,14 +7307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176767,
-      "num": 687883,
-      "word": "北京密云通报太师屯救援情况",
-      "onboard_time": 1753952364,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176704,
       "num": 176704,
       "word": "乒超联赛卫冕冠军演逆转",
@@ -7291,14 +7347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 176354,
-      "num": 176354,
-      "word": "快递员敲门不开关水阀",
-      "onboard_time": 1753953383,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176292,
       "num": 176292,
       "word": "北京市民称多辆车被洪水冲走",
@@ -7324,7 +7372,7 @@
     },
     {
       "raw_hot": 175900,
-      "num": 175900,
+      "num": 192098,
       "word": "北京因灾失踪失联9人",
       "onboard_time": 1753950443,
       "rank": 28,
@@ -7457,14 +7505,6 @@
       "onboard_time": 1753629446,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 173276,
-      "num": 173276,
-      "word": "新时代人民军队军旗体系发布",
-      "onboard_time": 1753953923,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173213,
@@ -7739,14 +7779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169420,
-      "num": 169420,
-      "word": "上拉如曝小英高薪雇5个小工养牛",
-      "onboard_time": 1753953743,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 169373,
       "num": 169373,
       "word": "樱木花道",
@@ -7785,6 +7817,14 @@
       "onboard_time": 1753594524,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168899,
+      "num": 168899,
+      "word": "加沙男童领食物道谢后即遭射杀",
+      "onboard_time": 1753955003,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168886,
@@ -8065,14 +8105,6 @@
       "onboard_time": 1753571177,
       "rank": 14,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 165005,
-      "num": 165005,
-      "word": "英雄联盟",
-      "onboard_time": 1753953984,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 164979,
@@ -9259,6 +9291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149656,
+      "num": 149656,
+      "word": "杨洋看爽爽爽爽爽了",
+      "onboard_time": 1753954883,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149644,
       "num": 162275,
       "word": "迪丽热巴让我腿软只需要两句话",
@@ -10067,6 +10107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140260,
+      "num": 208001,
+      "word": "新住持首次在少林寺公开亮相",
+      "onboard_time": 1753954284,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140238,
       "num": 140238,
       "word": "经常内耗的人其实有3个优势",
@@ -10803,6 +10851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132885,
+      "num": 132885,
+      "word": "外交部提醒中国公民谨慎前往日本",
+      "onboard_time": 1753954642,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132636,
       "num": 132636,
       "word": "鹭卓种地音乐两不误",
@@ -10889,6 +10945,14 @@
       "onboard_time": 1753590262,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131579,
+      "num": 131579,
+      "word": "ESPN发布NBA球队最新实力榜",
+      "onboard_time": 1753954942,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131548,
@@ -13843,14 +13907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87767,
-      "num": 171756,
-      "word": "新住持首次在少林寺公开亮相",
-      "onboard_time": 1753954284,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87726,
       "num": 87726,
       "word": "亚马逊创始人套现超400亿元",
@@ -14097,6 +14153,14 @@
       "onboard_time": 1753575560,
       "rank": 46,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 81004,
+      "num": 316685,
+      "word": "北京31死养老中心未列入转移范围",
+      "onboard_time": 1753954342,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80808,
@@ -14547,6 +14611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64839,
+      "num": 1271682,
+      "word": "万千气象看西藏",
+      "onboard_time": 1753952423,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64334,
       "num": 64334,
       "word": "69岁的健身女孩什么样",
@@ -14665,14 +14737,6 @@
       "onboard_time": 1753681223,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59386,
-      "num": 1269652,
-      "word": "万千气象看西藏",
-      "onboard_time": 1753952423,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59277,
@@ -15449,14 +15513,6 @@
       "onboard_time": 1753790723,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 36375,
-      "num": 175494,
-      "word": "北京31死养老中心未列入转移范围",
-      "onboard_time": 1753954342,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36319,
