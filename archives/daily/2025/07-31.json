@@ -1,9 +1,9 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753934894609,
+  "endTime": 1753936036464,
   "band_list": [
     {
-      "raw_hot": 1894840,
+      "raw_hot": 2064202,
       "num": 1894840,
       "word": "新疆炒米粉",
       "onboard_time": 1753930162,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 978021,
-      "num": 978021,
+      "num": 1153197,
       "word": "李嘉诚40万起卖大湾区400套房产",
       "onboard_time": 1753931362,
       "rank": 1,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 606379,
+      "num": 383382,
+      "word": "汪苏泷张碧晨上个月还在聚餐",
+      "onboard_time": 1753934364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574883,
       "num": 574883,
       "word": "新疆出现罕见白色藏羚羊",
@@ -129,6 +137,14 @@
       "onboard_time": 1753915816,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 551135,
+      "num": 551135,
+      "word": "于正让李梦少穿点丑衣服",
+      "onboard_time": 1753934124,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 531219,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482918,
+      "num": 482918,
+      "word": "虞书欣变更工作联系方式",
+      "onboard_time": 1753933402,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482470,
       "num": 482470,
       "word": "黄一鸣想让女儿出国留学",
@@ -179,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478872,
+      "num": 321848,
+      "word": "汪苏泷与张碧晨上个月还在聚餐",
+      "onboard_time": 1753935684,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460458,
       "num": 460458,
       "word": "佛山释放不咬人蚊子捕食咬人蚊子",
       "onboard_time": 1753890085,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 456716,
-      "num": 456716,
-      "word": "虞书欣变更工作联系方式",
-      "onboard_time": 1753933402,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 409142,
@@ -211,12 +235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384340,
+      "num": 384340,
+      "word": "2025年上半年结婚登记353.9万对",
+      "onboard_time": 1753931904,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381157,
       "num": 208370,
       "word": "李雪琴的腰怎么了",
       "onboard_time": 1753873943,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376827,
+      "num": 376827,
+      "word": "微信聊天发截图前先改亲密备注",
+      "onboard_time": 1753933645,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 368244,
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 362819,
-      "num": 223042,
+      "num": 242535,
       "word": "终于有剧拍出了真豪门",
       "onboard_time": 1753932743,
       "rank": 20,
@@ -240,14 +280,6 @@
       "word": "老人一次拔牙12颗种6颗后身亡",
       "onboard_time": 1753884746,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358066,
-      "num": 358066,
-      "word": "2025年上半年结婚登记353.9万对",
-      "onboard_time": 1753931904,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -275,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352610,
+      "num": 352610,
+      "word": "方圆脸瘦了35斤的面部变化",
+      "onboard_time": 1753934664,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 349654,
       "num": 349654,
       "word": "巴基斯坦遥感卫星01星发射成功",
@@ -291,8 +331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320295,
-      "num": 320295,
+      "raw_hot": 322257,
+      "num": 322257,
       "word": "迪丽热巴明艳黄玫瑰",
       "onboard_time": 1753931542,
       "rank": 12,
@@ -339,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 278144,
+      "num": 278144,
+      "word": "夜旅人",
+      "onboard_time": 1753934063,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268744,
       "num": 205513,
       "word": "黄一鸣回应给孩子找后爸",
@@ -379,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241369,
-      "num": 241369,
-      "word": "微信聊天发截图前先改亲密备注",
-      "onboard_time": 1753933645,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 240088,
       "num": 240088,
       "word": "日本民众撤离到屋顶躲避海啸",
@@ -403,28 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228401,
-      "num": 228401,
-      "word": "汪苏泷张碧晨上个月还在聚餐",
-      "onboard_time": 1753934364,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225513,
       "num": 206802,
       "word": "分享欲其实是一种情绪霸凌",
       "onboard_time": 1753895659,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224343,
-      "num": 224343,
-      "word": "于正让李梦少穿点丑衣服",
-      "onboard_time": 1753934124,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 212658,
@@ -515,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180526,
-      "num": 180526,
-      "word": "夜旅人",
-      "onboard_time": 1753934063,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 179826,
+      "num": 179826,
+      "word": "咖啡店店员遭遇150杯团单跳单",
+      "onboard_time": 1753935684,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 178651,
@@ -545,6 +569,14 @@
       "onboard_time": 1753929262,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177108,
+      "num": 177108,
+      "word": "TMEA音乐盛典全阵容",
+      "onboard_time": 1753935925,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 173895,
@@ -587,6 +619,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 162574,
+      "num": 162574,
+      "word": "少林寺新住持对待商业化很谨慎",
+      "onboard_time": 1753931542,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162155,
+      "num": 162155,
+      "word": "KPL团综杀青啦",
+      "onboard_time": 1753935263,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161458,
       "num": 161458,
       "word": "强降雨致河北35.6万人受灾",
@@ -627,12 +675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148508,
-      "num": 148508,
-      "word": "方圆脸瘦了35斤的面部变化",
-      "onboard_time": 1753934664,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 148870,
+      "num": 148870,
+      "word": "这才是四大国乙",
+      "onboard_time": 1753932144,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 146989,
+      "num": 146989,
+      "word": "白举纲官宣参加歌手突围赛",
+      "onboard_time": 1753935143,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 144263,
@@ -643,20 +699,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142455,
+      "num": 142455,
+      "word": "其实你根本不用纠结离不离职",
+      "onboard_time": 1753933943,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141850,
       "num": 165673,
       "word": "时代少年团七个大SD",
       "onboard_time": 1753928900,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141006,
-      "num": 141006,
-      "word": "这才是四大国乙",
-      "onboard_time": 1753932144,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 137832,
@@ -673,14 +729,6 @@
       "onboard_time": 1753927762,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 136926,
-      "num": 136926,
-      "word": "少林寺新住持对待商业化很谨慎",
-      "onboard_time": 1753931542,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134659,
@@ -707,20 +755,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131150,
-      "num": 131150,
-      "word": "其实你根本不用纠结离不离职",
-      "onboard_time": 1753933943,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128661,
       "num": 128661,
       "word": "凡人修仙传第10集开挂",
       "onboard_time": 1753923503,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127834,
+      "num": 127834,
+      "word": "精彩OK",
+      "onboard_time": 1753935504,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126812,
@@ -755,12 +803,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123251,
+      "num": 123251,
+      "word": "文韬你的强来了",
+      "onboard_time": 1753935925,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122545,
       "num": 122545,
       "word": "俄罗斯堪察加半岛一火山喷发",
       "onboard_time": 1753916958,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115776,
+      "num": 115776,
+      "word": "包上恩卢昱晓撕拉片",
+      "onboard_time": 1753932983,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114209,
+      "num": 114209,
+      "word": "穿和穿搭真的不一样",
+      "onboard_time": 1753934843,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 113909,
@@ -811,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105281,
-      "num": 105281,
-      "word": "包上恩卢昱晓撕拉片",
-      "onboard_time": 1753932983,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103588,
       "num": 103588,
       "word": "直井怜回应IVE服装争议",
@@ -849,14 +913,6 @@
       "onboard_time": 1753927762,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100927,
-      "num": 100927,
-      "word": "穿和穿搭真的不一样",
-      "onboard_time": 1753934843,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 100718,
@@ -995,6 +1051,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 66124,
+      "num": 182807,
+      "word": "长征八号甲火箭起飞主动漂移控制",
+      "onboard_time": 1753934664,
+      "rank": 26,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 66053,
       "num": 66053,
       "word": "特朗普称对印度征收25%关税",
@@ -1059,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60700,
-      "num": 178087,
-      "word": "长征八号甲火箭起飞主动漂移控制",
-      "onboard_time": 1753934664,
-      "rank": 26,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 59100,
       "num": 59100,
       "word": "网售5盒思诺思被判贩毒二审发回重审",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1753891164,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53121,
+      "num": 195920,
+      "word": "图瓦卢计划全国移民澳大利亚",
+      "onboard_time": 1753935866,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52642,
@@ -1163,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42007,
+      "num": 129628,
+      "word": "深圳凌晨闪电超1000次",
+      "onboard_time": 1753935263,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41891,
       "num": 51508,
       "word": "我们是长大了不是发财了",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1753895779,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23144,
+      "num": 150440,
+      "word": "丁禹兮爱一个本身很好的人具象化",
+      "onboard_time": 1753935084,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 21861,

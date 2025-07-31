@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/07/01 00:33:40 ~ 2025/07/31 12:08:14
+本榜单时间：2025/07/01 00:33:40 ~ 2025/07/31 12:27:16
 </p>
 </blockquote>
 <p>
@@ -735,6 +735,12 @@ Grace淘汰（热度：2072748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%82%92%E7%B1%B3%E7%B2%89%23" target="weibo">
+新疆炒米粉（热度：2064202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%A6%88%E5%B9%82%23" target="weibo">
 杨幂 妈幂（热度：2063793）
 </a>
@@ -857,12 +863,6 @@ Grace淘汰（热度：2072748）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%85%8D%E5%8D%95%23" target="weibo">
 美团免单（热度：1896273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%82%92%E7%B1%B3%E7%B2%89%23" target="weibo">
-新疆炒米粉（热度：1894840）
 </a>
 </li>
 
