@@ -1,13 +1,29 @@
 {
   "startTime": 1753893280399,
-  "endTime": 1753929501122,
+  "endTime": 1753934894609,
   "band_list": [
+    {
+      "raw_hot": 1894840,
+      "num": 1894840,
+      "word": "新疆炒米粉",
+      "onboard_time": 1753930162,
+      "rank": 0,
+      "category": "美食"
+    },
     {
       "raw_hot": 1234064,
       "num": 1234064,
       "word": "2024年结婚登记610.6万对",
       "onboard_time": 1753919962,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 978021,
+      "num": 978021,
+      "word": "李嘉诚40万起卖大湾区400套房产",
+      "onboard_time": 1753931362,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -25,6 +41,14 @@
       "onboard_time": 1753928003,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 885318,
+      "num": 885318,
+      "word": "龙凤胎弟弟手臂吸入出水口溺亡",
+      "onboard_time": 1753930342,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 841425,
@@ -67,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 666870,
+      "num": 666870,
+      "word": "我家那闺女",
+      "onboard_time": 1753931844,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666074,
       "num": 666074,
       "word": "乘警回应给穿吊带女乘客发提示卡",
@@ -97,6 +129,14 @@
       "onboard_time": 1753915816,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 531219,
+      "num": 531219,
+      "word": "海啸",
+      "onboard_time": 1753932684,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 529751,
@@ -147,12 +187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 456716,
+      "num": 456716,
+      "word": "虞书欣变更工作联系方式",
+      "onboard_time": 1753933402,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409142,
       "num": 409142,
       "word": "日本女子躲海啸驾车从30米悬崖坠亡",
       "onboard_time": 1753883785,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 395434,
+      "num": 395434,
+      "word": "朝雪录向李兰迪敖瑞鹏及粉丝道歉",
+      "onboard_time": 1753931542,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 381157,
@@ -171,11 +227,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 362819,
+      "num": 223042,
+      "word": "终于有剧拍出了真豪门",
+      "onboard_time": 1753932743,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361273,
       "num": 207325,
       "word": "老人一次拔牙12颗种6颗后身亡",
       "onboard_time": 1753884746,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358066,
+      "num": 358066,
+      "word": "2025年上半年结婚登记353.9万对",
+      "onboard_time": 1753931904,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -203,12 +275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 349654,
+      "num": 349654,
+      "word": "巴基斯坦遥感卫星01星发射成功",
+      "onboard_time": 1753932563,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324390,
       "num": 209757,
       "word": "女子婚后一年发现丈夫隐瞒艾滋病史",
       "onboard_time": 1753887265,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320295,
+      "num": 320295,
+      "word": "迪丽热巴明艳黄玫瑰",
+      "onboard_time": 1753931542,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 315691,
@@ -233,6 +321,14 @@
       "onboard_time": 1753927643,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287552,
+      "num": 287552,
+      "word": "没想到内衣也有自己的升咖史",
+      "onboard_time": 1753933045,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 286363,
@@ -283,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241369,
+      "num": 241369,
+      "word": "微信聊天发截图前先改亲密备注",
+      "onboard_time": 1753933645,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240088,
       "num": 240088,
       "word": "日本民众撤离到屋顶躲避海啸",
@@ -299,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228401,
+      "num": 228401,
+      "word": "汪苏泷张碧晨上个月还在聚餐",
+      "onboard_time": 1753934364,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225513,
       "num": 206802,
       "word": "分享欲其实是一种情绪霸凌",
       "onboard_time": 1753895659,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224343,
+      "num": 224343,
+      "word": "于正让李梦少穿点丑衣服",
+      "onboard_time": 1753934124,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 212658,
@@ -347,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 194621,
+      "num": 194621,
+      "word": "张予曦毕雯珺七夕双人封面",
+      "onboard_time": 1753933823,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194046,
       "num": 194046,
       "word": "U21篮球赛爆发大规模冲突",
@@ -387,12 +515,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180526,
+      "num": 180526,
+      "word": "夜旅人",
+      "onboard_time": 1753934063,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178651,
+      "num": 178651,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1753931362,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178647,
       "num": 178647,
       "word": "毛茸茸的简自豪",
       "onboard_time": 1753928362,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178048,
+      "num": 178048,
+      "word": "董璇小酒窝 i人妈妈和她的e人女儿",
+      "onboard_time": 1753929262,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 173895,
@@ -475,12 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147311,
-      "num": 147311,
-      "word": "董璇小酒窝 i人妈妈和她的e人女儿",
-      "onboard_time": 1753929262,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 148508,
+      "num": 148508,
+      "word": "方圆脸瘦了35斤的面部变化",
+      "onboard_time": 1753934664,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 144263,
@@ -499,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141006,
+      "num": 141006,
+      "word": "这才是四大国乙",
+      "onboard_time": 1753932144,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137832,
       "num": 171240,
       "word": "李兰迪 我的状态比较恐怖",
@@ -515,12 +675,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136926,
+      "num": 136926,
+      "word": "少林寺新住持对待商业化很谨慎",
+      "onboard_time": 1753931542,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134659,
+      "num": 134659,
+      "word": "老总给公司上上下下安排了10杯饮料",
+      "onboard_time": 1753934243,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133993,
+      "num": 133993,
+      "word": "5个检查知道体内有没有癌症",
+      "onboard_time": 1753933764,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133310,
       "num": 133310,
       "word": "女乘客说高铁上收到小卡片暖到了",
       "onboard_time": 1753926503,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131150,
+      "num": 131150,
+      "word": "其实你根本不用纠结离不离职",
+      "onboard_time": 1753933943,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 128661,
@@ -537,6 +729,14 @@
       "onboard_time": 1753924222,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "严浩翔灯光熄灭一秒变脸",
+      "onboard_time": 1753933223,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 125870,
@@ -571,6 +771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113909,
+      "num": 113909,
+      "word": "王者山海奇都系列皮肤上线",
+      "onboard_time": 1753934303,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113894,
+      "num": 113894,
+      "word": "理想i8",
+      "onboard_time": 1753934723,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110679,
       "num": 110679,
       "word": "李嘉格夏威夷遇海啸",
@@ -593,6 +809,14 @@
       "onboard_time": 1753925601,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105281,
+      "num": 105281,
+      "word": "包上恩卢昱晓撕拉片",
+      "onboard_time": 1753932983,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 103588,
@@ -627,12 +851,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100927,
+      "num": 100927,
+      "word": "穿和穿搭真的不一样",
+      "onboard_time": 1753934843,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 100718,
       "num": 100718,
       "word": "潘展乐坦言奥运会后曾失去目标",
       "onboard_time": 1753918160,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100602,
+      "num": 100602,
+      "word": "张予曦杂志",
+      "onboard_time": 1753932923,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100046,
@@ -819,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60700,
+      "num": 178087,
+      "word": "长征八号甲火箭起飞主动漂移控制",
+      "onboard_time": 1753934664,
+      "rank": 26,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 59100,
       "num": 59100,
       "word": "网售5盒思诺思被判贩毒二审发回重审",
@@ -996,7 +1244,7 @@
     },
     {
       "raw_hot": 10762,
-      "num": 739960,
+      "num": 888802,
       "word": "8月下旬陆续开放育儿补贴申领",
       "onboard_time": 1753858283,
       "rank": 2,
