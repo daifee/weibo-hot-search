@@ -1,13 +1,21 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754041758919,
+  "endTime": 1754044293335,
   "band_list": [
     {
-      "raw_hot": 6622608,
-      "num": 7872608,
+      "raw_hot": 13974214,
+      "num": 14552739,
       "word": "武大回应图书馆事件",
       "onboard_time": 1754040444,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6725402,
+      "num": 6725402,
+      "word": "宗馥莉输了",
+      "onboard_time": 1754042484,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1754025143,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1140121,
+      "num": 1140121,
+      "word": "张翰终于演对角色了",
+      "onboard_time": 1754040142,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 1132060,
@@ -139,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 949069,
+      "num": 812198,
+      "word": "李飞 抠门",
+      "onboard_time": 1754039782,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867979,
       "num": 600710,
       "word": "TF四代 超载",
@@ -148,19 +172,11 @@
     },
     {
       "raw_hot": 847093,
-      "num": 306299,
+      "num": 511698,
       "word": "武汉大学",
       "onboard_time": 1754040982,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 812198,
-      "num": 812198,
-      "word": "李飞 抠门",
-      "onboard_time": 1754039782,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 806295,
@@ -185,14 +201,6 @@
       "onboard_time": 1754022742,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 760619,
-      "num": 760619,
-      "word": "张翰终于演对角色了",
-      "onboard_time": 1754040142,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 755062,
@@ -483,6 +491,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 363664,
+      "num": 363664,
+      "word": "宗庆后遗产纠纷案决定全文6点公布",
+      "onboard_time": 1754039902,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355878,
+      "num": 355878,
+      "word": "武大将调查复核肖某某纪律处分",
+      "onboard_time": 1754040503,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355767,
       "num": 220159,
       "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
@@ -499,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351630,
-      "num": 351630,
-      "word": "宗庆后遗产纠纷案决定全文6点公布",
-      "onboard_time": 1754039902,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 348824,
       "num": 378227,
       "word": "人民海军湖北舰来啦",
@@ -515,12 +531,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 347595,
+      "num": 362097,
+      "word": "谷歌辟谣恢复中国大陆地区服务",
+      "onboard_time": 1754041884,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 345494,
       "num": 345494,
       "word": "昆明将严肃处理涉事旅行社",
       "onboard_time": 1754007861,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338864,
+      "num": 351252,
+      "word": "把主角还给大女主",
+      "onboard_time": 1754041402,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 338534,
@@ -571,16 +603,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307254,
-      "num": 307254,
-      "word": "武大将调查复核肖某某纪律处分",
-      "onboard_time": 1754040503,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303914,
-      "num": 459352,
+      "num": 3469930,
       "word": "人民军队时刻准备着",
       "onboard_time": 1754029702,
       "rank": 9,
@@ -601,6 +625,14 @@
       "onboard_time": 1754035702,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296716,
+      "num": 296716,
+      "word": "男子破坏军婚致军人配偶怀孕判刑1年",
+      "onboard_time": 1754040381,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294173,
@@ -699,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257401,
+      "num": 349404,
+      "word": "皇后杀了皇后 杨阳嬷了杨洋",
+      "onboard_time": 1754043383,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250758,
       "num": 250758,
       "word": "汪苏泷回应和韩红合唱年轮",
@@ -747,6 +787,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242438,
+      "num": 242438,
+      "word": "蒋欣吃饭 给猫倒了两粒猫粮",
+      "onboard_time": 1754041643,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239076,
+      "num": 239076,
+      "word": "淘宝闪购免单",
+      "onboard_time": 1754041884,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 238679,
+      "num": 347801,
+      "word": "娃哈哈遗产争夺首战宗馥莉被判输",
+      "onboard_time": 1754043564,
+      "rank": 19,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 236171,
       "num": 236171,
       "word": "林心如霍建华结婚九周年",
@@ -771,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231401,
+      "num": 231401,
+      "word": "宗馥莉暂不得挪用香港汇丰账户资产",
+      "onboard_time": 1754043624,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231018,
       "num": 231018,
       "word": "by2说要勇于撇清关系",
@@ -793,6 +865,14 @@
       "onboard_time": 1754029101,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222480,
+      "num": 222480,
+      "word": "TF四代 是坐在司机腿上了吗",
+      "onboard_time": 1754042063,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 220738,
@@ -923,6 +1003,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207476,
+      "num": 207476,
+      "word": "宗庆后遗产纠纷案起诉书曝光",
+      "onboard_time": 1754041822,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206798,
+      "num": 206798,
+      "word": "刘亦菲 抬头的玉",
+      "onboard_time": 1754043324,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206160,
       "num": 206160,
       "word": "27岁女子35楼坠落两次缓冲赢生机",
@@ -945,14 +1041,6 @@
       "onboard_time": 1754004199,
       "rank": 8,
       "category": "军事"
-    },
-    {
-      "raw_hot": 204846,
-      "num": 204846,
-      "word": "男子破坏军婚致军人配偶怀孕判刑1年",
-      "onboard_time": 1754040381,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203786,
@@ -1075,6 +1163,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 191337,
+      "num": 191337,
+      "word": "我行让我上",
+      "onboard_time": 1754043866,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 190550,
       "num": 190550,
       "word": "韩女子怀疑丈夫出轨将其生殖器切断",
@@ -1195,6 +1291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 181813,
+      "num": 181813,
+      "word": "冰冻蛋挞",
+      "onboard_time": 1754041102,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180935,
       "num": 180935,
       "word": "穆祉丞狼尾",
@@ -1312,14 +1416,6 @@
       "word": "定风波",
       "onboard_time": 1754014041,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 168725,
-      "num": 168725,
-      "word": "把主角还给大女主",
-      "onboard_time": 1754041402,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1483,14 +1579,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 155596,
-      "num": 155596,
-      "word": "蒋欣吃饭 给猫倒了两粒猫粮",
-      "onboard_time": 1754041643,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155204,
       "num": 155204,
       "word": "巧乐兹中间的巧克力",
@@ -1521,6 +1609,22 @@
       "onboard_time": 1754015840,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 151898,
+      "num": 151898,
+      "word": "张予曦三颗蓝莓树结四颗蓝莓",
+      "onboard_time": 1754043744,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150987,
+      "num": 150987,
+      "word": "深情眼豆瓣开分5.7",
+      "onboard_time": 1754041583,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 150487,
@@ -1569,14 +1673,6 @@
       "onboard_time": 1754037683,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 145816,
-      "num": 145816,
-      "word": "深情眼豆瓣开分5.7",
-      "onboard_time": 1754041583,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 144465,
@@ -1649,6 +1745,14 @@
       "onboard_time": 1754020402,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137597,
+      "num": 137597,
+      "word": "广西亮证",
+      "onboard_time": 1754043744,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 137542,
@@ -1755,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130297,
+      "num": 130297,
+      "word": "第一次见女主穿婚服告白的",
+      "onboard_time": 1754043744,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129880,
       "num": 129880,
       "word": "定风波今日开播",
@@ -1801,6 +1913,14 @@
       "onboard_time": 1754031564,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126455,
+      "num": 126455,
+      "word": "武大已组建工作专班",
+      "onboard_time": 1754043866,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126246,
@@ -1891,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119433,
+      "num": 119433,
+      "word": "黄俊捷等了一年才有结果",
+      "onboard_time": 1754043024,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118757,
       "num": 135842,
       "word": "女子报警硬刚清晨5点广场舞",
@@ -1971,6 +2099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114920,
+      "num": 114920,
+      "word": "丞磊的薄肌又来going我了",
+      "onboard_time": 1754043684,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114723,
       "num": 114723,
       "word": "女生不要有打扮羞耻症",
@@ -1993,6 +2129,14 @@
       "onboard_time": 1753976181,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112600,
+      "num": 112600,
+      "word": "王者诸葛亮有小翅膀",
+      "onboard_time": 1754043983,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 112515,
@@ -2060,7 +2204,7 @@
     },
     {
       "raw_hot": 103975,
-      "num": 317277,
+      "num": 348204,
       "word": "CJ骁龙瓦学长vs瓦学姐",
       "onboard_time": 1754040563,
       "rank": 24,
@@ -2695,6 +2839,9 @@
     },
     {
       "word": "#矢志强军向一流#"
+    },
+    {
+      "word": "#人民军队攻坚制胜#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754044293335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13974214,
+        "num": 14552739,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6725402,
+        "num": 6725402,
+        "word": "宗馥莉输了",
+        "onboard_time": 1754042484,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46071,
+        "num": 3469930,
+        "word": "人民军队时刻准备着",
+        "onboard_time": 1754029702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1140121,
+        "num": 1140121,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1129468,
+        "num": 1129468,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511698,
+        "num": 511698,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421771,
+        "num": 421771,
+        "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+        "onboard_time": 1754034142,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367236,
+        "num": 367236,
+        "word": "双修",
+        "onboard_time": 1754032584,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363664,
+        "num": 363664,
+        "word": "宗庆后遗产纠纷案决定全文6点公布",
+        "onboard_time": 1754039902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347595,
+        "num": 362097,
+        "word": "谷歌辟谣恢复中国大陆地区服务",
+        "onboard_time": 1754041884,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 949069,
+        "num": 361352,
+        "word": "李飞 抠门",
+        "onboard_time": 1754039782,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616497,
+        "num": 357984,
+        "word": "张馨予何捷结婚七周年",
+        "onboard_time": 1754027902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378086,
+        "num": 357358,
+        "word": "香港高院对宗家信托案宣布决定",
+        "onboard_time": 1754039062,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355878,
+        "num": 355878,
+        "word": "武大将调查复核肖某某纪律处分",
+        "onboard_time": 1754040503,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351959,
+        "num": 351959,
+        "word": "曹格回应Joe用自己的歌官宣恋情",
+        "onboard_time": 1754040503,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338864,
+        "num": 351252,
+        "word": "把主角还给大女主",
+        "onboard_time": 1754041402,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316970,
+        "num": 350052,
+        "word": "柴鸡蛋疑似还钱了",
+        "onboard_time": 1754039180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257401,
+        "num": 349404,
+        "word": "皇后杀了皇后 杨阳嬷了杨洋",
+        "onboard_time": 1754043383,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39636,
+        "num": 348204,
+        "word": "CJ骁龙瓦学长vs瓦学姐",
+        "onboard_time": 1754040563,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238679,
+        "num": 347801,
+        "word": "娃哈哈遗产争夺首战宗馥莉被判输",
+        "onboard_time": 1754043564,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 346837,
+        "num": 346837,
+        "word": "爱豆是怎么忍住不恋爱的",
+        "onboard_time": 1754034743,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296716,
+        "num": 296716,
+        "word": "男子破坏军婚致军人配偶怀孕判刑1年",
+        "onboard_time": 1754040381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242438,
+        "num": 242438,
+        "word": "蒋欣吃饭 给猫倒了两粒猫粮",
+        "onboard_time": 1754041643,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239076,
+        "num": 239076,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1754041884,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231401,
+        "num": 231401,
+        "word": "宗馥莉暂不得挪用香港汇丰账户资产",
+        "onboard_time": 1754043624,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222480,
+        "num": 222480,
+        "word": "TF四代 是坐在司机腿上了吗",
+        "onboard_time": 1754042063,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207476,
+        "num": 207476,
+        "word": "宗庆后遗产纠纷案起诉书曝光",
+        "onboard_time": 1754041822,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206798,
+        "num": 206798,
+        "word": "刘亦菲 抬头的玉",
+        "onboard_time": 1754043324,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197464,
+        "num": 197464,
+        "word": "兔闪闪",
+        "onboard_time": 1754041224,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193654,
+        "num": 193654,
+        "word": "柴鸡蛋主页已无作品",
+        "onboard_time": 1754032042,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191337,
+        "num": 191337,
+        "word": "我行让我上",
+        "onboard_time": 1754043866,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 185295,
+        "num": 185295,
+        "word": "微信提现手续费下限调为0.01元",
+        "onboard_time": 1754025143,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181813,
+        "num": 181813,
+        "word": "冰冻蛋挞",
+        "onboard_time": 1754041102,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175389,
+        "num": 175389,
+        "word": "快递员儿子放弃北大报考西湖大学",
+        "onboard_time": 1754032282,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 158410,
+        "num": 158410,
+        "word": "21岁确诊抑郁症的躯体化表现",
+        "onboard_time": 1754034203,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151898,
+        "num": 151898,
+        "word": "张予曦三颗蓝莓树结四颗蓝莓",
+        "onboard_time": 1754043744,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150987,
+        "num": 150987,
+        "word": "深情眼豆瓣开分5.7",
+        "onboard_time": 1754041583,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140826,
+        "num": 140826,
+        "word": "律师解读李明德酒后砸车获刑6个月",
+        "onboard_time": 1754039302,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137597,
+        "num": 137597,
+        "word": "广西亮证",
+        "onboard_time": 1754043744,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130297,
+        "num": 130297,
+        "word": "第一次见女主穿婚服告白的",
+        "onboard_time": 1754043744,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126455,
+        "num": 126455,
+        "word": "武大已组建工作专班",
+        "onboard_time": 1754043866,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123896,
+        "num": 123896,
+        "word": "抓100个老婆视频博主被罚",
+        "onboard_time": 1754036062,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123616,
+        "num": 123616,
+        "word": "韦东奕已晋升北大长聘副教授",
+        "onboard_time": 1754036662,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 119433,
+        "num": 119433,
+        "word": "黄俊捷等了一年才有结果",
+        "onboard_time": 1754043024,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115988,
+        "num": 115988,
+        "word": "陈芋汐谈全红婵不在身边",
+        "onboard_time": 1754031802,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115609,
+        "num": 115609,
+        "word": "建军节向最可爱的人说声谢谢",
+        "onboard_time": 1754031381,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 115225,
+        "num": 115225,
+        "word": "TF四代 超载",
+        "onboard_time": 1754029342,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114920,
+        "num": 114920,
+        "word": "丞磊的薄肌又来going我了",
+        "onboard_time": 1754043684,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112600,
+        "num": 112600,
+        "word": "王者诸葛亮有小翅膀",
+        "onboard_time": 1754043983,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109712,
+        "num": 109712,
+        "word": "李诞抖音评论区",
+        "onboard_time": 1754026402,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}
