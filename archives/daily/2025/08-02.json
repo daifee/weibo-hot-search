@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754067199652,
+  "endTime": 1754069318189,
   "band_list": [
     {
       "raw_hot": 2714670,
@@ -75,6 +75,14 @@
       "category": "读书作家,电竞"
     },
     {
+      "raw_hot": 294098,
+      "num": 294098,
+      "word": "女子假装病死分饰7角诈骗再婚丈夫",
+      "onboard_time": 1754065522,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282612,
       "num": 282612,
       "word": "张翰终于演对角色了",
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179240,
+      "num": 179240,
+      "word": "者来女 玩得起",
+      "onboard_time": 1754065341,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176229,
       "num": 176229,
       "word": "汪顺时隔八年再夺世锦赛奖牌",
@@ -147,12 +163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147660,
-      "num": 147660,
-      "word": "者来女 玩得起",
-      "onboard_time": 1754065341,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 155187,
+      "num": 80666,
+      "word": "男子与军人配偶同居致其怀孕",
+      "onboard_time": 1754067140,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136179,
@@ -195,12 +211,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98207,
-      "num": 98207,
-      "word": "女子假装病死分饰7角诈骗再婚丈夫",
-      "onboard_time": 1754065522,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 102389,
+      "num": 56468,
+      "word": "真的有人会为了三块钱站一下午",
+      "onboard_time": 1754067439,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 97682,
@@ -233,6 +249,14 @@
       "onboard_time": 1754062702,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94487,
+      "num": 94487,
+      "word": "第一次见这么糊弄观众的综艺",
+      "onboard_time": 1754066240,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 92869,
@@ -305,14 +329,6 @@
       "onboard_time": 1754056284,
       "rank": 36,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 77875,
-      "num": 77875,
-      "word": "第一次见这么糊弄观众的综艺",
-      "onboard_time": 1754066240,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 75485,
@@ -427,14 +443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61691,
-      "num": 61691,
-      "word": "男子与军人配偶同居致其怀孕",
-      "onboard_time": 1754067140,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60851,
       "num": 60851,
       "word": "山河无恙因有寸土不让",
@@ -449,6 +457,22 @@
       "onboard_time": 1754066600,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 45423,
+      "num": 45423,
+      "word": "Beni晋级",
+      "onboard_time": 1754057303,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44620,
+      "num": 44620,
+      "word": "当我放弃微信聊天记录",
+      "onboard_time": 1754068938,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 5365,

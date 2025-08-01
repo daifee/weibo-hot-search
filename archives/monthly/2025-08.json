@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754067199652,
+  "endTime": 1754069318189,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -971,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294098,
+      "num": 294098,
+      "word": "女子假装病死分饰7角诈骗再婚丈夫",
+      "onboard_time": 1754065522,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291894,
       "num": 291894,
       "word": "昆明通报129名游客滞留服务区",
@@ -1851,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179240,
+      "num": 179240,
+      "word": "者来女 玩得起",
+      "onboard_time": 1754065341,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178048,
       "num": 178048,
       "word": "美国将对加拿大关税上调至35%",
@@ -2275,6 +2291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155187,
+      "num": 80666,
+      "word": "男子与军人配偶同居致其怀孕",
+      "onboard_time": 1754067140,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154251,
       "num": 154251,
       "word": "美国医生边手术边玩游戏致患者死亡",
@@ -2384,14 +2408,6 @@
       "word": "Rapeter长文告别新说唱",
       "onboard_time": 1754047343,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 147660,
-      "num": 147660,
-      "word": "者来女 玩得起",
-      "onboard_time": 1754065341,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -3187,6 +3203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102389,
+      "num": 56468,
+      "word": "真的有人会为了三块钱站一下午",
+      "onboard_time": 1754067439,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 101547,
       "num": 270106,
       "word": "上汽奥迪A5L上赛首秀",
@@ -3241,14 +3265,6 @@
       "onboard_time": 1753960463,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98207,
-      "num": 98207,
-      "word": "女子假装病死分饰7角诈骗再婚丈夫",
-      "onboard_time": 1754065522,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97260,
@@ -3321,6 +3337,14 @@
       "onboard_time": 1754055444,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94487,
+      "num": 94487,
+      "word": "第一次见这么糊弄观众的综艺",
+      "onboard_time": 1754066240,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 93073,
@@ -3433,14 +3457,6 @@
       "onboard_time": 1754032042,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77875,
-      "num": 77875,
-      "word": "第一次见这么糊弄观众的综艺",
-      "onboard_time": 1754066240,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 75690,
@@ -3619,14 +3635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61691,
-      "num": 61691,
-      "word": "男子与军人配偶同居致其怀孕",
-      "onboard_time": 1754067140,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60851,
       "num": 176285,
       "word": "山河无恙因有寸土不让",
@@ -3753,6 +3761,14 @@
       "onboard_time": 1754025323,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44620,
+      "num": 44620,
+      "word": "当我放弃微信聊天记录",
+      "onboard_time": 1754068938,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 44615,
