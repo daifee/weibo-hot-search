@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754017233271,
+  "endTime": 1754021949342,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -385,6 +385,14 @@
       "onboard_time": 1753948526,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1430745,
+      "num": 1430745,
+      "word": "第一个取消耳机孔的",
+      "onboard_time": 1754007801,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 1388549,
@@ -904,6 +912,14 @@
       "word": "老人一次拔牙12颗种6颗后身亡",
       "onboard_time": 1753884746,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 975092,
+      "num": 396390,
+      "word": "武大校长张平文回应学生性骚扰事件",
+      "onboard_time": 1754016262,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1691,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 676867,
+      "num": 386631,
+      "word": "猫咪去世前一天用按钮和我告别",
+      "onboard_time": 1754015000,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 673987,
       "num": 673987,
       "word": "吴谨言全面复出",
@@ -1739,20 +1763,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 667676,
-      "num": 667676,
-      "word": "第一个取消耳机孔的",
-      "onboard_time": 1754007801,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 666870,
       "num": 666870,
       "word": "我家那闺女",
       "onboard_time": 1753931844,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 666517,
+      "num": 666517,
+      "word": "被熟虾咬伤的概率不再是0",
+      "onboard_time": 1754018422,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 666074,
@@ -3107,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407916,
+      "num": 407916,
+      "word": "张馨予说热巴演得好",
+      "onboard_time": 1754018182,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406929,
       "num": 406929,
       "word": "居家办公",
@@ -3739,6 +3771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332045,
+      "num": 332045,
+      "word": "黄子韬公司成被执行人",
+      "onboard_time": 1754014341,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331568,
       "num": 331568,
       "word": "井柏然刘雯两眼一睁就是被偶遇",
@@ -3761,6 +3801,14 @@
       "onboard_time": 1753790001,
       "rank": 22,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 329756,
+      "num": 329756,
+      "word": "印度40岁男子娶13岁新娘被捕",
+      "onboard_time": 1754013982,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 329563,
@@ -4075,14 +4123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304159,
-      "num": 304159,
-      "word": "武大校长张平文回应学生性骚扰事件",
-      "onboard_time": 1754016262,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303690,
       "num": 303690,
       "word": "王宝强自传",
@@ -4225,14 +4265,6 @@
       "onboard_time": 1753994654,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290093,
-      "num": 290093,
-      "word": "印度40岁男子娶13岁新娘被捕",
-      "onboard_time": 1754013982,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 288878,
@@ -4755,6 +4787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257412,
+      "num": 257412,
+      "word": "公司约定的不缴社保无效",
+      "onboard_time": 1754017521,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256916,
       "num": 256916,
       "word": "许嵩哭了",
@@ -5169,6 +5209,14 @@
       "onboard_time": 1753863143,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 238164,
+      "num": 238164,
+      "word": "木苏里开新文",
+      "onboard_time": 1754021241,
+      "rank": 17,
+      "category": "读书作家"
     },
     {
       "raw_hot": 237534,
@@ -5699,14 +5747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217373,
-      "num": 217373,
-      "word": "猫咪去世前一天用按钮和我告别",
-      "onboard_time": 1754015000,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 217120,
       "num": 153625,
       "word": "为什么你一眼就被认出是最好欺负的",
@@ -5721,6 +5761,14 @@
       "onboard_time": 1753773201,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216819,
+      "num": 216819,
+      "word": "鞠婧祎超话",
+      "onboard_time": 1754021903,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 216793,
@@ -5811,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214524,
+      "num": 214524,
+      "word": "杭州某办事单位电话被悬放",
+      "onboard_time": 1754018001,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214490,
       "num": 224507,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
@@ -5865,6 +5921,14 @@
       "onboard_time": 1753690043,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213180,
+      "num": 213180,
+      "word": "娜扎 我哪一次不好看",
+      "onboard_time": 1754021482,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 212906,
@@ -6147,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206966,
+      "num": 206966,
+      "word": "泡水饮料 不能喝",
+      "onboard_time": 1754017221,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206939,
       "num": 206939,
       "word": "我也在王牌打上卡了",
@@ -6265,14 +6337,6 @@
       "onboard_time": 1753752204,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204909,
-      "num": 204909,
-      "word": "黄子韬公司成被执行人",
-      "onboard_time": 1754014341,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 204606,
@@ -6779,6 +6843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196151,
+      "num": 196151,
+      "word": "韩国coser到上海了",
+      "onboard_time": 1754016981,
+      "rank": 39,
+      "category": "电竞,动漫"
+    },
+    {
       "raw_hot": 196088,
       "num": 196088,
       "word": "樊振东乒超13连胜",
@@ -7115,6 +7187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191489,
+      "num": 184995,
+      "word": "庆祝解放军建军98周年",
+      "onboard_time": 1754019802,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 191478,
       "num": 191478,
       "word": "周冬雨晚宴内场状态",
@@ -7299,6 +7379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189309,
+      "num": 189309,
+      "word": "三人行什么时候抬",
+      "onboard_time": 1754021001,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189304,
       "num": 189304,
       "word": "樊振东德甲赛场见",
@@ -7481,6 +7569,14 @@
       "onboard_time": 1753975824,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186406,
+      "num": 186406,
+      "word": "十年前的EXO北京场好像上辈子",
+      "onboard_time": 1754020702,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 186346,
@@ -8035,6 +8131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178048,
+      "num": 178048,
+      "word": "美国将对加拿大关税上调至35%",
+      "onboard_time": 1754010081,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178035,
       "num": 225001,
       "word": "赵晴凡人修仙传状态",
@@ -8401,6 +8505,14 @@
       "onboard_time": 1753794324,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172226,
+      "num": 172226,
+      "word": "为什么耳朵这一圈总会有黄色分泌物",
+      "onboard_time": 1754018782,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 172048,
@@ -9011,6 +9123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164872,
+      "num": 164872,
+      "word": "灵笼",
+      "onboard_time": 1754020222,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 164830,
       "num": 164830,
       "word": "陈芋汐夺金后激动到落泪",
@@ -9113,14 +9233,6 @@
       "onboard_time": 1753572198,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164133,
-      "num": 164133,
-      "word": "美国将对加拿大关税上调至35%",
-      "onboard_time": 1754010081,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 163938,
@@ -9443,6 +9555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160315,
+      "num": 179009,
+      "word": "给谢霆锋一点猪屁股震撼",
+      "onboard_time": 1754020582,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160192,
       "num": 160192,
       "word": "周深这次轮到西安社死了",
@@ -9617,6 +9737,14 @@
       "onboard_time": 1753866382,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157834,
+      "num": 157834,
+      "word": "迪丽热巴抬手不是抱歉是你还得练",
+      "onboard_time": 1754019082,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 157818,
@@ -10153,6 +10281,14 @@
       "onboard_time": 1753854024,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151264,
+      "num": 151264,
+      "word": "秦彻冗长的一生",
+      "onboard_time": 1754021841,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 151150,
@@ -10761,6 +10897,14 @@
       "onboard_time": 1753782022,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145193,
+      "num": 145193,
+      "word": "回锅油 致癌",
+      "onboard_time": 1754021543,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144999,
@@ -11395,6 +11539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138823,
+      "num": 138823,
+      "word": "德国工业教育的绝望",
+      "onboard_time": 1754019742,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138779,
       "num": 425880,
       "word": "北京暂停有组织的户外体育活动",
@@ -11465,6 +11617,14 @@
       "onboard_time": 1753609763,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138133,
+      "num": 163247,
+      "word": "丁禹兮这下是真遇到对手了",
+      "onboard_time": 1754020402,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 138122,
@@ -11705,6 +11865,14 @@
       "onboard_time": 1753878143,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135555,
+      "num": 135555,
+      "word": "吃瓜 抗老",
+      "onboard_time": 1754021182,
+      "rank": 49,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 135498,
@@ -12755,14 +12923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127006,
-      "num": 127006,
-      "word": "韩国coser到上海了",
-      "onboard_time": 1754016981,
-      "rank": 39,
-      "category": "电竞,动漫"
-    },
-    {
       "raw_hot": 126977,
       "num": 126977,
       "word": "95后夫妻结婚6年存款100万",
@@ -13489,6 +13649,14 @@
       "onboard_time": 1753613902,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120475,
+      "num": 213491,
+      "word": "美情报机构频繁对我国防军工网络窃密",
+      "onboard_time": 1754019263,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120381,
@@ -14224,6 +14392,14 @@
       "word": "陆星材刀斩labubu",
       "onboard_time": 1753771103,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112515,
+      "num": 175004,
+      "word": "动起来的朱珠更是美我一大跳",
+      "onboard_time": 1754020102,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -15171,6 +15347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97195,
+      "num": 187550,
+      "word": "39岁男子发布涉释永信谣言被刑拘",
+      "onboard_time": 1754018901,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97038,
       "num": 97038,
       "word": "bin败如shadow",
@@ -15651,6 +15835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83745,
+      "num": 1088964,
+      "word": "锦绣山河有你心安",
+      "onboard_time": 1754020102,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 83326,
       "num": 83326,
       "word": "易烊千玺抢票",
@@ -15913,6 +16105,14 @@
       "onboard_time": 1754003539,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75408,
+      "num": 234063,
+      "word": "全新赫莲娜黑绷带50面霜",
+      "onboard_time": 1754018422,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 75384,
@@ -16243,6 +16443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66487,
+      "num": 230689,
+      "word": "一文梳理武汉大学图书馆事件",
+      "onboard_time": 1754020941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66376,
       "num": 131782,
       "word": "留几手评与葛夕感情如外卖",
@@ -16425,6 +16633,14 @@
       "onboard_time": 1753831159,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 60387,
+      "num": 165648,
+      "word": "27岁女子35楼坠落两次缓冲赢生机",
+      "onboard_time": 1754021662,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60346,
@@ -16697,6 +16913,14 @@
       "onboard_time": 1753636220,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54432,
+      "num": 165078,
+      "word": "电视上看着一般般真人巨帅",
+      "onboard_time": 1754021241,
+      "rank": 38,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 54235,
@@ -18171,6 +18395,9 @@
     },
     {
       "word": "#习近平签署通令给2个单位5名个人记功#"
+    },
+    {
+      "word": "#习近平在建军节到来之际致以节日祝贺#"
     }
   ]
 }

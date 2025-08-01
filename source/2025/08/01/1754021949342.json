@@ -1,0 +1,410 @@
+{
+  "runTime": 1754021949342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1431643,
+        "num": 1431643,
+        "word": "微信支付 遗失提醒",
+        "onboard_time": 1754010322,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1430745,
+        "num": 1430745,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83745,
+        "num": 1088964,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 883818,
+        "num": 883818,
+        "word": "张碧晨新加坡演唱会上座率",
+        "onboard_time": 1754011461,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 753017,
+        "num": 753017,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 666517,
+        "num": 666517,
+        "word": "被熟虾咬伤的概率不再是0",
+        "onboard_time": 1754018422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445713,
+        "num": 445713,
+        "word": "万妮达严浩翔冠军导师",
+        "onboard_time": 1754006721,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407968,
+        "num": 407968,
+        "word": "录取通知书 南极海水",
+        "onboard_time": 1754012063,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407916,
+        "num": 407916,
+        "word": "张馨予说热巴演得好",
+        "onboard_time": 1754018182,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406509,
+        "num": 406509,
+        "word": "关税",
+        "onboard_time": 1754013501,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 975092,
+        "num": 396390,
+        "word": "武大校长张平文回应学生性骚扰事件",
+        "onboard_time": 1754016262,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676867,
+        "num": 386631,
+        "word": "猫咪去世前一天用按钮和我告别",
+        "onboard_time": 1754015000,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350482,
+        "num": 350482,
+        "word": "杨幂裤脚",
+        "onboard_time": 1754013982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332045,
+        "num": 332045,
+        "word": "黄子韬公司成被执行人",
+        "onboard_time": 1754014341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329756,
+        "num": 329756,
+        "word": "印度40岁男子娶13岁新娘被捕",
+        "onboard_time": 1754013982,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271365,
+        "num": 271365,
+        "word": "王琳被批与儿子相处方式太窒息",
+        "onboard_time": 1754009903,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257412,
+        "num": 257412,
+        "word": "公司约定的不缴社保无效",
+        "onboard_time": 1754017521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238164,
+        "num": 238164,
+        "word": "木苏里开新文",
+        "onboard_time": 1754021241,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 75408,
+        "num": 234063,
+        "word": "全新赫莲娜黑绷带50面霜",
+        "onboard_time": 1754018422,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 66487,
+        "num": 230689,
+        "word": "一文梳理武汉大学图书馆事件",
+        "onboard_time": 1754020941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230034,
+        "num": 230034,
+        "word": "95后女飞行员徐枫灿回应质疑",
+        "onboard_time": 1754013322,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 216819,
+        "num": 216819,
+        "word": "鞠婧祎超话",
+        "onboard_time": 1754021903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214524,
+        "num": 214524,
+        "word": "杭州某办事单位电话被悬放",
+        "onboard_time": 1754018001,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120475,
+        "num": 213491,
+        "word": "美情报机构频繁对我国防军工网络窃密",
+        "onboard_time": 1754019263,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213180,
+        "num": 213180,
+        "word": "娜扎 我哪一次不好看",
+        "onboard_time": 1754021482,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206966,
+        "num": 206966,
+        "word": "泡水饮料 不能喝",
+        "onboard_time": 1754017221,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 196151,
+        "num": 196151,
+        "word": "韩国coser到上海了",
+        "onboard_time": 1754016981,
+        "rank": 26,
+        "category": "电竞,动漫"
+      },
+      {
+        "raw_hot": 189309,
+        "num": 189309,
+        "word": "三人行什么时候抬",
+        "onboard_time": 1754021001,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97195,
+        "num": 187550,
+        "word": "39岁男子发布涉释永信谣言被刑拘",
+        "onboard_time": 1754018901,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186406,
+        "num": 186406,
+        "word": "十年前的EXO北京场好像上辈子",
+        "onboard_time": 1754020702,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194775,
+        "num": 185588,
+        "word": "特朗普上调一连串关税",
+        "onboard_time": 1754016381,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191489,
+        "num": 184995,
+        "word": "庆祝解放军建军98周年",
+        "onboard_time": 1754019802,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 183554,
+        "num": 183554,
+        "word": "男子去世消失12年妻子出现要分钱",
+        "onboard_time": 1754009962,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160315,
+        "num": 179009,
+        "word": "给谢霆锋一点猪屁股震撼",
+        "onboard_time": 1754020582,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178048,
+        "num": 178048,
+        "word": "美国将对加拿大关税上调至35%",
+        "onboard_time": 1754010081,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112515,
+        "num": 175004,
+        "word": "动起来的朱珠更是美我一大跳",
+        "onboard_time": 1754020102,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172226,
+        "num": 172226,
+        "word": "为什么耳朵这一圈总会有黄色分泌物",
+        "onboard_time": 1754018782,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60387,
+        "num": 165648,
+        "word": "27岁女子35楼坠落两次缓冲赢生机",
+        "onboard_time": 1754021662,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54432,
+        "num": 165078,
+        "word": "电视上看着一般般真人巨帅",
+        "onboard_time": 1754021241,
+        "rank": 38,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 164872,
+        "num": 164872,
+        "word": "灵笼",
+        "onboard_time": 1754020222,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138133,
+        "num": 163247,
+        "word": "丁禹兮这下是真遇到对手了",
+        "onboard_time": 1754020402,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162974,
+        "num": 162974,
+        "word": "八一主题MV祖国不会忘记",
+        "onboard_time": 1754007861,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 161433,
+        "num": 161433,
+        "word": "少女时代完整体聚会",
+        "onboard_time": 1754013681,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157834,
+        "num": 157834,
+        "word": "迪丽热巴抬手不是抱歉是你还得练",
+        "onboard_time": 1754019082,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151264,
+        "num": 151264,
+        "word": "秦彻冗长的一生",
+        "onboard_time": 1754021841,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145193,
+        "num": 145193,
+        "word": "回锅油 致癌",
+        "onboard_time": 1754021543,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144244,
+        "num": 144244,
+        "word": "八一建军节",
+        "onboard_time": 1754010923,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139066,
+        "num": 139066,
+        "word": "SHarK总冠军",
+        "onboard_time": 1754009903,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138823,
+        "num": 138823,
+        "word": "德国工业教育的绝望",
+        "onboard_time": 1754019742,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135555,
+        "num": 135555,
+        "word": "吃瓜 抗老",
+        "onboard_time": 1754021182,
+        "rank": 49,
+        "category": "科学科普,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在建军节到来之际致以节日祝贺#"
+    }
+  }
+}
