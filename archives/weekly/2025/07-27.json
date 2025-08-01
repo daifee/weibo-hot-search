@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754062256842,
+  "endTime": 1754063154587,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -1427,6 +1427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 838632,
+      "num": 838632,
+      "word": "男孩错付车费轻生事件司机发声",
+      "onboard_time": 1754061083,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 826144,
       "num": 826144,
       "word": "日本遭殴打中国人称不认识袭击者",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1753756162,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818441,
+      "num": 818441,
+      "word": "张雅钦鹿晗演唱会应援妆",
+      "onboard_time": 1754059222,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 817579,
@@ -1497,14 +1513,6 @@
       "onboard_time": 1753713386,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 798956,
-      "num": 486167,
-      "word": "张雅钦鹿晗演唱会应援妆",
-      "onboard_time": 1754059222,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 797616,
@@ -2963,6 +2971,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 489691,
+      "num": 489691,
+      "word": "尼斯湖水怪再次被拍到",
+      "onboard_time": 1754062284,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 486009,
       "num": 345469,
       "word": "傅首尔瘦了",
@@ -4379,14 +4395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333708,
-      "num": 333708,
-      "word": "男孩错付车费轻生事件司机发声",
-      "onboard_time": 1754061083,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333540,
       "num": 333540,
       "word": "中国队男子200米自由泳接力银牌",
@@ -5273,6 +5281,14 @@
       "onboard_time": 1754041643,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274169,
+      "num": 274169,
+      "word": "王一珩 今天你要嫁给我",
+      "onboard_time": 1754059824,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 273853,
@@ -6235,14 +6251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 230251,
-      "num": 230251,
-      "word": "王一珩 今天你要嫁给我",
-      "onboard_time": 1754059824,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 229487,
       "num": 229487,
       "word": "日本多地发布海啸预警",
@@ -6883,6 +6891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213312,
+      "num": 156175,
+      "word": "鹿晗跳了星奇摇",
+      "onboard_time": 1754062161,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213248,
       "num": 213248,
       "word": "尖叫瓶盖 不密封",
@@ -7153,6 +7169,14 @@
       "onboard_time": 1753754243,
       "rank": 24,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 208733,
+      "num": 208733,
+      "word": "汪顺时隔八年再夺世锦赛奖牌",
+      "onboard_time": 1754059883,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 208512,
@@ -8153,6 +8177,14 @@
       "onboard_time": 1754031681,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193214,
+      "num": 155758,
+      "word": "今天星期五",
+      "onboard_time": 1754062702,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 193158,
@@ -9611,14 +9643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175555,
-      "num": 175555,
-      "word": "汪顺时隔八年再夺世锦赛奖牌",
-      "onboard_time": 1754059883,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175535,
       "num": 175535,
       "word": "多家企业捐赠驰援北京",
@@ -11033,6 +11057,14 @@
       "onboard_time": 1753865303,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160795,
+      "num": 154853,
+      "word": "Beni档期没白空",
+      "onboard_time": 1754060363,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160691,
@@ -14011,14 +14043,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 133696,
-      "num": 133696,
-      "word": "鹿晗跳了星奇摇",
-      "onboard_time": 1754062161,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 133639,
       "num": 133639,
       "word": "给2个单位5名个人记功",
@@ -14683,14 +14707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128943,
-      "num": 128943,
-      "word": "Beni档期没白空",
-      "onboard_time": 1754060363,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128909,
       "num": 128909,
       "word": "赵心童上海大师赛晋级四强",
@@ -15025,6 +15041,14 @@
       "onboard_time": 1753777701,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125953,
+      "num": 125953,
+      "word": "折月亮",
+      "onboard_time": 1754062702,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 125933,
@@ -20200,6 +20224,14 @@
       "word": "密云大哥爬房顶敲窗户喊醒邻居逃生",
       "onboard_time": 1753763485,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30925,
+      "num": 152952,
+      "word": "甘肃规定人流集中场所男女厕位1比2",
+      "onboard_time": 1754062342,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

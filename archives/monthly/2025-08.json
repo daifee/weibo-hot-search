@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754062256842,
+  "endTime": 1754063154587,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -267,20 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 838632,
+      "num": 838632,
+      "word": "男孩错付车费轻生事件司机发声",
+      "onboard_time": 1754061083,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818441,
+      "num": 818441,
+      "word": "张雅钦鹿晗演唱会应援妆",
+      "onboard_time": 1754059222,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 806295,
       "num": 627390,
       "word": "爱豆是怎么忍住不恋爱的",
       "onboard_time": 1754034743,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 798956,
-      "num": 486167,
-      "word": "张雅钦鹿晗演唱会应援妆",
-      "onboard_time": 1754059222,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 796829,
@@ -537,6 +545,14 @@
       "onboard_time": 1754013322,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 489691,
+      "num": 489691,
+      "word": "尼斯湖水怪再次被拍到",
+      "onboard_time": 1754062284,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 486009,
@@ -827,14 +843,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 333708,
-      "num": 333708,
-      "word": "男孩错付车费轻生事件司机发声",
-      "onboard_time": 1754061083,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333540,
       "num": 333540,
       "word": "中国队男子200米自由泳接力银牌",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1754041643,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274169,
+      "num": 274169,
+      "word": "王一珩 今天你要嫁给我",
+      "onboard_time": 1754059824,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 273136,
@@ -1203,14 +1219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 230251,
-      "num": 230251,
-      "word": "王一珩 今天你要嫁给我",
-      "onboard_time": 1754059824,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228995,
       "num": 228995,
       "word": "外嫁女户籍仍在本村拆迁补偿却没份",
@@ -1379,6 +1387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213312,
+      "num": 156175,
+      "word": "鹿晗跳了星奇摇",
+      "onboard_time": 1754062161,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212832,
       "num": 212832,
       "word": "男子4X200自接中国队创造亚洲纪录",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1754031740,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208733,
+      "num": 208733,
+      "word": "汪顺时隔八年再夺世锦赛奖牌",
+      "onboard_time": 1754059883,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 207857,
@@ -1609,6 +1633,14 @@
       "onboard_time": 1754031681,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193214,
+      "num": 155758,
+      "word": "今天星期五",
+      "onboard_time": 1754062702,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 192415,
@@ -1849,14 +1881,6 @@
       "onboard_time": 1754056284,
       "rank": 36,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 175555,
-      "num": 175555,
-      "word": "汪顺时隔八年再夺世锦赛奖牌",
-      "onboard_time": 1754059883,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 175415,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1753972584,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160795,
+      "num": 154853,
+      "word": "Beni档期没白空",
+      "onboard_time": 1754060363,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160315,
@@ -2619,14 +2651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133696,
-      "num": 133696,
-      "word": "鹿晗跳了星奇摇",
-      "onboard_time": 1754062161,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 133635,
       "num": 133635,
       "word": "不要对孩子做不符合社交规则的动作",
@@ -2747,14 +2771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128943,
-      "num": 128943,
-      "word": "Beni档期没白空",
-      "onboard_time": 1754060363,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128050,
       "num": 128050,
       "word": "你是真的",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1754049562,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125953,
+      "num": 125953,
+      "word": "折月亮",
+      "onboard_time": 1754062702,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 125933,
@@ -3752,6 +3776,14 @@
       "word": "男子健身房充87万用到300年后",
       "onboard_time": 1754059403,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30925,
+      "num": 152952,
+      "word": "甘肃规定人流集中场所男女厕位1比2",
+      "onboard_time": 1754062342,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

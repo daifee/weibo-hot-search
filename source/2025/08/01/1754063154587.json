@@ -1,0 +1,410 @@
+{
+  "runTime": 1754063154587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1312981,
+        "num": 1312981,
+        "word": "歌手晋级",
+        "onboard_time": 1754057303,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 838632,
+        "num": 838632,
+        "word": "男孩错付车费轻生事件司机发声",
+        "onboard_time": 1754061083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8250,
+        "num": 821282,
+        "word": "第四批690亿元国补10月下达",
+        "onboard_time": 1754018842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818441,
+        "num": 818441,
+        "word": "张雅钦鹿晗演唱会应援妆",
+        "onboard_time": 1754059222,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 679724,
+        "num": 679724,
+        "word": "删了的QQ空间说说复活了",
+        "onboard_time": 1754048062,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5265486,
+        "num": 609544,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751188,
+        "num": 565111,
+        "word": "张予曦 卢昱晓对不起",
+        "onboard_time": 1754053044,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 506352,
+        "num": 506352,
+        "word": "酱子贝 融梗",
+        "onboard_time": 1754051482,
+        "rank": 7,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 489691,
+        "num": 489691,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 425143,
+        "num": 425143,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389062,
+        "num": 389062,
+        "word": "官方通报奔驰司机亮证逼迫让路事件",
+        "onboard_time": 1754056883,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 307169,
+        "num": 307169,
+        "word": "奔驰亮证姐真实身份不能视情况公布",
+        "onboard_time": 1754056403,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293231,
+        "num": 293231,
+        "word": "杨紫朱亚文 玉兰花开君再来",
+        "onboard_time": 1754058263,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288709,
+        "num": 288709,
+        "word": "白举纲早这么唱不就不淘汰了",
+        "onboard_time": 1754056583,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274169,
+        "num": 274169,
+        "word": "王一珩 今天你要嫁给我",
+        "onboard_time": 1754059824,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243729,
+        "num": 243729,
+        "word": "日本压抑感",
+        "onboard_time": 1754047343,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221516,
+        "num": 221516,
+        "word": "歌手总决赛名单",
+        "onboard_time": 1754059584,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215897,
+        "num": 215897,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208733,
+        "num": 208733,
+        "word": "汪顺时隔八年再夺世锦赛奖牌",
+        "onboard_time": 1754059883,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156765,
+        "num": 156765,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214955,
+        "num": 156646,
+        "word": "沈梦辰怎么美成这样",
+        "onboard_time": 1754060423,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213312,
+        "num": 156175,
+        "word": "鹿晗跳了星奇摇",
+        "onboard_time": 1754062161,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193933,
+        "num": 156022,
+        "word": "住酒店闻到异味竟是一条恶臭内裤",
+        "onboard_time": 1754058203,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193214,
+        "num": 155758,
+        "word": "今天星期五",
+        "onboard_time": 1754062702,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172567,
+        "num": 155533,
+        "word": "皇后杀了皇后 杨阳嬷了杨洋",
+        "onboard_time": 1754043383,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169271,
+        "num": 154996,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1754061804,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160795,
+        "num": 154853,
+        "word": "Beni档期没白空",
+        "onboard_time": 1754060363,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151457,
+        "num": 154371,
+        "word": "中国游客在大阪遇袭",
+        "onboard_time": 1754056164,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154323,
+        "num": 154323,
+        "word": "傅首尔瘦了",
+        "onboard_time": 1754053284,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30925,
+        "num": 152952,
+        "word": "甘肃规定人流集中场所男女厕位1比2",
+        "onboard_time": 1754062342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152454,
+        "num": 152454,
+        "word": "单依纯最后悔的决定",
+        "onboard_time": 1754060062,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146303,
+        "num": 146303,
+        "word": "者来女开口雷蒂娅",
+        "onboard_time": 1754055683,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143420,
+        "num": 143420,
+        "word": "Beni晋级",
+        "onboard_time": 1754057303,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139621,
+        "num": 139621,
+        "word": "美股",
+        "onboard_time": 1754059342,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134888,
+        "num": 134888,
+        "word": "每人微信账户有1000元免费提现额度",
+        "onboard_time": 1754051123,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134452,
+        "num": 134452,
+        "word": "林志炫淘汰",
+        "onboard_time": 1754058625,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128844,
+        "num": 128844,
+        "word": "歌手不标原唱",
+        "onboard_time": 1754051003,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112904,
+        "num": 127519,
+        "word": "上汽奥迪A5L上市正式售价25.59万",
+        "onboard_time": 1754057604,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127380,
+        "num": 127380,
+        "word": "歌手直播",
+        "onboard_time": 1754047223,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126952,
+        "num": 126952,
+        "word": "丁克老太养老院被欺负找肌肉男出头",
+        "onboard_time": 1754057844,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125953,
+        "num": 125953,
+        "word": "折月亮",
+        "onboard_time": 1754062702,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122193,
+        "num": 122193,
+        "word": "定风波热度",
+        "onboard_time": 1754058203,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120364,
+        "num": 120364,
+        "word": "武大将调查复核肖某某纪律处分",
+        "onboard_time": 1754040503,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115838,
+        "num": 115838,
+        "word": "李佳薇就该唱高音",
+        "onboard_time": 1754053463,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115566,
+        "num": 115566,
+        "word": "福州 佛山返回人员14天健康监测",
+        "onboard_time": 1754057724,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111703,
+        "num": 111703,
+        "word": "令人心动的offer",
+        "onboard_time": 1754055024,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110864,
+        "num": 110864,
+        "word": "尹锡悦只穿内衣躺牢房地板上拒捕",
+        "onboard_time": 1754047523,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110152,
+        "num": 110152,
+        "word": "从152斤瘦到126斤的真实感受",
+        "onboard_time": 1754059764,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109505,
+        "num": 109505,
+        "word": "深情眼大结局",
+        "onboard_time": 1754051542,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105963,
+        "num": 105963,
+        "word": "lemon 复仇味",
+        "onboard_time": 1754056164,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}
