@@ -1,0 +1,410 @@
+{
+  "runTime": 1754067199652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2300994,
+        "num": 2300994,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 913905,
+        "num": 913905,
+        "word": "男孩错付车费轻生事件司机发声",
+        "onboard_time": 1754061083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4707,
+        "num": 627442,
+        "word": "第四批690亿元国补10月下达",
+        "onboard_time": 1754018842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618435,
+        "num": 618435,
+        "word": "歌手晋级",
+        "onboard_time": 1754057303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535420,
+        "num": 535420,
+        "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
+        "onboard_time": 1754063903,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 944300,
+        "num": 513300,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393616,
+        "num": 393616,
+        "word": "张予曦 卢昱晓对不起",
+        "onboard_time": 1754053044,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374791,
+        "num": 374791,
+        "word": "删了的QQ空间说说复活了",
+        "onboard_time": 1754048062,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291519,
+        "num": 291519,
+        "word": "酱子贝 融梗",
+        "onboard_time": 1754051482,
+        "rank": 8,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 268931,
+        "num": 268931,
+        "word": "张雅钦鹿晗演唱会应援妆",
+        "onboard_time": 1754059222,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261774,
+        "num": 261774,
+        "word": "官方通报奔驰司机亮证逼迫让路事件",
+        "onboard_time": 1754056883,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 233074,
+        "num": 233074,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218149,
+        "num": 218149,
+        "word": "奔驰亮证姐真实身份不能视情况公布",
+        "onboard_time": 1754056403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191736,
+        "num": 191736,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156082,
+        "num": 156082,
+        "word": "鹿晗跳了星奇摇",
+        "onboard_time": 1754062161,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147660,
+        "num": 147660,
+        "word": "者来女 玩得起",
+        "onboard_time": 1754065341,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143465,
+        "num": 143465,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141126,
+        "num": 141126,
+        "word": "杨紫朱亚文 玉兰花开君再来",
+        "onboard_time": 1754058263,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139661,
+        "num": 139661,
+        "word": "王一珩 今天你要嫁给我",
+        "onboard_time": 1754059824,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131459,
+        "num": 131459,
+        "word": "汪顺时隔八年再夺世锦赛奖牌",
+        "onboard_time": 1754059883,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127970,
+        "num": 127970,
+        "word": "武大已组建工作专班",
+        "onboard_time": 1754043866,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111367,
+        "num": 111367,
+        "word": "每人微信账户有1000元免费提现额度",
+        "onboard_time": 1754051123,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101420,
+        "num": 101420,
+        "word": "白举纲早这么唱不就不淘汰了",
+        "onboard_time": 1754056583,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98207,
+        "num": 98207,
+        "word": "女子假装病死分饰7角诈骗再婚丈夫",
+        "onboard_time": 1754065522,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97637,
+        "num": 97637,
+        "word": "住酒店闻到异味竟是一条恶臭内裤",
+        "onboard_time": 1754058203,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94760,
+        "num": 94760,
+        "word": "折月亮",
+        "onboard_time": 1754062702,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93102,
+        "num": 93102,
+        "word": "深情眼大结局",
+        "onboard_time": 1754051542,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88796,
+        "num": 88796,
+        "word": "令人心动的offer",
+        "onboard_time": 1754055024,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83093,
+        "num": 83093,
+        "word": "歌手总决赛名单",
+        "onboard_time": 1754059584,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81987,
+        "num": 81987,
+        "word": "王者荣耀 白泽",
+        "onboard_time": 1754062462,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77875,
+        "num": 77875,
+        "word": "第一次见这么糊弄观众的综艺",
+        "onboard_time": 1754066240,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76230,
+        "num": 76230,
+        "word": "皇后杀了皇后 杨阳嬷了杨洋",
+        "onboard_time": 1754043383,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75485,
+        "num": 75485,
+        "word": "井川里予电竞文女主有脸了",
+        "onboard_time": 1754052382,
+        "rank": 32,
+        "category": "网红,电竞"
+      },
+      {
+        "raw_hot": 75275,
+        "num": 75275,
+        "word": "白桦树汁凭啥身价暴涨",
+        "onboard_time": 1754066659,
+        "rank": 33,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 74398,
+        "num": 74398,
+        "word": "沈梦辰怎么美成这样",
+        "onboard_time": 1754060423,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70149,
+        "num": 70149,
+        "word": "战至巅峰",
+        "onboard_time": 1754056284,
+        "rank": 35,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 68880,
+        "num": 68880,
+        "word": "歌手直播",
+        "onboard_time": 1754047223,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65151,
+        "num": 65151,
+        "word": "日本压抑感",
+        "onboard_time": 1754047343,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64431,
+        "num": 64431,
+        "word": "单依纯最后悔的决定",
+        "onboard_time": 1754060062,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63703,
+        "num": 63703,
+        "word": "百草枯涨价",
+        "onboard_time": 1754066659,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62484,
+        "num": 62484,
+        "word": "Beni档期没白空",
+        "onboard_time": 1754060363,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62025,
+        "num": 62025,
+        "word": "周也李冰冰一个比一个飒",
+        "onboard_time": 1754067080,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61940,
+        "num": 61940,
+        "word": "李佳薇就该唱高音",
+        "onboard_time": 1754053463,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61852,
+        "num": 61852,
+        "word": "福州 佛山返回人员14天健康监测",
+        "onboard_time": 1754057724,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61691,
+        "num": 61691,
+        "word": "男子与军人配偶同居致其怀孕",
+        "onboard_time": 1754067140,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61497,
+        "num": 61497,
+        "word": "覃海洋用金牌向最可爱的人致敬",
+        "onboard_time": 1754064084,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60851,
+        "num": 60851,
+        "word": "山河无恙因有寸土不让",
+        "onboard_time": 1754046743,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 60832,
+        "num": 60832,
+        "word": "白鹿首张实体专辑销售额破千万",
+        "onboard_time": 1754066600,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60237,
+        "num": 60237,
+        "word": "者来女开口雷蒂娅",
+        "onboard_time": 1754055683,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60228,
+        "num": 60228,
+        "word": "从152斤瘦到126斤的真实感受",
+        "onboard_time": 1754059764,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}

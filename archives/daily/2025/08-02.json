@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754066186106,
+  "endTime": 1754067199652,
   "band_list": [
     {
       "raw_hot": 2714670,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1205895,
-      "num": 505478,
+      "num": 513300,
       "word": "武大回应图书馆事件",
       "onboard_time": 1754040444,
       "rank": 5,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 507141,
-      "num": 507141,
+      "raw_hot": 535420,
+      "num": 535420,
       "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
       "onboard_time": 1754063903,
       "rank": 4,
@@ -139,12 +139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155219,
-      "num": 155219,
+      "raw_hot": 156082,
+      "num": 156082,
       "word": "鹿晗跳了星奇摇",
       "onboard_time": 1754062161,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147660,
+      "num": 147660,
+      "word": "者来女 玩得起",
+      "onboard_time": 1754065341,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 136179,
@@ -187,6 +195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98207,
+      "num": 98207,
+      "word": "女子假装病死分饰7角诈骗再婚丈夫",
+      "onboard_time": 1754065522,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97682,
       "num": 97682,
       "word": "令人心动的offer",
@@ -211,12 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95120,
-      "num": 95120,
-      "word": "者来女 玩得起",
-      "onboard_time": 1754065341,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 94760,
+      "num": 94760,
+      "word": "折月亮",
+      "onboard_time": 1754062702,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 92869,
@@ -251,20 +267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87376,
-      "num": 87376,
-      "word": "折月亮",
-      "onboard_time": 1754062702,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83260,
       "num": 83260,
       "word": "Beni档期没白空",
       "onboard_time": 1754060363,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81987,
+      "num": 81987,
+      "word": "王者荣耀 白泽",
+      "onboard_time": 1754062462,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 81796,
@@ -291,12 +307,28 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 75958,
-      "num": 75958,
-      "word": "王者荣耀 白泽",
-      "onboard_time": 1754062462,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 77875,
+      "num": 77875,
+      "word": "第一次见这么糊弄观众的综艺",
+      "onboard_time": 1754066240,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75485,
+      "num": 75485,
+      "word": "井川里予电竞文女主有脸了",
+      "onboard_time": 1754052382,
+      "rank": 41,
+      "category": "网红,电竞"
+    },
+    {
+      "raw_hot": 75275,
+      "num": 75275,
+      "word": "白桦树汁凭啥身价暴涨",
+      "onboard_time": 1754066659,
+      "rank": 33,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 75070,
@@ -305,14 +337,6 @@
       "onboard_time": 1754053284,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74299,
-      "num": 74299,
-      "word": "井川里予电竞文女主有脸了",
-      "onboard_time": 1754052382,
-      "rank": 41,
-      "category": "网红,电竞"
     },
     {
       "raw_hot": 73837,
@@ -355,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69384,
-      "num": 69384,
-      "word": "女子假装病死分饰7角诈骗再婚丈夫",
-      "onboard_time": 1754065522,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68736,
       "num": 68736,
       "word": "武大将调查复核肖某某纪律处分",
@@ -393,6 +409,46 @@
       "onboard_time": 1754056164,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63703,
+      "num": 63703,
+      "word": "百草枯涨价",
+      "onboard_time": 1754066659,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 62025,
+      "num": 62025,
+      "word": "周也李冰冰一个比一个飒",
+      "onboard_time": 1754067080,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61691,
+      "num": 61691,
+      "word": "男子与军人配偶同居致其怀孕",
+      "onboard_time": 1754067140,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60851,
+      "num": 60851,
+      "word": "山河无恙因有寸土不让",
+      "onboard_time": 1754046743,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 60832,
+      "num": 60832,
+      "word": "白鹿首张实体专辑销售额破千万",
+      "onboard_time": 1754066600,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 5365,
