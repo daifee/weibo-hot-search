@@ -1,0 +1,410 @@
+{
+  "runTime": 1754090872846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231612,
+        "num": 1231612,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 898877,
+        "num": 898877,
+        "word": "民警上门要求删视频的监控曝光",
+        "onboard_time": 1754090058,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3376,
+        "num": 670354,
+        "word": "第四批690亿元国补10月下达",
+        "onboard_time": 1754018842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485378,
+        "num": 485378,
+        "word": "男孩错付车费轻生事件司机发声",
+        "onboard_time": 1754061083,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335947,
+        "num": 335947,
+        "word": "奔驰亮证姐真实身份不能视情况公布",
+        "onboard_time": 1754056403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441494,
+        "num": 303247,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245689,
+        "num": 245689,
+        "word": "每人微信账户有1000元免费提现额度",
+        "onboard_time": 1754051123,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206888,
+        "num": 206888,
+        "word": "官方通报奔驰司机亮证逼迫让路事件",
+        "onboard_time": 1754056883,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 200399,
+        "num": 200399,
+        "word": "终于有人吐槽鸡兔同笼这个问题了",
+        "onboard_time": 1754079674,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139267,
+        "num": 149599,
+        "word": "歌手晋级",
+        "onboard_time": 1754057303,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502376,
+        "num": 148474,
+        "word": "伊能静说秦昊很少回家",
+        "onboard_time": 1754089757,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251992,
+        "num": 146891,
+        "word": "青岛姑娘买下日本70万平方小岛",
+        "onboard_time": 1754083094,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142752,
+        "num": 142752,
+        "word": "女子假装病死分饰7角诈骗再婚丈夫",
+        "onboard_time": 1754065522,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138223,
+        "num": 138223,
+        "word": "第一次见这么糊弄观众的综艺",
+        "onboard_time": 1754066240,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116791,
+        "num": 116791,
+        "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
+        "onboard_time": 1754063903,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96996,
+        "num": 96996,
+        "word": "杨紫朱亚文 玉兰花开君再来",
+        "onboard_time": 1754058263,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90585,
+        "num": 90585,
+        "word": "酱子贝 融梗",
+        "onboard_time": 1754051482,
+        "rank": 16,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 85413,
+        "num": 85413,
+        "word": "删了的QQ空间说说复活了",
+        "onboard_time": 1754048062,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83381,
+        "num": 83381,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83025,
+        "num": 83364,
+        "word": "王源送了易烊千玺演唱会花篮",
+        "onboard_time": 1754090419,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198430,
+        "num": 83364,
+        "word": "男子与军人配偶同居致其怀孕",
+        "onboard_time": 1754067140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83356,
+        "num": 83356,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83028,
+        "num": 83028,
+        "word": "武大已组建工作专班",
+        "onboard_time": 1754043866,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73240,
+        "num": 73240,
+        "word": "鼠标女儿都看上家有儿女了",
+        "onboard_time": 1754047523,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72536,
+        "num": 72536,
+        "word": "易烊千玺工作室回应让粉丝带土",
+        "onboard_time": 1754090419,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65564,
+        "num": 65564,
+        "word": "住酒店闻到异味竟是一条恶臭内裤",
+        "onboard_time": 1754058203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64849,
+        "num": 64849,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60193,
+        "num": 60193,
+        "word": "真的有人会为了三块钱站一下午",
+        "onboard_time": 1754067439,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 55252,
+        "num": 55252,
+        "word": "花1.6万穷游了三个国家16个地方",
+        "onboard_time": 1754087419,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54938,
+        "num": 54938,
+        "word": "不宁腿综合征",
+        "onboard_time": 1754089157,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87083,
+        "num": 54924,
+        "word": "单依纯说何老师你摸我脚",
+        "onboard_time": 1754089757,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 50792,
+        "num": 50792,
+        "word": "歼20与歼35A双雄并立惊艳世界",
+        "onboard_time": 1754090778,
+        "rank": 31,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 50212,
+        "num": 50212,
+        "word": "张予曦 卢昱晓对不起",
+        "onboard_time": 1754053044,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46869,
+        "num": 46869,
+        "word": "沈梦辰怎么美成这样",
+        "onboard_time": 1754060423,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43165,
+        "num": 43165,
+        "word": "新版医务人员职业道德准则",
+        "onboard_time": 1754077514,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 40781,
+        "num": 40781,
+        "word": "西瓜是天然白虎汤",
+        "onboard_time": 1754090837,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 40658,
+        "num": 40658,
+        "word": "从152斤瘦到126斤的真实感受",
+        "onboard_time": 1754059764,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39495,
+        "num": 39495,
+        "word": "上汽奥迪A5L上市正式售价25.59万",
+        "onboard_time": 1754057604,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38483,
+        "num": 38483,
+        "word": "令人心动的offer",
+        "onboard_time": 1754055024,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37655,
+        "num": 37655,
+        "word": "等比例长大的花花",
+        "onboard_time": 1754072115,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 36809,
+        "num": 36809,
+        "word": "当我放弃微信聊天记录",
+        "onboard_time": 1754068938,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36409,
+        "num": 36409,
+        "word": "鹿晗牵完阿猛牵阿猛女舞伴",
+        "onboard_time": 1754090719,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35750,
+        "num": 35750,
+        "word": "汪顺时隔八年再夺世锦赛奖牌",
+        "onboard_time": 1754059883,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35668,
+        "num": 35668,
+        "word": "30余网红受邀参加活动遇山洪",
+        "onboard_time": 1754074756,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35024,
+        "num": 35024,
+        "word": "王伟忠谈小S复工",
+        "onboard_time": 1754088076,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35303,
+        "num": 34771,
+        "word": "白桦树汁凭啥身价暴涨",
+        "onboard_time": 1754066659,
+        "rank": 45,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 34448,
+        "num": 34448,
+        "word": "战至巅峰",
+        "onboard_time": 1754056284,
+        "rank": 46,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 32271,
+        "num": 34446,
+        "word": "百草枯涨价",
+        "onboard_time": 1754066659,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32011,
+        "num": 34440,
+        "word": "井川里予电竞文女主有脸了",
+        "onboard_time": 1754052382,
+        "rank": 48,
+        "category": "网红,电竞"
+      },
+      {
+        "raw_hot": 32000,
+        "num": 34436,
+        "word": "日本压抑感",
+        "onboard_time": 1754047343,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}

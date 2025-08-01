@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754088397913,
+  "endTime": 1754090872846,
   "band_list": [
     {
       "raw_hot": 2714670,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 898877,
+      "num": 898877,
+      "word": "民警上门要求删视频的监控曝光",
+      "onboard_time": 1754090058,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 728781,
       "num": 728781,
       "word": "歌手晋级",
@@ -41,6 +49,14 @@
       "onboard_time": 1754063903,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502376,
+      "num": 148474,
+      "word": "伊能静说秦昊很少回家",
+      "onboard_time": 1754089757,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 498636,
@@ -65,6 +81,14 @@
       "onboard_time": 1754059222,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 335947,
+      "num": 335947,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319785,
@@ -99,20 +123,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 247917,
-      "num": 247917,
-      "word": "奔驰亮证姐真实身份不能视情况公布",
-      "onboard_time": 1754056403,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209161,
-      "num": 42459,
+      "raw_hot": 251992,
+      "num": 146891,
       "word": "青岛姑娘买下日本70万平方小岛",
       "onboard_time": 1754083094,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245689,
+      "num": 245689,
+      "word": "每人微信账户有1000元免费提现额度",
+      "onboard_time": 1754051123,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 204513,
@@ -123,11 +147,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200399,
+      "num": 200399,
+      "word": "终于有人吐槽鸡兔同笼这个问题了",
+      "onboard_time": 1754079674,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200128,
       "num": 200128,
       "word": "武汉大学",
       "onboard_time": 1754040982,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198430,
+      "num": 83364,
+      "word": "男子与军人配偶同居致其怀孕",
+      "onboard_time": 1754067140,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -163,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160975,
-      "num": 160975,
-      "word": "终于有人吐槽鸡兔同笼这个问题了",
-      "onboard_time": 1754079674,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156082,
       "num": 156082,
       "word": "鹿晗跳了星奇摇",
@@ -179,20 +211,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155187,
-      "num": 80666,
-      "word": "男子与军人配偶同居致其怀孕",
-      "onboard_time": 1754067140,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137683,
-      "num": 137683,
-      "word": "每人微信账户有1000元免费提现额度",
-      "onboard_time": 1754051123,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 138223,
+      "num": 138223,
+      "word": "第一次见这么糊弄观众的综艺",
+      "onboard_time": 1754066240,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 136179,
@@ -233,14 +257,6 @@
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 109638,
-      "num": 109638,
-      "word": "第一次见这么糊弄观众的综艺",
-      "onboard_time": 1754066240,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 97682,
@@ -307,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87083,
+      "num": 54924,
+      "word": "单依纯说何老师你摸我脚",
+      "onboard_time": 1754089757,
+      "rank": 30,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 83260,
       "num": 83260,
       "word": "Beni档期没白空",
       "onboard_time": 1754060363,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83025,
+      "num": 83364,
+      "word": "王源送了易烊千玺演唱会花篮",
+      "onboard_time": 1754090419,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 81987,
@@ -393,6 +425,22 @@
       "onboard_time": 1754057844,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73240,
+      "num": 73240,
+      "word": "鼠标女儿都看上家有儿女了",
+      "onboard_time": 1754047523,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72536,
+      "num": 72536,
+      "word": "易烊千玺工作室回应让粉丝带土",
+      "onboard_time": 1754090419,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 70544,
@@ -491,6 +539,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55252,
+      "num": 55252,
+      "word": "花1.6万穷游了三个国家16个地方",
+      "onboard_time": 1754087419,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 54938,
+      "num": 54938,
+      "word": "不宁腿综合征",
+      "onboard_time": 1754089157,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 50792,
+      "num": 50792,
+      "word": "歼20与歼35A双雄并立惊艳世界",
+      "onboard_time": 1754090778,
+      "rank": 31,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 45423,
       "num": 45423,
       "word": "Beni晋级",
@@ -507,12 +579,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43165,
+      "num": 43165,
+      "word": "新版医务人员职业道德准则",
+      "onboard_time": 1754077514,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 41718,
       "num": 41718,
       "word": "用牛皮雕刻了800个人的肚脐眼儿",
       "onboard_time": 1754070197,
       "rank": 41,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 40781,
+      "num": 40781,
+      "word": "西瓜是天然白虎汤",
+      "onboard_time": 1754090837,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 39495,
+      "num": 39495,
+      "word": "上汽奥迪A5L上市正式售价25.59万",
+      "onboard_time": 1754057604,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 37655,
+      "num": 37655,
+      "word": "等比例长大的花花",
+      "onboard_time": 1754072115,
+      "rank": 48,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 36409,
+      "num": 36409,
+      "word": "鹿晗牵完阿猛牵阿猛女舞伴",
+      "onboard_time": 1754090719,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 35668,
+      "num": 35668,
+      "word": "30余网红受邀参加活动遇山洪",
+      "onboard_time": 1754074756,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35377,
@@ -523,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35024,
+      "num": 35024,
+      "word": "王伟忠谈小S复工",
+      "onboard_time": 1754088076,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30103,
       "num": 30103,
       "word": "2025新加坡世界泳联世锦赛",
@@ -531,52 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28025,
-      "num": 28025,
-      "word": "花1.6万穷游了三个国家16个地方",
-      "onboard_time": 1754087419,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 27785,
       "num": 27785,
       "word": "刘宇当上假发模特了",
       "onboard_time": 1754073017,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27101,
-      "num": 27101,
-      "word": "30余网红受邀参加活动遇山洪",
-      "onboard_time": 1754074756,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26388,
-      "num": 26388,
-      "word": "等比例长大的花花",
-      "onboard_time": 1754072115,
-      "rank": 48,
-      "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 24151,
-      "num": 24151,
-      "word": "新版医务人员职业道德准则",
-      "onboard_time": 1754077514,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 22823,
-      "num": 23556,
-      "word": "上汽奥迪A5L上市正式售价25.59万",
-      "onboard_time": 1754057604,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 20930,
@@ -609,14 +697,6 @@
       "onboard_time": 1754076375,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17090,
-      "num": 22816,
-      "word": "王伟忠谈小S复工",
-      "onboard_time": 1754088076,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 5365,
