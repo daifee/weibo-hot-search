@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754047515953,
+  "endTime": 1754048477109,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684158,
+      "num": 684158,
+      "word": "宗庆后曾委托宗馥莉为三兄妹设信托",
+      "onboard_time": 1754045845,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 676867,
       "num": 386631,
       "word": "猫咪去世前一天用按钮和我告别",
@@ -328,14 +336,6 @@
       "word": "佛山突发公共卫生事件三级响应启动",
       "onboard_time": 1753973184,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 613546,
-      "num": 613546,
-      "word": "宗庆后曾委托宗馥莉为三兄妹设信托",
-      "onboard_time": 1754045845,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -457,6 +457,14 @@
       "onboard_time": 1754031501,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 457073,
+      "num": 457073,
+      "word": "歌手直播",
+      "onboard_time": 1754047223,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 455990,
@@ -587,6 +595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 346959,
+      "num": 346959,
+      "word": "尹锡悦只穿内衣躺牢房地板上拒捕",
+      "onboard_time": 1754047523,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 345494,
       "num": 345494,
       "word": "昆明将严肃处理涉事旅行社",
@@ -649,6 +665,14 @@
       "onboard_time": 1754010923,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 323327,
+      "num": 323327,
+      "word": "我行让我上",
+      "onboard_time": 1754043866,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 321387,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 274297,
-      "num": 274297,
+      "num": 288529,
       "word": "蒋欣吃饭 给猫倒了两粒猫粮",
       "onboard_time": 1754041643,
       "rank": 35,
@@ -751,6 +775,14 @@
       "num": 461640,
       "word": "谁懂这滴南极海水的浪漫",
       "onboard_time": 1754031564,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267414,
+      "num": 384274,
+      "word": "武汉大学图书馆事件多方皆输",
+      "onboard_time": 1754046984,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -843,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 240276,
+      "num": 301181,
+      "word": "张馨予公司名叫捷捷高",
+      "onboard_time": 1754046563,
+      "rank": 17,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 239076,
       "num": 239076,
       "word": "淘宝闪购免单",
@@ -897,14 +937,6 @@
       "onboard_time": 1754029101,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225444,
-      "num": 225444,
-      "word": "我行让我上",
-      "onboard_time": 1754043866,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 222480,
@@ -995,20 +1027,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213424,
-      "num": 213424,
-      "word": "张馨予公司名叫捷捷高",
-      "onboard_time": 1754046563,
-      "rank": 17,
-      "category": "艺人,艺人"
-    },
-    {
       "raw_hot": 212513,
       "num": 212513,
       "word": "店员笑了两分钟才放进去",
       "onboard_time": 1754008642,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212193,
+      "num": 212193,
+      "word": "曹缘男子3米板银牌",
+      "onboard_time": 1754047163,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 210867,
@@ -1211,6 +1243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192383,
+      "num": 192383,
+      "word": "日本压抑感",
+      "onboard_time": 1754047343,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191489,
       "num": 184995,
       "word": "庆祝解放军建军98周年",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1754028802,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182782,
-      "num": 182782,
-      "word": "歌手直播",
-      "onboard_time": 1754047223,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 182766,
@@ -1507,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165859,
+      "num": 165859,
+      "word": "有没有除了买彩票以外一夜暴富的方法",
+      "onboard_time": 1754047163,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164872,
       "num": 164872,
       "word": "灵笼",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1754022502,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163277,
+      "num": 166093,
+      "word": "鼠标女儿都看上家有儿女了",
+      "onboard_time": 1754047523,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 162589,
@@ -1691,6 +1739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151873,
+      "num": 151873,
+      "word": "删了的QQ空间说说复活了",
+      "onboard_time": 1754048062,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150987,
       "num": 150987,
       "word": "深情眼豆瓣开分5.7",
@@ -1731,20 +1787,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148070,
+      "raw_hot": 148153,
       "num": 148070,
       "word": "Rapeter长文告别新说唱",
       "onboard_time": 1754047343,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147371,
-      "num": 147371,
-      "word": "曹缘男子3米板银牌",
-      "onboard_time": 1754047163,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 147287,
@@ -1923,6 +1971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134556,
+      "num": 285672,
+      "word": "遭对方亮证逼迫让路当事男子发声",
+      "onboard_time": 1754047523,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134290,
       "num": 134290,
       "word": "TVB才是华语乐坛OST大户吧",
@@ -1939,14 +1995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133964,
-      "num": 133964,
-      "word": "日本压抑感",
-      "onboard_time": 1754047343,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133635,
       "num": 133635,
       "word": "不要对孩子做不符合社交规则的动作",
@@ -1961,14 +2009,6 @@
       "onboard_time": 1754033001,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133268,
-      "num": 384274,
-      "word": "武汉大学图书馆事件多方皆输",
-      "onboard_time": 1754046984,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133132,
@@ -2001,14 +2041,6 @@
       "onboard_time": 1754034022,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131065,
-      "num": 131065,
-      "word": "有没有除了买彩票以外一夜暴富的方法",
-      "onboard_time": 1754047163,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 130967,
@@ -2083,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127386,
+      "num": 136413,
+      "word": "赵今麦 宝宝恶女",
+      "onboard_time": 1754047282,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 127013,
       "num": 127013,
       "word": "Rapeter淘汰",
@@ -2147,12 +2187,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122638,
+      "num": 145006,
+      "word": "尹锡悦拒捕细节曝光",
+      "onboard_time": 1754048182,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122162,
       "num": 122162,
       "word": "贺鑫隆排名",
       "onboard_time": 1754014402,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121398,
+      "num": 121398,
+      "word": "丈夫2年不回家妻子1人带4娃",
+      "onboard_time": 1754048243,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120475,
@@ -2409,6 +2465,14 @@
       "onboard_time": 1754031441,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 103977,
+      "num": 103977,
+      "word": "何洛洛身上一股比格味",
+      "onboard_time": 1754047882,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103975,
@@ -2795,6 +2859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57119,
+      "num": 294976,
+      "word": "少前2三米机甲空降CJ",
+      "onboard_time": 1754048002,
+      "rank": 18,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 56569,
       "num": 81181,
       "word": "歌手",
@@ -2856,6 +2928,14 @@
       "word": "竞业协议对非涉密员工无效",
       "onboard_time": 1754025323,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44615,
+      "num": 293363,
+      "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
+      "onboard_time": 1754047882,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2953,14 +3033,6 @@
       "onboard_time": 1754037863,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30334,
-      "num": 134439,
-      "word": "赵今麦 宝宝恶女",
-      "onboard_time": 1754047282,
-      "rank": 38,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 24144,

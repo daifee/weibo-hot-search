@@ -1,0 +1,410 @@
+{
+  "runTime": 1754048477109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8450527,
+        "num": 8450527,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5740297,
+        "num": 5740297,
+        "word": "宗馥莉首战输了",
+        "onboard_time": 1754042484,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44171,
+        "num": 2147496,
+        "word": "人民军队时刻准备着",
+        "onboard_time": 1754029702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 725190,
+        "num": 725190,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 684158,
+        "num": 684158,
+        "word": "宗庆后曾委托宗馥莉为三兄妹设信托",
+        "onboard_time": 1754045845,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662004,
+        "num": 662004,
+        "word": "皇后杀了皇后 杨阳嬷了杨洋",
+        "onboard_time": 1754043383,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457073,
+        "num": 457073,
+        "word": "歌手直播",
+        "onboard_time": 1754047223,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360261,
+        "num": 360261,
+        "word": "定风波开播",
+        "onboard_time": 1754045064,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346959,
+        "num": 346959,
+        "word": "尹锡悦只穿内衣躺牢房地板上拒捕",
+        "onboard_time": 1754047523,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336614,
+        "num": 336614,
+        "word": "武大已组建工作专班",
+        "onboard_time": 1754043866,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652131,
+        "num": 336523,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545992,
+        "num": 331959,
+        "word": "宗馥莉暂不得挪用香港汇丰账户资产",
+        "onboard_time": 1754043624,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315532,
+        "num": 328549,
+        "word": "武大将调查复核肖某某纪律处分",
+        "onboard_time": 1754040503,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536222,
+        "num": 326508,
+        "word": "李飞 抠门",
+        "onboard_time": 1754039782,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323327,
+        "num": 323327,
+        "word": "我行让我上",
+        "onboard_time": 1754043866,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 302532,
+        "num": 302532,
+        "word": "张馨予何捷结婚七周年",
+        "onboard_time": 1754027902,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301427,
+        "num": 301427,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240276,
+        "num": 301181,
+        "word": "张馨予公司名叫捷捷高",
+        "onboard_time": 1754046563,
+        "rank": 17,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 57119,
+        "num": 294976,
+        "word": "少前2三米机甲空降CJ",
+        "onboard_time": 1754048002,
+        "rank": 18,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 44615,
+        "num": 293363,
+        "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
+        "onboard_time": 1754047882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238719,
+        "num": 288529,
+        "word": "蒋欣吃饭 给猫倒了两粒猫粮",
+        "onboard_time": 1754041643,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134556,
+        "num": 285672,
+        "word": "遭对方亮证逼迫让路当事男子发声",
+        "onboard_time": 1754047523,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282327,
+        "num": 282327,
+        "word": "娃哈哈遗产争夺首战宗馥莉被判输",
+        "onboard_time": 1754043564,
+        "rank": 22,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 267414,
+        "num": 267414,
+        "word": "武汉大学图书馆事件多方皆输",
+        "onboard_time": 1754046984,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212193,
+        "num": 212193,
+        "word": "曹缘男子3米板银牌",
+        "onboard_time": 1754047163,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192383,
+        "num": 192383,
+        "word": "日本压抑感",
+        "onboard_time": 1754047343,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172050,
+        "num": 172050,
+        "word": "男子破坏军婚致军人配偶怀孕判刑1年",
+        "onboard_time": 1754040381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169746,
+        "num": 169746,
+        "word": "刘宇宁龚俊 老爷和我",
+        "onboard_time": 1754045184,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163277,
+        "num": 166093,
+        "word": "鼠标女儿都看上家有儿女了",
+        "onboard_time": 1754047523,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151771,
+        "num": 165932,
+        "word": "内娱出现古偶版樊胜美了",
+        "onboard_time": 1754046623,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165859,
+        "num": 165859,
+        "word": "有没有除了买彩票以外一夜暴富的方法",
+        "onboard_time": 1754047163,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165310,
+        "num": 165310,
+        "word": "爱豆是怎么忍住不恋爱的",
+        "onboard_time": 1754034743,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151873,
+        "num": 151873,
+        "word": "删了的QQ空间说说复活了",
+        "onboard_time": 1754048062,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145908,
+        "num": 145908,
+        "word": "曹格回应Joe用自己的歌官宣恋情",
+        "onboard_time": 1754040503,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148153,
+        "num": 145353,
+        "word": "Rapeter长文告别新说唱",
+        "onboard_time": 1754047343,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122638,
+        "num": 145006,
+        "word": "尹锡悦拒捕细节曝光",
+        "onboard_time": 1754048182,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144738,
+        "num": 144738,
+        "word": "把主角还给大女主",
+        "onboard_time": 1754041402,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142692,
+        "num": 142692,
+        "word": "TF四代 是坐在司机腿上了吗",
+        "onboard_time": 1754042063,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137546,
+        "num": 137546,
+        "word": "柴鸡蛋疑似还钱了",
+        "onboard_time": 1754039180,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127386,
+        "num": 136413,
+        "word": "赵今麦 宝宝恶女",
+        "onboard_time": 1754047282,
+        "rank": 39,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 135363,
+        "num": 135363,
+        "word": "刘亦菲 抬头的玉",
+        "onboard_time": 1754043324,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135101,
+        "num": 135101,
+        "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+        "onboard_time": 1754034142,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129109,
+        "num": 129109,
+        "word": "律师解读李明德酒后砸车获刑6个月",
+        "onboard_time": 1754039302,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125406,
+        "num": 125406,
+        "word": "猫不舒服 人会叫的",
+        "onboard_time": 1754046382,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121398,
+        "num": 121398,
+        "word": "丈夫2年不回家妻子1人带4娃",
+        "onboard_time": 1754048243,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117671,
+        "num": 117671,
+        "word": "谷歌辟谣恢复中国大陆地区服务",
+        "onboard_time": 1754041884,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 116652,
+        "num": 116652,
+        "word": "日方要求俄方归还金阁寺模型",
+        "onboard_time": 1754046024,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110264,
+        "num": 110264,
+        "word": "柴鸡蛋主页已无作品",
+        "onboard_time": 1754032042,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108804,
+        "num": 108804,
+        "word": "香港高院对宗家信托案宣布决定",
+        "onboard_time": 1754039062,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103977,
+        "num": 103977,
+        "word": "何洛洛身上一股比格味",
+        "onboard_time": 1754047882,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}

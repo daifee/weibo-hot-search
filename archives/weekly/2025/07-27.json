@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754047515953,
+  "endTime": 1754048477109,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -1859,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 684158,
+      "num": 684158,
+      "word": "宗庆后曾委托宗馥莉为三兄妹设信托",
+      "onboard_time": 1754045845,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 683681,
       "num": 683681,
       "word": "方圆脸瘦了35斤的面部变化",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1753622845,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 613546,
-      "num": 613546,
-      "word": "宗庆后曾委托宗馥莉为三兄妹设信托",
-      "onboard_time": 1754045845,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 613516,
@@ -3057,6 +3057,14 @@
       "onboard_time": 1753944147,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457073,
+      "num": 457073,
+      "word": "歌手直播",
+      "onboard_time": 1754047223,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 456342,
@@ -4035,6 +4043,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 346959,
+      "num": 346959,
+      "word": "尹锡悦只穿内衣躺牢房地板上拒捕",
+      "onboard_time": 1754047523,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 346019,
       "num": 251787,
       "word": "张雪峰想让女儿高考后当一年助理",
@@ -4281,6 +4297,14 @@
       "onboard_time": 1753750345,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 323327,
+      "num": 323327,
+      "word": "我行让我上",
+      "onboard_time": 1754043866,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 322758,
@@ -5004,7 +5028,7 @@
     },
     {
       "raw_hot": 274297,
-      "num": 274297,
+      "num": 288529,
       "word": "蒋欣吃饭 给猫倒了两粒猫粮",
       "onboard_time": 1754041643,
       "rank": 35,
@@ -5113,6 +5137,14 @@
       "onboard_time": 1753793964,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267414,
+      "num": 384274,
+      "word": "武汉大学图书馆事件多方皆输",
+      "onboard_time": 1754046984,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267287,
@@ -5691,6 +5723,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 240276,
+      "num": 301181,
+      "word": "张馨予公司名叫捷捷高",
+      "onboard_time": 1754046563,
+      "rank": 17,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 240088,
       "num": 240088,
       "word": "日本民众撤离到屋顶躲避海啸",
@@ -6041,14 +6081,6 @@
       "onboard_time": 1753895659,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225444,
-      "num": 225444,
-      "word": "我行让我上",
-      "onboard_time": 1754043866,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 225264,
@@ -6499,14 +6531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213424,
-      "num": 213424,
-      "word": "张馨予公司名叫捷捷高",
-      "onboard_time": 1754046563,
-      "rank": 17,
-      "category": "艺人,艺人"
-    },
-    {
       "raw_hot": 213248,
       "num": 213248,
       "word": "尖叫瓶盖 不密封",
@@ -6553,6 +6577,14 @@
       "onboard_time": 1753940124,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212193,
+      "num": 212193,
+      "word": "曹缘男子3米板银牌",
+      "onboard_time": 1754047163,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 212019,
@@ -7827,6 +7859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192383,
+      "num": 192383,
+      "word": "日本压抑感",
+      "onboard_time": 1754047343,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192301,
       "num": 192301,
       "word": "30岁存了60万的真实生活",
@@ -8625,14 +8665,6 @@
       "onboard_time": 1753568415,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182782,
-      "num": 182782,
-      "word": "歌手直播",
-      "onboard_time": 1754047223,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 182766,
@@ -9955,6 +9987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165859,
+      "num": 165859,
+      "word": "有没有除了买彩票以外一夜暴富的方法",
+      "onboard_time": 1754047163,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165852,
       "num": 185341,
       "word": "在挪威和花少隔桌吃饭",
@@ -10233,6 +10273,14 @@
       "onboard_time": 1753704983,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163277,
+      "num": 166093,
+      "word": "鼠标女儿都看上家有儿女了",
+      "onboard_time": 1754047523,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163274,
@@ -11283,6 +11331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151873,
+      "num": 151873,
+      "word": "删了的QQ空间说说复活了",
+      "onboard_time": 1754048062,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151633,
       "num": 153257,
       "word": "台风竹节草在上海二次登陆",
@@ -11683,20 +11739,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148153,
+      "num": 148070,
+      "word": "Rapeter长文告别新说唱",
+      "onboard_time": 1754047343,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148090,
       "num": 132663,
       "word": "张萌喊关晓彤李昀锐弟弟妹妹",
       "onboard_time": 1753801943,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148070,
-      "num": 148070,
-      "word": "Rapeter长文告别新说唱",
-      "onboard_time": 1754047343,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 148055,
@@ -11745,14 +11801,6 @@
       "onboard_time": 1753873282,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 147371,
-      "num": 147371,
-      "word": "曹缘男子3米板银牌",
-      "onboard_time": 1754047163,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 147287,
@@ -13195,6 +13243,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 134556,
+      "num": 285672,
+      "word": "遭对方亮证逼迫让路当事男子发声",
+      "onboard_time": 1754047523,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134520,
       "num": 134520,
       "word": "藏海传细节越来越多了",
@@ -13296,14 +13352,6 @@
       "word": "一碗烩面外卖与堂食价差达10元",
       "onboard_time": 1753762344,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133964,
-      "num": 133964,
-      "word": "日本压抑感",
-      "onboard_time": 1754047343,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -13425,14 +13473,6 @@
       "onboard_time": 1753605862,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 133268,
-      "num": 384274,
-      "word": "武汉大学图书馆事件多方皆输",
-      "onboard_time": 1754046984,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133170,
@@ -13713,14 +13753,6 @@
       "onboard_time": 1753785262,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131065,
-      "num": 131065,
-      "word": "有没有除了买彩票以外一夜暴富的方法",
-      "onboard_time": 1754047163,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 131028,
@@ -14217,6 +14249,14 @@
       "onboard_time": 1753952423,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127386,
+      "num": 136413,
+      "word": "赵今麦 宝宝恶女",
+      "onboard_time": 1754047282,
+      "rank": 38,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 127165,
@@ -14787,6 +14827,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 122638,
+      "num": 145006,
+      "word": "尹锡悦拒捕细节曝光",
+      "onboard_time": 1754048182,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122545,
       "num": 122545,
       "word": "俄罗斯堪察加半岛一火山喷发",
@@ -14905,6 +14953,14 @@
       "onboard_time": 1753850905,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121398,
+      "num": 121398,
+      "word": "丈夫2年不回家妻子1人带4娃",
+      "onboard_time": 1754048243,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121358,
@@ -16473,6 +16529,14 @@
       "onboard_time": 1753887564,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103977,
+      "num": 103977,
+      "word": "何洛洛身上一股比格味",
+      "onboard_time": 1754047882,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103975,
@@ -18411,6 +18475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57119,
+      "num": 294976,
+      "word": "少前2三米机甲空降CJ",
+      "onboard_time": 1754048002,
+      "rank": 18,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 56629,
       "num": 221563,
       "word": "28岁销售过度情绪劳动患中度抑郁",
@@ -18888,6 +18960,14 @@
       "word": "开挖机种麦子的少林寺新主持",
       "onboard_time": 1753882345,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44615,
+      "num": 293363,
+      "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
+      "onboard_time": 1754047882,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -19449,14 +19529,6 @@
       "onboard_time": 1753687943,
       "rank": 39,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 30334,
-      "num": 134439,
-      "word": "赵今麦 宝宝恶女",
-      "onboard_time": 1754047282,
-      "rank": 38,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 30058,
