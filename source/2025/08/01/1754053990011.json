@@ -1,0 +1,410 @@
+{
+  "runTime": 1754053990011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7174111,
+        "num": 7174111,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1447969,
+        "num": 1447969,
+        "word": "歌手直播",
+        "onboard_time": 1754047223,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3251,
+        "num": 1176410,
+        "word": "第四批690亿元国补10月下达",
+        "onboard_time": 1754018842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 919145,
+        "num": 919145,
+        "word": "删了的QQ空间说说复活了",
+        "onboard_time": 1754048062,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 869698,
+        "num": 869698,
+        "word": "歌手不标原唱",
+        "onboard_time": 1754051003,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 759724,
+        "num": 759724,
+        "word": "覃海洋获200蛙冠军",
+        "onboard_time": 1754049863,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780469,
+        "num": 744561,
+        "word": "林志炫回来了",
+        "onboard_time": 1754052023,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761924,
+        "num": 739078,
+        "word": "李佳薇就该唱高音",
+        "onboard_time": 1754053463,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725303,
+        "num": 725303,
+        "word": "酱子贝 融梗",
+        "onboard_time": 1754051482,
+        "rank": 8,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 408033,
+        "num": 408033,
+        "word": "尹锡悦只穿内衣躺牢房地板上拒捕",
+        "onboard_time": 1754047523,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 563493,
+        "num": 407049,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504317,
+        "num": 398663,
+        "word": "皇后杀了皇后 杨阳嬷了杨洋",
+        "onboard_time": 1754043383,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489503,
+        "num": 387988,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479668,
+        "num": 373709,
+        "word": "张予曦 卢昱晓对不起",
+        "onboard_time": 1754053044,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372578,
+        "num": 372578,
+        "word": "单依纯主持",
+        "onboard_time": 1754050462,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332285,
+        "num": 332285,
+        "word": "武大将调查复核肖某某纪律处分",
+        "onboard_time": 1754040503,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273585,
+        "num": 273585,
+        "word": "日本压抑感",
+        "onboard_time": 1754047343,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236470,
+        "num": 236470,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164373,
+        "num": 236203,
+        "word": "ALin晋级",
+        "onboard_time": 1754052983,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16392,
+        "num": 234376,
+        "word": "拆穿美国国际贸易协议的明枪暗箭",
+        "onboard_time": 1754053284,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22046,
+        "num": 233156,
+        "word": "上半年国内居民出游人次32.85亿",
+        "onboard_time": 1754037984,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323198,
+        "num": 232782,
+        "word": "卫兰 紧张",
+        "onboard_time": 1754051602,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274774,
+        "num": 231911,
+        "word": "井川里予电竞文女主有脸了",
+        "onboard_time": 1754052382,
+        "rank": 22,
+        "category": "网红,电竞"
+      },
+      {
+        "raw_hot": 279391,
+        "num": 230689,
+        "word": "ALin 编曲",
+        "onboard_time": 1754050823,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229779,
+        "num": 229779,
+        "word": "遭对方亮证逼迫让路当事男子发声",
+        "onboard_time": 1754047523,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268141,
+        "num": 224287,
+        "word": "到底是谁在买孙怡的拔黑头玩具",
+        "onboard_time": 1754051302,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251927,
+        "num": 222315,
+        "word": "疯狂动物城2 兔耳朵",
+        "onboard_time": 1754049562,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213471,
+        "num": 213471,
+        "word": "长期低碳 胰岛素抵抗",
+        "onboard_time": 1754052382,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204819,
+        "num": 204819,
+        "word": "每人微信账户有1000元免费提现额度",
+        "onboard_time": 1754051123,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117430,
+        "num": 204768,
+        "word": "黄宗泽称女友经常被妈妈骂走",
+        "onboard_time": 1754048783,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226918,
+        "num": 204741,
+        "word": "傅首尔瘦了",
+        "onboard_time": 1754053284,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20275,
+        "num": 204712,
+        "word": "谢谢你们用生命拼来家国安宁",
+        "onboard_time": 1754007922,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216603,
+        "num": 204648,
+        "word": "深情眼大结局",
+        "onboard_time": 1754051542,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206853,
+        "num": 204568,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1754052983,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204558,
+        "num": 204558,
+        "word": "中国队男子200米自由泳接力银牌",
+        "onboard_time": 1754053583,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200516,
+        "num": 200516,
+        "word": "李飞 抠门",
+        "onboard_time": 1754039782,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49313,
+        "num": 197313,
+        "word": "日方要求俄方归还金阁寺模型",
+        "onboard_time": 1754046024,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180092,
+        "num": 192493,
+        "word": "尊湃剽窃华为芯片技术遭重罚",
+        "onboard_time": 1754052683,
+        "rank": 37,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 40322,
+        "num": 187287,
+        "word": "孙杨受伤也不停练",
+        "onboard_time": 1754052803,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73677,
+        "num": 181812,
+        "word": "宠物犬陪睡 日薪100元",
+        "onboard_time": 1754053284,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180158,
+        "num": 180158,
+        "word": "武大已组建工作专班",
+        "onboard_time": 1754043866,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38699,
+        "num": 176285,
+        "word": "山河无恙因有寸土不让",
+        "onboard_time": 1754046743,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 128515,
+        "num": 174259,
+        "word": "谢霆锋看见烤箱里点火绷不住了",
+        "onboard_time": 1754052203,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30182,
+        "num": 173917,
+        "word": "人民军队时刻准备着",
+        "onboard_time": 1754029702,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173796,
+        "num": 173796,
+        "word": "爱豆是怎么忍住不恋爱的",
+        "onboard_time": 1754034743,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169253,
+        "num": 169253,
+        "word": "武汉大学图书馆事件多方皆输",
+        "onboard_time": 1754046984,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164191,
+        "num": 164191,
+        "word": "汪顺好牛",
+        "onboard_time": 1754053942,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161683,
+        "num": 161683,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1754049263,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155333,
+        "num": 155333,
+        "word": "我行让我上",
+        "onboard_time": 1754043866,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 154867,
+        "num": 154867,
+        "word": "丈夫2年不回家妻子1人带4娃",
+        "onboard_time": 1754048243,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}
