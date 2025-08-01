@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754055824995,
+  "endTime": 1754056616661,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -57,6 +57,14 @@
       "onboard_time": 1753974683,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1715921,
+      "num": 1715921,
+      "word": "者来女开口雷蒂娅",
+      "onboard_time": 1754055683,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1568459,
@@ -139,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1036510,
+      "num": 592994,
+      "word": "张予曦 卢昱晓对不起",
+      "onboard_time": 1754053044,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1016515,
       "num": 1016515,
       "word": "录取通知书 南极海水",
@@ -201,14 +217,6 @@
       "onboard_time": 1754049863,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 927966,
-      "num": 592994,
-      "word": "张予曦 卢昱晓对不起",
-      "onboard_time": 1754053044,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 887320,
@@ -427,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 573698,
-      "num": 359782,
-      "word": "者来女开口雷蒂娅",
-      "onboard_time": 1754055683,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 565139,
       "num": 164433,
       "word": "李明德被判有期徒刑六个月",
@@ -585,6 +585,14 @@
       "onboard_time": 1753968864,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 422128,
+      "num": 327969,
+      "word": "Beni能不能留下来",
+      "onboard_time": 1754055385,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 420684,
@@ -987,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259015,
+      "num": 259015,
+      "word": "lemon 复仇味",
+      "onboard_time": 1754056164,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257412,
       "num": 257412,
       "word": "公司约定的不缴社保无效",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1754046563,
       "rank": 17,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 239984,
-      "num": 239984,
-      "word": "Beni能不能留下来",
-      "onboard_time": 1754055385,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 239076,
@@ -1147,8 +1155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220827,
-      "num": 220827,
+      "raw_hot": 221077,
+      "num": 221077,
       "word": "iG战胜WBG",
       "onboard_time": 1754054782,
       "rank": 26,
@@ -1179,6 +1187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 218156,
+      "num": 218156,
+      "word": "令人心动的offer",
+      "onboard_time": 1754055024,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217342,
       "num": 217342,
       "word": "吉克隽逸撬锁4个小时也没赶上飞机",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1754033001,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 216119,
-      "num": 216119,
-      "word": "令人心动的offer",
-      "onboard_time": 1754055024,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 215806,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1754052382,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212832,
+      "num": 212832,
+      "word": "男子4X200自接中国队创造亚洲纪录",
+      "onboard_time": 1754055444,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 212513,
@@ -1499,14 +1515,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 191211,
-      "num": 191211,
-      "word": "男子4X200自接中国队创造亚洲纪录",
-      "onboard_time": 1754055444,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190550,
       "num": 190550,
       "word": "韩女子怀疑丈夫出轨将其生殖器切断",
@@ -1699,12 +1707,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175614,
+      "num": 175614,
+      "word": "战至巅峰",
+      "onboard_time": 1754056284,
+      "rank": 36,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 174938,
       "num": 174938,
       "word": "女飞徐枫灿因颜值被质疑实力",
       "onboard_time": 1754013381,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 174414,
+      "num": 174414,
+      "word": "游泳世锦赛",
+      "onboard_time": 1754056284,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 172520,
@@ -1729,6 +1753,14 @@
       "onboard_time": 1754039843,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170988,
+      "num": 170988,
+      "word": "中国游客在大阪遇袭",
+      "onboard_time": 1754056164,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170629,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1754005760,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142521,
+      "num": 142521,
+      "word": "白举纲早这么唱不就不淘汰了",
+      "onboard_time": 1754056583,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 141528,
@@ -3155,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66018,
+      "num": 189379,
+      "word": "笙笙拍的于文文",
+      "onboard_time": 1754055444,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65989,
       "num": 65989,
       "word": "因为她是我妈",
@@ -3195,6 +3243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60910,
+      "num": 173331,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59050,
       "num": 172633,
       "word": "HPV预防科普亮相CJ展",
@@ -3219,6 +3275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57479,
+      "num": 352828,
+      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
+      "onboard_time": 1754055802,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57119,
       "num": 294976,
       "word": "少前2三米机甲空降CJ",
@@ -3235,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56219,
+      "num": 209033,
+      "word": "英伟达让我怎么相信你",
+      "onboard_time": 1754055084,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56156,
       "num": 56156,
       "word": "泰格西没失误",
@@ -3249,14 +3321,6 @@
       "onboard_time": 1754030842,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53464,
-      "num": 209033,
-      "word": "英伟达让我怎么相信你",
-      "onboard_time": 1754055084,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 51639,
@@ -3312,14 +3376,6 @@
       "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
       "onboard_time": 1754047882,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42026,
-      "num": 173521,
-      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
-      "onboard_time": 1754055802,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3419,14 +3475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33982,
-      "num": 189379,
-      "word": "笙笙拍的于文文",
-      "onboard_time": 1754055444,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 33960,
       "num": 129827,
       "word": "当我突然告诉朋友家人领证了",
@@ -3467,7 +3515,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18514,
+      "raw_hot": 18844,
       "num": 1176410,
       "word": "第四批690亿元国补10月下达",
       "onboard_time": 1754018842,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754055824995,
+  "endTime": 1754056616661,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -329,6 +329,14 @@
       "onboard_time": 1753756464,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1715921,
+      "num": 1715921,
+      "word": "者来女开口雷蒂娅",
+      "onboard_time": 1754055683,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1689687,
@@ -907,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1036510,
+      "num": 592994,
+      "word": "张予曦 卢昱晓对不起",
+      "onboard_time": 1754053044,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1033612,
       "num": 1153694,
       "word": "龙凤胎弟弟手臂吸入出水口溺亡",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1753921943,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 927966,
-      "num": 592994,
-      "word": "张予曦 卢昱晓对不起",
-      "onboard_time": 1754053044,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 927426,
@@ -2419,14 +2427,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 573698,
-      "num": 359782,
-      "word": "者来女开口雷蒂娅",
-      "onboard_time": 1754055683,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 572022,
       "num": 702476,
       "word": "徐璐回应不拍戏",
@@ -3433,6 +3433,14 @@
       "onboard_time": 1753585762,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422128,
+      "num": 327969,
+      "word": "Beni能不能留下来",
+      "onboard_time": 1754055385,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 421471,
@@ -5459,6 +5467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259015,
+      "num": 259015,
+      "word": "lemon 复仇味",
+      "onboard_time": 1754056164,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258880,
       "num": 258880,
       "word": "乐道L90上市惊爆价26.58万起",
@@ -5913,14 +5929,6 @@
       "onboard_time": 1753906334,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 239984,
-      "num": 239984,
-      "word": "Beni能不能留下来",
-      "onboard_time": 1754055385,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 239881,
@@ -6403,8 +6411,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220827,
-      "num": 220827,
+      "raw_hot": 221077,
+      "num": 221077,
       "word": "iG战胜WBG",
       "onboard_time": 1754054782,
       "rank": 26,
@@ -6531,6 +6539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218156,
+      "num": 218156,
+      "word": "令人心动的offer",
+      "onboard_time": 1754055024,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217569,
       "num": 217569,
       "word": "金晨出场就是师祖级别",
@@ -6617,14 +6633,6 @@
       "onboard_time": 1753687223,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216119,
-      "num": 216119,
-      "word": "令人心动的offer",
-      "onboard_time": 1754055024,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 216048,
@@ -6777,6 +6785,14 @@
       "onboard_time": 1753594462,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212832,
+      "num": 212832,
+      "word": "男子4X200自接中国队创造亚洲纪录",
+      "onboard_time": 1754055444,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 212658,
@@ -8243,14 +8259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191211,
-      "num": 191211,
-      "word": "男子4X200自接中国队创造亚洲纪录",
-      "onboard_time": 1754055444,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191156,
       "num": 191156,
       "word": "王曼昱 巴黎世家",
@@ -9459,6 +9467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175614,
+      "num": 175614,
+      "word": "战至巅峰",
+      "onboard_time": 1753766844,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175535,
       "num": 175535,
       "word": "多家企业捐赠驰援北京",
@@ -9553,6 +9569,14 @@
       "onboard_time": 1753848985,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174414,
+      "num": 174414,
+      "word": "游泳世锦赛",
+      "onboard_time": 1753617203,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 174079,
@@ -9849,6 +9873,14 @@
       "onboard_time": 1753927823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170988,
+      "num": 170988,
+      "word": "中国游客在大阪遇袭",
+      "onboard_time": 1754056164,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170869,
@@ -12235,14 +12267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 146515,
-      "num": 146515,
-      "word": "游泳世锦赛",
-      "onboard_time": 1753617203,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146507,
       "num": 170496,
       "word": "南京照相馆王真儿意难平",
@@ -12659,6 +12683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142521,
+      "num": 142521,
+      "word": "白举纲早这么唱不就不淘汰了",
+      "onboard_time": 1754056583,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142455,
       "num": 142455,
       "word": "其实你根本不用纠结离不离职",
@@ -12801,14 +12833,6 @@
       "onboard_time": 1753571839,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141329,
-      "num": 141329,
-      "word": "战至巅峰",
-      "onboard_time": 1753766844,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 141147,
@@ -18507,6 +18531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66018,
+      "num": 189379,
+      "word": "笙笙拍的于文文",
+      "onboard_time": 1754055444,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65763,
       "num": 65763,
       "word": "李承铉顶级帅哥只需要最朴素的发型",
@@ -18667,6 +18699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60910,
+      "num": 173331,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60584,
       "num": 60584,
       "word": "不晕车不符合生理常识",
@@ -18803,6 +18843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57479,
+      "num": 352828,
+      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
+      "onboard_time": 1754055802,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57430,
       "num": 85833,
       "word": "涉事选矿厂回应浮选槽三大质疑",
@@ -18857,6 +18905,14 @@
       "onboard_time": 1753980559,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56219,
+      "num": 209033,
+      "word": "英伟达让我怎么相信你",
+      "onboard_time": 1754055084,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56199,
@@ -19017,14 +19073,6 @@
       "onboard_time": 1753803084,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53464,
-      "num": 209033,
-      "word": "英伟达让我怎么相信你",
-      "onboard_time": 1754055084,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53121,
@@ -19427,14 +19475,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 42026,
-      "num": 173521,
-      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
-      "onboard_time": 1754055802,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42007,
       "num": 129628,
       "word": "深圳凌晨闪电超1000次",
@@ -19793,14 +19833,6 @@
       "onboard_time": 1753897517,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33982,
-      "num": 189379,
-      "word": "笙笙拍的于文文",
-      "onboard_time": 1754055444,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33960,
@@ -20291,20 +20323,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18844,
+      "num": 1176410,
+      "word": "第四批690亿元国补10月下达",
+      "onboard_time": 1754018842,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18677,
       "num": 931870,
       "word": "神二十航天员签收快递后都在忙啥",
       "onboard_time": 1753584442,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18514,
-      "num": 1176410,
-      "word": "第四批690亿元国补10月下达",
-      "onboard_time": 1754018842,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18471,
