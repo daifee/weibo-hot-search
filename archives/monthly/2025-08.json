@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754063154587,
+  "endTime": 1754066186106,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -33,6 +33,14 @@
       "onboard_time": 1754057303,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2714670,
+      "num": 2714670,
+      "word": "尼斯湖水怪再次被拍到",
+      "onboard_time": 1754062284,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2356229,
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1049505,
+      "num": 1049505,
+      "word": "男孩错付车费轻生事件司机发声",
+      "onboard_time": 1754061083,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1016515,
       "num": 1016515,
       "word": "录取通知书 南极海水",
@@ -264,14 +280,6 @@
       "word": "武汉大学",
       "onboard_time": 1754040982,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 838632,
-      "num": 838632,
-      "word": "男孩错付车费轻生事件司机发声",
-      "onboard_time": 1754061083,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -531,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507141,
+      "num": 507141,
+      "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
+      "onboard_time": 1754063903,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504637,
       "num": 475360,
       "word": "兔闪闪",
@@ -545,14 +561,6 @@
       "onboard_time": 1754013322,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 489691,
-      "num": 489691,
-      "word": "尼斯湖水怪再次被拍到",
-      "onboard_time": 1754062284,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 486009,
@@ -3291,6 +3299,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 95120,
+      "num": 95120,
+      "word": "者来女 玩得起",
+      "onboard_time": 1754065341,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94833,
       "num": 189379,
       "word": "笙笙拍的于文文",
@@ -3403,6 +3419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75958,
+      "num": 75958,
+      "word": "王者荣耀 白泽",
+      "onboard_time": 1754062462,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75690,
       "num": 75690,
       "word": "八月你好",
@@ -3459,6 +3483,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 70544,
+      "num": 70544,
+      "word": "中餐厅",
+      "onboard_time": 1754064323,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70308,
       "num": 81121,
       "word": "员工篡改中奖二维码盗走650万元奖金",
@@ -3473,6 +3505,14 @@
       "onboard_time": 1754031262,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69384,
+      "num": 69384,
+      "word": "女子假装病死分饰7角诈骗再婚丈夫",
+      "onboard_time": 1754065522,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69017,
@@ -3497,6 +3537,14 @@
       "onboard_time": 1753973664,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66095,
+      "num": 66095,
+      "word": "覃海洋用金牌向最可爱的人致敬",
+      "onboard_time": 1754064084,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 65989,
