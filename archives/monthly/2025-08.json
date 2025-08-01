@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754053990011,
+  "endTime": 1754055824995,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -89,6 +89,14 @@
       "onboard_time": 1754025143,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1155519,
+      "num": 1155519,
+      "word": "李佳薇就该唱高音",
+      "onboard_time": 1754053463,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1140121,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 927966,
+      "num": 592994,
+      "word": "张予曦 卢昱晓对不起",
+      "onboard_time": 1754053044,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 887320,
       "num": 887320,
       "word": "宗馥莉暂不得挪用香港汇丰账户资产",
@@ -273,14 +289,6 @@
       "onboard_time": 1754043383,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 761924,
-      "num": 739078,
-      "word": "李佳薇就该唱高音",
-      "onboard_time": 1754053463,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 755062,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573698,
+      "num": 359782,
+      "word": "者来女开口雷蒂娅",
+      "onboard_time": 1754055683,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565139,
       "num": 164433,
       "word": "李明德被判有期徒刑六个月",
@@ -507,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 479668,
-      "num": 373709,
-      "word": "张予曦 卢昱晓对不起",
-      "onboard_time": 1754053044,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 477913,
       "num": 477913,
       "word": "张俪道歉",
@@ -585,6 +593,14 @@
       "onboard_time": 1754021241,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 409931,
+      "num": 345469,
+      "word": "傅首尔瘦了",
+      "onboard_time": 1754053284,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 408454,
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363374,
+      "num": 363374,
+      "word": "汪顺好牛",
+      "onboard_time": 1754053942,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355767,
       "num": 220159,
       "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
@@ -729,6 +753,14 @@
       "onboard_time": 1754021241,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 333540,
+      "num": 333540,
+      "word": "中国队男子200米自由泳接力银牌",
+      "onboard_time": 1754053583,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 332398,
@@ -915,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264271,
+      "num": 264271,
+      "word": "每人微信账户有1000元免费提现额度",
+      "onboard_time": 1754051123,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 264209,
       "num": 285672,
       "word": "遭对方亮证逼迫让路当事男子发声",
@@ -953,6 +993,14 @@
       "onboard_time": 1754017521,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252911,
+      "num": 252911,
+      "word": "张展硕极限冲刺",
+      "onboard_time": 1754054484,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 250758,
@@ -1011,6 +1059,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 239984,
+      "num": 239984,
+      "word": "Beni能不能留下来",
+      "onboard_time": 1754055385,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239076,
       "num": 239076,
       "word": "淘宝闪购免单",
@@ -1067,11 +1123,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226918,
-      "num": 204741,
-      "word": "傅首尔瘦了",
-      "onboard_time": 1754053284,
-      "rank": 30,
+      "raw_hot": 227025,
+      "num": 280329,
+      "word": "没人挑战李佳薇",
+      "onboard_time": 1754054904,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -1089,6 +1145,14 @@
       "onboard_time": 1754042063,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220827,
+      "num": 220827,
+      "word": "iG战胜WBG",
+      "onboard_time": 1754054782,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 220738,
@@ -1129,6 +1193,14 @@
       "onboard_time": 1754033001,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 216119,
+      "num": 216119,
+      "word": "令人心动的offer",
+      "onboard_time": 1754055024,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 215806,
@@ -1283,22 +1355,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 204819,
-      "num": 204819,
-      "word": "每人微信账户有1000元免费提现额度",
-      "onboard_time": 1754051123,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 204558,
-      "num": 204558,
-      "word": "中国队男子200米自由泳接力银牌",
-      "onboard_time": 1754053583,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203786,
       "num": 203786,
       "word": "这是请了所有古装剧坏老头吗",
@@ -1443,6 +1499,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 191211,
+      "num": 191211,
+      "word": "男子4X200自接中国队创造亚洲纪录",
+      "onboard_time": 1754055444,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190550,
       "num": 190550,
       "word": "韩女子怀疑丈夫出轨将其生殖器切断",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1754008521,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188563,
+      "num": 188563,
+      "word": "千年之恋",
+      "onboard_time": 1754054782,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 186635,
@@ -1593,6 +1665,14 @@
       "onboard_time": 1754034983,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 179411,
+      "num": 179411,
+      "word": "IG对战WBG",
+      "onboard_time": 1754050163,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 178048,
@@ -1769,14 +1849,6 @@
       "onboard_time": 1754052983,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164191,
-      "num": 164191,
-      "word": "汪顺好牛",
-      "onboard_time": 1754053942,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 164150,
@@ -2003,12 +2075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149719,
+      "num": 149719,
+      "word": "offer7首录贺峻霖黑西装配话筒",
+      "onboard_time": 1754054424,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149314,
       "num": 149314,
       "word": "上半年国内居民出游花费3.15万亿元",
       "onboard_time": 1754037984,
       "rank": 32,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 148640,
+      "num": 148640,
+      "word": "格格女王回宫",
+      "onboard_time": 1754054063,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 148382,
@@ -2196,7 +2284,7 @@
     },
     {
       "raw_hot": 137369,
-      "num": 197313,
+      "num": 338905,
       "word": "日方要求俄方归还金阁寺模型",
       "onboard_time": 1754046024,
       "rank": 36,
@@ -3163,6 +3251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53464,
+      "num": 209033,
+      "word": "英伟达让我怎么相信你",
+      "onboard_time": 1754055084,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51639,
       "num": 58558,
       "word": "八月文案",
@@ -3216,6 +3312,14 @@
       "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
       "onboard_time": 1754047882,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42026,
+      "num": 173521,
+      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
+      "onboard_time": 1754055802,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3315,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33982,
+      "num": 189379,
+      "word": "笙笙拍的于文文",
+      "onboard_time": 1754055444,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33960,
       "num": 129827,
       "word": "当我突然告诉朋友家人领证了",
@@ -3353,6 +3465,14 @@
       "onboard_time": 1753991534,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18514,
+      "num": 1176410,
+      "word": "第四批690亿元国补10月下达",
+      "onboard_time": 1754018842,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18306,
@@ -3417,14 +3537,6 @@
       "onboard_time": 1753922663,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3251,
-      "num": 1176410,
-      "word": "第四批690亿元国补10月下达",
-      "onboard_time": 1754018842,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
