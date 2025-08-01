@@ -1,0 +1,410 @@
+{
+  "runTime": 1754023104133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1539043,
+        "num": 1539043,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1093388,
+        "num": 1093388,
+        "word": "微信支付 遗失提醒",
+        "onboard_time": 1754010322,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74009,
+        "num": 808597,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 791992,
+        "num": 791992,
+        "word": "被熟虾咬伤的概率不再是0",
+        "onboard_time": 1754018422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 777727,
+        "num": 777727,
+        "word": "张碧晨新加坡演唱会上座率",
+        "onboard_time": 1754011461,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 662547,
+        "num": 662547,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 610901,
+        "num": 610901,
+        "word": "鞠婧祎超话",
+        "onboard_time": 1754021903,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506126,
+        "num": 506126,
+        "word": "娜扎 我哪一次不好看",
+        "onboard_time": 1754021482,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382818,
+        "num": 382818,
+        "word": "万妮达严浩翔冠军导师",
+        "onboard_time": 1754006721,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303708,
+        "num": 379806,
+        "word": "录取通知书 南极海水",
+        "onboard_time": 1754012063,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171242,
+        "num": 378227,
+        "word": "人民海军湖北舰来啦",
+        "onboard_time": 1754022502,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 822525,
+        "num": 376478,
+        "word": "武大校长张平文回应学生性骚扰事件",
+        "onboard_time": 1754016262,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460406,
+        "num": 373298,
+        "word": "猫咪去世前一天用按钮和我告别",
+        "onboard_time": 1754015000,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370584,
+        "num": 370584,
+        "word": "张馨予说热巴演得好",
+        "onboard_time": 1754018182,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346840,
+        "num": 346840,
+        "word": "关税",
+        "onboard_time": 1754013501,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282731,
+        "num": 340956,
+        "word": "杨幂裤脚",
+        "onboard_time": 1754013982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274811,
+        "num": 339550,
+        "word": "一文梳理武汉大学图书馆事件",
+        "onboard_time": 1754020941,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338534,
+        "num": 338534,
+        "word": "木苏里开新文",
+        "onboard_time": 1754021241,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 47105,
+        "num": 266623,
+        "word": "全新赫莲娜黑绷带50面霜",
+        "onboard_time": 1754018422,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 95995,
+        "num": 247611,
+        "word": "中国海警说谁怕死谁就输了",
+        "onboard_time": 1754022682,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 245971,
+        "num": 245971,
+        "word": "黄子韬公司成被执行人",
+        "onboard_time": 1754014341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240693,
+        "num": 240693,
+        "word": "印度40岁男子娶13岁新娘被捕",
+        "onboard_time": 1754013982,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215806,
+        "num": 215806,
+        "word": "泡水饮料 不能喝",
+        "onboard_time": 1754017221,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207883,
+        "num": 207883,
+        "word": "武汉大学保持沉默",
+        "onboard_time": 1754022742,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203674,
+        "num": 203674,
+        "word": "十年前的EXO北京场好像上辈子",
+        "onboard_time": 1754020702,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201703,
+        "num": 201703,
+        "word": "中国篮协通报辽宁山东U21群殴事件",
+        "onboard_time": 1754022384,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179281,
+        "num": 200732,
+        "word": "27岁女子35楼坠落两次缓冲赢生机",
+        "onboard_time": 1754021662,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176624,
+        "num": 200205,
+        "word": "公司约定的不缴社保无效",
+        "onboard_time": 1754017521,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199913,
+        "num": 199913,
+        "word": "罗予彤向粉丝道歉",
+        "onboard_time": 1754022803,
+        "rank": 28,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 99513,
+        "num": 190455,
+        "word": "动起来的朱珠更是美我一大跳",
+        "onboard_time": 1754020102,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190185,
+        "num": 190185,
+        "word": "轻断食 暴饮暴食",
+        "onboard_time": 1754022442,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 183539,
+        "num": 183539,
+        "word": "王琳被批与儿子相处方式太窒息",
+        "onboard_time": 1754009903,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177439,
+        "num": 177439,
+        "word": "杭州某办事单位电话被悬放",
+        "onboard_time": 1754018001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182766,
+        "num": 177002,
+        "word": "回锅油 致癌",
+        "onboard_time": 1754021543,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176131,
+        "num": 176131,
+        "word": "秦彻冗长的一生",
+        "onboard_time": 1754021841,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167767,
+        "num": 167767,
+        "word": "韩国coser到上海了",
+        "onboard_time": 1754016981,
+        "rank": 35,
+        "category": "电竞,动漫"
+      },
+      {
+        "raw_hot": 164442,
+        "num": 164442,
+        "word": "电视上看着一般般真人巨帅",
+        "onboard_time": 1754021241,
+        "rank": 36,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 163671,
+        "num": 163671,
+        "word": "成毅新歌致敬抗战胜利80周年",
+        "onboard_time": 1754022502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160072,
+        "num": 160072,
+        "word": "梨型身材的人坐下后的裤腰",
+        "onboard_time": 1754022022,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157166,
+        "num": 157166,
+        "word": "39岁男子发布涉释永信谣言被刑拘",
+        "onboard_time": 1754018901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156173,
+        "num": 156173,
+        "word": "袁立发视频辟谣袁立文学",
+        "onboard_time": 1754022022,
+        "rank": 40,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 151200,
+        "num": 151200,
+        "word": "95后女飞行员徐枫灿回应质疑",
+        "onboard_time": 1754013322,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 149764,
+        "num": 149764,
+        "word": "男子去世消失12年妻子出现要分钱",
+        "onboard_time": 1754009962,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147237,
+        "num": 147237,
+        "word": "看演唱会被同担扫了5w换座位",
+        "onboard_time": 1754021241,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142733,
+        "num": 142733,
+        "word": "美国将对加拿大关税上调至35%",
+        "onboard_time": 1754010081,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142027,
+        "num": 142027,
+        "word": "庆祝解放军建军98周年",
+        "onboard_time": 1754019802,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 140198,
+        "num": 140198,
+        "word": "给谢霆锋一点猪屁股震撼",
+        "onboard_time": 1754020582,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 139479,
+        "word": "特朗普上调一连串关税",
+        "onboard_time": 1754016381,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139038,
+        "num": 139038,
+        "word": "灵笼",
+        "onboard_time": 1754020222,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135988,
+        "num": 135988,
+        "word": "追星女是不会轻易辞职的",
+        "onboard_time": 1754023042,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
