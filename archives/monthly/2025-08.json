@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754070425257,
+  "endTime": 1754073637768,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -3779,6 +3779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43222,
+      "num": 35454,
+      "word": "我可以在商场的负一层过完一生",
+      "onboard_time": 1754070677,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42617,
       "num": 132472,
       "word": "土狗不用偷着养了",
@@ -3883,6 +3891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35331,
+      "num": 35331,
+      "word": "世界之外",
+      "onboard_time": 1754073315,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 35047,
       "num": 81092,
       "word": "陈芋汐夺金后激动到落泪",
@@ -3913,6 +3929,22 @@
       "onboard_time": 1754062342,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27785,
+      "num": 27785,
+      "word": "刘宇当上假发模特了",
+      "onboard_time": 1754073017,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26388,
+      "num": 26388,
+      "word": "等比例长大的花花",
+      "onboard_time": 1754072115,
+      "rank": 48,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 24144,
