@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754038388264,
+  "endTime": 1754040867607,
   "band_list": [
     {
       "raw_hot": 1953149,
@@ -16,6 +16,14 @@
       "word": "武大校长回应是否撤销肖同学处分",
       "onboard_time": 1753974683,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1609001,
+      "num": 896410,
+      "word": "武大回应图书馆事件",
+      "onboard_time": 1754040444,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1510012,
-      "num": 798874,
+      "num": 899623,
       "word": "张馨予何捷结婚七周年",
       "onboard_time": 1754027902,
       "rank": 3,
@@ -75,6 +83,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1049213,
+      "num": 1167874,
+      "word": "武大将调查复核杨某某学位论文",
+      "onboard_time": 1754040622,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1016515,
       "num": 1016515,
       "word": "录取通知书 南极海水",
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 981923,
+      "num": 981923,
+      "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+      "onboard_time": 1754034142,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 975092,
       "num": 396390,
       "word": "武大校长张平文回应学生性骚扰事件",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 966598,
-      "num": 374599,
+      "num": 397559,
       "word": "21岁确诊抑郁症的躯体化表现",
       "onboard_time": 1754034203,
       "rank": 47,
@@ -121,6 +145,14 @@
       "onboard_time": 1754029342,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 806295,
+      "num": 560202,
+      "word": "爱豆是怎么忍住不恋爱的",
+      "onboard_time": 1754034743,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 791992,
@@ -137,14 +169,6 @@
       "onboard_time": 1754022742,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 771936,
-      "num": 374596,
-      "word": "爱豆是怎么忍住不恋爱的",
-      "onboard_time": 1754034743,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 755062,
@@ -196,11 +220,19 @@
     },
     {
       "raw_hot": 714452,
-      "num": 496370,
+      "num": 569282,
       "word": "双修",
       "onboard_time": 1754032584,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 699497,
+      "num": 699497,
+      "word": "李飞 抠门",
+      "onboard_time": 1754039782,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 688073,
@@ -259,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588815,
+      "num": 588815,
+      "word": "柴鸡蛋疑似还钱了",
+      "onboard_time": 1754039180,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583204,
       "num": 268709,
       "word": "宗庆后遗产纠纷案宣布决定",
@@ -288,6 +328,14 @@
       "word": "24岁中国男子落地柬埔寨数小时内死亡",
       "onboard_time": 1754028382,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532120,
+      "num": 532120,
+      "word": "抓100个老婆视频博主被罚",
+      "onboard_time": 1754036062,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -331,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 476634,
-      "num": 476634,
-      "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
-      "onboard_time": 1754034142,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463708,
       "num": 725541,
       "word": "美宣布对台湾地区征收20%关税",
@@ -377,6 +417,22 @@
       "onboard_time": 1754018182,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396550,
+      "num": 396550,
+      "word": "香港高院对宗家信托案宣布决定",
+      "onboard_time": 1754039062,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377631,
+      "num": 377631,
+      "word": "谷歌",
+      "onboard_time": 1754038943,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 374578,
@@ -475,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314276,
+      "num": 314276,
+      "word": "张翰终于演对角色了",
+      "onboard_time": 1754040142,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303914,
       "num": 459352,
       "word": "人民军队时刻准备着",
@@ -497,14 +561,6 @@
       "onboard_time": 1754035702,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297339,
-      "num": 297339,
-      "word": "抓100个老婆视频博主被罚",
-      "onboard_time": 1754036062,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294173,
@@ -675,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232068,
+      "num": 232068,
+      "word": "宗庆后遗产纠纷案决定全文6点公布",
+      "onboard_time": 1754039902,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231018,
       "num": 231018,
       "word": "by2说要勇于撇清关系",
@@ -697,6 +761,14 @@
       "onboard_time": 1754029101,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225824,
+      "num": 225824,
+      "word": "曹格回应Joe用自己的歌官宣恋情",
+      "onboard_time": 1754040503,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 220738,
@@ -907,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197205,
+      "num": 197205,
+      "word": "律师解读李明德酒后砸车获刑6个月",
+      "onboard_time": 1754039302,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196151,
       "num": 196151,
       "word": "韩国coser到上海了",
@@ -1003,6 +1083,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 186333,
+      "num": 186333,
+      "word": "陈丽君直播摘西瓜",
+      "onboard_time": 1754039663,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186021,
       "num": 186021,
       "word": "ing演唱会",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1754026462,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183961,
+      "num": 183961,
+      "word": "武汉大学何时能还无辜学生清白",
+      "onboard_time": 1754034203,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182962,
@@ -1057,6 +1153,14 @@
       "onboard_time": 1754032763,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 180935,
+      "num": 180935,
+      "word": "穆祉丞狼尾",
+      "onboard_time": 1754040262,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 180826,
@@ -1113,6 +1217,14 @@
       "onboard_time": 1754018782,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 171889,
+      "num": 171889,
+      "word": "无限暖暖称钱可慢慢赚游戏必须用心做",
+      "onboard_time": 1754039843,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 170629,
@@ -1275,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159505,
-      "num": 159505,
-      "word": "武汉大学何时能还无辜学生清白",
-      "onboard_time": 1754034203,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157834,
       "num": 157834,
       "word": "迪丽热巴抬手不是抱歉是你还得练",
@@ -1313,6 +1417,14 @@
       "onboard_time": 1754018901,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "26岁确诊乳腺纤维瘤的真实感受",
+      "onboard_time": 1754039244,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156173,
@@ -1355,6 +1467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151973,
+      "num": 151973,
+      "word": "男子破坏军婚致军人配偶怀孕判刑1年",
+      "onboard_time": 1754040381,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150487,
       "num": 196106,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
@@ -1387,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144465,
+      "num": 144465,
+      "word": "校方回应韦东奕已晋升北大长聘副教授",
+      "onboard_time": 1754038700,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143469,
       "num": 143469,
       "word": "李沁脸上看不到一点班味",
@@ -1401,6 +1529,14 @@
       "onboard_time": 1754005760,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141207,
+      "num": 266763,
+      "word": "武大将调查复核肖某某纪律处分",
+      "onboard_time": 1754040503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141147,
@@ -1440,6 +1576,14 @@
       "word": "丁禹兮这下是真遇到对手了",
       "onboard_time": 1754020402,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137542,
+      "num": 137542,
+      "word": "黄景瑜拉李承铉一起领奖",
+      "onboard_time": 1754039482,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1521,6 +1665,14 @@
       "onboard_time": 1754034022,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130891,
+      "num": 130891,
+      "word": "微信长按2秒还有这么多隐藏功能",
+      "onboard_time": 1754037683,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 130750,
@@ -1609,6 +1761,22 @@
       "onboard_time": 1754031381,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 123536,
+      "num": 123536,
+      "word": "Cat签名派送中",
+      "onboard_time": 1754039423,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122680,
+      "num": 122680,
+      "word": "两车交会没退让遭疑似公职人员威胁",
+      "onboard_time": 1754040802,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122162,
@@ -1737,14 +1905,6 @@
       "onboard_time": 1754033422,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114381,
-      "num": 129394,
-      "word": "微信长按2秒还有这么多隐藏功能",
-      "onboard_time": 1754037683,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 113769,
@@ -2040,6 +2200,14 @@
       "word": "在CJ骁龙馆找到了游戏真神装",
       "onboard_time": 1754032042,
       "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 76288,
+      "num": 220086,
+      "word": "CJ骁龙瓦学长vs瓦学姐",
+      "onboard_time": 1754040563,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -2395,6 +2563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 15854,
+      "num": 152059,
+      "word": "环球影城刘宇偶遇余承恩全过程",
+      "onboard_time": 1754040081,
+      "rank": 39,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 13477,
       "num": 18290,
       "word": "杨洋航仔合拍",
@@ -2417,6 +2593,14 @@
       "onboard_time": 1753993154,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9245,
+      "num": 153466,
+      "word": "小酒窝反向育妈",
+      "onboard_time": 1754040262,
+      "rank": 38,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 6875,
