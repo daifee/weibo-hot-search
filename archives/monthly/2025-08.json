@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754058571218,
+  "endTime": 1754059716439,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1057657,
-      "num": 620679,
+      "num": 944393,
       "word": "张予曦 卢昱晓对不起",
       "onboard_time": 1754053044,
       "rank": 23,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 909814,
-      "num": 332960,
+      "num": 617578,
       "word": "Beni晋级",
       "onboard_time": 1754057303,
       "rank": 10,
@@ -875,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309511,
+      "num": 254592,
+      "word": "杨紫朱亚文 玉兰花开君再来",
+      "onboard_time": 1754058263,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303914,
       "num": 3469930,
       "word": "人民军队时刻准备着",
@@ -979,19 +987,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270814,
+      "num": 270814,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269935,
       "num": 461640,
       "word": "谁懂这滴南极海水的浪漫",
       "onboard_time": 1754031564,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267556,
-      "num": 267556,
-      "word": "奔驰亮证姐真实身份不能视情况公布",
-      "onboard_time": 1754056403,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250136,
+      "num": 250136,
+      "word": "住酒店闻到异味竟是一条恶臭内裤",
+      "onboard_time": 1754058203,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248916,
       "num": 248916,
       "word": "SHarK总冠军",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1754007861,
       "rank": 17,
       "category": "军事"
+    },
+    {
+      "raw_hot": 244734,
+      "num": 244734,
+      "word": "张雅钦鹿晗演唱会应援妆",
+      "onboard_time": 1754059222,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 244562,
@@ -1171,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228148,
+      "num": 228148,
+      "word": "蜜雪冰城柠檬水有籽被投诉",
+      "onboard_time": 1754058983,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228145,
       "num": 204648,
       "word": "深情眼大结局",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1754004318,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 218688,
+      "num": 266547,
+      "word": "上汽奥迪A5L上市正式售价25.59万",
+      "onboard_time": 1754057604,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 218156,
@@ -1491,28 +1531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196165,
-      "num": 266547,
-      "word": "上汽奥迪A5L上市正式售价25.59万",
-      "onboard_time": 1754057604,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 196151,
       "num": 196151,
       "word": "韩国coser到上海了",
       "onboard_time": 1754016981,
       "rank": 39,
       "category": "电竞,动漫"
-    },
-    {
-      "raw_hot": 195825,
-      "num": 192217,
-      "word": "杨紫朱亚文 玉兰花开君再来",
-      "onboard_time": 1754058263,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 195481,
@@ -1971,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163575,
+      "num": 256264,
+      "word": "林志炫淘汰",
+      "onboard_time": 1754058625,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163312,
       "num": 163312,
       "word": "尹锡悦拒捕细节曝光",
@@ -2072,6 +2104,14 @@
       "word": "近期3起恶性造谣传谣案件披露",
       "onboard_time": 1754024123,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157470,
+      "num": 171896,
+      "word": "福州 佛山返回人员14天健康监测",
+      "onboard_time": 1754057724,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150295,
+      "num": 150295,
+      "word": "美股",
+      "onboard_time": 1754059342,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149719,
       "num": 149719,
       "word": "offer7首录贺峻霖黑西装配话筒",
@@ -2283,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144898,
+      "num": 150633,
+      "word": "男子捅前妻37刀入狱出狱后杀害前妻",
+      "onboard_time": 1754058864,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144465,
       "num": 144465,
       "word": "校方回应韦东奕已晋升北大长聘副教授",
@@ -2315,12 +2371,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141380,
+      "num": 141380,
+      "word": "王者架空短剧定档",
+      "onboard_time": 1754058864,
+      "rank": 44,
+      "category": "游戏,剧集"
+    },
+    {
       "raw_hot": 141147,
       "num": 141147,
       "word": "情绪稳定的人才是真疯了",
       "onboard_time": 1754009601,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139887,
+      "num": 172041,
+      "word": "丁克老太养老院被欺负找肌肉男出头",
+      "onboard_time": 1754057844,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139535,
@@ -2425,6 +2497,14 @@
       "onboard_time": 1754021182,
       "rank": 49,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 135180,
+      "num": 135180,
+      "word": "歌手投票",
+      "onboard_time": 1754059703,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 135021,
@@ -2651,6 +2731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124601,
+      "num": 141502,
+      "word": "歌手总决赛名单",
+      "onboard_time": 1754059584,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123812,
       "num": 123812,
       "word": "Red Velvet十一周年",
@@ -2761,14 +2849,6 @@
       "onboard_time": 1754011461,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 117053,
-      "num": 172646,
-      "word": "住酒店闻到异味竟是一条恶臭内裤",
-      "onboard_time": 1754058203,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116825,
@@ -2971,6 +3051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103419,
+      "num": 245052,
+      "word": "27岁抗日将领被砍下头颅8年后被找到",
+      "onboard_time": 1754058323,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103209,
       "num": 103209,
       "word": "湖北舰",
@@ -3147,14 +3235,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 86891,
-      "num": 172041,
-      "word": "丁克老太养老院被欺负找肌肉男出头",
-      "onboard_time": 1754057844,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86485,
       "num": 86485,
       "word": "余承恩发了朝雪录主创合照",
@@ -3289,14 +3369,6 @@
       "onboard_time": 1754031262,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69453,
-      "num": 171896,
-      "word": "福州 佛山返回人员14天健康监测",
-      "onboard_time": 1754057724,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69017,
@@ -3499,14 +3571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41746,
-      "num": 235963,
-      "word": "27岁抗日将领被砍下头颅8年后被找到",
-      "onboard_time": 1754058323,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 41626,
       "num": 81122,
       "word": "朱一龙倪妮 顶级过肺",
@@ -3593,6 +3657,14 @@
       "onboard_time": 1754037863,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33114,
+      "num": 150311,
+      "word": "男子健身房充87万用到300年后",
+      "onboard_time": 1754059403,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24144,
