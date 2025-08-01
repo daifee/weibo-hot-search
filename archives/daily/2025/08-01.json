@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754034445249,
+  "endTime": 1754037503665,
   "band_list": [
     {
       "raw_hot": 1953149,
@@ -51,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1132060,
+      "num": 1181129,
+      "word": "快递员儿子放弃北大报考西湖大学",
+      "onboard_time": 1754032282,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1087927,
       "num": 461639,
       "word": "李诞抖音评论区",
@@ -75,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1016292,
+      "num": 1152724,
+      "word": "柴鸡蛋主页已无作品",
+      "onboard_time": 1754032042,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996749,
       "num": 996749,
       "word": "女子148万分开存骗子只转走600元",
@@ -91,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 954526,
-      "num": 1152724,
-      "word": "柴鸡蛋主页已无作品",
-      "onboard_time": 1754032042,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 966598,
+      "num": 323821,
+      "word": "21岁确诊抑郁症的躯体化表现",
+      "onboard_time": 1754034203,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 867979,
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714452,
+      "num": 496370,
+      "word": "双修",
+      "onboard_time": 1754032584,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 688073,
       "num": 688073,
       "word": "高以翔的狗狗去世了",
@@ -227,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586023,
+      "num": 320280,
+      "word": "爱豆是怎么忍住不恋爱的",
+      "onboard_time": 1754034743,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 583204,
       "num": 268709,
       "word": "宗庆后遗产纠纷案宣布决定",
@@ -257,14 +289,6 @@
       "onboard_time": 1754028382,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527875,
-      "num": 421157,
-      "word": "双修",
-      "onboard_time": 1754032584,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 514079,
@@ -321,14 +345,6 @@
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 428210,
-      "num": 428210,
-      "word": "快递员儿子放弃北大报考西湖大学",
-      "onboard_time": 1754032282,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 422515,
@@ -435,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 327100,
+      "num": 327100,
+      "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+      "onboard_time": 1754034142,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321387,
       "num": 321387,
       "word": "男子去世消失12年妻子出现要分钱",
@@ -457,6 +481,14 @@
       "onboard_time": 1754023403,
       "rank": 21,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 298106,
+      "num": 298106,
+      "word": "吉赛尔买房",
+      "onboard_time": 1754035702,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 294173,
@@ -619,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228153,
+      "num": 228153,
+      "word": "抓100个老婆视频博主被罚",
+      "onboard_time": 1754036062,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226720,
       "num": 226720,
       "word": "制片人评杨紫肖战成毅主演号召力",
@@ -689,6 +729,14 @@
       "onboard_time": 1754018001,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214214,
+      "num": 214214,
+      "word": "无限暖暖把骑龙价格打下来",
+      "onboard_time": 1754034802,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 214182,
@@ -787,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202544,
+      "num": 202544,
+      "word": "周也新剧辛苦打江山被耀祖顶替了",
+      "onboard_time": 1754036542,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202271,
       "num": 158296,
       "word": "12岁女孩因不良用眼习惯捉出几十条虫",
@@ -841,6 +897,14 @@
       "onboard_time": 1754031681,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192417,
+      "num": 215486,
+      "word": "百万粉博主编造自杀离世视频",
+      "onboard_time": 1754032222,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192415,
@@ -905,6 +969,14 @@
       "onboard_time": 1754032643,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184614,
+      "num": 184614,
+      "word": "陈丽君直播",
+      "onboard_time": 1754037083,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 184385,
@@ -1067,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165687,
+      "num": 208448,
+      "word": "官方回应动物园冰柜内现大量动物尸体",
+      "onboard_time": 1754036422,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 164872,
       "num": 164872,
       "word": "灵笼",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1754003898,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164687,
+      "num": 164687,
+      "word": "拼多多被判赔米哈游100万元",
+      "onboard_time": 1754035583,
+      "rank": 28,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 163671,
@@ -1105,6 +1193,14 @@
       "onboard_time": 1754028203,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161459,
+      "num": 161459,
+      "word": "无限暖暖一人一龙",
+      "onboard_time": 1754035462,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 161232,
@@ -1171,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156979,
-      "num": 156979,
-      "word": "百万粉博主编造自杀离世视频",
-      "onboard_time": 1754032222,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156173,
       "num": 156173,
       "word": "袁立发视频辟谣袁立文学",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1754024842,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154775,
+      "num": 154775,
+      "word": "武汉大学何时能还无辜学生清白",
+      "onboard_time": 1754034203,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154251,
@@ -1219,6 +1315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151299,
+      "num": 151299,
+      "word": "李晟用十八张图演了部戏",
+      "onboard_time": 1754037202,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150487,
       "num": 196106,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
@@ -1241,6 +1345,22 @@
       "onboard_time": 1754014521,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147085,
+      "num": 147085,
+      "word": "瘦肚子 降皮质醇",
+      "onboard_time": 1754034983,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 143469,
+      "num": 143469,
+      "word": "李沁脸上看不到一点班味",
+      "onboard_time": 1754035402,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 142646,
@@ -1297,14 +1417,6 @@
       "onboard_time": 1754029822,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137407,
-      "num": 137407,
-      "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
-      "onboard_time": 1754034142,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135668,
@@ -1369,14 +1481,6 @@
       "onboard_time": 1754029702,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132698,
-      "num": 132698,
-      "word": "21岁确诊抑郁症的躯体化表现",
-      "onboard_time": 1754034203,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131221,
@@ -1491,6 +1595,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119643,
+      "num": 119643,
+      "word": "凡人修仙传 意识流双修",
+      "onboard_time": 1754035402,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118495,
+      "num": 118495,
+      "word": "tzym 传送",
+      "onboard_time": 1754035822,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117469,
       "num": 117469,
       "word": "猫咪和汤2国服来了",
@@ -1529,6 +1649,14 @@
       "onboard_time": 1754032042,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116478,
+      "num": 116478,
+      "word": "建议大家刷完牙之后不要漱口",
+      "onboard_time": 1754036903,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 116413,
@@ -1683,6 +1811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98508,
+      "num": 139098,
+      "word": "节食减肥运动减肥的区别真的很大",
+      "onboard_time": 1754036662,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 97260,
       "num": 97260,
       "word": "中方敦促美方停止无聊的指责游戏",
@@ -1803,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84188,
+      "num": 135842,
+      "word": "女子报警硬刚清晨5点广场舞",
+      "onboard_time": 1754036842,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84070,
       "num": 84070,
       "word": "第一次见小孔雀开屏",
@@ -1905,6 +2049,14 @@
       "onboard_time": 1754031262,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69366,
+      "num": 218901,
+      "word": "韦东奕已晋升北大长聘副教授",
+      "onboard_time": 1754036662,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 69017,
@@ -2035,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47318,
-      "num": 152770,
-      "word": "武汉大学何时能还无辜学生清白",
-      "onboard_time": 1754034203,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46299,
       "num": 58545,
       "word": "佛山基孔肯雅热目前病例均为轻症",
@@ -2120,6 +2264,14 @@
       "word": "我在中餐厅被丁禹兮狠狠拿捏了",
       "onboard_time": 1753982478,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35937,
+      "num": 232622,
+      "word": "喜单演员卡壳卡出名场面",
+      "onboard_time": 1754035642,
+      "rank": 17,
       "category": "综艺"
     },
     {

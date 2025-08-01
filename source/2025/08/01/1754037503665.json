@@ -1,0 +1,410 @@
+{
+  "runTime": 1754037503665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1132060,
+        "num": 1181129,
+        "word": "快递员儿子放弃北大报考西湖大学",
+        "onboard_time": 1754032282,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1016292,
+        "num": 1016292,
+        "word": "柴鸡蛋主页已无作品",
+        "onboard_time": 1754032042,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40290,
+        "num": 724849,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1114737,
+        "num": 694195,
+        "word": "张馨予何捷结婚七周年",
+        "onboard_time": 1754027902,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642226,
+        "num": 642226,
+        "word": "陈芋汐谈全红婵不在身边",
+        "onboard_time": 1754031802,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544357,
+        "num": 544357,
+        "word": "微信提现手续费下限调为0.01元",
+        "onboard_time": 1754025143,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 714452,
+        "num": 496370,
+        "word": "双修",
+        "onboard_time": 1754032584,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425596,
+        "num": 425596,
+        "word": "美宣布对台湾地区征收20%关税",
+        "onboard_time": 1754031501,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379201,
+        "num": 379201,
+        "word": "私人厨师称林青霞一顿至少8个菜",
+        "onboard_time": 1754029941,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327100,
+        "num": 327100,
+        "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+        "onboard_time": 1754034142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966598,
+        "num": 323821,
+        "word": "21岁确诊抑郁症的躯体化表现",
+        "onboard_time": 1754034203,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 586023,
+        "num": 320280,
+        "word": "爱豆是怎么忍住不恋爱的",
+        "onboard_time": 1754034743,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370348,
+        "num": 312034,
+        "word": "TF四代 超载",
+        "onboard_time": 1754029342,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298106,
+        "num": 298106,
+        "word": "吉赛尔买房",
+        "onboard_time": 1754035702,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278288,
+        "num": 278288,
+        "word": "女子148万分开存骗子只转走600元",
+        "onboard_time": 1754025444,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264766,
+        "num": 264766,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252808,
+        "num": 252808,
+        "word": "李诞抖音评论区",
+        "onboard_time": 1754026402,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35937,
+        "num": 232622,
+        "word": "喜单演员卡壳卡出名场面",
+        "onboard_time": 1754035642,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228153,
+        "num": 228153,
+        "word": "抓100个老婆视频博主被罚",
+        "onboard_time": 1754036062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69366,
+        "num": 218901,
+        "word": "韦东奕已晋升北大长聘副教授",
+        "onboard_time": 1754036662,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 192417,
+        "num": 215486,
+        "word": "百万粉博主编造自杀离世视频",
+        "onboard_time": 1754032222,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214214,
+        "num": 214214,
+        "word": "无限暖暖把骑龙价格打下来",
+        "onboard_time": 1754034802,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165687,
+        "num": 208448,
+        "word": "官方回应动物园冰柜内现大量动物尸体",
+        "onboard_time": 1754036422,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 206469,
+        "num": 206469,
+        "word": "24岁中国男子落地柬埔寨数小时内死亡",
+        "onboard_time": 1754028382,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202544,
+        "num": 202544,
+        "word": "周也新剧辛苦打江山被耀祖顶替了",
+        "onboard_time": 1754036542,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195249,
+        "num": 195249,
+        "word": "理想 乘龙",
+        "onboard_time": 1754032584,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184614,
+        "num": 184614,
+        "word": "陈丽君直播",
+        "onboard_time": 1754037083,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168508,
+        "num": 168508,
+        "word": "湖北退出航母命名争夺战",
+        "onboard_time": 1754033001,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 164687,
+        "num": 164687,
+        "word": "拼多多被判赔米哈游100万元",
+        "onboard_time": 1754035583,
+        "rank": 28,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 49120,
+        "num": 162057,
+        "word": "HPV预防科普亮相CJ展",
+        "onboard_time": 1754034022,
+        "rank": 29,
+        "category": "健康医疗,动漫"
+      },
+      {
+        "raw_hot": 161459,
+        "num": 161459,
+        "word": "无限暖暖一人一龙",
+        "onboard_time": 1754035462,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158576,
+        "num": 158576,
+        "word": "日本社会整体在沉沦",
+        "onboard_time": 1754032763,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154775,
+        "num": 154775,
+        "word": "武汉大学何时能还无辜学生清白",
+        "onboard_time": 1754034203,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151299,
+        "num": 151299,
+        "word": "李晟用十八张图演了部戏",
+        "onboard_time": 1754037202,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149528,
+        "num": 149528,
+        "word": "谁懂这滴南极海水的浪漫",
+        "onboard_time": 1754031564,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149034,
+        "num": 149034,
+        "word": "人民海军湖北舰来啦",
+        "onboard_time": 1754022502,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 147085,
+        "num": 147085,
+        "word": "瘦肚子 降皮质醇",
+        "onboard_time": 1754034983,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143469,
+        "num": 143469,
+        "word": "李沁脸上看不到一点班味",
+        "onboard_time": 1754035402,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98508,
+        "num": 139098,
+        "word": "节食减肥运动减肥的区别真的很大",
+        "onboard_time": 1754036662,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137032,
+        "num": 137032,
+        "word": "韩女子怀疑丈夫出轨将其生殖器切断",
+        "onboard_time": 1754031740,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84188,
+        "num": 135842,
+        "word": "女子报警硬刚清晨5点广场舞",
+        "onboard_time": 1754036842,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135395,
+        "num": 135395,
+        "word": "韩安冉回应缺席优米周岁宴",
+        "onboard_time": 1754028742,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 127663,
+        "word": "张予曦邀请毕雯珺来我家那闺女",
+        "onboard_time": 1754034022,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125996,
+        "num": 125996,
+        "word": "梨型身材的人坐下后的裤腰",
+        "onboard_time": 1754022022,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122231,
+        "num": 122231,
+        "word": "恋与深空",
+        "onboard_time": 1754030902,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122078,
+        "num": 122078,
+        "word": "李沁也躲不过offer7的早八",
+        "onboard_time": 1754031740,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119643,
+        "num": 119643,
+        "word": "凡人修仙传 意识流双修",
+        "onboard_time": 1754035402,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118495,
+        "num": 118495,
+        "word": "tzym 传送",
+        "onboard_time": 1754035822,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117288,
+        "num": 117288,
+        "word": "歌手第十二期歌单官宣",
+        "onboard_time": 1754030063,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116478,
+        "num": 116478,
+        "word": "建议大家刷完牙之后不要漱口",
+        "onboard_time": 1754036903,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在建军节到来之际致以节日祝贺#"
+    }
+  }
+}
