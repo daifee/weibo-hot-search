@@ -1,0 +1,410 @@
+{
+  "runTime": 1754030617486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217534,
+        "num": 1217534,
+        "word": "微信提现手续费下限调为0.01元",
+        "onboard_time": 1754025143,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 996749,
+        "num": 996749,
+        "word": "女子148万分开存骗子只转走600元",
+        "onboard_time": 1754025444,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44656,
+        "num": 814546,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1397219,
+        "num": 798874,
+        "word": "张馨予何捷结婚七周年",
+        "onboard_time": 1754027902,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755062,
+        "num": 755062,
+        "word": "阿吱阿吱 王鹤棣宋祖儿",
+        "onboard_time": 1754026042,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673571,
+        "num": 673571,
+        "word": "与军人解除婚约拒还16.6万彩礼",
+        "onboard_time": 1754024482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554434,
+        "num": 554434,
+        "word": "24岁中国男子落地柬埔寨数小时内死亡",
+        "onboard_time": 1754028382,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509894,
+        "num": 509894,
+        "word": "TF四代 超载",
+        "onboard_time": 1754029342,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501331,
+        "num": 501331,
+        "word": "微信支付 遗失提醒",
+        "onboard_time": 1754010322,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 303914,
+        "num": 459352,
+        "word": "人民军队时刻准备着",
+        "onboard_time": 1754029702,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1087927,
+        "num": 452958,
+        "word": "李诞抖音评论区",
+        "onboard_time": 1754026402,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694530,
+        "num": 447802,
+        "word": "武汉大学保持沉默",
+        "onboard_time": 1754022742,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438257,
+        "num": 438257,
+        "word": "高以翔的狗狗去世了",
+        "onboard_time": 1754023882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390196,
+        "num": 390196,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 377184,
+        "num": 377184,
+        "word": "梨型身材的人坐下后的裤腰",
+        "onboard_time": 1754022022,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365389,
+        "num": 365389,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333351,
+        "num": 333351,
+        "word": "张碧晨新加坡演唱会上座率",
+        "onboard_time": 1754011461,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303516,
+        "num": 303516,
+        "word": "刘浩存收信还核对人脸",
+        "onboard_time": 1754023403,
+        "rank": 17,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 101547,
+        "num": 270106,
+        "word": "上汽奥迪A5L上赛首秀",
+        "onboard_time": 1754030182,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104156,
+        "num": 269076,
+        "word": "歌手第十二期歌单官宣",
+        "onboard_time": 1754030063,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583204,
+        "num": 268709,
+        "word": "宗庆后遗产纠纷案宣布决定",
+        "onboard_time": 1754029101,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268134,
+        "num": 268134,
+        "word": "韩安冉回应缺席优米周岁宴",
+        "onboard_time": 1754028742,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260972,
+        "num": 260972,
+        "word": "罗予彤向粉丝道歉",
+        "onboard_time": 1754022803,
+        "rank": 22,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 260045,
+        "num": 260045,
+        "word": "电视上看着一般般真人巨帅",
+        "onboard_time": 1754021241,
+        "rank": 23,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 242897,
+        "num": 242897,
+        "word": "人民海军湖北舰来啦",
+        "onboard_time": 1754022502,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 236171,
+        "num": 236171,
+        "word": "林心如霍建华结婚九周年",
+        "onboard_time": 1754028382,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226720,
+        "num": 226720,
+        "word": "制片人评杨紫肖战成毅主演号召力",
+        "onboard_time": 1754029101,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217342,
+        "num": 217342,
+        "word": "吉克隽逸撬锁4个小时也没赶上飞机",
+        "onboard_time": 1754028442,
+        "rank": 27,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 182962,
+        "num": 182962,
+        "word": "朱孝天老婆晒F4合影引争议",
+        "onboard_time": 1754028802,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161862,
+        "num": 161862,
+        "word": "赵心童说王楚钦中八水平很厉害",
+        "onboard_time": 1754028203,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169031,
+        "num": 160667,
+        "word": "李乃文 五旬老汉渡嬷劫",
+        "onboard_time": 1754029642,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156034,
+        "num": 156034,
+        "word": "一文梳理武汉大学图书馆事件",
+        "onboard_time": 1754020941,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153931,
+        "num": 153931,
+        "word": "私人厨师称林青霞一顿至少8个菜",
+        "onboard_time": 1754029941,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142314,
+        "num": 142314,
+        "word": "能不能把迪丽热巴焊在正剧里",
+        "onboard_time": 1754027422,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138270,
+        "num": 138270,
+        "word": "鞠婧祎超话",
+        "onboard_time": 1754021903,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163135,
+        "num": 137969,
+        "word": "李乃文的第一批受害人出现了",
+        "onboard_time": 1754030363,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137591,
+        "num": 137591,
+        "word": "娜扎 我哪一次不好看",
+        "onboard_time": 1754021482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137571,
+        "num": 137571,
+        "word": "被熟虾咬伤的概率不再是0",
+        "onboard_time": 1754018422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137503,
+        "num": 137503,
+        "word": "黄景瑜慕强的最高境界",
+        "onboard_time": 1754029822,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136334,
+        "num": 136334,
+        "word": "看演唱会被同担扫了5w换座位",
+        "onboard_time": 1754021241,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132786,
+        "num": 132786,
+        "word": "美团呼吁抵制内卷式竞争",
+        "onboard_time": 1754029702,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131228,
+        "num": 131228,
+        "word": "花4000去演唱会扫厕所",
+        "onboard_time": 1754024603,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125982,
+        "num": 125982,
+        "word": "鸟鸟 我现在是世界的旁观者",
+        "onboard_time": 1754026522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123550,
+        "num": 123550,
+        "word": "毕雯珺说张予曦妈妈做饭太香了",
+        "onboard_time": 1754026462,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122475,
+        "num": 122475,
+        "word": "巧乐兹中间的巧克力",
+        "onboard_time": 1754024842,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119452,
+        "num": 119452,
+        "word": "不要对孩子做不符合社交规则的动作",
+        "onboard_time": 1754026283,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117265,
+        "num": 117265,
+        "word": "蒋勤勤 纯元是你吗",
+        "onboard_time": 1754028082,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111164,
+        "num": 111164,
+        "word": "木苏里开新文",
+        "onboard_time": 1754021241,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 106903,
+        "num": 106903,
+        "word": "哈登中国行",
+        "onboard_time": 1754030542,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104912,
+        "num": 104912,
+        "word": "原来便利店的微波炉这么贵",
+        "onboard_time": 1754027661,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在建军节到来之际致以节日祝贺#"
+    }
+  }
+}
