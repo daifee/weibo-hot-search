@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754030617486,
+  "endTime": 1754031552646,
   "band_list": [
     {
       "raw_hot": 1953149,
@@ -91,11 +91,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867979,
+      "num": 580023,
+      "word": "TF四代 超载",
+      "onboard_time": 1754029342,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791992,
       "num": 791992,
       "word": "被熟虾咬伤的概率不再是0",
       "onboard_time": 1754018422,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 772774,
+      "num": 555301,
+      "word": "武汉大学保持沉默",
+      "onboard_time": 1754022742,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -128,14 +144,6 @@
       "word": "与军人解除婚约拒还16.6万彩礼",
       "onboard_time": 1754024482,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 694530,
-      "num": 555301,
-      "word": "武汉大学保持沉默",
-      "onboard_time": 1754022742,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1754014221,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 509894,
-      "num": 509894,
-      "word": "TF四代 超载",
-      "onboard_time": 1754029342,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 493427,
@@ -411,6 +411,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 294173,
+      "num": 294173,
+      "word": "歌手第十二期歌单官宣",
+      "onboard_time": 1754030063,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291894,
       "num": 291894,
       "word": "昆明通报129名游客滞留服务区",
@@ -427,8 +435,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268134,
-      "num": 268134,
+      "raw_hot": 276532,
+      "num": 276532,
       "word": "韩安冉回应缺席优米周岁宴",
       "onboard_time": 1754028742,
       "rank": 21,
@@ -449,6 +457,14 @@
       "onboard_time": 1753972105,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261589,
+      "num": 261589,
+      "word": "李乃文的第一批受害人出现了",
+      "onboard_time": 1754030363,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 261477,
@@ -635,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206080,
+      "num": 206080,
+      "word": "私人厨师称林青霞一顿至少8个菜",
+      "onboard_time": 1754029941,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205763,
       "num": 205763,
       "word": "建军节",
@@ -697,6 +721,14 @@
       "onboard_time": 1754016981,
       "rank": 39,
       "category": "电竞,动漫"
+    },
+    {
+      "raw_hot": 195773,
+      "num": 195773,
+      "word": "美宣布对台湾地区征收20%关税",
+      "onboard_time": 1754031501,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194839,
@@ -793,6 +825,14 @@
       "onboard_time": 1754010081,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177738,
+      "num": 177738,
+      "word": "女主湿身男主半裸对视这10秒",
+      "onboard_time": 1754031202,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 176131,
@@ -923,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163135,
-      "num": 137969,
-      "word": "李乃文的第一批受害人出现了",
-      "onboard_time": 1754030363,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "能不能把迪丽热巴焊在正剧里",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1753988594,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 153931,
-      "num": 153931,
-      "word": "私人厨师称林青霞一顿至少8个菜",
-      "onboard_time": 1754029941,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 153413,
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123711,
+      "num": 123711,
+      "word": "建军节向最可爱的人说声谢谢",
+      "onboard_time": 1754031381,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 122162,
       "num": 122162,
       "word": "贺鑫隆排名",
@@ -1363,12 +1395,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104156,
-      "num": 269076,
-      "word": "歌手第十二期歌单官宣",
-      "onboard_time": 1754030063,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 104857,
+      "num": 104857,
+      "word": "哈登抵达中国",
+      "onboard_time": 1754031441,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104314,
+      "num": 130743,
+      "word": "这不是复制粘贴这是中国人民解放军",
+      "onboard_time": 1754031441,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 103209,
+      "num": 103209,
+      "word": "湖北舰",
+      "onboard_time": 1754031262,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101547,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1754012481,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100841,
+      "num": 161952,
+      "word": "爸爸当家最实在的姐弟情",
+      "onboard_time": 1754031381,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 99882,
@@ -1611,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69646,
+      "num": 134904,
+      "word": "王传君没有一句日语是白学的",
+      "onboard_time": 1754031262,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69017,
       "num": 69017,
       "word": "李兰迪发文告别秦莞",
@@ -1659,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63159,
+      "num": 257050,
+      "word": "实探释永信颍上老家",
+      "onboard_time": 1754031082,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58833,
       "num": 58833,
       "word": "31天31件小事帮你成为更勇敢的人",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1753983496,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54071,
+      "num": 130015,
+      "word": "这周六有30多场演唱会",
+      "onboard_time": 1754030842,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 51639,

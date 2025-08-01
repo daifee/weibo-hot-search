@@ -1,0 +1,410 @@
+{
+  "runTime": 1754031552646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1015473,
+        "num": 1162475,
+        "word": "微信提现手续费下限调为0.01元",
+        "onboard_time": 1754025143,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 867746,
+        "num": 867746,
+        "word": "女子148万分开存骗子只转走600元",
+        "onboard_time": 1754025444,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46802,
+        "num": 616410,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1315553,
+        "num": 592340,
+        "word": "张馨予何捷结婚七周年",
+        "onboard_time": 1754027902,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867979,
+        "num": 580023,
+        "word": "TF四代 超载",
+        "onboard_time": 1754029342,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525173,
+        "num": 525173,
+        "word": "24岁中国男子落地柬埔寨数小时内死亡",
+        "onboard_time": 1754028382,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567757,
+        "num": 483346,
+        "word": "阿吱阿吱 王鹤棣宋祖儿",
+        "onboard_time": 1754026042,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425433,
+        "num": 425433,
+        "word": "与军人解除婚约拒还16.6万彩礼",
+        "onboard_time": 1754024482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399963,
+        "num": 399963,
+        "word": "微信支付 遗失提醒",
+        "onboard_time": 1754010322,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341966,
+        "num": 341966,
+        "word": "高以翔的狗狗去世了",
+        "onboard_time": 1754023882,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 945152,
+        "num": 340280,
+        "word": "李诞抖音评论区",
+        "onboard_time": 1754026402,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772774,
+        "num": 332168,
+        "word": "武汉大学保持沉默",
+        "onboard_time": 1754022742,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310974,
+        "num": 310974,
+        "word": "梨型身材的人坐下后的裤腰",
+        "onboard_time": 1754022022,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294173,
+        "num": 294173,
+        "word": "歌手第十二期歌单官宣",
+        "onboard_time": 1754030063,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277530,
+        "num": 277530,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276532,
+        "num": 276532,
+        "word": "韩安冉回应缺席优米周岁宴",
+        "onboard_time": 1754028742,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 268967,
+        "num": 268967,
+        "word": "张碧晨新加坡演唱会上座率",
+        "onboard_time": 1754011461,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261589,
+        "num": 261589,
+        "word": "李乃文的第一批受害人出现了",
+        "onboard_time": 1754030363,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249227,
+        "num": 259212,
+        "word": "人民军队时刻准备着",
+        "onboard_time": 1754029702,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 58388,
+        "num": 257985,
+        "word": "上汽奥迪A5L上赛首秀",
+        "onboard_time": 1754030182,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 63159,
+        "num": 257050,
+        "word": "实探释永信颍上老家",
+        "onboard_time": 1754031082,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256998,
+        "num": 256998,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227435,
+        "num": 227435,
+        "word": "人民海军湖北舰来啦",
+        "onboard_time": 1754022502,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 216924,
+        "num": 216924,
+        "word": "刘浩存收信还核对人脸",
+        "onboard_time": 1754023403,
+        "rank": 23,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 567209,
+        "num": 215212,
+        "word": "宗庆后遗产纠纷案宣布决定",
+        "onboard_time": 1754029101,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206080,
+        "num": 206080,
+        "word": "私人厨师称林青霞一顿至少8个菜",
+        "onboard_time": 1754029941,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195773,
+        "num": 195773,
+        "word": "美宣布对台湾地区征收20%关税",
+        "onboard_time": 1754031501,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195480,
+        "num": 195480,
+        "word": "林心如霍建华结婚九周年",
+        "onboard_time": 1754028382,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188153,
+        "num": 188153,
+        "word": "电视上看着一般般真人巨帅",
+        "onboard_time": 1754021241,
+        "rank": 28,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 180516,
+        "num": 180516,
+        "word": "罗予彤向粉丝道歉",
+        "onboard_time": 1754022803,
+        "rank": 29,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 177738,
+        "num": 177738,
+        "word": "女主湿身男主半裸对视这10秒",
+        "onboard_time": 1754031202,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100841,
+        "num": 161952,
+        "word": "爸爸当家最实在的姐弟情",
+        "onboard_time": 1754031381,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155572,
+        "num": 155572,
+        "word": "朱孝天老婆晒F4合影引争议",
+        "onboard_time": 1754028802,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150852,
+        "num": 150852,
+        "word": "制片人评杨紫肖战成毅主演号召力",
+        "onboard_time": 1754029101,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137905,
+        "num": 137905,
+        "word": "赵心童说王楚钦中八水平很厉害",
+        "onboard_time": 1754028203,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47474,
+        "num": 137729,
+        "word": "零跑汽车7月销量首破5万台",
+        "onboard_time": 1754024603,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69646,
+        "num": 134904,
+        "word": "王传君没有一句日语是白学的",
+        "onboard_time": 1754031262,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104314,
+        "num": 130743,
+        "word": "这不是复制粘贴这是中国人民解放军",
+        "onboard_time": 1754031441,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 54071,
+        "num": 130015,
+        "word": "这周六有30多场演唱会",
+        "onboard_time": 1754030842,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127743,
+        "num": 127743,
+        "word": "吉克隽逸撬锁4个小时也没赶上飞机",
+        "onboard_time": 1754028442,
+        "rank": 39,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 127335,
+        "num": 127335,
+        "word": "能不能把迪丽热巴焊在正剧里",
+        "onboard_time": 1754027422,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118105,
+        "num": 124015,
+        "word": "鞠婧祎超话",
+        "onboard_time": 1754021903,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125536,
+        "num": 123948,
+        "word": "一文梳理武汉大学图书馆事件",
+        "onboard_time": 1754020941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 123711,
+        "word": "建军节向最可爱的人说声谢谢",
+        "onboard_time": 1754031381,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112113,
+        "num": 112113,
+        "word": "看演唱会被同担扫了5w换座位",
+        "onboard_time": 1754021241,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110164,
+        "num": 110164,
+        "word": "蒋勤勤 纯元是你吗",
+        "onboard_time": 1754028082,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107919,
+        "num": 107919,
+        "word": "被熟虾咬伤的概率不再是0",
+        "onboard_time": 1754018422,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104857,
+        "num": 104857,
+        "word": "哈登抵达中国",
+        "onboard_time": 1754031441,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103209,
+        "num": 103209,
+        "word": "湖北舰",
+        "onboard_time": 1754031262,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103515,
+        "num": 103046,
+        "word": "哈登中国行",
+        "onboard_time": 1754030542,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在建军节到来之际致以节日祝贺#"
+    }
+  }
+}
