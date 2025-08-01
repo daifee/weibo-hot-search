@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754044293335,
+  "endTime": 1754045382104,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1563,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6756623,
+      "num": 6756623,
+      "word": "宗馥莉首战输了",
+      "onboard_time": 1754042484,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6725402,
       "num": 6725402,
       "word": "宗馥莉输了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739972602,
       "rank": 0,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 3811890,
-      "num": 3811890,
-      "word": "高考288分女生已接到高校联系电话",
-      "onboard_time": 1750941623,
-      "rank": 0,
-      "category": "民生新闻,教育"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/01 18:31:33
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/01 18:49:42
 </p>
 </blockquote>
 <p>
@@ -1185,6 +1185,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E9%A6%96%E6%88%98%E8%BE%93%E4%BA%86%23" target="weibo">
+宗馥莉首战输了（热度：6756623）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%93%E4%BA%86%23" target="weibo">
 宗馥莉输了（热度：6725402）
 </a>
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E9%83%91%E6%9F%90%E5%B3%B0%E6%B6%89%E5%AB%8C%E7%8C%A5%E4%BA%B5%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 导演郑某峰涉嫌猥亵儿童被刑拘（热度：3828682）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83288%E5%88%86%E5%A5%B3%E7%94%9F%E5%B7%B2%E6%8E%A5%E5%88%B0%E9%AB%98%E6%A0%A1%E8%81%94%E7%B3%BB%E7%94%B5%E8%AF%9D%23" target="weibo">
-高考288分女生已接到高校联系电话（热度：3811890）
 </a>
 </li>
 

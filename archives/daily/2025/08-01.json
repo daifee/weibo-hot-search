@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754044293335,
+  "endTime": 1754045382104,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -8,6 +8,14 @@
       "word": "武大回应图书馆事件",
       "onboard_time": 1754040444,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6756623,
+      "num": 6756623,
+      "word": "宗馥莉首战输了",
+      "onboard_time": 1754042484,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 887320,
+      "num": 887320,
+      "word": "宗馥莉暂不得挪用香港汇丰账户资产",
+      "onboard_time": 1754043624,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 867979,
       "num": 600710,
       "word": "TF四代 超载",
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604863,
+      "num": 604863,
+      "word": "皇后杀了皇后 杨阳嬷了杨洋",
+      "onboard_time": 1754043383,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588815,
       "num": 588815,
       "word": "柴鸡蛋疑似还钱了",
@@ -451,6 +475,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 412697,
+      "num": 412697,
+      "word": "娃哈哈遗产争夺首战宗馥莉被判输",
+      "onboard_time": 1754043564,
+      "rank": 19,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 407916,
       "num": 407916,
       "word": "张馨予说热巴演得好",
@@ -483,6 +515,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 367633,
+      "num": 367633,
+      "word": "武大将调查复核肖某某纪律处分",
+      "onboard_time": 1754040503,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365668,
       "num": 365668,
       "word": "张元英开球",
@@ -496,14 +536,6 @@
       "word": "宗庆后遗产纠纷案决定全文6点公布",
       "onboard_time": 1754039902,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355878,
-      "num": 355878,
-      "word": "武大将调查复核肖某某纪律处分",
-      "onboard_time": 1754040503,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -731,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257401,
-      "num": 349404,
-      "word": "皇后杀了皇后 杨阳嬷了杨洋",
-      "onboard_time": 1754043383,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250758,
       "num": 250758,
       "word": "汪苏泷回应和韩红合唱年轮",
@@ -803,14 +827,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 238679,
-      "num": 347801,
-      "word": "娃哈哈遗产争夺首战宗馥莉被判输",
-      "onboard_time": 1754043564,
-      "rank": 19,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 236171,
       "num": 236171,
       "word": "林心如霍建华结婚九周年",
@@ -835,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231401,
-      "num": 231401,
-      "word": "宗馥莉暂不得挪用香港汇丰账户资产",
-      "onboard_time": 1754043624,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231018,
       "num": 231018,
       "word": "by2说要勇于撇清关系",
@@ -856,6 +864,14 @@
       "word": "外嫁女户籍仍在本村拆迁补偿却没份",
       "onboard_time": 1753979362,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227706,
+      "num": 377867,
+      "word": "武大已组建工作专班",
+      "onboard_time": 1754043866,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -971,6 +987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 210742,
+      "num": 246150,
+      "word": "刘亦菲 抬头的玉",
+      "onboard_time": 1754043324,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210653,
       "num": 210653,
       "word": "黑灯说D座是残疾人专座",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1754041822,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206798,
-      "num": 206798,
-      "word": "刘亦菲 抬头的玉",
-      "onboard_time": 1754043324,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 206160,
@@ -1153,6 +1169,14 @@
       "onboard_time": 1754024603,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 192191,
+      "num": 192191,
+      "word": "定风波开播",
+      "onboard_time": 1754045064,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 191489,
@@ -1603,20 +1627,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153363,
+      "num": 154927,
+      "word": "张予曦三颗蓝莓树结四颗蓝莓",
+      "onboard_time": 1754043744,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151995,
       "num": 151995,
       "word": "小米汽车交付量超30000台",
       "onboard_time": 1754015840,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 151898,
-      "num": 151898,
-      "word": "张予曦三颗蓝莓树结四颗蓝莓",
-      "onboard_time": 1754043744,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 150987,
@@ -1651,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148376,
+      "num": 148376,
+      "word": "蔡依林DIY完整版MV上线",
+      "onboard_time": 1754044345,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147287,
       "num": 147287,
       "word": "胡可回应安吉留长发",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1754037683,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145502,
+      "num": 145502,
+      "word": "三大一小 三女一男",
+      "onboard_time": 1754044824,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144465,
@@ -1827,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133132,
+      "num": 133132,
+      "word": "叶濛怀孕李靳屿升级当爸",
+      "onboard_time": 1754044284,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132838,
       "num": 132838,
       "word": "30岁独居女性的真实生活",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1754034022,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130967,
+      "num": 130967,
+      "word": "田柾国wvs更新",
+      "onboard_time": 1754045124,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 130750,
@@ -1913,14 +1969,6 @@
       "onboard_time": 1754031564,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126455,
-      "num": 126455,
-      "word": "武大已组建工作专班",
-      "onboard_time": 1754043866,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126246,
@@ -2035,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117613,
+      "num": 131232,
+      "word": "刘宇宁龚俊 老爷和我",
+      "onboard_time": 1754045184,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117469,
       "num": 117469,
       "word": "猫咪和汤2国服来了",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1754011461,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 116825,
+      "num": 116825,
+      "word": "诚C掌管自拍的神",
+      "onboard_time": 1754044764,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 116552,
@@ -2089,6 +2153,14 @@
       "onboard_time": 1754025323,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 116169,
+      "num": 116169,
+      "word": "经常运动身体发生的7种变化",
+      "onboard_time": 1754044525,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 115927,
@@ -2256,6 +2328,14 @@
       "word": "特斯拉停小区4个月5次受伤",
       "onboard_time": 1754015962,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98747,
+      "num": 98747,
+      "word": "杭州坐早班火车可免费睡高铁站单间",
+      "onboard_time": 1754044705,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
