@@ -1,7 +1,15 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754005350055,
+  "endTime": 1754015405971,
   "band_list": [
+    {
+      "raw_hot": 1953149,
+      "num": 1953149,
+      "word": "微信支付 遗失提醒",
+      "onboard_time": 1754010322,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1778162,
       "num": 217803,
@@ -17,6 +25,30 @@
       "onboard_time": 1753969763,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1070282,
+      "num": 1070282,
+      "word": "张碧晨新加坡演唱会上座率",
+      "onboard_time": 1754011461,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 933311,
+      "num": 933311,
+      "word": "录取通知书 南极海水",
+      "onboard_time": 1754012063,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 723667,
+      "num": 326633,
+      "word": "王琳被批与儿子相处方式太窒息",
+      "onboard_time": 1754009903,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 618535,
@@ -43,12 +75,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 481209,
+      "num": 481209,
+      "word": "万妮达严浩翔冠军导师",
+      "onboard_time": 1754006721,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477913,
       "num": 477913,
       "word": "张俪道歉",
       "onboard_time": 1753964123,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461004,
+      "num": 461004,
+      "word": "第一个取消耳机孔的",
+      "onboard_time": 1754007801,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 455990,
@@ -67,12 +115,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 380850,
+      "num": 380850,
+      "word": "关税",
+      "onboard_time": 1754013501,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 355767,
       "num": 220159,
       "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
       "onboard_time": 1753998674,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345494,
+      "num": 345494,
+      "word": "昆明将严肃处理涉事旅行社",
+      "onboard_time": 1754007861,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332349,
@@ -83,11 +147,43 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 328116,
+      "num": 328116,
+      "word": "八一建军节",
+      "onboard_time": 1754010923,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 321387,
+      "num": 321387,
+      "word": "男子去世消失12年妻子出现要分钱",
+      "onboard_time": 1754009962,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291894,
       "num": 291894,
       "word": "昆明通报129名游客滞留服务区",
       "onboard_time": 1753994654,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271340,
+      "num": 271340,
+      "word": "张元英开球",
+      "onboard_time": 1754011642,
+      "rank": 12,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 268550,
+      "num": 268550,
+      "word": "武大性骚扰案校方仍未撤处分",
+      "onboard_time": 1754014221,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -115,12 +211,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258341,
+      "num": 258341,
+      "word": "95后女飞行员徐枫灿回应质疑",
+      "onboard_time": 1754013322,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 250758,
+      "num": 250758,
+      "word": "汪苏泷回应和韩红合唱年轮",
+      "onboard_time": 1754004620,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 250616,
       "num": 250616,
       "word": "湖南一女子30楼坠落奇迹生还",
       "onboard_time": 1753973723,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248916,
+      "num": 248916,
+      "word": "SHarK总冠军",
+      "onboard_time": 1754009903,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 244839,
+      "num": 244839,
+      "word": "八一主题MV祖国不会忘记",
+      "onboard_time": 1754007861,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 233227,
@@ -147,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228378,
+      "num": 228378,
+      "word": "杨幂裤脚",
+      "onboard_time": 1754013982,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220220,
       "num": 220220,
       "word": "八月对我好一点",
@@ -163,12 +299,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 214835,
+      "num": 214835,
+      "word": "李文严浩翔合照",
+      "onboard_time": 1754011401,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214182,
       "num": 166204,
       "word": "39岁爸爸与05后儿子同框像兄弟",
       "onboard_time": 1754004499,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212513,
+      "num": 212513,
+      "word": "店员笑了两分钟才放进去",
+      "onboard_time": 1754008642,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 205763,
@@ -211,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193507,
+      "num": 193507,
+      "word": "少女时代完整体聚会",
+      "onboard_time": 1754013681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188718,
+      "num": 188718,
+      "word": "我军台湾海峡应对外军挑衅画面曝光",
+      "onboard_time": 1754008521,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186635,
       "num": 128081,
       "word": "哈尔滨震感",
@@ -219,12 +387,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 169286,
+      "num": 169286,
+      "word": "女飞徐枫灿因颜值被质疑实力",
+      "onboard_time": 1754013381,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 168735,
+      "num": 168735,
+      "word": "定风波",
+      "onboard_time": 1754014041,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164729,
       "num": 164729,
       "word": "八月长安",
       "onboard_time": 1754003898,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164133,
+      "num": 164133,
+      "word": "美国将对加拿大关税上调至35%",
+      "onboard_time": 1754010081,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161232,
@@ -267,12 +459,68 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149904,
+      "num": 149904,
+      "word": "印度40岁男子娶13岁新娘被捕",
+      "onboard_time": 1754013982,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148365,
+      "num": 148365,
+      "word": "黄子韬公司成被执行人",
+      "onboard_time": 1754014341,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145650,
+      "num": 145650,
+      "word": "胡可回应安吉留长发",
+      "onboard_time": 1754014521,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142646,
+      "num": 142646,
+      "word": "当你在韩国花10块人民币买一片西瓜",
+      "onboard_time": 1754005760,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 141147,
+      "num": 141147,
+      "word": "情绪稳定的人才是真疯了",
+      "onboard_time": 1754009601,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136669,
+      "num": 136669,
+      "word": "啤酒 伟哥",
+      "onboard_time": 1754012901,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135668,
       "num": 135668,
       "word": "黄子韬卸任公司执行董事职务",
       "onboard_time": 1753964183,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132838,
+      "num": 132838,
+      "word": "30岁独居女性的真实生活",
+      "onboard_time": 1754009841,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 128050,
@@ -291,6 +539,46 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127013,
+      "num": 127013,
+      "word": "Rapeter淘汰",
+      "onboard_time": 1754005039,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123812,
+      "num": 123812,
+      "word": "Red Velvet十一周年",
+      "onboard_time": 1754014761,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122162,
+      "num": 122162,
+      "word": "贺鑫隆排名",
+      "onboard_time": 1754014402,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119667,
+      "num": 119667,
+      "word": "敢当",
+      "onboard_time": 1754015301,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 117124,
+      "num": 117124,
+      "word": "我军极限3秒驱离外军真实影像",
+      "onboard_time": 1754011461,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 113167,
       "num": 113167,
       "word": "航仔回复让杨洋替演阔夫",
@@ -299,12 +587,68 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110442,
+      "num": 110442,
+      "word": "致敬人民子弟兵的守护",
+      "onboard_time": 1754006480,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 107090,
+      "num": 149459,
+      "word": "张峻豪直播",
+      "onboard_time": 1754014701,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106784,
+      "num": 106784,
+      "word": "谢谢你们用生命拼来家国安宁",
+      "onboard_time": 1754007922,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 104624,
+      "num": 104624,
+      "word": "猫咪去世前一天用按钮和我告别",
+      "onboard_time": 1754015000,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 99882,
+      "num": 99882,
+      "word": "理想重卡对撞测试",
+      "onboard_time": 1754010562,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98594,
       "num": 98594,
       "word": "36岁存款30万决定提前退休",
       "onboard_time": 1753960463,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97260,
+      "num": 97260,
+      "word": "中方敦促美方停止无聊的指责游戏",
+      "onboard_time": 1754012962,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96664,
+      "num": 96664,
+      "word": "蔡徐坤更新快拍",
+      "onboard_time": 1754013263,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 96157,
@@ -337,14 +681,6 @@
       "onboard_time": 1753974624,
       "rank": 28,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 92565,
-      "num": 166764,
-      "word": "汪苏泷回应和韩红合唱年轮",
-      "onboard_time": 1754004620,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 91735,
@@ -441,14 +777,6 @@
       "onboard_time": 1753955003,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 73569,
-      "num": 73569,
-      "word": "Rapeter淘汰",
-      "onboard_time": 1754005039,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 71574,
@@ -723,8 +1051,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3866,
-      "num": 516945,
+      "raw_hot": 6875,
+      "num": 1070855,
       "word": "我军新型潜艇远航任务画面首曝光",
       "onboard_time": 1753922663,
       "rank": 2,
