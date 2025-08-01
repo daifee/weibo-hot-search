@@ -1,0 +1,410 @@
+{
+  "runTime": 1754041758919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6622608,
+        "num": 7872608,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2356229,
+        "num": 2356229,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38357,
+        "num": 1297158,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 920730,
+        "num": 920730,
+        "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+        "onboard_time": 1754034142,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 832652,
+        "num": 832652,
+        "word": "张馨予何捷结婚七周年",
+        "onboard_time": 1754027902,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812198,
+        "num": 812198,
+        "word": "李飞 抠门",
+        "onboard_time": 1754039782,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760619,
+        "num": 760619,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627390,
+        "num": 627390,
+        "word": "爱豆是怎么忍住不恋爱的",
+        "onboard_time": 1754034743,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 509067,
+        "num": 509067,
+        "word": "柴鸡蛋疑似还钱了",
+        "onboard_time": 1754039180,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484172,
+        "num": 484172,
+        "word": "快递员儿子放弃北大报考西湖大学",
+        "onboard_time": 1754032282,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 508083,
+        "num": 480421,
+        "word": "双修",
+        "onboard_time": 1754032584,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504637,
+        "num": 475360,
+        "word": "兔闪闪",
+        "onboard_time": 1754041224,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449901,
+        "num": 449901,
+        "word": "微信提现手续费下限调为0.01元",
+        "onboard_time": 1754025143,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 425168,
+        "num": 425168,
+        "word": "曹格回应Joe用自己的歌官宣恋情",
+        "onboard_time": 1754040503,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415037,
+        "num": 415037,
+        "word": "抓100个老婆视频博主被罚",
+        "onboard_time": 1754036062,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387386,
+        "num": 387386,
+        "word": "香港高院对宗家信托案宣布决定",
+        "onboard_time": 1754039062,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366557,
+        "num": 366557,
+        "word": "柴鸡蛋主页已无作品",
+        "onboard_time": 1754032042,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351630,
+        "num": 351630,
+        "word": "宗庆后遗产纠纷案决定全文6点公布",
+        "onboard_time": 1754039902,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103975,
+        "num": 317277,
+        "word": "CJ骁龙瓦学长vs瓦学姐",
+        "onboard_time": 1754040563,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307254,
+        "num": 307254,
+        "word": "武大将调查复核肖某某纪律处分",
+        "onboard_time": 1754040503,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847093,
+        "num": 306299,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303198,
+        "num": 303198,
+        "word": "21岁确诊抑郁症的躯体化表现",
+        "onboard_time": 1754034203,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253375,
+        "num": 253375,
+        "word": "谷歌",
+        "onboard_time": 1754038943,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248682,
+        "num": 248682,
+        "word": "陈芋汐谈全红婵不在身边",
+        "onboard_time": 1754031802,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230532,
+        "num": 230532,
+        "word": "TF四代 超载",
+        "onboard_time": 1754029342,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225243,
+        "num": 225243,
+        "word": "韦东奕已晋升北大长聘副教授",
+        "onboard_time": 1754036662,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 204846,
+        "num": 204846,
+        "word": "男子破坏军婚致军人配偶怀孕判刑1年",
+        "onboard_time": 1754040381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196122,
+        "num": 196122,
+        "word": "吉赛尔买房",
+        "onboard_time": 1754035702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182534,
+        "num": 182534,
+        "word": "两车交会没退让遭疑似公职人员威胁",
+        "onboard_time": 1754040802,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178377,
+        "num": 178377,
+        "word": "百万粉博主编造自杀离世视频",
+        "onboard_time": 1754032222,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168725,
+        "num": 168725,
+        "word": "把主角还给大女主",
+        "onboard_time": 1754041402,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167136,
+        "num": 167136,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163760,
+        "num": 163760,
+        "word": "樊振东建军节发文",
+        "onboard_time": 1754037984,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160187,
+        "num": 160187,
+        "word": "律师解读李明德酒后砸车获刑6个月",
+        "onboard_time": 1754039302,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157656,
+        "num": 157656,
+        "word": "美宣布对台湾地区征收20%关税",
+        "onboard_time": 1754031501,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155596,
+        "num": 155596,
+        "word": "蒋欣吃饭 给猫倒了两粒猫粮",
+        "onboard_time": 1754041643,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147219,
+        "num": 147219,
+        "word": "95后夫妻结婚六年存款100万",
+        "onboard_time": 1754041281,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147124,
+        "num": 147124,
+        "word": "微信长按2秒还有这么多隐藏功能",
+        "onboard_time": 1754037683,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139216,
+        "num": 146996,
+        "word": "穆祉丞狼尾",
+        "onboard_time": 1754040262,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146890,
+        "num": 146890,
+        "word": "上半年国内居民出游人次32.85亿",
+        "onboard_time": 1754037984,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145816,
+        "num": 145816,
+        "word": "深情眼豆瓣开分5.7",
+        "onboard_time": 1754041583,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143674,
+        "num": 143674,
+        "word": "私人厨师称林青霞一顿至少8个菜",
+        "onboard_time": 1754029941,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141528,
+        "num": 141528,
+        "word": "infj真的很需要绿色",
+        "onboard_time": 1754038582,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134729,
+        "num": 134729,
+        "word": "mac 大米女",
+        "onboard_time": 1754038642,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134267,
+        "num": 134267,
+        "word": "陈丽君直播摘西瓜",
+        "onboard_time": 1754039663,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133152,
+        "num": 133152,
+        "word": "无限暖暖称钱可慢慢赚游戏必须用心做",
+        "onboard_time": 1754039843,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130160,
+        "num": 130160,
+        "word": "女子148万分开存骗子只转走600元",
+        "onboard_time": 1754025444,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126246,
+        "num": 126246,
+        "word": "余嘉豪加盟西甲联赛",
+        "onboard_time": 1754041341,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121719,
+        "num": 121719,
+        "word": "建军节向最可爱的人说声谢谢",
+        "onboard_time": 1754031381,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 120778,
+        "num": 120778,
+        "word": "瘦肚子 降皮质醇",
+        "onboard_time": 1754034983,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}

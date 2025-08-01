@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754040867607,
+  "endTime": 1754041758919,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -25,6 +25,14 @@
       "onboard_time": 1753840103,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6622608,
+      "num": 7872608,
+      "word": "武大回应图书馆事件",
+      "onboard_time": 1754040444,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5818302,
@@ -121,6 +129,14 @@
       "onboard_time": 1753691004,
       "rank": 18,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 2356229,
+      "num": 2356229,
+      "word": "武大将调查复核杨某某学位论文",
+      "onboard_time": 1754040622,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2320220,
@@ -328,14 +344,6 @@
       "word": "海啸黄色警报发布",
       "onboard_time": 1753847664,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1609001,
-      "num": 896410,
-      "word": "武大回应图书馆事件",
-      "onboard_time": 1754040444,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -835,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1049213,
-      "num": 1167874,
-      "word": "武大将调查复核杨某某学位论文",
-      "onboard_time": 1754040622,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1042517,
       "num": 1042517,
       "word": "北京大雨",
@@ -1283,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 847093,
+      "num": 306299,
+      "word": "武汉大学",
+      "onboard_time": 1754040982,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 846280,
       "num": 846280,
       "word": "美团拼好饭",
@@ -1339,6 +1347,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 812198,
+      "num": 812198,
+      "word": "李飞 抠门",
+      "onboard_time": 1754039782,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811366,
       "num": 334419,
       "word": "汪苏泷曾因口误连夜向容祖儿道歉",
@@ -1356,7 +1372,7 @@
     },
     {
       "raw_hot": 806295,
-      "num": 560202,
+      "num": 627390,
       "word": "爱豆是怎么忍住不恋爱的",
       "onboard_time": 1754034743,
       "rank": 11,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1753918039,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 760619,
+      "num": 760619,
+      "word": "张翰终于演对角色了",
+      "onboard_time": 1754040142,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 760580,
@@ -1745,14 +1769,6 @@
       "onboard_time": 1753751723,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699497,
-      "num": 699497,
-      "word": "李飞 抠门",
-      "onboard_time": 1754039782,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 693067,
@@ -2683,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504637,
+      "num": 475360,
+      "word": "兔闪闪",
+      "onboard_time": 1754041224,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503652,
       "num": 521437,
       "word": "赴山海",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1753591042,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425168,
+      "num": 425168,
+      "word": "曹格回应Joe用自己的歌官宣恋情",
+      "onboard_time": 1754040503,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 422683,
@@ -3867,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351630,
+      "num": 351630,
+      "word": "宗庆后遗产纠纷案决定全文6点公布",
+      "onboard_time": 1754039902,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351226,
       "num": 351226,
       "word": "迪丽热巴粉丝不是妥协了是真没招了",
@@ -4299,14 +4339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314276,
-      "num": 314276,
-      "word": "张翰终于演对角色了",
-      "onboard_time": 1754040142,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314022,
       "num": 248465,
       "word": "周杰伦武汉",
@@ -4401,6 +4433,14 @@
       "onboard_time": 1753927643,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307254,
+      "num": 307254,
+      "word": "武大将调查复核肖某某纪律处分",
+      "onboard_time": 1754040503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306367,
@@ -5723,14 +5763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232068,
-      "num": 232068,
-      "word": "宗庆后遗产纠纷案决定全文6点公布",
-      "onboard_time": 1754039902,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231757,
       "num": 231757,
       "word": "酱子贝 我写的角色都没有原型",
@@ -5889,14 +5921,6 @@
       "onboard_time": 1753623866,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225824,
-      "num": 225824,
-      "word": "曹格回应Joe用自己的歌官宣恋情",
-      "onboard_time": 1754040503,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 225628,
@@ -6817,6 +6841,14 @@
       "onboard_time": 1753752204,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204846,
+      "num": 204846,
+      "word": "男子破坏军婚致军人配偶怀孕判刑1年",
+      "onboard_time": 1754040381,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204606,
@@ -8459,6 +8491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182534,
+      "num": 182534,
+      "word": "两车交会没退让遭疑似公职人员威胁",
+      "onboard_time": 1754040802,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182313,
       "num": 325429,
       "word": "国新办新闻发布会",
@@ -9512,6 +9552,14 @@
       "word": "定风波",
       "onboard_time": 1753674923,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168725,
+      "num": 168725,
+      "word": "把主角还给大女主",
+      "onboard_time": 1754041402,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -10763,6 +10811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155596,
+      "num": 155596,
+      "word": "蒋欣吃饭 给猫倒了两粒猫粮",
+      "onboard_time": 1754041643,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155458,
       "num": 155458,
       "word": "汪顺的17岁到31岁",
@@ -11057,14 +11113,6 @@
       "onboard_time": 1754015840,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 151973,
-      "num": 151973,
-      "word": "男子破坏军婚致军人配偶怀孕判刑1年",
-      "onboard_time": 1754040381,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151633,
@@ -11531,6 +11579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147219,
+      "num": 147219,
+      "word": "95后夫妻结婚六年存款100万",
+      "onboard_time": 1754041281,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147149,
       "num": 147149,
       "word": "中国队0.06分险胜朝鲜队",
@@ -11545,6 +11601,14 @@
       "onboard_time": 1753806562,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147124,
+      "num": 147124,
+      "word": "微信长按2秒还有这么多隐藏功能",
+      "onboard_time": 1754037683,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 147115,
@@ -11665,6 +11729,14 @@
       "onboard_time": 1753707324,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145816,
+      "num": 145816,
+      "word": "深情眼豆瓣开分5.7",
+      "onboard_time": 1754041583,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 145810,
@@ -12107,6 +12179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141528,
+      "num": 141528,
+      "word": "infj真的很需要绿色",
+      "onboard_time": 1754038582,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141484,
       "num": 141484,
       "word": "一诺央视采访",
@@ -12145,14 +12225,6 @@
       "onboard_time": 1753766844,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141207,
-      "num": 266763,
-      "word": "武大将调查复核肖某某纪律处分",
-      "onboard_time": 1754040503,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141147,
@@ -12859,6 +12931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134729,
+      "num": 134729,
+      "word": "mac 大米女",
+      "onboard_time": 1754038642,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 134659,
       "num": 134659,
       "word": "老总给公司上上下下安排了10杯饮料",
@@ -13393,14 +13473,6 @@
       "onboard_time": 1753597343,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130891,
-      "num": 130891,
-      "word": "微信长按2秒还有这么多隐藏功能",
-      "onboard_time": 1754037683,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 130880,
@@ -13947,6 +14019,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 126246,
+      "num": 126246,
+      "word": "余嘉豪加盟西甲联赛",
+      "onboard_time": 1754041341,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "利剑玫瑰渣爹气人",
@@ -14409,14 +14489,6 @@
       "onboard_time": 1753864344,
       "rank": 17,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 122680,
-      "num": 122680,
-      "word": "两车交会没退让遭疑似公职人员威胁",
-      "onboard_time": 1754040802,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122545,
@@ -16051,6 +16123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103975,
+      "num": 317277,
+      "word": "CJ骁龙瓦学长vs瓦学姐",
+      "onboard_time": 1754040563,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103934,
       "num": 103934,
       "word": "男子KTV遇AI抽象MV被折磨3小时",
@@ -16988,7 +17068,7 @@
     },
     {
       "raw_hot": 83745,
-      "num": 1088964,
+      "num": 1297158,
       "word": "锦绣山河有你心安",
       "onboard_time": 1754020102,
       "rank": 2,
@@ -17233,14 +17313,6 @@
       "onboard_time": 1753679903,
       "rank": 9,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 76288,
-      "num": 220086,
-      "word": "CJ骁龙瓦学长vs瓦学姐",
-      "onboard_time": 1754040563,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 76086,

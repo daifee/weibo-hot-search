@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/01 17:34:27
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/01 17:49:18
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%23" target="weibo">
+武大回应图书馆事件（热度：6622608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 林高远父亲去世（热度：6585357）
 </a>
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E5%8F%91%E9%95%BF%E6%96%87%23" target="weibo">
 薛凯琪发长文（热度：3811869）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E9%97%A8%E5%AD%90%E5%88%86%E5%85%AC%E5%8F%B8%E6%80%BB%E8%A3%81%E4%B8%80%E5%AE%B6%E5%9C%A8%E5%9D%A0%E6%9C%BA%E4%B8%AD%E9%81%87%E9%9A%BE%23" target="weibo">
-西门子分公司总裁一家在坠机中遇难（热度：3800577）
 </a>
 </li>
 
