@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754045382104,
+  "endTime": 1754047515953,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 765415,
+      "num": 765415,
+      "word": "皇后杀了皇后 杨阳嬷了杨洋",
+      "onboard_time": 1754043383,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 755062,
       "num": 755062,
       "word": "阿吱阿吱 王鹤棣宋祖儿",
@@ -323,20 +331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 613546,
+      "num": 613546,
+      "word": "宗庆后曾委托宗馥莉为三兄妹设信托",
+      "onboard_time": 1754045845,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610901,
       "num": 610901,
       "word": "鞠婧祎超话",
       "onboard_time": 1754021903,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 604863,
-      "num": 604863,
-      "word": "皇后杀了皇后 杨阳嬷了杨洋",
-      "onboard_time": 1754043383,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 588815,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470522,
+      "num": 412697,
+      "word": "娃哈哈遗产争夺首战宗馥莉被判输",
+      "onboard_time": 1754043564,
+      "rank": 19,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 463708,
       "num": 725541,
       "word": "美宣布对台湾地区征收20%关税",
@@ -475,12 +491,12 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 412697,
-      "num": 412697,
-      "word": "娃哈哈遗产争夺首战宗馥莉被判输",
-      "onboard_time": 1754043564,
+      "raw_hot": 408454,
+      "num": 408454,
+      "word": "武大将调查复核肖某某纪律处分",
+      "onboard_time": 1754040503,
       "rank": 19,
-      "category": "民生新闻,艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407916,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387273,
+      "num": 387273,
+      "word": "定风波开播",
+      "onboard_time": 1754045064,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377631,
       "num": 377631,
       "word": "谷歌",
@@ -513,14 +537,6 @@
       "onboard_time": 1754036662,
       "rank": 19,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 367633,
-      "num": 367633,
-      "word": "武大将调查复核肖某某纪律处分",
-      "onboard_time": 1754040503,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365668,
@@ -576,6 +592,14 @@
       "word": "昆明将严肃处理涉事旅行社",
       "onboard_time": 1754007861,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340213,
+      "num": 377867,
+      "word": "武大已组建工作专班",
+      "onboard_time": 1754043866,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -707,6 +731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 274297,
+      "num": 274297,
+      "word": "蒋欣吃饭 给猫倒了两粒猫粮",
+      "onboard_time": 1754041643,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273136,
       "num": 374600,
       "word": "上半年国内居民出游人次32.85亿",
@@ -811,14 +843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 242438,
-      "num": 242438,
-      "word": "蒋欣吃饭 给猫倒了两粒猫粮",
-      "onboard_time": 1754041643,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239076,
       "num": 239076,
       "word": "淘宝闪购免单",
@@ -867,20 +891,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227706,
-      "num": 377867,
-      "word": "武大已组建工作专班",
-      "onboard_time": 1754043866,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226720,
       "num": 226720,
       "word": "制片人评杨紫肖战成毅主演号召力",
       "onboard_time": 1754029101,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225444,
+      "num": 225444,
+      "word": "我行让我上",
+      "onboard_time": 1754043866,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 222480,
@@ -969,6 +993,14 @@
       "onboard_time": 1754004499,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213424,
+      "num": 213424,
+      "word": "张馨予公司名叫捷捷高",
+      "onboard_time": 1754046563,
+      "rank": 17,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 212513,
@@ -1099,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202143,
+      "num": 186562,
+      "word": "内娱出现古偶版樊胜美了",
+      "onboard_time": 1754046623,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201703,
       "num": 201703,
       "word": "中国篮协通报辽宁山东U21群殴事件",
@@ -1171,28 +1211,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 192191,
-      "num": 192191,
-      "word": "定风波开播",
-      "onboard_time": 1754045064,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191489,
       "num": 184995,
       "word": "庆祝解放军建军98周年",
       "onboard_time": 1754019802,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 191337,
-      "num": 191337,
-      "word": "我行让我上",
-      "onboard_time": 1754043866,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 190550,
@@ -1251,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185779,
+      "num": 185779,
+      "word": "刘宇宁龚俊 老爷和我",
+      "onboard_time": 1754045184,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184614,
       "num": 184614,
       "word": "陈丽君直播",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1754028802,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182782,
+      "num": 182782,
+      "word": "歌手直播",
+      "onboard_time": 1754047223,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 182766,
@@ -1499,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162589,
+      "num": 154920,
+      "word": "林高远说乌鲁木齐见",
+      "onboard_time": 1754046862,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "能不能把迪丽热巴焊在正剧里",
@@ -1683,6 +1731,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148070,
+      "num": 148070,
+      "word": "Rapeter长文告别新说唱",
+      "onboard_time": 1754047343,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147371,
+      "num": 147371,
+      "word": "曹缘男子3米板银牌",
+      "onboard_time": 1754047163,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147287,
       "num": 147287,
       "word": "胡可回应安吉留长发",
@@ -1811,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137369,
+      "num": 137369,
+      "word": "日方要求俄方归还金阁寺模型",
+      "onboard_time": 1754046024,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135668,
       "num": 135668,
       "word": "黄子韬卸任公司执行董事职务",
@@ -1843,12 +1915,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134665,
+      "num": 134665,
+      "word": "瘦40斤后才敢说的实话总结",
+      "onboard_time": 1754046143,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134290,
+      "num": 134290,
+      "word": "TVB才是华语乐坛OST大户吧",
+      "onboard_time": 1754046442,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134089,
       "num": 134089,
       "word": "陈楚生11首选曲11种致敬",
       "onboard_time": 1754025083,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133964,
+      "num": 133964,
+      "word": "日本压抑感",
+      "onboard_time": 1754047343,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133635,
@@ -1865,6 +1961,14 @@
       "onboard_time": 1754033001,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133268,
+      "num": 384274,
+      "word": "武汉大学图书馆事件多方皆输",
+      "onboard_time": 1754046984,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133132,
@@ -1899,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131065,
+      "num": 131065,
+      "word": "有没有除了买彩票以外一夜暴富的方法",
+      "onboard_time": 1754047163,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130967,
       "num": 130967,
       "word": "田柾国wvs更新",
@@ -1923,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130114,
+      "num": 130114,
+      "word": "猫不舒服 人会叫的",
+      "onboard_time": 1754046382,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129880,
       "num": 129880,
       "word": "定风波今日开播",
@@ -1937,6 +2057,14 @@
       "onboard_time": 1754037984,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128991,
+      "num": 128991,
+      "word": "跳水",
+      "onboard_time": 1754047104,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 128050,
@@ -2083,14 +2211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117613,
-      "num": 131232,
-      "word": "刘宇宁龚俊 老爷和我",
-      "onboard_time": 1754045184,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117469,
       "num": 117469,
       "word": "猫咪和汤2国服来了",
@@ -2169,6 +2289,22 @@
       "onboard_time": 1754023942,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115409,
+      "num": 115409,
+      "word": "假装上班公司 不能迟到玩手机",
+      "onboard_time": 1754046084,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115403,
+      "num": 115403,
+      "word": "这才是来自父母真正的托举",
+      "onboard_time": 1754046563,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 114920,
@@ -2819,6 +2955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30334,
+      "num": 134439,
+      "word": "赵今麦 宝宝恶女",
+      "onboard_time": 1754047282,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 24144,
       "num": 27911,
       "word": "陈若轩鲨回悬疑剧了",
@@ -2922,6 +3066,9 @@
     },
     {
       "word": "#人民军队攻坚制胜#"
+    },
+    {
+      "word": "#人民军队攻坚向前#"
     }
   ]
 }
