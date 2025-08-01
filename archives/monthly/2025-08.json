@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754059716439,
+  "endTime": 1754062256842,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -273,6 +273,14 @@
       "onboard_time": 1754034743,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 798956,
+      "num": 486167,
+      "word": "张雅钦鹿晗演唱会应援妆",
+      "onboard_time": 1754059222,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 796829,
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380102,
+      "num": 380102,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380072,
       "num": 380072,
       "word": "日本压抑感",
@@ -811,6 +827,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 333708,
+      "num": 333708,
+      "word": "男孩错付车费轻生事件司机发声",
+      "onboard_time": 1754061083,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333540,
       "num": 333540,
       "word": "中国队男子200米自由泳接力银牌",
@@ -859,6 +883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 324136,
+      "num": 324136,
+      "word": "杨紫朱亚文 玉兰花开君再来",
+      "onboard_time": 1754058263,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323327,
       "num": 323327,
       "word": "我行让我上",
@@ -873,14 +905,6 @@
       "onboard_time": 1754009962,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309511,
-      "num": 254592,
-      "word": "杨紫朱亚文 玉兰花开君再来",
-      "onboard_time": 1754058263,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 303914,
@@ -987,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270814,
-      "num": 270814,
-      "word": "奔驰亮证姐真实身份不能视情况公布",
-      "onboard_time": 1754056403,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269935,
       "num": 461640,
       "word": "谁懂这滴南极海水的浪漫",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1753963643,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261085,
+      "num": 168114,
+      "word": "沈梦辰怎么美成这样",
+      "onboard_time": 1754060423,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 257412,
@@ -1123,14 +1147,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 244734,
-      "num": 244734,
-      "word": "张雅钦鹿晗演唱会应援妆",
-      "onboard_time": 1754059222,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 244562,
       "num": 244562,
       "word": "ACT对战GW",
@@ -1187,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230251,
+      "num": 230251,
+      "word": "王一珩 今天你要嫁给我",
+      "onboard_time": 1754059824,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228995,
       "num": 228995,
       "word": "外嫁女户籍仍在本村拆迁补偿却没份",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1754051542,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228084,
+      "num": 228084,
+      "word": "歌手总决赛名单",
+      "onboard_time": 1754059584,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 227025,
@@ -1723,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182495,
+      "num": 164879,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1754061804,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182208,
       "num": 182208,
       "word": "女主湿身男主半裸对视这10秒",
@@ -1811,6 +1851,22 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 175555,
+      "num": 175555,
+      "word": "汪顺时隔八年再夺世锦赛奖牌",
+      "onboard_time": 1754059883,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175415,
+      "num": 163659,
+      "word": "单依纯最后悔的决定",
+      "onboard_time": 1754060062,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174938,
       "num": 174938,
       "word": "女飞徐枫灿因颜值被质疑实力",
@@ -1873,6 +1929,14 @@
       "onboard_time": 1754012901,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170403,
+      "num": 152346,
+      "word": "李佳薇突围成功",
+      "onboard_time": 1754060724,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 169975,
@@ -2041,6 +2105,14 @@
       "onboard_time": 1754027422,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162003,
+      "num": 162003,
+      "word": "美股",
+      "onboard_time": 1754059342,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 161862,
@@ -2217,14 +2289,6 @@
       "onboard_time": 1753969343,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150295,
-      "num": 150295,
-      "word": "美股",
-      "onboard_time": 1754059342,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 149719,
@@ -2555,6 +2619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133696,
+      "num": 133696,
+      "word": "鹿晗跳了星奇摇",
+      "onboard_time": 1754062161,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133635,
       "num": 133635,
       "word": "不要对孩子做不符合社交规则的动作",
@@ -2659,12 +2731,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129218,
+      "num": 129218,
+      "word": "从152斤瘦到126斤的真实感受",
+      "onboard_time": 1754059764,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128991,
       "num": 128991,
       "word": "跳水",
       "onboard_time": 1754047104,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128943,
+      "num": 128943,
+      "word": "Beni档期没白空",
+      "onboard_time": 1754060363,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 128050,
@@ -2729,14 +2817,6 @@
       "onboard_time": 1754025622,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 124601,
-      "num": 141502,
-      "word": "歌手总决赛名单",
-      "onboard_time": 1754059584,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 123812,
@@ -3552,6 +3632,14 @@
       "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
       "onboard_time": 1754047882,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42617,
+      "num": 132472,
+      "word": "土狗不用偷着养了",
+      "onboard_time": 1754061623,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

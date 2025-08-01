@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754059716439,
+  "endTime": 1754062256842,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -1497,6 +1497,14 @@
       "onboard_time": 1753713386,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 798956,
+      "num": 486167,
+      "word": "张雅钦鹿晗演唱会应援妆",
+      "onboard_time": 1754059222,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 797616,
@@ -3851,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380102,
+      "num": 380102,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380072,
       "num": 380072,
       "word": "日本压抑感",
@@ -4363,6 +4379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333708,
+      "num": 333708,
+      "word": "男孩错付车费轻生事件司机发声",
+      "onboard_time": 1754061083,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333540,
       "num": 333540,
       "word": "中国队男子200米自由泳接力银牌",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1753837703,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324136,
+      "num": 324136,
+      "word": "杨紫朱亚文 玉兰花开君再来",
+      "onboard_time": 1754058263,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 323458,
@@ -4689,14 +4721,6 @@
       "onboard_time": 1753622786,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309511,
-      "num": 254592,
-      "word": "杨紫朱亚文 玉兰花开君再来",
-      "onboard_time": 1754058263,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 309217,
@@ -5307,14 +5331,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 270814,
-      "num": 270814,
-      "word": "奔驰亮证姐真实身份不能视情况公布",
-      "onboard_time": 1754056403,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269935,
       "num": 461640,
       "word": "谁懂这滴南极海水的浪漫",
@@ -5481,6 +5497,14 @@
       "onboard_time": 1753880906,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261085,
+      "num": 168114,
+      "word": "沈梦辰怎么美成这样",
+      "onboard_time": 1754060423,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 260229,
@@ -5907,14 +5931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244734,
-      "num": 244734,
-      "word": "张雅钦鹿晗演唱会应援妆",
-      "onboard_time": 1754059222,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 244562,
       "num": 244562,
       "word": "ACT对战GW",
@@ -6219,6 +6235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 230251,
+      "num": 230251,
+      "word": "王一珩 今天你要嫁给我",
+      "onboard_time": 1754059824,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229487,
       "num": 229487,
       "word": "日本多地发布海啸预警",
@@ -6289,6 +6313,14 @@
       "onboard_time": 1754051542,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228084,
+      "num": 228084,
+      "word": "歌手总决赛名单",
+      "onboard_time": 1754059584,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 227972,
@@ -9043,6 +9075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182495,
+      "num": 164879,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1753554736,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182313,
       "num": 325429,
       "word": "国新办新闻发布会",
@@ -9571,6 +9611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175555,
+      "num": 175555,
+      "word": "汪顺时隔八年再夺世锦赛奖牌",
+      "onboard_time": 1754059883,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175535,
       "num": 175535,
       "word": "多家企业捐赠驰援北京",
@@ -9585,6 +9633,14 @@
       "onboard_time": 1753942824,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175415,
+      "num": 163659,
+      "word": "单依纯最后悔的决定",
+      "onboard_time": 1754060062,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 175287,
@@ -10017,6 +10073,14 @@
       "onboard_time": 1754012901,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170403,
+      "num": 152346,
+      "word": "李佳薇突围成功",
+      "onboard_time": 1754060724,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 170124,
@@ -10825,6 +10889,14 @@
       "onboard_time": 1754027422,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162003,
+      "num": 162003,
+      "word": "美股",
+      "onboard_time": 1754059342,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 161983,
@@ -11953,14 +12025,6 @@
       "onboard_time": 1753874423,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150295,
-      "num": 150295,
-      "word": "美股",
-      "onboard_time": 1754059342,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 150270,
@@ -13947,6 +14011,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 133696,
+      "num": 133696,
+      "word": "鹿晗跳了星奇摇",
+      "onboard_time": 1754062161,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133639,
       "num": 133639,
       "word": "给2个单位5名个人记功",
@@ -14547,6 +14619,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 129218,
+      "num": 129218,
+      "word": "从152斤瘦到126斤的真实感受",
+      "onboard_time": 1754059764,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129210,
       "num": 129210,
       "word": "男子4x100自接力中国队晋级决赛",
@@ -14600,6 +14680,14 @@
       "word": "你好星期六",
       "onboard_time": 1753543766,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128943,
+      "num": 128943,
+      "word": "Beni档期没白空",
+      "onboard_time": 1754060363,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -15145,14 +15233,6 @@
       "onboard_time": 1753835124,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124601,
-      "num": 141502,
-      "word": "歌手总决赛名单",
-      "onboard_time": 1754059584,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 124577,
@@ -19635,6 +19715,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 42617,
+      "num": 132472,
+      "word": "土狗不用偷着养了",
+      "onboard_time": 1754061623,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42522,
       "num": 224192,
       "word": "允许总统炒股条款被否决惹怒特朗普",
@@ -20200,14 +20288,6 @@
       "word": "刘耀文小野猫",
       "onboard_time": 1753554256,
       "rank": 44,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 26943,
-      "num": 38129,
-      "word": "十个勤天演唱会",
-      "onboard_time": 1753554736,
-      "rank": 45,
       "category": "演出"
     },
     {
