@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754090872846,
+  "endTime": 1754091757247,
   "band_list": [
     {
       "raw_hot": 2714670,
@@ -9,6 +9,14 @@
       "onboard_time": 1754062284,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1348799,
+      "num": 1348799,
+      "word": "民警上门要求删视频的监控曝光",
+      "onboard_time": 1754090058,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1205895,
@@ -27,20 +35,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 898877,
-      "num": 898877,
-      "word": "民警上门要求删视频的监控曝光",
-      "onboard_time": 1754090058,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 728781,
       "num": 728781,
       "word": "歌手晋级",
       "onboard_time": 1754057303,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 709915,
+      "num": 188499,
+      "word": "伊能静说秦昊很少回家",
+      "onboard_time": 1754089757,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 535420,
@@ -51,12 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 502376,
-      "num": 148474,
-      "word": "伊能静说秦昊很少回家",
-      "onboard_time": 1754089757,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 526472,
+      "num": 188134,
+      "word": "青岛姑娘买下日本70万平方小岛",
+      "onboard_time": 1754083094,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 498636,
@@ -65,6 +73,14 @@
       "onboard_time": 1754053044,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 460134,
+      "num": 460134,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436923,
@@ -81,14 +97,6 @@
       "onboard_time": 1754059222,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 335947,
-      "num": 335947,
-      "word": "奔驰亮证姐真实身份不能视情况公布",
-      "onboard_time": 1754056403,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319785,
@@ -123,20 +131,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 251992,
-      "num": 146891,
-      "word": "青岛姑娘买下日本70万平方小岛",
-      "onboard_time": 1754083094,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 245689,
       "num": 245689,
       "word": "每人微信账户有1000元免费提现额度",
       "onboard_time": 1754051123,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 215315,
+      "num": 101735,
+      "word": "男子与军人配偶同居致其怀孕",
+      "onboard_time": 1754067140,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204513,
@@ -163,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198430,
-      "num": 83364,
-      "word": "男子与军人配偶同居致其怀孕",
-      "onboard_time": 1754067140,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 190173,
+      "num": 190173,
+      "word": "王源送了易烊千玺演唱会花篮",
+      "onboard_time": 1754090419,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 185663,
@@ -201,6 +209,14 @@
       "onboard_time": 1754040622,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161610,
+      "num": 161610,
+      "word": "单依纯说何老师你摸我脚",
+      "onboard_time": 1754089757,
+      "rank": 30,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 156082,
@@ -252,11 +268,19 @@
     },
     {
       "raw_hot": 109781,
-      "num": 68904,
+      "num": 71873,
       "word": "真的有人会为了三块钱站一下午",
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 102026,
+      "num": 102026,
+      "word": "易烊千玺工作室回应让粉丝带土",
+      "onboard_time": 1754090419,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 97682,
@@ -323,28 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87083,
-      "num": 54924,
-      "word": "单依纯说何老师你摸我脚",
-      "onboard_time": 1754089757,
-      "rank": 30,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 83260,
       "num": 83260,
       "word": "Beni档期没白空",
       "onboard_time": 1754060363,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83025,
-      "num": 83364,
-      "word": "王源送了易烊千玺演唱会花篮",
-      "onboard_time": 1754090419,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 81987,
@@ -377,6 +385,22 @@
       "onboard_time": 1754056284,
       "rank": 36,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 78095,
+      "num": 78095,
+      "word": "不宁腿综合征",
+      "onboard_time": 1754089157,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75947,
+      "num": 75947,
+      "word": "歼20与歼35A双雄并立惊艳世界",
+      "onboard_time": 1754090778,
+      "rank": 31,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 75485,
@@ -433,14 +457,6 @@
       "onboard_time": 1754047523,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 72536,
-      "num": 72536,
-      "word": "易烊千玺工作室回应让粉丝带土",
-      "onboard_time": 1754090419,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 70544,
@@ -539,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57102,
+      "num": 57102,
+      "word": "鹿晗牵完阿猛牵阿猛女舞伴",
+      "onboard_time": 1754090719,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 55252,
       "num": 55252,
       "word": "花1.6万穷游了三个国家16个地方",
@@ -547,20 +571,36 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 54938,
-      "num": 54938,
-      "word": "不宁腿综合征",
-      "onboard_time": 1754089157,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 54414,
+      "num": 51941,
+      "word": "深情眼",
+      "onboard_time": 1754091260,
+      "rank": 35,
+      "category": "剧集"
     },
     {
-      "raw_hot": 50792,
-      "num": 50792,
-      "word": "歼20与歼35A双雄并立惊艳世界",
-      "onboard_time": 1754090778,
-      "rank": 31,
-      "category": "国内时政,民生新闻"
+      "raw_hot": 52803,
+      "num": 52803,
+      "word": "胖东来回应娃娃机设有保底机制",
+      "onboard_time": 1754090898,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50535,
+      "num": 50535,
+      "word": "西瓜是天然白虎汤",
+      "onboard_time": 1754090837,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 45783,
+      "num": 45783,
+      "word": "新版医务人员职业道德准则",
+      "onboard_time": 1754077514,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 45423,
@@ -571,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43808,
+      "num": 43808,
+      "word": "上汽奥迪A5L上市正式售价25.59万",
+      "onboard_time": 1754057604,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43222,
       "num": 41029,
       "word": "我可以在商场的负一层过完一生",
@@ -579,12 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43165,
-      "num": 43165,
-      "word": "新版医务人员职业道德准则",
-      "onboard_time": 1754077514,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 42473,
+      "num": 42473,
+      "word": "等比例长大的花花",
+      "onboard_time": 1754072115,
+      "rank": 48,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 41718,
@@ -595,36 +643,28 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 40781,
-      "num": 40781,
-      "word": "西瓜是天然白虎汤",
-      "onboard_time": 1754090837,
-      "rank": 35,
-      "category": "科学科普"
+      "raw_hot": 37788,
+      "num": 37788,
+      "word": "浙江一高校通报批评9名学生",
+      "onboard_time": 1754091619,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
-      "raw_hot": 39495,
-      "num": 39495,
-      "word": "上汽奥迪A5L上市正式售价25.59万",
-      "onboard_time": 1754057604,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 37655,
-      "num": 37655,
-      "word": "等比例长大的花花",
-      "onboard_time": 1754072115,
+      "raw_hot": 37337,
+      "num": 37337,
+      "word": "王伟忠谈小S复工",
+      "onboard_time": 1754088076,
       "rank": 48,
-      "category": "幽默,民生新闻"
+      "category": "艺人"
     },
     {
-      "raw_hot": 36409,
-      "num": 36409,
-      "word": "鹿晗牵完阿猛牵阿猛女舞伴",
-      "onboard_time": 1754090719,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 36449,
+      "num": 37334,
+      "word": "耳帝说ALin没什么参赛竞技的心眼心机",
+      "onboard_time": 1754090898,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 35668,
@@ -641,14 +681,6 @@
       "onboard_time": 1754070316,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35024,
-      "num": 35024,
-      "word": "王伟忠谈小S复工",
-      "onboard_time": 1754088076,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 30103,
