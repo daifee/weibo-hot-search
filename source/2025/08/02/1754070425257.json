@@ -1,0 +1,410 @@
+{
+  "runTime": 1754070425257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1148750,
+        "num": 1148750,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 540695,
+        "num": 540695,
+        "word": "男孩错付车费轻生事件司机发声",
+        "onboard_time": 1754061083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3108,
+        "num": 368763,
+        "word": "第四批690亿元国补10月下达",
+        "onboard_time": 1754018842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294369,
+        "num": 294369,
+        "word": "歌手晋级",
+        "onboard_time": 1754057303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272683,
+        "num": 272683,
+        "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
+        "onboard_time": 1754063903,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480880,
+        "num": 267965,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259037,
+        "num": 259037,
+        "word": "删了的QQ空间说说复活了",
+        "onboard_time": 1754048062,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251477,
+        "num": 251477,
+        "word": "女子假装病死分饰7角诈骗再婚丈夫",
+        "onboard_time": 1754065522,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199435,
+        "num": 199435,
+        "word": "酱子贝 融梗",
+        "onboard_time": 1754051482,
+        "rank": 8,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 153788,
+        "num": 179556,
+        "word": "者来女 玩得起",
+        "onboard_time": 1754065341,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165838,
+        "num": 165838,
+        "word": "官方通报奔驰司机亮证逼迫让路事件",
+        "onboard_time": 1754056883,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150306,
+        "num": 150306,
+        "word": "奔驰亮证姐真实身份不能视情况公布",
+        "onboard_time": 1754056403,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139691,
+        "num": 139691,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121515,
+        "num": 121515,
+        "word": "张予曦 卢昱晓对不起",
+        "onboard_time": 1754053044,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110776,
+        "num": 110776,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109638,
+        "num": 109638,
+        "word": "第一次见这么糊弄观众的综艺",
+        "onboard_time": 1754066240,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95661,
+        "num": 95661,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93865,
+        "num": 93865,
+        "word": "张雅钦鹿晗演唱会应援妆",
+        "onboard_time": 1754059222,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85857,
+        "num": 85857,
+        "word": "武大已组建工作专班",
+        "onboard_time": 1754043866,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70186,
+        "num": 70186,
+        "word": "深情眼大结局",
+        "onboard_time": 1754051542,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141465,
+        "num": 69664,
+        "word": "男子与军人配偶同居致其怀孕",
+        "onboard_time": 1754067140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109781,
+        "num": 68904,
+        "word": "真的有人会为了三块钱站一下午",
+        "onboard_time": 1754067439,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 78702,
+        "num": 67631,
+        "word": "鹿晗跳了星奇摇",
+        "onboard_time": 1754062161,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65464,
+        "num": 65464,
+        "word": "百草枯涨价",
+        "onboard_time": 1754066659,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63769,
+        "num": 63769,
+        "word": "井川里予电竞文女主有脸了",
+        "onboard_time": 1754052382,
+        "rank": 24,
+        "category": "网红,电竞"
+      },
+      {
+        "raw_hot": 62728,
+        "num": 62728,
+        "word": "杨紫朱亚文 玉兰花开君再来",
+        "onboard_time": 1754058263,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59066,
+        "num": 59066,
+        "word": "当我放弃微信聊天记录",
+        "onboard_time": 1754068938,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56246,
+        "num": 56246,
+        "word": "每人微信账户有1000元免费提现额度",
+        "onboard_time": 1754051123,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54091,
+        "num": 54091,
+        "word": "战至巅峰",
+        "onboard_time": 1754056284,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 53559,
+        "num": 53559,
+        "word": "白举纲早这么唱不就不淘汰了",
+        "onboard_time": 1754056583,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53103,
+        "num": 53103,
+        "word": "周也李冰冰一个比一个飒",
+        "onboard_time": 1754067080,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51062,
+        "num": 51062,
+        "word": "歌手直播",
+        "onboard_time": 1754047223,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50987,
+        "num": 50987,
+        "word": "住酒店闻到异味竟是一条恶臭内裤",
+        "onboard_time": 1754058203,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50247,
+        "num": 50247,
+        "word": "令人心动的offer",
+        "onboard_time": 1754055024,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48616,
+        "num": 48616,
+        "word": "王者荣耀 白泽",
+        "onboard_time": 1754062462,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47736,
+        "num": 47736,
+        "word": "折月亮",
+        "onboard_time": 1754062702,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45120,
+        "num": 45120,
+        "word": "王一珩 今天你要嫁给我",
+        "onboard_time": 1754059824,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44600,
+        "num": 44600,
+        "word": "白鹿首张实体专辑销售额破千万",
+        "onboard_time": 1754066600,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43670,
+        "num": 43670,
+        "word": "傅首尔瘦了",
+        "onboard_time": 1754053284,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43059,
+        "num": 43059,
+        "word": "沈梦辰怎么美成这样",
+        "onboard_time": 1754060423,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42640,
+        "num": 42640,
+        "word": "白桦树汁凭啥身价暴涨",
+        "onboard_time": 1754066659,
+        "rank": 40,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 41718,
+        "num": 41718,
+        "word": "用牛皮雕刻了800个人的肚脐眼儿",
+        "onboard_time": 1754070197,
+        "rank": 41,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 40735,
+        "num": 40735,
+        "word": "汪顺时隔八年再夺世锦赛奖牌",
+        "onboard_time": 1754059883,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40496,
+        "num": 40496,
+        "word": "日本压抑感",
+        "onboard_time": 1754047343,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40257,
+        "num": 40257,
+        "word": "Beni晋级",
+        "onboard_time": 1754057303,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37574,
+        "num": 40256,
+        "word": "中餐厅",
+        "onboard_time": 1754064323,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37458,
+        "num": 40237,
+        "word": "皇后杀了皇后 杨阳嬷了杨洋",
+        "onboard_time": 1754043383,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36646,
+        "num": 40216,
+        "word": "福州 佛山返回人员14天健康监测",
+        "onboard_time": 1754057724,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35428,
+        "num": 40203,
+        "word": "者来女开口雷蒂娅",
+        "onboard_time": 1754055683,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35377,
+        "num": 40187,
+        "word": "有人创业拍AI短剧月入300万",
+        "onboard_time": 1754070316,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}

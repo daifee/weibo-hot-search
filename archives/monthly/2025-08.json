@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754069318189,
+  "endTime": 1754070425257,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -1860,7 +1860,7 @@
     },
     {
       "raw_hot": 179240,
-      "num": 179240,
+      "num": 179556,
       "word": "者来女 玩得起",
       "onboard_time": 1754065341,
       "rank": 27,
@@ -3139,6 +3139,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 109781,
+      "num": 68904,
+      "word": "真的有人会为了三块钱站一下午",
+      "onboard_time": 1754067439,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 109638,
+      "num": 109638,
+      "word": "第一次见这么糊弄观众的综艺",
+      "onboard_time": 1754066240,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107090,
       "num": 149459,
       "word": "张峻豪直播",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1754031262,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 102389,
-      "num": 56468,
-      "word": "真的有人会为了三块钱站一下午",
-      "onboard_time": 1754067439,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 101547,
@@ -3337,14 +3345,6 @@
       "onboard_time": 1754055444,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 94487,
-      "num": 94487,
-      "word": "第一次见这么糊弄观众的综艺",
-      "onboard_time": 1754066240,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 93073,
@@ -3595,20 +3595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65464,
+      "num": 65464,
+      "word": "百草枯涨价",
+      "onboard_time": 1754066659,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64371,
       "num": 64371,
       "word": "杨迪错过奔跑吧第一季邀请",
       "onboard_time": 1753973304,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63703,
-      "num": 63703,
-      "word": "百草枯涨价",
-      "onboard_time": 1754066659,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 63325,
@@ -3649,6 +3649,14 @@
       "onboard_time": 1754066600,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 59066,
+      "num": 59066,
+      "word": "当我放弃微信聊天记录",
+      "onboard_time": 1754068938,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 59050,
@@ -3763,14 +3771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44620,
-      "num": 44620,
-      "word": "当我放弃微信聊天记录",
-      "onboard_time": 1754068938,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 44615,
       "num": 293363,
       "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
@@ -3801,6 +3801,14 @@
       "onboard_time": 1753979481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41718,
+      "num": 41718,
+      "word": "用牛皮雕刻了800个人的肚脐眼儿",
+      "onboard_time": 1754070197,
+      "rank": 41,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 41626,
@@ -3865,6 +3873,14 @@
       "onboard_time": 1753954763,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35377,
+      "num": 40187,
+      "word": "有人创业拍AI短剧月入300万",
+      "onboard_time": 1754070316,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35047,

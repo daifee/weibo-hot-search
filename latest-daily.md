@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/02 00:36:26 ~ 2025/08/02 01:28:38
+本榜单时间：2025/08/02 00:36:26 ~ 2025/08/02 01:47:05
 </p>
 </blockquote>
 <p>
@@ -172,7 +172,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%BC%9A%E4%B8%BA%E4%BA%86%E4%B8%89%E5%9D%97%E9%92%B1%E7%AB%99%E4%B8%80%E4%B8%8B%E5%8D%88%23" target="weibo">
-真的有人会为了三块钱站一下午（热度：102389）
+真的有人会为了三块钱站一下午（热度：109781）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E7%B3%8A%E5%BC%84%E8%A7%82%E4%BC%97%E7%9A%84%E7%BB%BC%E8%89%BA%23" target="weibo">
+第一次见这么糊弄观众的综艺（热度：109638）
 </a>
 </li>
 
@@ -197,12 +203,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E6%9C%88%E4%BA%AE%23" target="weibo">
 折月亮（热度：94760）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E7%B3%8A%E5%BC%84%E8%A7%82%E4%BC%97%E7%9A%84%E7%BB%BC%E8%89%BA%23" target="weibo">
-第一次见这么糊弄观众的综艺（热度：94487）
 </a>
 </li>
 
@@ -334,7 +334,7 @@ Beni档期没白空（热度：83260）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8D%89%E6%9E%AF%E6%B6%A8%E4%BB%B7%23" target="weibo">
-百草枯涨价（热度：63703）
+百草枯涨价（热度：65464）
 </a>
 </li>
 
@@ -357,14 +357,26 @@ Beni档期没白空（热度：83260）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E6%94%BE%E5%BC%83%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
+当我放弃微信聊天记录（热度：59066）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Beni%E6%99%8B%E7%BA%A7%23" target="weibo">
 Beni晋级（热度：45423）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E6%94%BE%E5%BC%83%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
-当我放弃微信聊天记录（热度：44620）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E7%89%9B%E7%9A%AE%E9%9B%95%E5%88%BB%E4%BA%86800%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%82%9A%E8%84%90%E7%9C%BC%E5%84%BF%23" target="weibo">
+用牛皮雕刻了800个人的肚脐眼儿（热度：41718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%8B%8DAI%E7%9F%AD%E5%89%A7%E6%9C%88%E5%85%A5300%E4%B8%87%23" target="weibo">
+有人创业拍AI短剧月入300万（热度：35377）
 </a>
 </li>
 

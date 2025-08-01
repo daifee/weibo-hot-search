@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754069318189,
+  "endTime": 1754070425257,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -9364,7 +9364,7 @@
     },
     {
       "raw_hot": 179240,
-      "num": 179240,
+      "num": 179556,
       "word": "者来女 玩得起",
       "onboard_time": 1754065341,
       "rank": 27,
@@ -16827,12 +16827,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 109781,
+      "num": 68904,
+      "word": "真的有人会为了三块钱站一下午",
+      "onboard_time": 1754067439,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 109656,
       "num": 109656,
       "word": "原来这才是大厂人的工作现状",
       "onboard_time": 1753756162,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109638,
+      "num": 109638,
+      "word": "第一次见这么糊弄观众的综艺",
+      "onboard_time": 1754066240,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 109533,
@@ -17411,14 +17427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 102389,
-      "num": 56468,
-      "word": "真的有人会为了三块钱站一下午",
-      "onboard_time": 1754067439,
-      "rank": 30,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 102281,
       "num": 102281,
       "word": "狗 为了你我变成狼人模样",
@@ -17849,14 +17857,6 @@
       "onboard_time": 1753755562,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94487,
-      "num": 94487,
-      "word": "第一次见这么糊弄观众的综艺",
-      "onboard_time": 1754066240,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 94452,
@@ -18939,6 +18939,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 65464,
+      "num": 65464,
+      "word": "百草枯涨价",
+      "onboard_time": 1754066659,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65158,
       "num": 300952,
       "word": "王楚钦乒超第二阶段男单五连胜",
@@ -18993,14 +19001,6 @@
       "onboard_time": 1753847724,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 63703,
-      "num": 63703,
-      "word": "百草枯涨价",
-      "onboard_time": 1754066659,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 63325,
@@ -19153,6 +19153,14 @@
       "onboard_time": 1753890683,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59066,
+      "num": 59066,
+      "word": "当我放弃微信聊天记录",
+      "onboard_time": 1754068938,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 59050,
@@ -19779,14 +19787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44620,
-      "num": 44620,
-      "word": "当我放弃微信聊天记录",
-      "onboard_time": 1754068938,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 44615,
       "num": 293363,
       "word": "遭华尔道夫酒店驱赶女子望酒店道歉",
@@ -19913,6 +19913,14 @@
       "onboard_time": 1753979481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41718,
+      "num": 41718,
+      "word": "用牛皮雕刻了800个人的肚脐眼儿",
+      "onboard_time": 1754070197,
+      "rank": 41,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 41395,
@@ -20177,6 +20185,14 @@
       "onboard_time": 1753794085,
       "rank": 39,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 35377,
+      "num": 40187,
+      "word": "有人创业拍AI短剧月入300万",
+      "onboard_time": 1754070316,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35292,
