@@ -1,0 +1,410 @@
+{
+  "runTime": 1754026635690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151870,
+        "num": 1184299,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 917223,
+        "num": 917223,
+        "word": "微信支付 遗失提醒",
+        "onboard_time": 1754010322,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60574,
+        "num": 755101,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 696453,
+        "num": 696453,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 691765,
+        "num": 691765,
+        "word": "张碧晨新加坡演唱会上座率",
+        "onboard_time": 1754011461,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 491222,
+        "num": 656899,
+        "word": "被熟虾咬伤的概率不再是0",
+        "onboard_time": 1754018422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655510,
+        "num": 655510,
+        "word": "罗予彤向粉丝道歉",
+        "onboard_time": 1754022803,
+        "rank": 6,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 630305,
+        "num": 630305,
+        "word": "高以翔的狗狗去世了",
+        "onboard_time": 1754023882,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562479,
+        "num": 562479,
+        "word": "娜扎 我哪一次不好看",
+        "onboard_time": 1754021482,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50597,
+        "num": 494939,
+        "word": "3起发布虚假警情通报案件被查处",
+        "onboard_time": 1754025802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684731,
+        "num": 488164,
+        "word": "武汉大学保持沉默",
+        "onboard_time": 1754022742,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468284,
+        "num": 468284,
+        "word": "微信提现手续费下限调为0.01元",
+        "onboard_time": 1754025143,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 465283,
+        "num": 465283,
+        "word": "梨型身材的人坐下后的裤腰",
+        "onboard_time": 1754022022,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420684,
+        "num": 420684,
+        "word": "电视上看着一般般真人巨帅",
+        "onboard_time": 1754021241,
+        "rank": 13,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 381821,
+        "num": 381821,
+        "word": "与军人解除婚约拒还16.6万彩礼",
+        "onboard_time": 1754024482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353699,
+        "num": 353699,
+        "word": "一文梳理武汉大学图书馆事件",
+        "onboard_time": 1754020941,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350974,
+        "num": 350974,
+        "word": "鞠婧祎超话",
+        "onboard_time": 1754021903,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348824,
+        "num": 348824,
+        "word": "人民海军湖北舰来啦",
+        "onboard_time": 1754022502,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 192415,
+        "num": 328189,
+        "word": "零跑汽车7月销量首破5万台",
+        "onboard_time": 1754024603,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 324298,
+        "num": 324298,
+        "word": "木苏里开新文",
+        "onboard_time": 1754021241,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 293868,
+        "num": 293868,
+        "word": "女子148万分开存骗子只转走600元",
+        "onboard_time": 1754025444,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292963,
+        "num": 292963,
+        "word": "刘浩存收信还核对人脸",
+        "onboard_time": 1754023403,
+        "rank": 21,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 276538,
+        "num": 276538,
+        "word": "花4000去演唱会扫厕所",
+        "onboard_time": 1754024603,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210653,
+        "num": 210653,
+        "word": "黑灯说D座是残疾人专座",
+        "onboard_time": 1754026042,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209087,
+        "num": 209087,
+        "word": "阿吱阿吱 王鹤棣宋祖儿",
+        "onboard_time": 1754026042,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206160,
+        "num": 206160,
+        "word": "27岁女子35楼坠落两次缓冲赢生机",
+        "onboard_time": 1754021662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203786,
+        "num": 203786,
+        "word": "这是请了所有古装剧坏老头吗",
+        "onboard_time": 1754024123,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188693,
+        "num": 188693,
+        "word": "张馨予说热巴演得好",
+        "onboard_time": 1754018182,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175860,
+        "num": 175860,
+        "word": "李诞抖音评论区",
+        "onboard_time": 1754026402,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175627,
+        "num": 175627,
+        "word": "看演唱会被同担扫了5w换座位",
+        "onboard_time": 1754021241,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172520,
+        "num": 172520,
+        "word": "高伟光直播被气到撕台本",
+        "onboard_time": 1754023283,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170723,
+        "num": 170723,
+        "word": "录取通知书 南极海水",
+        "onboard_time": 1754012063,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165164,
+        "num": 165164,
+        "word": "猫咪去世前一天用按钮和我告别",
+        "onboard_time": 1754015000,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163869,
+        "num": 163869,
+        "word": "追星女是不会轻易辞职的",
+        "onboard_time": 1754023042,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159750,
+        "num": 159750,
+        "word": "万妮达严浩翔冠军导师",
+        "onboard_time": 1754006721,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157550,
+        "num": 157550,
+        "word": "近期3起恶性造谣传谣案件披露",
+        "onboard_time": 1754024123,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155204,
+        "num": 155204,
+        "word": "巧乐兹中间的巧克力",
+        "onboard_time": 1754024842,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "陈楚生11首选曲11种致敬",
+        "onboard_time": 1754025083,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116413,
+        "num": 133497,
+        "word": "陈星旭4岁演哭戏的秘诀",
+        "onboard_time": 1754025323,
+        "rank": 38,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 133405,
+        "num": 133405,
+        "word": "杨幂裤脚",
+        "onboard_time": 1754013982,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130750,
+        "num": 130750,
+        "word": "释永信亲戚曾想在老家村里盖庙",
+        "onboard_time": 1754024842,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130242,
+        "num": 130242,
+        "word": "关税",
+        "onboard_time": 1754013501,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129880,
+        "num": 129880,
+        "word": "定风波今日开播",
+        "onboard_time": 1754024181,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128961,
+        "num": 128961,
+        "word": "毕雯珺说张予曦妈妈做饭太香了",
+        "onboard_time": 1754026462,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128944,
+        "num": 128944,
+        "word": "十年前的EXO北京场好像上辈子",
+        "onboard_time": 1754020702,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115927,
+        "num": 127195,
+        "word": "王者荣耀",
+        "onboard_time": 1754023942,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126388,
+        "num": 126388,
+        "word": "鸟鸟 我现在是世界的旁观者",
+        "onboard_time": 1754026522,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124622,
+        "num": 124622,
+        "word": "眼影不上色 发霉",
+        "onboard_time": 1754025622,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119696,
+        "num": 119696,
+        "word": "男子去世消失12年妻子出现要分钱",
+        "onboard_time": 1754009962,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118515,
+        "num": 118515,
+        "word": "灵笼",
+        "onboard_time": 1754020222,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在建军节到来之际致以节日祝贺#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754023104133,
+  "endTime": 1754026635690,
   "band_list": [
     {
       "raw_hot": 1953149,
@@ -83,12 +83,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 684731,
+      "num": 488164,
+      "word": "武汉大学保持沉默",
+      "onboard_time": 1754022742,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 676867,
       "num": 386631,
       "word": "猫咪去世前一天用按钮和我告别",
       "onboard_time": 1754015000,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 655510,
+      "num": 655510,
+      "word": "罗予彤向粉丝道歉",
+      "onboard_time": 1754022803,
+      "rank": 28,
+      "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 630305,
+      "num": 630305,
+      "word": "高以翔的狗狗去世了",
+      "onboard_time": 1754023882,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 620696,
@@ -123,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562479,
+      "num": 562479,
+      "word": "娜扎 我哪一次不好看",
+      "onboard_time": 1754021482,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514079,
       "num": 514079,
       "word": "武大性骚扰案校方仍未撤处分",
       "onboard_time": 1754014221,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 506126,
-      "num": 506126,
-      "word": "娜扎 我哪一次不好看",
-      "onboard_time": 1754021482,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 493427,
@@ -171,6 +195,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468284,
+      "num": 468284,
+      "word": "微信提现手续费下限调为0.01元",
+      "onboard_time": 1754025143,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 465283,
+      "num": 465283,
+      "word": "梨型身材的人坐下后的裤腰",
+      "onboard_time": 1754022022,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455990,
       "num": 455990,
       "word": "张碧晨爱的史诗交响演唱会",
@@ -187,12 +227,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 420684,
+      "num": 420684,
+      "word": "电视上看着一般般真人巨帅",
+      "onboard_time": 1754021241,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 407916,
       "num": 407916,
       "word": "张馨予说热巴演得好",
       "onboard_time": 1754018182,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381821,
+      "num": 381821,
+      "word": "与军人解除婚约拒还16.6万彩礼",
+      "onboard_time": 1754024482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365668,
@@ -209,6 +265,22 @@
       "onboard_time": 1753998674,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353699,
+      "num": 353699,
+      "word": "一文梳理武汉大学图书馆事件",
+      "onboard_time": 1754020941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348824,
+      "num": 378227,
+      "word": "人民海军湖北舰来啦",
+      "onboard_time": 1754022502,
+      "rank": 10,
+      "category": "军事"
     },
     {
       "raw_hot": 345494,
@@ -267,6 +339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293868,
+      "num": 293868,
+      "word": "女子148万分开存骗子只转走600元",
+      "onboard_time": 1754025444,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292963,
+      "num": 292963,
+      "word": "刘浩存收信还核对人脸",
+      "onboard_time": 1754023403,
+      "rank": 21,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 291894,
       "num": 291894,
       "word": "昆明通报129名游客滞留服务区",
@@ -275,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274811,
-      "num": 339550,
-      "word": "一文梳理武汉大学图书馆事件",
-      "onboard_time": 1754020941,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 276538,
+      "num": 276538,
+      "word": "花4000去演唱会扫厕所",
+      "onboard_time": 1754024603,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 266209,
@@ -443,11 +531,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207883,
-      "num": 207883,
-      "word": "武汉大学保持沉默",
-      "onboard_time": 1754022742,
+      "raw_hot": 210653,
+      "num": 210653,
+      "word": "黑灯说D座是残疾人专座",
+      "onboard_time": 1754026042,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209087,
+      "num": 209087,
+      "word": "阿吱阿吱 王鹤棣宋祖儿",
+      "onboard_time": 1754026042,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206160,
+      "num": 206160,
+      "word": "27岁女子35楼坠落两次缓冲赢生机",
+      "onboard_time": 1754021662,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -457,6 +561,14 @@
       "onboard_time": 1754004199,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 203786,
+      "num": 203786,
+      "word": "这是请了所有古装剧坏老头吗",
+      "onboard_time": 1754024123,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 203674,
@@ -499,14 +611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199913,
-      "num": 199913,
-      "word": "罗予彤向粉丝道歉",
-      "onboard_time": 1754022803,
-      "rank": 28,
-      "category": "艺人,艺人"
-    },
-    {
       "raw_hot": 196151,
       "num": 196151,
       "word": "韩国coser到上海了",
@@ -529,6 +633,14 @@
       "onboard_time": 1753964302,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192415,
+      "num": 328189,
+      "word": "零跑汽车7月销量首破5万台",
+      "onboard_time": 1754024603,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 191489,
@@ -579,14 +691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 179281,
-      "num": 200732,
-      "word": "27岁女子35楼坠落两次缓冲赢生机",
-      "onboard_time": 1754021662,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178048,
       "num": 178048,
       "word": "美国将对加拿大关税上调至35%",
@@ -603,6 +707,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175860,
+      "num": 175860,
+      "word": "李诞抖音评论区",
+      "onboard_time": 1754026402,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175627,
+      "num": 175627,
+      "word": "看演唱会被同担扫了5w换座位",
+      "onboard_time": 1754021241,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174938,
       "num": 174938,
       "word": "女飞徐枫灿因颜值被质疑实力",
@@ -611,20 +731,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 172520,
+      "num": 172520,
+      "word": "高伟光直播被气到撕台本",
+      "onboard_time": 1754023283,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172226,
       "num": 172226,
       "word": "为什么耳朵这一圈总会有黄色分泌物",
       "onboard_time": 1754018782,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 171242,
-      "num": 378227,
-      "word": "人民海军湖北舰来啦",
-      "onboard_time": 1754022502,
-      "rank": 10,
-      "category": "军事"
     },
     {
       "raw_hot": 170513,
@@ -675,12 +795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164442,
-      "num": 165078,
-      "word": "电视上看着一般般真人巨帅",
-      "onboard_time": 1754021241,
-      "rank": 38,
-      "category": "艺人,艺人"
+      "raw_hot": 163869,
+      "num": 163869,
+      "word": "追星女是不会轻易辞职的",
+      "onboard_time": 1754023042,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 163671,
@@ -707,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160072,
-      "num": 160072,
-      "word": "梨型身材的人坐下后的裤腰",
-      "onboard_time": 1754022022,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159915,
       "num": 159915,
       "word": "马景涛16岁儿子或将出道",
@@ -729,6 +841,14 @@
       "onboard_time": 1754019082,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157550,
+      "num": 157550,
+      "word": "近期3起恶性造谣传谣案件披露",
+      "onboard_time": 1754024123,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157302,
@@ -753,6 +873,14 @@
       "onboard_time": 1754022022,
       "rank": 40,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 155204,
+      "num": 155204,
+      "word": "巧乐兹中间的巧克力",
+      "onboard_time": 1754024842,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 154251,
@@ -795,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147237,
-      "num": 147237,
-      "word": "看演唱会被同担扫了5w换座位",
-      "onboard_time": 1754021241,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 142646,
       "num": 142646,
       "word": "当你在韩国花10块人民币买一片西瓜",
@@ -835,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135988,
-      "num": 135988,
-      "word": "追星女是不会轻易辞职的",
-      "onboard_time": 1754023042,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135668,
       "num": 135668,
       "word": "黄子韬卸任公司执行董事职务",
@@ -859,12 +971,44 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 134089,
+      "num": 134089,
+      "word": "陈楚生11首选曲11种致敬",
+      "onboard_time": 1754025083,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132838,
       "num": 132838,
       "word": "30岁独居女性的真实生活",
       "onboard_time": 1754009841,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130750,
+      "num": 130750,
+      "word": "释永信亲戚曾想在老家村里盖庙",
+      "onboard_time": 1754024842,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129880,
+      "num": 129880,
+      "word": "定风波今日开播",
+      "onboard_time": 1754024181,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128961,
+      "num": 128961,
+      "word": "毕雯珺说张予曦妈妈做饭太香了",
+      "onboard_time": 1754026462,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 128050,
@@ -889,6 +1033,22 @@
       "onboard_time": 1754005039,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126388,
+      "num": 126388,
+      "word": "鸟鸟 我现在是世界的旁观者",
+      "onboard_time": 1754026522,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124622,
+      "num": 124622,
+      "word": "眼影不上色 发霉",
+      "onboard_time": 1754025622,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 123812,
@@ -929,6 +1089,22 @@
       "onboard_time": 1754011461,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 116413,
+      "num": 133497,
+      "word": "陈星旭4岁演哭戏的秘诀",
+      "onboard_time": 1754025323,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 115927,
+      "num": 127195,
+      "word": "王者荣耀",
+      "onboard_time": 1754023942,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 113769,
@@ -1289,6 +1465,14 @@
       "onboard_time": 1754005280,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50597,
+      "num": 494939,
+      "word": "3起发布虚假警情通报案件被查处",
+      "onboard_time": 1754025802,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48176,
