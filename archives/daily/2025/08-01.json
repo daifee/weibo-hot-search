@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754048477109,
+  "endTime": 1754053076936,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -41,6 +41,14 @@
       "onboard_time": 1754010322,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1882347,
+      "num": 1882347,
+      "word": "歌手直播",
+      "onboard_time": 1754047223,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1778162,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1072484,
+      "num": 1072484,
+      "word": "删了的QQ空间说说复活了",
+      "onboard_time": 1754048062,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1070282,
       "num": 1070282,
       "word": "张碧晨新加坡演唱会上座率",
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 948061,
+      "num": 948061,
+      "word": "覃海洋获200蛙冠军",
+      "onboard_time": 1754049863,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 887320,
       "num": 887320,
       "word": "宗馥莉暂不得挪用香港汇丰账户资产",
@@ -201,6 +225,14 @@
       "onboard_time": 1754034743,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 796829,
+      "num": 796829,
+      "word": "酱子贝 融梗",
+      "onboard_time": 1754051482,
+      "rank": 5,
+      "category": "读书作家,电竞"
     },
     {
       "raw_hot": 791992,
@@ -235,12 +267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 749733,
+      "num": 749733,
+      "word": "歌手不标原唱",
+      "onboard_time": 1754051003,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739156,
       "num": 739156,
       "word": "陈芋汐谈全红婵不在身边",
       "onboard_time": 1754031802,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 736244,
+      "num": 736244,
+      "word": "林志炫回来了",
+      "onboard_time": 1754052023,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 723667,
@@ -395,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520239,
+      "num": 520239,
+      "word": "单依纯主持",
+      "onboard_time": 1754050462,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 517564,
+      "num": 690502,
+      "word": "尹锡悦只穿内衣躺牢房地板上拒捕",
+      "onboard_time": 1754047523,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 514079,
       "num": 514079,
       "word": "武大性骚扰案校方仍未撤处分",
@@ -451,6 +515,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 467911,
+      "num": 467911,
+      "word": "ALin 编曲",
+      "onboard_time": 1754050823,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463708,
       "num": 725541,
       "word": "美宣布对台湾地区征收20%关税",
@@ -459,20 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 457073,
-      "num": 457073,
-      "word": "歌手直播",
-      "onboard_time": 1754047223,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 455990,
       "num": 455990,
       "word": "张碧晨爱的史诗交响演唱会",
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 453113,
+      "num": 453113,
+      "word": "卫兰 紧张",
+      "onboard_time": 1754051602,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 425168,
@@ -531,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380072,
+      "num": 380072,
+      "word": "日本压抑感",
+      "onboard_time": 1754047343,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377631,
       "num": 377631,
       "word": "谷歌",
@@ -571,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353775,
+      "num": 239799,
+      "word": "疯狂动物城2 兔耳朵",
+      "onboard_time": 1754049562,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353699,
       "num": 353699,
       "word": "一文梳理武汉大学图书馆事件",
@@ -593,14 +681,6 @@
       "onboard_time": 1754041884,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 346959,
-      "num": 346959,
-      "word": "尹锡悦只穿内衣躺牢房地板上拒捕",
-      "onboard_time": 1754047523,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 345494,
@@ -633,6 +713,14 @@
       "onboard_time": 1754021241,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 332398,
+      "num": 254288,
+      "word": "宗馥莉方律师称应更关注杭州案子",
+      "onboard_time": 1754051602,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332349,
@@ -697,6 +785,14 @@
       "onboard_time": 1754023403,
       "rank": 21,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 298153,
+      "num": 224825,
+      "word": "到底是谁在买孙怡的拔黑头玩具",
+      "onboard_time": 1754051302,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 298106,
@@ -795,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264209,
+      "num": 285672,
+      "word": "遭对方亮证逼迫让路当事男子发声",
+      "onboard_time": 1754047523,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262921,
       "num": 220120,
       "word": "刘芸晒照帮儿子挽回颜值形象",
@@ -825,6 +929,14 @@
       "onboard_time": 1754017521,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254873,
+      "num": 209098,
+      "word": "张予曦 卢昱晓对不起",
+      "onboard_time": 1754053044,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250758,
@@ -929,6 +1041,14 @@
       "onboard_time": 1753979362,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228145,
+      "num": 202885,
+      "word": "深情眼大结局",
+      "onboard_time": 1754051542,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 226720,
@@ -1083,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208606,
+      "num": 200849,
+      "word": "井川里予电竞文女主有脸了",
+      "onboard_time": 1754052382,
+      "rank": 27,
+      "category": "网红,电竞"
+    },
+    {
       "raw_hot": 207857,
       "num": 207857,
       "word": "凉哈皮没别的",
@@ -1097,6 +1225,14 @@
       "onboard_time": 1754041822,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206489,
+      "num": 198178,
+      "word": "长期低碳 胰岛素抵抗",
+      "onboard_time": 1754052382,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206160,
@@ -1219,6 +1355,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 194807,
+      "num": 194807,
+      "word": "尊湃剽窃华为芯片技术遭重罚",
+      "onboard_time": 1754052683,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "婆婆把170万赠与儿媳遭6个子女怀疑",
@@ -1243,11 +1387,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 192383,
-      "num": 192383,
-      "word": "日本压抑感",
-      "onboard_time": 1754047343,
-      "rank": 40,
+      "raw_hot": 192042,
+      "num": 192042,
+      "word": "丈夫2年不回家妻子1人带4娃",
+      "onboard_time": 1754048243,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1459,6 +1603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 171947,
+      "num": 171947,
+      "word": "每人微信账户有1000元免费提现额度",
+      "onboard_time": 1754051123,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 171889,
       "num": 171889,
       "word": "无限暖暖称钱可慢慢赚游戏必须用心做",
@@ -1547,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165128,
+      "num": 165128,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1754049263,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164872,
       "num": 164872,
       "word": "灵笼",
@@ -1571,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164150,
+      "num": 157392,
+      "word": "穆祉丞送票",
+      "onboard_time": 1754052141,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163671,
       "num": 163671,
       "word": "成毅新歌致敬抗战胜利80周年",
@@ -1579,12 +1747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163312,
+      "num": 163312,
+      "word": "尹锡悦拒捕细节曝光",
+      "onboard_time": 1754048182,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163277,
       "num": 166093,
       "word": "鼠标女儿都看上家有儿女了",
       "onboard_time": 1754047523,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162712,
+      "num": 162712,
+      "word": "问界M8交付突破6万台",
+      "onboard_time": 1754052203,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 162589,
@@ -1691,6 +1875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156399,
+      "num": 143804,
+      "word": "赵今麦 宝宝恶女",
+      "onboard_time": 1754047282,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 156173,
       "num": 156173,
       "word": "袁立发视频辟谣袁立文学",
@@ -1739,20 +1931,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 151873,
-      "num": 151873,
-      "word": "删了的QQ空间说说复活了",
-      "onboard_time": 1754048062,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150987,
       "num": 150987,
       "word": "深情眼豆瓣开分5.7",
       "onboard_time": 1754041583,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150809,
+      "num": 198189,
+      "word": "谢霆锋看见烤箱里点火绷不住了",
+      "onboard_time": 1754052203,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 150487,
@@ -1819,6 +2011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 146272,
+      "num": 146272,
+      "word": "歌手选曲审美",
+      "onboard_time": 1754049983,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145502,
       "num": 145502,
       "word": "三大一小 三女一男",
@@ -1873,6 +2073,30 @@
       "onboard_time": 1754033602,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139535,
+      "num": 139535,
+      "word": "覃海洋给自己打一百分",
+      "onboard_time": 1754052501,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139281,
+      "num": 139281,
+      "word": "灵笼2内核的境界",
+      "onboard_time": 1754052563,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 138918,
+      "num": 138918,
+      "word": "黄宗泽称女友经常被妈妈骂走",
+      "onboard_time": 1754048783,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 138877,
@@ -1971,12 +2195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134556,
-      "num": 285672,
-      "word": "遭对方亮证逼迫让路当事男子发声",
-      "onboard_time": 1754047523,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 134635,
+      "num": 134635,
+      "word": "王星越原声台词",
+      "onboard_time": 1754052023,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 134290,
@@ -2033,6 +2257,14 @@
       "onboard_time": 1754029702,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132446,
+      "num": 132446,
+      "word": "覃海洋说计划没变准备夺冠",
+      "onboard_time": 1754052923,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131221,
@@ -2115,14 +2347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127386,
-      "num": 136413,
-      "word": "赵今麦 宝宝恶女",
-      "onboard_time": 1754047282,
-      "rank": 38,
-      "category": "艺人,艺人"
-    },
-    {
       "raw_hot": 127013,
       "num": 127013,
       "word": "Rapeter淘汰",
@@ -2145,6 +2369,14 @@
       "onboard_time": 1754041341,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126031,
+      "num": 126031,
+      "word": "左眼跳财 右眼跳相信科学",
+      "onboard_time": 1754049562,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 125933,
@@ -2187,28 +2419,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122638,
-      "num": 145006,
-      "word": "尹锡悦拒捕细节曝光",
-      "onboard_time": 1754048182,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122162,
       "num": 122162,
       "word": "贺鑫隆排名",
       "onboard_time": 1754014402,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121398,
-      "num": 121398,
-      "word": "丈夫2年不回家妻子1人带4娃",
-      "onboard_time": 1754048243,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120475,
@@ -2905,6 +3121,14 @@
       "onboard_time": 1754025802,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49588,
+      "num": 162809,
+      "word": "孙杨受伤也不停练",
+      "onboard_time": 1754052803,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 48176,
