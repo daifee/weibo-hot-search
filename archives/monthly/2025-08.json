@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754033634893,
+  "endTime": 1754034445249,
   "band_list": [
     {
       "raw_hot": 1953149,
@@ -35,7 +35,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1485896,
+      "raw_hot": 1510012,
       "num": 798874,
       "word": "张馨予何捷结婚七周年",
       "onboard_time": 1754027902,
@@ -91,8 +91,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 954526,
+      "num": 1152724,
+      "word": "柴鸡蛋主页已无作品",
+      "onboard_time": 1754032042,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 867979,
-      "num": 580023,
+      "num": 600710,
       "word": "TF四代 超载",
       "onboard_time": 1754029342,
       "rank": 7,
@@ -123,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 741017,
-      "num": 741017,
-      "word": "柴鸡蛋主页已无作品",
-      "onboard_time": 1754032042,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 739156,
+      "num": 739156,
+      "word": "陈芋汐谈全红婵不在身边",
+      "onboard_time": 1754031802,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 723667,
@@ -155,8 +163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 716326,
-      "num": 514938,
+      "raw_hot": 716844,
+      "num": 716844,
       "word": "私人厨师称林青霞一顿至少8个菜",
       "onboard_time": 1754029941,
       "rank": 32,
@@ -251,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 533707,
-      "num": 533707,
-      "word": "陈芋汐谈全红婵不在身边",
-      "onboard_time": 1754031802,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 527875,
+      "num": 421157,
+      "word": "双修",
+      "onboard_time": 1754032584,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 514079,
@@ -299,8 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461608,
-      "num": 461608,
+      "raw_hot": 463708,
+      "num": 725541,
       "word": "美宣布对台湾地区征收20%关税",
       "onboard_time": 1754031501,
       "rank": 26,
@@ -313,6 +321,14 @@
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 428210,
+      "num": 428210,
+      "word": "快递员儿子放弃北大报考西湖大学",
+      "onboard_time": 1754032282,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 422515,
@@ -427,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 314501,
-      "num": 314501,
-      "word": "双修",
-      "onboard_time": 1754032584,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 303914,
       "num": 459352,
       "word": "人民军队时刻准备着",
@@ -483,6 +491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 269935,
+      "num": 461640,
+      "word": "谁懂这滴南极海水的浪漫",
+      "onboard_time": 1754031564,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266209,
       "num": 132119,
       "word": "李明德砸车事件车主获赔20万",
@@ -497,14 +513,6 @@
       "onboard_time": 1753972105,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261990,
-      "num": 261990,
-      "word": "快递员儿子放弃北大报考西湖大学",
-      "onboard_time": 1754032282,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 261589,
@@ -561,6 +569,14 @@
       "onboard_time": 1754007861,
       "rank": 17,
       "category": "军事"
+    },
+    {
+      "raw_hot": 244562,
+      "num": 244562,
+      "word": "ACT对战GW",
+      "onboard_time": 1754033842,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 236171,
@@ -643,6 +659,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 216411,
+      "num": 180763,
+      "word": "湖北退出航母命名争夺战",
+      "onboard_time": 1754033001,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 215806,
       "num": 215806,
       "word": "泡水饮料 不能喝",
@@ -691,12 +715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209274,
+      "num": 209274,
+      "word": "梁靖崑退出横滨冠军赛",
+      "onboard_time": 1754033962,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209041,
       "num": 209041,
       "word": "李沁也躲不过offer7的早八",
       "onboard_time": 1754031740,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207857,
+      "num": 207857,
+      "word": "凉哈皮没别的",
+      "onboard_time": 1754033842,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 206160,
@@ -851,14 +891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 187318,
-      "num": 461640,
-      "word": "谁懂这滴南极海水的浪漫",
-      "onboard_time": 1754031564,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186635,
       "num": 128081,
       "word": "哈尔滨震感",
@@ -907,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180763,
-      "num": 180763,
-      "word": "湖北退出航母命名争夺战",
-      "onboard_time": 1754033001,
-      "rank": 31,
-      "category": "军事"
+      "raw_hot": 182074,
+      "num": 182074,
+      "word": "日本社会整体在沉沦",
+      "onboard_time": 1754032763,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 178048,
@@ -961,6 +993,14 @@
       "onboard_time": 1754018782,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 170629,
+      "num": 170629,
+      "word": "杨洋 抱歉了封岳我是破岳",
+      "onboard_time": 1754033182,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 170513,
@@ -1075,14 +1115,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 160330,
-      "num": 160330,
-      "word": "日本社会整体在沉沦",
-      "onboard_time": 1754032763,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160315,
       "num": 179009,
       "word": "给谢霆锋一点猪屁股震撼",
@@ -1139,20 +1171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156979,
+      "num": 156979,
+      "word": "百万粉博主编造自杀离世视频",
+      "onboard_time": 1754032222,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156173,
       "num": 156173,
       "word": "袁立发视频辟谣袁立文学",
       "onboard_time": 1754022022,
       "rank": 40,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 155577,
-      "num": 155577,
-      "word": "百万粉博主编造自杀离世视频",
-      "onboard_time": 1754032222,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155204,
@@ -1227,20 +1259,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139535,
+      "num": 139535,
+      "word": "前国足主帅分不清徐州苏州",
+      "onboard_time": 1754033602,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138877,
+      "num": 138877,
+      "word": "恋与深空",
+      "onboard_time": 1754030902,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138823,
       "num": 138823,
       "word": "德国工业教育的绝望",
       "onboard_time": 1754019742,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 138796,
-      "num": 138796,
-      "word": "杨洋 抱歉了封岳我是破岳",
-      "onboard_time": 1754033182,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 138133,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1754029822,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137407,
+      "num": 137407,
+      "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+      "onboard_time": 1754034142,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135668,
@@ -1299,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133630,
+      "num": 133630,
+      "word": "余承恩被丞磊骗到半夜惊坐",
+      "onboard_time": 1754033001,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132838,
       "num": 132838,
       "word": "30岁独居女性的真实生活",
@@ -1313,6 +1369,22 @@
       "onboard_time": 1754029702,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132698,
+      "num": 132698,
+      "word": "21岁确诊抑郁症的躯体化表现",
+      "onboard_time": 1754034203,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131221,
+      "num": 131221,
+      "word": "张予曦邀请毕雯珺来我家那闺女",
+      "onboard_time": 1754034022,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130750,
@@ -1377,14 +1449,6 @@
       "onboard_time": 1754025622,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 123825,
-      "num": 123825,
-      "word": "余承恩被丞磊骗到半夜惊坐",
-      "onboard_time": 1754033001,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 123812,
@@ -1523,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111044,
-      "num": 111044,
-      "word": "前国足主帅分不清徐州苏州",
-      "onboard_time": 1754033602,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110442,
       "num": 110442,
       "word": "致敬人民子弟兵的守护",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1754012962,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96853,
+      "num": 151933,
+      "word": "刚毕业就月入过万的原因",
+      "onboard_time": 1754034083,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 96664,
@@ -1772,7 +1836,7 @@
     },
     {
       "raw_hot": 80791,
-      "num": 182486,
+      "num": 255255,
       "word": "在CJ骁龙馆找到了游戏真神装",
       "onboard_time": 1754032042,
       "rank": 28,
@@ -1899,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59050,
+      "num": 172633,
+      "word": "HPV预防科普亮相CJ展",
+      "onboard_time": 1754034022,
+      "rank": 28,
+      "category": "健康医疗,动漫"
+    },
+    {
       "raw_hot": 58833,
       "num": 58833,
       "word": "31天31件小事帮你成为更勇敢的人",
@@ -1961,6 +2033,14 @@
       "onboard_time": 1753969825,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47318,
+      "num": 152770,
+      "word": "武汉大学何时能还无辜学生清白",
+      "onboard_time": 1754034203,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46299,
