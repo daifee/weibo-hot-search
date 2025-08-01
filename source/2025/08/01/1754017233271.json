@@ -1,0 +1,410 @@
+{
+  "runTime": 1754017233271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661796,
+        "num": 1661796,
+        "word": "微信支付 遗失提醒",
+        "onboard_time": 1754010322,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1062187,
+        "num": 1062187,
+        "word": "张碧晨新加坡演唱会上座率",
+        "onboard_time": 1754011461,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 6510,
+        "num": 1036762,
+        "word": "我军新型潜艇远航任务画面首曝光",
+        "onboard_time": 1753922663,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1016515,
+        "num": 1016515,
+        "word": "录取通知书 南极海水",
+        "onboard_time": 1754012063,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 949396,
+        "num": 949396,
+        "word": "怎么不等微信下架再告诉我",
+        "onboard_time": 1753969763,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 723352,
+        "num": 723352,
+        "word": "关税",
+        "onboard_time": 1754013501,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 667676,
+        "num": 667676,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 620696,
+        "num": 620696,
+        "word": "杨幂裤脚",
+        "onboard_time": 1754013982,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493427,
+        "num": 573523,
+        "word": "95后女飞行员徐枫灿回应质疑",
+        "onboard_time": 1754013322,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 220738,
+        "num": 562131,
+        "word": "特朗普上调一连串关税",
+        "onboard_time": 1754016381,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 554170,
+        "num": 554170,
+        "word": "王琳被批与儿子相处方式太窒息",
+        "onboard_time": 1754009903,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514079,
+        "num": 514079,
+        "word": "武大性骚扰案校方仍未撤处分",
+        "onboard_time": 1754014221,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450213,
+        "num": 450213,
+        "word": "万妮达严浩翔冠军导师",
+        "onboard_time": 1754006721,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365668,
+        "num": 365668,
+        "word": "张元英开球",
+        "onboard_time": 1754011642,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 304159,
+        "num": 304159,
+        "word": "武大校长张平文回应学生性骚扰事件",
+        "onboard_time": 1754016262,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290093,
+        "num": 290093,
+        "word": "印度40岁男子娶13岁新娘被捕",
+        "onboard_time": 1754013982,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236783,
+        "num": 236783,
+        "word": "八一建军节",
+        "onboard_time": 1754010923,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235450,
+        "num": 235450,
+        "word": "少女时代完整体聚会",
+        "onboard_time": 1754013681,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227886,
+        "num": 227886,
+        "word": "昆明将严肃处理涉事旅行社",
+        "onboard_time": 1754007861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222042,
+        "num": 222042,
+        "word": "SHarK总冠军",
+        "onboard_time": 1754009903,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219153,
+        "num": 219153,
+        "word": "八一主题MV祖国不会忘记",
+        "onboard_time": 1754007861,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 217373,
+        "num": 217373,
+        "word": "猫咪去世前一天用按钮和我告别",
+        "onboard_time": 1754015000,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213830,
+        "num": 213830,
+        "word": "男子去世消失12年妻子出现要分钱",
+        "onboard_time": 1754009962,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204909,
+        "num": 204909,
+        "word": "黄子韬公司成被执行人",
+        "onboard_time": 1754014341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202850,
+        "num": 202850,
+        "word": "时代少年团七月行程更新",
+        "onboard_time": 1754016501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202090,
+        "num": 202090,
+        "word": "李文严浩翔合照",
+        "onboard_time": 1754011401,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194899,
+        "num": 194899,
+        "word": "汪苏泷回应和韩红合唱年轮",
+        "onboard_time": 1754004620,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175451,
+        "num": 175451,
+        "word": "店员笑了两分钟才放进去",
+        "onboard_time": 1754008642,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174938,
+        "num": 174938,
+        "word": "女飞徐枫灿因颜值被质疑实力",
+        "onboard_time": 1754013381,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 170513,
+        "num": 170513,
+        "word": "啤酒 伟哥",
+        "onboard_time": 1754012901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169975,
+        "num": 169975,
+        "word": "敢当",
+        "onboard_time": 1754015301,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169448,
+        "num": 169448,
+        "word": "冯建宇工作室回归",
+        "onboard_time": 1754016801,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163738,
+        "num": 163738,
+        "word": "美国将对加拿大关税上调至35%",
+        "onboard_time": 1754010081,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159915,
+        "num": 159915,
+        "word": "马景涛16岁儿子或将出道",
+        "onboard_time": 1754015903,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151995,
+        "num": 151995,
+        "word": "小米汽车交付量超30000台",
+        "onboard_time": 1754015840,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147287,
+        "num": 147287,
+        "word": "胡可回应安吉留长发",
+        "onboard_time": 1754014521,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138576,
+        "num": 138576,
+        "word": "理想邀请乘龙卡车直播对撞",
+        "onboard_time": 1753972584,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131992,
+        "num": 131992,
+        "word": "央视曝光票务平台退款难乱象",
+        "onboard_time": 1753975882,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129654,
+        "num": 129654,
+        "word": "定风波",
+        "onboard_time": 1754014041,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127006,
+        "num": 127006,
+        "word": "韩国coser到上海了",
+        "onboard_time": 1754016981,
+        "rank": 39,
+        "category": "电竞,动漫"
+      },
+      {
+        "raw_hot": 121193,
+        "num": 121193,
+        "word": "我军台湾海峡应对外军挑衅画面曝光",
+        "onboard_time": 1754008521,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119633,
+        "num": 119633,
+        "word": "原来微信右上角的加号有这么多功能",
+        "onboard_time": 1754004318,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99823,
+        "num": 118002,
+        "word": "特斯拉停小区4个月5次受伤",
+        "onboard_time": 1754015962,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117469,
+        "num": 117469,
+        "word": "猫咪和汤2国服来了",
+        "onboard_time": 1754016082,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115678,
+        "num": 115678,
+        "word": "冷冻31年胚胎孕育婴儿诞生",
+        "onboard_time": 1753972764,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113955,
+        "num": 113955,
+        "word": "情绪稳定的人才是真疯了",
+        "onboard_time": 1754009601,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113769,
+        "num": 113769,
+        "word": "谢谢你们用生命拼来家国安宁",
+        "onboard_time": 1754007922,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113284,
+        "num": 113284,
+        "word": "Rapeter淘汰",
+        "onboard_time": 1754005039,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111075,
+        "num": 111075,
+        "word": "这就是明星基因吗",
+        "onboard_time": 1754015541,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101127,
+        "num": 101127,
+        "word": "南京照相馆",
+        "onboard_time": 1754012481,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#建军节到来之际习近平致以节日祝贺#"
+    }
+  }
+}

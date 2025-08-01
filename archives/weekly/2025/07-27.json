@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754015405971,
+  "endTime": 1754017233271,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -843,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1016515,
+      "num": 1016515,
+      "word": "录取通知书 南极海水",
+      "onboard_time": 1754012063,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1014855,
       "num": 1014855,
       "word": "体重仅35斤女生发视频求助",
@@ -969,14 +977,6 @@
       "onboard_time": 1753921943,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 933311,
-      "num": 933311,
-      "word": "录取通知书 南极海水",
-      "onboard_time": 1754012063,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 927426,
@@ -1476,11 +1476,19 @@
     },
     {
       "raw_hot": 723667,
-      "num": 326633,
+      "num": 554170,
       "word": "王琳被批与儿子相处方式太窒息",
       "onboard_time": 1754009903,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 723352,
+      "num": 723352,
+      "word": "关税",
+      "onboard_time": 1754013501,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 720031,
@@ -1731,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 667676,
+      "num": 667676,
+      "word": "第一个取消耳机孔的",
+      "onboard_time": 1754007801,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 666870,
       "num": 666870,
       "word": "我家那闺女",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1753677085,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 620696,
+      "num": 620696,
+      "word": "杨幂裤脚",
+      "onboard_time": 1754013982,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 618535,
@@ -2379,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514079,
+      "num": 514079,
+      "word": "武大性骚扰案校方仍未撤处分",
+      "onboard_time": 1754014221,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510242,
       "num": 510242,
       "word": "樊振东vs松岛辉空",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1753726456,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493427,
+      "num": 573523,
+      "word": "95后女飞行员徐枫灿回应质疑",
+      "onboard_time": 1754013322,
+      "rank": 14,
+      "category": "军事"
     },
     {
       "raw_hot": 492859,
@@ -2665,14 +2705,6 @@
       "onboard_time": 1753593202,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 461004,
-      "num": 461004,
-      "word": "第一个取消耳机孔的",
-      "onboard_time": 1754007801,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 460458,
@@ -3291,14 +3323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380850,
-      "num": 380850,
-      "word": "关税",
-      "onboard_time": 1754013501,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 378246,
       "num": 378246,
       "word": "深情眼你敢演我不敢看了",
@@ -3393,6 +3417,14 @@
       "onboard_time": 1753859304,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 365668,
+      "num": 365668,
+      "word": "张元英开球",
+      "onboard_time": 1754011642,
+      "rank": 12,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 365168,
@@ -4043,6 +4075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304159,
+      "num": 304159,
+      "word": "武大校长张平文回应学生性骚扰事件",
+      "onboard_time": 1754016262,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303690,
       "num": 303690,
       "word": "王宝强自传",
@@ -4185,6 +4225,14 @@
       "onboard_time": 1753994654,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290093,
+      "num": 290093,
+      "word": "印度40岁男子娶13岁新娘被捕",
+      "onboard_time": 1754013982,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 288878,
@@ -4483,14 +4531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271340,
-      "num": 271340,
-      "word": "张元英开球",
-      "onboard_time": 1754011642,
-      "rank": 12,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 271233,
       "num": 271233,
       "word": "太宰治",
@@ -4513,14 +4553,6 @@
       "onboard_time": 1753888823,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 268550,
-      "num": 268550,
-      "word": "武大性骚扰案校方仍未撤处分",
-      "onboard_time": 1754014221,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268394,
@@ -4689,14 +4721,6 @@
       "onboard_time": 1753970665,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 258341,
-      "num": 258341,
-      "word": "95后女飞行员徐枫灿回应质疑",
-      "onboard_time": 1754013322,
-      "rank": 14,
-      "category": "军事"
     },
     {
       "raw_hot": 258266,
@@ -5179,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235450,
+      "num": 235450,
+      "word": "少女时代完整体聚会",
+      "onboard_time": 1754013681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234817,
       "num": 234817,
       "word": "IVE全员开球",
@@ -5353,14 +5385,6 @@
       "onboard_time": 1753866683,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 228378,
-      "num": 228378,
-      "word": "杨幂裤脚",
-      "onboard_time": 1754013982,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 227972,
@@ -5555,6 +5579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220738,
+      "num": 562131,
+      "word": "特朗普上调一连串关税",
+      "onboard_time": 1754016381,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 220715,
       "num": 220715,
       "word": "这张脸已经权威到无关性别",
@@ -5665,6 +5697,14 @@
       "onboard_time": 1753665562,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217373,
+      "num": 217373,
+      "word": "猫咪去世前一天用按钮和我告别",
+      "onboard_time": 1754015000,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 217120,
@@ -6227,6 +6267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204909,
+      "num": 204909,
+      "word": "黄子韬公司成被执行人",
+      "onboard_time": 1754014341,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204606,
       "num": 204606,
       "word": "汪顺你的兵来了",
@@ -6329,6 +6377,14 @@
       "onboard_time": 1753853124,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202850,
+      "num": 202850,
+      "word": "时代少年团七月行程更新",
+      "onboard_time": 1754016501,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 202584,
@@ -6896,14 +6952,6 @@
       "word": "王一博回归板仔",
       "onboard_time": 1753960643,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 193507,
-      "num": 193507,
-      "word": "少女时代完整体聚会",
-      "onboard_time": 1754013681,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -8187,6 +8235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174938,
+      "num": 174938,
+      "word": "女飞徐枫灿因颜值被质疑实力",
+      "onboard_time": 1754013381,
+      "rank": 23,
+      "category": "军事"
+    },
+    {
       "raw_hot": 174824,
       "num": 140668,
       "word": "外卖员组团评论区感谢孙颖莎",
@@ -8531,12 +8587,28 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 170513,
+      "num": 170513,
+      "word": "啤酒 伟哥",
+      "onboard_time": 1754012901,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170124,
       "num": 170124,
       "word": "妇产科医生解读劣质卫生巾致癌风险",
       "onboard_time": 1753852044,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169975,
+      "num": 169975,
+      "word": "敢当",
+      "onboard_time": 1754015301,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 169741,
@@ -8579,20 +8651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169448,
+      "num": 169448,
+      "word": "冯建宇工作室回归",
+      "onboard_time": 1754016801,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169373,
       "num": 169373,
       "word": "樱木花道",
       "onboard_time": 1753541727,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169286,
-      "num": 169286,
-      "word": "女飞徐枫灿因颜值被质疑实力",
-      "onboard_time": 1754013381,
-      "rank": 23,
-      "category": "军事"
     },
     {
       "raw_hot": 169272,
@@ -9403,6 +9475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159915,
+      "num": 159915,
+      "word": "马景涛16岁儿子或将出道",
+      "onboard_time": 1754015903,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159876,
       "num": 159876,
       "word": "现在的女装是不是对宽松有什么误解",
@@ -10043,6 +10123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151995,
+      "num": 151995,
+      "word": "小米汽车交付量超30000台",
+      "onboard_time": 1754015840,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 151633,
       "num": 153257,
       "word": "台风竹节草在上海二次登陆",
@@ -10235,14 +10323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149904,
-      "num": 149904,
-      "word": "印度40岁男子娶13岁新娘被捕",
-      "onboard_time": 1754013982,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 149848,
       "num": 159726,
       "word": "田柾国又纹身了",
@@ -10419,14 +10499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148365,
-      "num": 148365,
-      "word": "黄子韬公司成被执行人",
-      "onboard_time": 1754014341,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148090,
       "num": 132663,
       "word": "张萌喊关晓彤李昀锐弟弟妹妹",
@@ -10481,6 +10553,14 @@
       "onboard_time": 1753873282,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147287,
+      "num": 147287,
+      "word": "胡可回应安吉留长发",
+      "onboard_time": 1754014521,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 147251,
@@ -10665,14 +10745,6 @@
       "onboard_time": 1753761565,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145650,
-      "num": 145650,
-      "word": "胡可回应安吉留长发",
-      "onboard_time": 1754014521,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 145515,
@@ -11512,14 +11584,6 @@
       "word": "少林寺没人摆摊卖香了",
       "onboard_time": 1753956083,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136669,
-      "num": 136669,
-      "word": "啤酒 伟哥",
-      "onboard_time": 1754012901,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -12691,6 +12755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127006,
+      "num": 127006,
+      "word": "韩国coser到上海了",
+      "onboard_time": 1754016981,
+      "rank": 39,
+      "category": "电竞,动漫"
+    },
+    {
       "raw_hot": 126977,
       "num": 126977,
       "word": "95后夫妻结婚6年存款100万",
@@ -13459,14 +13531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119667,
-      "num": 119667,
-      "word": "敢当",
-      "onboard_time": 1754015301,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 119627,
       "num": 119627,
       "word": "刘军一审获刑11年",
@@ -13657,6 +13721,14 @@
       "onboard_time": 1753776443,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117469,
+      "num": 117469,
+      "word": "猫咪和汤2国服来了",
+      "onboard_time": 1754016082,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 117401,
@@ -13971,6 +14043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113769,
+      "num": 113769,
+      "word": "谢谢你们用生命拼来家国安宁",
+      "onboard_time": 1754007922,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 113759,
       "num": 472411,
       "word": "get到易烊千玺风只用了一秒",
@@ -14176,6 +14256,14 @@
       "word": "艺考时期的刘轩丞",
       "onboard_time": 1753712904,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111075,
+      "num": 111075,
+      "word": "这就是明星基因吗",
+      "onboard_time": 1754015541,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -14475,14 +14563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 106784,
-      "num": 106784,
-      "word": "谢谢你们用生命拼来家国安宁",
-      "onboard_time": 1754007922,
-      "rank": 45,
-      "category": "军事"
-    },
-    {
       "raw_hot": 106732,
       "num": 106732,
       "word": "徐嘉余说想躺下但躺不下",
@@ -14641,14 +14721,6 @@
       "onboard_time": 1753797446,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 104624,
-      "num": 104624,
-      "word": "猫咪去世前一天用按钮和我告别",
-      "onboard_time": 1754015000,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 104607,
@@ -14977,6 +15049,14 @@
       "onboard_time": 1754010562,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99823,
+      "num": 118002,
+      "word": "特斯拉停小区4个月5次受伤",
+      "onboard_time": 1754015962,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99630,
