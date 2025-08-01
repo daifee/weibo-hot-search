@@ -1,0 +1,410 @@
+{
+  "runTime": 1754038388264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1116215,
+        "num": 1178594,
+        "word": "快递员儿子放弃北大报考西湖大学",
+        "onboard_time": 1754032282,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 838009,
+        "num": 838009,
+        "word": "柴鸡蛋主页已无作品",
+        "onboard_time": 1754032042,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41671,
+        "num": 507386,
+        "word": "锦绣山河有你心安",
+        "onboard_time": 1754020102,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1064546,
+        "num": 507328,
+        "word": "张馨予何捷结婚七周年",
+        "onboard_time": 1754027902,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506810,
+        "num": 506810,
+        "word": "陈芋汐谈全红婵不在身边",
+        "onboard_time": 1754031802,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476634,
+        "num": 476634,
+        "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
+        "onboard_time": 1754034142,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691450,
+        "num": 472131,
+        "word": "双修",
+        "onboard_time": 1754032584,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463655,
+        "num": 463655,
+        "word": "微信提现手续费下限调为0.01元",
+        "onboard_time": 1754025143,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 379012,
+        "num": 379012,
+        "word": "TF四代 超载",
+        "onboard_time": 1754029342,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273136,
+        "num": 374600,
+        "word": "上半年国内居民出游人次32.85亿",
+        "onboard_time": 1754037984,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883801,
+        "num": 374599,
+        "word": "21岁确诊抑郁症的躯体化表现",
+        "onboard_time": 1754034203,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 771936,
+        "num": 374596,
+        "word": "爱豆是怎么忍住不恋爱的",
+        "onboard_time": 1754034743,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 374578,
+        "num": 374578,
+        "word": "韦东奕已晋升北大长聘副教授",
+        "onboard_time": 1754036662,
+        "rank": 12,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 322005,
+        "num": 322005,
+        "word": "美宣布对台湾地区征收20%关税",
+        "onboard_time": 1754031501,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306249,
+        "num": 306249,
+        "word": "私人厨师称林青霞一顿至少8个菜",
+        "onboard_time": 1754029941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297339,
+        "num": 297339,
+        "word": "抓100个老婆视频博主被罚",
+        "onboard_time": 1754036062,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278920,
+        "num": 278920,
+        "word": "樊振东建军节发文",
+        "onboard_time": 1754037984,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273760,
+        "num": 273760,
+        "word": "吉赛尔买房",
+        "onboard_time": 1754035702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246135,
+        "num": 246135,
+        "word": "百万粉博主编造自杀离世视频",
+        "onboard_time": 1754032222,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33724,
+        "num": 245163,
+        "word": "喜单演员卡壳卡出名场面",
+        "onboard_time": 1754035642,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244986,
+        "num": 244986,
+        "word": "女子148万分开存骗子只转走600元",
+        "onboard_time": 1754025444,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222596,
+        "num": 222596,
+        "word": "第一个取消耳机孔的",
+        "onboard_time": 1754007801,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210867,
+        "num": 210867,
+        "word": "官方回应动物园冰柜内现大量动物尸体",
+        "onboard_time": 1754036422,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201493,
+        "num": 201493,
+        "word": "李诞抖音评论区",
+        "onboard_time": 1754026402,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195481,
+        "num": 195481,
+        "word": "李晟用十八张图演了部戏",
+        "onboard_time": 1754037202,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190043,
+        "num": 190043,
+        "word": "理想 乘龙",
+        "onboard_time": 1754032584,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180826,
+        "num": 180826,
+        "word": "瘦肚子 降皮质醇",
+        "onboard_time": 1754034983,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 178364,
+        "num": 178364,
+        "word": "24岁中国男子落地柬埔寨数小时内死亡",
+        "onboard_time": 1754028382,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166377,
+        "num": 166377,
+        "word": "湖北退出航母命名争夺战",
+        "onboard_time": 1754033001,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 141608,
+        "num": 165414,
+        "word": "陈丽君直播",
+        "onboard_time": 1754037083,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164785,
+        "num": 164785,
+        "word": "拼多多被判赔米哈游100万元",
+        "onboard_time": 1754035583,
+        "rank": 30,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 159505,
+        "num": 159505,
+        "word": "武汉大学何时能还无辜学生清白",
+        "onboard_time": 1754034203,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149314,
+        "num": 149314,
+        "word": "上半年国内居民出游花费3.15万亿元",
+        "onboard_time": 1754037984,
+        "rank": 32,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 148234,
+        "num": 148234,
+        "word": "无限暖暖把骑龙价格打下来",
+        "onboard_time": 1754034802,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134641,
+        "num": 134641,
+        "word": "人民海军湖北舰来啦",
+        "onboard_time": 1754022502,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134364,
+        "num": 134364,
+        "word": "日本社会整体在沉沦",
+        "onboard_time": 1754032763,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132523,
+        "num": 132523,
+        "word": "李沁脸上看不到一点班味",
+        "onboard_time": 1754035402,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130736,
+        "num": 130736,
+        "word": "恋与深空",
+        "onboard_time": 1754030902,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33960,
+        "num": 129827,
+        "word": "当我突然告诉朋友家人领证了",
+        "onboard_time": 1754037863,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114381,
+        "num": 129394,
+        "word": "微信长按2秒还有这么多隐藏功能",
+        "onboard_time": 1754037683,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 63325,
+        "num": 129347,
+        "word": "法国黑人和中东移民打起来了",
+        "onboard_time": 1754038283,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129346,
+        "num": 129346,
+        "word": "上海60岁女生花掉养老金的一天",
+        "onboard_time": 1754037984,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125607,
+        "num": 125607,
+        "word": "谁懂这滴南极海水的浪漫",
+        "onboard_time": 1754031564,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121794,
+        "num": 121794,
+        "word": "韩女子怀疑丈夫出轨将其生殖器切断",
+        "onboard_time": 1754031740,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120321,
+        "num": 120321,
+        "word": "女装 外模",
+        "onboard_time": 1754036002,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 118757,
+        "num": 118757,
+        "word": "女子报警硬刚清晨5点广场舞",
+        "onboard_time": 1754036842,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112027,
+        "num": 112027,
+        "word": "节食减肥运动减肥的区别真的很大",
+        "onboard_time": 1754036662,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111952,
+        "num": 111952,
+        "word": "建军节向最可爱的人说声谢谢",
+        "onboard_time": 1754031381,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 109460,
+        "num": 109460,
+        "word": "凡人修仙传 意识流双修",
+        "onboard_time": 1754035402,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104344,
+        "num": 104344,
+        "word": "韩安冉回应缺席优米周岁宴",
+        "onboard_time": 1754028742,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
