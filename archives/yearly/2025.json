@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754056616661,
+  "endTime": 1754058571218,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2291,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3946933,
+      "num": 3946933,
+      "word": "歌手晋级",
+      "onboard_time": 1754057303,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3939290,
       "num": 3939290,
       "word": "柯洁暴怒问裁判",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1748962645,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 3828682,
-      "num": 3828682,
-      "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
-      "onboard_time": 1739972602,
-      "rank": 0,
-      "category": "民生新闻,艺人"
     }
   ],
   "hotgov_list": [

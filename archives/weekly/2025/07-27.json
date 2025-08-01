@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754056616661,
+  "endTime": 1754058571218,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -65,6 +65,14 @@
       "onboard_time": 1753618822,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3946933,
+      "num": 3946933,
+      "word": "歌手晋级",
+      "onboard_time": 1754057303,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3861521,
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1057657,
+      "num": 620679,
+      "word": "张予曦 卢昱晓对不起",
+      "onboard_time": 1754053044,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1052907,
       "num": 1052907,
       "word": "女生苦练化妆一个月的变化",
@@ -913,14 +929,6 @@
       "onboard_time": 1753781424,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1036510,
-      "num": 592994,
-      "word": "张予曦 卢昱晓对不起",
-      "onboard_time": 1754053044,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1033612,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1753883785,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 909814,
+      "num": 332960,
+      "word": "Beni晋级",
+      "onboard_time": 1754057303,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 908818,
@@ -2331,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602089,
+      "num": 331263,
+      "word": "白举纲早这么唱不就不淘汰了",
+      "onboard_time": 1754056583,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590954,
       "num": 590954,
       "word": "坐高铁因为好奇选了静音车厢",
@@ -2931,6 +2955,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 486009,
+      "num": 345469,
+      "word": "傅首尔瘦了",
+      "onboard_time": 1754053284,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485116,
       "num": 485116,
       "word": "厦大通报学生辱骂国家运动员",
@@ -3041,6 +3073,14 @@
       "onboard_time": 1753938144,
       "rank": 17,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 473752,
+      "num": 473752,
+      "word": "官方通报奔驰司机亮证逼迫让路事件",
+      "onboard_time": 1754056883,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 472186,
@@ -3555,14 +3595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 409931,
-      "num": 345469,
-      "word": "傅首尔瘦了",
-      "onboard_time": 1754053284,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408454,
       "num": 408454,
       "word": "武大将调查复核肖某某纪律处分",
@@ -3947,6 +3979,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 365344,
+      "num": 262974,
+      "word": "lemon 复仇味",
+      "onboard_time": 1754056164,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365168,
       "num": 376198,
       "word": "民航版12306直销机票来了",
@@ -4225,6 +4265,14 @@
       "onboard_time": 1754043866,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339381,
+      "num": 339381,
+      "word": "中国游客在大阪遇袭",
+      "onboard_time": 1754056164,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 338864,
@@ -5299,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267556,
+      "num": 267556,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267414,
       "num": 384274,
       "word": "武汉大学图书馆事件多方皆输",
@@ -5465,14 +5521,6 @@
       "onboard_time": 1753780824,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259015,
-      "num": 259015,
-      "word": "lemon 复仇味",
-      "onboard_time": 1754056164,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 258880,
@@ -7819,6 +7867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196165,
+      "num": 266547,
+      "word": "上汽奥迪A5L上市正式售价25.59万",
+      "onboard_time": 1754057604,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196151,
       "num": 196151,
       "word": "韩国coser到上海了",
@@ -7833,6 +7889,14 @@
       "onboard_time": 1753622066,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195825,
+      "num": 192217,
+      "word": "杨紫朱亚文 玉兰花开君再来",
+      "onboard_time": 1754058263,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 195630,
@@ -9315,6 +9379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177695,
+      "num": 177695,
+      "word": "歌手排名",
+      "onboard_time": 1754057364,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177614,
       "num": 177614,
       "word": "演员吴静芝逝世",
@@ -9795,6 +9867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171801,
+      "num": 171801,
+      "word": "定风波热度",
+      "onboard_time": 1754058203,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171697,
       "num": 171697,
       "word": "易烊千玺张艺兴电影节同框",
@@ -9873,14 +9953,6 @@
       "onboard_time": 1753927823,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170988,
-      "num": 170988,
-      "word": "中国游客在大阪遇袭",
-      "onboard_time": 1754056164,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 170869,
@@ -12019,6 +12091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148875,
+      "num": 148875,
+      "word": "27岁孕妈妈破水到顺利生产全过程",
+      "onboard_time": 1754057303,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148870,
       "num": 148870,
       "word": "这才是四大国乙",
@@ -12411,6 +12491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144954,
+      "num": 144954,
+      "word": "Rookie燃尽了",
+      "onboard_time": 1754057184,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144848,
       "num": 144848,
       "word": "敖诗",
@@ -12681,14 +12769,6 @@
       "onboard_time": 1753583841,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142521,
-      "num": 142521,
-      "word": "白举纲早这么唱不就不淘汰了",
-      "onboard_time": 1754056583,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 142455,
@@ -15787,6 +15867,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117053,
+      "num": 172646,
+      "word": "住酒店闻到异味竟是一条恶臭内裤",
+      "onboard_time": 1754058203,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116825,
       "num": 116825,
       "word": "诚C掌管自拍的神",
@@ -16201,6 +16289,14 @@
       "onboard_time": 1753766483,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113309,
+      "num": 264967,
+      "word": "鹿晗蓝紫渐变发色",
+      "onboard_time": 1754057663,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 113265,
@@ -17387,6 +17483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96747,
+      "num": 352828,
+      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
+      "onboard_time": 1754055802,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96691,
       "num": 272939,
       "word": "北京提醒防范山体崩塌",
@@ -17481,6 +17585,14 @@
       "onboard_time": 1753947864,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94833,
+      "num": 189379,
+      "word": "笙笙拍的于文文",
+      "onboard_time": 1754055444,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94749,
@@ -17713,6 +17825,14 @@
       "onboard_time": 1753744999,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86891,
+      "num": 172041,
+      "word": "丁克老太养老院被欺负找肌肉男出头",
+      "onboard_time": 1754057844,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86796,
@@ -18403,6 +18523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69453,
+      "num": 171896,
+      "word": "福州 佛山返回人员14天健康监测",
+      "onboard_time": 1754057724,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69064,
       "num": 288104,
       "word": "151位无名烈士有名字了",
@@ -18529,14 +18657,6 @@
       "onboard_time": 1753906934,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66018,
-      "num": 189379,
-      "word": "笙笙拍的于文文",
-      "onboard_time": 1754055444,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 65763,
@@ -18699,14 +18819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60910,
-      "num": 173331,
-      "word": "奔驰亮证姐真实身份不能视情况公布",
-      "onboard_time": 1754056403,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60584,
       "num": 60584,
       "word": "不晕车不符合生理常识",
@@ -18841,14 +18953,6 @@
       "onboard_time": 1753847905,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57479,
-      "num": 352828,
-      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
-      "onboard_time": 1754055802,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57430,
@@ -19505,6 +19609,14 @@
       "onboard_time": 1753979481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41746,
+      "num": 235963,
+      "word": "27岁抗日将领被砍下头颅8年后被找到",
+      "onboard_time": 1754058323,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41395,

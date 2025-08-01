@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754056616661,
+  "endTime": 1754058571218,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -25,6 +25,14 @@
       "onboard_time": 1754042484,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3946933,
+      "num": 3946933,
+      "word": "歌手晋级",
+      "onboard_time": 1754057303,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2356229,
@@ -147,8 +155,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1036510,
-      "num": 592994,
+      "raw_hot": 1057657,
+      "num": 620679,
       "word": "张予曦 卢昱晓对不起",
       "onboard_time": 1754053044,
       "rank": 23,
@@ -217,6 +225,14 @@
       "onboard_time": 1754049863,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 909814,
+      "num": 332960,
+      "word": "Beni晋级",
+      "onboard_time": 1754057303,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 887320,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602089,
+      "num": 331263,
+      "word": "白举纲早这么唱不就不淘汰了",
+      "onboard_time": 1754056583,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588815,
       "num": 588815,
       "word": "柴鸡蛋疑似还钱了",
@@ -507,6 +531,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 486009,
+      "num": 345469,
+      "word": "傅首尔瘦了",
+      "onboard_time": 1754053284,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484599,
       "num": 484599,
       "word": "央视曝光票务平台退款难乱象",
@@ -529,6 +561,14 @@
       "onboard_time": 1753964123,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473752,
+      "num": 473752,
+      "word": "官方通报奔驰司机亮证逼迫让路事件",
+      "onboard_time": 1754056883,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 470522,
@@ -603,14 +643,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 409931,
-      "num": 345469,
-      "word": "傅首尔瘦了",
-      "onboard_time": 1754053284,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408454,
       "num": 408454,
       "word": "武大将调查复核肖某某纪律处分",
@@ -673,6 +705,14 @@
       "onboard_time": 1754011642,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 365344,
+      "num": 262974,
+      "word": "lemon 复仇味",
+      "onboard_time": 1754056164,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 363664,
@@ -745,6 +785,14 @@
       "onboard_time": 1754043866,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339381,
+      "num": 339381,
+      "word": "中国游客在大阪遇袭",
+      "onboard_time": 1754056164,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 338864,
@@ -939,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267556,
+      "num": 267556,
+      "word": "奔驰亮证姐真实身份不能视情况公布",
+      "onboard_time": 1754056403,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267414,
       "num": 384274,
       "word": "武汉大学图书馆事件多方皆输",
@@ -993,14 +1049,6 @@
       "onboard_time": 1753963643,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259015,
-      "num": 259015,
-      "word": "lemon 复仇味",
-      "onboard_time": 1754056164,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 257412,
@@ -1443,12 +1491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196165,
+      "num": 266547,
+      "word": "上汽奥迪A5L上市正式售价25.59万",
+      "onboard_time": 1754057604,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196151,
       "num": 196151,
       "word": "韩国coser到上海了",
       "onboard_time": 1754016981,
       "rank": 39,
       "category": "电竞,动漫"
+    },
+    {
+      "raw_hot": 195825,
+      "num": 192217,
+      "word": "杨紫朱亚文 玉兰花开君再来",
+      "onboard_time": 1754058263,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 195481,
@@ -1691,6 +1755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177695,
+      "num": 177695,
+      "word": "歌手排名",
+      "onboard_time": 1754057364,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176131,
       "num": 176131,
       "word": "秦彻冗长的一生",
@@ -1755,12 +1827,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170988,
-      "num": 170988,
-      "word": "中国游客在大阪遇袭",
-      "onboard_time": 1754056164,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 171801,
+      "num": 171801,
+      "word": "定风波热度",
+      "onboard_time": 1754058203,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 170629,
@@ -2123,6 +2195,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 148875,
+      "num": 148875,
+      "word": "27岁孕妈妈破水到顺利生产全过程",
+      "onboard_time": 1754057303,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148640,
       "num": 148640,
       "word": "格格女王回宫",
@@ -2195,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144954,
+      "num": 144954,
+      "word": "Rookie燃尽了",
+      "onboard_time": 1754057184,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144465,
       "num": 144465,
       "word": "校方回应韦东奕已晋升北大长聘副教授",
@@ -2217,14 +2305,6 @@
       "onboard_time": 1754005760,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142521,
-      "num": 142521,
-      "word": "白举纲早这么唱不就不淘汰了",
-      "onboard_time": 1754056583,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 141528,
@@ -2683,6 +2763,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117053,
+      "num": 172646,
+      "word": "住酒店闻到异味竟是一条恶臭内裤",
+      "onboard_time": 1754058203,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116825,
       "num": 116825,
       "word": "诚C掌管自拍的神",
@@ -2777,6 +2865,14 @@
       "onboard_time": 1754007922,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 113309,
+      "num": 264967,
+      "word": "鹿晗蓝紫渐变发色",
+      "onboard_time": 1754057663,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 113167,
@@ -2955,6 +3051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96747,
+      "num": 352828,
+      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
+      "onboard_time": 1754055802,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96664,
       "num": 96664,
       "word": "蔡徐坤更新快拍",
@@ -2995,6 +3099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 94833,
+      "num": 189379,
+      "word": "笙笙拍的于文文",
+      "onboard_time": 1754055444,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93073,
       "num": 93073,
       "word": "最佳减重运动排行榜第一是跳绳",
@@ -3033,6 +3145,14 @@
       "onboard_time": 1753979660,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 86891,
+      "num": 172041,
+      "word": "丁克老太养老院被欺负找肌肉男出头",
+      "onboard_time": 1754057844,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86485,
@@ -3171,6 +3291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69453,
+      "num": 171896,
+      "word": "福州 佛山返回人员14天健康监测",
+      "onboard_time": 1754057724,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69017,
       "num": 69017,
       "word": "李兰迪发文告别秦莞",
@@ -3193,14 +3321,6 @@
       "onboard_time": 1753973664,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66018,
-      "num": 189379,
-      "word": "笙笙拍的于文文",
-      "onboard_time": 1754055444,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 65989,
@@ -3243,14 +3363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60910,
-      "num": 173331,
-      "word": "奔驰亮证姐真实身份不能视情况公布",
-      "onboard_time": 1754056403,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59050,
       "num": 172633,
       "word": "HPV预防科普亮相CJ展",
@@ -3273,14 +3385,6 @@
       "onboard_time": 1753973664,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 57479,
-      "num": 352828,
-      "word": "外国劝烟博主上海餐厅劝烟遭推搡",
-      "onboard_time": 1754055802,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57119,
@@ -3393,6 +3497,14 @@
       "onboard_time": 1753979481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41746,
+      "num": 235963,
+      "word": "27岁抗日将领被砍下头颅8年后被找到",
+      "onboard_time": 1754058323,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41626,
