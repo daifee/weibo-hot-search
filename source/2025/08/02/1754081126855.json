@@ -1,0 +1,410 @@
+{
+  "runTime": 1754081126855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 276157,
+        "num": 276157,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137530,
+        "num": 137530,
+        "word": "男孩错付车费轻生事件司机发声",
+        "onboard_time": 1754061083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1148,
+        "num": 106565,
+        "word": "第四批690亿元国补10月下达",
+        "onboard_time": 1754018842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76163,
+        "num": 76163,
+        "word": "奔驰亮证姐真实身份不能视情况公布",
+        "onboard_time": 1754056403,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66499,
+        "num": 66499,
+        "word": "酱子贝 融梗",
+        "onboard_time": 1754051482,
+        "rank": 4,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 116343,
+        "num": 65978,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54417,
+        "num": 54417,
+        "word": "删了的QQ空间说说复活了",
+        "onboard_time": 1754048062,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52560,
+        "num": 52560,
+        "word": "官方通报奔驰司机亮证逼迫让路事件",
+        "onboard_time": 1754056883,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51375,
+        "num": 51375,
+        "word": "歌手晋级",
+        "onboard_time": 1754057303,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33387,
+        "num": 45671,
+        "word": "井川里予电竞文女主有脸了",
+        "onboard_time": 1754052382,
+        "rank": 9,
+        "category": "网红,电竞"
+      },
+      {
+        "raw_hot": 40777,
+        "num": 40777,
+        "word": "武汉大学",
+        "onboard_time": 1754040982,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40716,
+        "num": 40716,
+        "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
+        "onboard_time": 1754063903,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40317,
+        "num": 40317,
+        "word": "女子假装病死分饰7角诈骗再婚丈夫",
+        "onboard_time": 1754065522,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31801,
+        "num": 31801,
+        "word": "武大将调查复核杨某某学位论文",
+        "onboard_time": 1754040622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30719,
+        "num": 30719,
+        "word": "世界之外",
+        "onboard_time": 1754073315,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30131,
+        "num": 30131,
+        "word": "张翰终于演对角色了",
+        "onboard_time": 1754040142,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29815,
+        "num": 29815,
+        "word": "当我放弃微信聊天记录",
+        "onboard_time": 1754068938,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24307,
+        "num": 29786,
+        "word": "深情眼大结局",
+        "onboard_time": 1754051542,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23901,
+        "num": 29321,
+        "word": "第一次见这么糊弄观众的综艺",
+        "onboard_time": 1754066240,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23731,
+        "num": 28736,
+        "word": "张雅钦鹿晗演唱会应援妆",
+        "onboard_time": 1754059222,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44758,
+        "num": 28498,
+        "word": "男子与军人配偶同居致其怀孕",
+        "onboard_time": 1754067140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28265,
+        "num": 28265,
+        "word": "真的有人会为了三块钱站一下午",
+        "onboard_time": 1754067439,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 25543,
+        "num": 25543,
+        "word": "武大已组建工作专班",
+        "onboard_time": 1754043866,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22990,
+        "num": 22990,
+        "word": "中餐厅",
+        "onboard_time": 1754064323,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22363,
+        "num": 22363,
+        "word": "每人微信账户有1000元免费提现额度",
+        "onboard_time": 1754051123,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21955,
+        "num": 21955,
+        "word": "白桦树汁凭啥身价暴涨",
+        "onboard_time": 1754066659,
+        "rank": 25,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 21788,
+        "num": 21788,
+        "word": "战至巅峰",
+        "onboard_time": 1754056284,
+        "rank": 26,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 20679,
+        "num": 20679,
+        "word": "30余网红受邀参加活动遇山洪",
+        "onboard_time": 1754074756,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19929,
+        "num": 19929,
+        "word": "傅首尔瘦了",
+        "onboard_time": 1754053284,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19236,
+        "num": 19236,
+        "word": "我可以在商场的负一层过完一生",
+        "onboard_time": 1754070677,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18892,
+        "num": 18892,
+        "word": "百草枯涨价",
+        "onboard_time": 1754066659,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18857,
+        "num": 18857,
+        "word": "歌手直播",
+        "onboard_time": 1754047223,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17744,
+        "num": 17744,
+        "word": "终于有人吐槽鸡兔同笼这个问题了",
+        "onboard_time": 1754079674,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17343,
+        "num": 17343,
+        "word": "张予曦 卢昱晓对不起",
+        "onboard_time": 1754053044,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17341,
+        "num": 17341,
+        "word": "住酒店闻到异味竟是一条恶臭内裤",
+        "onboard_time": 1754058203,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17338,
+        "num": 17338,
+        "word": "等比例长大的花花",
+        "onboard_time": 1754072115,
+        "rank": 35,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 16942,
+        "num": 16942,
+        "word": "他在哄你的时候也在收集离开你的碎片",
+        "onboard_time": 1754076375,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16343,
+        "num": 16343,
+        "word": "者来女开口雷蒂娅",
+        "onboard_time": 1754055683,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16241,
+        "num": 16241,
+        "word": "微博就是我的朋友圈",
+        "onboard_time": 1754075114,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15819,
+        "num": 15819,
+        "word": "新版医务人员职业道德准则",
+        "onboard_time": 1754077514,
+        "rank": 39,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 15662,
+        "num": 15662,
+        "word": "Beni晋级",
+        "onboard_time": 1754057303,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15615,
+        "num": 15615,
+        "word": "李佳薇就该唱高音",
+        "onboard_time": 1754053463,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15526,
+        "num": 15526,
+        "word": "沈梦辰怎么美成这样",
+        "onboard_time": 1754060423,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15245,
+        "num": 15245,
+        "word": "日本压抑感",
+        "onboard_time": 1754047343,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15155,
+        "num": 15155,
+        "word": "者来女 玩得起",
+        "onboard_time": 1754065341,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15133,
+        "num": 15133,
+        "word": "杨紫朱亚文 玉兰花开君再来",
+        "onboard_time": 1754058263,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15031,
+        "num": 15031,
+        "word": "歌手不标原唱",
+        "onboard_time": 1754051003,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14937,
+        "num": 14937,
+        "word": "王者荣耀 白泽",
+        "onboard_time": 1754062462,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14792,
+        "num": 14792,
+        "word": "折月亮",
+        "onboard_time": 1754062702,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13907,
+        "num": 14792,
+        "word": "令人心动的offer",
+        "onboard_time": 1754055024,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
