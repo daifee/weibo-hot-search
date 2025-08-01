@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754076254672,
+  "endTime": 1754077060550,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -20841,6 +20841,14 @@
       "onboard_time": 1753816694,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17914,
+      "num": 17914,
+      "word": "他在哄你的时候也在收集离开你的碎片",
+      "onboard_time": 1754076375,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 17263,
