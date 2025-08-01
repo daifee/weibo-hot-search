@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754026635690,
+  "endTime": 1754027703137,
   "band_list": [
     {
       "raw_hot": 1953149,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 914817,
+      "num": 914817,
+      "word": "微信提现手续费下限调为0.01元",
+      "onboard_time": 1754025143,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 791992,
       "num": 791992,
       "word": "被熟虾咬伤的概率不再是0",
@@ -83,8 +91,24 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 720686,
+      "num": 720686,
+      "word": "与军人解除婚约拒还16.6万彩礼",
+      "onboard_time": 1754024482,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 688073,
+      "num": 688073,
+      "word": "高以翔的狗狗去世了",
+      "onboard_time": 1754023882,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684731,
-      "num": 488164,
+      "num": 555301,
       "word": "武汉大学保持沉默",
       "onboard_time": 1754022742,
       "rank": 23,
@@ -99,20 +123,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 660379,
+      "num": 660379,
+      "word": "梨型身材的人坐下后的裤腰",
+      "onboard_time": 1754022022,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 655510,
       "num": 655510,
       "word": "罗予彤向粉丝道歉",
       "onboard_time": 1754022803,
       "rank": 28,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 630305,
-      "num": 630305,
-      "word": "高以翔的狗狗去世了",
-      "onboard_time": 1754023882,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 620696,
@@ -195,28 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 468284,
-      "num": 468284,
-      "word": "微信提现手续费下限调为0.01元",
-      "onboard_time": 1754025143,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 465283,
-      "num": 465283,
-      "word": "梨型身材的人坐下后的裤腰",
-      "onboard_time": 1754022022,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 455990,
       "num": 455990,
       "word": "张碧晨爱的史诗交响演唱会",
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 442777,
+      "num": 442777,
+      "word": "李诞抖音评论区",
+      "onboard_time": 1754026402,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 422515,
@@ -243,20 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381821,
-      "num": 381821,
-      "word": "与军人解除婚约拒还16.6万彩礼",
-      "onboard_time": 1754024482,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365668,
       "num": 365668,
       "word": "张元英开球",
       "onboard_time": 1754011642,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 364024,
+      "num": 364024,
+      "word": "阿吱阿吱 王鹤棣宋祖儿",
+      "onboard_time": 1754026042,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 355767,
@@ -539,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209087,
-      "num": 209087,
-      "word": "阿吱阿吱 王鹤棣宋祖儿",
-      "onboard_time": 1754026042,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206160,
       "num": 206160,
       "word": "27岁女子35楼坠落两次缓冲赢生机",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 192415,
-      "num": 328189,
+      "num": 352073,
       "word": "零跑汽车7月销量首破5万台",
       "onboard_time": 1754024603,
       "rank": 18,
@@ -683,6 +691,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 184385,
+      "num": 184385,
+      "word": "毕雯珺说张予曦妈妈做饭太香了",
+      "onboard_time": 1754026462,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182766,
       "num": 177002,
       "word": "回锅油 致癌",
@@ -705,14 +721,6 @@
       "onboard_time": 1754021841,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175860,
-      "num": 175860,
-      "word": "李诞抖音评论区",
-      "onboard_time": 1754026402,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 175627,
@@ -779,6 +787,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167486,
+      "num": 167486,
+      "word": "鸟鸟 我现在是世界的旁观者",
+      "onboard_time": 1754026522,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167130,
+      "num": 167130,
+      "word": "追星女是不会轻易辞职的",
+      "onboard_time": 1754023042,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166588,
+      "num": 166588,
+      "word": "二十年后才看懂一帘幽梦",
+      "onboard_time": 1754027182,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164872,
       "num": 164872,
       "word": "灵笼",
@@ -795,20 +827,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163869,
-      "num": 163869,
-      "word": "追星女是不会轻易辞职的",
-      "onboard_time": 1754023042,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163671,
       "num": 163671,
       "word": "成毅新歌致敬抗战胜利80周年",
       "onboard_time": 1754022502,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162098,
+      "num": 162098,
+      "word": "能不能把迪丽热巴焊在正剧里",
+      "onboard_time": 1754027422,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 161232,
@@ -825,6 +857,14 @@
       "onboard_time": 1754020582,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159944,
+      "num": 159944,
+      "word": "原来便利店的微波炉这么贵",
+      "onboard_time": 1754027661,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 159915,
@@ -915,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148382,
+      "num": 148382,
+      "word": "杨迪给韩庚的礼物是孕妇枕头",
+      "onboard_time": 1754027363,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147287,
       "num": 147287,
       "word": "胡可回应安吉留长发",
@@ -971,12 +1019,28 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 135021,
+      "num": 135021,
+      "word": "杨肸子真有聊斋那味儿了",
+      "onboard_time": 1754026764,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134089,
       "num": 134089,
       "word": "陈楚生11首选曲11种致敬",
       "onboard_time": 1754025083,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133635,
+      "num": 133635,
+      "word": "不要对孩子做不符合社交规则的动作",
+      "onboard_time": 1754026283,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 132838,
@@ -1000,14 +1064,6 @@
       "word": "定风波今日开播",
       "onboard_time": 1754024181,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 128961,
-      "num": 128961,
-      "word": "毕雯珺说张予曦妈妈做饭太香了",
-      "onboard_time": 1754026462,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1035,12 +1091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126388,
-      "num": 126388,
-      "word": "鸟鸟 我现在是世界的旁观者",
-      "onboard_time": 1754026522,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 125933,
+      "num": 125933,
+      "word": "蚊子喝人血要插六根吸管",
+      "onboard_time": 1754027603,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 124622,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1754011461,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 116552,
+      "num": 134185,
+      "word": "刘亦菲采访反耻感教科书",
+      "onboard_time": 1754026881,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 116413,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1753975523,
       "rank": 30,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 91495,
+      "num": 159187,
+      "word": "张予曦毕雯珺杂志销量",
+      "onboard_time": 1754027182,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 90556,
@@ -1488,6 +1560,14 @@
       "word": "佛山基孔肯雅热目前病例均为轻症",
       "onboard_time": 1753988055,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45131,
+      "num": 555942,
+      "word": "竞业协议对非涉密员工无效",
+      "onboard_time": 1754025323,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
