@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754174716414,
+  "endTime": 1754177321611,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 823923,
+      "num": 882938,
+      "word": "赵露思意外生病是自己赔钱",
+      "onboard_time": 1754156000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672038,
       "num": 672038,
       "word": "豆瓣崩了",
@@ -67,20 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 628425,
-      "num": 628425,
-      "word": "赵露思意外生病是自己赔钱",
-      "onboard_time": 1754156000,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 538982,
       "num": 538982,
       "word": "世界上最长的下巴",
       "onboard_time": 1754149827,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 535495,
+      "num": 535495,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393506,
@@ -113,14 +121,6 @@
       "onboard_time": 1754146169,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307737,
-      "num": 307737,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285441,
@@ -363,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91334,
+      "num": 238223,
+      "word": "一家三口赶海1人失踪1人进ICU",
+      "onboard_time": 1754133024,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89124,
       "num": 235765,
       "word": "刘宇宁这怎么不算going",
@@ -371,12 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85829,
-      "num": 238223,
-      "word": "一家三口赶海1人失踪1人进ICU",
-      "onboard_time": 1754133024,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 85101,
+      "num": 79592,
+      "word": "易烊千玺像大祭司一样隆重出场了",
+      "onboard_time": 1754176879,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 84993,
@@ -475,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66776,
+      "num": 56813,
+      "word": "福建舰入列进入最后攻坚时刻",
+      "onboard_time": 1754176938,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63169,
       "num": 232346,
       "word": "Shanks AL也回来了",
@@ -499,12 +515,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58842,
+      "num": 58842,
+      "word": "贵阳银河左岸音乐节",
+      "onboard_time": 1754177298,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 58192,
+      "num": 58192,
+      "word": "阮经天 妈妈不在了就不过生日了",
+      "onboard_time": 1754138184,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57034,
+      "num": 57034,
+      "word": "暴走团越来越夸张了",
+      "onboard_time": 1754176817,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54524,
       "num": 70978,
       "word": "热巴元气学姐风",
       "onboard_time": 1754149106,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53963,
+      "num": 53963,
+      "word": "不原谅任何亲密关系里的情感漠视",
+      "onboard_time": 1754177298,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 52537,
@@ -523,12 +571,60 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47318,
+      "num": 47318,
+      "word": "原来猫真的会装睡",
+      "onboard_time": 1754176757,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 46138,
+      "num": 46138,
+      "word": "减肥也有自己的邪修",
+      "onboard_time": 1754175857,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 45799,
+      "num": 45799,
+      "word": "王铮亮北京演唱会台下好多明星",
+      "onboard_time": 1754174357,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 43173,
+      "num": 43173,
+      "word": "当我真的吃不下了",
+      "onboard_time": 1754176879,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 40573,
+      "num": 40573,
+      "word": "被高空坠物砸亡女孩原计划中秋节订婚",
+      "onboard_time": 1754176757,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40020,
       "num": 40020,
       "word": "鞠婧祎丝巾上衣",
       "onboard_time": 1754160556,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37017,
+      "num": 37017,
+      "word": "韩国拟取消美容整形增值税退税",
+      "onboard_time": 1754176999,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36654,
@@ -545,6 +641,14 @@
       "onboard_time": 1754159896,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32138,
+      "num": 153926,
+      "word": "在香港发行法币稳定币需申领牌照",
+      "onboard_time": 1754176158,
+      "rank": 9,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 30030,

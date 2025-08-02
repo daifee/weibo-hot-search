@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754174716414,
+  "endTime": 1754177321611,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 823923,
+      "num": 882938,
+      "word": "赵露思意外生病是自己赔钱",
+      "onboard_time": 1754156000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822747,
       "num": 822747,
       "word": "王楚然下跪张凌赫摔酒杯路透",
@@ -779,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 628425,
-      "num": 628425,
-      "word": "赵露思意外生病是自己赔钱",
-      "onboard_time": 1754156000,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 620696,
       "num": 620696,
       "word": "杨幂裤脚",
@@ -921,6 +921,14 @@
       "onboard_time": 1754149827,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 535495,
+      "num": 535495,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 535420,
@@ -1641,14 +1649,6 @@
       "onboard_time": 1754126542,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307737,
-      "num": 307737,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306001,
@@ -6619,6 +6619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85101,
+      "num": 79592,
+      "word": "易烊千玺像大祭司一样隆重出场了",
+      "onboard_time": 1754176879,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85055,
       "num": 363376,
       "word": "录取通知书里有经济困难申请表",
@@ -6867,6 +6875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66776,
+      "num": 56813,
+      "word": "福建舰入列进入最后攻坚时刻",
+      "onboard_time": 1754176938,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66334,
       "num": 66334,
       "word": "王玉雯发了一大波合照",
@@ -6979,6 +6995,14 @@
       "category": "健康医疗,动漫"
     },
     {
+      "raw_hot": 58842,
+      "num": 58842,
+      "word": "贵阳银河左岸音乐节",
+      "onboard_time": 1754177298,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 58833,
       "num": 58833,
       "word": "31天31件小事帮你成为更勇敢的人",
@@ -7017,6 +7041,14 @@
       "onboard_time": 1754090719,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57034,
+      "num": 57034,
+      "word": "暴走团越来越夸张了",
+      "onboard_time": 1754176817,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 56858,
@@ -7097,6 +7129,14 @@
       "onboard_time": 1754030842,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53963,
+      "num": 53963,
+      "word": "不原谅任何亲密关系里的情感漠视",
+      "onboard_time": 1754177298,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 52803,
@@ -7187,6 +7227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47318,
+      "num": 47318,
+      "word": "原来猫真的会装睡",
+      "onboard_time": 1754176757,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46880,
       "num": 139583,
       "word": "甘肃一大货车夜里撞死16头牦牛",
@@ -7201,6 +7249,22 @@
       "onboard_time": 1753988055,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46138,
+      "num": 46138,
+      "word": "减肥也有自己的邪修",
+      "onboard_time": 1754175857,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 45799,
+      "num": 45799,
+      "word": "王铮亮北京演唱会台下好多明星",
+      "onboard_time": 1754174357,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 45783,
@@ -7233,6 +7297,14 @@
       "onboard_time": 1754070677,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43173,
+      "num": 43173,
+      "word": "当我真的吃不下了",
+      "onboard_time": 1754176879,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 42997,
@@ -7315,6 +7387,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 40573,
+      "num": 40573,
+      "word": "被高空坠物砸亡女孩原计划中秋节订婚",
+      "onboard_time": 1754176757,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40020,
       "num": 40020,
       "word": "鞠婧祎丝巾上衣",
@@ -7361,6 +7441,14 @@
       "onboard_time": 1754088076,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37017,
+      "num": 37017,
+      "word": "韩国拟取消美容整形增值税退税",
+      "onboard_time": 1754176999,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36950,
@@ -7465,6 +7553,14 @@
       "onboard_time": 1754144790,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32138,
+      "num": 153926,
+      "word": "在香港发行法币稳定币需申领牌照",
+      "onboard_time": 1754176158,
+      "rank": 9,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 30925,
