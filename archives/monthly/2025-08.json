@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754116698785,
+  "endTime": 1754117543279,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -867,6 +867,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 408852,
+      "num": 228427,
+      "word": "真的建议钱要花在体验上",
+      "onboard_time": 1754114962,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 408454,
       "num": 408454,
       "word": "武大将调查复核肖某某纪律处分",
@@ -1011,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345185,
+      "num": 345185,
+      "word": "马丽把沈腾假发片打掉了",
+      "onboard_time": 1754115562,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340213,
       "num": 377867,
       "word": "武大已组建工作专班",
@@ -1131,6 +1147,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 322450,
+      "num": 301091,
+      "word": "王俊凯眼睛不知道该看哪里了",
+      "onboard_time": 1754112142,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321387,
       "num": 321387,
       "word": "男子去世消失12年妻子出现要分钱",
@@ -1171,14 +1195,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 301091,
-      "num": 301091,
-      "word": "王俊凯眼睛不知道该看哪里了",
-      "onboard_time": 1754112142,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298153,
       "num": 224825,
       "word": "到底是谁在买孙怡的拔黑头玩具",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1754040381,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295472,
+      "num": 175874,
+      "word": "Chinajoy",
+      "onboard_time": 1754117241,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 294173,
@@ -1233,22 +1257,6 @@
       "onboard_time": 1753994654,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282233,
-      "num": 228427,
-      "word": "真的建议钱要花在体验上",
-      "onboard_time": 1754114962,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 279835,
-      "num": 279835,
-      "word": "马丽把沈腾假发片打掉了",
-      "onboard_time": 1754115562,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 278920,
@@ -1659,6 +1667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220913,
+      "num": 220913,
+      "word": "广西奔驰女的特权底气到底哪来的",
+      "onboard_time": 1754116102,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220738,
       "num": 562131,
       "word": "特朗普上调一连串关税",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1754047163,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210925,
+      "num": 175384,
+      "word": "睡眠不足引发炎症",
+      "onboard_time": 1754117001,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210867,
@@ -2139,6 +2163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 189694,
+      "num": 189694,
+      "word": "李维嘉说董璇像带了两个孩子",
+      "onboard_time": 1754117121,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189309,
       "num": 189309,
       "word": "三人行什么时候抬",
@@ -2371,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177091,
+      "num": 177091,
+      "word": "凡人修仙传 曹骏",
+      "onboard_time": 1754115921,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176918,
       "num": 189119,
       "word": "单依纯re白举纲爽一把名场面",
@@ -2465,14 +2505,6 @@
       "onboard_time": 1754018782,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 172107,
-      "num": 172107,
-      "word": "凡人修仙传 曹骏",
-      "onboard_time": 1754115921,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 172099,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1753972584,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 161099,
+      "num": 161099,
+      "word": "河北兴隆北京山谷项目3人遇难",
+      "onboard_time": 1754117241,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160795,
@@ -3219,14 +3259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141999,
-      "num": 173472,
-      "word": "广西奔驰女的特权底气到底哪来的",
-      "onboard_time": 1754116102,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141816,
       "num": 141816,
       "word": "香蜜沉沉烬如霜开播7周年",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1754009601,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140826,
+      "num": 140826,
+      "word": "包上恩周柯宇炽夏开机",
+      "onboard_time": 1754116642,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 140788,
@@ -3563,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133611,
+      "num": 133611,
+      "word": "三宝房子车子票子都给前妻了",
+      "onboard_time": 1754117061,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133132,
       "num": 133132,
       "word": "叶濛怀孕李靳屿升级当爸",
@@ -3667,6 +3715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129479,
+      "num": 129479,
+      "word": "47岁孙燕姿拥抱飞奔过来的6岁女儿",
+      "onboard_time": 1754117001,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129346,
       "num": 129346,
       "word": "上海60岁女生花掉养老金的一天",
@@ -3705,6 +3761,14 @@
       "onboard_time": 1753986196,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128018,
+      "num": 128018,
+      "word": "王楚钦线下活动",
+      "onboard_time": 1754116461,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 127525,
@@ -3777,6 +3841,14 @@
       "onboard_time": 1754025622,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 124371,
+      "num": 124371,
+      "word": "杨洋带双瞳鼠跳个舞",
+      "onboard_time": 1754116341,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 124074,
@@ -3921,14 +3993,6 @@
       "onboard_time": 1754035402,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119460,
-      "num": 119460,
-      "word": "王楚钦线下活动",
-      "onboard_time": 1754116461,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 119433,
@@ -4179,14 +4243,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 110442,
-      "num": 110442,
-      "word": "包上恩周柯宇炽夏开机",
-      "onboard_time": 1754116642,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109781,
       "num": 97446,
       "word": "真的有人会为了三块钱站一下午",
@@ -4307,6 +4363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100755,
+      "num": 100755,
+      "word": "侯佩岑心里人满为患",
+      "onboard_time": 1754117061,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99882,
       "num": 99882,
       "word": "理想重卡对撞测试",
@@ -4347,6 +4411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97531,
+      "num": 97531,
+      "word": "正在安慰女朋友的猫咪",
+      "onboard_time": 1754116701,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97260,
       "num": 97260,
       "word": "中方敦促美方停止无聊的指责游戏",
@@ -4361,6 +4433,14 @@
       "onboard_time": 1754034083,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96771,
+      "num": 96771,
+      "word": "广东人三伏一天五顿必备靓汤",
+      "onboard_time": 1754117482,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 96747,

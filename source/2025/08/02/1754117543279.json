@@ -1,0 +1,410 @@
+{
+  "runTime": 1754117543279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2348396,
+        "num": 2348396,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1489631,
+        "num": 1489631,
+        "word": "黄雅琼刘雨辰领证",
+        "onboard_time": 1754113223,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41039,
+        "num": 595771,
+        "word": "信息支援部队攻防演练首次公开",
+        "onboard_time": 1754095461,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 345185,
+        "num": 345185,
+        "word": "马丽把沈腾假发片打掉了",
+        "onboard_time": 1754115562,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261868,
+        "num": 261868,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228028,
+        "num": 228028,
+        "word": "王楚钦帅气造型",
+        "onboard_time": 1754115501,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322450,
+        "num": 224780,
+        "word": "王俊凯眼睛不知道该看哪里了",
+        "onboard_time": 1754112142,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255100,
+        "num": 224420,
+        "word": "鹿晗亚巡再宣五城",
+        "onboard_time": 1754110942,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 663900,
+        "num": 223442,
+        "word": "网传亮证司机是公安局领导不实",
+        "onboard_time": 1754108242,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 220913,
+        "num": 220913,
+        "word": "广西奔驰女的特权底气到底哪来的",
+        "onboard_time": 1754116102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539500,
+        "num": 220887,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500570,
+        "num": 214179,
+        "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+        "onboard_time": 1754101522,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 490160,
+        "num": 209773,
+        "word": "低人一等座",
+        "onboard_time": 1754105961,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465290,
+        "num": 208318,
+        "word": "时代峰峻禁止中控",
+        "onboard_time": 1754115443,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408852,
+        "num": 203278,
+        "word": "真的建议钱要花在体验上",
+        "onboard_time": 1754114962,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 843496,
+        "num": 200793,
+        "word": "民警上门要求删视频的监控曝光",
+        "onboard_time": 1754090058,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446110,
+        "num": 195666,
+        "word": "亮证姐",
+        "onboard_time": 1754097021,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332745,
+        "num": 191047,
+        "word": "男子还原奔驰女司机亮证逼迫让路过程",
+        "onboard_time": 1754103621,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189694,
+        "num": 189694,
+        "word": "李维嘉说董璇像带了两个孩子",
+        "onboard_time": 1754117121,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177091,
+        "num": 177091,
+        "word": "凡人修仙传 曹骏",
+        "onboard_time": 1754115921,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295472,
+        "num": 175874,
+        "word": "Chinajoy",
+        "onboard_time": 1754117241,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221114,
+        "num": 175593,
+        "word": "易烊千玺礐嶨的流沙票根好惊艳",
+        "onboard_time": 1754115022,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210925,
+        "num": 175384,
+        "word": "睡眠不足引发炎症",
+        "onboard_time": 1754117001,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 173880,
+        "word": "被亮证男子希望纪委介入调查",
+        "onboard_time": 1754102661,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161099,
+        "num": 161099,
+        "word": "河北兴隆北京山谷项目3人遇难",
+        "onboard_time": 1754117241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160692,
+        "num": 160692,
+        "word": "青岛姑娘买下日本70万平方小岛",
+        "onboard_time": 1754083094,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157606,
+        "num": 157606,
+        "word": "雅思夺冠一周年黄雅琼领证",
+        "onboard_time": 1754114962,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155655,
+        "num": 155655,
+        "word": "哪吒",
+        "onboard_time": 1754101640,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149034,
+        "num": 149034,
+        "word": "当代大学生为了冲浪能有多拼",
+        "onboard_time": 1754116341,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141061,
+        "num": 141061,
+        "word": "迪丽热巴主动把词分给群演",
+        "onboard_time": 1754106621,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140826,
+        "num": 140826,
+        "word": "包上恩周柯宇炽夏开机",
+        "onboard_time": 1754116642,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133611,
+        "num": 133611,
+        "word": "三宝房子车子票子都给前妻了",
+        "onboard_time": 1754117061,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129586,
+        "num": 129586,
+        "word": "坚持早睡1个小时的身体变化",
+        "onboard_time": 1754099541,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129479,
+        "num": 129479,
+        "word": "47岁孙燕姿拥抱飞奔过来的6岁女儿",
+        "onboard_time": 1754117001,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129295,
+        "num": 129295,
+        "word": "Rapeter严浩翔合影",
+        "onboard_time": 1754115262,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 128581,
+        "word": "95生六大男流量格局",
+        "onboard_time": 1754114843,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128018,
+        "num": 128018,
+        "word": "王楚钦线下活动",
+        "onboard_time": 1754116461,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124371,
+        "num": 124371,
+        "word": "杨洋带双瞳鼠跳个舞",
+        "onboard_time": 1754116341,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114957,
+        "num": 114957,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1754105961,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114479,
+        "num": 114479,
+        "word": "SNH48香港演唱会",
+        "onboard_time": 1754116522,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114101,
+        "num": 114101,
+        "word": "谢娜爸爸拍戏想让杨迪演第三者",
+        "onboard_time": 1754114122,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113328,
+        "num": 113328,
+        "word": "李咏女儿恋情",
+        "onboard_time": 1754105241,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112002,
+        "num": 112002,
+        "word": "7岁男孩求父母抛弃自己",
+        "onboard_time": 1754107103,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109144,
+        "num": 109144,
+        "word": "中国奥委会发樊振东眼神照",
+        "onboard_time": 1754116162,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102454,
+        "num": 102454,
+        "word": "人人人人瓦人人人人",
+        "onboard_time": 1754114962,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100755,
+        "num": 100755,
+        "word": "侯佩岑心里人满为患",
+        "onboard_time": 1754117061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100034,
+        "num": 100034,
+        "word": "遭亮证逼迫让路当事人最新发声",
+        "onboard_time": 1754112082,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97531,
+        "num": 97531,
+        "word": "正在安慰女朋友的猫咪",
+        "onboard_time": 1754116701,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96771,
+        "num": 96771,
+        "word": "广东人三伏一天五顿必备靓汤",
+        "onboard_time": 1754117482,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95908,
+        "num": 95908,
+        "word": "香蜜沉沉烬如霜开播7周年",
+        "onboard_time": 1754115803,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写强军荣光#"
+    }
+  }
+}

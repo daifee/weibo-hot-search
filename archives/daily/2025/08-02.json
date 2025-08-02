@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754116698785,
+  "endTime": 1754117543279,
   "band_list": [
     {
       "raw_hot": 3874972,
@@ -251,6 +251,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 408852,
+      "num": 228427,
+      "word": "真的建议钱要花在体验上",
+      "onboard_time": 1754114962,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384361,
       "num": 384361,
       "word": "张雅钦鹿晗演唱会应援妆",
@@ -265,6 +273,14 @@
       "onboard_time": 1754107103,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345185,
+      "num": 345185,
+      "word": "马丽把沈腾假发片打掉了",
+      "onboard_time": 1754115562,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 328828,
@@ -291,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322450,
+      "num": 301091,
+      "word": "王俊凯眼睛不知道该看哪里了",
+      "onboard_time": 1754112142,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319785,
       "num": 319785,
       "word": "酱子贝 融梗",
@@ -315,12 +339,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 301091,
-      "num": 301091,
-      "word": "王俊凯眼睛不知道该看哪里了",
-      "onboard_time": 1754112142,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 295472,
+      "num": 175874,
+      "word": "Chinajoy",
+      "onboard_time": 1754117241,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 294098,
@@ -345,22 +369,6 @@
       "onboard_time": 1754040142,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282233,
-      "num": 228427,
-      "word": "真的建议钱要花在体验上",
-      "onboard_time": 1754114962,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 279835,
-      "num": 279835,
-      "word": "马丽把沈腾假发片打掉了",
-      "onboard_time": 1754115562,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 278009,
@@ -475,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220913,
+      "num": 220913,
+      "word": "广西奔驰女的特权底气到底哪来的",
+      "onboard_time": 1754116102,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216040,
       "num": 216040,
       "word": "徐志胜我不想被脱口秀抛下",
       "onboard_time": 1754110282,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210925,
+      "num": 175384,
+      "word": "睡眠不足引发炎症",
+      "onboard_time": 1754117001,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210089,
@@ -571,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189694,
+      "num": 189694,
+      "word": "李维嘉说董璇像带了两个孩子",
+      "onboard_time": 1754117121,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189193,
       "num": 189193,
       "word": "鞠婧祎网宣组重组",
@@ -635,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177091,
+      "num": 177091,
+      "word": "凡人修仙传 曹骏",
+      "onboard_time": 1754115921,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176918,
       "num": 189119,
       "word": "单依纯re白举纲爽一把名场面",
@@ -673,14 +713,6 @@
       "onboard_time": 1754098161,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172107,
-      "num": 172107,
-      "word": "凡人修仙传 曹骏",
-      "onboard_time": 1754115921,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 172099,
@@ -745,6 +777,14 @@
       "onboard_time": 1754114122,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161099,
+      "num": 161099,
+      "word": "河北兴隆北京山谷项目3人遇难",
+      "onboard_time": 1754117241,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160164,
@@ -907,14 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141999,
-      "num": 173472,
-      "word": "广西奔驰女的特权底气到底哪来的",
-      "onboard_time": 1754116102,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141816,
       "num": 141816,
       "word": "香蜜沉沉烬如霜开播7周年",
@@ -929,6 +961,14 @@
       "onboard_time": 1754106500,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140826,
+      "num": 140826,
+      "word": "包上恩周柯宇炽夏开机",
+      "onboard_time": 1754116642,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 140788,
@@ -1059,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133611,
+      "num": 133611,
+      "word": "三宝房子车子票子都给前妻了",
+      "onboard_time": 1754117061,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131515,
       "num": 131515,
       "word": "i人谭松韵刘学义 剧组的玩具",
@@ -1080,6 +1128,14 @@
       "word": "SNH48香港演唱会",
       "onboard_time": 1754116522,
       "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 129479,
+      "num": 129479,
+      "word": "47岁孙燕姿拥抱飞奔过来的6岁女儿",
+      "onboard_time": 1754117001,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -1107,12 +1163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128018,
+      "num": 128018,
+      "word": "王楚钦线下活动",
+      "onboard_time": 1754116461,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127244,
       "num": 714675,
       "word": "十余省份雨雨雨雨雨雨雨",
       "onboard_time": 1754095521,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124371,
+      "num": 124371,
+      "word": "杨洋带双瞳鼠跳个舞",
+      "onboard_time": 1754116341,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 124074,
@@ -1195,14 +1267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119460,
-      "num": 119460,
-      "word": "王楚钦线下活动",
-      "onboard_time": 1754116461,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118982,
       "num": 118982,
       "word": "老人养老金被孩子刷走卡里只剩5块8",
@@ -1251,14 +1315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 110442,
-      "num": 110442,
-      "word": "包上恩周柯宇炽夏开机",
-      "onboard_time": 1754116642,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109781,
       "num": 97446,
       "word": "真的有人会为了三块钱站一下午",
@@ -1299,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100755,
+      "num": 100755,
+      "word": "侯佩岑心里人满为患",
+      "onboard_time": 1754117061,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98178,
       "num": 98178,
       "word": "澳洲一快艇从濒危幼鲸背上碾过",
@@ -1315,12 +1379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97531,
+      "num": 97531,
+      "word": "正在安慰女朋友的猫咪",
+      "onboard_time": 1754116701,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97100,
       "num": 97100,
       "word": "深情眼大结局",
       "onboard_time": 1754051542,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96771,
+      "num": 96771,
+      "word": "广东人三伏一天五顿必备靓汤",
+      "onboard_time": 1754117482,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 95536,
