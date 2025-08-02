@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754100453067,
+  "endTime": 1754101928877,
   "band_list": [
     {
       "raw_hot": 2751990,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1205895,
-      "num": 761749,
+      "num": 782877,
       "word": "武大回应图书馆事件",
       "onboard_time": 1754040444,
       "rank": 5,
@@ -43,6 +43,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 822747,
+      "num": 822747,
+      "word": "王楚然下跪张凌赫摔酒杯路透",
+      "onboard_time": 1754093900,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 767511,
+      "num": 767511,
+      "word": "日本老龄化具象化了",
+      "onboard_time": 1754097321,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 762900,
       "num": 762900,
       "word": "奔驰亮证姐真实身份不能视情况公布",
@@ -51,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 756750,
-      "num": 756750,
-      "word": "王楚然下跪张凌赫摔酒杯路透",
-      "onboard_time": 1754093900,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 748671,
+      "num": 748671,
+      "word": "男子每天喝500ml自己的胆汁救命",
+      "onboard_time": 1754097920,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 728781,
@@ -68,27 +84,11 @@
     },
     {
       "raw_hot": 709915,
-      "num": 572931,
+      "num": 599547,
       "word": "伊能静说秦昊很少回家",
       "onboard_time": 1754089757,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 672589,
-      "num": 672589,
-      "word": "日本老龄化具象化了",
-      "onboard_time": 1754097321,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 553433,
-      "num": 553433,
-      "word": "男子每天喝500ml自己的胆汁救命",
-      "onboard_time": 1754097920,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 535420,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 526472,
-      "num": 461344,
+      "num": 464256,
       "word": "青岛姑娘买下日本70万平方小岛",
       "onboard_time": 1754083094,
       "rank": 30,
@@ -139,6 +139,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 420174,
+      "num": 420174,
+      "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+      "onboard_time": 1754101522,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 385389,
+      "num": 385389,
+      "word": "警方通报24岁快递员持刀划伤两业主",
+      "onboard_time": 1754100141,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 384361,
       "num": 384361,
       "word": "张雅钦鹿晗演唱会应援妆",
@@ -147,12 +163,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 328828,
+      "num": 559816,
+      "word": "警方通报因纠纷快递员划伤2人",
+      "onboard_time": 1754097681,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 324818,
+      "num": 324818,
+      "word": "光与夜之恋 齐司礼",
+      "onboard_time": 1754100081,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319785,
       "num": 319785,
       "word": "酱子贝 融梗",
       "onboard_time": 1754051482,
       "rank": 9,
       "category": "读书作家,电竞"
+    },
+    {
+      "raw_hot": 303962,
+      "num": 338452,
+      "word": "王源送了易烊千玺演唱会花篮",
+      "onboard_time": 1754090419,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 294098,
@@ -164,7 +204,7 @@
     },
     {
       "raw_hot": 291999,
-      "num": 186577,
+      "num": 256125,
       "word": "男子与军人配偶同居致其怀孕",
       "onboard_time": 1754067140,
       "rank": 44,
@@ -195,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246768,
+      "num": 246768,
+      "word": "孙兴慜离队",
+      "onboard_time": 1754100261,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245689,
       "num": 245689,
       "word": "每人微信账户有1000元免费提现额度",
@@ -203,28 +251,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 238863,
-      "num": 238863,
-      "word": "王源送了易烊千玺演唱会花篮",
-      "onboard_time": 1754090419,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 230267,
-      "num": 559816,
-      "word": "警方通报因纠纷快递员划伤2人",
-      "onboard_time": 1754097681,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 230200,
-      "num": 230200,
+      "num": 331226,
       "word": "薛凯琪彩排忘记拿麦克风上台",
       "onboard_time": 1754095341,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211682,
+      "num": 328981,
+      "word": "林一卢昱晓新剧折月亮开机",
+      "onboard_time": 1754101041,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 204513,
@@ -267,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181250,
-      "num": 181250,
-      "word": "光与夜之恋 齐司礼",
-      "onboard_time": 1754100081,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179240,
       "num": 179556,
       "word": "者来女 玩得起",
@@ -299,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172099,
+      "num": 172099,
+      "word": "光与夜之恋 萧逸",
+      "onboard_time": 1754101162,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170827,
+      "num": 208471,
+      "word": "你好星期六谁会大展鸿图",
+      "onboard_time": 1754101581,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168487,
       "num": 168487,
       "word": "武大将调查复核杨某某学位论文",
@@ -308,11 +356,27 @@
     },
     {
       "raw_hot": 166750,
-      "num": 166750,
+      "num": 170808,
       "word": "单依纯说何老师你摸我脚",
       "onboard_time": 1754089757,
       "rank": 30,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 158219,
+      "num": 158219,
+      "word": "光与夜之恋 夏鸣星",
+      "onboard_time": 1754101041,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156097,
+      "num": 170811,
+      "word": "歌王之战 六女一男",
+      "onboard_time": 1754097861,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 156082,
@@ -321,6 +385,14 @@
       "onboard_time": 1754062161,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155051,
+      "num": 155051,
+      "word": "哪吒",
+      "onboard_time": 1754101640,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 149346,
@@ -344,6 +416,22 @@
       "word": "中国阿姨在黑人女孩背后夸她身材好",
       "onboard_time": 1754095041,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141940,
+      "num": 141940,
+      "word": "坚持早睡1个小时的身体变化",
+      "onboard_time": 1754099541,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140570,
+      "num": 140570,
+      "word": "男子挖到宋元时期首饰卖了20万被抓",
+      "onboard_time": 1754100981,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -379,19 +467,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134320,
-      "num": 146614,
-      "word": "歌王之战 六女一男",
-      "onboard_time": 1754097861,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 129667,
-      "num": 129667,
-      "word": "孙兴慜离队",
-      "onboard_time": 1754100261,
-      "rank": 34,
+      "raw_hot": 131067,
+      "num": 131067,
+      "word": "汪顺开心亲吻奖牌",
+      "onboard_time": 1754100561,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -412,10 +492,26 @@
     },
     {
       "raw_hot": 127244,
-      "num": 127244,
+      "num": 530549,
       "word": "十余省份雨雨雨雨雨雨雨",
       "onboard_time": 1754095521,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124662,
+      "num": 124662,
+      "word": "无毛猫偷跑出去怀孕产下5只毛孩子",
+      "onboard_time": 1754101880,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120734,
+      "num": 120734,
+      "word": "还有5天就立秋了",
+      "onboard_time": 1754096361,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -427,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113018,
-      "num": 113018,
-      "word": "还有5天就立秋了",
-      "onboard_time": 1754096361,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111981,
-      "num": 111981,
+      "raw_hot": 118136,
+      "num": 118136,
       "word": "川陕渝又热到40摄氏度了",
       "onboard_time": 1754100081,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111056,
+      "num": 111056,
+      "word": "光与夜之恋灼灼金帐栖",
+      "onboard_time": 1754100561,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 109781,
@@ -451,12 +547,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 106690,
-      "num": 106690,
-      "word": "坚持早睡1个小时的身体变化",
-      "onboard_time": 1754099541,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 107486,
+      "num": 107486,
+      "word": "折月亮",
+      "onboard_time": 1754062702,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 106446,
@@ -465,6 +561,14 @@
       "onboard_time": 1754099240,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106266,
+      "num": 106266,
+      "word": "原来摔到头真的会失忆",
+      "onboard_time": 1754100861,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98178,
@@ -496,14 +600,6 @@
       "word": "皇后杀了皇后 杨阳嬷了杨洋",
       "onboard_time": 1754043383,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 94760,
-      "num": 94760,
-      "word": "折月亮",
-      "onboard_time": 1754062702,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -947,14 +1043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19463,
-      "num": 186666,
-      "word": "警方通报24岁快递员持刀划伤两业主",
-      "onboard_time": 1754100141,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 18851,
       "num": 23549,
       "word": "他在哄你的时候也在收集离开你的碎片",
@@ -963,7 +1051,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 7531,
+      "raw_hot": 9052,
       "num": 922931,
       "word": "第四批690亿元国补10月下达",
       "onboard_time": 1754018842,
