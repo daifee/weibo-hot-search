@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754144769900,
+  "endTime": 1754145876298,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -161,6 +161,14 @@
       "onboard_time": 1753760784,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2742054,
+      "num": 951310,
+      "word": "银河酷娱旗下艺人",
+      "onboard_time": 1754143589,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2714670,
@@ -475,14 +483,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1656759,
-      "num": 951310,
-      "word": "银河酷娱旗下艺人",
-      "onboard_time": 1754143589,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1626875,
       "num": 1626875,
       "word": "布洛芬率先发现了甲沟炎",
@@ -617,6 +617,14 @@
       "onboard_time": 1753860683,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1329207,
+      "num": 1329207,
+      "word": "豆瓣崩了",
+      "onboard_time": 1753762584,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 1310639,
@@ -793,14 +801,6 @@
       "onboard_time": 1753791263,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1206707,
-      "num": 1206707,
-      "word": "豆瓣崩了",
-      "onboard_time": 1753762584,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 1203281,
@@ -2009,6 +2009,14 @@
       "onboard_time": 1753797026,
       "rank": 40,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 743260,
+      "num": 238186,
+      "word": "恋人剧组",
+      "onboard_time": 1754144429,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 742121,
@@ -5083,6 +5091,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 328189,
+      "num": 227672,
+      "word": "宋昕冉第二",
+      "onboard_time": 1754144550,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328116,
       "num": 328116,
       "word": "八一建军节",
@@ -5827,6 +5843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282173,
+      "num": 314398,
+      "word": "被水泥块砸中身亡女子还不满21岁",
+      "onboard_time": 1754143409,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281356,
       "num": 457486,
       "word": "张艺兴送京东外卖",
@@ -6000,6 +6024,14 @@
       "word": "王一珩 今天你要嫁给我",
       "onboard_time": 1754059824,
       "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 274083,
+      "num": 227275,
+      "word": "丁程鑫 改扣子漏光了",
+      "onboard_time": 1754145331,
+      "rank": 28,
       "category": "演出"
     },
     {
@@ -6547,6 +6579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 250932,
+      "num": 285748,
+      "word": "30岁两个正常人婚后的真实生活",
+      "onboard_time": 1754144010,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250758,
       "num": 250758,
       "word": "汪苏泷回应和韩红合唱年轮",
@@ -7067,14 +7107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231247,
-      "num": 314398,
-      "word": "被水泥块砸中身亡女子还不满21岁",
-      "onboard_time": 1754143409,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231038,
       "num": 231038,
       "word": "上海已转移安置超28万人",
@@ -7129,6 +7161,14 @@
       "onboard_time": 1753864461,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 229383,
+      "num": 229383,
+      "word": "卡车司机服务区去世三天被发现",
+      "onboard_time": 1754143530,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229340,
@@ -7267,14 +7307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226362,
-      "num": 226362,
-      "word": "恋人剧组",
-      "onboard_time": 1754144429,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226313,
       "num": 226313,
       "word": "美国与欧盟达成贸易协议",
@@ -7401,14 +7433,6 @@
       "onboard_time": 1754131342,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222698,
-      "num": 285748,
-      "word": "30岁两个正常人婚后的真实生活",
-      "onboard_time": 1754144010,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 222480,
@@ -7763,6 +7787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215071,
+      "num": 215071,
+      "word": "刘宇宁这怎么不算going",
+      "onboard_time": 1754144069,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215059,
       "num": 176861,
       "word": "刘宇宁末世文将军",
@@ -7905,14 +7937,6 @@
       "onboard_time": 1754055444,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212661,
-      "num": 212661,
-      "word": "刘宇宁这怎么不算going",
-      "onboard_time": 1754144069,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 212658,
@@ -9009,6 +9033,22 @@
       "onboard_time": 1753619845,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 197690,
+      "num": 229300,
+      "word": "Shanks AL也回来了",
+      "onboard_time": 1754145271,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 197441,
+      "num": 212357,
+      "word": "魔咒",
+      "onboard_time": 1754144731,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 197438,
@@ -10723,14 +10763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178222,
-      "num": 212590,
-      "word": "宋昕冉第二",
-      "onboard_time": 1754144550,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178214,
       "num": 158557,
       "word": "杨博文陈浚铭报4中4",
@@ -11499,6 +11531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170619,
+      "num": 170619,
+      "word": "杨紫又来给各地文旅提供素材了",
+      "onboard_time": 1754144849,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170554,
       "num": 170554,
       "word": "世界肝炎日",
@@ -11897,6 +11937,14 @@
       "onboard_time": 1753870343,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165888,
+      "num": 165888,
+      "word": "苏超抬了么",
+      "onboard_time": 1754145091,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 165859,
@@ -13179,6 +13227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155331,
+      "num": 322205,
+      "word": "迪丽热巴健康气血美",
+      "onboard_time": 1754143770,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155245,
       "num": 278896,
       "word": "思考在当下还重要吗",
@@ -14243,6 +14299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146828,
+      "num": 146828,
+      "word": "狼队对战KSG",
+      "onboard_time": 1754145690,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146772,
       "num": 161442,
       "word": "杨迪错过奔跑吧第一季邀请",
@@ -14825,14 +14889,6 @@
       "onboard_time": 1753936225,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141857,
-      "num": 213756,
-      "word": "卡车司机服务区去世三天被发现",
-      "onboard_time": 1754143530,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141850,
@@ -18723,14 +18779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115017,
-      "num": 212357,
-      "word": "魔咒",
-      "onboard_time": 1754144731,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 114920,
       "num": 114920,
       "word": "丞磊的薄肌又来going我了",
@@ -21171,14 +21219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82038,
-      "num": 322205,
-      "word": "迪丽热巴健康气血美",
-      "onboard_time": 1754143770,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81987,
       "num": 81987,
       "word": "王者荣耀 白泽",
@@ -23427,6 +23467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32863,
+      "num": 195834,
+      "word": "女子杀害前夫潜逃26年 无罪辩护",
+      "onboard_time": 1754144790,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31852,
       "num": 179644,
       "word": "肖战这张脸是来打击化妆师自信的",
@@ -23577,6 +23625,14 @@
       "onboard_time": 1753961784,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 28602,
+      "num": 196923,
+      "word": "男子行车时天降剪刀直扎车头",
+      "onboard_time": 1754145630,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28481,
@@ -23969,6 +24025,14 @@
       "onboard_time": 1753691902,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18388,
+      "num": 196741,
+      "word": "死者家属否认小伙错付车费系套现",
+      "onboard_time": 1754145450,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18306,
