@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754156663586,
+  "endTime": 1754159875335,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628425,
+      "num": 628425,
+      "word": "赵露思意外生病是自己赔钱",
+      "onboard_time": 1754156000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620696,
       "num": 620696,
       "word": "杨幂裤脚",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1754051602,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445790,
-      "num": 98659,
-      "word": "赵露思意外生病是自己赔钱",
-      "onboard_time": 1754156000,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 443825,
@@ -6755,6 +6755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74176,
+      "num": 80523,
+      "word": "150w人围观的刷牙不吐泡沫教程",
+      "onboard_time": 1754153062,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73677,
       "num": 181812,
       "word": "宠物犬陪睡 日薪100元",
@@ -6777,14 +6785,6 @@
       "onboard_time": 1754126242,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70999,
-      "num": 80523,
-      "word": "150w人围观的刷牙不吐泡沫教程",
-      "onboard_time": 1754153062,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 70852,
@@ -7088,6 +7088,22 @@
       "word": "胖东来回应娃娃机设有保底机制",
       "onboard_time": 1754090898,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52537,
+      "num": 60738,
+      "word": "当代网红进军娱乐圈的现状",
+      "onboard_time": 1754156299,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 51749,
+      "num": 106711,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7411,14 +7427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33719,
-      "num": 60738,
-      "word": "当代网红进军娱乐圈的现状",
-      "onboard_time": 1754156299,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 33114,
       "num": 150311,
       "word": "男子健身房充87万用到300年后",
@@ -7457,6 +7465,14 @@
       "onboard_time": 1754104401,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30030,
+      "num": 46289,
+      "word": "严浩翔Rapeter把我帅没招了",
+      "onboard_time": 1754159776,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 29197,

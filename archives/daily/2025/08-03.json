@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754156663586,
+  "endTime": 1754159875335,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628425,
+      "num": 628425,
+      "word": "赵露思意外生病是自己赔钱",
+      "onboard_time": 1754156000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538982,
       "num": 538982,
       "word": "世界上最长的下巴",
       "onboard_time": 1754149827,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 445790,
-      "num": 98659,
-      "word": "赵露思意外生病是自己赔钱",
-      "onboard_time": 1754156000,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 393506,
@@ -419,6 +419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 74176,
+      "num": 80523,
+      "word": "150w人围观的刷牙不吐泡沫教程",
+      "onboard_time": 1754153062,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72005,
       "num": 214184,
       "word": "南京照相馆",
@@ -433,14 +441,6 @@
       "onboard_time": 1754142991,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 70999,
-      "num": 80523,
-      "word": "150w人围观的刷牙不吐泡沫教程",
-      "onboard_time": 1754153062,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 70697,
@@ -491,6 +491,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52537,
+      "num": 60738,
+      "word": "当代网红进军娱乐圈的现状",
+      "onboard_time": 1754156299,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 51749,
+      "num": 106711,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47416,
       "num": 70975,
       "word": "每个当下都值得全情投入",
@@ -507,12 +523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 33719,
-      "num": 60738,
-      "word": "当代网红进军娱乐圈的现状",
-      "onboard_time": 1754156299,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 30030,
+      "num": 46289,
+      "word": "严浩翔Rapeter把我帅没招了",
+      "onboard_time": 1754159776,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 4762,
