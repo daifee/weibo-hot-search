@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754159875335,
+  "endTime": 1754160727815,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -5723,6 +5723,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117103,
+      "num": 117103,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116989,
       "num": 140201,
       "word": "陈艺文3米板夺金",
@@ -7099,14 +7107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51749,
-      "num": 106711,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51639,
       "num": 58558,
       "word": "八月文案",
@@ -7387,6 +7387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35743,
+      "num": 47855,
+      "word": "侯明昊一开口梦回寒武纪",
+      "onboard_time": 1754159896,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 35668,
       "num": 35668,
       "word": "30余网红受邀参加活动遇山洪",
@@ -7468,7 +7476,7 @@
     },
     {
       "raw_hot": 30030,
-      "num": 46289,
+      "num": 47747,
       "word": "严浩翔Rapeter把我帅没招了",
       "onboard_time": 1754159776,
       "rank": 46,
@@ -7497,6 +7505,14 @@
       "onboard_time": 1754073017,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25546,
+      "num": 47709,
+      "word": "剑来第二季备案",
+      "onboard_time": 1754160196,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 24144,

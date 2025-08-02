@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754159875335,
+  "endTime": 1754160727815,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117103,
+      "num": 117103,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114480,
       "num": 239212,
       "word": "你好星期六预告",
@@ -499,14 +507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51749,
-      "num": 106711,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47416,
       "num": 70975,
       "word": "每个当下都值得全情投入",
@@ -523,12 +523,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 35743,
+      "num": 47855,
+      "word": "侯明昊一开口梦回寒武纪",
+      "onboard_time": 1754159896,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 30030,
-      "num": 46289,
+      "num": 47747,
       "word": "严浩翔Rapeter把我帅没招了",
       "onboard_time": 1754159776,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25546,
+      "num": 47709,
+      "word": "剑来第二季备案",
+      "onboard_time": 1754160196,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 4762,
