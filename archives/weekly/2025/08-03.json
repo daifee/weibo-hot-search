@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754173608121,
+  "endTime": 1754174716414,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307737,
+      "num": 307737,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285441,
       "num": 246927,
       "word": "97年出帅哥 79年出魔童",
@@ -136,14 +144,6 @@
       "word": "20岁女子遭已婚男友纠缠跳楼身亡",
       "onboard_time": 1754139387,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251813,
-      "num": 251813,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -585,6 +585,22 @@
       "onboard_time": 1754162355,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17351,
+      "num": 37540,
+      "word": "迪丽热巴健康气血美",
+      "onboard_time": 1754143770,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17241,
+      "num": 37526,
+      "word": "南通队7连胜保持不败神话",
+      "onboard_time": 1754173817,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 14633,

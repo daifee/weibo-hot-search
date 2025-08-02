@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754173608121,
+  "endTime": 1754174716414,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1643,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307737,
+      "num": 307737,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306001,
       "num": 306001,
       "word": "齐司礼风流皇叔",
@@ -2001,14 +2009,6 @@
       "onboard_time": 1754137464,
       "rank": 9,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 251813,
-      "num": 251813,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250932,
@@ -7649,6 +7649,14 @@
       "onboard_time": 1754162355,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17241,
+      "num": 37526,
+      "word": "南通队7连胜保持不败神话",
+      "onboard_time": 1754173817,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 16392,
