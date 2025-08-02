@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754134775500,
+  "endTime": 1754139177707,
   "band_list": [
     {
       "raw_hot": 9697965,
@@ -17,6 +17,14 @@
       "onboard_time": 1754111421,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2866587,
+      "num": 429714,
+      "word": "SK卡卡 恋爱",
+      "onboard_time": 1754135424,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 2845925,
@@ -89,6 +97,14 @@
       "onboard_time": 1754101522,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1310639,
+      "num": 1310639,
+      "word": "97年出帅哥 79年出魔童",
+      "onboard_time": 1754134882,
+      "rank": 0,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 1205895,
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 507531,
+      "num": 507531,
+      "word": "上海警方通报外国人阻止吸烟起纠纷",
+      "onboard_time": 1754135603,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 501704,
       "num": 501704,
       "word": "警方证实女子酒店所喝矿泉水是咸的",
@@ -387,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 415417,
+      "num": 415417,
+      "word": "一家三口赶海1人失踪1人进ICU",
+      "onboard_time": 1754133024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411579,
       "num": 411579,
       "word": "警方通报24岁快递员持刀划伤两业主",
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380242,
+      "num": 299995,
+      "word": "好野啊千玺",
+      "onboard_time": 1754138663,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 362649,
       "num": 324828,
       "word": "赵立坚发了张凌赫",
@@ -465,14 +505,6 @@
       "onboard_time": 1754132302,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 336742,
-      "num": 336742,
-      "word": "一家三口赶海1人失踪1人进ICU",
-      "onboard_time": 1754133024,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331741,
@@ -571,6 +603,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 299206,
+      "num": 299206,
+      "word": "sp丹恒",
+      "onboard_time": 1754136864,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 297850,
+      "num": 297850,
+      "word": "难听",
+      "onboard_time": 1754138905,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 295472,
       "num": 175874,
       "word": "Chinajoy",
@@ -603,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289459,
+      "num": 249918,
+      "word": "阮经天 妈妈不在了就不过生日了",
+      "onboard_time": 1754138184,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282612,
       "num": 282612,
       "word": "张翰终于演对角色了",
@@ -625,6 +681,22 @@
       "onboard_time": 1754094740,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273535,
+      "num": 219444,
+      "word": "刘宇宁武汉演唱会",
+      "onboard_time": 1754132123,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 268338,
+      "num": 211583,
+      "word": "你好星期六预告",
+      "onboard_time": 1754138725,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 268268,
@@ -657,6 +729,22 @@
       "onboard_time": 1754108302,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252274,
+      "num": 207066,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1754131703,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 251926,
+      "num": 251926,
+      "word": "易烊千玺演唱会现场好多显眼包",
+      "onboard_time": 1754136803,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 247192,
@@ -699,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236614,
+      "num": 178226,
+      "word": "hi6",
+      "onboard_time": 1754138725,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236207,
       "num": 236207,
       "word": "迪丽热巴抓拍成功",
@@ -731,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229702,
+      "num": 300411,
+      "word": "基孔肯雅热全球流行范围持续扩大",
+      "onboard_time": 1754137464,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 228883,
       "num": 228883,
       "word": "坚持早睡1个小时的身体变化",
@@ -745,6 +849,14 @@
       "onboard_time": 1754117001,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 227992,
+      "num": 227992,
+      "word": "淮安vs苏州",
+      "onboard_time": 1754135784,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 224208,
@@ -779,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215059,
+      "num": 176861,
+      "word": "刘宇宁末世文将军",
+      "onboard_time": 1754137945,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213695,
       "num": 213695,
       "word": "明明就原唱是周杰伦",
@@ -792,6 +912,14 @@
       "word": "银河酷娱",
       "onboard_time": 1754130504,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211959,
+      "num": 175681,
+      "word": "SNH48总选排名",
+      "onboard_time": 1754138905,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -883,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203663,
-      "num": 190276,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1754131703,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203100,
       "num": 203100,
       "word": "KPL",
@@ -945,14 +1065,6 @@
       "onboard_time": 1754133083,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197670,
-      "num": 189561,
-      "word": "刘宇宁武汉演唱会",
-      "onboard_time": 1754132123,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 196684,
@@ -1083,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184408,
+      "num": 163586,
+      "word": "SNH48总选",
+      "onboard_time": 1754131644,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182615,
       "num": 182615,
       "word": "王安宇的粉丝真的吃得很好",
@@ -1113,6 +1233,14 @@
       "onboard_time": 1754065341,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179125,
+      "num": 179125,
+      "word": "苏超",
+      "onboard_time": 1754131882,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 178214,
@@ -1161,6 +1289,14 @@
       "onboard_time": 1754106561,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 174032,
+      "num": 174032,
+      "word": "贾玲好美的精神状态",
+      "onboard_time": 1754136204,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 173193,
@@ -1267,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163566,
+      "num": 163565,
+      "word": "苏醒说王铮亮唱得好穿得少",
+      "onboard_time": 1754138426,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162586,
       "num": 162586,
       "word": "诡秘之主海外封神榜好抓马",
@@ -1305,6 +1449,14 @@
       "onboard_time": 1754106861,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159028,
+      "num": 159028,
+      "word": "吴宣仪演唱会",
+      "onboard_time": 1754137524,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 158808,
@@ -1483,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149665,
+      "num": 149665,
+      "word": "哪吒归来又拿第一名",
+      "onboard_time": 1754137524,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149429,
       "num": 290257,
       "word": "华为乾崑再添一派",
@@ -1563,12 +1723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146048,
-      "num": 146048,
-      "word": "SNH48总选",
-      "onboard_time": 1754131644,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 145565,
+      "num": 145565,
+      "word": "南京照相馆票房超12亿",
+      "onboard_time": 1754134702,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 145335,
@@ -1657,6 +1817,14 @@
       "onboard_time": 1754114962,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139647,
+      "num": 139647,
+      "word": "第一次遇见生理性喜欢的电影",
+      "onboard_time": 1754137763,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 138821,
@@ -1763,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135052,
+      "num": 163607,
+      "word": "淮安队vs苏州队把外国球迷都圈粉了",
+      "onboard_time": 1754138545,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134930,
       "num": 169993,
       "word": "河北兴隆北京山谷项目3人遇难4人失联",
@@ -1835,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131810,
+      "num": 131810,
+      "word": "凡人修梗传",
+      "onboard_time": 1754138604,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131515,
       "num": 131515,
       "word": "i人谭松韵刘学义 剧组的玩具",
@@ -1881,6 +2065,14 @@
       "onboard_time": 1754130983,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130450,
+      "num": 163566,
+      "word": "犯罪心理2",
+      "onboard_time": 1754137584,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 130408,
@@ -2012,7 +2204,7 @@
     },
     {
       "raw_hot": 124048,
-      "num": 140598,
+      "num": 157280,
       "word": "北方 白纹伊蚊",
       "onboard_time": 1754132782,
       "rank": 38,
@@ -2139,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120601,
+      "num": 157604,
+      "word": "81岁大爷给认识3天女友儿子买房",
+      "onboard_time": 1754137584,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119768,
       "num": 119768,
       "word": "余宇涵尝试新风格",
@@ -2153,6 +2353,14 @@
       "onboard_time": 1754095820,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117147,
+      "num": 117147,
+      "word": "苏超镇江vs南通",
+      "onboard_time": 1754136263,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 116989,
@@ -2275,6 +2483,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 109712,
+      "num": 157349,
+      "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
+      "onboard_time": 1754138545,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108306,
       "num": 108306,
       "word": "zeka沙皇",
@@ -2379,6 +2595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104685,
+      "num": 104685,
+      "word": "泽连斯基称愿以最快速度推进和平",
+      "onboard_time": 1754135362,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104492,
       "num": 104492,
       "word": "重温刘雨辰赛场求婚黄雅琼",
@@ -2417,14 +2641,6 @@
       "onboard_time": 1754129363,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102116,
-      "num": 130320,
-      "word": "苏超",
-      "onboard_time": 1754131882,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 100755,
@@ -3075,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31761,
+      "num": 230324,
+      "word": "易烊千玺演唱会九号幸运粉丝",
+      "onboard_time": 1754138725,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 30103,
       "num": 30103,
       "word": "2025新加坡世界泳联世锦赛",
@@ -3105,6 +3329,14 @@
       "onboard_time": 1754073017,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20959,
+      "num": 274697,
+      "word": "什么比赛让NBA球星集体喊话",
+      "onboard_time": 1754125103,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 20930,

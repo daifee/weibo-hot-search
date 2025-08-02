@@ -1,0 +1,410 @@
+{
+  "runTime": 1754139177707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310639,
+        "num": 1310639,
+        "word": "97年出帅哥 79年出魔童",
+        "onboard_time": 1754134882,
+        "rank": 0,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 507531,
+        "num": 507531,
+        "word": "上海警方通报外国人阻止吸烟起纠纷",
+        "onboard_time": 1754135603,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 28093,
+        "num": 429880,
+        "word": "还有5天就立秋了",
+        "onboard_time": 1754096361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2866587,
+        "num": 429714,
+        "word": "SK卡卡 恋爱",
+        "onboard_time": 1754135424,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 423199,
+        "num": 423199,
+        "word": "警方证实女子酒店所喝矿泉水是咸的",
+        "onboard_time": 1754127382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415417,
+        "num": 415417,
+        "word": "一家三口赶海1人失踪1人进ICU",
+        "onboard_time": 1754133024,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430171,
+        "num": 370302,
+        "word": "禹宙中欣",
+        "onboard_time": 1754129845,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428287,
+        "num": 351141,
+        "word": "年轮说原唱杨丞琳",
+        "onboard_time": 1754120722,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321648,
+        "num": 321648,
+        "word": "覃海洋自编自导自演神剧本",
+        "onboard_time": 1754122402,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229702,
+        "num": 300411,
+        "word": "基孔肯雅热全球流行范围持续扩大",
+        "onboard_time": 1754137464,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 533216,
+        "num": 300399,
+        "word": "IU宝剑结婚 钟硕那边我去说",
+        "onboard_time": 1754127983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380242,
+        "num": 299995,
+        "word": "好野啊千玺",
+        "onboard_time": 1754138663,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299206,
+        "num": 299206,
+        "word": "sp丹恒",
+        "onboard_time": 1754136864,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297850,
+        "num": 297850,
+        "word": "难听",
+        "onboard_time": 1754138905,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20959,
+        "num": 274697,
+        "word": "什么比赛让NBA球星集体喊话",
+        "onboard_time": 1754125103,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251926,
+        "num": 251926,
+        "word": "易烊千玺演唱会现场好多显眼包",
+        "onboard_time": 1754136803,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289459,
+        "num": 249918,
+        "word": "阮经天 妈妈不在了就不过生日了",
+        "onboard_time": 1754138184,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244750,
+        "num": 244750,
+        "word": "原来爆米花真的是一种花",
+        "onboard_time": 1754122882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31761,
+        "num": 230324,
+        "word": "易烊千玺演唱会九号幸运粉丝",
+        "onboard_time": 1754138725,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227992,
+        "num": 227992,
+        "word": "淮安vs苏州",
+        "onboard_time": 1754135784,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273535,
+        "num": 219444,
+        "word": "刘宇宁武汉演唱会",
+        "onboard_time": 1754132123,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268338,
+        "num": 211583,
+        "word": "你好星期六预告",
+        "onboard_time": 1754138725,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252274,
+        "num": 207066,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1754131703,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198430,
+        "num": 198430,
+        "word": "斗破苍穹 萧潇",
+        "onboard_time": 1754132302,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 179125,
+        "num": 179125,
+        "word": "苏超",
+        "onboard_time": 1754131882,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236614,
+        "num": 178226,
+        "word": "hi6",
+        "onboard_time": 1754138725,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4012695,
+        "num": 178035,
+        "word": "赵露思艾特银河酷娱",
+        "onboard_time": 1754126183,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215059,
+        "num": 176861,
+        "word": "刘宇宁末世文将军",
+        "onboard_time": 1754137945,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211959,
+        "num": 175681,
+        "word": "SNH48总选排名",
+        "onboard_time": 1754138905,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175266,
+        "num": 175266,
+        "word": "给奶奶点了将近一年的早餐",
+        "onboard_time": 1754131342,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174032,
+        "num": 174032,
+        "word": "贾玲好美的精神状态",
+        "onboard_time": 1754136204,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163925,
+        "num": 163925,
+        "word": "严浩翔没让嘉尔哥失望",
+        "onboard_time": 1754131522,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135052,
+        "num": 163607,
+        "word": "淮安队vs苏州队把外国球迷都圈粉了",
+        "onboard_time": 1754138545,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184408,
+        "num": 163586,
+        "word": "SNH48总选",
+        "onboard_time": 1754131644,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130450,
+        "num": 163566,
+        "word": "犯罪心理2",
+        "onboard_time": 1754137584,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 163566,
+        "num": 163565,
+        "word": "苏醒说王铮亮唱得好穿得少",
+        "onboard_time": 1754138426,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159028,
+        "num": 159028,
+        "word": "吴宣仪演唱会",
+        "onboard_time": 1754137524,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120601,
+        "num": 157604,
+        "word": "81岁大爷给认识3天女友儿子买房",
+        "onboard_time": 1754137584,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109712,
+        "num": 157349,
+        "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
+        "onboard_time": 1754138545,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119563,
+        "num": 157280,
+        "word": "北方 白纹伊蚊",
+        "onboard_time": 1754132782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157211,
+        "num": 157211,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149665,
+        "num": 149665,
+        "word": "哪吒归来又拿第一名",
+        "onboard_time": 1754137524,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145565,
+        "num": 145565,
+        "word": "南京照相馆票房超12亿",
+        "onboard_time": 1754134702,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139647,
+        "num": 139647,
+        "word": "第一次遇见生理性喜欢的电影",
+        "onboard_time": 1754137763,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "凡人修梗传",
+        "onboard_time": 1754138604,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 117147,
+        "word": "苏超镇江vs南通",
+        "onboard_time": 1754136263,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115116,
+        "num": 115116,
+        "word": "金晨终于遇到最懂她的商务",
+        "onboard_time": 1754133801,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112234,
+        "num": 112234,
+        "word": "母女被溅了一身脏水妈妈直接报警",
+        "onboard_time": 1754121441,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110023,
+        "num": 110023,
+        "word": "北京西北四环一夜铺了8000吨沥青",
+        "onboard_time": 1754124622,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104685,
+        "num": 104685,
+        "word": "泽连斯基称愿以最快速度推进和平",
+        "onboard_time": 1754135362,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
