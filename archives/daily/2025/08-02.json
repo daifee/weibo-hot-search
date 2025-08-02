@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754110626477,
+  "endTime": 1754112656509,
   "band_list": [
     {
       "raw_hot": 2845925,
@@ -9,6 +9,14 @@
       "onboard_time": 1754097021,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2832880,
+      "num": 2832880,
+      "word": "年轮被指抄袭蝶恋",
+      "onboard_time": 1754111421,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 2751990,
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1142161,
+      "num": 1155677,
+      "word": "网传亮证司机是公安局领导不实",
+      "onboard_time": 1754108242,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1099522,
       "num": 252367,
       "word": "低人一等座",
@@ -65,14 +81,6 @@
       "onboard_time": 1754061083,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 972985,
-      "num": 1155677,
-      "word": "网传亮证司机是公安局领导不实",
-      "onboard_time": 1754108242,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 968697,
@@ -227,12 +235,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 347323,
+      "raw_hot": 354572,
       "num": 250554,
       "word": "7岁男孩求父母抛弃自己",
       "onboard_time": 1754107103,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351960,
+      "num": 351960,
+      "word": "鹿晗亚巡再宣五城",
+      "onboard_time": 1754110942,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 328828,
@@ -323,7 +339,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247297,
+      "raw_hot": 264148,
       "num": 247297,
       "word": "章昊外网热议的照片",
       "onboard_time": 1754108302,
@@ -379,12 +395,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224208,
+      "num": 216510,
+      "word": "您的骑手正在与流浪猫决斗",
+      "onboard_time": 1754107521,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222462,
       "num": 328981,
       "word": "林一卢昱晓新剧折月亮开机",
       "onboard_time": 1754101041,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216040,
+      "num": 216040,
+      "word": "徐志胜我不想被脱口秀抛下",
+      "onboard_time": 1754110282,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 210089,
@@ -433,14 +465,6 @@
       "onboard_time": 1754079674,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200238,
-      "num": 200238,
-      "word": "您的骑手正在与流浪猫决斗",
-      "onboard_time": 1754107521,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 200128,
@@ -507,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184321,
+      "num": 184321,
+      "word": "教师辞编后例假都正常了",
+      "onboard_time": 1754109801,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179240,
       "num": 179556,
       "word": "者来女 玩得起",
@@ -537,6 +569,14 @@
       "onboard_time": 1754106561,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 172345,
+      "num": 220995,
+      "word": "淘宝闪购奶茶免单限时加码",
+      "onboard_time": 1754110881,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 172338,
@@ -587,14 +627,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 165146,
-      "num": 165146,
-      "word": "教师辞编后例假都正常了",
-      "onboard_time": 1754109801,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164876,
       "num": 164876,
       "word": "美股大跌黄金大涨",
@@ -633,6 +665,14 @@
       "onboard_time": 1754101041,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157485,
+      "num": 157485,
+      "word": "在短剧甚至能看到女太监",
+      "onboard_time": 1754111602,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 156475,
@@ -683,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148563,
+      "num": 173949,
+      "word": "什么电影敢在胖东来做点映",
+      "onboard_time": 1754110702,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147095,
       "num": 147095,
       "word": "刘诗诗好适合田园生活",
@@ -697,6 +745,14 @@
       "onboard_time": 1754098461,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145678,
+      "num": 145678,
+      "word": "加沙已成炼狱美国竟还在打算盘",
+      "onboard_time": 1754111062,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143600,
@@ -755,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136719,
+      "num": 136719,
+      "word": "黄俊捷这张脸早该演现偶了",
+      "onboard_time": 1754112022,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136179,
       "num": 136179,
       "word": "歌手总决赛名单",
@@ -787,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134278,
+      "num": 252802,
+      "word": "北京8区发生山洪灾害可能性较大",
+      "onboard_time": 1754109861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134120,
       "num": 134120,
       "word": "生命树",
@@ -801,6 +873,14 @@
       "onboard_time": 1754108481,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133222,
+      "num": 133222,
+      "word": "王俊凯眼睛不知道该看哪里了",
+      "onboard_time": 1754112142,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 131515,
@@ -827,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128910,
+      "num": 128910,
+      "word": "遭亮证逼迫让路当事人最新发声",
+      "onboard_time": 1754112082,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128726,
       "num": 128726,
       "word": "住酒店闻到异味竟是一条恶臭内裤",
@@ -849,6 +937,14 @@
       "onboard_time": 1754095521,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123824,
+      "num": 123824,
+      "word": "西方各国为何忍不了以色列了",
+      "onboard_time": 1754112022,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123817,
@@ -923,12 +1019,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 111571,
+      "num": 111571,
+      "word": "27岁学跳舞5个月的变化",
+      "onboard_time": 1754110822,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 111056,
       "num": 111056,
       "word": "光与夜之恋灼灼金帐栖",
       "onboard_time": 1754100561,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "沈佳润05后营业原来是这样",
+      "onboard_time": 1754111122,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 109781,
@@ -956,19 +1068,11 @@
     },
     {
       "raw_hot": 106446,
-      "num": 106446,
+      "num": 190896,
       "word": "特朗普让劳工统计局长走人",
       "onboard_time": 1754099240,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106375,
-      "num": 252802,
-      "word": "北京8区发生山洪灾害可能性较大",
-      "onboard_time": 1754109861,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106266,
@@ -979,20 +1083,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105492,
+      "num": 105492,
+      "word": "上海一平米房可以听三四十场演唱会",
+      "onboard_time": 1754112622,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98178,
       "num": 98178,
       "word": "澳洲一快艇从濒危幼鲸背上碾过",
       "onboard_time": 1754099602,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97690,
-      "num": 207810,
-      "word": "徐志胜我不想被脱口秀抛下",
-      "onboard_time": 1754110282,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 97682,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1754055683,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85907,
+      "num": 217458,
+      "word": "CJ骁龙馆游戏人的快乐老家",
+      "onboard_time": 1754111122,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 85862,
@@ -1395,6 +1507,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 37829,
+      "num": 702711,
+      "word": "信息支援部队攻防演练首次公开",
+      "onboard_time": 1754095461,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 37788,
       "num": 37788,
       "word": "浙江一高校通报批评9名学生",
@@ -1449,14 +1569,6 @@
       "onboard_time": 1754104401,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28306,
-      "num": 702711,
-      "word": "信息支援部队攻防演练首次公开",
-      "onboard_time": 1754095461,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 27785,
@@ -1516,6 +1628,9 @@
     },
     {
       "word": "#书写强军荣光#"
+    },
+    {
+      "word": "#人民军队攻坚向前#"
     }
   ]
 }

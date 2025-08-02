@@ -1,0 +1,410 @@
+{
+  "runTime": 1754112656509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2832880,
+        "num": 2832880,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1142161,
+        "num": 1142161,
+        "word": "网传亮证司机是公安局领导不实",
+        "onboard_time": 1754108242,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 37829,
+        "num": 693480,
+        "word": "信息支援部队攻防演练首次公开",
+        "onboard_time": 1754095461,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 575469,
+        "num": 575469,
+        "word": "哪吒",
+        "onboard_time": 1754101640,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 430741,
+        "num": 430741,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356016,
+        "num": 356016,
+        "word": "青岛姑娘买下日本70万平方小岛",
+        "onboard_time": 1754083094,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351960,
+        "num": 351960,
+        "word": "鹿晗亚巡再宣五城",
+        "onboard_time": 1754110942,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344604,
+        "num": 344604,
+        "word": "男子还原奔驰女司机亮证逼迫让路过程",
+        "onboard_time": 1754103621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302361,
+        "num": 302361,
+        "word": "迪丽热巴主动把词分给群演",
+        "onboard_time": 1754106621,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224053,
+        "num": 224053,
+        "word": "警方通报24岁快递员持刀划伤两业主",
+        "onboard_time": 1754100141,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 770387,
+        "num": 223710,
+        "word": "低人一等座",
+        "onboard_time": 1754105961,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747605,
+        "num": 223293,
+        "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+        "onboard_time": 1754101522,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 675084,
+        "num": 222168,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354572,
+        "num": 221885,
+        "word": "7岁男孩求父母抛弃自己",
+        "onboard_time": 1754107103,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172345,
+        "num": 220995,
+        "word": "淘宝闪购奶茶免单限时加码",
+        "onboard_time": 1754110881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1243391,
+        "num": 220119,
+        "word": "亮证姐",
+        "onboard_time": 1754097021,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1160115,
+        "num": 219571,
+        "word": "民警上门要求删视频的监控曝光",
+        "onboard_time": 1754090058,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467761,
+        "num": 219228,
+        "word": "被亮证男子希望纪委介入调查",
+        "onboard_time": 1754102661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318171,
+        "num": 218324,
+        "word": "李咏女儿恋情",
+        "onboard_time": 1754105241,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85907,
+        "num": 217458,
+        "word": "CJ骁龙馆游戏人的快乐老家",
+        "onboard_time": 1754111122,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264148,
+        "num": 217000,
+        "word": "章昊外网热议的照片",
+        "onboard_time": 1754108302,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224208,
+        "num": 216510,
+        "word": "您的骑手正在与流浪猫决斗",
+        "onboard_time": 1754107521,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216040,
+        "num": 216040,
+        "word": "徐志胜我不想被脱口秀抛下",
+        "onboard_time": 1754110282,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207053,
+        "num": 207053,
+        "word": "坚持早睡1个小时的身体变化",
+        "onboard_time": 1754099541,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50792,
+        "num": 190896,
+        "word": "特朗普让劳工统计局长走人",
+        "onboard_time": 1754099240,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184321,
+        "num": 184321,
+        "word": "教师辞编后例假都正常了",
+        "onboard_time": 1754109801,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178888,
+        "num": 178888,
+        "word": "日本老龄化具象化了",
+        "onboard_time": 1754097321,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176138,
+        "num": 176138,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1754105961,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148563,
+        "num": 173949,
+        "word": "什么电影敢在胖东来做点映",
+        "onboard_time": 1754110702,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134278,
+        "num": 173817,
+        "word": "北京8区发生山洪灾害可能性较大",
+        "onboard_time": 1754109861,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173772,
+        "num": 173772,
+        "word": "这才是双休工作少的原因",
+        "onboard_time": 1754107401,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158341,
+        "num": 158341,
+        "word": "演员于娜回应变胖",
+        "onboard_time": 1754109502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157485,
+        "num": 157485,
+        "word": "在短剧甚至能看到女太监",
+        "onboard_time": 1754111602,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145678,
+        "num": 145678,
+        "word": "加沙已成炼狱美国竟还在打算盘",
+        "onboard_time": 1754111062,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144314,
+        "num": 144314,
+        "word": "张元英模仿小时候自己的照片",
+        "onboard_time": 1754107701,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136719,
+        "num": 136719,
+        "word": "黄俊捷这张脸早该演现偶了",
+        "onboard_time": 1754112022,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133222,
+        "num": 133222,
+        "word": "王俊凯眼睛不知道该看哪里了",
+        "onboard_time": 1754112142,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128910,
+        "num": 128910,
+        "word": "遭亮证逼迫让路当事人最新发声",
+        "onboard_time": 1754112082,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126617,
+        "num": 126617,
+        "word": "光与夜之恋",
+        "onboard_time": 1754092460,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126133,
+        "num": 126133,
+        "word": "王楚然下跪张凌赫摔酒杯路透",
+        "onboard_time": 1754093900,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125434,
+        "num": 125434,
+        "word": "警方通报因纠纷快递员划伤2人",
+        "onboard_time": 1754097681,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123824,
+        "num": 123824,
+        "word": "西方各国为何忍不了以色列了",
+        "onboard_time": 1754112022,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121607,
+        "num": 121607,
+        "word": "特斯拉致命车祸被裁定赔2.43亿美元",
+        "onboard_time": 1754103261,
+        "rank": 42,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 111571,
+        "num": 111571,
+        "word": "27岁学跳舞5个月的变化",
+        "onboard_time": 1754110822,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110931,
+        "num": 110931,
+        "word": "沈佳润05后营业原来是这样",
+        "onboard_time": 1754111122,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105492,
+        "num": 105492,
+        "word": "上海一平米房可以听三四十场演唱会",
+        "onboard_time": 1754112622,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98970,
+        "num": 98970,
+        "word": "老祖宗的审美是有一定道理的",
+        "onboard_time": 1754108481,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98600,
+        "num": 98600,
+        "word": "中国文化跨越山海",
+        "onboard_time": 1754106381,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97755,
+        "num": 97755,
+        "word": "光与夜之恋 齐司礼",
+        "onboard_time": 1754100081,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97532,
+        "num": 97532,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1754102001,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
