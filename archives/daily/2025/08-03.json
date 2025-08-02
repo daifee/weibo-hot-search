@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754160727815,
+  "endTime": 1754162509124,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180863,
+      "num": 180863,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177952,
       "num": 252853,
       "word": "被水泥块砸中身亡女子还不满21岁",
@@ -280,14 +288,6 @@
       "word": "5个方法让周末不再无效休息",
       "onboard_time": 1754153302,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117103,
-      "num": 117103,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40020,
+      "num": 40020,
+      "word": "鞠婧祎丝巾上衣",
+      "onboard_time": 1754160556,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36654,
       "num": 60742,
       "word": "se神画斩业星熊了",
@@ -539,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26529,
+      "num": 32315,
+      "word": "刘宇宁凉州词好炸",
+      "onboard_time": 1754162055,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25546,
       "num": 47709,
       "word": "剑来第二季备案",
       "onboard_time": 1754160196,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17447,
+      "num": 32307,
+      "word": "格力辟谣高管内外勾结骗取侨商钱财",
+      "onboard_time": 1754162355,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 4762,
