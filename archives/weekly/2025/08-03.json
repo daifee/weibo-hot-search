@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754170922924,
+  "endTime": 1754173608121,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251813,
+      "num": 251813,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199476,
       "num": 246901,
       "word": "日本专家建议老人自杀解决老龄化",
@@ -153,14 +161,6 @@
       "onboard_time": 1754123781,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 180863,
-      "num": 180863,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177952,
@@ -585,6 +585,14 @@
       "onboard_time": 1754162355,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 14633,
+      "num": 30645,
+      "word": "Scout状态",
+      "onboard_time": 1754170574,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 13354,
