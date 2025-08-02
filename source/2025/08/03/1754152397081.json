@@ -1,0 +1,410 @@
+{
+  "runTime": 1754152397081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1637118,
+        "num": 1637118,
+        "word": "刘宇宁哭了",
+        "onboard_time": 1754148089,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 672038,
+        "num": 672038,
+        "word": "豆瓣崩了",
+        "onboard_time": 1754141491,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4762,
+        "num": 443090,
+        "word": "上半年国内居民出游人次32.85亿",
+        "onboard_time": 1754037984,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393506,
+        "num": 393506,
+        "word": "山东一彩民花69元中2.4亿元",
+        "onboard_time": 1754147788,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9295523,
+        "num": 9295523,
+        "word": "赵露思发文控诉",
+        "onboard_time": 1754139566,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379408,
+        "num": 379408,
+        "word": "世界上最长的下巴",
+        "onboard_time": 1754149827,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1342073,
+        "num": 372276,
+        "word": "银河酷娱旗下艺人",
+        "onboard_time": 1754143589,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123262,
+        "num": 345301,
+        "word": "五月天演唱会现场给汪苏泷送版权",
+        "onboard_time": 1754149827,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253026,
+        "num": 253026,
+        "word": "20岁女子遭已婚男友纠缠跳楼身亡",
+        "onboard_time": 1754139387,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177952,
+        "num": 252853,
+        "word": "被水泥块砸中身亡女子还不满21岁",
+        "onboard_time": 1754143409,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2674344,
+        "num": 252349,
+        "word": "赵露思 我不干了",
+        "onboard_time": 1754139806,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 963717,
+        "num": 251575,
+        "word": "难听",
+        "onboard_time": 1754138905,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 637461,
+        "num": 251322,
+        "word": "葛夕晒离婚证",
+        "onboard_time": 1754140232,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379118,
+        "num": 250888,
+        "word": "易烊千玺好美",
+        "onboard_time": 1754143710,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175863,
+        "num": 250002,
+        "word": "卡车司机服务区去世三天被发现",
+        "onboard_time": 1754143530,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344162,
+        "num": 249629,
+        "word": "恋人剧组",
+        "onboard_time": 1754144429,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326928,
+        "num": 249152,
+        "word": "许我耀眼",
+        "onboard_time": 1754146169,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165824,
+        "num": 248940,
+        "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
+        "onboard_time": 1754138545,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129365,
+        "num": 248005,
+        "word": "上海警方通报外国人阻止吸烟起纠纷",
+        "onboard_time": 1754135603,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 120292,
+        "num": 247495,
+        "word": "在宿舍猝死的58岁高三老师",
+        "onboard_time": 1754146648,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285441,
+        "num": 246927,
+        "word": "97年出帅哥 79年出魔童",
+        "onboard_time": 1754134882,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199476,
+        "num": 246901,
+        "word": "日本专家建议老人自杀解决老龄化",
+        "onboard_time": 1754144069,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186969,
+        "num": 246329,
+        "word": "贾玲股四头肌",
+        "onboard_time": 1754151144,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186358,
+        "num": 245622,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1754123781,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113645,
+        "num": 245214,
+        "word": "12306客服回应高铁低人一等座",
+        "onboard_time": 1754143050,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176379,
+        "num": 244830,
+        "word": "偶遇戚薇郑业成吃宵夜",
+        "onboard_time": 1754149585,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163976,
+        "num": 244234,
+        "word": "宋昕冉第二",
+        "onboard_time": 1754144550,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154989,
+        "num": 243575,
+        "word": "禹宙中欣",
+        "onboard_time": 1754129845,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133106,
+        "num": 242898,
+        "word": "丁程鑫 改扣子漏光了",
+        "onboard_time": 1754145331,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103628,
+        "num": 242792,
+        "word": "基孔肯雅热全球流行范围持续扩大",
+        "onboard_time": 1754137464,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 129268,
+        "num": 242068,
+        "word": "杨冰怡总选第一",
+        "onboard_time": 1754142631,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124510,
+        "num": 241455,
+        "word": "IU宝剑结婚 钟硕那边我去说",
+        "onboard_time": 1754127983,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123591,
+        "num": 240894,
+        "word": "韩红演唱会嘉宾陈立农",
+        "onboard_time": 1754151086,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110071,
+        "num": 240719,
+        "word": "30岁两个正常人婚后的真实生活",
+        "onboard_time": 1754144010,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100018,
+        "num": 240052,
+        "word": "扮演藏獒拉布拉多疑被拔牙",
+        "onboard_time": 1754148868,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122876,
+        "num": 239672,
+        "word": "SNH48总选排名",
+        "onboard_time": 1754138905,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114480,
+        "num": 239212,
+        "word": "你好星期六预告",
+        "onboard_time": 1754138725,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99952,
+        "num": 238480,
+        "word": "F1",
+        "onboard_time": 1754146711,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85829,
+        "num": 238223,
+        "word": "一家三口赶海1人失踪1人进ICU",
+        "onboard_time": 1754133024,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46181,
+        "num": 237577,
+        "word": "王楚然被粉丝安慰的眼圈红了",
+        "onboard_time": 1754151444,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109527,
+        "num": 236792,
+        "word": "银河酷娱",
+        "onboard_time": 1754130504,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98263,
+        "num": 236255,
+        "word": "五月天送超人版权给汪苏泷",
+        "onboard_time": 1754148568,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89124,
+        "num": 235765,
+        "word": "刘宇宁这怎么不算going",
+        "onboard_time": 1754144069,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84850,
+        "num": 235431,
+        "word": "五月天汪苏泷合唱任性像晴天像雨天",
+        "onboard_time": 1754150487,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80776,
+        "num": 235084,
+        "word": "38岁单亲妈妈陪读2年女儿上清华",
+        "onboard_time": 1754147669,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77852,
+        "num": 234466,
+        "word": "赵心童无缘决赛",
+        "onboard_time": 1754145989,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75207,
+        "num": 233900,
+        "word": "魔咒",
+        "onboard_time": 1754144731,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 68696,
+        "num": 233548,
+        "word": "十五运会火炬发布",
+        "onboard_time": 1754148267,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67842,
+        "num": 232940,
+        "word": "给奶奶点了将近一年的早餐",
+        "onboard_time": 1754131342,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63169,
+        "num": 232346,
+        "word": "Shanks AL也回来了",
+        "onboard_time": 1754145271,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
