@@ -1,0 +1,410 @@
+{
+  "runTime": 1754133825881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7160223,
+        "num": 7160223,
+        "word": "赵露思艾特银河酷娱",
+        "onboard_time": 1754126183,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420555,
+        "num": 420555,
+        "word": "杨某人抽奖",
+        "onboard_time": 1754130324,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26426,
+        "num": 411305,
+        "word": "还有5天就立秋了",
+        "onboard_time": 1754096361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1669236,
+        "num": 409064,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1754123781,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406545,
+        "num": 406545,
+        "word": "警方证实女子酒店所喝矿泉水是咸的",
+        "onboard_time": 1754127382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364156,
+        "num": 364156,
+        "word": "覃海洋自编自导自演神剧本",
+        "onboard_time": 1754122402,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656231,
+        "num": 319981,
+        "word": "禹宙中欣",
+        "onboard_time": 1754129845,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595167,
+        "num": 317980,
+        "word": "年轮说原唱杨丞琳",
+        "onboard_time": 1754120722,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263598,
+        "num": 263598,
+        "word": "斗破苍穹 萧潇",
+        "onboard_time": 1754132302,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 58304,
+        "num": 262186,
+        "word": "阿姨给救灾一线送几大锅包子",
+        "onboard_time": 1754132844,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1177731,
+        "num": 247695,
+        "word": "IU宝剑结婚 钟硕那边我去说",
+        "onboard_time": 1754127983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307637,
+        "num": 241273,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305116,
+        "num": 232363,
+        "word": "王俊凯祝易烊千玺出窑成功",
+        "onboard_time": 1754125103,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293219,
+        "num": 225172,
+        "word": "严浩翔没让嘉尔哥失望",
+        "onboard_time": 1754131522,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220868,
+        "num": 220868,
+        "word": "北京西北四环一夜铺了8000吨沥青",
+        "onboard_time": 1754124622,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210595,
+        "num": 210595,
+        "word": "原来爆米花真的是一种花",
+        "onboard_time": 1754122882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199256,
+        "num": 199256,
+        "word": "刘骏四果汤狂热粉丝",
+        "onboard_time": 1754133083,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198162,
+        "num": 198162,
+        "word": "给奶奶点了将近一年的早餐",
+        "onboard_time": 1754131342,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195393,
+        "num": 195393,
+        "word": "罗小黑战记2",
+        "onboard_time": 1754132902,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 187567,
+        "num": 194257,
+        "word": "一家三口赶海1人失踪1人进ICU",
+        "onboard_time": 1754133024,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198141,
+        "num": 194210,
+        "word": "银河酷娱",
+        "onboard_time": 1754130504,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193855,
+        "num": 193855,
+        "word": "IVE舞台飞麦",
+        "onboard_time": 1754130863,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190332,
+        "num": 190332,
+        "word": "杨洋金晨 没有CP感",
+        "onboard_time": 1754118562,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178560,
+        "num": 178560,
+        "word": "斗破苍穹",
+        "onboard_time": 1754123424,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178719,
+        "num": 177774,
+        "word": "拉宏桑 不搞笑",
+        "onboard_time": 1754120482,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171635,
+        "num": 171635,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1754131703,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 159289,
+        "word": "董璇张维伊因买单吵架",
+        "onboard_time": 1754126542,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159288,
+        "num": 159288,
+        "word": "刘宇宁武汉演唱会",
+        "onboard_time": 1754132123,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155458,
+        "num": 155458,
+        "word": "凡人修仙传女主喝奶茶也这么仙吗",
+        "onboard_time": 1754133024,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149036,
+        "num": 149036,
+        "word": "俄女孩因太爱吃炒面定居温州8年",
+        "onboard_time": 1754130683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153824,
+        "num": 147753,
+        "word": "孟子义先认识徐艺洋后认识黄子韬",
+        "onboard_time": 1754131464,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146188,
+        "num": 146188,
+        "word": "母女被溅了一身脏水妈妈直接报警",
+        "onboard_time": 1754121441,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146048,
+        "num": 146048,
+        "word": "SNH48总选",
+        "onboard_time": 1754131644,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145455,
+        "num": 145455,
+        "word": "鹿晗郑州抢票",
+        "onboard_time": 1754133323,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135400,
+        "num": 135400,
+        "word": "SJ赫海SNH48演唱会说粤语",
+        "onboard_time": 1754133083,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131852,
+        "num": 131852,
+        "word": "吴克群暂停演出救晕倒粉丝",
+        "onboard_time": 1754133263,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129200,
+        "num": 129200,
+        "word": "黄雅琼刘雨辰领证",
+        "onboard_time": 1754113223,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126639,
+        "num": 126639,
+        "word": "驻日本大使馆再次发布安全提醒",
+        "onboard_time": 1754127804,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40129,
+        "num": 124115,
+        "word": "北方 白纹伊蚊",
+        "onboard_time": 1754132782,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123076,
+        "num": 123076,
+        "word": "tzym 封神之战",
+        "onboard_time": 1754128644,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120490,
+        "num": 120490,
+        "word": "赵露思账号此前已无银河酷娱MCN",
+        "onboard_time": 1754131823,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118175,
+        "num": 118175,
+        "word": "张予曦毕雯珺杂志",
+        "onboard_time": 1754130983,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117297,
+        "num": 117297,
+        "word": "明明就原唱是周杰伦",
+        "onboard_time": 1754125702,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112584,
+        "num": 112584,
+        "word": "朴山多拉 登顶",
+        "onboard_time": 1754129484,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107268,
+        "num": 107268,
+        "word": "韩国媒体嘲笑日本网民破防了",
+        "onboard_time": 1754126542,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103222,
+        "num": 103222,
+        "word": "特斯拉被曝长期拖欠账款",
+        "onboard_time": 1754132604,
+        "rank": 45,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 102116,
+        "num": 102116,
+        "word": "苏超",
+        "onboard_time": 1754131882,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96969,
+        "num": 96969,
+        "word": "金晨终于遇到最懂她的商务",
+        "onboard_time": 1754133801,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92922,
+        "num": 92922,
+        "word": "云南豆花米线",
+        "onboard_time": 1754133382,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86243,
+        "num": 90107,
+        "word": "搜救犬发现幸存者时的眼神",
+        "onboard_time": 1754132782,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
