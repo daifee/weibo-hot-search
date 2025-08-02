@@ -1,0 +1,410 @@
+{
+  "runTime": 1754163514343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 340639,
+        "num": 340639,
+        "word": "赵露思意外生病是自己赔钱",
+        "onboard_time": 1754156000,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175116,
+        "num": 175116,
+        "word": "低人一等座乘客发声",
+        "onboard_time": 1754158756,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1709,
+        "num": 131927,
+        "word": "上半年国内居民出游人次32.85亿",
+        "onboard_time": 1754037984,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277561,
+        "num": 118714,
+        "word": "难听",
+        "onboard_time": 1754138905,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104607,
+        "num": 104607,
+        "word": "世界上最长的下巴",
+        "onboard_time": 1754149827,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60772,
+        "num": 60772,
+        "word": "豆瓣崩了",
+        "onboard_time": 1754141491,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180740,
+        "num": 60758,
+        "word": "银河酷娱旗下艺人",
+        "onboard_time": 1754143589,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137890,
+        "num": 60727,
+        "word": "刘宇宁哭了",
+        "onboard_time": 1754148089,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60687,
+        "num": 60687,
+        "word": "山东一彩民花69元中2.4亿元",
+        "onboard_time": 1754147788,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49654,
+        "num": 49654,
+        "word": "20岁女子遭已婚男友纠缠跳楼身亡",
+        "onboard_time": 1754139387,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333155,
+        "num": 49409,
+        "word": "赵露思 我不干了",
+        "onboard_time": 1754139806,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128796,
+        "num": 49175,
+        "word": "五月天演唱会现场给汪苏泷送版权",
+        "onboard_time": 1754149827,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82941,
+        "num": 49085,
+        "word": "恋人剧组",
+        "onboard_time": 1754144429,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57389,
+        "num": 48582,
+        "word": "贾玲股四头肌",
+        "onboard_time": 1754151144,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48546,
+        "num": 48546,
+        "word": "体检三大坑千万别被忽悠了",
+        "onboard_time": 1754153302,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 44878,
+        "num": 44878,
+        "word": "上海警方通报外国人阻止吸烟起纠纷",
+        "onboard_time": 1754135603,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 41704,
+        "num": 41704,
+        "word": "当代网红进军娱乐圈的现状",
+        "onboard_time": 1754156299,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40797,
+        "num": 40797,
+        "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
+        "onboard_time": 1754138545,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40319,
+        "num": 40319,
+        "word": "店家回应彩民花69元中2.4亿元",
+        "onboard_time": 1754153302,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36560,
+        "num": 36560,
+        "word": "5个方法让周末不再无效休息",
+        "onboard_time": 1754153302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65103,
+        "num": 36410,
+        "word": "日本专家建议老人自杀解决老龄化",
+        "onboard_time": 1754144069,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51700,
+        "num": 36055,
+        "word": "97年出帅哥 79年出魔童",
+        "onboard_time": 1754134882,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48431,
+        "num": 35774,
+        "word": "葛夕晒离婚证",
+        "onboard_time": 1754140232,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47377,
+        "num": 35356,
+        "word": "易烊千玺好美",
+        "onboard_time": 1754143710,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46982,
+        "num": 34954,
+        "word": "许我耀眼",
+        "onboard_time": 1754146169,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39651,
+        "num": 34773,
+        "word": "鞠婧祎丝巾上衣",
+        "onboard_time": 1754160556,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34614,
+        "num": 34614,
+        "word": "杨冰怡总选第一",
+        "onboard_time": 1754142631,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34385,
+        "num": 34385,
+        "word": "IU宝剑结婚 钟硕那边我去说",
+        "onboard_time": 1754127983,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35418,
+        "num": 34252,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1754123781,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33197,
+        "num": 33938,
+        "word": "魔咒",
+        "onboard_time": 1754144731,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 33805,
+        "num": 33805,
+        "word": "宋昕冉第二",
+        "onboard_time": 1754144550,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31558,
+        "num": 33802,
+        "word": "银河酷娱",
+        "onboard_time": 1754130504,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29796,
+        "num": 33795,
+        "word": "SNH48总选排名",
+        "onboard_time": 1754138905,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28934,
+        "num": 33789,
+        "word": "卡车司机服务区去世三天被发现",
+        "onboard_time": 1754143530,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28623,
+        "num": 33779,
+        "word": "爱豆侯明昊杀回来了",
+        "onboard_time": 1754142991,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27027,
+        "num": 33779,
+        "word": "30岁两个正常人婚后的真实生活",
+        "onboard_time": 1754144010,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26658,
+        "num": 33768,
+        "word": "王楚然被粉丝安慰的眼圈红了",
+        "onboard_time": 1754151444,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25924,
+        "num": 33765,
+        "word": "禹宙中欣",
+        "onboard_time": 1754129845,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24007,
+        "num": 33757,
+        "word": "被水泥块砸中身亡女子还不满21岁",
+        "onboard_time": 1754143409,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21836,
+        "num": 33749,
+        "word": "12306客服回应高铁低人一等座",
+        "onboard_time": 1754143050,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25705,
+        "num": 33746,
+        "word": "热巴元气学姐风",
+        "onboard_time": 1754149106,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24794,
+        "num": 33737,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1754131703,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23959,
+        "num": 33728,
+        "word": "偶遇戚薇郑业成吃宵夜",
+        "onboard_time": 1754149585,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21486,
+        "num": 33724,
+        "word": "扮演藏獒拉布拉多疑被拔牙",
+        "onboard_time": 1754148868,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21126,
+        "num": 33717,
+        "word": "严浩翔Rapeter把我帅没招了",
+        "onboard_time": 1754159776,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20764,
+        "num": 33714,
+        "word": "基孔肯雅热全球流行范围持续扩大",
+        "onboard_time": 1754137464,
+        "rank": 45,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 20692,
+        "num": 33703,
+        "word": "南京照相馆",
+        "onboard_time": 1754143230,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20655,
+        "num": 33694,
+        "word": "刘宇宁凉州词好炸",
+        "onboard_time": 1754162055,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20264,
+        "num": 33693,
+        "word": "F1",
+        "onboard_time": 1754146711,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19158,
+        "num": 33683,
+        "word": "150w人围观的刷牙不吐泡沫教程",
+        "onboard_time": 1754153062,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
