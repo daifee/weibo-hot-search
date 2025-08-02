@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754127037228,
+  "endTime": 1754127824863,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -57,6 +57,14 @@
       "onboard_time": 1753744518,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4971085,
+      "num": 411368,
+      "word": "赵露思艾特银河酷娱",
+      "onboard_time": 1754126183,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4297177,
@@ -129,14 +137,6 @@
       "onboard_time": 1753760784,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2737582,
-      "num": 411368,
-      "word": "赵露思艾特银河酷娱",
-      "onboard_time": 1754126183,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2714670,
@@ -2723,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560829,
+      "num": 419222,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1753931362,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 558665,
       "num": 558665,
       "word": "龚俊 当初张艺兴都没敢锁孙红雷喉",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1753708105,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 530253,
-      "num": 419222,
-      "word": "易烊千玺演唱会",
-      "onboard_time": 1753931362,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 529751,
@@ -5691,6 +5691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274850,
+      "num": 416093,
+      "word": "北京西北四环一夜铺了8000吨沥青",
+      "onboard_time": 1754124622,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274774,
       "num": 231911,
       "word": "井川里予电竞文女主有脸了",
@@ -5945,6 +5953,14 @@
       "onboard_time": 1753575619,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263161,
+      "num": 284156,
+      "word": "董璇张维伊因买单吵架",
+      "onboard_time": 1754126542,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 262788,
@@ -7080,14 +7096,6 @@
       "word": "医学生机舱救人被网友质疑风险极高",
       "onboard_time": 1753608862,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221580,
-      "num": 416093,
-      "word": "北京西北四环一夜铺了8000吨沥青",
-      "onboard_time": 1754124622,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -9379,6 +9387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188277,
+      "num": 188277,
+      "word": "周六一天五顿是我这个牛马应得的",
+      "onboard_time": 1754126542,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188179,
       "num": 188179,
       "word": "B萌",
@@ -10009,6 +10025,14 @@
       "onboard_time": 1753611861,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180527,
+      "num": 180527,
+      "word": "韩国媒体嘲笑日本网民破防了",
+      "onboard_time": 1754126542,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 180274,
@@ -11547,6 +11571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164042,
+      "num": 164042,
+      "word": "包上恩 放高中高低暗恋三年",
+      "onboard_time": 1754123662,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163938,
       "num": 270656,
       "word": "后备箱的西瓜终于掉不出来了",
@@ -11713,6 +11745,22 @@
       "onboard_time": 1753931542,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162570,
+      "num": 162570,
+      "word": "JDG第三轮首战首胜",
+      "onboard_time": 1754127202,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162548,
+      "num": 162548,
+      "word": "不要轻易叫女爱豆姐姐",
+      "onboard_time": 1754126482,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 162532,
@@ -12067,14 +12115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159406,
-      "num": 159406,
-      "word": "周六一天五顿是我这个牛马应得的",
-      "onboard_time": 1754126542,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 159301,
       "num": 159301,
       "word": "于正藏头诗赵晴升咖",
@@ -12193,14 +12233,6 @@
       "onboard_time": 1753662922,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158055,
-      "num": 158055,
-      "word": "不要轻易叫女爱豆姐姐",
-      "onboard_time": 1754126482,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 157946,
@@ -12377,6 +12409,14 @@
       "onboard_time": 1753599622,
       "rank": 36,
       "category": "时尚,休闲"
+    },
+    {
+      "raw_hot": 156630,
+      "num": 156630,
+      "word": "警方证实女子酒店所喝矿泉水是咸的",
+      "onboard_time": 1754127382,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156568,
@@ -12683,14 +12723,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 153692,
-      "num": 153692,
-      "word": "包上恩 放高中高低暗恋三年",
-      "onboard_time": 1754123662,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153517,
       "num": 209084,
       "word": "利剑玫瑰三个老头镜头",
@@ -12787,12 +12819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152923,
+      "num": 152923,
+      "word": "全职自媒体到底有多难",
+      "onboard_time": 1754127202,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152898,
       "num": 152898,
       "word": "国外研究推测疑外星飞船11月袭击地球",
       "onboard_time": 1753539087,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152873,
+      "num": 146641,
+      "word": "这届CJ漫展的coser堪称搞抽象的神",
+      "onboard_time": 1754127202,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 152749,
@@ -15355,6 +15403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133454,
+      "num": 133454,
+      "word": "iPhone17Air电池曝光",
+      "onboard_time": 1754124502,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133395,
       "num": 133395,
       "word": "RNG汤圆一人一城",
@@ -15657,6 +15713,14 @@
       "onboard_time": 1753965084,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131181,
+      "num": 131181,
+      "word": "许佳琪舞台",
+      "onboard_time": 1754127562,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 131099,
@@ -17243,14 +17307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119888,
-      "num": 284156,
-      "word": "董璇张维伊因买单吵架",
-      "onboard_time": 1754126542,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119853,
       "num": 119853,
       "word": "杨洋你也半夜听郭德纲吗",
@@ -17347,6 +17403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119073,
+      "num": 119073,
+      "word": "张继科完成大满贯仅用445天",
+      "onboard_time": 1754127202,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118989,
       "num": 136956,
       "word": "20公斤金饰被冲走老板愿半价收购",
@@ -17425,6 +17489,14 @@
       "onboard_time": 1754035822,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118486,
+      "num": 118486,
+      "word": "驻日本大使馆再次发布安全提醒",
+      "onboard_time": 1754127804,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118409,
@@ -17569,14 +17641,6 @@
       "onboard_time": 1754044764,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116819,
-      "num": 116819,
-      "word": "iPhone17Air电池曝光",
-      "onboard_time": 1754124502,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 116582,
@@ -18080,6 +18144,14 @@
       "word": "张真源回应饭撒叫姐姐",
       "onboard_time": 1753545025,
       "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 112949,
+      "num": 112949,
+      "word": "袁一琦新歌舞台",
+      "onboard_time": 1754127623,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -18649,6 +18721,14 @@
       "onboard_time": 1753615643,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 106310,
+      "num": 106310,
+      "word": "周洁琼好高清的一张脸",
+      "onboard_time": 1754127804,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 106266,
@@ -20491,6 +20571,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 71095,
+      "num": 157586,
+      "word": "GAI发文感谢歌手2025",
+      "onboard_time": 1754126242,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70852,
       "num": 70852,
       "word": "这穿搭让人眼前一暗又一亮的",
@@ -20561,14 +20649,6 @@
       "onboard_time": 1754031262,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69429,
-      "num": 112062,
-      "word": "韩国媒体嘲笑日本网民破防了",
-      "onboard_time": 1754126542,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 69064,

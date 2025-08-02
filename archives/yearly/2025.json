@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754127037228,
+  "endTime": 1754127824863,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1763,6 +1763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4971085,
+      "num": 411368,
+      "word": "赵露思艾特银河酷娱",
+      "onboard_time": 1754126183,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4918196,
       "num": 4918196,
       "word": "姚笛 被删",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742041168,
       "rank": 4,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 3831944,
-      "num": 1666574,
-      "word": "小英老公出轨",
-      "onboard_time": 1738549593,
-      "rank": 10,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

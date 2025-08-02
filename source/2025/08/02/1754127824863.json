@@ -1,0 +1,410 @@
+{
+  "runTime": 1754127824863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199922,
+        "num": 1199922,
+        "word": "年轮说原唱杨丞琳",
+        "onboard_time": 1754120722,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 840262,
+        "num": 840262,
+        "word": "覃海洋自编自导自演神剧本",
+        "onboard_time": 1754122402,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28258,
+        "num": 775231,
+        "word": "还有5天就立秋了",
+        "onboard_time": 1754096361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716018,
+        "num": 716018,
+        "word": "王俊凯祝易烊千玺出窑成功",
+        "onboard_time": 1754125103,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352206,
+        "num": 352206,
+        "word": "长沙一女孩疑被外墙脱落物砸中身亡",
+        "onboard_time": 1754121262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339393,
+        "num": 339393,
+        "word": "原来爆米花真的是一种花",
+        "onboard_time": 1754122882,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319686,
+        "num": 319686,
+        "word": "黄雅琼刘雨辰领证",
+        "onboard_time": 1754113223,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310240,
+        "num": 310240,
+        "word": "斗破苍穹",
+        "onboard_time": 1754123424,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 560829,
+        "num": 310129,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1754123781,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274850,
+        "num": 307912,
+        "word": "北京西北四环一夜铺了8000吨沥青",
+        "onboard_time": 1754124622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4971085,
+        "num": 306294,
+        "word": "赵露思艾特银河酷娱",
+        "onboard_time": 1754126183,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687953,
+        "num": 304538,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315384,
+        "num": 302239,
+        "word": "女明星们 30岁可太好了",
+        "onboard_time": 1754121742,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301850,
+        "num": 301850,
+        "word": "杨洋金晨 没有CP感",
+        "onboard_time": 1754118562,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300825,
+        "num": 300825,
+        "word": "母女被溅了一身脏水妈妈直接报警",
+        "onboard_time": 1754121441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270913,
+        "num": 270913,
+        "word": "拉宏桑 不搞笑",
+        "onboard_time": 1754120482,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263161,
+        "num": 263161,
+        "word": "董璇张维伊因买单吵架",
+        "onboard_time": 1754126542,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121897,
+        "num": 253627,
+        "word": "华为乾崑再添一派",
+        "onboard_time": 1754125942,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 245915,
+        "num": 245915,
+        "word": "孕妇地铁拒让座遭2老人辱骂",
+        "onboard_time": 1754119282,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231634,
+        "num": 231634,
+        "word": "赵立坚发了张凌赫",
+        "onboard_time": 1754120902,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199635,
+        "num": 199635,
+        "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+        "onboard_time": 1754101522,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188277,
+        "num": 188277,
+        "word": "周六一天五顿是我这个牛马应得的",
+        "onboard_time": 1754126542,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185721,
+        "num": 185721,
+        "word": "中国奥委会发樊振东眼神照",
+        "onboard_time": 1754116162,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180527,
+        "num": 180527,
+        "word": "韩国媒体嘲笑日本网民破防了",
+        "onboard_time": 1754126542,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168769,
+        "num": 168769,
+        "word": "明明就原唱是周杰伦",
+        "onboard_time": 1754125702,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164042,
+        "num": 164042,
+        "word": "包上恩 放高中高低暗恋三年",
+        "onboard_time": 1754123662,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162570,
+        "num": 162570,
+        "word": "JDG第三轮首战首胜",
+        "onboard_time": 1754127202,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162548,
+        "num": 162548,
+        "word": "不要轻易叫女爱豆姐姐",
+        "onboard_time": 1754126482,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160539,
+        "num": 160539,
+        "word": "田曦薇搂席来喽",
+        "onboard_time": 1754126426,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71095,
+        "num": 157586,
+        "word": "GAI发文感谢歌手2025",
+        "onboard_time": 1754126242,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156630,
+        "num": 156630,
+        "word": "警方证实女子酒店所喝矿泉水是咸的",
+        "onboard_time": 1754127382,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152923,
+        "num": 152923,
+        "word": "全职自媒体到底有多难",
+        "onboard_time": 1754127202,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147058,
+        "num": 147058,
+        "word": "徐帆辟谣与冯小刚离婚",
+        "onboard_time": 1754123662,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152873,
+        "num": 146641,
+        "word": "这届CJ漫展的coser堪称搞抽象的神",
+        "onboard_time": 1754127202,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137540,
+        "num": 137540,
+        "word": "刘宇宁黄子弘凡花篮后续",
+        "onboard_time": 1754124202,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133454,
+        "num": 133454,
+        "word": "iPhone17Air电池曝光",
+        "onboard_time": 1754124502,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131181,
+        "num": 131181,
+        "word": "许佳琪舞台",
+        "onboard_time": 1754127562,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119160,
+        "num": 127455,
+        "word": "牛马打工人的自我修养",
+        "onboard_time": 1754122102,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126453,
+        "num": 126453,
+        "word": "家长砸碎他人车窗取ACD救孩子",
+        "onboard_time": 1754125822,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126428,
+        "num": 126428,
+        "word": "河南一中学要求8月1日报到剪指定发型",
+        "onboard_time": 1754119223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119073,
+        "num": 119073,
+        "word": "张继科完成大满贯仅用445天",
+        "onboard_time": 1754127202,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118486,
+        "num": 118486,
+        "word": "驻日本大使馆再次发布安全提醒",
+        "onboard_time": 1754127804,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112949,
+        "num": 112949,
+        "word": "袁一琦新歌舞台",
+        "onboard_time": 1754127623,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112761,
+        "num": 112761,
+        "word": "睡眠不足引发炎症",
+        "onboard_time": 1754117001,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112079,
+        "num": 112079,
+        "word": "余宇涵个人演唱会上座率",
+        "onboard_time": 1754125163,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107620,
+        "num": 107620,
+        "word": "哪吒2网播播放量",
+        "onboard_time": 1754120423,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111044,
+        "num": 107403,
+        "word": "当60斤和110斤交换饮食",
+        "onboard_time": 1754123062,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107161,
+        "num": 107161,
+        "word": "Everglow将以四人体制活动",
+        "onboard_time": 1754125882,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107138,
+        "num": 107138,
+        "word": "王力宏戴了泉州非遗簪花",
+        "onboard_time": 1754122282,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106310,
+        "num": 106310,
+        "word": "周洁琼好高清的一张脸",
+        "onboard_time": 1754127804,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
