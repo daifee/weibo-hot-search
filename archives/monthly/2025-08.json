@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754130498199,
+  "endTime": 1754131630681,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -163,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1400793,
+      "num": 353616,
+      "word": "IU宝剑结婚 钟硕那边我去说",
+      "onboard_time": 1754127983,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1393198,
       "num": 467409,
       "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
       "onboard_time": 1754101522,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1322172,
-      "num": 353616,
-      "word": "IU宝剑结婚 钟硕那边我去说",
-      "onboard_time": 1754127983,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1217534,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 660190,
-      "num": 499445,
+      "num": 653376,
       "word": "易烊千玺演唱会",
       "onboard_time": 1754123781,
       "rank": 21,
@@ -689,6 +689,14 @@
       "onboard_time": 1754029101,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 570996,
+      "num": 570996,
+      "word": "禹宙中欣",
+      "onboard_time": 1754129845,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 569459,
@@ -1083,6 +1091,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 374253,
+      "num": 374253,
+      "word": "警方证实女子酒店所喝矿泉水是咸的",
+      "onboard_time": 1754127382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365668,
       "num": 365668,
       "word": "张元英开球",
@@ -1387,14 +1403,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 303100,
-      "num": 303100,
-      "word": "警方证实女子酒店所喝矿泉水是咸的",
-      "onboard_time": 1754127382,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298153,
       "num": 224825,
       "word": "到底是谁在买孙怡的拔黑头玩具",
@@ -1627,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261005,
-      "num": 261005,
-      "word": "禹宙中欣",
-      "onboard_time": 1754129845,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257412,
       "num": 257412,
       "word": "公司约定的不缴社保无效",
@@ -1753,6 +1753,14 @@
       "onboard_time": 1754123662,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236207,
+      "num": 236207,
+      "word": "迪丽热巴抓拍成功",
+      "onboard_time": 1754129963,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 236171,
@@ -2043,6 +2051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212355,
+      "num": 205076,
+      "word": "银河酷娱",
+      "onboard_time": 1754130504,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212193,
       "num": 212193,
       "word": "曹缘男子3米板银牌",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1754105902,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210019,
-      "num": 210019,
-      "word": "迪丽热巴抓拍成功",
-      "onboard_time": 1754129963,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 209274,
@@ -2499,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188511,
+      "num": 188511,
+      "word": "杨冰怡 空中见",
+      "onboard_time": 1754130802,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188277,
       "num": 188277,
       "word": "周六一天五顿是我这个牛马应得的",
@@ -2683,6 +2699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180264,
+      "num": 180264,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1754131402,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179411,
       "num": 179411,
       "word": "IG对战WBG",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1754101162,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172032,
+      "num": 358141,
+      "word": "驻日本大使馆再次发布安全提醒",
+      "onboard_time": 1754127804,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171889,
@@ -3035,6 +3067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164073,
+      "num": 164073,
+      "word": "IVE舞台飞麦",
+      "onboard_time": 1754130863,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164042,
       "num": 164042,
       "word": "包上恩 放高中高低暗恋三年",
@@ -3145,14 +3185,6 @@
       "onboard_time": 1754028203,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161597,
-      "num": 358141,
-      "word": "驻日本大使馆再次发布安全提醒",
-      "onboard_time": 1754127804,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 161459,
@@ -3579,6 +3611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147565,
+      "num": 147565,
+      "word": "拉扯6集男主终于对女主上头了",
+      "onboard_time": 1754131103,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147372,
       "num": 147372,
       "word": "刘宇宁把盘串刻进DNA里了",
@@ -3632,6 +3672,14 @@
       "word": "男子买瓜被骂批发一车在隔壁亏本卖",
       "onboard_time": 1754098461,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146144,
+      "num": 146144,
+      "word": "俄女孩因太爱吃炒面定居温州8年",
+      "onboard_time": 1754130683,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3923,6 +3971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136206,
+      "num": 136206,
+      "word": "鹿晗深圳抢票",
+      "onboard_time": 1754131103,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136076,
       "num": 136076,
       "word": "樊振东开启奋斗的一天",
@@ -4131,12 +4187,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132472,
+      "num": 132472,
+      "word": "WB对战TTG",
+      "onboard_time": 1754131164,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132446,
       "num": 132446,
       "word": "覃海洋说计划没变准备夺冠",
       "onboard_time": 1754052923,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131919,
+      "num": 131919,
+      "word": "严浩翔没让嘉尔哥失望",
+      "onboard_time": 1754131522,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 131515,
@@ -4201,6 +4273,14 @@
       "onboard_time": 1754024842,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130470,
+      "num": 130470,
+      "word": "张予曦毕雯珺杂志",
+      "onboard_time": 1754130983,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 130408,
@@ -4321,6 +4401,14 @@
       "onboard_time": 1753972286,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127448,
+      "num": 127448,
+      "word": "刘宇宁武汉大型回忆杀",
+      "onboard_time": 1754131464,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 127244,
@@ -4539,6 +4627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122141,
+      "num": 122141,
+      "word": "GW战胜FPX.ZQ",
+      "onboard_time": 1754131282,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121822,
       "num": 121822,
       "word": "四十七官宣杀青",
@@ -4561,6 +4657,14 @@
       "onboard_time": 1754106381,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121244,
+      "num": 121244,
+      "word": "孟子义先认识徐艺洋后认识黄子韬",
+      "onboard_time": 1754131464,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 120734,
@@ -4929,6 +5033,14 @@
       "onboard_time": 1754123841,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108253,
+      "num": 108253,
+      "word": "汪顺作为队长的担当",
+      "onboard_time": 1754130683,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107631,
@@ -5769,6 +5881,14 @@
       "onboard_time": 1753980559,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56245,
+      "num": 122444,
+      "word": "中国初中生在日本游学遭美国人殴打",
+      "onboard_time": 1754130504,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56219,

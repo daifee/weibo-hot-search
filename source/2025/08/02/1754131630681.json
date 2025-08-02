@@ -1,0 +1,410 @@
+{
+  "runTime": 1754131630681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8636985,
+        "num": 8636985,
+        "word": "赵露思艾特银河酷娱",
+        "onboard_time": 1754126183,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1646811,
+        "num": 1646811,
+        "word": "杨某人抽奖",
+        "onboard_time": 1754130324,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25876,
+        "num": 948519,
+        "word": "还有5天就立秋了",
+        "onboard_time": 1754096361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 737760,
+        "num": 737760,
+        "word": "年轮说原唱杨丞琳",
+        "onboard_time": 1754120722,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 684821,
+        "num": 684821,
+        "word": "tzym 封神之战",
+        "onboard_time": 1754128644,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 383312,
+        "num": 661766,
+        "word": "覃海洋自编自导自演神剧本",
+        "onboard_time": 1754122402,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653376,
+        "num": 653376,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1754123781,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 570996,
+        "num": 570996,
+        "word": "禹宙中欣",
+        "onboard_time": 1754129845,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374253,
+        "num": 374253,
+        "word": "警方证实女子酒店所喝矿泉水是咸的",
+        "onboard_time": 1754127382,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329590,
+        "num": 329590,
+        "word": "北京西北四环一夜铺了8000吨沥青",
+        "onboard_time": 1754124622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1400793,
+        "num": 323658,
+        "word": "IU宝剑结婚 钟硕那边我去说",
+        "onboard_time": 1754127983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411491,
+        "num": 319216,
+        "word": "王俊凯祝易烊千玺出窑成功",
+        "onboard_time": 1754125103,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407894,
+        "num": 318574,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307279,
+        "num": 307279,
+        "word": "原来爆米花真的是一种花",
+        "onboard_time": 1754122882,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34109,
+        "num": 273619,
+        "word": "苏超周边惊现2元店让观众0元购",
+        "onboard_time": 1754128885,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269084,
+        "num": 269084,
+        "word": "董璇张维伊因买单吵架",
+        "onboard_time": 1754126542,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257914,
+        "num": 257914,
+        "word": "斗破苍穹",
+        "onboard_time": 1754123424,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 236207,
+        "num": 236207,
+        "word": "迪丽热巴抓拍成功",
+        "onboard_time": 1754129963,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217990,
+        "num": 217990,
+        "word": "母女被溅了一身脏水妈妈直接报警",
+        "onboard_time": 1754121441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206168,
+        "num": 206168,
+        "word": "杨洋金晨 没有CP感",
+        "onboard_time": 1754118562,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212355,
+        "num": 205076,
+        "word": "银河酷娱",
+        "onboard_time": 1754130504,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203373,
+        "num": 203373,
+        "word": "拉宏桑 不搞笑",
+        "onboard_time": 1754120482,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191589,
+        "num": 191589,
+        "word": "FPX.ZQ对战GW",
+        "onboard_time": 1754127863,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191060,
+        "num": 191060,
+        "word": "明明就原唱是周杰伦",
+        "onboard_time": 1754125702,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188511,
+        "num": 188511,
+        "word": "杨冰怡 空中见",
+        "onboard_time": 1754130802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181899,
+        "num": 181899,
+        "word": "黄雅琼刘雨辰领证",
+        "onboard_time": 1754113223,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180264,
+        "num": 180264,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1754131402,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172032,
+        "num": 172032,
+        "word": "驻日本大使馆再次发布安全提醒",
+        "onboard_time": 1754127804,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164073,
+        "num": 164073,
+        "word": "IVE舞台飞麦",
+        "onboard_time": 1754130863,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160664,
+        "num": 160664,
+        "word": "朴山多拉 登顶",
+        "onboard_time": 1754129484,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147565,
+        "num": 147565,
+        "word": "拉扯6集男主终于对女主上头了",
+        "onboard_time": 1754131103,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146144,
+        "num": 146144,
+        "word": "俄女孩因太爱吃炒面定居温州8年",
+        "onboard_time": 1754130683,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145040,
+        "num": 145040,
+        "word": "女明星们 30岁可太好了",
+        "onboard_time": 1754121742,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136206,
+        "num": 136206,
+        "word": "鹿晗深圳抢票",
+        "onboard_time": 1754131103,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134308,
+        "num": 134308,
+        "word": "长沙一女孩疑被外墙脱落物砸中身亡",
+        "onboard_time": 1754121262,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132472,
+        "num": 132472,
+        "word": "WB对战TTG",
+        "onboard_time": 1754131164,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131919,
+        "num": 131919,
+        "word": "严浩翔没让嘉尔哥失望",
+        "onboard_time": 1754131522,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 130470,
+        "word": "张予曦毕雯珺杂志",
+        "onboard_time": 1754130983,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127448,
+        "num": 127448,
+        "word": "刘宇宁武汉大型回忆杀",
+        "onboard_time": 1754131464,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56245,
+        "num": 122444,
+        "word": "中国初中生在日本游学遭美国人殴打",
+        "onboard_time": 1754130504,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122141,
+        "num": 122141,
+        "word": "GW战胜FPX.ZQ",
+        "onboard_time": 1754131282,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121244,
+        "num": 121244,
+        "word": "孟子义先认识徐艺洋后认识黄子韬",
+        "onboard_time": 1754131464,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118711,
+        "num": 118711,
+        "word": "赵立坚发了张凌赫",
+        "onboard_time": 1754120902,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114413,
+        "num": 114413,
+        "word": "张继科完成大满贯仅用445天",
+        "onboard_time": 1754127202,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113144,
+        "num": 113144,
+        "word": "包上恩 放高中高低暗恋三年",
+        "onboard_time": 1754123662,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112412,
+        "num": 112412,
+        "word": "田曦薇搂席来喽",
+        "onboard_time": 1754126426,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109804,
+        "num": 109804,
+        "word": "韩国媒体嘲笑日本网民破防了",
+        "onboard_time": 1754126542,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109902,
+        "num": 109497,
+        "word": "睡眠不足引发炎症",
+        "onboard_time": 1754117001,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108253,
+        "num": 108253,
+        "word": "汪顺作为队长的担当",
+        "onboard_time": 1754130683,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104444,
+        "num": 104444,
+        "word": "孕妇地铁拒让座遭2老人辱骂",
+        "onboard_time": 1754119282,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
