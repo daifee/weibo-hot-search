@@ -1,0 +1,410 @@
+{
+  "runTime": 1754134775500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6720253,
+        "num": 6720253,
+        "word": "赵露思艾特银河酷娱",
+        "onboard_time": 1754126183,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501704,
+        "num": 501704,
+        "word": "警方证实女子酒店所喝矿泉水是咸的",
+        "onboard_time": 1754127382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23813,
+        "num": 433430,
+        "word": "还有5天就立秋了",
+        "onboard_time": 1754096361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2132596,
+        "num": 415180,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1754123781,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 391221,
+        "num": 391221,
+        "word": "覃海洋自编自导自演神剧本",
+        "onboard_time": 1754122402,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338189,
+        "num": 338189,
+        "word": "斗破苍穹 萧潇",
+        "onboard_time": 1754132302,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 637152,
+        "num": 337869,
+        "word": "年轮说原唱杨丞琳",
+        "onboard_time": 1754120722,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 618057,
+        "num": 337689,
+        "word": "禹宙中欣",
+        "onboard_time": 1754129845,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336742,
+        "num": 336742,
+        "word": "一家三口赶海1人失踪1人进ICU",
+        "onboard_time": 1754133024,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237838,
+        "num": 237838,
+        "word": "杨某人抽奖",
+        "onboard_time": 1754130324,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1017772,
+        "num": 235634,
+        "word": "IU宝剑结婚 钟硕那边我去说",
+        "onboard_time": 1754127983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336484,
+        "num": 230900,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319897,
+        "num": 229009,
+        "word": "内场第一排跟坐易烊千玺怀里有啥区别",
+        "onboard_time": 1754134463,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278743,
+        "num": 226376,
+        "word": "严浩翔没让嘉尔哥失望",
+        "onboard_time": 1754131522,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222715,
+        "num": 222715,
+        "word": "给奶奶点了将近一年的早餐",
+        "onboard_time": 1754131342,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232541,
+        "num": 216150,
+        "word": "吴克群暂停演出救晕倒粉丝",
+        "onboard_time": 1754133263,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208373,
+        "num": 208373,
+        "word": "金晨终于遇到最懂她的商务",
+        "onboard_time": 1754133801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201523,
+        "num": 201523,
+        "word": "北京西北四环一夜铺了8000吨沥青",
+        "onboard_time": 1754124622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195993,
+        "num": 195993,
+        "word": "孙颖莎捐赠的救灾物资抵达发放",
+        "onboard_time": 1754134402,
+        "rank": 18,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 191248,
+        "num": 191248,
+        "word": "原来爆米花真的是一种花",
+        "onboard_time": 1754122882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203663,
+        "num": 190276,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1754131703,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201590,
+        "num": 189983,
+        "word": "疑似戴燕妮为宋昕冉计分助力",
+        "onboard_time": 1754134162,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197670,
+        "num": 189561,
+        "word": "刘宇宁武汉演唱会",
+        "onboard_time": 1754132123,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187608,
+        "num": 187608,
+        "word": "拉宏桑 不搞笑",
+        "onboard_time": 1754120482,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163838,
+        "num": 182556,
+        "word": "俄女孩因太爱吃炒面定居温州8年",
+        "onboard_time": 1754130683,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179936,
+        "num": 179936,
+        "word": "杨洋金晨 没有CP感",
+        "onboard_time": 1754118562,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173795,
+        "num": 173795,
+        "word": "IVE舞台飞麦",
+        "onboard_time": 1754130863,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172289,
+        "num": 172289,
+        "word": "银河酷娱",
+        "onboard_time": 1754130504,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141063,
+        "num": 141063,
+        "word": "斗破苍穹",
+        "onboard_time": 1754123424,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136873,
+        "num": 141060,
+        "word": "黄雅琼刘雨辰领证",
+        "onboard_time": 1754113223,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170764,
+        "num": 141058,
+        "word": "赵露思账号此前已无银河酷娱MCN",
+        "onboard_time": 1754131823,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156069,
+        "num": 141051,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1754134522,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148436,
+        "num": 141048,
+        "word": "鹿晗郑州抢票",
+        "onboard_time": 1754133323,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143991,
+        "num": 141046,
+        "word": "SNH48总选",
+        "onboard_time": 1754131644,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125018,
+        "num": 141042,
+        "word": "母女被溅了一身脏水妈妈直接报警",
+        "onboard_time": 1754121441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141040,
+        "num": 141040,
+        "word": "成龙近十年来最狠的电影",
+        "onboard_time": 1754133922,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124048,
+        "num": 140598,
+        "word": "北方 白纹伊蚊",
+        "onboard_time": 1754132782,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116989,
+        "num": 140201,
+        "word": "陈艺文3米板夺金",
+        "onboard_time": 1754134582,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46880,
+        "num": 139583,
+        "word": "甘肃一大货车夜里撞死16头牦牛",
+        "onboard_time": 1754134463,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97351,
+        "num": 139055,
+        "word": "国产剧最阴间的吃播",
+        "onboard_time": 1754134702,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138821,
+        "num": 138821,
+        "word": "鹿晗深圳抢票",
+        "onboard_time": 1754131103,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135035,
+        "num": 135035,
+        "word": "罗小黑战记2",
+        "onboard_time": 1754132902,
+        "rank": 41,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 104891,
+        "num": 134795,
+        "word": "TE对战MRC",
+        "onboard_time": 1754133263,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134623,
+        "num": 134623,
+        "word": "孟子义先认识徐艺洋后认识黄子韬",
+        "onboard_time": 1754131464,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131570,
+        "num": 131570,
+        "word": "董璇张维伊因买单吵架",
+        "onboard_time": 1754126542,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111025,
+        "num": 131378,
+        "word": "王楚钦被夸后咧嘴笑",
+        "onboard_time": 1754134522,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108136,
+        "num": 130974,
+        "word": "佛山人当下精神状态be like",
+        "onboard_time": 1754134402,
+        "rank": 46,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 100926,
+        "num": 130320,
+        "word": "苏超",
+        "onboard_time": 1754131882,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98302,
+        "num": 129950,
+        "word": "韩国媒体嘲笑日本网民破防了",
+        "onboard_time": 1754126542,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97470,
+        "num": 129283,
+        "word": "TTG战胜WB",
+        "onboard_time": 1754134762,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}

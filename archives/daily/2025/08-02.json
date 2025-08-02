@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754133825881,
+  "endTime": 1754134775500,
   "band_list": [
     {
       "raw_hot": 9697965,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2132596,
+      "num": 653376,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1754123781,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1839036,
       "num": 1839036,
       "word": "黄雅琼刘雨辰领证",
@@ -65,14 +73,6 @@
       "onboard_time": 1754120722,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1669236,
-      "num": 653376,
-      "word": "易烊千玺演唱会",
-      "onboard_time": 1754123781,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 1400793,
@@ -315,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 501704,
+      "num": 501704,
+      "word": "警方证实女子酒店所喝矿泉水是咸的",
+      "onboard_time": 1754127382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498636,
       "num": 498636,
       "word": "张予曦 卢昱晓对不起",
@@ -387,14 +395,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 406545,
-      "num": 406545,
-      "word": "警方证实女子酒店所喝矿泉水是咸的",
-      "onboard_time": 1754127382,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404249,
       "num": 404249,
       "word": "母女被溅了一身脏水妈妈直接报警",
@@ -459,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338189,
+      "num": 338189,
+      "word": "斗破苍穹 萧潇",
+      "onboard_time": 1754132302,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 336742,
+      "num": 336742,
+      "word": "一家三口赶海1人失踪1人进ICU",
+      "onboard_time": 1754133024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331741,
       "num": 312632,
       "word": "女明星们 30岁可太好了",
@@ -505,6 +521,14 @@
       "onboard_time": 1754112142,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319897,
+      "num": 229009,
+      "word": "内场第一排跟坐易烊千玺怀里有啥区别",
+      "onboard_time": 1754134463,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 319785,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 293219,
-      "num": 225172,
+      "num": 226376,
       "word": "严浩翔没让嘉尔哥失望",
       "onboard_time": 1754131522,
       "rank": 36,
@@ -635,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263598,
-      "num": 263598,
-      "word": "斗破苍穹 萧潇",
-      "onboard_time": 1754132302,
-      "rank": 8,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 247192,
       "num": 364814,
       "word": "终于等到物理隔菌的卫生巾了",
@@ -699,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232541,
+      "num": 216150,
+      "word": "吴克群暂停演出救晕倒粉丝",
+      "onboard_time": 1754133263,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230200,
       "num": 331226,
       "word": "薛凯琪彩排忘记拿麦克风上台",
@@ -729,6 +753,14 @@
       "onboard_time": 1754107521,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222715,
+      "num": 222715,
+      "word": "给奶奶点了将近一年的早餐",
+      "onboard_time": 1754131342,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 222462,
@@ -803,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208373,
+      "num": 208373,
+      "word": "金晨终于遇到最懂她的商务",
+      "onboard_time": 1754133801,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207159,
       "num": 207159,
       "word": "苏超应援团从散装到小包装",
@@ -843,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203663,
+      "num": 190276,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1754131703,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203100,
       "num": 203100,
       "word": "KPL",
@@ -857,6 +905,14 @@
       "onboard_time": 1754103261,
       "rank": 32,
       "category": "海外新闻,汽车"
+    },
+    {
+      "raw_hot": 201590,
+      "num": 189983,
+      "word": "疑似戴燕妮为宋昕冉计分助力",
+      "onboard_time": 1754134162,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 200399,
@@ -891,12 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198162,
-      "num": 198162,
-      "word": "给奶奶点了将近一年的早餐",
-      "onboard_time": 1754131342,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 197670,
+      "num": 189561,
+      "word": "刘宇宁武汉演唱会",
+      "onboard_time": 1754132123,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 196684,
@@ -913,6 +969,14 @@
       "onboard_time": 1754118742,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195993,
+      "num": 195993,
+      "word": "孙颖莎捐赠的救灾物资抵达发放",
+      "onboard_time": 1754134402,
+      "rank": 18,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 195393,
@@ -985,14 +1049,6 @@
       "onboard_time": 1754119282,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187567,
-      "num": 194257,
-      "word": "一家三口赶海1人失踪1人进ICU",
-      "onboard_time": 1754133024,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186896,
@@ -1147,19 +1203,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171635,
-      "num": 171635,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1754131703,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 171069,
       "num": 171069,
       "word": "演员于娜回应变胖",
       "onboard_time": 1754109502,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170764,
+      "num": 141058,
+      "word": "赵露思账号此前已无银河酷娱MCN",
+      "onboard_time": 1754131823,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1203,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163838,
+      "num": 182556,
+      "word": "俄女孩因太爱吃炒面定居温州8年",
+      "onboard_time": 1754130683,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162586,
       "num": 162586,
       "word": "诡秘之主海外封神榜好抓马",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1754106861,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159288,
-      "num": 159288,
-      "word": "刘宇宁武汉演唱会",
-      "onboard_time": 1754132123,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 158808,
@@ -1320,6 +1376,14 @@
       "word": "鹿晗跳了星奇摇",
       "onboard_time": 1754062161,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 156069,
+      "num": 141051,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1754134522,
+      "rank": 31,
       "category": "演出"
     },
     {
@@ -1443,20 +1507,20 @@
       "category": "动漫,民生新闻"
     },
     {
-      "raw_hot": 149036,
-      "num": 149036,
-      "word": "俄女孩因太爱吃炒面定居温州8年",
-      "onboard_time": 1754130683,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148563,
       "num": 173949,
       "word": "什么电影敢在胖东来做点映",
       "onboard_time": 1754110702,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148436,
+      "num": 145455,
+      "word": "鹿晗郑州抢票",
+      "onboard_time": 1754133323,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 147719,
@@ -1507,14 +1571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145455,
-      "num": 145455,
-      "word": "鹿晗郑州抢票",
-      "onboard_time": 1754133323,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 145335,
       "num": 145335,
       "word": "张继科完成大满贯仅用445天",
@@ -1553,6 +1609,14 @@
       "onboard_time": 1754106500,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141040,
+      "num": 141040,
+      "word": "成龙近十年来最狠的电影",
+      "onboard_time": 1754133922,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 140826,
@@ -1595,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138821,
+      "num": 138821,
+      "word": "鹿晗深圳抢票",
+      "onboard_time": 1754131103,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138395,
       "num": 138395,
       "word": "晚上睡不着小心是腿的毛病",
@@ -1633,14 +1705,6 @@
       "onboard_time": 1754112022,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136206,
-      "num": 136206,
-      "word": "鹿晗深圳抢票",
-      "onboard_time": 1754131103,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 136179,
@@ -1769,14 +1833,6 @@
       "onboard_time": 1754131164,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131852,
-      "num": 131852,
-      "word": "吴克群暂停演出救晕倒粉丝",
-      "onboard_time": 1754133263,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 131515,
@@ -1955,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124048,
+      "num": 140598,
+      "word": "北方 白纹伊蚊",
+      "onboard_time": 1754132782,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123817,
       "num": 123817,
       "word": "亮证逼迫让路车主证后身份必须追问",
@@ -2075,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120490,
-      "num": 120490,
-      "word": "赵露思账号此前已无银河酷娱MCN",
-      "onboard_time": 1754131823,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119768,
       "num": 119768,
       "word": "余宇涵尝试新风格",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1754095820,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116989,
+      "num": 140201,
+      "word": "陈艺文3米板夺金",
+      "onboard_time": 1754134582,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 116352,
@@ -2187,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111025,
+      "num": 131378,
+      "word": "王楚钦被夸后咧嘴笑",
+      "onboard_time": 1754134522,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110931,
       "num": 110931,
       "word": "沈佳润05后营业原来是这样",
@@ -2217,6 +2289,14 @@
       "onboard_time": 1754130683,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108136,
+      "num": 130974,
+      "word": "佛山人当下精神状态be like",
+      "onboard_time": 1754134402,
+      "rank": 46,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 107631,
@@ -2291,6 +2371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104891,
+      "num": 134795,
+      "word": "TE对战MRC",
+      "onboard_time": 1754133263,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104492,
       "num": 104492,
       "word": "重温刘雨辰赛场求婚黄雅琼",
@@ -2332,7 +2420,7 @@
     },
     {
       "raw_hot": 102116,
-      "num": 102116,
+      "num": 130320,
       "word": "苏超",
       "onboard_time": 1754131882,
       "rank": 46,
@@ -2403,20 +2491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97470,
+      "num": 129283,
+      "word": "TTG战胜WB",
+      "onboard_time": 1754134762,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97351,
+      "num": 139055,
+      "word": "国产剧最阴间的吃播",
+      "onboard_time": 1754134702,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97100,
       "num": 97100,
       "word": "深情眼大结局",
       "onboard_time": 1754051542,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96969,
-      "num": 96969,
-      "word": "金晨终于遇到最懂她的商务",
-      "onboard_time": 1754133801,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 96771,
@@ -2867,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46880,
+      "num": 139583,
+      "word": "甘肃一大货车夜里撞死16头牦牛",
+      "onboard_time": 1754134463,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45783,
       "num": 45783,
       "word": "新版医务人员职业道德准则",
@@ -2921,14 +3025,6 @@
       "onboard_time": 1754070197,
       "rank": 41,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 40129,
-      "num": 124115,
-      "word": "北方 白纹伊蚊",
-      "onboard_time": 1754132782,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39332,
