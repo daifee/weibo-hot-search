@@ -1,10 +1,10 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754127824863,
+  "endTime": 1754130498199,
   "band_list": [
     {
-      "raw_hot": 4971085,
-      "num": 411368,
+      "raw_hot": 9697965,
+      "num": 9697965,
       "word": "赵露思艾特银河酷娱",
       "onboard_time": 1754126183,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1821383,
+      "num": 1821383,
+      "word": "杨某人抽奖",
+      "onboard_time": 1754130324,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1689278,
       "num": 1689278,
       "word": "年轮说原唱杨丞琳",
@@ -65,6 +73,14 @@
       "onboard_time": 1754101522,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1322172,
+      "num": 353616,
+      "word": "IU宝剑结婚 钟硕那边我去说",
+      "onboard_time": 1754127983,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1205895,
@@ -89,6 +105,14 @@
       "onboard_time": 1754108242,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1128894,
+      "num": 1128894,
+      "word": "tzym 封神之战",
+      "onboard_time": 1754128644,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1099522,
@@ -187,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660190,
+      "num": 499445,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1754123781,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 632334,
       "num": 632334,
       "word": "男子还原奔驰女司机亮证逼迫让路过程",
@@ -233,14 +265,6 @@
       "onboard_time": 1754101581,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 560829,
-      "num": 419222,
-      "word": "易烊千玺演唱会",
-      "onboard_time": 1754123781,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 556285,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385914,
+      "num": 385914,
+      "word": "FPX.ZQ对战GW",
+      "onboard_time": 1754127863,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 384361,
       "num": 384361,
       "word": "张雅钦鹿晗演唱会应援妆",
@@ -393,6 +425,14 @@
       "onboard_time": 1754120902,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362282,
+      "num": 416093,
+      "word": "北京西北四环一夜铺了8000吨沥青",
+      "onboard_time": 1754124622,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354572,
@@ -467,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 309948,
+      "num": 309948,
+      "word": "董璇张维伊因买单吵架",
+      "onboard_time": 1754126542,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306001,
       "num": 306001,
       "word": "齐司礼风流皇叔",
@@ -481,6 +529,14 @@
       "onboard_time": 1754090419,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 303100,
+      "num": 303100,
+      "word": "警方证实女子酒店所喝矿泉水是咸的",
+      "onboard_time": 1754127382,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295472,
@@ -531,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274850,
-      "num": 416093,
-      "word": "北京西北四环一夜铺了8000吨沥青",
-      "onboard_time": 1754124622,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268268,
       "num": 965111,
       "word": "王楚钦帅气造型",
@@ -571,11 +619,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263161,
-      "num": 284156,
-      "word": "董璇张维伊因买单吵架",
-      "onboard_time": 1754126542,
-      "rank": 19,
+      "raw_hot": 261005,
+      "num": 261005,
+      "word": "禹宙中欣",
+      "onboard_time": 1754129845,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -675,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213695,
+      "num": 213695,
+      "word": "明明就原唱是周杰伦",
+      "onboard_time": 1754125702,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210392,
       "num": 720514,
       "word": "河北兴隆北京山谷项目3人遇难",
@@ -697,6 +753,14 @@
       "onboard_time": 1754105902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210019,
+      "num": 210019,
+      "word": "迪丽热巴抓拍成功",
+      "onboard_time": 1754129963,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 208902,
@@ -785,6 +849,14 @@
       "onboard_time": 1754040982,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199278,
+      "num": 199278,
+      "word": "我从小到大都想成为的女性角色",
+      "onboard_time": 1754129963,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 196684,
@@ -939,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175662,
-      "num": 175662,
-      "word": "明明就原唱是周杰伦",
-      "onboard_time": 1754125702,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 174698,
       "num": 125273,
       "word": "和易烊千玺合作8年的含金量还在上升",
@@ -1019,6 +1083,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 165479,
+      "num": 165479,
+      "word": "朴山多拉 登顶",
+      "onboard_time": 1754129484,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164876,
       "num": 164876,
       "word": "美股大跌黄金大涨",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1754114122,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161597,
+      "num": 358141,
+      "word": "驻日本大使馆再次发布安全提醒",
+      "onboard_time": 1754127804,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160164,
@@ -1123,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156630,
-      "num": 156630,
-      "word": "警方证实女子酒店所喝矿泉水是咸的",
-      "onboard_time": 1754127382,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156475,
       "num": 155174,
       "word": "老祖宗的审美是有一定道理的",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1754120423,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153355,
+      "num": 153355,
+      "word": "杨某人直播",
+      "onboard_time": 1754129543,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 152923,
@@ -1243,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149240,
+      "num": 149240,
+      "word": "清华教授评灵笼创作顶天立地",
+      "onboard_time": 1754129963,
+      "rank": 30,
+      "category": "动漫,民生新闻"
+    },
+    {
       "raw_hot": 148563,
       "num": 173949,
       "word": "什么电影敢在胖东来做点映",
@@ -1281,6 +1369,14 @@
       "onboard_time": 1754098461,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145335,
+      "num": 145335,
+      "word": "张继科完成大满贯仅用445天",
+      "onboard_time": 1754127202,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 143600,
@@ -1531,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130849,
+      "num": 130849,
+      "word": "哈登穿唐装打咏春",
+      "onboard_time": 1754129904,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130789,
       "num": 214651,
       "word": "被高空坠物砸亡女孩家属回应",
@@ -1577,6 +1681,14 @@
       "onboard_time": 1754043866,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128755,
+      "num": 128755,
+      "word": "张艺兴红发微醺妆",
+      "onboard_time": 1754129004,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 128726,
@@ -1699,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122763,
+      "num": 122763,
+      "word": "阴阳师魔卡少女樱联动",
+      "onboard_time": 1754129904,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122634,
       "num": 122634,
       "word": "T1战胜HLE",
@@ -1748,7 +1868,7 @@
     },
     {
       "raw_hot": 120734,
-      "num": 815210,
+      "num": 1360265,
       "word": "还有5天就立秋了",
       "onboard_time": 1754096361,
       "rank": 37,
@@ -1763,28 +1883,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119073,
-      "num": 119073,
-      "word": "张继科完成大满贯仅用445天",
-      "onboard_time": 1754127202,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118982,
       "num": 118982,
       "word": "老人养老金被孩子刷走卡里只剩5块8",
       "onboard_time": 1754095820,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118486,
-      "num": 118486,
-      "word": "驻日本大使馆再次发布安全提醒",
-      "onboard_time": 1754127804,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116352,
@@ -1915,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107498,
+      "num": 107498,
+      "word": "少吃瘦得快还是运动瘦得快",
+      "onboard_time": 1754124981,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107486,
       "num": 107486,
       "word": "折月亮",
@@ -1987,12 +2099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101411,
-      "num": 101411,
-      "word": "少吃瘦得快还是运动瘦得快",
-      "onboard_time": 1754124981,
+      "raw_hot": 102406,
+      "num": 102406,
+      "word": "她是他的红尘劫",
+      "onboard_time": 1754129363,
       "rank": 46,
-      "category": "情感"
+      "category": "剧集"
     },
     {
       "raw_hot": 100755,
@@ -2017,6 +2129,14 @@
       "onboard_time": 1754119641,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98827,
+      "num": 98827,
+      "word": "当小猫和88岁外婆第一次单独相处",
+      "onboard_time": 1754130443,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98730,
@@ -2465,6 +2585,14 @@
       "onboard_time": 1754090837,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 47865,
+      "num": 312757,
+      "word": "苏超周边惊现2元店让观众0元购",
+      "onboard_time": 1754128885,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 45783,

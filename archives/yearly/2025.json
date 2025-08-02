@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754127824863,
+  "endTime": 1754130498199,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9697965,
+      "num": 9697965,
+      "word": "赵露思艾特银河酷娱",
+      "onboard_time": 1754126183,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9663660,
       "num": 9663660,
       "word": "歌手直播",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1749267869,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4971085,
-      "num": 411368,
-      "word": "赵露思艾特银河酷娱",
-      "onboard_time": 1754126183,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 4918196,
