@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754107217361,
+  "endTime": 1754109813499,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1081340,
+      "num": 233991,
+      "word": "低人一等座",
+      "onboard_time": 1754105961,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1072484,
       "num": 1072484,
       "word": "删了的QQ空间说说复活了",
@@ -249,6 +257,14 @@
       "onboard_time": 1754016262,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 968697,
+      "num": 1154991,
+      "word": "哪吒",
+      "onboard_time": 1754101640,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 966598,
@@ -337,14 +353,6 @@
       "onboard_time": 1754034743,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 801024,
-      "num": 1128163,
-      "word": "哪吒",
-      "onboard_time": 1754101640,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 796829,
@@ -473,6 +481,14 @@
       "onboard_time": 1754089757,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692812,
+      "num": 692812,
+      "word": "网传亮证司机是公安局领导不实",
+      "onboard_time": 1754108242,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 688073,
@@ -1171,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285851,
+      "num": 213863,
+      "word": "7岁男孩求父母抛弃自己",
+      "onboard_time": 1754107103,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278920,
       "num": 278920,
       "word": "樊振东建军节发文",
@@ -1651,14 +1675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213187,
-      "num": 213187,
-      "word": "7岁男孩求父母抛弃自己",
-      "onboard_time": 1754107103,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212832,
       "num": 212832,
       "word": "男子4X200自接中国队创造亚洲纪录",
@@ -1883,14 +1899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198232,
-      "num": 198232,
-      "word": "低人一等座",
-      "onboard_time": 1754105961,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197205,
       "num": 197205,
       "word": "律师解读李明德酒后砸车获刑6个月",
@@ -1953,6 +1961,22 @@
       "onboard_time": 1754062702,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192546,
+      "num": 155238,
+      "word": "您的骑手正在与流浪猫决斗",
+      "onboard_time": 1754107521,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 192536,
+      "num": 192536,
+      "word": "章昊外网热议的照片",
+      "onboard_time": 1754108302,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 192415,
@@ -2041,6 +2065,14 @@
       "onboard_time": 1753975824,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186611,
+      "num": 186611,
+      "word": "这才是双休工作少的原因",
+      "onboard_time": 1754107401,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 186346,
@@ -2659,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156475,
+      "num": 155174,
+      "word": "老祖宗的审美是有一定道理的",
+      "onboard_time": 1754108481,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 156404,
       "num": 156404,
       "word": "26岁确诊乳腺纤维瘤的真实感受",
@@ -2697,6 +2737,14 @@
       "onboard_time": 1754024842,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154729,
+      "num": 154729,
+      "word": "张元英模仿小时候自己的照片",
+      "onboard_time": 1754107701,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 154251,
@@ -2745,6 +2793,14 @@
       "onboard_time": 1754104102,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151144,
+      "num": 151144,
+      "word": "鞠婧祎网宣组重组",
+      "onboard_time": 1754109502,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150987,
@@ -3187,6 +3243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133966,
+      "num": 133966,
+      "word": "亮证逼迫让路事件当地成立工作组",
+      "onboard_time": 1754108481,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133635,
       "num": 133635,
       "word": "不要对孩子做不符合社交规则的动作",
@@ -3233,6 +3297,14 @@
       "onboard_time": 1754052923,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131515,
+      "num": 131515,
+      "word": "i人谭松韵刘学义 剧组的玩具",
+      "onboard_time": 1754109141,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 131221,
@@ -3340,7 +3412,7 @@
     },
     {
       "raw_hot": 127244,
-      "num": 530549,
+      "num": 714675,
       "word": "十余省份雨雨雨雨雨雨雨",
       "onboard_time": 1754095521,
       "rank": 35,
@@ -3403,6 +3475,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124436,
+      "num": 124436,
+      "word": "你好星期六",
+      "onboard_time": 1754109502,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123817,
+      "num": 123817,
+      "word": "亮证逼迫让路车主证后身份必须追问",
+      "onboard_time": 1754109801,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123812,
       "num": 123812,
       "word": "Red Velvet十一周年",
@@ -3417,6 +3505,14 @@
       "onboard_time": 1754031381,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 123643,
+      "num": 123643,
+      "word": "富士涨价了",
+      "onboard_time": 1754107701,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 123608,
@@ -3513,6 +3609,14 @@
       "onboard_time": 1754036842,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118640,
+      "num": 118640,
+      "word": "教师辞编后例假都正常了",
+      "onboard_time": 1754109801,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 118495,
@@ -3787,6 +3891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103818,
+      "num": 234683,
+      "word": "中国文化跨越山海",
+      "onboard_time": 1754106381,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103419,
       "num": 245052,
       "word": "27岁抗日将领被砍下头颅8年后被找到",
@@ -3801,6 +3913,14 @@
       "onboard_time": 1754031262,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101896,
+      "num": 127283,
+      "word": "演员于娜回应变胖",
+      "onboard_time": 1754109502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 101547,
@@ -4003,14 +4123,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 86501,
-      "num": 234522,
-      "word": "中国文化跨越山海",
-      "onboard_time": 1754106381,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86485,
       "num": 86485,
       "word": "余承恩发了朝雪录主创合照",
@@ -4083,12 +4195,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81433,
+      "num": 220299,
+      "word": "杨洋用碰一下请客减2元了吗",
+      "onboard_time": 1754107762,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 80791,
       "num": 255255,
       "word": "在CJ骁龙馆找到了游戏真神装",
       "onboard_time": 1754032042,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79520,
+      "num": 219305,
+      "word": "中国具象化的国泰民安火爆外网",
+      "onboard_time": 1754108721,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 78095,
@@ -4699,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24550,
+      "num": 216117,
+      "word": "信息支援部队攻防演练首次公开",
+      "onboard_time": 1754095461,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 24144,
       "num": 27911,
       "word": "陈若轩鲨回悬疑剧了",
@@ -4853,6 +4989,9 @@
     },
     {
       "word": "#人民军队攻坚向前#"
+    },
+    {
+      "word": "#书写强军荣光#"
     }
   ]
 }
