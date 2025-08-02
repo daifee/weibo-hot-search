@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754124549939,
+  "endTime": 1754127037228,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -129,6 +129,14 @@
       "onboard_time": 1753760784,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2737582,
+      "num": 411368,
+      "word": "赵露思艾特银河酷娱",
+      "onboard_time": 1754126183,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2714670,
@@ -1219,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 955080,
+      "num": 955080,
+      "word": "覃海洋自编自导自演神剧本",
+      "onboard_time": 1754122402,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 949069,
       "num": 812198,
       "word": "李飞 抠门",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1753577481,
       "rank": 1,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 813873,
+      "num": 813873,
+      "word": "王俊凯祝易烊千玺出窑成功",
+      "onboard_time": 1754125103,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 811366,
@@ -2523,14 +2547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 592496,
-      "num": 233168,
-      "word": "覃海洋自编自导自演神剧本",
-      "onboard_time": 1754122402,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 590954,
       "num": 590954,
       "word": "坐高铁因为好奇选了静音车厢",
@@ -2668,7 +2684,7 @@
     },
     {
       "raw_hot": 566207,
-      "num": 235852,
+      "num": 379738,
       "word": "孕妇地铁拒让座遭2老人辱骂",
       "onboard_time": 1754119282,
       "rank": 38,
@@ -2913,6 +2929,14 @@
       "onboard_time": 1753708105,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530253,
+      "num": 419222,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1753931362,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 529751,
@@ -3315,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478183,
+      "num": 478183,
+      "word": "原来爆米花真的是一种花",
+      "onboard_time": 1754122882,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476580,
       "num": 476580,
       "word": "武大未删除被指性骚扰男生处分通报",
@@ -3497,14 +3529,6 @@
       "onboard_time": 1753972584,
       "rank": 7,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 454580,
-      "num": 454580,
-      "word": "原来爆米花真的是一种花",
-      "onboard_time": 1754122882,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 454426,
@@ -3961,6 +3985,14 @@
       "onboard_time": 1753670121,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 404249,
+      "num": 404249,
+      "word": "母女被溅了一身脏水妈妈直接报警",
+      "onboard_time": 1754121441,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404245,
@@ -4739,6 +4771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331741,
+      "num": 312632,
+      "word": "女明星们 30岁可太好了",
+      "onboard_time": 1754121742,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331568,
       "num": 331568,
       "word": "井柏然刘雯两眼一睁就是被偶遇",
@@ -4753,6 +4793,14 @@
       "onboard_time": 1753698682,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330086,
+      "num": 330086,
+      "word": "斗破苍穹",
+      "onboard_time": 1754123424,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 329812,
@@ -5787,14 +5835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267717,
-      "num": 230231,
-      "word": "母女被溅了一身脏水妈妈直接报警",
-      "onboard_time": 1754121441,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267648,
       "num": 289723,
       "word": "定风波OST阵容",
@@ -5812,7 +5852,7 @@
     },
     {
       "raw_hot": 267362,
-      "num": 232357,
+      "num": 327082,
       "word": "牛马打工人的自我修养",
       "onboard_time": 1754122102,
       "rank": 16,
@@ -5849,14 +5889,6 @@
       "onboard_time": 1753597704,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265455,
-      "num": 231213,
-      "word": "女明星们 30岁可太好了",
-      "onboard_time": 1754121742,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 265040,
@@ -5921,14 +5953,6 @@
       "onboard_time": 1753970665,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262663,
-      "num": 209103,
-      "word": "易烊千玺演唱会",
-      "onboard_time": 1753931362,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 262369,
@@ -6587,6 +6611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236744,
+      "num": 236744,
+      "word": "徐帆辟谣与冯小刚离婚",
+      "onboard_time": 1754123662,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236171,
       "num": 236171,
       "word": "林心如霍建华结婚九周年",
@@ -7051,6 +7083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221580,
+      "num": 416093,
+      "word": "北京西北四环一夜铺了8000吨沥青",
+      "onboard_time": 1754124622,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221077,
       "num": 221077,
       "word": "iG战胜WBG",
@@ -7193,14 +7233,6 @@
       "onboard_time": 1754055024,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217770,
-      "num": 217770,
-      "word": "斗破苍穹",
-      "onboard_time": 1754123424,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 217569,
@@ -7913,6 +7945,14 @@
       "onboard_time": 1753847786,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206333,
+      "num": 206333,
+      "word": "田曦薇搂席来喽",
+      "onboard_time": 1754126426,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 206160,
@@ -8945,14 +8985,6 @@
       "onboard_time": 1754048243,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191987,
-      "num": 210881,
-      "word": "徐帆辟谣与冯小刚离婚",
-      "onboard_time": 1754123662,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 191949,
@@ -10361,6 +10393,14 @@
       "onboard_time": 1753950443,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175662,
+      "num": 175662,
+      "word": "明明就原唱是周杰伦",
+      "onboard_time": 1754125702,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 175627,
@@ -12027,6 +12067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159406,
+      "num": 159406,
+      "word": "周六一天五顿是我这个牛马应得的",
+      "onboard_time": 1754126542,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159301,
       "num": 159301,
       "word": "于正藏头诗赵晴升咖",
@@ -12145,6 +12193,14 @@
       "onboard_time": 1753662922,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158055,
+      "num": 158055,
+      "word": "不要轻易叫女爱豆姐姐",
+      "onboard_time": 1754126482,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 157946,
@@ -12627,6 +12683,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 153692,
+      "num": 153692,
+      "word": "包上恩 放高中高低暗恋三年",
+      "onboard_time": 1754123662,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153517,
       "num": 209084,
       "word": "利剑玫瑰三个老头镜头",
@@ -12737,6 +12801,14 @@
       "onboard_time": 1754115382,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152747,
+      "num": 152747,
+      "word": "刘宇宁黄子弘凡花篮后续",
+      "onboard_time": 1754124202,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 152720,
@@ -12905,14 +12977,6 @@
       "onboard_time": 1753702643,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150724,
-      "num": 150724,
-      "word": "刘宇宁黄子弘凡花篮后续",
-      "onboard_time": 1754124202,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 150668,
@@ -13121,6 +13185,14 @@
       "onboard_time": 1753586842,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149429,
+      "num": 290257,
+      "word": "华为乾崑再添一派",
+      "onboard_time": 1754125942,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 149346,
@@ -14297,14 +14369,6 @@
       "onboard_time": 1754052501,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139454,
-      "num": 139454,
-      "word": "包上恩 放高中高低暗恋三年",
-      "onboard_time": 1754123662,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 139444,
@@ -15763,6 +15827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129820,
+      "num": 129820,
+      "word": "家长砸碎他人车窗取ACD救孩子",
+      "onboard_time": 1754125822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129796,
       "num": 129796,
       "word": "深情眼暑期档黑马",
@@ -16851,6 +16923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122619,
+      "num": 122619,
+      "word": "周末是一场有预谋的暴食",
+      "onboard_time": 1754124622,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122545,
       "num": 122545,
       "word": "俄罗斯堪察加半岛一火山喷发",
@@ -16881,6 +16961,14 @@
       "onboard_time": 1753964483,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122387,
+      "num": 122387,
+      "word": "乐评人邓柯谈年轮被指抄袭蝶恋",
+      "onboard_time": 1754126183,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 122354,
@@ -17044,7 +17132,7 @@
     },
     {
       "raw_hot": 120734,
-      "num": 120734,
+      "num": 815210,
       "word": "还有5天就立秋了",
       "onboard_time": 1754096361,
       "rank": 37,
@@ -17153,6 +17241,14 @@
       "onboard_time": 1754031681,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119888,
+      "num": 284156,
+      "word": "董璇张维伊因买单吵架",
+      "onboard_time": 1754126542,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 119853,
@@ -17475,6 +17571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116819,
+      "num": 116819,
+      "word": "iPhone17Air电池曝光",
+      "onboard_time": 1754124502,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116582,
       "num": 130416,
       "word": "钱和车都没了但救了1个人",
@@ -17747,6 +17851,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 114664,
+      "num": 114664,
+      "word": "余宇涵个人演唱会上座率",
+      "onboard_time": 1754125163,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114501,
       "num": 114501,
       "word": "这一刻对沈月的聪明有了实感",
@@ -17971,6 +18083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112943,
+      "num": 112943,
+      "word": "Everglow将以四人体制活动",
+      "onboard_time": 1754125882,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112887,
       "num": 112887,
       "word": "杨迪王牌9首录背着痛包跳上了",
@@ -18105,6 +18225,14 @@
       "onboard_time": 1753600762,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112012,
+      "num": 112012,
+      "word": "活下来的一个姓金一个姓林",
+      "onboard_time": 1754125283,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 111916,
@@ -18361,6 +18489,14 @@
       "onboard_time": 1753584081,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107631,
+      "num": 107631,
+      "word": "许嵩13个月办了40场演唱会",
+      "onboard_time": 1754126724,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 107571,
@@ -18963,6 +19099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101411,
+      "num": 101411,
+      "word": "少吃瘦得快还是运动瘦得快",
+      "onboard_time": 1754124981,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101063,
       "num": 317507,
       "word": "央视揭互联网保险藏暗礁",
@@ -19035,6 +19179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100279,
+      "num": 100279,
+      "word": "突然发现自己失去了打扮的欲望",
+      "onboard_time": 1754124743,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100080,
       "num": 100080,
       "word": "万千惠被老公言论整懵了",
@@ -19057,14 +19209,6 @@
       "onboard_time": 1753668141,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99975,
-      "num": 99975,
-      "word": "iPhone17Air电池曝光",
-      "onboard_time": 1754124502,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 99961,
@@ -20417,6 +20561,14 @@
       "onboard_time": 1754031262,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69429,
+      "num": 112062,
+      "word": "韩国媒体嘲笑日本网民破防了",
+      "onboard_time": 1754126542,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69064,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754124549939,
+  "endTime": 1754127037228,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -57,6 +57,14 @@
       "onboard_time": 1754090058,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2737582,
+      "num": 411368,
+      "word": "赵露思艾特银河酷娱",
+      "onboard_time": 1754126183,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2714670,
@@ -307,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 955080,
+      "num": 955080,
+      "word": "覃海洋自编自导自演神剧本",
+      "onboard_time": 1754122402,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 949069,
       "num": 812198,
       "word": "李飞 抠门",
@@ -376,6 +392,14 @@
       "word": "张雅钦鹿晗演唱会应援妆",
       "onboard_time": 1754059222,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 813873,
+      "num": 813873,
+      "word": "王俊凯祝易烊千玺出窑成功",
+      "onboard_time": 1754125103,
+      "rank": 3,
       "category": "演出"
     },
     {
@@ -611,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 592496,
-      "num": 233168,
-      "word": "覃海洋自编自导自演神剧本",
-      "onboard_time": 1754122402,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 588815,
       "num": 588815,
       "word": "柴鸡蛋疑似还钱了",
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 566207,
-      "num": 235852,
+      "num": 379738,
       "word": "孕妇地铁拒让座遭2老人辱骂",
       "onboard_time": 1754119282,
       "rank": 38,
@@ -721,6 +737,14 @@
       "onboard_time": 1754036062,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530253,
+      "num": 419222,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1754123781,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 526472,
@@ -827,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478183,
+      "num": 478183,
+      "word": "原来爆米花真的是一种花",
+      "onboard_time": 1754122882,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477913,
       "num": 477913,
       "word": "张俪道歉",
@@ -873,14 +905,6 @@
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 454580,
-      "num": 454580,
-      "word": "原来爆米花真的是一种花",
-      "onboard_time": 1754122882,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 453113,
@@ -961,6 +985,14 @@
       "onboard_time": 1754018182,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404249,
+      "num": 404249,
+      "word": "母女被溅了一身脏水妈妈直接报警",
+      "onboard_time": 1754121441,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396550,
@@ -1177,6 +1209,22 @@
       "onboard_time": 1754014341,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331741,
+      "num": 312632,
+      "word": "女明星们 30岁可太好了",
+      "onboard_time": 1754121742,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 330086,
+      "num": 330086,
+      "word": "斗破苍穹",
+      "onboard_time": 1754123424,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 329756,
@@ -1435,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267717,
-      "num": 230231,
-      "word": "母女被溅了一身脏水妈妈直接报警",
-      "onboard_time": 1754121441,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267414,
       "num": 384274,
       "word": "武汉大学图书馆事件多方皆输",
@@ -1452,7 +1492,7 @@
     },
     {
       "raw_hot": 267362,
-      "num": 232357,
+      "num": 327082,
       "word": "牛马打工人的自我修养",
       "onboard_time": 1754122102,
       "rank": 16,
@@ -1464,14 +1504,6 @@
       "word": "李明德砸车事件车主获赔20万",
       "onboard_time": 1753942824,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 265455,
-      "num": 231213,
-      "word": "女明星们 30岁可太好了",
-      "onboard_time": 1754121742,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1513,14 +1545,6 @@
       "onboard_time": 1753972105,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262663,
-      "num": 209103,
-      "word": "易烊千玺演唱会",
-      "onboard_time": 1754123781,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 261589,
@@ -1659,6 +1683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236744,
+      "num": 236744,
+      "word": "徐帆辟谣与冯小刚离婚",
+      "onboard_time": 1754123662,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236171,
       "num": 236171,
       "word": "林心如霍建华结婚九周年",
@@ -1795,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221580,
+      "num": 416093,
+      "word": "北京西北四环一夜铺了8000吨沥青",
+      "onboard_time": 1754124622,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221077,
       "num": 221077,
       "word": "iG战胜WBG",
@@ -1841,14 +1881,6 @@
       "onboard_time": 1754055024,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217770,
-      "num": 217770,
-      "word": "斗破苍穹",
-      "onboard_time": 1754123424,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 217342,
@@ -2083,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206333,
+      "num": 206333,
+      "word": "田曦薇搂席来喽",
+      "onboard_time": 1754126426,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206160,
       "num": 206160,
       "word": "27岁女子35楼坠落两次缓冲赢生机",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1754048243,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191987,
-      "num": 210881,
-      "word": "徐帆辟谣与冯小刚离婚",
-      "onboard_time": 1754123662,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 191489,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1754021841,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175662,
+      "num": 175662,
+      "word": "明明就原唱是周杰伦",
+      "onboard_time": 1754125702,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 175627,
@@ -3043,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159406,
+      "num": 159406,
+      "word": "周六一天五顿是我这个牛马应得的",
+      "onboard_time": 1754126542,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 158808,
       "num": 158808,
       "word": "王力宏戴了泉州非遗簪花",
@@ -3081,6 +3129,14 @@
       "onboard_time": 1754101041,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158055,
+      "num": 158055,
+      "word": "不要轻易叫女爱豆姐姐",
+      "onboard_time": 1754126482,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 157834,
@@ -3203,6 +3259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153692,
+      "num": 153692,
+      "word": "包上恩 放高中高低暗恋三年",
+      "onboard_time": 1754123662,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153413,
       "num": 153413,
       "word": "刘亦菲本科毕业论文答辩",
@@ -3225,6 +3289,14 @@
       "onboard_time": 1754115382,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152747,
+      "num": 152747,
+      "word": "刘宇宁黄子弘凡花篮后续",
+      "onboard_time": 1754124202,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 152343,
@@ -3267,14 +3339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150724,
-      "num": 150724,
-      "word": "刘宇宁黄子弘凡花篮后续",
-      "onboard_time": 1754124202,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 150487,
       "num": 196106,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
@@ -3297,6 +3361,14 @@
       "onboard_time": 1754054424,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149429,
+      "num": 290257,
+      "word": "华为乾崑再添一派",
+      "onboard_time": 1754125942,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 149346,
@@ -3593,14 +3665,6 @@
       "onboard_time": 1754052501,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139454,
-      "num": 139454,
-      "word": "包上恩 放高中高低暗恋三年",
-      "onboard_time": 1754123662,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 139281,
@@ -4011,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129820,
+      "num": 129820,
+      "word": "家长砸碎他人车窗取ACD救孩子",
+      "onboard_time": 1754125822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "SNH48香港演唱会",
@@ -4259,6 +4331,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122619,
+      "num": 122619,
+      "word": "周末是一场有预谋的暴食",
+      "onboard_time": 1754124622,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 122387,
+      "num": 122387,
+      "word": "乐评人邓柯谈年轮被指抄袭蝶恋",
+      "onboard_time": 1754126183,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122162,
       "num": 122162,
       "word": "贺鑫隆排名",
@@ -4292,7 +4380,7 @@
     },
     {
       "raw_hot": 120734,
-      "num": 120734,
+      "num": 815210,
       "word": "还有5天就立秋了",
       "onboard_time": 1754096361,
       "rank": 37,
@@ -4321,6 +4409,14 @@
       "onboard_time": 1754031681,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119888,
+      "num": 284156,
+      "word": "董璇张维伊因买单吵架",
+      "onboard_time": 1754126542,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 119768,
@@ -4401,6 +4497,14 @@
       "onboard_time": 1754044764,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116819,
+      "num": 116819,
+      "word": "iPhone17Air电池曝光",
+      "onboard_time": 1754124502,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 116552,
@@ -4507,6 +4611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114664,
+      "num": 114664,
+      "word": "余宇涵个人演唱会上座率",
+      "onboard_time": 1754125163,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113769,
       "num": 204712,
       "word": "谢谢你们用生命拼来家国安宁",
@@ -4537,6 +4649,14 @@
       "onboard_time": 1753976181,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112943,
+      "num": 112943,
+      "word": "Everglow将以四人体制活动",
+      "onboard_time": 1754125882,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 112600,
@@ -4577,6 +4697,14 @@
       "onboard_time": 1754036662,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 112012,
+      "num": 112012,
+      "word": "活下来的一个姓金一个姓林",
+      "onboard_time": 1754125283,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 111075,
@@ -4625,6 +4753,14 @@
       "onboard_time": 1754123841,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107631,
+      "num": 107631,
+      "word": "许嵩13个月办了40场演唱会",
+      "onboard_time": 1754126724,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 107571,
@@ -4763,6 +4899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101411,
+      "num": 101411,
+      "word": "少吃瘦得快还是运动瘦得快",
+      "onboard_time": 1754124981,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101127,
       "num": 101127,
       "word": "南京照相馆",
@@ -4787,12 +4931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99975,
-      "num": 99975,
-      "word": "iPhone17Air电池曝光",
-      "onboard_time": 1754124502,
-      "rank": 48,
-      "category": "数码"
+      "raw_hot": 100279,
+      "num": 100279,
+      "word": "突然发现自己失去了打扮的欲望",
+      "onboard_time": 1754124743,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99882,
@@ -5225,6 +5369,14 @@
       "onboard_time": 1754031262,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69429,
+      "num": 112062,
+      "word": "韩国媒体嘲笑日本网民破防了",
+      "onboard_time": 1754126542,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69017,
