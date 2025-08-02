@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754109813499,
+  "endTime": 1754110626477,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -819,6 +819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1099522,
+      "num": 252367,
+      "word": "低人一等座",
+      "onboard_time": 1754105961,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1094422,
       "num": 1094422,
       "word": "马天宇",
@@ -848,14 +856,6 @@
       "word": "北京密云暴雨致洪灾",
       "onboard_time": 1753717762,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1081340,
-      "num": 233991,
-      "word": "低人一等座",
-      "onboard_time": 1754105961,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1129,6 +1129,14 @@
       "onboard_time": 1753758623,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 972985,
+      "num": 1155677,
+      "word": "网传亮证司机是公安局领导不实",
+      "onboard_time": 1754108242,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 970864,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1753939042,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 692812,
-      "num": 692812,
-      "word": "网传亮证司机是公安局领导不实",
-      "onboard_time": 1754108242,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 691354,
@@ -4411,6 +4411,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 347323,
+      "num": 250554,
+      "word": "7岁男孩求父母抛弃自己",
+      "onboard_time": 1754107103,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346019,
       "num": 251787,
       "word": "张雪峰想让女儿高考后当一年助理",
@@ -5275,14 +5283,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 285851,
-      "num": 213863,
-      "word": "7岁男孩求父母抛弃自己",
-      "onboard_time": 1754107103,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284934,
       "num": 284934,
       "word": "俄车臣领导人卡德罗夫突然溺水",
@@ -6120,6 +6120,14 @@
       "word": "正式确诊为痣性恋",
       "onboard_time": 1753890144,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247297,
+      "num": 247297,
+      "word": "章昊外网热议的照片",
+      "onboard_time": 1754108302,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -8027,6 +8035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200238,
+      "num": 200238,
+      "word": "您的骑手正在与流浪猫决斗",
+      "onboard_time": 1754107521,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "汪顺回应为什么报100仰",
@@ -8555,22 +8571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192546,
-      "num": 155238,
-      "word": "您的骑手正在与流浪猫决斗",
-      "onboard_time": 1754107521,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 192536,
-      "num": 192536,
-      "word": "章昊外网热议的照片",
-      "onboard_time": 1754108302,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192452,
       "num": 192452,
       "word": "宋浩然独自带女儿回十堰办周岁宴",
@@ -8931,6 +8931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189193,
+      "num": 189193,
+      "word": "鞠婧祎网宣组重组",
+      "onboard_time": 1754109502,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189089,
       "num": 511227,
       "word": "与你同行的力量",
@@ -9075,6 +9083,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 186896,
+      "num": 186896,
+      "word": "这才是双休工作少的原因",
+      "onboard_time": 1754107401,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186845,
       "num": 186845,
       "word": "中国公民在津巴布韦遇抢劫中弹身亡",
@@ -9105,14 +9121,6 @@
       "onboard_time": 1753975824,
       "rank": 31,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 186611,
-      "num": 186611,
-      "word": "这才是双休工作少的原因",
-      "onboard_time": 1754107401,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 186346,
@@ -9273,6 +9281,14 @@
       "onboard_time": 1753702643,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185291,
+      "num": 185291,
+      "word": "张元英模仿小时候自己的照片",
+      "onboard_time": 1754107701,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 185271,
@@ -10331,6 +10347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171872,
+      "num": 171872,
+      "word": "你好星期六",
+      "onboard_time": 1753543766,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171869,
       "num": 171869,
       "word": "没抢到千玺门票的我被哄好了",
@@ -10441,6 +10465,14 @@
       "onboard_time": 1753589601,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171069,
+      "num": 171069,
+      "word": "演员于娜回应变胖",
+      "onboard_time": 1754109502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 171064,
@@ -10937,6 +10969,14 @@
       "onboard_time": 1753543526,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 165146,
+      "num": 165146,
+      "word": "教师辞编后例假都正常了",
+      "onboard_time": 1754109801,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 165128,
@@ -12107,14 +12147,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 154729,
-      "num": 154729,
-      "word": "张元英模仿小时候自己的照片",
-      "onboard_time": 1754107701,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 154657,
       "num": 154657,
       "word": "被张艺兴大海合唱硬控三分钟",
@@ -12401,14 +12433,6 @@
       "onboard_time": 1753955784,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151144,
-      "num": 151144,
-      "word": "鞠婧祎网宣组重组",
-      "onboard_time": 1754109502,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 151135,
@@ -12953,6 +12977,14 @@
       "onboard_time": 1753773024,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147095,
+      "num": 147095,
+      "word": "刘诗诗好适合田园生活",
+      "onboard_time": 1754110041,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 147023,
@@ -13641,6 +13673,14 @@
       "onboard_time": 1753680561,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140788,
+      "num": 140788,
+      "word": "富士涨价了",
+      "onboard_time": 1754107701,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 140658,
@@ -15299,14 +15339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128971,
-      "num": 128971,
-      "word": "你好星期六",
-      "onboard_time": 1753543766,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128909,
       "num": 128909,
       "word": "赵心童上海大师赛晋级四强",
@@ -16011,14 +16043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123643,
-      "num": 123643,
-      "word": "富士涨价了",
-      "onboard_time": 1754107701,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 123608,
       "num": 123608,
       "word": "曝JieJie说回不去了",
@@ -16033,6 +16057,14 @@
       "onboard_time": 1754039423,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123493,
+      "num": 123493,
+      "word": "明日方舟",
+      "onboard_time": 1754110463,
+      "rank": 42,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 123424,
@@ -16057,6 +16089,14 @@
       "onboard_time": 1754106922,
       "rank": 28,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 123266,
+      "num": 123266,
+      "word": "地陪成00后年轻人就业新趋势",
+      "onboard_time": 1754110222,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123251,
@@ -16265,6 +16305,14 @@
       "onboard_time": 1753880064,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121260,
+      "num": 234683,
+      "word": "中国文化跨越山海",
+      "onboard_time": 1754106381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121082,
@@ -16553,14 +16601,6 @@
       "onboard_time": 1753800384,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118640,
-      "num": 118640,
-      "word": "教师辞编后例假都正常了",
-      "onboard_time": 1754109801,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 118567,
@@ -16905,6 +16945,14 @@
       "onboard_time": 1753964963,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115281,
+      "num": 219305,
+      "word": "中国具象化的国泰民安火爆外网",
+      "onboard_time": 1754108721,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 115053,
@@ -17715,6 +17763,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 106375,
+      "num": 252802,
+      "word": "北京8区发生山洪灾害可能性较大",
+      "onboard_time": 1754109861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106266,
       "num": 106266,
       "word": "原来摔到头真的会失忆",
@@ -17939,14 +17995,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103818,
-      "num": 234683,
-      "word": "中国文化跨越山海",
-      "onboard_time": 1754106381,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103786,
       "num": 103786,
       "word": "御坂美琴",
@@ -18113,14 +18161,6 @@
       "onboard_time": 1753927762,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101896,
-      "num": 127283,
-      "word": "演员于娜回应变胖",
-      "onboard_time": 1754109502,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 101868,
@@ -18352,6 +18392,14 @@
       "word": "侯佩岑回应主持歌手",
       "onboard_time": 1753767682,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97690,
+      "num": 207810,
+      "word": "徐志胜我不想被脱口秀抛下",
+      "onboard_time": 1754110282,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -18665,6 +18713,14 @@
       "onboard_time": 1753747764,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90565,
+      "num": 248215,
+      "word": "杨洋用碰一下请客减2元了吗",
+      "onboard_time": 1754107762,
+      "rank": 18,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 90438,
@@ -19059,14 +19115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81433,
-      "num": 220299,
-      "word": "杨洋用碰一下请客减2元了吗",
-      "onboard_time": 1754107762,
-      "rank": 18,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 81068,
       "num": 81068,
       "word": "QQ你对我意见很大吗",
@@ -19105,14 +19153,6 @@
       "onboard_time": 1753577301,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79520,
-      "num": 219305,
-      "word": "中国具象化的国泰民安火爆外网",
-      "onboard_time": 1754108721,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 78095,
@@ -21291,6 +21331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28306,
+      "num": 702711,
+      "word": "信息支援部队攻防演练首次公开",
+      "onboard_time": 1754095461,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 27799,
       "num": 134888,
       "word": "9名未成年围殴1人叫嚣欢迎报警",
@@ -21377,14 +21425,6 @@
       "onboard_time": 1753746742,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24550,
-      "num": 216117,
-      "word": "信息支援部队攻防演练首次公开",
-      "onboard_time": 1754095461,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 24311,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754109813499,
+  "endTime": 1754110626477,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -171,20 +171,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1099522,
+      "num": 252367,
+      "word": "低人一等座",
+      "onboard_time": 1754105961,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1087927,
       "num": 461639,
       "word": "李诞抖音评论区",
       "onboard_time": 1754026402,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1081340,
-      "num": 233991,
-      "word": "低人一等座",
-      "onboard_time": 1754105961,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1072484,
@@ -257,6 +257,14 @@
       "onboard_time": 1754016262,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 972985,
+      "num": 1155677,
+      "word": "网传亮证司机是公安局领导不实",
+      "onboard_time": 1754108242,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 968697,
@@ -481,14 +489,6 @@
       "onboard_time": 1754089757,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 692812,
-      "num": 692812,
-      "word": "网传亮证司机是公安局领导不实",
-      "onboard_time": 1754108242,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 688073,
@@ -963,6 +963,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 347323,
+      "num": 250554,
+      "word": "7岁男孩求父母抛弃自己",
+      "onboard_time": 1754107103,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345494,
       "num": 345494,
       "word": "昆明将严肃处理涉事旅行社",
@@ -1187,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285851,
-      "num": 213863,
-      "word": "7岁男孩求父母抛弃自己",
-      "onboard_time": 1754107103,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278920,
       "num": 278920,
       "word": "樊振东建军节发文",
@@ -1377,6 +1377,14 @@
       "onboard_time": 1754009903,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247297,
+      "num": 247297,
+      "word": "章昊外网热议的照片",
+      "onboard_time": 1754108302,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 247192,
@@ -1899,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200238,
+      "num": 200238,
+      "word": "您的骑手正在与流浪猫决斗",
+      "onboard_time": 1754107521,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197205,
       "num": 197205,
       "word": "律师解读李明德酒后砸车获刑6个月",
@@ -1963,22 +1979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192546,
-      "num": 155238,
-      "word": "您的骑手正在与流浪猫决斗",
-      "onboard_time": 1754107521,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 192536,
-      "num": 192536,
-      "word": "章昊外网热议的照片",
-      "onboard_time": 1754108302,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192415,
       "num": 352073,
       "word": "零跑汽车7月销量首破5万台",
@@ -2035,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189193,
+      "num": 189193,
+      "word": "鞠婧祎网宣组重组",
+      "onboard_time": 1754109502,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188800,
       "num": 188800,
       "word": "锦月如歌OST歌单",
@@ -2059,20 +2067,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186896,
+      "num": 186896,
+      "word": "这才是双休工作少的原因",
+      "onboard_time": 1754107401,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186635,
       "num": 128081,
       "word": "哈尔滨震感",
       "onboard_time": 1753975824,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 186611,
-      "num": 186611,
-      "word": "这才是双休工作少的原因",
-      "onboard_time": 1754107401,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 186346,
@@ -2105,6 +2113,14 @@
       "onboard_time": 1754045184,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185291,
+      "num": 185291,
+      "word": "张元英模仿小时候自己的照片",
+      "onboard_time": 1754107701,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 184614,
@@ -2339,12 +2355,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171872,
+      "num": 171872,
+      "word": "你好星期六",
+      "onboard_time": 1754109502,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171801,
       "num": 171801,
       "word": "定风波热度",
       "onboard_time": 1754058203,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171069,
+      "num": 171069,
+      "word": "演员于娜回应变胖",
+      "onboard_time": 1754109502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 170629,
@@ -2441,6 +2473,14 @@
       "onboard_time": 1754047163,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165146,
+      "num": 165146,
+      "word": "教师辞编后例假都正常了",
+      "onboard_time": 1754109801,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 165128,
@@ -2739,14 +2779,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 154729,
-      "num": 154729,
-      "word": "张元英模仿小时候自己的照片",
-      "onboard_time": 1754107701,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 154251,
       "num": 154251,
       "word": "美国医生边手术边玩游戏致患者死亡",
@@ -2793,14 +2825,6 @@
       "onboard_time": 1754104102,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151144,
-      "num": 151144,
-      "word": "鞠婧祎网宣组重组",
-      "onboard_time": 1754109502,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 150987,
@@ -2915,6 +2939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147095,
+      "num": 147095,
+      "word": "刘诗诗好适合田园生活",
+      "onboard_time": 1754110041,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146272,
       "num": 146272,
       "word": "歌手选曲审美",
@@ -3017,6 +3049,14 @@
       "onboard_time": 1754009601,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140788,
+      "num": 140788,
+      "word": "富士涨价了",
+      "onboard_time": 1754107701,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 140570,
@@ -3475,14 +3515,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 124436,
-      "num": 124436,
-      "word": "你好星期六",
-      "onboard_time": 1754109502,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123817,
       "num": 123817,
       "word": "亮证逼迫让路车主证后身份必须追问",
@@ -3507,14 +3539,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 123643,
-      "num": 123643,
-      "word": "富士涨价了",
-      "onboard_time": 1754107701,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 123608,
       "num": 123608,
       "word": "曝JieJie说回不去了",
@@ -3531,6 +3555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123493,
+      "num": 123493,
+      "word": "明日方舟",
+      "onboard_time": 1754110463,
+      "rank": 42,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 123344,
       "num": 234354,
       "word": "罗小黑跟小猪妖去取经",
@@ -3539,12 +3571,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 123266,
+      "num": 123266,
+      "word": "地陪成00后年轻人就业新趋势",
+      "onboard_time": 1754110222,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122162,
       "num": 122162,
       "word": "贺鑫隆排名",
       "onboard_time": 1754014402,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121260,
+      "num": 234683,
+      "word": "中国文化跨越山海",
+      "onboard_time": 1754106381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120734,
@@ -3609,14 +3657,6 @@
       "onboard_time": 1754036842,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118640,
-      "num": 118640,
-      "word": "教师辞编后例假都正常了",
-      "onboard_time": 1754109801,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 118495,
@@ -3721,6 +3761,14 @@
       "onboard_time": 1754046563,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115281,
+      "num": 219305,
+      "word": "中国具象化的国泰民安火爆外网",
+      "onboard_time": 1754108721,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 114920,
@@ -3851,6 +3899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106375,
+      "num": 252802,
+      "word": "北京8区发生山洪灾害可能性较大",
+      "onboard_time": 1754109861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106266,
       "num": 106266,
       "word": "原来摔到头真的会失忆",
@@ -3891,14 +3947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103818,
-      "num": 234683,
-      "word": "中国文化跨越山海",
-      "onboard_time": 1754106381,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103419,
       "num": 245052,
       "word": "27岁抗日将领被砍下头颅8年后被找到",
@@ -3913,14 +3961,6 @@
       "onboard_time": 1754031262,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101896,
-      "num": 127283,
-      "word": "演员于娜回应变胖",
-      "onboard_time": 1754109502,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 101547,
@@ -3985,6 +4025,14 @@
       "onboard_time": 1754099602,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97690,
+      "num": 207810,
+      "word": "徐志胜我不想被脱口秀抛下",
+      "onboard_time": 1754110282,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 97260,
@@ -4107,6 +4155,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 90565,
+      "num": 248215,
+      "word": "杨洋用碰一下请客减2元了吗",
+      "onboard_time": 1754107762,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 90556,
       "num": 90556,
       "word": "陈芋汐女子10米台夺冠",
@@ -4195,28 +4251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81433,
-      "num": 220299,
-      "word": "杨洋用碰一下请客减2元了吗",
-      "onboard_time": 1754107762,
-      "rank": 18,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 80791,
       "num": 255255,
       "word": "在CJ骁龙馆找到了游戏真神装",
       "onboard_time": 1754032042,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79520,
-      "num": 219305,
-      "word": "中国具象化的国泰民安火爆外网",
-      "onboard_time": 1754108721,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 78095,
@@ -4819,20 +4859,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28306,
+      "num": 702711,
+      "word": "信息支援部队攻防演练首次公开",
+      "onboard_time": 1754095461,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 27785,
       "num": 27785,
       "word": "刘宇当上假发模特了",
       "onboard_time": 1754073017,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24550,
-      "num": 216117,
-      "word": "信息支援部队攻防演练首次公开",
-      "onboard_time": 1754095461,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 24144,

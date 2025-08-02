@@ -1,0 +1,410 @@
+{
+  "runTime": 1754110626477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 972985,
+        "num": 1155677,
+        "word": "网传亮证司机是公安局领导不实",
+        "onboard_time": 1754108242,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 921113,
+        "num": 921113,
+        "word": "哪吒",
+        "onboard_time": 1754101640,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28306,
+        "num": 702711,
+        "word": "信息支援部队攻防演练首次公开",
+        "onboard_time": 1754095461,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 555833,
+        "num": 555833,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 424072,
+        "num": 424072,
+        "word": "迪丽热巴主动把词分给群演",
+        "onboard_time": 1754106621,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417159,
+        "num": 417159,
+        "word": "男子还原奔驰女司机亮证逼迫让路过程",
+        "onboard_time": 1754103621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369563,
+        "num": 369563,
+        "word": "青岛姑娘买下日本70万平方小岛",
+        "onboard_time": 1754083094,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321858,
+        "num": 321858,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1754105961,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252965,
+        "num": 252965,
+        "word": "警方通报24岁快递员持刀划伤两业主",
+        "onboard_time": 1754100141,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 106375,
+        "num": 252802,
+        "word": "北京8区发生山洪灾害可能性较大",
+        "onboard_time": 1754109861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1099522,
+        "num": 252367,
+        "word": "低人一等座",
+        "onboard_time": 1754105961,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 928572,
+        "num": 251832,
+        "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+        "onboard_time": 1754101522,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 734074,
+        "num": 251261,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427742,
+        "num": 250786,
+        "word": "李咏女儿恋情",
+        "onboard_time": 1754105241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347323,
+        "num": 250554,
+        "word": "7岁男孩求父母抛弃自己",
+        "onboard_time": 1754107103,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1686878,
+        "num": 250081,
+        "word": "亮证姐",
+        "onboard_time": 1754097021,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73334,
+        "num": 249297,
+        "word": "终于等到物理隔菌的卫生巾了",
+        "onboard_time": 1754106861,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194529,
+        "num": 249167,
+        "word": "你好星期六谁会大展鸿图",
+        "onboard_time": 1754101581,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1497363,
+        "num": 248640,
+        "word": "民警上门要求删视频的监控曝光",
+        "onboard_time": 1754090058,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90565,
+        "num": 248215,
+        "word": "杨洋用碰一下请客减2元了吗",
+        "onboard_time": 1754107762,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 729347,
+        "num": 247633,
+        "word": "被亮证男子希望纪委介入调查",
+        "onboard_time": 1754102661,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247297,
+        "num": 247297,
+        "word": "章昊外网热议的照片",
+        "onboard_time": 1754108302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229998,
+        "num": 229998,
+        "word": "日本老龄化具象化了",
+        "onboard_time": 1754097321,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97690,
+        "num": 207810,
+        "word": "徐志胜我不想被脱口秀抛下",
+        "onboard_time": 1754110282,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200238,
+        "num": 200238,
+        "word": "您的骑手正在与流浪猫决斗",
+        "onboard_time": 1754107521,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190933,
+        "num": 190933,
+        "word": "王楚然下跪张凌赫摔酒杯路透",
+        "onboard_time": 1754093900,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189193,
+        "num": 189193,
+        "word": "鞠婧祎网宣组重组",
+        "onboard_time": 1754109502,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186896,
+        "num": 186896,
+        "word": "这才是双休工作少的原因",
+        "onboard_time": 1754107401,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185291,
+        "num": 185291,
+        "word": "张元英模仿小时候自己的照片",
+        "onboard_time": 1754107701,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172155,
+        "num": 172155,
+        "word": "光与夜之恋",
+        "onboard_time": 1754092460,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171872,
+        "num": 171872,
+        "word": "你好星期六",
+        "onboard_time": 1754109502,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171069,
+        "num": 171069,
+        "word": "演员于娜回应变胖",
+        "onboard_time": 1754109502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166820,
+        "num": 166820,
+        "word": "坚持早睡1个小时的身体变化",
+        "onboard_time": 1754099541,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165146,
+        "num": 165146,
+        "word": "教师辞编后例假都正常了",
+        "onboard_time": 1754109801,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160112,
+        "num": 160112,
+        "word": "王源送了易烊千玺演唱会花篮",
+        "onboard_time": 1754090419,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158462,
+        "num": 158462,
+        "word": "谁来救救沈梦辰",
+        "onboard_time": 1754105902,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147095,
+        "num": 147095,
+        "word": "刘诗诗好适合田园生活",
+        "onboard_time": 1754110041,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140788,
+        "num": 140788,
+        "word": "富士涨价了",
+        "onboard_time": 1754107701,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133591,
+        "num": 133591,
+        "word": "特斯拉致命车祸被裁定赔2.43亿美元",
+        "onboard_time": 1754103261,
+        "rank": 38,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 138569,
+        "num": 131385,
+        "word": "老祖宗的审美是有一定道理的",
+        "onboard_time": 1754108481,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129109,
+        "num": 129109,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1754102001,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127578,
+        "num": 127578,
+        "word": "光与夜之恋 齐司礼",
+        "onboard_time": 1754100081,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123493,
+        "num": 123493,
+        "word": "明日方舟",
+        "onboard_time": 1754110463,
+        "rank": 42,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 123266,
+        "num": 123266,
+        "word": "地陪成00后年轻人就业新趋势",
+        "onboard_time": 1754110222,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121260,
+        "num": 121260,
+        "word": "中国文化跨越山海",
+        "onboard_time": 1754106381,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119590,
+        "num": 119590,
+        "word": "川陕渝又热到40摄氏度了",
+        "onboard_time": 1754100081,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119427,
+        "num": 119427,
+        "word": "林一卢昱晓新剧折月亮开机",
+        "onboard_time": 1754101041,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117957,
+        "num": 117957,
+        "word": "亮证逼迫让路事件当地成立工作组",
+        "onboard_time": 1754108481,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115281,
+        "num": 115281,
+        "word": "中国具象化的国泰民安火爆外网",
+        "onboard_time": 1754108721,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 101898,
+        "num": 114646,
+        "word": "男子与军人配偶同居致其怀孕",
+        "onboard_time": 1754067140,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写强军荣光#"
+    }
+  }
+}
