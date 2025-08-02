@@ -1,0 +1,410 @@
+{
+  "runTime": 1754113775706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3874972,
+        "num": 3874972,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1108590,
+        "num": 1108590,
+        "word": "网传亮证司机是公安局领导不实",
+        "onboard_time": 1754108242,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 42574,
+        "num": 671503,
+        "word": "信息支援部队攻防演练首次公开",
+        "onboard_time": 1754095461,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 496565,
+        "num": 496565,
+        "word": "哪吒",
+        "onboard_time": 1754101640,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452298,
+        "num": 452298,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350758,
+        "num": 350758,
+        "word": "青岛姑娘买下日本70万平方小岛",
+        "onboard_time": 1754083094,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 443825,
+        "num": 350584,
+        "word": "鹿晗亚巡再宣五城",
+        "onboard_time": 1754110942,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348329,
+        "num": 348329,
+        "word": "男子还原奔驰女司机亮证逼迫让路过程",
+        "onboard_time": 1754103621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296839,
+        "num": 296839,
+        "word": "黄雅琼刘雨辰领证",
+        "onboard_time": 1754113223,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281707,
+        "num": 281707,
+        "word": "迪丽热巴主动把词分给群演",
+        "onboard_time": 1754106621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740325,
+        "num": 280910,
+        "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+        "onboard_time": 1754101522,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 699502,
+        "num": 271796,
+        "word": "低人一等座",
+        "onboard_time": 1754105961,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661906,
+        "num": 257788,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303446,
+        "num": 247225,
+        "word": "7岁男孩求父母抛弃自己",
+        "onboard_time": 1754107103,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243739,
+        "num": 243739,
+        "word": "淘宝闪购奶茶免单限时加码",
+        "onboard_time": 1754110881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51425,
+        "num": 243240,
+        "word": "安徽留学生在德国做中餐走红",
+        "onboard_time": 1754113283,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1167575,
+        "num": 242379,
+        "word": "民警上门要求删视频的监控曝光",
+        "onboard_time": 1754090058,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967497,
+        "num": 240418,
+        "word": "亮证姐",
+        "onboard_time": 1754097021,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343929,
+        "num": 239639,
+        "word": "被亮证男子希望纪委介入调查",
+        "onboard_time": 1754102661,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60837,
+        "num": 238463,
+        "word": "CJ骁龙馆游戏人的快乐老家",
+        "onboard_time": 1754111122,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269945,
+        "num": 236611,
+        "word": "李咏女儿恋情",
+        "onboard_time": 1754105241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236495,
+        "num": 236495,
+        "word": "警方通报24岁快递员持刀划伤两业主",
+        "onboard_time": 1754100141,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 219374,
+        "num": 219374,
+        "word": "坚持早睡1个小时的身体变化",
+        "onboard_time": 1754099541,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208781,
+        "num": 208781,
+        "word": "教师辞编后例假都正常了",
+        "onboard_time": 1754109801,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190350,
+        "num": 190350,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1754105961,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180512,
+        "num": 180512,
+        "word": "徐志胜我不想被脱口秀抛下",
+        "onboard_time": 1754110282,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162397,
+        "num": 162397,
+        "word": "王俊凯眼睛不知道该看哪里了",
+        "onboard_time": 1754112142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111661,
+        "num": 161812,
+        "word": "北京8区发生山洪灾害可能性较大",
+        "onboard_time": 1754109861,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 161423,
+        "word": "章昊外网热议的照片",
+        "onboard_time": 1754108302,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56858,
+        "num": 160561,
+        "word": "沈月也是舞到正主脸上了",
+        "onboard_time": 1754113342,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202757,
+        "num": 159420,
+        "word": "您的骑手正在与流浪猫决斗",
+        "onboard_time": 1754107521,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178214,
+        "num": 158557,
+        "word": "杨博文陈浚铭报4中4",
+        "onboard_time": 1754112743,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158331,
+        "num": 158331,
+        "word": "王琳自己淋过雨要给儿子撑伞",
+        "onboard_time": 1754113042,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "这才是双休工作少的原因",
+        "onboard_time": 1754107401,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149399,
+        "num": 149399,
+        "word": "日本老龄化具象化了",
+        "onboard_time": 1754097321,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148687,
+        "num": 148687,
+        "word": "演员于娜回应变胖",
+        "onboard_time": 1754109502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147760,
+        "num": 147760,
+        "word": "在短剧甚至能看到女太监",
+        "onboard_time": 1754111602,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147719,
+        "num": 147719,
+        "word": "加沙已成炼狱美国竟还在打算盘",
+        "onboard_time": 1754111062,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142495,
+        "num": 142495,
+        "word": "遭亮证逼迫让路当事人最新发声",
+        "onboard_time": 1754112082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135506,
+        "num": 135506,
+        "word": "上海一平米房可以听三四十场演唱会",
+        "onboard_time": 1754112622,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130960,
+        "num": 130960,
+        "word": "张元英模仿小时候自己的照片",
+        "onboard_time": 1754107701,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39332,
+        "num": 121935,
+        "word": "每小时都有1名加沙儿童死亡",
+        "onboard_time": 1754113762,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119442,
+        "num": 119442,
+        "word": "西方各国为何忍不了以色列了",
+        "onboard_time": 1754112022,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112286,
+        "num": 112286,
+        "word": "27岁学跳舞5个月的变化",
+        "onboard_time": 1754110822,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 112159,
+        "num": 112159,
+        "word": "解锁青岛的天然空调避暑密码",
+        "onboard_time": 1754113401,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110208,
+        "num": 110208,
+        "word": "光与夜之恋",
+        "onboard_time": 1754092460,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109791,
+        "num": 109791,
+        "word": "什么电影敢在胖东来做点映",
+        "onboard_time": 1754110702,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108053,
+        "num": 108053,
+        "word": "警方通报因纠纷快递员划伤2人",
+        "onboard_time": 1754097681,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 107871,
+        "num": 107871,
+        "word": "特斯拉致命车祸被裁定赔2.43亿美元",
+        "onboard_time": 1754103261,
+        "rank": 48,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 96822,
+        "num": 96822,
+        "word": "中国文化跨越山海",
+        "onboard_time": 1754106381,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}

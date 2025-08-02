@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754112656509,
+  "endTime": 1754113775706,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2347,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3874972,
+      "num": 3874972,
+      "word": "年轮被指抄袭蝶恋",
+      "onboard_time": 1754111421,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 3869708,
       "num": 2496802,
       "word": "兵马俑被砸烂了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738549593,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 3829018,
-      "num": 3829018,
-      "word": "韩国媒体称李在明当选韩国总统",
-      "onboard_time": 1748962645,
-      "rank": 1,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,15 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754112656509,
+  "endTime": 1754113775706,
   "band_list": [
+    {
+      "raw_hot": 3874972,
+      "num": 3874972,
+      "word": "年轮被指抄袭蝶恋",
+      "onboard_time": 1754111421,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2845925,
       "num": 907617,
@@ -9,14 +17,6 @@
       "onboard_time": 1754097021,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2832880,
-      "num": 2832880,
-      "word": "年轮被指抄袭蝶恋",
-      "onboard_time": 1754111421,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 2751990,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1099522,
-      "num": 252367,
+      "num": 271796,
       "word": "低人一等座",
       "onboard_time": 1754105961,
       "rank": 37,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443825,
+      "num": 351960,
+      "word": "鹿晗亚巡再宣五城",
+      "onboard_time": 1754110942,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 436923,
       "num": 436923,
       "word": "删了的QQ空间说说复活了",
@@ -241,14 +249,6 @@
       "onboard_time": 1754107103,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351960,
-      "num": 351960,
-      "word": "鹿晗亚巡再宣五城",
-      "onboard_time": 1754110942,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 328828,
@@ -297,6 +297,14 @@
       "onboard_time": 1754090419,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296839,
+      "num": 296839,
+      "word": "黄雅琼刘雨辰领证",
+      "onboard_time": 1754113223,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 294098,
@@ -371,6 +379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 243739,
+      "num": 243739,
+      "word": "淘宝闪购奶茶免单限时加码",
+      "onboard_time": 1754110881,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 233747,
       "num": 233747,
       "word": "第五人格",
@@ -425,6 +441,14 @@
       "onboard_time": 1754105902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208781,
+      "num": 208781,
+      "word": "教师辞编后例假都正常了",
+      "onboard_time": 1754109801,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 207159,
@@ -531,20 +555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 184321,
-      "num": 184321,
-      "word": "教师辞编后例假都正常了",
-      "onboard_time": 1754109801,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179240,
       "num": 179556,
       "word": "者来女 玩得起",
       "onboard_time": 1754065341,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178214,
+      "num": 158557,
+      "word": "杨博文陈浚铭报4中4",
+      "onboard_time": 1754112743,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 176918,
@@ -569,14 +593,6 @@
       "onboard_time": 1754106561,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 172345,
-      "num": 220995,
-      "word": "淘宝闪购奶茶免单限时加码",
-      "onboard_time": 1754110881,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 172338,
@@ -643,6 +659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 162397,
+      "num": 162397,
+      "word": "王俊凯眼睛不知道该看哪里了",
+      "onboard_time": 1754112142,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160164,
       "num": 160164,
       "word": "第五人格ip联动",
@@ -657,6 +681,14 @@
       "onboard_time": 1754100081,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158331,
+      "num": 158331,
+      "word": "王琳自己淋过雨要给儿子撑伞",
+      "onboard_time": 1754113042,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 158219,
@@ -731,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147719,
+      "num": 147719,
+      "word": "加沙已成炼狱美国竟还在打算盘",
+      "onboard_time": 1754111062,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147095,
       "num": 147095,
       "word": "刘诗诗好适合田园生活",
@@ -747,19 +787,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145678,
-      "num": 145678,
-      "word": "加沙已成炼狱美国竟还在打算盘",
-      "onboard_time": 1754111062,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143600,
       "num": 143600,
       "word": "中国阿姨在黑人女孩背后夸她身材好",
       "onboard_time": 1754095041,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142495,
+      "num": 142495,
+      "word": "遭亮证逼迫让路当事人最新发声",
+      "onboard_time": 1754112082,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -843,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135506,
+      "num": 135506,
+      "word": "上海一平米房可以听三四十场演唱会",
+      "onboard_time": 1754112622,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134519,
       "num": 134519,
       "word": "白举纲早这么唱不就不淘汰了",
@@ -875,14 +923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133222,
-      "num": 133222,
-      "word": "王俊凯眼睛不知道该看哪里了",
-      "onboard_time": 1754112142,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131515,
       "num": 131515,
       "word": "i人谭松韵刘学义 剧组的玩具",
@@ -904,14 +944,6 @@
       "word": "武大已组建工作专班",
       "onboard_time": 1754043866,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128910,
-      "num": 128910,
-      "word": "遭亮证逼迫让路当事人最新发声",
-      "onboard_time": 1754112082,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1019,12 +1051,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 111571,
-      "num": 111571,
+      "raw_hot": 112286,
+      "num": 112286,
       "word": "27岁学跳舞5个月的变化",
       "onboard_time": 1754110822,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 112159,
+      "num": 112159,
+      "word": "解锁青岛的天然空调避暑密码",
+      "onboard_time": 1754113401,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111056,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1754100861,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105492,
-      "num": 105492,
-      "word": "上海一平米房可以听三四十场演唱会",
-      "onboard_time": 1754112622,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 98178,
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 85907,
-      "num": 217458,
+      "num": 238463,
       "word": "CJ骁龙馆游戏人的快乐老家",
       "onboard_time": 1754111122,
       "rank": 19,
@@ -1427,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56858,
+      "num": 160561,
+      "word": "沈月也是舞到正主脸上了",
+      "onboard_time": 1754113342,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55252,
       "num": 55252,
       "word": "花1.6万穷游了三个国家16个地方",
@@ -1448,6 +1488,14 @@
       "word": "胖东来回应娃娃机设有保底机制",
       "onboard_time": 1754090898,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51425,
+      "num": 243240,
+      "word": "安徽留学生在德国做中餐走红",
+      "onboard_time": 1754113283,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1491,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42574,
+      "num": 702711,
+      "word": "信息支援部队攻防演练首次公开",
+      "onboard_time": 1754095461,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 42473,
       "num": 42473,
       "word": "等比例长大的花花",
@@ -1507,12 +1563,12 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 37829,
-      "num": 702711,
-      "word": "信息支援部队攻防演练首次公开",
-      "onboard_time": 1754095461,
-      "rank": 20,
-      "category": "军事"
+      "raw_hot": 39332,
+      "num": 121935,
+      "word": "每小时都有1名加沙儿童死亡",
+      "onboard_time": 1754113762,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37788,
