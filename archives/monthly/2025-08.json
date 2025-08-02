@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754148494021,
+  "endTime": 1754149387662,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 996266,
+      "num": 313662,
+      "word": "刘宇宁哭了",
+      "onboard_time": 1754148089,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 981923,
       "num": 981923,
       "word": "女子穿洛丽塔遭华尔道夫酒店驱赶",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 802576,
-      "num": 258823,
+      "num": 284413,
       "word": "恋人剧组",
       "onboard_time": 1754144429,
       "rank": 33,
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 677862,
-      "num": 248044,
+      "num": 281959,
       "word": "许我耀眼",
       "onboard_time": 1754146169,
       "rank": 12,
@@ -1259,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383608,
-      "num": 232638,
-      "word": "刘宇宁哭了",
-      "onboard_time": 1754148089,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 380072,
       "num": 380072,
       "word": "日本压抑感",
@@ -1619,6 +1619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303986,
+      "num": 303986,
+      "word": "山东一彩民花69元中2.4亿元",
+      "onboard_time": 1754147788,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303962,
       "num": 363290,
       "word": "王源送了易烊千玺演唱会花篮",
@@ -1739,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277312,
+      "num": 277312,
+      "word": "卡车司机服务区去世三天被发现",
+      "onboard_time": 1754143530,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276850,
       "num": 276850,
       "word": "女子脚被扎伤后长出癌中之王",
@@ -1832,14 +1848,6 @@
       "word": "牛马打工人的自我修养",
       "onboard_time": 1754122102,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266590,
-      "num": 266590,
-      "word": "卡车司机服务区去世三天被发现",
-      "onboard_time": 1754143530,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2105,6 +2113,14 @@
       "onboard_time": 1754013681,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233919,
+      "num": 213635,
+      "word": "浪浪山",
+      "onboard_time": 1754148089,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 233747,
@@ -2427,14 +2443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 213635,
-      "num": 213635,
-      "word": "浪浪山",
-      "onboard_time": 1754148089,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 213471,
       "num": 213471,
       "word": "长期低碳 胰岛素抵抗",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1754105662,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206989,
+      "num": 189614,
+      "word": "五月天送超人版权给汪苏泷",
+      "onboard_time": 1754148568,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 206853,
@@ -2867,6 +2883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196322,
+      "num": 196322,
+      "word": "热巴元气学姐风",
+      "onboard_time": 1754149106,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196151,
       "num": 196151,
       "word": "韩国coser到上海了",
@@ -3043,12 +3067,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 188585,
-      "num": 218456,
-      "word": "山东一彩民花69元中2.4亿元",
-      "onboard_time": 1754147788,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 188643,
+      "num": 188643,
+      "word": "全员加速中",
+      "onboard_time": 1754148448,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 188563,
@@ -3811,6 +3835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160677,
+      "num": 160677,
+      "word": "陈昊宇巡演",
+      "onboard_time": 1754148267,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160315,
       "num": 179009,
       "word": "给谢霆锋一点猪屁股震撼",
@@ -3921,14 +3953,6 @@
       "onboard_time": 1754057724,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157385,
-      "num": 157385,
-      "word": "陈昊宇巡演",
-      "onboard_time": 1754148267,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 157302,
@@ -4369,14 +4393,6 @@
       "onboard_time": 1754098461,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145667,
-      "num": 145667,
-      "word": "全员加速中",
-      "onboard_time": 1754148448,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 145565,
@@ -5259,6 +5275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126046,
+      "num": 164346,
+      "word": "建议所有漫展按CJ标准卷起来",
+      "onboard_time": 1754149228,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126031,
       "num": 126031,
       "word": "左眼跳财 右眼跳相信科学",
@@ -5708,7 +5732,7 @@
     },
     {
       "raw_hot": 115322,
-      "num": 161904,
+      "num": 301569,
       "word": "十五运会火炬发布",
       "onboard_time": 1754148267,
       "rank": 38,
@@ -5905,6 +5929,14 @@
       "onboard_time": 1754006480,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 109968,
+      "num": 131027,
+      "word": "在宿舍猝死的58岁高三老师",
+      "onboard_time": 1754146648,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109781,
@@ -7009,6 +7041,14 @@
       "onboard_time": 1754128885,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46963,
+      "num": 162733,
+      "word": "扮演藏獒拉布拉多疑被拔牙",
+      "onboard_time": 1754148868,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46880,
