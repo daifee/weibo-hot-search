@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754101928877,
+  "endTime": 1754106364206,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -33,6 +33,14 @@
       "onboard_time": 1754057303,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2845925,
+      "num": 907617,
+      "word": "亮证姐",
+      "onboard_time": 1754097021,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2751990,
@@ -83,14 +91,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1764497,
-      "num": 907617,
-      "word": "亮证姐",
-      "onboard_time": 1754097021,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1715921,
       "num": 1715921,
       "word": "者来女开口雷蒂娅",
@@ -123,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1393198,
+      "num": 420174,
+      "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+      "onboard_time": 1754101522,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1217534,
       "num": 1217534,
       "word": "微信提现手续费下限调为0.01元",
       "onboard_time": 1754025143,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1196741,
+      "num": 1196741,
+      "word": "被亮证男子希望纪委介入调查",
+      "onboard_time": 1754102661,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1155519,
@@ -547,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564745,
+      "num": 564745,
+      "word": "你好星期六谁会大展鸿图",
+      "onboard_time": 1754101581,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562479,
       "num": 562479,
       "word": "娜扎 我哪一次不好看",
       "onboard_time": 1754021482,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560378,
+      "num": 560378,
+      "word": "哪吒",
+      "onboard_time": 1754101640,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 554434,
@@ -601,6 +633,14 @@
       "onboard_time": 1754047523,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 514666,
+      "num": 514666,
+      "word": "男子还原奔驰女司机亮证逼迫让路过程",
+      "onboard_time": 1754103621,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 514079,
@@ -755,12 +795,12 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 420174,
-      "num": 420174,
-      "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
-      "onboard_time": 1754101522,
-      "rank": 12,
-      "category": "网红"
+      "raw_hot": 411579,
+      "num": 411579,
+      "word": "警方通报24岁快递员持刀划伤两业主",
+      "onboard_time": 1754100141,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 408454,
@@ -795,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 385389,
-      "num": 385389,
-      "word": "警方通报24岁快递员持刀划伤两业主",
-      "onboard_time": 1754100141,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 380072,
       "num": 380072,
       "word": "日本压抑感",
@@ -825,6 +857,14 @@
       "onboard_time": 1754036662,
       "rank": 19,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 368662,
+      "num": 368662,
+      "word": "李咏女儿恋情",
+      "onboard_time": 1754105241,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 365668,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1754009962,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306001,
+      "num": 306001,
+      "word": "齐司礼风流皇叔",
+      "onboard_time": 1754106201,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 303962,
@@ -1435,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222462,
+      "num": 328981,
+      "word": "林一卢昱晓新剧折月亮开机",
+      "onboard_time": 1754101041,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221077,
       "num": 221077,
       "word": "iG战胜WBG",
@@ -1579,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211682,
-      "num": 328981,
-      "word": "林一卢昱晓新剧折月亮开机",
-      "onboard_time": 1754101041,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210867,
       "num": 210867,
       "word": "官方回应动物园冰柜内现大量动物尸体",
@@ -1609,6 +1657,22 @@
       "onboard_time": 1754026042,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210089,
+      "num": 210089,
+      "word": "谁来救救沈梦辰",
+      "onboard_time": 1754105902,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209483,
+      "num": 209483,
+      "word": "坚持早睡1个小时的身体变化",
+      "onboard_time": 1754099541,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209274,
@@ -1649,6 +1713,14 @@
       "onboard_time": 1754041822,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207159,
+      "num": 207159,
+      "word": "苏超应援团从散装到小包装",
+      "onboard_time": 1754105662,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 206853,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1753964302,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193932,
+      "num": 193932,
+      "word": "时代少年团 演唱会",
+      "onboard_time": 1754105961,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 193250,
@@ -2019,6 +2099,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 179984,
+      "num": 179984,
+      "word": "特斯拉致命车祸被裁定赔2.43亿美元",
+      "onboard_time": 1754103261,
+      "rank": 32,
+      "category": "海外新闻,汽车"
+    },
+    {
       "raw_hot": 179411,
       "num": 179411,
       "word": "IG对战WBG",
@@ -2048,6 +2136,14 @@
       "word": "歌手排名",
       "onboard_time": 1754057364,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176918,
+      "num": 189119,
+      "word": "单依纯re白举纲爽一把名场面",
+      "onboard_time": 1754105181,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -2145,14 +2241,6 @@
       "onboard_time": 1754058203,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170827,
-      "num": 208471,
-      "word": "你好星期六谁会大展鸿图",
-      "onboard_time": 1754101581,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 170629,
@@ -2347,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162586,
+      "num": 162586,
+      "word": "诡秘之主海外封神榜好抓马",
+      "onboard_time": 1754106201,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "能不能把迪丽热巴焊在正剧里",
@@ -2507,14 +2603,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 155051,
-      "num": 155051,
-      "word": "哪吒",
-      "onboard_time": 1754101640,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 154251,
       "num": 154251,
       "word": "美国医生边手术边玩游戏致患者死亡",
@@ -2539,12 +2627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152343,
+      "num": 152343,
+      "word": "光与夜之恋陆沉",
+      "onboard_time": 1754102001,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151995,
       "num": 151995,
       "word": "小米汽车交付量超30000台",
       "onboard_time": 1754015840,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 151153,
+      "num": 151153,
+      "word": "遭亮证男子曾向多部门反映未果",
+      "onboard_time": 1754104102,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150987,
@@ -2675,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145673,
+      "num": 395612,
+      "word": "川陕渝又热到40摄氏度了",
+      "onboard_time": 1754100081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145502,
       "num": 145502,
       "word": "三大一小 三女一男",
@@ -2731,14 +2843,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 141940,
-      "num": 141940,
-      "word": "坚持早睡1个小时的身体变化",
-      "onboard_time": 1754099541,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141528,
       "num": 141528,
       "word": "infj真的很需要绿色",
@@ -2764,7 +2868,7 @@
     },
     {
       "raw_hot": 140570,
-      "num": 140570,
+      "num": 207844,
       "word": "男子挖到宋元时期首饰卖了20万被抓",
       "onboard_time": 1754100981,
       "rank": 37,
@@ -2827,6 +2931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 138395,
+      "num": 138395,
+      "word": "晚上睡不着小心是腿的毛病",
+      "onboard_time": 1754106262,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138223,
       "num": 138223,
       "word": "第一次见这么糊弄观众的综艺",
@@ -2873,6 +2985,22 @@
       "onboard_time": 1754046024,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137226,
+      "num": 137226,
+      "word": "无毛猫偷跑出去怀孕产下5只毛孩子",
+      "onboard_time": 1754101880,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136076,
+      "num": 136076,
+      "word": "樊振东开启奋斗的一天",
+      "onboard_time": 1754106262,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135668,
@@ -2945,6 +3073,14 @@
       "onboard_time": 1754046442,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134120,
+      "num": 134120,
+      "word": "生命树",
+      "onboard_time": 1754102901,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 134089,
@@ -3155,14 +3291,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 124662,
-      "num": 124662,
-      "word": "无毛猫偷跑出去怀孕产下5只毛孩子",
-      "onboard_time": 1754101880,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124622,
       "num": 124622,
       "word": "眼影不上色 发霉",
@@ -3185,6 +3313,14 @@
       "onboard_time": 1754031381,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 123608,
+      "num": 123608,
+      "word": "曝JieJie说回不去了",
+      "onboard_time": 1754102121,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 123536,
@@ -3273,14 +3409,6 @@
       "onboard_time": 1754035822,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118136,
-      "num": 118136,
-      "word": "川陕渝又热到40摄氏度了",
-      "onboard_time": 1754100081,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117469,
@@ -3947,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68164,
+      "num": 350018,
+      "word": "社区2元面包店正式加入省钱联盟",
+      "onboard_time": 1754103681,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67397,
       "num": 67397,
       "word": "世界之外",
@@ -4033,6 +4169,14 @@
       "onboard_time": 1754067080,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61577,
+      "num": 160448,
+      "word": "低人一等座",
+      "onboard_time": 1754105961,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60851,
@@ -4417,6 +4561,14 @@
       "onboard_time": 1754083215,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30086,
+      "num": 847575,
+      "word": "网警发布维护防汛救灾网络秩序倡议书",
+      "onboard_time": 1754104401,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27785,

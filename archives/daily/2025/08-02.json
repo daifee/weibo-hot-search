@@ -1,7 +1,15 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754101928877,
+  "endTime": 1754106364206,
   "band_list": [
+    {
+      "raw_hot": 2845925,
+      "num": 907617,
+      "word": "亮证姐",
+      "onboard_time": 1754097021,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2751990,
       "num": 2751990,
@@ -19,12 +27,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1764497,
-      "num": 907617,
-      "word": "亮证姐",
-      "onboard_time": 1754097021,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 1393198,
+      "num": 420174,
+      "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+      "onboard_time": 1754101522,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1205895,
@@ -32,6 +40,14 @@
       "word": "武大回应图书馆事件",
       "onboard_time": 1754040444,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1196741,
+      "num": 1196741,
+      "word": "被亮证男子希望纪委介入调查",
+      "onboard_time": 1754102661,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -91,6 +107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564745,
+      "num": 564745,
+      "word": "你好星期六谁会大展鸿图",
+      "onboard_time": 1754101581,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 560378,
+      "num": 560378,
+      "word": "哪吒",
+      "onboard_time": 1754101640,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 535420,
       "num": 535420,
       "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
@@ -105,6 +137,14 @@
       "onboard_time": 1754083094,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 514666,
+      "num": 514666,
+      "word": "男子还原奔驰女司机亮证逼迫让路过程",
+      "onboard_time": 1754103621,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 498636,
@@ -139,16 +179,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 420174,
-      "num": 420174,
-      "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
-      "onboard_time": 1754101522,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 385389,
-      "num": 385389,
+      "raw_hot": 411579,
+      "num": 411579,
       "word": "警方通报24岁快递员持刀划伤两业主",
       "onboard_time": 1754100141,
       "rank": 19,
@@ -161,6 +193,14 @@
       "onboard_time": 1754059222,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 368662,
+      "num": 368662,
+      "word": "李咏女儿恋情",
+      "onboard_time": 1754105241,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 328828,
@@ -185,6 +225,14 @@
       "onboard_time": 1754051482,
       "rank": 9,
       "category": "读书作家,电竞"
+    },
+    {
+      "raw_hot": 306001,
+      "num": 306001,
+      "word": "齐司礼风流皇叔",
+      "onboard_time": 1754106201,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 303962,
@@ -259,12 +307,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211682,
+      "raw_hot": 222462,
       "num": 328981,
       "word": "林一卢昱晓新剧折月亮开机",
       "onboard_time": 1754101041,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210089,
+      "num": 210089,
+      "word": "谁来救救沈梦辰",
+      "onboard_time": 1754105902,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209483,
+      "num": 209483,
+      "word": "坚持早睡1个小时的身体变化",
+      "onboard_time": 1754099541,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207159,
+      "num": 207159,
+      "word": "苏超应援团从散装到小包装",
+      "onboard_time": 1754105662,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 204513,
@@ -291,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193932,
+      "num": 193932,
+      "word": "时代少年团 演唱会",
+      "onboard_time": 1754105961,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186346,
       "num": 186346,
       "word": "长寿的人头发有这5个特点",
@@ -307,11 +387,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179984,
+      "num": 179984,
+      "word": "特斯拉致命车祸被裁定赔2.43亿美元",
+      "onboard_time": 1754103261,
+      "rank": 32,
+      "category": "海外新闻,汽车"
+    },
+    {
       "raw_hot": 179240,
       "num": 179556,
       "word": "者来女 玩得起",
       "onboard_time": 1754065341,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176918,
+      "num": 189119,
+      "word": "单依纯re白举纲爽一把名场面",
+      "onboard_time": 1754105181,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -339,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170827,
-      "num": 208471,
-      "word": "你好星期六谁会大展鸿图",
-      "onboard_time": 1754101581,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168487,
       "num": 168487,
       "word": "武大将调查复核杨某某学位论文",
@@ -361,6 +449,14 @@
       "onboard_time": 1754089757,
       "rank": 30,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 162586,
+      "num": 162586,
+      "word": "诡秘之主海外封神榜好抓马",
+      "onboard_time": 1754106201,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 158219,
@@ -387,12 +483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155051,
-      "num": 155051,
-      "word": "哪吒",
-      "onboard_time": 1754101640,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 152343,
+      "num": 152343,
+      "word": "光与夜之恋陆沉",
+      "onboard_time": 1754102001,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 151153,
+      "num": 151153,
+      "word": "遭亮证男子曾向多部门反映未果",
+      "onboard_time": 1754104102,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149346,
@@ -411,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145673,
+      "num": 395612,
+      "word": "川陕渝又热到40摄氏度了",
+      "onboard_time": 1754100081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143600,
       "num": 143600,
       "word": "中国阿姨在黑人女孩背后夸她身材好",
@@ -419,20 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141940,
-      "num": 141940,
-      "word": "坚持早睡1个小时的身体变化",
-      "onboard_time": 1754099541,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 140570,
-      "num": 140570,
+      "num": 207844,
       "word": "男子挖到宋元时期首饰卖了20万被抓",
       "onboard_time": 1754100981,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138395,
+      "num": 138395,
+      "word": "晚上睡不着小心是腿的毛病",
+      "onboard_time": 1754106262,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138223,
@@ -443,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137226,
+      "num": 137226,
+      "word": "无毛猫偷跑出去怀孕产下5只毛孩子",
+      "onboard_time": 1754101880,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136179,
       "num": 136179,
       "word": "歌手总决赛名单",
       "onboard_time": 1754059584,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136076,
+      "num": 136076,
+      "word": "樊振东开启奋斗的一天",
+      "onboard_time": 1754106262,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135606,
@@ -465,6 +593,14 @@
       "onboard_time": 1754056583,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134120,
+      "num": 134120,
+      "word": "生命树",
+      "onboard_time": 1754102901,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 131067,
@@ -499,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124662,
-      "num": 124662,
-      "word": "无毛猫偷跑出去怀孕产下5只毛孩子",
-      "onboard_time": 1754101880,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 123608,
+      "num": 123608,
+      "word": "曝JieJie说回不去了",
+      "onboard_time": 1754102121,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 120734,
@@ -520,14 +656,6 @@
       "word": "老人养老金被孩子刷走卡里只剩5块8",
       "onboard_time": 1754095820,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118136,
-      "num": 118136,
-      "word": "川陕渝又热到40摄氏度了",
-      "onboard_time": 1754100081,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -803,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68164,
+      "num": 350018,
+      "word": "社区2元面包店正式加入省钱联盟",
+      "onboard_time": 1754103681,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67397,
       "num": 67397,
       "word": "世界之外",
@@ -849,6 +985,14 @@
       "onboard_time": 1754067080,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61577,
+      "num": 160448,
+      "word": "低人一等座",
+      "onboard_time": 1754105961,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60851,
@@ -1009,6 +1153,14 @@
       "onboard_time": 1754083215,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30086,
+      "num": 847575,
+      "word": "网警发布维护防汛救灾网络秩序倡议书",
+      "onboard_time": 1754104401,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27785,

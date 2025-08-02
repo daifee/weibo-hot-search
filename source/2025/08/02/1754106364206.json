@@ -1,0 +1,410 @@
+{
+  "runTime": 1754106364206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2242591,
+        "num": 2242591,
+        "word": "民警上门要求删视频的监控曝光",
+        "onboard_time": 1754090058,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1196741,
+        "num": 1196741,
+        "word": "被亮证男子希望纪委介入调查",
+        "onboard_time": 1754102661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30086,
+        "num": 847575,
+        "word": "网警发布维护防汛救灾网络秩序倡议书",
+        "onboard_time": 1754104401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744825,
+        "num": 744825,
+        "word": "尼斯湖水怪再次被拍到",
+        "onboard_time": 1754062284,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 564745,
+        "num": 564745,
+        "word": "你好星期六谁会大展鸿图",
+        "onboard_time": 1754101581,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2845925,
+        "num": 563567,
+        "word": "亮证姐",
+        "onboard_time": 1754097021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560378,
+        "num": 560378,
+        "word": "哪吒",
+        "onboard_time": 1754101640,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 514666,
+        "num": 514666,
+        "word": "男子还原奔驰女司机亮证逼迫让路过程",
+        "onboard_time": 1754103621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411579,
+        "num": 411579,
+        "word": "警方通报24岁快递员持刀划伤两业主",
+        "onboard_time": 1754100141,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 145673,
+        "num": 395612,
+        "word": "川陕渝又热到40摄氏度了",
+        "onboard_time": 1754100081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1393198,
+        "num": 395405,
+        "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+        "onboard_time": 1754101522,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 661364,
+        "num": 394965,
+        "word": "武大回应图书馆事件",
+        "onboard_time": 1754040444,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394342,
+        "num": 394342,
+        "word": "青岛姑娘买下日本70万平方小岛",
+        "onboard_time": 1754083094,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 368662,
+        "num": 368662,
+        "word": "李咏女儿恋情",
+        "onboard_time": 1754105241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68164,
+        "num": 350018,
+        "word": "社区2元面包店正式加入省钱联盟",
+        "onboard_time": 1754103681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 343202,
+        "num": 343202,
+        "word": "日本老龄化具象化了",
+        "onboard_time": 1754097321,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335592,
+        "num": 335592,
+        "word": "王楚然下跪张凌赫摔酒杯路透",
+        "onboard_time": 1754093900,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252137,
+        "num": 328730,
+        "word": "王源送了易烊千玺演唱会花篮",
+        "onboard_time": 1754090419,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224797,
+        "num": 325054,
+        "word": "伊能静说秦昊很少回家",
+        "onboard_time": 1754089757,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222462,
+        "num": 324276,
+        "word": "林一卢昱晓新剧折月亮开机",
+        "onboard_time": 1754101041,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324251,
+        "num": 324251,
+        "word": "男子每天喝500ml自己的胆汁救命",
+        "onboard_time": 1754097920,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306001,
+        "num": 306001,
+        "word": "齐司礼风流皇叔",
+        "onboard_time": 1754106201,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270065,
+        "num": 270065,
+        "word": "光与夜之恋",
+        "onboard_time": 1754092460,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210089,
+        "num": 210089,
+        "word": "谁来救救沈梦辰",
+        "onboard_time": 1754105902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209483,
+        "num": 209483,
+        "word": "坚持早睡1个小时的身体变化",
+        "onboard_time": 1754099541,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103643,
+        "num": 207844,
+        "word": "男子挖到宋元时期首饰卖了20万被抓",
+        "onboard_time": 1754100981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207159,
+        "num": 207159,
+        "word": "苏超应援团从散装到小包装",
+        "onboard_time": 1754105662,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193932,
+        "num": 193932,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1754105961,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189180,
+        "num": 189180,
+        "word": "奔驰亮证姐真实身份不能视情况公布",
+        "onboard_time": 1754056403,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176918,
+        "num": 189119,
+        "word": "单依纯re白举纲爽一把名场面",
+        "onboard_time": 1754105181,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189064,
+        "num": 189064,
+        "word": "亮证女子仅凭车牌就调取公民信息",
+        "onboard_time": 1754095580,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182671,
+        "num": 182671,
+        "word": "男子与军人配偶同居致其怀孕",
+        "onboard_time": 1754067140,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179984,
+        "num": 179984,
+        "word": "特斯拉致命车祸被裁定赔2.43亿美元",
+        "onboard_time": 1754103261,
+        "rank": 32,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 173953,
+        "num": 173953,
+        "word": "长寿的人头发有这5个特点",
+        "onboard_time": 1754098522,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90041,
+        "num": 166801,
+        "word": "十余省份雨雨雨雨雨雨雨",
+        "onboard_time": 1754095521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165375,
+        "num": 165375,
+        "word": "光与夜之恋 齐司礼",
+        "onboard_time": 1754100081,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162586,
+        "num": 162586,
+        "word": "诡秘之主海外封神榜好抓马",
+        "onboard_time": 1754106201,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 61577,
+        "num": 160448,
+        "word": "低人一等座",
+        "onboard_time": 1754105961,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159056,
+        "num": 159056,
+        "word": "警方通报因纠纷快递员划伤2人",
+        "onboard_time": 1754097681,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 152343,
+        "num": 152343,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1754102001,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151153,
+        "num": 151153,
+        "word": "遭亮证男子曾向多部门反映未果",
+        "onboard_time": 1754104102,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139471,
+        "num": 139471,
+        "word": "女子脚被扎伤后长出癌中之王",
+        "onboard_time": 1754094740,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138395,
+        "num": 138395,
+        "word": "晚上睡不着小心是腿的毛病",
+        "onboard_time": 1754106262,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137554,
+        "num": 137554,
+        "word": "酱子贝 融梗",
+        "onboard_time": 1754051482,
+        "rank": 43,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 137226,
+        "num": 137226,
+        "word": "无毛猫偷跑出去怀孕产下5只毛孩子",
+        "onboard_time": 1754101880,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136076,
+        "num": 136076,
+        "word": "樊振东开启奋斗的一天",
+        "onboard_time": 1754106262,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134120,
+        "num": 134120,
+        "word": "生命树",
+        "onboard_time": 1754102901,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132183,
+        "num": 132183,
+        "word": "孙兴慜离队",
+        "onboard_time": 1754100261,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 127617,
+        "word": "蔡徐坤27岁生日照片",
+        "onboard_time": 1754098161,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123608,
+        "num": 123608,
+        "word": "曝JieJie说回不去了",
+        "onboard_time": 1754102121,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}
