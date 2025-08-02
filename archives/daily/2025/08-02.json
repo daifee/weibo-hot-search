@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754145876298,
+  "endTime": 1754148494021,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -259,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 802576,
+      "num": 258823,
+      "word": "恋人剧组",
+      "onboard_time": 1754144429,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 767511,
       "num": 767511,
       "word": "日本老龄化具象化了",
@@ -299,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 743260,
-      "num": 238186,
-      "word": "恋人剧组",
-      "onboard_time": 1754144429,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 728781,
       "num": 728781,
       "word": "歌手晋级",
@@ -329,6 +329,14 @@
       "onboard_time": 1754138905,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677862,
+      "num": 248044,
+      "word": "许我耀眼",
+      "onboard_time": 1754146169,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 656231,
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383608,
+      "num": 232638,
+      "word": "刘宇宁哭了",
+      "onboard_time": 1754148089,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 362649,
       "num": 324828,
       "word": "赵立坚发了张凌赫",
@@ -624,6 +640,14 @@
       "word": "北京西北四环一夜铺了8000吨沥青",
       "onboard_time": 1754124622,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361913,
+      "num": 361913,
+      "word": "被水泥块砸中身亡女子还不满21岁",
+      "onboard_time": 1754143409,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -763,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 301892,
+      "num": 227275,
+      "word": "丁程鑫 改扣子漏光了",
+      "onboard_time": 1754145331,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299206,
       "num": 299206,
       "word": "sp丹恒",
@@ -811,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282173,
-      "num": 314398,
-      "word": "被水泥块砸中身亡女子还不满21岁",
-      "onboard_time": 1754143409,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278009,
       "num": 278009,
       "word": "官方通报奔驰司机亮证逼迫让路事件",
@@ -833,14 +857,6 @@
       "onboard_time": 1754094740,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274083,
-      "num": 227275,
-      "word": "丁程鑫 改扣子漏光了",
-      "onboard_time": 1754145331,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 273535,
@@ -864,6 +880,14 @@
       "word": "牛马打工人的自我修养",
       "onboard_time": 1754122102,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266590,
+      "num": 266590,
+      "word": "卡车司机服务区去世三天被发现",
+      "onboard_time": 1754143530,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1003,14 +1027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229383,
-      "num": 229383,
-      "word": "卡车司机服务区去世三天被发现",
-      "onboard_time": 1754143530,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228988,
       "num": 228988,
       "word": "王嘉尔回复严浩翔Rapeter改编舞台",
@@ -1059,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222756,
+      "num": 222756,
+      "word": "赵心童无缘决赛",
+      "onboard_time": 1754145989,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222715,
       "num": 333831,
       "word": "给奶奶点了将近一年的早餐",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1754140891,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218719,
+      "num": 301581,
+      "word": "12306客服回应高铁低人一等座",
+      "onboard_time": 1754143050,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216040,
@@ -1115,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 213635,
+      "num": 213635,
+      "word": "浪浪山",
+      "onboard_time": 1754148089,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210732,
       "num": 316861,
       "word": "苏州0比3淮安",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1754105902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209468,
+      "num": 161718,
+      "word": "任嘉伦音乐节",
+      "onboard_time": 1754147367,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 209321,
@@ -1211,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204579,
+      "num": 157708,
+      "word": "任嘉伦 争分夺秒",
+      "onboard_time": 1754147488,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204513,
       "num": 204513,
       "word": "王一珩 今天你要嫁给我",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1754134162,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201011,
+      "num": 201011,
+      "word": "央视镜头下的刘诗诗美进我心里",
+      "onboard_time": 1754147488,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 200399,
@@ -1395,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188585,
+      "num": 218456,
+      "word": "山东一彩民花69元中2.4亿元",
+      "onboard_time": 1754147788,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188277,
       "num": 188277,
       "word": "周六一天五顿是我这个牛马应得的",
@@ -1481,14 +1553,6 @@
       "onboard_time": 1754065341,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179115,
-      "num": 301581,
-      "word": "12306客服回应高铁低人一等座",
-      "onboard_time": 1754143050,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178214,
@@ -1747,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158664,
+      "num": 158664,
+      "word": "定风波",
+      "onboard_time": 1754147909,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158532,
       "num": 494635,
       "word": "川陕渝又热到40摄氏度了",
@@ -1777,6 +1849,14 @@
       "onboard_time": 1754111602,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157385,
+      "num": 157385,
+      "word": "陈昊宇巡演",
+      "onboard_time": 1754148267,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 156475,
@@ -2033,6 +2113,14 @@
       "onboard_time": 1754098461,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145667,
+      "num": 145667,
+      "word": "全员加速中",
+      "onboard_time": 1754148448,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 145565,
@@ -2352,6 +2440,14 @@
       "word": "王大雷红牌",
       "onboard_time": 1754141612,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131883,
+      "num": 157794,
+      "word": "F1",
+      "onboard_time": 1754146711,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2769,6 +2865,14 @@
       "onboard_time": 1754118202,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115322,
+      "num": 161904,
+      "word": "十五运会火炬发布",
+      "onboard_time": 1754148267,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 115281,
@@ -3539,6 +3643,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 57756,
+      "num": 164645,
+      "word": "38岁单亲妈妈陪读2年女儿上清华",
+      "onboard_time": 1754147669,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57102,
       "num": 57102,
       "word": "鹿晗牵完阿猛牵阿猛女舞伴",
@@ -3859,18 +3971,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9052,
-      "num": 922931,
-      "word": "第四批690亿元国补10月下达",
-      "onboard_time": 1754018842,
+      "raw_hot": 10906,
+      "num": 971523,
+      "word": "上半年国内居民出游人次32.85亿",
+      "onboard_time": 1754037984,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7797,
-      "num": 971523,
-      "word": "上半年国内居民出游人次32.85亿",
-      "onboard_time": 1754037984,
+      "raw_hot": 9052,
+      "num": 922931,
+      "word": "第四批690亿元国补10月下达",
+      "onboard_time": 1754018842,
       "rank": 2,
       "category": "民生新闻"
     }
