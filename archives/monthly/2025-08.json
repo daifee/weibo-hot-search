@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754163514343,
+  "endTime": 1754166552883,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -7337,6 +7337,14 @@
       "onboard_time": 1753985236,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37939,
+      "num": 37939,
+      "word": "开1000公里送离世司机好心人发声",
+      "onboard_time": 1754164396,
+      "rank": 15,
+      "category": "正能量"
     },
     {
       "raw_hot": 37788,
