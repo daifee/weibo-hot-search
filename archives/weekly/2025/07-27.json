@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754113775706,
+  "endTime": 1754116698785,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -281,6 +281,14 @@
       "onboard_time": 1753849584,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1839036,
+      "num": 1839036,
+      "word": "黄雅琼刘雨辰领证",
+      "onboard_time": 1754113223,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1830286,
@@ -3003,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 511371,
+      "num": 240447,
+      "word": "时代峰峻禁止中控",
+      "onboard_time": 1754115443,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 510242,
       "num": 510242,
       "word": "樊振东vs松岛辉空",
@@ -5083,6 +5099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301091,
+      "num": 301091,
+      "word": "王俊凯眼睛不知道该看哪里了",
+      "onboard_time": 1754112142,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300944,
       "num": 300944,
       "word": "堪察加东岸远海地震震级修正为8.7级",
@@ -5161,14 +5185,6 @@
       "onboard_time": 1753665203,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296839,
-      "num": 296839,
-      "word": "黄雅琼刘雨辰领证",
-      "onboard_time": 1754113223,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 296814,
@@ -5371,6 +5387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282233,
+      "num": 228427,
+      "word": "真的建议钱要花在体验上",
+      "onboard_time": 1754114962,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281356,
       "num": 457486,
       "word": "张艺兴送京东外卖",
@@ -5393,6 +5417,14 @@
       "onboard_time": 1753669042,
       "rank": 31,
       "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 279835,
+      "num": 279835,
+      "word": "马丽把沈腾假发片打掉了",
+      "onboard_time": 1754115562,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 279750,
@@ -5641,6 +5673,14 @@
       "onboard_time": 1753533985,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268268,
+      "num": 268268,
+      "word": "王楚钦帅气造型",
+      "onboard_time": 1754115501,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 267648,
@@ -6161,6 +6201,14 @@
       "onboard_time": 1754106861,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247153,
+      "num": 215617,
+      "word": "易烊千玺礐嶨的流沙票根好惊艳",
+      "onboard_time": 1754115022,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 246809,
@@ -7507,6 +7555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208902,
+      "num": 208902,
+      "word": "雅思夺冠一周年黄雅琼领证",
+      "onboard_time": 1754114962,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208830,
       "num": 407836,
       "word": "北京动用空中力量支援受困地区",
@@ -8657,6 +8713,14 @@
       "onboard_time": 1753855703,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192285,
+      "num": 192285,
+      "word": "当代大学生为了冲浪能有多拼",
+      "onboard_time": 1754116341,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 192259,
@@ -10283,6 +10347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173193,
+      "num": 173193,
+      "word": "Rapeter严浩翔合影",
+      "onboard_time": 1754115262,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173013,
       "num": 173013,
       "word": "苹果官方闹乌龙",
@@ -10345,6 +10417,14 @@
       "onboard_time": 1754018782,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 172107,
+      "num": 172107,
+      "word": "凡人修仙传 曹骏",
+      "onboard_time": 1754115921,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 172099,
@@ -11371,20 +11451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162532,
+      "num": 195929,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754114122,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162530,
       "num": 181595,
       "word": "MINJU开球",
       "onboard_time": 1753960763,
       "rank": 45,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 162397,
-      "num": 162397,
-      "word": "王俊凯眼睛不知道该看哪里了",
-      "onboard_time": 1754112142,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 162204,
@@ -12203,6 +12283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155130,
+      "num": 155130,
+      "word": "95生六大男流量格局",
+      "onboard_time": 1754114843,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155093,
       "num": 155093,
       "word": "果然祛魅最好的方式就是经历和拥有",
@@ -12393,6 +12481,14 @@
       "onboard_time": 1753539087,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152749,
+      "num": 157766,
+      "word": "王烁然 突围",
+      "onboard_time": 1754115382,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 152720,
@@ -12649,6 +12745,14 @@
       "onboard_time": 1753957823,
       "rank": 34,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 150240,
+      "num": 150240,
+      "word": "没有那么多必须拥有的必需品",
+      "onboard_time": 1754114962,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 150140,
@@ -13643,6 +13747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141999,
+      "num": 173472,
+      "word": "广西奔驰女的特权底气到底哪来的",
+      "onboard_time": 1754116102,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141978,
       "num": 141978,
       "word": "李沁录制令人心动的offer7",
@@ -13665,6 +13777,14 @@
       "onboard_time": 1753879704,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141816,
+      "num": 141816,
+      "word": "香蜜沉沉烬如霜开播7周年",
+      "onboard_time": 1754115803,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141528,
@@ -13841,6 +13961,14 @@
       "onboard_time": 1753752204,
       "rank": 36,
       "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 140222,
+      "num": 140222,
+      "word": "人人人人瓦人人人人",
+      "onboard_time": 1754114962,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 140185,
@@ -14779,6 +14907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133736,
+      "num": 133736,
+      "word": "谢娜爸爸拍戏想让杨迪演第三者",
+      "onboard_time": 1754114122,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133716,
       "num": 133716,
       "word": "坚持练肩3个月后的变化",
@@ -15329,6 +15465,14 @@
       "onboard_time": 1753883305,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129502,
+      "num": 129502,
+      "word": "SNH48香港演唱会",
+      "onboard_time": 1754116522,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 129481,
@@ -16091,6 +16235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124074,
+      "num": 163078,
+      "word": "中国奥委会发樊振东眼神照",
+      "onboard_time": 1754116162,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124041,
       "num": 124041,
       "word": "宁波台风",
@@ -16603,6 +16755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119768,
+      "num": 119768,
+      "word": "余宇涵尝试新风格",
+      "onboard_time": 1754115382,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119735,
       "num": 119735,
       "word": "汪苏泷无袖背心热舞",
@@ -16633,6 +16793,14 @@
       "onboard_time": 1753973123,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119460,
+      "num": 119460,
+      "word": "王楚钦线下活动",
+      "onboard_time": 1754116461,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 119433,
@@ -17617,6 +17785,14 @@
       "onboard_time": 1754006480,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 110442,
+      "num": 110442,
+      "word": "包上恩周柯宇炽夏开机",
+      "onboard_time": 1754116642,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 110156,
@@ -20851,6 +21027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42997,
+      "num": 995377,
+      "word": "信息支援部队攻防演练首次公开",
+      "onboard_time": 1754095461,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 42691,
       "num": 44346,
       "word": "广东累计报告4824例基孔肯雅热",
@@ -20865,14 +21049,6 @@
       "onboard_time": 1754061623,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42574,
-      "num": 702711,
-      "word": "信息支援部队攻防演练首次公开",
-      "onboard_time": 1754095461,
-      "rank": 20,
-      "category": "军事"
     },
     {
       "raw_hot": 42522,

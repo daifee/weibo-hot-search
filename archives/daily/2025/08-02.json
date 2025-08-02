@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754113775706,
+  "endTime": 1754116698785,
   "band_list": [
     {
       "raw_hot": 3874972,
@@ -33,6 +33,14 @@
       "onboard_time": 1754062284,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1839036,
+      "num": 1839036,
+      "word": "黄雅琼刘雨辰领证",
+      "onboard_time": 1754113223,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1393198,
@@ -187,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 511371,
+      "num": 240447,
+      "word": "时代峰峻禁止中控",
+      "onboard_time": 1754115443,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 498636,
       "num": 498636,
       "word": "张予曦 卢昱晓对不起",
@@ -299,12 +315,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 296839,
-      "num": 296839,
-      "word": "黄雅琼刘雨辰领证",
-      "onboard_time": 1754113223,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 301091,
+      "num": 301091,
+      "word": "王俊凯眼睛不知道该看哪里了",
+      "onboard_time": 1754112142,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 294098,
@@ -331,6 +347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282233,
+      "num": 228427,
+      "word": "真的建议钱要花在体验上",
+      "onboard_time": 1754114962,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 279835,
+      "num": 279835,
+      "word": "马丽把沈腾假发片打掉了",
+      "onboard_time": 1754115562,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278009,
       "num": 278009,
       "word": "官方通报奔驰司机亮证逼迫让路事件",
@@ -347,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268268,
+      "num": 268268,
+      "word": "王楚钦帅气造型",
+      "onboard_time": 1754115501,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264148,
       "num": 247297,
       "word": "章昊外网热议的照片",
@@ -361,6 +401,14 @@
       "onboard_time": 1754106861,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247153,
+      "num": 215617,
+      "word": "易烊千玺礐嶨的流沙票根好惊艳",
+      "onboard_time": 1754115022,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 246768,
@@ -443,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208902,
+      "num": 208902,
+      "word": "雅思夺冠一周年黄雅琼领证",
+      "onboard_time": 1754114962,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208781,
       "num": 208781,
       "word": "教师辞编后例假都正常了",
@@ -505,6 +561,14 @@
       "onboard_time": 1754107103,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192285,
+      "num": 192285,
+      "word": "当代大学生为了冲浪能有多拼",
+      "onboard_time": 1754116341,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 189193,
@@ -595,12 +659,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 173193,
+      "num": 173193,
+      "word": "Rapeter严浩翔合影",
+      "onboard_time": 1754115262,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172338,
       "num": 172338,
       "word": "蔡徐坤27岁生日照片",
       "onboard_time": 1754098161,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172107,
+      "num": 172107,
+      "word": "凡人修仙传 曹骏",
+      "onboard_time": 1754115921,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 172099,
@@ -659,12 +739,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 162397,
-      "num": 162397,
-      "word": "王俊凯眼睛不知道该看哪里了",
-      "onboard_time": 1754112142,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 162532,
+      "num": 195929,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754114122,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 160164,
@@ -731,6 +811,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155130,
+      "num": 155130,
+      "word": "95生六大男流量格局",
+      "onboard_time": 1754114843,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152749,
+      "num": 157766,
+      "word": "王烁然 突围",
+      "onboard_time": 1754115382,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152343,
       "num": 152343,
       "word": "光与夜之恋陆沉",
@@ -745,6 +841,14 @@
       "onboard_time": 1754104102,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150240,
+      "num": 150240,
+      "word": "没有那么多必须拥有的必需品",
+      "onboard_time": 1754114962,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 149346,
@@ -803,6 +907,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141999,
+      "num": 173472,
+      "word": "广西奔驰女的特权底气到底哪来的",
+      "onboard_time": 1754116102,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141816,
+      "num": 141816,
+      "word": "香蜜沉沉烬如霜开播7周年",
+      "onboard_time": 1754115803,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141261,
       "num": 141261,
       "word": "张新成大漏勺漏得好",
@@ -825,6 +945,14 @@
       "onboard_time": 1754100981,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140222,
+      "num": 140222,
+      "word": "人人人人瓦人人人人",
+      "onboard_time": 1754114962,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 138395,
@@ -923,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133736,
+      "num": 133736,
+      "word": "谢娜爸爸拍戏想让杨迪演第三者",
+      "onboard_time": 1754114122,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131515,
       "num": 131515,
       "word": "i人谭松韵刘学义 剧组的玩具",
@@ -937,6 +1073,14 @@
       "onboard_time": 1754100561,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129502,
+      "num": 129502,
+      "word": "SNH48香港演唱会",
+      "onboard_time": 1754116522,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 129036,
@@ -969,6 +1113,14 @@
       "onboard_time": 1754095521,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124074,
+      "num": 163078,
+      "word": "中国奥委会发樊振东眼神照",
+      "onboard_time": 1754116162,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 123824,
@@ -1035,6 +1187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119768,
+      "num": 119768,
+      "word": "余宇涵尝试新风格",
+      "onboard_time": 1754115382,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 119460,
+      "num": 119460,
+      "word": "王楚钦线下活动",
+      "onboard_time": 1754116461,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118982,
       "num": 118982,
       "word": "老人养老金被孩子刷走卡里只剩5块8",
@@ -1081,6 +1249,14 @@
       "onboard_time": 1754111122,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 110442,
+      "num": 110442,
+      "word": "包上恩周柯宇炽夏开机",
+      "onboard_time": 1754116642,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 109781,
@@ -1539,8 +1715,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42574,
-      "num": 702711,
+      "raw_hot": 42997,
+      "num": 995377,
       "word": "信息支援部队攻防演练首次公开",
       "onboard_time": 1754095461,
       "rank": 20,
