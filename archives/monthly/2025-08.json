@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754177321611,
+  "endTime": 1754178310331,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 975918,
+      "num": 1027258,
+      "word": "赵露思意外生病是自己赔钱",
+      "onboard_time": 1754156000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 975092,
       "num": 396390,
       "word": "武大校长张平文回应学生性骚扰事件",
@@ -513,14 +521,6 @@
       "onboard_time": 1754040982,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 823923,
-      "num": 882938,
-      "word": "赵露思意外生病是自己赔钱",
-      "onboard_time": 1754156000,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 822747,
@@ -859,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578412,
+      "num": 578412,
+      "word": "低人一等座乘客发声",
+      "onboard_time": 1754158756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 569459,
       "num": 341767,
       "word": "广西奔驰女的特权底气到底哪来的",
@@ -921,14 +929,6 @@
       "onboard_time": 1754149827,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 535495,
-      "num": 535495,
-      "word": "低人一等座乘客发声",
-      "onboard_time": 1754158756,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 535420,
@@ -2123,6 +2123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236952,
+      "num": 246901,
+      "word": "日本专家建议老人自杀解决老龄化",
+      "onboard_time": 1754144069,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 236744,
       "num": 236744,
       "word": "徐帆辟谣与冯小刚离婚",
@@ -2851,14 +2859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199476,
-      "num": 246901,
-      "word": "日本专家建议老人自杀解决老龄化",
-      "onboard_time": 1754144069,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 199278,
       "num": 199278,
       "word": "我从小到大都想成为的女性角色",
@@ -3467,6 +3467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173833,
+      "num": 214325,
+      "word": "体检三大坑千万别被忽悠了",
+      "onboard_time": 1754153302,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 173266,
+      "num": 173266,
+      "word": "蝶恋原唱经纪人回应年轮被质疑抄袭",
+      "onboard_time": 1754177479,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173193,
       "num": 173193,
       "word": "Rapeter严浩翔合影",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1754114122,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162099,
-      "num": 214325,
-      "word": "体检三大坑千万别被忽悠了",
-      "onboard_time": 1754153302,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 162098,
@@ -4233,6 +4241,14 @@
       "onboard_time": 1754052203,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150674,
+      "num": 122566,
+      "word": "易烊千玺像大祭司一样隆重出场了",
+      "onboard_time": 1754176879,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 150487,
@@ -5011,6 +5027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133095,
+      "num": 133095,
+      "word": "福建舰入列进入最后攻坚时刻",
+      "onboard_time": 1754176938,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132838,
       "num": 132838,
       "word": "30岁独居女性的真实生活",
@@ -5553,6 +5577,14 @@
       "onboard_time": 1754131282,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121965,
+      "num": 121965,
+      "word": "大熊猫丫丫25岁生日",
+      "onboard_time": 1754177778,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 121822,
@@ -6467,6 +6499,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 95860,
+      "num": 86162,
+      "word": "张曦雯承认分手",
+      "onboard_time": 1754178260,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95554,
       "num": 95554,
       "word": "中国队无缘男女混合自接决赛",
@@ -6579,6 +6619,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 88425,
+      "num": 88425,
+      "word": "王力宏唱了20年前给梁静茹写的歌",
+      "onboard_time": 1754177838,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 87783,
+      "num": 87783,
+      "word": "暴走团越来越夸张了",
+      "onboard_time": 1754176817,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86485,
       "num": 86485,
       "word": "余承恩发了朝雪录主创合照",
@@ -6619,14 +6675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 85101,
-      "num": 79592,
-      "word": "易烊千玺像大祭司一样隆重出场了",
-      "onboard_time": 1754176879,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 85055,
       "num": 363376,
       "word": "录取通知书里有经济困难申请表",
@@ -6665,6 +6713,14 @@
       "onboard_time": 1754020102,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 83523,
+      "num": 83523,
+      "word": "韩国拟取消美容整形增值税退税",
+      "onboard_time": 1754176999,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83326,
@@ -6779,6 +6835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74035,
+      "num": 74035,
+      "word": "贵阳银河左岸音乐节",
+      "onboard_time": 1754177298,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73677,
       "num": 181812,
       "word": "宠物犬陪睡 日薪100元",
@@ -6843,6 +6907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68589,
+      "num": 185513,
+      "word": "被高空坠物砸亡女孩原计划中秋节订婚",
+      "onboard_time": 1754176757,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68164,
       "num": 387106,
       "word": "社区2元面包店正式加入省钱联盟",
@@ -6873,14 +6945,6 @@
       "onboard_time": 1753986796,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66776,
-      "num": 56813,
-      "word": "福建舰入列进入最后攻坚时刻",
-      "onboard_time": 1754176938,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 66334,
@@ -6955,6 +7019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63067,
+      "num": 63067,
+      "word": "不原谅任何亲密关系里的情感漠视",
+      "onboard_time": 1754177298,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62025,
       "num": 62025,
       "word": "周也李冰冰一个比一个飒",
@@ -6979,6 +7051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 60438,
+      "num": 60438,
+      "word": "减肥也有自己的邪修",
+      "onboard_time": 1754175857,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 59066,
       "num": 59066,
       "word": "当我放弃微信聊天记录",
@@ -6993,14 +7073,6 @@
       "onboard_time": 1754034022,
       "rank": 28,
       "category": "健康医疗,动漫"
-    },
-    {
-      "raw_hot": 58842,
-      "num": 58842,
-      "word": "贵阳银河左岸音乐节",
-      "onboard_time": 1754177298,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 58833,
@@ -7027,6 +7099,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 58175,
+      "num": 58175,
+      "word": "多方回应女司机逆行顶撞交警",
+      "onboard_time": 1754177420,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57119,
       "num": 294976,
       "word": "少前2三米机甲空降CJ",
@@ -7041,14 +7121,6 @@
       "onboard_time": 1754090719,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57034,
-      "num": 57034,
-      "word": "暴走团越来越夸张了",
-      "onboard_time": 1754176817,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 56858,
@@ -7091,12 +7163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55472,
+      "num": 55472,
+      "word": "刘宇宁给啥舞台咱端什么碗",
+      "onboard_time": 1754177420,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 55252,
       "num": 55252,
       "word": "花1.6万穷游了三个国家16个地方",
       "onboard_time": 1754087419,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 54640,
+      "num": 54640,
+      "word": "当我真的吃不下了",
+      "onboard_time": 1754176879,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 54542,
@@ -7131,14 +7219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53963,
-      "num": 53963,
-      "word": "不原谅任何亲密关系里的情感漠视",
-      "onboard_time": 1754177298,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 52803,
       "num": 52803,
       "word": "胖东来回应娃娃机设有保底机制",
@@ -7161,6 +7241,22 @@
       "onboard_time": 1754005280,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51495,
+      "num": 51495,
+      "word": "中国农场主赞比亚失踪近30天确认遇害",
+      "onboard_time": 1754178199,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51474,
+      "num": 51474,
+      "word": "王铮亮北京演唱会台下好多明星",
+      "onboard_time": 1754174357,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 51425,
@@ -7251,22 +7347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46138,
-      "num": 46138,
-      "word": "减肥也有自己的邪修",
-      "onboard_time": 1754175857,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 45799,
-      "num": 45799,
-      "word": "王铮亮北京演唱会台下好多明星",
-      "onboard_time": 1754174357,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 45783,
       "num": 45783,
       "word": "新版医务人员职业道德准则",
@@ -7297,14 +7377,6 @@
       "onboard_time": 1754070677,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43173,
-      "num": 43173,
-      "word": "当我真的吃不下了",
-      "onboard_time": 1754176879,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 42997,
@@ -7387,14 +7459,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 40573,
-      "num": 40573,
-      "word": "被高空坠物砸亡女孩原计划中秋节订婚",
-      "onboard_time": 1754176757,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40020,
       "num": 40020,
       "word": "鞠婧祎丝巾上衣",
@@ -7443,20 +7507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37017,
-      "num": 37017,
-      "word": "韩国拟取消美容整形增值税退税",
-      "onboard_time": 1754176999,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 36950,
       "num": 45406,
       "word": "国防部祝战友们节日快乐",
       "onboard_time": 1753982958,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36770,
+      "num": 184452,
+      "word": "负责特朗普案的前检察官遭调查",
+      "onboard_time": 1754177420,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36654,
@@ -7603,6 +7667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28903,
+      "num": 51167,
+      "word": "勒克莱尔夺F1匈牙利站杆位",
+      "onboard_time": 1754178260,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28602,
       "num": 196923,
       "word": "男子行车时天降剪刀直扎车头",
@@ -7737,6 +7809,14 @@
       "onboard_time": 1753996934,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17834,
+      "num": 130612,
+      "word": "乌克兰披露重大贪腐案",
+      "onboard_time": 1754177660,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17447,
