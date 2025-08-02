@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754155518251,
+  "endTime": 1754156663586,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -75,6 +75,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 445790,
+      "num": 98659,
+      "word": "赵露思意外生病是自己赔钱",
+      "onboard_time": 1754156000,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393506,
       "num": 393506,
       "word": "山东一彩民花69元中2.4亿元",
@@ -115,20 +123,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275658,
+      "num": 246329,
+      "word": "贾玲股四头肌",
+      "onboard_time": 1754151144,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253026,
       "num": 253026,
       "word": "20岁女子遭已婚男友纠缠跳楼身亡",
       "onboard_time": 1754139387,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251825,
-      "num": 246329,
-      "word": "贾玲股四头肌",
-      "onboard_time": 1754151144,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 199476,
@@ -187,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162099,
+      "num": 214325,
+      "word": "体检三大坑千万别被忽悠了",
+      "onboard_time": 1754153302,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 154989,
       "num": 243575,
       "word": "禹宙中欣",
@@ -227,20 +243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125850,
+      "raw_hot": 127841,
       "num": 214476,
       "word": "店家回应彩民花69元中2.4亿元",
       "onboard_time": 1754153302,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124658,
-      "num": 214325,
-      "word": "体检三大坑千万别被忽悠了",
-      "onboard_time": 1754153302,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 123591,
@@ -264,6 +272,14 @@
       "word": "在宿舍猝死的58岁高三老师",
       "onboard_time": 1754146648,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118330,
+      "num": 214433,
+      "word": "5个方法让周末不再无效休息",
+      "onboard_time": 1754153302,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -305,14 +321,6 @@
       "onboard_time": 1754130504,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106128,
-      "num": 214433,
-      "word": "5个方法让周末不再无效休息",
-      "onboard_time": 1754153302,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103628,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 70999,
-      "num": 70999,
+      "num": 80523,
       "word": "150w人围观的刷牙不吐泡沫教程",
       "onboard_time": 1754153062,
       "rank": 39,
@@ -475,7 +483,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53529,
+      "raw_hot": 54524,
       "num": 70978,
       "word": "热巴元气学姐风",
       "onboard_time": 1754149106,
@@ -489,6 +497,22 @@
       "onboard_time": 1754154381,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36654,
+      "num": 60742,
+      "word": "se神画斩业星熊了",
+      "onboard_time": 1754155879,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 33719,
+      "num": 60738,
+      "word": "当代网红进军娱乐圈的现状",
+      "onboard_time": 1754156299,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 4762,
