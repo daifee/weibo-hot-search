@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754141798084,
+  "endTime": 1754142515212,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19030207,
+      "num": 19030207,
+      "word": "赵露思发文控诉",
+      "onboard_time": 1754139566,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18929817,
       "num": 18929817,
       "word": "雷军回应",
@@ -177,14 +185,6 @@
       "onboard_time": 1735991665,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18723145,
-      "num": 18723145,
-      "word": "赵露思发文控诉",
-      "onboard_time": 1754139566,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 18652211,
