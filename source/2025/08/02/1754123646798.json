@@ -1,0 +1,410 @@
+{
+  "runTime": 1754123646798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1689278,
+        "num": 1689278,
+        "word": "年轮说原唱杨丞琳",
+        "onboard_time": 1754120722,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 803212,
+        "num": 803212,
+        "word": "黄雅琼刘雨辰领证",
+        "onboard_time": 1754113223,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20729,
+        "num": 764229,
+        "word": "信息支援部队攻防演练首次公开",
+        "onboard_time": 1754095461,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 748028,
+        "num": 748028,
+        "word": "杨洋金晨 没有CP感",
+        "onboard_time": 1754118562,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532580,
+        "num": 532580,
+        "word": "长沙一女孩疑被外墙脱落物砸中身亡",
+        "onboard_time": 1754121262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495129,
+        "num": 495129,
+        "word": "河南一中学要求8月1日报到剪指定发型",
+        "onboard_time": 1754119223,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430104,
+        "num": 430104,
+        "word": "拉宏桑 不搞笑",
+        "onboard_time": 1754120482,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371663,
+        "num": 371663,
+        "word": "李维嘉说董璇像带了两个孩子",
+        "onboard_time": 1754117121,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237343,
+        "num": 237343,
+        "word": "原来爆米花真的是一种花",
+        "onboard_time": 1754122882,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157732,
+        "num": 237025,
+        "word": "中国奥委会发樊振东眼神照",
+        "onboard_time": 1754116162,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1358424,
+        "num": 236229,
+        "word": "年轮被指抄袭蝶恋",
+        "onboard_time": 1754111421,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435336,
+        "num": 235852,
+        "word": "孕妇地铁拒让座遭2老人辱骂",
+        "onboard_time": 1754119282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377143,
+        "num": 235004,
+        "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
+        "onboard_time": 1754101522,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362649,
+        "num": 234405,
+        "word": "赵立坚发了张凌赫",
+        "onboard_time": 1754120902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347733,
+        "num": 233168,
+        "word": "覃海洋自编自导自演神剧本",
+        "onboard_time": 1754122402,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299899,
+        "num": 232949,
+        "word": "真的建议钱要花在体验上",
+        "onboard_time": 1754114962,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267362,
+        "num": 232357,
+        "word": "牛马打工人的自我修养",
+        "onboard_time": 1754122102,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247322,
+        "num": 231213,
+        "word": "女明星们 30岁可太好了",
+        "onboard_time": 1754121742,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239772,
+        "num": 230905,
+        "word": "时代峰峻禁止中控",
+        "onboard_time": 1754115443,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230231,
+        "num": 230231,
+        "word": "母女被溅了一身脏水妈妈直接报警",
+        "onboard_time": 1754121441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220140,
+        "num": 220140,
+        "word": "易烊千玺礐嶨的流沙票根好惊艳",
+        "onboard_time": 1754115022,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214302,
+        "num": 214302,
+        "word": "马丽把沈腾假发片打掉了",
+        "onboard_time": 1754115562,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203100,
+        "num": 203100,
+        "word": "KPL",
+        "onboard_time": 1754122823,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192613,
+        "num": 192613,
+        "word": "睡眠不足引发炎症",
+        "onboard_time": 1754117001,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181656,
+        "num": 181656,
+        "word": "河北兴隆北京山谷项目3人遇难",
+        "onboard_time": 1754117241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174860,
+        "num": 174860,
+        "word": "包上恩这张脸演校花拿什么输",
+        "onboard_time": 1754118441,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161346,
+        "num": 161346,
+        "word": "凡人修仙传 曹骏",
+        "onboard_time": 1754115921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158808,
+        "num": 158808,
+        "word": "王力宏戴了泉州非遗簪花",
+        "onboard_time": 1754122282,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155932,
+        "num": 155932,
+        "word": "王安宇的粉丝真的吃得很好",
+        "onboard_time": 1754119941,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154210,
+        "num": 154210,
+        "word": "哪吒2网播播放量",
+        "onboard_time": 1754120423,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177157,
+        "num": 153845,
+        "word": "Gr战胜DOU5",
+        "onboard_time": 1754123123,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153074,
+        "num": 153074,
+        "word": "谢娜爸爸78岁如何呢正能闯",
+        "onboard_time": 1754119282,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138979,
+        "num": 138979,
+        "word": "西方各国为何忍不了以色列了",
+        "onboard_time": 1754112022,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137902,
+        "num": 137902,
+        "word": "JDG对战DRG",
+        "onboard_time": 1754119941,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130408,
+        "num": 130408,
+        "word": "王星越眼角是蚊子",
+        "onboard_time": 1754120361,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 126219,
+        "word": "当60斤和110斤交换饮食",
+        "onboard_time": 1754123062,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125697,
+        "num": 125697,
+        "word": "阿狸痛车痛了个大巴车",
+        "onboard_time": 1754122582,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174698,
+        "num": 125273,
+        "word": "和易烊千玺合作8年的含金量还在上升",
+        "onboard_time": 1754122282,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124651,
+        "num": 124651,
+        "word": "余宇涵深海精灵造型",
+        "onboard_time": 1754123062,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123353,
+        "num": 123353,
+        "word": "斗破苍穹",
+        "onboard_time": 1754123424,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122634,
+        "num": 122634,
+        "word": "T1战胜HLE",
+        "onboard_time": 1754121501,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121822,
+        "num": 121822,
+        "word": "四十七官宣杀青",
+        "onboard_time": 1754122823,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116185,
+        "num": 116185,
+        "word": "王俊凯眼睛不知道该看哪里了",
+        "onboard_time": 1754112142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124189,
+        "num": 115731,
+        "word": "余宇涵演唱会",
+        "onboard_time": 1754118742,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111357,
+        "num": 111357,
+        "word": "王楚钦帅气造型",
+        "onboard_time": 1754115501,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106122,
+        "num": 106122,
+        "word": "杨幂收藏最纯真的笑脸",
+        "onboard_time": 1754123183,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105952,
+        "num": 105952,
+        "word": "淘宝闪购奶茶免单限时加码",
+        "onboard_time": 1754110881,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105516,
+        "num": 105516,
+        "word": "32岁创业失败一天打6份工的日常",
+        "onboard_time": 1754123303,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99087,
+        "num": 99087,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1754105961,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96573,
+        "num": 96573,
+        "word": "被高空坠物砸亡女孩家属回应",
+        "onboard_time": 1754120361,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写强军荣光#"
+    }
+  }
+}

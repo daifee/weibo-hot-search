@@ -1,6 +1,6 @@
 {
   "startTime": 1753547545813,
-  "endTime": 1754120425704,
+  "endTime": 1754123646798,
   "band_list": [
     {
       "raw_hot": 14578485,
@@ -393,6 +393,14 @@
       "onboard_time": 1753870044,
       "rank": 1,
       "category": "剧集,幽默"
+    },
+    {
+      "raw_hot": 1689278,
+      "num": 1689278,
+      "word": "年轮说原唱杨丞琳",
+      "onboard_time": 1754120722,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1684862,
@@ -1835,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748028,
+      "num": 795725,
+      "word": "杨洋金晨 没有CP感",
+      "onboard_time": 1754118562,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 746602,
       "num": 746602,
       "word": "台风竹节草",
@@ -2747,14 +2763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543930,
-      "num": 795725,
-      "word": "杨洋金晨 没有CP感",
-      "onboard_time": 1754118562,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 541939,
       "num": 434234,
       "word": "点外卖和不点外卖的都沉默了",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1754106621,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532580,
+      "num": 532580,
+      "word": "长沙一女孩疑被外墙脱落物砸中身亡",
+      "onboard_time": 1754121262,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532120,
@@ -3128,6 +3144,14 @@
       "word": "北京全市景区关闭",
       "onboard_time": 1753699462,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495129,
+      "num": 495129,
+      "word": "河南一中学要求8月1日报到剪指定发型",
+      "onboard_time": 1754119223,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -3603,6 +3627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 435336,
+      "num": 235852,
+      "word": "孕妇地铁拒让座遭2老人辱骂",
+      "onboard_time": 1754119282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434933,
       "num": 434933,
       "word": "光与夜之恋",
@@ -3657,6 +3689,14 @@
       "onboard_time": 1753840103,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430104,
+      "num": 430104,
+      "word": "拉宏桑 不搞笑",
+      "onboard_time": 1754120482,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 427940,
@@ -4283,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362649,
+      "num": 234405,
+      "word": "赵立坚发了张凌赫",
+      "onboard_time": 1754120902,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362373,
       "num": 370191,
       "word": "山西失联车辆已确认10人遇难",
@@ -4481,6 +4529,14 @@
       "onboard_time": 1753854204,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347733,
+      "num": 233168,
+      "word": "覃海洋自编自导自演神剧本",
+      "onboard_time": 1754122402,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 347595,
@@ -5739,6 +5795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267362,
+      "num": 232357,
+      "word": "牛马打工人的自我修养",
+      "onboard_time": 1754122102,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267287,
       "num": 253154,
       "word": "心动的信号8 二本恋综",
@@ -6243,6 +6307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247322,
+      "num": 231213,
+      "word": "女明星们 30岁可太好了",
+      "onboard_time": 1754121742,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247192,
       "num": 364814,
       "word": "终于等到物理隔菌的卫生巾了",
@@ -6475,6 +6547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237343,
+      "num": 237343,
+      "word": "原来爆米花真的是一种花",
+      "onboard_time": 1754122882,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237296,
       "num": 237296,
       "word": "恩利 谢谢爸爸照顾我的红屁股",
@@ -6633,6 +6713,14 @@
       "onboard_time": 1753579581,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 230231,
+      "num": 230231,
+      "word": "母女被溅了一身脏水妈妈直接报警",
+      "onboard_time": 1754121441,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230200,
@@ -8017,6 +8105,14 @@
       "onboard_time": 1753588462,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203100,
+      "num": 203100,
+      "word": "KPL",
+      "onboard_time": 1754122823,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 203028,
@@ -10123,6 +10219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177157,
+      "num": 153845,
+      "word": "Gr战胜DOU5",
+      "onboard_time": 1754123123,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177108,
       "num": 177108,
       "word": "TMEA音乐盛典全阵容",
@@ -10329,6 +10433,14 @@
       "onboard_time": 1753673783,
       "rank": 33,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 174698,
+      "num": 125273,
+      "word": "和易烊千玺合作8年的含金量还在上升",
+      "onboard_time": 1754122282,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 174680,
@@ -11947,6 +12059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158808,
+      "num": 158808,
+      "word": "王力宏戴了泉州非遗簪花",
+      "onboard_time": 1754122282,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158752,
       "num": 158752,
       "word": "杨幂爆炸头双封面",
@@ -12049,6 +12169,14 @@
       "onboard_time": 1753691603,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 157732,
+      "num": 237025,
+      "word": "中国奥委会发樊振东眼神照",
+      "onboard_time": 1754116162,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 157728,
@@ -12425,6 +12553,14 @@
       "onboard_time": 1753988594,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154210,
+      "num": 154210,
+      "word": "哪吒2网播播放量",
+      "onboard_time": 1754120423,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 154100,
@@ -14387,6 +14523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137902,
+      "num": 137902,
+      "word": "JDG对战DRG",
+      "onboard_time": 1754119941,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137889,
       "num": 137889,
       "word": "九转大肠的打开方式",
@@ -14513,14 +14657,6 @@
       "onboard_time": 1754112022,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136685,
-      "num": 155313,
-      "word": "河南一中学要求8月1日报到剪指定发型",
-      "onboard_time": 1754119223,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136387,
@@ -15515,6 +15651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130408,
+      "num": 130408,
+      "word": "王星越眼角是蚊子",
+      "onboard_time": 1754120361,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130315,
       "num": 130315,
       "word": "47岁孙燕姿拥抱飞奔过来的6岁女儿",
@@ -16083,6 +16227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126219,
+      "num": 126219,
+      "word": "当60斤和110斤交换饮食",
+      "onboard_time": 1754123062,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "利剑玫瑰渣爹气人",
@@ -16169,6 +16321,14 @@
       "onboard_time": 1753975523,
       "rank": 38,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 125697,
+      "num": 125697,
+      "word": "阿狸痛车痛了个大巴车",
+      "onboard_time": 1754122582,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 125593,
@@ -16315,6 +16475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124651,
+      "num": 124651,
+      "word": "余宇涵深海精灵造型",
+      "onboard_time": 1754123062,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124622,
       "num": 124622,
       "word": "眼影不上色 发霉",
@@ -16401,14 +16569,6 @@
       "onboard_time": 1753621765,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124074,
-      "num": 163078,
-      "word": "中国奥委会发樊振东眼神照",
-      "onboard_time": 1754116162,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 124041,
@@ -16523,6 +16683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123353,
+      "num": 123353,
+      "word": "斗破苍穹",
+      "onboard_time": 1754123424,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123344,
       "num": 234354,
       "word": "罗小黑跟小猪妖去取经",
@@ -16627,6 +16795,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 122634,
+      "num": 122634,
+      "word": "T1战胜HLE",
+      "onboard_time": 1754121501,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122545,
       "num": 122545,
       "word": "俄罗斯堪察加半岛一火山喷发",
@@ -16705,6 +16881,14 @@
       "onboard_time": 1753779984,
       "rank": 37,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 121822,
+      "num": 121822,
+      "word": "四十七官宣杀青",
+      "onboard_time": 1754122823,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 121799,
@@ -18291,6 +18475,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 106122,
+      "num": 106122,
+      "word": "杨幂收藏最纯真的笑脸",
+      "onboard_time": 1754123183,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106096,
       "num": 177979,
       "word": "方程豹为见义勇为车主送车",
@@ -18329,6 +18521,14 @@
       "onboard_time": 1753925601,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105516,
+      "num": 105516,
+      "word": "32岁创业失败一天打6份工的日常",
+      "onboard_time": 1754123303,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 105454,
@@ -19035,6 +19235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96573,
+      "num": 96573,
+      "word": "被高空坠物砸亡女孩家属回应",
+      "onboard_time": 1754120361,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95995,
       "num": 247611,
       "word": "中国海警说谁怕死谁就输了",
@@ -19201,14 +19409,6 @@
       "onboard_time": 1753587622,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92690,
-      "num": 92690,
-      "word": "王星越眼角是蚊子",
-      "onboard_time": 1754120361,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 92643,
@@ -19569,14 +19769,6 @@
       "onboard_time": 1754020102,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 83728,
-      "num": 83728,
-      "word": "被高空坠物砸亡女孩家属回应",
-      "onboard_time": 1754120361,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83326,
@@ -20033,14 +20225,6 @@
       "onboard_time": 1753657939,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 71908,
-      "num": 114476,
-      "word": "孕妇地铁拒让座遭2老人辱骂",
-      "onboard_time": 1754119282,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71835,
