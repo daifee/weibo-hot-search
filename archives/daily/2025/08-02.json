@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754119581872,
+  "endTime": 1754120425704,
   "band_list": [
     {
       "raw_hot": 3874972,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543930,
+      "num": 795725,
+      "word": "杨洋金晨 没有CP感",
+      "onboard_time": 1754118562,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535420,
       "num": 535420,
       "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
@@ -283,7 +291,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 361302,
+      "raw_hot": 383803,
       "num": 817250,
       "word": "李维嘉说董璇像带了两个孩子",
       "onboard_time": 1754117121,
@@ -339,12 +347,12 @@
       "category": "读书作家,电竞"
     },
     {
-      "raw_hot": 317526,
-      "num": 795725,
-      "word": "杨洋金晨 没有CP感",
-      "onboard_time": 1754118562,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 314006,
+      "num": 278656,
+      "word": "易烊千玺礐嶨的流沙票根好惊艳",
+      "onboard_time": 1754115022,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 306001,
@@ -393,14 +401,6 @@
       "onboard_time": 1754040142,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278656,
-      "num": 278656,
-      "word": "易烊千玺礐嶨的流沙票根好惊艳",
-      "onboard_time": 1754115022,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 278009,
@@ -499,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 228058,
+      "num": 206913,
+      "word": "睡眠不足引发炎症",
+      "onboard_time": 1754117001,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224208,
       "num": 216510,
       "word": "您的骑手正在与流浪猫决斗",
@@ -523,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210925,
-      "num": 206913,
-      "word": "睡眠不足引发炎症",
-      "onboard_time": 1754117001,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 210392,
+      "num": 720514,
+      "word": "河北兴隆北京山谷项目3人遇难",
+      "onboard_time": 1754117241,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210386,
+      "num": 648926,
+      "word": "西方各国为何忍不了以色列了",
+      "onboard_time": 1754112022,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 210089,
@@ -561,6 +577,14 @@
       "onboard_time": 1754105662,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206513,
+      "num": 199889,
+      "word": "包上恩这张脸演校花拿什么输",
+      "onboard_time": 1754118441,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 205380,
@@ -603,28 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199889,
-      "num": 199889,
-      "word": "包上恩这张脸演校花拿什么输",
-      "onboard_time": 1754118441,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196374,
       "num": 196374,
       "word": "余宇涵演唱会",
       "onboard_time": 1754118742,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192624,
-      "num": 720514,
-      "word": "河北兴隆北京山谷项目3人遇难",
-      "onboard_time": 1754117241,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192368,
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187843,
+      "num": 187843,
+      "word": "谢娜爸爸78岁如何呢正能闯",
+      "onboard_time": 1754119282,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186896,
       "num": 186896,
       "word": "这才是双休工作少的原因",
@@ -688,6 +704,14 @@
       "word": "张元英模仿小时候自己的照片",
       "onboard_time": 1754107701,
       "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 182615,
+      "num": 182615,
+      "word": "王安宇的粉丝真的吃得很好",
+      "onboard_time": 1754119941,
+      "rank": 22,
       "category": "演出"
     },
     {
@@ -947,6 +971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147372,
+      "num": 147372,
+      "word": "刘宇宁把盘串刻进DNA里了",
+      "onboard_time": 1754119583,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147095,
       "num": 147095,
       "word": "刘诗诗好适合田园生活",
@@ -1011,6 +1043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 140748,
+      "num": 140748,
+      "word": "孟子义带高寒勇闯内娱",
+      "onboard_time": 1754117663,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140570,
       "num": 207844,
       "word": "男子挖到宋元时期首饰卖了20万被抓",
@@ -1059,12 +1099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136282,
-      "num": 648926,
-      "word": "西方各国为何忍不了以色列了",
-      "onboard_time": 1754112022,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 136685,
+      "num": 155313,
+      "word": "河南一中学要求8月1日报到剪指定发型",
+      "onboard_time": 1754119223,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136179,
@@ -1100,7 +1140,7 @@
     },
     {
       "raw_hot": 134930,
-      "num": 156515,
+      "num": 169993,
       "word": "河北兴隆北京山谷项目3人遇难4人失联",
       "onboard_time": 1754118381,
       "rank": 27,
@@ -1160,14 +1200,6 @@
       "word": "i人谭松韵刘学义 剧组的玩具",
       "onboard_time": 1754109141,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131152,
-      "num": 131152,
-      "word": "孟子义带高寒勇闯内娱",
-      "onboard_time": 1754117663,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1235,20 +1267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126748,
+      "num": 126748,
+      "word": "DRG对战JDG",
+      "onboard_time": 1754119941,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124371,
       "num": 124371,
       "word": "杨洋带双瞳鼠跳个舞",
       "onboard_time": 1754116341,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124190,
-      "num": 124190,
-      "word": "谢娜爸爸78岁如何呢正能闯",
-      "onboard_time": 1754119282,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 124074,
@@ -1307,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121648,
+      "num": 121648,
+      "word": "T1对战HLE",
+      "onboard_time": 1754119521,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121260,
       "num": 234683,
       "word": "中国文化跨越山海",
@@ -1339,12 +1379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116094,
-      "num": 155313,
-      "word": "河南一中学要求8月1日报到剪指定发型",
-      "onboard_time": 1754119223,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 116352,
+      "num": 116352,
+      "word": "Gr对战DOU5",
+      "onboard_time": 1754119941,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 115585,
@@ -1443,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104492,
+      "num": 104492,
+      "word": "重温刘雨辰赛场求婚黄雅琼",
+      "onboard_time": 1754119102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "四十七",
@@ -1451,20 +1499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102725,
-      "num": 102725,
-      "word": "T1对战HLE",
-      "onboard_time": 1754119521,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100755,
       "num": 100755,
       "word": "侯佩岑心里人满为患",
       "onboard_time": 1754117061,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99011,
+      "num": 99011,
+      "word": "周震南直播",
+      "onboard_time": 1754119641,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98730,
+      "num": 98730,
+      "word": "男女主还没亲上先红温了",
+      "onboard_time": 1754120302,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 98178,
@@ -1523,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93138,
+      "num": 93138,
+      "word": "流量小花不希望与杨紫的剧对打",
+      "onboard_time": 1754118261,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92940,
       "num": 92940,
       "word": "潘展乐回应单项失利",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1754060423,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92690,
+      "num": 92690,
+      "word": "王星越眼角是蚊子",
+      "onboard_time": 1754120361,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 91515,
@@ -1592,6 +1664,14 @@
       "word": "女子为骗取前夫和继子钱财假装病死",
       "onboard_time": 1754098581,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83728,
+      "num": 83728,
+      "word": "被高空坠物砸亡女孩家属回应",
+      "onboard_time": 1754120361,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1715,6 +1795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71908,
+      "num": 114476,
+      "word": "孕妇地铁拒让座遭2老人辱骂",
+      "onboard_time": 1754119282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70544,
       "num": 70544,
       "word": "中餐厅",
@@ -1755,6 +1843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67102,
+      "num": 232984,
+      "word": "荣耀平板在CJ现场成电子鸡蛋",
+      "onboard_time": 1754118501,
+      "rank": 19,
+      "category": "数码,游戏"
+    },
+    {
       "raw_hot": 67021,
       "num": 67021,
       "word": "今天星期五",
@@ -1793,14 +1889,6 @@
       "onboard_time": 1754067080,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 61855,
-      "num": 232984,
-      "word": "荣耀平板在CJ现场成电子鸡蛋",
-      "onboard_time": 1754118501,
-      "rank": 19,
-      "category": "数码,游戏"
     },
     {
       "raw_hot": 60851,
@@ -1984,14 +2072,6 @@
       "word": "有人创业拍AI短剧月入300万",
       "onboard_time": 1754070316,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33420,
-      "num": 114476,
-      "word": "孕妇地铁拒让座遭2老人辱骂",
-      "onboard_time": 1754119282,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
