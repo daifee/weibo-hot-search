@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754123646798,
+  "endTime": 1754124549939,
   "band_list": [
     {
       "raw_hot": 13974214,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 592496,
+      "num": 233168,
+      "word": "覃海洋自编自导自演神剧本",
+      "onboard_time": 1754122402,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 588815,
       "num": 588815,
       "word": "柴鸡蛋疑似还钱了",
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566207,
+      "num": 235852,
+      "word": "孕妇地铁拒让座遭2老人辱骂",
+      "onboard_time": 1754119282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565139,
       "num": 164433,
       "word": "李明德被判有期徒刑六个月",
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556285,
+      "num": 556285,
+      "word": "长沙一女孩疑被外墙脱落物砸中身亡",
+      "onboard_time": 1754121262,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554434,
       "num": 554434,
       "word": "24岁中国男子落地柬埔寨数小时内死亡",
@@ -689,14 +713,6 @@
       "onboard_time": 1754106621,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 532580,
-      "num": 532580,
-      "word": "长沙一女孩疑被外墙脱落物砸中身亡",
-      "onboard_time": 1754121262,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 532120,
@@ -769,6 +785,14 @@
       "onboard_time": 1754013322,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 488691,
+      "num": 452912,
+      "word": "拉宏桑 不搞笑",
+      "onboard_time": 1754120482,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 486009,
@@ -851,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 454580,
+      "num": 454580,
+      "word": "原来爆米花真的是一种花",
+      "onboard_time": 1754122882,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453113,
       "num": 453113,
       "word": "卫兰 紧张",
@@ -867,28 +899,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 435336,
-      "num": 235852,
-      "word": "孕妇地铁拒让座遭2老人辱骂",
-      "onboard_time": 1754119282,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434933,
       "num": 434933,
       "word": "光与夜之恋",
       "onboard_time": 1754092460,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 430104,
-      "num": 430104,
-      "word": "拉宏桑 不搞笑",
-      "onboard_time": 1754120482,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 425168,
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 362649,
-      "num": 234405,
+      "num": 324828,
       "word": "赵立坚发了张凌赫",
       "onboard_time": 1754120902,
       "rank": 13,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1754022502,
       "rank": 10,
       "category": "军事"
-    },
-    {
-      "raw_hot": 347733,
-      "num": 233168,
-      "word": "覃海洋自编自导自演神剧本",
-      "onboard_time": 1754122402,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 347595,
@@ -1427,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267717,
+      "num": 230231,
+      "word": "母女被溅了一身脏水妈妈直接报警",
+      "onboard_time": 1754121441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267414,
       "num": 384274,
       "word": "武汉大学图书馆事件多方皆输",
@@ -1448,6 +1464,14 @@
       "word": "李明德砸车事件车主获赔20万",
       "onboard_time": 1753942824,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265455,
+      "num": 231213,
+      "word": "女明星们 30岁可太好了",
+      "onboard_time": 1754121742,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1489,6 +1513,14 @@
       "onboard_time": 1753972105,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262663,
+      "num": 209103,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1754123781,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 261589,
@@ -1563,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247322,
-      "num": 231213,
-      "word": "女明星们 30岁可太好了",
-      "onboard_time": 1754121742,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247192,
       "num": 364814,
       "word": "终于等到物理隔菌的卫生巾了",
@@ -1635,14 +1659,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 237343,
-      "num": 237343,
-      "word": "原来爆米花真的是一种花",
-      "onboard_time": 1754122882,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236171,
       "num": 236171,
       "word": "林心如霍建华结婚九周年",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1753971385,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230231,
-      "num": 230231,
-      "word": "母女被溅了一身脏水妈妈直接报警",
-      "onboard_time": 1754121441,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230200,
@@ -1833,6 +1841,14 @@
       "onboard_time": 1754055024,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217770,
+      "num": 217770,
+      "word": "斗破苍穹",
+      "onboard_time": 1754123424,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 217342,
@@ -2195,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196684,
+      "num": 237025,
+      "word": "中国奥委会发樊振东眼神照",
+      "onboard_time": 1754116162,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196374,
       "num": 196374,
       "word": "余宇涵演唱会",
@@ -2289,6 +2313,14 @@
       "onboard_time": 1754048243,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191987,
+      "num": 210881,
+      "word": "徐帆辟谣与冯小刚离婚",
+      "onboard_time": 1754123662,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 191489,
@@ -3059,14 +3091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157732,
-      "num": 237025,
-      "word": "中国奥委会发樊振东眼神照",
-      "onboard_time": 1754116162,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157550,
       "num": 157550,
       "word": "近期3起恶性造谣传谣案件披露",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1754052203,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150724,
+      "num": 150724,
+      "word": "刘宇宁黄子弘凡花篮后续",
+      "onboard_time": 1754124202,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 150487,
@@ -3563,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139454,
+      "num": 139454,
+      "word": "包上恩 放高中高低暗恋三年",
+      "onboard_time": 1754123662,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139281,
       "num": 139281,
       "word": "灵笼2内核的境界",
@@ -3683,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135695,
+      "num": 135695,
+      "word": "只有我一个人觉得原唱是时团吗",
+      "onboard_time": 1754124381,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135668,
       "num": 135668,
       "word": "黄子韬卸任公司执行董事职务",
@@ -3713,6 +3761,14 @@
       "onboard_time": 1754112622,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135352,
+      "num": 135352,
+      "word": "旭旭宝宝和Yasal在CJ被围堵",
+      "onboard_time": 1754124381,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 135180,
@@ -3897,6 +3953,14 @@
       "onboard_time": 1754045124,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130789,
+      "num": 214651,
+      "word": "被高空坠物砸亡女孩家属回应",
+      "onboard_time": 1754120361,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130750,
@@ -4163,14 +4227,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 123353,
-      "num": 123353,
-      "word": "斗破苍穹",
-      "onboard_time": 1754123424,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 123344,
       "num": 234354,
       "word": "罗小黑跟小猪妖去取经",
@@ -4228,7 +4284,7 @@
     },
     {
       "raw_hot": 121260,
-      "num": 234683,
+      "num": 600821,
       "word": "中国文化跨越山海",
       "onboard_time": 1754106381,
       "rank": 27,
@@ -4563,6 +4619,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 108306,
+      "num": 108306,
+      "word": "zeka沙皇",
+      "onboard_time": 1754123841,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107571,
       "num": 173647,
       "word": "中国男子带3名子女离境美国被捕",
@@ -4659,6 +4723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103879,
+      "num": 103879,
+      "word": "三花猫大着肚子帮邻居灭鼠",
+      "onboard_time": 1754121322,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "四十七",
@@ -4713,6 +4785,14 @@
       "onboard_time": 1754117061,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99975,
+      "num": 99975,
+      "word": "iPhone17Air电池曝光",
+      "onboard_time": 1754124502,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 99882,
@@ -4819,14 +4899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96573,
-      "num": 96573,
-      "word": "被高空坠物砸亡女孩家属回应",
-      "onboard_time": 1754120361,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96157,
       "num": 96157,
       "word": "宋浩然独自带女儿回十堰办周岁宴",
@@ -4857,6 +4929,14 @@
       "onboard_time": 1754022682,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 95554,
+      "num": 95554,
+      "word": "中国队无缘男女混合自接决赛",
+      "onboard_time": 1754121322,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94833,

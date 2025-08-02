@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754123646798,
+  "endTime": 1754124549939,
   "band_list": [
     {
       "raw_hot": 3874972,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 592496,
+      "num": 233168,
+      "word": "覃海洋自编自导自演神剧本",
+      "onboard_time": 1754122402,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 585585,
       "num": 411943,
       "word": "李咏女儿恋情",
@@ -195,12 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566207,
+      "num": 235852,
+      "word": "孕妇地铁拒让座遭2老人辱骂",
+      "onboard_time": 1754119282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564745,
       "num": 564745,
       "word": "你好星期六谁会大展鸿图",
       "onboard_time": 1754101581,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556285,
+      "num": 556285,
+      "word": "长沙一女孩疑被外墙脱落物砸中身亡",
+      "onboard_time": 1754121262,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 535420,
@@ -217,14 +241,6 @@
       "onboard_time": 1754106621,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 532580,
-      "num": 532580,
-      "word": "长沙一女孩疑被外墙脱落物砸中身亡",
-      "onboard_time": 1754121262,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526472,
@@ -259,11 +275,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488691,
+      "num": 452912,
+      "word": "拉宏桑 不搞笑",
+      "onboard_time": 1754120482,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478491,
       "num": 478491,
       "word": "亮证女子仅凭车牌就调取公民信息",
       "onboard_time": 1754095580,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454580,
+      "num": 454580,
+      "word": "原来爆米花真的是一种花",
+      "onboard_time": 1754122882,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -283,28 +315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 435336,
-      "num": 235852,
-      "word": "孕妇地铁拒让座遭2老人辱骂",
-      "onboard_time": 1754119282,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434933,
       "num": 434933,
       "word": "光与夜之恋",
       "onboard_time": 1754092460,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 430104,
-      "num": 430104,
-      "word": "拉宏桑 不搞笑",
-      "onboard_time": 1754120482,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 411579,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 362649,
-      "num": 234405,
+      "num": 324828,
       "word": "赵立坚发了张凌赫",
       "onboard_time": 1754120902,
       "rank": 13,
@@ -353,14 +369,6 @@
       "onboard_time": 1754107103,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347733,
-      "num": 233168,
-      "word": "覃海洋自编自导自演神剧本",
-      "onboard_time": 1754122402,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 328828,
@@ -483,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267717,
+      "num": 230231,
+      "word": "母女被溅了一身脏水妈妈直接报警",
+      "onboard_time": 1754121441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267362,
       "num": 232357,
       "word": "牛马打工人的自我修养",
       "onboard_time": 1754122102,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265455,
+      "num": 231213,
+      "word": "女明星们 30岁可太好了",
+      "onboard_time": 1754121742,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 264413,
@@ -507,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247322,
-      "num": 231213,
-      "word": "女明星们 30岁可太好了",
-      "onboard_time": 1754121742,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 262663,
+      "num": 209103,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1754123781,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 247192,
@@ -547,28 +571,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 237343,
-      "num": 237343,
-      "word": "原来爆米花真的是一种花",
-      "onboard_time": 1754122882,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233747,
       "num": 233747,
       "word": "第五人格",
       "onboard_time": 1754106802,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 230231,
-      "num": 230231,
-      "word": "母女被溅了一身脏水妈妈直接报警",
-      "onboard_time": 1754121441,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230200,
@@ -609,6 +617,14 @@
       "onboard_time": 1754101041,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217770,
+      "num": 217770,
+      "word": "斗破苍穹",
+      "onboard_time": 1754123424,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 216040,
@@ -723,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196684,
+      "num": 237025,
+      "word": "中国奥委会发樊振东眼神照",
+      "onboard_time": 1754116162,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196374,
       "num": 196374,
       "word": "余宇涵演唱会",
@@ -745,6 +769,14 @@
       "onboard_time": 1754116341,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191987,
+      "num": 210881,
+      "word": "徐帆辟谣与冯小刚离婚",
+      "onboard_time": 1754123662,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 189193,
@@ -995,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157732,
-      "num": 237025,
-      "word": "中国奥委会发樊振东眼神照",
-      "onboard_time": 1754116162,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157485,
       "num": 157485,
       "word": "在短剧甚至能看到女太监",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1754104102,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150724,
+      "num": 150724,
+      "word": "刘宇宁黄子弘凡花篮后续",
+      "onboard_time": 1754124202,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 150240,
@@ -1203,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139454,
+      "num": 139454,
+      "word": "包上恩 放高中高低暗恋三年",
+      "onboard_time": 1754123662,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138395,
       "num": 138395,
       "word": "晚上睡不着小心是腿的毛病",
@@ -1259,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135695,
+      "num": 135695,
+      "word": "只有我一个人觉得原唱是时团吗",
+      "onboard_time": 1754124381,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135606,
       "num": 147235,
       "word": "易烊千玺工作室回应让粉丝带土",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1754112622,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135352,
+      "num": 135352,
+      "word": "旭旭宝宝和Yasal在CJ被围堵",
+      "onboard_time": 1754124381,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 134930,
@@ -1345,6 +1401,14 @@
       "onboard_time": 1754100561,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130789,
+      "num": 214651,
+      "word": "被高空坠物砸亡女孩家属回应",
+      "onboard_time": 1754120361,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130408,
@@ -1475,14 +1539,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 123353,
-      "num": 123353,
-      "word": "斗破苍穹",
-      "onboard_time": 1754123424,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 123344,
       "num": 234354,
       "word": "罗小黑跟小猪妖去取经",
@@ -1532,7 +1588,7 @@
     },
     {
       "raw_hot": 121260,
-      "num": 234683,
+      "num": 600821,
       "word": "中国文化跨越山海",
       "onboard_time": 1754106381,
       "rank": 27,
@@ -1635,6 +1691,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 108306,
+      "num": 108306,
+      "word": "zeka沙皇",
+      "onboard_time": 1754123841,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107571,
       "num": 173647,
       "word": "中国男子带3名子女离境美国被捕",
@@ -1691,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103879,
+      "num": 103879,
+      "word": "三花猫大着肚子帮邻居灭鼠",
+      "onboard_time": 1754121322,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "四十七",
@@ -1705,6 +1777,14 @@
       "onboard_time": 1754117061,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99975,
+      "num": 99975,
+      "word": "iPhone17Air电池曝光",
+      "onboard_time": 1754124502,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 99011,
@@ -1763,12 +1843,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96573,
-      "num": 96573,
-      "word": "被高空坠物砸亡女孩家属回应",
-      "onboard_time": 1754120361,
+      "raw_hot": 95554,
+      "num": 95554,
+      "word": "中国队无缘男女混合自接决赛",
+      "onboard_time": 1754121322,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 95536,
