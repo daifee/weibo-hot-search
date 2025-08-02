@@ -1,7 +1,15 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754140118486,
+  "endTime": 1754141798084,
   "band_list": [
+    {
+      "raw_hot": 18723145,
+      "num": 18723145,
+      "word": "赵露思发文控诉",
+      "onboard_time": 1754139566,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 13974214,
       "num": 14552739,
@@ -11,19 +19,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11951764,
+      "num": 11951764,
+      "word": "赵露思 我不干了",
+      "onboard_time": 1754139806,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9697965,
       "num": 9697965,
       "word": "赵露思艾特银河酷娱",
       "onboard_time": 1754126183,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6923526,
-      "num": 6923526,
-      "word": "赵露思发文控诉",
-      "onboard_time": 1754139566,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -91,12 +99,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2684507,
-      "num": 256402,
-      "word": "赵露思 我不干了",
-      "onboard_time": 1754139806,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 2409993,
+      "num": 515491,
+      "word": "难听",
+      "onboard_time": 1754138905,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 2356229,
@@ -171,14 +179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1670822,
-      "num": 297850,
-      "word": "难听",
-      "onboard_time": 1754138905,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1568459,
       "num": 1568459,
       "word": "怎么不等微信下架再告诉我",
@@ -204,10 +204,18 @@
     },
     {
       "raw_hot": 1400793,
-      "num": 353616,
+      "num": 358199,
       "word": "IU宝剑结婚 钟硕那边我去说",
       "onboard_time": 1754127983,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1396369,
+      "num": 364009,
+      "word": "葛夕晒离婚证",
+      "onboard_time": 1754140232,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690737,
+      "num": 362539,
+      "word": "SNH48总选排名",
+      "onboard_time": 1754138905,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688073,
       "num": 688073,
       "word": "高以翔的狗狗去世了",
@@ -668,19 +684,11 @@
     },
     {
       "raw_hot": 652780,
-      "num": 252256,
+      "num": 362148,
       "word": "你好星期六预告",
       "onboard_time": 1754138725,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 636790,
-      "num": 246188,
-      "word": "SNH48总选排名",
-      "onboard_time": 1754138905,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 632334,
@@ -705,6 +713,14 @@
       "onboard_time": 1753973184,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617876,
+      "num": 617876,
+      "word": "上海警方通报外国人阻止吸烟起纠纷",
+      "onboard_time": 1754135603,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 617483,
@@ -753,14 +769,6 @@
       "onboard_time": 1754029101,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 577419,
-      "num": 577419,
-      "word": "上海警方通报外国人阻止吸烟起纠纷",
-      "onboard_time": 1754135603,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 569459,
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 530527,
-      "num": 299995,
+      "num": 358159,
       "word": "好野啊千玺",
       "onboard_time": 1754138663,
       "rank": 11,
@@ -915,12 +923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493968,
+      "num": 493968,
+      "word": "20岁女子遭已婚男友纠缠跳楼身亡",
+      "onboard_time": 1754139387,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493427,
       "num": 573523,
       "word": "95后女飞行员徐枫灿回应质疑",
       "onboard_time": 1754013322,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 490173,
+      "num": 360205,
+      "word": "王安宇音乐节",
+      "onboard_time": 1754139990,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 488691,
@@ -1099,12 +1123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408253,
+      "num": 359900,
+      "word": "银河酷娱",
+      "onboard_time": 1754130504,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407916,
       "num": 407916,
       "word": "张馨予说热巴演得好",
       "onboard_time": 1754018182,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 406209,
+      "num": 358740,
+      "word": "五月天嘉宾汪苏泷",
+      "onboard_time": 1754140170,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 404249,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1754056164,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364501,
+      "num": 364501,
+      "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
+      "onboard_time": 1754138545,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 363664,
@@ -1692,7 +1740,7 @@
     },
     {
       "raw_hot": 266524,
-      "num": 178226,
+      "num": 204377,
       "word": "hi6",
       "onboard_time": 1754138725,
       "rank": 25,
@@ -1771,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259837,
-      "num": 259837,
-      "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
-      "onboard_time": 1754138545,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 257412,
       "num": 257412,
       "word": "公司约定的不缴社保无效",
@@ -1795,8 +1835,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252870,
+      "num": 363809,
+      "word": "基孔肯雅热全球流行范围持续扩大",
+      "onboard_time": 1754137464,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 252274,
-      "num": 207066,
+      "num": 215172,
       "word": "张艺兴演唱会",
       "onboard_time": 1754131703,
       "rank": 25,
@@ -1804,7 +1852,7 @@
     },
     {
       "raw_hot": 251926,
-      "num": 251926,
+      "num": 361693,
       "word": "易烊千玺演唱会现场好多显眼包",
       "onboard_time": 1754136803,
       "rank": 15,
@@ -1889,14 +1937,6 @@
       "onboard_time": 1754110881,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 240859,
-      "num": 300411,
-      "word": "基孔肯雅热全球流行范围持续扩大",
-      "onboard_time": 1754137464,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 240276,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 227992,
-      "num": 227992,
+      "num": 358888,
       "word": "淮安vs苏州",
       "onboard_time": 1754135784,
       "rank": 19,
@@ -2059,16 +2099,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224574,
-      "num": 224574,
-      "word": "20岁女子遭已婚男友纠缠跳楼身亡",
-      "onboard_time": 1754139387,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224324,
-      "num": 188511,
+      "num": 208653,
       "word": "杨冰怡 空中见",
       "onboard_time": 1754130802,
       "rank": 24,
@@ -2267,14 +2299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212355,
-      "num": 205076,
-      "word": "银河酷娱",
-      "onboard_time": 1754130504,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212193,
       "num": 212193,
       "word": "曹缘男子3米板银牌",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1754105902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209321,
+      "num": 209321,
+      "word": "刘宇宁又出神图了",
+      "onboard_time": 1754141491,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 209274,
@@ -2457,6 +2489,14 @@
       "onboard_time": 1754107041,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204380,
+      "num": 204380,
+      "word": "恋综女嘉宾被闺蜜心动男生表白",
+      "onboard_time": 1754140891,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 203786,
@@ -2651,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194236,
+      "num": 211376,
+      "word": "福州晚霞浪漫感爆棚",
+      "onboard_time": 1754141191,
+      "rank": 33,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 193855,
       "num": 193855,
       "word": "IVE舞台飞麦",
@@ -2729,6 +2777,14 @@
       "onboard_time": 1754022442,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 189530,
+      "num": 361262,
+      "word": "苏超",
+      "onboard_time": 1754131882,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 189309,
@@ -2985,14 +3041,6 @@
       "onboard_time": 1754065341,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179125,
-      "num": 179125,
-      "word": "苏超",
-      "onboard_time": 1754131882,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 178214,
@@ -3289,14 +3337,6 @@
       "onboard_time": 1754047163,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165672,
-      "num": 150657,
-      "word": "王安宇音乐节",
-      "onboard_time": 1754139990,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 165479,
@@ -3643,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156938,
+      "num": 359197,
+      "word": "豆瓣崩了",
+      "onboard_time": 1754141491,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156475,
       "num": 155174,
       "word": "老祖宗的审美是有一定道理的",
@@ -3851,6 +3899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149735,
+      "num": 204361,
+      "word": "钟镇涛女儿小小年纪杀疯了",
+      "onboard_time": 1754140351,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149719,
       "num": 149719,
       "word": "offer7首录贺峻霖黑西装配话筒",
@@ -3860,7 +3916,7 @@
     },
     {
       "raw_hot": 149665,
-      "num": 149665,
+      "num": 204336,
       "word": "哪吒归来又拿第一名",
       "onboard_time": 1754137524,
       "rank": 41,
@@ -4049,6 +4105,14 @@
       "onboard_time": 1754127202,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145157,
+      "num": 256134,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1754140712,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 144954,
@@ -4539,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133601,
+      "num": 206737,
+      "word": "方圆脸化完妆的真实模样",
+      "onboard_time": 1754141491,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 133454,
       "num": 133454,
       "word": "iPhone17Air电池曝光",
@@ -4584,6 +4656,14 @@
       "word": "覃海洋说计划没变准备夺冠",
       "onboard_time": 1754052923,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132392,
+      "num": 206614,
+      "word": "王大雷红牌",
+      "onboard_time": 1754141612,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -4955,6 +5035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123521,
+      "num": 204320,
+      "word": "金价再度拉升",
+      "onboard_time": 1754139265,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123493,
       "num": 123493,
       "word": "明日方舟",
@@ -5132,7 +5220,7 @@
     },
     {
       "raw_hot": 119064,
-      "num": 149847,
+      "num": 204280,
       "word": "抗炎饮食建议多吃这些",
       "onboard_time": 1754136383,
       "rank": 37,
@@ -5403,6 +5491,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112173,
+      "num": 204310,
+      "word": "佛山大型灭蚊灯光秀",
+      "onboard_time": 1754134402,
+      "rank": 48,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 112159,
       "num": 112159,
       "word": "解锁青岛的天然空调避暑密码",
@@ -5425,6 +5521,14 @@
       "onboard_time": 1754125283,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111591,
+      "num": 204304,
+      "word": "淮安球场停电",
+      "onboard_time": 1754140351,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 111075,
@@ -5513,6 +5617,14 @@
       "onboard_time": 1754106442,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107549,
+      "num": 204268,
+      "word": "云南见手青可乐5天卖出7000多瓶",
+      "onboard_time": 1754140232,
+      "rank": 49,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 107498,
@@ -5689,14 +5801,6 @@
       "onboard_time": 1754129363,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101916,
-      "num": 129431,
-      "word": "金价再度拉升",
-      "onboard_time": 1754139265,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 101547,
@@ -5915,14 +6019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94397,
-      "num": 127705,
-      "word": "佛山大型灭蚊灯光秀",
-      "onboard_time": 1754134402,
-      "rank": 48,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 93549,
       "num": 93549,
       "word": "特朗普称两艘核潜艇部署至俄附近",
@@ -6049,6 +6145,14 @@
       "onboard_time": 1753980919,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85055,
+      "num": 363376,
+      "word": "录取通知书里有经济困难申请表",
+      "onboard_time": 1754140772,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84896,
@@ -6523,6 +6627,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 50171,
+      "num": 361106,
+      "word": "易烊千玺演唱会九号幸运粉丝",
+      "onboard_time": 1754138725,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 49588,
       "num": 187287,
       "word": "孙杨受伤也不停练",
@@ -6657,14 +6769,6 @@
       "onboard_time": 1753958244,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40829,
-      "num": 230324,
-      "word": "易烊千玺演唱会九号幸运粉丝",
-      "onboard_time": 1754138725,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 40609,

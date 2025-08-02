@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754140118486,
+  "endTime": 1754141798084,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -177,6 +177,14 @@
       "onboard_time": 1735991665,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18723145,
+      "num": 18723145,
+      "word": "赵露思发文控诉",
+      "onboard_time": 1754139566,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 18652211,
@@ -632,6 +640,14 @@
       "word": "鹿晗工作室",
       "onboard_time": 1745080294,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11951764,
+      "num": 11951764,
+      "word": "赵露思 我不干了",
+      "onboard_time": 1754139806,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1547,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6923526,
-      "num": 6923526,
-      "word": "赵露思发文控诉",
-      "onboard_time": 1754139566,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 6912060,
       "num": 6912060,
       "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1753844363,
       "rank": 1,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 3850490,
-      "num": 3850490,
-      "word": "侵华日军为便于奸淫百姓赤身骑马",
-      "onboard_time": 1740125420,
-      "rank": 3,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
