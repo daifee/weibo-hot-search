@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754153387452,
+  "endTime": 1754155518251,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508145,
-      "num": 508145,
+      "raw_hot": 538982,
+      "num": 538982,
       "word": "世界上最长的下巴",
       "onboard_time": 1754149827,
       "rank": 5,
@@ -123,7 +123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219080,
+      "raw_hot": 251825,
       "num": 246329,
       "word": "贾玲股四头肌",
       "onboard_time": 1754151144,
@@ -227,6 +227,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125850,
+      "num": 214476,
+      "word": "店家回应彩民花69元中2.4亿元",
+      "onboard_time": 1754153302,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124658,
+      "num": 214325,
+      "word": "体检三大坑千万别被忽悠了",
+      "onboard_time": 1754153302,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 123591,
       "num": 240894,
       "word": "韩红演唱会嘉宾陈立农",
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111968,
+      "num": 237577,
+      "word": "王楚然被粉丝安慰的眼圈红了",
+      "onboard_time": 1754151444,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110071,
       "num": 240719,
       "word": "30岁两个正常人婚后的真实生活",
@@ -281,6 +305,14 @@
       "onboard_time": 1754130504,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106128,
+      "num": 214433,
+      "word": "5个方法让周末不再无效休息",
+      "onboard_time": 1754153302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103628,
@@ -315,22 +347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96608,
-      "num": 214433,
-      "word": "5个方法让周末不再无效休息",
-      "onboard_time": 1754153302,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92811,
-      "num": 214476,
-      "word": "店家回应彩民花69元中2.4亿元",
-      "onboard_time": 1754153302,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89124,
       "num": 235765,
       "word": "刘宇宁这怎么不算going",
@@ -347,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85545,
-      "num": 214325,
-      "word": "体检三大坑千万别被忽悠了",
-      "onboard_time": 1754153302,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 84993,
       "num": 214305,
       "word": "十个勤天演唱会",
@@ -369,14 +377,6 @@
       "onboard_time": 1754150487,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83938,
-      "num": 237577,
-      "word": "王楚然被粉丝安慰的眼圈红了",
-      "onboard_time": 1754151444,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 80776,
@@ -419,6 +419,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71814,
+      "num": 71814,
+      "word": "爱豆侯明昊杀回来了",
+      "onboard_time": 1754142991,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 70999,
+      "num": 70999,
+      "word": "150w人围观的刷牙不吐泡沫教程",
+      "onboard_time": 1754153062,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70697,
       "num": 214163,
       "word": "年轮说原唱杨丞琳",
@@ -449,6 +465,30 @@
       "onboard_time": 1754145271,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59657,
+      "num": 70983,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1754131703,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 53529,
+      "num": 70978,
+      "word": "热巴元气学姐风",
+      "onboard_time": 1754149106,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 47416,
+      "num": 70975,
+      "word": "每个当下都值得全情投入",
+      "onboard_time": 1754154381,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 4762,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754153387452,
+  "endTime": 1754155518251,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -907,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538982,
+      "num": 538982,
+      "word": "世界上最长的下巴",
+      "onboard_time": 1754149827,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 535420,
       "num": 535420,
       "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
@@ -977,14 +985,6 @@
       "onboard_time": 1754115443,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 508145,
-      "num": 508145,
-      "word": "世界上最长的下巴",
-      "onboard_time": 1754149827,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 504637,
@@ -1987,6 +1987,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 251825,
+      "num": 246329,
+      "word": "贾玲股四头肌",
+      "onboard_time": 1754151144,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250932,
       "num": 285748,
       "word": "30岁两个正常人婚后的真实生活",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1754004318,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 219080,
-      "num": 246329,
-      "word": "贾玲股四头肌",
-      "onboard_time": 1754151144,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 218719,
@@ -5347,12 +5347,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 125850,
+      "num": 214476,
+      "word": "店家回应彩民花69元中2.4亿元",
+      "onboard_time": 1754153302,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125697,
       "num": 125697,
       "word": "阿狸痛车痛了个大巴车",
       "onboard_time": 1754122582,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124658,
+      "num": 214325,
+      "word": "体检三大坑千万别被忽悠了",
+      "onboard_time": 1754153302,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 124651,
@@ -5939,6 +5955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111968,
+      "num": 237577,
+      "word": "王楚然被粉丝安慰的眼圈红了",
+      "onboard_time": 1754151444,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111591,
       "num": 213972,
       "word": "淮安球场停电",
@@ -6089,6 +6113,14 @@
       "onboard_time": 1754100861,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106128,
+      "num": 214433,
+      "word": "5个方法让周末不再无效休息",
+      "onboard_time": 1754153302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106122,
@@ -6387,14 +6419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96608,
-      "num": 214433,
-      "word": "5个方法让周末不再无效休息",
-      "onboard_time": 1754153302,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96157,
       "num": 96157,
       "word": "宋浩然独自带女儿回十堰办周岁宴",
@@ -6491,14 +6515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 92811,
-      "num": 214476,
-      "word": "店家回应彩民花69元中2.4亿元",
-      "onboard_time": 1754153302,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "孙颖莎捐赠物资抵达河北",
@@ -6587,14 +6603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 85545,
-      "num": 214325,
-      "word": "体检三大坑千万别被忽悠了",
-      "onboard_time": 1754153302,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 85055,
       "num": 363376,
       "word": "录取通知书里有经济困难申请表",
@@ -6625,14 +6633,6 @@
       "onboard_time": 1754002637,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83938,
-      "num": 237577,
-      "word": "王楚然被粉丝安慰的眼圈红了",
-      "onboard_time": 1754151444,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 83745,
@@ -6769,6 +6769,14 @@
       "onboard_time": 1754126242,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70999,
+      "num": 70999,
+      "word": "150w人围观的刷牙不吐泡沫教程",
+      "onboard_time": 1754153062,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 70852,
@@ -7137,6 +7145,14 @@
       "onboard_time": 1754128885,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47416,
+      "num": 70975,
+      "word": "每个当下都值得全情投入",
+      "onboard_time": 1754154381,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 46880,
