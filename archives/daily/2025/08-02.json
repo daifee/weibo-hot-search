@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754117543279,
+  "endTime": 1754119581872,
   "band_list": [
     {
       "raw_hot": 3874972,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1393198,
-      "num": 461319,
+      "num": 467409,
       "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
       "onboard_time": 1754101522,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1099522,
-      "num": 271796,
+      "num": 282877,
       "word": "低人一等座",
       "onboard_time": 1754105961,
       "rank": 37,
@@ -155,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617483,
+      "num": 617483,
+      "word": "真的建议钱要花在体验上",
+      "onboard_time": 1754114962,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 585585,
       "num": 411943,
       "word": "李咏女儿恋情",
       "onboard_time": 1754105241,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569459,
+      "num": 341767,
+      "word": "广西奔驰女的特权底气到底哪来的",
+      "onboard_time": 1754116102,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 564745,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 511371,
-      "num": 240447,
+      "num": 372404,
       "word": "时代峰峻禁止中控",
       "onboard_time": 1754115443,
       "rank": 14,
@@ -251,12 +267,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 408852,
-      "num": 228427,
-      "word": "真的建议钱要花在体验上",
-      "onboard_time": 1754114962,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 388357,
+      "num": 1006267,
+      "word": "马丽把沈腾假发片打掉了",
+      "onboard_time": 1754115562,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 384361,
@@ -267,20 +283,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 361302,
+      "num": 817250,
+      "word": "李维嘉说董璇像带了两个孩子",
+      "onboard_time": 1754117121,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354572,
       "num": 250554,
       "word": "7岁男孩求父母抛弃自己",
       "onboard_time": 1754107103,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345185,
-      "num": 345185,
-      "word": "马丽把沈腾假发片打掉了",
-      "onboard_time": 1754115562,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 328828,
@@ -321,6 +337,14 @@
       "onboard_time": 1754051482,
       "rank": 9,
       "category": "读书作家,电竞"
+    },
+    {
+      "raw_hot": 317526,
+      "num": 795725,
+      "word": "杨洋金晨 没有CP感",
+      "onboard_time": 1754118562,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 306001,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278656,
+      "num": 278656,
+      "word": "易烊千玺礐嶨的流沙票根好惊艳",
+      "onboard_time": 1754115022,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 278009,
       "num": 278009,
       "word": "官方通报奔驰司机亮证逼迫让路事件",
@@ -388,11 +420,19 @@
     },
     {
       "raw_hot": 268268,
-      "num": 268268,
+      "num": 965111,
       "word": "王楚钦帅气造型",
       "onboard_time": 1754115501,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264413,
+      "num": 264413,
+      "word": "凡人修仙传 曹骏",
+      "onboard_time": 1754115921,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 264148,
@@ -409,14 +449,6 @@
       "onboard_time": 1754106861,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 247153,
-      "num": 215617,
-      "word": "易烊千玺礐嶨的流沙票根好惊艳",
-      "onboard_time": 1754115022,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 246768,
@@ -483,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220913,
-      "num": 220913,
-      "word": "广西奔驰女的特权底气到底哪来的",
-      "onboard_time": 1754116102,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216040,
       "num": 216040,
       "word": "徐志胜我不想被脱口秀抛下",
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 210925,
-      "num": 175384,
+      "num": 206913,
       "word": "睡眠不足引发炎症",
       "onboard_time": 1754117001,
       "rank": 22,
@@ -579,6 +603,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199889,
+      "num": 199889,
+      "word": "包上恩这张脸演校花拿什么输",
+      "onboard_time": 1754118441,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196374,
+      "num": 196374,
+      "word": "余宇涵演唱会",
+      "onboard_time": 1754118742,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192624,
+      "num": 720514,
+      "word": "河北兴隆北京山谷项目3人遇难",
+      "onboard_time": 1754117241,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192368,
       "num": 235125,
       "word": "易烊千玺终将回到山的包裹中",
@@ -593,14 +641,6 @@
       "onboard_time": 1754116341,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189694,
-      "num": 189694,
-      "word": "李维嘉说董璇像带了两个孩子",
-      "onboard_time": 1754117121,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 189193,
@@ -665,14 +705,6 @@
       "onboard_time": 1754112743,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177091,
-      "num": 177091,
-      "word": "凡人修仙传 曹骏",
-      "onboard_time": 1754115921,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 176918,
@@ -779,20 +811,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161099,
-      "num": 161099,
-      "word": "河北兴隆北京山谷项目3人遇难",
-      "onboard_time": 1754117241,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160164,
       "num": 160164,
       "word": "第五人格ip联动",
       "onboard_time": 1754106861,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158665,
+      "num": 158665,
+      "word": "宋妍霏跳troublemaker美了马丽一大跳",
+      "onboard_time": 1754118983,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 158532,
@@ -1027,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136282,
+      "num": 648926,
+      "word": "西方各国为何忍不了以色列了",
+      "onboard_time": 1754112022,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136179,
       "num": 136179,
       "word": "歌手总决赛名单",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1754112622,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134930,
+      "num": 156515,
+      "word": "河北兴隆北京山谷项目3人遇难4人失联",
+      "onboard_time": 1754118381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134519,
@@ -1115,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131152,
+      "num": 131152,
+      "word": "孟子义带高寒勇闯内娱",
+      "onboard_time": 1754117663,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131067,
       "num": 131067,
       "word": "汪顺开心亲吻奖牌",
@@ -1123,19 +1179,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130315,
+      "num": 130315,
+      "word": "47岁孙燕姿拥抱飞奔过来的6岁女儿",
+      "onboard_time": 1754117001,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "SNH48香港演唱会",
       "onboard_time": 1754116522,
       "rank": 39,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 129479,
-      "num": 129479,
-      "word": "47岁孙燕姿拥抱飞奔过来的6岁女儿",
-      "onboard_time": 1754117001,
-      "rank": 33,
       "category": "演出"
     },
     {
@@ -1187,20 +1243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124190,
+      "num": 124190,
+      "word": "谢娜爸爸78岁如何呢正能闯",
+      "onboard_time": 1754119282,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124074,
       "num": 163078,
       "word": "中国奥委会发樊振东眼神照",
       "onboard_time": 1754116162,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123824,
-      "num": 123824,
-      "word": "西方各国为何忍不了以色列了",
-      "onboard_time": 1754112022,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123817,
@@ -1233,6 +1289,14 @@
       "onboard_time": 1754106922,
       "rank": 28,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 123325,
+      "num": 123325,
+      "word": "李莲花十年前后对比",
+      "onboard_time": 1754118920,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 123266,
@@ -1275,12 +1339,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116094,
+      "num": 155313,
+      "word": "河南一中学要求8月1日报到剪指定发型",
+      "onboard_time": 1754119223,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115585,
+      "num": 115585,
+      "word": "原来热暴力比冷暴力有用",
+      "onboard_time": 1754118202,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115281,
       "num": 219305,
       "word": "中国具象化的国泰民安火爆外网",
       "onboard_time": 1754108721,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113583,
+      "num": 113583,
+      "word": "狼队致歉声明",
+      "onboard_time": 1754118202,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 112286,
@@ -1353,6 +1441,22 @@
       "onboard_time": 1754100861,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103625,
+      "num": 103625,
+      "word": "四十七",
+      "onboard_time": 1754117602,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102725,
+      "num": 102725,
+      "word": "T1对战HLE",
+      "onboard_time": 1754119521,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 100755,
@@ -1497,6 +1601,14 @@
       "onboard_time": 1754060363,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82532,
+      "num": 151033,
+      "word": "刘轩丞暗爽哥",
+      "onboard_time": 1754117962,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 81987,
@@ -1683,6 +1795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61855,
+      "num": 232984,
+      "word": "荣耀平板在CJ现场成电子鸡蛋",
+      "onboard_time": 1754118501,
+      "rank": 19,
+      "category": "数码,游戏"
+    },
+    {
       "raw_hot": 60851,
       "num": 60851,
       "word": "山河无恙因有寸土不让",
@@ -1796,7 +1916,7 @@
     },
     {
       "raw_hot": 42997,
-      "num": 995377,
+      "num": 1066856,
       "word": "信息支援部队攻防演练首次公开",
       "onboard_time": 1754095461,
       "rank": 20,
@@ -1867,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33420,
+      "num": 114476,
+      "word": "孕妇地铁拒让座遭2老人辱骂",
+      "onboard_time": 1754119282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30103,
       "num": 30103,
       "word": "2025新加坡世界泳联世锦赛",
@@ -1880,6 +2008,14 @@
       "word": "网警发布维护防汛救灾网络秩序倡议书",
       "onboard_time": 1754104401,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29197,
+      "num": 113933,
+      "word": "奔驰亮证姐是公事公办还是仗势欺人",
+      "onboard_time": 1754119223,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
