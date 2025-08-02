@@ -1,0 +1,410 @@
+{
+  "runTime": 1754144769900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16953945,
+        "num": 16953945,
+        "word": "赵露思发文控诉",
+        "onboard_time": 1754139566,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1206707,
+        "num": 1206707,
+        "word": "豆瓣崩了",
+        "onboard_time": 1754141491,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2969,
+        "num": 971523,
+        "word": "上半年国内居民出游人次32.85亿",
+        "onboard_time": 1754037984,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1656759,
+        "num": 951310,
+        "word": "银河酷娱旗下艺人",
+        "onboard_time": 1754143589,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752567,
+        "num": 752567,
+        "word": "20岁女子遭已婚男友纠缠跳楼身亡",
+        "onboard_time": 1754139387,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370280,
+        "num": 370280,
+        "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
+        "onboard_time": 1754138545,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1627408,
+        "num": 362202,
+        "word": "难听",
+        "onboard_time": 1754138905,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1446522,
+        "num": 357365,
+        "word": "葛夕晒离婚证",
+        "onboard_time": 1754140232,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1252491,
+        "num": 343462,
+        "word": "银河酷娱",
+        "onboard_time": 1754130504,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329274,
+        "num": 329274,
+        "word": "上海警方通报外国人阻止吸烟起纠纷",
+        "onboard_time": 1754135603,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 10185373,
+        "num": 10185373,
+        "word": "赵露思 我不干了",
+        "onboard_time": 1754139806,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049862,
+        "num": 326094,
+        "word": "杨冰怡总选第一",
+        "onboard_time": 1754142631,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82038,
+        "num": 322205,
+        "word": "迪丽热巴健康气血美",
+        "onboard_time": 1754143770,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210732,
+        "num": 316861,
+        "word": "苏州0比3淮安",
+        "onboard_time": 1754142631,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231247,
+        "num": 314398,
+        "word": "被水泥块砸中身亡女子还不满21岁",
+        "onboard_time": 1754143409,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1028643,
+        "num": 311815,
+        "word": "SK卡卡 恋爱",
+        "onboard_time": 1754135424,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211894,
+        "num": 307925,
+        "word": "基孔肯雅热全球流行范围持续扩大",
+        "onboard_time": 1754137464,
+        "rank": 16,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 181516,
+        "num": 305632,
+        "word": "给奶奶点了将近一年的早餐",
+        "onboard_time": 1754131342,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179115,
+        "num": 301581,
+        "word": "12306客服回应高铁低人一等座",
+        "onboard_time": 1754143050,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176290,
+        "num": 298517,
+        "word": "苏超",
+        "onboard_time": 1754131882,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 921334,
+        "num": 295152,
+        "word": "易烊千玺好美",
+        "onboard_time": 1754143710,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 476828,
+        "num": 292431,
+        "word": "日本教授建议老年人自杀",
+        "onboard_time": 1754144069,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 443482,
+        "num": 291382,
+        "word": "97年出帅哥 79年出魔童",
+        "onboard_time": 1754134882,
+        "rank": 22,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 222698,
+        "num": 285748,
+        "word": "30岁两个正常人婚后的真实生活",
+        "onboard_time": 1754144010,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162890,
+        "num": 283500,
+        "word": "一家三口赶海1人失踪1人进ICU",
+        "onboard_time": 1754133024,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744388,
+        "num": 280917,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1754123781,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373919,
+        "num": 278337,
+        "word": "五月天嘉宾汪苏泷",
+        "onboard_time": 1754140170,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343069,
+        "num": 275619,
+        "word": "SNH48总选排名",
+        "onboard_time": 1754138905,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340164,
+        "num": 271918,
+        "word": "你好星期六预告",
+        "onboard_time": 1754138725,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269583,
+        "num": 269583,
+        "word": "IU宝剑结婚 钟硕那边我去说",
+        "onboard_time": 1754127983,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265252,
+        "num": 265252,
+        "word": "禹宙中欣",
+        "onboard_time": 1754129845,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260216,
+        "num": 260216,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1754131703,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243675,
+        "num": 243675,
+        "word": "吉克隽逸裙子好短边走边拉",
+        "onboard_time": 1754142091,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226362,
+        "num": 226362,
+        "word": "恋人剧组",
+        "onboard_time": 1754144429,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158126,
+        "num": 219980,
+        "word": "原来爆米花真的是一种花",
+        "onboard_time": 1754122882,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216201,
+        "num": 216201,
+        "word": "刘宇宁武汉演唱会",
+        "onboard_time": 1754132123,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200195,
+        "num": 216167,
+        "word": "爱豆侯明昊杀回来了",
+        "onboard_time": 1754142991,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50135,
+        "num": 215178,
+        "word": "女子海边游玩遭近200斤野猪突袭",
+        "onboard_time": 1754144248,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141857,
+        "num": 213756,
+        "word": "卡车司机服务区去世三天被发现",
+        "onboard_time": 1754143530,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38849,
+        "num": 213489,
+        "word": "姐姐和骗子通话13岁妹妹叫来110",
+        "onboard_time": 1754144429,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212661,
+        "num": 212661,
+        "word": "刘宇宁这怎么不算going",
+        "onboard_time": 1754144069,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193932,
+        "num": 212626,
+        "word": "年轮说原唱杨丞琳",
+        "onboard_time": 1754120722,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198972,
+        "num": 212600,
+        "word": "南京照相馆",
+        "onboard_time": 1754143230,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178222,
+        "num": 212590,
+        "word": "宋昕冉第二",
+        "onboard_time": 1754144550,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169902,
+        "num": 212518,
+        "word": "NCTWISH看张艺兴演唱会",
+        "onboard_time": 1754143169,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150432,
+        "num": 212510,
+        "word": "香奈儿还是太全面了",
+        "onboard_time": 1754144669,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149045,
+        "num": 212451,
+        "word": "徐州队2比1补时绝杀扬州队",
+        "onboard_time": 1754143896,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141089,
+        "num": 212430,
+        "word": "JDG对战AL",
+        "onboard_time": 1754142452,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131371,
+        "num": 212377,
+        "word": "王大雷红牌",
+        "onboard_time": 1754141612,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115017,
+        "num": 212357,
+        "word": "魔咒",
+        "onboard_time": 1754144731,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754142515212,
+  "endTime": 1754144769900,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1656759,
+      "num": 951310,
+      "word": "银河酷娱旗下艺人",
+      "onboard_time": 1754143589,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1568459,
       "num": 1568459,
       "word": "怎么不等微信下架再告诉我",
@@ -235,11 +243,27 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 1252491,
+      "num": 413889,
+      "word": "银河酷娱",
+      "onboard_time": 1754130504,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1217534,
       "num": 1217534,
       "word": "微信提现手续费下限调为0.01元",
       "onboard_time": 1754025143,
       "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1206707,
+      "num": 1206707,
+      "word": "豆瓣崩了",
+      "onboard_time": 1754141491,
+      "rank": 23,
       "category": "互联网"
     },
     {
@@ -331,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1049862,
+      "num": 326094,
+      "word": "杨冰怡总选第一",
+      "onboard_time": 1754142631,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049505,
       "num": 1049505,
       "word": "男孩错付车费轻生事件司机发声",
@@ -417,6 +449,14 @@
       "onboard_time": 1754049863,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 921334,
+      "num": 295152,
+      "word": "易烊千玺好美",
+      "onboard_time": 1754143710,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 909814,
@@ -555,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 752567,
+      "num": 752567,
+      "word": "20岁女子遭已婚男友纠缠跳楼身亡",
+      "onboard_time": 1754139387,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 748671,
       "num": 748671,
       "word": "男子每天喝500ml自己的胆汁救命",
@@ -640,14 +688,6 @@
       "word": "高以翔的狗狗去世了",
       "onboard_time": 1754023882,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 684737,
-      "num": 413889,
-      "word": "银河酷娱",
-      "onboard_time": 1754130504,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -835,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 539198,
-      "num": 539198,
-      "word": "20岁女子遭已婚男友纠缠跳楼身亡",
-      "onboard_time": 1754139387,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 535420,
       "num": 535420,
       "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1753964123,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476828,
+      "num": 292431,
+      "word": "日本教授建议老年人自杀",
+      "onboard_time": 1754144069,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 473752,
@@ -1515,14 +1555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 315563,
-      "num": 420264,
-      "word": "豆瓣崩了",
-      "onboard_time": 1754141491,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 314006,
       "num": 278656,
       "word": "易烊千玺礐嶨的流沙票根好惊艳",
@@ -1716,7 +1748,7 @@
     },
     {
       "raw_hot": 273136,
-      "num": 374600,
+      "num": 971523,
       "word": "上半年国内居民出游人次32.85亿",
       "onboard_time": 1754037984,
       "rank": 9,
@@ -1843,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260216,
+      "num": 260216,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1754131703,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257412,
       "num": 257412,
       "word": "公司约定的不缴社保无效",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1754137464,
       "rank": 9,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 252274,
-      "num": 215653,
-      "word": "张艺兴演唱会",
-      "onboard_time": 1754131703,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 250758,
@@ -1955,6 +1987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 243675,
+      "num": 243675,
+      "word": "吉克隽逸裙子好短边走边拉",
+      "onboard_time": 1754142091,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240276,
       "num": 301181,
       "word": "张馨予公司名叫捷捷高",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1754133263,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 231247,
+      "num": 314398,
+      "word": "被水泥块砸中身亡女子还不满21岁",
+      "onboard_time": 1754143409,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231018,
@@ -2123,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226362,
+      "num": 226362,
+      "word": "恋人剧组",
+      "onboard_time": 1754144429,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224324,
       "num": 208653,
       "word": "杨冰怡 空中见",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1754131342,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222698,
+      "num": 285748,
+      "word": "30岁两个正常人婚后的真实生活",
+      "onboard_time": 1754144010,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 222480,
@@ -2323,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212661,
+      "num": 212661,
+      "word": "刘宇宁这怎么不算going",
+      "onboard_time": 1754144069,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212513,
       "num": 212513,
       "word": "店员笑了两分钟才放进去",
@@ -2353,6 +2425,14 @@
       "onboard_time": 1754043324,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210732,
+      "num": 316861,
+      "word": "苏州0比3淮安",
+      "onboard_time": 1754142631,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 210653,
@@ -2619,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200195,
+      "num": 216167,
+      "word": "爱豆侯明昊杀回来了",
+      "onboard_time": 1754142991,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199278,
       "num": 199278,
       "word": "我从小到大都想成为的女性角色",
@@ -2635,20 +2723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198972,
+      "num": 212600,
+      "word": "南京照相馆",
+      "onboard_time": 1754012481,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198801,
       "num": 214683,
       "word": "粉雾海现场版",
       "onboard_time": 1754142091,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197440,
-      "num": 214546,
-      "word": "吉克隽逸裙子好短边走边拉",
-      "onboard_time": 1754142091,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 197205,
@@ -3075,6 +3163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179115,
+      "num": 301581,
+      "word": "12306客服回应高铁低人一等座",
+      "onboard_time": 1754143050,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178222,
+      "num": 212590,
+      "word": "宋昕冉第二",
+      "onboard_time": 1754144550,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178214,
       "num": 158557,
       "word": "杨博文陈浚铭报4中4",
@@ -3305,6 +3409,14 @@
       "onboard_time": 1754015301,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169902,
+      "num": 212518,
+      "word": "NCTWISH看张艺兴演唱会",
+      "onboard_time": 1754143169,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 169448,
@@ -3915,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150432,
+      "num": 212510,
+      "word": "香奈儿还是太全面了",
+      "onboard_time": 1754144669,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150240,
       "num": 150240,
       "word": "没有那么多必须拥有的必需品",
@@ -3977,6 +4097,14 @@
       "onboard_time": 1754129963,
       "rank": 30,
       "category": "动漫,民生新闻"
+    },
+    {
+      "raw_hot": 149045,
+      "num": 212451,
+      "word": "徐州队2比1补时绝杀扬州队",
+      "onboard_time": 1754143896,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 148875,
@@ -4195,6 +4323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141857,
+      "num": 213756,
+      "word": "卡车司机服务区去世三天被发现",
+      "onboard_time": 1754143530,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141816,
       "num": 141816,
       "word": "香蜜沉沉烬如霜开播7周年",
@@ -4233,6 +4369,14 @@
       "onboard_time": 1754009601,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141089,
+      "num": 213655,
+      "word": "JDG对战AL",
+      "onboard_time": 1754142452,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 141040,
@@ -5427,6 +5571,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 115017,
+      "num": 212357,
+      "word": "魔咒",
+      "onboard_time": 1754144731,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 114920,
       "num": 114920,
       "word": "丞磊的薄肌又来going我了",
@@ -5843,28 +5995,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101904,
-      "num": 213655,
-      "word": "JDG对战AL",
-      "onboard_time": 1754142452,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101547,
       "num": 270106,
       "word": "上汽奥迪A5L上赛首秀",
       "onboard_time": 1754030182,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 101127,
-      "num": 101127,
-      "word": "南京照相馆",
-      "onboard_time": 1754012481,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 100841,
@@ -6256,6 +6392,14 @@
       "word": "陈凯文rap",
       "onboard_time": 1753978282,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82038,
+      "num": 322205,
+      "word": "迪丽热巴健康气血美",
+      "onboard_time": 1754143770,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -6691,6 +6835,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 50135,
+      "num": 215178,
+      "word": "女子海边游玩遭近200斤野猪突袭",
+      "onboard_time": 1754144248,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49588,
       "num": 187287,
       "word": "孙杨受伤也不停练",
@@ -6849,6 +7001,14 @@
       "onboard_time": 1754113762,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38849,
+      "num": 213489,
+      "word": "姐姐和骗子通话13岁妹妹叫来110",
+      "onboard_time": 1754144429,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38519,
