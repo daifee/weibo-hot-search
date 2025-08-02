@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754139177707,
+  "endTime": 1754140118486,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1547,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6923526,
+      "num": 6923526,
+      "word": "赵露思发文控诉",
+      "onboard_time": 1754139566,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6912060,
       "num": 6912060,
       "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740125420,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3850210,
-      "num": 3850210,
-      "word": "自由点",
-      "onboard_time": 1742041168,
-      "rank": 4,
-      "category": "舆论监督"
     }
   ],
   "hotgov_list": [

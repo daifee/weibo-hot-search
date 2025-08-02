@@ -1,6 +1,6 @@
 {
   "startTime": 1754066186106,
-  "endTime": 1754139177707,
+  "endTime": 1754140118486,
   "band_list": [
     {
       "raw_hot": 9697965,
@@ -8,6 +8,14 @@
       "word": "赵露思艾特银河酷娱",
       "onboard_time": 1754126183,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6923526,
+      "num": 6923526,
+      "word": "赵露思发文控诉",
+      "onboard_time": 1754139566,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -51,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2684507,
+      "num": 256402,
+      "word": "赵露思 我不干了",
+      "onboard_time": 1754139806,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2132596,
       "num": 653376,
       "word": "易烊千玺演唱会",
@@ -81,6 +97,14 @@
       "onboard_time": 1754120722,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1670822,
+      "num": 297850,
+      "word": "难听",
+      "onboard_time": 1754138905,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 1400793,
@@ -243,6 +267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 652780,
+      "num": 252256,
+      "word": "你好星期六预告",
+      "onboard_time": 1754138725,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 636790,
+      "num": 246188,
+      "word": "SNH48总选排名",
+      "onboard_time": 1754138905,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632334,
       "num": 632334,
       "word": "男子还原奔驰女司机亮证逼迫让路过程",
@@ -265,6 +305,14 @@
       "onboard_time": 1754105241,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577419,
+      "num": 577419,
+      "word": "上海警方通报外国人阻止吸烟起纠纷",
+      "onboard_time": 1754135603,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 569459,
@@ -315,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530527,
+      "num": 299995,
+      "word": "好野啊千玺",
+      "onboard_time": 1754138663,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 526472,
       "num": 464256,
       "word": "青岛姑娘买下日本70万平方小岛",
@@ -329,14 +385,6 @@
       "onboard_time": 1754115443,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 507531,
-      "num": 507531,
-      "word": "上海警方通报外国人阻止吸烟起纠纷",
-      "onboard_time": 1754135603,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 501704,
@@ -467,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380242,
-      "num": 299995,
-      "word": "好野啊千玺",
-      "onboard_time": 1754138663,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 362649,
       "num": 324828,
       "word": "赵立坚发了张凌赫",
@@ -555,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320474,
+      "num": 249918,
+      "word": "阮经天 妈妈不在了就不过生日了",
+      "onboard_time": 1754138184,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319897,
       "num": 229009,
       "word": "内场第一排跟坐易烊千玺怀里有啥区别",
@@ -611,14 +659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 297850,
-      "num": 297850,
-      "word": "难听",
-      "onboard_time": 1754138905,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 295472,
       "num": 175874,
       "word": "Chinajoy",
@@ -649,14 +689,6 @@
       "onboard_time": 1754067140,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289459,
-      "num": 249918,
-      "word": "阮经天 妈妈不在了就不过生日了",
-      "onboard_time": 1754138184,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 282612,
@@ -691,14 +723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268338,
-      "num": 211583,
-      "word": "你好星期六预告",
-      "onboard_time": 1754138725,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268268,
       "num": 965111,
       "word": "王楚钦帅气造型",
@@ -715,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266524,
+      "num": 178226,
+      "word": "hi6",
+      "onboard_time": 1754138725,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264413,
       "num": 264413,
       "word": "凡人修仙传 曹骏",
@@ -729,6 +761,14 @@
       "onboard_time": 1754108302,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259837,
+      "num": 259837,
+      "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
+      "onboard_time": 1754138545,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 252274,
@@ -779,20 +819,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 240859,
+      "num": 300411,
+      "word": "基孔肯雅热全球流行范围持续扩大",
+      "onboard_time": 1754137464,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 236744,
       "num": 236744,
       "word": "徐帆辟谣与冯小刚离婚",
       "onboard_time": 1754123662,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236614,
-      "num": 178226,
-      "word": "hi6",
-      "onboard_time": 1754138725,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 236207,
@@ -827,14 +867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229702,
-      "num": 300411,
-      "word": "基孔肯雅热全球流行范围持续扩大",
-      "onboard_time": 1754137464,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 228883,
       "num": 228883,
       "word": "坚持早睡1个小时的身体变化",
@@ -857,6 +889,22 @@
       "onboard_time": 1754135784,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224574,
+      "num": 224574,
+      "word": "20岁女子遭已婚男友纠缠跳楼身亡",
+      "onboard_time": 1754139387,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224324,
+      "num": 188511,
+      "word": "杨冰怡 空中见",
+      "onboard_time": 1754130802,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 224208,
@@ -912,14 +960,6 @@
       "word": "银河酷娱",
       "onboard_time": 1754130504,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 211959,
-      "num": 175681,
-      "word": "SNH48总选排名",
-      "onboard_time": 1754138905,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1137,14 +1177,6 @@
       "onboard_time": 1754107041,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188511,
-      "num": 188511,
-      "word": "杨冰怡 空中见",
-      "onboard_time": 1754130802,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 188277,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1754089757,
       "rank": 30,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 165672,
+      "num": 150657,
+      "word": "王安宇音乐节",
+      "onboard_time": 1754139990,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 165479,
@@ -2347,6 +2387,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119368,
+      "num": 150321,
+      "word": "樊振东眼神再看仍震撼",
+      "onboard_time": 1754139686,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119064,
+      "num": 149847,
+      "word": "抗炎饮食建议多吃这些",
+      "onboard_time": 1754136383,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118982,
       "num": 118982,
       "word": "老人养老金被孩子刷走卡里只剩5块8",
@@ -2427,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112919,
+      "num": 149757,
+      "word": "云南玉昆4比4上海申花",
+      "onboard_time": 1754139686,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112286,
       "num": 112286,
       "word": "27岁学跳舞5个月的变化",
@@ -2481,14 +2545,6 @@
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 109712,
-      "num": 157349,
-      "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
-      "onboard_time": 1754138545,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108306,
@@ -2596,7 +2652,7 @@
     },
     {
       "raw_hot": 104685,
-      "num": 104685,
+      "num": 129243,
       "word": "泽连斯基称愿以最快速度推进和平",
       "onboard_time": 1754135362,
       "rank": 49,
@@ -2635,12 +2691,28 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 103109,
+      "num": 131244,
+      "word": "铃兰爸",
+      "onboard_time": 1754139806,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102406,
       "num": 102406,
       "word": "她是他的红尘劫",
       "onboard_time": 1754129363,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101916,
+      "num": 129431,
+      "word": "金价再度拉升",
+      "onboard_time": 1754139265,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 100755,
@@ -2753,6 +2825,14 @@
       "onboard_time": 1754043383,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94397,
+      "num": 127705,
+      "word": "佛山大型灭蚊灯光秀",
+      "onboard_time": 1754134402,
+      "rank": 48,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 93549,
@@ -3139,6 +3219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 54542,
+      "num": 150830,
+      "word": "驻日领馆要求日方严惩凶手",
+      "onboard_time": 1754137825,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54414,
       "num": 51941,
       "word": "深情眼",
@@ -3243,6 +3331,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 40829,
+      "num": 230324,
+      "word": "易烊千玺演唱会九号幸运粉丝",
+      "onboard_time": 1754138725,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39332,
       "num": 121935,
       "word": "每小时都有1名加沙儿童死亡",
@@ -3289,14 +3385,6 @@
       "onboard_time": 1754070316,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31761,
-      "num": 230324,
-      "word": "易烊千玺演唱会九号幸运粉丝",
-      "onboard_time": 1754138725,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 30103,
