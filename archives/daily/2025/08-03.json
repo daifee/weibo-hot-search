@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754231094909,
+  "endTime": 1754232267134,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1191741,
+      "num": 636259,
+      "word": "肖战 小城良方",
+      "onboard_time": 1754229686,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1147928,
       "num": 712742,
       "word": "赵露思说实在不行开个小面馆",
@@ -267,14 +275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 962723,
-      "num": 563251,
-      "word": "肖战 小城良方",
-      "onboard_time": 1754229686,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 913750,
       "num": 913750,
       "word": "民警上门未发现违法违规程序失当",
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 862925,
-      "num": 564504,
+      "num": 583409,
       "word": "鞠婧祎直播",
       "onboard_time": 1754224164,
       "rank": 7,
@@ -337,6 +337,14 @@
       "onboard_time": 1754198846,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 700652,
+      "num": 700652,
+      "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
+      "onboard_time": 1754230286,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 679974,
@@ -443,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 603344,
+      "num": 603344,
+      "word": "杨幂15年前的博文火了",
+      "onboard_time": 1754231546,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578746,
       "num": 578746,
       "word": "大妈偷外卖",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 565383,
-      "num": 565383,
+      "num": 638538,
       "word": "美国低收入家庭的晚餐",
       "onboard_time": 1754224464,
       "rank": 30,
@@ -579,6 +595,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 443250,
+      "num": 266115,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1754228125,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 440646,
       "num": 440646,
       "word": "原来12年前大家都想在27岁结婚",
@@ -603,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 429865,
-      "num": 266115,
-      "word": "杨清柠 王乐乐",
-      "onboard_time": 1754228125,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 408562,
       "num": 360548,
       "word": "王源直播",
@@ -625,6 +641,14 @@
       "onboard_time": 1754190803,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400284,
+      "num": 400284,
+      "word": "中国队15金12银10铜收官",
+      "onboard_time": 1754228784,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 397885,
@@ -771,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325141,
+      "num": 268909,
+      "word": "刘宇宁掐脖摇",
+      "onboard_time": 1754230765,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 318517,
       "num": 318517,
       "word": "保洁几乎将房子偷空用电驴运走",
@@ -793,14 +825,6 @@
       "onboard_time": 1754196145,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 306758,
-      "num": 306758,
-      "word": "中国队15金12银10铜收官",
-      "onboard_time": 1754228784,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 305360,
@@ -907,20 +931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274862,
-      "num": 274862,
-      "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
-      "onboard_time": 1754230286,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274754,
       "num": 254736,
       "word": "气血不足最怕这6个动作",
       "onboard_time": 1754228605,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 273171,
+      "num": 273171,
+      "word": "歌手帮唱",
+      "onboard_time": 1754231306,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 267367,
@@ -1059,12 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222684,
+      "num": 186114,
+      "word": "蒲熠星新歌",
+      "onboard_time": 1754230046,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221753,
       "num": 221753,
       "word": "看完易烊千玺演唱会有1.4了",
       "onboard_time": 1754221944,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 219060,
+      "num": 234138,
+      "word": "中俄海上舰艇编队将举行为期3天演练",
+      "onboard_time": 1754228784,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 218988,
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196558,
+      "num": 186248,
+      "word": "华晨宇音乐节",
+      "onboard_time": 1754229986,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196459,
       "num": 196459,
       "word": "花3万改造哈利波特的楼梯间",
@@ -1211,20 +1259,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 195714,
-      "num": 268909,
-      "word": "刘宇宁掐脖摇",
-      "onboard_time": 1754230765,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193284,
       "num": 193284,
       "word": "真的不建议单手摘眼镜",
       "onboard_time": 1754221584,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192331,
+      "num": 214184,
+      "word": "南京照相馆",
+      "onboard_time": 1754143230,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 191192,
@@ -1307,28 +1355,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186248,
-      "num": 186248,
-      "word": "华晨宇音乐节",
-      "onboard_time": 1754229986,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 186129,
       "num": 186129,
       "word": "刘忻抽卡",
       "onboard_time": 1754187081,
       "rank": 24,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 186114,
-      "num": 186114,
-      "word": "蒲熠星新歌",
-      "onboard_time": 1754230046,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 185328,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1754191764,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176711,
+      "num": 176711,
+      "word": "张艺兴喊俺老孙在此",
+      "onboard_time": 1754231605,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 176389,
@@ -1803,6 +1843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148798,
+      "num": 145485,
+      "word": "成龙说文俊辉是大漂亮",
+      "onboard_time": 1754229146,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 148447,
+      "num": 177537,
+      "word": "马小跳背叛我了",
+      "onboard_time": 1754231546,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147754,
       "num": 147754,
       "word": "成毅演唱天涯别有一番韵味",
@@ -1841,14 +1897,6 @@
       "onboard_time": 1754230223,
       "rank": 38,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 145485,
-      "num": 145485,
-      "word": "成龙说文俊辉是大漂亮",
-      "onboard_time": 1754229146,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 145230,
@@ -1947,6 +1995,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 142581,
+      "num": 145509,
+      "word": "教授论文称汉谟拉比与商汤是同一人",
+      "onboard_time": 1754231004,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 142354,
       "num": 241455,
       "word": "IU宝剑结婚 钟硕那边我去说",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1754205025,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140257,
+      "num": 118773,
+      "word": "鹿晗你竟然耍我",
+      "onboard_time": 1754232085,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 139118,
@@ -2097,6 +2161,14 @@
       "onboard_time": 1754209344,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134751,
+      "num": 134751,
+      "word": "宿迁0比1不敌无锡",
+      "onboard_time": 1754231486,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 133912,
@@ -2233,14 +2305,6 @@
       "onboard_time": 1754224345,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128202,
-      "num": 234138,
-      "word": "中俄海上舰艇编队将举行为期3天演练",
-      "onboard_time": 1754228784,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127841,
@@ -2425,6 +2489,14 @@
       "onboard_time": 1754206285,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120439,
+      "num": 120439,
+      "word": "中国队金牌奖牌双第一",
+      "onboard_time": 1754232145,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 120429,
@@ -2827,14 +2899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96719,
-      "num": 145509,
-      "word": "教授论文称汉谟拉比与商汤是同一人",
-      "onboard_time": 1754231004,
-      "rank": 39,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 96373,
       "num": 96373,
       "word": "奔驰女司机丈夫或面临相应政务处分",
@@ -3163,14 +3227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72005,
-      "num": 214184,
-      "word": "南京照相馆",
-      "onboard_time": 1754143230,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 71956,
       "num": 71956,
       "word": "赵心童遭6连鞭",
@@ -3281,6 +3337,14 @@
       "onboard_time": 1754177298,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63055,
+      "num": 120224,
+      "word": "北京明天全市大雨局地暴雨",
+      "onboard_time": 1754231965,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60677,
@@ -3563,8 +3627,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5925,
-      "num": 604433,
+      "raw_hot": 8098,
+      "num": 700796,
       "word": "无人机蜂群与机器狼协同作战演习",
       "onboard_time": 1754181081,
       "rank": 2,
