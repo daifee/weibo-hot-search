@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754243108837,
+  "endTime": 1754246288603,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -3833,6 +3833,14 @@
       "onboard_time": 1754178260,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26543,
+      "num": 30817,
+      "word": "莫迪呼吁印度人买国货",
+      "onboard_time": 1754243717,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26529,

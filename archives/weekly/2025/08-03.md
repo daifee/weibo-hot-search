@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 01:45:08
+本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 02:38:08
 </p>
 </blockquote>
 <p>
@@ -2885,6 +2885,12 @@ se神画斩业星熊了（热度：36654）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8B%92%E5%85%8B%E8%8E%B1%E5%B0%94%E5%A4%BAF1%E5%8C%88%E7%89%99%E5%88%A9%E7%AB%99%E6%9D%86%E4%BD%8D%23" target="weibo">
 勒克莱尔夺F1匈牙利站杆位（热度：28903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E5%91%BC%E5%90%81%E5%8D%B0%E5%BA%A6%E4%BA%BA%E4%B9%B0%E5%9B%BD%E8%B4%A7%23" target="weibo">
+莫迪呼吁印度人买国货（热度：26543）
 </a>
 </li>
 

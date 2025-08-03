@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/04 00:33:25 ~ 2025/08/04 01:45:08
+本榜单时间：2025/08/04 00:33:25 ~ 2025/08/04 02:38:08
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ Shad0w预测BLG连胜至常规赛结束（热度：88568）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%96%8A%E4%BF%BA%E8%80%81%E5%AD%99%E5%9C%A8%E6%AD%A4%23" target="weibo">
 张艺兴喊俺老孙在此（热度：38970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%BF%AA%E5%91%BC%E5%90%81%E5%8D%B0%E5%BA%A6%E4%BA%BA%E4%B9%B0%E5%9B%BD%E8%B4%A7%23" target="weibo">
+莫迪呼吁印度人买国货（热度：26543）
 </a>
 </li>
 
