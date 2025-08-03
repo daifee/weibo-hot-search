@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754260072216,
+  "endTime": 1754261163496,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -67,8 +67,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 434072,
-      "num": 434072,
+      "raw_hot": 448154,
+      "num": 448154,
       "word": "全球贸易史上迎来黑暗一天",
       "onboard_time": 1754234544,
       "rank": 13,
@@ -235,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113327,
+      "num": 113327,
+      "word": "男子杀害7个月大侄女无精神病症状",
+      "onboard_time": 1754238981,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110272,
       "num": 110272,
       "word": "刘宇宁演唱会四大名著",
@@ -299,8 +307,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101005,
-      "num": 101005,
+      "raw_hot": 101686,
+      "num": 101686,
       "word": "被骗缅甸获救高考生将学医学类专业",
       "onboard_time": 1754253074,
       "rank": 36,
@@ -403,20 +411,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 72338,
-      "num": 72338,
-      "word": "男子杀害7个月大侄女无精神病症状",
-      "onboard_time": 1754238981,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70689,
       "num": 79638,
       "word": "任重孙骁骁带孩子逛商场",
       "onboard_time": 1754226385,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62775,
+      "num": 62775,
+      "word": "赵露思工作室运营权",
+      "onboard_time": 1754248216,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59450,
+      "num": 59450,
+      "word": "国航被泼热水旅客称赔1万变500",
+      "onboard_time": 1754258595,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59319,
@@ -435,12 +451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49352,
-      "num": 49352,
-      "word": "赵露思工作室运营权",
-      "onboard_time": 1754248216,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 42797,
+      "num": 50410,
+      "word": "以色列爆发全国性抗议",
+      "onboard_time": 1754223864,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41053,
@@ -451,14 +467,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 39134,
-      "num": 50410,
-      "word": "以色列爆发全国性抗议",
-      "onboard_time": 1754223864,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38970,
       "num": 50409,
       "word": "张艺兴喊俺老孙在此",
@@ -467,20 +475,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31331,
-      "num": 31331,
-      "word": "国航被泼热水旅客称赔1万变500",
-      "onboard_time": 1754258595,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 36252,
+      "num": 36252,
+      "word": "喝柠檬水能抗癌是真是假",
+      "onboard_time": 1754259495,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 30492,
-      "num": 30492,
+      "raw_hot": 31891,
+      "num": 31891,
       "word": "美国女警疑似意外接触芬太尼后抽搐",
       "onboard_time": 1754246655,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27476,
+      "num": 30488,
+      "word": "晚晚为什么站在框里",
+      "onboard_time": 1754253974,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 26543,
@@ -507,28 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21110,
-      "num": 26854,
-      "word": "晚晚为什么站在框里",
-      "onboard_time": 1754253974,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 19001,
       "num": 21006,
       "word": "贺峻霖说自己战术在大气层了",
       "onboard_time": 1754249294,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17810,
-      "num": 26844,
-      "word": "喝柠檬水能抗癌是真是假",
-      "onboard_time": 1754259495,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15505,
