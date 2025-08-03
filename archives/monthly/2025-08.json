@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754220302696,
+  "endTime": 1754221274265,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1145342,
+      "num": 1095263,
+      "word": "管乐的家乱的让人震撼",
+      "onboard_time": 1754217623,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1142161,
       "num": 1155677,
       "word": "网传亮证司机是公安局领导不实",
@@ -481,6 +489,14 @@
       "onboard_time": 1754026402,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1075265,
+      "num": 1075265,
+      "word": "台风白鹿已生成",
+      "onboard_time": 1754218704,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1075024,
@@ -667,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 870753,
-      "num": 870753,
-      "word": "管乐的家乱的让人震撼",
-      "onboard_time": 1754217623,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 885745,
+      "num": 885745,
+      "word": "巨型天牛现身哀牢山",
+      "onboard_time": 1754216543,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 869698,
@@ -689,14 +705,6 @@
       "onboard_time": 1754029342,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 866102,
-      "num": 866102,
-      "word": "巨型天牛现身哀牢山",
-      "onboard_time": 1754216543,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 847093,
@@ -857,14 +865,6 @@
       "onboard_time": 1754118562,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 745148,
-      "num": 745148,
-      "word": "台风白鹿已生成",
-      "onboard_time": 1754218704,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 739156,
@@ -1571,6 +1571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 432635,
+      "num": 432635,
+      "word": "一个亿有多少",
+      "onboard_time": 1754217684,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425168,
       "num": 425168,
       "word": "曹格回应Joe用自己的歌官宣恋情",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1754115562,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387929,
+      "num": 387929,
+      "word": "情侣旅游发生车祸死里逃生后领证",
+      "onboard_time": 1754218523,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 387273,
@@ -1891,6 +1907,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 348262,
+      "num": 348262,
+      "word": "中国队无缘男子10米台奖牌",
+      "onboard_time": 1754219845,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347595,
       "num": 362097,
       "word": "谷歌辟谣恢复中国大陆地区服务",
@@ -1987,14 +2011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332707,
-      "num": 332707,
-      "word": "一个亿有多少",
-      "onboard_time": 1754217684,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332398,
       "num": 254288,
       "word": "宗馥莉方律师称应更关注杭州案子",
@@ -2041,14 +2057,6 @@
       "onboard_time": 1754013982,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 329712,
-      "num": 329712,
-      "word": "情侣旅游发生车祸死里逃生后领证",
-      "onboard_time": 1754218523,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 328828,
@@ -3081,6 +3089,14 @@
       "onboard_time": 1754055024,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217634,
+      "num": 217634,
+      "word": "何运晨 娱乐圈普法宣传官",
+      "onboard_time": 1754220204,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 217342,
@@ -4395,14 +4411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173470,
-      "num": 173470,
-      "word": "中国队无缘男子10米台奖牌",
-      "onboard_time": 1754219845,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173193,
       "num": 173193,
       "word": "Rapeter严浩翔合影",
@@ -4969,6 +4977,14 @@
       "onboard_time": 1754193087,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159175,
+      "num": 159175,
+      "word": "易烊千玺 我们见面有那么重要吗",
+      "onboard_time": 1754220685,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 159028,
@@ -6611,6 +6627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129337,
+      "num": 129337,
+      "word": "敬山水",
+      "onboard_time": 1754221102,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 129283,
       "num": 129283,
       "word": "李艺彤罗予彤旅行没告诉李晟",
@@ -6720,6 +6744,14 @@
       "word": "十余省份雨雨雨雨雨雨雨",
       "onboard_time": 1754095521,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127052,
+      "num": 127052,
+      "word": "21岁大专女孩成中国唯一女烘焙冠军",
+      "onboard_time": 1754218523,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -7195,6 +7227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119731,
+      "num": 119731,
+      "word": "李艺彤解释二次元黑话",
+      "onboard_time": 1754220804,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119643,
       "num": 119643,
       "word": "凡人修仙传 意识流双修",
@@ -7667,6 +7707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110872,
+      "num": 110872,
+      "word": "有点小钱之后配得感变高了",
+      "onboard_time": 1754219603,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110442,
       "num": 110442,
       "word": "致敬人民子弟兵的守护",
@@ -7676,7 +7724,7 @@
     },
     {
       "raw_hot": 110171,
-      "num": 955431,
+      "num": 1095841,
       "word": "高温暴雨强对流3预警齐发",
       "onboard_time": 1754200105,
       "rank": 49,
@@ -7697,6 +7745,14 @@
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 108864,
+      "num": 108864,
+      "word": "母子五人在英国被安置在集装箱",
+      "onboard_time": 1754220204,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108306,
@@ -7827,14 +7883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105299,
-      "num": 105299,
-      "word": "21岁大专女孩成中国唯一女烘焙冠军",
-      "onboard_time": 1754218523,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105014,
       "num": 105014,
       "word": "汪顺回应男子混接无缘决赛",
@@ -7849,14 +7897,6 @@
       "onboard_time": 1754133263,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104888,
-      "num": 104888,
-      "word": "母子五人在英国被安置在集装箱",
-      "onboard_time": 1754220204,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 104857,
@@ -7883,6 +7923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104591,
+      "num": 104591,
+      "word": "龚俊这段正的发邪",
+      "onboard_time": 1754220745,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104492,
       "num": 104492,
       "word": "重温刘雨辰赛场求婚黄雅琼",
@@ -7897,6 +7945,14 @@
       "onboard_time": 1754031441,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 104216,
+      "num": 104216,
+      "word": "朱易成年组短节目第一",
+      "onboard_time": 1754220385,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 104086,
@@ -8139,6 +8195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97767,
+      "num": 97767,
+      "word": "男子单人10米跳台无缘金牌",
+      "onboard_time": 1754220804,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97531,
       "num": 97531,
       "word": "正在安慰女朋友的猫咪",
@@ -8209,14 +8273,6 @@
       "onboard_time": 1754055802,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96667,
-      "num": 96667,
-      "word": "何运晨 娱乐圈普法宣传官",
-      "onboard_time": 1754220204,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 96664,
@@ -8329,6 +8385,14 @@
       "onboard_time": 1754211085,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 94119,
+      "num": 389465,
+      "word": "35岁女生7年2次直面晚期癌症",
+      "onboard_time": 1754218583,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94006,
@@ -8529,6 +8593,14 @@
       "onboard_time": 1754176817,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87286,
+      "num": 283086,
+      "word": "苏超盐城vs常州",
+      "onboard_time": 1754220745,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 86485,
@@ -9097,6 +9169,14 @@
       "onboard_time": 1753973664,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58401,
+      "num": 283542,
+      "word": "为什么说电池寿命就是电车寿命",
+      "onboard_time": 1754220745,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 58304,

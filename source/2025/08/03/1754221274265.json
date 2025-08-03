@@ -1,0 +1,410 @@
+{
+  "runTime": 1754221274265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310103,
+        "num": 1310103,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1118546,
+        "num": 1118546,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1754215345,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88288,
+        "num": 1095841,
+        "word": "高温暴雨强对流3预警齐发",
+        "onboard_time": 1754200105,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1145342,
+        "num": 1095263,
+        "word": "管乐的家乱的让人震撼",
+        "onboard_time": 1754217623,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1075265,
+        "num": 1075265,
+        "word": "台风白鹿已生成",
+        "onboard_time": 1754218704,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885745,
+        "num": 885745,
+        "word": "巨型天牛现身哀牢山",
+        "onboard_time": 1754216543,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 579222,
+        "num": 579222,
+        "word": "TOP 海口",
+        "onboard_time": 1754218223,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 528441,
+        "num": 528441,
+        "word": "广东新增2892例基孔肯雅热本地病例",
+        "onboard_time": 1754215703,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432635,
+        "num": 432635,
+        "word": "一个亿有多少",
+        "onboard_time": 1754217684,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94119,
+        "num": 389465,
+        "word": "35岁女生7年2次直面晚期癌症",
+        "onboard_time": 1754218583,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549486,
+        "num": 388985,
+        "word": "赵露思说实在不行开个小面馆",
+        "onboard_time": 1754213305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387929,
+        "num": 387929,
+        "word": "情侣旅游发生车祸死里逃生后领证",
+        "onboard_time": 1754218523,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374081,
+        "num": 374081,
+        "word": "汤唯撕了我拍的撕拉片",
+        "onboard_time": 1754212704,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348262,
+        "num": 348262,
+        "word": "中国队无缘男子10米台奖牌",
+        "onboard_time": 1754219845,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291522,
+        "num": 291522,
+        "word": "成龙收到了阿祖面具版labubu",
+        "onboard_time": 1754216303,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286479,
+        "num": 286479,
+        "word": "白马山失联5人均已遇难",
+        "onboard_time": 1754209944,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 277931,
+        "num": 285982,
+        "word": "87版西游记如来佛扮演者去世",
+        "onboard_time": 1754206403,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243282,
+        "num": 284736,
+        "word": "赵丽颖刘昊然 九重天",
+        "onboard_time": 1754211024,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58401,
+        "num": 283542,
+        "word": "为什么说电池寿命就是电车寿命",
+        "onboard_time": 1754220745,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87286,
+        "num": 283086,
+        "word": "苏超盐城vs常州",
+        "onboard_time": 1754220745,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282318,
+        "num": 282318,
+        "word": "仙逆",
+        "onboard_time": 1754217384,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 281617,
+        "num": 281617,
+        "word": "保洁几乎将房子偷空用电驴运走",
+        "onboard_time": 1754217263,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233914,
+        "num": 233914,
+        "word": "战至巅峰直播",
+        "onboard_time": 1754211265,
+        "rank": 22,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 217634,
+        "num": 217634,
+        "word": "何运晨 娱乐圈普法宣传官",
+        "onboard_time": 1754220204,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194597,
+        "num": 194597,
+        "word": "多家航司去高跟鞋化自选裤装",
+        "onboard_time": 1754217443,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173778,
+        "num": 173778,
+        "word": "丈夫发现亡妻生前转账已婚男93万",
+        "onboard_time": 1754218884,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160757,
+        "num": 160757,
+        "word": "被骗缅甸男生获救后收到录取通知书",
+        "onboard_time": 1754214984,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159175,
+        "num": 159175,
+        "word": "易烊千玺 我们见面有那么重要吗",
+        "onboard_time": 1754220685,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154975,
+        "num": 154975,
+        "word": "长期独居的后遗症",
+        "onboard_time": 1754214742,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134284,
+        "num": 134284,
+        "word": "孙怡 又不是没有受过伤",
+        "onboard_time": 1754217204,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2319789,
+        "num": 134275,
+        "word": "银河酷娱取关了赵露思",
+        "onboard_time": 1754214563,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136108,
+        "num": 134035,
+        "word": "情绪化发言没有任何好处",
+        "onboard_time": 1754214203,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133636,
+        "num": 133636,
+        "word": "跳水",
+        "onboard_time": 1754218643,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132316,
+        "num": 132316,
+        "word": "侯明昊后台换衣被直播了",
+        "onboard_time": 1754212823,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129337,
+        "num": 129337,
+        "word": "敬山水",
+        "onboard_time": 1754221102,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 127052,
+        "num": 127052,
+        "word": "21岁大专女孩成中国唯一女烘焙冠军",
+        "onboard_time": 1754218523,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120764,
+        "num": 120764,
+        "word": "小区卖盒饭一天收入580元",
+        "onboard_time": 1754214563,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119731,
+        "num": 119731,
+        "word": "李艺彤解释二次元黑话",
+        "onboard_time": 1754220804,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116496,
+        "num": 116496,
+        "word": "花海夸时代少年团",
+        "onboard_time": 1754220142,
+        "rank": 38,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 115492,
+        "num": 115492,
+        "word": "陈都灵上海",
+        "onboard_time": 1754215345,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113524,
+        "num": 113524,
+        "word": "阿姨吹一周空调严重呼吸衰竭",
+        "onboard_time": 1754212344,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111379,
+        "num": 111379,
+        "word": "定风波男主",
+        "onboard_time": 1754202442,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111063,
+        "num": 111063,
+        "word": "体检时留尿要等1秒钟",
+        "onboard_time": 1754213543,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110872,
+        "num": 110872,
+        "word": "有点小钱之后配得感变高了",
+        "onboard_time": 1754219603,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108864,
+        "num": 108864,
+        "word": "母子五人在英国被安置在集装箱",
+        "onboard_time": 1754220204,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105737,
+        "num": 105737,
+        "word": "疑似秦奋投诉韦雪",
+        "onboard_time": 1754206704,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104591,
+        "num": 104591,
+        "word": "龚俊这段正的发邪",
+        "onboard_time": 1754220745,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104216,
+        "num": 104216,
+        "word": "朱易成年组短节目第一",
+        "onboard_time": 1754220385,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99836,
+        "num": 99836,
+        "word": "王楚然麻花辫民国女学生",
+        "onboard_time": 1754219483,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97767,
+        "num": 97767,
+        "word": "男子单人10米跳台无缘金牌",
+        "onboard_time": 1754220804,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
