@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 04:30:35
+本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 04:44:43
 </p>
 </blockquote>
 <p>
@@ -2848,7 +2848,7 @@ Shanks AL也回来了（热度：63169）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%90%E8%90%A5%E6%9D%83%23" target="weibo">
-赵露思工作室运营权（热度：41369）
+赵露思工作室运营权（热度：43437）
 </a>
 </li>
 
@@ -2987,6 +2987,12 @@ Scout状态（热度：14633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%93%AE%E4%BA%AE%E5%B7%A1%E6%BC%94%23" target="weibo">
 王铮亮巡演（热度：13354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E8%8E%B7%E6%95%91%E9%AB%98%E8%80%83%E7%94%9F%E5%B0%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E7%B1%BB%E4%B8%93%E4%B8%9A%23" target="weibo">
+被骗缅甸获救高考生将学医学类专业（热度：10622）
 </a>
 </li>
 

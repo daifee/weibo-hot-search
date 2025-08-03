@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754253035042,
+  "endTime": 1754253883802,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -3779,8 +3779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41369,
-      "num": 38210,
+      "raw_hot": 43437,
+      "num": 43437,
       "word": "赵露思工作室运营权",
       "onboard_time": 1754248216,
       "rank": 42,
@@ -3969,6 +3969,14 @@
       "onboard_time": 1754165954,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10622,
+      "num": 18785,
+      "word": "被骗缅甸获救高考生将学医学类专业",
+      "onboard_time": 1754253074,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8549,

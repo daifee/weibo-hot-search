@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754253035042,
+  "endTime": 1754253883802,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -10419,6 +10419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43437,
+      "num": 43437,
+      "word": "赵露思工作室运营权",
+      "onboard_time": 1754248216,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43222,
       "num": 41029,
       "word": "我可以在商场的负一层过完一生",
@@ -10489,14 +10497,6 @@
       "onboard_time": 1753963043,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41369,
-      "num": 38210,
-      "word": "赵露思工作室运营权",
-      "onboard_time": 1754248216,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 41013,
@@ -11001,6 +11001,14 @@
       "onboard_time": 1753993154,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10622,
+      "num": 18785,
+      "word": "被骗缅甸获救高考生将学医学类专业",
+      "onboard_time": 1754253074,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9245,
