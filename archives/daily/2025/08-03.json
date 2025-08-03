@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754199261799,
+  "endTime": 1754200259443,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -91,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1155848,
-      "num": 1155848,
+      "raw_hot": 1244131,
+      "num": 1244131,
       "word": "7月电费",
       "onboard_time": 1754192906,
       "rank": 4,
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 700893,
+      "num": 344418,
+      "word": "考公人在公示期嘴有多严",
+      "onboard_time": 1754198846,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 679974,
       "num": 679974,
       "word": "妹妹以姐姐已出嫁为由争夺46万遗产",
@@ -243,8 +251,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562096,
+      "num": 562096,
+      "word": "灵隐寺的辣椒 出家人不打诳语",
+      "onboard_time": 1754195727,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 560464,
-      "num": 452992,
+      "num": 492071,
       "word": "倪萍说董璇不应该结婚",
       "onboard_time": 1754194705,
       "rank": 14,
@@ -267,28 +283,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 463787,
-      "num": 176997,
-      "word": "考公人在公示期嘴有多严",
-      "onboard_time": 1754198846,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 463048,
       "num": 657799,
       "word": "蝶恋原唱经纪人回应年轮被质疑抄袭",
       "onboard_time": 1754177479,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 453746,
-      "num": 453746,
-      "word": "灵隐寺的辣椒 出家人不打诳语",
-      "onboard_time": 1754195727,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 440646,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 330800,
+      "num": 330800,
+      "word": "许允真说Labubu不好看",
+      "onboard_time": 1754198485,
+      "rank": 28,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 326928,
       "num": 249152,
       "word": "许我耀眼",
@@ -387,12 +395,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 276412,
+      "raw_hot": 285141,
       "num": 276412,
       "word": "刘宇宁说有时候真的干够了",
       "onboard_time": 1754197163,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 282226,
+      "num": 395392,
+      "word": "这几天不是热热热就是雨雨雨",
+      "onboard_time": 1754198723,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275658,
@@ -451,14 +467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 234228,
-      "num": 395392,
-      "word": "这几天不是热热热就是雨雨雨",
-      "onboard_time": 1754198723,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "日本考虑限制75岁以上老人ATM机取款",
@@ -473,6 +481,22 @@
       "onboard_time": 1754191703,
       "rank": 25,
       "category": "读书作家,电竞"
+    },
+    {
+      "raw_hot": 222669,
+      "num": 222669,
+      "word": "广西梧州一居民楼发生火灾致5死",
+      "onboard_time": 1754199865,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216973,
+      "num": 216973,
+      "word": "柯淳进组炽夏",
+      "onboard_time": 1754198305,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 203349,
@@ -497,6 +521,14 @@
       "onboard_time": 1754193506,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196459,
+      "num": 196459,
+      "word": "花3万改造哈利波特的楼梯间",
+      "onboard_time": 1754199323,
+      "rank": 26,
+      "category": "休闲"
     },
     {
       "raw_hot": 190018,
@@ -547,12 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181821,
-      "num": 181821,
-      "word": "许允真说Labubu不好看",
-      "onboard_time": 1754198485,
-      "rank": 28,
-      "category": "艺人,动漫"
+      "raw_hot": 184478,
+      "num": 184478,
+      "word": "走路10分钟身体就开始变化",
+      "onboard_time": 1754195785,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 180383,
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180211,
+      "num": 180211,
+      "word": "小鬼王琳凯到底给多少人写了歌",
+      "onboard_time": 1754195905,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177952,
       "num": 252853,
       "word": "被水泥块砸中身亡女子还不满21岁",
@@ -571,28 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177346,
-      "num": 177346,
-      "word": "柯淳进组炽夏",
-      "onboard_time": 1754198305,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176998,
       "num": 176998,
       "word": "孟子义认出了李昀锐",
       "onboard_time": 1754191764,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176421,
-      "num": 176421,
-      "word": "小鬼王琳凯到底给多少人写了歌",
-      "onboard_time": 1754195905,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 176389,
@@ -635,6 +659,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 173740,
+      "num": 173740,
+      "word": "尚雯婕真信这当初就不会选华晨宇了",
+      "onboard_time": 1754199684,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171481,
       "num": 175784,
       "word": "基孔肯雅热后遗症告知书",
@@ -657,6 +689,14 @@
       "onboard_time": 1754198183,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165102,
+      "num": 165102,
+      "word": "迪丽热巴金世佳对手戏太自然了",
+      "onboard_time": 1754199984,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 164506,
@@ -691,14 +731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160543,
-      "num": 160543,
-      "word": "走路10分钟身体就开始变化",
-      "onboard_time": 1754195785,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 159435,
       "num": 159435,
       "word": "黄子韬带新人rapper上hi6舞台了",
@@ -729,6 +761,14 @@
       "onboard_time": 1754129845,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152563,
+      "num": 185873,
+      "word": "亮证女报警称怀疑车辆被套牌",
+      "onboard_time": 1754198245,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151553,
@@ -771,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143626,
+      "num": 143626,
+      "word": "汪顺潘展乐覃海洋徐放预赛第9",
+      "onboard_time": 1754198125,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142354,
       "num": 241455,
       "word": "IU宝剑结婚 钟硕那边我去说",
@@ -787,12 +835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139586,
-      "num": 139586,
-      "word": "汪顺潘展乐覃海洋徐放预赛第9",
-      "onboard_time": 1754198125,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 140610,
+      "num": 140610,
+      "word": "陈星旭我不落寞了我在罗马了",
+      "onboard_time": 1754199204,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 139118,
@@ -841,6 +889,14 @@
       "onboard_time": 1754145331,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131033,
+      "num": 131033,
+      "word": "严浩翔Rapeter共脑了",
+      "onboard_time": 1754199505,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 130031,
@@ -939,12 +995,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124841,
-      "num": 124841,
-      "word": "陈星旭我不落寞了我在罗马了",
-      "onboard_time": 1754199204,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 124863,
+      "num": 124863,
+      "word": "伯伯不ins字儿",
+      "onboard_time": 1754196685,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 123591,
@@ -1075,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110171,
+      "num": 110171,
+      "word": "高温暴雨强对流3预警齐发",
+      "onboard_time": 1754200105,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110071,
       "num": 240719,
       "word": "30岁两个正常人婚后的真实生活",
@@ -1161,14 +1225,6 @@
       "onboard_time": 1754183482,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93794,
-      "num": 185873,
-      "word": "亮证女报警称怀疑车辆被套牌",
-      "onboard_time": 1754198245,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93309,
@@ -1491,6 +1547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53502,
+      "num": 265086,
+      "word": "刘亦菲讲述蜕变与新生",
+      "onboard_time": 1754197405,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52537,
       "num": 60738,
       "word": "当代网红进军娱乐圈的现状",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1754176757,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46303,
-      "num": 265086,
-      "word": "刘亦菲讲述蜕变与新生",
-      "onboard_time": 1754197405,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 40020,

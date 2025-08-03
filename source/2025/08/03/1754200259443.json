@@ -1,0 +1,410 @@
+{
+  "runTime": 1754200259443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6398786,
+        "num": 6398786,
+        "word": "银河酷娱声明",
+        "onboard_time": 1754190623,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1244131,
+        "num": 1244131,
+        "word": "7月电费",
+        "onboard_time": 1754192906,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50499,
+        "num": 988254,
+        "word": "福建舰模拟弹射试验后战士们紧紧相拥",
+        "onboard_time": 1754182402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 927886,
+        "num": 927886,
+        "word": "杜华算不算透露娱乐圈内幕了",
+        "onboard_time": 1754193805,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562096,
+        "num": 562096,
+        "word": "灵隐寺的辣椒 出家人不打诳语",
+        "onboard_time": 1754195727,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521621,
+        "num": 521621,
+        "word": "官方通报女司机亮证逼迫让路事件",
+        "onboard_time": 1754179881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492071,
+        "num": 492071,
+        "word": "倪萍说董璇不应该结婚",
+        "onboard_time": 1754194705,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435015,
+        "num": 435015,
+        "word": "恋人24集变更为14集",
+        "onboard_time": 1754196984,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379248,
+        "num": 379248,
+        "word": "民警上门要求删视频合法合规",
+        "onboard_time": 1754186662,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348241,
+        "num": 348241,
+        "word": "民警上门未发现违法违规程序失当",
+        "onboard_time": 1754184922,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1596101,
+        "num": 346924,
+        "word": "赵露思八问银河酷娱",
+        "onboard_time": 1754195905,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700893,
+        "num": 344418,
+        "word": "考公人在公示期嘴有多严",
+        "onboard_time": 1754198846,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330800,
+        "num": 330800,
+        "word": "许允真说Labubu不好看",
+        "onboard_time": 1754198485,
+        "rank": 12,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 282226,
+        "num": 302611,
+        "word": "这几天不是热热热就是雨雨雨",
+        "onboard_time": 1754198723,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302584,
+        "num": 302584,
+        "word": "宋雨琦章昊双人舞",
+        "onboard_time": 1754196145,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290513,
+        "num": 290513,
+        "word": "银河酷娱旗下艺人",
+        "onboard_time": 1754143589,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265728,
+        "num": 265728,
+        "word": "女司机丈夫被立案调查",
+        "onboard_time": 1754182102,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53502,
+        "num": 261466,
+        "word": "刘亦菲讲述蜕变与新生",
+        "onboard_time": 1754197405,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261445,
+        "num": 261445,
+        "word": "亮证女司机所开奔驰系17.8万二手车",
+        "onboard_time": 1754183242,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255990,
+        "num": 255990,
+        "word": "挂掉记者电话工作人员被严肃批评",
+        "onboard_time": 1754183242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3082401,
+        "num": 251937,
+        "word": "赵露思转发银河酷娱声明",
+        "onboard_time": 1754191703,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210299,
+        "num": 225037,
+        "word": "日本考虑限制75岁以上老人ATM机取款",
+        "onboard_time": 1754195185,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285141,
+        "num": 225031,
+        "word": "刘宇宁说有时候真的干够了",
+        "onboard_time": 1754197163,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222669,
+        "num": 222669,
+        "word": "广西梧州一居民楼发生火灾致5死",
+        "onboard_time": 1754199865,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216973,
+        "num": 216973,
+        "word": "柯淳进组炽夏",
+        "onboard_time": 1754198305,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209803,
+        "num": 209803,
+        "word": "广西防城港认真全面整改",
+        "onboard_time": 1754184922,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196459,
+        "num": 196459,
+        "word": "花3万改造哈利波特的楼梯间",
+        "onboard_time": 1754199323,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 184478,
+        "num": 184478,
+        "word": "走路10分钟身体就开始变化",
+        "onboard_time": 1754195785,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182816,
+        "num": 182816,
+        "word": "小朋友高铁上被发试卷一秒静音",
+        "onboard_time": 1754197224,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180211,
+        "num": 180211,
+        "word": "小鬼王琳凯到底给多少人写了歌",
+        "onboard_time": 1754195905,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173740,
+        "num": 173740,
+        "word": "尚雯婕真信这当初就不会选华晨宇了",
+        "onboard_time": 1754199684,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172867,
+        "num": 172867,
+        "word": "才5岁花了2万学的她还要报课",
+        "onboard_time": 1754192004,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165102,
+        "num": 165102,
+        "word": "迪丽热巴金世佳对手戏太自然了",
+        "onboard_time": 1754199984,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152563,
+        "num": 152563,
+        "word": "亮证女报警称怀疑车辆被套牌",
+        "onboard_time": 1754198245,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146474,
+        "num": 146474,
+        "word": "时代少年团 上海",
+        "onboard_time": 1754192906,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143626,
+        "num": 143626,
+        "word": "汪顺潘展乐覃海洋徐放预赛第9",
+        "onboard_time": 1754198125,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141138,
+        "num": 141138,
+        "word": "咸鱼飞升",
+        "onboard_time": 1754195844,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140969,
+        "num": 140969,
+        "word": "官方通报休闲船起火致1死4伤",
+        "onboard_time": 1754196384,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 129101,
+        "num": 140659,
+        "word": "原神",
+        "onboard_time": 1754197463,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140610,
+        "num": 140610,
+        "word": "陈星旭我不落寞了我在罗马了",
+        "onboard_time": 1754199204,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133393,
+        "num": 133393,
+        "word": "孟子义秒认李昀锐",
+        "onboard_time": 1754190803,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131033,
+        "num": 131033,
+        "word": "严浩翔Rapeter共脑了",
+        "onboard_time": 1754199505,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127015,
+        "num": 127015,
+        "word": "宋佳上城士妆造必有高人指点",
+        "onboard_time": 1754198064,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124863,
+        "num": 124863,
+        "word": "伯伯不ins字儿",
+        "onboard_time": 1754196685,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122892,
+        "num": 122892,
+        "word": "家暴纵火烧妻致死案儿子谈未来",
+        "onboard_time": 1754187503,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122143,
+        "num": 122143,
+        "word": "你好星期六输黑脸了",
+        "onboard_time": 1754195244,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119888,
+        "num": 119888,
+        "word": "亮证姐事件巧合为何这么多",
+        "onboard_time": 1754197163,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115502,
+        "num": 115502,
+        "word": "穿精神病服男子关广场舞音响",
+        "onboard_time": 1754194286,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115437,
+        "num": 115437,
+        "word": "酱子贝",
+        "onboard_time": 1754191703,
+        "rank": 48,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 110171,
+        "num": 110171,
+        "word": "高温暴雨强对流3预警齐发",
+        "onboard_time": 1754200105,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保卫和平是人民军队之责#"
+    }
+  }
+}
