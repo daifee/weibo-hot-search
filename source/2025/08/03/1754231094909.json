@@ -1,0 +1,410 @@
+{
+  "runTime": 1754231094909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711373,
+        "num": 1711373,
+        "word": "赵露思回复利用网友解约",
+        "onboard_time": 1754224706,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704748,
+        "num": 704748,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1754215345,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 5925,
+        "num": 604433,
+        "word": "无人机蜂群与机器狼协同作战演习",
+        "onboard_time": 1754181081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1214515,
+        "num": 595454,
+        "word": "杨清柠乔司离婚",
+        "onboard_time": 1754223504,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 565383,
+        "num": 565383,
+        "word": "美国低收入家庭的晚餐",
+        "onboard_time": 1754224464,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1832703,
+        "num": 564180,
+        "word": "新郎去世新娘终止妊娠被判还彩礼",
+        "onboard_time": 1754223024,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 962723,
+        "num": 563251,
+        "word": "肖战 小城良方",
+        "onboard_time": 1754229686,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 659910,
+        "num": 536536,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1754224164,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482335,
+        "num": 482335,
+        "word": "盐城5比0常州",
+        "onboard_time": 1754228605,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323209,
+        "num": 323209,
+        "word": "台风白鹿已生成",
+        "onboard_time": 1754218704,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718804,
+        "num": 321762,
+        "word": "于正说可以和赵露思合伙开面馆",
+        "onboard_time": 1754221643,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583679,
+        "num": 316935,
+        "word": "管乐的家乱的让人震撼",
+        "onboard_time": 1754217623,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575285,
+        "num": 315640,
+        "word": "刘宇宁说丢人丢大发了",
+        "onboard_time": 1754225544,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 456540,
+        "num": 309836,
+        "word": "任重孙骁骁带孩子逛商场",
+        "onboard_time": 1754226385,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308547,
+        "num": 308547,
+        "word": "以色列爆发全国性抗议",
+        "onboard_time": 1754223864,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408562,
+        "num": 308121,
+        "word": "王源直播",
+        "onboard_time": 1754225904,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306758,
+        "num": 306758,
+        "word": "中国队15金12银10铜收官",
+        "onboard_time": 1754228784,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274862,
+        "num": 274862,
+        "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
+        "onboard_time": 1754230286,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269615,
+        "num": 269615,
+        "word": "情侣旅游发生车祸死里逃生后领证",
+        "onboard_time": 1754218523,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195714,
+        "num": 268909,
+        "word": "刘宇宁掐脖摇",
+        "onboard_time": 1754230765,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429865,
+        "num": 266115,
+        "word": "杨清柠 王乐乐",
+        "onboard_time": 1754228125,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 297480,
+        "num": 261489,
+        "word": "首尔偶遇周也",
+        "onboard_time": 1754222663,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297111,
+        "num": 257097,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274754,
+        "num": 252958,
+        "word": "气血不足最怕这6个动作",
+        "onboard_time": 1754228605,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252715,
+        "num": 252715,
+        "word": "刺杀小说家2",
+        "onboard_time": 1754227345,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205393,
+        "num": 205393,
+        "word": "B萌",
+        "onboard_time": 1754230645,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 204318,
+        "num": 204318,
+        "word": "黄子弘凡演唱会",
+        "onboard_time": 1754230344,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196712,
+        "num": 196712,
+        "word": "巨型天牛现身哀牢山",
+        "onboard_time": 1754216543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192633,
+        "num": 192633,
+        "word": "王安宇现场cue了花少",
+        "onboard_time": 1754226503,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187800,
+        "num": 187800,
+        "word": "邓妍表哥",
+        "onboard_time": 1754228185,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186248,
+        "num": 186248,
+        "word": "华晨宇音乐节",
+        "onboard_time": 1754229986,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186114,
+        "num": 186114,
+        "word": "蒲熠星新歌",
+        "onboard_time": 1754230046,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172788,
+        "num": 172788,
+        "word": "王力宏在演唱会做了3小时有氧",
+        "onboard_time": 1754230706,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172561,
+        "num": 172561,
+        "word": "人质父亲怒斥内塔尼亚胡失败",
+        "onboard_time": 1754226863,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172500,
+        "num": 172500,
+        "word": "中餐厅",
+        "onboard_time": 1754230584,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152589,
+        "num": 152589,
+        "word": "常州队只剩最后一画了",
+        "onboard_time": 1754229506,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149747,
+        "num": 149747,
+        "word": "安静公主自曝睡医院地上",
+        "onboard_time": 1754228784,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147797,
+        "num": 147797,
+        "word": "米加 王青",
+        "onboard_time": 1754228485,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145538,
+        "num": 145538,
+        "word": "好好吃早餐vs不吃早餐的变化",
+        "onboard_time": 1754230223,
+        "rank": 38,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 96719,
+        "num": 145509,
+        "word": "教授论文称汉谟拉比与商汤是同一人",
+        "onboard_time": 1754231004,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 145485,
+        "num": 145485,
+        "word": "成龙说文俊辉是大漂亮",
+        "onboard_time": 1754229146,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145230,
+        "num": 145230,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754230765,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144299,
+        "num": 144299,
+        "word": "苏超无锡1比0宿迁",
+        "onboard_time": 1754229686,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143943,
+        "num": 143943,
+        "word": "美国队破世界纪录",
+        "onboard_time": 1754229265,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134956,
+        "num": 134956,
+        "word": "凤凰山景区回应一游客坠崖身亡",
+        "onboard_time": 1754227946,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133306,
+        "num": 133306,
+        "word": "常州队变丨队了",
+        "onboard_time": 1754230464,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 128610,
+        "word": "我家那闺女",
+        "onboard_time": 1754222365,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128202,
+        "num": 128202,
+        "word": "中俄海上舰艇编队将举行为期3天演练",
+        "onboard_time": 1754228784,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126535,
+        "num": 126535,
+        "word": "黄子弘凡高定上落了蝴蝶",
+        "onboard_time": 1754229564,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122085,
+        "num": 122085,
+        "word": "苏超",
+        "onboard_time": 1754228426,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}

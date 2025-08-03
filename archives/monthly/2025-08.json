@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754229045011,
+  "endTime": 1754231094909,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -283,8 +283,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1692916,
-      "num": 1692916,
+      "raw_hot": 1711373,
+      "num": 1711373,
       "word": "赵露思回复利用网友解约",
       "onboard_time": 1754224706,
       "rank": 14,
@@ -657,6 +657,14 @@
       "onboard_time": 1754034203,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 962723,
+      "num": 563251,
+      "word": "肖战 小城良方",
+      "onboard_time": 1754229686,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 955080,
@@ -1259,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 565383,
+      "num": 565383,
+      "word": "美国低收入家庭的晚餐",
+      "onboard_time": 1754224464,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 565139,
       "num": 164433,
       "word": "李明德被判有期徒刑六个月",
@@ -1435,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 500008,
-      "num": 387333,
-      "word": "美国低收入家庭的晚餐",
-      "onboard_time": 1754224464,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 495129,
       "num": 495129,
       "word": "河南一中学要求8月1日报到剪指定发型",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1753975882,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 482335,
+      "num": 482335,
+      "word": "盐城5比0常州",
+      "onboard_time": 1754228605,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 481209,
@@ -1667,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429865,
+      "num": 266115,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1754228125,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 425168,
       "num": 425168,
       "word": "曹格回应Joe用自己的歌官宣恋情",
@@ -1723,6 +1747,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 408562,
+      "num": 360548,
+      "word": "王源直播",
+      "onboard_time": 1754225904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408454,
       "num": 408454,
       "word": "武大将调查复核肖某某纪律处分",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1754039062,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396433,
-      "num": 360548,
-      "word": "王源直播",
-      "onboard_time": 1754225904,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 393506,
@@ -2299,6 +2323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306758,
+      "num": 306758,
+      "word": "中国队15金12银10铜收官",
+      "onboard_time": 1754228784,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306001,
       "num": 306001,
       "word": "齐司礼风流皇叔",
@@ -2491,14 +2523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283571,
-      "num": 283571,
-      "word": "盐城5比0常州",
-      "onboard_time": 1754228605,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282226,
       "num": 395392,
       "word": "这几天不是热热热就是雨雨雨",
@@ -2563,12 +2587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274862,
+      "num": 274862,
+      "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
+      "onboard_time": 1754230286,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274774,
       "num": 231911,
       "word": "井川里予电竞文女主有脸了",
       "onboard_time": 1754052382,
       "rank": 27,
       "category": "网红,电竞"
+    },
+    {
+      "raw_hot": 274754,
+      "num": 254736,
+      "word": "气血不足最怕这6个动作",
+      "onboard_time": 1754228605,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274297,
@@ -2787,14 +2827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254736,
-      "num": 254736,
-      "word": "气血不足最怕这6个动作",
-      "onboard_time": 1754228605,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 252911,
       "num": 252911,
       "word": "张展硕极限冲刺",
@@ -2809,6 +2841,14 @@
       "onboard_time": 1754137464,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 252715,
+      "num": 252715,
+      "word": "刺杀小说家2",
+      "onboard_time": 1754227345,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 250932,
@@ -2993,22 +3033,6 @@
       "onboard_time": 1754204964,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234558,
-      "num": 234558,
-      "word": "杨清柠 王乐乐",
-      "onboard_time": 1754228125,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 234081,
-      "num": 234081,
-      "word": "刺杀小说家2",
-      "onboard_time": 1754227345,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 233919,
@@ -3651,6 +3675,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 205393,
+      "num": 205393,
+      "word": "B萌",
+      "onboard_time": 1754230645,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205380,
       "num": 236057,
       "word": "宣璐一口气播了六部戏",
@@ -3672,6 +3704,14 @@
       "word": "任嘉伦 争分夺秒",
       "onboard_time": 1754147488,
       "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 204318,
+      "num": 204318,
+      "word": "黄子弘凡演唱会",
+      "onboard_time": 1754230344,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -3963,6 +4003,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 195714,
+      "num": 268909,
+      "word": "刘宇宁掐脖摇",
+      "onboard_time": 1754230765,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195481,
       "num": 195481,
       "word": "李晟用十八张图演了部戏",
@@ -4211,6 +4259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187800,
+      "num": 187800,
+      "word": "邓妍表哥",
+      "onboard_time": 1754228185,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187350,
       "num": 187350,
       "word": "侯明昊跳EXO咆哮",
@@ -4259,12 +4315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186248,
+      "num": 186248,
+      "word": "华晨宇音乐节",
+      "onboard_time": 1754229986,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186129,
       "num": 186129,
       "word": "刘忻抽卡",
       "onboard_time": 1754187081,
       "rank": 24,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 186114,
+      "num": 186114,
+      "word": "蒲熠星新歌",
+      "onboard_time": 1754230046,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 186021,
@@ -4377,14 +4449,6 @@
       "onboard_time": 1754021543,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 182687,
-      "num": 182687,
-      "word": "中国队15金12银10铜收官",
-      "onboard_time": 1754228784,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 182615,
@@ -4579,14 +4643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175965,
-      "num": 175965,
-      "word": "邓妍表哥",
-      "onboard_time": 1754228185,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175688,
       "num": 175688,
       "word": "顾客AI仅退款商家AI演堂食",
@@ -4699,12 +4755,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172788,
+      "num": 172788,
+      "word": "王力宏在演唱会做了3小时有氧",
+      "onboard_time": 1754230706,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172520,
       "num": 172520,
       "word": "高伟光直播被气到撕台本",
       "onboard_time": 1754023283,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172500,
+      "num": 172500,
+      "word": "中餐厅",
+      "onboard_time": 1754064323,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 172338,
@@ -5611,6 +5683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152589,
+      "num": 152589,
+      "word": "常州队只剩最后一画了",
+      "onboard_time": 1754229506,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152563,
       "num": 185873,
       "word": "亮证女报警称怀疑车辆被套牌",
@@ -5979,6 +6059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145538,
+      "num": 145538,
+      "word": "好好吃早餐vs不吃早餐的变化",
+      "onboard_time": 1754230223,
+      "rank": 38,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 145502,
       "num": 145502,
       "word": "三大一小 三女一男",
@@ -5987,12 +6075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145485,
+      "num": 145485,
+      "word": "成龙说文俊辉是大漂亮",
+      "onboard_time": 1754229146,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145335,
       "num": 145335,
       "word": "张继科完成大满贯仅用445天",
       "onboard_time": 1754127202,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145230,
+      "num": 145230,
+      "word": "利剑玫瑰",
+      "onboard_time": 1754230765,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 145157,
@@ -6057,6 +6161,22 @@
       "onboard_time": 1754215345,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144299,
+      "num": 144299,
+      "word": "苏超无锡1比0宿迁",
+      "onboard_time": 1754229686,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143943,
+      "num": 143943,
+      "word": "美国队破世界纪录",
+      "onboard_time": 1754229265,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 143600,
@@ -6595,6 +6715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134956,
+      "num": 234104,
+      "word": "凤凰山景区回应一游客坠崖身亡",
+      "onboard_time": 1754227946,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134930,
       "num": 169993,
       "word": "河北兴隆北京山谷项目3人遇难4人失联",
@@ -6745,6 +6873,14 @@
       "onboard_time": 1754124502,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133306,
+      "num": 133306,
+      "word": "常州队变丨队了",
+      "onboard_time": 1754230464,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 133132,
@@ -7059,6 +7195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128202,
+      "num": 234138,
+      "word": "中俄海上舰艇编队将举行为期3天演练",
+      "onboard_time": 1754228784,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128065,
       "num": 423253,
       "word": "北京地铁28号线规划方案曝光",
@@ -7147,14 +7291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127039,
-      "num": 234104,
-      "word": "凤凰山景区回应一游客坠崖身亡",
-      "onboard_time": 1754227946,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127029,
       "num": 127029,
       "word": "鹿晗超级冠军巡到新说唱了",
@@ -7217,6 +7353,14 @@
       "onboard_time": 1754202863,
       "rank": 37,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 126535,
+      "num": 126535,
+      "word": "黄子弘凡高定上落了蝴蝶",
+      "onboard_time": 1754229564,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 126532,
@@ -8707,6 +8851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96719,
+      "num": 145509,
+      "word": "教授论文称汉谟拉比与商汤是同一人",
+      "onboard_time": 1754231004,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 96664,
       "num": 96664,
       "word": "蔡徐坤更新快拍",
@@ -9187,14 +9339,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 81093,
-      "num": 234138,
-      "word": "中俄海上舰艇编队将举行为期3天演练",
-      "onboard_time": 1754228784,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80791,
       "num": 255255,
       "word": "在CJ骁龙馆找到了游戏真神装",
@@ -9353,14 +9497,6 @@
       "onboard_time": 1754189422,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70544,
-      "num": 70544,
-      "word": "中餐厅",
-      "onboard_time": 1754064323,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 70308,
@@ -10475,8 +10611,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 821,
-      "num": 540046,
+      "raw_hot": 5925,
+      "num": 604433,
       "word": "无人机蜂群与机器狼协同作战演习",
       "onboard_time": 1754181081,
       "rank": 2,
