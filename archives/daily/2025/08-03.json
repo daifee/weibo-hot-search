@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754214221730,
+  "endTime": 1754216928391,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -41,6 +41,14 @@
       "onboard_time": 1754205685,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3069972,
+      "num": 3069972,
+      "word": "银河酷娱取关了赵露思",
+      "onboard_time": 1754214563,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3040729,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 617112,
+      "num": 617112,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1754215345,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 607894,
       "num": 607894,
       "word": "全款76万买到260平的房子",
@@ -483,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374438,
+      "num": 238233,
+      "word": "汤唯撕了我拍的撕拉片",
+      "onboard_time": 1754212704,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362440,
       "num": 362440,
       "word": "生娃能领7笔钱",
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331918,
+      "num": 331918,
+      "word": "广东新增2892例基孔肯雅热本地病例",
+      "onboard_time": 1754215703,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326928,
       "num": 249152,
       "word": "许我耀眼",
@@ -577,6 +609,14 @@
       "onboard_time": 1754208144,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290713,
+      "num": 154250,
+      "word": "情绪化发言没有任何好处",
+      "onboard_time": 1754214203,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 285441,
@@ -659,6 +699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 239214,
+      "num": 239214,
+      "word": "阿姨吹一周空调严重呼吸衰竭",
+      "onboard_time": 1754212344,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238298,
       "num": 238298,
       "word": "福建舰入列进入最后攻坚时刻",
@@ -708,19 +756,27 @@
     },
     {
       "raw_hot": 216835,
-      "num": 134145,
+      "num": 139145,
       "word": "终于看懂体彩店是怎么盈利的了",
       "onboard_time": 1754212285,
       "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 208637,
-      "num": 194712,
-      "word": "汤唯撕了我拍的撕拉片",
-      "onboard_time": 1754212704,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 209486,
+      "num": 135025,
+      "word": "被骗缅甸男生获救后收到录取通知书",
+      "onboard_time": 1754214984,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208888,
+      "num": 152681,
+      "word": "张予曦回应被说花瓶",
+      "onboard_time": 1754215104,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 203349,
@@ -729,6 +785,14 @@
       "onboard_time": 1754197224,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202912,
+      "num": 152467,
+      "word": "成龙收到了阿祖面具版labubu",
+      "onboard_time": 1754216303,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 201922,
@@ -763,12 +827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197014,
-      "num": 197014,
-      "word": "阿姨吹一周空调严重呼吸衰竭",
-      "onboard_time": 1754212344,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 197489,
+      "num": 197489,
+      "word": "长期独居的后遗症",
+      "onboard_time": 1754214742,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 196459,
@@ -995,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169345,
+      "num": 169345,
+      "word": "外交部驻澳公署声明",
+      "onboard_time": 1754210604,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167050,
       "num": 167050,
       "word": "不敢数汪顺抬头看了多少次成绩屏",
@@ -1067,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157965,
+      "num": 133334,
+      "word": "体检时留尿要等1秒钟",
+      "onboard_time": 1754213543,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156949,
       "num": 156949,
       "word": "在两万人口的农村开奶茶店",
@@ -1097,14 +1177,6 @@
       "onboard_time": 1754212764,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154180,
-      "num": 154180,
-      "word": "情绪化发言没有任何好处",
-      "onboard_time": 1754214203,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 153003,
@@ -1163,6 +1235,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149266,
+      "num": 149266,
+      "word": "香奈儿婴幼儿时期童年照",
+      "onboard_time": 1754215764,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147727,
+      "num": 130786,
+      "word": "巨型天牛现身哀牢山",
+      "onboard_time": 1754216543,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146594,
       "num": 156245,
       "word": "印乐大师接掌后的少林寺",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1754197163,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144369,
+      "num": 144369,
+      "word": "陈都灵上海",
+      "onboard_time": 1754215345,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 143322,
@@ -1451,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127661,
+      "num": 127661,
+      "word": "二级消防士的行政执法证有什么用",
+      "onboard_time": 1754213723,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127548,
       "num": 127548,
       "word": "星穹铁道",
@@ -1515,12 +1619,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124466,
+      "num": 124466,
+      "word": "小区卖盒饭一天收入580元",
+      "onboard_time": 1754214563,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123591,
       "num": 240894,
       "word": "韩红演唱会嘉宾陈立农",
       "onboard_time": 1754151086,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123296,
+      "num": 123296,
+      "word": "王玉雯元气小厨娘",
+      "onboard_time": 1754216303,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 122876,
@@ -1571,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120429,
+      "num": 120429,
+      "word": "王嘉尔Kcon舞台帅麻了",
+      "onboard_time": 1754215824,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120407,
       "num": 120407,
       "word": "被亮证当事人称已接受对方道歉",
@@ -1609,14 +1737,6 @@
       "onboard_time": 1754153302,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117625,
-      "num": 117625,
-      "word": "体检时留尿要等1秒钟",
-      "onboard_time": 1754213543,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 116358,
@@ -1665,6 +1785,14 @@
       "onboard_time": 1754195425,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113482,
+      "num": 113482,
+      "word": "上海迪士尼跳跳虎演职人员中暑晕倒",
+      "onboard_time": 1754213543,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113290,
@@ -1851,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97072,
+      "num": 97072,
+      "word": "731定档九一八戳中泪点",
+      "onboard_time": 1754215464,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95887,
       "num": 95887,
       "word": "上海ChinaJoy真能整活",
@@ -1939,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91340,
+      "num": 91340,
+      "word": "TF家族空降",
+      "onboard_time": 1754215285,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89944,
       "num": 1068413,
       "word": "福建舰模拟弹射试验后战士们紧紧相拥",
@@ -1995,20 +2139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85684,
-      "num": 85684,
-      "word": "上海迪士尼跳跳虎演职人员中暑晕倒",
-      "onboard_time": 1754213543,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85494,
-      "num": 85494,
-      "word": "外交部驻澳公署声明",
-      "onboard_time": 1754210604,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 86267,
+      "num": 86267,
+      "word": "北京WBG获胜",
+      "onboard_time": 1754216663,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 85441,
@@ -2307,6 +2443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55217,
+      "num": 238978,
+      "word": "家属冒用执法证该怎么处理",
+      "onboard_time": 1754216183,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54640,
       "num": 54640,
       "word": "当我真的吃不下了",
@@ -2353,14 +2497,6 @@
       "onboard_time": 1754174357,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 50557,
-      "num": 108429,
-      "word": "二级消防士的行政执法证有什么用",
-      "onboard_time": 1754213723,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47416,

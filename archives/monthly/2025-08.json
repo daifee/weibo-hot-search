@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754214221730,
+  "endTime": 1754216928391,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -97,6 +97,14 @@
       "onboard_time": 1754205685,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3069972,
+      "num": 3069972,
+      "word": "银河酷娱取关了赵露思",
+      "onboard_time": 1754214563,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3040729,
@@ -1059,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617112,
+      "num": 617112,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1754215345,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 610901,
       "num": 610901,
       "word": "鞠婧祎超话",
@@ -1707,6 +1723,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 374438,
+      "num": 238233,
+      "word": "汤唯撕了我拍的撕拉片",
+      "onboard_time": 1754212704,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365668,
       "num": 365668,
       "word": "张元英开球",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1754014341,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331918,
+      "num": 331918,
+      "word": "广东新增2892例基孔肯雅热本地病例",
+      "onboard_time": 1754215703,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331741,
@@ -2225,6 +2257,14 @@
       "onboard_time": 1754208144,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290713,
+      "num": 154250,
+      "word": "情绪化发言没有任何好处",
+      "onboard_time": 1754214203,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 285141,
@@ -2627,6 +2667,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 239214,
+      "num": 239214,
+      "word": "阿姨吹一周空调严重呼吸衰竭",
+      "onboard_time": 1754212344,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239076,
       "num": 239076,
       "word": "淘宝闪购免单",
@@ -2964,7 +3012,7 @@
     },
     {
       "raw_hot": 216835,
-      "num": 134145,
+      "num": 139145,
       "word": "终于看懂体彩店是怎么盈利的了",
       "onboard_time": 1754212285,
       "rank": 30,
@@ -3147,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209486,
+      "num": 135025,
+      "word": "被骗缅甸男生获救后收到录取通知书",
+      "onboard_time": 1754214984,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209468,
       "num": 161718,
       "word": "任嘉伦音乐节",
@@ -3187,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208888,
+      "num": 152681,
+      "word": "张予曦回应被说花瓶",
+      "onboard_time": 1754215104,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208781,
       "num": 208781,
       "word": "教师辞编后例假都正常了",
@@ -3201,14 +3265,6 @@
       "onboard_time": 1754059883,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208637,
-      "num": 194712,
-      "word": "汤唯撕了我拍的撕拉片",
-      "onboard_time": 1754212704,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 208373,
@@ -3345,6 +3401,14 @@
       "onboard_time": 1754122823,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202912,
+      "num": 152467,
+      "word": "成龙收到了阿祖面具版labubu",
+      "onboard_time": 1754216303,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 202850,
@@ -3507,6 +3571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197489,
+      "num": 197489,
+      "word": "长期独居的后遗症",
+      "onboard_time": 1754214742,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197441,
       "num": 233900,
       "word": "魔咒",
@@ -3519,14 +3591,6 @@
       "num": 197205,
       "word": "律师解读李明德酒后砸车获刑6个月",
       "onboard_time": 1754039302,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197014,
-      "num": 197014,
-      "word": "阿姨吹一周空调严重呼吸衰竭",
-      "onboard_time": 1754212344,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -4403,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169345,
+      "num": 169345,
+      "word": "外交部驻澳公署声明",
+      "onboard_time": 1754210604,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169031,
       "num": 160667,
       "word": "李乃文 五旬老汉渡嬷劫",
@@ -4827,6 +4899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157965,
+      "num": 133334,
+      "word": "体检时留尿要等1秒钟",
+      "onboard_time": 1754213543,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157834,
       "num": 157834,
       "word": "迪丽热巴抬手不是抱歉是你还得练",
@@ -4993,14 +5073,6 @@
       "onboard_time": 1754120423,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154180,
-      "num": 154180,
-      "word": "情绪化发言没有任何好处",
-      "onboard_time": 1754214203,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 153824,
@@ -5235,6 +5307,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 149266,
+      "num": 149266,
+      "word": "香奈儿婴幼儿时期童年照",
+      "onboard_time": 1754215764,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149240,
       "num": 149240,
       "word": "清华教授评灵笼创作顶天立地",
@@ -5305,6 +5385,14 @@
       "onboard_time": 1754047343,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147727,
+      "num": 130786,
+      "word": "巨型天牛现身哀牢山",
+      "onboard_time": 1754216543,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 147719,
@@ -5473,6 +5561,14 @@
       "onboard_time": 1754038700,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144369,
+      "num": 144369,
+      "word": "陈都灵上海",
+      "onboard_time": 1754215345,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 143600,
@@ -6459,6 +6555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127661,
+      "num": 127661,
+      "word": "二级消防士的行政执法证有什么用",
+      "onboard_time": 1754213723,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127548,
       "num": 127548,
       "word": "星穹铁道",
@@ -6643,6 +6747,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124466,
+      "num": 124466,
+      "word": "小区卖盒饭一天收入580元",
+      "onboard_time": 1754214563,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124371,
       "num": 124371,
       "word": "杨洋带双瞳鼠跳个舞",
@@ -6737,6 +6849,14 @@
       "onboard_time": 1754118920,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123296,
+      "num": 123296,
+      "word": "王玉雯元气小厨娘",
+      "onboard_time": 1754216303,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 123266,
@@ -6883,6 +7003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120429,
+      "num": 120429,
+      "word": "王嘉尔Kcon舞台帅麻了",
+      "onboard_time": 1754215824,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120407,
       "num": 120407,
       "word": "被亮证当事人称已接受对方道歉",
@@ -7001,14 +7129,6 @@
       "onboard_time": 1754153302,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117625,
-      "num": 117625,
-      "word": "体检时留尿要等1秒钟",
-      "onboard_time": 1754213543,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117469,
@@ -7225,6 +7345,14 @@
       "onboard_time": 1754118202,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113482,
+      "num": 113482,
+      "word": "上海迪士尼跳跳虎演职人员中暑晕倒",
+      "onboard_time": 1754213543,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113309,
@@ -7875,6 +8003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97072,
+      "num": 97072,
+      "word": "731定档九一八戳中泪点",
+      "onboard_time": 1754215464,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96853,
       "num": 151933,
       "word": "刚毕业就月入过万的原因",
@@ -8107,6 +8243,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 91340,
+      "num": 91340,
+      "word": "TF家族空降",
+      "onboard_time": 1754215285,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90565,
       "num": 248215,
       "word": "杨洋用碰一下请客减2元了吗",
@@ -8187,6 +8331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86267,
+      "num": 86267,
+      "word": "北京WBG获胜",
+      "onboard_time": 1754216663,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86243,
       "num": 90107,
       "word": "搜救犬发现幸存者时的眼神",
@@ -8217,22 +8369,6 @@
       "onboard_time": 1753980919,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 85684,
-      "num": 85684,
-      "word": "上海迪士尼跳跳虎演职人员中暑晕倒",
-      "onboard_time": 1754213543,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85494,
-      "num": 85494,
-      "word": "外交部驻澳公署声明",
-      "onboard_time": 1754210604,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85441,
@@ -8851,6 +8987,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55217,
+      "num": 238978,
+      "word": "家属冒用执法证该怎么处理",
+      "onboard_time": 1754216183,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54640,
       "num": 54640,
       "word": "当我真的吃不下了",
@@ -8952,14 +9096,6 @@
       "word": "3起发布虚假警情通报案件被查处",
       "onboard_time": 1754025802,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50557,
-      "num": 108429,
-      "word": "二级消防士的行政执法证有什么用",
-      "onboard_time": 1754213723,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
