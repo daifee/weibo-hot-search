@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754178310331,
+  "endTime": 1754188107149,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -65,6 +65,14 @@
       "onboard_time": 1754111421,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3040729,
+      "num": 3081459,
+      "word": "官方通报女司机亮证逼迫让路事件",
+      "onboard_time": 1754179881,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2866587,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075024,
+      "num": 656797,
+      "word": "知情人曾透露赵露思合约到2030年",
+      "onboard_time": 1754182282,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1072484,
       "num": 1072484,
       "word": "删了的QQ空间说说复活了",
@@ -384,6 +400,14 @@
       "word": "男孩错付车费轻生事件司机发声",
       "onboard_time": 1754061083,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1032449,
+      "num": 1032449,
+      "word": "广西防城港认真全面整改",
+      "onboard_time": 1754184922,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -499,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 878535,
+      "num": 878535,
+      "word": "民警上门未发现违法违规程序失当",
+      "onboard_time": 1754184922,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 869698,
       "num": 869698,
       "word": "歌手不标原唱",
@@ -547,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 807772,
+      "num": 807772,
+      "word": "恋人",
+      "onboard_time": 1754185343,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 806295,
       "num": 627390,
       "word": "爱豆是怎么忍住不恋爱的",
@@ -575,6 +615,14 @@
       "num": 791992,
       "word": "被熟虾咬伤的概率不再是0",
       "onboard_time": 1754018422,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784496,
+      "num": 784496,
+      "word": "女司机丈夫被立案调查",
+      "onboard_time": 1754182102,
       "rank": 5,
       "category": "民生新闻"
     },
@@ -707,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703936,
+      "num": 703936,
+      "word": "易烊千玺像大祭司一样隆重出场了",
+      "onboard_time": 1754176879,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 690737,
       "num": 411949,
       "word": "SNH48总选排名",
@@ -729,6 +785,22 @@
       "onboard_time": 1754045845,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679974,
+      "num": 679974,
+      "word": "妹妹以姐姐已出嫁为由争夺46万遗产",
+      "onboard_time": 1754185821,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679125,
+      "num": 430286,
+      "word": "赵露思续约前半年没进组",
+      "onboard_time": 1754178622,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 677862,
@@ -769,6 +841,14 @@
       "onboard_time": 1754022803,
       "rank": 28,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 653461,
+      "num": 653461,
+      "word": "亮证女司机所开奔驰系17.8万二手车",
+      "onboard_time": 1754183242,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 652780,
@@ -819,12 +899,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 611957,
+      "num": 611957,
+      "word": "挂掉记者电话工作人员被严肃批评",
+      "onboard_time": 1754183242,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610901,
       "num": 610901,
       "word": "鞠婧祎超话",
       "onboard_time": 1754021903,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607894,
+      "num": 607894,
+      "word": "全款76万买到260平的房子",
+      "onboard_time": 1754180001,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 602089,
@@ -1139,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 463048,
+      "num": 657799,
+      "word": "蝶恋原唱经纪人回应年轮被质疑抄袭",
+      "onboard_time": 1754177479,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 455990,
       "num": 455990,
       "word": "张碧晨爱的史诗交响演唱会",
@@ -1161,6 +1265,14 @@
       "onboard_time": 1754110942,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 440646,
+      "num": 440646,
+      "word": "原来12年前大家都想在27岁结婚",
+      "onboard_time": 1754182520,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 434933,
@@ -1259,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397885,
+      "num": 397885,
+      "word": "亮证姐与平头哥是邻村亲戚",
+      "onboard_time": 1754181322,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396550,
       "num": 396550,
       "word": "香港高院对宗家信托案宣布决定",
@@ -1321,6 +1441,14 @@
       "onboard_time": 1754038943,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 375923,
+      "num": 375923,
+      "word": "民警上门要求删视频合法合规",
+      "onboard_time": 1754186662,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374578,
@@ -1883,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267367,
+      "num": 246901,
+      "word": "日本专家建议老人自杀解决老龄化",
+      "onboard_time": 1754144069,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 267362,
       "num": 327082,
       "word": "牛马打工人的自我修养",
@@ -2107,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242120,
+      "num": 242120,
+      "word": "安静公主说还要做第五次手术",
+      "onboard_time": 1754183662,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 240276,
       "num": 301181,
       "word": "张馨予公司名叫捷捷高",
@@ -2123,12 +2267,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 236952,
-      "num": 246901,
-      "word": "日本专家建议老人自杀解决老龄化",
-      "onboard_time": 1754144069,
-      "rank": 21,
-      "category": "海外新闻"
+      "raw_hot": 238298,
+      "num": 238298,
+      "word": "福建舰入列进入最后攻坚时刻",
+      "onboard_time": 1754176938,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 236744,
@@ -3179,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186129,
+      "num": 186129,
+      "word": "刘忻抽卡",
+      "onboard_time": 1754187081,
+      "rank": 24,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 186021,
       "num": 186021,
       "word": "ing演唱会",
@@ -3473,14 +3625,6 @@
       "onboard_time": 1754153302,
       "rank": 37,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 173266,
-      "num": 173266,
-      "word": "蝶恋原唱经纪人回应年轮被质疑抄袭",
-      "onboard_time": 1754177479,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 173193,
@@ -3793,6 +3937,14 @@
       "onboard_time": 1754138426,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163555,
+      "num": 163555,
+      "word": "亮证女司机非公职人员",
+      "onboard_time": 1754179881,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163312,
@@ -4241,14 +4393,6 @@
       "onboard_time": 1754052203,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150674,
-      "num": 122566,
-      "word": "易烊千玺像大祭司一样隆重出场了",
-      "onboard_time": 1754176879,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 150487,
@@ -4787,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137486,
+      "num": 137486,
+      "word": "张艺兴唱了MAMA",
+      "onboard_time": 1754181622,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137369,
       "num": 338905,
       "word": "日方要求俄方归还金阁寺模型",
@@ -4817,6 +4969,14 @@
       "onboard_time": 1754106262,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136074,
+      "num": 136074,
+      "word": "亮证事件失职失责人员将被严肃处理",
+      "onboard_time": 1754187443,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135695,
@@ -5025,14 +5185,6 @@
       "onboard_time": 1754044284,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133095,
-      "num": 133095,
-      "word": "福建舰入列进入最后攻坚时刻",
-      "onboard_time": 1754176938,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132838,
@@ -5307,6 +5459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127837,
+      "num": 207946,
+      "word": "越剧演员表演时苍蝇在脸上乱爬",
+      "onboard_time": 1754185521,
+      "rank": 23,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 127525,
       "num": 127525,
       "word": "全身烧伤超9成男生治疗已花费300万",
@@ -5473,6 +5633,14 @@
       "onboard_time": 1754102121,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123596,
+      "num": 123596,
+      "word": "家暴纵火烧妻致死案儿子谈未来",
+      "onboard_time": 1754187503,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123591,
@@ -5659,6 +5827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119898,
+      "num": 119898,
+      "word": "王安宇新歌制作人是小鬼",
+      "onboard_time": 1754180182,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119768,
       "num": 119768,
       "word": "余宇涵尝试新风格",
@@ -5811,6 +5987,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 116358,
+      "num": 116358,
+      "word": "邓妍才是迪丽热巴原皮吧",
+      "onboard_time": 1754182520,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116352,
       "num": 116352,
       "word": "Gr对战DOU5",
@@ -5923,6 +6107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113290,
+      "num": 113290,
+      "word": "陈梦开车vlog",
+      "onboard_time": 1754186243,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113167,
       "num": 113167,
       "word": "航仔回复让杨洋替演阔夫",
@@ -5969,6 +6161,14 @@
       "onboard_time": 1754020102,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112404,
+      "num": 112404,
+      "word": "亮证女并未现场查询公民个人信息",
+      "onboard_time": 1754187443,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112286,
@@ -6049,6 +6249,14 @@
       "onboard_time": 1754134522,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111020,
+      "num": 111020,
+      "word": "阿姨退休后秒退几十个群手机都变轻",
+      "onboard_time": 1754180481,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 110931,
@@ -6251,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103781,
+      "num": 103781,
+      "word": "为什么大人可以玩手机小孩却不行",
+      "onboard_time": 1754178439,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "四十七",
@@ -6265,6 +6481,14 @@
       "onboard_time": 1754058323,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103312,
+      "num": 103312,
+      "word": "黄婷婷折月亮",
+      "onboard_time": 1754183001,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 103222,
@@ -6500,7 +6724,7 @@
     },
     {
       "raw_hot": 95860,
-      "num": 86162,
+      "num": 91500,
       "word": "张曦雯承认分手",
       "onboard_time": 1754178260,
       "rank": 30,
@@ -6512,6 +6736,14 @@
       "word": "中国队无缘男女混合自接决赛",
       "onboard_time": 1754121322,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95123,
+      "num": 95123,
+      "word": "梅西受伤",
+      "onboard_time": 1754183482,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -6537,6 +6769,14 @@
       "onboard_time": 1754095222,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93309,
+      "num": 93309,
+      "word": "张本美和大藤沙月女双冠军",
+      "onboard_time": 1754187861,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 93138,
@@ -6609,6 +6849,22 @@
       "onboard_time": 1753961663,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89944,
+      "num": 89944,
+      "word": "福建舰模拟弹射试验后战士们紧紧相拥",
+      "onboard_time": 1754182402,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 89182,
+      "num": 89182,
+      "word": "吴宣仪广州站",
+      "onboard_time": 1754188041,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 88688,
@@ -7729,6 +7985,14 @@
       "onboard_time": 1753986315,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23174,
+      "num": 901884,
+      "word": "网警倡议共筑网络安全堤坝为抗洪护航",
+      "onboard_time": 1754187561,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20959,
