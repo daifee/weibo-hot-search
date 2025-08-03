@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754256389380,
+  "endTime": 1754257299454,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -363,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83525,
+      "num": 83525,
+      "word": "被骗缅甸获救高考生将学医学类专业",
+      "onboard_time": 1754253074,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81953,
       "num": 81953,
       "word": "一个人值不值得交往看3点",
@@ -417,14 +425,6 @@
       "onboard_time": 1754236104,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 58080,
-      "num": 58080,
-      "word": "被骗缅甸获救高考生将学医学类专业",
-      "onboard_time": 1754253074,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52039,
@@ -499,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19714,
+      "num": 19714,
+      "word": "晚晚为什么站在框里",
+      "onboard_time": 1754253974,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 19001,
       "num": 21006,
       "word": "贺峻霖说自己战术在大气层了",
       "onboard_time": 1754249294,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17183,
-      "num": 17183,
-      "word": "晚晚为什么站在框里",
-      "onboard_time": 1754253974,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 15505,
