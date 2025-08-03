@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754226666368,
+  "endTime": 1754228309962,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -337,6 +337,14 @@
       "onboard_time": 1754007801,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1516608,
+      "num": 1516608,
+      "word": "赵露思回复利用网友解约",
+      "onboard_time": 1754224706,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1510012,
@@ -697,14 +705,6 @@
       "onboard_time": 1754057303,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 903794,
-      "num": 903794,
-      "word": "赵露思回复利用网友解约",
-      "onboard_time": 1754224706,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 887320,
@@ -1107,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644376,
+      "num": 407222,
+      "word": "刘宇宁说丢人丢大发了",
+      "onboard_time": 1754225544,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 632334,
       "num": 632334,
       "word": "男子还原奔驰女司机亮证逼迫让路过程",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1754029101,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 580349,
+      "num": 405595,
+      "word": "任重孙骁骁带孩子逛商场",
+      "onboard_time": 1754226385,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 578746,
@@ -1348,7 +1364,7 @@
     },
     {
       "raw_hot": 531241,
-      "num": 389145,
+      "num": 402263,
       "word": "首尔偶遇周也",
       "onboard_time": 1754222663,
       "rank": 12,
@@ -1619,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436815,
+      "num": 436815,
+      "word": "以色列爆发全国性抗议",
+      "onboard_time": 1754223864,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 434933,
       "num": 434933,
       "word": "光与夜之恋",
@@ -1731,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 398219,
-      "num": 398219,
-      "word": "以色列爆发全国性抗议",
-      "onboard_time": 1754223864,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 397885,
       "num": 397885,
       "word": "亮证姐与平头哥是邻村亲戚",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1754218523,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387333,
+      "num": 387333,
+      "word": "美国低收入家庭的晚餐",
+      "onboard_time": 1754224464,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 387273,
@@ -2243,6 +2267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311085,
+      "num": 311085,
+      "word": "苏超盐城vs常州",
+      "onboard_time": 1754220745,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309948,
       "num": 309948,
       "word": "董璇张维伊因买单吵架",
@@ -2427,12 +2459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285443,
+      "num": 285443,
+      "word": "王源直播",
+      "onboard_time": 1754225904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285141,
       "num": 276412,
       "word": "刘宇宁说有时候真的干够了",
       "onboard_time": 1754197163,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285130,
+      "num": 285130,
+      "word": "两名中国人在柬埔寨遇害遭抛尸河中",
+      "onboard_time": 1754222484,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282226,
@@ -2763,14 +2811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249325,
-      "num": 200929,
-      "word": "刘宇宁说丢人丢大发了",
-      "onboard_time": 1754225544,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 248916,
       "num": 248916,
       "word": "SHarK总冠军",
@@ -2851,14 +2891,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 241952,
-      "num": 175112,
-      "word": "美国低收入家庭的晚餐",
-      "onboard_time": 1754224464,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 240276,
       "num": 301181,
       "word": "张馨予公司名叫捷捷高",
@@ -2913,6 +2945,14 @@
       "onboard_time": 1754208625,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235590,
+      "num": 235590,
+      "word": "亮证姐是一切舆情的源头",
+      "onboard_time": 1754225365,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235450,
@@ -3043,6 +3083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227870,
+      "num": 227870,
+      "word": "人质父亲怒斥内塔尼亚胡失败",
+      "onboard_time": 1754226863,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "日本考虑限制75岁以上老人ATM机取款",
@@ -3089,6 +3137,14 @@
       "onboard_time": 1754107521,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222788,
+      "num": 410935,
+      "word": "中国队女子4x100米混合接力铜牌",
+      "onboard_time": 1754227825,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 222756,
@@ -3219,14 +3275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216931,
-      "num": 216931,
-      "word": "两名中国人在柬埔寨遇害遭抛尸河中",
-      "onboard_time": 1754222484,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216835,
       "num": 139145,
       "word": "终于看懂体彩店是怎么盈利的了",
@@ -3336,14 +3384,6 @@
       "word": "男子4X200自接中国队创造亚洲纪录",
       "onboard_time": 1754055444,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 212592,
-      "num": 283086,
-      "word": "苏超盐城vs常州",
-      "onboard_time": 1754220745,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -3595,6 +3635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204515,
+      "num": 204515,
+      "word": "刺杀小说家2",
+      "onboard_time": 1754227345,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204015,
       "num": 204015,
       "word": "丈夫发现亡妻生前转账已婚男93万",
@@ -3633,6 +3681,14 @@
       "onboard_time": 1754122823,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202881,
+      "num": 202881,
+      "word": "王安宇现场cue了花少",
+      "onboard_time": 1754226503,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 202850,
@@ -3889,14 +3945,6 @@
       "onboard_time": 1754132902,
       "rank": 18,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 194844,
-      "num": 194844,
-      "word": "王源直播",
-      "onboard_time": 1754225904,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 194839,
@@ -4307,6 +4355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182389,
+      "num": 182389,
+      "word": "BLG战胜TES",
+      "onboard_time": 1754226805,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182208,
       "num": 182208,
       "word": "女主湿身男主半裸对视这10秒",
@@ -4489,14 +4545,6 @@
       "onboard_time": 1754060062,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175002,
-      "num": 175002,
-      "word": "亮证姐是一切舆情的源头",
-      "onboard_time": 1754225365,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174938,
@@ -4731,6 +4779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169545,
+      "num": 169545,
+      "word": "中国游泳队世锦赛收获2金6银6铜",
+      "onboard_time": 1754227886,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169448,
       "num": 169448,
       "word": "冯建宇工作室回归",
@@ -4769,6 +4825,14 @@
       "onboard_time": 1754217323,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167891,
+      "num": 167891,
+      "word": "鹿晗劝班",
+      "onboard_time": 1754226685,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 167569,
@@ -4881,6 +4945,14 @@
       "onboard_time": 1754020222,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 164839,
+      "num": 197909,
+      "word": "录取通知书是我担帮我拆的",
+      "onboard_time": 1754227045,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 164785,
@@ -5001,6 +5073,14 @@
       "onboard_time": 1754047523,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162729,
+      "num": 162729,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1754228125,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 162712,
@@ -5145,6 +5225,14 @@
       "onboard_time": 1754193087,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159248,
+      "num": 159248,
+      "word": "玛莎摸鱼",
+      "onboard_time": 1754227404,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 159175,
@@ -5377,6 +5465,14 @@
       "onboard_time": 1754120423,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154107,
+      "num": 154107,
+      "word": "鹿晗脸上画了小爱心",
+      "onboard_time": 1754227585,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 153824,
@@ -5699,6 +5795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147754,
+      "num": 147754,
+      "word": "成毅演唱天涯别有一番韵味",
+      "onboard_time": 1754227825,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147719,
       "num": 147719,
       "word": "加沙已成炼狱美国竟还在打算盘",
@@ -5859,6 +5963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144816,
+      "num": 151583,
+      "word": "罗小黑战记",
+      "onboard_time": 1754226863,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144585,
       "num": 144585,
       "word": "亮证姐事件巧合为何这么多",
@@ -5953,14 +6065,6 @@
       "onboard_time": 1754112082,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142171,
-      "num": 142171,
-      "word": "任重孙骁骁带孩子逛商场",
-      "onboard_time": 1754226385,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 141970,
@@ -7043,6 +7147,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 126532,
+      "num": 126532,
+      "word": "苏超连云港队vs泰州队",
+      "onboard_time": 1754224764,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126246,
       "num": 126246,
       "word": "余嘉豪加盟西甲联赛",
@@ -7243,20 +7355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122800,
-      "num": 122800,
-      "word": "王安宇现场cue了花少",
-      "onboard_time": 1754226503,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 122763,
       "num": 122763,
       "word": "阴阳师魔卡少女樱联动",
       "onboard_time": 1754129904,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122675,
+      "num": 122675,
+      "word": "邓妍表哥",
+      "onboard_time": 1754228185,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 122634,
@@ -7657,14 +7769,6 @@
       "onboard_time": 1754023942,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115588,
-      "num": 115588,
-      "word": "苏超连云港队vs泰州队",
-      "onboard_time": 1754224764,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 115585,
@@ -9227,6 +9331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68939,
+      "num": 195860,
+      "word": "凤凰山景区回应一游客坠崖身亡",
+      "onboard_time": 1754227946,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68683,
       "num": 184509,
       "word": "2025海南国际旅游岛欢乐节",
@@ -9697,6 +9809,14 @@
       "onboard_time": 1754176757,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 47157,
+      "num": 152516,
+      "word": "我减肥就李乃文这样",
+      "onboard_time": 1754227225,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 46880,
@@ -10307,6 +10427,9 @@
     },
     {
       "word": "#保卫和平是人民军队之责#"
+    },
+    {
+      "word": "#这就是我们的英雄军队#"
     }
   ]
 }
