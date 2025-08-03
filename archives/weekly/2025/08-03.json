@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754249896777,
+  "endTime": 1754253035042,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -3779,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41369,
+      "num": 38210,
+      "word": "赵露思工作室运营权",
+      "onboard_time": 1754248216,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40020,
       "num": 40020,
       "word": "鞠婧祎丝巾上衣",
@@ -3825,14 +3833,6 @@
       "onboard_time": 1754159776,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29097,
-      "num": 29097,
-      "word": "赵露思工作室运营权",
-      "onboard_time": 1754248216,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 28903,

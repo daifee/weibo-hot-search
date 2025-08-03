@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754249896777,
+  "endTime": 1754253035042,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -10491,6 +10491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41369,
+      "num": 38210,
+      "word": "赵露思工作室运营权",
+      "onboard_time": 1754248216,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41013,
       "num": 53607,
       "word": "新说唱总决赛",
@@ -10713,14 +10721,6 @@
       "onboard_time": 1754119223,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29097,
-      "num": 29097,
-      "word": "赵露思工作室运营权",
-      "onboard_time": 1754248216,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 28903,

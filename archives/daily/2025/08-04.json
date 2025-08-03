@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754249896777,
+  "endTime": 1754253035042,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -427,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41369,
+      "num": 38210,
+      "word": "赵露思工作室运营权",
+      "onboard_time": 1754248216,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41053,
       "num": 50414,
       "word": "安静公主自曝睡医院地上",
@@ -449,14 +457,6 @@
       "onboard_time": 1754231605,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29097,
-      "num": 29097,
-      "word": "赵露思工作室运营权",
-      "onboard_time": 1754248216,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 26543,
