@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/04 00:33:25 ~ 2025/08/04 00:33:25
+本榜单时间：2025/08/04 00:33:25 ~ 2025/08/04 00:49:56
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
+全球贸易史上迎来黑暗一天（热度：434072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%E7%9A%84%E5%AE%B6%E4%B9%B1%E7%9A%84%E8%AE%A9%E4%BA%BA%E9%9C%87%E6%92%BC%23" target="weibo">
 管乐的家乱的让人震撼（热度：357343）
 </a>
@@ -87,12 +93,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
-全球贸易史上迎来黑暗一天（热度：336101）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94i8%E5%AE%89%E5%85%A8%E6%80%A7%E7%A2%B0%E6%92%9E%E6%B5%8B%E8%AF%95%23" target="weibo">
 理想回应i8安全性碰撞测试（热度：313446）
 </a>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%B8%AE%E5%94%B1%23" target="weibo">
 歌手帮唱（热度：239312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B187%E4%B8%87%E5%8A%9E%E4%BA%86300%E5%B9%B4%E7%9A%84%E5%81%A5%E8%BA%AB%E5%8D%A1%23" target="weibo">
+男子花87万办了300年的健身卡（热度：231407）
 </a>
 </li>
 
@@ -153,12 +159,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B187%E4%B8%87%E5%8A%9E%E4%BA%86300%E5%B9%B4%E7%9A%84%E5%81%A5%E8%BA%AB%E5%8D%A1%23" target="weibo">
-男子花87万办了300年的健身卡（热度：140591）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF1.5%E4%BA%BF%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
 上海一百年老洋房1.5亿元起拍（热度：131208）
 </a>
@@ -185,6 +185,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BABYMONSTER%E6%96%B0%E6%AD%8C%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23" target="weibo">
 BABYMONSTER新歌涉嫌抄袭（热度：114596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%23" target="weibo">
+刘宇宁演唱会四大名著（热度：110272）
 </a>
 </li>
 
@@ -285,6 +291,12 @@ Shad0w预测BLG连胜至常规赛结束（热度：88568）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E7%9B%B4%E6%92%AD%23" target="weibo">
+王源直播（热度：81417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%20%E4%B9%90%E6%89%A3%23" target="weibo">
 法拉利 乐扣（热度：79642）
 </a>
@@ -303,8 +315,14 @@ Shad0w预测BLG连胜至常规赛结束（热度：88568）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E7%9B%B4%E6%92%AD%23" target="weibo">
-王源直播（热度：70312）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B37%E4%B8%AA%E6%9C%88%E5%A4%A7%E4%BE%84%E5%A5%B3%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85%E7%97%87%E7%8A%B6%23" target="weibo">
+男子杀害7个月大侄女无精神病症状（热度：61067）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E6%A2%81%E5%AE%B6%E8%BE%89%E6%B3%95%E6%8B%89%E5%88%A9%E8%80%81%E4%BA%86%E8%BF%98%E6%98%AF%E6%B3%95%E6%8B%89%E5%88%A9%23" target="weibo">
+成龙梁家辉法拉利老了还是法拉利（热度：59319）
 </a>
 </li>
 
