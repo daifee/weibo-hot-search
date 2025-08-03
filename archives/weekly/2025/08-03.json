@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754225759849,
+  "endTime": 1754226666368,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2570311,
-      "num": 2570311,
+      "raw_hot": 2628897,
+      "num": 2628897,
       "word": "新郎去世新娘终止妊娠被判还彩礼",
       "onboard_time": 1754223024,
       "rank": 0,
@@ -265,6 +265,14 @@
       "onboard_time": 1754184922,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 903794,
+      "num": 903794,
+      "word": "赵露思回复利用网友解约",
+      "onboard_time": 1754224706,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 885745,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 531241,
-      "num": 315253,
+      "num": 389145,
       "word": "首尔偶遇周也",
       "onboard_time": 1754222663,
       "rank": 12,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 493031,
-      "num": 311049,
+      "num": 372812,
       "word": "何运晨 娱乐圈普法宣传官",
       "onboard_time": 1754220204,
       "rank": 46,
@@ -505,14 +513,6 @@
       "onboard_time": 1754177479,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 458643,
-      "num": 302234,
-      "word": "赵露思回复利用网友解约",
-      "onboard_time": 1754224706,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 444551,
@@ -561,6 +561,14 @@
       "onboard_time": 1754190803,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398219,
+      "num": 398219,
+      "word": "以色列爆发全国性抗议",
+      "onboard_time": 1754223864,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 397885,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 378351,
-      "num": 283885,
+      "num": 313007,
       "word": "我家那闺女",
       "onboard_time": 1754222365,
       "rank": 15,
@@ -803,20 +811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270015,
-      "num": 330260,
-      "word": "以色列爆发全国性抗议",
-      "onboard_time": 1754223864,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 267367,
       "num": 246901,
       "word": "日本专家建议老人自杀解决老龄化",
       "onboard_time": 1754144069,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 265956,
+      "num": 265956,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1754225064,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 265000,
@@ -859,8 +867,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242489,
-      "num": 242489,
+      "raw_hot": 249325,
+      "num": 200929,
+      "word": "刘宇宁说丢人丢大发了",
+      "onboard_time": 1754225544,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 248817,
+      "num": 248817,
       "word": "12岁于子迪400米混合泳第四",
       "onboard_time": 1754224884,
       "rank": 19,
@@ -873,6 +889,14 @@
       "onboard_time": 1754183662,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 241952,
+      "num": 175112,
+      "word": "美国低收入家庭的晚餐",
+      "onboard_time": 1754224464,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 238298,
@@ -897,14 +921,6 @@
       "onboard_time": 1754204964,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228201,
-      "num": 228201,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1754225064,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 227107,
@@ -947,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216931,
+      "num": 216931,
+      "word": "两名中国人在柬埔寨遇害遭抛尸河中",
+      "onboard_time": 1754222484,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216835,
       "num": 139145,
       "word": "终于看懂体彩店是怎么盈利的了",
@@ -977,22 +1001,6 @@
       "onboard_time": 1754215104,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206823,
-      "num": 156592,
-      "word": "美国低收入家庭的晚餐",
-      "onboard_time": 1754224464,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 204796,
-      "num": 204796,
-      "word": "两名中国人在柬埔寨遇害遭抛尸河中",
-      "onboard_time": 1754222484,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204015,
@@ -1067,6 +1075,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 194844,
+      "num": 194844,
+      "word": "王源直播",
+      "onboard_time": 1754225904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193284,
+      "num": 193284,
+      "word": "真的不建议单手摘眼镜",
+      "onboard_time": 1754221584,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191192,
       "num": 191192,
       "word": "蔡徐坤洛杉矶生日会",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1754206765,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186431,
-      "num": 186431,
-      "word": "真的不建议单手摘眼镜",
-      "onboard_time": 1754221584,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 186358,
@@ -1243,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175002,
+      "num": 175002,
+      "word": "亮证姐是一切舆情的源头",
+      "onboard_time": 1754225365,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173833,
       "num": 214325,
       "word": "体检三大坑千万别被忽悠了",
@@ -1323,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167569,
+      "num": 167569,
+      "word": "LGDNBW对战AG",
+      "onboard_time": 1754226084,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167050,
       "num": 167050,
       "word": "不敢数汪顺抬头看了多少次成绩屏",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1754199984,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164728,
+      "num": 164728,
+      "word": "BLG对战TES",
+      "onboard_time": 1754221584,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 164506,
@@ -1515,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147595,
-      "num": 147595,
-      "word": "BLG对战TES",
-      "onboard_time": 1754221584,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 146594,
       "num": 156245,
       "word": "印乐大师接掌后的少林寺",
@@ -1616,6 +1648,14 @@
       "word": "IU宝剑结婚 钟硕那边我去说",
       "onboard_time": 1754127983,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142171,
+      "num": 142171,
+      "word": "任重孙骁骁带孩子逛商场",
+      "onboard_time": 1754226385,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1731,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136321,
-      "num": 136321,
-      "word": "刘宇宁说丢人丢大发了",
-      "onboard_time": 1754225544,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136074,
       "num": 136074,
       "word": "亮证事件失职失责人员将被严肃处理",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1754209344,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133912,
+      "num": 133912,
+      "word": "管乐真收拾了",
+      "onboard_time": 1754223864,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 133873,
@@ -1827,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129860,
+      "num": 129860,
+      "word": "汪铎是娱乐圈隐藏手模吧",
+      "onboard_time": 1754225605,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129365,
       "num": 248005,
       "word": "上海警方通报外国人阻止吸烟起纠纷",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1754142631,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128594,
+      "num": 128594,
+      "word": "减脂期可以吃的外卖",
+      "onboard_time": 1754224345,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 127841,
@@ -1955,28 +2011,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126081,
-      "num": 126081,
-      "word": "管乐真收拾了",
-      "onboard_time": 1754223864,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124863,
       "num": 124863,
       "word": "伯伯不ins字儿",
       "onboard_time": 1754196685,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124340,
-      "num": 124340,
-      "word": "亮证姐是一切舆情的源头",
-      "onboard_time": 1754225365,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123591,
@@ -2000,6 +2040,14 @@
       "word": "SNH48总选排名",
       "onboard_time": 1754138905,
       "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122800,
+      "num": 122800,
+      "word": "王安宇现场cue了花少",
+      "onboard_time": 1754226503,
+      "rank": 44,
       "category": "演出"
     },
     {
@@ -2131,16 +2179,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115906,
-      "num": 115906,
-      "word": "汪铎是娱乐圈隐藏手模吧",
-      "onboard_time": 1754225605,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 115396,
-      "num": 115396,
+      "raw_hot": 115588,
+      "num": 115588,
       "word": "苏超连云港队vs泰州队",
       "onboard_time": 1754224764,
       "rank": 47,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1754187443,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112062,
+      "num": 112062,
+      "word": "俄罗斯再遭袭",
+      "onboard_time": 1754226084,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111968,
@@ -2873,6 +2921,14 @@
       "onboard_time": 1754131342,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63634,
+      "num": 175127,
+      "word": "小时候自以为是大圣长大后却发现",
+      "onboard_time": 1754225784,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 63169,
