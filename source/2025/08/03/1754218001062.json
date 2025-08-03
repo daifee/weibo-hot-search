@@ -1,0 +1,410 @@
+{
+  "runTime": 1754218001062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271069,
+        "num": 1271069,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1062795,
+        "num": 1062795,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1754215345,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1072,
+        "num": 888688,
+        "word": "十五运会火炬发布",
+        "onboard_time": 1754148267,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801624,
+        "num": 801624,
+        "word": "广东新增2892例基孔肯雅热本地病例",
+        "onboard_time": 1754215703,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568620,
+        "num": 568620,
+        "word": "白马山失联5人均已遇难",
+        "onboard_time": 1754209944,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 435032,
+        "num": 435032,
+        "word": "战至巅峰直播",
+        "onboard_time": 1754211265,
+        "rank": 5,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 380928,
+        "num": 380928,
+        "word": "汤唯撕了我拍的撕拉片",
+        "onboard_time": 1754212704,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295322,
+        "num": 295322,
+        "word": "阿姨吹一周空调严重呼吸衰竭",
+        "onboard_time": 1754212344,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204075,
+        "num": 204075,
+        "word": "生娃能领7笔钱",
+        "onboard_time": 1754208326,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3031323,
+        "num": 202861,
+        "word": "银河酷娱取关了赵露思",
+        "onboard_time": 1754214563,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355944,
+        "num": 202611,
+        "word": "赵丽颖刘昊然 九重天",
+        "onboard_time": 1754211024,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339686,
+        "num": 201126,
+        "word": "巨型天牛现身哀牢山",
+        "onboard_time": 1754216543,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 197824,
+        "num": 197824,
+        "word": "长期独居的后遗症",
+        "onboard_time": 1754214742,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289757,
+        "num": 197545,
+        "word": "87版西游记如来佛扮演者去世",
+        "onboard_time": 1754206403,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555842,
+        "num": 187281,
+        "word": "赵露思说实在不行开个小面馆",
+        "onboard_time": 1754213305,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272201,
+        "num": 178955,
+        "word": "侯明昊后台换衣被直播了",
+        "onboard_time": 1754212823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269373,
+        "num": 168745,
+        "word": "成龙收到了阿祖面具版labubu",
+        "onboard_time": 1754216303,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212325,
+        "num": 164901,
+        "word": "被骗缅甸男生获救后收到录取通知书",
+        "onboard_time": 1754214984,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90264,
+        "num": 153395,
+        "word": "多家航司去高跟鞋化自选裤装",
+        "onboard_time": 1754217443,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150615,
+        "num": 150615,
+        "word": "仙逆",
+        "onboard_time": 1754217384,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 226016,
+        "num": 149175,
+        "word": "情绪化发言没有任何好处",
+        "onboard_time": 1754214203,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183271,
+        "num": 147330,
+        "word": "体检时留尿要等1秒钟",
+        "onboard_time": 1754213543,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140953,
+        "num": 140953,
+        "word": "保洁几乎将房子偷空用电驴运走",
+        "onboard_time": 1754217263,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125496,
+        "num": 140941,
+        "word": "脂肪参与比例最高的运动",
+        "onboard_time": 1754208565,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168643,
+        "num": 140386,
+        "word": "鞠婧祎张云龙表面笑嘻嘻背地抡大锤",
+        "onboard_time": 1754217323,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166116,
+        "num": 139919,
+        "word": "管乐的家乱的让人震撼",
+        "onboard_time": 1754217623,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125322,
+        "num": 139799,
+        "word": "内耗的人需要的安慰是这样的",
+        "onboard_time": 1754209525,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145359,
+        "num": 139273,
+        "word": "香奈儿婴幼儿时期童年照",
+        "onboard_time": 1754215764,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139105,
+        "num": 139105,
+        "word": "终于看懂体彩店是怎么盈利的了",
+        "onboard_time": 1754212285,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133927,
+        "num": 133927,
+        "word": "定风波男主",
+        "onboard_time": 1754202442,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116564,
+        "num": 131649,
+        "word": "北京WBG获胜",
+        "onboard_time": 1754216663,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131054,
+        "num": 131054,
+        "word": "疑似秦奋投诉韦雪",
+        "onboard_time": 1754206704,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 11775,
+        "num": 130292,
+        "word": "福建舰模拟弹射试验后战士们紧紧相拥",
+        "onboard_time": 1754182402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129662,
+        "num": 129662,
+        "word": "小区卖盒饭一天收入580元",
+        "onboard_time": 1754214563,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123426,
+        "num": 123426,
+        "word": "杜华算不算透露娱乐圈内幕了",
+        "onboard_time": 1754193805,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121437,
+        "num": 121437,
+        "word": "陈都灵上海",
+        "onboard_time": 1754215345,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121069,
+        "num": 121069,
+        "word": "陈雨菲赛季第五冠",
+        "onboard_time": 1754217504,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120794,
+        "num": 120794,
+        "word": "电影南京照相馆",
+        "onboard_time": 1754212764,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118125,
+        "num": 118125,
+        "word": "外交部驻澳公署声明",
+        "onboard_time": 1754210604,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112008,
+        "num": 116145,
+        "word": "孙怡 又不是没有受过伤",
+        "onboard_time": 1754217204,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115542,
+        "num": 115542,
+        "word": "一个亿有多少",
+        "onboard_time": 1754217684,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117080,
+        "num": 111708,
+        "word": "孙怡父母托举式爱的具象化",
+        "onboard_time": 1754204484,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106732,
+        "num": 106732,
+        "word": "日本反华的根源",
+        "onboard_time": 1754202384,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99834,
+        "num": 99834,
+        "word": "张予曦回应被说花瓶",
+        "onboard_time": 1754215104,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96712,
+        "num": 96712,
+        "word": "电影731定档海报",
+        "onboard_time": 1754212163,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96371,
+        "num": 96371,
+        "word": "二级消防士的行政执法证有什么用",
+        "onboard_time": 1754213723,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96007,
+        "num": 96007,
+        "word": "时代少年团 上海",
+        "onboard_time": 1754192906,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94366,
+        "num": 94366,
+        "word": "731定档九一八戳中泪点",
+        "onboard_time": 1754215464,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92682,
+        "num": 92682,
+        "word": "家属冒用执法证该怎么处理",
+        "onboard_time": 1754216183,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88493,
+        "num": 88493,
+        "word": "战至巅峰",
+        "onboard_time": 1754190563,
+        "rank": 49,
+        "category": "综艺,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#保卫和平是人民军队之责#"
+    }
+  }
+}

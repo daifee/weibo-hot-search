@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754216928391,
+  "endTime": 1754218001062,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1062795,
+      "num": 1062795,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1754215345,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1032449,
       "num": 1032449,
       "word": "广西防城港认真全面整改",
@@ -225,6 +233,14 @@
       "onboard_time": 1754206403,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801624,
+      "num": 801624,
+      "word": "广东新增2892例基孔肯雅热本地病例",
+      "onboard_time": 1754215703,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 784496,
@@ -321,14 +337,6 @@
       "onboard_time": 1754140232,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 617112,
-      "num": 617112,
-      "word": "朋友圈先私密几天后再公开",
-      "onboard_time": 1754215345,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 607894,
@@ -491,20 +499,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 380928,
+      "num": 380928,
+      "word": "汤唯撕了我拍的撕拉片",
+      "onboard_time": 1754212704,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379118,
       "num": 250888,
       "word": "易烊千玺好美",
       "onboard_time": 1754143710,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 374438,
-      "num": 238233,
-      "word": "汤唯撕了我拍的撕拉片",
-      "onboard_time": 1754212704,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 362440,
@@ -563,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331918,
-      "num": 331918,
-      "word": "广东新增2892例基孔肯雅热本地病例",
-      "onboard_time": 1754215703,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 339686,
+      "num": 201126,
+      "word": "巨型天牛现身哀牢山",
+      "onboard_time": 1754216543,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 326928,
@@ -601,6 +609,14 @@
       "onboard_time": 1754200285,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295322,
+      "num": 295322,
+      "word": "阿姨吹一周空调严重呼吸衰竭",
+      "onboard_time": 1754212344,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291491,
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269373,
+      "num": 168745,
+      "word": "成龙收到了阿祖面具版labubu",
+      "onboard_time": 1754216303,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267367,
       "num": 246901,
       "word": "日本专家建议老人自杀解决老龄化",
@@ -697,14 +721,6 @@
       "onboard_time": 1754183662,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 239214,
-      "num": 239214,
-      "word": "阿姨吹一周空调严重呼吸衰竭",
-      "onboard_time": 1754212344,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238298,
@@ -763,8 +779,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209486,
-      "num": 135025,
+      "raw_hot": 212325,
+      "num": 164901,
       "word": "被骗缅甸男生获救后收到录取通知书",
       "onboard_time": 1754214984,
       "rank": 30,
@@ -785,14 +801,6 @@
       "onboard_time": 1754197224,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202912,
-      "num": 152467,
-      "word": "成龙收到了阿祖面具版labubu",
-      "onboard_time": 1754216303,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 201922,
@@ -827,8 +835,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197489,
-      "num": 197489,
+      "raw_hot": 197824,
+      "num": 197824,
       "word": "长期独居的后遗症",
       "onboard_time": 1754214742,
       "rank": 15,
@@ -937,6 +945,14 @@
       "onboard_time": 1754195785,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 183271,
+      "num": 147330,
+      "word": "体检时留尿要等1秒钟",
+      "onboard_time": 1754213543,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180383,
@@ -1067,12 +1083,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168643,
+      "num": 140386,
+      "word": "鞠婧祎张云龙表面笑嘻嘻背地抡大锤",
+      "onboard_time": 1754217323,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167050,
       "num": 167050,
       "word": "不敢数汪顺抬头看了多少次成绩屏",
       "onboard_time": 1754203582,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166116,
+      "num": 139919,
+      "word": "管乐的家乱的让人震撼",
+      "onboard_time": 1754217623,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 165824,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1754193087,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157965,
-      "num": 133334,
-      "word": "体检时留尿要等1秒钟",
-      "onboard_time": 1754213543,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156949,
@@ -1219,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150615,
+      "num": 150615,
+      "word": "仙逆",
+      "onboard_time": 1754217384,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150262,
       "num": 207946,
       "word": "越剧演员表演时苍蝇在脸上乱爬",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1754215764,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147727,
-      "num": 130786,
-      "word": "巨型天牛现身哀牢山",
-      "onboard_time": 1754216543,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 146594,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1754210664,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140953,
+      "num": 140953,
+      "word": "保洁几乎将房子偷空用电驴运走",
+      "onboard_time": 1754217263,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140610,
@@ -1499,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129662,
+      "num": 129662,
+      "word": "小区卖盒饭一天收入580元",
+      "onboard_time": 1754214563,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129365,
       "num": 248005,
       "word": "上海警方通报外国人阻止吸烟起纠纷",
@@ -1619,14 +1659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124466,
-      "num": 124466,
-      "word": "小区卖盒饭一天收入580元",
-      "onboard_time": 1754214563,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123591,
       "num": 240894,
       "word": "韩红演唱会嘉宾陈立农",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1754196024,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121069,
+      "num": 121069,
+      "word": "陈雨菲赛季第五冠",
+      "onboard_time": 1754217504,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 120876,
@@ -1739,12 +1779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116564,
+      "num": 131649,
+      "word": "北京WBG获胜",
+      "onboard_time": 1754216663,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116358,
       "num": 116358,
       "word": "邓妍才是迪丽热巴原皮吧",
       "onboard_time": 1754182520,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115542,
+      "num": 115542,
+      "word": "一个亿有多少",
+      "onboard_time": 1754217684,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114718,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1754187443,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112008,
+      "num": 116145,
+      "word": "孙怡 又不是没有受过伤",
+      "onboard_time": 1754217204,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 111968,
@@ -2059,6 +2123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92682,
+      "num": 238978,
+      "word": "家属冒用执法证该怎么处理",
+      "onboard_time": 1754216183,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91948,
       "num": 91948,
       "word": "中国队女子4x100混接晋级决赛",
@@ -2081,6 +2153,14 @@
       "onboard_time": 1754215285,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90264,
+      "num": 153395,
+      "word": "多家航司去高跟鞋化自选裤装",
+      "onboard_time": 1754217443,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89944,
@@ -2137,14 +2217,6 @@
       "onboard_time": 1754176817,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86267,
-      "num": 86267,
-      "word": "北京WBG获胜",
-      "onboard_time": 1754216663,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 85441,
@@ -2348,7 +2420,7 @@
     },
     {
       "raw_hot": 68696,
-      "num": 233548,
+      "num": 888688,
       "word": "十五运会火炬发布",
       "onboard_time": 1754148267,
       "rank": 47,
@@ -2441,14 +2513,6 @@
       "onboard_time": 1754177420,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 55217,
-      "num": 238978,
-      "word": "家属冒用执法证该怎么处理",
-      "onboard_time": 1754216183,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54640,

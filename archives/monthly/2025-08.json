@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754216928391,
+  "endTime": 1754218001062,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -499,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1062795,
+      "num": 1062795,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1754215345,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1057657,
       "num": 944393,
       "word": "张予曦 卢昱晓对不起",
@@ -729,6 +737,14 @@
       "onboard_time": 1754144429,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 801624,
+      "num": 801624,
+      "word": "广东新增2892例基孔肯雅热本地病例",
+      "onboard_time": 1754215703,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 796829,
@@ -1064,14 +1080,6 @@
       "word": "真的建议钱要花在体验上",
       "onboard_time": 1754114962,
       "rank": 17,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 617112,
-      "num": 617112,
-      "word": "朋友圈先私密几天后再公开",
-      "onboard_time": 1754215345,
-      "rank": 4,
       "category": "情感"
     },
     {
@@ -1699,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380928,
+      "num": 380928,
+      "word": "汤唯撕了我拍的撕拉片",
+      "onboard_time": 1754212704,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380072,
       "num": 380072,
       "word": "日本压抑感",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1754036662,
       "rank": 19,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 374438,
-      "num": 238233,
-      "word": "汤唯撕了我拍的撕拉片",
-      "onboard_time": 1754212704,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 365668,
@@ -1899,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339686,
+      "num": 201126,
+      "word": "巨型天牛现身哀牢山",
+      "onboard_time": 1754216543,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 339381,
       "num": 339381,
       "word": "中国游客在大阪遇袭",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1754014341,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331918,
-      "num": 331918,
-      "word": "广东新增2892例基孔肯雅热本地病例",
-      "onboard_time": 1754215703,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331741,
@@ -2211,6 +2219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295322,
+      "num": 295322,
+      "word": "阿姨吹一周空调严重呼吸衰竭",
+      "onboard_time": 1754212344,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294173,
       "num": 294173,
       "word": "歌手第十二期歌单官宣",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1754031564,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269373,
+      "num": 168745,
+      "word": "成龙收到了阿祖面具版labubu",
+      "onboard_time": 1754216303,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 268268,
@@ -2665,14 +2689,6 @@
       "onboard_time": 1754046563,
       "rank": 17,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 239214,
-      "num": 239214,
-      "word": "阿姨吹一周空调严重呼吸衰竭",
-      "onboard_time": 1754212344,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239076,
@@ -3131,6 +3147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212325,
+      "num": 164901,
+      "word": "被骗缅甸男生获救后收到录取通知书",
+      "onboard_time": 1754214984,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 212193,
       "num": 212193,
       "word": "曹缘男子3米板银牌",
@@ -3193,14 +3217,6 @@
       "onboard_time": 1754105902,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209486,
-      "num": 135025,
-      "word": "被骗缅甸男生获救后收到录取通知书",
-      "onboard_time": 1754214984,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 209468,
@@ -3403,14 +3419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202912,
-      "num": 152467,
-      "word": "成龙收到了阿祖面具版labubu",
-      "onboard_time": 1754216303,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202850,
       "num": 202850,
       "word": "时代少年团七月行程更新",
@@ -3563,20 +3571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197824,
+      "num": 197824,
+      "word": "长期独居的后遗症",
+      "onboard_time": 1754214742,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197690,
       "num": 232346,
       "word": "Shanks AL也回来了",
       "onboard_time": 1754145271,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197489,
-      "num": 197489,
-      "word": "长期独居的后遗症",
-      "onboard_time": 1754214742,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 197441,
@@ -4009,6 +4017,14 @@
       "onboard_time": 1754034203,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183271,
+      "num": 147330,
+      "word": "体检时留尿要等1秒钟",
+      "onboard_time": 1754213543,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 182962,
@@ -4491,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168643,
+      "num": 140386,
+      "word": "鞠婧祎张云龙表面笑嘻嘻背地抡大锤",
+      "onboard_time": 1754217323,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167486,
       "num": 167486,
       "word": "鸟鸟 我现在是世界的旁观者",
@@ -4528,6 +4552,14 @@
       "word": "二十年后才看懂一帘幽梦",
       "onboard_time": 1754027182,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166116,
+      "num": 139919,
+      "word": "管乐的家乱的让人震撼",
+      "onboard_time": 1754217623,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -4899,14 +4931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157965,
-      "num": 133334,
-      "word": "体检时留尿要等1秒钟",
-      "onboard_time": 1754213543,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 157834,
       "num": 157834,
       "word": "迪丽热巴抬手不是抱歉是你还得练",
@@ -5219,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150615,
+      "num": 150615,
+      "word": "仙逆",
+      "onboard_time": 1754217384,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150487,
       "num": 196106,
       "word": "朱孝天称台湾就是一个省希望赶快统一",
@@ -5385,14 +5417,6 @@
       "onboard_time": 1754047343,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147727,
-      "num": 130786,
-      "word": "巨型天牛现身哀牢山",
-      "onboard_time": 1754216543,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 147719,
@@ -5713,6 +5737,14 @@
       "onboard_time": 1754133922,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140953,
+      "num": 140953,
+      "word": "保洁几乎将房子偷空用电驴运走",
+      "onboard_time": 1754217263,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140826,
@@ -6451,6 +6483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129662,
+      "num": 129662,
+      "word": "小区卖盒饭一天收入580元",
+      "onboard_time": 1754214563,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "SNH48香港演唱会",
@@ -6747,14 +6787,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 124466,
-      "num": 124466,
-      "word": "小区卖盒饭一天收入580元",
-      "onboard_time": 1754214563,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124371,
       "num": 124371,
       "word": "杨洋带双瞳鼠跳个舞",
@@ -6971,6 +7003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121069,
+      "num": 121069,
+      "word": "陈雨菲赛季第五冠",
+      "onboard_time": 1754217504,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120876,
       "num": 120876,
       "word": "严浩翔Rapeter再合作一次吧",
@@ -7179,6 +7219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116564,
+      "num": 131649,
+      "word": "北京WBG获胜",
+      "onboard_time": 1754216663,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116552,
       "num": 134185,
       "word": "刘亦菲采访反耻感教科书",
@@ -7251,6 +7299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115542,
+      "num": 115542,
+      "word": "一个亿有多少",
+      "onboard_time": 1754217684,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115409,
       "num": 115409,
       "word": "假装上班公司 不能迟到玩手机",
@@ -7268,7 +7324,7 @@
     },
     {
       "raw_hot": 115322,
-      "num": 301569,
+      "num": 888688,
       "word": "十五运会火炬发布",
       "onboard_time": 1754148267,
       "rank": 38,
@@ -7465,6 +7521,14 @@
       "onboard_time": 1754125283,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112008,
+      "num": 116145,
+      "word": "孙怡 又不是没有受过伤",
+      "onboard_time": 1754217204,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 111968,
@@ -8211,6 +8275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92682,
+      "num": 238978,
+      "word": "家属冒用执法证该怎么处理",
+      "onboard_time": 1754216183,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91948,
       "num": 91948,
       "word": "中国队女子4x100混接晋级决赛",
@@ -8265,6 +8337,14 @@
       "onboard_time": 1753961663,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90264,
+      "num": 153395,
+      "word": "多家航司去高跟鞋化自选裤装",
+      "onboard_time": 1754217443,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89944,
@@ -8329,14 +8409,6 @@
       "onboard_time": 1753970665,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86267,
-      "num": 86267,
-      "word": "北京WBG获胜",
-      "onboard_time": 1754216663,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 86243,
@@ -8985,14 +9057,6 @@
       "onboard_time": 1754087419,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 55217,
-      "num": 238978,
-      "word": "家属冒用执法证该怎么处理",
-      "onboard_time": 1754216183,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54640,
