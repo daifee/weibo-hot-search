@@ -1,0 +1,410 @@
+{
+  "runTime": 1754220302696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1414970,
+        "num": 1414970,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1209701,
+        "num": 1209701,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1754215345,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74773,
+        "num": 955431,
+        "word": "高温暴雨强对流3预警齐发",
+        "onboard_time": 1754200105,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 870753,
+        "num": 870753,
+        "word": "管乐的家乱的让人震撼",
+        "onboard_time": 1754217623,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866102,
+        "num": 866102,
+        "word": "巨型天牛现身哀牢山",
+        "onboard_time": 1754216543,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 745148,
+        "num": 745148,
+        "word": "台风白鹿已生成",
+        "onboard_time": 1754218704,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712742,
+        "num": 712742,
+        "word": "赵露思说实在不行开个小面馆",
+        "onboard_time": 1754213305,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669214,
+        "num": 669214,
+        "word": "广东新增2892例基孔肯雅热本地病例",
+        "onboard_time": 1754215703,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614711,
+        "num": 614711,
+        "word": "TOP 海口",
+        "onboard_time": 1754218223,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364564,
+        "num": 364564,
+        "word": "白马山失联5人均已遇难",
+        "onboard_time": 1754209944,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 372560,
+        "num": 355368,
+        "word": "汤唯撕了我拍的撕拉片",
+        "onboard_time": 1754212704,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2444546,
+        "num": 344214,
+        "word": "银河酷娱取关了赵露思",
+        "onboard_time": 1754214563,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332707,
+        "num": 332707,
+        "word": "一个亿有多少",
+        "onboard_time": 1754217684,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 329712,
+        "word": "情侣旅游发生车祸死里逃生后领证",
+        "onboard_time": 1754218523,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318517,
+        "num": 318517,
+        "word": "保洁几乎将房子偷空用电驴运走",
+        "onboard_time": 1754217263,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311160,
+        "num": 311160,
+        "word": "成龙收到了阿祖面具版labubu",
+        "onboard_time": 1754216303,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293261,
+        "num": 293261,
+        "word": "仙逆",
+        "onboard_time": 1754217384,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 275291,
+        "num": 275291,
+        "word": "战至巅峰直播",
+        "onboard_time": 1754211265,
+        "rank": 17,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 275043,
+        "num": 275043,
+        "word": "87版西游记如来佛扮演者去世",
+        "onboard_time": 1754206403,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269946,
+        "num": 269946,
+        "word": "赵丽颖刘昊然 九重天",
+        "onboard_time": 1754211024,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256110,
+        "num": 256110,
+        "word": "多家航司去高跟鞋化自选裤装",
+        "onboard_time": 1754217443,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218988,
+        "num": 218988,
+        "word": "跳水",
+        "onboard_time": 1754218643,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204015,
+        "num": 204015,
+        "word": "丈夫发现亡妻生前转账已婚男93万",
+        "onboard_time": 1754218884,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199662,
+        "num": 199662,
+        "word": "孙怡 又不是没有受过伤",
+        "onboard_time": 1754217204,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198366,
+        "num": 198366,
+        "word": "被骗缅甸男生获救后收到录取通知书",
+        "onboard_time": 1754214984,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191948,
+        "num": 191948,
+        "word": "情绪化发言没有任何好处",
+        "onboard_time": 1754214203,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177352,
+        "num": 177352,
+        "word": "长期独居的后遗症",
+        "onboard_time": 1754214742,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174649,
+        "num": 174649,
+        "word": "侯明昊后台换衣被直播了",
+        "onboard_time": 1754212823,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173470,
+        "num": 173470,
+        "word": "中国队无缘男子10米台奖牌",
+        "onboard_time": 1754219845,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170115,
+        "num": 170115,
+        "word": "阿姨吹一周空调严重呼吸衰竭",
+        "onboard_time": 1754212344,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156533,
+        "num": 156533,
+        "word": "基孔肯雅热",
+        "onboard_time": 1754219003,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149199,
+        "num": 149199,
+        "word": "王楚然麻花辫民国女学生",
+        "onboard_time": 1754219483,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145659,
+        "num": 145659,
+        "word": "花海夸时代少年团",
+        "onboard_time": 1754220142,
+        "rank": 32,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 137254,
+        "num": 137254,
+        "word": "小区卖盒饭一天收入580元",
+        "onboard_time": 1754214563,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131816,
+        "num": 131816,
+        "word": "陈都灵上海",
+        "onboard_time": 1754215345,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127277,
+        "num": 127277,
+        "word": "体检时留尿要等1秒钟",
+        "onboard_time": 1754213543,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121267,
+        "num": 121267,
+        "word": "定风波男主",
+        "onboard_time": 1754202442,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 116120,
+        "word": "香奈儿婴幼儿时期童年照",
+        "onboard_time": 1754215764,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114691,
+        "num": 114691,
+        "word": "疑似秦奋投诉韦雪",
+        "onboard_time": 1754206704,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113337,
+        "num": 113337,
+        "word": "第一次当妈妈的真实感受",
+        "onboard_time": 1754219363,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109984,
+        "num": 109984,
+        "word": "生娃能领7笔钱",
+        "onboard_time": 1754208326,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107825,
+        "num": 107825,
+        "word": "终于看懂体彩店是怎么盈利的了",
+        "onboard_time": 1754212285,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106034,
+        "num": 106034,
+        "word": "两个女人嘴在挑衅眼在欣赏",
+        "onboard_time": 1754218763,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105299,
+        "num": 105299,
+        "word": "21岁大专女孩成中国唯一女烘焙冠军",
+        "onboard_time": 1754218523,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104888,
+        "num": 104888,
+        "word": "母子五人在英国被安置在集装箱",
+        "onboard_time": 1754220204,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104086,
+        "num": 104086,
+        "word": "严浩翔半框眼镜",
+        "onboard_time": 1754218223,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96667,
+        "num": 96667,
+        "word": "何运晨 娱乐圈普法宣传官",
+        "onboard_time": 1754220204,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96373,
+        "num": 96373,
+        "word": "奔驰女司机丈夫或面临相应政务处分",
+        "onboard_time": 1754220142,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96166,
+        "num": 96166,
+        "word": "莫雷加德吃了北京烤鸭",
+        "onboard_time": 1754220204,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95189,
+        "num": 95189,
+        "word": "鞠婧祎张云龙表面笑嘻嘻背地抡大锤",
+        "onboard_time": 1754217323,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
