@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754203127529,
+  "endTime": 1754203997978,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1371,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444204,
+      "num": 418956,
+      "word": "许允真说Labubu不好看",
+      "onboard_time": 1754198485,
+      "rank": 28,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 443825,
       "num": 351960,
       "word": "鹿晗亚巡再宣五城",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1754021241,
       "rank": 38,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 418956,
-      "num": 418956,
-      "word": "许允真说Labubu不好看",
-      "onboard_time": 1754198485,
-      "rank": 28,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 415417,
@@ -1587,6 +1587,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 373002,
+      "num": 373002,
+      "word": "定风波男主",
+      "onboard_time": 1754202442,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365668,
       "num": 365668,
       "word": "张元英开球",
@@ -1683,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351234,
+      "num": 351234,
+      "word": "恋人剧组解散该谁赔钱",
+      "onboard_time": 1754203044,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348824,
       "num": 378227,
       "word": "人民海军湖北舰来啦",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1754132302,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 334132,
+      "num": 334132,
+      "word": "大妈偷外卖",
+      "onboard_time": 1754200884,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333796,
@@ -1939,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305360,
+      "num": 305360,
+      "word": "汪顺潘展乐覃海洋徐放预赛第9",
+      "onboard_time": 1754198125,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305157,
       "num": 305157,
       "word": "鸡蛋太贵买了一个做了七菜一汤",
@@ -1979,6 +2011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 301729,
+      "num": 296570,
+      "word": "李晟 女驸马",
+      "onboard_time": 1754200285,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299206,
       "num": 299206,
       "word": "sp丹恒",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1754040381,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296570,
-      "num": 296570,
-      "word": "李晟 女驸马",
-      "onboard_time": 1754200285,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 295472,
@@ -2555,14 +2587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229853,
-      "num": 221256,
-      "word": "恋人剧组解散该谁赔钱",
-      "onboard_time": 1754203044,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228995,
       "num": 228995,
       "word": "外嫁女户籍仍在本村拆迁补偿却没份",
@@ -2657,14 +2681,6 @@
       "onboard_time": 1754029101,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224461,
-      "num": 224461,
-      "word": "汪顺潘展乐覃海洋徐放预赛第9",
-      "onboard_time": 1754198125,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 224324,
@@ -3203,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201922,
+      "num": 192487,
+      "word": "人贩子最解气的死法出现了",
+      "onboard_time": 1754202083,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201703,
       "num": 201703,
       "word": "中国篮协通报辽宁山东U21群殴事件",
@@ -3251,14 +3275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200252,
-      "num": 200252,
-      "word": "定风波男主",
-      "onboard_time": 1754202442,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200195,
       "num": 216167,
       "word": "爱豆侯明昊杀回来了",
@@ -3305,14 +3321,6 @@
       "onboard_time": 1754056284,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197848,
-      "num": 192487,
-      "word": "人贩子最解气的死法出现了",
-      "onboard_time": 1754202083,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 197690,
@@ -3491,12 +3499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191799,
+      "num": 191799,
+      "word": "林则徐棉花娃",
+      "onboard_time": 1754202503,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191489,
       "num": 184995,
       "word": "庆祝解放军建军98周年",
       "onboard_time": 1754019802,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 191192,
+      "num": 191192,
+      "word": "蔡徐坤洛杉矶生日会",
+      "onboard_time": 1754203343,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 190550,
@@ -4219,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165606,
+      "num": 153586,
+      "word": "不敢数汪顺抬头看了多少次成绩屏",
+      "onboard_time": 1754203582,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165479,
       "num": 165479,
       "word": "朴山多拉 登顶",
@@ -4547,6 +4579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158475,
+      "num": 191710,
+      "word": "日本反华的根源",
+      "onboard_time": 1754202384,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158331,
       "num": 158331,
       "word": "王琳自己淋过雨要给儿子撑伞",
@@ -4561,14 +4601,6 @@
       "onboard_time": 1754101041,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157844,
-      "num": 203602,
-      "word": "大妈偷外卖",
-      "onboard_time": 1754200884,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157834,
@@ -4801,6 +4833,14 @@
       "onboard_time": 1754102001,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152186,
+      "num": 152186,
+      "word": "钎城单膝跪地变装",
+      "onboard_time": 1754203284,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 151995,
@@ -5169,6 +5209,14 @@
       "onboard_time": 1754035402,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143303,
+      "num": 143303,
+      "word": "这代人有自己排队要领的鸡蛋",
+      "onboard_time": 1754203824,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 143205,
@@ -5715,6 +5763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133414,
+      "num": 133414,
+      "word": "千岛群岛附近海域发生7.0级地震",
+      "onboard_time": 1754203284,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133132,
       "num": 133132,
       "word": "叶濛怀孕李靳屿升级当爸",
@@ -5865,14 +5921,6 @@
       "onboard_time": 1754024842,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130715,
-      "num": 138790,
-      "word": "林则徐棉花娃",
-      "onboard_time": 1754202503,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 130470,
@@ -6427,12 +6475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120780,
-      "num": 120780,
-      "word": "日本反华的根源",
-      "onboard_time": 1754202384,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 121039,
+      "num": 121039,
+      "word": "正餐别只吃凉皮凉面",
+      "onboard_time": 1754200763,
+      "rank": 39,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 120734,
@@ -6545,14 +6593,6 @@
       "onboard_time": 1754095820,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118930,
-      "num": 118930,
-      "word": "正餐别只吃凉皮凉面",
-      "onboard_time": 1754200763,
-      "rank": 39,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 118757,
@@ -6956,7 +6996,7 @@
     },
     {
       "raw_hot": 110171,
-      "num": 138493,
+      "num": 190945,
       "word": "高温暴雨强对流3预警齐发",
       "onboard_time": 1754200105,
       "rank": 49,
@@ -7025,6 +7065,14 @@
       "onboard_time": 1754124981,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107378,
+      "num": 107378,
+      "word": "男子在地铁安检口偷拍裙底被抓现行",
+      "onboard_time": 1754203463,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107090,
@@ -7185,6 +7233,14 @@
       "onboard_time": 1754132604,
       "rank": 45,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 103220,
+      "num": 103220,
+      "word": "男爱豆惊天大逆转从垫底到第一",
+      "onboard_time": 1754203524,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 103209,
@@ -7363,6 +7419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97014,
+      "num": 97014,
+      "word": "被亮证当事人称已接受对方道歉",
+      "onboard_time": 1754201484,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96853,
       "num": 151933,
       "word": "刚毕业就月入过万的原因",
@@ -7497,14 +7561,6 @@
       "onboard_time": 1754118261,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93111,
-      "num": 93111,
-      "word": "被亮证当事人称已接受对方道歉",
-      "onboard_time": 1754201484,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93073,
@@ -7740,7 +7796,7 @@
     },
     {
       "raw_hot": 83021,
-      "num": 137053,
+      "num": 191276,
       "word": "美国对瑞士征收39%关税",
       "onboard_time": 1754196805,
       "rank": 31,
