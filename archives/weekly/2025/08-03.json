@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754228309962,
+  "endTime": 1754229045011,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1692916,
+      "num": 1692916,
+      "word": "赵露思回复利用网友解约",
+      "onboard_time": 1754224706,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1607934,
       "num": 213512,
       "word": "赵露思说自己80斤拍戏多好啊",
@@ -145,14 +153,6 @@
       "onboard_time": 1754185343,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1516608,
-      "num": 1516608,
-      "word": "赵露思回复利用网友解约",
-      "onboard_time": 1754224706,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1357609,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672799,
+      "num": 405595,
+      "word": "任重孙骁骁带孩子逛商场",
+      "onboard_time": 1754226385,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672038,
       "num": 672038,
       "word": "豆瓣崩了",
@@ -395,7 +403,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 644376,
+      "raw_hot": 652518,
       "num": 407222,
       "word": "刘宇宁说丢人丢大发了",
       "onboard_time": 1754225544,
@@ -425,14 +433,6 @@
       "onboard_time": 1754180001,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 580349,
-      "num": 405595,
-      "word": "任重孙骁骁带孩子逛商场",
-      "onboard_time": 1754226385,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 578746,
@@ -507,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500008,
+      "num": 387333,
+      "word": "美国低收入家庭的晚餐",
+      "onboard_time": 1754224464,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 493031,
       "num": 372812,
       "word": "何运晨 娱乐圈普法宣传官",
       "onboard_time": 1754220204,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488115,
+      "num": 488115,
+      "word": "以色列爆发全国性抗议",
+      "onboard_time": 1754223864,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 463279,
@@ -563,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436815,
-      "num": 436815,
-      "word": "以色列爆发全国性抗议",
-      "onboard_time": 1754223864,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 432635,
       "num": 432635,
       "word": "一个亿有多少",
@@ -595,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396433,
+      "num": 360548,
+      "word": "王源直播",
+      "onboard_time": 1754225904,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393506,
       "num": 393506,
       "word": "山东一彩民花69元中2.4亿元",
@@ -609,14 +625,6 @@
       "onboard_time": 1754218523,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387333,
-      "num": 387333,
-      "word": "美国低收入家庭的晚餐",
-      "onboard_time": 1754224464,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 386551,
@@ -657,6 +665,14 @@
       "onboard_time": 1754222365,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363701,
+      "num": 363701,
+      "word": "苏超盐城vs常州",
+      "onboard_time": 1754220745,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 362440,
@@ -747,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311085,
-      "num": 311085,
-      "word": "苏超盐城vs常州",
-      "onboard_time": 1754220745,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 307103,
       "num": 307103,
       "word": "宋雨琦章昊双人舞",
@@ -811,14 +819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285443,
-      "num": 285443,
-      "word": "王源直播",
-      "onboard_time": 1754225904,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285441,
       "num": 246927,
       "word": "97年出帅哥 79年出魔童",
@@ -843,12 +843,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284709,
+      "num": 284709,
+      "word": "亮证姐是一切舆情的源头",
+      "onboard_time": 1754225365,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283571,
+      "num": 283571,
+      "word": "盐城5比0常州",
+      "onboard_time": 1754228605,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282226,
       "num": 395392,
       "word": "这几天不是热热热就是雨雨雨",
       "onboard_time": 1754198723,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282224,
+      "num": 282224,
+      "word": "苏超",
+      "onboard_time": 1754228426,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 275658,
@@ -891,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259219,
+      "num": 259219,
+      "word": "人质父亲怒斥内塔尼亚胡失败",
+      "onboard_time": 1754226863,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258076,
       "num": 258076,
       "word": "林则徐棉花娃",
@@ -905,6 +937,14 @@
       "onboard_time": 1754217443,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254736,
+      "num": 254736,
+      "word": "气血不足最怕这6个动作",
+      "onboard_time": 1754228605,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 253026,
@@ -947,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235590,
-      "num": 235590,
-      "word": "亮证姐是一切舆情的源头",
-      "onboard_time": 1754225365,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235400,
       "num": 235400,
       "word": "王楚钦收到梦中情杆",
@@ -963,12 +995,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227870,
-      "num": 227870,
-      "word": "人质父亲怒斥内塔尼亚胡失败",
-      "onboard_time": 1754226863,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 234558,
+      "num": 234558,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1754228125,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 234081,
+      "num": 234081,
+      "word": "刺杀小说家2",
+      "onboard_time": 1754227345,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 227107,
@@ -1043,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204515,
-      "num": 204515,
-      "word": "刺杀小说家2",
-      "onboard_time": 1754227345,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 204588,
+      "num": 204588,
+      "word": "王安宇现场cue了花少",
+      "onboard_time": 1754226503,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 204015,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1754197224,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202881,
-      "num": 202881,
-      "word": "王安宇现场cue了花少",
-      "onboard_time": 1754226503,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 201922,
@@ -1123,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197786,
+      "num": 197786,
+      "word": "中国游泳队世锦赛收获2金6银6铜",
+      "onboard_time": 1754227886,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196459,
       "num": 196459,
       "word": "花3万改造哈利波特的楼梯间",
@@ -1144,6 +1184,14 @@
       "word": "蔡徐坤洛杉矶生日会",
       "onboard_time": 1754203343,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190445,
+      "num": 190445,
+      "word": "米加 王青",
+      "onboard_time": 1754228485,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1219,6 +1267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185309,
+      "num": 185309,
+      "word": "WBG世界杯吃鸡",
+      "onboard_time": 1754228605,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185180,
       "num": 162477,
       "word": "陈赫骗过了所有人包括自己",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1754213543,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182687,
+      "num": 182687,
+      "word": "中国队15金12银10铜收官",
+      "onboard_time": 1754228784,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 182389,
@@ -1299,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175965,
+      "num": 175965,
+      "word": "邓妍表哥",
+      "onboard_time": 1754228185,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175863,
       "num": 250002,
       "word": "卡车司机服务区去世三天被发现",
@@ -1339,6 +1411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173478,
+      "num": 173478,
+      "word": "安静公主自曝睡医院地上",
+      "onboard_time": 1754228784,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 173147,
+      "num": 234281,
+      "word": "录取通知书是我担帮我拆的",
+      "onboard_time": 1754227045,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173106,
       "num": 173106,
       "word": "哇唧唧哇新人眼前一亮",
@@ -1371,20 +1459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170252,
+      "num": 170252,
+      "word": "能把九尾狐画这么普的不多见了",
+      "onboard_time": 1754228665,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 169731,
       "num": 156027,
       "word": "侯明昊脸上贴了30颗碎钻",
       "onboard_time": 1754206285,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169545,
-      "num": 169545,
-      "word": "中国游泳队世锦赛收获2金6银6铜",
-      "onboard_time": 1754227886,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 169345,
@@ -1451,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164839,
-      "num": 197909,
-      "word": "录取通知书是我担帮我拆的",
-      "onboard_time": 1754227045,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164728,
       "num": 164728,
       "word": "BLG对战TES",
@@ -1497,14 +1577,6 @@
       "onboard_time": 1754179881,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162729,
-      "num": 162729,
-      "word": "杨清柠 王乐乐",
-      "onboard_time": 1754228125,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 159435,
@@ -2067,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127039,
+      "num": 234104,
+      "word": "凤凰山景区回应一游客坠崖身亡",
+      "onboard_time": 1754227946,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127029,
       "num": 127029,
       "word": "鹿晗超级冠军巡到新说唱了",
@@ -2153,14 +2233,6 @@
       "onboard_time": 1754138905,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122675,
-      "num": 122675,
-      "word": "邓妍表哥",
-      "onboard_time": 1754228185,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 122428,
@@ -2859,6 +2931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 81093,
+      "num": 234138,
+      "word": "中俄海上舰艇编队将举行为期3天演练",
+      "onboard_time": 1754228784,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80776,
       "num": 235084,
       "word": "38岁单亲妈妈陪读2年女儿上清华",
@@ -2995,14 +3075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68939,
-      "num": 195860,
-      "word": "凤凰山景区回应一游客坠崖身亡",
-      "onboard_time": 1754227946,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68696,
       "num": 888688,
       "word": "十五运会火炬发布",
@@ -3105,6 +3177,14 @@
       "onboard_time": 1754177420,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55595,
+      "num": 176321,
+      "word": "莫迪称印度将成为世界第三大经济体",
+      "onboard_time": 1754228426,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55472,
@@ -3335,6 +3415,14 @@
       "num": 568514,
       "word": "上半年国内居民出游人次32.85亿",
       "onboard_time": 1754037984,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 821,
+      "num": 540046,
+      "word": "无人机蜂群与机器狼协同作战演习",
+      "onboard_time": 1754181081,
       "rank": 2,
       "category": "民生新闻"
     }
