@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754261163496,
+  "endTime": 1754263671235,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -35,6 +35,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 754426,
+      "num": 754426,
+      "word": "全球贸易史上迎来黑暗一天",
+      "onboard_time": 1754234544,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 692583,
       "num": 692583,
       "word": "男童被绞断4根手指已恢复如初",
@@ -65,14 +73,6 @@
       "onboard_time": 1754223504,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 448154,
-      "num": 448154,
-      "word": "全球贸易史上迎来黑暗一天",
-      "onboard_time": 1754234544,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 357343,
@@ -171,8 +171,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195199,
-      "num": 195199,
+      "raw_hot": 203113,
+      "num": 203113,
       "word": "饭店用脏话做招牌被指辣眼睛",
       "onboard_time": 1754235564,
       "rank": 23,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 172172,
+      "num": 208260,
+      "word": "上海一百年老洋房1.5亿元起拍",
+      "onboard_time": 1754235803,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156151,
       "num": 156151,
       "word": "美国低收入家庭的晚餐",
@@ -195,11 +203,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 131208,
-      "num": 208260,
-      "word": "上海一百年老洋房1.5亿元起拍",
-      "onboard_time": 1754235803,
-      "rank": 25,
+      "raw_hot": 150856,
+      "num": 150856,
+      "word": "被骗缅甸获救高考生将学医学类专业",
+      "onboard_time": 1754253074,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149040,
+      "num": 149040,
+      "word": "男子杀害7个月大侄女无精神病症状",
+      "onboard_time": 1754238981,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -235,11 +251,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113327,
-      "num": 113327,
-      "word": "男子杀害7个月大侄女无精神病症状",
-      "onboard_time": 1754238981,
-      "rank": 47,
+      "raw_hot": 113844,
+      "num": 113844,
+      "word": "国航被泼热水旅客称赔1万变500",
+      "onboard_time": 1754258595,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112967,
+      "num": 112967,
+      "word": "官方回应饭店用脏话做招牌",
+      "onboard_time": 1754261357,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -305,14 +329,6 @@
       "onboard_time": 1754205685,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101686,
-      "num": 101686,
-      "word": "被骗缅甸获救高考生将学医学类专业",
-      "onboard_time": 1754253074,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99864,
@@ -387,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81841,
+      "num": 81841,
+      "word": "喝柠檬水能抗癌是真是假",
+      "onboard_time": 1754259495,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 81417,
       "num": 81417,
       "word": "王源直播",
@@ -411,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71178,
+      "num": 71178,
+      "word": "以色列爆发全国性抗议",
+      "onboard_time": 1754223864,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70689,
       "num": 79638,
       "word": "任重孙骁骁带孩子逛商场",
@@ -425,14 +457,6 @@
       "onboard_time": 1754248216,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59450,
-      "num": 59450,
-      "word": "国航被泼热水旅客称赔1万变500",
-      "onboard_time": 1754258595,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59319,
@@ -451,12 +475,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42797,
-      "num": 50410,
-      "word": "以色列爆发全国性抗议",
-      "onboard_time": 1754223864,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 48826,
+      "num": 48826,
+      "word": "王楚钦又跟人合影了",
+      "onboard_time": 1754262798,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48414,
+      "num": 48414,
+      "word": "潘展乐世锦赛后发文",
+      "onboard_time": 1754261237,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43714,
+      "num": 43714,
+      "word": "看世界并不需要很多钱",
+      "onboard_time": 1754262798,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42255,
+      "num": 42255,
+      "word": "美国女警疑似意外接触芬太尼后抽搐",
+      "onboard_time": 1754246655,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41053,
@@ -467,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 40656,
+      "num": 40656,
+      "word": "淮安队打破苏超两个神话",
+      "onboard_time": 1754263579,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38970,
       "num": 50409,
       "word": "张艺兴喊俺老孙在此",
@@ -475,19 +531,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36252,
-      "num": 36252,
-      "word": "喝柠檬水能抗癌是真是假",
-      "onboard_time": 1754259495,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 31891,
-      "num": 31891,
-      "word": "美国女警疑似意外接触芬太尼后抽搐",
-      "onboard_time": 1754246655,
-      "rank": 43,
+      "raw_hot": 34163,
+      "num": 210801,
+      "word": "非洲移民船倾覆已致54人死亡",
+      "onboard_time": 1754262559,
+      "rank": 9,
       "category": "海外新闻"
     },
     {
@@ -539,7 +587,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 4504,
+      "raw_hot": 4733,
       "num": 723424,
       "word": "无人机蜂群与机器狼协同作战演习",
       "onboard_time": 1754181081,

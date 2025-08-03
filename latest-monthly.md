@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/04 06:46:03
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/04 07:27:51
 </p>
 </blockquote>
 <p>
@@ -699,6 +699,12 @@ TF四代 超载（热度：867979）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
+全球贸易史上迎来黑暗一天（热度：754426）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A5%B3%E5%AD%90%E9%81%AD%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%8F%8B%E7%BA%A0%E7%BC%A0%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 20岁女子遭已婚男友纠缠跳楼身亡（热度：752567）
 </a>
@@ -1283,12 +1289,6 @@ ALin 编曲（热度：467911）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%85%B0%20%E7%B4%A7%E5%BC%A0%23" target="weibo">
 卫兰 紧张（热度：453113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
-全球贸易史上迎来黑暗一天（热度：448154）
 </a>
 </li>
 
@@ -2937,6 +2937,12 @@ B萌（热度：205393）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
+饭店用脏话做招牌被指辣眼睛（热度：203113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
 KPL（热度：203100）
 </a>
@@ -3143,12 +3149,6 @@ Shanks AL也回来了（热度：197690）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B02%23" target="weibo">
 罗小黑战记2（热度：195393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
-饭店用脏话做招牌被指辣眼睛（热度：195199）
 </a>
 </li>
 
@@ -3743,6 +3743,12 @@ Rapeter严浩翔合影（热度：173193）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%B3%E6%9C%B5%E8%BF%99%E4%B8%80%E5%9C%88%E6%80%BB%E4%BC%9A%E6%9C%89%E9%BB%84%E8%89%B2%E5%88%86%E6%B3%8C%E7%89%A9%23" target="weibo">
 为什么耳朵这一圈总会有黄色分泌物（热度：172226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF1.5%E4%BA%BF%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
+上海一百年老洋房1.5亿元起拍（热度：172172）
 </a>
 </li>
 
@@ -4485,6 +4491,12 @@ Beni档期没白空（热度：160795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E8%8E%B7%E6%95%91%E9%AB%98%E8%80%83%E7%94%9F%E5%B0%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E7%B1%BB%E4%B8%93%E4%B8%9A%23" target="weibo">
+被骗缅甸获救高考生将学医学类专业（热度：150856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E7%9C%8B%E8%A7%81%E7%83%A4%E7%AE%B1%E9%87%8C%E7%82%B9%E7%81%AB%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
 谢霆锋看见烤箱里点火绷不住了（热度：150809）
 </a>
@@ -4583,6 +4595,12 @@ offer7首录贺峻霖黑西装配话筒（热度：149719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%82%E9%B1%BC%E5%BF%98%E9%80%81%E5%A8%83%E4%B8%8A%E8%AF%BE%E8%A2%AB%E5%A6%BB%E5%AD%90%E8%B8%B9%E8%BF%9B%E9%B1%BC%E6%B1%A0%23" target="weibo">
 男子喂鱼忘送娃上课被妻子踹进鱼池（热度：149040）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B37%E4%B8%AA%E6%9C%88%E5%A4%A7%E4%BE%84%E5%A5%B3%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85%E7%97%87%E7%8A%B6%23" target="weibo">
+男子杀害7个月大侄女无精神病症状（热度：149040）
 </a>
 </li>
 
@@ -5433,12 +5451,6 @@ i人谭松韵刘学义 剧组的玩具（热度：131515）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF1.5%E4%BA%BF%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
-上海一百年老洋房1.5亿元起拍（热度：131208）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E4%BD%B3%E7%90%AA%E8%88%9E%E5%8F%B0%23" target="weibo">
 许佳琪舞台（热度：131181）
 </a>
@@ -5999,18 +6011,6 @@ T1对战HLE（热度：121648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%AE%E8%AF%81%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%8E%A5%E5%8F%97%E5%AF%B9%E6%96%B9%E9%81%93%E6%AD%89%23" target="weibo">
 被亮证当事人称已接受对方道歉（热度：120407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%20%E5%A4%96%E6%A8%A1%23" target="weibo">
-女装 外模（热度：120321）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%AE%BF%E8%88%8D%E7%8C%9D%E6%AD%BB%E7%9A%8458%E5%B2%81%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%23" target="weibo">
-在宿舍猝死的58岁高三老师（热度：120292）
 </a>
 </li>
 
