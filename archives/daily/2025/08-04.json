@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754246288603,
+  "endTime": 1754247177959,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -457,6 +457,22 @@
       "onboard_time": 1754243717,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23311,
+      "num": 27151,
+      "word": "美国女警疑似意外接触芬太尼后抽搐",
+      "onboard_time": 1754246655,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22377,
+      "num": 27149,
+      "word": "黄子弘凡没有一句粤语是白学的",
+      "onboard_time": 1754246896,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 4504,
