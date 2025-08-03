@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754253883802,
+  "endTime": 1754256389380,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -419,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58080,
+      "num": 58080,
+      "word": "被骗缅甸获救高考生将学医学类专业",
+      "onboard_time": 1754253074,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52039,
       "num": 52039,
       "word": "一个双马尾阿信",
@@ -499,20 +507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17183,
+      "num": 17183,
+      "word": "晚晚为什么站在框里",
+      "onboard_time": 1754253974,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 15505,
       "num": 21006,
       "word": "椰子蛋里装了10个外卖骑手",
       "onboard_time": 1754248816,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 10622,
-      "num": 18785,
-      "word": "被骗缅甸获救高考生将学医学类专业",
-      "onboard_time": 1754253074,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4504,
