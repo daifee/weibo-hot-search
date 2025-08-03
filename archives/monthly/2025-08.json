@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754235845276,
+  "endTime": 1754238805927,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1238686,
+      "num": 708256,
+      "word": "蒲熠星回应文案争议",
+      "onboard_time": 1754236462,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1217534,
       "num": 1217534,
       "word": "微信提现手续费下限调为0.01元",
@@ -811,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 805546,
+      "num": 805546,
+      "word": "男子与富婆离婚嫌分的钱少起诉获胜",
+      "onboard_time": 1754235924,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 802576,
       "num": 315099,
       "word": "恋人剧组",
@@ -1000,6 +1016,14 @@
       "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
       "onboard_time": 1754230286,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 692583,
+      "num": 692583,
+      "word": "男童被绞断4根手指已恢复如初",
+      "onboard_time": 1754234486,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1257,6 +1281,14 @@
       "onboard_time": 1754158756,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575221,
+      "num": 444282,
+      "word": "鞠婧祎知道被P成孙悟空",
+      "onboard_time": 1754234005,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 572721,
@@ -1553,14 +1585,6 @@
       "onboard_time": 1754228605,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 482252,
-      "num": 444282,
-      "word": "鞠婧祎知道被P成孙悟空",
-      "onboard_time": 1754234005,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 481209,
@@ -2155,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340009,
+      "num": 224830,
+      "word": "蒲熠星",
+      "onboard_time": 1754235683,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339381,
       "num": 339381,
       "word": "中国游客在大阪遇袭",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1754132302,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 336101,
+      "num": 336101,
+      "word": "全球贸易史上迎来黑暗一天",
+      "onboard_time": 1754234544,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 333796,
@@ -2571,6 +2611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287381,
+      "num": 287381,
+      "word": "刘宇宁终于直播成功了",
+      "onboard_time": 1754235084,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285141,
       "num": 276412,
       "word": "刘宇宁说有时候真的干够了",
@@ -2896,14 +2944,6 @@
       "word": "多家航司去高跟鞋化自选裤装",
       "onboard_time": 1754217443,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255792,
-      "num": 255792,
-      "word": "男童被绞断4根手指已恢复如初",
-      "onboard_time": 1754234486,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3257,14 +3297,6 @@
       "onboard_time": 1754029101,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224830,
-      "num": 224830,
-      "word": "蒲熠星",
-      "onboard_time": 1754235683,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 224324,
@@ -3689,14 +3721,6 @@
       "onboard_time": 1754059883,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208676,
-      "num": 208676,
-      "word": "全球贸易史上迎来黑暗一天",
-      "onboard_time": 1754234544,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 208373,
@@ -4361,14 +4385,6 @@
       "onboard_time": 1754212163,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188579,
-      "num": 240539,
-      "word": "刘宇宁终于直播成功了",
-      "onboard_time": 1754235084,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 188563,
@@ -5643,6 +5659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157116,
+      "num": 157116,
+      "word": "饭店用脏话做招牌被指辣眼睛",
+      "onboard_time": 1754235564,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156949,
       "num": 156949,
       "word": "在两万人口的农村开奶茶店",
@@ -6555,6 +6579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140591,
+      "num": 336817,
+      "word": "男子花87万办了300年的健身卡",
+      "onboard_time": 1754235325,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140581,
       "num": 140581,
       "word": "00后在用一种很新的工作头像",
@@ -6665,14 +6697,6 @@
       "onboard_time": 1754106262,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 138357,
-      "num": 138357,
-      "word": "男子花87万办了300年的健身卡",
-      "onboard_time": 1754235325,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138224,
@@ -7201,6 +7225,14 @@
       "onboard_time": 1754034022,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131208,
+      "num": 131208,
+      "word": "上海一百年老洋房1.5亿元起拍",
+      "onboard_time": 1754235803,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131181,
@@ -8019,14 +8051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119640,
-      "num": 119640,
-      "word": "饭店用脏话做招牌被指辣眼睛",
-      "onboard_time": 1754235564,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119433,
       "num": 119433,
       "word": "黄俊捷等了一年才有结果",
@@ -8064,14 +8088,6 @@
       "word": "女子报警硬刚清晨5点广场舞",
       "onboard_time": 1754036842,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118716,
-      "num": 118716,
-      "word": "上海一百年老洋房1.5亿元起拍",
-      "onboard_time": 1754235803,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -8297,6 +8313,14 @@
       "onboard_time": 1754125163,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114596,
+      "num": 114596,
+      "word": "BABYMONSTER新歌涉嫌抄袭",
+      "onboard_time": 1754236462,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 114504,
@@ -8705,6 +8729,14 @@
       "onboard_time": 1754123303,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105369,
+      "num": 142534,
+      "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
+      "onboard_time": 1754234186,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105014,
@@ -9299,11 +9331,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92820,
+      "num": 92820,
+      "word": "穆祉丞演唱会拍立得",
+      "onboard_time": 1754237303,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92682,
       "num": 238978,
       "word": "家属冒用执法证该怎么处理",
       "onboard_time": 1754216183,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92138,
+      "num": 92138,
+      "word": "88元水光针其实是腹腔防粘连凝胶",
+      "onboard_time": 1754234965,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -9393,6 +9441,14 @@
       "onboard_time": 1753979660,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 88568,
+      "num": 88568,
+      "word": "Shad0w预测BLG连胜至常规赛结束",
+      "onboard_time": 1754236523,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 88425,
@@ -9491,14 +9547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84771,
-      "num": 142534,
-      "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
-      "onboard_time": 1754234186,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84157,
       "num": 97320,
       "word": "孟子义对自己的脸非常有自信",
@@ -9579,6 +9627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81953,
+      "num": 81953,
+      "word": "一个人值不值得交往看3点",
+      "onboard_time": 1754236404,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81741,
       "num": 81741,
       "word": "龙族高架桥迈巴赫照进现实",
@@ -9601,6 +9657,14 @@
       "onboard_time": 1754147669,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79642,
+      "num": 79642,
+      "word": "法拉利 乐扣",
+      "onboard_time": 1754235084,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 79290,
@@ -10860,7 +10924,7 @@
     },
     {
       "raw_hot": 8098,
-      "num": 700796,
+      "num": 723424,
       "word": "无人机蜂群与机器狼协同作战演习",
       "onboard_time": 1754181081,
       "rank": 2,
