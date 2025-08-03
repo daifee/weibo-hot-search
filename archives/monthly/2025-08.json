@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754232267134,
+  "endTime": 1754234896547,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -169,6 +169,14 @@
       "onboard_time": 1754138905,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2376394,
+      "num": 2376394,
+      "word": "杨幂15年前的博文火了",
+      "onboard_time": 1754231546,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 2356229,
@@ -1203,14 +1211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 603344,
-      "num": 603344,
-      "word": "杨幂15年前的博文火了",
-      "onboard_time": 1754231546,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 602089,
       "num": 331263,
       "word": "白举纲早这么唱不就不淘汰了",
@@ -1419,6 +1419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521012,
+      "num": 521012,
+      "word": "理想回应i8安全性碰撞测试",
+      "onboard_time": 1754233106,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 520239,
       "num": 520239,
       "word": "单依纯主持",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1754047523,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 516102,
+      "num": 336269,
+      "word": "歌手帮唱",
+      "onboard_time": 1754231306,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 514079,
@@ -2035,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354590,
+      "num": 354590,
+      "word": "央视曝光水光针美丽陷阱",
+      "onboard_time": 1754233286,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354572,
       "num": 250554,
       "word": "7岁男孩求父母抛弃自己",
@@ -2315,6 +2339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319402,
+      "num": 319402,
+      "word": "银川地震",
+      "onboard_time": 1754234065,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 318517,
       "num": 318517,
       "word": "保洁几乎将房子偷空用电驴运走",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1754126542,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307494,
+      "num": 307494,
+      "word": "鞠婧祎知道被P成孙悟空",
+      "onboard_time": 1754234005,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 307103,
@@ -2649,14 +2689,6 @@
       "onboard_time": 1754132123,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 273171,
-      "num": 273171,
-      "word": "歌手帮唱",
-      "onboard_time": 1754231306,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 273136,
@@ -3145,6 +3177,14 @@
       "onboard_time": 1754051542,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228132,
+      "num": 228132,
+      "word": "鹿晗你竟然耍我",
+      "onboard_time": 1754232085,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 228084,
@@ -3643,12 +3683,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207567,
+      "num": 207567,
+      "word": "男子遇蛇大叫把蛇吓到原路返回",
+      "onboard_time": 1754233644,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207476,
       "num": 207476,
       "word": "宗庆后遗产纠纷案起诉书曝光",
       "onboard_time": 1754041822,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207314,
+      "num": 207314,
+      "word": "DOTA2雪如意TT夺冠",
+      "onboard_time": 1754234364,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 207159,
@@ -4339,6 +4395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186456,
+      "num": 186456,
+      "word": "马小跳背叛我了",
+      "onboard_time": 1754231546,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186346,
       "num": 186346,
       "word": "长寿的人头发有这5个特点",
@@ -4379,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185335,
+      "num": 185335,
+      "word": "单依纯帮唱 王力宏",
+      "onboard_time": 1754232325,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185328,
       "num": 185328,
       "word": "aespa红毯镜头",
@@ -4401,6 +4473,14 @@
       "onboard_time": 1754107701,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185182,
+      "num": 185182,
+      "word": "王一博生日地广预热",
+      "onboard_time": 1754234486,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 185180,
@@ -4577,6 +4657,14 @@
       "onboard_time": 1754195905,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179529,
+      "num": 179529,
+      "word": "诺里斯夺F1匈牙利站冠军",
+      "onboard_time": 1754233885,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 179411,
@@ -4867,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171730,
+      "num": 171730,
+      "word": "DOTA2",
+      "onboard_time": 1754234663,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171700,
       "num": 146078,
       "word": "留几手谈离婚原因",
@@ -4969,6 +5065,14 @@
       "onboard_time": 1754206285,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "全球贸易史上迎来黑暗一天",
+      "onboard_time": 1754234544,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169448,
@@ -5467,6 +5571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157585,
+      "num": 157585,
+      "word": "男子酒后用智能驾驶开车停在路中睡了",
+      "onboard_time": 1754232626,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157550,
       "num": 157550,
       "word": "近期3起恶性造谣传谣案件披露",
@@ -5673,6 +5785,14 @@
       "onboard_time": 1754129543,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153112,
+      "num": 153112,
+      "word": "俄罗斯千岛群岛数十米惊人海啸",
+      "onboard_time": 1754234244,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 153003,
@@ -5945,14 +6065,6 @@
       "onboard_time": 1754110702,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148447,
-      "num": 177537,
-      "word": "马小跳背叛我了",
-      "onboard_time": 1754231546,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 148436,
@@ -6425,14 +6537,6 @@
       "onboard_time": 1754100981,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140257,
-      "num": 118773,
-      "word": "鹿晗你竟然耍我",
-      "onboard_time": 1754232085,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 140222,
@@ -7491,6 +7595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125340,
+      "num": 125340,
+      "word": "女性本来就该有点小肚子",
+      "onboard_time": 1754233286,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 124863,
       "num": 124863,
       "word": "伯伯不ins字儿",
@@ -8083,6 +8195,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 115108,
+      "num": 120224,
+      "word": "北京明天全市大雨局地暴雨",
+      "onboard_time": 1754231965,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114920,
       "num": 114920,
       "word": "丞磊的薄肌又来going我了",
@@ -8593,6 +8713,14 @@
       "onboard_time": 1754220385,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104216,
+      "num": 157885,
+      "word": "男童被绞断4根手指已恢复如初",
+      "onboard_time": 1754234486,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104086,
@@ -9731,14 +9859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63055,
-      "num": 120224,
-      "word": "北京明天全市大雨局地暴雨",
-      "onboard_time": 1754231965,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62025,
       "num": 62025,
       "word": "周也李冰冰一个比一个飒",
@@ -9849,6 +9969,14 @@
       "onboard_time": 1754090719,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57100,
+      "num": 179692,
+      "word": "养殖户维权遭副镇长举报被刑拘",
+      "onboard_time": 1754233286,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56858,
@@ -10113,6 +10241,14 @@
       "onboard_time": 1754077514,
       "rank": 39,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 45340,
+      "num": 142534,
+      "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
+      "onboard_time": 1754234186,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45131,

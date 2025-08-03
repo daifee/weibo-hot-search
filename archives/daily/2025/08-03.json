@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754232267134,
+  "endTime": 1754234896547,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -73,6 +73,14 @@
       "onboard_time": 1754223024,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2376394,
+      "num": 2376394,
+      "word": "杨幂15年前的博文火了",
+      "onboard_time": 1754231546,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 2314857,
@@ -451,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 603344,
-      "num": 603344,
-      "word": "杨幂15年前的博文火了",
-      "onboard_time": 1754231546,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 578746,
       "num": 578746,
       "word": "大妈偷外卖",
@@ -537,6 +537,22 @@
       "onboard_time": 1754222663,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521012,
+      "num": 521012,
+      "word": "理想回应i8安全性碰撞测试",
+      "onboard_time": 1754233106,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 516102,
+      "num": 336269,
+      "word": "歌手帮唱",
+      "onboard_time": 1754231306,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 493031,
@@ -747,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354590,
+      "num": 354590,
+      "word": "央视曝光水光针美丽陷阱",
+      "onboard_time": 1754233286,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348262,
       "num": 348262,
       "word": "中国队无缘男子10米台奖牌",
@@ -803,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319402,
+      "num": 319402,
+      "word": "银川地震",
+      "onboard_time": 1754234065,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 318517,
       "num": 318517,
       "word": "保洁几乎将房子偷空用电驴运走",
@@ -817,6 +849,14 @@
       "onboard_time": 1754216303,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307494,
+      "num": 307494,
+      "word": "鞠婧祎知道被P成孙悟空",
+      "onboard_time": 1754234005,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 307103,
@@ -939,14 +979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 273171,
-      "num": 273171,
-      "word": "歌手帮唱",
-      "onboard_time": 1754231306,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267367,
       "num": 246901,
       "word": "日本专家建议老人自杀解决老龄化",
@@ -1019,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250695,
+      "num": 250695,
+      "word": "日本老龄化具象化了",
+      "onboard_time": 1754232685,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 248817,
       "num": 248817,
       "word": "12岁于子迪400米混合泳第四",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1754204964,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228132,
+      "num": 228132,
+      "word": "鹿晗你竟然耍我",
+      "onboard_time": 1754232085,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 227107,
@@ -1145,6 +1193,22 @@
       "onboard_time": 1754215104,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207567,
+      "num": 207567,
+      "word": "男子遇蛇大叫把蛇吓到原路返回",
+      "onboard_time": 1754233644,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207314,
+      "num": 207314,
+      "word": "DOTA2雪如意TT夺冠",
+      "onboard_time": 1754234364,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 205393,
@@ -1347,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186456,
+      "num": 186456,
+      "word": "马小跳背叛我了",
+      "onboard_time": 1754231546,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186358,
       "num": 245622,
       "word": "易烊千玺演唱会",
@@ -1363,6 +1435,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 185335,
+      "num": 185335,
+      "word": "单依纯帮唱 王力宏",
+      "onboard_time": 1754232325,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185328,
       "num": 185328,
       "word": "aespa红毯镜头",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1754228605,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185182,
+      "num": 185182,
+      "word": "王一博生日地广预热",
+      "onboard_time": 1754234486,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 185180,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1754195905,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179529,
+      "num": 179529,
+      "word": "诺里斯夺F1匈牙利站冠军",
+      "onboard_time": 1754233885,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 177952,
@@ -1547,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171730,
+      "num": 171730,
+      "word": "DOTA2",
+      "onboard_time": 1754234663,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171700,
       "num": 146078,
       "word": "留几手谈离婚原因",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1754206285,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "全球贸易史上迎来黑暗一天",
+      "onboard_time": 1754234544,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169345,
@@ -1715,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157585,
+      "num": 157585,
+      "word": "男子酒后用智能驾驶开车停在路中睡了",
+      "onboard_time": 1754232626,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156949,
       "num": 156949,
       "word": "在两万人口的农村开奶茶店",
@@ -1761,6 +1881,14 @@
       "onboard_time": 1754227585,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153112,
+      "num": 153112,
+      "word": "俄罗斯千岛群岛数十米惊人海啸",
+      "onboard_time": 1754234244,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 153003,
@@ -1849,14 +1977,6 @@
       "onboard_time": 1754229146,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148447,
-      "num": 177537,
-      "word": "马小跳背叛我了",
-      "onboard_time": 1754231546,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 147754,
@@ -2049,14 +2169,6 @@
       "onboard_time": 1754205025,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140257,
-      "num": 118773,
-      "word": "鹿晗你竟然耍我",
-      "onboard_time": 1754232085,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 139118,
@@ -2411,6 +2523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125340,
+      "num": 125340,
+      "word": "女性本来就该有点小肚子",
+      "onboard_time": 1754233286,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 124863,
       "num": 124863,
       "word": "伯伯不ins字儿",
@@ -2577,6 +2697,14 @@
       "onboard_time": 1754182520,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115108,
+      "num": 120224,
+      "word": "北京明天全市大雨局地暴雨",
+      "onboard_time": 1754231965,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114718,
@@ -2777,6 +2905,14 @@
       "onboard_time": 1754220385,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104216,
+      "num": 157885,
+      "word": "男童被绞断4根手指已恢复如初",
+      "onboard_time": 1754234486,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104086,
@@ -3339,14 +3475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63055,
-      "num": 120224,
-      "word": "北京明天全市大雨局地暴雨",
-      "onboard_time": 1754231965,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60677,
       "num": 501934,
       "word": "我国完成全球首次海上石油平台物资运输飞行",
@@ -3384,6 +3512,14 @@
       "word": "多方回应女司机逆行顶撞交警",
       "onboard_time": 1754177420,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57100,
+      "num": 179692,
+      "word": "养殖户维权遭副镇长举报被刑拘",
+      "onboard_time": 1754233286,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3481,6 +3617,14 @@
       "onboard_time": 1754227225,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45340,
+      "num": 142534,
+      "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
+      "onboard_time": 1754234186,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40020,
