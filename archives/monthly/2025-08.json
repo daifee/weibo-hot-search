@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754205994578,
+  "endTime": 1754206867714,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6843273,
+      "num": 6843273,
+      "word": "赵露思直播",
+      "onboard_time": 1754205864,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6756623,
       "num": 6756623,
       "word": "宗馥莉首战输了",
@@ -83,12 +91,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 3098255,
-      "num": 3098255,
-      "word": "赵露思直播",
-      "onboard_time": 1754205864,
-      "rank": 0,
-      "category": "艺人"
+      "raw_hot": 3471460,
+      "num": 434898,
+      "word": "731定档",
+      "onboard_time": 1754205685,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 3040729,
@@ -2507,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243237,
+      "num": 243237,
+      "word": "87版西游记如来佛扮演者去世",
+      "onboard_time": 1754206403,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242120,
       "num": 242120,
       "word": "安静公主说还要做第五次手术",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1754013681,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235400,
+      "num": 235400,
+      "word": "王楚钦收到梦中情杆",
+      "onboard_time": 1754204964,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 233919,
@@ -3011,14 +3035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210094,
-      "num": 210094,
-      "word": "731定档",
-      "onboard_time": 1754205685,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210089,
       "num": 210089,
       "word": "谁来救救沈梦辰",
@@ -3105,14 +3121,6 @@
       "onboard_time": 1754041822,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207438,
-      "num": 207438,
-      "word": "王楚钦收到梦中情杆",
-      "onboard_time": 1754204964,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 207159,
@@ -3691,6 +3699,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 186573,
+      "num": 147866,
+      "word": "Wolves战胜Gr",
+      "onboard_time": 1754206765,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186346,
       "num": 186346,
       "word": "长寿的人头发有这5个特点",
@@ -3745,6 +3761,14 @@
       "onboard_time": 1754107701,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185180,
+      "num": 162477,
+      "word": "陈赫骗过了所有人包括自己",
+      "onboard_time": 1754205685,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 184614,
@@ -4216,6 +4240,14 @@
       "word": "NCTWISH看张艺兴演唱会",
       "onboard_time": 1754143169,
       "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169731,
+      "num": 156027,
+      "word": "侯明昊脸上贴了30颗碎钻",
+      "onboard_time": 1754206285,
+      "rank": 24,
       "category": "演出"
     },
     {
@@ -5107,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147495,
+      "num": 147495,
+      "word": "疑似秦奋投诉韦雪",
+      "onboard_time": 1754206704,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 147372,
       "num": 147372,
       "word": "刘宇宁把盘串刻进DNA里了",
@@ -5411,6 +5451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140581,
+      "num": 140581,
+      "word": "00后在用一种很新的工作头像",
+      "onboard_time": 1754205025,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140570,
       "num": 207844,
       "word": "男子挖到宋元时期首饰卖了20万被抓",
@@ -5515,6 +5563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138224,
+      "num": 138224,
+      "word": "苏新皓朱志鑫你俩有点暧昧了",
+      "onboard_time": 1754205924,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138223,
       "num": 138223,
       "word": "第一次见这么糊弄观众的综艺",
@@ -5537,6 +5593,14 @@
       "onboard_time": 1754119941,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137733,
+      "num": 137733,
+      "word": "瑞幸纽约店成外国网红打卡点",
+      "onboard_time": 1754205263,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137597,
@@ -5585,6 +5649,14 @@
       "onboard_time": 1754046024,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137230,
+      "num": 147892,
+      "word": "谢依霖上节目还认了个妈",
+      "onboard_time": 1754205384,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 137226,
@@ -6259,14 +6331,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 126527,
-      "num": 126527,
-      "word": "陈赫骗过了所有人包括自己",
-      "onboard_time": 1754205685,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126246,
       "num": 126246,
       "word": "余嘉豪加盟西甲联赛",
@@ -6483,6 +6547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122428,
+      "num": 122428,
+      "word": "在便利店上班的人嘴真严啊",
+      "onboard_time": 1754205564,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122387,
       "num": 122387,
       "word": "乐评人邓柯谈年轮被指抄袭蝶恋",
@@ -6555,6 +6627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120876,
+      "num": 120876,
+      "word": "严浩翔Rapeter再合作一次吧",
+      "onboard_time": 1754206285,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120734,
       "num": 1360265,
       "word": "还有5天就立秋了",
@@ -6577,14 +6657,6 @@
       "onboard_time": 1754019263,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120462,
-      "num": 120462,
-      "word": "在便利店上班的人嘴真严啊",
-      "onboard_time": 1754205564,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 120407,
@@ -6707,36 +6779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118083,
-      "num": 119399,
-      "word": "谢依霖上节目还认了个妈",
-      "onboard_time": 1754205384,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117469,
       "num": 117469,
       "word": "猫咪和汤2国服来了",
       "onboard_time": 1754016082,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117429,
-      "num": 117429,
-      "word": "00后在用一种很新的工作头像",
-      "onboard_time": 1754205025,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 117268,
-      "num": 119114,
-      "word": "瑞幸纽约店成外国网红打卡点",
-      "onboard_time": 1754205263,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 117265,
@@ -7771,14 +7819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88083,
-      "num": 127979,
-      "word": "苏新皓朱志鑫你俩有点暧昧了",
-      "onboard_time": 1754205924,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87901,
       "num": 156355,
       "word": "过气偶像为什么扎堆团播",
@@ -7955,6 +7995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77164,
+      "num": 172212,
+      "word": "日军以一两骨头一两金悬赏他",
+      "onboard_time": 1754205743,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75947,
       "num": 75947,
       "word": "歼20与歼35A双雄并立惊艳世界",
@@ -7971,7 +8019,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75586,
+      "raw_hot": 75626,
       "num": 210131,
       "word": "在CJ现场开荣耀盲盒开出狠角色",
       "onboard_time": 1754204604,
@@ -8568,14 +8616,6 @@
       "word": "甘肃一大货车夜里撞死16头牦牛",
       "onboard_time": 1754134463,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46671,
-      "num": 172212,
-      "word": "日军以一两骨头一两金悬赏他",
-      "onboard_time": 1754205743,
-      "rank": 27,
       "category": "民生新闻"
     },
     {

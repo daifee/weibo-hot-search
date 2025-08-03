@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754205994578,
+  "endTime": 1754206867714,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1587,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6843273,
+      "num": 6843273,
+      "word": "赵露思直播",
+      "onboard_time": 1737800420,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6766123,
       "num": 6766123,
       "word": "阿云嘎秒了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1754111421,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3869708,
-      "num": 2496802,
-      "word": "兵马俑被砸烂了",
-      "onboard_time": 1748612308,
-      "rank": 3,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

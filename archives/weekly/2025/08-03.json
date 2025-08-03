@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754205994578,
+  "endTime": 1754206867714,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -27,12 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3098255,
-      "num": 3098255,
+      "raw_hot": 6843273,
+      "num": 6843273,
       "word": "赵露思直播",
       "onboard_time": 1754205864,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3471460,
+      "num": 434898,
+      "word": "731定档",
+      "onboard_time": 1754205685,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 3040729,
@@ -547,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243237,
+      "num": 243237,
+      "word": "87版西游记如来佛扮演者去世",
+      "onboard_time": 1754206403,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242120,
       "num": 242120,
       "word": "安静公主说还要做第五次手术",
@@ -561,6 +577,14 @@
       "onboard_time": 1754176938,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 235400,
+      "num": 235400,
+      "word": "王楚钦收到梦中情杆",
+      "onboard_time": 1754204964,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 227107,
@@ -585,22 +609,6 @@
       "onboard_time": 1754198305,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210094,
-      "num": 210094,
-      "word": "731定档",
-      "onboard_time": 1754205685,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 207438,
-      "num": 207438,
-      "word": "王楚钦收到梦中情杆",
-      "onboard_time": 1754204964,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 203349,
@@ -683,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186573,
+      "num": 147866,
+      "word": "Wolves战胜Gr",
+      "onboard_time": 1754206765,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186358,
       "num": 245622,
       "word": "易烊千玺演唱会",
@@ -705,6 +721,14 @@
       "onboard_time": 1754193385,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185180,
+      "num": 162477,
+      "word": "陈赫骗过了所有人包括自己",
+      "onboard_time": 1754205685,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 184478,
@@ -809,6 +833,14 @@
       "onboard_time": 1754191583,
       "rank": 35,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 169731,
+      "num": 156027,
+      "word": "侯明昊脸上贴了30颗碎钻",
+      "onboard_time": 1754206285,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 167050,
@@ -947,6 +979,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 147495,
+      "num": 147495,
+      "word": "疑似秦奋投诉韦雪",
+      "onboard_time": 1754206704,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 146594,
       "num": 156245,
       "word": "印乐大师接掌后的少林寺",
@@ -1027,12 +1067,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140581,
+      "num": 140581,
+      "word": "00后在用一种很新的工作头像",
+      "onboard_time": 1754205025,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139118,
       "num": 139118,
       "word": "没有明天",
       "onboard_time": 1754195425,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138224,
+      "num": 138224,
+      "word": "苏新皓朱志鑫你俩有点暧昧了",
+      "onboard_time": 1754205924,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137733,
+      "num": 137733,
+      "word": "瑞幸纽约店成外国网红打卡点",
+      "onboard_time": 1754205263,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137486,
@@ -1047,6 +1111,14 @@
       "num": 137417,
       "word": "你好星期六输黑脸了",
       "onboard_time": 1754195244,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137230,
+      "num": 147892,
+      "word": "谢依霖上节目还认了个妈",
+      "onboard_time": 1754205384,
       "rank": 46,
       "category": "综艺"
     },
@@ -1203,14 +1275,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 126527,
-      "num": 126527,
-      "word": "陈赫骗过了所有人包括自己",
-      "onboard_time": 1754205685,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126246,
       "num": 126246,
       "word": "许嵩回到庐州唱庐州月",
@@ -1243,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122428,
+      "num": 122428,
+      "word": "在便利店上班的人嘴真严啊",
+      "onboard_time": 1754205564,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122361,
       "num": 122361,
       "word": "地球超新鲜",
@@ -1267,12 +1339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120462,
-      "num": 120462,
-      "word": "在便利店上班的人嘴真严啊",
-      "onboard_time": 1754205564,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 120876,
+      "num": 120876,
+      "word": "严浩翔Rapeter再合作一次吧",
+      "onboard_time": 1754206285,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 120407,
@@ -1313,30 +1385,6 @@
       "onboard_time": 1754153302,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118083,
-      "num": 119399,
-      "word": "谢依霖上节目还认了个妈",
-      "onboard_time": 1754205384,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117429,
-      "num": 117429,
-      "word": "00后在用一种很新的工作头像",
-      "onboard_time": 1754205025,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 117268,
-      "num": 119114,
-      "word": "瑞幸纽约店成外国网红打卡点",
-      "onboard_time": 1754205263,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 116358,
@@ -1587,14 +1635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88083,
-      "num": 127979,
-      "word": "苏新皓朱志鑫你俩有点暧昧了",
-      "onboard_time": 1754205924,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87901,
       "num": 156355,
       "word": "过气偶像为什么扎堆团播",
@@ -1683,7 +1723,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75586,
+      "raw_hot": 77164,
+      "num": 172212,
+      "word": "日军以一两骨头一两金悬赏他",
+      "onboard_time": 1754205743,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75626,
       "num": 210131,
       "word": "在CJ现场开荣耀盲盒开出狠角色",
       "onboard_time": 1754204604,
@@ -1921,14 +1969,6 @@
       "onboard_time": 1754176757,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46671,
-      "num": 172212,
-      "word": "日军以一两骨头一两金悬赏他",
-      "onboard_time": 1754205743,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40020,
