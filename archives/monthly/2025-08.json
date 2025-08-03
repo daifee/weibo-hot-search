@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754200259443,
+  "endTime": 1754203127529,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -152,6 +152,14 @@
       "word": "赵露思 宇宙怎么不是你徐喆的呢",
       "onboard_time": 1754194346,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2197150,
+      "num": 362731,
+      "word": "于正评价赵露思遭遇",
+      "onboard_time": 1754201002,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 700893,
-      "num": 344418,
+      "num": 528853,
       "word": "考公人在公示期嘴有多严",
       "onboard_time": 1754198846,
       "rank": 30,
@@ -1331,6 +1339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 463279,
+      "num": 463279,
+      "word": "广西梧州一居民楼发生火灾致5死",
+      "onboard_time": 1754199865,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463048,
       "num": 657799,
       "word": "蝶恋原唱经纪人回应年轮被质疑抄袭",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1754021241,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 418956,
+      "num": 418956,
+      "word": "许允真说Labubu不好看",
+      "onboard_time": 1754198485,
+      "rank": 28,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 415417,
@@ -1779,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330800,
-      "num": 330800,
-      "word": "许允真说Labubu不好看",
-      "onboard_time": 1754198485,
-      "rank": 28,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 330086,
       "num": 330086,
       "word": "斗破苍穹",
@@ -1923,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305157,
+      "num": 305157,
+      "word": "鸡蛋太贵买了一个做了七菜一汤",
+      "onboard_time": 1754200823,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303962,
       "num": 363290,
       "word": "王源送了易烊千玺演唱会花篮",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1754040381,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296570,
+      "num": 296570,
+      "word": "李晟 女驸马",
+      "onboard_time": 1754200285,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 295472,
@@ -2523,6 +2555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229853,
+      "num": 221256,
+      "word": "恋人剧组解散该谁赔钱",
+      "onboard_time": 1754203044,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228995,
       "num": 228995,
       "word": "外嫁女户籍仍在本村拆迁补偿却没份",
@@ -2619,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224461,
+      "num": 224461,
+      "word": "汪顺潘展乐覃海洋徐放预赛第9",
+      "onboard_time": 1754198125,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224324,
       "num": 208653,
       "word": "杨冰怡 空中见",
@@ -2649,14 +2697,6 @@
       "onboard_time": 1754131342,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222669,
-      "num": 222669,
-      "word": "广西梧州一居民楼发生火灾致5死",
-      "onboard_time": 1754199865,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222480,
@@ -3211,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200252,
+      "num": 200252,
+      "word": "定风波男主",
+      "onboard_time": 1754202442,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200195,
       "num": 216167,
       "word": "爱豆侯明昊杀回来了",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1754056284,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197848,
+      "num": 192487,
+      "word": "人贩子最解气的死法出现了",
+      "onboard_time": 1754202083,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 197690,
@@ -4507,6 +4563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157844,
+      "num": 203602,
+      "word": "大妈偷外卖",
+      "onboard_time": 1754200884,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157834,
       "num": 157834,
       "word": "迪丽热巴抬手不是抱歉是你还得练",
@@ -5091,14 +5155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143626,
-      "num": 143626,
-      "word": "汪顺潘展乐覃海洋徐放预赛第9",
-      "onboard_time": 1754198125,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143600,
       "num": 143600,
       "word": "中国阿姨在黑人女孩背后夸她身材好",
@@ -5112,6 +5168,14 @@
       "word": "李沁脸上看不到一点班味",
       "onboard_time": 1754035402,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143205,
+      "num": 143205,
+      "word": "卢昱晓我家那闺女ootd",
+      "onboard_time": 1754200763,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -5419,6 +5483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136533,
+      "num": 136533,
+      "word": "没想到陈乔恩普通话最标准",
+      "onboard_time": 1754201903,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136076,
       "num": 136076,
       "word": "樊振东开启奋斗的一天",
@@ -5723,6 +5795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131437,
+      "num": 131437,
+      "word": "炽夏",
+      "onboard_time": 1754200702,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131221,
       "num": 131221,
       "word": "张予曦邀请毕雯珺来我家那闺女",
@@ -5785,6 +5865,14 @@
       "onboard_time": 1754024842,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130715,
+      "num": 138790,
+      "word": "林则徐棉花娃",
+      "onboard_time": 1754202503,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 130470,
@@ -6041,6 +6129,14 @@
       "onboard_time": 1754119941,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126632,
+      "num": 126632,
+      "word": "一高校推出可以吃的录取通知书",
+      "onboard_time": 1754202863,
+      "rank": 37,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 126246,
@@ -6331,6 +6427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120780,
+      "num": 120780,
+      "word": "日本反华的根源",
+      "onboard_time": 1754202384,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120734,
       "num": 1360265,
       "word": "还有5天就立秋了",
@@ -6377,6 +6481,14 @@
       "onboard_time": 1754031681,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120060,
+      "num": 118881,
+      "word": "潘玮柏终于实现在演唱会吃面了",
+      "onboard_time": 1754201783,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 119898,
@@ -6433,6 +6545,14 @@
       "onboard_time": 1754095820,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118930,
+      "num": 118930,
+      "word": "正餐别只吃凉皮凉面",
+      "onboard_time": 1754200763,
+      "rank": 39,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 118757,
@@ -6836,7 +6956,7 @@
     },
     {
       "raw_hot": 110171,
-      "num": 110171,
+      "num": 138493,
       "word": "高温暴雨强对流3预警齐发",
       "onboard_time": 1754200105,
       "rank": 49,
@@ -7219,6 +7339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97443,
+      "num": 97443,
+      "word": "龚俊综艺判官",
+      "onboard_time": 1754202384,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97351,
       "num": 139055,
       "word": "国产剧最阴间的吃播",
@@ -7299,6 +7427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 95887,
+      "num": 95887,
+      "word": "上海ChinaJoy真能整活",
+      "onboard_time": 1754202803,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95860,
       "num": 91500,
       "word": "张曦雯承认分手",
@@ -7363,6 +7499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93111,
+      "num": 93111,
+      "word": "被亮证当事人称已接受对方道歉",
+      "onboard_time": 1754201484,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93073,
       "num": 93073,
       "word": "最佳减重运动排行榜第一是跳绳",
@@ -7393,6 +7537,14 @@
       "onboard_time": 1754190803,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91948,
+      "num": 91948,
+      "word": "中国队女子4x100混接晋级决赛",
+      "onboard_time": 1754202563,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 91735,
@@ -7585,6 +7737,14 @@
       "onboard_time": 1753978583,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83021,
+      "num": 137053,
+      "word": "美国对瑞士征收39%关税",
+      "onboard_time": 1754196805,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82532,
