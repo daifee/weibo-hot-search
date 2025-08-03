@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754206867714,
+  "endTime": 1754210042412,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6843273,
-      "num": 6843273,
+      "raw_hot": 7774360,
+      "num": 7774360,
       "word": "赵露思直播",
       "onboard_time": 1754205864,
       "rank": 0,
@@ -667,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 811768,
+      "num": 243237,
+      "word": "87版西游记如来佛扮演者去世",
+      "onboard_time": 1754206403,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806295,
       "num": 627390,
       "word": "爱豆是怎么忍住不恋爱的",
@@ -921,6 +929,14 @@
       "onboard_time": 1754186662,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 660818,
+      "num": 184395,
+      "word": "赵露思19年被经纪人PUA参加综艺",
+      "onboard_time": 1754208085,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 660379,
@@ -1595,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 385210,
+      "num": 176906,
+      "word": "疑似秦奋投诉韦雪",
+      "onboard_time": 1754206704,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 383803,
       "num": 817250,
       "word": "李维嘉说董璇像带了两个孩子",
@@ -2131,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291491,
+      "num": 174377,
+      "word": "六小龄童发文悼念朱龙广",
+      "onboard_time": 1754208144,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285141,
       "num": 276412,
       "word": "刘宇宁说有时候真的干够了",
@@ -2515,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243237,
-      "num": 243237,
-      "word": "87版西游记如来佛扮演者去世",
-      "onboard_time": 1754206403,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242120,
       "num": 242120,
       "word": "安静公主说还要做第五次手术",
@@ -2577,6 +2601,14 @@
       "onboard_time": 1754028382,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235667,
+      "num": 170212,
+      "word": "孙红雷要给张艺兴打电话",
+      "onboard_time": 1754208625,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 235450,
@@ -3299,6 +3331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201242,
+      "num": 149491,
+      "word": "张柏芝为大儿子庆18岁生日",
+      "onboard_time": 1754207905,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201011,
       "num": 201011,
       "word": "央视镜头下的刘诗诗美进我心里",
@@ -3665,6 +3705,14 @@
       "onboard_time": 1754126542,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188137,
+      "num": 188137,
+      "word": "生娃能领7笔钱",
+      "onboard_time": 1754208326,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187843,
@@ -4169,6 +4217,14 @@
       "onboard_time": 1754058203,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171700,
+      "num": 146078,
+      "word": "留几手谈离婚原因",
+      "onboard_time": 1754207364,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 171481,
@@ -4915,6 +4971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152399,
+      "num": 152399,
+      "word": "男子在地铁安检口偷拍裙底被抓现行",
+      "onboard_time": 1754203463,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152343,
       "num": 152343,
       "word": "光与夜之恋陆沉",
@@ -5001,6 +5065,14 @@
       "onboard_time": 1754114962,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149848,
+      "num": 143542,
+      "word": "张峻豪演唱会内场上座率",
+      "onboard_time": 1754209103,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 149735,
@@ -5137,14 +5209,6 @@
       "onboard_time": 1754131103,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147495,
-      "num": 147495,
-      "word": "疑似秦奋投诉韦雪",
-      "onboard_time": 1754206704,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 147372,
@@ -5291,6 +5355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143678,
+      "num": 143678,
+      "word": "脂肪参与比例最高的运动",
+      "onboard_time": 1754208565,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 143600,
       "num": 143600,
       "word": "中国阿姨在黑人女孩背后夸她身材好",
@@ -5305,6 +5377,14 @@
       "onboard_time": 1754035402,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143322,
+      "num": 143322,
+      "word": "游客2013年拍到丁真",
+      "onboard_time": 1754209344,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 143303,
@@ -5323,20 +5403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143199,
+      "num": 151707,
+      "word": "千岛群岛附近海域发生7.0级地震",
+      "onboard_time": 1754203284,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 143154,
       "num": 143154,
       "word": "正餐别只吃凉皮凉面",
       "onboard_time": 1754200763,
       "rank": 39,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 142792,
-      "num": 142792,
-      "word": "男子在地铁安检口偷拍裙底被抓现行",
-      "onboard_time": 1754203463,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142646,
@@ -5417,6 +5497,14 @@
       "onboard_time": 1754133922,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140941,
+      "num": 140941,
+      "word": "白马山失联5人均已遇难",
+      "onboard_time": 1754209944,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 140826,
@@ -5795,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134814,
+      "num": 126045,
+      "word": "王鹤棣直播就这样四处闯祸",
+      "onboard_time": 1754209344,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134729,
       "num": 134729,
       "word": "mac 大米女",
@@ -5907,14 +6003,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 133414,
-      "num": 133414,
-      "word": "千岛群岛附近海域发生7.0级地震",
-      "onboard_time": 1754203284,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133132,
       "num": 133132,
       "word": "叶濛怀孕李靳屿升级当爸",
@@ -5977,6 +6065,14 @@
       "onboard_time": 1754138604,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131796,
+      "num": 125559,
+      "word": "黄子弘凡回应和黄鼠狼打架",
+      "onboard_time": 1754209045,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 131685,
@@ -6305,6 +6401,14 @@
       "onboard_time": 1754190682,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126817,
+      "num": 126817,
+      "word": "怎么也没想到又要立秋了",
+      "onboard_time": 1754209165,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126786,
@@ -6779,6 +6883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117476,
+      "num": 117476,
+      "word": "官方回应5人在网红景点被水冲走",
+      "onboard_time": 1754209826,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117469,
       "num": 117469,
       "word": "猫咪和汤2国服来了",
@@ -7099,6 +7211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111774,
+      "num": 106698,
+      "word": "龚俊好久没听见少爷这么笑了",
+      "onboard_time": 1754209885,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111591,
       "num": 213972,
       "word": "淮安球场停电",
@@ -7169,6 +7289,14 @@
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 109389,
+      "num": 109389,
+      "word": "内耗的人需要的安慰是这样的",
+      "onboard_time": 1754209525,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 108306,
@@ -7283,6 +7411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105014,
+      "num": 105014,
+      "word": "汪顺回应男子混接无缘决赛",
+      "onboard_time": 1754208984,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104891,
       "num": 134795,
       "word": "TE对战MRC",
@@ -7305,6 +7441,14 @@
       "onboard_time": 1754135362,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104609,
+      "num": 104609,
+      "word": "苏新皓偷偷进化不带铲丝",
+      "onboard_time": 1754209585,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 104492,
@@ -7427,6 +7571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101746,
+      "num": 101377,
+      "word": "人一旦戴上了运动手表",
+      "onboard_time": 1754208024,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 101740,
+      "num": 101740,
+      "word": "国家防总派工作组赶赴广东",
+      "onboard_time": 1754207965,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101547,
       "num": 270106,
       "word": "上汽奥迪A5L上赛首秀",
@@ -7521,6 +7681,14 @@
       "onboard_time": 1753960463,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98365,
+      "num": 98365,
+      "word": "最吵的地铁出现了",
+      "onboard_time": 1754208385,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98178,
@@ -8297,6 +8465,14 @@
       "onboard_time": 1754067080,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61311,
+      "num": 186825,
+      "word": "企业无资质却敢开飞机带人上天",
+      "onboard_time": 1754209525,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60851,
