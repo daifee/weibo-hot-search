@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754194495055,
+  "endTime": 1754195617927,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -43,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2314857,
+      "num": 485633,
+      "word": "赵露思 宇宙怎么不是你徐喆的呢",
+      "onboard_time": 1754194346,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1941706,
       "num": 498181,
       "word": "徐喆",
       "onboard_time": 1754192786,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1882795,
-      "num": 485633,
-      "word": "赵露思 宇宙怎么不是你徐喆的呢",
-      "onboard_time": 1754194346,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -81,6 +81,14 @@
       "onboard_time": 1754143589,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1133236,
+      "num": 1133236,
+      "word": "7月电费",
+      "onboard_time": 1754192906,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1123262,
@@ -123,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 944904,
+      "num": 521433,
+      "word": "杜华算不算透露娱乐圈内幕了",
+      "onboard_time": 1754193805,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 913750,
       "num": 913750,
       "word": "民警上门未发现违法违规程序失当",
@@ -137,14 +153,6 @@
       "onboard_time": 1754182102,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 781840,
-      "num": 781840,
-      "word": "7月电费",
-      "onboard_time": 1754192906,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 703936,
@@ -259,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407750,
+      "num": 407750,
+      "word": "倪萍说董璇不应该结婚",
+      "onboard_time": 1754194705,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401549,
       "num": 307712,
       "word": "孟子义秒认李昀锐",
@@ -291,14 +307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 368681,
-      "num": 299338,
-      "word": "杜华算不算透露娱乐圈内幕了",
-      "onboard_time": 1754193805,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 358502,
       "num": 495077,
       "word": "家暴纵火烧妻致死案儿子谈未来",
@@ -315,20 +323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340525,
+      "num": 340525,
+      "word": "才5岁花了2万学的她还要报课",
+      "onboard_time": 1754192004,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326928,
       "num": 249152,
       "word": "许我耀眼",
       "onboard_time": 1754146169,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307721,
-      "num": 307721,
-      "word": "才5岁花了2万学的她还要报课",
-      "onboard_time": 1754192004,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 285441,
@@ -387,8 +395,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205564,
-      "num": 205564,
+      "raw_hot": 227107,
+      "num": 227107,
+      "word": "日本考虑限制75岁以上老人ATM机取款",
+      "onboard_time": 1754195185,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 226964,
+      "num": 226964,
       "word": "酱子贝",
       "onboard_time": 1754191703,
       "rank": 25,
@@ -443,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180383,
+      "num": 180383,
+      "word": "穿精神病服男子关广场舞音响",
+      "onboard_time": 1754194286,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177952,
       "num": 252853,
       "word": "被水泥块砸中身亡女子还不满21岁",
@@ -483,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175688,
+      "num": 175688,
+      "word": "顾客AI仅退款商家AI演堂食",
+      "onboard_time": 1754191464,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173833,
       "num": 214325,
       "word": "体检三大坑千万别被忽悠了",
@@ -491,16 +523,8 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 173617,
-      "num": 173617,
-      "word": "顾客AI仅退款商家AI演堂食",
-      "onboard_time": 1754191464,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171481,
-      "num": 171481,
+      "num": 175784,
       "word": "基孔肯雅热后遗症告知书",
       "onboard_time": 1754191583,
       "rank": 35,
@@ -587,6 +611,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 146594,
+      "num": 156245,
+      "word": "印乐大师接掌后的少林寺",
+      "onboard_time": 1754193686,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142354,
       "num": 241455,
       "word": "IU宝剑结婚 钟硕那边我去说",
@@ -603,20 +635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139118,
+      "num": 139118,
+      "word": "没有明天",
+      "onboard_time": 1754195425,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137486,
       "num": 137486,
       "word": "张艺兴唱了MAMA",
       "onboard_time": 1754181622,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136668,
-      "num": 136668,
-      "word": "穿精神病服男子关广场舞音响",
-      "onboard_time": 1754194286,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136074,
@@ -627,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135837,
+      "num": 135837,
+      "word": "刘宇宁现场大哭",
+      "onboard_time": 1754194825,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133106,
       "num": 242898,
       "word": "丁程鑫 改扣子漏光了",
       "onboard_time": 1754145331,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130031,
+      "num": 130031,
+      "word": "沈腾马丽的嘴还是太碎了",
+      "onboard_time": 1754194765,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129365,
@@ -691,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126246,
+      "num": 126246,
+      "word": "许嵩回到庐州唱庐州月",
+      "onboard_time": 1754195244,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123591,
       "num": 240894,
       "word": "韩红演唱会嘉宾陈立农",
@@ -707,12 +763,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122615,
-      "num": 156245,
-      "word": "印乐大师接掌后的少林寺",
-      "onboard_time": 1754193686,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 122633,
+      "num": 122633,
+      "word": "你好星期六输黑脸了",
+      "onboard_time": 1754195244,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121965,
@@ -769,6 +825,14 @@
       "onboard_time": 1754143050,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113624,
+      "num": 113624,
+      "word": "中国男泳世锦赛收官",
+      "onboard_time": 1754195425,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 113290,
@@ -897,6 +961,14 @@
       "onboard_time": 1754187861,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92889,
+      "num": 490399,
+      "word": "易烊千玺演唱会独家造型EA上大分",
+      "onboard_time": 1754190803,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 91713,
@@ -1123,14 +1195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67115,
-      "num": 490399,
-      "word": "易烊千玺演唱会独家造型EA上大分",
-      "onboard_time": 1754190803,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 63169,
       "num": 232346,
       "word": "Shanks AL也回来了",
@@ -1332,7 +1396,7 @@
     },
     {
       "raw_hot": 23366,
-      "num": 984734,
+      "num": 993035,
       "word": "网警倡议共筑网络安全堤坝为抗洪护航",
       "onboard_time": 1754187561,
       "rank": 2,

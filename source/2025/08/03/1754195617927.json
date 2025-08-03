@@ -1,0 +1,410 @@
+{
+  "runTime": 1754195617927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9345060,
+        "num": 9345060,
+        "word": "银河酷娱声明",
+        "onboard_time": 1754190623,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1133236,
+        "num": 1133236,
+        "word": "7月电费",
+        "onboard_time": 1754192906,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20725,
+        "num": 993035,
+        "word": "网警倡议共筑网络安全堤坝为抗洪护航",
+        "onboard_time": 1754187561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6992101,
+        "num": 6992101,
+        "word": "赵露思转发银河酷娱声明",
+        "onboard_time": 1754191703,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 985347,
+        "num": 985347,
+        "word": "官方通报女司机亮证逼迫让路事件",
+        "onboard_time": 1754179881,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525238,
+        "num": 525238,
+        "word": "民警上门要求删视频合法合规",
+        "onboard_time": 1754186662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 944904,
+        "num": 521433,
+        "word": "杜华算不算透露娱乐圈内幕了",
+        "onboard_time": 1754193805,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678228,
+        "num": 520464,
+        "word": "恋人",
+        "onboard_time": 1754185343,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492223,
+        "num": 492223,
+        "word": "女司机丈夫被立案调查",
+        "onboard_time": 1754182102,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491607,
+        "num": 491607,
+        "word": "民警上门未发现违法违规程序失当",
+        "onboard_time": 1754184922,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2314857,
+        "num": 484570,
+        "word": "赵露思 宇宙怎么不是你徐喆的呢",
+        "onboard_time": 1754194346,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1618539,
+        "num": 479673,
+        "word": "徐喆",
+        "onboard_time": 1754192786,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493286,
+        "num": 465929,
+        "word": "银河酷娱旗下艺人",
+        "onboard_time": 1754143589,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447881,
+        "num": 447881,
+        "word": "挂掉记者电话工作人员被严肃批评",
+        "onboard_time": 1754183242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407750,
+        "num": 407750,
+        "word": "倪萍说董璇不应该结婚",
+        "onboard_time": 1754194705,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405403,
+        "num": 405403,
+        "word": "广西防城港认真全面整改",
+        "onboard_time": 1754184922,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374659,
+        "num": 374659,
+        "word": "亮证女司机所开奔驰系17.8万二手车",
+        "onboard_time": 1754183242,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92889,
+        "num": 346558,
+        "word": "易烊千玺演唱会独家造型EA上大分",
+        "onboard_time": 1754190803,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340525,
+        "num": 340525,
+        "word": "才5岁花了2万学的她还要报课",
+        "onboard_time": 1754192004,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257470,
+        "num": 257470,
+        "word": "中国队男子4x100米混接小组第四",
+        "onboard_time": 1754193087,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354607,
+        "num": 256269,
+        "word": "时代少年团 上海",
+        "onboard_time": 1754192906,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332953,
+        "num": 256042,
+        "word": "孟子义秒认李昀锐",
+        "onboard_time": 1754190803,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238892,
+        "num": 238892,
+        "word": "家暴纵火烧妻致死案儿子谈未来",
+        "onboard_time": 1754187503,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227107,
+        "num": 227107,
+        "word": "日本考虑限制75岁以上老人ATM机取款",
+        "onboard_time": 1754195185,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226964,
+        "num": 226964,
+        "word": "酱子贝",
+        "onboard_time": 1754191703,
+        "rank": 24,
+        "category": "读书作家,电竞"
+      },
+      {
+        "raw_hot": 210945,
+        "num": 210945,
+        "word": "刘宇宁哭了",
+        "onboard_time": 1754148089,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187277,
+        "num": 187277,
+        "word": "易烊千玺像大祭司一样隆重出场了",
+        "onboard_time": 1754176879,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181505,
+        "num": 181505,
+        "word": "aespa红毯镜头",
+        "onboard_time": 1754193385,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180383,
+        "num": 180383,
+        "word": "穿精神病服男子关广场舞音响",
+        "onboard_time": 1754194286,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144768,
+        "num": 175784,
+        "word": "基孔肯雅热后遗症告知书",
+        "onboard_time": 1754191583,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 175688,
+        "num": 175688,
+        "word": "顾客AI仅退款商家AI演堂食",
+        "onboard_time": 1754191464,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165246,
+        "num": 165246,
+        "word": "孟子义认出了李昀锐",
+        "onboard_time": 1754191764,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154409,
+        "num": 154409,
+        "word": "侯明昊跳EXO咆哮",
+        "onboard_time": 1754192244,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147527,
+        "num": 147527,
+        "word": "黄子韬带新人rapper上hi6舞台了",
+        "onboard_time": 1754193087,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146594,
+        "num": 146594,
+        "word": "印乐大师接掌后的少林寺",
+        "onboard_time": 1754193686,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139849,
+        "num": 139849,
+        "word": "要不SM把陆婷玉收了吧",
+        "onboard_time": 1754190743,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140759,
+        "num": 139662,
+        "word": "侯明昊跳了aespa的whiplash",
+        "onboard_time": 1754194227,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139118,
+        "num": 139118,
+        "word": "没有明天",
+        "onboard_time": 1754195425,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "战至巅峰",
+        "onboard_time": 1754190563,
+        "rank": 38,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 137013,
+        "num": 137013,
+        "word": "妹妹以姐姐已出嫁为由争夺46万遗产",
+        "onboard_time": 1754185821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135837,
+        "num": 135837,
+        "word": "刘宇宁现场大哭",
+        "onboard_time": 1754194825,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130031,
+        "num": 130031,
+        "word": "沈腾马丽的嘴还是太碎了",
+        "onboard_time": 1754194765,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129747,
+        "num": 129747,
+        "word": "蝶恋原唱经纪人回应年轮被质疑抄袭",
+        "onboard_time": 1754177479,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127606,
+        "num": 127606,
+        "word": "全款76万买到260平的房子",
+        "onboard_time": 1754180001,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126246,
+        "num": 126246,
+        "word": "许嵩回到庐州唱庐州月",
+        "onboard_time": 1754195244,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "女司机称收到来自7省份的挪车信息",
+        "onboard_time": 1754191764,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122633,
+        "num": 122633,
+        "word": "你好星期六输黑脸了",
+        "onboard_time": 1754195244,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116276,
+        "num": 116276,
+        "word": "被亮证当事人最新回应",
+        "onboard_time": 1754190261,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113624,
+        "num": 113624,
+        "word": "中国男泳世锦赛收官",
+        "onboard_time": 1754195425,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107892,
+        "num": 111232,
+        "word": "曾凡博加盟篮网",
+        "onboard_time": 1754190682,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}

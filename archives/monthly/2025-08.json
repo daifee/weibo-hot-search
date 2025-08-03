@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754194495055,
+  "endTime": 1754195617927,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2314857,
+      "num": 485633,
+      "word": "赵露思 宇宙怎么不是你徐喆的呢",
+      "onboard_time": 1754194346,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2132596,
       "num": 653376,
       "word": "易烊千玺演唱会",
@@ -168,14 +176,6 @@
       "word": "徐喆",
       "onboard_time": 1754192786,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1882795,
-      "num": 485633,
-      "word": "赵露思 宇宙怎么不是你徐喆的呢",
-      "onboard_time": 1754194346,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -353,6 +353,14 @@
       "onboard_time": 1754040142,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1133236,
+      "num": 1133236,
+      "word": "7月电费",
+      "onboard_time": 1754192906,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1132060,
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 944904,
+      "num": 521433,
+      "word": "杜华算不算透露娱乐圈内幕了",
+      "onboard_time": 1754193805,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 921334,
       "num": 295152,
       "word": "易烊千玺好美",
@@ -657,14 +673,6 @@
       "onboard_time": 1754182102,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 781840,
-      "num": 781840,
-      "word": "7月电费",
-      "onboard_time": 1754192906,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 780469,
@@ -1411,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407750,
+      "num": 407750,
+      "word": "倪萍说董璇不应该结婚",
+      "onboard_time": 1754194705,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406209,
       "num": 401249,
       "word": "五月天嘉宾汪苏泷",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1754036662,
       "rank": 19,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 368681,
-      "num": 299338,
-      "word": "杜华算不算透露娱乐圈内幕了",
-      "onboard_time": 1754193805,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 365668,
@@ -1641,6 +1649,14 @@
       "onboard_time": 1754007861,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340525,
+      "num": 340525,
+      "word": "才5岁花了2万学的她还要报课",
+      "onboard_time": 1754192004,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 340213,
@@ -1849,14 +1865,6 @@
       "onboard_time": 1754126542,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307721,
-      "num": 307721,
-      "word": "才5岁花了2万学的她还要报课",
-      "onboard_time": 1754192004,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 306001,
@@ -2507,12 +2515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227107,
+      "num": 227107,
+      "word": "日本考虑限制75岁以上老人ATM机取款",
+      "onboard_time": 1754195185,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 227025,
       "num": 280329,
       "word": "没人挑战李佳薇",
       "onboard_time": 1754054904,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226964,
+      "num": 226964,
+      "word": "酱子贝",
+      "onboard_time": 1754191703,
+      "rank": 25,
+      "category": "读书作家,电竞"
     },
     {
       "raw_hot": 226720,
@@ -2961,14 +2985,6 @@
       "onboard_time": 1754004199,
       "rank": 8,
       "category": "军事"
-    },
-    {
-      "raw_hot": 205564,
-      "num": 205564,
-      "word": "酱子贝",
-      "onboard_time": 1754191703,
-      "rank": 25,
-      "category": "读书作家,电竞"
     },
     {
       "raw_hot": 205380,
@@ -3603,6 +3619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180383,
+      "num": 180383,
+      "word": "穿精神病服男子关广场舞音响",
+      "onboard_time": 1754194286,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180264,
       "num": 180264,
       "word": "迪丽热巴直播",
@@ -3699,6 +3723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175688,
+      "num": 175688,
+      "word": "顾客AI仅退款商家AI演堂食",
+      "onboard_time": 1754191464,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175627,
       "num": 175627,
       "word": "看演唱会被同担扫了5w换座位",
@@ -3761,14 +3793,6 @@
       "onboard_time": 1754153302,
       "rank": 37,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 173617,
-      "num": 173617,
-      "word": "顾客AI仅退款商家AI演堂食",
-      "onboard_time": 1754191464,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173193,
@@ -3844,7 +3868,7 @@
     },
     {
       "raw_hot": 171481,
-      "num": 171481,
+      "num": 175784,
       "word": "基孔肯雅热后遗症告知书",
       "onboard_time": 1754191583,
       "rank": 35,
@@ -4795,6 +4819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146594,
+      "num": 156245,
+      "word": "印乐大师接掌后的少林寺",
+      "onboard_time": 1754193686,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146272,
       "num": 146272,
       "word": "歌手选曲审美",
@@ -5043,6 +5075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139118,
+      "num": 139118,
+      "word": "没有明天",
+      "onboard_time": 1754195425,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138918,
       "num": 204768,
       "word": "黄宗泽称女友经常被妈妈骂走",
@@ -5163,14 +5203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136668,
-      "num": 136668,
-      "word": "穿精神病服男子关广场舞音响",
-      "onboard_time": 1754194286,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136076,
       "num": 136076,
       "word": "樊振东开启奋斗的一天",
@@ -5185,6 +5217,14 @@
       "onboard_time": 1754187443,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135837,
+      "num": 135837,
+      "word": "刘宇宁现场大哭",
+      "onboard_time": 1754194825,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 135695,
@@ -5571,6 +5611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130031,
+      "num": 130031,
+      "word": "沈腾马丽的嘴还是太碎了",
+      "onboard_time": 1754194765,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129880,
       "num": 129880,
       "word": "定风波今日开播",
@@ -5753,6 +5801,14 @@
       "onboard_time": 1754041341,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126246,
+      "num": 126246,
+      "word": "许嵩回到庐州唱庐州月",
+      "onboard_time": 1754195244,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 126219,
@@ -5939,20 +5995,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122633,
+      "num": 122633,
+      "word": "你好星期六输黑脸了",
+      "onboard_time": 1754195244,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122619,
       "num": 122619,
       "word": "周末是一场有预谋的暴食",
       "onboard_time": 1754124622,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122615,
-      "num": 156245,
-      "word": "印乐大师接掌后的少林寺",
-      "onboard_time": 1754193686,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122387,
@@ -6321,6 +6377,14 @@
       "onboard_time": 1754007922,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 113624,
+      "num": 113624,
+      "word": "中国男泳世锦赛收官",
+      "onboard_time": 1754195425,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 113583,
@@ -7051,6 +7115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92889,
+      "num": 490399,
+      "word": "易烊千玺演唱会独家造型EA上大分",
+      "onboard_time": 1754190803,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "孙颖莎捐赠物资抵达河北",
@@ -7473,14 +7545,6 @@
       "onboard_time": 1754073315,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67115,
-      "num": 490399,
-      "word": "易烊千玺演唱会独家造型EA上大分",
-      "onboard_time": 1754190803,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 67102,
@@ -8292,7 +8356,7 @@
     },
     {
       "raw_hot": 23366,
-      "num": 984734,
+      "num": 993035,
       "word": "网警倡议共筑网络安全堤坝为抗洪护航",
       "onboard_time": 1754187561,
       "rank": 2,
