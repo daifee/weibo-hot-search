@@ -1,0 +1,410 @@
+{
+  "runTime": 1754214221730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611081,
+        "num": 1611081,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1239127,
+        "num": 1239127,
+        "word": "白马山失联5人均已遇难",
+        "onboard_time": 1754209944,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21297,
+        "num": 659233,
+        "word": "福建舰模拟弹射试验后战士们紧紧相拥",
+        "onboard_time": 1754182402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1560858,
+        "num": 515719,
+        "word": "战至巅峰直播",
+        "onboard_time": 1754211265,
+        "rank": 3,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 362440,
+        "num": 362440,
+        "word": "生娃能领7笔钱",
+        "onboard_time": 1754208326,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202780,
+        "num": 350672,
+        "word": "7月电费",
+        "onboard_time": 1754192906,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1147928,
+        "num": 330961,
+        "word": "赵露思说实在不行开个小面馆",
+        "onboard_time": 1754213305,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560499,
+        "num": 319012,
+        "word": "赵丽颖刘昊然 九重天",
+        "onboard_time": 1754211024,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456258,
+        "num": 304563,
+        "word": "87版西游记如来佛扮演者去世",
+        "onboard_time": 1754206403,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173583,
+        "num": 274700,
+        "word": "内耗的人需要的安慰是这样的",
+        "onboard_time": 1754209525,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386551,
+        "num": 262676,
+        "word": "侯明昊后台换衣被直播了",
+        "onboard_time": 1754212823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254422,
+        "num": 254422,
+        "word": "战至巅峰",
+        "onboard_time": 1754190563,
+        "rank": 11,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 253367,
+        "num": 253367,
+        "word": "疑似秦奋投诉韦雪",
+        "onboard_time": 1754206704,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170506,
+        "num": 215010,
+        "word": "考公人在公示期嘴有多严",
+        "onboard_time": 1754198846,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197014,
+        "num": 197014,
+        "word": "阿姨吹一周空调严重呼吸衰竭",
+        "onboard_time": 1754212344,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208637,
+        "num": 194712,
+        "word": "汤唯撕了我拍的撕拉片",
+        "onboard_time": 1754212704,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165174,
+        "num": 192955,
+        "word": "日本反华的根源",
+        "onboard_time": 1754202384,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145105,
+        "num": 191609,
+        "word": "脂肪参与比例最高的运动",
+        "onboard_time": 1754208565,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129126,
+        "num": 188929,
+        "word": "官方通报女司机亮证逼迫让路事件",
+        "onboard_time": 1754179881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68683,
+        "num": 184509,
+        "word": "2025海南国际旅游岛欢乐节",
+        "onboard_time": 1754211804,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183576,
+        "num": 183576,
+        "word": "杜华算不算透露娱乐圈内幕了",
+        "onboard_time": 1754193805,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177640,
+        "num": 177640,
+        "word": "时代少年团 上海",
+        "onboard_time": 1754192906,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169559,
+        "num": 169559,
+        "word": "定风波男主",
+        "onboard_time": 1754202442,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154856,
+        "num": 154856,
+        "word": "电影南京照相馆",
+        "onboard_time": 1754212764,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154180,
+        "num": 154180,
+        "word": "情绪化发言没有任何好处",
+        "onboard_time": 1754214203,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143298,
+        "num": 143298,
+        "word": "电影731定档海报",
+        "onboard_time": 1754212163,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136488,
+        "num": 136488,
+        "word": "荷兰弟或将暂别演艺圈",
+        "onboard_time": 1754211504,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134868,
+        "num": 134868,
+        "word": "六小龄童发文悼念朱龙广",
+        "onboard_time": 1754208144,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780211,
+        "num": 129761,
+        "word": "赵露思说自己80斤拍戏多好啊",
+        "onboard_time": 1754210305,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124620,
+        "num": 124620,
+        "word": "这几天不是热热热就是雨雨雨",
+        "onboard_time": 1754198723,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174941,
+        "num": 124319,
+        "word": "终于看懂体彩店是怎么盈利的了",
+        "onboard_time": 1754212285,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123972,
+        "num": 123972,
+        "word": "张峻豪演唱会内场上座率",
+        "onboard_time": 1754209103,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121017,
+        "num": 121017,
+        "word": "贾玲在我胸肌上签名",
+        "onboard_time": 1754210664,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97233,
+        "num": 119730,
+        "word": "男子在地铁安检口偷拍裙底被抓现行",
+        "onboard_time": 1754203463,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118990,
+        "num": 118990,
+        "word": "孙红雷要给张艺兴打电话",
+        "onboard_time": 1754208625,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117625,
+        "num": 117625,
+        "word": "体检时留尿要等1秒钟",
+        "onboard_time": 1754213543,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117520,
+        "num": 117520,
+        "word": "张柏芝为大儿子庆18岁生日",
+        "onboard_time": 1754207905,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112060,
+        "num": 112060,
+        "word": "孙怡父母托举式爱的具象化",
+        "onboard_time": 1754204484,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98363,
+        "num": 109256,
+        "word": "王楚钦收到梦中情杆",
+        "onboard_time": 1754204964,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50557,
+        "num": 108429,
+        "word": "二级消防士的行政执法证有什么用",
+        "onboard_time": 1754213723,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108158,
+        "num": 108158,
+        "word": "云合",
+        "onboard_time": 1754213664,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105379,
+        "num": 105379,
+        "word": "游客2013年拍到丁真",
+        "onboard_time": 1754209344,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96361,
+        "num": 101262,
+        "word": "鸡蛋太贵买了一个做了七菜一汤",
+        "onboard_time": 1754200823,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97457,
+        "num": 97457,
+        "word": "留几手谈离婚原因",
+        "onboard_time": 1754207364,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96667,
+        "num": 96667,
+        "word": "许允真说Labubu不好看",
+        "onboard_time": 1754198485,
+        "rank": 44,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 94006,
+        "num": 94006,
+        "word": "自然少年团",
+        "onboard_time": 1754212944,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93483,
+        "num": 93483,
+        "word": "成都GG对战北京WBG",
+        "onboard_time": 1754214203,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92876,
+        "num": 92876,
+        "word": "节食减肥和运动减肥瘦20斤的区别",
+        "onboard_time": 1754211085,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 89246,
+        "num": 89246,
+        "word": "文俊辉首映礼生图",
+        "onboard_time": 1754214024,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85684,
+        "num": 85684,
+        "word": "上海迪士尼跳跳虎演职人员中暑晕倒",
+        "onboard_time": 1754213543,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保卫和平是人民军队之责#"
+    }
+  }
+}
