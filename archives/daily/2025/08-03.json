@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754188107149,
+  "endTime": 1754190008083,
   "band_list": [
     {
       "raw_hot": 9295523,
@@ -33,6 +33,14 @@
       "onboard_time": 1754148089,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1540939,
+      "num": 1540939,
+      "word": "恋人",
+      "onboard_time": 1754185343,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1342073,
@@ -83,20 +91,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 878535,
-      "num": 878535,
+      "raw_hot": 913750,
+      "num": 913750,
       "word": "民警上门未发现违法违规程序失当",
       "onboard_time": 1754184922,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 807772,
-      "num": 807772,
-      "word": "恋人",
-      "onboard_time": 1754185343,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 784496,
@@ -139,6 +139,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 671252,
+      "num": 671252,
+      "word": "挂掉记者电话工作人员被严肃批评",
+      "onboard_time": 1754183242,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 661518,
+      "num": 661518,
+      "word": "民警上门要求删视频合法合规",
+      "onboard_time": 1754186662,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653461,
       "num": 653461,
       "word": "亮证女司机所开奔驰系17.8万二手车",
@@ -153,14 +169,6 @@
       "onboard_time": 1754140232,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 611957,
-      "num": 611957,
-      "word": "挂掉记者电话工作人员被严肃批评",
-      "onboard_time": 1754183242,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 607894,
@@ -227,16 +235,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 375923,
-      "num": 375923,
-      "word": "民警上门要求删视频合法合规",
-      "onboard_time": 1754186662,
-      "rank": 17,
+      "raw_hot": 358502,
+      "num": 495077,
+      "word": "家暴纵火烧妻致死案儿子谈未来",
+      "onboard_time": 1754187503,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
       "raw_hot": 344162,
-      "num": 249629,
+      "num": 315099,
       "word": "恋人剧组",
       "onboard_time": 1754144429,
       "rank": 15,
@@ -297,6 +305,14 @@
       "onboard_time": 1754176938,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189669,
+      "num": 189669,
+      "word": "汪顺退出400混",
+      "onboard_time": 1754189961,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 186358,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150262,
+      "num": 207946,
+      "word": "越剧演员表演时苍蝇在脸上乱爬",
+      "onboard_time": 1754185521,
+      "rank": 23,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 142354,
       "num": 241455,
       "word": "IU宝剑结婚 钟硕那边我去说",
@@ -432,22 +456,6 @@
       "word": "店家回应彩民花69元中2.4亿元",
       "onboard_time": 1754153302,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127837,
-      "num": 207946,
-      "word": "越剧演员表演时苍蝇在脸上乱爬",
-      "onboard_time": 1754185521,
-      "rank": 23,
-      "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 123596,
-      "num": 123596,
-      "word": "家暴纵火烧妻致死案儿子谈未来",
-      "onboard_time": 1754187503,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100401,
+      "num": 100401,
+      "word": "德国愤怒小鸟纵火袭击铁路",
+      "onboard_time": 1754188642,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99952,
       "num": 238480,
       "word": "F1",
@@ -707,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84157,
+      "num": 97320,
+      "word": "孟子义对自己的脸非常有自信",
+      "onboard_time": 1754189661,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83523,
       "num": 83523,
       "word": "韩国拟取消美容整形增值税退税",
@@ -779,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71956,
+      "num": 71956,
+      "word": "赵心童遭6连鞭",
+      "onboard_time": 1754186243,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71814,
       "num": 71814,
       "word": "爱豆侯明昊杀回来了",
@@ -787,12 +819,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70823,
+      "num": 70823,
+      "word": "男女厕位比例不应简单对半分",
+      "onboard_time": 1754189422,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70697,
       "num": 214163,
       "word": "年轮说原唱杨丞琳",
       "onboard_time": 1754120722,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 69826,
+      "num": 69826,
+      "word": "山西大同3.1级地震",
+      "onboard_time": 1754179100,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 69686,
+      "num": 69686,
+      "word": "天才女友青岛开机",
+      "onboard_time": 1754189961,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 68696,
@@ -1012,7 +1068,7 @@
     },
     {
       "raw_hot": 23174,
-      "num": 901884,
+      "num": 984734,
       "word": "网警倡议共筑网络安全堤坝为抗洪护航",
       "onboard_time": 1754187561,
       "rank": 2,
