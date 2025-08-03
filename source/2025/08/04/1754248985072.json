@@ -1,0 +1,410 @@
+{
+  "runTime": 1754248985072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 232419,
+        "num": 232419,
+        "word": "杨幂15年前的博文火了",
+        "onboard_time": 1754231546,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129158,
+        "num": 129158,
+        "word": "全球贸易史上迎来黑暗一天",
+        "onboard_time": 1754234544,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1331,
+        "num": 107179,
+        "word": "无人机蜂群与机器狼协同作战演习",
+        "onboard_time": 1754181081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161832,
+        "num": 104182,
+        "word": "赵露思回复利用网友解约",
+        "onboard_time": 1754224706,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97285,
+        "num": 97285,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1754215345,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85167,
+        "num": 85167,
+        "word": "男子与富婆离婚嫌分的钱少起诉获胜",
+        "onboard_time": 1754235924,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150486,
+        "num": 80465,
+        "word": "蒲熠星回应文案争议",
+        "onboard_time": 1754236462,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74860,
+        "num": 74860,
+        "word": "杨清柠乔司离婚",
+        "onboard_time": 1754223504,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70364,
+        "num": 70364,
+        "word": "男童被绞断4根手指已恢复如初",
+        "onboard_time": 1754234486,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63639,
+        "num": 63639,
+        "word": "饭店用脏话做招牌被指辣眼睛",
+        "onboard_time": 1754235564,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87506,
+        "num": 60643,
+        "word": "鞠婧祎知道被P成孙悟空",
+        "onboard_time": 1754234005,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51232,
+        "num": 51232,
+        "word": "管乐的家乱的让人震撼",
+        "onboard_time": 1754217623,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47946,
+        "num": 47946,
+        "word": "男子花87万办了300年的健身卡",
+        "onboard_time": 1754235325,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41422,
+        "num": 41422,
+        "word": "上海一百年老洋房1.5亿元起拍",
+        "onboard_time": 1754235803,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40249,
+        "num": 40249,
+        "word": "日本老龄化具象化了",
+        "onboard_time": 1754232685,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38732,
+        "num": 38732,
+        "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
+        "onboard_time": 1754230286,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34582,
+        "num": 34582,
+        "word": "理想回应i8安全性碰撞测试",
+        "onboard_time": 1754233106,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33407,
+        "num": 33407,
+        "word": "刘宇宁终于直播成功了",
+        "onboard_time": 1754235084,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33355,
+        "num": 33355,
+        "word": "肖战 小城良方",
+        "onboard_time": 1754229686,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31718,
+        "num": 31718,
+        "word": "鹿晗你竟然耍我",
+        "onboard_time": 1754232085,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41614,
+        "num": 31447,
+        "word": "杨清柠 王乐乐",
+        "onboard_time": 1754228125,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41503,
+        "num": 31305,
+        "word": "蒲熠星",
+        "onboard_time": 1754235683,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30566,
+        "num": 30566,
+        "word": "刺杀小说家2",
+        "onboard_time": 1754227345,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29327,
+        "num": 29327,
+        "word": "男子杀害7个月大侄女无精神病症状",
+        "onboard_time": 1754238981,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28620,
+        "num": 28620,
+        "word": "刘宇宁演唱会四大名著",
+        "onboard_time": 1754239401,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27440,
+        "num": 27440,
+        "word": "美国低收入家庭的晚餐",
+        "onboard_time": 1754224464,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27165,
+        "num": 27165,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1754224164,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26453,
+        "num": 26453,
+        "word": "巨型天牛现身哀牢山",
+        "onboard_time": 1754216543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25425,
+        "num": 25425,
+        "word": "一个人值不值得交往看3点",
+        "onboard_time": 1754236404,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24733,
+        "num": 24733,
+        "word": "央视曝光水光针美丽陷阱",
+        "onboard_time": 1754233286,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24177,
+        "num": 24177,
+        "word": "美国女警疑似意外接触芬太尼后抽搐",
+        "onboard_time": 1754246655,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24085,
+        "num": 24085,
+        "word": "台风白鹿已生成",
+        "onboard_time": 1754218704,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24069,
+        "num": 24069,
+        "word": "任重孙骁骁带孩子逛商场",
+        "onboard_time": 1754226385,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23861,
+        "num": 23861,
+        "word": "以色列爆发全国性抗议",
+        "onboard_time": 1754223864,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23182,
+        "num": 23182,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22718,
+        "num": 22718,
+        "word": "男子遇蛇大叫把蛇吓到原路返回",
+        "onboard_time": 1754233644,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22646,
+        "num": 22646,
+        "word": "情侣旅游发生车祸死里逃生后领证",
+        "onboard_time": 1754218523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21422,
+        "num": 21422,
+        "word": "王源直播",
+        "onboard_time": 1754225904,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21257,
+        "num": 21257,
+        "word": "男子喂鱼忘送娃上课被妻子踹进鱼池",
+        "onboard_time": 1754234965,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20722,
+        "num": 20722,
+        "word": "歌手帮唱",
+        "onboard_time": 1754231306,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20659,
+        "num": 20659,
+        "word": "一个双马尾阿信",
+        "onboard_time": 1754242577,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20589,
+        "num": 20589,
+        "word": "马小跳背叛我了",
+        "onboard_time": 1754231546,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20295,
+        "num": 20295,
+        "word": "赵露思工作室运营权",
+        "onboard_time": 1754248216,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20152,
+        "num": 20152,
+        "word": "BABYMONSTER新歌涉嫌抄袭",
+        "onboard_time": 1754236462,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19900,
+        "num": 19900,
+        "word": "首尔偶遇周也",
+        "onboard_time": 1754222663,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19781,
+        "num": 19781,
+        "word": "俄罗斯千岛群岛数十米惊人海啸",
+        "onboard_time": 1754234244,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19523,
+        "num": 19523,
+        "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
+        "onboard_time": 1754234186,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19503,
+        "num": 19503,
+        "word": "安静公主自曝睡医院地上",
+        "onboard_time": 1754228784,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17540,
+        "num": 19502,
+        "word": "法拉利 乐扣",
+        "onboard_time": 1754235084,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15675,
+        "num": 19499,
+        "word": "气血不足最怕这6个动作",
+        "onboard_time": 1754228605,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
