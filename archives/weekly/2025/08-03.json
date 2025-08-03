@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754195617927,
+  "endTime": 1754199261799,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -67,6 +67,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1602572,
+      "num": 395116,
+      "word": "赵露思八问银河酷娱",
+      "onboard_time": 1754195905,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1540939,
       "num": 1540939,
       "word": "恋人",
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1133236,
-      "num": 1133236,
+      "raw_hot": 1155848,
+      "num": 1155848,
       "word": "7月电费",
       "onboard_time": 1754192906,
       "rank": 4,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 996363,
+      "num": 996363,
+      "word": "杜华算不算透露娱乐圈内幕了",
+      "onboard_time": 1754193805,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 975918,
       "num": 1027258,
       "word": "赵露思意外生病是自己赔钱",
@@ -129,14 +145,6 @@
       "onboard_time": 1754138905,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 944904,
-      "num": 521433,
-      "word": "杜华算不算透露娱乐圈内幕了",
-      "onboard_time": 1754193805,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 913750,
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560464,
+      "num": 452992,
+      "word": "倪萍说董璇不应该结婚",
+      "onboard_time": 1754194705,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549028,
       "num": 549028,
       "word": "时代少年团 上海",
@@ -251,12 +267,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 463787,
+      "num": 176997,
+      "word": "考公人在公示期嘴有多严",
+      "onboard_time": 1754198846,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 463048,
       "num": 657799,
       "word": "蝶恋原唱经纪人回应年轮被质疑抄袭",
       "onboard_time": 1754177479,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 453746,
+      "num": 453746,
+      "word": "灵隐寺的辣椒 出家人不打诳语",
+      "onboard_time": 1754195727,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440646,
@@ -267,12 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 407750,
-      "num": 407750,
-      "word": "倪萍说董璇不应该结婚",
-      "onboard_time": 1754194705,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 440445,
+      "num": 440445,
+      "word": "恋人24集变更为14集",
+      "onboard_time": 1754196984,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 401549,
@@ -339,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307103,
+      "num": 307103,
+      "word": "宋雨琦章昊双人舞",
+      "onboard_time": 1754196145,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285441,
       "num": 246927,
       "word": "97年出帅哥 79年出魔童",
       "onboard_time": 1754134882,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276412,
+      "num": 276412,
+      "word": "刘宇宁说有时候真的干够了",
+      "onboard_time": 1754197163,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 275658,
@@ -361,6 +409,14 @@
       "onboard_time": 1754144069,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 265000,
+      "num": 265000,
+      "word": "原神",
+      "onboard_time": 1754197463,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 260858,
@@ -395,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 234228,
+      "num": 395392,
+      "word": "这几天不是热热热就是雨雨雨",
+      "onboard_time": 1754198723,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "日本考虑限制75岁以上老人ATM机取款",
@@ -411,12 +475,36 @@
       "category": "读书作家,电竞"
     },
     {
+      "raw_hot": 203349,
+      "num": 203349,
+      "word": "小朋友高铁上被发试卷一秒静音",
+      "onboard_time": 1754197224,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200963,
+      "num": 200963,
+      "word": "官方通报休闲船起火致1死4伤",
+      "onboard_time": 1754196384,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 197868,
       "num": 197868,
       "word": "游泳世锦赛",
       "onboard_time": 1754193506,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190018,
+      "num": 190018,
+      "word": "宋佳上城士妆造必有高人指点",
+      "onboard_time": 1754198064,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 189669,
@@ -459,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181821,
+      "num": 181821,
+      "word": "许允真说Labubu不好看",
+      "onboard_time": 1754198485,
+      "rank": 28,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 180383,
       "num": 180383,
       "word": "穿精神病服男子关广场舞音响",
@@ -475,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177346,
+      "num": 177346,
+      "word": "柯淳进组炽夏",
+      "onboard_time": 1754198305,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176998,
       "num": 176998,
       "word": "孟子义认出了李昀锐",
       "onboard_time": 1754191764,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176421,
+      "num": 176421,
+      "word": "小鬼王琳凯到底给多少人写了歌",
+      "onboard_time": 1754195905,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 176389,
@@ -539,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165716,
+      "num": 165716,
+      "word": "金晨是真不拿粉丝当外人",
+      "onboard_time": 1754198183,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164506,
       "num": 164506,
       "word": "侯明昊跳了aespa的whiplash",
@@ -555,12 +675,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163730,
+      "num": 163730,
+      "word": "咸鱼飞升",
+      "onboard_time": 1754195844,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163555,
       "num": 163555,
       "word": "亮证女司机非公职人员",
       "onboard_time": 1754179881,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160543,
+      "num": 160543,
+      "word": "走路10分钟身体就开始变化",
+      "onboard_time": 1754195785,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 159435,
@@ -619,6 +755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145775,
+      "num": 145775,
+      "word": "林俊杰JJ20演唱会北京站vlog",
+      "onboard_time": 1754198305,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 144585,
+      "num": 144585,
+      "word": "亮证姐事件巧合为何这么多",
+      "onboard_time": 1754197163,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142354,
       "num": 241455,
       "word": "IU宝剑结婚 钟硕那边我去说",
@@ -635,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139586,
+      "num": 139586,
+      "word": "汪顺潘展乐覃海洋徐放预赛第9",
+      "onboard_time": 1754198125,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139118,
       "num": 139118,
       "word": "没有明天",
@@ -649,6 +809,14 @@
       "onboard_time": 1754181622,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137417,
+      "num": 137417,
+      "word": "你好星期六输黑脸了",
+      "onboard_time": 1754195244,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 136074,
@@ -699,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129283,
+      "num": 129283,
+      "word": "李艺彤罗予彤旅行没告诉李晟",
+      "onboard_time": 1754196445,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129268,
       "num": 242068,
       "word": "杨冰怡总选第一",
@@ -723,6 +899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127548,
+      "num": 127548,
+      "word": "星穹铁道",
+      "onboard_time": 1754196984,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127029,
       "num": 127029,
       "word": "鹿晗超级冠军巡到新说唱了",
@@ -739,12 +923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126786,
+      "num": 126786,
+      "word": "小哥送完这单基本告别外卖行业了",
+      "onboard_time": 1754197284,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126246,
       "num": 126246,
       "word": "许嵩回到庐州唱庐州月",
       "onboard_time": 1754195244,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124841,
+      "num": 124841,
+      "word": "陈星旭我不落寞了我在罗马了",
+      "onboard_time": 1754199204,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 123591,
@@ -763,11 +963,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122633,
-      "num": 122633,
-      "word": "你好星期六输黑脸了",
-      "onboard_time": 1754195244,
-      "rank": 46,
+      "raw_hot": 122361,
+      "num": 122361,
+      "word": "地球超新鲜",
+      "onboard_time": 1754197643,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -777,6 +977,14 @@
       "onboard_time": 1754177778,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121838,
+      "num": 121838,
+      "word": "来战",
+      "onboard_time": 1754196024,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120292,
@@ -955,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93794,
+      "num": 185873,
+      "word": "亮证女报警称怀疑车辆被套牌",
+      "onboard_time": 1754198245,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93309,
       "num": 93309,
       "word": "张本美和大藤沙月女双冠军",
@@ -980,7 +1196,7 @@
     },
     {
       "raw_hot": 89944,
-      "num": 89944,
+      "num": 1068413,
       "word": "福建舰模拟弹射试验后战士们紧紧相拥",
       "onboard_time": 1754182402,
       "rank": 47,
@@ -1315,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46303,
+      "num": 265086,
+      "word": "刘亦菲讲述蜕变与新生",
+      "onboard_time": 1754197405,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40020,
       "num": 40020,
       "word": "鞠婧祎丝巾上衣",
@@ -1465,6 +1689,9 @@
     },
     {
       "word": "#人民军队攻坚制胜#"
+    },
+    {
+      "word": "#保卫和平是人民军队之责#"
     }
   ]
 }
