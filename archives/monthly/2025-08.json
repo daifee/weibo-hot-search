@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754210904413,
+  "endTime": 1754213302229,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1895717,
+      "num": 1895717,
+      "word": "战至巅峰直播",
+      "onboard_time": 1754211265,
+      "rank": 0,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 1882347,
       "num": 1882347,
       "word": "歌手直播",
@@ -329,6 +337,14 @@
       "onboard_time": 1754101522,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1357609,
+      "num": 1357609,
+      "word": "白马山失联5人均已遇难",
+      "onboard_time": 1754209944,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1329207,
@@ -795,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 745105,
-      "num": 745105,
-      "word": "白马山失联5人均已遇难",
-      "onboard_time": 1754209944,
-      "rank": 27,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 739156,
       "num": 739156,
       "word": "陈芋汐谈全红婵不在身边",
@@ -1163,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 561161,
+      "num": 228911,
+      "word": "赵丽颖刘昊然 九重天",
+      "onboard_time": 1754211024,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560464,
       "num": 492071,
       "word": "倪萍说董璇不应该结婚",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1754051602,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444551,
+      "num": 203784,
+      "word": "战至巅峰",
+      "onboard_time": 1754056284,
+      "rank": 36,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 444204,
@@ -2027,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307656,
+      "num": 307656,
+      "word": "生娃能领7笔钱",
+      "onboard_time": 1754208326,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307103,
       "num": 307103,
       "word": "宋雨琦章昊双人舞",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1754132123,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 273153,
-      "num": 273153,
-      "word": "生娃能领7笔钱",
-      "onboard_time": 1754208326,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273136,
@@ -2923,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216835,
+      "num": 134145,
+      "word": "终于看懂体彩店是怎么盈利的了",
+      "onboard_time": 1754212285,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216411,
       "num": 180763,
       "word": "湖北退出航母命名争夺战",
@@ -3435,6 +3467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198046,
+      "num": 198046,
+      "word": "侯明昊后台换衣被直播了",
+      "onboard_time": 1754212823,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197868,
       "num": 197868,
       "word": "游泳世锦赛",
@@ -3713,6 +3753,14 @@
       "onboard_time": 1754148448,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188628,
+      "num": 188628,
+      "word": "电影731定档海报",
+      "onboard_time": 1754212163,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 188563,
@@ -4091,14 +4139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175614,
-      "num": 175614,
-      "word": "战至巅峰",
-      "onboard_time": 1754056284,
-      "rank": 36,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 175415,
       "num": 163659,
       "word": "单依纯最后悔的决定",
@@ -4297,6 +4337,14 @@
       "onboard_time": 1754060724,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170309,
+      "num": 170309,
+      "word": "汤唯撕了我拍的撕拉片",
+      "onboard_time": 1754212704,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 169975,
@@ -5515,6 +5563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141063,
+      "num": 141063,
+      "word": "贾玲在我胸肌上签名",
+      "onboard_time": 1754210664,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141040,
       "num": 141040,
       "word": "成龙近十年来最狠的电影",
@@ -5537,6 +5593,14 @@
       "onboard_time": 1754107701,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140781,
+      "num": 140781,
+      "word": "电影南京照相馆",
+      "onboard_time": 1754212764,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 140748,
@@ -6027,6 +6091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133027,
+      "num": 133027,
+      "word": "荷兰弟或将暂别演艺圈",
+      "onboard_time": 1754211504,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132838,
       "num": 132838,
       "word": "30岁独居女性的真实生活",
@@ -6513,6 +6585,14 @@
       "onboard_time": 1754122582,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125288,
+      "num": 186181,
+      "word": "内耗的人需要的安慰是这样的",
+      "onboard_time": 1754209525,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 124863,
@@ -7083,12 +7163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114658,
-      "num": 114658,
-      "word": "内耗的人需要的安慰是这样的",
-      "onboard_time": 1754209525,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 114504,
+      "num": 183527,
+      "word": "FGO",
+      "onboard_time": 1754211085,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 113769,
@@ -7299,12 +7379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110092,
+      "num": 110092,
+      "word": "龚俊粉丝真的吃很好",
+      "onboard_time": 1754212465,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109781,
       "num": 97446,
       "word": "真的有人会为了三块钱站一下午",
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 108881,
+      "num": 135804,
+      "word": "阿姨吹一周空调严重呼吸衰竭",
+      "onboard_time": 1754212344,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108306,
@@ -7529,14 +7625,6 @@
       "onboard_time": 1754183001,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103254,
-      "num": 89869,
-      "word": "贾玲在我胸肌上签名",
-      "onboard_time": 1754210664,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 103222,
@@ -7865,6 +7953,14 @@
       "onboard_time": 1754055444,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94636,
+      "num": 108541,
+      "word": "节食减肥和运动减肥瘦20斤的区别",
+      "onboard_time": 1754211085,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 93549,
@@ -8211,6 +8307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79290,
+      "num": 79290,
+      "word": "美国人在家把粉蒸肉研究明白了",
+      "onboard_time": 1754212764,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 78337,
+      "num": 78337,
+      "word": "自然少年团",
+      "onboard_time": 1754212944,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78095,
       "num": 78095,
       "word": "不宁腿综合征",
@@ -8537,6 +8649,14 @@
       "onboard_time": 1754066600,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 60727,
+      "num": 181060,
+      "word": "2025海南国际旅游岛欢乐节",
+      "onboard_time": 1754211804,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60677,

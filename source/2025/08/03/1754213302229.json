@@ -1,0 +1,410 @@
+{
+  "runTime": 1754213302229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1895717,
+        "num": 1895717,
+        "word": "战至巅峰直播",
+        "onboard_time": 1754211265,
+        "rank": 0,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 1357609,
+        "num": 1357609,
+        "word": "白马山失联5人均已遇难",
+        "onboard_time": 1754209944,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 20774,
+        "num": 680001,
+        "word": "福建舰模拟弹射试验后战士们紧紧相拥",
+        "onboard_time": 1754182402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1780163,
+        "num": 506686,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307656,
+        "num": 307656,
+        "word": "生娃能领7笔钱",
+        "onboard_time": 1754208326,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235132,
+        "num": 235132,
+        "word": "7月电费",
+        "onboard_time": 1754192906,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561161,
+        "num": 228911,
+        "word": "赵丽颖刘昊然 九重天",
+        "onboard_time": 1754211024,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500457,
+        "num": 225844,
+        "word": "87版西游记如来佛扮演者去世",
+        "onboard_time": 1754206403,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212960,
+        "num": 212960,
+        "word": "考公人在公示期嘴有多严",
+        "onboard_time": 1754198846,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143172,
+        "num": 212145,
+        "word": "官方通报女司机亮证逼迫让路事件",
+        "onboard_time": 1754179881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1225641,
+        "num": 205655,
+        "word": "赵露思说自己80斤拍戏多好啊",
+        "onboard_time": 1754210305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444551,
+        "num": 203784,
+        "word": "战至巅峰",
+        "onboard_time": 1754190563,
+        "rank": 11,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 284585,
+        "num": 201385,
+        "word": "疑似秦奋投诉韦雪",
+        "onboard_time": 1754206704,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198046,
+        "num": 198046,
+        "word": "侯明昊后台换衣被直播了",
+        "onboard_time": 1754212823,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174841,
+        "num": 190835,
+        "word": "日本反华的根源",
+        "onboard_time": 1754202384,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188628,
+        "num": 188628,
+        "word": "电影731定档海报",
+        "onboard_time": 1754212163,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125288,
+        "num": 186181,
+        "word": "内耗的人需要的安慰是这样的",
+        "onboard_time": 1754209525,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120485,
+        "num": 184901,
+        "word": "这几天不是热热热就是雨雨雨",
+        "onboard_time": 1754198723,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114504,
+        "num": 183527,
+        "word": "FGO",
+        "onboard_time": 1754211085,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60727,
+        "num": 181060,
+        "word": "2025海南国际旅游岛欢乐节",
+        "onboard_time": 1754211804,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178817,
+        "num": 178817,
+        "word": "定风波男主",
+        "onboard_time": 1754202442,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171761,
+        "num": 171761,
+        "word": "时代少年团 上海",
+        "onboard_time": 1754192906,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170980,
+        "num": 170980,
+        "word": "六小龄童发文悼念朱龙广",
+        "onboard_time": 1754208144,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170309,
+        "num": 170309,
+        "word": "汤唯撕了我拍的撕拉片",
+        "onboard_time": 1754212704,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155455,
+        "num": 155455,
+        "word": "杜华算不算透露娱乐圈内幕了",
+        "onboard_time": 1754193805,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141063,
+        "num": 141063,
+        "word": "贾玲在我胸肌上签名",
+        "onboard_time": 1754210664,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140781,
+        "num": 140781,
+        "word": "电影南京照相馆",
+        "onboard_time": 1754212764,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113154,
+        "num": 139231,
+        "word": "鸡蛋太贵买了一个做了七菜一汤",
+        "onboard_time": 1754200823,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108924,
+        "num": 138586,
+        "word": "脂肪参与比例最高的运动",
+        "onboard_time": 1754208565,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108881,
+        "num": 135804,
+        "word": "阿姨吹一周空调严重呼吸衰竭",
+        "onboard_time": 1754212344,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216835,
+        "num": 134145,
+        "word": "终于看懂体彩店是怎么盈利的了",
+        "onboard_time": 1754212285,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133027,
+        "num": 133027,
+        "word": "荷兰弟或将暂别演艺圈",
+        "onboard_time": 1754211504,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130415,
+        "num": 130415,
+        "word": "孙红雷要给张艺兴打电话",
+        "onboard_time": 1754208625,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125701,
+        "num": 125701,
+        "word": "张柏芝为大儿子庆18岁生日",
+        "onboard_time": 1754207905,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116057,
+        "num": 116057,
+        "word": "留几手谈离婚原因",
+        "onboard_time": 1754207364,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102894,
+        "num": 110632,
+        "word": "男子在地铁安检口偷拍裙底被抓现行",
+        "onboard_time": 1754203463,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110092,
+        "num": 110092,
+        "word": "龚俊粉丝真的吃很好",
+        "onboard_time": 1754212465,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97405,
+        "num": 109041,
+        "word": "王楚钦收到梦中情杆",
+        "onboard_time": 1754204964,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94636,
+        "num": 108541,
+        "word": "节食减肥和运动减肥瘦20斤的区别",
+        "onboard_time": 1754211085,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 90744,
+        "num": 108233,
+        "word": "灵隐寺的辣椒 出家人不打诳语",
+        "onboard_time": 1754195727,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108191,
+        "num": 108191,
+        "word": "张峻豪演唱会内场上座率",
+        "onboard_time": 1754209103,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108149,
+        "num": 108149,
+        "word": "游客2013年拍到丁真",
+        "onboard_time": 1754209344,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105177,
+        "num": 105177,
+        "word": "孙怡父母托举式爱的具象化",
+        "onboard_time": 1754204484,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102003,
+        "num": 102003,
+        "word": "许允真说Labubu不好看",
+        "onboard_time": 1754198485,
+        "rank": 43,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 84042,
+        "num": 84042,
+        "word": "倪萍说董璇不应该结婚",
+        "onboard_time": 1754194705,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82523,
+        "num": 82523,
+        "word": "最吵的地铁出现了",
+        "onboard_time": 1754208385,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79442,
+        "num": 79442,
+        "word": "外交部驻澳公署声明",
+        "onboard_time": 1754210604,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79290,
+        "num": 79290,
+        "word": "美国人在家把粉蒸肉研究明白了",
+        "onboard_time": 1754212764,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78337,
+        "num": 78337,
+        "word": "自然少年团",
+        "onboard_time": 1754212944,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73292,
+        "num": 78322,
+        "word": "在两万人口的农村开奶茶店",
+        "onboard_time": 1754204124,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#保卫和平是人民军队之责#"
+    }
+  }
+}
