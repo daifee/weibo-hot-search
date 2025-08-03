@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/04 07:27:51
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/04 07:43:02
 </p>
 </blockquote>
 <p>
@@ -543,6 +543,12 @@ tzym 封神之战（热度：1128894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
+全球贸易史上迎来黑暗一天（热度：924768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A5%BD%E7%BE%8E%23" target="weibo">
 易烊千玺好美（热度：921334）
 </a>
@@ -695,12 +701,6 @@ TF四代 超载（热度：867979）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%90%B1%E9%98%BF%E5%90%B1%20%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AE%8B%E7%A5%96%E5%84%BF%23" target="weibo">
 阿吱阿吱 王鹤棣宋祖儿（热度：755062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
-全球贸易史上迎来黑暗一天（热度：754426）
 </a>
 </li>
 
@@ -2295,6 +2295,12 @@ SHarK总冠军（热度：248916）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
+饭店用脏话做招牌被指辣眼睛（热度：245703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%B8%80%E4%B8%BB%E9%A2%98MV%E7%A5%96%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%23" target="weibo">
 八一主题MV祖国不会忘记（热度：244839）
 </a>
@@ -2937,12 +2943,6 @@ B萌（热度：205393）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
-饭店用脏话做招牌被指辣眼睛（热度：203113）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%23" target="weibo">
 KPL（热度：203100）
 </a>
@@ -3185,6 +3185,12 @@ Shanks AL也回来了（热度：197690）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IVE%E8%88%9E%E5%8F%B0%E9%A3%9E%E9%BA%A6%23" target="weibo">
 IVE舞台飞麦（热度：193855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF1.5%E4%BA%BF%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
+上海一百年老洋房1.5亿元起拍（热度：193314）
 </a>
 </li>
 
@@ -3633,6 +3639,12 @@ Gr战胜DOU5（热度：177157）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E8%8E%B7%E6%95%91%E9%AB%98%E8%80%83%E7%94%9F%E5%B0%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E7%B1%BB%E4%B8%93%E4%B8%9A%23" target="weibo">
+被骗缅甸获救高考生将学医学类专业（热度：175803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2AI%E4%BB%85%E9%80%80%E6%AC%BE%E5%95%86%E5%AE%B6AI%E6%BC%94%E5%A0%82%E9%A3%9F%23" target="weibo">
 顾客AI仅退款商家AI演堂食（热度：175688）
 </a>
@@ -3743,12 +3755,6 @@ Rapeter严浩翔合影（热度：173193）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%B3%E6%9C%B5%E8%BF%99%E4%B8%80%E5%9C%88%E6%80%BB%E4%BC%9A%E6%9C%89%E9%BB%84%E8%89%B2%E5%88%86%E6%B3%8C%E7%89%A9%23" target="weibo">
 为什么耳朵这一圈总会有黄色分泌物（热度：172226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF1.5%E4%BA%BF%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
-上海一百年老洋房1.5亿元起拍（热度：172172）
 </a>
 </li>
 
@@ -3915,6 +3921,12 @@ LGDNBW对战AG（热度：167569）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
+官方回应饭店用脏话做招牌（热度：167481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E5%A5%B3%E6%98%AF%E4%B8%8D%E4%BC%9A%E8%BD%BB%E6%98%93%E8%BE%9E%E8%81%8C%E7%9A%84%23" target="weibo">
 追星女是不会轻易辞职的（热度：167130）
 </a>
@@ -3935,6 +3947,12 @@ LGDNBW对战AG（热度：167569）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%90%8E%E6%89%8D%E7%9C%8B%E6%87%82%E4%B8%80%E5%B8%98%E5%B9%BD%E6%A2%A6%23" target="weibo">
 二十年后才看懂一帘幽梦（热度：166588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B37%E4%B8%AA%E6%9C%88%E5%A4%A7%E4%BE%84%E5%A5%B3%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85%E7%97%87%E7%8A%B6%23" target="weibo">
+男子杀害7个月大侄女无精神病症状（热度：166583）
 </a>
 </li>
 
@@ -4133,6 +4151,12 @@ JDG第三轮首战首胜（热度：162570）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%E4%B8%80%E4%BA%BA%E4%B8%80%E9%BE%99%23" target="weibo">
 无限暖暖一人一龙（热度：161459）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%E8%A2%AB%E6%B3%BC%E7%83%AD%E6%B0%B4%E6%97%85%E5%AE%A2%E7%A7%B0%E8%B5%941%E4%B8%87%E5%8F%98500%23" target="weibo">
+国航被泼热水旅客称赔1万变500（热度：161248）
 </a>
 </li>
 
@@ -4491,12 +4515,6 @@ Beni档期没白空（热度：160795）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E8%8E%B7%E6%95%91%E9%AB%98%E8%80%83%E7%94%9F%E5%B0%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E7%B1%BB%E4%B8%93%E4%B8%9A%23" target="weibo">
-被骗缅甸获救高考生将学医学类专业（热度：150856）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E7%9C%8B%E8%A7%81%E7%83%A4%E7%AE%B1%E9%87%8C%E7%82%B9%E7%81%AB%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
 谢霆锋看见烤箱里点火绷不住了（热度：150809）
 </a>
@@ -4595,12 +4613,6 @@ offer7首录贺峻霖黑西装配话筒（热度：149719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%82%E9%B1%BC%E5%BF%98%E9%80%81%E5%A8%83%E4%B8%8A%E8%AF%BE%E8%A2%AB%E5%A6%BB%E5%AD%90%E8%B8%B9%E8%BF%9B%E9%B1%BC%E6%B1%A0%23" target="weibo">
 男子喂鱼忘送娃上课被妻子踹进鱼池（热度：149040）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B37%E4%B8%AA%E6%9C%88%E5%A4%A7%E4%BE%84%E5%A5%B3%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85%E7%97%87%E7%8A%B6%23" target="weibo">
-男子杀害7个月大侄女无精神病症状（热度：149040）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ T1对战HLE（热度：121648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%87%91%E7%89%8C%E5%A5%96%E7%89%8C%E5%8F%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 中国队金牌奖牌双第一（热度：120439）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94Kcon%E8%88%9E%E5%8F%B0%E5%B8%85%E9%BA%BB%E4%BA%86%23" target="weibo">
-王嘉尔Kcon舞台帅麻了（热度：120429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%AE%E8%AF%81%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%8E%A5%E5%8F%97%E5%AF%B9%E6%96%B9%E9%81%93%E6%AD%89%23" target="weibo">
-被亮证当事人称已接受对方道歉（热度：120407）
 </a>
 </li>
 

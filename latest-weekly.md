@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 07:27:51
+本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 07:43:02
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
+全球贸易史上迎来黑暗一天（热度：924768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E7%A8%8B%E5%BA%8F%E5%A4%B1%E5%BD%93%23" target="weibo">
 民警上门未发现违法违规程序失当（热度：913750）
 </a>
@@ -269,12 +275,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%B8%88%E5%A4%AB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
 女司机丈夫被立案调查（热度：784496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
-全球贸易史上迎来黑暗一天（热度：754426）
 </a>
 </li>
 
@@ -861,6 +861,12 @@ TOP 海口（热度：614711）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
+饭店用脏话做招牌被指辣眼睛（热度：245703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E8%AF%B4%E8%BF%98%E8%A6%81%E5%81%9A%E7%AC%AC%E4%BA%94%E6%AC%A1%E6%89%8B%E6%9C%AF%23" target="weibo">
 安静公主说还要做第五次手术（热度：242120）
 </a>
@@ -993,12 +999,6 @@ B萌（热度：205393）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
-饭店用脏话做招牌被指辣眼睛（热度：203113）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%9C%80%E8%A7%A3%E6%B0%94%E7%9A%84%E6%AD%BB%E6%B3%95%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 人贩子最解气的死法出现了（热度：201922）
 </a>
@@ -1055,6 +1055,12 @@ B萌（热度：205393）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%8F%E8%B7%B3%E8%83%8C%E5%8F%9B%E6%88%91%E4%BA%86%23" target="weibo">
 马小跳背叛我了（热度：194266）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF1.5%E4%BA%BF%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
+上海一百年老洋房1.5亿元起拍（热度：193314）
 </a>
 </li>
 
@@ -1239,6 +1245,12 @@ BLG战胜TES（热度：182389）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E8%8E%B7%E6%95%91%E9%AB%98%E8%80%83%E7%94%9F%E5%B0%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E7%B1%BB%E4%B8%93%E4%B8%9A%23" target="weibo">
+被骗缅甸获救高考生将学医学类专业（热度：175803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2AI%E4%BB%85%E9%80%80%E6%AC%BE%E5%95%86%E5%AE%B6AI%E6%BC%94%E5%A0%82%E9%A3%9F%23" target="weibo">
 顾客AI仅退款商家AI演堂食（热度：175688）
 </a>
@@ -1289,12 +1301,6 @@ BLG战胜TES（热度：182389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%23" target="weibo">
 中餐厅（热度：172500）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF1.5%E4%BA%BF%E5%85%83%E8%B5%B7%E6%8B%8D%23" target="weibo">
-上海一百年老洋房1.5亿元起拍（热度：172172）
 </a>
 </li>
 
@@ -1359,8 +1365,20 @@ LGDNBW对战AG（热度：167569）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
+官方回应饭店用脏话做招牌（热度：167481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%95%A2%E6%95%B0%E6%B1%AA%E9%A1%BA%E6%8A%AC%E5%A4%B4%E7%9C%8B%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E6%88%90%E7%BB%A9%E5%B1%8F%23" target="weibo">
 不敢数汪顺抬头看了多少次成绩屏（热度：167050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B37%E4%B8%AA%E6%9C%88%E5%A4%A7%E4%BE%84%E5%A5%B3%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85%E7%97%87%E7%8A%B6%23" target="weibo">
+男子杀害7个月大侄女无精神病症状（热度：166583）
 </a>
 </li>
 
@@ -1409,6 +1427,12 @@ BLG对战TES（热度：164728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AE%E8%AF%81%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%9D%9E%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%23" target="weibo">
 亮证女司机非公职人员（热度：163555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%E8%A2%AB%E6%B3%BC%E7%83%AD%E6%B0%B4%E6%97%85%E5%AE%A2%E7%A7%B0%E8%B5%941%E4%B8%87%E5%8F%98500%23" target="weibo">
+国航被泼热水旅客称赔1万变500（热度：161248）
 </a>
 </li>
 
@@ -1515,12 +1539,6 @@ BLG对战TES（热度：164728）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E8%8E%B7%E6%95%91%E9%AB%98%E8%80%83%E7%94%9F%E5%B0%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E7%B1%BB%E4%B8%93%E4%B8%9A%23" target="weibo">
-被骗缅甸获救高考生将学医学类专业（热度：150856）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%89%A7%E6%BC%94%E5%91%98%E8%A1%A8%E6%BC%94%E6%97%B6%E8%8B%8D%E8%9D%87%E5%9C%A8%E8%84%B8%E4%B8%8A%E4%B9%B1%E7%88%AC%23" target="weibo">
 越剧演员表演时苍蝇在脸上乱爬（热度：150262）
 </a>
@@ -1547,12 +1565,6 @@ BLG对战TES（热度：164728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%82%E9%B1%BC%E5%BF%98%E9%80%81%E5%A8%83%E4%B8%8A%E8%AF%BE%E8%A2%AB%E5%A6%BB%E5%AD%90%E8%B8%B9%E8%BF%9B%E9%B1%BC%E6%B1%A0%23" target="weibo">
 男子喂鱼忘送娃上课被妻子踹进鱼池（热度：149040）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B37%E4%B8%AA%E6%9C%88%E5%A4%A7%E4%BE%84%E5%A5%B3%E6%97%A0%E7%B2%BE%E7%A5%9E%E7%97%85%E7%97%87%E7%8A%B6%23" target="weibo">
-男子杀害7个月大侄女无精神病症状（热度：149040）
 </a>
 </li>
 
@@ -2139,12 +2151,6 @@ FGO（热度：114504）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%E8%A2%AB%E6%B3%BC%E7%83%AD%E6%B0%B4%E6%97%85%E5%AE%A2%E7%A7%B0%E8%B5%941%E4%B8%87%E5%8F%98500%23" target="weibo">
-国航被泼热水旅客称赔1万变500（热度：113844）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E5%BA%A7%23" target="weibo">
 12306客服回应高铁低人一等座（热度：113645）
 </a>
@@ -2177,12 +2183,6 @@ FGO（热度：114504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%BC%80%E8%BD%A6vlog%23" target="weibo">
 陈梦开车vlog（热度：113290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
-官方回应饭店用脏话做招牌（热度：112967）
 </a>
 </li>
 
@@ -2541,6 +2541,12 @@ Shad0w预测BLG连胜至常规赛结束（热度：88568）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
+白桃星座（热度：87000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE%23" target="weibo">
 鹿晗演唱会后台花絮（热度：85441）
 </a>
@@ -2757,6 +2763,12 @@ Shanks AL也回来了（热度：63169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%B8%96%E7%95%8C%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81%E5%BE%88%E5%A4%9A%E9%92%B1%23" target="weibo">
+看世界并不需要很多钱（热度：61819）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%AE%8C%E6%88%90%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E6%B5%B7%E4%B8%8A%E7%9F%B3%E6%B2%B9%E5%B9%B3%E5%8F%B0%E7%89%A9%E8%B5%84%E8%BF%90%E8%BE%93%E9%A3%9E%E8%A1%8C%23" target="weibo">
 我国完成全球首次海上石油平台物资运输飞行（热度：60677）
 </a>
@@ -2811,6 +2823,12 @@ Shanks AL也回来了（热度：63169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%88%E8%B7%9F%E4%BA%BA%E5%90%88%E5%BD%B1%E4%BA%86%23" target="weibo">
+王楚钦又跟人合影了（热度：55317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%9C%9F%E7%9A%84%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%23" target="weibo">
 当我真的吃不下了（热度：54640）
 </a>
@@ -2819,6 +2837,12 @@ Shanks AL也回来了（热度：63169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E5%85%83%E6%B0%94%E5%AD%A6%E5%A7%90%E9%A3%8E%23" target="weibo">
 热巴元气学姐风（热度：54524）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E4%B8%96%E9%94%A6%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
+潘展乐世锦赛后发文（热度：53796）
 </a>
 </li>
 
@@ -2859,14 +2883,20 @@ Shanks AL也回来了（热度：63169）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%88%E8%B7%9F%E4%BA%BA%E5%90%88%E5%BD%B1%E4%BA%86%23" target="weibo">
-王楚钦又跟人合影了（热度：48826）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AD%A6%E7%96%91%E4%BC%BC%E6%84%8F%E5%A4%96%E6%8E%A5%E8%A7%A6%E8%8A%AC%E5%A4%AA%E5%B0%BC%E5%90%8E%E6%8A%BD%E6%90%90%23" target="weibo">
+美国女警疑似意外接触芬太尼后抽搐（热度：51010）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E4%B8%96%E9%94%A6%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
-潘展乐世锦赛后发文（热度：48414）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%23" target="weibo">
+浪浪山小妖怪（热度：50889）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E7%A7%BB%E6%B0%91%E8%88%B9%E5%80%BE%E8%A6%86%E5%B7%B2%E8%87%B454%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+非洲移民船倾覆已致54人死亡（热度：50185）
 </a>
 </li>
 
@@ -2885,18 +2915,6 @@ Shanks AL也回来了（热度：63169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%87%8F%E8%82%A5%E5%B0%B1%E6%9D%8E%E4%B9%83%E6%96%87%E8%BF%99%E6%A0%B7%23" target="weibo">
 我减肥就李乃文这样（热度：47157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%B8%96%E7%95%8C%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81%E5%BE%88%E5%A4%9A%E9%92%B1%23" target="weibo">
-看世界并不需要很多钱（热度：43714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AD%A6%E7%96%91%E4%BC%BC%E6%84%8F%E5%A4%96%E6%8E%A5%E8%A7%A6%E8%8A%AC%E5%A4%AA%E5%B0%BC%E5%90%8E%E6%8A%BD%E6%90%90%23" target="weibo">
-美国女警疑似意外接触芬太尼后抽搐（热度：42255）
 </a>
 </li>
 
@@ -2927,12 +2945,6 @@ se神画斩业星熊了（热度：36654）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E4%B8%80%E5%BC%80%E5%8F%A3%E6%A2%A6%E5%9B%9E%E5%AF%92%E6%AD%A6%E7%BA%AA%23" target="weibo">
 侯明昊一开口梦回寒武纪（热度：35743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E7%A7%BB%E6%B0%91%E8%88%B9%E5%80%BE%E8%A6%86%E5%B7%B2%E8%87%B454%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-非洲移民船倾覆已致54人死亡（热度：34163）
 </a>
 </li>
 
