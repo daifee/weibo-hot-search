@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754234896547,
+  "endTime": 1754235845276,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -75,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2376394,
-      "num": 2376394,
+      "raw_hot": 2408808,
+      "num": 2408808,
       "word": "杨幂15年前的博文火了",
       "onboard_time": 1754231546,
       "rank": 7,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 516102,
-      "num": 336269,
+      "num": 434976,
       "word": "歌手帮唱",
       "onboard_time": 1754231306,
       "rank": 16,
@@ -577,6 +577,22 @@
       "onboard_time": 1754228605,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 482252,
+      "num": 444282,
+      "word": "鞠婧祎知道被P成孙悟空",
+      "onboard_time": 1754234005,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 474701,
+      "num": 474701,
+      "word": "央视曝光水光针美丽陷阱",
+      "onboard_time": 1754233286,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463279,
@@ -763,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 354590,
-      "num": 354590,
-      "word": "央视曝光水光针美丽陷阱",
-      "onboard_time": 1754233286,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 348262,
       "num": 348262,
       "word": "中国队无缘男子10米台奖牌",
@@ -793,6 +801,14 @@
       "onboard_time": 1754144429,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342829,
+      "num": 342829,
+      "word": "日本老龄化具象化了",
+      "onboard_time": 1754232685,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 340525,
@@ -851,12 +867,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 307494,
-      "num": 307494,
-      "word": "鞠婧祎知道被P成孙悟空",
-      "onboard_time": 1754234005,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 307745,
+      "num": 307745,
+      "word": "鹿晗你竟然耍我",
+      "onboard_time": 1754232085,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 307103,
@@ -1011,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259682,
+      "num": 452676,
+      "word": "男子遇蛇大叫把蛇吓到原路返回",
+      "onboard_time": 1754233644,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259219,
       "num": 259219,
       "word": "人质父亲怒斥内塔尼亚胡失败",
@@ -1035,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255792,
+      "num": 255792,
+      "word": "男童被绞断4根手指已恢复如初",
+      "onboard_time": 1754234486,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253026,
       "num": 253026,
       "word": "20岁女子遭已婚男友纠缠跳楼身亡",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1754227345,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250695,
-      "num": 250695,
-      "word": "日本老龄化具象化了",
-      "onboard_time": 1754232685,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 248817,
@@ -1099,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228132,
-      "num": 228132,
-      "word": "鹿晗你竟然耍我",
-      "onboard_time": 1754232085,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "日本考虑限制75岁以上老人ATM机取款",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1754191703,
       "rank": 25,
       "category": "读书作家,电竞"
+    },
+    {
+      "raw_hot": 224830,
+      "num": 224830,
+      "word": "蒲熠星",
+      "onboard_time": 1754235683,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 222788,
@@ -1195,12 +1219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207567,
-      "num": 207567,
-      "word": "男子遇蛇大叫把蛇吓到原路返回",
-      "onboard_time": 1754233644,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 208676,
+      "num": 208676,
+      "word": "全球贸易史上迎来黑暗一天",
+      "onboard_time": 1754234544,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207314,
@@ -1323,6 +1347,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 194266,
+      "num": 194266,
+      "word": "马小跳背叛我了",
+      "onboard_time": 1754231546,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193284,
       "num": 193284,
       "word": "真的不建议单手摘眼镜",
@@ -1387,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188579,
+      "num": 240539,
+      "word": "刘宇宁终于直播成功了",
+      "onboard_time": 1754235084,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187800,
       "num": 187800,
       "word": "邓妍表哥",
@@ -1409,14 +1449,6 @@
       "onboard_time": 1754206765,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186456,
-      "num": 186456,
-      "word": "马小跳背叛我了",
-      "onboard_time": 1754231546,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 186358,
@@ -1691,14 +1723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169655,
-      "num": 169655,
-      "word": "全球贸易史上迎来黑暗一天",
-      "onboard_time": 1754234544,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 169345,
       "num": 169345,
       "word": "外交部驻澳公署声明",
@@ -1859,6 +1883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155056,
+      "num": 155056,
+      "word": "俄罗斯千岛群岛数十米惊人海啸",
+      "onboard_time": 1754234244,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154989,
       "num": 243575,
       "word": "禹宙中欣",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1754227585,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153112,
-      "num": 153112,
-      "word": "俄罗斯千岛群岛数十米惊人海啸",
-      "onboard_time": 1754234244,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153003,
@@ -1969,6 +1993,14 @@
       "onboard_time": 1754219483,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149040,
+      "num": 149040,
+      "word": "男子喂鱼忘送娃上课被妻子踹进鱼池",
+      "onboard_time": 1754234965,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148798,
@@ -2179,12 +2211,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138357,
+      "num": 138357,
+      "word": "男子花87万办了300年的健身卡",
+      "onboard_time": 1754235325,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138224,
       "num": 138224,
       "word": "苏新皓朱志鑫你俩有点暧昧了",
       "onboard_time": 1754205924,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137966,
+      "num": 137966,
+      "word": "文俊辉 能打成龙我这辈子值了",
+      "onboard_time": 1754235264,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 137733,
@@ -2667,6 +2715,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119640,
+      "num": 119640,
+      "word": "饭店用脏话做招牌被指辣眼睛",
+      "onboard_time": 1754235564,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118716,
+      "num": 118716,
+      "word": "上海一百年老洋房1.5亿元起拍",
+      "onboard_time": 1754235803,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118330,
       "num": 214433,
       "word": "5个方法让周末不再无效休息",
@@ -2905,14 +2969,6 @@
       "onboard_time": 1754220385,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104216,
-      "num": 157885,
-      "word": "男童被绞断4根手指已恢复如初",
-      "onboard_time": 1754234486,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104086,
@@ -3241,6 +3297,14 @@
       "onboard_time": 1754150487,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84771,
+      "num": 142534,
+      "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
+      "onboard_time": 1754234186,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84157,
@@ -3617,14 +3681,6 @@
       "onboard_time": 1754227225,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45340,
-      "num": 142534,
-      "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
-      "onboard_time": 1754234186,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40020,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754235845276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2408808,
+        "num": 2408808,
+        "word": "杨幂15年前的博文火了",
+        "onboard_time": 1754231546,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665787,
+        "num": 665787,
+        "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
+        "onboard_time": 1754230286,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6455,
+        "num": 556988,
+        "word": "无人机蜂群与机器狼协同作战演习",
+        "onboard_time": 1754181081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1159006,
+        "num": 548470,
+        "word": "赵露思回复利用网友解约",
+        "onboard_time": 1754224706,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530849,
+        "num": 530849,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1754215345,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474981,
+        "num": 474981,
+        "word": "理想回应i8安全性碰撞测试",
+        "onboard_time": 1754233106,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 757430,
+        "num": 474965,
+        "word": "杨清柠乔司离婚",
+        "onboard_time": 1754223504,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 662280,
+        "num": 474853,
+        "word": "肖战 小城良方",
+        "onboard_time": 1754229686,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474701,
+        "num": 474701,
+        "word": "央视曝光水光针美丽陷阱",
+        "onboard_time": 1754233286,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259682,
+        "num": 452676,
+        "word": "男子遇蛇大叫把蛇吓到原路返回",
+        "onboard_time": 1754233644,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523501,
+        "num": 445826,
+        "word": "管乐的家乱的让人震撼",
+        "onboard_time": 1754217623,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482252,
+        "num": 444282,
+        "word": "鞠婧祎知道被P成孙悟空",
+        "onboard_time": 1754234005,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434976,
+        "num": 434976,
+        "word": "歌手帮唱",
+        "onboard_time": 1754231306,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349149,
+        "num": 349149,
+        "word": "美国低收入家庭的晚餐",
+        "onboard_time": 1754224464,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342829,
+        "num": 342829,
+        "word": "日本老龄化具象化了",
+        "onboard_time": 1754232685,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307745,
+        "num": 307745,
+        "word": "鹿晗你竟然耍我",
+        "onboard_time": 1754232085,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291139,
+        "num": 291139,
+        "word": "银川地震",
+        "onboard_time": 1754234065,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 270653,
+        "num": 270653,
+        "word": "台风白鹿已生成",
+        "onboard_time": 1754218704,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255792,
+        "num": 255792,
+        "word": "男童被绞断4根手指已恢复如初",
+        "onboard_time": 1754234486,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188579,
+        "num": 240539,
+        "word": "刘宇宁终于直播成功了",
+        "onboard_time": 1754235084,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257128,
+        "num": 237464,
+        "word": "杨清柠 王乐乐",
+        "onboard_time": 1754228125,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233807,
+        "num": 233807,
+        "word": "中国队15金12银10铜收官",
+        "onboard_time": 1754228784,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224830,
+        "num": 224830,
+        "word": "蒲熠星",
+        "onboard_time": 1754235683,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217645,
+        "num": 217645,
+        "word": "情侣旅游发生车祸死里逃生后领证",
+        "onboard_time": 1754218523,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247963,
+        "num": 217086,
+        "word": "刘宇宁说丢人丢大发了",
+        "onboard_time": 1754225544,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208676,
+        "num": 208676,
+        "word": "全球贸易史上迎来黑暗一天",
+        "onboard_time": 1754234544,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206558,
+        "num": 206558,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1754224164,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194266,
+        "num": 194266,
+        "word": "马小跳背叛我了",
+        "onboard_time": 1754231546,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157925,
+        "num": 157925,
+        "word": "王一博生日地广预热",
+        "onboard_time": 1754234486,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157690,
+        "num": 157690,
+        "word": "蒲熠星新歌",
+        "onboard_time": 1754230046,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155994,
+        "num": 155994,
+        "word": "首尔偶遇周也",
+        "onboard_time": 1754222663,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155056,
+        "num": 155056,
+        "word": "俄罗斯千岛群岛数十米惊人海啸",
+        "onboard_time": 1754234244,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152579,
+        "num": 152579,
+        "word": "DOTA2雪如意TT夺冠",
+        "onboard_time": 1754234364,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149040,
+        "num": 149040,
+        "word": "男子喂鱼忘送娃上课被妻子踹进鱼池",
+        "onboard_time": 1754234965,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148064,
+        "num": 148064,
+        "word": "731定档",
+        "onboard_time": 1754205685,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146726,
+        "num": 146726,
+        "word": "巨型天牛现身哀牢山",
+        "onboard_time": 1754216543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144710,
+        "num": 144710,
+        "word": "中俄海上舰艇编队将举行为期3天演练",
+        "onboard_time": 1754228784,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138978,
+        "num": 138978,
+        "word": "盐城5比0常州",
+        "onboard_time": 1754228605,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138357,
+        "num": 138357,
+        "word": "男子花87万办了300年的健身卡",
+        "onboard_time": 1754235325,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137966,
+        "num": 137966,
+        "word": "文俊辉 能打成龙我这辈子值了",
+        "onboard_time": 1754235264,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137597,
+        "num": 137597,
+        "word": "刺杀小说家2",
+        "onboard_time": 1754227345,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136587,
+        "num": 136587,
+        "word": "气血不足最怕这6个动作",
+        "onboard_time": 1754228605,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131488,
+        "num": 131488,
+        "word": "单依纯帮唱 王力宏",
+        "onboard_time": 1754232325,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129586,
+        "num": 129586,
+        "word": "DOTA2",
+        "onboard_time": 1754234663,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84771,
+        "num": 129150,
+        "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
+        "onboard_time": 1754234186,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128825,
+        "num": 128825,
+        "word": "南京照相馆",
+        "onboard_time": 1754231486,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120711,
+        "num": 120711,
+        "word": "以色列爆发全国性抗议",
+        "onboard_time": 1754223864,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119640,
+        "num": 119640,
+        "word": "饭店用脏话做招牌被指辣眼睛",
+        "onboard_time": 1754235564,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119351,
+        "num": 119351,
+        "word": "男子酒后用智能驾驶开车停在路中睡了",
+        "onboard_time": 1754232626,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118716,
+        "num": 118716,
+        "word": "上海一百年老洋房1.5亿元起拍",
+        "onboard_time": 1754235803,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
