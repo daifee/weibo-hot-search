@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/04 00:49:56
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/04 01:25:05
 </p>
 </blockquote>
 <p>
@@ -3147,6 +3147,12 @@ Shanks AL也回来了（热度：197690）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
+饭店用脏话做招牌被指辣眼睛（热度：195199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%90%91%E5%89%8D%E5%90%91%E5%89%8D%E5%90%91%E5%89%8D%23" target="weibo">
 人民军队向前向前向前（热度：194839）
 </a>
@@ -4259,12 +4265,6 @@ Beni档期没白空（热度：160795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2339%E5%B2%81%E7%94%B7%E5%AD%90%E5%8F%91%E5%B8%83%E6%B6%89%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%B0%A3%E8%A8%80%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 39岁男子发布涉释永信谣言被刑拘（热度：157166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
-饭店用脏话做招牌被指辣眼睛（热度：157116）
 </a>
 </li>
 

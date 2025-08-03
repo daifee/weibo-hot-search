@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 00:49:56
+本榜单时间：2025/08/03 00:33:17 ~ 2025/08/04 01:25:05
 </p>
 </blockquote>
 <p>
@@ -1047,6 +1047,12 @@ B萌（热度：205393）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
+饭店用脏话做招牌被指辣眼睛（热度：195199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%8F%E8%B7%B3%E8%83%8C%E5%8F%9B%E6%88%91%E4%BA%86%23" target="weibo">
 马小跳背叛我了（热度：194266）
 </a>
@@ -1421,12 +1427,6 @@ BLG对战TES（热度：164728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E7%94%A8%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%BC%80%E8%BD%A6%E5%81%9C%E5%9C%A8%E8%B7%AF%E4%B8%AD%E7%9D%A1%E4%BA%86%23" target="weibo">
 男子酒后用智能驾驶开车停在路中睡了（热度：157585）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%AD%E5%BA%97%E7%94%A8%E8%84%8F%E8%AF%9D%E5%81%9A%E6%8B%9B%E7%89%8C%E8%A2%AB%E6%8C%87%E8%BE%A3%E7%9C%BC%E7%9D%9B%23" target="weibo">
-饭店用脏话做招牌被指辣眼睛（热度：157116）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754239796611,
+  "endTime": 1754241905317,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -171,20 +171,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195199,
+      "num": 195199,
+      "word": "饭店用脏话做招牌被指辣眼睛",
+      "onboard_time": 1754235564,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186225,
       "num": 186225,
       "word": "杨清柠 王乐乐",
       "onboard_time": 1754228125,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 157116,
-      "num": 157116,
-      "word": "饭店用脏话做招牌被指辣眼睛",
-      "onboard_time": 1754235564,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156151,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 131208,
-      "num": 131208,
+      "num": 208260,
       "word": "上海一百年老洋房1.5亿元起拍",
       "onboard_time": 1754235803,
       "rank": 25,
@@ -417,6 +417,30 @@
       "onboard_time": 1754236104,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 41053,
+      "num": 50414,
+      "word": "安静公主自曝睡医院地上",
+      "onboard_time": 1754228784,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 39134,
+      "num": 50410,
+      "word": "以色列爆发全国性抗议",
+      "onboard_time": 1754223864,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38970,
+      "num": 50409,
+      "word": "张艺兴喊俺老孙在此",
+      "onboard_time": 1754231605,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 4504,
