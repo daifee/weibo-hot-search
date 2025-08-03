@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754203997978,
+  "endTime": 1754205994578,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -81,6 +81,14 @@
       "onboard_time": 1754111421,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3098255,
+      "num": 3098255,
+      "word": "赵露思直播",
+      "onboard_time": 1754205864,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3040729,
@@ -828,7 +836,7 @@
     },
     {
       "raw_hot": 700893,
-      "num": 528853,
+      "num": 579890,
       "word": "考公人在公示期嘴有多严",
       "onboard_time": 1754198846,
       "rank": 30,
@@ -913,6 +921,14 @@
       "onboard_time": 1754022022,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 657660,
+      "num": 580557,
+      "word": "定风波男主",
+      "onboard_time": 1754202442,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 656231,
@@ -1035,12 +1051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578746,
+      "num": 578746,
+      "word": "大妈偷外卖",
+      "onboard_time": 1754200884,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578412,
       "num": 578412,
       "word": "低人一等座乘客发声",
       "onboard_time": 1754158756,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572721,
+      "num": 351234,
+      "word": "恋人剧组解散该谁赔钱",
+      "onboard_time": 1754203044,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 569459,
@@ -1587,14 +1619,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 373002,
-      "num": 373002,
-      "word": "定风波男主",
-      "onboard_time": 1754202442,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365668,
       "num": 365668,
       "word": "张元英开球",
@@ -1651,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359767,
+      "num": 332557,
+      "word": "日本反华的根源",
+      "onboard_time": 1754202384,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 358502,
       "num": 495077,
       "word": "家暴纵火烧妻致死案儿子谈未来",
@@ -1691,14 +1723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351234,
-      "num": 351234,
-      "word": "恋人剧组解散该谁赔钱",
-      "onboard_time": 1754203044,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 348824,
       "num": 378227,
       "word": "人民海军湖北舰来啦",
@@ -1715,6 +1739,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 345906,
+      "num": 345906,
+      "word": "鸡蛋太贵买了一个做了七菜一汤",
+      "onboard_time": 1754200823,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345494,
       "num": 345494,
       "word": "昆明将严肃处理涉事旅行社",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1754192004,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340298,
+      "num": 210115,
+      "word": "孙怡父母托举式爱的具象化",
+      "onboard_time": 1754204484,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 340213,
@@ -1769,14 +1809,6 @@
       "onboard_time": 1754132302,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 334132,
-      "num": 334132,
-      "word": "大妈偷外卖",
-      "onboard_time": 1754200884,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333796,
@@ -1969,14 +2001,6 @@
       "onboard_time": 1754198125,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305157,
-      "num": 305157,
-      "word": "鸡蛋太贵买了一个做了七菜一汤",
-      "onboard_time": 1754200823,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 303962,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1754131703,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258076,
+      "num": 258076,
+      "word": "林则徐棉花娃",
+      "onboard_time": 1754202503,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 257412,
@@ -2979,6 +3011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210094,
+      "num": 210094,
+      "word": "731定档",
+      "onboard_time": 1754205685,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210089,
       "num": 210089,
       "word": "谁来救救沈梦辰",
@@ -3065,6 +3105,14 @@
       "onboard_time": 1754041822,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207438,
+      "num": 207438,
+      "word": "王楚钦收到梦中情杆",
+      "onboard_time": 1754204964,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 207159,
@@ -3499,14 +3547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191799,
-      "num": 191799,
-      "word": "林则徐棉花娃",
-      "onboard_time": 1754202503,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191489,
       "num": 184995,
       "word": "庆祝解放军建军98周年",
@@ -3545,6 +3585,14 @@
       "onboard_time": 1754198064,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189985,
+      "num": 189985,
+      "word": "狼队第五人格",
+      "onboard_time": 1754205324,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 189669,
@@ -4027,6 +4075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173106,
+      "num": 173106,
+      "word": "哇唧唧哇新人眼前一亮",
+      "onboard_time": 1754205444,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172520,
       "num": 172520,
       "word": "高伟光直播被气到撕台本",
@@ -4203,6 +4259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167050,
+      "num": 167050,
+      "word": "不敢数汪顺抬头看了多少次成绩屏",
+      "onboard_time": 1754203582,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166750,
       "num": 170808,
       "word": "单依纯说何老师你摸我脚",
@@ -4241,14 +4305,6 @@
       "onboard_time": 1754198183,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165606,
-      "num": 153586,
-      "word": "不敢数汪顺抬头看了多少次成绩屏",
-      "onboard_time": 1754203582,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 165479,
@@ -4579,14 +4635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158475,
-      "num": 191710,
-      "word": "日本反华的根源",
-      "onboard_time": 1754202384,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 158331,
       "num": 158331,
       "word": "王琳自己淋过雨要给儿子撑伞",
@@ -4649,6 +4697,14 @@
       "onboard_time": 1754018901,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156949,
+      "num": 156949,
+      "word": "在两万人口的农村开奶茶店",
+      "onboard_time": 1754204124,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 156475,
@@ -5225,6 +5281,22 @@
       "onboard_time": 1754200763,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143154,
+      "num": 143154,
+      "word": "正餐别只吃凉皮凉面",
+      "onboard_time": 1754200763,
+      "rank": 39,
+      "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 142792,
+      "num": 142792,
+      "word": "男子在地铁安检口偷拍裙底被抓现行",
+      "onboard_time": 1754203463,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142646,
@@ -6187,6 +6259,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 126527,
+      "num": 126527,
+      "word": "陈赫骗过了所有人包括自己",
+      "onboard_time": 1754205685,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126246,
       "num": 126246,
       "word": "余嘉豪加盟西甲联赛",
@@ -6475,14 +6555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121039,
-      "num": 121039,
-      "word": "正餐别只吃凉皮凉面",
-      "onboard_time": 1754200763,
-      "rank": 39,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 120734,
       "num": 1360265,
       "word": "还有5天就立秋了",
@@ -6505,6 +6577,22 @@
       "onboard_time": 1754019263,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120462,
+      "num": 120462,
+      "word": "在便利店上班的人嘴真严啊",
+      "onboard_time": 1754205564,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120407,
+      "num": 120407,
+      "word": "被亮证当事人称已接受对方道歉",
+      "onboard_time": 1754201484,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120321,
@@ -6619,12 +6707,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118083,
+      "num": 119399,
+      "word": "谢依霖上节目还认了个妈",
+      "onboard_time": 1754205384,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117469,
       "num": 117469,
       "word": "猫咪和汤2国服来了",
       "onboard_time": 1754016082,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117429,
+      "num": 117429,
+      "word": "00后在用一种很新的工作头像",
+      "onboard_time": 1754205025,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117268,
+      "num": 119114,
+      "word": "瑞幸纽约店成外国网红打卡点",
+      "onboard_time": 1754205263,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117265,
@@ -7067,14 +7179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107378,
-      "num": 107378,
-      "word": "男子在地铁安检口偷拍裙底被抓现行",
-      "onboard_time": 1754203463,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107090,
       "num": 149459,
       "word": "张峻豪直播",
@@ -7419,14 +7523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97014,
-      "num": 97014,
-      "word": "被亮证当事人称已接受对方道歉",
-      "onboard_time": 1754201484,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96853,
       "num": 151933,
       "word": "刚毕业就月入过万的原因",
@@ -7675,6 +7771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88083,
+      "num": 127979,
+      "word": "苏新皓朱志鑫你俩有点暧昧了",
+      "onboard_time": 1754205924,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87901,
       "num": 156355,
       "word": "过气偶像为什么扎堆团播",
@@ -7865,6 +7969,14 @@
       "onboard_time": 1754003539,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75586,
+      "num": 210131,
+      "word": "在CJ现场开荣耀盲盒开出狠角色",
+      "onboard_time": 1754204604,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 75408,
@@ -8456,6 +8568,14 @@
       "word": "甘肃一大货车夜里撞死16头牦牛",
       "onboard_time": 1754134463,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46671,
+      "num": 172212,
+      "word": "日军以一两骨头一两金悬赏他",
+      "onboard_time": 1754205743,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
