@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754210042412,
+  "endTime": 1754210904413,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3471460,
-      "num": 434898,
+      "num": 2478542,
       "word": "731定档",
       "onboard_time": 1754205685,
       "rank": 22,
@@ -257,6 +257,14 @@
       "onboard_time": 1754120722,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1607934,
+      "num": 213512,
+      "word": "赵露思说自己80斤拍戏多好啊",
+      "onboard_time": 1754210305,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1602572,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 811768,
-      "num": 243237,
+      "num": 268245,
       "word": "87版西游记如来佛扮演者去世",
       "onboard_time": 1754206403,
       "rank": 8,
@@ -785,6 +793,14 @@
       "onboard_time": 1754118562,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 745105,
+      "num": 745105,
+      "word": "白马山失联5人均已遇难",
+      "onboard_time": 1754209944,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 739156,
@@ -1612,7 +1628,7 @@
     },
     {
       "raw_hot": 385210,
-      "num": 176906,
+      "num": 211906,
       "word": "疑似秦奋投诉韦雪",
       "onboard_time": 1754206704,
       "rank": 31,
@@ -2156,7 +2172,7 @@
     },
     {
       "raw_hot": 291491,
-      "num": 174377,
+      "num": 204890,
       "word": "六小龄童发文悼念朱龙广",
       "onboard_time": 1754208144,
       "rank": 13,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1754132123,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 273153,
+      "num": 273153,
+      "word": "生娃能领7笔钱",
+      "onboard_time": 1754208326,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273136,
@@ -2604,7 +2628,7 @@
     },
     {
       "raw_hot": 235667,
-      "num": 170212,
+      "num": 189914,
       "word": "孙红雷要给张艺兴打电话",
       "onboard_time": 1754208625,
       "rank": 15,
@@ -3705,14 +3729,6 @@
       "onboard_time": 1754126542,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 188137,
-      "num": 188137,
-      "word": "生娃能领7笔钱",
-      "onboard_time": 1754208326,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187843,
@@ -4931,6 +4947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153003,
+      "num": 153003,
+      "word": "官方回应5人在网红景点被水冲走",
+      "onboard_time": 1754209826,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152923,
       "num": 152923,
       "word": "全职自媒体到底有多难",
@@ -5497,14 +5521,6 @@
       "onboard_time": 1754133922,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 140941,
-      "num": 140941,
-      "word": "白马山失联5人均已遇难",
-      "onboard_time": 1754209944,
-      "rank": 27,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 140826,
@@ -6883,14 +6899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117476,
-      "num": 117476,
-      "word": "官方回应5人在网红景点被水冲走",
-      "onboard_time": 1754209826,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117469,
       "num": 117469,
       "word": "猫咪和汤2国服来了",
@@ -7059,12 +7067,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114718,
+      "num": 112857,
+      "word": "龚俊好久没听见少爷这么笑了",
+      "onboard_time": 1754209885,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114664,
       "num": 114664,
       "word": "余宇涵个人演唱会上座率",
       "onboard_time": 1754125163,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114658,
+      "num": 114658,
+      "word": "内耗的人需要的安慰是这样的",
+      "onboard_time": 1754209525,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 113769,
@@ -7211,14 +7235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111774,
-      "num": 106698,
-      "word": "龚俊好久没听见少爷这么笑了",
-      "onboard_time": 1754209885,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111591,
       "num": 213972,
       "word": "淮安球场停电",
@@ -7289,14 +7305,6 @@
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 109389,
-      "num": 109389,
-      "word": "内耗的人需要的安慰是这样的",
-      "onboard_time": 1754209525,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 108306,
@@ -7521,6 +7529,14 @@
       "onboard_time": 1754183001,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103254,
+      "num": 89869,
+      "word": "贾玲在我胸肌上签名",
+      "onboard_time": 1754210664,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 103222,
@@ -7875,6 +7891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93075,
+      "num": 186825,
+      "word": "企业无资质却敢开飞机带人上天",
+      "onboard_time": 1754209525,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93073,
       "num": 93073,
       "word": "最佳减重运动排行榜第一是跳绳",
@@ -8043,6 +8067,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85494,
+      "num": 85494,
+      "word": "外交部驻澳公署声明",
+      "onboard_time": 1754210604,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 85441,
+      "num": 85441,
+      "word": "鹿晗演唱会后台花絮",
+      "onboard_time": 1754210664,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85055,
       "num": 363376,
       "word": "录取通知书里有经济困难申请表",
@@ -8131,12 +8171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82153,
+      "num": 114690,
+      "word": "陈好宋茜田嘉瑞解锁了合影新pose",
+      "onboard_time": 1754210305,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81987,
       "num": 81987,
       "word": "王者荣耀 白泽",
       "onboard_time": 1754062462,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81741,
+      "num": 81741,
+      "word": "龙族高架桥迈巴赫照进现实",
+      "onboard_time": 1754207784,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 80791,
@@ -8465,14 +8521,6 @@
       "onboard_time": 1754067080,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 61311,
-      "num": 186825,
-      "word": "企业无资质却敢开飞机带人上天",
-      "onboard_time": 1754209525,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60851,
