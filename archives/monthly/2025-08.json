@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754241905317,
+  "endTime": 1754243108837,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -10265,6 +10265,14 @@
       "onboard_time": 1754156299,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52039,
+      "num": 52039,
+      "word": "一个双马尾阿信",
+      "onboard_time": 1754242577,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 51639,
