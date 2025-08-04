@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754312390779,
+  "endTime": 1754313384068,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -11,19 +11,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2604261,
+      "num": 2604261,
+      "word": "华策回应与虞书欣解约",
+      "onboard_time": 1754312424,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2575199,
+      "num": 1980291,
+      "word": "赵露思直播",
+      "onboard_time": 1754311885,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2183688,
       "num": 426957,
       "word": "白鹿报警",
       "onboard_time": 1754293943,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1980291,
-      "num": 1980291,
-      "word": "赵露思直播",
-      "onboard_time": 1754311885,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1438775,
-      "num": 369396,
+      "num": 437323,
       "word": "面馆老板回应赵露思直播后爆单",
       "onboard_time": 1754306303,
       "rank": 22,
@@ -123,11 +131,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1161111,
+      "num": 406618,
+      "word": "江油霸凌",
+      "onboard_time": 1754311583,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1118404,
       "num": 1118404,
       "word": "赵露思直播同款被卖断货",
       "onboard_time": 1754279843,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1117742,
+      "num": 392265,
+      "word": "赵露思被甜品店合伙人背刺起诉",
+      "onboard_time": 1754311283,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -291,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 653788,
-      "num": 346621,
-      "word": "赵露思被甜品店合伙人背刺起诉",
-      "onboard_time": 1754311283,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 643254,
       "num": 400437,
       "word": "吴倩带女儿逛街",
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529355,
+      "num": 529355,
+      "word": "银行职员夫妻回应下班偷偷送外卖",
+      "onboard_time": 1754307982,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519700,
       "num": 330445,
       "word": "14岁女孩遭殴打两人被送学校矫正",
@@ -459,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486965,
-      "num": 486965,
-      "word": "银行职员夫妻回应下班偷偷送外卖",
-      "onboard_time": 1754307982,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 486873,
       "num": 486873,
       "word": "我国在艾滋病疫苗研发领域取得重要进展",
@@ -481,6 +497,14 @@
       "onboard_time": 1754302585,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 477392,
+      "num": 346025,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1754311643,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 475988,
@@ -771,6 +795,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 269293,
+      "num": 370469,
+      "word": "白马寺僧人顶38度高温在地里劳作",
+      "onboard_time": 1754308223,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266407,
       "num": 266407,
       "word": "上海将开展入户调查",
@@ -827,28 +859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256050,
-      "num": 256050,
-      "word": "江油霸凌",
-      "onboard_time": 1754311583,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255864,
       "num": 255864,
       "word": "毛不易私下向李雪琴打听李诞八卦",
       "onboard_time": 1754289981,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254837,
-      "num": 254837,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1754311643,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 248567,
@@ -923,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228938,
-      "num": 370469,
-      "word": "白马寺僧人顶38度高温在地里劳作",
-      "onboard_time": 1754308223,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228718,
       "num": 228718,
       "word": "博主迅猛龙正式入读复旦",
@@ -945,6 +953,14 @@
       "onboard_time": 1754281945,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227868,
+      "num": 227868,
+      "word": "朱天天 清融",
+      "onboard_time": 1754312244,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 227357,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1754299403,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209758,
+      "num": 209758,
+      "word": "艺人杂志分红",
+      "onboard_time": 1754309484,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 207782,
@@ -1187,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187167,
+      "num": 187167,
+      "word": "女子捡到6斤干巴菌原地打跳庆祝",
+      "onboard_time": 1754310503,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187154,
       "num": 175214,
       "word": "一代人有一代人的漫展体验",
@@ -1259,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180998,
-      "num": 180998,
-      "word": "女子捡到6斤干巴菌原地打跳庆祝",
-      "onboard_time": 1754310503,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180395,
       "num": 180395,
       "word": "风尚志",
@@ -1323,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175670,
+      "num": 175670,
+      "word": "多个账号攻击爱国题材电影被禁言",
+      "onboard_time": 1754312664,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175214,
       "num": 175213,
       "word": "潘展乐告状已经1年了",
@@ -1363,14 +1395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171210,
-      "num": 171210,
-      "word": "艺人杂志分红",
-      "onboard_time": 1754309484,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170026,
       "num": 170026,
       "word": "高温每天10小时超长待机",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1754293464,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166589,
+      "num": 166589,
+      "word": "杨洋眼前一黑又一黑",
+      "onboard_time": 1754312304,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 166583,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1754279723,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161104,
+      "num": 161104,
+      "word": "冯建宇风尚志封面预告",
+      "onboard_time": 1754312723,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160970,
@@ -1587,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146812,
+      "num": 146812,
+      "word": "心动的offer给再就业艺人开一季吧",
+      "onboard_time": 1754311643,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146686,
       "num": 206165,
       "word": "印度一警察向洪水献上牛奶花瓣",
@@ -1596,7 +1644,7 @@
     },
     {
       "raw_hot": 145975,
-      "num": 145975,
+      "num": 595576,
       "word": "解放军联合登陆演习高燃场面",
       "onboard_time": 1754272942,
       "rank": 36,
@@ -1763,14 +1811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130348,
-      "num": 130348,
-      "word": "心动的offer给再就业艺人开一季吧",
-      "onboard_time": 1754311643,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129358,
       "num": 129358,
       "word": "金泰亨坐田柾国怀里",
@@ -1803,20 +1843,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128241,
+      "num": 128241,
+      "word": "体脂率多低才能看到腹肌",
+      "onboard_time": 1754310503,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128114,
       "num": 128114,
       "word": "女子轻信代抢演唱会门票被骗19万元",
       "onboard_time": 1754271380,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127508,
-      "num": 127508,
-      "word": "体脂率多低才能看到腹肌",
-      "onboard_time": 1754310503,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 127245,
@@ -1841,6 +1881,14 @@
       "onboard_time": 1754302343,
       "rank": 49,
       "category": "读书作家,综艺"
+    },
+    {
+      "raw_hot": 126628,
+      "num": 126628,
+      "word": "许佳琪雅合cha大展鸿图",
+      "onboard_time": 1754312363,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 126516,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1754284104,
       "rank": 44,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 123594,
+      "num": 123594,
+      "word": "9斤270元可放五十年不坏的猪膘肉",
+      "onboard_time": 1754307863,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 123328,
@@ -2139,14 +2195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112415,
-      "num": 112415,
-      "word": "9斤270元可放五十年不坏的猪膘肉",
-      "onboard_time": 1754307863,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 112087,
       "num": 112087,
       "word": "迪丽热巴低饱和巴恩风穿搭",
@@ -2267,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105099,
-      "num": 105099,
-      "word": "朱天天 清融",
-      "onboard_time": 1754312244,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 105011,
       "num": 105011,
       "word": "首尔偶遇周也",
@@ -2299,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104126,
+      "num": 104126,
+      "word": "林一被攻击了钓鱼佬最薄弱的地方",
+      "onboard_time": 1754312964,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104114,
       "num": 104114,
       "word": "731定档",
@@ -2321,6 +2369,14 @@
       "onboard_time": 1754295444,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101173,
+      "num": 101173,
+      "word": "樊振东英文回复莫雷加德",
+      "onboard_time": 1754313203,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100998,
@@ -2371,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98177,
+      "num": 98177,
+      "word": "刘宇宁意大利vlog",
+      "onboard_time": 1754313265,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97695,
       "num": 97695,
       "word": "女大学生痛经昏睡在公园被保安救治",
@@ -2403,28 +2467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96333,
-      "num": 96333,
-      "word": "许佳琪雅合cha大展鸿图",
-      "onboard_time": 1754312363,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 96117,
-      "num": 96117,
-      "word": "杨洋眼前一黑又一黑",
-      "onboard_time": 1754312304,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95760,
       "num": 121759,
       "word": "至珍七虾堡",
       "onboard_time": 1754292383,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95656,
+      "num": 95656,
+      "word": "Fly再吃找人弄你",
+      "onboard_time": 1754309604,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 95150,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1754237303,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92730,
+      "num": 276221,
+      "word": "零跑凭啥连续五个月销量第一",
+      "onboard_time": 1754312843,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 92689,
@@ -2673,6 +2737,14 @@
       "onboard_time": 1754289803,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64205,
+      "num": 458587,
+      "word": "南部战区回应菲律宾搅局南海",
+      "onboard_time": 1754311104,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62775,
@@ -2929,6 +3001,14 @@
       "onboard_time": 1754248816,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 14774,
+      "num": 153195,
+      "word": "文化中国行看花开万象",
+      "onboard_time": 1754312964,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11331,

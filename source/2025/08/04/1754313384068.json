@@ -1,0 +1,410 @@
+{
+  "runTime": 1754313384068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2604261,
+        "num": 2604261,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664498,
+        "num": 664498,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1586,
+        "num": 595576,
+        "word": "解放军联合登陆演习高燃场面",
+        "onboard_time": 1754272942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2575199,
+        "num": 572853,
+        "word": "赵露思直播",
+        "onboard_time": 1754311885,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835125,
+        "num": 551420,
+        "word": "短剧演员因利剑玫瑰被称电影脸",
+        "onboard_time": 1754310203,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529355,
+        "num": 529355,
+        "word": "银行职员夫妻回应下班偷偷送外卖",
+        "onboard_time": 1754307982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492369,
+        "num": 492369,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 6,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 477181,
+        "num": 477181,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473256,
+        "num": 473256,
+        "word": "笔试17分进复审",
+        "onboard_time": 1754305401,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64205,
+        "num": 458587,
+        "word": "南部战区回应菲律宾搅局南海",
+        "onboard_time": 1754311104,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1322289,
+        "num": 437323,
+        "word": "面馆老板回应赵露思直播后爆单",
+        "onboard_time": 1754306303,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1161111,
+        "num": 406618,
+        "word": "江油霸凌",
+        "onboard_time": 1754311583,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1117742,
+        "num": 392265,
+        "word": "赵露思被甜品店合伙人背刺起诉",
+        "onboard_time": 1754311283,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839692,
+        "num": 362473,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477392,
+        "num": 346025,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1754311643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336993,
+        "num": 336993,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 330315,
+        "num": 330315,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 320044,
+        "num": 320044,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92730,
+        "num": 276221,
+        "word": "零跑凭啥连续五个月销量第一",
+        "onboard_time": 1754312843,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 275267,
+        "num": 275267,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269293,
+        "num": 269293,
+        "word": "白马寺僧人顶38度高温在地里劳作",
+        "onboard_time": 1754308223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227868,
+        "num": 227868,
+        "word": "朱天天 清融",
+        "onboard_time": 1754312244,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209758,
+        "num": 209758,
+        "word": "艺人杂志分红",
+        "onboard_time": 1754309484,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187167,
+        "num": 187167,
+        "word": "女子捡到6斤干巴菌原地打跳庆祝",
+        "onboard_time": 1754310503,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175670,
+        "num": 175670,
+        "word": "多个账号攻击爱国题材电影被禁言",
+        "onboard_time": 1754312664,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173431,
+        "num": 173431,
+        "word": "虞书欣与华策到期不续约",
+        "onboard_time": 1754311043,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171742,
+        "num": 171742,
+        "word": "陈丽君胜诉",
+        "onboard_time": 1754305341,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170357,
+        "num": 170357,
+        "word": "樊振东莫雷加德聚餐",
+        "onboard_time": 1754301383,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169929,
+        "num": 169929,
+        "word": "刚出生就三十多岁的90后老baby",
+        "onboard_time": 1754308763,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166589,
+        "num": 166589,
+        "word": "杨洋眼前一黑又一黑",
+        "onboard_time": 1754312304,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161104,
+        "num": 161104,
+        "word": "冯建宇风尚志封面预告",
+        "onboard_time": 1754312723,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14774,
+        "num": 153195,
+        "word": "文化中国行看花开万象",
+        "onboard_time": 1754312964,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146812,
+        "num": 146812,
+        "word": "心动的offer给再就业艺人开一季吧",
+        "onboard_time": 1754311643,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146350,
+        "num": 146350,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128241,
+        "num": 128241,
+        "word": "体脂率多低才能看到腹肌",
+        "onboard_time": 1754310503,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126628,
+        "num": 126628,
+        "word": "许佳琪雅合cha大展鸿图",
+        "onboard_time": 1754312363,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125187,
+        "num": 125187,
+        "word": "痛经假 医疗证明",
+        "onboard_time": 1754294842,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123594,
+        "num": 123594,
+        "word": "9斤270元可放五十年不坏的猪膘肉",
+        "onboard_time": 1754307863,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120108,
+        "num": 120108,
+        "word": "张雅钦sugar摇",
+        "onboard_time": 1754311764,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109595,
+        "num": 109595,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 105416,
+        "num": 105416,
+        "word": "许倬云曾遗憾但悲不见九州同",
+        "onboard_time": 1754296344,
+        "rank": 40,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 4479,
+        "num": 104610,
+        "word": "航母编队赴西太平洋训练详情公开",
+        "onboard_time": 1754269883,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 104126,
+        "num": 104126,
+        "word": "林一被攻击了钓鱼佬最薄弱的地方",
+        "onboard_time": 1754312964,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101827,
+        "num": 101827,
+        "word": "93年月入4000元上下班的一天",
+        "onboard_time": 1754297964,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101173,
+        "num": 101173,
+        "word": "樊振东英文回复莫雷加德",
+        "onboard_time": 1754313203,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100927,
+        "num": 100927,
+        "word": "樊振东莫雷加德新赛季携手出战",
+        "onboard_time": 1754312064,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98177,
+        "num": 98177,
+        "word": "刘宇宁意大利vlog",
+        "onboard_time": 1754313265,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97873,
+        "num": 97873,
+        "word": "外卖员摔倒因心疼钱大哭",
+        "onboard_time": 1754302883,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96369,
+        "num": 96369,
+        "word": "清融回应",
+        "onboard_time": 1754307563,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95656,
+        "num": 95656,
+        "word": "Fly再吃找人弄你",
+        "onboard_time": 1754309604,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚向前#"
+    }
+  }
+}
