@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754303637155,
+  "endTime": 1754304708331,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -75,6 +75,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 1273888,
+      "num": 423581,
+      "word": "黄奕女儿被网友抗议出道",
+      "onboard_time": 1754299282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1241608,
       "num": 1241608,
       "word": "历史学家许倬云逝世",
@@ -113,14 +121,6 @@
       "onboard_time": 1754282365,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 930726,
-      "num": 423581,
-      "word": "黄奕女儿被网友抗议出道",
-      "onboard_time": 1754299282,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 925192,
@@ -203,6 +203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 772930,
+      "num": 772930,
+      "word": "杭州一夫妻争吵后丈夫跳河身亡",
+      "onboard_time": 1754301443,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 738652,
       "num": 338326,
       "word": "亲生和亲自生的区别",
@@ -233,14 +241,6 @@
       "onboard_time": 1754294543,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 672964,
-      "num": 672964,
-      "word": "杭州一夫妻争吵后丈夫跳河身亡",
-      "onboard_time": 1754301443,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 643254,
@@ -425,6 +425,14 @@
       "onboard_time": 1754280204,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452494,
+      "num": 452494,
+      "word": "迅猛龙复旦班级合照",
+      "onboard_time": 1754303842,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 439798,
@@ -875,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211870,
+      "num": 211870,
+      "word": "孙颖莎回应世乒赛哭了",
+      "onboard_time": 1754300302,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210462,
       "num": 210462,
       "word": "古偶又争又抢男狐狸精来了",
@@ -929,14 +945,6 @@
       "onboard_time": 1754278283,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203182,
-      "num": 203182,
-      "word": "孙颖莎回应世乒赛哭了",
-      "onboard_time": 1754300302,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 202181,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1754299103,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190182,
+      "num": 190182,
+      "word": "TWS韩粉质疑韩振的中文水平",
+      "onboard_time": 1754303484,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 188866,
@@ -1107,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180395,
+      "num": 180395,
+      "word": "风尚志",
+      "onboard_time": 1754303484,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 180362,
       "num": 180362,
       "word": "每天1杯无糖饮料患糖尿病风险增38%",
@@ -1187,12 +1211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171291,
-      "num": 171291,
-      "word": "TWS韩粉质疑韩振的中文水平",
-      "onboard_time": 1754303484,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 171861,
+      "num": 171861,
+      "word": "外卖员摔倒因心疼钱大哭",
+      "onboard_time": 1754302883,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170026,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1754238981,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165044,
-      "num": 165044,
-      "word": "风尚志",
-      "onboard_time": 1754303484,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 164348,
@@ -1395,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148457,
+      "num": 411531,
+      "word": "海军位南海海域进行例行巡航",
+      "onboard_time": 1754303602,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148216,
       "num": 145391,
       "word": "女子推理社3有圈内好友加盟",
@@ -1439,6 +1463,14 @@
       "num": 145095,
       "word": "魏劭行为请勿上升刘宇宁",
       "onboard_time": 1754285601,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144899,
+      "num": 144899,
+      "word": "心动的信号8",
+      "onboard_time": 1754303962,
       "rank": 34,
       "category": "综艺"
     },
@@ -1563,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129224,
+      "num": 152940,
+      "word": "减肥最快邪修是空腹有氧",
+      "onboard_time": 1754303243,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 129089,
       "num": 129089,
       "word": "JDG对阵WBG比赛因暴雨延期",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1754271380,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127172,
+      "num": 127172,
+      "word": "快手极速版崩了",
+      "onboard_time": 1754304623,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 126954,
@@ -1707,14 +1755,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 120361,
-      "num": 140654,
-      "word": "海军位南海海域进行例行巡航",
-      "onboard_time": 1754303602,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 120229,
       "num": 120229,
       "word": "打暑假工前vs打暑假工后",
@@ -1737,14 +1777,6 @@
       "onboard_time": 1754279124,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118871,
-      "num": 152940,
-      "word": "减肥最快邪修是空腹有氧",
-      "onboard_time": 1754303243,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 118667,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1754291782,
       "rank": 34,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 115001,
+      "num": 115001,
+      "word": "厨子终于在恋综里站起来了",
+      "onboard_time": 1754304682,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 114857,
@@ -1947,6 +1987,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 107038,
+      "num": 129225,
+      "word": "广东成为全国暴雨中心",
+      "onboard_time": 1754304202,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105538,
       "num": 105538,
       "word": "NCT127官娃",
@@ -2040,14 +2088,6 @@
       "word": "重庆两部门联合发布高温中暑二级预警",
       "onboard_time": 1754265501,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97211,
-      "num": 152250,
-      "word": "外卖员摔倒因心疼钱大哭",
-      "onboard_time": 1754302883,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2521,6 +2561,14 @@
       "onboard_time": 1754293282,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17450,
+      "num": 129545,
+      "word": "龚俊开车刘宇宁用嘴踩刹车",
+      "onboard_time": 1754304443,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 15505,
