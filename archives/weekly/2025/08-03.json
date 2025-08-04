@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754296773064,
+  "endTime": 1754297700052,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2968164,
-      "num": 415319,
+      "num": 460790,
       "word": "娜扎疑似与张云龙已分手",
       "onboard_time": 1754277982,
       "rank": 10,
@@ -107,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2183688,
+      "num": 423934,
+      "word": "白鹿报警",
+      "onboard_time": 1754293943,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2030359,
       "num": 909594,
       "word": "杨清柠乔司离婚",
       "onboard_time": 1754223504,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1975493,
-      "num": 413040,
-      "word": "白鹿报警",
-      "onboard_time": 1754293943,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1961731,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 942769,
-      "num": 269897,
+      "num": 278238,
       "word": "学费44万的大学录取通知书长什么样",
       "onboard_time": 1754282365,
       "rank": 40,
@@ -393,6 +393,14 @@
       "onboard_time": 1754184922,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 909742,
+      "num": 685349,
+      "word": "芒果男艺人发长文求工作",
+      "onboard_time": 1754293763,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 885745,
@@ -416,14 +424,6 @@
       "word": "鞠婧祎直播",
       "onboard_time": 1754224164,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 861043,
-      "num": 685349,
-      "word": "芒果男艺人发长文求工作",
-      "onboard_time": 1754293763,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675532,
+      "num": 447885,
+      "word": "徐璐这穿搭够我学一阵了",
+      "onboard_time": 1754294543,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672799,
       "num": 405595,
       "word": "任重孙骁骁带孩子逛商场",
@@ -643,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 605109,
+      "num": 440257,
+      "word": "痛经假 医疗证明",
+      "onboard_time": 1754294842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598022,
       "num": 598022,
       "word": "库克感谢中国国补政策",
@@ -657,6 +673,14 @@
       "onboard_time": 1754290583,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 595525,
+      "num": 595525,
+      "word": "北京暴雨",
+      "onboard_time": 1754292622,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 584266,
@@ -763,20 +787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550347,
+      "num": 550347,
+      "word": "衣服都脱了你俩拍打戏",
+      "onboard_time": 1754295203,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549028,
       "num": 549028,
       "word": "时代少年团 上海",
       "onboard_time": 1754192906,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 541354,
-      "num": 408764,
-      "word": "徐璐这穿搭够我学一阵了",
-      "onboard_time": 1754294543,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 538982,
@@ -995,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406780,
-      "num": 406780,
-      "word": "北京暴雨",
-      "onboard_time": 1754292622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 401549,
       "num": 307712,
       "word": "孟子义秒认李昀锐",
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 389036,
-      "num": 267367,
+      "num": 273779,
       "word": "终于学会漂漂亮亮不随份子钱",
       "onboard_time": 1754290223,
       "rank": 30,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1754187503,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349107,
+      "num": 349107,
+      "word": "孙红雷想黄渤黄磊张艺兴了",
+      "onboard_time": 1754295685,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 348262,
@@ -1275,14 +1299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 324261,
-      "num": 324261,
-      "word": "痛经假 医疗证明",
-      "onboard_time": 1754294842,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319402,
       "num": 319402,
       "word": "银川地震",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1754288603,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309026,
-      "num": 309026,
-      "word": "衣服都脱了你俩拍打戏",
-      "onboard_time": 1754295203,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 307745,
@@ -1371,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297919,
+      "num": 277050,
+      "word": "夏天终于有仙侠剧看了",
+      "onboard_time": 1754295803,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295322,
       "num": 295322,
       "word": "阿姨吹一周空调严重呼吸衰竭",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1754208144,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291403,
+      "num": 291403,
+      "word": "许倬云曾遗憾但悲不见九州同",
+      "onboard_time": 1754296344,
+      "rank": 27,
+      "category": "读书作家,民生新闻"
     },
     {
       "raw_hot": 290713,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1754225365,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282235,
+      "num": 282235,
+      "word": "我国在艾滋病疫苗研发领域取得重要进展",
+      "onboard_time": 1754295743,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 282226,
@@ -1611,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249635,
+      "num": 249635,
+      "word": "短剧折腰开拍",
+      "onboard_time": 1754296162,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248817,
       "num": 248817,
       "word": "12岁于子迪400米混合泳第四",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1754275701,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239551,
+      "num": 239551,
+      "word": "谢娜打拼归来仍是没招的女儿",
+      "onboard_time": 1754297123,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 238436,
@@ -1771,14 +1819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221460,
-      "num": 221460,
-      "word": "孙红雷想黄渤黄磊张艺兴了",
-      "onboard_time": 1754295685,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220579,
       "num": 220579,
       "word": "purplekiss解散",
@@ -1835,14 +1875,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 210482,
-      "num": 210482,
-      "word": "夏天终于有仙侠剧看了",
-      "onboard_time": 1754295803,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208888,
       "num": 152681,
       "word": "张予曦回应被说花瓶",
@@ -1859,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207609,
+      "num": 207609,
+      "word": "女子推理社",
+      "onboard_time": 1754296464,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207314,
       "num": 207314,
       "word": "DOTA2雪如意TT夺冠",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1754280025,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206636,
-      "num": 206636,
-      "word": "许倬云曾遗憾但悲不见九州同",
-      "onboard_time": 1754296344,
-      "rank": 27,
-      "category": "读书作家,民生新闻"
     },
     {
       "raw_hot": 205768,
@@ -2371,14 +2403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176774,
-      "num": 176774,
-      "word": "短剧折腰开拍",
-      "onboard_time": 1754296162,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176711,
       "num": 176711,
       "word": "张艺兴喊俺老孙在此",
@@ -2515,6 +2539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172827,
+      "num": 172827,
+      "word": "女子获赠舅舅房产被其女儿起诉",
+      "onboard_time": 1754295922,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172788,
       "num": 172788,
       "word": "王力宏在演唱会做了3小时有氧",
@@ -2585,14 +2617,6 @@
       "onboard_time": 1754206285,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169493,
-      "num": 169493,
-      "word": "女子获赠舅舅房产被其女儿起诉",
-      "onboard_time": 1754295922,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169345,
@@ -2739,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163664,
+      "num": 163664,
+      "word": "石破茂 战后80周年个人见解",
+      "onboard_time": 1754294243,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163555,
       "num": 163555,
       "word": "亮证女司机非公职人员",
@@ -2755,14 +2787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162117,
-      "num": 162117,
-      "word": "我国在艾滋病疫苗研发领域取得重要进展",
-      "onboard_time": 1754295743,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 161248,
       "num": 161248,
       "word": "国航被泼热水旅客称赔1万变500",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1754279723,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160970,
+      "num": 160970,
+      "word": "以为是天崩开局结果妈妈是通天代",
+      "onboard_time": 1754295323,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 159806,
@@ -2963,6 +2995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150596,
+      "num": 150596,
+      "word": "博主迅猛龙正式入读复旦",
+      "onboard_time": 1754297423,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 150262,
       "num": 207946,
       "word": "越剧演员表演时苍蝇在脸上乱爬",
@@ -3081,14 +3121,6 @@
       "onboard_time": 1754230223,
       "rank": 38,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 145467,
-      "num": 145467,
-      "word": "女子推理社",
-      "onboard_time": 1754296464,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 145230,
@@ -3291,14 +3323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140317,
-      "num": 140317,
-      "word": "以为是天崩开局结果妈妈是通天代",
-      "onboard_time": 1754295323,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139557,
       "num": 139557,
       "word": "DC漫威都得叫他一声前辈",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1754235264,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137910,
+      "num": 137910,
+      "word": "美国客户发邮件狂催中国婚纱",
+      "onboard_time": 1754297364,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137742,
@@ -3555,6 +3587,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 129358,
+      "num": 129358,
+      "word": "金泰亨坐田柾国怀里",
+      "onboard_time": 1754292383,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129352,
       "num": 129352,
       "word": "汪顺游完单项再上接力",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1754142631,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128712,
+      "num": 128712,
+      "word": "唱得好就算了跳舞也这么算了",
+      "onboard_time": 1754297304,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 128594,
@@ -3723,14 +3771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125958,
-      "num": 125958,
-      "word": "石破茂 战后80周年个人见解",
-      "onboard_time": 1754294243,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "赵露思说知道仅在社交平台发声无用",
@@ -3761,14 +3801,6 @@
       "onboard_time": 1754277323,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 123753,
-      "num": 123753,
-      "word": "金泰亨坐田柾国怀里",
-      "onboard_time": 1754292383,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 123661,
@@ -5459,6 +5491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32538,
+      "num": 279939,
+      "word": "韩国汉江不明物体目测长约6到10米",
+      "onboard_time": 1754296883,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32138,
       "num": 153926,
       "word": "在香港发行法币稳定币需申领牌照",
@@ -5475,20 +5515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29743,
+      "num": 750639,
+      "word": "航母编队赴西太平洋训练详情公开",
+      "onboard_time": 1754269883,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 28903,
       "num": 51167,
       "word": "勒克莱尔夺F1匈牙利站杆位",
       "onboard_time": 1754178260,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27478,
-      "num": 750639,
-      "word": "航母编队赴西太平洋训练详情公开",
-      "onboard_time": 1754269883,
-      "rank": 2,
-      "category": "军事"
     },
     {
       "raw_hot": 27476,

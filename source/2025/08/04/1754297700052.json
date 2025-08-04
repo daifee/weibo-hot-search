@@ -1,0 +1,410 @@
+{
+  "runTime": 1754297700052,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1238791,
+        "num": 1238791,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 0,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 832906,
+        "num": 832906,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29743,
+        "num": 616953,
+        "word": "航母编队赴西太平洋训练详情公开",
+        "onboard_time": 1754269883,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 909742,
+        "num": 616425,
+        "word": "芒果男艺人发长文求工作",
+        "onboard_time": 1754293763,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615662,
+        "num": 615662,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 596895,
+        "num": 596895,
+        "word": "库克感谢中国国补政策",
+        "onboard_time": 1754291964,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 595525,
+        "num": 595525,
+        "word": "北京暴雨",
+        "onboard_time": 1754292622,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550347,
+        "num": 550347,
+        "word": "衣服都脱了你俩拍打戏",
+        "onboard_time": 1754295203,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491235,
+        "num": 491235,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 472186,
+        "num": 472186,
+        "word": "王安宇抖成这样",
+        "onboard_time": 1754291722,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 755966,
+        "num": 460790,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675532,
+        "num": 447885,
+        "word": "徐璐这穿搭够我学一阵了",
+        "onboard_time": 1754294543,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605109,
+        "num": 440257,
+        "word": "痛经假 医疗证明",
+        "onboard_time": 1754294842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2183688,
+        "num": 423934,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417297,
+        "num": 417297,
+        "word": "官方回应丁程鑫张真源人才引进",
+        "onboard_time": 1754289803,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349107,
+        "num": 349107,
+        "word": "孙红雷想黄渤黄磊张艺兴了",
+        "onboard_time": 1754295685,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291403,
+        "num": 291403,
+        "word": "许倬云曾遗憾但悲不见九州同",
+        "onboard_time": 1754296344,
+        "rank": 16,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 282235,
+        "num": 282235,
+        "word": "我国在艾滋病疫苗研发领域取得重要进展",
+        "onboard_time": 1754295743,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272052,
+        "num": 281389,
+        "word": "网传金九女王迪丽热巴",
+        "onboard_time": 1754288961,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32538,
+        "num": 279939,
+        "word": "韩国汉江不明物体目测长约6到10米",
+        "onboard_time": 1754296883,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 441482,
+        "num": 278238,
+        "word": "学费44万的大学录取通知书长什么样",
+        "onboard_time": 1754282365,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297919,
+        "num": 277050,
+        "word": "夏天终于有仙侠剧看了",
+        "onboard_time": 1754295803,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275565,
+        "num": 275565,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273779,
+        "num": 273779,
+        "word": "终于学会漂漂亮亮不随份子钱",
+        "onboard_time": 1754290223,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264683,
+        "num": 264683,
+        "word": "电影731提示未满18岁请谨慎观看",
+        "onboard_time": 1754283265,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249635,
+        "num": 249635,
+        "word": "短剧折腰开拍",
+        "onboard_time": 1754296162,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241993,
+        "num": 241993,
+        "word": "九一八和731都是不能忘的数字",
+        "onboard_time": 1754293822,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239551,
+        "num": 239551,
+        "word": "谢娜打拼归来仍是没招的女儿",
+        "onboard_time": 1754297123,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237613,
+        "num": 237613,
+        "word": "张本智和炮轰日本联赛",
+        "onboard_time": 1754287701,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207609,
+        "num": 207609,
+        "word": "女子推理社",
+        "onboard_time": 1754296464,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205030,
+        "num": 205030,
+        "word": "毛不易私下向李雪琴打听李诞八卦",
+        "onboard_time": 1754289981,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191368,
+        "num": 191368,
+        "word": "北京女子去世无子女亲戚起诉分遗产",
+        "onboard_time": 1754289623,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183207,
+        "num": 183207,
+        "word": "吴倩带女儿逛街",
+        "onboard_time": 1754290702,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 176707,
+        "num": 176707,
+        "word": "每天1杯无糖饮料患糖尿病风险增38%",
+        "onboard_time": 1754291782,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172827,
+        "num": 172827,
+        "word": "女子获赠舅舅房产被其女儿起诉",
+        "onboard_time": 1754295922,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163664,
+        "num": 163664,
+        "word": "石破茂 战后80周年个人见解",
+        "onboard_time": 1754294243,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160970,
+        "num": 160970,
+        "word": "以为是天崩开局结果妈妈是通天代",
+        "onboard_time": 1754295323,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156147,
+        "num": 156147,
+        "word": "鸡蛋存放多久就不能吃了",
+        "onboard_time": 1754286083,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153023,
+        "num": 153023,
+        "word": "王一博首支香奈儿广告大片",
+        "onboard_time": 1754283984,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 150596,
+        "num": 150596,
+        "word": "博主迅猛龙正式入读复旦",
+        "onboard_time": 1754297423,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150152,
+        "num": 150152,
+        "word": "李诞欣赏周星驰但不想认识他",
+        "onboard_time": 1754293042,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146604,
+        "num": 146604,
+        "word": "因为工作不开心给妈妈发的微信",
+        "onboard_time": 1754293524,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137910,
+        "num": 137910,
+        "word": "美国客户发邮件狂催中国婚纱",
+        "onboard_time": 1754297364,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136056,
+        "num": 136056,
+        "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
+        "onboard_time": 1754289623,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 130517,
+        "word": "LadyGaga带Labubu出街",
+        "onboard_time": 1754291423,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129815,
+        "num": 129815,
+        "word": "赵丽颖金蛇单肩裙",
+        "onboard_time": 1754288603,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129358,
+        "num": 129358,
+        "word": "金泰亨坐田柾国怀里",
+        "onboard_time": 1754292383,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128712,
+        "num": 128712,
+        "word": "唱得好就算了跳舞也这么算了",
+        "onboard_time": 1754297304,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 124724,
+        "word": "北京这7区市民非必要不外出",
+        "onboard_time": 1754286921,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114514,
+        "num": 114514,
+        "word": "普通人要不要买折叠屏",
+        "onboard_time": 1754296584,
+        "rank": 49,
+        "category": "数码,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#广泛深入察民情听民声汇民智#"
+    }
+  }
+}
