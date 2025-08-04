@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754336487937,
+  "endTime": 1754339561654,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -443,6 +443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43269,
+      "num": 45408,
+      "word": "第一次见这么混血的语言系统",
+      "onboard_time": 1754333955,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 37250,
+      "num": 45784,
+      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
+      "onboard_time": 1754334374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33221,
       "num": 120926,
       "word": "心动的信号8",
@@ -499,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24312,
-      "num": 45408,
-      "word": "第一次见这么混血的语言系统",
-      "onboard_time": 1754333955,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23256,
       "num": 46115,
       "word": "中国船舶将吸收合并中国重工",
@@ -547,12 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12511,
-      "num": 45784,
-      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
-      "onboard_time": 1754334374,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 11546,
+      "num": 35595,
+      "word": "穿着尿不湿全网最小救生员",
+      "onboard_time": 1754339355,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 1835,

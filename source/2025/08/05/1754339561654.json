@@ -1,0 +1,410 @@
+{
+  "runTime": 1754339561654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 84346,
+        "num": 84346,
+        "word": "赵露思 姐现在忍不了任何人",
+        "onboard_time": 1754314644,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57413,
+        "num": 57413,
+        "word": "吴艳妮光速夺冠",
+        "onboard_time": 1754323282,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 835,
+        "num": 47650,
+        "word": "总有一些美好瞬间温暖夏日",
+        "onboard_time": 1754277323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76932,
+        "num": 45231,
+        "word": "SASI怼秃子",
+        "onboard_time": 1754319686,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39820,
+        "num": 39820,
+        "word": "多个账号攻击爱国题材电影被禁言",
+        "onboard_time": 1754312664,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37859,
+        "num": 37859,
+        "word": "特朗普称将大幅提高对印度关税",
+        "onboard_time": 1754323823,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61401,
+        "num": 37575,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37250,
+        "num": 37250,
+        "word": "博主曝光内蒙古一火锅店用阴阳菜单",
+        "onboard_time": 1754334374,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28738,
+        "num": 37187,
+        "word": "举报史航女生再发声",
+        "onboard_time": 1754315185,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 24887,
+        "num": 37000,
+        "word": "短剧演员因利剑玫瑰被称电影脸",
+        "onboard_time": 1754310203,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221577,
+        "num": 36716,
+        "word": "王一博",
+        "onboard_time": 1754324061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43269,
+        "num": 36550,
+        "word": "第一次见这么混血的语言系统",
+        "onboard_time": 1754333955,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34059,
+        "num": 36516,
+        "word": "律师回应14岁少女校外被殴打",
+        "onboard_time": 1754315964,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26111,
+        "num": 36204,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24944,
+        "num": 35994,
+        "word": "赵露思说有点不敢推荐东西了",
+        "onboard_time": 1754324962,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35967,
+        "num": 35967,
+        "word": "王一博28岁是一个刚刚好的年纪",
+        "onboard_time": 1754325560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23404,
+        "num": 35967,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 16,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 22801,
+        "num": 35954,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22254,
+        "num": 35941,
+        "word": "吴艳妮说13秒15拿冠军开心不起来",
+        "onboard_time": 1754324181,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20120,
+        "num": 35924,
+        "word": "上海全款150万32平米的小家",
+        "onboard_time": 1754316506,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31476,
+        "num": 35921,
+        "word": "赵薇被冻结1590万股权",
+        "onboard_time": 1754317766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20109,
+        "num": 35904,
+        "word": "3日到5日广东暴雨套餐上线",
+        "onboard_time": 1754331796,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18938,
+        "num": 35894,
+        "word": "朱天天 清融",
+        "onboard_time": 1754312244,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18599,
+        "num": 35878,
+        "word": "网友KTV偶遇张翰",
+        "onboard_time": 1754315725,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18446,
+        "num": 35875,
+        "word": "警方回应奔驰车被指逆行超车逼停摩托",
+        "onboard_time": 1754327598,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18391,
+        "num": 35863,
+        "word": "复旦MBA回应迅猛龙入读复旦",
+        "onboard_time": 1754332575,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16668,
+        "num": 35846,
+        "word": "刚出生就三十多岁的90后老baby",
+        "onboard_time": 1754308763,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16586,
+        "num": 35832,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15829,
+        "num": 35820,
+        "word": "龙亦瑞总选",
+        "onboard_time": 1754319986,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14556,
+        "num": 35808,
+        "word": "利剑玫瑰 口型对不上",
+        "onboard_time": 1754314525,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15330,
+        "num": 35799,
+        "word": "活力中国调研行",
+        "onboard_time": 1754325740,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15101,
+        "num": 35792,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14875,
+        "num": 35779,
+        "word": "中国船舶将吸收合并中国重工",
+        "onboard_time": 1754334315,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14863,
+        "num": 35762,
+        "word": "睡过头没赶上飞机怎么办",
+        "onboard_time": 1754330836,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14825,
+        "num": 35754,
+        "word": "体制内爱好红黑榜",
+        "onboard_time": 1754312723,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14148,
+        "num": 35735,
+        "word": "王安宇回应音乐节手抖",
+        "onboard_time": 1754326340,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13599,
+        "num": 35726,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13585,
+        "num": 35718,
+        "word": "毕雯珺好帅",
+        "onboard_time": 1754319926,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13509,
+        "num": 35703,
+        "word": "原来还有迪丽冷巴",
+        "onboard_time": 1754316265,
+        "rank": 38,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 12436,
+        "num": 35698,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12185,
+        "num": 35680,
+        "word": "马景涛一个月打工3个景区",
+        "onboard_time": 1754330237,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12184,
+        "num": 35676,
+        "word": "光遇",
+        "onboard_time": 1754328078,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12109,
+        "num": 35660,
+        "word": "吴艳妮女子100米栏全国冠军",
+        "onboard_time": 1754316265,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11968,
+        "num": 35643,
+        "word": "周杰伦晒儿子滑雪视频",
+        "onboard_time": 1754319386,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11959,
+        "num": 35643,
+        "word": "德约科维奇纪念金满贯一周年",
+        "onboard_time": 1754334255,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11889,
+        "num": 35629,
+        "word": "第一次见这么多cp的恋综男嘉宾",
+        "onboard_time": 1754317107,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11794,
+        "num": 35609,
+        "word": "心动的信号8",
+        "onboard_time": 1754303962,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11728,
+        "num": 35606,
+        "word": "陈奕恒学习了一些手语",
+        "onboard_time": 1754329397,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11546,
+        "num": 35595,
+        "word": "穿着尿不湿全网最小救生员",
+        "onboard_time": 1754339355,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11431,
+        "num": 35578,
+        "word": "鹿晗急得在嘴里炒了一盘菜",
+        "onboard_time": 1754332636,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断实现人民对美好生活的向往#"
+    }
+  }
+}
