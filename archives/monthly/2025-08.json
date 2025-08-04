@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754301300403,
+  "endTime": 1754303637155,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -329,6 +329,14 @@
       "onboard_time": 1754120722,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1659191,
+      "num": 1659191,
+      "word": "虞书欣疑似解约华策",
+      "onboard_time": 1754301802,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1607934,
@@ -795,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 930726,
+      "num": 423581,
+      "word": "黄奕女儿被网友抗议出道",
+      "onboard_time": 1754299282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 925192,
       "num": 440257,
       "word": "痛经假 医疗证明",
@@ -897,6 +913,14 @@
       "onboard_time": 1754040982,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 838471,
+      "num": 838471,
+      "word": "樊振东莫雷加德聚餐",
+      "onboard_time": 1754301383,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 832396,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1754294543,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672964,
+      "num": 672964,
+      "word": "杭州一夫妻争吵后丈夫跳河身亡",
+      "onboard_time": 1754301443,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 672799,
@@ -1873,6 +1905,14 @@
       "onboard_time": 1753975882,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 484500,
+      "num": 484500,
+      "word": "薛之谦新歌",
+      "onboard_time": 1754302585,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 482335,
@@ -4139,14 +4179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216731,
-      "num": 216731,
-      "word": "黄奕女儿被网友抗议出道",
-      "onboard_time": 1754299282,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216411,
       "num": 180763,
       "word": "湖北退出航母命名争夺战",
@@ -4627,6 +4659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203182,
+      "num": 203182,
+      "word": "孙颖莎回应世乒赛哭了",
+      "onboard_time": 1754300302,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203100,
       "num": 203100,
       "word": "KPL",
@@ -4888,6 +4928,14 @@
       "word": "华晨宇音乐节",
       "onboard_time": 1754229986,
       "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 196523,
+      "num": 196523,
+      "word": "王力宏落叶归根听得人想家",
+      "onboard_time": 1754302883,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -5379,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185104,
+      "num": 185104,
+      "word": "敖瑞鹏迎来人声鼎沸的一年",
+      "onboard_time": 1754303064,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184614,
       "num": 184614,
       "word": "陈丽君直播",
@@ -5417,6 +5473,14 @@
       "onboard_time": 1754034203,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183428,
+      "num": 171293,
+      "word": "她一晚上做了我一辈子的工作",
+      "onboard_time": 1754302703,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 183271,
@@ -5545,6 +5609,14 @@
       "onboard_time": 1754126542,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 180432,
+      "num": 180432,
+      "word": "温州一景区员工漂流测试时落水身亡",
+      "onboard_time": 1754302163,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180383,
@@ -5779,14 +5851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174350,
-      "num": 174350,
-      "word": "孙颖莎回应世乒赛哭了",
-      "onboard_time": 1754300302,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "谁家国漫开局救4个男朋友",
@@ -5868,7 +5932,7 @@
     },
     {
       "raw_hot": 172827,
-      "num": 172827,
+      "num": 286743,
       "word": "女子获赠舅舅房产被其女儿起诉",
       "onboard_time": 1754295922,
       "rank": 30,
@@ -5977,6 +6041,14 @@
       "onboard_time": 1754191583,
       "rank": 35,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 171291,
+      "num": 171291,
+      "word": "TWS韩粉质疑韩振的中文水平",
+      "onboard_time": 1754303484,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 171209,
@@ -6257,6 +6329,14 @@
       "onboard_time": 1754199984,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165044,
+      "num": 165044,
+      "word": "风尚志",
+      "onboard_time": 1754303484,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 164876,
@@ -6835,6 +6915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155062,
+      "num": 155062,
+      "word": "不爱打扮 感官过载",
+      "onboard_time": 1754299704,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155056,
       "num": 155056,
       "word": "俄罗斯千岛群岛数十米惊人海啸",
@@ -7225,14 +7313,6 @@
       "onboard_time": 1754229146,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148719,
-      "num": 148719,
-      "word": "不爱打扮 感官过载",
-      "onboard_time": 1754299704,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 148640,
@@ -7643,6 +7723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142101,
+      "num": 142101,
+      "word": "李乃文叔圈娃娃菜",
+      "onboard_time": 1754303422,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "AAA煮鸡蛋批发商韩某",
@@ -7793,6 +7881,22 @@
       "onboard_time": 1754100981,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140496,
+      "num": 140496,
+      "word": "贫困县书记搞政绩工程浪费2230万",
+      "onboard_time": 1754301682,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 140225,
+      "num": 155539,
+      "word": "李昀锐谈九重紫爆火",
+      "onboard_time": 1754300243,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 140222,
@@ -8651,6 +8755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129089,
+      "num": 129089,
+      "word": "JDG对阵WBG比赛因暴雨延期",
+      "onboard_time": 1754303182,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128755,
       "num": 128755,
       "word": "张艺兴红发微醺妆",
@@ -8793,6 +8905,14 @@
       "onboard_time": 1754005039,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126954,
+      "num": 126954,
+      "word": "许倬云最快乐的事是看见妻子",
+      "onboard_time": 1754302343,
+      "rank": 49,
+      "category": "读书作家,综艺"
     },
     {
       "raw_hot": 126913,
@@ -9339,6 +9459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120361,
+      "num": 140654,
+      "word": "海军位南海海域进行例行巡航",
+      "onboard_time": 1754303602,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120321,
       "num": 120321,
       "word": "女装 外模",
@@ -9457,6 +9585,14 @@
       "onboard_time": 1754095820,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118871,
+      "num": 152940,
+      "word": "减肥最快邪修是空腹有氧",
+      "onboard_time": 1754303243,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 118757,
@@ -10555,14 +10691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99092,
-      "num": 155539,
-      "word": "李昀锐谈九重紫爆火",
-      "onboard_time": 1754300243,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99011,
       "num": 99011,
       "word": "周震南直播",
@@ -10681,6 +10809,14 @@
       "onboard_time": 1754012962,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97211,
+      "num": 152250,
+      "word": "外卖员摔倒因心疼钱大哭",
+      "onboard_time": 1754302883,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97072,
@@ -11393,6 +11529,14 @@
       "onboard_time": 1754089157,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77656,
+      "num": 171294,
+      "word": "你还在纠结买油车还是电车吗",
+      "onboard_time": 1754301323,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 77164,

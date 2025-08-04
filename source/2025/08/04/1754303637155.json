@@ -1,0 +1,410 @@
+{
+  "runTime": 1754303637155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659191,
+        "num": 1659191,
+        "word": "虞书欣疑似解约华策",
+        "onboard_time": 1754301802,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838471,
+        "num": 838471,
+        "word": "樊振东莫雷加德聚餐",
+        "onboard_time": 1754301383,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14753,
+        "num": 705656,
+        "word": "航母编队赴西太平洋训练详情公开",
+        "onboard_time": 1754269883,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 672964,
+        "num": 672964,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568154,
+        "num": 568154,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 498022,
+        "num": 498022,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 497314,
+        "num": 497314,
+        "word": "衣服都脱了你俩拍打戏",
+        "onboard_time": 1754295203,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490684,
+        "num": 490684,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 7,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 484500,
+        "num": 484500,
+        "word": "薛之谦新歌",
+        "onboard_time": 1754302585,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435793,
+        "num": 435793,
+        "word": "我国在艾滋病疫苗研发领域取得重要进展",
+        "onboard_time": 1754295743,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1286584,
+        "num": 426055,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 930726,
+        "num": 423581,
+        "word": "黄奕女儿被网友抗议出道",
+        "onboard_time": 1754299282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460117,
+        "num": 419971,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412441,
+        "num": 412441,
+        "word": "痛经假 医疗证明",
+        "onboard_time": 1754294842,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358334,
+        "num": 358334,
+        "word": "短剧折腰开拍",
+        "onboard_time": 1754296162,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407779,
+        "num": 355643,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 350230,
+        "num": 350230,
+        "word": "孙红雷想黄渤黄磊张艺兴了",
+        "onboard_time": 1754295685,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104335,
+        "num": 286743,
+        "word": "女子获赠舅舅房产被其女儿起诉",
+        "onboard_time": 1754295922,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246838,
+        "num": 246838,
+        "word": "徐璐这穿搭够我学一阵了",
+        "onboard_time": 1754294543,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242874,
+        "num": 242874,
+        "word": "美国客户发邮件狂催中国婚纱",
+        "onboard_time": 1754297364,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241171,
+        "num": 241171,
+        "word": "学费44万的大学录取通知书长什么样",
+        "onboard_time": 1754282365,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236226,
+        "num": 236226,
+        "word": "北京暴雨",
+        "onboard_time": 1754292622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223296,
+        "num": 223296,
+        "word": "终于学会漂漂亮亮不随份子钱",
+        "onboard_time": 1754290223,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220543,
+        "num": 220543,
+        "word": "93年月入4000元上下班的一天",
+        "onboard_time": 1754297964,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203182,
+        "num": 203182,
+        "word": "孙颖莎回应世乒赛哭了",
+        "onboard_time": 1754300302,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196523,
+        "num": 196523,
+        "word": "王力宏落叶归根听得人想家",
+        "onboard_time": 1754302883,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185104,
+        "num": 185104,
+        "word": "敖瑞鹏迎来人声鼎沸的一年",
+        "onboard_time": 1754303064,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180432,
+        "num": 180432,
+        "word": "温州一景区员工漂流测试时落水身亡",
+        "onboard_time": 1754302163,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163178,
+        "num": 171733,
+        "word": "博主迅猛龙正式入读复旦",
+        "onboard_time": 1754297423,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77656,
+        "num": 171294,
+        "word": "你还在纠结买油车还是电车吗",
+        "onboard_time": 1754301323,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183428,
+        "num": 171293,
+        "word": "她一晚上做了我一辈子的工作",
+        "onboard_time": 1754302703,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171291,
+        "num": 171291,
+        "word": "TWS韩粉质疑韩振的中文水平",
+        "onboard_time": 1754303484,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169282,
+        "num": 169282,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168515,
+        "num": 168515,
+        "word": "许倬云曾遗憾但悲不见九州同",
+        "onboard_time": 1754296344,
+        "rank": 33,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 165044,
+        "num": 165044,
+        "word": "风尚志",
+        "onboard_time": 1754303484,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 160422,
+        "num": 160422,
+        "word": "关晓彤头发全梳起来大大方方的",
+        "onboard_time": 1754298863,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156621,
+        "num": 156621,
+        "word": "司马懿相柳皮肤爆料",
+        "onboard_time": 1754299823,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155062,
+        "num": 155062,
+        "word": "不爱打扮 感官过载",
+        "onboard_time": 1754299704,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118871,
+        "num": 152940,
+        "word": "减肥最快邪修是空腹有氧",
+        "onboard_time": 1754303243,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97211,
+        "num": 152250,
+        "word": "外卖员摔倒因心疼钱大哭",
+        "onboard_time": 1754302883,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151701,
+        "num": 151701,
+        "word": "王安宇抖成这样",
+        "onboard_time": 1754291722,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142101,
+        "num": 142101,
+        "word": "李乃文叔圈娃娃菜",
+        "onboard_time": 1754303422,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 140654,
+        "word": "海军位南海海域进行例行巡航",
+        "onboard_time": 1754303602,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 140496,
+        "word": "贫困县书记搞政绩工程浪费2230万",
+        "onboard_time": 1754301682,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140225,
+        "num": 140225,
+        "word": "李昀锐谈九重紫爆火",
+        "onboard_time": 1754300243,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139573,
+        "num": 139573,
+        "word": "女子推理社",
+        "onboard_time": 1754296464,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138372,
+        "num": 138372,
+        "word": "电影731提示未满18岁请谨慎观看",
+        "onboard_time": 1754283265,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131757,
+        "num": 131757,
+        "word": "库克感谢中国国补政策",
+        "onboard_time": 1754291964,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129089,
+        "num": 129089,
+        "word": "JDG对阵WBG比赛因暴雨延期",
+        "onboard_time": 1754303182,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126954,
+        "num": 126954,
+        "word": "许倬云最快乐的事是看见妻子",
+        "onboard_time": 1754302343,
+        "rank": 49,
+        "category": "读书作家,综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就网民对十五五建议作出重要指示#"
+    }
+  }
+}
