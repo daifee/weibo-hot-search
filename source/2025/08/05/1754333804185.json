@@ -1,0 +1,410 @@
+{
+  "runTime": 1754333804185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 198651,
+        "num": 198651,
+        "word": "SASI怼秃子",
+        "onboard_time": 1754319686,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93736,
+        "num": 93736,
+        "word": "吴艳妮光速夺冠",
+        "onboard_time": 1754323282,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1617,
+        "num": 79040,
+        "word": "总有一些美好瞬间温暖夏日",
+        "onboard_time": 1754277323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150436,
+        "num": 76690,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71505,
+        "num": 71505,
+        "word": "多个账号攻击爱国题材电影被禁言",
+        "onboard_time": 1754312664,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47699,
+        "num": 71493,
+        "word": "特朗普称将大幅提高对印度关税",
+        "onboard_time": 1754323823,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137434,
+        "num": 71468,
+        "word": "赵露思 姐现在忍不了任何人",
+        "onboard_time": 1754314644,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45684,
+        "num": 71449,
+        "word": "举报史航女生再发声",
+        "onboard_time": 1754315185,
+        "rank": 7,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 41867,
+        "num": 71439,
+        "word": "朱天天 清融",
+        "onboard_time": 1754312244,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36252,
+        "num": 71424,
+        "word": "利剑玫瑰 口型对不上",
+        "onboard_time": 1754314525,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463702,
+        "num": 71391,
+        "word": "王一博",
+        "onboard_time": 1754324061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92488,
+        "num": 71388,
+        "word": "赵露思说有点不敢推荐东西了",
+        "onboard_time": 1754324962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56661,
+        "num": 71352,
+        "word": "警方回应奔驰车被指逆行超车逼停摩托",
+        "onboard_time": 1754327598,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42379,
+        "num": 71347,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38345,
+        "num": 71321,
+        "word": "吴艳妮说13秒15拿冠军开心不起来",
+        "onboard_time": 1754324181,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58810,
+        "num": 71298,
+        "word": "王一博28岁是一个刚刚好的年纪",
+        "onboard_time": 1754325560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39405,
+        "num": 71288,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34791,
+        "num": 71256,
+        "word": "上海全款150万32平米的小家",
+        "onboard_time": 1754316506,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33615,
+        "num": 71247,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 18,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 33611,
+        "num": 71220,
+        "word": "短剧演员因利剑玫瑰被称电影脸",
+        "onboard_time": 1754310203,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45884,
+        "num": 71211,
+        "word": "赵薇被冻结1590万股权",
+        "onboard_time": 1754317766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32018,
+        "num": 71186,
+        "word": "律师回应14岁少女校外被殴打",
+        "onboard_time": 1754315964,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29045,
+        "num": 71174,
+        "word": "网友KTV偶遇张翰",
+        "onboard_time": 1754315725,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27751,
+        "num": 71144,
+        "word": "王安宇回应音乐节手抖",
+        "onboard_time": 1754326340,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26439,
+        "num": 71125,
+        "word": "薛之谦新歌",
+        "onboard_time": 1754302585,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25843,
+        "num": 71105,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23236,
+        "num": 71083,
+        "word": "体制内爱好红黑榜",
+        "onboard_time": 1754312723,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23183,
+        "num": 71074,
+        "word": "毕雯珺好帅",
+        "onboard_time": 1754319926,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22659,
+        "num": 71062,
+        "word": "刚出生就三十多岁的90后老baby",
+        "onboard_time": 1754308763,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22161,
+        "num": 71032,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32121,
+        "num": 71006,
+        "word": "睡过头没赶上飞机怎么办",
+        "onboard_time": 1754330836,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21299,
+        "num": 70998,
+        "word": "原来还有迪丽冷巴",
+        "onboard_time": 1754316265,
+        "rank": 31,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 20248,
+        "num": 70968,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 19840,
+        "num": 70962,
+        "word": "复旦MBA回应迅猛龙入读复旦",
+        "onboard_time": 1754332575,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19288,
+        "num": 70943,
+        "word": "光遇",
+        "onboard_time": 1754328078,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18780,
+        "num": 70920,
+        "word": "人民日报专访浪浪山小妖怪主创",
+        "onboard_time": 1754317826,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18609,
+        "num": 70895,
+        "word": "周杰伦晒儿子滑雪视频",
+        "onboard_time": 1754319386,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18282,
+        "num": 70883,
+        "word": "马景涛一个月打工3个景区",
+        "onboard_time": 1754330237,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18257,
+        "num": 70854,
+        "word": "龙亦瑞总选",
+        "onboard_time": 1754319986,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18051,
+        "num": 70841,
+        "word": "吴艳妮女子100米栏全国冠军",
+        "onboard_time": 1754316265,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18023,
+        "num": 70816,
+        "word": "陈奕恒学习了一些手语",
+        "onboard_time": 1754329397,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17978,
+        "num": 70810,
+        "word": "张若昀 年会不能停2",
+        "onboard_time": 1754317707,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17905,
+        "num": 70780,
+        "word": "3日到5日广东暴雨套餐上线",
+        "onboard_time": 1754331796,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17425,
+        "num": 70771,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17222,
+        "num": 70751,
+        "word": "鹿晗急得在嘴里炒了一盘菜",
+        "onboard_time": 1754332636,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17188,
+        "num": 70718,
+        "word": "心动的信号8",
+        "onboard_time": 1754303962,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16030,
+        "num": 70705,
+        "word": "第一次见这么多cp的恋综男嘉宾",
+        "onboard_time": 1754317107,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15912,
+        "num": 70691,
+        "word": "在佛山买这47种药须实名登记",
+        "onboard_time": 1754322562,
+        "rank": 47,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 15826,
+        "num": 70669,
+        "word": "白鹿白衬衫根正苗红",
+        "onboard_time": 1754321363,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15340,
+        "num": 70658,
+        "word": "活力中国调研行",
+        "onboard_time": 1754325740,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断实现人民对美好生活的向往#"
+    }
+  }
+}

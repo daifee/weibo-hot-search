@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754332918548,
+  "endTime": 1754333804185,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -6963,6 +6963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19840,
+      "num": 75824,
+      "word": "复旦MBA回应迅猛龙入读复旦",
+      "onboard_time": 1754332575,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 19566,
       "num": 253867,
       "word": "抗战烈士回信家人说国不保家何能存",
@@ -6985,14 +6993,6 @@
       "onboard_time": 1754293282,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18739,
-      "num": 75824,
-      "word": "复旦MBA回应迅猛龙入读复旦",
-      "onboard_time": 1754332575,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 18663,
