@@ -1,0 +1,410 @@
+{
+  "runTime": 1754315992748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5276167,
+        "num": 5276167,
+        "word": "赵露思被锁酒店驱魔",
+        "onboard_time": 1754315665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649173,
+        "num": 649173,
+        "word": "银行职员夫妻回应下班偷偷送外卖",
+        "onboard_time": 1754307982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6921,
+        "num": 461830,
+        "word": "解放军联合登陆演习高燃场面",
+        "onboard_time": 1754272942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2129316,
+        "num": 427002,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369737,
+        "num": 369737,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331630,
+        "num": 331630,
+        "word": "多个账号攻击爱国题材电影被禁言",
+        "onboard_time": 1754312664,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448004,
+        "num": 329644,
+        "word": "利剑玫瑰 口型对不上",
+        "onboard_time": 1754314525,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324267,
+        "num": 324267,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 444149,
+        "num": 323233,
+        "word": "短剧演员因利剑玫瑰被称电影脸",
+        "onboard_time": 1754310203,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321736,
+        "num": 321736,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 9,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 2636553,
+        "num": 320817,
+        "word": "赵露思 姐现在忍不了任何人",
+        "onboard_time": 1754314644,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603953,
+        "num": 319478,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493549,
+        "num": 319397,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1754311643,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316950,
+        "num": 316950,
+        "word": "朱天天 清融",
+        "onboard_time": 1754312244,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250610,
+        "num": 250610,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227344,
+        "num": 227344,
+        "word": "笔试17分进复审",
+        "onboard_time": 1754305401,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208193,
+        "num": 208193,
+        "word": "家长们为被霸凌女孩发声",
+        "onboard_time": 1754314345,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86273,
+        "num": 204469,
+        "word": "零跑凭啥连续五个月销量第一",
+        "onboard_time": 1754312843,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203159,
+        "num": 203159,
+        "word": "王青直播间",
+        "onboard_time": 1754313564,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200767,
+        "num": 200767,
+        "word": "网友KTV偶遇张翰",
+        "onboard_time": 1754315725,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195467,
+        "num": 198528,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 197865,
+        "num": 197865,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196412,
+        "num": 196412,
+        "word": "京东回应震虎价争议",
+        "onboard_time": 1754315005,
+        "rank": 22,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 186427,
+        "num": 186427,
+        "word": "女子捡到6斤干巴菌原地打跳庆祝",
+        "onboard_time": 1754310503,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175965,
+        "num": 175965,
+        "word": "我的对手居然是张新成",
+        "onboard_time": 1754314285,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172557,
+        "num": 172557,
+        "word": "杨洋眼前一黑又一黑",
+        "onboard_time": 1754312304,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62906,
+        "num": 165877,
+        "word": "官方回应教师招聘笔试17分考生进复审",
+        "onboard_time": 1754315365,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159283,
+        "num": 159283,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 2096780,
+        "num": 156867,
+        "word": "江油霸凌",
+        "onboard_time": 1754311583,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149592,
+        "num": 149592,
+        "word": "迪丽热巴新剧一整个普法教材",
+        "onboard_time": 1754315005,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145312,
+        "num": 145312,
+        "word": "体脂率多低才能看到腹肌",
+        "onboard_time": 1754310503,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142762,
+        "num": 142762,
+        "word": "体制内爱好红黑榜",
+        "onboard_time": 1754312723,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138846,
+        "num": 138846,
+        "word": "中国男篮亚洲杯12人大名单",
+        "onboard_time": 1754314345,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138192,
+        "num": 138192,
+        "word": "艺人杂志分红",
+        "onboard_time": 1754309484,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135174,
+        "num": 135174,
+        "word": "樊振东英文回复莫雷加德",
+        "onboard_time": 1754313203,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128408,
+        "num": 128408,
+        "word": "刚出生就三十多岁的90后老baby",
+        "onboard_time": 1754308763,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118078,
+        "num": 118078,
+        "word": "连云港队泰州队违规违纪被处罚",
+        "onboard_time": 1754309244,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117211,
+        "num": 117211,
+        "word": "举报史航女生再发声",
+        "onboard_time": 1754315185,
+        "rank": 37,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 20754,
+        "num": 116262,
+        "word": "容易内耗多做对抗类运动",
+        "onboard_time": 1754315665,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116069,
+        "num": 116069,
+        "word": "张新成当年的承诺兑现了",
+        "onboard_time": 1754315005,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114908,
+        "num": 114908,
+        "word": "一下班就下大雨真不是你的错觉",
+        "onboard_time": 1754315545,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103246,
+        "num": 103246,
+        "word": "胖东来看到烂片不开心可半价退款",
+        "onboard_time": 1754311223,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97069,
+        "num": 97069,
+        "word": "心动的信号8",
+        "onboard_time": 1754303962,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92556,
+        "num": 92556,
+        "word": "樊振东莫雷加德聚餐",
+        "onboard_time": 1754301383,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91858,
+        "num": 91858,
+        "word": "张雅钦sugar摇",
+        "onboard_time": 1754311764,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91131,
+        "num": 91131,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 89464,
+        "num": 89464,
+        "word": "他以婚礼名义拉起一支抗日队伍",
+        "onboard_time": 1754315606,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88412,
+        "num": 88412,
+        "word": "心动的offer给再就业艺人开一季吧",
+        "onboard_time": 1754311643,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86016,
+        "num": 86016,
+        "word": "93年月入4000元上下班的一天",
+        "onboard_time": 1754297964,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80834,
+        "num": 80834,
+        "word": "律师回应14岁少女校外被殴打",
+        "onboard_time": 1754315964,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}

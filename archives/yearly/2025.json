@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754315429266,
+  "endTime": 1754315992748,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1771,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5276167,
+      "num": 5276167,
+      "word": "赵露思被锁酒店驱魔",
+      "onboard_time": 1754315665,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5151427,
       "num": 1693005,
       "word": "吴佩慈医院送大S最后一程",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1746194251,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3874972,
-      "num": 3874972,
-      "word": "年轮被指抄袭蝶恋",
-      "onboard_time": 1754111421,
-      "rank": 0,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [

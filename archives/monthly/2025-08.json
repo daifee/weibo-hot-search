@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754315429266,
+  "endTime": 1754315992748,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -73,6 +73,14 @@
       "onboard_time": 1754042484,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5276167,
+      "num": 5276167,
+      "word": "赵露思被锁酒店驱魔",
+      "onboard_time": 1754315665,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3946933,
@@ -243,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2096780,
+      "num": 406618,
+      "word": "江油霸凌",
+      "onboard_time": 1754311583,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2030359,
       "num": 909594,
       "word": "杨清柠乔司离婚",
@@ -377,14 +393,6 @@
       "onboard_time": 1753969763,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1567898,
-      "num": 406618,
-      "word": "江油霸凌",
-      "onboard_time": 1754311583,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1567563,
@@ -1443,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 649173,
+      "num": 649173,
+      "word": "银行职员夫妻回应下班偷偷送外卖",
+      "onboard_time": 1754307982,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 643254,
       "num": 400437,
       "word": "吴倩带女儿逛街",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1754180001,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 604091,
-      "num": 604091,
-      "word": "银行职员夫妻回应下班偷偷送外卖",
-      "onboard_time": 1754307982,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 602442,
@@ -2161,6 +2169,14 @@
       "onboard_time": 1754051602,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448004,
+      "num": 329644,
+      "word": "利剑玫瑰 口型对不上",
+      "onboard_time": 1754314525,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 444551,
@@ -2875,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331630,
+      "num": 331630,
+      "word": "多个账号攻击爱国题材电影被禁言",
+      "onboard_time": 1754312664,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330086,
       "num": 330086,
       "word": "斗破苍穹",
@@ -3019,8 +3043,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315688,
-      "num": 315688,
+      "raw_hot": 316950,
+      "num": 316950,
       "word": "朱天天 清融",
       "onboard_time": 1754312244,
       "rank": 41,
@@ -3121,14 +3145,6 @@
       "onboard_time": 1754023403,
       "rank": 21,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 302745,
-      "num": 302745,
-      "word": "利剑玫瑰 口型对不上",
-      "onboard_time": 1754314525,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 301892,
@@ -3360,14 +3376,6 @@
       "word": "女子脚被扎伤后长出癌中之王",
       "onboard_time": 1754094740,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276710,
-      "num": 276710,
-      "word": "多个账号攻击爱国题材电影被禁言",
-      "onboard_time": 1754312664,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -4643,6 +4651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208193,
+      "num": 208193,
+      "word": "家长们为被霸凌女孩发声",
+      "onboard_time": 1754314345,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207857,
       "num": 207857,
       "word": "凉哈皮没别的",
@@ -4851,6 +4867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203159,
+      "num": 203159,
+      "word": "王青直播间",
+      "onboard_time": 1754313564,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203100,
       "num": 203100,
       "word": "KPL",
@@ -4963,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200767,
+      "num": 200767,
+      "word": "网友KTV偶遇张翰",
+      "onboard_time": 1754315725,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200645,
       "num": 200645,
       "word": "赵立坚推介成毅赴红尘",
@@ -5001,14 +5033,6 @@
       "onboard_time": 1754275223,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 199408,
-      "num": 199408,
-      "word": "王青直播间",
-      "onboard_time": 1754313564,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 199278,
@@ -5139,6 +5163,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 196412,
+      "num": 196412,
+      "word": "京东回应震虎价争议",
+      "onboard_time": 1754315005,
+      "rank": 22,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 196374,
       "num": 196374,
       "word": "余宇涵演唱会",
@@ -5169,14 +5201,6 @@
       "onboard_time": 1754134402,
       "rank": 18,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 195746,
-      "num": 195746,
-      "word": "京东回应震虎价争议",
-      "onboard_time": 1754315005,
-      "rank": 22,
-      "category": "互联网,汽车"
     },
     {
       "raw_hot": 195481,
@@ -6003,6 +6027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175965,
+      "num": 175965,
+      "word": "我的对手居然是张新成",
+      "onboard_time": 1754314285,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175803,
       "num": 175803,
       "word": "被骗缅甸获救高考生将学医学类专业",
@@ -6169,6 +6201,14 @@
       "onboard_time": 1754308763,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172557,
+      "num": 172557,
+      "word": "杨洋眼前一黑又一黑",
+      "onboard_time": 1754312304,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 172520,
@@ -6475,14 +6515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166831,
-      "num": 166831,
-      "word": "杨洋眼前一黑又一黑",
-      "onboard_time": 1754312304,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166750,
       "num": 170808,
       "word": "单依纯说何老师你摸我脚",
@@ -6633,14 +6665,6 @@
       "onboard_time": 1754052141,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 164109,
-      "num": 164109,
-      "word": "我的对手居然是张新成",
-      "onboard_time": 1754314285,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 164042,
@@ -7475,6 +7499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149592,
+      "num": 149592,
+      "word": "迪丽热巴新剧一整个普法教材",
+      "onboard_time": 1754315005,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149429,
       "num": 290257,
       "word": "华为乾崑再添一派",
@@ -7795,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145312,
+      "num": 145312,
+      "word": "体脂率多低才能看到腹肌",
+      "onboard_time": 1754310503,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 145230,
       "num": 145230,
       "word": "利剑玫瑰",
@@ -7969,6 +8009,14 @@
       "onboard_time": 1754200763,
       "rank": 39,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 142762,
+      "num": 142762,
+      "word": "体制内爱好红黑榜",
+      "onboard_time": 1754312723,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 142646,
@@ -8241,6 +8289,14 @@
       "onboard_time": 1754048783,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138846,
+      "num": 138846,
+      "word": "中国男篮亚洲杯12人大名单",
+      "onboard_time": 1754314345,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 138823,
@@ -8529,6 +8585,14 @@
       "onboard_time": 1754059703,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135174,
+      "num": 135174,
+      "word": "樊振东英文回复莫雷加德",
+      "onboard_time": 1754313203,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 135052,
@@ -8987,14 +9051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129547,
-      "num": 129547,
-      "word": "中国男篮亚洲杯12人大名单",
-      "onboard_time": 1754314345,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "SNH48香港演唱会",
@@ -9099,14 +9155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128241,
-      "num": 128241,
-      "word": "体脂率多低才能看到腹肌",
-      "onboard_time": 1754310503,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 128114,
       "num": 128114,
       "word": "女子轻信代抢演唱会门票被骗19万元",
@@ -9209,14 +9257,6 @@
       "onboard_time": 1754304623,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127110,
-      "num": 127110,
-      "word": "迪丽热巴新剧一整个普法教材",
-      "onboard_time": 1754315005,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 127052,
@@ -9505,14 +9545,6 @@
       "onboard_time": 1754284104,
       "rank": 44,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 123621,
-      "num": 123621,
-      "word": "家长们为被霸凌女孩发声",
-      "onboard_time": 1754314345,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123608,
@@ -9971,14 +10003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118933,
-      "num": 118933,
-      "word": "体制内爱好红黑榜",
-      "onboard_time": 1754312723,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118757,
       "num": 135842,
       "word": "女子报警硬刚清晨5点广场舞",
@@ -10083,6 +10107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117211,
+      "num": 117211,
+      "word": "举报史航女生再发声",
+      "onboard_time": 1754315185,
+      "rank": 39,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 117147,
       "num": 117147,
       "word": "苏超镇江vs南通",
@@ -10113,14 +10145,6 @@
       "onboard_time": 1754044764,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116764,
-      "num": 116764,
-      "word": "樊振东英文回复莫雷加德",
-      "onboard_time": 1754313203,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 116748,
@@ -10211,6 +10235,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 116069,
+      "num": 116069,
+      "word": "张新成当年的承诺兑现了",
+      "onboard_time": 1754315005,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115585,
       "num": 115585,
       "word": "原来热暴力比冷暴力有用",
@@ -10265,6 +10297,14 @@
       "onboard_time": 1754043684,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114908,
+      "num": 114908,
+      "word": "一下班就下大雨真不是你的错觉",
+      "onboard_time": 1754315545,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114857,
@@ -11067,14 +11107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101600,
-      "num": 101600,
-      "word": "张新成当年的承诺兑现了",
-      "onboard_time": 1754315005,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101547,
       "num": 270106,
       "word": "上汽奥迪A5L上赛首秀",
@@ -11707,6 +11739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89464,
+      "num": 89464,
+      "word": "他以婚礼名义拉起一支抗日队伍",
+      "onboard_time": 1754315606,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89246,
       "num": 89246,
       "word": "文俊辉首映礼生图",
@@ -11993,6 +12033,14 @@
       "onboard_time": 1754305401,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80834,
+      "num": 80834,
+      "word": "律师回应14岁少女校外被殴打",
+      "onboard_time": 1754315964,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80791,
@@ -12387,6 +12435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62906,
+      "num": 165877,
+      "word": "官方回应教师招聘笔试17分考生进复审",
+      "onboard_time": 1754315365,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62775,
       "num": 62775,
       "word": "赵露思工作室运营权",
@@ -12483,14 +12539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58725,
-      "num": 112499,
-      "word": "举报史航女生再发声",
-      "onboard_time": 1754315185,
-      "rank": 39,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 58570,
       "num": 190689,
       "word": "沙特一游乐场大摆锤断裂致23人受伤",
@@ -12520,14 +12568,6 @@
       "word": "多方回应女司机逆行顶撞交警",
       "onboard_time": 1754177420,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57363,
-      "num": 112501,
-      "word": "官方回应教师招聘笔试17分考生进复审",
-      "onboard_time": 1754315365,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -13393,6 +13433,14 @@
       "onboard_time": 1754075114,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20754,
+      "num": 116262,
+      "word": "容易内耗多做对抗类运动",
+      "onboard_time": 1754315665,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 20511,
