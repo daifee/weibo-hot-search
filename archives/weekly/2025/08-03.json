@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754291024026,
+  "endTime": 1754292980959,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810958,
+      "num": 810958,
+      "word": "张本智和炮轰日本联赛",
+      "onboard_time": 1754287701,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 805546,
       "num": 805546,
       "word": "男子与富婆离婚嫌分的钱少起诉获胜",
@@ -449,6 +457,14 @@
       "onboard_time": 1754278643,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 736410,
+      "num": 736410,
+      "word": "官方回应丁程鑫张真源人才引进",
+      "onboard_time": 1754289803,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 703936,
@@ -563,20 +579,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 643254,
+      "num": 337267,
+      "word": "吴倩带女儿逛街",
+      "onboard_time": 1754290702,
+      "rank": 17,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 637461,
       "num": 251322,
       "word": "葛夕晒离婚证",
       "onboard_time": 1754140232,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 635212,
-      "num": 635212,
-      "word": "张本智和炮轰日本联赛",
-      "onboard_time": 1754287701,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 623246,
@@ -603,12 +619,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 595602,
+      "num": 595602,
+      "word": "白鹿与英烈跨时空对话看泪目了",
+      "onboard_time": 1754290583,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 584266,
       "num": 584266,
       "word": "电影刺杀小说家2定档",
       "onboard_time": 1754273962,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 579795,
+      "num": 234291,
+      "word": "北京女子去世无子女亲戚起诉分遗产",
+      "onboard_time": 1754289623,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 578746,
@@ -740,7 +772,7 @@
     },
     {
       "raw_hot": 519700,
-      "num": 279460,
+      "num": 330445,
       "word": "14岁女孩遭殴打两人被送学校矫正",
       "onboard_time": 1754271980,
       "rank": 3,
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379427,
+      "num": 219368,
+      "word": "终于学会漂漂亮亮不随份子钱",
+      "onboard_time": 1754290223,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379118,
       "num": 250888,
       "word": "易烊千玺好美",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1754222365,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378098,
-      "num": 378098,
-      "word": "官方回应丁程鑫张真源人才引进",
-      "onboard_time": 1754289803,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 375923,
@@ -1363,6 +1395,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 276286,
+      "num": 276286,
+      "word": "王安宇抖成这样",
+      "onboard_time": 1754291722,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275658,
       "num": 246329,
       "word": "贾玲股四头肌",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1754228605,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267796,
+      "num": 267796,
+      "word": "库克感谢中国国补政策",
+      "onboard_time": 1754291964,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 267367,
@@ -1539,14 +1587,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 240649,
-      "num": 240649,
-      "word": "吴倩带女儿逛街",
-      "onboard_time": 1754290702,
-      "rank": 17,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 238436,
       "num": 238436,
       "word": "3天后就立秋了",
@@ -1579,20 +1619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234291,
-      "num": 234291,
-      "word": "北京女子去世无子女亲戚起诉分遗产",
-      "onboard_time": 1754289623,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231407,
       "num": 336817,
       "word": "男子花87万办了300年的健身卡",
       "onboard_time": 1754235325,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231112,
+      "num": 231112,
+      "word": "毛不易私下向李雪琴打听李诞八卦",
+      "onboard_time": 1754289981,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 228335,
@@ -1619,14 +1659,6 @@
       "category": "读书作家,电竞"
     },
     {
-      "raw_hot": 225258,
-      "num": 331294,
-      "word": "白鹿与英烈跨时空对话看泪目了",
-      "onboard_time": 1754290583,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 225182,
       "num": 225182,
       "word": "TVB男演员做香港旅行陪玩",
@@ -1635,20 +1667,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225149,
-      "num": 152821,
-      "word": "终于学会漂漂亮亮不随份子钱",
-      "onboard_time": 1754290223,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 225073,
       "num": 175365,
       "word": "建议大家永远不要向下兼容",
       "onboard_time": 1754273360,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224982,
+      "num": 370939,
+      "word": "工作每延长1小时患疾病风险越高",
+      "onboard_time": 1754288721,
+      "rank": 31,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 222788,
@@ -1771,14 +1803,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 205738,
-      "num": 205738,
-      "word": "毛不易私下向李雪琴打听李诞八卦",
-      "onboard_time": 1754289981,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205393,
       "num": 205393,
       "word": "B萌",
@@ -1865,6 +1889,14 @@
       "onboard_time": 1754196384,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 200784,
+      "num": 200784,
+      "word": "LadyGaga带Labubu出街",
+      "onboard_time": 1754291423,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 199662,
@@ -2201,14 +2233,6 @@
       "onboard_time": 1754233885,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178596,
-      "num": 178596,
-      "word": "工作每延长1小时患疾病风险越高",
-      "onboard_time": 1754288721,
-      "rank": 31,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 177952,
@@ -2739,6 +2763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151958,
+      "num": 151958,
+      "word": "刘宇宁是真害怕了",
+      "onboard_time": 1754288183,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151553,
       "num": 151553,
       "word": "女司机称收到来自7省份的挪车信息",
@@ -2809,14 +2841,6 @@
       "onboard_time": 1754229146,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148486,
-      "num": 148486,
-      "word": "刘宇宁是真害怕了",
-      "onboard_time": 1754288183,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 147754,
@@ -3003,6 +3027,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 142408,
+      "num": 142408,
+      "word": "北京暴雨",
+      "onboard_time": 1754292622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142354,
       "num": 241455,
       "word": "IU宝剑结婚 钟硕那边我去说",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1754273302,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141736,
+      "num": 141736,
+      "word": "成龙巴特勒拿下一分咬下一分",
+      "onboard_time": 1754291003,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 141584,
@@ -3531,6 +3571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123298,
+      "num": 123298,
+      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
+      "onboard_time": 1754289623,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123296,
       "num": 123296,
       "word": "王玉雯元气小厨娘",
@@ -3691,6 +3739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120056,
+      "num": 120056,
+      "word": "每天1杯无糖饮料患糖尿病风险增38%",
+      "onboard_time": 1754291782,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119898,
       "num": 119898,
       "word": "王安宇新歌制作人是小鬼",
@@ -3763,6 +3819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116431,
+      "num": 116431,
+      "word": "巨人网络股价涨停",
+      "onboard_time": 1754291782,
+      "rank": 34,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 116358,
       "num": 116358,
       "word": "邓妍才是迪丽热巴原皮吧",
@@ -3817,14 +3881,6 @@
       "onboard_time": 1754138725,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113786,
-      "num": 113786,
-      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
-      "onboard_time": 1754289623,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113645,
@@ -3891,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112087,
+      "num": 112087,
+      "word": "迪丽热巴低饱和巴恩风穿搭",
+      "onboard_time": 1754291722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112062,
       "num": 112062,
       "word": "俄罗斯再遭袭",
@@ -3905,6 +3969,14 @@
       "onboard_time": 1754151444,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111292,
+      "num": 163879,
+      "word": "合肥一永辉超市蛋挞上现活蟑螂",
+      "onboard_time": 1754289082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111020,
@@ -3977,6 +4049,14 @@
       "onboard_time": 1754282665,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109695,
+      "num": 109695,
+      "word": "鹿晗四巡北京站终于上桌",
+      "onboard_time": 1754292862,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 109527,
@@ -4131,14 +4211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102302,
-      "num": 102302,
-      "word": "成龙巴特勒拿下一分咬下一分",
-      "onboard_time": 1754291003,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 101746,
       "num": 101377,
       "word": "人一旦戴上了运动手表",
@@ -4177,6 +4249,14 @@
       "onboard_time": 1754146711,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99705,
+      "num": 99705,
+      "word": "军工装备板块集体爆发",
+      "onboard_time": 1754292442,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 99591,
@@ -4251,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96720,
+      "num": 96720,
+      "word": "心动的信号8全员初见晚宴",
+      "onboard_time": 1754291661,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96373,
       "num": 96373,
       "word": "奔驰女司机丈夫或面临相应政务处分",
@@ -4281,6 +4369,14 @@
       "onboard_time": 1754178260,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95760,
+      "num": 109887,
+      "word": "至珍七虾堡",
+      "onboard_time": 1754292383,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 95150,
@@ -4715,14 +4811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72181,
-      "num": 163879,
-      "word": "合肥一永辉超市蛋挞上现活蟑螂",
-      "onboard_time": 1754289082,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71956,
       "num": 71956,
       "word": "赵心童遭6连鞭",
@@ -4812,7 +4900,7 @@
     },
     {
       "raw_hot": 66315,
-      "num": 345349,
+      "num": 357599,
       "word": "樊振东巴黎奥运夺金一周年",
       "onboard_time": 1754289803,
       "rank": 11,
@@ -5147,6 +5235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28421,
+      "num": 110275,
+      "word": "金泰亨坐田柾国怀里",
+      "onboard_time": 1754292383,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27476,
       "num": 30488,
       "word": "晚晚为什么站在框里",
@@ -5225,6 +5321,14 @@
       "onboard_time": 1754248995,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20742,
+      "num": 750639,
+      "word": "航母编队赴西太平洋训练详情公开",
+      "onboard_time": 1754269883,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 20511,
