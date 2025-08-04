@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754342921025,
+  "endTime": 1754343838696,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -459,7 +459,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37812,
+      "raw_hot": 37846,
       "num": 76468,
       "word": "3日到5日广东暴雨套餐上线",
       "onboard_time": 1754331796,
@@ -489,6 +489,14 @@
       "onboard_time": 1754328078,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26948,
+      "num": 27624,
+      "word": "韩将取消外国游客医美退税",
+      "onboard_time": 1754340735,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26859,
@@ -539,15 +547,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20645,
-      "num": 27624,
-      "word": "韩将取消外国游客医美退税",
-      "onboard_time": 1754340735,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20364,
+      "raw_hot": 21349,
       "num": 37352,
       "word": "穿着尿不湿全网最小救生员",
       "onboard_time": 1754339355,
@@ -563,6 +563,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15852,
+      "num": 27592,
+      "word": "穿搭博主眼里没有丑衣服",
+      "onboard_time": 1754341755,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 15398,
+      "num": 27588,
+      "word": "6种人真的不适合当朋友",
+      "onboard_time": 1754342114,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15251,
       "num": 45358,
       "word": "德约科维奇纪念金满贯一周年",
@@ -571,23 +587,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13567,
-      "num": 27592,
-      "word": "穿搭博主眼里没有丑衣服",
-      "onboard_time": 1754341755,
-      "rank": 41,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 12709,
-      "num": 27588,
-      "word": "6种人真的不适合当朋友",
-      "onboard_time": 1754342114,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 11250,
+      "raw_hot": 13521,
       "num": 27581,
       "word": "京津冀又有大暴雨",
       "onboard_time": 1754341514,
