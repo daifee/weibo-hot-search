@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754286120056,
+  "endTime": 1754287161009,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 942769,
-      "num": 194184,
+      "num": 196701,
       "word": "学费44万的大学录取通知书长什么样",
       "onboard_time": 1754282365,
       "rank": 40,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423543,
+      "num": 423543,
+      "word": "韩国汉江出现不明生物吓跑钓鱼男子",
+      "onboard_time": 1754280444,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 418108,
       "num": 253302,
       "word": "管乐回应和小酒窝长得像",
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337211,
+      "num": 231105,
+      "word": "王一博首支香奈儿广告大片",
+      "onboard_time": 1754283984,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 336868,
       "num": 336868,
       "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
@@ -353,14 +369,6 @@
       "onboard_time": 1754279663,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303159,
-      "num": 303159,
-      "word": "韩国汉江出现不明生物吓跑钓鱼男子",
-      "onboard_time": 1754280444,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 300506,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253738,
+      "num": 205951,
+      "word": "赵露思说现在是崩溃后的平静",
+      "onboard_time": 1754286921,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245875,
       "num": 245875,
       "word": "林志炫鼻窦炎手术是歌迷做的",
@@ -483,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230838,
+      "num": 193637,
+      "word": "6岁男童小区内被犬只撕咬下体",
+      "onboard_time": 1754284523,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228335,
       "num": 228335,
       "word": "原神菲林斯",
@@ -523,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218063,
-      "num": 193637,
-      "word": "6岁男童小区内被犬只撕咬下体",
-      "onboard_time": 1754284523,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213686,
       "num": 213686,
       "word": "肖战粤语角色来了",
@@ -545,14 +561,6 @@
       "onboard_time": 1754232085,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 211576,
-      "num": 193947,
-      "word": "王一博首支香奈儿广告大片",
-      "onboard_time": 1754283984,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 207782,
@@ -659,6 +667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 186310,
+      "num": 186310,
+      "word": "徐明浩希望另一半比自己e",
+      "onboard_time": 1754286383,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186225,
       "num": 186225,
       "word": "杨清柠 王乐乐",
@@ -705,6 +721,14 @@
       "onboard_time": 1754270482,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173890,
+      "num": 173890,
+      "word": "王一博COCOCRUSH海报",
+      "onboard_time": 1754286562,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 170026,
@@ -787,12 +811,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159653,
+      "num": 159653,
+      "word": "鸡蛋存放多久就不能吃了",
+      "onboard_time": 1754286083,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156151,
       "num": 156151,
       "word": "美国低收入家庭的晚餐",
       "onboard_time": 1754224464,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155417,
+      "num": 155417,
+      "word": "十个勤天",
+      "onboard_time": 1754286562,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 151198,
@@ -827,6 +867,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 145118,
+      "num": 145118,
+      "word": "徐如蓝魅魔型人格",
+      "onboard_time": 1754285963,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145095,
       "num": 145095,
       "word": "魏劭行为请勿上升刘宇宁",
@@ -851,14 +899,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141304,
-      "num": 141304,
-      "word": "徐如蓝魅魔型人格",
-      "onboard_time": 1754285963,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141052,
       "num": 141052,
       "word": "秃子 Asen",
@@ -881,6 +921,22 @@
       "onboard_time": 1754282605,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134191,
+      "num": 134191,
+      "word": "鹿晗season4亚洲巡演",
+      "onboard_time": 1754286862,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 132576,
+      "num": 132576,
+      "word": "以后萝卜岗就标出来吧",
+      "onboard_time": 1754286921,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 130738,
@@ -971,6 +1027,22 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 120828,
+      "num": 207621,
+      "word": "部分日本人不满交单身税补贴生育",
+      "onboard_time": 1754281886,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120229,
+      "num": 120229,
+      "word": "打暑假工前vs打暑假工后",
+      "onboard_time": 1754286803,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119079,
       "num": 185705,
       "word": "陈梦说女运动员也有追求美的权利",
@@ -985,6 +1057,22 @@
       "onboard_time": 1754234244,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118148,
+      "num": 118148,
+      "word": "易烊千玺唱着Fly就飞起来了",
+      "onboard_time": 1754287102,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 118059,
+      "num": 111026,
+      "word": "龚俊喊刘宇宁坐自己副驾",
+      "onboard_time": 1754286862,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 117967,
@@ -1043,28 +1131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110030,
+      "num": 194050,
+      "word": "灵隐寺的辣椒酱超辣有人想代购",
+      "onboard_time": 1754284883,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109883,
       "num": 109883,
       "word": "杨洋3句台词6个心眼",
       "onboard_time": 1754282665,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109843,
-      "num": 109843,
-      "word": "鸡蛋存放多久就不能吃了",
-      "onboard_time": 1754286083,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109833,
-      "num": 207621,
-      "word": "部分日本人不满交单身税补贴生育",
-      "onboard_time": 1754281886,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109683,
@@ -1099,14 +1179,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 107171,
-      "num": 194050,
-      "word": "灵隐寺的辣椒酱超辣有人想代购",
-      "onboard_time": 1754284883,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105369,
       "num": 105369,
       "word": "缅甸失联20岁小伙母亲哭诉要卖房救子",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1754205685,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101988,
+      "num": 189307,
+      "word": "北京这7区市民非必要不外出",
+      "onboard_time": 1754286921,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100998,
@@ -1379,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59508,
+      "num": 165888,
+      "word": "北京发洪水蓝色预警",
+      "onboard_time": 1754281646,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59319,
       "num": 68532,
       "word": "成龙梁家辉法拉利老了还是法拉利",
@@ -1435,14 +1523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 48035,
-      "num": 146312,
-      "word": "北京发洪水蓝色预警",
-      "onboard_time": 1754281646,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41053,
       "num": 50414,
       "word": "安静公主自曝睡医院地上",
@@ -1457,6 +1537,14 @@
       "onboard_time": 1754263579,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39435,
+      "num": 120232,
+      "word": "王灿晒跟周杰伦合影旧照",
+      "onboard_time": 1754286982,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 38970,
@@ -1480,6 +1568,14 @@
       "word": "莫迪呼吁印度人买国货",
       "onboard_time": 1754243717,
       "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24136,
+      "num": 172868,
+      "word": "哈马斯曝光以色列人质画面",
+      "onboard_time": 1754285482,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -1507,20 +1603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18068,
-      "num": 172868,
-      "word": "哈马斯曝光以色列人质画面",
-      "onboard_time": 1754285482,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15505,
       "num": 21006,
       "word": "椰子蛋里装了10个外卖骑手",
       "onboard_time": 1754248816,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11331,
+      "num": 120235,
+      "word": "杨幂曾说等着看我变得更强大",
+      "onboard_time": 1754279244,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 7483,

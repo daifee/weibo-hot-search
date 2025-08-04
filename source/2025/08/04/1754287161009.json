@@ -1,0 +1,410 @@
+{
+  "runTime": 1754287161009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1279928,
+        "num": 1279928,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 836317,
+        "num": 836317,
+        "word": "赵露思直播同款被卖断货",
+        "onboard_time": 1754279843,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48933,
+        "num": 830984,
+        "word": "山东舰辽宁舰并肩向前",
+        "onboard_time": 1754268262,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1099246,
+        "num": 830329,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 3,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 826548,
+        "num": 826548,
+        "word": "电影731提示未满18岁请谨慎观看",
+        "onboard_time": 1754283265,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423543,
+        "num": 423543,
+        "word": "韩国汉江出现不明生物吓跑钓鱼男子",
+        "onboard_time": 1754280444,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 385780,
+        "num": 385780,
+        "word": "内裤袜子混洗把脚气真菌传到面部",
+        "onboard_time": 1754280084,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 381219,
+        "num": 381219,
+        "word": "唐国强不知道假唱也要举话筒",
+        "onboard_time": 1754281584,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372455,
+        "num": 372455,
+        "word": "韩国演员宋英奎去世",
+        "onboard_time": 1754276662,
+        "rank": 8,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 248643,
+        "num": 248643,
+        "word": "泰国僧侣性丑闻",
+        "onboard_time": 1754280444,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1408285,
+        "num": 247700,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337211,
+        "num": 231105,
+        "word": "王一博首支香奈儿广告大片",
+        "onboard_time": 1754283984,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 295479,
+        "num": 226161,
+        "word": "亲生和亲自生的区别",
+        "onboard_time": 1754278643,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286045,
+        "num": 208682,
+        "word": "导演说迪丽热巴付出牺牲特别大",
+        "onboard_time": 1754280204,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207411,
+        "num": 207411,
+        "word": "白马寺每天提供60多桶水供游客饮用",
+        "onboard_time": 1754279484,
+        "rank": 14,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 346287,
+        "num": 206154,
+        "word": "李登科否认娜扎分手",
+        "onboard_time": 1754282306,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253738,
+        "num": 205951,
+        "word": "赵露思说现在是崩溃后的平静",
+        "onboard_time": 1754286921,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213378,
+        "num": 204058,
+        "word": "黄奕带女儿赴韩国学习唱跳",
+        "onboard_time": 1754273901,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199375,
+        "num": 199375,
+        "word": "男子在景区坠崖身亡目击者发声",
+        "onboard_time": 1754277022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126340,
+        "num": 197435,
+        "word": "3天后就立秋了",
+        "onboard_time": 1754268562,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 921133,
+        "num": 196701,
+        "word": "学费44万的大学录取通知书长什么样",
+        "onboard_time": 1754282365,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230838,
+        "num": 193124,
+        "word": "6岁男童小区内被犬只撕咬下体",
+        "onboard_time": 1754284523,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214761,
+        "num": 191027,
+        "word": "查尔莫斯取关潘展乐",
+        "onboard_time": 1754281705,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101988,
+        "num": 189307,
+        "word": "北京这7区市民非必要不外出",
+        "onboard_time": 1754286921,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187481,
+        "num": 187481,
+        "word": "哪吒捕妖队 2.5亿人",
+        "onboard_time": 1754282365,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186310,
+        "num": 186310,
+        "word": "徐明浩希望另一半比自己e",
+        "onboard_time": 1754286383,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173890,
+        "num": 173890,
+        "word": "王一博COCOCRUSH海报",
+        "onboard_time": 1754286562,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 59508,
+        "num": 165888,
+        "word": "北京发洪水蓝色预警",
+        "onboard_time": 1754281646,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159653,
+        "num": 159653,
+        "word": "鸡蛋存放多久就不能吃了",
+        "onboard_time": 1754286083,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24136,
+        "num": 157246,
+        "word": "哈马斯曝光以色列人质画面",
+        "onboard_time": 1754285482,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155417,
+        "num": 155417,
+        "word": "十个勤天",
+        "onboard_time": 1754286562,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150202,
+        "num": 150202,
+        "word": "黄奕女儿韩国体验练习生",
+        "onboard_time": 1754272402,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145118,
+        "num": 145118,
+        "word": "徐如蓝魅魔型人格",
+        "onboard_time": 1754285963,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143083,
+        "num": 143083,
+        "word": "肖战粤语角色来了",
+        "onboard_time": 1754285601,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134191,
+        "num": 134191,
+        "word": "鹿晗season4亚洲巡演",
+        "onboard_time": 1754286862,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132576,
+        "num": 132576,
+        "word": "以后萝卜岗就标出来吧",
+        "onboard_time": 1754286921,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125282,
+        "num": 125282,
+        "word": "深圳将迎今年以来最强暴雨",
+        "onboard_time": 1754279003,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120828,
+        "num": 120828,
+        "word": "部分日本人不满交单身税补贴生育",
+        "onboard_time": 1754281886,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11331,
+        "num": 120235,
+        "word": "杨幂曾说等着看我变得更强大",
+        "onboard_time": 1754279244,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39435,
+        "num": 120232,
+        "word": "王灿晒跟周杰伦合影旧照",
+        "onboard_time": 1754286982,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120229,
+        "num": 120229,
+        "word": "打暑假工前vs打暑假工后",
+        "onboard_time": 1754286803,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118148,
+        "num": 118148,
+        "word": "易烊千玺唱着Fly就飞起来了",
+        "onboard_time": 1754287102,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111099,
+        "num": 111099,
+        "word": "管乐回应和小酒窝长得像",
+        "onboard_time": 1754278162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 111026,
+        "word": "龚俊喊刘宇宁坐自己副驾",
+        "onboard_time": 1754286862,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110030,
+        "num": 110030,
+        "word": "灵隐寺的辣椒酱超辣有人想代购",
+        "onboard_time": 1754284883,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109204,
+        "num": 109204,
+        "word": "印度一警察向洪水献上牛奶花瓣",
+        "onboard_time": 1754281886,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107349,
+        "num": 107349,
+        "word": "心动的信号",
+        "onboard_time": 1754279244,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94604,
+        "num": 107183,
+        "word": "不死之身樊振东",
+        "onboard_time": 1754285843,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107132,
+        "num": 107132,
+        "word": "魏劭行为请勿上升刘宇宁",
+        "onboard_time": 1754285601,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100445,
+        "num": 105821,
+        "word": "樊振东点赞潘展乐微博",
+        "onboard_time": 1754285904,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就网民对十五五建议作出重要指示#"
+    }
+  }
+}
