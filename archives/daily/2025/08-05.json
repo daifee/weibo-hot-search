@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754335590125,
+  "endTime": 1754336487937,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26626,
+      "num": 75824,
+      "word": "复旦MBA回应迅猛龙入读复旦",
+      "onboard_time": 1754332575,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25921,
       "num": 120785,
       "word": "陈奕恒学习了一些手语",
@@ -491,12 +499,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22868,
-      "num": 75824,
-      "word": "复旦MBA回应迅猛龙入读复旦",
-      "onboard_time": 1754332575,
-      "rank": 45,
-      "category": "网红"
+      "raw_hot": 24312,
+      "num": 45408,
+      "word": "第一次见这么混血的语言系统",
+      "onboard_time": 1754333955,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 23256,
+      "num": 46115,
+      "word": "中国船舶将吸收合并中国重工",
+      "onboard_time": 1754334315,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22238,
@@ -505,14 +521,6 @@
       "onboard_time": 1754330237,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21723,
-      "num": 45408,
-      "word": "第一次见这么混血的语言系统",
-      "onboard_time": 1754333955,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 21636,
@@ -531,20 +539,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17106,
-      "num": 46115,
-      "word": "中国船舶将吸收合并中国重工",
-      "onboard_time": 1754334315,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15251,
       "num": 45358,
       "word": "德约科维奇纪念金满贯一周年",
       "onboard_time": 1754334255,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12511,
+      "num": 45784,
+      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
+      "onboard_time": 1754334374,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1835,
