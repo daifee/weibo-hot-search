@@ -1,0 +1,410 @@
+{
+  "runTime": 1754291024026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1065676,
+        "num": 1170508,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 648787,
+        "num": 648787,
+        "word": "电影731提示未满18岁请谨慎观看",
+        "onboard_time": 1754283265,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39757,
+        "num": 640466,
+        "word": "山东舰辽宁舰并肩向前",
+        "onboard_time": 1754268262,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 733064,
+        "num": 638718,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 3,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 635212,
+        "num": 635212,
+        "word": "张本智和炮轰日本联赛",
+        "onboard_time": 1754287701,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623246,
+        "num": 623246,
+        "word": "网传金九女王迪丽热巴",
+        "onboard_time": 1754288961,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519421,
+        "num": 519421,
+        "word": "内裤袜子混洗把脚气真菌传到面部",
+        "onboard_time": 1754280084,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 397754,
+        "num": 397754,
+        "word": "王一博首支香奈儿广告大片",
+        "onboard_time": 1754283984,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 378098,
+        "num": 378098,
+        "word": "官方回应丁程鑫张真源人才引进",
+        "onboard_time": 1754289803,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375923,
+        "num": 375923,
+        "word": "北京这7区市民非必要不外出",
+        "onboard_time": 1754286921,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1041696,
+        "num": 373263,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875005,
+        "num": 355177,
+        "word": "以后萝卜岗就标出来吧",
+        "onboard_time": 1754286921,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51988,
+        "num": 345349,
+        "word": "樊振东巴黎奥运夺金一周年",
+        "onboard_time": 1754289803,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225258,
+        "num": 331294,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 330770,
+        "num": 330770,
+        "word": "韩国汉江出现不明生物吓跑钓鱼男子",
+        "onboard_time": 1754280444,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 309229,
+        "num": 309229,
+        "word": "赵丽颖金蛇单肩裙",
+        "onboard_time": 1754288603,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255655,
+        "num": 255655,
+        "word": "赵露思说现在是崩溃后的平静",
+        "onboard_time": 1754286921,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240649,
+        "num": 240649,
+        "word": "吴倩带女儿逛街",
+        "onboard_time": 1754290702,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 234932,
+        "num": 234932,
+        "word": "韩国演员宋英奎去世",
+        "onboard_time": 1754276662,
+        "rank": 18,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 234291,
+        "num": 234291,
+        "word": "北京女子去世无子女亲戚起诉分遗产",
+        "onboard_time": 1754289623,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593752,
+        "num": 234008,
+        "word": "学费44万的大学录取通知书长什么样",
+        "onboard_time": 1754282365,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 269084,
+        "num": 233981,
+        "word": "鸡蛋存放多久就不能吃了",
+        "onboard_time": 1754286083,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232965,
+        "num": 232965,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211500,
+        "num": 211500,
+        "word": "6岁男童小区内被犬只撕咬下体",
+        "onboard_time": 1754284523,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205738,
+        "num": 205738,
+        "word": "毛不易私下向李雪琴打听李诞八卦",
+        "onboard_time": 1754289981,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200736,
+        "num": 200736,
+        "word": "查尔莫斯取关潘展乐",
+        "onboard_time": 1754281705,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179663,
+        "num": 179663,
+        "word": "十个勤天",
+        "onboard_time": 1754286562,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178596,
+        "num": 178596,
+        "word": "工作每延长1小时患疾病风险越高",
+        "onboard_time": 1754288721,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 176271,
+        "num": 176271,
+        "word": "孙颖莎说训练和比赛是最重要的事",
+        "onboard_time": 1754290522,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16992,
+        "num": 158425,
+        "word": "心动的信号破冰全靠这瓶茉莉",
+        "onboard_time": 1754289803,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225149,
+        "num": 152821,
+        "word": "终于学会漂漂亮亮不随份子钱",
+        "onboard_time": 1754290223,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144938,
+        "num": 144938,
+        "word": "李登科否认娜扎分手",
+        "onboard_time": 1754282306,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140191,
+        "num": 140191,
+        "word": "男子在景区坠崖身亡目击者发声",
+        "onboard_time": 1754277022,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137742,
+        "num": 137742,
+        "word": "丁程鑫张真源拟北京人才引进",
+        "onboard_time": 1754289623,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131320,
+        "num": 131320,
+        "word": "刘宇宁是真害怕了",
+        "onboard_time": 1754288183,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96950,
+        "num": 131030,
+        "word": "记者暗访调查养生馆骗局",
+        "onboard_time": 1754289082,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87356,
+        "num": 130961,
+        "word": "95岁奶奶反复念叨要回新疆种瓜",
+        "onboard_time": 1754288482,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130933,
+        "num": 130933,
+        "word": "导演说迪丽热巴付出牺牲特别大",
+        "onboard_time": 1754280204,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22140,
+        "num": 125124,
+        "word": "牛津偶遇郭涛一家四口",
+        "onboard_time": 1754290881,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761152,
+        "num": 125050,
+        "word": "赵露思直播同款被卖断货",
+        "onboard_time": 1754279843,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 124520,
+        "word": "张新成上海首唱会秒售罄",
+        "onboard_time": 1754289504,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119225,
+        "num": 119225,
+        "word": "泰国僧侣性丑闻",
+        "onboard_time": 1754280444,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118528,
+        "num": 118528,
+        "word": "唐国强不知道假唱也要举话筒",
+        "onboard_time": 1754281584,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113786,
+        "num": 113786,
+        "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
+        "onboard_time": 1754289623,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72181,
+        "num": 110446,
+        "word": "合肥一永辉超市蛋挞上现活蟑螂",
+        "onboard_time": 1754289082,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109232,
+        "num": 109232,
+        "word": "黄奕带女儿赴韩国学习唱跳",
+        "onboard_time": 1754273901,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104001,
+        "num": 104001,
+        "word": "北京一检察长一审被判死缓",
+        "onboard_time": 1754288843,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102592,
+        "num": 102592,
+        "word": "减肥一个月成功减掉了30天",
+        "onboard_time": 1754288603,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 102302,
+        "num": 102302,
+        "word": "成龙巴特勒拿下一分咬下一分",
+        "onboard_time": 1754291003,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102121,
+        "num": 102121,
+        "word": "山海奇都皮肤",
+        "onboard_time": 1754289561,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#广泛深入察民情听民声汇民智#"
+    }
+  }
+}
