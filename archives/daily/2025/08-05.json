@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754343838696,
+  "endTime": 1754346524491,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259643,
+      "num": 421820,
+      "word": "赵薇被冻结1590万股权",
+      "onboard_time": 1754317766,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253829,
       "num": 201840,
       "word": "白鹿报警",
@@ -105,14 +113,6 @@
       "onboard_time": 1754314525,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192422,
-      "num": 122083,
-      "word": "赵薇被冻结1590万股权",
-      "onboard_time": 1754317766,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 177972,
@@ -291,6 +291,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 71494,
+      "num": 121324,
+      "word": "警方回应奔驰车被指逆行超车逼停摩托",
+      "onboard_time": 1754327598,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69825,
       "num": 120986,
       "word": "杭州一夫妻争吵后丈夫跳河身亡",
@@ -305,14 +313,6 @@
       "onboard_time": 1754321363,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 66964,
-      "num": 121324,
-      "word": "警方回应奔驰车被指逆行超车逼停摩托",
-      "onboard_time": 1754327598,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66939,
@@ -353,6 +353,14 @@
       "onboard_time": 1754319986,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60256,
+      "num": 60256,
+      "word": "京津冀又有大暴雨",
+      "onboard_time": 1754341514,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59970,
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52375,
+      "num": 121362,
+      "word": "律师回应14岁少女校外被殴打",
+      "onboard_time": 1754315964,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51595,
       "num": 54518,
       "word": "一下班就下大雨真不是你的错觉",
@@ -416,14 +432,6 @@
       "word": "台湾姑娘分享对大陆喜爱遭恶意攻击",
       "onboard_time": 1754318606,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49282,
-      "num": 121362,
-      "word": "律师回应14岁少女校外被殴打",
-      "onboard_time": 1754315964,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -443,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44733,
+      "num": 45784,
+      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
+      "onboard_time": 1754334374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43269,
       "num": 45408,
       "word": "第一次见这么混血的语言系统",
@@ -451,12 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39238,
-      "num": 45784,
-      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
-      "onboard_time": 1754334374,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 40263,
+      "num": 40263,
+      "word": "韩将取消外国游客医美退税",
+      "onboard_time": 1754340735,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37846,
@@ -465,6 +481,30 @@
       "onboard_time": 1754331796,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36746,
+      "num": 76503,
+      "word": "马景涛一个月打工3个景区",
+      "onboard_time": 1754330237,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35033,
+      "num": 46115,
+      "word": "中国船舶将吸收合并中国重工",
+      "onboard_time": 1754334315,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34644,
+      "num": 34644,
+      "word": "6种人真的不适合当朋友",
+      "onboard_time": 1754342114,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 33221,
@@ -483,20 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32493,
+      "num": 37352,
+      "word": "穿着尿不湿全网最小救生员",
+      "onboard_time": 1754339355,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31044,
       "num": 121105,
       "word": "光遇",
       "onboard_time": 1754328078,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26948,
-      "num": 27624,
-      "word": "韩将取消外国游客医美退税",
-      "onboard_time": 1754340735,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 26859,
@@ -531,28 +571,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23256,
-      "num": 46115,
-      "word": "中国船舶将吸收合并中国重工",
-      "onboard_time": 1754334315,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22238,
-      "num": 76503,
-      "word": "马景涛一个月打工3个景区",
-      "onboard_time": 1754330237,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21349,
-      "num": 37352,
-      "word": "穿着尿不湿全网最小救生员",
-      "onboard_time": 1754339355,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 25120,
+      "num": 29761,
+      "word": "穿搭博主眼里没有丑衣服",
+      "onboard_time": 1754341755,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 18663,
@@ -563,36 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15852,
-      "num": 27592,
-      "word": "穿搭博主眼里没有丑衣服",
-      "onboard_time": 1754341755,
-      "rank": 41,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 15398,
-      "num": 27588,
-      "word": "6种人真的不适合当朋友",
-      "onboard_time": 1754342114,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 15251,
       "num": 45358,
       "word": "德约科维奇纪念金满贯一周年",
       "onboard_time": 1754334255,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13521,
-      "num": 27581,
-      "word": "京津冀又有大暴雨",
-      "onboard_time": 1754341514,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1835,
