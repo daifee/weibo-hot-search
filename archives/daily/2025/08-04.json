@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754313384068,
+  "endTime": 1754315429266,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -11,7 +11,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2604261,
+      "raw_hot": 2658290,
+      "num": 2658290,
+      "word": "赵露思 姐现在忍不了任何人",
+      "onboard_time": 1754314644,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2619877,
       "num": 2604261,
       "word": "华策回应与虞书欣解约",
       "onboard_time": 1754312424,
@@ -57,6 +65,14 @@
       "onboard_time": 1754231546,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1567898,
+      "num": 406618,
+      "word": "江油霸凌",
+      "onboard_time": 1754311583,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1567563,
@@ -107,6 +123,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 1274313,
+      "num": 392265,
+      "word": "赵露思被甜品店合伙人背刺起诉",
+      "onboard_time": 1754311283,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1241608,
       "num": 1241608,
       "word": "历史学家许倬云逝世",
@@ -131,27 +155,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1161111,
-      "num": 406618,
-      "word": "江油霸凌",
-      "onboard_time": 1754311583,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1118404,
       "num": 1118404,
       "word": "赵露思直播同款被卖断货",
       "onboard_time": 1754279843,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1117742,
-      "num": 392265,
-      "word": "赵露思被甜品店合伙人背刺起诉",
-      "onboard_time": 1754311283,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -339,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604091,
+      "num": 604091,
+      "word": "银行职员夫妻回应下班偷偷送外卖",
+      "onboard_time": 1754307982,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 602442,
       "num": 602442,
       "word": "孙红雷想黄渤黄磊张艺兴了",
@@ -443,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 529355,
-      "num": 529355,
-      "word": "银行职员夫妻回应下班偷偷送外卖",
-      "onboard_time": 1754307982,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 524994,
+      "num": 346025,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1754311643,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 519700,
@@ -497,14 +513,6 @@
       "onboard_time": 1754302585,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 477392,
-      "num": 346025,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1754311643,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 475988,
@@ -723,6 +731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 315688,
+      "num": 315688,
+      "word": "朱天天 清融",
+      "onboard_time": 1754312244,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 313446,
       "num": 313446,
       "word": "理想回应i8安全性碰撞测试",
@@ -744,6 +760,14 @@
       "word": "肖战每年都无缝进组",
       "onboard_time": 1754279663,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302745,
+      "num": 302745,
+      "word": "利剑玫瑰 口型对不上",
+      "onboard_time": 1754314525,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -793,6 +817,14 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 276710,
+      "num": 276710,
+      "word": "多个账号攻击爱国题材电影被禁言",
+      "onboard_time": 1754312664,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269293,
@@ -953,14 +985,6 @@
       "onboard_time": 1754281945,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227868,
-      "num": 227868,
-      "word": "朱天天 清融",
-      "onboard_time": 1754312244,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 227357,
@@ -1131,6 +1155,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199408,
+      "num": 199408,
+      "word": "王青直播间",
+      "onboard_time": 1754313564,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198618,
       "num": 198618,
       "word": "9个免费的国家级自学平台",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1754302883,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195746,
+      "num": 195746,
+      "word": "京东回应震虎价争议",
+      "onboard_time": 1754315005,
+      "rank": 22,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 193533,
@@ -1347,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175670,
-      "num": 175670,
-      "word": "多个账号攻击爱国题材电影被禁言",
-      "onboard_time": 1754312664,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175214,
       "num": 175213,
       "word": "潘展乐告状已经1年了",
@@ -1435,8 +1467,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166589,
-      "num": 166589,
+      "raw_hot": 166831,
+      "num": 166831,
       "word": "杨洋眼前一黑又一黑",
       "onboard_time": 1754312304,
       "rank": 48,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1754273781,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164109,
+      "num": 164109,
+      "word": "我的对手居然是张新成",
+      "onboard_time": 1754314285,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 163664,
@@ -1691,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144052,
+      "num": 144052,
+      "word": "连云港队泰州队违规违纪被处罚",
+      "onboard_time": 1754309244,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142101,
       "num": 142101,
       "word": "李乃文叔圈娃娃菜",
@@ -1811,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129547,
+      "num": 129547,
+      "word": "中国男篮亚洲杯12人大名单",
+      "onboard_time": 1754314345,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129358,
       "num": 129358,
       "word": "金泰亨坐田柾国怀里",
@@ -1873,6 +1929,14 @@
       "onboard_time": 1754304623,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127110,
+      "num": 127110,
+      "word": "迪丽热巴新剧一整个普法教材",
+      "onboard_time": 1754315005,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 126954,
@@ -1945,6 +2009,14 @@
       "onboard_time": 1754284104,
       "rank": 44,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 123621,
+      "num": 123621,
+      "word": "家长们为被霸凌女孩发声",
+      "onboard_time": 1754314345,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123594,
@@ -2067,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118933,
+      "num": 118933,
+      "word": "体制内爱好红黑榜",
+      "onboard_time": 1754312723,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118667,
       "num": 118667,
       "word": "普通人要不要买折叠屏",
@@ -2097,6 +2177,14 @@
       "onboard_time": 1754287102,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118071,
+      "num": 276221,
+      "word": "零跑凭啥连续五个月销量第一",
+      "onboard_time": 1754312843,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 118059,
@@ -2137,6 +2225,14 @@
       "onboard_time": 1754227345,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116764,
+      "num": 116764,
+      "word": "樊振东英文回复莫雷加德",
+      "onboard_time": 1754313203,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116748,
@@ -2184,6 +2280,14 @@
       "word": "男子喂鱼忘送娃上课被妻子踹进鱼池",
       "onboard_time": 1754234965,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113208,
+      "num": 113208,
+      "word": "胖东来看到烂片不开心可半价退款",
+      "onboard_time": 1754311223,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2275,14 +2379,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 108310,
-      "num": 108310,
-      "word": "连云港队泰州队违规违纪被处罚",
-      "onboard_time": 1754309244,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108187,
       "num": 227645,
       "word": "小妖怪送10万杯奶茶",
@@ -2355,14 +2451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103947,
-      "num": 103947,
-      "word": "胖东来看到烂片不开心可半价退款",
-      "onboard_time": 1754311223,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102249,
       "num": 112187,
       "word": "丰田车主逆行插队被拒后放狠话",
@@ -2371,12 +2459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101173,
-      "num": 101173,
-      "word": "樊振东英文回复莫雷加德",
-      "onboard_time": 1754313203,
+      "raw_hot": 102015,
+      "num": 102015,
+      "word": "湖南一对父母踢皮球拒养残疾儿",
+      "onboard_time": 1754315305,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101600,
+      "num": 101600,
+      "word": "张新成当年的承诺兑现了",
+      "onboard_time": 1754315005,
       "rank": 44,
-      "category": "体育"
+      "category": "艺人"
     },
     {
       "raw_hot": 100998,
@@ -2433,6 +2529,14 @@
       "onboard_time": 1754313265,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97816,
+      "num": 97816,
+      "word": "我要是于正我也天天夸张南",
+      "onboard_time": 1754314644,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97695,
@@ -2529,14 +2633,6 @@
       "onboard_time": 1754237303,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92730,
-      "num": 276221,
-      "word": "零跑凭啥连续五个月销量第一",
-      "onboard_time": 1754312843,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 92689,
@@ -2779,6 +2875,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58725,
+      "num": 112499,
+      "word": "举报史航女生再发声",
+      "onboard_time": 1754315185,
+      "rank": 39,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 57363,
+      "num": 112501,
+      "word": "官方回应教师招聘笔试17分考生进复审",
+      "onboard_time": 1754315365,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57215,
       "num": 123922,
       "word": "女子扶老人被讹维权一个多月",
@@ -2881,6 +2993,14 @@
       "onboard_time": 1754231605,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35278,
+      "num": 300023,
+      "word": "许倬云最后一次更博是11天前",
+      "onboard_time": 1754314826,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32577,
@@ -3042,6 +3162,9 @@
     },
     {
       "word": "#人民军队攻坚向前#"
+    },
+    {
+      "word": "#人民军队攻坚制胜#"
     }
   ]
 }
