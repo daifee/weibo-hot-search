@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754293792310,
+  "endTime": 1754296773064,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2968164,
-      "num": 401045,
+      "num": 415319,
       "word": "娜扎疑似与张云龙已分手",
       "onboard_time": 1754277982,
       "rank": 10,
@@ -225,6 +225,14 @@
       "onboard_time": 1754223504,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1975493,
+      "num": 413040,
+      "word": "白鹿报警",
+      "onboard_time": 1754293943,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1961731,
@@ -465,6 +473,14 @@
       "onboard_time": 1754192906,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1241608,
+      "num": 1241608,
+      "word": "历史学家许倬云逝世",
+      "onboard_time": 1754294543,
+      "rank": 0,
+      "category": "读书作家,民生新闻"
     },
     {
       "raw_hot": 1238686,
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 942769,
-      "num": 234008,
+      "num": 269897,
       "word": "学费44万的大学录取通知书长什么样",
       "onboard_time": 1754282365,
       "rank": 40,
@@ -856,6 +872,14 @@
       "word": "鞠婧祎直播",
       "onboard_time": 1754224164,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 861043,
+      "num": 685349,
+      "word": "芒果男艺人发长文求工作",
+      "onboard_time": 1754293763,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1379,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598022,
+      "num": 598022,
+      "word": "库克感谢中国国补政策",
+      "onboard_time": 1754291964,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 595602,
       "num": 595602,
       "word": "白鹿与英烈跨时空对话看泪目了",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1754158756,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 575936,
-      "num": 575936,
-      "word": "库克感谢中国国补政策",
-      "onboard_time": 1754291964,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 575221,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1754192906,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 541354,
+      "num": 408764,
+      "word": "徐璐这穿搭够我学一阵了",
+      "onboard_time": 1754294543,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 538982,
@@ -1851,6 +1883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 475988,
+      "num": 475988,
+      "word": "王安宇抖成这样",
+      "onboard_time": 1754291722,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 475648,
       "num": 395583,
       "word": "唐国强不知道假唱也要举话筒",
@@ -2107,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406780,
+      "num": 406780,
+      "word": "北京暴雨",
+      "onboard_time": 1754292622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406209,
       "num": 401249,
       "word": "五月天嘉宾汪苏泷",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1754228784,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399550,
-      "num": 399550,
-      "word": "王安宇抖成这样",
-      "onboard_time": 1754291722,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 397885,
@@ -2180,7 +2220,7 @@
     },
     {
       "raw_hot": 389036,
-      "num": 219368,
+      "num": 267367,
       "word": "终于学会漂漂亮亮不随份子钱",
       "onboard_time": 1754290223,
       "rank": 30,
@@ -2691,6 +2731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 324261,
+      "num": 324261,
+      "word": "痛经假 医疗证明",
+      "onboard_time": 1754294842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324136,
       "num": 324136,
       "word": "杨紫朱亚文 玉兰花开君再来",
@@ -2785,6 +2833,14 @@
       "onboard_time": 1754288603,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309026,
+      "num": 309026,
+      "word": "衣服都脱了你俩拍打戏",
+      "onboard_time": 1754295203,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 307745,
@@ -3371,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255864,
+      "num": 255864,
+      "word": "毛不易私下向李雪琴打听李诞八卦",
+      "onboard_time": 1754289981,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252911,
       "num": 252911,
       "word": "张展硕极限冲刺",
@@ -3441,6 +3505,14 @@
       "onboard_time": 1754224884,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248567,
+      "num": 420654,
+      "word": "九一八和731都是不能忘的数字",
+      "onboard_time": 1754293822,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 247192,
@@ -3649,14 +3721,6 @@
       "onboard_time": 1754235325,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231112,
-      "num": 231112,
-      "word": "毛不易私下向李雪琴打听李诞八卦",
-      "onboard_time": 1754289981,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 231018,
@@ -3873,6 +3937,14 @@
       "onboard_time": 1754221944,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221460,
+      "num": 221460,
+      "word": "孙红雷想黄渤黄磊张艺兴了",
+      "onboard_time": 1754295685,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 221134,
@@ -4155,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210482,
+      "num": 210482,
+      "word": "夏天终于有仙侠剧看了",
+      "onboard_time": 1754295803,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210392,
       "num": 720514,
       "word": "河北兴隆北京山谷项目3人遇难",
@@ -4313,6 +4393,14 @@
       "onboard_time": 1754052983,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206636,
+      "num": 206636,
+      "word": "许倬云曾遗憾但悲不见九州同",
+      "onboard_time": 1754296344,
+      "rank": 27,
+      "category": "读书作家,民生新闻"
     },
     {
       "raw_hot": 206513,
@@ -5363,6 +5451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180362,
+      "num": 180362,
+      "word": "每天1杯无糖饮料患糖尿病风险增38%",
+      "onboard_time": 1754291782,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180264,
       "num": 180264,
       "word": "迪丽热巴直播",
@@ -5465,6 +5561,14 @@
       "onboard_time": 1754105181,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176774,
+      "num": 176774,
+      "word": "短剧折腰开拍",
+      "onboard_time": 1754296162,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 176711,
@@ -5803,14 +5907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170584,
-      "num": 170584,
-      "word": "北京暴雨",
-      "onboard_time": 1754292622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170513,
       "num": 170513,
       "word": "啤酒 伟哥",
@@ -5865,6 +5961,14 @@
       "onboard_time": 1754206285,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169493,
+      "num": 169493,
+      "word": "女子获赠舅舅房产被其女儿起诉",
+      "onboard_time": 1754295922,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169448,
@@ -6251,6 +6355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162117,
+      "num": 162117,
+      "word": "我国在艾滋病疫苗研发领域取得重要进展",
+      "onboard_time": 1754295743,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "能不能把迪丽热巴焊在正剧里",
@@ -6555,6 +6667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155790,
+      "num": 155790,
+      "word": "因为工作不开心给妈妈发的微信",
+      "onboard_time": 1754293524,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155690,
       "num": 172023,
       "word": "2025Chinajoy",
@@ -6857,6 +6977,14 @@
       "onboard_time": 1754280625,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 149872,
+      "num": 401073,
+      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
+      "onboard_time": 1754289623,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149848,
@@ -7169,6 +7297,14 @@
       "onboard_time": 1754044824,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145467,
+      "num": 145467,
+      "word": "女子推理社",
+      "onboard_time": 1754296464,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 145335,
@@ -7515,6 +7651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140317,
+      "num": 140317,
+      "word": "以为是天崩开局结果妈妈是通天代",
+      "onboard_time": 1754295323,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140222,
       "num": 140222,
       "word": "人人人人瓦人人人人",
@@ -7531,28 +7675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139687,
-      "num": 139687,
-      "word": "因为工作不开心给妈妈发的微信",
-      "onboard_time": 1754293524,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139647,
       "num": 139647,
       "word": "第一次遇见生理性喜欢的电影",
       "onboard_time": 1754137763,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139635,
-      "num": 139635,
-      "word": "每天1杯无糖饮料患糖尿病风险增38%",
-      "onboard_time": 1754291782,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 139557,
@@ -7785,6 +7913,14 @@
       "onboard_time": 1754211504,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136354,
+      "num": 136354,
+      "word": "刘宇宁这个梗是非接不可吗",
+      "onboard_time": 1754295983,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 136076,
@@ -8169,14 +8305,6 @@
       "onboard_time": 1754200702,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131335,
-      "num": 401073,
-      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
-      "onboard_time": 1754289623,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131221,
@@ -8627,6 +8755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125958,
+      "num": 125958,
+      "word": "石破茂 战后80周年个人见解",
+      "onboard_time": 1754294243,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125953,
       "num": 125953,
       "word": "折月亮",
@@ -8727,6 +8863,14 @@
       "num": 123812,
       "word": "Red Velvet十一周年",
       "onboard_time": 1754014761,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123753,
+      "num": 123753,
+      "word": "金泰亨坐田柾国怀里",
+      "onboard_time": 1754292383,
       "rank": 39,
       "category": "艺人"
     },
@@ -8931,6 +9075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "韦雪女儿画了全家福",
+      "onboard_time": 1754295685,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 121260,
       "num": 600821,
       "word": "中国文化跨越山海",
@@ -8977,6 +9129,14 @@
       "onboard_time": 1754206285,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120869,
+      "num": 120869,
+      "word": "王楚钦优秀训练示范生",
+      "onboard_time": 1754295562,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 120828,
@@ -9155,6 +9315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118667,
+      "num": 118667,
+      "word": "普通人要不要买折叠屏",
+      "onboard_time": 1754296584,
+      "rank": 47,
+      "category": "数码,数码"
+    },
+    {
       "raw_hot": 118495,
       "num": 118495,
       "word": "tzym 传送",
@@ -9265,14 +9433,6 @@
       "onboard_time": 1754225424,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116656,
-      "num": 116656,
-      "word": "芒果男艺人发长文求工作",
-      "onboard_time": 1754293763,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 116564,
@@ -10137,6 +10297,14 @@
       "onboard_time": 1754129363,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102249,
+      "num": 112187,
+      "word": "丰田车主逆行插队被拒后放狠话",
+      "onboard_time": 1754295444,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101746,
@@ -12179,20 +12347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28421,
-      "num": 110275,
-      "word": "金泰亨坐田柾国怀里",
-      "onboard_time": 1754292383,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27785,
       "num": 27785,
       "word": "刘宇当上假发模特了",
       "onboard_time": 1754073017,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27478,
+      "num": 750639,
+      "word": "航母编队赴西太平洋训练详情公开",
+      "onboard_time": 1754269883,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 27476,
@@ -12233,14 +12401,6 @@
       "onboard_time": 1754166554,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24926,
-      "num": 750639,
-      "word": "航母编队赴西太平洋训练详情公开",
-      "onboard_time": 1754269883,
-      "rank": 2,
-      "category": "军事"
     },
     {
       "raw_hot": 24144,

@@ -1,13 +1,21 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754293792310,
+  "endTime": 1754296773064,
   "band_list": [
     {
       "raw_hot": 2968164,
-      "num": 401045,
+      "num": 415319,
       "word": "娜扎疑似与张云龙已分手",
       "onboard_time": 1754277982,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1975493,
+      "num": 413040,
+      "word": "白鹿报警",
+      "onboard_time": 1754293943,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -59,6 +67,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 1241608,
+      "num": 1241608,
+      "word": "历史学家许倬云逝世",
+      "onboard_time": 1754294543,
+      "rank": 0,
+      "category": "读书作家,民生新闻"
+    },
+    {
       "raw_hot": 1238686,
       "num": 708256,
       "word": "蒲熠星回应文案争议",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 942769,
-      "num": 234008,
+      "num": 269897,
       "word": "学费44万的大学录取通知书长什么样",
       "onboard_time": 1754282365,
       "rank": 40,
@@ -113,6 +129,14 @@
       "onboard_time": 1754286921,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 861043,
+      "num": 685349,
+      "word": "芒果男艺人发长文求工作",
+      "onboard_time": 1754293763,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 832396,
@@ -179,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598022,
+      "num": 598022,
+      "word": "库克感谢中国国补政策",
+      "onboard_time": 1754291964,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 595602,
       "num": 595602,
       "word": "白鹿与英烈跨时空对话看泪目了",
@@ -201,14 +233,6 @@
       "onboard_time": 1754289623,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 575936,
-      "num": 575936,
-      "word": "库克感谢中国国补政策",
-      "onboard_time": 1754291964,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 575221,
@@ -259,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 541354,
+      "num": 408764,
+      "word": "徐璐这穿搭够我学一阵了",
+      "onboard_time": 1754294543,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530629,
       "num": 530629,
       "word": "曾辉韩雨彤这次真的不一样",
@@ -289,6 +321,14 @@
       "onboard_time": 1754272402,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 475988,
+      "num": 475988,
+      "word": "王安宇抖成这样",
+      "onboard_time": 1754291722,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 475648,
@@ -331,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399550,
-      "num": 399550,
-      "word": "王安宇抖成这样",
-      "onboard_time": 1754291722,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 406780,
+      "num": 406780,
+      "word": "北京暴雨",
+      "onboard_time": 1754292622,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397754,
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 389036,
-      "num": 219368,
+      "num": 267367,
       "word": "终于学会漂漂亮亮不随份子钱",
       "onboard_time": 1754290223,
       "rank": 30,
@@ -459,6 +499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 324261,
+      "num": 324261,
+      "word": "痛经假 医疗证明",
+      "onboard_time": 1754294842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313446,
       "num": 313446,
       "word": "理想回应i8安全性碰撞测试",
@@ -473,6 +521,14 @@
       "onboard_time": 1754288603,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309026,
+      "num": 309026,
+      "word": "衣服都脱了你俩拍打戏",
+      "onboard_time": 1754295203,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 307322,
@@ -555,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255864,
+      "num": 255864,
+      "word": "毛不易私下向李雪琴打听李诞八卦",
+      "onboard_time": 1754289981,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248567,
+      "num": 420654,
+      "word": "九一八和731都是不能忘的数字",
+      "onboard_time": 1754293822,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245875,
       "num": 245875,
       "word": "林志炫鼻窦炎手术是歌迷做的",
@@ -611,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231112,
-      "num": 231112,
-      "word": "毛不易私下向李雪琴打听李诞八卦",
-      "onboard_time": 1754289981,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228335,
       "num": 228335,
       "word": "原神菲林斯",
@@ -649,6 +713,14 @@
       "onboard_time": 1754288721,
       "rank": 31,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 221460,
+      "num": 221460,
+      "word": "孙红雷想黄渤黄磊张艺兴了",
+      "onboard_time": 1754295685,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 220641,
@@ -683,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210482,
+      "num": 210482,
+      "word": "夏天终于有仙侠剧看了",
+      "onboard_time": 1754295803,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207782,
       "num": 207782,
       "word": "女童喂马被咬断手指",
@@ -697,6 +777,14 @@
       "onboard_time": 1754280025,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206636,
+      "num": 206636,
+      "word": "许倬云曾遗憾但悲不见九州同",
+      "onboard_time": 1754296344,
+      "rank": 27,
+      "category": "读书作家,民生新闻"
     },
     {
       "raw_hot": 205768,
@@ -843,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180362,
+      "num": 180362,
+      "word": "每天1杯无糖饮料患糖尿病风险增38%",
+      "onboard_time": 1754291782,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179663,
       "num": 179663,
       "word": "十个勤天",
@@ -856,6 +952,14 @@
       "word": "此款女主内娱无代餐",
       "onboard_time": 1754292983,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176774,
+      "num": 176774,
+      "word": "短剧折腰开拍",
+      "onboard_time": 1754296162,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -907,19 +1011,19 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 170584,
-      "num": 170584,
-      "word": "北京暴雨",
-      "onboard_time": 1754292622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170026,
       "num": 170026,
       "word": "高温每天10小时超长待机",
       "onboard_time": 1754268262,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169493,
+      "num": 169493,
+      "word": "女子获赠舅舅房产被其女儿起诉",
+      "onboard_time": 1754295922,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -979,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162117,
+      "num": 162117,
+      "word": "我国在艾滋病疫苗研发领域取得重要进展",
+      "onboard_time": 1754295743,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161248,
       "num": 161248,
       "word": "国航被泼热水旅客称赔1万变500",
@@ -1009,6 +1121,14 @@
       "onboard_time": 1754224464,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155790,
+      "num": 155790,
+      "word": "因为工作不开心给妈妈发的微信",
+      "onboard_time": 1754293524,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 154846,
@@ -1051,6 +1171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149872,
+      "num": 401073,
+      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
+      "onboard_time": 1754289623,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146686,
       "num": 206165,
       "word": "印度一警察向洪水献上牛奶花瓣",
@@ -1065,6 +1193,14 @@
       "onboard_time": 1754272942,
       "rank": 36,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 145467,
+      "num": 145467,
+      "word": "女子推理社",
+      "onboard_time": 1754296464,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 145118,
@@ -1115,20 +1251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139687,
-      "num": 139687,
-      "word": "因为工作不开心给妈妈发的微信",
-      "onboard_time": 1754293524,
-      "rank": 36,
+      "raw_hot": 140317,
+      "num": 140317,
+      "word": "以为是天崩开局结果妈妈是通天代",
+      "onboard_time": 1754295323,
+      "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139635,
-      "num": 139635,
-      "word": "每天1杯无糖饮料患糖尿病风险增38%",
-      "onboard_time": 1754291782,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 139557,
@@ -1155,20 +1283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136354,
+      "num": 136354,
+      "word": "刘宇宁这个梗是非接不可吗",
+      "onboard_time": 1754295983,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134191,
       "num": 134191,
       "word": "鹿晗season4亚洲巡演",
       "onboard_time": 1754286862,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131335,
-      "num": 401073,
-      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
-      "onboard_time": 1754289623,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130738,
@@ -1203,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125958,
+      "num": 125958,
+      "word": "石破茂 战后80周年个人见解",
+      "onboard_time": 1754294243,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "赵露思说知道仅在社交平台发声无用",
@@ -1225,6 +1361,14 @@
       "onboard_time": 1754277323,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 123753,
+      "num": 123753,
+      "word": "金泰亨坐田柾国怀里",
+      "onboard_time": 1754292383,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 123661,
@@ -1251,6 +1395,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "韦雪女儿画了全家福",
+      "onboard_time": 1754295685,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 121061,
       "num": 121061,
       "word": "浙江卫视被王安宇卷了波大的",
@@ -1275,6 +1427,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 120869,
+      "num": 120869,
+      "word": "王楚钦优秀训练示范生",
+      "onboard_time": 1754295562,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120828,
       "num": 207621,
       "word": "部分日本人不满交单身税补贴生育",
@@ -1297,6 +1457,14 @@
       "onboard_time": 1754279124,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118667,
+      "num": 118667,
+      "word": "普通人要不要买折叠屏",
+      "onboard_time": 1754296584,
+      "rank": 47,
+      "category": "数码,数码"
     },
     {
       "raw_hot": 118500,
@@ -1353,14 +1521,6 @@
       "onboard_time": 1754227345,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116656,
-      "num": 116656,
-      "word": "芒果男艺人发长文求工作",
-      "onboard_time": 1754293763,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 116431,
@@ -1537,6 +1697,14 @@
       "onboard_time": 1754205685,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102249,
+      "num": 112187,
+      "word": "丰田车主逆行插队被拒后放狠话",
+      "onboard_time": 1754295444,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100998,
@@ -1931,12 +2099,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28421,
-      "num": 110275,
-      "word": "金泰亨坐田柾国怀里",
-      "onboard_time": 1754292383,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 27478,
+      "num": 750639,
+      "word": "航母编队赴西太平洋训练详情公开",
+      "onboard_time": 1754269883,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 27476,
@@ -1953,14 +2121,6 @@
       "onboard_time": 1754243717,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24926,
-      "num": 750639,
-      "word": "航母编队赴西太平洋训练详情公开",
-      "onboard_time": 1754269883,
-      "rank": 2,
-      "category": "军事"
     },
     {
       "raw_hot": 24136,
