@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754319154650,
+  "endTime": 1754321550542,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4374667,
-      "num": 4374667,
+      "raw_hot": 6450402,
+      "num": 6450402,
       "word": "赵露思曾被锁酒店驱魔",
       "onboard_time": 1754315665,
       "rank": 0,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514852,
+      "num": 514852,
+      "word": "江油被殴打未成年曾多次被霸凌",
+      "onboard_time": 1754318786,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 513583,
       "num": 341244,
       "word": "家长们为被霸凌女孩发声",
@@ -657,6 +665,14 @@
       "onboard_time": 1754290223,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388825,
+      "num": 388825,
+      "word": "SASI怼秃子",
+      "onboard_time": 1754319686,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 387516,
@@ -1171,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209013,
+      "num": 209013,
+      "word": "上海全款150万32平米的小家",
+      "onboard_time": 1754316506,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207782,
       "num": 207782,
       "word": "女童喂马被咬断手指",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1754280025,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205867,
+      "num": 205867,
+      "word": "江油警方回应14岁少女被殴打关键问题",
+      "onboard_time": 1754320345,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205768,
@@ -1227,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201518,
+      "num": 201518,
+      "word": "杨鸣教练",
+      "onboard_time": 1754317646,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200784,
       "num": 200784,
       "word": "LadyGaga带Labubu出街",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1754275223,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 198888,
-      "num": 198888,
-      "word": "杨鸣教练",
-      "onboard_time": 1754317646,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 198618,
@@ -1400,6 +1432,14 @@
       "word": "敖瑞鹏迎来人声鼎沸的一年",
       "onboard_time": 1754303064,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183801,
+      "num": 183801,
+      "word": "毕雯珺好帅",
+      "onboard_time": 1754319926,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1675,14 +1715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157538,
-      "num": 157538,
-      "word": "上海全款150万32平米的小家",
-      "onboard_time": 1754316506,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156151,
       "num": 156151,
       "word": "美国低收入家庭的晚餐",
@@ -1827,6 +1859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 145242,
+      "num": 145242,
+      "word": "周杰伦晒儿子滑雪视频",
+      "onboard_time": 1754319386,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145118,
       "num": 145118,
       "word": "徐如蓝魅魔型人格",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1754291003,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141099,
+      "num": 141099,
+      "word": "未成年人作恶轻罚的日子要到头了",
+      "onboard_time": 1754318846,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141052,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1754271380,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127705,
+      "num": 127705,
+      "word": "迪丽热巴利剑玫瑰收视率破2.4%",
+      "onboard_time": 1754319626,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 127245,
@@ -2403,6 +2459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114208,
+      "num": 114208,
+      "word": "特斯拉奖励马斯克9600万股股票",
+      "onboard_time": 1754317527,
+      "rank": 43,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 113651,
       "num": 113651,
       "word": "男子喂鱼忘送娃上课被妻子踹进鱼池",
@@ -2425,14 +2489,6 @@
       "onboard_time": 1754268262,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112544,
-      "num": 112544,
-      "word": "特斯拉奖励马斯克9600万股股票",
-      "onboard_time": 1754317527,
-      "rank": 43,
-      "category": "汽车,财经"
     },
     {
       "raw_hot": 112087,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1754289561,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109143,
+      "num": 354779,
+      "word": "欧盟将暂停对美国贸易反制措施6个月",
+      "onboard_time": 1754320285,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108781,
@@ -2601,6 +2665,14 @@
       "onboard_time": 1754311344,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102296,
+      "num": 102296,
+      "word": "14岁女生被殴打校外霸凌须校内防",
+      "onboard_time": 1754319087,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 102249,
@@ -2891,6 +2963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83104,
+      "num": 83104,
+      "word": "龙亦瑞总选",
+      "onboard_time": 1754319986,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81953,
       "num": 81953,
       "word": "一个人值不值得交往看3点",
@@ -2905,6 +2985,14 @@
       "onboard_time": 1754259495,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81514,
+      "num": 81514,
+      "word": "白鹿白衬衫根正苗红",
+      "onboard_time": 1754321363,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81417,
@@ -2963,6 +3051,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77376,
+      "num": 77376,
+      "word": "镇干部离岗8年",
+      "onboard_time": 1754321065,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77186,
+      "num": 77186,
+      "word": "going人的要素此沙集齐了",
+      "onboard_time": 1754321424,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76760,
       "num": 79641,
       "word": "气血不足最怕这6个动作",
@@ -2977,6 +3081,14 @@
       "onboard_time": 1754300062,
       "rank": 35,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 73655,
+      "num": 73655,
+      "word": "夺冠后吴艳妮谦虚表示表现欠佳",
+      "onboard_time": 1754321184,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 70689,
@@ -3063,14 +3175,6 @@
       "num": 123922,
       "word": "女子扶老人被讹维权一个多月",
       "onboard_time": 1754305642,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55727,
-      "num": 95853,
-      "word": "未成年人作恶轻罚的日子要到头了",
-      "onboard_time": 1754318846,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -3203,28 +3307,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 31495,
-      "num": 194019,
-      "word": "江油被殴打未成年曾多次被霸凌",
-      "onboard_time": 1754318786,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29743,
       "num": 750639,
       "word": "航母编队赴西太平洋训练详情公开",
       "onboard_time": 1754269883,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 28278,
-      "num": 94248,
-      "word": "14岁女生被殴打校外霸凌须校内防",
-      "onboard_time": 1754319087,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 27476,
