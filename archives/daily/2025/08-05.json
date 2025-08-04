@@ -1,9 +1,9 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754325503094,
+  "endTime": 1754326569248,
   "band_list": [
     {
-      "raw_hot": 1469156,
+      "raw_hot": 2338033,
       "num": 209972,
       "word": "王一博",
       "onboard_time": 1754324061,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 568055,
+      "raw_hot": 624335,
       "num": 206231,
       "word": "江油警方回应14岁少女被殴打关键问题",
       "onboard_time": 1754320345,
@@ -41,6 +41,14 @@
       "onboard_time": 1754318786,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442979,
+      "num": 442979,
+      "word": "吴艳妮光速夺冠",
+      "onboard_time": 1754323282,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 441943,
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346732,
-      "num": 346732,
-      "word": "吴艳妮光速夺冠",
-      "onboard_time": 1754323282,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 286577,
+      "num": 144938,
+      "word": "王一博28岁是一个刚刚好的年纪",
+      "onboard_time": 1754325560,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 253829,
@@ -139,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142424,
+      "num": 212823,
+      "word": "特朗普称将大幅提高对印度关税",
+      "onboard_time": 1754323823,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140015,
       "num": 140015,
       "word": "举报史航女生再发声",
       "onboard_time": 1754315185,
       "rank": 17,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 139305,
-      "num": 212823,
-      "word": "特朗普称将大幅提高对印度关税",
-      "onboard_time": 1754323823,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125815,
@@ -176,6 +184,14 @@
       "word": "黄奕回应女儿出道",
       "onboard_time": 1754306062,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110686,
+      "num": 110686,
+      "word": "赵露思说有点不敢推荐东西了",
+      "onboard_time": 1754324962,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -283,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69126,
-      "num": 69126,
-      "word": "赵露思说有点不敢推荐东西了",
-      "onboard_time": 1754324962,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68254,
       "num": 68254,
       "word": "白鹿白衬衫根正苗红",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54257,
+      "num": 54257,
+      "word": "王安宇回应音乐节手抖",
+      "onboard_time": 1754326340,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51595,
       "num": 54518,
       "word": "一下班就下大雨真不是你的错觉",
@@ -395,8 +411,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46308,
+      "num": 52635,
+      "word": "这树绝对是昨天长出来的",
+      "onboard_time": 1754326100,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 26859,
+      "num": 161046,
+      "word": "活力中国调研行",
+      "onboard_time": 1754325740,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1835,
-      "num": 348531,
+      "num": 353204,
       "word": "总有一些美好瞬间温暖夏日",
       "onboard_time": 1754277323,
       "rank": 2,
