@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754300435159,
+  "endTime": 1754301300403,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2183688,
-      "num": 423934,
+      "num": 426957,
       "word": "白鹿报警",
       "onboard_time": 1754293943,
       "rank": 11,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 829480,
-      "num": 576433,
+      "num": 599135,
       "word": "衣服都脱了你俩拍打戏",
       "onboard_time": 1754295203,
       "rank": 15,
@@ -667,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 602442,
+      "num": 602442,
+      "word": "孙红雷想黄渤黄磊张艺兴了",
+      "onboard_time": 1754295685,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598022,
       "num": 598022,
       "word": "库克感谢中国国补政策",
@@ -851,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 510556,
-      "num": 510556,
-      "word": "孙红雷想黄渤黄磊张艺兴了",
-      "onboard_time": 1754295685,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 505719,
       "num": 246993,
       "word": "给内耗的人一句终极解药",
@@ -889,6 +889,14 @@
       "onboard_time": 1754223864,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 486873,
+      "num": 486873,
+      "word": "我国在艾滋病疫苗研发领域取得重要进展",
+      "onboard_time": 1754295743,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 482335,
@@ -987,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439798,
+      "num": 439798,
+      "word": "短剧折腰开拍",
+      "onboard_time": 1754296162,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432635,
       "num": 432635,
       "word": "一个亿有多少",
@@ -1059,14 +1075,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 395601,
-      "num": 395601,
-      "word": "短剧折腰开拍",
-      "onboard_time": 1754296162,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 393506,
       "num": 393506,
       "word": "山东一彩民花69元中2.4亿元",
@@ -1096,6 +1104,14 @@
       "word": "男子与他人合谋性侵前女友被判刑",
       "onboard_time": 1754268863,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387325,
+      "num": 387325,
+      "word": "美国客户发邮件狂催中国婚纱",
+      "onboard_time": 1754297364,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1179,20 +1195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 355210,
-      "num": 355210,
-      "word": "美国客户发邮件狂催中国婚纱",
-      "onboard_time": 1754297364,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 348262,
       "num": 348262,
       "word": "中国队无缘男子10米台奖牌",
       "onboard_time": 1754219845,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346198,
+      "num": 291138,
+      "word": "93年月入4000元上下班的一天",
+      "onboard_time": 1754297964,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 345906,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1754279244,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334465,
-      "num": 334465,
-      "word": "我国在艾滋病疫苗研发领域取得重要进展",
-      "onboard_time": 1754295743,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 333420,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1754200285,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300919,
-      "num": 291138,
-      "word": "93年月入4000元上下班的一天",
-      "onboard_time": 1754297964,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 300506,
@@ -1568,6 +1568,14 @@
       "word": "原神",
       "onboard_time": 1754197463,
       "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 263492,
+      "num": 263492,
+      "word": "司马懿相柳皮肤爆料",
+      "onboard_time": 1754299823,
+      "rank": 27,
       "category": "游戏"
     },
     {
@@ -1891,20 +1899,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216731,
+      "num": 216731,
+      "word": "黄奕女儿被网友抗议出道",
+      "onboard_time": 1754299282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213686,
       "num": 213686,
       "word": "肖战粤语角色来了",
       "onboard_time": 1754285601,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212760,
-      "num": 212760,
-      "word": "司马懿相柳皮肤爆料",
-      "onboard_time": 1754299823,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 212325,
@@ -2115,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196662,
+      "num": 196662,
+      "word": "王玉雯虎妹爆改茜茜公主",
+      "onboard_time": 1754299943,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196558,
       "num": 186248,
       "word": "华晨宇音乐节",
@@ -2305,14 +2321,6 @@
       "onboard_time": 1754187081,
       "rank": 24,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 185520,
-      "num": 185520,
-      "word": "王玉雯虎妹爆改茜茜公主",
-      "onboard_time": 1754299943,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 185335,
@@ -2545,6 +2553,14 @@
       "onboard_time": 1754292983,
       "rank": 29,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 174350,
+      "num": 174350,
+      "word": "孙颖莎回应世乒赛哭了",
+      "onboard_time": 1754300302,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 173890,
@@ -3139,6 +3155,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148719,
+      "num": 148719,
+      "word": "不爱打扮 感官过载",
+      "onboard_time": 1754299704,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148216,
+      "num": 145391,
+      "word": "女子推理社3有圈内好友加盟",
+      "onboard_time": 1754300842,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147754,
       "num": 147754,
       "word": "成毅演唱天涯别有一番韵味",
@@ -3169,6 +3201,14 @@
       "onboard_time": 1754272942,
       "rank": 36,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 145895,
+      "num": 145895,
+      "word": "张婧仪喀什plog",
+      "onboard_time": 1754300183,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 145775,
@@ -3451,14 +3491,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 137541,
-      "num": 137541,
-      "word": "张婧仪喀什plog",
-      "onboard_time": 1754300183,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137486,
       "num": 137486,
       "word": "张艺兴唱了MAMA",
@@ -3489,14 +3521,6 @@
       "onboard_time": 1754205384,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137113,
-      "num": 137113,
-      "word": "不爱打扮 感官过载",
-      "onboard_time": 1754299704,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 136533,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1754196984,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127350,
-      "num": 127350,
-      "word": "孙颖莎回应世乒赛哭了",
-      "onboard_time": 1754300302,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 127052,
@@ -4105,6 +4121,14 @@
       "onboard_time": 1754220804,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119480,
+      "num": 119480,
+      "word": "蔡徐坤手捧茉莉花",
+      "onboard_time": 1754301023,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 119079,
@@ -4643,6 +4667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99092,
+      "num": 155539,
+      "word": "李昀锐谈九重紫爆火",
+      "onboard_time": 1754300243,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98365,
       "num": 98365,
       "word": "最吵的地铁出现了",
@@ -4883,14 +4915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91793,
-      "num": 157011,
-      "word": "黄奕女儿被网友抗议出道",
-      "onboard_time": 1754299282,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91713,
       "num": 238223,
       "word": "一家三口赶海1人失踪1人进ICU",
@@ -5108,7 +5132,7 @@
     },
     {
       "raw_hot": 80938,
-      "num": 362586,
+      "num": 401500,
       "word": "雅漾守护纯粹热爱",
       "onboard_time": 1754297902,
       "rank": 14,
@@ -5177,6 +5201,14 @@
       "onboard_time": 1754204604,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75403,
+      "num": 438151,
+      "word": "多地需提供医疗证明才能请痛经假",
+      "onboard_time": 1754300062,
+      "rank": 35,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 75207,
@@ -5289,14 +5321,6 @@
       "onboard_time": 1754131342,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 66444,
-      "num": 155539,
-      "word": "李昀锐谈九重紫爆火",
-      "onboard_time": 1754300243,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 66315,
@@ -5539,14 +5563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 48810,
-      "num": 162004,
-      "word": "多地需提供医疗证明才能请痛经假",
-      "onboard_time": 1754300062,
-      "rank": 35,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 47416,
       "num": 70975,
       "word": "每个当下都值得全情投入",
@@ -5569,6 +5585,14 @@
       "onboard_time": 1754227225,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42510,
+      "num": 146684,
+      "word": "90后银行职员夫妻下班送外卖舒压",
+      "onboard_time": 1754300842,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40656,
@@ -5617,6 +5641,14 @@
       "onboard_time": 1754159896,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32577,
+      "num": 147625,
+      "word": "巩俐的眼神叫睥睨",
+      "onboard_time": 1754300483,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 32538,
