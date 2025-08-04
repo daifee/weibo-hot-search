@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754317979384,
+  "endTime": 1754319154650,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2059,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4374667,
+      "num": 4374667,
+      "word": "赵露思曾被锁酒店驱魔",
+      "onboard_time": 1754315665,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4374487,
       "num": 4374487,
       "word": "黄子韬宣布将做卫生巾",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735689496,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3885539,
-      "num": 393491,
-      "word": "福州车祸",
-      "onboard_time": 1746194251,
-      "rank": 10,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
