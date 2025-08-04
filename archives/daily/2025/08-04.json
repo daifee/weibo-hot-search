@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754282478893,
+  "endTime": 1754286120056,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1367416,
-      "num": 338340,
+      "num": 879806,
       "word": "酷似大S女生称未模仿大S未整容",
       "onboard_time": 1754280805,
       "rank": 30,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942769,
+      "num": 194184,
+      "word": "学费44万的大学录取通知书长什么样",
+      "onboard_time": 1754282365,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 924768,
       "num": 924768,
       "word": "全球贸易史上迎来黑暗一天",
@@ -97,6 +105,14 @@
       "onboard_time": 1754224706,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 832396,
+      "num": 832396,
+      "word": "电影731提示未满18岁请谨慎观看",
+      "onboard_time": 1754283265,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 805546,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475648,
+      "num": 395583,
+      "word": "唐国强不知道假唱也要举话筒",
+      "onboard_time": 1754281584,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454624,
       "num": 454624,
       "word": "导演说迪丽热巴付出牺牲特别大",
@@ -224,6 +248,14 @@
       "word": "管乐回应和小酒窝长得像",
       "onboard_time": 1754278162,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 416421,
+      "num": 232623,
+      "word": "李登科否认娜扎分手",
+      "onboard_time": 1754282306,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -299,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322281,
-      "num": 322281,
-      "word": "唐国强不知道假唱也要举话筒",
-      "onboard_time": 1754281584,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 326998,
+      "num": 326998,
+      "word": "泰国僧侣性丑闻",
+      "onboard_time": 1754280444,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 313446,
@@ -321,6 +353,14 @@
       "onboard_time": 1754279663,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303159,
+      "num": 303159,
+      "word": "韩国汉江出现不明生物吓跑钓鱼男子",
+      "onboard_time": 1754280444,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 300506,
@@ -345,6 +385,14 @@
       "onboard_time": 1754235084,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279826,
+      "num": 279826,
+      "word": "白马寺每天提供60多桶水供游客饮用",
+      "onboard_time": 1754279484,
+      "rank": 22,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 266407,
@@ -401,14 +449,6 @@
       "onboard_time": 1754275701,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239520,
-      "num": 239520,
-      "word": "白马寺每天提供60多桶水供游客饮用",
-      "onboard_time": 1754279484,
-      "rank": 22,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 239312,
@@ -483,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218063,
+      "num": 193637,
+      "word": "6岁男童小区内被犬只撕咬下体",
+      "onboard_time": 1754284523,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213686,
+      "num": 213686,
+      "word": "肖战粤语角色来了",
+      "onboard_time": 1754285601,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211991,
       "num": 211991,
       "word": "鹿晗你竟然耍我",
@@ -491,20 +547,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211576,
+      "num": 193947,
+      "word": "王一博首支香奈儿广告大片",
+      "onboard_time": 1754283984,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 207782,
       "num": 207782,
       "word": "女童喂马被咬断手指",
       "onboard_time": 1754278403,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207613,
-      "num": 207613,
-      "word": "泰国僧侣性丑闻",
-      "onboard_time": 1754280444,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 206903,
@@ -563,12 +619,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193533,
+      "num": 194091,
+      "word": "哪吒捕妖队 2.5亿人",
+      "onboard_time": 1754282365,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193314,
       "num": 208260,
       "word": "上海一百年老洋房1.5亿元起拍",
       "onboard_time": 1754235803,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188866,
+      "num": 188866,
+      "word": "陈赫造型cos紫萱",
+      "onboard_time": 1754285003,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 187991,
@@ -595,14 +667,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 184539,
-      "num": 184539,
-      "word": "学费44万的大学录取通知书长什么样",
-      "onboard_time": 1754282365,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 183131,
       "num": 183131,
       "word": "汪顺发文总结世锦赛",
@@ -619,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176529,
+      "num": 176529,
+      "word": "白敬亭出道十一周年vlog",
+      "onboard_time": 1754285363,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175803,
       "num": 175803,
       "word": "被骗缅甸获救高考生将学医学类专业",
@@ -633,14 +705,6 @@
       "onboard_time": 1754270482,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172584,
-      "num": 172584,
-      "word": "李登科否认娜扎分手",
-      "onboard_time": 1754282306,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 170026,
@@ -747,11 +811,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 146746,
-      "num": 146746,
-      "word": "韩国汉江出现不明生物吓跑钓鱼男子",
-      "onboard_time": 1754280444,
-      "rank": 40,
+      "raw_hot": 146686,
+      "num": 206165,
+      "word": "印度一警察向洪水献上牛奶花瓣",
+      "onboard_time": 1754281886,
+      "rank": 31,
       "category": "海外新闻"
     },
     {
@@ -761,6 +825,14 @@
       "onboard_time": 1754272942,
       "rank": 36,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 145095,
+      "num": 145095,
+      "word": "魏劭行为请勿上升刘宇宁",
+      "onboard_time": 1754285601,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 144312,
@@ -779,12 +851,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141304,
+      "num": 141304,
+      "word": "徐如蓝魅魔型人格",
+      "onboard_time": 1754285963,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141052,
       "num": 141052,
       "word": "秃子 Asen",
       "onboard_time": 1754272701,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139557,
+      "num": 139557,
+      "word": "DC漫威都得叫他一声前辈",
+      "onboard_time": 1754284944,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 138649,
+      "num": 138648,
+      "word": "樊振东巴黎夺冠新闻长度四分钟",
+      "onboard_time": 1754282605,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 130738,
@@ -803,6 +899,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126516,
+      "num": 126516,
+      "word": "请把敖瑞鹏宋威龙这视频给沈月看",
+      "onboard_time": 1754282665,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125614,
+      "num": 125614,
+      "word": "赵露思说知道仅在社交平台发声无用",
+      "onboard_time": 1754284582,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124990,
       "num": 124990,
       "word": "情侣旅游发生车祸死里逃生后领证",
@@ -819,20 +931,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 123657,
-      "num": 206165,
-      "word": "印度一警察向洪水献上牛奶花瓣",
-      "onboard_time": 1754281886,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 123590,
-      "num": 194091,
-      "word": "哪吒捕妖队 2.5亿人",
-      "onboard_time": 1754282365,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 123661,
+      "num": 123661,
+      "word": "顶奢能给的待遇都给王一博了",
+      "onboard_time": 1754284104,
+      "rank": 44,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 122937,
@@ -849,6 +953,14 @@
       "onboard_time": 1754277443,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121015,
+      "num": 121015,
+      "word": "樊振东点赞潘展乐微博",
+      "onboard_time": 1754285904,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 120906,
@@ -891,6 +1003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114857,
+      "num": 114857,
+      "word": "原来莲花个子这么高",
+      "onboard_time": 1754285183,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114596,
       "num": 114596,
       "word": "BABYMONSTER新歌涉嫌抄袭",
@@ -923,6 +1043,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109883,
+      "num": 109883,
+      "word": "杨洋3句台词6个心眼",
+      "onboard_time": 1754282665,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109843,
+      "num": 109843,
+      "word": "鸡蛋存放多久就不能吃了",
+      "onboard_time": 1754286083,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109833,
       "num": 207621,
       "word": "部分日本人不满交单身税补贴生育",
@@ -947,12 +1083,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 108187,
+      "num": 227645,
+      "word": "小妖怪送10万杯奶茶",
+      "onboard_time": 1754281945,
+      "rank": 19,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 107215,
       "num": 1124275,
       "word": "山东舰辽宁舰并肩向前",
       "onboard_time": 1754268262,
       "rank": 45,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 107171,
+      "num": 194050,
+      "word": "灵隐寺的辣椒酱超辣有人想代购",
+      "onboard_time": 1754284883,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105369,
@@ -1001,6 +1153,14 @@
       "onboard_time": 1754225544,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99591,
+      "num": 138649,
+      "word": "不死之身樊振东",
+      "onboard_time": 1754285843,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 98337,
@@ -1171,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80657,
-      "num": 227645,
-      "word": "小妖怪送10万杯奶茶",
-      "onboard_time": 1754281945,
-      "rank": 19,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 79642,
       "num": 79642,
       "word": "法拉利 乐扣",
@@ -1283,6 +1435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 48035,
+      "num": 146312,
+      "word": "北京发洪水蓝色预警",
+      "onboard_time": 1754281646,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41053,
       "num": 50414,
       "word": "安静公主自曝睡医院地上",
@@ -1345,6 +1505,14 @@
       "onboard_time": 1754249294,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18068,
+      "num": 172868,
+      "word": "哈马斯曝光以色列人质画面",
+      "onboard_time": 1754285482,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15505,
