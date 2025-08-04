@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754326569248,
+  "endTime": 1754328640686,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66133,
+      "num": 66133,
+      "word": "王安宇回应音乐节手抖",
+      "onboard_time": 1754326340,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65658,
       "num": 65658,
       "word": "县委书记2230万强行上马旅游项目被通报",
@@ -387,19 +395,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54257,
-      "num": 54257,
-      "word": "王安宇回应音乐节手抖",
-      "onboard_time": 1754326340,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 51595,
       "num": 54518,
       "word": "一下班就下大雨真不是你的错觉",
       "onboard_time": 1754315545,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49548,
+      "num": 49548,
+      "word": "台湾姑娘分享对大陆喜爱遭恶意攻击",
+      "onboard_time": 1754318606,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -411,12 +419,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46960,
+      "num": 46960,
+      "word": "体制内爱好红黑榜",
+      "onboard_time": 1754312723,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46308,
       "num": 52635,
       "word": "这树绝对是昨天长出来的",
       "onboard_time": 1754326100,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38976,
+      "num": 38976,
+      "word": "警方回应奔驰车被指逆行超车逼停摩托",
+      "onboard_time": 1754327598,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33221,
+      "num": 33221,
+      "word": "心动的信号8",
+      "onboard_time": 1754303962,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31044,
+      "num": 31044,
+      "word": "光遇",
+      "onboard_time": 1754328078,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 26859,
@@ -438,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#人民军队攻坚制胜#"
+    },
+    {
+      "word": "#不断实现人民对美好生活的向往#"
     }
   ]
 }
