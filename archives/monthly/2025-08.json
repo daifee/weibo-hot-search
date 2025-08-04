@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754297700052,
+  "endTime": 1754300435159,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -788,11 +788,19 @@
     },
     {
       "raw_hot": 942769,
-      "num": 278238,
+      "num": 292043,
       "word": "学费44万的大学录取通知书长什么样",
       "onboard_time": 1754282365,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 925192,
+      "num": 440257,
+      "word": "痛经假 医疗证明",
+      "onboard_time": 1754294842,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 924768,
@@ -897,6 +905,14 @@
       "onboard_time": 1754283265,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 829480,
+      "num": 576433,
+      "word": "衣服都脱了你俩拍打戏",
+      "onboard_time": 1754295203,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 822747,
@@ -1403,14 +1419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 605109,
-      "num": 440257,
-      "word": "痛经假 医疗证明",
-      "onboard_time": 1754294842,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 602089,
       "num": 331263,
       "word": "白举纲早这么唱不就不淘汰了",
@@ -1627,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 550347,
-      "num": 550347,
-      "word": "衣服都脱了你俩拍打戏",
-      "onboard_time": 1754295203,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 549028,
       "num": 549028,
       "word": "时代少年团 上海",
@@ -1761,6 +1761,14 @@
       "onboard_time": 1754115443,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 510556,
+      "num": 510556,
+      "word": "孙红雷想黄渤黄磊张艺兴了",
+      "onboard_time": 1754295685,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 505719,
@@ -2227,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395601,
+      "num": 395601,
+      "word": "短剧折腰开拍",
+      "onboard_time": 1754296162,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393506,
       "num": 393506,
       "word": "山东一彩民花69元中2.4亿元",
@@ -2451,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355210,
+      "num": 355210,
+      "word": "美国客户发邮件狂催中国婚纱",
+      "onboard_time": 1754297364,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354572,
       "num": 250554,
       "word": "7岁男孩求父母抛弃自己",
@@ -2473,14 +2497,6 @@
       "onboard_time": 1754020941,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349107,
-      "num": 349107,
-      "word": "孙红雷想黄渤黄磊张艺兴了",
-      "onboard_time": 1754295685,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 348824,
@@ -2609,6 +2625,14 @@
       "onboard_time": 1754132302,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 334465,
+      "num": 334465,
+      "word": "我国在艾滋病疫苗研发领域取得重要进展",
+      "onboard_time": 1754295743,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 333796,
@@ -2931,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300919,
+      "num": 291138,
+      "word": "93年月入4000元上下班的一天",
+      "onboard_time": 1754297964,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300506,
       "num": 179092,
       "word": "白敬亭在家炒的菜还没有第三人吃过",
@@ -3097,14 +3129,6 @@
       "onboard_time": 1754225365,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282235,
-      "num": 282235,
-      "word": "我国在艾滋病疫苗研发领域取得重要进展",
-      "onboard_time": 1754295743,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 282226,
@@ -3523,14 +3547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249635,
-      "num": 249635,
-      "word": "短剧折腰开拍",
-      "onboard_time": 1754296162,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248916,
       "num": 248916,
       "word": "SHarK总冠军",
@@ -3811,6 +3827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 228718,
+      "num": 228718,
+      "word": "博主迅猛龙正式入读复旦",
+      "onboard_time": 1754297423,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 228335,
       "num": 228335,
       "word": "原神菲林斯",
@@ -3857,6 +3881,14 @@
       "onboard_time": 1754135784,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227357,
+      "num": 227357,
+      "word": "关晓彤头发全梳起来大大方方的",
+      "onboard_time": 1754298863,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 227107,
@@ -4211,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212760,
+      "num": 212760,
+      "word": "司马懿相柳皮肤爆料",
+      "onboard_time": 1754299823,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212513,
       "num": 212513,
       "word": "店员笑了两分钟才放进去",
@@ -4265,6 +4305,14 @@
       "onboard_time": 1754026042,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210462,
+      "num": 210462,
+      "word": "古偶又争又抢男狐狸精来了",
+      "onboard_time": 1754299403,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 210392,
@@ -4971,6 +5019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192801,
+      "num": 192801,
+      "word": "这届年轻人得了亏毛焦虑症",
+      "onboard_time": 1754299103,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192415,
       "num": 352073,
       "word": "零跑汽车7月销量首破5万台",
@@ -5256,6 +5312,14 @@
       "word": "刘宇宁龚俊 老爷和我",
       "onboard_time": 1754045184,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185520,
+      "num": 185520,
+      "word": "王玉雯虎妹爆改茜茜公主",
+      "onboard_time": 1754299943,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -6475,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160210,
+      "num": 160210,
+      "word": "毕业后朋友圈都成了一片空白",
+      "onboard_time": 1754298983,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160164,
       "num": 160164,
       "word": "第五人格ip联动",
@@ -6803,6 +6875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153428,
+      "num": 153428,
+      "word": "安踏回应收购锐步传闻",
+      "onboard_time": 1754299762,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153413,
       "num": 153413,
       "word": "刘亦菲本科毕业论文答辩",
@@ -6969,14 +7049,6 @@
       "onboard_time": 1754052203,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150596,
-      "num": 150596,
-      "word": "博主迅猛龙正式入读复旦",
-      "onboard_time": 1754297423,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 150487,
@@ -7819,14 +7891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137910,
-      "num": 137910,
-      "word": "美国客户发邮件狂催中国婚纱",
-      "onboard_time": 1754297364,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137902,
       "num": 137902,
       "word": "JDG对战DRG",
@@ -7865,6 +7929,14 @@
       "onboard_time": 1754039482,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137541,
+      "num": 137541,
+      "word": "张婧仪喀什plog",
+      "onboard_time": 1754300183,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 137503,
@@ -7921,6 +7993,14 @@
       "onboard_time": 1754101880,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137113,
+      "num": 137113,
+      "word": "不爱打扮 感官过载",
+      "onboard_time": 1754299704,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 136719,
@@ -8233,6 +8313,14 @@
       "onboard_time": 1754124502,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133360,
+      "num": 137178,
+      "word": "李兰迪敖瑞鹏 人鬼情未了",
+      "onboard_time": 1754297064,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 133306,
@@ -8649,6 +8737,14 @@
       "onboard_time": 1754131464,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "孙颖莎回应世乒赛哭了",
+      "onboard_time": 1754300302,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 127244,
@@ -10875,6 +10971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91793,
+      "num": 157011,
+      "word": "黄奕女儿被网友抗议出道",
+      "onboard_time": 1754299282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "孙颖莎捐赠物资抵达河北",
@@ -11219,6 +11323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 80938,
+      "num": 362586,
+      "word": "雅漾守护纯粹热爱",
+      "onboard_time": 1754297902,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80791,
       "num": 255255,
       "word": "在CJ骁龙馆找到了游戏真神装",
@@ -11481,6 +11593,14 @@
       "onboard_time": 1753986796,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66444,
+      "num": 155539,
+      "word": "李昀锐谈九重紫爆火",
+      "onboard_time": 1754300243,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 66334,
@@ -11969,6 +12089,14 @@
       "onboard_time": 1754052803,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48810,
+      "num": 162004,
+      "word": "多地需提供医疗证明才能请痛经假",
+      "onboard_time": 1754300062,
+      "rank": 35,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 48176,

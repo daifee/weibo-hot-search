@@ -1,0 +1,410 @@
+{
+  "runTime": 1754300435159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725227,
+        "num": 1116036,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 668099,
+        "num": 668099,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 1,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 21567,
+        "num": 577845,
+        "word": "航母编队赴西太平洋训练详情公开",
+        "onboard_time": 1754269883,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 829480,
+        "num": 576433,
+        "word": "衣服都脱了你俩拍打戏",
+        "onboard_time": 1754295203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 775038,
+        "num": 553250,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 510556,
+        "num": 510556,
+        "word": "孙红雷想黄渤黄磊张艺兴了",
+        "onboard_time": 1754295685,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439007,
+        "num": 439007,
+        "word": "北京暴雨",
+        "onboard_time": 1754292622,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414652,
+        "num": 414652,
+        "word": "芒果男艺人发长文求工作",
+        "onboard_time": 1754293763,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413769,
+        "num": 413769,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 395601,
+        "num": 395601,
+        "word": "短剧折腰开拍",
+        "onboard_time": 1754296162,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 925192,
+        "num": 391495,
+        "word": "痛经假 医疗证明",
+        "onboard_time": 1754294842,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625607,
+        "num": 382351,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521063,
+        "num": 379405,
+        "word": "徐璐这穿搭够我学一阵了",
+        "onboard_time": 1754294543,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1725881,
+        "num": 371122,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80938,
+        "num": 362586,
+        "word": "雅漾守护纯粹热爱",
+        "onboard_time": 1754297902,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355210,
+        "num": 355210,
+        "word": "美国客户发邮件狂催中国婚纱",
+        "onboard_time": 1754297364,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336760,
+        "num": 336760,
+        "word": "库克感谢中国国补政策",
+        "onboard_time": 1754291964,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 334465,
+        "num": 334465,
+        "word": "我国在艾滋病疫苗研发领域取得重要进展",
+        "onboard_time": 1754295743,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312865,
+        "num": 312865,
+        "word": "官方回应丁程鑫张真源人才引进",
+        "onboard_time": 1754289803,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292904,
+        "num": 292904,
+        "word": "王安宇抖成这样",
+        "onboard_time": 1754291722,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 410533,
+        "num": 292043,
+        "word": "学费44万的大学录取通知书长什么样",
+        "onboard_time": 1754282365,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300919,
+        "num": 291138,
+        "word": "93年月入4000元上下班的一天",
+        "onboard_time": 1754297964,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288011,
+        "num": 288011,
+        "word": "许倬云曾遗憾但悲不见九州同",
+        "onboard_time": 1754296344,
+        "rank": 22,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 228718,
+        "num": 228718,
+        "word": "博主迅猛龙正式入读复旦",
+        "onboard_time": 1754297423,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227357,
+        "num": 227357,
+        "word": "关晓彤头发全梳起来大大方方的",
+        "onboard_time": 1754298863,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223935,
+        "num": 223935,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221471,
+        "num": 221471,
+        "word": "终于学会漂漂亮亮不随份子钱",
+        "onboard_time": 1754290223,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212760,
+        "num": 212760,
+        "word": "司马懿相柳皮肤爆料",
+        "onboard_time": 1754299823,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210462,
+        "num": 210462,
+        "word": "古偶又争又抢男狐狸精来了",
+        "onboard_time": 1754299403,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201539,
+        "num": 201539,
+        "word": "电影731提示未满18岁请谨慎观看",
+        "onboard_time": 1754283265,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193145,
+        "num": 193145,
+        "word": "夏天终于有仙侠剧看了",
+        "onboard_time": 1754295803,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192801,
+        "num": 192801,
+        "word": "这届年轻人得了亏毛焦虑症",
+        "onboard_time": 1754299103,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185520,
+        "num": 185520,
+        "word": "王玉雯虎妹爆改茜茜公主",
+        "onboard_time": 1754299943,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182765,
+        "num": 182765,
+        "word": "女子推理社",
+        "onboard_time": 1754296464,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163248,
+        "num": 163248,
+        "word": "网传金九女王迪丽热巴",
+        "onboard_time": 1754288961,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48810,
+        "num": 162004,
+        "word": "多地需提供医疗证明才能请痛经假",
+        "onboard_time": 1754300062,
+        "rank": 35,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 161331,
+        "num": 161331,
+        "word": "女子获赠舅舅房产被其女儿起诉",
+        "onboard_time": 1754295922,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160210,
+        "num": 160210,
+        "word": "毕业后朋友圈都成了一片空白",
+        "onboard_time": 1754298983,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91793,
+        "num": 157011,
+        "word": "黄奕女儿被网友抗议出道",
+        "onboard_time": 1754299282,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66444,
+        "num": 155539,
+        "word": "李昀锐谈九重紫爆火",
+        "onboard_time": 1754300243,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154749,
+        "num": 154749,
+        "word": "九一八和731都是不能忘的数字",
+        "onboard_time": 1754293822,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154455,
+        "num": 154455,
+        "word": "谢娜打拼归来仍是没招的女儿",
+        "onboard_time": 1754297123,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153428,
+        "num": 153428,
+        "word": "安踏回应收购锐步传闻",
+        "onboard_time": 1754299762,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151940,
+        "num": 151940,
+        "word": "北京女子去世无子女亲戚起诉分遗产",
+        "onboard_time": 1754289623,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144844,
+        "num": 144844,
+        "word": "以为是天崩开局结果妈妈是通天代",
+        "onboard_time": 1754295323,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137541,
+        "num": 137541,
+        "word": "张婧仪喀什plog",
+        "onboard_time": 1754300183,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133360,
+        "num": 137178,
+        "word": "李兰迪敖瑞鹏 人鬼情未了",
+        "onboard_time": 1754297064,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137113,
+        "num": 137113,
+        "word": "不爱打扮 感官过载",
+        "onboard_time": 1754299704,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136966,
+        "num": 136966,
+        "word": "每天1杯无糖饮料患糖尿病风险增38%",
+        "onboard_time": 1754291782,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127350,
+        "num": 127350,
+        "word": "孙颖莎回应世乒赛哭了",
+        "onboard_time": 1754300302,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#广泛深入察民情听民声汇民智#"
+    }
+  }
+}

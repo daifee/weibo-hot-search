@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754297700052,
+  "endTime": 1754300435159,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 942769,
-      "num": 278238,
+      "num": 292043,
       "word": "学费44万的大学录取通知书长什么样",
       "onboard_time": 1754282365,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 925192,
+      "num": 440257,
+      "word": "痛经假 医疗证明",
+      "onboard_time": 1754294842,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 924768,
@@ -145,6 +153,14 @@
       "onboard_time": 1754283265,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 829480,
+      "num": 576433,
+      "word": "衣服都脱了你俩拍打戏",
+      "onboard_time": 1754295203,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 810958,
@@ -209,14 +225,6 @@
       "onboard_time": 1754288961,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 605109,
-      "num": 440257,
-      "word": "痛经假 医疗证明",
-      "onboard_time": 1754294842,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 598022,
@@ -299,14 +307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 550347,
-      "num": 550347,
-      "word": "衣服都脱了你俩拍打戏",
-      "onboard_time": 1754295203,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 544312,
       "num": 544312,
       "word": "杨清柠乔司离婚",
@@ -329,6 +329,14 @@
       "onboard_time": 1754271980,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 510556,
+      "num": 510556,
+      "word": "孙红雷想黄渤黄磊张艺兴了",
+      "onboard_time": 1754295685,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 505719,
@@ -403,6 +411,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 395601,
+      "num": 395601,
+      "word": "短剧折腰开拍",
+      "onboard_time": 1754296162,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389036,
       "num": 273779,
       "word": "终于学会漂漂亮亮不随份子钱",
@@ -435,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349107,
-      "num": 349107,
-      "word": "孙红雷想黄渤黄磊张艺兴了",
-      "onboard_time": 1754295685,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 355210,
+      "num": 355210,
+      "word": "美国客户发邮件狂催中国婚纱",
+      "onboard_time": 1754297364,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341684,
@@ -489,6 +505,14 @@
       "onboard_time": 1754230286,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334465,
+      "num": 334465,
+      "word": "我国在艾滋病疫苗研发领域取得重要进展",
+      "onboard_time": 1754295743,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 333420,
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300919,
+      "num": 291138,
+      "word": "93年月入4000元上下班的一天",
+      "onboard_time": 1754297964,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300506,
       "num": 179092,
       "word": "白敬亭在家炒的菜还没有第三人吃过",
@@ -585,14 +617,6 @@
       "onboard_time": 1754235084,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 282235,
-      "num": 282235,
-      "word": "我国在艾滋病疫苗研发领域取得重要进展",
-      "onboard_time": 1754295743,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 279826,
@@ -649,14 +673,6 @@
       "onboard_time": 1754289981,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249635,
-      "num": 249635,
-      "word": "短剧折腰开拍",
-      "onboard_time": 1754296162,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 248567,
@@ -731,12 +747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228718,
+      "num": 228718,
+      "word": "博主迅猛龙正式入读复旦",
+      "onboard_time": 1754297423,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 228335,
       "num": 228335,
       "word": "原神菲林斯",
       "onboard_time": 1754281945,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227357,
+      "num": 227357,
+      "word": "关晓彤头发全梳起来大大方方的",
+      "onboard_time": 1754298863,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 225182,
@@ -787,12 +819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212760,
+      "num": 212760,
+      "word": "司马懿相柳皮肤爆料",
+      "onboard_time": 1754299823,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211991,
       "num": 211991,
       "word": "鹿晗你竟然耍我",
       "onboard_time": 1754232085,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210462,
+      "num": 210462,
+      "word": "古偶又争又抢男狐狸精来了",
+      "onboard_time": 1754299403,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 207782,
@@ -891,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192801,
+      "num": 192801,
+      "word": "这届年轻人得了亏毛焦虑症",
+      "onboard_time": 1754299103,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188866,
       "num": 188866,
       "word": "陈赫造型cos紫萱",
@@ -937,6 +993,14 @@
       "onboard_time": 1754228125,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185520,
+      "num": 185520,
+      "word": "王玉雯虎妹爆改茜茜公主",
+      "onboard_time": 1754299943,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 183131,
@@ -1139,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160210,
+      "num": 160210,
+      "word": "毕业后朋友圈都成了一片空白",
+      "onboard_time": 1754298983,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159806,
       "num": 159806,
       "word": "丁程鑫刺杀小说家2行者造型",
@@ -1171,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153428,
+      "num": 153428,
+      "word": "安踏回应收购锐步传闻",
+      "onboard_time": 1754299762,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151958,
       "num": 151958,
       "word": "刘宇宁是真害怕了",
@@ -1193,14 +1273,6 @@
       "onboard_time": 1754292862,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150596,
-      "num": 150596,
-      "word": "博主迅猛龙正式入读复旦",
-      "onboard_time": 1754297423,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 150199,
@@ -1299,20 +1371,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137910,
-      "num": 137910,
-      "word": "美国客户发邮件狂催中国婚纱",
-      "onboard_time": 1754297364,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "丁程鑫张真源拟北京人才引进",
       "onboard_time": 1754289623,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137541,
+      "num": 137541,
+      "word": "张婧仪喀什plog",
+      "onboard_time": 1754300183,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137113,
+      "num": 137113,
+      "word": "不爱打扮 感官过载",
+      "onboard_time": 1754299704,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 136354,
@@ -1329,6 +1409,14 @@
       "onboard_time": 1754286862,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133360,
+      "num": 137178,
+      "word": "李兰迪敖瑞鹏 人鬼情未了",
+      "onboard_time": 1754297064,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 130738,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1754271380,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "孙颖莎回应世乒赛哭了",
+      "onboard_time": 1754300302,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126516,
@@ -1875,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91793,
+      "num": 157011,
+      "word": "黄奕女儿被网友抗议出道",
+      "onboard_time": 1754299282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91712,
       "num": 91712,
       "word": "鞠婧祎直播",
@@ -1979,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80938,
+      "num": 362586,
+      "word": "雅漾守护纯粹热爱",
+      "onboard_time": 1754297902,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79642,
       "num": 79642,
       "word": "法拉利 乐扣",
@@ -2009,6 +2121,14 @@
       "onboard_time": 1754272281,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66444,
+      "num": 155539,
+      "word": "李昀锐谈九重紫爆火",
+      "onboard_time": 1754300243,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 66315,
@@ -2097,6 +2217,14 @@
       "onboard_time": 1754262559,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48810,
+      "num": 162004,
+      "word": "多地需提供医疗证明才能请痛经假",
+      "onboard_time": 1754300062,
+      "rank": 35,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 41053,
