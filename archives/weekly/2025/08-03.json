@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754274497553,
+  "endTime": 1754276359624,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1567563,
+      "num": 235389,
+      "word": "黄奕带女儿赴韩国学习唱跳",
+      "onboard_time": 1754273901,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1540939,
       "num": 1540939,
       "word": "恋人",
@@ -211,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1198269,
+      "num": 266305,
+      "word": "赵露思没心情合影",
+      "onboard_time": 1754266101,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1191741,
       "num": 636259,
       "word": "肖战 小城良方",
@@ -248,14 +264,6 @@
       "word": "于正说可以和赵露思合伙开面馆",
       "onboard_time": 1754221643,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1076443,
-      "num": 266305,
-      "word": "赵露思没心情合影",
-      "onboard_time": 1754266101,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -507,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 584266,
+      "num": 584266,
+      "word": "电影刺杀小说家2定档",
+      "onboard_time": 1754273962,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 578746,
       "num": 578746,
       "word": "大妈偷外卖",
@@ -603,12 +619,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 519700,
+      "num": 279460,
+      "word": "14岁女孩遭殴打两人被送学校矫正",
+      "onboard_time": 1754271980,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 516102,
       "num": 434976,
       "word": "歌手帮唱",
       "onboard_time": 1754231306,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505719,
+      "num": 236017,
+      "word": "给内耗的人一句终极解药",
+      "onboard_time": 1754270781,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 493031,
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 492447,
-      "num": 175297,
+      "num": 175397,
       "word": "黄奕女儿韩国体验练习生",
       "onboard_time": 1754272402,
       "rank": 21,
@@ -900,7 +932,7 @@
     },
     {
       "raw_hot": 333420,
-      "num": 236724,
+      "num": 249084,
       "word": "老谢谈赵露思银河酷娱纠纷",
       "onboard_time": 1754269521,
       "rank": 11,
@@ -937,14 +969,6 @@
       "onboard_time": 1754217263,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 316866,
-      "num": 236017,
-      "word": "给内耗的人一句终极解药",
-      "onboard_time": 1754270781,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 311160,
@@ -1083,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279460,
-      "num": 279460,
-      "word": "14岁女孩遭殴打两人被送学校矫正",
-      "onboard_time": 1754271980,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275658,
       "num": 246329,
       "word": "贾玲股四头肌",
@@ -1171,14 +1187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258431,
-      "num": 235389,
-      "word": "黄奕带女儿赴韩国学习唱跳",
-      "onboard_time": 1754273901,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258076,
       "num": 258076,
       "word": "林则徐棉花娃",
@@ -1243,6 +1251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 241879,
+      "num": 241879,
+      "word": "59岁医生向同行直播700多台手术",
+      "onboard_time": 1754275701,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 238436,
       "num": 238436,
       "word": "3天后就立秋了",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1754191703,
       "rank": 25,
       "category": "读书作家,电竞"
+    },
+    {
+      "raw_hot": 225073,
+      "num": 175365,
+      "word": "建议大家永远不要向下兼容",
+      "onboard_time": 1754273360,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 222788,
@@ -1395,6 +1419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205301,
+      "num": 220618,
+      "word": "北京请市民减少外出",
+      "onboard_time": 1754274681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204588,
       "num": 204588,
       "word": "王安宇现场cue了花少",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1754217204,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199616,
+      "num": 175290,
+      "word": "国漫新晋四大白毛帅哥",
+      "onboard_time": 1754275223,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 197868,
@@ -1547,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190143,
-      "num": 171506,
-      "word": "建议大家永远不要向下兼容",
-      "onboard_time": 1754273360,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190018,
       "num": 190018,
       "word": "宋佳上城士妆造必有高人指点",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1754192244,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187154,
+      "num": 175214,
+      "word": "一代人有一代人的漫展体验",
+      "onboard_time": 1754275462,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 186573,
@@ -1675,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184885,
-      "num": 184885,
-      "word": "电影刺杀小说家2定档",
-      "onboard_time": 1754273962,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184478,
       "num": 184478,
       "word": "走路10分钟身体就开始变化",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1754213543,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183131,
+      "num": 183131,
+      "word": "汪顺发文总结世锦赛",
+      "onboard_time": 1754275101,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 182389,
@@ -1793,6 +1833,14 @@
       "onboard_time": 1754191464,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175214,
+      "num": 175213,
+      "word": "潘展乐告状已经1年了",
+      "onboard_time": 1754270482,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 173833,
@@ -2427,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141052,
+      "num": 141052,
+      "word": "秃子 Asen",
+      "onboard_time": 1754272701,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140610,
       "num": 140610,
       "word": "陈星旭我不落寞了我在罗马了",
@@ -2441,6 +2497,14 @@
       "onboard_time": 1754205025,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140136,
+      "num": 140136,
+      "word": "解放军联合登陆演习高燃场面",
+      "onboard_time": 1754272942,
+      "rank": 36,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 139118,
@@ -2699,6 +2763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128114,
+      "num": 128114,
+      "word": "女子轻信代抢演唱会门票被骗19万元",
+      "onboard_time": 1754271380,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127841,
       "num": 214476,
       "word": "店家回应彩民花69元中2.4亿元",
@@ -2811,28 +2883,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 125016,
-      "num": 125016,
-      "word": "女子轻信代抢演唱会门票被骗19万元",
-      "onboard_time": 1754271380,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124863,
       "num": 124863,
       "word": "伯伯不ins字儿",
       "onboard_time": 1754196685,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123975,
-      "num": 123975,
-      "word": "秃子 Asen",
-      "onboard_time": 1754272701,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 123591,
@@ -3187,14 +3243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109225,
-      "num": 109225,
-      "word": "解放军联合登陆演习高燃场面",
-      "onboard_time": 1754272942,
-      "rank": 36,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 108864,
       "num": 108864,
       "word": "母子五人在英国被安置在集装箱",
@@ -3323,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100998,
+      "num": 100998,
+      "word": "女孩游泳课后展示街舞又美又飒",
+      "onboard_time": 1754270781,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100401,
       "num": 100401,
       "word": "德国愤怒小鸟纵火袭击铁路",
@@ -3425,6 +3481,14 @@
       "onboard_time": 1754178260,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95150,
+      "num": 95150,
+      "word": "不能只爱她的有趣漂亮",
+      "onboard_time": 1754275762,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 95123,
@@ -3563,12 +3627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90399,
-      "num": 90399,
-      "word": "女孩游泳课后展示街舞又美又飒",
-      "onboard_time": 1754270781,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 89998,
+      "num": 133662,
+      "word": "沈腾出片了是喜剧片",
+      "onboard_time": 1754276120,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 89944,
@@ -3889,6 +3953,14 @@
       "onboard_time": 1754189961,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68707,
+      "num": 76086,
+      "word": "王橹杰 镜中人",
+      "onboard_time": 1754272281,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 68696,

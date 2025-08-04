@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754274497553,
+  "endTime": 1754276359624,
   "band_list": [
     {
       "raw_hot": 1615223,
@@ -8,6 +8,14 @@
       "word": "杨幂15年前的博文火了",
       "onboard_time": 1754231546,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1567563,
+      "num": 235389,
+      "word": "黄奕带女儿赴韩国学习唱跳",
+      "onboard_time": 1754273901,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -27,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1076443,
+      "raw_hot": 1198269,
       "num": 266305,
       "word": "赵露思没心情合影",
       "onboard_time": 1754266101,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 584266,
+      "num": 584266,
+      "word": "电影刺杀小说家2定档",
+      "onboard_time": 1754273962,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 575221,
       "num": 336609,
       "word": "鞠婧祎知道被P成孙悟空",
@@ -91,8 +107,24 @@
       "category": "网红"
     },
     {
+      "raw_hot": 519700,
+      "num": 279460,
+      "word": "14岁女孩遭殴打两人被送学校矫正",
+      "onboard_time": 1754271980,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505719,
+      "num": 236017,
+      "word": "给内耗的人一句终极解药",
+      "onboard_time": 1754270781,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492447,
-      "num": 175297,
+      "num": 175397,
       "word": "黄奕女儿韩国体验练习生",
       "onboard_time": 1754272402,
       "rank": 21,
@@ -140,19 +172,11 @@
     },
     {
       "raw_hot": 333420,
-      "num": 236724,
+      "num": 249084,
       "word": "老谢谈赵露思银河酷娱纠纷",
       "onboard_time": 1754269521,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316866,
-      "num": 236017,
-      "word": "给内耗的人一句终极解药",
-      "onboard_time": 1754270781,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 313446,
@@ -187,14 +211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 279460,
-      "num": 279460,
-      "word": "14岁女孩遭殴打两人被送学校矫正",
-      "onboard_time": 1754271980,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266407,
       "num": 266407,
       "word": "上海将开展入户调查",
@@ -211,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258431,
-      "num": 235389,
-      "word": "黄奕带女儿赴韩国学习唱跳",
-      "onboard_time": 1754273901,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256193,
       "num": 226510,
       "word": "朱志鑫问为什么洗面奶不起泡沫",
@@ -233,6 +241,14 @@
       "onboard_time": 1754235564,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241879,
+      "num": 241879,
+      "word": "59岁医生向同行直播700多台手术",
+      "onboard_time": 1754275701,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239312,
@@ -267,8 +283,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217389,
-      "num": 217389,
+      "raw_hot": 225073,
+      "num": 175365,
+      "word": "建议大家永远不要向下兼容",
+      "onboard_time": 1754273360,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 220641,
+      "num": 220641,
       "word": "男子遇蛇大叫把蛇吓到原路返回",
       "onboard_time": 1754233644,
       "rank": 19,
@@ -291,20 +315,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 205301,
+      "num": 220618,
+      "word": "北京请市民减少外出",
+      "onboard_time": 1754274681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199616,
+      "num": 175290,
+      "word": "国漫新晋四大白毛帅哥",
+      "onboard_time": 1754275223,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 193314,
       "num": 208260,
       "word": "上海一百年老洋房1.5亿元起拍",
       "onboard_time": 1754235803,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190143,
-      "num": 171506,
-      "word": "建议大家永远不要向下兼容",
-      "onboard_time": 1754273360,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 187991,
@@ -315,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187154,
+      "num": 175214,
+      "word": "一代人有一代人的漫展体验",
+      "onboard_time": 1754275462,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 186225,
       "num": 186225,
       "word": "杨清柠 王乐乐",
@@ -323,12 +363,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 184885,
-      "num": 184885,
-      "word": "电影刺杀小说家2定档",
-      "onboard_time": 1754273962,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 183131,
+      "num": 183131,
+      "word": "汪顺发文总结世锦赛",
+      "onboard_time": 1754275101,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 175803,
@@ -337,6 +377,14 @@
       "onboard_time": 1754253074,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175214,
+      "num": 175213,
+      "word": "潘展乐告状已经1年了",
+      "onboard_time": 1754270482,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 170026,
@@ -403,6 +451,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141052,
+      "num": 141052,
+      "word": "秃子 Asen",
+      "onboard_time": 1754272701,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140136,
+      "num": 140136,
+      "word": "解放军联合登陆演习高燃场面",
+      "onboard_time": 1754272942,
+      "rank": 36,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 130738,
       "num": 130738,
       "word": "台风白鹿已生成",
@@ -411,8 +475,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125016,
-      "num": 125016,
+      "raw_hot": 128114,
+      "num": 128114,
       "word": "女子轻信代抢演唱会门票被骗19万元",
       "onboard_time": 1754271380,
       "rank": 29,
@@ -425,14 +489,6 @@
       "onboard_time": 1754218523,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123975,
-      "num": 123975,
-      "word": "秃子 Asen",
-      "onboard_time": 1754272701,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 122937,
@@ -507,14 +563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109225,
-      "num": 109225,
-      "word": "解放军联合登陆演习高燃场面",
-      "onboard_time": 1754272942,
-      "rank": 36,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 108697,
       "num": 108697,
       "word": "银川地震",
@@ -555,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100998,
+      "num": 100998,
+      "word": "女孩游泳课后展示街舞又美又飒",
+      "onboard_time": 1754270781,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99864,
       "num": 99864,
       "word": "刘宇宁说丢人丢大发了",
@@ -577,6 +633,14 @@
       "onboard_time": 1754265501,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95150,
+      "num": 95150,
+      "word": "不能只爱她的有趣漂亮",
+      "onboard_time": 1754275762,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 95122,
@@ -643,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90399,
-      "num": 90399,
-      "word": "女孩游泳课后展示街舞又美又飒",
-      "onboard_time": 1754270781,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 89998,
+      "num": 133662,
+      "word": "沈腾出片了是喜剧片",
+      "onboard_time": 1754276120,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 89687,
@@ -751,6 +815,14 @@
       "num": 79638,
       "word": "任重孙骁骁带孩子逛商场",
       "onboard_time": 1754226385,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68707,
+      "num": 76086,
+      "word": "王橹杰 镜中人",
+      "onboard_time": 1754272281,
       "rank": 48,
       "category": "艺人"
     },

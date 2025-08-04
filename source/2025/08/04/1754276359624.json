@@ -1,0 +1,410 @@
+{
+  "runTime": 1754276359624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048342,
+        "num": 1167734,
+        "word": "警方通报14岁女孩校外被殴打",
+        "onboard_time": 1754270002,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584266,
+        "num": 584266,
+        "word": "电影刺杀小说家2定档",
+        "onboard_time": 1754273962,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5862,
+        "num": 479826,
+        "word": "无人机蜂群与机器狼协同作战演习",
+        "onboard_time": 1754181081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424598,
+        "num": 424598,
+        "word": "全球贸易史上迎来黑暗一天",
+        "onboard_time": 1754234544,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290284,
+        "num": 290284,
+        "word": "男子与富婆离婚嫌分的钱少起诉获胜",
+        "onboard_time": 1754235924,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255732,
+        "num": 255732,
+        "word": "三十而已取景地被拍卖单价超43万一平",
+        "onboard_time": 1754264720,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249084,
+        "num": 249084,
+        "word": "老谢谈赵露思银河酷娱纠纷",
+        "onboard_time": 1754269521,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241879,
+        "num": 241879,
+        "word": "59岁医生向同行直播700多台手术",
+        "onboard_time": 1754275701,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220641,
+        "num": 220641,
+        "word": "男子遇蛇大叫把蛇吓到原路返回",
+        "onboard_time": 1754233644,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205301,
+        "num": 220618,
+        "word": "北京请市民减少外出",
+        "onboard_time": 1754274681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1567563,
+        "num": 220232,
+        "word": "黄奕带女儿赴韩国学习唱跳",
+        "onboard_time": 1754273901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1198269,
+        "num": 220118,
+        "word": "赵露思没心情合影",
+        "onboard_time": 1754266101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519700,
+        "num": 219676,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505719,
+        "num": 219562,
+        "word": "给内耗的人一句终极解药",
+        "onboard_time": 1754270781,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241406,
+        "num": 219379,
+        "word": "朱志鑫问为什么洗面奶不起泡沫",
+        "onboard_time": 1754270842,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219153,
+        "num": 219153,
+        "word": "3天后就立秋了",
+        "onboard_time": 1754268562,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183388,
+        "num": 183388,
+        "word": "蒲熠星回应文案争议",
+        "onboard_time": 1754236462,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183131,
+        "num": 183131,
+        "word": "汪顺发文总结世锦赛",
+        "onboard_time": 1754275101,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159357,
+        "num": 178321,
+        "word": "张小婉之前说不愿意去管乐家里",
+        "onboard_time": 1754265201,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175440,
+        "num": 175440,
+        "word": "日本老龄化具象化了",
+        "onboard_time": 1754232685,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 339384,
+        "num": 175397,
+        "word": "黄奕女儿韩国体验练习生",
+        "onboard_time": 1754272402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225073,
+        "num": 175365,
+        "word": "建议大家永远不要向下兼容",
+        "onboard_time": 1754273360,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199616,
+        "num": 175290,
+        "word": "国漫新晋四大白毛帅哥",
+        "onboard_time": 1754275223,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187154,
+        "num": 175214,
+        "word": "一代人有一代人的漫展体验",
+        "onboard_time": 1754275462,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175214,
+        "num": 175213,
+        "word": "潘展乐告状已经1年了",
+        "onboard_time": 1754270482,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174151,
+        "num": 174151,
+        "word": "上海将开展入户调查",
+        "onboard_time": 1754265379,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162470,
+        "num": 162470,
+        "word": "高体脂女生高效降体脂方法",
+        "onboard_time": 1754269281,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141052,
+        "num": 141052,
+        "word": "秃子 Asen",
+        "onboard_time": 1754272701,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140136,
+        "num": 140136,
+        "word": "解放军联合登陆演习高燃场面",
+        "onboard_time": 1754272942,
+        "rank": 28,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 89998,
+        "num": 133662,
+        "word": "沈腾出片了是喜剧片",
+        "onboard_time": 1754276120,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132269,
+        "num": 132269,
+        "word": "A股",
+        "onboard_time": 1754273781,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128114,
+        "num": 128114,
+        "word": "女子轻信代抢演唱会门票被骗19万元",
+        "onboard_time": 1754271380,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127584,
+        "num": 127584,
+        "word": "鞠婧祎知道被P成孙悟空",
+        "onboard_time": 1754234005,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126746,
+        "num": 126746,
+        "word": "高温每天10小时超长待机",
+        "onboard_time": 1754268262,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109149,
+        "num": 109149,
+        "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
+        "onboard_time": 1754230286,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104694,
+        "num": 104694,
+        "word": "辽宁舰出动战机驱离外军无人机",
+        "onboard_time": 1754267482,
+        "rank": 35,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 102462,
+        "num": 102462,
+        "word": "男子花87万办了300年的健身卡",
+        "onboard_time": 1754235325,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101714,
+        "num": 101714,
+        "word": "矢志强军向一流",
+        "onboard_time": 1754269521,
+        "rank": 37,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 100998,
+        "num": 100998,
+        "word": "女孩游泳课后展示街舞又美又飒",
+        "onboard_time": 1754270781,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97141,
+        "num": 97141,
+        "word": "买狗时老板说这是店里最安静的小狗",
+        "onboard_time": 1754268262,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96439,
+        "num": 96439,
+        "word": "理想回应i8安全性碰撞测试",
+        "onboard_time": 1754233106,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95150,
+        "num": 95150,
+        "word": "不能只爱她的有趣漂亮",
+        "onboard_time": 1754275762,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94519,
+        "num": 94519,
+        "word": "大同地震",
+        "onboard_time": 1754272043,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 86471,
+        "num": 86471,
+        "word": "广泛深入察民情听民声汇民智",
+        "onboard_time": 1754273302,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75354,
+        "num": 80776,
+        "word": "李现唐嫣若月亮没来好治愈",
+        "onboard_time": 1754269163,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79034,
+        "num": 79034,
+        "word": "小猫爬到一半没电了真的是猫猫虫",
+        "onboard_time": 1754273842,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76627,
+        "num": 76627,
+        "word": "重庆两部门联合发布高温中暑二级预警",
+        "onboard_time": 1754265501,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76127,
+        "num": 76127,
+        "word": "杨清柠乔司离婚",
+        "onboard_time": 1754223504,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68707,
+        "num": 76086,
+        "word": "王橹杰 镜中人",
+        "onboard_time": 1754272281,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66117,
+        "num": 75975,
+        "word": "凡人修仙传",
+        "onboard_time": 1754273601,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
