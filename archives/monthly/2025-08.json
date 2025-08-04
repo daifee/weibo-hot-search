@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754281245973,
+  "endTime": 1754282478893,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2968164,
-      "num": 256618,
+      "num": 338396,
       "word": "娜扎疑似与张云龙已分手",
       "onboard_time": 1754277982,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1961731,
+      "num": 1961731,
+      "word": "韩国汉江惊现巨型不明物体",
+      "onboard_time": 1754278283,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1953149,
       "num": 1953149,
       "word": "微信支付 遗失提醒",
@@ -291,14 +299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1724625,
-      "num": 1724625,
-      "word": "韩国汉江惊现巨型不明物体",
-      "onboard_time": 1754278283,
-      "rank": 0,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1715921,
       "num": 1715921,
       "word": "者来女开口雷蒂娅",
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1567563,
-      "num": 255654,
+      "num": 338274,
       "word": "黄奕带女儿赴韩国学习唱跳",
       "onboard_time": 1754273901,
       "rank": 13,
@@ -401,6 +401,14 @@
       "onboard_time": 1754101522,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1367416,
+      "num": 338340,
+      "word": "酷似大S女生称未模仿大S未整容",
+      "onboard_time": 1754280805,
+      "rank": 30,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1364527,
@@ -569,6 +577,14 @@
       "onboard_time": 1754149827,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1118404,
+      "num": 1118404,
+      "word": "赵露思直播同款被卖断货",
+      "onboard_time": 1754279843,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1099522,
@@ -1003,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 737069,
-      "num": 737069,
-      "word": "赵露思直播同款被卖断货",
-      "onboard_time": 1754279843,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 738652,
+      "num": 338326,
+      "word": "亲生和亲自生的区别",
+      "onboard_time": 1754278643,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 723667,
@@ -1235,14 +1251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 642100,
-      "num": 253993,
-      "word": "亲生和亲自生的区别",
-      "onboard_time": 1754278643,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 632334,
       "num": 632334,
       "word": "男子还原奔驰女司机亮证逼迫让路过程",
@@ -1443,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 561691,
+      "num": 548325,
+      "word": "24岁女生回应神似大S走红",
+      "onboard_time": 1754278944,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 561161,
       "num": 319012,
       "word": "赵丽颖刘昊然 九重天",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1754192906,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 548325,
-      "num": 548325,
-      "word": "24岁女生回应神似大S走红",
-      "onboard_time": 1754278944,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 538982,
@@ -1587,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 517443,
+      "num": 517443,
+      "word": "内裤袜子混洗把脚气真菌传到面部",
+      "onboard_time": 1754280084,
+      "rank": 21,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 516102,
       "num": 434976,
       "word": "歌手帮唱",
@@ -1660,7 +1676,7 @@
     },
     {
       "raw_hot": 492447,
-      "num": 199676,
+      "num": 212842,
       "word": "黄奕女儿韩国体验练习生",
       "onboard_time": 1754272402,
       "rank": 21,
@@ -1817,6 +1833,14 @@
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 454624,
+      "num": 454624,
+      "word": "导演说迪丽热巴付出牺牲特别大",
+      "onboard_time": 1754280204,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 453113,
@@ -2331,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339965,
+      "num": 226949,
+      "word": "查尔莫斯取关潘展乐",
+      "onboard_time": 1754281705,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339381,
       "num": 339381,
       "word": "中国游客在大阪遇袭",
@@ -2353,6 +2385,22 @@
       "onboard_time": 1754021241,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 338422,
+      "num": 338422,
+      "word": "深圳将迎今年以来最强暴雨",
+      "onboard_time": 1754279003,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338209,
+      "num": 338208,
+      "word": "心动的信号",
+      "onboard_time": 1754279244,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 338189,
@@ -2507,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322281,
+      "num": 322281,
+      "word": "唐国强不知道假唱也要举话筒",
+      "onboard_time": 1754281584,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321387,
       "num": 321387,
       "word": "男子去世消失12年妻子出现要分钱",
@@ -2577,6 +2633,14 @@
       "onboard_time": 1754232085,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 307322,
+      "num": 250782,
+      "word": "肖战每年都无缝进组",
+      "onboard_time": 1754279663,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 307103,
@@ -2771,14 +2835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287171,
-      "num": 181875,
-      "word": "酷似大S女生称未模仿大S未整容",
-      "onboard_time": 1754280805,
-      "rank": 30,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 285141,
       "num": 276412,
       "word": "刘宇宁说有时候真的干够了",
@@ -2899,14 +2955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 273549,
-      "num": 251445,
-      "word": "导演说迪丽热巴付出牺牲特别大",
-      "onboard_time": 1754280204,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273535,
       "num": 219444,
       "word": "刘宇宁武汉演唱会",
@@ -2921,14 +2969,6 @@
       "onboard_time": 1754037984,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271571,
-      "num": 250782,
-      "word": "肖战每年都无缝进组",
-      "onboard_time": 1754279663,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 269935,
@@ -3283,14 +3323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 244346,
-      "num": 238954,
-      "word": "心动的信号",
-      "onboard_time": 1754279244,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243739,
       "num": 243739,
       "word": "淘宝闪购奶茶免单限时加码",
@@ -3329,6 +3361,14 @@
       "onboard_time": 1754046563,
       "rank": 17,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 239520,
+      "num": 239520,
+      "word": "白马寺每天提供60多桶水供游客饮用",
+      "onboard_time": 1754279484,
+      "rank": 22,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 239076,
@@ -3467,14 +3507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228990,
-      "num": 228990,
-      "word": "内裤袜子混洗把脚气真菌传到面部",
-      "onboard_time": 1754280084,
-      "rank": 21,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 228988,
       "num": 228988,
       "word": "王嘉尔回复严浩翔Rapeter改编舞台",
@@ -3489,6 +3521,14 @@
       "onboard_time": 1754099541,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 228335,
+      "num": 228335,
+      "word": "原神菲林斯",
+      "onboard_time": 1754281945,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 228148,
@@ -3531,14 +3571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227485,
-      "num": 227485,
-      "word": "白马寺每天提供60多桶水供游客饮用",
-      "onboard_time": 1754279484,
-      "rank": 22,
-      "category": "旅游,民生新闻"
-    },
-    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "日本考虑限制75岁以上老人ATM机取款",
@@ -3569,6 +3601,14 @@
       "onboard_time": 1754029101,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225182,
+      "num": 225182,
+      "word": "TVB男演员做香港旅行陪玩",
+      "onboard_time": 1754281045,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 225073,
@@ -3667,20 +3707,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220891,
-      "num": 257426,
-      "word": "深圳将迎今年以来最强暴雨",
-      "onboard_time": 1754279003,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220738,
       "num": 562131,
       "word": "特朗普上调一连串关税",
       "onboard_time": 1754016381,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220579,
+      "num": 220579,
+      "word": "purplekiss解散",
+      "onboard_time": 1754279484,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 220220,
@@ -4027,6 +4067,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207782,
+      "num": 207782,
+      "word": "女童喂马被咬断手指",
+      "onboard_time": 1754278403,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207613,
+      "num": 207613,
+      "word": "泰国僧侣性丑闻",
+      "onboard_time": 1754280444,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 207476,
       "num": 207476,
       "word": "宗庆后遗产纠纷案起诉书曝光",
@@ -4060,7 +4116,7 @@
     },
     {
       "raw_hot": 206903,
-      "num": 180223,
+      "num": 182248,
       "word": "柯基怀孕2个月到剖腹产的状态",
       "onboard_time": 1754280025,
       "rank": 32,
@@ -4145,6 +4201,14 @@
       "onboard_time": 1754274681,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205110,
+      "num": 205110,
+      "word": "赵露思涨粉近33万",
+      "onboard_time": 1754278283,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 204588,
@@ -4243,6 +4307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202181,
+      "num": 202181,
+      "word": "赵丽颖短发九宫格",
+      "onboard_time": 1754281404,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202143,
       "num": 186562,
       "word": "内娱出现古偶版樊胜美了",
@@ -4323,14 +4395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200190,
-      "num": 200190,
-      "word": "赵露思涨粉近33万",
-      "onboard_time": 1754278283,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199662,
       "num": 199662,
       "word": "孙怡 又不是没有受过伤",
@@ -4377,6 +4441,14 @@
       "onboard_time": 1754142091,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198618,
+      "num": 198618,
+      "word": "9个免费的国家级自学平台",
+      "onboard_time": 1754282004,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 197868,
@@ -4441,14 +4513,6 @@
       "onboard_time": 1754229986,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196525,
-      "num": 196525,
-      "word": "purplekiss解散",
-      "onboard_time": 1754279484,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 196459,
@@ -4907,6 +4971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184539,
+      "num": 184539,
+      "word": "学费44万的大学录取通知书长什么样",
+      "onboard_time": 1754282365,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184478,
       "num": 184478,
       "word": "走路10分钟身体就开始变化",
@@ -5081,14 +5153,6 @@
       "onboard_time": 1754195905,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179560,
-      "num": 179560,
-      "word": "泰国僧侣性丑闻",
-      "onboard_time": 1754280444,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 179529,
@@ -5331,6 +5395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172584,
+      "num": 172584,
+      "word": "李登科否认娜扎分手",
+      "onboard_time": 1754282306,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172520,
       "num": 172520,
       "word": "高伟光直播被气到撕台本",
@@ -5561,6 +5633,14 @@
       "onboard_time": 1754217323,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168192,
+      "num": 168192,
+      "word": "陈梦巴黎15宫格",
+      "onboard_time": 1754282185,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 168188,
@@ -5883,6 +5963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162284,
+      "num": 256134,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1754140712,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "能不能把迪丽热巴焊在正剧里",
@@ -5905,14 +5993,6 @@
       "onboard_time": 1754028203,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161717,
-      "num": 161717,
-      "word": "女童喂马被咬断手指",
-      "onboard_time": 1754278403,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161459,
@@ -5993,6 +6073,14 @@
       "onboard_time": 1754015903,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159806,
+      "num": 159806,
+      "word": "丁程鑫刺杀小说家2行者造型",
+      "onboard_time": 1754278823,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 159435,
@@ -6243,14 +6331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154770,
-      "num": 154770,
-      "word": "丁程鑫刺杀小说家2行者造型",
-      "onboard_time": 1754278823,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 154251,
       "num": 154251,
       "word": "美国医生边手术边玩游戏致患者死亡",
@@ -6465,6 +6545,14 @@
       "onboard_time": 1754114962,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150199,
+      "num": 150199,
+      "word": "立秋后可以多吃的水果",
+      "onboard_time": 1754280625,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 149848,
@@ -6747,14 +6835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145719,
-      "num": 145719,
-      "word": "TVB男演员做香港旅行陪玩",
-      "onboard_time": 1754281045,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145659,
       "num": 145659,
       "word": "花海夸时代少年团",
@@ -6801,14 +6881,6 @@
       "onboard_time": 1754230765,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145157,
-      "num": 256134,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1754140712,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 145105,
@@ -7073,14 +7145,6 @@
       "onboard_time": 1754116642,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140823,
-      "num": 140823,
-      "word": "立秋后可以多吃的水果",
-      "onboard_time": 1754280625,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 140788,
@@ -8267,6 +8331,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 123657,
+      "num": 206165,
+      "word": "印度一警察向洪水献上牛奶花瓣",
+      "onboard_time": 1754281886,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123608,
       "num": 123608,
       "word": "曝JieJie说回不去了",
@@ -8281,6 +8353,14 @@
       "onboard_time": 1754151086,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123590,
+      "num": 194091,
+      "word": "哪吒捕妖队 2.5亿人",
+      "onboard_time": 1754282365,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 123536,
@@ -8609,6 +8689,14 @@
       "onboard_time": 1754139686,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119079,
+      "num": 185705,
+      "word": "陈梦说女运动员也有追求美的权利",
+      "onboard_time": 1754279124,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 119064,
@@ -9155,6 +9243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109833,
+      "num": 207621,
+      "word": "部分日本人不满交单身税补贴生育",
+      "onboard_time": 1754281886,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109781,
       "num": 97446,
       "word": "真的有人会为了三块钱站一下午",
@@ -9235,6 +9331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107215,
+      "num": 1124275,
+      "word": "山东舰辽宁舰并肩向前",
+      "onboard_time": 1754268262,
+      "rank": 45,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 107090,
       "num": 149459,
       "word": "张峻豪直播",
@@ -9289,22 +9393,6 @@
       "onboard_time": 1754218763,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106013,
-      "num": 969115,
-      "word": "山东舰辽宁舰并肩向前",
-      "onboard_time": 1754268262,
-      "rank": 45,
-      "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 105938,
-      "num": 161331,
-      "word": "陈梦说女运动员也有追求美的权利",
-      "onboard_time": 1754279124,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 105516,
@@ -10345,6 +10433,14 @@
       "onboard_time": 1754147669,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80657,
+      "num": 227645,
+      "word": "小妖怪送10万杯奶茶",
+      "onboard_time": 1754281945,
+      "rank": 19,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 79642,
@@ -11785,6 +11881,9 @@
     },
     {
       "word": "#广泛深入察民情听民声汇民智#"
+    },
+    {
+      "word": "#习近平就网民对十五五建议作出重要指示#"
     }
   ]
 }
