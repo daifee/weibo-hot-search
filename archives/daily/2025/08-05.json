@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754350126882,
+  "endTime": 1754350998267,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -11,20 +11,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1172449,
-      "num": 179878,
+      "raw_hot": 1698734,
+      "num": 193288,
       "word": "江油",
       "onboard_time": 1754349258,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 932030,
-      "num": 932030,
+      "raw_hot": 1335210,
+      "num": 1335210,
       "word": "女子吃桃子咬开发现里面一堆树叶",
       "onboard_time": 1754349379,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1266251,
+      "num": 1266251,
+      "word": "赵露思说曾黎通过直播确认她状态",
+      "onboard_time": 1754350640,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 825860,
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343006,
+      "num": 343006,
+      "word": "深圳暴雨",
+      "onboard_time": 1754349678,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318781,
       "num": 318781,
       "word": "赵露思说有点不敢推荐东西了",
@@ -123,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224426,
-      "num": 224426,
-      "word": "深圳暴雨",
-      "onboard_time": 1754349678,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213838,
       "num": 213838,
       "word": "历史学家许倬云逝世",
@@ -147,12 +155,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179581,
-      "num": 179581,
+      "raw_hot": 194816,
+      "num": 194816,
+      "word": "湖南一高校书记侵吞巨额科研经费",
+      "onboard_time": 1754349859,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 184385,
+      "num": 184385,
       "word": "举报史航女生再发声",
       "onboard_time": 1754315185,
       "rank": 17,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 181019,
+      "num": 181019,
+      "word": "以色列总理计划全面占领加沙",
+      "onboard_time": 1754349198,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177972,
@@ -161,6 +185,14 @@
       "onboard_time": 1754302585,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171171,
+      "num": 171171,
+      "word": "上海全款150万32平米的小家",
+      "onboard_time": 1754316506,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 167070,
@@ -179,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154512,
-      "num": 154512,
-      "word": "上海全款150万32平米的小家",
-      "onboard_time": 1754316506,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 157781,
+      "num": 157781,
+      "word": "王一博生日评论区",
+      "onboard_time": 1754350701,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 153225,
@@ -211,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139210,
+      "num": 180088,
+      "word": "巴基斯坦暴雨302死727伤",
+      "onboard_time": 1754349198,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125815,
       "num": 125815,
       "word": "吴艳妮说13秒15拿冠军开心不起来",
@@ -235,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120838,
+      "num": 120838,
+      "word": "肖战藏在专辑里的红海",
+      "onboard_time": 1754350038,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 113694,
+      "num": 113694,
+      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
+      "onboard_time": 1754334374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110627,
       "num": 121181,
       "word": "网友KTV偶遇张翰",
@@ -251,20 +307,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103227,
-      "num": 180138,
-      "word": "湖南一高校书记侵吞巨额科研经费",
-      "onboard_time": 1754349859,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 101144,
-      "num": 101144,
-      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
-      "onboard_time": 1754334374,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 101686,
+      "num": 101686,
+      "word": "陈伟霆 坐这么舒服啊你们",
+      "onboard_time": 1754347157,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 100348,
@@ -283,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95732,
+      "num": 95732,
+      "word": "中国船舶将吸收合并中国重工",
+      "onboard_time": 1754334315,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94973,
       "num": 94973,
       "word": "吴艳妮女子100米栏全国冠军",
@@ -291,19 +347,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93033,
-      "num": 93033,
-      "word": "陈伟霆 坐这么舒服啊你们",
-      "onboard_time": 1754347157,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 91665,
-      "num": 91665,
-      "word": "中国船舶将吸收合并中国重工",
-      "onboard_time": 1754334315,
-      "rank": 9,
+      "raw_hot": 92344,
+      "num": 121362,
+      "word": "律师回应14岁少女校外被殴打",
+      "onboard_time": 1754315964,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -313,22 +361,6 @@
       "onboard_time": 1754317646,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89629,
-      "num": 89629,
-      "word": "肖战藏在专辑里的红海",
-      "onboard_time": 1754350038,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 88672,
-      "num": 121362,
-      "word": "律师回应14岁少女校外被殴打",
-      "onboard_time": 1754315964,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88313,
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82433,
+      "num": 120970,
+      "word": "县委书记2230万强行上马旅游项目被通报",
+      "onboard_time": 1754307202,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 80444,
       "num": 80444,
       "word": "恋综节目上演顶级魅魔互选",
@@ -379,20 +419,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77579,
+      "num": 77579,
+      "word": "6种人真的不适合当朋友",
+      "onboard_time": 1754342114,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77056,
       "num": 121040,
       "word": "体制内爱好红黑榜",
       "onboard_time": 1754312723,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73139,
-      "num": 120970,
-      "word": "县委书记2230万强行上马旅游项目被通报",
-      "onboard_time": 1754307202,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 72312,
@@ -419,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68335,
-      "num": 180088,
-      "word": "巴基斯坦暴雨302死727伤",
-      "onboard_time": 1754349198,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 68254,
       "num": 120891,
       "word": "白鹿白衬衫根正苗红",
@@ -451,20 +483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64831,
-      "num": 64831,
-      "word": "6种人真的不适合当朋友",
-      "onboard_time": 1754342114,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 63509,
       "num": 120651,
       "word": "王青直播间",
       "onboard_time": 1754313564,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60743,
+      "num": 60743,
+      "word": "中方敦促柬方严惩涉中国公民案件凶手",
+      "onboard_time": 1754350581,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60699,
@@ -499,7 +531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57952,
+      "raw_hot": 58035,
       "num": 121120,
       "word": "刚出生就三十多岁的90后老baby",
       "onboard_time": 1754308763,
@@ -513,14 +545,6 @@
       "onboard_time": 1754317107,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55113,
-      "num": 103945,
-      "word": "以色列总理计划全面占领加沙",
-      "onboard_time": 1754349198,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54842,
@@ -539,6 +563,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54377,
+      "num": 75824,
+      "word": "复旦MBA回应迅猛龙入读复旦",
+      "onboard_time": 1754332575,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 53845,
+      "num": 53845,
+      "word": "这监控好把三魂七魄都拍清楚了",
+      "onboard_time": 1754349139,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52718,
+      "num": 52718,
+      "word": "深圳地铁",
+      "onboard_time": 1754350519,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52677,
+      "num": 52333,
+      "word": "北京为何频繁强降雨",
+      "onboard_time": 1754350942,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 51595,
       "num": 54518,
       "word": "一下班就下大雨真不是你的错觉",
@@ -555,12 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48092,
-      "num": 75824,
-      "word": "复旦MBA回应迅猛龙入读复旦",
-      "onboard_time": 1754332575,
-      "rank": 45,
-      "category": "网红"
+      "raw_hot": 49337,
+      "num": 49877,
+      "word": "没有机场的苏州获得通向世界的跑道",
+      "onboard_time": 1754349559,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46320,
+      "num": 46320,
+      "word": "种地吧导演卸任制作公司经理职务",
+      "onboard_time": 1754350822,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 46308,
@@ -635,14 +699,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 28717,
-      "num": 49877,
-      "word": "没有机场的苏州获得通向世界的跑道",
-      "onboard_time": 1754349559,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26859,
       "num": 161046,
       "word": "活力中国调研行",
@@ -683,8 +739,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8120,
-      "num": 373779,
+      "raw_hot": 11386,
+      "num": 680452,
       "word": "抗战烈士回信家人说国不保家何能存",
       "onboard_time": 1754294422,
       "rank": 2,

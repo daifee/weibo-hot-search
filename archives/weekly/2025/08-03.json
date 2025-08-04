@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754350126882,
+  "endTime": 1754350998267,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1698734,
+      "num": 193288,
+      "word": "江油",
+      "onboard_time": 1754349258,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1659191,
       "num": 1659191,
       "word": "虞书欣疑似解约华策",
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1335210,
+      "num": 1335210,
+      "word": "女子吃桃子咬开发现里面一堆树叶",
+      "onboard_time": 1754349379,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1298303,
       "num": 1298303,
       "word": "韩国演员宋英奎去世",
@@ -312,6 +328,14 @@
       "word": "赵露思被甜品店合伙人背刺起诉",
       "onboard_time": 1754311283,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1266251,
+      "num": 1266251,
+      "word": "赵露思说曾黎通过直播确认她状态",
+      "onboard_time": 1754350640,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1754229686,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1172449,
-      "num": 179878,
-      "word": "江油",
-      "onboard_time": 1754349258,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1147928,
@@ -481,14 +497,6 @@
       "onboard_time": 1754282365,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 932030,
-      "num": 932030,
-      "word": "女子吃桃子咬开发现里面一堆树叶",
-      "onboard_time": 1754349379,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 925192,
@@ -1507,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343006,
+      "num": 343006,
+      "word": "深圳暴雨",
+      "onboard_time": 1754349678,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342829,
       "num": 342829,
       "word": "日本老龄化具象化了",
@@ -2211,14 +2227,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 224426,
-      "num": 224426,
-      "word": "深圳暴雨",
-      "onboard_time": 1754349678,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222788,
       "num": 410935,
       "word": "中国队女子4x100米混合接力铜牌",
@@ -2579,6 +2587,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 194816,
+      "num": 194816,
+      "word": "湖南一高校书记侵吞巨额科研经费",
+      "onboard_time": 1754349859,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 194266,
       "num": 194266,
       "word": "马小跳背叛我了",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1754293042,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181019,
+      "num": 181019,
+      "word": "以色列总理计划全面占领加沙",
+      "onboard_time": 1754349198,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180395,
@@ -3480,6 +3504,14 @@
       "word": "马景涛一个月打工3个景区",
       "onboard_time": 1754330237,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157781,
+      "num": 157781,
+      "word": "王一博生日评论区",
+      "onboard_time": 1754350701,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4097,6 +4129,14 @@
       "onboard_time": 1754284944,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 139210,
+      "num": 180088,
+      "word": "巴基斯坦暴雨302死727伤",
+      "onboard_time": 1754349198,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139118,
@@ -4843,6 +4883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120838,
+      "num": 120838,
+      "word": "肖战藏在专辑里的红海",
+      "onboard_time": 1754350038,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120828,
       "num": 207621,
       "word": "部分日本人不满交单身税补贴生育",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1754317527,
       "rank": 43,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 113694,
+      "num": 113694,
+      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
+      "onboard_time": 1754334374,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113645,
@@ -5491,14 +5547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103227,
-      "num": 180138,
-      "word": "湖南一高校书记侵吞巨额科研经费",
-      "onboard_time": 1754349859,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 103220,
       "num": 103220,
       "word": "男爱豆惊天大逆转从垫底到第一",
@@ -5555,12 +5603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101144,
-      "num": 101144,
-      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
-      "onboard_time": 1754334374,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 101686,
+      "num": 101686,
+      "word": "陈伟霆 坐这么舒服啊你们",
+      "onboard_time": 1754347157,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 100998,
@@ -5747,6 +5795,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95732,
+      "num": 95732,
+      "word": "中国船舶将吸收合并中国重工",
+      "onboard_time": 1754334315,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95656,
       "num": 95656,
       "word": "Fly再吃找人弄你",
@@ -5835,14 +5891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93033,
-      "num": 93033,
-      "word": "陈伟霆 坐这么舒服啊你们",
-      "onboard_time": 1754347157,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92991,
       "num": 92991,
       "word": "going人的要素此沙集齐了",
@@ -5883,6 +5931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92344,
+      "num": 121362,
+      "word": "律师回应14岁少女校外被殴打",
+      "onboard_time": 1754315964,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92138,
       "num": 332746,
       "word": "88元水光针其实是腹腔防粘连凝胶",
@@ -5904,14 +5960,6 @@
       "word": "一家三口赶海1人失踪1人进ICU",
       "onboard_time": 1754133024,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91665,
-      "num": 91665,
-      "word": "中国船舶将吸收合并中国重工",
-      "onboard_time": 1754334315,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5955,14 +6003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89629,
-      "num": 89629,
-      "word": "肖战藏在专辑里的红海",
-      "onboard_time": 1754350038,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 89464,
       "num": 89464,
       "word": "他以婚礼名义拉起一支抗日队伍",
@@ -5993,14 +6033,6 @@
       "onboard_time": 1754144069,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88672,
-      "num": 121362,
-      "word": "律师回应14岁少女校外被殴打",
-      "onboard_time": 1754315964,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88568,
@@ -6283,6 +6315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77579,
+      "num": 77579,
+      "word": "6种人真的不适合当朋友",
+      "onboard_time": 1754342114,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77376,
       "num": 86896,
       "word": "镇干部离岗8年",
@@ -6435,14 +6475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68335,
-      "num": 180088,
-      "word": "巴基斯坦暴雨302死727伤",
-      "onboard_time": 1754349198,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 68268,
       "num": 123724,
       "word": "上海迪士尼偶遇了周也",
@@ -6489,14 +6521,6 @@
       "onboard_time": 1754326340,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 64831,
-      "num": 64831,
-      "word": "6种人真的不适合当朋友",
-      "onboard_time": 1754342114,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 64205,
@@ -6561,6 +6585,14 @@
       "onboard_time": 1754262798,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60743,
+      "num": 60743,
+      "word": "中方敦促柬方严惩涉中国公民案件凶手",
+      "onboard_time": 1754350581,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60699,
@@ -6667,14 +6699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55113,
-      "num": 103945,
-      "word": "以色列总理计划全面占领加沙",
-      "onboard_time": 1754349198,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54640,
       "num": 54640,
       "word": "当我真的吃不下了",
@@ -6689,6 +6713,22 @@
       "onboard_time": 1754149106,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 54377,
+      "num": 75824,
+      "word": "复旦MBA回应迅猛龙入读复旦",
+      "onboard_time": 1754332575,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 53845,
+      "num": 53845,
+      "word": "这监控好把三魂七魄都拍清楚了",
+      "onboard_time": 1754349139,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 53796,
@@ -6713,6 +6753,22 @@
       "onboard_time": 1754224345,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52718,
+      "num": 52718,
+      "word": "深圳地铁",
+      "onboard_time": 1754350519,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52677,
+      "num": 52333,
+      "word": "北京为何频繁强降雨",
+      "onboard_time": 1754350942,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 52537,
@@ -6779,12 +6835,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 48092,
-      "num": 75824,
-      "word": "复旦MBA回应迅猛龙入读复旦",
-      "onboard_time": 1754332575,
-      "rank": 45,
-      "category": "网红"
+      "raw_hot": 49337,
+      "num": 49877,
+      "word": "没有机场的苏州获得通向世界的跑道",
+      "onboard_time": 1754349559,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47416,
@@ -6808,6 +6864,14 @@
       "word": "我减肥就李乃文这样",
       "onboard_time": 1754227225,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46320,
+      "num": 46320,
+      "word": "种地吧导演卸任制作公司经理职务",
+      "onboard_time": 1754350822,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -6995,14 +7059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28717,
-      "num": 49877,
-      "word": "没有机场的苏州获得通向世界的跑道",
-      "onboard_time": 1754349559,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27476,
       "num": 30488,
       "word": "晚晚为什么站在框里",
@@ -7124,7 +7180,7 @@
     },
     {
       "raw_hot": 19566,
-      "num": 373779,
+      "num": 680452,
       "word": "抗战烈士回信家人说国不保家何能存",
       "onboard_time": 1754294422,
       "rank": 17,
