@@ -1,0 +1,410 @@
+{
+  "runTime": 1754317979384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12380496,
+        "num": 12380496,
+        "word": "赵露思被锁酒店驱魔",
+        "onboard_time": 1754315665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748805,
+        "num": 748805,
+        "word": "银行职员夫妻回应下班偷偷送外卖",
+        "onboard_time": 1754307982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2641,
+        "num": 630868,
+        "word": "总有一些美好瞬间温暖夏日",
+        "onboard_time": 1754277323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1801794,
+        "num": 628248,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620455,
+        "num": 620455,
+        "word": "吴艳妮女子100栏全国冠军",
+        "onboard_time": 1754316265,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446901,
+        "num": 446901,
+        "word": "多个账号攻击爱国题材电影被禁言",
+        "onboard_time": 1754312664,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531807,
+        "num": 427139,
+        "word": "利剑玫瑰 口型对不上",
+        "onboard_time": 1754314525,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403032,
+        "num": 403032,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351142,
+        "num": 351142,
+        "word": "短剧演员因利剑玫瑰被称电影脸",
+        "onboard_time": 1754310203,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349787,
+        "num": 349787,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 9,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 2090774,
+        "num": 346862,
+        "word": "赵露思 姐现在忍不了任何人",
+        "onboard_time": 1754314644,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513583,
+        "num": 341244,
+        "word": "家长们为被霸凌女孩发声",
+        "onboard_time": 1754314345,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103968,
+        "num": 334159,
+        "word": "我国卫星互联网低轨卫星发射成功",
+        "onboard_time": 1754311344,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503336,
+        "num": 328570,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381690,
+        "num": 320770,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1754311643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320509,
+        "num": 320509,
+        "word": "网友KTV偶遇张翰",
+        "onboard_time": 1754315725,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315616,
+        "num": 315616,
+        "word": "朱天天 清融",
+        "onboard_time": 1754312244,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19566,
+        "num": 253867,
+        "word": "抗战烈士回信家人说国不保家何能存",
+        "onboard_time": 1754294422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240103,
+        "num": 240103,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228083,
+        "num": 228083,
+        "word": "王青直播间",
+        "onboard_time": 1754313564,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268508,
+        "num": 226649,
+        "word": "赵薇被冻结1590万股权",
+        "onboard_time": 1754317766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224434,
+        "num": 224434,
+        "word": "原来还有迪丽冷巴",
+        "onboard_time": 1754316265,
+        "rank": 21,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 217989,
+        "num": 217989,
+        "word": "举报史航女生再发声",
+        "onboard_time": 1754315185,
+        "rank": 22,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 200268,
+        "num": 200268,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 191433,
+        "num": 191433,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165420,
+        "num": 165420,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162239,
+        "num": 162239,
+        "word": "粉丝给李诞的一封信",
+        "onboard_time": 1754317107,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161721,
+        "num": 161721,
+        "word": "杨洋眼前一黑又一黑",
+        "onboard_time": 1754312304,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157538,
+        "num": 157538,
+        "word": "上海全款150万32平米的小家",
+        "onboard_time": 1754316506,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143030,
+        "num": 143030,
+        "word": "笔试17分进复审",
+        "onboard_time": 1754305401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142833,
+        "num": 142833,
+        "word": "我的对手居然是张新成",
+        "onboard_time": 1754314285,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135117,
+        "num": 135117,
+        "word": "人民日报专访浪浪山小妖怪主创",
+        "onboard_time": 1754317826,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132759,
+        "num": 132759,
+        "word": "樊振东英文回复莫雷加德",
+        "onboard_time": 1754313203,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131310,
+        "num": 131310,
+        "word": "女子捡到6斤干巴菌原地打跳庆祝",
+        "onboard_time": 1754310503,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "一下班就下大雨真不是你的错觉",
+        "onboard_time": 1754315545,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "11人挤爆核载2人车交警都懵了",
+        "onboard_time": 1754316385,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118606,
+        "num": 118606,
+        "word": "张若昀 年会不能停2",
+        "onboard_time": 1754317707,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118258,
+        "num": 118258,
+        "word": "第一次见这么多cp的恋综男嘉宾",
+        "onboard_time": 1754317107,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116570,
+        "num": 116570,
+        "word": "心动的信号8",
+        "onboard_time": 1754303962,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52237,
+        "num": 115816,
+        "word": "婚房出租一年变猫舍",
+        "onboard_time": 1754316866,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115621,
+        "num": 115621,
+        "word": "体制内爱好红黑榜",
+        "onboard_time": 1754312723,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113192,
+        "num": 113192,
+        "word": "中国男篮亚洲杯12人大名单",
+        "onboard_time": 1754314345,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108839,
+        "num": 108839,
+        "word": "杨鸣教练",
+        "onboard_time": 1754317646,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108751,
+        "num": 108751,
+        "word": "特斯拉奖励马斯克9600万股股票",
+        "onboard_time": 1754317527,
+        "rank": 43,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 83355,
+        "num": 107568,
+        "word": "零跑凭啥连续五个月销量第一",
+        "onboard_time": 1754312843,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106426,
+        "num": 106426,
+        "word": "蚊子工厂每周产500万只雄蚊",
+        "onboard_time": 1754316086,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104611,
+        "num": 104611,
+        "word": "刚出生就三十多岁的90后老baby",
+        "onboard_time": 1754308763,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104384,
+        "num": 104384,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 47,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 96898,
+        "num": 96898,
+        "word": "张新成当年的承诺兑现了",
+        "onboard_time": 1754315005,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91000,
+        "num": 91000,
+        "word": "体脂率多低才能看到腹肌",
+        "onboard_time": 1754310503,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}

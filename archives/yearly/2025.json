@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754315992748,
+  "endTime": 1754317979384,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -601,6 +601,14 @@
       "onboard_time": 1746580521,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12380496,
+      "num": 12380496,
+      "word": "赵露思被锁酒店驱魔",
+      "onboard_time": 1754315665,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 12282801,
@@ -1769,14 +1777,6 @@
       "onboard_time": 1738067987,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5276167,
-      "num": 5276167,
-      "word": "赵露思被锁酒店驱魔",
-      "onboard_time": 1754315665,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5151427,

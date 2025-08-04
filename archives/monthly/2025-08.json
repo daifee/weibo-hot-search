@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754315992748,
+  "endTime": 1754317979384,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -17,6 +17,14 @@
       "onboard_time": 1754040444,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12380496,
+      "num": 12380496,
+      "word": "赵露思被锁酒店驱魔",
+      "onboard_time": 1754315665,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 11951764,
@@ -73,14 +81,6 @@
       "onboard_time": 1754042484,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5276167,
-      "num": 5276167,
-      "word": "赵露思被锁酒店驱魔",
-      "onboard_time": 1754315665,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 3946933,
@@ -1171,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 748805,
+      "num": 748805,
+      "word": "银行职员夫妻回应下班偷偷送外卖",
+      "onboard_time": 1754307982,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 748671,
       "num": 748671,
       "word": "男子每天喝500ml自己的胆汁救命",
@@ -1451,14 +1459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 649173,
-      "num": 649173,
-      "word": "银行职员夫妻回应下班偷偷送外卖",
-      "onboard_time": 1754307982,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 643254,
       "num": 400437,
       "word": "吴倩带女儿逛街",
@@ -1497,6 +1497,14 @@
       "onboard_time": 1754013982,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620455,
+      "num": 620455,
+      "word": "吴艳妮女子100栏全国冠军",
+      "onboard_time": 1754316265,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 618535,
@@ -1811,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531807,
+      "num": 427139,
+      "word": "利剑玫瑰 口型对不上",
+      "onboard_time": 1754314525,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531241,
       "num": 402263,
       "word": "首尔偶遇周也",
@@ -1896,6 +1912,14 @@
       "word": "武大性骚扰案校方仍未撤处分",
       "onboard_time": 1754014221,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513583,
+      "num": 341244,
+      "word": "家长们为被霸凌女孩发声",
+      "onboard_time": 1754314345,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2171,12 +2195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 448004,
-      "num": 329644,
-      "word": "利剑玫瑰 口型对不上",
-      "onboard_time": 1754314525,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 446901,
+      "num": 446901,
+      "word": "多个账号攻击爱国题材电影被禁言",
+      "onboard_time": 1754312664,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444551,
@@ -2891,14 +2915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331630,
-      "num": 331630,
-      "word": "多个账号攻击爱国题材电影被禁言",
-      "onboard_time": 1754312664,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 330086,
       "num": 330086,
       "word": "斗破苍穹",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1754009962,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320509,
+      "num": 320509,
+      "word": "网友KTV偶遇张翰",
+      "onboard_time": 1754315725,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 320474,
@@ -3465,6 +3489,14 @@
       "onboard_time": 1754308223,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268508,
+      "num": 226649,
+      "word": "赵薇被冻结1590万股权",
+      "onboard_time": 1754317766,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 268268,
@@ -4091,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228083,
+      "num": 228083,
+      "word": "王青直播间",
+      "onboard_time": 1754313564,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228058,
       "num": 206913,
       "word": "睡眠不足引发炎症",
@@ -4169,6 +4209,14 @@
       "onboard_time": 1754288721,
       "rank": 31,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 224434,
+      "num": 224434,
+      "word": "原来还有迪丽冷巴",
+      "onboard_time": 1754316265,
+      "rank": 21,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 224324,
@@ -4329,6 +4377,14 @@
       "onboard_time": 1754055024,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217989,
+      "num": 217989,
+      "word": "举报史航女生再发声",
+      "onboard_time": 1754315185,
+      "rank": 39,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 217342,
@@ -4651,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208193,
-      "num": 208193,
-      "word": "家长们为被霸凌女孩发声",
-      "onboard_time": 1754314345,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207857,
       "num": 207857,
       "word": "凉哈皮没别的",
@@ -4867,14 +4915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203159,
-      "num": 203159,
-      "word": "王青直播间",
-      "onboard_time": 1754313564,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203100,
       "num": 203100,
       "word": "KPL",
@@ -4984,14 +5024,6 @@
       "word": "LadyGaga带Labubu出街",
       "onboard_time": 1754291423,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 200767,
-      "num": 200767,
-      "word": "网友KTV偶遇张翰",
-      "onboard_time": 1754315725,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -6803,6 +6835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "粉丝给李诞的一封信",
+      "onboard_time": 1754317107,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "能不能把迪丽热巴焊在正剧里",
@@ -7033,6 +7073,14 @@
       "onboard_time": 1754024123,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157538,
+      "num": 157538,
+      "word": "上海全款150万32平米的小家",
+      "onboard_time": 1754316506,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 157485,
@@ -8595,6 +8643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135117,
+      "num": 135117,
+      "word": "人民日报专访浪浪山小妖怪主创",
+      "onboard_time": 1754317826,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135052,
       "num": 163607,
       "word": "淮安队vs苏州队把外国球迷都圈粉了",
@@ -9051,6 +9107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129617,
+      "num": 129617,
+      "word": "一下班就下大雨真不是你的错觉",
+      "onboard_time": 1754315545,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "SNH48香港演唱会",
@@ -9492,7 +9556,7 @@
     },
     {
       "raw_hot": 124493,
-      "num": 180314,
+      "num": 630868,
       "word": "总有一些美好瞬间温暖夏日",
       "onboard_time": 1754277323,
       "rank": 31,
@@ -9915,6 +9979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120011,
+      "num": 120011,
+      "word": "11人挤爆核载2人车交警都懵了",
+      "onboard_time": 1754316385,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119898,
       "num": 119898,
       "word": "王安宇新歌制作人是小鬼",
@@ -10019,6 +10091,14 @@
       "category": "数码,数码"
     },
     {
+      "raw_hot": 118606,
+      "num": 118606,
+      "word": "张若昀 年会不能停2",
+      "onboard_time": 1754317707,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118495,
       "num": 118495,
       "word": "tzym 传送",
@@ -10033,6 +10113,14 @@
       "onboard_time": 1754153302,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118258,
+      "num": 118258,
+      "word": "第一次见这么多cp的恋综男嘉宾",
+      "onboard_time": 1754317107,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 118201,
@@ -10105,14 +10193,6 @@
       "onboard_time": 1754028082,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117211,
-      "num": 117211,
-      "word": "举报史航女生再发声",
-      "onboard_time": 1754315185,
-      "rank": 39,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 117147,
@@ -10297,14 +10377,6 @@
       "onboard_time": 1754043684,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114908,
-      "num": 114908,
-      "word": "一下班就下大雨真不是你的错觉",
-      "onboard_time": 1754315545,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114857,
@@ -10707,12 +10779,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108839,
+      "num": 108839,
+      "word": "杨鸣教练",
+      "onboard_time": 1754317646,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108781,
       "num": 108781,
       "word": "樊振东莫雷加德新赛季携手出战",
       "onboard_time": 1754312064,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108751,
+      "num": 108751,
+      "word": "特斯拉奖励马斯克9600万股股票",
+      "onboard_time": 1754317527,
+      "rank": 43,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 108306,
@@ -10817,6 +10905,14 @@
       "onboard_time": 1754099240,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106426,
+      "num": 106426,
+      "word": "蚊子工厂每周产500万只雄蚊",
+      "onboard_time": 1754316086,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106310,
@@ -10985,6 +11081,14 @@
       "onboard_time": 1754040563,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103968,
+      "num": 334159,
+      "word": "我国卫星互联网低轨卫星发射成功",
+      "onboard_time": 1754311344,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103879,
@@ -12755,6 +12859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52237,
+      "num": 115816,
+      "word": "婚房出租一年变猫舍",
+      "onboard_time": 1754316866,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52039,
       "num": 52039,
       "word": "一个双马尾阿信",
@@ -13465,6 +13577,14 @@
       "onboard_time": 1753987995,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 19566,
+      "num": 253867,
+      "word": "抗战烈士回信家人说国不保家何能存",
+      "onboard_time": 1754294422,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19035,
