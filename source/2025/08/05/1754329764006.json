@@ -1,0 +1,410 @@
+{
+  "runTime": 1754329764006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 342690,
+        "num": 357330,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246406,
+        "num": 246406,
+        "word": "吴艳妮光速夺冠",
+        "onboard_time": 1754323282,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1599,
+        "num": 126029,
+        "word": "总有一些美好瞬间温暖夏日",
+        "onboard_time": 1754277323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279629,
+        "num": 125061,
+        "word": "赵露思 姐现在忍不了任何人",
+        "onboard_time": 1754314644,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121992,
+        "num": 121992,
+        "word": "多个账号攻击爱国题材电影被禁言",
+        "onboard_time": 1754312664,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103512,
+        "num": 121977,
+        "word": "特朗普称将大幅提高对印度关税",
+        "onboard_time": 1754323823,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264194,
+        "num": 121959,
+        "word": "SASI怼秃子",
+        "onboard_time": 1754319686,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88107,
+        "num": 121907,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 7,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 78866,
+        "num": 121877,
+        "word": "举报史航女生再发声",
+        "onboard_time": 1754315185,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 65648,
+        "num": 121851,
+        "word": "短剧演员因利剑玫瑰被称电影脸",
+        "onboard_time": 1754310203,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1197277,
+        "num": 121806,
+        "word": "王一博",
+        "onboard_time": 1754324061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176732,
+        "num": 121778,
+        "word": "赵露思说有点不敢推荐东西了",
+        "onboard_time": 1754324962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90723,
+        "num": 121740,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71121,
+        "num": 121715,
+        "word": "上海全款150万32平米的小家",
+        "onboard_time": 1754316506,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64034,
+        "num": 121680,
+        "word": "吴艳妮说13秒15拿冠军开心不起来",
+        "onboard_time": 1754324181,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146421,
+        "num": 121636,
+        "word": "王一博28岁是一个刚刚好的年纪",
+        "onboard_time": 1754325560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65135,
+        "num": 121627,
+        "word": "毕雯珺好帅",
+        "onboard_time": 1754319926,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64400,
+        "num": 121586,
+        "word": "利剑玫瑰 口型对不上",
+        "onboard_time": 1754314525,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62323,
+        "num": 121541,
+        "word": "朱天天 清融",
+        "onboard_time": 1754312244,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58903,
+        "num": 121521,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76850,
+        "num": 121472,
+        "word": "赵薇被冻结1590万股权",
+        "onboard_time": 1754317766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53563,
+        "num": 121471,
+        "word": "王安宇回应音乐节手抖",
+        "onboard_time": 1754326340,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47142,
+        "num": 121426,
+        "word": "薛之谦新歌",
+        "onboard_time": 1754302585,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43449,
+        "num": 121376,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43328,
+        "num": 121362,
+        "word": "律师回应14岁少女校外被殴打",
+        "onboard_time": 1754315964,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42517,
+        "num": 121324,
+        "word": "警方回应奔驰车被指逆行超车逼停摩托",
+        "onboard_time": 1754327598,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36299,
+        "num": 121282,
+        "word": "原来还有迪丽冷巴",
+        "onboard_time": 1754316265,
+        "rank": 26,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 35595,
+        "num": 121276,
+        "word": "人民日报专访浪浪山小妖怪主创",
+        "onboard_time": 1754317826,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34991,
+        "num": 121224,
+        "word": "台湾姑娘分享对大陆喜爱遭恶意攻击",
+        "onboard_time": 1754318606,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33545,
+        "num": 121181,
+        "word": "网友KTV偶遇张翰",
+        "onboard_time": 1754315725,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33171,
+        "num": 121168,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31783,
+        "num": 121120,
+        "word": "刚出生就三十多岁的90后老baby",
+        "onboard_time": 1754308763,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30744,
+        "num": 121105,
+        "word": "光遇",
+        "onboard_time": 1754328078,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30077,
+        "num": 121064,
+        "word": "张若昀 年会不能停2",
+        "onboard_time": 1754317707,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29920,
+        "num": 121040,
+        "word": "体制内爱好红黑榜",
+        "onboard_time": 1754312723,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29907,
+        "num": 120986,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29835,
+        "num": 120970,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 28412,
+        "num": 120926,
+        "word": "心动的信号8",
+        "onboard_time": 1754303962,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28257,
+        "num": 120891,
+        "word": "白鹿白衬衫根正苗红",
+        "onboard_time": 1754321363,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27437,
+        "num": 120881,
+        "word": "周杰伦晒儿子滑雪视频",
+        "onboard_time": 1754319386,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27102,
+        "num": 120844,
+        "word": "时代少年团偶像剧的幕后趣事",
+        "onboard_time": 1754324780,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26525,
+        "num": 120821,
+        "word": "第一次见这么多cp的恋综男嘉宾",
+        "onboard_time": 1754317107,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25921,
+        "num": 120785,
+        "word": "陈奕恒学习了一些手语",
+        "onboard_time": 1754329397,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25607,
+        "num": 120737,
+        "word": "在佛山买这47种药须实名登记",
+        "onboard_time": 1754322562,
+        "rank": 43,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 25420,
+        "num": 120720,
+        "word": "刘宇宁晒地球超新鲜合照",
+        "onboard_time": 1754322743,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25202,
+        "num": 120677,
+        "word": "刘宇宁就这个撞地球对味",
+        "onboard_time": 1754329397,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24145,
+        "num": 120651,
+        "word": "王青直播间",
+        "onboard_time": 1754313564,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23376,
+        "num": 120621,
+        "word": "特斯拉奖励马斯克9600万股股票",
+        "onboard_time": 1754317527,
+        "rank": 47,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 23147,
+        "num": 120567,
+        "word": "11人挤爆核载2人车交警都懵了",
+        "onboard_time": 1754316385,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22436,
+        "num": 120553,
+        "word": "迪丽热巴利剑玫瑰收视率破2.4%",
+        "onboard_time": 1754319626,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}
