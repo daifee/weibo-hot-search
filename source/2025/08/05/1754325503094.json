@@ -1,0 +1,410 @@
+{
+  "runTime": 1754325503094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825860,
+        "num": 847571,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355572,
+        "num": 355572,
+        "word": "多个账号攻击爱国题材电影被禁言",
+        "onboard_time": 1754312664,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1835,
+        "num": 348531,
+        "word": "总有一些美好瞬间温暖夏日",
+        "onboard_time": 1754277323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671202,
+        "num": 348345,
+        "word": "赵露思 姐现在忍不了任何人",
+        "onboard_time": 1754314644,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346732,
+        "num": 346732,
+        "word": "吴艳妮光速夺冠",
+        "onboard_time": 1754323282,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564074,
+        "num": 302857,
+        "word": "江油被殴打未成年曾多次被霸凌",
+        "onboard_time": 1754318786,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441943,
+        "num": 289349,
+        "word": "SASI怼秃子",
+        "onboard_time": 1754319686,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253052,
+        "num": 253052,
+        "word": "毕雯珺好帅",
+        "onboard_time": 1754319926,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213838,
+        "num": 213838,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 8,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 139305,
+        "num": 212823,
+        "word": "特朗普称将大幅提高对印度关税",
+        "onboard_time": 1754323823,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1469156,
+        "num": 209972,
+        "word": "王一博",
+        "onboard_time": 1754324061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568055,
+        "num": 206231,
+        "word": "江油警方回应14岁少女被殴打关键问题",
+        "onboard_time": 1754320345,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253829,
+        "num": 201840,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201286,
+        "num": 201286,
+        "word": "利剑玫瑰 口型对不上",
+        "onboard_time": 1754314525,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177972,
+        "num": 177972,
+        "word": "薛之谦新歌",
+        "onboard_time": 1754302585,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154512,
+        "num": 154512,
+        "word": "上海全款150万32平米的小家",
+        "onboard_time": 1754316506,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152939,
+        "num": 152939,
+        "word": "短剧演员因利剑玫瑰被称电影脸",
+        "onboard_time": 1754310203,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140015,
+        "num": 140015,
+        "word": "举报史航女生再发声",
+        "onboard_time": 1754315185,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 125815,
+        "num": 125815,
+        "word": "吴艳妮说13秒15拿冠军开心不起来",
+        "onboard_time": 1754324181,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122778,
+        "num": 122778,
+        "word": "朱天天 清融",
+        "onboard_time": 1754312244,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192422,
+        "num": 122083,
+        "word": "赵薇被冻结1590万股权",
+        "onboard_time": 1754317766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167070,
+        "num": 121715,
+        "word": "未成年人作恶轻罚的日子要到头了",
+        "onboard_time": 1754318846,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121141,
+        "num": 121141,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110627,
+        "num": 110627,
+        "word": "网友KTV偶遇张翰",
+        "onboard_time": 1754315725,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "张若昀 年会不能停2",
+        "onboard_time": 1754317707,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100348,
+        "num": 100348,
+        "word": "人民日报专访浪浪山小妖怪主创",
+        "onboard_time": 1754317826,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97668,
+        "num": 97668,
+        "word": "周杰伦晒儿子滑雪视频",
+        "onboard_time": 1754319386,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94973,
+        "num": 94973,
+        "word": "吴艳妮女子100米栏全国冠军",
+        "onboard_time": 1754316265,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90329,
+        "num": 90329,
+        "word": "杨鸣教练",
+        "onboard_time": 1754317646,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85654,
+        "num": 85654,
+        "word": "原来还有迪丽冷巴",
+        "onboard_time": 1754316265,
+        "rank": 29,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 82678,
+        "num": 82678,
+        "word": "刘宇宁晒地球超新鲜合照",
+        "onboard_time": 1754322743,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77820,
+        "num": 77820,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77765,
+        "num": 77765,
+        "word": "朴灿烈将8月25日回归",
+        "onboard_time": 1754324421,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72312,
+        "num": 72312,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72076,
+        "num": 72076,
+        "word": "在佛山买这47种药须实名登记",
+        "onboard_time": 1754322562,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 69825,
+        "num": 69825,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69126,
+        "num": 69126,
+        "word": "赵露思说有点不敢推荐东西了",
+        "onboard_time": 1754324962,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68254,
+        "num": 68254,
+        "word": "白鹿白衬衫根正苗红",
+        "onboard_time": 1754321363,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66939,
+        "num": 66939,
+        "word": "时代少年团偶像剧的幕后趣事",
+        "onboard_time": 1754324780,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65658,
+        "num": 65658,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 63509,
+        "num": 63509,
+        "word": "王青直播间",
+        "onboard_time": 1754313564,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60624,
+        "num": 60624,
+        "word": "龙亦瑞总选",
+        "onboard_time": 1754319986,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59970,
+        "num": 59970,
+        "word": "特斯拉奖励马斯克9600万股股票",
+        "onboard_time": 1754317527,
+        "rank": 42,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 58584,
+        "num": 58584,
+        "word": "迪丽热巴利剑玫瑰收视率破2.4%",
+        "onboard_time": 1754319626,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57952,
+        "num": 57952,
+        "word": "刚出生就三十多岁的90后老baby",
+        "onboard_time": 1754308763,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56843,
+        "num": 56843,
+        "word": "第一次见这么多cp的恋综男嘉宾",
+        "onboard_time": 1754317107,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54842,
+        "num": 54842,
+        "word": "11人挤爆核载2人车交警都懵了",
+        "onboard_time": 1754316385,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54518,
+        "num": 54518,
+        "word": "粉丝给李诞的一封信",
+        "onboard_time": 1754317107,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51595,
+        "num": 54518,
+        "word": "一下班就下大雨真不是你的错觉",
+        "onboard_time": 1754315545,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49282,
+        "num": 54517,
+        "word": "律师回应14岁少女校外被殴打",
+        "onboard_time": 1754315964,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民军队攻坚制胜#"
+    }
+  }
+}
