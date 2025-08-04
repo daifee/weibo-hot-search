@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754292980959,
+  "endTime": 1754293792310,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2968164,
-      "num": 373263,
+      "num": 401045,
       "word": "娜扎疑似与张云龙已分手",
       "onboard_time": 1754277982,
       "rank": 10,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 643254,
-      "num": 337267,
+      "num": 400437,
       "word": "吴倩带女儿逛街",
       "onboard_time": 1754290702,
       "rank": 17,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1754158756,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575936,
+      "num": 575936,
+      "word": "库克感谢中国国补政策",
+      "onboard_time": 1754291964,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 575221,
@@ -2131,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399550,
+      "num": 399550,
+      "word": "王安宇抖成这样",
+      "onboard_time": 1754291722,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 397885,
       "num": 397885,
       "word": "亮证姐与平头哥是邻村亲戚",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1754147788,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389036,
+      "num": 219368,
+      "word": "终于学会漂漂亮亮不随份子钱",
+      "onboard_time": 1754290223,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 388357,
@@ -2241,14 +2265,6 @@
       "onboard_time": 1754047343,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379427,
-      "num": 219368,
-      "word": "终于学会漂漂亮亮不随份子钱",
-      "onboard_time": 1754290223,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 378351,
@@ -3067,14 +3083,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 276286,
-      "num": 276286,
-      "word": "王安宇抖成这样",
-      "onboard_time": 1754291722,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 275658,
       "num": 246329,
       "word": "贾玲股四头肌",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1754115501,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267796,
-      "num": 267796,
-      "word": "库克感谢中国国补政策",
-      "onboard_time": 1754291964,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 267414,
@@ -5051,6 +5051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "严浩翔答应大家的新说唱福利",
+      "onboard_time": 1754293102,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187154,
       "num": 175214,
       "word": "一代人有一代人的漫展体验",
@@ -5315,6 +5323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181249,
+      "num": 181249,
+      "word": "李诞欣赏周星驰但不想认识他",
+      "onboard_time": 1754293042,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180935,
       "num": 180935,
       "word": "穆祉丞狼尾",
@@ -5417,6 +5433,14 @@
       "onboard_time": 1754057364,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177522,
+      "num": 177522,
+      "word": "此款女主内娱无代餐",
+      "onboard_time": 1754292983,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 177157,
@@ -5529,6 +5553,14 @@
       "onboard_time": 1754270482,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175007,
+      "num": 175007,
+      "word": "80岁网红凯凯爷爷去世",
+      "onboard_time": 1754292983,
+      "rank": 29,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 174938,
@@ -5771,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170584,
+      "num": 170584,
+      "word": "北京暴雨",
+      "onboard_time": 1754292622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170513,
       "num": 170513,
       "word": "啤酒 伟哥",
@@ -5929,6 +5969,14 @@
       "onboard_time": 1754203582,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166978,
+      "num": 166978,
+      "word": "王者荣耀",
+      "onboard_time": 1754023942,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 166750,
@@ -6747,6 +6795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151021,
+      "num": 151021,
+      "word": "鹿晗四巡北京站终于上桌",
+      "onboard_time": 1754292862,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150987,
       "num": 150987,
       "word": "深情眼豆瓣开分5.7",
@@ -7307,14 +7363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142408,
-      "num": 142408,
-      "word": "北京暴雨",
-      "onboard_time": 1754292622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "AAA煮鸡蛋批发商韩某",
@@ -7483,12 +7531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139687,
+      "num": 139687,
+      "word": "因为工作不开心给妈妈发的微信",
+      "onboard_time": 1754293524,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139647,
       "num": 139647,
       "word": "第一次遇见生理性喜欢的电影",
       "onboard_time": 1754137763,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139635,
+      "num": 139635,
+      "word": "每天1杯无糖饮料患糖尿病风险增38%",
+      "onboard_time": 1754291782,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139557,
@@ -8105,6 +8169,14 @@
       "onboard_time": 1754200702,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131335,
+      "num": 401073,
+      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
+      "onboard_time": 1754289623,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131221,
@@ -8731,14 +8803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123298,
-      "num": 123298,
-      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
-      "onboard_time": 1754289623,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123296,
       "num": 123296,
       "word": "王玉雯元气小厨娘",
@@ -9011,14 +9075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120056,
-      "num": 120056,
-      "word": "每天1杯无糖饮料患糖尿病风险增38%",
-      "onboard_time": 1754291782,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119898,
       "num": 119898,
       "word": "王安宇新歌制作人是小鬼",
@@ -9115,6 +9171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118201,
+      "num": 118201,
+      "word": "鹿晗演唱会自拍airdrop给所有人",
+      "onboard_time": 1754293163,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118148,
       "num": 118148,
       "word": "易烊千玺唱着Fly就飞起来了",
@@ -9137,6 +9201,14 @@
       "onboard_time": 1754281105,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117679,
+      "num": 163879,
+      "word": "合肥一永辉超市蛋挞上现活蟑螂",
+      "onboard_time": 1754289082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117469,
@@ -9193,6 +9265,14 @@
       "onboard_time": 1754225424,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116656,
+      "num": 116656,
+      "word": "芒果男艺人发长文求工作",
+      "onboard_time": 1754293763,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 116564,
@@ -9265,14 +9345,6 @@
       "onboard_time": 1754044525,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 115927,
-      "num": 127195,
-      "word": "王者荣耀",
-      "onboard_time": 1754023942,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 115585,
@@ -9361,6 +9433,14 @@
       "onboard_time": 1754125163,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114623,
+      "num": 114623,
+      "word": "陈赫盯上了节目导演的位子",
+      "onboard_time": 1754293282,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114596,
@@ -9579,14 +9659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111292,
-      "num": 163879,
-      "word": "合肥一永辉超市蛋挞上现活蟑螂",
-      "onboard_time": 1754289082,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111075,
       "num": 111075,
       "word": "这就是明星基因吗",
@@ -9633,6 +9705,14 @@
       "onboard_time": 1754219603,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110601,
+      "num": 110601,
+      "word": "只有当妈后才懂她有多正确",
+      "onboard_time": 1754293701,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110442,
@@ -9697,14 +9777,6 @@
       "onboard_time": 1754067439,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 109695,
-      "num": 109695,
-      "word": "鹿晗四巡北京站终于上桌",
-      "onboard_time": 1754292862,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 109300,
@@ -10404,7 +10476,7 @@
     },
     {
       "raw_hot": 95760,
-      "num": 109887,
+      "num": 121759,
       "word": "至珍七虾堡",
       "onboard_time": 1754292383,
       "rank": 40,
@@ -12163,6 +12235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24926,
+      "num": 750639,
+      "word": "航母编队赴西太平洋训练详情公开",
+      "onboard_time": 1754269883,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 24144,
       "num": 27911,
       "word": "陈若轩鲨回悬疑剧了",
@@ -12243,14 +12323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20742,
-      "num": 750639,
-      "word": "航母编队赴西太平洋训练详情公开",
-      "onboard_time": 1754269883,
-      "rank": 2,
-      "category": "军事"
-    },
-    {
       "raw_hot": 20511,
       "num": 164238,
       "word": "心动的信号破冰全靠这瓶茉莉",
@@ -12289,6 +12361,14 @@
       "onboard_time": 1754249294,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18936,
+      "num": 205701,
+      "word": "Jisoo口哨没吹起来",
+      "onboard_time": 1754293282,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 18851,

@@ -1,10 +1,10 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754292980959,
+  "endTime": 1754293792310,
   "band_list": [
     {
       "raw_hot": 2968164,
-      "num": 373263,
+      "num": 401045,
       "word": "娜扎疑似与张云龙已分手",
       "onboard_time": 1754277982,
       "rank": 10,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 643254,
-      "num": 337267,
+      "num": 400437,
       "word": "吴倩带女儿逛街",
       "onboard_time": 1754290702,
       "rank": 17,
@@ -201,6 +201,14 @@
       "onboard_time": 1754289623,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575936,
+      "num": 575936,
+      "word": "库克感谢中国国补政策",
+      "onboard_time": 1754291964,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 575221,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399550,
+      "num": 399550,
+      "word": "王安宇抖成这样",
+      "onboard_time": 1754291722,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 397754,
       "num": 397754,
       "word": "王一博首支香奈儿广告大片",
@@ -331,20 +347,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 389036,
+      "num": 219368,
+      "word": "终于学会漂漂亮亮不随份子钱",
+      "onboard_time": 1754290223,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387516,
       "num": 237540,
       "word": "男子与他人合谋性侵前女友被判刑",
       "onboard_time": 1754268863,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379427,
-      "num": 219368,
-      "word": "终于学会漂漂亮亮不随份子钱",
-      "onboard_time": 1754290223,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 375923,
@@ -497,22 +513,6 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 276286,
-      "num": 276286,
-      "word": "王安宇抖成这样",
-      "onboard_time": 1754291722,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 267796,
-      "num": 267796,
-      "word": "库克感谢中国国补政策",
-      "onboard_time": 1754291964,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 266407,
@@ -787,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "严浩翔答应大家的新说唱福利",
+      "onboard_time": 1754293102,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187154,
       "num": 175214,
       "word": "一代人有一代人的漫展体验",
@@ -827,12 +835,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181249,
+      "num": 181249,
+      "word": "李诞欣赏周星驰但不想认识他",
+      "onboard_time": 1754293042,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179663,
       "num": 179663,
       "word": "十个勤天",
       "onboard_time": 1754286562,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177522,
+      "num": 177522,
+      "word": "此款女主内娱无代餐",
+      "onboard_time": 1754292983,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 176529,
@@ -867,12 +891,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175007,
+      "num": 175007,
+      "word": "80岁网红凯凯爷爷去世",
+      "onboard_time": 1754292983,
+      "rank": 29,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 173890,
       "num": 173890,
       "word": "王一博COCOCRUSH海报",
       "onboard_time": 1754286562,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 170584,
+      "num": 170584,
+      "word": "北京暴雨",
+      "onboard_time": 1754292622,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170026,
@@ -905,6 +945,14 @@
       "onboard_time": 1754261357,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166978,
+      "num": 166978,
+      "word": "王者荣耀",
+      "onboard_time": 1754293464,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 166583,
@@ -987,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151021,
+      "num": 151021,
+      "word": "鹿晗四巡北京站终于上桌",
+      "onboard_time": 1754292862,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150199,
       "num": 150199,
       "word": "立秋后可以多吃的水果",
@@ -1035,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142408,
-      "num": 142408,
-      "word": "北京暴雨",
-      "onboard_time": 1754292622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141964,
       "num": 237943,
       "word": "广泛深入察民情听民声汇民智",
@@ -1065,6 +1113,22 @@
       "onboard_time": 1754272701,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139687,
+      "num": 139687,
+      "word": "因为工作不开心给妈妈发的微信",
+      "onboard_time": 1754293524,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 139635,
+      "num": 139635,
+      "word": "每天1杯无糖饮料患糖尿病风险增38%",
+      "onboard_time": 1754291782,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139557,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1754286862,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131335,
+      "num": 401073,
+      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
+      "onboard_time": 1754289623,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130738,
@@ -1163,14 +1235,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 123298,
-      "num": 123298,
-      "word": "羊都不吃的羽衣甘蓝年轻人含泪买爆",
-      "onboard_time": 1754289623,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122937,
       "num": 122937,
       "word": "大同地震",
@@ -1227,14 +1291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120056,
-      "num": 120056,
-      "word": "每天1杯无糖饮料患糖尿病风险增38%",
-      "onboard_time": 1754291782,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119079,
       "num": 185705,
       "word": "陈梦说女运动员也有追求美的权利",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1754234244,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118201,
+      "num": 118201,
+      "word": "鹿晗演唱会自拍airdrop给所有人",
+      "onboard_time": 1754293163,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 118148,
@@ -1275,12 +1339,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117679,
+      "num": 163879,
+      "word": "合肥一永辉超市蛋挞上现活蟑螂",
+      "onboard_time": 1754289082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117246,
       "num": 117246,
       "word": "刺杀小说家2",
       "onboard_time": 1754227345,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116656,
+      "num": 116656,
+      "word": "芒果男艺人发长文求工作",
+      "onboard_time": 1754293763,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 116431,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1754285183,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114623,
+      "num": 114623,
+      "word": "陈赫盯上了节目导演的位子",
+      "onboard_time": 1754293282,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114596,
@@ -1331,12 +1419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111292,
-      "num": 163879,
-      "word": "合肥一永辉超市蛋挞上现活蟑螂",
-      "onboard_time": 1754289082,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 110601,
+      "num": 110601,
+      "word": "只有当妈后才懂她有多正确",
+      "onboard_time": 1754293701,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110272,
@@ -1369,14 +1457,6 @@
       "onboard_time": 1754282665,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109695,
-      "num": 109695,
-      "word": "鹿晗四巡北京站终于上桌",
-      "onboard_time": 1754292862,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 109683,
@@ -1524,7 +1604,7 @@
     },
     {
       "raw_hot": 95760,
-      "num": 109887,
+      "num": 121759,
       "word": "至珍七虾堡",
       "onboard_time": 1754292383,
       "rank": 40,
@@ -1875,6 +1955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24926,
+      "num": 750639,
+      "word": "航母编队赴西太平洋训练详情公开",
+      "onboard_time": 1754269883,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 24136,
       "num": 172868,
       "word": "哈马斯曝光以色列人质画面",
@@ -1907,14 +1995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20742,
-      "num": 750639,
-      "word": "航母编队赴西太平洋训练详情公开",
-      "onboard_time": 1754269883,
-      "rank": 2,
-      "category": "军事"
-    },
-    {
       "raw_hot": 20511,
       "num": 164238,
       "word": "心动的信号破冰全靠这瓶茉莉",
@@ -1929,6 +2009,14 @@
       "onboard_time": 1754249294,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18936,
+      "num": 205701,
+      "word": "Jisoo口哨没吹起来",
+      "onboard_time": 1754293282,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 15505,
