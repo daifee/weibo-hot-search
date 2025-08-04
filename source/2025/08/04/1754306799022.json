@@ -1,0 +1,410 @@
+{
+  "runTime": 1754306799022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1082771,
+        "num": 1173243,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 986890,
+        "num": 986890,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7477,
+        "num": 526424,
+        "word": "航母编队赴西太平洋训练详情公开",
+        "onboard_time": 1754269883,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 495184,
+        "num": 495184,
+        "word": "樊振东莫雷加德聚餐",
+        "onboard_time": 1754301383,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421514,
+        "num": 421514,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 325405,
+        "num": 325405,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 5,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 283156,
+        "num": 283156,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 274067,
+        "num": 274067,
+        "word": "笔试17分进复审",
+        "onboard_time": 1754305401,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271330,
+        "num": 271330,
+        "word": "薛之谦新歌",
+        "onboard_time": 1754302585,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124820,
+        "num": 270994,
+        "word": "重庆将主办WTT冠军赛",
+        "onboard_time": 1754305462,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1561612,
+        "num": 268958,
+        "word": "黄奕女儿被网友抗议出道",
+        "onboard_time": 1754299282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1163415,
+        "num": 267526,
+        "word": "虞书欣疑似解约华策",
+        "onboard_time": 1754301802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924810,
+        "num": 265779,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272024,
+        "num": 264232,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 569155,
+        "num": 263607,
+        "word": "外卖员摔倒因心疼钱大哭",
+        "onboard_time": 1754302883,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365532,
+        "num": 261989,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39471,
+        "num": 260574,
+        "word": "智搜教你暴雨这样避险",
+        "onboard_time": 1754306482,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 259442,
+        "num": 259442,
+        "word": "赵露思手撕公司的三大争议点",
+        "onboard_time": 1754304982,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193796,
+        "num": 235683,
+        "word": "孙红雷想黄渤黄磊张艺兴了",
+        "onboard_time": 1754295685,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184253,
+        "num": 229365,
+        "word": "短剧折腰开拍",
+        "onboard_time": 1754296162,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226704,
+        "num": 226704,
+        "word": "痛经假 医疗证明",
+        "onboard_time": 1754294842,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206644,
+        "num": 206644,
+        "word": "终于学会漂漂亮亮不随份子钱",
+        "onboard_time": 1754290223,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206134,
+        "num": 206134,
+        "word": "面馆老板回应赵露思直播后爆单",
+        "onboard_time": 1754306303,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192170,
+        "num": 192170,
+        "word": "徐璐这穿搭够我学一阵了",
+        "onboard_time": 1754294543,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191853,
+        "num": 191853,
+        "word": "孙颖莎回应世乒赛哭了",
+        "onboard_time": 1754300302,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80909,
+        "num": 184190,
+        "word": "上汽奥迪A5L首发限量版售罄",
+        "onboard_time": 1754305401,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176598,
+        "num": 176598,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157796,
+        "num": 175716,
+        "word": "陈丽君胜诉",
+        "onboard_time": 1754305341,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293408,
+        "num": 175679,
+        "word": "衣服都脱了你俩拍打戏",
+        "onboard_time": 1754295203,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112582,
+        "num": 175528,
+        "word": "汪铎叫杨洋honey",
+        "onboard_time": 1754305822,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175489,
+        "num": 175489,
+        "word": "93年月入4000元上下班的一天",
+        "onboard_time": 1754297964,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163491,
+        "num": 163491,
+        "word": "温州一景区员工漂流测试时落水身亡",
+        "onboard_time": 1754302163,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158736,
+        "num": 158736,
+        "word": "我国在艾滋病疫苗研发领域取得重要进展",
+        "onboard_time": 1754295743,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146953,
+        "num": 146953,
+        "word": "许倬云曾遗憾但悲不见九州同",
+        "onboard_time": 1754296344,
+        "rank": 33,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 130982,
+        "num": 130982,
+        "word": "心动的信号8",
+        "onboard_time": 1754303962,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134869,
+        "num": 130911,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129113,
+        "num": 129113,
+        "word": "TWS韩粉质疑韩振的中文水平",
+        "onboard_time": 1754303484,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127428,
+        "num": 127428,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25564,
+        "num": 122496,
+        "word": "养生馆  小分子水",
+        "onboard_time": 1754305642,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57215,
+        "num": 121192,
+        "word": "女子扶老人被讹维权一个多月",
+        "onboard_time": 1754305642,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120222,
+        "num": 120222,
+        "word": "减肥最快邪修是空腹有氧",
+        "onboard_time": 1754303243,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117495,
+        "num": 117495,
+        "word": "广东成为全国暴雨中心",
+        "onboard_time": 1754304202,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116748,
+        "num": 116748,
+        "word": "厨子终于在恋综里站起来了",
+        "onboard_time": 1754304682,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113939,
+        "num": 113939,
+        "word": "王安宇抖成这样",
+        "onboard_time": 1754291722,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113264,
+        "num": 113264,
+        "word": "女子推理社",
+        "onboard_time": 1754296464,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110546,
+        "num": 110546,
+        "word": "汪苏泷你不是怕大蟑螂吗",
+        "onboard_time": 1754306062,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110030,
+        "num": 110030,
+        "word": "风尚志",
+        "onboard_time": 1754303484,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 108833,
+        "num": 108833,
+        "word": "九一八和731都是不能忘的数字",
+        "onboard_time": 1754293822,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105311,
+        "num": 105311,
+        "word": "关晓彤头发全梳起来大大方方的",
+        "onboard_time": 1754298863,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104679,
+        "num": 104679,
+        "word": "北京暴雨",
+        "onboard_time": 1754292622,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广泛深入察民情听民声汇民智#"
+    }
+  }
+}

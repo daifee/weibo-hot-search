@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754304708331,
+  "endTime": 1754306799022,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1561612,
+      "num": 423581,
+      "word": "黄奕女儿被网友抗议出道",
+      "onboard_time": 1754299282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1367416,
       "num": 879806,
       "word": "酷似大S女生称未模仿大S未整容",
@@ -73,14 +81,6 @@
       "onboard_time": 1754276662,
       "rank": 1,
       "category": "艺人,海外新闻"
-    },
-    {
-      "raw_hot": 1273888,
-      "num": 423581,
-      "word": "黄奕女儿被网友抗议出道",
-      "onboard_time": 1754299282,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 1241608,
@@ -113,6 +113,22 @@
       "onboard_time": 1754279843,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1082771,
+      "num": 1173243,
+      "word": "迅猛龙复旦班级合照",
+      "onboard_time": 1754303842,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 986890,
+      "num": 986890,
+      "word": "杭州一夫妻争吵后丈夫跳河身亡",
+      "onboard_time": 1754301443,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 942769,
@@ -201,14 +217,6 @@
       "onboard_time": 1754235924,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 772930,
-      "num": 772930,
-      "word": "杭州一夫妻争吵后丈夫跳河身亡",
-      "onboard_time": 1754301443,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 738652,
@@ -313,6 +321,14 @@
       "onboard_time": 1754234005,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569155,
+      "num": 263607,
+      "word": "外卖员摔倒因心疼钱大哭",
+      "onboard_time": 1754302883,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 566799,
@@ -425,14 +441,6 @@
       "onboard_time": 1754280204,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452494,
-      "num": 452494,
-      "word": "迅猛龙复旦班级合照",
-      "onboard_time": 1754303842,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 439798,
@@ -675,6 +683,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 274067,
+      "num": 274067,
+      "word": "笔试17分进复审",
+      "onboard_time": 1754305401,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266407,
       "num": 266407,
       "word": "上海将开展入户调查",
@@ -697,6 +713,14 @@
       "onboard_time": 1754264720,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259442,
+      "num": 259442,
+      "word": "赵露思手撕公司的三大争议点",
+      "onboard_time": 1754304982,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 259126,
@@ -921,6 +945,14 @@
       "onboard_time": 1754280025,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206134,
+      "num": 206134,
+      "word": "面馆老板回应赵露思直播后爆单",
+      "onboard_time": 1754306303,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 205768,
@@ -1155,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176598,
+      "num": 176598,
+      "word": "黄奕回应女儿出道",
+      "onboard_time": 1754306062,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176529,
       "num": 176529,
       "word": "白敬亭出道十一周年vlog",
@@ -1208,14 +1248,6 @@
       "word": "女子获赠舅舅房产被其女儿起诉",
       "onboard_time": 1754295922,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171861,
-      "num": 171861,
-      "word": "外卖员摔倒因心疼钱大哭",
-      "onboard_time": 1754302883,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1329,6 +1361,14 @@
       "onboard_time": 1754278823,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157796,
+      "num": 175716,
+      "word": "陈丽君胜诉",
+      "onboard_time": 1754305341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 156151,
@@ -1627,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127428,
+      "num": 127428,
+      "word": "小孩多次甩飞捶打小猫致死",
+      "onboard_time": 1754306542,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127172,
       "num": 127172,
       "word": "快手极速版崩了",
@@ -1673,6 +1721,14 @@
       "onboard_time": 1754218523,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124820,
+      "num": 270994,
+      "word": "重庆将主办WTT冠军赛",
+      "onboard_time": 1754305462,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 124493,
@@ -1835,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117495,
+      "num": 129225,
+      "word": "广东成为全国暴雨中心",
+      "onboard_time": 1754304202,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117246,
       "num": 117246,
       "word": "刺杀小说家2",
@@ -1843,20 +1907,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116748,
+      "num": 116748,
+      "word": "厨子终于在恋综里站起来了",
+      "onboard_time": 1754304682,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116431,
       "num": 116431,
       "word": "巨人网络股价涨停",
       "onboard_time": 1754291782,
       "rank": 34,
       "category": "游戏,财经"
-    },
-    {
-      "raw_hot": 115001,
-      "num": 115001,
-      "word": "厨子终于在恋综里站起来了",
-      "onboard_time": 1754304682,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 114857,
@@ -1899,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112582,
+      "num": 175528,
+      "word": "汪铎叫杨洋honey",
+      "onboard_time": 1754305822,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112087,
       "num": 112087,
       "word": "迪丽热巴低饱和巴恩风穿搭",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1754293701,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110546,
+      "num": 110546,
+      "word": "汪苏泷你不是怕大蟑螂吗",
+      "onboard_time": 1754306062,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 110272,
@@ -1985,14 +2065,6 @@
       "onboard_time": 1754268262,
       "rank": 45,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 107038,
-      "num": 129225,
-      "word": "广东成为全国暴雨中心",
-      "onboard_time": 1754304202,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105538,
@@ -2291,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80909,
+      "num": 184190,
+      "word": "上汽奥迪A5L首发限量版售罄",
+      "onboard_time": 1754305401,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79642,
       "num": 79642,
       "word": "法拉利 乐扣",
@@ -2379,6 +2459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57215,
+      "num": 121192,
+      "word": "女子扶老人被讹维权一个多月",
+      "onboard_time": 1754305642,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55317,
       "num": 55317,
       "word": "王楚钦又跟人合影了",
@@ -2451,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39471,
+      "num": 260574,
+      "word": "智搜教你暴雨这样避险",
+      "onboard_time": 1754306482,
+      "rank": 16,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 39435,
       "num": 120232,
       "word": "王灿晒跟周杰伦合影旧照",
@@ -2505,6 +2601,14 @@
       "onboard_time": 1754243717,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25564,
+      "num": 122496,
+      "word": "养生馆  小分子水",
+      "onboard_time": 1754305642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24136,
