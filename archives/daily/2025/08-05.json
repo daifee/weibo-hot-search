@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754347672371,
+  "endTime": 1754350126882,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -9,6 +9,22 @@
       "onboard_time": 1754324061,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1172449,
+      "num": 179878,
+      "word": "江油",
+      "onboard_time": 1754349258,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 932030,
+      "num": 932030,
+      "word": "女子吃桃子咬开发现里面一堆树叶",
+      "onboard_time": 1754349379,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 825860,
@@ -24,6 +40,14 @@
       "word": "赵露思 姐现在忍不了任何人",
       "onboard_time": 1754314644,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 647246,
+      "num": 647246,
+      "word": "赵薇被冻结1590万股权",
+      "onboard_time": 1754317766,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -59,20 +83,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 376723,
-      "num": 544459,
-      "word": "赵薇被冻结1590万股权",
-      "onboard_time": 1754317766,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 355572,
       "num": 355572,
       "word": "多个账号攻击爱国题材电影被禁言",
       "onboard_time": 1754312664,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318781,
+      "num": 318781,
+      "word": "赵露思说有点不敢推荐东西了",
+      "onboard_time": 1754324962,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 286577,
@@ -99,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224426,
+      "num": 224426,
+      "word": "深圳暴雨",
+      "onboard_time": 1754349678,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213838,
       "num": 213838,
       "word": "历史学家许倬云逝世",
@@ -115,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179581,
+      "num": 179581,
+      "word": "举报史航女生再发声",
+      "onboard_time": 1754315185,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 177972,
       "num": 177972,
       "word": "薛之谦新歌",
       "onboard_time": 1754302585,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176732,
-      "num": 121778,
-      "word": "赵露思说有点不敢推荐东西了",
-      "onboard_time": 1754324962,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 167070,
@@ -139,12 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158662,
+      "num": 158662,
+      "word": "马景涛一个月打工3个景区",
+      "onboard_time": 1754330237,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154512,
       "num": 154512,
       "word": "上海全款150万32平米的小家",
       "onboard_time": 1754316506,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153225,
+      "num": 212823,
+      "word": "特朗普称将大幅提高对印度关税",
+      "onboard_time": 1754323823,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152939,
@@ -155,20 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142424,
-      "num": 212823,
-      "word": "特朗普称将大幅提高对印度关税",
-      "onboard_time": 1754323823,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 140015,
-      "num": 140015,
-      "word": "举报史航女生再发声",
-      "onboard_time": 1754315185,
-      "rank": 17,
-      "category": "民生新闻,艺人"
+      "raw_hot": 149399,
+      "num": 149399,
+      "word": "警方回应奔驰车被指逆行超车逼停摩托",
+      "onboard_time": 1754327598,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125815,
@@ -203,20 +243,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106808,
-      "num": 121324,
-      "word": "警方回应奔驰车被指逆行超车逼停摩托",
-      "onboard_time": 1754327598,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103458,
       "num": 121064,
       "word": "张若昀 年会不能停2",
       "onboard_time": 1754317707,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103227,
+      "num": 180138,
+      "word": "湖南一高校书记侵吞巨额科研经费",
+      "onboard_time": 1754349859,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 101144,
+      "num": 101144,
+      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
+      "onboard_time": 1754334374,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100348,
@@ -243,12 +291,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93033,
+      "num": 93033,
+      "word": "陈伟霆 坐这么舒服啊你们",
+      "onboard_time": 1754347157,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91665,
+      "num": 91665,
+      "word": "中国船舶将吸收合并中国重工",
+      "onboard_time": 1754334315,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90329,
       "num": 90329,
       "word": "杨鸣教练",
       "onboard_time": 1754317646,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89629,
+      "num": 89629,
+      "word": "肖战藏在专辑里的红海",
+      "onboard_time": 1754350038,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 88672,
+      "num": 121362,
+      "word": "律师回应14岁少女校外被殴打",
+      "onboard_time": 1754315964,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88313,
@@ -275,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80444,
+      "num": 80444,
+      "word": "恋综节目上演顶级魅魔互选",
+      "onboard_time": 1754348778,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77820,
       "num": 121376,
       "word": "小孩多次甩飞捶打小猫致死",
@@ -289,6 +377,22 @@
       "onboard_time": 1754324421,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 77056,
+      "num": 121040,
+      "word": "体制内爱好红黑榜",
+      "onboard_time": 1754312723,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73139,
+      "num": 120970,
+      "word": "县委书记2230万强行上马旅游项目被通报",
+      "onboard_time": 1754307202,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 72312,
@@ -315,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68335,
+      "num": 180088,
+      "word": "巴基斯坦暴雨302死727伤",
+      "onboard_time": 1754349198,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68254,
       "num": 120891,
       "word": "白鹿白衬衫根正苗红",
       "onboard_time": 1754321363,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67029,
-      "num": 67029,
-      "word": "博主曝光内蒙古一火锅店用阴阳菜单",
-      "onboard_time": 1754334374,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66939,
@@ -347,12 +451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65658,
-      "num": 120970,
-      "word": "县委书记2230万强行上马旅游项目被通报",
-      "onboard_time": 1754307202,
-      "rank": 39,
-      "category": "辟谣/通报"
+      "raw_hot": 64831,
+      "num": 64831,
+      "word": "6种人真的不适合当朋友",
+      "onboard_time": 1754342114,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 63509,
@@ -363,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62935,
-      "num": 121362,
-      "word": "律师回应14岁少女校外被殴打",
-      "onboard_time": 1754315964,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 60699,
+      "num": 60699,
+      "word": "韩将取消外国游客医美退税",
+      "onboard_time": 1754340735,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60624,
@@ -385,14 +489,6 @@
       "onboard_time": 1754317527,
       "rank": 42,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 59845,
-      "num": 76503,
-      "word": "马景涛一个月打工3个景区",
-      "onboard_time": 1754330237,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 58584,
@@ -419,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55113,
+      "num": 103945,
+      "word": "以色列总理计划全面占领加沙",
+      "onboard_time": 1754349198,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54842,
       "num": 120567,
       "word": "11人挤爆核载2人车交警都懵了",
@@ -433,14 +537,6 @@
       "onboard_time": 1754317107,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54193,
-      "num": 54193,
-      "word": "6种人真的不适合当朋友",
-      "onboard_time": 1754342114,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 51595,
@@ -459,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46960,
-      "num": 121040,
-      "word": "体制内爱好红黑榜",
-      "onboard_time": 1754312723,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 48092,
+      "num": 75824,
+      "word": "复旦MBA回应迅猛龙入读复旦",
+      "onboard_time": 1754332575,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 46308,
@@ -475,28 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46095,
-      "num": 54187,
-      "word": "中国船舶将吸收合并中国重工",
-      "onboard_time": 1754334315,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43269,
       "num": 53754,
       "word": "第一次见这么混血的语言系统",
       "onboard_time": 1754333955,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40263,
-      "num": 54022,
-      "word": "韩将取消外国游客医美退税",
-      "onboard_time": 1754340735,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 37846,
@@ -513,6 +593,14 @@
       "onboard_time": 1754339355,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35786,
+      "num": 49877,
+      "word": "镇政府回应化粪池坍塌致2人遇难",
+      "onboard_time": 1754349979,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33221,
@@ -547,20 +635,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 28717,
+      "num": 49877,
+      "word": "没有机场的苏州获得通向世界的跑道",
+      "onboard_time": 1754349559,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26859,
       "num": 161046,
       "word": "活力中国调研行",
       "onboard_time": 1754325740,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26626,
-      "num": 75824,
-      "word": "复旦MBA回应迅猛龙入读复旦",
-      "onboard_time": 1754332575,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 25921,
@@ -579,14 +667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20274,
-      "num": 53697,
-      "word": "陈伟霆 坐这么舒服啊你们",
-      "onboard_time": 1754347157,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18663,
       "num": 75785,
       "word": "鹿晗急得在嘴里炒了一盘菜",
@@ -601,6 +681,14 @@
       "onboard_time": 1754334255,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8120,
+      "num": 373779,
+      "word": "抗战烈士回信家人说国不保家何能存",
+      "onboard_time": 1754294422,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1875,
