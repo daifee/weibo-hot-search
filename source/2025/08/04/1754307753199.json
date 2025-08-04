@@ -1,0 +1,410 @@
+{
+  "runTime": 1754307753199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105267,
+        "num": 1176842,
+        "word": "迅猛龙复旦班级合照",
+        "onboard_time": 1754303842,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 454408,
+        "num": 454408,
+        "word": "笔试17分进复审",
+        "onboard_time": 1754305401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5634,
+        "num": 440892,
+        "word": "航母编队赴西太平洋训练详情公开",
+        "onboard_time": 1754269883,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 779723,
+        "num": 440781,
+        "word": "杭州一夫妻争吵后丈夫跳河身亡",
+        "onboard_time": 1754301443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438973,
+        "num": 438973,
+        "word": "赵露思手撕公司的三大争议点",
+        "onboard_time": 1754304982,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428933,
+        "num": 428933,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 397951,
+        "num": 397951,
+        "word": "樊振东莫雷加德聚餐",
+        "onboard_time": 1754301383,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349336,
+        "num": 349336,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 7,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 342028,
+        "num": 342028,
+        "word": "白鹿与英烈跨时空对话看泪目了",
+        "onboard_time": 1754290583,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 243648,
+        "num": 243648,
+        "word": "陈丽君胜诉",
+        "onboard_time": 1754305341,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 987743,
+        "num": 241235,
+        "word": "虞书欣疑似解约华策",
+        "onboard_time": 1754301802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765294,
+        "num": 238106,
+        "word": "外卖员摔倒因心疼钱大哭",
+        "onboard_time": 1754302883,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342464,
+        "num": 235185,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909444,
+        "num": 234364,
+        "word": "白鹿报警",
+        "onboard_time": 1754293943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45665,
+        "num": 228963,
+        "word": "智搜教你暴雨这样避险",
+        "onboard_time": 1754306482,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 228642,
+        "num": 228642,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227356,
+        "num": 227356,
+        "word": "薛之谦新歌",
+        "onboard_time": 1754302585,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216188,
+        "num": 216188,
+        "word": "黄奕回应女儿出道",
+        "onboard_time": 1754306062,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185288,
+        "num": 215986,
+        "word": "温州一景区员工漂流测试时落水身亡",
+        "onboard_time": 1754302163,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175686,
+        "num": 215660,
+        "word": "孙红雷想黄渤黄磊张艺兴了",
+        "onboard_time": 1754295685,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187906,
+        "num": 215479,
+        "word": "县委书记2230万强行上马旅游项目被通报",
+        "onboard_time": 1754307202,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 313880,
+        "num": 215335,
+        "word": "面馆老板回应赵露思直播后爆单",
+        "onboard_time": 1754306303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215119,
+        "num": 215119,
+        "word": "网易云好卡",
+        "onboard_time": 1754306963,
+        "rank": 22,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 211028,
+        "num": 211028,
+        "word": "小孩多次甩飞捶打小猫致死",
+        "onboard_time": 1754306542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50655,
+        "num": 209418,
+        "word": "上汽奥迪A5L首发限量版售罄",
+        "onboard_time": 1754305401,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208573,
+        "num": 208573,
+        "word": "痛经假 医疗证明",
+        "onboard_time": 1754294842,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172839,
+        "num": 172839,
+        "word": "终于学会漂漂亮亮不随份子钱",
+        "onboard_time": 1754290223,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148393,
+        "num": 156048,
+        "word": "短剧折腰开拍",
+        "onboard_time": 1754296162,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152521,
+        "num": 152521,
+        "word": "孙颖莎回应世乒赛哭了",
+        "onboard_time": 1754300302,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121538,
+        "num": 146544,
+        "word": "汪铎叫杨洋honey",
+        "onboard_time": 1754305822,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144276,
+        "num": 144276,
+        "word": "徐璐这穿搭够我学一阵了",
+        "onboard_time": 1754294543,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142150,
+        "num": 142150,
+        "word": "93年月入4000元上下班的一天",
+        "onboard_time": 1754297964,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139482,
+        "num": 139482,
+        "word": "许倬云曾遗憾但悲不见九州同",
+        "onboard_time": 1754296344,
+        "rank": 32,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 138304,
+        "num": 138304,
+        "word": "汪苏泷你不是怕大蟑螂吗",
+        "onboard_time": 1754306062,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134881,
+        "num": 134881,
+        "word": "周也喊的是姐把的是妹",
+        "onboard_time": 1754307382,
+        "rank": 34,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 130464,
+        "num": 130464,
+        "word": "心动的信号8",
+        "onboard_time": 1754303962,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127245,
+        "num": 127245,
+        "word": "覃海洋发博总结世锦赛",
+        "onboard_time": 1754307082,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126151,
+        "num": 126151,
+        "word": "TWS韩粉质疑韩振的中文水平",
+        "onboard_time": 1754303484,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24707,
+        "num": 123922,
+        "word": "女子扶老人被讹维权一个多月",
+        "onboard_time": 1754305642,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68268,
+        "num": 123724,
+        "word": "上海迪士尼偶遇了周也",
+        "onboard_time": 1754306842,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123696,
+        "num": 123696,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121233,
+        "num": 121233,
+        "word": "我国在艾滋病疫苗研发领域取得重要进展",
+        "onboard_time": 1754295743,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120808,
+        "num": 120808,
+        "word": "重庆将主办WTT冠军赛",
+        "onboard_time": 1754305462,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116366,
+        "num": 116366,
+        "word": "清融回应",
+        "onboard_time": 1754307563,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1487562,
+        "num": 113734,
+        "word": "黄奕女儿被网友抗议出道",
+        "onboard_time": 1754299282,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110739,
+        "num": 110739,
+        "word": "北京暴雨",
+        "onboard_time": 1754292622,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107198,
+        "num": 107198,
+        "word": "快手极速版崩了",
+        "onboard_time": 1754304623,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106017,
+        "num": 106017,
+        "word": "王安宇抖成这样",
+        "onboard_time": 1754291722,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99039,
+        "num": 99039,
+        "word": "广东成为全国暴雨中心",
+        "onboard_time": 1754304202,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98511,
+        "num": 98511,
+        "word": "九一八和731都是不能忘的数字",
+        "onboard_time": 1754293822,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就网民对十五五建议作出重要指示#"
+    }
+  }
+}

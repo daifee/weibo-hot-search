@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754306799022,
+  "endTime": 1754307753199,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -331,20 +331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1105267,
+      "num": 1176842,
+      "word": "迅猛龙复旦班级合照",
+      "onboard_time": 1754303842,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1082783,
       "num": 1082783,
       "word": "于正说可以和赵露思合伙开面馆",
       "onboard_time": 1754221643,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1082771,
-      "num": 1173243,
-      "word": "迅猛龙复旦班级合照",
-      "onboard_time": 1754303842,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 1075265,
@@ -528,6 +528,14 @@
       "word": "女司机丈夫被立案调查",
       "onboard_time": 1754182102,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765294,
+      "num": 263607,
+      "word": "外卖员摔倒因心疼钱大哭",
+      "onboard_time": 1754302883,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -787,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 569155,
-      "num": 263607,
-      "word": "外卖员摔倒因心疼钱大哭",
-      "onboard_time": 1754302883,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 566799,
       "num": 566799,
       "word": "男子在景区坠崖身亡目击者发声",
@@ -1011,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 454408,
+      "num": 454408,
+      "word": "笔试17分进复审",
+      "onboard_time": 1754305401,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444551,
       "num": 254422,
       "word": "战至巅峰",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1754296162,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438973,
+      "num": 438973,
+      "word": "赵露思手撕公司的三大争议点",
+      "onboard_time": 1754304982,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 432635,
@@ -1403,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313880,
+      "num": 215335,
+      "word": "面馆老板回应赵露思直播后爆单",
+      "onboard_time": 1754306303,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311160,
       "num": 311160,
       "word": "成龙收到了阿祖面具版labubu",
@@ -1595,14 +1619,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 274067,
-      "num": 274067,
-      "word": "笔试17分进复审",
-      "onboard_time": 1754305401,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267367,
       "num": 246901,
       "word": "日本专家建议老人自杀解决老龄化",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1754264720,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259442,
-      "num": 259442,
-      "word": "赵露思手撕公司的三大争议点",
-      "onboard_time": 1754304982,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 259219,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1754235564,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243648,
+      "num": 243648,
+      "word": "陈丽君胜诉",
+      "onboard_time": 1754305341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 242120,
@@ -1971,6 +1987,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216188,
+      "num": 216188,
+      "word": "黄奕回应女儿出道",
+      "onboard_time": 1754306062,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215119,
+      "num": 215119,
+      "word": "网易云好卡",
+      "onboard_time": 1754306963,
+      "rank": 22,
+      "category": "互联网,音乐"
+    },
+    {
       "raw_hot": 213686,
       "num": 213686,
       "word": "肖战粤语角色来了",
@@ -1993,6 +2025,14 @@
       "onboard_time": 1754300302,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211028,
+      "num": 211028,
+      "word": "小孩多次甩飞捶打小猫致死",
+      "onboard_time": 1754306542,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210462,
@@ -2041,14 +2081,6 @@
       "onboard_time": 1754280025,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206134,
-      "num": 206134,
-      "word": "面馆老板回应赵露思直播后爆单",
-      "onboard_time": 1754306303,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 205768,
@@ -2355,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187906,
+      "num": 215479,
+      "word": "县委书记2230万强行上马旅游项目被通报",
+      "onboard_time": 1754307202,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 187800,
       "num": 187800,
       "word": "邓妍表哥",
@@ -2443,6 +2483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185288,
+      "num": 215986,
+      "word": "温州一景区员工漂流测试时落水身亡",
+      "onboard_time": 1754302163,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185182,
       "num": 185182,
       "word": "王一博生日地广预热",
@@ -2523,14 +2571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180432,
-      "num": 180432,
-      "word": "温州一景区员工漂流测试时落水身亡",
-      "onboard_time": 1754302163,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180395,
       "num": 180395,
       "word": "风尚志",
@@ -2609,14 +2649,6 @@
       "onboard_time": 1754231605,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176598,
-      "num": 176598,
-      "word": "黄奕回应女儿出道",
-      "onboard_time": 1754306062,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 176529,
@@ -3057,14 +3089,6 @@
       "onboard_time": 1754220685,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157796,
-      "num": 175716,
-      "word": "陈丽君胜诉",
-      "onboard_time": 1754305341,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 157585,
@@ -3635,6 +3659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138304,
+      "num": 138304,
+      "word": "汪苏泷你不是怕大蟑螂吗",
+      "onboard_time": 1754306062,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138224,
       "num": 138224,
       "word": "苏新皓朱志鑫你俩有点暧昧了",
@@ -3745,6 +3777,14 @@
       "onboard_time": 1754227946,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134881,
+      "num": 134881,
+      "word": "周也喊的是姐把的是妹",
+      "onboard_time": 1754307382,
+      "rank": 34,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 134814,
@@ -3987,12 +4027,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127428,
-      "num": 127428,
-      "word": "小孩多次甩飞捶打小猫致死",
-      "onboard_time": 1754306542,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 127245,
+      "num": 127245,
+      "word": "覃海洋发博总结世锦赛",
+      "onboard_time": 1754307082,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 127172,
@@ -4216,6 +4256,14 @@
       "word": "来战",
       "onboard_time": 1754196024,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121538,
+      "num": 175528,
+      "word": "汪铎叫杨洋honey",
+      "onboard_time": 1754305822,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4459,6 +4507,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 116366,
+      "num": 116366,
+      "word": "清融回应",
+      "onboard_time": 1754307563,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116358,
       "num": 116358,
       "word": "邓妍才是迪丽热巴原皮吧",
@@ -4579,14 +4635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112582,
-      "num": 175528,
-      "word": "汪铎叫杨洋honey",
-      "onboard_time": 1754305822,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112404,
       "num": 112404,
       "word": "亮证女并未现场查询公民个人信息",
@@ -4641,14 +4689,6 @@
       "onboard_time": 1754293701,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110546,
-      "num": 110546,
-      "word": "汪苏泷你不是怕大蟑螂吗",
-      "onboard_time": 1754306062,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 110272,
@@ -5388,7 +5428,7 @@
     },
     {
       "raw_hot": 80909,
-      "num": 184190,
+      "num": 209418,
       "word": "上汽奥迪A5L首发限量版售罄",
       "onboard_time": 1754305401,
       "rank": 25,
@@ -5579,6 +5619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68268,
+      "num": 123724,
+      "word": "上海迪士尼偶遇了周也",
+      "onboard_time": 1754306842,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67842,
       "num": 232940,
       "word": "给奶奶点了将近一年的早餐",
@@ -5700,7 +5748,7 @@
     },
     {
       "raw_hot": 57215,
-      "num": 121192,
+      "num": 123922,
       "word": "女子扶老人被讹维权一个多月",
       "onboard_time": 1754305642,
       "rank": 39,
@@ -5859,6 +5907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45665,
+      "num": 260574,
+      "word": "智搜教你暴雨这样避险",
+      "onboard_time": 1754306482,
+      "rank": 16,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 42510,
       "num": 146684,
       "word": "90后银行职员夫妻下班送外卖舒压",
@@ -5881,14 +5937,6 @@
       "onboard_time": 1754160556,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39471,
-      "num": 260574,
-      "word": "智搜教你暴雨这样避险",
-      "onboard_time": 1754306482,
-      "rank": 16,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 39435,
