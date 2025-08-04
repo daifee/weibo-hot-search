@@ -1,0 +1,410 @@
+{
+  "runTime": 1754290167908,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1156040,
+        "num": 1184966,
+        "word": "韩国汉江惊现巨型不明物体",
+        "onboard_time": 1754278283,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 765927,
+        "num": 765927,
+        "word": "电影731提示未满18岁请谨慎观看",
+        "onboard_time": 1754283265,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43290,
+        "num": 594582,
+        "word": "山东舰辽宁舰并肩向前",
+        "onboard_time": 1754268262,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 836733,
+        "num": 591928,
+        "word": "酷似大S女生称未模仿大S未整容",
+        "onboard_time": 1754280805,
+        "rank": 3,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 562459,
+        "num": 562459,
+        "word": "内裤袜子混洗把脚气真菌传到面部",
+        "onboard_time": 1754280084,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 510146,
+        "num": 510146,
+        "word": "张本智和炮轰日本联赛",
+        "onboard_time": 1754287701,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435633,
+        "num": 435633,
+        "word": "网传金九女王迪丽热巴",
+        "onboard_time": 1754288961,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362109,
+        "num": 362109,
+        "word": "王一博首支香奈儿广告大片",
+        "onboard_time": 1754283984,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 331860,
+        "num": 331860,
+        "word": "赵露思说现在是崩溃后的平静",
+        "onboard_time": 1754286921,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93080,
+        "num": 331435,
+        "word": "本周立秋南京高温不减",
+        "onboard_time": 1754288782,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154209,
+        "num": 331018,
+        "word": "娜扎疑似与张云龙已分手",
+        "onboard_time": 1754277982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66315,
+        "num": 329539,
+        "word": "樊振东巴黎奥运夺金一周年",
+        "onboard_time": 1754289803,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805639,
+        "num": 328673,
+        "word": "以后萝卜岗就标出来吧",
+        "onboard_time": 1754286921,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 773889,
+        "num": 328053,
+        "word": "赵露思直播同款被卖断货",
+        "onboard_time": 1754279843,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327671,
+        "num": 327671,
+        "word": "韩国汉江出现不明生物吓跑钓鱼男子",
+        "onboard_time": 1754280444,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307761,
+        "num": 307761,
+        "word": "赵丽颖金蛇单肩裙",
+        "onboard_time": 1754288603,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288061,
+        "num": 288061,
+        "word": "北京这7区市民非必要不外出",
+        "onboard_time": 1754286921,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265556,
+        "num": 265556,
+        "word": "韩国演员宋英奎去世",
+        "onboard_time": 1754276662,
+        "rank": 17,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 191955,
+        "num": 191955,
+        "word": "李登科否认娜扎分手",
+        "onboard_time": 1754282306,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32093,
+        "num": 191904,
+        "word": "记者暗访调查养生馆骗局",
+        "onboard_time": 1754289082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749929,
+        "num": 191286,
+        "word": "学费44万的大学录取通知书长什么样",
+        "onboard_time": 1754282365,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 327691,
+        "num": 190949,
+        "word": "鸡蛋存放多久就不能吃了",
+        "onboard_time": 1754286083,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259126,
+        "num": 190515,
+        "word": "6岁男童小区内被犬只撕咬下体",
+        "onboard_time": 1754284523,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190466,
+        "num": 190466,
+        "word": "14岁女孩遭殴打两人被送学校矫正",
+        "onboard_time": 1754271980,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186584,
+        "num": 186584,
+        "word": "男子在景区坠崖身亡目击者发声",
+        "onboard_time": 1754277022,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172907,
+        "num": 172907,
+        "word": "导演说迪丽热巴付出牺牲特别大",
+        "onboard_time": 1754280204,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165968,
+        "num": 165968,
+        "word": "十个勤天",
+        "onboard_time": 1754286562,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 165259,
+        "word": "查尔莫斯取关潘展乐",
+        "onboard_time": 1754281705,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20511,
+        "num": 164238,
+        "word": "心动的信号破冰全靠这瓶茉莉",
+        "onboard_time": 1754289803,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50986,
+        "num": 163879,
+        "word": "合肥一永辉超市蛋挞上现活蟑螂",
+        "onboard_time": 1754289082,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163797,
+        "num": 163797,
+        "word": "唐国强不知道假唱也要举话筒",
+        "onboard_time": 1754281584,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155413,
+        "num": 155413,
+        "word": "工作每延长1小时患疾病风险越高",
+        "onboard_time": 1754288721,
+        "rank": 31,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 154846,
+        "num": 154846,
+        "word": "张新成上海首唱会秒售罄",
+        "onboard_time": 1754289504,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150736,
+        "num": 150736,
+        "word": "北京女子去世无子女亲戚起诉分遗产",
+        "onboard_time": 1754289623,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148486,
+        "num": 148486,
+        "word": "刘宇宁是真害怕了",
+        "onboard_time": 1754288183,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147571,
+        "num": 147571,
+        "word": "官方回应丁程鑫张真源人才引进",
+        "onboard_time": 1754289803,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146142,
+        "num": 146142,
+        "word": "泰国僧侣性丑闻",
+        "onboard_time": 1754280444,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133556,
+        "num": 133556,
+        "word": "亲生和亲自生的区别",
+        "onboard_time": 1754278643,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126191,
+        "num": 126191,
+        "word": "北京一检察长一审被判死缓",
+        "onboard_time": 1754288843,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92499,
+        "num": 125516,
+        "word": "丁程鑫张真源拟北京人才引进",
+        "onboard_time": 1754289623,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125437,
+        "num": 125437,
+        "word": "黄奕带女儿赴韩国学习唱跳",
+        "onboard_time": 1754273901,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122300,
+        "num": 122300,
+        "word": "减肥一个月成功减掉了30天",
+        "onboard_time": 1754288603,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117893,
+        "num": 117893,
+        "word": "毛不易私下向李雪琴打听李诞八卦",
+        "onboard_time": 1754289981,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110462,
+        "num": 110462,
+        "word": "哪吒捕妖队 2.5亿人",
+        "onboard_time": 1754282365,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110146,
+        "num": 110146,
+        "word": "小猫喝水姿势撞脸文物",
+        "onboard_time": 1754289803,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110027,
+        "num": 110027,
+        "word": "3天后就立秋了",
+        "onboard_time": 1754268562,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109300,
+        "num": 109300,
+        "word": "山海奇都皮肤",
+        "onboard_time": 1754289561,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107869,
+        "num": 107869,
+        "word": "黄奕女儿韩国体验练习生",
+        "onboard_time": 1754272402,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105538,
+        "num": 105538,
+        "word": "NCT127官娃",
+        "onboard_time": 1754289742,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105300,
+        "num": 105300,
+        "word": "心动的信号",
+        "onboard_time": 1754279244,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#广泛深入察民情听民声汇民智#"
+    }
+  }
+}

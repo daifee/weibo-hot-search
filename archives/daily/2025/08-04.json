@@ -1,6 +1,6 @@
 {
   "startTime": 1754238805927,
-  "endTime": 1754287161009,
+  "endTime": 1754290167908,
   "band_list": [
     {
       "raw_hot": 2968164,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 805639,
+      "num": 328673,
+      "word": "以后萝卜岗就标出来吧",
+      "onboard_time": 1754286921,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 805546,
       "num": 805546,
       "word": "男子与富婆离婚嫌分的钱少起诉获胜",
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562459,
+      "num": 562459,
+      "word": "内裤袜子混洗把脚气真菌传到面部",
+      "onboard_time": 1754280084,
+      "rank": 21,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 561691,
       "num": 548325,
       "word": "24岁女生回应神似大S走红",
@@ -203,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 517443,
-      "num": 517443,
-      "word": "内裤袜子混洗把脚气真菌传到面部",
-      "onboard_time": 1754280084,
-      "rank": 21,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 510146,
+      "num": 510146,
+      "word": "张本智和炮轰日本联赛",
+      "onboard_time": 1754287701,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 505719,
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435633,
+      "num": 435633,
+      "word": "网传金九女王迪丽热巴",
+      "onboard_time": 1754288961,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423543,
       "num": 423543,
       "word": "韩国汉江出现不明生物吓跑钓鱼男子",
@@ -273,6 +297,14 @@
       "onboard_time": 1754268863,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362109,
+      "num": 362109,
+      "word": "王一博首支香奈儿广告大片",
+      "onboard_time": 1754283984,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 357343,
@@ -323,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337211,
-      "num": 231105,
-      "word": "王一博首支香奈儿广告大片",
-      "onboard_time": 1754283984,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 336868,
       "num": 336868,
       "word": "丹东一游客坐栏杆不慎后仰坠崖身亡",
@@ -347,6 +371,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331860,
+      "num": 331860,
+      "word": "赵露思说现在是崩溃后的平静",
+      "onboard_time": 1754286921,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327691,
+      "num": 190949,
+      "word": "鸡蛋存放多久就不能吃了",
+      "onboard_time": 1754286083,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326998,
       "num": 326998,
       "word": "泰国僧侣性丑闻",
@@ -361,6 +401,14 @@
       "onboard_time": 1754233106,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 307761,
+      "num": 307761,
+      "word": "赵丽颖金蛇单肩裙",
+      "onboard_time": 1754288603,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 307322,
@@ -384,6 +432,14 @@
       "word": "央视曝光水光针美丽陷阱",
       "onboard_time": 1754233286,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288061,
+      "num": 288061,
+      "word": "北京这7区市民非必要不外出",
+      "onboard_time": 1754286921,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -419,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259126,
+      "num": 193637,
+      "word": "6岁男童小区内被犬只撕咬下体",
+      "onboard_time": 1754284523,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258429,
       "num": 258429,
       "word": "恋与深空",
@@ -432,14 +496,6 @@
       "word": "朱志鑫问为什么洗面奶不起泡沫",
       "onboard_time": 1754270842,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 253738,
-      "num": 205951,
-      "word": "赵露思说现在是崩溃后的平静",
-      "onboard_time": 1754286921,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -496,14 +552,6 @@
       "word": "男子花87万办了300年的健身卡",
       "onboard_time": 1754235325,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230838,
-      "num": 193637,
-      "word": "6岁男童小区内被犬只撕咬下体",
-      "onboard_time": 1754284523,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -771,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165968,
+      "num": 165968,
+      "word": "十个勤天",
+      "onboard_time": 1754286562,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164348,
       "num": 164348,
       "word": "A股",
@@ -811,14 +867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159653,
-      "num": 159653,
-      "word": "鸡蛋存放多久就不能吃了",
-      "onboard_time": 1754286083,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156151,
       "num": 156151,
       "word": "美国低收入家庭的晚餐",
@@ -827,12 +875,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 155417,
-      "num": 155417,
-      "word": "十个勤天",
-      "onboard_time": 1754286562,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 155413,
+      "num": 155413,
+      "word": "工作每延长1小时患疾病风险越高",
+      "onboard_time": 1754288721,
+      "rank": 31,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 154846,
+      "num": 154846,
+      "word": "张新成上海首唱会秒售罄",
+      "onboard_time": 1754289504,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 151198,
@@ -843,12 +899,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150736,
+      "num": 150736,
+      "word": "北京女子去世无子女亲戚起诉分遗产",
+      "onboard_time": 1754289623,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150199,
       "num": 150199,
       "word": "立秋后可以多吃的水果",
       "onboard_time": 1754280625,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 148486,
+      "num": 148486,
+      "word": "刘宇宁是真害怕了",
+      "onboard_time": 1754288183,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147571,
+      "num": 147571,
+      "word": "官方回应丁程鑫张真源人才引进",
+      "onboard_time": 1754289803,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 146686,
@@ -931,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132576,
-      "num": 132576,
-      "word": "以后萝卜岗就标出来吧",
-      "onboard_time": 1754286921,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130738,
       "num": 130738,
       "word": "台风白鹿已生成",
@@ -961,6 +1033,14 @@
       "onboard_time": 1754282665,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126191,
+      "num": 126191,
+      "word": "北京一检察长一审被判死缓",
+      "onboard_time": 1754288843,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125614,
@@ -1001,6 +1081,14 @@
       "onboard_time": 1754272043,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 122300,
+      "num": 122300,
+      "word": "减肥一个月成功减掉了30天",
+      "onboard_time": 1754288603,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 121061,
@@ -1083,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117893,
+      "num": 117893,
+      "word": "毛不易私下向李雪琴打听李诞八卦",
+      "onboard_time": 1754289981,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117246,
       "num": 117246,
       "word": "刺杀小说家2",
@@ -1131,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110146,
+      "num": 110146,
+      "word": "小猫喝水姿势撞脸文物",
+      "onboard_time": 1754289803,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110030,
       "num": 194050,
       "word": "灵隐寺的辣椒酱超辣有人想代购",
@@ -1155,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109300,
+      "num": 109300,
+      "word": "山海奇都皮肤",
+      "onboard_time": 1754289561,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108697,
       "num": 108697,
       "word": "银川地震",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1754268262,
       "rank": 45,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 105538,
+      "num": 105538,
+      "word": "NCT127官娃",
+      "onboard_time": 1754289742,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105369,
@@ -1209,14 +1329,6 @@
       "onboard_time": 1754205685,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101988,
-      "num": 189307,
-      "word": "北京这7区市民非必要不外出",
-      "onboard_time": 1754286921,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100998,
@@ -1283,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93080,
+      "num": 331435,
+      "word": "本周立秋南京高温不减",
+      "onboard_time": 1754288782,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92889,
       "num": 92889,
       "word": "凡人修仙传",
@@ -1305,6 +1425,14 @@
       "onboard_time": 1754228784,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92499,
+      "num": 125516,
+      "word": "丁程鑫张真源拟北京人才引进",
+      "onboard_time": 1754289623,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 92138,
@@ -1443,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66315,
+      "num": 329539,
+      "word": "樊振东巴黎奥运夺金一周年",
+      "onboard_time": 1754289803,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62775,
       "num": 62775,
       "word": "赵露思工作室运营权",
@@ -1507,6 +1643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50986,
+      "num": 163879,
+      "word": "合肥一永辉超市蛋挞上现活蟑螂",
+      "onboard_time": 1754289082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50889,
       "num": 50889,
       "word": "浪浪山小妖怪",
@@ -1555,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32093,
+      "num": 191904,
+      "word": "记者暗访调查养生馆骗局",
+      "onboard_time": 1754289082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27476,
       "num": 30488,
       "word": "晚晚为什么站在框里",
@@ -1593,6 +1745,14 @@
       "onboard_time": 1754248995,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20511,
+      "num": 164238,
+      "word": "心动的信号破冰全靠这瓶茉莉",
+      "onboard_time": 1754289803,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 19001,

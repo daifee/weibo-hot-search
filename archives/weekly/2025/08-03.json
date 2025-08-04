@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754287161009,
+  "endTime": 1754290167908,
   "band_list": [
     {
       "raw_hot": 11207560,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805639,
+      "num": 328673,
+      "word": "以后萝卜岗就标出来吧",
+      "onboard_time": 1754286921,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 805546,
       "num": 805546,
       "word": "男子与富婆离婚嫌分的钱少起诉获胜",
@@ -635,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 562459,
+      "num": 562459,
+      "word": "内裤袜子混洗把脚气真菌传到面部",
+      "onboard_time": 1754280084,
+      "rank": 21,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 562096,
       "num": 562096,
       "word": "灵隐寺的辣椒 出家人不打诳语",
@@ -715,20 +731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 517443,
-      "num": 517443,
-      "word": "内裤袜子混洗把脚气真菌传到面部",
-      "onboard_time": 1754280084,
-      "rank": 21,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 516102,
       "num": 434976,
       "word": "歌手帮唱",
       "onboard_time": 1754231306,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510146,
+      "num": 510146,
+      "word": "张本智和炮轰日本联赛",
+      "onboard_time": 1754287701,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 505719,
@@ -849,6 +865,14 @@
       "onboard_time": 1754196984,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435633,
+      "num": 435633,
+      "word": "网传金九女王迪丽热巴",
+      "onboard_time": 1754288961,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 432635,
@@ -995,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362109,
+      "num": 362109,
+      "word": "王一博首支香奈儿广告大片",
+      "onboard_time": 1754283984,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 359767,
       "num": 332557,
       "word": "日本反华的根源",
@@ -1091,20 +1123,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337211,
-      "num": 231105,
-      "word": "王一博首支香奈儿广告大片",
-      "onboard_time": 1754283984,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 333420,
       "num": 249084,
       "word": "老谢谈赵露思银河酷娱纠纷",
       "onboard_time": 1754269521,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331860,
+      "num": 331860,
+      "word": "赵露思说现在是崩溃后的平静",
+      "onboard_time": 1754286921,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327691,
+      "num": 190949,
+      "word": "鸡蛋存放多久就不能吃了",
+      "onboard_time": 1754286083,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326998,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1754216303,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307761,
+      "num": 307761,
+      "word": "赵丽颖金蛇单肩裙",
+      "onboard_time": 1754288603,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 307745,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1754214203,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288061,
+      "num": 288061,
+      "word": "北京这7区市民非必要不外出",
+      "onboard_time": 1754286921,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287381,
@@ -1379,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 259126,
+      "num": 193637,
+      "word": "6岁男童小区内被犬只撕咬下体",
+      "onboard_time": 1754284523,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258429,
       "num": 258429,
       "word": "恋与深空",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1754217443,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253738,
-      "num": 205951,
-      "word": "赵露思说现在是崩溃后的平静",
-      "onboard_time": 1754286921,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 253026,
@@ -1512,14 +1568,6 @@
       "word": "男子花87万办了300年的健身卡",
       "onboard_time": 1754235325,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230838,
-      "num": 193637,
-      "word": "6岁男童小区内被犬只撕咬下体",
-      "onboard_time": 1754284523,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2379,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165968,
+      "num": 165968,
+      "word": "十个勤天",
+      "onboard_time": 1754286562,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165824,
       "num": 248940,
       "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
@@ -2483,14 +2539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159653,
-      "num": 159653,
-      "word": "鸡蛋存放多久就不能吃了",
-      "onboard_time": 1754286083,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159435,
       "num": 159435,
       "word": "黄子韬带新人rapper上hi6舞台了",
@@ -2547,12 +2595,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 155417,
-      "num": 155417,
-      "word": "十个勤天",
-      "onboard_time": 1754286562,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 155413,
+      "num": 155413,
+      "word": "工作每延长1小时患疾病风险越高",
+      "onboard_time": 1754288721,
+      "rank": 31,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 155056,
@@ -2577,6 +2625,14 @@
       "onboard_time": 1754212764,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154846,
+      "num": 154846,
+      "word": "张新成上海首唱会秒售罄",
+      "onboard_time": 1754289504,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 154107,
@@ -2643,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150736,
+      "num": 150736,
+      "word": "北京女子去世无子女亲戚起诉分遗产",
+      "onboard_time": 1754289623,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150262,
       "num": 207946,
       "word": "越剧演员表演时苍蝇在脸上乱爬",
@@ -2699,12 +2763,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148486,
+      "num": 148486,
+      "word": "刘宇宁是真害怕了",
+      "onboard_time": 1754288183,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147754,
       "num": 147754,
       "word": "成毅演唱天涯别有一番韵味",
       "onboard_time": 1754227825,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147571,
+      "num": 147571,
+      "word": "官方回应丁程鑫张真源人才引进",
+      "onboard_time": 1754289803,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 146686,
@@ -3131,14 +3211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132576,
-      "num": 132576,
-      "word": "以后萝卜岗就标出来吧",
-      "onboard_time": 1754286921,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131796,
       "num": 125559,
       "word": "黄子弘凡回应和黄鼠狼打架",
@@ -3355,6 +3427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126191,
+      "num": 126191,
+      "word": "北京一检察长一审被判死缓",
+      "onboard_time": 1754288843,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "赵露思说知道仅在社交平台发声无用",
@@ -3441,6 +3521,14 @@
       "onboard_time": 1754197643,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122300,
+      "num": 122300,
+      "word": "减肥一个月成功减掉了30天",
+      "onboard_time": 1754288603,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 121965,
@@ -3609,6 +3697,14 @@
       "onboard_time": 1754281105,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117893,
+      "num": 117893,
+      "word": "毛不易私下向李雪琴打听李诞八卦",
+      "onboard_time": 1754289981,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 116659,
@@ -3795,6 +3891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110146,
+      "num": 110146,
+      "word": "小猫喝水姿势撞脸文物",
+      "onboard_time": 1754289803,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110092,
       "num": 110092,
       "word": "龚俊粉丝真的吃很好",
@@ -3835,6 +3939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109300,
+      "num": 109300,
+      "word": "山海奇都皮肤",
+      "onboard_time": 1754289561,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108864,
       "num": 108864,
       "word": "母子五人在英国被安置在集装箱",
@@ -3873,6 +3985,14 @@
       "onboard_time": 1754218763,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105538,
+      "num": 105538,
+      "word": "NCT127官娃",
+      "onboard_time": 1754289742,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105369,
@@ -3960,14 +4080,6 @@
       "word": "扮演藏獒拉布拉多疑被拔牙",
       "onboard_time": 1754148868,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101988,
-      "num": 189307,
-      "word": "北京这7区市民非必要不外出",
-      "onboard_time": 1754286921,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -4171,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93080,
+      "num": 331435,
+      "word": "本周立秋南京高温不减",
+      "onboard_time": 1754288782,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93075,
       "num": 186825,
       "word": "企业无资质却敢开飞机带人上天",
@@ -4209,6 +4329,14 @@
       "onboard_time": 1754216183,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92499,
+      "num": 125516,
+      "word": "丁程鑫张真源拟北京人才引进",
+      "onboard_time": 1754289623,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 92138,
@@ -4611,6 +4739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66315,
+      "num": 329539,
+      "word": "樊振东巴黎奥运夺金一周年",
+      "onboard_time": 1754289803,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63634,
       "num": 175127,
       "word": "小时候自以为是大圣长大后却发现",
@@ -4827,6 +4963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50986,
+      "num": 163879,
+      "word": "合肥一永辉超市蛋挞上现活蟑螂",
+      "onboard_time": 1754289082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50889,
       "num": 50889,
       "word": "浪浪山小妖怪",
@@ -4923,6 +5067,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 32093,
+      "num": 191904,
+      "word": "记者暗访调查养生馆骗局",
+      "onboard_time": 1754289082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30030,
       "num": 47747,
       "word": "严浩翔Rapeter把我帅没招了",
@@ -5009,6 +5161,14 @@
       "onboard_time": 1754248995,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20511,
+      "num": 164238,
+      "word": "心动的信号破冰全靠这瓶茉莉",
+      "onboard_time": 1754289803,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 19001,
