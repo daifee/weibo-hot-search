@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754398807710,
+  "endTime": 1754399737251,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -545,6 +545,14 @@
       "onboard_time": 1754027902,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1499100,
+      "num": 1499100,
+      "word": "香港警方冒暴雨寻无头尸头颅",
+      "onboard_time": 1754397862,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1438775,
@@ -1561,14 +1569,6 @@
       "onboard_time": 1754032584,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 713691,
-      "num": 713691,
-      "word": "香港警方冒暴雨寻无头尸头颅",
-      "onboard_time": 1754397862,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 709915,
@@ -2851,6 +2851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 440455,
+      "num": 440455,
+      "word": "再见爱人5嘉宾",
+      "onboard_time": 1754396182,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440445,
       "num": 440445,
       "word": "恋人24集变更为14集",
@@ -2953,6 +2961,14 @@
       "onboard_time": 1754055385,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421496,
+      "num": 295563,
+      "word": "热巴状态",
+      "onboard_time": 1754393302,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 420684,
@@ -3128,14 +3144,6 @@
       "word": "酷似大S走红女生删除视频",
       "onboard_time": 1754368284,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 390893,
-      "num": 295563,
-      "word": "热巴状态",
-      "onboard_time": 1754393302,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -3425,14 +3433,6 @@
       "onboard_time": 1754020941,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352389,
-      "num": 352389,
-      "word": "再见爱人5嘉宾",
-      "onboard_time": 1754396182,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 348824,
@@ -3867,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309778,
+      "num": 309778,
+      "word": "南京地铁五号线全线贯通运营",
+      "onboard_time": 1754399003,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309229,
       "num": 309229,
       "word": "赵丽颖金蛇单肩裙",
@@ -4193,6 +4201,14 @@
       "onboard_time": 1754131882,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281907,
+      "num": 281907,
+      "word": "管乐小酒窝cha了美美桑内",
+      "onboard_time": 1754396123,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 279826,
@@ -4833,6 +4849,14 @@
       "onboard_time": 1754183662,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 242047,
+      "num": 242047,
+      "word": "3岁宝宝确认先天体操圣体",
+      "onboard_time": 1754398944,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241879,
@@ -5739,6 +5763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208639,
+      "num": 208639,
+      "word": "香港无头男尸头部已找到",
+      "onboard_time": 1754398883,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208373,
       "num": 208373,
       "word": "金晨终于遇到最懂她的商务",
@@ -6041,14 +6073,6 @@
       "onboard_time": 1754046623,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202017,
-      "num": 274150,
-      "word": "管乐小酒窝cha了美美桑内",
-      "onboard_time": 1754396123,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 201922,
@@ -7091,6 +7115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182755,
+      "num": 232531,
+      "word": "利剑玫瑰",
+      "onboard_time": 1754230765,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182615,
       "num": 182615,
       "word": "王安宇的粉丝真的吃得很好",
@@ -7225,14 +7257,6 @@
       "onboard_time": 1754194286,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180362,
-      "num": 180362,
-      "word": "利剑玫瑰",
-      "onboard_time": 1754230765,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 180362,
@@ -9483,6 +9507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146373,
+      "num": 146373,
+      "word": "赵露思说官司忙得打不过来",
+      "onboard_time": 1754399243,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146272,
       "num": 146272,
       "word": "歌手选曲审美",
@@ -11355,6 +11387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126376,
+      "num": 217952,
+      "word": "孙艺珍说玄彬最辛苦了",
+      "onboard_time": 1754394444,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126246,
       "num": 126246,
       "word": "余嘉豪加盟西甲联赛",
@@ -11891,6 +11931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120768,
+      "num": 120768,
+      "word": "谁懂迪丽热巴这段的层次感",
+      "onboard_time": 1754399605,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120734,
       "num": 1360265,
       "word": "还有5天就立秋了",
@@ -12392,6 +12440,14 @@
       "word": "张新成当年的承诺兑现了",
       "onboard_time": 1754315005,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115603,
+      "num": 115603,
+      "word": "周也头像",
+      "onboard_time": 1754398522,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -14043,14 +14099,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 94899,
-      "num": 94899,
-      "word": "周也头像",
-      "onboard_time": 1754398522,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94833,
       "num": 189379,
       "word": "笙笙拍的于文文",
@@ -14723,6 +14771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82512,
+      "num": 342666,
+      "word": "10.15亿元支持受灾地恢复农业生产",
+      "onboard_time": 1754398163,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82479,
       "num": 82479,
       "word": "陈凯文rap",
@@ -14955,14 +15011,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 75368,
-      "num": 342666,
-      "word": "10.15亿元支持受灾地恢复农业生产",
-      "onboard_time": 1754398163,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75275,
       "num": 75275,
       "word": "白桦树汁凭啥身价暴涨",
@@ -15043,6 +15091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72926,
+      "num": 98251,
+      "word": "中国男篮首战迎战沙特",
+      "onboard_time": 1754398763,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72076,
       "num": 120737,
       "word": "在佛山买这47种药须实名登记",
@@ -15081,14 +15137,6 @@
       "onboard_time": 1754384544,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71378,
-      "num": 85616,
-      "word": "中国男篮首战迎战沙特",
-      "onboard_time": 1754398763,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 71095,
@@ -15627,6 +15675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56136,
+      "num": 250576,
+      "word": "警方正追踪8年未上班疑失联镇干部",
+      "onboard_time": 1754398883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55595,
       "num": 176321,
       "word": "莫迪称印度将成为世界第三大经济体",
@@ -15737,6 +15793,14 @@
       "onboard_time": 1754224345,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52756,
+      "num": 231792,
+      "word": "这辆特殊的网约车少一个座",
+      "onboard_time": 1754397442,
+      "rank": 24,
+      "category": "正能量"
     },
     {
       "raw_hot": 52718,
@@ -16009,6 +16073,14 @@
       "onboard_time": 1754047882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44259,
+      "num": 254718,
+      "word": "MG4破解特斯拉专利花5亿",
+      "onboard_time": 1754399063,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 43269,
@@ -16467,6 +16539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29071,
+      "num": 217669,
+      "word": "7旬轮椅老人买不到高铁残疾人座",
+      "onboard_time": 1754399482,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28903,
       "num": 51167,
       "word": "勒克莱尔夺F1匈牙利站杆位",
@@ -16835,6 +16915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15404,
+      "num": 137371,
+      "word": "赵露思甜品店曾被吐槽贵",
+      "onboard_time": 1754399063,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15251,
       "num": 45358,
       "word": "德约科维奇纪念金满贯一周年",
@@ -16915,6 +17003,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 9045,
+      "num": 490044,
+      "word": "丝路万里画卷",
+      "onboard_time": 1754399482,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8098,
       "num": 723424,
       "word": "无人机蜂群与机器狼协同作战演习",
@@ -16939,7 +17035,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2562,
+      "raw_hot": 4120,
       "num": 1073164,
       "word": "中国军人高燃大片根本看不够",
       "onboard_time": 1754341154,

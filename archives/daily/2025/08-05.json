@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754398807710,
+  "endTime": 1754399737251,
   "band_list": [
     {
       "raw_hot": 3827156,
@@ -97,6 +97,14 @@
       "onboard_time": 1754379682,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1499100,
+      "num": 1499100,
+      "word": "香港警方冒暴雨寻无头尸头颅",
+      "onboard_time": 1754397862,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1401019,
@@ -304,14 +312,6 @@
       "word": "男子背80斤蜜雪冰城上山卖15元",
       "onboard_time": 1754370503,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 713691,
-      "num": 713691,
-      "word": "香港警方冒暴雨寻无头尸头颅",
-      "onboard_time": 1754397862,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -619,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 440455,
+      "num": 440455,
+      "word": "再见爱人5嘉宾",
+      "onboard_time": 1754396182,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431834,
       "num": 431834,
       "word": "上海一小区要求外卖员坐摆渡车进",
@@ -641,6 +649,14 @@
       "onboard_time": 1754367685,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421496,
+      "num": 295563,
+      "word": "热巴状态",
+      "onboard_time": 1754393302,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 406770,
@@ -683,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390893,
-      "num": 295563,
-      "word": "热巴状态",
-      "onboard_time": 1754393302,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386028,
       "num": 386028,
       "word": "河南周口已成立调查组",
@@ -729,14 +737,6 @@
       "onboard_time": 1754363783,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352389,
-      "num": 352389,
-      "word": "再见爱人5嘉宾",
-      "onboard_time": 1754396182,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 347350,
@@ -785,6 +785,14 @@
       "onboard_time": 1754378062,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309778,
+      "num": 309778,
+      "word": "南京地铁五号线全线贯通运营",
+      "onboard_time": 1754399003,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301716,
@@ -840,6 +848,14 @@
       "word": "王一博28岁是一个刚刚好的年纪",
       "onboard_time": 1754325560,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281907,
+      "num": 281907,
+      "word": "管乐小酒窝cha了美美桑内",
+      "onboard_time": 1754396123,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -945,6 +961,14 @@
       "onboard_time": 1754367204,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242047,
+      "num": 242047,
+      "word": "3岁宝宝确认先天体操圣体",
+      "onboard_time": 1754398944,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238307,
@@ -1067,6 +1091,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 208639,
+      "num": 208639,
+      "word": "香港无头男尸头部已找到",
+      "onboard_time": 1754398883,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208117,
       "num": 208117,
       "word": "坠楼医生最后愿望是替自己正名",
@@ -1096,14 +1128,6 @@
       "word": "网友帮芒果男艺人联系柴鸡蛋",
       "onboard_time": 1754365764,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 202017,
-      "num": 274150,
-      "word": "管乐小酒窝cha了美美桑内",
-      "onboard_time": 1754396123,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1307,6 +1331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182755,
+      "num": 232531,
+      "word": "利剑玫瑰",
+      "onboard_time": 1754396603,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182024,
       "num": 182024,
       "word": "云合",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1754372963,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180362,
-      "num": 180362,
-      "word": "利剑玫瑰",
-      "onboard_time": 1754396603,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 180203,
@@ -1739,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146373,
+      "num": 146373,
+      "word": "赵露思说官司忙得打不过来",
+      "onboard_time": 1754399243,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146220,
       "num": 146220,
       "word": "王一博生日登泰趋第一",
@@ -1979,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126376,
+      "num": 217952,
+      "word": "孙艺珍说玄彬最辛苦了",
+      "onboard_time": 1754394444,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126125,
       "num": 126125,
       "word": "苏新皓7月网盘更新",
@@ -2067,6 +2107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120768,
+      "num": 120768,
+      "word": "谁懂迪丽热巴这段的层次感",
+      "onboard_time": 1754399605,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120503,
       "num": 120503,
       "word": "薛之谦这是啥意思",
@@ -2152,6 +2200,14 @@
       "word": "管乐小酒窝合影",
       "onboard_time": 1754397983,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115603,
+      "num": 115603,
+      "word": "周也头像",
+      "onboard_time": 1754398522,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -2555,14 +2611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94899,
-      "num": 94899,
-      "word": "周也头像",
-      "onboard_time": 1754398522,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94438,
       "num": 100348,
       "word": "以为正确其实错误的晒衣方式",
@@ -2755,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82512,
+      "num": 342666,
+      "word": "10.15亿元支持受灾地恢复农业生产",
+      "onboard_time": 1754398163,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82433,
       "num": 120970,
       "word": "县委书记2230万强行上马旅游项目被通报",
@@ -2835,14 +2891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75368,
-      "num": 342666,
-      "word": "10.15亿元支持受灾地恢复农业生产",
-      "onboard_time": 1754398163,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75097,
       "num": 119583,
       "word": "复旦MBA回应迅猛龙入读复旦",
@@ -2865,6 +2913,14 @@
       "onboard_time": 1754355922,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72926,
+      "num": 98251,
+      "word": "中国男篮首战迎战沙特",
+      "onboard_time": 1754398763,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72312,
@@ -2897,14 +2953,6 @@
       "onboard_time": 1754384544,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71378,
-      "num": 85616,
-      "word": "中国男篮首战迎战沙特",
-      "onboard_time": 1754398763,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 69825,
@@ -3059,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56136,
+      "num": 250576,
+      "word": "警方正追踪8年未上班疑失联镇干部",
+      "onboard_time": 1754398883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54842,
       "num": 120567,
       "word": "11人挤爆核载2人车交警都懵了",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1754349139,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52756,
+      "num": 231792,
+      "word": "这辆特殊的网约车少一个座",
+      "onboard_time": 1754397442,
+      "rank": 24,
+      "category": "正能量"
     },
     {
       "raw_hot": 52718,
@@ -3177,6 +3241,14 @@
       "onboard_time": 1754372842,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44259,
+      "num": 254718,
+      "word": "MG4破解特斯拉专利花5亿",
+      "onboard_time": 1754399063,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 43269,
@@ -3291,6 +3363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29071,
+      "num": 217669,
+      "word": "7旬轮椅老人买不到高铁残疾人座",
+      "onboard_time": 1754399482,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28268,
       "num": 1502662,
       "word": "大河奔涌万象新",
@@ -3363,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15404,
+      "num": 137371,
+      "word": "赵露思甜品店曾被吐槽贵",
+      "onboard_time": 1754399063,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15251,
       "num": 45358,
       "word": "德约科维奇纪念金满贯一周年",
@@ -3387,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9045,
+      "num": 490044,
+      "word": "丝路万里画卷",
+      "onboard_time": 1754399482,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5389,
       "num": 1159186,
       "word": "运20超燃重装空投画面",
@@ -3395,7 +3491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2562,
+      "raw_hot": 4120,
       "num": 1073164,
       "word": "中国军人高燃大片根本看不够",
       "onboard_time": 1754341154,
