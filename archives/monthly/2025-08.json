@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754393170024,
+  "endTime": 1754394137934,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2075,20 +2075,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573244,
+      "num": 350151,
+      "word": "李心艾产女",
+      "onboard_time": 1754391564,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572721,
       "num": 351234,
       "word": "恋人剧组解散该谁赔钱",
       "onboard_time": 1754203044,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 569503,
-      "num": 219212,
-      "word": "李心艾产女",
-      "onboard_time": 1754391564,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 569459,
@@ -2491,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488527,
+      "num": 488527,
+      "word": "再见爱人5",
+      "onboard_time": 1754390484,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488115,
       "num": 488115,
       "word": "以色列爆发全国性抗议",
@@ -2651,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471378,
+      "num": 471378,
+      "word": "男子卖4根金条6张银行卡被封",
+      "onboard_time": 1754391983,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470522,
       "num": 412697,
       "word": "娃哈哈遗产争夺首战宗馥莉被判输",
@@ -2673,14 +2689,6 @@
       "onboard_time": 1754031501,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 463415,
-      "num": 463415,
-      "word": "再见爱人5",
-      "onboard_time": 1754390484,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 463279,
@@ -4067,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287437,
+      "num": 403429,
+      "word": "韩国全民放10天高温假",
+      "onboard_time": 1754392823,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 287381,
       "num": 287381,
       "word": "刘宇宁终于直播成功了",
@@ -4545,14 +4561,6 @@
       "onboard_time": 1754366305,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254648,
-      "num": 254648,
-      "word": "男子卖4根金条6张银行卡被封",
-      "onboard_time": 1754391983,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254232,
@@ -6187,14 +6195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197764,
-      "num": 153791,
-      "word": "韩国全民放10天高温假",
-      "onboard_time": 1754392823,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 197690,
       "num": 232346,
       "word": "Shanks AL也回来了",
@@ -6393,6 +6393,14 @@
       "onboard_time": 1753964302,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194291,
+      "num": 194291,
+      "word": "吴磊好大一只",
+      "onboard_time": 1754393182,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 194287,
@@ -8235,6 +8243,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162206,
+      "num": 162206,
+      "word": "28岁女子口臭5年查出胃癌前病变",
+      "onboard_time": 1754393604,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162183,
+      "num": 162183,
+      "word": "谢兴阳买房",
+      "onboard_time": 1754390904,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162098,
       "num": 162098,
       "word": "能不能把迪丽热巴焊在正剧里",
@@ -8715,14 +8739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154741,
-      "num": 154741,
-      "word": "谢兴阳买房",
-      "onboard_time": 1754390904,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154251,
       "num": 154251,
       "word": "美国医生边手术边玩游戏致患者死亡",
@@ -8737,6 +8753,14 @@
       "onboard_time": 1754120423,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154180,
+      "num": 154180,
+      "word": "在微信状态养只懒羊羊",
+      "onboard_time": 1754392941,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 154107,
@@ -9313,6 +9337,14 @@
       "onboard_time": 1754014521,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147222,
+      "num": 147222,
+      "word": "孙红雷这集我在丁禹兮那看过",
+      "onboard_time": 1754393843,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 147219,
@@ -10595,6 +10627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133242,
+      "num": 133242,
+      "word": "热巴状态",
+      "onboard_time": 1754393302,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133132,
       "num": 133132,
       "word": "叶濛怀孕李靳屿升级当爸",
@@ -11489,14 +11529,6 @@
       "onboard_time": 1754151086,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123576,
-      "num": 123576,
-      "word": "在微信状态养只懒羊羊",
-      "onboard_time": 1754392941,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 123536,
@@ -13443,6 +13475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100415,
+      "num": 118062,
+      "word": "黄焖鸡卖不动了",
+      "onboard_time": 1754391983,
+      "rank": 41,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 100401,
       "num": 100401,
       "word": "德国愤怒小鸟纵火袭击铁路",
@@ -13619,6 +13659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97790,
+      "num": 385739,
+      "word": "今年立秋属于晚立秋",
+      "onboard_time": 1754391803,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97767,
       "num": 97767,
       "word": "男子单人10米跳台无缘金牌",
@@ -13753,6 +13801,14 @@
       "onboard_time": 1754013263,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96661,
+      "num": 100395,
+      "word": "郑思维黄雅琼拆队放狠话",
+      "onboard_time": 1754391083,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 96516,
@@ -13897,6 +13953,22 @@
       "onboard_time": 1754211085,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 94438,
+      "num": 100348,
+      "word": "以为正确其实错误的晒衣方式",
+      "onboard_time": 1754393543,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 94297,
+      "num": 100293,
+      "word": "张予曦替叶濛打了最后一通电话",
+      "onboard_time": 1754393302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94119,
@@ -14177,14 +14249,6 @@
       "onboard_time": 1754359581,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89889,
-      "num": 118062,
-      "word": "黄焖鸡卖不动了",
-      "onboard_time": 1754391983,
-      "rank": 41,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 89464,
@@ -14633,14 +14697,6 @@
       "onboard_time": 1754212764,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 78864,
-      "num": 125544,
-      "word": "今年立秋属于晚立秋",
-      "onboard_time": 1754391803,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78095,
@@ -16369,6 +16425,14 @@
       "onboard_time": 1754285482,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24019,
+      "num": 104761,
+      "word": "校庆捐款 千班万元",
+      "onboard_time": 1754393422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23706,

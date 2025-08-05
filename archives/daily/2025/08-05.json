@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754393170024,
+  "endTime": 1754394137934,
   "band_list": [
     {
       "raw_hot": 3827156,
@@ -427,8 +427,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 569503,
-      "num": 219212,
+      "raw_hot": 573244,
+      "num": 350151,
       "word": "李心艾产女",
       "onboard_time": 1754391564,
       "rank": 13,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488527,
+      "num": 488527,
+      "word": "再见爱人5",
+      "onboard_time": 1754390484,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483710,
       "num": 342431,
       "word": "曹格 其实我还没忘掉速玲",
@@ -531,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463415,
-      "num": 463415,
-      "word": "再见爱人5",
-      "onboard_time": 1754390484,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 471378,
+      "num": 471378,
+      "word": "男子卖4根金条6张银行卡被封",
+      "onboard_time": 1754391983,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458813,
@@ -763,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287437,
+      "num": 403429,
+      "word": "韩国全民放10天高温假",
+      "onboard_time": 1754392823,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 286577,
       "num": 144938,
       "word": "王一博28岁是一个刚刚好的年纪",
@@ -809,14 +825,6 @@
       "onboard_time": 1754366305,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254648,
-      "num": 254648,
-      "word": "男子卖4根金条6张银行卡被封",
-      "onboard_time": 1754391983,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254232,
@@ -1083,14 +1091,6 @@
       "category": "艺人,辟谣/通报"
     },
     {
-      "raw_hot": 197764,
-      "num": 153791,
-      "word": "韩国全民放10天高温假",
-      "onboard_time": 1754392823,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 196673,
       "num": 196673,
       "word": "张予曦毕雯珺收官发文",
@@ -1145,6 +1145,14 @@
       "onboard_time": 1754372182,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194291,
+      "num": 194291,
+      "word": "吴磊好大一只",
+      "onboard_time": 1754393182,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 194287,
@@ -1427,6 +1435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162206,
+      "num": 162206,
+      "word": "28岁女子口臭5年查出胃癌前病变",
+      "onboard_time": 1754393604,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162183,
+      "num": 162183,
+      "word": "谢兴阳买房",
+      "onboard_time": 1754390904,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161264,
       "num": 161264,
       "word": "丁禹兮Mac活动妆造",
@@ -1499,12 +1523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154741,
-      "num": 154741,
-      "word": "谢兴阳买房",
-      "onboard_time": 1754390904,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 154180,
+      "num": 154180,
+      "word": "在微信状态养只懒羊羊",
+      "onboard_time": 1754392941,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 153505,
@@ -1624,6 +1648,14 @@
       "word": "谢娜爸爸看倪萍评价没睡着觉",
       "onboard_time": 1754387123,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147222,
+      "num": 147222,
+      "word": "孙红雷这集我在丁禹兮那看过",
+      "onboard_time": 1754393843,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1779,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133242,
+      "num": 133242,
+      "word": "热巴状态",
+      "onboard_time": 1754393302,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132138,
       "num": 132138,
       "word": "肖战藏海传粤语版港味太正了",
@@ -1905,14 +1945,6 @@
       "onboard_time": 1754384183,
       "rank": 41,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 123576,
-      "num": 123576,
-      "word": "在微信状态养只懒羊羊",
-      "onboard_time": 1754392941,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 122778,
@@ -2291,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100415,
+      "num": 118062,
+      "word": "黄焖鸡卖不动了",
+      "onboard_time": 1754391983,
+      "rank": 41,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 100348,
       "num": 121276,
       "word": "人民日报专访浪浪山小妖怪主创",
@@ -2339,6 +2379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97790,
+      "num": 385739,
+      "word": "今年立秋属于晚立秋",
+      "onboard_time": 1754391803,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97706,
       "num": 97706,
       "word": "广州外卖小哥镜头下全是暖心瞬间",
@@ -2363,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96661,
+      "num": 100395,
+      "word": "郑思维黄雅琼拆队放狠话",
+      "onboard_time": 1754391083,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96516,
       "num": 96516,
       "word": "俄回应美部署核潜艇",
@@ -2385,6 +2441,22 @@
       "onboard_time": 1754316265,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94438,
+      "num": 100348,
+      "word": "以为正确其实错误的晒衣方式",
+      "onboard_time": 1754393543,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 94297,
+      "num": 100293,
+      "word": "张予曦替叶濛打了最后一通电话",
+      "onboard_time": 1754393302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 93834,
@@ -2441,14 +2513,6 @@
       "onboard_time": 1754359581,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89889,
-      "num": 118062,
-      "word": "黄焖鸡卖不动了",
-      "onboard_time": 1754391983,
-      "rank": 41,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 88531,
@@ -2561,14 +2625,6 @@
       "onboard_time": 1754348778,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78864,
-      "num": 125544,
-      "word": "今年立秋属于晚立秋",
-      "onboard_time": 1754391803,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77820,
@@ -3097,6 +3153,14 @@
       "onboard_time": 1754329397,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24019,
+      "num": 104761,
+      "word": "校庆捐款 千班万元",
+      "onboard_time": 1754393422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19272,

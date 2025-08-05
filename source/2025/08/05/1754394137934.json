@@ -1,0 +1,410 @@
+{
+  "runTime": 1754394137934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1030904,
+        "num": 1164944,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 0,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 522986,
+        "num": 522986,
+        "word": "时代少年团上海四场连开",
+        "onboard_time": 1754388924,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20914,
+        "num": 499357,
+        "word": "大河奔涌万象新",
+        "onboard_time": 1754383345,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498710,
+        "num": 498710,
+        "word": "社保新规9月1日起实施",
+        "onboard_time": 1754382084,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488527,
+        "num": 488527,
+        "word": "再见爱人5",
+        "onboard_time": 1754390484,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471378,
+        "num": 471378,
+        "word": "男子卖4根金条6张银行卡被封",
+        "onboard_time": 1754391983,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470006,
+        "num": 470006,
+        "word": "活佛转世不由达赖喇嘛个人说了算",
+        "onboard_time": 1754386704,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404759,
+        "num": 404759,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287437,
+        "num": 403429,
+        "word": "韩国全民放10天高温假",
+        "onboard_time": 1754392823,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97790,
+        "num": 385739,
+        "word": "今年立秋属于晚立秋",
+        "onboard_time": 1754391803,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2423781,
+        "num": 368402,
+        "word": "赵露思直播哭了",
+        "onboard_time": 1754389163,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781510,
+        "num": 357536,
+        "word": "FRED斐登 鞠婧祎",
+        "onboard_time": 1754389163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573244,
+        "num": 350151,
+        "word": "李心艾产女",
+        "onboard_time": 1754391564,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565176,
+        "num": 332119,
+        "word": "29岁确诊闭经",
+        "onboard_time": 1754387664,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 328074,
+        "num": 328074,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1799052,
+        "num": 315709,
+        "word": "赵露思爸爸前年确诊癌症",
+        "onboard_time": 1754389645,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295792,
+        "num": 295792,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271708,
+        "num": 271708,
+        "word": "我下班了不说了",
+        "onboard_time": 1754383286,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246411,
+        "num": 246411,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1754385863,
+        "rank": 18,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 211506,
+        "num": 211506,
+        "word": "BLG公布Beichuan诊断报告",
+        "onboard_time": 1754388384,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 658188,
+        "num": 208171,
+        "word": "尚九熙回应",
+        "onboard_time": 1754379682,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420474,
+        "num": 206911,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372659,
+        "num": 204196,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199802,
+        "num": 199802,
+        "word": "难怪小说女主能在房间里关一天",
+        "onboard_time": 1754382025,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194291,
+        "num": 194291,
+        "word": "吴磊好大一只",
+        "onboard_time": 1754393182,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177858,
+        "num": 177858,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1754379262,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162206,
+        "num": 162206,
+        "word": "28岁女子口臭5年查出胃癌前病变",
+        "onboard_time": 1754393604,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162183,
+        "num": 162183,
+        "word": "谢兴阳买房",
+        "onboard_time": 1754390904,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154180,
+        "num": 154180,
+        "word": "在微信状态养只懒羊羊",
+        "onboard_time": 1754392941,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149204,
+        "num": 149204,
+        "word": "德云社",
+        "onboard_time": 1754383044,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147222,
+        "num": 147222,
+        "word": "孙红雷这集我在丁禹兮那看过",
+        "onboard_time": 1754393843,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142231,
+        "num": 142231,
+        "word": "关晓彤出汗的腿像打了高光",
+        "onboard_time": 1754382805,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136208,
+        "num": 136208,
+        "word": "我的学信网以后不会再更新了",
+        "onboard_time": 1754384065,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133242,
+        "num": 133242,
+        "word": "热巴状态",
+        "onboard_time": 1754393302,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126905,
+        "num": 126905,
+        "word": "董璇 给另一半当妈",
+        "onboard_time": 1754384723,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119601,
+        "num": 119601,
+        "word": "歌手总决赛帮唱嘉宾线索",
+        "onboard_time": 1754378062,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112020,
+        "num": 112020,
+        "word": "龚俊被喷",
+        "onboard_time": 1754386823,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108894,
+        "num": 108894,
+        "word": "时代峰峻两眼一睁就是盖章",
+        "onboard_time": 1754387064,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106744,
+        "num": 106744,
+        "word": "张艺兴 还是要读书啊不然不识字",
+        "onboard_time": 1754385923,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24019,
+        "num": 104761,
+        "word": "校庆捐款 千班万元",
+        "onboard_time": 1754393422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103121,
+        "num": 103121,
+        "word": "建议大家有些外卖真的别点了",
+        "onboard_time": 1754376503,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102796,
+        "num": 102796,
+        "word": "一女被四男追有多刺激",
+        "onboard_time": 1754389704,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100415,
+        "num": 100415,
+        "word": "黄焖鸡卖不动了",
+        "onboard_time": 1754391983,
+        "rank": 42,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 96661,
+        "num": 100395,
+        "word": "郑思维黄雅琼拆队放狠话",
+        "onboard_time": 1754391083,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94438,
+        "num": 100348,
+        "word": "以为正确其实错误的晒衣方式",
+        "onboard_time": 1754393543,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94297,
+        "num": 100293,
+        "word": "张予曦替叶濛打了最后一通电话",
+        "onboard_time": 1754393302,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92822,
+        "num": 100268,
+        "word": "高会",
+        "onboard_time": 1754391623,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89182,
+        "num": 100223,
+        "word": "茅台酒新品或每瓶7000元",
+        "onboard_time": 1754392823,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 86892,
+        "num": 100164,
+        "word": "张予曦越说到后面越哽咽",
+        "onboard_time": 1754392703,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85780,
+        "num": 100148,
+        "word": "TOP 沈阳",
+        "onboard_time": 1754387902,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
