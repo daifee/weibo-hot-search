@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754434044320,
+  "endTime": 1754436518859,
   "band_list": [
     {
       "raw_hot": 2366610,
@@ -19,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934448,
+      "num": 934448,
+      "word": "卫健委回应多人骑电单车夜闯医院走廊",
+      "onboard_time": 1754408902,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 725712,
-      "num": 423357,
+      "num": 429373,
       "word": "再见爱人 王浩信",
       "onboard_time": 1754405663,
       "rank": 6,
@@ -51,20 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 532090,
+      "num": 317847,
+      "word": "澳洲14岁中国女交换生遇刺身亡",
+      "onboard_time": 1754411721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 527697,
+      "num": 316248,
+      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
+      "onboard_time": 1754414718,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477621,
       "num": 411548,
       "word": "易烊千玺",
       "onboard_time": 1754411780,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465802,
-      "num": 552931,
-      "word": "卫健委回应多人骑电单车夜闯医院走廊",
-      "onboard_time": 1754408902,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 449604,
@@ -107,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317847,
-      "num": 317847,
-      "word": "澳洲14岁中国女交换生遇刺身亡",
-      "onboard_time": 1754411721,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 315107,
+      "num": 315107,
+      "word": "以色列总理决定全面占领加沙",
+      "onboard_time": 1754412501,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 271757,
@@ -131,12 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253203,
-      "num": 228358,
-      "word": "以色列总理决定全面占领加沙",
-      "onboard_time": 1754412501,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 251580,
+      "num": 251580,
+      "word": "曹云金感谢郭德纲持续教他做人",
+      "onboard_time": 1754436439,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 247744,
@@ -153,6 +169,22 @@
       "onboard_time": 1754369963,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226242,
+      "num": 174158,
+      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+      "onboard_time": 1754417056,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223208,
+      "num": 223208,
+      "word": "女性在生理期不能运动系谣言",
+      "onboard_time": 1754433617,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 215286,
@@ -179,14 +211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190721,
-      "num": 139736,
-      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
-      "onboard_time": 1754414718,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186026,
       "num": 186026,
       "word": "歌手2025",
@@ -209,14 +233,6 @@
       "onboard_time": 1754405185,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174158,
-      "num": 174158,
-      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
-      "onboard_time": 1754417056,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172004,
@@ -243,12 +259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157952,
+      "num": 157952,
+      "word": "3岁宝宝确认先天体操圣体",
+      "onboard_time": 1754398944,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151612,
       "num": 151612,
       "word": "FRED斐登 鞠婧祎",
       "onboard_time": 1754389163,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145491,
+      "num": 161687,
+      "word": "研究生卖烧饼走红否认学历浪费",
+      "onboard_time": 1754412621,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133085,
@@ -264,6 +296,14 @@
       "word": "粤B暴雨天遇险关键时刻粤S出手了",
       "onboard_time": 1754414298,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115054,
+      "num": 115054,
+      "word": "28岁女子口臭5年查出胃癌前病变",
+      "onboard_time": 1754393604,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -291,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108701,
+      "num": 108701,
+      "word": "男子卖4根金条6张银行卡被封",
+      "onboard_time": 1754391983,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106963,
       "num": 106963,
       "word": "时代少年团上海四场连开",
@@ -307,12 +355,28 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 105762,
-      "num": 105762,
-      "word": "28岁女子口臭5年查出胃癌前病变",
-      "onboard_time": 1754393604,
-      "rank": 32,
+      "raw_hot": 103673,
+      "num": 86834,
+      "word": "赵露思许我耀眼招商",
+      "onboard_time": 1754435719,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 85785,
+      "word": "情侣在少儿阅读区当众亲热",
+      "onboard_time": 1754436079,
+      "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101262,
+      "num": 68630,
+      "word": "滑翔伞操作员空中紧贴女游客被捕",
+      "onboard_time": 1754436259,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96732,
@@ -320,14 +384,6 @@
       "word": "巴厘岛快艇倾覆2名中国公民遇难",
       "onboard_time": 1754404044,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94863,
-      "num": 154356,
-      "word": "研究生卖烧饼走红否认学历浪费",
-      "onboard_time": 1754412621,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -339,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90296,
-      "num": 90296,
-      "word": "3岁宝宝确认先天体操圣体",
-      "onboard_time": 1754398944,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 89798,
+      "num": 89798,
+      "word": "胡歌出镜确认是真的袁弘",
+      "onboard_time": 1754436439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 88817,
@@ -363,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84241,
+      "num": 68430,
+      "word": "体彩回应782万大奖无人认领",
+      "onboard_time": 1754436079,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83860,
       "num": 83860,
       "word": "秦霄贤 何九华",
@@ -379,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79439,
+      "num": 79439,
+      "word": "深铁向万科提供不超过16.81亿元借款",
+      "onboard_time": 1754435058,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79168,
       "num": 79168,
       "word": "河南旱情玉米叶子卷得像油条",
@@ -393,6 +465,14 @@
       "onboard_time": 1754405244,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77936,
+      "num": 77936,
+      "word": "深圳暴雨后路面现大量罗非鱼",
+      "onboard_time": 1754435719,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77411,
@@ -427,20 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72405,
-      "num": 82979,
-      "word": "男子卖4根金条6张银行卡被封",
-      "onboard_time": 1754391983,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70477,
       "num": 156073,
       "word": "涉暴力海龟汤游戏卡牌流向校园",
       "onboard_time": 1754409202,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68937,
+      "num": 68937,
+      "word": "终于懂奶奶看大孙子吃饭的感觉了",
+      "onboard_time": 1754430734,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 67221,
@@ -491,6 +571,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60193,
+      "num": 60193,
+      "word": "吴艳妮世界排名落至31位",
+      "onboard_time": 1754436259,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59469,
+      "num": 59469,
+      "word": "偶遇郭碧婷首尔逛街",
+      "onboard_time": 1754426773,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58348,
+      "num": 58348,
+      "word": "MG4疯了预售价7.38万",
+      "onboard_time": 1754403027,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 56278,
       "num": 83088,
       "word": "多人骑电单车夜闯医院走廊拍视频",
@@ -499,12 +603,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54781,
-      "num": 54781,
-      "word": "终于懂奶奶看大孙子吃饭的感觉了",
-      "onboard_time": 1754430734,
-      "rank": 27,
+      "raw_hot": 52281,
+      "num": 52281,
+      "word": "披荆斩棘",
+      "onboard_time": 1754436500,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48005,
+      "num": 48005,
+      "word": "这个姿势是猫界二郎腿",
+      "onboard_time": 1754436379,
+      "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46676,
+      "num": 46676,
+      "word": "馆方回应情侣在少儿阅读区亲热",
+      "onboard_time": 1754436319,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36017,
@@ -523,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32661,
-      "num": 32661,
-      "word": "偶遇郭碧婷首尔逛街",
-      "onboard_time": 1754426773,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32367,
       "num": 114032,
       "word": "情侣遇车祸死里逃生当事人发声",
@@ -545,22 +657,6 @@
       "onboard_time": 1754420235,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28627,
-      "num": 28627,
-      "word": "女性在生理期不能运动系谣言",
-      "onboard_time": 1754433617,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 25908,
-      "num": 28617,
-      "word": "MG4疯了预售价7.38万",
-      "onboard_time": 1754403027,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 25022,
@@ -611,19 +707,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11201,
+      "num": 419717,
+      "word": "大河奔涌万象新",
+      "onboard_time": 1754383345,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10456,
       "num": 28460,
       "word": "马库斯在中国驻法大使馆捐赠照片",
       "onboard_time": 1754422695,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8057,
-      "num": 419717,
-      "word": "大河奔涌万象新",
-      "onboard_time": 1754383345,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
