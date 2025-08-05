@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/06 05:43:25
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/06 06:29:15
 </p>
 </blockquote>
 <p>
@@ -3771,6 +3771,12 @@ ACT对战GW（热度：244562）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E6%B4%B214%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%A4%E6%8D%A2%E7%94%9F%E9%81%87%E5%88%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
+澳洲14岁中国女交换生遇刺身亡（热度：244413）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23" target="weibo">
 光遇（热度：244311）
 </a>
@@ -5189,12 +5195,6 @@ IVE舞台飞麦（热度：193855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E8%A7%A3%E6%94%BE%E5%86%9B%E5%BB%BA%E5%86%9B98%E5%91%A8%E5%B9%B4%23" target="weibo">
 庆祝解放军建军98周年（热度：191489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E6%B4%B214%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%A4%E6%8D%A2%E7%94%9F%E9%81%87%E5%88%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
-澳洲14岁中国女交换生遇刺身亡（热度：191263）
 </a>
 </li>
 
