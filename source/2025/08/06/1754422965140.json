@@ -1,0 +1,410 @@
+{
+  "runTime": 1754422965140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 148879,
+        "num": 215700,
+        "word": "TFBOYS十二周年",
+        "onboard_time": 1754407344,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121006,
+        "num": 121006,
+        "word": "东莞暴雨眼镜蛇爬上2米高窗户逃生",
+        "onboard_time": 1754410164,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5678,
+        "num": 88983,
+        "word": "大河奔涌万象新",
+        "onboard_time": 1754383345,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717809,
+        "num": 87174,
+        "word": "王俊凯",
+        "onboard_time": 1754410703,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85129,
+        "num": 85129,
+        "word": "澳洲14岁中国女交换生遇刺身亡",
+        "onboard_time": 1754411721,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85081,
+        "num": 85081,
+        "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+        "onboard_time": 1754417056,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300721,
+        "num": 84740,
+        "word": "易烊千玺",
+        "onboard_time": 1754411780,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111527,
+        "num": 81922,
+        "word": "王源",
+        "onboard_time": 1754412140,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65421,
+        "num": 65421,
+        "word": "以色列总理决定全面占领加沙",
+        "onboard_time": 1754412501,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56322,
+        "num": 56322,
+        "word": "卫健委回应多人骑电单车夜闯医院走廊",
+        "onboard_time": 1754408902,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94867,
+        "num": 55729,
+        "word": "男子先穿内裤后穿袜子脚气传染大腿",
+        "onboard_time": 1754411661,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53989,
+        "num": 53989,
+        "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
+        "onboard_time": 1754414718,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45507,
+        "num": 45507,
+        "word": "转账竟然是可以拦截的",
+        "onboard_time": 1754402064,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43969,
+        "num": 43969,
+        "word": "再见爱人 王浩信",
+        "onboard_time": 1754405663,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34722,
+        "num": 34722,
+        "word": "研究生卖烧饼走红否认学历浪费",
+        "onboard_time": 1754412621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34272,
+        "num": 34272,
+        "word": "粤B暴雨天遇险关键时刻粤S出手了",
+        "onboard_time": 1754414298,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32105,
+        "num": 32105,
+        "word": "FRED斐登 鞠婧祎",
+        "onboard_time": 1754389163,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31812,
+        "num": 31812,
+        "word": "红姨全家福",
+        "onboard_time": 1754408302,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31311,
+        "num": 31311,
+        "word": "14岁女生身亡现场逮捕一名13岁女生",
+        "onboard_time": 1754408243,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10456,
+        "num": 28460,
+        "word": "马库斯在中国驻法大使馆捐赠照片",
+        "onboard_time": 1754422695,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42951,
+        "num": 28409,
+        "word": "长期睡眠不足的人有7个表现",
+        "onboard_time": 1754401283,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36095,
+        "num": 28356,
+        "word": "浙大一青年博导被曝坠楼身亡",
+        "onboard_time": 1754401283,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28055,
+        "num": 28055,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25433,
+        "num": 25433,
+        "word": "看完钟丽缇女儿妆教彻底没脾气了",
+        "onboard_time": 1754394322,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25327,
+        "num": 25327,
+        "word": "中国男篮vs沙特男篮",
+        "onboard_time": 1754411602,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24401,
+        "num": 24401,
+        "word": "梨形瘦25斤的杀伤力",
+        "onboard_time": 1754405065,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24367,
+        "num": 24367,
+        "word": "多人骑电单车夜闯医院走廊拍视频",
+        "onboard_time": 1754414418,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22257,
+        "num": 22257,
+        "word": "男子卖4根金条6张银行卡被封",
+        "onboard_time": 1754391983,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21011,
+        "num": 22256,
+        "word": "赵露思说官司忙得打不过来",
+        "onboard_time": 1754399243,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16920,
+        "num": 22252,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 29,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 21008,
+        "num": 22252,
+        "word": "吴迪爸爸与女儿遭遇车祸",
+        "onboard_time": 1754400085,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20794,
+        "num": 22249,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754396603,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20647,
+        "num": 22246,
+        "word": "时代少年团上海四场连开",
+        "onboard_time": 1754388924,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20538,
+        "num": 22243,
+        "word": "男篮亚洲杯",
+        "onboard_time": 1754410403,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20325,
+        "num": 22240,
+        "word": "电影东极岛",
+        "onboard_time": 1754417237,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19987,
+        "num": 22238,
+        "word": "马库斯回应捐日军侵华照片",
+        "onboard_time": 1754420235,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19054,
+        "num": 22237,
+        "word": "中国科学院院士阮少平被打假",
+        "onboard_time": 1754406384,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18802,
+        "num": 22232,
+        "word": "特朗普儿子企业又要借壳上市",
+        "onboard_time": 1754420715,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18704,
+        "num": 22230,
+        "word": "曹格 章若楠太可爱啦",
+        "onboard_time": 1754395823,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18638,
+        "num": 22230,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18282,
+        "num": 22227,
+        "word": "28岁女子口臭5年查出胃癌前病变",
+        "onboard_time": 1754393604,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18084,
+        "num": 22224,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18071,
+        "num": 22222,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18016,
+        "num": 22217,
+        "word": "孙艺珍在车里晾儿子内裤",
+        "onboard_time": 1754405244,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17668,
+        "num": 22216,
+        "word": "原来这么多短剧演员是选秀出身",
+        "onboard_time": 1754407344,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17330,
+        "num": 22213,
+        "word": "海来阿木变化好大",
+        "onboard_time": 1754405366,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17231,
+        "num": 22212,
+        "word": "孔雪儿新剧妆造必有高人指点",
+        "onboard_time": 1754401103,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17157,
+        "num": 22208,
+        "word": "南昌地铁回应女生制止吸烟反遭掌掴",
+        "onboard_time": 1754401103,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17055,
+        "num": 22206,
+        "word": "3岁宝宝确认先天体操圣体",
+        "onboard_time": 1754398944,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16751,
+        "num": 22202,
+        "word": "TF四代见面会联排合照",
+        "onboard_time": 1754410942,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
