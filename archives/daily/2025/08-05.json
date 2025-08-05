@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754387448687,
+  "endTime": 1754389923152,
   "band_list": [
     {
       "raw_hot": 3558648,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1983953,
+      "num": 1983953,
+      "word": "赵露思直播哭了",
+      "onboard_time": 1754389163,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1933230,
       "num": 1933230,
       "word": "免除公办幼儿园学前1年保教费",
@@ -57,6 +65,14 @@
       "onboard_time": 1754349258,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1680618,
+      "num": 1215356,
+      "word": "时代少年团上海四场连开",
+      "onboard_time": 1754388924,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1635490,
@@ -75,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1401019,
+      "num": 540075,
+      "word": "我下班了不说了",
+      "onboard_time": 1754383286,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1335210,
       "num": 1335210,
       "word": "女子吃桃子咬开发现里面一堆树叶",
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 1322428,
-      "num": 345241,
+      "num": 372204,
       "word": "女子例假后游泳大出血向场馆索赔",
       "onboard_time": 1754372783,
       "rank": 26,
@@ -123,8 +147,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1214542,
+      "num": 663157,
+      "word": "FRED斐登 鞠婧祎",
+      "onboard_time": 1754389163,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1207299,
-      "num": 351583,
+      "num": 414288,
       "word": "沈泉锐 小沈阳女儿",
       "onboard_time": 1754375603,
       "rank": 12,
@@ -156,11 +188,19 @@
     },
     {
       "raw_hot": 990967,
-      "num": 332481,
+      "num": 449805,
       "word": "黄多多星味",
       "onboard_time": 1754382445,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974220,
+      "num": 483975,
+      "word": "29岁确诊闭经",
+      "onboard_time": 1754387664,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 965653,
@@ -259,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 673842,
+      "num": 673842,
+      "word": "活佛转世不由达赖喇嘛个人说了算",
+      "onboard_time": 1754386704,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 671202,
       "num": 348345,
       "word": "赵露思 姐现在忍不了任何人",
@@ -283,8 +331,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629460,
+      "num": 603837,
+      "word": "董璇 给另一半当妈",
+      "onboard_time": 1754384723,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 629007,
-      "num": 329349,
+      "num": 388586,
       "word": "秦霄贤 何九华",
       "onboard_time": 1754379744,
       "rank": 29,
@@ -324,11 +380,19 @@
     },
     {
       "raw_hot": 611558,
-      "num": 319205,
+      "num": 438892,
       "word": "难怪小说女主能在房间里关一天",
       "onboard_time": 1754382025,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 611512,
+      "num": 611512,
+      "word": "逐步推行免费学前教育",
+      "onboard_time": 1754385863,
+      "rank": 8,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 606696,
@@ -337,14 +401,6 @@
       "onboard_time": 1754372364,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 603837,
-      "num": 603837,
-      "word": "董璇 给另一半当妈",
-      "onboard_time": 1754384723,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 601912,
@@ -364,7 +420,7 @@
     },
     {
       "raw_hot": 567298,
-      "num": 320437,
+      "num": 333415,
       "word": "德云社",
       "onboard_time": 1754383044,
       "rank": 24,
@@ -425,14 +481,6 @@
       "onboard_time": 1754376204,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 480334,
-      "num": 316191,
-      "word": "我下班了不说了",
-      "onboard_time": 1754383286,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 476184,
@@ -523,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 415209,
-      "num": 415209,
-      "word": "逐步推行免费学前教育",
-      "onboard_time": 1754385863,
-      "rank": 8,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 406770,
       "num": 406770,
       "word": "经常运动后身体会发生的变化",
@@ -612,7 +652,7 @@
     },
     {
       "raw_hot": 347350,
-      "num": 313458,
+      "num": 549516,
       "word": "刘惜君 帮唱",
       "onboard_time": 1754383825,
       "rank": 29,
@@ -707,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272265,
+      "num": 272265,
+      "word": "BLG公布Beichuan诊断报告",
+      "onboard_time": 1754388384,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 269425,
       "num": 269425,
       "word": "国家一级文保华严寺殿墙遭游客刻字",
@@ -769,6 +817,14 @@
       "onboard_time": 1754359461,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249594,
+      "num": 249594,
+      "word": "时代峰峻两眼一睁就是盖章",
+      "onboard_time": 1754387064,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 246877,
@@ -859,12 +915,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 214434,
+      "num": 214434,
+      "word": "深圳华强北叫停小孩哥代送外卖",
+      "onboard_time": 1754384005,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213838,
       "num": 213838,
       "word": "历史学家许倬云逝世",
       "onboard_time": 1754294543,
       "rank": 8,
       "category": "读书作家,民生新闻"
+    },
+    {
+      "raw_hot": 213268,
+      "num": 181267,
+      "word": "龚俊被喷",
+      "onboard_time": 1754386823,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 211418,
@@ -1275,20 +1347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166465,
+      "num": 166465,
+      "word": "赵露思爸爸前年确诊癌症",
+      "onboard_time": 1754389645,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165505,
       "num": 165505,
       "word": "每次发工资同事都假装不着急",
       "onboard_time": 1754369665,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162946,
-      "num": 162946,
-      "word": "活佛转世不由达赖喇嘛个人说了算",
-      "onboard_time": 1754386704,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 162535,
@@ -1313,14 +1385,6 @@
       "onboard_time": 1754353163,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160379,
-      "num": 185857,
-      "word": "深圳华强北叫停小孩哥代送外卖",
-      "onboard_time": 1754384005,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160024,
@@ -1491,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148133,
+      "num": 148133,
+      "word": "谢娜爸爸看倪萍评价没睡着觉",
+      "onboard_time": 1754387123,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146877,
       "num": 143504,
       "word": "曹云金我的世界没有敌人都是老师",
@@ -1507,19 +1579,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145314,
-      "num": 145314,
-      "word": "谢娜爸爸看倪萍评价没睡着觉",
-      "onboard_time": 1754387123,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144723,
       "num": 144723,
       "word": "易烊千玺彩排舞台",
       "onboard_time": 1754383465,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141773,
+      "num": 141773,
+      "word": "TOP 沈阳",
+      "onboard_time": 1754387902,
+      "rank": 37,
       "category": "演出"
     },
     {
@@ -1611,12 +1683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134692,
-      "num": 134692,
-      "word": "时代峰峻两眼一睁就是盖章",
-      "onboard_time": 1754387064,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 135522,
+      "num": 135522,
+      "word": "不要对选手私生活过分好奇",
+      "onboard_time": 1754389764,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 134680,
@@ -1625,6 +1697,22 @@
       "onboard_time": 1754358982,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134190,
+      "num": 134190,
+      "word": "凡人修仙传四个人有三个群",
+      "onboard_time": 1754389225,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132903,
+      "num": 132903,
+      "word": "一女被四男追有多刺激",
+      "onboard_time": 1754389704,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 132138,
@@ -1676,7 +1764,7 @@
     },
     {
       "raw_hot": 128410,
-      "num": 128410,
+      "num": 157345,
       "word": "倪妮回应跳海戏不戴威亚",
       "onboard_time": 1754387303,
       "rank": 37,
@@ -1745,6 +1833,14 @@
       "onboard_time": 1754384183,
       "rank": 41,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 123197,
+      "num": 123197,
+      "word": "葬礼都办了人复活了",
+      "onboard_time": 1754389764,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122778,
@@ -1891,14 +1987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114077,
-      "num": 127318,
-      "word": "龚俊被喷",
-      "onboard_time": 1754386823,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113694,
       "num": 113694,
       "word": "博主曝光内蒙古一火锅店用阴阳菜单",
@@ -2043,6 +2131,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 102571,
+      "num": 110834,
+      "word": "中国7月标普全球综合PMI50.8",
+      "onboard_time": 1754389343,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102480,
       "num": 102480,
       "word": "上海一餐厅回应蛋炒饭258元",
@@ -2081,6 +2177,14 @@
       "onboard_time": 1754385322,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99885,
+      "num": 250339,
+      "word": "帮助经济困难儿童接受学前教育",
+      "onboard_time": 1754389645,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99803,
@@ -2315,6 +2419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77499,
+      "num": 134289,
+      "word": "密室大逃脱戏梦双生",
+      "onboard_time": 1754388623,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77056,
       "num": 121040,
       "word": "体制内爱好红黑榜",
@@ -2403,6 +2515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69023,
+      "num": 137010,
+      "word": "预制菜的风吹到了分手厨房",
+      "onboard_time": 1754389284,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68254,
       "num": 120891,
       "word": "白鹿白衬衫根正苗红",
@@ -2433,6 +2553,14 @@
       "onboard_time": 1754326340,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65590,
+      "num": 134231,
+      "word": "一起庆祝西藏自治区成立60周年",
+      "onboard_time": 1754389103,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65256,
@@ -2763,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25908,
+      "num": 255363,
+      "word": "哪些人群可以免保育教育费",
+      "onboard_time": 1754389645,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25202,
       "num": 120677,
       "word": "刘宇宁就这个撞地球对味",
@@ -2808,6 +2944,14 @@
       "word": "抗战烈士回信家人说国不保家何能存",
       "onboard_time": 1754294422,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11004,
+      "num": 134576,
+      "word": "离婚10年孩子生病找不到生父",
+      "onboard_time": 1754389883,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
