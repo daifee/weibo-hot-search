@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754416019422,
+  "endTime": 1754419399649,
   "band_list": [
     {
       "raw_hot": 2366610,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91219,
+      "num": 76761,
+      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+      "onboard_time": 1754417056,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90296,
       "num": 90296,
       "word": "3岁宝宝确认先天体操圣体",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64600,
+      "num": 82861,
+      "word": "研究生卖烧饼走红否认学历浪费",
+      "onboard_time": 1754412621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64523,
       "num": 82388,
       "word": "吴迪爸爸与女儿遭遇车祸",
@@ -472,14 +488,6 @@
       "word": "南昌地铁回应女生制止吸烟反遭掌掴",
       "onboard_time": 1754401103,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58929,
-      "num": 82861,
-      "word": "研究生卖烧饼走红否认学历浪费",
-      "onboard_time": 1754412621,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -513,6 +521,38 @@
       "onboard_time": 1754411540,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25022,
+      "num": 43599,
+      "word": "李兰迪松弛夏日vlog",
+      "onboard_time": 1754418496,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24765,
+      "num": 43571,
+      "word": "听谁在唱歌",
+      "onboard_time": 1754418796,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23590,
+      "num": 43346,
+      "word": "电影东极岛",
+      "onboard_time": 1754417237,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22765,
+      "num": 43324,
+      "word": "王源原创新歌雪崩",
+      "onboard_time": 1754419335,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 22672,

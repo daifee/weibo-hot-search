@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754416019422,
+  "endTime": 1754419399649,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -8723,6 +8723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91219,
+      "num": 76761,
+      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+      "onboard_time": 1754417056,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90938,
       "num": 90938,
       "word": "重温樊振东超燃奥运夺冠之路",
@@ -9555,6 +9563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64600,
+      "num": 82861,
+      "word": "研究生卖烧饼走红否认学历浪费",
+      "onboard_time": 1754412621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64205,
       "num": 458587,
       "word": "南部战区回应菲律宾搅局南海",
@@ -9697,14 +9713,6 @@
       "onboard_time": 1754236104,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 58929,
-      "num": 82861,
-      "word": "研究生卖烧饼走红否认学历浪费",
-      "onboard_time": 1754412621,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58401,
@@ -10363,12 +10371,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25022,
+      "num": 43599,
+      "word": "李兰迪松弛夏日vlog",
+      "onboard_time": 1754418496,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24971,
       "num": 30606,
       "word": "易烊千玺弹唱送别",
       "onboard_time": 1754166554,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24765,
+      "num": 43571,
+      "word": "听谁在唱歌",
+      "onboard_time": 1754418796,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 24136,
@@ -10387,12 +10411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23590,
+      "num": 43346,
+      "word": "电影东极岛",
+      "onboard_time": 1754417237,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23366,
       "num": 993035,
       "word": "网警倡议共筑网络安全堤坝为抗洪护航",
       "onboard_time": 1754187561,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22765,
+      "num": 43324,
+      "word": "王源原创新歌雪崩",
+      "onboard_time": 1754419335,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 22672,
