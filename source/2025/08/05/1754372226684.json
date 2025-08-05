@@ -1,0 +1,410 @@
+{
+  "runTime": 1754372226684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733212,
+        "num": 1733212,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1152388,
+        "num": 1152388,
+        "word": "创始人回应赵露思沙拉没放酱",
+        "onboard_time": 1754369125,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4600,
+        "num": 987747,
+        "word": "运20超燃重装空投画面",
+        "onboard_time": 1754278043,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 898148,
+        "num": 898148,
+        "word": "少林寺离职潮",
+        "onboard_time": 1754370025,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871091,
+        "num": 871091,
+        "word": "第五人格崩了",
+        "onboard_time": 1754367923,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 829234,
+        "num": 829234,
+        "word": "打车送脑出血父亲就医被取消订单",
+        "onboard_time": 1754364742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760439,
+        "num": 760439,
+        "word": "第五人格",
+        "onboard_time": 1754364024,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 626052,
+        "num": 626052,
+        "word": "侵华日军站在尸体旁炫耀",
+        "onboard_time": 1754365223,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567457,
+        "num": 567457,
+        "word": "白敬亭郑合惠子见面",
+        "onboard_time": 1754363482,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67051,
+        "num": 534591,
+        "word": "家长不愿管司法与社会也可以教做人",
+        "onboard_time": 1754371522,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532310,
+        "num": 532310,
+        "word": "于正说白鹿团队全内娱最好",
+        "onboard_time": 1754369363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512842,
+        "num": 512842,
+        "word": "男子背80斤蜜雪冰城上山卖15元",
+        "onboard_time": 1754370503,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425727,
+        "num": 425727,
+        "word": "小猫被嗦成了芒果核",
+        "onboard_time": 1754367685,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387120,
+        "num": 387120,
+        "word": "龚俊咱还回内娱当偶像吗",
+        "onboard_time": 1754366785,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330091,
+        "num": 330091,
+        "word": "陈楚生为了孩子拼命得让我陌生",
+        "onboard_time": 1754363542,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301716,
+        "num": 301716,
+        "word": "BLACKPINK演唱会上百无聊赖的老父亲们",
+        "onboard_time": 1754367745,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275914,
+        "num": 275914,
+        "word": "恋与深空运营方被起诉",
+        "onboard_time": 1754371522,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255834,
+        "num": 255834,
+        "word": "女子吃桃子咬开发现里面一堆树叶",
+        "onboard_time": 1754349379,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250319,
+        "num": 250319,
+        "word": "缴纳社保不能自愿放弃",
+        "onboard_time": 1754361201,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214456,
+        "num": 214456,
+        "word": "酷似大S走红女生删除视频",
+        "onboard_time": 1754368284,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206876,
+        "num": 206876,
+        "word": "保时捷车主恶意别停辱骂女司机被拘",
+        "onboard_time": 1754363423,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205753,
+        "num": 205753,
+        "word": "利剑玫瑰评论异常",
+        "onboard_time": 1754372182,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198110,
+        "num": 198110,
+        "word": "肖战媚眼抛了一年粉丝才看见",
+        "onboard_time": 1754360901,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191050,
+        "num": 191050,
+        "word": "上门做饭一天赚了800元",
+        "onboard_time": 1754366183,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190188,
+        "num": 190188,
+        "word": "王一博向岩而生定档8月12日",
+        "onboard_time": 1754371402,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170678,
+        "num": 170678,
+        "word": "休假交警路遇侧翻秒出警",
+        "onboard_time": 1754363783,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162535,
+        "num": 162535,
+        "word": "恋综男嘉宾比腿毛真不中了",
+        "onboard_time": 1754371705,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158350,
+        "num": 158350,
+        "word": "陈都灵额头受伤",
+        "onboard_time": 1754367805,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153768,
+        "num": 153768,
+        "word": "上海一小区要求外卖员坐摆渡车进",
+        "onboard_time": 1754365283,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127408,
+        "num": 152272,
+        "word": "赵奕欢你的权威我后知后觉",
+        "onboard_time": 1754371102,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266440,
+        "num": 151682,
+        "word": "第五人格回应登录问题",
+        "onboard_time": 1754367923,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74114,
+        "num": 150853,
+        "word": "京东养车征名",
+        "onboard_time": 1754367565,
+        "rank": 31,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 150824,
+        "num": 150824,
+        "word": "张元英红昭愿卡点摇",
+        "onboard_time": 1754370922,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146594,
+        "num": 146594,
+        "word": "建议离开工位前一定要把微信锁上",
+        "onboard_time": 1754369545,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172073,
+        "num": 146244,
+        "word": "网易游戏崩了",
+        "onboard_time": 1754367923,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145866,
+        "num": 145866,
+        "word": "阴阳师",
+        "onboard_time": 1754364623,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67481,
+        "num": 144461,
+        "word": "被五月天送花是什么体验",
+        "onboard_time": 1754367565,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 143169,
+        "num": 143169,
+        "word": "奔驰车逼停摩托双方均不接受调解",
+        "onboard_time": 1754355982,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118052,
+        "num": 139140,
+        "word": "演员于娜自曝因焦虑症长期吃药变胖",
+        "onboard_time": 1754371705,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138168,
+        "num": 138168,
+        "word": "搬回小县城生活2年的真实感受",
+        "onboard_time": 1754370563,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136348,
+        "num": 136348,
+        "word": "每次发工资同事都假装不着急",
+        "onboard_time": 1754369665,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135339,
+        "num": 135339,
+        "word": "郑雨盛结婚",
+        "onboard_time": 1754366305,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128048,
+        "num": 128048,
+        "word": "张本智和继续发声质疑日本联赛",
+        "onboard_time": 1754371883,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123648,
+        "num": 123648,
+        "word": "黄子韬公司被限消",
+        "onboard_time": 1754362701,
+        "rank": 43,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 122622,
+        "num": 122622,
+        "word": "短剧演员闯进长剧圈",
+        "onboard_time": 1754368284,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120387,
+        "num": 120387,
+        "word": "河南遭遇旱情",
+        "onboard_time": 1754360722,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118764,
+        "num": 118764,
+        "word": "绵阳警方辟谣校园霸凌者父母被抓",
+        "onboard_time": 1754369665,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118323,
+        "num": 118323,
+        "word": "中国澳门球员吴礼廷因车祸去世",
+        "onboard_time": 1754372122,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117331,
+        "num": 117331,
+        "word": "留子眼中的奢侈品",
+        "onboard_time": 1754371705,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117090,
+        "num": 117090,
+        "word": "敖瑞鹏常华森 双生魔丸的不同选择",
+        "onboard_time": 1754372182,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}

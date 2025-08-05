@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754368386542,
+  "endTime": 1754372226684,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -203,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1733212,
+      "num": 1733212,
+      "word": "社保",
+      "onboard_time": 1754369963,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1711373,
       "num": 1711373,
       "word": "赵露思回复利用网友解约",
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1152388,
+      "num": 1152388,
+      "word": "创始人回应赵露思沙拉没放酱",
+      "onboard_time": 1754369125,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147928,
       "num": 712742,
       "word": "赵露思说实在不行开个小面馆",
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 898148,
+      "num": 898148,
+      "word": "少林寺离职潮",
+      "onboard_time": 1754370025,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 885745,
       "num": 885745,
       "word": "巨型天牛现身哀牢山",
@@ -593,6 +617,14 @@
       "onboard_time": 1754286921,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 871091,
+      "num": 871091,
+      "word": "第五人格崩了",
+      "onboard_time": 1754367923,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 862925,
@@ -721,14 +753,6 @@
       "onboard_time": 1754363542,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 721130,
-      "num": 248547,
-      "word": "第五人格崩了",
-      "onboard_time": 1754367923,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 703936,
@@ -905,6 +929,14 @@
       "onboard_time": 1754140232,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626052,
+      "num": 626052,
+      "word": "侵华日军站在尸体旁炫耀",
+      "onboard_time": 1754365223,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624335,
@@ -1115,6 +1147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 532310,
+      "num": 532310,
+      "word": "于正说白鹿团队全内娱最好",
+      "onboard_time": 1754369363,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531807,
       "num": 427139,
       "word": "利剑玫瑰 口型对不上",
@@ -1184,6 +1224,14 @@
       "word": "家长们为被霸凌女孩发声",
       "onboard_time": 1754314345,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512842,
+      "num": 512842,
+      "word": "男子背80斤蜜雪冰城上山卖15元",
+      "onboard_time": 1754370503,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1427,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 425727,
+      "num": 425727,
+      "word": "小猫被嗦成了芒果核",
+      "onboard_time": 1754367685,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 423543,
       "num": 423543,
       "word": "韩国汉江出现不明生物吓跑钓鱼男子",
@@ -1640,14 +1696,6 @@
       "word": "生娃能领7笔钱",
       "onboard_time": 1754208326,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 361610,
-      "num": 515484,
-      "word": "侵华日军站在尸体旁炫耀",
-      "onboard_time": 1754365223,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1931,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301716,
+      "num": 301716,
+      "word": "BLACKPINK演唱会上百无聊赖的老父亲们",
+      "onboard_time": 1754367745,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300506,
       "num": 179092,
       "word": "白敬亭在家炒的菜还没有第三人吃过",
@@ -1961,14 +2017,6 @@
       "onboard_time": 1754212344,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294039,
-      "num": 294039,
-      "word": "BLACKPINK演唱会上百无聊赖的老父亲们",
-      "onboard_time": 1754367745,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 293261,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 275914,
+      "num": 275914,
+      "word": "恋与深空运营方被起诉",
+      "onboard_time": 1754371522,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 275658,
@@ -2329,14 +2385,6 @@
       "onboard_time": 1754367923,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 245911,
-      "num": 245911,
-      "word": "小猫被嗦成了芒果核",
-      "onboard_time": 1754367685,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 245875,
@@ -2619,6 +2667,14 @@
       "category": "互联网,音乐"
     },
     {
+      "raw_hot": 214456,
+      "num": 214456,
+      "word": "酷似大S走红女生删除视频",
+      "onboard_time": 1754368284,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213749,
       "num": 213749,
       "word": "上海全款150万32平米的小家",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1754269281,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 205753,
+      "num": 205753,
+      "word": "利剑玫瑰评论异常",
+      "onboard_time": 1754372182,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 205393,
@@ -3075,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190188,
+      "num": 190188,
+      "word": "王一博向岩而生定档8月12日",
+      "onboard_time": 1754371402,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190182,
       "num": 190182,
       "word": "TWS韩粉质疑韩振的中文水平",
@@ -3409,14 +3481,6 @@
       "onboard_time": 1754233885,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178266,
-      "num": 178266,
-      "word": "酷似大S走红女生删除视频",
-      "onboard_time": 1754368284,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 177952,
@@ -3907,6 +3971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162535,
+      "num": 162535,
+      "word": "恋综男嘉宾比腿毛真不中了",
+      "onboard_time": 1754371705,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162284,
       "num": 162284,
       "word": "崩坏星穹铁道",
@@ -4219,6 +4291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150824,
+      "num": 150824,
+      "word": "张元英红昭愿卡点摇",
+      "onboard_time": 1754370922,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150300,
       "num": 150300,
       "word": "专家称即将到来史诗级牛市",
@@ -4353,6 +4433,14 @@
       "onboard_time": 1754193686,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146594,
+      "num": 146594,
+      "word": "建议离开工位前一定要把微信锁上",
+      "onboard_time": 1754369545,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 145975,
@@ -4723,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138168,
+      "num": 138168,
+      "word": "搬回小县城生活2年的真实感受",
+      "onboard_time": 1754370563,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137966,
       "num": 137966,
       "word": "文俊辉 能打成龙我这辈子值了",
@@ -4801,6 +4897,14 @@
       "onboard_time": 1754295983,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136348,
+      "num": 136348,
+      "word": "每次发工资同事都假装不着急",
+      "onboard_time": 1754369665,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 136074,
@@ -5075,6 +5179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128048,
+      "num": 128048,
+      "word": "张本智和继续发声质疑日本联赛",
+      "onboard_time": 1754371883,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127841,
       "num": 214476,
       "word": "店家回应彩民花69元中2.4亿元",
@@ -5113,6 +5225,14 @@
       "onboard_time": 1754196984,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127408,
+      "num": 152272,
+      "word": "赵奕欢你的权威我后知后觉",
+      "onboard_time": 1754371102,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 127341,
@@ -5355,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122622,
+      "num": 122622,
+      "word": "短剧演员闯进长剧圈",
+      "onboard_time": 1754368284,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122428,
       "num": 122428,
       "word": "在便利店上班的人嘴真严啊",
@@ -5579,6 +5707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118764,
+      "num": 118764,
+      "word": "绵阳警方辟谣校园霸凌者父母被抓",
+      "onboard_time": 1754369665,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118667,
       "num": 118667,
       "word": "普通人要不要买折叠屏",
@@ -5593,6 +5729,14 @@
       "onboard_time": 1754153302,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118323,
+      "num": 118323,
+      "word": "中国澳门球员吴礼廷因车祸去世",
+      "onboard_time": 1754372122,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118258,
@@ -5635,6 +5779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118052,
+      "num": 139140,
+      "word": "演员于娜自曝因焦虑症长期吃药变胖",
+      "onboard_time": 1754371705,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117967,
       "num": 117967,
       "word": "搬家后才知道环境对人的影响",
@@ -5657,6 +5809,22 @@
       "onboard_time": 1754304202,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117331,
+      "num": 117331,
+      "word": "留子眼中的奢侈品",
+      "onboard_time": 1754371705,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117090,
+      "num": 117090,
+      "word": "敖瑞鹏常华森 双生魔丸的不同选择",
+      "onboard_time": 1754372182,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116748,
@@ -7211,6 +7379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67051,
+      "num": 534591,
+      "word": "家长不愿管司法与社会也可以教做人",
+      "onboard_time": 1754371522,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66951,
       "num": 87175,
       "word": "冲进海里救人的腹肌哥找到了",
@@ -8091,7 +8267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2098,
+      "raw_hot": 4600,
       "num": 1064395,
       "word": "运20超燃重装空投画面",
       "onboard_time": 1754278043,
