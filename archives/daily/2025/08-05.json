@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754404341295,
+  "endTime": 1754405534072,
   "band_list": [
     {
       "raw_hot": 3827156,
@@ -83,19 +83,19 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 1736252,
+      "num": 1736252,
+      "word": "浙大一青年博导被曝坠楼身亡",
+      "onboard_time": 1754401283,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1698734,
       "num": 193288,
       "word": "江油",
       "onboard_time": 1754349258,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1692694,
-      "num": 1692694,
-      "word": "浙大一青年博导被曝坠楼身亡",
-      "onboard_time": 1754401283,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1754349379,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1331986,
+      "num": 1331986,
+      "word": "转账竟然是可以拦截的",
+      "onboard_time": 1754402064,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1322428,
@@ -201,14 +209,6 @@
       "onboard_time": 1754370025,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1086813,
-      "num": 1086813,
-      "word": "转账竟然是可以拦截的",
-      "onboard_time": 1754402064,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 1034416,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 611512,
-      "num": 1317731,
+      "num": 1432331,
       "word": "逐步推行免费学前教育",
       "onboard_time": 1754385863,
       "rank": 8,
@@ -492,11 +492,19 @@
     },
     {
       "raw_hot": 600938,
-      "num": 328061,
+      "num": 342579,
       "word": "看完钟丽缇女儿妆教彻底没脾气了",
       "onboard_time": 1754394322,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592974,
+      "num": 592974,
+      "word": "香港无头尸体死者是54岁美国籍男子",
+      "onboard_time": 1754401343,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 577017,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 542066,
-      "num": 335033,
+      "num": 342089,
       "word": "3岁宝宝确认先天体操圣体",
       "onboard_time": 1754398944,
       "rank": 22,
@@ -747,12 +755,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376072,
-      "num": 265033,
+      "raw_hot": 377417,
+      "num": 286699,
       "word": "长期睡眠不足的人有7个表现",
       "onboard_time": 1754401283,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 375556,
+      "num": 375556,
+      "word": "巴厘岛快艇倾覆2名中国公民遇难",
+      "onboard_time": 1754404044,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359569,
@@ -800,14 +816,6 @@
       "word": "周口坠楼医生丈夫发声",
       "onboard_time": 1754375482,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 331512,
-      "num": 331512,
-      "word": "香港无头尸体死者是54岁美国籍男子",
-      "onboard_time": 1754401343,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 226829,
+      "num": 334048,
+      "word": "房主任哽咽呼吁大家不要买黄牛票",
+      "onboard_time": 1754404104,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226706,
       "num": 226706,
       "word": "网易旗下多款游戏回应",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1754363723,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 215430,
+      "num": 331265,
+      "word": "王楚然收扇那一下",
+      "onboard_time": 1754401463,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 214434,
@@ -1339,12 +1363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 193902,
-      "num": 193902,
-      "word": "王楚然收扇那一下",
-      "onboard_time": 1754401463,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 194093,
+      "num": 194093,
+      "word": "卢昱晓 妈妈降临",
+      "onboard_time": 1754405185,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193776,
@@ -1435,14 +1459,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 183669,
-      "num": 183669,
-      "word": "巴厘岛快艇倾覆2名中国公民遇难",
-      "onboard_time": 1754404044,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183554,
       "num": 281636,
       "word": "俄将不再维持中导条约单方面自我限制",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1754382864,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181701,
+      "num": 181701,
+      "word": "孙艺珍在车里晾儿子内裤",
+      "onboard_time": 1754405244,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 181019,
@@ -1747,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156109,
-      "num": 172698,
-      "word": "房主任哽咽呼吁大家不要买黄牛票",
-      "onboard_time": 1754404104,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156085,
       "num": 156085,
       "word": "43岁张亮与17岁儿子天天骑马",
@@ -1785,6 +1801,14 @@
       "onboard_time": 1754382745,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153362,
+      "num": 153362,
+      "word": "海来阿木变化好大",
+      "onboard_time": 1754405366,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 153225,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1754393843,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147158,
+      "num": 147158,
+      "word": "杨枝甘露寺",
+      "onboard_time": 1754404164,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 146877,
@@ -2035,6 +2067,22 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 138636,
+      "num": 138636,
+      "word": "从欢乐颂妈宝到暗潮变态他好敢",
+      "onboard_time": 1754404405,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138467,
+      "num": 302057,
+      "word": "MG4疯了预售价7.38万",
+      "onboard_time": 1754403027,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138168,
       "num": 138168,
       "word": "搬回小县城生活2年的真实感受",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1754389764,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134767,
+      "num": 153568,
+      "word": "梨形瘦25斤的杀伤力",
+      "onboard_time": 1754405065,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 134680,
@@ -2089,14 +2145,6 @@
       "onboard_time": 1754389225,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134121,
-      "num": 270356,
-      "word": "MG4疯了预售价7.38万",
-      "onboard_time": 1754403027,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 132138,
@@ -2241,14 +2289,6 @@
       "onboard_time": 1754373262,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125232,
-      "num": 125232,
-      "word": "杨枝甘露寺",
-      "onboard_time": 1754404164,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 124874,
@@ -3372,7 +3412,7 @@
     },
     {
       "raw_hot": 53250,
-      "num": 274099,
+      "num": 329973,
       "word": "王骁才是最佳旅行搭子",
       "onboard_time": 1754401405,
       "rank": 18,
