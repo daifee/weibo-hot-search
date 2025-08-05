@@ -1,0 +1,410 @@
+{
+  "runTime": 1754373232549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1987832,
+        "num": 1987832,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1290594,
+        "num": 1290594,
+        "word": "创始人回应赵露思沙拉没放酱",
+        "onboard_time": 1754369125,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5389,
+        "num": 1159186,
+        "word": "运20超燃重装空投画面",
+        "onboard_time": 1754278043,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1122798,
+        "num": 1122798,
+        "word": "少林寺离职潮",
+        "onboard_time": 1754370025,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718858,
+        "num": 718858,
+        "word": "男子背80斤蜜雪冰城上山卖15元",
+        "onboard_time": 1754370503,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643495,
+        "num": 643495,
+        "word": "打车送脑出血父亲就医被取消订单",
+        "onboard_time": 1754364742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543965,
+        "num": 543965,
+        "word": "侵华日军站在尸体旁炫耀",
+        "onboard_time": 1754365223,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528894,
+        "num": 528894,
+        "word": "第五人格崩了",
+        "onboard_time": 1754367923,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 493287,
+        "num": 493287,
+        "word": "白敬亭郑合惠子见面",
+        "onboard_time": 1754363482,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115026,
+        "num": 419633,
+        "word": "官方通报周口六院邵医生坠亡",
+        "onboard_time": 1754372543,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 624832,
+        "num": 419465,
+        "word": "于正说白鹿团队全内娱最好",
+        "onboard_time": 1754369363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417183,
+        "num": 417183,
+        "word": "第五人格",
+        "onboard_time": 1754364024,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415784,
+        "num": 415784,
+        "word": "小猫被嗦成了芒果核",
+        "onboard_time": 1754367685,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391530,
+        "num": 391530,
+        "word": "酷似大S走红女生删除视频",
+        "onboard_time": 1754368284,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350624,
+        "num": 350624,
+        "word": "利剑玫瑰评论异常",
+        "onboard_time": 1754372182,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339223,
+        "num": 339223,
+        "word": "龚俊咱还回内娱当偶像吗",
+        "onboard_time": 1754366785,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316639,
+        "num": 316639,
+        "word": "恋与深空运营方被起诉",
+        "onboard_time": 1754371522,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294506,
+        "num": 301520,
+        "word": "陈楚生为了孩子拼命得让我陌生",
+        "onboard_time": 1754363542,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297575,
+        "num": 297575,
+        "word": "缴纳社保不能自愿放弃",
+        "onboard_time": 1754361201,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46109,
+        "num": 286538,
+        "word": "锤娜丽莎9块9宵夜太香了",
+        "onboard_time": 1754372842,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282424,
+        "num": 282424,
+        "word": "BLACKPINK演唱会上百无聊赖的老父亲们",
+        "onboard_time": 1754367745,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244311,
+        "num": 244311,
+        "word": "光遇",
+        "onboard_time": 1754368826,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232543,
+        "num": 232543,
+        "word": "燕云十六声",
+        "onboard_time": 1754372842,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232123,
+        "num": 232123,
+        "word": "赵露思说很难想象普通上班族出这事",
+        "onboard_time": 1754372364,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226706,
+        "num": 226706,
+        "word": "网易旗下多款游戏回应",
+        "onboard_time": 1754372903,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220141,
+        "num": 220141,
+        "word": "女子吃桃子咬开发现里面一堆树叶",
+        "onboard_time": 1754349379,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204123,
+        "num": 204123,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194704,
+        "num": 194704,
+        "word": "敖瑞鹏常华森 双生魔丸的不同选择",
+        "onboard_time": 1754372182,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194287,
+        "num": 194287,
+        "word": "张予曦毕雯珺GLASSVISION封面",
+        "onboard_time": 1754372482,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179552,
+        "num": 179552,
+        "word": "肖战媚眼抛了一年粉丝才看见",
+        "onboard_time": 1754360901,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224663,
+        "num": 178720,
+        "word": "网易游戏崩了",
+        "onboard_time": 1754367923,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180809,
+        "num": 178313,
+        "word": "官方通报周口六院邵医生坠楼",
+        "onboard_time": 1754372963,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177646,
+        "num": 177646,
+        "word": "陈都灵额头受伤",
+        "onboard_time": 1754367805,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167700,
+        "num": 167700,
+        "word": "休假交警路遇侧翻秒出警",
+        "onboard_time": 1754363783,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165505,
+        "num": 165505,
+        "word": "每次发工资同事都假装不着急",
+        "onboard_time": 1754369665,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102465,
+        "num": 164576,
+        "word": "照相馆英文片名是铁证如山",
+        "onboard_time": 1754373083,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164470,
+        "num": 164470,
+        "word": "第五人格回应登录问题",
+        "onboard_time": 1754367923,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162150,
+        "num": 162150,
+        "word": "保时捷车主恶意别停辱骂女司机被拘",
+        "onboard_time": 1754363423,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161731,
+        "num": 161731,
+        "word": "上门做饭一天赚了800元",
+        "onboard_time": 1754366183,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151332,
+        "num": 151332,
+        "word": "建议离开工位前一定要把微信锁上",
+        "onboard_time": 1754369545,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139378,
+        "num": 139378,
+        "word": "家长不愿管司法与社会也可以教做人",
+        "onboard_time": 1754371522,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137301,
+        "num": 137301,
+        "word": "路怡向易烊千玺粉丝道歉",
+        "onboard_time": 1754373142,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132524,
+        "num": 132524,
+        "word": "恋综男嘉宾比腿毛真不中了",
+        "onboard_time": 1754371705,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91464,
+        "num": 130674,
+        "word": "刘昊然能不能替我面试",
+        "onboard_time": 1754372662,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130642,
+        "num": 130642,
+        "word": "曾舜晞九门下跪路透",
+        "onboard_time": 1754372842,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124193,
+        "num": 124193,
+        "word": "搬回小县城生活2年的真实感受",
+        "onboard_time": 1754370563,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121817,
+        "num": 121817,
+        "word": "张本智和继续发声质疑日本联赛",
+        "onboard_time": 1754371883,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119895,
+        "num": 119895,
+        "word": "上海一小区要求外卖员坐摆渡车进",
+        "onboard_time": 1754365283,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117783,
+        "num": 117783,
+        "word": "奔驰车逼停摩托双方均不接受调解",
+        "onboard_time": 1754355982,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109974,
+        "num": 109974,
+        "word": "演员于娜自曝因焦虑症长期吃药变胖",
+        "onboard_time": 1754371705,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}

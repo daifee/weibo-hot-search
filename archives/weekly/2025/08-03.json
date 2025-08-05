@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754372226684,
+  "endTime": 1754373232549,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -171,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1987832,
+      "num": 1987832,
+      "word": "社保",
+      "onboard_time": 1754369963,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1961731,
       "num": 1961731,
       "word": "韩国汉江惊现巨型不明物体",
@@ -201,14 +209,6 @@
       "onboard_time": 1754148089,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1733212,
-      "num": 1733212,
-      "word": "社保",
-      "onboard_time": 1754369963,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1711373,
@@ -339,6 +339,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 1290594,
+      "num": 1290594,
+      "word": "创始人回应赵露思沙拉没放酱",
+      "onboard_time": 1754369125,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1274313,
       "num": 392265,
       "word": "赵露思被甜品店合伙人背刺起诉",
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1152388,
-      "num": 1152388,
-      "word": "创始人回应赵露思沙拉没放酱",
-      "onboard_time": 1754369125,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1147928,
       "num": 712742,
       "word": "赵露思说实在不行开个小面馆",
@@ -441,6 +441,14 @@
       "onboard_time": 1754149827,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1122798,
+      "num": 1122798,
+      "word": "少林寺离职潮",
+      "onboard_time": 1754370025,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1118404,
@@ -595,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 898148,
-      "num": 898148,
-      "word": "少林寺离职潮",
-      "onboard_time": 1754370025,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 885745,
       "num": 885745,
       "word": "巨型天牛现身哀牢山",
@@ -753,6 +753,14 @@
       "onboard_time": 1754363542,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718858,
+      "num": 718858,
+      "word": "男子背80斤蜜雪冰城上山卖15元",
+      "onboard_time": 1754370503,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 703936,
@@ -937,6 +945,14 @@
       "onboard_time": 1754365223,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624832,
+      "num": 532310,
+      "word": "于正说白鹿团队全内娱最好",
+      "onboard_time": 1754369363,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 624335,
@@ -1147,14 +1163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 532310,
-      "num": 532310,
-      "word": "于正说白鹿团队全内娱最好",
-      "onboard_time": 1754369363,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 531807,
       "num": 427139,
       "word": "利剑玫瑰 口型对不上",
@@ -1224,14 +1232,6 @@
       "word": "家长们为被霸凌女孩发声",
       "onboard_time": 1754314345,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 512842,
-      "num": 512842,
-      "word": "男子背80斤蜜雪冰城上山卖15元",
-      "onboard_time": 1754370503,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1595,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391530,
+      "num": 391530,
+      "word": "酷似大S走红女生删除视频",
+      "onboard_time": 1754368284,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389036,
       "num": 273779,
       "word": "终于学会漂漂亮亮不随份子钱",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1754363783,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350624,
+      "num": 350624,
+      "word": "利剑玫瑰评论异常",
+      "onboard_time": 1754372182,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 348262,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1754312244,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 316639,
+      "num": 316639,
+      "word": "恋与深空运营方被起诉",
+      "onboard_time": 1754371522,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 315958,
@@ -2129,14 +2153,6 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 275914,
-      "num": 275914,
-      "word": "恋与深空运营方被起诉",
-      "onboard_time": 1754371522,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 275658,
@@ -2403,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244311,
+      "num": 244311,
+      "word": "光遇",
+      "onboard_time": 1754328078,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243447,
       "num": 254446,
       "word": "虞书欣告黑案胜诉",
@@ -2491,6 +2515,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232543,
+      "num": 232543,
+      "word": "燕云十六声",
+      "onboard_time": 1754372842,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 232123,
+      "num": 232123,
+      "word": "赵露思说很难想象普通上班族出这事",
+      "onboard_time": 1754372364,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231407,
       "num": 336817,
       "word": "男子花87万办了300年的健身卡",
@@ -2553,6 +2593,14 @@
       "onboard_time": 1754191703,
       "rank": 25,
       "category": "读书作家,电竞"
+    },
+    {
+      "raw_hot": 226706,
+      "num": 226706,
+      "word": "网易旗下多款游戏回应",
+      "onboard_time": 1754372903,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 225182,
@@ -2667,14 +2715,6 @@
       "category": "互联网,音乐"
     },
     {
-      "raw_hot": 214456,
-      "num": 214456,
-      "word": "酷似大S走红女生删除视频",
-      "onboard_time": 1754368284,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213749,
       "num": 213749,
       "word": "上海全款150万32平米的小家",
@@ -2787,14 +2827,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 205753,
-      "num": 205753,
-      "word": "利剑玫瑰评论异常",
-      "onboard_time": 1754372182,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205393,
       "num": 205393,
       "word": "B萌",
@@ -2833,6 +2865,14 @@
       "onboard_time": 1754230344,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204123,
+      "num": 204123,
+      "word": "女子例假后游泳大出血向场馆索赔",
+      "onboard_time": 1754372783,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204015,
@@ -3057,6 +3097,22 @@
       "onboard_time": 1754349859,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 194704,
+      "num": 194704,
+      "word": "敖瑞鹏常华森 双生魔丸的不同选择",
+      "onboard_time": 1754372182,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "张予曦毕雯珺GLASSVISION封面",
+      "onboard_time": 1754372482,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194266,
@@ -3425,6 +3481,14 @@
       "onboard_time": 1754349198,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180809,
+      "num": 178313,
+      "word": "官方通报周口六院邵医生坠楼",
+      "onboard_time": 1754372963,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180395,
@@ -3907,6 +3971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165505,
+      "num": 165505,
+      "word": "每次发工资同事都假装不着急",
+      "onboard_time": 1754369665,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165102,
       "num": 165102,
       "word": "迪丽热巴金世佳对手戏太自然了",
@@ -4275,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151332,
+      "num": 151332,
+      "word": "建议离开工位前一定要把微信锁上",
+      "onboard_time": 1754369545,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151198,
       "num": 151198,
       "word": "卢昱晓折月亮状态",
@@ -4433,14 +4513,6 @@
       "onboard_time": 1754193686,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146594,
-      "num": 146594,
-      "word": "建议离开工位前一定要把微信锁上",
-      "onboard_time": 1754369545,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 145975,
@@ -4755,6 +4827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139378,
+      "num": 534591,
+      "word": "家长不愿管司法与社会也可以教做人",
+      "onboard_time": 1754371522,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139210,
       "num": 180088,
       "word": "巴基斯坦暴雨302死727伤",
@@ -4859,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137301,
+      "num": 137301,
+      "word": "路怡向易烊千玺粉丝道歉",
+      "onboard_time": 1754373142,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137254,
       "num": 137254,
       "word": "小区卖盒饭一天收入580元",
@@ -4897,14 +4985,6 @@
       "onboard_time": 1754295983,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136348,
-      "num": 136348,
-      "word": "每次发工资同事都假装不着急",
-      "onboard_time": 1754369665,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 136074,
@@ -5073,6 +5153,14 @@
       "onboard_time": 1754367985,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130642,
+      "num": 130642,
+      "word": "曾舜晞九门下跪路透",
+      "onboard_time": 1754372842,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 130031,
@@ -5819,14 +5907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117090,
-      "num": 117090,
-      "word": "敖瑞鹏常华森 双生魔丸的不同选择",
-      "onboard_time": 1754372182,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116748,
       "num": 116748,
       "word": "厨子终于在恋综里站起来了",
@@ -5881,6 +5961,14 @@
       "onboard_time": 1754231965,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115026,
+      "num": 419633,
+      "word": "官方通报周口六院邵医生坠亡",
+      "onboard_time": 1754372543,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 114857,
@@ -6363,6 +6451,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 102465,
+      "num": 164576,
+      "word": "照相馆英文片名是铁证如山",
+      "onboard_time": 1754373083,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102296,
       "num": 102296,
       "word": "14岁女生被殴打校外霸凌须校内防",
@@ -6785,6 +6881,14 @@
       "onboard_time": 1754133024,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91464,
+      "num": 130674,
+      "word": "刘昊然能不能替我面试",
+      "onboard_time": 1754372662,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 91401,
@@ -7379,14 +7483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67051,
-      "num": 534591,
-      "word": "家长不愿管司法与社会也可以教做人",
-      "onboard_time": 1754371522,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66951,
       "num": 87175,
       "word": "冲进海里救人的腹肌哥找到了",
@@ -7803,6 +7899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46109,
+      "num": 286538,
+      "word": "锤娜丽莎9块9宵夜太香了",
+      "onboard_time": 1754372842,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45665,
       "num": 260574,
       "word": "智搜教你暴雨这样避险",
@@ -7953,14 +8057,6 @@
       "onboard_time": 1754176158,
       "rank": 9,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 31044,
-      "num": 121105,
-      "word": "光遇",
-      "onboard_time": 1754328078,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 30030,
@@ -8267,8 +8363,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4600,
-      "num": 1064395,
+      "raw_hot": 5389,
+      "num": 1159186,
       "word": "运20超燃重装空投画面",
       "onboard_time": 1754278043,
       "rank": 2,

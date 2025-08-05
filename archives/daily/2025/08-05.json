@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754372226684,
+  "endTime": 1754373232549,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1733212,
-      "num": 1733212,
+      "raw_hot": 1987832,
+      "num": 1987832,
       "word": "社保",
       "onboard_time": 1754369963,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1290594,
+      "num": 1290594,
+      "word": "创始人回应赵露思沙拉没放酱",
+      "onboard_time": 1754369125,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1266251,
       "num": 1266251,
       "word": "赵露思说曾黎通过直播确认她状态",
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1152388,
-      "num": 1152388,
-      "word": "创始人回应赵露思沙拉没放酱",
-      "onboard_time": 1754369125,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 1122798,
+      "num": 1122798,
+      "word": "少林寺离职潮",
+      "onboard_time": 1754370025,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1034416,
@@ -88,14 +96,6 @@
       "word": "缴纳社保不能自愿放弃",
       "onboard_time": 1754361201,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 898148,
-      "num": 898148,
-      "word": "少林寺离职潮",
-      "onboard_time": 1754370025,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1754363542,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718858,
+      "num": 718858,
+      "word": "男子背80斤蜜雪冰城上山卖15元",
+      "onboard_time": 1754370503,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 686049,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624832,
+      "num": 532310,
+      "word": "于正说白鹿团队全内娱最好",
+      "onboard_time": 1754369363,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624335,
       "num": 206231,
       "word": "江油警方回应14岁少女被殴打关键问题",
@@ -203,27 +219,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 532310,
-      "num": 532310,
-      "word": "于正说白鹿团队全内娱最好",
-      "onboard_time": 1754369363,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 523543,
       "num": 523543,
       "word": "警方通报奔驰车超车逼停摩托",
       "onboard_time": 1754354423,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 512842,
-      "num": 512842,
-      "word": "男子背80斤蜜雪冰城上山卖15元",
-      "onboard_time": 1754370503,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391530,
+      "num": 391530,
+      "word": "酷似大S走红女生删除视频",
+      "onboard_time": 1754368284,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359569,
       "num": 359569,
       "word": "河南遭遇旱情",
@@ -355,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350624,
+      "num": 350624,
+      "word": "利剑玫瑰评论异常",
+      "onboard_time": 1754372182,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318781,
       "num": 318781,
       "word": "赵露思说有点不敢推荐东西了",
       "onboard_time": 1754324962,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316639,
+      "num": 316639,
+      "word": "恋与深空运营方被起诉",
+      "onboard_time": 1754371522,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 315958,
@@ -401,14 +425,6 @@
       "onboard_time": 1754325560,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275914,
-      "num": 275914,
-      "word": "恋与深空运营方被起诉",
-      "onboard_time": 1754371522,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 269425,
@@ -467,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244311,
+      "num": 244311,
+      "word": "光遇",
+      "onboard_time": 1754328078,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243447,
       "num": 254446,
       "word": "虞书欣告黑案胜诉",
@@ -483,12 +507,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232543,
+      "num": 232543,
+      "word": "燕云十六声",
+      "onboard_time": 1754372842,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 232123,
+      "num": 232123,
+      "word": "赵露思说很难想象普通上班族出这事",
+      "onboard_time": 1754372364,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229678,
       "num": 229678,
       "word": "上门做饭一天赚了800元",
       "onboard_time": 1754366183,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 226706,
+      "num": 226706,
+      "word": "网易旗下多款游戏回应",
+      "onboard_time": 1754372903,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 223717,
@@ -505,14 +553,6 @@
       "onboard_time": 1754363723,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 214456,
-      "num": 214456,
-      "word": "酷似大S走红女生删除视频",
-      "onboard_time": 1754368284,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 213838,
@@ -539,12 +579,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 205753,
-      "num": 205753,
-      "word": "利剑玫瑰评论异常",
-      "onboard_time": 1754372182,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 204123,
+      "num": 204123,
+      "word": "女子例假后游泳大出血向场馆索赔",
+      "onboard_time": 1754372783,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203699,
@@ -627,6 +667,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 194704,
+      "num": 194704,
+      "word": "敖瑞鹏常华森 双生魔丸的不同选择",
+      "onboard_time": 1754372182,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "张予曦毕雯珺GLASSVISION封面",
+      "onboard_time": 1754372482,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193651,
       "num": 193651,
       "word": "人类幼崽的社交真的很简单",
@@ -673,6 +729,14 @@
       "onboard_time": 1754349198,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180809,
+      "num": 178313,
+      "word": "官方通报周口六院邵医生坠楼",
+      "onboard_time": 1754372963,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180203,
@@ -755,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165505,
+      "num": 165505,
+      "word": "每次发工资同事都假装不着急",
+      "onboard_time": 1754369665,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162535,
       "num": 162535,
       "word": "恋综男嘉宾比腿毛真不中了",
@@ -835,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151332,
+      "num": 151332,
+      "word": "建议离开工位前一定要把微信锁上",
+      "onboard_time": 1754369545,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150824,
       "num": 150824,
       "word": "张元英红昭愿卡点摇",
@@ -859,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146594,
-      "num": 146594,
-      "word": "建议离开工位前一定要把微信锁上",
-      "onboard_time": 1754369545,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 139378,
+      "num": 534591,
+      "word": "家长不愿管司法与社会也可以教做人",
+      "onboard_time": 1754371522,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139210,
@@ -891,12 +971,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136348,
-      "num": 136348,
-      "word": "每次发工资同事都假装不着急",
-      "onboard_time": 1754369665,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 137301,
+      "num": 137301,
+      "word": "路怡向易烊千玺粉丝道歉",
+      "onboard_time": 1754373142,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 134680,
@@ -921,6 +1001,14 @@
       "onboard_time": 1754367985,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130642,
+      "num": 130642,
+      "word": "曾舜晞九门下跪路透",
+      "onboard_time": 1754372842,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 128048,
@@ -1035,12 +1123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117090,
-      "num": 117090,
-      "word": "敖瑞鹏常华森 双生魔丸的不同选择",
-      "onboard_time": 1754372182,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 115026,
+      "num": 419633,
+      "word": "官方通报周口六院邵医生坠亡",
+      "onboard_time": 1754372543,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 114181,
@@ -1105,6 +1193,14 @@
       "onboard_time": 1754359762,
       "rank": 41,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 102465,
+      "num": 164576,
+      "word": "照相馆英文片名是铁证如山",
+      "onboard_time": 1754373083,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 101686,
@@ -1177,6 +1273,14 @@
       "onboard_time": 1754315964,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91464,
+      "num": 130674,
+      "word": "刘昊然能不能替我面试",
+      "onboard_time": 1754372662,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 90329,
@@ -1353,14 +1457,6 @@
       "onboard_time": 1754360482,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 67051,
-      "num": 534591,
-      "word": "家长不愿管司法与社会也可以教做人",
-      "onboard_time": 1754371522,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66939,
@@ -1555,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46109,
+      "num": 286538,
+      "word": "锤娜丽莎9块9宵夜太香了",
+      "onboard_time": 1754372842,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43269,
       "num": 53754,
       "word": "第一次见这么混血的语言系统",
@@ -1617,14 +1721,6 @@
       "onboard_time": 1754366785,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31044,
-      "num": 121105,
-      "word": "光遇",
-      "onboard_time": 1754328078,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 30000,
@@ -1699,8 +1795,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4600,
-      "num": 1064395,
+      "raw_hot": 5389,
+      "num": 1159186,
       "word": "运20超燃重装空投画面",
       "onboard_time": 1754278043,
       "rank": 2,
