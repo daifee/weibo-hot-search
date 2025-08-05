@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754399737251,
+  "endTime": 1754401854312,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2177897,
+      "num": 1499100,
+      "word": "香港警方冒暴雨寻无头尸头颅",
+      "onboard_time": 1754397862,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2132987,
       "num": 428260,
       "word": "赵露思爸爸前年确诊癌症",
@@ -259,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1738307,
+      "num": 570122,
+      "word": "香港无头男尸头部已找到",
+      "onboard_time": 1754398883,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1711373,
       "num": 1711373,
       "word": "赵露思回复利用网友解约",
@@ -345,14 +361,6 @@
       "onboard_time": 1754185343,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1499100,
-      "num": 1499100,
-      "word": "香港警方冒暴雨寻无头尸头颅",
-      "onboard_time": 1754397862,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1438775,
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 702526,
-      "num": 336987,
+      "num": 346951,
       "word": "曹格 章若楠太可爱啦",
       "onboard_time": 1754395823,
       "rank": 10,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1754202442,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 656694,
+      "num": 1105071,
+      "word": "再见爱人5嘉宾",
+      "onboard_time": 1754396182,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 653461,
@@ -1260,7 +1276,7 @@
     },
     {
       "raw_hot": 600938,
-      "num": 327651,
+      "num": 328061,
       "word": "看完钟丽缇女儿妆教彻底没脾气了",
       "onboard_time": 1754394322,
       "rank": 11,
@@ -1779,14 +1795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 440455,
-      "num": 440455,
-      "word": "再见爱人5嘉宾",
-      "onboard_time": 1754396182,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 440445,
       "num": 440445,
       "word": "恋人24集变更为14集",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1754282306,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413950,
+      "num": 316507,
+      "word": "3岁宝宝确认先天体操圣体",
+      "onboard_time": 1754398944,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408562,
@@ -2267,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326269,
+      "num": 257901,
+      "word": "长期睡眠不足的人有7个表现",
+      "onboard_time": 1754401283,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 325141,
       "num": 268909,
       "word": "刘宇宁掐脖摇",
@@ -2331,6 +2355,14 @@
       "category": "电竞,综艺"
     },
     {
+      "raw_hot": 315791,
+      "num": 315791,
+      "word": "南京地铁五号线全线贯通运营",
+      "onboard_time": 1754399003,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314976,
       "num": 254830,
       "word": "恋综首例香饽男诞生了",
@@ -2345,14 +2377,6 @@
       "onboard_time": 1754216303,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 309778,
-      "num": 309778,
-      "word": "南京地铁五号线全线贯通运营",
-      "onboard_time": 1754399003,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309229,
@@ -2449,6 +2473,14 @@
       "onboard_time": 1754212344,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295311,
+      "num": 295311,
+      "word": "管乐小酒窝cha了美美桑内",
+      "onboard_time": 1754396123,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 294606,
@@ -2569,14 +2601,6 @@
       "onboard_time": 1754228426,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 281907,
-      "num": 281907,
-      "word": "管乐小酒窝cha了美美桑内",
-      "onboard_time": 1754396123,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 279826,
@@ -2905,14 +2929,6 @@
       "onboard_time": 1754183662,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 242047,
-      "num": 242047,
-      "word": "3岁宝宝确认先天体操圣体",
-      "onboard_time": 1754398944,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241879,
@@ -3299,14 +3315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208639,
-      "num": 208639,
-      "word": "香港无头男尸头部已找到",
-      "onboard_time": 1754398883,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208117,
       "num": 208117,
       "word": "坠楼医生最后愿望是替自己正名",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1754296464,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207481,
+      "num": 207481,
+      "word": "孔雪儿新剧妆造必有高人指点",
+      "onboard_time": 1754401103,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 207314,
@@ -3963,6 +3979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185352,
+      "num": 176565,
+      "word": "吴迪爸爸与女儿遭遇车祸",
+      "onboard_time": 1754400085,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185335,
       "num": 185335,
       "word": "单依纯帮唱 王力宏",
@@ -4065,6 +4089,14 @@
       "onboard_time": 1754230765,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182749,
+      "num": 182749,
+      "word": "王楚然收扇那一下",
+      "onboard_time": 1754401463,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 182389,
@@ -4257,6 +4289,14 @@
       "onboard_time": 1754290522,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176144,
+      "num": 176144,
+      "word": "赵露思说官司忙得打不过来",
+      "onboard_time": 1754399243,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 175986,
@@ -5059,6 +5099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152569,
+      "num": 152569,
+      "word": "心动8方益炯和offer的张洽隔壁班",
+      "onboard_time": 1754401463,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152563,
       "num": 185873,
       "word": "亮证女报警称怀疑车辆被套牌",
@@ -5283,6 +5331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148161,
+      "num": 148161,
+      "word": "利剑玫瑰编剧",
+      "onboard_time": 1754401103,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148133,
       "num": 148133,
       "word": "谢娜爸爸看倪萍评价没睡着觉",
@@ -5337,14 +5393,6 @@
       "onboard_time": 1754193686,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146373,
-      "num": 146373,
-      "word": "赵露思说官司忙得打不过来",
-      "onboard_time": 1754399243,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 146220,
@@ -5971,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134200,
+      "num": 217952,
+      "word": "孙艺珍说玄彬最辛苦了",
+      "onboard_time": 1754394444,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134191,
       "num": 134191,
       "word": "鹿晗season4亚洲巡演",
@@ -6097,6 +6153,14 @@
       "onboard_time": 1754372842,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130572,
+      "num": 130572,
+      "word": "少林寺迎新住持一周后",
+      "onboard_time": 1754400503,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130514,
@@ -6275,6 +6339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127455,
+      "num": 127455,
+      "word": "谁懂迪丽热巴这段的层次感",
+      "onboard_time": 1754399605,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127408,
       "num": 152272,
       "word": "赵奕欢你的权威我后知后觉",
@@ -6297,6 +6369,14 @@
       "onboard_time": 1754307082,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127241,
+      "num": 127241,
+      "word": "周也头像",
+      "onboard_time": 1754398522,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 127172,
@@ -6403,14 +6483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126376,
-      "num": 217952,
-      "word": "孙艺珍说玄彬最辛苦了",
-      "onboard_time": 1754394444,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126246,
       "num": 126246,
       "word": "许嵩回到庐州唱庐州月",
@@ -6507,6 +6579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 124104,
+      "num": 124104,
+      "word": "丹麦一动物园呼吁捐宠物喂肉食动物",
+      "onboard_time": 1754400443,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123661,
       "num": 123661,
       "word": "顶奢能给的待遇都给王一博了",
@@ -6579,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122445,
+      "num": 122445,
+      "word": "宋亚轩中学时期合照",
+      "onboard_time": 1754401343,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122428,
       "num": 122428,
       "word": "在便利店上班的人嘴真严啊",
@@ -6625,6 +6713,14 @@
       "onboard_time": 1754196024,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121817,
+      "num": 121817,
+      "word": "南昌地铁回应女生制止吸烟反遭掌掴",
+      "onboard_time": 1754401103,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121538,
@@ -6713,14 +6809,6 @@
       "onboard_time": 1754281886,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 120768,
-      "num": 120768,
-      "word": "谁懂迪丽热巴这段的层次感",
-      "onboard_time": 1754399605,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 120503,
@@ -6899,6 +6987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118224,
+      "num": 118224,
+      "word": "干吃蒙脱石散有多危险",
+      "onboard_time": 1754401103,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118201,
       "num": 118201,
       "word": "鹿晗演唱会自拍airdrop给所有人",
@@ -7024,14 +7120,6 @@
       "word": "张新成当年的承诺兑现了",
       "onboard_time": 1754315005,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 115603,
-      "num": 115603,
-      "word": "周也头像",
-      "onboard_time": 1754398522,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -8419,6 +8507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87746,
+      "num": 354526,
+      "word": "浙大一青年博导被曝坠楼身亡",
+      "onboard_time": 1754401283,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87689,
       "num": 87689,
       "word": "给小狗的阿贝贝做手术",
@@ -8713,6 +8809,14 @@
       "onboard_time": 1754212764,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 78058,
+      "num": 176588,
+      "word": "香港无头尸体死者是54岁美国籍男子",
+      "onboard_time": 1754401343,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77852,
@@ -9035,6 +9139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65629,
+      "num": 259540,
+      "word": "香港男子坠亡发现时头部陷入身体",
+      "onboard_time": 1754401283,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65590,
       "num": 134231,
       "word": "一起庆祝西藏自治区成立60周年",
@@ -9291,6 +9403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53250,
+      "num": 259813,
+      "word": "王骁才是最佳旅行搭子",
+      "onboard_time": 1754401405,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52780,
       "num": 156864,
       "word": "河南产粮第一大市周口遇高温旱情",
@@ -9321,6 +9441,14 @@
       "onboard_time": 1754350942,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 52652,
+      "num": 260936,
+      "word": "MG4破解特斯拉专利花5亿",
+      "onboard_time": 1754399063,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 52537,
@@ -9481,14 +9609,6 @@
       "onboard_time": 1754306482,
       "rank": 16,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 44259,
-      "num": 254718,
-      "word": "MG4破解特斯拉专利花5亿",
-      "onboard_time": 1754399063,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 43269,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754401854312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 656694,
+        "num": 1105071,
+        "word": "再见爱人5嘉宾",
+        "onboard_time": 1754396182,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2177897,
+        "num": 1009713,
+        "word": "香港警方冒暴雨寻无头尸头颅",
+        "onboard_time": 1754397862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77241,
+        "num": 572478,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1754385863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1738307,
+        "num": 570122,
+        "word": "香港无头男尸头部已找到",
+        "onboard_time": 1754398883,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559430,
+        "num": 559430,
+        "word": "28岁女子口臭5年查出胃癌前病变",
+        "onboard_time": 1754393604,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449121,
+        "num": 449121,
+        "word": "FRED斐登 鞠婧祎",
+        "onboard_time": 1754389163,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438496,
+        "num": 438496,
+        "word": "男子卖4根金条6张银行卡被封",
+        "onboard_time": 1754391983,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421023,
+        "num": 421023,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 7,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 358059,
+        "num": 358059,
+        "word": "社保新规9月1日起实施",
+        "onboard_time": 1754382084,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87746,
+        "num": 354526,
+        "word": "浙大一青年博导被曝坠楼身亡",
+        "onboard_time": 1754401283,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612156,
+        "num": 346951,
+        "word": "曹格 章若楠太可爱啦",
+        "onboard_time": 1754395823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452644,
+        "num": 328061,
+        "word": "看完钟丽缇女儿妆教彻底没脾气了",
+        "onboard_time": 1754394322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413950,
+        "num": 316507,
+        "word": "3岁宝宝确认先天体操圣体",
+        "onboard_time": 1754398944,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315791,
+        "num": 315791,
+        "word": "南京地铁五号线全线贯通运营",
+        "onboard_time": 1754399003,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295311,
+        "num": 295311,
+        "word": "管乐小酒窝cha了美美桑内",
+        "onboard_time": 1754396123,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261695,
+        "num": 261695,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261064,
+        "num": 261064,
+        "word": "热巴状态",
+        "onboard_time": 1754393302,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52652,
+        "num": 260936,
+        "word": "MG4破解特斯拉专利花5亿",
+        "onboard_time": 1754399063,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53250,
+        "num": 259813,
+        "word": "王骁才是最佳旅行搭子",
+        "onboard_time": 1754401405,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65629,
+        "num": 259540,
+        "word": "香港男子坠亡发现时头部陷入身体",
+        "onboard_time": 1754401283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326551,
+        "num": 258420,
+        "word": "尚九熙回应",
+        "onboard_time": 1754379682,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326269,
+        "num": 257901,
+        "word": "长期睡眠不足的人有7个表现",
+        "onboard_time": 1754401283,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272686,
+        "num": 256928,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256862,
+        "num": 256862,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227336,
+        "num": 227336,
+        "word": "时代少年团上海四场连开",
+        "onboard_time": 1754388924,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222277,
+        "num": 222277,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216818,
+        "num": 216818,
+        "word": "李心艾产女",
+        "onboard_time": 1754391564,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207481,
+        "num": 207481,
+        "word": "孔雪儿新剧妆造必有高人指点",
+        "onboard_time": 1754401103,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182749,
+        "num": 182749,
+        "word": "王楚然收扇那一下",
+        "onboard_time": 1754401463,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78058,
+        "num": 176588,
+        "word": "香港无头尸体死者是54岁美国籍男子",
+        "onboard_time": 1754401343,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185352,
+        "num": 176565,
+        "word": "吴迪爸爸与女儿遭遇车祸",
+        "onboard_time": 1754400085,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176144,
+        "num": 176144,
+        "word": "赵露思说官司忙得打不过来",
+        "onboard_time": 1754399243,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163126,
+        "num": 163126,
+        "word": "29岁确诊闭经",
+        "onboard_time": 1754387664,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155818,
+        "num": 155818,
+        "word": "活佛转世不由达赖喇嘛个人说了算",
+        "onboard_time": 1754386704,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154224,
+        "num": 154224,
+        "word": "德云社",
+        "onboard_time": 1754383044,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153174,
+        "num": 153174,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754396603,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152569,
+        "num": 152569,
+        "word": "心动8方益炯和offer的张洽隔壁班",
+        "onboard_time": 1754401463,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149814,
+        "num": 149814,
+        "word": "我的学信网以后不会再更新了",
+        "onboard_time": 1754384065,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148161,
+        "num": 148161,
+        "word": "利剑玫瑰编剧",
+        "onboard_time": 1754401103,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134200,
+        "num": 134200,
+        "word": "孙艺珍说玄彬最辛苦了",
+        "onboard_time": 1754394444,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130572,
+        "num": 130572,
+        "word": "少林寺迎新住持一周后",
+        "onboard_time": 1754400503,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127455,
+        "num": 127455,
+        "word": "谁懂迪丽热巴这段的层次感",
+        "onboard_time": 1754399605,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127241,
+        "num": 127241,
+        "word": "周也头像",
+        "onboard_time": 1754398522,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124104,
+        "num": 124104,
+        "word": "丹麦一动物园呼吁捐宠物喂肉食动物",
+        "onboard_time": 1754400443,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122445,
+        "num": 122445,
+        "word": "宋亚轩中学时期合照",
+        "onboard_time": 1754401343,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122255,
+        "num": 122255,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122117,
+        "num": 122117,
+        "word": "在微信状态养只懒羊羊",
+        "onboard_time": 1754392941,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121817,
+        "num": 121817,
+        "word": "南昌地铁回应女生制止吸烟反遭掌掴",
+        "onboard_time": 1754401103,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119096,
+        "num": 119096,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1754379262,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118224,
+        "num": 118224,
+        "word": "干吃蒙脱石散有多危险",
+        "onboard_time": 1754401103,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平就网民对十五五建议作出重要指示#"
+    }
+  }
+}
