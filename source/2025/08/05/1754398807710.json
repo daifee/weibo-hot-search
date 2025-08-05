@@ -1,0 +1,410 @@
+{
+  "runTime": 1754398807710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 779224,
+        "num": 1124675,
+        "word": "男子卖4根金条6张银行卡被封",
+        "onboard_time": 1754391983,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713691,
+        "num": 713691,
+        "word": "香港警方冒暴雨寻无头尸头颅",
+        "onboard_time": 1754397862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2562,
+        "num": 657820,
+        "word": "中国军人高燃大片根本看不够",
+        "onboard_time": 1754341154,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757199,
+        "num": 657100,
+        "word": "28岁女子口臭5年查出胃癌前病变",
+        "onboard_time": 1754393604,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652425,
+        "num": 652425,
+        "word": "韩国部分企业放10天高温假",
+        "onboard_time": 1754392823,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 510156,
+        "num": 510156,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 5,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 398161,
+        "num": 398161,
+        "word": "FRED斐登 鞠婧祎",
+        "onboard_time": 1754389163,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380510,
+        "num": 380510,
+        "word": "社保新规9月1日起实施",
+        "onboard_time": 1754382084,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352389,
+        "num": 352389,
+        "word": "再见爱人5嘉宾",
+        "onboard_time": 1754396182,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75368,
+        "num": 342666,
+        "word": "10.15亿元支持受灾地恢复农业生产",
+        "onboard_time": 1754398163,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702526,
+        "num": 336987,
+        "word": "曹格 章若楠太可爱啦",
+        "onboard_time": 1754395823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600938,
+        "num": 327651,
+        "word": "看完钟丽缇女儿妆教彻底没脾气了",
+        "onboard_time": 1754394322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463936,
+        "num": 306686,
+        "word": "李心艾产女",
+        "onboard_time": 1754391564,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390893,
+        "num": 295563,
+        "word": "热巴状态",
+        "onboard_time": 1754393302,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292837,
+        "num": 292837,
+        "word": "再见爱人5",
+        "onboard_time": 1754390484,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288368,
+        "num": 288368,
+        "word": "活佛转世不由达赖喇嘛个人说了算",
+        "onboard_time": 1754386704,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286416,
+        "num": 286416,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280089,
+        "num": 280089,
+        "word": "时代少年团上海四场连开",
+        "onboard_time": 1754388924,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277655,
+        "num": 277655,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202017,
+        "num": 274150,
+        "word": "管乐小酒窝cha了美美桑内",
+        "onboard_time": 1754396123,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439652,
+        "num": 273829,
+        "word": "尚九熙回应",
+        "onboard_time": 1754379682,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378408,
+        "num": 273826,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272847,
+        "num": 272847,
+        "word": "29岁确诊闭经",
+        "onboard_time": 1754387664,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251928,
+        "num": 251928,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180362,
+        "num": 180362,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754396603,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175647,
+        "num": 175647,
+        "word": "在微信状态养只懒羊羊",
+        "onboard_time": 1754392941,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170286,
+        "num": 170286,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163937,
+        "num": 163937,
+        "word": "难怪小说女主能在房间里关一天",
+        "onboard_time": 1754382025,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163467,
+        "num": 163467,
+        "word": "EXO爱丽生日",
+        "onboard_time": 1754398404,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162683,
+        "num": 162683,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1754385863,
+        "rank": 29,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 158159,
+        "num": 158159,
+        "word": "德云社",
+        "onboard_time": 1754383044,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141922,
+        "num": 141922,
+        "word": "高温假",
+        "onboard_time": 1754394743,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141301,
+        "num": 141301,
+        "word": "我的学信网以后不会再更新了",
+        "onboard_time": 1754384065,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130047,
+        "num": 130047,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1754379262,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118812,
+        "num": 118812,
+        "word": "杨洋 演员的顶级信念感",
+        "onboard_time": 1754395582,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117505,
+        "num": 117505,
+        "word": "吴磊好大一只",
+        "onboard_time": 1754393182,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116444,
+        "num": 116444,
+        "word": "管乐小酒窝合影",
+        "onboard_time": 1754397983,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112721,
+        "num": 112721,
+        "word": "关晓彤出汗的腿像打了高光",
+        "onboard_time": 1754382805,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111911,
+        "num": 111911,
+        "word": "王玉雯让意大利吹吹中国风",
+        "onboard_time": 1754395763,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1226,
+        "num": 110273,
+        "word": "我的自由泳是杰瑞教的",
+        "onboard_time": 1754397682,
+        "rank": 39,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 110009,
+        "num": 110009,
+        "word": "孙楠减重20多斤",
+        "onboard_time": 1754398044,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95996,
+        "num": 95996,
+        "word": "谢兴阳买房",
+        "onboard_time": 1754390904,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95065,
+        "num": 95065,
+        "word": "不敢想住在这个房子里有多开朗",
+        "onboard_time": 1754397263,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94899,
+        "num": 94899,
+        "word": "周也头像",
+        "onboard_time": 1754398522,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93699,
+        "num": 93699,
+        "word": "加沙儿童严重脱水哭时没有一滴眼泪",
+        "onboard_time": 1754394203,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93425,
+        "num": 93425,
+        "word": "战至巅峰4",
+        "onboard_time": 1754394203,
+        "rank": 45,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 90658,
+        "num": 90658,
+        "word": "肖战表演状态有多细腻",
+        "onboard_time": 1754398285,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86003,
+        "num": 86003,
+        "word": "你们不会先省再花吗",
+        "onboard_time": 1754398763,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85246,
+        "num": 85753,
+        "word": "吴邪都没找到的路被改成景区了",
+        "onboard_time": 1754397562,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 71378,
+        "num": 85616,
+        "word": "中国男篮首战迎战沙特",
+        "onboard_time": 1754398763,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
