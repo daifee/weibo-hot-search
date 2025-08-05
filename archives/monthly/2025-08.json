@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754419399649,
+  "endTime": 1754420296934,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -14035,6 +14035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101162,
+      "num": 76761,
+      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+      "onboard_time": 1754417056,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100998,
       "num": 100998,
       "word": "女孩游泳课后展示街舞又美又飒",
@@ -14809,14 +14817,6 @@
       "onboard_time": 1754215285,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91219,
-      "num": 76761,
-      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
-      "onboard_time": 1754417056,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90938,
@@ -17267,12 +17267,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24108,
+      "num": 43324,
+      "word": "王源原创新歌雪崩",
+      "onboard_time": 1754419335,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 24019,
       "num": 104761,
       "word": "校庆捐款 千班万元",
       "onboard_time": 1754393422,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23973,
+      "num": 43346,
+      "word": "电影东极岛",
+      "onboard_time": 1754417237,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 23706,
@@ -17283,28 +17299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23590,
-      "num": 43346,
-      "word": "电影东极岛",
-      "onboard_time": 1754417237,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 23366,
       "num": 993035,
       "word": "网警倡议共筑网络安全堤坝为抗洪护航",
       "onboard_time": 1754187561,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22765,
-      "num": 43324,
-      "word": "王源原创新歌雪崩",
-      "onboard_time": 1754419335,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 22672,
@@ -17369,6 +17369,14 @@
       "onboard_time": 1754289803,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20127,
+      "num": 23935,
+      "word": "马库斯回应捐日军侵华照片",
+      "onboard_time": 1754420235,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19781,
