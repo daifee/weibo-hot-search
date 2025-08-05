@@ -1,0 +1,410 @@
+{
+  "runTime": 1754408803626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985252,
+        "num": 1157640,
+        "word": "转账竟然是可以拦截的",
+        "onboard_time": 1754402064,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1482317,
+        "num": 1150702,
+        "word": "香港无头男尸头部已找到",
+        "onboard_time": 1754398883,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15440,
+        "num": 931841,
+        "word": "丝路万里画卷",
+        "onboard_time": 1754399482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776131,
+        "num": 776131,
+        "word": "再见爱人 王浩信",
+        "onboard_time": 1754405663,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604077,
+        "num": 604077,
+        "word": "香港无头尸体死者是54岁美国籍男子",
+        "onboard_time": 1754401343,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036506,
+        "num": 588238,
+        "word": "浙大一青年博导被曝坠楼身亡",
+        "onboard_time": 1754401283,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552636,
+        "num": 552636,
+        "word": "房主任哽咽呼吁大家不要买黄牛票",
+        "onboard_time": 1754404104,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535821,
+        "num": 535821,
+        "word": "TFBOYS十二周年",
+        "onboard_time": 1754407344,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 489692,
+        "num": 489692,
+        "word": "梨形瘦25斤的杀伤力",
+        "onboard_time": 1754405065,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177911,
+        "num": 332650,
+        "word": "中国科学院院士阮少平被打假",
+        "onboard_time": 1754406384,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321211,
+        "num": 321211,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320831,
+        "num": 320831,
+        "word": "海来阿木变化好大",
+        "onboard_time": 1754405366,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243913,
+        "num": 243913,
+        "word": "看完钟丽缇女儿妆教彻底没脾气了",
+        "onboard_time": 1754394322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228718,
+        "num": 228718,
+        "word": "巴厘岛快艇倾覆2名中国公民遇难",
+        "onboard_time": 1754404044,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224333,
+        "num": 224333,
+        "word": "14岁女生身亡现场逮捕一名13岁女生",
+        "onboard_time": 1754408243,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216128,
+        "num": 216128,
+        "word": "原来这么多短剧演员是选秀出身",
+        "onboard_time": 1754407344,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211820,
+        "num": 211820,
+        "word": "6名游客被人头蜂追着咬路人相救",
+        "onboard_time": 1754407344,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193406,
+        "num": 193406,
+        "word": "再见爱人5嘉宾",
+        "onboard_time": 1754396182,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192122,
+        "num": 192122,
+        "word": "曹格 章若楠太可爱啦",
+        "onboard_time": 1754395823,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183899,
+        "num": 183899,
+        "word": "卢昱晓 妈妈降临",
+        "onboard_time": 1754405185,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255275,
+        "num": 178256,
+        "word": "长期睡眠不足的人有7个表现",
+        "onboard_time": 1754401283,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172363,
+        "num": 172363,
+        "word": "3岁宝宝确认先天体操圣体",
+        "onboard_time": 1754398944,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169784,
+        "num": 169784,
+        "word": "孙艺珍在车里晾儿子内裤",
+        "onboard_time": 1754405244,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164609,
+        "num": 164609,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160401,
+        "num": 160401,
+        "word": "利剑玫瑰编剧",
+        "onboard_time": 1754401103,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153038,
+        "num": 153038,
+        "word": "那英宋佳现身东极岛首映礼",
+        "onboard_time": 1754407823,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148869,
+        "num": 148869,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 26,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 146706,
+        "num": 146706,
+        "word": "FRED斐登 鞠婧祎",
+        "onboard_time": 1754389163,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141800,
+        "num": 141800,
+        "word": "28岁女子口臭5年查出胃癌前病变",
+        "onboard_time": 1754393604,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85861,
+        "num": 137790,
+        "word": "游泳馆回应女子例假后游泳大出血",
+        "onboard_time": 1754407884,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134459,
+        "num": 134459,
+        "word": "河南旱情玉米叶子卷得像油条",
+        "onboard_time": 1754405604,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124924,
+        "num": 124924,
+        "word": "时代少年团上海四场连开",
+        "onboard_time": 1754388924,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118558,
+        "num": 118558,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104691,
+        "num": 104691,
+        "word": "王楚然收扇那一下",
+        "onboard_time": 1754401463,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103678,
+        "num": 103678,
+        "word": "红姨全家福",
+        "onboard_time": 1754408302,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103576,
+        "num": 103576,
+        "word": "宋亚轩中学时期合照",
+        "onboard_time": 1754401343,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102290,
+        "num": 102290,
+        "word": "热巴状态",
+        "onboard_time": 1754393302,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101432,
+        "num": 101432,
+        "word": "孔雪儿新剧妆造必有高人指点",
+        "onboard_time": 1754401103,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100869,
+        "num": 100869,
+        "word": "社保新规9月1日起实施",
+        "onboard_time": 1754382084,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100199,
+        "num": 100199,
+        "word": "南京地铁五号线全线贯通运营",
+        "onboard_time": 1754399003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53555,
+        "num": 99622,
+        "word": "韩国汉江上行走的猫被收养",
+        "onboard_time": 1754407643,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99493,
+        "num": 99493,
+        "word": "敖瑞鹏古装",
+        "onboard_time": 1754407223,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97488,
+        "num": 97488,
+        "word": "山姆给产品贴洋牌制造进口平替",
+        "onboard_time": 1754402485,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22661,
+        "num": 97276,
+        "word": "中国稀土竟然还有这样的用处",
+        "onboard_time": 1754408723,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97272,
+        "num": 97272,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72946,
+        "num": 94677,
+        "word": "28元机选中660多万54天无人认领",
+        "onboard_time": 1754407523,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94641,
+        "num": 94641,
+        "word": "男子卖4根金条6张银行卡被封",
+        "onboard_time": 1754391983,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93467,
+        "num": 93467,
+        "word": "尚九熙回应",
+        "onboard_time": 1754379682,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91986,
+        "num": 91986,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754396603,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88745,
+        "num": 88745,
+        "word": "罗小黑他的猫猫不见了",
+        "onboard_time": 1754407223,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
