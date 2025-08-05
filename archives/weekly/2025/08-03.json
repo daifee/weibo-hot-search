@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754350998267,
+  "endTime": 1754360549147,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -611,6 +611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 804211,
+      "num": 203949,
+      "word": "岳云鹏深夜发长文",
+      "onboard_time": 1754355144,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 801624,
       "num": 801624,
       "word": "广东新增2892例基孔肯雅热本地病例",
@@ -625,6 +633,14 @@
       "onboard_time": 1754182102,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774188,
+      "num": 136825,
+      "word": "赵露思曝入行第一个月收入2500",
+      "onboard_time": 1754355442,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 765294,
@@ -1051,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523543,
+      "num": 523543,
+      "word": "警方通报奔驰车超车逼停摩托",
+      "onboard_time": 1754354423,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 521012,
       "num": 521012,
       "word": "理想回应i8安全性碰撞测试",
@@ -1096,6 +1120,14 @@
       "word": "小孩多次甩飞捶打小猫致死",
       "onboard_time": 1754306542,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497080,
+      "num": 497080,
+      "word": "深圳暴雨",
+      "onboard_time": 1754349678,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1193,6 +1225,14 @@
       "onboard_time": 1754280204,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453225,
+      "num": 453225,
+      "word": "江油官方辟谣施暴者为官二代",
+      "onboard_time": 1754359281,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446901,
@@ -1315,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407832,
+      "num": 138341,
+      "word": "加拿大女子嫁给高1.2米印裔男子",
+      "onboard_time": 1754357363,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 401549,
       "num": 307712,
       "word": "孟子义秒认李昀锐",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1754283984,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 395226,
+      "num": 395226,
+      "word": "奔驰车逼停摩托双方均不接受调解",
+      "onboard_time": 1754355982,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393506,
@@ -1515,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343006,
-      "num": 343006,
-      "word": "深圳暴雨",
-      "onboard_time": 1754349678,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 342829,
       "num": 342829,
       "word": "日本老龄化具象化了",
@@ -1675,6 +1723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 309478,
+      "num": 309478,
+      "word": "高温天要在南北方换班了",
+      "onboard_time": 1754358802,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309229,
       "num": 309229,
       "word": "赵丽颖金蛇单肩裙",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1754295803,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295440,
+      "num": 295440,
+      "word": "印方称批评印度国家与俄进行贸易",
+      "onboard_time": 1754354903,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295322,
@@ -2227,6 +2291,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 223717,
+      "num": 137489,
+      "word": "女子将蜡烛放进冰箱烧掉顶部",
+      "onboard_time": 1754353581,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222788,
       "num": 410935,
       "word": "中国队女子4x100米混合接力铜牌",
@@ -2331,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211418,
+      "num": 203856,
+      "word": "黄一鸣自曝花10万整容",
+      "onboard_time": 1754351961,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210462,
       "num": 210462,
       "word": "古偶又争又抢男狐狸精来了",
@@ -2409,6 +2489,14 @@
       "onboard_time": 1754274681,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205114,
+      "num": 205114,
+      "word": "经常运动后身体会发生的变化",
+      "onboard_time": 1754357182,
+      "rank": 9,
+      "category": "运动健身"
     },
     {
       "raw_hot": 205110,
@@ -2497,6 +2585,22 @@
       "onboard_time": 1754291423,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200254,
+      "num": 200254,
+      "word": "秃子被围攻",
+      "onboard_time": 1754355504,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200176,
+      "num": 200176,
+      "word": "死神来了6定档",
+      "onboard_time": 1754359461,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 199662,
@@ -3083,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175199,
+      "num": 175199,
+      "word": "方力申回应接受不了生女儿言论",
+      "onboard_time": 1754352382,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175007,
       "num": 175007,
       "word": "80岁网红凯凯爷爷去世",
@@ -3249,6 +3361,14 @@
       "onboard_time": 1754210604,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 169270,
+      "num": 169270,
+      "word": "王一博生日评论区",
+      "onboard_time": 1754350701,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 168643,
@@ -3435,6 +3555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161181,
+      "num": 135868,
+      "word": "决定颜值的基因一半跟鼻子有关",
+      "onboard_time": 1754353163,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161122,
       "num": 161122,
       "word": "整天私私私跟蛇一样",
@@ -3504,14 +3632,6 @@
       "word": "马景涛一个月打工3个景区",
       "onboard_time": 1754330237,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157781,
-      "num": 157781,
-      "word": "王一博生日评论区",
-      "onboard_time": 1754350701,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -3648,6 +3768,14 @@
       "word": "男子在地铁安检口偷拍裙底被抓现行",
       "onboard_time": 1754203463,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152295,
+      "num": 152295,
+      "word": "深圳发布暴雨红色预警信号",
+      "onboard_time": 1754353523,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4315,6 +4443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134680,
+      "num": 134680,
+      "word": "两只小猫在背包里打架",
+      "onboard_time": 1754358982,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134191,
       "num": 134191,
       "word": "鹿晗season4亚洲巡演",
@@ -4545,6 +4681,14 @@
       "onboard_time": 1754196984,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127341,
+      "num": 127341,
+      "word": "盒马告别会员店",
+      "onboard_time": 1754351001,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 127245,
@@ -4803,6 +4947,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 122074,
+      "num": 122074,
+      "word": "王一博浪漫四宫格掉落",
+      "onboard_time": 1754357363,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121965,
       "num": 121965,
       "word": "大熊猫丫丫25岁生日",
@@ -4979,6 +5131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119316,
+      "num": 119316,
+      "word": "减不了肥可能是你的计量单位用错了",
+      "onboard_time": 1754356822,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119079,
       "num": 185705,
       "word": "陈梦说女运动员也有追求美的权利",
@@ -4993,6 +5153,14 @@
       "onboard_time": 1754296584,
       "rank": 47,
       "category": "数码,数码"
+    },
+    {
+      "raw_hot": 118521,
+      "num": 118521,
+      "word": "国家一级文保华严寺殿墙遭游客刻字",
+      "onboard_time": 1754359942,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118330,
@@ -5177,6 +5345,14 @@
       "onboard_time": 1754317527,
       "rank": 43,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 114181,
+      "num": 114181,
+      "word": "真实还原我发朋友圈的目的",
+      "onboard_time": 1754356702,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 113694,
@@ -5491,6 +5667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104241,
+      "num": 104241,
+      "word": "黑神话取景地华严寺回应殿墙被刻字",
+      "onboard_time": 1754356102,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104216,
       "num": 104216,
       "word": "朱易成年组短节目第一",
@@ -5691,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97822,
+      "num": 97822,
+      "word": "日本一烟火大会发生火灾",
+      "onboard_time": 1754357901,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97816,
       "num": 97816,
       "word": "我要是于正我也天天夸张南",
@@ -5707,12 +5899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97706,
+      "num": 97706,
+      "word": "广州外卖小哥镜头下全是暖心瞬间",
+      "onboard_time": 1754359522,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97695,
       "num": 97695,
       "word": "女大学生痛经昏睡在公园被保安救治",
       "onboard_time": 1754305283,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97680,
+      "num": 97680,
+      "word": "辉子 秃子",
+      "onboard_time": 1754357002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 97443,
@@ -5753,6 +5961,14 @@
       "onboard_time": 1754291661,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96516,
+      "num": 96516,
+      "word": "俄回应美部署核潜艇",
+      "onboard_time": 1754355203,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96373,
@@ -6003,6 +6219,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89895,
+      "num": 89895,
+      "word": "小鹦鹉在主人头上睡得一出溜一出溜",
+      "onboard_time": 1754359581,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89620,
+      "num": 89620,
+      "word": "上海一餐厅回应蛋炒饭258元",
+      "onboard_time": 1754359762,
+      "rank": 41,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 89464,
       "num": 89464,
       "word": "他以婚礼名义拉起一支抗日队伍",
@@ -6083,6 +6315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87689,
+      "num": 87689,
+      "word": "给小狗的阿贝贝做手术",
+      "onboard_time": 1754356942,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87356,
       "num": 130961,
       "word": "95岁奶奶反复念叨要回新疆种瓜",
@@ -6145,6 +6385,14 @@
       "onboard_time": 1754189661,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83902,
+      "num": 83902,
+      "word": "西安公安把半个内娱都快摇来了",
+      "onboard_time": 1754351061,
+      "rank": 44,
+      "category": "正能量,艺人"
     },
     {
       "raw_hot": 83859,
@@ -6363,6 +6611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 75097,
+      "num": 119583,
+      "word": "复旦MBA回应迅猛龙入读复旦",
+      "onboard_time": 1754332575,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 74176,
       "num": 80523,
       "word": "150w人围观的刷牙不吐泡沫教程",
@@ -6385,6 +6641,22 @@
       "onboard_time": 1754321184,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73167,
+      "num": 83877,
+      "word": "第一次见用手吃饭的猫",
+      "onboard_time": 1754355922,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 72414,
+      "num": 83771,
+      "word": "电影731血证版海报",
+      "onboard_time": 1754360302,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 72076,
@@ -6481,6 +6753,14 @@
       "onboard_time": 1754306842,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67929,
+      "num": 83739,
+      "word": "爷爷的电脑记录了我的整个青春",
+      "onboard_time": 1754360482,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 67842,
@@ -6713,14 +6993,6 @@
       "onboard_time": 1754149106,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 54377,
-      "num": 75824,
-      "word": "复旦MBA回应迅猛龙入读复旦",
-      "onboard_time": 1754332575,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 53845,
@@ -7180,7 +7452,7 @@
     },
     {
       "raw_hot": 19566,
-      "num": 680452,
+      "num": 756462,
       "word": "抗战烈士回信家人说国不保家何能存",
       "onboard_time": 1754294422,
       "rank": 17,

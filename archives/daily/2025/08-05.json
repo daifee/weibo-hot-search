@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754350998267,
+  "endTime": 1754360549147,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -43,6 +43,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804211,
+      "num": 203949,
+      "word": "岳云鹏深夜发长文",
+      "onboard_time": 1754355144,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 774188,
+      "num": 136825,
+      "word": "赵露思曝入行第一个月收入2500",
+      "onboard_time": 1754355442,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 671202,
       "num": 348345,
       "word": "赵露思 姐现在忍不了任何人",
@@ -75,6 +91,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523543,
+      "num": 523543,
+      "word": "警方通报奔驰车超车逼停摩托",
+      "onboard_time": 1754354423,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497080,
+      "num": 497080,
+      "word": "深圳暴雨",
+      "onboard_time": 1754349678,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 453225,
+      "num": 453225,
+      "word": "江油官方辟谣施暴者为官二代",
+      "onboard_time": 1754359281,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442979,
       "num": 442979,
       "word": "吴艳妮光速夺冠",
@@ -91,19 +131,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 407832,
+      "num": 138341,
+      "word": "加拿大女子嫁给高1.2米印裔男子",
+      "onboard_time": 1754357363,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 395226,
+      "num": 395226,
+      "word": "奔驰车逼停摩托双方均不接受调解",
+      "onboard_time": 1754355982,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355572,
       "num": 355572,
       "word": "多个账号攻击爱国题材电影被禁言",
       "onboard_time": 1754312664,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343006,
-      "num": 343006,
-      "word": "深圳暴雨",
-      "onboard_time": 1754349678,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -113,6 +161,22 @@
       "onboard_time": 1754324962,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309478,
+      "num": 309478,
+      "word": "高温天要在南北方换班了",
+      "onboard_time": 1754358802,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295440,
+      "num": 295440,
+      "word": "印方称批评印度国家与俄进行贸易",
+      "onboard_time": 1754354903,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 286577,
@@ -139,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223717,
+      "num": 137489,
+      "word": "女子将蜡烛放进冰箱烧掉顶部",
+      "onboard_time": 1754353581,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213838,
       "num": 213838,
       "word": "历史学家许倬云逝世",
@@ -147,12 +219,44 @@
       "category": "读书作家,民生新闻"
     },
     {
+      "raw_hot": 211418,
+      "num": 203856,
+      "word": "黄一鸣自曝花10万整容",
+      "onboard_time": 1754351961,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205114,
+      "num": 205114,
+      "word": "经常运动后身体会发生的变化",
+      "onboard_time": 1754357182,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201286,
       "num": 201286,
       "word": "利剑玫瑰 口型对不上",
       "onboard_time": 1754314525,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200254,
+      "num": 200254,
+      "word": "秃子被围攻",
+      "onboard_time": 1754355504,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200176,
+      "num": 200176,
+      "word": "死神来了6定档",
+      "onboard_time": 1754359461,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 194816,
@@ -187,12 +291,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175199,
+      "num": 175199,
+      "word": "方力申回应接受不了生女儿言论",
+      "onboard_time": 1754352382,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171171,
       "num": 171171,
       "word": "上海全款150万32平米的小家",
       "onboard_time": 1754316506,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169270,
+      "num": 169270,
+      "word": "王一博生日评论区",
+      "onboard_time": 1754350701,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 167070,
@@ -203,19 +323,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161181,
+      "num": 135868,
+      "word": "决定颜值的基因一半跟鼻子有关",
+      "onboard_time": 1754353163,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158662,
       "num": 158662,
       "word": "马景涛一个月打工3个景区",
       "onboard_time": 1754330237,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157781,
-      "num": 157781,
-      "word": "王一博生日评论区",
-      "onboard_time": 1754350701,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -235,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152295,
+      "num": 152295,
+      "word": "深圳发布暴雨红色预警信号",
+      "onboard_time": 1754353523,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149399,
       "num": 149399,
       "word": "警方回应奔驰车被指逆行超车逼停摩托",
@@ -249,6 +377,22 @@
       "onboard_time": 1754349198,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134680,
+      "num": 134680,
+      "word": "两只小猫在背包里打架",
+      "onboard_time": 1754358982,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127341,
+      "num": 127341,
+      "word": "盒马告别会员店",
+      "onboard_time": 1754351001,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 125815,
@@ -267,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122074,
+      "num": 122074,
+      "word": "王一博浪漫四宫格掉落",
+      "onboard_time": 1754357363,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121141,
       "num": 121521,
       "word": "黄奕回应女儿出道",
@@ -283,6 +435,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119316,
+      "num": 119316,
+      "word": "减不了肥可能是你的计量单位用错了",
+      "onboard_time": 1754356822,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118521,
+      "num": 118521,
+      "word": "国家一级文保华严寺殿墙遭游客刻字",
+      "onboard_time": 1754359942,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114181,
+      "num": 114181,
+      "word": "真实还原我发朋友圈的目的",
+      "onboard_time": 1754356702,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113694,
       "num": 113694,
       "word": "博主曝光内蒙古一火锅店用阴阳菜单",
@@ -297,6 +473,14 @@
       "onboard_time": 1754315725,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104241,
+      "num": 104241,
+      "word": "黑神话取景地华严寺回应殿墙被刻字",
+      "onboard_time": 1754356102,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103458,
@@ -323,12 +507,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97822,
+      "num": 97822,
+      "word": "日本一烟火大会发生火灾",
+      "onboard_time": 1754357901,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97706,
+      "num": 97706,
+      "word": "广州外卖小哥镜头下全是暖心瞬间",
+      "onboard_time": 1754359522,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97680,
+      "num": 97680,
+      "word": "辉子 秃子",
+      "onboard_time": 1754357002,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97668,
       "num": 120881,
       "word": "周杰伦晒儿子滑雪视频",
       "onboard_time": 1754319386,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96516,
+      "num": 96516,
+      "word": "俄回应美部署核潜艇",
+      "onboard_time": 1754355203,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95732,
@@ -363,6 +579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89895,
+      "num": 89895,
+      "word": "小鹦鹉在主人头上睡得一出溜一出溜",
+      "onboard_time": 1754359581,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89620,
+      "num": 89620,
+      "word": "上海一餐厅回应蛋炒饭258元",
+      "onboard_time": 1754359762,
+      "rank": 41,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 88313,
       "num": 88313,
       "word": "京津冀又有大暴雨",
@@ -371,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87689,
+      "num": 87689,
+      "word": "给小狗的阿贝贝做手术",
+      "onboard_time": 1754356942,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85654,
       "num": 121282,
       "word": "原来还有迪丽冷巴",
       "onboard_time": 1754316265,
       "rank": 29,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 83902,
+      "num": 83902,
+      "word": "西安公安把半个内娱都快摇来了",
+      "onboard_time": 1754351061,
+      "rank": 44,
+      "category": "正能量,艺人"
     },
     {
       "raw_hot": 82678,
@@ -435,6 +683,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75097,
+      "num": 119583,
+      "word": "复旦MBA回应迅猛龙入读复旦",
+      "onboard_time": 1754332575,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 73167,
+      "num": 83877,
+      "word": "第一次见用手吃饭的猫",
+      "onboard_time": 1754355922,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 72414,
+      "num": 83771,
+      "word": "电影731血证版海报",
+      "onboard_time": 1754360302,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72312,
       "num": 121168,
       "word": "迅猛龙复旦班级合照",
@@ -465,6 +737,14 @@
       "onboard_time": 1754321363,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67929,
+      "num": 83739,
+      "word": "爷爷的电脑记录了我的整个青春",
+      "onboard_time": 1754360482,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 66939,
@@ -561,14 +841,6 @@
       "onboard_time": 1754317107,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54377,
-      "num": 75824,
-      "word": "复旦MBA回应迅猛龙入读复旦",
-      "onboard_time": 1754332575,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 53845,
@@ -740,7 +1012,7 @@
     },
     {
       "raw_hot": 11386,
-      "num": 680452,
+      "num": 756462,
       "word": "抗战烈士回信家人说国不保家何能存",
       "onboard_time": 1754294422,
       "rank": 2,
