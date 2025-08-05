@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754414850736,
+  "endTime": 1754416019422,
   "band_list": [
     {
       "raw_hot": 2366610,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253203,
+      "num": 221147,
+      "word": "以色列总理决定全面占领加沙",
+      "onboard_time": 1754412501,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 247744,
       "num": 230172,
       "word": "房主任哽咽呼吁大家不要买黄牛票",
@@ -137,14 +145,6 @@
       "onboard_time": 1754369963,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221147,
-      "num": 221147,
-      "word": "以色列总理决定全面占领加沙",
-      "onboard_time": 1754412501,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 215286,
@@ -177,6 +177,14 @@
       "onboard_time": 1754411721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190721,
+      "num": 132260,
+      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
+      "onboard_time": 1754414718,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 186026,
@@ -243,12 +251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125841,
-      "num": 87689,
-      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
-      "onboard_time": 1754414718,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 115669,
+      "num": 226943,
+      "word": "粤B暴雨天遇险关键时刻粤S出手了",
+      "onboard_time": 1754414298,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111818,
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69739,
-      "num": 226943,
-      "word": "粤B暴雨天遇险关键时刻粤S出手了",
-      "onboard_time": 1754414298,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67221,
       "num": 67221,
       "word": "利剑玫瑰编剧",
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58929,
+      "num": 82861,
+      "word": "研究生卖烧饼走红否认学历浪费",
+      "onboard_time": 1754412621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56278,
       "num": 83088,
       "word": "多人骑电单车夜闯医院走廊拍视频",
@@ -483,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50303,
-      "num": 82861,
-      "word": "研究生卖烧饼走红否认学历浪费",
-      "onboard_time": 1754412621,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 36017,
+      "num": 57661,
+      "word": "梁家辉哭了",
+      "onboard_time": 1754415378,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 34633,
