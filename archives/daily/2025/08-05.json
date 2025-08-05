@@ -1,7 +1,15 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754380111139,
+  "endTime": 1754383139375,
   "band_list": [
+    {
+      "raw_hot": 3330311,
+      "num": 3330311,
+      "word": "鹿晗欠了一屁股债",
+      "onboard_time": 1754381243,
+      "rank": 0,
+      "category": "演出"
+    },
     {
       "raw_hot": 2338033,
       "num": 209972,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1585244,
-      "num": 466366,
+      "num": 1009649,
       "word": "尚九熙回应",
       "onboard_time": 1754379682,
       "rank": 3,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935462,
+      "num": 358316,
+      "word": "沈阳17岁女孩遭霸凌视频被售卖",
+      "onboard_time": 1754377883,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 931603,
       "num": 931603,
       "word": "缴纳社保不能自愿放弃",
@@ -177,6 +193,14 @@
       "onboard_time": 1754355442,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743183,
+      "num": 331630,
+      "word": "王俊凯 演唱会",
+      "onboard_time": 1754379262,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 732670,
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629007,
+      "num": 276781,
+      "word": "秦霄贤 何九华",
+      "onboard_time": 1754379744,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626052,
       "num": 626052,
       "word": "侵华日军站在尸体旁炫耀",
@@ -273,6 +305,14 @@
       "onboard_time": 1754372364,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601912,
+      "num": 366184,
+      "word": "歌手总决赛帮唱嘉宾线索",
+      "onboard_time": 1754378062,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 577017,
@@ -315,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 491908,
-      "num": 366184,
-      "word": "歌手总决赛帮唱嘉宾线索",
-      "onboard_time": 1754378062,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 483710,
       "num": 342431,
       "word": "曹格 其实我还没忘掉速玲",
@@ -361,6 +393,14 @@
       "onboard_time": 1754379923,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458813,
+      "num": 458813,
+      "word": "名古屋市市长希望与南京恢复交流",
+      "onboard_time": 1754375963,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 458488,
@@ -451,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368119,
+      "num": 272344,
+      "word": "恋综来了个AAA建材王哥",
+      "onboard_time": 1754381062,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 365652,
+      "num": 255119,
+      "word": "关晓彤出汗的腿像打了高光",
+      "onboard_time": 1754382805,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359569,
       "num": 359569,
       "word": "河南遭遇旱情",
@@ -465,14 +521,6 @@
       "onboard_time": 1754367923,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358316,
-      "num": 358316,
-      "word": "沈阳17岁女孩遭霸凌视频被售卖",
-      "onboard_time": 1754377883,
-      "rank": 20,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 355572,
@@ -497,14 +545,6 @@
       "onboard_time": 1754375482,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323085,
-      "num": 323085,
-      "word": "王俊凯 演唱会",
-      "onboard_time": 1754379262,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 318781,
@@ -568,6 +608,22 @@
       "word": "王一博28岁是一个刚刚好的年纪",
       "onboard_time": 1754325560,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282841,
+      "num": 282841,
+      "word": "女子参加水上闯关被木头插入腿内",
+      "onboard_time": 1754378783,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271784,
+      "num": 271784,
+      "word": "黄多多星味",
+      "onboard_time": 1754382445,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -659,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238307,
+      "num": 238307,
+      "word": "找不到的医生在这不用等",
+      "onboard_time": 1754381723,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235961,
       "num": 235961,
       "word": "横店大雪出爆剧的玄学含金量还在上升",
@@ -715,12 +779,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 215576,
-      "num": 356601,
-      "word": "名古屋市市长希望与南京恢复交流",
-      "onboard_time": 1754375963,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 215255,
+      "num": 178155,
+      "word": "难怪小说女主能在房间里关一天",
+      "onboard_time": 1754382025,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 213838,
@@ -736,6 +800,14 @@
       "word": "黄一鸣自曝花10万整容",
       "onboard_time": 1754351961,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210915,
+      "num": 210915,
+      "word": "德云社",
+      "onboard_time": 1754383044,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -803,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197436,
-      "num": 172349,
-      "word": "秦霄贤 何九华",
-      "onboard_time": 1754379744,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 200218,
+      "num": 200218,
+      "word": "看病挂专家号不用再托关系了",
+      "onboard_time": 1754382684,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 196469,
@@ -833,6 +905,14 @@
       "onboard_time": 1754368165,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195324,
+      "num": 195324,
+      "word": "殡仪馆 咖啡店",
+      "onboard_time": 1754381243,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194816,
@@ -931,6 +1011,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 183554,
+      "num": 281636,
+      "word": "俄将不再维持中导条约单方面自我限制",
+      "onboard_time": 1754377104,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181019,
       "num": 181019,
       "word": "以色列总理计划全面占领加沙",
@@ -955,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179019,
+      "num": 179019,
+      "word": "单依纯帮唱嘉宾 王力宏",
+      "onboard_time": 1754381906,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178874,
       "num": 178874,
       "word": "杜华晒王一博庆生照",
@@ -969,6 +1065,14 @@
       "onboard_time": 1754302585,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177595,
+      "num": 177595,
+      "word": "才知道朋友圈可存多个定位",
+      "onboard_time": 1754379262,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 175986,
@@ -1009,6 +1113,14 @@
       "onboard_time": 1754361622,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171748,
+      "num": 171748,
+      "word": "医疗届的六人定律被打破了",
+      "onboard_time": 1754382805,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171171,
@@ -1083,11 +1195,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160284,
-      "num": 254985,
-      "word": "女子参加水上闯关被木头插入腿内",
-      "onboard_time": 1754378783,
-      "rank": 38,
+      "raw_hot": 160024,
+      "num": 160024,
+      "word": "江油被殴打孩子的聋哑人母亲晕倒",
+      "onboard_time": 1754377702,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1113,6 +1225,14 @@
       "onboard_time": 1754360541,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157472,
+      "num": 178201,
+      "word": "社保新规9月1日起实施",
+      "onboard_time": 1754382084,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156085,
@@ -1145,6 +1265,14 @@
       "onboard_time": 1754363723,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152500,
+      "num": 152500,
+      "word": "坠楼医生最后愿望是替自己正名",
+      "onboard_time": 1754379682,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152490,
@@ -1203,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150005,
+      "num": 150005,
+      "word": "WTT横滨冠军赛男女单打抽签结果",
+      "onboard_time": 1754382384,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149399,
       "num": 149399,
       "word": "警方回应奔驰车被指逆行超车逼停摩托",
@@ -1217,6 +1353,38 @@
       "onboard_time": 1754379923,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141634,
+      "num": 141634,
+      "word": "魏大勋不经意掏出了个裤衩",
+      "onboard_time": 1754380104,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141227,
+      "num": 141227,
+      "word": "北京43平三室一厅的五口之家",
+      "onboard_time": 1754382745,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140202,
+      "num": 140202,
+      "word": "恋综职业终于上新了",
+      "onboard_time": 1754383106,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139614,
+      "num": 141660,
+      "word": "孙颖莎首轮对阵朱芊曦",
+      "onboard_time": 1754381664,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 139378,
@@ -1243,14 +1411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138776,
-      "num": 138776,
-      "word": "江油被殴打孩子的聋哑人母亲晕倒",
-      "onboard_time": 1754377702,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138168,
       "num": 138168,
       "word": "搬回小县城生活2年的真实感受",
@@ -1265,6 +1425,14 @@
       "onboard_time": 1754373142,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134909,
+      "num": 134909,
+      "word": "云合",
+      "onboard_time": 1754382864,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 134680,
@@ -1547,14 +1715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110130,
-      "num": 110130,
-      "word": "才知道朋友圈可存多个定位",
-      "onboard_time": 1754379262,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109355,
       "num": 270819,
       "word": "河南下达2.6亿元抗旱保秋",
@@ -1593,14 +1753,6 @@
       "onboard_time": 1754373802,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106212,
-      "num": 106212,
-      "word": "俄将不再维持中导条约单方面自我限制",
-      "onboard_time": 1754377104,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104266,
@@ -1843,6 +1995,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 82404,
+      "num": 243280,
+      "word": "景区回应女子参加闯关被木头刺伤",
+      "onboard_time": 1754382805,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80444,
       "num": 80444,
       "word": "恋综节目上演顶级魅魔互选",
@@ -1931,12 +2091,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 72001,
+      "num": 1035128,
+      "word": "抗战烈士曾在家书说国不保家何能存",
+      "onboard_time": 1754375603,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69825,
       "num": 120986,
       "word": "杭州一夫妻争吵后丈夫跳河身亡",
       "onboard_time": 1754301443,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69279,
+      "num": 149708,
+      "word": "李乃文 你们敢脱我就敢洗",
+      "onboard_time": 1754382384,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 68254,
@@ -1984,6 +2160,22 @@
       "word": "王青直播间",
       "onboard_time": 1754313564,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62625,
+      "num": 141781,
+      "word": "自愿弃社保也违法",
+      "onboard_time": 1754382684,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60902,
+      "num": 149671,
+      "word": "许光汉将于明日退伍",
+      "onboard_time": 1754382505,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2104,14 +2296,6 @@
       "word": "律师称殴打少女施暴方应民事赔偿",
       "onboard_time": 1754366485,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50511,
-      "num": 1035128,
-      "word": "抗战烈士曾在家书说国不保家何能存",
-      "onboard_time": 1754375603,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2243,14 +2427,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 29613,
-      "num": 111891,
-      "word": "坠楼医生最后愿望是替自己正名",
-      "onboard_time": 1754379682,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29342,
       "num": 251043,
       "word": "河南安徽气象干旱趋于缓和",
@@ -2327,6 +2503,14 @@
       "num": 1159186,
       "word": "运20超燃重装空投画面",
       "onboard_time": 1754278043,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2139,
+      "num": 1073164,
+      "word": "中国军人高燃大片根本看不够",
+      "onboard_time": 1754341154,
       "rank": 2,
       "category": "民生新闻"
     },

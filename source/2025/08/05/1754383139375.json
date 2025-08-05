@@ -1,0 +1,410 @@
+{
+  "runTime": 1754383139375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3330311,
+        "num": 3330311,
+        "word": "鹿晗欠了一屁股债",
+        "onboard_time": 1754381243,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1206994,
+        "num": 1206994,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2139,
+        "num": 1073164,
+        "word": "中国军人高燃大片根本看不够",
+        "onboard_time": 1754341154,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009649,
+        "num": 1009649,
+        "word": "尚九熙回应",
+        "onboard_time": 1754379682,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458813,
+        "num": 458813,
+        "word": "名古屋市市长希望与南京恢复交流",
+        "onboard_time": 1754375963,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348819,
+        "num": 348819,
+        "word": "男子背80斤蜜雪冰城上山卖15元",
+        "onboard_time": 1754370503,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743183,
+        "num": 331630,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1754379262,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 601912,
+        "num": 316480,
+        "word": "歌手总决赛帮唱嘉宾线索",
+        "onboard_time": 1754378062,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282841,
+        "num": 282841,
+        "word": "女子参加水上闯关被木头插入腿内",
+        "onboard_time": 1754378783,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183554,
+        "num": 281636,
+        "word": "俄将不再维持中导条约单方面自我限制",
+        "onboard_time": 1754377104,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 935462,
+        "num": 281535,
+        "word": "沈阳17岁女孩遭霸凌视频被售卖",
+        "onboard_time": 1754377883,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 719276,
+        "num": 279590,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72001,
+        "num": 278397,
+        "word": "抗战烈士曾在家书说国不保家何能存",
+        "onboard_time": 1754375603,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629007,
+        "num": 276781,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561420,
+        "num": 275948,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546361,
+        "num": 274931,
+        "word": "建议大家有些外卖真的别点了",
+        "onboard_time": 1754376503,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428161,
+        "num": 273162,
+        "word": "赵露思说很难想象普通上班族出这事",
+        "onboard_time": 1754372364,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368119,
+        "num": 272344,
+        "word": "恋综来了个AAA建材王哥",
+        "onboard_time": 1754381062,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271784,
+        "num": 271784,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265821,
+        "num": 265821,
+        "word": "曹格 其实我还没忘掉速玲",
+        "onboard_time": 1754376204,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365652,
+        "num": 255119,
+        "word": "关晓彤出汗的腿像打了高光",
+        "onboard_time": 1754382805,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82404,
+        "num": 243280,
+        "word": "景区回应女子参加闯关被木头刺伤",
+        "onboard_time": 1754382805,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238307,
+        "num": 238307,
+        "word": "找不到的医生在这不用等",
+        "onboard_time": 1754381723,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218455,
+        "num": 218455,
+        "word": "利剑玫瑰评论异常",
+        "onboard_time": 1754372182,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210915,
+        "num": 210915,
+        "word": "德云社",
+        "onboard_time": 1754383044,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200218,
+        "num": 200218,
+        "word": "看病挂专家号不用再托关系了",
+        "onboard_time": 1754382684,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195324,
+        "num": 195324,
+        "word": "殡仪馆 咖啡店",
+        "onboard_time": 1754381243,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189756,
+        "num": 189756,
+        "word": "曹格 我被我是歌手上过了",
+        "onboard_time": 1754375183,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179019,
+        "num": 179019,
+        "word": "单依纯帮唱嘉宾 王力宏",
+        "onboard_time": 1754381906,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157472,
+        "num": 178201,
+        "word": "社保新规9月1日起实施",
+        "onboard_time": 1754382084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215255,
+        "num": 178155,
+        "word": "难怪小说女主能在房间里关一天",
+        "onboard_time": 1754382025,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177595,
+        "num": 177595,
+        "word": "才知道朋友圈可存多个定位",
+        "onboard_time": 1754379262,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171748,
+        "num": 171748,
+        "word": "医疗届的六人定律被打破了",
+        "onboard_time": 1754382805,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163107,
+        "num": 163107,
+        "word": "时代峰峻辟谣陈奕恒私联",
+        "onboard_time": 1754376022,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160024,
+        "num": 160024,
+        "word": "江油被殴打孩子的聋哑人母亲晕倒",
+        "onboard_time": 1754377702,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152500,
+        "num": 152500,
+        "word": "坠楼医生最后愿望是替自己正名",
+        "onboard_time": 1754379682,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151329,
+        "num": 151329,
+        "word": "杜华晒王一博庆生照",
+        "onboard_time": 1754379803,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150005,
+        "num": 150005,
+        "word": "WTT横滨冠军赛男女单打抽签结果",
+        "onboard_time": 1754382384,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69279,
+        "num": 149708,
+        "word": "李乃文 你们敢脱我就敢洗",
+        "onboard_time": 1754382384,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60902,
+        "num": 149671,
+        "word": "许光汉将于明日退伍",
+        "onboard_time": 1754382505,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149652,
+        "num": 149652,
+        "word": "嘻哈结婚了也离婚了",
+        "onboard_time": 1754378362,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147847,
+        "num": 147847,
+        "word": "农村父母改变晚年命运的最后一次机会",
+        "onboard_time": 1754378425,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147159,
+        "num": 147159,
+        "word": "43岁张亮与17岁儿子天天骑马",
+        "onboard_time": 1754379443,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142250,
+        "num": 142250,
+        "word": "侵华日军站在尸体旁炫耀",
+        "onboard_time": 1754365223,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62625,
+        "num": 141781,
+        "word": "自愿弃社保也违法",
+        "onboard_time": 1754382684,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139614,
+        "num": 141660,
+        "word": "孙颖莎首轮对阵朱芊曦",
+        "onboard_time": 1754381664,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141634,
+        "num": 141634,
+        "word": "魏大勋不经意掏出了个裤衩",
+        "onboard_time": 1754380104,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141227,
+        "num": 141227,
+        "word": "北京43平三室一厅的五口之家",
+        "onboard_time": 1754382745,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140202,
+        "num": 140202,
+        "word": "恋综职业终于上新了",
+        "onboard_time": 1754383106,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134909,
+        "num": 134909,
+        "word": "云合",
+        "onboard_time": 1754382864,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
