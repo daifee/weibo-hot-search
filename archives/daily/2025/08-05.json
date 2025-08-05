@@ -1,9 +1,9 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754383139375,
+  "endTime": 1754384074961,
   "band_list": [
     {
-      "raw_hot": 3330311,
+      "raw_hot": 3558648,
       "num": 3330311,
       "word": "鹿晗欠了一屁股债",
       "onboard_time": 1754381243,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 743183,
-      "num": 331630,
+      "num": 652748,
       "word": "王俊凯 演唱会",
       "onboard_time": 1754379262,
       "rank": 16,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 629007,
-      "num": 276781,
+      "num": 329349,
       "word": "秦霄贤 何九华",
       "onboard_time": 1754379744,
       "rank": 29,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612570,
+      "num": 332481,
+      "word": "黄多多星味",
+      "onboard_time": 1754382445,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606696,
       "num": 606696,
       "word": "赵露思说很难想象普通上班族出这事",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 601912,
-      "num": 366184,
+      "num": 387300,
       "word": "歌手总决赛帮唱嘉宾线索",
       "onboard_time": 1754378062,
       "rank": 23,
@@ -347,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 500389,
+      "num": 500389,
+      "word": "社保新规9月1日起实施",
+      "onboard_time": 1754382084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497080,
       "num": 497080,
       "word": "深圳暴雨",
       "onboard_time": 1754349678,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491379,
+      "num": 314902,
+      "word": "关晓彤出汗的腿像打了高光",
+      "onboard_time": 1754382805,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 483710,
@@ -467,6 +491,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 396063,
+      "num": 320437,
+      "word": "德云社",
+      "onboard_time": 1754383044,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393759,
+      "num": 319205,
+      "word": "难怪小说女主能在房间里关一天",
+      "onboard_time": 1754382025,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391837,
       "num": 391837,
       "word": "龚俊咱还回内娱当偶像吗",
@@ -492,19 +532,11 @@
     },
     {
       "raw_hot": 368119,
-      "num": 272344,
+      "num": 319122,
       "word": "恋综来了个AAA建材王哥",
       "onboard_time": 1754381062,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365652,
-      "num": 255119,
-      "word": "关晓彤出汗的腿像打了高光",
-      "onboard_time": 1754382805,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 359569,
@@ -587,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298339,
+      "num": 298339,
+      "word": "女子参加水上闯关被木头插入腿内",
+      "onboard_time": 1754378783,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295440,
       "num": 295440,
       "word": "印方称批评印度国家与俄进行贸易",
@@ -608,22 +648,6 @@
       "word": "王一博28岁是一个刚刚好的年纪",
       "onboard_time": 1754325560,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 282841,
-      "num": 282841,
-      "word": "女子参加水上闯关被木头插入腿内",
-      "onboard_time": 1754378783,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271784,
-      "num": 271784,
-      "word": "黄多多星味",
-      "onboard_time": 1754382445,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -779,14 +803,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 215255,
-      "num": 178155,
-      "word": "难怪小说女主能在房间里关一天",
-      "onboard_time": 1754382025,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213838,
       "num": 213838,
       "word": "历史学家许倬云逝世",
@@ -803,20 +819,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210915,
-      "num": 210915,
-      "word": "德云社",
-      "onboard_time": 1754383044,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209717,
       "num": 209717,
       "word": "尚九熙何九华裂穴时间线",
       "onboard_time": 1754379923,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208117,
+      "num": 208117,
+      "word": "坠楼医生最后愿望是替自己正名",
+      "onboard_time": 1754379682,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206504,
@@ -883,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200172,
+      "num": 200172,
+      "word": "时代峰峻辟谣朱志鑫苏新皓聊天记录",
+      "onboard_time": 1754383704,
+      "rank": 26,
+      "category": "艺人,辟谣/通报"
+    },
+    {
       "raw_hot": 196469,
       "num": 196469,
       "word": "吴艳妮尚未达标世锦赛",
@@ -945,6 +969,14 @@
       "onboard_time": 1754377162,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194130,
+      "num": 194130,
+      "word": "我下班了不说了",
+      "onboard_time": 1754383286,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 193651,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1754377104,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182024,
+      "num": 182024,
+      "word": "云合",
+      "onboard_time": 1754382864,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 181019,
@@ -1171,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165442,
+      "num": 165442,
+      "word": "刘惜君 帮唱",
+      "onboard_time": 1754383825,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162535,
       "num": 162535,
       "word": "恋综男嘉宾比腿毛真不中了",
@@ -1227,20 +1275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157472,
-      "num": 178201,
-      "word": "社保新规9月1日起实施",
-      "onboard_time": 1754382084,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156085,
       "num": 156085,
       "word": "43岁张亮与17岁儿子天天骑马",
       "onboard_time": 1754379443,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153505,
+      "num": 153505,
+      "word": "北京43平三室一厅的五口之家",
+      "onboard_time": 1754382745,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 153225,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1754363723,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152500,
-      "num": 152500,
-      "word": "坠楼医生最后愿望是替自己正名",
-      "onboard_time": 1754379682,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152490,
@@ -1355,20 +1395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144723,
+      "num": 144723,
+      "word": "易烊千玺彩排舞台",
+      "onboard_time": 1754383465,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141634,
       "num": 141634,
       "word": "魏大勋不经意掏出了个裤衩",
       "onboard_time": 1754380104,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141227,
-      "num": 141227,
-      "word": "北京43平三室一厅的五口之家",
-      "onboard_time": 1754382745,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 140202,
@@ -1403,6 +1443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 139057,
+      "num": 139057,
+      "word": "别把聊天截图发给你朋友好吗",
+      "onboard_time": 1754383946,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138923,
       "num": 138923,
       "word": "夏日发电站",
@@ -1427,20 +1475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134909,
-      "num": 134909,
-      "word": "云合",
-      "onboard_time": 1754382864,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134680,
       "num": 134680,
       "word": "两只小猫在背包里打架",
       "onboard_time": 1754358982,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132559,
+      "num": 132559,
+      "word": "脑瘫少年从被骂傻子到年入千万",
+      "onboard_time": 1754383345,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 131474,
@@ -1475,12 +1523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129112,
+      "num": 129112,
+      "word": "陈奕恒素人时期行为",
+      "onboard_time": 1754383764,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128048,
       "num": 128048,
       "word": "张本智和继续发声质疑日本联赛",
       "onboard_time": 1754371883,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127452,
+      "num": 127452,
+      "word": "深圳华强北叫停小孩哥代送外卖",
+      "onboard_time": 1754384005,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127408,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1754356822,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118980,
+      "num": 118980,
+      "word": "王楚钦首轮对阵陈垣宇",
+      "onboard_time": 1754381963,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 118802,
@@ -1739,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107308,
+      "num": 351925,
+      "word": "名古屋市长称日军入侵罪行无法否认",
+      "onboard_time": 1754383224,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107176,
       "num": 107176,
       "word": "方圆脸显脸小的发型",
@@ -1881,6 +1961,14 @@
       "onboard_time": 1754355203,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96460,
+      "num": 141781,
+      "word": "自愿弃社保也违法",
+      "onboard_time": 1754382684,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95732,
@@ -2163,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62625,
-      "num": 141781,
-      "word": "自愿弃社保也违法",
-      "onboard_time": 1754382684,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60902,
       "num": 149671,
       "word": "许光汉将于明日退伍",
@@ -2432,6 +2512,14 @@
       "word": "河南安徽气象干旱趋于缓和",
       "onboard_time": 1754367325,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28268,
+      "num": 509007,
+      "word": "大河奔涌万象新",
+      "onboard_time": 1754383345,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
