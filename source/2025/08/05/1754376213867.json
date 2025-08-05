@@ -1,0 +1,410 @@
+{
+  "runTime": 1754376213867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523031,
+        "num": 1523031,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1284199,
+        "num": 1284199,
+        "word": "官方通报周口六院邵医生坠亡",
+        "onboard_time": 1754372543,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32228,
+        "num": 1035128,
+        "word": "抗战烈士曾在家书说国不保家何能存",
+        "onboard_time": 1754375603,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009381,
+        "num": 1009381,
+        "word": "坠楼医生出事前一天曾向派出所报案",
+        "onboard_time": 1754374643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 842682,
+        "num": 842682,
+        "word": "少林寺离职潮",
+        "onboard_time": 1754370025,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691386,
+        "num": 691386,
+        "word": "创始人回应赵露思沙拉没放酱",
+        "onboard_time": 1754369125,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643225,
+        "num": 643225,
+        "word": "男子背80斤蜜雪冰城上山卖15元",
+        "onboard_time": 1754370503,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336848,
+        "num": 336848,
+        "word": "河南周口已成立调查组",
+        "onboard_time": 1754373982,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316693,
+        "num": 316693,
+        "word": "酷似大S走红女生删除视频",
+        "onboard_time": 1754368284,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571029,
+        "num": 316078,
+        "word": "赵露思说很难想象普通上班族出这事",
+        "onboard_time": 1754372364,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1322428,
+        "num": 315454,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559338,
+        "num": 315368,
+        "word": "利剑玫瑰评论异常",
+        "onboard_time": 1754372182,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388937,
+        "num": 314475,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359066,
+        "num": 313573,
+        "word": "于正说白鹿团队全内娱最好",
+        "onboard_time": 1754369363,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313452,
+        "num": 313452,
+        "word": "时代峰峻辟谣陈奕恒私联",
+        "onboard_time": 1754376022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294510,
+        "num": 309180,
+        "word": "白敬亭郑合惠子见面",
+        "onboard_time": 1754363482,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238080,
+        "num": 308545,
+        "word": "曹格 我被我是歌手上过了",
+        "onboard_time": 1754375183,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308129,
+        "num": 308129,
+        "word": "侵华日军站在尸体旁炫耀",
+        "onboard_time": 1754365223,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41433,
+        "num": 253878,
+        "word": "锤娜丽莎9块9宵夜太香了",
+        "onboard_time": 1754372842,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165467,
+        "num": 243450,
+        "word": "周口坠楼医生丈夫发声",
+        "onboard_time": 1754375482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240516,
+        "num": 240516,
+        "word": "小猫被嗦成了芒果核",
+        "onboard_time": 1754367685,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235961,
+        "num": 235961,
+        "word": "横店大雪出爆剧的玄学含金量还在上升",
+        "onboard_time": 1754375303,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222189,
+        "num": 222189,
+        "word": "打车送脑出血父亲就医被取消订单",
+        "onboard_time": 1754364742,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184731,
+        "num": 184731,
+        "word": "恋与深空运营方被起诉",
+        "onboard_time": 1754371522,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173316,
+        "num": 173316,
+        "word": "曝理想i8将改为单一配置",
+        "onboard_time": 1754375303,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164295,
+        "num": 164295,
+        "word": "缴纳社保不能自愿放弃",
+        "onboard_time": 1754361201,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151567,
+        "num": 151567,
+        "word": "原来以前的西瓜是这样的",
+        "onboard_time": 1754374824,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140179,
+        "num": 143948,
+        "word": "龚俊咱还回内娱当偶像吗",
+        "onboard_time": 1754366785,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117596,
+        "num": 142290,
+        "word": "男子回应背80斤蜜雪冰城上山售卖",
+        "onboard_time": 1754373323,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128073,
+        "num": 141951,
+        "word": "敖瑞鹏常华森 双生魔丸的不同选择",
+        "onboard_time": 1754372182,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141620,
+        "num": 141620,
+        "word": "休假交警路遇侧翻秒出警",
+        "onboard_time": 1754363783,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126573,
+        "num": 126573,
+        "word": "为什么浴巾用久了总有一股怪味",
+        "onboard_time": 1754375123,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126125,
+        "num": 126125,
+        "word": "苏新皓7月网盘更新",
+        "onboard_time": 1754373563,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125255,
+        "num": 125255,
+        "word": "谭瑞松多次泄露内幕信息",
+        "onboard_time": 1754373262,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120826,
+        "num": 120826,
+        "word": "第五人格崩了",
+        "onboard_time": 1754367923,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117942,
+        "num": 117942,
+        "word": "展轩花衬衫大片",
+        "onboard_time": 1754375963,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115306,
+        "num": 115306,
+        "word": "燕云十六声",
+        "onboard_time": 1754372842,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114646,
+        "num": 114646,
+        "word": "刘宇宁只是假装坚强",
+        "onboard_time": 1754375842,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37542,
+        "num": 114340,
+        "word": "差点以为孟子义是真出师了",
+        "onboard_time": 1754375183,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114320,
+        "num": 114320,
+        "word": "女子吃桃子咬开发现里面一堆树叶",
+        "onboard_time": 1754349379,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110346,
+        "num": 110346,
+        "word": "陈楚生为了孩子拼命得让我陌生",
+        "onboard_time": 1754363542,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109299,
+        "num": 109299,
+        "word": "BLACKPINK演唱会上百无聊赖的老父亲们",
+        "onboard_time": 1754367745,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108568,
+        "num": 108568,
+        "word": "孩子考上大学家长记得修改个税信息",
+        "onboard_time": 1754375782,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108173,
+        "num": 108173,
+        "word": "肖战媚眼抛了一年粉丝才看见",
+        "onboard_time": 1754360901,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107176,
+        "num": 107176,
+        "word": "方圆脸显脸小的发型",
+        "onboard_time": 1754376022,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107175,
+        "num": 107175,
+        "word": "每个星期一都变不熟的同事",
+        "onboard_time": 1754373802,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101949,
+        "num": 101949,
+        "word": "名古屋市市长希望与南京恢复交流",
+        "onboard_time": 1754375963,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101596,
+        "num": 101596,
+        "word": "女生制止男子地铁站内吸烟反遭掌掴",
+        "onboard_time": 1754373982,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98064,
+        "num": 98064,
+        "word": "搬回小县城生活2年的真实感受",
+        "onboard_time": 1754370563,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91382,
+        "num": 91382,
+        "word": "陈都灵额头受伤",
+        "onboard_time": 1754367805,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}

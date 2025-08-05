@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754373232549,
+  "endTime": 1754376213867,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -547,6 +547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1322428,
+      "num": 315454,
+      "word": "女子例假后游泳大出血向场馆索赔",
+      "onboard_time": 1754372783,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1310639,
       "num": 1310639,
       "word": "97年出帅哥 79年出魔童",
@@ -569,6 +577,14 @@
       "onboard_time": 1754369125,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1284199,
+      "num": 1284199,
+      "word": "官方通报周口六院邵医生坠亡",
+      "onboard_time": 1754372543,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1274313,
@@ -865,6 +881,14 @@
       "onboard_time": 1754032042,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1009381,
+      "num": 1009381,
+      "word": "坠楼医生出事前一天曾向派出所报案",
+      "onboard_time": 1754374643,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 996749,
@@ -1867,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571029,
+      "num": 316078,
+      "word": "赵露思说很难想象普通上班族出这事",
+      "onboard_time": 1754372364,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569459,
       "num": 341767,
       "word": "广西奔驰女的特权底气到底哪来的",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1754194705,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559338,
+      "num": 350624,
+      "word": "利剑玫瑰评论异常",
+      "onboard_time": 1754372182,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 556285,
@@ -2787,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388937,
+      "num": 314475,
+      "word": "沈泉锐 小沈阳女儿",
+      "onboard_time": 1754375603,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388357,
       "num": 1006267,
       "word": "马丽把沈腾假发片打掉了",
@@ -3059,14 +3107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350624,
-      "num": 350624,
-      "word": "利剑玫瑰评论异常",
-      "onboard_time": 1754372182,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 348824,
       "num": 378227,
       "word": "人民海军湖北舰来啦",
@@ -3201,6 +3241,14 @@
       "onboard_time": 1754132302,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 336848,
+      "num": 336848,
+      "word": "河南周口已成立调查组",
+      "onboard_time": 1754373982,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333796,
@@ -3457,6 +3505,14 @@
       "onboard_time": 1754115022,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 313452,
+      "num": 313452,
+      "word": "时代峰峻辟谣陈奕恒私联",
+      "onboard_time": 1754376022,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 311160,
@@ -4435,6 +4491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238080,
+      "num": 308545,
+      "word": "曹格 我被我是歌手上过了",
+      "onboard_time": 1754375183,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237958,
       "num": 237958,
       "word": "原来还有迪丽冷巴",
@@ -4465,6 +4529,14 @@
       "onboard_time": 1754028382,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235961,
+      "num": 235961,
+      "word": "横店大雪出爆剧的玄学含金量还在上升",
+      "onboard_time": 1754375303,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 235667,
@@ -4537,14 +4609,6 @@
       "onboard_time": 1754133263,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232123,
-      "num": 232123,
-      "word": "赵露思说很难想象普通上班族出这事",
-      "onboard_time": 1754372364,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 231407,
@@ -5433,14 +5497,6 @@
       "onboard_time": 1754230344,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204123,
-      "num": 204123,
-      "word": "女子例假后游泳大出血向场馆索赔",
-      "onboard_time": 1754372783,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204015,
@@ -6947,6 +7003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 173316,
+      "num": 173316,
+      "word": "曝理想i8将改为单一配置",
+      "onboard_time": 1754375303,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173193,
       "num": 173193,
       "word": "Rapeter严浩翔合影",
@@ -7409,6 +7473,14 @@
       "onboard_time": 1754129484,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165467,
+      "num": 243450,
+      "word": "周口坠楼医生丈夫发声",
+      "onboard_time": 1754375482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165128,
@@ -8273,6 +8345,14 @@
       "onboard_time": 1754288183,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151567,
+      "num": 151567,
+      "word": "原来以前的西瓜是这样的",
+      "onboard_time": 1754374824,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 151553,
@@ -10395,6 +10475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126573,
+      "num": 126573,
+      "word": "为什么浴巾用久了总有一股怪味",
+      "onboard_time": 1754375123,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126535,
       "num": 126535,
       "word": "黄子弘凡高定上落了蝴蝶",
@@ -10449,6 +10537,14 @@
       "onboard_time": 1754288843,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126125,
+      "num": 126125,
+      "word": "苏新皓7月网盘更新",
+      "onboard_time": 1754373563,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 126046,
@@ -10513,6 +10609,14 @@
       "onboard_time": 1754233286,
       "rank": 46,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 125255,
+      "num": 125255,
+      "word": "谭瑞松多次泄露内幕信息",
+      "onboard_time": 1754373262,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124863,
@@ -11203,11 +11307,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117942,
+      "num": 117942,
+      "word": "展轩花衬衫大片",
+      "onboard_time": 1754375963,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117679,
       "num": 163879,
       "word": "合肥一永辉超市蛋挞上现活蟑螂",
       "onboard_time": 1754289082,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117596,
+      "num": 142290,
+      "word": "男子回应背80斤蜜雪冰城上山售卖",
+      "onboard_time": 1754373323,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -11419,14 +11539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115026,
-      "num": 419633,
-      "word": "官方通报周口六院邵医生坠亡",
-      "onboard_time": 1754372543,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 114920,
       "num": 114920,
       "word": "丞磊的薄肌又来going我了",
@@ -11465,6 +11577,14 @@
       "onboard_time": 1754125163,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114646,
+      "num": 114646,
+      "word": "刘宇宁只是假装坚强",
+      "onboard_time": 1754375842,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 114623,
@@ -11891,6 +12011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108568,
+      "num": 108568,
+      "word": "孩子考上大学家长记得修改个税信息",
+      "onboard_time": 1754375782,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108306,
       "num": 108306,
       "word": "zeka沙皇",
@@ -11969,6 +12097,22 @@
       "onboard_time": 1754268262,
       "rank": 45,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 107176,
+      "num": 107176,
+      "word": "方圆脸显脸小的发型",
+      "onboard_time": 1754376022,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107175,
+      "num": 107175,
+      "word": "每个星期一都变不熟的同事",
+      "onboard_time": 1754373802,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 107090,
@@ -12315,6 +12459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101949,
+      "num": 101949,
+      "word": "名古屋市市长希望与南京恢复交流",
+      "onboard_time": 1754375963,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101746,
       "num": 101377,
       "word": "人一旦戴上了运动手表",
@@ -12337,6 +12489,14 @@
       "onboard_time": 1754347157,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101596,
+      "num": 101596,
+      "word": "女生制止男子地铁站内吸烟反遭掌掴",
+      "onboard_time": 1754373982,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101547,
@@ -14683,6 +14843,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 37542,
+      "num": 114340,
+      "word": "差点以为孟子义是真出师了",
+      "onboard_time": 1754375183,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37337,
       "num": 37337,
       "word": "王伟忠谈小S复工",
@@ -14856,6 +15024,14 @@
       "word": "内蒙古 龙卷风",
       "onboard_time": 1754366785,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32228,
+      "num": 1035128,
+      "word": "抗战烈士曾在家书说国不保家何能存",
+      "onboard_time": 1754375603,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
