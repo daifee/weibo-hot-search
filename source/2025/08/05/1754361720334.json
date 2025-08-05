@@ -1,0 +1,410 @@
+{
+  "runTime": 1754361720334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027781,
+        "num": 1164444,
+        "word": "女子吃桃子咬开发现里面一堆树叶",
+        "onboard_time": 1754349379,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 970046,
+        "num": 970046,
+        "word": "赵露思说曾黎通过直播确认她状态",
+        "onboard_time": 1754350640,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5169,
+        "num": 609030,
+        "word": "抗战烈士回信家人说国不保家何能存",
+        "onboard_time": 1754294422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471662,
+        "num": 471662,
+        "word": "奔驰车逼停摩托双方均不接受调解",
+        "onboard_time": 1754355982,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406770,
+        "num": 406770,
+        "word": "经常运动后身体会发生的变化",
+        "onboard_time": 1754357182,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 401739,
+        "num": 401739,
+        "word": "高温天要在南北方换班了",
+        "onboard_time": 1754358802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965653,
+        "num": 399992,
+        "word": "赵露思问整容犯法吗",
+        "onboard_time": 1754351662,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373712,
+        "num": 373712,
+        "word": "警方通报奔驰车超车逼停摩托",
+        "onboard_time": 1754354423,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348125,
+        "num": 348125,
+        "word": "深圳暴雨",
+        "onboard_time": 1754349678,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167881,
+        "num": 275896,
+        "word": "对谭瑞松提起公诉",
+        "onboard_time": 1754360663,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709825,
+        "num": 275830,
+        "word": "岳云鹏深夜发长文",
+        "onboard_time": 1754355144,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 686049,
+        "num": 275246,
+        "word": "肖战媚眼抛了一年粉丝才看见",
+        "onboard_time": 1754360901,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271555,
+        "num": 271555,
+        "word": "缴纳社保不能自愿放弃",
+        "onboard_time": 1754361201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251925,
+        "num": 251925,
+        "word": "死神来了6定档",
+        "onboard_time": 1754359461,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211195,
+        "num": 211195,
+        "word": "黄一鸣自曝花10万整容",
+        "onboard_time": 1754351961,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206863,
+        "num": 206863,
+        "word": "河南遭遇旱情",
+        "onboard_time": 1754360722,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199039,
+        "num": 199039,
+        "word": "秃子被围攻",
+        "onboard_time": 1754355504,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197699,
+        "num": 197699,
+        "word": "印方称批评印度国家与俄进行贸易",
+        "onboard_time": 1754354903,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178501,
+        "num": 178501,
+        "word": "华策回应与虞书欣解约",
+        "onboard_time": 1754312424,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172142,
+        "num": 172142,
+        "word": "王一博从17岁到28岁",
+        "onboard_time": 1754361381,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475003,
+        "num": 165698,
+        "word": "加拿大女子嫁给高1.2米印裔男子",
+        "onboard_time": 1754357363,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192577,
+        "num": 164226,
+        "word": "女子将蜡烛放进冰箱烧掉顶部",
+        "onboard_time": 1754353581,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158532,
+        "num": 158532,
+        "word": "死神来了",
+        "onboard_time": 1754360663,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158504,
+        "num": 158504,
+        "word": "藏海传TVB版片头曲",
+        "onboard_time": 1754360541,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157501,
+        "num": 157501,
+        "word": "决定颜值的基因一半跟鼻子有关",
+        "onboard_time": 1754353163,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157210,
+        "num": 157210,
+        "word": "王一博生日评论区",
+        "onboard_time": 1754350701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149861,
+        "num": 149861,
+        "word": "吴艳妮光速夺冠",
+        "onboard_time": 1754323282,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148967,
+        "num": 148967,
+        "word": "国家一级文保华严寺殿墙遭游客刻字",
+        "onboard_time": 1754359942,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141377,
+        "num": 141377,
+        "word": "历史学家许倬云逝世",
+        "onboard_time": 1754294543,
+        "rank": 28,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 133459,
+        "num": 133459,
+        "word": "方力申回应接受不了生女儿言论",
+        "onboard_time": 1754352382,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131474,
+        "num": 131474,
+        "word": "辉子 秃子",
+        "onboard_time": 1754357002,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131340,
+        "num": 131340,
+        "word": "两只小猫在背包里打架",
+        "onboard_time": 1754358982,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122706,
+        "num": 122706,
+        "word": "深圳发布暴雨红色预警信号",
+        "onboard_time": 1754353523,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109794,
+        "num": 109794,
+        "word": "真实还原我发朋友圈的目的",
+        "onboard_time": 1754356702,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105505,
+        "num": 105505,
+        "word": "特朗普称将大幅提高对印度关税",
+        "onboard_time": 1754323823,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93652,
+        "num": 104681,
+        "word": "赵薇被冻结1590万股权",
+        "onboard_time": 1754317766,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104108,
+        "num": 104108,
+        "word": "减不了肥可能是你的计量单位用错了",
+        "onboard_time": 1754356822,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102651,
+        "num": 102651,
+        "word": "盒马告别会员店",
+        "onboard_time": 1754351001,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102480,
+        "num": 102480,
+        "word": "上海一餐厅回应蛋炒饭258元",
+        "onboard_time": 1754359762,
+        "rank": 38,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 11890,
+        "num": 100824,
+        "word": "25岁女孩带76岁爱人滑雪跳伞",
+        "onboard_time": 1754361442,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 678398,
+        "num": 100615,
+        "word": "江油官方辟谣施暴者为官二代",
+        "onboard_time": 1754359281,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99973,
+        "num": 99973,
+        "word": "黑神话取景地华严寺回应殿墙被刻字",
+        "onboard_time": 1754356102,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90311,
+        "num": 90311,
+        "word": "日本一烟火大会发生火灾",
+        "onboard_time": 1754357901,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90125,
+        "num": 90125,
+        "word": "工信部通报23款APP侵权",
+        "onboard_time": 1754361502,
+        "rank": 43,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 87616,
+        "num": 87616,
+        "word": "SASI怼秃子",
+        "onboard_time": 1754319686,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84563,
+        "num": 84563,
+        "word": "向佐和丁真站一块都清新了",
+        "onboard_time": 1754361622,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83906,
+        "num": 83906,
+        "word": "湖南一高校书记侵吞巨额科研经费",
+        "onboard_time": 1754349859,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 83890,
+        "num": 83890,
+        "word": "电影731血证版海报",
+        "onboard_time": 1754360302,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82018,
+        "num": 82018,
+        "word": "西安公安把半个内娱都快摇来了",
+        "onboard_time": 1754351061,
+        "rank": 48,
+        "category": "正能量,艺人"
+      },
+      {
+        "raw_hot": 79921,
+        "num": 79921,
+        "word": "以色列总理计划全面占领加沙",
+        "onboard_time": 1754349198,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断实现人民对美好生活的向往#"
+    }
+  }
+}
