@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754384074961,
+  "endTime": 1754386511735,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2029811,
+      "num": 2029811,
+      "word": "社保新规9月1日起实施",
+      "onboard_time": 1754382084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1987832,
       "num": 1987832,
       "word": "社保",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 1585244,
-      "num": 1009649,
+      "num": 1138113,
       "word": "尚九熙回应",
       "onboard_time": 1754379682,
       "rank": 3,
@@ -313,6 +321,14 @@
       "onboard_time": 1754306303,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1426080,
+      "num": 1426080,
+      "word": "免除公办幼儿园学前1年保教费",
+      "onboard_time": 1754384963,
+      "rank": 1,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 1367416,
@@ -569,6 +585,14 @@
       "onboard_time": 1754193805,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 990967,
+      "num": 332481,
+      "word": "黄多多星味",
+      "onboard_time": 1754382445,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 986890,
@@ -1083,14 +1107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 612570,
-      "num": 332481,
-      "word": "黄多多星味",
-      "onboard_time": 1754382445,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 607894,
       "num": 607894,
       "word": "全款76万买到260平的房子",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1754277022,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566142,
+      "num": 319205,
+      "word": "难怪小说女主能在房间里关一天",
+      "onboard_time": 1754382025,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 565383,
@@ -1331,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521054,
+      "num": 320437,
+      "word": "德云社",
+      "onboard_time": 1754383044,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521012,
       "num": 521012,
       "word": "理想回应i8安全性碰撞测试",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1754271980,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516475,
+      "num": 516475,
+      "word": "董璇 给另一半当妈",
+      "onboard_time": 1754384723,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 516102,
@@ -1379,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 500389,
-      "num": 500389,
-      "word": "社保新规9月1日起实施",
-      "onboard_time": 1754382084,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 497080,
       "num": 497080,
       "word": "深圳暴雨",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1754382805,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 491129,
+      "num": 491129,
+      "word": "恋综来了个AAA建材王哥",
+      "onboard_time": 1754381062,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 488115,
@@ -1667,6 +1707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 422267,
+      "num": 245008,
+      "word": "我的学信网以后不会再更新了",
+      "onboard_time": 1754384065,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418108,
       "num": 253302,
       "word": "管乐回应和小酒窝长得像",
@@ -1745,22 +1793,6 @@
       "onboard_time": 1754364623,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 396063,
-      "num": 320437,
-      "word": "德云社",
-      "onboard_time": 1754383044,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 393759,
-      "num": 319205,
-      "word": "难怪小说女主能在房间里关一天",
-      "onboard_time": 1754382025,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 393506,
@@ -1891,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368119,
-      "num": 319122,
-      "word": "恋综来了个AAA建材王哥",
-      "onboard_time": 1754381062,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363701,
       "num": 363701,
       "word": "苏超盐城vs常州",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1754219845,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347350,
+      "num": 267020,
+      "word": "刘惜君 帮唱",
+      "onboard_time": 1754383825,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 346198,
@@ -2235,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299052,
+      "num": 299052,
+      "word": "逐步推行免费学前教育",
+      "onboard_time": 1754385863,
+      "rank": 8,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 298339,
       "num": 298339,
       "word": "女子参加水上闯关被木头插入腿内",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1754225064,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 265674,
+      "num": 265674,
+      "word": "我下班了不说了",
+      "onboard_time": 1754383286,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 265000,
@@ -3027,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209083,
+      "num": 209083,
+      "word": "鹿晗欠粉丝28张自拍",
+      "onboard_time": 1754381243,
+      "rank": 23,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 208888,
       "num": 152681,
       "word": "张予曦回应被说花瓶",
@@ -3409,14 +3465,6 @@
       "onboard_time": 1754377162,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194130,
-      "num": 194130,
-      "word": "我下班了不说了",
-      "onboard_time": 1754383286,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 193651,
@@ -4363,14 +4411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165442,
-      "num": 165442,
-      "word": "刘惜君 帮唱",
-      "onboard_time": 1754383825,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165102,
       "num": 165102,
       "word": "迪丽热巴金世佳对手戏太自然了",
@@ -4499,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160379,
+      "num": 160379,
+      "word": "深圳华强北叫停小孩哥代送外卖",
+      "onboard_time": 1754384005,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160210,
       "num": 160210,
       "word": "毕业后朋友圈都成了一片空白",
@@ -4619,6 +4667,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155528,
+      "num": 155528,
+      "word": "脑瘫少年从被骂傻子到年入千万",
+      "onboard_time": 1754383345,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155519,
+      "num": 351925,
+      "word": "名古屋市长称日军入侵罪行无法否认",
+      "onboard_time": 1754383224,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155062,
       "num": 155062,
       "word": "不爱打扮 感官过载",
@@ -4673,6 +4737,14 @@
       "onboard_time": 1754382745,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153455,
+      "num": 153455,
+      "word": "自愿弃社保也违法",
+      "onboard_time": 1754382684,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153428,
@@ -4969,6 +5041,14 @@
       "onboard_time": 1754193686,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146220,
+      "num": 146220,
+      "word": "王一博生日登泰趋第一",
+      "onboard_time": 1754385982,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 145975,
@@ -5283,6 +5363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140406,
+      "num": 140406,
+      "word": "哈登中国人气惊呆美国",
+      "onboard_time": 1754386224,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140225,
       "num": 155539,
       "word": "李昀锐谈九重紫爆火",
@@ -5353,6 +5441,14 @@
       "onboard_time": 1754366183,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138887,
+      "num": 138887,
+      "word": "易烊千玺 反PUA进行曲",
+      "onboard_time": 1754384904,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 138846,
@@ -5603,14 +5699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132559,
-      "num": 132559,
-      "word": "脑瘫少年从被骂傻子到年入千万",
-      "onboard_time": 1754383345,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131796,
       "num": 125559,
       "word": "黄子弘凡回应和黄鼠狼打架",
@@ -5673,6 +5761,14 @@
       "onboard_time": 1754376623,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130253,
+      "num": 130253,
+      "word": "张予曦毕雯珺收官发文",
+      "onboard_time": 1754386283,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 130031,
@@ -5833,14 +5929,6 @@
       "onboard_time": 1754196984,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127452,
-      "num": 127452,
-      "word": "深圳华强北叫停小孩哥代送外卖",
-      "onboard_time": 1754384005,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127408,
@@ -6027,6 +6115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124874,
+      "num": 124874,
+      "word": "陈幸同发博为王一博庆生",
+      "onboard_time": 1754384183,
+      "rank": 41,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 124863,
       "num": 124863,
       "word": "伯伯不ins字儿",
@@ -6185,6 +6281,14 @@
       "onboard_time": 1754295685,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121118,
+      "num": 121118,
+      "word": "内娱女明星的解约困境",
+      "onboard_time": 1754385805,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 121069,
@@ -6931,14 +7035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107308,
-      "num": 351925,
-      "word": "名古屋市长称日军入侵罪行无法否认",
-      "onboard_time": 1754383224,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107215,
       "num": 1124275,
       "word": "山东舰辽宁舰并肩向前",
@@ -7203,6 +7299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100188,
+      "num": 100188,
+      "word": "太阳大到出地铁以为上天堂了",
+      "onboard_time": 1754385322,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99952,
       "num": 238480,
       "word": "F1",
@@ -7379,14 +7483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96460,
-      "num": 141781,
-      "word": "自愿弃社保也违法",
-      "onboard_time": 1754382684,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96373,
       "num": 96373,
       "word": "奔驰女司机丈夫或面临相应政务处分",
@@ -7417,6 +7513,14 @@
       "onboard_time": 1754178260,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95853,
+      "num": 95853,
+      "word": "肖战藏海传粤语版港味太正了",
+      "onboard_time": 1754386283,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 95760,
@@ -7489,6 +7593,14 @@
       "onboard_time": 1754273842,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93834,
+      "num": 93834,
+      "word": "以前谈恋爱是要交换QQ密码的",
+      "onboard_time": 1754386462,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 93483,
@@ -7979,6 +8091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79288,
+      "num": 135737,
+      "word": "确保幼儿园教师工资及时足额发放",
+      "onboard_time": 1754386342,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77852,
       "num": 234466,
       "word": "赵心童无缘决赛",
@@ -8137,6 +8257,14 @@
       "onboard_time": 1754142991,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71404,
+      "num": 134035,
+      "word": "实探最后一家盒马会员店",
+      "onboard_time": 1754384544,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70823,
@@ -8337,6 +8465,14 @@
       "onboard_time": 1754262798,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61100,
+      "num": 128728,
+      "word": "花1万3提升英语女儿高考21分",
+      "onboard_time": 1754385563,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60902,
@@ -8643,6 +8779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46500,
+      "num": 98742,
+      "word": "抗洪失联村支书丈夫遗体已找到",
+      "onboard_time": 1754384483,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46320,
       "num": 46320,
       "word": "种地吧导演卸任制作公司经理职务",
@@ -8673,6 +8817,14 @@
       "onboard_time": 1754306482,
       "rank": 16,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 44494,
+      "num": 260506,
+      "word": "张艺兴 还是要读书啊不然不识字",
+      "onboard_time": 1754385923,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 43269,
@@ -8868,7 +9020,7 @@
     },
     {
       "raw_hot": 28268,
-      "num": 509007,
+      "num": 1254213,
       "word": "大河奔涌万象新",
       "onboard_time": 1754383345,
       "rank": 2,
@@ -8985,6 +9137,14 @@
       "onboard_time": 1754290881,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21748,
+      "num": 129214,
+      "word": "一座王楚钦痛楼拔地而起",
+      "onboard_time": 1754386163,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 21511,

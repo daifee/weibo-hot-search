@@ -1,0 +1,410 @@
+{
+  "runTime": 1754386511735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2029811,
+        "num": 2029811,
+        "word": "社保新规9月1日起实施",
+        "onboard_time": 1754382084,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1426080,
+        "num": 1426080,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 27003,
+        "num": 1254213,
+        "word": "大河奔涌万象新",
+        "onboard_time": 1754383345,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1138113,
+        "num": 1138113,
+        "word": "尚九熙回应",
+        "onboard_time": 1754379682,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808343,
+        "num": 808343,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516475,
+        "num": 516475,
+        "word": "董璇 给另一半当妈",
+        "onboard_time": 1754384723,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491129,
+        "num": 491129,
+        "word": "恋综来了个AAA建材王哥",
+        "onboard_time": 1754381062,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424508,
+        "num": 424508,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1754379262,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299052,
+        "num": 299052,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1754385863,
+        "rank": 8,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 298273,
+        "num": 298273,
+        "word": "名古屋市市长希望与南京恢复交流",
+        "onboard_time": 1754375963,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 990967,
+        "num": 298115,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566142,
+        "num": 289479,
+        "word": "难怪小说女主能在房间里关一天",
+        "onboard_time": 1754382025,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 564830,
+        "num": 285591,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521054,
+        "num": 282363,
+        "word": "德云社",
+        "onboard_time": 1754383044,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514782,
+        "num": 277645,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505932,
+        "num": 274817,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347350,
+        "num": 267020,
+        "word": "刘惜君 帮唱",
+        "onboard_time": 1754383825,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265674,
+        "num": 265674,
+        "word": "我下班了不说了",
+        "onboard_time": 1754383286,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44494,
+        "num": 260506,
+        "word": "张艺兴 还是要读书啊不然不识字",
+        "onboard_time": 1754385923,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256691,
+        "num": 256691,
+        "word": "建议大家有些外卖真的别点了",
+        "onboard_time": 1754376503,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422267,
+        "num": 245008,
+        "word": "我的学信网以后不会再更新了",
+        "onboard_time": 1754384065,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307661,
+        "num": 243226,
+        "word": "关晓彤出汗的腿像打了高光",
+        "onboard_time": 1754382805,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227101,
+        "num": 227101,
+        "word": "男子背80斤蜜雪冰城上山卖15元",
+        "onboard_time": 1754370503,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209083,
+        "num": 209083,
+        "word": "鹿晗欠粉丝28张自拍",
+        "onboard_time": 1754381243,
+        "rank": 23,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 180231,
+        "num": 180231,
+        "word": "歌手总决赛帮唱嘉宾线索",
+        "onboard_time": 1754378062,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160379,
+        "num": 160379,
+        "word": "深圳华强北叫停小孩哥代送外卖",
+        "onboard_time": 1754384005,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159670,
+        "num": 159670,
+        "word": "单依纯帮唱嘉宾 王力宏",
+        "onboard_time": 1754381906,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158224,
+        "num": 158224,
+        "word": "利剑玫瑰评论异常",
+        "onboard_time": 1754372182,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155528,
+        "num": 155528,
+        "word": "脑瘫少年从被骂傻子到年入千万",
+        "onboard_time": 1754383345,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155519,
+        "num": 155519,
+        "word": "名古屋市长称日军入侵罪行无法否认",
+        "onboard_time": 1754383224,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153455,
+        "num": 153455,
+        "word": "自愿弃社保也违法",
+        "onboard_time": 1754382684,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146220,
+        "num": 146220,
+        "word": "王一博生日登泰趋第一",
+        "onboard_time": 1754385982,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140406,
+        "num": 140406,
+        "word": "哈登中国人气惊呆美国",
+        "onboard_time": 1754386224,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138887,
+        "num": 138887,
+        "word": "易烊千玺 反PUA进行曲",
+        "onboard_time": 1754384904,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79288,
+        "num": 135737,
+        "word": "确保幼儿园教师工资及时足额发放",
+        "onboard_time": 1754386342,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71404,
+        "num": 134035,
+        "word": "实探最后一家盒马会员店",
+        "onboard_time": 1754384544,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132722,
+        "num": 132722,
+        "word": "北京43平三室一厅的五口之家",
+        "onboard_time": 1754382745,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130253,
+        "num": 130253,
+        "word": "张予曦毕雯珺收官发文",
+        "onboard_time": 1754386283,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21748,
+        "num": 129214,
+        "word": "一座王楚钦痛楼拔地而起",
+        "onboard_time": 1754386163,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61100,
+        "num": 128728,
+        "word": "花1万3提升英语女儿高考21分",
+        "onboard_time": 1754385563,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128665,
+        "num": 128665,
+        "word": "女子参加水上闯关被木头插入腿内",
+        "onboard_time": 1754378783,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124874,
+        "num": 124874,
+        "word": "陈幸同发博为王一博庆生",
+        "onboard_time": 1754384183,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 121154,
+        "num": 121154,
+        "word": "殡仪馆 咖啡店",
+        "onboard_time": 1754381243,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121118,
+        "num": 121118,
+        "word": "内娱女明星的解约困境",
+        "onboard_time": 1754385805,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108843,
+        "num": 108843,
+        "word": "别把聊天截图发给你朋友好吗",
+        "onboard_time": 1754383946,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100188,
+        "num": 100188,
+        "word": "太阳大到出地铁以为上天堂了",
+        "onboard_time": 1754385322,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46500,
+        "num": 98742,
+        "word": "抗洪失联村支书丈夫遗体已找到",
+        "onboard_time": 1754384483,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97333,
+        "num": 97333,
+        "word": "曹格 其实我还没忘掉速玲",
+        "onboard_time": 1754376204,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95853,
+        "num": 95853,
+        "word": "肖战藏海传粤语版港味太正了",
+        "onboard_time": 1754386283,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93834,
+        "num": 93834,
+        "word": "以前谈恋爱是要交换QQ密码的",
+        "onboard_time": 1754386462,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
