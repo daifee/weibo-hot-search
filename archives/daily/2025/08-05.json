@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754376213867,
+  "endTime": 1754377142073,
   "band_list": [
     {
       "raw_hot": 2338033,
@@ -105,6 +105,14 @@
       "onboard_time": 1754374643,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 994642,
+      "num": 314475,
+      "word": "沈泉锐 小沈阳女儿",
+      "onboard_time": 1754375603,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 965653,
@@ -235,8 +243,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 571029,
-      "num": 316078,
+      "raw_hot": 606696,
+      "num": 606696,
       "word": "赵露思说很难想象普通上班族出这事",
       "onboard_time": 1754372364,
       "rank": 23,
@@ -297,6 +305,14 @@
       "onboard_time": 1754355982,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458488,
+      "num": 313452,
+      "word": "时代峰峻辟谣陈奕恒私联",
+      "onboard_time": 1754376022,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 442979,
@@ -371,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388937,
-      "num": 314475,
-      "word": "沈泉锐 小沈阳女儿",
-      "onboard_time": 1754375603,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 386028,
+      "num": 386028,
+      "word": "河南周口已成立调查组",
+      "onboard_time": 1754373982,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359569,
@@ -411,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336848,
-      "num": 336848,
-      "word": "河南周口已成立调查组",
-      "onboard_time": 1754373982,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318781,
       "num": 318781,
       "word": "赵露思说有点不敢推荐东西了",
@@ -443,11 +451,11 @@
       "category": "电竞,综艺"
     },
     {
-      "raw_hot": 313452,
-      "num": 313452,
-      "word": "时代峰峻辟谣陈奕恒私联",
-      "onboard_time": 1754376022,
-      "rank": 14,
+      "raw_hot": 309826,
+      "num": 309826,
+      "word": "曹格 我被我是歌手上过了",
+      "onboard_time": 1754375183,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -465,6 +473,14 @@
       "onboard_time": 1754354903,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293143,
+      "num": 293143,
+      "word": "周口坠楼医生丈夫发声",
+      "onboard_time": 1754375482,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288409,
@@ -531,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248948,
+      "num": 248948,
+      "word": "曹格 其实我还没忘掉速玲",
+      "onboard_time": 1754376204,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246877,
       "num": 246877,
       "word": "网易游戏崩了",
@@ -552,14 +576,6 @@
       "word": "虞书欣告黑案胜诉",
       "onboard_time": 1754367204,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 238080,
-      "num": 308545,
-      "word": "曹格 我被我是歌手上过了",
-      "onboard_time": 1754375183,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -747,12 +763,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191242,
+      "num": 191242,
+      "word": "陈奕恒方回应",
+      "onboard_time": 1754377043,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190188,
       "num": 190188,
       "word": "王一博向岩而生定档8月12日",
       "onboard_time": 1754371402,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189518,
+      "num": 189518,
+      "word": "展轩花衬衫大片",
+      "onboard_time": 1754375963,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 189043,
@@ -875,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167258,
+      "num": 167258,
+      "word": "建议大家有些外卖真的别点了",
+      "onboard_time": 1754376503,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167070,
       "num": 121715,
       "word": "未成年人作恶轻罚的日子要到头了",
@@ -889,14 +929,6 @@
       "onboard_time": 1754369665,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165467,
-      "num": 243450,
-      "word": "周口坠楼医生丈夫发声",
-      "onboard_time": 1754375482,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162535,
@@ -1195,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118802,
+      "num": 142290,
+      "word": "男子回应背80斤蜜雪冰城上山售卖",
+      "onboard_time": 1754373323,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118764,
       "num": 118764,
       "word": "绵阳警方辟谣校园霸凌者父母被抓",
@@ -1217,22 +1257,6 @@
       "onboard_time": 1754371705,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117942,
-      "num": 117942,
-      "word": "展轩花衬衫大片",
-      "onboard_time": 1754375963,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 117596,
-      "num": 142290,
-      "word": "男子回应背80斤蜜雪冰城上山售卖",
-      "onboard_time": 1754373323,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117331,
@@ -1264,6 +1288,46 @@
       "word": "博主曝光内蒙古一火锅店用阴阳菜单",
       "onboard_time": 1754334374,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113681,
+      "num": 113681,
+      "word": "王青回归自己的超话",
+      "onboard_time": 1754376922,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112324,
+      "num": 112324,
+      "word": "日军731部队的实验工具有多触目惊心",
+      "onboard_time": 1754376623,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112243,
+      "num": 112243,
+      "word": "深情眼团综眼福不浅",
+      "onboard_time": 1754376442,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112147,
+      "num": 112147,
+      "word": "女生制止男子地铁站内吸烟反遭掌掴",
+      "onboard_time": 1754373982,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112054,
+      "num": 303248,
+      "word": "坠亡医生为羊水栓塞产妇切子宫保命",
+      "onboard_time": 1754376744,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1363,20 +1427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101596,
-      "num": 101596,
-      "word": "女生制止男子地铁站内吸烟反遭掌掴",
-      "onboard_time": 1754373982,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100348,
       "num": 121276,
       "word": "人民日报专访浪浪山小妖怪主创",
       "onboard_time": 1754317826,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99803,
+      "num": 99803,
+      "word": "最近广东人的上班现状",
+      "onboard_time": 1754376322,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 97822,
@@ -1403,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97056,
+      "num": 97056,
+      "word": "21岁战士身捆手榴弹从5楼跳向日军",
+      "onboard_time": 1754377104,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96516,
       "num": 96516,
       "word": "俄回应美部署核潜艇",
@@ -1425,6 +1497,14 @@
       "onboard_time": 1754316265,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94459,
+      "num": 94459,
+      "word": "俄将不再维持中导条约单方面自我限制",
+      "onboard_time": 1754377104,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92344,
@@ -1771,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50511,
+      "num": 1035128,
+      "word": "抗战烈士曾在家书说国不保家何能存",
+      "onboard_time": 1754375603,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49548,
       "num": 121224,
       "word": "台湾姑娘分享对大陆喜爱遭恶意攻击",
@@ -1888,14 +1976,6 @@
       "word": "内蒙古 龙卷风",
       "onboard_time": 1754366785,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32228,
-      "num": 1035128,
-      "word": "抗战烈士曾在家书说国不保家何能存",
-      "onboard_time": 1754375603,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

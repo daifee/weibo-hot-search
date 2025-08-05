@@ -1,0 +1,410 @@
+{
+  "runTime": 1754377142073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390953,
+        "num": 1390953,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981064,
+        "num": 981064,
+        "word": "官方通报周口六院邵医生坠亡",
+        "onboard_time": 1754372543,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 50511,
+        "num": 959551,
+        "word": "抗战烈士曾在家书说国不保家何能存",
+        "onboard_time": 1754375603,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 950433,
+        "num": 950433,
+        "word": "坠楼医生出事前一天曾向派出所报案",
+        "onboard_time": 1754374643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765923,
+        "num": 765923,
+        "word": "少林寺离职潮",
+        "onboard_time": 1754370025,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606696,
+        "num": 606696,
+        "word": "赵露思说很难想象普通上班族出这事",
+        "onboard_time": 1754372364,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487047,
+        "num": 487047,
+        "word": "男子背80斤蜜雪冰城上山卖15元",
+        "onboard_time": 1754370503,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386028,
+        "num": 386028,
+        "word": "河南周口已成立调查组",
+        "onboard_time": 1754373982,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309826,
+        "num": 309826,
+        "word": "曹格 我被我是歌手上过了",
+        "onboard_time": 1754375183,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499962,
+        "num": 308858,
+        "word": "创始人回应赵露思沙拉没放酱",
+        "onboard_time": 1754369125,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1076971,
+        "num": 308536,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 994642,
+        "num": 306778,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458488,
+        "num": 305801,
+        "word": "时代峰峻辟谣陈奕恒私联",
+        "onboard_time": 1754376022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453155,
+        "num": 305199,
+        "word": "利剑玫瑰评论异常",
+        "onboard_time": 1754372182,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112054,
+        "num": 303248,
+        "word": "坠亡医生为羊水栓塞产妇切子宫保命",
+        "onboard_time": 1754376744,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302888,
+        "num": 302888,
+        "word": "于正说白鹿团队全内娱最好",
+        "onboard_time": 1754369363,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293143,
+        "num": 293143,
+        "word": "周口坠楼医生丈夫发声",
+        "onboard_time": 1754375482,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280552,
+        "num": 280552,
+        "word": "酷似大S走红女生删除视频",
+        "onboard_time": 1754368284,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248948,
+        "num": 248948,
+        "word": "曹格 其实我还没忘掉速玲",
+        "onboard_time": 1754376204,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236351,
+        "num": 236351,
+        "word": "侵华日军站在尸体旁炫耀",
+        "onboard_time": 1754365223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227044,
+        "num": 227044,
+        "word": "白敬亭郑合惠子见面",
+        "onboard_time": 1754363482,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191242,
+        "num": 191242,
+        "word": "陈奕恒方回应",
+        "onboard_time": 1754377043,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189518,
+        "num": 189518,
+        "word": "展轩花衬衫大片",
+        "onboard_time": 1754375963,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172946,
+        "num": 172946,
+        "word": "打车送脑出血父亲就医被取消订单",
+        "onboard_time": 1754364742,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172824,
+        "num": 172824,
+        "word": "横店大雪出爆剧的玄学含金量还在上升",
+        "onboard_time": 1754375303,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167258,
+        "num": 167258,
+        "word": "建议大家有些外卖真的别点了",
+        "onboard_time": 1754376503,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163910,
+        "num": 163910,
+        "word": "小猫被嗦成了芒果核",
+        "onboard_time": 1754367685,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141938,
+        "num": 141938,
+        "word": "原来以前的西瓜是这样的",
+        "onboard_time": 1754374824,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32055,
+        "num": 138843,
+        "word": "锤娜丽莎9块9宵夜太香了",
+        "onboard_time": 1754372842,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136951,
+        "num": 136951,
+        "word": "休假交警路遇侧翻秒出警",
+        "onboard_time": 1754363783,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136809,
+        "num": 136809,
+        "word": "缴纳社保不能自愿放弃",
+        "onboard_time": 1754361201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135224,
+        "num": 135224,
+        "word": "恋与深空运营方被起诉",
+        "onboard_time": 1754371522,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118802,
+        "num": 118802,
+        "word": "男子回应背80斤蜜雪冰城上山售卖",
+        "onboard_time": 1754373323,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114852,
+        "num": 114852,
+        "word": "为什么浴巾用久了总有一股怪味",
+        "onboard_time": 1754375123,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113058,
+        "num": 113816,
+        "word": "龚俊咱还回内娱当偶像吗",
+        "onboard_time": 1754366785,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113425,
+        "num": 113713,
+        "word": "敖瑞鹏常华森 双生魔丸的不同选择",
+        "onboard_time": 1754372182,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113712,
+        "num": 113712,
+        "word": "苏新皓7月网盘更新",
+        "onboard_time": 1754373563,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113681,
+        "num": 113681,
+        "word": "王青回归自己的超话",
+        "onboard_time": 1754376922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112324,
+        "num": 112324,
+        "word": "日军731部队的实验工具有多触目惊心",
+        "onboard_time": 1754376623,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112243,
+        "num": 112243,
+        "word": "深情眼团综眼福不浅",
+        "onboard_time": 1754376442,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112147,
+        "num": 112147,
+        "word": "女生制止男子地铁站内吸烟反遭掌掴",
+        "onboard_time": 1754373982,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109272,
+        "num": 109272,
+        "word": "刘宇宁只是假装坚强",
+        "onboard_time": 1754375842,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106400,
+        "num": 106400,
+        "word": "孩子考上大学家长记得修改个税信息",
+        "onboard_time": 1754375782,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102925,
+        "num": 102925,
+        "word": "女子吃桃子咬开发现里面一堆树叶",
+        "onboard_time": 1754349379,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99803,
+        "num": 99803,
+        "word": "最近广东人的上班现状",
+        "onboard_time": 1754376322,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97742,
+        "num": 97742,
+        "word": "燕云十六声",
+        "onboard_time": 1754372842,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97056,
+        "num": 97056,
+        "word": "21岁战士身捆手榴弹从5楼跳向日军",
+        "onboard_time": 1754377104,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96256,
+        "num": 96256,
+        "word": "BLACKPINK演唱会上百无聊赖的老父亲们",
+        "onboard_time": 1754367745,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94459,
+        "num": 94459,
+        "word": "俄将不再维持中导条约单方面自我限制",
+        "onboard_time": 1754377104,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89288,
+        "num": 94457,
+        "word": "第五人格崩了",
+        "onboard_time": 1754367923,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
