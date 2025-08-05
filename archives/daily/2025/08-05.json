@@ -1,6 +1,6 @@
 {
   "startTime": 1754325503094,
-  "endTime": 1754391032708,
+  "endTime": 1754393170024,
   "band_list": [
     {
       "raw_hot": 3827156,
@@ -24,6 +24,14 @@
       "word": "王一博",
       "onboard_time": 1754324061,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2132987,
+      "num": 428260,
+      "word": "赵露思爸爸前年确诊癌症",
+      "onboard_time": 1754389645,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1754363482,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1586288,
-      "num": 428260,
-      "word": "赵露思爸爸前年确诊癌症",
-      "onboard_time": 1754389645,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 1585244,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 569503,
+      "num": 219212,
+      "word": "李心艾产女",
+      "onboard_time": 1754391564,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567298,
       "num": 333415,
       "word": "德云社",
@@ -521,6 +529,14 @@
       "onboard_time": 1754379923,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463415,
+      "num": 463415,
+      "word": "再见爱人5",
+      "onboard_time": 1754390484,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 458813,
@@ -795,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254648,
+      "num": 254648,
+      "word": "男子卖4根金条6张银行卡被封",
+      "onboard_time": 1754391983,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254232,
       "num": 254232,
       "word": "嘻哈结婚了也离婚了",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1754383704,
       "rank": 26,
       "category": "艺人,辟谣/通报"
+    },
+    {
+      "raw_hot": 197764,
+      "num": 153791,
+      "word": "韩国全民放10天高温假",
+      "onboard_time": 1754392823,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196673,
@@ -1371,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166409,
-      "num": 166409,
-      "word": "再见爱人5",
-      "onboard_time": 1754390484,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165505,
       "num": 165505,
       "word": "每次发工资同事都假装不着急",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1754383224,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154741,
+      "num": 154741,
+      "word": "谢兴阳买房",
+      "onboard_time": 1754390904,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 153505,
@@ -1731,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134561,
+      "num": 153971,
+      "word": "高会",
+      "onboard_time": 1754391623,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134190,
       "num": 134190,
       "word": "凡人修仙传四个人有三个群",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1754384183,
       "rank": 41,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 123576,
+      "num": 123576,
+      "word": "在微信状态养只懒羊羊",
+      "onboard_time": 1754392941,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 122778,
@@ -2035,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112524,
+      "num": 112524,
+      "word": "茅台酒新品或每瓶7000元",
+      "onboard_time": 1754392823,
+      "rank": 43,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 112243,
       "num": 112243,
       "word": "深情眼团综眼福不浅",
@@ -2067,14 +2123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110686,
-      "num": 110686,
-      "word": "谢兴阳买房",
-      "onboard_time": 1754390904,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110627,
       "num": 121181,
       "word": "网友KTV偶遇张翰",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1754375782,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108517,
+      "num": 108517,
+      "word": "张予曦越说到后面越哽咽",
+      "onboard_time": 1754392703,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 107409,
@@ -2144,6 +2200,14 @@
       "word": "黑神话取景地华严寺回应殿墙被刻字",
       "onboard_time": 1754356102,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104062,
+      "num": 293210,
+      "word": "哪些人群可以免保育教育费",
+      "onboard_time": 1754389645,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2203,12 +2267,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101803,
+      "num": 128268,
+      "word": "王鹤棣躲进何炅怀里",
+      "onboard_time": 1754391023,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101686,
       "num": 101686,
       "word": "陈伟霆 坐这么舒服啊你们",
       "onboard_time": 1754347157,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100499,
+      "num": 104084,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1754391923,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 100348,
@@ -2363,6 +2443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89889,
+      "num": 118062,
+      "word": "黄焖鸡卖不动了",
+      "onboard_time": 1754391983,
+      "rank": 41,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 88531,
       "num": 110087,
       "word": "第一次见王者图标后脑勺",
@@ -2427,6 +2515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 82920,
+      "num": 208204,
+      "word": "2025成都世运会场馆漫游指南",
+      "onboard_time": 1754391863,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82678,
       "num": 120720,
       "word": "刘宇宁晒地球超新鲜合照",
@@ -2465,6 +2561,14 @@
       "onboard_time": 1754348778,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78864,
+      "num": 125544,
+      "word": "今年立秋属于晚立秋",
+      "onboard_time": 1754391803,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77820,
@@ -2641,14 +2745,6 @@
       "onboard_time": 1754368344,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63784,
-      "num": 293210,
-      "word": "哪些人群可以免保育教育费",
-      "onboard_time": 1754389645,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63509,
@@ -2875,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37579,
+      "num": 121446,
+      "word": "北极圈遭遇13天30℃热浪",
+      "onboard_time": 1754392823,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37542,
       "num": 114340,
       "word": "差点以为孟子义是真出师了",
@@ -2905,6 +3009,14 @@
       "onboard_time": 1754349979,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35252,
+      "num": 121449,
+      "word": "密密麻麻的不是蚂蚁是加沙饥民",
+      "onboard_time": 1754392223,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33221,
@@ -2985,6 +3097,14 @@
       "onboard_time": 1754329397,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19272,
+      "num": 122029,
+      "word": "海航允许乘客带2只宠物进客舱",
+      "onboard_time": 1754392883,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18663,
