@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754389923152,
+  "endTime": 1754391032708,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -105,6 +105,14 @@
       "onboard_time": 1754111421,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3827156,
+      "num": 3827156,
+      "word": "赵露思直播哭了",
+      "onboard_time": 1754389163,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3558648,
@@ -315,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1983953,
-      "num": 1983953,
-      "word": "赵露思直播哭了",
-      "onboard_time": 1754389163,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1961731,
       "num": 1961731,
       "word": "韩国汉江惊现巨型不明物体",
@@ -472,6 +472,14 @@
       "word": "赵露思八问银河酷娱",
       "onboard_time": 1754195905,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1586288,
+      "num": 428260,
+      "word": "赵露思爸爸前年确诊癌症",
+      "onboard_time": 1754389645,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 1214542,
-      "num": 663157,
+      "num": 1196190,
       "word": "FRED斐登 鞠婧祎",
       "onboard_time": 1754389163,
       "rank": 6,
@@ -5291,6 +5299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216686,
+      "num": 216686,
+      "word": "庞博 喜单最好的公关",
+      "onboard_time": 1754390063,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216411,
       "num": 180763,
       "word": "湖北退出航母命名争夺战",
@@ -7723,6 +7739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169491,
+      "num": 208167,
+      "word": "一女被四男追有多刺激",
+      "onboard_time": 1754389704,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169448,
       "num": 169448,
       "word": "冯建宇工作室回归",
@@ -7891,12 +7915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166465,
-      "num": 166465,
-      "word": "赵露思爸爸前年确诊癌症",
-      "onboard_time": 1754389645,
+      "raw_hot": 166409,
+      "num": 166409,
+      "word": "再见爱人5",
+      "onboard_time": 1754390484,
       "rank": 33,
-      "category": "艺人"
+      "category": "综艺"
     },
     {
       "raw_hot": 166200,
@@ -8112,6 +8136,14 @@
       "word": "鼠标女儿都看上家有儿女了",
       "onboard_time": 1754047523,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163016,
+      "num": 163016,
+      "word": "葬礼都办了人复活了",
+      "onboard_time": 1754389764,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -10531,14 +10563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132903,
-      "num": 132903,
-      "word": "一女被四男追有多刺激",
-      "onboard_time": 1754389704,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132838,
       "num": 132838,
       "word": "30岁独居女性的真实生活",
@@ -11291,6 +11315,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 125256,
+      "num": 125256,
+      "word": "王玉雯用演技骗过所有人",
+      "onboard_time": 1754390663,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125255,
       "num": 125255,
       "word": "谭瑞松多次泄露内幕信息",
@@ -11481,14 +11513,6 @@
       "onboard_time": 1754110222,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123197,
-      "num": 123197,
-      "word": "葬礼都办了人复活了",
-      "onboard_time": 1754389764,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 122937,
@@ -12459,6 +12483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113029,
+      "num": 113029,
+      "word": "李佳薇唱煎熬",
+      "onboard_time": 1754389944,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112949,
       "num": 112949,
       "word": "袁一琦新歌舞台",
@@ -12657,6 +12689,14 @@
       "onboard_time": 1754219603,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110686,
+      "num": 110686,
+      "word": "谢兴阳买房",
+      "onboard_time": 1754390904,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 110601,
@@ -13083,6 +13123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104053,
+      "num": 428416,
+      "word": "帮助经济困难儿童接受学前教育",
+      "onboard_time": 1754389645,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103977,
       "num": 103977,
       "word": "何洛洛身上一股比格味",
@@ -13337,14 +13385,6 @@
       "onboard_time": 1754385322,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99885,
-      "num": 250339,
-      "word": "帮助经济困难儿童接受学前教育",
-      "onboard_time": 1754389645,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99882,
@@ -13971,6 +14011,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 91475,
+      "num": 197512,
+      "word": "密室大逃脱戏梦双生",
+      "onboard_time": 1754388623,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91464,
       "num": 130674,
       "word": "刘昊然能不能替我面试",
@@ -14089,6 +14137,14 @@
       "onboard_time": 1754236523,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88531,
+      "num": 110087,
+      "word": "第一次见王者图标后脑勺",
+      "onboard_time": 1754389163,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 88425,
@@ -14243,6 +14299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84569,
+      "num": 151551,
+      "word": "时代少年团上海演唱会正式官宣",
+      "onboard_time": 1754390963,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 84157,
       "num": 97320,
       "word": "孟子义对自己的脸非常有自信",
@@ -14281,6 +14345,14 @@
       "onboard_time": 1754274261,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83798,
+      "num": 110043,
+      "word": "花3小时在家里学会了游泳",
+      "onboard_time": 1754390543,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 83745,
@@ -14499,14 +14571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77499,
-      "num": 134289,
-      "word": "密室大逃脱戏梦双生",
-      "onboard_time": 1754388623,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77376,
       "num": 86896,
       "word": "镇干部离岗8年",
@@ -14641,6 +14705,14 @@
       "onboard_time": 1754321184,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73544,
+      "num": 110042,
+      "word": "一夜泡茄子",
+      "onboard_time": 1754390303,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 73167,
@@ -14945,6 +15017,14 @@
       "onboard_time": 1754311104,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63784,
+      "num": 293210,
+      "word": "哪些人群可以免保育教育费",
+      "onboard_time": 1754389645,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63634,
@@ -15851,6 +15931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36101,
+      "num": 195112,
+      "word": "离婚10年孩子生病找不到生父",
+      "onboard_time": 1754389883,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35937,
       "num": 245163,
       "word": "喜单演员卡壳卡出名场面",
@@ -16121,14 +16209,6 @@
       "onboard_time": 1754329397,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25908,
-      "num": 255363,
-      "word": "哪些人群可以免保育教育费",
-      "onboard_time": 1754389645,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25564,
@@ -16473,14 +16553,6 @@
       "onboard_time": 1754279244,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11004,
-      "num": 134576,
-      "word": "离婚10年孩子生病找不到生父",
-      "onboard_time": 1754389883,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9245,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754391032708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3827156,
+        "num": 3827156,
+        "word": "赵露思直播哭了",
+        "onboard_time": 1754389163,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1556943,
+        "num": 1556943,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 22145,
+        "num": 1224368,
+        "word": "大河奔涌万象新",
+        "onboard_time": 1754383345,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1196190,
+        "num": 1196190,
+        "word": "FRED斐登 鞠婧祎",
+        "onboard_time": 1754389163,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830983,
+        "num": 830983,
+        "word": "社保新规9月1日起实施",
+        "onboard_time": 1754382084,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671614,
+        "num": 671614,
+        "word": "活佛转世不由达赖喇嘛个人说了算",
+        "onboard_time": 1754386704,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1142953,
+        "num": 634023,
+        "word": "时代少年团上海四场连开",
+        "onboard_time": 1754388924,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 534998,
+        "num": 534998,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429095,
+        "num": 429095,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1754385863,
+        "rank": 8,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 104053,
+        "num": 428416,
+        "word": "帮助经济困难儿童接受学前教育",
+        "onboard_time": 1754389645,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1586288,
+        "num": 428260,
+        "word": "赵露思爸爸前年确诊癌症",
+        "onboard_time": 1754389645,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 979350,
+        "num": 427465,
+        "word": "我下班了不说了",
+        "onboard_time": 1754383286,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 885036,
+        "num": 426992,
+        "word": "尚九熙回应",
+        "onboard_time": 1754379682,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852498,
+        "num": 426039,
+        "word": "29岁确诊闭经",
+        "onboard_time": 1754387664,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 425680,
+        "num": 425680,
+        "word": "黄多多星味",
+        "onboard_time": 1754382445,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400674,
+        "num": 400674,
+        "word": "董璇 给另一半当妈",
+        "onboard_time": 1754384723,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344278,
+        "num": 344278,
+        "word": "秦霄贤 何九华",
+        "onboard_time": 1754379744,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332528,
+        "num": 332528,
+        "word": "沈泉锐 小沈阳女儿",
+        "onboard_time": 1754375603,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300630,
+        "num": 300630,
+        "word": "女子例假后游泳大出血向场馆索赔",
+        "onboard_time": 1754372783,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63784,
+        "num": 293210,
+        "word": "哪些人群可以免保育教育费",
+        "onboard_time": 1754389645,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292875,
+        "num": 292875,
+        "word": "难怪小说女主能在房间里关一天",
+        "onboard_time": 1754382025,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244294,
+        "num": 244294,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1754379262,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217801,
+        "num": 217801,
+        "word": "BLG公布Beichuan诊断报告",
+        "onboard_time": 1754388384,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216686,
+        "num": 216686,
+        "word": "庞博 喜单最好的公关",
+        "onboard_time": 1754390063,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213627,
+        "num": 213627,
+        "word": "德云社",
+        "onboard_time": 1754383044,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211930,
+        "num": 211930,
+        "word": "刘惜君 帮唱",
+        "onboard_time": 1754383825,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169491,
+        "num": 208167,
+        "word": "一女被四男追有多刺激",
+        "onboard_time": 1754389704,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207657,
+        "num": 207657,
+        "word": "时代峰峻两眼一睁就是盖章",
+        "onboard_time": 1754387064,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91475,
+        "num": 197512,
+        "word": "密室大逃脱戏梦双生",
+        "onboard_time": 1754388623,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36101,
+        "num": 195112,
+        "word": "离婚10年孩子生病找不到生父",
+        "onboard_time": 1754389883,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193963,
+        "num": 193963,
+        "word": "我的学信网以后不会再更新了",
+        "onboard_time": 1754384065,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180804,
+        "num": 180804,
+        "word": "龚俊被喷",
+        "onboard_time": 1754386823,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167250,
+        "num": 167250,
+        "word": "关晓彤出汗的腿像打了高光",
+        "onboard_time": 1754382805,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166409,
+        "num": 166409,
+        "word": "再见爱人5",
+        "onboard_time": 1754390484,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163016,
+        "num": 163016,
+        "word": "葬礼都办了人复活了",
+        "onboard_time": 1754389764,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154028,
+        "num": 154028,
+        "word": "恋综来了个AAA建材王哥",
+        "onboard_time": 1754381062,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84569,
+        "num": 151551,
+        "word": "时代少年团上海演唱会正式官宣",
+        "onboard_time": 1754390963,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151429,
+        "num": 151429,
+        "word": "张艺兴 还是要读书啊不然不识字",
+        "onboard_time": 1754385923,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149126,
+        "num": 149126,
+        "word": "建议大家有些外卖真的别点了",
+        "onboard_time": 1754376503,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148408,
+        "num": 148408,
+        "word": "深圳华强北叫停小孩哥代送外卖",
+        "onboard_time": 1754384005,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135404,
+        "num": 135404,
+        "word": "TOP 沈阳",
+        "onboard_time": 1754387902,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128446,
+        "num": 128446,
+        "word": "歌手总决赛帮唱嘉宾线索",
+        "onboard_time": 1754378062,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125256,
+        "num": 125256,
+        "word": "王玉雯用演技骗过所有人",
+        "onboard_time": 1754390663,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124676,
+        "num": 124676,
+        "word": "谢娜爸爸看倪萍评价没睡着觉",
+        "onboard_time": 1754387123,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116422,
+        "num": 116422,
+        "word": "名古屋市市长希望与南京恢复交流",
+        "onboard_time": 1754375963,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113029,
+        "num": 113029,
+        "word": "李佳薇唱煎熬",
+        "onboard_time": 1754389944,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110686,
+        "num": 110686,
+        "word": "谢兴阳买房",
+        "onboard_time": 1754390904,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88531,
+        "num": 110087,
+        "word": "第一次见王者图标后脑勺",
+        "onboard_time": 1754389163,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83798,
+        "num": 110043,
+        "word": "花3小时在家里学会了游泳",
+        "onboard_time": 1754390543,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 73544,
+        "num": 110042,
+        "word": "一夜泡茄子",
+        "onboard_time": 1754390303,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
