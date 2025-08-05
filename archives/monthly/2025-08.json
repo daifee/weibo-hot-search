@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754408803626,
+  "endTime": 1754411447597,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -241,6 +241,14 @@
       "onboard_time": 1754231546,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2366610,
+      "num": 2366610,
+      "word": "TFBOYS十二周年",
+      "onboard_time": 1754407344,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 2356229,
@@ -1379,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 797653,
+      "num": 466888,
+      "word": "王俊凯",
+      "onboard_time": 1754410703,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796829,
       "num": 796829,
       "word": "酱子贝 融梗",
@@ -2355,14 +2371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 535821,
-      "num": 535821,
-      "word": "TFBOYS十二周年",
-      "onboard_time": 1754407344,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 535420,
       "num": 535420,
       "word": "市监局回应蜜雪冰城柠檬水有籽被投诉",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1754051602,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448529,
+      "num": 448529,
+      "word": "14岁女生身亡现场逮捕一名13岁女生",
+      "onboard_time": 1754408243,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446901,
@@ -3747,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331536,
+      "num": 331536,
+      "word": "原来这么多短剧演员是选秀出身",
+      "onboard_time": 1754407344,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330086,
       "num": 330086,
       "word": "斗破苍穹",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1754010923,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 327767,
+      "num": 327767,
+      "word": "卫健委回应多人骑电单车夜闯医院走廊",
+      "onboard_time": 1754408902,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327691,
@@ -5339,14 +5371,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 224333,
-      "num": 224333,
-      "word": "14岁女生身亡现场逮捕一名13岁女生",
-      "onboard_time": 1754408243,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224324,
       "num": 208653,
       "word": "杨冰怡 空中见",
@@ -5361,6 +5385,14 @@
       "onboard_time": 1754107521,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224046,
+      "num": 224046,
+      "word": "东莞暴雨眼镜蛇爬上2米高窗户逃生",
+      "onboard_time": 1754410164,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223717,
@@ -5569,14 +5601,6 @@
       "onboard_time": 1754363723,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 216128,
-      "num": 216128,
-      "word": "原来这么多短剧演员是选秀出身",
-      "onboard_time": 1754407344,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 216040,
@@ -7707,6 +7731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175418,
+      "num": 175418,
+      "word": "红姨全家福",
+      "onboard_time": 1754408302,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175415,
       "num": 163659,
       "word": "单依纯最后悔的决定",
@@ -7969,6 +8001,14 @@
       "onboard_time": 1754382805,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 171737,
+      "num": 171737,
+      "word": "男篮亚洲杯",
+      "onboard_time": 1754410403,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 171730,
@@ -11027,6 +11067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133085,
+      "num": 133085,
+      "word": "TF四代见面会联排合照",
+      "onboard_time": 1754410942,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132838,
       "num": 132838,
       "word": "30岁独居女性的真实生活",
@@ -13747,14 +13795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103678,
-      "num": 103678,
-      "word": "红姨全家福",
-      "onboard_time": 1754408302,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "四十七",
@@ -15123,6 +15163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82493,
+      "num": 82493,
+      "word": "导演说迪丽热巴的表演让他意外",
+      "onboard_time": 1754410044,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82479,
       "num": 82479,
       "word": "陈凯文rap",
@@ -15289,6 +15337,14 @@
       "onboard_time": 1754342114,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77411,
+      "num": 77411,
+      "word": "张杰签售会",
+      "onboard_time": 1754410523,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 77376,
@@ -15520,6 +15576,14 @@
       "word": "男女厕位比例不应简单对半分",
       "onboard_time": 1754189422,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70477,
+      "num": 156073,
+      "word": "涉暴力海龟汤游戏卡牌流向校园",
+      "onboard_time": 1754409202,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -15777,6 +15841,14 @@
       "onboard_time": 1754038283,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63313,
+      "num": 169013,
+      "word": "中国稀土竟然还有这样的用处",
+      "onboard_time": 1754408723,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63169,
@@ -16795,6 +16867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34633,
+      "num": 109621,
+      "word": "3500万起拍的四合院或改为出租",
+      "onboard_time": 1754409685,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33960,
       "num": 129827,
       "word": "当我突然告诉朋友家人领证了",
@@ -17083,11 +17163,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22661,
-      "num": 97276,
-      "word": "中国稀土竟然还有这样的用处",
-      "onboard_time": 1754408723,
-      "rank": 43,
+      "raw_hot": 22672,
+      "num": 931841,
+      "word": "丝路万里画卷",
+      "onboard_time": 1754399482,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -17305,14 +17385,6 @@
       "onboard_time": 1754248816,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15440,
-      "num": 931841,
-      "word": "丝路万里画卷",
-      "onboard_time": 1754399482,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15404,
