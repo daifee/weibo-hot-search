@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754411447597,
+  "endTime": 1754412392172,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -575,6 +575,14 @@
       "num": 899623,
       "word": "张馨予何捷结婚七周年",
       "onboard_time": 1754027902,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1508373,
+      "num": 466888,
+      "word": "王俊凯",
+      "onboard_time": 1754410703,
       "rank": 3,
       "category": "艺人"
     },
@@ -1385,14 +1393,6 @@
       "onboard_time": 1754215703,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 797653,
-      "num": 466888,
-      "word": "王俊凯",
-      "onboard_time": 1754410703,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 796829,
@@ -2835,6 +2835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 461189,
+      "num": 461189,
+      "word": "东莞暴雨眼镜蛇爬上2米高窗户逃生",
+      "onboard_time": 1754410164,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458813,
       "num": 458813,
       "word": "名古屋市市长希望与南京恢复交流",
@@ -3001,6 +3009,14 @@
       "onboard_time": 1754384065,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 427102,
+      "num": 427102,
+      "word": "卫健委回应多人骑电单车夜闯医院走廊",
+      "onboard_time": 1754408902,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425727,
@@ -3371,6 +3387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 376725,
+      "num": 131367,
+      "word": "易烊千玺",
+      "onboard_time": 1754411780,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375923,
       "num": 375923,
       "word": "北京这7区市民非必要不外出",
@@ -3513,6 +3537,14 @@
       "onboard_time": 1753998674,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355472,
+      "num": 271482,
+      "word": "男子先穿内裤后穿袜子脚气传染大腿",
+      "onboard_time": 1754411661,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 355333,
@@ -3809,14 +3841,6 @@
       "onboard_time": 1754010923,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327767,
-      "num": 327767,
-      "word": "卫健委回应多人骑电单车夜闯医院走廊",
-      "onboard_time": 1754408902,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327691,
@@ -4747,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257202,
+      "num": 257202,
+      "word": "红姨全家福",
+      "onboard_time": 1754408302,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256845,
       "num": 256845,
       "word": "举报史航女生再发声",
@@ -5387,14 +5419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224046,
-      "num": 224046,
-      "word": "东莞暴雨眼镜蛇爬上2米高窗户逃生",
-      "onboard_time": 1754410164,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223717,
       "num": 164226,
       "word": "女子将蜡烛放进冰箱烧掉顶部",
@@ -5625,6 +5649,14 @@
       "onboard_time": 1754401463,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215286,
+      "num": 215286,
+      "word": "中国男篮vs沙特男篮",
+      "onboard_time": 1754411602,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 215119,
@@ -7619,6 +7651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177096,
+      "num": 177096,
+      "word": "王源",
+      "onboard_time": 1754412140,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176998,
       "num": 176998,
       "word": "孟子义认出了李昀锐",
@@ -7729,14 +7769,6 @@
       "onboard_time": 1754021241,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175418,
-      "num": 175418,
-      "word": "红姨全家福",
-      "onboard_time": 1754408302,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 175415,
@@ -9841,6 +9873,14 @@
       "onboard_time": 1754198305,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145713,
+      "num": 145713,
+      "word": "歌手2025",
+      "onboard_time": 1754411602,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 145659,
@@ -13595,6 +13635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105713,
+      "num": 271664,
+      "word": "澳洲14岁中国女交换生遇刺身亡",
+      "onboard_time": 1754411721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105538,
       "num": 105538,
       "word": "NCT127官娃",
@@ -16921,6 +16969,14 @@
       "onboard_time": 1754296883,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32367,
+      "num": 114032,
+      "word": "情侣遇车祸死里逃生当事人发声",
+      "onboard_time": 1754411540,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32316,
