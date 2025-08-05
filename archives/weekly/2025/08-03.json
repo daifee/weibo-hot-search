@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754436518859,
+  "endTime": 1754437417285,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1042885,
+      "num": 1042885,
+      "word": "卫健委回应多人骑电单车夜闯医院走廊",
+      "onboard_time": 1754408902,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1034416,
       "num": 1034416,
       "word": "第五人格",
@@ -737,14 +745,6 @@
       "onboard_time": 1754377883,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 934448,
-      "num": 934448,
-      "word": "卫健委回应多人骑电单车夜闯医院走廊",
-      "onboard_time": 1754408902,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 931603,
@@ -985,6 +985,14 @@
       "onboard_time": 1754363542,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730077,
+      "num": 316248,
+      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
+      "onboard_time": 1754414718,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 720671,
@@ -1523,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555856,
+      "num": 509172,
+      "word": "澳洲14岁中国女交换生遇刺身亡",
+      "onboard_time": 1754411721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549028,
       "num": 549028,
       "word": "时代少年团 上海",
@@ -1547,14 +1563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 532090,
-      "num": 317847,
-      "word": "澳洲14岁中国女交换生遇刺身亡",
-      "onboard_time": 1754411721,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 531807,
       "num": 427139,
       "word": "利剑玫瑰 口型对不上",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1754277923,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 527697,
-      "num": 316248,
-      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
-      "onboard_time": 1754414718,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 524994,
@@ -1697,6 +1697,14 @@
       "onboard_time": 1754381062,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 489312,
+      "num": 489312,
+      "word": "曹云金感谢郭德纲持续教他做人",
+      "onboard_time": 1754436439,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 488527,
@@ -2291,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353813,
+      "num": 353813,
+      "word": "女性在生理期不能运动系谣言",
+      "onboard_time": 1754433617,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 348262,
       "num": 348262,
       "word": "中国队无缘男子10米台奖牌",
@@ -2451,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323140,
+      "num": 323140,
+      "word": "以色列总理决定全面占领加沙",
+      "onboard_time": 1754412501,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320831,
       "num": 320831,
       "word": "海来阿木变化好大",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1754399003,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315107,
-      "num": 315107,
-      "word": "以色列总理决定全面占领加沙",
-      "onboard_time": 1754412501,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 314976,
@@ -3035,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252717,
+      "num": 199725,
+      "word": "赵露思说之前不敢闹因为拍戏要口碑",
+      "onboard_time": 1754436559,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252715,
       "num": 252715,
       "word": "刺杀小说家2",
@@ -3049,14 +3073,6 @@
       "onboard_time": 1754359461,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251580,
-      "num": 251580,
-      "word": "曹云金感谢郭德纲持续教他做人",
-      "onboard_time": 1754436439,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 249594,
@@ -3187,6 +3203,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 237101,
+      "num": 199533,
+      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+      "onboard_time": 1754417056,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235961,
       "num": 235961,
       "word": "横店大雪出爆剧的玄学含金量还在上升",
@@ -3307,14 +3331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226242,
-      "num": 174158,
-      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
-      "onboard_time": 1754417056,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225182,
       "num": 225182,
       "word": "TVB男演员做香港旅行陪玩",
@@ -3345,14 +3361,6 @@
       "onboard_time": 1754353581,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223208,
-      "num": 223208,
-      "word": "女性在生理期不能运动系谣言",
-      "onboard_time": 1754433617,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 222830,
@@ -3712,6 +3720,14 @@
       "word": "赵丽颖短发九宫格",
       "onboard_time": 1754281404,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202120,
+      "num": 198098,
+      "word": "胡歌出镜确认是真的袁弘",
+      "onboard_time": 1754436439,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -4851,6 +4867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170175,
+      "num": 170175,
+      "word": "研究生卖烧饼走红否认学历浪费",
+      "onboard_time": 1754412621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170026,
       "num": 170026,
       "word": "高温每天10小时超长待机",
@@ -5128,6 +5152,14 @@
       "word": "谢兴阳买房",
       "onboard_time": 1754390904,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161757,
+      "num": 122755,
+      "word": "赵露思许我耀眼招商",
+      "onboard_time": 1754435719,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -5715,6 +5747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146393,
+      "num": 122557,
+      "word": "情侣在少儿阅读区当众亲热",
+      "onboard_time": 1754436079,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146220,
       "num": 146220,
       "word": "王一博生日登泰趋第一",
@@ -5761,14 +5801,6 @@
       "onboard_time": 1754230223,
       "rank": 38,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 145491,
-      "num": 161687,
-      "word": "研究生卖烧饼走红否认学历浪费",
-      "onboard_time": 1754412621,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145312,
@@ -6571,6 +6603,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 129362,
+      "num": 86871,
+      "word": "滑翔伞操作员空中紧贴女游客被捕",
+      "onboard_time": 1754436259,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129358,
       "num": 129358,
       "word": "金泰亨坐田柾国怀里",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1754303182,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128751,
+      "num": 226943,
+      "word": "粤B暴雨天遇险关键时刻粤S出手了",
+      "onboard_time": 1754414298,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128713,
@@ -7499,14 +7547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115669,
-      "num": 226943,
-      "word": "粤B暴雨天遇险关键时刻粤S出手了",
-      "onboard_time": 1754414298,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115395,
       "num": 115395,
       "word": "傅园慧陈梦同框打乒乓球",
@@ -7939,6 +7979,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 107743,
+      "num": 107743,
+      "word": "体彩回应782万大奖无人认领",
+      "onboard_time": 1754436079,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107409,
       "num": 107409,
       "word": "汉江猫现状",
@@ -7977,6 +8025,14 @@
       "onboard_time": 1754218763,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105811,
+      "num": 105811,
+      "word": "深圳暴雨后路面现大量罗非鱼",
+      "onboard_time": 1754435719,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105538,
@@ -8107,28 +8163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103673,
-      "num": 86834,
-      "word": "赵露思许我耀眼招商",
-      "onboard_time": 1754435719,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103628,
       "num": 242792,
       "word": "基孔肯雅热全球流行范围持续扩大",
       "onboard_time": 1754137464,
       "rank": 29,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 103467,
-      "num": 85785,
-      "word": "情侣在少儿阅读区当众亲热",
-      "onboard_time": 1754436079,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103443,
@@ -8241,14 +8281,6 @@
       "onboard_time": 1754347157,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101262,
-      "num": 68630,
-      "word": "滑翔伞操作员空中紧贴女游客被捕",
-      "onboard_time": 1754436259,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 100998,
@@ -8827,14 +8859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89798,
-      "num": 89798,
-      "word": "胡歌出镜确认是真的袁弘",
-      "onboard_time": 1754436439,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89464,
       "num": 89464,
       "word": "他以婚礼名义拉起一支抗日队伍",
@@ -9025,14 +9049,6 @@
       "onboard_time": 1754390963,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 84241,
-      "num": 68430,
-      "word": "体彩回应782万大奖无人认领",
-      "onboard_time": 1754436079,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84157,
@@ -9259,6 +9275,30 @@
       "category": "美食"
     },
     {
+      "raw_hot": 78818,
+      "num": 78818,
+      "word": "馆方回应情侣在少儿阅读区亲热",
+      "onboard_time": 1754436319,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78773,
+      "num": 78773,
+      "word": "再见爱人1真是封神",
+      "onboard_time": 1754436622,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78316,
+      "num": 78316,
+      "word": "吴艳妮世界排名落至31位",
+      "onboard_time": 1754436259,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78079,
       "num": 221954,
       "word": "半固态电池强在哪儿",
@@ -9267,20 +9307,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 77936,
-      "num": 77936,
-      "word": "深圳暴雨后路面现大量罗非鱼",
-      "onboard_time": 1754435719,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77852,
       "num": 234466,
       "word": "赵心童无缘决赛",
       "onboard_time": 1754145989,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77845,
+      "num": 77845,
+      "word": "披荆斩棘",
+      "onboard_time": 1754436500,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 77765,
@@ -9699,6 +9739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63051,
+      "num": 63051,
+      "word": "晨起嘴里发苦先排查这几种疾病",
+      "onboard_time": 1754436680,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62906,
       "num": 165877,
       "word": "官方回应教师招聘笔试17分考生进复审",
@@ -9747,6 +9795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60735,
+      "num": 60735,
+      "word": "中国男篮亚洲杯开门红",
+      "onboard_time": 1754436019,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60699,
       "num": 60699,
       "word": "韩将取消外国游客医美退税",
@@ -9769,14 +9825,6 @@
       "onboard_time": 1754175857,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 60193,
-      "num": 60193,
-      "word": "吴艳妮世界排名落至31位",
-      "onboard_time": 1754436259,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 59657,
@@ -9809,6 +9857,14 @@
       "onboard_time": 1754236104,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59196,
+      "num": 59196,
+      "word": "王楚钦加油",
+      "onboard_time": 1754437221,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 58401,
@@ -9881,6 +9937,14 @@
       "onboard_time": 1754262798,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54808,
+      "num": 54808,
+      "word": "坚持抗阻运动的好处能有多少",
+      "onboard_time": 1754437401,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 54640,
@@ -9977,14 +10041,6 @@
       "onboard_time": 1754156299,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52281,
-      "num": 52281,
-      "word": "披荆斩棘",
-      "onboard_time": 1754436500,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 52237,
@@ -10105,14 +10161,6 @@
       "onboard_time": 1754227225,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46676,
-      "num": 46676,
-      "word": "馆方回应情侣在少儿阅读区亲热",
-      "onboard_time": 1754436319,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46500,

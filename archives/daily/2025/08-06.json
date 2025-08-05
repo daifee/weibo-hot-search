@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754436518859,
+  "endTime": 1754437417285,
   "band_list": [
     {
       "raw_hot": 2366610,
@@ -19,16 +19,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 934448,
-      "num": 934448,
+      "raw_hot": 1042885,
+      "num": 1042885,
       "word": "卫健委回应多人骑电单车夜闯医院走廊",
       "onboard_time": 1754408902,
       "rank": 8,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 730077,
+      "num": 316248,
+      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
+      "onboard_time": 1754414718,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725712,
-      "num": 429373,
+      "num": 551325,
       "word": "再见爱人 王浩信",
       "onboard_time": 1754405663,
       "rank": 6,
@@ -51,6 +59,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 555856,
+      "num": 509172,
+      "word": "澳洲14岁中国女交换生遇刺身亡",
+      "onboard_time": 1754411721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548882,
       "num": 167612,
       "word": "浙大一青年博导被曝坠楼身亡",
@@ -59,19 +75,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 532090,
-      "num": 317847,
-      "word": "澳洲14岁中国女交换生遇刺身亡",
-      "onboard_time": 1754411721,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527697,
-      "num": 316248,
-      "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
-      "onboard_time": 1754414718,
-      "rank": 22,
+      "raw_hot": 489312,
+      "num": 489312,
+      "word": "曹云金感谢郭德纲持续教他做人",
+      "onboard_time": 1754436439,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353813,
+      "num": 353813,
+      "word": "女性在生理期不能运动系谣言",
+      "onboard_time": 1754433617,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 353548,
       "num": 353548,
       "word": "梨形瘦25斤的杀伤力",
@@ -123,8 +139,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 315107,
-      "num": 315107,
+      "raw_hot": 323140,
+      "num": 323140,
       "word": "以色列总理决定全面占领加沙",
       "onboard_time": 1754412501,
       "rank": 13,
@@ -147,11 +163,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251580,
-      "num": 251580,
-      "word": "曹云金感谢郭德纲持续教他做人",
-      "onboard_time": 1754436439,
-      "rank": 6,
+      "raw_hot": 252717,
+      "num": 199725,
+      "word": "赵露思说之前不敢闹因为拍戏要口碑",
+      "onboard_time": 1754436559,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -163,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237101,
+      "num": 199533,
+      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+      "onboard_time": 1754417056,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230566,
       "num": 230566,
       "word": "社保",
@@ -171,20 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226242,
-      "num": 174158,
-      "word": "夫妻离婚分鸡多出一只被判吃掉再离",
-      "onboard_time": 1754417056,
-      "rank": 13,
+      "raw_hot": 218446,
+      "num": 218446,
+      "word": "28岁女子口臭5年查出胃癌前病变",
+      "onboard_time": 1754393604,
+      "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223208,
-      "num": 223208,
-      "word": "女性在生理期不能运动系谣言",
-      "onboard_time": 1754433617,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 215286,
@@ -209,6 +225,22 @@
       "onboard_time": 1754405366,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202606,
+      "num": 198936,
+      "word": "3岁宝宝确认先天体操圣体",
+      "onboard_time": 1754398944,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202120,
+      "num": 198098,
+      "word": "胡歌出镜确认是真的袁弘",
+      "onboard_time": 1754436439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 186026,
@@ -251,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170175,
+      "num": 170175,
+      "word": "研究生卖烧饼走红否认学历浪费",
+      "onboard_time": 1754412621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162645,
       "num": 162645,
       "word": "看完钟丽缇女儿妆教彻底没脾气了",
@@ -259,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157952,
-      "num": 157952,
-      "word": "3岁宝宝确认先天体操圣体",
-      "onboard_time": 1754398944,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 161757,
+      "num": 122755,
+      "word": "赵露思许我耀眼招商",
+      "onboard_time": 1754435719,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 151612,
@@ -275,11 +315,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145491,
-      "num": 161687,
-      "word": "研究生卖烧饼走红否认学历浪费",
-      "onboard_time": 1754412621,
-      "rank": 37,
+      "raw_hot": 146393,
+      "num": 122557,
+      "word": "情侣在少儿阅读区当众亲热",
+      "onboard_time": 1754436079,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -291,7 +331,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115669,
+      "raw_hot": 129362,
+      "num": 86871,
+      "word": "滑翔伞操作员空中紧贴女游客被捕",
+      "onboard_time": 1754436259,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128751,
       "num": 226943,
       "word": "粤B暴雨天遇险关键时刻粤S出手了",
       "onboard_time": 1754414298,
@@ -299,11 +347,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115054,
-      "num": 115054,
-      "word": "28岁女子口臭5年查出胃癌前病变",
-      "onboard_time": 1754393604,
-      "rank": 32,
+      "raw_hot": 124396,
+      "num": 124396,
+      "word": "男子卖4根金条6张银行卡被封",
+      "onboard_time": 1754391983,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -331,11 +379,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108701,
-      "num": 108701,
-      "word": "男子卖4根金条6张银行卡被封",
-      "onboard_time": 1754391983,
-      "rank": 46,
+      "raw_hot": 107743,
+      "num": 107743,
+      "word": "体彩回应782万大奖无人认领",
+      "onboard_time": 1754436079,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -355,28 +403,12 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 103673,
-      "num": 86834,
-      "word": "赵露思许我耀眼招商",
+      "raw_hot": 105811,
+      "num": 105811,
+      "word": "深圳暴雨后路面现大量罗非鱼",
       "onboard_time": 1754435719,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 103467,
-      "num": 85785,
-      "word": "情侣在少儿阅读区当众亲热",
-      "onboard_time": 1754436079,
-      "rank": 25,
+      "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101262,
-      "num": 68630,
-      "word": "滑翔伞操作员空中紧贴女游客被捕",
-      "onboard_time": 1754436259,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 96732,
@@ -395,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89798,
-      "num": 89798,
-      "word": "胡歌出镜确认是真的袁弘",
-      "onboard_time": 1754436439,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88817,
       "num": 88817,
       "word": "孔雪儿新剧妆造必有高人指点",
@@ -419,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84241,
-      "num": 68430,
-      "word": "体彩回应782万大奖无人认领",
-      "onboard_time": 1754436079,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 85419,
+      "num": 85419,
+      "word": "孙艺珍在车里晾儿子内裤",
+      "onboard_time": 1754405244,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 83860,
@@ -459,20 +483,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78613,
-      "num": 82653,
-      "word": "孙艺珍在车里晾儿子内裤",
-      "onboard_time": 1754405244,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 78818,
+      "num": 78818,
+      "word": "馆方回应情侣在少儿阅读区亲热",
+      "onboard_time": 1754436319,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 77936,
-      "num": 77936,
-      "word": "深圳暴雨后路面现大量罗非鱼",
-      "onboard_time": 1754435719,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 78773,
+      "num": 78773,
+      "word": "再见爱人1真是封神",
+      "onboard_time": 1754436622,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78316,
+      "num": 78316,
+      "word": "吴艳妮世界排名落至31位",
+      "onboard_time": 1754436259,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77845,
+      "num": 77845,
+      "word": "披荆斩棘",
+      "onboard_time": 1754436500,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 77411,
@@ -499,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74242,
+      "num": 74242,
+      "word": "MG4疯了预售价7.38万",
+      "onboard_time": 1754403027,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73140,
       "num": 83156,
       "word": "赵露思说官司忙得打不过来",
@@ -513,6 +561,22 @@
       "onboard_time": 1754409202,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69706,
+      "num": 83372,
+      "word": "南昌地铁回应女生制止吸烟反遭掌掴",
+      "onboard_time": 1754401103,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69324,
+      "num": 82388,
+      "word": "吴迪爸爸与女儿遭遇车祸",
+      "onboard_time": 1754400085,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 68937,
@@ -547,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64523,
-      "num": 82388,
-      "word": "吴迪爸爸与女儿遭遇车祸",
-      "onboard_time": 1754400085,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63313,
       "num": 169013,
       "word": "中国稀土竟然还有这样的用处",
@@ -563,19 +619,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62936,
-      "num": 83372,
-      "word": "南昌地铁回应女生制止吸烟反遭掌掴",
-      "onboard_time": 1754401103,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 63051,
+      "num": 63051,
+      "word": "晨起嘴里发苦先排查这几种疾病",
+      "onboard_time": 1754436680,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 60193,
-      "num": 60193,
-      "word": "吴艳妮世界排名落至31位",
-      "onboard_time": 1754436259,
-      "rank": 36,
+      "raw_hot": 60735,
+      "num": 60735,
+      "word": "中国男篮亚洲杯开门红",
+      "onboard_time": 1754436019,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -587,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58348,
-      "num": 58348,
-      "word": "MG4疯了预售价7.38万",
-      "onboard_time": 1754403027,
+      "raw_hot": 59196,
+      "num": 59196,
+      "word": "王楚钦加油",
+      "onboard_time": 1754437221,
       "rank": 46,
-      "category": "汽车"
+      "category": "体育"
     },
     {
       "raw_hot": 56278,
@@ -603,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52281,
-      "num": 52281,
-      "word": "披荆斩棘",
-      "onboard_time": 1754436500,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 54808,
+      "num": 54808,
+      "word": "坚持抗阻运动的好处能有多少",
+      "onboard_time": 1754437401,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 48005,
@@ -617,14 +673,6 @@
       "onboard_time": 1754436379,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46676,
-      "num": 46676,
-      "word": "馆方回应情侣在少儿阅读区亲热",
-      "onboard_time": 1754436319,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36017,
@@ -708,7 +756,7 @@
     },
     {
       "raw_hot": 11201,
-      "num": 419717,
+      "num": 514487,
       "word": "大河奔涌万象新",
       "onboard_time": 1754383345,
       "rank": 2,
