@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754426716350,
+  "endTime": 1754429296192,
   "band_list": [
     {
       "raw_hot": 2366610,
@@ -577,6 +577,14 @@
       "onboard_time": 1754420715,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16628,
+      "num": 17287,
+      "word": "偶遇郭碧婷首尔逛街",
+      "onboard_time": 1754426773,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 10456,
