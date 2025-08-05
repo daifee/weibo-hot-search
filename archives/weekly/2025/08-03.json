@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754401854312,
+  "endTime": 1754402388131,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -155,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2249156,
+      "num": 1499100,
+      "word": "香港警方冒暴雨寻无头尸头颅",
+      "onboard_time": 1754397862,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2200898,
+      "num": 570122,
+      "word": "香港无头男尸头部已找到",
+      "onboard_time": 1754398883,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2197150,
       "num": 362731,
       "word": "于正评价赵露思遭遇",
@@ -169,14 +185,6 @@
       "onboard_time": 1754293943,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2177897,
-      "num": 1499100,
-      "word": "香港警方冒暴雨寻无头尸头颅",
-      "onboard_time": 1754397862,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2132987,
@@ -265,14 +273,6 @@
       "onboard_time": 1754148089,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1738307,
-      "num": 570122,
-      "word": "香港无头男尸头部已找到",
-      "onboard_time": 1754398883,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1711373,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766422,
+      "num": 1163479,
+      "word": "再见爱人5嘉宾",
+      "onboard_time": 1754396182,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 765294,
       "num": 263607,
       "word": "外卖员摔倒因心疼钱大哭",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1754202442,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656694,
-      "num": 1105071,
-      "word": "再见爱人5嘉宾",
-      "onboard_time": 1754396182,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 653461,
@@ -1459,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 542066,
+      "num": 335033,
+      "word": "3岁宝宝确认先天体操圣体",
+      "onboard_time": 1754398944,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538982,
       "num": 538982,
       "word": "世界上最长的下巴",
@@ -1560,6 +1568,14 @@
       "word": "深圳暴雨",
       "onboard_time": 1754349678,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495262,
+      "num": 495262,
+      "word": "浙大一青年博导被曝坠楼身亡",
+      "onboard_time": 1754401283,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1883,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413950,
-      "num": 316507,
-      "word": "3岁宝宝确认先天体操圣体",
-      "onboard_time": 1754398944,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 408562,
       "num": 360548,
       "word": "王源直播",
@@ -2073,6 +2081,14 @@
       "onboard_time": 1754286921,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375739,
+      "num": 257901,
+      "word": "长期睡眠不足的人有7个表现",
+      "onboard_time": 1754401283,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 375730,
@@ -2281,14 +2297,6 @@
       "onboard_time": 1754146169,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326269,
-      "num": 257901,
-      "word": "长期睡眠不足的人有7个表现",
-      "onboard_time": 1754401283,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 325141,
@@ -2587,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284050,
+      "num": 254860,
+      "word": "孔雪儿新剧妆造必有高人指点",
+      "onboard_time": 1754401103,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282226,
       "num": 395392,
       "word": "这几天不是热热热就是雨雨雨",
@@ -2601,6 +2617,14 @@
       "onboard_time": 1754228426,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280952,
+      "num": 202567,
+      "word": "转账竟然是可以拦截的",
+      "onboard_time": 1754402064,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 279826,
@@ -3339,14 +3363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207481,
-      "num": 207481,
-      "word": "孔雪儿新剧妆造必有高人指点",
-      "onboard_time": 1754401103,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207314,
       "num": 207314,
       "word": "DOTA2雪如意TT夺冠",
@@ -3411,6 +3427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204474,
+      "num": 202458,
+      "word": "吴迪爸爸与女儿遭遇车祸",
+      "onboard_time": 1754400085,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204318,
       "num": 204318,
       "word": "黄子弘凡演唱会",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1754197224,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202845,
+      "num": 202845,
+      "word": "利剑玫瑰编剧",
+      "onboard_time": 1754401103,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 202482,
@@ -3979,11 +4011,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 185352,
-      "num": 176565,
-      "word": "吴迪爸爸与女儿遭遇车祸",
-      "onboard_time": 1754400085,
-      "rank": 30,
+      "raw_hot": 185807,
+      "num": 185807,
+      "word": "王楚然收扇那一下",
+      "onboard_time": 1754401463,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -4091,14 +4123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182749,
-      "num": 182749,
-      "word": "王楚然收扇那一下",
-      "onboard_time": 1754401463,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182389,
       "num": 182389,
       "word": "BLG战胜TES",
@@ -4137,6 +4161,14 @@
       "onboard_time": 1754349198,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181002,
+      "num": 181002,
+      "word": "心动8方益炯和offer的张洽隔壁班",
+      "onboard_time": 1754401463,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 180809,
@@ -4369,6 +4401,14 @@
       "onboard_time": 1754292983,
       "rank": 29,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 175004,
+      "num": 202697,
+      "word": "香港无头尸体死者是54岁美国籍男子",
+      "onboard_time": 1754401343,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174780,
@@ -4713,6 +4753,14 @@
       "onboard_time": 1754369665,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165153,
+      "num": 165153,
+      "word": "周也头像",
+      "onboard_time": 1754398522,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 165102,
@@ -5099,14 +5147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152569,
-      "num": 152569,
-      "word": "心动8方益炯和offer的张洽隔壁班",
-      "onboard_time": 1754401463,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152563,
       "num": 185873,
       "word": "亮证女报警称怀疑车辆被套牌",
@@ -5329,14 +5369,6 @@
       "onboard_time": 1754300842,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148161,
-      "num": 148161,
-      "word": "利剑玫瑰编剧",
-      "onboard_time": 1754401103,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 148133,
@@ -6259,6 +6291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128713,
+      "num": 128713,
+      "word": "南昌地铁回应女生制止吸烟反遭掌掴",
+      "onboard_time": 1754401103,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128712,
       "num": 128712,
       "word": "唱得好就算了跳舞也这么算了",
@@ -6363,20 +6403,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127246,
+      "num": 259540,
+      "word": "香港男子坠亡发现时头部陷入身体",
+      "onboard_time": 1754401283,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127245,
       "num": 127245,
       "word": "覃海洋发博总结世锦赛",
       "onboard_time": 1754307082,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127241,
-      "num": 127241,
-      "word": "周也头像",
-      "onboard_time": 1754398522,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 127172,
@@ -6507,6 +6547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125904,
+      "num": 125904,
+      "word": "宋亚轩中学时期合照",
+      "onboard_time": 1754401343,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125815,
       "num": 125815,
       "word": "吴艳妮说13秒15拿冠军开心不起来",
@@ -6587,6 +6635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123946,
+      "num": 123946,
+      "word": "干吃蒙脱石散有多危险",
+      "onboard_time": 1754401103,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123661,
       "num": 123661,
       "word": "顶奢能给的待遇都给王一博了",
@@ -6659,14 +6715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122445,
-      "num": 122445,
-      "word": "宋亚轩中学时期合照",
-      "onboard_time": 1754401343,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122428,
       "num": 122428,
       "word": "在便利店上班的人嘴真严啊",
@@ -6713,14 +6761,6 @@
       "onboard_time": 1754196024,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121817,
-      "num": 121817,
-      "word": "南昌地铁回应女生制止吸烟反遭掌掴",
-      "onboard_time": 1754401103,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121538,
@@ -6985,14 +7025,6 @@
       "onboard_time": 1754317107,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118224,
-      "num": 118224,
-      "word": "干吃蒙脱石散有多危险",
-      "onboard_time": 1754401103,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118201,
@@ -8507,14 +8539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87746,
-      "num": 354526,
-      "word": "浙大一青年博导被曝坠楼身亡",
-      "onboard_time": 1754401283,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87689,
       "num": 87689,
       "word": "给小狗的阿贝贝做手术",
@@ -8811,12 +8835,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 78058,
-      "num": 176588,
-      "word": "香港无头尸体死者是54岁美国籍男子",
-      "onboard_time": 1754401343,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 78079,
+      "num": 202812,
+      "word": "半固态电池强在哪儿",
+      "onboard_time": 1754402005,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 77852,
@@ -9139,20 +9163,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65629,
-      "num": 259540,
-      "word": "香港男子坠亡发现时头部陷入身体",
-      "onboard_time": 1754401283,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65590,
       "num": 134231,
       "word": "一起庆祝西藏自治区成立60周年",
       "onboard_time": 1754389103,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65545,
+      "num": 260936,
+      "word": "MG4破解特斯拉专利花5亿",
+      "onboard_time": 1754399063,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 65256,
@@ -9404,7 +9428,7 @@
     },
     {
       "raw_hot": 53250,
-      "num": 259813,
+      "num": 261061,
       "word": "王骁才是最佳旅行搭子",
       "onboard_time": 1754401405,
       "rank": 18,
@@ -9441,14 +9465,6 @@
       "onboard_time": 1754350942,
       "rank": 46,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 52652,
-      "num": 260936,
-      "word": "MG4破解特斯拉专利花5亿",
-      "onboard_time": 1754399063,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 52537,
