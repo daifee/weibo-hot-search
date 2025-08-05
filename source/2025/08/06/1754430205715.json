@@ -1,0 +1,410 @@
+{
+  "runTime": 1754430205715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165845,
+        "num": 230203,
+        "word": "东莞暴雨眼镜蛇爬上2米高窗户逃生",
+        "onboard_time": 1754410164,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106052,
+        "num": 106052,
+        "word": "卫健委回应多人骑电单车夜闯医院走廊",
+        "onboard_time": 1754408902,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5339,
+        "num": 100778,
+        "word": "大河奔涌万象新",
+        "onboard_time": 1754383345,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642712,
+        "num": 95516,
+        "word": "王俊凯",
+        "onboard_time": 1754410703,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231069,
+        "num": 89747,
+        "word": "易烊千玺",
+        "onboard_time": 1754411780,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117769,
+        "num": 83087,
+        "word": "澳洲14岁中国女交换生遇刺身亡",
+        "onboard_time": 1754411721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106101,
+        "num": 78706,
+        "word": "王源",
+        "onboard_time": 1754412140,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76851,
+        "num": 76851,
+        "word": "以色列总理决定全面占领加沙",
+        "onboard_time": 1754412501,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69396,
+        "num": 69396,
+        "word": "TFBOYS十二周年",
+        "onboard_time": 1754407344,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54772,
+        "num": 54772,
+        "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+        "onboard_time": 1754417056,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113365,
+        "num": 53281,
+        "word": "男子先穿内裤后穿袜子脚气传染大腿",
+        "onboard_time": 1754411661,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47499,
+        "num": 47499,
+        "word": "再见爱人 王浩信",
+        "onboard_time": 1754405663,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47039,
+        "num": 47039,
+        "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
+        "onboard_time": 1754414718,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42087,
+        "num": 42087,
+        "word": "研究生卖烧饼走红否认学历浪费",
+        "onboard_time": 1754412621,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39744,
+        "num": 39744,
+        "word": "14岁女生身亡现场逮捕一名13岁女生",
+        "onboard_time": 1754408243,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32347,
+        "num": 32347,
+        "word": "转账竟然是可以拦截的",
+        "onboard_time": 1754402064,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29788,
+        "num": 29788,
+        "word": "粤B暴雨天遇险关键时刻粤S出手了",
+        "onboard_time": 1754414298,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29166,
+        "num": 29166,
+        "word": "看完钟丽缇女儿妆教彻底没脾气了",
+        "onboard_time": 1754394322,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27871,
+        "num": 27871,
+        "word": "社保",
+        "onboard_time": 1754369963,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26860,
+        "num": 26860,
+        "word": "梨形瘦25斤的杀伤力",
+        "onboard_time": 1754405065,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 56726,
+        "num": 26164,
+        "word": "浙大一青年博导被曝坠楼身亡",
+        "onboard_time": 1754401283,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28598,
+        "num": 25860,
+        "word": "长期睡眠不足的人有7个表现",
+        "onboard_time": 1754401283,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25431,
+        "num": 25431,
+        "word": "FRED斐登 鞠婧祎",
+        "onboard_time": 1754389163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24661,
+        "num": 24661,
+        "word": "中国男篮vs沙特男篮",
+        "onboard_time": 1754411602,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24660,
+        "num": 24660,
+        "word": "男子卖4根金条6张银行卡被封",
+        "onboard_time": 1754391983,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22954,
+        "num": 22954,
+        "word": "巴厘岛快艇倾覆2名中国公民遇难",
+        "onboard_time": 1754404044,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22808,
+        "num": 22808,
+        "word": "3岁宝宝确认先天体操圣体",
+        "onboard_time": 1754398944,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22383,
+        "num": 22383,
+        "word": "孙艺珍在车里晾儿子内裤",
+        "onboard_time": 1754405244,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22121,
+        "num": 22121,
+        "word": "男篮亚洲杯",
+        "onboard_time": 1754410403,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17609,
+        "num": 22093,
+        "word": "免除公办幼儿园学前1年保教费",
+        "onboard_time": 1754384963,
+        "rank": 29,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 22075,
+        "num": 22075,
+        "word": "中国科学院院士阮少平被打假",
+        "onboard_time": 1754406384,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21188,
+        "num": 21188,
+        "word": "吴迪爸爸与女儿遭遇车祸",
+        "onboard_time": 1754400085,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21163,
+        "num": 21163,
+        "word": "原来这么多短剧演员是选秀出身",
+        "onboard_time": 1754407344,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19868,
+        "num": 21163,
+        "word": "28岁女子口臭5年查出胃癌前病变",
+        "onboard_time": 1754393604,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18583,
+        "num": 21162,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754396603,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18239,
+        "num": 21162,
+        "word": "马库斯回应捐日军侵华照片",
+        "onboard_time": 1754420235,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18018,
+        "num": 21160,
+        "word": "电影东极岛",
+        "onboard_time": 1754417237,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17705,
+        "num": 21159,
+        "word": "红姨全家福",
+        "onboard_time": 1754408302,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17578,
+        "num": 21159,
+        "word": "南昌地铁回应女生制止吸烟反遭掌掴",
+        "onboard_time": 1754401103,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17207,
+        "num": 21159,
+        "word": "中国稀土竟然还有这样的用处",
+        "onboard_time": 1754408723,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17045,
+        "num": 21157,
+        "word": "歌手2025",
+        "onboard_time": 1754411602,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16626,
+        "num": 21157,
+        "word": "海来阿木变化好大",
+        "onboard_time": 1754405366,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16528,
+        "num": 21155,
+        "word": "偶遇郭碧婷首尔逛街",
+        "onboard_time": 1754426773,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16256,
+        "num": 21155,
+        "word": "特朗普儿子企业又要借壳上市",
+        "onboard_time": 1754420715,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15893,
+        "num": 21154,
+        "word": "多人骑电单车夜闯医院走廊拍视频",
+        "onboard_time": 1754414418,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15385,
+        "num": 21154,
+        "word": "赵露思说官司忙得打不过来",
+        "onboard_time": 1754399243,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15077,
+        "num": 21153,
+        "word": "再见爱人5嘉宾",
+        "onboard_time": 1754396182,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14844,
+        "num": 21151,
+        "word": "曹格 章若楠太可爱啦",
+        "onboard_time": 1754395823,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14715,
+        "num": 21151,
+        "word": "孔雪儿新剧妆造必有高人指点",
+        "onboard_time": 1754401103,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13475,
+        "num": 21151,
+        "word": "时代少年团上海四场连开",
+        "onboard_time": 1754388924,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}
