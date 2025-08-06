@@ -1,0 +1,410 @@
+{
+  "runTime": 1754488264849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1845659,
+        "num": 1845659,
+        "word": "Zara广告因模特太瘦被禁",
+        "onboard_time": 1754486422,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1222150,
+        "num": 1222150,
+        "word": "锦月如歌 魔改",
+        "onboard_time": 1754484684,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32889,
+        "num": 1065006,
+        "word": "网友偶遇国旗护卫队训练被帅到",
+        "onboard_time": 1754465662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035194,
+        "num": 1035194,
+        "word": "樊振东投资美国职业乒乓球大联盟",
+        "onboard_time": 1754484023,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803602,
+        "num": 803602,
+        "word": "曝沈玉琳患血癌",
+        "onboard_time": 1754485943,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615033,
+        "num": 615033,
+        "word": "美团 霸王茶姬",
+        "onboard_time": 1754470703,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 759388,
+        "num": 593354,
+        "word": "南京照相馆炸出多少洗地党",
+        "onboard_time": 1754482822,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502393,
+        "num": 502393,
+        "word": "锦月如歌",
+        "onboard_time": 1754472084,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456051,
+        "num": 456051,
+        "word": "陶白白再发文",
+        "onboard_time": 1754484264,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 392192,
+        "num": 392192,
+        "word": "南京照相馆上映日本网民跳脚",
+        "onboard_time": 1754476764,
+        "rank": 9,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 523152,
+        "num": 392022,
+        "word": "5岁女童泳道内遭成年女子拍打",
+        "onboard_time": 1754481683,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403126,
+        "num": 391841,
+        "word": "网红刘大悦患甲状腺癌",
+        "onboard_time": 1754472024,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 391158,
+        "num": 391158,
+        "word": "何猷君前女友晒娃",
+        "onboard_time": 1754471243,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366920,
+        "num": 366920,
+        "word": "北大录取通知书被指有语句问题",
+        "onboard_time": 1754473644,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160902,
+        "num": 360829,
+        "word": "日军曾悬赏15万美元追杀摄影师",
+        "onboard_time": 1754487024,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 358542,
+        "num": 358542,
+        "word": "夏塔 将军桥",
+        "onboard_time": 1754487205,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316011,
+        "num": 316011,
+        "word": "赵露思直播时特意提到大粉的名字",
+        "onboard_time": 1754484922,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279498,
+        "num": 279498,
+        "word": "方媛孕肚生日照",
+        "onboard_time": 1754482883,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268455,
+        "num": 268455,
+        "word": "男子送车内死亡3天司机回家",
+        "onboard_time": 1754485584,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265631,
+        "num": 265631,
+        "word": "香港失联独居老人被发现时已成白骨",
+        "onboard_time": 1754478024,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234191,
+        "num": 234191,
+        "word": "汪苏泷腹肌",
+        "onboard_time": 1754474245,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230739,
+        "num": 230739,
+        "word": "全新小鹏P7太高级了",
+        "onboard_time": 1754481924,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222879,
+        "num": 222879,
+        "word": "周也打戏",
+        "onboard_time": 1754487144,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219822,
+        "num": 219822,
+        "word": "赵露思今天更没声了",
+        "onboard_time": 1754487985,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214217,
+        "num": 214217,
+        "word": "秋天的第一杯奶茶花束又火了",
+        "onboard_time": 1754466683,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205861,
+        "num": 205861,
+        "word": "韩国婆婆做饭全家吃泡菜",
+        "onboard_time": 1754486544,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203314,
+        "num": 203314,
+        "word": "不二之臣",
+        "onboard_time": 1754487924,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182036,
+        "num": 182036,
+        "word": "北京闪电",
+        "onboard_time": 1754487024,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177060,
+        "num": 177060,
+        "word": "明天立秋和夏天好好道个别",
+        "onboard_time": 1754476883,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175836,
+        "num": 175836,
+        "word": "锦月如歌热度",
+        "onboard_time": 1754488044,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108512,
+        "num": 171224,
+        "word": "小鹏P7把情绪价值拉满了",
+        "onboard_time": 1754483603,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170149,
+        "num": 170149,
+        "word": "李飞是真把妹王",
+        "onboard_time": 1754471425,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165599,
+        "num": 165599,
+        "word": "老人摔倒无人敢扶外卖小哥出手了",
+        "onboard_time": 1754485282,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 144684,
+        "num": 144684,
+        "word": "千山茶客",
+        "onboard_time": 1754485763,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110172,
+        "num": 142227,
+        "word": "全红婵陈芋汐奥运会神仙打架",
+        "onboard_time": 1754483542,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140835,
+        "num": 140835,
+        "word": "鞠婧祎周也什么时候认识的",
+        "onboard_time": 1754483662,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140197,
+        "num": 140197,
+        "word": "肆意生花 华策",
+        "onboard_time": 1754464943,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139384,
+        "num": 139384,
+        "word": "单依纯 华语乐坛老来得女",
+        "onboard_time": 1754487382,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125870,
+        "num": 125870,
+        "word": "WTT横滨冠军赛球员欢迎派对",
+        "onboard_time": 1754487563,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123834,
+        "num": 123834,
+        "word": "警方通报小区发生车祸致一死四伤",
+        "onboard_time": 1754479944,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137670,
+        "num": 123061,
+        "word": "鞠婧祎交出你的手机你将收获一个酷girl",
+        "onboard_time": 1754487444,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119811,
+        "num": 119811,
+        "word": "妍妍酱 老婆龙",
+        "onboard_time": 1754486903,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115990,
+        "num": 115990,
+        "word": "iG对战AL",
+        "onboard_time": 1754486664,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 579576,
+        "num": 115051,
+        "word": "赵露思爸爸为了女儿漂发",
+        "onboard_time": 1754473344,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112779,
+        "num": 112779,
+        "word": "GALA芸阿娜五杀",
+        "onboard_time": 1754486844,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112257,
+        "num": 112257,
+        "word": "女子洗头因毛巾接触皮肤索赔",
+        "onboard_time": 1754481865,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104592,
+        "num": 104592,
+        "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
+        "onboard_time": 1754483783,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104056,
+        "num": 104056,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102806,
+        "num": 102806,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96313,
+        "num": 96313,
+        "word": "二婚夫妻办假离婚结果就男方信了",
+        "onboard_time": 1754475685,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大食物观里的人民情怀#"
+    }
+  }
+}

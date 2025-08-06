@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754486159028,
+  "endTime": 1754488264849,
   "band_list": [
     {
       "raw_hot": 7910146,
@@ -57,6 +57,14 @@
       "onboard_time": 1754465902,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1845659,
+      "num": 1845659,
+      "word": "Zara广告因模特太瘦被禁",
+      "onboard_time": 1754486422,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1776153,
@@ -155,6 +163,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 1222150,
+      "num": 1222150,
+      "word": "锦月如歌 魔改",
+      "onboard_time": 1754484684,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1168536,
       "num": 1168536,
       "word": "782万彩票大奖1天后作废",
@@ -169,6 +185,14 @@
       "onboard_time": 1754408902,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1035194,
+      "num": 1035194,
+      "word": "樊振东投资美国职业乒乓球大联盟",
+      "onboard_time": 1754484023,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1009212,
@@ -227,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 950807,
-      "num": 590182,
-      "word": "锦月如歌 魔改",
-      "onboard_time": 1754484684,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 920836,
       "num": 920836,
       "word": "微信内存一下子就少了10G",
@@ -281,6 +297,14 @@
       "onboard_time": 1754452404,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 803602,
+      "num": 803602,
+      "word": "曝沈玉琳患血癌",
+      "onboard_time": 1754485943,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 787866,
@@ -395,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 612316,
-      "num": 612316,
-      "word": "樊振东投资美国职业乒乓球大联盟",
-      "onboard_time": 1754484023,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 609067,
       "num": 584579,
       "word": "月入3千与月入10万的变化",
@@ -491,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523152,
+      "num": 392022,
+      "word": "5岁女童泳道内遭成年女子拍打",
+      "onboard_time": 1754481683,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522797,
       "num": 522797,
       "word": "韩网再宣称汉服是学韩国的",
@@ -555,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456051,
+      "num": 456051,
+      "word": "陶白白再发文",
+      "onboard_time": 1754484264,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 449604,
       "num": 271482,
       "word": "男子先穿内裤后穿袜子脚气传染大腿",
@@ -609,14 +641,6 @@
       "onboard_time": 1754469502,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 405028,
-      "num": 405028,
-      "word": "陶白白再发文",
-      "onboard_time": 1754484264,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 402517,
@@ -688,6 +712,14 @@
       "word": "二婚夫妻办假离婚结果就男方信了",
       "onboard_time": 1754475685,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358542,
+      "num": 358542,
+      "word": "夏塔 将军桥",
+      "onboard_time": 1754487205,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -779,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316011,
+      "num": 316011,
+      "word": "赵露思直播时特意提到大粉的名字",
+      "onboard_time": 1754484922,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314297,
       "num": 337142,
       "word": "女子拒付搬运工坐地起价被堵锁眼",
@@ -824,14 +864,6 @@
       "word": "秋天的第一杯奶茶花束又火了",
       "onboard_time": 1754466683,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306874,
-      "num": 306874,
-      "word": "5岁女童泳道内遭成年女子拍打",
-      "onboard_time": 1754481683,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -915,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 284970,
-      "num": 284970,
-      "word": "赵露思直播时特意提到大粉的名字",
-      "onboard_time": 1754484922,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284428,
       "num": 284428,
       "word": "玩家联名向恋与深空发律师函",
@@ -977,6 +1001,14 @@
       "onboard_time": 1754463923,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268455,
+      "num": 268455,
+      "word": "男子送车内死亡3天司机回家",
+      "onboard_time": 1754485584,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268093,
@@ -1155,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222879,
+      "num": 222879,
+      "word": "周也打戏",
+      "onboard_time": 1754487144,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222850,
       "num": 222850,
       "word": "宝马设计主管加入小米",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1754471064,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219822,
+      "num": 219822,
+      "word": "赵露思今天更没声了",
+      "onboard_time": 1754487985,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 219304,
@@ -1283,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205861,
+      "num": 205861,
+      "word": "韩国婆婆做饭全家吃泡菜",
+      "onboard_time": 1754486544,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 205382,
       "num": 205382,
       "word": "EDG官宣S1Mon离队",
@@ -1305,6 +1361,14 @@
       "onboard_time": 1754455105,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203314,
+      "num": 203314,
+      "word": "不二之臣",
+      "onboard_time": 1754487924,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 202852,
@@ -1427,6 +1491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 182036,
+      "num": 182036,
+      "word": "北京闪电",
+      "onboard_time": 1754487024,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181532,
       "num": 181532,
       "word": "成都世运会",
@@ -1507,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175836,
+      "num": 175836,
+      "word": "锦月如歌热度",
+      "onboard_time": 1754488044,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175311,
       "num": 175311,
       "word": "麦当劳大鸡排下架",
@@ -1571,20 +1651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168910,
-      "num": 168910,
-      "word": "男子送车内死亡3天司机回家",
-      "onboard_time": 1754485584,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166518,
       "num": 131774,
       "word": "赵露思说以前那样减肥没什么好处",
       "onboard_time": 1754476345,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165599,
+      "num": 302939,
+      "word": "老人摔倒无人敢扶外卖小哥出手了",
+      "onboard_time": 1754485282,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 165594,
@@ -1611,14 +1691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162668,
-      "num": 162668,
-      "word": "曝沈玉琳患血癌",
-      "onboard_time": 1754485943,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162645,
       "num": 162645,
       "word": "看完钟丽缇女儿妆教彻底没脾气了",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1754466084,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160902,
+      "num": 360829,
+      "word": "日军曾悬赏15万美元追杀摄影师",
+      "onboard_time": 1754487024,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160324,
@@ -1708,7 +1788,7 @@
     },
     {
       "raw_hot": 153924,
-      "num": 153924,
+      "num": 1065006,
       "word": "网友偶遇国旗护卫队训练被帅到",
       "onboard_time": 1754465662,
       "rank": 31,
@@ -1795,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144684,
+      "num": 144684,
+      "word": "千山茶客",
+      "onboard_time": 1754485763,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144537,
       "num": 144537,
       "word": "杨超越的丧尸不像演的",
@@ -1875,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139384,
+      "num": 139384,
+      "word": "单依纯 华语乐坛老来得女",
+      "onboard_time": 1754487382,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139148,
       "num": 139148,
       "word": "李斯丹妮穿百褶短裙了",
@@ -1897,6 +1993,14 @@
       "onboard_time": 1754485524,
       "rank": 37,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 137670,
+      "num": 123061,
+      "word": "鞠婧祎交出你的手机你将收获一个酷girl",
+      "onboard_time": 1754487444,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 137120,
@@ -1969,14 +2073,6 @@
       "onboard_time": 1754443520,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133827,
-      "num": 133827,
-      "word": "千山茶客",
-      "onboard_time": 1754485763,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 133671,
@@ -2131,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125870,
+      "num": 125870,
+      "word": "WTT横滨冠军赛球员欢迎派对",
+      "onboard_time": 1754487563,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125791,
       "num": 125791,
       "word": "毕业半年换11份工作的真实感受",
@@ -2251,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119811,
+      "num": 119811,
+      "word": "妍妍酱 老婆龙",
+      "onboard_time": 1754486903,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 119451,
       "num": 499521,
       "word": "成都世运会太全面了",
@@ -2307,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115990,
+      "num": 115990,
+      "word": "iG对战AL",
+      "onboard_time": 1754486664,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115680,
       "num": 142449,
       "word": "以色列女兵自拍时被火箭弹击中",
@@ -2345,6 +2465,14 @@
       "onboard_time": 1754466563,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112779,
+      "num": 112779,
+      "word": "GALA芸阿娜五杀",
+      "onboard_time": 1754486844,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 112743,
@@ -2427,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110172,
+      "num": 142227,
+      "word": "全红婵陈芋汐奥运会神仙打架",
+      "onboard_time": 1754483542,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109966,
       "num": 109966,
       "word": "成都世运会开赛",
@@ -2449,6 +2585,14 @@
       "onboard_time": 1754396182,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108512,
+      "num": 303753,
+      "word": "小鹏P7把情绪价值拉满了",
+      "onboard_time": 1754483603,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 107743,
@@ -2521,6 +2665,14 @@
       "onboard_time": 1754439082,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104592,
+      "num": 206996,
+      "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
+      "onboard_time": 1754483783,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100736,
@@ -2771,14 +2923,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 73921,
-      "num": 303753,
-      "word": "小鹏P7把情绪价值拉满了",
-      "onboard_time": 1754483603,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 73140,
       "num": 83156,
       "word": "赵露思说官司忙得打不过来",
@@ -2939,14 +3083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55406,
-      "num": 206996,
-      "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
-      "onboard_time": 1754483783,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 54808,
       "num": 54808,
       "word": "坚持抗阻运动的好处能有多少",
@@ -2993,14 +3129,6 @@
       "onboard_time": 1754470644,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 45606,
-      "num": 302939,
-      "word": "老人摔倒无人敢扶外卖小哥出手了",
-      "onboard_time": 1754485282,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 45213,
@@ -3244,6 +3372,9 @@
     },
     {
       "word": "#300多万条十五五建议汇聚中国力量#"
+    },
+    {
+      "word": "#大食物观里的人民情怀#"
     }
   ]
 }
