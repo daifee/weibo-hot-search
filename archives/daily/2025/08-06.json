@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754456700259,
+  "endTime": 1754458625138,
   "band_list": [
     {
       "raw_hot": 2911323,
@@ -9,6 +9,14 @@
       "onboard_time": 1754453542,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2638562,
+      "num": 2638562,
+      "word": "张芷溪喊话银河酷娱履约",
+      "onboard_time": 1754457143,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2471479,
@@ -48,6 +56,14 @@
       "word": "王俊凯",
       "onboard_time": 1754410703,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1467053,
+      "num": 593547,
+      "word": "瑞鹤娱乐秒删",
+      "onboard_time": 1754457082,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 980289,
+      "num": 567017,
+      "word": "TFBOYS保密协议到期",
+      "onboard_time": 1754455704,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 879158,
       "num": 879158,
       "word": "笔试17分进复审教师招聘何以服众",
@@ -147,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734490,
+      "num": 734490,
+      "word": "金价",
+      "onboard_time": 1754453964,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 730077,
       "num": 316248,
       "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
@@ -163,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611408,
-      "num": 611408,
-      "word": "金价",
-      "onboard_time": 1754453964,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 609067,
+      "num": 584579,
+      "word": "月入3千与月入10万的变化",
+      "onboard_time": 1754454805,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 606056,
@@ -179,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594276,
+      "num": 609480,
+      "word": "韩国对中国团队游客临时免签",
+      "onboard_time": 1754455824,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593408,
       "num": 593408,
       "word": "转账竟然是可以拦截的",
       "onboard_time": 1754402064,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 584579,
-      "num": 584579,
-      "word": "月入3千与月入10万的变化",
-      "onboard_time": 1754454805,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 571996,
@@ -227,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 512326,
-      "num": 609480,
-      "word": "韩国对中国团队游客临时免签",
-      "onboard_time": 1754455824,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502903,
       "num": 593533,
       "word": "第一次直观感受到基因的不公平",
@@ -251,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496401,
+      "num": 496401,
+      "word": "iPhone17系列仅标准版没涨价",
+      "onboard_time": 1754453903,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 489312,
       "num": 489312,
       "word": "曹云金感谢郭德纲持续教他做人",
@@ -265,14 +297,6 @@
       "onboard_time": 1754411780,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 456707,
-      "num": 456707,
-      "word": "TFBOYS保密协议到期",
-      "onboard_time": 1754455704,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 449604,
@@ -363,6 +387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 347669,
+      "num": 256812,
+      "word": "张芷溪原本找赵露思演献鱼",
+      "onboard_time": 1754458103,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334926,
       "num": 334926,
       "word": "胡歌出镜确认是真的袁弘",
@@ -427,6 +459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298361,
+      "num": 250554,
+      "word": "潘玮柏向汉堡求婚",
+      "onboard_time": 1754457623,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 296172,
+      "num": 296172,
+      "word": "叠纸称PV皆为研发录制",
+      "onboard_time": 1754456604,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293436,
       "num": 293436,
       "word": "陈乔恩艾伦首次合体上夫妻舞台综艺",
@@ -449,14 +497,6 @@
       "onboard_time": 1754454684,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 275162,
-      "num": 275162,
-      "word": "iPhone17系列仅标准版没涨价",
-      "onboard_time": 1754453903,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 273321,
@@ -521,6 +561,14 @@
       "onboard_time": 1754440403,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248345,
+      "num": 248345,
+      "word": "时代峰峻回应文案抄袭",
+      "onboard_time": 1754457923,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 247744,
@@ -593,6 +641,14 @@
       "onboard_time": 1754453003,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221741,
+      "num": 221741,
+      "word": "逆水寒手游",
+      "onboard_time": 1754458042,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 219304,
@@ -747,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181144,
+      "num": 490673,
+      "word": "广州一处山体滑坡致房屋垮塌",
+      "onboard_time": 1754457381,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180602,
       "num": 180602,
       "word": "6名游客被人头蜂追着咬路人相救",
@@ -769,6 +833,14 @@
       "onboard_time": 1754452343,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175311,
+      "num": 175311,
+      "word": "麦当劳大鸡排下架",
+      "onboard_time": 1754456784,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 172186,
@@ -851,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153380,
-      "num": 153380,
-      "word": "叠纸称PV皆为研发录制",
-      "onboard_time": 1754456604,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 154308,
+      "num": 222241,
+      "word": "披荆斩棘5首发阵容",
+      "onboard_time": 1754457623,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 152630,
@@ -923,6 +995,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139148,
+      "num": 139148,
+      "word": "李斯丹妮穿百褶短裙了",
+      "onboard_time": 1754456724,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137044,
       "num": 137044,
       "word": "尹锡悦脱衣拒捕为爱情",
@@ -969,6 +1049,22 @@
       "onboard_time": 1754453362,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132200,
+      "num": 132200,
+      "word": "女子遛弯捡了20斤海螺装6个盆",
+      "onboard_time": 1754457204,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130729,
+      "num": 143148,
+      "word": "言承旭把杜海涛认成徐明浩",
+      "onboard_time": 1754457381,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 129362,
@@ -1033,6 +1129,14 @@
       "onboard_time": 1754447720,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115720,
+      "num": 115720,
+      "word": "深圳的最严控烟令能全国推广吗",
+      "onboard_time": 1754458525,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112743,
@@ -1161,6 +1265,14 @@
       "onboard_time": 1754440342,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97060,
+      "num": 142449,
+      "word": "以色列女兵自拍时被火箭弹击中",
+      "onboard_time": 1754454923,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96874,

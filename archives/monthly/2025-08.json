@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754456700259,
+  "endTime": 1754458625138,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -215,6 +215,14 @@
       "num": 2658290,
       "word": "赵露思 姐现在忍不了任何人",
       "onboard_time": 1754314644,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2638562,
+      "num": 2638562,
+      "word": "张芷溪喊话银河酷娱履约",
+      "onboard_time": 1754457143,
       "rank": 0,
       "category": "艺人"
     },
@@ -616,6 +624,14 @@
       "word": "王俊凯",
       "onboard_time": 1754410703,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1467053,
+      "num": 593547,
+      "word": "瑞鹤娱乐秒删",
+      "onboard_time": 1754457082,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -1153,6 +1169,14 @@
       "onboard_time": 1754034142,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 980289,
+      "num": 567017,
+      "word": "TFBOYS保密协议到期",
+      "onboard_time": 1754455704,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 975918,
@@ -1699,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734490,
+      "num": 734490,
+      "word": "金价",
+      "onboard_time": 1754453964,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 732670,
       "num": 732670,
       "word": "陈楚生为了孩子拼命得让我陌生",
@@ -2171,20 +2203,20 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 611408,
-      "num": 611408,
-      "word": "金价",
-      "onboard_time": 1754453964,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 610901,
       "num": 610901,
       "word": "鞠婧祎超话",
       "onboard_time": 1754021903,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609067,
+      "num": 584579,
+      "word": "月入3千与月入10万的变化",
+      "onboard_time": 1754454805,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 608195,
@@ -2275,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594276,
+      "num": 609480,
+      "word": "韩国对中国团队游客临时免签",
+      "onboard_time": 1754455824,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588815,
       "num": 588815,
       "word": "柴鸡蛋疑似还钱了",
@@ -2289,14 +2329,6 @@
       "onboard_time": 1754105241,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 584579,
-      "num": 584579,
-      "word": "月入3千与月入10万的变化",
-      "onboard_time": 1754454805,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 584266,
@@ -2699,14 +2731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 512326,
-      "num": 609480,
-      "word": "韩国对中国团队游客临时免签",
-      "onboard_time": 1754455824,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 511371,
       "num": 372404,
       "word": "时代峰峻禁止中控",
@@ -2769,6 +2793,14 @@
       "onboard_time": 1754455404,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496401,
+      "num": 496401,
+      "word": "iPhone17系列仅标准版没涨价",
+      "onboard_time": 1754453903,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 495129,
@@ -3073,14 +3105,6 @@
       "onboard_time": 1754376022,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 456707,
-      "num": 456707,
-      "word": "TFBOYS保密协议到期",
-      "onboard_time": 1754455704,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 455990,
@@ -3867,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347669,
+      "num": 256812,
+      "word": "张芷溪原本找赵露思演献鱼",
+      "onboard_time": 1754458103,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347595,
       "num": 362097,
       "word": "谷歌辟谣恢复中国大陆地区服务",
@@ -4475,6 +4507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298361,
+      "num": 250554,
+      "word": "潘玮柏向汉堡求婚",
+      "onboard_time": 1754457623,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298339,
       "num": 298339,
       "word": "女子参加水上闯关被木头插入腿内",
@@ -4513,6 +4553,14 @@
       "onboard_time": 1754040381,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296172,
+      "num": 296172,
+      "word": "叠纸称PV皆为研发录制",
+      "onboard_time": 1754456604,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 295472,
@@ -4785,14 +4833,6 @@
       "onboard_time": 1754151144,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275162,
-      "num": 275162,
-      "word": "iPhone17系列仅标准版没涨价",
-      "onboard_time": 1754453903,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 275096,
@@ -5337,6 +5377,14 @@
       "onboard_time": 1754293822,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248345,
+      "num": 248345,
+      "word": "时代峰峻回应文案抄袭",
+      "onboard_time": 1754457923,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 247192,
@@ -5953,6 +6001,14 @@
       "onboard_time": 1754221944,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221741,
+      "num": 221741,
+      "word": "逆水寒手游",
+      "onboard_time": 1754458042,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 221134,
@@ -8035,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181144,
+      "num": 490673,
+      "word": "广州一处山体滑坡致房屋垮塌",
+      "onboard_time": 1754457381,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181019,
       "num": 181019,
       "word": "以色列总理计划全面占领加沙",
@@ -8353,6 +8417,14 @@
       "onboard_time": 1754060062,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175311,
+      "num": 175311,
+      "word": "麦当劳大鸡排下架",
+      "onboard_time": 1754456784,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 175214,
@@ -9779,6 +9851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154308,
+      "num": 222241,
+      "word": "披荆斩棘5首发阵容",
+      "onboard_time": 1754457623,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154251,
       "num": 154251,
       "word": "美国医生边手术边玩游戏致患者死亡",
@@ -9833,14 +9913,6 @@
       "onboard_time": 1753955124,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153380,
-      "num": 153380,
-      "word": "叠纸称PV皆为研发录制",
-      "onboard_time": 1754456604,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 153363,
@@ -11139,6 +11211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 139148,
+      "num": 139148,
+      "word": "李斯丹妮穿百褶短裙了",
+      "onboard_time": 1754456724,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139118,
       "num": 139118,
       "word": "没有明天",
@@ -11883,6 +11963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132200,
+      "num": 132200,
+      "word": "女子遛弯捡了20斤海螺装6个盆",
+      "onboard_time": 1754457204,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132138,
       "num": 132138,
       "word": "肖战藏海传粤语版港味太正了",
@@ -12009,6 +12097,14 @@
       "onboard_time": 1754024842,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130729,
+      "num": 143148,
+      "word": "言承旭把杜海涛认成徐明浩",
+      "onboard_time": 1754457381,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 130671,
@@ -13643,6 +13739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115720,
+      "num": 115720,
+      "word": "深圳的最严控烟令能全国推广吗",
+      "onboard_time": 1754458525,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115585,
       "num": 115585,
       "word": "原来热暴力比冷暴力有用",
@@ -15177,6 +15281,14 @@
       "onboard_time": 1754215464,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97060,
+      "num": 142449,
+      "word": "以色列女兵自拍时被火箭弹击中",
+      "onboard_time": 1754454923,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97056,

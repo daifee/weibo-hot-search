@@ -1,0 +1,410 @@
+{
+  "runTime": 1754458625138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2638562,
+        "num": 2638562,
+        "word": "张芷溪喊话银河酷娱履约",
+        "onboard_time": 1754457143,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1175072,
+        "num": 1175072,
+        "word": "亮证女侯某某被行政拘留",
+        "onboard_time": 1754454205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38022,
+        "num": 902062,
+        "word": "中国舰载机在持续上新",
+        "onboard_time": 1754445140,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2413671,
+        "num": 880612,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734490,
+        "num": 734490,
+        "word": "金价",
+        "onboard_time": 1754453964,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 594276,
+        "num": 594276,
+        "word": "韩国对中国团队游客临时免签",
+        "onboard_time": 1754455824,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1467053,
+        "num": 593547,
+        "word": "瑞鹤娱乐秒删",
+        "onboard_time": 1754457082,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980289,
+        "num": 567017,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 496401,
+        "num": 496401,
+        "word": "iPhone17系列仅标准版没涨价",
+        "onboard_time": 1754453903,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181144,
+        "num": 490673,
+        "word": "广州一处山体滑坡致房屋垮塌",
+        "onboard_time": 1754457381,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 970174,
+        "num": 474562,
+        "word": "歌王之战帮唱嘉宾官宣",
+        "onboard_time": 1754454745,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 848842,
+        "num": 468993,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786164,
+        "num": 456591,
+        "word": "女子去猫咖包房虐猫致4只猫死伤",
+        "onboard_time": 1754451501,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715800,
+        "num": 450706,
+        "word": "半个内娱真夫妻都来这节目了",
+        "onboard_time": 1754450423,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609067,
+        "num": 429582,
+        "word": "月入3千与月入10万的变化",
+        "onboard_time": 1754454805,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429209,
+        "num": 429209,
+        "word": "Angelababy独自带小海绵回香港",
+        "onboard_time": 1754453362,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426078,
+        "num": 426078,
+        "word": "王俊凯王源易烊千玺卡点",
+        "onboard_time": 1754437881,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296172,
+        "num": 296172,
+        "word": "叠纸称PV皆为研发录制",
+        "onboard_time": 1754456604,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295865,
+        "num": 295865,
+        "word": "第一次直观感受到基因的不公平",
+        "onboard_time": 1754452222,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259641,
+        "num": 259641,
+        "word": "明天就立秋了",
+        "onboard_time": 1754440943,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400908,
+        "num": 259107,
+        "word": "任素汐 歌手",
+        "onboard_time": 1754455404,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347669,
+        "num": 256812,
+        "word": "张芷溪原本找赵露思演献鱼",
+        "onboard_time": 1754458103,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341896,
+        "num": 255222,
+        "word": "时代峰峻演唱会文案 抄袭",
+        "onboard_time": 1754448381,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341044,
+        "num": 253188,
+        "word": "张译获得国家一级演员职称",
+        "onboard_time": 1754451142,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261976,
+        "num": 251999,
+        "word": "男子向飞机上女友求婚答应后飞机坠毁",
+        "onboard_time": 1754452404,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298361,
+        "num": 250554,
+        "word": "潘玮柏向汉堡求婚",
+        "onboard_time": 1754457623,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263704,
+        "num": 249834,
+        "word": "披荆斩棘5定档",
+        "onboard_time": 1754443041,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248345,
+        "num": 248345,
+        "word": "时代峰峻回应文案抄袭",
+        "onboard_time": 1754457923,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225729,
+        "num": 225729,
+        "word": "浙大青年博导坠楼真相是什么",
+        "onboard_time": 1754444720,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154308,
+        "num": 222241,
+        "word": "披荆斩棘5首发阵容",
+        "onboard_time": 1754457623,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258136,
+        "num": 222022,
+        "word": "喜茶 Chiikawa",
+        "onboard_time": 1754444361,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 221741,
+        "num": 221741,
+        "word": "逆水寒手游",
+        "onboard_time": 1754458042,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206599,
+        "num": 206599,
+        "word": "陈奕迅因压力过大患上焦虑症",
+        "onboard_time": 1754454684,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195405,
+        "num": 195405,
+        "word": "何九华 尚九熙",
+        "onboard_time": 1754439562,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175311,
+        "num": 175311,
+        "word": "麦当劳大鸡排下架",
+        "onboard_time": 1754456784,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175296,
+        "num": 175296,
+        "word": "建议下班回家立刻洗澡",
+        "onboard_time": 1754456363,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151313,
+        "num": 151313,
+        "word": "EDG官宣S1Mon离队",
+        "onboard_time": 1754455945,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149894,
+        "num": 149894,
+        "word": "哈妮克孜问孙乐言嗑自己吗",
+        "onboard_time": 1754456544,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130729,
+        "num": 143148,
+        "word": "言承旭把杜海涛认成徐明浩",
+        "onboard_time": 1754457381,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97060,
+        "num": 142449,
+        "word": "以色列女兵自拍时被火箭弹击中",
+        "onboard_time": 1754454923,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142367,
+        "num": 142367,
+        "word": "大学生一定要对工资有概念",
+        "onboard_time": 1754455105,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139724,
+        "num": 139724,
+        "word": "王力宏帮唱单依纯",
+        "onboard_time": 1754455704,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139148,
+        "num": 139148,
+        "word": "李斯丹妮穿百褶短裙了",
+        "onboard_time": 1754456724,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133801,
+        "num": 133801,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1754449883,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132200,
+        "num": 132200,
+        "word": "女子遛弯捡了20斤海螺装6个盆",
+        "onboard_time": 1754457204,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129288,
+        "num": 129288,
+        "word": "同个妈生的颜值差异能有多大",
+        "onboard_time": 1754452463,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124506,
+        "num": 124506,
+        "word": "加沙正逐渐被抹去",
+        "onboard_time": 1754455044,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117063,
+        "num": 117063,
+        "word": "玩家联名向恋与深空发律师函",
+        "onboard_time": 1754454864,
+        "rank": 47,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 115720,
+        "num": 115720,
+        "word": "深圳的最严控烟令能全国推广吗",
+        "onboard_time": 1754458525,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115570,
+        "num": 115570,
+        "word": "王楚钦杂志",
+        "onboard_time": 1754449941,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
