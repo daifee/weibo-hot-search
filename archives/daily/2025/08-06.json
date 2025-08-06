@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754494354095,
+  "endTime": 1754495270907,
   "band_list": [
     {
       "raw_hot": 7910146,
@@ -9,6 +9,14 @@
       "onboard_time": 1754471964,
       "rank": 3,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 3746422,
+      "num": 3746422,
+      "word": "陶白白 出轨",
+      "onboard_time": 1754493745,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 3521817,
@@ -49,14 +57,6 @@
       "onboard_time": 1754407344,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1973920,
-      "num": 1973920,
-      "word": "陶白白 出轨",
-      "onboard_time": 1754493745,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 1907214,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1259941,
+      "num": 567184,
+      "word": "苍兰诀",
+      "onboard_time": 1754491706,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1168536,
       "num": 1168536,
       "word": "782万彩票大奖1天后作废",
@@ -217,14 +225,6 @@
       "onboard_time": 1754484023,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1146569,
-      "num": 421263,
-      "word": "苍兰诀",
-      "onboard_time": 1754491706,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 1042885,
@@ -827,6 +827,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 351536,
+      "num": 351536,
+      "word": "明天立秋和夏天好好道个别",
+      "onboard_time": 1754476883,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341176,
       "num": 341176,
       "word": "警方通报小区发生车祸致一死四伤",
@@ -849,14 +857,6 @@
       "onboard_time": 1754436439,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334491,
-      "num": 343222,
-      "word": "明天立秋和夏天好好道个别",
-      "onboard_time": 1754476883,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334155,
@@ -951,6 +951,14 @@
       "num": 308457,
       "word": "秋天的第一杯奶茶花束又火了",
       "onboard_time": 1754466683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307703,
+      "num": 307703,
+      "word": "专家建议10岁开始存养老钱最划算",
+      "onboard_time": 1754492365,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -1355,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217829,
-      "num": 217829,
-      "word": "专家建议10岁开始存养老钱最划算",
-      "onboard_time": 1754492365,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217289,
       "num": 241475,
       "word": "警方通报女子制止男子抽烟反被掌掴",
@@ -1409,6 +1409,14 @@
       "onboard_time": 1754458703,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209277,
+      "num": 266171,
+      "word": "丁肇忠去世",
+      "onboard_time": 1754495124,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206863,
@@ -1547,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190670,
+      "num": 190670,
+      "word": "卢远王乐晨好嗑",
+      "onboard_time": 1754493984,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189007,
       "num": 195167,
       "word": "披荆斩棘",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1754454083,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 183180,
+      "num": 183180,
+      "word": "樊振东新身份加入美国职业乒乓联赛",
+      "onboard_time": 1754492183,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 181532,
@@ -1665,14 +1689,6 @@
       "onboard_time": 1754488285,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178239,
-      "num": 178239,
-      "word": "樊振东新身份加入美国职业乒乓联赛",
-      "onboard_time": 1754492183,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 177214,
@@ -1755,12 +1771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166745,
+      "num": 166745,
+      "word": "崔秀彬 刀马刀马",
+      "onboard_time": 1754490985,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166518,
       "num": 131774,
       "word": "赵露思说以前那样减肥没什么好处",
       "onboard_time": 1754476345,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166498,
+      "num": 166498,
+      "word": "锦月如歌首播收视登顶",
+      "onboard_time": 1754494704,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 165599,
@@ -1793,14 +1825,6 @@
       "onboard_time": 1754465122,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163775,
-      "num": 163775,
-      "word": "崔秀彬 刀马刀马",
-      "onboard_time": 1754490985,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 162645,
@@ -1875,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156426,
+      "num": 156426,
+      "word": "章若楠假刘海",
+      "onboard_time": 1754491166,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156311,
       "num": 156311,
       "word": "莫迪将访华",
@@ -1931,19 +1963,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154014,
-      "num": 154014,
-      "word": "卢远王乐晨好嗑",
-      "onboard_time": 1754493984,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153924,
       "num": 1465281,
       "word": "网友偶遇国旗护卫队训练被帅到",
       "onboard_time": 1754465662,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153721,
+      "num": 205670,
+      "word": "电瓶爆燃案肇事者母亲为儿子喊冤",
+      "onboard_time": 1754492484,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2019,12 +2051,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146416,
-      "num": 146416,
-      "word": "章若楠假刘海",
-      "onboard_time": 1754491166,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 148709,
+      "num": 148709,
+      "word": "警方提示千万别下载这两个软件",
+      "onboard_time": 1754492545,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147667,
+      "num": 337159,
+      "word": "章家敦叫嚣对华加征600%关税",
+      "onboard_time": 1754492603,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146393,
@@ -2073,14 +2113,6 @@
       "onboard_time": 1754484922,
       "rank": 43,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 141383,
-      "num": 205670,
-      "word": "电瓶爆燃案肇事者母亲为儿子喊冤",
-      "onboard_time": 1754492484,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141329,
@@ -2235,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133654,
-      "num": 133654,
-      "word": "警方提示千万别下载这两个软件",
-      "onboard_time": 1754492545,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133432,
       "num": 201112,
       "word": "教体局称笔试17分进复审合法合规",
@@ -2257,6 +2281,14 @@
       "onboard_time": 1754445201,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133163,
+      "num": 133163,
+      "word": "江苏首富之子拟任400亿市值公司董事",
+      "onboard_time": 1754494644,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133085,
@@ -2281,6 +2313,14 @@
       "onboard_time": 1754457204,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132175,
+      "num": 132175,
+      "word": "甲状腺癌的致病因素",
+      "onboard_time": 1754491526,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131859,
@@ -2331,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129436,
-      "num": 337159,
-      "word": "章家敦叫嚣对华加征600%关税",
-      "onboard_time": 1754492603,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129362,
       "num": 86871,
       "word": "滑翔伞操作员空中紧贴女游客被捕",
@@ -2376,14 +2408,6 @@
       "word": "经期这5件事千万不能做",
       "onboard_time": 1754465723,
       "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 127197,
-      "num": 127197,
-      "word": "甲状腺癌的致病因素",
-      "onboard_time": 1754491526,
-      "rank": 43,
       "category": "健康医疗"
     },
     {
@@ -2521,6 +2545,14 @@
       "onboard_time": 1754485763,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121607,
+      "num": 121607,
+      "word": "林一黑毛衣好有人夫感",
+      "onboard_time": 1754494104,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 121091,
@@ -2771,14 +2803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109256,
-      "num": 109256,
-      "word": "林一黑毛衣好有人夫感",
-      "onboard_time": 1754494104,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108512,
       "num": 303753,
       "word": "小鹏P7把情绪价值拉满了",
@@ -2875,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97870,
+      "num": 97870,
+      "word": "刘耀文正是充满好奇的年纪",
+      "onboard_time": 1754494464,
+      "rank": 48,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 97753,
       "num": 97753,
       "word": "gala好强",
@@ -2937,6 +2969,14 @@
       "onboard_time": 1754490626,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90230,
+      "num": 90230,
+      "word": "李兰迪敖瑞鹏或二搭不二之臣",
+      "onboard_time": 1754492603,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 89900,
@@ -3169,6 +3209,14 @@
       "onboard_time": 1754492365,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 71335,
+      "num": 131151,
+      "word": "进猫咖虐猫致死的女子自称心情不好",
+      "onboard_time": 1754494525,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70477,
@@ -3427,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41675,
+      "num": 147010,
+      "word": "泰州发现1941年日版中国地图",
+      "onboard_time": 1754494164,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39969,
       "num": 149827,
       "word": "汉谟拉比与商汤是同一人 作者发声",
@@ -3440,6 +3496,14 @@
       "word": "小狗不慎溜出家门被邻居男子虐杀",
       "onboard_time": 1754462842,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39188,
+      "num": 146479,
+      "word": "首个立法规定男女厕位比例的省份",
+      "onboard_time": 1754494104,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3459,27 +3523,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35299,
-      "num": 147010,
-      "word": "泰州发现1941年日版中国地图",
-      "onboard_time": 1754494164,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34633,
       "num": 109621,
       "word": "3500万起拍的四合院或改为出租",
       "onboard_time": 1754409685,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33623,
-      "num": 146479,
-      "word": "首个立法规定男女厕位比例的省份",
-      "onboard_time": 1754494104,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
