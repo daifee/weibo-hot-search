@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754466472154,
+  "endTime": 1754469547679,
   "band_list": [
     {
       "raw_hot": 3521817,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1653252,
-      "num": 730621,
+      "num": 779061,
       "word": "肆意生花 华策",
       "onboard_time": 1754464943,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1603389,
+      "num": 1603389,
+      "word": "银河酷娱替赵露思推掉红九的小说",
+      "onboard_time": 1754465902,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1590109,
@@ -163,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 920836,
+      "num": 920836,
+      "word": "微信内存一下子就少了10G",
+      "onboard_time": 1754463741,
+      "rank": 1,
+      "category": "互联网,互联网"
+    },
+    {
       "raw_hot": 879158,
       "num": 879158,
       "word": "笔试17分进复审教师招聘何以服众",
@@ -203,20 +219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 770155,
+      "num": 770155,
+      "word": "奶粉偷偷涨了39元",
+      "onboard_time": 1754465482,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 770014,
       "num": 599828,
       "word": "张译获得国家一级演员职称",
       "onboard_time": 1754451142,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 765562,
-      "num": 765562,
-      "word": "微信内存一下子就少了10G",
-      "onboard_time": 1754463741,
-      "rank": 1,
-      "category": "互联网,互联网"
     },
     {
       "raw_hot": 740753,
@@ -249,6 +265,14 @@
       "onboard_time": 1754405663,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 637337,
+      "num": 637337,
+      "word": "杨幂1986年魔童降世",
+      "onboard_time": 1754465603,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 609067,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463775,
+      "num": 291910,
+      "word": "易烊千玺方回应与路人剐蹭",
+      "onboard_time": 1754466683,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449604,
       "num": 271482,
       "word": "男子先穿内裤后穿袜子脚气传染大腿",
@@ -483,14 +515,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 339728,
-      "num": 233354,
-      "word": "银河酷娱替赵露思推掉红九的小说",
-      "onboard_time": 1754465902,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334926,
       "num": 334926,
       "word": "胡歌出镜确认是真的袁弘",
@@ -563,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302764,
+      "num": 302764,
+      "word": "多地公文恶性抄袭",
+      "onboard_time": 1754467283,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301173,
       "num": 301173,
       "word": "日本一周18人死于高温",
@@ -579,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296259,
-      "num": 296259,
-      "word": "奶粉偷偷涨了39元",
-      "onboard_time": 1754465482,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 296327,
+      "num": 304741,
+      "word": "加沙少年离世时仅25公斤曾是体育冠军",
+      "onboard_time": 1754463203,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 296172,
@@ -603,20 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286505,
-      "num": 304741,
-      "word": "加沙少年离世时仅25公斤曾是体育冠军",
-      "onboard_time": 1754463203,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 284428,
       "num": 284428,
       "word": "玩家联名向恋与深空发律师函",
       "onboard_time": 1754454864,
       "rank": 17,
       "category": "游戏,民生新闻"
+    },
+    {
+      "raw_hot": 283640,
+      "num": 283640,
+      "word": "广州白云山体滑坡正统计被困人数",
+      "onboard_time": 1754466202,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283467,
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239650,
+      "num": 239650,
+      "word": "温州7岁男孩补习班坠楼身亡",
+      "onboard_time": 1754468723,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239637,
       "num": 239637,
       "word": "成都世运会开幕式中国队旗手",
@@ -723,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238639,
+      "num": 210958,
+      "word": "张若昀父亲被恢复执行3.5亿",
+      "onboard_time": 1754468303,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237101,
       "num": 213078,
       "word": "夫妻离婚分鸡多出一只被判吃掉再离",
       "onboard_time": 1754417056,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236259,
-      "num": 229116,
-      "word": "杨幂1986年魔童降世",
-      "onboard_time": 1754465603,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 230566,
@@ -835,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213684,
+      "num": 213684,
+      "word": "秋天的第一杯奶茶花束又火了",
+      "onboard_time": 1754466683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212331,
       "num": 165522,
       "word": "时代峰峻从未听闻某歌曲",
@@ -915,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193789,
+      "num": 193789,
+      "word": "22厘米子宫肌瘤钻进40岁女子心脏",
+      "onboard_time": 1754469023,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192030,
       "num": 178472,
       "word": "广岛原子弹爆炸80周年",
@@ -953,6 +1009,14 @@
       "onboard_time": 1754454083,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 183442,
+      "num": 183442,
+      "word": "花698在迪士尼买了一个盲袋",
+      "onboard_time": 1754468004,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 181532,
@@ -1001,6 +1065,14 @@
       "onboard_time": 1754460862,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178838,
+      "num": 188659,
+      "word": "照相馆喊出了我憋屈已久的话",
+      "onboard_time": 1754467885,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 177214,
@@ -1115,6 +1187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161256,
+      "num": 161256,
+      "word": "微信转账 电子凭证",
+      "onboard_time": 1754466084,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 160232,
+      "num": 160232,
+      "word": "美女子外出庆生儿子被家中狗咬身亡",
+      "onboard_time": 1754469143,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158395,
       "num": 158395,
       "word": "换装的王楚钦",
@@ -1203,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150282,
+      "num": 241475,
+      "word": "警方通报女子制止男子抽烟反被掌掴",
+      "onboard_time": 1754468182,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 149867,
       "num": 149867,
       "word": "TVB藏海传招商",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1754452463,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140851,
+      "num": 140851,
+      "word": "韩国歌手李敏去世",
+      "onboard_time": 1754467643,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140564,
@@ -1379,20 +1483,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 128805,
+      "num": 128805,
+      "word": "易烊千玺自己石刻的礐嶨",
+      "onboard_time": 1754468963,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128751,
       "num": 226943,
       "word": "粤B暴雨天遇险关键时刻粤S出手了",
       "onboard_time": 1754414298,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128050,
-      "num": 128050,
-      "word": "微信转账 电子凭证",
-      "onboard_time": 1754466084,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 127670,
@@ -1467,6 +1571,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "汪顺富有且慷慨",
+      "onboard_time": 1754468004,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119451,
       "num": 499521,
       "word": "成都世运会太全面了",
@@ -1515,12 +1627,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113868,
+      "num": 113868,
+      "word": "孟子义说窦昭来支持禾晏将军复仇成功",
+      "onboard_time": 1754466563,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112743,
       "num": 112743,
       "word": "以为上班久了会熟悉工作",
       "onboard_time": 1754442922,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112415,
+      "num": 112415,
+      "word": "25岁中国翼装飞行员在意大利身亡",
+      "onboard_time": 1754467944,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111818,
@@ -1563,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109783,
+      "num": 109783,
+      "word": "天津抑郁率最低",
+      "onboard_time": 1754467463,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109756,
       "num": 109756,
       "word": "BLACKPINK入围VMA奖项提名",
@@ -1585,6 +1721,14 @@
       "onboard_time": 1754436079,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107448,
+      "num": 107448,
+      "word": "献鱼 没惹任何人",
+      "onboard_time": 1754469502,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 106963,
@@ -1657,14 +1801,6 @@
       "onboard_time": 1754440342,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97639,
-      "num": 153530,
-      "word": "广州白云山体滑坡正统计被困人数",
-      "onboard_time": 1754466202,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96874,
@@ -1851,6 +1987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77781,
+      "num": 139142,
+      "word": "老人误将干燥剂当药喂给4月龄宝宝",
+      "onboard_time": 1754468483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77411,
       "num": 82343,
       "word": "张杰签售会",
@@ -2009,6 +2153,14 @@
       "onboard_time": 1754437221,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57893,
+      "num": 139277,
+      "word": "新一代智己LS6内饰正式曝光",
+      "onboard_time": 1754467523,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 56278,
