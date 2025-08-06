@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754453427478,
+  "endTime": 1754454616770,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -305,6 +305,14 @@
       "onboard_time": 1754293943,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2144234,
+      "num": 2144234,
+      "word": "再见爱人5 孙怡董子健",
+      "onboard_time": 1754453542,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2132987,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 1276217,
-      "num": 210200,
+      "num": 227483,
       "word": "喜茶 Chiikawa",
       "onboard_time": 1754444361,
       "rank": 21,
@@ -1075,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1009212,
+      "num": 1009212,
+      "word": "女子去猫咖包房虐猫致4只猫死伤",
+      "onboard_time": 1754451501,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 996749,
       "num": 996749,
       "word": "女子148万分开存骗子只转走600元",
@@ -1379,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 823713,
+      "num": 358972,
+      "word": "男子向飞机上女友求婚答应后飞机坠毁",
+      "onboard_time": 1754452404,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 822747,
       "num": 822747,
       "word": "王楚然下跪张凌赫摔酒杯路透",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1754125103,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 813270,
-      "num": 813270,
-      "word": "女子去猫咖包房虐猫致4只猫死伤",
-      "onboard_time": 1754451501,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 811768,
@@ -1529,6 +1545,14 @@
       "onboard_time": 1754022742,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 770014,
+      "num": 514189,
+      "word": "张译获得国家一级演员职称",
+      "onboard_time": 1754451142,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 767511,
@@ -2635,6 +2659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 506362,
+      "num": 506362,
+      "word": "亮证女侯某某被行政拘留",
+      "onboard_time": 1754454205,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505719,
       "num": 246993,
       "word": "给内耗的人一句终极解药",
@@ -2673,14 +2705,6 @@
       "onboard_time": 1754127382,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497723,
-      "num": 497723,
-      "word": "张译获得国家一级演员职称",
-      "onboard_time": 1754451142,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 497080,
@@ -3531,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382751,
+      "num": 382751,
+      "word": "同个妈生的颜值差异能有多大",
+      "onboard_time": 1754452463,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380928,
       "num": 380928,
       "word": "汤唯撕了我拍的撕拉片",
@@ -3697,14 +3729,6 @@
       "onboard_time": 1754360722,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358972,
-      "num": 358972,
-      "word": "男子向飞机上女友求婚答应后飞机坠毁",
-      "onboard_time": 1754452404,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 358738,
@@ -4547,6 +4571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289836,
+      "num": 289836,
+      "word": "Angelababy独自带小海绵回香港",
+      "onboard_time": 1754453362,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288409,
       "num": 288409,
       "word": "26岁的金裕贞",
@@ -4577,14 +4609,6 @@
       "onboard_time": 1754325560,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285907,
-      "num": 285907,
-      "word": "同个妈生的颜值差异能有多大",
-      "onboard_time": 1754452463,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 285141,
@@ -5009,6 +5033,14 @@
       "onboard_time": 1754284523,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258921,
+      "num": 258921,
+      "word": "猫你以为免费让你摸的",
+      "onboard_time": 1754454205,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 258429,
@@ -5683,6 +5715,14 @@
       "category": "读书作家,电竞"
     },
     {
+      "raw_hot": 226935,
+      "num": 226935,
+      "word": "特朗普称税率将升至250%",
+      "onboard_time": 1754454083,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226720,
       "num": 226720,
       "word": "制片人评杨紫肖战成毅主演号召力",
@@ -5697,6 +5737,14 @@
       "onboard_time": 1754372903,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225648,
+      "num": 225648,
+      "word": "洪真京离婚",
+      "onboard_time": 1754453484,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 225420,
@@ -5721,6 +5769,14 @@
       "onboard_time": 1754273360,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225068,
+      "num": 228110,
+      "word": "TFBOYS没发照片",
+      "onboard_time": 1754453003,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 224982,
@@ -5857,6 +5913,14 @@
       "onboard_time": 1754003779,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219699,
+      "num": 219699,
+      "word": "金价",
+      "onboard_time": 1754453964,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 219639,
@@ -6875,6 +6939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196969,
+      "num": 196969,
+      "word": "快递员入职2个月被罚光8000多工资",
+      "onboard_time": 1754453063,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196924,
+      "num": 230826,
+      "word": "INTO万TOP斗舞",
+      "onboard_time": 1754453662,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196684,
       "num": 237025,
       "word": "中国奥委会发樊振东眼神照",
@@ -7291,6 +7371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190295,
+      "num": 190295,
+      "word": "iPhone17系列仅标准版没涨价",
+      "onboard_time": 1754453903,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190188,
       "num": 190188,
       "word": "王一博向岩而生定档8月12日",
@@ -7659,19 +7747,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184664,
+      "num": 184664,
+      "word": "iPhone17或9月9日发布",
+      "onboard_time": 1754454083,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184614,
       "num": 184614,
       "word": "陈丽君直播",
       "onboard_time": 1754037083,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 184530,
-      "num": 184530,
-      "word": "TFBOYS没发照片",
-      "onboard_time": 1754453003,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -8481,6 +8569,14 @@
       "onboard_time": 1754109502,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170971,
+      "num": 170971,
+      "word": "iPhone还值得买吗",
+      "onboard_time": 1754454323,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 170764,
@@ -9812,7 +9908,7 @@
     },
     {
       "raw_hot": 151054,
-      "num": 227261,
+      "num": 233418,
       "word": "小鹏P7时尚出片神器",
       "onboard_time": 1754451562,
       "rank": 25,
@@ -11643,6 +11739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132368,
+      "num": 187189,
+      "word": "丹麦美人鱼雕像被勒令拆除",
+      "onboard_time": 1754453362,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132138,
       "num": 132138,
       "word": "肖战藏海传粤语版港味太正了",
@@ -11705,14 +11809,6 @@
       "onboard_time": 1754200702,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131337,
-      "num": 131337,
-      "word": "Angelababy独自带小海绵回香港",
-      "onboard_time": 1754453362,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 131221,
@@ -13019,6 +13115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119451,
+      "num": 499521,
+      "word": "成都世运会太全面了",
+      "onboard_time": 1754452103,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119433,
       "num": 119433,
       "word": "黄俊捷等了一年才有结果",
@@ -13929,14 +14033,6 @@
       "onboard_time": 1754239401,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110253,
-      "num": 499521,
-      "word": "成都世运会太全面了",
-      "onboard_time": 1754452103,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 110171,
@@ -15612,7 +15708,7 @@
     },
     {
       "raw_hot": 87484,
-      "num": 87484,
+      "num": 898680,
       "word": "中国舰载机在持续上新",
       "onboard_time": 1754445140,
       "rank": 47,
@@ -15793,14 +15889,6 @@
       "onboard_time": 1754002637,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84028,
-      "num": 172731,
-      "word": "快递员入职2个月被罚光8000多工资",
-      "onboard_time": 1754453063,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83909,
@@ -16091,8 +16179,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78054,
+      "num": 499204,
+      "word": "特朗普称万斯最可能成其接班人",
+      "onboard_time": 1754450543,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77973,
-      "num": 218524,
+      "num": 231474,
       "word": "MG4电池6面穿刺和10针穿刺",
       "onboard_time": 1754451562,
       "rank": 27,
@@ -16593,6 +16689,14 @@
       "onboard_time": 1754066659,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65295,
+      "num": 229809,
+      "word": "浙大回应网传青年教师坠楼",
+      "onboard_time": 1754452883,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65256,
@@ -17123,14 +17227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52381,
-      "num": 210725,
-      "word": "浙大回应网传青年教师坠楼",
-      "onboard_time": 1754452883,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52237,
       "num": 115816,
       "word": "婚房出租一年变猫舍",
@@ -17387,6 +17483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43679,
+      "num": 188838,
+      "word": "加沙17岁少年离世时仅25公斤",
+      "onboard_time": 1754454083,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43269,
       "num": 53754,
       "word": "第一次见这么混血的语言系统",
@@ -17531,14 +17635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39406,
-      "num": 141334,
-      "word": "丹麦美人鱼雕像被勒令拆除",
-      "onboard_time": 1754453362,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 39332,
       "num": 121935,
       "word": "每小时都有1名加沙儿童死亡",
@@ -17616,6 +17712,14 @@
       "word": "负责特朗普案的前检察官遭调查",
       "onboard_time": 1754177420,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36733,
+      "num": 188573,
+      "word": "名古屋市长不认同否认南京大屠杀",
+      "onboard_time": 1754454263,
+      "rank": 39,
       "category": "国际时政"
     },
     {

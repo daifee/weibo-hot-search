@@ -1,0 +1,410 @@
+{
+  "runTime": 1754454616770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2144234,
+        "num": 2144234,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1009212,
+        "num": 1009212,
+        "word": "女子去猫咖包房虐猫致4只猫死伤",
+        "onboard_time": 1754451501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27174,
+        "num": 898680,
+        "word": "中国舰载机在持续上新",
+        "onboard_time": 1754445140,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2130344,
+        "num": 862293,
+        "word": "半个内娱真夫妻都来这节目了",
+        "onboard_time": 1754450423,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807240,
+        "num": 807240,
+        "word": "王俊凯王源易烊千玺卡点",
+        "onboard_time": 1754437881,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578304,
+        "num": 578304,
+        "word": "浙大青年博导坠楼真相是什么",
+        "onboard_time": 1754444720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131736,
+        "num": 518951,
+        "word": "为保八路军孩子她交出了自己孩子",
+        "onboard_time": 1754442082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770014,
+        "num": 514189,
+        "word": "张译获得国家一级演员职称",
+        "onboard_time": 1754451142,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506362,
+        "num": 506362,
+        "word": "亮证女侯某某被行政拘留",
+        "onboard_time": 1754454205,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78054,
+        "num": 499204,
+        "word": "特朗普称万斯最可能成其接班人",
+        "onboard_time": 1754450543,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455538,
+        "num": 495382,
+        "word": "第一次直观感受到基因的不公平",
+        "onboard_time": 1754452222,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 494745,
+        "num": 494745,
+        "word": "披荆斩棘5定档",
+        "onboard_time": 1754443041,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464142,
+        "num": 464142,
+        "word": "时代峰峻演唱会文案 抄袭",
+        "onboard_time": 1754448381,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408746,
+        "num": 408746,
+        "word": "782万彩票大奖1天后作废",
+        "onboard_time": 1754439862,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382751,
+        "num": 382751,
+        "word": "同个妈生的颜值差异能有多大",
+        "onboard_time": 1754452463,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370510,
+        "num": 370510,
+        "word": "王楚钦杂志",
+        "onboard_time": 1754449941,
+        "rank": 15,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 328309,
+        "num": 328309,
+        "word": "明天就立秋了",
+        "onboard_time": 1754440943,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307040,
+        "num": 307040,
+        "word": "女子推理社 加人",
+        "onboard_time": 1754448022,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289836,
+        "num": 289836,
+        "word": "Angelababy独自带小海绵回香港",
+        "onboard_time": 1754453362,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258921,
+        "num": 258921,
+        "word": "猫你以为免费让你摸的",
+        "onboard_time": 1754454205,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 823713,
+        "num": 248222,
+        "word": "男子向飞机上女友求婚答应后飞机坠毁",
+        "onboard_time": 1754452404,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 580397,
+        "num": 241527,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1754449883,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280061,
+        "num": 239232,
+        "word": "黄多多下厨vlog",
+        "onboard_time": 1754450180,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233799,
+        "num": 233799,
+        "word": "刘宇宁工作室用的尼康吗",
+        "onboard_time": 1754449341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126443,
+        "num": 233418,
+        "word": "小鹏P7时尚出片神器",
+        "onboard_time": 1754451562,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233314,
+        "num": 233314,
+        "word": "何九华 尚九熙",
+        "onboard_time": 1754439562,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232192,
+        "num": 232192,
+        "word": "张继科给樊振东分享好苗子",
+        "onboard_time": 1754448142,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61754,
+        "num": 231474,
+        "word": "MG4电池6面穿刺和10针穿刺",
+        "onboard_time": 1754451562,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196924,
+        "num": 230826,
+        "word": "INTO万TOP斗舞",
+        "onboard_time": 1754453662,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65295,
+        "num": 229809,
+        "word": "浙大回应网传青年教师坠楼",
+        "onboard_time": 1754452883,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225068,
+        "num": 228110,
+        "word": "TFBOYS没发照片",
+        "onboard_time": 1754453003,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501061,
+        "num": 227483,
+        "word": "喜茶 Chiikawa",
+        "onboard_time": 1754444361,
+        "rank": 31,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 226935,
+        "num": 226935,
+        "word": "特朗普称税率将升至250%",
+        "onboard_time": 1754454083,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225648,
+        "num": 225648,
+        "word": "洪真京离婚",
+        "onboard_time": 1754453484,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222518,
+        "num": 222518,
+        "word": "女子哭诉扶老人反被诬陷让人寒心",
+        "onboard_time": 1754449821,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219699,
+        "num": 219699,
+        "word": "金价",
+        "onboard_time": 1754453964,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196969,
+        "num": 196969,
+        "word": "快递员入职2个月被罚光8000多工资",
+        "onboard_time": 1754453063,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190295,
+        "num": 190295,
+        "word": "iPhone17系列仅标准版没涨价",
+        "onboard_time": 1754453903,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43679,
+        "num": 188838,
+        "word": "加沙17岁少年离世时仅25公斤",
+        "onboard_time": 1754454083,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36733,
+        "num": 188573,
+        "word": "名古屋市长不认同否认南京大屠杀",
+        "onboard_time": 1754454263,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185896,
+        "num": 188572,
+        "word": "陈乔恩艾伦首次合体上夫妻舞台综艺",
+        "onboard_time": 1754449402,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188572,
+        "num": 188571,
+        "word": "中国即将亮出长剑",
+        "onboard_time": 1754450901,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132368,
+        "num": 187189,
+        "word": "丹麦美人鱼雕像被勒令拆除",
+        "onboard_time": 1754453362,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186508,
+        "num": 186508,
+        "word": "泡面姐姐称自己值1000万彩礼",
+        "onboard_time": 1754452404,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184664,
+        "num": 184664,
+        "word": "iPhone17或9月9日发布",
+        "onboard_time": 1754454083,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180339,
+        "num": 180339,
+        "word": "女性在生理期不能运动系谣言",
+        "onboard_time": 1754433617,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170994,
+        "num": 170994,
+        "word": "杜淳王灿这次合体真的不一样了",
+        "onboard_time": 1754451924,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170971,
+        "num": 170971,
+        "word": "iPhone还值得买吗",
+        "onboard_time": 1754454323,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170659,
+        "num": 170659,
+        "word": "锦月如歌开播",
+        "onboard_time": 1754447361,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119451,
+        "num": 164592,
+        "word": "成都世运会太全面了",
+        "onboard_time": 1754452103,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
