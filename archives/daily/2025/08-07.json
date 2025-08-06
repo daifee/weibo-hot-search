@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754498220306,
+  "endTime": 1754499243490,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 625449,
-      "num": 440725,
+      "num": 555625,
       "word": "赵露思让商家不要再找她了",
       "onboard_time": 1754490685,
       "rank": 6,
@@ -40,6 +40,14 @@
       "word": "丁肇忠去世",
       "onboard_time": 1754495124,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 580563,
+      "num": 335545,
+      "word": "进猫咖虐猫致死的女子自称心情不好",
+      "onboard_time": 1754494525,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -65,14 +73,6 @@
       "onboard_time": 1754487924,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 414813,
-      "num": 335545,
-      "word": "进猫咖虐猫致死的女子自称心情不好",
-      "onboard_time": 1754494525,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 384320,
@@ -115,20 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270530,
+      "num": 270530,
+      "word": "陶白白",
+      "onboard_time": 1754493745,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 263935,
+      "num": 354627,
+      "word": "江苏首富24岁儿子拟任董事",
+      "onboard_time": 1754497101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257033,
       "num": 257033,
       "word": "锦月如歌 魔改",
       "onboard_time": 1754484684,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256605,
-      "num": 256605,
-      "word": "陶白白",
-      "onboard_time": 1754493745,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 220486,
@@ -147,20 +155,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 189447,
-      "num": 354627,
-      "word": "江苏首富24岁儿子拟任董事",
-      "onboard_time": 1754497101,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178667,
       "num": 178667,
       "word": "明天立秋和夏天好好道个别",
       "onboard_time": 1754476883,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151597,
+      "num": 151597,
+      "word": "何猷君前女友晒娃",
+      "onboard_time": 1754471243,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142302,
+      "num": 320454,
+      "word": "特朗普将对印度商品额外加征25%关税",
+      "onboard_time": 1754496743,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135792,
@@ -195,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126559,
-      "num": 126559,
-      "word": "何猷君前女友晒娃",
-      "onboard_time": 1754471243,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 118339,
+      "num": 118339,
+      "word": "陶白白再发文",
+      "onboard_time": 1754484264,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 117723,
@@ -209,14 +225,6 @@
       "onboard_time": 1754492545,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114354,
-      "num": 114354,
-      "word": "陶白白再发文",
-      "onboard_time": 1754484264,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 112123,
@@ -241,14 +249,6 @@
       "onboard_time": 1754495901,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103802,
-      "num": 103802,
-      "word": "特朗普将对印度商品额外加征25%关税",
-      "onboard_time": 1754496743,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97279,
@@ -339,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79100,
+      "num": 79100,
+      "word": "锦月如歌爆改大男主复仇",
+      "onboard_time": 1754489243,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77966,
       "num": 77966,
       "word": "莫迪将访华",
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72030,
+      "num": 72030,
+      "word": "女生曝打暑假工被猥亵因无监控求助",
+      "onboard_time": 1754498300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70026,
       "num": 70026,
       "word": "电瓶爆燃案肇事者母亲为儿子喊冤",
@@ -385,6 +401,30 @@
       "onboard_time": 1754485943,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56913,
+      "num": 56913,
+      "word": "首个立法规定男女厕位比例的省份",
+      "onboard_time": 1754494104,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54712,
+      "num": 54712,
+      "word": "黄明昊唱了时代少年团的姐姐真漂亮",
+      "onboard_time": 1754491345,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36761,
+      "num": 68235,
+      "word": "网红秀才疑似借壳复出",
+      "onboard_time": 1754499019,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 35633,
