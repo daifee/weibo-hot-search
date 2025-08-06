@@ -1,0 +1,410 @@
+{
+  "runTime": 1754448001747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1132516,
+        "num": 1181202,
+        "word": "披荆斩棘5定档",
+        "onboard_time": 1754443041,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 955157,
+        "num": 955157,
+        "word": "782万彩票大奖1天后作废",
+        "onboard_time": 1754439862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2763,
+        "num": 722316,
+        "word": "大河奔涌万象新",
+        "onboard_time": 1754383345,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1032526,
+        "num": 715996,
+        "word": "王俊凯王源易烊千玺卡点",
+        "onboard_time": 1754437881,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645167,
+        "num": 645167,
+        "word": "笔试17分进复审教师招聘何以服众",
+        "onboard_time": 1754440162,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402517,
+        "num": 402517,
+        "word": "女性在生理期不能运动系谣言",
+        "onboard_time": 1754433617,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 355528,
+        "num": 355528,
+        "word": "为保八路军孩子她交出了自己孩子",
+        "onboard_time": 1754442082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325763,
+        "num": 325763,
+        "word": "何九华 尚九熙",
+        "onboard_time": 1754439562,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314297,
+        "num": 314297,
+        "word": "女子拒付搬运工坐地起价被堵锁眼",
+        "onboard_time": 1754442682,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111317,
+        "num": 313318,
+        "word": "重庆下暴雨了但没下在中心城区",
+        "onboard_time": 1754443161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312440,
+        "num": 312440,
+        "word": "明天就立秋了",
+        "onboard_time": 1754440943,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277083,
+        "num": 277083,
+        "word": "胡歌出镜确认是真的袁弘",
+        "onboard_time": 1754436439,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273321,
+        "num": 273321,
+        "word": "特斯拉欧洲销量崩了",
+        "onboard_time": 1754444300,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 268093,
+        "num": 268093,
+        "word": "锦月如歌开播",
+        "onboard_time": 1754447361,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259594,
+        "num": 259594,
+        "word": "日本广岛大学再发现疑似未爆弹",
+        "onboard_time": 1754445621,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 239637,
+        "num": 239637,
+        "word": "成都世运会开幕式中国队旗手",
+        "onboard_time": 1754446941,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213078,
+        "num": 213078,
+        "word": "夫妻离婚分鸡多出一只被判吃掉再离",
+        "onboard_time": 1754417056,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210988,
+        "num": 210988,
+        "word": "韩国羽协指责陈雨菲",
+        "onboard_time": 1754440403,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178486,
+        "num": 178486,
+        "word": "曹云金感谢郭德纲持续教他做人",
+        "onboard_time": 1754436439,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192030,
+        "num": 178472,
+        "word": "广岛原子弹爆炸80周年",
+        "onboard_time": 1754446160,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178427,
+        "num": 178427,
+        "word": "浙大青年博导坠楼真相是什么",
+        "onboard_time": 1754444720,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176487,
+        "num": 176487,
+        "word": "澳洲14岁中国女交换生遇刺身亡",
+        "onboard_time": 1754411721,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167435,
+        "num": 167435,
+        "word": "以色列总理决定全面占领加沙",
+        "onboard_time": 1754412501,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163666,
+        "num": 163666,
+        "word": "披荆斩棘",
+        "onboard_time": 1754436500,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156603,
+        "num": 156603,
+        "word": "长期睡眠不足的人有7个表现",
+        "onboard_time": 1754401283,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149867,
+        "num": 149867,
+        "word": "TVB藏海传招商",
+        "onboard_time": 1754447001,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143141,
+        "num": 143141,
+        "word": "卫健委回应多人骑电单车夜闯医院走廊",
+        "onboard_time": 1754408902,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134304,
+        "num": 134304,
+        "word": "董璇带小酒窝参加东极岛首映礼",
+        "onboard_time": 1754443520,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133416,
+        "num": 133416,
+        "word": "猫 冰箱冻手不能摸",
+        "onboard_time": 1754445201,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132755,
+        "num": 132755,
+        "word": "再见爱人 王浩信",
+        "onboard_time": 1754405663,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1276217,
+        "num": 132692,
+        "word": "喜茶 Chiikawa",
+        "onboard_time": 1754444361,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 120826,
+        "num": 120826,
+        "word": "蔡徐坤说找到他的新伴唱了",
+        "onboard_time": 1754443520,
+        "rank": 31,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 117364,
+        "num": 117364,
+        "word": "登陆少年披荆斩棘MV镜头",
+        "onboard_time": 1754447720,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112652,
+        "num": 112652,
+        "word": "以为上班久了会熟悉工作",
+        "onboard_time": 1754442922,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111338,
+        "num": 111338,
+        "word": "5岁小孩哥算数全程游离结果全对",
+        "onboard_time": 1754443341,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108039,
+        "num": 108039,
+        "word": "浙大一青年博导被曝坠楼身亡",
+        "onboard_time": 1754401283,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105416,
+        "num": 105416,
+        "word": "BLACKPINK入围VMA奖项提名",
+        "onboard_time": 1754441722,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97935,
+        "num": 97935,
+        "word": "转账竟然是可以拦截的",
+        "onboard_time": 1754402064,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97809,
+        "num": 97809,
+        "word": "锦月如歌",
+        "onboard_time": 1754440342,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31107,
+        "num": 97171,
+        "word": "警方回应川藏线上有人摔酒瓶扎胎",
+        "onboard_time": 1754447421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96874,
+        "num": 96874,
+        "word": "国际金价续涨",
+        "onboard_time": 1754447841,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94027,
+        "num": 94027,
+        "word": "第一次对别人的家有这么大占有欲",
+        "onboard_time": 1754439082,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91776,
+        "num": 91776,
+        "word": "毕业半年换11份工作的真实感受",
+        "onboard_time": 1754441123,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90795,
+        "num": 90795,
+        "word": "全红婵巴黎奥运夺金一周年",
+        "onboard_time": 1754444601,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89540,
+        "num": 89540,
+        "word": "再见爱人1真是封神",
+        "onboard_time": 1754436622,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88530,
+        "num": 88530,
+        "word": "成都世运会开赛",
+        "onboard_time": 1754445441,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87037,
+        "num": 87037,
+        "word": "吸血鬼骑士玖兰枢又被虐了",
+        "onboard_time": 1754446461,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85989,
+        "num": 85989,
+        "word": "天呐这就是小狗咪吧",
+        "onboard_time": 1754446041,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85946,
+        "num": 85946,
+        "word": "中国舰载机在持续上新",
+        "onboard_time": 1754445140,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83909,
+        "num": 83909,
+        "word": "我们都替他看到了可爱的中国",
+        "onboard_time": 1754447960,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强军向一流#"
+    }
+  }
+}

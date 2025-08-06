@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754446441563,
+  "endTime": 1754448001747,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1276217,
+      "num": 146637,
+      "word": "喜茶 Chiikawa",
+      "onboard_time": 1754444361,
+      "rank": 21,
+      "category": "美食,动漫"
+    },
+    {
       "raw_hot": 1274313,
       "num": 392265,
       "word": "赵露思被甜品店合伙人背刺起诉",
@@ -769,14 +777,6 @@
       "onboard_time": 1754377883,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 933204,
-      "num": 146637,
-      "word": "喜茶 Chiikawa",
-      "onboard_time": 1754444361,
-      "rank": 21,
-      "category": "美食,动漫"
     },
     {
       "raw_hot": 931603,
@@ -2099,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402517,
+      "num": 402517,
+      "word": "女性在生理期不能运动系谣言",
+      "onboard_time": 1754433617,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 401739,
       "num": 401739,
       "word": "高温天要在南北方换班了",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1754290223,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 388745,
-      "num": 388745,
-      "word": "女性在生理期不能运动系谣言",
-      "onboard_time": 1754433617,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 387929,
@@ -2627,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314297,
+      "num": 337142,
+      "word": "女子拒付搬运工坐地起价被堵锁眼",
+      "onboard_time": 1754442682,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311160,
       "num": 311160,
       "word": "成龙收到了阿祖面具版labubu",
@@ -2899,6 +2907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273321,
+      "num": 273321,
+      "word": "特斯拉欧洲销量崩了",
+      "onboard_time": 1754444300,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 272265,
       "num": 272265,
       "word": "BLG公布Beichuan诊断报告",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1754308223,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268093,
+      "num": 268093,
+      "word": "锦月如歌开播",
+      "onboard_time": 1754447361,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 267367,
@@ -2993,6 +3017,14 @@
       "onboard_time": 1754233644,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259594,
+      "num": 259594,
+      "word": "日本广岛大学再发现疑似未爆弹",
+      "onboard_time": 1754445621,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 259539,
@@ -3243,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239637,
+      "num": 239637,
+      "word": "成都世运会开幕式中国队旗手",
+      "onboard_time": 1754446941,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239551,
       "num": 239551,
       "word": "谢娜打拼归来仍是没招的女儿",
@@ -3284,7 +3324,7 @@
     },
     {
       "raw_hot": 237101,
-      "num": 212898,
+      "num": 213078,
       "word": "夫妻离婚分鸡多出一只被判吃掉再离",
       "onboard_time": 1754417056,
       "rank": 13,
@@ -4139,6 +4179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192030,
+      "num": 178472,
+      "word": "广岛原子弹爆炸80周年",
+      "onboard_time": 1754446160,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191962,
       "num": 191962,
       "word": "孙艺珍在车里晾儿子内裤",
@@ -4153,14 +4201,6 @@
       "onboard_time": 1754399243,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191258,
-      "num": 191258,
-      "word": "特斯拉欧洲销量崩了",
-      "onboard_time": 1754444300,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 191242,
@@ -4617,6 +4657,14 @@
       "onboard_time": 1754379803,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178427,
+      "num": 178427,
+      "word": "浙大青年博导坠楼真相是什么",
+      "onboard_time": 1754444720,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177952,
@@ -5691,6 +5739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149867,
+      "num": 149867,
+      "word": "TVB藏海传招商",
+      "onboard_time": 1754447001,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149848,
       "num": 143542,
       "word": "张峻豪演唱会内场上座率",
@@ -6179,14 +6235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140483,
-      "num": 337142,
-      "word": "女子拒付搬运工坐地起价被堵锁眼",
-      "onboard_time": 1754442682,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140406,
       "num": 140406,
       "word": "哈登中国人气惊呆美国",
@@ -6515,6 +6563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134304,
+      "num": 134304,
+      "word": "董璇带小酒窝参加东极岛首映礼",
+      "onboard_time": 1754443520,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134200,
       "num": 217952,
       "word": "孙艺珍说玄彬最辛苦了",
@@ -6563,12 +6619,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 133377,
-      "num": 133377,
-      "word": "日本广岛大学再发现疑似未爆弹",
-      "onboard_time": 1754445621,
-      "rank": 23,
-      "category": "海外新闻"
+      "raw_hot": 133416,
+      "num": 133416,
+      "word": "猫 冰箱冻手不能摸",
+      "onboard_time": 1754445201,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 133360,
@@ -6609,14 +6665,6 @@
       "onboard_time": 1754386283,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132078,
-      "num": 132078,
-      "word": "董璇带小酒窝参加东极岛首映礼",
-      "onboard_time": 1754443520,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 131796,
@@ -7043,14 +7091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125913,
-      "num": 125913,
-      "word": "浙大青年博导坠楼真相是什么",
-      "onboard_time": 1754444720,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125815,
       "num": 125815,
       "word": "吴艳妮说13秒15拿冠军开心不起来",
@@ -7371,6 +7411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120826,
+      "num": 120826,
+      "word": "蔡徐坤说找到他的新伴唱了",
+      "onboard_time": 1754443520,
+      "rank": 29,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 120503,
       "num": 120503,
       "word": "薛之谦这是啥意思",
@@ -7619,6 +7667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117364,
+      "num": 117364,
+      "word": "登陆少年披荆斩棘MV镜头",
+      "onboard_time": 1754447720,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117331,
       "num": 117331,
       "word": "留子眼中的奢侈品",
@@ -7641,14 +7697,6 @@
       "onboard_time": 1754225424,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116582,
-      "num": 116582,
-      "word": "广岛原子弹爆炸80周年",
-      "onboard_time": 1754446160,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116564,
@@ -7875,14 +7923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112626,
-      "num": 118683,
-      "word": "蔡徐坤说找到他的新伴唱了",
-      "onboard_time": 1754443520,
-      "rank": 29,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 112524,
       "num": 112524,
       "word": "茅台酒新品或每瓶7000元",
@@ -7953,6 +7993,14 @@
       "onboard_time": 1754379744,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111317,
+      "num": 313318,
+      "word": "重庆下暴雨了但没下在中心城区",
+      "onboard_time": 1754443161,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111263,
@@ -8635,6 +8683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97809,
+      "num": 97809,
+      "word": "锦月如歌",
+      "onboard_time": 1754440342,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97790,
       "num": 385739,
       "word": "今年立秋属于晚立秋",
@@ -8707,6 +8763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96874,
+      "num": 96874,
+      "word": "国际金价续涨",
+      "onboard_time": 1754447841,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96720,
       "num": 96720,
       "word": "心动的信号8全员初见晚宴",
@@ -8729,14 +8793,6 @@
       "onboard_time": 1754355203,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96410,
-      "num": 96410,
-      "word": "锦月如歌",
-      "onboard_time": 1754440342,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 96373,
@@ -8856,14 +8912,6 @@
       "word": "自然少年团",
       "onboard_time": 1754212944,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93984,
-      "num": 93984,
-      "word": "重庆下暴雨了但没下在中心城区",
-      "onboard_time": 1754443161,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -9099,14 +9147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89359,
-      "num": 89359,
-      "word": "猫 冰箱冻手不能摸",
-      "onboard_time": 1754445201,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 89246,
       "num": 89246,
       "word": "文俊辉首映礼生图",
@@ -9227,6 +9267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87037,
+      "num": 87037,
+      "word": "吸血鬼骑士玖兰枢又被虐了",
+      "onboard_time": 1754446461,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 87000,
       "num": 87000,
       "word": "白桃星座",
@@ -9248,6 +9296,14 @@
       "word": "你们不会先省再花吗",
       "onboard_time": 1754398763,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85989,
+      "num": 85989,
+      "word": "天呐这就是小狗咪吧",
+      "onboard_time": 1754446041,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -9321,6 +9377,14 @@
       "onboard_time": 1754189661,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83909,
+      "num": 83909,
+      "word": "我们都替他看到了可爱的中国",
+      "onboard_time": 1754447960,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83902,
@@ -9433,14 +9497,6 @@
       "onboard_time": 1754236404,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81871,
-      "num": 81871,
-      "word": "天呐这就是小狗咪吧",
-      "onboard_time": 1754446041,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 81857,
@@ -10665,6 +10721,14 @@
       "onboard_time": 1754176158,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 31107,
+      "num": 97171,
+      "word": "警方回应川藏线上有人摔酒瓶扎胎",
+      "onboard_time": 1754447421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30030,
