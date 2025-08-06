@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754488264849,
+  "endTime": 1754488776531,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2585697,
+      "num": 2585697,
+      "word": "Zara广告因模特太瘦被禁",
+      "onboard_time": 1754486422,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2471479,
       "num": 2471479,
       "word": "半个内娱真夫妻都来这节目了",
@@ -449,14 +457,6 @@
       "onboard_time": 1754047223,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1845659,
-      "num": 1845659,
-      "word": "Zara广告因模特太瘦被禁",
-      "onboard_time": 1754486422,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1839036,
@@ -867,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1264166,
+      "num": 1264166,
+      "word": "锦月如歌 魔改",
+      "onboard_time": 1754484684,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1252491,
       "num": 413889,
       "word": "银河酷娱",
@@ -905,14 +913,6 @@
       "onboard_time": 1754364742,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1222150,
-      "num": 1222150,
-      "word": "锦月如歌 魔改",
-      "onboard_time": 1754484684,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 1217534,
@@ -977,6 +977,14 @@
       "onboard_time": 1754439862,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1168034,
+      "num": 1168034,
+      "word": "樊振东投资美国职业乒乓球大联盟",
+      "onboard_time": 1754484023,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1155519,
@@ -1155,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1035194,
-      "num": 1035194,
-      "word": "樊振东投资美国职业乒乓球大联盟",
-      "onboard_time": 1754484023,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1034416,
       "num": 1034416,
       "word": "第五人格",
@@ -1177,6 +1177,14 @@
       "onboard_time": 1754184922,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1029786,
+      "num": 1029786,
+      "word": "曝沈玉琳患血癌",
+      "onboard_time": 1754485943,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1016515,
@@ -1657,14 +1665,6 @@
       "onboard_time": 1754355144,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 803602,
-      "num": 803602,
-      "word": "曝沈玉琳患血癌",
-      "onboard_time": 1754485943,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 802576,
@@ -2555,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 590544,
+      "num": 590544,
+      "word": "陶白白再发文",
+      "onboard_time": 1754484264,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 588815,
       "num": 588815,
       "word": "柴鸡蛋疑似还钱了",
@@ -2916,7 +2924,7 @@
     },
     {
       "raw_hot": 523152,
-      "num": 392022,
+      "num": 396112,
       "word": "5岁女童泳道内遭成年女子拍打",
       "onboard_time": 1754481683,
       "rank": 22,
@@ -3387,14 +3395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456051,
-      "num": 456051,
-      "word": "陶白白再发文",
-      "onboard_time": 1754484264,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 455990,
       "num": 455990,
       "word": "张碧晨爱的史诗交响演唱会",
@@ -3441,6 +3441,14 @@
       "onboard_time": 1754312664,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445869,
+      "num": 367037,
+      "word": "赵露思直播时特意提到大粉的名字",
+      "onboard_time": 1754484922,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 444551,
@@ -3859,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391484,
+      "num": 391484,
+      "word": "夏塔 将军桥",
+      "onboard_time": 1754487205,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389036,
       "num": 273779,
       "word": "终于学会漂漂亮亮不随份子钱",
@@ -3993,6 +4009,14 @@
       "onboard_time": 1754222365,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378275,
+      "num": 335875,
+      "word": "男子送车内死亡3天司机回家",
+      "onboard_time": 1754485584,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377631,
@@ -4161,14 +4185,6 @@
       "onboard_time": 1754367923,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358542,
-      "num": 358542,
-      "word": "夏塔 将军桥",
-      "onboard_time": 1754487205,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358502,
@@ -4697,14 +4713,6 @@
       "onboard_time": 1754371522,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316011,
-      "num": 316011,
-      "word": "赵露思直播时特意提到大粉的名字",
-      "onboard_time": 1754484922,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 315958,
@@ -5427,14 +5435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268455,
-      "num": 268455,
-      "word": "男子送车内死亡3天司机回家",
-      "onboard_time": 1754485584,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268268,
       "num": 965111,
       "word": "王楚钦帅气造型",
@@ -5955,6 +5955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245168,
+      "num": 245168,
+      "word": "赵露思今天更没声了",
+      "onboard_time": 1754487985,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244839,
       "num": 244839,
       "word": "八一主题MV祖国不会忘记",
@@ -5969,6 +5977,14 @@
       "onboard_time": 1754033842,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 244403,
+      "num": 244403,
+      "word": "不二之臣",
+      "onboard_time": 1754487924,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 244311,
@@ -6097,6 +6113,22 @@
       "onboard_time": 1754316265,
       "rank": 21,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 237698,
+      "num": 237698,
+      "word": "韩国婆婆做饭全家吃泡菜",
+      "onboard_time": 1754486544,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237633,
+      "num": 237633,
+      "word": "北京闪电",
+      "onboard_time": 1754487024,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237101,
@@ -6233,6 +6265,14 @@
       "onboard_time": 1753971385,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230942,
+      "num": 239685,
+      "word": "锦月如歌热度",
+      "onboard_time": 1754488044,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 230200,
@@ -6617,14 +6657,6 @@
       "onboard_time": 1754003779,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219822,
-      "num": 219822,
-      "word": "赵露思今天更没声了",
-      "onboard_time": 1754487985,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 219639,
@@ -7275,14 +7307,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 205861,
-      "num": 205861,
-      "word": "韩国婆婆做饭全家吃泡菜",
-      "onboard_time": 1754486544,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 205768,
       "num": 173080,
       "word": "高体脂女生高效降体脂方法",
@@ -7425,14 +7449,6 @@
       "onboard_time": 1754197224,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203314,
-      "num": 203314,
-      "word": "不二之臣",
-      "onboard_time": 1754487924,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 203100,
@@ -8099,6 +8115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192762,
+      "num": 360829,
+      "word": "日军曾悬赏15万美元追杀摄影师",
+      "onboard_time": 1754487024,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192415,
       "num": 352073,
       "word": "零跑汽车7月销量首破5万台",
@@ -8755,14 +8779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182036,
-      "num": 182036,
-      "word": "北京闪电",
-      "onboard_time": 1754487024,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182024,
       "num": 182024,
       "word": "云合",
@@ -8971,6 +8987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178542,
+      "num": 178542,
+      "word": "沈玉琳发文",
+      "onboard_time": 1754488285,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178214,
       "num": 158557,
       "word": "杨博文陈浚铭报4中4",
@@ -9121,14 +9145,6 @@
       "onboard_time": 1754314285,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175836,
-      "num": 175836,
-      "word": "锦月如歌热度",
-      "onboard_time": 1754488044,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 175803,
@@ -10243,14 +10259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160902,
-      "num": 360829,
-      "word": "日军曾悬赏15万美元追杀摄影师",
-      "onboard_time": 1754487024,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160795,
       "num": 154853,
       "word": "Beni档期没白空",
@@ -10459,6 +10467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157591,
+      "num": 157591,
+      "word": "单依纯 华语乐坛老来得女",
+      "onboard_time": 1754487382,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157585,
       "num": 157585,
       "word": "男子酒后用智能驾驶开车停在路中睡了",
@@ -10635,6 +10651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155175,
+      "num": 155175,
+      "word": "千山茶客",
+      "onboard_time": 1754485763,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "95生六大男流量格局",
@@ -10740,7 +10764,7 @@
     },
     {
       "raw_hot": 153924,
-      "num": 1065006,
+      "num": 1212658,
       "word": "网友偶遇国旗护卫队训练被帅到",
       "onboard_time": 1754465662,
       "rank": 31,
@@ -11643,14 +11667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144684,
-      "num": 144684,
-      "word": "千山茶客",
-      "onboard_time": 1754485763,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144585,
       "num": 144585,
       "word": "亮证姐事件巧合为何这么多",
@@ -12153,14 +12169,6 @@
       "onboard_time": 1754052501,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139384,
-      "num": 139384,
-      "word": "单依纯 华语乐坛老来得女",
-      "onboard_time": 1754487382,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 139378,
@@ -13659,6 +13667,14 @@
       "category": "读书作家,综艺"
     },
     {
+      "raw_hot": 126925,
+      "num": 126925,
+      "word": "妍妍酱 老婆龙",
+      "onboard_time": 1754486903,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126913,
       "num": 126913,
       "word": "Doinb深夜破防",
@@ -13825,6 +13841,14 @@
       "onboard_time": 1754049562,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126015,
+      "num": 398677,
+      "word": "全红婵陈芋汐奥运会神仙打架",
+      "onboard_time": 1754483542,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 125953,
@@ -14555,14 +14579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119811,
-      "num": 119811,
-      "word": "妍妍酱 老婆龙",
-      "onboard_time": 1754486903,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 119768,
       "num": 119768,
       "word": "余宇涵尝试新风格",
@@ -15211,6 +15227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114031,
+      "num": 114031,
+      "word": "GALA芸阿娜五杀",
+      "onboard_time": 1754486844,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113868,
       "num": 113868,
       "word": "孟子义说窦昭来支持禾晏将军复仇成功",
@@ -15353,14 +15377,6 @@
       "onboard_time": 1754139686,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112779,
-      "num": 112779,
-      "word": "GALA芸阿娜五杀",
-      "onboard_time": 1754486844,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 112743,
@@ -15659,14 +15675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110172,
-      "num": 142227,
-      "word": "全红婵陈芋汐奥运会神仙打架",
-      "onboard_time": 1754483542,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110171,
       "num": 1095841,
       "word": "高温暴雨强对流3预警齐发",
@@ -15809,6 +15817,14 @@
       "onboard_time": 1754123841,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108295,
+      "num": 108295,
+      "word": "新疆一景区网红桥绳断多名游客落水",
+      "onboard_time": 1754488524,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 108253,
@@ -16027,6 +16043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105110,
+      "num": 206996,
+      "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
+      "onboard_time": 1754483783,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105014,
       "num": 105014,
       "word": "汪顺回应男子混接无缘决赛",
@@ -16073,14 +16097,6 @@
       "onboard_time": 1754209585,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104592,
-      "num": 206996,
-      "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
-      "onboard_time": 1754483783,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 104591,
