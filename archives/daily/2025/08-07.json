@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754499243490,
+  "endTime": 1754501349630,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -33,6 +33,14 @@
       "onboard_time": 1754490685,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600779,
+      "num": 600779,
+      "word": "江苏首富24岁儿子拟任董事",
+      "onboard_time": 1754497101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 591023,
@@ -123,14 +131,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 263935,
-      "num": 354627,
-      "word": "江苏首富24岁儿子拟任董事",
-      "onboard_time": 1754497101,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257033,
       "num": 257033,
       "word": "锦月如歌 魔改",
@@ -163,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168722,
+      "num": 168722,
+      "word": "网红秀才疑似借壳复出",
+      "onboard_time": 1754499019,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151597,
       "num": 151597,
       "word": "何猷君前女友晒娃",
       "onboard_time": 1754471243,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144670,
+      "num": 110998,
+      "word": "南京照相馆被污蔑话术好一致",
+      "onboard_time": 1754497222,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 142302,
@@ -235,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107941,
+      "num": 107941,
+      "word": "女生曝打暑假工被猥亵因无监控求助",
+      "onboard_time": 1754498300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106081,
       "num": 106081,
       "word": "赵露思直播时特意提到大粉的名字",
@@ -273,14 +297,6 @@
       "onboard_time": 1754473644,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92642,
-      "num": 92642,
-      "word": "南京照相馆被污蔑话术好一致",
-      "onboard_time": 1754497222,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 91516,
@@ -371,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72030,
-      "num": 72030,
-      "word": "女生曝打暑假工被猥亵因无监控求助",
-      "onboard_time": 1754498300,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70026,
       "num": 70026,
       "word": "电瓶爆燃案肇事者母亲为儿子喊冤",
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55797,
+      "num": 55797,
+      "word": "15天前张芷溪还是献鱼的出品方",
+      "onboard_time": 1754500338,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54712,
       "num": 54712,
       "word": "黄明昊唱了时代少年团的姐姐真漂亮",
@@ -419,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36761,
-      "num": 68235,
-      "word": "网红秀才疑似借壳复出",
-      "onboard_time": 1754499019,
-      "rank": 39,
-      "category": "网红"
+      "raw_hot": 45378,
+      "num": 49436,
+      "word": "胖东来员工回应月入9千",
+      "onboard_time": 1754500937,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35633,
