@@ -1,7 +1,15 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754448001747,
+  "endTime": 1754453427478,
   "band_list": [
+    {
+      "raw_hot": 2471479,
+      "num": 2471479,
+      "word": "半个内娱真夫妻都来这节目了",
+      "onboard_time": 1754450423,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2366610,
       "num": 2366610,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1276217,
-      "num": 146637,
+      "num": 210200,
       "word": "喜茶 Chiikawa",
       "onboard_time": 1754444361,
       "rank": 21,
@@ -65,6 +73,30 @@
       "onboard_time": 1754440162,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848278,
+      "num": 848278,
+      "word": "浙大青年博导坠楼真相是什么",
+      "onboard_time": 1754444720,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 813270,
+      "num": 813270,
+      "word": "女子去猫咖包房虐猫致4只猫死伤",
+      "onboard_time": 1754451501,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 787866,
+      "num": 498970,
+      "word": "不胖和好瘦的区别",
+      "onboard_time": 1754449883,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 730077,
@@ -99,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 556226,
+      "num": 518244,
+      "word": "时代峰峻演唱会文案 抄袭",
+      "onboard_time": 1754448381,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 555856,
       "num": 509172,
       "word": "澳洲14岁中国女交换生遇刺身亡",
@@ -113,6 +153,22 @@
       "onboard_time": 1754401283,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502903,
+      "num": 502903,
+      "word": "第一次直观感受到基因的不公平",
+      "onboard_time": 1754452222,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 497723,
+      "num": 497723,
+      "word": "张译获得国家一级演员职称",
+      "onboard_time": 1754451142,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 489312,
@@ -171,6 +227,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 400378,
+      "num": 400378,
+      "word": "王楚钦杂志",
+      "onboard_time": 1754449941,
+      "rank": 12,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 397164,
+      "num": 397164,
+      "word": "女子推理社 加人",
+      "onboard_time": 1754448022,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385692,
       "num": 385692,
       "word": "何九华 尚九熙",
@@ -180,11 +252,19 @@
     },
     {
       "raw_hot": 372698,
-      "num": 372698,
+      "num": 823049,
       "word": "为保八路军孩子她交出了自己孩子",
       "onboard_time": 1754442082,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358972,
+      "num": 358972,
+      "word": "男子向飞机上女友求婚答应后飞机坠毁",
+      "onboard_time": 1754452404,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 353548,
@@ -203,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331577,
+      "num": 331577,
+      "word": "张继科给樊振东分享好苗子",
+      "onboard_time": 1754448142,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331536,
       "num": 331536,
       "word": "原来这么多短剧演员是选秀出身",
       "onboard_time": 1754407344,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330748,
+      "num": 330748,
+      "word": "黄多多下厨vlog",
+      "onboard_time": 1754450180,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 323140,
@@ -225,6 +321,38 @@
       "onboard_time": 1754442682,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311497,
+      "num": 311497,
+      "word": "女子哭诉扶老人反被诬陷让人寒心",
+      "onboard_time": 1754449821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299717,
+      "num": 299717,
+      "word": "刘宇宁工作室用的尼康吗",
+      "onboard_time": 1754449341,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293436,
+      "num": 293436,
+      "word": "陈乔恩艾伦首次合体上夫妻舞台综艺",
+      "onboard_time": 1754449402,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285907,
+      "num": 285907,
+      "word": "同个妈生的颜值差异能有多大",
+      "onboard_time": 1754452463,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 273321,
@@ -315,12 +443,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230120,
+      "num": 230120,
+      "word": "泡面姐姐称自己值1000万彩礼",
+      "onboard_time": 1754452404,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225420,
+      "num": 225420,
+      "word": "杜淳王灿这次合体真的不一样了",
+      "onboard_time": 1754451924,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218446,
       "num": 218446,
       "word": "28岁女子口臭5年查出胃癌前病变",
       "onboard_time": 1754393604,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218390,
+      "num": 218390,
+      "word": "周也丞磊锦月如歌10秒亲了5次",
+      "onboard_time": 1754452522,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 215286,
@@ -355,6 +507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200393,
+      "num": 200393,
+      "word": "易烊千玺四字歌官摄",
+      "onboard_time": 1754452222,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 198897,
+      "num": 198897,
+      "word": "中国即将亮出长剑",
+      "onboard_time": 1754450901,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192030,
       "num": 178472,
       "word": "广岛原子弹爆炸80周年",
@@ -379,6 +547,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184530,
+      "num": 184530,
+      "word": "TFBOYS没发照片",
+      "onboard_time": 1754453003,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181532,
+      "num": 181532,
+      "word": "成都世运会",
+      "onboard_time": 1754452762,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180602,
       "num": 180602,
       "word": "6名游客被人头蜂追着咬路人相救",
@@ -395,12 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178427,
-      "num": 178427,
-      "word": "浙大青年博导坠楼真相是什么",
-      "onboard_time": 1754444720,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 177214,
+      "num": 182388,
+      "word": "丞磊首部男主戏开播",
+      "onboard_time": 1754452343,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172186,
+      "num": 172186,
+      "word": "人一旦染上奶茶后",
+      "onboard_time": 1754453242,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 172004,
@@ -451,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151054,
+      "num": 227261,
+      "word": "小鹏P7时尚出片神器",
+      "onboard_time": 1754451562,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149867,
       "num": 149867,
       "word": "TVB藏海传招商",
@@ -464,6 +664,46 @@
       "word": "情侣在少儿阅读区当众亲热",
       "onboard_time": 1754436079,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141988,
+      "num": 141988,
+      "word": "女主一声夫君男主上头了",
+      "onboard_time": 1754452944,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141329,
+      "num": 141329,
+      "word": "余景天谈纽约留学感受",
+      "onboard_time": 1754452463,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140564,
+      "num": 140564,
+      "word": "人一旦独自旅行就定型了",
+      "onboard_time": 1754452822,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 137044,
+      "num": 137044,
+      "word": "尹锡悦脱衣拒捕为爱情",
+      "onboard_time": 1754451622,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136447,
+      "num": 137704,
+      "word": "国家电网用电负荷连续两天创新高",
+      "onboard_time": 1754448621,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -489,6 +729,14 @@
       "onboard_time": 1754410942,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131337,
+      "num": 131337,
+      "word": "Angelababy独自带小海绵回香港",
+      "onboard_time": 1754453362,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 129362,
@@ -577,6 +825,14 @@
       "onboard_time": 1754395823,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110253,
+      "num": 499521,
+      "word": "成都世运会太全面了",
+      "onboard_time": 1754452103,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 109966,
@@ -771,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84028,
+      "num": 172731,
+      "word": "快递员入职2个月被罚光8000多工资",
+      "onboard_time": 1754453063,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83909,
       "num": 83909,
       "word": "我们都替他看到了可爱的中国",
@@ -825,6 +1089,14 @@
       "onboard_time": 1754436259,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77973,
+      "num": 218524,
+      "word": "MG4电池6面穿刺和10针穿刺",
+      "onboard_time": 1754451562,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 77411,
@@ -979,12 +1251,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 52381,
+      "num": 210725,
+      "word": "浙大回应网传青年教师坠楼",
+      "onboard_time": 1754452883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48005,
       "num": 48005,
       "word": "这个姿势是猫界二郎腿",
       "onboard_time": 1754436379,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39406,
+      "num": 141334,
+      "word": "丹麦美人鱼雕像被勒令拆除",
+      "onboard_time": 1754453362,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36017,
@@ -1097,6 +1385,9 @@
     },
     {
       "word": "#矢志强军向一流#"
+    },
+    {
+      "word": "#300多万条十五五建议汇聚中国力量#"
     }
   ]
 }

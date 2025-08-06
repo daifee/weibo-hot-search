@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754448001747,
+  "endTime": 1754453427478,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -137,6 +137,14 @@
       "onboard_time": 1754312424,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2471479,
+      "num": 2471479,
+      "word": "半个内娱真夫妻都来这节目了",
+      "onboard_time": 1754450423,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2408808,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 1276217,
-      "num": 146637,
+      "num": 210200,
       "word": "喜茶 Chiikawa",
       "onboard_time": 1754444361,
       "rank": 21,
@@ -875,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 848278,
+      "num": 848278,
+      "word": "浙大青年博导坠楼真相是什么",
+      "onboard_time": 1754444720,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 838471,
       "num": 838471,
       "word": "樊振东莫雷加德聚餐",
@@ -897,6 +913,14 @@
       "onboard_time": 1754295203,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 813270,
+      "num": 813270,
+      "word": "女子去猫咖包房虐猫致4只猫死伤",
+      "onboard_time": 1754451501,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 811768,
@@ -937,6 +961,14 @@
       "onboard_time": 1754215703,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 787866,
+      "num": 498970,
+      "word": "不胖和好瘦的区别",
+      "onboard_time": 1754449883,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 784496,
@@ -1571,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556226,
+      "num": 518244,
+      "word": "时代峰峻演唱会文案 抄袭",
+      "onboard_time": 1754448381,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 555856,
       "num": 509172,
       "word": "澳洲14岁中国女交换生遇刺身亡",
@@ -1697,6 +1737,22 @@
       "onboard_time": 1754306542,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502903,
+      "num": 502903,
+      "word": "第一次直观感受到基因的不公平",
+      "onboard_time": 1754452222,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 497723,
+      "num": 497723,
+      "word": "张译获得国家一级演员职称",
+      "onboard_time": 1754451142,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 497080,
@@ -2123,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400378,
+      "num": 400378,
+      "word": "王楚钦杂志",
+      "onboard_time": 1754449941,
+      "rank": 12,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 400284,
       "num": 400284,
       "word": "中国队15金12银10铜收官",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1754283984,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 397164,
+      "num": 397164,
+      "word": "女子推理社 加人",
+      "onboard_time": 1754448022,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 396587,
@@ -2308,7 +2380,7 @@
     },
     {
       "raw_hot": 372698,
-      "num": 372698,
+      "num": 823049,
       "word": "为保八路军孩子她交出了自己孩子",
       "onboard_time": 1754442082,
       "rank": 8,
@@ -2345,6 +2417,14 @@
       "onboard_time": 1754360722,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358972,
+      "num": 358972,
+      "word": "男子向飞机上女友求婚答应后飞机坠毁",
+      "onboard_time": 1754452404,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 358738,
@@ -2499,12 +2579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331577,
+      "num": 331577,
+      "word": "张继科给樊振东分享好苗子",
+      "onboard_time": 1754448142,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331536,
       "num": 331536,
       "word": "原来这么多短剧演员是选秀出身",
       "onboard_time": 1754407344,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330748,
+      "num": 330748,
+      "word": "黄多多下厨vlog",
+      "onboard_time": 1754450180,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 327691,
@@ -2635,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311497,
+      "num": 311497,
+      "word": "女子哭诉扶老人反被诬陷让人寒心",
+      "onboard_time": 1754449821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311160,
       "num": 311160,
       "word": "成龙收到了阿祖面具版labubu",
@@ -2707,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299717,
+      "num": 299717,
+      "word": "刘宇宁工作室用的尼康吗",
+      "onboard_time": 1754449341,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298339,
       "num": 298339,
       "word": "女子参加水上闯关被木头插入腿内",
@@ -2753,6 +2865,14 @@
       "onboard_time": 1754385923,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293436,
+      "num": 293436,
+      "word": "陈乔恩艾伦首次合体上夫妻舞台综艺",
+      "onboard_time": 1754449402,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 293261,
@@ -2817,6 +2937,14 @@
       "onboard_time": 1754325560,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285907,
+      "num": 285907,
+      "word": "同个妈生的颜值差异能有多大",
+      "onboard_time": 1754452463,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 285441,
@@ -3387,6 +3515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230120,
+      "num": 230120,
+      "word": "泡面姐姐称自己值1000万彩礼",
+      "onboard_time": 1754452404,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229678,
       "num": 229678,
       "word": "上门做饭一天赚了800元",
@@ -3449,6 +3585,14 @@
       "onboard_time": 1754372903,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225420,
+      "num": 225420,
+      "word": "杜淳王灿这次合体真的不一样了",
+      "onboard_time": 1754451924,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 225182,
@@ -3537,6 +3681,14 @@
       "onboard_time": 1754218643,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218390,
+      "num": 218390,
+      "word": "周也丞磊锦月如歌10秒亲了5次",
+      "onboard_time": 1754452522,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 216973,
@@ -3899,6 +4051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200393,
+      "num": 200393,
+      "word": "易烊千玺四字歌官摄",
+      "onboard_time": 1754452222,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200254,
       "num": 200254,
       "word": "秃子被围攻",
@@ -3937,6 +4097,14 @@
       "onboard_time": 1754275223,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 198897,
+      "num": 198897,
+      "word": "中国即将亮出长剑",
+      "onboard_time": 1754450901,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198618,
@@ -4483,6 +4651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184530,
+      "num": 184530,
+      "word": "TFBOYS没发照片",
+      "onboard_time": 1754453003,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184478,
       "num": 184478,
       "word": "走路10分钟身体就开始变化",
@@ -4553,6 +4729,14 @@
       "onboard_time": 1754213664,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181532,
+      "num": 181532,
+      "word": "成都世运会",
+      "onboard_time": 1754452762,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 181249,
@@ -4659,14 +4843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178427,
-      "num": 178427,
-      "word": "浙大青年博导坠楼真相是什么",
-      "onboard_time": 1754444720,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177952,
       "num": 252853,
       "word": "被水泥块砸中身亡女子还不满21岁",
@@ -4696,6 +4872,14 @@
       "word": "此款女主内娱无代餐",
       "onboard_time": 1754292983,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177214,
+      "num": 182388,
+      "word": "丞磊首部男主戏开播",
+      "onboard_time": 1754452343,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -4937,6 +5121,14 @@
       "onboard_time": 1754230584,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172186,
+      "num": 172186,
+      "word": "人一旦染上奶茶后",
+      "onboard_time": 1754453242,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 171748,
@@ -5675,6 +5867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151054,
+      "num": 227261,
+      "word": "小鹏P7时尚出片神器",
+      "onboard_time": 1754451562,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 151021,
       "num": 151021,
       "word": "鹿晗四巡北京站终于上桌",
@@ -6139,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141988,
+      "num": 141988,
+      "word": "女主一声夫君男主上头了",
+      "onboard_time": 1754452944,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141970,
       "num": 141970,
       "word": "AAA煮鸡蛋批发商韩某",
@@ -6195,6 +6403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141329,
+      "num": 141329,
+      "word": "余景天谈纽约留学感受",
+      "onboard_time": 1754452463,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141063,
       "num": 141063,
       "word": "贾玲在我胸肌上签名",
@@ -6225,6 +6441,14 @@
       "onboard_time": 1754205025,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140564,
+      "num": 140564,
+      "word": "人一旦独自旅行就定型了",
+      "onboard_time": 1754452822,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 140496,
@@ -6459,6 +6683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137044,
+      "num": 137044,
+      "word": "尹锡悦脱衣拒捕为爱情",
+      "onboard_time": 1754451622,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136533,
       "num": 136533,
       "word": "没想到陈乔恩普通话最标准",
@@ -6473,6 +6705,14 @@
       "onboard_time": 1754211504,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136447,
+      "num": 137704,
+      "word": "国家电网用电负荷连续两天创新高",
+      "onboard_time": 1754448621,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136354,
@@ -6697,6 +6937,14 @@
       "onboard_time": 1754200702,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131337,
+      "num": 131337,
+      "word": "Angelababy独自带小海绵回香港",
+      "onboard_time": 1754453362,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 131033,
@@ -8059,6 +8307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110253,
+      "num": 499521,
+      "word": "成都世运会太全面了",
+      "onboard_time": 1754452103,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110171,
       "num": 1095841,
       "word": "高温暴雨强对流3预警齐发",
@@ -9379,6 +9635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84028,
+      "num": 172731,
+      "word": "快递员入职2个月被罚光8000多工资",
+      "onboard_time": 1754453063,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83909,
       "num": 83909,
       "word": "我们都替他看到了可爱的中国",
@@ -9624,6 +9888,14 @@
       "word": "半固态电池强在哪儿",
       "onboard_time": 1754402005,
       "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 77973,
+      "num": 218524,
+      "word": "MG4电池6面穿刺和10针穿刺",
+      "onboard_time": 1754451562,
+      "rank": 27,
       "category": "汽车"
     },
     {
@@ -10355,6 +10627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52381,
+      "num": 210725,
+      "word": "浙大回应网传青年教师坠楼",
+      "onboard_time": 1754452883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52237,
       "num": 115816,
       "word": "婚房出租一年变猫舍",
@@ -10569,6 +10849,14 @@
       "onboard_time": 1754286982,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39406,
+      "num": 141334,
+      "word": "丹麦美人鱼雕像被勒令拆除",
+      "onboard_time": 1754453362,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37846,
