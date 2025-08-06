@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754491946910,
+  "endTime": 1754494354095,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -393,6 +393,14 @@
       "onboard_time": 1754369963,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1973920,
+      "num": 1973920,
+      "word": "陶白白 出轨",
+      "onboard_time": 1754493745,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1961731,
@@ -1027,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1146569,
+      "num": 421263,
+      "word": "苍兰诀",
+      "onboard_time": 1754491706,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1145342,
       "num": 1095263,
       "word": "管乐的家乱的让人震撼",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1754310203,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 891081,
+      "num": 403037,
+      "word": "赵露思让商家不要再找她了",
+      "onboard_time": 1754490685,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 887320,
@@ -2411,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619121,
+      "num": 619121,
+      "word": "新疆一景区网红桥绳断多名游客落水",
+      "onboard_time": 1754488524,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 618535,
       "num": 618535,
       "word": "佛山突发公共卫生事件三级响应启动",
@@ -2889,14 +2921,6 @@
       "onboard_time": 1754106621,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 532780,
-      "num": 532780,
-      "word": "新疆一景区网红桥绳断多名游客落水",
-      "onboard_time": 1754488524,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 532120,
@@ -3467,14 +3491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450391,
-      "num": 403037,
-      "word": "赵露思让商家不要再找她了",
-      "onboard_time": 1754490685,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 449604,
       "num": 271482,
       "word": "男子先穿内裤后穿袜子脚气传染大腿",
@@ -3689,6 +3705,14 @@
       "onboard_time": 1754278162,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417050,
+      "num": 458521,
+      "word": "狗群闯入养鸡场咬死600只鸡",
+      "onboard_time": 1754491166,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416421,
@@ -4457,6 +4481,14 @@
       "onboard_time": 1754436439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334491,
+      "num": 343222,
+      "word": "明天立秋和夏天好好道个别",
+      "onboard_time": 1754476883,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334155,
@@ -5336,14 +5368,6 @@
       "word": "女子脚被扎伤后长出癌中之王",
       "onboard_time": 1754094740,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276659,
-      "num": 343222,
-      "word": "明天立秋和夏天好好道个别",
-      "onboard_time": 1754476883,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6769,6 +6793,14 @@
       "onboard_time": 1754055024,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217829,
+      "num": 217829,
+      "word": "专家建议10岁开始存养老钱最划算",
+      "onboard_time": 1754492365,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217342,
@@ -8723,14 +8755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 183544,
-      "num": 183544,
-      "word": "苍兰诀",
-      "onboard_time": 1754491706,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183428,
       "num": 171293,
       "word": "她一晚上做了我一辈子的工作",
@@ -9049,6 +9073,14 @@
       "onboard_time": 1754488285,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178239,
+      "num": 178239,
+      "word": "樊振东新身份加入美国职业乒乓联赛",
+      "onboard_time": 1754492183,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 178214,
@@ -10059,6 +10091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163775,
+      "num": 163775,
+      "word": "崔秀彬 刀马刀马",
+      "onboard_time": 1754490985,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163730,
       "num": 163730,
       "word": "咸鱼飞升",
@@ -10491,6 +10531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158446,
+      "num": 158446,
+      "word": "TTG战胜KSG",
+      "onboard_time": 1754493745,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158395,
       "num": 158395,
       "word": "换装的王楚钦",
@@ -10513,6 +10561,14 @@
       "onboard_time": 1754101041,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158038,
+      "num": 158038,
+      "word": "女子虐猫致4死2伤是否违法",
+      "onboard_time": 1754492424,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157834,
@@ -10617,6 +10673,14 @@
       "onboard_time": 1754047282,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 156311,
+      "num": 156311,
+      "word": "莫迪将访华",
+      "onboard_time": 1754492545,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156173,
@@ -10816,6 +10880,14 @@
       "word": "张远连录三季披荆斩棘",
       "onboard_time": 1754463142,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154014,
+      "num": 154014,
+      "word": "卢远王乐晨好嗑",
+      "onboard_time": 1754493984,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -11539,20 +11611,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 146607,
-      "num": 146607,
-      "word": "崔秀彬 刀马刀马",
-      "onboard_time": 1754490985,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 146594,
       "num": 156245,
       "word": "印乐大师接掌后的少林寺",
       "onboard_time": 1754193686,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146416,
+      "num": 146416,
+      "word": "章若楠假刘海",
+      "onboard_time": 1754491166,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 146393,
@@ -11795,14 +11867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143813,
-      "num": 143813,
-      "word": "章若楠假刘海",
-      "onboard_time": 1754491166,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143600,
       "num": 143600,
       "word": "中国阿姨在黑人女孩背后夸她身材好",
@@ -12009,6 +12073,14 @@
       "onboard_time": 1754038582,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141383,
+      "num": 205670,
+      "word": "电瓶爆燃案肇事者母亲为儿子喊冤",
+      "onboard_time": 1754492484,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141380,
@@ -12971,6 +13043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133654,
+      "num": 133654,
+      "word": "警方提示千万别下载这两个软件",
+      "onboard_time": 1754492545,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133635,
       "num": 133635,
       "word": "不要对孩子做不符合社交规则的动作",
@@ -13411,6 +13491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129436,
+      "num": 337159,
+      "word": "章家敦叫嚣对华加征600%关税",
+      "onboard_time": 1754492603,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129362,
       "num": 86871,
       "word": "滑翔伞操作员空中紧贴女游客被捕",
@@ -13705,6 +13793,14 @@
       "onboard_time": 1754095521,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127197,
+      "num": 127197,
+      "word": "甲状腺癌的致病因素",
+      "onboard_time": 1754491526,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127172,
@@ -14329,14 +14425,6 @@
       "onboard_time": 1754403503,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122530,
-      "num": 458521,
-      "word": "狗群闯入养鸡场咬死600只鸡",
-      "onboard_time": 1754491166,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122428,
@@ -15851,6 +15939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109256,
+      "num": 109256,
+      "word": "林一黑毛衣好有人夫感",
+      "onboard_time": 1754494104,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109143,
       "num": 354779,
       "word": "欧盟将暂停对美国贸易反制措施6个月",
@@ -15937,14 +16033,6 @@
       "onboard_time": 1754436079,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107682,
-      "num": 107682,
-      "word": "甲状腺癌的致病因素",
-      "onboard_time": 1754491526,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 107631,
@@ -16433,6 +16521,14 @@
       "onboard_time": 1754295444,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102028,
+      "num": 102028,
+      "word": "加沙17岁体育冠军因营养不良去世",
+      "onboard_time": 1754493445,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102015,
@@ -17643,6 +17739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85439,
+      "num": 125334,
+      "word": "广州山体滑坡现场已救出8人",
+      "onboard_time": 1754492903,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85246,
       "num": 85753,
       "word": "吴邪都没找到的路被改成景区了",
@@ -18259,6 +18363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71398,
+      "num": 163014,
+      "word": "鱼鹰空投鱼引发加拿大西部林火",
+      "onboard_time": 1754492365,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71095,
       "num": 157586,
       "word": "GAI发文感谢歌手2025",
@@ -18545,6 +18657,14 @@
       "onboard_time": 1754368344,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65084,
+      "num": 156782,
+      "word": "产检绿灯却生唇腭裂儿妈妈放弃工作",
+      "onboard_time": 1754492484,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64371,
@@ -19771,6 +19891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35299,
+      "num": 147010,
+      "word": "泰州发现1941年日版中国地图",
+      "onboard_time": 1754494164,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35278,
       "num": 300023,
       "word": "许倬云最后一次更博是11天前",
@@ -19809,6 +19937,14 @@
       "onboard_time": 1754037863,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33623,
+      "num": 146479,
+      "word": "首个立法规定男女厕位比例的省份",
+      "onboard_time": 1754494104,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33114,
