@@ -1,0 +1,410 @@
+{
+  "runTime": 1754486159028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256618,
+        "num": 1256618,
+        "word": "锦月如歌",
+        "onboard_time": 1754472084,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862486,
+        "num": 862486,
+        "word": "美团 霸王茶姬",
+        "onboard_time": 1754470703,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 5086,
+        "num": 689859,
+        "word": "我们都替他看到了可爱的中国",
+        "onboard_time": 1754447960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 992796,
+        "num": 672857,
+        "word": "南京照相馆炸出多少洗地党",
+        "onboard_time": 1754482822,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 612316,
+        "num": 612316,
+        "word": "樊振东投资美国职业乒乓球大联盟",
+        "onboard_time": 1754484023,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676805,
+        "num": 594538,
+        "word": "南京照相馆上映日本网民跳脚",
+        "onboard_time": 1754476764,
+        "rank": 5,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 950807,
+        "num": 590182,
+        "word": "锦月如歌 魔改",
+        "onboard_time": 1754484684,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514630,
+        "num": 514630,
+        "word": "北大录取通知书被指有语句问题",
+        "onboard_time": 1754473644,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1589549,
+        "num": 510888,
+        "word": "陶白白官宣离婚",
+        "onboard_time": 1754471964,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 449394,
+        "num": 449394,
+        "word": "香港失联独居老人被发现时已成白骨",
+        "onboard_time": 1754478024,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620221,
+        "num": 433731,
+        "word": "网红刘大悦患甲状腺癌",
+        "onboard_time": 1754472024,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 562599,
+        "num": 430896,
+        "word": "赵露思爸爸为了女儿漂发",
+        "onboard_time": 1754473344,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469295,
+        "num": 425579,
+        "word": "方媛孕肚生日照",
+        "onboard_time": 1754482883,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405028,
+        "num": 405028,
+        "word": "陶白白再发文",
+        "onboard_time": 1754484264,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58919,
+        "num": 383052,
+        "word": "荣成车祸系嫌疑人操作不当致失控",
+        "onboard_time": 1754485823,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365114,
+        "num": 365114,
+        "word": "何猷君前女友晒娃",
+        "onboard_time": 1754471243,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324447,
+        "num": 324447,
+        "word": "李飞是真把妹王",
+        "onboard_time": 1754471425,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306874,
+        "num": 306874,
+        "word": "5岁女童泳道内遭成年女子拍打",
+        "onboard_time": 1754481683,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66207,
+        "num": 303753,
+        "word": "小鹏P7把情绪价值拉满了",
+        "onboard_time": 1754483603,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45606,
+        "num": 302939,
+        "word": "老人摔倒无人敢扶外卖小哥出手了",
+        "onboard_time": 1754485282,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 302858,
+        "num": 302858,
+        "word": "全新小鹏P7太高级了",
+        "onboard_time": 1754481924,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284970,
+        "num": 284970,
+        "word": "赵露思直播时特意提到大粉的名字",
+        "onboard_time": 1754484922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284491,
+        "num": 284491,
+        "word": "汪苏泷腹肌",
+        "onboard_time": 1754474245,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279535,
+        "num": 279535,
+        "word": "秋天的第一杯奶茶花束又火了",
+        "onboard_time": 1754466683,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274413,
+        "num": 274413,
+        "word": "警方通报小区发生车祸致一死四伤",
+        "onboard_time": 1754479944,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241787,
+        "num": 241787,
+        "word": "这竟然是刘骏",
+        "onboard_time": 1754485643,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217648,
+        "num": 217648,
+        "word": "明天立秋和夏天好好道个别",
+        "onboard_time": 1754476883,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202852,
+        "num": 202852,
+        "word": "女子洗头因毛巾接触皮肤索赔",
+        "onboard_time": 1754481865,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194014,
+        "num": 194014,
+        "word": "沈春阳局促的美美桑内之母",
+        "onboard_time": 1754484684,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26160,
+        "num": 190000,
+        "word": "72岁老人放羊遭黑熊袭击进ICU",
+        "onboard_time": 1754485282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188671,
+        "num": 188671,
+        "word": "二婚夫妻办假离婚结果就男方信了",
+        "onboard_time": 1754475685,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180542,
+        "num": 180542,
+        "word": "肆意生花 华策",
+        "onboard_time": 1754464943,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170934,
+        "num": 170934,
+        "word": "鞠婧祎周也什么时候认识的",
+        "onboard_time": 1754483662,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168910,
+        "num": 168910,
+        "word": "男子送车内死亡3天司机回家",
+        "onboard_time": 1754485584,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162668,
+        "num": 162668,
+        "word": "曝沈玉琳患血癌",
+        "onboard_time": 1754485943,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159783,
+        "num": 159783,
+        "word": "女将星",
+        "onboard_time": 1754485763,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141870,
+        "num": 141870,
+        "word": "张真源话只听一半的后果",
+        "onboard_time": 1754484922,
+        "rank": 36,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 137673,
+        "num": 137673,
+        "word": "战至巅峰脱口秀联盟组团对抗",
+        "onboard_time": 1754485524,
+        "rank": 37,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 12645,
+        "num": 137331,
+        "word": "内娱出圈到路人都知道的表情包",
+        "onboard_time": 1754485282,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137135,
+        "num": 137135,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135221,
+        "num": 135221,
+        "word": "锦月如歌云包场",
+        "onboard_time": 1754483723,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133827,
+        "num": 133827,
+        "word": "千山茶客",
+        "onboard_time": 1754485763,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132237,
+        "num": 132237,
+        "word": "温州7岁男孩补习班坠楼身亡",
+        "onboard_time": 1754468723,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125240,
+        "num": 125240,
+        "word": "虞书欣 街机小霸王",
+        "onboard_time": 1754481683,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122358,
+        "num": 122358,
+        "word": "没见过这么茶的男二",
+        "onboard_time": 1754485763,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262916,
+        "num": 121850,
+        "word": "赵露思直播安利竹荪",
+        "onboard_time": 1754477783,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120855,
+        "num": 120855,
+        "word": "陶白白 医者不自医",
+        "onboard_time": 1754476823,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117991,
+        "num": 117991,
+        "word": "陶白白什么星座",
+        "onboard_time": 1754477664,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114654,
+        "num": 114654,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114474,
+        "num": 114474,
+        "word": "这是哪个天才穿越到两岁小孩身上了",
+        "onboard_time": 1754486124,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
