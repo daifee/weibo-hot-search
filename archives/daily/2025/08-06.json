@@ -1,7 +1,15 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754472948396,
+  "endTime": 1754473869816,
   "band_list": [
+    {
+      "raw_hot": 4136285,
+      "num": 755236,
+      "word": "陶白白官宣离婚",
+      "onboard_time": 1754471964,
+      "rank": 3,
+      "category": "情感,网红"
+    },
     {
       "raw_hot": 3521817,
       "num": 3521817,
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1656348,
-      "num": 755236,
-      "word": "陶白白官宣离婚",
-      "onboard_time": 1754471964,
-      "rank": 3,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 1653252,
       "num": 779061,
       "word": "肆意生花 华策",
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1441421,
+      "num": 1441421,
+      "word": "美团 霸王茶姬",
+      "onboard_time": 1754470703,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1370358,
       "num": 517530,
       "word": "李明德锦月如歌换脸效果",
@@ -137,14 +145,6 @@
       "onboard_time": 1754439862,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1046890,
-      "num": 1167502,
-      "word": "美团 霸王茶姬",
-      "onboard_time": 1754470703,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1042885,
@@ -225,6 +225,14 @@
       "onboard_time": 1754444720,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 844926,
+      "num": 525894,
+      "word": "网红刘大悦患甲状腺癌",
+      "onboard_time": 1754472024,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 823713,
@@ -411,8 +419,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 509981,
-      "num": 509981,
+      "raw_hot": 522797,
+      "num": 522797,
       "word": "韩网再宣称汉服是学韩国的",
       "onboard_time": 1754470764,
       "rank": 13,
@@ -483,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 447726,
-      "num": 447726,
-      "word": "网红刘大悦患甲状腺癌",
-      "onboard_time": 1754472024,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 426704,
       "num": 253572,
       "word": "王源",
@@ -553,6 +553,14 @@
       "onboard_time": 1754448022,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396385,
+      "num": 396385,
+      "word": "赵露思爸爸为了女儿漂发",
+      "onboard_time": 1754473344,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 386332,
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289038,
+      "num": 289038,
+      "word": "蒋奇明张艺凡吻张力拉满",
+      "onboard_time": 1754471844,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 284428,
       "num": 284428,
       "word": "玩家联名向恋与深空发律师函",
@@ -835,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257025,
+      "num": 679809,
+      "word": "整治形式主义为基层减负若干规定印发",
+      "onboard_time": 1754471724,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 252717,
       "num": 199725,
       "word": "赵露思说之前不敢闹因为拍戏要口碑",
@@ -849,14 +873,6 @@
       "onboard_time": 1754440403,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250526,
-      "num": 250526,
-      "word": "蒋奇明张艺凡吻张力拉满",
-      "onboard_time": 1754471844,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 248450,
@@ -937,14 +953,6 @@
       "onboard_time": 1754453003,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224998,
-      "num": 679809,
-      "word": "整治形式主义为基层减负若干规定印发",
-      "onboard_time": 1754471724,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 221741,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1754411602,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186025,
+      "num": 186025,
+      "word": "苏新皓苏醒没头脑和不高兴",
+      "onboard_time": 1754472683,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 185667,
@@ -1467,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149773,
-      "num": 149773,
-      "word": "苏新皓苏醒没头脑和不高兴",
-      "onboard_time": 1754472683,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149318,
       "num": 149318,
       "word": "黄誉博瞒着工作室发了新专辑造型",
@@ -1523,8 +1531,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141148,
+      "num": 141148,
+      "word": "北大录取通知书被指有语句问题",
+      "onboard_time": 1754473644,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140851,
-      "num": 140851,
+      "num": 186046,
       "word": "韩国歌手李敏去世",
       "onboard_time": 1754467643,
       "rank": 36,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1754458525,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133459,
+      "num": 133459,
+      "word": "许嵩解释不继续巡演的原因",
+      "onboard_time": 1754473224,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 133416,
@@ -1697,6 +1721,22 @@
       "onboard_time": 1754465183,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126256,
+      "num": 126256,
+      "word": "郑钧为了陈楚生这周可忙坏了",
+      "onboard_time": 1754473765,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126178,
+      "num": 126178,
+      "word": "25岁的我准备给45岁的爸妈交社保了",
+      "onboard_time": 1754470463,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 125791,
@@ -2395,12 +2435,28 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 45173,
+      "num": 414014,
+      "word": "交大专家大赞MG4打破特斯拉专利",
+      "onboard_time": 1754472263,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43679,
       "num": 188838,
       "word": "加沙17岁少年离世时仅25公斤",
       "onboard_time": 1754454083,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42310,
+      "num": 328694,
+      "word": "国家工作组赴广东查看暴雨洪涝灾情",
+      "onboard_time": 1754472743,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39969,
@@ -2417,14 +2473,6 @@
       "onboard_time": 1754462842,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38588,
-      "num": 414014,
-      "word": "交大专家大赞MG4打破特斯拉专利",
-      "onboard_time": 1754472263,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 36733,
@@ -2505,14 +2553,6 @@
       "onboard_time": 1754419335,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23986,
-      "num": 265151,
-      "word": "国家工作组赴广东查看暴雨洪涝灾情",
-      "onboard_time": 1754472743,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23973,

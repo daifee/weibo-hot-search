@@ -1,0 +1,410 @@
+{
+  "runTime": 1754473869816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1441421,
+        "num": 1441421,
+        "word": "美团 霸王茶姬",
+        "onboard_time": 1754470703,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 736756,
+        "num": 736756,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19542,
+        "num": 563400,
+        "word": "我们都替他看到了可爱的中国",
+        "onboard_time": 1754447960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4136285,
+        "num": 554883,
+        "word": "陶白白官宣离婚",
+        "onboard_time": 1754471964,
+        "rank": 3,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 534898,
+        "num": 534898,
+        "word": "微信内存一下子就少了10G",
+        "onboard_time": 1754463741,
+        "rank": 4,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 526736,
+        "num": 526736,
+        "word": "温州7岁男孩补习班坠楼身亡",
+        "onboard_time": 1754468723,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923414,
+        "num": 526355,
+        "word": "银河酷娱替赵露思推掉红九的小说",
+        "onboard_time": 1754465902,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844926,
+        "num": 525894,
+        "word": "网红刘大悦患甲状腺癌",
+        "onboard_time": 1754472024,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 671835,
+        "num": 524832,
+        "word": "肆意生花 华策",
+        "onboard_time": 1754464943,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257025,
+        "num": 524425,
+        "word": "整治形式主义为基层减负若干规定印发",
+        "onboard_time": 1754471724,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1459084,
+        "num": 523749,
+        "word": "何猷君前女友晒娃",
+        "onboard_time": 1754471243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533563,
+        "num": 523028,
+        "word": "肆意生花版权",
+        "onboard_time": 1754469983,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 522797,
+        "num": 522797,
+        "word": "韩网再宣称汉服是学韩国的",
+        "onboard_time": 1754470764,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 509573,
+        "num": 509573,
+        "word": "22厘米子宫肌瘤钻进40岁女子心脏",
+        "onboard_time": 1754469023,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396385,
+        "num": 396385,
+        "word": "赵露思爸爸为了女儿漂发",
+        "onboard_time": 1754473344,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335874,
+        "num": 335874,
+        "word": "李明德锦月如歌换脸效果",
+        "onboard_time": 1754460442,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329916,
+        "num": 329916,
+        "word": "杨幂1986年魔童降世",
+        "onboard_time": 1754465603,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45173,
+        "num": 329005,
+        "word": "交大专家大赞MG4打破特斯拉专利",
+        "onboard_time": 1754472263,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 63530,
+        "num": 328719,
+        "word": "拼多多有百亿补贴还有千亿扶持",
+        "onboard_time": 1754471182,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42310,
+        "num": 328694,
+        "word": "国家工作组赴广东查看暴雨洪涝灾情",
+        "onboard_time": 1754472743,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328690,
+        "num": 328690,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315599,
+        "num": 315599,
+        "word": "多地公文恶性抄袭",
+        "onboard_time": 1754467283,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314518,
+        "num": 314518,
+        "word": "美女子外出庆生儿子被家中狗咬身亡",
+        "onboard_time": 1754469143,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300002,
+        "num": 300002,
+        "word": "献鱼 没惹任何人",
+        "onboard_time": 1754469502,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289038,
+        "num": 289038,
+        "word": "蒋奇明张艺凡吻张力拉满",
+        "onboard_time": 1754471844,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256194,
+        "num": 256194,
+        "word": "樊振东回应张继科分享好苗子",
+        "onboard_time": 1754464162,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240894,
+        "num": 240894,
+        "word": "赵露思直播回应代言瓜",
+        "onboard_time": 1754472143,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233233,
+        "num": 233233,
+        "word": "韩国人感谢中国网红提高食堂质量",
+        "onboard_time": 1754471425,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186096,
+        "num": 186096,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107292,
+        "num": 186046,
+        "word": "韩国歌手李敏去世",
+        "onboard_time": 1754467643,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186025,
+        "num": 186025,
+        "word": "苏新皓苏醒没头脑和不高兴",
+        "onboard_time": 1754472683,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184173,
+        "num": 184173,
+        "word": "最希望取消的社交礼仪",
+        "onboard_time": 1754471064,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173387,
+        "num": 173387,
+        "word": "坠楼7岁男孩母亲哭诉42岁才生的他",
+        "onboard_time": 1754471425,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172292,
+        "num": 172292,
+        "word": "花698在迪士尼买了一个盲袋",
+        "onboard_time": 1754468004,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148022,
+        "num": 148022,
+        "word": "瑞鹤娱乐秒删",
+        "onboard_time": 1754457082,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145559,
+        "num": 145559,
+        "word": "张若昀父亲被恢复执行3.5亿",
+        "onboard_time": 1754468303,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141813,
+        "num": 141813,
+        "word": "老人携带不明液体上公交遭拒",
+        "onboard_time": 1754459183,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141148,
+        "num": 141148,
+        "word": "北大录取通知书被指有语句问题",
+        "onboard_time": 1754473644,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138188,
+        "num": 138188,
+        "word": "警方通报女子制止男子抽烟反被掌掴",
+        "onboard_time": 1754468182,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137773,
+        "num": 137773,
+        "word": "比生娃还痛的蛇缠腰",
+        "onboard_time": 1754469923,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133459,
+        "num": 133459,
+        "word": "许嵩解释不继续巡演的原因",
+        "onboard_time": 1754473224,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131427,
+        "num": 131427,
+        "word": "王楚然这个腰臀比太绝了吧",
+        "onboard_time": 1754463923,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131366,
+        "num": 131366,
+        "word": "奶粉偷偷涨了39元",
+        "onboard_time": 1754465482,
+        "rank": 42,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 126256,
+        "num": 126256,
+        "word": "郑钧为了陈楚生这周可忙坏了",
+        "onboard_time": 1754473765,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126178,
+        "num": 126178,
+        "word": "25岁的我准备给45岁的爸妈交社保了",
+        "onboard_time": 1754470463,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121683,
+        "num": 121683,
+        "word": "张芷溪原本找赵露思演献鱼",
+        "onboard_time": 1754458103,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120445,
+        "num": 120445,
+        "word": "歌王之战帮唱嘉宾官宣",
+        "onboard_time": 1754454745,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116611,
+        "num": 116611,
+        "word": "台积电2nm工艺突然泄密",
+        "onboard_time": 1754458703,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 115672,
+        "num": 115672,
+        "word": "秋天的第一杯奶茶花束又火了",
+        "onboard_time": 1754466683,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114387,
+        "num": 114387,
+        "word": "李飞是真把妹王",
+        "onboard_time": 1754471425,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
