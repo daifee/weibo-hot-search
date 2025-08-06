@@ -1,0 +1,410 @@
+{
+  "runTime": 1754456700259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2911323,
+        "num": 2911323,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1590109,
+        "num": 1590109,
+        "word": "亮证女侯某某被行政拘留",
+        "onboard_time": 1754454205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42538,
+        "num": 1559720,
+        "word": "中国舰载机在持续上新",
+        "onboard_time": 1754445140,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1536887,
+        "num": 1536887,
+        "word": "歌王之战帮唱嘉宾官宣",
+        "onboard_time": 1754454745,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611408,
+        "num": 611408,
+        "word": "金价",
+        "onboard_time": 1754453964,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 512326,
+        "num": 609480,
+        "word": "韩国对中国团队游客临时免签",
+        "onboard_time": 1754455824,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1344519,
+        "num": 606681,
+        "word": "半个内娱真夫妻都来这节目了",
+        "onboard_time": 1754450423,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 947329,
+        "num": 601510,
+        "word": "女子去猫咖包房虐猫致4只猫死伤",
+        "onboard_time": 1754451501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680100,
+        "num": 599828,
+        "word": "张译获得国家一级演员职称",
+        "onboard_time": 1754451142,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384256,
+        "num": 593533,
+        "word": "第一次直观感受到基因的不公平",
+        "onboard_time": 1754452222,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1005669,
+        "num": 591524,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623274,
+        "num": 585849,
+        "word": "王俊凯王源易烊千玺卡点",
+        "onboard_time": 1754437881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584579,
+        "num": 584579,
+        "word": "月入3千与月入10万的变化",
+        "onboard_time": 1754454805,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571996,
+        "num": 571996,
+        "word": "Angelababy独自带小海绵回香港",
+        "onboard_time": 1754453362,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496427,
+        "num": 496427,
+        "word": "任素汐 歌手",
+        "onboard_time": 1754455404,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456707,
+        "num": 456707,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368544,
+        "num": 368544,
+        "word": "浙大青年博导坠楼真相是什么",
+        "onboard_time": 1754444720,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284428,
+        "num": 284428,
+        "word": "玩家联名向恋与深空发律师函",
+        "onboard_time": 1754454864,
+        "rank": 17,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 277731,
+        "num": 277731,
+        "word": "同个妈生的颜值差异能有多大",
+        "onboard_time": 1754452463,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275162,
+        "num": 275162,
+        "word": "iPhone17系列仅标准版没涨价",
+        "onboard_time": 1754453903,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 405754,
+        "num": 275120,
+        "word": "男子向飞机上女友求婚答应后飞机坠毁",
+        "onboard_time": 1754452404,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99815,
+        "num": 275058,
+        "word": "小鹏P7时尚出片神器",
+        "onboard_time": 1754451562,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 382522,
+        "num": 274954,
+        "word": "披荆斩棘5定档",
+        "onboard_time": 1754443041,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354206,
+        "num": 274919,
+        "word": "时代峰峻演唱会文案 抄袭",
+        "onboard_time": 1754448381,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278197,
+        "num": 274842,
+        "word": "陈奕迅因压力过大患上焦虑症",
+        "onboard_time": 1754454684,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274803,
+        "num": 274803,
+        "word": "明天就立秋了",
+        "onboard_time": 1754440943,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245214,
+        "num": 245214,
+        "word": "何九华 尚九熙",
+        "onboard_time": 1754439562,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240775,
+        "num": 240775,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1754449883,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229253,
+        "num": 229253,
+        "word": "王楚钦杂志",
+        "onboard_time": 1754449941,
+        "rank": 28,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 219304,
+        "num": 219304,
+        "word": "王力宏帮唱单依纯",
+        "onboard_time": 1754455704,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429273,
+        "num": 214210,
+        "word": "喜茶 Chiikawa",
+        "onboard_time": 1754444361,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 205382,
+        "num": 205382,
+        "word": "EDG官宣S1Mon离队",
+        "onboard_time": 1754455945,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204909,
+        "num": 204909,
+        "word": "大学生一定要对工资有概念",
+        "onboard_time": 1754455105,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191360,
+        "num": 191360,
+        "word": "建议下班回家立刻洗澡",
+        "onboard_time": 1754456363,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171959,
+        "num": 171959,
+        "word": "特朗普称税率将升至250%",
+        "onboard_time": 1754454083,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170858,
+        "num": 170858,
+        "word": "加沙正逐渐被抹去",
+        "onboard_time": 1754455044,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169587,
+        "num": 169587,
+        "word": "哈妮克孜问孙乐言嗑自己吗",
+        "onboard_time": 1754456544,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30072,
+        "num": 168658,
+        "word": "赴美或交1.5万美元保证金",
+        "onboard_time": 1754456663,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52813,
+        "num": 168227,
+        "word": "七旬老人携野生植物独自赴京求鉴定",
+        "onboard_time": 1754456483,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168016,
+        "num": 168016,
+        "word": "782万彩票大奖1天后作废",
+        "onboard_time": 1754439862,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75420,
+        "num": 166053,
+        "word": "MG4电池6面穿刺和10针穿刺",
+        "onboard_time": 1754451562,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164530,
+        "num": 164530,
+        "word": "洪真京离婚",
+        "onboard_time": 1754453484,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164380,
+        "num": 164380,
+        "word": "许珑瀚见到张予曦真被美晕了",
+        "onboard_time": 1754455283,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144143,
+        "num": 163672,
+        "word": "iPhone还值得买吗",
+        "onboard_time": 1754454323,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163410,
+        "num": 163410,
+        "word": "女子推理社 加人",
+        "onboard_time": 1754448022,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161477,
+        "num": 161477,
+        "word": "黄多多下厨vlog",
+        "onboard_time": 1754450180,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158581,
+        "num": 158581,
+        "word": "猫你以为免费让你摸的",
+        "onboard_time": 1754454205,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153380,
+        "num": 153380,
+        "word": "叠纸称PV皆为研发录制",
+        "onboard_time": 1754456604,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152630,
+        "num": 152630,
+        "word": "羊水栓塞可怕在哪里",
+        "onboard_time": 1754456424,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150865,
+        "num": 150865,
+        "word": "刘宇宁工作室用的尼康吗",
+        "onboard_time": 1754449341,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754454616770,
+  "endTime": 1754456700259,
   "band_list": [
+    {
+      "raw_hot": 2911323,
+      "num": 2911323,
+      "word": "再见爱人5 孙怡董子健",
+      "onboard_time": 1754453542,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2471479,
       "num": 2471479,
@@ -19,11 +27,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 2144234,
-      "num": 2144234,
-      "word": "再见爱人5 孙怡董子健",
-      "onboard_time": 1754453542,
-      "rank": 0,
+      "raw_hot": 1590109,
+      "num": 1590109,
+      "word": "亮证女侯某某被行政拘留",
+      "onboard_time": 1754454205,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1536887,
+      "num": 1536887,
+      "word": "歌王之战帮唱嘉宾官宣",
+      "onboard_time": 1754454745,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1005669,
+      "num": 591524,
+      "word": "陈都灵 楚雨荨风",
+      "onboard_time": 1754454864,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 879158,
       "num": 879158,
       "word": "笔试17分进复审教师招聘何以服众",
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 770014,
-      "num": 514189,
+      "num": 599828,
       "word": "张译获得国家一级演员职称",
       "onboard_time": 1754451142,
       "rank": 11,
@@ -139,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611408,
+      "num": 611408,
+      "word": "金价",
+      "onboard_time": 1754453964,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 606056,
       "num": 606056,
       "word": "东莞暴雨眼镜蛇爬上2米高窗户逃生",
@@ -153,6 +185,22 @@
       "onboard_time": 1754402064,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 584579,
+      "num": 584579,
+      "word": "月入3千与月入10万的变化",
+      "onboard_time": 1754454805,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 571996,
+      "num": 571996,
+      "word": "Angelababy独自带小海绵回香港",
+      "onboard_time": 1754453362,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 556226,
@@ -179,20 +227,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 506362,
-      "num": 506362,
-      "word": "亮证女侯某某被行政拘留",
-      "onboard_time": 1754454205,
-      "rank": 8,
+      "raw_hot": 512326,
+      "num": 609480,
+      "word": "韩国对中国团队游客临时免签",
+      "onboard_time": 1754455824,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
       "raw_hot": 502903,
-      "num": 502903,
+      "num": 593533,
       "word": "第一次直观感受到基因的不公平",
       "onboard_time": 1754452222,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 496427,
+      "num": 496427,
+      "word": "任素汐 歌手",
+      "onboard_time": 1754455404,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 489312,
@@ -209,6 +265,14 @@
       "onboard_time": 1754411780,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456707,
+      "num": 456707,
+      "word": "TFBOYS保密协议到期",
+      "onboard_time": 1754455704,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 449604,
@@ -371,12 +435,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289836,
-      "num": 289836,
-      "word": "Angelababy独自带小海绵回香港",
-      "onboard_time": 1754453362,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 284428,
+      "num": 284428,
+      "word": "玩家联名向恋与深空发律师函",
+      "onboard_time": 1754454864,
+      "rank": 17,
+      "category": "游戏,民生新闻"
+    },
+    {
+      "raw_hot": 278197,
+      "num": 274842,
+      "word": "陈奕迅因压力过大患上焦虑症",
+      "onboard_time": 1754454684,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 275162,
+      "num": 275162,
+      "word": "iPhone17系列仅标准版没涨价",
+      "onboard_time": 1754453903,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 273321,
@@ -515,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219699,
-      "num": 219699,
-      "word": "金价",
-      "onboard_time": 1754453964,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 219304,
+      "num": 219304,
+      "word": "王力宏帮唱单依纯",
+      "onboard_time": 1754455704,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 218446,
@@ -561,6 +641,22 @@
       "onboard_time": 1754405366,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205382,
+      "num": 205382,
+      "word": "EDG官宣S1Mon离队",
+      "onboard_time": 1754455945,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 204909,
+      "num": 204909,
+      "word": "大学生一定要对工资有概念",
+      "onboard_time": 1754455105,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 202606,
@@ -611,12 +707,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190295,
-      "num": 190295,
-      "word": "iPhone17系列仅标准版没涨价",
-      "onboard_time": 1754453903,
-      "rank": 37,
-      "category": "数码"
+      "raw_hot": 191360,
+      "num": 191360,
+      "word": "建议下班回家立刻洗澡",
+      "onboard_time": 1754456363,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 189007,
@@ -707,12 +803,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170858,
+      "num": 170858,
+      "word": "加沙正逐渐被抹去",
+      "onboard_time": 1754455044,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170175,
       "num": 170175,
       "word": "研究生卖烧饼走红否认学历浪费",
       "onboard_time": 1754412621,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169587,
+      "num": 169587,
+      "word": "哈妮克孜问孙乐言嗑自己吗",
+      "onboard_time": 1754456544,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164380,
+      "num": 164380,
+      "word": "许珑瀚见到张予曦真被美晕了",
+      "onboard_time": 1754455283,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 162645,
@@ -731,6 +851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153380,
+      "num": 153380,
+      "word": "叠纸称PV皆为研发录制",
+      "onboard_time": 1754456604,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 152630,
+      "num": 152630,
+      "word": "羊水栓塞可怕在哪里",
+      "onboard_time": 1754456424,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151612,
       "num": 151612,
       "word": "FRED斐登 鞠婧祎",
@@ -740,7 +876,7 @@
     },
     {
       "raw_hot": 151054,
-      "num": 233418,
+      "num": 275058,
       "word": "小鹏P7时尚出片神器",
       "onboard_time": 1754451562,
       "rank": 25,
@@ -1076,7 +1212,7 @@
     },
     {
       "raw_hot": 87484,
-      "num": 898680,
+      "num": 1559720,
       "word": "中国舰载机在持续上新",
       "onboard_time": 1754445140,
       "rank": 47,
@@ -1355,6 +1491,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 52813,
+      "num": 168227,
+      "word": "七旬老人携野生植物独自赴京求鉴定",
+      "onboard_time": 1754456483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48005,
       "num": 48005,
       "word": "这个姿势是猫界二郎腿",
@@ -1409,6 +1553,14 @@
       "onboard_time": 1754447421,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30072,
+      "num": 168658,
+      "word": "赴美或交1.5万美元保证金",
+      "onboard_time": 1754456663,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29020,
