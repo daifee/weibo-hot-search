@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754479558499,
+  "endTime": 1754480528989,
   "band_list": [
     {
       "raw_hot": 7910146,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561941,
+      "num": 561941,
+      "word": "香港失联独居老人被发现时已成白骨",
+      "onboard_time": 1754478024,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556226,
       "num": 518244,
       "word": "时代峰峻演唱会文案 抄袭",
@@ -515,20 +523,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445237,
+      "num": 445237,
+      "word": "南京照相馆上映日本网民跳脚",
+      "onboard_time": 1754476764,
+      "rank": 30,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 426704,
       "num": 253572,
       "word": "王源",
       "onboard_time": 1754412140,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420116,
-      "num": 420116,
-      "word": "香港失联独居老人被发现时已成白骨",
-      "onboard_time": 1754478024,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 415524,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362294,
+      "num": 312102,
+      "word": "二婚夫妻办假离婚结果就男方信了",
+      "onboard_time": 1754475685,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353653,
       "num": 353653,
       "word": "陶白白 医者不自医",
@@ -641,14 +657,6 @@
       "onboard_time": 1754405065,
       "rank": 5,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 352005,
-      "num": 352005,
-      "word": "南京照相馆上映日本网民跳脚",
-      "onboard_time": 1754476764,
-      "rank": 30,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 337788,
@@ -712,14 +720,6 @@
       "word": "女子拒付搬运工坐地起价被堵锁眼",
       "onboard_time": 1754442682,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312102,
-      "num": 312102,
-      "word": "二婚夫妻办假离婚结果就男方信了",
-      "onboard_time": 1754475685,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -899,6 +899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 259035,
+      "num": 259035,
+      "word": "陶白白和前妻各自已有新的感情",
+      "onboard_time": 1754476104,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 258921,
       "num": 258921,
       "word": "猫你以为免费让你摸的",
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241362,
+      "num": 297776,
+      "word": "赵露思直播安利竹荪",
+      "onboard_time": 1754477783,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239637,
       "num": 239637,
       "word": "成都世运会开幕式中国队旗手",
@@ -985,14 +1001,6 @@
       "onboard_time": 1754475744,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231928,
-      "num": 290295,
-      "word": "赵露思直播安利竹荪",
-      "onboard_time": 1754477783,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 230566,
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 206215,
-      "num": 206215,
+      "num": 230555,
       "word": "锦月如歌",
       "onboard_time": 1754440342,
       "rank": 39,
@@ -1257,14 +1265,6 @@
       "onboard_time": 1754456363,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189471,
-      "num": 189471,
-      "word": "陶白白和前妻各自已有新的感情",
-      "onboard_time": 1754476104,
-      "rank": 32,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 189007,
@@ -1523,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154806,
+      "num": 338379,
+      "word": "秦如培被判死缓",
+      "onboard_time": 1754478145,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154787,
       "num": 154787,
       "word": "许光汉今天退伍",
@@ -1651,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142575,
+      "num": 229299,
+      "word": "刘宇宁7月微博演员热度TOP1",
+      "onboard_time": 1754480063,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142423,
       "num": 130692,
       "word": "陈奕恒告黑",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1754452822,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140441,
+      "num": 140441,
+      "word": "许光汉说我已经一年没有工作了",
+      "onboard_time": 1754479282,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 140250,
@@ -1745,6 +1769,14 @@
       "onboard_time": 1754477243,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135308,
+      "num": 135308,
+      "word": "原来这才是正确的洗头方法",
+      "onboard_time": 1754480182,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 134999,
@@ -1907,12 +1939,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124709,
+      "num": 351266,
+      "word": "多所学校回应毁约新聘教师",
+      "onboard_time": 1754478804,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124396,
       "num": 124396,
       "word": "男子卖4根金条6张银行卡被封",
       "onboard_time": 1754391983,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123734,
+      "num": 123734,
+      "word": "李晨也没从扫毒风暴走出来",
+      "onboard_time": 1754480241,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 123524,
@@ -2003,6 +2051,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118667,
+      "num": 118667,
+      "word": "舅舅说哭满水壶就可以不写作业了",
+      "onboard_time": 1754479882,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117364,
       "num": 117364,
       "word": "登陆少年披荆斩棘MV镜头",
@@ -2033,6 +2089,22 @@
       "onboard_time": 1754454923,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114971,
+      "num": 290062,
+      "word": "82岁老人跳河勇救98岁老人",
+      "onboard_time": 1754478145,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 114812,
+      "num": 114812,
+      "word": "香港独居老人死亡一年半才被发现",
+      "onboard_time": 1754480362,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113868,
@@ -2088,6 +2160,14 @@
       "word": "重庆下暴雨了但没下在中心城区",
       "onboard_time": 1754443161,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110834,
+      "num": 110834,
+      "word": "成都暴雨",
+      "onboard_time": 1754479583,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2259,14 +2339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91277,
-      "num": 131872,
-      "word": "许光汉说我已经一年没有工作了",
-      "onboard_time": 1754479282,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "再见爱人1真是封神",
@@ -2361,14 +2433,6 @@
       "onboard_time": 1754410044,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79474,
-      "num": 351266,
-      "word": "多所学校回应毁约新聘教师",
-      "onboard_time": 1754478804,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79439,
@@ -2489,14 +2553,6 @@
       "onboard_time": 1754474905,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69756,
-      "num": 290062,
-      "word": "82岁老人跳河勇救98岁老人",
-      "onboard_time": 1754478145,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 69706,
@@ -2636,7 +2692,7 @@
     },
     {
       "raw_hot": 50159,
-      "num": 290123,
+      "num": 297692,
       "word": "MG4电耗实测仅8.3太恐怖",
       "onboard_time": 1754476584,
       "rank": 18,
@@ -2832,6 +2888,22 @@
       "word": "沈阳动物园 饲养员边抽烟边投喂",
       "onboard_time": 1754464883,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16713,
+      "num": 297527,
+      "word": "警方通报小区发生车祸致一死四伤",
+      "onboard_time": 1754479944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12899,
+      "num": 187812,
+      "word": "男子吐槽网购2斤鸡肉干1斤都是罐",
+      "onboard_time": 1754479944,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
