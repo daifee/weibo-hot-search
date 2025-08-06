@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754463570772,
+  "endTime": 1754465632913,
   "band_list": [
     {
       "raw_hot": 3521817,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1370358,
-      "num": 309883,
+      "num": 321097,
       "word": "李明德锦月如歌换脸效果",
       "onboard_time": 1754460442,
       "rank": 6,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 970396,
+      "num": 303810,
+      "word": "樊振东回应张继科分享好苗子",
+      "onboard_time": 1754464162,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 879158,
       "num": 879158,
       "word": "笔试17分进复审教师招聘何以服众",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 875304,
-      "num": 209528,
+      "num": 294115,
       "word": "献鱼",
       "onboard_time": 1754459902,
       "rank": 10,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 765562,
+      "num": 765562,
+      "word": "微信内存一下子就少了10G",
+      "onboard_time": 1754463741,
+      "rank": 1,
+      "category": "互联网,互联网"
+    },
+    {
       "raw_hot": 740753,
       "num": 406730,
       "word": "张芷溪原本找赵露思演献鱼",
@@ -225,6 +241,14 @@
       "onboard_time": 1754405663,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 701820,
+      "num": 318349,
+      "word": "肆意生花 华策",
+      "onboard_time": 1754464943,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 609067,
@@ -297,6 +321,14 @@
       "onboard_time": 1754401283,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507166,
+      "num": 280442,
+      "word": "国产剧终于出现有效女扮男装了",
+      "onboard_time": 1754461883,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 502903,
@@ -395,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389669,
-      "num": 197195,
-      "word": "国产剧终于出现有效女扮男装了",
-      "onboard_time": 1754461883,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386332,
       "num": 386332,
       "word": "时代峰峻回应文案抄袭",
@@ -449,6 +473,14 @@
       "onboard_time": 1754405065,
       "rank": 5,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 344294,
+      "num": 171490,
+      "word": "赵磊qko 夫妻综艺",
+      "onboard_time": 1754463806,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 334926,
@@ -513,6 +545,22 @@
       "onboard_time": 1754449821,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310343,
+      "num": 310343,
+      "word": "汪顺死嘴憋住啊",
+      "onboard_time": 1754460204,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 301173,
+      "num": 301173,
+      "word": "日本一周18人死于高温",
+      "onboard_time": 1754460681,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 299717,
@@ -587,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260957,
-      "num": 260957,
-      "word": "汪顺死嘴憋住啊",
-      "onboard_time": 1754460204,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 262269,
+      "num": 164755,
+      "word": "王楚然这个腰臀比太绝了吧",
+      "onboard_time": 1754463923,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 259594,
@@ -795,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204740,
-      "num": 204740,
-      "word": "日本一周18人死于高温",
-      "onboard_time": 1754460681,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 202606,
       "num": 198936,
       "word": "3岁宝宝确认先天体操圣体",
@@ -907,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179365,
+      "num": 163839,
+      "word": "易烊千玺泥塑创作花絮",
+      "onboard_time": 1754464584,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179187,
       "num": 179187,
       "word": "卢昱晓 妈妈降临",
@@ -923,6 +971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178793,
+      "num": 178793,
+      "word": "奶粉偷偷涨了39元",
+      "onboard_time": 1754465482,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177214,
       "num": 182388,
       "word": "丞磊首部男主戏开播",
@@ -937,6 +993,14 @@
       "onboard_time": 1754456784,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175165,
+      "num": 304741,
+      "word": "加沙少年离世时仅25公斤曾是体育冠军",
+      "onboard_time": 1754463203,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 172186,
@@ -995,12 +1059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165594,
+      "num": 165594,
+      "word": "朋友圈点赞是一种很微妙的社交",
+      "onboard_time": 1754464044,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164380,
       "num": 164380,
       "word": "许珑瀚见到张予曦真被美晕了",
       "onboard_time": 1754455283,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163827,
+      "num": 163827,
+      "word": "当狗狗发现戴的金锁被磁铁吸住时",
+      "onboard_time": 1754465122,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 162645,
@@ -1049,6 +1129,14 @@
       "onboard_time": 1754456424,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152351,
+      "num": 152351,
+      "word": "女儿遭哥哥杀害男子称不会原谅",
+      "onboard_time": 1754464044,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151612,
@@ -1139,6 +1227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139849,
+      "num": 139849,
+      "word": "许光汉今天退伍",
+      "onboard_time": 1754465063,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139148,
       "num": 139148,
       "word": "李斯丹妮穿百褶短裙了",
@@ -1171,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134999,
+      "num": 134999,
+      "word": "刘宇宁不语只一味的咩",
+      "onboard_time": 1754464822,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134304,
       "num": 134304,
       "word": "董璇带小酒窝参加东极岛首映礼",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1754410942,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132683,
+      "num": 137448,
+      "word": "青苹果王曼昱",
+      "onboard_time": 1754465183,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 132368,
@@ -1251,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126648,
+      "num": 126648,
+      "word": "苏醒目前尚未感受到什么荆棘",
+      "onboard_time": 1754465183,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125791,
       "num": 125791,
       "word": "毕业半年换11份工作的真实感受",
@@ -1267,12 +1387,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123524,
+      "num": 123524,
+      "word": "日本遭袭后第一反应是封锁消息",
+      "onboard_time": 1754465423,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123352,
       "num": 123352,
       "word": "5岁小孩哥算数全程游离结果全对",
       "onboard_time": 1754443341,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122729,
+      "num": 122729,
+      "word": "薛小婉和任权恋爱初期不卸妆",
+      "onboard_time": 1754463806,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 121091,
+      "num": 121091,
+      "word": "嘴碎的谢娜有一个嘴硬的老爸",
+      "onboard_time": 1754464943,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 120826,
@@ -1305,6 +1449,14 @@
       "onboard_time": 1754462363,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 117462,
+      "num": 117462,
+      "word": "杨幂1986年魔童降世",
+      "onboard_time": 1754465603,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 117364,
@@ -1451,14 +1603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101813,
-      "num": 101813,
-      "word": "加沙少年离世时仅25公斤曾是体育冠军",
-      "onboard_time": 1754463203,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 100736,
       "num": 100736,
       "word": "三小只顶峰相见",
@@ -1497,6 +1641,14 @@
       "onboard_time": 1754462481,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93637,
+      "num": 137829,
+      "word": "佛山趁防疫清理被霸占公共空间",
+      "onboard_time": 1754464822,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92479,
@@ -1835,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47319,
+      "num": 138463,
+      "word": "分众碰一下红包扩内需",
+      "onboard_time": 1754463741,
+      "rank": 39,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 43679,
       "num": 188838,
       "word": "加沙17岁少年离世时仅25公斤",
@@ -1961,6 +2121,14 @@
       "onboard_time": 1754420715,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21568,
+      "num": 139952,
+      "word": "沈阳动物园 饲养员边抽烟边投喂",
+      "onboard_time": 1754464883,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11201,

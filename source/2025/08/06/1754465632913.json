@@ -1,0 +1,410 @@
+{
+  "runTime": 1754465632913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1407077,
+        "num": 1407077,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765562,
+        "num": 765562,
+        "word": "微信内存一下子就少了10G",
+        "onboard_time": 1754463741,
+        "rank": 1,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 24434,
+        "num": 542714,
+        "word": "中国舰载机在持续上新",
+        "onboard_time": 1754445140,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 503717,
+        "num": 503717,
+        "word": "台积电2nm工艺突然泄密",
+        "onboard_time": 1754458703,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330022,
+        "num": 330022,
+        "word": "iPhone17系列仅标准版没涨价",
+        "onboard_time": 1754453903,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1712963,
+        "num": 325053,
+        "word": "张芷溪喊话银河酷娱履约",
+        "onboard_time": 1754457143,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 922148,
+        "num": 321097,
+        "word": "李明德锦月如歌换脸效果",
+        "onboard_time": 1754460442,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701820,
+        "num": 318349,
+        "word": "肆意生花 华策",
+        "onboard_time": 1754464943,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310343,
+        "num": 310343,
+        "word": "汪顺死嘴憋住啊",
+        "onboard_time": 1754460204,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175165,
+        "num": 304741,
+        "word": "加沙少年离世时仅25公斤曾是体育冠军",
+        "onboard_time": 1754463203,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 970396,
+        "num": 303810,
+        "word": "樊振东回应张继科分享好苗子",
+        "onboard_time": 1754464162,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666039,
+        "num": 303737,
+        "word": "瑞鹤娱乐秒删",
+        "onboard_time": 1754457082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301173,
+        "num": 301173,
+        "word": "日本一周18人死于高温",
+        "onboard_time": 1754460681,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 652406,
+        "num": 294115,
+        "word": "献鱼",
+        "onboard_time": 1754459902,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 575009,
+        "num": 289467,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507166,
+        "num": 280442,
+        "word": "国产剧终于出现有效女扮男装了",
+        "onboard_time": 1754461883,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316554,
+        "num": 270314,
+        "word": "月入3千与月入10万的变化",
+        "onboard_time": 1754454805,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264009,
+        "num": 264009,
+        "word": "金价",
+        "onboard_time": 1754453964,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191138,
+        "num": 191138,
+        "word": "建议下班回家立刻洗澡",
+        "onboard_time": 1754456363,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178793,
+        "num": 178793,
+        "word": "奶粉偷偷涨了39元",
+        "onboard_time": 1754465482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477620,
+        "num": 175131,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354097,
+        "num": 172981,
+        "word": "老人携带不明液体上公交遭拒",
+        "onboard_time": 1754459183,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344294,
+        "num": 171490,
+        "word": "赵磊qko 夫妻综艺",
+        "onboard_time": 1754463806,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165594,
+        "num": 165594,
+        "word": "朋友圈点赞是一种很微妙的社交",
+        "onboard_time": 1754464044,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331796,
+        "num": 165527,
+        "word": "张芷溪原本找赵露思演献鱼",
+        "onboard_time": 1754458103,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283697,
+        "num": 165150,
+        "word": "半个内娱真夫妻都来这节目了",
+        "onboard_time": 1754450423,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270008,
+        "num": 164972,
+        "word": "歌王之战帮唱嘉宾官宣",
+        "onboard_time": 1754454745,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262269,
+        "num": 164755,
+        "word": "王楚然这个腰臀比太绝了吧",
+        "onboard_time": 1754463923,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228834,
+        "num": 164394,
+        "word": "孙怡董子健当初有多甜现在看就有多虐",
+        "onboard_time": 1754461403,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195320,
+        "num": 164220,
+        "word": "瑞鹤娱乐诚挚道歉",
+        "onboard_time": 1754461043,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179365,
+        "num": 163839,
+        "word": "易烊千玺泥塑创作花絮",
+        "onboard_time": 1754464584,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163827,
+        "num": 163827,
+        "word": "当狗狗发现戴的金锁被磁铁吸住时",
+        "onboard_time": 1754465122,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162183,
+        "num": 162183,
+        "word": "Angelababy独自带小海绵回香港",
+        "onboard_time": 1754453362,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159275,
+        "num": 159275,
+        "word": "男子向飞机上女友求婚答应后飞机坠毁",
+        "onboard_time": 1754452404,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152351,
+        "num": 152351,
+        "word": "女儿遭哥哥杀害男子称不会原谅",
+        "onboard_time": 1754464044,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142523,
+        "num": 142523,
+        "word": "时代峰峻回应文案抄袭",
+        "onboard_time": 1754457923,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140495,
+        "num": 140495,
+        "word": "明天就立秋了",
+        "onboard_time": 1754440943,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21568,
+        "num": 139952,
+        "word": "沈阳动物园 饲养员边抽烟边投喂",
+        "onboard_time": 1754464883,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139849,
+        "num": 139849,
+        "word": "许光汉今天退伍",
+        "onboard_time": 1754465063,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47319,
+        "num": 138463,
+        "word": "分众碰一下红包扩内需",
+        "onboard_time": 1754463741,
+        "rank": 39,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 93637,
+        "num": 137829,
+        "word": "佛山趁防疫清理被霸占公共空间",
+        "onboard_time": 1754464822,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 137448,
+        "word": "青苹果王曼昱",
+        "onboard_time": 1754465183,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137274,
+        "num": 137274,
+        "word": "喜茶 Chiikawa",
+        "onboard_time": 1754444361,
+        "rank": 42,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 134999,
+        "num": 134999,
+        "word": "刘宇宁不语只一味的咩",
+        "onboard_time": 1754464822,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126648,
+        "num": 126648,
+        "word": "苏醒目前尚未感受到什么荆棘",
+        "onboard_time": 1754465183,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123524,
+        "num": 123524,
+        "word": "日本遭袭后第一反应是封锁消息",
+        "onboard_time": 1754465423,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122729,
+        "num": 122729,
+        "word": "薛小婉和任权恋爱初期不卸妆",
+        "onboard_time": 1754463806,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121091,
+        "num": 121091,
+        "word": "嘴碎的谢娜有一个嘴硬的老爸",
+        "onboard_time": 1754464943,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117462,
+        "num": 117462,
+        "word": "杨幂1986年魔童降世",
+        "onboard_time": 1754465603,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113808,
+        "num": 113808,
+        "word": "任素汐 歌手",
+        "onboard_time": 1754455404,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
