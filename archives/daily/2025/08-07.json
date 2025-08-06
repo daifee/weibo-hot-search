@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754520447799,
+  "endTime": 1754522927828,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -9,6 +9,14 @@
       "onboard_time": 1754491706,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1001123,
+      "num": 1001123,
+      "word": "江苏首富24岁儿子拟任董事",
+      "onboard_time": 1754497101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 801873,
@@ -27,20 +35,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682124,
+      "num": 682124,
+      "word": "7个月女儿被哥哥杀害弟弟要求重判",
+      "onboard_time": 1754501778,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646951,
+      "num": 646951,
+      "word": "立秋",
+      "onboard_time": 1754521637,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625449,
       "num": 555625,
       "word": "赵露思让商家不要再找她了",
       "onboard_time": 1754490685,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 600779,
-      "num": 600779,
-      "word": "江苏首富24岁儿子拟任董事",
-      "onboard_time": 1754497101,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 591023,
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444493,
+      "num": 444493,
+      "word": "网红秀才疑似借壳复出",
+      "onboard_time": 1754499019,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 439688,
       "num": 344117,
       "word": "不二之臣",
@@ -99,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339725,
+      "num": 339725,
+      "word": "陶白白前妻账号永久停更",
+      "onboard_time": 1754510893,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 326363,
       "num": 326363,
       "word": "南京照相馆上映日本网民跳脚",
@@ -121,22 +153,6 @@
       "onboard_time": 1754491166,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297370,
-      "num": 297370,
-      "word": "7个月女儿被哥哥杀害弟弟要求重判",
-      "onboard_time": 1754501778,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290879,
-      "num": 290879,
-      "word": "网红秀才疑似借壳复出",
-      "onboard_time": 1754499019,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 270530,
@@ -171,20 +187,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 194047,
+      "num": 194047,
+      "word": "女生曝打暑假工被猥亵因无监控求助",
+      "onboard_time": 1754498300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179746,
+      "num": 179746,
+      "word": "杭州高架一理想MEGA起火",
+      "onboard_time": 1754521397,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178667,
       "num": 178667,
       "word": "明天立秋和夏天好好道个别",
       "onboard_time": 1754476883,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161360,
-      "num": 161360,
-      "word": "陶白白前妻账号永久停更",
-      "onboard_time": 1754510893,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 151597,
@@ -195,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148494,
-      "num": 148494,
-      "word": "女生曝打暑假工被猥亵因无监控求助",
-      "onboard_time": 1754498300,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 148566,
+      "num": 320454,
+      "word": "特朗普将对印度商品额外加征25%关税",
+      "onboard_time": 1754496743,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144670,
@@ -209,14 +233,6 @@
       "onboard_time": 1754497222,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142302,
-      "num": 320454,
-      "word": "特朗普将对印度商品额外加征25%关税",
-      "onboard_time": 1754496743,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135792,
@@ -251,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127056,
+      "num": 127056,
+      "word": "章家敦叫嚣对华加征600%关税",
+      "onboard_time": 1754492603,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118339,
       "num": 118339,
       "word": "陶白白再发文",
@@ -267,12 +291,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116497,
+      "num": 116497,
+      "word": "桂林卫健委回应产检绿灯生唇腭裂儿",
+      "onboard_time": 1754504475,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113661,
+      "num": 128476,
+      "word": "虞书欣丁禹兮或三搭同体",
+      "onboard_time": 1754521818,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112123,
       "num": 112123,
       "word": "锦月如歌",
       "onboard_time": 1754472084,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110090,
+      "num": 318691,
+      "word": "不向县及以下单位借调干部",
+      "onboard_time": 1754522599,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106774,
+      "num": 106774,
+      "word": "特朗普称将对芯片半导体征约100%关税",
+      "onboard_time": 1754522658,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106081,
@@ -291,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102923,
+      "num": 102923,
+      "word": "胖东来员工回应月入9千",
+      "onboard_time": 1754500937,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98451,
+      "num": 98451,
+      "word": "5岁女童泳道内遭成年女子拍打",
+      "onboard_time": 1754481683,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97279,
       "num": 97279,
       "word": "章若楠假刘海",
@@ -299,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95958,
-      "num": 95958,
-      "word": "5岁女童泳道内遭成年女子拍打",
-      "onboard_time": 1754481683,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 94399,
+      "num": 94399,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1754519355,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 92823,
@@ -347,6 +419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 85289,
+      "num": 85289,
+      "word": "15天前张芷溪还是献鱼的出品方",
+      "onboard_time": 1754500338,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83820,
       "num": 83820,
       "word": "男子送车内死亡3天司机回家",
@@ -361,14 +441,6 @@
       "onboard_time": 1754491526,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 82000,
-      "num": 82000,
-      "word": "章家敦叫嚣对华加征600%关税",
-      "onboard_time": 1754492603,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79100,
@@ -387,14 +459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77387,
-      "num": 77387,
-      "word": "桂林卫健委回应产检绿灯生唇腭裂儿",
-      "onboard_time": 1754504475,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73772,
       "num": 73772,
       "word": "香港失联独居老人被发现时已成白骨",
@@ -409,14 +473,6 @@
       "onboard_time": 1754494704,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71211,
-      "num": 55672,
-      "word": "胖东来员工回应月入9千",
-      "onboard_time": 1754500937,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70026,
@@ -435,12 +491,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68168,
+      "num": 68168,
+      "word": "又该贴秋膘了",
+      "onboard_time": 1754522358,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67372,
       "num": 67372,
       "word": "曝沈玉琳患血癌",
       "onboard_time": 1754485943,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61347,
+      "num": 61347,
+      "word": "睡够八小时还是巨累是为啥",
+      "onboard_time": 1754520857,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57784,
+      "num": 57784,
+      "word": "宁波有人养了一只鸟被立案调查",
+      "onboard_time": 1754521758,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56913,
@@ -451,20 +531,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55797,
-      "num": 55797,
-      "word": "15天前张芷溪还是献鱼的出品方",
-      "onboard_time": 1754500338,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54712,
       "num": 54712,
       "word": "黄明昊唱了时代少年团的姐姐真漂亮",
       "onboard_time": 1754491345,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51158,
+      "num": 51158,
+      "word": "小猫不许进卧室",
+      "onboard_time": 1754522479,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 49647,
+      "num": 49647,
+      "word": "方媛孕肚生日照",
+      "onboard_time": 1754482883,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48849,
+      "num": 48849,
+      "word": "官方回应7岁学生校外补习时坠亡",
+      "onboard_time": 1754508734,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47787,
@@ -475,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47691,
+      "num": 47691,
+      "word": "少林寺回应离职潮",
+      "onboard_time": 1754522777,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46654,
       "num": 46654,
       "word": "韩亿要起诉郑燕姿",
@@ -483,12 +587,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 43373,
-      "num": 43373,
-      "word": "关闭朋友圈一年后的变化",
-      "onboard_time": 1754519355,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 46596,
+      "num": 46596,
+      "word": "光遇",
+      "onboard_time": 1754522538,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 40844,
@@ -512,14 +616,6 @@
       "word": "实探印乐法师曾任方丈的白马寺",
       "onboard_time": 1754496084,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31572,
-      "num": 31572,
-      "word": "官方回应7岁学生校外补习时坠亡",
-      "onboard_time": 1754508734,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
