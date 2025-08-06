@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754459685147,
+  "endTime": 1754462623587,
   "band_list": [
     {
       "raw_hot": 3521817,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1370358,
+      "num": 309883,
+      "word": "李明德锦月如歌换脸效果",
+      "onboard_time": 1754460442,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1314615,
       "num": 880842,
       "word": "王俊凯王源易烊千玺卡点",
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1002340,
+      "num": 206935,
+      "word": "老人携带不明液体上公交遭拒",
+      "onboard_time": 1754459183,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 980289,
       "num": 567017,
       "word": "TFBOYS保密协议到期",
@@ -137,6 +153,14 @@
       "onboard_time": 1754440162,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 870095,
+      "num": 209528,
+      "word": "献鱼",
+      "onboard_time": 1754459902,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 848278,
@@ -256,6 +280,14 @@
       "word": "澳洲14岁中国女交换生遇刺身亡",
       "onboard_time": 1754411721,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551853,
+      "num": 551853,
+      "word": "台积电2nm工艺突然泄密",
+      "onboard_time": 1754458703,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -451,14 +483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 317041,
-      "num": 317041,
-      "word": "台积电2nm工艺突然泄密",
-      "onboard_time": 1754458703,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 314297,
       "num": 337142,
       "word": "女子拒付搬运工坐地起价被堵锁眼",
@@ -473,6 +497,14 @@
       "onboard_time": 1754449821,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308253,
+      "num": 168147,
+      "word": "国产剧终于出现有效女扮男装了",
+      "onboard_time": 1754461883,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 299717,
@@ -505,6 +537,14 @@
       "onboard_time": 1754454864,
       "rank": 17,
       "category": "游戏,民生新闻"
+    },
+    {
+      "raw_hot": 283467,
+      "num": 167187,
+      "word": "孙怡董子健当初有多甜现在看就有多虐",
+      "onboard_time": 1754461403,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 278197,
@@ -619,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229612,
+      "num": 229612,
+      "word": "汪顺死嘴憋住啊",
+      "onboard_time": 1754460204,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226935,
       "num": 226935,
       "word": "特朗普称税率将升至250%",
@@ -683,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216589,
+      "num": 166103,
+      "word": "瑞鹤娱乐诚挚道歉",
+      "onboard_time": 1754461043,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215286,
       "num": 215286,
       "word": "中国男篮vs沙特男篮",
@@ -699,20 +755,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212331,
+      "num": 165522,
+      "word": "时代峰峻从未听闻某歌曲",
+      "onboard_time": 1754461763,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210119,
       "num": 210119,
       "word": "蒋奇明我们的关系有点暧昧了",
       "onboard_time": 1754458703,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206935,
-      "num": 206935,
-      "word": "老人携带不明液体上公交遭拒",
-      "onboard_time": 1754459183,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206037,
@@ -851,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179151,
+      "num": 179151,
+      "word": "美国驻海地大使馆附近发生枪击事件",
+      "onboard_time": 1754460862,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 177214,
       "num": 182388,
       "word": "丞磊首部男主戏开播",
@@ -947,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158395,
+      "num": 158395,
+      "word": "换装的王楚钦",
+      "onboard_time": 1754461702,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154308,
       "num": 222241,
       "word": "披荆斩棘5首发阵容",
@@ -995,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149454,
+      "num": 167005,
+      "word": "日本一周18人死于高温",
+      "onboard_time": 1754460681,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149318,
       "num": 149318,
       "word": "黄誉博瞒着工作室发了新专辑造型",
@@ -1009,6 +1089,14 @@
       "onboard_time": 1754436079,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144537,
+      "num": 144537,
+      "word": "杨超越的丧尸不像演的",
+      "onboard_time": 1754459843,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 141988,
@@ -1179,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117403,
+      "num": 117403,
+      "word": "7月动画备案杀疯了",
+      "onboard_time": 1754462363,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 117364,
       "num": 117364,
       "word": "登陆少年披荆斩棘MV镜头",
@@ -1187,7 +1283,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113698,
+      "raw_hot": 116612,
+      "num": 116612,
+      "word": "广东特大暴雨为什么这么厉害",
+      "onboard_time": 1754458164,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115680,
       "num": 142449,
       "word": "以色列女兵自拍时被火箭弹击中",
       "onboard_time": 1754454923,
@@ -1251,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107766,
+      "num": 120732,
+      "word": "广州一地山体滑坡仍有7人被困",
+      "onboard_time": 1754462063,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107743,
       "num": 107743,
       "word": "体彩回应782万大奖无人认领",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1754435719,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105569,
+      "num": 105569,
+      "word": "香缇莫官宣帮唱Grace",
+      "onboard_time": 1754462542,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 104913,
@@ -1617,6 +1737,14 @@
       "onboard_time": 1754436680,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60778,
+      "num": 126222,
+      "word": "霉霉和男友看房",
+      "onboard_time": 1754462481,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 60735,

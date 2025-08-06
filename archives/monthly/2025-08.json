@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754459685147,
+  "endTime": 1754462623587,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -667,6 +667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1370358,
+      "num": 309883,
+      "word": "李明德锦月如歌换脸效果",
+      "onboard_time": 1754460442,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1367416,
       "num": 879806,
       "word": "酷似大S女生称未模仿大S未整容",
@@ -1131,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1002340,
+      "num": 206935,
+      "word": "老人携带不明液体上公交遭拒",
+      "onboard_time": 1754459183,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 996749,
       "num": 996749,
       "word": "女子148万分开存骗子只转走600元",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1754367923,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 870095,
+      "num": 209528,
+      "word": "献鱼",
+      "onboard_time": 1754459902,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 869698,
@@ -2568,6 +2592,14 @@
       "word": "24岁中国男子落地柬埔寨数小时内死亡",
       "onboard_time": 1754028382,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551853,
+      "num": 551853,
+      "word": "台积电2nm工艺突然泄密",
+      "onboard_time": 1754458703,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4323,14 +4355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317041,
-      "num": 317041,
-      "word": "台积电2nm工艺突然泄密",
-      "onboard_time": 1754458703,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316950,
       "num": 316950,
       "word": "朱天天 清融",
@@ -4417,6 +4441,14 @@
       "onboard_time": 1754288603,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308253,
+      "num": 168147,
+      "word": "国产剧终于出现有效女扮男装了",
+      "onboard_time": 1754461883,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 307745,
@@ -4769,6 +4801,14 @@
       "onboard_time": 1754401103,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283467,
+      "num": 167187,
+      "word": "孙怡董子健当初有多甜现在看就有多虐",
+      "onboard_time": 1754461403,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 282226,
@@ -5731,6 +5771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 229612,
+      "num": 229612,
+      "word": "汪顺死嘴憋住啊",
+      "onboard_time": 1754460204,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228995,
       "num": 228995,
       "word": "外嫁女户籍仍在本村拆迁补偿却没份",
@@ -6155,6 +6203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216589,
+      "num": 166103,
+      "word": "瑞鹤娱乐诚挚道歉",
+      "onboard_time": 1754461043,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216411,
       "num": 180763,
       "word": "湖北退出航母命名争夺战",
@@ -6329,6 +6385,14 @@
       "onboard_time": 1754008642,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212331,
+      "num": 165522,
+      "word": "时代峰峻从未听闻某歌曲",
+      "onboard_time": 1754461763,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 212325,
@@ -6601,14 +6665,6 @@
       "onboard_time": 1754148568,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206935,
-      "num": 206935,
-      "word": "老人携带不明液体上公交遭拒",
-      "onboard_time": 1754459183,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206903,
@@ -8243,6 +8299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179151,
+      "num": 179151,
+      "word": "美国驻海地大使馆附近发生枪击事件",
+      "onboard_time": 1754460862,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179019,
       "num": 179019,
       "word": "单依纯帮唱嘉宾 王力宏",
@@ -9635,6 +9699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158395,
+      "num": 158395,
+      "word": "换装的王楚钦",
+      "onboard_time": 1754461702,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158331,
       "num": 158331,
       "word": "王琳自己淋过雨要给儿子撑伞",
@@ -10307,6 +10379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149454,
+      "num": 167005,
+      "word": "日本一周18人死于高温",
+      "onboard_time": 1754460681,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149429,
       "num": 290257,
       "word": "华为乾崑再添一派",
@@ -10785,6 +10865,14 @@
       "onboard_time": 1754197163,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144537,
+      "num": 144537,
+      "word": "杨超越的丧尸不像演的",
+      "onboard_time": 1754459843,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144465,
@@ -13635,6 +13723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117403,
+      "num": 117403,
+      "word": "7月动画备案杀疯了",
+      "onboard_time": 1754462363,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 117364,
       "num": 117364,
       "word": "登陆少年披荆斩棘MV镜头",
@@ -13704,6 +13800,14 @@
       "word": "全世界的游客都来中国了",
       "onboard_time": 1754225424,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116612,
+      "num": 116612,
+      "word": "广东特大暴雨为什么这么厉害",
+      "onboard_time": 1754458164,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -13793,6 +13897,14 @@
       "onboard_time": 1754315005,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115680,
+      "num": 142449,
+      "word": "以色列女兵自拍时被火箭弹击中",
+      "onboard_time": 1754454923,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115585,
@@ -13945,14 +14057,6 @@
       "onboard_time": 1754007922,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 113698,
-      "num": 142449,
-      "word": "以色列女兵自拍时被火箭弹击中",
-      "onboard_time": 1754454923,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 113694,
@@ -14491,6 +14595,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 107766,
+      "num": 120732,
+      "word": "广州一地山体滑坡仍有7人被困",
+      "onboard_time": 1754462063,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107743,
       "num": 107743,
       "word": "体彩回应782万大奖无人认领",
@@ -14641,6 +14753,14 @@
       "onboard_time": 1754435719,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105569,
+      "num": 105569,
+      "word": "香缇莫官宣帮唱Grace",
+      "onboard_time": 1754462542,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105538,
@@ -17145,6 +17265,14 @@
       "onboard_time": 1754066600,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 60778,
+      "num": 126222,
+      "word": "霉霉和男友看房",
+      "onboard_time": 1754462481,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 60743,

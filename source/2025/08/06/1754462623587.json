@@ -1,0 +1,410 @@
+{
+  "runTime": 1754462623587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2565925,
+        "num": 2565925,
+        "word": "张芷溪喊话银河酷娱履约",
+        "onboard_time": 1754457143,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551853,
+        "num": 551853,
+        "word": "台积电2nm工艺突然泄密",
+        "onboard_time": 1754458703,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28373,
+        "num": 409268,
+        "word": "中国舰载机在持续上新",
+        "onboard_time": 1754445140,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1492496,
+        "num": 388129,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364205,
+        "num": 364205,
+        "word": "金价",
+        "onboard_time": 1754453964,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 333108,
+        "num": 333108,
+        "word": "iPhone17系列仅标准版没涨价",
+        "onboard_time": 1754453903,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1370358,
+        "num": 309883,
+        "word": "李明德锦月如歌换脸效果",
+        "onboard_time": 1754460442,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1048246,
+        "num": 288252,
+        "word": "瑞鹤娱乐秒删",
+        "onboard_time": 1754457082,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229612,
+        "num": 229612,
+        "word": "汪顺死嘴憋住啊",
+        "onboard_time": 1754460204,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209784,
+        "num": 209784,
+        "word": "明天就立秋了",
+        "onboard_time": 1754440943,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 870095,
+        "num": 209528,
+        "word": "献鱼",
+        "onboard_time": 1754459902,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 756817,
+        "num": 206048,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 534633,
+        "num": 201763,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496663,
+        "num": 195510,
+        "word": "张芷溪原本找赵露思演献鱼",
+        "onboard_time": 1754458103,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399976,
+        "num": 193674,
+        "word": "歌王之战帮唱嘉宾官宣",
+        "onboard_time": 1754454745,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394725,
+        "num": 188353,
+        "word": "半个内娱真夫妻都来这节目了",
+        "onboard_time": 1754450423,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366551,
+        "num": 187574,
+        "word": "月入3千与月入10万的变化",
+        "onboard_time": 1754454805,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183935,
+        "num": 183935,
+        "word": "韩国对中国团队游客临时免签",
+        "onboard_time": 1754455824,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179151,
+        "num": 179151,
+        "word": "美国驻海地大使馆附近发生枪击事件",
+        "onboard_time": 1754460862,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168500,
+        "num": 168500,
+        "word": "叠纸称PV皆为研发录制",
+        "onboard_time": 1754456604,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1002340,
+        "num": 168452,
+        "word": "老人携带不明液体上公交遭拒",
+        "onboard_time": 1754459183,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308253,
+        "num": 168147,
+        "word": "国产剧终于出现有效女扮男装了",
+        "onboard_time": 1754461883,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286991,
+        "num": 167605,
+        "word": "时代峰峻回应文案抄袭",
+        "onboard_time": 1754457923,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283467,
+        "num": 167187,
+        "word": "孙怡董子健当初有多甜现在看就有多虐",
+        "onboard_time": 1754461403,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149454,
+        "num": 167005,
+        "word": "日本一周18人死于高温",
+        "onboard_time": 1754460681,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243851,
+        "num": 166669,
+        "word": "任素汐 歌手",
+        "onboard_time": 1754455404,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216589,
+        "num": 166103,
+        "word": "瑞鹤娱乐诚挚道歉",
+        "onboard_time": 1754461043,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216572,
+        "num": 165909,
+        "word": "Angelababy独自带小海绵回香港",
+        "onboard_time": 1754453362,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212331,
+        "num": 165522,
+        "word": "时代峰峻从未听闻某歌曲",
+        "onboard_time": 1754461763,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206201,
+        "num": 165379,
+        "word": "男子向飞机上女友求婚答应后飞机坠毁",
+        "onboard_time": 1754452404,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179824,
+        "num": 164787,
+        "word": "喜茶 Chiikawa",
+        "onboard_time": 1754444361,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 164693,
+        "num": 164693,
+        "word": "王俊凯王源易烊千玺卡点",
+        "onboard_time": 1754437881,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163933,
+        "num": 163933,
+        "word": "建议下班回家立刻洗澡",
+        "onboard_time": 1754456363,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160370,
+        "num": 160370,
+        "word": "披荆斩棘5定档",
+        "onboard_time": 1754443041,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158395,
+        "num": 158395,
+        "word": "换装的王楚钦",
+        "onboard_time": 1754461702,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145568,
+        "num": 145568,
+        "word": "蒋奇明我们的关系有点暧昧了",
+        "onboard_time": 1754458703,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144537,
+        "num": 144537,
+        "word": "杨超越的丧尸不像演的",
+        "onboard_time": 1754459843,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134023,
+        "num": 134023,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1754449883,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60778,
+        "num": 126222,
+        "word": "霉霉和男友看房",
+        "onboard_time": 1754462481,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125925,
+        "num": 125925,
+        "word": "大学生一定要对工资有概念",
+        "onboard_time": 1754455105,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 125746,
+        "word": "何九华 尚九熙",
+        "onboard_time": 1754439562,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122054,
+        "num": 122054,
+        "word": "第一次直观感受到基因的不公平",
+        "onboard_time": 1754452222,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107766,
+        "num": 120732,
+        "word": "广州一地山体滑坡仍有7人被困",
+        "onboard_time": 1754462063,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120316,
+        "num": 120316,
+        "word": "女子遛弯捡了20斤海螺装6个盆",
+        "onboard_time": 1754457204,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117403,
+        "num": 117403,
+        "word": "7月动画备案杀疯了",
+        "onboard_time": 1754462363,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116860,
+        "num": 116860,
+        "word": "麦当劳大鸡排下架",
+        "onboard_time": 1754456784,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116612,
+        "num": 116612,
+        "word": "广东特大暴雨为什么这么厉害",
+        "onboard_time": 1754458164,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115680,
+        "num": 115680,
+        "word": "以色列女兵自拍时被火箭弹击中",
+        "onboard_time": 1754454923,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115366,
+        "num": 115366,
+        "word": "张译获得国家一级演员职称",
+        "onboard_time": 1754451142,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105569,
+        "num": 105569,
+        "word": "香缇莫官宣帮唱Grace",
+        "onboard_time": 1754462542,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
