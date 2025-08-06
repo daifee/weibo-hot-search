@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754477436296,
+  "endTime": 1754479558499,
   "band_list": [
     {
       "raw_hot": 7910146,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 850218,
+      "num": 850218,
+      "word": "北大录取通知书被指有语句问题",
+      "onboard_time": 1754473644,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848278,
       "num": 848278,
       "word": "浙大青年博导坠楼真相是什么",
@@ -257,14 +265,6 @@
       "onboard_time": 1754449883,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 785668,
-      "num": 785668,
-      "word": "北大录取通知书被指有语句问题",
-      "onboard_time": 1754473644,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 770155,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 644772,
-      "num": 337849,
+      "num": 341805,
       "word": "汪苏泷腹肌",
       "onboard_time": 1754474245,
       "rank": 12,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420116,
+      "num": 420116,
+      "word": "香港失联独居老人被发现时已成白骨",
+      "onboard_time": 1754478024,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415524,
       "num": 415524,
       "word": "明天就立秋了",
@@ -619,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353653,
+      "num": 353653,
+      "word": "陶白白 医者不自医",
+      "onboard_time": 1754476823,
+      "rank": 26,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 353548,
       "num": 353548,
       "word": "梨形瘦25斤的杀伤力",
       "onboard_time": 1754405065,
       "rank": 5,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 352005,
+      "num": 352005,
+      "word": "南京照相馆上映日本网民跳脚",
+      "onboard_time": 1754476764,
+      "rank": 30,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 337788,
@@ -707,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311483,
+      "num": 311483,
+      "word": "陶白白什么星座",
+      "onboard_time": 1754477664,
+      "rank": 15,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 310343,
       "num": 310343,
       "word": "汪顺死嘴憋住啊",
@@ -777,6 +809,14 @@
       "onboard_time": 1754449402,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290051,
+      "num": 290051,
+      "word": "别让恋与深空的雷炸碎玩家心",
+      "onboard_time": 1754477183,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 289038,
@@ -947,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231928,
+      "num": 290295,
+      "word": "赵露思直播安利竹荪",
+      "onboard_time": 1754477783,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230566,
       "num": 230566,
       "word": "社保",
@@ -1091,16 +1139,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206921,
-      "num": 206921,
-      "word": "陶白白 医者不自医",
-      "onboard_time": 1754476823,
-      "rank": 26,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 206343,
-      "num": 224160,
+      "num": 251168,
       "word": "时尚圈都在拍小鹏P7",
       "onboard_time": 1754476644,
       "rank": 22,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1754455945,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205230,
-      "num": 195136,
-      "word": "南京照相馆上映日本网民跳脚",
-      "onboard_time": 1754476764,
-      "rank": 30,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 204992,
@@ -1184,6 +1216,14 @@
       "word": "中国即将亮出长剑",
       "onboard_time": 1754450901,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198091,
+      "num": 343222,
+      "word": "明天立秋和夏天好好道个别",
+      "onboard_time": 1754476883,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1467,6 +1507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160324,
+      "num": 160324,
+      "word": "第一次见命这么硬的男主",
+      "onboard_time": 1754478622,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158395,
       "num": 158395,
       "word": "换装的王楚钦",
@@ -1488,6 +1536,14 @@
       "word": "披荆斩棘5首发阵容",
       "onboard_time": 1754457623,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154153,
+      "num": 202723,
+      "word": "谁家艺人直接在大街炫凉皮啊",
+      "onboard_time": 1754477303,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1579,28 +1635,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147861,
-      "num": 147861,
-      "word": "别让恋与深空的雷炸碎玩家心",
-      "onboard_time": 1754477183,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146393,
       "num": 122557,
       "word": "情侣在少儿阅读区当众亲热",
       "onboard_time": 1754436079,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144618,
-      "num": 144618,
-      "word": "谁家艺人直接在大街炫凉皮啊",
-      "onboard_time": 1754477303,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 144537,
@@ -1731,14 +1771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133535,
-      "num": 343222,
-      "word": "明天立秋和夏天好好道个别",
-      "onboard_time": 1754476883,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133432,
       "num": 201112,
       "word": "教体局称笔试17分进复审合法合规",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1754463263,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 131577,
+      "num": 131577,
+      "word": "好运鹿角",
+      "onboard_time": 1754478024,
+      "rank": 39,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 130729,
@@ -2035,12 +2075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111406,
+      "num": 111406,
+      "word": "宝马设计主管回应加入小米",
+      "onboard_time": 1754478922,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111317,
       "num": 313318,
       "word": "重庆下暴雨了但没下在中心城区",
       "onboard_time": 1754443161,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110816,
+      "num": 110816,
+      "word": "猫猫自己闯下的祸自己吃",
+      "onboard_time": 1754478622,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110790,
@@ -2203,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91277,
+      "num": 131872,
+      "word": "许光汉说我已经一年没有工作了",
+      "onboard_time": 1754479282,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "再见爱人1真是封神",
@@ -2297,6 +2361,14 @@
       "onboard_time": 1754410044,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79474,
+      "num": 351266,
+      "word": "多所学校回应毁约新聘教师",
+      "onboard_time": 1754478804,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79439,
@@ -2417,6 +2489,14 @@
       "onboard_time": 1754474905,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69756,
+      "num": 290062,
+      "word": "82岁老人跳河勇救98岁老人",
+      "onboard_time": 1754478145,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 69706,
@@ -2556,7 +2636,7 @@
     },
     {
       "raw_hot": 50159,
-      "num": 248943,
+      "num": 290123,
       "word": "MG4电耗实测仅8.3太恐怖",
       "onboard_time": 1754476584,
       "rank": 18,

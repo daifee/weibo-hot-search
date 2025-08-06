@@ -1,0 +1,410 @@
+{
+  "runTime": 1754479558499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5407796,
+        "num": 5407796,
+        "word": "陶白白官宣离婚",
+        "onboard_time": 1754471964,
+        "rank": 0,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 1204921,
+        "num": 1204921,
+        "word": "美团 霸王茶姬",
+        "onboard_time": 1754470703,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14947,
+        "num": 956129,
+        "word": "我们都替他看到了可爱的中国",
+        "onboard_time": 1754447960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 901764,
+        "num": 901764,
+        "word": "网红刘大悦患甲状腺癌",
+        "onboard_time": 1754472024,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 850218,
+        "num": 850218,
+        "word": "北大录取通知书被指有语句问题",
+        "onboard_time": 1754473644,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538508,
+        "num": 538508,
+        "word": "肆意生花 华策",
+        "onboard_time": 1754464943,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420116,
+        "num": 420116,
+        "word": "香港失联独居老人被发现时已成白骨",
+        "onboard_time": 1754478024,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353653,
+        "num": 353653,
+        "word": "陶白白 医者不自医",
+        "onboard_time": 1754476823,
+        "rank": 7,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 352005,
+        "num": 352005,
+        "word": "南京照相馆上映日本网民跳脚",
+        "onboard_time": 1754476764,
+        "rank": 8,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 79474,
+        "num": 351266,
+        "word": "多所学校回应毁约新聘教师",
+        "onboard_time": 1754478804,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911435,
+        "num": 348866,
+        "word": "赵露思爸爸为了女儿漂发",
+        "onboard_time": 1754473344,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547595,
+        "num": 345805,
+        "word": "何猷君前女友晒娃",
+        "onboard_time": 1754471243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417617,
+        "num": 341805,
+        "word": "汪苏泷腹肌",
+        "onboard_time": 1754474245,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341527,
+        "num": 341527,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46009,
+        "num": 323395,
+        "word": "拼多多有百亿补贴还有千亿扶持",
+        "onboard_time": 1754478083,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 311483,
+        "num": 311483,
+        "word": "陶白白什么星座",
+        "onboard_time": 1754477664,
+        "rank": 15,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 302461,
+        "num": 302461,
+        "word": "二婚夫妻办假离婚结果就男方信了",
+        "onboard_time": 1754475685,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231928,
+        "num": 290295,
+        "word": "赵露思直播安利竹荪",
+        "onboard_time": 1754477783,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49043,
+        "num": 290123,
+        "word": "MG4电耗实测仅8.3太恐怖",
+        "onboard_time": 1754476584,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69756,
+        "num": 290062,
+        "word": "82岁老人跳河勇救98岁老人",
+        "onboard_time": 1754478145,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 290051,
+        "num": 290051,
+        "word": "别让恋与深空的雷炸碎玩家心",
+        "onboard_time": 1754477183,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257706,
+        "num": 257706,
+        "word": "韩网再宣称汉服是学韩国的",
+        "onboard_time": 1754470764,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96169,
+        "num": 251168,
+        "word": "时尚圈都在拍小鹏P7",
+        "onboard_time": 1754476644,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247686,
+        "num": 247686,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244735,
+        "num": 244735,
+        "word": "李飞是真把妹王",
+        "onboard_time": 1754471425,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227881,
+        "num": 227881,
+        "word": "李明德锦月如歌换脸效果",
+        "onboard_time": 1754460442,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222291,
+        "num": 222291,
+        "word": "温州7岁男孩补习班坠楼身亡",
+        "onboard_time": 1754468723,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198091,
+        "num": 204857,
+        "word": "明天立秋和夏天好好道个别",
+        "onboard_time": 1754476883,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154153,
+        "num": 202723,
+        "word": "谁家艺人直接在大街炫凉皮啊",
+        "onboard_time": 1754477303,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144754,
+        "num": 202633,
+        "word": "杨幂1986年魔童降世",
+        "onboard_time": 1754465603,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202568,
+        "num": 202568,
+        "word": "多地新聘教师遭学校单方面毁约",
+        "onboard_time": 1754475744,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169013,
+        "num": 169013,
+        "word": "陶白白和前妻各自已有新的感情",
+        "onboard_time": 1754476104,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 160324,
+        "num": 160324,
+        "word": "第一次见命这么硬的男主",
+        "onboard_time": 1754478622,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158681,
+        "num": 158681,
+        "word": "韩国人感谢中国网红提高食堂质量",
+        "onboard_time": 1754471425,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150726,
+        "num": 150726,
+        "word": "22厘米子宫肌瘤钻进40岁女子心脏",
+        "onboard_time": 1754469023,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149234,
+        "num": 149234,
+        "word": "坠楼7岁男孩母亲哭诉42岁才生的他",
+        "onboard_time": 1754471425,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142059,
+        "num": 142059,
+        "word": "肆意生花版权",
+        "onboard_time": 1754469983,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 134092,
+        "word": "宝马设计主管加入小米",
+        "onboard_time": 1754476704,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 91277,
+        "num": 131872,
+        "word": "许光汉说我已经一年没有工作了",
+        "onboard_time": 1754479282,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131577,
+        "num": 131577,
+        "word": "好运鹿角",
+        "onboard_time": 1754478024,
+        "rank": 39,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 130421,
+        "num": 130421,
+        "word": "王楚然这个腰臀比太绝了吧",
+        "onboard_time": 1754463923,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122580,
+        "num": 122580,
+        "word": "锦月如歌",
+        "onboard_time": 1754472084,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122351,
+        "num": 122351,
+        "word": "秋天的第一杯奶茶花束又火了",
+        "onboard_time": 1754466683,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121057,
+        "num": 121057,
+        "word": "美女子外出庆生儿子被家中狗咬身亡",
+        "onboard_time": 1754469143,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119890,
+        "num": 119890,
+        "word": "微信内存一下子就少了10G",
+        "onboard_time": 1754463741,
+        "rank": 44,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 113086,
+        "num": 113086,
+        "word": "Flandre和Viper拍立得被偷",
+        "onboard_time": 1754477243,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111406,
+        "num": 111406,
+        "word": "宝马设计主管回应加入小米",
+        "onboard_time": 1754478922,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110816,
+        "num": 110816,
+        "word": "猫猫自己闯下的祸自己吃",
+        "onboard_time": 1754478622,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106236,
+        "num": 106236,
+        "word": "终于有不瞎的古偶男主会看性别",
+        "onboard_time": 1754477065,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102439,
+        "num": 102439,
+        "word": "赵露思直播回应代言瓜",
+        "onboard_time": 1754472143,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
