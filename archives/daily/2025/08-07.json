@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754508354718,
+  "endTime": 1754509275517,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -539,12 +539,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12879,
+      "raw_hot": 15568,
       "num": 54818,
       "word": "广西小伙在云南旅游连救2人",
       "onboard_time": 1754506695,
       "rank": 10,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11197,
+      "num": 21487,
+      "word": "官方回应7岁学生校外补习时坠亡",
+      "onboard_time": 1754508734,
+      "rank": 35,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
