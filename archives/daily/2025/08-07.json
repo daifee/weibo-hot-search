@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754519340943,
+  "endTime": 1754520447799,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297370,
+      "num": 297370,
+      "word": "7个月女儿被哥哥杀害弟弟要求重判",
+      "onboard_time": 1754501778,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290879,
       "num": 290879,
       "word": "网红秀才疑似借壳复出",
@@ -147,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228677,
-      "num": 228677,
-      "word": "7个月女儿被哥哥杀害弟弟要求重判",
-      "onboard_time": 1754501778,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220486,
       "num": 220486,
       "word": "网红刘大悦患甲状腺癌",
@@ -177,6 +177,14 @@
       "onboard_time": 1754476883,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161360,
+      "num": 161360,
+      "word": "陶白白前妻账号永久停更",
+      "onboard_time": 1754510893,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 151597,
@@ -217,14 +225,6 @@
       "onboard_time": 1754490985,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 135771,
-      "num": 135771,
-      "word": "陶白白前妻账号永久停更",
-      "onboard_time": 1754510893,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 134532,
@@ -387,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77387,
+      "num": 77387,
+      "word": "桂林卫健委回应产检绿灯生唇腭裂儿",
+      "onboard_time": 1754504475,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73772,
       "num": 73772,
       "word": "香港失联独居老人被发现时已成白骨",
@@ -401,6 +409,14 @@
       "onboard_time": 1754494704,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71211,
+      "num": 55672,
+      "word": "胖东来员工回应月入9千",
+      "onboard_time": 1754500937,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70026,
@@ -427,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65508,
-      "num": 65508,
-      "word": "桂林卫健委回应产检绿灯生唇腭裂儿",
-      "onboard_time": 1754504475,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56913,
       "num": 56913,
       "word": "首个立法规定男女厕位比例的省份",
@@ -449,14 +457,6 @@
       "onboard_time": 1754500338,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55672,
-      "num": 55672,
-      "word": "胖东来员工回应月入9千",
-      "onboard_time": 1754500937,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54712,
@@ -483,6 +483,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 43373,
+      "num": 43373,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1754519355,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 40844,
+      "num": 40844,
+      "word": "央视曝光打卡0元学等商家套路",
+      "onboard_time": 1754517315,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37967,
       "num": 39199,
       "word": "锦月如歌重生改成假死",
@@ -499,15 +515,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34826,
-      "num": 34826,
-      "word": "央视曝光打卡0元学等商家套路",
-      "onboard_time": 1754517315,
-      "rank": 30,
+      "raw_hot": 31572,
+      "num": 31572,
+      "word": "官方回应7岁学生校外补习时坠亡",
+      "onboard_time": 1754508734,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30410,
+      "raw_hot": 30427,
       "num": 46985,
       "word": "警方通报卡车意外失控致2死2伤",
       "onboard_time": 1754512753,
@@ -521,14 +537,6 @@
       "onboard_time": 1754507415,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28832,
-      "num": 28832,
-      "word": "官方回应7岁学生校外补习时坠亡",
-      "onboard_time": 1754508734,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27350,
@@ -547,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25003,
+      "num": 31391,
+      "word": "谁懂这个面包价格的含金量",
+      "onboard_time": 1754512034,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 24662,
       "num": 27154,
       "word": "丹麦美人鱼雕像被勒令拆除引争议",
@@ -561,14 +577,6 @@
       "onboard_time": 1754503696,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20849,
-      "num": 27167,
-      "word": "谁懂这个面包价格的含金量",
-      "onboard_time": 1754512034,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 18601,
