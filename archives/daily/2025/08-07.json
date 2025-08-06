@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754512311352,
+  "endTime": 1754513154829,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37864,
+      "num": 37864,
+      "word": "陶白白前妻账号永久停更",
+      "onboard_time": 1754510893,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 35633,
       "num": 69080,
       "word": "实探印乐法师曾任方丈的白马寺",
@@ -475,8 +483,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32455,
-      "num": 32455,
+      "raw_hot": 33929,
+      "num": 33929,
       "word": "桂林卫健委回应产检绿灯生唇腭裂儿",
       "onboard_time": 1754504475,
       "rank": 39,
@@ -499,12 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27863,
-      "num": 27863,
-      "word": "陶白白前妻账号永久停更",
-      "onboard_time": 1754510893,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 28832,
+      "num": 28832,
+      "word": "官方回应7岁学生校外补习时坠亡",
+      "onboard_time": 1754508734,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27350,
+      "num": 46625,
+      "word": "7岁学生校外补习时坠亡母亲发声",
+      "onboard_time": 1754511554,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26920,
@@ -513,14 +529,6 @@
       "onboard_time": 1754503937,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 26711,
-      "num": 26711,
-      "word": "官方回应7岁学生校外补习时坠亡",
-      "onboard_time": 1754508734,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24662,
@@ -579,15 +587,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12716,
-      "num": 46625,
-      "word": "7岁学生校外补习时坠亡母亲发声",
-      "onboard_time": 1754511554,
+      "raw_hot": 13101,
+      "num": 46985,
+      "word": "警方通报卡车意外失控致2死2伤",
+      "onboard_time": 1754512753,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11790,
+      "raw_hot": 12699,
       "num": 15434,
       "word": "谁懂这个面包价格的含金量",
       "onboard_time": 1754512034,
