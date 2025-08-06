@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754470457387,
+  "endTime": 1754472948396,
   "band_list": [
     {
       "raw_hot": 3521817,
@@ -35,12 +35,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1907214,
+      "num": 678906,
+      "word": "何猷君前女友晒娃",
+      "onboard_time": 1754471243,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1882419,
       "num": 1882419,
       "word": "银河酷娱替赵露思推掉红九的小说",
       "onboard_time": 1754465902,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1656348,
+      "num": 755236,
+      "word": "陶白白官宣离婚",
+      "onboard_time": 1754471964,
+      "rank": 3,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 1653252,
@@ -121,6 +137,14 @@
       "onboard_time": 1754439862,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1046890,
+      "num": 1167502,
+      "word": "美团 霸王茶姬",
+      "onboard_time": 1754470703,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1042885,
@@ -267,12 +291,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720451,
+      "num": 720451,
+      "word": "22厘米子宫肌瘤钻进40岁女子心脏",
+      "onboard_time": 1754469023,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677333,
+      "num": 677333,
+      "word": "温州7岁男孩补习班坠楼身亡",
+      "onboard_time": 1754468723,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 654814,
       "num": 654814,
       "word": "多地公文恶性抄袭",
       "onboard_time": 1754467283,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645603,
+      "num": 645603,
+      "word": "肆意生花版权",
+      "onboard_time": 1754469983,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 637337,
@@ -363,20 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 544869,
-      "num": 544869,
-      "word": "22厘米子宫肌瘤钻进40岁女子心脏",
-      "onboard_time": 1754469023,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 525078,
-      "num": 525078,
-      "word": "温州7岁男孩补习班坠楼身亡",
-      "onboard_time": 1754468723,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 509981,
+      "num": 509981,
+      "word": "韩网再宣称汉服是学韩国的",
+      "onboard_time": 1754470764,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 507166,
@@ -443,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447726,
+      "num": 447726,
+      "word": "网红刘大悦患甲状腺癌",
+      "onboard_time": 1754472024,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 426704,
       "num": 253572,
       "word": "王源",
@@ -465,6 +513,22 @@
       "onboard_time": 1754463806,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409460,
+      "num": 409460,
+      "word": "美女子外出庆生儿子被家中狗咬身亡",
+      "onboard_time": 1754469143,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 407833,
+      "num": 407833,
+      "word": "献鱼 没惹任何人",
+      "onboard_time": 1754469502,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 402517,
@@ -579,20 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330100,
-      "num": 217042,
-      "word": "献鱼 没惹任何人",
-      "onboard_time": 1754469502,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 324108,
-      "num": 324108,
-      "word": "美女子外出庆生儿子被家中狗咬身亡",
-      "onboard_time": 1754469143,
-      "rank": 35,
-      "category": "海外新闻"
+      "raw_hot": 326884,
+      "num": 326884,
+      "word": "李飞是真把妹王",
+      "onboard_time": 1754471425,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 323140,
@@ -715,6 +771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 273023,
+      "num": 273023,
+      "word": "赵露思直播回应代言瓜",
+      "onboard_time": 1754472143,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271757,
       "num": 164858,
       "word": "王俊凯 演唱会",
@@ -785,6 +849,22 @@
       "onboard_time": 1754440403,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250526,
+      "num": 250526,
+      "word": "蒋奇明张艺凡吻张力拉满",
+      "onboard_time": 1754471844,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 248450,
+      "num": 248450,
+      "word": "韩国人感谢中国网红提高食堂质量",
+      "onboard_time": 1754471425,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 247744,
@@ -859,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224998,
+      "num": 679809,
+      "word": "整治形式主义为基层减负若干规定印发",
+      "onboard_time": 1754471724,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 221741,
       "num": 221741,
       "word": "逆水寒手游",
       "onboard_time": 1754458042,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221190,
+      "num": 221190,
+      "word": "最希望取消的社交礼仪",
+      "onboard_time": 1754471064,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 219304,
@@ -931,20 +1027,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212241,
-      "num": 212241,
-      "word": "肆意生花版权",
-      "onboard_time": 1754469983,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 210119,
       "num": 210119,
       "word": "蒋奇明我们的关系有点暧昧了",
       "onboard_time": 1754458703,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207538,
+      "num": 207538,
+      "word": "坠楼7岁男孩母亲哭诉42岁才生的他",
+      "onboard_time": 1754471425,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206215,
+      "num": 206215,
+      "word": "锦月如歌",
+      "onboard_time": 1754440342,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 206037,
@@ -961,6 +1065,14 @@
       "onboard_time": 1754455945,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204992,
+      "num": 204992,
+      "word": "玩家怒斥恋与深空公司冷暴力",
+      "onboard_time": 1754470764,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 204909,
@@ -1051,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185667,
+      "num": 200078,
+      "word": "陈梦秀英语初学小成果",
+      "onboard_time": 1754472084,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184664,
       "num": 184664,
       "word": "iPhone17或9月9日发布",
@@ -1081,6 +1201,14 @@
       "onboard_time": 1754407344,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179740,
+      "num": 200138,
+      "word": "肖战藏海传韩国SBS开播VCR",
+      "onboard_time": 1754471604,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 179365,
@@ -1337,6 +1465,14 @@
       "onboard_time": 1754447001,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149773,
+      "num": 149773,
+      "word": "苏新皓苏醒没头脑和不高兴",
+      "onboard_time": 1754472683,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 149318,
@@ -1827,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105768,
+      "num": 253021,
+      "word": "王影璐什么咸鱼天菜明明是我的菜",
+      "onboard_time": 1754472203,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105569,
       "num": 105569,
       "word": "香缇莫官宣帮唱Grace",
@@ -1849,14 +1993,6 @@
       "onboard_time": 1754440703,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97809,
-      "num": 97809,
-      "word": "锦月如歌",
-      "onboard_time": 1754440342,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 96874,
@@ -1972,7 +2108,7 @@
     },
     {
       "raw_hot": 83909,
-      "num": 83909,
+      "num": 761699,
       "word": "我们都替他看到了可爱的中国",
       "onboard_time": 1754447960,
       "rank": 49,
@@ -2057,6 +2193,14 @@
       "onboard_time": 1754458884,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77177,
+      "num": 414450,
+      "word": "拼多多有百亿补贴还有千亿扶持",
+      "onboard_time": 1754471182,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 75852,
@@ -2275,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38588,
+      "num": 414014,
+      "word": "交大专家大赞MG4打破特斯拉专利",
+      "onboard_time": 1754472263,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36733,
       "num": 188573,
       "word": "名古屋市长不认同否认南京大屠杀",
@@ -2355,6 +2507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23986,
+      "num": 265151,
+      "word": "国家工作组赴广东查看暴雨洪涝灾情",
+      "onboard_time": 1754472743,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23973,
       "num": 43346,
       "word": "电影东极岛",
@@ -2401,6 +2561,14 @@
       "onboard_time": 1754422695,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1448,
+      "num": 695727,
+      "word": "成都世运会焰火彩排看到一棵大树",
+      "onboard_time": 1754395882,
+      "rank": 7,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
