@@ -1,0 +1,410 @@
+{
+  "runTime": 1754477436296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7525083,
+        "num": 7525083,
+        "word": "陶白白官宣离婚",
+        "onboard_time": 1754471964,
+        "rank": 0,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 1620696,
+        "num": 1620696,
+        "word": "美团 霸王茶姬",
+        "onboard_time": 1754470703,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23021,
+        "num": 1355776,
+        "word": "我们都替他看到了可爱的中国",
+        "onboard_time": 1754447960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1265139,
+        "num": 1265139,
+        "word": "网红刘大悦患甲状腺癌",
+        "onboard_time": 1754472024,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 760247,
+        "num": 760247,
+        "word": "北大录取通知书被指有语句问题",
+        "onboard_time": 1754473644,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724679,
+        "num": 724679,
+        "word": "肆意生花 华策",
+        "onboard_time": 1754464943,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 509973,
+        "num": 509973,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356978,
+        "num": 356978,
+        "word": "韩网再宣称汉服是学韩国的",
+        "onboard_time": 1754470764,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 343963,
+        "num": 343963,
+        "word": "李明德锦月如歌换脸效果",
+        "onboard_time": 1754460442,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133535,
+        "num": 343222,
+        "word": "明天立秋和夏天好好道个别",
+        "onboard_time": 1754476883,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 980557,
+        "num": 341613,
+        "word": "赵露思爸爸为了女儿漂发",
+        "onboard_time": 1754473344,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713966,
+        "num": 340204,
+        "word": "何猷君前女友晒娃",
+        "onboard_time": 1754471243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564580,
+        "num": 337849,
+        "word": "汪苏泷腹肌",
+        "onboard_time": 1754474245,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337788,
+        "num": 337788,
+        "word": "李飞是真把妹王",
+        "onboard_time": 1754471425,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325138,
+        "num": 325138,
+        "word": "温州7岁男孩补习班坠楼身亡",
+        "onboard_time": 1754468723,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335117,
+        "num": 322996,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312102,
+        "num": 312102,
+        "word": "二婚夫妻办假离婚结果就男方信了",
+        "onboard_time": 1754475685,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310064,
+        "num": 310064,
+        "word": "韩国人感谢中国网红提高食堂质量",
+        "onboard_time": 1754471425,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50159,
+        "num": 248943,
+        "word": "MG4电耗实测仅8.3太恐怖",
+        "onboard_time": 1754476584,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 234863,
+        "num": 234863,
+        "word": "多地新聘教师遭学校单方面毁约",
+        "onboard_time": 1754475744,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252356,
+        "num": 230778,
+        "word": "肆意生花版权",
+        "onboard_time": 1754469983,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224870,
+        "num": 224870,
+        "word": "坠楼7岁男孩母亲哭诉42岁才生的他",
+        "onboard_time": 1754471425,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206343,
+        "num": 224160,
+        "word": "时尚圈都在拍小鹏P7",
+        "onboard_time": 1754476644,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223934,
+        "num": 223934,
+        "word": "微信内存一下子就少了10G",
+        "onboard_time": 1754463741,
+        "rank": 23,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 222850,
+        "num": 222850,
+        "word": "宝马设计主管加入小米",
+        "onboard_time": 1754476704,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212737,
+        "num": 212737,
+        "word": "22厘米子宫肌瘤钻进40岁女子心脏",
+        "onboard_time": 1754469023,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206921,
+        "num": 206921,
+        "word": "陶白白 医者不自医",
+        "onboard_time": 1754476823,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 197037,
+        "num": 197037,
+        "word": "杨幂1986年魔童降世",
+        "onboard_time": 1754465603,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186037,
+        "num": 195872,
+        "word": "赵露思直播回应代言瓜",
+        "onboard_time": 1754472143,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174639,
+        "num": 195167,
+        "word": "披荆斩棘",
+        "onboard_time": 1754476163,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205230,
+        "num": 195136,
+        "word": "南京照相馆上映日本网民跳脚",
+        "onboard_time": 1754476764,
+        "rank": 30,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 195068,
+        "num": 195068,
+        "word": "秋天的第一杯奶茶花束又火了",
+        "onboard_time": 1754466683,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189471,
+        "num": 189471,
+        "word": "陶白白和前妻各自已有新的感情",
+        "onboard_time": 1754476104,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 170222,
+        "num": 170222,
+        "word": "整治形式主义为基层减负若干规定印发",
+        "onboard_time": 1754471724,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159545,
+        "num": 159545,
+        "word": "美女子外出庆生儿子被家中狗咬身亡",
+        "onboard_time": 1754469143,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155147,
+        "num": 155147,
+        "word": "最希望取消的社交礼仪",
+        "onboard_time": 1754471064,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153390,
+        "num": 153390,
+        "word": "终于有不瞎的古偶男主会看性别",
+        "onboard_time": 1754477065,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147950,
+        "num": 147950,
+        "word": "蒋奇明张艺凡吻张力拉满",
+        "onboard_time": 1754471844,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22011,
+        "num": 147875,
+        "word": "当韩国女演员遇上中剧服化妆造",
+        "onboard_time": 1754476823,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9866,
+        "num": 147862,
+        "word": "尚九熙何九华当年有多默契",
+        "onboard_time": 1754476945,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147861,
+        "num": 147861,
+        "word": "别让恋与深空的雷炸碎玩家心",
+        "onboard_time": 1754477183,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146513,
+        "num": 146513,
+        "word": "王楚然这个腰臀比太绝了吧",
+        "onboard_time": 1754463923,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144618,
+        "num": 144618,
+        "word": "谁家艺人直接在大街炫凉皮啊",
+        "onboard_time": 1754477303,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136023,
+        "num": 136023,
+        "word": "Flandre和Viper拍立得被偷",
+        "onboard_time": 1754477243,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135275,
+        "num": 135275,
+        "word": "樊振东回应张继科分享好苗子",
+        "onboard_time": 1754464162,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134590,
+        "num": 134590,
+        "word": "许嵩解释不继续巡演的原因",
+        "onboard_time": 1754473224,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166518,
+        "num": 131774,
+        "word": "赵露思说以前那样减肥没什么好处",
+        "onboard_time": 1754476345,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125215,
+        "num": 125215,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124789,
+        "num": 124789,
+        "word": "张若昀父亲被恢复执行3.5亿",
+        "onboard_time": 1754468303,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123408,
+        "num": 123408,
+        "word": "教体局称笔试17分进复审合法合规",
+        "onboard_time": 1754474544,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
