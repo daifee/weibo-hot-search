@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754480528989,
+  "endTime": 1754485170730,
   "band_list": [
     {
       "raw_hot": 7910146,
@@ -115,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1375829,
+      "num": 1375829,
+      "word": "锦月如歌",
+      "onboard_time": 1754440342,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1370358,
       "num": 517530,
       "word": "李明德锦月如歌换脸效果",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 980557,
-      "num": 396385,
+      "num": 564073,
       "word": "赵露思爸爸为了女儿漂发",
       "onboard_time": 1754473344,
       "rank": 14,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 712492,
+      "num": 712492,
+      "word": "南京照相馆上映日本网民跳脚",
+      "onboard_time": 1754476764,
+      "rank": 30,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 677333,
       "num": 677333,
       "word": "温州7岁男孩补习班坠楼身亡",
@@ -427,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559082,
+      "num": 404702,
+      "word": "南京照相馆炸出多少洗地党",
+      "onboard_time": 1754482822,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 556226,
       "num": 518244,
       "word": "时代峰峻演唱会文案 抄袭",
@@ -521,14 +545,6 @@
       "onboard_time": 1754408243,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 445237,
-      "num": 445237,
-      "word": "南京照相馆上映日本网民跳脚",
-      "onboard_time": 1754476764,
-      "rank": 30,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 426704,
@@ -659,11 +675,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 341176,
+      "num": 341176,
+      "word": "警方通报小区发生车祸致一死四伤",
+      "onboard_time": 1754479944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337788,
       "num": 337788,
       "word": "李飞是真把妹王",
       "onboard_time": 1754471425,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335842,
+      "num": 335842,
+      "word": "方媛孕肚生日照",
+      "onboard_time": 1754482883,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -681,6 +713,14 @@
       "onboard_time": 1754457623,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331815,
+      "num": 331815,
+      "word": "赵露思直播安利竹荪",
+      "onboard_time": 1754477783,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 331577,
@@ -753,6 +793,14 @@
       "onboard_time": 1754471425,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 308457,
+      "num": 308457,
+      "word": "秋天的第一杯奶茶花束又火了",
+      "onboard_time": 1754466683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301173,
@@ -843,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283398,
+      "num": 283398,
+      "word": "全新小鹏P7太高级了",
+      "onboard_time": 1754481924,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 278197,
       "num": 274842,
       "word": "陈奕迅因压力过大患上焦虑症",
@@ -931,20 +987,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257188,
+      "num": 257188,
+      "word": "5岁女童泳道内遭成年女子拍打",
+      "onboard_time": 1754481683,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257025,
       "num": 679809,
       "word": "整治形式主义为基层减负若干规定印发",
       "onboard_time": 1754471724,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 256402,
-      "num": 256402,
-      "word": "秋天的第一杯奶茶花束又火了",
-      "onboard_time": 1754466683,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252717,
@@ -971,11 +1027,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241362,
-      "num": 297776,
-      "word": "赵露思直播安利竹荪",
-      "onboard_time": 1754477783,
-      "rank": 17,
+      "raw_hot": 246590,
+      "num": 246590,
+      "word": "虞书欣 街机小霸王",
+      "onboard_time": 1754481683,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1001,6 +1057,22 @@
       "onboard_time": 1754475744,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232595,
+      "num": 232595,
+      "word": "锦月如歌 魔改",
+      "onboard_time": 1754484684,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 231476,
+      "num": 231476,
+      "word": "樊振东投资美国职业乒乓球大联盟",
+      "onboard_time": 1754484023,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 230566,
@@ -1107,12 +1179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218057,
+      "num": 343222,
+      "word": "明天立秋和夏天好好道个别",
+      "onboard_time": 1754476883,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217289,
       "num": 241475,
       "word": "警方通报女子制止男子抽烟反被掌掴",
       "onboard_time": 1754468182,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 217104,
+      "num": 217104,
+      "word": "锦月如歌云包场",
+      "onboard_time": 1754483723,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 215286,
@@ -1147,20 +1235,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206863,
+      "num": 206863,
+      "word": "鞠婧祎周也什么时候认识的",
+      "onboard_time": 1754483662,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206343,
       "num": 251168,
       "word": "时尚圈都在拍小鹏P7",
       "onboard_time": 1754476644,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 206215,
-      "num": 230555,
-      "word": "锦月如歌",
-      "onboard_time": 1754440342,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 206037,
@@ -1227,14 +1315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198091,
-      "num": 343222,
-      "word": "明天立秋和夏天好好道个别",
-      "onboard_time": 1754476883,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196969,
       "num": 196969,
       "word": "快递员入职2个月被罚光8000多工资",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1754453662,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193495,
+      "num": 193495,
+      "word": "赵露思直播时特意提到大粉的名字",
+      "onboard_time": 1754484922,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 192030,
@@ -1411,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171933,
+      "num": 171933,
+      "word": "陶白白再发文",
+      "onboard_time": 1754484264,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 171737,
       "num": 171737,
       "word": "男篮亚洲杯",
@@ -1489,6 +1585,14 @@
       "onboard_time": 1754394322,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161830,
+      "num": 161830,
+      "word": "沈春阳局促的美美桑内之母",
+      "onboard_time": 1754484684,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 161757,
@@ -1577,6 +1681,14 @@
       "onboard_time": 1754477065,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152983,
+      "num": 152983,
+      "word": "女子洗头因毛巾接触皮肤索赔",
+      "onboard_time": 1754481865,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152630,
@@ -1771,6 +1883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135397,
+      "num": 135397,
+      "word": "去了趟南极才明白旅行真的要趁早",
+      "onboard_time": 1754481504,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 135308,
       "num": 135308,
       "word": "原来这才是正确的洗头方法",
@@ -1785,6 +1905,14 @@
       "onboard_time": 1754464822,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134718,
+      "num": 134718,
+      "word": "银河酷娱再遭炮轰",
+      "onboard_time": 1754483303,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 134304,
@@ -1817,6 +1945,14 @@
       "onboard_time": 1754445201,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133345,
+      "num": 133345,
+      "word": "张真源话只听一半的后果",
+      "onboard_time": 1754484922,
+      "rank": 43,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 133085,
@@ -1875,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130389,
+      "num": 130389,
+      "word": "许昕晒娃",
+      "onboard_time": 1754480663,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129362,
       "num": 86871,
       "word": "滑翔伞操作员空中紧贴女游客被捕",
@@ -1923,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126487,
+      "num": 126487,
+      "word": "外国小伙怒斥日本丧心病狂",
+      "onboard_time": 1754480724,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126178,
       "num": 126178,
       "word": "25岁的我准备给45岁的爸妈交社保了",
@@ -1961,6 +2113,14 @@
       "onboard_time": 1754480241,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123567,
+      "num": 123567,
+      "word": "刘宇宁候场视角",
+      "onboard_time": 1754484264,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 123524,
@@ -2025,6 +2185,14 @@
       "onboard_time": 1754468004,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119830,
+      "num": 119830,
+      "word": "汪苏泷嘴角压不住了吧",
+      "onboard_time": 1754482883,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 119451,
@@ -2323,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94051,
+      "num": 148182,
+      "word": "美国小哥称日本人活该被炸",
+      "onboard_time": 1754484083,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93637,
       "num": 137829,
       "word": "佛山趁防疫清理被霸占公共空间",
@@ -2531,6 +2707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 73921,
+      "num": 283630,
+      "word": "小鹏P7把情绪价值拉满了",
+      "onboard_time": 1754483603,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73140,
       "num": 83156,
       "word": "赵露思说官司忙得打不过来",
@@ -2667,12 +2851,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 57178,
+      "num": 427371,
+      "word": "广州本次暴雨为本世纪以来第5强",
+      "onboard_time": 1754483062,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56278,
       "num": 83088,
       "word": "多人骑电单车夜闯医院走廊拍视频",
       "onboard_time": 1754414418,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55406,
+      "num": 206996,
+      "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
+      "onboard_time": 1754483783,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54808,
@@ -2819,6 +3019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29068,
+      "num": 283471,
+      "word": "内蒙古枪击案二审维持原判",
+      "onboard_time": 1754484143,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29020,
       "num": 29020,
       "word": "马库斯回应捐日军侵华照片",
@@ -2888,14 +3096,6 @@
       "word": "沈阳动物园 饲养员边抽烟边投喂",
       "onboard_time": 1754464883,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16713,
-      "num": 297527,
-      "word": "警方通报小区发生车祸致一死四伤",
-      "onboard_time": 1754479944,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
