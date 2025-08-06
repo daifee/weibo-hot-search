@@ -1,6 +1,6 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754437417285,
+  "endTime": 1754446441563,
   "band_list": [
     {
       "raw_hot": 2366610,
@@ -19,11 +19,51 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1314615,
+      "num": 880842,
+      "word": "王俊凯王源易烊千玺卡点",
+      "onboard_time": 1754437881,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1280642,
+      "num": 1280642,
+      "word": "披荆斩棘5定档",
+      "onboard_time": 1754443041,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1168536,
+      "num": 1168536,
+      "word": "782万彩票大奖1天后作废",
+      "onboard_time": 1754439862,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1042885,
       "num": 1042885,
       "word": "卫健委回应多人骑电单车夜闯医院走廊",
       "onboard_time": 1754408902,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 933204,
+      "num": 146637,
+      "word": "喜茶 Chiikawa",
+      "onboard_time": 1754444361,
+      "rank": 21,
+      "category": "美食,动漫"
+    },
+    {
+      "raw_hot": 879158,
+      "num": 879158,
+      "word": "笔试17分进复审教师招聘何以服众",
+      "onboard_time": 1754440162,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -115,12 +155,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353813,
-      "num": 353813,
+      "raw_hot": 415524,
+      "num": 415524,
+      "word": "明天就立秋了",
+      "onboard_time": 1754440943,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388745,
+      "num": 388745,
       "word": "女性在生理期不能运动系谣言",
       "onboard_time": 1754433617,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 385692,
+      "num": 385692,
+      "word": "何九华 尚九熙",
+      "onboard_time": 1754439562,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372698,
+      "num": 372698,
+      "word": "为保八路军孩子她交出了自己孩子",
+      "onboard_time": 1754442082,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353548,
@@ -129,6 +193,14 @@
       "onboard_time": 1754405065,
       "rank": 5,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 334926,
+      "num": 334926,
+      "word": "胡歌出镜确认是真的袁弘",
+      "onboard_time": 1754436439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 331536,
@@ -171,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252415,
+      "num": 252415,
+      "word": "韩国羽协指责陈雨菲",
+      "onboard_time": 1754440403,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247744,
       "num": 230172,
       "word": "房主任哽咽呼吁大家不要买黄牛票",
@@ -180,7 +260,7 @@
     },
     {
       "raw_hot": 237101,
-      "num": 199533,
+      "num": 212898,
       "word": "夫妻离婚分鸡多出一只被判吃掉再离",
       "onboard_time": 1754417056,
       "rank": 13,
@@ -235,12 +315,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202120,
-      "num": 198098,
-      "word": "胡歌出镜确认是真的袁弘",
-      "onboard_time": 1754436439,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 191258,
+      "num": 191258,
+      "word": "特斯拉欧洲销量崩了",
+      "onboard_time": 1754444300,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 189007,
+      "num": 189007,
+      "word": "披荆斩棘",
+      "onboard_time": 1754436500,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186026,
@@ -323,12 +411,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140483,
+      "num": 337142,
+      "word": "女子拒付搬运工坐地起价被堵锁眼",
+      "onboard_time": 1754442682,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133377,
+      "num": 133377,
+      "word": "日本广岛大学再发现疑似未爆弹",
+      "onboard_time": 1754445621,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133085,
       "num": 133085,
       "word": "TF四代见面会联排合照",
       "onboard_time": 1754410942,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132078,
+      "num": 132078,
+      "word": "董璇带小酒窝参加东极岛首映礼",
+      "onboard_time": 1754443520,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 129362,
@@ -347,12 +459,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125913,
+      "num": 125913,
+      "word": "浙大青年博导坠楼真相是什么",
+      "onboard_time": 1754444720,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125791,
+      "num": 125791,
+      "word": "毕业半年换11份工作的真实感受",
+      "onboard_time": 1754441123,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124396,
       "num": 124396,
       "word": "男子卖4根金条6张银行卡被封",
       "onboard_time": 1754391983,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123352,
+      "num": 123352,
+      "word": "5岁小孩哥算数全程游离结果全对",
+      "onboard_time": 1754443341,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116582,
+      "num": 116582,
+      "word": "广岛原子弹爆炸80周年",
+      "onboard_time": 1754446160,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112743,
+      "num": 112743,
+      "word": "以为上班久了会熟悉工作",
+      "onboard_time": 1754442922,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112626,
+      "num": 118683,
+      "word": "蔡徐坤说找到他的新伴唱了",
+      "onboard_time": 1754443520,
+      "rank": 29,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 111818,
@@ -369,6 +529,22 @@
       "onboard_time": 1754395823,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109966,
+      "num": 109966,
+      "word": "成都世运会开赛",
+      "onboard_time": 1754445441,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109756,
+      "num": 109756,
+      "word": "BLACKPINK入围VMA奖项提名",
+      "onboard_time": 1754441722,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 109405,
@@ -395,12 +571,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106676,
+      "num": 106676,
+      "word": "时代少年团上海站严于以往任何场次",
+      "onboard_time": 1754445201,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106382,
       "num": 110019,
       "word": "免除公办幼儿园学前1年保教费",
       "onboard_time": 1754384963,
       "rank": 28,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 105984,
+      "num": 105984,
+      "word": "全红婵巴黎奥运夺金一周年",
+      "onboard_time": 1754444601,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 105811,
@@ -411,11 +603,43 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104913,
+      "num": 104913,
+      "word": "第一次对别人的家有这么大占有欲",
+      "onboard_time": 1754439082,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100736,
+      "num": 100736,
+      "word": "三小只顶峰相见",
+      "onboard_time": 1754440703,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96732,
       "num": 96732,
       "word": "巴厘岛快艇倾覆2名中国公民遇难",
       "onboard_time": 1754404044,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96410,
+      "num": 96410,
+      "word": "锦月如歌",
+      "onboard_time": 1754440342,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93984,
+      "num": 93984,
+      "word": "重庆下暴雨了但没下在中心城区",
+      "onboard_time": 1754443161,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -427,6 +651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89900,
+      "num": 89900,
+      "word": "再见爱人1真是封神",
+      "onboard_time": 1754436622,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89359,
+      "num": 89359,
+      "word": "猫 冰箱冻手不能摸",
+      "onboard_time": 1754445201,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88817,
       "num": 88817,
       "word": "孔雪儿新剧妆造必有高人指点",
@@ -435,12 +675,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87521,
+      "num": 87521,
+      "word": "炉石传说",
+      "onboard_time": 1754445921,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 87484,
+      "num": 87484,
+      "word": "中国舰载机在持续上新",
+      "onboard_time": 1754445140,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86798,
       "num": 86798,
       "word": "宋亚轩中学时期合照",
       "onboard_time": 1754401343,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85820,
+      "num": 85820,
+      "word": "贵州千户苗寨景区观光车失控撞路边",
+      "onboard_time": 1754438841,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85419,
@@ -467,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81871,
+      "num": 81871,
+      "word": "天呐这就是小狗咪吧",
+      "onboard_time": 1754446041,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79439,
       "num": 79439,
       "word": "深铁向万科提供不超过16.81亿元借款",
@@ -491,28 +763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78773,
-      "num": 78773,
-      "word": "再见爱人1真是封神",
-      "onboard_time": 1754436622,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78316,
       "num": 78316,
       "word": "吴艳妮世界排名落至31位",
       "onboard_time": 1754436259,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77845,
-      "num": 77845,
-      "word": "披荆斩棘",
-      "onboard_time": 1754436500,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 77411,
@@ -756,7 +1012,7 @@
     },
     {
       "raw_hot": 11201,
-      "num": 514487,
+      "num": 882181,
       "word": "大河奔涌万象新",
       "onboard_time": 1754383345,
       "rank": 2,
