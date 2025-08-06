@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754506563728,
+  "endTime": 1754508354718,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -179,19 +179,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148747,
+      "num": 148747,
+      "word": "7个月女儿被哥哥杀害弟弟要求重判",
+      "onboard_time": 1754501778,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148494,
       "num": 148494,
       "word": "女生曝打暑假工被猥亵因无监控求助",
       "onboard_time": 1754498300,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146926,
-      "num": 146926,
-      "word": "7个月女儿被哥哥杀害弟弟要求重判",
-      "onboard_time": 1754501778,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -491,6 +491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29907,
+      "num": 29907,
+      "word": "锦月如歌原著",
+      "onboard_time": 1754507415,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26920,
       "num": 106508,
       "word": "日本一星期超9500人中暑被送医",
@@ -521,6 +529,22 @@
       "onboard_time": 1754503818,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17755,
+      "num": 24665,
+      "word": "日军轰炸后废墟上哭泣的孩子",
+      "onboard_time": 1754506754,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12879,
+      "num": 54818,
+      "word": "广西小伙在云南旅游连救2人",
+      "onboard_time": 1754506695,
+      "rank": 10,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
