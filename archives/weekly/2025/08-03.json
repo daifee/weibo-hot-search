@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754488776531,
+  "endTime": 1754490713344,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -723,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1187670,
+      "num": 1187670,
+      "word": "不二之臣",
+      "onboard_time": 1754487924,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1168536,
       "num": 1168536,
       "word": "782万彩票大奖1天后作废",
@@ -1123,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 830940,
+      "num": 538266,
+      "word": "昀牵孟绕",
+      "onboard_time": 1754489905,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829480,
       "num": 599135,
       "word": "衣服都脱了你俩拍打戏",
@@ -1347,6 +1363,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 704742,
+      "num": 509737,
+      "word": "赵露思直播时特意提到大粉的名字",
+      "onboard_time": 1754484922,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703936,
       "num": 703936,
       "word": "易烊千玺像大祭司一样隆重出场了",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1754183242,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 668251,
+      "num": 379753,
+      "word": "银河酷娱向张芷溪发律师函",
+      "onboard_time": 1754489966,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 661518,
@@ -2315,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463603,
+      "num": 463603,
+      "word": "男子送车内死亡3天司机回家",
+      "onboard_time": 1754485584,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463279,
       "num": 463279,
       "word": "广西梧州一居民楼发生火灾致5死",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1754312664,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 445869,
-      "num": 367037,
-      "word": "赵露思直播时特意提到大粉的名字",
-      "onboard_time": 1754484922,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 444551,
@@ -2803,20 +2835,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378275,
-      "num": 335875,
-      "word": "男子送车内死亡3天司机回家",
-      "onboard_time": 1754485584,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 377417,
       "num": 286699,
       "word": "长期睡眠不足的人有7个表现",
       "onboard_time": 1754401283,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 376271,
+      "num": 376271,
+      "word": "iG对战AL",
+      "onboard_time": 1754486664,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 375923,
@@ -3339,6 +3371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 302176,
+      "num": 377166,
+      "word": "新疆一景区网红桥绳断多名游客落水",
+      "onboard_time": 1754488524,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 301729,
       "num": 296570,
       "word": "李晟 女驸马",
@@ -3635,6 +3675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276659,
+      "num": 343222,
+      "word": "明天立秋和夏天好好道个别",
+      "onboard_time": 1754476883,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275658,
       "num": 246329,
       "word": "贾玲股四头肌",
@@ -3851,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258140,
+      "num": 258140,
+      "word": "锦月如歌热度",
+      "onboard_time": 1754488044,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258076,
       "num": 258076,
       "word": "林则徐棉花娃",
@@ -4051,14 +4107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244403,
-      "num": 244403,
-      "word": "不二之臣",
-      "onboard_time": 1754487924,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244311,
       "num": 244311,
       "word": "光遇",
@@ -4241,14 +4289,6 @@
       "onboard_time": 1754235325,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230942,
-      "num": 239685,
-      "word": "锦月如歌热度",
-      "onboard_time": 1754488044,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 230120,
@@ -4497,14 +4537,6 @@
       "onboard_time": 1754452522,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218057,
-      "num": 343222,
-      "word": "明天立秋和夏天好好道个别",
-      "onboard_time": 1754476883,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217289,
@@ -8555,6 +8587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128456,
+      "num": 128456,
+      "word": "北京大雨",
+      "onboard_time": 1754489724,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128410,
       "num": 157345,
       "word": "倪妮回应跳海戏不戴威亚",
@@ -9627,14 +9667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115990,
-      "num": 115990,
-      "word": "iG对战AL",
-      "onboard_time": 1754486664,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 115680,
       "num": 142449,
       "word": "以色列女兵自拍时被火箭弹击中",
@@ -10193,14 +10225,6 @@
       "onboard_time": 1754483603,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 108295,
-      "num": 108295,
-      "word": "新疆一景区网红桥绳断多名游客落水",
-      "onboard_time": 1754488524,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 108187,
@@ -11131,6 +11155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91049,
+      "num": 106334,
+      "word": "再看水花消失术依然惊艳",
+      "onboard_time": 1754490626,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90938,
       "num": 90938,
       "word": "重温樊振东超燃奥运夺冠之路",
@@ -11209,6 +11241,14 @@
       "onboard_time": 1754188041,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89131,
+      "num": 89131,
+      "word": "农行登顶A股市值冠军",
+      "onboard_time": 1754487864,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 89124,
@@ -12011,6 +12051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68485,
+      "num": 158010,
+      "word": "广州一医院厕所一开门就放交响乐",
+      "onboard_time": 1754488884,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68268,
       "num": 123724,
       "word": "上海迪士尼偶遇了周也",
@@ -12337,6 +12385,14 @@
       "onboard_time": 1754233286,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56580,
+      "num": 321925,
+      "word": "中考669分却选择上职校",
+      "onboard_time": 1754488884,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 56278,
