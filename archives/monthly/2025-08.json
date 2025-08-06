@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754490713344,
+  "endTime": 1754491946910,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1574829,
+      "num": 1574829,
+      "word": "银河酷娱向张芷溪发律师函",
+      "onboard_time": 1754489966,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1568459,
       "num": 1568459,
       "word": "怎么不等微信下架再告诉我",
@@ -683,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1440178,
+      "num": 1440178,
+      "word": "不二之臣",
+      "onboard_time": 1754487924,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1438775,
       "num": 437323,
       "word": "面馆老板回应赵露思直播后爆单",
       "onboard_time": 1754306303,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1423839,
+      "num": 538266,
+      "word": "昀牵孟绕",
+      "onboard_time": 1754489905,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1401019,
@@ -968,14 +992,6 @@
       "word": "肖战 小城良方",
       "onboard_time": 1754229686,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1187670,
-      "num": 1187670,
-      "word": "不二之臣",
-      "onboard_time": 1754487924,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1595,14 +1611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 830940,
-      "num": 538266,
-      "word": "昀牵孟绕",
-      "onboard_time": 1754489905,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 829480,
       "num": 599135,
       "word": "衣服都脱了你俩拍打戏",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1754183242,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 668251,
-      "num": 379753,
-      "word": "银河酷娱向张芷溪发律师函",
-      "onboard_time": 1754489966,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 661518,
@@ -2891,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532780,
+      "num": 532780,
+      "word": "新疆一景区网红桥绳断多名游客落水",
+      "onboard_time": 1754488524,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 532120,
       "num": 532120,
       "word": "抓100个老婆视频博主被罚",
@@ -3457,6 +3465,14 @@
       "onboard_time": 1754051602,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450391,
+      "num": 403037,
+      "word": "赵露思让商家不要再找她了",
+      "onboard_time": 1754490685,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 449604,
@@ -4921,14 +4937,6 @@
       "onboard_time": 1754481924,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 302176,
-      "num": 377166,
-      "word": "新疆一景区网红桥绳断多名游客落水",
-      "onboard_time": 1754488524,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 301892,
@@ -8579,6 +8587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185771,
+      "num": 185771,
+      "word": "北京大雨",
+      "onboard_time": 1754489724,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185667,
       "num": 200078,
       "word": "陈梦秀英语初学小成果",
@@ -8705,6 +8721,14 @@
       "onboard_time": 1754377104,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183544,
+      "num": 183544,
+      "word": "苍兰诀",
+      "onboard_time": 1754491706,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 183428,
@@ -10796,7 +10820,7 @@
     },
     {
       "raw_hot": 153924,
-      "num": 1212658,
+      "num": 1465281,
       "word": "网友偶遇国旗护卫队训练被帅到",
       "onboard_time": 1754465662,
       "rank": 31,
@@ -11515,6 +11539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 146607,
+      "num": 146607,
+      "word": "崔秀彬 刀马刀马",
+      "onboard_time": 1754490985,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146594,
       "num": 156245,
       "word": "印乐大师接掌后的少林寺",
@@ -11761,6 +11793,14 @@
       "onboard_time": 1754229265,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143813,
+      "num": 143813,
+      "word": "章若楠假刘海",
+      "onboard_time": 1754491166,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 143600,
@@ -13331,6 +13371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130026,
+      "num": 130026,
+      "word": "黄明昊唱了时代少年团的姐姐真漂亮",
+      "onboard_time": 1754491345,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129880,
       "num": 129880,
       "word": "定风波今日开播",
@@ -13489,14 +13537,6 @@
       "onboard_time": 1754224345,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128456,
-      "num": 128456,
-      "word": "北京大雨",
-      "onboard_time": 1754489724,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128410,
@@ -14289,6 +14329,14 @@
       "onboard_time": 1754403503,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122530,
+      "num": 458521,
+      "word": "狗群闯入养鸡场咬死600只鸡",
+      "onboard_time": 1754491166,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122428,
@@ -15779,6 +15827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109568,
+      "num": 206996,
+      "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
+      "onboard_time": 1754483783,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109355,
       "num": 270819,
       "word": "河南下达2.6亿元抗旱保秋",
@@ -15881,6 +15937,14 @@
       "onboard_time": 1754436079,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107682,
+      "num": 107682,
+      "word": "甲状腺癌的致病因素",
+      "onboard_time": 1754491526,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107631,
@@ -16065,14 +16129,6 @@
       "onboard_time": 1754234186,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105110,
-      "num": 206996,
-      "word": "巴西44岁CEO跳伞发生空中撞击坠亡",
-      "onboard_time": 1754483783,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 105014,
@@ -16665,6 +16721,14 @@
       "onboard_time": 1754220804,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97753,
+      "num": 97753,
+      "word": "gala好强",
+      "onboard_time": 1754491526,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 97706,
@@ -17417,6 +17481,14 @@
       "onboard_time": 1754192667,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87834,
+      "num": 87834,
+      "word": "Bsh1比过秃子",
+      "onboard_time": 1754491825,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 87783,
