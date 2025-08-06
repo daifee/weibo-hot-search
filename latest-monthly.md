@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/07 05:41:46
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/07 06:29:00
 </p>
 </blockquote>
 <p>
@@ -4863,6 +4863,12 @@ by2说要勇于撇清关系（热度：231018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%237%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%93%A5%E5%93%A5%E6%9D%80%E5%AE%B3%E5%BC%9F%E5%BC%9F%E8%A6%81%E6%B1%82%E9%87%8D%E5%88%A4%23" target="weibo">
+7个月女儿被哥哥杀害弟弟要求重判（热度：228677）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E8%8F%B2%E6%9E%97%E6%96%AF%23" target="weibo">
 原神菲林斯（热度：228335）
 </a>
@@ -6005,12 +6011,6 @@ INTO万TOP斗舞（热度：196924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%AE%87%E6%B6%B5%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 余宇涵演唱会（热度：196374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E5%85%83%E6%B0%94%E5%AD%A6%E5%A7%90%E9%A3%8E%23" target="weibo">
-热巴元气学姐风（热度：196322）
 </a>
 </li>
 
