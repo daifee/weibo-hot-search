@@ -1,0 +1,410 @@
+{
+  "runTime": 1754476301106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7910146,
+        "num": 7910146,
+        "word": "陶白白官宣离婚",
+        "onboard_time": 1754471964,
+        "rank": 0,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 1776153,
+        "num": 1776153,
+        "word": "美团 霸王茶姬",
+        "onboard_time": 1754470703,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25933,
+        "num": 1466843,
+        "word": "我们都替他看到了可爱的中国",
+        "onboard_time": 1754447960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1383194,
+        "num": 1383194,
+        "word": "网红刘大悦患甲状腺癌",
+        "onboard_time": 1754472024,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 785668,
+        "num": 785668,
+        "word": "北大录取通知书被指有语句问题",
+        "onboard_time": 1754473644,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722319,
+        "num": 722319,
+        "word": "肆意生花 华策",
+        "onboard_time": 1754464943,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 550780,
+        "num": 550780,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503982,
+        "num": 503982,
+        "word": "韩网再宣称汉服是学韩国的",
+        "onboard_time": 1754470764,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 373499,
+        "num": 373499,
+        "word": "温州7岁男孩补习班坠楼身亡",
+        "onboard_time": 1754468723,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321344,
+        "num": 321344,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1052188,
+        "num": 321118,
+        "word": "何猷君前女友晒娃",
+        "onboard_time": 1754471243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809175,
+        "num": 320487,
+        "word": "赵露思爸爸为了女儿漂发",
+        "onboard_time": 1754473344,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644772,
+        "num": 320402,
+        "word": "汪苏泷腹肌",
+        "onboard_time": 1754474245,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318268,
+        "num": 318268,
+        "word": "李明德锦月如歌换脸效果",
+        "onboard_time": 1754460442,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344881,
+        "num": 314063,
+        "word": "肆意生花版权",
+        "onboard_time": 1754469983,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288235,
+        "num": 288235,
+        "word": "微信内存一下子就少了10G",
+        "onboard_time": 1754463741,
+        "rank": 15,
+        "category": "互联网,互联网"
+      },
+      {
+        "raw_hot": 45207,
+        "num": 267009,
+        "word": "交大专家大赞MG4打破特斯拉专利",
+        "onboard_time": 1754472263,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 256402,
+        "num": 256402,
+        "word": "秋天的第一杯奶茶花束又火了",
+        "onboard_time": 1754466683,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249837,
+        "num": 249837,
+        "word": "韩国人感谢中国网红提高食堂质量",
+        "onboard_time": 1754471425,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243032,
+        "num": 243032,
+        "word": "李飞是真把妹王",
+        "onboard_time": 1754471425,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247811,
+        "num": 233335,
+        "word": "22厘米子宫肌瘤钻进40岁女子心脏",
+        "onboard_time": 1754469023,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222613,
+        "num": 222613,
+        "word": "杨幂1986年魔童降世",
+        "onboard_time": 1754465603,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207149,
+        "num": 207149,
+        "word": "整治形式主义为基层减负若干规定印发",
+        "onboard_time": 1754471724,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133432,
+        "num": 201112,
+        "word": "教体局称笔试17分进复审合法合规",
+        "onboard_time": 1754474544,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46666,
+        "num": 198192,
+        "word": "日本刷新高温纪录",
+        "onboard_time": 1754470644,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197759,
+        "num": 197759,
+        "word": "二婚夫妻办假离婚结果就男方信了",
+        "onboard_time": 1754475685,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193059,
+        "num": 193059,
+        "word": "美女子外出庆生儿子被家中狗咬身亡",
+        "onboard_time": 1754469143,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190046,
+        "num": 190046,
+        "word": "赵露思直播回应代言瓜",
+        "onboard_time": 1754472143,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187855,
+        "num": 187855,
+        "word": "最希望取消的社交礼仪",
+        "onboard_time": 1754471064,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176746,
+        "num": 176746,
+        "word": "披荆斩棘",
+        "onboard_time": 1754476163,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181934,
+        "num": 174519,
+        "word": "坠楼7岁男孩母亲哭诉42岁才生的他",
+        "onboard_time": 1754471425,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69825,
+        "num": 166193,
+        "word": "粉红色版长江是中国人的浪漫",
+        "onboard_time": 1754474905,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166192,
+        "num": 166192,
+        "word": "陶白白和前妻各自已有新的感情",
+        "onboard_time": 1754476104,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 164135,
+        "num": 164135,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158370,
+        "num": 158370,
+        "word": "多地新聘教师遭学校单方面毁约",
+        "onboard_time": 1754475744,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155222,
+        "num": 155222,
+        "word": "樊振东回应张继科分享好苗子",
+        "onboard_time": 1754464162,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153718,
+        "num": 153718,
+        "word": "蒋奇明张艺凡吻张力拉满",
+        "onboard_time": 1754471844,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147332,
+        "num": 147332,
+        "word": "王楚然这个腰臀比太绝了吧",
+        "onboard_time": 1754463923,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63975,
+        "num": 144697,
+        "word": "许光汉今天退伍",
+        "onboard_time": 1754465063,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45213,
+        "num": 144667,
+        "word": "方时赫道歉信",
+        "onboard_time": 1754475744,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144664,
+        "num": 144664,
+        "word": "比生娃还痛的蛇缠腰",
+        "onboard_time": 1754469923,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143761,
+        "num": 143761,
+        "word": "献鱼 没惹任何人",
+        "onboard_time": 1754469502,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141171,
+        "num": 141171,
+        "word": "张若昀父亲被恢复执行3.5亿",
+        "onboard_time": 1754468303,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138755,
+        "num": 138755,
+        "word": "许嵩解释不继续巡演的原因",
+        "onboard_time": 1754473224,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116410,
+        "num": 130151,
+        "word": "韩国歌手李敏去世",
+        "onboard_time": 1754467643,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130146,
+        "num": 130146,
+        "word": "歌王之战帮唱嘉宾官宣",
+        "onboard_time": 1754454745,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130050,
+        "num": 130050,
+        "word": "瑞鹤娱乐秒删",
+        "onboard_time": 1754457082,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127684,
+        "num": 127684,
+        "word": "郑钧为了陈楚生这周可忙坏了",
+        "onboard_time": 1754473765,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117635,
+        "num": 117635,
+        "word": "花698在迪士尼买了一个盲袋",
+        "onboard_time": 1754468004,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110198,
+        "num": 110198,
+        "word": "七八月的时候不要轻易离职",
+        "onboard_time": 1754474724,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}
