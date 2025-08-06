@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/07 01:29:09
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/07 01:47:48
 </p>
 </blockquote>
 <p>
@@ -3957,6 +3957,12 @@ Chinajoy（热度：295472）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%A7%80%E6%89%8D%E7%96%91%E4%BC%BC%E5%80%9F%E5%A3%B3%E5%A4%8D%E5%87%BA%23" target="weibo">
+网红秀才疑似借壳复出（热度：290879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E5%8C%96%E5%8F%91%E8%A8%80%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%A5%BD%E5%A4%84%23" target="weibo">
 情绪化发言没有任何好处（热度：290713）
 </a>
@@ -6005,12 +6011,6 @@ INTO万TOP斗舞（热度：196924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E5%85%83%E6%B0%94%E5%AD%A6%E5%A7%90%E9%A3%8E%23" target="weibo">
 热巴元气学姐风（热度：196322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BDcoser%E5%88%B0%E4%B8%8A%E6%B5%B7%E4%BA%86%23" target="weibo">
-韩国coser到上海了（热度：196151）
 </a>
 </li>
 

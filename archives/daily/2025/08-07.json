@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754501349630,
+  "endTime": 1754502468658,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290879,
+      "num": 290879,
+      "word": "网红秀才疑似借壳复出",
+      "onboard_time": 1754499019,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 270530,
       "num": 270530,
       "word": "陶白白",
@@ -163,20 +171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168722,
-      "num": 168722,
-      "word": "网红秀才疑似借壳复出",
-      "onboard_time": 1754499019,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 151597,
       "num": 151597,
       "word": "何猷君前女友晒娃",
       "onboard_time": 1754471243,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148494,
+      "num": 148494,
+      "word": "女生曝打暑假工被猥亵因无监控求助",
+      "onboard_time": 1754498300,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144670,
@@ -249,14 +257,6 @@
       "onboard_time": 1754472084,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107941,
-      "num": 107941,
-      "word": "女生曝打暑假工被猥亵因无监控求助",
-      "onboard_time": 1754498300,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106081,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68303,
+      "num": 68303,
+      "word": "7个月女儿被哥哥杀害弟弟要求重判",
+      "onboard_time": 1754501778,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67372,
       "num": 67372,
       "word": "曝沈玉琳患血癌",
@@ -435,12 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45378,
-      "num": 49436,
+      "raw_hot": 52685,
+      "num": 52685,
       "word": "胖东来员工回应月入9千",
       "onboard_time": 1754500937,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37967,
+      "num": 39199,
+      "word": "锦月如歌重生改成假死",
+      "onboard_time": 1754501537,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 35633,
@@ -449,6 +465,14 @@
       "onboard_time": 1754496084,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31708,
+      "num": 39187,
+      "word": "韩国婆婆做饭全家吃泡菜",
+      "onboard_time": 1754486544,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18601,
