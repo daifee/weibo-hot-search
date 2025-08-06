@@ -1,0 +1,410 @@
+{
+  "runTime": 1754505615083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 321912,
+        "num": 321912,
+        "word": "苍兰诀",
+        "onboard_time": 1754491706,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264650,
+        "num": 264650,
+        "word": "江苏首富24岁儿子拟任董事",
+        "onboard_time": 1754497101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6973,
+        "num": 258131,
+        "word": "网友偶遇国旗护卫队训练被帅到",
+        "onboard_time": 1754465662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257691,
+        "num": 257691,
+        "word": "网红秀才疑似借壳复出",
+        "onboard_time": 1754499019,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148400,
+        "num": 148400,
+        "word": "丁肇忠去世",
+        "onboard_time": 1754495124,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138731,
+        "num": 138731,
+        "word": "Zara广告因模特太瘦被禁",
+        "onboard_time": 1754486422,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159498,
+        "num": 135253,
+        "word": "银河酷娱向张芷溪发律师函",
+        "onboard_time": 1754489966,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130090,
+        "num": 130090,
+        "word": "7个月女儿被哥哥杀害弟弟要求重判",
+        "onboard_time": 1754501778,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119465,
+        "num": 119465,
+        "word": "女生曝打暑假工被猥亵因无监控求助",
+        "onboard_time": 1754498300,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24046,
+        "num": 106508,
+        "word": "日本一星期超9500人中暑被送医",
+        "onboard_time": 1754503937,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125061,
+        "num": 102473,
+        "word": "进猫咖虐猫致死的女子自称心情不好",
+        "onboard_time": 1754494525,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96129,
+        "num": 96129,
+        "word": "昀牵孟绕",
+        "onboard_time": 1754489905,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90570,
+        "num": 90570,
+        "word": "美团 霸王茶姬",
+        "onboard_time": 1754470703,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90008,
+        "num": 90008,
+        "word": "赵露思让商家不要再找她了",
+        "onboard_time": 1754490685,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82498,
+        "num": 82498,
+        "word": "陶白白",
+        "onboard_time": 1754493745,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82154,
+        "num": 82154,
+        "word": "樊振东新身份加入美国职业乒乓联赛",
+        "onboard_time": 1754492183,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74409,
+        "num": 74409,
+        "word": "锦月如歌 魔改",
+        "onboard_time": 1754484684,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67055,
+        "num": 67055,
+        "word": "新疆一景区网红桥绳断多名游客落水",
+        "onboard_time": 1754488524,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 63414,
+        "num": 63414,
+        "word": "不二之臣",
+        "onboard_time": 1754487924,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56954,
+        "num": 56954,
+        "word": "南京照相馆上映日本网民跳脚",
+        "onboard_time": 1754476764,
+        "rank": 19,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 55672,
+        "num": 55672,
+        "word": "胖东来员工回应月入9千",
+        "onboard_time": 1754500937,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49188,
+        "num": 49188,
+        "word": "网红刘大悦患甲状腺癌",
+        "onboard_time": 1754472024,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 46654,
+        "num": 46654,
+        "word": "韩亿要起诉郑燕姿",
+        "onboard_time": 1754503397,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 46372,
+        "num": 46372,
+        "word": "专家建议10岁开始存养老钱最划算",
+        "onboard_time": 1754492365,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44796,
+        "num": 44796,
+        "word": "锦月如歌",
+        "onboard_time": 1754472084,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43576,
+        "num": 43576,
+        "word": "陶白白再发文",
+        "onboard_time": 1754484264,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42550,
+        "num": 42550,
+        "word": "特朗普将对印度商品额外加征25%关税",
+        "onboard_time": 1754496743,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39232,
+        "num": 39232,
+        "word": "何猷君前女友晒娃",
+        "onboard_time": 1754471243,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38059,
+        "num": 38059,
+        "word": "15天前张芷溪还是献鱼的出品方",
+        "onboard_time": 1754500338,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32471,
+        "num": 37085,
+        "word": "警方提示千万别下载这两个软件",
+        "onboard_time": 1754492545,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37050,
+        "num": 37050,
+        "word": "女子虐猫致4死2伤是否违法",
+        "onboard_time": 1754492424,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36527,
+        "num": 36527,
+        "word": "湖南卫视又考古孟子义了",
+        "onboard_time": 1754496503,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36310,
+        "num": 36310,
+        "word": "崔秀彬 刀马刀马",
+        "onboard_time": 1754490985,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35953,
+        "num": 35953,
+        "word": "李兰迪敖瑞鹏或二搭不二之臣",
+        "onboard_time": 1754492603,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35059,
+        "num": 35059,
+        "word": "男子送车内死亡3天司机回家",
+        "onboard_time": 1754485584,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33806,
+        "num": 33806,
+        "word": "5岁女童泳道内遭成年女子拍打",
+        "onboard_time": 1754481683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33676,
+        "num": 33676,
+        "word": "江苏首富之子拟任400亿市值公司董事",
+        "onboard_time": 1754494644,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31711,
+        "num": 31711,
+        "word": "明天立秋和夏天好好道个别",
+        "onboard_time": 1754476883,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31258,
+        "num": 31258,
+        "word": "韩国婆婆做饭全家吃泡菜",
+        "onboard_time": 1754486544,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31127,
+        "num": 31127,
+        "word": "桂林卫健委回应产检绿灯生唇腭裂儿",
+        "onboard_time": 1754504475,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30218,
+        "num": 30218,
+        "word": "锦月如歌爆改大男主复仇",
+        "onboard_time": 1754489243,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29519,
+        "num": 29519,
+        "word": "iG对战AL",
+        "onboard_time": 1754486664,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28705,
+        "num": 28705,
+        "word": "南京照相馆被污蔑话术好一致",
+        "onboard_time": 1754497222,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27646,
+        "num": 27646,
+        "word": "赵露思直播时特意提到大粉的名字",
+        "onboard_time": 1754484922,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27464,
+        "num": 27464,
+        "word": "卢远王乐晨好嗑",
+        "onboard_time": 1754493984,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26305,
+        "num": 27461,
+        "word": "库迪卡车撞进茶颜门店",
+        "onboard_time": 1754495901,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25863,
+        "num": 27455,
+        "word": "章家敦叫嚣对华加征600%关税",
+        "onboard_time": 1754492603,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24603,
+        "num": 27449,
+        "word": "神印王座动画",
+        "onboard_time": 1754496743,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 23625,
+        "num": 27445,
+        "word": "丞磊新剧再现看垃圾的眼神",
+        "onboard_time": 1754503696,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23249,
+        "num": 27440,
+        "word": "章若楠假刘海",
+        "onboard_time": 1754491166,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大食物观里的人民情怀#"
+    }
+  }
+}

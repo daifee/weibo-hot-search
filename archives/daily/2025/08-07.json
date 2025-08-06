@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754502468658,
+  "endTime": 1754505615083,
   "band_list": [
     {
       "raw_hot": 1839250,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130090,
+      "num": 130090,
+      "word": "7个月女儿被哥哥杀害弟弟要求重判",
+      "onboard_time": 1754501778,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129304,
       "num": 129304,
       "word": "湖南卫视又考古孟子义了",
@@ -403,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68303,
-      "num": 68303,
-      "word": "7个月女儿被哥哥杀害弟弟要求重判",
-      "onboard_time": 1754501778,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67372,
       "num": 67372,
       "word": "曝沈玉琳患血癌",
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55672,
+      "num": 55672,
+      "word": "胖东来员工回应月入9千",
+      "onboard_time": 1754500937,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54712,
       "num": 54712,
       "word": "黄明昊唱了时代少年团的姐姐真漂亮",
@@ -443,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52685,
-      "num": 52685,
-      "word": "胖东来员工回应月入9千",
-      "onboard_time": 1754500937,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 46654,
+      "num": 46654,
+      "word": "韩亿要起诉郑燕姿",
+      "onboard_time": 1754503397,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 37967,
@@ -473,6 +481,30 @@
       "onboard_time": 1754486544,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31127,
+      "num": 31127,
+      "word": "桂林卫健委回应产检绿灯生唇腭裂儿",
+      "onboard_time": 1754504475,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24046,
+      "num": 106508,
+      "word": "日本一星期超9500人中暑被送医",
+      "onboard_time": 1754503937,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23625,
+      "num": 27445,
+      "word": "丞磊新剧再现看垃圾的眼神",
+      "onboard_time": 1754503696,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 18601,
