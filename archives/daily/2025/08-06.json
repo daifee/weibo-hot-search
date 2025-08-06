@@ -1,7 +1,15 @@
 {
   "startTime": 1754411447597,
-  "endTime": 1754458625138,
+  "endTime": 1754459685147,
   "band_list": [
+    {
+      "raw_hot": 3521817,
+      "num": 3521817,
+      "word": "张芷溪喊话银河酷娱履约",
+      "onboard_time": 1754457143,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2911323,
       "num": 2911323,
@@ -9,14 +17,6 @@
       "onboard_time": 1754453542,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2638562,
-      "num": 2638562,
-      "word": "张芷溪喊话银河酷娱履约",
-      "onboard_time": 1754457143,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2471479,
@@ -169,6 +169,14 @@
       "onboard_time": 1754451142,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740753,
+      "num": 406730,
+      "word": "张芷溪原本找赵露思演献鱼",
+      "onboard_time": 1754458103,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 734490,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386332,
+      "num": 386332,
+      "word": "时代峰峻回应文案抄袭",
+      "onboard_time": 1754457923,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 385692,
       "num": 385692,
       "word": "何九华 尚九熙",
@@ -387,20 +403,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 347669,
-      "num": 256812,
-      "word": "张芷溪原本找赵露思演献鱼",
-      "onboard_time": 1754458103,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 334926,
       "num": 334926,
       "word": "胡歌出镜确认是真的袁弘",
       "onboard_time": 1754436439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334155,
+      "num": 334155,
+      "word": "潘玮柏向汉堡求婚",
+      "onboard_time": 1754457623,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 331577,
@@ -435,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317041,
+      "num": 317041,
+      "word": "台积电2nm工艺突然泄密",
+      "onboard_time": 1754458703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314297,
       "num": 337142,
       "word": "女子拒付搬运工坐地起价被堵锁眼",
@@ -457,14 +481,6 @@
       "onboard_time": 1754449341,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298361,
-      "num": 250554,
-      "word": "潘玮柏向汉堡求婚",
-      "onboard_time": 1754457623,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 296172,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 259594,
-      "num": 259594,
+      "num": 412113,
       "word": "日本广岛大学再发现疑似未爆弹",
       "onboard_time": 1754445621,
       "rank": 23,
@@ -561,14 +577,6 @@
       "onboard_time": 1754440403,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248345,
-      "num": 248345,
-      "word": "时代峰峻回应文案抄袭",
-      "onboard_time": 1754457923,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 247744,
@@ -689,6 +697,22 @@
       "onboard_time": 1754401283,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210119,
+      "num": 210119,
+      "word": "蒋奇明我们的关系有点暧昧了",
+      "onboard_time": 1754458703,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206935,
+      "num": 206935,
+      "word": "老人携带不明液体上公交遭拒",
+      "onboard_time": 1754459183,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206037,
@@ -955,12 +979,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150567,
+      "num": 150567,
+      "word": "马嘉祺不理解但听话",
+      "onboard_time": 1754459482,
+      "rank": 37,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 149867,
       "num": 149867,
       "word": "TVB藏海传招商",
       "onboard_time": 1754447001,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149318,
+      "num": 149318,
+      "word": "黄誉博瞒着工作室发了新专辑造型",
+      "onboard_time": 1754459362,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 146393,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1754443520,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133671,
+      "num": 133671,
+      "word": "深圳的最严控烟令能全国推广吗",
+      "onboard_time": 1754458525,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133416,
@@ -1123,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119003,
+      "num": 119003,
+      "word": "古偶新cp总算不是排列组合了",
+      "onboard_time": 1754459604,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117364,
       "num": 117364,
       "word": "登陆少年披荆斩棘MV镜头",
@@ -1131,12 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115720,
-      "num": 115720,
-      "word": "深圳的最严控烟令能全国推广吗",
-      "onboard_time": 1754458525,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 113698,
+      "num": 142449,
+      "word": "以色列女兵自拍时被火箭弹击中",
+      "onboard_time": 1754454923,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112743,
@@ -1265,14 +1321,6 @@
       "onboard_time": 1754440342,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97060,
-      "num": 142449,
-      "word": "以色列女兵自拍时被火箭弹击中",
-      "onboard_time": 1754454923,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 96874,
@@ -1451,6 +1499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77408,
+      "num": 149515,
+      "word": "阚清子现身医院产检",
+      "onboard_time": 1754458884,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75852,
       "num": 75852,
       "word": "黄多多星味",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1754454083,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39969,
+      "num": 149827,
+      "word": "汉谟拉比与商汤是同一人 作者发声",
+      "onboard_time": 1754459003,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36733,

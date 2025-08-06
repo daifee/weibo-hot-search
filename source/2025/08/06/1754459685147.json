@@ -1,0 +1,410 @@
+{
+  "runTime": 1754459685147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3521817,
+        "num": 3521817,
+        "word": "张芷溪喊话银河酷娱履约",
+        "onboard_time": 1754457143,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849139,
+        "num": 849139,
+        "word": "亮证女侯某某被行政拘留",
+        "onboard_time": 1754454205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34947,
+        "num": 626013,
+        "word": "中国舰载机在持续上新",
+        "onboard_time": 1754445140,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1647996,
+        "num": 601652,
+        "word": "再见爱人5 孙怡董子健",
+        "onboard_time": 1754453542,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569220,
+        "num": 569220,
+        "word": "金价",
+        "onboard_time": 1754453964,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 475826,
+        "num": 475826,
+        "word": "韩国对中国团队游客临时免签",
+        "onboard_time": 1754455824,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1265563,
+        "num": 469949,
+        "word": "瑞鹤娱乐秒删",
+        "onboard_time": 1754457082,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962247,
+        "num": 444806,
+        "word": "TFBOYS保密协议到期",
+        "onboard_time": 1754455704,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 414786,
+        "num": 414786,
+        "word": "iPhone17系列仅标准版没涨价",
+        "onboard_time": 1754453903,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115505,
+        "num": 412113,
+        "word": "日本广岛大学再发现疑似未爆弹",
+        "onboard_time": 1754445621,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 740753,
+        "num": 406730,
+        "word": "张芷溪原本找赵露思演献鱼",
+        "onboard_time": 1754458103,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661098,
+        "num": 403270,
+        "word": "陈都灵 楚雨荨风",
+        "onboard_time": 1754454864,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637171,
+        "num": 399873,
+        "word": "女子去猫咖包房虐猫致4只猫死伤",
+        "onboard_time": 1754451501,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633459,
+        "num": 398313,
+        "word": "歌王之战帮唱嘉宾官宣",
+        "onboard_time": 1754454745,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496419,
+        "num": 393316,
+        "word": "半个内娱真夫妻都来这节目了",
+        "onboard_time": 1754450423,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484694,
+        "num": 387204,
+        "word": "月入3千与月入10万的变化",
+        "onboard_time": 1754454805,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386332,
+        "num": 386332,
+        "word": "时代峰峻回应文案抄袭",
+        "onboard_time": 1754457923,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334155,
+        "num": 334155,
+        "word": "潘玮柏向汉堡求婚",
+        "onboard_time": 1754457623,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317041,
+        "num": 317041,
+        "word": "台积电2nm工艺突然泄密",
+        "onboard_time": 1754458703,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277567,
+        "num": 277567,
+        "word": "时代峰峻演唱会文案 抄袭",
+        "onboard_time": 1754448381,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323463,
+        "num": 262211,
+        "word": "任素汐 歌手",
+        "onboard_time": 1754455404,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317641,
+        "num": 249594,
+        "word": "Angelababy独自带小海绵回香港",
+        "onboard_time": 1754453362,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295896,
+        "num": 234000,
+        "word": "王俊凯王源易烊千玺卡点",
+        "onboard_time": 1754437881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215603,
+        "num": 215603,
+        "word": "男子向飞机上女友求婚答应后飞机坠毁",
+        "onboard_time": 1754452404,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211336,
+        "num": 211336,
+        "word": "第一次直观感受到基因的不公平",
+        "onboard_time": 1754452222,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225102,
+        "num": 211319,
+        "word": "张译获得国家一级演员职称",
+        "onboard_time": 1754451142,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211010,
+        "num": 211010,
+        "word": "披荆斩棘5定档",
+        "onboard_time": 1754443041,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210119,
+        "num": 210119,
+        "word": "蒋奇明我们的关系有点暧昧了",
+        "onboard_time": 1754458703,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206935,
+        "num": 206935,
+        "word": "老人携带不明液体上公交遭拒",
+        "onboard_time": 1754459183,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195762,
+        "num": 195762,
+        "word": "明天就立秋了",
+        "onboard_time": 1754440943,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201129,
+        "num": 187009,
+        "word": "喜茶 Chiikawa",
+        "onboard_time": 1754444361,
+        "rank": 30,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 174479,
+        "num": 174479,
+        "word": "何九华 尚九熙",
+        "onboard_time": 1754439562,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171389,
+        "num": 171389,
+        "word": "广州一处山体滑坡致房屋垮塌",
+        "onboard_time": 1754457381,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160670,
+        "num": 160670,
+        "word": "浙大青年博导坠楼真相是什么",
+        "onboard_time": 1754444720,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158692,
+        "num": 158692,
+        "word": "逆水寒手游",
+        "onboard_time": 1754458042,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156063,
+        "num": 156063,
+        "word": "叠纸称PV皆为研发录制",
+        "onboard_time": 1754456604,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153790,
+        "num": 153790,
+        "word": "陈奕迅因压力过大患上焦虑症",
+        "onboard_time": 1754454684,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150567,
+        "num": 150567,
+        "word": "马嘉祺不理解但听话",
+        "onboard_time": 1754459482,
+        "rank": 37,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 39969,
+        "num": 149827,
+        "word": "汉谟拉比与商汤是同一人 作者发声",
+        "onboard_time": 1754459003,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77408,
+        "num": 149515,
+        "word": "阚清子现身医院产检",
+        "onboard_time": 1754458884,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149318,
+        "num": 149318,
+        "word": "黄誉博瞒着工作室发了新专辑造型",
+        "onboard_time": 1754459362,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137644,
+        "num": 137644,
+        "word": "建议下班回家立刻洗澡",
+        "onboard_time": 1754456363,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133671,
+        "num": 133671,
+        "word": "深圳的最严控烟令能全国推广吗",
+        "onboard_time": 1754458525,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121509,
+        "num": 121509,
+        "word": "大学生一定要对工资有概念",
+        "onboard_time": 1754455105,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121265,
+        "num": 121265,
+        "word": "不胖和好瘦的区别",
+        "onboard_time": 1754449883,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119003,
+        "num": 119003,
+        "word": "古偶新cp总算不是排列组合了",
+        "onboard_time": 1754459604,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118786,
+        "num": 118786,
+        "word": "麦当劳大鸡排下架",
+        "onboard_time": 1754456784,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114425,
+        "num": 114425,
+        "word": "EDG官宣S1Mon离队",
+        "onboard_time": 1754455945,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114008,
+        "num": 114008,
+        "word": "哈妮克孜问孙乐言嗑自己吗",
+        "onboard_time": 1754456544,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113698,
+        "num": 113698,
+        "word": "以色列女兵自拍时被火箭弹击中",
+        "onboard_time": 1754454923,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#300多万条十五五建议汇聚中国力量#"
+    }
+  }
+}

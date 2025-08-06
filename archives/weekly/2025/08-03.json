@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754458625138,
+  "endTime": 1754459685147,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -67,6 +67,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 3521817,
+      "num": 3521817,
+      "word": "张芷溪喊话银河酷娱履约",
+      "onboard_time": 1754457143,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3471460,
       "num": 2478542,
       "word": "731定档",
@@ -127,14 +135,6 @@
       "num": 2658290,
       "word": "赵露思 姐现在忍不了任何人",
       "onboard_time": 1754314644,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2638562,
-      "num": 2638562,
-      "word": "张芷溪喊话银河酷娱履约",
-      "onboard_time": 1754457143,
       "rank": 0,
       "category": "艺人"
     },
@@ -1105,6 +1105,14 @@
       "onboard_time": 1754379262,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 740753,
+      "num": 406730,
+      "word": "张芷溪原本找赵露思演献鱼",
+      "onboard_time": 1754458103,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 738652,
@@ -2411,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386332,
+      "num": 386332,
+      "word": "时代峰峻回应文案抄袭",
+      "onboard_time": 1754457923,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 386028,
       "num": 386028,
       "word": "河南周口已成立调查组",
@@ -2571,14 +2587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347669,
-      "num": 256812,
-      "word": "张芷溪原本找赵露思演献鱼",
-      "onboard_time": 1754458103,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 347350,
       "num": 549516,
       "word": "刘惜君 帮唱",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1754436439,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334155,
+      "num": 334155,
+      "word": "潘玮柏向汉堡求婚",
+      "onboard_time": 1754457623,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 333420,
@@ -2800,6 +2816,14 @@
       "word": "保洁几乎将房子偷空用电驴运走",
       "onboard_time": 1754217263,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317041,
+      "num": 317041,
+      "word": "台积电2nm工艺突然泄密",
+      "onboard_time": 1754458703,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2937,14 +2961,6 @@
       "onboard_time": 1754449341,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298361,
-      "num": 250554,
-      "word": "潘玮柏向汉堡求婚",
-      "onboard_time": 1754457623,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 298339,
@@ -3292,7 +3308,7 @@
     },
     {
       "raw_hot": 259594,
-      "num": 259594,
+      "num": 412113,
       "word": "日本广岛大学再发现疑似未爆弹",
       "onboard_time": 1754445621,
       "rank": 23,
@@ -3489,14 +3505,6 @@
       "onboard_time": 1754293822,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248345,
-      "num": 248345,
-      "word": "时代峰峻回应文案抄袭",
-      "onboard_time": 1754457923,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 246877,
@@ -4019,6 +4027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210119,
+      "num": 210119,
+      "word": "蒋奇明我们的关系有点暧昧了",
+      "onboard_time": 1754458703,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209758,
       "num": 209758,
       "word": "艺人杂志分红",
@@ -4081,6 +4097,14 @@
       "onboard_time": 1754234364,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206935,
+      "num": 206935,
+      "word": "老人携带不明液体上公交遭拒",
+      "onboard_time": 1754459183,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206903,
@@ -6195,6 +6219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150567,
+      "num": 150567,
+      "word": "马嘉祺不理解但听话",
+      "onboard_time": 1754459482,
+      "rank": 37,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 150359,
       "num": 173141,
       "word": "农村父母改变晚年命运的最后一次机会",
@@ -6273,6 +6305,14 @@
       "onboard_time": 1754327598,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149318,
+      "num": 149318,
+      "word": "黄誉博瞒着工作室发了新专辑造型",
+      "onboard_time": 1754459362,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 149266,
@@ -7169,6 +7209,14 @@
       "onboard_time": 1754224524,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133671,
+      "num": 133671,
+      "word": "深圳的最严控烟令能全国推广吗",
+      "onboard_time": 1754458525,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133416,
@@ -8107,6 +8155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119003,
+      "num": 119003,
+      "word": "古偶新cp总算不是排列组合了",
+      "onboard_time": 1754459604,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118980,
       "num": 118980,
       "word": "王楚钦首轮对阵陈垣宇",
@@ -8323,14 +8379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115720,
-      "num": 115720,
-      "word": "深圳的最严控烟令能全国推广吗",
-      "onboard_time": 1754458525,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115395,
       "num": 115395,
       "word": "傅园慧陈梦同框打乒乓球",
@@ -8417,6 +8465,14 @@
       "onboard_time": 1754356702,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113698,
+      "num": 142449,
+      "word": "以色列女兵自拍时被火箭弹击中",
+      "onboard_time": 1754454923,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113694,
@@ -9337,14 +9393,6 @@
       "onboard_time": 1754215464,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97060,
-      "num": 142449,
-      "word": "以色列女兵自拍时被火箭弹击中",
-      "onboard_time": 1754454923,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 97056,
@@ -10283,6 +10331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77408,
+      "num": 149515,
+      "word": "阚清子现身医院产检",
+      "onboard_time": 1754458884,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77376,
       "num": 86896,
       "word": "镇干部离岗8年",
@@ -11193,6 +11249,14 @@
       "onboard_time": 1754160556,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39969,
+      "num": 149827,
+      "word": "汉谟拉比与商汤是同一人 作者发声",
+      "onboard_time": 1754459003,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39745,
