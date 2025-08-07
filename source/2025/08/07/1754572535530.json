@@ -1,0 +1,410 @@
+{
+  "runTime": 1754572535530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129904,
+        "num": 1180784,
+        "word": "女子吵架冲去拥抱男友力道过大坠亡",
+        "onboard_time": 1754568923,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 840311,
+        "num": 840311,
+        "word": "世运会开幕式",
+        "onboard_time": 1754567483,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69179,
+        "num": 822003,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809661,
+        "num": 809661,
+        "word": "赵露思去厚本粉丝见面会",
+        "onboard_time": 1754570422,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737494,
+        "num": 737494,
+        "word": "美国加州发现阿凡达色野猪肉",
+        "onboard_time": 1754569582,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 658342,
+        "num": 658342,
+        "word": "不愧是娜扎这可是央视新闻啊",
+        "onboard_time": 1754570065,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419314,
+        "num": 419314,
+        "word": "工人意外中枪身亡家属申请工亡未果",
+        "onboard_time": 1754568624,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391228,
+        "num": 391228,
+        "word": "少林寺回应不让入内避雨",
+        "onboard_time": 1754560163,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354956,
+        "num": 354956,
+        "word": "世运会开幕烟花绝了",
+        "onboard_time": 1754570363,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290966,
+        "num": 290966,
+        "word": "豆瓣发公告了",
+        "onboard_time": 1754562263,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 582915,
+        "num": 290346,
+        "word": "肖战直播",
+        "onboard_time": 1754568444,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450016,
+        "num": 289594,
+        "word": "朋友圈如果显示机型型号",
+        "onboard_time": 1754564363,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318951,
+        "num": 288732,
+        "word": "王嘉尔超绝低颅顶",
+        "onboard_time": 1754568083,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265031,
+        "num": 288088,
+        "word": "关晓彤立秋苦了自己甜了同事",
+        "onboard_time": 1754569943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247892,
+        "num": 286465,
+        "word": "孟子义李昀锐无缝进组尚公主",
+        "onboard_time": 1754564424,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286252,
+        "num": 286252,
+        "word": "警方通报女子拒绝加塞被3男子辱骂",
+        "onboard_time": 1754564242,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 54533,
+        "num": 285292,
+        "word": "奥迪Q6Le-tron34.88万起售",
+        "onboard_time": 1754571863,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89205,
+        "num": 282649,
+        "word": "我国载人月球探测又有新突破",
+        "onboard_time": 1754556203,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105915,
+        "num": 282494,
+        "word": "陈奕迅说我不缺钱",
+        "onboard_time": 1754571744,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73556,
+        "num": 279090,
+        "word": "iQOO手机8000mAh电池比平板还大",
+        "onboard_time": 1754570363,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278875,
+        "num": 278875,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754568743,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273823,
+        "num": 273823,
+        "word": "男子花6元买彩票中1256万元",
+        "onboard_time": 1754561543,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252534,
+        "num": 252534,
+        "word": "台湾60米高压电缆上惊现男尸",
+        "onboard_time": 1754571023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234224,
+        "num": 234224,
+        "word": "尚公主",
+        "onboard_time": 1754557465,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218611,
+        "num": 218611,
+        "word": "冯建宇风尚志首封鲨疯了",
+        "onboard_time": 1754571324,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 214150,
+        "num": 214150,
+        "word": "以色列称原子弹是日本的报应",
+        "onboard_time": 1754569344,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210618,
+        "num": 210618,
+        "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
+        "onboard_time": 1754564723,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204834,
+        "num": 204834,
+        "word": "小沈阳全家用美美桑内头像",
+        "onboard_time": 1754551644,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198077,
+        "num": 198077,
+        "word": "没人说95花搭95花这么配啊",
+        "onboard_time": 1754571803,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185385,
+        "num": 185385,
+        "word": "石凯立秋的第一组照片",
+        "onboard_time": 1754571383,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177058,
+        "num": 177058,
+        "word": "迪丽热巴体制内妈妈降临",
+        "onboard_time": 1754570422,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158086,
+        "num": 158086,
+        "word": "工人农田上厕所时被枪击身亡",
+        "onboard_time": 1754559804,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157772,
+        "num": 157772,
+        "word": "佛协称释永信将承受严重果报",
+        "onboard_time": 1754562803,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23174,
+        "num": 157677,
+        "word": "丝路万里画卷",
+        "onboard_time": 1754571622,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157624,
+        "num": 157624,
+        "word": "KPL",
+        "onboard_time": 1754571265,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156295,
+        "num": 156295,
+        "word": "那艺娜退款文吊打艺人公关文",
+        "onboard_time": 1754569703,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152838,
+        "num": 152838,
+        "word": "红豆生南国 河南生男模",
+        "onboard_time": 1754570723,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152479,
+        "num": 152479,
+        "word": "不是所有女生喝奶茶都需要很久",
+        "onboard_time": 1754559804,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148210,
+        "num": 148210,
+        "word": "汪顺说担任旗手是莫大认可",
+        "onboard_time": 1754571265,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67691,
+        "num": 143485,
+        "word": "网友评的90后扛剧生花",
+        "onboard_time": 1754571684,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142105,
+        "num": 142105,
+        "word": "江衡 帮我看看他在干嘛",
+        "onboard_time": 1754571204,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138202,
+        "num": 138202,
+        "word": "张杰谢娜 生理性喜欢",
+        "onboard_time": 1754556446,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137054,
+        "num": 137054,
+        "word": "周也丞磊熟到手说牵就牵",
+        "onboard_time": 1754572103,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137044,
+        "num": 137044,
+        "word": "将门毒后",
+        "onboard_time": 1754572344,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135273,
+        "num": 135273,
+        "word": "INTO万初舞台西服撞色TFBOYS",
+        "onboard_time": 1754572043,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133482,
+        "num": 133482,
+        "word": "缅甸园区白天干活晚上挨电棍",
+        "onboard_time": 1754569824,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123961,
+        "num": 123961,
+        "word": "盒马不愿做中国山姆了",
+        "onboard_time": 1754560883,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122825,
+        "num": 122825,
+        "word": "王天辰报平安",
+        "onboard_time": 1754570363,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119231,
+        "num": 119231,
+        "word": "被天山雪莲硬控30秒",
+        "onboard_time": 1754572404,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113602,
+        "num": 113602,
+        "word": "鹿晗用摄像机看清每一个粉丝",
+        "onboard_time": 1754567301,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#战略叠加优势如何变发展胜势#"
+    }
+  }
+}

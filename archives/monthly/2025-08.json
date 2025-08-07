@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754571544754,
+  "endTime": 1754572535530,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1131,6 +1131,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1129904,
+      "num": 1180784,
+      "word": "女子吵架冲去拥抱男友力道过大坠亡",
+      "onboard_time": 1754568923,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1128894,
       "num": 1128894,
       "word": "tzym 封神之战",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1754485943,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1019639,
-      "num": 1163142,
-      "word": "女子吵架冲去拥抱男友力道过大坠亡",
-      "onboard_time": 1754568923,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1016515,
@@ -1763,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 840311,
+      "num": 840311,
+      "word": "世运会开幕式",
+      "onboard_time": 1754567483,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 838471,
       "num": 838471,
       "word": "樊振东莫雷加德聚餐",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1754287701,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 809661,
+      "num": 809661,
+      "word": "赵露思去厚本粉丝见面会",
+      "onboard_time": 1754570422,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 806295,
@@ -2283,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 696573,
-      "num": 696573,
-      "word": "世运会开幕式",
-      "onboard_time": 1754567483,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 695764,
       "num": 695764,
       "word": "生万物定档",
@@ -2488,6 +2496,14 @@
       "word": "小沈阳全家用美美桑内头像",
       "onboard_time": 1754551644,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 658342,
+      "num": 658342,
+      "word": "不愧是娜扎这可是央视新闻啊",
+      "onboard_time": 1754570065,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -2979,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 582915,
+      "num": 387629,
+      "word": "肖战直播",
+      "onboard_time": 1754568444,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580563,
       "num": 335545,
       "word": "进猫咖虐猫致死的女子自称心情不好",
@@ -3081,14 +3105,6 @@
       "onboard_time": 1754549063,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 569811,
-      "num": 387629,
-      "word": "肖战直播",
-      "onboard_time": 1754568444,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 569459,
@@ -3843,14 +3859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 471483,
-      "num": 471483,
-      "word": "赵露思去厚本粉丝见面会",
-      "onboard_time": 1754570422,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 471478,
       "num": 331200,
       "word": "朱志鑫方回应聊天记录",
@@ -4227,6 +4235,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 419314,
+      "num": 419314,
+      "word": "工人意外中枪身亡家属申请工亡未果",
+      "onboard_time": 1754568624,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418108,
       "num": 253302,
       "word": "管乐回应和小酒窝长得像",
@@ -4443,14 +4459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396766,
-      "num": 396766,
-      "word": "不愧是娜扎这可是央视新闻啊",
-      "onboard_time": 1754570065,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 396587,
       "num": 396587,
       "word": "阴阳师",
@@ -4544,14 +4552,6 @@
       "word": "情侣旅游发生车祸死里逃生后领证",
       "onboard_time": 1754218523,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387547,
-      "num": 387547,
-      "word": "工人意外中枪身亡家属申请工亡未果",
-      "onboard_time": 1754568624,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -4913,6 +4913,14 @@
       "onboard_time": 1754363783,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354956,
+      "num": 387651,
+      "word": "世运会开幕烟花绝了",
+      "onboard_time": 1754570363,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 354572,
@@ -6403,6 +6411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265031,
+      "num": 288088,
+      "word": "关晓彤立秋苦了自己甜了同事",
+      "onboard_time": 1754569943,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265000,
       "num": 265000,
       "word": "原神",
@@ -6755,6 +6771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252534,
+      "num": 252534,
+      "word": "台湾60米高压电缆上惊现男尸",
+      "onboard_time": 1754571023,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252415,
       "num": 252415,
       "word": "韩国羽协指责陈雨菲",
@@ -7099,14 +7123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237265,
-      "num": 237265,
-      "word": "关晓彤立秋苦了自己甜了同事",
-      "onboard_time": 1754569943,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237101,
       "num": 213078,
       "word": "夫妻离婚分鸡多出一只被判吃掉再离",
@@ -7201,14 +7217,6 @@
       "onboard_time": 1754366605,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233323,
-      "num": 387651,
-      "word": "世运会开幕烟花绝了",
-      "onboard_time": 1754570363,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 233227,
@@ -7745,6 +7753,14 @@
       "onboard_time": 1754057604,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 218611,
+      "num": 218611,
+      "word": "冯建宇风尚志首封鲨疯了",
+      "onboard_time": 1754571324,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218390,
@@ -8899,14 +8915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198890,
-      "num": 198890,
-      "word": "冯建宇风尚志首封鲨疯了",
-      "onboard_time": 1754571324,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198801,
       "num": 214683,
       "word": "粉雾海现场版",
@@ -8921,6 +8929,14 @@
       "onboard_time": 1754282004,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198077,
+      "num": 198077,
+      "word": "没人说95花搭95花这么配啊",
+      "onboard_time": 1754571803,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 198020,
@@ -9889,6 +9905,14 @@
       "onboard_time": 1754472084,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185385,
+      "num": 185385,
+      "word": "石凯立秋的第一组照片",
+      "onboard_time": 1754571383,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 185335,
@@ -11675,14 +11699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162241,
-      "num": 162241,
-      "word": "台湾60米高压电缆上惊现男尸",
-      "onboard_time": 1754571023,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162183,
       "num": 162183,
       "word": "谢兴阳买房",
@@ -12595,6 +12611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 152838,
+      "num": 152838,
+      "word": "红豆生南国 河南生男模",
+      "onboard_time": 1754570723,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152749,
       "num": 157766,
       "word": "王烁然 突围",
@@ -12705,14 +12729,6 @@
       "onboard_time": 1754549063,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152095,
-      "num": 152095,
-      "word": "红豆生南国 河南生男模",
-      "onboard_time": 1754570723,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 151995,
@@ -13779,6 +13795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142105,
+      "num": 142105,
+      "word": "江衡 帮我看看他在干嘛",
+      "onboard_time": 1754571204,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142101,
       "num": 142101,
       "word": "李乃文叔圈娃娃菜",
@@ -14547,12 +14571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137054,
+      "num": 137054,
+      "word": "周也丞磊熟到手说牵就牵",
+      "onboard_time": 1754572103,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137044,
       "num": 137044,
       "word": "尹锡悦脱衣拒捕为爱情",
       "onboard_time": 1754451622,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137044,
+      "num": 137044,
+      "word": "将门毒后",
+      "onboard_time": 1754572344,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 136923,
@@ -14761,6 +14801,14 @@
       "onboard_time": 1754480182,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 135273,
+      "num": 135273,
+      "word": "INTO万初舞台西服撞色TFBOYS",
+      "onboard_time": 1754572043,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135180,
@@ -15593,14 +15641,6 @@
       "onboard_time": 1754116522,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129481,
-      "num": 129481,
-      "word": "石凯立秋的第一组照片",
-      "onboard_time": 1754571383,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 129442,
@@ -17139,6 +17179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119231,
+      "num": 119231,
+      "word": "被天山雪莲硬控30秒",
+      "onboard_time": 1754572404,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119112,
       "num": 172867,
       "word": "周也战狼",
@@ -18627,6 +18675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105915,
+      "num": 282494,
+      "word": "陈奕迅说我不缺钱",
+      "onboard_time": 1754571744,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105811,
       "num": 105811,
       "word": "深圳暴雨后路面现大量罗非鱼",
@@ -19948,7 +20004,7 @@
     },
     {
       "raw_hot": 91825,
-      "num": 226406,
+      "num": 279090,
       "word": "iQOO手机8000mAh电池比平板还大",
       "onboard_time": 1754570363,
       "rank": 19,
@@ -20129,6 +20185,14 @@
       "onboard_time": 1754557883,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 89205,
+      "num": 282649,
+      "word": "我国载人月球探测又有新突破",
+      "onboard_time": 1754556203,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89182,
@@ -21195,6 +21259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69179,
+      "num": 822003,
+      "word": "相约成都遇见万千精彩",
+      "onboard_time": 1754572223,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69023,
       "num": 137010,
       "word": "预制菜的风吹到了分手厨房",
@@ -21281,6 +21353,14 @@
       "onboard_time": 1754360482,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67691,
+      "num": 143485,
+      "word": "网友评的90后扛剧生花",
+      "onboard_time": 1754571684,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 67397,
@@ -21937,6 +22017,14 @@
       "onboard_time": 1754137825,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54533,
+      "num": 285292,
+      "word": "奥迪Q6Le-tron34.88万起售",
+      "onboard_time": 1754571863,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 54414,
@@ -23411,7 +23499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22672,
+      "raw_hot": 23174,
       "num": 931841,
       "word": "丝路万里画卷",
       "onboard_time": 1754399482,
@@ -23952,6 +24040,9 @@
     },
     {
       "word": "#奋楫前行#"
+    },
+    {
+      "word": "#战略叠加优势如何变发展胜势#"
     }
   ]
 }
