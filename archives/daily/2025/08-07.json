@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754563786519,
+  "endTime": 1754565990475,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -67,19 +67,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1217474,
+      "num": 1217474,
+      "word": "少林寺回应不让入内避雨",
+      "onboard_time": 1754560163,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1005275,
       "num": 1005275,
       "word": "立秋",
       "onboard_time": 1754521637,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1003150,
-      "num": 1160504,
-      "word": "少林寺回应不让入内避雨",
-      "onboard_time": 1754560163,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1754526321,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 878453,
+      "num": 878453,
+      "word": "豆瓣发公告了",
+      "onboard_time": 1754562263,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 852637,
@@ -387,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 552705,
-      "num": 552705,
-      "word": "豆瓣发公告了",
-      "onboard_time": 1754562263,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 540787,
       "num": 540787,
       "word": "微信不做已读功能",
@@ -443,12 +443,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478145,
+      "num": 478145,
+      "word": "男子花6元买彩票中1256万元",
+      "onboard_time": 1754561543,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477551,
+      "num": 477551,
+      "word": "盒马不愿做中国山姆了",
+      "onboard_time": 1754560883,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468397,
       "num": 456849,
       "word": "傅首尔公开瘦身过程",
       "onboard_time": 1754552064,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464835,
+      "num": 464835,
+      "word": "孟子义李昀锐无缝进组尚公主",
+      "onboard_time": 1754564424,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 458512,
@@ -481,14 +505,6 @@
       "onboard_time": 1754534000,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 440087,
-      "num": 440087,
-      "word": "盒马不愿做中国山姆了",
-      "onboard_time": 1754560883,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 439688,
@@ -592,6 +608,14 @@
       "word": "杨幂宁绣绣第一章天崩开局",
       "onboard_time": 1754536942,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 353075,
+      "num": 353075,
+      "word": "生万物 三集连播",
+      "onboard_time": 1754562022,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -699,12 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294515,
-      "num": 357750,
-      "word": "男子花6元买彩票中1256万元",
-      "onboard_time": 1754561543,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 290986,
+      "num": 337368,
+      "word": "警方通报女子拒绝加塞被3男子辱骂",
+      "onboard_time": 1754564242,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 290022,
@@ -737,14 +761,6 @@
       "onboard_time": 1754541802,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277046,
-      "num": 277046,
-      "word": "生万物 三集连播",
-      "onboard_time": 1754562022,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 271247,
@@ -795,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 263898,
+      "num": 209839,
+      "word": "卖竹荪小姐姐感谢赵露思",
+      "onboard_time": 1754563643,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261025,
       "num": 261025,
       "word": "时代少年团演唱会上海站开售在即",
@@ -843,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241984,
+      "num": 208900,
+      "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
+      "onboard_time": 1754564723,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240780,
       "num": 240780,
       "word": "子夜归定档节奏",
@@ -856,6 +888,14 @@
       "word": "披荆斩棘芭莎战队大秀",
       "onboard_time": 1754541623,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234852,
+      "num": 205308,
+      "word": "密室大逃脱开播来最倒霉的一集",
+      "onboard_time": 1754563643,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -915,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217682,
+      "num": 217682,
+      "word": "朋友圈如果显示机型型号",
+      "onboard_time": 1754564363,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217414,
       "num": 509970,
       "word": "老外扎堆涌入上海买买买",
@@ -945,6 +993,14 @@
       "onboard_time": 1754563044,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210605,
+      "num": 257795,
+      "word": "男子被控强奸朋友女友再审改判无罪",
+      "onboard_time": 1754561904,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210593,
@@ -992,6 +1048,14 @@
       "word": "女孩确诊白血病男友坚持和她领证",
       "onboard_time": 1754543004,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205144,
+      "num": 258004,
+      "word": "佛协称释永信将承受严重果报",
+      "onboard_time": 1754562803,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1105,14 +1169,6 @@
       "onboard_time": 1754545223,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192871,
-      "num": 257795,
-      "word": "男子被控强奸朋友女友再审改判无罪",
-      "onboard_time": 1754561904,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192264,
@@ -1299,6 +1355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168896,
+      "num": 168896,
+      "word": "女子网贷从8万滚到本息共60万",
+      "onboard_time": 1754562683,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167974,
       "num": 167974,
       "word": "女主播拉黑榜一大哥被采取强制措施",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1754563283,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161834,
+      "num": 161834,
+      "word": "警方通报纹身男加塞未果拦车辱骂",
+      "onboard_time": 1754563884,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 161434,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1754558363,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154890,
+      "num": 154890,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1754563103,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 154723,
@@ -1579,20 +1659,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145602,
+      "num": 145602,
+      "word": "恋与深空进入活字印刷时代",
+      "onboard_time": 1754564184,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145430,
       "num": 145430,
       "word": "以前的立秋vs现在的立秋",
       "onboard_time": 1754559924,
       "rank": 34,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 145314,
-      "num": 145314,
-      "word": "密室大逃脱开播来最倒霉的一集",
-      "onboard_time": 1754563643,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 144670,
@@ -1819,28 +1899,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135358,
-      "num": 135358,
-      "word": "女子网贷从8万滚到本息共60万",
-      "onboard_time": 1754562683,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134757,
-      "num": 134496,
-      "word": "卖竹荪小姐姐感谢赵露思",
-      "onboard_time": 1754563643,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134532,
       "num": 134532,
       "word": "卢远王乐晨好嗑",
       "onboard_time": 1754493984,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134240,
+      "num": 134240,
+      "word": "沈佳润东北独生女的含金量",
+      "onboard_time": 1754565322,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 134099,
@@ -1939,6 +2011,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 131407,
+      "num": 131407,
+      "word": "同居18年男友三赠房产去世前撤销",
+      "onboard_time": 1754562082,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131390,
       "num": 131390,
       "word": "汪顺的腹肌好权威",
@@ -2001,6 +2081,14 @@
       "onboard_time": 1754545044,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128918,
+      "num": 128918,
+      "word": "特朗普被曝计划与普京举行会晤",
+      "onboard_time": 1754564723,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128766,
@@ -2211,6 +2299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 118286,
+      "num": 118286,
+      "word": "活泼可爱又温柔的风息",
+      "onboard_time": 1754564723,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118094,
       "num": 137371,
       "word": "女子遭男友施暴后坠亡",
@@ -2289,6 +2385,14 @@
       "onboard_time": 1754532201,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110027,
+      "num": 110027,
+      "word": "大学四年健身杀死了我的自卑感",
+      "onboard_time": 1754565322,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 109572,
@@ -2371,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98649,
-      "num": 258004,
-      "word": "佛协称释永信将承受严重果报",
-      "onboard_time": 1754562803,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98554,
       "num": 195899,
       "word": "女子忘拔电蚊香液把家给烧光",
@@ -2409,6 +2505,14 @@
       "onboard_time": 1754526143,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97342,
+      "num": 97342,
+      "word": "普通人非常容易遗传的7个丑基因",
+      "onboard_time": 1754565803,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97279,
@@ -2545,14 +2649,6 @@
       "onboard_time": 1754496743,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 85736,
-      "num": 128707,
-      "word": "同居18年男友三赠房产去世前撤销",
-      "onboard_time": 1754562082,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83820,
@@ -2761,6 +2857,14 @@
       "onboard_time": 1754550143,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54811,
+      "num": 226809,
+      "word": "iQOO性能续航双王炸",
+      "onboard_time": 1754565082,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 54712,

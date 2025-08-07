@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754563786519,
+  "endTime": 1754565990475,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1011,6 +1011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1217474,
+      "num": 1217474,
+      "word": "少林寺回应不让入内避雨",
+      "onboard_time": 1754560163,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1214542,
       "num": 1196190,
       "word": "FRED斐登 鞠婧祎",
@@ -1320,14 +1328,6 @@
       "word": "立秋",
       "onboard_time": 1754521637,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1003150,
-      "num": 1160504,
-      "word": "少林寺回应不让入内避雨",
-      "onboard_time": 1754560163,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1657,6 +1657,14 @@
       "onboard_time": 1754526321,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 878453,
+      "num": 878453,
+      "word": "豆瓣发公告了",
+      "onboard_time": 1754562263,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 875304,
@@ -3219,14 +3227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552705,
-      "num": 552705,
-      "word": "豆瓣发公告了",
-      "onboard_time": 1754562263,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 549028,
       "num": 549028,
       "word": "时代少年团 上海",
@@ -3699,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478145,
+      "num": 478145,
+      "word": "男子花6元买彩票中1256万元",
+      "onboard_time": 1754561543,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477913,
       "num": 477913,
       "word": "张俪道歉",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1754411780,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477551,
+      "num": 477551,
+      "word": "盒马不愿做中国山姆了",
+      "onboard_time": 1754560883,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476828,
@@ -3817,6 +3833,14 @@
       "onboard_time": 1754050823,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464835,
+      "num": 464835,
+      "word": "孟子义李昀锐无缝进组尚公主",
+      "onboard_time": 1754564424,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 463708,
@@ -4009,14 +4033,6 @@
       "onboard_time": 1754196984,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440087,
-      "num": 440087,
-      "word": "盒马不愿做中国山姆了",
-      "onboard_time": 1754560883,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 439798,
@@ -4849,6 +4865,14 @@
       "onboard_time": 1754476823,
       "rank": 26,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 353075,
+      "num": 353075,
+      "word": "生万物 三集连播",
+      "onboard_time": 1754562022,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 351536,
@@ -5755,14 +5779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294515,
-      "num": 357750,
-      "word": "男子花6元买彩票中1256万元",
-      "onboard_time": 1754561543,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294173,
       "num": 294173,
       "word": "歌手第十二期歌单官宣",
@@ -5833,6 +5849,14 @@
       "onboard_time": 1754296344,
       "rank": 27,
       "category": "读书作家,民生新闻"
+    },
+    {
+      "raw_hot": 290986,
+      "num": 337368,
+      "word": "警方通报女子拒绝加塞被3男子辱骂",
+      "onboard_time": 1754564242,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 290713,
@@ -6017,14 +6041,6 @@
       "onboard_time": 1754143530,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277046,
-      "num": 277046,
-      "word": "生万物 三集连播",
-      "onboard_time": 1754562022,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 276850,
@@ -6336,6 +6352,14 @@
       "word": "章昊外网热议的照片",
       "onboard_time": 1754108302,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263898,
+      "num": 209839,
+      "word": "卖竹荪小姐姐感谢赵露思",
+      "onboard_time": 1754563643,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -6859,6 +6883,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 241984,
+      "num": 208900,
+      "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
+      "onboard_time": 1754564723,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241879,
       "num": 241879,
       "word": "59岁医生向同行直播700多台手术",
@@ -7049,6 +7081,14 @@
       "onboard_time": 1754475744,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234852,
+      "num": 205308,
+      "word": "密室大逃脱开播来最倒霉的一集",
+      "onboard_time": 1754563643,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 233919,
@@ -7611,6 +7651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217682,
+      "num": 217682,
+      "word": "朋友圈如果显示机型型号",
+      "onboard_time": 1754564363,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217414,
       "num": 509970,
       "word": "老外扎堆涌入上海买买买",
@@ -7945,6 +7993,14 @@
       "onboard_time": 1754026042,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210605,
+      "num": 257795,
+      "word": "男子被控强奸朋友女友再审改判无罪",
+      "onboard_time": 1754561904,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210593,
@@ -8312,6 +8368,14 @@
       "word": "北京请市民减少外出",
       "onboard_time": 1754274681,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205144,
+      "num": 258004,
+      "word": "佛协称释永信将承受严重果报",
+      "onboard_time": 1754562803,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -9169,14 +9233,6 @@
       "onboard_time": 1754317107,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192871,
-      "num": 257795,
-      "word": "男子被控强奸朋友女友再审改判无罪",
-      "onboard_time": 1754561904,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192801,
@@ -10939,6 +10995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168896,
+      "num": 168896,
+      "word": "女子网贷从8万滚到本息共60万",
+      "onboard_time": 1754562683,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168735,
       "num": 168735,
       "word": "定风波",
@@ -11513,6 +11577,14 @@
       "onboard_time": 1754028203,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161834,
+      "num": 161834,
+      "word": "警方通报纹身男加塞未果拦车辱骂",
+      "onboard_time": 1754563884,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 161757,
@@ -12129,6 +12201,14 @@
       "onboard_time": 1754234244,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154890,
+      "num": 154890,
+      "word": "饿瘦和运动瘦的区别",
+      "onboard_time": 1754563103,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 154856,
@@ -13155,6 +13235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145602,
+      "num": 145602,
+      "word": "恋与深空进入活字印刷时代",
+      "onboard_time": 1754564184,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145565,
       "num": 145565,
       "word": "南京照相馆票房超12亿",
@@ -13193,14 +13281,6 @@
       "onboard_time": 1754127202,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145314,
-      "num": 145314,
-      "word": "密室大逃脱开播来最倒霉的一集",
-      "onboard_time": 1754563643,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 145312,
@@ -14467,14 +14547,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 135358,
-      "num": 135358,
-      "word": "女子网贷从8万滚到本息共60万",
-      "onboard_time": 1754562683,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135352,
       "num": 135352,
       "word": "旭旭宝宝和Yasal在CJ被围堵",
@@ -14563,14 +14635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134757,
-      "num": 134496,
-      "word": "卖竹荪小姐姐感谢赵露思",
-      "onboard_time": 1754563643,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134751,
       "num": 134751,
       "word": "宿迁0比1不敌无锡",
@@ -14649,6 +14713,14 @@
       "onboard_time": 1754109861,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134240,
+      "num": 134240,
+      "word": "沈佳润东北独生女的含金量",
+      "onboard_time": 1754565322,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 134200,
@@ -15059,6 +15131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131407,
+      "num": 131407,
+      "word": "同居18年男友三赠房产去世前撤销",
+      "onboard_time": 1754562082,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131390,
       "num": 131390,
       "word": "汪顺的腹肌好权威",
@@ -15409,6 +15489,14 @@
       "onboard_time": 1754545044,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128918,
+      "num": 128918,
+      "word": "特朗普被曝计划与普京举行会晤",
+      "onboard_time": 1754564723,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128805,
@@ -16995,6 +17083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118286,
+      "num": 118286,
+      "word": "活泼可爱又温柔的风息",
+      "onboard_time": 1754564723,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118258,
       "num": 120821,
       "word": "第一次见这么多cp的恋综男嘉宾",
@@ -17979,6 +18075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110027,
+      "num": 110027,
+      "word": "大学四年健身杀死了我的自卑感",
+      "onboard_time": 1754565322,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 110009,
       "num": 110009,
       "word": "孙楠减重20多斤",
@@ -18915,14 +19019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98649,
-      "num": 258004,
-      "word": "佛协称释永信将承受严重果报",
-      "onboard_time": 1754562803,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98594,
       "num": 98594,
       "word": "36岁存款30万决定提前退休",
@@ -19081,6 +19177,14 @@
       "onboard_time": 1754134702,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97342,
+      "num": 97342,
+      "word": "普通人非常容易遗传的7个丑基因",
+      "onboard_time": 1754565803,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97269,
@@ -20032,14 +20136,6 @@
       "word": "贵州千户苗寨景区观光车失控撞路边",
       "onboard_time": 1754438841,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85736,
-      "num": 128707,
-      "word": "同居18年男友三赠房产去世前撤销",
-      "onboard_time": 1754562082,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -21553,6 +21649,14 @@
       "onboard_time": 1754087419,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 54811,
+      "num": 226809,
+      "word": "iQOO性能续航双王炸",
+      "onboard_time": 1754565082,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 54808,
