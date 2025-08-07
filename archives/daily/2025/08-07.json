@@ -1,7 +1,15 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754543061051,
+  "endTime": 1754544927063,
   "band_list": [
+    {
+      "raw_hot": 7007661,
+      "num": 7007661,
+      "word": "叶珂官宣生了",
+      "onboard_time": 1754543423,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 1858853,
       "num": 1858853,
@@ -49,6 +57,14 @@
       "onboard_time": 1754497101,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 984284,
+      "num": 367947,
+      "word": "饿了么崩了",
+      "onboard_time": 1754539943,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 975879,
@@ -299,6 +315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 425914,
+      "num": 304125,
+      "word": "李一桐晒立秋第一束奶茶花",
+      "onboard_time": 1754543304,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 410442,
+      "num": 307620,
+      "word": "古言男主前十只剩谢景行未影视化",
+      "onboard_time": 1754541443,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384320,
       "num": 329076,
       "word": "专家建议10岁开始存养老钱最划算",
@@ -307,20 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382828,
+      "num": 382828,
+      "word": "微信不做已读功能",
+      "onboard_time": 1754543304,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 381661,
       "num": 381661,
       "word": "樊振东新身份加入美国职业乒乓联赛",
       "onboard_time": 1754492183,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367947,
-      "num": 367947,
-      "word": "饿了么崩了",
-      "onboard_time": 1754539943,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 364082,
@@ -379,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319347,
+      "num": 319347,
+      "word": "郑州暴雨",
+      "onboard_time": 1754544024,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318301,
       "num": 318301,
       "word": "新疆一景区网红桥绳断多名游客落水",
       "onboard_time": 1754488524,
       "rank": 14,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 307620,
-      "num": 307620,
-      "word": "古言男主前十只剩谢景行未影视化",
-      "onboard_time": 1754541443,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 304389,
@@ -465,6 +497,14 @@
       "onboard_time": 1754522658,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 258320,
+      "num": 258320,
+      "word": "孙怡 吃够了爱情的苦",
+      "onboard_time": 1754544384,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 257033,
@@ -587,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206098,
+      "num": 206098,
+      "word": "女孩确诊白血病男友坚持和她领证",
+      "onboard_time": 1754543004,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202013,
       "num": 324728,
       "word": "5集搂脖搂腰一起洗澡全干了",
@@ -652,7 +700,7 @@
     },
     {
       "raw_hot": 181145,
-      "num": 181145,
+      "num": 209683,
       "word": "于正安慰张芷溪",
       "onboard_time": 1754537902,
       "rank": 32,
@@ -731,6 +779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 158392,
+      "num": 158392,
+      "word": "王艺迪3比2温特",
+      "onboard_time": 1754543965,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156850,
       "num": 156850,
       "word": "恋与深空",
@@ -779,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148008,
+      "num": 158437,
+      "word": "周也丞磊这和接亲有什么区别",
+      "onboard_time": 1754543663,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146849,
       "num": 146849,
       "word": "鲁豫问张子枫天分会消失吗",
@@ -793,6 +857,22 @@
       "onboard_time": 1754535500,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145974,
+      "num": 145974,
+      "word": "丁程鑫这手速快的像开了倍速",
+      "onboard_time": 1754544564,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145136,
+      "num": 162093,
+      "word": "男子离婚卖掉女儿千万房产",
+      "onboard_time": 1754543965,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144670,
@@ -825,6 +905,22 @@
       "onboard_time": 1754542044,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140217,
+      "num": 140217,
+      "word": "理想回应出现大量负面评价",
+      "onboard_time": 1754543184,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 138111,
+      "num": 140789,
+      "word": "吃货脑的立秋仪式感",
+      "onboard_time": 1754544683,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 137313,
@@ -897,6 +993,14 @@
       "onboard_time": 1754492424,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131390,
+      "num": 131390,
+      "word": "汪顺的腹肌好权威",
+      "onboard_time": 1754544864,
+      "rank": 49,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 130115,
@@ -985,6 +1089,14 @@
       "onboard_time": 1754504475,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115570,
+      "num": 306792,
+      "word": "国务院安委办派工作组赴新疆",
+      "onboard_time": 1754544024,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112123,
@@ -1129,14 +1241,6 @@
       "onboard_time": 1754484023,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90376,
-      "num": 183590,
-      "word": "女孩确诊白血病男友坚持和她领证",
-      "onboard_time": 1754543004,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89938,

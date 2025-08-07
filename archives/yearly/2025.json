@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754543061051,
+  "endTime": 1754544927063,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1579,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7007661,
+      "num": 7007661,
+      "word": "叶珂官宣生了",
+      "onboard_time": 1754543423,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 6995860,
       "num": 6995860,
       "word": "汪小菲评论大S老婆我好想你",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1749138982,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3920570,
-      "num": 3920570,
-      "word": "曾黎铁粉 路人都觉得心寒的程度",
-      "onboard_time": 1745908822,
-      "rank": 1,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

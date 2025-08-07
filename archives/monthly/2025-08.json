@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754543061051,
+  "endTime": 1754544927063,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -73,6 +73,14 @@
       "onboard_time": 1754205864,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7007661,
+      "num": 7007661,
+      "word": "叶珂官宣生了",
+      "onboard_time": 1754543423,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 6756623,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1754301443,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 984284,
+      "num": 367947,
+      "word": "饿了么崩了",
+      "onboard_time": 1754539943,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 981923,
@@ -3875,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425914,
+      "num": 304125,
+      "word": "李一桐晒立秋第一束奶茶花",
+      "onboard_time": 1754543304,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425727,
       "num": 425727,
       "word": "小猫被嗦成了芒果核",
@@ -3993,6 +4017,14 @@
       "onboard_time": 1754100141,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 410442,
+      "num": 307620,
+      "word": "古言男主前十只剩谢景行未影视化",
+      "onboard_time": 1754541443,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 409460,
@@ -4299,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382828,
+      "num": 382828,
+      "word": "微信不做已读功能",
+      "onboard_time": 1754543304,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 382751,
       "num": 382751,
       "word": "同个妈生的颜值差异能有多大",
@@ -4401,14 +4441,6 @@
       "onboard_time": 1754442082,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367947,
-      "num": 367947,
-      "word": "饿了么崩了",
-      "onboard_time": 1754539943,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 365668,
@@ -5075,6 +5107,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 319347,
+      "num": 319347,
+      "word": "郑州暴雨",
+      "onboard_time": 1754544024,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318781,
       "num": 318781,
       "word": "赵露思说有点不敢推荐东西了",
@@ -5217,14 +5257,6 @@
       "onboard_time": 1754232085,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307620,
-      "num": 307620,
-      "word": "古言男主前十只剩谢景行未影视化",
-      "onboard_time": 1754541443,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 307322,
@@ -6145,6 +6177,14 @@
       "onboard_time": 1754468303,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258320,
+      "num": 258320,
+      "word": "孙怡 吃够了爱情的苦",
+      "onboard_time": 1754544384,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 258140,
@@ -7851,6 +7891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206098,
+      "num": 206098,
+      "word": "女孩确诊白血病男友坚持和她领证",
+      "onboard_time": 1754543004,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205994,
       "num": 205994,
       "word": "理想 乘龙",
@@ -9436,7 +9484,7 @@
     },
     {
       "raw_hot": 181145,
-      "num": 181145,
+      "num": 209683,
       "word": "于正安慰张芷溪",
       "onboard_time": 1754537902,
       "rank": 32,
@@ -11163,6 +11211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158392,
+      "num": 158392,
+      "word": "王艺迪3比2温特",
+      "onboard_time": 1754543965,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158331,
       "num": 158331,
       "word": "王琳自己淋过雨要给儿子撑伞",
@@ -12163,6 +12219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148008,
+      "num": 158437,
+      "word": "周也丞磊这和接亲有什么区别",
+      "onboard_time": 1754543663,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147754,
       "num": 147754,
       "word": "成毅演唱天涯别有一番韵味",
@@ -12347,6 +12411,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 145974,
+      "num": 145974,
+      "word": "丁程鑫这手速快的像开了倍速",
+      "onboard_time": 1754544564,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145895,
       "num": 145895,
       "word": "张婧仪喀什plog",
@@ -12417,6 +12489,14 @@
       "onboard_time": 1754319386,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145136,
+      "num": 162093,
+      "word": "男子离婚卖掉女儿千万房产",
+      "onboard_time": 1754543965,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145118,
@@ -12963,6 +13043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140217,
+      "num": 140217,
+      "word": "理想回应出现大量负面评价",
+      "onboard_time": 1754543184,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 140202,
       "num": 140202,
       "word": "恋综职业终于上新了",
@@ -13209,6 +13297,14 @@
       "onboard_time": 1754020402,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138111,
+      "num": 140789,
+      "word": "吃货脑的立秋仪式感",
+      "onboard_time": 1754544683,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 137966,
@@ -14017,6 +14113,14 @@
       "onboard_time": 1754200702,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131390,
+      "num": 131390,
+      "word": "汪顺的腹肌好权威",
+      "onboard_time": 1754544864,
+      "rank": 49,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 131221,
@@ -16041,6 +16145,14 @@
       "onboard_time": 1754118202,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115570,
+      "num": 306792,
+      "word": "国务院安委办派工作组赴新疆",
+      "onboard_time": 1754544024,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115409,
@@ -18345,14 +18457,6 @@
       "onboard_time": 1753961663,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90376,
-      "num": 183590,
-      "word": "女孩确诊白血病男友坚持和她领证",
-      "onboard_time": 1754543004,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90230,

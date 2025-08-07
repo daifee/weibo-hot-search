@@ -1,0 +1,410 @@
+{
+  "runTime": 1754544927063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7007661,
+        "num": 7007661,
+        "word": "叶珂官宣生了",
+        "onboard_time": 1754543423,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 666631,
+        "num": 666631,
+        "word": "社保",
+        "onboard_time": 1754524580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30582,
+        "num": 522750,
+        "word": "立秋迎世运",
+        "onboard_time": 1754537482,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 901198,
+        "num": 503548,
+        "word": "原来明星私下聊天都被录下来了",
+        "onboard_time": 1754536341,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730397,
+        "num": 477580,
+        "word": "淘宝闪购奶茶免单",
+        "onboard_time": 1754527462,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 382828,
+        "num": 382828,
+        "word": "微信不做已读功能",
+        "onboard_time": 1754543304,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 613750,
+        "num": 360226,
+        "word": "胡一天熹妃回宫",
+        "onboard_time": 1754539523,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490887,
+        "num": 358721,
+        "word": "棣欣引力",
+        "onboard_time": 1754526382,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319347,
+        "num": 319347,
+        "word": "郑州暴雨",
+        "onboard_time": 1754544024,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115570,
+        "num": 306792,
+        "word": "国务院安委办派工作组赴新疆",
+        "onboard_time": 1754544024,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 609177,
+        "num": 304224,
+        "word": "黄一鸣带两岁女儿拍ct",
+        "onboard_time": 1754541144,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 425914,
+        "num": 304125,
+        "word": "李一桐晒立秋第一束奶茶花",
+        "onboard_time": 1754543304,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301557,
+        "num": 301557,
+        "word": "缅甸代总统因病逝世",
+        "onboard_time": 1754538202,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 410442,
+        "num": 300672,
+        "word": "古言男主前十只剩谢景行未影视化",
+        "onboard_time": 1754541443,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390019,
+        "num": 297378,
+        "word": "赵立坚发了肖战",
+        "onboard_time": 1754536761,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353851,
+        "num": 293581,
+        "word": "事发前仍有大量游客进夏塔景区",
+        "onboard_time": 1754533701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286109,
+        "num": 286109,
+        "word": "王一栩晒苍兰诀库存",
+        "onboard_time": 1754538141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276640,
+        "num": 276640,
+        "word": "王楚钦vs陈垣宇",
+        "onboard_time": 1754541562,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266753,
+        "num": 266753,
+        "word": "782万元彩票大奖无人兑奖已作废",
+        "onboard_time": 1754541802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984284,
+        "num": 266024,
+        "word": "饿了么崩了",
+        "onboard_time": 1754539943,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263918,
+        "num": 263918,
+        "word": "猫咖虐猫致死女子被指系惯犯",
+        "onboard_time": 1754540303,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258320,
+        "num": 258320,
+        "word": "孙怡 吃够了爱情的苦",
+        "onboard_time": 1754544384,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257561,
+        "num": 257561,
+        "word": "韩追星女不满被叫泡菜妹",
+        "onboard_time": 1754531300,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256828,
+        "num": 256828,
+        "word": "易烊千玺配音成都世运会主题片",
+        "onboard_time": 1754530280,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254699,
+        "num": 254699,
+        "word": "不听劝买了别人不要的顶楼后",
+        "onboard_time": 1754527582,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251353,
+        "num": 251353,
+        "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
+        "onboard_time": 1754539282,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235283,
+        "num": 235283,
+        "word": "于正谈张芷溪与银河酷娱纠纷",
+        "onboard_time": 1754539462,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223332,
+        "num": 223332,
+        "word": "生万物定档",
+        "onboard_time": 1754537362,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221973,
+        "num": 221973,
+        "word": "李云霄 龙骨焚箱",
+        "onboard_time": 1754540665,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45651,
+        "num": 209683,
+        "word": "于正安慰张芷溪",
+        "onboard_time": 1754537902,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206098,
+        "num": 206098,
+        "word": "女孩确诊白血病男友坚持和她领证",
+        "onboard_time": 1754543004,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202724,
+        "num": 202724,
+        "word": "澳洲13岁中国女生杀害14岁中国女生",
+        "onboard_time": 1754525481,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180175,
+        "num": 180175,
+        "word": "立秋",
+        "onboard_time": 1754521637,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179460,
+        "num": 179460,
+        "word": "公办民办幼儿园均可享受免保教费",
+        "onboard_time": 1754534600,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171637,
+        "num": 171637,
+        "word": "高圆圆自拍是我没想到的角度",
+        "onboard_time": 1754541263,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171128,
+        "num": 171128,
+        "word": "岳父给了我20万帮他装修房子",
+        "onboard_time": 1754541382,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168015,
+        "num": 168015,
+        "word": "宣璐古早天女那味儿",
+        "onboard_time": 1754542465,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165866,
+        "num": 165866,
+        "word": "建议杨幂卷发半永久",
+        "onboard_time": 1754541323,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145136,
+        "num": 162093,
+        "word": "男子离婚卖掉女儿千万房产",
+        "onboard_time": 1754543965,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148008,
+        "num": 158437,
+        "word": "周也丞磊这和接亲有什么区别",
+        "onboard_time": 1754543663,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158392,
+        "num": 158392,
+        "word": "王艺迪3比2温特",
+        "onboard_time": 1754543965,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153176,
+        "num": 153176,
+        "word": "田曦薇双马尾",
+        "onboard_time": 1754532981,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148740,
+        "num": 148740,
+        "word": "免保教费覆盖所有幼儿园大班",
+        "onboard_time": 1754534000,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146766,
+        "num": 146766,
+        "word": "老外扎堆涌入上海买买买",
+        "onboard_time": 1754540604,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145974,
+        "num": 145974,
+        "word": "丁程鑫这手速快的像开了倍速",
+        "onboard_time": 1754544564,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143212,
+        "num": 143212,
+        "word": "21岁小伙被骗至缅甸近1年经常挨打",
+        "onboard_time": 1754536341,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138111,
+        "num": 140789,
+        "word": "吃货脑的立秋仪式感",
+        "onboard_time": 1754544683,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132510,
+        "num": 140361,
+        "word": "杨洋现在还在做腿部康复",
+        "onboard_time": 1754540361,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140217,
+        "num": 140217,
+        "word": "理想回应出现大量负面评价",
+        "onboard_time": 1754543184,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131390,
+        "num": 131390,
+        "word": "汪顺的腹肌好权威",
+        "onboard_time": 1754544864,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋楫前行#"
+    }
+  }
+}
