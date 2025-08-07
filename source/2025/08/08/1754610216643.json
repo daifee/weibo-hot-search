@@ -1,0 +1,410 @@
+{
+  "runTime": 1754610216643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948268,
+        "num": 1015073,
+        "word": "湛江回应凌晨家长不在家孩子被抽血",
+        "onboard_time": 1754577504,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885012,
+        "num": 885012,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 4863,
+        "num": 458122,
+        "word": "世运会和奥运会有啥不一样",
+        "onboard_time": 1754526143,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414791,
+        "num": 414791,
+        "word": "男子12字评论被行拘5天2年后翻案",
+        "onboard_time": 1754581402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399741,
+        "num": 399741,
+        "word": "郑州暴雨一商场员工筑起人墙挡雨",
+        "onboard_time": 1754577085,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 312064,
+        "num": 312064,
+        "word": "赵露思直播带火葛根茶负责人发声",
+        "onboard_time": 1754577925,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255711,
+        "num": 255711,
+        "word": "女子吵架冲去拥抱男友力道过大坠亡",
+        "onboard_time": 1754568923,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240812,
+        "num": 240812,
+        "word": "广东一地错发30万补贴公告追回",
+        "onboard_time": 1754584581,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207093,
+        "num": 240805,
+        "word": "将门毒后",
+        "onboard_time": 1754572344,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90972,
+        "num": 239928,
+        "word": "甘肃榆中一地泥石流3人失联",
+        "onboard_time": 1754609359,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 523770,
+        "num": 239462,
+        "word": "赵露思穿鲨蜂服",
+        "onboard_time": 1754608519,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464506,
+        "num": 238849,
+        "word": "沈佳润东北独生女的含金量",
+        "onboard_time": 1754565322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238773,
+        "num": 238773,
+        "word": "健美选手刘一阳逝世",
+        "onboard_time": 1754575884,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206076,
+        "num": 206076,
+        "word": "74岁老人被忽悠签约直播带货",
+        "onboard_time": 1754581644,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194141,
+        "num": 194141,
+        "word": "美高官不顾中情局反对公布机密文件",
+        "onboard_time": 1754603955,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186473,
+        "num": 186473,
+        "word": "美国加州发现阿凡达色野猪肉",
+        "onboard_time": 1754569582,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161613,
+        "num": 161613,
+        "word": "BLACKPINK九周年合照",
+        "onboard_time": 1754584161,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125961,
+        "num": 161472,
+        "word": "网传街舞7队长阵容",
+        "onboard_time": 1754606237,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109487,
+        "num": 160377,
+        "word": "留几手问赵露思又是谁",
+        "onboard_time": 1754579064,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88060,
+        "num": 158812,
+        "word": "孙楠长成大姑娘了",
+        "onboard_time": 1754578524,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232739,
+        "num": 157955,
+        "word": "日本人口即将跌破1.2亿",
+        "onboard_time": 1754608519,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228711,
+        "num": 156942,
+        "word": "生理性喜欢是身体比心先说了爱",
+        "onboard_time": 1754608218,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206542,
+        "num": 156499,
+        "word": "爱康国宾向患癌女律师索赔1000万",
+        "onboard_time": 1754576844,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155955,
+        "num": 155955,
+        "word": "GPT5来了",
+        "onboard_time": 1754609480,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139282,
+        "num": 139282,
+        "word": "中国海大海水吊坠被标价5000元出售",
+        "onboard_time": 1754584401,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 118403,
+        "num": 118403,
+        "word": "店长目睹女顾客遭遇骚扰称不敢插手",
+        "onboard_time": 1754608578,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108453,
+        "num": 108453,
+        "word": "少林寺回应不让入内避雨",
+        "onboard_time": 1754560163,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108163,
+        "num": 108163,
+        "word": "台湾60米高压电缆上惊现男尸",
+        "onboard_time": 1754571023,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79786,
+        "num": 107916,
+        "word": "敖瑞鹏游戏输了去王一博那看广告复活",
+        "onboard_time": 1754609660,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73494,
+        "num": 107916,
+        "word": "不愧是娜扎这可是央视新闻啊",
+        "onboard_time": 1754570065,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107916,
+        "num": 107915,
+        "word": "高敏谈全红婵体重变化",
+        "onboard_time": 1754609060,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104460,
+        "num": 104460,
+        "word": "LV中国首家巧克力店运营仅一年",
+        "onboard_time": 1754605095,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103220,
+        "num": 103220,
+        "word": "员工加班近160小时被公司通报表扬",
+        "onboard_time": 1754580745,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91840,
+        "num": 91840,
+        "word": "以色列称原子弹是日本的报应",
+        "onboard_time": 1754569344,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62027,
+        "num": 87242,
+        "word": "杨迪第一次以这种方式上央视新闻",
+        "onboard_time": 1754583802,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83127,
+        "num": 83127,
+        "word": "小孩单独在家时被工作人员上门抽血",
+        "onboard_time": 1754580143,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79152,
+        "num": 79152,
+        "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
+        "onboard_time": 1754564723,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76285,
+        "num": 76285,
+        "word": "医生回应女子做吸脂手术没瘦下来",
+        "onboard_time": 1754608158,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74955,
+        "num": 74955,
+        "word": "村民路边偶遇东北虎脑袋如脸盆大",
+        "onboard_time": 1754608637,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71343,
+        "num": 71343,
+        "word": "世运会开幕式",
+        "onboard_time": 1754567483,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70687,
+        "num": 70687,
+        "word": "Doinb认为LPL跟LCK可以合并",
+        "onboard_time": 1754609359,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52240,
+        "num": 68008,
+        "word": "孙怡比基尼",
+        "onboard_time": 1754577984,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67219,
+        "num": 67219,
+        "word": "女子点100份三文鱼吃了吐吐了吃",
+        "onboard_time": 1754610200,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66653,
+        "num": 66653,
+        "word": "怎么靠吃来减轻脂肪肝",
+        "onboard_time": 1754609540,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63801,
+        "num": 63801,
+        "word": "突然间意识到自己不再年轻的瞬间",
+        "onboard_time": 1754605218,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63530,
+        "num": 63530,
+        "word": "央行将开展7000亿元买断式逆回购操作",
+        "onboard_time": 1754609480,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61996,
+        "num": 61996,
+        "word": "当越来越多高中生不再选文科",
+        "onboard_time": 1754578644,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57171,
+        "num": 57171,
+        "word": "红豆生南国 河南生男模",
+        "onboard_time": 1754570723,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52228,
+        "num": 52228,
+        "word": "利剑玫瑰豆瓣显示异常",
+        "onboard_time": 1754588177,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50042,
+        "num": 50042,
+        "word": "去完欧洲决定让我孩子卷高考",
+        "onboard_time": 1754609480,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样寄语改革创新#"
+    }
+  }
+}

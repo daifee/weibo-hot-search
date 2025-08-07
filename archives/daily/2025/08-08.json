@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754609314522,
+  "endTime": 1754610216643,
   "band_list": [
     {
       "raw_hot": 955191,
@@ -11,12 +11,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 775358,
-      "num": 875168,
+      "raw_hot": 948268,
+      "num": 1015073,
       "word": "湛江回应凌晨家长不在家孩子被抽血",
       "onboard_time": 1754577504,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 885012,
+      "num": 885012,
+      "word": "立秋第一杯奶茶的受害者出现了",
+      "onboard_time": 1754608278,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 649765,
@@ -25,14 +33,6 @@
       "onboard_time": 1754572344,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 594890,
-      "num": 594890,
-      "word": "立秋第一杯奶茶的受害者出现了",
-      "onboard_time": 1754608278,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 526720,
@@ -51,12 +51,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523770,
+      "num": 239462,
+      "word": "赵露思穿鲨蜂服",
+      "onboard_time": 1754608519,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469003,
       "num": 554638,
       "word": "男子12字评论被行拘5天2年后翻案",
       "onboard_time": 1754581402,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464506,
+      "num": 238849,
+      "word": "沈佳润东北独生女的含金量",
+      "onboard_time": 1754565322,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 401969,
@@ -67,35 +83,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381803,
-      "num": 381803,
-      "word": "BLACKPINK九周年合照",
-      "onboard_time": 1754584161,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 345955,
-      "num": 184528,
-      "word": "赵露思穿鲨蜂服",
-      "onboard_time": 1754608519,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336843,
-      "num": 336843,
+      "raw_hot": 399741,
+      "num": 399741,
       "word": "郑州暴雨一商场员工筑起人墙挡雨",
       "onboard_time": 1754577085,
       "rank": 14,
       "category": "正能量"
     },
     {
-      "raw_hot": 331487,
-      "num": 184432,
-      "word": "沈佳润东北独生女的含金量",
-      "onboard_time": 1754565322,
-      "rank": 11,
+      "raw_hot": 381803,
+      "num": 381803,
+      "word": "BLACKPINK九周年合照",
+      "onboard_time": 1754584161,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -139,12 +139,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240812,
+      "num": 240812,
+      "word": "广东一地错发30万补贴公告追回",
+      "onboard_time": 1754584581,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238773,
+      "num": 238773,
+      "word": "健美选手刘一阳逝世",
+      "onboard_time": 1754575884,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236278,
       "num": 236278,
       "word": "小孩单独在家时被工作人员上门抽血",
       "onboard_time": 1754580143,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232739,
+      "num": 157955,
+      "word": "日本人口即将跌破1.2亿",
+      "onboard_time": 1754608519,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 228711,
+      "num": 156942,
+      "word": "生理性喜欢是身体比心先说了爱",
+      "onboard_time": 1754608218,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227577,
@@ -155,43 +187,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209237,
-      "num": 209237,
-      "word": "广东一地错发30万补贴公告追回",
-      "onboard_time": 1754584581,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208439,
-      "num": 155451,
+      "num": 156499,
       "word": "爱康国宾向患癌女律师索赔1000万",
       "onboard_time": 1754576844,
       "rank": 20,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195361,
-      "num": 195361,
-      "word": "健美选手刘一阳逝世",
-      "onboard_time": 1754575884,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184220,
-      "num": 184220,
+      "raw_hot": 194141,
+      "num": 194141,
       "word": "美高官不顾中情局反对公布机密文件",
       "onboard_time": 1754603955,
       "rank": 15,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 178698,
-      "num": 137391,
-      "word": "日本人口即将跌破1.2亿",
-      "onboard_time": 1754608519,
-      "rank": 21,
+      "raw_hot": 186473,
+      "num": 186473,
+      "word": "美国加州发现阿凡达色野猪肉",
+      "onboard_time": 1754569582,
+      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -203,20 +219,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 165582,
-      "num": 165582,
-      "word": "美国加州发现阿凡达色野猪肉",
-      "onboard_time": 1754569582,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 151178,
-      "num": 126935,
-      "word": "生理性喜欢是身体比心先说了爱",
-      "onboard_time": 1754608218,
+      "raw_hot": 155955,
+      "num": 155955,
+      "word": "GPT5来了",
+      "onboard_time": 1754609480,
       "rank": 23,
-      "category": "健康医疗"
+      "category": "互联网"
     },
     {
       "raw_hot": 142137,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125961,
+      "num": 161472,
+      "word": "网传街舞7队长阵容",
+      "onboard_time": 1754606237,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "世运会七彩祥云烟花",
@@ -256,6 +272,14 @@
       "word": "台湾60米高压电缆上惊现男尸",
       "onboard_time": 1754571023,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118403,
+      "num": 118403,
+      "word": "店长目睹女顾客遭遇骚扰称不敢插手",
+      "onboard_time": 1754608578,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -283,10 +307,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107916,
+      "num": 107915,
+      "word": "高敏谈全红婵体重变化",
+      "onboard_time": 1754609060,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105899,
       "num": 105899,
       "word": "马库斯说要努力像中国人民一样勇敢",
       "onboard_time": 1754576664,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104460,
+      "num": 104460,
+      "word": "LV中国首家巧克力店运营仅一年",
+      "onboard_time": 1754605095,
       "rank": 41,
       "category": "民生新闻"
     },
@@ -307,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99301,
-      "num": 99301,
-      "word": "LV中国首家巧克力店运营仅一年",
-      "onboard_time": 1754605095,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94891,
       "num": 92065,
       "word": "以色列称原子弹是日本的报应",
@@ -323,20 +355,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 92830,
-      "num": 81353,
-      "word": "高敏谈全红婵体重变化",
-      "onboard_time": 1754609060,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92638,
       "num": 92638,
       "word": "虞书欣cha了jump",
       "onboard_time": 1754582604,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90972,
+      "num": 239928,
+      "word": "甘肃榆中一地泥石流3人失联",
+      "onboard_time": 1754609359,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 87241,
@@ -355,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83236,
-      "num": 142187,
-      "word": "网传街舞7队长阵容",
-      "onboard_time": 1754606237,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81745,
       "num": 81745,
       "word": "汪顺国际奥委会会旗执旗手",
@@ -379,20 +403,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 81145,
-      "num": 81145,
-      "word": "店长目睹女顾客遭遇骚扰称不敢插手",
-      "onboard_time": 1754608578,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80197,
       "num": 80197,
       "word": "洛杉矶奥运特别工作组成立",
       "onboard_time": 1754589736,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79786,
+      "num": 107916,
+      "word": "敖瑞鹏游戏输了去王一博那看广告复活",
+      "onboard_time": 1754609660,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 79226,
@@ -403,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 76285,
+      "num": 159887,
+      "word": "医生回应女子做吸脂手术没瘦下来",
+      "onboard_time": 1754608158,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75878,
       "num": 75878,
       "word": "红豆生南国 河南生男模",
@@ -411,8 +443,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74955,
+      "num": 74955,
+      "word": "村民路边偶遇东北虎脑袋如脸盆大",
+      "onboard_time": 1754608637,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73870,
-      "num": 86510,
+      "num": 87242,
       "word": "杨迪第一次以这种方式上央视新闻",
       "onboard_time": 1754583802,
       "rank": 29,
@@ -425,6 +465,14 @@
       "onboard_time": 1754562263,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 70687,
+      "num": 70687,
+      "word": "Doinb认为LPL跟LCK可以合并",
+      "onboard_time": 1754609359,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 69310,
@@ -451,6 +499,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67219,
+      "num": 67219,
+      "word": "女子点100份三文鱼吃了吐吐了吃",
+      "onboard_time": 1754610200,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66653,
+      "num": 66653,
+      "word": "怎么靠吃来减轻脂肪肝",
+      "onboard_time": 1754609540,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 66249,
       "num": 66249,
       "word": "男子花6元买彩票中1256万元",
@@ -473,6 +537,22 @@
       "onboard_time": 1754577685,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63801,
+      "num": 63801,
+      "word": "突然间意识到自己不再年轻的瞬间",
+      "onboard_time": 1754605218,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63530,
+      "num": 63530,
+      "word": "央行将开展7000亿元买断式逆回购操作",
+      "onboard_time": 1754609480,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 62923,
@@ -507,36 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60438,
-      "num": 159887,
-      "word": "医生回应女子做吸脂手术没瘦下来",
-      "onboard_time": 1754608158,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60181,
       "num": 62921,
       "word": "2025金球奖",
       "onboard_time": 1754579964,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54161,
-      "num": 54161,
-      "word": "突然间意识到自己不再年轻的瞬间",
-      "onboard_time": 1754605218,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 53976,
-      "num": 53976,
-      "word": "村民路边偶遇东北虎脑袋如脸盆大",
-      "onboard_time": 1754608637,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53891,
@@ -553,6 +609,14 @@
       "onboard_time": 1754571324,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 50042,
+      "num": 50042,
+      "word": "去完欧洲决定让我孩子卷高考",
+      "onboard_time": 1754609480,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 48599,
