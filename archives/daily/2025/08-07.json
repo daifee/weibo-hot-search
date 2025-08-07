@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754552840294,
+  "endTime": 1754555924268,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669450,
+      "num": 304142,
+      "word": "美国驻华大使馆",
+      "onboard_time": 1754554043,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 663543,
       "num": 663543,
       "word": "胡一天熹妃回宫",
@@ -241,6 +249,14 @@
       "onboard_time": 1754541144,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 597506,
+      "num": 331988,
+      "word": "小沈阳全家用美美桑内头像",
+      "onboard_time": 1754551644,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 597231,
@@ -369,6 +385,14 @@
       "onboard_time": 1754531661,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456849,
+      "num": 456849,
+      "word": "傅首尔公开瘦身过程",
+      "onboard_time": 1754552064,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 453401,
@@ -507,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331988,
-      "num": 331988,
-      "word": "小沈阳全家用美美桑内头像",
-      "onboard_time": 1754551644,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326363,
       "num": 326363,
       "word": "南京照相馆上映日本网民跳脚",
@@ -627,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 261025,
+      "num": 261025,
+      "word": "时代少年团演唱会上海站开售在即",
+      "onboard_time": 1754552183,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257033,
       "num": 257033,
       "word": "锦月如歌 魔改",
@@ -683,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232702,
-      "num": 232702,
-      "word": "时代少年团演唱会上海站开售在即",
-      "onboard_time": 1754552183,
-      "rank": 18,
-      "category": "演出"
+      "raw_hot": 232353,
+      "num": 154696,
+      "word": "女子拒绝加塞被光膀纹身男辱骂",
+      "onboard_time": 1754552724,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229183,
@@ -801,14 +825,6 @@
       "onboard_time": 1754543004,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202664,
-      "num": 202664,
-      "word": "傅首尔公开瘦身过程",
-      "onboard_time": 1754552064,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 202013,
@@ -1075,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157346,
+      "num": 157346,
+      "word": "王楚钦蒯曼食欲对比",
+      "onboard_time": 1754553683,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156850,
       "num": 156850,
       "word": "恋与深空",
@@ -1147,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148949,
+      "num": 148949,
+      "word": "张俊不愧是时代峰峻的遗珠",
+      "onboard_time": 1754555724,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148770,
       "num": 148770,
       "word": "单依纯居然有这么多小品周边",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1754543663,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146987,
+      "num": 146987,
+      "word": "傅首尔瘦身从冬天到夏天",
+      "onboard_time": 1754552964,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 146849,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1754548883,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141908,
+      "num": 141908,
+      "word": "2025IVL夏季赛",
+      "onboard_time": 1754554944,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 140794,
@@ -1387,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133919,
+      "num": 133919,
+      "word": "3个人信用加起来扫不了1个充电宝",
+      "onboard_time": 1754555543,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133669,
       "num": 170793,
       "word": "小沈阳让女儿给他买秋天第一杯奶茶",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1754536100,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133061,
+      "num": 141713,
+      "word": "王力宏单依纯唱落叶归根的原因",
+      "onboard_time": 1754553983,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 132137,
@@ -1435,6 +1499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131481,
+      "num": 131481,
+      "word": "MRC对战Wolves",
+      "onboard_time": 1754551464,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 131481,
+      "num": 131480,
+      "word": "第五人格赛事",
+      "onboard_time": 1754555363,
+      "rank": 36,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 131390,
       "num": 131390,
       "word": "汪顺的腹肌好权威",
@@ -1449,6 +1529,22 @@
       "onboard_time": 1754549123,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130829,
+      "num": 125379,
+      "word": "韩昊霖真的长成了张若昀",
+      "onboard_time": 1754555604,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130537,
+      "num": 141792,
+      "word": "猫咖店主要与虐猫女死磕到底",
+      "onboard_time": 1754551283,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130115,
@@ -1507,27 +1603,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125529,
+      "num": 131481,
+      "word": "女子猫咖虐猫致死呼唤反虐待动物法",
+      "onboard_time": 1754555663,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125156,
       "num": 125156,
       "word": "一直对农村大席没概念直到吃了一次",
       "onboard_time": 1754530821,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124893,
-      "num": 131394,
-      "word": "MRC对战Wolves",
-      "onboard_time": 1754551464,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 124846,
-      "num": 124846,
-      "word": "女子拒绝加塞被光膀纹身男辱骂",
-      "onboard_time": 1754552724,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1545,6 +1633,14 @@
       "onboard_time": 1754530879,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123456,
+      "num": 123456,
+      "word": "台湾地区附近发生5.2级左右地震",
+      "onboard_time": 1754553383,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 123445,
@@ -1571,12 +1667,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121380,
+      "num": 121380,
+      "word": "胡一天出道以来第一个二番",
+      "onboard_time": 1754555783,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120874,
       "num": 120874,
       "word": "姚晨新风格必有高人指点",
       "onboard_time": 1754549902,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 120553,
+      "num": 120553,
+      "word": "天才女友",
+      "onboard_time": 1754555423,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119112,
+      "num": 119112,
+      "word": "周也战狼",
+      "onboard_time": 1754554823,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118829,
+      "num": 118829,
+      "word": "苏醒聊男团站位",
+      "onboard_time": 1754554283,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 118339,
@@ -1601,6 +1729,22 @@
       "onboard_time": 1754492545,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117302,
+      "num": 131481,
+      "word": "嫦娥六号团队收获世界航天奖",
+      "onboard_time": 1754555844,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 116696,
+      "num": 116696,
+      "word": "点了杯奶茶商家倒欠我五毛钱",
+      "onboard_time": 1754555903,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 116668,
@@ -1649,6 +1793,14 @@
       "onboard_time": 1754532201,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109373,
+      "num": 115864,
+      "word": "杨洋正式确诊为武灵根",
+      "onboard_time": 1754554283,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 106081,
@@ -1899,14 +2051,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77329,
-      "num": 136832,
-      "word": "猫咖店主要与虐猫女死磕到底",
-      "onboard_time": 1754551283,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77015,
       "num": 138214,
       "word": "多地奶茶店排队近千杯",
@@ -1979,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65497,
+      "num": 147958,
+      "word": "张子枫从演女儿到演自己",
+      "onboard_time": 1754554644,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65000,
       "num": 65000,
       "word": "小兰花的1503岁",
@@ -1992,6 +2144,14 @@
       "word": "建议10岁存养老钱的专家别建议了",
       "onboard_time": 1754551644,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60737,
+      "num": 170902,
+      "word": "米线店回应顾客发现包浆碗",
+      "onboard_time": 1754552753,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2041,6 +2201,14 @@
       "onboard_time": 1754522479,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 53870,
+      "num": 155916,
+      "word": "三厢留给过去掀背才是主流",
+      "onboard_time": 1754554103,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 53819,
@@ -2128,14 +2296,6 @@
       "word": "220元卖2盒止疼药被判贩毒",
       "onboard_time": 1754552064,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45345,
-      "num": 170902,
-      "word": "米线店回应顾客发现包浆碗",
-      "onboard_time": 1754552753,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2235,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29835,
+      "num": 126270,
+      "word": "乌克兰战争英雄沦为巨贪",
+      "onboard_time": 1754555663,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28757,
       "num": 164549,
       "word": "假院士阮少平热衷赴中小学演讲",
@@ -2283,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21008,
+      "num": 191317,
+      "word": "秋天第一杯是杨幂请的",
+      "onboard_time": 1754553683,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18601,
       "num": 948356,
       "word": "网友偶遇国旗护卫队训练被帅到",
@@ -2305,6 +2481,14 @@
       "onboard_time": 1754506754,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17402,
+      "num": 126248,
+      "word": "千山茶客的女主世界",
+      "onboard_time": 1754555065,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 15568,
