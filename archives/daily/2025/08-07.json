@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754577102675,
+  "endTime": 1754578269161,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -129,6 +129,14 @@
       "onboard_time": 1754527582,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 961743,
+      "num": 961743,
+      "word": "健美选手刘一阳逝世",
+      "onboard_time": 1754575884,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 922457,
@@ -603,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 441133,
-      "num": 441133,
-      "word": "健美选手刘一阳逝世",
-      "onboard_time": 1754575884,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 439688,
       "num": 344117,
       "word": "不二之臣",
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374386,
+      "num": 377189,
+      "word": "南昌警方通报工人遭枪击身亡",
+      "onboard_time": 1754577024,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364082,
       "num": 364082,
       "word": "王一栩晒苍兰诀库存",
@@ -769,6 +777,14 @@
       "onboard_time": 1754546666,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349177,
+      "num": 349177,
+      "word": "马库斯说要努力像中国人民一样勇敢",
+      "onboard_time": 1754576664,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347939,
@@ -1019,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250857,
+      "num": 250857,
+      "word": "爱康国宾向患癌女律师索赔1000万",
+      "onboard_time": 1754576844,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248356,
       "num": 248356,
       "word": "王楚钦不吃海鲜",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1754550504,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240940,
+      "num": 240940,
+      "word": "iPhone17Pro或存储翻倍",
+      "onboard_time": 1754577264,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 240780,
@@ -1251,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203156,
+      "num": 203156,
+      "word": "湛江回应凌晨家长不在家孩子被抽血",
+      "onboard_time": 1754577504,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202266,
       "num": 202266,
       "word": "心动8 多角恋",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1754563044,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197014,
+      "num": 197014,
+      "word": "张予曦苦练自拍又没出图",
+      "onboard_time": 1754577445,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196960,
@@ -1547,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176319,
-      "num": 176319,
-      "word": "马库斯说要努力像中国人民一样勇敢",
-      "onboard_time": 1754576664,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176079,
       "num": 176079,
       "word": "韩昊霖真的长成了张若昀",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1754576965,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169309,
+      "num": 169309,
+      "word": "RNGM对战JDG",
+      "onboard_time": 1754577685,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 167974,
@@ -1875,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152146,
+      "num": 152146,
+      "word": "全家人漂流两小时晒出丝袜腿",
+      "onboard_time": 1754576605,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151631,
       "num": 151631,
       "word": "王天辰报平安",
@@ -1905,6 +1961,14 @@
       "onboard_time": 1754542705,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148710,
+      "num": 148710,
+      "word": "锦月如歌时长",
+      "onboard_time": 1754577864,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 148566,
@@ -2003,6 +2067,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 145060,
+      "num": 145060,
+      "word": "骑手博哥多次造谣被永久封号",
+      "onboard_time": 1754578043,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144670,
       "num": 110998,
       "word": "南京照相馆被污蔑话术好一致",
@@ -2019,12 +2091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143903,
+      "num": 143903,
+      "word": "赵露思直播带火葛根茶负责人发声",
+      "onboard_time": 1754577925,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143761,
       "num": 117988,
       "word": "中国佛教协会谈释永信被查",
       "onboard_time": 1754563044,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143653,
+      "num": 153096,
+      "word": "偶遇于适素颜看升旗",
+      "onboard_time": 1754576785,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 143639,
@@ -2048,14 +2136,6 @@
       "word": "天津港爆炸幸存者害怕队友被遗忘",
       "onboard_time": 1754548883,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142212,
-      "num": 142212,
-      "word": "全家人漂流两小时晒出丝袜腿",
-      "onboard_time": 1754576605,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -2113,14 +2193,6 @@
       "onboard_time": 1754545283,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139826,
-      "num": 139826,
-      "word": "爱康国宾向患癌女律师索赔1000万",
-      "onboard_time": 1754576844,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139736,
@@ -2667,6 +2739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122263,
+      "num": 122263,
+      "word": "Faker瑞兹反应",
+      "onboard_time": 1754578103,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122089,
       "num": 291500,
       "word": "全新小鹏P7首发评测",
@@ -2705,14 +2785,6 @@
       "onboard_time": 1754549902,
       "rank": 49,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 120811,
-      "num": 120811,
-      "word": "偶遇于适素颜看升旗",
-      "onboard_time": 1754576785,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 120553,
@@ -2841,6 +2913,14 @@
       "onboard_time": 1754571684,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113576,
+      "num": 113576,
+      "word": "看似正常其实是焦虑的表现",
+      "onboard_time": 1754578223,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113098,
@@ -3017,6 +3097,14 @@
       "onboard_time": 1754526143,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97759,
+      "num": 138681,
+      "word": "孙怡比基尼",
+      "onboard_time": 1754577984,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 97342,
@@ -3371,14 +3459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66794,
-      "num": 140729,
-      "word": "南昌警方通报工人遭枪击身亡",
-      "onboard_time": 1754577024,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66395,
       "num": 205695,
       "word": "痛经假落地难的原因",
@@ -3409,6 +3489,14 @@
       "onboard_time": 1754552753,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60329,
+      "num": 152151,
+      "word": "郑州暴雨一商场员工筑起人墙挡雨",
+      "onboard_time": 1754577085,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 60008,
@@ -3483,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52497,
+      "num": 139863,
+      "word": "三甲医院一医生持弓箭射杀流浪猫",
+      "onboard_time": 1754577565,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52239,
       "num": 141471,
       "word": "林志玲好爱吃泡面",
@@ -3529,6 +3625,14 @@
       "onboard_time": 1754523740,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48457,
+      "num": 241044,
+      "word": "如厕被枪击工人家属称工地没建厕所",
+      "onboard_time": 1754577085,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47787,
@@ -3795,14 +3899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20245,
-      "num": 140222,
-      "word": "郑州暴雨一商场员工筑起人墙挡雨",
-      "onboard_time": 1754577085,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 19423,
       "num": 141847,
       "word": "陶白白60秒视频报价30万",
@@ -3875,14 +3971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12370,
-      "num": 120969,
-      "word": "如厕被枪击工人家属称工地没建厕所",
-      "onboard_time": 1754577085,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9780,
       "num": 21670,
       "word": "巴黎奥运一周年回响",
@@ -3916,6 +4004,9 @@
     },
     {
       "word": "#战略叠加优势如何变发展胜势#"
+    },
+    {
+      "word": "#习近平这样寄语改革创新#"
     }
   ]
 }
