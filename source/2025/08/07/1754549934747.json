@@ -1,0 +1,410 @@
+{
+  "runTime": 1754549934747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3826640,
+        "num": 3826640,
+        "word": "叶珂官宣生了",
+        "onboard_time": 1754543423,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1292126,
+        "num": 1292126,
+        "word": "郑州暴雨",
+        "onboard_time": 1754544024,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25864,
+        "num": 1098691,
+        "word": "立秋迎世运",
+        "onboard_time": 1754537482,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1038841,
+        "num": 1038841,
+        "word": "郑州停产停业停课停运",
+        "onboard_time": 1754547744,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689288,
+        "num": 689288,
+        "word": "孙怡 吃够了爱情的苦",
+        "onboard_time": 1754544384,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539212,
+        "num": 539212,
+        "word": "米线店 包浆碗",
+        "onboard_time": 1754546602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471166,
+        "num": 471166,
+        "word": "微信不做已读功能",
+        "onboard_time": 1754543304,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 458512,
+        "num": 458512,
+        "word": "男子离婚卖掉女儿千万房产",
+        "onboard_time": 1754543965,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431730,
+        "num": 431730,
+        "word": "淘宝闪购奶茶免单",
+        "onboard_time": 1754527462,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 421212,
+        "num": 421212,
+        "word": "天津大爆炸幸存消防员十年后现状",
+        "onboard_time": 1754546482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596306,
+        "num": 419841,
+        "word": "8月份竟然有5个双休",
+        "onboard_time": 1754546543,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 584151,
+        "num": 411386,
+        "word": "韩安冉因孩子姓氏遭国外酒店质疑",
+        "onboard_time": 1754546003,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34964,
+        "num": 396366,
+        "word": "柬埔寨与泰国就停火协议达成共识",
+        "onboard_time": 1754549544,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395151,
+        "num": 395151,
+        "word": "美国驻华大使馆逆天言论",
+        "onboard_time": 1754548942,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351226,
+        "num": 351226,
+        "word": "赵露思同款葛根茶爆单",
+        "onboard_time": 1754546666,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349479,
+        "num": 349479,
+        "word": "李一桐晒立秋第一束奶茶花",
+        "onboard_time": 1754543304,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337793,
+        "num": 337793,
+        "word": "郑州地铁",
+        "onboard_time": 1754549063,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331902,
+        "num": 331902,
+        "word": "原来明星私下聊天都被录下来了",
+        "onboard_time": 1754536341,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239955,
+        "num": 239955,
+        "word": "父亲意外去世18岁接掌2亿家族企业",
+        "onboard_time": 1754549183,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231041,
+        "num": 231041,
+        "word": "胡一天熹妃回宫",
+        "onboard_time": 1754539523,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333535,
+        "num": 230878,
+        "word": "孕妇被全家投喂胖60斤胎儿发育受损",
+        "onboard_time": 1754547084,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255950,
+        "num": 229619,
+        "word": "女孩2岁时基因突变双目失明",
+        "onboard_time": 1754548342,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227419,
+        "num": 227419,
+        "word": "古言男主前十只剩谢景行未影视化",
+        "onboard_time": 1754541443,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227196,
+        "num": 227196,
+        "word": "一万的手机只用了一千的",
+        "onboard_time": 1754546723,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216863,
+        "num": 216863,
+        "word": "腾讯音乐嘉年华阵容",
+        "onboard_time": 1754546183,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212526,
+        "num": 212526,
+        "word": "以爱为营2.0",
+        "onboard_time": 1754549243,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206866,
+        "num": 206866,
+        "word": "赵立坚发了肖战",
+        "onboard_time": 1754536761,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191237,
+        "num": 191237,
+        "word": "金建希确认被拘留",
+        "onboard_time": 1754547503,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185560,
+        "num": 185560,
+        "word": "社保",
+        "onboard_time": 1754524580,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180931,
+        "num": 180931,
+        "word": "小兰花庆生照",
+        "onboard_time": 1754545403,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175621,
+        "num": 175621,
+        "word": "建议把关晓彤李昀锐打包送去团综",
+        "onboard_time": 1754548102,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170092,
+        "num": 170092,
+        "word": "孟子义送奶茶",
+        "onboard_time": 1754547863,
+        "rank": 31,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 167790,
+        "num": 167790,
+        "word": "李承铉我是歌手爆改我是车手",
+        "onboard_time": 1754548942,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167600,
+        "num": 167600,
+        "word": "棣欣引力",
+        "onboard_time": 1754526382,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131288,
+        "num": 154408,
+        "word": "马库斯被731部队罪行震惊到",
+        "onboard_time": 1754548342,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153681,
+        "num": 153681,
+        "word": "河南一高压线突坠致路人触电身亡",
+        "onboard_time": 1754545223,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152162,
+        "num": 152162,
+        "word": "郑州市暴雨红色预警信号",
+        "onboard_time": 1754549063,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149455,
+        "num": 149455,
+        "word": "立秋",
+        "onboard_time": 1754521637,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118336,
+        "num": 148664,
+        "word": "易烊千玺配音成都世运会主题片",
+        "onboard_time": 1754530280,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148563,
+        "num": 148563,
+        "word": "不二之臣 娇妻爹味",
+        "onboard_time": 1754546423,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148284,
+        "num": 148284,
+        "word": "偶遇曾辉韩雨彤",
+        "onboard_time": 1754549243,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144238,
+        "num": 144238,
+        "word": "黄一鸣带两岁女儿拍ct",
+        "onboard_time": 1754541144,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142216,
+        "num": 142216,
+        "word": "天津港爆炸幸存者害怕队友被遗忘",
+        "onboard_time": 1754548883,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131288,
+        "num": 131288,
+        "word": "23岁放弃高工资回小县城月入3千",
+        "onboard_time": 1754549123,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124309,
+        "num": 124309,
+        "word": "我的阿勒泰真的拍保守了",
+        "onboard_time": 1754549902,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123838,
+        "num": 123838,
+        "word": "断崖式戒烟1个月的面部变化",
+        "onboard_time": 1754545464,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122125,
+        "num": 122125,
+        "word": "孙恩盛曾预言自己塌房",
+        "onboard_time": 1754547143,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120040,
+        "num": 120040,
+        "word": "今年的立秋开始流行吃炸鸡了",
+        "onboard_time": 1754548102,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118094,
+        "num": 118094,
+        "word": "女子遭男友施暴后坠亡",
+        "onboard_time": 1754548043,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115221,
+        "num": 115221,
+        "word": "姚晨新风格必有高人指点",
+        "onboard_time": 1754549902,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋楫前行#"
+    }
+  }
+}

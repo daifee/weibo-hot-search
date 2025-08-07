@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754549008556,
+  "endTime": 1754549934747,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -43,6 +43,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1292126,
+      "num": 1292126,
+      "word": "郑州暴雨",
+      "onboard_time": 1754544024,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1038841,
+      "num": 1038841,
+      "word": "郑州停产停业停课停运",
+      "onboard_time": 1754547744,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1005275,
       "num": 1005275,
       "word": "立秋",
@@ -80,14 +96,6 @@
       "word": "事发前仍有大量游客进夏塔景区",
       "onboard_time": 1754533701,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 918976,
-      "num": 918976,
-      "word": "郑州暴雨",
-      "onboard_time": 1754544024,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -219,12 +227,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 596306,
+      "num": 419841,
+      "word": "8月份竟然有5个双休",
+      "onboard_time": 1754546543,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 591023,
       "num": 591023,
       "word": "丁肇忠去世",
       "onboard_time": 1754495124,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 584151,
+      "num": 411386,
+      "word": "韩安冉因孩子姓氏遭国外酒店质疑",
+      "onboard_time": 1754546003,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 580563,
@@ -259,14 +283,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 567720,
-      "num": 371124,
-      "word": "韩安冉因孩子姓氏遭国外酒店质疑",
-      "onboard_time": 1754546003,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 563401,
       "num": 450915,
       "word": "澳洲13岁中国女生杀害14岁中国女生",
@@ -281,6 +297,14 @@
       "onboard_time": 1754543304,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 539212,
+      "num": 539212,
+      "word": "米线店 包浆碗",
+      "onboard_time": 1754546602,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518279,
@@ -305,6 +329,14 @@
       "onboard_time": 1754530280,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458512,
+      "num": 458512,
+      "word": "男子离婚卖掉女儿千万房产",
+      "onboard_time": 1754543965,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 457764,
@@ -355,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421212,
+      "num": 421212,
+      "word": "天津大爆炸幸存消防员十年后现状",
+      "onboard_time": 1754546482,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410442,
       "num": 307620,
       "word": "古言男主前十只剩谢景行未影视化",
@@ -363,20 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401974,
-      "num": 401974,
-      "word": "米线店 包浆碗",
-      "onboard_time": 1754546602,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400919,
-      "num": 400919,
-      "word": "男子离婚卖掉女儿千万房产",
-      "onboard_time": 1754543965,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 395151,
+      "num": 395151,
+      "word": "美国驻华大使馆逆天言论",
+      "onboard_time": 1754548942,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 384320,
@@ -395,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368277,
-      "num": 368277,
-      "word": "天津大爆炸幸存消防员十年后现状",
-      "onboard_time": 1754546482,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364082,
       "num": 364082,
       "word": "王一栩晒苍兰诀库存",
@@ -419,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 348815,
-      "num": 348815,
-      "word": "郑州停产停业停课停运",
-      "onboard_time": 1754547744,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 351226,
+      "num": 351226,
+      "word": "赵露思同款葛根茶爆单",
+      "onboard_time": 1754546666,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 347939,
@@ -443,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337793,
+      "num": 337793,
+      "word": "郑州地铁",
+      "onboard_time": 1754549063,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336463,
       "num": 336463,
       "word": "王楚钦vs陈垣宇",
@@ -451,8 +483,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330028,
-      "num": 212702,
+      "raw_hot": 333535,
+      "num": 230878,
       "word": "孕妇被全家投喂胖60斤胎儿发育受损",
       "onboard_time": 1754547084,
       "rank": 20,
@@ -483,14 +515,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 315394,
-      "num": 315394,
-      "word": "8月份竟然有5个双休",
-      "onboard_time": 1754546543,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 304389,
       "num": 304389,
       "word": "狗群闯入养鸡场咬死600只鸡",
@@ -513,14 +537,6 @@
       "onboard_time": 1754546183,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287520,
-      "num": 287520,
-      "word": "赵露思同款葛根茶爆单",
-      "onboard_time": 1754546666,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 286268,
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255950,
+      "num": 229619,
+      "word": "女孩2岁时基因突变双目失明",
+      "onboard_time": 1754548342,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253781,
       "num": 253781,
       "word": "小S确认出席金钟奖",
@@ -627,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239955,
+      "num": 239955,
+      "word": "父亲意外去世18岁接掌2亿家族企业",
+      "onboard_time": 1754549183,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229183,
       "num": 229183,
       "word": "杨幂送奶茶",
@@ -641,6 +673,14 @@
       "onboard_time": 1754539763,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227196,
+      "num": 227196,
+      "word": "一万的手机只用了一千的",
+      "onboard_time": 1754546723,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 226796,
@@ -691,20 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212797,
-      "num": 212797,
-      "word": "美国驻华大使馆逆天言论",
-      "onboard_time": 1754548942,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 212129,
-      "num": 212129,
-      "word": "一万的手机只用了一千的",
-      "onboard_time": 1754546723,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 212526,
+      "num": 212526,
+      "word": "以爱为营2.0",
+      "onboard_time": 1754549243,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 210593,
@@ -907,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170092,
+      "num": 170092,
+      "word": "孟子义送奶茶",
+      "onboard_time": 1754547863,
+      "rank": 33,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 170090,
       "num": 170090,
       "word": "上海500元一份的披萨",
@@ -915,12 +955,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 168523,
-      "num": 168523,
-      "word": "女孩2岁时基因突变双目失明",
-      "onboard_time": 1754548342,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 167790,
+      "num": 167790,
+      "word": "李承铉我是歌手爆改我是车手",
+      "onboard_time": 1754548942,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 167629,
@@ -929,14 +969,6 @@
       "onboard_time": 1754538983,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162510,
-      "num": 162510,
-      "word": "孟子义送奶茶",
-      "onboard_time": 1754547863,
-      "rank": 33,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 161078,
@@ -1019,6 +1051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152162,
+      "num": 152162,
+      "word": "郑州市暴雨红色预警信号",
+      "onboard_time": 1754549063,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151597,
       "num": 151597,
       "word": "何猷君前女友晒娃",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1754496743,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148284,
+      "num": 148284,
+      "word": "偶遇曾辉韩雨彤",
+      "onboard_time": 1754549243,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 148008,
@@ -1113,6 +1161,14 @@
       "onboard_time": 1754542044,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142216,
+      "num": 142216,
+      "word": "天津港爆炸幸存者害怕队友被遗忘",
+      "onboard_time": 1754548883,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140794,
@@ -1235,14 +1291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131679,
-      "num": 131679,
-      "word": "李承铉我是歌手爆改我是车手",
-      "onboard_time": 1754548942,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131599,
       "num": 131599,
       "word": "女子虐猫致4死2伤是否违法",
@@ -1257,6 +1305,22 @@
       "onboard_time": 1754544864,
       "rank": 49,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 131288,
+      "num": 154408,
+      "word": "马库斯被731部队罪行震惊到",
+      "onboard_time": 1754548342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131288,
+      "num": 131288,
+      "word": "23岁放弃高工资回小县城月入3千",
+      "onboard_time": 1754549123,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 130115,
@@ -1307,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126263,
-      "num": 126263,
-      "word": "马库斯被731部队罪行震惊到",
-      "onboard_time": 1754548342,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125156,
       "num": 125156,
       "word": "一直对农村大席没概念直到吃了一次",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1754546123,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124309,
+      "num": 124309,
+      "word": "我的阿勒泰真的拍保守了",
+      "onboard_time": 1754549902,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 123719,
@@ -1371,6 +1435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 118094,
+      "num": 137371,
+      "word": "女子遭男友施暴后坠亡",
+      "onboard_time": 1754548043,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117723,
       "num": 117723,
       "word": "警方提示千万别下载这两个软件",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1754504475,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115221,
+      "num": 115221,
+      "word": "姚晨新风格必有高人指点",
+      "onboard_time": 1754549902,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 113098,
@@ -1731,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60846,
-      "num": 137371,
-      "word": "女子遭男友施暴后坠亡",
-      "onboard_time": 1754548043,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56913,
       "num": 56913,
       "word": "首个立法规定男女厕位比例的省份",
@@ -1868,7 +1940,7 @@
     },
     {
       "raw_hot": 39229,
-      "num": 1032850,
+      "num": 1098691,
       "word": "立秋迎世运",
       "onboard_time": 1754537482,
       "rank": 2,
@@ -1905,6 +1977,14 @@
       "onboard_time": 1754496084,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34964,
+      "num": 396366,
+      "word": "柬埔寨与泰国就停火协议达成共识",
+      "onboard_time": 1754549544,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30427,
