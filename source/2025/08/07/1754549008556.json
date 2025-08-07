@@ -1,0 +1,410 @@
+{
+  "runTime": 1754549008556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4132848,
+        "num": 4132848,
+        "word": "叶珂官宣生了",
+        "onboard_time": 1754543423,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 918976,
+        "num": 918976,
+        "word": "郑州暴雨",
+        "onboard_time": 1754544024,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25725,
+        "num": 731243,
+        "word": "立秋迎世运",
+        "onboard_time": 1754537482,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 727836,
+        "num": 727836,
+        "word": "孙怡 吃够了爱情的苦",
+        "onboard_time": 1754544384,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540787,
+        "num": 540787,
+        "word": "微信不做已读功能",
+        "onboard_time": 1754543304,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 479719,
+        "num": 479719,
+        "word": "淘宝闪购奶茶免单",
+        "onboard_time": 1754527462,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401974,
+        "num": 401974,
+        "word": "米线店 包浆碗",
+        "onboard_time": 1754546602,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400919,
+        "num": 400919,
+        "word": "男子离婚卖掉女儿千万房产",
+        "onboard_time": 1754543965,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380971,
+        "num": 380971,
+        "word": "原来明星私下聊天都被录下来了",
+        "onboard_time": 1754536341,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246880,
+        "num": 372484,
+        "word": "金建希确认被拘留",
+        "onboard_time": 1754547503,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 567720,
+        "num": 371124,
+        "word": "韩安冉因孩子姓氏遭国外酒店质疑",
+        "onboard_time": 1754546003,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 368277,
+        "num": 368277,
+        "word": "天津大爆炸幸存消防员十年后现状",
+        "onboard_time": 1754546482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348815,
+        "num": 348815,
+        "word": "郑州停产停业停课停运",
+        "onboard_time": 1754547744,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342090,
+        "num": 342090,
+        "word": "李一桐晒立秋第一束奶茶花",
+        "onboard_time": 1754543304,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315394,
+        "num": 315394,
+        "word": "8月份竟然有5个双休",
+        "onboard_time": 1754546543,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290022,
+        "num": 290022,
+        "word": "腾讯音乐嘉年华阵容",
+        "onboard_time": 1754546183,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287520,
+        "num": 287520,
+        "word": "赵露思同款葛根茶爆单",
+        "onboard_time": 1754546666,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281116,
+        "num": 281116,
+        "word": "胡一天熹妃回宫",
+        "onboard_time": 1754539523,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245991,
+        "num": 245991,
+        "word": "古言男主前十只剩谢景行未影视化",
+        "onboard_time": 1754541443,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212797,
+        "num": 212797,
+        "word": "美国驻华大使馆逆天言论",
+        "onboard_time": 1754548942,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330028,
+        "num": 212702,
+        "word": "孕妇被全家投喂胖60斤胎儿发育受损",
+        "onboard_time": 1754547084,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212129,
+        "num": 212129,
+        "word": "一万的手机只用了一千的",
+        "onboard_time": 1754546723,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201702,
+        "num": 201702,
+        "word": "河南一高压线突坠致路人触电身亡",
+        "onboard_time": 1754545223,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200553,
+        "num": 200553,
+        "word": "社保",
+        "onboard_time": 1754524580,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196813,
+        "num": 196813,
+        "word": "赵立坚发了肖战",
+        "onboard_time": 1754536761,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183854,
+        "num": 183854,
+        "word": "棣欣引力",
+        "onboard_time": 1754526382,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176449,
+        "num": 176449,
+        "word": "黄一鸣带两岁女儿拍ct",
+        "onboard_time": 1754541144,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175710,
+        "num": 175710,
+        "word": "建议把关晓彤李昀锐打包送去团综",
+        "onboard_time": 1754548102,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171536,
+        "num": 171536,
+        "word": "易烊千玺配音成都世运会主题片",
+        "onboard_time": 1754530280,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126970,
+        "num": 171063,
+        "word": "孙恩盛曾预言自己塌房",
+        "onboard_time": 1754547143,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174423,
+        "num": 170941,
+        "word": "小兰花庆生照",
+        "onboard_time": 1754545403,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170752,
+        "num": 170752,
+        "word": "怎么可能和谁喝奶茶都一样",
+        "onboard_time": 1754547863,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168523,
+        "num": 168523,
+        "word": "女孩2岁时基因突变双目失明",
+        "onboard_time": 1754548342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162510,
+        "num": 162510,
+        "word": "孟子义送奶茶",
+        "onboard_time": 1754547863,
+        "rank": 33,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 154505,
+        "num": 154505,
+        "word": "有一种友情叫打游戏不嫌弃你菜",
+        "onboard_time": 1754548463,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153204,
+        "num": 153204,
+        "word": "不二之臣 娇妻爹味",
+        "onboard_time": 1754546423,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153165,
+        "num": 153165,
+        "word": "今年的立秋开始流行吃炸鸡了",
+        "onboard_time": 1754548102,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140794,
+        "num": 140794,
+        "word": "王楚钦说对球还得适应下",
+        "onboard_time": 1754547324,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41028,
+        "num": 138726,
+        "word": "武大网红教授说所有学科都是服务业",
+        "onboard_time": 1754547863,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60846,
+        "num": 137371,
+        "word": "女子遭男友施暴后坠亡",
+        "onboard_time": 1754548043,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137269,
+        "num": 137269,
+        "word": "断崖式戒烟1个月的面部变化",
+        "onboard_time": 1754545464,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136170,
+        "num": 136170,
+        "word": "喜欢秋天的理由这一刻具象化了",
+        "onboard_time": 1754548102,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135458,
+        "num": 135458,
+        "word": "立秋",
+        "onboard_time": 1754521637,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131679,
+        "num": 131679,
+        "word": "李承铉我是歌手爆改我是车手",
+        "onboard_time": 1754548942,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126263,
+        "num": 126263,
+        "word": "马库斯被731部队罪行震惊到",
+        "onboard_time": 1754548342,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125603,
+        "num": 125603,
+        "word": "猫咖虐猫致死女子被指系惯犯",
+        "onboard_time": 1754540303,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124453,
+        "num": 124453,
+        "word": "终于知道大家为什么喜欢秋天了",
+        "onboard_time": 1754546123,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101492,
+        "num": 123565,
+        "word": "景德镇打卡点直播偷拍游客",
+        "onboard_time": 1754547684,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123445,
+        "num": 123445,
+        "word": "阿信 又是贴钱上班的一天",
+        "onboard_time": 1754547684,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119218,
+        "num": 119218,
+        "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
+        "onboard_time": 1754539282,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋楫前行#"
+    }
+  }
+}

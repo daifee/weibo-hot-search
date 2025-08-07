@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754545974094,
+  "endTime": 1754549008556,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918976,
+      "num": 918976,
+      "word": "郑州暴雨",
+      "onboard_time": 1754544024,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 918469,
       "num": 918469,
       "word": "棣欣引力",
@@ -129,6 +137,14 @@
       "onboard_time": 1754536761,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 727836,
+      "num": 727836,
+      "word": "孙怡 吃够了爱情的苦",
+      "onboard_time": 1754544384,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 697213,
@@ -243,6 +259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 567720,
+      "num": 371124,
+      "word": "韩安冉因孩子姓氏遭国外酒店质疑",
+      "onboard_time": 1754546003,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 563401,
       "num": 450915,
       "word": "澳洲13岁中国女生杀害14岁中国女生",
@@ -251,12 +275,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 544881,
-      "num": 544881,
-      "word": "郑州暴雨",
-      "onboard_time": 1754544024,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 540787,
+      "num": 540787,
+      "word": "微信不做已读功能",
+      "onboard_time": 1754543304,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 518279,
@@ -339,6 +363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401974,
+      "num": 401974,
+      "word": "米线店 包浆碗",
+      "onboard_time": 1754546602,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400919,
+      "num": 400919,
+      "word": "男子离婚卖掉女儿千万房产",
+      "onboard_time": 1754543965,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384320,
       "num": 329076,
       "word": "专家建议10岁开始存养老钱最划算",
@@ -347,20 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 382828,
-      "num": 382828,
-      "word": "微信不做已读功能",
-      "onboard_time": 1754543304,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 381661,
       "num": 381661,
       "word": "樊振东新身份加入美国职业乒乓联赛",
       "onboard_time": 1754492183,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368277,
+      "num": 368277,
+      "word": "天津大爆炸幸存消防员十年后现状",
+      "onboard_time": 1754546482,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364082,
@@ -379,20 +419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348815,
+      "num": 348815,
+      "word": "郑州停产停业停课停运",
+      "onboard_time": 1754547744,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347939,
       "num": 347939,
       "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
       "onboard_time": 1754539282,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339276,
-      "num": 258320,
-      "word": "孙怡 吃够了爱情的苦",
-      "onboard_time": 1754544384,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 338142,
@@ -409,6 +449,14 @@
       "onboard_time": 1754541562,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330028,
+      "num": 212702,
+      "word": "孕妇被全家投喂胖60斤胎儿发育受损",
+      "onboard_time": 1754547084,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326363,
@@ -435,6 +483,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 315394,
+      "num": 315394,
+      "word": "8月份竟然有5个双休",
+      "onboard_time": 1754546543,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304389,
       "num": 304389,
       "word": "狗群闯入养鸡场咬死600只鸡",
@@ -448,6 +504,22 @@
       "word": "建议杨幂卷发半永久",
       "onboard_time": 1754541323,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 290022,
+      "num": 290022,
+      "word": "腾讯音乐嘉年华阵容",
+      "onboard_time": 1754546183,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 287520,
+      "num": 287520,
+      "word": "赵露思同款葛根茶爆单",
+      "onboard_time": 1754546666,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -531,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246880,
+      "num": 372484,
+      "word": "金建希确认被拘留",
+      "onboard_time": 1754547503,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240780,
       "num": 240780,
       "word": "子夜归定档节奏",
@@ -545,14 +625,6 @@
       "onboard_time": 1754541623,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235385,
-      "num": 235385,
-      "word": "男子离婚卖掉女儿千万房产",
-      "onboard_time": 1754543965,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229183,
@@ -619,6 +691,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212797,
+      "num": 212797,
+      "word": "美国驻华大使馆逆天言论",
+      "onboard_time": 1754548942,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 212129,
+      "num": 212129,
+      "word": "一万的手机只用了一千的",
+      "onboard_time": 1754546723,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210593,
       "num": 210593,
       "word": "杭州高架一理想MEGA起火",
@@ -665,6 +753,14 @@
       "onboard_time": 1754542104,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201702,
+      "num": 201702,
+      "word": "河南一高压线突坠致路人触电身亡",
+      "onboard_time": 1754545223,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201523,
@@ -787,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175710,
+      "num": 175710,
+      "word": "建议把关晓彤李昀锐打包送去团综",
+      "onboard_time": 1754548102,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172770,
       "num": 172770,
       "word": "恋与深空上海滩",
       "onboard_time": 1754536041,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170752,
+      "num": 170752,
+      "word": "怎么可能和谁喝奶茶都一样",
+      "onboard_time": 1754547863,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 170090,
@@ -803,6 +915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168523,
+      "num": 168523,
+      "word": "女孩2岁时基因突变双目失明",
+      "onboard_time": 1754548342,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167629,
       "num": 167629,
       "word": "为什么猫咖没有狸花猫",
@@ -811,12 +931,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165751,
-      "num": 165751,
-      "word": "河南一高压线突坠致路人触电身亡",
-      "onboard_time": 1754545223,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 162510,
+      "num": 162510,
+      "word": "孟子义送奶茶",
+      "onboard_time": 1754547863,
+      "rank": 33,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 161078,
@@ -873,6 +993,30 @@
       "onboard_time": 1754533941,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154505,
+      "num": 154505,
+      "word": "有一种友情叫打游戏不嫌弃你菜",
+      "onboard_time": 1754548463,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 153204,
+      "num": 153204,
+      "word": "不二之臣 娇妻爹味",
+      "onboard_time": 1754546423,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153165,
+      "num": 153165,
+      "word": "今年的立秋开始流行吃炸鸡了",
+      "onboard_time": 1754548102,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 151597,
@@ -971,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140794,
+      "num": 140794,
+      "word": "王楚钦说对球还得适应下",
+      "onboard_time": 1754547324,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140217,
       "num": 140217,
       "word": "理想回应出现大量负面评价",
@@ -1001,6 +1153,22 @@
       "onboard_time": 1754541802,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137269,
+      "num": 137269,
+      "word": "断崖式戒烟1个月的面部变化",
+      "onboard_time": 1754545464,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136170,
+      "num": 136170,
+      "word": "喜欢秋天的理由这一刻具象化了",
+      "onboard_time": 1754548102,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 136158,
@@ -1067,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131679,
+      "num": 131679,
+      "word": "李承铉我是歌手爆改我是车手",
+      "onboard_time": 1754548942,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131599,
       "num": 131599,
       "word": "女子虐猫致4死2伤是否违法",
@@ -1081,14 +1257,6 @@
       "onboard_time": 1754544864,
       "rank": 49,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 130379,
-      "num": 130379,
-      "word": "断崖式戒烟1个月的面部变化",
-      "onboard_time": 1754545464,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 130115,
@@ -1131,6 +1299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126970,
+      "num": 171063,
+      "word": "孙恩盛曾预言自己塌房",
+      "onboard_time": 1754547143,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126263,
+      "num": 126263,
+      "word": "马库斯被731部队罪行震惊到",
+      "onboard_time": 1754548342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125156,
       "num": 125156,
       "word": "一直对农村大席没概念直到吃了一次",
@@ -1139,12 +1323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124453,
+      "num": 124453,
+      "word": "终于知道大家为什么喜欢秋天了",
+      "onboard_time": 1754546123,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123719,
       "num": 123719,
       "word": "北京地铁部分车站本周六封闭",
       "onboard_time": 1754530879,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123445,
+      "num": 123445,
+      "word": "阿信 又是贴钱上班的一天",
+      "onboard_time": 1754547684,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 122089,
@@ -1257,6 +1457,14 @@
       "onboard_time": 1754532501,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101492,
+      "num": 123565,
+      "word": "景德镇打卡点直播偷拍游客",
+      "onboard_time": 1754547684,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100366,
@@ -1523,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60846,
+      "num": 137371,
+      "word": "女子遭男友施暴后坠亡",
+      "onboard_time": 1754548043,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56913,
       "num": 56913,
       "word": "首个立法规定男女厕位比例的省份",
@@ -1633,6 +1849,14 @@
       "onboard_time": 1754522538,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 41028,
+      "num": 138726,
+      "word": "武大网红教授说所有学科都是服务业",
+      "onboard_time": 1754547863,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 40844,
