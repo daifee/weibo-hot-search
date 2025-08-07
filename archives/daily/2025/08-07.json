@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754549934747,
+  "endTime": 1754551980782,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1332918,
+      "num": 1332918,
+      "word": "郑州停产停业停课停运",
+      "onboard_time": 1754547744,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1330151,
       "num": 1026657,
       "word": "淘宝闪购奶茶免单",
@@ -48,14 +56,6 @@
       "word": "郑州暴雨",
       "onboard_time": 1754544024,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1038841,
-      "num": 1038841,
-      "word": "郑州停产停业停课停运",
-      "onboard_time": 1754547744,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 696068,
+      "num": 696068,
+      "word": "美国驻华大使馆逆天言论",
+      "onboard_time": 1754548942,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 695764,
       "num": 695764,
       "word": "生万物定档",
@@ -227,7 +235,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 596306,
+      "raw_hot": 597231,
       "num": 419841,
       "word": "8月份竟然有5个双休",
       "onboard_time": 1754546543,
@@ -283,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 571693,
+      "num": 571693,
+      "word": "郑州地铁",
+      "onboard_time": 1754549063,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 563401,
       "num": 450915,
       "word": "澳洲13岁中国女生杀害14岁中国女生",
@@ -305,6 +321,14 @@
       "onboard_time": 1754546602,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537671,
+      "num": 537671,
+      "word": "以爱为营2.0",
+      "onboard_time": 1754549243,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 518279,
@@ -403,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395151,
-      "num": 395151,
-      "word": "美国驻华大使馆逆天言论",
-      "onboard_time": 1754548942,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 384320,
       "num": 329076,
       "word": "专家建议10岁开始存养老钱最划算",
@@ -467,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337793,
-      "num": 337793,
-      "word": "郑州地铁",
-      "onboard_time": 1754549063,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 336463,
       "num": 336463,
       "word": "王楚钦vs陈垣宇",
@@ -488,6 +496,14 @@
       "word": "孕妇被全家投喂胖60斤胎儿发育受损",
       "onboard_time": 1754547084,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328892,
+      "num": 328892,
+      "word": "父亲意外去世18岁接掌2亿家族企业",
+      "onboard_time": 1754549183,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -595,20 +611,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257125,
+      "num": 229619,
+      "word": "女孩2岁时基因突变双目失明",
+      "onboard_time": 1754548342,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257033,
       "num": 257033,
       "word": "锦月如歌 魔改",
       "onboard_time": 1754484684,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255950,
-      "num": 229619,
-      "word": "女孩2岁时基因突变双目失明",
-      "onboard_time": 1754548342,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253781,
@@ -649,14 +665,6 @@
       "onboard_time": 1754541623,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239955,
-      "num": 239955,
-      "word": "父亲意外去世18岁接掌2亿家族企业",
-      "onboard_time": 1754549183,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229183,
@@ -731,11 +739,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212526,
-      "num": 212526,
-      "word": "以爱为营2.0",
-      "onboard_time": 1754549243,
-      "rank": 25,
+      "raw_hot": 210903,
+      "num": 210903,
+      "word": "谁能演谢景行",
+      "onboard_time": 1754550504,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -811,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201204,
+      "num": 155346,
+      "word": "我的阿勒泰真的拍保守了",
+      "onboard_time": 1754549902,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 199227,
       "num": 199227,
       "word": "赵露思说未来能拍戏就拍",
@@ -875,12 +891,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187771,
+      "num": 187771,
+      "word": "龚俊我俩有点暧昧了",
+      "onboard_time": 1754550863,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186088,
       "num": 186088,
       "word": "不二之臣人设",
       "onboard_time": 1754531600,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182144,
+      "num": 182144,
+      "word": "小沈阳全家用美美桑内头像",
+      "onboard_time": 1754551644,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181979,
+      "num": 181979,
+      "word": "宝妈在影楼哺乳被拍下全程",
+      "onboard_time": 1754550084,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181714,
+      "num": 181714,
+      "word": "建议把关晓彤李昀锐打包送去团综",
+      "onboard_time": 1754548102,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 181145,
@@ -912,14 +960,6 @@
       "word": "张艺兴不让贝壳睡觉",
       "onboard_time": 1754542645,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175710,
-      "num": 175710,
-      "word": "建议把关晓彤李昀锐打包送去团综",
-      "onboard_time": 1754548102,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1059,6 +1099,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151786,
+      "num": 151786,
+      "word": "黄子韬和AK蛐蛐徐艺洋",
+      "onboard_time": 1754551224,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151631,
+      "num": 151631,
+      "word": "丁程鑫训练记录",
+      "onboard_time": 1754551762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151597,
       "num": 151597,
       "word": "何猷君前女友晒娃",
@@ -1195,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138343,
+      "num": 136317,
+      "word": "A股稀土永磁板块爆发",
+      "onboard_time": 1754551165,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138111,
       "num": 140789,
       "word": "吃货脑的立秋仪式感",
@@ -1227,12 +1291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136170,
+      "num": 136170,
+      "word": "好小众的吃炸鸡方式",
+      "onboard_time": 1754551704,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136158,
       "num": 136158,
       "word": "章家敦叫嚣对华加征600%关税",
       "onboard_time": 1754492603,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136045,
+      "num": 136045,
+      "word": "当代年轻人已学会带薪养生",
+      "onboard_time": 1754551403,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 135792,
@@ -1259,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133669,
+      "num": 170793,
+      "word": "小沈阳让女儿给他买秋天第一杯奶茶",
+      "onboard_time": 1754551343,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133547,
       "num": 133547,
       "word": "7岁男孩补习班坠亡细节曝光",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1754536100,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133174,
+      "num": 133174,
+      "word": "这跟15年前的沈眉庄有什么区别",
+      "onboard_time": 1754551464,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 132137,
@@ -1308,7 +1404,7 @@
     },
     {
       "raw_hot": 131288,
-      "num": 154408,
+      "num": 176533,
       "word": "马库斯被731部队罪行震惊到",
       "onboard_time": 1754548342,
       "rank": 44,
@@ -1355,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128766,
+      "num": 128766,
+      "word": "过量运动 大脑衰老",
+      "onboard_time": 1754551883,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 128346,
       "num": 128346,
       "word": "沈腾治好了艾伦的鼻炎",
@@ -1387,14 +1491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124309,
-      "num": 124309,
-      "word": "我的阿勒泰真的拍保守了",
-      "onboard_time": 1754549902,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 123719,
       "num": 123719,
       "word": "北京地铁部分车站本周六封闭",
@@ -1419,12 +1515,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 122050,
+      "num": 122050,
+      "word": "MRC对战Wolves",
+      "onboard_time": 1754551464,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121888,
       "num": 121888,
       "word": "鞠婧祎ins更新",
       "onboard_time": 1754545943,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120874,
+      "num": 120874,
+      "word": "姚晨新风格必有高人指点",
+      "onboard_time": 1754549902,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 118339,
@@ -1465,14 +1577,6 @@
       "onboard_time": 1754504475,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115221,
-      "num": 115221,
-      "word": "姚晨新风格必有高人指点",
-      "onboard_time": 1754549902,
-      "rank": 49,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 113098,
@@ -1587,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95057,
+      "num": 163397,
+      "word": "男孩校外补习坠亡老师解散家长群",
+      "onboard_time": 1754550084,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94399,
       "num": 94399,
       "word": "关闭朋友圈一年后的变化",
@@ -1667,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88397,
+      "num": 134021,
+      "word": "天津大爆炸幸存者回应苟且偷生争议",
+      "onboard_time": 1754551403,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87276,
       "num": 87276,
       "word": "神印王座动画",
@@ -1737,6 +1857,14 @@
       "onboard_time": 1754492545,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77329,
+      "num": 136832,
+      "word": "猫咖店主要与虐猫女死磕到底",
+      "onboard_time": 1754551283,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73772,
@@ -1811,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60008,
+      "num": 259493,
+      "word": "淘宝闪购AG电竞梦幻联动",
+      "onboard_time": 1754550622,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56913,
       "num": 56913,
       "word": "首个立法规定男女厕位比例的省份",
@@ -1824,6 +1960,14 @@
       "word": "决定带智力障碍妹妹逃婚的姐姐",
       "onboard_time": 1754539282,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56100,
+      "num": 136344,
+      "word": "绵阳一螺蛳粉店餐盆里爬肥老鼠",
+      "onboard_time": 1754550143,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1923,6 +2067,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44668,
+      "num": 140067,
+      "word": "建议10岁存养老钱的专家别建议了",
+      "onboard_time": 1754551644,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41264,
+      "num": 137884,
+      "word": "女子称与领导吵架被扇耳光",
+      "onboard_time": 1754550863,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41028,
       "num": 138726,
       "word": "武大网红教授说所有学科都是服务业",
@@ -1985,6 +2145,14 @@
       "onboard_time": 1754549544,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33973,
+      "num": 150741,
+      "word": "佛山全市统一行动大扫除",
+      "onboard_time": 1754551883,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30427,
