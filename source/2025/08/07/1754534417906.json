@@ -1,0 +1,410 @@
+{
+  "runTime": 1754534417906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1415663,
+        "num": 1415663,
+        "word": "社保",
+        "onboard_time": 1754524580,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819310,
+        "num": 819310,
+        "word": "杨洋有效摘面具",
+        "onboard_time": 1754526321,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6014,
+        "num": 611820,
+        "word": "网友偶遇国旗护卫队训练被帅到",
+        "onboard_time": 1754465662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1330151,
+        "num": 611000,
+        "word": "淘宝闪购奶茶免单",
+        "onboard_time": 1754527462,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 881072,
+        "num": 596462,
+        "word": "棣欣引力",
+        "onboard_time": 1754526382,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580690,
+        "num": 580690,
+        "word": "立秋",
+        "onboard_time": 1754521637,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571864,
+        "num": 571864,
+        "word": "陶白白前妻账号永久停更",
+        "onboard_time": 1754510893,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467429,
+        "num": 467429,
+        "word": "吊桥桥索断裂涉事景区已关闭",
+        "onboard_time": 1754530701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458064,
+        "num": 458064,
+        "word": "胡一天开机状态",
+        "onboard_time": 1754532800,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454282,
+        "num": 454282,
+        "word": "易烊千玺配音成都世运会主题片",
+        "onboard_time": 1754530280,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687369,
+        "num": 453530,
+        "word": "不听劝买了别人不要的顶楼后",
+        "onboard_time": 1754527582,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 633610,
+        "num": 451618,
+        "word": "韩追星女不满被叫泡菜妹",
+        "onboard_time": 1754531300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563401,
+        "num": 450915,
+        "word": "澳洲13岁中国女生杀害14岁中国女生",
+        "onboard_time": 1754525481,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 457764,
+        "num": 449572,
+        "word": "天才女友开机",
+        "onboard_time": 1754531661,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448178,
+        "num": 448178,
+        "word": "网传浙大教师坠楼知情学生发声",
+        "onboard_time": 1754526143,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153570,
+        "num": 436538,
+        "word": "免保教费覆盖所有幼儿园大班",
+        "onboard_time": 1754534000,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435474,
+        "num": 435474,
+        "word": "新疆一景区吊桥桥索断裂5死24伤",
+        "onboard_time": 1754523080,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338142,
+        "num": 338142,
+        "word": "胡一天天才女友二番",
+        "onboard_time": 1754533400,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309766,
+        "num": 309766,
+        "word": "樊振东新身份加入美国职业乒乓联赛",
+        "onboard_time": 1754492183,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268288,
+        "num": 268288,
+        "word": "国新办介绍逐步推行免费学前教育",
+        "onboard_time": 1754532981,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266808,
+        "num": 266808,
+        "word": "苍兰诀",
+        "onboard_time": 1754491706,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263463,
+        "num": 263463,
+        "word": "事发前仍有大量游客进夏塔景区",
+        "onboard_time": 1754533701,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244932,
+        "num": 244932,
+        "word": "田曦薇双马尾",
+        "onboard_time": 1754532981,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228581,
+        "num": 228581,
+        "word": "银河酷娱向张芷溪发律师函",
+        "onboard_time": 1754489966,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226796,
+        "num": 226796,
+        "word": "谢震业官宣生子",
+        "onboard_time": 1754532620,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80825,
+        "num": 212343,
+        "word": "今年秋季学期全国支出保教费200亿",
+        "onboard_time": 1754534121,
+        "rank": 25,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 210843,
+        "num": 210843,
+        "word": "立秋吃西瓜不要可劲造",
+        "onboard_time": 1754524400,
+        "rank": 26,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 200261,
+        "num": 200261,
+        "word": "特朗普称将对芯片半导体征约100%关税",
+        "onboard_time": 1754522658,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186550,
+        "num": 186550,
+        "word": "Zara广告因模特太瘦被禁",
+        "onboard_time": 1754486422,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37337,
+        "num": 170657,
+        "word": "免保教费补助资金由央地财政共担",
+        "onboard_time": 1754534121,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157944,
+        "num": 157944,
+        "word": "江苏首富24岁儿子拟任董事",
+        "onboard_time": 1754497101,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157792,
+        "num": 157792,
+        "word": "不二之臣人设",
+        "onboard_time": 1754531600,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155937,
+        "num": 155937,
+        "word": "陶白白",
+        "onboard_time": 1754493745,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155785,
+        "num": 155785,
+        "word": "7个月女儿被哥哥杀害弟弟要求重判",
+        "onboard_time": 1754501778,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154723,
+        "num": 154723,
+        "word": "莫离",
+        "onboard_time": 1754533941,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154700,
+        "num": 154700,
+        "word": "虞书欣丁禹兮或三搭同体",
+        "onboard_time": 1754521818,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150514,
+        "num": 150514,
+        "word": "小S确认出席金钟奖",
+        "onboard_time": 1754527883,
+        "rank": 36,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 149300,
+        "num": 149300,
+        "word": "恋与深空运营方被起诉案13日开庭",
+        "onboard_time": 1754534061,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146849,
+        "num": 146849,
+        "word": "鲁豫问张子枫天分会消失吗",
+        "onboard_time": 1754534301,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140603,
+        "num": 140603,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1754523080,
+        "rank": 39,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 131990,
+        "num": 131990,
+        "word": "百万女网红遭AI换脸盗图造谣",
+        "onboard_time": 1754531180,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128346,
+        "num": 128346,
+        "word": "沈腾治好了艾伦的鼻炎",
+        "onboard_time": 1754533400,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122090,
+        "num": 122090,
+        "word": "一直对农村大席没概念直到吃了一次",
+        "onboard_time": 1754530821,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118982,
+        "num": 118982,
+        "word": "网红秀才疑似借壳复出",
+        "onboard_time": 1754499019,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116410,
+        "num": 116410,
+        "word": "iPhone17官方保护壳首曝",
+        "onboard_time": 1754526923,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106363,
+        "num": 106363,
+        "word": "7岁男孩补习班坠亡细节曝光",
+        "onboard_time": 1754527042,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104979,
+        "num": 104979,
+        "word": "北京地铁部分车站本周六封闭",
+        "onboard_time": 1754530879,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102996,
+        "num": 102996,
+        "word": "专家建议10岁开始存养老钱最划算",
+        "onboard_time": 1754492365,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100366,
+        "num": 100366,
+        "word": "杨幂连剧宣都在宣传非遗工艺",
+        "onboard_time": 1754534360,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100081,
+        "num": 100081,
+        "word": "未来十年最有钱途的城市",
+        "onboard_time": 1754527103,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大食物观里的人民情怀#"
+    }
+  }
+}

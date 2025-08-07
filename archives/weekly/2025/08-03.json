@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754532862366,
+  "endTime": 1754534417906,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -611,6 +611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1330151,
+      "num": 836220,
+      "word": "淘宝闪购奶茶免单",
+      "onboard_time": 1754527462,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1322428,
       "num": 372204,
       "word": "女子例假后游泳大出血向场馆索赔",
@@ -1211,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 836220,
-      "num": 836220,
-      "word": "淘宝闪购奶茶免单",
-      "onboard_time": 1754527462,
-      "rank": 6,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 832396,
       "num": 832396,
       "word": "电影731提示未满18岁请谨慎观看",
@@ -1707,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 633610,
+      "num": 451618,
+      "word": "韩追星女不满被叫泡菜妹",
+      "onboard_time": 1754531300,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629460,
       "num": 603837,
       "word": "董璇 给另一半当妈",
@@ -2027,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571864,
+      "num": 571864,
+      "word": "陶白白前妻账号永久停更",
+      "onboard_time": 1754510893,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 567298,
       "num": 333415,
       "word": "德云社",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1754318786,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563401,
+      "num": 450915,
+      "word": "澳洲13岁中国女生杀害14岁中国女生",
+      "onboard_time": 1754525481,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 562459,
@@ -2339,14 +2363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 492023,
-      "num": 426791,
-      "word": "澳洲13岁中国女生杀害14岁中国女生",
-      "onboard_time": 1754525481,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 491379,
       "num": 314902,
       "word": "关晓彤出汗的腿像打了高光",
@@ -2433,14 +2449,6 @@
       "onboard_time": 1754411780,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477178,
-      "num": 477178,
-      "word": "陶白白前妻账号永久停更",
-      "onboard_time": 1754510893,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 476184,
@@ -2545,6 +2553,22 @@
       "onboard_time": 1754376022,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458064,
+      "num": 458064,
+      "word": "胡一天开机状态",
+      "onboard_time": 1754532800,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 457764,
+      "num": 449572,
+      "word": "天才女友开机",
+      "onboard_time": 1754531661,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 454624,
@@ -3211,14 +3235,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 341388,
-      "num": 341388,
-      "word": "天才女友开机",
-      "onboard_time": 1754531661,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 341176,
       "num": 341176,
       "word": "警方通报小区发生车祸致一死四伤",
@@ -3273,6 +3289,14 @@
       "onboard_time": 1754279244,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338142,
+      "num": 338142,
+      "word": "胡一天天才女友二番",
+      "onboard_time": 1754533400,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 337788,
@@ -3593,14 +3617,6 @@
       "onboard_time": 1754367745,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 301323,
-      "num": 301323,
-      "word": "韩追星女不满被叫泡菜妹",
-      "onboard_time": 1754531300,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 301173,
@@ -3971,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268288,
+      "num": 268288,
+      "word": "国新办介绍逐步推行免费学前教育",
+      "onboard_time": 1754532981,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268093,
       "num": 268093,
       "word": "锦月如歌开播",
@@ -4025,6 +4049,14 @@
       "onboard_time": 1754299823,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263463,
+      "num": 263463,
+      "word": "事发前仍有大量游客进夏塔景区",
+      "onboard_time": 1754533701,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261210,
@@ -4331,6 +4363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244932,
+      "num": 244932,
+      "word": "田曦薇双马尾",
+      "onboard_time": 1754532981,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244311,
       "num": 244311,
       "word": "光遇",
@@ -4585,6 +4625,14 @@
       "onboard_time": 1754454083,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226796,
+      "num": 226796,
+      "word": "谢震业官宣生子",
+      "onboard_time": 1754532620,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 226706,
@@ -5593,14 +5641,6 @@
       "onboard_time": 1754399243,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191604,
-      "num": 191604,
-      "word": "胡一天开机状态",
-      "onboard_time": 1754532800,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 191360,
@@ -7267,6 +7307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154723,
+      "num": 154723,
+      "word": "莫离",
+      "onboard_time": 1754533941,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154308,
       "num": 222241,
       "word": "披荆斩棘5首发阵容",
@@ -7313,6 +7361,14 @@
       "onboard_time": 1754492484,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153570,
+      "num": 436538,
+      "word": "免保教费覆盖所有幼儿园大班",
+      "onboard_time": 1754534000,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153505,
@@ -7603,6 +7659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149300,
+      "num": 149300,
+      "word": "恋与深空运营方被起诉案13日开庭",
+      "onboard_time": 1754534061,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149266,
       "num": 149266,
       "word": "香奈儿婴幼儿时期童年照",
@@ -7721,6 +7785,14 @@
       "onboard_time": 1754387123,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146849,
+      "num": 146849,
+      "word": "鲁豫问张子枫天分会消失吗",
+      "onboard_time": 1754534301,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 146812,
@@ -8145,6 +8217,14 @@
       "onboard_time": 1754199204,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140603,
+      "num": 140603,
+      "word": "秋天的第一杯奶茶",
+      "onboard_time": 1754523080,
+      "rank": 28,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 140581,
@@ -8771,6 +8851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131990,
+      "num": 131990,
+      "word": "百万女网红遭AI换脸盗图造谣",
+      "onboard_time": 1754531180,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "小米手机欧洲市场份额排名第二",
@@ -9051,6 +9139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128346,
+      "num": 128346,
+      "word": "沈腾治好了艾伦的鼻炎",
+      "onboard_time": 1754533400,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128114,
       "num": 128114,
       "word": "女子轻信代抢演唱会门票被骗19万元",
@@ -9137,14 +9233,6 @@
       "onboard_time": 1754371102,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127404,
-      "num": 127404,
-      "word": "百万女网红遭AI换脸盗图造谣",
-      "onboard_time": 1754531180,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127341,
@@ -10555,14 +10643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110700,
-      "num": 110700,
-      "word": "谢震业官宣生子",
-      "onboard_time": 1754532620,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110601,
       "num": 110601,
       "word": "只有当妈后才懂她有多正确",
@@ -11179,6 +11259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100366,
+      "num": 100366,
+      "word": "杨幂连剧宣都在宣传非遗工艺",
+      "onboard_time": 1754534360,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100188,
       "num": 100188,
       "word": "太阳大到出地铁以为上天堂了",
@@ -11617,14 +11705,6 @@
       "onboard_time": 1754394203,
       "rank": 45,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 93341,
-      "num": 93341,
-      "word": "秋天的第一杯奶茶",
-      "onboard_time": 1754523080,
-      "rank": 28,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 93309,
@@ -12297,6 +12377,14 @@
       "onboard_time": 1754305401,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80825,
+      "num": 212343,
+      "word": "今年秋季学期全国支出保教费200亿",
+      "onboard_time": 1754534121,
+      "rank": 25,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 80776,
@@ -13665,6 +13753,14 @@
       "onboard_time": 1754375183,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37337,
+      "num": 170657,
+      "word": "免保教费补助资金由央地财政共担",
+      "onboard_time": 1754534121,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36770,
