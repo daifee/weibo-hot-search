@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754575110196,
+  "endTime": 1754577102675,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1405364,
-      "num": 1405364,
+      "raw_hot": 1640618,
+      "num": 1640618,
       "word": "将门毒后",
       "onboard_time": 1754572344,
       "rank": 43,
@@ -579,6 +579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 445953,
+      "num": 445953,
+      "word": "台湾60米高压电缆上惊现男尸",
+      "onboard_time": 1754571023,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445177,
       "num": 445177,
       "word": "免保教费覆盖所有幼儿园大班",
@@ -592,6 +600,14 @@
       "word": "世运会开幕烟花绝了",
       "onboard_time": 1754570363,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 441133,
+      "num": 441133,
+      "word": "健美选手刘一阳逝世",
+      "onboard_time": 1754575884,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -715,20 +731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 372495,
-      "num": 372495,
-      "word": "台湾60米高压电缆上惊现男尸",
-      "onboard_time": 1754571023,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364082,
       "num": 364082,
       "word": "王一栩晒苍兰诀库存",
       "onboard_time": 1754538141,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362236,
+      "num": 362236,
+      "word": "网传苏新皓参加这就是街舞7",
+      "onboard_time": 1754575344,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 361055,
@@ -825,6 +841,14 @@
       "onboard_time": 1754488524,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 316204,
+      "num": 316204,
+      "word": "以色列称原子弹是日本的报应",
+      "onboard_time": 1754569344,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 308106,
@@ -1075,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223541,
-      "num": 223541,
-      "word": "以色列称原子弹是日本的报应",
-      "onboard_time": 1754569344,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 223152,
       "num": 223152,
       "word": "立秋吃西瓜不要可劲造",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1754571744,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209178,
+      "num": 170743,
+      "word": "减肥神药为何跌落神坛",
+      "onboard_time": 1754575644,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209024,
@@ -1475,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180161,
+      "num": 180161,
+      "word": "释永信被查为全国佛教界敲响了警钟",
+      "onboard_time": 1754566702,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179359,
       "num": 179359,
       "word": "披荆斩棘的哥哥",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1754542645,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176319,
+      "num": 176319,
+      "word": "马库斯说要努力像中国人民一样勇敢",
+      "onboard_time": 1754576664,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176079,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1754571265,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169546,
+      "num": 169546,
+      "word": "世运会焰火总设计说太值得了",
+      "onboard_time": 1754576965,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 167974,
@@ -2003,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142212,
+      "num": 142212,
+      "word": "全家人漂流两小时晒出丝袜腿",
+      "onboard_time": 1754576605,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142105,
       "num": 142105,
       "word": "江衡 帮我看看他在干嘛",
@@ -2012,7 +2068,7 @@
     },
     {
       "raw_hot": 142029,
-      "num": 142029,
+      "num": 170914,
       "word": "丞磊周也 爹爹带女儿出门",
       "onboard_time": 1754573545,
       "rank": 43,
@@ -2057,6 +2113,14 @@
       "onboard_time": 1754545283,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139826,
+      "num": 139826,
+      "word": "爱康国宾向患癌女律师索赔1000万",
+      "onboard_time": 1754576844,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139736,
@@ -2411,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130044,
-      "num": 137335,
-      "word": "释永信被查为全国佛教界敲响了警钟",
-      "onboard_time": 1754566702,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129442,
       "num": 129442,
       "word": "只有晕车人才懂的绝望瞬间",
@@ -2433,6 +2489,14 @@
       "onboard_time": 1754496503,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129142,
+      "num": 129142,
+      "word": "成都世运会圣火点燃",
+      "onboard_time": 1754576544,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 128967,
@@ -2643,6 +2707,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 120811,
+      "num": 120811,
+      "word": "偶遇于适素颜看升旗",
+      "onboard_time": 1754576785,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120553,
       "num": 120553,
       "word": "天才女友",
@@ -2763,6 +2835,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 113948,
+      "num": 143485,
+      "word": "网友评的90后扛剧生花",
+      "onboard_time": 1754571684,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113098,
       "num": 144409,
       "word": "16架歼20一字排开",
@@ -2825,6 +2905,22 @@
       "onboard_time": 1754554283,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108669,
+      "num": 108669,
+      "word": "伊涅芙大改造",
+      "onboard_time": 1754577085,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 106568,
+      "num": 106568,
+      "word": "肖俊生日会",
+      "onboard_time": 1754576904,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 106081,
@@ -3139,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80297,
+      "num": 122030,
+      "word": "立秋第一杯奶茶的风吹到车圈了",
+      "onboard_time": 1754576424,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79216,
       "num": 79216,
       "word": "少林寺回应离职潮",
@@ -3259,20 +3363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67691,
-      "num": 143485,
-      "word": "网友评的90后扛剧生花",
-      "onboard_time": 1754571684,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67372,
       "num": 67372,
       "word": "曝沈玉琳患血癌",
       "onboard_time": 1754485943,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66794,
+      "num": 140729,
+      "word": "南昌警方通报工人遭枪击身亡",
+      "onboard_time": 1754577024,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66395,
@@ -3675,12 +3779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22191,
+      "num": 290141,
+      "word": "如何让锰元素乖乖听话",
+      "onboard_time": 1754573065,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21008,
       "num": 219306,
       "word": "秋天第一杯是杨幂请的",
       "onboard_time": 1754553683,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20245,
+      "num": 140222,
+      "word": "郑州暴雨一商场员工筑起人墙挡雨",
+      "onboard_time": 1754577085,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 19423,
@@ -3731,14 +3851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16363,
-      "num": 290141,
-      "word": "如何让锰元素乖乖听话",
-      "onboard_time": 1754573065,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 15568,
       "num": 54818,
       "word": "广西小伙在云南旅游连救2人",
@@ -3760,6 +3872,14 @@
       "word": "网友称喜茶杯内现标签门店仅退款",
       "onboard_time": 1754510474,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12370,
+      "num": 120969,
+      "word": "如厕被枪击工人家属称工地没建厕所",
+      "onboard_time": 1754577085,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
