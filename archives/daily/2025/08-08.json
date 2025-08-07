@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754599560474,
+  "endTime": 1754601992360,
   "band_list": [
     {
       "raw_hot": 955191,
@@ -539,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18326,
+      "num": 18326,
+      "word": "特朗普称美俄会谈富有成效",
+      "onboard_time": 1754599993,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15489,
       "num": 18316,
       "word": "上了高中你会发现各学科的规律",
@@ -547,7 +555,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14358,
+      "raw_hot": 14397,
       "num": 18329,
       "word": "宋茜回应立秋打错成中秋",
       "onboard_time": 1754596873,
@@ -577,6 +585,14 @@
       "onboard_time": 1754594536,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10463,
+      "num": 29811,
+      "word": "58名加沙人领物资时遭袭死亡",
+      "onboard_time": 1754599874,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9869,
