@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754601992360,
+  "endTime": 1754602969895,
   "band_list": [
     {
       "raw_hot": 955191,
@@ -539,12 +539,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18326,
-      "num": 18326,
+      "raw_hot": 18445,
+      "num": 18445,
       "word": "特朗普称美俄会谈富有成效",
       "onboard_time": 1754599993,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16911,
+      "num": 29811,
+      "word": "58名加沙人领物资时遭袭死亡",
+      "onboard_time": 1754599874,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15616,
+      "num": 18329,
+      "word": "宋茜回应立秋打错成中秋",
+      "onboard_time": 1754596873,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 15489,
@@ -553,14 +569,6 @@
       "onboard_time": 1754597774,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14397,
-      "num": 18329,
-      "word": "宋茜回应立秋打错成中秋",
-      "onboard_time": 1754596873,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 14242,
@@ -587,11 +595,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10463,
-      "num": 29811,
-      "word": "58名加沙人领物资时遭袭死亡",
-      "onboard_time": 1754599874,
-      "rank": 16,
+      "raw_hot": 10018,
+      "num": 27944,
+      "word": "印度关注垃圾食品危机",
+      "onboard_time": 1754602754,
+      "rank": 22,
       "category": "海外新闻"
     },
     {
