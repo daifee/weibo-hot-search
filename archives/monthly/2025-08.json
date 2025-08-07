@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754539827704,
+  "endTime": 1754540998135,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1858853,
+      "num": 1858853,
+      "word": "原来明星私下聊天都被录下来了",
+      "onboard_time": 1754536341,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1839250,
       "num": 1839250,
       "word": "苍兰诀",
@@ -729,14 +737,6 @@
       "onboard_time": 1754489905,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1413309,
-      "num": 1413309,
-      "word": "原来明星私下聊天都被录下来了",
-      "onboard_time": 1754536341,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1401019,
@@ -1499,6 +1499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 922457,
+      "num": 922457,
+      "word": "事发前仍有大量游客进夏塔景区",
+      "onboard_time": 1754533701,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 921334,
       "num": 295152,
       "word": "易烊千玺好美",
@@ -1939,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 751608,
+      "num": 751608,
+      "word": "缅甸代总统因病逝世",
+      "onboard_time": 1754538202,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 748805,
       "num": 748805,
       "word": "银行职员夫妻回应下班偷偷送外卖",
@@ -2024,6 +2040,14 @@
       "word": "王俊凯王源易烊千玺生日快乐亲爱的你们",
       "onboard_time": 1754414718,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 729382,
+      "num": 729382,
+      "word": "赵立坚发了肖战",
+      "onboard_time": 1754536761,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2153,6 +2177,14 @@
       "onboard_time": 1754501778,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 695764,
+      "num": 695764,
+      "word": "生万物定档",
+      "onboard_time": 1754537362,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 692583,
@@ -2288,14 +2320,6 @@
       "word": "挂掉记者电话工作人员被严肃批评",
       "onboard_time": 1754183242,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 667457,
-      "num": 667457,
-      "word": "事发前仍有大量游客进夏塔景区",
-      "onboard_time": 1754533701,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -2444,7 +2468,7 @@
     },
     {
       "raw_hot": 633610,
-      "num": 491434,
+      "num": 509492,
       "word": "韩追星女不满被叫泡菜妹",
       "onboard_time": 1754531300,
       "rank": 17,
@@ -3049,14 +3073,6 @@
       "onboard_time": 1754149827,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 537918,
-      "num": 537918,
-      "word": "生万物定档",
-      "onboard_time": 1754537362,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 535420,
@@ -3795,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437752,
+      "num": 500743,
+      "word": "21岁小伙被骗至缅甸近1年经常挨打",
+      "onboard_time": 1754536341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434933,
       "num": 434933,
       "word": "光与夜之恋",
@@ -3832,6 +3856,14 @@
       "word": "王源",
       "onboard_time": 1754412140,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 426193,
+      "num": 426193,
+      "word": "胡一天熹妃回宫",
+      "onboard_time": 1754539523,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -4001,14 +4033,6 @@
       "onboard_time": 1754357182,
       "rank": 9,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 406569,
-      "num": 406569,
-      "word": "赵立坚发了肖战",
-      "onboard_time": 1754536761,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 406209,
@@ -4395,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364082,
+      "num": 364082,
+      "word": "王一栩晒苍兰诀库存",
+      "onboard_time": 1754538141,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363701,
       "num": 363701,
       "word": "苏超盐城vs常州",
@@ -4459,6 +4491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361055,
+      "num": 361055,
+      "word": "杨幂宁绣绣第一章天崩开局",
+      "onboard_time": 1754536942,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359767,
       "num": 332557,
       "word": "日本反华的根源",
@@ -4473,14 +4513,6 @@
       "onboard_time": 1754360722,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 359187,
-      "num": 359187,
-      "word": "杨幂宁绣绣第一章天崩开局",
-      "onboard_time": 1754536942,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 358738,
@@ -4569,6 +4601,14 @@
       "onboard_time": 1754219845,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347939,
+      "num": 347939,
+      "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
+      "onboard_time": 1754539282,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347595,
@@ -4956,7 +4996,7 @@
     },
     {
       "raw_hot": 321718,
-      "num": 253531,
+      "num": 308607,
       "word": "田曦薇双马尾",
       "onboard_time": 1754532981,
       "rank": 22,
@@ -5315,14 +5355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297753,
-      "num": 297753,
-      "word": "缅甸代总统因病逝世",
-      "onboard_time": 1754538202,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 296750,
       "num": 216937,
       "word": "比生娃还痛的蛇缠腰",
@@ -5409,14 +5441,6 @@
       "onboard_time": 1754065522,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293829,
-      "num": 233181,
-      "word": "王一栩晒苍兰诀库存",
-      "onboard_time": 1754538141,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 293436,
@@ -5745,6 +5769,14 @@
       "onboard_time": 1754317707,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271247,
+      "num": 271247,
+      "word": "于正谈张芷溪与银河酷娱纠纷",
+      "onboard_time": 1754539462,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 270685,
@@ -6179,6 +6211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252900,
+      "num": 252900,
+      "word": "杨洋现在还在做腿部康复",
+      "onboard_time": 1754540361,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252870,
       "num": 410960,
       "word": "基孔肯雅热全球流行范围持续扩大",
@@ -6387,6 +6427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243537,
+      "num": 243537,
+      "word": "饿了么崩了",
+      "onboard_time": 1754539943,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 243447,
       "num": 254446,
       "word": "虞书欣告黑案胜诉",
@@ -6416,6 +6464,14 @@
       "word": "这竟然是刘骏",
       "onboard_time": 1754485643,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240780,
+      "num": 240780,
+      "word": "子夜归定档节奏",
+      "onboard_time": 1754538803,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -6697,6 +6753,14 @@
       "onboard_time": 1754099541,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 228794,
+      "num": 228794,
+      "word": "比苏大强更气人的爹出现了",
+      "onboard_time": 1754539763,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 228718,
@@ -7011,14 +7075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221147,
-      "num": 221147,
-      "word": "胡一天熹妃回宫",
-      "onboard_time": 1754539523,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221134,
       "num": 221134,
       "word": "恋综女嘉宾被闺蜜心动男生表白",
@@ -7201,6 +7257,14 @@
       "onboard_time": 1754017221,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 215636,
+      "num": 215636,
+      "word": "朴施厚被曝拉皮条",
+      "onboard_time": 1754537841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 215430,
@@ -7393,14 +7457,6 @@
       "onboard_time": 1754351961,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211400,
-      "num": 211400,
-      "word": "子夜归定档节奏",
-      "onboard_time": 1754538803,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 210867,
@@ -7675,6 +7731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206544,
+      "num": 206544,
+      "word": "猫咖虐猫致死女子被指系惯犯",
+      "onboard_time": 1754540303,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206513,
       "num": 199889,
       "word": "包上恩这张脸演校花拿什么输",
@@ -7817,6 +7881,14 @@
       "onboard_time": 1754400085,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204345,
+      "num": 204345,
+      "word": "李云霄 龙骨焚箱",
+      "onboard_time": 1754540665,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204318,
@@ -8081,14 +8153,6 @@
       "onboard_time": 1754383704,
       "rank": 26,
       "category": "艺人,辟谣/通报"
-    },
-    {
-      "raw_hot": 199984,
-      "num": 500743,
-      "word": "21岁小伙被骗至缅甸近1年经常挨打",
-      "onboard_time": 1754536341,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199662,
@@ -8667,6 +8731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 190523,
+      "num": 190523,
+      "word": "未定事件簿",
+      "onboard_time": 1754540361,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190487,
       "num": 190487,
       "word": "虞书欣丁禹兮或三搭同体",
@@ -9065,14 +9137,6 @@
       "onboard_time": 1754302163,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185242,
-      "num": 185242,
-      "word": "朴施厚被曝拉皮条",
-      "onboard_time": 1754537841,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 185182,
@@ -10083,6 +10147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170090,
+      "num": 170090,
+      "word": "上海500元一份的披萨",
+      "onboard_time": 1754540544,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170026,
       "num": 170026,
       "word": "高温每天10小时超长待机",
@@ -10217,6 +10289,14 @@
       "onboard_time": 1754360663,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167629,
+      "num": 167629,
+      "word": "为什么猫咖没有狸花猫",
+      "onboard_time": 1754538983,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 167569,
@@ -10481,14 +10561,6 @@
       "onboard_time": 1754273781,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 164259,
-      "num": 164259,
-      "word": "为什么猫咖没有狸花猫",
-      "onboard_time": 1754538983,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 164150,
@@ -11961,14 +12033,6 @@
       "onboard_time": 1754044345,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 148374,
-      "num": 148374,
-      "word": "于正谈张芷溪与银河酷娱纠纷",
-      "onboard_time": 1754539462,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 148216,
@@ -14203,14 +14267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128570,
-      "num": 164403,
-      "word": "比苏大强更气人的爹出现了",
-      "onboard_time": 1754539763,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128410,
       "num": 157345,
       "word": "倪妮回应跳海戏不戴威亚",
@@ -15084,7 +15140,7 @@
     },
     {
       "raw_hot": 122089,
-      "num": 236907,
+      "num": 291500,
       "word": "全新小鹏P7首发评测",
       "onboard_time": 1754536281,
       "rank": 23,
@@ -16595,6 +16651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108880,
+      "num": 509970,
+      "word": "老外扎堆涌入上海买买买",
+      "onboard_time": 1754540604,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108864,
       "num": 108864,
       "word": "母子五人在英国被安置在集装箱",
@@ -17425,6 +17489,14 @@
       "onboard_time": 1753960463,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98554,
+      "num": 195899,
+      "word": "女子忘拔电蚊香液把家给烧光",
+      "onboard_time": 1754540544,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98365,
@@ -18353,14 +18425,6 @@
       "onboard_time": 1754445140,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 87362,
-      "num": 164805,
-      "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
-      "onboard_time": 1754539282,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87356,
@@ -20291,6 +20355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47201,
+      "num": 452439,
+      "word": "被金晨和淘宝闪购甜到了",
+      "onboard_time": 1754539282,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 47157,
       "num": 152516,
       "word": "我减肥就李乃文这样",
@@ -20627,12 +20699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38225,
+      "num": 376149,
+      "word": "假院士阮少平的副校长身份也是假的",
+      "onboard_time": 1754540482,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37967,
       "num": 39199,
       "word": "锦月如歌重生改成假死",
       "onboard_time": 1754501537,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37888,
+      "num": 1032850,
+      "word": "立秋迎世运",
+      "onboard_time": 1754537482,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 37846,
@@ -20921,14 +21009,6 @@
       "onboard_time": 1754447421,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30980,
-      "num": 1032850,
-      "word": "立秋迎世运",
-      "onboard_time": 1754537482,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 30925,
@@ -21641,14 +21721,6 @@
       "onboard_time": 1754485282,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12631,
-      "num": 430237,
-      "word": "被金晨和淘宝闪购甜到了",
-      "onboard_time": 1754539282,
-      "rank": 14,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 11890,

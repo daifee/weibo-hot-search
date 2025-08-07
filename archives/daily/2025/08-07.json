@@ -1,7 +1,15 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754539827704,
+  "endTime": 1754540998135,
   "band_list": [
+    {
+      "raw_hot": 1858853,
+      "num": 1858853,
+      "word": "原来明星私下聊天都被录下来了",
+      "onboard_time": 1754536341,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1839250,
       "num": 1839250,
@@ -17,14 +25,6 @@
       "onboard_time": 1754524580,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1413309,
-      "num": 1413309,
-      "word": "原来明星私下聊天都被录下来了",
-      "onboard_time": 1754536341,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1330151,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 922457,
+      "num": 922457,
+      "word": "事发前仍有大量游客进夏塔景区",
+      "onboard_time": 1754533701,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 918469,
       "num": 918469,
       "word": "棣欣引力",
@@ -91,12 +99,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 751608,
+      "num": 751608,
+      "word": "缅甸代总统因病逝世",
+      "onboard_time": 1754538202,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 729382,
+      "num": 729382,
+      "word": "赵立坚发了肖战",
+      "onboard_time": 1754536761,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697213,
       "num": 697213,
       "word": "7个月女儿被哥哥杀害弟弟要求重判",
       "onboard_time": 1754501778,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 695764,
+      "num": 695764,
+      "word": "生万物定档",
+      "onboard_time": 1754537362,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 691145,
@@ -115,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 667457,
-      "num": 667457,
-      "word": "事发前仍有大量游客进夏塔景区",
-      "onboard_time": 1754533701,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 634496,
       "num": 634496,
       "word": "公办民办幼儿园均可享受免保教费",
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 633610,
-      "num": 491434,
+      "num": 509492,
       "word": "韩追星女不满被叫泡菜妹",
       "onboard_time": 1754531300,
       "rank": 17,
@@ -195,14 +219,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 537918,
-      "num": 537918,
-      "word": "生万物定档",
-      "onboard_time": 1754537362,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 518279,
       "num": 518279,
       "word": "江苏首富之子拟任400亿市值公司董事",
@@ -259,11 +275,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 406569,
-      "num": 406569,
-      "word": "赵立坚发了肖战",
-      "onboard_time": 1754536761,
-      "rank": 16,
+      "raw_hot": 437752,
+      "num": 500743,
+      "word": "21岁小伙被骗至缅甸近1年经常挨打",
+      "onboard_time": 1754536341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426193,
+      "num": 426193,
+      "word": "胡一天熹妃回宫",
+      "onboard_time": 1754539523,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -283,12 +307,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359187,
-      "num": 359187,
+      "raw_hot": 364082,
+      "num": 364082,
+      "word": "王一栩晒苍兰诀库存",
+      "onboard_time": 1754538141,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 361055,
+      "num": 361055,
       "word": "杨幂宁绣绣第一章天崩开局",
       "onboard_time": 1754536942,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347939,
+      "num": 347939,
+      "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
+      "onboard_time": 1754539282,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338142,
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 321718,
-      "num": 253531,
+      "num": 308607,
       "word": "田曦薇双马尾",
       "onboard_time": 1754532981,
       "rank": 22,
@@ -331,20 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297753,
-      "num": 297753,
-      "word": "缅甸代总统因病逝世",
-      "onboard_time": 1754538202,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 293829,
-      "num": 233181,
-      "word": "王一栩晒苍兰诀库存",
-      "onboard_time": 1754538141,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 271247,
+      "num": 271247,
+      "word": "于正谈张芷溪与银河酷娱纠纷",
+      "onboard_time": 1754539462,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 270530,
@@ -387,12 +419,44 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 252900,
+      "num": 252900,
+      "word": "杨洋现在还在做腿部康复",
+      "onboard_time": 1754540361,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243537,
+      "num": 243537,
+      "word": "饿了么崩了",
+      "onboard_time": 1754539943,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 240780,
+      "num": 240780,
+      "word": "子夜归定档节奏",
+      "onboard_time": 1754538803,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229183,
       "num": 229183,
       "word": "杨幂送奶茶",
       "onboard_time": 1754534721,
       "rank": 25,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 228794,
+      "num": 228794,
+      "word": "比苏大强更气人的爹出现了",
+      "onboard_time": 1754539763,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 226796,
@@ -411,14 +475,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 221147,
-      "num": 221147,
-      "word": "胡一天熹妃回宫",
-      "onboard_time": 1754539523,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220486,
       "num": 220486,
       "word": "网红刘大悦患甲状腺癌",
@@ -427,12 +483,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 211400,
-      "num": 211400,
-      "word": "子夜归定档节奏",
-      "onboard_time": 1754538803,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 215636,
+      "num": 215636,
+      "word": "朴施厚被曝拉皮条",
+      "onboard_time": 1754537841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 210593,
@@ -451,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199984,
-      "num": 500743,
-      "word": "21岁小伙被骗至缅甸近1年经常挨打",
-      "onboard_time": 1754536341,
-      "rank": 9,
+      "raw_hot": 206544,
+      "num": 206544,
+      "word": "猫咖虐猫致死女子被指系惯犯",
+      "onboard_time": 1754540303,
+      "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204345,
+      "num": 204345,
+      "word": "李云霄 龙骨焚箱",
+      "onboard_time": 1754540665,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 199227,
@@ -483,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190523,
+      "num": 190523,
+      "word": "未定事件簿",
+      "onboard_time": 1754540361,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190487,
       "num": 190487,
       "word": "虞书欣丁禹兮或三搭同体",
@@ -497,14 +569,6 @@
       "onboard_time": 1754531600,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185242,
-      "num": 185242,
-      "word": "朴施厚被曝拉皮条",
-      "onboard_time": 1754537841,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 181145,
@@ -531,8 +595,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164259,
-      "num": 164259,
+      "raw_hot": 170090,
+      "num": 170090,
+      "word": "上海500元一份的披萨",
+      "onboard_time": 1754540544,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 167629,
+      "num": 167629,
       "word": "为什么猫咖没有狸花猫",
       "onboard_time": 1754538983,
       "rank": 40,
@@ -601,14 +673,6 @@
       "onboard_time": 1754496743,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148374,
-      "num": 148374,
-      "word": "于正谈张芷溪与银河酷娱纠纷",
-      "onboard_time": 1754539462,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 146849,
@@ -739,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128570,
-      "num": 164403,
-      "word": "比苏大强更气人的爹出现了",
-      "onboard_time": 1754539763,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128346,
       "num": 128346,
       "word": "沈腾治好了艾伦的鼻炎",
@@ -772,7 +828,7 @@
     },
     {
       "raw_hot": 122089,
-      "num": 236907,
+      "num": 291500,
       "word": "全新小鹏P7首发评测",
       "onboard_time": 1754536281,
       "rank": 23,
@@ -835,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108880,
+      "num": 509970,
+      "word": "老外扎堆涌入上海买买买",
+      "onboard_time": 1754540604,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106081,
       "num": 106081,
       "word": "赵露思直播时特意提到大粉的名字",
@@ -873,6 +937,14 @@
       "onboard_time": 1754534360,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98554,
+      "num": 195899,
+      "word": "女子忘拔电蚊香液把家给烧光",
+      "onboard_time": 1754540544,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98451,
@@ -969,14 +1041,6 @@
       "onboard_time": 1754500338,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87362,
-      "num": 164805,
-      "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
-      "onboard_time": 1754539282,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87276,
@@ -1195,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47201,
+      "num": 452439,
+      "word": "被金晨和淘宝闪购甜到了",
+      "onboard_time": 1754539282,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 46654,
       "num": 46654,
       "word": "韩亿要起诉郑燕姿",
@@ -1219,12 +1291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38225,
+      "num": 376149,
+      "word": "假院士阮少平的副校长身份也是假的",
+      "onboard_time": 1754540482,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37967,
       "num": 39199,
       "word": "锦月如歌重生改成假死",
       "onboard_time": 1754501537,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37888,
+      "num": 1032850,
+      "word": "立秋迎世运",
+      "onboard_time": 1754537482,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 37337,
@@ -1241,14 +1329,6 @@
       "onboard_time": 1754496084,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30980,
-      "num": 1032850,
-      "word": "立秋迎世运",
-      "onboard_time": 1754537482,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 30427,
@@ -1353,14 +1433,6 @@
       "onboard_time": 1754510474,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12631,
-      "num": 430237,
-      "word": "被金晨和淘宝闪购甜到了",
-      "onboard_time": 1754539282,
-      "rank": 14,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 9780,

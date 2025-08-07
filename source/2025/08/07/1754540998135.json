@@ -1,0 +1,410 @@
+{
+  "runTime": 1754540998135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1858853,
+        "num": 1858853,
+        "word": "原来明星私下聊天都被录下来了",
+        "onboard_time": 1754536341,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1054289,
+        "num": 1054289,
+        "word": "社保",
+        "onboard_time": 1754524580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37888,
+        "num": 975726,
+        "word": "立秋迎世运",
+        "onboard_time": 1754537482,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 922457,
+        "num": 922457,
+        "word": "事发前仍有大量游客进夏塔景区",
+        "onboard_time": 1754533701,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869566,
+        "num": 869566,
+        "word": "淘宝闪购奶茶免单",
+        "onboard_time": 1754527462,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 778690,
+        "num": 778690,
+        "word": "棣欣引力",
+        "onboard_time": 1754526382,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751608,
+        "num": 751608,
+        "word": "缅甸代总统因病逝世",
+        "onboard_time": 1754538202,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 729382,
+        "num": 729382,
+        "word": "赵立坚发了肖战",
+        "onboard_time": 1754536761,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695764,
+        "num": 695764,
+        "word": "生万物定档",
+        "onboard_time": 1754537362,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513008,
+        "num": 513008,
+        "word": "公办民办幼儿园均可享受免保教费",
+        "onboard_time": 1754534600,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108880,
+        "num": 509970,
+        "word": "老外扎堆涌入上海买买买",
+        "onboard_time": 1754540604,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538538,
+        "num": 509961,
+        "word": "胡一天开机状态",
+        "onboard_time": 1754532800,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509492,
+        "num": 509492,
+        "word": "韩追星女不满被叫泡菜妹",
+        "onboard_time": 1754531300,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468287,
+        "num": 468287,
+        "word": "易烊千玺配音成都世运会主题片",
+        "onboard_time": 1754530280,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47201,
+        "num": 452439,
+        "word": "被金晨和淘宝闪购甜到了",
+        "onboard_time": 1754539282,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 439424,
+        "num": 439424,
+        "word": "不听劝买了别人不要的顶楼后",
+        "onboard_time": 1754527582,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437752,
+        "num": 437752,
+        "word": "21岁小伙被骗至缅甸近1年经常挨打",
+        "onboard_time": 1754536341,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426193,
+        "num": 426193,
+        "word": "胡一天熹妃回宫",
+        "onboard_time": 1754539523,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412527,
+        "num": 412527,
+        "word": "陶白白前妻账号永久停更",
+        "onboard_time": 1754510893,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38225,
+        "num": 376149,
+        "word": "假院士阮少平的副校长身份也是假的",
+        "onboard_time": 1754540482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478948,
+        "num": 370119,
+        "word": "澳洲13岁中国女生杀害14岁中国女生",
+        "onboard_time": 1754525481,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 364082,
+        "num": 364082,
+        "word": "王一栩晒苍兰诀库存",
+        "onboard_time": 1754538141,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361055,
+        "num": 361055,
+        "word": "杨幂宁绣绣第一章天崩开局",
+        "onboard_time": 1754536942,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347939,
+        "num": 347939,
+        "word": "爸爸晕船一直吐儿子钓鱼一直上钩",
+        "onboard_time": 1754539282,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308607,
+        "num": 308607,
+        "word": "田曦薇双马尾",
+        "onboard_time": 1754532981,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115803,
+        "num": 291500,
+        "word": "全新小鹏P7首发评测",
+        "onboard_time": 1754536281,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 277517,
+        "num": 277517,
+        "word": "免保教费覆盖所有幼儿园大班",
+        "onboard_time": 1754534000,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271247,
+        "num": 271247,
+        "word": "于正谈张芷溪与银河酷娱纠纷",
+        "onboard_time": 1754539462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252900,
+        "num": 252900,
+        "word": "杨洋现在还在做腿部康复",
+        "onboard_time": 1754540361,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247095,
+        "num": 247095,
+        "word": "立秋",
+        "onboard_time": 1754521637,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243537,
+        "num": 243537,
+        "word": "饿了么崩了",
+        "onboard_time": 1754539943,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240780,
+        "num": 240780,
+        "word": "子夜归定档节奏",
+        "onboard_time": 1754538803,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228794,
+        "num": 228794,
+        "word": "比苏大强更气人的爹出现了",
+        "onboard_time": 1754539763,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215636,
+        "num": 215636,
+        "word": "朴施厚被曝拉皮条",
+        "onboard_time": 1754537841,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211432,
+        "num": 211432,
+        "word": "天才女友开机",
+        "onboard_time": 1754531661,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206544,
+        "num": 206544,
+        "word": "猫咖虐猫致死女子被指系惯犯",
+        "onboard_time": 1754540303,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204345,
+        "num": 204345,
+        "word": "李云霄 龙骨焚箱",
+        "onboard_time": 1754540665,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98554,
+        "num": 195899,
+        "word": "女子忘拔电蚊香液把家给烧光",
+        "onboard_time": 1754540544,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190523,
+        "num": 190523,
+        "word": "未定事件簿",
+        "onboard_time": 1754540361,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189955,
+        "num": 189955,
+        "word": "杨幂送奶茶",
+        "onboard_time": 1754534721,
+        "rank": 39,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 170090,
+        "num": 170090,
+        "word": "上海500元一份的披萨",
+        "onboard_time": 1754540544,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169185,
+        "num": 169185,
+        "word": "赵露思说未来能拍戏就拍",
+        "onboard_time": 1754535681,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167629,
+        "num": 167629,
+        "word": "为什么猫咖没有狸花猫",
+        "onboard_time": 1754538983,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165643,
+        "num": 165643,
+        "word": "恋与深空上海滩",
+        "onboard_time": 1754536041,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155892,
+        "num": 155892,
+        "word": "陶白白",
+        "onboard_time": 1754493745,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154646,
+        "num": 154646,
+        "word": "国新办介绍逐步推行免费学前教育",
+        "onboard_time": 1754532981,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151793,
+        "num": 151793,
+        "word": "特朗普称将对芯片半导体征约100%关税",
+        "onboard_time": 1754522658,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145562,
+        "num": 145562,
+        "word": "秋天的第一杯奶茶",
+        "onboard_time": 1754523080,
+        "rank": 47,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 141132,
+        "num": 141132,
+        "word": "杨洋有效摘面具",
+        "onboard_time": 1754526321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138393,
+        "num": 138393,
+        "word": "11集哇18集塞19集哇塞",
+        "onboard_time": 1754535500,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋楫前行#"
+    }
+  }
+}
