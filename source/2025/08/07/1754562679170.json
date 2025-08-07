@@ -1,0 +1,410 @@
+{
+  "runTime": 1754562679170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 842208,
+        "num": 1134753,
+        "word": "尚公主",
+        "onboard_time": 1754557465,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 787377,
+        "num": 787377,
+        "word": "郑州停产停业停课停运",
+        "onboard_time": 1754547744,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18801,
+        "num": 721412,
+        "word": "立秋迎世运",
+        "onboard_time": 1754537482,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 892952,
+        "num": 699629,
+        "word": "点了杯奶茶商家倒欠我五毛钱",
+        "onboard_time": 1754555903,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 674670,
+        "num": 674670,
+        "word": "少林寺回应不让入内避雨",
+        "onboard_time": 1754560163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649001,
+        "num": 649001,
+        "word": "不是所有女生喝奶茶都需要很久",
+        "onboard_time": 1754559804,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394074,
+        "num": 394074,
+        "word": "胡一天出道以来第一个二番",
+        "onboard_time": 1754555783,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393563,
+        "num": 393563,
+        "word": "美国驻华大使馆逆天言论",
+        "onboard_time": 1754548942,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300119,
+        "num": 300119,
+        "word": "中国佛教协会就释永信被查发声",
+        "onboard_time": 1754560883,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287413,
+        "num": 287413,
+        "word": "终于等到田曦薇拍现偶",
+        "onboard_time": 1754558123,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573716,
+        "num": 287063,
+        "word": "工人农田上厕所时被枪击身亡",
+        "onboard_time": 1754559804,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483687,
+        "num": 285570,
+        "word": "明道 跟你们没女儿的说不清楚",
+        "onboard_time": 1754556683,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385913,
+        "num": 283412,
+        "word": "张杰谢娜 生理性喜欢",
+        "onboard_time": 1754556446,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384925,
+        "num": 282351,
+        "word": "小沈阳全家用美美桑内头像",
+        "onboard_time": 1754551644,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320216,
+        "num": 280487,
+        "word": "王安宇为什么戴头盔拍毕业照",
+        "onboard_time": 1754557643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280476,
+        "num": 280476,
+        "word": "盒马不愿做中国山姆了",
+        "onboard_time": 1754560883,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257822,
+        "num": 257822,
+        "word": "男子花6元买彩票中1256万元",
+        "onboard_time": 1754561543,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244769,
+        "num": 244769,
+        "word": "迪丽热巴感谢观众支持利剑玫瑰",
+        "onboard_time": 1754562263,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234069,
+        "num": 234069,
+        "word": "以爱为营2.0",
+        "onboard_time": 1754549243,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147776,
+        "num": 221824,
+        "word": "郑州暴雨致多地积水有市民被冲走",
+        "onboard_time": 1754560943,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216922,
+        "num": 216922,
+        "word": "展轩参加过相亲节目",
+        "onboard_time": 1754557643,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211076,
+        "num": 211076,
+        "word": "豆瓣发公告了",
+        "onboard_time": 1754562263,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190952,
+        "num": 190952,
+        "word": "生万物 三集连播",
+        "onboard_time": 1754562022,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179064,
+        "num": 179064,
+        "word": "老头骚扰11岁独行女孩被邻座喝止",
+        "onboard_time": 1754557522,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170041,
+        "num": 170041,
+        "word": "张俊不愧是时代峰峻的遗珠",
+        "onboard_time": 1754555724,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157429,
+        "num": 157429,
+        "word": "女子拒绝加塞被光膀纹身男辱骂",
+        "onboard_time": 1754552724,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152375,
+        "num": 152375,
+        "word": "原来彩虹糖广告是真的",
+        "onboard_time": 1754559804,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146269,
+        "num": 146269,
+        "word": "王安宇和张凌赫掉进水里你先救谁",
+        "onboard_time": 1754558182,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136651,
+        "num": 144785,
+        "word": "子夜归",
+        "onboard_time": 1754562323,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38143,
+        "num": 143427,
+        "word": "男子商场抢金饰20分钟被抓",
+        "onboard_time": 1754560943,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87371,
+        "num": 141229,
+        "word": "郑州交警发布暴雨安全提示",
+        "onboard_time": 1754560404,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163887,
+        "num": 138768,
+        "word": "豆瓣公告水军用AI生成垃圾内容养号",
+        "onboard_time": 1754562382,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138101,
+        "num": 138101,
+        "word": "郑州地铁",
+        "onboard_time": 1754549063,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131926,
+        "num": 131926,
+        "word": "美国最新民调马斯克倒数第一",
+        "onboard_time": 1754561123,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130155,
+        "num": 130155,
+        "word": "郑州暴雨",
+        "onboard_time": 1754544024,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54157,
+        "num": 130069,
+        "word": "毕雯珺甚至没有拒绝粉丝的意思",
+        "onboard_time": 1754562263,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130049,
+        "num": 130049,
+        "word": "锦月如歌",
+        "onboard_time": 1754560344,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128741,
+        "num": 128741,
+        "word": "中国男篮战胜印度男篮",
+        "onboard_time": 1754562082,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85736,
+        "num": 128707,
+        "word": "同居18年男友三赠房产去世前撤销",
+        "onboard_time": 1754562082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118667,
+        "num": 128700,
+        "word": "苍兰诀还有多少库存是朕不知道的",
+        "onboard_time": 1754562082,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128700,
+        "num": 128699,
+        "word": "男子被控强奸朋友女友再审改判无罪",
+        "onboard_time": 1754561904,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125003,
+        "num": 125003,
+        "word": "孕妇被全家投喂胖60斤胎儿发育受损",
+        "onboard_time": 1754547084,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123630,
+        "num": 123630,
+        "word": "立秋当天不同人的精神状态belike",
+        "onboard_time": 1754561844,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123252,
+        "num": 123252,
+        "word": "DRG对战UUG",
+        "onboard_time": 1754562022,
+        "rank": 43,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 123055,
+        "num": 123055,
+        "word": "傅首尔公开瘦身过程",
+        "onboard_time": 1754552064,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122367,
+        "num": 122367,
+        "word": "女主播拉黑榜一大哥被采取强制措施",
+        "onboard_time": 1754557284,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122684,
+        "num": 122264,
+        "word": "皮肤科医生教你三伏天抓住黄金期",
+        "onboard_time": 1754560765,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121986,
+        "num": 121986,
+        "word": "TOP披荆斩棘完形填空",
+        "onboard_time": 1754562503,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120754,
+        "num": 120754,
+        "word": "魏哲鸣统一了我全家的审美",
+        "onboard_time": 1754559325,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119866,
+        "num": 119866,
+        "word": "以前的立秋vs现在的立秋",
+        "onboard_time": 1754559924,
+        "rank": 49,
+        "category": "情感,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋楫前行#"
+    }
+  }
+}
