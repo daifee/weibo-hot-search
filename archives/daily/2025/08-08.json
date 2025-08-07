@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754585556779,
+  "endTime": 1754587731616,
   "band_list": [
     {
       "raw_hot": 955191,
@@ -75,8 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301558,
-      "num": 303146,
+      "raw_hot": 320467,
+      "num": 320467,
       "word": "74岁老人被忽悠签约直播带货",
       "onboard_time": 1754581644,
       "rank": 9,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134463,
+      "num": 134463,
+      "word": "欧阳娜娜短发",
+      "onboard_time": 1754584401,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "世运会七彩祥云烟花",
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110006,
+      "num": 180206,
+      "word": "山姆回应芝士牛肉卷中吃出蟑螂",
+      "onboard_time": 1754581943,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105899,
       "num": 105899,
       "word": "马库斯说要努力像中国人民一样勇敢",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 101014,
-      "num": 101014,
+      "num": 153734,
       "word": "女子因猫与男友争吵后被害",
       "onboard_time": 1754581523,
       "rank": 26,
@@ -235,11 +251,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 89539,
-      "num": 180206,
-      "word": "山姆回应芝士牛肉卷中吃出蟑螂",
-      "onboard_time": 1754581943,
-      "rank": 30,
+      "raw_hot": 90288,
+      "num": 90288,
+      "word": "广东一地错发30万补贴公告追回",
+      "onboard_time": 1754584581,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -251,28 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87004,
-      "num": 87004,
-      "word": "广东一地错发30万补贴公告追回",
-      "onboard_time": 1754584581,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85279,
       "num": 85279,
       "word": "中国海大海水吊坠被标价5000元出售",
       "onboard_time": 1754584401,
       "rank": 40,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 84875,
-      "num": 87051,
-      "word": "欧阳娜娜短发",
-      "onboard_time": 1754584401,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 84035,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67861,
+      "num": 67861,
+      "word": "爆单面馆老板儿子感谢赵露思",
+      "onboard_time": 1754586259,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66249,
       "num": 66249,
       "word": "男子花6元买彩票中1256万元",
@@ -425,6 +433,46 @@
       "onboard_time": 1754571324,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 45384,
+      "num": 62246,
+      "word": "GAI晒娃",
+      "onboard_time": 1754586559,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42684,
+      "num": 62235,
+      "word": "张予曦苦练自拍又没出图",
+      "onboard_time": 1754577445,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41482,
+      "num": 62221,
+      "word": "对上海的热爱已经按耐不住了",
+      "onboard_time": 1754585540,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 34606,
+      "num": 62172,
+      "word": "RIIZE全员刀马",
+      "onboard_time": 1754580263,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 32658,
+      "num": 62165,
+      "word": "陈熠回应第一次参加冠军赛",
+      "onboard_time": 1754587396,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 6614,
