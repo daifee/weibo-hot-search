@@ -1,10 +1,10 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754584636630,
+  "endTime": 1754585556779,
   "band_list": [
     {
       "raw_hot": 955191,
-      "num": 358120,
+      "num": 407202,
       "word": "南昌警方通报工人遭枪击身亡",
       "onboard_time": 1754577024,
       "rank": 5,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 525514,
-      "num": 344358,
+      "num": 396600,
       "word": "孙怡比基尼",
       "onboard_time": 1754577984,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409361,
+      "num": 409361,
+      "word": "男子12字评论被行拘5天2年后翻案",
+      "onboard_time": 1754581402,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401969,
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385168,
-      "num": 385168,
-      "word": "男子12字评论被行拘5天2年后翻案",
-      "onboard_time": 1754581402,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 381803,
+      "num": 381803,
+      "word": "BLACKPINK九周年合照",
+      "onboard_time": 1754584161,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 325197,
@@ -67,12 +75,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314635,
-      "num": 314635,
-      "word": "BLACKPINK九周年合照",
-      "onboard_time": 1754584161,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 301558,
+      "num": 303146,
+      "word": "74岁老人被忽悠签约直播带货",
+      "onboard_time": 1754581644,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297797,
@@ -139,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194568,
-      "num": 303146,
-      "word": "74岁老人被忽悠签约直播带货",
-      "onboard_time": 1754581644,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171553,
       "num": 171553,
       "word": "iPhone17Pro或存储翻倍",
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105899,
+      "num": 105899,
+      "word": "马库斯说要努力像中国人民一样勇敢",
+      "onboard_time": 1754576664,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101385,
       "num": 101385,
       "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
@@ -227,12 +235,44 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 85258,
-      "num": 85258,
+      "raw_hot": 89539,
+      "num": 180206,
       "word": "山姆回应芝士牛肉卷中吃出蟑螂",
       "onboard_time": 1754581943,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87241,
+      "num": 87241,
+      "word": "锦月如歌腾讯站内热度值破24000",
+      "onboard_time": 1754581763,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87004,
+      "num": 87004,
+      "word": "广东一地错发30万补贴公告追回",
+      "onboard_time": 1754584581,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85279,
+      "num": 85279,
+      "word": "中国海大海水吊坠被标价5000元出售",
+      "onboard_time": 1754584401,
+      "rank": 40,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 84875,
+      "num": 87051,
+      "word": "欧阳娜娜短发",
+      "onboard_time": 1754584401,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 84035,
@@ -267,22 +307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 78602,
-      "num": 78602,
-      "word": "锦月如歌腾讯站内热度值破24000",
-      "onboard_time": 1754581763,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 77829,
-      "num": 77829,
-      "word": "欧阳娜娜短发",
-      "onboard_time": 1754584401,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77409,
       "num": 77409,
       "word": "少林寺回应不让入内避雨",
@@ -299,28 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75497,
-      "num": 75497,
-      "word": "广东一地错发30万补贴公告追回",
-      "onboard_time": 1754584581,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75116,
-      "num": 75116,
-      "word": "中国海大海水吊坠被标价5000元出售",
-      "onboard_time": 1754584401,
-      "rank": 40,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 72973,
-      "num": 72973,
-      "word": "马库斯说要努力像中国人民一样勇敢",
-      "onboard_time": 1754576664,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 73870,
+      "num": 86510,
+      "word": "杨迪第一次以这种方式上央视新闻",
+      "onboard_time": 1754583802,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 71655,
@@ -371,6 +379,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62923,
+      "num": 62923,
+      "word": "江西这个景区藏着亚洲最长扶梯",
+      "onboard_time": 1754584880,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 61512,
+      "num": 62922,
+      "word": "方圆脸瘦32斤的变化有多大",
+      "onboard_time": 1754581881,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61126,
       "num": 63928,
       "word": "张杰谢娜 生理性喜欢",
@@ -387,12 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50410,
-      "num": 86510,
-      "word": "杨迪第一次以这种方式上央视新闻",
-      "onboard_time": 1754583802,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 60181,
+      "num": 62921,
+      "word": "2025金球奖",
+      "onboard_time": 1754579964,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52087,
+      "num": 62919,
+      "word": "冯建宇风尚志首封鲨疯了",
+      "onboard_time": 1754571324,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 6614,
