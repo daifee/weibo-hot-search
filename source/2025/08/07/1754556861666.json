@@ -1,0 +1,410 @@
+{
+  "runTime": 1754556861666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1179389,
+        "num": 1188702,
+        "word": "郑州停产停业停课停运",
+        "onboard_time": 1754547744,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443983,
+        "num": 443983,
+        "word": "以爱为营2.0",
+        "onboard_time": 1754549243,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19273,
+        "num": 382249,
+        "word": "立秋迎世运",
+        "onboard_time": 1754537482,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511188,
+        "num": 380887,
+        "word": "美国驻华大使馆逆天言论",
+        "onboard_time": 1754548942,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 468397,
+        "num": 378724,
+        "word": "傅首尔公开瘦身过程",
+        "onboard_time": 1754552064,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374680,
+        "num": 374680,
+        "word": "郑州暴雨",
+        "onboard_time": 1754544024,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303765,
+        "num": 303765,
+        "word": "父亲意外去世18岁接掌2亿家族企业",
+        "onboard_time": 1754549183,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279094,
+        "num": 279094,
+        "word": "点了杯奶茶商家倒欠我五毛钱",
+        "onboard_time": 1754555903,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245123,
+        "num": 245123,
+        "word": "时代少年团演唱会上海站开售在即",
+        "onboard_time": 1754552183,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181193,
+        "num": 243815,
+        "word": "嫦娥六号团队收获世界航天奖",
+        "onboard_time": 1754555844,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 680527,
+        "num": 243813,
+        "word": "美国驻华大使馆",
+        "onboard_time": 1754554043,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 659943,
+        "num": 243786,
+        "word": "小沈阳全家用美美桑内头像",
+        "onboard_time": 1754551644,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243653,
+        "num": 243653,
+        "word": "微信不做已读功能",
+        "onboard_time": 1754543304,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219825,
+        "num": 219825,
+        "word": "立秋红包",
+        "onboard_time": 1754556084,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18928,
+        "num": 219306,
+        "word": "秋天第一杯是杨幂请的",
+        "onboard_time": 1754553683,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218865,
+        "num": 218865,
+        "word": "8月份竟然有5个双休",
+        "onboard_time": 1754546543,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215695,
+        "num": 215695,
+        "word": "孙怡 吃够了爱情的苦",
+        "onboard_time": 1754544384,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212188,
+        "num": 212188,
+        "word": "张俊不愧是时代峰峻的遗珠",
+        "onboard_time": 1754555724,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52809,
+        "num": 209534,
+        "word": "三厢留给过去掀背才是主流",
+        "onboard_time": 1754554103,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207889,
+        "num": 207889,
+        "word": "郑州地铁",
+        "onboard_time": 1754549063,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376539,
+        "num": 207042,
+        "word": "女子拒绝加塞被光膀纹身男辱骂",
+        "onboard_time": 1754552724,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205269,
+        "num": 205269,
+        "word": "张杰谢娜 生理性喜欢",
+        "onboard_time": 1754556446,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198844,
+        "num": 198844,
+        "word": "米线店 包浆碗",
+        "onboard_time": 1754546602,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196572,
+        "num": 196572,
+        "word": "肖战任少白我对你才是真感情",
+        "onboard_time": 1754556805,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191116,
+        "num": 191116,
+        "word": "孕妇被全家投喂胖60斤胎儿发育受损",
+        "onboard_time": 1754547084,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98470,
+        "num": 190018,
+        "word": "张子枫从演女儿到演自己",
+        "onboard_time": 1754554644,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189458,
+        "num": 189458,
+        "word": "杨迪为了见粉丝婉拒谢娜",
+        "onboard_time": 1754556263,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176427,
+        "num": 176427,
+        "word": "我的阿勒泰真的拍保守了",
+        "onboard_time": 1754549902,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 176079,
+        "num": 176079,
+        "word": "韩昊霖真的长成了张若昀",
+        "onboard_time": 1754555604,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118416,
+        "num": 172867,
+        "word": "周也战狼",
+        "onboard_time": 1754554823,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172362,
+        "num": 172362,
+        "word": "3个人信用加起来扫不了1个充电宝",
+        "onboard_time": 1754555543,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161434,
+        "num": 161434,
+        "word": "台湾以东海域发生5.4级地震",
+        "onboard_time": 1754556024,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160144,
+        "num": 160144,
+        "word": "胡一天出道以来第一个二番",
+        "onboard_time": 1754555783,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146834,
+        "num": 146834,
+        "word": "女孩2岁时基因突变双目失明",
+        "onboard_time": 1754548342,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146207,
+        "num": 146207,
+        "word": "谁能演谢景行",
+        "onboard_time": 1754550504,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145836,
+        "num": 145836,
+        "word": "王楚钦蒯曼食欲对比",
+        "onboard_time": 1754553683,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145610,
+        "num": 145610,
+        "word": "一时分不清谁是老年人谁是年轻人",
+        "onboard_time": 1754556203,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141408,
+        "num": 141408,
+        "word": "明道 跟你们没女儿的说不清楚",
+        "onboard_time": 1754556683,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40838,
+        "num": 139648,
+        "word": "乌克兰战争英雄沦为巨贪",
+        "onboard_time": 1754555663,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139072,
+        "num": 139072,
+        "word": "原来省钱有那么多信息差",
+        "onboard_time": 1754556805,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138669,
+        "num": 138669,
+        "word": "中国男篮vs印度男篮",
+        "onboard_time": 1754556743,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134644,
+        "num": 134644,
+        "word": "一万的手机只用了一千的",
+        "onboard_time": 1754546723,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128838,
+        "num": 128838,
+        "word": "猫咖店主要与虐猫女死磕到底",
+        "onboard_time": 1754551283,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128561,
+        "num": 128561,
+        "word": "维C银翘片 正确命名",
+        "onboard_time": 1754554463,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128217,
+        "num": 128217,
+        "word": "立秋后就要开始养阴了",
+        "onboard_time": 1754556564,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126732,
+        "num": 126732,
+        "word": "陈楚生官宣唱获奖之作",
+        "onboard_time": 1754555484,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119459,
+        "num": 119459,
+        "word": "原来明星私下聊天都被录下来了",
+        "onboard_time": 1754536341,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119150,
+        "num": 119150,
+        "word": "傅首尔瘦身从冬天到夏天",
+        "onboard_time": 1754552964,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118175,
+        "num": 118175,
+        "word": "黄一鸣带两岁女儿拍ct",
+        "onboard_time": 1754541144,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116839,
+        "num": 116839,
+        "word": "生万物",
+        "onboard_time": 1754556805,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋楫前行#"
+    }
+  }
+}
