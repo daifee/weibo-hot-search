@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754594765351,
+  "endTime": 1754595574480,
   "band_list": [
     {
       "raw_hot": 955191,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25362,
+      "num": 25362,
+      "word": "秋天第一杯奶茶凭啥年年火",
+      "onboard_time": 1754592135,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23218,
       "num": 33409,
       "word": "牛在在叫错敖子逸名字",
@@ -507,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16063,
-      "num": 24864,
-      "word": "秋天第一杯奶茶凭啥年年火",
-      "onboard_time": 1754592135,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 20322,
+      "num": 23420,
+      "word": "王源太原演唱会抢票",
+      "onboard_time": 1754595016,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13762,
+      "num": 22719,
+      "word": "iQOO性能续航双王炸",
+      "onboard_time": 1754565082,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 11381,
@@ -529,6 +545,14 @@
       "onboard_time": 1754594536,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10621,
+      "num": 22723,
+      "word": "美国少年玩枪子弹射穿楼板打死表妹",
+      "onboard_time": 1754595254,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 6614,
