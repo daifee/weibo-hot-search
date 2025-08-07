@@ -1,0 +1,410 @@
+{
+  "runTime": 1754575110196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1405364,
+        "num": 1405364,
+        "word": "将门毒后",
+        "onboard_time": 1754572344,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 831192,
+        "num": 831192,
+        "word": "美国加州发现阿凡达色野猪肉",
+        "onboard_time": 1754569582,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2868,
+        "num": 805948,
+        "word": "世运会和奥运会有啥不一样",
+        "onboard_time": 1754526143,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1167344,
+        "num": 802696,
+        "word": "女子吵架冲去拥抱男友力道过大坠亡",
+        "onboard_time": 1754568923,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 858119,
+        "num": 802327,
+        "word": "赵露思去厚本粉丝见面会",
+        "onboard_time": 1754570422,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799115,
+        "num": 799115,
+        "word": "世运会开幕式",
+        "onboard_time": 1754567483,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767921,
+        "num": 767921,
+        "word": "不愧是娜扎这可是央视新闻啊",
+        "onboard_time": 1754570065,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595880,
+        "num": 595880,
+        "word": "工人意外中枪身亡家属申请工亡未果",
+        "onboard_time": 1754568624,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470760,
+        "num": 470760,
+        "word": "世运会七彩祥云烟花",
+        "onboard_time": 1754573243,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411239,
+        "num": 457468,
+        "word": "汪顺国际奥委会会旗执旗手",
+        "onboard_time": 1754573003,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445161,
+        "num": 445161,
+        "word": "肖战直播",
+        "onboard_time": 1754568444,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442471,
+        "num": 442471,
+        "word": "世运会开幕烟花绝了",
+        "onboard_time": 1754570363,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423446,
+        "num": 423446,
+        "word": "朋友圈如果显示机型型号",
+        "onboard_time": 1754564363,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377875,
+        "num": 377875,
+        "word": "关晓彤立秋苦了自己甜了同事",
+        "onboard_time": 1754569943,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364897,
+        "num": 364897,
+        "word": "台湾60米高压电缆上惊现男尸",
+        "onboard_time": 1754571023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282952,
+        "num": 282952,
+        "word": "王嘉尔超绝低颅顶",
+        "onboard_time": 1754568083,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244316,
+        "num": 244316,
+        "word": "少林寺回应不让入内避雨",
+        "onboard_time": 1754560163,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213385,
+        "num": 223339,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754568743,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82674,
+        "num": 222407,
+        "word": "奥迪Q6Le-tron34.88万起售",
+        "onboard_time": 1754571863,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 58578,
+        "num": 222042,
+        "word": "阿鲁巴旗手好帅",
+        "onboard_time": 1754574085,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222032,
+        "num": 222032,
+        "word": "以色列称原子弹是日本的报应",
+        "onboard_time": 1754569344,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220340,
+        "num": 220340,
+        "word": "王楚钦不吃海鲜",
+        "onboard_time": 1754572765,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16363,
+        "num": 209064,
+        "word": "如何让锰元素乖乖听话",
+        "onboard_time": 1754573065,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206804,
+        "num": 206804,
+        "word": "陈奕迅说我不缺钱",
+        "onboard_time": 1754571744,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199859,
+        "num": 199859,
+        "word": "肖战立秋请喝奶茶",
+        "onboard_time": 1754574144,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198904,
+        "num": 198904,
+        "word": "豆瓣发公告了",
+        "onboard_time": 1754562263,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196382,
+        "num": 196382,
+        "word": "孟子义李昀锐无缝进组尚公主",
+        "onboard_time": 1754564424,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193488,
+        "num": 193488,
+        "word": "没人说95花搭95花这么配啊",
+        "onboard_time": 1754571803,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191693,
+        "num": 191693,
+        "word": "冯建宇风尚志首封鲨疯了",
+        "onboard_time": 1754571324,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177956,
+        "num": 177956,
+        "word": "男子花6元买彩票中1256万元",
+        "onboard_time": 1754561543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158172,
+        "num": 158172,
+        "word": "警方通报女子拒绝加塞被3男子辱骂",
+        "onboard_time": 1754564242,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 157041,
+        "num": 157041,
+        "word": "缅甸园区白天干活晚上挨电棍",
+        "onboard_time": 1754569824,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155479,
+        "num": 155479,
+        "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
+        "onboard_time": 1754564723,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152136,
+        "num": 152136,
+        "word": "中国队出场BGM是茉莉花",
+        "onboard_time": 1754573183,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "丞磊周也 爹爹带女儿出门",
+        "onboard_time": 1754573545,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143345,
+        "num": 140926,
+        "word": "佛协称释永信将承受严重果报",
+        "onboard_time": 1754562803,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139736,
+        "num": 139736,
+        "word": "含金量超高的执旗手们入场",
+        "onboard_time": 1754575044,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137989,
+        "num": 137989,
+        "word": "迪丽热巴体制内妈妈降临",
+        "onboard_time": 1754570422,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19423,
+        "num": 137756,
+        "word": "陶白白60秒视频报价30万",
+        "onboard_time": 1754574085,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74614,
+        "num": 137465,
+        "word": "沈玉琳妻子现身",
+        "onboard_time": 1754574085,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130044,
+        "num": 137335,
+        "word": "释永信被查为全国佛教界敲响了警钟",
+        "onboard_time": 1754566702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134864,
+        "num": 137084,
+        "word": "潘展乐被世运会震撼到",
+        "onboard_time": 1754573664,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136937,
+        "num": 136937,
+        "word": "小沈阳全家用美美桑内头像",
+        "onboard_time": 1754551644,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136407,
+        "num": 136407,
+        "word": "工人农田上厕所时被枪击身亡",
+        "onboard_time": 1754559804,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128738,
+        "num": 128738,
+        "word": "2025LCK",
+        "onboard_time": 1754574864,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124461,
+        "num": 124461,
+        "word": "成都世运会在晚霞中开幕",
+        "onboard_time": 1754574803,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120646,
+        "num": 120646,
+        "word": "红豆生南国 河南生男模",
+        "onboard_time": 1754570723,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117323,
+        "num": 117323,
+        "word": "尚公主",
+        "onboard_time": 1754557465,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3944,
+        "num": 116972,
+        "word": "财政部详解保教费按什么标准免",
+        "onboard_time": 1754535081,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116842,
+        "num": 116842,
+        "word": "成都用过水门礼迎全世界运动员",
+        "onboard_time": 1754574864,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#战略叠加优势如何变发展胜势#"
+    }
+  }
+}
