@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754566950207,
+  "endTime": 1754571544754,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -939,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1019639,
+      "num": 1163142,
+      "word": "女子吵架冲去拥抱男友力道过大坠亡",
+      "onboard_time": 1754568923,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1009381,
       "num": 1009381,
       "word": "坠楼医生出事前一天曾向派出所报案",
@@ -1395,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775913,
+      "num": 775913,
+      "word": "美国加州发现阿凡达色野猪肉",
+      "onboard_time": 1754569582,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 774188,
       "num": 136825,
       "word": "赵露思曝入行第一个月收入2500",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1754501778,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 696573,
+      "num": 696573,
+      "word": "世运会开幕式",
+      "onboard_time": 1754567483,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 695764,
@@ -2275,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 569811,
+      "num": 387629,
+      "word": "肖战直播",
+      "onboard_time": 1754568444,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567298,
       "num": 333415,
       "word": "德云社",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1754398944,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541096,
+      "num": 387627,
+      "word": "朋友圈如果显示机型型号",
+      "onboard_time": 1754564363,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 540787,
@@ -2777,6 +2817,14 @@
       "onboard_time": 1754355982,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471483,
+      "num": 471483,
+      "word": "赵露思去厚本粉丝见面会",
+      "onboard_time": 1754570422,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 471478,
@@ -3227,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396766,
+      "num": 396766,
+      "word": "不愧是娜扎这可是央视新闻啊",
+      "onboard_time": 1754570065,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396587,
       "num": 396587,
       "word": "阴阳师",
@@ -3291,11 +3347,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388806,
+      "num": 388806,
+      "word": "利剑玫瑰",
+      "onboard_time": 1754230765,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387929,
       "num": 387929,
       "word": "情侣旅游发生车祸死里逃生后领证",
       "onboard_time": 1754218523,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387547,
+      "num": 387547,
+      "word": "工人意外中枪身亡家属申请工亡未果",
+      "onboard_time": 1754568624,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -3819,6 +3891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 326942,
+      "num": 326942,
+      "word": "王嘉尔超绝低颅顶",
+      "onboard_time": 1754568083,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326928,
       "num": 249152,
       "word": "许我耀眼",
@@ -4321,14 +4401,6 @@
       "onboard_time": 1754222484,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284926,
-      "num": 266385,
-      "word": "朋友圈如果显示机型型号",
-      "onboard_time": 1754564363,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 284709,
@@ -4851,8 +4923,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 250467,
-      "num": 212305,
+      "raw_hot": 250911,
+      "num": 224804,
       "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
       "onboard_time": 1754564723,
       "rank": 21,
@@ -5067,6 +5139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237265,
+      "num": 237265,
+      "word": "关晓彤立秋苦了自己甜了同事",
+      "onboard_time": 1754569943,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237101,
       "num": 213078,
       "word": "夫妻离婚分鸡多出一只被判吃掉再离",
@@ -5121,6 +5201,14 @@
       "onboard_time": 1754366605,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233323,
+      "num": 387651,
+      "word": "世运会开幕烟花绝了",
+      "onboard_time": 1754570363,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 233185,
@@ -5329,6 +5417,14 @@
       "onboard_time": 1754524400,
       "rank": 21,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 223042,
+      "num": 223042,
+      "word": "以色列称原子弹是日本的报应",
+      "onboard_time": 1754569344,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 222879,
@@ -6099,6 +6195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198890,
+      "num": 198890,
+      "word": "冯建宇风尚志首封鲨疯了",
+      "onboard_time": 1754571324,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 198618,
       "num": 198618,
       "word": "9个免费的国家级自学平台",
@@ -6249,6 +6353,14 @@
       "onboard_time": 1754545223,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196003,
+      "num": 196003,
+      "word": "迪丽热巴体制内妈妈降临",
+      "onboard_time": 1754570422,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 195983,
@@ -6867,6 +6979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183322,
+      "num": 183322,
+      "word": "花开锦绣",
+      "onboard_time": 1754570783,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183271,
       "num": 147330,
       "word": "体检时留尿要等1秒钟",
@@ -6881,14 +7001,6 @@
       "onboard_time": 1754275101,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182755,
-      "num": 232531,
-      "word": "利剑玫瑰",
-      "onboard_time": 1754230765,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 182389,
@@ -7595,6 +7707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169948,
+      "num": 169948,
+      "word": "KPL",
+      "onboard_time": 1754571265,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169731,
       "num": 156027,
       "word": "侯明昊脸上贴了30颗碎钻",
@@ -7979,6 +8099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162241,
+      "num": 162241,
+      "word": "台湾60米高压电缆上惊现男尸",
+      "onboard_time": 1754571023,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162183,
       "num": 162183,
       "word": "谢兴阳买房",
@@ -8075,6 +8203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160953,
+      "num": 160953,
+      "word": "那艺娜退款文吊打艺人公关文",
+      "onboard_time": 1754569703,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160673,
       "num": 160673,
       "word": "秋天的第一杯奶茶",
@@ -8161,6 +8297,14 @@
       "onboard_time": 1754402485,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158998,
+      "num": 158998,
+      "word": "缅甸园区白天干活晚上挨电棍",
+      "onboard_time": 1754569824,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158835,
@@ -8347,6 +8491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155212,
+      "num": 155212,
+      "word": "时代少年团上海站错票将禁购三年",
+      "onboard_time": 1754567182,
+      "rank": 36,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 155175,
       "num": 155175,
       "word": "千山茶客",
@@ -8417,6 +8569,14 @@
       "onboard_time": 1754533941,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154518,
+      "num": 154518,
+      "word": "鹿晗用摄像机看清每一个粉丝",
+      "onboard_time": 1754567301,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 154505,
@@ -8603,6 +8763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152291,
+      "num": 152291,
+      "word": "汪顺说担任旗手是莫大认可",
+      "onboard_time": 1754571265,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152186,
       "num": 152186,
       "word": "钎城单膝跪地变装",
@@ -8619,12 +8787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152095,
+      "num": 152095,
+      "word": "红豆生南国 河南生男模",
+      "onboard_time": 1754570723,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151958,
       "num": 151958,
       "word": "刘宇宁是真害怕了",
       "onboard_time": 1754288183,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151631,
+      "num": 151631,
+      "word": "王天辰报平安",
+      "onboard_time": 1754570363,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 151567,
@@ -9907,6 +10091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136624,
+      "num": 136624,
+      "word": "肖战的颜值分析",
+      "onboard_time": 1754567904,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136533,
       "num": 136533,
       "word": "没想到陈乔恩普通话最标准",
@@ -10171,6 +10363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133670,
+      "num": 133670,
+      "word": "广东东莞发生滑塌堤坝已合龙",
+      "onboard_time": 1754569105,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133669,
       "num": 170793,
       "word": "小沈阳让女儿给他买秋天第一杯奶茶",
@@ -10257,6 +10457,14 @@
       "onboard_time": 1754453362,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132324,
+      "num": 132324,
+      "word": "产后坚持运动从130斤瘦到92斤",
+      "onboard_time": 1754568264,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132200,
@@ -10496,6 +10704,14 @@
       "word": "汪铎是娱乐圈隐藏手模吧",
       "onboard_time": 1754225605,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129481,
+      "num": 129481,
+      "word": "石凯立秋的第一组照片",
+      "onboard_time": 1754571383,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -13667,6 +13883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91825,
+      "num": 226406,
+      "word": "iQOO手机8000mAh电池比平板还大",
+      "onboard_time": 1754570363,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 91713,
       "num": 238223,
       "word": "一家三口赶海1人失踪1人进ICU",
@@ -15739,6 +15963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40105,
+      "num": 149836,
+      "word": "别克至境L7",
+      "onboard_time": 1754569703,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40020,
       "num": 40020,
       "word": "鞠婧祎丝巾上衣",
@@ -15945,6 +16177,14 @@
       "onboard_time": 1754392223,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35186,
+      "num": 152919,
+      "word": "小区要求每批骑手同进同出",
+      "onboard_time": 1754570484,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34964,
@@ -16631,6 +16871,14 @@
       "num": 568514,
       "word": "上半年国内居民出游人次32.85亿",
       "onboard_time": 1754037984,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8108,
+      "num": 706479,
+      "word": "秋天第1个节气",
+      "onboard_time": 1754571324,
       "rank": 2,
       "category": "民生新闻"
     },
