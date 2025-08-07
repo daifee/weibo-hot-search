@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754578269161,
+  "endTime": 1754580731094,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -41,6 +41,14 @@
       "onboard_time": 1754572344,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1350260,
+      "num": 1350260,
+      "word": "南昌警方通报工人遭枪击身亡",
+      "onboard_time": 1754577024,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1332918,
@@ -112,6 +120,14 @@
       "word": "赵露思去厚本粉丝见面会",
       "onboard_time": 1754570422,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 989853,
+      "num": 989853,
+      "word": "孙怡比基尼",
+      "onboard_time": 1754577984,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -315,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 672884,
+      "num": 672884,
+      "word": "湛江回应凌晨家长不在家孩子被抽血",
+      "onboard_time": 1754577504,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663543,
       "num": 663543,
       "word": "胡一天熹妃回宫",
@@ -456,6 +480,14 @@
       "word": "郑州地铁",
       "onboard_time": 1754549063,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566467,
+      "num": 250857,
+      "word": "爱康国宾向患癌女律师索赔1000万",
+      "onboard_time": 1754576844,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -731,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 374386,
-      "num": 377189,
-      "word": "南昌警方通报工人遭枪击身亡",
-      "onboard_time": 1754577024,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364082,
       "num": 364082,
       "word": "王一栩晒苍兰诀库存",
@@ -793,6 +817,14 @@
       "onboard_time": 1754539282,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345003,
+      "num": 345003,
+      "word": "留几手问赵露思又是谁",
+      "onboard_time": 1754579064,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 338142,
@@ -899,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290257,
+      "num": 290257,
+      "word": "iPhone17Pro或存储翻倍",
+      "onboard_time": 1754577264,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 290022,
       "num": 290022,
       "word": "腾讯音乐嘉年华阵容",
@@ -961,6 +1001,14 @@
       "onboard_time": 1754532981,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 267608,
+      "num": 267608,
+      "word": "赵露思直播带火葛根茶负责人发声",
+      "onboard_time": 1754577925,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 267539,
@@ -1035,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250857,
-      "num": 250857,
-      "word": "爱康国宾向患癌女律师索赔1000万",
-      "onboard_time": 1754576844,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248356,
       "num": 248356,
       "word": "王楚钦不吃海鲜",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1754550504,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240940,
-      "num": 240940,
-      "word": "iPhone17Pro或存储翻倍",
-      "onboard_time": 1754577264,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 240780,
@@ -1243,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208854,
+      "num": 208854,
+      "word": "孙楠长成大姑娘了",
+      "onboard_time": 1754578524,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208332,
       "num": 208332,
       "word": "王楚钦光速挺进16强",
@@ -1281,14 +1321,6 @@
       "onboard_time": 1754558845,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203156,
-      "num": 203156,
-      "word": "湛江回应凌晨家长不在家孩子被抽血",
-      "onboard_time": 1754577504,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202266,
@@ -1555,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180007,
+      "num": 180007,
+      "word": "男宝星球2",
+      "onboard_time": 1754579663,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179359,
       "num": 179359,
       "word": "披荆斩棘的哥哥",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1754555543,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171352,
+      "num": 171352,
+      "word": "郑州暴雨一商场员工筑起人墙挡雨",
+      "onboard_time": 1754577085,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 170752,
@@ -2091,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143903,
-      "num": 143903,
-      "word": "赵露思直播带火葛根茶负责人发声",
-      "onboard_time": 1754577925,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143761,
       "num": 117988,
       "word": "中国佛教协会谈释永信被查",
@@ -2443,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132358,
+      "num": 132358,
+      "word": "RIIZE全员刀马",
+      "onboard_time": 1754580263,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132324,
       "num": 132324,
       "word": "产后坚持运动从130斤瘦到92斤",
@@ -2521,6 +2569,14 @@
       "onboard_time": 1754549123,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131240,
+      "num": 131240,
+      "word": "张淼怡的害羞不像演的",
+      "onboard_time": 1754578644,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 130537,
@@ -2851,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117759,
+      "num": 117759,
+      "word": "看似正常其实是焦虑的表现",
+      "onboard_time": 1754578223,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117723,
       "num": 117723,
       "word": "警方提示千万别下载这两个软件",
@@ -2891,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115788,
+      "num": 115788,
+      "word": "当越来越多高中生不再选文科",
+      "onboard_time": 1754578644,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 114885,
       "num": 114885,
       "word": "眼神回避闪躲的俩人一定不清白",
@@ -2915,20 +2987,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113576,
-      "num": 113576,
-      "word": "看似正常其实是焦虑的表现",
-      "onboard_time": 1754578223,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 113098,
       "num": 144409,
       "word": "16架歼20一字排开",
       "onboard_time": 1754544203,
       "rank": 37,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 112993,
+      "num": 112993,
+      "word": "患癌女律师回应爱康国宾索赔千万",
+      "onboard_time": 1754580563,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112781,
@@ -2968,6 +3040,14 @@
       "word": "世运会开幕式亮点",
       "onboard_time": 1754565983,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109720,
+      "num": 109720,
+      "word": "2025金球奖",
+      "onboard_time": 1754579964,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -3067,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99783,
+      "num": 99783,
+      "word": "成都世运会一个人的代表团",
+      "onboard_time": 1754576965,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98554,
       "num": 195899,
       "word": "女子忘拔电蚊香液把家给烧光",
@@ -3092,19 +3180,11 @@
     },
     {
       "raw_hot": 98141,
-      "num": 805948,
+      "num": 1067297,
       "word": "世运会和奥运会有啥不一样",
       "onboard_time": 1754526143,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97759,
-      "num": 138681,
-      "word": "孙怡比基尼",
-      "onboard_time": 1754577984,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 97342,
@@ -3129,6 +3209,22 @@
       "onboard_time": 1754566583,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95905,
+      "num": 107504,
+      "word": "曝万斯团队提高河流水位以便其划船",
+      "onboard_time": 1754579425,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95648,
+      "num": 95648,
+      "word": "迪丽热巴站内现代剧热度最高女性角色",
+      "onboard_time": 1754580325,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95057,
@@ -3193,6 +3289,14 @@
       "onboard_time": 1754484023,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90372,
+      "num": 368727,
+      "word": "小孩单独在家时被工作人员上门抽血",
+      "onboard_time": 1754580143,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89938,
@@ -3467,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65029,
+      "num": 121904,
+      "word": "男子看菜单高级偷走送朋友被行拘",
+      "onboard_time": 1754578885,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65000,
       "num": 65000,
       "word": "小兰花的1503岁",
@@ -3489,14 +3601,6 @@
       "onboard_time": 1754552753,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60329,
-      "num": 152151,
-      "word": "郑州暴雨一商场员工筑起人墙挡雨",
-      "onboard_time": 1754577085,
-      "rank": 36,
-      "category": "正能量"
     },
     {
       "raw_hot": 60008,

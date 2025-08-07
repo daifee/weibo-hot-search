@@ -1,0 +1,410 @@
+{
+  "runTime": 1754580731094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1350260,
+        "num": 1350260,
+        "word": "南昌警方通报工人遭枪击身亡",
+        "onboard_time": 1754577024,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154456,
+        "num": 1154456,
+        "word": "将门毒后",
+        "onboard_time": 1754572344,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11873,
+        "num": 1067297,
+        "word": "世运会和奥运会有啥不一样",
+        "onboard_time": 1754526143,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 989853,
+        "num": 989853,
+        "word": "孙怡比基尼",
+        "onboard_time": 1754577984,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672884,
+        "num": 672884,
+        "word": "湛江回应凌晨家长不在家孩子被抽血",
+        "onboard_time": 1754577504,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581338,
+        "num": 581338,
+        "word": "健美选手刘一阳逝世",
+        "onboard_time": 1754575884,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581864,
+        "num": 578881,
+        "word": "不愧是娜扎这可是央视新闻啊",
+        "onboard_time": 1754570065,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509948,
+        "num": 509948,
+        "word": "女子吵架冲去拥抱男友力道过大坠亡",
+        "onboard_time": 1754568923,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 482275,
+        "num": 482275,
+        "word": "世运会开幕式",
+        "onboard_time": 1754567483,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393369,
+        "num": 393369,
+        "word": "赵露思去厚本粉丝见面会",
+        "onboard_time": 1754570422,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90372,
+        "num": 368727,
+        "word": "小孩单独在家时被工作人员上门抽血",
+        "onboard_time": 1754580143,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345003,
+        "num": 345003,
+        "word": "留几手问赵露思又是谁",
+        "onboard_time": 1754579064,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315568,
+        "num": 315568,
+        "word": "美国加州发现阿凡达色野猪肉",
+        "onboard_time": 1754569582,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297603,
+        "num": 297603,
+        "word": "朋友圈如果显示机型型号",
+        "onboard_time": 1754564363,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290257,
+        "num": 290257,
+        "word": "iPhone17Pro或存储翻倍",
+        "onboard_time": 1754577264,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 267608,
+        "num": 267608,
+        "word": "赵露思直播带火葛根茶负责人发声",
+        "onboard_time": 1754577925,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261776,
+        "num": 261776,
+        "word": "世运会七彩祥云烟花",
+        "onboard_time": 1754573243,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235127,
+        "num": 235127,
+        "word": "马库斯说要努力像中国人民一样勇敢",
+        "onboard_time": 1754576664,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233278,
+        "num": 233278,
+        "word": "肖战直播",
+        "onboard_time": 1754568444,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227896,
+        "num": 227896,
+        "word": "台湾60米高压电缆上惊现男尸",
+        "onboard_time": 1754571023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566467,
+        "num": 219545,
+        "word": "爱康国宾向患癌女律师索赔1000万",
+        "onboard_time": 1754576844,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208854,
+        "num": 208854,
+        "word": "孙楠长成大姑娘了",
+        "onboard_time": 1754578524,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208050,
+        "num": 208050,
+        "word": "以色列称原子弹是日本的报应",
+        "onboard_time": 1754569344,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193251,
+        "num": 193251,
+        "word": "王嘉尔超绝低颅顶",
+        "onboard_time": 1754568083,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180007,
+        "num": 180007,
+        "word": "男宝星球2",
+        "onboard_time": 1754579663,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171352,
+        "num": 171352,
+        "word": "郑州暴雨一商场员工筑起人墙挡雨",
+        "onboard_time": 1754577085,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 166725,
+        "num": 166725,
+        "word": "少林寺回应不让入内避雨",
+        "onboard_time": 1754560163,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146138,
+        "num": 146138,
+        "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
+        "onboard_time": 1754564723,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138882,
+        "num": 138882,
+        "word": "网传苏新皓参加这就是街舞7",
+        "onboard_time": 1754575344,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137810,
+        "num": 137810,
+        "word": "豆瓣发公告了",
+        "onboard_time": 1754562263,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134645,
+        "num": 134645,
+        "word": "汪顺国际奥委会会旗执旗手",
+        "onboard_time": 1754573003,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132358,
+        "num": 132358,
+        "word": "RIIZE全员刀马",
+        "onboard_time": 1754580263,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131486,
+        "num": 131486,
+        "word": "张杰谢娜 生理性喜欢",
+        "onboard_time": 1754556446,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131240,
+        "num": 131240,
+        "word": "张淼怡的害羞不像演的",
+        "onboard_time": 1754578644,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129506,
+        "num": 129506,
+        "word": "张予曦苦练自拍又没出图",
+        "onboard_time": 1754577445,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65029,
+        "num": 121904,
+        "word": "男子看菜单高级偷走送朋友被行拘",
+        "onboard_time": 1754578885,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120568,
+        "num": 120568,
+        "word": "全家人漂流两小时晒出丝袜腿",
+        "onboard_time": 1754576605,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119677,
+        "num": 119677,
+        "word": "世运会开幕烟花绝了",
+        "onboard_time": 1754570363,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117759,
+        "num": 117759,
+        "word": "看似正常其实是焦虑的表现",
+        "onboard_time": 1754578223,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116440,
+        "num": 116440,
+        "word": "锦月如歌时长",
+        "onboard_time": 1754577864,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115788,
+        "num": 115788,
+        "word": "当越来越多高中生不再选文科",
+        "onboard_time": 1754578644,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112993,
+        "num": 112993,
+        "word": "患癌女律师回应爱康国宾索赔千万",
+        "onboard_time": 1754580563,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110947,
+        "num": 110947,
+        "word": "孟子义李昀锐无缝进组尚公主",
+        "onboard_time": 1754564424,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109720,
+        "num": 109720,
+        "word": "2025金球奖",
+        "onboard_time": 1754579964,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95905,
+        "num": 107504,
+        "word": "曝万斯团队提高河流水位以便其划船",
+        "onboard_time": 1754579425,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107313,
+        "num": 107313,
+        "word": "关晓彤立秋苦了自己甜了同事",
+        "onboard_time": 1754569943,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103999,
+        "num": 103999,
+        "word": "男子花6元买彩票中1256万元",
+        "onboard_time": 1754561543,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99783,
+        "num": 99783,
+        "word": "成都世运会一个人的代表团",
+        "onboard_time": 1754576965,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98058,
+        "num": 98058,
+        "word": "冯建宇风尚志首封鲨疯了",
+        "onboard_time": 1754571324,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95648,
+        "num": 95648,
+        "word": "迪丽热巴站内现代剧热度最高女性角色",
+        "onboard_time": 1754580325,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样寄语改革创新#"
+    }
+  }
+}
