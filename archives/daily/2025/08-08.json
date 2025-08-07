@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754595574480,
+  "endTime": 1754598714246,
   "band_list": [
     {
       "raw_hot": 955191,
@@ -491,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29058,
+      "num": 29058,
+      "word": "美国少年玩枪子弹射穿楼板打死表妹",
+      "onboard_time": 1754595254,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27631,
       "num": 79938,
       "word": "郑州京广路隧道被淹有人爬梯子脱困",
       "onboard_time": 1754590936,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26907,
+      "num": 26907,
+      "word": "王源太原演唱会抢票",
+      "onboard_time": 1754595016,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 25362,
@@ -515,20 +531,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20322,
-      "num": 23420,
-      "word": "王源太原演唱会抢票",
-      "onboard_time": 1754595016,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 13762,
+      "raw_hot": 14242,
       "num": 22719,
       "word": "iQOO性能续航双王炸",
       "onboard_time": 1754565082,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 13654,
+      "num": 18329,
+      "word": "宋茜回应立秋打错成中秋",
+      "onboard_time": 1754596873,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12521,
+      "num": 18316,
+      "word": "上了高中你会发现各学科的规律",
+      "onboard_time": 1754597774,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 11523,
+      "num": 44620,
+      "word": "堪察加半岛克柳切夫火山喷发",
+      "onboard_time": 1754597894,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11381,
@@ -545,14 +577,6 @@
       "onboard_time": 1754594536,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10621,
-      "num": 22723,
-      "word": "美国少年玩枪子弹射穿楼板打死表妹",
-      "onboard_time": 1754595254,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 6614,
