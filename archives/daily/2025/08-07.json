@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754551980782,
+  "endTime": 1754552840294,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -131,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 788961,
+      "num": 696068,
+      "word": "美国驻华大使馆逆天言论",
+      "onboard_time": 1754548942,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 751608,
       "num": 751608,
       "word": "缅甸代总统因病逝世",
@@ -161,14 +169,6 @@
       "onboard_time": 1754501778,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 696068,
-      "num": 696068,
-      "word": "美国驻华大使馆逆天言论",
-      "onboard_time": 1754548942,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 695764,
@@ -225,6 +225,14 @@
       "onboard_time": 1754490685,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622576,
+      "num": 622576,
+      "word": "以爱为营2.0",
+      "onboard_time": 1754549243,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 610641,
@@ -321,14 +329,6 @@
       "onboard_time": 1754546602,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 537671,
-      "num": 537671,
-      "word": "以爱为营2.0",
-      "onboard_time": 1754549243,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 518279,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374883,
+      "num": 374883,
+      "word": "父亲意外去世18岁接掌2亿家族企业",
+      "onboard_time": 1754549183,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364082,
       "num": 364082,
       "word": "王一栩晒苍兰诀库存",
@@ -499,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328892,
-      "num": 328892,
-      "word": "父亲意外去世18岁接掌2亿家族企业",
-      "onboard_time": 1754549183,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 331988,
+      "num": 331988,
+      "word": "小沈阳全家用美美桑内头像",
+      "onboard_time": 1754551644,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 326363,
@@ -553,6 +561,14 @@
       "onboard_time": 1754546183,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 288707,
+      "num": 229619,
+      "word": "女孩2岁时基因突变双目失明",
+      "onboard_time": 1754548342,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286268,
@@ -611,14 +627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257125,
-      "num": 229619,
-      "word": "女孩2岁时基因突变双目失明",
-      "onboard_time": 1754548342,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257033,
       "num": 257033,
       "word": "锦月如歌 魔改",
@@ -651,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 242382,
+      "num": 242382,
+      "word": "谁能演谢景行",
+      "onboard_time": 1754550504,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240780,
       "num": 240780,
       "word": "子夜归定档节奏",
@@ -665,6 +681,14 @@
       "onboard_time": 1754541623,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232702,
+      "num": 232702,
+      "word": "时代少年团演唱会上海站开售在即",
+      "onboard_time": 1754552183,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 229183,
@@ -739,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210903,
-      "num": 210903,
-      "word": "谁能演谢景行",
-      "onboard_time": 1754550504,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210593,
       "num": 210593,
       "word": "杭州高架一理想MEGA起火",
@@ -787,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202664,
+      "num": 202664,
+      "word": "傅首尔公开瘦身过程",
+      "onboard_time": 1754552064,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202013,
       "num": 324728,
       "word": "5集搂脖搂腰一起洗澡全干了",
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 201204,
-      "num": 155346,
+      "num": 186126,
       "word": "我的阿勒泰真的拍保守了",
       "onboard_time": 1754549902,
       "rank": 44,
@@ -905,14 +929,6 @@
       "onboard_time": 1754531600,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182144,
-      "num": 182144,
-      "word": "小沈阳全家用美美桑内头像",
-      "onboard_time": 1754551644,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 181979,
@@ -1011,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163706,
+      "num": 163706,
+      "word": "丁程鑫训练记录",
+      "onboard_time": 1754551762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161078,
       "num": 161078,
       "word": "广州一地山体滑坡已致2人遇难",
@@ -1059,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156555,
+      "num": 156555,
+      "word": "黄子韬和AK蛐蛐徐艺洋",
+      "onboard_time": 1754551224,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154723,
       "num": 154723,
       "word": "莫离",
@@ -1099,22 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151786,
-      "num": 151786,
-      "word": "黄子韬和AK蛐蛐徐艺洋",
-      "onboard_time": 1754551224,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151631,
-      "num": 151631,
-      "word": "丁程鑫训练记录",
-      "onboard_time": 1754551762,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151597,
       "num": 151597,
       "word": "何猷君前女友晒娃",
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 148284,
-      "num": 148284,
+      "num": 170943,
       "word": "偶遇曾辉韩雨彤",
       "onboard_time": 1754549243,
       "rank": 40,
@@ -1251,12 +1267,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139251,
+      "num": 176533,
+      "word": "马库斯被731部队罪行震惊到",
+      "onboard_time": 1754548342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138343,
       "num": 136317,
       "word": "A股稀土永磁板块爆发",
       "onboard_time": 1754551165,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138324,
+      "num": 136921,
+      "word": "租到了穿搭博主的镜子",
+      "onboard_time": 1754552483,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138214,
+      "num": 138213,
+      "word": "这跟15年前的沈眉庄有什么区别",
+      "onboard_time": 1754551464,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138111,
@@ -1339,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134035,
+      "num": 134035,
+      "word": "宋茜飞前喝上了秋天的第一杯奶茶",
+      "onboard_time": 1754552603,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133669,
       "num": 170793,
       "word": "小沈阳让女儿给他买秋天第一杯奶茶",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1754536100,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133174,
-      "num": 133174,
-      "word": "这跟15年前的沈眉庄有什么区别",
-      "onboard_time": 1754551464,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 132137,
@@ -1401,14 +1441,6 @@
       "onboard_time": 1754544864,
       "rank": 49,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 131288,
-      "num": 176533,
-      "word": "马库斯被731部队罪行震惊到",
-      "onboard_time": 1754548342,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131288,
@@ -1483,6 +1515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124893,
+      "num": 131394,
+      "word": "MRC对战Wolves",
+      "onboard_time": 1754551464,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 124846,
+      "num": 124846,
+      "word": "女子拒绝加塞被光膀纹身男辱骂",
+      "onboard_time": 1754552724,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124453,
       "num": 124453,
       "word": "终于知道大家为什么喜欢秋天了",
@@ -1513,14 +1561,6 @@
       "onboard_time": 1754536281,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 122050,
-      "num": 122050,
-      "word": "MRC对战Wolves",
-      "onboard_time": 1754551464,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 121888,
@@ -1867,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77015,
+      "num": 138214,
+      "word": "多地奶茶店排队近千杯",
+      "onboard_time": 1754552483,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73772,
       "num": 73772,
       "word": "香港失联独居老人被发现时已成白骨",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1754523200,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64774,
+      "num": 140067,
+      "word": "建议10岁存养老钱的专家别建议了",
+      "onboard_time": 1754551644,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60008,
@@ -2067,11 +2123,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 44668,
-      "num": 140067,
-      "word": "建议10岁存养老钱的专家别建议了",
-      "onboard_time": 1754551644,
-      "rank": 36,
+      "raw_hot": 46405,
+      "num": 138303,
+      "word": "220元卖2盒止疼药被判贩毒",
+      "onboard_time": 1754552064,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45345,
+      "num": 170902,
+      "word": "米线店回应顾客发现包浆碗",
+      "onboard_time": 1754552753,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2139,20 +2203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35626,
+      "num": 231380,
+      "word": "佛山全市统一行动大扫除",
+      "onboard_time": 1754551883,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34964,
       "num": 396366,
       "word": "柬埔寨与泰国就停火协议达成共识",
       "onboard_time": 1754549544,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 33973,
-      "num": 150741,
-      "word": "佛山全市统一行动大扫除",
-      "onboard_time": 1754551883,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30427,
