@@ -1,6 +1,6 @@
 {
   "startTime": 1754498220306,
-  "endTime": 1754559296926,
+  "endTime": 1754560147342,
   "band_list": [
     {
       "raw_hot": 7007661,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1295338,
-      "num": 423487,
+      "num": 480499,
       "word": "点了杯奶茶商家倒欠我五毛钱",
       "onboard_time": 1754555903,
       "rank": 47,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 614251,
+      "num": 614251,
+      "word": "尚公主",
+      "onboard_time": 1754557465,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610641,
       "num": 336238,
       "word": "黄一鸣带两岁女儿拍ct",
@@ -393,14 +401,6 @@
       "onboard_time": 1754530280,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476099,
-      "num": 476099,
-      "word": "尚公主",
-      "onboard_time": 1754557465,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 468397,
@@ -595,6 +595,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 325708,
+      "num": 325708,
+      "word": "终于等到田曦薇拍现偶",
+      "onboard_time": 1754558123,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321718,
       "num": 308607,
       "word": "田曦薇双马尾",
@@ -649,6 +657,14 @@
       "onboard_time": 1754548342,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287328,
+      "num": 287328,
+      "word": "胡一天出道以来第一个二番",
+      "onboard_time": 1754555783,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 286268,
@@ -771,22 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239233,
-      "num": 239233,
-      "word": "胡一天出道以来第一个二番",
-      "onboard_time": 1754555783,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 234364,
-      "num": 234364,
-      "word": "终于等到田曦薇拍现偶",
-      "onboard_time": 1754558123,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229183,
       "num": 229183,
       "word": "杨幂送奶茶",
@@ -897,6 +897,14 @@
       "onboard_time": 1754544984,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206558,
+      "num": 166383,
+      "word": "魏哲鸣统一了我全家的审美",
+      "onboard_time": 1754559325,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 206098,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1754545522,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191836,
+      "num": 191836,
+      "word": "不是所有女生喝奶茶都需要很久",
+      "onboard_time": 1754559804,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 191607,
@@ -1211,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166051,
+      "num": 166051,
+      "word": "潘玮柏女儿正面近照",
+      "onboard_time": 1754558425,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163706,
       "num": 163706,
       "word": "丁程鑫训练记录",
@@ -1291,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155558,
+      "num": 150521,
+      "word": "原来彩虹糖广告是真的",
+      "onboard_time": 1754559804,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155398,
       "num": 155398,
       "word": "立刻轻松拥有超绝执行力的方法",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1754548463,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 153977,
-      "num": 153977,
-      "word": "潘玮柏女儿正面近照",
-      "onboard_time": 1754558425,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 153204,
@@ -1435,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145430,
+      "num": 145430,
+      "word": "以前的立秋vs现在的立秋",
+      "onboard_time": 1754559924,
+      "rank": 34,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 144670,
       "num": 110998,
       "word": "南京照相馆被污蔑话术好一致",
@@ -1483,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141459,
+      "num": 141458,
+      "word": "中国男篮vs印度男篮",
+      "onboard_time": 1754556743,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140794,
       "num": 140794,
       "word": "王楚钦说对球还得适应下",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1754556805,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138669,
-      "num": 138669,
-      "word": "中国男篮vs印度男篮",
-      "onboard_time": 1754556743,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 138380,
@@ -1979,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114885,
+      "num": 114885,
+      "word": "眼神回避闪躲的俩人一定不清白",
+      "onboard_time": 1754559984,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113098,
       "num": 144409,
       "word": "16架歼20一字排开",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1754532201,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109572,
+      "num": 109572,
+      "word": "交警回应车辆景区逆行加塞挑衅",
+      "onboard_time": 1754559445,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109373,
@@ -2227,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88157,
+      "num": 209093,
+      "word": "捐侵华照片小伙要告诉西方人731",
+      "onboard_time": 1754559504,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87276,
       "num": 87276,
       "word": "神印王座动画",
@@ -2331,11 +2387,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72073,
+      "num": 141461,
+      "word": "工人农田上厕所时被枪击身亡",
+      "onboard_time": 1754559804,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70026,
       "num": 70026,
       "word": "电瓶爆燃案肇事者母亲为儿子喊冤",
       "onboard_time": 1754492484,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69194,
+      "num": 166274,
+      "word": "3人泄露台积电2纳米技术被羁押",
+      "onboard_time": 1754559084,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2459,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52239,
+      "num": 141471,
+      "word": "林志玲好爱吃泡面",
+      "onboard_time": 1754559683,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50741,
       "num": 50741,
       "word": "方媛孕肚生日照",
@@ -2473,6 +2553,14 @@
       "onboard_time": 1754523498,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49878,
+      "num": 166679,
+      "word": "郑州多路段积水严重有汽车被困水中",
+      "onboard_time": 1754559084,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49247,
@@ -2667,14 +2755,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 25708,
-      "num": 163518,
-      "word": "郑州多路段积水严重有汽车被困水中",
-      "onboard_time": 1754559084,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25003,
       "num": 31391,
       "word": "谁懂这个面包价格的含金量",
@@ -2752,14 +2832,6 @@
       "word": "网友称喜茶杯内现标签门店仅退款",
       "onboard_time": 1754510474,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12024,
-      "num": 166274,
-      "word": "3人泄露台积电2纳米技术被羁押",
-      "onboard_time": 1754559084,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
