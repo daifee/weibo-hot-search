@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754674965175,
+  "endTime": 1754678278971,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37885,
+      "num": 37885,
+      "word": "崔秀彬礼盒",
+      "onboard_time": 1754677396,
+      "rank": 34,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 33807,
       "num": 92943,
       "word": "李佳薇VCR",
@@ -499,12 +507,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27399,
+      "raw_hot": 33384,
       "num": 67509,
       "word": "外国人学汉字get中国人学几何的优势",
       "onboard_time": 1754674697,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29325,
+      "num": 32868,
+      "word": "陈楚生郑钧赤裸裸",
+      "onboard_time": 1754677935,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27906,
+      "num": 32853,
+      "word": "王力宏说单依纯勇于冒险",
+      "onboard_time": 1754676916,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 24125,
