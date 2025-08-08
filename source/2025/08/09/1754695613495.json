@@ -1,0 +1,410 @@
+{
+  "runTime": 1754695613495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 720815,
+        "num": 852066,
+        "word": "陈楚生歌王",
+        "onboard_time": 1754666010,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506938,
+        "num": 506938,
+        "word": "男子转嫖娼对象138万原配追讨败诉",
+        "onboard_time": 1754666845,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4527,
+        "num": 439008,
+        "word": "公办民办幼儿园均可享受免保教费",
+        "onboard_time": 1754534600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394740,
+        "num": 394740,
+        "word": "歌手排名",
+        "onboard_time": 1754659884,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343697,
+        "num": 343697,
+        "word": "刘晓庆已被举报人起诉",
+        "onboard_time": 1754672059,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 203149,
+        "num": 203149,
+        "word": "中国女子坠入日本东京大学烟囱死亡",
+        "onboard_time": 1754652322,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345422,
+        "num": 202685,
+        "word": "只穿裙子是导演对邱莹莹最大的偏见",
+        "onboard_time": 1754688914,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266480,
+        "num": 202104,
+        "word": "那英含金量",
+        "onboard_time": 1754669063,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199931,
+        "num": 199931,
+        "word": "24小时退房制为啥不能成统一标准",
+        "onboard_time": 1754658086,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 189487,
+        "num": 189487,
+        "word": "男子赌气离家29年领退休金时现身",
+        "onboard_time": 1754658625,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449596,
+        "num": 188015,
+        "word": "麦琳88斤了",
+        "onboard_time": 1754664746,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329586,
+        "num": 187228,
+        "word": "因鸡蛋崩溃掀桌女子发声",
+        "onboard_time": 1754657124,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257536,
+        "num": 183526,
+        "word": "赵露思呼吁品牌找公司对接工作",
+        "onboard_time": 1754665773,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196540,
+        "num": 181711,
+        "word": "难听",
+        "onboard_time": 1754661506,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180945,
+        "num": 180945,
+        "word": "耳帝",
+        "onboard_time": 1754669603,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143953,
+        "num": 143953,
+        "word": "社保",
+        "onboard_time": 1754653342,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143581,
+        "num": 143581,
+        "word": "歌手",
+        "onboard_time": 1754695098,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141192,
+        "num": 141192,
+        "word": "疑因孩子顶座乘客飞机上发生冲突",
+        "onboard_time": 1754660125,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133493,
+        "num": 133493,
+        "word": "重庆钓鱼博主谈二娃不幸溺亡",
+        "onboard_time": 1754667327,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 115843,
+        "num": 115843,
+        "word": "胖东来招聘服刑人员顾客该支持吗",
+        "onboard_time": 1754661745,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114698,
+        "num": 114698,
+        "word": "李佳薇哭死我了",
+        "onboard_time": 1754663786,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100059,
+        "num": 100059,
+        "word": "单依纯王力宏 好听",
+        "onboard_time": 1754657483,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72784,
+        "num": 72784,
+        "word": "陈楚生 获奖之作",
+        "onboard_time": 1754662945,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71873,
+        "num": 71873,
+        "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
+        "onboard_time": 1754663606,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70771,
+        "num": 70771,
+        "word": "心跳1分钟多少次最健康",
+        "onboard_time": 1754672360,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49001,
+        "num": 70635,
+        "word": "国防部提到南京照相馆和东极岛",
+        "onboard_time": 1754663305,
+        "rank": 25,
+        "category": "国内时政,电影"
+      },
+      {
+        "raw_hot": 70538,
+        "num": 70538,
+        "word": "食贫道卧底韩国邪教",
+        "onboard_time": 1754652742,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64847,
+        "num": 64847,
+        "word": "电脑卡可能是因为WPS",
+        "onboard_time": 1754680215,
+        "rank": 27,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 54390,
+        "num": 62579,
+        "word": "特朗普称将与普京会晤",
+        "onboard_time": 1754695397,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19008,
+        "num": 62270,
+        "word": "俄称俄美元首将讨论乌长期和平方案",
+        "onboard_time": 1754695397,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62201,
+        "num": 62201,
+        "word": "王力宏赛后发文",
+        "onboard_time": 1754665952,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55975,
+        "num": 55975,
+        "word": "歌手总决赛",
+        "onboard_time": 1754652742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54777,
+        "num": 54777,
+        "word": "鹿晗郑州",
+        "onboard_time": 1754657904,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53431,
+        "num": 53431,
+        "word": "ALin回应念肖战微博改名热搜",
+        "onboard_time": 1754672299,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52991,
+        "num": 52991,
+        "word": "孟子义第一个开上缤果S新车",
+        "onboard_time": 1754651782,
+        "rank": 34,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 50342,
+        "num": 50342,
+        "word": "单依纯哭了",
+        "onboard_time": 1754695458,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49554,
+        "num": 49554,
+        "word": "颖儿是怕我惦记付辛博",
+        "onboard_time": 1754647582,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47653,
+        "num": 47653,
+        "word": "东极岛",
+        "onboard_time": 1754659884,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47242,
+        "num": 47242,
+        "word": "女歌手们都是歌王",
+        "onboard_time": 1754665471,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46861,
+        "num": 46861,
+        "word": "婚内给女子转138万被认定系嫖资",
+        "onboard_time": 1754667744,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46000,
+        "num": 46000,
+        "word": "爱出门的人能量很高",
+        "onboard_time": 1754669482,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41125,
+        "num": 41125,
+        "word": "直击甘肃榆中山洪灾害救援",
+        "onboard_time": 1754695277,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40977,
+        "num": 40977,
+        "word": "25岁做了管理层后性情大变",
+        "onboard_time": 1754657063,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40036,
+        "num": 40036,
+        "word": "湖南一小孩掉落玻璃栈道挂半空",
+        "onboard_time": 1754665294,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39525,
+        "num": 39525,
+        "word": "ALin彭佳慧不要再吵了",
+        "onboard_time": 1754655803,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37299,
+        "num": 39521,
+        "word": "男子给失足女转138万前妻起诉被驳",
+        "onboard_time": 1754670143,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36056,
+        "num": 39513,
+        "word": "Beni能不能去浪姐",
+        "onboard_time": 1754660125,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35467,
+        "num": 39503,
+        "word": "李溪芮变化",
+        "onboard_time": 1754649382,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34094,
+        "num": 39495,
+        "word": "中使馆回应菲方违规抓扣9名中国人",
+        "onboard_time": 1754695578,
+        "rank": 48,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 30520,
+        "num": 39487,
+        "word": "豆瓣崩了",
+        "onboard_time": 1754694377,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}

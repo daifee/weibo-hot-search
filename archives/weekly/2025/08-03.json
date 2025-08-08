@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754693083142,
+  "endTime": 1754695613495,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -3956,7 +3956,7 @@
     },
     {
       "raw_hot": 406920,
-      "num": 142452,
+      "num": 180945,
       "word": "耳帝",
       "onboard_time": 1754669603,
       "rank": 22,
@@ -4627,12 +4627,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345422,
+      "num": 202685,
+      "word": "只穿裙子是导演对邱莹莹最大的偏见",
+      "onboard_time": 1754688914,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344162,
       "num": 315099,
       "word": "恋人剧组",
       "onboard_time": 1754144429,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343697,
+      "num": 343697,
+      "word": "刘晓庆已被举报人起诉",
+      "onboard_time": 1754672059,
+      "rank": 30,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 342829,
@@ -6025,14 +6041,6 @@
       "onboard_time": 1754659766,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251194,
-      "num": 251194,
-      "word": "刘晓庆已被举报人起诉",
-      "onboard_time": 1754672059,
-      "rank": 30,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 250911,
@@ -8553,14 +8561,6 @@
       "onboard_time": 1754656884,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184540,
-      "num": 105425,
-      "word": "只穿裙子是导演对邱莹莹最大的偏见",
-      "onboard_time": 1754688914,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 184478,
@@ -11625,6 +11625,14 @@
       "onboard_time": 1754538742,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 143581,
+      "num": 143581,
+      "word": "歌手",
+      "onboard_time": 1754695098,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 143477,
@@ -18907,6 +18915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64847,
+      "num": 64847,
+      "word": "电脑卡可能是因为WPS",
+      "onboard_time": 1754680215,
+      "rank": 36,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 64774,
       "num": 140067,
       "word": "建议10岁存养老钱的专家别建议了",
@@ -19379,6 +19395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54390,
+      "num": 62579,
+      "word": "特朗普称将与普京会晤",
+      "onboard_time": 1754695397,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54030,
       "num": 54030,
       "word": "小猫不许进卧室",
@@ -19585,6 +19609,14 @@
       "onboard_time": 1754661745,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50342,
+      "num": 50342,
+      "word": "单依纯哭了",
+      "onboard_time": 1754695458,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 50326,
@@ -19971,6 +20003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41125,
+      "num": 41125,
+      "word": "直击甘肃榆中山洪灾害救援",
+      "onboard_time": 1754695277,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41116,
       "num": 314342,
       "word": "全球首个机器人消费节",
@@ -20057,14 +20097,6 @@
       "onboard_time": 1754642182,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39841,
-      "num": 39841,
-      "word": "电脑卡可能是因为WPS",
-      "onboard_time": 1754680215,
-      "rank": 36,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 39745,
@@ -20313,6 +20345,14 @@
       "onboard_time": 1754624062,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34094,
+      "num": 39495,
+      "word": "中使馆回应菲方违规抓扣9名中国人",
+      "onboard_time": 1754695578,
+      "rank": 48,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 33807,
@@ -20977,6 +21017,14 @@
       "onboard_time": 1754392883,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19008,
+      "num": 62270,
+      "word": "俄称俄美元首将讨论乌长期和平方案",
+      "onboard_time": 1754695397,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19004,
