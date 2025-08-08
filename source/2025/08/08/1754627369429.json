@@ -1,0 +1,410 @@
+{
+  "runTime": 1754627369429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2147165,
+        "num": 2147165,
+        "word": "名创优品道歉",
+        "onboard_time": 1754622621,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555681,
+        "num": 555681,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13275,
+        "num": 517233,
+        "word": "世运会和奥运会有啥不一样",
+        "onboard_time": 1754526143,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1962739,
+        "num": 504256,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490929,
+        "num": 490929,
+        "word": "考上北大护理学院骑手称不复读",
+        "onboard_time": 1754625203,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1222994,
+        "num": 488319,
+        "word": "女高管出差遭老板性侵监控曝光",
+        "onboard_time": 1754624483,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537397,
+        "num": 481092,
+        "word": "红牛 王一博",
+        "onboard_time": 1754622863,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528899,
+        "num": 469798,
+        "word": "网红刘大悦30岁才摆脱童年创伤",
+        "onboard_time": 1754622621,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255699,
+        "num": 464628,
+        "word": "小学女生花光父母14万刷礼物后辍学",
+        "onboard_time": 1754625802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386189,
+        "num": 456600,
+        "word": "官方回应刘晓庆被举报偷税",
+        "onboard_time": 1754623704,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1264880,
+        "num": 446802,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443105,
+        "num": 443105,
+        "word": "日本和印度强硬表态",
+        "onboard_time": 1754620701,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436291,
+        "num": 436291,
+        "word": "具惠善发文喊话安宰贤",
+        "onboard_time": 1754617641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33055,
+        "num": 392509,
+        "word": "赵丽颖秋天的第一份舒适",
+        "onboard_time": 1754624062,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391873,
+        "num": 391873,
+        "word": "恋与深空",
+        "onboard_time": 1754619321,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 304009,
+        "num": 304009,
+        "word": "Jennie 蝴蝶结",
+        "onboard_time": 1754624963,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212923,
+        "num": 300934,
+        "word": "女子在景区摸马肚子被狠咬一口",
+        "onboard_time": 1754613203,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45994,
+        "num": 298154,
+        "word": "这一季的酸酸甜甜都在这了",
+        "onboard_time": 1754624123,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93028,
+        "num": 296053,
+        "word": "头一回见这么正的负能量",
+        "onboard_time": 1754626525,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90761,
+        "num": 293636,
+        "word": "洪涛这次不喝水了",
+        "onboard_time": 1754625924,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422300,
+        "num": 288162,
+        "word": "妈妈让女儿辞职照顾自己补偿490万",
+        "onboard_time": 1754615181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286867,
+        "num": 286867,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270928,
+        "num": 270928,
+        "word": "刘浩存换回微商头像",
+        "onboard_time": 1754614942,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254541,
+        "num": 254541,
+        "word": "陶白白前妻说离婚不是为上再见爱人",
+        "onboard_time": 1754619861,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234159,
+        "num": 234159,
+        "word": "女子点100份三文鱼吃了吐吐了吃",
+        "onboard_time": 1754610200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224555,
+        "num": 224555,
+        "word": "贝儿知道鲍蕾陆毅上婚综的反应",
+        "onboard_time": 1754622801,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217997,
+        "num": 217997,
+        "word": "贾乃亮带甜馨去新加坡",
+        "onboard_time": 1754623342,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210572,
+        "num": 210572,
+        "word": "杨蒙恩 天崩开局",
+        "onboard_time": 1754620041,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198945,
+        "num": 198945,
+        "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
+        "onboard_time": 1754626224,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191828,
+        "num": 191828,
+        "word": "祁煜失重热浪",
+        "onboard_time": 1754625624,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190383,
+        "num": 190383,
+        "word": "男子为减肥送外卖35天瘦17斤",
+        "onboard_time": 1754625443,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185552,
+        "num": 185552,
+        "word": "胖东来为有犯罪前科人员留20个岗位",
+        "onboard_time": 1754626764,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166659,
+        "num": 166659,
+        "word": "内娱第一个水獭塑女主",
+        "onboard_time": 1754626043,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159656,
+        "num": 159656,
+        "word": "贷款200多万进中药赚了36元",
+        "onboard_time": 1754624183,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156317,
+        "num": 156317,
+        "word": "李嫣19岁近照曝光",
+        "onboard_time": 1754626944,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155129,
+        "num": 155129,
+        "word": "名创优品 时代少年团",
+        "onboard_time": 1754615181,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151980,
+        "num": 151980,
+        "word": "刘晓庆发声明税务无问题",
+        "onboard_time": 1754624363,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148274,
+        "num": 148274,
+        "word": "马库斯家族成员被日军殴打强奸活埋",
+        "onboard_time": 1754625682,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140871,
+        "num": 140871,
+        "word": "东极岛",
+        "onboard_time": 1754613742,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132510,
+        "num": 132510,
+        "word": "姜潮麦迪娜合体回应流言蜚语",
+        "onboard_time": 1754626525,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132050,
+        "num": 132050,
+        "word": "冯建宇十年间的眼神变化",
+        "onboard_time": 1754627183,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130162,
+        "num": 130162,
+        "word": "普通人坚持运动七个月的变化",
+        "onboard_time": 1754623822,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121645,
+        "num": 121645,
+        "word": "王一博出发上海了",
+        "onboard_time": 1754624782,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120910,
+        "num": 120910,
+        "word": "易烊千玺北京站 加场",
+        "onboard_time": 1754620102,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "迪丽热巴没有一句台词却演的好痛",
+        "onboard_time": 1754625503,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120381,
+        "num": 120381,
+        "word": "公主抱 祁煜",
+        "onboard_time": 1754627304,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118603,
+        "num": 118603,
+        "word": "菲方不要在中方核心利益问题上玩火",
+        "onboard_time": 1754621842,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114027,
+        "num": 118250,
+        "word": "甲乙真的要吊着睡觉吗",
+        "onboard_time": 1754627183,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118226,
+        "num": 118226,
+        "word": "将门毒后选角最火的一对",
+        "onboard_time": 1754611339,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112977,
+        "num": 115661,
+        "word": "易烊千玺言出必行这一块",
+        "onboard_time": 1754625743,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样寄语改革创新#"
+    }
+  }
+}
