@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754619254233,
+  "endTime": 1754620791522,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 806025,
+      "num": 225418,
+      "word": "具惠善发文喊话安宰贤",
+      "onboard_time": 1754617641,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726635,
       "num": 232830,
       "word": "如厕被气枪误杀的农民工家属发声",
@@ -43,11 +51,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 692796,
-      "num": 225418,
-      "word": "具惠善发文喊话安宰贤",
-      "onboard_time": 1754617641,
-      "rank": 12,
+      "raw_hot": 701796,
+      "num": 701796,
+      "word": "赵露思直播跳扫腿舞",
+      "onboard_time": 1754617522,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1754615181,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587436,
+      "num": 180194,
+      "word": "妈妈让女儿辞职照顾自己补偿490万",
+      "onboard_time": 1754615181,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 568266,
@@ -107,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 509995,
-      "num": 166782,
-      "word": "妈妈让女儿辞职照顾自己补偿490万",
-      "onboard_time": 1754615181,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 469003,
       "num": 554638,
       "word": "男子12字评论被行拘5天2年后翻案",
@@ -131,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451375,
-      "num": 451375,
-      "word": "赵露思直播跳扫腿舞",
-      "onboard_time": 1754617522,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 421415,
+      "num": 183547,
+      "word": "上海地铁一男子辱骂乘客乡下人滚",
+      "onboard_time": 1754618242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401969,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 275427,
-      "num": 166105,
+      "num": 177541,
       "word": "女子点100份三文鱼吃了吐吐了吃",
       "onboard_time": 1754610200,
       "rank": 42,
@@ -225,6 +233,14 @@
       "onboard_time": 1754578524,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249807,
+      "num": 183292,
+      "word": "陶白白前妻说离婚不是为上再见爱人",
+      "onboard_time": 1754619861,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 240812,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232441,
+      "num": 232441,
+      "word": "披荆斩棘",
+      "onboard_time": 1754619562,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228711,
       "num": 156942,
       "word": "生理性喜欢是身体比心先说了爱",
@@ -275,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211373,
+      "num": 183847,
+      "word": "易烊千玺北京站 加场",
+      "onboard_time": 1754620102,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208439,
       "num": 156499,
       "word": "爱康国宾向患癌女律师索赔1000万",
@@ -289,6 +321,14 @@
       "onboard_time": 1754609660,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195952,
+      "num": 182988,
+      "word": "巴厘岛2名遇难中国游客身份确认",
+      "onboard_time": 1754616382,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195742,
@@ -331,12 +371,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 167095,
-      "num": 167095,
-      "word": "上海地铁一男子辱骂乘客乡下人滚",
-      "onboard_time": 1754618242,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 158044,
+      "num": 124432,
+      "word": "杨蒙恩 天崩开局",
+      "onboard_time": 1754620041,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 155955,
@@ -347,20 +387,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 149699,
-      "num": 149699,
-      "word": "巴厘岛2名遇难中国游客身份确认",
-      "onboard_time": 1754616382,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 147546,
       "num": 147546,
       "word": "于正说刘昊然电影咖不接剧吧",
       "onboard_time": 1754614644,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147210,
+      "num": 184402,
+      "word": "12省份暴雨黄色预警",
+      "onboard_time": 1754620521,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142695,
+      "num": 142695,
+      "word": "人均2000元合租拿下深圳独栋别墅",
+      "onboard_time": 1754619981,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142137,
@@ -411,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133008,
+      "num": 133008,
+      "word": "05后女生上岸985跑9.85公里庆祝",
+      "onboard_time": 1754619680,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129564,
       "num": 129564,
       "word": "韩国博物馆满是汉字本地人看不懂",
@@ -435,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124005,
+      "num": 124005,
+      "word": "iPhone17或9月10日开启预订",
+      "onboard_time": 1754615181,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "世运会七彩祥云烟花",
@@ -457,6 +521,22 @@
       "onboard_time": 1754608578,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117935,
+      "num": 117935,
+      "word": "半夜被蟑螂脚步声吵醒",
+      "onboard_time": 1754620222,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115877,
+      "num": 115877,
+      "word": "恋与深空",
+      "onboard_time": 1754619321,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 115076,
@@ -531,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102357,
+      "num": 246371,
+      "word": "马库斯家里人知道有照片但不敢发声",
+      "onboard_time": 1754613863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101385,
       "num": 101385,
       "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
@@ -547,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96406,
-      "num": 246371,
-      "word": "马库斯家里人知道有照片但不敢发声",
-      "onboard_time": 1754613863,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 98410,
+      "num": 111196,
+      "word": "邓超给小花买的麦克风孙俪唱上头了",
+      "onboard_time": 1754618182,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 96122,
@@ -561,6 +649,22 @@
       "onboard_time": 1754612182,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95453,
+      "num": 95453,
+      "word": "无畏太乙真人好有画面",
+      "onboard_time": 1754619623,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 94925,
+      "num": 94925,
+      "word": "日本和印度强硬表态",
+      "onboard_time": 1754620701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94891,
@@ -585,6 +689,14 @@
       "onboard_time": 1754609359,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 89853,
+      "num": 118143,
+      "word": "中国海大回应二手平台现海水吊坠",
+      "onboard_time": 1754619321,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89560,
@@ -643,14 +755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 79893,
-      "num": 79893,
-      "word": "iPhone17或9月10日开启预订",
-      "onboard_time": 1754615181,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 79226,
       "num": 79226,
       "word": "当越来越多高中生不再选文科",
@@ -689,14 +793,6 @@
       "onboard_time": 1754608637,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74200,
-      "num": 111196,
-      "word": "邓超给小花买的麦克风孙俪唱上头了",
-      "onboard_time": 1754618182,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 73870,
@@ -979,6 +1075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21151,
+      "num": 124589,
+      "word": "第11号台风杨柳来了",
+      "onboard_time": 1754620641,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19367,
       "num": 33035,
       "word": "58名加沙人领物资时遭袭死亡",
@@ -1052,7 +1156,7 @@
     },
     {
       "raw_hot": 9680,
-      "num": 572539,
+      "num": 579704,
       "word": "世运会和奥运会有啥不一样",
       "onboard_time": 1754526143,
       "rank": 2,
