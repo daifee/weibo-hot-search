@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754661412148,
+  "endTime": 1754663366877,
   "band_list": [
     {
       "raw_hot": 9646859,
@@ -73,6 +73,14 @@
       "onboard_time": 1754626883,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1807957,
+      "num": 359460,
+      "word": "难听",
+      "onboard_time": 1754661506,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1787330,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543848,
+      "num": 332300,
+      "word": "东极岛",
+      "onboard_time": 1754613742,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 532563,
       "num": 532563,
       "word": "单依纯常石磊献唱世运会主题曲",
@@ -577,14 +593,6 @@
       "onboard_time": 1754637802,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 432946,
-      "num": 223018,
-      "word": "东极岛",
-      "onboard_time": 1754613742,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 431637,
@@ -731,20 +739,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366916,
+      "num": 366916,
+      "word": "24小时退房制为啥不能成统一标准",
+      "onboard_time": 1754658086,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 360561,
       "num": 231336,
       "word": "王安宇安安公主",
       "onboard_time": 1754630723,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340430,
-      "num": 340430,
-      "word": "24小时退房制为啥不能成统一标准",
-      "onboard_time": 1754658086,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 331328,
@@ -761,6 +769,14 @@
       "onboard_time": 1754611339,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326145,
+      "num": 326145,
+      "word": "名创优品再致歉",
+      "onboard_time": 1754662105,
+      "rank": 15,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 325197,
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275385,
+      "num": 344644,
+      "word": "疑因孩子顶座乘客飞机上发生冲突",
+      "onboard_time": 1754660125,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275254,
       "num": 224555,
       "word": "贝儿知道鲍蕾陆毅上婚综的反应",
@@ -888,6 +912,14 @@
       "word": "孙楠长成大姑娘了",
       "onboard_time": 1754578524,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266311,
+      "num": 194116,
+      "word": "黄奕直播",
+      "onboard_time": 1754661144,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -937,6 +969,14 @@
       "onboard_time": 1754647281,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244807,
+      "num": 193094,
+      "word": "再就业男团演唱会官宣",
+      "onboard_time": 1754662645,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 242092,
@@ -1155,6 +1195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206032,
+      "num": 190624,
+      "word": "热巴live图",
+      "onboard_time": 1754662886,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205431,
       "num": 205431,
       "word": "金价",
@@ -1275,12 +1323,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192829,
-      "num": 192829,
-      "word": "疑因孩子顶座乘客飞机上发生冲突",
-      "onboard_time": 1754660125,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 193496,
+      "num": 193496,
+      "word": "孙颖莎3比0朱芊曦",
+      "onboard_time": 1754662406,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 192293,
@@ -1609,14 +1657,6 @@
       "onboard_time": 1754640922,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159668,
-      "num": 159668,
-      "word": "黄奕直播",
-      "onboard_time": 1754661144,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 157838,
@@ -1995,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140029,
+      "num": 140029,
+      "word": "美国悬赏5000万美元抓捕马杜罗",
+      "onboard_time": 1754659766,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139687,
       "num": 139687,
       "word": "JDG伞兵7淘汰MVP",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1754628024,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 133801,
-      "num": 133801,
-      "word": "美国悬赏5000万美元抓捕马杜罗",
-      "onboard_time": 1754659766,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133737,
@@ -2627,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108202,
+      "num": 203835,
+      "word": "胖东来招聘服刑人员顾客该支持吗",
+      "onboard_time": 1754661745,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107916,
       "num": 107915,
       "word": "高敏谈全红婵体重变化",
@@ -2923,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86899,
+      "num": 86899,
+      "word": "原来局部暴雨全景长这样",
+      "onboard_time": 1754663305,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86066,
       "num": 86066,
       "word": "编成海龟汤得猜一宿",
@@ -2945,6 +3001,14 @@
       "onboard_time": 1754644102,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85219,
+      "num": 85219,
+      "word": "国防部提到南京照相馆和东极岛",
+      "onboard_time": 1754663305,
+      "rank": 49,
+      "category": "国内时政,电影"
     },
     {
       "raw_hot": 84679,
@@ -3297,6 +3361,14 @@
       "onboard_time": 1754571324,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 50766,
+      "num": 189107,
+      "word": "被爱企查自动续费28个月才发现",
+      "onboard_time": 1754661745,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50042,
@@ -3699,6 +3771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9053,
+      "num": 959827,
+      "word": "公办民办幼儿园均可享受免保教费",
+      "onboard_time": 1754534600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6003,
       "num": 698744,
       "word": "2025世界人形机器人运动会新闻发布会",
@@ -3729,14 +3809,6 @@
       "onboard_time": 1754648482,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 723,
-      "num": 959827,
-      "word": "公办民办幼儿园均可享受免保教费",
-      "onboard_time": 1754534600,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3754,6 +3826,9 @@
     },
     {
       "word": "#少年强青年强则中国强#"
+    },
+    {
+      "word": "#做好防汛救灾各项工作#"
     }
   ]
 }
