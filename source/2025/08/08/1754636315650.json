@@ -1,0 +1,410 @@
+{
+  "runTime": 1754636315650,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1337084,
+        "num": 1337084,
+        "word": "人社局回应胖东来招聘服刑人员",
+        "onboard_time": 1754630422,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751429,
+        "num": 751429,
+        "word": "女子虐猫致4死或判3年",
+        "onboard_time": 1754633002,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101387,
+        "num": 688800,
+        "word": "中国队出场bgm是茉莉花",
+        "onboard_time": 1754628865,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 683848,
+        "num": 683848,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 496170,
+        "num": 496170,
+        "word": "张元英kwda投票第一",
+        "onboard_time": 1754633543,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318297,
+        "num": 318297,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423000,
+        "num": 316372,
+        "word": "女子被误认为日本人后霸气回怼",
+        "onboard_time": 1754627904,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314010,
+        "num": 314010,
+        "word": "胖东来新店招1千人200个给退伍军人",
+        "onboard_time": 1754630544,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282691,
+        "num": 282691,
+        "word": "网红刘大悦30岁才摆脱童年创伤",
+        "onboard_time": 1754622621,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190931,
+        "num": 190931,
+        "word": "小学女生花光父母14万刷礼物后辍学",
+        "onboard_time": 1754625802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1404471,
+        "num": 190865,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 984059,
+        "num": 190695,
+        "word": "握手 摸玉足",
+        "onboard_time": 1754629823,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538414,
+        "num": 190587,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276080,
+        "num": 190469,
+        "word": "王安宇安安公主",
+        "onboard_time": 1754630723,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273506,
+        "num": 190303,
+        "word": "双轨",
+        "onboard_time": 1754634682,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68477,
+        "num": 190191,
+        "word": "9名中国公民在菲律宾被违规抓扣",
+        "onboard_time": 1754635942,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246034,
+        "num": 190071,
+        "word": "唐香玉为上浪姐差点拒绝喜单2",
+        "onboard_time": 1754628564,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234739,
+        "num": 189844,
+        "word": "夏之光转发宣传黄俊捷新剧",
+        "onboard_time": 1754631142,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132843,
+        "num": 189738,
+        "word": "谢霆锋你背着我都干了什么",
+        "onboard_time": 1754635703,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100461,
+        "num": 189664,
+        "word": "晋江崩了",
+        "onboard_time": 1754635641,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211992,
+        "num": 189420,
+        "word": "妈妈让女儿辞职照顾自己补偿490万",
+        "onboard_time": 1754615181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189400,
+        "num": 189400,
+        "word": "考上北大护理学院骑手称不复读",
+        "onboard_time": 1754625203,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 189219,
+        "num": 189219,
+        "word": "不爱上学不爱上班结果在学校上班了",
+        "onboard_time": 1754636121,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187012,
+        "num": 187012,
+        "word": "具惠善发文喊话安宰贤",
+        "onboard_time": 1754617641,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186992,
+        "num": 186992,
+        "word": "李耕耘陈少熙居然被取关了",
+        "onboard_time": 1754635522,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183374,
+        "num": 183374,
+        "word": "宫脇咲良 KWDA投票",
+        "onboard_time": 1754623220,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182981,
+        "num": 182981,
+        "word": "00后变成了自己想要的那种老师",
+        "onboard_time": 1754635222,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174512,
+        "num": 174512,
+        "word": "红牛 王一博",
+        "onboard_time": 1754622863,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133977,
+        "num": 172626,
+        "word": "苏醒 一把年纪没必要这么花",
+        "onboard_time": 1754636182,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22987,
+        "num": 171244,
+        "word": "甘肃榆中暴雨3人失联仍未找到",
+        "onboard_time": 1754635942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171077,
+        "num": 171077,
+        "word": "过度提醒",
+        "onboard_time": 1754633962,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166034,
+        "num": 166034,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154649,
+        "num": 154649,
+        "word": "前妻称陶白白的生活单一且枯燥",
+        "onboard_time": 1754635402,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154597,
+        "num": 154597,
+        "word": "眼睛度数能不能恢复出厂设置",
+        "onboard_time": 1754630183,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112145,
+        "num": 152396,
+        "word": "12省区市大到暴雨",
+        "onboard_time": 1754631923,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151755,
+        "num": 151755,
+        "word": "徐艺洋要的不是照片是出片",
+        "onboard_time": 1754630903,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146666,
+        "num": 146666,
+        "word": "董明珠再回应玫瑰空调争议",
+        "onboard_time": 1754636060,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146431,
+        "num": 146431,
+        "word": "小佳辟谣脑瘫是因为爱喝酒",
+        "onboard_time": 1754635582,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78605,
+        "num": 126473,
+        "word": "冯德莱恩被当场打脸",
+        "onboard_time": 1754635402,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99490,
+        "num": 125718,
+        "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
+        "onboard_time": 1754626224,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125549,
+        "num": 125549,
+        "word": "艾热孜巴首次合体上婚综",
+        "onboard_time": 1754634862,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49365,
+        "num": 122938,
+        "word": "阿荡是吴磊的又一个人生角色",
+        "onboard_time": 1754635042,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122296,
+        "num": 122296,
+        "word": "苏新皓dancebreak太权威了",
+        "onboard_time": 1754636182,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120558,
+        "num": 120558,
+        "word": "张元英 樱桃园",
+        "onboard_time": 1754634441,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111974,
+        "num": 111974,
+        "word": "东极岛",
+        "onboard_time": 1754613742,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108837,
+        "num": 108837,
+        "word": "沈月原来是美男",
+        "onboard_time": 1754630662,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107460,
+        "num": 107460,
+        "word": "黄一鸣力挺赵露思",
+        "onboard_time": 1754629223,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99212,
+        "num": 106004,
+        "word": "恋与深空",
+        "onboard_time": 1754619321,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85873,
+        "num": 105548,
+        "word": "成都世运会首金诞生",
+        "onboard_time": 1754635763,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105372,
+        "num": 105372,
+        "word": "65岁三高老人被女婿爆改成腹肌大爷",
+        "onboard_time": 1754633662,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国的基础在群众体育#"
+    }
+  }
+}

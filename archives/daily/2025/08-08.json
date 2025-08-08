@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754635406114,
+  "endTime": 1754636315650,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -99,19 +99,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751429,
+      "num": 751429,
+      "word": "女子虐猫致4死或判3年",
+      "onboard_time": 1754633002,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 726635,
       "num": 232830,
       "word": "如厕被气枪误杀的农民工家属发声",
       "onboard_time": 1754617580,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 710427,
-      "num": 710427,
-      "word": "女子虐猫致4死或判3年",
-      "onboard_time": 1754633002,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273506,
+      "num": 194593,
+      "word": "双轨",
+      "onboard_time": 1754634682,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266391,
       "num": 266391,
       "word": "孙楠长成大姑娘了",
@@ -643,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194593,
-      "num": 194593,
-      "word": "双轨",
-      "onboard_time": 1754634682,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194141,
       "num": 194141,
       "word": "美高官不顾中情局反对公布机密文件",
@@ -665,6 +665,22 @@
       "onboard_time": 1754624782,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189219,
+      "num": 189219,
+      "word": "不爱上学不爱上班结果在学校上班了",
+      "onboard_time": 1754636121,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186992,
+      "num": 186992,
+      "word": "李耕耘陈少熙居然被取关了",
+      "onboard_time": 1754635522,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 186851,
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166034,
+      "num": 166034,
+      "word": "shanks",
+      "onboard_time": 1754635582,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164170,
       "num": 136346,
       "word": "李昀锐 古装适配度",
@@ -843,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154649,
+      "num": 154649,
+      "word": "前妻称陶白白的生活单一且枯燥",
+      "onboard_time": 1754635402,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 152084,
       "num": 152084,
       "word": "致所有热爱迈德漠斯的伙伴",
@@ -905,6 +937,22 @@
       "onboard_time": 1754614644,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146666,
+      "num": 146666,
+      "word": "董明珠再回应玫瑰空调争议",
+      "onboard_time": 1754636060,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146431,
+      "num": 146431,
+      "word": "小佳辟谣脑瘫是因为爱喝酒",
+      "onboard_time": 1754635582,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 145989,
@@ -1051,6 +1099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133977,
+      "num": 172626,
+      "word": "苏醒 一把年纪没必要这么花",
+      "onboard_time": 1754636182,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133737,
       "num": 161922,
       "word": "王小利我是美女我认了",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1754619680,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132843,
+      "num": 189738,
+      "word": "谢霆锋你背着我都干了什么",
+      "onboard_time": 1754635703,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 132531,
@@ -1139,6 +1203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122296,
+      "num": 122296,
+      "word": "苏新皓dancebreak太权威了",
+      "onboard_time": 1754636182,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "世运会七彩祥云烟花",
@@ -1208,6 +1280,14 @@
       "word": "男子醉驾致2死1伤被害人发声",
       "onboard_time": 1754624903,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112145,
+      "num": 306800,
+      "word": "12省区市大到暴雨",
+      "onboard_time": 1754631923,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -1323,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100461,
+      "num": 189664,
+      "word": "晋江崩了",
+      "onboard_time": 1754635641,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99563,
       "num": 99563,
       "word": "准老师vs资深老师",
@@ -1411,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85873,
+      "num": 105548,
+      "word": "成都世运会首金诞生",
+      "onboard_time": 1754635763,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84035,
       "num": 84035,
       "word": "王嘉尔超绝低颅顶",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1754578644,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 78605,
+      "num": 126473,
+      "word": "冯德莱恩被当场打脸",
+      "onboard_time": 1754635402,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78029,
@@ -1545,6 +1649,14 @@
       "onboard_time": 1754564424,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68477,
+      "num": 190191,
+      "word": "9名中国公民在菲律宾被违规抓扣",
+      "onboard_time": 1754635942,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68150,
@@ -1681,14 +1793,6 @@
       "onboard_time": 1754571324,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 50694,
-      "num": 306800,
-      "word": "12省区市大到暴雨",
-      "onboard_time": 1754631923,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50042,
@@ -1833,6 +1937,14 @@
       "onboard_time": 1754597894,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22987,
+      "num": 171244,
+      "word": "甘肃榆中暴雨3人失联仍未找到",
+      "onboard_time": 1754635942,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21151,
