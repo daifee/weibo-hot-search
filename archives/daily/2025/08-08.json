@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754627369429,
+  "endTime": 1754629441111,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -19,15 +19,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1962739,
-      "num": 504256,
+      "raw_hot": 2152958,
+      "num": 2152958,
       "word": "汪苏泷婉拒了王源提议",
       "onboard_time": 1754625443,
       "rank": 13,
       "category": "音乐"
     },
     {
-      "raw_hot": 1222994,
+      "raw_hot": 1873704,
+      "num": 323926,
+      "word": "鹿哈订婚",
+      "onboard_time": 1754626883,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1313504,
       "num": 832720,
       "word": "女高管出差遭老板性侵监控曝光",
       "onboard_time": 1754624483,
@@ -56,6 +64,14 @@
       "word": "湛江回应凌晨家长不在家孩子被抽血",
       "onboard_time": 1754577504,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 926391,
+      "num": 926391,
+      "word": "胖东来为有犯罪前科人员留20个岗位",
+      "onboard_time": 1754626764,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -105,6 +121,14 @@
       "onboard_time": 1754615181,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 614653,
+      "num": 614653,
+      "word": "考上北大护理学院骑手称不复读",
+      "onboard_time": 1754625203,
+      "rank": 15,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 605244,
@@ -179,12 +203,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 490929,
-      "num": 490929,
-      "word": "考上北大护理学院骑手称不复读",
-      "onboard_time": 1754625203,
-      "rank": 15,
-      "category": "民生新闻,教育"
+      "raw_hot": 494769,
+      "num": 494769,
+      "word": "官方回应刘晓庆被举报偷税",
+      "onboard_time": 1754623704,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469003,
@@ -201,6 +225,14 @@
       "onboard_time": 1754565322,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457093,
+      "num": 464628,
+      "word": "小学女生花光父母14万刷礼物后辍学",
+      "onboard_time": 1754625802,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421415,
@@ -233,14 +265,6 @@
       "onboard_time": 1754577085,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 386189,
-      "num": 456600,
-      "word": "官方回应刘晓庆被举报偷税",
-      "onboard_time": 1754623704,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 381803,
@@ -307,14 +331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 286867,
-      "num": 286867,
-      "word": "鹿哈订婚",
-      "onboard_time": 1754626883,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 284786,
       "num": 284786,
       "word": "不愧是娜扎这可是央视新闻啊",
@@ -347,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255699,
-      "num": 464628,
-      "word": "小学女生花光父母14万刷礼物后辍学",
-      "onboard_time": 1754625802,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 249867,
+      "num": 249867,
+      "word": "贾乃亮带甜馨去新加坡",
+      "onboard_time": 1754623342,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 240812,
@@ -361,6 +377,14 @@
       "onboard_time": 1754584581,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239516,
+      "num": 239516,
+      "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
+      "onboard_time": 1754626224,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 238773,
@@ -387,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229373,
-      "num": 217997,
-      "word": "贾乃亮带甜馨去新加坡",
-      "onboard_time": 1754623342,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 229772,
+      "num": 229772,
+      "word": "公主抱 祁煜",
+      "onboard_time": 1754627304,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 228711,
@@ -409,6 +433,14 @@
       "onboard_time": 1754580745,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217696,
+      "num": 217696,
+      "word": "李嫣19岁近照曝光",
+      "onboard_time": 1754626944,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 213202,
@@ -459,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206485,
+      "num": 206485,
+      "word": "全新问界M7路测同框宝马X5",
+      "onboard_time": 1754628264,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 205431,
       "num": 205431,
       "word": "金价",
@@ -467,12 +507,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 198945,
-      "num": 198945,
-      "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
-      "onboard_time": 1754626224,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 204922,
+      "num": 204922,
+      "word": "唐香玉为上浪姐差点拒绝喜单2",
+      "onboard_time": 1754628564,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201239,
+      "num": 242051,
+      "word": "歌手2025总决赛",
+      "onboard_time": 1754628445,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196109,
+      "num": 196109,
+      "word": "女子被误认为日本人后霸气回怼",
+      "onboard_time": 1754627904,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 195952,
@@ -515,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186851,
+      "num": 186851,
+      "word": "单依纯新歌有趣",
+      "onboard_time": 1754628683,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186473,
       "num": 186473,
       "word": "美国加州发现阿凡达色野猪肉",
@@ -529,14 +593,6 @@
       "onboard_time": 1754618182,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185552,
-      "num": 185552,
-      "word": "胖东来为有犯罪前科人员留20个岗位",
-      "onboard_time": 1754626764,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181516,
@@ -595,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157838,
+      "num": 157838,
+      "word": "张康乐晒猫",
+      "onboard_time": 1754629103,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157705,
       "num": 157705,
       "word": "日本或在原税率基础上被加15%关税",
@@ -611,20 +675,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156317,
-      "num": 156317,
-      "word": "李嫣19岁近照曝光",
-      "onboard_time": 1754626944,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155955,
       "num": 155955,
       "word": "GPT5来了",
       "onboard_time": 1754609480,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155479,
+      "num": 155479,
+      "word": "朱孝天情商",
+      "onboard_time": 1754628503,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152084,
+      "num": 152084,
+      "word": "致所有热爱迈德漠斯的伙伴",
+      "onboard_time": 1754629343,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 151778,
@@ -641,6 +713,14 @@
       "onboard_time": 1754622682,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149476,
+      "num": 149476,
+      "word": "重庆辟谣发了肖战",
+      "onboard_time": 1754627965,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 148274,
@@ -667,11 +747,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143983,
+      "num": 143983,
+      "word": "秦海璐一出场就知道稳了",
+      "onboard_time": 1754627904,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142695,
       "num": 142695,
       "word": "人均2000元合租拿下深圳独栋别墅",
       "onboard_time": 1754619981,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142284,
+      "num": 239755,
+      "word": "北京93岁老英雄坚持走路撤离",
+      "onboard_time": 1754628384,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -699,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140816,
+      "num": 140816,
+      "word": "微博云包场",
+      "onboard_time": 1754629223,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139262,
       "num": 139262,
       "word": "sakuya粉发",
@@ -707,12 +811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136468,
-      "num": 136468,
+      "raw_hot": 137617,
+      "num": 137617,
       "word": "普通人坚持运动七个月的变化",
       "onboard_time": 1754623822,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 135726,
+      "num": 135726,
+      "word": "黄一鸣力挺赵露思",
+      "onboard_time": 1754629223,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 135410,
@@ -729,6 +841,14 @@
       "onboard_time": 1754584401,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134089,
+      "num": 134089,
+      "word": "菠萝凉拌牛肉",
+      "onboard_time": 1754628024,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 133008,
@@ -801,14 +921,6 @@
       "onboard_time": 1754573243,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120381,
-      "num": 120381,
-      "word": "公主抱 祁煜",
-      "onboard_time": 1754627304,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 120165,
@@ -907,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107474,
+      "num": 293636,
+      "word": "洪涛这次不喝水了",
+      "onboard_time": 1754625924,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105899,
       "num": 105899,
       "word": "马库斯说要努力像中国人民一样勇敢",
@@ -1001,14 +1121,6 @@
       "onboard_time": 1754609359,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 90761,
-      "num": 293636,
-      "word": "洪涛这次不喝水了",
-      "onboard_time": 1754625924,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 89853,
@@ -1267,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55311,
+      "num": 147740,
+      "word": "尹锡悦强烈反抗被10人强制抬走",
+      "onboard_time": 1754629285,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53891,
       "num": 82155,
       "word": "利剑玫瑰豆瓣显示异常",
@@ -1315,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43872,
+      "num": 141708,
+      "word": "骑手门诊 外卖员快递员免费挂号",
+      "onboard_time": 1754629403,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42934,
       "num": 62235,
       "word": "张予曦苦练自拍又没出图",
@@ -1347,20 +1475,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34497,
+      "num": 392509,
+      "word": "赵丽颖秋天的第一份舒适",
+      "onboard_time": 1754624062,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33429,
       "num": 47134,
       "word": "辽宁一中学官方账号回复家长gun",
       "onboard_time": 1754608999,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33055,
-      "num": 392509,
-      "word": "赵丽颖秋天的第一份舒适",
-      "onboard_time": 1754624062,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32721,
@@ -1392,6 +1520,14 @@
       "word": "秋天第一杯奶茶凭啥年年火",
       "onboard_time": 1754592135,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24072,
+      "num": 770959,
+      "word": "中国队出场bgm是茉莉花",
+      "onboard_time": 1754628865,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1502,6 +1638,9 @@
   "hotgov_list": [
     {
       "word": "#习近平这样寄语改革创新#"
+    },
+    {
+      "word": "#今天是全民健身日#"
     }
   ]
 }

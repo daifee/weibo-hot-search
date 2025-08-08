@@ -1,0 +1,410 @@
+{
+  "runTime": 1754629441111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2152958,
+        "num": 2152958,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 926391,
+        "num": 926391,
+        "word": "胖东来为有犯罪前科人员留20个岗位",
+        "onboard_time": 1754626764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24072,
+        "num": 770959,
+        "word": "中国队出场bgm是茉莉花",
+        "onboard_time": 1754628865,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692025,
+        "num": 692025,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 614653,
+        "num": 614653,
+        "word": "考上北大护理学院骑手称不复读",
+        "onboard_time": 1754625203,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 494769,
+        "num": 494769,
+        "word": "官方回应刘晓庆被举报偷税",
+        "onboard_time": 1754623704,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457093,
+        "num": 457093,
+        "word": "小学女生花光父母14万刷礼物后辍学",
+        "onboard_time": 1754625802,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449455,
+        "num": 449455,
+        "word": "红牛 王一博",
+        "onboard_time": 1754622863,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350710,
+        "num": 350710,
+        "word": "网红刘大悦30岁才摆脱童年创伤",
+        "onboard_time": 1754622621,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 328287,
+        "num": 328287,
+        "word": "日本和印度强硬表态",
+        "onboard_time": 1754620701,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1873704,
+        "num": 323926,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1158142,
+        "num": 313928,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423603,
+        "num": 296681,
+        "word": "具惠善发文喊话安宰贤",
+        "onboard_time": 1754617641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268950,
+        "num": 268950,
+        "word": "Jennie 蝴蝶结",
+        "onboard_time": 1754624963,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262507,
+        "num": 262507,
+        "word": "恋与深空",
+        "onboard_time": 1754619321,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249867,
+        "num": 249867,
+        "word": "贾乃亮带甜馨去新加坡",
+        "onboard_time": 1754623342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201239,
+        "num": 242051,
+        "word": "歌手2025总决赛",
+        "onboard_time": 1754628445,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142284,
+        "num": 239755,
+        "word": "北京93岁老英雄坚持走路撤离",
+        "onboard_time": 1754628384,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107474,
+        "num": 239618,
+        "word": "洪涛这次不喝水了",
+        "onboard_time": 1754625924,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239516,
+        "num": 239516,
+        "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
+        "onboard_time": 1754626224,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413061,
+        "num": 239125,
+        "word": "妈妈让女儿辞职照顾自己补偿490万",
+        "onboard_time": 1754615181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235599,
+        "num": 235599,
+        "word": "刘浩存换回微商头像",
+        "onboard_time": 1754614942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229772,
+        "num": 229772,
+        "word": "公主抱 祁煜",
+        "onboard_time": 1754627304,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222492,
+        "num": 222492,
+        "word": "女子点100份三文鱼吃了吐吐了吃",
+        "onboard_time": 1754610200,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217696,
+        "num": 217696,
+        "word": "李嫣19岁近照曝光",
+        "onboard_time": 1754626944,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34497,
+        "num": 208908,
+        "word": "赵丽颖秋天的第一份舒适",
+        "onboard_time": 1754624062,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206485,
+        "num": 206485,
+        "word": "全新问界M7路测同框宝马X5",
+        "onboard_time": 1754628264,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204922,
+        "num": 204922,
+        "word": "唐香玉为上浪姐差点拒绝喜单2",
+        "onboard_time": 1754628564,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196795,
+        "num": 196795,
+        "word": "贝儿知道鲍蕾陆毅上婚综的反应",
+        "onboard_time": 1754622801,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196109,
+        "num": 196109,
+        "word": "女子被误认为日本人后霸气回怼",
+        "onboard_time": 1754627904,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1254853,
+        "num": 194343,
+        "word": "名创优品道歉",
+        "onboard_time": 1754622621,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186851,
+        "num": 186851,
+        "word": "单依纯新歌有趣",
+        "onboard_time": 1754628683,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164945,
+        "num": 164945,
+        "word": "男子为减肥送外卖35天瘦17斤",
+        "onboard_time": 1754625443,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157838,
+        "num": 157838,
+        "word": "张康乐晒猫",
+        "onboard_time": 1754629103,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155479,
+        "num": 155479,
+        "word": "朱孝天情商",
+        "onboard_time": 1754628503,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155046,
+        "num": 155046,
+        "word": "东极岛",
+        "onboard_time": 1754613742,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152084,
+        "num": 152084,
+        "word": "致所有热爱迈德漠斯的伙伴",
+        "onboard_time": 1754629343,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149476,
+        "num": 149476,
+        "word": "重庆辟谣发了肖战",
+        "onboard_time": 1754627965,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55311,
+        "num": 147740,
+        "word": "尹锡悦强烈反抗被10人强制抬走",
+        "onboard_time": 1754629285,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146214,
+        "num": 146214,
+        "word": "披荆斩棘",
+        "onboard_time": 1754619562,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143983,
+        "num": 143983,
+        "word": "秦海璐一出场就知道稳了",
+        "onboard_time": 1754627904,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1313504,
+        "num": 143644,
+        "word": "女高管出差遭老板性侵监控曝光",
+        "onboard_time": 1754624483,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43872,
+        "num": 141708,
+        "word": "骑手门诊 外卖员快递员免费挂号",
+        "onboard_time": 1754629403,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140816,
+        "num": 140816,
+        "word": "微博云包场",
+        "onboard_time": 1754629223,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143377,
+        "num": 140636,
+        "word": "内娱第一个水獭塑女主",
+        "onboard_time": 1754626043,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140177,
+        "num": 140177,
+        "word": "贷款200多万进中药赚了36元",
+        "onboard_time": 1754624183,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137617,
+        "num": 137617,
+        "word": "普通人坚持运动七个月的变化",
+        "onboard_time": 1754623822,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137313,
+        "num": 137313,
+        "word": "女子在景区摸马肚子被狠咬一口",
+        "onboard_time": 1754613203,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135726,
+        "num": 135726,
+        "word": "黄一鸣力挺赵露思",
+        "onboard_time": 1754629223,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "菠萝凉拌牛肉",
+        "onboard_time": 1754628024,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天是全民健身日#"
+    }
+  }
+}
