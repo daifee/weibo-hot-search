@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754660690756,
+  "endTime": 1754661412148,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3521151,
+      "num": 3521151,
+      "word": "歌手排名",
+      "onboard_time": 1754057364,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3471460,
       "num": 2478542,
       "word": "731定档",
@@ -257,14 +265,6 @@
       "onboard_time": 1754062284,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2673156,
-      "num": 412811,
-      "word": "歌手排名",
-      "onboard_time": 1754057364,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 2658290,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 2190723,
-      "num": 396137,
+      "num": 399552,
       "word": "陈楚生第一轮第三",
       "onboard_time": 1754659585,
       "rank": 7,
@@ -1403,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1069620,
+      "num": 371763,
+      "word": "因鸡蛋崩溃掀桌女子发声",
+      "onboard_time": 1754657124,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1057657,
       "num": 944393,
       "word": "张予曦 卢昱晓对不起",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1754387664,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 970749,
+      "num": 359186,
+      "word": "Beni能不能去浪姐",
+      "onboard_time": 1754660125,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 970396,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1754029342,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 863494,
-      "num": 371763,
-      "word": "因鸡蛋崩溃掀桌女子发声",
-      "onboard_time": 1754657124,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 862925,
@@ -2436,7 +2444,7 @@
     },
     {
       "raw_hot": 732403,
-      "num": 310538,
+      "num": 350606,
       "word": "刘惜君明年首发吧",
       "onboard_time": 1754658086,
       "rank": 20,
@@ -2723,14 +2731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 683520,
-      "num": 307373,
-      "word": "Beni能不能去浪姐",
-      "onboard_time": 1754660125,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 681971,
       "num": 681971,
       "word": "不是所有女生喝奶茶都需要很久",
@@ -2996,7 +2996,7 @@
     },
     {
       "raw_hot": 634496,
-      "num": 634496,
+      "num": 959827,
       "word": "公办民办幼儿园均可享受免保教费",
       "onboard_time": 1754534600,
       "rank": 7,
@@ -4003,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 518561,
+      "num": 518561,
+      "word": "孙颖莎vs朱芊曦",
+      "onboard_time": 1754659585,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 518279,
       "num": 518279,
       "word": "江苏首富之子拟任400亿市值公司董事",
@@ -4729,6 +4737,14 @@
       "onboard_time": 1754092460,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 432946,
+      "num": 223018,
+      "word": "东极岛",
+      "onboard_time": 1754613742,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 432635,
@@ -5595,14 +5611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362597,
-      "num": 217285,
-      "word": "东极岛",
-      "onboard_time": 1754613742,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 362440,
       "num": 362440,
       "word": "生娃能领7笔钱",
@@ -5849,6 +5857,14 @@
       "onboard_time": 1754192004,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340430,
+      "num": 340430,
+      "word": "24小时退房制为啥不能成统一标准",
+      "onboard_time": 1754658086,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 340298,
@@ -6145,14 +6161,6 @@
       "onboard_time": 1754286083,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327631,
-      "num": 327631,
-      "word": "孙颖莎vs朱芊曦",
-      "onboard_time": 1754659585,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 326998,
@@ -7129,14 +7137,6 @@
       "onboard_time": 1754444300,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 273303,
-      "num": 273303,
-      "word": "24小时退房制为啥不能成统一标准",
-      "onboard_time": 1754658086,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 273136,
@@ -9772,7 +9772,7 @@
     },
     {
       "raw_hot": 203675,
-      "num": 203675,
+      "num": 205029,
       "word": "冯建宇直播",
       "onboard_time": 1754656943,
       "rank": 30,
@@ -9937,6 +9937,14 @@
       "onboard_time": 1754630903,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201538,
+      "num": 325492,
+      "word": "中方对以色列有关决定严重关切",
+      "onboard_time": 1754659405,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201523,
@@ -10657,6 +10665,14 @@
       "onboard_time": 1754317107,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192829,
+      "num": 192829,
+      "word": "疑因孩子顶座乘客飞机上发生冲突",
+      "onboard_time": 1754660125,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192801,
@@ -12523,6 +12539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169853,
+      "num": 169853,
+      "word": "张远在披荆斩棘撑伞",
+      "onboard_time": 1754660485,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169731,
       "num": 156027,
       "word": "侯明昊脸上贴了30颗碎钻",
@@ -13539,12 +13563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159758,
-      "num": 325492,
-      "word": "中方对以色列有关决定严重关切",
-      "onboard_time": 1754659405,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 159668,
+      "num": 159668,
+      "word": "黄奕直播",
+      "onboard_time": 1754661144,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 159468,
@@ -17163,6 +17187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133801,
+      "num": 133801,
+      "word": "美国悬赏5000万美元抓捕马杜罗",
+      "onboard_time": 1754659766,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133737,
       "num": 161922,
       "word": "王小利我是美女我认了",
@@ -17320,14 +17352,6 @@
       "word": "05后女生上岸985跑9.85公里庆祝",
       "onboard_time": 1754619680,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133005,
-      "num": 133005,
-      "word": "疑因孩子顶座乘客飞机上发生冲突",
-      "onboard_time": 1754660125,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -18683,6 +18707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124926,
+      "num": 278573,
+      "word": "单依纯眼妆好闪",
+      "onboard_time": 1754660184,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124874,
       "num": 124874,
       "word": "陈幸同发博为王一博庆生",
@@ -18907,6 +18939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123528,
+      "num": 123528,
+      "word": "金价又创盘中历史新高",
+      "onboard_time": 1754658326,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123524,
       "num": 123524,
       "word": "日本遭袭后第一反应是封锁消息",
@@ -19081,6 +19121,14 @@
       "onboard_time": 1754124622,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122577,
+      "num": 278968,
+      "word": "人民日报评阮院士身份造假",
+      "onboard_time": 1754659884,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 122549,
@@ -19337,6 +19385,14 @@
       "onboard_time": 1754277443,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121057,
+      "num": 121057,
+      "word": "东极岛第一视角感受巨轮沉没",
+      "onboard_time": 1754661205,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 121015,
@@ -20057,14 +20113,6 @@
       "onboard_time": 1754032042,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116499,
-      "num": 116499,
-      "word": "张远在披荆斩棘撑伞",
-      "onboard_time": 1754660485,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 116497,
@@ -22147,14 +22195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98742,
-      "num": 278968,
-      "word": "人民日报评阮院士身份造假",
-      "onboard_time": 1754659884,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 98730,
       "num": 98730,
       "word": "男女主还没亲上先红温了",
@@ -23641,14 +23681,6 @@
       "onboard_time": 1753978583,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83317,
-      "num": 278573,
-      "word": "单依纯眼妆好闪",
-      "onboard_time": 1754660184,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 83104,
@@ -26163,6 +26195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40495,
+      "num": 231548,
+      "word": "白幼瘦体现的是审美的格式化倾向",
+      "onboard_time": 1754661086,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40105,
       "num": 149836,
       "word": "别克至境L7",
@@ -27441,6 +27481,14 @@
       "onboard_time": 1754597774,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15487,
+      "num": 370585,
+      "word": "成都世运会焰火多机位纯享版",
+      "onboard_time": 1754660964,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 15404,
