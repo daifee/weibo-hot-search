@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754629441111,
+  "endTime": 1754631327224,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -27,7 +27,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1873704,
+      "raw_hot": 1934959,
       "num": 323926,
       "word": "鹿哈订婚",
       "onboard_time": 1754626883,
@@ -40,6 +40,14 @@
       "word": "女高管出差遭老板性侵监控曝光",
       "onboard_time": 1754624483,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1024663,
+      "num": 1024663,
+      "word": "胖东来为有犯罪前科人员留20个岗位",
+      "onboard_time": 1754626764,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -64,14 +72,6 @@
       "word": "湛江回应凌晨家长不在家孩子被抽血",
       "onboard_time": 1754577504,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 926391,
-      "num": 926391,
-      "word": "胖东来为有犯罪前科人员留20个岗位",
-      "onboard_time": 1754626764,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1754622863,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595539,
+      "num": 595539,
+      "word": "小学女生花光父母14万刷礼物后辍学",
+      "onboard_time": 1754625802,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 594947,
@@ -227,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457093,
-      "num": 464628,
-      "word": "小学女生花光父母14万刷礼物后辍学",
-      "onboard_time": 1754625802,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 445475,
+      "num": 445475,
+      "word": "女子被误认为日本人后霸气回怼",
+      "onboard_time": 1754627904,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 421415,
@@ -299,8 +307,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304009,
-      "num": 304009,
+      "raw_hot": 308954,
+      "num": 308954,
+      "word": "唐香玉为上浪姐差点拒绝喜单2",
+      "onboard_time": 1754628564,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304774,
+      "num": 304774,
       "word": "Jennie 蝴蝶结",
       "onboard_time": 1754624963,
       "rank": 25,
@@ -355,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272446,
+      "num": 272446,
+      "word": "人社局回应胖东来招聘服刑人员",
+      "onboard_time": 1754630422,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266391,
       "num": 266391,
       "word": "孙楠长成大姑娘了",
       "onboard_time": 1754578524,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258132,
+      "num": 258132,
+      "word": "握手 摸玉足",
+      "onboard_time": 1754629823,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 249867,
@@ -432,6 +464,14 @@
       "word": "员工加班近160小时被公司通报表扬",
       "onboard_time": 1754580745,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225653,
+      "num": 225653,
+      "word": "男子为减肥送外卖35天瘦17斤",
+      "onboard_time": 1754625443,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -507,28 +547,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 204922,
-      "num": 204922,
-      "word": "唐香玉为上浪姐差点拒绝喜单2",
-      "onboard_time": 1754628564,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201239,
       "num": 242051,
       "word": "歌手2025总决赛",
       "onboard_time": 1754628445,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196109,
-      "num": 196109,
-      "word": "女子被误认为日本人后霸气回怼",
-      "onboard_time": 1754627904,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 195952,
@@ -561,14 +585,6 @@
       "onboard_time": 1754624782,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190383,
-      "num": 190383,
-      "word": "男子为减肥送外卖35天瘦17斤",
-      "onboard_time": 1754625443,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186851,
@@ -627,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170195,
+      "num": 170195,
+      "word": "王安宇安安公主",
+      "onboard_time": 1754630723,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168368,
       "num": 161131,
       "word": "王源爷爷奶奶去看了重庆演唱会",
@@ -649,6 +673,38 @@
       "onboard_time": 1754620521,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162803,
+      "num": 162803,
+      "word": "李承铉剃头之后每天可以多睡30分钟了",
+      "onboard_time": 1754630243,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161793,
+      "num": 161793,
+      "word": "徐艺洋要的不是照片是出片",
+      "onboard_time": 1754630903,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161558,
+      "num": 159495,
+      "word": "夏之光转发宣传黄俊捷新剧",
+      "onboard_time": 1754631142,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160631,
+      "num": 160631,
+      "word": "龙族百岁老头一身反骨",
+      "onboard_time": 1754630362,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 157838,
@@ -683,10 +739,26 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155893,
+      "num": 155893,
+      "word": "子夜归真的动了",
+      "onboard_time": 1754630302,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155479,
       "num": 155479,
       "word": "朱孝天情商",
       "onboard_time": 1754628503,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154750,
+      "num": 154750,
+      "word": "沈月原来是美男",
+      "onboard_time": 1754630662,
       "rank": 34,
       "category": "艺人"
     },
@@ -713,6 +785,14 @@
       "onboard_time": 1754622682,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150990,
+      "num": 150990,
+      "word": "黄一鸣力挺赵露思",
+      "onboard_time": 1754629223,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 149476,
@@ -745,6 +825,30 @@
       "onboard_time": 1754614644,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146441,
+      "num": 146441,
+      "word": "胖东来新店招1千人200个给退伍军人",
+      "onboard_time": 1754630544,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145989,
+      "num": 145989,
+      "word": "刘骏也是好起来了",
+      "onboard_time": 1754630422,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144680,
+      "num": 144680,
+      "word": "全员加速中",
+      "onboard_time": 1754630544,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 143983,
@@ -819,14 +923,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 135726,
-      "num": 135726,
-      "word": "黄一鸣力挺赵露思",
-      "onboard_time": 1754629223,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135410,
       "num": 135410,
       "word": "tws",
@@ -849,6 +945,14 @@
       "onboard_time": 1754628024,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133737,
+      "num": 161922,
+      "word": "王小利我是美女我认了",
+      "onboard_time": 1754629883,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 133008,
@@ -899,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124958,
+      "num": 124958,
+      "word": "秋天第一杯奶茶 秋天第一场失眠",
+      "onboard_time": 1754629643,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124396,
       "num": 124396,
       "word": "台风杨柳",
@@ -947,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116558,
+      "num": 116558,
+      "word": "孙颖莎樱桃小丸子既视感",
+      "onboard_time": 1754630003,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115076,
       "num": 115076,
       "word": "孙千马甲线好明显",
@@ -969,6 +1089,14 @@
       "onboard_time": 1754624903,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112886,
+      "num": 112886,
+      "word": "刘昊然骨相",
+      "onboard_time": 1754631264,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 111564,
@@ -1195,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78647,
+      "num": 770959,
+      "word": "中国队出场bgm是茉莉花",
+      "onboard_time": 1754628865,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78029,
       "num": 78029,
       "word": "陈楚生被粉丝做局了",
@@ -1419,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48210,
+      "num": 304448,
+      "word": "外交部回应菲律宾涉台言论",
+      "onboard_time": 1754628324,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45994,
       "num": 298154,
       "word": "这一季的酸酸甜甜都在这了",
@@ -1520,14 +1664,6 @@
       "word": "秋天第一杯奶茶凭啥年年火",
       "onboard_time": 1754592135,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24072,
-      "num": 770959,
-      "word": "中国队出场bgm是茉莉花",
-      "onboard_time": 1754628865,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

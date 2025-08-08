@@ -1,0 +1,410 @@
+{
+  "runTime": 1754631327224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200476,
+        "num": 1200476,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1024663,
+        "num": 1024663,
+        "word": "胖东来为有犯罪前科人员留20个岗位",
+        "onboard_time": 1754626764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78647,
+        "num": 667323,
+        "word": "中国队出场bgm是茉莉花",
+        "onboard_time": 1754628865,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595539,
+        "num": 595539,
+        "word": "小学女生花光父母14万刷礼物后辍学",
+        "onboard_time": 1754625802,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445475,
+        "num": 445475,
+        "word": "女子被误认为日本人后霸气回怼",
+        "onboard_time": 1754627904,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 428815,
+        "num": 428815,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413966,
+        "num": 413966,
+        "word": "考上北大护理学院骑手称不复读",
+        "onboard_time": 1754625203,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 308954,
+        "num": 308954,
+        "word": "唐香玉为上浪姐差点拒绝喜单2",
+        "onboard_time": 1754628564,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304774,
+        "num": 304774,
+        "word": "Jennie 蝴蝶结",
+        "onboard_time": 1754624963,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48210,
+        "num": 304448,
+        "word": "外交部回应菲律宾涉台言论",
+        "onboard_time": 1754628324,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1934959,
+        "num": 299252,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 797063,
+        "num": 296496,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337880,
+        "num": 291896,
+        "word": "具惠善发文喊话安宰贤",
+        "onboard_time": 1754617641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290277,
+        "num": 290277,
+        "word": "红牛 王一博",
+        "onboard_time": 1754622863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272446,
+        "num": 272446,
+        "word": "人社局回应胖东来招聘服刑人员",
+        "onboard_time": 1754630422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271752,
+        "num": 271752,
+        "word": "官方回应刘晓庆被举报偷税",
+        "onboard_time": 1754623704,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258132,
+        "num": 258132,
+        "word": "握手 摸玉足",
+        "onboard_time": 1754629823,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225653,
+        "num": 225653,
+        "word": "男子为减肥送外卖35天瘦17斤",
+        "onboard_time": 1754625443,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222860,
+        "num": 222860,
+        "word": "网红刘大悦30岁才摆脱童年创伤",
+        "onboard_time": 1754622621,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 220714,
+        "num": 220714,
+        "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
+        "onboard_time": 1754626224,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317094,
+        "num": 217102,
+        "word": "妈妈让女儿辞职照顾自己补偿490万",
+        "onboard_time": 1754615181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213265,
+        "num": 213265,
+        "word": "日本和印度强硬表态",
+        "onboard_time": 1754620701,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207998,
+        "num": 207998,
+        "word": "贾乃亮带甜馨去新加坡",
+        "onboard_time": 1754623342,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196435,
+        "num": 196435,
+        "word": "刘浩存换回微商头像",
+        "onboard_time": 1754614942,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184394,
+        "num": 184394,
+        "word": "女子点100份三文鱼吃了吐吐了吃",
+        "onboard_time": 1754610200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174915,
+        "num": 174915,
+        "word": "李嫣19岁近照曝光",
+        "onboard_time": 1754626944,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170195,
+        "num": 170195,
+        "word": "王安宇安安公主",
+        "onboard_time": 1754630723,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169835,
+        "num": 169835,
+        "word": "恋与深空",
+        "onboard_time": 1754619321,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162803,
+        "num": 162803,
+        "word": "李承铉剃头之后每天可以多睡30分钟了",
+        "onboard_time": 1754630243,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133737,
+        "num": 161922,
+        "word": "王小利我是美女我认了",
+        "onboard_time": 1754629883,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161793,
+        "num": 161793,
+        "word": "徐艺洋要的不是照片是出片",
+        "onboard_time": 1754630903,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160631,
+        "num": 160631,
+        "word": "龙族百岁老头一身反骨",
+        "onboard_time": 1754630362,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161558,
+        "num": 159495,
+        "word": "夏之光转发宣传黄俊捷新剧",
+        "onboard_time": 1754631142,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155893,
+        "num": 155893,
+        "word": "子夜归真的动了",
+        "onboard_time": 1754630302,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154750,
+        "num": 154750,
+        "word": "沈月原来是美男",
+        "onboard_time": 1754630662,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146327,
+        "num": 151983,
+        "word": "贝儿知道鲍蕾陆毅上婚综的反应",
+        "onboard_time": 1754622801,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150990,
+        "num": 150990,
+        "word": "黄一鸣力挺赵露思",
+        "onboard_time": 1754629223,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141859,
+        "num": 147423,
+        "word": "公主抱 祁煜",
+        "onboard_time": 1754627304,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146441,
+        "num": 146441,
+        "word": "胖东来新店招1千人200个给退伍军人",
+        "onboard_time": 1754630544,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145989,
+        "num": 145989,
+        "word": "刘骏也是好起来了",
+        "onboard_time": 1754630422,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144680,
+        "num": 144680,
+        "word": "全员加速中",
+        "onboard_time": 1754630544,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133483,
+        "num": 133483,
+        "word": "披荆斩棘",
+        "onboard_time": 1754619562,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132296,
+        "num": 132296,
+        "word": "朱孝天情商",
+        "onboard_time": 1754628503,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125173,
+        "num": 125173,
+        "word": "单依纯新歌有趣",
+        "onboard_time": 1754628683,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124958,
+        "num": 124958,
+        "word": "秋天第一杯奶茶 秋天第一场失眠",
+        "onboard_time": 1754629643,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124829,
+        "num": 124829,
+        "word": "东极岛",
+        "onboard_time": 1754613742,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119121,
+        "num": 119121,
+        "word": "全新问界M7路测同框宝马X5",
+        "onboard_time": 1754628264,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116558,
+        "num": 116558,
+        "word": "孙颖莎樱桃小丸子既视感",
+        "onboard_time": 1754630003,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112886,
+        "num": 112886,
+        "word": "刘昊然骨相",
+        "onboard_time": 1754631264,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111058,
+        "num": 111058,
+        "word": "张康乐晒猫",
+        "onboard_time": 1754629103,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天是全民健身日#"
+    }
+  }
+}
