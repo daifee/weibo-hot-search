@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754695613495,
+  "endTime": 1754696489990,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -3956,7 +3956,7 @@
     },
     {
       "raw_hot": 406920,
-      "num": 180945,
+      "num": 194939,
       "word": "耳帝",
       "onboard_time": 1754669603,
       "rank": 22,
@@ -4331,6 +4331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 379142,
+      "num": 204709,
+      "word": "只穿裙子是导演对邱莹莹最大的偏见",
+      "onboard_time": 1754688914,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379118,
       "num": 250888,
       "word": "易烊千玺好美",
@@ -4491,6 +4499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360981,
+      "num": 360981,
+      "word": "刘晓庆已被举报人起诉",
+      "onboard_time": 1754672059,
+      "rank": 30,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 360561,
       "num": 231336,
       "word": "王安宇安安公主",
@@ -4627,28 +4643,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345422,
-      "num": 202685,
-      "word": "只穿裙子是导演对邱莹莹最大的偏见",
-      "onboard_time": 1754688914,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 344162,
       "num": 315099,
       "word": "恋人剧组",
       "onboard_time": 1754144429,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343697,
-      "num": 343697,
-      "word": "刘晓庆已被举报人起诉",
-      "onboard_time": 1754672059,
-      "rank": 30,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 342829,
@@ -5353,6 +5353,14 @@
       "onboard_time": 1754546183,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 289800,
+      "num": 204400,
+      "word": "单依纯哭了",
+      "onboard_time": 1754695458,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 289038,
@@ -8923,6 +8931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177751,
+      "num": 177751,
+      "word": "歌手",
+      "onboard_time": 1754695098,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177595,
       "num": 177595,
       "word": "才知道朋友圈可存多个定位",
@@ -11627,14 +11643,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 143581,
-      "num": 143581,
-      "word": "歌手",
-      "onboard_time": 1754695098,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143477,
       "num": 143477,
       "word": "电竞选手街溜子体验",
@@ -11827,6 +11835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141998,
+      "num": 141998,
+      "word": "重庆钓鱼博主谈二娃不幸溺亡",
+      "onboard_time": 1754667327,
+      "rank": 45,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 141988,
       "num": 141988,
       "word": "女主一声夫君男主上头了",
@@ -11937,14 +11953,6 @@
       "onboard_time": 1754556743,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141439,
-      "num": 141439,
-      "word": "重庆钓鱼博主谈二娃不幸溺亡",
-      "onboard_time": 1754667327,
-      "rank": 45,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 141329,
@@ -17852,7 +17860,7 @@
     },
     {
       "raw_hot": 85219,
-      "num": 85219,
+      "num": 204204,
       "word": "国防部提到南京照相馆和东极岛",
       "onboard_time": 1754663305,
       "rank": 49,
@@ -18187,6 +18195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79502,
+      "num": 79502,
+      "word": "AL扣除Shanks工资",
+      "onboard_time": 1754695277,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79439,
       "num": 79439,
       "word": "深铁向万科提供不超过16.81亿元借款",
@@ -18305,6 +18321,14 @@
       "onboard_time": 1754301323,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 77653,
+      "num": 77653,
+      "word": "电脑卡可能是因为WPS",
+      "onboard_time": 1754680215,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 77579,
@@ -18451,20 +18475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74236,
+      "num": 95116,
+      "word": "心跳1分钟多少次最健康",
+      "onboard_time": 1754672360,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74176,
       "num": 80523,
       "word": "150w人围观的刷牙不吐泡沫教程",
       "onboard_time": 1754153062,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74150,
-      "num": 95116,
-      "word": "心跳1分钟多少次最健康",
-      "onboard_time": 1754672360,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74035,
@@ -18915,14 +18939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64847,
-      "num": 64847,
-      "word": "电脑卡可能是因为WPS",
-      "onboard_time": 1754680215,
-      "rank": 36,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 64774,
       "num": 140067,
       "word": "建议10岁存养老钱的专家别建议了",
@@ -19057,6 +19073,14 @@
       "onboard_time": 1754581881,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61329,
+      "num": 203695,
+      "word": "特朗普称将与普京会晤",
+      "onboard_time": 1754695397,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61175,
@@ -19395,14 +19419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 54390,
-      "num": 62579,
-      "word": "特朗普称将与普京会晤",
-      "onboard_time": 1754695397,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54030,
       "num": 54030,
       "word": "小猫不许进卧室",
@@ -19609,14 +19625,6 @@
       "onboard_time": 1754661745,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50342,
-      "num": 50342,
-      "word": "单依纯哭了",
-      "onboard_time": 1754695458,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 50326,
@@ -19867,6 +19875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45309,
+      "num": 45309,
+      "word": "直击甘肃榆中山洪灾害救援",
+      "onboard_time": 1754695277,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45213,
       "num": 144667,
       "word": "方时赫道歉信",
@@ -20003,14 +20019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41125,
-      "num": 41125,
-      "word": "直击甘肃榆中山洪灾害救援",
-      "onboard_time": 1754695277,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41116,
       "num": 314342,
       "word": "全球首个机器人消费节",
@@ -20144,6 +20152,14 @@
       "word": "男子商场抢金饰20分钟被抓",
       "onboard_time": 1754560943,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38035,
+      "num": 43129,
+      "word": "甘肃省级文保单位兴隆山卧桥被冲毁",
+      "onboard_time": 1754696238,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -20473,6 +20489,14 @@
       "onboard_time": 1754176158,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 32042,
+      "num": 178020,
+      "word": "俄称俄美元首将讨论乌长期和平方案",
+      "onboard_time": 1754695397,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31107,
@@ -21017,14 +21041,6 @@
       "onboard_time": 1754392883,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19008,
-      "num": 62270,
-      "word": "俄称俄美元首将讨论乌长期和平方案",
-      "onboard_time": 1754695397,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19004,
