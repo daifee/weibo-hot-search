@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754636315650,
+  "endTime": 1754638339289,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -729,6 +729,14 @@
       "onboard_time": 1754276662,
       "rank": 1,
       "category": "艺人,海外新闻"
+    },
+    {
+      "raw_hot": 1296764,
+      "num": 751429,
+      "word": "女子虐猫致4死或判3年",
+      "onboard_time": 1754633002,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1295338,
@@ -1611,14 +1619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 751429,
-      "num": 751429,
-      "word": "女子虐猫致4死或判3年",
-      "onboard_time": 1754633002,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 748805,
       "num": 748805,
       "word": "银行职员夫妻回应下班偷偷送外卖",
@@ -1793,6 +1793,14 @@
       "onboard_time": 1754230286,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697502,
+      "num": 697502,
+      "word": "双轨",
+      "onboard_time": 1754634682,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 697213,
@@ -2851,6 +2859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517213,
+      "num": 199434,
+      "word": "过度提醒",
+      "onboard_time": 1754633962,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 516102,
       "num": 434976,
       "word": "歌手帮唱",
@@ -3379,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431637,
+      "num": 431637,
+      "word": "胖东来新店招1千人200个给退伍军人",
+      "onboard_time": 1754630544,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429070,
       "num": 429070,
       "word": "李一桐晒立秋第一束奶茶花",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1754546482,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420901,
+      "num": 199177,
+      "word": "shanks",
+      "onboard_time": 1754635582,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 418108,
@@ -4121,14 +4153,6 @@
       "onboard_time": 1754232685,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 341901,
-      "num": 341901,
-      "word": "胖东来新店招1千人200个给退伍军人",
-      "onboard_time": 1754630544,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341176,
@@ -4987,14 +5011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 273506,
-      "num": 194593,
-      "word": "双轨",
-      "onboard_time": 1754634682,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273321,
       "num": 273321,
       "word": "特斯拉欧洲销量崩了",
@@ -5195,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259801,
+      "num": 198677,
+      "word": "李耕耘陈少熙居然被取关了",
+      "onboard_time": 1754635522,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259682,
       "num": 452676,
       "word": "男子遇蛇大叫把蛇吓到原路返回",
@@ -5273,6 +5297,14 @@
       "onboard_time": 1754202503,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257772,
+      "num": 198100,
+      "word": "不爱上学不爱上班结果在学校上班了",
+      "onboard_time": 1754636121,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 257646,
@@ -5409,6 +5441,14 @@
       "onboard_time": 1754440403,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251981,
+      "num": 251981,
+      "word": "董明珠再回应玫瑰空调争议",
+      "onboard_time": 1754636060,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251925,
@@ -5731,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233222,
+      "num": 197733,
+      "word": "谢霆锋你背着我都干了什么",
+      "onboard_time": 1754635703,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233185,
       "num": 233185,
       "word": "人民日报专访浪浪山小妖怪主创",
@@ -5944,6 +5992,14 @@
       "word": "TFBOYS没发照片",
       "onboard_time": 1754453003,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225029,
+      "num": 197595,
+      "word": "内娱一人奶一公司的五大菩萨",
+      "onboard_time": 1754637802,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -6779,6 +6835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 200983,
+      "num": 197212,
+      "word": "肖战一段戏演出好几层意思",
+      "onboard_time": 1754637442,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200963,
       "num": 200963,
       "word": "官方通报休闲船起火致1死4伤",
@@ -6801,6 +6865,14 @@
       "onboard_time": 1754452222,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200319,
+      "num": 200319,
+      "word": "9名中国公民在菲律宾被违规抓扣",
+      "onboard_time": 1754635942,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200312,
@@ -6937,6 +7009,14 @@
       "onboard_time": 1754577445,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197001,
+      "num": 197001,
+      "word": "一句我是齐天大圣所有人泪崩了",
+      "onboard_time": 1754637922,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 196969,
@@ -7363,6 +7443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190064,
+      "num": 182021,
+      "word": "前妻称陶白白的生活单一且枯燥",
+      "onboard_time": 1754635402,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 190018,
       "num": 190018,
       "word": "宋佳上城士妆造必有高人指点",
@@ -7403,14 +7491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189219,
-      "num": 189219,
-      "word": "不爱上学不爱上班结果在学校上班了",
-      "onboard_time": 1754636121,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189173,
       "num": 214515,
       "word": "吴艳妮女子100米栏全国冠军",
@@ -7424,6 +7504,14 @@
       "word": "王一博从17岁到28岁",
       "onboard_time": 1754361381,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188887,
+      "num": 188887,
+      "word": "张元英宫脇咲良再现七年前名次",
+      "onboard_time": 1754636963,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -7505,14 +7593,6 @@
       "onboard_time": 1754275462,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 186992,
-      "num": 186992,
-      "word": "李耕耘陈少熙居然被取关了",
-      "onboard_time": 1754635522,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 186851,
@@ -8067,6 +8147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176829,
+      "num": 168308,
+      "word": "孙俪没档期 邓超会戴假发去当替身",
+      "onboard_time": 1754638161,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176711,
       "num": 176711,
       "word": "张艺兴喊俺老孙在此",
@@ -8289,14 +8377,6 @@
       "onboard_time": 1754205444,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173083,
-      "num": 173083,
-      "word": "过度提醒",
-      "onboard_time": 1754633962,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 172974,
@@ -8539,6 +8619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169527,
+      "num": 169527,
+      "word": "你的降临今日开播",
+      "onboard_time": 1754636963,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169491,
       "num": 208167,
       "word": "一女被四男追有多刺激",
@@ -8755,14 +8843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166034,
-      "num": 166034,
-      "word": "shanks",
-      "onboard_time": 1754635582,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 165824,
       "num": 248940,
       "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
@@ -8969,6 +9049,14 @@
       "onboard_time": 1754282306,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162244,
+      "num": 172626,
+      "word": "苏醒 一把年纪没必要这么花",
+      "onboard_time": 1754636182,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 162183,
@@ -9499,14 +9587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154649,
-      "num": 154649,
-      "word": "前妻称陶白白的生活单一且枯燥",
-      "onboard_time": 1754635402,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 154518,
       "num": 154518,
       "word": "鹿晗用摄像机看清每一个粉丝",
@@ -9755,6 +9835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151870,
+      "num": 168417,
+      "word": "拉萨市委书记称领导就要敢得罪人",
+      "onboard_time": 1754637622,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151778,
       "num": 151778,
       "word": "猫咖老板将挖出小猫遗体取证",
@@ -9763,11 +9851,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151774,
+      "num": 151774,
+      "word": "2025编外人员",
+      "onboard_time": 1754637563,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151631,
       "num": 151631,
       "word": "王天辰报平安",
       "onboard_time": 1754570363,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151616,
+      "num": 151616,
+      "word": "周冬雨的脸上撒了金粉",
+      "onboard_time": 1754636723,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -10185,14 +10289,6 @@
       "onboard_time": 1754281886,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 146666,
-      "num": 146666,
-      "word": "董明珠再回应玫瑰空调争议",
-      "onboard_time": 1754636060,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146594,
@@ -11195,6 +11291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137397,
+      "num": 137397,
+      "word": "这就是三无明星被捧红的感觉吗",
+      "onboard_time": 1754637922,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137313,
       "num": 170714,
       "word": "哈登与遭枪击留学生重逢",
@@ -11571,14 +11675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133977,
-      "num": 172626,
-      "word": "苏醒 一把年纪没必要这么花",
-      "onboard_time": 1754636182,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133912,
       "num": 133912,
       "word": "管乐真收拾了",
@@ -11713,14 +11809,6 @@
       "onboard_time": 1754619680,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132843,
-      "num": 189738,
-      "word": "谢霆锋你背着我都干了什么",
-      "onboard_time": 1754635703,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 132531,
@@ -12017,6 +12105,14 @@
       "onboard_time": 1754225605,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129580,
+      "num": 189664,
+      "word": "晋江崩了",
+      "onboard_time": 1754635641,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 129564,
@@ -12587,6 +12683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125707,
+      "num": 125707,
+      "word": "人再笨还能学不会微积分吗",
+      "onboard_time": 1754638042,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "赵露思说知道仅在社交平台发声无用",
@@ -12937,6 +13041,14 @@
       "onboard_time": 1754485763,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122323,
+      "num": 140015,
+      "word": "女子遭老板性侵隔壁房客录下证据",
+      "onboard_time": 1754637382,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122300,
@@ -13779,6 +13891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114365,
+      "num": 114365,
+      "word": "披荆斩棘2025开播",
+      "onboard_time": 1754636843,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114208,
       "num": 120621,
       "word": "特斯拉奖励马斯克9600万股股票",
@@ -13793,6 +13913,14 @@
       "onboard_time": 1754356702,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114143,
+      "num": 142962,
+      "word": "特朗普一句金正恩好吗让韩方傻眼",
+      "onboard_time": 1754637802,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114031,
@@ -14611,6 +14739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104301,
+      "num": 112581,
+      "word": "李想称知道哪个品牌在黑理想",
+      "onboard_time": 1754636421,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104266,
       "num": 286003,
       "word": "京东养车征名",
@@ -14889,14 +15025,6 @@
       "onboard_time": 1754391923,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100461,
-      "num": 189664,
-      "word": "晋江崩了",
-      "onboard_time": 1754635641,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 100415,
@@ -15817,6 +15945,14 @@
       "onboard_time": 1754389163,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88479,
+      "num": 198303,
+      "word": "猫咖店老板回应女子虐死4只猫",
+      "onboard_time": 1754637922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88425,
@@ -16867,14 +17003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68477,
-      "num": 190191,
-      "word": "9名中国公民在菲律宾被违规抓扣",
-      "onboard_time": 1754635942,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 68268,
       "num": 123724,
       "word": "上海迪士尼偶遇了周也",
@@ -17721,6 +17849,14 @@
       "onboard_time": 1754577085,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48427,
+      "num": 198474,
+      "word": "于适的澳大利亚旅行回忆",
+      "onboard_time": 1754636723,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 48259,

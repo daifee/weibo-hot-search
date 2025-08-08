@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754636315650,
+  "endTime": 1754638339289,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -48,6 +48,14 @@
       "word": "女高管出差遭老板性侵监控曝光",
       "onboard_time": 1754624483,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1296764,
+      "num": 751429,
+      "word": "女子虐猫致4死或判3年",
+      "onboard_time": 1754633002,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 751429,
-      "num": 751429,
-      "word": "女子虐猫致4死或判3年",
-      "onboard_time": 1754633002,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 726635,
       "num": 232830,
       "word": "如厕被气枪误杀的农民工家属发声",
@@ -121,6 +121,14 @@
       "onboard_time": 1754617522,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 697502,
+      "num": 697502,
+      "word": "双轨",
+      "onboard_time": 1754634682,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 649765,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517213,
+      "num": 199434,
+      "word": "过度提醒",
+      "onboard_time": 1754633962,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 514726,
       "num": 514726,
       "word": "日本和印度强硬表态",
@@ -275,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431637,
+      "num": 431637,
+      "word": "胖东来新店招1千人200个给退伍军人",
+      "onboard_time": 1754630544,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421415,
       "num": 183547,
       "word": "上海地铁一男子辱骂乘客乡下人滚",
       "onboard_time": 1754618242,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420901,
+      "num": 199177,
+      "word": "shanks",
+      "onboard_time": 1754635582,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 402151,
@@ -329,14 +361,6 @@
       "onboard_time": 1754630723,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341901,
-      "num": 341901,
-      "word": "胖东来新店招1千人200个给退伍军人",
-      "onboard_time": 1754630544,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331328,
@@ -427,20 +451,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273506,
-      "num": 194593,
-      "word": "双轨",
-      "onboard_time": 1754634682,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 266391,
       "num": 266391,
       "word": "孙楠长成大姑娘了",
       "onboard_time": 1754578524,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259801,
+      "num": 198677,
+      "word": "李耕耘陈少熙居然被取关了",
+      "onboard_time": 1754635522,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257772,
+      "num": 198100,
+      "word": "不爱上学不爱上班结果在学校上班了",
+      "onboard_time": 1754636121,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 251981,
+      "num": 251981,
+      "word": "董明珠再回应玫瑰空调争议",
+      "onboard_time": 1754636060,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249867,
@@ -483,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233222,
+      "num": 197733,
+      "word": "谢霆锋你背着我都干了什么",
+      "onboard_time": 1754635703,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232441,
       "num": 232441,
       "word": "披荆斩棘",
@@ -521,6 +569,14 @@
       "onboard_time": 1754625443,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225029,
+      "num": 197595,
+      "word": "内娱一人奶一公司的五大菩萨",
+      "onboard_time": 1754637802,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 217696,
@@ -627,12 +683,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200983,
+      "num": 197212,
+      "word": "肖战一段戏演出好几层意思",
+      "onboard_time": 1754637442,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200319,
+      "num": 200319,
+      "word": "9名中国公民在菲律宾被违规抓扣",
+      "onboard_time": 1754635942,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198121,
       "num": 198121,
       "word": "张元英 樱桃园",
       "onboard_time": 1754634441,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197001,
+      "num": 197001,
+      "word": "一句我是齐天大圣所有人泪崩了",
+      "onboard_time": 1754637922,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 195952,
@@ -667,20 +747,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189219,
-      "num": 189219,
-      "word": "不爱上学不爱上班结果在学校上班了",
-      "onboard_time": 1754636121,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 190064,
+      "num": 182021,
+      "word": "前妻称陶白白的生活单一且枯燥",
+      "onboard_time": 1754635402,
+      "rank": 32,
+      "category": "网红"
     },
     {
-      "raw_hot": 186992,
-      "num": 186992,
-      "word": "李耕耘陈少熙居然被取关了",
-      "onboard_time": 1754635522,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 188887,
+      "num": 188887,
+      "word": "张元英宫脇咲良再现七年前名次",
+      "onboard_time": 1754636963,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 186851,
@@ -723,20 +803,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176829,
+      "num": 168308,
+      "word": "孙俪没档期 邓超会戴假发去当替身",
+      "onboard_time": 1754638161,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173114,
       "num": 173114,
       "word": "沈月原来是美男",
       "onboard_time": 1754630662,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173083,
-      "num": 173083,
-      "word": "过度提醒",
-      "onboard_time": 1754633962,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 171553,
@@ -753,6 +833,14 @@
       "onboard_time": 1754624183,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169527,
+      "num": 169527,
+      "word": "你的降临今日开播",
+      "onboard_time": 1754636963,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 168368,
@@ -779,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166034,
-      "num": 166034,
-      "word": "shanks",
-      "onboard_time": 1754635582,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164170,
       "num": 136346,
       "word": "李昀锐 古装适配度",
@@ -807,6 +887,14 @@
       "num": 162803,
       "word": "李承铉剃头之后每天可以多睡30分钟了",
       "onboard_time": 1754630243,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162244,
+      "num": 172626,
+      "word": "苏醒 一把年纪没必要这么花",
+      "onboard_time": 1754636182,
       "rank": 28,
       "category": "综艺"
     },
@@ -867,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154649,
-      "num": 154649,
-      "word": "前妻称陶白白的生活单一且枯燥",
-      "onboard_time": 1754635402,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 152084,
       "num": 152084,
       "word": "致所有热爱迈德漠斯的伙伴",
@@ -883,12 +963,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 151870,
+      "num": 168417,
+      "word": "拉萨市委书记称领导就要敢得罪人",
+      "onboard_time": 1754637622,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151778,
       "num": 151778,
       "word": "猫咖老板将挖出小猫遗体取证",
       "onboard_time": 1754624543,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151774,
+      "num": 151774,
+      "word": "2025编外人员",
+      "onboard_time": 1754637563,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151616,
+      "num": 151616,
+      "word": "周冬雨的脸上撒了金粉",
+      "onboard_time": 1754636723,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 151393,
@@ -937,14 +1041,6 @@
       "onboard_time": 1754614644,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146666,
-      "num": 146666,
-      "word": "董明珠再回应玫瑰空调争议",
-      "onboard_time": 1754636060,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146431,
@@ -1059,6 +1155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 137397,
+      "num": 137397,
+      "word": "这就是三无明星被捧红的感觉吗",
+      "onboard_time": 1754637922,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135834,
       "num": 135834,
       "word": "65岁三高老人被女婿爆改成腹肌大爷",
@@ -1099,14 +1203,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 133977,
-      "num": 172626,
-      "word": "苏醒 一把年纪没必要这么花",
-      "onboard_time": 1754636182,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133737,
       "num": 161922,
       "word": "王小利我是美女我认了",
@@ -1121,14 +1217,6 @@
       "onboard_time": 1754619680,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132843,
-      "num": 189738,
-      "word": "谢霆锋你背着我都干了什么",
-      "onboard_time": 1754635703,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 132531,
@@ -1155,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129580,
+      "num": 189664,
+      "word": "晋江崩了",
+      "onboard_time": 1754635641,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 129564,
       "num": 129564,
       "word": "韩国博物馆满是汉字本地人看不懂",
@@ -1179,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125707,
+      "num": 125707,
+      "word": "人再笨还能学不会微积分吗",
+      "onboard_time": 1754638042,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124958,
       "num": 124958,
       "word": "秋天第一杯奶茶 秋天第一场失眠",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1754615181,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122323,
+      "num": 140015,
+      "word": "女子遭老板性侵隔壁房客录下证据",
+      "onboard_time": 1754637382,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122296,
@@ -1265,6 +1377,22 @@
       "onboard_time": 1754616982,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114365,
+      "num": 114365,
+      "word": "披荆斩棘2025开播",
+      "onboard_time": 1754636843,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114143,
+      "num": 142962,
+      "word": "特朗普一句金正恩好吗让韩方傻眼",
+      "onboard_time": 1754637802,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114027,
@@ -1379,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104301,
+      "num": 112581,
+      "word": "李想称知道哪个品牌在黑理想",
+      "onboard_time": 1754636421,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102357,
       "num": 246371,
       "word": "马库斯家里人知道有照片但不敢发声",
@@ -1401,14 +1537,6 @@
       "onboard_time": 1754581523,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100461,
-      "num": 189664,
-      "word": "晋江崩了",
-      "onboard_time": 1754635641,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 99563,
@@ -1489,6 +1617,14 @@
       "onboard_time": 1754611822,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88479,
+      "num": 198303,
+      "word": "猫咖店老板回应女子虐死4只猫",
+      "onboard_time": 1754637922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87241,
@@ -1651,14 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68477,
-      "num": 190191,
-      "word": "9名中国公民在菲律宾被违规抓扣",
-      "onboard_time": 1754635942,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 68150,
       "num": 68150,
       "word": "肖战对假发说冒犯了",
@@ -1809,6 +1937,14 @@
       "onboard_time": 1754590936,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48427,
+      "num": 198474,
+      "word": "于适的澳大利亚旅行回忆",
+      "onboard_time": 1754636723,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 48210,
