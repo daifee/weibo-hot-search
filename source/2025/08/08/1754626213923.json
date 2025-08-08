@@ -1,0 +1,410 @@
+{
+  "runTime": 1754626213923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2418008,
+        "num": 2418008,
+        "word": "名创优品道歉",
+        "onboard_time": 1754622621,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832720,
+        "num": 832720,
+        "word": "女高管出差遭老板性侵监控曝光",
+        "onboard_time": 1754624483,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10647,
+        "num": 700473,
+        "word": "世运会和奥运会有啥不一样",
+        "onboard_time": 1754526143,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644895,
+        "num": 644895,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605244,
+        "num": 605244,
+        "word": "红牛 王一博",
+        "onboard_time": 1754622863,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588095,
+        "num": 588095,
+        "word": "恋与深空",
+        "onboard_time": 1754619321,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 594947,
+        "num": 568516,
+        "word": "网红刘大悦30岁才摆脱童年创伤",
+        "onboard_time": 1754622621,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 514726,
+        "num": 514726,
+        "word": "日本和印度强硬表态",
+        "onboard_time": 1754620701,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402151,
+        "num": 402151,
+        "word": "陶白白前妻说离婚不是为上再见爱人",
+        "onboard_time": 1754619861,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 293552,
+        "num": 293552,
+        "word": "女子在景区摸马肚子被狠咬一口",
+        "onboard_time": 1754613203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1299646,
+        "num": 291946,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32400,
+        "num": 285960,
+        "word": "赵丽颖秋天的第一份舒适",
+        "onboard_time": 1754624062,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518596,
+        "num": 285276,
+        "word": "具惠善发文喊话安宰贤",
+        "onboard_time": 1754617641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322125,
+        "num": 280177,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277812,
+        "num": 277812,
+        "word": "官方回应刘晓庆被举报偷税",
+        "onboard_time": 1754623704,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246237,
+        "num": 246237,
+        "word": "考上北大护理学院骑手称不复读",
+        "onboard_time": 1754625203,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 205431,
+        "num": 205431,
+        "word": "金价",
+        "onboard_time": 1754616861,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29356,
+        "num": 205395,
+        "word": "洪涛这次不喝水了",
+        "onboard_time": 1754625924,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126483,
+        "num": 203682,
+        "word": "菲方不要在中方核心利益问题上玩火",
+        "onboard_time": 1754621842,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37526,
+        "num": 203090,
+        "word": "这一季的酸酸甜甜都在这了",
+        "onboard_time": 1754624123,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418188,
+        "num": 202053,
+        "word": "妈妈让女儿辞职照顾自己补偿490万",
+        "onboard_time": 1754615181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310203,
+        "num": 201502,
+        "word": "刘浩存换回微商头像",
+        "onboard_time": 1754614942,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297091,
+        "num": 200237,
+        "word": "杨蒙恩 天崩开局",
+        "onboard_time": 1754620041,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275254,
+        "num": 200080,
+        "word": "贝儿知道鲍蕾陆毅上婚综的反应",
+        "onboard_time": 1754622801,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256623,
+        "num": 198787,
+        "word": "名创优品 时代少年团",
+        "onboard_time": 1754615181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255962,
+        "num": 198151,
+        "word": "Jennie 蝴蝶结",
+        "onboard_time": 1754624963,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229373,
+        "num": 197168,
+        "word": "贾乃亮带甜馨去新加坡",
+        "onboard_time": 1754623342,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218965,
+        "num": 195843,
+        "word": "女子点100份三文鱼吃了吐吐了吃",
+        "onboard_time": 1754610200,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212757,
+        "num": 195492,
+        "word": "刘晓庆发声明税务无问题",
+        "onboard_time": 1754624363,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206486,
+        "num": 194185,
+        "word": "祁煜失重热浪",
+        "onboard_time": 1754625624,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194002,
+        "num": 194002,
+        "word": "恋与深空盛夏与你与海风",
+        "onboard_time": 1754624782,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181516,
+        "num": 181516,
+        "word": "迪丽热巴没有一句台词却演的好痛",
+        "onboard_time": 1754625503,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181067,
+        "num": 181067,
+        "word": "易烊千玺言出必行这一块",
+        "onboard_time": 1754625743,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171243,
+        "num": 171243,
+        "word": "贷款200多万进中药赚了36元",
+        "onboard_time": 1754624183,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163042,
+        "num": 163042,
+        "word": "12省份暴雨黄色预警",
+        "onboard_time": 1754620521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168368,
+        "num": 161131,
+        "word": "王源爷爷奶奶去看了重庆演唱会",
+        "onboard_time": 1754625323,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154903,
+        "num": 158419,
+        "word": "小学女生花光父母14万刷礼物后辍学",
+        "onboard_time": 1754625802,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157705,
+        "num": 157705,
+        "word": "日本或在原税率基础上被加15%关税",
+        "onboard_time": 1754624483,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106285,
+        "num": 157165,
+        "word": "马库斯家族成员被日军殴打强奸活埋",
+        "onboard_time": 1754625682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156882,
+        "num": 156882,
+        "word": "孙颖莎亮相伦敦世乒赛宣传片",
+        "onboard_time": 1754624242,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "易烊千玺北京站 加场",
+        "onboard_time": 1754620102,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151778,
+        "num": 151778,
+        "word": "猫咖老板将挖出小猫遗体取证",
+        "onboard_time": 1754624543,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151393,
+        "num": 151393,
+        "word": "GPT5",
+        "onboard_time": 1754622682,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147829,
+        "num": 147829,
+        "word": "王一博出发上海了",
+        "onboard_time": 1754624782,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145262,
+        "num": 145262,
+        "word": "男子为减肥送外卖35天瘦17斤",
+        "onboard_time": 1754625443,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139262,
+        "num": 139262,
+        "word": "sakuya粉发",
+        "onboard_time": 1754624303,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139121,
+        "num": 139121,
+        "word": "将门毒后选角最火的一对",
+        "onboard_time": 1754611339,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136468,
+        "num": 136468,
+        "word": "普通人坚持运动七个月的变化",
+        "onboard_time": 1754623822,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113280,
+        "num": 133546,
+        "word": "男子醉驾致2死1伤被害人发声",
+        "onboard_time": 1754624903,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132515,
+        "num": 132515,
+        "word": "内娱第一个水獭塑女主",
+        "onboard_time": 1754626043,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样寄语改革创新#"
+    }
+  }
+}
