@@ -1,0 +1,410 @@
+{
+  "runTime": 1754664543644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4820812,
+        "num": 4820812,
+        "word": "歌手排名",
+        "onboard_time": 1754659884,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2429313,
+        "num": 2429313,
+        "word": "歌手总决赛",
+        "onboard_time": 1754652742,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13722,
+        "num": 985112,
+        "word": "公办民办幼儿园均可享受免保教费",
+        "onboard_time": 1754534600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502311,
+        "num": 502311,
+        "word": "食贫道卧底韩国邪教",
+        "onboard_time": 1754652742,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 400345,
+        "num": 400345,
+        "word": "孙颖莎vs朱芊曦",
+        "onboard_time": 1754659585,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372894,
+        "num": 372894,
+        "word": "疑因孩子顶座乘客飞机上发生冲突",
+        "onboard_time": 1754660125,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1881408,
+        "num": 372680,
+        "word": "难听",
+        "onboard_time": 1754661506,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1735031,
+        "num": 372235,
+        "word": "陈楚生 获奖之作",
+        "onboard_time": 1754662945,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368977,
+        "num": 368977,
+        "word": "24小时退房制为啥不能成统一标准",
+        "onboard_time": 1754658086,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 362342,
+        "num": 362342,
+        "word": "中国女子坠入日本东京大学烟囱死亡",
+        "onboard_time": 1754652322,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1330902,
+        "num": 358533,
+        "word": "李佳薇哭死我了",
+        "onboard_time": 1754663786,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1000105,
+        "num": 355979,
+        "word": "因鸡蛋崩溃掀桌女子发声",
+        "onboard_time": 1754657124,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36682,
+        "num": 353818,
+        "word": "单依纯星空眼妆",
+        "onboard_time": 1754664025,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644590,
+        "num": 348884,
+        "word": "Beni能不能去浪姐",
+        "onboard_time": 1754660125,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485720,
+        "num": 346624,
+        "word": "东极岛",
+        "onboard_time": 1754659884,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343087,
+        "num": 343087,
+        "word": "社保",
+        "onboard_time": 1754653342,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220305,
+        "num": 336071,
+        "word": "男子赌气离家29年领退休金时现身",
+        "onboard_time": 1754658625,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175440,
+        "num": 334389,
+        "word": "胖东来招聘服刑人员顾客该支持吗",
+        "onboard_time": 1754661745,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155620,
+        "num": 323029,
+        "word": "甘肃榆中县山洪灾害已致10死33失联",
+        "onboard_time": 1754644102,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 19566,
+        "num": 317587,
+        "word": "吉利银河A7上市8.18万元起",
+        "onboard_time": 1754660184,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 58003,
+        "num": 304952,
+        "word": "加沙属于巴勒斯坦人民",
+        "onboard_time": 1754662045,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441295,
+        "num": 295847,
+        "word": "赵露思直播拍商务",
+        "onboard_time": 1754663906,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438350,
+        "num": 290321,
+        "word": "李溪芮变化",
+        "onboard_time": 1754649382,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354129,
+        "num": 276638,
+        "word": "再就业男团演唱会官宣",
+        "onboard_time": 1754662645,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275981,
+        "num": 275981,
+        "word": "黄奕直播",
+        "onboard_time": 1754661144,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275333,
+        "num": 275333,
+        "word": "鹿晗郑州",
+        "onboard_time": 1754657904,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229902,
+        "num": 229902,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213397,
+        "num": 213397,
+        "word": "利剑玫瑰",
+        "onboard_time": 1754664086,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189589,
+        "num": 189589,
+        "word": "热巴live图",
+        "onboard_time": 1754662886,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151849,
+        "num": 151849,
+        "word": "25岁做了管理层后性情大变",
+        "onboard_time": 1754657063,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251911,
+        "num": 150679,
+        "word": "歌手投票",
+        "onboard_time": 1754659766,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147981,
+        "num": 147981,
+        "word": "中方对以色列有关决定严重关切",
+        "onboard_time": 1754659405,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140041,
+        "num": 140041,
+        "word": "日本癌症突破性技术向中国开放",
+        "onboard_time": 1754643082,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442919,
+        "num": 139701,
+        "word": "名创优品再致歉",
+        "onboard_time": 1754662105,
+        "rank": 33,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 135415,
+        "num": 135415,
+        "word": "孙颖莎赛程",
+        "onboard_time": 1754658803,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127852,
+        "num": 127852,
+        "word": "21岁姑娘夺世运会中国首金",
+        "onboard_time": 1754659526,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90260,
+        "num": 124956,
+        "word": "单依纯眼妆好闪",
+        "onboard_time": 1754660184,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124189,
+        "num": 124189,
+        "word": "王一博这我哪知道啊",
+        "onboard_time": 1754651842,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87440,
+        "num": 124148,
+        "word": "女子猛喝奶茶后咳血丝查出咽喉反流",
+        "onboard_time": 1754664446,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196877,
+        "num": 124143,
+        "word": "让王力宏拿歌王吧",
+        "onboard_time": 1754660726,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124139,
+        "num": 124139,
+        "word": "上班不开心根本不需要离职",
+        "onboard_time": 1754650701,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122073,
+        "num": 122073,
+        "word": "长沙一20米人行道装了近20个防撞栏",
+        "onboard_time": 1754660485,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119892,
+        "num": 119892,
+        "word": "玛莎 阿信又在讲话",
+        "onboard_time": 1754663485,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117466,
+        "num": 117466,
+        "word": "美国悬赏5000万美元抓捕马杜罗",
+        "onboard_time": 1754659766,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112434,
+        "num": 112434,
+        "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
+        "onboard_time": 1754663606,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111783,
+        "num": 111783,
+        "word": "孙颖莎3比0朱芊曦",
+        "onboard_time": 1754662406,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104731,
+        "num": 104731,
+        "word": "小米与富国银行合作消息不实",
+        "onboard_time": 1754664446,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104221,
+        "num": 104221,
+        "word": "北京二套房公积金贷款最高100万",
+        "onboard_time": 1754656884,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103182,
+        "num": 103182,
+        "word": "第一次见这么有语言天赋的人",
+        "onboard_time": 1754663846,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100679,
+        "num": 100679,
+        "word": "披荆斩棘",
+        "onboard_time": 1754660604,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好防汛救灾各项工作#"
+    }
+  }
+}

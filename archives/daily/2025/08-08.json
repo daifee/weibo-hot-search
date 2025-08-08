@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754663366877,
+  "endTime": 1754664543644,
   "band_list": [
     {
       "raw_hot": 9646859,
@@ -11,19 +11,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4820812,
+      "num": 4820812,
+      "word": "歌手排名",
+      "onboard_time": 1754659884,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4783468,
       "num": 4783468,
       "word": "歌手总决赛",
       "onboard_time": 1754652742,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3521151,
-      "num": 3521151,
-      "word": "歌手排名",
-      "onboard_time": 1754659884,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -75,8 +75,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1807957,
-      "num": 359460,
+      "raw_hot": 1881408,
+      "num": 372680,
       "word": "难听",
       "onboard_time": 1754661506,
       "rank": 6,
@@ -89,6 +89,14 @@
       "onboard_time": 1754649382,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1735031,
+      "num": 372235,
+      "word": "陈楚生 获奖之作",
+      "onboard_time": 1754662945,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1617810,
@@ -113,6 +121,14 @@
       "onboard_time": 1754639182,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1330902,
+      "num": 358533,
+      "word": "李佳薇哭死我了",
+      "onboard_time": 1754663786,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1313504,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 543848,
-      "num": 332300,
+      "num": 346624,
       "word": "东极岛",
       "onboard_time": 1754613742,
       "rank": 15,
@@ -593,6 +609,22 @@
       "onboard_time": 1754637802,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 442919,
+      "num": 326145,
+      "word": "名创优品再致歉",
+      "onboard_time": 1754662105,
+      "rank": 15,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 441295,
+      "num": 295847,
+      "word": "赵露思直播拍商务",
+      "onboard_time": 1754663906,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 431637,
@@ -724,11 +756,19 @@
     },
     {
       "raw_hot": 379664,
-      "num": 222489,
+      "num": 275333,
       "word": "鹿晗郑州",
       "onboard_time": 1754657904,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 372894,
+      "num": 372894,
+      "word": "疑因孩子顶座乘客飞机上发生冲突",
+      "onboard_time": 1754660125,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370959,
@@ -739,8 +779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366916,
-      "num": 366916,
+      "raw_hot": 368977,
+      "num": 368977,
       "word": "24小时退房制为啥不能成统一标准",
       "onboard_time": 1754658086,
       "rank": 19,
@@ -753,6 +793,14 @@
       "onboard_time": 1754630723,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354129,
+      "num": 276638,
+      "word": "再就业男团演唱会官宣",
+      "onboard_time": 1754662645,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 331328,
@@ -769,14 +817,6 @@
       "onboard_time": 1754611339,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326145,
-      "num": 326145,
-      "word": "名创优品再致歉",
-      "onboard_time": 1754662105,
-      "rank": 15,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 325197,
@@ -851,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275981,
+      "num": 275981,
+      "word": "黄奕直播",
+      "onboard_time": 1754661144,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275567,
       "num": 274371,
       "word": "黄怡慈退团",
@@ -863,14 +911,6 @@
       "num": 234159,
       "word": "女子点100份三文鱼吃了吐吐了吃",
       "onboard_time": 1754610200,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275385,
-      "num": 344644,
-      "word": "疑因孩子顶座乘客飞机上发生冲突",
-      "onboard_time": 1754660125,
       "rank": 42,
       "category": "民生新闻"
     },
@@ -915,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266311,
-      "num": 194116,
-      "word": "黄奕直播",
-      "onboard_time": 1754661144,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263007,
       "num": 200490,
       "word": "赤裸裸",
@@ -936,6 +968,14 @@
       "word": "李耕耘陈少熙居然被取关了",
       "onboard_time": 1754635522,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 251911,
+      "num": 150679,
+      "word": "歌手投票",
+      "onboard_time": 1754659766,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -969,14 +1009,6 @@
       "onboard_time": 1754647281,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244807,
-      "num": 193094,
-      "word": "再就业男团演唱会官宣",
-      "onboard_time": 1754662645,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 242092,
@@ -1020,7 +1052,7 @@
     },
     {
       "raw_hot": 235523,
-      "num": 235523,
+      "num": 336071,
       "word": "男子赌气离家29年领退休金时现身",
       "onboard_time": 1754658625,
       "rank": 28,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1754635222,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213397,
+      "num": 213397,
+      "word": "利剑玫瑰",
+      "onboard_time": 1754664086,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 212757,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1754637922,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196877,
+      "num": 124143,
+      "word": "让王力宏拿歌王吧",
+      "onboard_time": 1754660726,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 196680,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1754651301,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175440,
+      "num": 334389,
+      "word": "胖东来招聘服刑人员顾客该支持吗",
+      "onboard_time": 1754661745,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173171,
@@ -2371,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122073,
+      "num": 122073,
+      "word": "长沙一20米人行道装了近20个防撞栏",
+      "onboard_time": 1754660485,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121907,
       "num": 168622,
       "word": "佟丽娅明艳大花感",
@@ -2457,6 +2521,14 @@
       "onboard_time": 1754649261,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "玛莎 阿信又在讲话",
+      "onboard_time": 1754663485,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 119574,
@@ -2595,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112434,
+      "num": 112434,
+      "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
+      "onboard_time": 1754663606,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112145,
       "num": 306800,
       "word": "12省区市大到暴雨",
@@ -2667,28 +2747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108202,
-      "num": 203835,
-      "word": "胖东来招聘服刑人员顾客该支持吗",
-      "onboard_time": 1754661745,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107916,
       "num": 107915,
       "word": "高敏谈全红婵体重变化",
       "onboard_time": 1754609060,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107736,
-      "num": 107736,
-      "word": "长沙一20米人行道装了近20个防撞栏",
-      "onboard_time": 1754660485,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107712,
@@ -2715,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104731,
+      "num": 104731,
+      "word": "小米与富国银行合作消息不实",
+      "onboard_time": 1754664446,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104460,
       "num": 104460,
       "word": "LV中国首家巧克力店运营仅一年",
@@ -2737,6 +2809,14 @@
       "onboard_time": 1754648181,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103182,
+      "num": 103182,
+      "word": "第一次见这么有语言天赋的人",
+      "onboard_time": 1754663846,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102765,
@@ -2961,6 +3041,14 @@
       "onboard_time": 1754611822,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87440,
+      "num": 124148,
+      "word": "女子猛喝奶茶后咳血丝查出咽喉反流",
+      "onboard_time": 1754664446,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87241,
@@ -3260,7 +3348,7 @@
     },
     {
       "raw_hot": 63320,
-      "num": 289640,
+      "num": 317587,
       "word": "吉利银河A7上市8.18万元起",
       "onboard_time": 1754660184,
       "rank": 17,
@@ -3321,6 +3409,14 @@
       "onboard_time": 1754648482,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58003,
+      "num": 304952,
+      "word": "加沙属于巴勒斯坦人民",
+      "onboard_time": 1754662045,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55571,
@@ -3521,6 +3617,14 @@
       "onboard_time": 1754642182,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36682,
+      "num": 353818,
+      "word": "单依纯星空眼妆",
+      "onboard_time": 1754664025,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 36019,
@@ -3731,6 +3835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 13722,
+      "num": 985112,
+      "word": "公办民办幼儿园均可享受免保教费",
+      "onboard_time": 1754534600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13275,
       "num": 700473,
       "word": "世运会和奥运会有啥不一样",
@@ -3768,14 +3880,6 @@
       "word": "马库斯谈捐赠照片中印象最深的一幕",
       "onboard_time": 1754599154,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9053,
-      "num": 959827,
-      "word": "公办民办幼儿园均可享受免保教费",
-      "onboard_time": 1754534600,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
