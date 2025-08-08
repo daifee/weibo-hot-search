@@ -1,10 +1,10 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754658845134,
+  "endTime": 1754660690756,
   "band_list": [
     {
-      "raw_hot": 8282937,
-      "num": 8282937,
+      "raw_hot": 9646859,
+      "num": 9646859,
       "word": "单依纯王力宏 好听",
       "onboard_time": 1754657483,
       "rank": 6,
@@ -16,6 +16,14 @@
       "word": "歌手总决赛",
       "onboard_time": 1754652742,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2673156,
+      "num": 412811,
+      "word": "歌手排名",
+      "onboard_time": 1754659884,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -40,6 +48,14 @@
       "word": "陈楚生 难听",
       "onboard_time": 1754656462,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2190723,
+      "num": 396137,
+      "word": "陈楚生第一轮第三",
+      "onboard_time": 1754659585,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 1189588,
-      "num": 257583,
+      "num": 305122,
       "word": "彭佳慧耳返没声音",
       "onboard_time": 1754657543,
       "rank": 25,
@@ -195,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 863494,
+      "num": 371763,
+      "word": "因鸡蛋崩溃掀桌女子发声",
+      "onboard_time": 1754657124,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 834842,
       "num": 454650,
       "word": "孙俪没档期 邓超会戴假发去当替身",
@@ -251,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 732403,
+      "num": 310538,
+      "word": "刘惜君明年首发吧",
+      "onboard_time": 1754658086,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726635,
       "num": 232830,
       "word": "如厕被气枪误杀的农民工家属发声",
@@ -291,19 +323,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 693519,
-      "num": 371763,
-      "word": "因鸡蛋崩溃掀桌女子发声",
-      "onboard_time": 1754657124,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 685986,
       "num": 384617,
       "word": "米奇值得歌王",
       "onboard_time": 1754656162,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 683520,
+      "num": 307373,
+      "word": "Beni能不能去浪姐",
+      "onboard_time": 1754660125,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -443,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 556169,
-      "num": 224908,
-      "word": "刘惜君明年首发吧",
-      "onboard_time": 1754658086,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 532563,
       "num": 532563,
       "word": "单依纯常石磊献唱世运会主题曲",
@@ -579,6 +603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 407409,
+      "num": 233667,
+      "word": "Beni刘惜君好美",
+      "onboard_time": 1754659824,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405336,
       "num": 363043,
       "word": "歌手顺序",
@@ -667,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379664,
+      "num": 222489,
+      "word": "鹿晗郑州",
+      "onboard_time": 1754657904,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 370959,
       "num": 224821,
       "word": "李佳薇帮唱孙楠",
       "onboard_time": 1754655263,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362597,
+      "num": 217285,
+      "word": "东极岛",
+      "onboard_time": 1754613742,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 360561,
@@ -699,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327631,
+      "num": 327631,
+      "word": "孙颖莎vs朱芊曦",
+      "onboard_time": 1754659585,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325197,
       "num": 325197,
       "word": "世运会开幕式",
@@ -713,6 +769,14 @@
       "onboard_time": 1754581644,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310473,
+      "num": 310473,
+      "word": "孙颖莎赛程",
+      "onboard_time": 1754658803,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 304774,
@@ -801,6 +865,14 @@
       "onboard_time": 1754643502,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273303,
+      "num": 273303,
+      "word": "24小时退房制为啥不能成统一标准",
+      "onboard_time": 1754658086,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 269095,
@@ -907,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235523,
+      "num": 235523,
+      "word": "男子赌气离家29年领退休金时现身",
+      "onboard_time": 1754658625,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233870,
       "num": 272107,
       "word": "蔡徐坤新歌MV",
@@ -929,14 +1009,6 @@
       "onboard_time": 1754619562,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231383,
-      "num": 191926,
-      "word": "鹿晗郑州",
-      "onboard_time": 1754657904,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 229772,
@@ -1011,14 +1083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213202,
-      "num": 213202,
-      "word": "东极岛",
-      "onboard_time": 1754613742,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 212757,
       "num": 195492,
       "word": "刘晓庆发声明税务无问题",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1754609660,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207177,
+      "num": 206004,
+      "word": "25岁做了管理层后性情大变",
+      "onboard_time": 1754657063,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 206486,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1754651782,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192200,
+      "num": 192200,
+      "word": "21岁姑娘夺世运会中国首金",
+      "onboard_time": 1754659526,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 190064,
@@ -1411,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164354,
+      "num": 164354,
+      "word": "卢卓灵武术套路金牌",
+      "onboard_time": 1754660063,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164170,
       "num": 136346,
       "word": "李昀锐 古装适配度",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1754640922,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159758,
+      "num": 325492,
+      "word": "中方对以色列有关决定严重关切",
+      "onboard_time": 1754659405,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157838,
@@ -1665,14 +1761,6 @@
       "onboard_time": 1754622682,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 151178,
-      "num": 151178,
-      "word": "孙颖莎赛程",
-      "onboard_time": 1754658803,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 150990,
@@ -1947,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135466,
-      "num": 135466,
-      "word": "25岁做了管理层后性情大变",
-      "onboard_time": 1754657063,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135410,
       "num": 135410,
       "word": "tws",
@@ -2000,6 +2080,14 @@
       "word": "05后女生上岸985跑9.85公里庆祝",
       "onboard_time": 1754619680,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133005,
+      "num": 133005,
+      "word": "疑因孩子顶座乘客飞机上发生冲突",
+      "onboard_time": 1754660125,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2315,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116499,
+      "num": 116499,
+      "word": "张远在披荆斩棘撑伞",
+      "onboard_time": 1754660485,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116067,
       "num": 116067,
       "word": "HLE战胜KT",
@@ -2491,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107736,
+      "num": 107736,
+      "word": "长沙一20米人行道装了近20个防撞栏",
+      "onboard_time": 1754660485,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107712,
       "num": 107712,
       "word": "原来大猫真的会给小猫立规矩",
@@ -2512,14 +2616,6 @@
       "word": "马库斯说要努力像中国人民一样勇敢",
       "onboard_time": 1754576664,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105111,
-      "num": 214902,
-      "word": "男子赌气离家29年领退休金时现身",
-      "onboard_time": 1754658625,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2611,14 +2707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101180,
-      "num": 225261,
-      "word": "24小时退房制为啥不能成统一标准",
-      "onboard_time": 1754658086,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 101014,
       "num": 153734,
       "word": "女子因猫与男友争吵后被害",
@@ -2641,6 +2729,14 @@
       "onboard_time": 1754635342,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98742,
+      "num": 278968,
+      "word": "人民日报评阮院士身份造假",
+      "onboard_time": 1754659884,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 98410,
@@ -2824,6 +2920,14 @@
       "word": "王嘉尔超绝低颅顶",
       "onboard_time": 1754568083,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83317,
+      "num": 278573,
+      "word": "单依纯眼妆好闪",
+      "onboard_time": 1754660184,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -3020,7 +3124,7 @@
     },
     {
       "raw_hot": 65883,
-      "num": 229204,
+      "num": 286254,
       "word": "歌手特产原来是酸酸乳",
       "onboard_time": 1754656643,
       "rank": 19,
@@ -3057,6 +3161,14 @@
       "onboard_time": 1754609480,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 63320,
+      "num": 289640,
+      "word": "吉利银河A7上市8.18万元起",
+      "onboard_time": 1754660184,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 62923,
@@ -3547,8 +3659,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4287,
-      "num": 1081708,
+      "raw_hot": 5793,
+      "num": 1203240,
       "word": "相约成都遇见万千精彩",
       "onboard_time": 1754572223,
       "rank": 2,

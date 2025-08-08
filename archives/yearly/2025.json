@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754658845134,
+  "endTime": 1754660690756,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1099,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9646859,
+      "num": 9646859,
+      "word": "单依纯王力宏 好听",
+      "onboard_time": 1754657483,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9612507,
       "num": 9612507,
       "word": "宋佳白玉兰视后",
@@ -1312,14 +1320,6 @@
       "word": "陈楚生 高音没声",
       "onboard_time": 1748003605,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 8282937,
-      "num": 8282937,
-      "word": "单依纯王力宏 好听",
-      "onboard_time": 1754657483,
-      "rank": 6,
       "category": "综艺"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/08 21:14:05
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/08 21:44:50
 </p>
 </blockquote>
 <p>
@@ -837,6 +837,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A5%BD%E5%90%AC%23" target="weibo">
+单依纯王力宏 好听（热度：9646859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E%23" target="weibo">
 宋佳白玉兰视后（热度：9612507）
 </a>
@@ -995,12 +1001,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E9%AB%98%E9%9F%B3%E6%B2%A1%E5%A3%B0%23" target="weibo">
 陈楚生 高音没声（热度：8298321）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A5%BD%E5%90%AC%23" target="weibo">
-单依纯王力宏 好听（热度：8282937）
 </a>
 </li>
 
