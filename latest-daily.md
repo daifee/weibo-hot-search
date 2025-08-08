@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/09 00:33:36 ~ 2025/08/09 03:38:15
+本榜单时间：2025/08/09 00:33:36 ~ 2025/08/09 04:30:12
 </p>
 </blockquote>
 <p>
@@ -431,6 +431,12 @@ IVE迷你四辑概念预告（热度：65626）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%97%A0%E5%90%8D%E8%89%B2%E5%BD%A9%23" target="weibo">
 电影无名色彩（热度：25273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E5%9B%A0%E5%AD%A9%E5%AD%90%E9%A1%B6%E5%BA%A7%E8%B5%B7%E5%86%B2%E7%AA%81%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%23" target="weibo">
+疑因孩子顶座起冲突警方已介入（热度：24256）
 </a>
 </li>
 

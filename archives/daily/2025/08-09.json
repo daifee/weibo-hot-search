@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754681895306,
+  "endTime": 1754685012082,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -561,6 +561,14 @@
       "onboard_time": 1754679675,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24256,
+      "num": 24256,
+      "word": "疑因孩子顶座起冲突警方已介入",
+      "onboard_time": 1754682794,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24125,
