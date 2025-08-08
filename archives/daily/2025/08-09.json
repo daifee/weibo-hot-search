@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754673806392,
+  "endTime": 1754674965175,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -355,19 +355,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96320,
+      "num": 91244,
+      "word": "ALin回应念肖战微博改名热搜",
+      "onboard_time": 1754672299,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95973,
       "num": 95973,
       "word": "周笔畅舞台",
       "onboard_time": 1754670801,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 91244,
-      "num": 91244,
-      "word": "ALin回应念肖战微博改名热搜",
-      "onboard_time": 1754672299,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -395,7 +395,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71778,
+      "raw_hot": 74150,
       "num": 95116,
       "word": "心跳1分钟多少次最健康",
       "onboard_time": 1754672360,
@@ -417,6 +417,14 @@
       "onboard_time": 1754659585,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65626,
+      "num": 65626,
+      "word": "IVE迷你四辑概念预告",
+      "onboard_time": 1754674638,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 63915,
@@ -451,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55712,
+      "num": 65622,
+      "word": "陈粒演唱会",
+      "onboard_time": 1754674338,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 42064,
+      "num": 75629,
+      "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
+      "onboard_time": 1754663606,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41106,
       "num": 75557,
       "word": "女子猛喝奶茶后咳血丝查出咽喉反流",
@@ -459,20 +483,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40473,
-      "num": 75629,
-      "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
-      "onboard_time": 1754663606,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 33807,
       "num": 92943,
       "word": "李佳薇VCR",
       "onboard_time": 1754665354,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33470,
+      "num": 73663,
+      "word": "郑钧陈楚生的老婆都叫刘yun",
+      "onboard_time": 1754674820,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27399,
+      "num": 67509,
+      "word": "外国人学汉字get中国人学几何的优势",
+      "onboard_time": 1754674697,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24125,
+      "num": 65560,
+      "word": "甘肃榆中县山洪2002人受灾",
+      "onboard_time": 1754665952,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 8622,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754674965175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071215,
+        "num": 1071215,
+        "word": "陈楚生歌王",
+        "onboard_time": 1754666010,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496589,
+        "num": 496589,
+        "word": "那英含金量",
+        "onboard_time": 1754669063,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3114,
+        "num": 383048,
+        "word": "公办民办幼儿园均可享受免保教费",
+        "onboard_time": 1754534600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372517,
+        "num": 372517,
+        "word": "男子转嫖娼对象138万原配追讨败诉",
+        "onboard_time": 1754666845,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234767,
+        "num": 234767,
+        "word": "社保",
+        "onboard_time": 1754653342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151627,
+        "num": 151627,
+        "word": "24小时退房制为啥不能成统一标准",
+        "onboard_time": 1754658086,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 611218,
+        "num": 147719,
+        "word": "难听",
+        "onboard_time": 1754661506,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377299,
+        "num": 142572,
+        "word": "歌手排名",
+        "onboard_time": 1754659884,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129637,
+        "num": 129637,
+        "word": "爱出门的人能量很高",
+        "onboard_time": 1754669482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108645,
+        "num": 108645,
+        "word": "疑因孩子顶座乘客飞机上发生冲突",
+        "onboard_time": 1754660125,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417498,
+        "num": 107901,
+        "word": "麦琳88斤了",
+        "onboard_time": 1754664746,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326507,
+        "num": 107730,
+        "word": "耳帝",
+        "onboard_time": 1754669603,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271110,
+        "num": 107510,
+        "word": "赵露思呼吁品牌找公司对接工作",
+        "onboard_time": 1754665773,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105846,
+        "num": 105846,
+        "word": "中国女子坠入日本东京大学烟囱死亡",
+        "onboard_time": 1754652322,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201080,
+        "num": 99376,
+        "word": "单依纯王力宏 好听",
+        "onboard_time": 1754657483,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185084,
+        "num": 95741,
+        "word": "李佳薇哭死我了",
+        "onboard_time": 1754663786,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176658,
+        "num": 94822,
+        "word": "因鸡蛋崩溃掀桌女子发声",
+        "onboard_time": 1754657124,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88619,
+        "num": 88619,
+        "word": "Shanks事件女生发文",
+        "onboard_time": 1754651361,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87602,
+        "num": 87602,
+        "word": "重庆钓鱼博主谈二娃不幸溺亡",
+        "onboard_time": 1754667327,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 85574,
+        "num": 85574,
+        "word": "刘晓庆已被举报人起诉",
+        "onboard_time": 1754672059,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 177990,
+        "num": 85414,
+        "word": "王力宏赛后发文",
+        "onboard_time": 1754665952,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131133,
+        "num": 85284,
+        "word": "女歌手们都是歌王",
+        "onboard_time": 1754665471,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109888,
+        "num": 84920,
+        "word": "歌手总决赛",
+        "onboard_time": 1754652742,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96320,
+        "num": 84658,
+        "word": "ALin回应念肖战微博改名热搜",
+        "onboard_time": 1754672299,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84536,
+        "num": 84536,
+        "word": "男子给失足女转138万前妻起诉被驳",
+        "onboard_time": 1754670143,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82603,
+        "num": 82603,
+        "word": "吴磊演技",
+        "onboard_time": 1754668582,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77568,
+        "num": 77568,
+        "word": "李溪芮变化",
+        "onboard_time": 1754649382,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74150,
+        "num": 74150,
+        "word": "心跳1分钟多少次最健康",
+        "onboard_time": 1754672360,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33470,
+        "num": 73663,
+        "word": "郑钧陈楚生的老婆都叫刘yun",
+        "onboard_time": 1754674820,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62682,
+        "num": 73513,
+        "word": "食贫道卧底韩国邪教",
+        "onboard_time": 1754652742,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76354,
+        "num": 73513,
+        "word": "ALin彭佳慧不要再吵了",
+        "onboard_time": 1754655803,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73513,
+        "num": 73512,
+        "word": "东极岛",
+        "onboard_time": 1754659884,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73042,
+        "num": 73042,
+        "word": "Beni能不能去浪姐",
+        "onboard_time": 1754660125,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27399,
+        "num": 67509,
+        "word": "外国人学汉字get中国人学几何的优势",
+        "onboard_time": 1754674697,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66723,
+        "num": 66723,
+        "word": "黄奕直播",
+        "onboard_time": 1754661144,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66166,
+        "num": 66166,
+        "word": "鹿晗郑州",
+        "onboard_time": 1754657904,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65854,
+        "num": 65854,
+        "word": "折月亮妆造到底是谁做的",
+        "onboard_time": 1754667744,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65626,
+        "num": 65626,
+        "word": "IVE迷你四辑概念预告",
+        "onboard_time": 1754674638,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55712,
+        "num": 65622,
+        "word": "陈粒演唱会",
+        "onboard_time": 1754674338,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55308,
+        "num": 65575,
+        "word": "胖东来招聘服刑人员顾客该支持吗",
+        "onboard_time": 1754661745,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24125,
+        "num": 65560,
+        "word": "甘肃榆中县山洪2002人受灾",
+        "onboard_time": 1754665952,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 52600,
+        "num": 65523,
+        "word": "苏醒为妈妈庆生",
+        "onboard_time": 1754664626,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50026,
+        "num": 65498,
+        "word": "婚内给女子转138万被认定系嫖资",
+        "onboard_time": 1754667744,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47075,
+        "num": 65468,
+        "word": "甘肃榆中县山洪灾害已致10死33失联",
+        "onboard_time": 1754644102,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 45184,
+        "num": 65433,
+        "word": "再就业男团演唱会官宣",
+        "onboard_time": 1754662645,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44875,
+        "num": 65404,
+        "word": "警方回应乘客飞机上发生肢体冲突",
+        "onboard_time": 1754667085,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43393,
+        "num": 65374,
+        "word": "利剑玫瑰热度破27000",
+        "onboard_time": 1754668825,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42064,
+        "num": 65334,
+        "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
+        "onboard_time": 1754663606,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28384,
+        "num": 65325,
+        "word": "孙颖莎vs朱芊曦",
+        "onboard_time": 1754659585,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27845,
+        "num": 65286,
+        "word": "仙逆神临之战又名王林救妻记",
+        "onboard_time": 1754668342,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}

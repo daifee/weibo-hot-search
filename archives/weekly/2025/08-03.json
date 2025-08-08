@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754673806392,
+  "endTime": 1754674965175,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -16923,6 +16923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96320,
+      "num": 91244,
+      "word": "ALin回应念肖战微博改名热搜",
+      "onboard_time": 1754672299,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96166,
       "num": 96166,
       "word": "莫雷加德吃了北京烤鸭",
@@ -17385,14 +17393,6 @@
       "onboard_time": 1754215285,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91244,
-      "num": 91244,
-      "word": "ALin回应念肖战微博改名热搜",
-      "onboard_time": 1754672299,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 91049,
@@ -18443,6 +18443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74150,
+      "num": 95116,
+      "word": "心跳1分钟多少次最健康",
+      "onboard_time": 1754672360,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74035,
       "num": 74035,
       "word": "贵阳银河左岸音乐节",
@@ -18537,14 +18545,6 @@
       "onboard_time": 1754142991,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71778,
-      "num": 95116,
-      "word": "心跳1分钟多少次最健康",
-      "onboard_time": 1754672360,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 71404,
@@ -18833,6 +18833,14 @@
       "onboard_time": 1754656643,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65626,
+      "num": 65626,
+      "word": "IVE迷你四辑概念预告",
+      "onboard_time": 1754674638,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 65590,
@@ -19273,6 +19281,14 @@
       "onboard_time": 1754550143,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55712,
+      "num": 65622,
+      "word": "陈粒演唱会",
+      "onboard_time": 1754674338,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 55595,
@@ -20275,6 +20291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33470,
+      "num": 73663,
+      "word": "郑钧陈楚生的老婆都叫刘yun",
+      "onboard_time": 1754674820,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33429,
       "num": 47134,
       "word": "辽宁一中学官方账号回复家长gun",
@@ -20521,6 +20545,14 @@
       "onboard_time": 1754253974,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 27399,
+      "num": 67509,
+      "word": "外国人学汉字get中国人学几何的优势",
+      "onboard_time": 1754674697,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27350,
