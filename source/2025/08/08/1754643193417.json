@@ -1,0 +1,410 @@
+{
+  "runTime": 1754643193417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511244,
+        "num": 1511244,
+        "word": "台湾是一个省哪来的国防预算",
+        "onboard_time": 1754639182,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842565,
+        "num": 842565,
+        "word": "女子遭老板性侵隔壁房客录下证据",
+        "onboard_time": 1754637382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89738,
+        "num": 566765,
+        "word": "中国队出场bgm是茉莉花",
+        "onboard_time": 1754628865,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497054,
+        "num": 497054,
+        "word": "于正宣布要演戏",
+        "onboard_time": 1754640383,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488136,
+        "num": 488136,
+        "word": "竹荪",
+        "onboard_time": 1754640442,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483797,
+        "num": 483797,
+        "word": "人社局回应胖东来招聘服刑人员",
+        "onboard_time": 1754630422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376266,
+        "num": 376266,
+        "word": "董明珠再回应玫瑰空调争议",
+        "onboard_time": 1754636060,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368954,
+        "num": 368954,
+        "word": "特朗普一句金正恩好吗让韩方傻眼",
+        "onboard_time": 1754637802,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323154,
+        "num": 323154,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297699,
+        "num": 297699,
+        "word": "乘客在飞机上拍到超清晰UFO",
+        "onboard_time": 1754640803,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1090324,
+        "num": 297077,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031675,
+        "num": 295981,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 728090,
+        "num": 295283,
+        "word": "孙俪没档期 邓超会戴假发去当替身",
+        "onboard_time": 1754638161,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354044,
+        "num": 294334,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37376,
+        "num": 293461,
+        "word": "不同运动各有防病特长",
+        "onboard_time": 1754640083,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 243558,
+        "num": 292564,
+        "word": "张元英宫脇咲良再现七年前名次",
+        "onboard_time": 1754636963,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29319,
+        "num": 291551,
+        "word": "全球首个机器人消费节",
+        "onboard_time": 1754640322,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212229,
+        "num": 290404,
+        "word": "双轨",
+        "onboard_time": 1754634682,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121731,
+        "num": 288528,
+        "word": "果茶 含糖量",
+        "onboard_time": 1754642062,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89440,
+        "num": 287954,
+        "word": "三甲大夫给晕车人支了几招",
+        "onboard_time": 1754639182,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 287488,
+        "num": 287488,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266898,
+        "num": 266898,
+        "word": "古偶扑街史",
+        "onboard_time": 1754642483,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253867,
+        "num": 253867,
+        "word": "不爱上学不爱上班结果在学校上班了",
+        "onboard_time": 1754636121,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209268,
+        "num": 209268,
+        "word": "女子剖腹产住院11天16万金饰被偷",
+        "onboard_time": 1754641402,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183086,
+        "num": 183086,
+        "word": "偶运会阵容",
+        "onboard_time": 1754642483,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177680,
+        "num": 177680,
+        "word": "日本癌症突破性技术向中国开放",
+        "onboard_time": 1754643082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156651,
+        "num": 176884,
+        "word": "什么剧女主竟然与11个男人雄竞",
+        "onboard_time": 1754642722,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152658,
+        "num": 174762,
+        "word": "赵露思同款",
+        "onboard_time": 1754641523,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204459,
+        "num": 172414,
+        "word": "icon",
+        "onboard_time": 1754641044,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75345,
+        "num": 170836,
+        "word": "张远加入老登陆",
+        "onboard_time": 1754640922,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170411,
+        "num": 170411,
+        "word": "过度提醒",
+        "onboard_time": 1754633962,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161928,
+        "num": 161928,
+        "word": "拉萨市委书记称领导就要敢得罪人",
+        "onboard_time": 1754637622,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159002,
+        "num": 159002,
+        "word": "胖东来新店招1千人200个给退伍军人",
+        "onboard_time": 1754630544,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152394,
+        "num": 152394,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146600,
+        "num": 146600,
+        "word": "凭自己月入过万是什么体验",
+        "onboard_time": 1754640922,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137430,
+        "num": 137430,
+        "word": "看完决定一个月不吃牛蛙猪肉",
+        "onboard_time": 1754642483,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132391,
+        "num": 132391,
+        "word": "何洛洛 三男人全死女人手里",
+        "onboard_time": 1754640862,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120674,
+        "num": 120674,
+        "word": "精神病院群演",
+        "onboard_time": 1754638403,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39913,
+        "num": 119251,
+        "word": "女子遭性侵后整理232页证据维权",
+        "onboard_time": 1754642182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41977,
+        "num": 118855,
+        "word": "57岁大姐救灾4天炒漏锅5天炒坏灶",
+        "onboard_time": 1754642003,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 118705,
+        "num": 118705,
+        "word": "前妻称陶白白的生活单一且枯燥",
+        "onboard_time": 1754635402,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114443,
+        "num": 114443,
+        "word": "杨蒙恩回应古装丑上热搜",
+        "onboard_time": 1754642962,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111503,
+        "num": 111503,
+        "word": "国防部说血的教训不容忘却",
+        "onboard_time": 1754639182,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105550,
+        "num": 105550,
+        "word": "这就是三无明星被捧红的感觉吗",
+        "onboard_time": 1754637922,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105014,
+        "num": 105014,
+        "word": "伊朗核科学家当间谍被处决",
+        "onboard_time": 1754639901,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102765,
+        "num": 102765,
+        "word": "早安GAI友谊",
+        "onboard_time": 1754642123,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102060,
+        "num": 102060,
+        "word": "金灿荣说俄这些动作是冲中国的",
+        "onboard_time": 1754642363,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95090,
+        "num": 95090,
+        "word": "桥本帆乃香回应对阵孙颖莎",
+        "onboard_time": 1754642302,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93454,
+        "num": 93454,
+        "word": "东极岛 里斯本丸沉没",
+        "onboard_time": 1754643082,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93259,
+        "num": 93259,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1754639123,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天是全民健身日#"
+    }
+  }
+}

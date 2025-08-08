@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754642299683,
+  "endTime": 1754643193417,
   "band_list": [
     {
       "raw_hot": 12380496,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1511244,
+      "num": 1511244,
+      "word": "台湾是一个省哪来的国防预算",
+      "onboard_time": 1754639182,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1508373,
       "num": 466888,
       "word": "王俊凯",
@@ -1051,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1021388,
-      "num": 1163422,
-      "word": "台湾是一个省哪来的国防预算",
-      "onboard_time": 1754639182,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1009381,
       "num": 1009381,
       "word": "坠楼医生出事前一天曾向派出所报案",
@@ -1440,6 +1440,14 @@
       "word": "浙大青年博导坠楼真相是什么",
       "onboard_time": 1754444720,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 842565,
+      "num": 842565,
+      "word": "女子遭老板性侵隔壁房客录下证据",
+      "onboard_time": 1754637382,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2065,14 +2073,6 @@
       "onboard_time": 1754317766,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 646500,
-      "num": 646500,
-      "word": "女子遭老板性侵隔壁房客录下证据",
-      "onboard_time": 1754637382,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 645603,
@@ -2979,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497054,
+      "num": 497054,
+      "word": "于正宣布要演戏",
+      "onboard_time": 1754640383,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496427,
       "num": 496427,
       "word": "任素汐 歌手",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1754390484,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488136,
+      "num": 488136,
+      "word": "竹荪",
+      "onboard_time": 1754640442,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 488115,
@@ -4011,14 +4027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368272,
-      "num": 368272,
-      "word": "竹荪",
-      "onboard_time": 1754640442,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364086,
       "num": 196268,
       "word": "瑞鹤娱乐诚挚道歉",
@@ -4113,14 +4121,6 @@
       "onboard_time": 1754187503,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 358011,
-      "num": 358011,
-      "word": "于正宣布要演戏",
-      "onboard_time": 1754640383,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 355333,
@@ -4771,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297699,
+      "num": 297699,
+      "word": "乘客在飞机上拍到超清晰UFO",
+      "onboard_time": 1754640803,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 297091,
       "num": 210572,
       "word": "杨蒙恩 天崩开局",
@@ -5211,6 +5219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 266898,
+      "num": 266898,
+      "word": "古偶扑街史",
+      "onboard_time": 1754642483,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266407,
       "num": 266407,
       "word": "上海将开展入户调查",
@@ -5593,14 +5609,6 @@
       "onboard_time": 1754367923,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246713,
-      "num": 246713,
-      "word": "乘客在飞机上拍到超清晰UFO",
-      "onboard_time": 1754640803,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 246590,
@@ -6515,6 +6523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209268,
+      "num": 209268,
+      "word": "女子剖腹产住院11天16万金饰被偷",
+      "onboard_time": 1754641402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209178,
       "num": 170743,
       "word": "减肥神药为何跌落神坛",
@@ -6737,6 +6753,14 @@
       "onboard_time": 1754400085,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204459,
+      "num": 196236,
+      "word": "icon",
+      "onboard_time": 1754641044,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 204318,
@@ -7177,14 +7201,6 @@
       "onboard_time": 1754315005,
       "rank": 22,
       "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 196236,
-      "num": 196236,
-      "word": "icon",
-      "onboard_time": 1754641044,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 196100,
@@ -7899,6 +7915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183086,
+      "num": 183086,
+      "word": "偶运会阵容",
+      "onboard_time": 1754642483,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182389,
       "num": 182389,
       "word": "BLG战胜TES",
@@ -8176,6 +8200,14 @@
       "word": "中国科学院院士阮少平被打假",
       "onboard_time": 1754406384,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177680,
+      "num": 177680,
+      "word": "日本癌症突破性技术向中国开放",
+      "onboard_time": 1754643082,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -9163,6 +9195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161928,
+      "num": 353874,
+      "word": "拉萨市委书记称领导就要敢得罪人",
+      "onboard_time": 1754637622,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161834,
       "num": 161834,
       "word": "警方通报纹身男加塞未果拦车辱骂",
@@ -9467,14 +9507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157490,
-      "num": 157490,
-      "word": "女子剖腹产住院11天16万金饰被偷",
-      "onboard_time": 1754641402,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157346,
       "num": 157346,
       "word": "王楚钦蒯曼食欲对比",
@@ -9497,6 +9529,14 @@
       "onboard_time": 1754624242,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156651,
+      "num": 176884,
+      "word": "什么剧女主竟然与11个男人雄竞",
+      "onboard_time": 1754642722,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 156555,
@@ -9835,6 +9875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152658,
+      "num": 197082,
+      "word": "赵露思同款",
+      "onboard_time": 1754641523,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152640,
       "num": 152640,
       "word": "沉没成本不参与重大决策",
@@ -9953,14 +10001,6 @@
       "onboard_time": 1754288183,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151870,
-      "num": 353874,
-      "word": "拉萨市委书记称领导就要敢得罪人",
-      "onboard_time": 1754637622,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151778,
@@ -10417,14 +10457,6 @@
       "onboard_time": 1754281886,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 146642,
-      "num": 197082,
-      "word": "赵露思同款",
-      "onboard_time": 1754641523,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 146594,
@@ -11433,6 +11465,14 @@
       "onboard_time": 1754181622,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137430,
+      "num": 137430,
+      "word": "看完决定一个月不吃牛蛙猪肉",
+      "onboard_time": 1754642483,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 137417,
@@ -13275,6 +13315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121731,
+      "num": 288528,
+      "word": "果茶 含糖量",
+      "onboard_time": 1754642062,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121607,
       "num": 121607,
       "word": "林一黑毛衣好有人夫感",
@@ -14041,6 +14089,14 @@
       "onboard_time": 1754486124,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114443,
+      "num": 114443,
+      "word": "杨蒙恩回应古装丑上热搜",
+      "onboard_time": 1754642962,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 114365,
@@ -15035,6 +15091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102765,
+      "num": 102765,
+      "word": "早安GAI友谊",
+      "onboard_time": 1754642123,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102642,
       "num": 240052,
       "word": "扮演藏獒拉布拉多疑被拔牙",
@@ -15091,6 +15155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102060,
+      "num": 102060,
+      "word": "金灿荣说俄这些动作是冲中国的",
+      "onboard_time": 1754642363,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102028,
       "num": 102028,
       "word": "加沙17岁体育冠军因营养不良去世",
@@ -15145,14 +15217,6 @@
       "onboard_time": 1754547684,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101409,
-      "num": 101409,
-      "word": "早安GAI友谊",
-      "onboard_time": 1754642123,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 101014,
@@ -15627,6 +15691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95090,
+      "num": 95090,
+      "word": "桥本帆乃香回应对阵孙颖莎",
+      "onboard_time": 1754642302,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95065,
       "num": 95065,
       "word": "不敢想住在这个房子里有多开朗",
@@ -15753,6 +15825,14 @@
       "onboard_time": 1754214203,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93454,
+      "num": 93454,
+      "word": "东极岛 里斯本丸沉没",
+      "onboard_time": 1754643082,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 93425,
@@ -16859,6 +16939,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 75345,
+      "num": 170836,
+      "word": "张远加入老登陆",
+      "onboard_time": 1754640922,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75207,
       "num": 233900,
       "word": "魔咒",
@@ -17899,14 +17987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51798,
-      "num": 217207,
-      "word": "果茶 含糖量",
-      "onboard_time": 1754642062,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 51495,
       "num": 51495,
       "word": "中国农场主赞比亚失踪近30天确认遇害",
@@ -18267,6 +18347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41977,
+      "num": 134747,
+      "word": "57岁大姐救灾4天炒漏锅5天炒坏灶",
+      "onboard_time": 1754642003,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 41675,
       "num": 147010,
       "word": "泰州发现1941年日版中国地图",
@@ -18375,6 +18463,14 @@
       "num": 149827,
       "word": "汉谟拉比与商汤是同一人 作者发声",
       "onboard_time": 1754459003,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39913,
+      "num": 131776,
+      "word": "女子遭性侵后整理232页证据维权",
+      "onboard_time": 1754642182,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -18601,22 +18697,6 @@
       "onboard_time": 1754624062,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 34201,
-      "num": 131776,
-      "word": "女子遭性侵后整理232页证据维权",
-      "onboard_time": 1754642182,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33844,
-      "num": 134747,
-      "word": "57岁大姐救灾4天炒漏锅5天炒坏灶",
-      "onboard_time": 1754642003,
-      "rank": 37,
-      "category": "正能量"
     },
     {
       "raw_hot": 33429,
