@@ -1,0 +1,410 @@
+{
+  "runTime": 1754639202039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 823329,
+        "num": 1131732,
+        "word": "人社局回应胖东来招聘服刑人员",
+        "onboard_time": 1754630422,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637238,
+        "num": 637238,
+        "word": "双轨",
+        "onboard_time": 1754634682,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99814,
+        "num": 597740,
+        "word": "中国队出场bgm是茉莉花",
+        "onboard_time": 1754628865,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563072,
+        "num": 563072,
+        "word": "董明珠再回应玫瑰空调争议",
+        "onboard_time": 1754636060,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524911,
+        "num": 524911,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334376,
+        "num": 334376,
+        "word": "胖东来新店招1千人200个给退伍军人",
+        "onboard_time": 1754630544,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269172,
+        "num": 269172,
+        "word": "女子被误认为日本人后霸气回怼",
+        "onboard_time": 1754627904,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252210,
+        "num": 252210,
+        "word": "张元英kwda投票第一",
+        "onboard_time": 1754633543,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244883,
+        "num": 244883,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201192,
+        "num": 243647,
+        "word": "特朗普一句金正恩好吗让韩方傻眼",
+        "onboard_time": 1754637802,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1227137,
+        "num": 243088,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1170961,
+        "num": 241725,
+        "word": "女子虐猫致4死或判3年",
+        "onboard_time": 1754633002,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667329,
+        "num": 239153,
+        "word": "过度提醒",
+        "onboard_time": 1754633962,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 652059,
+        "num": 238437,
+        "word": "握手 摸玉足",
+        "onboard_time": 1754629823,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 506559,
+        "num": 236106,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448126,
+        "num": 235997,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381032,
+        "num": 234558,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 377471,
+        "num": 232177,
+        "word": "孙俪没档期 邓超会戴假发去当替身",
+        "onboard_time": 1754638161,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32245,
+        "num": 231190,
+        "word": "于适的澳大利亚旅行回忆",
+        "onboard_time": 1754636723,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160842,
+        "num": 229219,
+        "word": "猫咖店老板回应女子虐死4只猫",
+        "onboard_time": 1754637922,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252549,
+        "num": 227202,
+        "word": "不爱上学不爱上班结果在学校上班了",
+        "onboard_time": 1754636121,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227185,
+        "num": 227185,
+        "word": "李耕耘陈少熙居然被取关了",
+        "onboard_time": 1754635522,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204920,
+        "num": 204920,
+        "word": "网红刘大悦30岁才摆脱童年创伤",
+        "onboard_time": 1754622621,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185259,
+        "num": 185259,
+        "word": "张元英宫脇咲良再现七年前名次",
+        "onboard_time": 1754636963,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182292,
+        "num": 182292,
+        "word": "一句我是齐天大圣所有人泪崩了",
+        "onboard_time": 1754637922,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173187,
+        "num": 173187,
+        "word": "妈妈让女儿辞职照顾自己补偿490万",
+        "onboard_time": 1754615181,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167590,
+        "num": 167590,
+        "word": "朱志鑫苏新皓一起走过的路都没忘",
+        "onboard_time": 1754638703,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162624,
+        "num": 162624,
+        "word": "国防部说血的教训不容忘却",
+        "onboard_time": 1754639182,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160567,
+        "num": 160567,
+        "word": "谢霆锋你背着我都干了什么",
+        "onboard_time": 1754635703,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151148,
+        "num": 151148,
+        "word": "拉萨市委书记称领导就要敢得罪人",
+        "onboard_time": 1754637622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165765,
+        "num": 150608,
+        "word": "精神病院群演",
+        "onboard_time": 1754638403,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160207,
+        "num": 150495,
+        "word": "前妻称陶白白的生活单一且枯燥",
+        "onboard_time": 1754635402,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78672,
+        "num": 149373,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1754639123,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145291,
+        "num": 149211,
+        "word": "9名中国公民在菲律宾被违规抓扣",
+        "onboard_time": 1754635942,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "谁给张凌赫做的图",
+        "onboard_time": 1754638523,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147507,
+        "num": 147507,
+        "word": "2025编外人员",
+        "onboard_time": 1754637563,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146171,
+        "num": 146171,
+        "word": "红牛 王一博",
+        "onboard_time": 1754622863,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134140,
+        "num": 134140,
+        "word": "这就是三无明星被捧红的感觉吗",
+        "onboard_time": 1754637922,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32147,
+        "num": 133554,
+        "word": "冬奥排练时期的丁程鑫",
+        "onboard_time": 1754639004,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50008,
+        "num": 133504,
+        "word": "意大利游客吐槽中国景区没人会英语",
+        "onboard_time": 1754638582,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133478,
+        "num": 133478,
+        "word": "女子遭老板性侵隔壁房客录下证据",
+        "onboard_time": 1754637382,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128625,
+        "num": 128625,
+        "word": "周冬雨的脸上撒了金粉",
+        "onboard_time": 1754636723,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127166,
+        "num": 127166,
+        "word": "苏醒 一把年纪没必要这么花",
+        "onboard_time": 1754636182,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123734,
+        "num": 123734,
+        "word": "台湾是一个省哪来的国防预算",
+        "onboard_time": 1754639182,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93573,
+        "num": 122211,
+        "word": "三甲大夫给晕车人支了几招",
+        "onboard_time": 1754639182,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121762,
+        "num": 121762,
+        "word": "夏之光转发宣传黄俊捷新剧",
+        "onboard_time": 1754631142,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117638,
+        "num": 117638,
+        "word": "人再笨还能学不会微积分吗",
+        "onboard_time": 1754638042,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112550,
+        "num": 112550,
+        "word": "唐艺昕喜欢今天的发型",
+        "onboard_time": 1754639062,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112094,
+        "num": 112094,
+        "word": "王安宇安安公主",
+        "onboard_time": 1754630723,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91303,
+        "num": 110565,
+        "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
+        "onboard_time": 1754626224,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国的基础在群众体育#"
+    }
+  }
+}

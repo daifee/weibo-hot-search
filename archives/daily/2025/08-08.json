@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754638339289,
+  "endTime": 1754639202039,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 667329,
+      "num": 239153,
+      "word": "过度提醒",
+      "onboard_time": 1754633962,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 649765,
       "num": 826462,
       "word": "将门毒后",
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563072,
+      "num": 563072,
+      "word": "董明珠再回应玫瑰空调争议",
+      "onboard_time": 1754636060,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 527124,
       "num": 527124,
       "word": "女子被误认为日本人后霸气回怼",
@@ -249,14 +265,6 @@
       "onboard_time": 1754608519,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517213,
-      "num": 199434,
-      "word": "过度提醒",
-      "onboard_time": 1754633962,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 514726,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448126,
+      "num": 235997,
+      "word": "内娱一人奶一公司的五大菩萨",
+      "onboard_time": 1754637802,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431637,
       "num": 431637,
       "word": "胖东来新店招1千人200个给退伍军人",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 420901,
-      "num": 199177,
+      "num": 234558,
       "word": "shanks",
       "onboard_time": 1754635582,
       "rank": 31,
@@ -352,6 +368,14 @@
       "word": "BLACKPINK九周年合照",
       "onboard_time": 1754584161,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377471,
+      "num": 232177,
+      "word": "孙俪没档期 邓超会戴假发去当替身",
+      "onboard_time": 1754638161,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 259801,
-      "num": 198677,
+      "num": 227185,
       "word": "李耕耘陈少熙居然被取关了",
       "onboard_time": 1754635522,
       "rank": 24,
@@ -468,19 +492,11 @@
     },
     {
       "raw_hot": 257772,
-      "num": 198100,
+      "num": 227202,
       "word": "不爱上学不爱上班结果在学校上班了",
       "onboard_time": 1754636121,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 251981,
-      "num": 251981,
-      "word": "董明珠再回应玫瑰空调争议",
-      "onboard_time": 1754636060,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249867,
@@ -569,14 +585,6 @@
       "onboard_time": 1754625443,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225029,
-      "num": 197595,
-      "word": "内娱一人奶一公司的五大菩萨",
-      "onboard_time": 1754637802,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 217696,
@@ -681,6 +689,14 @@
       "onboard_time": 1754628445,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201192,
+      "num": 243647,
+      "word": "特朗普一句金正恩好吗让韩方傻眼",
+      "onboard_time": 1754637802,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200983,
@@ -803,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176829,
-      "num": 168308,
-      "word": "孙俪没档期 邓超会戴假发去当替身",
-      "onboard_time": 1754638161,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173114,
       "num": 173114,
       "word": "沈月原来是美男",
@@ -859,12 +867,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167590,
+      "num": 167590,
+      "word": "朱志鑫苏新皓一起走过的路都没忘",
+      "onboard_time": 1754638703,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166659,
       "num": 166659,
       "word": "内娱第一个水獭塑女主",
       "onboard_time": 1754626043,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165765,
+      "num": 150608,
+      "word": "精神病院群演",
+      "onboard_time": 1754638403,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 164170,
@@ -891,12 +915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162624,
+      "num": 162624,
+      "word": "国防部说血的教训不容忘却",
+      "onboard_time": 1754639182,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162244,
       "num": 172626,
       "word": "苏醒 一把年纪没必要这么花",
       "onboard_time": 1754636182,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160842,
+      "num": 229219,
+      "word": "猫咖店老板回应女子虐死4只猫",
+      "onboard_time": 1754637922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160631,
@@ -1016,6 +1056,14 @@
       "word": "重庆辟谣发了肖战",
       "onboard_time": 1754627965,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148717,
+      "num": 148717,
+      "word": "谁给张凌赫做的图",
+      "onboard_time": 1754638523,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1211,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133478,
+      "num": 140015,
+      "word": "女子遭老板性侵隔壁房客录下证据",
+      "onboard_time": 1754637382,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133008,
       "num": 133008,
       "word": "05后女生上岸985跑9.85公里庆祝",
@@ -1307,12 +1363,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122323,
-      "num": 140015,
-      "word": "女子遭老板性侵隔壁房客录下证据",
-      "onboard_time": 1754637382,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 123734,
+      "num": 123734,
+      "word": "台湾是一个省哪来的国防预算",
+      "onboard_time": 1754639182,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122296,
@@ -1387,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114143,
-      "num": 142962,
-      "word": "特朗普一句金正恩好吗让韩方傻眼",
-      "onboard_time": 1754637802,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114027,
       "num": 118250,
       "word": "甲乙真的要吊着睡觉吗",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1754624903,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112550,
+      "num": 112550,
+      "word": "唐艺昕喜欢今天的发型",
+      "onboard_time": 1754639062,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 112145,
@@ -1579,6 +1635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93573,
+      "num": 122211,
+      "word": "三甲大夫给晕车人支了几招",
+      "onboard_time": 1754639182,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 93028,
       "num": 296053,
       "word": "头一回见这么正的负能量",
@@ -1617,14 +1681,6 @@
       "onboard_time": 1754611822,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88479,
-      "num": 198303,
-      "word": "猫咖店老板回应女子虐死4只猫",
-      "onboard_time": 1754637922,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87241,
@@ -1689,6 +1745,14 @@
       "onboard_time": 1754578644,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 78672,
+      "num": 149373,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1754639123,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78605,
@@ -1931,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 50008,
+      "num": 133504,
+      "word": "意大利游客吐槽中国景区没人会英语",
+      "onboard_time": 1754638582,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48599,
       "num": 79938,
       "word": "郑州京广路隧道被淹有人爬梯子脱困",
@@ -1940,7 +2012,7 @@
     },
     {
       "raw_hot": 48427,
-      "num": 198474,
+      "num": 231190,
       "word": "于适的澳大利亚旅行回忆",
       "onboard_time": 1754636723,
       "rank": 18,
@@ -2041,6 +2113,14 @@
       "onboard_time": 1754587396,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32147,
+      "num": 133554,
+      "word": "冬奥排练时期的丁程鑫",
+      "onboard_time": 1754639004,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 28317,
