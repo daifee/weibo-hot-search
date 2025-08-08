@@ -1,7 +1,15 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754653317906,
+  "endTime": 1754657906635,
   "band_list": [
+    {
+      "raw_hot": 4783468,
+      "num": 4783468,
+      "word": "歌手总决赛",
+      "onboard_time": 1754652742,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2448250,
       "num": 446802,
@@ -17,6 +25,14 @@
       "onboard_time": 1754622621,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2291207,
+      "num": 225420,
+      "word": "陈楚生 难听",
+      "onboard_time": 1754656462,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 2152958,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1787330,
-      "num": 371753,
+      "num": 387374,
       "word": "李溪芮变化",
       "onboard_time": 1754649382,
       "rank": 10,
@@ -57,6 +73,22 @@
       "onboard_time": 1754639182,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1482806,
+      "num": 1482806,
+      "word": "ALin彭佳慧不要再吵了",
+      "onboard_time": 1754655803,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1349793,
+      "num": 687137,
+      "word": "单依纯王力宏 好听",
+      "onboard_time": 1754657483,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1313504,
@@ -81,6 +113,14 @@
       "onboard_time": 1754637802,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1110181,
+      "num": 659983,
+      "word": "孙楠歌王发挥",
+      "onboard_time": 1754655503,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1050742,
@@ -139,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 904196,
+      "num": 904196,
+      "word": "中国女子坠入日本东京大学烟囱死亡",
+      "onboard_time": 1754652322,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 834842,
       "num": 454650,
       "word": "孙俪没档期 邓超会戴假发去当替身",
@@ -171,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 773806,
-      "num": 1123809,
-      "word": "歌手总决赛",
+      "raw_hot": 783945,
+      "num": 783945,
+      "word": "食贫道卧底韩国邪教",
       "onboard_time": 1754652742,
-      "rank": 0,
-      "category": "综艺"
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 766939,
@@ -184,6 +232,14 @@
       "word": "日本癌症突破性技术向中国开放",
       "onboard_time": 1754643082,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 749926,
+      "num": 749926,
+      "word": "社保",
+      "onboard_time": 1754653342,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -411,6 +467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 490933,
+      "num": 384617,
+      "word": "米奇值得歌王",
+      "onboard_time": 1754656162,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 482616,
+      "num": 376798,
+      "word": "单依纯常石磊献唱世运会主题曲",
+      "onboard_time": 1754653882,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 480851,
       "num": 384948,
       "word": "歌手预测",
@@ -443,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 445424,
+      "num": 226732,
+      "word": "落叶归根",
+      "onboard_time": 1754657483,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431637,
       "num": 431637,
       "word": "胖东来新店招1千人200个给退伍军人",
@@ -452,7 +532,7 @@
     },
     {
       "raw_hot": 423269,
-      "num": 314598,
+      "num": 360032,
       "word": "王一博这我哪知道啊",
       "onboard_time": 1754651842,
       "rank": 13,
@@ -473,6 +553,22 @@
       "onboard_time": 1754635582,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 405672,
+      "num": 371763,
+      "word": "因鸡蛋崩溃掀桌女子发声",
+      "onboard_time": 1754657124,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405336,
+      "num": 363043,
+      "word": "歌手顺序",
+      "onboard_time": 1754654962,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 402151,
@@ -563,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347911,
+      "num": 222234,
+      "word": "李佳薇帮唱孙楠",
+      "onboard_time": 1754655263,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331328,
       "num": 331328,
       "word": "夏之光转发宣传黄俊捷新剧",
@@ -595,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320107,
-      "num": 320107,
-      "word": "中国女子坠入日本东京大学烟囱死亡",
-      "onboard_time": 1754652322,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 304774,
       "num": 304774,
       "word": "Jennie 蝴蝶结",
@@ -617,6 +713,14 @@
       "onboard_time": 1754637922,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300045,
+      "num": 218315,
+      "word": "彭佳慧耳返没声音",
+      "onboard_time": 1754657543,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 297797,
@@ -651,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275567,
+      "num": 274371,
+      "word": "黄怡慈退团",
+      "onboard_time": 1754651842,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275427,
       "num": 234159,
       "word": "女子点100份三文鱼吃了吐吐了吃",
@@ -665,14 +777,6 @@
       "onboard_time": 1754622801,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274371,
-      "num": 274371,
-      "word": "黄怡慈退团",
-      "onboard_time": 1754651842,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 273547,
@@ -963,6 +1067,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203675,
+      "num": 203675,
+      "word": "冯建宇直播",
+      "onboard_time": 1754656943,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203494,
+      "num": 203494,
+      "word": "宏依辈子",
+      "onboard_time": 1754657423,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201582,
       "num": 201582,
       "word": "徐艺洋要的不是照片是出片",
@@ -1099,6 +1219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185531,
+      "num": 185531,
+      "word": "北京加大住房公积金支持力度",
+      "onboard_time": 1754652981,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 184647,
+      "num": 184647,
+      "word": "长沙格莱美",
+      "onboard_time": 1754656884,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183086,
       "num": 183086,
       "word": "偶运会阵容",
@@ -1137,6 +1273,14 @@
       "onboard_time": 1754645243,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177023,
+      "num": 177023,
+      "word": "等我小了也要孙颖莎抱",
+      "onboard_time": 1754656763,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 176358,
@@ -1219,28 +1363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165936,
-      "num": 165936,
-      "word": "北京加大住房公积金支持力度",
-      "onboard_time": 1754652981,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 165765,
       "num": 150608,
       "word": "精神病院群演",
       "onboard_time": 1754638403,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165313,
-      "num": 261647,
-      "word": "食贫道卧底韩国邪教",
-      "onboard_time": 1754652742,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 164170,
@@ -1393,6 +1521,14 @@
       "onboard_time": 1754628503,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153982,
+      "num": 153982,
+      "word": "伤痕",
+      "onboard_time": 1754657183,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 153726,
@@ -1691,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139687,
+      "num": 139687,
+      "word": "JDG伞兵7淘汰MVP",
+      "onboard_time": 1754656763,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139440,
       "num": 139440,
       "word": "定风波",
@@ -1827,12 +1971,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131997,
+      "num": 131997,
+      "word": "男子想领退休金发现被宣告死亡19年",
+      "onboard_time": 1754654481,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130223,
       "num": 175847,
       "word": "王源谈私生",
       "onboard_time": 1754648360,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130136,
+      "num": 130136,
+      "word": "披荆斩棘是场巨大的Xleader争夺战",
+      "onboard_time": 1754657606,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 130086,
@@ -1875,6 +2035,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127532,
+      "num": 127532,
+      "word": "郑钧下火车直奔陈楚生歌手彩排现场",
+      "onboard_time": 1754657245,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126532,
+      "num": 126532,
+      "word": "王星越 别把我号封了",
+      "onboard_time": 1754653703,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126483,
       "num": 203682,
       "word": "菲方不要在中方核心利益问题上玩火",
@@ -1897,6 +2073,14 @@
       "onboard_time": 1754638042,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125143,
+      "num": 125143,
+      "word": "走5公里和跑5公里哪个更健康",
+      "onboard_time": 1754655803,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 124958,
@@ -1945,6 +2129,14 @@
       "onboard_time": 1754640442,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121898,
+      "num": 121898,
+      "word": "百妖谱",
+      "onboard_time": 1754654181,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 121812,
@@ -2043,12 +2235,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116169,
+      "num": 116169,
+      "word": "MINNIE将出演泰版初恋50次女主角",
+      "onboard_time": 1754655203,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116067,
+      "num": 116067,
+      "word": "HLE战胜KT",
+      "onboard_time": 1754657843,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116019,
       "num": 116019,
       "word": "一块五买一只虾做了13个菜",
       "onboard_time": 1754631863,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115150,
+      "num": 134783,
+      "word": "25岁做了管理层后性情大变",
+      "onboard_time": 1754657063,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 115076,
@@ -2499,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84960,
+      "num": 394601,
+      "word": "北京二套房公积金贷款最高100万",
+      "onboard_time": 1754656884,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84679,
       "num": 84679,
       "word": "竹荪炖鸡汤",
@@ -2739,6 +2963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63427,
+      "num": 229204,
+      "word": "歌手特产原来是酸酸乳",
+      "onboard_time": 1754656643,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62923,
       "num": 62923,
       "word": "江西这个景区藏着亚洲最长扶梯",
@@ -2937,6 +3169,14 @@
       "onboard_time": 1754652742,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41569,
+      "num": 204660,
+      "word": "广岛原爆亲历者称日本从未真正谢罪",
+      "onboard_time": 1754656283,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 41482,
@@ -3220,7 +3460,7 @@
     },
     {
       "raw_hot": 3547,
-      "num": 610732,
+      "num": 1081708,
       "word": "相约成都遇见万千精彩",
       "onboard_time": 1754572223,
       "rank": 2,

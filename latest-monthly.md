@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/08 19:41:57
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/08 20:58:26
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%BE%E8%A2%AB%E9%94%81%E9%85%92%E5%BA%97%E9%A9%B1%E9%AD%94%23" target="weibo">
 赵露思曾被锁酒店驱魔（热度：6450402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+歌手总决赛（热度：4783468）
 </a>
 </li>
 
@@ -269,6 +275,12 @@ TFBOYS十二周年（热度：2366610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%AE%87%E5%AE%99%E6%80%8E%E4%B9%88%E4%B8%8D%E6%98%AF%E4%BD%A0%E5%BE%90%E5%96%86%E7%9A%84%E5%91%A2%23" target="weibo">
 赵露思 宇宙怎么不是你徐喆的呢（热度：2314857）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E9%9A%BE%E5%90%AC%23" target="weibo">
+陈楚生 难听（热度：2291207）
 </a>
 </li>
 
@@ -603,6 +615,12 @@ TFBOYS十二周年（热度：2366610）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ALin%E5%BD%AD%E4%BD%B3%E6%85%A7%E4%B8%8D%E8%A6%81%E5%86%8D%E5%90%B5%E4%BA%86%23" target="weibo">
+ALin彭佳慧不要再吵了（热度：1482806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E9%B9%A4%E5%A8%B1%E4%B9%90%E7%A7%92%E5%88%A0%23" target="weibo">
 瑞鹤娱乐秒删（热度：1467053）
 </a>
@@ -677,6 +695,12 @@ IU宝剑结婚 钟硕那边我去说（热度：1400793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%A9%AC%E5%B1%B1%E5%A4%B1%E8%81%945%E4%BA%BA%E5%9D%87%E5%B7%B2%E9%81%87%E9%9A%BE%23" target="weibo">
 白马山失联5人均已遇难（热度：1357609）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E5%A5%BD%E5%90%AC%23" target="weibo">
+单依纯王力宏 好听（热度：1349793）
 </a>
 </li>
 
@@ -959,6 +983,12 @@ tzym 封神之战（热度：1128894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%B4%E6%92%AD%E5%90%8C%E6%AC%BE%E8%A2%AB%E5%8D%96%E6%96%AD%E8%B4%A7%23" target="weibo">
 赵露思直播同款被卖断货（热度：1118404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%A5%A0%E6%AD%8C%E7%8E%8B%E5%8F%91%E6%8C%A5%23" target="weibo">
+孙楠歌王发挥（热度：1110181）
 </a>
 </li>
 
@@ -1359,6 +1389,12 @@ Beni晋级（热度：909814）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9D%A0%E5%85%A5%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%83%9F%E5%9B%B1%E6%AD%BB%E4%BA%A1%23" target="weibo">
+中国女子坠入日本东京大学烟囱死亡（热度：904196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AE%A9%E5%95%86%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%86%8D%E6%89%BE%E5%A5%B9%E4%BA%86%23" target="weibo">
 赵露思让商家不要再找她了（热度：891081）
 </a>
@@ -1617,6 +1653,12 @@ TF四代 超载（热度：867979）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9F%E8%B4%AB%E9%81%93%E5%8D%A7%E5%BA%95%E9%9F%A9%E5%9B%BD%E9%82%AA%E6%95%99%23" target="weibo">
+食贫道卧底韩国邪教（热度：783945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%82%AB%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 林志炫回来了（热度：780469）
 </a>
@@ -1631,12 +1673,6 @@ TF四代 超载（热度：867979）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%9D%E5%85%A5%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A52500%23" target="weibo">
 赵露思曝入行第一个月收入2500（热度：774188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-歌手总决赛（热度：773806）
 </a>
 </li>
 
@@ -3069,6 +3105,12 @@ iPhone17系列仅标准版没涨价（热度：496401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%A5%87%E5%80%BC%E5%BE%97%E6%AD%8C%E7%8E%8B%23" target="weibo">
+米奇值得歌王（热度：490933）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 王安宇音乐节（热度：490173）
 </a>
@@ -3137,6 +3179,12 @@ iPhone17系列仅标准版没涨价（热度：496401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E9%81%93%20%E8%B7%9F%E4%BD%A0%E4%BB%AC%E6%B2%A1%E5%A5%B3%E5%84%BF%E7%9A%84%E8%AF%B4%E4%B8%8D%E6%B8%85%E6%A5%9A%23" target="weibo">
 明道 跟你们没女儿的说不清楚（热度：483687）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%B8%B8%E7%9F%B3%E7%A3%8A%E7%8C%AE%E5%94%B1%E4%B8%96%E8%BF%90%E4%BC%9A%E4%B8%BB%E9%A2%98%E6%9B%B2%23" target="weibo">
+单依纯常石磊献唱世运会主题曲（热度：482616）
 </a>
 </li>
 
@@ -3383,6 +3431,12 @@ ALin 编曲（热度：467911）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE60%E7%B1%B3%E9%AB%98%E5%8E%8B%E7%94%B5%E7%BC%86%E4%B8%8A%E6%83%8A%E7%8E%B0%E7%94%B7%E5%B0%B8%23" target="weibo">
 台湾60米高压电缆上惊现男尸（热度：445953）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%BD%E5%8F%B6%E5%BD%92%E6%A0%B9%23" target="weibo">
+落叶归根（热度：445424）
 </a>
 </li>
 
@@ -3683,6 +3737,18 @@ shanks（热度：420901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%98%89%E5%AE%BE%E6%B1%AA%E8%8B%8F%E6%B3%B7%23" target="weibo">
 五月天嘉宾汪苏泷（热度：406209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E9%B8%A1%E8%9B%8B%E5%B4%A9%E6%BA%83%E6%8E%80%E6%A1%8C%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+因鸡蛋崩溃掀桌女子发声（热度：405672）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E9%A1%BA%E5%BA%8F%23" target="weibo">
+歌手顺序（热度：405336）
 </a>
 </li>
 
@@ -4239,6 +4305,12 @@ lemon 复仇味（热度：365344）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%96%87%E5%B8%AE%E5%94%B1%E5%AD%99%E6%A5%A0%23" target="weibo">
+李佳薇帮唱孙楠（热度：347911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%BE%9F%E8%B0%A3%E6%81%A2%E5%A4%8D%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%9C%B0%E5%8C%BA%E6%9C%8D%E5%8A%A1%23" target="weibo">
 谷歌辟谣恢复中国大陆地区服务（热度：347595）
 </a>
@@ -4599,12 +4671,6 @@ lemon 复仇味（热度：365344）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9D%A0%E5%85%A5%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%83%9F%E5%9B%B1%E6%AD%BB%E4%BA%A1%23" target="weibo">
-中国女子坠入日本东京大学烟囱死亡（热度：320107）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%9C%BA%E7%AC%AC%E4%B8%80%E6%8E%92%E8%B7%9F%E5%9D%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%80%80%E9%87%8C%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB%23" target="weibo">
 内场第一排跟坐易烊千玺怀里有啥区别（热度：319897）
 </a>
@@ -4835,6 +4901,12 @@ BLACKPINK演唱会上百无聊赖的老父亲们（热度：301716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%9D%A8%E5%B9%82%E5%8D%B7%E5%8F%91%E5%8D%8A%E6%B0%B8%E4%B9%85%23" target="weibo">
 建议杨幂卷发半永久（热度：300074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E4%BD%B3%E6%85%A7%E8%80%B3%E8%BF%94%E6%B2%A1%E5%A3%B0%E9%9F%B3%23" target="weibo">
+彭佳慧耳返没声音（热度：300045）
 </a>
 </li>
 
@@ -5163,6 +5235,12 @@ Chinajoy（热度：295472）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%80%A1%E6%85%88%E9%80%80%E5%9B%A2%23" target="weibo">
+黄怡慈退团（热度：275567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%B9100%E4%BB%BD%E4%B8%89%E6%96%87%E9%B1%BC%E5%90%83%E4%BA%86%E5%90%90%E5%90%90%E4%BA%86%E5%90%83%23" target="weibo">
 女子点100份三文鱼吃了吐吐了吃（热度：275427）
 </a>
@@ -5189,12 +5267,6 @@ Chinajoy（热度：295472）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E6%9C%80%E6%80%95%E8%BF%996%E4%B8%AA%E5%8A%A8%E4%BD%9C%23" target="weibo">
 气血不足最怕这6个动作（热度：274754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%80%A1%E6%85%88%E9%80%80%E5%9B%A2%23" target="weibo">
-黄怡慈退团（热度：274371）
 </a>
 </li>
 
@@ -5939,78 +6011,6 @@ ACT对战GW（热度：244562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E8%BF%9B%E5%85%A5%E6%9C%80%E5%90%8E%E6%94%BB%E5%9D%9A%E6%97%B6%E5%88%BB%23" target="weibo">
 福建舰入列进入最后攻坚时刻（热度：238298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E8%BF%AA%E4%B8%BD%E5%86%B7%E5%B7%B4%23" target="weibo">
-原来还有迪丽冷巴（热度：237958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A9%86%E5%A9%86%E5%81%9A%E9%A5%AD%E5%85%A8%E5%AE%B6%E5%90%83%E6%B3%A1%E8%8F%9C%23" target="weibo">
-韩国婆婆做饭全家吃泡菜（热度：237698）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%97%AA%E7%94%B5%23" target="weibo">
-北京闪电（热度：237633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E5%88%86%E9%B8%A1%E5%A4%9A%E5%87%BA%E4%B8%80%E5%8F%AA%E8%A2%AB%E5%88%A4%E5%90%83%E6%8E%89%E5%86%8D%E7%A6%BB%23" target="weibo">
-夫妻离婚分鸡多出一只被判吃掉再离（热度：237101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B8%86%E8%BE%9F%E8%B0%A3%E4%B8%8E%E5%86%AF%E5%B0%8F%E5%88%9A%E7%A6%BB%E5%A9%9A%23" target="weibo">
-徐帆辟谣与冯小刚离婚（热度：236744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%8D%95%E7%8B%AC%E5%9C%A8%E5%AE%B6%E6%97%B6%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%8A%E9%97%A8%E6%8A%BD%E8%A1%80%23" target="weibo">
-小孩单独在家时被工作人员上门抽血（热度：236278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8A%93%E6%8B%8D%E6%88%90%E5%8A%9F%23" target="weibo">
-迪丽热巴抓拍成功（热度：236207）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E9%9C%8D%E5%BB%BA%E5%8D%8E%E7%BB%93%E5%A9%9A%E4%B9%9D%E5%91%A8%E5%B9%B4%23" target="weibo">
-林心如霍建华结婚九周年（热度：236171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%BA%97%E5%A4%A7%E9%9B%AA%E5%87%BA%E7%88%86%E5%89%A7%E7%9A%84%E7%8E%84%E5%AD%A6%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
-横店大雪出爆剧的玄学含金量还在上升（热度：235961）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%A6%81%E7%BB%99%E5%BC%A0%E8%89%BA%E5%85%B4%E6%89%93%E7%94%B5%E8%AF%9D%23" target="weibo">
-孙红雷要给张艺兴打电话（热度：235667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%A5%B3%E6%97%B6%E4%BB%A3%E5%AE%8C%E6%95%B4%E4%BD%93%E8%81%9A%E4%BC%9A%23" target="weibo">
-少女时代完整体聚会（热度：235450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%94%B6%E5%88%B0%E6%A2%A6%E4%B8%AD%E6%83%85%E6%9D%86%23" target="weibo">
-王楚钦收到梦中情杆（热度：235400）
 </a>
 </li>
 

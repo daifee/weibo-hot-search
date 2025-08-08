@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754653317906,
+  "endTime": 1754657906635,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1907,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4783468,
+      "num": 4783468,
+      "word": "歌手总决赛",
+      "onboard_time": 1754652742,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4777046,
       "num": 416163,
       "word": "祝绪丹秒删",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1746539842,
       "rank": 0,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 3923701,
-      "num": 3923701,
-      "word": "国足无缘2026世界杯",
-      "onboard_time": 1749138982,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

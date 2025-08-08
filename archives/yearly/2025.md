@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/08 19:41:57
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/08 20:58:26
 </p>
 </blockquote>
 <p>
@@ -1443,6 +1443,12 @@ ALin秒了（热度：6171972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+歌手总决赛（热度：4783468）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E7%A7%92%E5%88%A0%23" target="weibo">
 祝绪丹秒删（热度：4777046）
 </a>
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82%23" target="weibo">
 斯凯奇宣布退市（热度：3931337）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%97%A0%E7%BC%982026%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-国足无缘2026世界杯（热度：3923701）
 </a>
 </li>
 
