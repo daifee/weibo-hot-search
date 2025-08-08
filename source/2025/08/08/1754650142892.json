@@ -1,0 +1,410 @@
+{
+  "runTime": 1754650142892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776126,
+        "num": 1124180,
+        "word": "台湾是一个省哪来的国防预算",
+        "onboard_time": 1754639182,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520959,
+        "num": 520959,
+        "word": "果茶 含糖量",
+        "onboard_time": 1754642062,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 3325,
+        "num": 469539,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761754,
+        "num": 469335,
+        "word": "女儿晕倒后妈妈无动于衷",
+        "onboard_time": 1754643324,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661063,
+        "num": 468796,
+        "word": "日本癌症突破性技术向中国开放",
+        "onboard_time": 1754643082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464753,
+        "num": 464753,
+        "word": "管虎导演",
+        "onboard_time": 1754646322,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 401388,
+        "num": 401388,
+        "word": "广州白云区山体垮塌7人遇难",
+        "onboard_time": 1754647221,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 390463,
+        "num": 390463,
+        "word": "甘肃榆中县山洪灾害已致10死33失联",
+        "onboard_time": 1754644102,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 372688,
+        "num": 372688,
+        "word": "颖儿是怕我惦记付辛博",
+        "onboard_time": 1754647582,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169628,
+        "num": 372316,
+        "word": "男子梦中被追跳下3楼醒来在空中",
+        "onboard_time": 1754645663,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751723,
+        "num": 371753,
+        "word": "李溪芮变化",
+        "onboard_time": 1754649382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495482,
+        "num": 370860,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439943,
+        "num": 369444,
+        "word": "古偶扑街史",
+        "onboard_time": 1754642483,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369430,
+        "num": 369430,
+        "word": "乘客在飞机上拍到超清晰UFO",
+        "onboard_time": 1754640803,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 349465,
+        "num": 349465,
+        "word": "第一个让张婧仪戴眼镜的人是天才",
+        "onboard_time": 1754645902,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298491,
+        "num": 298491,
+        "word": "孙俪没档期 邓超会戴假发去当替身",
+        "onboard_time": 1754638161,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246971,
+        "num": 278018,
+        "word": "翁杰回应抄袭",
+        "onboard_time": 1754647341,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233870,
+        "num": 272107,
+        "word": "蔡徐坤新歌MV",
+        "onboard_time": 1754649021,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266889,
+        "num": 266889,
+        "word": "男子被枪杀地80米外有十几人在干活",
+        "onboard_time": 1754647281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121480,
+        "num": 245498,
+        "word": "不能跪跪久了就站不起来了",
+        "onboard_time": 1754649081,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240570,
+        "num": 240570,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215808,
+        "num": 215808,
+        "word": "甘肃榆中强降雨引发山洪",
+        "onboard_time": 1754645602,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 204048,
+        "num": 204048,
+        "word": "于正宣布要演戏",
+        "onboard_time": 1754640383,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194300,
+        "num": 194300,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158566,
+        "num": 158566,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109804,
+        "num": 155136,
+        "word": "首台索尔芯片轿车NOA景区实测",
+        "onboard_time": 1754645722,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153293,
+        "num": 153293,
+        "word": "张予曦自拍",
+        "onboard_time": 1754649141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153271,
+        "num": 153271,
+        "word": "李贤在金发",
+        "onboard_time": 1754649802,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151259,
+        "num": 151259,
+        "word": "父亲第一次见到女儿男朋友反应",
+        "onboard_time": 1754646142,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147044,
+        "num": 147044,
+        "word": "杨幂新剧抠门的父亲居然有两个",
+        "onboard_time": 1754649382,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144828,
+        "num": 144828,
+        "word": "董璇 他的世界里只有我",
+        "onboard_time": 1754645902,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136018,
+        "num": 136018,
+        "word": "全世界都知道沙溢头发不多了",
+        "onboard_time": 1754647522,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130223,
+        "num": 130223,
+        "word": "王源谈私生",
+        "onboard_time": 1754648360,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129684,
+        "num": 129684,
+        "word": "男子赊45条烟店主吃不下睡不好",
+        "onboard_time": 1754648302,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127404,
+        "num": 127404,
+        "word": "王一博百雀羚见面会",
+        "onboard_time": 1754643502,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125498,
+        "num": 125498,
+        "word": "人社局回应胖东来招聘服刑人员",
+        "onboard_time": 1754630422,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121812,
+        "num": 121812,
+        "word": "王楚钦训练引日本教练旁观",
+        "onboard_time": 1754649561,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121208,
+        "num": 121208,
+        "word": "大学也开始建家长群了",
+        "onboard_time": 1754648002,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27801,
+        "num": 120348,
+        "word": "王星越臀部翘到可以顶一瓶汽水",
+        "onboard_time": 1754649681,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18699,
+        "num": 120141,
+        "word": "周也 嘴巴都督",
+        "onboard_time": 1754649681,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120072,
+        "num": 120072,
+        "word": "打歌2025",
+        "onboard_time": 1754649261,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113658,
+        "num": 113658,
+        "word": "披荆斩棘5",
+        "onboard_time": 1754649681,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109181,
+        "num": 109181,
+        "word": "亿万富豪回应与17岁儿子置换血浆",
+        "onboard_time": 1754643681,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109154,
+        "num": 109154,
+        "word": "硅谷换血富豪每天吃40粒抗衰药丸",
+        "onboard_time": 1754648782,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107804,
+        "num": 107804,
+        "word": "刘宇宁的舞是王玉雯教的",
+        "onboard_time": 1754645961,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91478,
+        "num": 91478,
+        "word": "时代峰峻把声明当朋友圈发",
+        "onboard_time": 1754645722,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90160,
+        "num": 90160,
+        "word": "孙颖莎与新星闫禹橦训练",
+        "onboard_time": 1754647162,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86066,
+        "num": 86066,
+        "word": "编成海龟汤得猜一宿",
+        "onboard_time": 1754649442,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84679,
+        "num": 84679,
+        "word": "竹荪炖鸡汤",
+        "onboard_time": 1754649802,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84240,
+        "num": 84240,
+        "word": "江西一景区1.27亿建室外扶梯试运营",
+        "onboard_time": 1754647281,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#少年强青年强则中国强#"
+    }
+  }
+}

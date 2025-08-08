@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754649061654,
+  "endTime": 1754650142892,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -169,6 +169,14 @@
       "onboard_time": 1754643082,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 751723,
+      "num": 371753,
+      "word": "李溪芮变化",
+      "onboard_time": 1754649382,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 726635,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401388,
+      "num": 401388,
+      "word": "广州白云区山体垮塌7人遇难",
+      "onboard_time": 1754647221,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 399762,
       "num": 455575,
       "word": "甘肃榆中县山洪灾害已致10死33失联",
@@ -484,19 +500,19 @@
     },
     {
       "raw_hot": 380273,
-      "num": 240618,
+      "num": 349465,
       "word": "第一个让张婧仪戴眼镜的人是天才",
       "onboard_time": 1754645902,
       "rank": 23,
       "category": "艺人"
     },
     {
-      "raw_hot": 366490,
-      "num": 366490,
-      "word": "广州白云区山体垮塌7人遇难",
-      "onboard_time": 1754647221,
-      "rank": 8,
-      "category": "突发/灾害"
+      "raw_hot": 372688,
+      "num": 372688,
+      "word": "颖儿是怕我惦记付辛博",
+      "onboard_time": 1754647582,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 360561,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266889,
+      "num": 266889,
+      "word": "男子被枪杀地80米外有十几人在干活",
+      "onboard_time": 1754647281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266391,
       "num": 266391,
       "word": "孙楠长成大姑娘了",
@@ -643,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248662,
-      "num": 248662,
-      "word": "颖儿是怕我惦记付辛博",
-      "onboard_time": 1754647582,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 246971,
+      "num": 278018,
+      "word": "翁杰回应抄袭",
+      "onboard_time": 1754647341,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 245319,
@@ -691,12 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234317,
-      "num": 172870,
-      "word": "男子被枪杀地80米外有十几人在干活",
-      "onboard_time": 1754647281,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 233870,
+      "num": 272107,
+      "word": "蔡徐坤新歌MV",
+      "onboard_time": 1754649021,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 233222,
@@ -747,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218923,
-      "num": 218923,
-      "word": "翁杰回应抄袭",
-      "onboard_time": 1754647341,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 217696,
       "num": 217696,
       "word": "李嫣19岁近照曝光",
@@ -769,6 +785,14 @@
       "onboard_time": 1754623220,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215808,
+      "num": 514711,
+      "word": "甘肃榆中强降雨引发山洪",
+      "onboard_time": 1754645602,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 214838,
@@ -857,14 +881,6 @@
       "onboard_time": 1754641044,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202708,
-      "num": 514711,
-      "word": "甘肃榆中强降雨引发山洪",
-      "onboard_time": 1754645602,
-      "rank": 41,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 201582,
@@ -1035,20 +1051,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169628,
+      "num": 372316,
+      "word": "男子梦中被追跳下3楼醒来在空中",
+      "onboard_time": 1754645663,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169527,
       "num": 169527,
       "word": "你的降临今日开播",
       "onboard_time": 1754636963,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168963,
-      "num": 168963,
-      "word": "男子梦中被追跳下3楼醒来在空中",
-      "onboard_time": 1754645663,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168368,
@@ -1243,6 +1259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153293,
+      "num": 153293,
+      "word": "张予曦自拍",
+      "onboard_time": 1754649141,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153271,
+      "num": 153271,
+      "word": "李贤在金发",
+      "onboard_time": 1754649802,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152526,
       "num": 152526,
       "word": "时代峰峻把声明当朋友圈发",
@@ -1355,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147044,
+      "num": 147044,
+      "word": "杨幂新剧抠门的父亲居然有两个",
+      "onboard_time": 1754649382,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146431,
       "num": 146431,
       "word": "小佳辟谣脑瘫是因为爱喝酒",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1754630422,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144828,
+      "num": 163437,
+      "word": "董璇 他的世界里只有我",
+      "onboard_time": 1754645902,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 144680,
@@ -1619,12 +1667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130223,
+      "num": 175847,
+      "word": "王源谈私生",
+      "onboard_time": 1754648360,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130086,
       "num": 130086,
       "word": "倪妮在映待播全都吻了上来",
       "onboard_time": 1754644462,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129684,
+      "num": 129684,
+      "word": "男子赊45条烟店主吃不下睡不好",
+      "onboard_time": 1754648302,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129580,
@@ -1683,14 +1747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124415,
-      "num": 163437,
-      "word": "董璇 他的世界里只有我",
-      "onboard_time": 1754645902,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124396,
       "num": 124396,
       "word": "台风杨柳",
@@ -1731,12 +1787,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121812,
+      "num": 121812,
+      "word": "王楚钦训练引日本教练旁观",
+      "onboard_time": 1754649561,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121550,
       "num": 121550,
       "word": "生前你不理财死后财不理你",
       "onboard_time": 1754645842,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121480,
+      "num": 245498,
+      "word": "不能跪跪久了就站不起来了",
+      "onboard_time": 1754649081,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 121208,
+      "num": 121208,
+      "word": "大学也开始建家长群了",
+      "onboard_time": 1754648002,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120941,
@@ -1753,6 +1833,14 @@
       "onboard_time": 1754571023,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120072,
+      "num": 120072,
+      "word": "打歌2025",
+      "onboard_time": 1754649261,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 119574,
@@ -1827,20 +1915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114201,
-      "num": 114201,
-      "word": "蔡徐坤新歌MV",
-      "onboard_time": 1754649021,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 114027,
       "num": 118250,
       "word": "甲乙真的要吊着睡觉吗",
       "onboard_time": 1754627183,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113658,
+      "num": 113658,
+      "word": "披荆斩棘5",
+      "onboard_time": 1754649681,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 113280,
@@ -1873,14 +1961,6 @@
       "onboard_time": 1754568444,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111516,
-      "num": 111516,
-      "word": "大学也开始建家长群了",
-      "onboard_time": 1754648002,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111193,
@@ -1923,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109154,
+      "num": 109154,
+      "word": "硅谷换血富豪每天吃40粒抗衰药丸",
+      "onboard_time": 1754648782,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108961,
       "num": 108961,
       "word": "少林寺回应不让入内避雨",
@@ -1959,14 +2047,6 @@
       "num": 105899,
       "word": "马库斯说要努力像中国人民一样勇敢",
       "onboard_time": 1754576664,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105850,
-      "num": 105850,
-      "word": "男子赊45条烟店主吃不下睡不好",
-      "onboard_time": 1754648302,
       "rank": 41,
       "category": "民生新闻"
     },
@@ -2107,14 +2187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95267,
-      "num": 95267,
-      "word": "硅谷换血富豪每天吃40粒抗衰药丸",
-      "onboard_time": 1754648782,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95090,
       "num": 95090,
       "word": "桥本帆乃香回应对阵孙颖莎",
@@ -2219,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86066,
+      "num": 86066,
+      "word": "编成海龟汤得猜一宿",
+      "onboard_time": 1754649442,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85873,
       "num": 105548,
       "word": "成都世运会首金诞生",
@@ -2233,6 +2313,22 @@
       "onboard_time": 1754644102,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84679,
+      "num": 84679,
+      "word": "竹荪炖鸡汤",
+      "onboard_time": 1754649802,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 84240,
+      "num": 161101,
+      "word": "江西一景区1.27亿建室外扶梯试运营",
+      "onboard_time": 1754647281,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84035,
@@ -2395,14 +2491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68287,
-      "num": 161101,
-      "word": "江西一景区1.27亿建室外扶梯试运营",
-      "onboard_time": 1754647281,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68150,
       "num": 68150,
       "word": "肖战对假发说冒犯了",
@@ -2553,14 +2641,6 @@
       "onboard_time": 1754588177,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53045,
-      "num": 175847,
-      "word": "王源谈私生",
-      "onboard_time": 1754648360,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 52087,
@@ -2771,6 +2851,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27801,
+      "num": 120348,
+      "word": "王星越臀部翘到可以顶一瓶汽水",
+      "onboard_time": 1754649681,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25402,
       "num": 38899,
       "word": "秋天第一杯奶茶凭啥年年火",
@@ -2825,6 +2913,14 @@
       "onboard_time": 1754602754,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18699,
+      "num": 120141,
+      "word": "周也 嘴巴都督",
+      "onboard_time": 1754649681,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 15616,
@@ -2935,6 +3031,9 @@
     },
     {
       "word": "#从习近平的铿锵话语中感悟体育精神#"
+    },
+    {
+      "word": "#少年强青年强则中国强#"
     }
   ]
 }
