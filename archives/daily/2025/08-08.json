@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754631327224,
+  "endTime": 1754632387029,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -57,6 +57,14 @@
       "onboard_time": 1754608278,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 965412,
+      "num": 965412,
+      "word": "人社局回应胖东来招聘服刑人员",
+      "onboard_time": 1754630422,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 955191,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527124,
+      "num": 527124,
+      "word": "女子被误认为日本人后霸气回怼",
+      "onboard_time": 1754627904,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 526720,
       "num": 526720,
       "word": "赵露思直播带火葛根茶负责人发声",
@@ -235,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445475,
-      "num": 445475,
-      "word": "女子被误认为日本人后霸气回怼",
-      "onboard_time": 1754627904,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 421415,
       "num": 183547,
       "word": "上海地铁一男子辱骂乘客乡下人滚",
@@ -275,12 +283,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 388296,
+      "num": 388296,
+      "word": "唐香玉为上浪姐差点拒绝喜单2",
+      "onboard_time": 1754628564,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381803,
       "num": 381803,
       "word": "BLACKPINK九周年合照",
       "onboard_time": 1754584161,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331328,
+      "num": 331328,
+      "word": "夏之光转发宣传黄俊捷新剧",
+      "onboard_time": 1754631142,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 331311,
@@ -305,14 +329,6 @@
       "onboard_time": 1754581644,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308954,
-      "num": 308954,
-      "word": "唐香玉为上浪姐差点拒绝喜单2",
-      "onboard_time": 1754628564,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 304774,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278834,
+      "num": 278834,
+      "word": "握手 摸玉足",
+      "onboard_time": 1754629823,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275427,
       "num": 234159,
       "word": "女子点100份三文鱼吃了吐吐了吃",
@@ -371,28 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272446,
-      "num": 272446,
-      "word": "人社局回应胖东来招聘服刑人员",
-      "onboard_time": 1754630422,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266391,
       "num": 266391,
       "word": "孙楠长成大姑娘了",
       "onboard_time": 1754578524,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258132,
-      "num": 258132,
-      "word": "握手 摸玉足",
-      "onboard_time": 1754629823,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 249867,
@@ -547,6 +555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201582,
+      "num": 201582,
+      "word": "徐艺洋要的不是照片是出片",
+      "onboard_time": 1754630903,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201239,
       "num": 242051,
       "word": "歌手2025总决赛",
@@ -585,6 +601,14 @@
       "onboard_time": 1754624782,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191401,
+      "num": 191401,
+      "word": "王安宇安安公主",
+      "onboard_time": 1754630723,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 186851,
@@ -627,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173114,
+      "num": 173114,
+      "word": "沈月原来是美男",
+      "onboard_time": 1754630662,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171553,
       "num": 171553,
       "word": "iPhone17Pro或存储翻倍",
@@ -641,14 +673,6 @@
       "onboard_time": 1754624183,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170195,
-      "num": 170195,
-      "word": "王安宇安安公主",
-      "onboard_time": 1754630723,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 168368,
@@ -681,22 +705,6 @@
       "onboard_time": 1754630243,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161793,
-      "num": 161793,
-      "word": "徐艺洋要的不是照片是出片",
-      "onboard_time": 1754630903,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161558,
-      "num": 159495,
-      "word": "夏之光转发宣传黄俊捷新剧",
-      "onboard_time": 1754631142,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 160631,
@@ -751,14 +759,6 @@
       "num": 155479,
       "word": "朱孝天情商",
       "onboard_time": 1754628503,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 154750,
-      "num": 154750,
-      "word": "沈月原来是美男",
-      "onboard_time": 1754630662,
       "rank": 34,
       "category": "艺人"
     },
@@ -859,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142990,
+      "num": 142990,
+      "word": "学过英语就知道e有时候不发音",
+      "onboard_time": 1754631622,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142695,
       "num": 142695,
       "word": "人均2000元合租拿下深圳独栋别墅",
@@ -881,6 +889,14 @@
       "onboard_time": 1754584401,
       "rank": 40,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 141832,
+      "num": 141832,
+      "word": "刘昊然骨相",
+      "onboard_time": 1754631264,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 141681,
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 132510,
-      "num": 132510,
+      "num": 134452,
       "word": "姜潮麦迪娜合体回应流言蜚语",
       "onboard_time": 1754626525,
       "rank": 39,
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 132050,
-      "num": 132050,
+      "num": 135327,
       "word": "冯建宇十年间的眼神变化",
       "onboard_time": 1754627183,
       "rank": 40,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1754606237,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125042,
+      "num": 125042,
+      "word": "眼睛度数能不能恢复出厂设置",
+      "onboard_time": 1754630183,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 124958,
@@ -1067,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116019,
+      "num": 116019,
+      "word": "一块五买一只虾做了13个菜",
+      "onboard_time": 1754631863,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115076,
       "num": 115076,
       "word": "孙千马甲线好明显",
@@ -1091,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112886,
-      "num": 112886,
-      "word": "刘昊然骨相",
-      "onboard_time": 1754631264,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111564,
       "num": 111564,
       "word": "肖战直播",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1754614220,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111160,
+      "num": 111160,
+      "word": "养狗人看见这一幕天塌了",
+      "onboard_time": 1754632104,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110006,
@@ -1267,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88951,
+      "num": 937876,
+      "word": "中国队出场bgm是茉莉花",
+      "onboard_time": 1754628865,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87241,
       "num": 87241,
       "word": "锦月如歌腾讯站内热度值破24000",
@@ -1321,14 +1361,6 @@
       "onboard_time": 1754578644,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 78647,
-      "num": 770959,
-      "word": "中国队出场bgm是茉莉花",
-      "onboard_time": 1754628865,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78029,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1754571324,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 50694,
+      "num": 306800,
+      "word": "12省区市大到暴雨",
+      "onboard_time": 1754631923,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50042,
@@ -1777,6 +1817,9 @@
     },
     {
       "word": "#今天是全民健身日#"
+    },
+    {
+      "word": "#体育强国的基础在群众体育#"
     }
   ]
 }

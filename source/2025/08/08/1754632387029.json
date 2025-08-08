@@ -1,0 +1,410 @@
+{
+  "runTime": 1754632387029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1101125,
+        "num": 1176180,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 965412,
+        "num": 965412,
+        "word": "人社局回应胖东来招聘服刑人员",
+        "onboard_time": 1754630422,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88951,
+        "num": 937876,
+        "word": "中国队出场bgm是茉莉花",
+        "onboard_time": 1754628865,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 922613,
+        "num": 922613,
+        "word": "胖东来为有犯罪前科人员留20个岗位",
+        "onboard_time": 1754626764,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528518,
+        "num": 528518,
+        "word": "小学女生花光父母14万刷礼物后辍学",
+        "onboard_time": 1754625802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527124,
+        "num": 527124,
+        "word": "女子被误认为日本人后霸气回怼",
+        "onboard_time": 1754627904,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 388296,
+        "num": 388296,
+        "word": "唐香玉为上浪姐差点拒绝喜单2",
+        "onboard_time": 1754628564,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386416,
+        "num": 386416,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331328,
+        "num": 331328,
+        "word": "夏之光转发宣传黄俊捷新剧",
+        "onboard_time": 1754631142,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307196,
+        "num": 307196,
+        "word": "考上北大护理学院骑手称不复读",
+        "onboard_time": 1754625203,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 50694,
+        "num": 306800,
+        "word": "12省区市大到暴雨",
+        "onboard_time": 1754631923,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1784057,
+        "num": 306721,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 790694,
+        "num": 306708,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306581,
+        "num": 306581,
+        "word": "具惠善发文喊话安宰贤",
+        "onboard_time": 1754617641,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278834,
+        "num": 278834,
+        "word": "握手 摸玉足",
+        "onboard_time": 1754629823,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259705,
+        "num": 259705,
+        "word": "Jennie 蝴蝶结",
+        "onboard_time": 1754624963,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259030,
+        "num": 259030,
+        "word": "红牛 王一博",
+        "onboard_time": 1754622863,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231645,
+        "num": 231645,
+        "word": "网红刘大悦30岁才摆脱童年创伤",
+        "onboard_time": 1754622621,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207886,
+        "num": 207886,
+        "word": "马龙孙颖莎王楚钦陈梦世乒赛宣传片",
+        "onboard_time": 1754626224,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206544,
+        "num": 206544,
+        "word": "官方回应刘晓庆被举报偷税",
+        "onboard_time": 1754623704,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288166,
+        "num": 205014,
+        "word": "妈妈让女儿辞职照顾自己补偿490万",
+        "onboard_time": 1754615181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201582,
+        "num": 201582,
+        "word": "徐艺洋要的不是照片是出片",
+        "onboard_time": 1754630903,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191401,
+        "num": 191401,
+        "word": "王安宇安安公主",
+        "onboard_time": 1754630723,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190874,
+        "num": 190874,
+        "word": "男子为减肥送外卖35天瘦17斤",
+        "onboard_time": 1754625443,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173114,
+        "num": 173114,
+        "word": "沈月原来是美男",
+        "onboard_time": 1754630662,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172261,
+        "num": 172261,
+        "word": "李嫣19岁近照曝光",
+        "onboard_time": 1754626944,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165388,
+        "num": 165388,
+        "word": "日本和印度强硬表态",
+        "onboard_time": 1754620701,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161796,
+        "num": 161796,
+        "word": "贾乃亮带甜馨去新加坡",
+        "onboard_time": 1754623342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158328,
+        "num": 158328,
+        "word": "刘浩存换回微商头像",
+        "onboard_time": 1754614942,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101044,
+        "num": 157892,
+        "word": "王小利我是美女我认了",
+        "onboard_time": 1754629883,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157721,
+        "num": 157721,
+        "word": "李承铉剃头之后每天可以多睡30分钟了",
+        "onboard_time": 1754630243,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156746,
+        "num": 156746,
+        "word": "女子点100份三文鱼吃了吐吐了吃",
+        "onboard_time": 1754610200,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154044,
+        "num": 154044,
+        "word": "恋与深空",
+        "onboard_time": 1754619321,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150716,
+        "num": 150716,
+        "word": "披荆斩棘",
+        "onboard_time": 1754619562,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142990,
+        "num": 142990,
+        "word": "学过英语就知道e有时候不发音",
+        "onboard_time": 1754631622,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141832,
+        "num": 141832,
+        "word": "刘昊然骨相",
+        "onboard_time": 1754631264,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141801,
+        "num": 141801,
+        "word": "黄一鸣力挺赵露思",
+        "onboard_time": 1754629223,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136708,
+        "num": 136708,
+        "word": "胖东来新店招1千人200个给退伍军人",
+        "onboard_time": 1754630544,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101622,
+        "num": 135327,
+        "word": "冯建宇十年间的眼神变化",
+        "onboard_time": 1754627183,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55693,
+        "num": 134452,
+        "word": "姜潮麦迪娜合体回应流言蜚语",
+        "onboard_time": 1754626525,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "重庆辟谣发了肖战",
+        "onboard_time": 1754627965,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127285,
+        "num": 127285,
+        "word": "公主抱 祁煜",
+        "onboard_time": 1754627304,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125042,
+        "num": 125042,
+        "word": "眼睛度数能不能恢复出厂设置",
+        "onboard_time": 1754630183,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124461,
+        "num": 124461,
+        "word": "东极岛",
+        "onboard_time": 1754613742,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123817,
+        "num": 123817,
+        "word": "朱孝天情商",
+        "onboard_time": 1754628503,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119950,
+        "num": 119950,
+        "word": "单依纯新歌有趣",
+        "onboard_time": 1754628683,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116019,
+        "num": 116019,
+        "word": "一块五买一只虾做了13个菜",
+        "onboard_time": 1754631863,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111160,
+        "num": 111160,
+        "word": "养狗人看见这一幕天塌了",
+        "onboard_time": 1754632104,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102479,
+        "num": 102479,
+        "word": "刘骏也是好起来了",
+        "onboard_time": 1754630422,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102374,
+        "num": 102374,
+        "word": "贝儿知道鲍蕾陆毅上婚综的反应",
+        "onboard_time": 1754622801,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国的基础在群众体育#"
+    }
+  }
+}
