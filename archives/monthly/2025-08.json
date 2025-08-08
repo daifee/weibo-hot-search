@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754671615094,
+  "endTime": 1754673806392,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 1228769,
-      "num": 212514,
+      "num": 617959,
       "word": "那英含金量",
       "onboard_time": 1754669063,
       "rank": 6,
@@ -5107,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406920,
+      "num": 142452,
+      "word": "耳帝",
+      "onboard_time": 1754669603,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406770,
       "num": 406770,
       "word": "经常运动后身体会发生的变化",
@@ -5281,14 +5289,6 @@
       "onboard_time": 1754651361,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 394149,
-      "num": 142452,
-      "word": "耳帝",
-      "onboard_time": 1754669603,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 394074,
@@ -16403,6 +16403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139785,
+      "num": 150355,
+      "word": "爱出门的人能量很高",
+      "onboard_time": 1754669482,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139736,
       "num": 139736,
       "word": "含金量超高的执旗手们入场",
@@ -17529,14 +17537,6 @@
       "onboard_time": 1754445201,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133415,
-      "num": 150355,
-      "word": "爱出门的人能量很高",
-      "onboard_time": 1754669482,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133360,
@@ -22491,6 +22491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 99480,
+      "num": 91694,
+      "word": "刘晓庆已被举报人起诉",
+      "onboard_time": 1754672059,
+      "rank": 30,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 99434,
       "num": 153035,
       "word": "确保幼儿园教师工资及时足额发放",
@@ -23425,6 +23433,14 @@
       "onboard_time": 1754215285,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91244,
+      "num": 91244,
+      "word": "ALin回应念肖战微博改名热搜",
+      "onboard_time": 1754672299,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 91049,
@@ -24713,6 +24729,14 @@
       "onboard_time": 1754186243,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71778,
+      "num": 95116,
+      "word": "心跳1分钟多少次最健康",
+      "onboard_time": 1754672360,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71574,
@@ -26993,6 +27017,14 @@
       "onboard_time": 1754037863,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33807,
+      "num": 92943,
+      "word": "李佳薇VCR",
+      "onboard_time": 1754665354,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 33429,

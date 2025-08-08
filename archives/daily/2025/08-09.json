@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754671615094,
+  "endTime": 1754673806392,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1228769,
-      "num": 212514,
+      "num": 617959,
       "word": "那英含金量",
       "onboard_time": 1754669063,
       "rank": 6,
@@ -83,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 394149,
+      "raw_hot": 406920,
       "num": 142452,
       "word": "耳帝",
       "onboard_time": 1754669603,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187929,
+      "num": 187929,
+      "word": "24小时退房制为啥不能成统一标准",
+      "onboard_time": 1754658086,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 177122,
       "num": 177122,
       "word": "中国女子坠入日本东京大学烟囱死亡",
@@ -185,14 +193,6 @@
       "onboard_time": 1754655803,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165308,
-      "num": 165308,
-      "word": "24小时退房制为啥不能成统一标准",
-      "onboard_time": 1754658086,
-      "rank": 18,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 164551,
@@ -251,7 +251,7 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 133415,
+      "raw_hot": 139785,
       "num": 150355,
       "word": "爱出门的人能量很高",
       "onboard_time": 1754669482,
@@ -331,6 +331,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 100722,
+      "num": 122097,
+      "word": "Shanks事件女生发文",
+      "onboard_time": 1754651361,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 99480,
+      "num": 91694,
+      "word": "刘晓庆已被举报人起诉",
+      "onboard_time": 1754672059,
+      "rank": 30,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 97495,
       "num": 189264,
       "word": "男子给失足女转138万前妻起诉被驳",
@@ -347,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91726,
-      "num": 122097,
-      "word": "Shanks事件女生发文",
-      "onboard_time": 1754651361,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 91244,
+      "num": 91244,
+      "word": "ALin回应念肖战微博改名热搜",
+      "onboard_time": 1754672299,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 88342,
@@ -377,6 +393,14 @@
       "onboard_time": 1754667085,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71778,
+      "num": 95116,
+      "word": "心跳1分钟多少次最健康",
+      "onboard_time": 1754672360,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 70650,
@@ -427,6 +451,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41106,
+      "num": 75557,
+      "word": "女子猛喝奶茶后咳血丝查出咽喉反流",
+      "onboard_time": 1754664446,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40473,
+      "num": 75629,
+      "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
+      "onboard_time": 1754663606,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33807,
+      "num": 92943,
+      "word": "李佳薇VCR",
+      "onboard_time": 1754665354,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8622,
       "num": 1516212,
       "word": "公办民办幼儿园均可享受免保教费",
@@ -438,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同普京通电话#"
+    },
+    {
+      "word": "#做好防汛救灾各项工作#"
     }
   ]
 }
