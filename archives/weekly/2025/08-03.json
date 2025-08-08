@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754670816435,
+  "endTime": 1754671615094,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -2283,6 +2283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 651639,
+      "num": 651639,
+      "word": "男子转嫖娼对象138万原配追讨败诉",
+      "onboard_time": 1754666845,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 647246,
       "num": 647246,
       "word": "赵薇被冻结1590万股权",
@@ -2721,14 +2729,6 @@
       "onboard_time": 1754546003,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 583381,
-      "num": 583381,
-      "word": "男子转嫖娼对象138万原配追讨败诉",
-      "onboard_time": 1754666845,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 582915,
@@ -4107,6 +4107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 394149,
+      "num": 142452,
+      "word": "耳帝",
+      "onboard_time": 1754669603,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394074,
       "num": 394074,
       "word": "胡一天出道以来第一个二番",
@@ -4857,14 +4865,6 @@
       "onboard_time": 1754558123,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325476,
-      "num": 142452,
-      "word": "耳帝",
-      "onboard_time": 1754669603,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 325141,
@@ -12867,6 +12867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133415,
+      "num": 150355,
+      "word": "爱出门的人能量很高",
+      "onboard_time": 1754669482,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133360,
       "num": 137178,
       "word": "李兰迪敖瑞鹏 人鬼情未了",
@@ -13777,14 +13785,6 @@
       "onboard_time": 1754282665,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126498,
-      "num": 126498,
-      "word": "爱出门的人能量很高",
-      "onboard_time": 1754669482,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126487,
@@ -16929,6 +16929,14 @@
       "onboard_time": 1754612182,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95973,
+      "num": 95973,
+      "word": "周笔畅舞台",
+      "onboard_time": 1754670801,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 95905,

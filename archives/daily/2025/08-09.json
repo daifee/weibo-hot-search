@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754670816435,
+  "endTime": 1754671615094,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -35,12 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 753969,
+      "raw_hot": 757370,
       "num": 207457,
       "word": "难听",
       "onboard_time": 1754661506,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651639,
+      "num": 651639,
+      "word": "男子转嫖娼对象138万原配追讨败诉",
+      "onboard_time": 1754666845,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 650485,
@@ -49,14 +57,6 @@
       "onboard_time": 1754657483,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 583381,
-      "num": 583381,
-      "word": "男子转嫖娼对象138万原配追讨败诉",
-      "onboard_time": 1754666845,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 531128,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394149,
+      "num": 142452,
+      "word": "耳帝",
+      "onboard_time": 1754669603,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384868,
       "num": 143420,
       "word": "王力宏赛后发文",
@@ -96,14 +104,6 @@
       "word": "陈楚生 获奖之作",
       "onboard_time": 1754662945,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 325476,
-      "num": 142452,
-      "word": "耳帝",
-      "onboard_time": 1754669603,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -163,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172277,
-      "num": 172277,
+      "raw_hot": 177122,
+      "num": 177122,
       "word": "中国女子坠入日本东京大学烟囱死亡",
       "onboard_time": 1754652322,
       "rank": 13,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165308,
+      "num": 165308,
+      "word": "24小时退房制为啥不能成统一标准",
+      "onboard_time": 1754658086,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 164551,
       "num": 164551,
       "word": "食贫道卧底韩国邪教",
@@ -201,14 +209,6 @@
       "onboard_time": 1754649382,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155564,
-      "num": 155564,
-      "word": "24小时退房制为啥不能成统一标准",
-      "onboard_time": 1754658086,
-      "rank": 18,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 149381,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 143709,
-      "num": 120116,
+      "num": 121545,
       "word": "Beni能不能去浪姐",
       "onboard_time": 1754660125,
       "rank": 36,
@@ -251,8 +251,8 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 126498,
-      "num": 126498,
+      "raw_hot": 133415,
+      "num": 150355,
       "word": "爱出门的人能量很高",
       "onboard_time": 1754669482,
       "rank": 29,
@@ -339,6 +339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95973,
+      "num": 95973,
+      "word": "周笔畅舞台",
+      "onboard_time": 1754670801,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91726,
+      "num": 122097,
+      "word": "Shanks事件女生发文",
+      "onboard_time": 1754651361,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88342,
       "num": 109111,
       "word": "黄奕直播",
@@ -387,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61564,
+      "num": 100361,
+      "word": "25岁做了管理层后性情大变",
+      "onboard_time": 1754657063,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57523,
       "num": 106863,
       "word": "仙逆神临之战又名王林救妻记",
       "onboard_time": 1754668342,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 55912,
+      "num": 92789,
+      "word": "男子赌气离家29年领退休金时现身",
+      "onboard_time": 1754658625,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8622,
