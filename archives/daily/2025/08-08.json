@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754652376433,
+  "endTime": 1754653317906,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 773806,
+      "num": 1123809,
+      "word": "歌手总决赛",
+      "onboard_time": 1754652742,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 766939,
       "num": 664895,
       "word": "日本癌症突破性技术向中国开放",
@@ -323,11 +331,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574868,
+      "num": 574868,
+      "word": "颖儿是怕我惦记付辛博",
+      "onboard_time": 1754647582,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568266,
       "num": 568266,
       "word": "女子在景区摸马肚子被狠咬一口",
       "onboard_time": 1754613203,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562181,
+      "num": 389472,
+      "word": "男子被枪杀地80米外有十几人在干活",
+      "onboard_time": 1754647281,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -387,12 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 473260,
-      "num": 473260,
-      "word": "颖儿是怕我惦记付辛博",
-      "onboard_time": 1754647582,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 480851,
+      "num": 384948,
+      "word": "歌手预测",
+      "onboard_time": 1754651782,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 469003,
@@ -425,6 +449,14 @@
       "onboard_time": 1754630544,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423269,
+      "num": 314598,
+      "word": "王一博这我哪知道啊",
+      "onboard_time": 1754651842,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 421415,
@@ -484,19 +516,11 @@
     },
     {
       "raw_hot": 395536,
-      "num": 305332,
+      "num": 313829,
       "word": "Shanks事件女生发文",
       "onboard_time": 1754651361,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 389472,
-      "num": 389472,
-      "word": "男子被枪杀地80米外有十几人在干活",
-      "onboard_time": 1754647281,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 388296,
@@ -504,14 +528,6 @@
       "word": "唐香玉为上浪姐差点拒绝喜单2",
       "onboard_time": 1754628564,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 384948,
-      "num": 384948,
-      "word": "歌手预测",
-      "onboard_time": 1754651782,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -579,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320107,
+      "num": 320107,
+      "word": "中国女子坠入日本东京大学烟囱死亡",
+      "onboard_time": 1754652322,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 304774,
       "num": 304774,
       "word": "Jennie 蝴蝶结",
@@ -643,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274371,
+      "num": 274371,
+      "word": "黄怡慈退团",
+      "onboard_time": 1754651842,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273547,
       "num": 324246,
       "word": "张元英宫脇咲良再现七年前名次",
@@ -657,6 +689,14 @@
       "onboard_time": 1754643502,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269095,
+      "num": 269095,
+      "word": "北京符合条件家庭5环外不再限制购房",
+      "onboard_time": 1754651602,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 266391,
@@ -683,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247549,
-      "num": 291350,
-      "word": "王一博这我哪知道啊",
-      "onboard_time": 1754651842,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246971,
       "num": 278018,
       "word": "翁杰回应抄袭",
@@ -713,6 +745,14 @@
       "onboard_time": 1754647281,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242092,
+      "num": 242092,
+      "word": "赖清德挥霍百姓血汗钱向美交保护费",
+      "onboard_time": 1754652023,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 240812,
@@ -857,14 +897,6 @@
       "onboard_time": 1754620102,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209346,
-      "num": 209346,
-      "word": "赖清德挥霍百姓血汗钱向美交保护费",
-      "onboard_time": 1754652023,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 209268,
@@ -1019,14 +1051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192843,
-      "num": 192843,
-      "word": "黄怡慈退团",
-      "onboard_time": 1754651842,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192293,
       "num": 192293,
       "word": "狼队第五人格",
@@ -1083,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182811,
+      "num": 182811,
+      "word": "丞磊是宋轶的游戏说明书",
+      "onboard_time": 1754652622,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181516,
       "num": 181516,
       "word": "迪丽热巴没有一句台词却演的好痛",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1754651301,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173171,
+      "num": 173171,
+      "word": "睡个觉这么贵",
+      "onboard_time": 1754650403,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 173114,
@@ -1179,12 +1219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165936,
+      "num": 165936,
+      "word": "北京加大住房公积金支持力度",
+      "onboard_time": 1754652981,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165765,
       "num": 150608,
       "word": "精神病院群演",
       "onboard_time": 1754638403,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165313,
+      "num": 261647,
+      "word": "食贫道卧底韩国邪教",
+      "onboard_time": 1754652742,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164170,
@@ -1259,6 +1315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 160527,
+      "num": 340442,
+      "word": "北京再次优化住房限购政策",
+      "onboard_time": 1754651602,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160363,
       "num": 160363,
       "word": "凭自己月入过万是什么体验",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1754628503,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153726,
+      "num": 153726,
+      "word": "北京符合条件家庭五环外购房不限套数",
+      "onboard_time": 1754653282,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153702,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1754629223,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150298,
+      "num": 161101,
+      "word": "江西一景区1.27亿建室外扶梯试运营",
+      "onboard_time": 1754647281,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149476,
@@ -1625,14 +1705,6 @@
       "onboard_time": 1754624303,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137903,
-      "num": 161101,
-      "word": "江西一景区1.27亿建室外扶梯试运营",
-      "onboard_time": 1754647281,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137617,
@@ -1915,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120562,
-      "num": 120562,
-      "word": "睡个觉这么贵",
-      "onboard_time": 1754650403,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120165,
       "num": 120165,
       "word": "台湾60米高压电缆上惊现男尸",
@@ -2147,14 +2211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106784,
-      "num": 106784,
-      "word": "中国女子坠入日本东京大学烟囱死亡",
-      "onboard_time": 1754652322,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 105899,
       "num": 105899,
       "word": "马库斯说要努力像中国人民一样勇敢",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1754564723,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101327,
+      "num": 269174,
+      "word": "血脉觉醒后的中国车长这样",
+      "onboard_time": 1754651723,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 101245,
@@ -2339,6 +2403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 93540,
+      "num": 142210,
+      "word": "小时候穷养长大很难富养自己",
+      "onboard_time": 1754652083,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93454,
       "num": 93454,
       "word": "东极岛 里斯本丸沉没",
@@ -2441,6 +2513,14 @@
       "onboard_time": 1754568083,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82806,
+      "num": 271045,
+      "word": "孟子义第一个开上缤果S新车",
+      "onboard_time": 1754651782,
+      "rank": 16,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 82239,
@@ -2627,22 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65783,
-      "num": 257495,
-      "word": "血脉觉醒后的中国车长这样",
-      "onboard_time": 1754651723,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 65271,
-      "num": 340442,
-      "word": "北京再次优化住房限购政策",
-      "onboard_time": 1754651602,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63977,
       "num": 63977,
       "word": "世运会开幕烟花绝了",
@@ -2673,14 +2737,6 @@
       "onboard_time": 1754609480,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 63432,
-      "num": 271045,
-      "word": "孟子义第一个开上缤果S新车",
-      "onboard_time": 1754651782,
-      "rank": 16,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 62923,
@@ -2779,14 +2835,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 51364,
-      "num": 256491,
-      "word": "北京符合条件家庭5环外不再限制购房",
-      "onboard_time": 1754651602,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 50042,
       "num": 50042,
       "word": "去完欧洲决定让我孩子卷高考",
@@ -2843,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45042,
+      "num": 160172,
+      "word": "张峻豪去错机场",
+      "onboard_time": 1754648122,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44844,
       "num": 334227,
       "word": "不同运动各有防病特长",
@@ -2873,6 +2929,14 @@
       "onboard_time": 1754642003,
       "rank": 37,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 41753,
+      "num": 176660,
+      "word": "消防救援队伍560人赴甘肃榆中救援",
+      "onboard_time": 1754652742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41482,
@@ -2939,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33338,
+      "num": 320208,
+      "word": "张艺兴工作室怎么先发了",
+      "onboard_time": 1754652861,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32721,
       "num": 38894,
       "word": "王源太原演唱会抢票",
@@ -3001,14 +3073,6 @@
       "onboard_time": 1754592135,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24318,
-      "num": 140361,
-      "word": "小时候穷养长大很难富养自己",
-      "onboard_time": 1754652083,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 23218,
@@ -3156,7 +3220,7 @@
     },
     {
       "raw_hot": 3547,
-      "num": 532776,
+      "num": 610732,
       "word": "相约成都遇见万千精彩",
       "onboard_time": 1754572223,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754653317906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 773806,
+        "num": 1123809,
+        "word": "歌手总决赛",
+        "onboard_time": 1754652742,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712652,
+        "num": 712652,
+        "word": "台湾是一个省哪来的国防预算",
+        "onboard_time": 1754639182,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2926,
+        "num": 610732,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574868,
+        "num": 574868,
+        "word": "颖儿是怕我惦记付辛博",
+        "onboard_time": 1754647582,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406794,
+        "num": 406794,
+        "word": "日本癌症突破性技术向中国开放",
+        "onboard_time": 1754643082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397652,
+        "num": 397652,
+        "word": "果茶 含糖量",
+        "onboard_time": 1754642062,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 480851,
+        "num": 377404,
+        "word": "歌手预测",
+        "onboard_time": 1754651782,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320711,
+        "num": 320711,
+        "word": "甘肃榆中县山洪灾害已致10死33失联",
+        "onboard_time": 1754644102,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 33338,
+        "num": 320208,
+        "word": "张艺兴工作室怎么先发了",
+        "onboard_time": 1754652861,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320107,
+        "num": 320107,
+        "word": "中国女子坠入日本东京大学烟囱死亡",
+        "onboard_time": 1754652322,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1574316,
+        "num": 319519,
+        "word": "李溪芮变化",
+        "onboard_time": 1754649382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562181,
+        "num": 318151,
+        "word": "男子被枪杀地80米外有十几人在干活",
+        "onboard_time": 1754647281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452266,
+        "num": 316151,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423269,
+        "num": 314598,
+        "word": "王一博这我哪知道啊",
+        "onboard_time": 1754651842,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384781,
+        "num": 313829,
+        "word": "Shanks事件女生发文",
+        "onboard_time": 1754651361,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160527,
+        "num": 312638,
+        "word": "北京再次优化住房限购政策",
+        "onboard_time": 1754651602,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311199,
+        "num": 311199,
+        "word": "女儿晕倒后妈妈无动于衷",
+        "onboard_time": 1754643324,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274371,
+        "num": 274371,
+        "word": "黄怡慈退团",
+        "onboard_time": 1754651842,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82806,
+        "num": 270022,
+        "word": "孟子义第一个开上缤果S新车",
+        "onboard_time": 1754651782,
+        "rank": 18,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 101327,
+        "num": 269174,
+        "word": "血脉觉醒后的中国车长这样",
+        "onboard_time": 1754651723,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 269095,
+        "num": 269095,
+        "word": "北京符合条件家庭5环外不再限制购房",
+        "onboard_time": 1754651602,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165313,
+        "num": 261647,
+        "word": "食贫道卧底韩国邪教",
+        "onboard_time": 1754652742,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259857,
+        "num": 259857,
+        "word": "乘客在飞机上拍到超清晰UFO",
+        "onboard_time": 1754640803,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242092,
+        "num": 242092,
+        "word": "赖清德挥霍百姓血汗钱向美交保护费",
+        "onboard_time": 1754652023,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216846,
+        "num": 216846,
+        "word": "硅谷换血富豪每天吃40粒抗衰药丸",
+        "onboard_time": 1754648782,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216214,
+        "num": 216214,
+        "word": "古偶扑街史",
+        "onboard_time": 1754642483,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188119,
+        "num": 188119,
+        "word": "上班不开心根本不需要离职",
+        "onboard_time": 1754650701,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182811,
+        "num": 182811,
+        "word": "丞磊是宋轶的游戏说明书",
+        "onboard_time": 1754652622,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182735,
+        "num": 182735,
+        "word": "昀牵孟绕",
+        "onboard_time": 1754651963,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41753,
+        "num": 176660,
+        "word": "消防救援队伍560人赴甘肃榆中救援",
+        "onboard_time": 1754652742,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175437,
+        "num": 175437,
+        "word": "男子梦中被追跳下3楼醒来在空中",
+        "onboard_time": 1754645663,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173763,
+        "num": 173763,
+        "word": "广州白云区山体垮塌7人遇难",
+        "onboard_time": 1754647221,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 173171,
+        "num": 173171,
+        "word": "睡个觉这么贵",
+        "onboard_time": 1754650403,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169004,
+        "num": 169004,
+        "word": "孙俪没档期 邓超会戴假发去当替身",
+        "onboard_time": 1754638161,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165936,
+        "num": 165936,
+        "word": "北京加大住房公积金支持力度",
+        "onboard_time": 1754652981,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162536,
+        "num": 162536,
+        "word": "第一个让张婧仪戴眼镜的人是天才",
+        "onboard_time": 1754645902,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45042,
+        "num": 160172,
+        "word": "张峻豪去错机场",
+        "onboard_time": 1754648122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157905,
+        "num": 157905,
+        "word": "蔡徐坤新歌MV",
+        "onboard_time": 1754649021,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153726,
+        "num": 153726,
+        "word": "北京符合条件家庭五环外购房不限套数",
+        "onboard_time": 1754653282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58519,
+        "num": 151780,
+        "word": "张元英宫脇咲良再现七年前名次",
+        "onboard_time": 1754636963,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132041,
+        "num": 150316,
+        "word": "于正宣布要演戏",
+        "onboard_time": 1754640383,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150298,
+        "num": 150298,
+        "word": "江西一景区1.27亿建室外扶梯试运营",
+        "onboard_time": 1754647281,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150006,
+        "num": 150006,
+        "word": "管虎导演",
+        "onboard_time": 1754646322,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149939,
+        "num": 149939,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93540,
+        "num": 142210,
+        "word": "小时候穷养长大很难富养自己",
+        "onboard_time": 1754652083,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93580,
+        "num": 137880,
+        "word": "生前你不理财死后财不理你",
+        "onboard_time": 1754645842,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135142,
+        "num": 135142,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121851,
+        "num": 121851,
+        "word": "父亲第一次见到女儿男朋友反应",
+        "onboard_time": 1754646142,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121127,
+        "num": 121127,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120879,
+        "num": 120879,
+        "word": "甘肃榆中强降雨引发山洪",
+        "onboard_time": 1754645602,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平的铿锵话语中感悟体育精神#"
+    }
+  }
+}
