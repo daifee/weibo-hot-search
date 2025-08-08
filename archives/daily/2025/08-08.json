@@ -1,6 +1,6 @@
 {
   "startTime": 1754584636630,
-  "endTime": 1754643193417,
+  "endTime": 1754645693767,
   "band_list": [
     {
       "raw_hot": 2448250,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1934959,
-      "num": 345781,
+      "num": 449625,
       "word": "鹿哈订婚",
       "onboard_time": 1754626883,
       "rank": 21,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1196028,
-      "num": 349729,
+      "num": 439359,
       "word": "内娱一人奶一公司的五大菩萨",
       "onboard_time": 1754637802,
       "rank": 22,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 834842,
-      "num": 343638,
+      "num": 417364,
       "word": "孙俪没档期 邓超会戴假发去当替身",
       "onboard_time": 1754638161,
       "rank": 30,
@@ -136,6 +136,14 @@
       "word": "具惠善发文喊话安宰贤",
       "onboard_time": 1754617641,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 770997,
+      "num": 770997,
+      "word": "竹荪",
+      "onboard_time": 1754640442,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 677613,
+      "num": 428253,
+      "word": "古偶扑街史",
+      "onboard_time": 1754642483,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667329,
       "num": 304121,
       "word": "过度提醒",
@@ -185,6 +201,14 @@
       "onboard_time": 1754614942,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 629736,
+      "num": 629736,
+      "word": "乘客在飞机上拍到超清晰UFO",
+      "onboard_time": 1754640803,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 624559,
@@ -235,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 595399,
+      "num": 595399,
+      "word": "于正宣布要演戏",
+      "onboard_time": 1754640383,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594947,
       "num": 568516,
       "word": "网红刘大悦30岁才摆脱童年创伤",
       "onboard_time": 1754622621,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 593681,
+      "num": 593681,
+      "word": "日本癌症突破性技术向中国开放",
+      "onboard_time": 1754643082,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 588095,
@@ -307,12 +347,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 497054,
-      "num": 497054,
-      "word": "于正宣布要演戏",
-      "onboard_time": 1754640383,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 496938,
+      "num": 496938,
+      "word": "果茶 含糖量",
+      "onboard_time": 1754642062,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 494769,
@@ -321,14 +361,6 @@
       "onboard_time": 1754623704,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 488136,
-      "num": 488136,
-      "word": "竹荪",
-      "onboard_time": 1754640442,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 469003,
@@ -345,6 +377,14 @@
       "onboard_time": 1754565322,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461441,
+      "num": 461441,
+      "word": "女儿晕倒后妈妈无动于衷",
+      "onboard_time": 1754643324,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447107,
@@ -491,14 +531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 297699,
-      "num": 297699,
-      "word": "乘客在飞机上拍到超清晰UFO",
-      "onboard_time": 1754640803,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 297091,
       "num": 210572,
       "word": "杨蒙恩 天崩开局",
@@ -547,12 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266898,
-      "num": 266898,
-      "word": "古偶扑街史",
-      "onboard_time": 1754642483,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 273418,
+      "num": 291499,
+      "word": "王一博百雀羚见面会",
+      "onboard_time": 1754643502,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270718,
+      "num": 455575,
+      "word": "甘肃榆中县山洪灾害已致10死33失联",
+      "onboard_time": 1754644102,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 266391,
@@ -899,14 +939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177680,
-      "num": 177680,
-      "word": "日本癌症突破性技术向中国开放",
-      "onboard_time": 1754643082,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173114,
       "num": 173114,
       "word": "沈月原来是美男",
@@ -929,6 +961,14 @@
       "onboard_time": 1754624183,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170311,
+      "num": 289872,
+      "word": "南京DNA音乐节官宣",
+      "onboard_time": 1754645243,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 169527,
@@ -1107,7 +1147,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152658,
+      "raw_hot": 153702,
       "num": 197082,
       "word": "赵露思同款",
       "onboard_time": 1754641523,
@@ -1203,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147609,
+      "num": 147609,
+      "word": "亿万富豪回应与17岁儿子置换血浆",
+      "onboard_time": 1754643681,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 147546,
       "num": 147546,
       "word": "于正说刘昊然电影咖不接剧吧",
@@ -1251,12 +1299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143432,
+      "num": 143432,
+      "word": "没有丑女人只有反应慢的女人",
+      "onboard_time": 1754644943,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142990,
       "num": 142990,
       "word": "学过英语就知道e有时候不发音",
       "onboard_time": 1754631622,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142870,
+      "num": 142870,
+      "word": "中国杂交自行车之父",
+      "onboard_time": 1754643922,
+      "rank": 30,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 142695,
@@ -1355,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136946,
+      "num": 136946,
+      "word": "胖东来回应招聘服刑人员",
+      "onboard_time": 1754643982,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135834,
       "num": 135834,
       "word": "65岁三高老人被女婿爆改成腹肌大爷",
@@ -1435,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130086,
+      "num": 130086,
+      "word": "倪妮在映待播全都吻了上来",
+      "onboard_time": 1754644462,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129580,
       "num": 189664,
       "word": "晋江崩了",
@@ -1491,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124232,
+      "num": 124232,
+      "word": "苏醒是不是偷偷追浪姐了",
+      "onboard_time": 1754643863,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124005,
       "num": 124005,
       "word": "iPhone17或9月10日开启预订",
@@ -1515,12 +1603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121731,
-      "num": 288528,
-      "word": "果茶 含糖量",
-      "onboard_time": 1754642062,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 121558,
+      "num": 121558,
+      "word": "甘肃榆中强降雨引发山洪",
+      "onboard_time": 1754645602,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 120941,
@@ -1537,6 +1625,22 @@
       "onboard_time": 1754571023,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119574,
+      "num": 119574,
+      "word": "威廉因逃兵役再道歉",
+      "onboard_time": 1754645002,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119353,
+      "num": 119353,
+      "word": "时差五小时2即将开播",
+      "onboard_time": 1754644341,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 118403,
@@ -1683,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108436,
+      "num": 108436,
+      "word": "男子梦中被追跳下3楼醒来在空中",
+      "onboard_time": 1754645663,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107916,
       "num": 107915,
       "word": "高敏谈全红婵体重变化",
@@ -1755,11 +1867,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101542,
+      "num": 101542,
+      "word": "苏新皓monster舞台",
+      "onboard_time": 1754645542,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101385,
       "num": 101385,
       "word": "妇联回应男子抱怨鸡蛋被吃妻子崩溃",
       "onboard_time": 1754564723,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101245,
+      "num": 101245,
+      "word": "上海执法类公务员年龄放宽至38岁",
+      "onboard_time": 1754644223,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1769,6 +1897,14 @@
       "onboard_time": 1754581523,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100075,
+      "num": 100075,
+      "word": "关晓彤消肿祛湿帮手",
+      "onboard_time": 1754644762,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99563,
@@ -1785,6 +1921,14 @@
       "onboard_time": 1754618182,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98178,
+      "num": 101367,
+      "word": "夫妇埋葬完被撞的狗发现车漏油",
+      "onboard_time": 1754644403,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96122,
@@ -1889,6 +2033,14 @@
       "onboard_time": 1754635763,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85434,
+      "num": 143104,
+      "word": "李连杰送女儿的新婚礼物",
+      "onboard_time": 1754644102,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 84035,
@@ -2155,6 +2307,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56666,
+      "num": 123150,
+      "word": "尹锡悦顽固拒捕大喊手臂要断了",
+      "onboard_time": 1754645602,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 55571,
+      "num": 123546,
+      "word": "郑州暴雨一男子砸墙泄流隔壁小区",
+      "onboard_time": 1754644582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55311,
       "num": 147740,
       "word": "尹锡悦强烈反抗被10人强制抬走",
@@ -2305,6 +2473,14 @@
       "onboard_time": 1754642182,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34819,
+      "num": 142887,
+      "word": "伊能静秦昊有些瓜不能乱吃",
+      "onboard_time": 1754644102,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 34606,
@@ -2475,12 +2651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11155,
+      "num": 142986,
+      "word": "他坚持20多年送台湾老兵魂归故里",
+      "onboard_time": 1754645542,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 9869,
       "num": 39712,
       "word": "马库斯谈捐赠照片中印象最深的一幕",
       "onboard_time": 1754599154,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3584,
+      "num": 685042,
+      "word": "成都用过水门礼迎全世界运动员",
+      "onboard_time": 1754574864,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -2492,6 +2684,9 @@
     },
     {
       "word": "#体育强国的基础在群众体育#"
+    },
+    {
+      "word": "#从习近平的铿锵话语中感悟体育精神#"
     }
   ]
 }
