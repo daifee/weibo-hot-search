@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754691999992,
+  "endTime": 1754693083142,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251194,
+      "num": 251194,
+      "word": "刘晓庆已被举报人起诉",
+      "onboard_time": 1754672059,
+      "rank": 30,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 223113,
       "num": 142073,
       "word": "吴磊演技",
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200885,
-      "num": 200885,
-      "word": "刘晓庆已被举报人起诉",
-      "onboard_time": 1754672059,
-      "rank": 30,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 193893,
       "num": 193893,
       "word": "甘肃榆中县山洪灾害已致10死33失联",
@@ -177,6 +177,14 @@
       "onboard_time": 1754658086,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 184540,
+      "num": 105425,
+      "word": "只穿裙子是导演对邱莹莹最大的偏见",
+      "onboard_time": 1754688914,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 177122,
@@ -307,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116183,
-      "num": 79936,
-      "word": "只穿裙子是导演对邱莹莹最大的偏见",
-      "onboard_time": 1754688914,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115502,
       "num": 115502,
       "word": "汪苏泷扔伞",
@@ -345,6 +345,14 @@
       "onboard_time": 1754667744,
       "rank": 34,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101648,
+      "num": 101648,
+      "word": "男子赌气离家29年领退休金时现身",
+      "onboard_time": 1754658625,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100722,
@@ -400,14 +408,6 @@
       "word": "警方回应乘客飞机上发生肢体冲突",
       "onboard_time": 1754667085,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76671,
-      "num": 92789,
-      "word": "男子赌气离家29年领退休金时现身",
-      "onboard_time": 1754658625,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -475,7 +475,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42064,
+      "raw_hot": 50880,
       "num": 75629,
       "word": "加拿大一黑熊偷吃狗粮被博美犬逼退",
       "onboard_time": 1754663606,
@@ -491,12 +491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39841,
+      "num": 39841,
+      "word": "电脑卡可能是因为WPS",
+      "onboard_time": 1754680215,
+      "rank": 36,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 37885,
       "num": 37885,
       "word": "崔秀彬礼盒",
       "onboard_time": 1754677396,
       "rank": 34,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 36245,
+      "num": 39055,
+      "word": "孟子义第一个开上缤果S新车",
+      "onboard_time": 1754651782,
+      "rank": 37,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 34549,
@@ -531,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30319,
-      "num": 30319,
-      "word": "电脑卡可能是因为WPS",
-      "onboard_time": 1754680215,
-      "rank": 36,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 29325,
       "num": 32868,
       "word": "陈楚生郑钧赤裸裸",
@@ -553,14 +561,6 @@
       "onboard_time": 1754676916,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26536,
-      "num": 29141,
-      "word": "孟子义第一个开上缤果S新车",
-      "onboard_time": 1754651782,
-      "rank": 37,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 26306,
@@ -595,8 +595,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 21484,
-      "num": 29129,
+      "raw_hot": 23953,
+      "num": 38965,
       "word": "杨超越问武艺你喜欢女生吗",
       "onboard_time": 1754685495,
       "rank": 45,
