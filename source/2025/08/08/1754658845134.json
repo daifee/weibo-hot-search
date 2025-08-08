@@ -1,0 +1,410 @@
+{
+  "runTime": 1754658845134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8282937,
+        "num": 8282937,
+        "word": "单依纯王力宏 好听",
+        "onboard_time": 1754657483,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4140985,
+        "num": 4140985,
+        "word": "歌手总决赛",
+        "onboard_time": 1754652742,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4287,
+        "num": 1010276,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 729046,
+        "num": 729046,
+        "word": "食贫道卧底韩国邪教",
+        "onboard_time": 1754652742,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 664542,
+        "num": 664542,
+        "word": "中国女子坠入日本东京大学烟囱死亡",
+        "onboard_time": 1754652322,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 642495,
+        "num": 642495,
+        "word": "社保",
+        "onboard_time": 1754653342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1617810,
+        "num": 603966,
+        "word": "ALin彭佳慧不要再吵了",
+        "onboard_time": 1754655803,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532563,
+        "num": 532563,
+        "word": "单依纯常石磊献唱世运会主题曲",
+        "onboard_time": 1754653882,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 338059,
+        "num": 338059,
+        "word": "台湾是一个省哪来的国防预算",
+        "onboard_time": 1754639182,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270082,
+        "num": 270082,
+        "word": "甘肃榆中县山洪灾害已致10死33失联",
+        "onboard_time": 1754644102,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1114766,
+        "num": 267067,
+        "word": "孙楠歌王发挥",
+        "onboard_time": 1754655503,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1189588,
+        "num": 257583,
+        "word": "彭佳慧耳返没声音",
+        "onboard_time": 1754657543,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792733,
+        "num": 250936,
+        "word": "李溪芮变化",
+        "onboard_time": 1754649382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707985,
+        "num": 245490,
+        "word": "落叶归根",
+        "onboard_time": 1754657483,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 693519,
+        "num": 239862,
+        "word": "因鸡蛋崩溃掀桌女子发声",
+        "onboard_time": 1754657124,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685986,
+        "num": 233090,
+        "word": "米奇值得歌王",
+        "onboard_time": 1754656162,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231403,
+        "num": 231403,
+        "word": "日本癌症突破性技术向中国开放",
+        "onboard_time": 1754643082,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225676,
+        "num": 225676,
+        "word": "Shanks事件女生发文",
+        "onboard_time": 1754651361,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65883,
+        "num": 225548,
+        "word": "歌手特产原来是酸酸乳",
+        "onboard_time": 1754656643,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101180,
+        "num": 225261,
+        "word": "24小时退房制为啥不能成统一标准",
+        "onboard_time": 1754658086,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 556169,
+        "num": 224908,
+        "word": "刘惜君明年首发吧",
+        "onboard_time": 1754658086,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370959,
+        "num": 224821,
+        "word": "李佳薇帮唱孙楠",
+        "onboard_time": 1754655263,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335618,
+        "num": 224574,
+        "word": "颖儿是怕我惦记付辛博",
+        "onboard_time": 1754647582,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151724,
+        "num": 224253,
+        "word": "北京二套房公积金贷款最高100万",
+        "onboard_time": 1754656884,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291820,
+        "num": 223903,
+        "word": "歌手顺序",
+        "onboard_time": 1754654962,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283138,
+        "num": 223569,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280586,
+        "num": 223326,
+        "word": "王一博这我哪知道啊",
+        "onboard_time": 1754651842,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223199,
+        "num": 223199,
+        "word": "宏依辈子",
+        "onboard_time": 1754657423,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105111,
+        "num": 214902,
+        "word": "男子赌气离家29年领退休金时现身",
+        "onboard_time": 1754658625,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32513,
+        "num": 213167,
+        "word": "一男子为立功花3万买犯罪线索",
+        "onboard_time": 1754658086,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263007,
+        "num": 200490,
+        "word": "赤裸裸",
+        "onboard_time": 1754657904,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231383,
+        "num": 191926,
+        "word": "鹿晗郑州",
+        "onboard_time": 1754657904,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188936,
+        "num": 188936,
+        "word": "黄怡慈退团",
+        "onboard_time": 1754651842,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187630,
+        "num": 187630,
+        "word": "Never Enough",
+        "onboard_time": 1754658326,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187559,
+        "num": 187559,
+        "word": "宋昕冉cos王昭君",
+        "onboard_time": 1754657965,
+        "rank": 34,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 171259,
+        "num": 171259,
+        "word": "北京加大住房公积金支持力度",
+        "onboard_time": 1754652981,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168045,
+        "num": 168045,
+        "word": "等我小了也要孙颖莎抱",
+        "onboard_time": 1754656763,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159356,
+        "num": 159356,
+        "word": "北京符合条件家庭5环外不再限制购房",
+        "onboard_time": 1754651602,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151178,
+        "num": 151178,
+        "word": "孙颖莎赛程",
+        "onboard_time": 1754658803,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148371,
+        "num": 148371,
+        "word": "果茶 含糖量",
+        "onboard_time": 1754642062,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141445,
+        "num": 141445,
+        "word": "冯建宇直播",
+        "onboard_time": 1754656943,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140921,
+        "num": 140921,
+        "word": "上班不开心根本不需要离职",
+        "onboard_time": 1754650701,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135865,
+        "num": 135865,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135466,
+        "num": 135466,
+        "word": "25岁做了管理层后性情大变",
+        "onboard_time": 1754657063,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128395,
+        "num": 128395,
+        "word": "MINNIE将出演泰版初恋50次女主角",
+        "onboard_time": 1754655203,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127633,
+        "num": 127633,
+        "word": "走5公里和跑5公里哪个更健康",
+        "onboard_time": 1754655803,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120550,
+        "num": 120550,
+        "word": "AL对战FPX",
+        "onboard_time": 1754658445,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120101,
+        "num": 120101,
+        "word": "披荆斩棘是场巨大的Xleader争夺战",
+        "onboard_time": 1754657606,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113501,
+        "num": 113501,
+        "word": "好标致的小猫小狗",
+        "onboard_time": 1754658566,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112780,
+        "num": 112780,
+        "word": "icon回应辩论事件",
+        "onboard_time": 1754654962,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平的铿锵话语中感悟体育精神#"
+    }
+  }
+}

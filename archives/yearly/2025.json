@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754657906635,
+  "endTime": 1754658845134,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1315,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8282937,
+      "num": 8282937,
+      "word": "单依纯王力宏 好听",
+      "onboard_time": 1754657483,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8226159,
       "num": 8226159,
       "word": "具俊晔回应大S去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737609679,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3931337,
-      "num": 3931337,
-      "word": "斯凯奇宣布退市",
-      "onboard_time": 1746539842,
-      "rank": 0,
-      "category": "财经,互联网"
     }
   ],
   "hotgov_list": [
