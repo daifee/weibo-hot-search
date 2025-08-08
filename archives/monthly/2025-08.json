@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754610216643,
+  "endTime": 1754619254233,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -281,6 +281,14 @@
       "onboard_time": 1754450423,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2448250,
+      "num": 241018,
+      "word": "朱孝天自曝已删除贾玲微信",
+      "onboard_time": 1754615543,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2409993,
@@ -1507,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 966911,
+      "num": 1154705,
+      "word": "立秋第一杯奶茶的受害者出现了",
+      "onboard_time": 1754608278,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 966598,
       "num": 397559,
       "word": "21岁确诊抑郁症的躯体化表现",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1754216543,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 885012,
-      "num": 885012,
-      "word": "立秋第一杯奶茶的受害者出现了",
-      "onboard_time": 1754608278,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 879158,
@@ -2219,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726635,
+      "num": 232830,
+      "word": "如厕被气枪误杀的农民工家属发声",
+      "onboard_time": 1754617580,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 723667,
       "num": 554170,
       "word": "王琳被批与儿子相处方式太窒息",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1754568624,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 692796,
+      "num": 225418,
+      "word": "具惠善发文喊话安宰贤",
+      "onboard_time": 1754617641,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 692583,
@@ -2667,6 +2691,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 639289,
+      "num": 220136,
+      "word": "刘浩存换回微商头像",
+      "onboard_time": 1754614942,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637337,
       "num": 637337,
       "word": "杨幂1986年魔童降世",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1754114962,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 616525,
+      "num": 616525,
+      "word": "名创优品 时代少年团",
+      "onboard_time": 1754615181,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 614711,
@@ -3168,6 +3208,14 @@
       "word": "广西奔驰女的特权底气到底哪来的",
       "onboard_time": 1754116102,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568266,
+      "num": 568266,
+      "word": "女子在景区摸马肚子被狠咬一口",
+      "onboard_time": 1754613203,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3593,6 +3641,14 @@
       "onboard_time": 1754115443,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 509995,
+      "num": 166782,
+      "word": "妈妈让女儿辞职照顾自己补偿490万",
+      "onboard_time": 1754615181,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507930,
@@ -4097,6 +4153,14 @@
       "onboard_time": 1754051602,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451375,
+      "num": 451375,
+      "word": "赵露思直播跳扫腿舞",
+      "onboard_time": 1754617522,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 449604,
@@ -5451,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331311,
+      "num": 331311,
+      "word": "将门毒后选角最火的一对",
+      "onboard_time": 1754611339,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330748,
       "num": 330748,
       "word": "黄多多下厨vlog",
@@ -6131,6 +6203,14 @@
       "category": "读书作家,民生新闻"
     },
     {
+      "raw_hot": 291388,
+      "num": 291388,
+      "word": "日本人口即将跌破1.2亿",
+      "onboard_time": 1754608519,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 290713,
       "num": 191948,
       "word": "情绪化发言没有任何好处",
@@ -6345,6 +6425,14 @@
       "onboard_time": 1754151144,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275427,
+      "num": 166105,
+      "word": "女子点100份三文鱼吃了吐吐了吃",
+      "onboard_time": 1754610200,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275096,
@@ -7435,14 +7523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 232739,
-      "num": 157955,
-      "word": "日本人口即将跌破1.2亿",
-      "onboard_time": 1754608519,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 232543,
       "num": 232543,
       "word": "燕云十六声",
@@ -8227,6 +8307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213202,
+      "num": 213202,
+      "word": "东极岛",
+      "onboard_time": 1754613742,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212832,
       "num": 212832,
       "word": "男子4X200自接中国队创造亚洲纪录",
@@ -8529,6 +8617,14 @@
       "onboard_time": 1754379682,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207860,
+      "num": 207860,
+      "word": "敖瑞鹏游戏输了去王一博那看广告复活",
+      "onboard_time": 1754609660,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 207857,
@@ -9403,6 +9499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 195742,
+      "num": 195742,
+      "word": "南方晚上比北方白天还热",
+      "onboard_time": 1754614882,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195528,
       "num": 195528,
       "word": "阴阳师崩了",
@@ -10153,6 +10257,14 @@
       "onboard_time": 1754472084,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185566,
+      "num": 185566,
+      "word": "具惠善说安宰贤懦弱",
+      "onboard_time": 1754618182,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 185385,
@@ -11537,6 +11649,14 @@
       "onboard_time": 1754023042,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167095,
+      "num": 167095,
+      "word": "上海地铁一男子辱骂乘客乡下人滚",
+      "onboard_time": 1754618242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167070,
@@ -13259,6 +13379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149699,
+      "num": 149699,
+      "word": "巴厘岛2名遇难中国游客身份确认",
+      "onboard_time": 1754616382,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149665,
       "num": 204336,
       "word": "哪吒归来又拿第一名",
@@ -13545,6 +13673,14 @@
       "onboard_time": 1754131103,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147546,
+      "num": 147546,
+      "word": "于正说刘昊然电影咖不接剧吧",
+      "onboard_time": 1754614644,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 147372,
@@ -14225,6 +14361,14 @@
       "onboard_time": 1754291003,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141681,
+      "num": 141681,
+      "word": "退役小哥去驾校考科目二操作惊呆教练",
+      "onboard_time": 1754610921,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141634,
@@ -15123,6 +15267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135410,
+      "num": 135410,
+      "word": "tws",
+      "onboard_time": 1754616622,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135400,
       "num": 135400,
       "word": "SJ赫海SNH48演唱会说粤语",
@@ -16019,6 +16171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129564,
+      "num": 129564,
+      "word": "韩国博物馆满是汉字本地人看不懂",
+      "onboard_time": 1754614582,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "SNH48香港演唱会",
@@ -16841,6 +17001,14 @@
       "onboard_time": 1754546123,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124396,
+      "num": 124396,
+      "word": "台风杨柳",
+      "onboard_time": 1754615122,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124371,
@@ -18171,6 +18339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115076,
+      "num": 115076,
+      "word": "孙千马甲线好明显",
+      "onboard_time": 1754616982,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114971,
       "num": 290062,
       "word": "82岁老人跳河勇救98岁老人",
@@ -18683,6 +18859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111193,
+      "num": 111193,
+      "word": "王嘉尔美式后刺",
+      "onboard_time": 1754614220,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111075,
       "num": 111075,
       "word": "这就是明星基因吗",
@@ -19049,6 +19233,14 @@
       "onboard_time": 1754436079,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107712,
+      "num": 107712,
+      "word": "原来大猫真的会给小猫立规矩",
+      "onboard_time": 1754618242,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 107631,
@@ -20131,6 +20323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96406,
+      "num": 246371,
+      "word": "马库斯家里人知道有照片但不敢发声",
+      "onboard_time": 1754613863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96373,
       "num": 96373,
       "word": "奔驰女司机丈夫或面临相应政务处分",
@@ -20161,6 +20361,14 @@
       "onboard_time": 1753974983,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96122,
+      "num": 96122,
+      "word": "北京奥运会17年了",
+      "onboard_time": 1754612182,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 96058,
@@ -20721,6 +20929,14 @@
       "onboard_time": 1754359581,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89560,
+      "num": 89560,
+      "word": "俄美就总统会晤达成一致",
+      "onboard_time": 1754611822,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89464,
@@ -21395,12 +21611,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79786,
-      "num": 107916,
-      "word": "敖瑞鹏游戏输了去王一博那看广告复活",
-      "onboard_time": 1754609660,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 80029,
+      "num": 80029,
+      "word": "GPT5向所有免费用户开放",
+      "onboard_time": 1754614942,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 79893,
+      "num": 79893,
+      "word": "iPhone17或9月10日开启预订",
+      "onboard_time": 1754615181,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 79642,
@@ -21489,6 +21713,14 @@
       "onboard_time": 1754450543,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78029,
+      "num": 78029,
+      "word": "陈楚生被粉丝做局了",
+      "onboard_time": 1754617883,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 77973,
@@ -21683,6 +21915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74200,
+      "num": 111196,
+      "word": "邓超给小花买的麦克风孙俪唱上头了",
+      "onboard_time": 1754618182,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74176,
       "num": 80523,
       "word": "150w人围观的刷牙不吐泡沫教程",
@@ -21835,6 +22075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70781,
+      "num": 77875,
+      "word": "中国先进战机井喷式亮相",
+      "onboard_time": 1754616802,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 70687,
       "num": 70687,
       "word": "Doinb认为LPL跟LCK可以合并",
@@ -21889,6 +22137,14 @@
       "onboard_time": 1754031262,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69429,
+      "num": 140253,
+      "word": "时代少年团对接声明",
+      "onboard_time": 1754618723,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 69279,
@@ -22033,14 +22289,6 @@
       "onboard_time": 1754073315,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67219,
-      "num": 67219,
-      "word": "女子点100份三文鱼吃了吐吐了吃",
-      "onboard_time": 1754610200,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67102,
