@@ -1,0 +1,410 @@
+{
+  "runTime": 1754652376433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 794564,
+        "num": 1127130,
+        "word": "台湾是一个省哪来的国防预算",
+        "onboard_time": 1754639182,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 473260,
+        "num": 473260,
+        "word": "颖儿是怕我惦记付辛博",
+        "onboard_time": 1754647582,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2914,
+        "num": 461390,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456538,
+        "num": 456538,
+        "word": "果茶 含糖量",
+        "onboard_time": 1754642062,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 455013,
+        "num": 455013,
+        "word": "日本癌症突破性技术向中国开放",
+        "onboard_time": 1754643082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389472,
+        "num": 389472,
+        "word": "男子被枪杀地80米外有十几人在干活",
+        "onboard_time": 1754647281,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384948,
+        "num": 384948,
+        "word": "歌手预测",
+        "onboard_time": 1754651782,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372562,
+        "num": 372562,
+        "word": "女儿晕倒后妈妈无动于衷",
+        "onboard_time": 1754643324,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340887,
+        "num": 340887,
+        "word": "甘肃榆中县山洪灾害已致10死33失联",
+        "onboard_time": 1754644102,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65271,
+        "num": 340442,
+        "word": "北京再次优化住房限购政策",
+        "onboard_time": 1754651602,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1787330,
+        "num": 324394,
+        "word": "李溪芮变化",
+        "onboard_time": 1754649382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450932,
+        "num": 316423,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395536,
+        "num": 305332,
+        "word": "Shanks事件女生发文",
+        "onboard_time": 1754651361,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247549,
+        "num": 291350,
+        "word": "王一博这我哪知道啊",
+        "onboard_time": 1754651842,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223126,
+        "num": 276875,
+        "word": "管虎导演",
+        "onboard_time": 1754646322,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273694,
+        "num": 273694,
+        "word": "乘客在飞机上拍到超清晰UFO",
+        "onboard_time": 1754640803,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63432,
+        "num": 271045,
+        "word": "孟子义第一个开上缤果S新车",
+        "onboard_time": 1754651782,
+        "rank": 16,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 270027,
+        "num": 270027,
+        "word": "古偶扑街史",
+        "onboard_time": 1754642483,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65783,
+        "num": 257495,
+        "word": "血脉觉醒后的中国车长这样",
+        "onboard_time": 1754651723,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51364,
+        "num": 256491,
+        "word": "北京符合条件家庭5环外不再限制购房",
+        "onboard_time": 1754651602,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256349,
+        "num": 256349,
+        "word": "广州白云区山体垮塌7人遇难",
+        "onboard_time": 1754647221,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 245741,
+        "num": 245741,
+        "word": "硅谷换血富豪每天吃40粒抗衰药丸",
+        "onboard_time": 1754648782,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226800,
+        "num": 226800,
+        "word": "第一个让张婧仪戴眼镜的人是天才",
+        "onboard_time": 1754645902,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209346,
+        "num": 209346,
+        "word": "赖清德挥霍百姓血汗钱向美交保护费",
+        "onboard_time": 1754652023,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208161,
+        "num": 208161,
+        "word": "男子梦中被追跳下3楼醒来在空中",
+        "onboard_time": 1754645663,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196680,
+        "num": 196680,
+        "word": "上班不开心根本不需要离职",
+        "onboard_time": 1754650701,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192843,
+        "num": 192843,
+        "word": "黄怡慈退团",
+        "onboard_time": 1754651842,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187064,
+        "num": 192738,
+        "word": "昀牵孟绕",
+        "onboard_time": 1754651963,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181140,
+        "num": 192568,
+        "word": "蔡徐坤新歌MV",
+        "onboard_time": 1754649021,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22739,
+        "num": 192488,
+        "word": "两位93岁老兵70多年后重逢",
+        "onboard_time": 1754650881,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 195787,
+        "num": 192391,
+        "word": "孙俪没档期 邓超会戴假发去当替身",
+        "onboard_time": 1754638161,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192293,
+        "num": 192293,
+        "word": "狼队第五人格",
+        "onboard_time": 1754651782,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176358,
+        "num": 176358,
+        "word": "无畏蹭猫的热度",
+        "onboard_time": 1754651301,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 149095,
+        "word": "翁杰回应抄袭",
+        "onboard_time": 1754647341,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146508,
+        "num": 146508,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144365,
+        "num": 144365,
+        "word": "甘肃榆中强降雨引发山洪",
+        "onboard_time": 1754645602,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 140885,
+        "num": 140885,
+        "word": "父亲第一次见到女儿男朋友反应",
+        "onboard_time": 1754646142,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140795,
+        "num": 140795,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 9868,
+        "num": 140528,
+        "word": "生前你不理财死后财不理你",
+        "onboard_time": 1754645842,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24318,
+        "num": 140361,
+        "word": "小时候穷养长大很难富养自己",
+        "onboard_time": 1754652083,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140266,
+        "num": 140266,
+        "word": "于正宣布要演戏",
+        "onboard_time": 1754640383,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138064,
+        "num": 138064,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "江西一景区1.27亿建室外扶梯试运营",
+        "onboard_time": 1754647281,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127206,
+        "num": 127206,
+        "word": "男子赊45条烟店主吃不下睡不好",
+        "onboard_time": 1754648302,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120562,
+        "num": 120562,
+        "word": "睡个觉这么贵",
+        "onboard_time": 1754650403,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117420,
+        "num": 117420,
+        "word": "董璇 他的世界里只有我",
+        "onboard_time": 1754645902,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113118,
+        "num": 113118,
+        "word": "热狗对0713一怒之下怒了一下",
+        "onboard_time": 1754650161,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112088,
+        "num": 112088,
+        "word": "狗狗叼回了一只豹猫幼崽",
+        "onboard_time": 1754651842,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106784,
+        "num": 106784,
+        "word": "中国女子坠入日本东京大学烟囱死亡",
+        "onboard_time": 1754652322,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102175,
+        "num": 102175,
+        "word": "王源谈私生",
+        "onboard_time": 1754648360,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平的铿锵话语中感悟体育精神#"
+    }
+  }
+}
