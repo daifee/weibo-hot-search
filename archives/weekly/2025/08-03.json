@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754679164956,
+  "endTime": 1754680906871,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -20283,6 +20283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34549,
+      "num": 32404,
+      "word": "锦月如歌惊喜加座",
+      "onboard_time": 1754680155,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34497,
       "num": 392509,
       "word": "赵丽颖秋天的第一份舒适",
@@ -20531,6 +20539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28482,
+      "num": 28482,
+      "word": "电脑卡可能是因为WPS",
+      "onboard_time": 1754680215,
+      "rank": 36,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 28317,
       "num": 38919,
       "word": "特朗普称美俄会谈富有成效",
@@ -20673,6 +20689,14 @@
       "onboard_time": 1754592135,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25273,
+      "num": 27602,
+      "word": "电影无名色彩",
+      "onboard_time": 1754679675,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 25202,
@@ -20873,6 +20897,14 @@
       "onboard_time": 1754620641,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21012,
+      "num": 27602,
+      "word": "奇遇",
+      "onboard_time": 1754679675,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 21008,
