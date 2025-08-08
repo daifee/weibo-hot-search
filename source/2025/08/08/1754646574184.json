@@ -1,0 +1,410 @@
+{
+  "runTime": 1754646574184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075320,
+        "num": 1172051,
+        "word": "台湾是一个省哪来的国防预算",
+        "onboard_time": 1754639182,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 709434,
+        "num": 709434,
+        "word": "乘客在飞机上拍到超清晰UFO",
+        "onboard_time": 1754640803,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6003,
+        "num": 698744,
+        "word": "2025世界人形机器人运动会新闻发布会",
+        "onboard_time": 1754646502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723588,
+        "num": 697301,
+        "word": "女儿晕倒后妈妈无动于衷",
+        "onboard_time": 1754643324,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802475,
+        "num": 680135,
+        "word": "竹荪",
+        "onboard_time": 1754640442,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 906497,
+        "num": 675969,
+        "word": "女子遭老板性侵隔壁房客录下证据",
+        "onboard_time": 1754637382,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664895,
+        "num": 664895,
+        "word": "日本癌症突破性技术向中国开放",
+        "onboard_time": 1754643082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4263,
+        "num": 540444,
+        "word": "成都用过水门礼迎全世界运动员",
+        "onboard_time": 1754574864,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520649,
+        "num": 520649,
+        "word": "于正宣布要演戏",
+        "onboard_time": 1754640383,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202708,
+        "num": 514711,
+        "word": "甘肃榆中强降雨引发山洪",
+        "onboard_time": 1754645602,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 889911,
+        "num": 498362,
+        "word": "鹿哈订婚",
+        "onboard_time": 1754626883,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 596323,
+        "num": 485191,
+        "word": "果茶 含糖量",
+        "onboard_time": 1754642062,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 802482,
+        "num": 479051,
+        "word": "古偶扑街史",
+        "onboard_time": 1754642483,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 786276,
+        "num": 463261,
+        "word": "内娱一人奶一公司的五大菩萨",
+        "onboard_time": 1754637802,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454650,
+        "num": 454650,
+        "word": "孙俪没档期 邓超会戴假发去当替身",
+        "onboard_time": 1754638161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389800,
+        "num": 389800,
+        "word": "甘肃榆中县山洪灾害已致10死33失联",
+        "onboard_time": 1754644102,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 260887,
+        "num": 375316,
+        "word": "汪苏泷婉拒了王源提议",
+        "onboard_time": 1754625443,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237982,
+        "num": 346185,
+        "word": "王一博百雀羚见面会",
+        "onboard_time": 1754643502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36019,
+        "num": 319155,
+        "word": "伊能静秦昊有些瓜不能乱吃",
+        "onboard_time": 1754644102,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27873,
+        "num": 310838,
+        "word": "他坚持20多年送台湾老兵魂归故里",
+        "onboard_time": 1754645542,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 284523,
+        "num": 284523,
+        "word": "朱孝天自曝已删除贾玲微信",
+        "onboard_time": 1754615543,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290257,
+        "num": 278541,
+        "word": "shanks",
+        "onboard_time": 1754635582,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269444,
+        "num": 269444,
+        "word": "人社局回应胖东来招聘服刑人员",
+        "onboard_time": 1754630422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218525,
+        "num": 218525,
+        "word": "第一个让张婧仪戴眼镜的人是天才",
+        "onboard_time": 1754645902,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200473,
+        "num": 200473,
+        "word": "张元英宫脇咲良再现七年前名次",
+        "onboard_time": 1754636963,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142979,
+        "num": 187955,
+        "word": "首台索尔芯片轿车NOA景区实测",
+        "onboard_time": 1754645722,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180201,
+        "num": 180201,
+        "word": "南京DNA音乐节官宣",
+        "onboard_time": 1754645243,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179575,
+        "num": 179575,
+        "word": "icon",
+        "onboard_time": 1754641044,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168963,
+        "num": 168963,
+        "word": "男子梦中被追跳下3楼醒来在空中",
+        "onboard_time": 1754645663,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84232,
+        "num": 157058,
+        "word": "李连杰送女儿的新婚礼物",
+        "onboard_time": 1754644102,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152526,
+        "num": 152526,
+        "word": "时代峰峻把声明当朋友圈发",
+        "onboard_time": 1754645722,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150654,
+        "num": 150654,
+        "word": "管虎导演",
+        "onboard_time": 1754646322,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140116,
+        "num": 149134,
+        "word": "没有丑女人只有反应慢的女人",
+        "onboard_time": 1754644943,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147772,
+        "num": 147772,
+        "word": "父亲第一次见到女儿男朋友反应",
+        "onboard_time": 1754646142,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146425,
+        "num": 146425,
+        "word": "亿万富豪回应与17岁儿子置换血浆",
+        "onboard_time": 1754643681,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137817,
+        "num": 137817,
+        "word": "女子剖腹产住院11天16万金饰被偷",
+        "onboard_time": 1754641402,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133270,
+        "num": 133270,
+        "word": "赵露思同款",
+        "onboard_time": 1754641523,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132435,
+        "num": 132435,
+        "word": "刘宇宁的舞是王玉雯教的",
+        "onboard_time": 1754645961,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61175,
+        "num": 130082,
+        "word": "尹锡悦顽固拒捕大喊手臂要断了",
+        "onboard_time": 1754645602,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128060,
+        "num": 128060,
+        "word": "南京照相馆",
+        "onboard_time": 1754646262,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127719,
+        "num": 127719,
+        "word": "特朗普一句金正恩好吗让韩方傻眼",
+        "onboard_time": 1754637802,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124415,
+        "num": 124415,
+        "word": "董璇 他的世界里只有我",
+        "onboard_time": 1754645902,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124181,
+        "num": 124181,
+        "word": "双轨",
+        "onboard_time": 1754634682,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122614,
+        "num": 122614,
+        "word": "凭自己月入过万是什么体验",
+        "onboard_time": 1754640922,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121550,
+        "num": 121550,
+        "word": "生前你不理财死后财不理你",
+        "onboard_time": 1754645842,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107522,
+        "num": 107522,
+        "word": "什么剧女主竟然与11个男人雄竞",
+        "onboard_time": 1754642722,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107354,
+        "num": 107354,
+        "word": "立秋第一杯奶茶的受害者出现了",
+        "onboard_time": 1754608278,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103908,
+        "num": 103908,
+        "word": "胖东来新店招1千人200个给退伍军人",
+        "onboard_time": 1754630544,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94365,
+        "num": 101345,
+        "word": "上海执法类公务员年龄放宽至38岁",
+        "onboard_time": 1754644223,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101180,
+        "num": 101180,
+        "word": "猫 日子怎么可能和谁过都一样",
+        "onboard_time": 1754646502,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平的铿锵话语中感悟体育精神#"
+    }
+  }
+}
