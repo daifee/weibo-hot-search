@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754664543644,
+  "endTime": 1754667052106,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13983179,
+      "num": 13983179,
+      "word": "歌手排名",
+      "onboard_time": 1747406066,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13974214,
       "num": 14552739,
       "word": "武大回应图书馆事件",
@@ -561,14 +569,6 @@
       "onboard_time": 1745151327,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12839541,
-      "num": 12839541,
-      "word": "歌手排名",
-      "onboard_time": 1747406066,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 12791228,
@@ -937,6 +937,14 @@
       "onboard_time": 1746359842,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10253674,
+      "num": 10253674,
+      "word": "陈楚生歌王",
+      "onboard_time": 1754666010,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 10208509,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1754057303,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3939290,
-      "num": 3939290,
-      "word": "柯洁暴怒问裁判",
-      "onboard_time": 1737609679,
-      "rank": 3,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

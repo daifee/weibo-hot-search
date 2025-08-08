@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/08 22:49:03
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/08 23:30:52
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
+歌手排名（热度：13983179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%23" target="weibo">
 武大回应图书馆事件（热度：13974214）
 </a>
@@ -431,12 +437,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E9%9B%A8%E6%9E%9C%23" target="weibo">
 林诗栋vs雨果（热度：12853710）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
-歌手排名（热度：12839541）
 </a>
 </li>
 
@@ -713,6 +713,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%BB%94%E8%A5%BF%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E7%BA%A670%E4%BA%BA%E8%90%BD%E6%B0%B4%23" target="weibo">
 贵州黔西游船侧翻事故约70人落水（热度：10416594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%AD%8C%E7%8E%8B%23" target="weibo">
+陈楚生歌王（热度：10253674）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%99%8B%E7%BA%A7%23" target="weibo">
 歌手晋级（热度：3946933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E6%9A%B4%E6%80%92%E9%97%AE%E8%A3%81%E5%88%A4%23" target="weibo">
-柯洁暴怒问裁判（热度：3939290）
 </a>
 </li>
 
