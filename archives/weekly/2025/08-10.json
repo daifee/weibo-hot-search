@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754760198348,
+  "endTime": 1754761297595,
   "band_list": [
     {
       "raw_hot": 1141252,
@@ -99,6 +99,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 296491,
+      "num": 296491,
+      "word": "用微信记录自律太好用了",
+      "onboard_time": 1754754982,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 286301,
       "num": 286301,
       "word": "院长回应规培生等禁入职工餐厅吃饭",
@@ -113,14 +121,6 @@
       "onboard_time": 1754744602,
       "rank": 13,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 248061,
-      "num": 248061,
-      "word": "用微信记录自律太好用了",
-      "onboard_time": 1754754982,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 242582,
@@ -153,6 +153,14 @@
       "onboard_time": 1754751924,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193683,
+      "num": 193683,
+      "word": "大爷摆摊自称送20万现金无人敢拿",
+      "onboard_time": 1754755282,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192563,
@@ -217,14 +225,6 @@
       "onboard_time": 1754739382,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122158,
-      "num": 127813,
-      "word": "大爷摆摊自称送20万现金无人敢拿",
-      "onboard_time": 1754755282,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115022,
@@ -419,12 +419,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56225,
+      "num": 56225,
+      "word": "宋亚轩十分像从前",
+      "onboard_time": 1754760798,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54669,
       "num": 85361,
       "word": "被逆行女子剐蹭小伙教科书式回答",
       "onboard_time": 1754753783,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40588,
+      "num": 54948,
+      "word": "张康乐喊你出招",
+      "onboard_time": 1754760617,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33553,
+      "num": 54934,
+      "word": "印度宣称曾击落巴方6架战机",
+      "onboard_time": 1754748083,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2969,
