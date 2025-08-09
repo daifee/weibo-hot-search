@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754750597801,
+  "endTime": 1754753222500,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1465637,
-      "num": 281703,
+      "num": 296811,
       "word": "徐杰被曝出轨",
       "onboard_time": 1754748144,
       "rank": 11,
@@ -97,6 +97,14 @@
       "onboard_time": 1754729181,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1235374,
+      "num": 1235374,
+      "word": "田曦薇美成这样",
+      "onboard_time": 1754746763,
+      "rank": 24,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 1228769,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1067303,
+      "num": 1067303,
+      "word": "百果园称不会迎合消费者",
+      "onboard_time": 1754751205,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1045750,
       "num": 1045750,
       "word": "孟子义瘦到了90斤以下",
@@ -161,14 +177,6 @@
       "onboard_time": 1754723241,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1014582,
-      "num": 1162333,
-      "word": "田曦薇美成这样",
-      "onboard_time": 1754746763,
-      "rank": 24,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 1012276,
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 815923,
+      "num": 815923,
+      "word": "中国留学生在澳遭围殴抢救超30小时",
+      "onboard_time": 1754749345,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 809791,
       "num": 444582,
       "word": "利剑玫瑰大结局",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 719151,
-      "num": 431728,
+      "num": 564436,
       "word": "虞书欣全开麦唱跳",
       "onboard_time": 1754744602,
       "rank": 27,
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405583,
+      "num": 296655,
+      "word": "虞书欣连戴不上耳机都有callback",
+      "onboard_time": 1754750725,
+      "rank": 12,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 384868,
       "num": 143420,
       "word": "王力宏赛后发文",
@@ -675,8 +699,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371423,
+      "num": 296154,
+      "word": "赵露思手机号被泄漏",
+      "onboard_time": 1754752704,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370316,
-      "num": 275215,
+      "num": 295896,
       "word": "小S两女儿颜值",
       "onboard_time": 1754747425,
       "rank": 14,
@@ -729,6 +761,14 @@
       "onboard_time": 1754707521,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 355957,
+      "num": 296546,
+      "word": "徐杰 赌球",
+      "onboard_time": 1754751205,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 354747,
@@ -795,11 +835,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 312473,
-      "num": 312473,
-      "word": "中国留学生在澳遭围殴抢救超30小时",
-      "onboard_time": 1754749345,
-      "rank": 36,
+      "raw_hot": 313251,
+      "num": 295909,
+      "word": "男子离家前吐西瓜籽回来时满院西瓜",
+      "onboard_time": 1754751564,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1443,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189752,
+      "num": 189752,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1754752643,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189487,
       "num": 189487,
       "word": "男子赌气离家29年领退休金时现身",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1754748325,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183359,
+      "num": 183359,
+      "word": "王源官宣了鸟巢演唱会",
+      "onboard_time": 1754750604,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 183064,
@@ -1819,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165568,
+      "num": 165568,
+      "word": "为什么中国的神仙都是竖着飞",
+      "onboard_time": 1754751924,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164763,
       "num": 164763,
       "word": "李沁天塌下来也得先出片",
@@ -1947,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158886,
+      "num": 158886,
+      "word": "鹿晗撒娇一次抵20张自拍",
+      "onboard_time": 1754751804,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158542,
       "num": 158542,
       "word": "医院回应禁止规培生进职工餐厅吃饭",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1754649382,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155789,
+      "num": 155789,
+      "word": "董璇张维伊实际相处时间才一个月",
+      "onboard_time": 1754750485,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 155741,
@@ -2115,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146093,
+      "num": 146093,
+      "word": "陈奕迅澳门收官站偶遇杨千嬅",
+      "onboard_time": 1754751924,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144881,
       "num": 144881,
       "word": "利剑玫瑰收视率",
@@ -2129,6 +2217,14 @@
       "onboard_time": 1754738061,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144308,
+      "num": 144308,
+      "word": "凡人修仙传24集打戏占比90%",
+      "onboard_time": 1754752944,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 143709,
@@ -2347,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133322,
+      "num": 133322,
+      "word": "没有然然和章阿姨相认的镜头",
+      "onboard_time": 1754751924,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133065,
       "num": 316180,
       "word": "甘肃榆中山洪已致15人遇难28人失联",
@@ -2451,6 +2555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127784,
+      "num": 119114,
+      "word": "好一场青你创造营大战",
+      "onboard_time": 1754752463,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127474,
       "num": 127474,
       "word": "刘惜君给单依纯擦眼泪",
@@ -2521,6 +2633,14 @@
       "onboard_time": 1754662645,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122379,
+      "num": 122379,
+      "word": "矿坑绿化后一天卖了8000杯咖啡",
+      "onboard_time": 1754751325,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122367,
@@ -2601,6 +2721,14 @@
       "onboard_time": 1754668825,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118563,
+      "num": 118563,
+      "word": "种地吧",
+      "onboard_time": 1754753184,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 117829,
@@ -2755,6 +2883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111266,
+      "num": 151800,
+      "word": "洞洞鞋到底丑还是潮",
+      "onboard_time": 1754748985,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111229,
       "num": 121925,
       "word": "打投诉电话把充电宝打爆了",
@@ -2824,14 +2960,6 @@
       "word": "成都一串串店每桌一个大冰块",
       "onboard_time": 1754750124,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107308,
-      "num": 151800,
-      "word": "洞洞鞋到底丑还是潮",
-      "onboard_time": 1754748985,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2955,6 +3083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102173,
+      "num": 144172,
+      "word": "拉丁舞裁判",
+      "onboard_time": 1754750005,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101689,
       "num": 121057,
       "word": "甘肃榆中已救出被困群众443人",
@@ -2985,14 +3121,6 @@
       "onboard_time": 1754651361,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 99647,
-      "num": 144172,
-      "word": "拉丁舞裁判",
-      "onboard_time": 1754750005,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 99101,
@@ -3123,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86119,
+      "num": 297163,
+      "word": "日本老人奔走16年拼凑中国英雄一生",
+      "onboard_time": 1754752704,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84632,
       "num": 119085,
       "word": "警方回应乘客飞机上发生肢体冲突",
@@ -3161,6 +3297,14 @@
       "onboard_time": 1754663606,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78219,
+      "num": 288833,
+      "word": "婚内强奸案将开庭被告方作无罪辩护",
+      "onboard_time": 1754751744,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77554,
@@ -3251,6 +3395,14 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 66678,
+      "num": 290689,
+      "word": "游戏圈顶配明星COS团来了",
+      "onboard_time": 1754751325,
+      "rank": 18,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 65626,
       "num": 65626,
       "word": "IVE迷你四辑概念预告",
@@ -3297,6 +3449,14 @@
       "onboard_time": 1754695397,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61035,
+      "num": 296288,
+      "word": "宋茜圣堂之誓高空威亚走秀",
+      "onboard_time": 1754751325,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 59831,
@@ -3371,6 +3531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49787,
+      "num": 119140,
+      "word": "陶白白 爱到最后都一样",
+      "onboard_time": 1754753125,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 48839,
       "num": 123720,
       "word": "3000张live图 1分钱",
@@ -3393,14 +3561,6 @@
       "onboard_time": 1754723302,
       "rank": 19,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 47392,
-      "num": 152128,
-      "word": "董璇张维伊实际相处时间才一个月",
-      "onboard_time": 1754750485,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 47029,
@@ -3585,6 +3745,14 @@
       "onboard_time": 1754676916,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27174,
+      "num": 155988,
+      "word": "法官自述高中生持刀抢劫案为何轻判",
+      "onboard_time": 1754751683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26306,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754753222500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235374,
+        "num": 1235374,
+        "word": "田曦薇美成这样",
+        "onboard_time": 1754746763,
+        "rank": 0,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 1067303,
+        "num": 1067303,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3806,
+        "num": 865283,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815923,
+        "num": 815923,
+        "word": "中国留学生在澳遭围殴抢救超30小时",
+        "onboard_time": 1754749345,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564436,
+        "num": 564436,
+        "word": "虞书欣全开麦唱跳",
+        "onboard_time": 1754744602,
+        "rank": 4,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 401600,
+        "num": 401600,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354439,
+        "num": 354439,
+        "word": "遇车祸一家刚拿到孩子小学录取通知",
+        "onboard_time": 1754743642,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339983,
+        "num": 339983,
+        "word": "利剑玫瑰大结局",
+        "onboard_time": 1754741362,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297233,
+        "num": 297233,
+        "word": "孙颖莎终结对手对国乒的11连胜",
+        "onboard_time": 1754740341,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86119,
+        "num": 297163,
+        "word": "日本老人奔走16年拼凑中国英雄一生",
+        "onboard_time": 1754752704,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1522458,
+        "num": 296919,
+        "word": "赵露思回应鼻子动了",
+        "onboard_time": 1754746404,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1330669,
+        "num": 296811,
+        "word": "徐杰被曝出轨",
+        "onboard_time": 1754748144,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405583,
+        "num": 296655,
+        "word": "虞书欣连戴不上耳机都有callback",
+        "onboard_time": 1754750725,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 355957,
+        "num": 296546,
+        "word": "徐杰 赌球",
+        "onboard_time": 1754751205,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61035,
+        "num": 296288,
+        "word": "宋茜圣堂之誓高空威亚走秀",
+        "onboard_time": 1754751325,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 371423,
+        "num": 296154,
+        "word": "赵露思手机号被泄漏",
+        "onboard_time": 1754752704,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313251,
+        "num": 295909,
+        "word": "男子离家前吐西瓜籽回来时满院西瓜",
+        "onboard_time": 1754751564,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295896,
+        "num": 295896,
+        "word": "小S两女儿颜值",
+        "onboard_time": 1754747425,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66678,
+        "num": 290689,
+        "word": "游戏圈顶配明星COS团来了",
+        "onboard_time": 1754751325,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 78219,
+        "num": 288833,
+        "word": "婚内强奸案将开庭被告方作无罪辩护",
+        "onboard_time": 1754751744,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288210,
+        "num": 288210,
+        "word": "你好星期六",
+        "onboard_time": 1754739382,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230264,
+        "num": 230264,
+        "word": "鹿晗编了小辫子",
+        "onboard_time": 1754744723,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189752,
+        "num": 189752,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1754752643,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183359,
+        "num": 183359,
+        "word": "王源官宣了鸟巢演唱会",
+        "onboard_time": 1754750604,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183086,
+        "num": 183086,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178806,
+        "num": 178806,
+        "word": "外卖员被曝隔窗偷拍女生洗澡",
+        "onboard_time": 1754744422,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169034,
+        "num": 169034,
+        "word": "西安汉服馆冲突双方被拘留",
+        "onboard_time": 1754745864,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165568,
+        "num": 165568,
+        "word": "为什么中国的神仙都是竖着飞",
+        "onboard_time": 1754751924,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158886,
+        "num": 158886,
+        "word": "鹿晗撒娇一次抵20张自拍",
+        "onboard_time": 1754751804,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27174,
+        "num": 155988,
+        "word": "法官自述高中生持刀抢劫案为何轻判",
+        "onboard_time": 1754751683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155789,
+        "num": 155789,
+        "word": "董璇张维伊实际相处时间才一个月",
+        "onboard_time": 1754750485,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153377,
+        "num": 153377,
+        "word": "张艺兴今晚跳了咆哮",
+        "onboard_time": 1754749825,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152529,
+        "num": 152529,
+        "word": "和平精英直播",
+        "onboard_time": 1754737161,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 146093,
+        "num": 146093,
+        "word": "陈奕迅澳门收官站偶遇杨千嬅",
+        "onboard_time": 1754751924,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144308,
+        "num": 144308,
+        "word": "凡人修仙传24集打戏占比90%",
+        "onboard_time": 1754752944,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140977,
+        "num": 140977,
+        "word": "田曦薇金发玛丽猫",
+        "onboard_time": 1754743102,
+        "rank": 35,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 135321,
+        "num": 135321,
+        "word": "袁咏仪也是孙颖莎球迷",
+        "onboard_time": 1754746344,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 133322,
+        "num": 133322,
+        "word": "没有然然和章阿姨相认的镜头",
+        "onboard_time": 1754751924,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122379,
+        "num": 122379,
+        "word": "矿坑绿化后一天卖了8000杯咖啡",
+        "onboard_time": 1754751325,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49787,
+        "num": 119140,
+        "word": "陶白白 爱到最后都一样",
+        "onboard_time": 1754753125,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131184,
+        "num": 119120,
+        "word": "权志龙 再吵我可要下班了",
+        "onboard_time": 1754747544,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127784,
+        "num": 119114,
+        "word": "好一场青你创造营大战",
+        "onboard_time": 1754752463,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119099,
+        "num": 119099,
+        "word": "当我用洗洁精洗眼镜一年后",
+        "onboard_time": 1754734343,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118563,
+        "num": 118563,
+        "word": "种地吧",
+        "onboard_time": 1754753184,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118493,
+        "num": 118493,
+        "word": "iG战胜JDG",
+        "onboard_time": 1754748624,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114590,
+        "num": 114590,
+        "word": "印度宣称曾击落巴方6架战机",
+        "onboard_time": 1754748083,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111266,
+        "num": 111266,
+        "word": "洞洞鞋到底丑还是潮",
+        "onboard_time": 1754748985,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102173,
+        "num": 102173,
+        "word": "拉丁舞裁判",
+        "onboard_time": 1754750005,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101818,
+        "num": 101818,
+        "word": "孙颖莎错位马尾好可爱",
+        "onboard_time": 1754750005,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98105,
+        "num": 98105,
+        "word": "成都一串串店每桌一个大冰块",
+        "onboard_time": 1754750124,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
