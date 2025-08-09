@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754736308835,
+  "endTime": 1754738548813,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 909917,
-      "num": 310198,
+      "num": 319716,
       "word": "发作性睡病",
       "onboard_time": 1754729663,
       "rank": 22,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 857893,
+      "num": 1137263,
+      "word": "和平精英直播",
+      "onboard_time": 1754737161,
+      "rank": 0,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 827514,
       "num": 516368,
       "word": "董璇说下一个大事就是有了小小张",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 816653,
-      "num": 306983,
+      "num": 330955,
       "word": "隐性嫉妒",
       "onboard_time": 1754731343,
       "rank": 38,
@@ -347,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 586234,
+      "num": 322647,
+      "word": "越来越看不懂年轻人的泳衣了",
+      "onboard_time": 1754734464,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 571463,
       "num": 571463,
       "word": "婚内强奸案男方因一段录音疑妻出轨",
       "onboard_time": 1754715562,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565973,
+      "num": 565973,
+      "word": "李沁 一生要出片的中国女人",
+      "onboard_time": 1754732602,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 557062,
@@ -392,14 +416,6 @@
       "word": "女歌手们都是歌王",
       "onboard_time": 1754665471,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 522817,
-      "num": 522817,
-      "word": "李沁 一生要出片的中国女人",
-      "onboard_time": 1754732602,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -443,20 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436430,
-      "num": 301048,
-      "word": "越来越看不懂年轻人的泳衣了",
-      "onboard_time": 1754734464,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 434976,
       "num": 240418,
       "word": "苏醒含银量",
       "onboard_time": 1754701460,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434021,
+      "num": 434021,
+      "word": "孙颖莎vs桥本帆乃香",
+      "onboard_time": 1754664564,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 428563,
@@ -611,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322061,
+      "num": 322061,
+      "word": "smtown",
+      "onboard_time": 1754732122,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 322039,
       "num": 322039,
       "word": "男子河道赶海1个月捡上万鞋花",
@@ -641,14 +665,6 @@
       "onboard_time": 1754728283,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289348,
-      "num": 289348,
-      "word": "smtown",
-      "onboard_time": 1754732122,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 287688,
@@ -697,6 +713,14 @@
       "onboard_time": 1754730623,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257151,
+      "num": 257151,
+      "word": "京东外卖",
+      "onboard_time": 1754736322,
+      "rank": 20,
+      "category": "互联网,电竞"
     },
     {
       "raw_hot": 249391,
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201579,
+      "num": 201579,
+      "word": "凡人修仙传沉香大战牛魔王",
+      "onboard_time": 1754737342,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199275,
       "num": 211268,
       "word": "张子枫感激向往的生活",
@@ -1147,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177752,
+      "num": 177752,
+      "word": "尹净汉仁川到达",
+      "onboard_time": 1754738061,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177751,
       "num": 177751,
       "word": "歌手",
@@ -1315,6 +1355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 163717,
+      "num": 163717,
+      "word": "孟子义误闯王星越向涵之定风波剧宣",
+      "onboard_time": 1754735901,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162814,
       "num": 159231,
       "word": "网红万千惠患心脏早搏",
@@ -1427,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152794,
-      "num": 152794,
-      "word": "孟子义误闯王星越向涵之定风波剧宣",
-      "onboard_time": 1754735901,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "王安宇的腿又细又长又直",
@@ -1491,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144403,
+      "num": 144403,
+      "word": "再就业男团在一起就是王炸级别",
+      "onboard_time": 1754738061,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143709,
       "num": 121545,
       "word": "Beni能不能去浪姐",
@@ -1505,6 +1553,14 @@
       "onboard_time": 1754710581,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142934,
+      "num": 142934,
+      "word": "美国编剧工会开除朴赞郁",
+      "onboard_time": 1754737882,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142795,
@@ -1643,6 +1699,14 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 133742,
+      "num": 133742,
+      "word": "沈腾问刘同你干嘛去了",
+      "onboard_time": 1754737700,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132584,
       "num": 168297,
       "word": "女子塞尔维亚旅游遭海关歧视",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1754710701,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132054,
+      "num": 132054,
+      "word": "于适直播",
+      "onboard_time": 1754737522,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 131954,
@@ -1755,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124298,
+      "num": 124298,
+      "word": "龚俊被萝莉音吓到失去表情管理",
+      "onboard_time": 1754737882,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124118,
       "num": 124118,
       "word": "沈腾弹马丽脑门根本没用力",
@@ -1779,6 +1859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123032,
+      "num": 123032,
+      "word": "多年将军无人知一朝体虚天下闻",
+      "onboard_time": 1754737522,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122930,
       "num": 119720,
       "word": "再就业男团演唱会官宣",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1754717001,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122042,
+      "num": 316180,
+      "word": "甘肃榆中山洪已致15人遇难28人失联",
+      "onboard_time": 1754735661,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121903,
@@ -2019,12 +2115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106536,
+      "num": 106536,
+      "word": "虞书欣和平精英代言人",
+      "onboard_time": 1754736382,
+      "rank": 45,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 106238,
       "num": 106238,
       "word": "为涉黑母亲辩护法官被批准逮捕",
       "onboard_time": 1754703201,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106060,
+      "num": 106060,
+      "word": "这竟然是张集骏",
+      "onboard_time": 1754738421,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105676,
@@ -2227,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93159,
+      "num": 339195,
+      "word": "又一轮强降雨来了",
+      "onboard_time": 1754737941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92496,
       "num": 114821,
       "word": "王楚钦呼噜呼噜毛",
@@ -2395,14 +2515,6 @@
       "category": "国内时政,电影"
     },
     {
-      "raw_hot": 66571,
-      "num": 316180,
-      "word": "甘肃榆中山洪已致15人遇难28人失联",
-      "onboard_time": 1754735661,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65626,
       "num": 65626,
       "word": "IVE迷你四辑概念预告",
@@ -2425,14 +2537,6 @@
       "onboard_time": 1754727683,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63915,
-      "num": 106920,
-      "word": "孙颖莎vs桥本帆乃香",
-      "onboard_time": 1754664564,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 62064,
@@ -2537,6 +2641,14 @@
       "onboard_time": 1754695277,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44803,
+      "num": 263888,
+      "word": "时代广场的时是时团的时",
+      "onboard_time": 1754738122,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 44201,
@@ -2697,6 +2809,14 @@
       "onboard_time": 1754679675,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24639,
+      "num": 146598,
+      "word": "医生为2.8公斤早产儿成功补心",
+      "onboard_time": 1754737282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24256,
