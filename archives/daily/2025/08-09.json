@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754724321679,
+  "endTime": 1754725151319,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 905369,
+      "num": 418808,
+      "word": "昆凌把周杰伦裁掉了",
+      "onboard_time": 1754723241,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862320,
       "num": 355770,
       "word": "麦琳88斤了",
@@ -169,6 +177,14 @@
       "onboard_time": 1754704821,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 717366,
+      "num": 717366,
+      "word": "日本网友被科普日本侵华历史大破防",
+      "onboard_time": 1754721802,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 714926,
@@ -243,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 618594,
-      "num": 618594,
-      "word": "日本网友被科普日本侵华历史大破防",
-      "onboard_time": 1754721802,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 614031,
       "num": 429261,
       "word": "李沁花儿与少年官宣海报",
@@ -265,6 +273,14 @@
       "onboard_time": 1754718023,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 597808,
+      "num": 343354,
+      "word": "赵露思保镖 跟着赵姐特别好",
+      "onboard_time": 1754723362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 589411,
@@ -363,28 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418808,
-      "num": 418808,
-      "word": "昆凌把周杰伦裁掉了",
-      "onboard_time": 1754723241,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 414592,
       "num": 414592,
       "word": "普京10年来首次赴美",
       "onboard_time": 1754712742,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 408467,
-      "num": 334999,
-      "word": "赵露思保镖 跟着赵姐特别好",
-      "onboard_time": 1754723362,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 406920,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317010,
+      "num": 276466,
+      "word": "人民日报对话朱一龙",
+      "onboard_time": 1754723122,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300202,
       "num": 300202,
       "word": "王楚钦光速挺进八强",
@@ -553,14 +561,6 @@
       "onboard_time": 1754717662,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276466,
-      "num": 276466,
-      "word": "人民日报对话朱一龙",
-      "onboard_time": 1754723122,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 241559,
@@ -683,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208252,
+      "num": 208252,
+      "word": "风度",
+      "onboard_time": 1754723302,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204941,
       "num": 204941,
       "word": "中国女子坠入日本东京大学烟囱死亡",
@@ -713,6 +721,14 @@
       "onboard_time": 1754723183,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199876,
+      "num": 199876,
+      "word": "退休金要有一个额度",
+      "onboard_time": 1754723722,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199275,
@@ -803,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190670,
-      "num": 190670,
-      "word": "风度",
-      "onboard_time": 1754723302,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 189487,
       "num": 189487,
       "word": "男子赌气离家29年领退休金时现身",
@@ -827,12 +835,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187726,
+      "num": 187726,
+      "word": "陈奕恒公演",
+      "onboard_time": 1754724202,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185389,
       "num": 185389,
       "word": "大学不教但是真正有用的东西",
       "onboard_time": 1754709861,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 182124,
+      "num": 182124,
+      "word": "王楚钦3比0吴晙诚",
+      "onboard_time": 1754724383,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 181751,
@@ -849,6 +873,14 @@
       "onboard_time": 1754720304,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178858,
+      "num": 178858,
+      "word": "贾玲就该过这样的生活",
+      "onboard_time": 1754723841,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 177751,
@@ -987,20 +1019,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158446,
+      "num": 351754,
+      "word": "现实版南京照相馆还在境外上演",
+      "onboard_time": 1754723421,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157856,
       "num": 346427,
       "word": "吉利星座04组卫星发射成功",
       "onboard_time": 1754699120,
       "rank": 17,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 156747,
-      "num": 156747,
-      "word": "退休金要有一个额度",
-      "onboard_time": 1754723722,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155799,
@@ -1019,16 +1051,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154326,
-      "num": 154326,
-      "word": "陈奕恒公演",
-      "onboard_time": 1754724202,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 152334,
-      "num": 152334,
+      "raw_hot": 152420,
+      "num": 152420,
       "word": "王安宇的腿又细又长又直",
       "onboard_time": 1754721862,
       "rank": 44,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1754701279,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143887,
+      "num": 291414,
+      "word": "小狗未拴绳被碾主人失控捶打司机",
+      "onboard_time": 1754722281,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143709,
@@ -1139,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140047,
-      "num": 140047,
-      "word": "贾玲就该过这样的生活",
-      "onboard_time": 1754723841,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139785,
       "num": 150355,
       "word": "爱出门的人能量很高",
@@ -1179,12 +1203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135765,
-      "num": 135765,
-      "word": "小狗未拴绳被碾主人失控捶打司机",
-      "onboard_time": 1754722281,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 135855,
+      "num": 135855,
+      "word": "原来双皮奶是佛山特产",
+      "onboard_time": 1754723901,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 133817,
@@ -1211,12 +1235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131830,
-      "num": 131830,
-      "word": "原来双皮奶是佛山特产",
-      "onboard_time": 1754723901,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 131954,
+      "num": 239818,
+      "word": "瘦下来之后性格真的完全变了",
+      "onboard_time": 1754724321,
+      "rank": 18,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 130630,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1754712083,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130136,
+      "num": 130136,
+      "word": "给刘浩存P成185了",
+      "onboard_time": 1754724862,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 128206,
@@ -1379,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117829,
+      "num": 117829,
+      "word": "王铮亮王栎鑫许魏洲俩王带一炸",
+      "onboard_time": 1754724982,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117371,
       "num": 153687,
       "word": "特朗普称美俄会晤前普京不必见泽连斯基",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1754704941,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112853,
-      "num": 351754,
-      "word": "现实版南京照相馆还在境外上演",
-      "onboard_time": 1754723421,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112837,
@@ -1555,12 +1587,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103211,
+      "num": 103211,
+      "word": "谷围南亭一看就是请高人了",
+      "onboard_time": 1754724263,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 102446,
+      "num": 160717,
+      "word": "朱一龙戏抛脸演技",
+      "onboard_time": 1754724263,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101689,
       "num": 121057,
       "word": "甘肃榆中已救出被困群众443人",
       "onboard_time": 1754667744,
       "rank": 34,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101568,
+      "num": 133710,
+      "word": "旭旭宝宝谈蓝战非",
+      "onboard_time": 1754724082,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 100722,
@@ -1593,14 +1649,6 @@
       "onboard_time": 1754714121,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98008,
-      "num": 98008,
-      "word": "谷围南亭一看就是请高人了",
-      "onboard_time": 1754724263,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 97495,
@@ -1665,14 +1713,6 @@
       "onboard_time": 1754667085,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81815,
-      "num": 122197,
-      "word": "朱一龙戏抛脸演技",
-      "onboard_time": 1754724263,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 79392,
@@ -1867,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53520,
-      "num": 125838,
-      "word": "旭旭宝宝谈蓝战非",
-      "onboard_time": 1754724082,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 47800,
       "num": 354753,
       "word": "原来潮人不怕热都是有原因的",
@@ -1883,7 +1915,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46165,
+      "raw_hot": 47681,
       "num": 254882,
       "word": "单依纯星空眼妆教程来了",
       "onboard_time": 1754723302,
@@ -2097,6 +2129,14 @@
       "onboard_time": 1754534600,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1546,
+      "num": 133806,
+      "word": "我有点不理解我青春期的女儿了",
+      "onboard_time": 1754724442,
+      "rank": 38,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
