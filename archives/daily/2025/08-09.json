@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754717230859,
+  "endTime": 1754718292697,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -51,8 +51,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1150251,
-      "num": 1150251,
+      "raw_hot": 1153458,
+      "num": 1184553,
       "word": "张维伊给去世父亲交话费",
       "onboard_time": 1754714781,
       "rank": 25,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 675261,
+      "num": 520092,
+      "word": "董璇张维伊想生二胎",
+      "onboard_time": 1754717182,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661707,
       "num": 478487,
       "word": "郑钧说老婆下死命令支持陈楚生",
@@ -203,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571463,
+      "num": 571463,
+      "word": "婚内强奸案男方因一段录音疑妻出轨",
+      "onboard_time": 1754715562,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 545968,
+      "num": 280886,
+      "word": "成龙自曝与邓丽君分手原因",
+      "onboard_time": 1754718262,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537361,
       "num": 381185,
       "word": "披哥史上第一位女主持人",
@@ -257,14 +281,6 @@
       "onboard_time": 1754701460,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434163,
-      "num": 434163,
-      "word": "婚内强奸案男方因一段录音疑妻出轨",
-      "onboard_time": 1754715562,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 428563,
@@ -419,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290985,
+      "num": 247471,
+      "word": "韩安冉回应代孕",
+      "onboard_time": 1754717962,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287490,
       "num": 287490,
       "word": "社保",
       "onboard_time": 1754653342,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240160,
+      "num": 240160,
+      "word": "秀才直播催中老年粉丝刷礼物",
+      "onboard_time": 1754715802,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 239210,
@@ -499,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209466,
-      "num": 209466,
-      "word": "秀才直播催中老年粉丝刷礼物",
-      "onboard_time": 1754715802,
-      "rank": 22,
-      "category": "网红"
+      "raw_hot": 213300,
+      "num": 213300,
+      "word": "心动的信号",
+      "onboard_time": 1754717602,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 208479,
@@ -603,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189059,
+      "num": 189059,
+      "word": "易烊千玺北京演唱会海报",
+      "onboard_time": 1754717602,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185389,
       "num": 185389,
       "word": "大学不教但是真正有用的东西",
@@ -657,6 +697,14 @@
       "onboard_time": 1754706982,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167352,
+      "num": 167352,
+      "word": "00后整顿职场的下场怎么没人说了",
+      "onboard_time": 1754717421,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 166521,
@@ -771,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146525,
+      "num": 146525,
+      "word": "林诗栋王曼昱爆冷出局",
+      "onboard_time": 1754717662,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144881,
       "num": 144881,
       "word": "利剑玫瑰收视率",
@@ -827,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140451,
+      "num": 140451,
+      "word": "陈楚生把芒果台的冠军拿齐了",
+      "onboard_time": 1754717060,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139785,
       "num": 150355,
       "word": "爱出门的人能量很高",
@@ -865,14 +929,6 @@
       "onboard_time": 1754712083,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130152,
-      "num": 130152,
-      "word": "陈楚生把芒果台的冠军拿齐了",
-      "onboard_time": 1754717060,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 128206,
@@ -931,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123129,
+      "num": 123129,
+      "word": "黎深背头",
+      "onboard_time": 1754717662,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122930,
       "num": 119720,
       "word": "再就业男团演唱会官宣",
@@ -945,6 +1009,14 @@
       "onboard_time": 1754717001,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121968,
+      "num": 121968,
+      "word": "张晚意出国旅行就带一块香皂",
+      "onboard_time": 1754717662,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 121903,
@@ -963,20 +1035,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120382,
+      "num": 120382,
+      "word": "养了30年乌龟被人抱走了主人求别杀",
+      "onboard_time": 1754718023,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119614,
       "num": 119614,
       "word": "汪苏泷把头发染成奶茶色",
       "onboard_time": 1754666429,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119409,
-      "num": 119409,
-      "word": "董璇张维伊想生二胎",
-      "onboard_time": 1754717182,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 119049,
@@ -1035,6 +1107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113744,
+      "num": 113744,
+      "word": "左航吃12碗饭的含金量还在上升",
+      "onboard_time": 1754718202,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112888,
       "num": 113936,
       "word": "没有人觉得骑电瓶车很好笑吗",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1754665294,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109096,
+      "num": 109096,
+      "word": "TF四代肆意少年伴手礼",
+      "onboard_time": 1754718262,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 108225,
@@ -1123,12 +1211,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 101142,
+      "num": 101142,
+      "word": "特朗普透露俄乌将交换领土",
+      "onboard_time": 1754717241,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100722,
       "num": 122097,
       "word": "Shanks事件女生发文",
       "onboard_time": 1754651361,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99085,
+      "num": 98340,
+      "word": "WTT横滨冠军赛男单仅剩王楚钦向鹏",
+      "onboard_time": 1754717962,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98800,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1754670143,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97303,
+      "num": 97303,
+      "word": "石洵瑶3比2伊藤美诚",
+      "onboard_time": 1754718262,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96320,
@@ -1209,6 +1321,14 @@
       "onboard_time": 1754663606,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77554,
+      "num": 146554,
+      "word": "22小时制酒店凭啥收24小时的钱",
+      "onboard_time": 1754717543,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77129,
@@ -1340,7 +1460,7 @@
     },
     {
       "raw_hot": 55410,
-      "num": 220611,
+      "num": 249753,
       "word": "周深小美满还能这样唱",
       "onboard_time": 1754716043,
       "rank": 18,
@@ -1353,6 +1473,14 @@
       "onboard_time": 1754651782,
       "rank": 37,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 54296,
+      "num": 146757,
+      "word": "白举纲发长文正式告别歌手2025",
+      "onboard_time": 1754716462,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 47800,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754718292697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153458,
+        "num": 1184553,
+        "word": "张维伊给去世父亲交话费",
+        "onboard_time": 1754714781,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1110957,
+        "num": 1110957,
+        "word": "指示牌China写成Ching",
+        "onboard_time": 1754711902,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31682,
+        "num": 797858,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702237,
+        "num": 702237,
+        "word": "孟子义瘦到了90斤以下",
+        "onboard_time": 1754712381,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571463,
+        "num": 571463,
+        "word": "婚内强奸案男方因一段录音疑妻出轨",
+        "onboard_time": 1754715562,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545244,
+        "num": 545244,
+        "word": "冰川融化现沉睡28年尸体",
+        "onboard_time": 1754701160,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 675261,
+        "num": 520092,
+        "word": "董璇张维伊想生二胎",
+        "onboard_time": 1754717182,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409300,
+        "num": 409300,
+        "word": "李沁花儿与少年官宣海报",
+        "onboard_time": 1754711902,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326804,
+        "num": 326804,
+        "word": "普京10年来首次赴美",
+        "onboard_time": 1754712742,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292688,
+        "num": 292688,
+        "word": "列车卧铺 床虱",
+        "onboard_time": 1754708481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566834,
+        "num": 288087,
+        "word": "张曼玉优衣库",
+        "onboard_time": 1754714662,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545968,
+        "num": 280886,
+        "word": "成龙自曝与邓丽君分手原因",
+        "onboard_time": 1754718262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378881,
+        "num": 265603,
+        "word": "丁太升说单依纯没得歌王是好事",
+        "onboard_time": 1754713762,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354011,
+        "num": 260341,
+        "word": "金惠敏黄嘉杰分手",
+        "onboard_time": 1754711421,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250693,
+        "num": 250693,
+        "word": "男子转嫖娼对象138万原配追讨败诉",
+        "onboard_time": 1754666845,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34229,
+        "num": 249753,
+        "word": "周深小美满还能这样唱",
+        "onboard_time": 1754716043,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313121,
+        "num": 249025,
+        "word": "苏醒苏新皓聊天记录",
+        "onboard_time": 1754704461,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290985,
+        "num": 247471,
+        "word": "韩安冉回应代孕",
+        "onboard_time": 1754717962,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269147,
+        "num": 247109,
+        "word": "赵露思说半只脚跨出行业了",
+        "onboard_time": 1754711240,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255848,
+        "num": 246104,
+        "word": "陈楚生 我也希望我是皇",
+        "onboard_time": 1754705000,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245078,
+        "num": 245078,
+        "word": "披哥史上第一位女主持人",
+        "onboard_time": 1754711301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240160,
+        "num": 240160,
+        "word": "秀才直播催中老年粉丝刷礼物",
+        "onboard_time": 1754715802,
+        "rank": 21,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 229364,
+        "num": 229364,
+        "word": "我再也不翻马桶坐垫了",
+        "onboard_time": 1754707402,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213300,
+        "num": 213300,
+        "word": "心动的信号",
+        "onboard_time": 1754717602,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192803,
+        "num": 192803,
+        "word": "爱奇艺认证的三部爆剧",
+        "onboard_time": 1754704821,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189059,
+        "num": 189059,
+        "word": "易烊千玺北京演唱会海报",
+        "onboard_time": 1754717602,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167352,
+        "num": 167352,
+        "word": "00后整顿职场的下场怎么没人说了",
+        "onboard_time": 1754717421,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147141,
+        "num": 147141,
+        "word": "女子吐槽1万7的月子餐像预制菜",
+        "onboard_time": 1754706261,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54296,
+        "num": 146757,
+        "word": "白举纲发长文正式告别歌手2025",
+        "onboard_time": 1754716462,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77554,
+        "num": 146554,
+        "word": "22小时制酒店凭啥收24小时的钱",
+        "onboard_time": 1754717543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146525,
+        "num": 146525,
+        "word": "林诗栋王曼昱爆冷出局",
+        "onboard_time": 1754717662,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143642,
+        "num": 143642,
+        "word": "南瓜人生被虞书欣激励了两次",
+        "onboard_time": 1754716883,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143425,
+        "num": 143425,
+        "word": "时团粉丝发长文感谢爆米花",
+        "onboard_time": 1754716282,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140451,
+        "num": 140451,
+        "word": "陈楚生把芒果台的冠军拿齐了",
+        "onboard_time": 1754717060,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140188,
+        "num": 140188,
+        "word": "陈楚生歌王",
+        "onboard_time": 1754666010,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132917,
+        "num": 132917,
+        "word": "花儿与少年7",
+        "onboard_time": 1754705541,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123129,
+        "num": 123129,
+        "word": "黎深背头",
+        "onboard_time": 1754717662,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121968,
+        "num": 121968,
+        "word": "张晚意出国旅行就带一块香皂",
+        "onboard_time": 1754717662,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120382,
+        "num": 120382,
+        "word": "养了30年乌龟被人抱走了主人求别杀",
+        "onboard_time": 1754718023,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117799,
+        "num": 117799,
+        "word": "阿根廷中国行取消",
+        "onboard_time": 1754709921,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119150,
+        "num": 117636,
+        "word": "你永远可以相信幂姐的穿搭",
+        "onboard_time": 1754715441,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117460,
+        "num": 117460,
+        "word": "时代少年团出座位图了",
+        "onboard_time": 1754713643,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114066,
+        "num": 114066,
+        "word": "女子切开莲子发现里面真的有哪吒",
+        "onboard_time": 1754709981,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113744,
+        "num": 113744,
+        "word": "左航吃12碗饭的含金量还在上升",
+        "onboard_time": 1754718202,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109096,
+        "num": 109096,
+        "word": "TF四代肆意少年伴手礼",
+        "onboard_time": 1754718262,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102228,
+        "num": 102228,
+        "word": "女子用吹风机吹头发下一秒炸了",
+        "onboard_time": 1754700321,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101142,
+        "num": 101142,
+        "word": "特朗普透露俄乌将交换领土",
+        "onboard_time": 1754717241,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98910,
+        "num": 98910,
+        "word": "县城相亲开始流行内推了",
+        "onboard_time": 1754714062,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99085,
+        "num": 98340,
+        "word": "WTT横滨冠军赛男单仅剩王楚钦向鹏",
+        "onboard_time": 1754717962,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97303,
+        "num": 97303,
+        "word": "石洵瑶3比2伊藤美诚",
+        "onboard_time": 1754718262,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京通电话#"
+    }
+  }
+}
