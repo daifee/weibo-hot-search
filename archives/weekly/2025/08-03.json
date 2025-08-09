@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754696489990,
+  "endTime": 1754704992742,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1589783,
+      "num": 1589783,
+      "word": "冰川融化现沉睡28年尸体",
+      "onboard_time": 1754701160,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1585244,
       "num": 1187553,
       "word": "尚九熙回应",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1754655503,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1108127,
+      "num": 682109,
+      "word": "赵露思替经纪人求职",
+      "onboard_time": 1754700560,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1105267,
@@ -1979,6 +1995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 709025,
+      "num": 709025,
+      "word": "0713",
+      "onboard_time": 1754701401,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707985,
       "num": 245490,
       "word": "落叶归根",
@@ -2209,6 +2233,14 @@
       "onboard_time": 1754539523,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661707,
+      "num": 478487,
+      "word": "郑钧说老婆下死命令支持陈楚生",
+      "onboard_time": 1754700621,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 661518,
@@ -3739,6 +3771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434976,
+      "num": 215991,
+      "word": "苏醒含银量",
+      "onboard_time": 1754701460,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432635,
       "num": 432635,
       "word": "一个亿有多少",
@@ -4323,6 +4363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380234,
+      "num": 212981,
+      "word": "王力宏回应下一季参加歌手",
+      "onboard_time": 1754700741,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379664,
       "num": 275333,
       "word": "鹿晗郑州",
@@ -4345,6 +4393,14 @@
       "onboard_time": 1754143710,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 378448,
+      "num": 153814,
+      "word": "女子用吹风机吹头发下一秒炸了",
+      "onboard_time": 1754700321,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378351,
@@ -4441,6 +4497,14 @@
       "onboard_time": 1754658086,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 365948,
+      "num": 210390,
+      "word": "单依纯哭了",
+      "onboard_time": 1754695458,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 364086,
@@ -4899,6 +4963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 322039,
+      "num": 322039,
+      "word": "男子河道赶海1个月捡上万鞋花",
+      "onboard_time": 1754699120,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321718,
       "num": 308607,
       "word": "田曦薇双马尾",
@@ -5139,6 +5211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 302353,
+      "num": 205187,
+      "word": "李兰迪敖瑞鹏二搭不二之臣",
+      "onboard_time": 1754703561,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301729,
       "num": 296570,
       "word": "李晟 女驸马",
@@ -5355,14 +5435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 289800,
-      "num": 204400,
-      "word": "单依纯哭了",
-      "onboard_time": 1754695458,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289038,
       "num": 289038,
       "word": "蒋奇明张艺凡吻张力拉满",
@@ -5505,6 +5577,14 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 279274,
+      "num": 153794,
+      "word": "花儿与少年同心季定档官宣",
+      "onboard_time": 1754703921,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 278197,
@@ -6187,6 +6267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242716,
+      "num": 153652,
+      "word": "苏醒苏新皓聊天记录",
+      "onboard_time": 1754704461,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242382,
       "num": 242382,
       "word": "谁能演谢景行",
@@ -6456,6 +6544,14 @@
       "word": "男子花87万办了300年的健身卡",
       "onboard_time": 1754235325,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230776,
+      "num": 230776,
+      "word": "国内酒店入住时间怎么定的",
+      "onboard_time": 1754699000,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -7201,6 +7297,14 @@
       "onboard_time": 1754234364,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207203,
+      "num": 207203,
+      "word": "王曼昱vs陈熠",
+      "onboard_time": 1754701760,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 207177,
@@ -10275,6 +10379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157856,
+      "num": 157856,
+      "word": "吉利星座04组卫星发射成功",
+      "onboard_time": 1754699120,
+      "rank": 17,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 157838,
       "num": 157838,
       "word": "张康乐晒猫",
@@ -10539,6 +10651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154655,
+      "num": 154655,
+      "word": "末伏第1天",
+      "onboard_time": 1754697139,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154518,
       "num": 154518,
       "word": "鹿晗用摄像机看清每一个粉丝",
@@ -10625,6 +10745,14 @@
       "onboard_time": 1754641523,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153525,
+      "num": 153525,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754264360,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 153505,
@@ -11507,6 +11635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144881,
+      "num": 144881,
+      "word": "利剑玫瑰收视率",
+      "onboard_time": 1754701279,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144828,
       "num": 163437,
       "word": "董璇 他的世界里只有我",
@@ -11897,6 +12033,14 @@
       "onboard_time": 1754484922,
       "rank": 43,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 141854,
+      "num": 141854,
+      "word": "巴基斯坦称列装中国造攻击直升机",
+      "onboard_time": 1754701401,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141832,
@@ -13547,6 +13691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128206,
+      "num": 128206,
+      "word": "上海爷叔开庭审猫金句频出",
+      "onboard_time": 1754703681,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128114,
       "num": 128114,
       "word": "女子轻信代抢演唱会门票被骗19万元",
@@ -13651,12 +13803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127355,
+      "num": 127355,
+      "word": "抓大鹅",
+      "onboard_time": 1754704881,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127341,
       "num": 127341,
       "word": "盒马告别会员店",
       "onboard_time": 1754351001,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127302,
+      "num": 127302,
+      "word": "张凌赫长沙",
+      "onboard_time": 1754698399,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 127245,
@@ -13969,6 +14137,14 @@
       "onboard_time": 1754373262,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125192,
+      "num": 125192,
+      "word": "延伸台",
+      "onboard_time": 1754704521,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 125156,
@@ -15019,6 +15195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117371,
+      "num": 153687,
+      "word": "特朗普称美俄会晤前普京不必见泽连斯基",
+      "onboard_time": 1754699061,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117364,
       "num": 117364,
       "word": "登陆少年披荆斩棘MV镜头",
@@ -15185,6 +15369,14 @@
       "onboard_time": 1754379564,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115132,
+      "num": 115132,
+      "word": "总是觉得累的人去查查甲状腺",
+      "onboard_time": 1754701160,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115108,
@@ -15603,6 +15795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111975,
+      "num": 111975,
+      "word": "这就是丞磊下水捞周也那段",
+      "onboard_time": 1754702181,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111968,
       "num": 237577,
       "word": "王楚然被粉丝安慰的眼圈红了",
@@ -16003,6 +16203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108225,
+      "num": 108225,
+      "word": "AL扣除Shanks工资",
+      "onboard_time": 1754695277,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108187,
       "num": 227645,
       "word": "小妖怪送10万杯奶茶",
@@ -16099,6 +16307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106238,
+      "num": 106238,
+      "word": "为涉黑母亲辩护法官被批准逮捕",
+      "onboard_time": 1754703201,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106034,
       "num": 106034,
       "word": "两个女人嘴在挑衅眼在欣赏",
@@ -16137,6 +16353,14 @@
       "onboard_time": 1754495901,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105676,
+      "num": 105676,
+      "word": "电脑卡可能是因为WPS",
+      "onboard_time": 1754680215,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 105569,
@@ -16217,6 +16441,14 @@
       "onboard_time": 1754605095,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104383,
+      "num": 104383,
+      "word": "猫 你再咻一下试试呢",
+      "onboard_time": 1754704101,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104317,
@@ -16339,6 +16571,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 103395,
+      "num": 103395,
+      "word": "南京照相馆票房破20亿",
+      "onboard_time": 1754704160,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103312,
       "num": 103312,
       "word": "黄婷婷折月亮",
@@ -16401,6 +16641,14 @@
       "onboard_time": 1754389343,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102543,
+      "num": 112289,
+      "word": "爱奇艺认证的三部爆剧",
+      "onboard_time": 1754704821,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 102480,
@@ -17531,6 +17779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89409,
+      "num": 115837,
+      "word": "鼓励生育已经到这个地步了",
+      "onboard_time": 1754704881,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89246,
       "num": 89246,
       "word": "文俊辉首映礼生图",
@@ -18195,19 +18451,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79502,
-      "num": 79502,
-      "word": "AL扣除Shanks工资",
-      "onboard_time": 1754695277,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 79439,
       "num": 79439,
       "word": "深铁向万科提供不超过16.81亿元借款",
       "onboard_time": 1754435058,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79392,
+      "num": 153565,
+      "word": "三伏还剩10天",
+      "onboard_time": 1754697139,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -18321,14 +18577,6 @@
       "onboard_time": 1754301323,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 77653,
-      "num": 77653,
-      "word": "电脑卡可能是因为WPS",
-      "onboard_time": 1754680215,
-      "rank": 36,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 77579,
@@ -19243,6 +19491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57950,
+      "num": 113936,
+      "word": "没有人觉得骑电瓶车很好笑吗",
+      "onboard_time": 1754704941,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57893,
       "num": 172956,
       "word": "新一代智己LS6内饰正式曝光",
@@ -19601,14 +19857,6 @@
       "onboard_time": 1754246655,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 50889,
-      "num": 50889,
-      "word": "浪浪山小妖怪",
-      "onboard_time": 1754264360,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 50819,
