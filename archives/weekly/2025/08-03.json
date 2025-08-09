@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754738548813,
+  "endTime": 1754739499648,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -1307,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1012276,
+      "num": 1161964,
+      "word": "孙颖莎vs桥本帆乃香",
+      "onboard_time": 1754664564,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1009381,
       "num": 1009381,
       "word": "坠楼医生出事前一天曾向派出所报案",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1754387664,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 970993,
+      "num": 1137263,
+      "word": "和平精英直播",
+      "onboard_time": 1754737161,
+      "rank": 0,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 970749,
@@ -1697,14 +1713,6 @@
       "onboard_time": 1754405663,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 857893,
-      "num": 1137263,
-      "word": "和平精英直播",
-      "onboard_time": 1754737161,
-      "rank": 0,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 852637,
@@ -2803,6 +2811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 607386,
+      "num": 322647,
+      "word": "越来越看不懂年轻人的泳衣了",
+      "onboard_time": 1754734464,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 606696,
       "num": 606696,
       "word": "赵露思说很难想象普通上班族出这事",
@@ -3009,14 +3025,6 @@
       "onboard_time": 1754557643,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586234,
-      "num": 322647,
-      "word": "越来越看不懂年轻人的泳衣了",
-      "onboard_time": 1754734464,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 584266,
@@ -4129,14 +4137,6 @@
       "onboard_time": 1754701460,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434021,
-      "num": 434021,
-      "word": "孙颖莎vs桥本帆乃香",
-      "onboard_time": 1754664564,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 432635,
@@ -5467,6 +5467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318162,
+      "num": 318162,
+      "word": "谢娜家宴",
+      "onboard_time": 1754738842,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317010,
       "num": 276466,
       "word": "人民日报对话朱一龙",
@@ -6211,6 +6219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 269955,
+      "num": 339195,
+      "word": "又一轮强降雨来了",
+      "onboard_time": 1754737941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269602,
       "num": 324126,
       "word": "迪丽热巴感谢观众支持利剑玫瑰",
@@ -6547,6 +6563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254828,
+      "num": 254828,
+      "word": "白鲨队史CFPL第四冠",
+      "onboard_time": 1754739021,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254232,
       "num": 254232,
       "word": "嘻哈结婚了也离婚了",
@@ -6777,6 +6801,14 @@
       "onboard_time": 1754367204,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243327,
+      "num": 243327,
+      "word": "虞书欣完全小蛋糕",
+      "onboard_time": 1754739081,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 242382,
@@ -8161,6 +8193,14 @@
       "onboard_time": 1754273601,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203565,
+      "num": 203565,
+      "word": "孙颖莎晋级8强",
+      "onboard_time": 1754739142,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 203349,
@@ -10811,6 +10851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165708,
+      "num": 165708,
+      "word": "孟子义误闯王星越向涵之定风波剧宣",
+      "onboard_time": 1754735901,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165599,
       "num": 302939,
       "word": "老人摔倒无人敢扶外卖小哥出手了",
@@ -10945,14 +10993,6 @@
       "onboard_time": 1754195844,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163717,
-      "num": 163717,
-      "word": "孟子义误闯王星越向涵之定风波剧宣",
-      "onboard_time": 1754735901,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 163706,
@@ -11155,6 +11195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161144,
+      "num": 161144,
+      "word": "中国男篮vs约旦男篮",
+      "onboard_time": 1754738963,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161122,
       "num": 161122,
       "word": "整天私私私跟蛇一样",
@@ -11249,6 +11297,14 @@
       "onboard_time": 1754478622,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160296,
+      "num": 160296,
+      "word": "这竟然是张集骏",
+      "onboard_time": 1754738421,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 160210,
@@ -11713,6 +11769,14 @@
       "onboard_time": 1754289504,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154829,
+      "num": 154829,
+      "word": "恋与深空夏日卡",
+      "onboard_time": 1754739021,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 154806,
@@ -14323,6 +14387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133065,
+      "num": 316180,
+      "word": "甘肃榆中山洪已致15人遇难28人失联",
+      "onboard_time": 1754735661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133061,
       "num": 141713,
       "word": "王力宏单依纯唱落叶归根的原因",
@@ -15523,6 +15595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124674,
+      "num": 124674,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1754739382,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124493,
       "num": 630868,
       "word": "总有一些美好瞬间温暖夏日",
@@ -15920,14 +16000,6 @@
       "word": "长沙一20米人行道装了近20个防撞栏",
       "onboard_time": 1754660485,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122042,
-      "num": 316180,
-      "word": "甘肃榆中山洪已致15人遇难28人失联",
-      "onboard_time": 1754735661,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -16771,6 +16843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115873,
+      "num": 115873,
+      "word": "你好星期六",
+      "onboard_time": 1754739382,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115793,
       "num": 115793,
       "word": "外媒对蔡徐坤的评价",
@@ -17171,6 +17251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112655,
+      "num": 112655,
+      "word": "虞书欣和平精英代言人",
+      "onboard_time": 1754736382,
+      "rank": 45,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 112550,
       "num": 112550,
       "word": "唐艺昕喜欢今天的发型",
@@ -17273,6 +17361,14 @@
       "onboard_time": 1754151444,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111943,
+      "num": 111943,
+      "word": "CFPL",
+      "onboard_time": 1754739442,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 111911,
@@ -17819,28 +17915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106536,
-      "num": 106536,
-      "word": "虞书欣和平精英代言人",
-      "onboard_time": 1754736382,
-      "rank": 45,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 106238,
       "num": 106238,
       "word": "为涉黑母亲辩护法官被批准逮捕",
       "onboard_time": 1754703201,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106060,
-      "num": 106060,
-      "word": "这竟然是张集骏",
-      "onboard_time": 1754738421,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 106034,
@@ -19153,14 +19233,6 @@
       "onboard_time": 1754187861,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93159,
-      "num": 339195,
-      "word": "又一轮强降雨来了",
-      "onboard_time": 1754737941,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93136,
@@ -21171,6 +21243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59831,
+      "num": 271913,
+      "word": "时代广场的时是时团的时",
+      "onboard_time": 1754738122,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59657,
       "num": 70983,
       "word": "张艺兴演唱会",
@@ -21715,6 +21795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48839,
+      "num": 123720,
+      "word": "3000张live图 1分钱",
+      "onboard_time": 1754738662,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48599,
       "num": 79938,
       "word": "郑州京广路隧道被淹有人爬梯子脱困",
@@ -21953,14 +22041,6 @@
       "onboard_time": 1754640083,
       "rank": 14,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 44803,
-      "num": 263888,
-      "word": "时代广场的时是时团的时",
-      "onboard_time": 1754738122,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 44201,

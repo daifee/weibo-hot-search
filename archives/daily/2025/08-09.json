@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754738548813,
+  "endTime": 1754739499648,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -131,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1012276,
+      "num": 1161964,
+      "word": "孙颖莎vs桥本帆乃香",
+      "onboard_time": 1754664564,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 985907,
       "num": 1157745,
       "word": "董璇张维伊想生二胎",
       "onboard_time": 1754717182,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 970993,
+      "num": 1137263,
+      "word": "和平精英直播",
+      "onboard_time": 1754737161,
+      "rank": 0,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 909917,
@@ -153,14 +169,6 @@
       "onboard_time": 1754664746,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 857893,
-      "num": 1137263,
-      "word": "和平精英直播",
-      "onboard_time": 1754737161,
-      "rank": 0,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 827514,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 607386,
+      "num": 322647,
+      "word": "越来越看不懂年轻人的泳衣了",
+      "onboard_time": 1754734464,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600923,
       "num": 600923,
       "word": "养了30年乌龟被人抱走了主人求别杀",
@@ -353,14 +369,6 @@
       "onboard_time": 1754706261,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 586234,
-      "num": 322647,
-      "word": "越来越看不懂年轻人的泳衣了",
-      "onboard_time": 1754734464,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 571463,
@@ -465,14 +473,6 @@
       "onboard_time": 1754701460,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434021,
-      "num": 434021,
-      "word": "孙颖莎vs桥本帆乃香",
-      "onboard_time": 1754664564,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 428563,
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318162,
+      "num": 318162,
+      "word": "谢娜家宴",
+      "onboard_time": 1754738842,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317010,
       "num": 276466,
       "word": "人民日报对话朱一龙",
@@ -715,12 +723,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 269955,
+      "num": 339195,
+      "word": "又一轮强降雨来了",
+      "onboard_time": 1754737941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257151,
       "num": 257151,
       "word": "京东外卖",
       "onboard_time": 1754736322,
       "rank": 20,
       "category": "互联网,电竞"
+    },
+    {
+      "raw_hot": 254828,
+      "num": 254828,
+      "word": "白鲨队史CFPL第四冠",
+      "onboard_time": 1754739021,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 249391,
@@ -737,6 +761,14 @@
       "onboard_time": 1754729963,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243327,
+      "num": 243327,
+      "word": "虞书欣完全小蛋糕",
+      "onboard_time": 1754739081,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 241559,
@@ -939,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203565,
+      "num": 203565,
+      "word": "孙颖莎晋级8强",
+      "onboard_time": 1754739142,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201708,
       "num": 201708,
       "word": "24小时退房制为啥不能成统一标准",
@@ -993,6 +1033,14 @@
       "onboard_time": 1754713643,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197356,
+      "num": 197356,
+      "word": "赵露思直播",
+      "onboard_time": 1754738542,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 196806,
@@ -1339,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165708,
+      "num": 165708,
+      "word": "孟子义误闯王星越向涵之定风波剧宣",
+      "onboard_time": 1754735901,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164763,
       "num": 164763,
       "word": "李沁天塌下来也得先出片",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1754652742,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 163717,
-      "num": 163717,
-      "word": "孟子义误闯王星越向涵之定风波剧宣",
-      "onboard_time": 1754735901,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 162814,
@@ -1379,12 +1427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161144,
+      "num": 161144,
+      "word": "中国男篮vs约旦男篮",
+      "onboard_time": 1754738963,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160471,
       "num": 160471,
       "word": "道诡异仙这次真的不跳票",
       "onboard_time": 1754723722,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 160296,
+      "num": 160296,
+      "word": "这竟然是张集骏",
+      "onboard_time": 1754738421,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 159967,
@@ -1473,6 +1537,14 @@
       "onboard_time": 1754715441,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154829,
+      "num": 154829,
+      "word": "恋与深空夏日卡",
+      "onboard_time": 1754739021,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 152420,
@@ -1707,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133065,
+      "num": 316180,
+      "word": "甘肃榆中山洪已致15人遇难28人失联",
+      "onboard_time": 1754735661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132584,
       "num": 168297,
       "word": "女子塞尔维亚旅游遭海关歧视",
@@ -1827,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124674,
+      "num": 124674,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1754739382,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124298,
       "num": 124298,
       "word": "龚俊被萝莉音吓到失去表情管理",
@@ -1889,14 +1977,6 @@
       "onboard_time": 1754717001,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122042,
-      "num": 316180,
-      "word": "甘肃榆中山洪已致15人遇难28人失联",
-      "onboard_time": 1754735661,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121903,
@@ -1971,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115873,
+      "num": 115873,
+      "word": "你好星期六",
+      "onboard_time": 1754739382,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115793,
       "num": 115793,
       "word": "外媒对蔡徐坤的评价",
@@ -2027,6 +2115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112655,
+      "num": 112655,
+      "word": "虞书欣和平精英代言人",
+      "onboard_time": 1754736382,
+      "rank": 45,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 112261,
       "num": 112261,
       "word": "嘟嘟逼人的孙颖莎",
@@ -2041,6 +2137,14 @@
       "onboard_time": 1754702181,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111943,
+      "num": 111943,
+      "word": "CFPL",
+      "onboard_time": 1754739442,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 111570,
@@ -2115,28 +2219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106536,
-      "num": 106536,
-      "word": "虞书欣和平精英代言人",
-      "onboard_time": 1754736382,
-      "rank": 45,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 106238,
       "num": 106238,
       "word": "为涉黑母亲辩护法官被批准逮捕",
       "onboard_time": 1754703201,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106060,
-      "num": 106060,
-      "word": "这竟然是张集骏",
-      "onboard_time": 1754738421,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 105676,
@@ -2337,14 +2425,6 @@
       "onboard_time": 1754670801,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93159,
-      "num": 339195,
-      "word": "又一轮强降雨来了",
-      "onboard_time": 1754737941,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92496,
@@ -2563,6 +2643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59831,
+      "num": 271913,
+      "word": "时代广场的时是时团的时",
+      "onboard_time": 1754738122,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57523,
       "num": 106863,
       "word": "仙逆神临之战又名王林救妻记",
@@ -2611,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48839,
+      "num": 123720,
+      "word": "3000张live图 1分钱",
+      "onboard_time": 1754738662,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47800,
       "num": 354753,
       "word": "原来潮人不怕热都是有原因的",
@@ -2641,14 +2737,6 @@
       "onboard_time": 1754695277,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44803,
-      "num": 263888,
-      "word": "时代广场的时是时团的时",
-      "onboard_time": 1754738122,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 44201,
