@@ -1,0 +1,410 @@
+{
+  "runTime": 1754729240000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 892785,
+        "num": 1142845,
+        "word": "董璇张维伊官宣",
+        "onboard_time": 1754720063,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625870,
+        "num": 625870,
+        "word": "日本网友被科普日本侵华历史大破防",
+        "onboard_time": 1754721802,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15491,
+        "num": 516174,
+        "word": "吉利星座04组卫星发射成功",
+        "onboard_time": 1754699120,
+        "rank": 2,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 932365,
+        "num": 466434,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671018,
+        "num": 464455,
+        "word": "退休金要有一个额度",
+        "onboard_time": 1754723722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409556,
+        "num": 409556,
+        "word": "小狗未拴绳被碾主人失控捶打司机",
+        "onboard_time": 1754722281,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 763911,
+        "num": 377978,
+        "word": "董璇说下一个大事就是有了小小张",
+        "onboard_time": 1754726062,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675478,
+        "num": 354682,
+        "word": "给刘浩存P成185了",
+        "onboard_time": 1754724862,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283506,
+        "num": 283506,
+        "word": "指示牌China写成Ching",
+        "onboard_time": 1754711902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219165,
+        "num": 219165,
+        "word": "十日终焉",
+        "onboard_time": 1754719762,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 604232,
+        "num": 218133,
+        "word": "两女孩店门口喝奶茶被货车压死",
+        "onboard_time": 1754720901,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588640,
+        "num": 216214,
+        "word": "许嵩冯禧手拉手逛街",
+        "onboard_time": 1754721621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382428,
+        "num": 212096,
+        "word": "赵露思保镖 跟着赵姐特别好",
+        "onboard_time": 1754723362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232109,
+        "num": 210160,
+        "word": "尼格买提 不要轻易删除你的朋友",
+        "onboard_time": 1754727502,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208662,
+        "num": 208662,
+        "word": "王橹杰脸链",
+        "onboard_time": 1754727985,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181315,
+        "num": 181315,
+        "word": "KPL",
+        "onboard_time": 1754728883,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156211,
+        "num": 156211,
+        "word": "日本大学生就业率大幅下降",
+        "onboard_time": 1754725284,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145817,
+        "num": 145817,
+        "word": "养了30年乌龟被人抱走了主人求别杀",
+        "onboard_time": 1754718023,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140638,
+        "num": 140638,
+        "word": "一医院禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754728163,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134182,
+        "num": 134182,
+        "word": "中公教育17000元退款需17年退完",
+        "onboard_time": 1754728883,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211511,
+        "num": 133708,
+        "word": "三胞胎坐高铁买挂票不哭不闹",
+        "onboard_time": 1754725942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197343,
+        "num": 133405,
+        "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
+        "onboard_time": 1754728283,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190476,
+        "num": 132881,
+        "word": "心动的信号8",
+        "onboard_time": 1754728462,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161636,
+        "num": 132415,
+        "word": "人民日报对话朱一龙",
+        "onboard_time": 1754723122,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132195,
+        "num": 132195,
+        "word": "少林寺30名僧人集体辞职不实",
+        "onboard_time": 1754726361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144786,
+        "num": 131168,
+        "word": "网红万千惠患心脏早搏",
+        "onboard_time": 1754726423,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163975,
+        "num": 129375,
+        "word": "梓渝首本杂志销售额登顶",
+        "onboard_time": 1754719822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141714,
+        "num": 128266,
+        "word": "44岁网红包公去世",
+        "onboard_time": 1754728042,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132650,
+        "num": 126204,
+        "word": "比黄子韬更装的人出现了",
+        "onboard_time": 1754725461,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26268,
+        "num": 124957,
+        "word": "榆中受灾居民称房子被推几百米",
+        "onboard_time": 1754728343,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124569,
+        "num": 124569,
+        "word": "时代少年团 抢票",
+        "onboard_time": 1754719883,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118564,
+        "num": 118564,
+        "word": "婚内强奸案男方因一段录音疑妻出轨",
+        "onboard_time": 1754715562,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116279,
+        "num": 116279,
+        "word": "瘦下来之后性格真的完全变了",
+        "onboard_time": 1754724321,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114438,
+        "num": 114438,
+        "word": "王晶称许晋亨无法继承巨额遗产",
+        "onboard_time": 1754725882,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112359,
+        "num": 112359,
+        "word": "孟子义瘦到了90斤以下",
+        "onboard_time": 1754712381,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112261,
+        "num": 112261,
+        "word": "嘟嘟逼人的孙颖莎",
+        "onboard_time": 1754728343,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110131,
+        "num": 110131,
+        "word": "冰川融化现沉睡28年尸体",
+        "onboard_time": 1754701160,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109795,
+        "num": 109795,
+        "word": "90后妈妈带两岁娃徒步34公里",
+        "onboard_time": 1754728521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9124,
+        "num": 108285,
+        "word": "第一次看电影不知道主角叫什么",
+        "onboard_time": 1754728883,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107765,
+        "num": 107765,
+        "word": "东极岛",
+        "onboard_time": 1754726361,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107710,
+        "num": 107710,
+        "word": "原来这样洗衣服越洗越臭",
+        "onboard_time": 1754722163,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 105967,
+        "num": 105967,
+        "word": "马思纯全肯定人格",
+        "onboard_time": 1754727803,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102997,
+        "num": 102997,
+        "word": "女子疑在八一南昌起义纪念塔跳辣舞",
+        "onboard_time": 1754726901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102198,
+        "num": 102198,
+        "word": "荣成车祸致一家1死4伤家属发声",
+        "onboard_time": 1754727262,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97631,
+        "num": 97631,
+        "word": "王楚钦说吃两个发球不太应该",
+        "onboard_time": 1754729003,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95309,
+        "num": 95309,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91600,
+        "num": 91600,
+        "word": "美国劫匪只偷中国Labubu",
+        "onboard_time": 1754726482,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91287,
+        "num": 91287,
+        "word": "风度",
+        "onboard_time": 1754723302,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89847,
+        "num": 89847,
+        "word": "王楚钦光速挺进八强",
+        "onboard_time": 1754723241,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88292,
+        "num": 88292,
+        "word": "小咘芽拒绝谢娜画饼",
+        "onboard_time": 1754722221,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#千方百计搜救失联人员#"
+    }
+  }
+}

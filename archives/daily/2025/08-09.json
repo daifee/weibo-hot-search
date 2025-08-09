@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754728418620,
+  "endTime": 1754729240000,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671018,
+      "num": 545261,
+      "word": "退休金要有一个额度",
+      "onboard_time": 1754723722,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661707,
       "num": 478487,
       "word": "郑钧说老婆下死命令支持陈楚生",
@@ -329,14 +337,6 @@
       "onboard_time": 1754719822,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545261,
-      "num": 545261,
-      "word": "退休金要有一个额度",
-      "onboard_time": 1754723722,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 540598,
@@ -611,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232109,
+      "num": 210160,
+      "word": "尼格买提 不要轻易删除你的朋友",
+      "onboard_time": 1754727502,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "国内酒店入住时间怎么定的",
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211511,
+      "num": 159695,
+      "word": "三胞胎坐高铁买挂票不哭不闹",
+      "onboard_time": 1754725942,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210357,
       "num": 210357,
       "word": "书卷一梦",
@@ -704,6 +720,14 @@
       "word": "杨博文 心动是看到片片粉色",
       "onboard_time": 1754721082,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208662,
+      "num": 208662,
+      "word": "王橹杰脸链",
+      "onboard_time": 1754727985,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -755,27 +779,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201248,
-      "num": 159695,
-      "word": "三胞胎坐高铁买挂票不哭不闹",
-      "onboard_time": 1754725942,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199275,
       "num": 211268,
       "word": "张子枫感激向往的生活",
       "onboard_time": 1754709740,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198922,
-      "num": 198922,
-      "word": "尼格买提 不要轻易删除你的朋友",
-      "onboard_time": 1754727502,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -793,6 +801,14 @@
       "onboard_time": 1754713643,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197343,
+      "num": 133405,
+      "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
+      "onboard_time": 1754728283,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 196806,
@@ -859,12 +875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191105,
-      "num": 191105,
-      "word": "王橹杰脸链",
-      "onboard_time": 1754727985,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 190476,
+      "num": 132881,
+      "word": "心动的信号8",
+      "onboard_time": 1754728462,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 189487,
@@ -913,6 +929,14 @@
       "onboard_time": 1754710341,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181315,
+      "num": 181315,
+      "word": "KPL",
+      "onboard_time": 1754728883,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 179897,
@@ -1251,6 +1275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141714,
+      "num": 131199,
+      "word": "44岁网红包公去世",
+      "onboard_time": 1754728042,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 140638,
+      "num": 140638,
+      "word": "一医院禁止规培生进职工餐厅吃饭",
+      "onboard_time": 1754728163,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139785,
       "num": 150355,
       "word": "爱出门的人能量很高",
@@ -1291,12 +1331,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134277,
-      "num": 131208,
-      "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
-      "onboard_time": 1754728283,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 134182,
+      "num": 134182,
+      "word": "中公教育17000元退款需17年退完",
+      "onboard_time": 1754728883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133817,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1754724321,
       "rank": 18,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 131199,
-      "num": 131199,
-      "word": "44岁网红包公去世",
-      "onboard_time": 1754728042,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 130630,
@@ -1507,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118067,
-      "num": 118067,
-      "word": "一医院禁止规培生进职工餐厅吃饭",
-      "onboard_time": 1754728163,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117829,
       "num": 117829,
       "word": "王铮亮王栎鑫许魏洲俩王带一炸",
@@ -1587,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112261,
+      "num": 112261,
+      "word": "嘟嘟逼人的孙颖莎",
+      "onboard_time": 1754728343,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111975,
       "num": 111975,
       "word": "这就是丞磊下水捞周也那段",
@@ -1616,6 +1648,14 @@
       "word": "湖南一小孩掉落玻璃栈道挂半空",
       "onboard_time": 1754665294,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109795,
+      "num": 109795,
+      "word": "90后妈妈带两岁娃徒步34公里",
+      "onboard_time": 1754728521,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1699,12 +1739,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102997,
+      "num": 102997,
+      "word": "女子疑在八一南昌起义纪念塔跳辣舞",
+      "onboard_time": 1754726901,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102446,
       "num": 160717,
       "word": "朱一龙戏抛脸演技",
       "onboard_time": 1754724263,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102198,
+      "num": 102198,
+      "word": "荣成车祸致一家1死4伤家属发声",
+      "onboard_time": 1754727262,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101689,
@@ -1739,14 +1795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99346,
-      "num": 99346,
-      "word": "嘟嘟逼人的孙颖莎",
-      "onboard_time": 1754728343,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99101,
       "num": 99101,
       "word": "谁家CEO对公司千万亏空一无所知",
@@ -1779,12 +1827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98187,
-      "num": 98187,
-      "word": "荣成车祸致一家1死4伤家属发声",
-      "onboard_time": 1754727262,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 97631,
+      "num": 97631,
+      "word": "王楚钦说吃两个发球不太应该",
+      "onboard_time": 1754729003,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 97495,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1754670801,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95309,
+      "num": 95309,
+      "word": "全红婵练瘦了",
+      "onboard_time": 1754729181,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 91898,
@@ -2196,7 +2252,7 @@
     },
     {
       "raw_hot": 30624,
-      "num": 109479,
+      "num": 124957,
       "word": "榆中受灾居民称房子被推几百米",
       "onboard_time": 1754728343,
       "rank": 40,
@@ -2297,6 +2353,14 @@
       "onboard_time": 1754686214,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 9124,
+      "num": 108285,
+      "word": "第一次看电影不知道主角叫什么",
+      "onboard_time": 1754728883,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 8755,
