@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754778383893,
+  "endTime": 1754779448021,
   "band_list": [
     {
       "raw_hot": 1141252,
@@ -443,11 +443,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41537,
+      "num": 41537,
+      "word": "冯德伦生日舒淇秀恩爱",
+      "onboard_time": 1754769975,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40588,
       "num": 54948,
       "word": "张康乐喊你出招",
       "onboard_time": 1754760617,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37330,
+      "num": 37330,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1754777055,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33770,
+      "num": 33770,
+      "word": "罗家英给妻子汪明荃买楼留保险",
+      "onboard_time": 1754765956,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -475,34 +499,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29144,
-      "num": 29144,
-      "word": "王楚钦vs户上隼辅",
-      "onboard_time": 1754777055,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28464,
+      "raw_hot": 29136,
       "num": 33960,
       "word": "曾辉韩雨彤直播",
       "onboard_time": 1754770094,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27279,
-      "num": 27279,
-      "word": "冯德伦生日舒淇秀恩爱",
-      "onboard_time": 1754769975,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27029,
-      "num": 30786,
-      "word": "罗家英给妻子汪明荃买楼留保险",
-      "onboard_time": 1754765956,
       "rank": 36,
       "category": "艺人"
     },
@@ -547,8 +547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22483,
-      "num": 23573,
+      "raw_hot": 22562,
+      "num": 28975,
       "word": "公司回应外卖员被曝偷拍女生洗澡",
       "onboard_time": 1754774654,
       "rank": 48,
@@ -563,6 +563,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20561,
+      "num": 28945,
+      "word": "成毅深潜卫视实时收视第一",
+      "onboard_time": 1754778616,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19283,
+      "num": 28925,
+      "word": "陈小春王栎鑫先一步公演上了",
+      "onboard_time": 1754777775,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 17985,
       "num": 24164,
       "word": "汪苏泷说19号小怪物叫放青松",
@@ -571,12 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16410,
-      "num": 23556,
-      "word": "陈小春王栎鑫先一步公演上了",
-      "onboard_time": 1754777775,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 17370,
+      "num": 28902,
+      "word": "警方回应外卖员被曝偷拍女生洗澡",
+      "onboard_time": 1754776994,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16394,
