@@ -1,0 +1,410 @@
+{
+  "runTime": 1754778383893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 201856,
+        "num": 397314,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170125,
+        "num": 170125,
+        "word": "中国留学生在澳遭围殴抢救超30小时",
+        "onboard_time": 1754749345,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1049,
+        "num": 149755,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130781,
+        "num": 130781,
+        "word": "用微信记录自律太好用了",
+        "onboard_time": 1754754982,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123750,
+        "num": 123750,
+        "word": "男子离家前吐西瓜籽回来时满院西瓜",
+        "onboard_time": 1754751564,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109706,
+        "num": 109706,
+        "word": "陶白白 爱到最后都一样",
+        "onboard_time": 1754753125,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108591,
+        "num": 108591,
+        "word": "赵露思手机号被泄漏",
+        "onboard_time": 1754752704,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108383,
+        "num": 108383,
+        "word": "大爷摆摊自称送20万现金无人敢拿",
+        "onboard_time": 1754755282,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83940,
+        "num": 83940,
+        "word": "老总提议给自己发200万固定月薪被批",
+        "onboard_time": 1754755282,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78121,
+        "num": 78121,
+        "word": "今年衣服的袖子为啥都没了",
+        "onboard_time": 1754755343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211372,
+        "num": 72701,
+        "word": "徐杰被曝出轨",
+        "onboard_time": 1754748144,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152493,
+        "num": 70848,
+        "word": "赵露思回应鼻子动了",
+        "onboard_time": 1754746404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65017,
+        "num": 65017,
+        "word": "徐杰 赌球",
+        "onboard_time": 1754751205,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64930,
+        "num": 64930,
+        "word": "医生将患者强塞红包转存住院费",
+        "onboard_time": 1754757141,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64427,
+        "num": 64427,
+        "word": "院长回应规培生等禁入职工餐厅吃饭",
+        "onboard_time": 1754753543,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44721,
+        "num": 44721,
+        "word": "田曦薇美成这样",
+        "onboard_time": 1754746763,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 44218,
+        "num": 44218,
+        "word": "檀健次 十日终焉",
+        "onboard_time": 1754765595,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38004,
+        "num": 38004,
+        "word": "利剑玫瑰大结局",
+        "onboard_time": 1754741362,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35603,
+        "num": 35603,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28464,
+        "num": 33960,
+        "word": "曾辉韩雨彤直播",
+        "onboard_time": 1754770094,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119756,
+        "num": 33739,
+        "word": "巴西情侣悬崖边亲热坠崖身亡",
+        "onboard_time": 1754754563,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43596,
+        "num": 33733,
+        "word": "外卖员被曝隔窗偷拍女生洗澡",
+        "onboard_time": 1754744422,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33389,
+        "num": 33389,
+        "word": "孙颖莎终结对手对国乒的11连胜",
+        "onboard_time": 1754740341,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29144,
+        "num": 29144,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1754777055,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28620,
+        "num": 28620,
+        "word": "为什么中国的神仙都是竖着飞",
+        "onboard_time": 1754751924,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27649,
+        "num": 27649,
+        "word": "印度宣称曾击落巴方6架战机",
+        "onboard_time": 1754748083,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27279,
+        "num": 27279,
+        "word": "冯德伦生日舒淇秀恩爱",
+        "onboard_time": 1754769975,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27029,
+        "num": 27029,
+        "word": "罗家英给妻子汪明荃买楼留保险",
+        "onboard_time": 1754765956,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26986,
+        "num": 26986,
+        "word": "虞书欣全开麦唱跳",
+        "onboard_time": 1754744602,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 26311,
+        "num": 26311,
+        "word": "小S两女儿颜值",
+        "onboard_time": 1754747425,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25664,
+        "num": 25664,
+        "word": "当我用洗洁精洗眼镜一年后",
+        "onboard_time": 1754734343,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24222,
+        "num": 24222,
+        "word": "你好星期六",
+        "onboard_time": 1754739382,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23790,
+        "num": 23790,
+        "word": "萧亚轩瘦成纸片人",
+        "onboard_time": 1754742383,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23811,
+        "num": 23696,
+        "word": "虞书欣连戴不上耳机都有callback",
+        "onboard_time": 1754750725,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 23575,
+        "num": 23575,
+        "word": "西安汉服馆冲突双方被拘留",
+        "onboard_time": 1754745864,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22483,
+        "num": 23573,
+        "word": "公司回应外卖员被曝偷拍女生洗澡",
+        "onboard_time": 1754774654,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22286,
+        "num": 23573,
+        "word": "被逆行女子剐蹭小伙教科书式回答",
+        "onboard_time": 1754753783,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22126,
+        "num": 23570,
+        "word": "王源官宣了鸟巢演唱会",
+        "onboard_time": 1754750604,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20863,
+        "num": 23570,
+        "word": "迪丽热巴太会演了",
+        "onboard_time": 1754751263,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19985,
+        "num": 23566,
+        "word": "和平精英直播",
+        "onboard_time": 1754737161,
+        "rank": 39,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 18965,
+        "num": 23566,
+        "word": "婚内强奸案将开庭被告方作无罪辩护",
+        "onboard_time": 1754751744,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18827,
+        "num": 23564,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17719,
+        "num": 23562,
+        "word": "喻言闪光的夏天总冠军",
+        "onboard_time": 1754748985,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17712,
+        "num": 23560,
+        "word": "没有然然和章阿姨相认的镜头",
+        "onboard_time": 1754751924,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17385,
+        "num": 23557,
+        "word": "权志龙 再吵我可要下班了",
+        "onboard_time": 1754747544,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16410,
+        "num": 23556,
+        "word": "陈小春王栎鑫先一步公演上了",
+        "onboard_time": 1754777775,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16373,
+        "num": 23555,
+        "word": "和平精英全明星皮肤模卡首曝",
+        "onboard_time": 1754754384,
+        "rank": 46,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 15893,
+        "num": 23552,
+        "word": "周深没有你的城市空荡荡",
+        "onboard_time": 1754757022,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15740,
+        "num": 23550,
+        "word": "导演被热巴哭戏感染到忘记喊卡",
+        "onboard_time": 1754764756,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14999,
+        "num": 23548,
+        "word": "Icon直播道歉",
+        "onboard_time": 1754754083,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
