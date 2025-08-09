@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754767283820,
+  "endTime": 1754768248618,
   "band_list": [
     {
       "raw_hot": 1141252,
@@ -339,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88105,
+      "num": 88105,
+      "word": "檀健次 十日终焉",
+      "onboard_time": 1754765595,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87352,
       "num": 87352,
       "word": "日本老人奔走16年拼凑中国英雄一生",
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60394,
-      "num": 60394,
-      "word": "檀健次 十日终焉",
-      "onboard_time": 1754765595,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56225,
       "num": 56225,
       "word": "宋亚轩十分像从前",
@@ -475,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26488,
+      "num": 30790,
+      "word": "原来看汪苏泷演唱会真的会哭",
+      "onboard_time": 1754767394,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25867,
       "num": 36734,
       "word": "吴斌 瘸哥代号",
@@ -499,20 +507,20 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 25098,
+      "num": 30786,
+      "word": "罗家英给妻子汪明荃买楼留保险",
+      "onboard_time": 1754765956,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25094,
       "num": 31836,
       "word": "导演被热巴哭戏感染到忘记喊卡",
       "onboard_time": 1754764756,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23735,
-      "num": 24992,
-      "word": "罗家英给妻子汪明荃买楼留保险",
-      "onboard_time": 1754765956,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 2969,
