@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754746532543,
+  "endTime": 1754747216560,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -17,6 +17,14 @@
       "onboard_time": 1754659884,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2377001,
+      "num": 304529,
+      "word": "赵露思回应鼻子动了",
+      "onboard_time": 1754746404,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2040725,
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653802,
+      "num": 653802,
+      "word": "遇车祸一家刚拿到孩子小学录取通知",
+      "onboard_time": 1754743642,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 651639,
       "num": 651639,
       "word": "男子转嫖娼对象138万原配追讨败诉",
@@ -403,16 +419,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610943,
-      "num": 610943,
-      "word": "遇车祸一家刚拿到孩子小学录取通知",
-      "onboard_time": 1754743642,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 610486,
-      "num": 408422,
+      "num": 431728,
       "word": "虞书欣全开麦唱跳",
       "onboard_time": 1754744602,
       "rank": 27,
@@ -473,14 +481,6 @@
       "onboard_time": 1754719883,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 556658,
-      "num": 304529,
-      "word": "赵露思回应鼻子动了",
-      "onboard_time": 1754746404,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 549567,
@@ -593,6 +593,14 @@
       "onboard_time": 1754727502,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407879,
+      "num": 407879,
+      "word": "外卖员被曝隔窗偷拍女生洗澡",
+      "onboard_time": 1754744422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406920,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321179,
+      "num": 274952,
+      "word": "袁咏仪也是孙颖莎球迷",
+      "onboard_time": 1754746344,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 317010,
       "num": 276466,
       "word": "人民日报对话朱一龙",
@@ -761,14 +777,6 @@
       "onboard_time": 1754723241,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294066,
-      "num": 294066,
-      "word": "外卖员被曝隔窗偷拍女生洗澡",
-      "onboard_time": 1754744422,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 290477,
@@ -811,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275252,
-      "num": 175790,
-      "word": "袁咏仪也是孙颖莎球迷",
-      "onboard_time": 1754746344,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 272839,
       "num": 222311,
       "word": "当我用洗洁精洗眼镜一年后",
@@ -843,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268888,
+      "num": 230099,
+      "word": "鹿晗编了小辫子",
+      "onboard_time": 1754744723,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 268511,
       "num": 261171,
       "word": "卡琳娜cos樱木花道",
@@ -851,20 +859,20 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 267518,
-      "num": 227592,
-      "word": "鹿晗编了小辫子",
-      "onboard_time": 1754744723,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 260938,
       "num": 260938,
       "word": "鹿晗演唱会",
       "onboard_time": 1754741423,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260710,
+      "num": 260710,
+      "word": "iG对战JDG",
+      "onboard_time": 1754744422,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 257151,
@@ -963,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227035,
+      "num": 227035,
+      "word": "田曦薇美成这样",
+      "onboard_time": 1754746763,
+      "rank": 24,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 226826,
       "num": 226826,
       "word": "你好星期六没见过这么会演的",
@@ -993,14 +1009,6 @@
       "onboard_time": 1754668582,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 220671,
-      "num": 220671,
-      "word": "iG对战JDG",
-      "onboard_time": 1754744422,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 220481,
@@ -1040,6 +1048,14 @@
       "word": "杀害中国籍农场主赞比亚男子已溺亡",
       "onboard_time": 1754728641,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216496,
+      "num": 278031,
+      "word": "包头通报讲师团人才引进问题",
+      "onboard_time": 1754746404,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1275,6 +1291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195756,
+      "num": 195756,
+      "word": "包头讲师团主要负责人被免职",
+      "onboard_time": 1754746583,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195749,
       "num": 195749,
       "word": "王青直播",
@@ -1371,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188370,
+      "num": 188370,
+      "word": "DRG战胜EDG",
+      "onboard_time": 1754747004,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187726,
       "num": 187726,
       "word": "陈奕恒公演",
@@ -1443,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180960,
+      "num": 180960,
+      "word": "西安汉服馆冲突双方被拘留",
+      "onboard_time": 1754745864,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180476,
       "num": 180476,
       "word": "撒贝宁在央视遇到明侦粉",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1754723841,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177977,
+      "num": 173403,
+      "word": "手机玩久了为什么会恶心",
+      "onboard_time": 1754744422,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177752,
@@ -1515,20 +1563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174001,
+      "num": 174001,
+      "word": "丞磊新剧舔自己嘴一下还能活吗",
+      "onboard_time": 1754746222,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173247,
       "num": 173247,
       "word": "孙颖莎逛超市",
       "onboard_time": 1754735421,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173092,
-      "num": 173092,
-      "word": "手机玩久了为什么会恶心",
-      "onboard_time": 1754744422,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 172995,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1754735901,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165693,
+      "num": 165693,
+      "word": "中国男篮小组第一出线",
+      "onboard_time": 1754746162,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 164763,
@@ -1795,20 +1851,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 157163,
-      "num": 157163,
-      "word": "中国男篮小组第一出线",
-      "onboard_time": 1754746162,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 156203,
+      "num": 157672,
+      "word": "取2120万买黄金遭银行拒绝",
+      "onboard_time": 1754745386,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 156466,
-      "num": 156466,
-      "word": "西安汉服馆冲突双方被拘留",
-      "onboard_time": 1754745864,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 156195,
+      "num": 157246,
+      "word": "锦月如歌",
+      "onboard_time": 1754746644,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 155799,
@@ -2075,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137748,
-      "num": 137748,
-      "word": "丞磊新剧舔自己嘴一下还能活吗",
-      "onboard_time": 1754746222,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "吃不吃预制菜的都沉默了",
@@ -2097,14 +2145,6 @@
       "onboard_time": 1754723901,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 135461,
-      "num": 162434,
-      "word": "包头通报讲师团人才引进问题",
-      "onboard_time": 1754746404,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134689,
@@ -2361,14 +2401,6 @@
       "onboard_time": 1754721143,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 119706,
-      "num": 157672,
-      "word": "取2120万买黄金遭银行拒绝",
-      "onboard_time": 1754745386,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119614,
@@ -3131,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45097,
+      "num": 183853,
+      "word": "洪水1分钟冲走10多辆车清空停车场",
+      "onboard_time": 1754746282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45060,
       "num": 157219,
       "word": "出逃被人抱走的乌龟找到了",
@@ -3145,6 +3185,14 @@
       "onboard_time": 1754719402,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41729,
+      "num": 238394,
+      "word": "祝绪丹破冰COS冰魄",
+      "onboard_time": 1754746703,
+      "rank": 19,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 41109,
@@ -3185,14 +3233,6 @@
       "onboard_time": 1754677396,
       "rank": 34,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 36298,
-      "num": 175932,
-      "word": "洪水1分钟冲走10多辆车清空停车场",
-      "onboard_time": 1754746282,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34549,
@@ -3395,8 +3435,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2061,
-      "num": 623662,
+      "raw_hot": 2674,
+      "num": 680955,
       "word": "相约成都遇见万千精彩",
       "onboard_time": 1754572223,
       "rank": 2,

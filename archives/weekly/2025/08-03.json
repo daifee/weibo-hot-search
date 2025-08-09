@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754746532543,
+  "endTime": 1754747216560,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -248,6 +248,14 @@
       "word": "杨幂15年前的博文火了",
       "onboard_time": 1754231546,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2377001,
+      "num": 304529,
+      "word": "赵露思回应鼻子动了",
+      "onboard_time": 1754746404,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2547,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 653802,
+      "num": 653802,
+      "word": "遇车祸一家刚拿到孩子小学录取通知",
+      "onboard_time": 1754743642,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653461,
       "num": 653461,
       "word": "亮证女司机所开奔驰系17.8万二手车",
@@ -2843,14 +2859,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 610943,
-      "num": 610943,
-      "word": "遇车祸一家刚拿到孩子小学录取通知",
-      "onboard_time": 1754743642,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 610641,
       "num": 336238,
       "word": "黄一鸣带两岁女儿拍ct",
@@ -2860,7 +2868,7 @@
     },
     {
       "raw_hot": 610486,
-      "num": 408422,
+      "num": 431728,
       "word": "虞书欣全开麦唱跳",
       "onboard_time": 1754744602,
       "rank": 27,
@@ -3385,14 +3393,6 @@
       "onboard_time": 1754719883,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 556658,
-      "num": 304529,
-      "word": "赵露思回应鼻子动了",
-      "onboard_time": 1754746404,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 556226,
@@ -4449,6 +4449,14 @@
       "onboard_time": 1754225904,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407879,
+      "num": 407879,
+      "word": "外卖员被曝隔窗偷拍女生洗澡",
+      "onboard_time": 1754744422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407833,
@@ -5523,6 +5531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321179,
+      "num": 274952,
+      "word": "袁咏仪也是孙颖莎球迷",
+      "onboard_time": 1754746344,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 320831,
       "num": 320831,
       "word": "海来阿木变化好大",
@@ -5923,14 +5939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294066,
-      "num": 294066,
-      "word": "外卖员被曝隔窗偷拍女生洗澡",
-      "onboard_time": 1754744422,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293436,
       "num": 293436,
       "word": "陈乔恩艾伦首次合体上夫妻舞台综艺",
@@ -6219,14 +6227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275252,
-      "num": 175790,
-      "word": "袁咏仪也是孙颖莎球迷",
-      "onboard_time": 1754746344,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 275096,
       "num": 275096,
       "word": "香港男子坠亡发现时头部陷入身体",
@@ -6371,6 +6371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268888,
+      "num": 230099,
+      "word": "鹿晗编了小辫子",
+      "onboard_time": 1754744723,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 268511,
       "num": 261171,
       "word": "卡琳娜cos樱木花道",
@@ -6401,14 +6409,6 @@
       "onboard_time": 1754540665,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267518,
-      "num": 227592,
-      "word": "鹿晗编了小辫子",
-      "onboard_time": 1754744723,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 267367,
@@ -6529,6 +6529,14 @@
       "onboard_time": 1754193087,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260710,
+      "num": 260710,
+      "word": "iG对战JDG",
+      "onboard_time": 1754744422,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 259801,
@@ -7379,6 +7387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227035,
+      "num": 227035,
+      "word": "田曦薇美成这样",
+      "onboard_time": 1754746763,
+      "rank": 24,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 226964,
       "num": 226964,
       "word": "酱子贝",
@@ -7595,14 +7611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220671,
-      "num": 220671,
-      "word": "iG对战JDG",
-      "onboard_time": 1754744422,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 220579,
       "num": 220579,
       "word": "purplekiss解散",
@@ -7728,6 +7736,14 @@
       "word": "杀害中国籍农场主赞比亚男子已溺亡",
       "onboard_time": 1754728641,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216496,
+      "num": 278031,
+      "word": "包头通报讲师团人才引进问题",
+      "onboard_time": 1754746404,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -8955,6 +8971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195756,
+      "num": 195756,
+      "word": "包头讲师团主要负责人被免职",
+      "onboard_time": 1754746583,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195749,
       "num": 195749,
       "word": "王青直播",
@@ -9425,6 +9449,14 @@
       "onboard_time": 1754212163,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188370,
+      "num": 188370,
+      "word": "DRG战胜EDG",
+      "onboard_time": 1754747004,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 187991,
@@ -9963,6 +9995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180960,
+      "num": 180960,
+      "word": "西安汉服馆冲突双方被拘留",
+      "onboard_time": 1754745864,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180809,
       "num": 178313,
       "word": "官方通报周口六院邵医生坠楼",
@@ -10145,6 +10185,14 @@
       "onboard_time": 1754488285,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177977,
+      "num": 173403,
+      "word": "手机玩久了为什么会恶心",
+      "onboard_time": 1754744422,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177952,
@@ -10427,6 +10475,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 174001,
+      "num": 174001,
+      "word": "丞磊新剧舔自己嘴一下还能活吗",
+      "onboard_time": 1754746222,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173890,
       "num": 173890,
       "word": "王一博COCOCRUSH海报",
@@ -10513,14 +10569,6 @@
       "onboard_time": 1754205444,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173092,
-      "num": 173092,
-      "word": "手机玩久了为什么会恶心",
-      "onboard_time": 1754744422,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 172995,
@@ -11105,6 +11153,14 @@
       "onboard_time": 1754735901,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165693,
+      "num": 165693,
+      "word": "中国男篮小组第一出线",
+      "onboard_time": 1754746162,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 165599,
@@ -11835,14 +11891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157163,
-      "num": 157163,
-      "word": "中国男篮小组第一出线",
-      "onboard_time": 1754746162,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156949,
       "num": 156949,
       "word": "在两万人口的农村开奶茶店",
@@ -11883,14 +11931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156466,
-      "num": 156466,
-      "word": "西安汉服馆冲突双方被拘留",
-      "onboard_time": 1754745864,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156426,
       "num": 156426,
       "word": "章若楠假刘海",
@@ -11913,6 +11953,14 @@
       "onboard_time": 1754640862,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156203,
+      "num": 157672,
+      "word": "取2120万买黄金遭银行拒绝",
+      "onboard_time": 1754745386,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156085,
@@ -14107,14 +14155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137748,
-      "num": 137748,
-      "word": "丞磊新剧舔自己嘴一下还能活吗",
-      "onboard_time": 1754746222,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "丁程鑫张真源拟北京人才引进",
@@ -14401,14 +14441,6 @@
       "onboard_time": 1754389764,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135461,
-      "num": 162434,
-      "word": "包头通报讲师团人才引进问题",
-      "onboard_time": 1754746404,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135410,
@@ -16713,14 +16745,6 @@
       "onboard_time": 1754220804,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119706,
-      "num": 157672,
-      "word": "取2120万买黄金遭银行拒绝",
-      "onboard_time": 1754745386,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119574,
@@ -22403,6 +22427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45097,
+      "num": 183853,
+      "word": "洪水1分钟冲走10多辆车清空停车场",
+      "onboard_time": 1754746282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45060,
       "num": 157219,
       "word": "出逃被人抱走的乌龟找到了",
@@ -22489,6 +22521,14 @@
       "onboard_time": 1754652742,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41729,
+      "num": 238394,
+      "word": "祝绪丹破冰COS冰魄",
+      "onboard_time": 1754746703,
+      "rank": 19,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 41675,
@@ -22785,14 +22825,6 @@
       "onboard_time": 1754339355,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36298,
-      "num": 175932,
-      "word": "洪水1分钟冲走10多辆车清空停车场",
-      "onboard_time": 1754746282,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36101,
