@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754781988509,
+  "endTime": 1754782867046,
   "band_list": [
     {
       "raw_hot": 1141252,
@@ -59,20 +59,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 425498,
+      "num": 425498,
+      "word": "男子离家前吐西瓜籽回来时满院西瓜",
+      "onboard_time": 1754751564,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407399,
       "num": 233461,
       "word": "徐杰 赌球",
       "onboard_time": 1754751205,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 403918,
-      "num": 403918,
-      "word": "男子离家前吐西瓜籽回来时满院西瓜",
-      "onboard_time": 1754751564,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 359350,
@@ -91,20 +91,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308578,
+      "num": 308578,
+      "word": "用微信记录自律太好用了",
+      "onboard_time": 1754754982,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 305761,
       "num": 305761,
       "word": "虞书欣连戴不上耳机都有callback",
       "onboard_time": 1754750725,
       "rank": 7,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 296491,
-      "num": 296491,
-      "word": "用微信记录自律太好用了",
-      "onboard_time": 1754754982,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 286301,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193650,
+      "num": 193650,
+      "word": "田栩宁杨迪合唱imissyou",
+      "onboard_time": 1754782757,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192563,
       "num": 192563,
       "word": "孙颖莎终结对手对国乒的11连胜",
@@ -177,6 +185,14 @@
       "onboard_time": 1754755282,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160253,
+      "num": 160253,
+      "word": "董璇张维伊实际相处时间才一个月",
+      "onboard_time": 1754750485,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 144870,
@@ -227,12 +243,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118058,
-      "num": 118058,
-      "word": "董璇张维伊实际相处时间才一个月",
-      "onboard_time": 1754750485,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 127605,
+      "num": 109567,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1754777055,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127580,
+      "num": 127580,
+      "word": "小沈阳说鹿晗就在旁边唱的",
+      "onboard_time": 1754781618,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 119988,
+      "num": 119988,
+      "word": "无袖流行是对身体羞耻的反击",
+      "onboard_time": 1754781317,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117380,
+      "num": 117380,
+      "word": "罗家英给妻子汪明荃买楼留保险",
+      "onboard_time": 1754765956,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 115022,
@@ -267,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102283,
+      "num": 102283,
+      "word": "檀健次 十日终焉",
+      "onboard_time": 1754765595,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97942,
       "num": 97942,
       "word": "西安汉服馆冲突双方被拘留",
@@ -296,22 +344,6 @@
       "word": "昆凌把周杰伦裁掉了",
       "onboard_time": 1754723241,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 95136,
-      "num": 95136,
-      "word": "王楚钦vs户上隼辅",
-      "onboard_time": 1754777055,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 92824,
-      "num": 92824,
-      "word": "罗家英给妻子汪明荃买楼留保险",
-      "onboard_time": 1754765956,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -361,14 +393,6 @@
       "onboard_time": 1754752643,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88105,
-      "num": 88105,
-      "word": "檀健次 十日终焉",
-      "onboard_time": 1754765595,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 87352,
@@ -427,14 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71900,
-      "num": 71900,
-      "word": "无袖流行是对身体羞耻的反击",
-      "onboard_time": 1754781317,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71044,
       "num": 85295,
       "word": "宋茜女战神结算时刻",
@@ -459,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65169,
+      "num": 65169,
+      "word": "陈乔恩拯救了阮经天的职业生涯",
+      "onboard_time": 1754745264,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61563,
+      "num": 85361,
+      "word": "被逆行女子剐蹭小伙教科书式回答",
+      "onboard_time": 1754753783,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56225,
       "num": 56225,
       "word": "宋亚轩十分像从前",
@@ -467,28 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55621,
-      "num": 85361,
-      "word": "被逆行女子剐蹭小伙教科书式回答",
-      "onboard_time": 1754753783,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52625,
-      "num": 52625,
-      "word": "陈乔恩拯救了阮经天的职业生涯",
-      "onboard_time": 1754745264,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 49506,
+      "raw_hot": 52558,
       "num": 54934,
       "word": "印度宣称曾击落巴方6架战机",
       "onboard_time": 1754748083,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48105,
+      "num": 48105,
+      "word": "成都暴雨",
+      "onboard_time": 1754782158,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42297,
@@ -515,11 +539,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38054,
-      "num": 38054,
-      "word": "小沈阳说鹿晗就在旁边唱的",
-      "onboard_time": 1754781618,
-      "rank": 34,
+      "raw_hot": 36825,
+      "num": 36825,
+      "word": "陈小春王栎鑫先一步公演上了",
+      "onboard_time": 1754777775,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -539,12 +563,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32009,
-      "num": 32009,
-      "word": "陈小春王栎鑫先一步公演上了",
-      "onboard_time": 1754777775,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 31767,
+      "num": 32687,
+      "word": "成毅深潜卫视实时收视第一",
+      "onboard_time": 1754778616,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 31401,
@@ -553,14 +577,6 @@
       "onboard_time": 1754781317,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29950,
-      "num": 29950,
-      "word": "成毅深潜卫视实时收视第一",
-      "onboard_time": 1754778616,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 29224,

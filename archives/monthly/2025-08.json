@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754781988509,
+  "endTime": 1754782867046,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -5435,6 +5435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425498,
+      "num": 425498,
+      "word": "男子离家前吐西瓜籽回来时满院西瓜",
+      "onboard_time": 1754751564,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425168,
       "num": 425168,
       "word": "曹格回应Joe用自己的歌官宣恋情",
@@ -5521,14 +5529,6 @@
       "onboard_time": 1754021241,
       "rank": 38,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 418849,
-      "num": 418849,
-      "word": "男子离家前吐西瓜籽回来时满院西瓜",
-      "onboard_time": 1754751564,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 418108,
@@ -7315,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308578,
+      "num": 308578,
+      "word": "用微信记录自律太好用了",
+      "onboard_time": 1754754982,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 308457,
       "num": 308457,
       "word": "秋天的第一杯奶茶花束又火了",
@@ -7569,14 +7577,6 @@
       "onboard_time": 1754040381,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296491,
-      "num": 296491,
-      "word": "用微信记录自律太好用了",
-      "onboard_time": 1754754982,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 296327,
@@ -12107,6 +12107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193650,
+      "num": 193650,
+      "word": "田栩宁杨迪合唱imissyou",
+      "onboard_time": 1754782757,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193601,
       "num": 193601,
       "word": "喻言闪光的夏天总冠军",
@@ -15483,6 +15491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160253,
+      "num": 160253,
+      "word": "董璇张维伊实际相处时间才一个月",
+      "onboard_time": 1754750485,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160210,
       "num": 160210,
       "word": "毕业后朋友圈都成了一片空白",
@@ -16033,14 +16049,6 @@
       "onboard_time": 1754293524,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155789,
-      "num": 155789,
-      "word": "董璇张维伊实际相处时间才一个月",
-      "onboard_time": 1754750485,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 155741,
@@ -20763,6 +20771,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 127605,
+      "num": 109567,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1754777055,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127580,
+      "num": 127580,
+      "word": "小沈阳说鹿晗就在旁边唱的",
+      "onboard_time": 1754781618,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127548,
       "num": 127548,
       "word": "星穹铁道",
@@ -22267,6 +22291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119988,
+      "num": 119988,
+      "word": "无袖流行是对身体羞耻的反击",
+      "onboard_time": 1754781317,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119898,
       "num": 119898,
       "word": "王安宇新歌制作人是小鬼",
@@ -22681,6 +22713,14 @@
       "onboard_time": 1754016082,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117380,
+      "num": 117380,
+      "word": "罗家英给妻子汪明荃买楼留保险",
+      "onboard_time": 1754765956,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 117371,
@@ -24939,6 +24979,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 102283,
+      "num": 102283,
+      "word": "檀健次 十日终焉",
+      "onboard_time": 1754765595,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102249,
       "num": 112187,
       "word": "丰田车主逆行插队被拒后放狠话",
@@ -25827,14 +25875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95136,
-      "num": 95136,
-      "word": "王楚钦vs户上隼辅",
-      "onboard_time": 1754777055,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95123,
       "num": 95123,
       "word": "梅西受伤",
@@ -26145,14 +26185,6 @@
       "onboard_time": 1754190803,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92824,
-      "num": 92824,
-      "word": "罗家英给妻子汪明荃买楼留保险",
-      "onboard_time": 1754765956,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 92820,
@@ -26577,14 +26609,6 @@
       "onboard_time": 1754559504,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88105,
-      "num": 88105,
-      "word": "檀健次 十日终焉",
-      "onboard_time": 1754765595,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 87901,
@@ -27721,14 +27745,6 @@
       "onboard_time": 1754186243,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71900,
-      "num": 71900,
-      "word": "无袖流行是对身体羞耻的反击",
-      "onboard_time": 1754781317,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71574,
@@ -29995,14 +30011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38054,
-      "num": 38054,
-      "word": "小沈阳说鹿晗就在旁边唱的",
-      "onboard_time": 1754781618,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 38035,
       "num": 43129,
       "word": "甘肃省级文保单位兴隆山卧桥被冲毁",
@@ -30089,6 +30097,14 @@
       "onboard_time": 1754562742,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36825,
+      "num": 36825,
+      "word": "陈小春王栎鑫先一步公演上了",
+      "onboard_time": 1754777775,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 36770,
@@ -30467,12 +30483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32009,
-      "num": 32009,
-      "word": "陈小春王栎鑫先一步公演上了",
-      "onboard_time": 1754777775,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 31767,
+      "num": 32687,
+      "word": "成毅深潜卫视实时收视第一",
+      "onboard_time": 1754778616,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 31401,
@@ -30569,14 +30585,6 @@
       "onboard_time": 1754341755,
       "rank": 41,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 29950,
-      "num": 29950,
-      "word": "成毅深潜卫视实时收视第一",
-      "onboard_time": 1754778616,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 29907,
