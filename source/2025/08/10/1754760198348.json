@@ -1,0 +1,410 @@
+{
+  "runTime": 1754760198348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 606273,
+        "num": 606273,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483322,
+        "num": 483322,
+        "word": "陶白白 爱到最后都一样",
+        "onboard_time": 1754753125,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1761,
+        "num": 379553,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378048,
+        "num": 378048,
+        "word": "赵露思手机号被泄漏",
+        "onboard_time": 1754752704,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358970,
+        "num": 358970,
+        "word": "今年衣服的袖子为啥都没了",
+        "onboard_time": 1754755343,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248061,
+        "num": 248061,
+        "word": "用微信记录自律太好用了",
+        "onboard_time": 1754754982,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324280,
+        "num": 245867,
+        "word": "田曦薇美成这样",
+        "onboard_time": 1754746763,
+        "rank": 6,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 234547,
+        "num": 234547,
+        "word": "医生将患者强塞红包转存住院费",
+        "onboard_time": 1754757141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197810,
+        "num": 197810,
+        "word": "中国留学生在澳遭围殴抢救超30小时",
+        "onboard_time": 1754749345,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190098,
+        "num": 190098,
+        "word": "老总提议给自己发200万固定月薪被批",
+        "onboard_time": 1754755282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626798,
+        "num": 187265,
+        "word": "徐杰被曝出轨",
+        "onboard_time": 1754748144,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610266,
+        "num": 186815,
+        "word": "赵露思回应鼻子动了",
+        "onboard_time": 1754746404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276821,
+        "num": 184940,
+        "word": "徐杰 赌球",
+        "onboard_time": 1754751205,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180643,
+        "num": 180643,
+        "word": "男子离家前吐西瓜籽回来时满院西瓜",
+        "onboard_time": 1754751564,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170401,
+        "num": 170401,
+        "word": "虞书欣全开麦唱跳",
+        "onboard_time": 1754744602,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 129311,
+        "num": 129311,
+        "word": "利剑玫瑰大结局",
+        "onboard_time": 1754741362,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124574,
+        "num": 124574,
+        "word": "院长回应规培生等禁入职工餐厅吃饭",
+        "onboard_time": 1754753543,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122158,
+        "num": 122158,
+        "word": "大爷摆摊自称送20万现金无人敢拿",
+        "onboard_time": 1754755282,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159922,
+        "num": 117080,
+        "word": "虞书欣连戴不上耳机都有callback",
+        "onboard_time": 1754750725,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 106855,
+        "num": 106855,
+        "word": "孙颖莎终结对手对国乒的11连胜",
+        "onboard_time": 1754740341,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279388,
+        "num": 105474,
+        "word": "巴西情侣悬崖边亲热坠崖身亡",
+        "onboard_time": 1754754563,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99475,
+        "num": 99475,
+        "word": "田曦薇金发玛丽猫",
+        "onboard_time": 1754743102,
+        "rank": 21,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 92816,
+        "num": 92816,
+        "word": "汪苏泷演唱会跳美美桑内",
+        "onboard_time": 1754756962,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91076,
+        "num": 91076,
+        "word": "为什么中国的神仙都是竖着飞",
+        "onboard_time": 1754751924,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89457,
+        "num": 89457,
+        "word": "外卖员被曝隔窗偷拍女生洗澡",
+        "onboard_time": 1754744422,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85441,
+        "num": 85441,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73301,
+        "num": 85441,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73046,
+        "num": 85429,
+        "word": "小S两女儿颜值",
+        "onboard_time": 1754747425,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72711,
+        "num": 85422,
+        "word": "喻言闪光的夏天总冠军",
+        "onboard_time": 1754748985,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70951,
+        "num": 85414,
+        "word": "你好星期六",
+        "onboard_time": 1754739382,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61757,
+        "num": 85408,
+        "word": "鹿晗编了小辫子",
+        "onboard_time": 1754744723,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60455,
+        "num": 85402,
+        "word": "杨冰怡夺冠后C位首秀",
+        "onboard_time": 1754755162,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59467,
+        "num": 85393,
+        "word": "P1Harmony舞台着火",
+        "onboard_time": 1754754563,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57667,
+        "num": 85384,
+        "word": "当我用洗洁精洗眼镜一年后",
+        "onboard_time": 1754734343,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56521,
+        "num": 85376,
+        "word": "和平精英直播",
+        "onboard_time": 1754737161,
+        "rank": 34,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 55702,
+        "num": 85373,
+        "word": "没有然然和章阿姨相认的镜头",
+        "onboard_time": 1754751924,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54669,
+        "num": 85361,
+        "word": "被逆行女子剐蹭小伙教科书式回答",
+        "onboard_time": 1754753783,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54086,
+        "num": 85355,
+        "word": "西安汉服馆冲突双方被拘留",
+        "onboard_time": 1754745864,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52917,
+        "num": 85349,
+        "word": "iG战胜JDG",
+        "onboard_time": 1754748624,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52289,
+        "num": 85339,
+        "word": "Icon直播道歉",
+        "onboard_time": 1754754083,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51988,
+        "num": 85332,
+        "word": "迪丽热巴太会演了",
+        "onboard_time": 1754751263,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49927,
+        "num": 85326,
+        "word": "王源官宣了鸟巢演唱会",
+        "onboard_time": 1754750604,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49913,
+        "num": 85318,
+        "word": "萧亚轩瘦成纸片人",
+        "onboard_time": 1754742383,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47911,
+        "num": 85310,
+        "word": "时代少年团上海站没有延伸台",
+        "onboard_time": 1754751145,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46781,
+        "num": 85307,
+        "word": "权志龙 再吵我可要下班了",
+        "onboard_time": 1754747544,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46000,
+        "num": 85295,
+        "word": "宋茜女战神结算时刻",
+        "onboard_time": 1754757920,
+        "rank": 45,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 43552,
+        "num": 85288,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1754752643,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43348,
+        "num": 85281,
+        "word": "周深没有你的城市空荡荡",
+        "onboard_time": 1754757022,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42291,
+        "num": 85276,
+        "word": "种地吧",
+        "onboard_time": 1754753184,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40122,
+        "num": 85267,
+        "word": "鹿晗撒娇一次抵20张自拍",
+        "onboard_time": 1754751804,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
