@@ -1,0 +1,410 @@
+{
+  "runTime": 1754717230859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1400085,
+        "num": 1400085,
+        "word": "指示牌China写成Ching",
+        "onboard_time": 1754711902,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1150251,
+        "num": 1150251,
+        "word": "张维伊给去世父亲交话费",
+        "onboard_time": 1754714781,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35661,
+        "num": 906159,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882050,
+        "num": 882050,
+        "word": "孟子义瘦到了90斤以下",
+        "onboard_time": 1754712381,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 650684,
+        "num": 650684,
+        "word": "冰川融化现沉睡28年尸体",
+        "onboard_time": 1754701160,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 434163,
+        "num": 434163,
+        "word": "婚内强奸案男方因一段录音疑妻出轨",
+        "onboard_time": 1754715562,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530775,
+        "num": 429261,
+        "word": "李沁花儿与少年官宣海报",
+        "onboard_time": 1754711902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446999,
+        "num": 425391,
+        "word": "丁太升说单依纯没得歌王是好事",
+        "onboard_time": 1754713762,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414592,
+        "num": 414592,
+        "word": "普京10年来首次赴美",
+        "onboard_time": 1754712742,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329853,
+        "num": 329853,
+        "word": "列车卧铺 床虱",
+        "onboard_time": 1754708481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647577,
+        "num": 324026,
+        "word": "张曼玉优衣库",
+        "onboard_time": 1754714662,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483674,
+        "num": 316955,
+        "word": "金惠敏黄嘉杰分手",
+        "onboard_time": 1754711421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419000,
+        "num": 314334,
+        "word": "苏醒苏新皓聊天记录",
+        "onboard_time": 1754704461,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398795,
+        "num": 308346,
+        "word": "赵露思说半只脚跨出行业了",
+        "onboard_time": 1754711240,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303317,
+        "num": 303317,
+        "word": "男子转嫖娼对象138万原配追讨败诉",
+        "onboard_time": 1754666845,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348567,
+        "num": 298798,
+        "word": "披哥史上第一位女主持人",
+        "onboard_time": 1754711301,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328481,
+        "num": 293662,
+        "word": "陈楚生 我也希望我是皇",
+        "onboard_time": 1754705000,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277522,
+        "num": 277522,
+        "word": "我再也不翻马桶坐垫了",
+        "onboard_time": 1754707402,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55410,
+        "num": 220611,
+        "word": "周深小美满还能这样唱",
+        "onboard_time": 1754716043,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27476,
+        "num": 211706,
+        "word": "8系新人打脸霸总",
+        "onboard_time": 1754713102,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 283695,
+        "num": 211545,
+        "word": "爱奇艺认证的三部爆剧",
+        "onboard_time": 1754704821,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211362,
+        "num": 211362,
+        "word": "女子吐槽1万7的月子餐像预制菜",
+        "onboard_time": 1754706261,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209466,
+        "num": 209466,
+        "word": "秀才直播催中老年粉丝刷礼物",
+        "onboard_time": 1754715802,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203579,
+        "num": 203579,
+        "word": "凡人修仙传",
+        "onboard_time": 1754716102,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199553,
+        "num": 199553,
+        "word": "陈楚生歌王",
+        "onboard_time": 1754666010,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195268,
+        "num": 195268,
+        "word": "花儿与少年7",
+        "onboard_time": 1754705541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194092,
+        "num": 194092,
+        "word": "时团粉丝发长文感谢爆米花",
+        "onboard_time": 1754716282,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178227,
+        "num": 178227,
+        "word": "阿根廷中国行取消",
+        "onboard_time": 1754709921,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159085,
+        "num": 159085,
+        "word": "南瓜人生被虞书欣激励了两次",
+        "onboard_time": 1754716883,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87112,
+        "num": 155992,
+        "word": "男子赴柬被带网赌园跳车身亡",
+        "onboard_time": 1754712083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155741,
+        "num": 155741,
+        "word": "你永远可以相信幂姐的穿搭",
+        "onboard_time": 1754715441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152159,
+        "num": 152159,
+        "word": "时代少年团出座位图了",
+        "onboard_time": 1754713643,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148087,
+        "num": 148087,
+        "word": "邱党3比2林诗栋",
+        "onboard_time": 1754709382,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143747,
+        "num": 143747,
+        "word": "女子切开莲子发现里面真的有哪吒",
+        "onboard_time": 1754709981,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130339,
+        "num": 130339,
+        "word": "特朗普和普京时隔6年首次见面",
+        "onboard_time": 1754709201,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130152,
+        "num": 130152,
+        "word": "陈楚生把芒果台的冠军拿齐了",
+        "onboard_time": 1754717060,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124598,
+        "num": 124598,
+        "word": "女子用吹风机吹头发下一秒炸了",
+        "onboard_time": 1754700321,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122166,
+        "num": 122166,
+        "word": "石洵瑶vs伊藤美诚",
+        "onboard_time": 1754717001,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77129,
+        "num": 121966,
+        "word": "女子逆向停车致道路拥堵50分钟",
+        "onboard_time": 1754716462,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111229,
+        "num": 121925,
+        "word": "打投诉电话把充电宝打爆了",
+        "onboard_time": 1754716883,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121903,
+        "num": 121903,
+        "word": "马天宇发文为王菲庆生",
+        "onboard_time": 1754715201,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120732,
+        "num": 120732,
+        "word": "县城相亲开始流行内推了",
+        "onboard_time": 1754714062,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 119409,
+        "word": "董璇张维伊想生二胎",
+        "onboard_time": 1754717182,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117907,
+        "num": 117907,
+        "word": "李兰迪敖瑞鹏二搭不二之臣",
+        "onboard_time": 1754703561,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115237,
+        "num": 115237,
+        "word": "0713",
+        "onboard_time": 1754701401,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114299,
+        "num": 114299,
+        "word": "泰国一列车脱轨",
+        "onboard_time": 1754714842,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109205,
+        "num": 109205,
+        "word": "超过25岁就不适合劝分了",
+        "onboard_time": 1754713762,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107511,
+        "num": 107511,
+        "word": "大学不教但是真正有用的东西",
+        "onboard_time": 1754709861,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106467,
+        "num": 106467,
+        "word": "王曼昱2比3陈熠",
+        "onboard_time": 1754705722,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105159,
+        "num": 105159,
+        "word": "花儿与少年同心季定档官宣",
+        "onboard_time": 1754703921,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京通电话#"
+    }
+  }
+}

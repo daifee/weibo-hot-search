@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754715059645,
+  "endTime": 1754717230859,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -49,6 +49,14 @@
       "onboard_time": 1754704881,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1150251,
+      "num": 1150251,
+      "word": "张维伊给去世父亲交话费",
+      "onboard_time": 1754714781,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1108127,
@@ -171,8 +179,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647577,
+      "num": 324026,
+      "word": "张曼玉优衣库",
+      "onboard_time": 1754714662,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614031,
-      "num": 376004,
+      "num": 429261,
       "word": "李沁花儿与少年官宣海报",
       "onboard_time": 1754711902,
       "rank": 13,
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446999,
+      "num": 425391,
+      "word": "丁太升说单依纯没得歌王是好事",
+      "onboard_time": 1754713762,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434976,
       "num": 240418,
       "word": "苏醒含银量",
@@ -235,12 +259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434163,
+      "num": 434163,
+      "word": "婚内强奸案男方因一段录音疑妻出轨",
+      "onboard_time": 1754715562,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428563,
       "num": 202662,
       "word": "赵露思呼吁品牌找公司对接工作",
       "onboard_time": 1754665773,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414592,
+      "num": 414592,
+      "word": "普京10年来首次赴美",
+      "onboard_time": 1754712742,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 406920,
@@ -257,14 +297,6 @@
       "onboard_time": 1754665952,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 381194,
-      "num": 381194,
-      "word": "普京10年来首次赴美",
-      "onboard_time": 1754712742,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 380234,
@@ -427,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225475,
-      "num": 273753,
-      "word": "丁太升说单依纯没得歌王是好事",
-      "onboard_time": 1754713762,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223113,
       "num": 142073,
       "word": "吴磊演技",
@@ -475,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209466,
+      "num": 209466,
+      "word": "秀才直播催中老年粉丝刷礼物",
+      "onboard_time": 1754715802,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 208479,
       "num": 211448,
       "word": "花儿与少年7",
@@ -489,6 +521,14 @@
       "onboard_time": 1754652322,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203579,
+      "num": 203579,
+      "word": "凡人修仙传",
+      "onboard_time": 1754716102,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 201708,
@@ -521,6 +561,14 @@
       "onboard_time": 1754704881,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194092,
+      "num": 194092,
+      "word": "时团粉丝发长文感谢爆米花",
+      "onboard_time": 1754716282,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 193893,
@@ -563,28 +611,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 182990,
-      "num": 182990,
-      "word": "张维伊给去世父亲交话费",
-      "onboard_time": 1754714781,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181751,
       "num": 181751,
       "word": "林诗栋无缘男单八强",
       "onboard_time": 1754710341,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179931,
-      "num": 179931,
-      "word": "张曼玉优衣库",
-      "onboard_time": 1754714662,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 177751,
@@ -675,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159085,
+      "num": 159085,
+      "word": "南瓜人生被虞书欣激励了两次",
+      "onboard_time": 1754716883,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157856,
       "num": 346427,
       "word": "吉利星座04组卫星发射成功",
@@ -687,6 +727,14 @@
       "num": 124313,
       "word": "李溪芮变化",
       "onboard_time": 1754649382,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155741,
+      "num": 155741,
+      "word": "你永远可以相信幂姐的穿搭",
+      "onboard_time": 1754715441,
       "rank": 30,
       "category": "艺人"
     },
@@ -812,11 +860,19 @@
     },
     {
       "raw_hot": 130358,
-      "num": 130358,
+      "num": 155992,
       "word": "男子赴柬被带网赌园跳车身亡",
       "onboard_time": 1754712083,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130152,
+      "num": 130152,
+      "word": "陈楚生把芒果台的冠军拿齐了",
+      "onboard_time": 1754717060,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 128206,
@@ -883,6 +939,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122166,
+      "num": 122166,
+      "word": "石洵瑶vs伊藤美诚",
+      "onboard_time": 1754717001,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121903,
+      "num": 121903,
+      "word": "马天宇发文为王菲庆生",
+      "onboard_time": 1754715201,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121603,
       "num": 121603,
       "word": "婚内给女子转138万被认定系嫖资",
@@ -897,6 +969,14 @@
       "onboard_time": 1754666429,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119409,
+      "num": 119409,
+      "word": "董璇张维伊想生二胎",
+      "onboard_time": 1754717182,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 119049,
@@ -947,6 +1027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114299,
+      "num": 153995,
+      "word": "泰国一列车脱轨",
+      "onboard_time": 1754714842,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112888,
       "num": 113936,
       "word": "没有人觉得骑电瓶车很好笑吗",
@@ -961,6 +1049,14 @@
       "onboard_time": 1754702181,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111229,
+      "num": 121925,
+      "word": "打投诉电话把充电宝打爆了",
+      "onboard_time": 1754716883,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 110047,
@@ -1115,6 +1211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77129,
+      "num": 121966,
+      "word": "女子逆向停车致道路拥堵50分钟",
+      "onboard_time": 1754716462,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74943,
       "num": 158418,
       "word": "技术人员离职受访外泄敏感信息",
@@ -1235,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55410,
+      "num": 220611,
+      "word": "周深小美满还能这样唱",
+      "onboard_time": 1754716043,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54598,
       "num": 54598,
       "word": "孟子义第一个开上缤果S新车",
@@ -1273,14 +1385,6 @@
       "onboard_time": 1754664446,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39615,
-      "num": 153995,
-      "word": "泰国一列车脱轨",
-      "onboard_time": 1754714842,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 38587,
