@@ -1,0 +1,410 @@
+{
+  "runTime": 1754706403343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1442210,
+        "num": 1442210,
+        "word": "冰川融化现沉睡28年尸体",
+        "onboard_time": 1754701160,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 697705,
+        "num": 697705,
+        "word": "0713",
+        "onboard_time": 1754701401,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8123,
+        "num": 468573,
+        "word": "公办民办幼儿园均可享受免保教费",
+        "onboard_time": 1754534600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446052,
+        "num": 446052,
+        "word": "男子转嫖娼对象138万原配追讨败诉",
+        "onboard_time": 1754666845,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374341,
+        "num": 374341,
+        "word": "王曼昱vs陈熠",
+        "onboard_time": 1754701760,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 986530,
+        "num": 340020,
+        "word": "赵露思替经纪人求职",
+        "onboard_time": 1754700560,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551081,
+        "num": 331182,
+        "word": "陈楚生歌王",
+        "onboard_time": 1754666010,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481152,
+        "num": 313845,
+        "word": "郑钧说老婆下死命令支持陈楚生",
+        "onboard_time": 1754700621,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278495,
+        "num": 278495,
+        "word": "王曼昱2比3陈熠",
+        "onboard_time": 1754705722,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246326,
+        "num": 246326,
+        "word": "男子河道赶海1个月捡上万鞋花",
+        "onboard_time": 1754699120,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003985,
+        "num": 245968,
+        "word": "苏醒苏新皓聊天记录",
+        "onboard_time": 1754704461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684898,
+        "num": 245808,
+        "word": "鼓励生育已经到这个地步了",
+        "onboard_time": 1754704881,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464241,
+        "num": 245102,
+        "word": "李兰迪敖瑞鹏二搭不二之臣",
+        "onboard_time": 1754703561,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386354,
+        "num": 244782,
+        "word": "麦琳88斤了",
+        "onboard_time": 1754664746,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244344,
+        "num": 244344,
+        "word": "杭州男子自称2006年出生40岁",
+        "onboard_time": 1754706261,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381483,
+        "num": 240418,
+        "word": "苏醒含银量",
+        "onboard_time": 1754701460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339824,
+        "num": 237374,
+        "word": "花儿与少年同心季定档官宣",
+        "onboard_time": 1754703921,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332268,
+        "num": 237063,
+        "word": "王力宏回应下一季参加歌手",
+        "onboard_time": 1754700741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233647,
+        "num": 233647,
+        "word": "女子吐槽1万7的月子餐像预制菜",
+        "onboard_time": 1754706261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198987,
+        "num": 198987,
+        "word": "胖东来招聘服刑人员顾客该支持吗",
+        "onboard_time": 1754661745,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329973,
+        "num": 197398,
+        "word": "女子用吹风机吹头发下一秒炸了",
+        "onboard_time": 1754700321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320036,
+        "num": 192608,
+        "word": "爱奇艺认证的三部爆剧",
+        "onboard_time": 1754704821,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295252,
+        "num": 191005,
+        "word": "陈楚生 我也希望我是皇",
+        "onboard_time": 1754705000,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246623,
+        "num": 186065,
+        "word": "单依纯哭了",
+        "onboard_time": 1754695458,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220878,
+        "num": 183940,
+        "word": "歌手排名",
+        "onboard_time": 1754659884,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200828,
+        "num": 179817,
+        "word": "花儿与少年7",
+        "onboard_time": 1754705541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178932,
+        "num": 178932,
+        "word": "抓大鹅",
+        "onboard_time": 1754704881,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159737,
+        "num": 159737,
+        "word": "国内酒店入住时间怎么定的",
+        "onboard_time": 1754699000,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159256,
+        "num": 159256,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1754697498,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139246,
+        "num": 158499,
+        "word": "末伏第1天",
+        "onboard_time": 1754697139,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74943,
+        "num": 158418,
+        "word": "技术人员离职受访外泄敏感信息",
+        "onboard_time": 1754700560,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158394,
+        "num": 158394,
+        "word": "只穿裙子是导演对邱莹莹最大的偏见",
+        "onboard_time": 1754688914,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67942,
+        "num": 154342,
+        "word": "LV中国首家巧克力店本周日关闭",
+        "onboard_time": 1754702840,
+        "rank": 32,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 74480,
+        "num": 151114,
+        "word": "张艺兴问大家喜欢他什么",
+        "onboard_time": 1754700621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151090,
+        "num": 151090,
+        "word": "难听",
+        "onboard_time": 1754661506,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138005,
+        "num": 138005,
+        "word": "李佳薇哭死我了",
+        "onboard_time": 1754663786,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131155,
+        "num": 131155,
+        "word": "延伸台",
+        "onboard_time": 1754704521,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128819,
+        "num": 128819,
+        "word": "因鸡蛋崩溃掀桌女子发声",
+        "onboard_time": 1754657124,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127931,
+        "num": 127931,
+        "word": "icon说自己尊重女性",
+        "onboard_time": 1754705602,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127474,
+        "num": 127474,
+        "word": "刘惜君给单依纯擦眼泪",
+        "onboard_time": 1754705781,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127346,
+        "num": 127346,
+        "word": "张凌赫长沙",
+        "onboard_time": 1754698399,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125900,
+        "num": 125900,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1754701279,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125159,
+        "num": 125159,
+        "word": "巴基斯坦称列装中国造攻击直升机",
+        "onboard_time": 1754701401,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112888,
+        "num": 112888,
+        "word": "没有人觉得骑电瓶车很好笑吗",
+        "onboard_time": 1754704941,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112277,
+        "num": 112277,
+        "word": "总是觉得累的人去查查甲状腺",
+        "onboard_time": 1754701160,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111892,
+        "num": 111892,
+        "word": "特朗普称美俄会晤前普京不必见泽连斯基",
+        "onboard_time": 1754699061,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104843,
+        "num": 104843,
+        "word": "为涉黑母亲辩护法官被批准逮捕",
+        "onboard_time": 1754703201,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30529,
+        "num": 103601,
+        "word": "甘肃消防秒回游客不要慌马上来",
+        "onboard_time": 1754701401,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102484,
+        "num": 102484,
+        "word": "吉利星座04组卫星发射成功",
+        "onboard_time": 1754699120,
+        "rank": 48,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 101817,
+        "num": 101817,
+        "word": "上海爷叔开庭审猫金句频出",
+        "onboard_time": 1754703681,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}

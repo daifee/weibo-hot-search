@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754704992742,
+  "endTime": 1754706403343,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -43,8 +43,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1003985,
+      "num": 245968,
+      "word": "苏醒苏新皓聊天记录",
+      "onboard_time": 1754704461,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862320,
-      "num": 219158,
+      "num": 244782,
       "word": "麦琳88斤了",
       "onboard_time": 1754664746,
       "rank": 10,
@@ -65,6 +73,14 @@
       "onboard_time": 1754701401,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 684898,
+      "num": 245808,
+      "word": "鼓励生育已经到这个地步了",
+      "onboard_time": 1754704881,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 661707,
@@ -107,8 +123,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464241,
+      "num": 245102,
+      "word": "李兰迪敖瑞鹏二搭不二之臣",
+      "onboard_time": 1754703561,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434976,
-      "num": 215991,
+      "num": 240418,
       "word": "苏醒含银量",
       "onboard_time": 1754701460,
       "rank": 11,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 380234,
-      "num": 212981,
+      "num": 237063,
       "word": "王力宏回应下一季参加歌手",
       "onboard_time": 1754700741,
       "rank": 12,
@@ -156,11 +180,19 @@
     },
     {
       "raw_hot": 378448,
-      "num": 153814,
+      "num": 197398,
       "word": "女子用吹风机吹头发下一秒炸了",
       "onboard_time": 1754700321,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374341,
+      "num": 374341,
+      "word": "王曼昱vs陈熠",
+      "onboard_time": 1754701760,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 365948,
@@ -195,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339824,
+      "num": 237374,
+      "word": "花儿与少年同心季定档官宣",
+      "onboard_time": 1754703921,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322039,
       "num": 322039,
       "word": "男子河道赶海1个月捡上万鞋花",
@@ -203,12 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302353,
-      "num": 205187,
-      "word": "李兰迪敖瑞鹏二搭不二之臣",
-      "onboard_time": 1754703561,
-      "rank": 15,
+      "raw_hot": 320036,
+      "num": 192608,
+      "word": "爱奇艺认证的三部爆剧",
+      "onboard_time": 1754704821,
+      "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295252,
+      "num": 191005,
+      "word": "陈楚生 我也希望我是皇",
+      "onboard_time": 1754705000,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 287490,
@@ -219,20 +267,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279274,
-      "num": 153794,
-      "word": "花儿与少年同心季定档官宣",
-      "onboard_time": 1754703921,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 278495,
+      "num": 278495,
+      "word": "王曼昱2比3陈熠",
+      "onboard_time": 1754705722,
+      "rank": 8,
+      "category": "体育"
     },
     {
-      "raw_hot": 242716,
-      "num": 153652,
-      "word": "苏醒苏新皓聊天记录",
-      "onboard_time": 1754704461,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 244344,
+      "num": 244344,
+      "word": "杭州男子自称2006年出生40岁",
+      "onboard_time": 1754706261,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233647,
+      "num": 233647,
+      "word": "女子吐槽1万7的月子餐像预制菜",
+      "onboard_time": 1754706261,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230776,
@@ -275,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207203,
-      "num": 207203,
-      "word": "王曼昱vs陈熠",
-      "onboard_time": 1754701760,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204941,
       "num": 204941,
       "word": "中国女子坠入日本东京大学烟囱死亡",
@@ -297,6 +345,14 @@
       "onboard_time": 1754658086,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 200828,
+      "num": 179817,
+      "word": "花儿与少年7",
+      "onboard_time": 1754705541,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 193893,
@@ -321,6 +377,14 @@
       "onboard_time": 1754658625,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178932,
+      "num": 178932,
+      "word": "抓大鹅",
+      "onboard_time": 1754704881,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 177751,
@@ -355,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 159256,
+      "num": 159256,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754697498,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157856,
       "num": 157856,
       "word": "吉利星座04组卫星发射成功",
@@ -372,19 +444,11 @@
     },
     {
       "raw_hot": 154655,
-      "num": 154655,
+      "num": 158499,
       "word": "末伏第1天",
       "onboard_time": 1754697139,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153525,
-      "num": 153525,
-      "word": "浪浪山小妖怪",
-      "onboard_time": 1754697498,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 149381,
@@ -443,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "延伸台",
+      "onboard_time": 1754704521,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128206,
       "num": 128206,
       "word": "上海爷叔开庭审猫金句频出",
@@ -451,28 +523,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127355,
-      "num": 127355,
-      "word": "抓大鹅",
-      "onboard_time": 1754704881,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 127931,
+      "num": 127931,
+      "word": "icon说自己尊重女性",
+      "onboard_time": 1754705602,
+      "rank": 38,
+      "category": "电竞"
     },
     {
-      "raw_hot": 127302,
-      "num": 127302,
+      "raw_hot": 127474,
+      "num": 127474,
+      "word": "刘惜君给单依纯擦眼泪",
+      "onboard_time": 1754705781,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127346,
+      "num": 127346,
       "word": "张凌赫长沙",
       "onboard_time": 1754698399,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125192,
-      "num": 125192,
-      "word": "延伸台",
-      "onboard_time": 1754704521,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 122930,
@@ -539,6 +611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112888,
+      "num": 113936,
+      "word": "没有人觉得骑电瓶车很好笑吗",
+      "onboard_time": 1754704941,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111975,
       "num": 111975,
       "word": "这就是丞磊下水捞周也那段",
@@ -603,14 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102543,
-      "num": 112289,
-      "word": "爱奇艺认证的三部爆剧",
-      "onboard_time": 1754704821,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101689,
       "num": 121057,
       "word": "甘肃榆中已救出被困群众443人",
@@ -649,14 +721,6 @@
       "onboard_time": 1754670801,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89409,
-      "num": 115837,
-      "word": "鼓励生育已经到这个地步了",
-      "onboard_time": 1754704881,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 88342,
@@ -699,6 +763,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74943,
+      "num": 158418,
+      "word": "技术人员离职受访外泄敏感信息",
+      "onboard_time": 1754700560,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 74480,
+      "num": 151114,
+      "word": "张艺兴问大家喜欢他什么",
+      "onboard_time": 1754700621,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74236,
       "num": 95116,
       "word": "心跳1分钟多少次最健康",
@@ -721,6 +801,14 @@
       "onboard_time": 1754659585,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67942,
+      "num": 154342,
+      "word": "LV中国首家巧克力店本周日关闭",
+      "onboard_time": 1754702840,
+      "rank": 32,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 66745,
@@ -761,14 +849,6 @@
       "onboard_time": 1754695397,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57950,
-      "num": 113936,
-      "word": "没有人觉得骑电瓶车很好笑吗",
-      "onboard_time": 1754704941,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 57523,
@@ -889,6 +969,14 @@
       "onboard_time": 1754694377,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 30529,
+      "num": 103601,
+      "word": "甘肃消防秒回游客不要慌马上来",
+      "onboard_time": 1754701401,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29325,

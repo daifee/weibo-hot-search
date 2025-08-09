@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754704992742,
+  "endTime": 1754706403343,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1603,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1003985,
+      "num": 245968,
+      "word": "苏醒苏新皓聊天记录",
+      "onboard_time": 1754704461,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1002340,
       "num": 231208,
       "word": "老人携带不明液体上公交遭拒",
@@ -2793,6 +2801,14 @@
       "onboard_time": 1754656162,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 684898,
+      "num": 245808,
+      "word": "鼓励生育已经到这个地步了",
+      "onboard_time": 1754704881,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 684158,
@@ -4587,6 +4603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464241,
+      "num": 245102,
+      "word": "李兰迪敖瑞鹏二搭不二之臣",
+      "onboard_time": 1754703561,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463708,
       "num": 725541,
       "word": "美宣布对台湾地区征收20%关税",
@@ -4844,7 +4868,7 @@
     },
     {
       "raw_hot": 434976,
-      "num": 215991,
+      "num": 240418,
       "word": "苏醒含银量",
       "onboard_time": 1754701460,
       "rank": 11,
@@ -5572,7 +5596,7 @@
     },
     {
       "raw_hot": 380234,
-      "num": 212981,
+      "num": 237063,
       "word": "王力宏回应下一季参加歌手",
       "onboard_time": 1754700741,
       "rank": 12,
@@ -5604,7 +5628,7 @@
     },
     {
       "raw_hot": 378448,
-      "num": 153814,
+      "num": 197398,
       "word": "女子用吹风机吹头发下一秒炸了",
       "onboard_time": 1754700321,
       "rank": 21,
@@ -5697,6 +5721,14 @@
       "onboard_time": 1754036662,
       "rank": 19,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 374341,
+      "num": 374341,
+      "word": "王曼昱vs陈熠",
+      "onboard_time": 1754701760,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 372698,
@@ -6089,6 +6121,14 @@
       "onboard_time": 1754281705,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339824,
+      "num": 237374,
+      "word": "花儿与少年同心季定档官宣",
+      "onboard_time": 1754703921,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 339381,
@@ -6499,6 +6539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320036,
+      "num": 192608,
+      "word": "爱奇艺认证的三部爆剧",
+      "onboard_time": 1754704821,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319897,
       "num": 229009,
       "word": "内场第一排跟坐易烊千玺怀里有啥区别",
@@ -6763,14 +6811,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 302353,
-      "num": 205187,
-      "word": "李兰迪敖瑞鹏二搭不二之臣",
-      "onboard_time": 1754703561,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301892,
       "num": 242898,
       "word": "丁程鑫 改扣子漏光了",
@@ -6961,6 +7001,14 @@
       "onboard_time": 1754396123,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295252,
+      "num": 191005,
+      "word": "陈楚生 我也希望我是皇",
+      "onboard_time": 1754705000,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 294606,
@@ -7211,19 +7259,19 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 279274,
-      "num": 153794,
-      "word": "花儿与少年同心季定档官宣",
-      "onboard_time": 1754703921,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278920,
       "num": 278920,
       "word": "樊振东建军节发文",
       "onboard_time": 1754037984,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278495,
+      "num": 278495,
+      "word": "王曼昱2比3陈熠",
+      "onboard_time": 1754705722,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -8179,6 +8227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 244344,
+      "num": 244344,
+      "word": "杭州男子自称2006年出生40岁",
+      "onboard_time": 1754706261,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244311,
       "num": 244311,
       "word": "光遇",
@@ -8208,14 +8264,6 @@
       "word": "虞书欣告黑案胜诉",
       "onboard_time": 1754367204,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 242716,
-      "num": 153652,
-      "word": "苏醒苏新皓聊天记录",
-      "onboard_time": 1754704461,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -8505,6 +8553,14 @@
       "onboard_time": 1754366605,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233647,
+      "num": 233647,
+      "word": "女子吐槽1万7的月子餐像预制菜",
+      "onboard_time": 1754706261,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233227,
@@ -9787,14 +9843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 207203,
-      "num": 207203,
-      "word": "王曼昱vs陈熠",
-      "onboard_time": 1754701760,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207177,
       "num": 206004,
       "word": "25岁做了管理层后性情大变",
@@ -10345,6 +10393,14 @@
       "onboard_time": 1754196384,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 200828,
+      "num": 179817,
+      "word": "花儿与少年7",
+      "onboard_time": 1754705541,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 200784,
@@ -12137,6 +12193,14 @@
       "onboard_time": 1754381906,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178932,
+      "num": 178932,
+      "word": "抓大鹅",
+      "onboard_time": 1754704881,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 178874,
@@ -14476,7 +14540,7 @@
     },
     {
       "raw_hot": 154655,
-      "num": 154655,
+      "num": 158499,
       "word": "末伏第1天",
       "onboard_time": 1754697139,
       "rank": 18,
@@ -18051,6 +18115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "延伸台",
+      "onboard_time": 1754704521,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131067,
       "num": 131067,
       "word": "汪顺开心亲吻奖牌",
@@ -18603,6 +18675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127931,
+      "num": 127931,
+      "word": "icon说自己尊重女性",
+      "onboard_time": 1754705602,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127841,
       "num": 214476,
       "word": "店家回应彩民花69元中2.4亿元",
@@ -18683,6 +18763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127474,
+      "num": 127474,
+      "word": "刘惜君给单依纯擦眼泪",
+      "onboard_time": 1754705781,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127455,
       "num": 127455,
       "word": "谁懂迪丽热巴这段的层次感",
@@ -18707,12 +18795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127355,
-      "num": 127355,
-      "word": "抓大鹅",
-      "onboard_time": 1754704881,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 127346,
+      "num": 127346,
+      "word": "张凌赫长沙",
+      "onboard_time": 1754698399,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 127341,
@@ -18721,14 +18809,6 @@
       "onboard_time": 1754351001,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127302,
-      "num": 127302,
-      "word": "张凌赫长沙",
-      "onboard_time": 1754698399,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 127245,
@@ -19129,14 +19209,6 @@
       "onboard_time": 1754373262,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125192,
-      "num": 125192,
-      "word": "延伸台",
-      "onboard_time": 1754704521,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 125156,
@@ -21163,6 +21235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112888,
+      "num": 113936,
+      "word": "没有人觉得骑电瓶车很好笑吗",
+      "onboard_time": 1754704941,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112781,
       "num": 112781,
       "word": "丞磊好像熟透了",
@@ -22417,14 +22497,6 @@
       "onboard_time": 1754389343,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102543,
-      "num": 112289,
-      "word": "爱奇艺认证的三部爆剧",
-      "onboard_time": 1754704821,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 102480,
@@ -23835,14 +23907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89409,
-      "num": 115837,
-      "word": "鼓励生育已经到这个地步了",
-      "onboard_time": 1754704881,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 89246,
       "num": 89246,
       "word": "文俊辉首映礼生图",
@@ -24891,11 +24955,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74943,
+      "num": 158418,
+      "word": "技术人员离职受访外泄敏感信息",
+      "onboard_time": 1754700560,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74614,
       "num": 141845,
       "word": "沈玉琳妻子现身",
       "onboard_time": 1754574085,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74480,
+      "num": 151114,
+      "word": "张艺兴问大家喜欢他什么",
+      "onboard_time": 1754700621,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -25265,6 +25345,14 @@
       "onboard_time": 1754583802,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67942,
+      "num": 154342,
+      "word": "LV中国首家巧克力店本周日关闭",
+      "onboard_time": 1754702840,
+      "rank": 32,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 67929,
@@ -25841,14 +25929,6 @@
       "onboard_time": 1754662045,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57950,
-      "num": 113936,
-      "word": "没有人觉得骑电瓶车很好笑吗",
-      "onboard_time": 1754704941,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 57893,
@@ -27520,6 +27600,14 @@
       "word": "甘肃规定人流集中场所男女厕位1比2",
       "onboard_time": 1754062342,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30529,
+      "num": 103601,
+      "word": "甘肃消防秒回游客不要慌马上来",
+      "onboard_time": 1754701401,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
