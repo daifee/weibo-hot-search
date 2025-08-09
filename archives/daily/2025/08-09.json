@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754744836623,
+  "endTime": 1754746532543,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -403,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610943,
+      "num": 610943,
+      "word": "遇车祸一家刚拿到孩子小学录取通知",
+      "onboard_time": 1754743642,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610486,
+      "num": 408422,
+      "word": "虞书欣全开麦唱跳",
+      "onboard_time": 1754744602,
+      "rank": 27,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 607386,
       "num": 323727,
       "word": "越来越看不懂年轻人的泳衣了",
@@ -457,6 +473,14 @@
       "onboard_time": 1754719883,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 556658,
+      "num": 304529,
+      "word": "赵露思回应鼻子动了",
+      "onboard_time": 1754746404,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 549567,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294066,
+      "num": 294066,
+      "word": "外卖员被曝隔窗偷拍女生洗澡",
+      "onboard_time": 1754744422,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290477,
       "num": 290477,
       "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
@@ -779,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275252,
+      "num": 175790,
+      "word": "袁咏仪也是孙颖莎球迷",
+      "onboard_time": 1754746344,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 272839,
       "num": 222311,
       "word": "当我用洗洁精洗眼镜一年后",
@@ -809,6 +849,14 @@
       "onboard_time": 1754743762,
       "rank": 37,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 267518,
+      "num": 227592,
+      "word": "鹿晗编了小辫子",
+      "onboard_time": 1754744723,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 260938,
@@ -889,14 +937,6 @@
       "onboard_time": 1754741783,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233038,
-      "num": 261718,
-      "word": "遇车祸一家刚拿到孩子小学录取通知",
-      "onboard_time": 1754743642,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230776,
@@ -1019,20 +1059,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213573,
+      "num": 213573,
+      "word": "陈乔恩拯救了阮经天的职业生涯",
+      "onboard_time": 1754745264,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213300,
       "num": 213300,
       "word": "心动的信号",
       "onboard_time": 1754717602,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211208,
-      "num": 211208,
-      "word": "虞书欣全开麦唱跳",
-      "onboard_time": 1754744602,
-      "rank": 27,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 210357,
@@ -1075,6 +1115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206821,
+      "num": 206821,
+      "word": "王源演唱会",
+      "onboard_time": 1754742262,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206690,
       "num": 206690,
       "word": "突然发现泳池游泳等于全身刷酸",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1754743823,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205198,
-      "num": 205198,
-      "word": "王源演唱会",
-      "onboard_time": 1754742262,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 205059,
@@ -1339,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186042,
+      "num": 186042,
+      "word": "陈数最气场全收的一次",
+      "onboard_time": 1754744842,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185977,
       "num": 185977,
       "word": "浪浪山",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1754735421,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173092,
+      "num": 173092,
+      "word": "手机玩久了为什么会恶心",
+      "onboard_time": 1754744422,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172995,
@@ -1619,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162291,
+      "num": 162291,
+      "word": "AG周决再吃一鸡",
+      "onboard_time": 1754745563,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161144,
       "num": 161144,
       "word": "中国男篮vs约旦男篮",
@@ -1656,6 +1720,14 @@
       "word": "少林寺30名僧人集体辞职不实",
       "onboard_time": 1754726361,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159512,
+      "num": 205374,
+      "word": "男子还俗后向女儿索要20万赡养费",
+      "onboard_time": 1754744483,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1723,12 +1795,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156680,
-      "num": 156680,
-      "word": "手机玩久了为什么会恶心",
-      "onboard_time": 1754744422,
+      "raw_hot": 157163,
+      "num": 157163,
+      "word": "中国男篮小组第一出线",
+      "onboard_time": 1754746162,
       "rank": 40,
-      "category": "健康医疗"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156466,
+      "num": 156466,
+      "word": "西安汉服馆冲突双方被拘留",
+      "onboard_time": 1754745864,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155799,
@@ -1761,14 +1841,6 @@
       "onboard_time": 1754739620,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152483,
-      "num": 152483,
-      "word": "鹿晗编了小辫子",
-      "onboard_time": 1754744723,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 152420,
@@ -1827,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147274,
+      "num": 147274,
+      "word": "程帅澎20分",
+      "onboard_time": 1754745563,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146421,
       "num": 132482,
       "word": "虞书欣萌鼠我了",
@@ -1880,6 +1960,14 @@
       "word": "马思纯全肯定人格",
       "onboard_time": 1754727803,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142351,
+      "num": 142351,
+      "word": "颜安余宇涵一见面就抱上了",
+      "onboard_time": 1754746162,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1987,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137748,
+      "num": 137748,
+      "word": "丞磊新剧舔自己嘴一下还能活吗",
+      "onboard_time": 1754746222,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "吃不吃预制菜的都沉默了",
@@ -2001,6 +2097,14 @@
       "onboard_time": 1754723901,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135461,
+      "num": 162434,
+      "word": "包头通报讲师团人才引进问题",
+      "onboard_time": 1754746404,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134689,
@@ -2057,14 +2161,6 @@
       "onboard_time": 1754737522,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131982,
-      "num": 131982,
-      "word": "外卖员被曝隔窗偷拍女生洗澡",
-      "onboard_time": 1754744422,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131954,
@@ -2265,6 +2361,14 @@
       "onboard_time": 1754721143,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119706,
+      "num": 157672,
+      "word": "取2120万买黄金遭银行拒绝",
+      "onboard_time": 1754745386,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119614,
@@ -2560,14 +2664,6 @@
       "word": "被拘期间病妻溺亡男子起诉公安局",
       "onboard_time": 1754719642,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104033,
-      "num": 205374,
-      "word": "男子还俗后向女儿索要20万赡养费",
-      "onboard_time": 1754744483,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3091,6 +3187,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 36298,
+      "num": 175932,
+      "word": "洪水1分钟冲走10多辆车清空停车场",
+      "onboard_time": 1754746282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34549,
       "num": 32404,
       "word": "锦月如歌惊喜加座",
@@ -3291,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2061,
+      "num": 623662,
+      "word": "相约成都遇见万千精彩",
+      "onboard_time": 1754572223,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1546,
       "num": 133806,
       "word": "我有点不理解我青春期的女儿了",
@@ -3314,6 +3426,9 @@
     },
     {
       "word": "#古街是拆是留习近平用一首诗回答#"
+    },
+    {
+      "word": "#确保群众安全度汛#"
     }
   ]
 }
