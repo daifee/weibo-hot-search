@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754757128274,
+  "endTime": 1754758082956,
   "band_list": [
     {
       "raw_hot": 1141252,
@@ -43,12 +43,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 571473,
-      "num": 340897,
+      "raw_hot": 637212,
+      "num": 637212,
       "word": "陶白白 爱到最后都一样",
       "onboard_time": 1754753125,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 431943,
+      "num": 144828,
+      "word": "巴西情侣悬崖边亲热坠崖身亡",
+      "onboard_time": 1754754563,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 407399,
@@ -65,14 +73,6 @@
       "onboard_time": 1754751564,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394183,
-      "num": 140500,
-      "word": "巴西情侣悬崖边亲热坠崖身亡",
-      "onboard_time": 1754754563,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 359350,
@@ -107,6 +107,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 279206,
+      "num": 279206,
+      "word": "今年衣服的袖子为啥都没了",
+      "onboard_time": 1754755343,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242582,
       "num": 229559,
       "word": "利剑玫瑰大结局",
@@ -139,16 +147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171809,
-      "num": 171809,
-      "word": "今年衣服的袖子为啥都没了",
-      "onboard_time": 1754755343,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157985,
-      "num": 157985,
+      "raw_hot": 189713,
+      "num": 189713,
       "word": "老总提议给自己发200万固定月薪被批",
       "onboard_time": 1754755282,
       "rank": 18,
@@ -171,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140926,
+      "num": 140926,
+      "word": "汪苏泷演唱会跳美美桑内",
+      "onboard_time": 1754756962,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139270,
       "num": 139270,
       "word": "田曦薇金发玛丽猫",
       "onboard_time": 1754743102,
       "rank": 22,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 138775,
+      "num": 138775,
+      "word": "用微信记录自律太好用了",
+      "onboard_time": 1754754982,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 128744,
@@ -201,14 +217,6 @@
       "onboard_time": 1754753184,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110137,
-      "num": 110137,
-      "word": "用微信记录自律太好用了",
-      "onboard_time": 1754754982,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 109251,
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95475,
+      "num": 95475,
+      "word": "昆凌把周杰伦裁掉了",
+      "onboard_time": 1754723241,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92726,
       "num": 92726,
       "word": "iG战胜JDG",
@@ -275,12 +291,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91981,
-      "num": 91981,
-      "word": "昆凌把周杰伦裁掉了",
-      "onboard_time": 1754723241,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 91835,
+      "num": 91835,
+      "word": "萧亚轩瘦成纸片人",
+      "onboard_time": 1754742383,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 91587,
@@ -305,14 +321,6 @@
       "onboard_time": 1754751263,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89403,
-      "num": 89403,
-      "word": "汪苏泷演唱会跳美美桑内",
-      "onboard_time": 1754756962,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 88258,
@@ -379,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71044,
+      "num": 71044,
+      "word": "宋茜女战神结算时刻",
+      "onboard_time": 1754757920,
+      "rank": 43,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 70950,
       "num": 79031,
       "word": "张艺兴今晚跳了咆哮",
@@ -392,6 +408,14 @@
       "word": "婚内强奸案将开庭被告方作无罪辩护",
       "onboard_time": 1754751744,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37974,
+      "num": 147560,
+      "word": "医生将患者强塞红包转存住院费",
+      "onboard_time": 1754757141,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
