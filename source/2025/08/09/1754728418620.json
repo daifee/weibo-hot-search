@@ -1,0 +1,410 @@
+{
+  "runTime": 1754728418620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 951618,
+        "num": 1152258,
+        "word": "董璇张维伊官宣",
+        "onboard_time": 1754720063,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655505,
+        "num": 655505,
+        "word": "日本网友被科普日本侵华历史大破防",
+        "onboard_time": 1754721802,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14042,
+        "num": 577925,
+        "word": "吉利星座04组卫星发射成功",
+        "onboard_time": 1754699120,
+        "rank": 2,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 1021315,
+        "num": 568395,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545261,
+        "num": 545261,
+        "word": "退休金要有一个额度",
+        "onboard_time": 1754723722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540598,
+        "num": 540598,
+        "word": "小狗未拴绳被碾主人失控捶打司机",
+        "onboard_time": 1754722281,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827514,
+        "num": 437561,
+        "word": "董璇说下一个大事就是有了小小张",
+        "onboard_time": 1754726062,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685968,
+        "num": 393139,
+        "word": "给刘浩存P成185了",
+        "onboard_time": 1754724862,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293350,
+        "num": 293350,
+        "word": "指示牌China写成Ching",
+        "onboard_time": 1754711902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246317,
+        "num": 246317,
+        "word": "十日终焉",
+        "onboard_time": 1754719762,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 660171,
+        "num": 240527,
+        "word": "许嵩冯禧手拉手逛街",
+        "onboard_time": 1754721621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644881,
+        "num": 239992,
+        "word": "两女孩店门口喝奶茶被货车压死",
+        "onboard_time": 1754720901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444236,
+        "num": 238520,
+        "word": "赵露思保镖 跟着赵姐特别好",
+        "onboard_time": 1754723362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224826,
+        "num": 224826,
+        "word": "梓渝首本杂志销售额登顶",
+        "onboard_time": 1754719822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198922,
+        "num": 198922,
+        "word": "尼格买提 不要轻易删除你的朋友",
+        "onboard_time": 1754727502,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191676,
+        "num": 191676,
+        "word": "人民日报对话朱一龙",
+        "onboard_time": 1754723122,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191105,
+        "num": 191105,
+        "word": "王橹杰脸链",
+        "onboard_time": 1754727985,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159991,
+        "num": 159991,
+        "word": "婚内强奸案男方因一段录音疑妻出轨",
+        "onboard_time": 1754715562,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159788,
+        "num": 159788,
+        "word": "养了30年乌龟被人抱走了主人求别杀",
+        "onboard_time": 1754718023,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159756,
+        "num": 159756,
+        "word": "少林寺30名僧人集体辞职不实",
+        "onboard_time": 1754726361,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201248,
+        "num": 159695,
+        "word": "三胞胎坐高铁买挂票不哭不闹",
+        "onboard_time": 1754725942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162814,
+        "num": 159231,
+        "word": "网红万千惠患心脏早搏",
+        "onboard_time": 1754726423,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159967,
+        "num": 158879,
+        "word": "比黄子韬更装的人出现了",
+        "onboard_time": 1754725461,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157643,
+        "num": 157643,
+        "word": "日本大学生就业率大幅下降",
+        "onboard_time": 1754725284,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147000,
+        "num": 147000,
+        "word": "孟子义瘦到了90斤以下",
+        "onboard_time": 1754712381,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143540,
+        "num": 143540,
+        "word": "东极岛",
+        "onboard_time": 1754726361,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142795,
+        "num": 142795,
+        "word": "马思纯全肯定人格",
+        "onboard_time": 1754727803,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135119,
+        "num": 135119,
+        "word": "时代少年团 抢票",
+        "onboard_time": 1754719883,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133592,
+        "num": 133592,
+        "word": "冰川融化现沉睡28年尸体",
+        "onboard_time": 1754701160,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128287,
+        "num": 131214,
+        "word": "瘦下来之后性格真的完全变了",
+        "onboard_time": 1754724321,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 134277,
+        "num": 131208,
+        "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
+        "onboard_time": 1754728283,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131199,
+        "num": 131199,
+        "word": "44岁网红包公去世",
+        "onboard_time": 1754728042,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129179,
+        "num": 129179,
+        "word": "王晶称许晋亨无法继承巨额遗产",
+        "onboard_time": 1754725882,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47029,
+        "num": 125456,
+        "word": "美俄双边会晤或转为美俄乌三方会谈",
+        "onboard_time": 1754726482,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123901,
+        "num": 123901,
+        "word": "原来这样洗衣服越洗越臭",
+        "onboard_time": 1754722163,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118067,
+        "num": 118067,
+        "word": "一医院禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754728163,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117358,
+        "num": 117358,
+        "word": "风度",
+        "onboard_time": 1754723302,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111169,
+        "num": 111169,
+        "word": "王楚钦光速挺进八强",
+        "onboard_time": 1754723241,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64688,
+        "num": 109688,
+        "word": "带孩子毕业旅行遇车祸致1死4伤",
+        "onboard_time": 1754727683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19435,
+        "num": 109491,
+        "word": "谁来决定病危老人插不插管",
+        "onboard_time": 1754727683,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 30624,
+        "num": 109479,
+        "word": "榆中受灾居民称房子被推几百米",
+        "onboard_time": 1754728343,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109478,
+        "num": 109478,
+        "word": "韩安冉回应代孕",
+        "onboard_time": 1754717962,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100969,
+        "num": 100969,
+        "word": "美国劫匪只偷中国Labubu",
+        "onboard_time": 1754726482,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100352,
+        "num": 100352,
+        "word": "王安宇的腿又细又长又直",
+        "onboard_time": 1754721862,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100324,
+        "num": 100324,
+        "word": "小咘芽拒绝谢娜画饼",
+        "onboard_time": 1754722221,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99346,
+        "num": 99346,
+        "word": "嘟嘟逼人的孙颖莎",
+        "onboard_time": 1754728343,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99052,
+        "num": 99052,
+        "word": "左奇函大屏",
+        "onboard_time": 1754726122,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98187,
+        "num": 98187,
+        "word": "荣成车祸致一家1死4伤家属发声",
+        "onboard_time": 1754727262,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96315,
+        "num": 96315,
+        "word": "陈楚生把芒果台的冠军拿齐了",
+        "onboard_time": 1754717060,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91898,
+        "num": 91898,
+        "word": "丁禹兮土象女天菜",
+        "onboard_time": 1754727084,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京通电话#"
+    }
+  }
+}
