@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754731661207,
+  "endTime": 1754732488100,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1021315,
-      "num": 641153,
+      "num": 699485,
       "word": "昆凌把周杰伦裁掉了",
       "onboard_time": 1754723241,
       "rank": 7,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 720864,
+      "num": 720864,
+      "word": "一医院禁止规培生进职工餐厅吃饭",
+      "onboard_time": 1754728163,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 717366,
       "num": 717366,
       "word": "日本网友被科普日本侵华历史大破防",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 685968,
-      "num": 508727,
+      "num": 523057,
       "word": "给刘浩存P成185了",
       "onboard_time": 1754724862,
       "rank": 41,
@@ -371,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 521869,
-      "num": 521869,
-      "word": "一医院禁止规培生进职工餐厅吃饭",
-      "onboard_time": 1754728163,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 520097,
       "num": 171460,
       "word": "李佳薇哭死我了",
@@ -387,8 +387,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486195,
-      "num": 486195,
+      "raw_hot": 506591,
+      "num": 506591,
       "word": "中公教育17000元退款需17年退完",
       "onboard_time": 1754728883,
       "rank": 19,
@@ -443,19 +443,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 410864,
+      "num": 399912,
+      "word": "尼格买提 不要轻易删除你的朋友",
+      "onboard_time": 1754727502,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406920,
       "num": 194939,
       "word": "耳帝",
       "onboard_time": 1754669603,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 399912,
-      "num": 399912,
-      "word": "尼格买提 不要轻易删除你的朋友",
-      "onboard_time": 1754727502,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -659,12 +659,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239265,
+      "num": 239265,
+      "word": "荣成车祸致一家1死4伤家属发声",
+      "onboard_time": 1754727262,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239210,
       "num": 239210,
       "word": "女子切开莲子发现里面真的有哪吒",
       "onboard_time": 1754709981,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237222,
+      "num": 237222,
+      "word": "央视独家专访迪丽热巴",
+      "onboard_time": 1754731343,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234386,
+      "num": 234386,
+      "word": "发作性睡病",
+      "onboard_time": 1754729663,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 230776,
@@ -739,11 +763,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214297,
-      "num": 214297,
-      "word": "荣成车祸致一家1死4伤家属发声",
-      "onboard_time": 1754727262,
-      "rank": 47,
+      "raw_hot": 216675,
+      "num": 216675,
+      "word": "杀害中国籍农场主赞比亚男子已溺亡",
+      "onboard_time": 1754728641,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -843,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200913,
-      "num": 200913,
-      "word": "发作性睡病",
-      "onboard_time": 1754729663,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 199275,
       "num": 211268,
       "word": "张子枫感激向往的生活",
@@ -889,6 +905,14 @@
       "onboard_time": 1754704881,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196330,
+      "num": 196330,
+      "word": "徐明浩音乐节",
+      "onboard_time": 1754731703,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 195676,
@@ -1035,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177157,
+      "num": 177157,
+      "word": "隐性嫉妒",
+      "onboard_time": 1754731343,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176969,
       "num": 176969,
       "word": "继业孩子下个月出生月子中心跑路了",
@@ -1059,12 +1091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173211,
+      "num": 173211,
+      "word": "smtown",
+      "onboard_time": 1754732122,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172995,
       "num": 172995,
       "word": "撒贝宁 时代少年团候补成员",
       "onboard_time": 1754722221,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172942,
+      "num": 172942,
+      "word": "吴彦祖尹子维聚餐爷青回",
+      "onboard_time": 1754731703,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 171865,
@@ -1131,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165779,
+      "num": 165779,
+      "word": "周深 人为什么值得有2个生日",
+      "onboard_time": 1754731583,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165761,
       "num": 126663,
       "word": "ALin彭佳慧不要再吵了",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1754709442,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161889,
-      "num": 161889,
-      "word": "央视独家专访迪丽热巴",
-      "onboard_time": 1754731343,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 160471,
@@ -1228,7 +1276,7 @@
     },
     {
       "raw_hot": 157856,
-      "num": 646757,
+      "num": 702289,
       "word": "吉利星座04组卫星发射成功",
       "onboard_time": 1754699120,
       "rank": 17,
@@ -1241,14 +1289,6 @@
       "onboard_time": 1754725284,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 156319,
-      "num": 210334,
-      "word": "杀害中国籍农场主赞比亚男子已溺亡",
-      "onboard_time": 1754728641,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155799,
@@ -1267,12 +1307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154406,
+      "num": 154406,
+      "word": "浪浪山",
+      "onboard_time": 1754729302,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "王安宇的腿又细又长又直",
       "onboard_time": 1754721862,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150858,
+      "num": 150858,
+      "word": "医院回应禁止规培生进职工餐厅吃饭",
+      "onboard_time": 1754732122,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149381,
@@ -1427,20 +1483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136785,
-      "num": 136785,
-      "word": "浪浪山",
-      "onboard_time": 1754729302,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 135855,
       "num": 135855,
       "word": "原来双皮奶是佛山特产",
       "onboard_time": 1754723901,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135596,
+      "num": 135596,
+      "word": "男子进校捅04年女生十余刀被判14年",
+      "onboard_time": 1754731343,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134689,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1754725882,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128253,
-      "num": 128253,
-      "word": "隐性嫉妒",
-      "onboard_time": 1754731343,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 128206,
@@ -1683,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116648,
-      "num": 116648,
-      "word": "男子进校捅04年女生十余刀被判14年",
-      "onboard_time": 1754731343,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115793,
       "num": 115793,
       "word": "外媒对蔡徐坤的评价",
@@ -1835,12 +1875,20 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 105025,
-      "num": 105025,
-      "word": "周深 人为什么值得有2个生日",
-      "onboard_time": 1754731583,
+      "raw_hot": 105233,
+      "num": 105233,
+      "word": "JDG赛季五连胜",
+      "onboard_time": 1754729602,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105198,
+      "num": 105198,
+      "word": "建议大家少吃隔夜的食物",
+      "onboard_time": 1754731881,
       "rank": 46,
-      "category": "演出"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104749,
@@ -2475,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22442,
+      "num": 127778,
+      "word": "者来女听到陈楚生前四的反应",
+      "onboard_time": 1754731282,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21996,
       "num": 165993,
       "word": "律师称顾客遭骚扰店家有制止义务",
@@ -2505,14 +2561,6 @@
       "onboard_time": 1754686214,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 12951,
-      "num": 122691,
-      "word": "者来女听到陈楚生前四的反应",
-      "onboard_time": 1754731282,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 9124,

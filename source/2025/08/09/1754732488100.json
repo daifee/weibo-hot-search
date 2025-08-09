@@ -1,0 +1,410 @@
+{
+  "runTime": 1754732488100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1281711,
+        "num": 1281711,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 720864,
+        "num": 720864,
+        "word": "一医院禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754728163,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11411,
+        "num": 702289,
+        "word": "吉利星座04组卫星发射成功",
+        "onboard_time": 1754699120,
+        "rank": 2,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 854713,
+        "num": 699485,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691238,
+        "num": 691238,
+        "word": "董璇张维伊官宣",
+        "onboard_time": 1754720063,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524134,
+        "num": 524134,
+        "word": "退休金要有一个额度",
+        "onboard_time": 1754723722,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526887,
+        "num": 523057,
+        "word": "给刘浩存P成185了",
+        "onboard_time": 1754724862,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506591,
+        "num": 506591,
+        "word": "中公教育17000元退款需17年退完",
+        "onboard_time": 1754728883,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410664,
+        "num": 410664,
+        "word": "日本网友被科普日本侵华历史大破防",
+        "onboard_time": 1754721802,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 564044,
+        "num": 387055,
+        "word": "董璇说下一个大事就是有了小小张",
+        "onboard_time": 1754726062,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517452,
+        "num": 332591,
+        "word": "许嵩冯禧手拉手逛街",
+        "onboard_time": 1754721621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481959,
+        "num": 289824,
+        "word": "两女孩店门口喝奶茶被货车压死",
+        "onboard_time": 1754720901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410864,
+        "num": 266414,
+        "word": "尼格买提 不要轻易删除你的朋友",
+        "onboard_time": 1754727502,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242808,
+        "num": 242808,
+        "word": "中国男子在美移民拘留中心上吊身亡",
+        "onboard_time": 1754730623,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242506,
+        "num": 242506,
+        "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
+        "onboard_time": 1754728283,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239265,
+        "num": 239265,
+        "word": "荣成车祸致一家1死4伤家属发声",
+        "onboard_time": 1754727262,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237222,
+        "num": 237222,
+        "word": "央视独家专访迪丽热巴",
+        "onboard_time": 1754731343,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234386,
+        "num": 234386,
+        "word": "发作性睡病",
+        "onboard_time": 1754729663,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220070,
+        "num": 220070,
+        "word": "中医对黄子韬说没事能治",
+        "onboard_time": 1754729963,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216675,
+        "num": 216675,
+        "word": "杀害中国籍农场主赞比亚男子已溺亡",
+        "onboard_time": 1754728641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199292,
+        "num": 199292,
+        "word": "三胞胎坐高铁买挂票不哭不闹",
+        "onboard_time": 1754725942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196330,
+        "num": 196330,
+        "word": "徐明浩音乐节",
+        "onboard_time": 1754731703,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193008,
+        "num": 193008,
+        "word": "突然发现泳池游泳等于全身刷酸",
+        "onboard_time": 1754729543,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177389,
+        "num": 177389,
+        "word": "心动的信号8",
+        "onboard_time": 1754728462,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177157,
+        "num": 177157,
+        "word": "隐性嫉妒",
+        "onboard_time": 1754731343,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173211,
+        "num": 173211,
+        "word": "smtown",
+        "onboard_time": 1754732122,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172942,
+        "num": 172942,
+        "word": "吴彦祖尹子维聚餐爷青回",
+        "onboard_time": 1754731703,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172562,
+        "num": 172562,
+        "word": "小狗未拴绳被碾主人失控捶打司机",
+        "onboard_time": 1754722281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167169,
+        "num": 167169,
+        "word": "王子奇 红舞鞋",
+        "onboard_time": 1754729663,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113530,
+        "num": 166041,
+        "word": "对吴磊手长腿长有了实感",
+        "onboard_time": 1754731524,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165779,
+        "num": 165779,
+        "word": "周深 人为什么值得有2个生日",
+        "onboard_time": 1754731583,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158174,
+        "num": 158174,
+        "word": "44岁网红包公去世",
+        "onboard_time": 1754728042,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154406,
+        "num": 154406,
+        "word": "浪浪山",
+        "onboard_time": 1754729302,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152825,
+        "num": 152825,
+        "word": "指示牌China写成Ching",
+        "onboard_time": 1754711902,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150858,
+        "num": 150858,
+        "word": "医院回应禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754732122,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141515,
+        "num": 141515,
+        "word": "TF四代Lucifer刀群舞",
+        "onboard_time": 1754730382,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141048,
+        "num": 141048,
+        "word": "十日终焉",
+        "onboard_time": 1754719762,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135596,
+        "num": 135596,
+        "word": "男子进校捅04年女生十余刀被判14年",
+        "onboard_time": 1754731343,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130190,
+        "num": 130190,
+        "word": "TF四代Monday",
+        "onboard_time": 1754731043,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22442,
+        "num": 127778,
+        "word": "者来女听到陈楚生前四的反应",
+        "onboard_time": 1754731282,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126375,
+        "num": 126375,
+        "word": "日本大学生就业率大幅下降",
+        "onboard_time": 1754725284,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125683,
+        "num": 125683,
+        "word": "东极岛",
+        "onboard_time": 1754726361,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122443,
+        "num": 122443,
+        "word": "王橹杰脸链",
+        "onboard_time": 1754727985,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121248,
+        "num": 121248,
+        "word": "时代少年团 抢票",
+        "onboard_time": 1754719883,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116806,
+        "num": 116806,
+        "word": "女子回家发现1米长眼镜蛇跳窗逃生",
+        "onboard_time": 1754730985,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105233,
+        "num": 105233,
+        "word": "JDG赛季五连胜",
+        "onboard_time": 1754729602,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105198,
+        "num": 105198,
+        "word": "建议大家少吃隔夜的食物",
+        "onboard_time": 1754731881,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104216,
+        "num": 104216,
+        "word": "王源演唱会送玫瑰花",
+        "onboard_time": 1754729842,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96550,
+        "num": 96550,
+        "word": "女子疑在八一南昌起义纪念塔跳辣舞",
+        "onboard_time": 1754726901,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87023,
+        "num": 95771,
+        "word": "嘟嘟逼人的孙颖莎",
+        "onboard_time": 1754728343,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京通电话#"
+    }
+  }
+}
