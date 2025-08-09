@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754729240000,
+  "endTime": 1754731661207,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1310741,
+      "num": 1310741,
+      "word": "全红婵练瘦了",
+      "onboard_time": 1754729181,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1228769,
       "num": 617959,
       "word": "那英含金量",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1156674,
-      "num": 371305,
+      "num": 435814,
       "word": "两女孩店门口喝奶茶被货车压死",
       "onboard_time": 1754720901,
       "rank": 11,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1021315,
-      "num": 568395,
+      "num": 641153,
       "word": "昆凌把周杰伦裁掉了",
       "onboard_time": 1754723241,
       "rank": 7,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 827514,
-      "num": 437561,
+      "num": 516368,
       "word": "董璇说下一个大事就是有了小小张",
       "onboard_time": 1754726062,
       "rank": 6,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 685968,
-      "num": 393139,
+      "num": 508727,
       "word": "给刘浩存P成185了",
       "onboard_time": 1754724862,
       "rank": 41,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 671018,
-      "num": 545261,
+      "num": 594457,
       "word": "退休金要有一个额度",
       "onboard_time": 1754723722,
       "rank": 30,
@@ -363,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521869,
+      "num": 521869,
+      "word": "一医院禁止规培生进职工餐厅吃饭",
+      "onboard_time": 1754728163,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520097,
       "num": 171460,
       "word": "李佳薇哭死我了",
       "onboard_time": 1754663786,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486195,
+      "num": 486195,
+      "word": "中公教育17000元退款需17年退完",
+      "onboard_time": 1754728883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464241,
@@ -424,6 +448,14 @@
       "word": "耳帝",
       "onboard_time": 1754669603,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 399912,
+      "num": 399912,
+      "word": "尼格买提 不要轻易删除你的朋友",
+      "onboard_time": 1754727502,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290477,
+      "num": 290477,
+      "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
+      "onboard_time": 1754728283,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287490,
       "num": 287490,
       "word": "社保",
@@ -595,6 +635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269992,
+      "num": 269992,
+      "word": "中国男子在美移民拘留中心上吊身亡",
+      "onboard_time": 1754730623,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 245390,
+      "num": 245390,
+      "word": "中医对黄子韬说没事能治",
+      "onboard_time": 1754729963,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241559,
       "num": 241559,
       "word": "小咘芽拒绝谢娜画饼",
@@ -611,19 +667,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232109,
-      "num": 210160,
-      "word": "尼格买提 不要轻易删除你的朋友",
-      "onboard_time": 1754727502,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "国内酒店入住时间怎么定的",
       "onboard_time": 1754699000,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229549,
+      "num": 208768,
+      "word": "三胞胎坐高铁买挂票不哭不闹",
+      "onboard_time": 1754725942,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -683,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214297,
+      "num": 214297,
+      "word": "荣成车祸致一家1死4伤家属发声",
+      "onboard_time": 1754727262,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213998,
       "num": 213998,
       "word": "赵露思说解约并无进展",
@@ -697,14 +761,6 @@
       "onboard_time": 1754717602,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211511,
-      "num": 159695,
-      "word": "三胞胎坐高铁买挂票不哭不闹",
-      "onboard_time": 1754725942,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210357,
@@ -747,6 +803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206690,
+      "num": 206690,
+      "word": "突然发现泳池游泳等于全身刷酸",
+      "onboard_time": 1754729543,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204941,
       "num": 204941,
       "word": "中国女子坠入日本东京大学烟囱死亡",
@@ -779,12 +843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200913,
+      "num": 200913,
+      "word": "发作性睡病",
+      "onboard_time": 1754729663,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199275,
       "num": 211268,
       "word": "张子枫感激向往的生活",
       "onboard_time": 1754709740,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199005,
+      "num": 199005,
+      "word": "TF四代Monday",
+      "onboard_time": 1754731043,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 197589,
@@ -801,14 +881,6 @@
       "onboard_time": 1754713643,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197343,
-      "num": 133405,
-      "word": "梓渝姚琛阿云嘎蝴蝶大衣撞衫",
-      "onboard_time": 1754728283,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 196806,
@@ -859,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193342,
+      "num": 193342,
+      "word": "心动的信号8",
+      "onboard_time": 1754728462,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192996,
       "num": 192996,
       "word": "桂恒",
@@ -873,14 +953,6 @@
       "onboard_time": 1754709141,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190476,
-      "num": 132881,
-      "word": "心动的信号8",
-      "onboard_time": 1754728462,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 189487,
@@ -995,6 +1067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171865,
+      "num": 165988,
+      "word": "TF四代Lucifer刀群舞",
+      "onboard_time": 1754730382,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171641,
+      "num": 171641,
+      "word": "王子奇 红舞鞋",
+      "onboard_time": 1754729663,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170796,
       "num": 170796,
       "word": "陈楚生把芒果台的冠军拿齐了",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1754706982,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168234,
+      "num": 168234,
+      "word": "44岁网红包公去世",
+      "onboard_time": 1754728042,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 167352,
@@ -1065,6 +1161,14 @@
       "onboard_time": 1754709442,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161889,
+      "num": 161889,
+      "word": "央视独家专访迪丽热巴",
+      "onboard_time": 1754731343,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 160471,
@@ -1124,7 +1228,7 @@
     },
     {
       "raw_hot": 157856,
-      "num": 577925,
+      "num": 646757,
       "word": "吉利星座04组卫星发射成功",
       "onboard_time": 1754699120,
       "rank": 17,
@@ -1137,6 +1241,14 @@
       "onboard_time": 1754725284,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156319,
+      "num": 210334,
+      "word": "杀害中国籍农场主赞比亚男子已溺亡",
+      "onboard_time": 1754728641,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155799,
@@ -1227,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142159,
+      "num": 166088,
+      "word": "对吴磊手长腿长有了实感",
+      "onboard_time": 1754731524,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142157,
       "num": 142157,
       "word": "延伸台",
@@ -1275,22 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141714,
-      "num": 131199,
-      "word": "44岁网红包公去世",
-      "onboard_time": 1754728042,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 140638,
-      "num": 140638,
-      "word": "一医院禁止规培生进职工餐厅吃饭",
-      "onboard_time": 1754728163,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139785,
       "num": 150355,
       "word": "爱出门的人能量很高",
@@ -1323,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136785,
+      "num": 136785,
+      "word": "浪浪山",
+      "onboard_time": 1754729302,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135855,
       "num": 135855,
       "word": "原来双皮奶是佛山特产",
@@ -1331,12 +1443,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134182,
-      "num": 134182,
-      "word": "中公教育17000元退款需17年退完",
-      "onboard_time": 1754728883,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 134689,
+      "num": 134689,
+      "word": "王源演唱会送玫瑰花",
+      "onboard_time": 1754729842,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 133817,
@@ -1393,6 +1505,14 @@
       "onboard_time": 1754725882,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128253,
+      "num": 128253,
+      "word": "隐性嫉妒",
+      "onboard_time": 1754731343,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 128206,
@@ -1555,6 +1675,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117127,
+      "num": 117127,
+      "word": "女子回家发现1米长眼镜蛇跳窗逃生",
+      "onboard_time": 1754730985,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116648,
+      "num": 116648,
+      "word": "男子进校捅04年女生十余刀被判14年",
+      "onboard_time": 1754731343,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115793,
       "num": 115793,
       "word": "外媒对蔡徐坤的评价",
@@ -1699,6 +1835,30 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 105025,
+      "num": 105025,
+      "word": "周深 人为什么值得有2个生日",
+      "onboard_time": 1754731583,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 104749,
+      "num": 104749,
+      "word": "全红婵分享训练合照",
+      "onboard_time": 1754730443,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104528,
+      "num": 104528,
+      "word": "过紧日子要防止执行走样",
+      "onboard_time": 1754731524,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104383,
       "num": 104383,
       "word": "猫 你再咻一下试试呢",
@@ -1753,14 +1913,6 @@
       "onboard_time": 1754724263,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102198,
-      "num": 102198,
-      "word": "荣成车祸致一家1死4伤家属发声",
-      "onboard_time": 1754727262,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101689,
@@ -1865,14 +2017,6 @@
       "onboard_time": 1754670801,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95309,
-      "num": 95309,
-      "word": "全红婵练瘦了",
-      "onboard_time": 1754729181,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 91898,
@@ -2331,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21996,
+      "num": 165993,
+      "word": "律师称顾客遭骚扰店家有制止义务",
+      "onboard_time": 1754730143,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21012,
       "num": 27602,
       "word": "奇遇",
@@ -2353,6 +2505,14 @@
       "onboard_time": 1754686214,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12951,
+      "num": 122691,
+      "word": "者来女听到陈楚生前四的反应",
+      "onboard_time": 1754731282,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 9124,
