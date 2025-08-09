@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754718292697,
+  "endTime": 1754721493597,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -17,6 +17,14 @@
       "onboard_time": 1754659884,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2040725,
+      "num": 363015,
+      "word": "成龙自曝与邓丽君分手原因",
+      "onboard_time": 1754718262,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1619918,
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 985907,
+      "num": 1157745,
+      "word": "董璇张维伊想生二胎",
+      "onboard_time": 1754717182,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 862320,
       "num": 355770,
       "word": "麦琳88斤了",
       "onboard_time": 1754664746,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 861489,
+      "num": 349668,
+      "word": "两女孩店门口喝奶茶被货车压死",
+      "onboard_time": 1754720901,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 790369,
@@ -147,11 +171,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 675261,
-      "num": 520092,
-      "word": "董璇张维伊想生二胎",
-      "onboard_time": 1754717182,
-      "rank": 42,
+      "raw_hot": 679806,
+      "num": 417827,
+      "word": "董璇张维伊官宣",
+      "onboard_time": 1754720063,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -195,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629239,
+      "num": 322679,
+      "word": "韩安冉回应代孕",
+      "onboard_time": 1754717962,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614031,
       "num": 429261,
       "word": "李沁花儿与少年官宣海报",
@@ -219,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 545968,
-      "num": 280886,
-      "word": "成龙自曝与邓丽君分手原因",
-      "onboard_time": 1754718262,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 557062,
+      "num": 407281,
+      "word": "时代少年团 抢票",
+      "onboard_time": 1754719883,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 537361,
@@ -243,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522494,
+      "num": 522494,
+      "word": "十日终焉",
+      "onboard_time": 1754719762,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 520097,
       "num": 171460,
       "word": "李佳薇哭死我了",
       "onboard_time": 1754663786,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504126,
+      "num": 299362,
+      "word": "梓渝首本杂志销售额登顶",
+      "onboard_time": 1754719822,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 464241,
@@ -289,6 +337,14 @@
       "onboard_time": 1754665773,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426077,
+      "num": 426077,
+      "word": "养了30年乌龟被人抱走了主人求别杀",
+      "onboard_time": 1754718023,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 414592,
@@ -435,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290985,
-      "num": 247471,
-      "word": "韩安冉回应代孕",
-      "onboard_time": 1754717962,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287490,
       "num": 287490,
       "word": "社保",
@@ -451,12 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240160,
-      "num": 240160,
+      "raw_hot": 285246,
+      "num": 285246,
       "word": "秀才直播催中老年粉丝刷礼物",
       "onboard_time": 1754715802,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 279381,
+      "num": 279381,
+      "word": "林诗栋王曼昱爆冷出局",
+      "onboard_time": 1754717662,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 239210,
@@ -619,6 +675,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193609,
+      "num": 193609,
+      "word": "杨博文 心动是看到片片粉色",
+      "onboard_time": 1754721082,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192667,
+      "num": 192667,
+      "word": "书卷一梦",
+      "onboard_time": 1754721143,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192612,
       "num": 192612,
       "word": "百花杀首发剧照",
@@ -659,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179897,
+      "num": 179897,
+      "word": "王力宏单手徒手摘隐形眼镜",
+      "onboard_time": 1754720304,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177751,
       "num": 177751,
       "word": "歌手",
@@ -681,6 +761,14 @@
       "onboard_time": 1754697139,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172947,
+      "num": 172947,
+      "word": "四代公演直播",
+      "onboard_time": 1754721024,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 169126,
@@ -771,6 +859,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 156054,
+      "num": 143267,
+      "word": "陈楚生把芒果台的冠军拿齐了",
+      "onboard_time": 1754717060,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155799,
       "num": 124313,
       "word": "李溪芮变化",
@@ -819,14 +915,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 146525,
-      "num": 146525,
-      "word": "林诗栋王曼昱爆冷出局",
-      "onboard_time": 1754717662,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144881,
       "num": 144881,
       "word": "利剑玫瑰收视率",
@@ -867,6 +955,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 141904,
+      "num": 141904,
+      "word": "张晚意出国旅行就带一块香皂",
+      "onboard_time": 1754717662,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141854,
       "num": 141854,
       "word": "巴基斯坦称列装中国造攻击直升机",
@@ -883,20 +979,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140451,
-      "num": 140451,
-      "word": "陈楚生把芒果台的冠军拿齐了",
-      "onboard_time": 1754717060,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139785,
       "num": 150355,
       "word": "爱出门的人能量很高",
       "onboard_time": 1754669482,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138253,
+      "num": 138253,
+      "word": "网红顾茜茜疑似将回归直播",
+      "onboard_time": 1754720782,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 132584,
@@ -913,6 +1009,14 @@
       "onboard_time": 1754710701,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130819,
+      "num": 130819,
+      "word": "中国游客为抢拍最佳位置情绪失控",
+      "onboard_time": 1754719283,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130630,
@@ -1011,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121968,
-      "num": 121968,
-      "word": "张晚意出国旅行就带一块香皂",
-      "onboard_time": 1754717662,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121903,
       "num": 121903,
       "word": "马天宇发文为王菲庆生",
@@ -1035,12 +1131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120382,
-      "num": 120382,
-      "word": "养了30年乌龟被人抱走了主人求别杀",
-      "onboard_time": 1754718023,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 120645,
+      "num": 120645,
+      "word": "为什么说女性要多做力量训练",
+      "onboard_time": 1754721143,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 119614,
@@ -1155,12 +1251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109004,
+      "num": 109004,
+      "word": "张函瑞饭撒",
+      "onboard_time": 1754721442,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108225,
       "num": 108225,
       "word": "AL扣除Shanks工资",
       "onboard_time": 1754695277,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107836,
+      "num": 107836,
+      "word": "陈浚铭自我介绍",
+      "onboard_time": 1754721442,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 106952,
@@ -1195,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104049,
+      "num": 104049,
+      "word": "被拘期间病妻溺亡男子起诉公安局",
+      "onboard_time": 1754719642,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103395,
       "num": 103395,
       "word": "南京照相馆票房破20亿",
@@ -1211,8 +1331,16 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 101448,
+      "num": 101448,
+      "word": "57岁女子手麻以为颈椎病确诊渐冻症",
+      "onboard_time": 1754720421,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101142,
-      "num": 101142,
+      "num": 186903,
       "word": "特朗普透露俄乌将交换领土",
       "onboard_time": 1754717241,
       "rank": 46,
@@ -1225,6 +1353,14 @@
       "onboard_time": 1754651361,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99101,
+      "num": 99101,
+      "word": "谁家CEO对公司千万亏空一无所知",
+      "onboard_time": 1754720063,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 99085,
@@ -1497,6 +1633,14 @@
       "onboard_time": 1754695277,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44201,
+      "num": 192950,
+      "word": "找到我和时团的共同点了",
+      "onboard_time": 1754719402,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 41109,
