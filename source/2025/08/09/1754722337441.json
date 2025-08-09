@@ -1,0 +1,410 @@
+{
+  "runTime": 1754722337441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1329918,
+        "num": 1329918,
+        "word": "董璇张维伊官宣",
+        "onboard_time": 1754720063,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646368,
+        "num": 646368,
+        "word": "十日终焉",
+        "onboard_time": 1754719762,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 30506,
+        "num": 615918,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607235,
+        "num": 607235,
+        "word": "指示牌China写成Ching",
+        "onboard_time": 1754711902,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600923,
+        "num": 600923,
+        "word": "养了30年乌龟被人抱走了主人求别杀",
+        "onboard_time": 1754718023,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824232,
+        "num": 584018,
+        "word": "董璇张维伊想生二胎",
+        "onboard_time": 1754717182,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561695,
+        "num": 561695,
+        "word": "许嵩冯禧手拉手逛街",
+        "onboard_time": 1754721621,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517606,
+        "num": 517606,
+        "word": "时代少年团 抢票",
+        "onboard_time": 1754719883,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 402918,
+        "num": 402918,
+        "word": "冰川融化现沉睡28年尸体",
+        "onboard_time": 1754701160,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375163,
+        "num": 375163,
+        "word": "婚内强奸案男方因一段录音疑妻出轨",
+        "onboard_time": 1754715562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085508,
+        "num": 371305,
+        "word": "两女孩店门口喝奶茶被货车压死",
+        "onboard_time": 1754720901,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555326,
+        "num": 364503,
+        "word": "韩安冉回应代孕",
+        "onboard_time": 1754717962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549567,
+        "num": 362453,
+        "word": "梓渝首本杂志销售额登顶",
+        "onboard_time": 1754719822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353385,
+        "num": 353385,
+        "word": "孟子义瘦到了90斤以下",
+        "onboard_time": 1754712381,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111570,
+        "num": 301988,
+        "word": "特朗普透露俄乌将交换领土",
+        "onboard_time": 1754717241,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280201,
+        "num": 280201,
+        "word": "秀才直播催中老年粉丝刷礼物",
+        "onboard_time": 1754715802,
+        "rank": 15,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 275166,
+        "num": 275166,
+        "word": "林诗栋王曼昱爆冷出局",
+        "onboard_time": 1754717662,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260796,
+        "num": 260796,
+        "word": "日本网友被科普日本侵华历史大破防",
+        "onboard_time": 1754721802,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247418,
+        "num": 247418,
+        "word": "李沁花儿与少年官宣海报",
+        "onboard_time": 1754711902,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35907,
+        "num": 228658,
+        "word": "找到我和时团的共同点了",
+        "onboard_time": 1754719402,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 968486,
+        "num": 220438,
+        "word": "成龙自曝与邓丽君分手原因",
+        "onboard_time": 1754718262,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210357,
+        "num": 210357,
+        "word": "书卷一梦",
+        "onboard_time": 1754721143,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209052,
+        "num": 209052,
+        "word": "杨博文 心动是看到片片粉色",
+        "onboard_time": 1754721082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197589,
+        "num": 197589,
+        "word": "张函瑞饭撒",
+        "onboard_time": 1754721442,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195676,
+        "num": 195676,
+        "word": "四代公演直播",
+        "onboard_time": 1754721024,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194811,
+        "num": 194811,
+        "word": "张维伊给去世父亲交话费",
+        "onboard_time": 1754714781,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194432,
+        "num": 194432,
+        "word": "陈浚铭自我介绍",
+        "onboard_time": 1754721442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177857,
+        "num": 177857,
+        "word": "王力宏单手徒手摘隐形眼镜",
+        "onboard_time": 1754720304,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176969,
+        "num": 176969,
+        "word": "继业孩子下个月出生月子中心跑路了",
+        "onboard_time": 1754721923,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171368,
+        "num": 171368,
+        "word": "小咘芽拒绝谢娜画饼",
+        "onboard_time": 1754722221,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170796,
+        "num": 170796,
+        "word": "陈楚生把芒果台的冠军拿齐了",
+        "onboard_time": 1754717060,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155658,
+        "num": 155658,
+        "word": "张曼玉优衣库",
+        "onboard_time": 1754714662,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151838,
+        "num": 151838,
+        "word": "普京10年来首次赴美",
+        "onboard_time": 1754712742,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144053,
+        "num": 144053,
+        "word": "我再也不翻马桶坐垫了",
+        "onboard_time": 1754707402,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138014,
+        "num": 142211,
+        "word": "中国游客为抢拍最佳位置情绪失控",
+        "onboard_time": 1754719283,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145822,
+        "num": 142186,
+        "word": "陈楚生 我也希望我是皇",
+        "onboard_time": 1754705000,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142141,
+        "num": 142141,
+        "word": "网红顾茜茜疑似将回归直播",
+        "onboard_time": 1754720782,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70422,
+        "num": 141616,
+        "word": "张晚意 我是个P",
+        "onboard_time": 1754721742,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138631,
+        "num": 141499,
+        "word": "万千惠70名员工每人每天餐补80",
+        "onboard_time": 1754722221,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71292,
+        "num": 141496,
+        "word": "加沙人抢食物被烫却什么都拿不到",
+        "onboard_time": 1754722281,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141496,
+        "num": 141495,
+        "word": "撒贝宁 时代少年团候补成员",
+        "onboard_time": 1754722221,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140360,
+        "num": 140360,
+        "word": "张晚意出国旅行就带一块香皂",
+        "onboard_time": 1754717662,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135052,
+        "num": 135052,
+        "word": "小狗未拴绳被碾主人失控捶打司机",
+        "onboard_time": 1754722281,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133817,
+        "num": 133817,
+        "word": "TOP初舞台第二",
+        "onboard_time": 1754722221,
+        "rank": 43,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 118191,
+        "num": 118191,
+        "word": "王安宇的腿又细又长又直",
+        "onboard_time": 1754721862,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130284,
+        "num": 117987,
+        "word": "赵露思说半只脚跨出行业了",
+        "onboard_time": 1754711240,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115796,
+        "num": 115796,
+        "word": "为什么说女性要多做力量训练",
+        "onboard_time": 1754721143,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 112837,
+        "num": 112837,
+        "word": "美俄秘密停战协议细节曝光",
+        "onboard_time": 1754721923,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105068,
+        "num": 105068,
+        "word": "原来这样洗衣服越洗越臭",
+        "onboard_time": 1754722163,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 103874,
+        "num": 103874,
+        "word": "57岁女子手麻以为颈椎病确诊渐冻症",
+        "onboard_time": 1754720421,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京通电话#"
+    }
+  }
+}
