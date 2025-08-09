@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754722337441,
+  "endTime": 1754724321679,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -699,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1453135,
+      "num": 1453135,
+      "word": "董璇张维伊官宣",
+      "onboard_time": 1754720063,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1440178,
       "num": 1440178,
       "word": "不二之臣",
@@ -729,6 +737,14 @@
       "onboard_time": 1754383286,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1392658,
+      "num": 618790,
+      "word": "许嵩冯禧手拉手逛街",
+      "onboard_time": 1754721621,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1383194,
@@ -825,14 +841,6 @@
       "onboard_time": 1754527462,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1329918,
-      "num": 1329918,
-      "word": "董璇张维伊官宣",
-      "onboard_time": 1754720063,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1322428,
@@ -1091,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1156674,
+      "num": 371305,
+      "word": "两女孩店门口喝奶茶被货车压死",
+      "onboard_time": 1754720901,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1153458,
       "num": 1184553,
       "word": "张维伊给去世父亲交话费",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1754303842,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1085508,
-      "num": 371305,
-      "word": "两女孩店门口喝奶茶被货车压死",
-      "onboard_time": 1754720901,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1082783,
@@ -2635,6 +2643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 618594,
+      "num": 618594,
+      "word": "日本网友被科普日本侵华历史大破防",
+      "onboard_time": 1754721802,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 616525,
       "num": 616525,
       "word": "名创优品 时代少年团",
@@ -3145,14 +3161,6 @@
       "onboard_time": 1754478024,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 561695,
-      "num": 561695,
-      "word": "许嵩冯禧手拉手逛街",
-      "onboard_time": 1754721621,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 561691,
@@ -4123,6 +4131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 418808,
+      "num": 418808,
+      "word": "昆凌把周杰伦裁掉了",
+      "onboard_time": 1754723241,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418108,
       "num": 253302,
       "word": "管乐回应和小酒窝长得像",
@@ -4216,6 +4232,14 @@
       "word": "王源直播",
       "onboard_time": 1754225904,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 408467,
+      "num": 334999,
+      "word": "赵露思保镖 跟着赵姐特别好",
+      "onboard_time": 1754723362,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -5547,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300202,
+      "num": 300202,
+      "word": "王楚钦光速挺进八强",
+      "onboard_time": 1754723241,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300119,
       "num": 300119,
       "word": "中国佛教协会就释永信被查发声",
@@ -5891,6 +5923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276466,
+      "num": 276466,
+      "word": "人民日报对话朱一龙",
+      "onboard_time": 1754723122,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275981,
       "num": 275981,
       "word": "黄奕直播",
@@ -6185,14 +6225,6 @@
       "onboard_time": 1754193087,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260796,
-      "num": 260796,
-      "word": "日本网友被科普日本侵华历史大破防",
-      "onboard_time": 1754721802,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 259801,
@@ -6611,6 +6643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241559,
+      "num": 241559,
+      "word": "小咘芽拒绝谢娜画饼",
+      "onboard_time": 1754722221,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240812,
       "num": 240812,
       "word": "广东一地错发30万补贴公告追回",
@@ -7009,6 +7049,14 @@
       "onboard_time": 1754709382,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226277,
+      "num": 226277,
+      "word": "原来这样洗衣服越洗越臭",
+      "onboard_time": 1754722163,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 225653,
@@ -7955,6 +8003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201669,
+      "num": 201669,
+      "word": "娱乐圈和网红圈搞上人才输送了",
+      "onboard_time": 1754723183,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201666,
       "num": 239196,
       "word": "陈都灵额头受伤",
@@ -8571,6 +8627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192996,
+      "num": 192996,
+      "word": "桂恒",
+      "onboard_time": 1754723603,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192801,
       "num": 192801,
       "word": "这届年轻人得了亏毛焦虑症",
@@ -8689,6 +8753,14 @@
       "onboard_time": 1754493984,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190670,
+      "num": 190670,
+      "word": "风度",
+      "onboard_time": 1754723302,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190523,
@@ -9811,6 +9883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172995,
+      "num": 172995,
+      "word": "撒贝宁 时代少年团候补成员",
+      "onboard_time": 1754722221,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172974,
       "num": 172974,
       "word": "向佐和丁真站一块都清新了",
@@ -9921,14 +10001,6 @@
       "onboard_time": 1754191583,
       "rank": 35,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 171368,
-      "num": 171368,
-      "word": "小咘芽拒绝谢娜画饼",
-      "onboard_time": 1754722221,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 171243,
@@ -10739,6 +10811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160471,
+      "num": 160471,
+      "word": "道诡异仙这次真的不跳票",
+      "onboard_time": 1754723722,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 160363,
       "num": 160363,
       "word": "凭自己月入过万是什么体验",
@@ -10987,6 +11067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "退休金要有一个额度",
+      "onboard_time": 1754723722,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156651,
       "num": 176884,
       "word": "什么剧女主竟然与11个男人雄竞",
@@ -11219,6 +11307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 154326,
+      "num": 154326,
+      "word": "陈奕恒公演",
+      "onboard_time": 1754724202,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154308,
       "num": 222241,
       "word": "披荆斩棘5首发阵容",
@@ -11441,6 +11537,14 @@
       "onboard_time": 1754464044,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152334,
+      "num": 152334,
+      "word": "王安宇的腿又细又长又直",
+      "onboard_time": 1754721862,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 152295,
@@ -12683,14 +12787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141496,
-      "num": 141495,
-      "word": "撒贝宁 时代少年团候补成员",
-      "onboard_time": 1754722221,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141459,
       "num": 141458,
       "word": "中国男篮vs印度男篮",
@@ -12825,6 +12921,14 @@
       "onboard_time": 1754383106,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140047,
+      "num": 140047,
+      "word": "贾玲就该过这样的生活",
+      "onboard_time": 1754723841,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 140029,
@@ -13065,6 +13169,14 @@
       "onboard_time": 1754306062,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138302,
+      "num": 138302,
+      "word": "龚俊打麻药说胡话",
+      "onboard_time": 1754722702,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 138224,
@@ -13395,6 +13507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135765,
+      "num": 135765,
+      "word": "小狗未拴绳被碾主人失控捶打司机",
+      "onboard_time": 1754722281,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135522,
       "num": 135522,
       "word": "不要对选手私生活过分好奇",
@@ -13441,14 +13561,6 @@
       "onboard_time": 1754313203,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135052,
-      "num": 135052,
-      "word": "小狗未拴绳被碾主人失控捶打司机",
-      "onboard_time": 1754722281,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134999,
@@ -13873,6 +13985,14 @@
       "onboard_time": 1754463263,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 131830,
+      "num": 131830,
+      "word": "原来双皮奶是佛山特产",
+      "onboard_time": 1754723901,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 131796,
@@ -15099,6 +15219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123044,
+      "num": 123044,
+      "word": "巴奴央视回应与海底捞竞争",
+      "onboard_time": 1754723302,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122937,
       "num": 122937,
       "word": "大同地震",
@@ -15217,6 +15345,14 @@
       "onboard_time": 1754578103,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122205,
+      "num": 122205,
+      "word": "杨幂这个侧颜太高级了",
+      "onboard_time": 1754723603,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 122166,
@@ -15843,14 +15979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118191,
-      "num": 118191,
-      "word": "王安宇的腿又细又长又直",
-      "onboard_time": 1754721862,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118148,
       "num": 118148,
       "word": "易烊千玺唱着Fly就飞起来了",
@@ -16449,6 +16577,14 @@
       "onboard_time": 1754704941,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112853,
+      "num": 351754,
+      "word": "现实版南京照相馆还在境外上演",
+      "onboard_time": 1754723421,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112837,
@@ -17187,14 +17323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105068,
-      "num": 105068,
-      "word": "原来这样洗衣服越洗越臭",
-      "onboard_time": 1754722163,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 105014,
       "num": 105014,
       "word": "汪顺回应男子混接无缘决赛",
@@ -17857,6 +17985,14 @@
       "onboard_time": 1754526143,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98008,
+      "num": 98008,
+      "word": "谷围南亭一看就是请高人了",
+      "onboard_time": 1754724263,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 97870,
@@ -19169,6 +19305,14 @@
       "onboard_time": 1754259495,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81815,
+      "num": 122197,
+      "word": "朱一龙戏抛脸演技",
+      "onboard_time": 1754724263,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 81741,
@@ -20635,6 +20779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 53520,
+      "num": 125838,
+      "word": "旭旭宝宝谈蓝战非",
+      "onboard_time": 1754724082,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 53502,
       "num": 265086,
       "word": "刘亦菲讲述蜕变与新生",
@@ -21001,6 +21153,14 @@
       "onboard_time": 1754326100,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46165,
+      "num": 254882,
+      "word": "单依纯星空眼妆教程来了",
+      "onboard_time": 1754723302,
+      "rank": 19,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 46109,

@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754722337441,
+  "endTime": 1754724321679,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -43,12 +43,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1329918,
-      "num": 1329918,
+      "raw_hot": 1453135,
+      "num": 1453135,
       "word": "董璇张维伊官宣",
       "onboard_time": 1754720063,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1392658,
+      "num": 618790,
+      "word": "许嵩冯禧手拉手逛街",
+      "onboard_time": 1754721621,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1228769,
@@ -67,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1156674,
+      "num": 371305,
+      "word": "两女孩店门口喝奶茶被货车压死",
+      "onboard_time": 1754720901,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1153458,
       "num": 1184553,
       "word": "张维伊给去世父亲交话费",
@@ -81,14 +97,6 @@
       "onboard_time": 1754700560,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1085508,
-      "num": 371305,
-      "word": "两女孩店门口喝奶茶被货车压死",
-      "onboard_time": 1754720901,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1045750,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618594,
+      "num": 618594,
+      "word": "日本网友被科普日本侵华历史大破防",
+      "onboard_time": 1754721802,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 614031,
       "num": 429261,
       "word": "李沁花儿与少年官宣海报",
@@ -265,14 +281,6 @@
       "onboard_time": 1754715562,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 561695,
-      "num": 561695,
-      "word": "许嵩冯禧手拉手逛街",
-      "onboard_time": 1754721621,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 557062,
@@ -355,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418808,
+      "num": 418808,
+      "word": "昆凌把周杰伦裁掉了",
+      "onboard_time": 1754723241,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414592,
       "num": 414592,
       "word": "普京10年来首次赴美",
       "onboard_time": 1754712742,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 408467,
+      "num": 334999,
+      "word": "赵露思保镖 跟着赵姐特别好",
+      "onboard_time": 1754723362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 406920,
@@ -499,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300202,
+      "num": 300202,
+      "word": "王楚钦光速挺进八强",
+      "onboard_time": 1754723241,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287490,
       "num": 287490,
       "word": "社保",
@@ -523,12 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260796,
-      "num": 260796,
-      "word": "日本网友被科普日本侵华历史大破防",
-      "onboard_time": 1754721802,
+      "raw_hot": 276466,
+      "num": 276466,
+      "word": "人民日报对话朱一龙",
+      "onboard_time": 1754723122,
       "rank": 17,
-      "category": "国际时政"
+      "category": "电影"
+    },
+    {
+      "raw_hot": 241559,
+      "num": 241559,
+      "word": "小咘芽拒绝谢娜画饼",
+      "onboard_time": 1754722221,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 239210,
@@ -561,6 +601,14 @@
       "onboard_time": 1754709382,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226277,
+      "num": 226277,
+      "word": "原来这样洗衣服越洗越臭",
+      "onboard_time": 1754722163,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 223113,
@@ -659,6 +707,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 201669,
+      "num": 201669,
+      "word": "娱乐圈和网红圈搞上人才输送了",
+      "onboard_time": 1754723183,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199275,
       "num": 211268,
       "word": "张子枫感激向往的生活",
@@ -731,12 +787,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192996,
+      "num": 192996,
+      "word": "桂恒",
+      "onboard_time": 1754723603,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192612,
       "num": 192612,
       "word": "百花杀首发剧照",
       "onboard_time": 1754709141,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190670,
+      "num": 190670,
+      "word": "风度",
+      "onboard_time": 1754723302,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189487,
@@ -811,11 +883,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171368,
-      "num": 171368,
-      "word": "小咘芽拒绝谢娜画饼",
+      "raw_hot": 172995,
+      "num": 172995,
+      "word": "撒贝宁 时代少年团候补成员",
       "onboard_time": 1754722221,
-      "rank": 29,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -883,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160471,
+      "num": 160471,
+      "word": "道诡异仙这次真的不跳票",
+      "onboard_time": 1754723722,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 159258,
       "num": 159258,
       "word": "老人正常死亡女子称是凶宅诉退房",
@@ -915,6 +995,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "退休金要有一个额度",
+      "onboard_time": 1754723722,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155799,
       "num": 124313,
       "word": "李溪芮变化",
@@ -929,6 +1017,22 @@
       "onboard_time": 1754715441,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154326,
+      "num": 154326,
+      "word": "陈奕恒公演",
+      "onboard_time": 1754724202,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 152334,
+      "num": 152334,
+      "word": "王安宇的腿又细又长又直",
+      "onboard_time": 1754721862,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 149381,
@@ -1035,12 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141496,
-      "num": 141495,
-      "word": "撒贝宁 时代少年团候补成员",
-      "onboard_time": 1754722221,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 140047,
+      "num": 140047,
+      "word": "贾玲就该过这样的生活",
+      "onboard_time": 1754723841,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 139785,
@@ -1059,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138302,
+      "num": 138302,
+      "word": "龚俊打麻药说胡话",
+      "onboard_time": 1754722702,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138014,
       "num": 142211,
       "word": "中国游客为抢拍最佳位置情绪失控",
@@ -1067,8 +1179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135052,
-      "num": 135052,
+      "raw_hot": 135765,
+      "num": 135765,
       "word": "小狗未拴绳被碾主人失控捶打司机",
       "onboard_time": 1754722281,
       "rank": 42,
@@ -1097,6 +1209,14 @@
       "onboard_time": 1754710701,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131830,
+      "num": 131830,
+      "word": "原来双皮奶是佛山特产",
+      "onboard_time": 1754723901,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 130630,
@@ -1179,12 +1299,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123044,
+      "num": 123044,
+      "word": "巴奴央视回应与海底捞竞争",
+      "onboard_time": 1754723302,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122930,
       "num": 119720,
       "word": "再就业男团演唱会官宣",
       "onboard_time": 1754662645,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122205,
+      "num": 122205,
+      "word": "杨幂这个侧颜太高级了",
+      "onboard_time": 1754723603,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 122166,
@@ -1243,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118191,
-      "num": 118191,
-      "word": "王安宇的腿又细又长又直",
-      "onboard_time": 1754721862,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117371,
       "num": 153687,
       "word": "特朗普称美俄会晤前普京不必见泽连斯基",
@@ -1305,6 +1433,14 @@
       "onboard_time": 1754704941,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112853,
+      "num": 351754,
+      "word": "现实版南京照相馆还在境外上演",
+      "onboard_time": 1754723421,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112837,
@@ -1387,14 +1523,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 105068,
-      "num": 105068,
-      "word": "原来这样洗衣服越洗越臭",
-      "onboard_time": 1754722163,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 104383,
       "num": 104383,
       "word": "猫 你再咻一下试试呢",
@@ -1467,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98008,
+      "num": 98008,
+      "word": "谷围南亭一看就是请高人了",
+      "onboard_time": 1754724263,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97495,
       "num": 189264,
       "word": "男子给失足女转138万前妻起诉被驳",
@@ -1529,6 +1665,14 @@
       "onboard_time": 1754667085,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81815,
+      "num": 122197,
+      "word": "朱一龙戏抛脸演技",
+      "onboard_time": 1754724263,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 79392,
@@ -1723,12 +1867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53520,
+      "num": 125838,
+      "word": "旭旭宝宝谈蓝战非",
+      "onboard_time": 1754724082,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 47800,
       "num": 354753,
       "word": "原来潮人不怕热都是有原因的",
       "onboard_time": 1754709623,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46165,
+      "num": 254882,
+      "word": "单依纯星空眼妆教程来了",
+      "onboard_time": 1754723302,
+      "rank": 19,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 45309,
