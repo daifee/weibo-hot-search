@@ -1,0 +1,410 @@
+{
+  "runTime": 1754735256446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1053365,
+        "num": 1168538,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662597,
+        "num": 662597,
+        "word": "一医院禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754728163,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20665,
+        "num": 576182,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519400,
+        "num": 519400,
+        "word": "董璇张维伊官宣",
+        "onboard_time": 1754720063,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512573,
+        "num": 512573,
+        "word": "李沁 一生要出片的中国女人",
+        "onboard_time": 1754732602,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377457,
+        "num": 377457,
+        "word": "中公教育17000元退款需17年退完",
+        "onboard_time": 1754728883,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348073,
+        "num": 348073,
+        "word": "退休金要有一个额度",
+        "onboard_time": 1754723722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330768,
+        "num": 330768,
+        "word": "日本网友被科普日本侵华历史大破防",
+        "onboard_time": 1754721802,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355703,
+        "num": 325707,
+        "word": "董璇说下一个大事就是有了小小张",
+        "onboard_time": 1754726062,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132071,
+        "num": 320904,
+        "word": "甘肃榆中山洪灾害已致13人死亡",
+        "onboard_time": 1754734464,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934044,
+        "num": 318809,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667406,
+        "num": 310198,
+        "word": "发作性睡病",
+        "onboard_time": 1754729663,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 354371,
+        "num": 305945,
+        "word": "给刘浩存P成185了",
+        "onboard_time": 1754724862,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488059,
+        "num": 301668,
+        "word": "隐性嫉妒",
+        "onboard_time": 1754731343,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407415,
+        "num": 298870,
+        "word": "两女孩店门口喝奶茶被货车压死",
+        "onboard_time": 1754720901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331534,
+        "num": 293465,
+        "word": "许嵩冯禧手拉手逛街",
+        "onboard_time": 1754721621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289348,
+        "num": 289348,
+        "word": "smtown",
+        "onboard_time": 1754732122,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287688,
+        "num": 287688,
+        "word": "央视独家专访迪丽热巴",
+        "onboard_time": 1754731343,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73974,
+        "num": 276619,
+        "word": "为什么英国人下雨天不打伞",
+        "onboard_time": 1754734642,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275986,
+        "num": 275986,
+        "word": "尼格买提 不要轻易删除你的朋友",
+        "onboard_time": 1754727502,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249391,
+        "num": 249391,
+        "word": "男子进校捅04年女生十余刀被判14年",
+        "onboard_time": 1754731343,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220648,
+        "num": 220648,
+        "word": "越来越看不懂年轻人的泳衣了",
+        "onboard_time": 1754734464,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191202,
+        "num": 191202,
+        "word": "王皓脸上写了强颜欢笑四个字",
+        "onboard_time": 1754733982,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215602,
+        "num": 189893,
+        "word": "时代少年团 抢票",
+        "onboard_time": 1754719883,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185977,
+        "num": 185977,
+        "word": "浪浪山",
+        "onboard_time": 1754729302,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183064,
+        "num": 183064,
+        "word": "我老了也要这样带着相机去旅行",
+        "onboard_time": 1754734642,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180476,
+        "num": 180476,
+        "word": "撒贝宁在央视遇到明侦粉",
+        "onboard_time": 1754734401,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177344,
+        "num": 177344,
+        "word": "中国男子在柬埔寨身亡监控曝光",
+        "onboard_time": 1754733863,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168913,
+        "num": 168913,
+        "word": "伯远的人脉有点吓人",
+        "onboard_time": 1754734583,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164763,
+        "num": 164763,
+        "word": "李沁天塌下来也得先出片",
+        "onboard_time": 1754734464,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272839,
+        "num": 164003,
+        "word": "当我用洗洁精洗眼镜一年后",
+        "onboard_time": 1754734343,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158542,
+        "num": 158542,
+        "word": "医院回应禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754732122,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163026,
+        "num": 157492,
+        "word": "中医对黄子韬说没事能治",
+        "onboard_time": 1754729963,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149199,
+        "num": 149199,
+        "word": "建议大家少吃隔夜的食物",
+        "onboard_time": 1754731881,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145809,
+        "num": 145809,
+        "word": "荣成车祸致一家1死4伤家属发声",
+        "onboard_time": 1754727262,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138684,
+        "num": 138684,
+        "word": "中国男子在美移民拘留中心上吊身亡",
+        "onboard_time": 1754730623,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120025,
+        "num": 120025,
+        "word": "吃不吃预制菜的都沉默了",
+        "onboard_time": 1754734464,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118263,
+        "num": 118263,
+        "word": "三胞胎坐高铁买挂票不哭不闹",
+        "onboard_time": 1754725942,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117515,
+        "num": 117515,
+        "word": "东极岛",
+        "onboard_time": 1754726361,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40915,
+        "num": 114967,
+        "word": "高管聚餐后昏迷3个月",
+        "onboard_time": 1754735061,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72604,
+        "num": 114821,
+        "word": "王楚钦呼噜呼噜毛",
+        "onboard_time": 1754735182,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114769,
+        "num": 114769,
+        "word": "杀害中国籍农场主赞比亚男子已溺亡",
+        "onboard_time": 1754728641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116270,
+        "num": 114756,
+        "word": "徐明浩音乐节",
+        "onboard_time": 1754731703,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111379,
+        "num": 111379,
+        "word": "十日终焉",
+        "onboard_time": 1754719762,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109302,
+        "num": 109302,
+        "word": "全球首个痛岛就在上海",
+        "onboard_time": 1754733502,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102456,
+        "num": 108993,
+        "word": "刘轩丞变装帅的好权威",
+        "onboard_time": 1754733802,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108869,
+        "num": 108869,
+        "word": "BLG战胜WE",
+        "onboard_time": 1754735002,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107460,
+        "num": 107460,
+        "word": "44岁网红包公去世",
+        "onboard_time": 1754728042,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106493,
+        "num": 106493,
+        "word": "心动的信号8",
+        "onboard_time": 1754728462,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104892,
+        "num": 104892,
+        "word": "王源我没有说谎",
+        "onboard_time": 1754735182,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#古街是拆是留习近平用一首诗回答#"
+    }
+  }
+}

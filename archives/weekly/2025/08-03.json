@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754732488100,
+  "endTime": 1754735256446,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -2395,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 667406,
+      "num": 310198,
+      "word": "发作性睡病",
+      "onboard_time": 1754729663,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 667329,
       "num": 304121,
       "word": "过度提醒",
@@ -3531,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 512573,
+      "num": 512573,
+      "word": "李沁 一生要出片的中国女人",
+      "onboard_time": 1754732602,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507930,
       "num": 445224,
       "word": "新疆一景区吊桥桥索断裂5死24伤",
@@ -3673,6 +3689,14 @@
       "onboard_time": 1754223864,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 488059,
+      "num": 301668,
+      "word": "隐性嫉妒",
+      "onboard_time": 1754731343,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 486873,
@@ -5835,6 +5859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289348,
+      "num": 289348,
+      "word": "smtown",
+      "onboard_time": 1754732122,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 289038,
       "num": 289038,
       "word": "蒋奇明张艺凡吻张力拉满",
@@ -5856,6 +5888,14 @@
       "word": "26岁的金裕贞",
       "onboard_time": 1754365042,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287688,
+      "num": 287688,
+      "word": "央视独家专访迪丽热巴",
+      "onboard_time": 1754731343,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -6089,6 +6129,14 @@
       "onboard_time": 1754472143,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272839,
+      "num": 164003,
+      "word": "当我用洗洁精洗眼镜一年后",
+      "onboard_time": 1754734343,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 272265,
@@ -6571,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249391,
+      "num": 249391,
+      "word": "男子进校捅04年女生十余刀被判14年",
+      "onboard_time": 1754731343,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248817,
       "num": 248817,
       "word": "12岁于子迪400米混合泳第四",
@@ -6859,14 +6915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237222,
-      "num": 237222,
-      "word": "央视独家专访迪丽热巴",
-      "onboard_time": 1754731343,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237101,
       "num": 213078,
       "word": "夫妻离婚分鸡多出一只被判吃掉再离",
@@ -6937,14 +6985,6 @@
       "onboard_time": 1754563643,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234386,
-      "num": 234386,
-      "word": "发作性睡病",
-      "onboard_time": 1754729663,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 233870,
@@ -7337,6 +7377,14 @@
       "onboard_time": 1754471064,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220648,
+      "num": 220648,
+      "word": "越来越看不懂年轻人的泳衣了",
+      "onboard_time": 1754734464,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 220579,
@@ -8915,6 +8963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191202,
+      "num": 191202,
+      "word": "王皓脸上写了强颜欢笑四个字",
+      "onboard_time": 1754733982,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191192,
       "num": 191192,
       "word": "蔡徐坤洛杉矶生日会",
@@ -9219,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185977,
+      "num": 214239,
+      "word": "浪浪山",
+      "onboard_time": 1754148089,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185886,
       "num": 185886,
       "word": "理想i8 乘龙卡车",
@@ -9411,6 +9475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183064,
+      "num": 183064,
+      "word": "我老了也要这样带着相机去旅行",
+      "onboard_time": 1754734642,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182811,
       "num": 182811,
       "word": "丞磊是宋轶的游戏说明书",
@@ -9569,6 +9641,14 @@
       "onboard_time": 1754372963,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180476,
+      "num": 180476,
+      "word": "撒贝宁在央视遇到明侦粉",
+      "onboard_time": 1754734401,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 180395,
@@ -9779,20 +9859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177344,
+      "num": 177344,
+      "word": "中国男子在柬埔寨身亡监控曝光",
+      "onboard_time": 1754733863,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177214,
       "num": 182388,
       "word": "丞磊首部男主戏开播",
       "onboard_time": 1754452343,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177157,
-      "num": 177157,
-      "word": "隐性嫉妒",
-      "onboard_time": 1754731343,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 177023,
@@ -10057,14 +10137,6 @@
       "onboard_time": 1754375303,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 173211,
-      "num": 173211,
-      "word": "smtown",
-      "onboard_time": 1754732122,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 173171,
@@ -10427,6 +10499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168913,
+      "num": 168913,
+      "word": "伯远的人脉有点吓人",
+      "onboard_time": 1754734583,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168643,
       "num": 140386,
       "word": "鞠婧祎张云龙表面笑嘻嘻背地抡大锤",
@@ -10713,6 +10793,14 @@
       "onboard_time": 1754667444,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164763,
+      "num": 164763,
+      "word": "李沁天塌下来也得先出片",
+      "onboard_time": 1754734464,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 164728,
@@ -11227,6 +11315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158542,
+      "num": 158542,
+      "word": "医院回应禁止规培生进职工餐厅吃饭",
+      "onboard_time": 1754732122,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158532,
       "num": 158532,
       "word": "死神来了",
@@ -11585,14 +11681,6 @@
       "onboard_time": 1754548463,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 154406,
-      "num": 214239,
-      "word": "浪浪山",
-      "onboard_time": 1754148089,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 154308,
@@ -11995,14 +12083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150858,
-      "num": 150858,
-      "word": "医院回应禁止规培生进职工餐厅吃饭",
-      "onboard_time": 1754732122,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150824,
       "num": 150824,
       "word": "张元英红昭愿卡点摇",
@@ -12153,6 +12233,14 @@
       "onboard_time": 1754219483,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149199,
+      "num": 149199,
+      "word": "建议大家少吃隔夜的食物",
+      "onboard_time": 1754731881,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149040,
@@ -13803,14 +13891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135596,
-      "num": 135596,
-      "word": "男子进校捅04年女生十余刀被判14年",
-      "onboard_time": 1754731343,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135522,
       "num": 135522,
       "word": "不要对选手私生活过分好奇",
@@ -14249,6 +14329,14 @@
       "onboard_time": 1754531061,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132071,
+      "num": 320904,
+      "word": "甘肃榆中山洪灾害已致13人死亡",
+      "onboard_time": 1754734464,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132050,
@@ -16027,6 +16115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120025,
+      "num": 120025,
+      "word": "吃不吃预制菜的都沉默了",
+      "onboard_time": 1754734464,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119898,
       "num": 119898,
       "word": "王安宇新歌制作人是小鬼",
@@ -17387,6 +17483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109302,
+      "num": 109302,
+      "word": "全球首个痛岛就在上海",
+      "onboard_time": 1754733502,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109300,
       "num": 109300,
       "word": "山海奇都皮肤",
@@ -17417,6 +17521,14 @@
       "onboard_time": 1754718262,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108869,
+      "num": 108869,
+      "word": "BLG战胜WE",
+      "onboard_time": 1754735002,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 108864,
@@ -17667,14 +17779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105198,
-      "num": 105198,
-      "word": "建议大家少吃隔夜的食物",
-      "onboard_time": 1754731881,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105014,
       "num": 105014,
       "word": "汪顺回应男子混接无缘决赛",
@@ -17689,6 +17793,14 @@
       "onboard_time": 1754439082,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104892,
+      "num": 104892,
+      "word": "王源我没有说谎",
+      "onboard_time": 1754735182,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 104749,
@@ -17985,6 +18097,14 @@
       "onboard_time": 1754373083,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102456,
+      "num": 108993,
+      "word": "刘轩丞变装帅的好权威",
+      "onboard_time": 1754733802,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 102446,
@@ -20163,6 +20283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73974,
+      "num": 276619,
+      "word": "为什么英国人下雨天不打伞",
+      "onboard_time": 1754734642,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73870,
       "num": 87242,
       "word": "杨迪第一次以这种方式上央视新闻",
@@ -20217,6 +20345,14 @@
       "onboard_time": 1754521758,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72604,
+      "num": 114821,
+      "word": "王楚钦呼噜呼噜毛",
+      "onboard_time": 1754735182,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 72076,
@@ -21787,6 +21923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40915,
+      "num": 114967,
+      "word": "高管聚餐后昏迷3个月",
+      "onboard_time": 1754735061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40844,
       "num": 40844,
       "word": "央视曝光打卡0元学等商家套路",
@@ -23330,6 +23474,9 @@
     },
     {
       "word": "#千方百计搜救失联人员#"
+    },
+    {
+      "word": "#古街是拆是留习近平用一首诗回答#"
     }
   ]
 }
