@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754747216560,
+  "endTime": 1754749517708,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -19,7 +19,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2377001,
+      "raw_hot": 2563746,
       "num": 304529,
       "word": "赵露思回应鼻子动了",
       "onboard_time": 1754746404,
@@ -105,6 +105,14 @@
       "onboard_time": 1754704881,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1182086,
+      "num": 259471,
+      "word": "徐杰被曝出轨",
+      "onboard_time": 1754748144,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1156674,
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 743726,
+      "num": 503597,
+      "word": "田曦薇美成这样",
+      "onboard_time": 1754746763,
+      "rank": 24,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 743304,
       "num": 357848,
       "word": "我再也不翻马桶坐垫了",
@@ -289,6 +305,14 @@
       "onboard_time": 1754728163,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 719151,
+      "num": 431728,
+      "word": "虞书欣全开麦唱跳",
+      "onboard_time": 1754744602,
+      "rank": 27,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 717366,
@@ -419,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610486,
-      "num": 431728,
-      "word": "虞书欣全开麦唱跳",
-      "onboard_time": 1754744602,
-      "rank": 27,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 607386,
       "num": 323727,
       "word": "越来越看不懂年轻人的泳衣了",
@@ -456,6 +472,14 @@
       "word": "女子吐槽1万7的月子餐像预制菜",
       "onboard_time": 1754706261,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583396,
+      "num": 407879,
+      "word": "外卖员被曝隔窗偷拍女生洗澡",
+      "onboard_time": 1754744422,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -595,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 407879,
-      "num": 407879,
-      "word": "外卖员被曝隔窗偷拍女生洗澡",
-      "onboard_time": 1754744422,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 406920,
       "num": 194939,
       "word": "耳帝",
@@ -673,6 +689,14 @@
       "onboard_time": 1754695458,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364709,
+      "num": 253555,
+      "word": "小S两女儿颜值",
+      "onboard_time": 1754747425,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 362312,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 321179,
-      "num": 274952,
+      "num": 292610,
       "word": "袁咏仪也是孙颖莎球迷",
       "onboard_time": 1754746344,
       "rank": 30,
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 268888,
-      "num": 230099,
+      "num": 247809,
       "word": "鹿晗编了小辫子",
       "onboard_time": 1754744723,
       "rank": 42,
@@ -857,6 +881,14 @@
       "onboard_time": 1754743762,
       "rank": 37,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 262222,
+      "num": 262222,
+      "word": "iG战胜JDG",
+      "onboard_time": 1754748624,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 260938,
@@ -969,14 +1001,6 @@
       "onboard_time": 1754725942,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227035,
-      "num": 227035,
-      "word": "田曦薇美成这样",
-      "onboard_time": 1754746763,
-      "rank": 24,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 226826,
@@ -1347,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193601,
+      "num": 193601,
+      "word": "喻言闪光的夏天总冠军",
+      "onboard_time": 1754748985,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193342,
       "num": 193342,
       "word": "心动的信号8",
@@ -1395,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188389,
+      "num": 188389,
+      "word": "李昊 想自由",
+      "onboard_time": 1754748264,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188370,
       "num": 188370,
       "word": "DRG战胜EDG",
@@ -1435,12 +1475,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184773,
+      "num": 184773,
+      "word": "AG战胜KSG",
+      "onboard_time": 1754748325,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183064,
       "num": 183064,
       "word": "我老了也要这样带着相机去旅行",
       "onboard_time": 1754734642,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182465,
+      "num": 182465,
+      "word": "赵露思回忆和敖瑞鹏一起打游戏",
+      "onboard_time": 1754745924,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 182404,
@@ -1476,7 +1532,7 @@
     },
     {
       "raw_hot": 180960,
-      "num": 180960,
+      "num": 257779,
       "word": "西安汉服馆冲突双方被拘留",
       "onboard_time": 1754745864,
       "rank": 43,
@@ -1497,6 +1553,14 @@
       "onboard_time": 1754720304,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178896,
+      "num": 178896,
+      "word": "上海申花1比2上海海港",
+      "onboard_time": 1754748743,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 178858,
@@ -1561,6 +1625,14 @@
       "onboard_time": 1754697139,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174988,
+      "num": 174988,
+      "word": "印度宣称曾击落巴方6架战机",
+      "onboard_time": 1754748083,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 174001,
@@ -1651,6 +1723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167804,
+      "num": 179344,
+      "word": "周深把自己调成唢呐了",
+      "onboard_time": 1754749284,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167352,
       "num": 167352,
       "word": "00后整顿职场的下场怎么没人说了",
@@ -1737,6 +1817,14 @@
       "onboard_time": 1754745563,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161514,
+      "num": 161514,
+      "word": "邓妍找到然然了",
+      "onboard_time": 1754748684,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 161144,
@@ -1891,6 +1979,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152935,
+      "num": 152935,
+      "word": "中国留学生在澳遭围殴抢救超30小时",
+      "onboard_time": 1754749345,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152727,
+      "num": 152727,
+      "word": "你好星期六下期是锦月如歌",
+      "onboard_time": 1754748865,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152507,
       "num": 152507,
       "word": "韩红不认识刘宇 大张伟疯狂安利",
@@ -1971,6 +2075,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 146282,
+      "num": 146282,
+      "word": "早田希娜3比2张本美和",
+      "onboard_time": 1754747964,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144881,
       "num": 144881,
       "word": "利剑玫瑰收视率",
@@ -1995,12 +2107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143578,
+      "num": 143578,
+      "word": "权志龙 再吵我可要下班了",
+      "onboard_time": 1754747544,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143275,
       "num": 143275,
       "word": "赵晴收到多个女一剧本",
       "onboard_time": 1754710581,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143251,
+      "num": 146892,
+      "word": "孙颖莎成功的背后是各种苦练",
+      "onboard_time": 1754748144,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 142934,
@@ -2129,6 +2257,14 @@
       "onboard_time": 1754744062,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137830,
+      "num": 137830,
+      "word": "一诺苍暴力美学",
+      "onboard_time": 1754748384,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 136270,
@@ -2931,6 +3067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78736,
+      "num": 151800,
+      "word": "洞洞鞋到底丑还是潮",
+      "onboard_time": 1754748985,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77554,
       "num": 146554,
       "word": "22小时制酒店凭啥收24小时的钱",
@@ -3075,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57632,
+      "num": 178956,
+      "word": "霸道财政局长漂白掉三次犯罪记录",
+      "onboard_time": 1754748083,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57523,
       "num": 106863,
       "word": "仙逆神临之战又名王林救妻记",
@@ -3188,7 +3340,7 @@
     },
     {
       "raw_hot": 41729,
-      "num": 238394,
+      "num": 243144,
       "word": "祝绪丹破冰COS冰魄",
       "onboard_time": 1754746703,
       "rank": 19,
@@ -3411,6 +3563,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 18943,
+      "num": 242218,
+      "word": "荣成车祸男子生日当天成父亲忌日",
+      "onboard_time": 1754748083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13862,
       "num": 23392,
       "word": "三角洲行动",
@@ -3435,7 +3595,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2674,
+      "raw_hot": 3925,
       "num": 680955,
       "word": "相约成都遇见万千精彩",
       "onboard_time": 1754572223,

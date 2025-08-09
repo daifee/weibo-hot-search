@@ -1,0 +1,410 @@
+{
+  "runTime": 1754749517708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 812499,
+        "num": 1129999,
+        "word": "你好星期六",
+        "onboard_time": 1754739382,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529528,
+        "num": 529528,
+        "word": "遇车祸一家刚拿到孩子小学录取通知",
+        "onboard_time": 1754743642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3925,
+        "num": 503642,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743726,
+        "num": 503597,
+        "word": "田曦薇美成这样",
+        "onboard_time": 1754746763,
+        "rank": 3,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 502811,
+        "num": 502811,
+        "word": "孙颖莎终结对手对国乒的11连胜",
+        "onboard_time": 1754740341,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446858,
+        "num": 446858,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719151,
+        "num": 400367,
+        "word": "虞书欣全开麦唱跳",
+        "onboard_time": 1754744602,
+        "rank": 6,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 511142,
+        "num": 373087,
+        "word": "利剑玫瑰大结局",
+        "onboard_time": 1754741362,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292610,
+        "num": 292610,
+        "word": "袁咏仪也是孙颖莎球迷",
+        "onboard_time": 1754746344,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 262222,
+        "num": 262222,
+        "word": "iG战胜JDG",
+        "onboard_time": 1754748624,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2563746,
+        "num": 262008,
+        "word": "赵露思回应鼻子动了",
+        "onboard_time": 1754746404,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1182086,
+        "num": 259471,
+        "word": "徐杰被曝出轨",
+        "onboard_time": 1754748144,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131081,
+        "num": 257779,
+        "word": "西安汉服馆冲突双方被拘留",
+        "onboard_time": 1754745864,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583396,
+        "num": 254273,
+        "word": "外卖员被曝隔窗偷拍女生洗澡",
+        "onboard_time": 1754744422,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364709,
+        "num": 253555,
+        "word": "小S两女儿颜值",
+        "onboard_time": 1754747425,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273435,
+        "num": 250936,
+        "word": "田曦薇金发玛丽猫",
+        "onboard_time": 1754743102,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 263138,
+        "num": 248009,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247809,
+        "num": 247809,
+        "word": "鹿晗编了小辫子",
+        "onboard_time": 1754744723,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9345,
+        "num": 243144,
+        "word": "祝绪丹破冰COS冰魄",
+        "onboard_time": 1754746703,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 18943,
+        "num": 242218,
+        "word": "荣成车祸男子生日当天成父亲忌日",
+        "onboard_time": 1754748083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241788,
+        "num": 241788,
+        "word": "虞书欣完全小蛋糕",
+        "onboard_time": 1754739081,
+        "rank": 20,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 198267,
+        "num": 198267,
+        "word": "包头通报讲师团人才引进问题",
+        "onboard_time": 1754746404,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193601,
+        "num": 193601,
+        "word": "喻言闪光的夏天总冠军",
+        "onboard_time": 1754748985,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188389,
+        "num": 188389,
+        "word": "李昊 想自由",
+        "onboard_time": 1754748264,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184773,
+        "num": 184773,
+        "word": "AG战胜KSG",
+        "onboard_time": 1754748325,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183594,
+        "num": 183594,
+        "word": "和平精英直播",
+        "onboard_time": 1754737161,
+        "rank": 25,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 182465,
+        "num": 182465,
+        "word": "赵露思回忆和敖瑞鹏一起打游戏",
+        "onboard_time": 1754745924,
+        "rank": 26,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 181091,
+        "num": 181091,
+        "word": "包头讲师团主要负责人被免职",
+        "onboard_time": 1754746583,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167804,
+        "num": 179344,
+        "word": "周深把自己调成唢呐了",
+        "onboard_time": 1754749284,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57632,
+        "num": 178956,
+        "word": "霸道财政局长漂白掉三次犯罪记录",
+        "onboard_time": 1754748083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178896,
+        "num": 178896,
+        "word": "上海申花1比2上海海港",
+        "onboard_time": 1754748743,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174988,
+        "num": 174988,
+        "word": "印度宣称曾击落巴方6架战机",
+        "onboard_time": 1754748083,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161514,
+        "num": 161514,
+        "word": "邓妍找到然然了",
+        "onboard_time": 1754748684,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157493,
+        "num": 157493,
+        "word": "当我用洗洁精洗眼镜一年后",
+        "onboard_time": 1754734343,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156799,
+        "num": 156799,
+        "word": "陈数最气场全收的一次",
+        "onboard_time": 1754744842,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153785,
+        "num": 153785,
+        "word": "你好星期六预告",
+        "onboard_time": 1754743162,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152935,
+        "num": 152935,
+        "word": "中国留学生在澳遭围殴抢救超30小时",
+        "onboard_time": 1754749345,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152727,
+        "num": 152727,
+        "word": "你好星期六下期是锦月如歌",
+        "onboard_time": 1754748865,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78736,
+        "num": 151800,
+        "word": "洞洞鞋到底丑还是潮",
+        "onboard_time": 1754748985,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151532,
+        "num": 151532,
+        "word": "谢娜家宴",
+        "onboard_time": 1754738842,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143251,
+        "num": 146892,
+        "word": "孙颖莎成功的背后是各种苦练",
+        "onboard_time": 1754748144,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134716,
+        "num": 146297,
+        "word": "iG对战JDG",
+        "onboard_time": 1754744422,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146282,
+        "num": 146282,
+        "word": "早田希娜3比2张本美和",
+        "onboard_time": 1754747964,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145504,
+        "num": 145504,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1754741423,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143578,
+        "num": 143578,
+        "word": "权志龙 再吵我可要下班了",
+        "onboard_time": 1754747544,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140010,
+        "num": 140010,
+        "word": "中公教育17000元退款需17年退完",
+        "onboard_time": 1754728883,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137830,
+        "num": 137830,
+        "word": "一诺苍暴力美学",
+        "onboard_time": 1754748384,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137574,
+        "num": 137574,
+        "word": "手机玩久了为什么会恶心",
+        "onboard_time": 1754744422,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134565,
+        "num": 134565,
+        "word": "萧亚轩瘦成纸片人",
+        "onboard_time": 1754742383,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134274,
+        "num": 134274,
+        "word": "越来越看不懂年轻人的泳衣了",
+        "onboard_time": 1754734464,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
