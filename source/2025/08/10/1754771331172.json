@@ -1,0 +1,410 @@
+{
+  "runTime": 1754771331172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 132558,
+        "num": 132558,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100414,
+        "num": 100414,
+        "word": "陶白白 爱到最后都一样",
+        "onboard_time": 1754753125,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 939,
+        "num": 89386,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83050,
+        "num": 83050,
+        "word": "大爷摆摊自称送20万现金无人敢拿",
+        "onboard_time": 1754755282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82201,
+        "num": 82201,
+        "word": "檀健次 十日终焉",
+        "onboard_time": 1754765595,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68809,
+        "num": 68809,
+        "word": "用微信记录自律太好用了",
+        "onboard_time": 1754754982,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64980,
+        "num": 64980,
+        "word": "中国留学生在澳遭围殴抢救超30小时",
+        "onboard_time": 1754749345,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61052,
+        "num": 61052,
+        "word": "赵露思手机号被泄漏",
+        "onboard_time": 1754752704,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51935,
+        "num": 51935,
+        "word": "今年衣服的袖子为啥都没了",
+        "onboard_time": 1754755343,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50135,
+        "num": 50135,
+        "word": "田曦薇美成这样",
+        "onboard_time": 1754746763,
+        "rank": 9,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 121224,
+        "num": 48770,
+        "word": "徐杰被曝出轨",
+        "onboard_time": 1754748144,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44979,
+        "num": 44979,
+        "word": "老总提议给自己发200万固定月薪被批",
+        "onboard_time": 1754755282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111225,
+        "num": 43696,
+        "word": "赵露思回应鼻子动了",
+        "onboard_time": 1754746404,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42297,
+        "num": 42297,
+        "word": "徐杰 赌球",
+        "onboard_time": 1754751205,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37242,
+        "num": 37242,
+        "word": "男子离家前吐西瓜籽回来时满院西瓜",
+        "onboard_time": 1754751564,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34357,
+        "num": 34357,
+        "word": "虞书欣全开麦唱跳",
+        "onboard_time": 1754744602,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 29070,
+        "num": 29070,
+        "word": "和平精英直播",
+        "onboard_time": 1754737161,
+        "rank": 16,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 28945,
+        "num": 28945,
+        "word": "利剑玫瑰大结局",
+        "onboard_time": 1754741362,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28425,
+        "num": 28425,
+        "word": "医生将患者强塞红包转存住院费",
+        "onboard_time": 1754757141,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24863,
+        "num": 24863,
+        "word": "院长回应规培生等禁入职工餐厅吃饭",
+        "onboard_time": 1754753543,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67748,
+        "num": 24672,
+        "word": "巴西情侣悬崖边亲热坠崖身亡",
+        "onboard_time": 1754754563,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30780,
+        "num": 24632,
+        "word": "外卖员被曝隔窗偷拍女生洗澡",
+        "onboard_time": 1754744422,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24208,
+        "num": 24208,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23197,
+        "num": 24208,
+        "word": "虞书欣连戴不上耳机都有callback",
+        "onboard_time": 1754750725,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 22982,
+        "num": 24204,
+        "word": "你好星期六",
+        "onboard_time": 1754739382,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21960,
+        "num": 24201,
+        "word": "汪苏泷演唱会看台嘻嘻内场不嘻嘻",
+        "onboard_time": 1754768895,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21572,
+        "num": 24198,
+        "word": "罗家英给妻子汪明荃买楼留保险",
+        "onboard_time": 1754765956,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21232,
+        "num": 24193,
+        "word": "小S两女儿颜值",
+        "onboard_time": 1754747425,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20437,
+        "num": 24187,
+        "word": "王源官宣了鸟巢演唱会",
+        "onboard_time": 1754750604,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13216,
+        "num": 24184,
+        "word": "冯德伦生日舒淇秀恩爱",
+        "onboard_time": 1754769975,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20341,
+        "num": 24180,
+        "word": "迪丽热巴太会演了",
+        "onboard_time": 1754751263,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19965,
+        "num": 24179,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19775,
+        "num": 24176,
+        "word": "为什么中国的神仙都是竖着飞",
+        "onboard_time": 1754751924,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19552,
+        "num": 24173,
+        "word": "田曦薇金发玛丽猫",
+        "onboard_time": 1754743102,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 18626,
+        "num": 24170,
+        "word": "和平精英全明星皮肤模卡首曝",
+        "onboard_time": 1754754384,
+        "rank": 34,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 17985,
+        "num": 24164,
+        "word": "汪苏泷说19号小怪物叫放青松",
+        "onboard_time": 1754768415,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17965,
+        "num": 24160,
+        "word": "曾辉韩雨彤直播",
+        "onboard_time": 1754770094,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17699,
+        "num": 24160,
+        "word": "孙颖莎终结对手对国乒的11连胜",
+        "onboard_time": 1754740341,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17532,
+        "num": 24154,
+        "word": "印度宣称曾击落巴方6架战机",
+        "onboard_time": 1754748083,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17339,
+        "num": 24152,
+        "word": "没有然然和章阿姨相认的镜头",
+        "onboard_time": 1754751924,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17215,
+        "num": 24148,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1754752643,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17209,
+        "num": 24145,
+        "word": "萧亚轩瘦成纸片人",
+        "onboard_time": 1754742383,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17020,
+        "num": 24139,
+        "word": "西安汉服馆冲突双方被拘留",
+        "onboard_time": 1754745864,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16864,
+        "num": 24137,
+        "word": "被逆行女子剐蹭小伙教科书式回答",
+        "onboard_time": 1754753783,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16394,
+        "num": 24134,
+        "word": "这五杯敬追星的自己",
+        "onboard_time": 1754770753,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15853,
+        "num": 24131,
+        "word": "当我用洗洁精洗眼镜一年后",
+        "onboard_time": 1754734343,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15849,
+        "num": 24128,
+        "word": "鹿晗这句话晚了七年",
+        "onboard_time": 1754769675,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15549,
+        "num": 24123,
+        "word": "婚内强奸案将开庭被告方作无罪辩护",
+        "onboard_time": 1754751744,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15204,
+        "num": 24119,
+        "word": "Icon直播道歉",
+        "onboard_time": 1754754083,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14155,
+        "num": 24118,
+        "word": "周深没有你的城市空荡荡",
+        "onboard_time": 1754757022,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
