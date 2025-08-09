@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754754099731,
+  "endTime": 1754757128274,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2451,6 +2451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 804040,
+      "num": 804040,
+      "word": "赵露思手机号被泄漏",
+      "onboard_time": 1754752704,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802576,
       "num": 315099,
       "word": "恋人剧组",
@@ -2945,14 +2953,6 @@
       "onboard_time": 1754657483,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 705075,
-      "num": 705075,
-      "word": "赵露思手机号被泄漏",
-      "onboard_time": 1754752704,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 704742,
@@ -4073,6 +4073,14 @@
       "onboard_time": 1754549063,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571473,
+      "num": 340897,
+      "word": "陶白白 爱到最后都一样",
+      "onboard_time": 1754753125,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 571463,
@@ -5667,6 +5675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407399,
+      "num": 296546,
+      "word": "徐杰 赌球",
+      "onboard_time": 1754751205,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406920,
       "num": 194939,
       "word": "耳帝",
@@ -5692,7 +5708,7 @@
     },
     {
       "raw_hot": 405583,
-      "num": 296655,
+      "num": 305761,
       "word": "虞书欣连戴不上耳机都有callback",
       "onboard_time": 1754750725,
       "rank": 12,
@@ -5857,6 +5873,14 @@
       "onboard_time": 1754651361,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 394183,
+      "num": 140500,
+      "word": "巴西情侣悬崖边亲热坠崖身亡",
+      "onboard_time": 1754754563,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 394074,
@@ -6249,14 +6273,6 @@
       "onboard_time": 1754442082,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371796,
-      "num": 296546,
-      "word": "徐杰 赌球",
-      "onboard_time": 1754751205,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 370959,
@@ -7769,6 +7785,14 @@
       "onboard_time": 1754325560,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286301,
+      "num": 286301,
+      "word": "院长回应规培生等禁入职工餐厅吃饭",
+      "onboard_time": 1754753543,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286268,
@@ -9473,6 +9497,14 @@
       "onboard_time": 1754281945,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228221,
+      "num": 228221,
+      "word": "为什么中国的神仙都是竖着飞",
+      "onboard_time": 1754751924,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 228148,
@@ -14067,6 +14099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171809,
+      "num": 171809,
+      "word": "今年衣服的袖子为啥都没了",
+      "onboard_time": 1754755343,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171801,
       "num": 171801,
       "word": "定风波热度",
@@ -14736,14 +14776,6 @@
       "word": "朋友圈点赞是一种很微妙的社交",
       "onboard_time": 1754464044,
       "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 165568,
-      "num": 189477,
-      "word": "为什么中国的神仙都是竖着飞",
-      "onboard_time": 1754751924,
-      "rank": 27,
       "category": "幽默"
     },
     {
@@ -15704,6 +15736,14 @@
       "word": "女子虐猫致4死2伤是否违法",
       "onboard_time": 1754492424,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157985,
+      "num": 157985,
+      "word": "老总提议给自己发200万固定月薪被批",
+      "onboard_time": 1754755282,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -20459,6 +20499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128744,
+      "num": 128744,
+      "word": "杨冰怡夺冠后C位首秀",
+      "onboard_time": 1754755162,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128741,
       "num": 128741,
       "word": "中国男篮战胜印度男篮",
@@ -23851,6 +23899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110137,
+      "num": 110137,
+      "word": "用微信记录自律太好用了",
+      "onboard_time": 1754754982,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110092,
       "num": 110092,
       "word": "龚俊粉丝真的吃很好",
@@ -24419,6 +24475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105000,
+      "num": 127813,
+      "word": "大爷摆摊自称送20万现金无人敢拿",
+      "onboard_time": 1754755282,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104913,
       "num": 104913,
       "word": "第一次对别人的家有这么大占有欲",
@@ -24497,14 +24561,6 @@
       "onboard_time": 1754119102,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104488,
-      "num": 119140,
-      "word": "陶白白 爱到最后都一样",
-      "onboard_time": 1754753125,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 104460,
@@ -26163,6 +26219,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 91587,
+      "num": 91085,
+      "word": "Icon直播道歉",
+      "onboard_time": 1754754083,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91515,
       "num": 91515,
       "word": "北京北部和西部将有大到暴雨",
@@ -26201,6 +26265,14 @@
       "onboard_time": 1754315665,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 91354,
+      "num": 91354,
+      "word": "周深没有你的城市空荡荡",
+      "onboard_time": 1754757022,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 91340,
@@ -26345,6 +26417,14 @@
       "onboard_time": 1754500338,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89403,
+      "num": 89403,
+      "word": "汪苏泷演唱会跳美美桑内",
+      "onboard_time": 1754756962,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 89348,
@@ -26691,6 +26771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85493,
+      "num": 85493,
+      "word": "P1Harmony舞台着火",
+      "onboard_time": 1754754563,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85441,
       "num": 85441,
       "word": "鹿晗演唱会后台花絮",
@@ -26851,6 +26939,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 83692,
+      "num": 87604,
+      "word": "老王杯S2韩涵队夺冠",
+      "onboard_time": 1754756481,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83658,
       "num": 311289,
       "word": "奥迪Q6Le-tron34.88万起售",
@@ -26921,6 +27017,14 @@
       "onboard_time": 1754651782,
       "rank": 16,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 82791,
+      "num": 82791,
+      "word": "时代少年团上海站没有延伸台",
+      "onboard_time": 1754751145,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 82678,
@@ -29649,14 +29753,6 @@
       "onboard_time": 1753958244,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40959,
-      "num": 198662,
-      "word": "院长回应规培生等禁入职工餐厅吃饭",
-      "onboard_time": 1754753543,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40844,
