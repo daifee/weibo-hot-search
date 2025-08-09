@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754706403343,
+  "endTime": 1754710020615,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1216540,
+      "num": 363298,
+      "word": "鼓励生育已经到这个地步了",
+      "onboard_time": 1754704881,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1108127,
       "num": 682109,
       "word": "赵露思替经纪人求职",
@@ -43,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1003985,
-      "num": 245968,
+      "raw_hot": 1043207,
+      "num": 362120,
       "word": "苏醒苏新皓聊天记录",
       "onboard_time": 1754704461,
       "rank": 25,
@@ -52,11 +60,19 @@
     },
     {
       "raw_hot": 862320,
-      "num": 244782,
+      "num": 355770,
       "word": "麦琳88斤了",
       "onboard_time": 1754664746,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 771395,
+      "num": 359789,
+      "word": "陈楚生 我也希望我是皇",
+      "onboard_time": 1754705000,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 757370,
@@ -67,20 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 743304,
+      "num": 357848,
+      "word": "我再也不翻马桶坐垫了",
+      "onboard_time": 1754707402,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 729539,
+      "num": 729539,
+      "word": "爱奇艺认证的三部爆剧",
+      "onboard_time": 1754704821,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709025,
       "num": 709025,
       "word": "0713",
       "onboard_time": 1754701401,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 684898,
-      "num": 245808,
-      "word": "鼓励生育已经到这个地步了",
-      "onboard_time": 1754704881,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 661707,
@@ -107,6 +131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589411,
+      "num": 589411,
+      "word": "女子吐槽1万7的月子餐像预制菜",
+      "onboard_time": 1754706261,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575391,
+      "num": 575391,
+      "word": "邱党3比2林诗栋",
+      "onboard_time": 1754709382,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531128,
       "num": 174023,
       "word": "女歌手们都是歌王",
@@ -124,11 +164,19 @@
     },
     {
       "raw_hot": 464241,
-      "num": 245102,
+      "num": 371703,
       "word": "李兰迪敖瑞鹏二搭不二之臣",
       "onboard_time": 1754703561,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 458543,
+      "num": 458543,
+      "word": "王曼昱2比3陈熠",
+      "onboard_time": 1754705722,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 434976,
@@ -180,7 +228,7 @@
     },
     {
       "raw_hot": 378448,
-      "num": 197398,
+      "num": 205026,
       "word": "女子用吹风机吹头发下一秒炸了",
       "onboard_time": 1754700321,
       "rank": 21,
@@ -219,6 +267,22 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 357284,
+      "num": 357284,
+      "word": "梓渝势界杂志预热",
+      "onboard_time": 1754707521,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 354747,
+      "num": 354746,
+      "word": "杭州男子自称2006年出生40岁",
+      "onboard_time": 1754706261,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348014,
       "num": 202911,
       "word": "因鸡蛋崩溃掀桌女子发声",
@@ -228,7 +292,7 @@
     },
     {
       "raw_hot": 339824,
-      "num": 237374,
+      "num": 354988,
       "word": "花儿与少年同心季定档官宣",
       "onboard_time": 1754703921,
       "rank": 22,
@@ -243,22 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320036,
-      "num": 192608,
-      "word": "爱奇艺认证的三部爆剧",
-      "onboard_time": 1754704821,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 295252,
-      "num": 191005,
-      "word": "陈楚生 我也希望我是皇",
-      "onboard_time": 1754705000,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287490,
       "num": 287490,
       "word": "社保",
@@ -267,27 +315,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278495,
-      "num": 278495,
-      "word": "王曼昱2比3陈熠",
-      "onboard_time": 1754705722,
-      "rank": 8,
+      "raw_hot": 258775,
+      "num": 258775,
+      "word": "阿根廷中国行取消",
+      "onboard_time": 1754709921,
+      "rank": 23,
       "category": "体育"
     },
     {
-      "raw_hot": 244344,
-      "num": 244344,
-      "word": "杭州男子自称2006年出生40岁",
-      "onboard_time": 1754706261,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233647,
-      "num": 233647,
-      "word": "女子吐槽1万7的月子餐像预制菜",
-      "onboard_time": 1754706261,
-      "rank": 18,
+      "raw_hot": 239210,
+      "num": 239210,
+      "word": "女子切开莲子发现里面真的有哪吒",
+      "onboard_time": 1754709981,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -297,6 +337,22 @@
       "onboard_time": 1754699000,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226826,
+      "num": 226826,
+      "word": "你好星期六没见过这么会演的",
+      "onboard_time": 1754706800,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226579,
+      "num": 226579,
+      "word": "林诗栋vs邱党",
+      "onboard_time": 1754709382,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 223113,
@@ -331,6 +387,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214973,
+      "num": 365776,
+      "word": "特朗普和普京时隔6年首次见面",
+      "onboard_time": 1754709201,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 211230,
+      "num": 211230,
+      "word": "列车卧铺 床虱",
+      "onboard_time": 1754708481,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208479,
+      "num": 211448,
+      "word": "花儿与少年7",
+      "onboard_time": 1754705541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204941,
       "num": 204941,
       "word": "中国女子坠入日本东京大学烟囱死亡",
@@ -347,12 +427,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 200828,
-      "num": 179817,
-      "word": "花儿与少年7",
-      "onboard_time": 1754705541,
-      "rank": 25,
+      "raw_hot": 197159,
+      "num": 211268,
+      "word": "张子枫感激向往的生活",
+      "onboard_time": 1754709740,
+      "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196806,
+      "num": 196806,
+      "word": "抓大鹅",
+      "onboard_time": 1754704881,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 193893,
@@ -371,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192612,
+      "num": 192612,
+      "word": "百花杀首发剧照",
+      "onboard_time": 1754709141,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189487,
       "num": 189487,
       "word": "男子赌气离家29年领退休金时现身",
@@ -379,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178932,
-      "num": 178932,
-      "word": "抓大鹅",
-      "onboard_time": 1754704881,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 185389,
+      "num": 185389,
+      "word": "大学不教但是真正有用的东西",
+      "onboard_time": 1754709861,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 177751,
@@ -393,6 +489,30 @@
       "onboard_time": 1754695098,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175319,
+      "num": 175319,
+      "word": "末伏第1天",
+      "onboard_time": 1754697139,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169126,
+      "num": 169126,
+      "word": "李宇春真的要告五人了",
+      "onboard_time": 1754709981,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168242,
+      "num": 168242,
+      "word": "不敢想开门看见樊振东的快乐",
+      "onboard_time": 1754706982,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 166521,
@@ -419,6 +539,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 162458,
+      "num": 162458,
+      "word": "女村支书因出场方式太特别走红",
+      "onboard_time": 1754709442,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159258,
+      "num": 159258,
+      "word": "老人正常死亡女子称是凶宅诉退房",
+      "onboard_time": 1754708601,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159256,
       "num": 159256,
       "word": "浪浪山小妖怪",
@@ -443,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154655,
-      "num": 158499,
-      "word": "末伏第1天",
-      "onboard_time": 1754697139,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149381,
       "num": 123991,
       "word": "东极岛",
@@ -465,6 +593,14 @@
       "onboard_time": 1754664626,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148958,
+      "num": 148958,
+      "word": "中国游客留学生在澳无端遭殴打",
+      "onboard_time": 1754706741,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144881,
@@ -483,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142157,
+      "num": 142157,
+      "word": "延伸台",
+      "onboard_time": 1754704521,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141998,
       "num": 141998,
       "word": "重庆钓鱼博主谈二娃不幸溺亡",
@@ -499,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141723,
+      "num": 141723,
+      "word": "张凌赫长沙",
+      "onboard_time": 1754698399,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139785,
       "num": 150355,
       "word": "爱出门的人能量很高",
@@ -507,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131155,
-      "num": 131155,
-      "word": "延伸台",
-      "onboard_time": 1754704521,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 134401,
+      "num": 168671,
+      "word": "赵露思说解约并无进展",
+      "onboard_time": 1754709201,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 128206,
@@ -539,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127346,
-      "num": 127346,
-      "word": "张凌赫长沙",
-      "onboard_time": 1754698399,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 123350,
+      "num": 168297,
+      "word": "女子塞尔维亚旅游遭海关歧视",
+      "onboard_time": 1754709681,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122930,
@@ -723,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89348,
+      "num": 354747,
+      "word": "北京楼市新政不再区分单身和已婚",
+      "onboard_time": 1754709681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88342,
       "num": 109111,
       "word": "黄奕直播",
@@ -891,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41109,
+      "num": 211232,
+      "word": "警方称爬烟囱坠楼女子非在校生",
+      "onboard_time": 1754708542,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41106,
       "num": 75557,
       "word": "女子猛喝奶茶后咳血丝查出咽喉反流",
@@ -1041,6 +1209,14 @@
       "onboard_time": 1754679675,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20754,
+      "num": 354753,
+      "word": "原来潮人不怕热都是有原因的",
+      "onboard_time": 1754709623,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 13862,
