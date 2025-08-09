@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754749517708,
+  "endTime": 1754750597801,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -67,6 +67,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 1465637,
+      "num": 281703,
+      "word": "徐杰被曝出轨",
+      "onboard_time": 1754748144,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1453135,
       "num": 1453135,
       "word": "董璇张维伊官宣",
@@ -105,14 +113,6 @@
       "onboard_time": 1754704881,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1182086,
-      "num": 259471,
-      "word": "徐杰被曝出轨",
-      "onboard_time": 1754748144,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 1156674,
@@ -161,6 +161,14 @@
       "onboard_time": 1754723241,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014582,
+      "num": 1162333,
+      "word": "田曦薇美成这样",
+      "onboard_time": 1754746763,
+      "rank": 24,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 1012276,
@@ -273,14 +281,6 @@
       "onboard_time": 1754661506,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 743726,
-      "num": 503597,
-      "word": "田曦薇美成这样",
-      "onboard_time": 1754746763,
-      "rank": 24,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 743304,
@@ -675,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370316,
+      "num": 275215,
+      "word": "小S两女儿颜值",
+      "onboard_time": 1754747425,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370029,
       "num": 370029,
       "word": "阿根廷中国行取消",
@@ -689,14 +697,6 @@
       "onboard_time": 1754695458,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364709,
-      "num": 253555,
-      "word": "小S两女儿颜值",
-      "onboard_time": 1754747425,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 362312,
@@ -795,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312473,
+      "num": 312473,
+      "word": "中国留学生在澳遭围殴抢救超30小时",
+      "onboard_time": 1754749345,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300202,
       "num": 300202,
       "word": "王楚钦光速挺进八强",
@@ -851,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271570,
+      "num": 271570,
+      "word": "鹿晗编了小辫子",
+      "onboard_time": 1754744723,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 269992,
       "num": 269992,
       "word": "中国男子在美移民拘留中心上吊身亡",
@@ -865,14 +881,6 @@
       "onboard_time": 1754737941,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268888,
-      "num": 247809,
-      "word": "鹿晗编了小辫子",
-      "onboard_time": 1754744723,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 268511,
@@ -1083,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215755,
+      "num": 257779,
+      "word": "西安汉服馆冲突双方被拘留",
+      "onboard_time": 1754745864,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214731,
       "num": 200345,
       "word": "古偶终于有不换乘恋爱剧了",
@@ -1243,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201334,
+      "num": 167215,
+      "word": "吴彤说酒吧歌手怎么了",
+      "onboard_time": 1754750244,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199897,
       "num": 199897,
       "word": "月亮",
@@ -1379,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193539,
+      "num": 182465,
+      "word": "赵露思回忆和敖瑞鹏一起打游戏",
+      "onboard_time": 1754745924,
+      "rank": 26,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 193342,
       "num": 193342,
       "word": "心动的信号8",
@@ -1491,14 +1523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182465,
-      "num": 182465,
-      "word": "赵露思回忆和敖瑞鹏一起打游戏",
-      "onboard_time": 1754745924,
-      "rank": 26,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 182404,
       "num": 182404,
       "word": "狼队shen夺冠",
@@ -1515,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181954,
+      "num": 166729,
+      "word": "你好星期六下期是锦月如歌",
+      "onboard_time": 1754748865,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181751,
       "num": 181751,
       "word": "林诗栋无缘男单八强",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1754728883,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180960,
-      "num": 257779,
-      "word": "西安汉服馆冲突双方被拘留",
-      "onboard_time": 1754745864,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180476,
@@ -1635,6 +1659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174118,
+      "num": 165706,
+      "word": "周也恶鬼vs善灵",
+      "onboard_time": 1754749585,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174001,
       "num": 174001,
       "word": "丞磊新剧舔自己嘴一下还能活吗",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1754717060,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169978,
+      "num": 165501,
+      "word": "邓妍找到然然了",
+      "onboard_time": 1754748684,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 169126,
@@ -1795,6 +1835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 162940,
+      "num": 162940,
+      "word": "钟辰乐直播",
+      "onboard_time": 1754749945,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162814,
       "num": 159231,
       "word": "网红万千惠患心脏早搏",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1754745563,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161514,
-      "num": 161514,
-      "word": "邓妍找到然然了",
-      "onboard_time": 1754748684,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 161144,
@@ -1955,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155927,
+      "num": 297433,
+      "word": "张艺兴今晚跳了咆哮",
+      "onboard_time": 1754749825,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155799,
       "num": 124313,
       "word": "李溪芮变化",
@@ -1977,22 +2025,6 @@
       "onboard_time": 1754739021,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152935,
-      "num": 152935,
-      "word": "中国留学生在澳遭围殴抢救超30小时",
-      "onboard_time": 1754749345,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152727,
-      "num": 152727,
-      "word": "你好星期六下期是锦月如歌",
-      "onboard_time": 1754748865,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 152507,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1754729842,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133873,
+      "num": 147643,
+      "word": "孙颖莎错位马尾好可爱",
+      "onboard_time": 1754750005,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 133817,
@@ -2659,6 +2699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112777,
+      "num": 172127,
+      "word": "在谢霆锋演唱会当上香妃了",
+      "onboard_time": 1754749825,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112655,
       "num": 112655,
       "word": "虞书欣和平精英代言人",
@@ -2771,6 +2819,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108124,
+      "num": 146926,
+      "word": "成都一串串店每桌一个大冰块",
+      "onboard_time": 1754750124,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107308,
+      "num": 151800,
+      "word": "洞洞鞋到底丑还是潮",
+      "onboard_time": 1754748985,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106952,
       "num": 106952,
       "word": "单依纯哨音",
@@ -2793,6 +2857,14 @@
       "onboard_time": 1754680215,
       "rank": 36,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 105519,
+      "num": 145767,
+      "word": "钓鱼只有零次和无数次",
+      "onboard_time": 1754750424,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 105233,
@@ -2915,6 +2987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99647,
+      "num": 144172,
+      "word": "拉丁舞裁判",
+      "onboard_time": 1754750005,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99101,
       "num": 99101,
       "word": "谁家CEO对公司千万亏空一无所知",
@@ -2987,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95724,
+      "num": 144015,
+      "word": "中国男篮时隔10年小组赛全胜",
+      "onboard_time": 1754747724,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92496,
       "num": 114821,
       "word": "王楚钦呼噜呼噜毛",
@@ -3001,6 +3089,14 @@
       "onboard_time": 1754727084,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89692,
+      "num": 142841,
+      "word": "花花的耳朵被藏到哪了",
+      "onboard_time": 1754750545,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89348,
@@ -3065,14 +3161,6 @@
       "onboard_time": 1754663606,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 78736,
-      "num": 151800,
-      "word": "洞洞鞋到底丑还是潮",
-      "onboard_time": 1754748985,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77554,
@@ -3259,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54908,
+      "num": 147254,
+      "word": "孟子义背梗全会一说全不对",
+      "onboard_time": 1754750005,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54598,
       "num": 54598,
       "word": "孟子义第一个开上缤果S新车",
@@ -3297,6 +3393,14 @@
       "onboard_time": 1754723302,
       "rank": 19,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 47392,
+      "num": 152128,
+      "word": "董璇张维伊实际相处时间才一个月",
+      "onboard_time": 1754750485,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 47029,
