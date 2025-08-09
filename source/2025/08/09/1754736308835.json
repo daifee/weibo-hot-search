@@ -1,0 +1,410 @@
+{
+  "runTime": 1754736308835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 917027,
+        "num": 1146724,
+        "word": "全红婵练瘦了",
+        "onboard_time": 1754729181,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 522817,
+        "num": 522817,
+        "word": "李沁 一生要出片的中国女人",
+        "onboard_time": 1754732602,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18972,
+        "num": 521677,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520669,
+        "num": 520669,
+        "word": "一医院禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754728163,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435462,
+        "num": 435462,
+        "word": "董璇张维伊官宣",
+        "onboard_time": 1754720063,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332494,
+        "num": 332494,
+        "word": "中公教育17000元退款需17年退完",
+        "onboard_time": 1754728883,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356650,
+        "num": 332413,
+        "word": "许嵩冯禧手拉手逛街",
+        "onboard_time": 1754721621,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331344,
+        "num": 331344,
+        "word": "退休金要有一个额度",
+        "onboard_time": 1754723722,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316846,
+        "num": 316846,
+        "word": "日本网友被科普日本侵华历史大破防",
+        "onboard_time": 1754721802,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66571,
+        "num": 316180,
+        "word": "甘肃榆中山洪已致15人遇难28人失联",
+        "onboard_time": 1754735661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 948622,
+        "num": 312703,
+        "word": "昆凌把周杰伦裁掉了",
+        "onboard_time": 1754723241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909917,
+        "num": 307885,
+        "word": "发作性睡病",
+        "onboard_time": 1754729663,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 816653,
+        "num": 306983,
+        "word": "隐性嫉妒",
+        "onboard_time": 1754731343,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436430,
+        "num": 301048,
+        "word": "越来越看不懂年轻人的泳衣了",
+        "onboard_time": 1754734464,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365172,
+        "num": 300076,
+        "word": "两女孩店门口喝奶茶被货车压死",
+        "onboard_time": 1754720901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324845,
+        "num": 297427,
+        "word": "董璇说下一个大事就是有了小小张",
+        "onboard_time": 1754726062,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294514,
+        "num": 294514,
+        "word": "给刘浩存P成185了",
+        "onboard_time": 1754724862,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272602,
+        "num": 272602,
+        "word": "smtown",
+        "onboard_time": 1754732122,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271093,
+        "num": 271093,
+        "word": "央视独家专访迪丽热巴",
+        "onboard_time": 1754731343,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256217,
+        "num": 256217,
+        "word": "尼格买提 不要轻易删除你的朋友",
+        "onboard_time": 1754727502,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252726,
+        "num": 252726,
+        "word": "时代少年团 抢票",
+        "onboard_time": 1754719883,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239617,
+        "num": 239617,
+        "word": "甘肃榆中山洪灾害已致13人死亡",
+        "onboard_time": 1754734464,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222311,
+        "num": 222311,
+        "word": "当我用洗洁精洗眼镜一年后",
+        "onboard_time": 1754734343,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205059,
+        "num": 205059,
+        "word": "王源我没有说谎",
+        "onboard_time": 1754735182,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199306,
+        "num": 199306,
+        "word": "男子进校捅04年女生十余刀被判14年",
+        "onboard_time": 1754731343,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173247,
+        "num": 173247,
+        "word": "孙颖莎逛超市",
+        "onboard_time": 1754735421,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152794,
+        "num": 152794,
+        "word": "孟子义误闯王星越向涵之定风波剧宣",
+        "onboard_time": 1754735901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142347,
+        "num": 142347,
+        "word": "撒贝宁在央视遇到明侦粉",
+        "onboard_time": 1754734401,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142274,
+        "num": 142274,
+        "word": "中国男子在柬埔寨身亡监控曝光",
+        "onboard_time": 1754733863,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140055,
+        "num": 140055,
+        "word": "为什么英国人下雨天不打伞",
+        "onboard_time": 1754734642,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136270,
+        "num": 136270,
+        "word": "吃不吃预制菜的都沉默了",
+        "onboard_time": 1754734464,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132351,
+        "num": 132351,
+        "word": "浪浪山",
+        "onboard_time": 1754729302,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130034,
+        "num": 130034,
+        "word": "斗破苍穹",
+        "onboard_time": 1754735602,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128229,
+        "num": 128229,
+        "word": "秋天的第一份系列越来越离谱了",
+        "onboard_time": 1754735661,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121515,
+        "num": 121515,
+        "word": "医院回应禁止规培生进职工餐厅吃饭",
+        "onboard_time": 1754732122,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116723,
+        "num": 116723,
+        "word": "东极岛",
+        "onboard_time": 1754726361,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115064,
+        "num": 115064,
+        "word": "中国男子在美移民拘留中心上吊身亡",
+        "onboard_time": 1754730623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113241,
+        "num": 113241,
+        "word": "徐明浩音乐节",
+        "onboard_time": 1754731703,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65099,
+        "num": 112352,
+        "word": "俄乌两方已然筋疲力尽",
+        "onboard_time": 1754736261,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92496,
+        "num": 112328,
+        "word": "王楚钦呼噜呼噜毛",
+        "onboard_time": 1754735182,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82260,
+        "num": 112326,
+        "word": "中俄联演中方现役主战舰艇齐发",
+        "onboard_time": 1754732783,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112325,
+        "num": 112325,
+        "word": "伯远的人脉有点吓人",
+        "onboard_time": 1754734583,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111444,
+        "num": 111444,
+        "word": "建议大家少吃隔夜的食物",
+        "onboard_time": 1754731881,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108408,
+        "num": 108408,
+        "word": "三胞胎坐高铁买挂票不哭不闹",
+        "onboard_time": 1754725942,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84549,
+        "num": 106699,
+        "word": "高管聚餐后昏迷3个月",
+        "onboard_time": 1754735061,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105193,
+        "num": 105193,
+        "word": "中医对黄子韬说没事能治",
+        "onboard_time": 1754729963,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102483,
+        "num": 102483,
+        "word": "我老了也要这样带着相机去旅行",
+        "onboard_time": 1754734642,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98930,
+        "num": 98930,
+        "word": "十日终焉",
+        "onboard_time": 1754719762,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98880,
+        "num": 98880,
+        "word": "王皓脸上写了强颜欢笑四个字",
+        "onboard_time": 1754733982,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96884,
+        "num": 96884,
+        "word": "44岁网红包公去世",
+        "onboard_time": 1754728042,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#古街是拆是留习近平用一首诗回答#"
+    }
+  }
+}

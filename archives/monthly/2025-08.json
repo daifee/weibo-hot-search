@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754735256446,
+  "endTime": 1754736308835,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2003,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 909917,
+      "num": 310198,
+      "word": "发作性睡病",
+      "onboard_time": 1754729663,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 909814,
       "num": 617578,
       "word": "Beni晋级",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1754059222,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 816653,
+      "num": 306983,
+      "word": "隐性嫉妒",
+      "onboard_time": 1754731343,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 813873,
@@ -3073,14 +3089,6 @@
       "onboard_time": 1754723722,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 667406,
-      "num": 310198,
-      "word": "发作性睡病",
-      "onboard_time": 1754729663,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 667329,
@@ -4347,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522817,
+      "num": 522817,
+      "word": "李沁 一生要出片的中国女人",
+      "onboard_time": 1754732602,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522797,
       "num": 522797,
       "word": "韩网再宣称汉服是学韩国的",
@@ -4441,14 +4457,6 @@
       "onboard_time": 1754314345,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 512573,
-      "num": 512573,
-      "word": "李沁 一生要出片的中国女人",
-      "onboard_time": 1754732602,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 511371,
@@ -4649,14 +4657,6 @@
       "onboard_time": 1754223864,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 488059,
-      "num": 301668,
-      "word": "隐性嫉妒",
-      "onboard_time": 1754731343,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 486873,
@@ -5177,6 +5177,14 @@
       "onboard_time": 1754536341,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436430,
+      "num": 301048,
+      "word": "越来越看不懂年轻人的泳衣了",
+      "onboard_time": 1754734464,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 434976,
@@ -7844,7 +7852,7 @@
     },
     {
       "raw_hot": 272839,
-      "num": 164003,
+      "num": 222311,
       "word": "当我用洗洁精洗眼镜一年后",
       "onboard_time": 1754734343,
       "rank": 30,
@@ -8787,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239617,
+      "num": 320904,
+      "word": "甘肃榆中山洪灾害已致13人死亡",
+      "onboard_time": 1754734464,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239551,
       "num": 239551,
       "word": "谢娜打拼归来仍是没招的女儿",
@@ -9561,14 +9577,6 @@
       "onboard_time": 1754016381,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 220648,
-      "num": 220648,
-      "word": "越来越看不懂年轻人的泳衣了",
-      "onboard_time": 1754734464,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 220579,
@@ -10593,6 +10601,14 @@
       "onboard_time": 1754278283,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205059,
+      "num": 205059,
+      "word": "王源我没有说谎",
+      "onboard_time": 1754735182,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 204992,
@@ -13339,6 +13355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 173247,
+      "num": 173247,
+      "word": "孙颖莎逛超市",
+      "onboard_time": 1754735421,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173193,
       "num": 173193,
       "word": "Rapeter严浩翔合影",
@@ -15715,6 +15739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152794,
+      "num": 152794,
+      "word": "孟子义误闯王星越向涵之定风波剧宣",
+      "onboard_time": 1754735901,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152749,
       "num": 157766,
       "word": "王烁然 突围",
@@ -17619,6 +17651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140055,
+      "num": 276619,
+      "word": "为什么英国人下雨天不打伞",
+      "onboard_time": 1754734642,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140029,
       "num": 140029,
       "word": "美国悬赏5000万美元抓捕马杜罗",
@@ -18265,6 +18305,14 @@
       "onboard_time": 1754295983,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136270,
+      "num": 136270,
+      "word": "吃不吃预制菜的都沉默了",
+      "onboard_time": 1754734464,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 136170,
@@ -19019,14 +19067,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132071,
-      "num": 320904,
-      "word": "甘肃榆中山洪灾害已致13人死亡",
-      "onboard_time": 1754734464,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132050,
       "num": 135327,
       "word": "冯建宇十年间的眼神变化",
@@ -19721,6 +19761,14 @@
       "onboard_time": 1754140411,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128229,
+      "num": 128229,
+      "word": "秋天的第一份系列越来越离谱了",
+      "onboard_time": 1754735661,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 128217,
@@ -21313,14 +21361,6 @@
       "onboard_time": 1754201783,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120025,
-      "num": 120025,
-      "word": "吃不吃预制菜的都沉默了",
-      "onboard_time": 1754734464,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 119898,
@@ -23467,14 +23507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104892,
-      "num": 104892,
-      "word": "王源我没有说谎",
-      "onboard_time": 1754735182,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104891,
       "num": 134795,
       "word": "TE对战MRC",
@@ -25115,6 +25147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92496,
+      "num": 114821,
+      "word": "王楚钦呼噜呼噜毛",
+      "onboard_time": 1754735182,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92344,
       "num": 121362,
       "word": "律师回应14岁少女校外被殴打",
@@ -25771,6 +25811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84549,
+      "num": 114967,
+      "word": "高管聚餐后昏迷3个月",
+      "onboard_time": 1754735061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84157,
       "num": 97320,
       "word": "孟子义对自己的脸非常有自信",
@@ -25945,6 +25993,14 @@
       "onboard_time": 1754382805,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82260,
+      "num": 112326,
+      "word": "中俄联演中方现役主战舰艇齐发",
+      "onboard_time": 1754732783,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82239,
@@ -26467,14 +26523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73974,
-      "num": 276619,
-      "word": "为什么英国人下雨天不打伞",
-      "onboard_time": 1754734642,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 73870,
       "num": 87242,
       "word": "杨迪第一次以这种方式上央视新闻",
@@ -26537,14 +26585,6 @@
       "onboard_time": 1754521758,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72604,
-      "num": 114821,
-      "word": "王楚钦呼噜呼噜毛",
-      "onboard_time": 1754735182,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 72076,
@@ -26907,6 +26947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66571,
+      "num": 316180,
+      "word": "甘肃榆中山洪已致15人遇难28人失联",
+      "onboard_time": 1754735661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66395,
       "num": 205695,
       "word": "痛经假落地难的原因",
@@ -27017,6 +27065,14 @@
       "onboard_time": 1754368344,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65099,
+      "num": 112352,
+      "word": "俄乌两方已然筋疲力尽",
+      "onboard_time": 1754736261,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65084,
@@ -28545,14 +28601,6 @@
       "onboard_time": 1753958244,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40915,
-      "num": 114967,
-      "word": "高管聚餐后昏迷3个月",
-      "onboard_time": 1754735061,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40844,
