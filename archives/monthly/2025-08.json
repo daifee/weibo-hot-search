@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754761297595,
+  "endTime": 1754764624045,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -30515,6 +30515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29224,
+      "num": 36758,
+      "word": "鹿晗gogogo出发喽",
+      "onboard_time": 1754761818,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29197,
       "num": 113933,
       "word": "奔驰亮证姐是公事公办还是仗势欺人",
@@ -30713,6 +30721,22 @@
       "onboard_time": 1754329397,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25867,
+      "num": 36734,
+      "word": "吴斌 瘸哥代号",
+      "onboard_time": 1754764096,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25659,
+      "num": 36734,
+      "word": "张艺兴入天宫耍起来",
+      "onboard_time": 1754763976,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 25564,
