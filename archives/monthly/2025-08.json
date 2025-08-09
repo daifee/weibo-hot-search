@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754739499648,
+  "endTime": 1754743928096,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -675,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1698160,
+      "num": 1698160,
+      "word": "你好星期六",
+      "onboard_time": 1754109502,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1689278,
       "num": 1689278,
       "word": "年轮说原唱杨丞琳",
@@ -825,6 +833,14 @@
       "onboard_time": 1754630422,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1545132,
+      "num": 456488,
+      "word": "赵露思水晶玫瑰裙",
+      "onboard_time": 1754739982,
+      "rank": 5,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 1540939,
@@ -1955,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 928276,
+      "num": 928276,
+      "word": "孙颖莎终结对手对国乒的11连胜",
+      "onboard_time": 1754740341,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 925192,
       "num": 440257,
       "word": "痛经假 医疗证明",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1754029342,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 866306,
+      "num": 444918,
+      "word": "谢娜家宴",
+      "onboard_time": 1754738842,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 862925,
@@ -2457,6 +2489,14 @@
       "onboard_time": 1754391983,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 777970,
+      "num": 444582,
+      "word": "利剑玫瑰大结局",
+      "onboard_time": 1754741362,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 774188,
@@ -3393,6 +3433,14 @@
       "onboard_time": 1754320345,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 624281,
+      "num": 361868,
+      "word": "虞书欣完全小蛋糕",
+      "onboard_time": 1754739081,
+      "rank": 23,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 623480,
@@ -4491,6 +4539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 508045,
+      "num": 361191,
+      "word": "田曦薇金发玛丽猫",
+      "onboard_time": 1754743102,
+      "rank": 11,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 507930,
       "num": 445224,
       "word": "新疆一景区吊桥桥索断裂5死24伤",
@@ -4537,6 +4593,14 @@
       "onboard_time": 1754041224,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503926,
+      "num": 503926,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1754739382,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 502903,
@@ -6283,6 +6347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358682,
+      "num": 358682,
+      "word": "孙颖莎真女王",
+      "onboard_time": 1754742203,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358502,
       "num": 495077,
       "word": "家暴纵火烧妻致死案儿子谈未来",
@@ -6969,14 +7041,6 @@
       "onboard_time": 1754217263,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318162,
-      "num": 318162,
-      "word": "谢娜家宴",
-      "onboard_time": 1754738842,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 317010,
@@ -8747,14 +8811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243327,
-      "num": 243327,
-      "word": "虞书欣完全小蛋糕",
-      "onboard_time": 1754739081,
-      "rank": 23,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 242382,
       "num": 242382,
       "word": "谁能演谢景行",
@@ -9163,6 +9219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229982,
+      "num": 201331,
+      "word": "萧亚轩瘦成纸片人",
+      "onboard_time": 1754742383,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229772,
       "num": 229772,
       "word": "公主抱 祁煜",
@@ -9467,6 +9531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224398,
+      "num": 204568,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1754052983,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224324,
       "num": 208653,
       "word": "杨冰怡 空中见",
@@ -9731,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218102,
+      "num": 200437,
+      "word": "谭松韵 清冷美人",
+      "onboard_time": 1754741783,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217696,
       "num": 217696,
       "word": "李嫣19岁近照曝光",
@@ -9913,6 +9993,14 @@
       "onboard_time": 1754011401,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214731,
+      "num": 200345,
+      "word": "古偶终于有不换乘恋爱剧了",
+      "onboard_time": 1754742681,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 214524,
@@ -10483,14 +10571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206853,
-      "num": 204568,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1754052983,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206690,
       "num": 206690,
       "word": "突然发现泳池游泳等于全身刷酸",
@@ -10793,6 +10873,14 @@
       "onboard_time": 1754197224,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203189,
+      "num": 203189,
+      "word": "高情商的伴侣有6个特征",
+      "onboard_time": 1754741242,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 203100,
@@ -11123,6 +11211,14 @@
       "category": "艺人,辟谣/通报"
     },
     {
+      "raw_hot": 199897,
+      "num": 199897,
+      "word": "月亮",
+      "onboard_time": 1754741482,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199859,
       "num": 199859,
       "word": "肖战立秋请喝奶茶",
@@ -11217,6 +11313,14 @@
       "onboard_time": 1754282004,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198499,
+      "num": 198499,
+      "word": "90爱",
+      "onboard_time": 1754742744,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 198121,
@@ -11513,6 +11617,14 @@
       "onboard_time": 1754616382,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 195749,
+      "num": 195749,
+      "word": "王青直播",
+      "onboard_time": 1754743162,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 195742,
@@ -13619,14 +13731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171872,
-      "num": 171872,
-      "word": "你好星期六",
-      "onboard_time": 1754109502,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171865,
       "num": 165988,
       "word": "TF四代Lucifer刀群舞",
@@ -14875,6 +14979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160643,
+      "num": 160643,
+      "word": "王源演唱会",
+      "onboard_time": 1754742262,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160631,
       "num": 160631,
       "word": "龙族百岁老头一身反骨",
@@ -15017,6 +15129,14 @@
       "onboard_time": 1754193087,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159261,
+      "num": 159261,
+      "word": "穆祉丞背王橹杰了",
+      "onboard_time": 1754741602,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 159258,
@@ -15915,6 +16035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152469,
+      "num": 152469,
+      "word": "卡琳娜cos樱木花道",
+      "onboard_time": 1754743762,
+      "rank": 37,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "王安宇的腿又细又长又直",
@@ -16619,6 +16747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147638,
+      "num": 131247,
+      "word": "韩红不认识刘宇 大张伟疯狂安利",
+      "onboard_time": 1754739620,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147609,
       "num": 147609,
       "word": "亿万富豪回应与17岁儿子置换血浆",
@@ -16777,6 +16913,14 @@
       "onboard_time": 1754635582,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146421,
+      "num": 132482,
+      "word": "虞书欣萌鼠我了",
+      "onboard_time": 1754742502,
+      "rank": 40,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 146393,
@@ -20571,14 +20715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124674,
-      "num": 124674,
-      "word": "孙颖莎黄牌",
-      "onboard_time": 1754739382,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124651,
       "num": 124651,
       "word": "余宇涵深海精灵造型",
@@ -21035,6 +21171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122367,
+      "num": 122367,
+      "word": "孙颖莎说现场氛围像主场",
+      "onboard_time": 1754742323,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122361,
       "num": 122361,
       "word": "地球超新鲜",
@@ -21395,6 +21539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120649,
+      "num": 120649,
+      "word": "周末有效休息vs无效休息",
+      "onboard_time": 1754741543,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 120645,
       "num": 120645,
       "word": "为什么说女性要多做力量训练",
@@ -21441,6 +21593,14 @@
       "onboard_time": 1754019263,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120457,
+      "num": 120457,
+      "word": "锤娜丽莎烫了泡面头",
+      "onboard_time": 1754743823,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 120439,
@@ -21995,6 +22155,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117056,
+      "num": 117056,
+      "word": "罗小黑师门全都是无限激推",
+      "onboard_time": 1754741844,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116989,
       "num": 140201,
       "word": "陈艺文3米板夺金",
@@ -22185,6 +22353,14 @@
       "onboard_time": 1754469862,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116027,
+      "num": 116027,
+      "word": "FPX已报案",
+      "onboard_time": 1754741602,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 116019,
@@ -22851,6 +23027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111983,
+      "num": 111983,
+      "word": "远离减肥误区",
+      "onboard_time": 1754743704,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111975,
       "num": 111975,
       "word": "这就是丞磊下水捞周也那段",
@@ -23009,6 +23193,14 @@
       "onboard_time": 1754180481,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110992,
+      "num": 110992,
+      "word": "马斯克称日本今年将减少100万人",
+      "onboard_time": 1754741362,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110931,
@@ -23881,6 +24073,14 @@
       "onboard_time": 1754311344,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103935,
+      "num": 201922,
+      "word": "遇车祸一家刚拿到孩子小学录取通知",
+      "onboard_time": 1754743642,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103879,

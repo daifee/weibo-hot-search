@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754739499648,
+  "endTime": 1754743928096,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1698160,
+      "num": 1698160,
+      "word": "你好星期六",
+      "onboard_time": 1754739382,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1619918,
       "num": 1619918,
       "word": "指示牌China写成Ching",
@@ -41,6 +49,14 @@
       "onboard_time": 1754701160,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1545132,
+      "num": 456488,
+      "word": "赵露思水晶玫瑰裙",
+      "onboard_time": 1754739982,
+      "rank": 5,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 1453135,
@@ -155,12 +171,28 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 928276,
+      "num": 928276,
+      "word": "孙颖莎终结对手对国乒的11连胜",
+      "onboard_time": 1754740341,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 909917,
       "num": 319716,
       "word": "发作性睡病",
       "onboard_time": 1754729663,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 866306,
+      "num": 444918,
+      "word": "谢娜家宴",
+      "onboard_time": 1754738842,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 862320,
@@ -193,6 +225,14 @@
       "onboard_time": 1754711240,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 777970,
+      "num": 444582,
+      "word": "利剑玫瑰大结局",
+      "onboard_time": 1754741362,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 771395,
@@ -331,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624281,
+      "num": 361868,
+      "word": "虞书欣完全小蛋糕",
+      "onboard_time": 1754739081,
+      "rank": 23,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 614031,
       "num": 429261,
       "word": "李沁花儿与少年官宣海报",
@@ -435,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508045,
+      "num": 361191,
+      "word": "田曦薇金发玛丽猫",
+      "onboard_time": 1754743102,
+      "rank": 11,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 506591,
       "num": 506591,
       "word": "中公教育17000元退款需17年退完",
       "onboard_time": 1754728883,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503926,
+      "num": 503926,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1754739382,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 464241,
@@ -464,6 +528,14 @@
       "word": "丁太升说单依纯没得歌王是好事",
       "onboard_time": 1754713762,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 441963,
+      "num": 352325,
+      "word": "你好星期六预告",
+      "onboard_time": 1754743162,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -587,6 +659,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 358682,
+      "num": 358682,
+      "word": "孙颖莎真女王",
+      "onboard_time": 1754742203,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357284,
       "num": 357284,
       "word": "梓渝势界杂志预热",
@@ -641,14 +721,6 @@
       "onboard_time": 1754699120,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318162,
-      "num": 318162,
-      "word": "谢娜家宴",
-      "onboard_time": 1754738842,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 317010,
@@ -763,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243327,
-      "num": 243327,
-      "word": "虞书欣完全小蛋糕",
-      "onboard_time": 1754739081,
-      "rank": 23,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 241559,
       "num": 241559,
       "word": "小咘芽拒绝谢娜画饼",
@@ -811,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229982,
+      "num": 201331,
+      "word": "萧亚轩瘦成纸片人",
+      "onboard_time": 1754742383,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229549,
       "num": 208768,
       "word": "三胞胎坐高铁买挂票不哭不闹",
@@ -841,6 +913,14 @@
       "onboard_time": 1754722163,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 224398,
+      "num": 201252,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1754741423,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 223113,
@@ -875,12 +955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218102,
+      "num": 200437,
+      "word": "谭松韵 清冷美人",
+      "onboard_time": 1754741783,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216675,
       "num": 216675,
       "word": "杀害中国籍农场主赞比亚男子已溺亡",
       "onboard_time": 1754728641,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214731,
+      "num": 200345,
+      "word": "古偶终于有不换乘恋爱剧了",
+      "onboard_time": 1754742681,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213998,
@@ -979,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203189,
+      "num": 203189,
+      "word": "高情商的伴侣有6个特征",
+      "onboard_time": 1754741242,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201708,
       "num": 201708,
       "word": "24小时退房制为啥不能成统一标准",
@@ -1003,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199897,
+      "num": 199897,
+      "word": "月亮",
+      "onboard_time": 1754741482,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199275,
       "num": 211268,
       "word": "张子枫感激向往的生活",
@@ -1017,6 +1129,14 @@
       "onboard_time": 1754731043,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198499,
+      "num": 198499,
+      "word": "90爱",
+      "onboard_time": 1754742744,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 197589,
@@ -1057,6 +1177,14 @@
       "onboard_time": 1754731703,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195749,
+      "num": 195749,
+      "word": "王青直播",
+      "onboard_time": 1754743162,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 195676,
@@ -1435,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160643,
+      "num": 160643,
+      "word": "王源演唱会",
+      "onboard_time": 1754742262,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160471,
       "num": 160471,
       "word": "道诡异仙这次真的不跳票",
@@ -1465,6 +1601,14 @@
       "onboard_time": 1754726361,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159261,
+      "num": 159261,
+      "word": "穆祉丞背王橹杰了",
+      "onboard_time": 1754741602,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 159258,
@@ -1547,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152469,
+      "num": 152469,
+      "word": "卡琳娜cos樱木花道",
+      "onboard_time": 1754743762,
+      "rank": 37,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "王安宇的腿又细又长又直",
@@ -1593,6 +1745,22 @@
       "onboard_time": 1754712320,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147638,
+      "num": 131247,
+      "word": "韩红不认识刘宇 大张伟疯狂安利",
+      "onboard_time": 1754739620,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146421,
+      "num": 132482,
+      "word": "虞书欣萌鼠我了",
+      "onboard_time": 1754742502,
+      "rank": 40,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 144881,
@@ -1907,14 +2075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124674,
-      "num": 124674,
-      "word": "孙颖莎黄牌",
-      "onboard_time": 1754739382,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124298,
       "num": 124298,
       "word": "龚俊被萝莉音吓到失去表情管理",
@@ -1963,6 +2123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122367,
+      "num": 122367,
+      "word": "孙颖莎说现场氛围像主场",
+      "onboard_time": 1754742323,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122205,
       "num": 122205,
       "word": "杨幂这个侧颜太高级了",
@@ -1995,12 +2163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120649,
+      "num": 120649,
+      "word": "周末有效休息vs无效休息",
+      "onboard_time": 1754741543,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 120645,
       "num": 120645,
       "word": "为什么说女性要多做力量训练",
       "onboard_time": 1754721143,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 120457,
+      "num": 120457,
+      "word": "锤娜丽莎烫了泡面头",
+      "onboard_time": 1754743823,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 119614,
@@ -2051,12 +2235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115873,
-      "num": 115873,
-      "word": "你好星期六",
-      "onboard_time": 1754739382,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 117056,
+      "num": 117056,
+      "word": "罗小黑师门全都是无限激推",
+      "onboard_time": 1754741844,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 116027,
+      "num": 116027,
+      "word": "FPX已报案",
+      "onboard_time": 1754741602,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 115793,
@@ -2131,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111983,
+      "num": 111983,
+      "word": "远离减肥误区",
+      "onboard_time": 1754743704,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111975,
       "num": 111975,
       "word": "这就是丞磊下水捞周也那段",
@@ -2161,6 +2361,14 @@
       "onboard_time": 1754716883,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110992,
+      "num": 110992,
+      "word": "马斯克称日本今年将减少100万人",
+      "onboard_time": 1754741362,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110047,
@@ -2272,6 +2480,14 @@
       "word": "被拘期间病妻溺亡男子起诉公安局",
       "onboard_time": 1754719642,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103935,
+      "num": 201922,
+      "word": "遇车祸一家刚拿到孩子小学录取通知",
+      "onboard_time": 1754743642,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
