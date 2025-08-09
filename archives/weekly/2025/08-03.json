@@ -1,6 +1,6 @@
 {
   "startTime": 1754152397081,
-  "endTime": 1754743928096,
+  "endTime": 1754744836623,
   "band_list": [
     {
       "raw_hot": 13983179,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1847258,
+      "num": 1847258,
+      "word": "你好星期六",
+      "onboard_time": 1754739382,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1839250,
       "num": 1839250,
       "word": "苍兰诀",
@@ -521,14 +529,6 @@
       "onboard_time": 1754349258,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1698160,
-      "num": 1698160,
-      "word": "你好星期六",
-      "onboard_time": 1754739382,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 1680618,
@@ -1435,6 +1435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 981212,
+      "num": 391035,
+      "word": "你好星期六预告",
+      "onboard_time": 1754138725,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 980557,
       "num": 564073,
       "word": "赵露思爸爸为了女儿漂发",
@@ -1875,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 809791,
+      "num": 444582,
+      "word": "利剑玫瑰大结局",
+      "onboard_time": 1754741362,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 806025,
       "num": 436291,
       "word": "具惠善发文喊话安宰贤",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1754391983,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 777970,
-      "num": 444582,
-      "word": "利剑玫瑰大结局",
-      "onboard_time": 1754741362,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 774188,
@@ -2667,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631210,
+      "num": 361191,
+      "word": "田曦薇金发玛丽猫",
+      "onboard_time": 1754743102,
+      "rank": 11,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 629460,
       "num": 603837,
       "word": "董璇 给另一半当妈",
@@ -2860,7 +2876,7 @@
     },
     {
       "raw_hot": 607386,
-      "num": 322647,
+      "num": 323727,
       "word": "越来越看不懂年轻人的泳衣了",
       "onboard_time": 1754734464,
       "rank": 21,
@@ -3627,14 +3643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 508045,
-      "num": 361191,
-      "word": "田曦薇金发玛丽猫",
-      "onboard_time": 1754743102,
-      "rank": 11,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 507930,
       "num": 445224,
       "word": "新疆一景区吊桥桥索断裂5死24伤",
@@ -4137,14 +4145,6 @@
       "onboard_time": 1754570363,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 441963,
-      "num": 352325,
-      "word": "你好星期六预告",
-      "onboard_time": 1754138725,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 441943,
@@ -6331,6 +6331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268511,
+      "num": 261171,
+      "word": "卡琳娜cos樱木花道",
+      "onboard_time": 1754743762,
+      "rank": 37,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 268288,
       "num": 268288,
       "word": "国新办介绍逐步推行免费学前教育",
@@ -6456,6 +6464,14 @@
       "word": "时代少年团演唱会上海站开售在即",
       "onboard_time": 1754552183,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 260938,
+      "num": 260938,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1754222663,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -7027,6 +7043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238051,
+      "num": 238051,
+      "word": "谭松韵 清冷美人",
+      "onboard_time": 1754741783,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237958,
       "num": 237958,
       "word": "原来还有迪丽冷巴",
@@ -7153,6 +7177,14 @@
       "onboard_time": 1754317826,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233038,
+      "num": 261718,
+      "word": "遇车祸一家刚拿到孩子小学录取通知",
+      "onboard_time": 1754743642,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232543,
@@ -7427,14 +7459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224398,
-      "num": 201252,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1754222663,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 223717,
       "num": 164226,
       "word": "女子将蜡烛放进冰箱烧掉顶部",
@@ -7531,6 +7555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220671,
+      "num": 220671,
+      "word": "iG对战JDG",
+      "onboard_time": 1754744422,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220579,
       "num": 220579,
       "word": "purplekiss解散",
@@ -7587,20 +7619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218102,
-      "num": 200437,
-      "word": "谭松韵 清冷美人",
-      "onboard_time": 1754741783,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217696,
       "num": 217696,
       "word": "李嫣19岁近照曝光",
       "onboard_time": 1754626944,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217418,
+      "num": 217418,
+      "word": "祝绪丹cos冰魄",
+      "onboard_time": 1754744363,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 217414,
@@ -7841,6 +7873,14 @@
       "onboard_time": 1754620102,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211208,
+      "num": 211208,
+      "word": "虞书欣全开麦唱跳",
+      "onboard_time": 1754744602,
+      "rank": 27,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 210605,
@@ -8123,6 +8163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206318,
+      "num": 206318,
+      "word": "锤娜丽莎烫了泡面头",
+      "onboard_time": 1754743823,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206106,
       "num": 206106,
       "word": "WB战胜狼队",
@@ -8185,6 +8233,14 @@
       "onboard_time": 1754274681,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205198,
+      "num": 205198,
+      "word": "王源演唱会",
+      "onboard_time": 1754742262,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 205110,
@@ -9705,6 +9761,14 @@
       "onboard_time": 1754652622,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182404,
+      "num": 182404,
+      "word": "狼队shen夺冠",
+      "onboard_time": 1754743943,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 182389,
@@ -11387,14 +11451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160643,
-      "num": 160643,
-      "word": "王源演唱会",
-      "onboard_time": 1754742262,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 160631,
       "num": 160631,
       "word": "龙族百岁老头一身反骨",
@@ -11721,6 +11777,14 @@
       "onboard_time": 1754624242,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156680,
+      "num": 156680,
+      "word": "手机玩久了为什么会恶心",
+      "onboard_time": 1754744422,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156651,
@@ -12163,6 +12227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152507,
+      "num": 152507,
+      "word": "韩红不认识刘宇 大张伟疯狂安利",
+      "onboard_time": 1754739620,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152490,
       "num": 152490,
       "word": "深圳人凌晨被连环雷炸到失眠",
@@ -12171,12 +12243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152469,
-      "num": 152469,
-      "word": "卡琳娜cos樱木花道",
-      "onboard_time": 1754743762,
-      "rank": 37,
-      "category": "艺人,动漫"
+      "raw_hot": 152483,
+      "num": 152483,
+      "word": "鹿晗编了小辫子",
+      "onboard_time": 1754744723,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 152420,
@@ -12603,6 +12675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148544,
+      "num": 148544,
+      "word": "华晨宇神图有了",
+      "onboard_time": 1754744483,
+      "rank": 44,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 148511,
       "num": 148511,
       "word": "对不起陶喆我看走眼了",
@@ -12689,14 +12769,6 @@
       "onboard_time": 1754492603,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 147638,
-      "num": 131247,
-      "word": "韩红不认识刘宇 大张伟疯狂安利",
-      "onboard_time": 1754739620,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 147609,
@@ -13939,6 +14011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137871,
+      "num": 137871,
+      "word": "徐杰解说",
+      "onboard_time": 1754744062,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137742,
       "num": 137742,
       "word": "丁程鑫张真源拟北京人才引进",
@@ -14704,6 +14784,14 @@
       "word": "百万女网红遭AI换脸盗图造谣",
       "onboard_time": 1754531180,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131982,
+      "num": 131982,
+      "word": "外卖员被曝隔窗偷拍女生洗澡",
+      "onboard_time": 1754744422,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -16433,14 +16521,6 @@
       "onboard_time": 1754379443,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120457,
-      "num": 120457,
-      "word": "锤娜丽莎烫了泡面头",
-      "onboard_time": 1754743823,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 120439,
@@ -18355,20 +18435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104033,
+      "num": 205374,
+      "word": "男子还俗后向女儿索要20万赡养费",
+      "onboard_time": 1754744483,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103968,
       "num": 334159,
       "word": "我国卫星互联网低轨卫星发射成功",
       "onboard_time": 1754311344,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 103935,
-      "num": 201922,
-      "word": "遇车祸一家刚拿到孩子小学录取通知",
-      "onboard_time": 1754743642,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103874,
@@ -22225,6 +22305,14 @@
       "onboard_time": 1754472263,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 45060,
+      "num": 157219,
+      "word": "出逃被人抱走的乌龟找到了",
+      "onboard_time": 1754744483,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45042,
