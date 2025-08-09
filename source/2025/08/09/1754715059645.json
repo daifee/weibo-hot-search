@@ -1,0 +1,410 @@
+{
+  "runTime": 1754715059645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619918,
+        "num": 1619918,
+        "word": "指示牌China写成Ching",
+        "onboard_time": 1754711902,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1045750,
+        "num": 1045750,
+        "word": "孟子义瘦到了90斤以下",
+        "onboard_time": 1754712381,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38587,
+        "num": 888592,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839349,
+        "num": 839349,
+        "word": "冰川融化现沉睡28年尸体",
+        "onboard_time": 1754701160,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 635871,
+        "num": 635871,
+        "word": "赵露思说半只脚跨出行业了",
+        "onboard_time": 1754711240,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381194,
+        "num": 381194,
+        "word": "普京10年来首次赴美",
+        "onboard_time": 1754712742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 614031,
+        "num": 376004,
+        "word": "李沁花儿与少年官宣海报",
+        "onboard_time": 1754711902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507635,
+        "num": 373037,
+        "word": "披哥史上第一位女主持人",
+        "onboard_time": 1754711301,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347458,
+        "num": 347458,
+        "word": "女子吐槽1万7的月子餐像预制菜",
+        "onboard_time": 1754706261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338742,
+        "num": 338742,
+        "word": "阿根廷中国行取消",
+        "onboard_time": 1754709921,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643116,
+        "num": 335470,
+        "word": "苏醒苏新皓聊天记录",
+        "onboard_time": 1754704461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591510,
+        "num": 333259,
+        "word": "金惠敏黄嘉杰分手",
+        "onboard_time": 1754711421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435663,
+        "num": 329336,
+        "word": "陈楚生 我也希望我是皇",
+        "onboard_time": 1754705000,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400887,
+        "num": 326994,
+        "word": "爱奇艺认证的三部爆剧",
+        "onboard_time": 1754704821,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355134,
+        "num": 322904,
+        "word": "我再也不翻马桶坐垫了",
+        "onboard_time": 1754707402,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320689,
+        "num": 320689,
+        "word": "男子转嫖娼对象138万原配追讨败诉",
+        "onboard_time": 1754666845,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314356,
+        "num": 314356,
+        "word": "列车卧铺 床虱",
+        "onboard_time": 1754708481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281063,
+        "num": 281063,
+        "word": "邱党3比2林诗栋",
+        "onboard_time": 1754709382,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225475,
+        "num": 273753,
+        "word": "丁太升说单依纯没得歌王是好事",
+        "onboard_time": 1754713762,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61158,
+        "num": 272818,
+        "word": "8系新人打脸霸总",
+        "onboard_time": 1754713102,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272379,
+        "num": 272379,
+        "word": "特朗普和普京时隔6年首次见面",
+        "onboard_time": 1754709201,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233304,
+        "num": 233304,
+        "word": "陈楚生歌王",
+        "onboard_time": 1754666010,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199748,
+        "num": 199748,
+        "word": "花儿与少年7",
+        "onboard_time": 1754705541,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187681,
+        "num": 187681,
+        "word": "时代少年团出座位图了",
+        "onboard_time": 1754713643,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187082,
+        "num": 187082,
+        "word": "女子切开莲子发现里面真的有哪吒",
+        "onboard_time": 1754709981,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182990,
+        "num": 182990,
+        "word": "张维伊给去世父亲交话费",
+        "onboard_time": 1754714781,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179931,
+        "num": 179931,
+        "word": "张曼玉优衣库",
+        "onboard_time": 1754714662,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167113,
+        "num": 167113,
+        "word": "麦琳88斤了",
+        "onboard_time": 1754664746,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166504,
+        "num": 166504,
+        "word": "李兰迪敖瑞鹏二搭不二之臣",
+        "onboard_time": 1754703561,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98800,
+        "num": 161160,
+        "word": "黄子韬徐艺洋抽到了最适合的爱情签",
+        "onboard_time": 1754714121,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157229,
+        "num": 157229,
+        "word": "大学不教但是真正有用的东西",
+        "onboard_time": 1754709861,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155725,
+        "num": 155725,
+        "word": "梓渝势界杂志预热",
+        "onboard_time": 1754707521,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155162,
+        "num": 155162,
+        "word": "王曼昱2比3陈熠",
+        "onboard_time": 1754705722,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39615,
+        "num": 153995,
+        "word": "泰国一列车脱轨",
+        "onboard_time": 1754714842,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153924,
+        "num": 153924,
+        "word": "时代少年团上海",
+        "onboard_time": 1754712200,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153544,
+        "num": 153544,
+        "word": "女子用吹风机吹头发下一秒炸了",
+        "onboard_time": 1754700321,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148511,
+        "num": 148511,
+        "word": "对不起陶喆我看走眼了",
+        "onboard_time": 1754712320,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125545,
+        "num": 142428,
+        "word": "孙颖莎凶起来萌萌哒",
+        "onboard_time": 1754714062,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128153,
+        "num": 139163,
+        "word": "县城相亲开始流行内推了",
+        "onboard_time": 1754714062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30230,
+        "num": 138119,
+        "word": "北极海水 9999元",
+        "onboard_time": 1754714601,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137563,
+        "num": 137563,
+        "word": "郑钧说老婆下死命令支持陈楚生",
+        "onboard_time": 1754700621,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134061,
+        "num": 134061,
+        "word": "花儿与少年同心季定档官宣",
+        "onboard_time": 1754703921,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133540,
+        "num": 133540,
+        "word": "赵晴收到多个女一剧本",
+        "onboard_time": 1754710581,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130630,
+        "num": 130630,
+        "word": "有一种把汉字梳开了的感觉",
+        "onboard_time": 1754713582,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126902,
+        "num": 126902,
+        "word": "0713",
+        "onboard_time": 1754701401,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126418,
+        "num": 126418,
+        "word": "苏醒含银量",
+        "onboard_time": 1754701460,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123816,
+        "num": 123816,
+        "word": "超过25岁就不适合劝分了",
+        "onboard_time": 1754713762,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122865,
+        "num": 122865,
+        "word": "末伏第1天",
+        "onboard_time": 1754697139,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115793,
+        "num": 115793,
+        "word": "外媒对蔡徐坤的评价",
+        "onboard_time": 1754714601,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112046,
+        "num": 112046,
+        "word": "赵露思说解约并无进展",
+        "onboard_time": 1754709201,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#千方百计搜救失联人员#"
+    }
+  }
+}

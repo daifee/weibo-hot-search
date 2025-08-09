@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754714174434,
+  "endTime": 1754715059645,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1619918,
+      "num": 1619918,
+      "word": "指示牌China写成Ching",
+      "onboard_time": 1754711902,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1589783,
       "num": 1589783,
       "word": "冰川融化现沉睡28年尸体",
       "onboard_time": 1754701160,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1243695,
-      "num": 1243695,
-      "word": "指示牌China写成Ching",
-      "onboard_time": 1754711902,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1228769,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1045750,
+      "num": 1045750,
+      "word": "孟子义瘦到了90斤以下",
+      "onboard_time": 1754712381,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1043207,
       "num": 365999,
       "word": "苏醒苏新皓聊天记录",
       "onboard_time": 1754704461,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1035388,
-      "num": 1035388,
-      "word": "孟子义瘦到了90斤以下",
-      "onboard_time": 1754712381,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 862320,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614031,
+      "num": 376004,
+      "word": "李沁花儿与少年官宣海报",
+      "onboard_time": 1754711902,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589411,
       "num": 589411,
       "word": "女子吐槽1万7的月子餐像预制菜",
@@ -243,20 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406103,
-      "num": 352519,
-      "word": "李沁花儿与少年官宣海报",
-      "onboard_time": 1754711902,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384868,
       "num": 143420,
       "word": "王力宏赛后发文",
       "onboard_time": 1754665952,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381194,
+      "num": 381194,
+      "word": "普京10年来首次赴美",
+      "onboard_time": 1754712742,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 380234,
@@ -387,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257732,
-      "num": 366382,
-      "word": "普京10年来首次赴美",
-      "onboard_time": 1754712742,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 239210,
       "num": 239210,
       "word": "女子切开莲子发现里面真的有哪吒",
@@ -425,6 +425,14 @@
       "onboard_time": 1754709382,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225475,
+      "num": 273753,
+      "word": "丁太升说单依纯没得歌王是好事",
+      "onboard_time": 1754713762,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 223113,
@@ -555,12 +563,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182990,
+      "num": 182990,
+      "word": "张维伊给去世父亲交话费",
+      "onboard_time": 1754714781,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181751,
       "num": 181751,
       "word": "林诗栋无缘男单八强",
       "onboard_time": 1754710341,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179931,
+      "num": 179931,
+      "word": "张曼玉优衣库",
+      "onboard_time": 1754714662,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 177751,
@@ -691,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148511,
+      "num": 148511,
+      "word": "对不起陶喆我看走眼了",
+      "onboard_time": 1754712320,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144881,
       "num": 144881,
       "word": "利剑玫瑰收视率",
@@ -713,14 +745,6 @@
       "onboard_time": 1754710581,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143050,
-      "num": 143050,
-      "word": "对不起陶喆我看走眼了",
-      "onboard_time": 1754712320,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 142157,
@@ -763,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139299,
-      "num": 139299,
-      "word": "丁太升说单依纯没得歌王是好事",
-      "onboard_time": 1754713762,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132584,
       "num": 168297,
       "word": "女子塞尔维亚旅游遭海关歧视",
@@ -787,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130630,
+      "num": 130630,
+      "word": "有一种把汉字梳开了的感觉",
+      "onboard_time": 1754713582,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130358,
       "num": 130358,
       "word": "男子赴柬被带网赌园跳车身亡",
@@ -800,6 +824,14 @@
       "word": "上海爷叔开庭审猫金句频出",
       "onboard_time": 1754703681,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128153,
+      "num": 143072,
+      "word": "县城相亲开始流行内推了",
+      "onboard_time": 1754714062,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -825,6 +857,14 @@
       "onboard_time": 1754713762,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125545,
+      "num": 143147,
+      "word": "孙颖莎凶起来萌萌哒",
+      "onboard_time": 1754714062,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 124118,
@@ -881,6 +921,14 @@
       "onboard_time": 1754699061,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115793,
+      "num": 115793,
+      "word": "外媒对蔡徐坤的评价",
+      "onboard_time": 1754714601,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 115502,
@@ -971,14 +1019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101912,
-      "num": 143147,
-      "word": "孙颖莎凶起来萌萌哒",
-      "onboard_time": 1754714062,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101689,
       "num": 121057,
       "word": "甘肃榆中已救出被困群众443人",
@@ -993,6 +1033,14 @@
       "onboard_time": 1754651361,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98800,
+      "num": 161160,
+      "word": "黄子韬徐艺洋抽到了最适合的爱情签",
+      "onboard_time": 1754714121,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 97495,
@@ -1067,14 +1115,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 76117,
-      "num": 140743,
-      "word": "黄子韬徐艺洋抽到了最适合的爱情签",
-      "onboard_time": 1754714121,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 74943,
       "num": 158418,
       "word": "技术人员离职受访外泄敏感信息",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1754659585,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70090,
-      "num": 143072,
-      "word": "县城相亲开始流行内推了",
-      "onboard_time": 1754714062,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67942,
@@ -1243,6 +1275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39615,
+      "num": 153995,
+      "word": "泰国一列车脱轨",
+      "onboard_time": 1754714842,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38587,
+      "num": 985368,
+      "word": "何以中国和合共生",
+      "onboard_time": 1754714002,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38035,
       "num": 43129,
       "word": "甘肃省级文保单位兴隆山卧桥被冲毁",
@@ -1323,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30230,
+      "num": 138119,
+      "word": "北极海水 9999元",
+      "onboard_time": 1754714601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29325,
       "num": 32868,
       "word": "陈楚生郑钧赤裸裸",
@@ -1395,14 +1451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13420,
-      "num": 985368,
-      "word": "何以中国和合共生",
-      "onboard_time": 1754714002,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 8755,
       "num": 1516212,
       "word": "公办民办幼儿园均可享受免保教费",
@@ -1420,6 +1468,9 @@
     },
     {
       "word": "#习近平同俄罗斯总统普京通电话#"
+    },
+    {
+      "word": "#千方百计搜救失联人员#"
     }
   ]
 }
