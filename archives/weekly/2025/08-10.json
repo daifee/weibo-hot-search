@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754779448021,
+  "endTime": 1754781988509,
   "band_list": [
     {
       "raw_hot": 1141252,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118058,
+      "num": 118058,
+      "word": "董璇张维伊实际相处时间才一个月",
+      "onboard_time": 1754750485,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115022,
       "num": 115022,
       "word": "种地吧",
@@ -288,6 +296,22 @@
       "word": "昆凌把周杰伦裁掉了",
       "onboard_time": 1754723241,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95136,
+      "num": 95136,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1754777055,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92824,
+      "num": 92824,
+      "word": "罗家英给妻子汪明荃买楼留保险",
+      "onboard_time": 1754765956,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -403,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71900,
+      "num": 71900,
+      "word": "无袖流行是对身体羞耻的反击",
+      "onboard_time": 1754781317,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71044,
       "num": 85295,
       "word": "宋茜女战神结算时刻",
@@ -435,12 +467,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54669,
+      "raw_hot": 55621,
       "num": 85361,
       "word": "被逆行女子剐蹭小伙教科书式回答",
       "onboard_time": 1754753783,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52625,
+      "num": 52625,
+      "word": "陈乔恩拯救了阮经天的职业生涯",
+      "onboard_time": 1754745264,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49506,
+      "num": 54934,
+      "word": "印度宣称曾击落巴方6架战机",
+      "onboard_time": 1754748083,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42297,
+      "num": 42297,
+      "word": "曾辉韩雨彤直播",
+      "onboard_time": 1754770094,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 41537,
@@ -459,28 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37330,
-      "num": 37330,
-      "word": "王楚钦vs户上隼辅",
-      "onboard_time": 1754777055,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 38054,
+      "num": 38054,
+      "word": "小沈阳说鹿晗就在旁边唱的",
+      "onboard_time": 1754781618,
+      "rank": 34,
+      "category": "演出"
     },
     {
-      "raw_hot": 33770,
-      "num": 33770,
-      "word": "罗家英给妻子汪明荃买楼留保险",
-      "onboard_time": 1754765956,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 33553,
-      "num": 54934,
-      "word": "印度宣称曾击落巴方6架战机",
-      "onboard_time": 1754748083,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 33791,
+      "num": 33791,
+      "word": "警方回应外卖员被曝偷拍女生洗澡",
+      "onboard_time": 1754776994,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32825,
@@ -491,20 +539,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32009,
+      "num": 32009,
+      "word": "陈小春王栎鑫先一步公演上了",
+      "onboard_time": 1754777775,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 31401,
+      "num": 31401,
+      "word": "朱志鑫张泽禹非酋兄弟",
+      "onboard_time": 1754781317,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 29950,
+      "num": 29950,
+      "word": "成毅深潜卫视实时收视第一",
+      "onboard_time": 1754778616,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29224,
       "num": 36758,
       "word": "鹿晗gogogo出发喽",
       "onboard_time": 1754761818,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29136,
-      "num": 33960,
-      "word": "曾辉韩雨彤直播",
-      "onboard_time": 1754770094,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 26488,
@@ -563,36 +627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20561,
-      "num": 28945,
-      "word": "成毅深潜卫视实时收视第一",
-      "onboard_time": 1754778616,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 19283,
-      "num": 28925,
-      "word": "陈小春王栎鑫先一步公演上了",
-      "onboard_time": 1754777775,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 17985,
       "num": 24164,
       "word": "汪苏泷说19号小怪物叫放青松",
       "onboard_time": 1754768415,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17370,
-      "num": 28902,
-      "word": "警方回应外卖员被曝偷拍女生洗澡",
-      "onboard_time": 1754776994,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16394,
