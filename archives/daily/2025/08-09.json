@@ -1,6 +1,6 @@
 {
   "startTime": 1754670816435,
-  "endTime": 1754710020615,
+  "endTime": 1754710734837,
   "band_list": [
     {
       "raw_hot": 5311269,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 714926,
+      "num": 714926,
+      "word": "邱党3比2林诗栋",
+      "onboard_time": 1754709382,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 709025,
       "num": 709025,
       "word": "0713",
@@ -137,14 +145,6 @@
       "onboard_time": 1754706261,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 575391,
-      "num": 575391,
-      "word": "邱党3比2林诗栋",
-      "onboard_time": 1754709382,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 531128,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374559,
+      "num": 374559,
+      "word": "特朗普和普京时隔6年首次见面",
+      "onboard_time": 1754709201,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 374341,
       "num": 374341,
       "word": "王曼昱vs陈熠",
@@ -307,20 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312471,
+      "num": 312471,
+      "word": "阿根廷中国行取消",
+      "onboard_time": 1754709921,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287490,
       "num": 287490,
       "word": "社保",
       "onboard_time": 1754653342,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258775,
-      "num": 258775,
-      "word": "阿根廷中国行取消",
-      "onboard_time": 1754709921,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 239210,
@@ -387,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214973,
-      "num": 365776,
-      "word": "特朗普和普京时隔6年首次见面",
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "赵露思说解约并无进展",
       "onboard_time": 1754709201,
-      "rank": 9,
-      "category": "国际时政"
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 211230,
@@ -427,7 +435,7 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 197159,
+      "raw_hot": 199275,
       "num": 211268,
       "word": "张子枫感激向往的生活",
       "onboard_time": 1754709740,
@@ -483,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181751,
+      "num": 181751,
+      "word": "林诗栋无缘男单八强",
+      "onboard_time": 1754710341,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177751,
       "num": 177751,
       "word": "歌手",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 169126,
-      "num": 169126,
+      "num": 184228,
       "word": "李宇春真的要告五人了",
       "onboard_time": 1754709981,
       "rank": 37,
@@ -659,12 +675,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134401,
-      "num": 168671,
-      "word": "赵露思说解约并无进展",
-      "onboard_time": 1754709201,
-      "rank": 38,
+      "raw_hot": 132584,
+      "num": 168297,
+      "word": "女子塞尔维亚旅游遭海关歧视",
+      "onboard_time": 1754709681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132278,
+      "num": 132278,
+      "word": "赵晴收到多个女一剧本",
+      "onboard_time": 1754710581,
+      "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132141,
+      "num": 132141,
+      "word": "丞磊晋江式演技上新了",
+      "onboard_time": 1754710701,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 128206,
@@ -691,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123350,
-      "num": 168297,
-      "word": "女子塞尔维亚旅游遭海关歧视",
-      "onboard_time": 1754709681,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 124118,
+      "num": 124118,
+      "word": "沈腾弹马丽脑门根本没用力",
+      "onboard_time": 1754710041,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 122930,
@@ -1043,6 +1075,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 47800,
+      "num": 354753,
+      "word": "原来潮人不怕热都是有原因的",
+      "onboard_time": 1754709623,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 45309,
       "num": 45309,
       "word": "直击甘肃榆中山洪灾害救援",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1754679675,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20754,
-      "num": 354753,
-      "word": "原来潮人不怕热都是有原因的",
-      "onboard_time": 1754709623,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 13862,
