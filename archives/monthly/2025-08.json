@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754810723783,
+  "endTime": 1754811552830,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1907,6 +1907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 978671,
+      "num": 1156587,
+      "word": "张晋和蔡少芬国外旅行突发心脏病",
+      "onboard_time": 1754810061,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 975918,
       "num": 1027258,
       "word": "赵露思意外生病是自己赔钱",
@@ -1972,7 +1980,7 @@
     },
     {
       "raw_hot": 967990,
-      "num": 566062,
+      "num": 642454,
       "word": "抠抠搜搜8年抠了49万",
       "onboard_time": 1754806700,
       "rank": 6,
@@ -3105,6 +3113,14 @@
       "onboard_time": 1754537362,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 694779,
+      "num": 694779,
+      "word": "苹果干",
+      "onboard_time": 1754806821,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 693824,
@@ -4947,20 +4963,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490776,
+      "num": 333992,
+      "word": "我恨现在的女士内裤",
+      "onboard_time": 1754808861,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490173,
       "num": 360205,
       "word": "王安宇音乐节",
       "onboard_time": 1754139990,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 489851,
-      "num": 333992,
-      "word": "我恨现在的女士内裤",
-      "onboard_time": 1754808861,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489543,
@@ -5665,14 +5681,6 @@
       "onboard_time": 1754040503,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425047,
-      "num": 425047,
-      "word": "苹果干",
-      "onboard_time": 1754806821,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 423956,
@@ -6537,14 +6545,6 @@
       "onboard_time": 1754658086,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 366968,
-      "num": 366968,
-      "word": "张晋和蔡少芬国外旅行突发心脏病",
-      "onboard_time": 1754810061,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 365948,
@@ -9115,6 +9115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251982,
+      "num": 251982,
+      "word": "走路被开罚单了",
+      "onboard_time": 1754809882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251925,
       "num": 251925,
       "word": "死神来了6定档",
@@ -9755,6 +9763,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232845,
+      "num": 138119,
+      "word": "吴艳妮张艺兴互动",
+      "onboard_time": 1754810422,
+      "rank": 30,
+      "category": "体育,演出"
+    },
+    {
+      "raw_hot": 232775,
+      "num": 232775,
+      "word": "井胧来管乐家收拾房间了",
+      "onboard_time": 1754808920,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232543,
       "num": 232543,
       "word": "燕云十六声",
@@ -10345,14 +10369,6 @@
       "onboard_time": 1754004318,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 219389,
-      "num": 219389,
-      "word": "井胧来管乐家收拾房间了",
-      "onboard_time": 1754808920,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 219304,
@@ -11193,6 +11209,14 @@
       "onboard_time": 1754234364,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207269,
+      "num": 207269,
+      "word": "杨博文跳Rudeboy",
+      "onboard_time": 1754810422,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 207177,
@@ -12107,14 +12131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197809,
-      "num": 138119,
-      "word": "吴艳妮张艺兴互动",
-      "onboard_time": 1754810422,
-      "rank": 30,
-      "category": "体育,演出"
-    },
-    {
       "raw_hot": 197786,
       "num": 197786,
       "word": "中国游泳队世锦赛收获2金6银6铜",
@@ -12347,6 +12363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196022,
+      "num": 196022,
+      "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
+      "onboard_time": 1754809822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196003,
       "num": 196003,
       "word": "迪丽热巴体制内妈妈降临",
@@ -12475,6 +12499,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 194737,
+      "num": 194737,
+      "word": "宋雨琦新歌COPDD首发",
+      "onboard_time": 1754811202,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194704,
       "num": 194704,
       "word": "敖瑞鹏常华森 双生魔丸的不同选择",
@@ -12545,6 +12577,14 @@
       "onboard_time": 1754141191,
       "rank": 33,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 194213,
+      "num": 194213,
+      "word": "花少7提前50天面试艺人",
+      "onboard_time": 1754809222,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 194141,
@@ -13105,6 +13145,14 @@
       "onboard_time": 1754126542,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188124,
+      "num": 136415,
+      "word": "户上说被世界第一王楚钦彻底压制",
+      "onboard_time": 1754811261,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 187991,
@@ -13920,6 +13968,14 @@
       "word": "释永信被查为全国佛教界敲响了警钟",
       "onboard_time": 1754566702,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180111,
+      "num": 187589,
+      "word": "原子弹蘑菇灯让日本网民破防",
+      "onboard_time": 1754806221,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -14787,14 +14843,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 171445,
-      "num": 187589,
-      "word": "原子弹蘑菇灯让日本网民破防",
-      "onboard_time": 1754806221,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171243,
       "num": 171243,
       "word": "贷款200多万进中药赚了36元",
@@ -14937,6 +14985,14 @@
       "onboard_time": 1754540544,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170071,
+      "num": 170071,
+      "word": "kspo",
+      "onboard_time": 1754810960,
+      "rank": 24,
+      "category": "演出,海外新闻"
     },
     {
       "raw_hot": 170026,
@@ -15257,6 +15313,14 @@
       "onboard_time": 1754717421,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167176,
+      "num": 134796,
+      "word": "真的建议朋友圈一定要趁早发",
+      "onboard_time": 1754811081,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 167130,
@@ -16689,14 +16753,6 @@
       "onboard_time": 1754134522,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156035,
-      "num": 156035,
-      "word": "花少7提前50天面试艺人",
-      "onboard_time": 1754809222,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 155955,
@@ -19107,6 +19163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140912,
+      "num": 140912,
+      "word": "李晟让小说里的清冷女主有脸了",
+      "onboard_time": 1754811441,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140851,
       "num": 186046,
       "word": "韩国歌手李敏去世",
@@ -19539,6 +19603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 138436,
+      "num": 138436,
+      "word": "被易烊千玺的动手能力硬控了",
+      "onboard_time": 1754811381,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138395,
       "num": 138395,
       "word": "晚上睡不着小心是腿的毛病",
@@ -19801,14 +19873,6 @@
       "onboard_time": 1754373142,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137298,
-      "num": 137298,
-      "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
-      "onboard_time": 1754809822,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137269,
@@ -20843,14 +20907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131757,
-      "num": 131757,
-      "word": "杨博文跳Rudeboy",
-      "onboard_time": 1754810422,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 131685,
       "num": 215104,
       "word": "霍建华是帅哥不是魔童",
@@ -20929,6 +20985,14 @@
       "onboard_time": 1754544864,
       "rank": 49,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 131310,
+      "num": 131310,
+      "word": "能看懂严浩翔的画 rapeter离人很远了",
+      "onboard_time": 1754811081,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 131288,
@@ -21113,6 +21177,14 @@
       "onboard_time": 1754802442,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130422,
+      "num": 134427,
+      "word": "老总要求200万月薪被投资人手撕",
+      "onboard_time": 1754809822,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130408,
@@ -21723,6 +21795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127388,
+      "num": 127388,
+      "word": "曹曦文女儿12岁近照",
+      "onboard_time": 1754809160,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127341,
       "num": 127341,
       "word": "盒马告别会员店",
@@ -22107,14 +22187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125691,
-      "num": 125691,
-      "word": "曹曦文女儿12岁近照",
-      "onboard_time": 1754809160,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "赵露思说知道仅在社交平台发声无用",
@@ -22137,6 +22209,14 @@
       "onboard_time": 1754555663,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125460,
+      "num": 125460,
+      "word": "穿越火线",
+      "onboard_time": 1754811441,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 125340,
@@ -22939,14 +23019,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 121277,
-      "num": 121277,
-      "word": "老总要求200万月薪被投资人手撕",
-      "onboard_time": 1754809822,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121260,
       "num": 600821,
       "word": "中国文化跨越山海",
@@ -23705,6 +23777,14 @@
       "onboard_time": 1754803822,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117632,
+      "num": 117632,
+      "word": "桃黑黑和陶白白不是情侣吗",
+      "onboard_time": 1754810660,
+      "rank": 49,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 117495,
@@ -25104,6 +25184,14 @@
       "word": "山姆回应芝士牛肉卷中吃出蟑螂",
       "onboard_time": 1754581943,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109975,
+      "num": 137837,
+      "word": "外卖大战钱烧完了会涨价吗",
+      "onboard_time": 1754810300,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -27531,14 +27619,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91750,
-      "num": 91750,
-      "word": "桃黑黑和陶白白不是情侣吗",
-      "onboard_time": 1754810660,
-      "rank": 49,
-      "category": "幽默,网红"
-    },
-    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "孙颖莎捐赠物资抵达河北",
@@ -28251,14 +28331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84158,
-      "num": 124788,
-      "word": "外卖大战钱烧完了会涨价吗",
-      "onboard_time": 1754810300,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84157,
       "num": 97320,
       "word": "孟子义对自己的脸非常有自信",
@@ -28651,6 +28723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79162,
+      "num": 125512,
+      "word": "日本男女杀室友后与尸体同住一年多",
+      "onboard_time": 1754810900,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79100,
       "num": 79100,
       "word": "锦月如歌爆改大男主复仇",
@@ -28768,14 +28848,6 @@
       "word": "22小时制酒店凭啥收24小时的钱",
       "onboard_time": 1754717543,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77436,
-      "num": 187202,
-      "word": "走路被开罚单了",
-      "onboard_time": 1754809882,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -32625,6 +32697,14 @@
       "onboard_time": 1754125103,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20931,
+      "num": 117141,
+      "word": "新疆宝宝从小解锁舞蹈天赋",
+      "onboard_time": 1754811501,
+      "rank": 44,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 20930,
