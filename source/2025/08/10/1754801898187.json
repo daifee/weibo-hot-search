@@ -1,0 +1,410 @@
+{
+  "runTime": 1754801898187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1367505,
+        "num": 1367505,
+        "word": "月薪2万吃不起百果园",
+        "onboard_time": 1754798900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872140,
+        "num": 872140,
+        "word": "花少7 全员淡人",
+        "onboard_time": 1754786300,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3070,
+        "num": 745435,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647323,
+        "num": 647323,
+        "word": "东北雨姐发博",
+        "onboard_time": 1754788699,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 425775,
+        "num": 425775,
+        "word": "云南大理一7岁小孩在苍山走失",
+        "onboard_time": 1754794880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352208,
+        "num": 352208,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1754800941,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360002,
+        "num": 351346,
+        "word": "张远回应至上励合不解散",
+        "onboard_time": 1754798122,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349246,
+        "num": 349246,
+        "word": "黄子韬上个节目确诊了",
+        "onboard_time": 1754798000,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329859,
+        "num": 329859,
+        "word": "眷思量",
+        "onboard_time": 1754797881,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 227395,
+        "num": 227395,
+        "word": "吴艳妮现身张艺兴演唱会",
+        "onboard_time": 1754796380,
+        "rank": 9,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 523235,
+        "num": 225760,
+        "word": "唐香玉 是卫生巾又怎样",
+        "onboard_time": 1754796981,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52256,
+        "num": 221598,
+        "word": "美国一名5岁女童中枪",
+        "onboard_time": 1754799621,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 336022,
+        "num": 217837,
+        "word": "赵奕欢哭到身上长荨麻疹",
+        "onboard_time": 1754796681,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296090,
+        "num": 217261,
+        "word": "董璇说结婚是梁静茹给的勇气",
+        "onboard_time": 1754796321,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278645,
+        "num": 211334,
+        "word": "马思纯在花少乖成这样了",
+        "onboard_time": 1754800160,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238791,
+        "num": 209565,
+        "word": "田栩宁杨迪合唱imissyou",
+        "onboard_time": 1754782757,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207640,
+        "num": 207640,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205538,
+        "num": 205538,
+        "word": "女子嫌私教课太贵让小孩哥教游泳",
+        "onboard_time": 1754786960,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203219,
+        "num": 203219,
+        "word": "百果园价格",
+        "onboard_time": 1754801061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203072,
+        "num": 203072,
+        "word": "画江湖之不良人",
+        "onboard_time": 1754797640,
+        "rank": 19,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 199292,
+        "num": 199292,
+        "word": "石洵瑶4比0蒯曼",
+        "onboard_time": 1754801661,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198314,
+        "num": 198314,
+        "word": "香奈儿简直是女王",
+        "onboard_time": 1754799021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195646,
+        "num": 195646,
+        "word": "鲁豫给张子枫买衣服",
+        "onboard_time": 1754795241,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180364,
+        "num": 180364,
+        "word": "马丽回忆和沈腾第一次见面",
+        "onboard_time": 1754801241,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168424,
+        "num": 168424,
+        "word": "恋与深空",
+        "onboard_time": 1754801241,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160522,
+        "num": 160522,
+        "word": "爱情公寓取景地15年的变化有多大",
+        "onboard_time": 1754790440,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158357,
+        "num": 158357,
+        "word": "我家那闺女记得要爱自己",
+        "onboard_time": 1754800882,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154317,
+        "num": 154317,
+        "word": "游客还原游览少林寺时遇大雨",
+        "onboard_time": 1754795061,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153410,
+        "num": 153410,
+        "word": "蒯曼vs石洵瑶",
+        "onboard_time": 1754799082,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146412,
+        "num": 146412,
+        "word": "明朝女设计师让全村用上自来水",
+        "onboard_time": 1754801001,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539032,
+        "num": 146261,
+        "word": "支付宝崩了",
+        "onboard_time": 1754794821,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145801,
+        "num": 145801,
+        "word": "感统失调",
+        "onboard_time": 1754800101,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139023,
+        "num": 139023,
+        "word": "罗小黑",
+        "onboard_time": 1754799742,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132413,
+        "num": 132413,
+        "word": "徐明浩说香奈儿具备成为艺人的条件",
+        "onboard_time": 1754800882,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131569,
+        "num": 131569,
+        "word": "无袖流行是对身体羞耻的反击",
+        "onboard_time": 1754781317,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126997,
+        "num": 126997,
+        "word": "关系降级",
+        "onboard_time": 1754791040,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125480,
+        "num": 125480,
+        "word": "以后朋友圈骂人能指名道姓吗",
+        "onboard_time": 1754801360,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120231,
+        "num": 120231,
+        "word": "警方回应7岁小孩在苍山走失",
+        "onboard_time": 1754799682,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "萧亚轩问音综为什么不能出现提词",
+        "onboard_time": 1754800401,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119450,
+        "num": 119450,
+        "word": "湖南一护士小姐姐因为勇敢收获爱情",
+        "onboard_time": 1754798662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118415,
+        "num": 118415,
+        "word": "洞洞鞋突然卖不动了",
+        "onboard_time": 1754783058,
+        "rank": 40,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 116256,
+        "num": 116256,
+        "word": "曹骏也是在凡人修仙传里开上炮了",
+        "onboard_time": 1754796801,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114454,
+        "num": 114454,
+        "word": "余承恩你不乘哦",
+        "onboard_time": 1754799142,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114012,
+        "num": 114012,
+        "word": "檀健次 十日终焉",
+        "onboard_time": 1754765595,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107149,
+        "num": 107149,
+        "word": "i miss you",
+        "onboard_time": 1754789120,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49154,
+        "num": 106462,
+        "word": "洞洞鞋巨头股价暴跌30%",
+        "onboard_time": 1754786060,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105850,
+        "num": 105850,
+        "word": "曝徐杰多次致人打胎",
+        "onboard_time": 1754783118,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105662,
+        "num": 105662,
+        "word": "内娱最全面的狗塑型群像",
+        "onboard_time": 1754801781,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101675,
+        "num": 101675,
+        "word": "披荆斩棘",
+        "onboard_time": 1754800401,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100465,
+        "num": 100465,
+        "word": "吴彦祖尹子维一不小心认识28年了",
+        "onboard_time": 1754799801,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
