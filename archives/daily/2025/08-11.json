@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754868351304,
+  "endTime": 1754869256414,
   "band_list": [
     {
       "raw_hot": 814259,
@@ -11,6 +11,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 791871,
+      "num": 138081,
+      "word": "张本智和取关早田希娜",
+      "onboard_time": 1754867958,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 728755,
       "num": 728755,
       "word": "展轩空降",
@@ -19,20 +27,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 603083,
-      "num": 826093,
+      "raw_hot": 723117,
+      "num": 955976,
       "word": "男子嫌太吵向楼下烧烤店泼不明液体",
       "onboard_time": 1754851155,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 577732,
-      "num": 125561,
-      "word": "张本智和取关早田希娜",
-      "onboard_time": 1754867958,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 481523,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368000,
+      "num": 368000,
+      "word": "男子偷580斤西瓜都吃光",
+      "onboard_time": 1754849356,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363585,
       "num": 180831,
       "word": "张本智和不满王皓握手敷衍",
@@ -65,14 +73,6 @@
       "onboard_time": 1754834663,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 326242,
-      "num": 326242,
-      "word": "男子偷580斤西瓜都吃光",
-      "onboard_time": 1754849356,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309509,
@@ -99,12 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302559,
+      "num": 302559,
+      "word": "商家称外卖大战月亏超万元",
+      "onboard_time": 1754867057,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290845,
       "num": 290845,
       "word": "利剑玫瑰第二季",
       "onboard_time": 1754837245,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269063,
+      "num": 269063,
+      "word": "陶白白前妻称如果为了钱就不会离婚",
+      "onboard_time": 1754848156,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 251182,
@@ -115,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243015,
-      "num": 243015,
-      "word": "陶白白前妻称如果为了钱就不会离婚",
-      "onboard_time": 1754848156,
-      "rank": 10,
-      "category": "网红"
+      "raw_hot": 226386,
+      "num": 132753,
+      "word": "麦琳直播哭了",
+      "onboard_time": 1754868198,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 201643,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145329,
+      "num": 145329,
+      "word": "陈奕迅",
+      "onboard_time": 1754867418,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142152,
       "num": 142152,
       "word": "女子看演出时遭猥亵嫌疑人被刑拘",
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124642,
+      "num": 124642,
+      "word": "妻子嫂子景德镇批发式购物狂买2000元",
+      "onboard_time": 1754827401,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115582,
       "num": 115582,
       "word": "社区盾杯",
@@ -227,20 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112778,
-      "num": 112778,
-      "word": "妻子嫂子景德镇批发式购物狂买2000元",
-      "onboard_time": 1754827401,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109098,
       "num": 109098,
       "word": "土耳其6.3级地震",
       "onboard_time": 1754848156,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104619,
+      "num": 104619,
+      "word": "办252桌婚宴后拒付52万当事方发声",
+      "onboard_time": 1754852535,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103632,
@@ -257,22 +289,6 @@
       "onboard_time": 1754840842,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97632,
-      "num": 97632,
-      "word": "陈奕迅",
-      "onboard_time": 1754867418,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 96089,
-      "num": 96089,
-      "word": "办252桌婚宴后拒付52万当事方发声",
-      "onboard_time": 1754852535,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96042,
@@ -299,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92772,
-      "num": 79295,
-      "word": "商家称外卖大战月亏超万元",
-      "onboard_time": 1754867057,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89792,
       "num": 89792,
       "word": "李河民大屏生图",
@@ -323,6 +331,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 88365,
+      "num": 88365,
+      "word": "百果园 钟薛高",
+      "onboard_time": 1754825003,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88224,
+      "num": 88372,
+      "word": "藏海传韩国首张海报公开",
+      "onboard_time": 1754862314,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87854,
       "num": 87854,
       "word": "汪苏泷这段完全是婚礼VCR",
@@ -331,12 +355,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 87332,
-      "num": 87332,
-      "word": "藏海传韩国首张海报公开",
-      "onboard_time": 1754862314,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 85424,
+      "num": 85424,
+      "word": "感到疲惫要主动扔掉这2样东西",
+      "onboard_time": 1754866997,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 84986,
@@ -379,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76055,
-      "num": 76055,
-      "word": "百果园 钟薛高",
-      "onboard_time": 1754825003,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75728,
       "num": 75728,
       "word": "社区盾杯决赛",
@@ -401,6 +417,14 @@
       "onboard_time": 1754806700,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73010,
+      "num": 73010,
+      "word": "溺亡女童左腿被回水管吸住",
+      "onboard_time": 1754828783,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72643,
@@ -427,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68253,
-      "num": 68253,
-      "word": "感到疲惫要主动扔掉这2样东西",
-      "onboard_time": 1754866997,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 67439,
       "num": 67439,
       "word": "为什么叫我法拉利",
@@ -443,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66696,
-      "num": 66696,
-      "word": "溺亡女童左腿被回水管吸住",
-      "onboard_time": 1754828783,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65950,
       "num": 65950,
       "word": "早春晴朗男主85生",
       "onboard_time": 1754838744,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65465,
+      "num": 65465,
+      "word": "吃到腾讯芒果商战红利了",
+      "onboard_time": 1754827281,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 64108,
@@ -483,28 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62941,
+      "num": 62941,
+      "word": "早餐摄入低碳水全天血糖都稳住",
+      "onboard_time": 1754863934,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62557,
       "num": 62557,
       "word": "水晶宫vs利物浦",
       "onboard_time": 1754835325,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62076,
-      "num": 63000,
-      "word": "吃到腾讯芒果商战红利了",
-      "onboard_time": 1754827281,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 60289,
-      "num": 60289,
-      "word": "早餐摄入低碳水全天血糖都稳住",
-      "onboard_time": 1754863934,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 58243,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 48210,
-      "num": 48210,
+      "num": 62539,
       "word": "WTT横滨冠军赛2025",
       "onboard_time": 1754854155,
       "rank": 37,
@@ -531,12 +539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41062,
+      "num": 62558,
+      "word": "宁夏灵武2.4级地震",
+      "onboard_time": 1754869040,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39561,
-      "num": 39561,
+      "num": 62526,
       "word": "孙颖莎说今天回去要多吃一点",
       "onboard_time": 1754851816,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 39238,
+      "num": 62544,
+      "word": "无可替代",
+      "onboard_time": 1754868439,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 37463,
@@ -555,16 +579,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36954,
-      "num": 38799,
-      "word": "麦琳直播哭了",
-      "onboard_time": 1754868198,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36831,
-      "num": 44391,
+      "num": 62531,
       "word": "土耳其6.3级地震1死29伤",
       "onboard_time": 1754868139,
       "rank": 38,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 24021,
-      "num": 351356,
+      "num": 383311,
       "word": "来天津感受河海津韵",
       "onboard_time": 1754831362,
       "rank": 2,

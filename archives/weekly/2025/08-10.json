@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754868351304,
+  "endTime": 1754869256414,
   "band_list": [
     {
       "raw_hot": 1818650,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791871,
+      "num": 138081,
+      "word": "张本智和取关早田希娜",
+      "onboard_time": 1754867958,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 766064,
       "num": 766064,
       "word": "女子看演出时遭猥亵嫌疑人被刑拘",
@@ -249,6 +257,14 @@
       "onboard_time": 1754746763,
       "rank": 3,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 723117,
+      "num": 955976,
+      "word": "男子嫌太吵向楼下烧烤店泼不明液体",
+      "onboard_time": 1754851155,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 694779,
@@ -323,14 +339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 603083,
-      "num": 826093,
-      "word": "男子嫌太吵向楼下烧烤店泼不明液体",
-      "onboard_time": 1754851155,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 599187,
       "num": 286971,
       "word": "唐香玉 是卫生巾又怎样",
@@ -353,14 +361,6 @@
       "onboard_time": 1754794880,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 577732,
-      "num": 125561,
-      "word": "张本智和取关早田希娜",
-      "onboard_time": 1754867958,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 571846,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368000,
+      "num": 368000,
+      "word": "男子偷580斤西瓜都吃光",
+      "onboard_time": 1754849356,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362646,
       "num": 362646,
       "word": "眷思量",
@@ -715,14 +723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 326242,
-      "num": 326242,
-      "word": "男子偷580斤西瓜都吃光",
-      "onboard_time": 1754849356,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 326235,
       "num": 326235,
       "word": "AG战胜狼队",
@@ -785,6 +785,14 @@
       "onboard_time": 1754809222,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302559,
+      "num": 302559,
+      "word": "商家称外卖大战月亏超万元",
+      "onboard_time": 1754867057,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301028,
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269063,
+      "num": 269063,
+      "word": "陶白白前妻称如果为了钱就不会离婚",
+      "onboard_time": 1754848156,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 267267,
       "num": 267267,
       "word": "黄璐孔大山恋情",
@@ -977,14 +993,6 @@
       "onboard_time": 1754796380,
       "rank": 13,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 243015,
-      "num": 243015,
-      "word": "陶白白前妻称如果为了钱就不会离婚",
-      "onboard_time": 1754848156,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 242582,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1754765595,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226386,
+      "num": 132753,
+      "word": "麦琳直播哭了",
+      "onboard_time": 1754868198,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 223227,
@@ -1937,6 +1953,14 @@
       "onboard_time": 1754811441,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145329,
+      "num": 145329,
+      "word": "陈奕迅",
+      "onboard_time": 1754867418,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 144870,
@@ -3115,6 +3139,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 104619,
+      "num": 104619,
+      "word": "办252桌婚宴后拒付52万当事方发声",
+      "onboard_time": 1754852535,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103944,
       "num": 103944,
       "word": "不要在喝水的时候看龚俊这段",
@@ -3251,14 +3283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97632,
-      "num": 97632,
-      "word": "陈奕迅",
-      "onboard_time": 1754867418,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97515,
       "num": 97515,
       "word": "养了4年的仓鼠每天还坚持跑步",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1754840002,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96089,
-      "num": 96089,
-      "word": "办252桌婚宴后拒付52万当事方发声",
-      "onboard_time": 1754852535,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95769,
@@ -3369,14 +3385,6 @@
       "onboard_time": 1754825781,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92772,
-      "num": 79295,
-      "word": "商家称外卖大战月亏超万元",
-      "onboard_time": 1754867057,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92749,
@@ -3467,20 +3475,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88224,
+      "num": 88372,
+      "word": "藏海传韩国首张海报公开",
+      "onboard_time": 1754862314,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87352,
       "num": 87352,
       "word": "日本老人奔走16年拼凑中国英雄一生",
       "onboard_time": 1754752704,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87332,
-      "num": 87332,
-      "word": "藏海传韩国首张海报公开",
-      "onboard_time": 1754862314,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 87198,
@@ -3537,6 +3545,14 @@
       "onboard_time": 1754808442,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85424,
+      "num": 85424,
+      "word": "感到疲惫要主动扔掉这2样东西",
+      "onboard_time": 1754866997,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 85414,
@@ -3683,14 +3699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68253,
-      "num": 68253,
-      "word": "感到疲惫要主动扔掉这2样东西",
-      "onboard_time": 1754866997,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 67862,
       "num": 96778,
       "word": "去年外地人鹤岗购房5680套",
@@ -3731,20 +3739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62941,
+      "num": 62941,
+      "word": "早餐摄入低碳水全天血糖都稳住",
+      "onboard_time": 1754863934,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61563,
       "num": 85361,
       "word": "被逆行女子剐蹭小伙教科书式回答",
       "onboard_time": 1754753783,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60289,
-      "num": 60289,
-      "word": "早餐摄入低碳水全天血糖都稳住",
-      "onboard_time": 1754863934,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 58991,
@@ -3820,7 +3828,7 @@
     },
     {
       "raw_hot": 48210,
-      "num": 48210,
+      "num": 62539,
       "word": "WTT横滨冠军赛2025",
       "onboard_time": 1754854155,
       "rank": 37,
@@ -3883,6 +3891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41062,
+      "num": 62558,
+      "word": "宁夏灵武2.4级地震",
+      "onboard_time": 1754869040,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40588,
       "num": 54948,
       "word": "张康乐喊你出招",
@@ -3900,11 +3916,19 @@
     },
     {
       "raw_hot": 39561,
-      "num": 39561,
+      "num": 62526,
       "word": "孙颖莎说今天回去要多吃一点",
       "onboard_time": 1754851816,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 39238,
+      "num": 62544,
+      "word": "无可替代",
+      "onboard_time": 1754868439,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 37463,
@@ -3931,16 +3955,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36954,
-      "num": 38799,
-      "word": "麦琳直播哭了",
-      "onboard_time": 1754868198,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36831,
-      "num": 44391,
+      "num": 62531,
       "word": "土耳其6.3级地震1死29伤",
       "onboard_time": 1754868139,
       "rank": 38,
@@ -4108,7 +4124,7 @@
     },
     {
       "raw_hot": 24021,
-      "num": 351356,
+      "num": 383311,
       "word": "来天津感受河海津韵",
       "onboard_time": 1754831362,
       "rank": 2,
