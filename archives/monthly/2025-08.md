@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/11 00:48:31
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/11 01:23:07
 </p>
 </blockquote>
 <p>
@@ -5979,6 +5979,12 @@ smtown（热度：322061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E8%AF%AF%E5%B0%86660%E4%B8%87%E5%BD%A9%E7%A5%A8%E6%B4%97%E6%88%90%E6%B8%A3%23" target="weibo">
+店员回应男子误将660万彩票洗成渣（热度：308731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%BE%AE%E4%BF%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%BE%8B%E5%A4%AA%E5%A5%BD%E7%94%A8%E4%BA%86%23" target="weibo">
 用微信记录自律太好用了（热度：308578）
 </a>
@@ -6005,12 +6011,6 @@ smtown（热度：322061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%AF%8F%E5%B9%B4%E9%83%BD%E6%97%A0%E7%BC%9D%E8%BF%9B%E7%BB%84%23" target="weibo">
 肖战每年都无缝进组（热度：307322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%AB%A0%E6%98%8A%E5%8F%8C%E4%BA%BA%E8%88%9E%23" target="weibo">
-宋雨琦章昊双人舞（热度：307103）
 </a>
 </li>
 
