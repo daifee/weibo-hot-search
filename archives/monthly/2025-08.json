@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754835877577,
+  "endTime": 1754837007975,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -625,6 +625,14 @@
       "onboard_time": 1754130324,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1818650,
+      "num": 1818650,
+      "word": "全球首个孕育机器人预计一年内面世",
+      "onboard_time": 1754834303,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1787330,
@@ -3059,14 +3067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 719406,
-      "num": 719406,
-      "word": "全球首个孕育机器人预计一年内面世",
-      "onboard_time": 1754834303,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 719151,
       "num": 564436,
       "word": "虞书欣全开麦唱跳",
@@ -4531,6 +4531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560544,
+      "num": 560544,
+      "word": "虞书欣机场私服好健康的美",
+      "onboard_time": 1754831663,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560464,
       "num": 492071,
       "word": "倪萍说董璇不应该结婚",
@@ -5179,6 +5187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 487287,
+      "num": 487287,
+      "word": "那英去花少带了更年期的药",
+      "onboard_time": 1754831362,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486873,
       "num": 486873,
       "word": "我国在艾滋病疫苗研发领域取得重要进展",
@@ -5515,6 +5531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 459415,
+      "num": 459415,
+      "word": "溺亡女童左腿被回水管吸住",
+      "onboard_time": 1754828783,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458813,
       "num": 458813,
       "word": "名古屋市市长希望与南京恢复交流",
@@ -5779,14 +5803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436378,
-      "num": 436378,
-      "word": "虞书欣机场私服好健康的美",
-      "onboard_time": 1754831663,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 434976,
       "num": 240418,
       "word": "苏醒含银量",
@@ -6033,6 +6049,14 @@
       "onboard_time": 1754463806,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412331,
+      "num": 412331,
+      "word": "于正说赵露思很好",
+      "onboard_time": 1754834123,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 411579,
@@ -6329,14 +6353,6 @@
       "onboard_time": 1754651361,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 395299,
-      "num": 395299,
-      "word": "那英去花少带了更年期的药",
-      "onboard_time": 1754831362,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 394074,
@@ -6944,14 +6960,6 @@
       "word": "河南遭遇旱情",
       "onboard_time": 1754360722,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 359285,
-      "num": 359285,
-      "word": "溺亡女童左腿被回水管吸住",
-      "onboard_time": 1754828783,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -8891,14 +8899,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268685,
-      "num": 268685,
-      "word": "于正说赵露思很好",
-      "onboard_time": 1754834123,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268511,
       "num": 261171,
       "word": "卡琳娜cos樱木花道",
@@ -10049,6 +10049,14 @@
       "onboard_time": 1754204964,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234878,
+      "num": 234878,
+      "word": "女子试穿4条裤子留下血渍赔50元",
+      "onboard_time": 1754835024,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234863,
@@ -12595,6 +12603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197609,
+      "num": 197609,
+      "word": "蔡徐坤 Jasmine",
+      "onboard_time": 1754834663,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197589,
       "num": 197589,
       "word": "张函瑞饭撒",
@@ -13305,14 +13321,6 @@
       "onboard_time": 1754399243,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191932,
-      "num": 191932,
-      "word": "蔡徐坤 Jasmine",
-      "onboard_time": 1754834663,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 191800,
@@ -14201,6 +14209,14 @@
       "onboard_time": 1754226805,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182305,
+      "num": 182305,
+      "word": "粉丝让李荣浩冒充家长签字",
+      "onboard_time": 1754835504,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 182208,
@@ -15419,6 +15435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170957,
+      "num": 170957,
+      "word": "陈哲远这次是真老公",
+      "onboard_time": 1754833403,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170858,
       "num": 170858,
       "word": "加沙正逐渐被抹去",
@@ -16395,14 +16419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162767,
-      "num": 162767,
-      "word": "陈哲远这次是真老公",
-      "onboard_time": 1754833403,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162712,
       "num": 162712,
       "word": "问界M8交付突破6万台",
@@ -17072,6 +17088,14 @@
       "word": "现实版南京照相馆还在境外上演",
       "onboard_time": 1754723421,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158430,
+      "num": 158430,
+      "word": "社保新规对打工人有何影响",
+      "onboard_time": 1754835805,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -20723,6 +20747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137001,
+      "num": 137762,
+      "word": "高档酒店价格集体跳水",
+      "onboard_time": 1754835805,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136946,
       "num": 136946,
       "word": "胖东来回应招聘服刑人员",
@@ -21459,6 +21491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133429,
+      "num": 133429,
+      "word": "李兰迪全透明人生好萌啊",
+      "onboard_time": 1754834485,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133416,
       "num": 133416,
       "word": "猫 冰箱冻手不能摸",
@@ -21801,14 +21841,6 @@
       "onboard_time": 1754109141,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131485,
-      "num": 131485,
-      "word": "粉丝让李荣浩冒充家长签字",
-      "onboard_time": 1754835504,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 131481,
@@ -23251,6 +23283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124746,
+      "num": 124746,
+      "word": "天霸夏季赛第四周冠军",
+      "onboard_time": 1754836404,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124709,
       "num": 351266,
       "word": "多所学校回应毁约新聘教师",
@@ -24611,6 +24651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118627,
+      "num": 118627,
+      "word": "周深若梦现场像仙侠片",
+      "onboard_time": 1754836284,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 118572,
+      "num": 118572,
+      "word": "2025LPL",
+      "onboard_time": 1754836822,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118564,
       "num": 118564,
       "word": "孙颖莎从没想过缓一缓",
@@ -24705,6 +24761,14 @@
       "onboard_time": 1754287102,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118118,
+      "num": 118118,
+      "word": "唐三小舞一出手就是大院线",
+      "onboard_time": 1754836045,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 118094,
@@ -25739,14 +25803,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 112612,
-      "num": 137398,
-      "word": "女子试穿4条裤子留下血渍赔50元",
-      "onboard_time": 1754835024,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112600,
       "num": 112600,
       "word": "王者诸葛亮有小翅膀",
@@ -26009,6 +26065,14 @@
       "onboard_time": 1754809882,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111469,
+      "num": 111469,
+      "word": "BLG对战WE",
+      "onboard_time": 1754836342,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 111406,
@@ -26355,6 +26419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109816,
+      "num": 109816,
+      "word": "王烁然 四代",
+      "onboard_time": 1754836884,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109795,
       "num": 109795,
       "word": "90后妈妈带两岁娃徒步34公里",
@@ -26497,6 +26569,14 @@
       "onboard_time": 1754718262,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109091,
+      "num": 109091,
+      "word": "实体书显贵穿搭",
+      "onboard_time": 1754836705,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 108961,
@@ -26649,14 +26729,6 @@
       "onboard_time": 1754609060,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107867,
-      "num": 107867,
-      "word": "社保新规对打工人有何影响",
-      "onboard_time": 1754835805,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107743,
@@ -29545,14 +29617,6 @@
       "onboard_time": 1754808442,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85485,
-      "num": 137762,
-      "word": "高档酒店价格集体跳水",
-      "onboard_time": 1754835805,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85441,
@@ -32489,6 +32553,14 @@
       "onboard_time": 1754454083,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43410,
+      "num": 128474,
+      "word": "男子疑将660万彩票丢进洗衣机",
+      "onboard_time": 1754836523,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43269,
