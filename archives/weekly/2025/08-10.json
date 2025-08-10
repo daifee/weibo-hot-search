@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754857746569,
+  "endTime": 1754858577469,
   "band_list": [
     {
       "raw_hot": 1818650,
@@ -4011,6 +4011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22734,
+      "num": 29910,
+      "word": "地球超新鲜",
+      "onboard_time": 1754853195,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22562,
       "num": 28975,
       "word": "公司回应外卖员被曝偷拍女生洗澡",
@@ -4033,14 +4041,6 @@
       "onboard_time": 1754818221,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21589,
-      "num": 29910,
-      "word": "地球超新鲜",
-      "onboard_time": 1754853195,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 20931,
