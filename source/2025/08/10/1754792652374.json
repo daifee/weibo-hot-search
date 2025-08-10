@@ -1,0 +1,410 @@
+{
+  "runTime": 1754792652374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1293558,
+        "num": 1293558,
+        "word": "花少7 全员淡人",
+        "onboard_time": 1754786300,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 647303,
+        "num": 647303,
+        "word": "女子嫌私教课太贵让小孩哥教游泳",
+        "onboard_time": 1754786960,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3014,
+        "num": 541144,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1153882,
+        "num": 521865,
+        "word": "东北雨姐发博",
+        "onboard_time": 1754788699,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 459232,
+        "num": 459232,
+        "word": "警方通报女子带娃遛弯遭多人打配合偷走手机",
+        "onboard_time": 1754790440,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 328503,
+        "num": 328503,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523047,
+        "num": 328150,
+        "word": "田栩宁杨迪合唱imissyou",
+        "onboard_time": 1754782757,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325056,
+        "num": 325056,
+        "word": "i miss you",
+        "onboard_time": 1754789120,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290265,
+        "num": 290265,
+        "word": "抗战胜利80周年大会第一次演练结束",
+        "onboard_time": 1754782937,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138443,
+        "num": 242773,
+        "word": "美国允许普京入境是比较大的让步",
+        "onboard_time": 1754786180,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 542157,
+        "num": 234922,
+        "word": "无袖流行是对身体羞耻的反击",
+        "onboard_time": 1754781317,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418891,
+        "num": 234579,
+        "word": "曝徐杰多次致人打胎",
+        "onboard_time": 1754783118,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226398,
+        "num": 226398,
+        "word": "檀健次 十日终焉",
+        "onboard_time": 1754765595,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218170,
+        "num": 218170,
+        "word": "侵华日军荣字1644部队细菌战证据公布",
+        "onboard_time": 1754790381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195896,
+        "num": 195896,
+        "word": "男子离家前吐西瓜籽回来时满院西瓜",
+        "onboard_time": 1754751564,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192504,
+        "num": 192504,
+        "word": "上海月薪9000礼宾保安的生活",
+        "onboard_time": 1754787019,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170132,
+        "num": 170132,
+        "word": "关系降级",
+        "onboard_time": 1754791040,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "领事馆通报中国留学生在澳遭围殴",
+        "onboard_time": 1754786419,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160128,
+        "num": 160128,
+        "word": "徐杰 赌球",
+        "onboard_time": 1754751205,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158865,
+        "num": 158865,
+        "word": "田曦薇美成这样",
+        "onboard_time": 1754746763,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 285932,
+        "num": 158217,
+        "word": "洞洞鞋突然卖不动了",
+        "onboard_time": 1754783058,
+        "rank": 20,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 267120,
+        "num": 158170,
+        "word": "爱情公寓取景地15年的变化有多大",
+        "onboard_time": 1754790440,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244261,
+        "num": 157981,
+        "word": "巴西情侣悬崖边亲热坠崖身亡",
+        "onboard_time": 1754754563,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157328,
+        "num": 157328,
+        "word": "小沈阳说鹿晗就在旁边唱的",
+        "onboard_time": 1754781618,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154530,
+        "num": 154530,
+        "word": "陶白白 爱到最后都一样",
+        "onboard_time": 1754753125,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150948,
+        "num": 150948,
+        "word": "男子出国陷入香艳女郎陷阱成间谍",
+        "onboard_time": 1754786060,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133673,
+        "num": 133673,
+        "word": "前车故障后车智驾径直撞上致2死",
+        "onboard_time": 1754790800,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124111,
+        "num": 124111,
+        "word": "群殴在澳留学生肇事者已被全部抓获",
+        "onboard_time": 1754786060,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123885,
+        "num": 123885,
+        "word": "用微信记录自律太好用了",
+        "onboard_time": 1754754982,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120711,
+        "num": 120711,
+        "word": "小鹏汽车被曝私自使用车主5000积分",
+        "onboard_time": 1754791040,
+        "rank": 29,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 120214,
+        "num": 120214,
+        "word": "陈熠vs王艺迪",
+        "onboard_time": 1754791822,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114170,
+        "num": 114170,
+        "word": "约基奇23分19篮板",
+        "onboard_time": 1754792060,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112427,
+        "num": 112427,
+        "word": "换一换主食降低全身炎症水平",
+        "onboard_time": 1754790680,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108757,
+        "num": 108757,
+        "word": "花少7",
+        "onboard_time": 1754790561,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106649,
+        "num": 106649,
+        "word": "马琳调侃想让孙颖莎再多打一局",
+        "onboard_time": 1754790440,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102616,
+        "num": 102616,
+        "word": "大爷摆摊自称送20万现金无人敢拿",
+        "onboard_time": 1754755282,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102546,
+        "num": 102546,
+        "word": "洗洁精直接抹碗有害",
+        "onboard_time": 1754789181,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100065,
+        "num": 100065,
+        "word": "女子不堪家暴杀死丈夫获刑15年",
+        "onboard_time": 1754792421,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95622,
+        "num": 95622,
+        "word": "母子用音响辱骂儿媳双双被拘9天",
+        "onboard_time": 1754791879,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61368,
+        "num": 94997,
+        "word": "趵突泉景区一男子后仰落水",
+        "onboard_time": 1754792001,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94767,
+        "num": 94767,
+        "word": "谢霆锋演唱会烤肠卖爆",
+        "onboard_time": 1754789060,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94407,
+        "num": 94407,
+        "word": "加沙超1700人领物资遇难",
+        "onboard_time": 1754786960,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89779,
+        "num": 89779,
+        "word": "张艺兴把粉丝送的桃子带上了舞台",
+        "onboard_time": 1754792481,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85739,
+        "num": 85739,
+        "word": "洞洞鞋巨头股价暴跌30%",
+        "onboard_time": 1754786060,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84529,
+        "num": 84529,
+        "word": "失忆蝴蝶",
+        "onboard_time": 1754791461,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85840,
+        "num": 83413,
+        "word": "谢霆锋唱香水全场飘起蒂芙尼香水",
+        "onboard_time": 1754784198,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81998,
+        "num": 81998,
+        "word": "老总提议给自己发200万固定月薪被批",
+        "onboard_time": 1754755282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79051,
+        "num": 79051,
+        "word": "成都暴雨",
+        "onboard_time": 1754782158,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77880,
+        "num": 77880,
+        "word": "医生回应将患者红包存入住院费",
+        "onboard_time": 1754790320,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75693,
+        "num": 75693,
+        "word": "拿奶茶店车祸玩梗别把冷漠当幽默",
+        "onboard_time": 1754786060,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
