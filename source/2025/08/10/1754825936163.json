@@ -1,0 +1,410 @@
+{
+  "runTime": 1754825936163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555167,
+        "num": 1555167,
+        "word": "张本智和告状",
+        "onboard_time": 1754822181,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1211113,
+        "num": 1211113,
+        "word": "向往的生活8 丁程鑫",
+        "onboard_time": 1754821161,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47261,
+        "num": 927420,
+        "word": "榆中已转移安置9800多人",
+        "onboard_time": 1754799801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753190,
+        "num": 753190,
+        "word": "杭州警方通报某演出场所发生猥亵事件",
+        "onboard_time": 1754821761,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 509676,
+        "num": 509676,
+        "word": "洞洞鞋",
+        "onboard_time": 1754821340,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 451418,
+        "num": 451418,
+        "word": "鹤岗开发百万元高档小区",
+        "onboard_time": 1754821221,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353895,
+        "num": 353895,
+        "word": "真的建议朋友圈一定要趁早发",
+        "onboard_time": 1754811081,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322073,
+        "num": 322073,
+        "word": "刘宇宁工作室必有高人指点",
+        "onboard_time": 1754823023,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310589,
+        "num": 310589,
+        "word": "抠抠搜搜8年抠了49万",
+        "onboard_time": 1754806700,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157190,
+        "num": 281199,
+        "word": "6岁女童溺毙于深不到膝盖戏水池",
+        "onboard_time": 1754818282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1423143,
+        "num": 277831,
+        "word": "张本智和不满王皓握手敷衍",
+        "onboard_time": 1754823501,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471357,
+        "num": 275506,
+        "word": "关晓彤瘦了十几斤",
+        "onboard_time": 1754801901,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254638,
+        "num": 254638,
+        "word": "张晋心脏做了支架",
+        "onboard_time": 1754823862,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249441,
+        "num": 249441,
+        "word": "向往的生活8",
+        "onboard_time": 1754824342,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248924,
+        "num": 248924,
+        "word": "26岁男子勒死73岁情人水泥埋尸",
+        "onboard_time": 1754817442,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333295,
+        "num": 247848,
+        "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+        "onboard_time": 1754812221,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222350,
+        "num": 222350,
+        "word": "那英真回答了你又不乐意",
+        "onboard_time": 1754818702,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174417,
+        "num": 221039,
+        "word": "百果园一年闭店近千家",
+        "onboard_time": 1754824101,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710828,
+        "num": 207888,
+        "word": "张晋和蔡少芬国外旅行突发心脏病",
+        "onboard_time": 1754810061,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137327,
+        "num": 198379,
+        "word": "37岁救人牺牲男子被确认见义勇为",
+        "onboard_time": 1754824522,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 281947,
+        "num": 190696,
+        "word": "杨洋 谁说演员不能直视镜头",
+        "onboard_time": 1754812881,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188844,
+        "num": 188844,
+        "word": "删好友不会被发现的方法",
+        "onboard_time": 1754822122,
+        "rank": 21,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 186148,
+        "num": 186148,
+        "word": "TTG首个锁定胜者组",
+        "onboard_time": 1754825424,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179721,
+        "num": 179721,
+        "word": "刘诗诗红发大波浪",
+        "onboard_time": 1754815100,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177867,
+        "num": 177867,
+        "word": "燥候尚公主",
+        "onboard_time": 1754823682,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160216,
+        "num": 160216,
+        "word": "孙颖莎抹把脸下班",
+        "onboard_time": 1754824221,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148884,
+        "num": 148884,
+        "word": "梁家辉又收到了labubu",
+        "onboard_time": 1754824702,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136546,
+        "num": 136546,
+        "word": "王玉雯眼里全是对卡点失败的自豪",
+        "onboard_time": 1754825361,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133133,
+        "num": 133133,
+        "word": "斗罗大陆",
+        "onboard_time": 1754817982,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129558,
+        "num": 129558,
+        "word": "孙怡 婚姻需要勇气",
+        "onboard_time": 1754820202,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136728,
+        "num": 129463,
+        "word": "王楚钦神仙球把曹巍看激动了",
+        "onboard_time": 1754824221,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128672,
+        "num": 128672,
+        "word": "时代少年团抢票",
+        "onboard_time": 1754821580,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116698,
+        "num": 116698,
+        "word": "韩国博主称歼20戏耍日韩雷达",
+        "onboard_time": 1754823742,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111314,
+        "num": 111314,
+        "word": "女将星预售",
+        "onboard_time": 1754825481,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 110818,
+        "num": 110818,
+        "word": "官方通报搜救在大理走失8岁男童进度",
+        "onboard_time": 1754818823,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108052,
+        "num": 108052,
+        "word": "孙颖莎回应4比0大藤沙月",
+        "onboard_time": 1754825781,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104905,
+        "num": 104905,
+        "word": "孙颖莎4比0大藤沙月",
+        "onboard_time": 1754821943,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104894,
+        "num": 104894,
+        "word": "孙颖莎说没有想的这么轻松",
+        "onboard_time": 1754823622,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103388,
+        "num": 103388,
+        "word": "男子拒付52万婚宴食材款事件后续",
+        "onboard_time": 1754820082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77158,
+        "num": 100846,
+        "word": "百果园 钟薛高",
+        "onboard_time": 1754825003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99340,
+        "num": 99340,
+        "word": "TF四代热血群像",
+        "onboard_time": 1754825182,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97870,
+        "num": 97870,
+        "word": "刘宇宁一个人就是一个动物世界",
+        "onboard_time": 1754825242,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93847,
+        "num": 93847,
+        "word": "婚内强奸案当事夫妻仍未离婚",
+        "onboard_time": 1754824281,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92812,
+        "num": 92812,
+        "word": "舞蹈界来了个龚俊",
+        "onboard_time": 1754825781,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90139,
+        "num": 90139,
+        "word": "燕云十六声 逆水寒",
+        "onboard_time": 1754819002,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89743,
+        "num": 89743,
+        "word": "孙颖莎vs大藤沙月",
+        "onboard_time": 1754819603,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88829,
+        "num": 88829,
+        "word": "张予曦妈妈给女儿定制88道菜菜单",
+        "onboard_time": 1754818942,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86825,
+        "num": 86825,
+        "word": "杨幂倪大红新剧三声三誓",
+        "onboard_time": 1754819842,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86328,
+        "num": 86328,
+        "word": "谁敢信蒋欣穿的是同一件衬衫",
+        "onboard_time": 1754801961,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85868,
+        "num": 85868,
+        "word": "谁说电子竞技不需要视力",
+        "onboard_time": 1754823261,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化人以文兴业#"
+    }
+  }
+}

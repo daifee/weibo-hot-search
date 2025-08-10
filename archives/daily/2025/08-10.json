@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754824955918,
+  "endTime": 1754825936163,
   "band_list": [
     {
       "raw_hot": 1701905,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1423143,
+      "num": 326633,
+      "word": "张本智和不满王皓握手敷衍",
+      "onboard_time": 1754823501,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1293558,
       "num": 1293558,
       "word": "花少7 全员淡人",
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1211113,
+      "num": 1211113,
+      "word": "向往的生活8 丁程鑫",
+      "onboard_time": 1754821161,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1153882,
       "num": 647323,
       "word": "东北雨姐发博",
@@ -65,14 +81,6 @@
       "onboard_time": 1754751205,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1117563,
-      "num": 1117563,
-      "word": "向往的生活8 丁程鑫",
-      "onboard_time": 1754821161,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 1109692,
@@ -105,14 +113,6 @@
       "onboard_time": 1754806700,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 951070,
-      "num": 326633,
-      "word": "张本智和不满王皓握手敷衍",
-      "onboard_time": 1754823501,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 878359,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 509676,
+      "num": 509676,
+      "word": "洞洞鞋",
+      "onboard_time": 1754821340,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 507149,
       "num": 359108,
       "word": "赵奕欢哭到身上长荨麻疹",
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451418,
+      "num": 451418,
+      "word": "鹤岗开发百万元高档小区",
+      "onboard_time": 1754821221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446366,
       "num": 446366,
       "word": "26岁男子勒死73岁情人水泥埋尸",
@@ -400,14 +416,6 @@
       "word": "男子离家前吐西瓜籽回来时满院西瓜",
       "onboard_time": 1754751564,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424804,
-      "num": 424804,
-      "word": "鹤岗开发百万元高档小区",
-      "onboard_time": 1754821221,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -505,6 +513,14 @@
       "onboard_time": 1754789120,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322073,
+      "num": 322073,
+      "word": "刘宇宁工作室必有高人指点",
+      "onboard_time": 1754823023,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 314528,
@@ -659,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268953,
-      "num": 268953,
-      "word": "刘宇宁工作室必有高人指点",
-      "onboard_time": 1754823023,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267267,
       "num": 267267,
       "word": "黄璐孔大山恋情",
@@ -691,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258190,
-      "num": 258190,
-      "word": "洞洞鞋",
-      "onboard_time": 1754821340,
-      "rank": 34,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 256825,
       "num": 378912,
       "word": "6岁女童溺毙于深不到膝盖戏水池",
@@ -713,6 +713,14 @@
       "onboard_time": 1754804003,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249441,
+      "num": 249441,
+      "word": "向往的生活8",
+      "onboard_time": 1754824342,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 245455,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 191800,
-      "num": 147794,
+      "num": 160216,
       "word": "孙颖莎抹把脸下班",
       "onboard_time": 1754824221,
       "rank": 31,
@@ -985,6 +993,14 @@
       "onboard_time": 1754755282,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188844,
+      "num": 188844,
+      "word": "删好友不会被发现的方法",
+      "onboard_time": 1754822122,
+      "rank": 47,
+      "category": "互联网,情感"
     },
     {
       "raw_hot": 188124,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1754805201,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186148,
+      "num": 186148,
+      "word": "TTG首个锁定胜者组",
+      "onboard_time": 1754825424,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 184786,
@@ -1047,14 +1071,6 @@
       "num": 180364,
       "word": "马丽回忆和沈腾第一次见面",
       "onboard_time": 1754801241,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 180182,
-      "num": 180182,
-      "word": "向往的生活8",
-      "onboard_time": 1754824342,
       "rank": 23,
       "category": "综艺"
     },
@@ -1129,6 +1145,14 @@
       "onboard_time": 1754796620,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174417,
+      "num": 221039,
+      "word": "百果园一年闭店近千家",
+      "onboard_time": 1754824101,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173245,
@@ -1323,14 +1347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 154470,
-      "num": 154470,
-      "word": "百果园一年闭店近千家",
-      "onboard_time": 1754824101,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154185,
       "num": 154185,
       "word": "朱志鑫在披哥发全员收官长文",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1754799082,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152843,
-      "num": 152843,
-      "word": "删好友不会被发现的方法",
-      "onboard_time": 1754822122,
-      "rank": 47,
-      "category": "互联网,情感"
     },
     {
       "raw_hot": 152170,
@@ -1393,6 +1401,14 @@
       "onboard_time": 1754797101,
       "rank": 34,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 148884,
+      "num": 148884,
+      "word": "梁家辉又收到了labubu",
+      "onboard_time": 1754824702,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 147894,
@@ -1563,12 +1579,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137327,
+      "num": 199189,
+      "word": "37岁救人牺牲男子被确认见义勇为",
+      "onboard_time": 1754824522,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 136616,
       "num": 136616,
       "word": "国漫cp天花板果然名不虚传",
       "onboard_time": 1754797640,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136546,
+      "num": 136546,
+      "word": "王玉雯眼里全是对卡点失败的自豪",
+      "onboard_time": 1754825361,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 136258,
@@ -1745,14 +1777,6 @@
       "onboard_time": 1754819182,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129862,
-      "num": 199189,
-      "word": "37岁救人牺牲男子被确认见义勇为",
-      "onboard_time": 1754824522,
-      "rank": 18,
-      "category": "正能量"
     },
     {
       "raw_hot": 129643,
@@ -2139,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111314,
+      "num": 111314,
+      "word": "女将星预售",
+      "onboard_time": 1754825481,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 111114,
       "num": 111114,
       "word": "王曼昱静坐沉思神图",
@@ -2225,6 +2257,14 @@
       "onboard_time": 1754805321,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108052,
+      "num": 108052,
+      "word": "孙颖莎回应4比0大藤沙月",
+      "onboard_time": 1754825781,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 107214,
@@ -2323,14 +2363,6 @@
       "category": "体育,演出"
     },
     {
-      "raw_hot": 102845,
-      "num": 102845,
-      "word": "梁家辉又收到了labubu",
-      "onboard_time": 1754824702,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 102557,
       "num": 102557,
       "word": "罗小黑战记",
@@ -2395,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99340,
+      "num": 99340,
+      "word": "TF四代热血群像",
+      "onboard_time": 1754825182,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98969,
       "num": 98969,
       "word": "小沈阳演唱会",
@@ -2409,6 +2449,14 @@
       "onboard_time": 1754745864,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97870,
+      "num": 97870,
+      "word": "刘宇宁一个人就是一个动物世界",
+      "onboard_time": 1754825242,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 97754,
@@ -2481,6 +2529,22 @@
       "onboard_time": 1754786960,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93847,
+      "num": 121844,
+      "word": "婚内强奸案当事夫妻仍未离婚",
+      "onboard_time": 1754824281,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92812,
+      "num": 92812,
+      "word": "舞蹈界来了个龚俊",
+      "onboard_time": 1754825781,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 92749,
@@ -2577,6 +2641,14 @@
       "onboard_time": 1754737161,
       "rank": 43,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 85868,
+      "num": 85868,
+      "word": "谁说电子竞技不需要视力",
+      "onboard_time": 1754823261,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 85840,
@@ -2683,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77158,
+      "num": 100846,
+      "word": "百果园 钟薛高",
+      "onboard_time": 1754825003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75693,
       "num": 75693,
       "word": "拿奶茶店车祸玩梗别把冷漠当幽默",
@@ -2748,7 +2828,7 @@
     },
     {
       "raw_hot": 58991,
-      "num": 848721,
+      "num": 927420,
       "word": "榆中已转移安置9800多人",
       "onboard_time": 1754799801,
       "rank": 44,
@@ -2769,14 +2849,6 @@
       "onboard_time": 1754793501,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52559,
-      "num": 121844,
-      "word": "婚内强奸案当事夫妻仍未离婚",
-      "onboard_time": 1754824281,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52558,

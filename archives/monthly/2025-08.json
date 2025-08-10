@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754824955918,
+  "endTime": 1754825936163,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -987,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1423143,
+      "num": 326633,
+      "word": "张本智和不满王皓握手敷衍",
+      "onboard_time": 1754823501,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1401019,
       "num": 540075,
       "word": "我下班了不说了",
@@ -1371,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1211113,
+      "num": 1211113,
+      "word": "向往的生活8 丁程鑫",
+      "onboard_time": 1754821161,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1209701,
       "num": 1209701,
       "word": "朋友圈先私密几天后再公开",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1754279843,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1117563,
-      "num": 1117563,
-      "word": "向往的生活8 丁程鑫",
-      "onboard_time": 1754821161,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 1114766,
@@ -2040,14 +2048,6 @@
       "word": "覃海洋自编自导自演神剧本",
       "onboard_time": 1754122402,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 951070,
-      "num": 326633,
-      "word": "张本智和不满王皓握手敷衍",
-      "onboard_time": 1754823501,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -4883,6 +4883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 509676,
+      "num": 509676,
+      "word": "洞洞鞋",
+      "onboard_time": 1754821340,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 507930,
       "num": 445224,
       "word": "新疆一景区吊桥桥索断裂5死24伤",
@@ -5507,6 +5515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451418,
+      "num": 451418,
+      "word": "鹤岗开发百万元高档小区",
+      "onboard_time": 1754821221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449604,
       "num": 271482,
       "word": "男子先穿内裤后穿袜子脚气传染大腿",
@@ -5785,14 +5801,6 @@
       "onboard_time": 1754040503,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424804,
-      "num": 424804,
-      "word": "鹤岗开发百万元高档小区",
-      "onboard_time": 1754821221,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 423956,
@@ -7491,6 +7499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322073,
+      "num": 322073,
+      "word": "刘宇宁工作室必有高人指点",
+      "onboard_time": 1754823023,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322061,
       "num": 322061,
       "word": "smtown",
@@ -8739,14 +8755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268953,
-      "num": 268953,
-      "word": "刘宇宁工作室必有高人指点",
-      "onboard_time": 1754823023,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268511,
       "num": 261171,
       "word": "卡琳娜cos樱木花道",
@@ -9123,14 +9131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258190,
-      "num": 258190,
-      "word": "洞洞鞋",
-      "onboard_time": 1754821340,
-      "rank": 34,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 258140,
       "num": 258140,
       "word": "锦月如歌热度",
@@ -9401,6 +9401,14 @@
       "onboard_time": 1754387064,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249441,
+      "num": 249441,
+      "word": "向往的生活8",
+      "onboard_time": 1754824342,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 249391,
@@ -13100,7 +13108,7 @@
     },
     {
       "raw_hot": 191800,
-      "num": 147794,
+      "num": 160216,
       "word": "孙颖莎抹把脸下班",
       "onboard_time": 1754824221,
       "rank": 31,
@@ -13329,6 +13337,14 @@
       "onboard_time": 1754285003,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188844,
+      "num": 188844,
+      "word": "删好友不会被发现的方法",
+      "onboard_time": 1754822122,
+      "rank": 47,
+      "category": "互联网,情感"
     },
     {
       "raw_hot": 188800,
@@ -13577,6 +13593,14 @@
       "onboard_time": 1754805201,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186148,
+      "num": 186148,
+      "word": "TTG首个锁定胜者组",
+      "onboard_time": 1754825424,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 186129,
@@ -14235,14 +14259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180182,
-      "num": 180182,
-      "word": "向往的生活8",
-      "onboard_time": 1754824342,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180161,
       "num": 180161,
       "word": "释永信被查为全国佛教界敲响了警钟",
@@ -14801,6 +14817,14 @@
       "onboard_time": 1754122282,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174417,
+      "num": 221039,
+      "word": "百果园一年闭店近千家",
+      "onboard_time": 1754824101,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174179,
@@ -17347,14 +17371,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 154470,
-      "num": 154470,
-      "word": "百果园一年闭店近千家",
-      "onboard_time": 1754824101,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154308,
       "num": 222241,
       "word": "披荆斩棘5首发阵容",
@@ -17593,14 +17609,6 @@
       "onboard_time": 1754127202,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 152843,
-      "num": 152843,
-      "word": "删好友不会被发现的方法",
-      "onboard_time": 1754822122,
-      "rank": 47,
-      "category": "互联网,情感"
     },
     {
       "raw_hot": 152838,
@@ -18217,6 +18225,14 @@
       "onboard_time": 1754379923,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148884,
+      "num": 148884,
+      "word": "梁家辉又收到了labubu",
+      "onboard_time": 1754824702,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 148875,
@@ -20307,6 +20323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137327,
+      "num": 199189,
+      "word": "37岁救人牺牲男子被确认见义勇为",
+      "onboard_time": 1754824522,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 137313,
       "num": 170714,
       "word": "哈登与遭枪击留学生重逢",
@@ -20425,6 +20449,14 @@
       "onboard_time": 1754797640,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136546,
+      "num": 136546,
+      "word": "王玉雯眼里全是对卡点失败的自豪",
+      "onboard_time": 1754825361,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 136533,
@@ -21825,14 +21857,6 @@
       "onboard_time": 1754024181,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129862,
-      "num": 199189,
-      "word": "37岁救人牺牲男子被确认见义勇为",
-      "onboard_time": 1754824522,
-      "rank": 18,
-      "category": "正能量"
     },
     {
       "raw_hot": 129860,
@@ -25595,6 +25619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111314,
+      "num": 111314,
+      "word": "女将星预售",
+      "onboard_time": 1754825481,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 111266,
       "num": 151800,
       "word": "洞洞鞋到底丑还是潮",
@@ -26153,6 +26185,14 @@
       "onboard_time": 1754750124,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108052,
+      "num": 108052,
+      "word": "孙颖莎回应4比0大藤沙月",
+      "onboard_time": 1754825781,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 107916,
@@ -26891,14 +26931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102845,
-      "num": 102845,
-      "word": "梁家辉又收到了labubu",
-      "onboard_time": 1754824702,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 102765,
       "num": 102765,
       "word": "早安GAI友谊",
@@ -27363,6 +27395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99340,
+      "num": 99340,
+      "word": "TF四代热血群像",
+      "onboard_time": 1754825182,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99194,
       "num": 99194,
       "word": "A股逆转原因找到了",
@@ -27529,6 +27569,14 @@
       "onboard_time": 1754494464,
       "rank": 48,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 97870,
+      "num": 97870,
+      "word": "刘宇宁一个人就是一个动物世界",
+      "onboard_time": 1754825242,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 97822,
@@ -28115,6 +28163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93847,
+      "num": 121844,
+      "word": "婚内强奸案当事夫妻仍未离婚",
+      "onboard_time": 1754824281,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93834,
       "num": 93834,
       "word": "以前谈恋爱是要交换QQ密码的",
@@ -28289,6 +28345,14 @@
       "onboard_time": 1754237303,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92812,
+      "num": 92812,
+      "word": "舞蹈界来了个龚俊",
+      "onboard_time": 1754825781,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 92749,
@@ -28921,6 +28985,14 @@
       "onboard_time": 1754635763,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85868,
+      "num": 85868,
+      "word": "谁说电子竞技不需要视力",
+      "onboard_time": 1754823261,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 85862,
@@ -29664,6 +29736,14 @@
       "word": "日军以一两骨头一两金悬赏他",
       "onboard_time": 1754205743,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77158,
+      "num": 100846,
+      "word": "百果园 钟薛高",
+      "onboard_time": 1754825003,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -30804,7 +30884,7 @@
     },
     {
       "raw_hot": 58991,
-      "num": 848721,
+      "num": 927420,
       "word": "榆中已转移安置9800多人",
       "onboard_time": 1754799801,
       "rank": 44,
@@ -31297,14 +31377,6 @@
       "onboard_time": 1754350942,
       "rank": 46,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 52559,
-      "num": 121844,
-      "word": "婚内强奸案当事夫妻仍未离婚",
-      "onboard_time": 1754824281,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52537,
