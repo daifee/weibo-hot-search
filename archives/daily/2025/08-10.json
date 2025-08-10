@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754831240076,
+  "endTime": 1754832935615,
   "band_list": [
     {
       "raw_hot": 1701905,
@@ -41,6 +41,14 @@
       "onboard_time": 1754798900,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1451765,
+      "num": 1451765,
+      "word": "张本智和回应告状",
+      "onboard_time": 1754828783,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1423143,
@@ -123,20 +131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 905737,
+      "num": 905737,
+      "word": "百果园 钟薛高",
+      "onboard_time": 1754825003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 878359,
       "num": 172365,
       "word": "支付宝崩了",
       "onboard_time": 1754794821,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 872269,
-      "num": 872269,
-      "word": "张本智和回应告状",
-      "onboard_time": 1754828783,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 844425,
@@ -217,14 +225,6 @@
       "onboard_time": 1754806821,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 655979,
-      "num": 655979,
-      "word": "百果园 钟薛高",
-      "onboard_time": 1754825003,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 647303,
@@ -313,6 +313,22 @@
       "onboard_time": 1754782757,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557809,
+      "num": 557809,
+      "word": "网友票选可以出道的星二代",
+      "onboard_time": 1754826082,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 544090,
+      "num": 544090,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754827822,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 542893,
@@ -491,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375417,
-      "num": 375417,
-      "word": "网友票选可以出道的星二代",
-      "onboard_time": 1754826082,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362646,
       "num": 362646,
       "word": "眷思量",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 342757,
-      "num": 152778,
+      "num": 205389,
       "word": "建议多囊还是不要参与外卖大战了",
       "onboard_time": 1754831123,
       "rank": 30,
@@ -633,14 +641,6 @@
       "onboard_time": 1754803641,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299247,
-      "num": 299247,
-      "word": "浪浪山小妖怪",
-      "onboard_time": 1754827822,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 297463,
@@ -827,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240085,
+      "num": 204749,
+      "word": "虞书欣机场私服好健康的美",
+      "onboard_time": 1754831663,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240053,
       "num": 240053,
       "word": "全红婵练瘦了",
@@ -915,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212237,
+      "num": 471608,
+      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+      "onboard_time": 1754829263,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 211701,
       "num": 242773,
       "word": "美国允许普京入境是比较大的让步",
@@ -945,6 +961,14 @@
       "onboard_time": 1754793260,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206015,
+      "num": 208329,
+      "word": "利剑玫瑰破8000",
+      "onboard_time": 1754832143,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 202956,
@@ -985,6 +1009,14 @@
       "onboard_time": 1754814862,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201010,
+      "num": 177510,
+      "word": "成都GG战胜FPX.ZQ",
+      "onboard_time": 1754832622,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 200316,
@@ -1155,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183552,
-      "num": 471608,
-      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
-      "onboard_time": 1754829263,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 182713,
       "num": 182713,
       "word": "多款人气游戏官宣动画化",
@@ -1243,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176190,
+      "num": 176190,
+      "word": "溺亡女童左腿被回水管吸住",
+      "onboard_time": 1754828783,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175668,
       "num": 163231,
       "word": "李荣浩给粉丝签名忘签自己名字",
@@ -1256,6 +1288,14 @@
       "word": "让黄子韬起立握手的男人出现了",
       "onboard_time": 1754796620,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175210,
+      "num": 180200,
+      "word": "那英去花少带了更年期的药",
+      "onboard_time": 1754831362,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1369,6 +1409,14 @@
       "onboard_time": 1754797581,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161659,
+      "num": 161659,
+      "word": "王楚钦半决赛迎战莫雷加德",
+      "onboard_time": 1754830703,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 161323,
@@ -1539,20 +1587,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 149093,
-      "num": 149093,
-      "word": "王楚钦半决赛迎战莫雷加德",
-      "onboard_time": 1754830703,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148884,
       "num": 148884,
       "word": "梁家辉又收到了labubu",
       "onboard_time": 1754824702,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148533,
+      "num": 148897,
+      "word": "中国救人者和英国被救者后代拥抱",
+      "onboard_time": 1754831123,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 147894,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1754800101,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145746,
+      "num": 145746,
+      "word": "办婚礼近1年女方不让碰被判返还彩礼",
+      "onboard_time": 1754831604,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145717,
@@ -1643,7 +1699,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142762,
+      "raw_hot": 143105,
       "num": 165572,
       "word": "官方调查男子发布12字评论被拘",
       "onboard_time": 1754829081,
@@ -1803,6 +1859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134923,
+      "num": 134923,
+      "word": "男子杀鸽子放血30秒后鸽子飞走",
+      "onboard_time": 1754831243,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134408,
       "num": 134408,
       "word": "斩神沧南之殇剧场版官宣",
@@ -1848,14 +1912,6 @@
       "word": "母子用音响辱骂儿媳双双被拘9天",
       "onboard_time": 1754791879,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132814,
-      "num": 132814,
-      "word": "溺亡女童左腿被回水管吸住",
-      "onboard_time": 1754828783,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2139,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119823,
+      "num": 119823,
+      "word": "又到吃梭子蟹的时候了",
+      "onboard_time": 1754832622,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119570,
       "num": 119570,
       "word": "CFML总决赛",
@@ -2323,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114047,
+      "num": 114047,
+      "word": "孙颖莎骄傲龇牙笑",
+      "onboard_time": 1754829321,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114014,
       "num": 114014,
       "word": "莫雷加德4比1安宰贤",
@@ -2355,14 +2427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113086,
-      "num": 113086,
-      "word": "孙颖莎骄傲龇牙笑",
-      "onboard_time": 1754829321,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112563,
       "num": 112563,
       "word": "王楚钦说希望还有200场胜利",
@@ -2385,6 +2449,14 @@
       "onboard_time": 1754827344,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111709,
+      "num": 111709,
+      "word": "生万物看片会",
+      "onboard_time": 1754831243,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 111531,
@@ -3067,14 +3139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66938,
-      "num": 148897,
-      "word": "中国救人者和英国被救者后代拥抱",
-      "onboard_time": 1754831123,
-      "rank": 34,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 65169,
       "num": 65169,
       "word": "陈乔恩拯救了阮经天的职业生涯",
@@ -3433,6 +3497,14 @@
       "onboard_time": 1754714002,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1961,
+      "num": 1055105,
+      "word": "相约成都遇见万千精彩",
+      "onboard_time": 1754572223,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3444,6 +3516,9 @@
     },
     {
       "word": "#以文化人以文兴业#"
+    },
+    {
+      "word": "#积极促进产业高端化智能化绿色化#"
     }
   ]
 }
