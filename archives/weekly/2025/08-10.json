@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754793804561,
+  "endTime": 1754798928527,
   "band_list": [
     {
       "raw_hot": 1293558,
@@ -9,6 +9,14 @@
       "onboard_time": 1754786300,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1262483,
+      "num": 471185,
+      "word": "女子不堪家暴杀死丈夫获刑15年",
+      "onboard_time": 1754792421,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1153882,
@@ -43,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 878359,
+      "num": 154213,
+      "word": "支付宝崩了",
+      "onboard_time": 1754794821,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 804040,
       "num": 804040,
       "word": "赵露思手机号被泄漏",
@@ -75,11 +91,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 588047,
+      "num": 588047,
+      "word": "云南大理一7岁小孩在苍山走失",
+      "onboard_time": 1754794880,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568248,
       "num": 466755,
       "word": "田栩宁杨迪合唱imissyou",
       "onboard_time": 1754782757,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 560673,
+      "num": 252352,
+      "word": "唐香玉 是卫生巾又怎样",
+      "onboard_time": 1754796981,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -91,12 +123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 487971,
-      "num": 471185,
-      "word": "女子不堪家暴杀死丈夫获刑15年",
-      "onboard_time": 1754792421,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 507149,
+      "num": 290714,
+      "word": "赵奕欢哭到身上长荨麻疹",
+      "onboard_time": 1754796681,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 481813,
@@ -105,6 +137,22 @@
       "onboard_time": 1754790440,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 460580,
+      "num": 460580,
+      "word": "关系降级",
+      "onboard_time": 1754791040,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 457860,
+      "num": 290111,
+      "word": "鲁豫给张子枫买衣服",
+      "onboard_time": 1754795241,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 431943,
@@ -155,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353020,
-      "num": 353020,
-      "word": "关系降级",
-      "onboard_time": 1754791040,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 325056,
       "num": 325056,
       "word": "i miss you",
@@ -185,6 +225,14 @@
       "onboard_time": 1754750725,
       "rank": 7,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 290927,
+      "num": 290927,
+      "word": "画江湖之不良人",
+      "onboard_time": 1754797640,
+      "rank": 5,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 290265,
@@ -228,11 +276,27 @@
     },
     {
       "raw_hot": 267120,
-      "num": 158170,
+      "num": 167246,
       "word": "爱情公寓取景地15年的变化有多大",
       "onboard_time": 1754790440,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245455,
+      "num": 245455,
+      "word": "游客还原游览少林寺时遇大雨",
+      "onboard_time": 1754795061,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244283,
+      "num": 244283,
+      "word": "吴艳妮现身张艺兴演唱会",
+      "onboard_time": 1754796380,
+      "rank": 13,
+      "category": "体育,演出"
     },
     {
       "raw_hot": 242582,
@@ -283,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214872,
+      "num": 214872,
+      "word": "眷思量",
+      "onboard_time": 1754797881,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211701,
       "num": 242773,
       "word": "美国允许普京入境是比较大的让步",
@@ -305,6 +377,22 @@
       "onboard_time": 1754793260,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202097,
+      "num": 170292,
+      "word": "龙族3一眼看到绘梨衣",
+      "onboard_time": 1754798000,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 200054,
+      "num": 200054,
+      "word": "张远回应至上励合不解散",
+      "onboard_time": 1754798122,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 193683,
@@ -339,6 +427,54 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182843,
+      "num": 166978,
+      "word": "黄子韬上个节目确诊了",
+      "onboard_time": 1754798000,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177046,
+      "num": 165069,
+      "word": "曹骏也是在凡人修仙传里开上炮了",
+      "onboard_time": 1754796801,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175668,
+      "num": 163231,
+      "word": "李荣浩给粉丝签名忘签自己名字",
+      "onboard_time": 1754794282,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 175440,
+      "num": 161885,
+      "word": "让黄子韬起立握手的男人出现了",
+      "onboard_time": 1754796620,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172105,
+      "num": 172105,
+      "word": "小鹏汽车回应私自用车主5000积分",
+      "onboard_time": 1754793800,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 161905,
+      "num": 161905,
+      "word": "光晞不能捐周也不能脱",
+      "onboard_time": 1754797581,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161131,
       "num": 161131,
       "word": "领事馆通报中国留学生在澳遭围殴",
@@ -352,6 +488,14 @@
       "word": "董璇张维伊实际相处时间才一个月",
       "onboard_time": 1754750485,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158705,
+      "num": 153895,
+      "word": "董璇说结婚是梁静茹给的勇气",
+      "onboard_time": 1754796321,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -377,6 +521,14 @@
       "onboard_time": 1754786060,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149324,
+      "num": 149324,
+      "word": "祝绪丹冷脸开枪好爽",
+      "onboard_time": 1754797101,
+      "rank": 34,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 144870,
@@ -419,6 +571,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 136616,
+      "num": 136616,
+      "word": "国漫cp天花板果然名不虚传",
+      "onboard_time": 1754797640,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136258,
       "num": 136258,
       "word": "白澍演坏人对标的是周也魏莱",
@@ -451,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128658,
+      "num": 128658,
+      "word": "朱志鑫在披哥发全员收官长文",
+      "onboard_time": 1754798722,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127635,
       "num": 127635,
       "word": "你好星期六",
@@ -467,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126084,
+      "num": 126084,
+      "word": "董璇张维伊连晕车呕吐都同步",
+      "onboard_time": 1754796201,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124111,
       "num": 124111,
       "word": "群殴在澳留学生肇事者已被全部抓获",
@@ -476,11 +652,27 @@
     },
     {
       "raw_hot": 120711,
-      "num": 120711,
+      "num": 257966,
       "word": "小鹏汽车被曝私自使用车主5000积分",
       "onboard_time": 1754791040,
       "rank": 29,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 120123,
+      "num": 120123,
+      "word": "警方通报宝妈遛娃遭多人配合偷手机",
+      "onboard_time": 1754790440,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 119471,
+      "num": 119471,
+      "word": "二次元的爱可以跨越时间",
+      "onboard_time": 1754798300,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 117380,
@@ -531,6 +723,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110219,
+      "num": 110219,
+      "word": "盛阳为了看升旗坐20个小时硬座",
+      "onboard_time": 1754798122,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109428,
+      "num": 109428,
+      "word": "SHarK和Rapeter被diss",
+      "onboard_time": 1754796920,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109345,
+      "num": 109345,
+      "word": "这才是属于老师的脱口秀",
+      "onboard_time": 1754795000,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109251,
       "num": 109251,
       "word": "王源官宣了鸟巢演唱会",
@@ -553,6 +769,14 @@
       "onboard_time": 1754790561,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108646,
+      "num": 108646,
+      "word": "湖南一护士小姐姐因为勇敢收获爱情",
+      "onboard_time": 1754798662,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106740,
@@ -763,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82938,
+      "num": 112481,
+      "word": "月薪2万吃不起百果园",
+      "onboard_time": 1754798900,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82791,
       "num": 85310,
       "word": "时代少年团上海站没有延伸台",
@@ -851,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58783,
+      "num": 128724,
+      "word": "普京授予CIA副局长之子列宁勋章",
+      "onboard_time": 1754798481,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56225,
       "num": 56225,
       "word": "宋亚轩十分像从前",
@@ -875,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49566,
+      "num": 128668,
+      "word": "男子无人区投喂狼反遭背刺",
+      "onboard_time": 1754798481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42297,
       "num": 42297,
       "word": "曾辉韩雨彤直播",
@@ -897,6 +1145,14 @@
       "onboard_time": 1754760617,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37360,
+      "num": 171958,
+      "word": "美团会员组团看鹿哥演唱会",
+      "onboard_time": 1754796440,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 36825,
