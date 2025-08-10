@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754861996551,
+  "endTime": 1754864785413,
   "band_list": [
     {
       "raw_hot": 814259,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229447,
+      "num": 401728,
+      "word": "男子嫌太吵向楼下烧烤店泼不明液体",
+      "onboard_time": 1754851155,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201643,
       "num": 171029,
       "word": "锦月如歌热度",
@@ -139,8 +147,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158498,
-      "num": 158498,
+      "raw_hot": 163520,
+      "num": 163520,
       "word": "男子偷580斤西瓜都吃光",
       "onboard_time": 1754849356,
       "rank": 4,
@@ -185,14 +193,6 @@
       "onboard_time": 1754826322,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140510,
-      "num": 188964,
-      "word": "男子嫌太吵向楼下烧烤店泼不明液体",
-      "onboard_time": 1754851155,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127257,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44184,
+      "num": 44184,
+      "word": "藏海传韩国首张海报公开",
+      "onboard_time": 1754862314,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37463,
       "num": 53798,
       "word": "左航隔壁没用完的脑子带来披荆斩棘了",
@@ -473,6 +481,14 @@
       "onboard_time": 1754840962,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35545,
+      "num": 33781,
+      "word": "办252桌婚宴后拒付52万当事方发声",
+      "onboard_time": 1754852535,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35485,
@@ -499,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30957,
+      "num": 30957,
+      "word": "WTT横滨冠军赛2025",
+      "onboard_time": 1754854155,
+      "rank": 37,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 28960,
       "num": 53653,
       "word": "国乒女团奥运五连冠一周年",
@@ -515,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25587,
+      "num": 29901,
+      "word": "孙颖莎说今天回去要多吃一点",
+      "onboard_time": 1754851816,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24867,
       "num": 35161,
       "word": "汪苏泷唱了你最近好吗",
@@ -523,28 +555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23990,
+      "raw_hot": 24114,
       "num": 29910,
       "word": "地球超新鲜",
       "onboard_time": 1754853195,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20891,
-      "num": 29901,
-      "word": "孙颖莎说今天回去要多吃一点",
-      "onboard_time": 1754851816,
-      "rank": 42,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 20676,
-      "num": 29903,
-      "word": "办252桌婚宴后拒付52万当事方发声",
-      "onboard_time": 1754852535,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18589,
@@ -555,20 +571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18228,
-      "num": 25787,
-      "word": "WTT横滨冠军赛2025",
-      "onboard_time": 1754854155,
-      "rank": 37,
-      "category": "体育,电竞"
-    },
-    {
       "raw_hot": 17242,
       "num": 18376,
       "word": "店主回应顾客试穿4条裤子染血渍",
       "onboard_time": 1754856314,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15483,
+      "num": 26795,
+      "word": "早餐摄入低碳水全天血糖都稳住",
+      "onboard_time": 1754863934,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15311,
