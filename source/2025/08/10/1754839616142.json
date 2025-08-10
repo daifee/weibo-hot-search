@@ -1,0 +1,410 @@
+{
+  "runTime": 1754839616142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1727257,
+        "num": 1727257,
+        "word": "全球首个孕育机器人预计一年内面世",
+        "onboard_time": 1754834303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662282,
+        "num": 662282,
+        "word": "拉宏桑妈妈怀孕后还吃了打虫药",
+        "onboard_time": 1754837544,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3934,
+        "num": 617377,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610138,
+        "num": 610138,
+        "word": "张本智和回应告状",
+        "onboard_time": 1754828783,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452793,
+        "num": 452793,
+        "word": "利剑玫瑰第二季",
+        "onboard_time": 1754837245,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354806,
+        "num": 354806,
+        "word": "社保新规对打工人有何影响",
+        "onboard_time": 1754835805,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365547,
+        "num": 349374,
+        "word": "虞书欣机场私服好健康的美",
+        "onboard_time": 1754831663,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342951,
+        "num": 342951,
+        "word": "向往的生活8",
+        "onboard_time": 1754824342,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338296,
+        "num": 338296,
+        "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+        "onboard_time": 1754829263,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 42020,
+        "num": 337146,
+        "word": "高温台风强降雨又将凑齐",
+        "onboard_time": 1754839164,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729345,
+        "num": 337079,
+        "word": "张本智和不满王皓握手敷衍",
+        "onboard_time": 1754823501,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336630,
+        "num": 336630,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1754827822,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 391909,
+        "num": 324584,
+        "word": "女子试穿4条裤子留下血渍赔50元",
+        "onboard_time": 1754835024,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296932,
+        "num": 296932,
+        "word": "抗战胜利80周年天安门演练现场",
+        "onboard_time": 1754826322,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 308752,
+        "num": 290697,
+        "word": "于正说赵露思很好",
+        "onboard_time": 1754834123,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278300,
+        "num": 278300,
+        "word": "曝孙亦航恋情",
+        "onboard_time": 1754839103,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274908,
+        "num": 274908,
+        "word": "关晓彤瘦了十几斤",
+        "onboard_time": 1754801901,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251791,
+        "num": 251791,
+        "word": "杭州警方通报某演出场所发生猥亵事件",
+        "onboard_time": 1754821761,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 216907,
+        "num": 216907,
+        "word": "这不是复制粘贴这是中国军人",
+        "onboard_time": 1754826983,
+        "rank": 18,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 199811,
+        "num": 199811,
+        "word": "溺亡女童左腿被回水管吸住",
+        "onboard_time": 1754828783,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359944,
+        "num": 199684,
+        "word": "张晋和蔡少芬国外旅行突发心脏病",
+        "onboard_time": 1754810061,
+        "rank": 20,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 242587,
+        "num": 199009,
+        "word": "蔡徐坤 Jasmine",
+        "onboard_time": 1754834663,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204992,
+        "num": 198307,
+        "word": "建议多囊还是不要参与外卖大战了",
+        "onboard_time": 1754831123,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202925,
+        "num": 197588,
+        "word": "那英去花少带了更年期的药",
+        "onboard_time": 1754831362,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202406,
+        "num": 197033,
+        "word": "汪苏泷这段完全是婚礼VCR",
+        "onboard_time": 1754838683,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199951,
+        "num": 196369,
+        "word": "周深唱了两首贾玲电影的代表曲",
+        "onboard_time": 1754838683,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195792,
+        "num": 195792,
+        "word": "CORTIS出道曲MV",
+        "onboard_time": 1754838924,
+        "rank": 26,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 186602,
+        "num": 186602,
+        "word": "早春晴朗男主85生",
+        "onboard_time": 1754838744,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184914,
+        "num": 184914,
+        "word": "抠抠搜搜8年抠了49万",
+        "onboard_time": 1754806700,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178395,
+        "num": 178395,
+        "word": "妻子嫂子景德镇批发式购物狂买2000元",
+        "onboard_time": 1754827401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252657,
+        "num": 173312,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1754838863,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166933,
+        "num": 166933,
+        "word": "小蝴蝶Cody领证",
+        "onboard_time": 1754839103,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161322,
+        "num": 161322,
+        "word": "为什么叫我法拉利",
+        "onboard_time": 1754837663,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158674,
+        "num": 158674,
+        "word": "婚内强奸案男方姐姐发声",
+        "onboard_time": 1754838083,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156971,
+        "num": 156971,
+        "word": "网友票选可以出道的星二代",
+        "onboard_time": 1754826082,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154049,
+        "num": 154049,
+        "word": "逆水寒",
+        "onboard_time": 1754837965,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150094,
+        "num": 150094,
+        "word": "男子疑将660万彩票丢进洗衣机",
+        "onboard_time": 1754836523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136865,
+        "num": 136865,
+        "word": "吃到腾讯芒果商战红利了",
+        "onboard_time": 1754827281,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135030,
+        "num": 135030,
+        "word": "百果园 钟薛高",
+        "onboard_time": 1754825003,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127113,
+        "num": 127113,
+        "word": "26岁男子勒死73岁情人水泥埋尸",
+        "onboard_time": 1754817442,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125684,
+        "num": 125684,
+        "word": "CORTIS BIGHIT",
+        "onboard_time": 1754839404,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85579,
+        "num": 123790,
+        "word": "领克900上市百天交付破2万",
+        "onboard_time": 1754838444,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122407,
+        "num": 122407,
+        "word": "BLG战胜WE",
+        "onboard_time": 1754839462,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122400,
+        "num": 122400,
+        "word": "陈哲远这次是真老公",
+        "onboard_time": 1754833403,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40181,
+        "num": 121601,
+        "word": "沈阳通报一河道内出现大量泡沫",
+        "onboard_time": 1754838083,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121577,
+        "num": 121577,
+        "word": "向往的生活8 丁程鑫",
+        "onboard_time": 1754821161,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121431,
+        "num": 121431,
+        "word": "洞洞鞋",
+        "onboard_time": 1754821340,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 116335,
+        "num": 116335,
+        "word": "李兰迪全透明人生好萌啊",
+        "onboard_time": 1754834485,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114570,
+        "num": 114570,
+        "word": "女子吃安眠药开车撞翻货车压死人",
+        "onboard_time": 1754838264,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103944,
+        "num": 103944,
+        "word": "不要在喝水的时候看龚俊这段",
+        "onboard_time": 1754837004,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极促进产业高端化智能化绿色化#"
+    }
+  }
+}

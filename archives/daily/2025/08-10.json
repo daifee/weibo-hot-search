@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754837007975,
+  "endTime": 1754839616142,
   "band_list": [
     {
       "raw_hot": 1818650,
@@ -251,6 +251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 662282,
+      "num": 662282,
+      "word": "拉宏桑妈妈怀孕后还吃了打虫药",
+      "onboard_time": 1754837544,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647303,
       "num": 647303,
       "word": "女子嫌私教课太贵让小孩哥教游泳",
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452793,
+      "num": 452793,
+      "word": "利剑玫瑰第二季",
+      "onboard_time": 1754837245,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451418,
       "num": 451418,
       "word": "鹤岗开发百万元高档小区",
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391909,
+      "num": 324584,
+      "word": "女子试穿4条裤子留下血渍赔50元",
+      "onboard_time": 1754835024,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383759,
       "num": 495803,
       "word": "向鹏vs张本智和",
@@ -601,6 +625,14 @@
       "onboard_time": 1754827401,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 354806,
+      "num": 354806,
+      "word": "社保新规对打工人有何影响",
+      "onboard_time": 1754835805,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349246,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278300,
+      "num": 278300,
+      "word": "曝孙亦航恋情",
+      "onboard_time": 1754839103,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271391,
       "num": 271391,
       "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
@@ -859,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252657,
+      "num": 173312,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1754838863,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245455,
       "num": 245455,
       "word": "游客还原游览少林寺时遇大雨",
@@ -873,6 +921,14 @@
       "onboard_time": 1754796380,
       "rank": 13,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 242587,
+      "num": 199009,
+      "word": "蔡徐坤 Jasmine",
+      "onboard_time": 1754834663,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 242582,
@@ -905,14 +961,6 @@
       "onboard_time": 1754801241,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234878,
-      "num": 234878,
-      "word": "女子试穿4条裤子留下血渍赔50元",
-      "onboard_time": 1754835024,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234547,
@@ -1051,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202406,
+      "num": 197033,
+      "word": "汪苏泷这段完全是婚礼VCR",
+      "onboard_time": 1754838683,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202097,
       "num": 170292,
       "word": "龙族3一眼看到绘梨衣",
@@ -1115,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199951,
+      "num": 196369,
+      "word": "周深唱了两首贾玲电影的代表曲",
+      "onboard_time": 1754838683,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199565,
       "num": 199565,
       "word": "AG确认胜者组",
@@ -1131,20 +1195,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197609,
-      "num": 197609,
-      "word": "蔡徐坤 Jasmine",
-      "onboard_time": 1754834663,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 196391,
       "num": 196391,
       "word": "锦月如歌提档六点播",
       "onboard_time": 1754822001,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195792,
+      "num": 195792,
+      "word": "CORTIS出道曲MV",
+      "onboard_time": 1754838924,
+      "rank": 26,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 195133,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1754802680,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186602,
+      "num": 186602,
+      "word": "早春晴朗男主85生",
+      "onboard_time": 1754838744,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186190,
@@ -1467,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166933,
+      "num": 166933,
+      "word": "小蝴蝶Cody领证",
+      "onboard_time": 1754839103,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166552,
       "num": 166552,
       "word": "易烊千玺北京场预售开启",
@@ -1515,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161322,
+      "num": 161322,
+      "word": "为什么叫我法拉利",
+      "onboard_time": 1754837663,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161131,
       "num": 161131,
       "word": "领事馆通报中国留学生在澳遭围殴",
@@ -1555,20 +1643,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158674,
+      "num": 158674,
+      "word": "婚内强奸案男方姐姐发声",
+      "onboard_time": 1754838083,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158654,
       "num": 158654,
       "word": "王橹杰半扎狼尾造型",
       "onboard_time": 1754815100,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158430,
-      "num": 158430,
-      "word": "社保新规对打工人有何影响",
-      "onboard_time": 1754835805,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158357,
@@ -1651,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154049,
+      "num": 154049,
+      "word": "逆水寒",
+      "onboard_time": 1754837965,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153635,
       "num": 153635,
       "word": "6个子女为给94岁母亲养老抢起来了",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1754807300,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150094,
+      "num": 150094,
+      "word": "男子疑将660万彩票丢进洗衣机",
+      "onboard_time": 1754836523,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149324,
@@ -2251,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125684,
+      "num": 125684,
+      "word": "CORTIS BIGHIT",
+      "onboard_time": 1754839404,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125460,
       "num": 125460,
       "word": "穿越火线",
@@ -2289,6 +2401,14 @@
       "onboard_time": 1754801901,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122407,
+      "num": 122407,
+      "word": "BLG战胜WE",
+      "onboard_time": 1754839462,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 121295,
@@ -2545,6 +2665,14 @@
       "onboard_time": 1754819902,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 114570,
+      "num": 114570,
+      "word": "女子吃安眠药开车撞翻货车压死人",
+      "onboard_time": 1754838264,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114297,
@@ -2899,6 +3027,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 103944,
+      "num": 103944,
+      "word": "不要在喝水的时候看龚俊这段",
+      "onboard_time": 1754837004,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103184,
       "num": 103184,
       "word": "张艺兴成都演唱会",
@@ -3235,6 +3371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85579,
+      "num": 123790,
+      "word": "领克900上市百天交付破2万",
+      "onboard_time": 1754838444,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85493,
       "num": 85493,
       "word": "P1Harmony舞台着火",
@@ -3491,20 +3635,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43410,
-      "num": 128474,
-      "word": "男子疑将660万彩票丢进洗衣机",
-      "onboard_time": 1754836523,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42297,
       "num": 42297,
       "word": "曾辉韩雨彤直播",
       "onboard_time": 1754770094,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42020,
+      "num": 337146,
+      "word": "高温台风强降雨又将凑齐",
+      "onboard_time": 1754839164,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41537,
@@ -3529,6 +3673,14 @@
       "onboard_time": 1754760617,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40181,
+      "num": 121601,
+      "word": "沈阳通报一河道内出现大量泡沫",
+      "onboard_time": 1754838083,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37360,
