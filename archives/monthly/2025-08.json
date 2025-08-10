@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754825936163,
+  "endTime": 1754830367167,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -988,7 +988,7 @@
     },
     {
       "raw_hot": 1423143,
-      "num": 326633,
+      "num": 471410,
       "word": "张本智和不满王皓握手敷衍",
       "onboard_time": 1754823501,
       "rank": 10,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1754721621,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1383436,
+      "num": 1383436,
+      "word": "洞洞鞋",
+      "onboard_time": 1754821340,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 1383194,
@@ -2441,6 +2449,14 @@
       "onboard_time": 1754569582,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 829498,
+      "num": 829498,
+      "word": "向往的生活8",
+      "onboard_time": 1754824342,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 829480,
@@ -4491,6 +4507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 556912,
+      "num": 556912,
+      "word": "百果园 钟薛高",
+      "onboard_time": 1754825003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556285,
       "num": 556285,
       "word": "长沙一女孩疑被外墙脱落物砸中身亡",
@@ -4787,6 +4811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 522317,
+      "num": 616461,
+      "word": "抗战胜利80周年天安门演练现场",
+      "onboard_time": 1754826322,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 521012,
       "num": 521012,
       "word": "理想回应i8安全性碰撞测试",
@@ -4867,6 +4899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514051,
+      "num": 514051,
+      "word": "张本智和回应告状",
+      "onboard_time": 1754828783,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513583,
       "num": 341244,
       "word": "家长们为被霸凌女孩发声",
@@ -4881,14 +4921,6 @@
       "onboard_time": 1754115443,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 509676,
-      "num": 509676,
-      "word": "洞洞鞋",
-      "onboard_time": 1754821340,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 507930,
@@ -5259,6 +5291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 476647,
+      "num": 476647,
+      "word": "这不是复制粘贴这是中国军人",
+      "onboard_time": 1754826983,
+      "rank": 8,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 476184,
       "num": 476184,
       "word": "黄子韬公司被限消",
@@ -5337,6 +5377,14 @@
       "onboard_time": 1754043564,
       "rank": 19,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 470369,
+      "num": 470369,
+      "word": "吃到腾讯芒果商战红利了",
+      "onboard_time": 1754827281,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 469295,
@@ -6891,6 +6939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 356205,
+      "num": 356205,
+      "word": "举报徐杰者再发声",
+      "onboard_time": 1754827401,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355767,
       "num": 220159,
       "word": "刘嘉玲梁朝伟 娱乐圈小说连载",
@@ -8112,6 +8168,14 @@
       "word": "女子假装病死分饰7角诈骗再婚丈夫",
       "onboard_time": 1754065522,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293914,
+      "num": 195896,
+      "word": "妻子嫂子景德镇批发式购物狂买2000元",
+      "onboard_time": 1754827401,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -9403,14 +9467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249441,
-      "num": 249441,
-      "word": "向往的生活8",
-      "onboard_time": 1754824342,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249391,
       "num": 249391,
       "word": "男子进校捅04年女生十余刀被判14年",
@@ -9529,6 +9585,14 @@
       "onboard_time": 1754235564,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245691,
+      "num": 245691,
+      "word": "网友票选可以出道的星二代",
+      "onboard_time": 1754826082,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 245455,
@@ -13315,6 +13379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189135,
+      "num": 195929,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754114122,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189059,
       "num": 189059,
       "word": "易烊千玺北京演唱会海报",
@@ -14835,6 +14907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174123,
+      "num": 174123,
+      "word": "法拉利老了还是法拉利",
+      "onboard_time": 1754829382,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174118,
       "num": 165706,
       "word": "周也恶鬼vs善灵",
@@ -16043,6 +16123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163783,
+      "num": 180168,
+      "word": "迪迪不畏美而自知",
+      "onboard_time": 1754829922,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163730,
       "num": 163730,
       "word": "咸鱼飞升",
@@ -16233,14 +16321,6 @@
       "onboard_time": 1754371705,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162532,
-      "num": 195929,
-      "word": "浪浪山小妖怪",
-      "onboard_time": 1754114122,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 162458,
@@ -16473,6 +16553,14 @@
       "onboard_time": 1754569703,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160832,
+      "num": 160832,
+      "word": "Doinb曝Ale陪玩1500一小时",
+      "onboard_time": 1754829561,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 160795,
@@ -17521,6 +17609,14 @@
       "onboard_time": 1754477065,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153372,
+      "num": 153372,
+      "word": "黄仁俊直播",
+      "onboard_time": 1754829743,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 153363,
@@ -18737,6 +18833,14 @@
       "onboard_time": 1754198305,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145717,
+      "num": 145717,
+      "word": "国乒包揽横滨冠军赛女单四强",
+      "onboard_time": 1754827401,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 145659,
@@ -20185,6 +20289,14 @@
       "onboard_time": 1754574024,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137983,
+      "num": 137983,
+      "word": "WBG已黑化",
+      "onboard_time": 1754829382,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 137966,
@@ -23643,6 +23755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121295,
+      "num": 121295,
+      "word": "舍得给出重要的东西才是爱",
+      "onboard_time": 1754828903,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121288,
       "num": 121288,
       "word": "孙颖莎闯进四强",
@@ -24187,6 +24307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118815,
+      "num": 118815,
+      "word": "多人烧烤店外用餐遭楼上泼不明液体",
+      "onboard_time": 1754829502,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118812,
       "num": 118812,
       "word": "杨洋 演员的顶级信念感",
@@ -24265,6 +24393,14 @@
       "onboard_time": 1754407223,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118532,
+      "num": 118532,
+      "word": "美国说唱歌手在家中遭枪击身亡",
+      "onboard_time": 1754829081,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118495,
@@ -24529,6 +24665,14 @@
       "onboard_time": 1754134582,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116958,
+      "num": 116958,
+      "word": "龚俊版黛玉葬花",
+      "onboard_time": 1754830042,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 116927,
@@ -25243,6 +25387,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 113086,
+      "num": 113086,
+      "word": "孙颖莎骄傲龇牙笑",
+      "onboard_time": 1754829321,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113062,
       "num": 113062,
       "word": "买狗时老板说这是店里最安静的小狗",
@@ -25435,6 +25587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112224,
+      "num": 112224,
+      "word": "菲比怀孕",
+      "onboard_time": 1754827344,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112173,
       "num": 213811,
       "word": "佛山大型灭蚊灯光秀",
@@ -25545,6 +25705,14 @@
       "onboard_time": 1754395763,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111837,
+      "num": 111837,
+      "word": "AG对战狼队",
+      "onboard_time": 1754830342,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 111729,
@@ -25697,6 +25865,14 @@
       "onboard_time": 1754100561,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111054,
+      "num": 471608,
+      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+      "onboard_time": 1754829263,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 111025,
@@ -25987,6 +26163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109433,
+      "num": 109433,
+      "word": "浙江队vs北京国安",
+      "onboard_time": 1754829682,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109428,
       "num": 109428,
       "word": "SHarK和Rapeter被diss",
@@ -26057,6 +26241,14 @@
       "onboard_time": 1754718262,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108961,
+      "num": 108961,
+      "word": "刘宇宁看似疯了实则没招了",
+      "onboard_time": 1754828903,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108953,
@@ -27219,6 +27411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100774,
+      "num": 166939,
+      "word": "邓超小花陪唱",
+      "onboard_time": 1754830042,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100755,
       "num": 100755,
       "word": "侯佩岑心里人满为患",
@@ -27489,6 +27689,14 @@
       "onboard_time": 1753960463,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98592,
+      "num": 165572,
+      "word": "官方调查男子发布12字评论被拘",
+      "onboard_time": 1754829081,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 98554,
@@ -29739,14 +29947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77158,
-      "num": 100846,
-      "word": "百果园 钟薛高",
-      "onboard_time": 1754825003,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77129,
       "num": 121966,
       "word": "女子逆向停车致道路拥堵50分钟",
@@ -29769,6 +29969,14 @@
       "onboard_time": 1754377569,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76581,
+      "num": 121593,
+      "word": "孙颖莎此等萌物一口吞了",
+      "onboard_time": 1754828003,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 76285,
@@ -31763,6 +31971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47069,
+      "num": 195730,
+      "word": "华晨宇火星钢枪队赢麻了",
+      "onboard_time": 1754829382,
+      "rank": 19,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 47029,
       "num": 125456,
       "word": "美俄双边会晤或转为美俄乌三方会谈",
@@ -32336,6 +32552,14 @@
       "word": "何以中国和合共生",
       "onboard_time": 1754714002,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38555,
+      "num": 122635,
+      "word": "90后落马干部现场忏悔",
+      "onboard_time": 1754830103,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -33841,6 +34065,14 @@
       "onboard_time": 1754173817,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16858,
+      "num": 377511,
+      "word": "谢霆锋高空直播",
+      "onboard_time": 1754827702,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 16394,

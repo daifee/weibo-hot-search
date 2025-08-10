@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754825936163,
+  "endTime": 1754830367167,
   "band_list": [
     {
       "raw_hot": 1701905,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1423143,
-      "num": 326633,
+      "num": 471410,
       "word": "张本智和不满王皓握手敷衍",
       "onboard_time": 1754823501,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1383436,
+      "num": 1383436,
+      "word": "洞洞鞋",
+      "onboard_time": 1754821340,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 1293558,
@@ -145,6 +153,14 @@
       "onboard_time": 1754812881,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 829498,
+      "num": 829498,
+      "word": "向往的生活8",
+      "onboard_time": 1754824342,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 804734,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556912,
+      "num": 556912,
+      "word": "百果园 钟薛高",
+      "onboard_time": 1754825003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542893,
       "num": 542893,
       "word": "姜文女儿结婚",
@@ -307,12 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 509676,
-      "num": 509676,
-      "word": "洞洞鞋",
-      "onboard_time": 1754821340,
-      "rank": 34,
-      "category": "时尚"
+      "raw_hot": 522317,
+      "num": 616461,
+      "word": "抗战胜利80周年天安门演练现场",
+      "onboard_time": 1754826322,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 514051,
+      "num": 514051,
+      "word": "张本智和回应告状",
+      "onboard_time": 1754828783,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 507149,
@@ -361,6 +393,22 @@
       "onboard_time": 1754805380,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476647,
+      "num": 476647,
+      "word": "这不是复制粘贴这是中国军人",
+      "onboard_time": 1754826983,
+      "rank": 8,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 470369,
+      "num": 470369,
+      "word": "吃到腾讯芒果商战红利了",
+      "onboard_time": 1754827281,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 465910,
@@ -483,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356205,
+      "num": 356205,
+      "word": "举报徐杰者再发声",
+      "onboard_time": 1754827401,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349246,
       "num": 349246,
       "word": "黄子韬上个节目确诊了",
@@ -569,6 +625,14 @@
       "onboard_time": 1754796321,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293914,
+      "num": 195896,
+      "word": "妻子嫂子景德镇批发式购物狂买2000元",
+      "onboard_time": 1754827401,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293278,
@@ -715,12 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249441,
-      "num": 249441,
-      "word": "向往的生活8",
-      "onboard_time": 1754824342,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 245691,
+      "num": 245691,
+      "word": "网友票选可以出道的星二代",
+      "onboard_time": 1754826082,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 245455,
@@ -995,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189135,
+      "num": 189135,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754827822,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188844,
       "num": 188844,
       "word": "删好友不会被发现的方法",
@@ -1155,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174123,
+      "num": 174123,
+      "word": "法拉利老了还是法拉利",
+      "onboard_time": 1754829382,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173245,
       "num": 173245,
       "word": "谁要炸tbz",
@@ -1243,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163783,
+      "num": 180168,
+      "word": "迪迪不畏美而自知",
+      "onboard_time": 1754829922,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162916,
       "num": 162916,
       "word": "百果园去年净利润亏3亿",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1754786419,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160832,
+      "num": 160832,
+      "word": "Doinb曝Ale陪玩1500一小时",
+      "onboard_time": 1754829561,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 160253,
@@ -1371,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153372,
+      "num": 153372,
+      "word": "黄仁俊直播",
+      "onboard_time": 1754829743,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152170,
       "num": 152170,
       "word": "杨洋熹妃杀回宫的眼神",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1754800101,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145717,
+      "num": 145717,
+      "word": "国乒包揽横滨冠军赛女单四强",
+      "onboard_time": 1754827401,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 145352,
@@ -1577,6 +1689,14 @@
       "onboard_time": 1754811381,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137983,
+      "num": 137983,
+      "word": "WBG已黑化",
+      "onboard_time": 1754829382,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 137327,
@@ -1907,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121295,
+      "num": 121295,
+      "word": "舍得给出重要的东西才是爱",
+      "onboard_time": 1754828903,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121288,
       "num": 121288,
       "word": "孙颖莎闯进四强",
@@ -1987,6 +2115,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118815,
+      "num": 118815,
+      "word": "多人烧烤店外用餐遭楼上泼不明液体",
+      "onboard_time": 1754829502,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118532,
+      "num": 118532,
+      "word": "美国说唱歌手在家中遭枪击身亡",
+      "onboard_time": 1754829081,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118163,
       "num": 118163,
       "word": "王楚钦横滨赛进四强",
@@ -2033,6 +2177,14 @@
       "onboard_time": 1754798481,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116958,
+      "num": 116958,
+      "word": "龚俊版黛玉葬花",
+      "onboard_time": 1754830042,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 116804,
@@ -2139,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113086,
+      "num": 113086,
+      "word": "孙颖莎骄傲龇牙笑",
+      "onboard_time": 1754829321,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112563,
       "num": 112563,
       "word": "王楚钦说希望还有200场胜利",
@@ -2153,6 +2313,22 @@
       "onboard_time": 1754790680,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112224,
+      "num": 112224,
+      "word": "菲比怀孕",
+      "onboard_time": 1754827344,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111837,
+      "num": 111837,
+      "word": "AG对战狼队",
+      "onboard_time": 1754830342,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 111531,
@@ -2179,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111054,
+      "num": 471608,
+      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+      "onboard_time": 1754829263,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 110860,
       "num": 110860,
       "word": "超绝扁头和超绝圆头",
@@ -2203,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109433,
+      "num": 109433,
+      "word": "浙江队vs北京国安",
+      "onboard_time": 1754829682,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109428,
       "num": 109428,
       "word": "SHarK和Rapeter被diss",
@@ -2225,6 +2417,14 @@
       "onboard_time": 1754750604,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108961,
+      "num": 108961,
+      "word": "刘宇宁看似疯了实则没招了",
+      "onboard_time": 1754828903,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108953,
@@ -2411,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100774,
+      "num": 166939,
+      "word": "邓超小花陪唱",
+      "onboard_time": 1754830042,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99834,
       "num": 99834,
       "word": "韩红哭成泪人",
@@ -2441,6 +2649,14 @@
       "onboard_time": 1754803761,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98592,
+      "num": 165572,
+      "word": "官方调查男子发布12字评论被拘",
+      "onboard_time": 1754829081,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 97942,
@@ -2755,12 +2971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77158,
-      "num": 100846,
-      "word": "百果园 钟薛高",
-      "onboard_time": 1754825003,
+      "raw_hot": 76581,
+      "num": 121593,
+      "word": "孙颖莎此等萌物一口吞了",
+      "onboard_time": 1754828003,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 75693,
@@ -2899,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47069,
+      "num": 195730,
+      "word": "华晨宇火星钢枪队赢麻了",
+      "onboard_time": 1754829382,
+      "rank": 19,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 44868,
       "num": 136428,
       "word": "夫妻相约减肥大半年共瘦近100斤",
@@ -2929,6 +3153,14 @@
       "onboard_time": 1754760617,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38555,
+      "num": 122635,
+      "word": "90后落马干部现场忏悔",
+      "onboard_time": 1754830103,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37360,
@@ -3096,6 +3328,14 @@
       "word": "汪苏泷说19号小怪物叫放青松",
       "onboard_time": 1754768415,
       "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16858,
+      "num": 377511,
+      "word": "谢霆锋高空直播",
+      "onboard_time": 1754827702,
+      "rank": 14,
       "category": "演出"
     },
     {
