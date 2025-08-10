@@ -1,7 +1,15 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754822727662,
+  "endTime": 1754824955918,
   "band_list": [
+    {
+      "raw_hot": 1701905,
+      "num": 1701905,
+      "word": "张本智和告状",
+      "onboard_time": 1754822181,
+      "rank": 8,
+      "category": "体育"
+    },
     {
       "raw_hot": 1687846,
       "num": 482946,
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1117563,
+      "num": 1117563,
+      "word": "向往的生活8 丁程鑫",
+      "onboard_time": 1754821161,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1109692,
       "num": 238520,
       "word": "赵露思回应鼻子动了",
@@ -91,12 +107,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 951070,
+      "num": 326633,
+      "word": "张本智和不满王皓握手敷衍",
+      "onboard_time": 1754823501,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 878359,
       "num": 172365,
       "word": "支付宝崩了",
       "onboard_time": 1754794821,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 844425,
+      "num": 844425,
+      "word": "杭州警方通报某演出场所发生猥亵事件",
+      "onboard_time": 1754821761,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 844223,
@@ -347,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 455241,
-      "num": 455241,
-      "word": "向往的生活8 丁程鑫",
-      "onboard_time": 1754821161,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 446366,
       "num": 446366,
       "word": "26岁男子勒死73岁情人水泥埋尸",
@@ -376,6 +400,14 @@
       "word": "男子离家前吐西瓜籽回来时满院西瓜",
       "onboard_time": 1754751564,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424804,
+      "num": 424804,
+      "word": "鹤岗开发百万元高档小区",
+      "onboard_time": 1754821221,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292322,
+      "num": 292322,
+      "word": "张晋心脏做了支架",
+      "onboard_time": 1754823862,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290927,
       "num": 290927,
       "word": "画江湖之不良人",
@@ -603,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274086,
-      "num": 408537,
-      "word": "张本智和告状",
-      "onboard_time": 1754822181,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271391,
       "num": 271391,
       "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
@@ -624,6 +656,14 @@
       "word": "偶遇王一博练车",
       "onboard_time": 1754804241,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268953,
+      "num": 268953,
+      "word": "刘宇宁工作室必有高人指点",
+      "onboard_time": 1754823023,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -649,6 +689,14 @@
       "onboard_time": 1754801661,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258190,
+      "num": 258190,
+      "word": "洞洞鞋",
+      "onboard_time": 1754821340,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 256825,
@@ -707,14 +755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235909,
-      "num": 235909,
-      "word": "鹤岗开发百万元高档小区",
-      "onboard_time": 1754821221,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234547,
       "num": 234547,
       "word": "医生将患者强塞红包转存住院费",
@@ -737,6 +777,14 @@
       "onboard_time": 1754808920,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228412,
+      "num": 148503,
+      "word": "王楚钦神仙球把曹巍看激动了",
+      "onboard_time": 1754824221,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 228221,
@@ -843,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200316,
+      "num": 200316,
+      "word": "燥候尚公主",
+      "onboard_time": 1754823682,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200309,
       "num": 201403,
       "word": "王楚钦11比7户上隼辅",
@@ -857,14 +913,6 @@
       "onboard_time": 1754803641,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198408,
-      "num": 198408,
-      "word": "杭州警方通报某演出场所发生猥亵事件",
-      "onboard_time": 1754821761,
-      "rank": 22,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 198314,
@@ -921,6 +969,14 @@
       "onboard_time": 1754787019,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191800,
+      "num": 147794,
+      "word": "孙颖莎抹把脸下班",
+      "onboard_time": 1754824221,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 190098,
@@ -991,6 +1047,14 @@
       "num": 180364,
       "word": "马丽回忆和沈腾第一次见面",
       "onboard_time": 1754801241,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180182,
+      "num": 180182,
+      "word": "向往的生活8",
+      "onboard_time": 1754824342,
       "rank": 23,
       "category": "综艺"
     },
@@ -1259,6 +1323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 154470,
+      "num": 154470,
+      "word": "百果园一年闭店近千家",
+      "onboard_time": 1754824101,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154185,
       "num": 154185,
       "word": "朱志鑫在披哥发全员收官长文",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1754799082,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152843,
+      "num": 152843,
+      "word": "删好友不会被发现的方法",
+      "onboard_time": 1754822122,
+      "rank": 47,
+      "category": "互联网,情感"
     },
     {
       "raw_hot": 152170,
@@ -1387,6 +1467,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 143187,
+      "num": 143187,
+      "word": "孙颖莎说没有想的这么轻松",
+      "onboard_time": 1754823622,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141604,
       "num": 141604,
       "word": "张奕然高音",
@@ -1473,14 +1561,6 @@
       "onboard_time": 1754811381,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137649,
-      "num": 137649,
-      "word": "洞洞鞋",
-      "onboard_time": 1754821340,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 136616,
@@ -1587,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131712,
+      "num": 131712,
+      "word": "韩国博主称歼20戏耍日韩雷达",
+      "onboard_time": 1754823742,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131418,
       "num": 131418,
       "word": "橘子馒头",
@@ -1643,12 +1731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130409,
+      "num": 130409,
+      "word": "孙颖莎11比1大藤沙月",
+      "onboard_time": 1754823203,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130077,
       "num": 130077,
       "word": "白举纲抱住陈楚生就不撒手",
       "onboard_time": 1754819182,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129862,
+      "num": 199189,
+      "word": "37岁救人牺牲男子被确认见义勇为",
+      "onboard_time": 1754824522,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 129643,
@@ -2219,6 +2323,22 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 102845,
+      "num": 102845,
+      "word": "梁家辉又收到了labubu",
+      "onboard_time": 1754824702,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 102557,
+      "num": 102557,
+      "word": "罗小黑战记",
+      "onboard_time": 1754823982,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 102546,
       "num": 102546,
       "word": "洗洁精直接抹碗有害",
@@ -2257,14 +2377,6 @@
       "onboard_time": 1754817621,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100676,
-      "num": 100676,
-      "word": "删好友不会被发现的方法",
-      "onboard_time": 1754822122,
-      "rank": 47,
-      "category": "互联网,情感"
     },
     {
       "raw_hot": 99834,
@@ -2603,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67862,
+      "num": 96778,
+      "word": "去年外地人鹤岗购房5680套",
+      "onboard_time": 1754822721,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65169,
       "num": 65169,
       "word": "陈乔恩拯救了阮经天的职业生涯",
@@ -2628,7 +2748,7 @@
     },
     {
       "raw_hot": 58991,
-      "num": 657535,
+      "num": 848721,
       "word": "榆中已转移安置9800多人",
       "onboard_time": 1754799801,
       "rank": 44,
@@ -2649,6 +2769,14 @@
       "onboard_time": 1754793501,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52559,
+      "num": 121844,
+      "word": "婚内强奸案当事夫妻仍未离婚",
+      "onboard_time": 1754824281,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52558,
@@ -2689,6 +2817,14 @@
       "onboard_time": 1754818461,
       "rank": 43,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 47202,
+      "num": 124898,
+      "word": "萝卜招聘为何屡禁不止",
+      "onboard_time": 1754824402,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44868,
