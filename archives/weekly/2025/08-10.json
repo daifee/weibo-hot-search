@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754832935615,
+  "endTime": 1754833640584,
   "band_list": [
     {
       "raw_hot": 1701905,
@@ -17,6 +17,14 @@
       "onboard_time": 1754801901,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1602144,
+      "num": 1602144,
+      "word": "张本智和回应告状",
+      "onboard_time": 1754828783,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1547106,
@@ -41,14 +49,6 @@
       "onboard_time": 1754798900,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1451765,
-      "num": 1451765,
-      "word": "张本智和回应告状",
-      "onboard_time": 1754828783,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1423143,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740382,
+      "num": 740382,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754827822,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 739266,
       "num": 739266,
       "word": "百果园价格",
@@ -321,14 +329,6 @@
       "onboard_time": 1754826082,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544090,
-      "num": 544090,
-      "word": "浪浪山小妖怪",
-      "onboard_time": 1754827822,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 542893,
@@ -497,6 +497,14 @@
       "onboard_time": 1754751205,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389178,
+      "num": 471608,
+      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+      "onboard_time": 1754829263,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 383759,
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250112,
+      "num": 204749,
+      "word": "虞书欣机场私服好健康的美",
+      "onboard_time": 1754831663,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245455,
       "num": 245455,
       "word": "游客还原游览少林寺时遇大雨",
@@ -827,12 +843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240085,
-      "num": 204749,
-      "word": "虞书欣机场私服好健康的美",
-      "onboard_time": 1754831663,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 242103,
+      "num": 242103,
+      "word": "利剑玫瑰破8000",
+      "onboard_time": 1754832143,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 240053,
@@ -923,12 +939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212237,
-      "num": 471608,
-      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
-      "onboard_time": 1754829263,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 216165,
+      "num": 216165,
+      "word": "那英去花少带了更年期的药",
+      "onboard_time": 1754831362,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 211701,
@@ -963,12 +979,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206015,
-      "num": 208329,
-      "word": "利剑玫瑰破8000",
-      "onboard_time": 1754832143,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 203495,
+      "num": 203495,
+      "word": "AG对战狼队",
+      "onboard_time": 1754830342,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 202956,
@@ -1051,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197455,
+      "num": 197455,
+      "word": "溺亡女童左腿被回水管吸住",
+      "onboard_time": 1754828783,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196391,
       "num": 196391,
       "word": "锦月如歌提档六点播",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1754755282,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189660,
-      "num": 189660,
-      "word": "AG对战狼队",
-      "onboard_time": 1754830342,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 188844,
@@ -1267,14 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176190,
-      "num": 176190,
-      "word": "溺亡女童左腿被回水管吸住",
-      "onboard_time": 1754828783,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175668,
       "num": 163231,
       "word": "李荣浩给粉丝签名忘签自己名字",
@@ -1288,14 +1296,6 @@
       "word": "让黄子韬起立握手的男人出现了",
       "onboard_time": 1754796620,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175210,
-      "num": 180200,
-      "word": "那英去花少带了更年期的药",
-      "onboard_time": 1754831362,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1459,6 +1459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159546,
+      "num": 159546,
+      "word": "AG司马光联赛600淘汰",
+      "onboard_time": 1754833163,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158654,
       "num": 158654,
       "word": "王橹杰半扎狼尾造型",
@@ -1504,6 +1512,22 @@
       "word": "男子拒付52万婚宴食材款事件后续",
       "onboard_time": 1754820082,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156399,
+      "num": 156399,
+      "word": "办婚礼近1年女方不让碰被判返还彩礼",
+      "onboard_time": 1754831604,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155360,
+      "num": 155360,
+      "word": "多人烧烤店外用餐遭楼上泼不明液体",
+      "onboard_time": 1754829502,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1561,6 +1585,14 @@
       "onboard_time": 1754820743,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151857,
+      "num": 165572,
+      "word": "官方调查男子发布12字评论被拘",
+      "onboard_time": 1754829081,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 150948,
@@ -1627,14 +1659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145746,
-      "num": 145746,
-      "word": "办婚礼近1年女方不让碰被判返还彩礼",
-      "onboard_time": 1754831604,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145717,
       "num": 145717,
       "word": "国乒包揽横滨冠军赛女单四强",
@@ -1697,14 +1721,6 @@
       "onboard_time": 1754823622,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143105,
-      "num": 165572,
-      "word": "官方调查男子发布12字评论被拘",
-      "onboard_time": 1754829081,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 141604,
@@ -2123,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123326,
-      "num": 123326,
-      "word": "多人烧烤店外用餐遭楼上泼不明液体",
-      "onboard_time": 1754829502,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123317,
       "num": 123317,
       "word": "贾哈4比1邱党",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1754799860,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119179,
+      "num": 119179,
+      "word": "陈哲远这次是真老公",
+      "onboard_time": 1754833403,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 119035,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1754798122,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110085,
+      "num": 110085,
+      "word": "孙颖莎说把明天第一场打好",
+      "onboard_time": 1754833043,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 109975,
@@ -2867,12 +2891,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94232,
+      "num": 94232,
+      "word": "吃着香还掉秤的减脂餐",
+      "onboard_time": 1754832985,
+      "rank": 48,
+      "category": "运动健身,美食"
+    },
+    {
       "raw_hot": 93847,
       "num": 121844,
       "word": "婚内强奸案当事夫妻仍未离婚",
       "onboard_time": 1754824281,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93784,
+      "num": 93784,
+      "word": "老公过生日给老公做一顿冻干美食",
+      "onboard_time": 1754833163,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 92812,
@@ -3499,7 +3539,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1961,
+      "raw_hot": 3101,
       "num": 1055105,
       "word": "相约成都遇见万千精彩",
       "onboard_time": 1754572223,

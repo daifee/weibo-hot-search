@@ -1,0 +1,410 @@
+{
+  "runTime": 1754833640584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1602144,
+        "num": 1602144,
+        "word": "张本智和回应告状",
+        "onboard_time": 1754828783,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1270610,
+        "num": 1270610,
+        "word": "洞洞鞋",
+        "onboard_time": 1754821340,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 3101,
+        "num": 968743,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885463,
+        "num": 885463,
+        "word": "百果园 钟薛高",
+        "onboard_time": 1754825003,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740382,
+        "num": 740382,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1754827822,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 627814,
+        "num": 627814,
+        "word": "向往的生活8",
+        "onboard_time": 1754824342,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607512,
+        "num": 607512,
+        "word": "杭州警方通报某演出场所发生猥亵事件",
+        "onboard_time": 1754821761,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 535132,
+        "num": 535132,
+        "word": "抗战胜利80周年天安门演练现场",
+        "onboard_time": 1754826322,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484708,
+        "num": 484708,
+        "word": "网友票选可以出道的星二代",
+        "onboard_time": 1754826082,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389178,
+        "num": 389178,
+        "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+        "onboard_time": 1754829263,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1293854,
+        "num": 383657,
+        "word": "张本智和不满王皓握手敷衍",
+        "onboard_time": 1754823501,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505680,
+        "num": 362971,
+        "word": "关晓彤瘦了十几斤",
+        "onboard_time": 1754801901,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406431,
+        "num": 350204,
+        "word": "这不是复制粘贴这是中国军人",
+        "onboard_time": 1754826983,
+        "rank": 12,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 333043,
+        "num": 333043,
+        "word": "抠抠搜搜8年抠了49万",
+        "onboard_time": 1754806700,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330582,
+        "num": 330582,
+        "word": "吃到腾讯芒果商战红利了",
+        "onboard_time": 1754827281,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268801,
+        "num": 268801,
+        "word": "妻子嫂子景德镇批发式购物狂买2000元",
+        "onboard_time": 1754827401,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242103,
+        "num": 242103,
+        "word": "利剑玫瑰破8000",
+        "onboard_time": 1754832143,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226182,
+        "num": 226182,
+        "word": "26岁男子勒死73岁情人水泥埋尸",
+        "onboard_time": 1754817442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216165,
+        "num": 216165,
+        "word": "那英去花少带了更年期的药",
+        "onboard_time": 1754831362,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203495,
+        "num": 203495,
+        "word": "AG对战狼队",
+        "onboard_time": 1754830342,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 511676,
+        "num": 202980,
+        "word": "张晋和蔡少芬国外旅行突发心脏病",
+        "onboard_time": 1754810061,
+        "rank": 20,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 358993,
+        "num": 201795,
+        "word": "向往的生活8 丁程鑫",
+        "onboard_time": 1754821161,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264802,
+        "num": 200992,
+        "word": "建议多囊还是不要参与外卖大战了",
+        "onboard_time": 1754831123,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250112,
+        "num": 200212,
+        "word": "虞书欣机场私服好健康的美",
+        "onboard_time": 1754831663,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204554,
+        "num": 198856,
+        "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+        "onboard_time": 1754812221,
+        "rank": 24,
+        "category": "演出,健康医疗"
+      },
+      {
+        "raw_hot": 34745,
+        "num": 198365,
+        "word": "华晨宇火星钢枪队赢麻了",
+        "onboard_time": 1754829382,
+        "rank": 25,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 197455,
+        "num": 197455,
+        "word": "溺亡女童左腿被回水管吸住",
+        "onboard_time": 1754828783,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185448,
+        "num": 185448,
+        "word": "举报徐杰者再发声",
+        "onboard_time": 1754827401,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178998,
+        "num": 178998,
+        "word": "真的建议朋友圈一定要趁早发",
+        "onboard_time": 1754811081,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141196,
+        "num": 169567,
+        "word": "迪迪不畏美而自知",
+        "onboard_time": 1754829922,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161544,
+        "num": 161544,
+        "word": "王楚钦半决赛迎战莫雷加德",
+        "onboard_time": 1754830703,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159546,
+        "num": 159546,
+        "word": "AG司马光联赛600淘汰",
+        "onboard_time": 1754833163,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156399,
+        "num": 156399,
+        "word": "办婚礼近1年女方不让碰被判返还彩礼",
+        "onboard_time": 1754831604,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156220,
+        "num": 156220,
+        "word": "张本智和告状",
+        "onboard_time": 1754822181,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134072,
+        "num": 155499,
+        "word": "刘宇宁工作室必有高人指点",
+        "onboard_time": 1754823023,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155360,
+        "num": 155360,
+        "word": "多人烧烤店外用餐遭楼上泼不明液体",
+        "onboard_time": 1754829502,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152203,
+        "num": 152203,
+        "word": "成都GG战胜FPX.ZQ",
+        "onboard_time": 1754832622,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151857,
+        "num": 151857,
+        "word": "官方调查男子发布12字评论被拘",
+        "onboard_time": 1754829081,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142830,
+        "num": 142830,
+        "word": "法拉利老了还是法拉利",
+        "onboard_time": 1754829382,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125907,
+        "num": 125907,
+        "word": "鹤岗开发百万元高档小区",
+        "onboard_time": 1754821221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122611,
+        "num": 122611,
+        "word": "男子杀鸽子放血30秒后鸽子飞走",
+        "onboard_time": 1754831243,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119179,
+        "num": 119179,
+        "word": "陈哲远这次是真老公",
+        "onboard_time": 1754833403,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114726,
+        "num": 114726,
+        "word": "杨洋 谁说演员不能直视镜头",
+        "onboard_time": 1754812881,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114626,
+        "num": 114626,
+        "word": "中国救人者和英国被救者后代拥抱",
+        "onboard_time": 1754831123,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110085,
+        "num": 110085,
+        "word": "孙颖莎说把明天第一场打好",
+        "onboard_time": 1754833043,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103027,
+        "num": 103027,
+        "word": "时代少年团cha了粟米摇",
+        "onboard_time": 1754830462,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100015,
+        "num": 100015,
+        "word": "又到吃梭子蟹的时候了",
+        "onboard_time": 1754832622,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98988,
+        "num": 98988,
+        "word": "Doinb曝Ale陪玩1500一小时",
+        "onboard_time": 1754829561,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94232,
+        "num": 94232,
+        "word": "吃着香还掉秤的减脂餐",
+        "onboard_time": 1754832985,
+        "rank": 48,
+        "category": "运动健身,美食"
+      },
+      {
+        "raw_hot": 93784,
+        "num": 93784,
+        "word": "老公过生日给老公做一顿冻干美食",
+        "onboard_time": 1754833163,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极促进产业高端化智能化绿色化#"
+    }
+  }
+}
