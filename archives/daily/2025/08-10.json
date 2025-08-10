@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754798928527,
+  "endTime": 1754799978247,
   "band_list": [
     {
       "raw_hot": 1293558,
@@ -91,6 +91,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 599187,
+      "num": 252352,
+      "word": "唐香玉 是卫生巾又怎样",
+      "onboard_time": 1754796981,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588047,
       "num": 588047,
       "word": "云南大理一7岁小孩在苍山走失",
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 560673,
-      "num": 252352,
-      "word": "唐香玉 是卫生巾又怎样",
-      "onboard_time": 1754796981,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 542157,
       "num": 275224,
       "word": "无袖流行是对身体羞耻的反击",
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 507149,
-      "num": 290714,
+      "num": 359108,
       "word": "赵奕欢哭到身上长荨麻疹",
       "onboard_time": 1754796681,
       "rank": 6,
@@ -187,6 +187,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384193,
+      "num": 384193,
+      "word": "月薪2万吃不起百果园",
+      "onboard_time": 1754798900,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362646,
+      "num": 362646,
+      "word": "眷思量",
+      "onboard_time": 1754797881,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359350,
       "num": 359350,
       "word": "中国留学生在澳遭围殴抢救超30小时",
@@ -201,6 +217,14 @@
       "onboard_time": 1754755343,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353630,
+      "num": 353630,
+      "word": "张远回应至上励合不解散",
+      "onboard_time": 1754798122,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 325056,
@@ -339,20 +363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223680,
+      "num": 223680,
+      "word": "黄子韬上个节目确诊了",
+      "onboard_time": 1754798000,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218170,
       "num": 218170,
       "word": "侵华日军荣字1644部队细菌战证据公布",
       "onboard_time": 1754790381,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214872,
-      "num": 214872,
-      "word": "眷思量",
-      "onboard_time": 1754797881,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 211701,
@@ -387,14 +411,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 200054,
-      "num": 200054,
-      "word": "张远回应至上励合不解散",
-      "onboard_time": 1754798122,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193683,
       "num": 193683,
       "word": "大爷摆摊自称送20万现金无人敢拿",
@@ -427,11 +443,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182843,
-      "num": 166978,
-      "word": "黄子韬上个节目确诊了",
-      "onboard_time": 1754798000,
-      "rank": 22,
+      "raw_hot": 186825,
+      "num": 186825,
+      "word": "香奈儿简直是女王",
+      "onboard_time": 1754799021,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -467,6 +483,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166552,
+      "num": 166552,
+      "word": "易烊千玺北京场预售开启",
+      "onboard_time": 1754799621,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 164613,
+      "num": 164613,
+      "word": "董璇说结婚是梁静茹给的勇气",
+      "onboard_time": 1754796321,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161905,
       "num": 161905,
       "word": "光晞不能捐周也不能脱",
@@ -491,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158705,
-      "num": 153895,
-      "word": "董璇说结婚是梁静茹给的勇气",
-      "onboard_time": 1754796321,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157328,
       "num": 157328,
       "word": "小沈阳说鹿晗就在旁边唱的",
@@ -512,6 +536,14 @@
       "word": "张远燃爆全场堪比防空警报",
       "onboard_time": 1754793021,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154185,
+      "num": 154185,
+      "word": "朱志鑫在披哥发全员收官长文",
+      "onboard_time": 1754798722,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -529,6 +561,14 @@
       "onboard_time": 1754797101,
       "rank": 34,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 149122,
+      "num": 149122,
+      "word": "蒯曼vs石洵瑶",
+      "onboard_time": 1754799082,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 144870,
@@ -553,6 +593,14 @@
       "onboard_time": 1754747425,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141172,
+      "num": 141172,
+      "word": "余承恩你不乘哦",
+      "onboard_time": 1754799142,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 140926,
@@ -587,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135217,
+      "num": 135217,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1754799322,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133673,
       "num": 133673,
       "word": "前车故障后车智驾径直撞上致2死",
@@ -603,20 +659,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128758,
+      "num": 128758,
+      "word": "吴彦祖尹子维一不小心认识28年了",
+      "onboard_time": 1754799801,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128744,
       "num": 128744,
       "word": "杨冰怡夺冠后C位首秀",
       "onboard_time": 1754755162,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128658,
-      "num": 128658,
-      "word": "朱志鑫在披哥发全员收官长文",
-      "onboard_time": 1754798722,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 127635,
@@ -635,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "罗小黑",
+      "onboard_time": 1754799742,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126084,
       "num": 126084,
       "word": "董璇张维伊连晕车呕吐都同步",
@@ -649,6 +713,14 @@
       "onboard_time": 1754786060,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123317,
+      "num": 123317,
+      "word": "贾哈4比1邱党",
+      "onboard_time": 1754799801,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 120711,
@@ -675,12 +747,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119275,
+      "num": 119275,
+      "word": "杜华说这节目有点黑",
+      "onboard_time": 1754799860,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118575,
+      "num": 118575,
+      "word": "湖南一护士小姐姐因为勇敢收获爱情",
+      "onboard_time": 1754798662,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117380,
       "num": 117380,
       "word": "罗家英给妻子汪明荃买楼留保险",
       "onboard_time": 1754765956,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117328,
+      "num": 128724,
+      "word": "普京授予CIA副局长之子列宁勋章",
+      "onboard_time": 1754798481,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115022,
@@ -769,14 +865,6 @@
       "onboard_time": 1754790561,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108646,
-      "num": 108646,
-      "word": "湖南一护士小姐姐因为勇敢收获爱情",
-      "onboard_time": 1754798662,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106740,
@@ -987,14 +1075,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82938,
-      "num": 112481,
-      "word": "月薪2万吃不起百果园",
-      "onboard_time": 1754798900,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82791,
       "num": 85310,
       "word": "时代少年团上海站没有延伸台",
@@ -1083,12 +1163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58783,
-      "num": 128724,
-      "word": "普京授予CIA副局长之子列宁勋章",
-      "onboard_time": 1754798481,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 60161,
+      "num": 186974,
+      "word": "警方回应7岁小孩在苍山走失",
+      "onboard_time": 1754799682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56225,
@@ -1148,7 +1228,7 @@
     },
     {
       "raw_hot": 37360,
-      "num": 171958,
+      "num": 187175,
       "word": "美团会员组团看鹿哥演唱会",
       "onboard_time": 1754796440,
       "rank": 19,
@@ -1201,6 +1281,22 @@
       "onboard_time": 1754781317,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30798,
+      "num": 118389,
+      "word": "榆中已转移安置9800多人",
+      "onboard_time": 1754799801,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 29518,
+      "num": 120947,
+      "word": "46岁的李智雅",
+      "onboard_time": 1754799682,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 29224,

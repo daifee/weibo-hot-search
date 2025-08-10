@@ -1,0 +1,410 @@
+{
+  "runTime": 1754799978247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 971709,
+        "num": 1155473,
+        "word": "花少7 全员淡人",
+        "onboard_time": 1754786300,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561507,
+        "num": 561507,
+        "word": "云南大理一7岁小孩在苍山走失",
+        "onboard_time": 1754794880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3360,
+        "num": 400631,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661331,
+        "num": 394829,
+        "word": "东北雨姐发博",
+        "onboard_time": 1754788699,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 384193,
+        "num": 384193,
+        "word": "月薪2万吃不起百果园",
+        "onboard_time": 1754798900,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362646,
+        "num": 362646,
+        "word": "眷思量",
+        "onboard_time": 1754797881,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 467224,
+        "num": 359108,
+        "word": "赵奕欢哭到身上长荨麻疹",
+        "onboard_time": 1754796681,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353630,
+        "num": 353630,
+        "word": "张远回应至上励合不解散",
+        "onboard_time": 1754798122,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271169,
+        "num": 271169,
+        "word": "关系降级",
+        "onboard_time": 1754791040,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246511,
+        "num": 246511,
+        "word": "女子嫌私教课太贵让小孩哥教游泳",
+        "onboard_time": 1754786960,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599187,
+        "num": 241109,
+        "word": "唐香玉 是卫生巾又怎样",
+        "onboard_time": 1754796981,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324323,
+        "num": 237885,
+        "word": "鲁豫给张子枫买衣服",
+        "onboard_time": 1754795241,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306212,
+        "num": 236267,
+        "word": "田栩宁杨迪合唱imissyou",
+        "onboard_time": 1754782757,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234011,
+        "num": 234011,
+        "word": "游客还原游览少林寺时遇大雨",
+        "onboard_time": 1754795061,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223702,
+        "num": 223702,
+        "word": "吴艳妮现身张艺兴演唱会",
+        "onboard_time": 1754796380,
+        "rank": 14,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 223680,
+        "num": 223680,
+        "word": "黄子韬上个节目确诊了",
+        "onboard_time": 1754798000,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196659,
+        "num": 196659,
+        "word": "无袖流行是对身体羞耻的反击",
+        "onboard_time": 1754781317,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188367,
+        "num": 188367,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33176,
+        "num": 187175,
+        "word": "美团会员组团看鹿哥演唱会",
+        "onboard_time": 1754796440,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60161,
+        "num": 186974,
+        "word": "警方回应7岁小孩在苍山走失",
+        "onboard_time": 1754799682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186947,
+        "num": 186947,
+        "word": "画江湖之不良人",
+        "onboard_time": 1754797640,
+        "rank": 20,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 186825,
+        "num": 186825,
+        "word": "香奈儿简直是女王",
+        "onboard_time": 1754799021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166552,
+        "num": 166552,
+        "word": "易烊千玺北京场预售开启",
+        "onboard_time": 1754799621,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164613,
+        "num": 164613,
+        "word": "董璇说结婚是梁静茹给的勇气",
+        "onboard_time": 1754796321,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164012,
+        "num": 164012,
+        "word": "曹骏也是在凡人修仙传里开上炮了",
+        "onboard_time": 1754796801,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155738,
+        "num": 155738,
+        "word": "爱情公寓取景地15年的变化有多大",
+        "onboard_time": 1754790440,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154185,
+        "num": 154185,
+        "word": "朱志鑫在披哥发全员收官长文",
+        "onboard_time": 1754798722,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149122,
+        "num": 149122,
+        "word": "蒯曼vs石洵瑶",
+        "onboard_time": 1754799082,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143380,
+        "num": 143380,
+        "word": "李荣浩给粉丝签名忘签自己名字",
+        "onboard_time": 1754794282,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113237,
+        "num": 141240,
+        "word": "抗战胜利80周年大会第一次演练结束",
+        "onboard_time": 1754782937,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842666,
+        "num": 141214,
+        "word": "支付宝崩了",
+        "onboard_time": 1754794821,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141172,
+        "num": 141172,
+        "word": "余承恩你不乘哦",
+        "onboard_time": 1754799142,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135217,
+        "num": 135217,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1754799322,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135160,
+        "num": 135160,
+        "word": "洞洞鞋突然卖不动了",
+        "onboard_time": 1754783058,
+        "rank": 33,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 128758,
+        "num": 128758,
+        "word": "吴彦祖尹子维一不小心认识28年了",
+        "onboard_time": 1754799801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 126567,
+        "word": "罗小黑",
+        "onboard_time": 1754799742,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123844,
+        "num": 123844,
+        "word": "檀健次 十日终焉",
+        "onboard_time": 1754765595,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123317,
+        "num": 123317,
+        "word": "贾哈4比1邱党",
+        "onboard_time": 1754799801,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29518,
+        "num": 120947,
+        "word": "46岁的李智雅",
+        "onboard_time": 1754799682,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120125,
+        "num": 120125,
+        "word": "龙族3一眼看到绘梨衣",
+        "onboard_time": 1754798000,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119275,
+        "num": 119275,
+        "word": "杜华说这节目有点黑",
+        "onboard_time": 1754799860,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119018,
+        "num": 119018,
+        "word": "小鹏汽车回应私自用车主5000积分",
+        "onboard_time": 1754793800,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118932,
+        "num": 118932,
+        "word": "i miss you",
+        "onboard_time": 1754789120,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118575,
+        "num": 118575,
+        "word": "湖南一护士小姐姐因为勇敢收获爱情",
+        "onboard_time": 1754798662,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30798,
+        "num": 118389,
+        "word": "榆中已转移安置9800多人",
+        "onboard_time": 1754799801,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 118321,
+        "num": 118321,
+        "word": "国漫cp天花板果然名不虚传",
+        "onboard_time": 1754797640,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "普京授予CIA副局长之子列宁勋章",
+        "onboard_time": 1754798481,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114103,
+        "num": 114103,
+        "word": "曝徐杰多次致人打胎",
+        "onboard_time": 1754783118,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113340,
+        "num": 113340,
+        "word": "祝绪丹冷脸开枪好爽",
+        "onboard_time": 1754797101,
+        "rank": 48,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 112278,
+        "num": 112278,
+        "word": "小鹏汽车被曝私自使用车主5000积分",
+        "onboard_time": 1754791040,
+        "rank": 49,
+        "category": "汽车,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}

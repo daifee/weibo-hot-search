@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754798928527,
+  "endTime": 1754799978247,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3811,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 599187,
+      "num": 252352,
+      "word": "唐香玉 是卫生巾又怎样",
+      "onboard_time": 1754796981,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598516,
       "num": 598516,
       "word": "董明珠再回应玫瑰空调争议",
@@ -4299,14 +4307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 560673,
-      "num": 252352,
-      "word": "唐香玉 是卫生巾又怎样",
-      "onboard_time": 1754796981,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 560464,
       "num": 492071,
       "word": "倪萍说董璇不应该结婚",
@@ -4716,7 +4716,7 @@
     },
     {
       "raw_hot": 507149,
-      "num": 290714,
+      "num": 359108,
       "word": "赵奕欢哭到身上长荨麻疹",
       "onboard_time": 1754796681,
       "rank": 6,
@@ -6187,6 +6187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384193,
+      "num": 384193,
+      "word": "月薪2万吃不起百果园",
+      "onboard_time": 1754798900,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383803,
       "num": 817250,
       "word": "李维嘉说董璇像带了两个孩子",
@@ -6491,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362646,
+      "num": 362646,
+      "word": "眷思量",
+      "onboard_time": 1754797881,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362440,
       "num": 362440,
       "word": "生娃能领7笔钱",
@@ -6673,6 +6689,14 @@
       "onboard_time": 1754476823,
       "rank": 26,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 353630,
+      "num": 353630,
+      "word": "张远回应至上励合不解散",
+      "onboard_time": 1754798122,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 353075,
@@ -9955,6 +9979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223680,
+      "num": 223680,
+      "word": "黄子韬上个节目确诊了",
+      "onboard_time": 1754798000,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223199,
       "num": 223199,
       "word": "宏依辈子",
@@ -10393,14 +10425,6 @@
       "onboard_time": 1754137945,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 214872,
-      "num": 214872,
-      "word": "眷思量",
-      "onboard_time": 1754797881,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 214838,
@@ -11699,14 +11723,6 @@
       "category": "艺人,辟谣/通报"
     },
     {
-      "raw_hot": 200054,
-      "num": 200054,
-      "word": "张远回应至上励合不解散",
-      "onboard_time": 1754798122,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199897,
       "num": 199897,
       "word": "月亮",
@@ -12963,6 +12979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186825,
+      "num": 186825,
+      "word": "香奈儿简直是女王",
+      "onboard_time": 1754799021,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186635,
       "num": 128081,
       "word": "哈尔滨震感",
@@ -13321,14 +13345,6 @@
       "onboard_time": 1754028802,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182843,
-      "num": 166978,
-      "word": "黄子韬上个节目确诊了",
-      "onboard_time": 1754798000,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 182811,
@@ -14995,6 +15011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166552,
+      "num": 166552,
+      "word": "易烊千玺北京场预售开启",
+      "onboard_time": 1754799621,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166518,
       "num": 131774,
       "word": "赵露思说以前那样减肥没什么好处",
@@ -15193,6 +15217,14 @@
       "onboard_time": 1754221584,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164613,
+      "num": 164613,
+      "word": "董璇说结婚是梁静茹给的勇气",
+      "onboard_time": 1754796321,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 164506,
@@ -15979,14 +16011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158705,
-      "num": 153895,
-      "word": "董璇说结婚是梁静茹给的勇气",
-      "onboard_time": 1754796321,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158665,
       "num": 158665,
       "word": "宋妍霏跳troublemaker美了马丽一大跳",
@@ -16577,6 +16601,14 @@
       "onboard_time": 1754120423,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154185,
+      "num": 154185,
+      "word": "朱志鑫在披哥发全员收官长文",
+      "onboard_time": 1754798722,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 154153,
@@ -17337,6 +17369,14 @@
       "onboard_time": 1754731881,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149122,
+      "num": 149122,
+      "word": "蒯曼vs石洵瑶",
+      "onboard_time": 1754799082,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 149045,
@@ -18609,6 +18649,14 @@
       "onboard_time": 1754106500,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141172,
+      "num": 141172,
+      "word": "余承恩你不乘哦",
+      "onboard_time": 1754799142,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 141147,
@@ -20899,6 +20947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 128758,
+      "num": 128758,
+      "word": "吴彦祖尹子维一不小心认识28年了",
+      "onboard_time": 1754799801,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128755,
       "num": 128755,
       "word": "张艺兴红发微醺妆",
@@ -20953,14 +21009,6 @@
       "onboard_time": 1754297304,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128658,
-      "num": 128658,
-      "word": "朱志鑫在披哥发全员收官长文",
-      "onboard_time": 1754798722,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 128594,
@@ -21393,6 +21441,14 @@
       "onboard_time": 1754375123,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "罗小黑",
+      "onboard_time": 1754799742,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 126535,
@@ -22009,6 +22065,14 @@
       "onboard_time": 1754118920,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123317,
+      "num": 123317,
+      "word": "贾哈4比1邱党",
+      "onboard_time": 1754799801,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 123296,
@@ -22819,6 +22883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119275,
+      "num": 119275,
+      "word": "杜华说这节目有点黑",
+      "onboard_time": 1754799860,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119231,
       "num": 119231,
       "word": "被天山雪莲硬控30秒",
@@ -22961,6 +23033,14 @@
       "onboard_time": 1754562082,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118575,
+      "num": 118575,
+      "word": "湖南一护士小姐姐因为勇敢收获爱情",
+      "onboard_time": 1754798662,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118564,
@@ -23153,6 +23233,14 @@
       "onboard_time": 1754371705,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117328,
+      "num": 128724,
+      "word": "普京授予CIA副局长之子列宁勋章",
+      "onboard_time": 1754798481,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117265,
@@ -24649,14 +24737,6 @@
       "onboard_time": 1754577085,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108646,
-      "num": 108646,
-      "word": "湖南一护士小姐姐因为勇敢收获爱情",
-      "onboard_time": 1754798662,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108568,
@@ -27619,14 +27699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82938,
-      "num": 112481,
-      "word": "月薪2万吃不起百果园",
-      "onboard_time": 1754798900,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82920,
       "num": 208204,
       "word": "2025成都世运会场馆漫游指南",
@@ -29107,6 +29179,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 60161,
+      "num": 186974,
+      "word": "警方回应7岁小孩在苍山走失",
+      "onboard_time": 1754799682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60008,
       "num": 259493,
       "word": "淘宝闪购AG电竞梦幻联动",
@@ -29193,14 +29273,6 @@
       "onboard_time": 1753977442,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 58783,
-      "num": 128724,
-      "word": "普京授予CIA副局长之子列宁勋章",
-      "onboard_time": 1754798481,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58570,
@@ -30676,7 +30748,7 @@
     },
     {
       "raw_hot": 37360,
-      "num": 171958,
+      "num": 187175,
       "word": "美团会员组团看鹿哥演唱会",
       "onboard_time": 1754796440,
       "rank": 19,
@@ -31139,6 +31211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30798,
+      "num": 118389,
+      "word": "榆中已转移安置9800多人",
+      "onboard_time": 1754799801,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 30624,
       "num": 124957,
       "word": "榆中受灾居民称房子被推几百米",
@@ -31225,6 +31305,14 @@
       "onboard_time": 1754269883,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 29518,
+      "num": 120947,
+      "word": "46岁的李智雅",
+      "onboard_time": 1754799682,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 29342,
