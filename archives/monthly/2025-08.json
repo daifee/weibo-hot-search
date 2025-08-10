@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754815621916,
+  "endTime": 1754818071693,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2347,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844110,
+      "num": 676232,
+      "word": "杨洋 谁说演员不能直视镜头",
+      "onboard_time": 1754812881,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840311,
       "num": 840311,
       "word": "世运会开幕式",
@@ -3633,14 +3641,6 @@
       "onboard_time": 1754369363,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 624823,
-      "num": 624823,
-      "word": "杨洋 谁说演员不能直视镜头",
-      "onboard_time": 1754812881,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 624559,
@@ -5043,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488498,
+      "num": 488498,
+      "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+      "onboard_time": 1754812221,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 488115,
       "num": 488115,
       "word": "以色列爆发全国性抗议",
@@ -5305,6 +5313,14 @@
       "onboard_time": 1754050823,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465910,
+      "num": 465910,
+      "word": "刘诗诗红发大波浪",
+      "onboard_time": 1754815100,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464506,
@@ -5977,6 +5993,14 @@
       "onboard_time": 1754357182,
       "rank": 9,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 406441,
+      "num": 406441,
+      "word": "剑来",
+      "onboard_time": 1754814981,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 406209,
@@ -8099,6 +8123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290034,
+      "num": 290034,
+      "word": "26岁男子勒死73岁情人水泥埋尸",
+      "onboard_time": 1754817442,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290022,
       "num": 290022,
       "word": "腾讯音乐嘉年华阵容",
@@ -8259,6 +8291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282405,
+      "num": 282405,
+      "word": "韩国小伙来中国旅行被印度人破防",
+      "onboard_time": 1754813482,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282226,
       "num": 395392,
       "word": "这几天不是热热热就是雨雨雨",
@@ -8272,6 +8312,14 @@
       "word": "苏超",
       "onboard_time": 1754131882,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281800,
+      "num": 281800,
+      "word": "向鹏vs张本智和",
+      "onboard_time": 1754815941,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -9513,14 +9561,6 @@
       "onboard_time": 1754538803,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240342,
-      "num": 240342,
-      "word": "刘诗诗红发大波浪",
-      "onboard_time": 1754815100,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 240276,
@@ -11216,14 +11256,6 @@
       "word": "坠楼医生最后愿望是替自己正名",
       "onboard_time": 1754379682,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207980,
-      "num": 145385,
-      "word": "韩国小伙来中国旅行被印度人破防",
-      "onboard_time": 1754813482,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -13827,14 +13859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181732,
-      "num": 181732,
-      "word": "陈奕迅演唱会疑出现焦虑症躯体化",
-      "onboard_time": 1754812221,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181714,
       "num": 181714,
       "word": "建议把关晓彤李昀锐打包送去团综",
@@ -14187,6 +14211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178298,
+      "num": 178298,
+      "word": "JDG首次确认败者组",
+      "onboard_time": 1754817621,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178214,
       "num": 158557,
       "word": "杨博文陈浚铭报4中4",
@@ -14321,14 +14353,6 @@
       "onboard_time": 1754469983,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176719,
-      "num": 176719,
-      "word": "剑来",
-      "onboard_time": 1754814981,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 176711,
@@ -15049,6 +15073,14 @@
       "onboard_time": 1754228665,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170176,
+      "num": 170176,
+      "word": "多款人气游戏官宣动画化",
+      "onboard_time": 1754817621,
+      "rank": 25,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 170175,
@@ -17049,6 +17081,14 @@
       "onboard_time": 1754465063,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154786,
+      "num": 154786,
+      "word": "罗峰刀河王新造型公开",
+      "onboard_time": 1754817741,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 154723,
@@ -20467,12 +20507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134408,
+      "num": 134408,
+      "word": "斩神沧南之殇剧场版官宣",
+      "onboard_time": 1754816841,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 134304,
       "num": 134304,
       "word": "董璇带小酒窝参加东极岛首映礼",
       "onboard_time": 1754443520,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134304,
+      "num": 134304,
+      "word": "诡秘之主特别篇预告首曝",
+      "onboard_time": 1754817322,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 134290,
@@ -20561,6 +20617,14 @@
       "onboard_time": 1754108481,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133930,
+      "num": 133930,
+      "word": "龚俊有点不知道天地为何物了",
+      "onboard_time": 1754816601,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 133912,
@@ -20681,6 +20745,14 @@
       "onboard_time": 1754117061,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133606,
+      "num": 133606,
+      "word": "田曦薇敬礼",
+      "onboard_time": 1754816601,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 133601,
@@ -20809,6 +20881,14 @@
       "onboard_time": 1754029702,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132596,
+      "num": 132596,
+      "word": "逆水寒手游回应",
+      "onboard_time": 1754816002,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 132584,
@@ -22251,6 +22331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126030,
+      "num": 126030,
+      "word": "甘肃榆中所有受灾村庄进村道路实现抢通",
+      "onboard_time": 1754816361,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126015,
       "num": 398677,
       "word": "全红婵陈芋汐奥运会神仙打架",
@@ -23627,6 +23715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119092,
+      "num": 119092,
+      "word": "张奕然高音",
+      "onboard_time": 1754817861,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119079,
       "num": 185705,
       "word": "陈梦说女运动员也有追求美的权利",
@@ -24203,6 +24299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116278,
+      "num": 116278,
+      "word": "史上最大萌战决赛",
+      "onboard_time": 1754817322,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116169,
       "num": 116169,
       "word": "经常运动身体发生的7种变化",
@@ -24499,6 +24603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114297,
+      "num": 114297,
+      "word": "于正回应杨洋和赵晴二搭",
+      "onboard_time": 1754815160,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114208,
       "num": 120621,
       "word": "特斯拉奖励马斯克9600万股股票",
@@ -24547,6 +24659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113882,
+      "num": 113882,
+      "word": "演员谈恋爱会影响cp感吗",
+      "onboard_time": 1754817442,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113868,
       "num": 113868,
       "word": "孟子义说窦昭来支持禾晏将军复仇成功",
@@ -24569,6 +24689,14 @@
       "onboard_time": 1754007922,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 113766,
+      "num": 113766,
+      "word": "纸嫁衣动画化官宣",
+      "onboard_time": 1754815701,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 113744,
@@ -24859,6 +24987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112493,
+      "num": 112493,
+      "word": "斗罗大陆",
+      "onboard_time": 1754817982,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112427,
       "num": 112427,
       "word": "换一换主食降低全身炎症水平",
@@ -24905,6 +25041,14 @@
       "onboard_time": 1754376442,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112223,
+      "num": 112223,
+      "word": "新说唱冠军疑似被李佳隆做局",
+      "onboard_time": 1754817922,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 112173,
@@ -25747,6 +25891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107135,
+      "num": 107135,
+      "word": "陈浚铭卷毛活力小狗",
+      "onboard_time": 1754817621,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107090,
       "num": 149459,
       "word": "张峻豪直播",
@@ -26355,6 +26507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102906,
+      "num": 102906,
+      "word": "橘子馒头",
+      "onboard_time": 1754817982,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 102894,
       "num": 102894,
       "word": "生万物立秋海报",
@@ -26619,6 +26779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100848,
+      "num": 100848,
+      "word": "孙红雷跳进黄河发现根本不用洗",
+      "onboard_time": 1754817621,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100841,
       "num": 161952,
       "word": "爸爸当家最实在的姐弟情",
@@ -26761,6 +26929,14 @@
       "onboard_time": 1754292442,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99627,
+      "num": 99627,
+      "word": "陈平安爆燃回归",
+      "onboard_time": 1754818042,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 99608,
@@ -28657,14 +28833,6 @@
       "onboard_time": 1754532800,
       "rank": 49,
       "category": "财经,数码"
-    },
-    {
-      "raw_hot": 83029,
-      "num": 113663,
-      "word": "于正回应杨洋和赵晴二搭",
-      "onboard_time": 1754815160,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 83021,
@@ -31321,6 +31489,14 @@
       "onboard_time": 1754095461,
       "rank": 20,
       "category": "军事"
+    },
+    {
+      "raw_hot": 42915,
+      "num": 406483,
+      "word": "国家防总针对四川启动防汛应急响应",
+      "onboard_time": 1754817562,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42617,
