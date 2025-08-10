@@ -1,0 +1,410 @@
+{
+  "runTime": 1754803820574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462633,
+        "num": 1462633,
+        "word": "月薪2万吃不起百果园",
+        "onboard_time": 1754798900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951231,
+        "num": 951231,
+        "word": "谁敢信蒋欣穿的是同一件衬衫",
+        "onboard_time": 1754801961,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3181,
+        "num": 781790,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730076,
+        "num": 730076,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1754800941,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690701,
+        "num": 690701,
+        "word": "百果园价格",
+        "onboard_time": 1754801061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639121,
+        "num": 639121,
+        "word": "花少7 全员淡人",
+        "onboard_time": 1754786300,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618877,
+        "num": 618877,
+        "word": "徐杰方声明",
+        "onboard_time": 1754802140,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531129,
+        "num": 531129,
+        "word": "东北雨姐发博",
+        "onboard_time": 1754788699,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 297296,
+        "num": 297296,
+        "word": "云南大理一7岁小孩在苍山走失",
+        "onboard_time": 1754794880,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187327,
+        "num": 293601,
+        "word": "15岁女孩劫钱不怕警察审讯",
+        "onboard_time": 1754802200,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1544774,
+        "num": 291595,
+        "word": "关晓彤瘦了十几斤",
+        "onboard_time": 1754801901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337618,
+        "num": 286971,
+        "word": "唐香玉 是卫生巾又怎样",
+        "onboard_time": 1754796981,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334398,
+        "num": 282059,
+        "word": "李乃文 老来得粉",
+        "onboard_time": 1754802680,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278179,
+        "num": 278179,
+        "word": "眷思量",
+        "onboard_time": 1754797881,
+        "rank": 13,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 275550,
+        "num": 275550,
+        "word": "张远回应至上励合不解散",
+        "onboard_time": 1754798122,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266994,
+        "num": 266994,
+        "word": "石洵瑶4比0蒯曼",
+        "onboard_time": 1754801661,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243526,
+        "num": 243526,
+        "word": "马思纯在花少乖成这样了",
+        "onboard_time": 1754800160,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238753,
+        "num": 238753,
+        "word": "恋与深空",
+        "onboard_time": 1754801241,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238477,
+        "num": 238477,
+        "word": "黄子韬上个节目确诊了",
+        "onboard_time": 1754798000,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210216,
+        "num": 210216,
+        "word": "王楚钦4比1户上隼辅",
+        "onboard_time": 1754803641,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200309,
+        "num": 200309,
+        "word": "王楚钦11比7户上隼辅",
+        "onboard_time": 1754803641,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188419,
+        "num": 188419,
+        "word": "董璇说结婚是梁静茹给的勇气",
+        "onboard_time": 1754796321,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187360,
+        "num": 187360,
+        "word": "百果园",
+        "onboard_time": 1754802680,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165544,
+        "num": 165544,
+        "word": "赵奕欢哭到身上长荨麻疹",
+        "onboard_time": 1754796681,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 151410,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148160,
+        "num": 148160,
+        "word": "吴艳妮现身张艺兴演唱会",
+        "onboard_time": 1754796380,
+        "rank": 25,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 182706,
+        "num": 148097,
+        "word": "董璇带沙溢佟丽娅父母出游",
+        "onboard_time": 1754803700,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141381,
+        "num": 141381,
+        "word": "爱情公寓取景地15年的变化有多大",
+        "onboard_time": 1754790440,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134014,
+        "num": 134014,
+        "word": "37岁游客为救溺水一家三口牺牲",
+        "onboard_time": 1754803463,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 132037,
+        "num": 132037,
+        "word": "画江湖之不良人",
+        "onboard_time": 1754797640,
+        "rank": 29,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 329846,
+        "num": 131294,
+        "word": "支付宝崩了",
+        "onboard_time": 1754794821,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130430,
+        "num": 130430,
+        "word": "黄子弘凡什么时候放过bird",
+        "onboard_time": 1754802442,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126302,
+        "num": 126302,
+        "word": "感统失调",
+        "onboard_time": 1754800101,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125669,
+        "num": 125669,
+        "word": "田栩宁杨迪合唱imissyou",
+        "onboard_time": 1754782757,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123313,
+        "num": 123313,
+        "word": "时代少年团上海演唱会",
+        "onboard_time": 1754801901,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118074,
+        "num": 118074,
+        "word": "花少7刚开录就有人脆皮了",
+        "onboard_time": 1754803641,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115967,
+        "num": 115967,
+        "word": "焦虑症躯体化的症状",
+        "onboard_time": 1754803041,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115890,
+        "num": 115890,
+        "word": "吴磊拍戏曾压迫颈动脉晕倒",
+        "onboard_time": 1754802923,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115160,
+        "num": 115160,
+        "word": "女子嫌私教课太贵让小孩哥教游泳",
+        "onboard_time": 1754786960,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36423,
+        "num": 113223,
+        "word": "景区NPC被游客锁喉",
+        "onboard_time": 1754803521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112550,
+        "num": 112550,
+        "word": "11岁女孩海姆立克救回被呛窒息女子",
+        "onboard_time": 1754802381,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109711,
+        "num": 109711,
+        "word": "香奈儿简直是女王",
+        "onboard_time": 1754799021,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109015,
+        "num": 109015,
+        "word": "鲁豫给张子枫买衣服",
+        "onboard_time": 1754795241,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33627,
+        "num": 105887,
+        "word": "苍山失踪男童系参加夏令营时走失",
+        "onboard_time": 1754803761,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115641,
+        "num": 105680,
+        "word": "韩国宗教逼信徒3年捐53万",
+        "onboard_time": 1754803221,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105077,
+        "num": 105077,
+        "word": "勇敢的人先享受自担点烟",
+        "onboard_time": 1754803342,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101074,
+        "num": 101074,
+        "word": "明朝女设计师让全村用上自来水",
+        "onboard_time": 1754801001,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101545,
+        "num": 100620,
+        "word": "徐明浩说香奈儿具备成为艺人的条件",
+        "onboard_time": 1754800882,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94671,
+        "num": 98981,
+        "word": "暑期档名字被叫错最多的电影",
+        "onboard_time": 1754799262,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98969,
+        "num": 98969,
+        "word": "小沈阳演唱会",
+        "onboard_time": 1754803761,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
