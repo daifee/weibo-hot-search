@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754818071693,
+  "endTime": 1754818904238,
   "band_list": [
     {
       "raw_hot": 1687846,
@@ -121,6 +121,14 @@
       "onboard_time": 1754752704,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754489,
+      "num": 495767,
+      "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+      "onboard_time": 1754812221,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 739266,
@@ -267,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495910,
+      "num": 495910,
+      "word": "剑来",
+      "onboard_time": 1754814981,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 490776,
       "num": 479788,
       "word": "我恨现在的女士内裤",
       "onboard_time": 1754808861,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 488498,
-      "num": 488498,
-      "word": "陈奕迅演唱会疑出现焦虑症躯体化",
-      "onboard_time": 1754812221,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 481813,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446366,
+      "num": 446366,
+      "word": "26岁男子勒死73岁情人水泥埋尸",
+      "onboard_time": 1754817442,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431943,
       "num": 157981,
       "word": "巴西情侣悬崖边亲热坠崖身亡",
@@ -363,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 406441,
-      "num": 406441,
-      "word": "剑来",
-      "onboard_time": 1754814981,
-      "rank": 22,
-      "category": "动漫"
+      "raw_hot": 383759,
+      "num": 495803,
+      "word": "向鹏vs张本智和",
+      "onboard_time": 1754815941,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 362646,
@@ -491,14 +507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 290034,
-      "num": 290034,
-      "word": "26岁男子勒死73岁情人水泥埋尸",
-      "onboard_time": 1754817442,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286734,
       "num": 286734,
       "word": "王楚钦WTT男单第100胜",
@@ -537,14 +545,6 @@
       "onboard_time": 1754813482,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281800,
-      "num": 281800,
-      "word": "向鹏vs张本智和",
-      "onboard_time": 1754815941,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 278645,
@@ -819,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191647,
+      "num": 191647,
+      "word": "斗罗大陆",
+      "onboard_time": 1754817982,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190098,
       "num": 190098,
       "word": "老总提议给自己发200万固定月薪被批",
@@ -849,6 +857,14 @@
       "onboard_time": 1754805201,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182713,
+      "num": 182713,
+      "word": "多款人气游戏官宣动画化",
+      "onboard_time": 1754817621,
+      "rank": 25,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 180530,
@@ -963,14 +979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170176,
-      "num": 170176,
-      "word": "多款人气游戏官宣动画化",
-      "onboard_time": 1754817621,
-      "rank": 25,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 170071,
       "num": 170071,
       "word": "kspo",
@@ -985,6 +993,14 @@
       "onboard_time": 1754803941,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169504,
+      "num": 169504,
+      "word": "陈浚铭张函瑞 你要的爱",
+      "onboard_time": 1754818642,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 167499,
@@ -1211,6 +1227,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 141604,
+      "num": 141604,
+      "word": "张奕然高音",
+      "onboard_time": 1754817861,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141553,
       "num": 141553,
       "word": "小S两女儿颜值",
@@ -1235,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139541,
+      "num": 139541,
+      "word": "演员谈恋爱会影响cp感吗",
+      "onboard_time": 1754817442,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139270,
       "num": 139270,
       "word": "田曦薇金发玛丽猫",
@@ -1248,6 +1280,14 @@
       "word": "罗小黑",
       "onboard_time": 1754799742,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138973,
+      "num": 138973,
+      "word": "新说唱冠军疑似被李佳隆做局",
+      "onboard_time": 1754817922,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1476,7 +1516,7 @@
     },
     {
       "raw_hot": 126030,
-      "num": 126030,
+      "num": 206493,
       "word": "甘肃榆中所有受灾村庄进村道路实现抢通",
       "onboard_time": 1754816361,
       "rank": 34,
@@ -1579,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119092,
-      "num": 119092,
-      "word": "张奕然高音",
-      "onboard_time": 1754817861,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119035,
       "num": 119035,
       "word": "李乃文刘宇宁复刻折腰名场面",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1754798481,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117030,
+      "num": 117030,
+      "word": "那英真回答了你又不乐意",
+      "onboard_time": 1754818702,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 116804,
@@ -1707,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113882,
-      "num": 113882,
-      "word": "演员谈恋爱会影响cp感吗",
-      "onboard_time": 1754817442,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113858,
       "num": 113858,
       "word": "孙颖莎头顶打出小天线",
@@ -1747,28 +1779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112493,
-      "num": 112493,
-      "word": "斗罗大陆",
-      "onboard_time": 1754817982,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 112427,
       "num": 112427,
       "word": "换一换主食降低全身炎症水平",
       "onboard_time": 1754790680,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112223,
-      "num": 112223,
-      "word": "新说唱冠军疑似被李佳隆做局",
-      "onboard_time": 1754817922,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 111531,
@@ -1851,12 +1867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108160,
+      "num": 107150,
+      "word": "橘子馒头",
+      "onboard_time": 1754817982,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108158,
       "num": 108158,
       "word": "杨幂落泪我先碎",
       "onboard_time": 1754805321,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107214,
+      "num": 107214,
+      "word": "陈浚铭卷毛活力小狗",
+      "onboard_time": 1754817621,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 107177,
@@ -1867,12 +1899,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107135,
-      "num": 107135,
-      "word": "陈浚铭卷毛活力小狗",
-      "onboard_time": 1754817621,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 106993,
+      "num": 106993,
+      "word": "陈平安爆燃回归",
+      "onboard_time": 1754818042,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 106740,
@@ -1947,14 +1979,6 @@
       "category": "体育,演出"
     },
     {
-      "raw_hot": 102906,
-      "num": 102906,
-      "word": "橘子馒头",
-      "onboard_time": 1754817982,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 102546,
       "num": 102546,
       "word": "洗洁精直接抹碗有害",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1754805741,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99627,
-      "num": 99627,
-      "word": "陈平安爆燃回归",
-      "onboard_time": 1754818042,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 99608,
@@ -2323,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64433,
+      "num": 406483,
+      "word": "国家防总针对四川启动防汛应急响应",
+      "onboard_time": 1754817562,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61563,
       "num": 85361,
       "word": "被逆行女子剐蹭小伙教科书式回答",
@@ -2384,14 +2408,6 @@
       "word": "夫妻相约减肥大半年共瘦近100斤",
       "onboard_time": 1754804003,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42915,
-      "num": 406483,
-      "word": "国家防总针对四川启动防汛应急响应",
-      "onboard_time": 1754817562,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2459,6 +2475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34690,
+      "num": 153952,
+      "word": "6岁女童溺毙于深不到膝盖戏水池",
+      "onboard_time": 1754818282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34421,
+      "num": 131634,
+      "word": "官方通报搜救在大理走失8岁男童进度",
+      "onboard_time": 1754818823,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 33791,
       "num": 33791,
       "word": "警方回应外卖员被曝偷拍女生洗澡",
@@ -2492,7 +2524,7 @@
     },
     {
       "raw_hot": 30798,
-      "num": 118389,
+      "num": 521254,
       "word": "榆中已转移安置9800多人",
       "onboard_time": 1754799801,
       "rank": 44,
@@ -2571,6 +2603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21752,
+      "num": 495738,
+      "word": "一起相约成都世运会",
+      "onboard_time": 1754818221,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20931,
       "num": 117141,
       "word": "新疆宝宝从小解锁舞蹈天赋",
@@ -2611,6 +2651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11156,
+      "num": 107415,
+      "word": "华晨宇宋茜田曦薇虞书欣组队吃鸡",
+      "onboard_time": 1754818461,
+      "rank": 43,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 3967,
       "num": 781790,
       "word": "何以中国和合共生",
@@ -2625,6 +2673,9 @@
     },
     {
       "word": "#防汛救灾务必做到三个加强#"
+    },
+    {
+      "word": "#以文化人以文兴业#"
     }
   ]
 }
