@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754864785413,
+  "endTime": 1754865857673,
   "band_list": [
     {
       "raw_hot": 814259,
@@ -51,6 +51,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340816,
+      "num": 515797,
+      "word": "男子嫌太吵向楼下烧烤店泼不明液体",
+      "onboard_time": 1754851155,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309509,
       "num": 307316,
       "word": "拉宏桑妈妈怀孕后还吃了打虫药",
@@ -91,11 +99,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229447,
-      "num": 401728,
-      "word": "男子嫌太吵向楼下烧烤店泼不明液体",
-      "onboard_time": 1754851155,
-      "rank": 9,
+      "raw_hot": 226393,
+      "num": 226393,
+      "word": "男子偷580斤西瓜都吃光",
+      "onboard_time": 1754849356,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -145,14 +153,6 @@
       "onboard_time": 1754827822,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163520,
-      "num": 163520,
-      "word": "男子偷580斤西瓜都吃光",
-      "onboard_time": 1754849356,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155869,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92775,
+      "num": 92775,
+      "word": "幼童爬到13层阳台外悬空玩引体向上",
+      "onboard_time": 1754843960,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89792,
       "num": 89792,
       "word": "李河民大屏生图",
@@ -281,14 +289,6 @@
       "onboard_time": 1754838683,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86030,
-      "num": 86030,
-      "word": "幼童爬到13层阳台外悬空玩引体向上",
-      "onboard_time": 1754843960,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84986,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75227,
+      "num": 75227,
+      "word": "土耳其6.3级地震",
+      "onboard_time": 1754848156,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 74358,
       "num": 74358,
       "word": "抠抠搜搜8年抠了49万",
@@ -369,6 +377,14 @@
       "onboard_time": 1754833403,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68075,
+      "num": 79747,
+      "word": "藏海传韩国首张海报公开",
+      "onboard_time": 1754862314,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 67439,
@@ -443,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53435,
-      "num": 59825,
-      "word": "土耳其6.3级地震",
-      "onboard_time": 1754848156,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 55997,
+      "num": 55997,
+      "word": "办252桌婚宴后拒付52万当事方发声",
+      "onboard_time": 1754852535,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46387,
@@ -459,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44184,
-      "num": 44184,
-      "word": "藏海传韩国首张海报公开",
-      "onboard_time": 1754862314,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 38951,
+      "num": 38951,
+      "word": "WTT横滨冠军赛2025",
+      "onboard_time": 1754854155,
+      "rank": 37,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 37463,
@@ -483,12 +499,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35545,
-      "num": 33781,
-      "word": "办252桌婚宴后拒付52万当事方发声",
-      "onboard_time": 1754852535,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 36116,
+      "num": 63000,
+      "word": "吃到腾讯芒果商战红利了",
+      "onboard_time": 1754827281,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 35485,
@@ -499,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 34310,
-      "num": 63000,
-      "word": "吃到腾讯芒果商战红利了",
-      "onboard_time": 1754827281,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 35256,
+      "num": 35256,
+      "word": "孙颖莎说今天回去要多吃一点",
+      "onboard_time": 1754851816,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 31309,
@@ -515,20 +531,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 30957,
-      "num": 30957,
-      "word": "WTT横滨冠军赛2025",
-      "onboard_time": 1754854155,
-      "rank": 37,
-      "category": "体育,电竞"
-    },
-    {
       "raw_hot": 28960,
       "num": 53653,
       "word": "国乒女团奥运五连冠一周年",
       "onboard_time": 1754847018,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28451,
+      "num": 31689,
+      "word": "早餐摄入低碳水全天血糖都稳住",
+      "onboard_time": 1754863934,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28174,
@@ -539,12 +555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25587,
-      "num": 29901,
-      "word": "孙颖莎说今天回去要多吃一点",
-      "onboard_time": 1754851816,
-      "rank": 42,
-      "category": "正能量"
+      "raw_hot": 26381,
+      "num": 31689,
+      "word": "地球超新鲜",
+      "onboard_time": 1754853195,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 24867,
@@ -553,14 +569,6 @@
       "onboard_time": 1754850376,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24114,
-      "num": 29910,
-      "word": "地球超新鲜",
-      "onboard_time": 1754853195,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 18589,
@@ -579,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15483,
-      "num": 26795,
-      "word": "早餐摄入低碳水全天血糖都稳住",
-      "onboard_time": 1754863934,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 15459,
+      "num": 35158,
+      "word": "百果园回应加盟店数量锐减",
+      "onboard_time": 1754850195,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15311,
@@ -592,14 +600,6 @@
       "word": "来天津感受河海津韵",
       "onboard_time": 1754831362,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14905,
-      "num": 35158,
-      "word": "百果园回应加盟店数量锐减",
-      "onboard_time": 1754850195,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
