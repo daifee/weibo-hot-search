@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754818904238,
+  "endTime": 1754821714278,
   "band_list": [
     {
       "raw_hot": 1687846,
@@ -99,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 844223,
+      "num": 553807,
+      "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+      "onboard_time": 1754812221,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 844110,
       "num": 676232,
       "word": "杨洋 谁说演员不能直视镜头",
@@ -121,14 +129,6 @@
       "onboard_time": 1754752704,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 754489,
-      "num": 495767,
-      "word": "陈奕迅演唱会疑出现焦虑症躯体化",
-      "onboard_time": 1754812221,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 739266,
@@ -265,6 +265,14 @@
       "onboard_time": 1754805201,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 517445,
+      "num": 517445,
+      "word": "孙颖莎vs大藤沙月",
+      "onboard_time": 1754819603,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 507149,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314528,
+      "num": 314528,
+      "word": "官方通报搜救在大理走失8岁男童进度",
+      "onboard_time": 1754818823,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 308578,
       "num": 308578,
       "word": "用微信记录自律太好用了",
@@ -531,6 +547,14 @@
       "category": "时尚,财经"
     },
     {
+      "raw_hot": 284047,
+      "num": 284047,
+      "word": "斗罗大陆",
+      "onboard_time": 1754817982,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 283477,
       "num": 232801,
       "word": "虞书欣全开麦唱跳",
@@ -595,12 +619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256825,
+      "num": 256825,
+      "word": "6岁女童溺毙于深不到膝盖戏水池",
+      "onboard_time": 1754818282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255518,
       "num": 255518,
       "word": "汤唯 一生爱看热闹的中国人",
       "onboard_time": 1754804003,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253951,
+      "num": 253951,
+      "word": "那英真回答了你又不乐意",
+      "onboard_time": 1754818702,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 245455,
@@ -819,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191647,
-      "num": 191647,
-      "word": "斗罗大陆",
-      "onboard_time": 1754817982,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 190098,
       "num": 190098,
       "word": "老总提议给自己发200万固定月薪被批",
@@ -856,6 +888,22 @@
       "word": "陈星旭怎么J成这样",
       "onboard_time": 1754805201,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184786,
+      "num": 184786,
+      "word": "向鹏2比4张本智和",
+      "onboard_time": 1754819122,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184599,
+      "num": 184599,
+      "word": "孙怡 婚姻需要勇气",
+      "onboard_time": 1754820202,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -913,6 +961,14 @@
       "onboard_time": 1754816780,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 177843,
+      "num": 177843,
+      "word": "张予曦妈妈给女儿定制88道菜菜单",
+      "onboard_time": 1754818942,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 177046,
@@ -1027,6 +1083,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162916,
+      "num": 162916,
+      "word": "百果园去年净利润亏3亿",
+      "onboard_time": 1754820441,
+      "rank": 25,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "向往的生活8 丁程鑫",
+      "onboard_time": 1754821161,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161905,
       "num": 161905,
       "word": "光晞不能捐周也不能脱",
@@ -1091,6 +1163,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156890,
+      "num": 156890,
+      "word": "燕云十六声 逆水寒",
+      "onboard_time": 1754819002,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156414,
+      "num": 156414,
+      "word": "男子拒付52万婚宴食材款事件后续",
+      "onboard_time": 1754820082,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155028,
       "num": 155028,
       "word": "张远燃爆全场堪比防空警报",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1754799082,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152170,
+      "num": 152170,
+      "word": "杨洋熹妃杀回宫的眼神",
+      "onboard_time": 1754820743,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 150948,
@@ -1259,6 +1355,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140429,
+      "num": 140429,
+      "word": "仙逆第二部剧场版官宣",
+      "onboard_time": 1754820022,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 139718,
+      "num": 139718,
+      "word": "杨幂倪大红新剧三声三誓",
+      "onboard_time": 1754819842,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139541,
       "num": 139541,
       "word": "演员谈恋爱会影响cp感吗",
@@ -1313,6 +1425,14 @@
       "onboard_time": 1754793200,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135328,
+      "num": 135328,
+      "word": "横滨赛男单四强国乒仅剩王楚钦",
+      "onboard_time": 1754819782,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 135255,
@@ -1395,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131418,
+      "num": 131418,
+      "word": "橘子馒头",
+      "onboard_time": 1754817982,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131397,
       "num": 131397,
       "word": "王蓉在小沈阳演唱会上过于松弛了",
@@ -1441,6 +1569,14 @@
       "onboard_time": 1754809822,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130077,
+      "num": 130077,
+      "word": "白举纲抱住陈楚生就不撒手",
+      "onboard_time": 1754819182,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 129643,
@@ -1507,6 +1643,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126620,
+      "num": 126620,
+      "word": "禾你珏配",
+      "onboard_time": 1754820863,
+      "rank": 37,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 126130,
+      "num": 126130,
+      "word": "时代少年团抢票",
+      "onboard_time": 1754821580,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126084,
       "num": 126084,
       "word": "董璇张维伊连晕车呕吐都同步",
@@ -1529,6 +1681,14 @@
       "onboard_time": 1754811441,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124916,
+      "num": 124916,
+      "word": "鹤岗开发百万元高档小区",
+      "onboard_time": 1754821221,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124111,
@@ -1675,14 +1835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 117030,
-      "num": 117030,
-      "word": "那英真回答了你又不乐意",
-      "onboard_time": 1754818702,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116804,
       "num": 116804,
       "word": "刘宇宁他善啊",
@@ -1715,6 +1867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115671,
+      "num": 115671,
+      "word": "谁家男主全年无休啊",
+      "onboard_time": 1754821221,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115641,
       "num": 105680,
       "word": "韩国宗教逼信徒3年捐53万",
@@ -1729,6 +1889,14 @@
       "onboard_time": 1754753184,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114805,
+      "num": 114805,
+      "word": "斗罗8年信息量最密的100秒",
+      "onboard_time": 1754819902,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 114297,
@@ -1867,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108160,
-      "num": 107150,
-      "word": "橘子馒头",
-      "onboard_time": 1754817982,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 108158,
       "num": 108158,
       "word": "杨幂落泪我先碎",
@@ -1899,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107081,
+      "num": 107081,
+      "word": "敦煌鸣沙山",
+      "onboard_time": 1754816961,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 106993,
       "num": 106993,
       "word": "陈平安爆燃回归",
@@ -1913,6 +2081,14 @@
       "onboard_time": 1754744723,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106684,
+      "num": 106684,
+      "word": "高敏感在别人眼里是这样的",
+      "onboard_time": 1754821642,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 106649,
@@ -2001,6 +2177,14 @@
       "onboard_time": 1754817621,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100814,
+      "num": 100814,
+      "word": "超绝扁头和超绝圆头",
+      "onboard_time": 1754820500,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99834,
@@ -2363,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55339,
+      "num": 568514,
+      "word": "榆中已转移安置9800多人",
+      "onboard_time": 1754799801,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 53661,
       "num": 105796,
       "word": "沈腾没去披哥去乘风破浪了",
@@ -2401,6 +2593,14 @@
       "onboard_time": 1754798481,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48587,
+      "num": 110222,
+      "word": "华晨宇宋茜田曦薇虞书欣组队吃鸡",
+      "onboard_time": 1754818461,
+      "rank": 43,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 44868,
@@ -2475,22 +2675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34690,
-      "num": 153952,
-      "word": "6岁女童溺毙于深不到膝盖戏水池",
-      "onboard_time": 1754818282,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34421,
-      "num": 131634,
-      "word": "官方通报搜救在大理走失8岁男童进度",
-      "onboard_time": 1754818823,
-      "rank": 35,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 33791,
       "num": 33791,
       "word": "警方回应外卖员被曝偷拍女生洗澡",
@@ -2521,14 +2705,6 @@
       "onboard_time": 1754781317,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30798,
-      "num": 521254,
-      "word": "榆中已转移安置9800多人",
-      "onboard_time": 1754799801,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 29518,
@@ -2649,14 +2825,6 @@
       "onboard_time": 1754769675,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11156,
-      "num": 107415,
-      "word": "华晨宇宋茜田曦薇虞书欣组队吃鸡",
-      "onboard_time": 1754818461,
-      "rank": 43,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 3967,

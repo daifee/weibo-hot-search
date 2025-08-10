@@ -1,0 +1,410 @@
+{
+  "runTime": 1754821714278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1174004,
+        "num": 1187840,
+        "word": "张晋和蔡少芬国外旅行突发心脏病",
+        "onboard_time": 1754810061,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 733846,
+        "num": 733846,
+        "word": "真的建议朋友圈一定要趁早发",
+        "onboard_time": 1754811081,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55339,
+        "num": 568514,
+        "word": "榆中已转移安置9800多人",
+        "onboard_time": 1754799801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844223,
+        "num": 553807,
+        "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+        "onboard_time": 1754812221,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 517445,
+        "num": 517445,
+        "word": "孙颖莎vs大藤沙月",
+        "onboard_time": 1754819603,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506484,
+        "num": 506484,
+        "word": "抠抠搜搜8年抠了49万",
+        "onboard_time": 1754806700,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 622987,
+        "num": 472169,
+        "word": "杨洋 谁说演员不能直视镜头",
+        "onboard_time": 1754812881,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396384,
+        "num": 396384,
+        "word": "刘诗诗红发大波浪",
+        "onboard_time": 1754815100,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357377,
+        "num": 357377,
+        "word": "剑来",
+        "onboard_time": 1754814981,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 314528,
+        "num": 314528,
+        "word": "官方通报搜救在大理走失8岁男童进度",
+        "onboard_time": 1754818823,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 646830,
+        "num": 313573,
+        "word": "关晓彤瘦了十几斤",
+        "onboard_time": 1754801901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422849,
+        "num": 309628,
+        "word": "26岁男子勒死73岁情人水泥埋尸",
+        "onboard_time": 1754817442,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284047,
+        "num": 284047,
+        "word": "斗罗大陆",
+        "onboard_time": 1754817982,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 256955,
+        "num": 256955,
+        "word": "走路被开罚单了",
+        "onboard_time": 1754809882,
+        "rank": 13,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 256825,
+        "num": 256825,
+        "word": "6岁女童溺毙于深不到膝盖戏水池",
+        "onboard_time": 1754818282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253951,
+        "num": 253951,
+        "word": "那英真回答了你又不乐意",
+        "onboard_time": 1754818702,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237815,
+        "num": 237815,
+        "word": "张维伊不在乎董璇的过去",
+        "onboard_time": 1754811620,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233397,
+        "num": 233397,
+        "word": "向鹏vs张本智和",
+        "onboard_time": 1754815941,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211869,
+        "num": 211869,
+        "word": "我恨现在的女士内裤",
+        "onboard_time": 1754808861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201290,
+        "num": 201290,
+        "word": "花少7提前50天面试艺人",
+        "onboard_time": 1754809222,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198559,
+        "num": 198559,
+        "word": "谁敢信蒋欣穿的是同一件衬衫",
+        "onboard_time": 1754801961,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184786,
+        "num": 184786,
+        "word": "向鹏2比4张本智和",
+        "onboard_time": 1754819122,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184599,
+        "num": 184599,
+        "word": "孙怡 婚姻需要勇气",
+        "onboard_time": 1754820202,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178383,
+        "num": 178383,
+        "word": "37岁游客为救溺水一家三口牺牲",
+        "onboard_time": 1754803463,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 177843,
+        "num": 177843,
+        "word": "张予曦妈妈给女儿定制88道菜菜单",
+        "onboard_time": 1754818942,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162916,
+        "num": 162916,
+        "word": "百果园去年净利润亏3亿",
+        "onboard_time": 1754820441,
+        "rank": 25,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 162692,
+        "num": 162692,
+        "word": "向往的生活8 丁程鑫",
+        "onboard_time": 1754821161,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156890,
+        "num": 156890,
+        "word": "燕云十六声 逆水寒",
+        "onboard_time": 1754819002,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156414,
+        "num": 156414,
+        "word": "男子拒付52万婚宴食材款事件后续",
+        "onboard_time": 1754820082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152170,
+        "num": 152170,
+        "word": "杨洋熹妃杀回宫的眼神",
+        "onboard_time": 1754820743,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143517,
+        "num": 143517,
+        "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
+        "onboard_time": 1754809822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140429,
+        "num": 140429,
+        "word": "仙逆第二部剧场版官宣",
+        "onboard_time": 1754820022,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139718,
+        "num": 139718,
+        "word": "杨幂倪大红新剧三声三誓",
+        "onboard_time": 1754819842,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135328,
+        "num": 135328,
+        "word": "横滨赛男单四强国乒仅剩王楚钦",
+        "onboard_time": 1754819782,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131418,
+        "num": 131418,
+        "word": "橘子馒头",
+        "onboard_time": 1754817982,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130077,
+        "num": 130077,
+        "word": "白举纲抱住陈楚生就不撒手",
+        "onboard_time": 1754819182,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129746,
+        "num": 129746,
+        "word": "苹果干",
+        "onboard_time": 1754806821,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126620,
+        "num": 126620,
+        "word": "禾你珏配",
+        "onboard_time": 1754820863,
+        "rank": 37,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 126130,
+        "num": 126130,
+        "word": "时代少年团抢票",
+        "onboard_time": 1754821580,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124916,
+        "num": 124916,
+        "word": "鹤岗开发百万元高档小区",
+        "onboard_time": 1754821221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115671,
+        "num": 115671,
+        "word": "谁家男主全年无休啊",
+        "onboard_time": 1754821221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114805,
+        "num": 114805,
+        "word": "斗罗8年信息量最密的100秒",
+        "onboard_time": 1754819902,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114062,
+        "num": 114062,
+        "word": "徐杰方声明",
+        "onboard_time": 1754802140,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48587,
+        "num": 110222,
+        "word": "华晨宇宋茜田曦薇虞书欣组队吃鸡",
+        "onboard_time": 1754818461,
+        "rank": 43,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 108435,
+        "num": 108435,
+        "word": "井胧打扫到了管乐的前任",
+        "onboard_time": 1754812162,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "仙逆",
+        "onboard_time": 1754816780,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107081,
+        "num": 107081,
+        "word": "敦煌鸣沙山",
+        "onboard_time": 1754816961,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 106684,
+        "num": 106684,
+        "word": "高敏感在别人眼里是这样的",
+        "onboard_time": 1754821642,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100866,
+        "num": 100866,
+        "word": "陈浚铭张函瑞 你要的爱",
+        "onboard_time": 1754818642,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100814,
+        "num": 100814,
+        "word": "超绝扁头和超绝圆头",
+        "onboard_time": 1754820500,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化人以文兴业#"
+    }
+  }
+}
