@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754792652374,
+  "endTime": 1754793804561,
   "band_list": [
     {
       "raw_hot": 1293558,
@@ -75,24 +75,32 @@
       "category": "网红"
     },
     {
-      "raw_hot": 542157,
-      "num": 234922,
-      "word": "无袖流行是对身体羞耻的反击",
-      "onboard_time": 1754781317,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 523047,
-      "num": 328150,
+      "raw_hot": 568248,
+      "num": 466755,
       "word": "田栩宁杨迪合唱imissyou",
       "onboard_time": 1754782757,
       "rank": 7,
       "category": "综艺"
     },
     {
-      "raw_hot": 459232,
-      "num": 459232,
+      "raw_hot": 542157,
+      "num": 275224,
+      "word": "无袖流行是对身体羞耻的反击",
+      "onboard_time": 1754781317,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487971,
+      "num": 471185,
+      "word": "女子不堪家暴杀死丈夫获刑15年",
+      "onboard_time": 1754792421,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481813,
+      "num": 481813,
       "word": "警方通报女子带娃遛弯遭多人打配合偷走手机",
       "onboard_time": 1754790440,
       "rank": 4,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 418891,
-      "num": 234579,
+      "num": 274322,
       "word": "曝徐杰多次致人打胎",
       "onboard_time": 1754783118,
       "rank": 11,
@@ -145,6 +153,14 @@
       "onboard_time": 1754755343,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353020,
+      "num": 353020,
+      "word": "关系降级",
+      "onboard_time": 1754791040,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 325056,
@@ -203,6 +219,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 267267,
+      "num": 267267,
+      "word": "黄璐孔大山恋情",
+      "onboard_time": 1754792899,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267120,
       "num": 158170,
       "word": "爱情公寓取景地15年的变化有多大",
@@ -259,6 +283,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211701,
+      "num": 242773,
+      "word": "美国允许普京入境是比较大的让步",
+      "onboard_time": 1754786180,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 208826,
+      "num": 208826,
+      "word": "陈熠vs王艺迪",
+      "onboard_time": 1754791822,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206722,
+      "num": 153982,
+      "word": "有一对不爱干净的父母是什么体验",
+      "onboard_time": 1754793260,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193683,
       "num": 193683,
       "word": "大爷摆摊自称送20万现金无人敢拿",
@@ -291,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170132,
-      "num": 170132,
-      "word": "关系降级",
-      "onboard_time": 1754791040,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161131,
       "num": 161131,
       "word": "领事馆通报中国留学生在澳遭围殴",
@@ -323,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155028,
+      "num": 155028,
+      "word": "张远燃爆全场堪比防空警报",
+      "onboard_time": 1754793021,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150948,
       "num": 150948,
       "word": "男子出国陷入香艳女郎陷阱成间谍",
@@ -337,6 +385,14 @@
       "onboard_time": 1754744422,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143526,
+      "num": 143526,
+      "word": "赵露思被整容医院骚扰",
+      "onboard_time": 1754792839,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 141553,
@@ -363,12 +419,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 138443,
-      "num": 242773,
-      "word": "美国允许普京入境是比较大的让步",
-      "onboard_time": 1754786180,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 136258,
+      "num": 136258,
+      "word": "白澍演坏人对标的是周也魏莱",
+      "onboard_time": 1754793200,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 133673,
@@ -376,6 +432,14 @@
       "word": "前车故障后车智驾径直撞上致2死",
       "onboard_time": 1754790800,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133264,
+      "num": 133264,
+      "word": "母子用音响辱骂儿媳双双被拘9天",
+      "onboard_time": 1754791879,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -419,14 +483,6 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 120214,
-      "num": 120214,
-      "word": "陈熠vs王艺迪",
-      "onboard_time": 1754791822,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117380,
       "num": 117380,
       "word": "罗家英给妻子汪明荃买楼留保险",
@@ -451,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113858,
+      "num": 113858,
+      "word": "孙颖莎头顶打出小天线",
+      "onboard_time": 1754792720,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112427,
       "num": 112427,
       "word": "换一换主食降低全身炎症水平",
       "onboard_time": 1754790680,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111114,
+      "num": 111114,
+      "word": "王曼昱静坐沉思神图",
+      "onboard_time": 1754792780,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 109251,
@@ -499,20 +571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105503,
+      "num": 234218,
+      "word": "宝妈遛娃被偷手机嫌疑人被抓",
+      "onboard_time": 1754792720,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 102546,
       "num": 102546,
       "word": "洗洁精直接抹碗有害",
       "onboard_time": 1754789181,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100065,
-      "num": 100065,
-      "word": "女子不堪家暴杀死丈夫获刑15年",
-      "onboard_time": 1754792421,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97942,
@@ -539,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95622,
-      "num": 95622,
-      "word": "母子用音响辱骂儿媳双双被拘9天",
-      "onboard_time": 1754791879,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95475,
       "num": 95475,
       "word": "昆凌把周杰伦裁掉了",
@@ -563,12 +627,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94510,
+      "num": 94510,
+      "word": "张艺兴把粉丝送的桃子带上了舞台",
+      "onboard_time": 1754792481,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94407,
       "num": 94407,
       "word": "加沙超1700人领物资遇难",
       "onboard_time": 1754786960,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92749,
+      "num": 94997,
+      "word": "趵突泉景区一男子后仰落水",
+      "onboard_time": 1754792001,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92726,
@@ -611,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89779,
-      "num": 89779,
-      "word": "张艺兴把粉丝送的桃子带上了舞台",
-      "onboard_time": 1754792481,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 89326,
+      "num": 89326,
+      "word": "王艺迪4比2陈熠",
+      "onboard_time": 1754793741,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 88258,
@@ -771,20 +851,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61368,
-      "num": 94997,
-      "word": "趵突泉景区一男子后仰落水",
-      "onboard_time": 1754792001,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56225,
       "num": 56225,
       "word": "宋亚轩十分像从前",
       "onboard_time": 1754760798,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53661,
+      "num": 105796,
+      "word": "沈腾没去披哥去乘风破浪了",
+      "onboard_time": 1754793501,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 52558,
@@ -825,6 +905,14 @@
       "onboard_time": 1754777775,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34931,
+      "num": 138515,
+      "word": "百果园财报曾25次提性价比",
+      "onboard_time": 1754793381,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33791,
@@ -947,7 +1035,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 3014,
+      "raw_hot": 3967,
       "num": 759633,
       "word": "何以中国和合共生",
       "onboard_time": 1754714002,

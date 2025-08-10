@@ -1,0 +1,410 @@
+{
+  "runTime": 1754793804561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1236806,
+        "num": 1236806,
+        "word": "花少7 全员淡人",
+        "onboard_time": 1754786300,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481813,
+        "num": 481813,
+        "word": "警方通报女子带娃遛弯遭多人打配合偷走手机",
+        "onboard_time": 1754790440,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 3967,
+        "num": 472715,
+        "word": "何以中国和合共生",
+        "onboard_time": 1754714002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1071440,
+        "num": 471511,
+        "word": "东北雨姐发博",
+        "onboard_time": 1754788699,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 487971,
+        "num": 471185,
+        "word": "女子不堪家暴杀死丈夫获刑15年",
+        "onboard_time": 1754792421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468453,
+        "num": 468453,
+        "word": "女子嫌私教课太贵让小孩哥教游泳",
+        "onboard_time": 1754786960,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568248,
+        "num": 466755,
+        "word": "田栩宁杨迪合唱imissyou",
+        "onboard_time": 1754782757,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353020,
+        "num": 353020,
+        "word": "关系降级",
+        "onboard_time": 1754791040,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297798,
+        "num": 297798,
+        "word": "i miss you",
+        "onboard_time": 1754789120,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277219,
+        "num": 277219,
+        "word": "百果园称不会迎合消费者",
+        "onboard_time": 1754751205,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498986,
+        "num": 275224,
+        "word": "无袖流行是对身体羞耻的反击",
+        "onboard_time": 1754781317,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369415,
+        "num": 274322,
+        "word": "曝徐杰多次致人打胎",
+        "onboard_time": 1754783118,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273163,
+        "num": 273163,
+        "word": "抗战胜利80周年大会第一次演练结束",
+        "onboard_time": 1754782937,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267267,
+        "num": 267267,
+        "word": "黄璐孔大山恋情",
+        "onboard_time": 1754792899,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105503,
+        "num": 234218,
+        "word": "宝妈遛娃被偷手机嫌疑人被抓",
+        "onboard_time": 1754792720,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 225366,
+        "num": 225366,
+        "word": "檀健次 十日终焉",
+        "onboard_time": 1754765595,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208826,
+        "num": 208826,
+        "word": "陈熠vs王艺迪",
+        "onboard_time": 1754791822,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200126,
+        "num": 200126,
+        "word": "侵华日军荣字1644部队细菌战证据公布",
+        "onboard_time": 1754790381,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158802,
+        "num": 158802,
+        "word": "上海月薪9000礼宾保安的生活",
+        "onboard_time": 1754787019,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155028,
+        "num": 155028,
+        "word": "张远燃爆全场堪比防空警报",
+        "onboard_time": 1754793021,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256594,
+        "num": 154441,
+        "word": "爱情公寓取景地15年的变化有多大",
+        "onboard_time": 1754790440,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233348,
+        "num": 154112,
+        "word": "洞洞鞋突然卖不动了",
+        "onboard_time": 1754783058,
+        "rank": 21,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 206722,
+        "num": 153982,
+        "word": "有一对不爱干净的父母是什么体验",
+        "onboard_time": 1754793260,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153646,
+        "num": 153646,
+        "word": "男子离家前吐西瓜籽回来时满院西瓜",
+        "onboard_time": 1754751564,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195406,
+        "num": 150210,
+        "word": "巴西情侣悬崖边亲热坠崖身亡",
+        "onboard_time": 1754754563,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146321,
+        "num": 146321,
+        "word": "田曦薇美成这样",
+        "onboard_time": 1754746763,
+        "rank": 25,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 146180,
+        "num": 146180,
+        "word": "徐杰 赌球",
+        "onboard_time": 1754751205,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143526,
+        "num": 143526,
+        "word": "赵露思被整容医院骚扰",
+        "onboard_time": 1754792839,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211701,
+        "num": 141263,
+        "word": "美国允许普京入境是比较大的让步",
+        "onboard_time": 1754786180,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34931,
+        "num": 138515,
+        "word": "百果园财报曾25次提性价比",
+        "onboard_time": 1754793381,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137710,
+        "num": 137710,
+        "word": "小沈阳说鹿晗就在旁边唱的",
+        "onboard_time": 1754781618,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136258,
+        "num": 136258,
+        "word": "白澍演坏人对标的是周也魏莱",
+        "onboard_time": 1754793200,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133264,
+        "num": 133264,
+        "word": "母子用音响辱骂儿媳双双被拘9天",
+        "onboard_time": 1754791879,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127357,
+        "num": 127357,
+        "word": "陶白白 爱到最后都一样",
+        "onboard_time": 1754753125,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114178,
+        "num": 114178,
+        "word": "男子出国陷入香艳女郎陷阱成间谍",
+        "onboard_time": 1754786060,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113858,
+        "num": 113858,
+        "word": "孙颖莎头顶打出小天线",
+        "onboard_time": 1754792720,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111114,
+        "num": 111114,
+        "word": "王曼昱静坐沉思神图",
+        "onboard_time": 1754792780,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107770,
+        "num": 107770,
+        "word": "前车故障后车智驾径直撞上致2死",
+        "onboard_time": 1754790800,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53661,
+        "num": 105796,
+        "word": "沈腾没去披哥去乘风破浪了",
+        "onboard_time": 1754793501,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104735,
+        "num": 104735,
+        "word": "马琳调侃想让孙颖莎再多打一局",
+        "onboard_time": 1754790440,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101150,
+        "num": 101150,
+        "word": "领事馆通报中国留学生在澳遭围殴",
+        "onboard_time": 1754786419,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98960,
+        "num": 98960,
+        "word": "用微信记录自律太好用了",
+        "onboard_time": 1754754982,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94920,
+        "num": 94920,
+        "word": "约基奇23分19篮板",
+        "onboard_time": 1754792060,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94510,
+        "num": 94510,
+        "word": "张艺兴把粉丝送的桃子带上了舞台",
+        "onboard_time": 1754792481,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93004,
+        "num": 93004,
+        "word": "群殴在澳留学生肇事者已被全部抓获",
+        "onboard_time": 1754786060,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92749,
+        "num": 92749,
+        "word": "趵突泉景区一男子后仰落水",
+        "onboard_time": 1754792001,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91497,
+        "num": 91497,
+        "word": "换一换主食降低全身炎症水平",
+        "onboard_time": 1754790680,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89326,
+        "num": 89326,
+        "word": "王艺迪4比2陈熠",
+        "onboard_time": 1754793741,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88625,
+        "num": 88625,
+        "word": "花少7",
+        "onboard_time": 1754790561,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87128,
+        "num": 87128,
+        "word": "大爷摆摊自称送20万现金无人敢拿",
+        "onboard_time": 1754755282,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保群众安全度汛#"
+    }
+  }
+}
