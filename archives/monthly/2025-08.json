@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754811552830,
+  "endTime": 1754814828071,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1687846,
-      "num": 390112,
+      "num": 482946,
       "word": "关晓彤瘦了十几斤",
       "onboard_time": 1754801901,
       "rank": 10,
@@ -849,6 +849,14 @@
       "onboard_time": 1754630422,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1547106,
+      "num": 1547106,
+      "word": "张晋和蔡少芬国外旅行突发心脏病",
+      "onboard_time": 1754810061,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1545132,
@@ -1905,14 +1913,6 @@
       "onboard_time": 1754455704,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 978671,
-      "num": 1156587,
-      "word": "张晋和蔡少芬国外旅行突发心脏病",
-      "onboard_time": 1754810061,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 975918,
@@ -3323,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662780,
+      "num": 662780,
+      "word": "真的建议朋友圈一定要趁早发",
+      "onboard_time": 1754811081,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 661707,
       "num": 478487,
       "word": "郑钧说老婆下死命令支持陈楚生",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1754531300,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 633398,
+      "num": 633398,
+      "word": "走路被开罚单了",
+      "onboard_time": 1754809882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 632334,
@@ -4217,6 +4233,14 @@
       "onboard_time": 1754510893,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 571846,
+      "num": 571846,
+      "word": "张维伊不在乎董璇的过去",
+      "onboard_time": 1754811620,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 571693,
@@ -4923,6 +4947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493704,
+      "num": 493704,
+      "word": "杨洋 谁说演员不能直视镜头",
+      "onboard_time": 1754812881,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 493427,
       "num": 573523,
       "word": "95后女飞行员徐枫灿回应质疑",
@@ -4964,7 +4996,7 @@
     },
     {
       "raw_hot": 490776,
-      "num": 333992,
+      "num": 479788,
       "word": "我恨现在的女士内裤",
       "onboard_time": 1754808861,
       "rank": 11,
@@ -7667,6 +7699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304528,
+      "num": 304528,
+      "word": "花少7提前50天面试艺人",
+      "onboard_time": 1754809222,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304328,
       "num": 304328,
       "word": "猫咖店老板回应女子虐死4只猫",
@@ -7952,6 +7992,14 @@
       "word": "陈乔恩艾伦首次合体上夫妻舞台综艺",
       "onboard_time": 1754449402,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293278,
+      "num": 293278,
+      "word": "井胧打扫到了管乐的前任",
+      "onboard_time": 1754812162,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -9115,14 +9163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251982,
-      "num": 251982,
-      "word": "走路被开罚单了",
-      "onboard_time": 1754809882,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251925,
       "num": 251925,
       "word": "死神来了6定档",
@@ -9137,6 +9177,14 @@
       "onboard_time": 1754059703,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251693,
+      "num": 251693,
+      "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
+      "onboard_time": 1754809822,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250932,
@@ -12363,14 +12411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196022,
-      "num": 196022,
-      "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
-      "onboard_time": 1754809822,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196003,
       "num": 196003,
       "word": "迪丽热巴体制内妈妈降临",
@@ -12577,14 +12617,6 @@
       "onboard_time": 1754141191,
       "rank": 33,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 194213,
-      "num": 194213,
-      "word": "花少7提前50天面试艺人",
-      "onboard_time": 1754809222,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 194141,
@@ -13971,6 +14003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180151,
+      "num": 180151,
+      "word": "冯建宇杂志销售额破百万",
+      "onboard_time": 1754812101,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180111,
       "num": 187589,
       "word": "原子弹蘑菇灯让日本网民破防",
@@ -14009,6 +14049,14 @@
       "onboard_time": 1754286562,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179571,
+      "num": 145385,
+      "word": "韩国小伙来中国旅行被印度人破防",
+      "onboard_time": 1754813482,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179529,
@@ -14907,6 +14955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170707,
+      "num": 170707,
+      "word": "斩神",
+      "onboard_time": 1754813000,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 170648,
       "num": 170648,
       "word": "自愿弃社保也违法",
@@ -15315,14 +15371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167176,
-      "num": 134796,
-      "word": "真的建议朋友圈一定要趁早发",
-      "onboard_time": 1754811081,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167130,
       "num": 167130,
       "word": "追星女是不会轻易辞职的",
@@ -15417,6 +15465,14 @@
       "onboard_time": 1754494704,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166249,
+      "num": 166249,
+      "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+      "onboard_time": 1754812221,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 166200,
@@ -15603,6 +15659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164607,
+      "num": 181882,
+      "word": "百果园董事长 教育消费者成熟",
+      "onboard_time": 1754808802,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164506,
       "num": 164506,
       "word": "侯明昊跳了aespa的whiplash",
@@ -15721,14 +15785,6 @@
       "onboard_time": 1754294243,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163650,
-      "num": 163650,
-      "word": "百果园董事长 教育消费者成熟",
-      "onboard_time": 1754808802,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163575,
@@ -16017,6 +16073,14 @@
       "onboard_time": 1754556024,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161323,
+      "num": 161323,
+      "word": "宋轶人还没到丞磊就演完了",
+      "onboard_time": 1754814501,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 161264,
@@ -18387,6 +18451,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 145352,
+      "num": 145352,
+      "word": "李晟让小说里的清冷女主有脸了",
+      "onboard_time": 1754811441,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145335,
       "num": 145335,
       "word": "张继科完成大满贯仅用445天",
@@ -18665,6 +18737,14 @@
       "onboard_time": 1754035402,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143448,
+      "num": 143448,
+      "word": "桃黑黑和陶白白不是情侣吗",
+      "onboard_time": 1754810660,
+      "rank": 49,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 143432,
@@ -19161,14 +19241,6 @@
       "onboard_time": 1754756962,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140912,
-      "num": 140912,
-      "word": "李晟让小说里的清冷女主有脸了",
-      "onboard_time": 1754811441,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 140851,
@@ -20201,6 +20273,14 @@
       "onboard_time": 1754572043,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135255,
+      "num": 135255,
+      "word": "37岁游客救人牺牲获救者发声",
+      "onboard_time": 1754812281,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 135174,
@@ -21315,6 +21395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129643,
+      "num": 129643,
+      "word": "严浩翔向Vansdaddy道歉",
+      "onboard_time": 1754812460,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129580,
       "num": 189664,
       "word": "晋江崩了",
@@ -21683,6 +21771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127804,
+      "num": 127804,
+      "word": "许魏洲顶着这么帅一张脸搞抽象",
+      "onboard_time": 1754813602,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127784,
       "num": 119114,
       "word": "好一场青你创造营大战",
@@ -21737,6 +21833,14 @@
       "onboard_time": 1754655803,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 127580,
+      "num": 127580,
+      "word": "王楚钦不知道明天要打两场",
+      "onboard_time": 1754811922,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 127548,
@@ -23779,12 +23883,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117632,
-      "num": 117632,
-      "word": "桃黑黑和陶白白不是情侣吗",
-      "onboard_time": 1754810660,
-      "rank": 49,
-      "category": "幽默,网红"
+      "raw_hot": 117501,
+      "num": 117501,
+      "word": "谁给张晚意下萌汉药了",
+      "onboard_time": 1754812700,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 117495,
@@ -24531,6 +24635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113177,
+      "num": 145404,
+      "word": "抗炎饮食居然能逆转久坐伤害",
+      "onboard_time": 1754813542,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113167,
       "num": 113167,
       "word": "航仔回复让杨洋替演阔夫",
@@ -24665,6 +24777,14 @@
       "onboard_time": 1754043983,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112563,
+      "num": 112563,
+      "word": "王楚钦说希望还有200场胜利",
+      "onboard_time": 1754814622,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 112550,
@@ -24873,6 +24993,14 @@
       "onboard_time": 1754462063,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111653,
+      "num": 125512,
+      "word": "日本男女杀室友后与尸体同住一年多",
+      "onboard_time": 1754810900,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111591,
@@ -25849,6 +25977,14 @@
       "onboard_time": 1754664446,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104728,
+      "num": 104728,
+      "word": "郑钦文去看BLACKPINK演唱会",
+      "onboard_time": 1754812342,
+      "rank": 48,
+      "category": "体育,演出"
     },
     {
       "raw_hot": 104685,
@@ -28251,6 +28387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85414,
+      "num": 180438,
+      "word": "澳大利亚旅行的后劲太大了",
+      "onboard_time": 1754813063,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85246,
       "num": 85753,
       "word": "吴邪都没找到的路被改成景区了",
@@ -28433,6 +28577,14 @@
       "onboard_time": 1753978583,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83140,
+      "num": 156717,
+      "word": "树拍APP集资参与人请尽快报案",
+      "onboard_time": 1754812281,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83104,
@@ -28721,14 +28873,6 @@
       "onboard_time": 1754522777,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79162,
-      "num": 125512,
-      "word": "日本男女杀室友后与尸体同住一年多",
-      "onboard_time": 1754810900,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79100,
@@ -30616,6 +30760,14 @@
       "word": "被爱企查自动续费28个月才发现",
       "onboard_time": 1754661745,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50719,
+      "num": 111701,
+      "word": "北京网友拍到黑影御剑飞行",
+      "onboard_time": 1754814742,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
