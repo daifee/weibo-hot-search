@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754843531767,
+  "endTime": 1754844511478,
   "band_list": [
     {
       "raw_hot": 814259,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 481523,
-      "num": 181219,
+      "num": 183628,
       "word": "曝孙亦航恋情",
       "onboard_time": 1754839103,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201643,
+      "num": 171029,
+      "word": "锦月如歌热度",
+      "onboard_time": 1754841143,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196011,
       "num": 179867,
       "word": "向往的生活8",
@@ -123,20 +131,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 156298,
-      "num": 156298,
-      "word": "锦月如歌热度",
-      "onboard_time": 1754841143,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155869,
       "num": 134428,
       "word": "张晋和蔡少芬国外旅行突发心脏病",
       "onboard_time": 1754810061,
       "rank": 20,
       "category": "综艺,健康医疗"
+    },
+    {
+      "raw_hot": 152622,
+      "num": 192722,
+      "word": "店员回应男子误将660万彩票洗成渣",
+      "onboard_time": 1754843601,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148309,
@@ -307,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72643,
+      "num": 67700,
+      "word": "汪苏泷说西安也有罗曼城定位了",
+      "onboard_time": 1754844200,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 70707,
       "num": 70707,
       "word": "26岁男子勒死73岁情人水泥埋尸",
@@ -393,6 +409,14 @@
       "onboard_time": 1754839404,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57971,
+      "num": 57971,
+      "word": "幼童爬到13层阳台外悬空玩引体向上",
+      "onboard_time": 1754843960,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2421,
