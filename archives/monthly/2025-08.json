@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754807884644,
+  "endTime": 1754808702892,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2539,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 797380,
+      "num": 566062,
+      "word": "抠抠搜搜8年抠了49万",
+      "onboard_time": 1754806700,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 796829,
       "num": 796829,
       "word": "酱子贝 融梗",
@@ -4579,6 +4587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530758,
+      "num": 530758,
+      "word": "素食主义者第一次吃肉",
+      "onboard_time": 1754805201,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 530629,
       "num": 530629,
       "word": "曾辉韩雨彤这次真的不一样",
@@ -4993,14 +5009,6 @@
       "onboard_time": 1754053284,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485269,
-      "num": 485269,
-      "word": "素食主义者第一次吃肉",
-      "onboard_time": 1754805201,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 484599,
@@ -5449,14 +5457,6 @@
       "onboard_time": 1754110942,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 443542,
-      "num": 443542,
-      "word": "抠抠搜搜8年抠了49万",
-      "onboard_time": 1754806700,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 443250,
@@ -11155,6 +11155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207394,
+      "num": 207394,
+      "word": "苹果干",
+      "onboard_time": 1754806821,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207314,
       "num": 207314,
       "word": "DOTA2雪如意TT夺冠",
@@ -11641,6 +11649,14 @@
       "onboard_time": 1754542104,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201923,
+      "num": 201923,
+      "word": "曝披荆斩棘5三公分组",
+      "onboard_time": 1754807601,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 201922,
@@ -14835,6 +14851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170391,
+      "num": 170391,
+      "word": "浪浪山小妖怪细节",
+      "onboard_time": 1754808260,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170252,
       "num": 170252,
       "word": "能把九尾狐画这么普的不多见了",
@@ -15297,14 +15321,6 @@
       "onboard_time": 1754558425,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165895,
-      "num": 165895,
-      "word": "曝披荆斩棘5三公分组",
-      "onboard_time": 1754807601,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 165888,
@@ -17403,6 +17419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150800,
+      "num": 150800,
+      "word": "那英说上花少尽量少说话",
+      "onboard_time": 1754807300,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150567,
       "num": 150567,
       "word": "马嘉祺不理解但听话",
@@ -18417,14 +18441,6 @@
       "onboard_time": 1754229686,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144133,
-      "num": 144133,
-      "word": "苹果干",
-      "onboard_time": 1754806821,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 144052,
@@ -20425,14 +20441,6 @@
       "onboard_time": 1754527042,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133491,
-      "num": 133491,
-      "word": "那英说上花少尽量少说话",
-      "onboard_time": 1754807300,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 133454,
@@ -22979,6 +22987,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 120699,
+      "num": 369858,
+      "word": "37岁男子救人牺牲13岁孩子不停呼喊",
+      "onboard_time": 1754807541,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120649,
       "num": 120649,
       "word": "周末有效休息vs无效休息",
@@ -25203,14 +25219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108228,
-      "num": 108228,
-      "word": "37岁男子救人牺牲13岁孩子不停呼喊",
-      "onboard_time": 1754807541,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108225,
       "num": 108225,
       "word": "AL扣除Shanks工资",
@@ -25225,6 +25233,14 @@
       "onboard_time": 1754281945,
       "rank": 19,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 108158,
+      "num": 108158,
+      "word": "杨幂落泪我先碎",
+      "onboard_time": 1754805321,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 108136,
@@ -25449,14 +25465,6 @@
       "onboard_time": 1754444601,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105817,
-      "num": 105817,
-      "word": "杨幂落泪我先碎",
-      "onboard_time": 1754805321,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 105811,
@@ -26627,6 +26635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97515,
+      "num": 97515,
+      "word": "养了4年的仓鼠每天还坚持跑步",
+      "onboard_time": 1754805501,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97495,
       "num": 189264,
       "word": "男子给失足女转138万前妻起诉被驳",
@@ -27451,6 +27467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91354,
+      "num": 390554,
+      "word": "加州州长硬刚特朗普政府",
+      "onboard_time": 1754807241,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91340,
       "num": 91340,
       "word": "TF家族空降",
@@ -27979,6 +28003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85490,
+      "num": 85490,
+      "word": "邱党无缘横滨赛四强",
+      "onboard_time": 1754808442,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85441,
       "num": 85441,
       "word": "鹿晗演唱会后台花絮",
@@ -28152,6 +28184,14 @@
       "word": "老王杯S2韩涵队夺冠",
       "onboard_time": 1754756481,
       "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 83660,
+      "num": 83660,
+      "word": "Lovecd确诊双向情感障碍",
+      "onboard_time": 1754808621,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -29923,14 +29963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56355,
-      "num": 390554,
-      "word": "加州州长硬刚特朗普政府",
-      "onboard_time": 1754807241,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56278,
       "num": 83088,
       "word": "多人骑电单车夜闯医院走廊拍视频",
@@ -31340,7 +31372,7 @@
     },
     {
       "raw_hot": 36661,
-      "num": 213352,
+      "num": 219812,
       "word": "名创的时团含量过高了",
       "onboard_time": 1754806100,
       "rank": 19,
