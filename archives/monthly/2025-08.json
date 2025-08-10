@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754808702892,
+  "endTime": 1754810723783,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1971,6 +1971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 967990,
+      "num": 566062,
+      "word": "抠抠搜搜8年抠了49万",
+      "onboard_time": 1754806700,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 966911,
       "num": 1154705,
       "word": "立秋第一杯奶茶的受害者出现了",
@@ -2537,14 +2545,6 @@
       "onboard_time": 1754215703,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 797380,
-      "num": 566062,
-      "word": "抠抠搜搜8年抠了49万",
-      "onboard_time": 1754806700,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 796829,
@@ -4955,6 +4955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 489851,
+      "num": 333992,
+      "word": "我恨现在的女士内裤",
+      "onboard_time": 1754808861,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489543,
       "num": 489543,
       "word": "易烊千玺配音成都世运会主题片",
@@ -5081,6 +5089,14 @@
       "onboard_time": 1754802680,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479480,
+      "num": 479480,
+      "word": "胡冰卿 被低估的颜值和角色",
+      "onboard_time": 1754805380,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 478491,
@@ -5651,6 +5667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425047,
+      "num": 425047,
+      "word": "苹果干",
+      "onboard_time": 1754806821,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 423956,
       "num": 423956,
       "word": "剑桥毕业生患癌用咖啡灌肠拒做化疗",
@@ -6139,14 +6163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389319,
-      "num": 389319,
-      "word": "胡冰卿 被低估的颜值和角色",
-      "onboard_time": 1754805380,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389036,
       "num": 273779,
       "word": "终于学会漂漂亮亮不随份子钱",
@@ -6521,6 +6537,14 @@
       "onboard_time": 1754658086,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 366968,
+      "num": 366968,
+      "word": "张晋和蔡少芬国外旅行突发心脏病",
+      "onboard_time": 1754810061,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 365948,
@@ -10323,6 +10347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219389,
+      "num": 219389,
+      "word": "井胧来管乐家收拾房间了",
+      "onboard_time": 1754808920,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219304,
       "num": 219304,
       "word": "王力宏帮唱单依纯",
@@ -11153,14 +11185,6 @@
       "onboard_time": 1754041822,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207394,
-      "num": 207394,
-      "word": "苹果干",
-      "onboard_time": 1754806821,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 207314,
@@ -12081,6 +12105,14 @@
       "onboard_time": 1754214742,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197809,
+      "num": 138119,
+      "word": "吴艳妮张艺兴互动",
+      "onboard_time": 1754810422,
+      "rank": 30,
+      "category": "体育,演出"
     },
     {
       "raw_hot": 197786,
@@ -14491,6 +14523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173245,
+      "num": 173245,
+      "word": "谁要炸tbz",
+      "onboard_time": 1754810061,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173193,
       "num": 173193,
       "word": "Rapeter严浩翔合影",
@@ -14745,6 +14785,14 @@
       "onboard_time": 1754191583,
       "rank": 35,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 171445,
+      "num": 187589,
+      "word": "原子弹蘑菇灯让日本网民破防",
+      "onboard_time": 1754806221,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171243,
@@ -15609,6 +15657,14 @@
       "onboard_time": 1754294243,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163650,
+      "num": 163650,
+      "word": "百果园董事长 教育消费者成熟",
+      "onboard_time": 1754808802,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163575,
@@ -16635,6 +16691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156035,
+      "num": 156035,
+      "word": "花少7提前50天面试艺人",
+      "onboard_time": 1754809222,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155955,
       "num": 155955,
       "word": "GPT5来了",
@@ -16961,6 +17025,14 @@
       "onboard_time": 1754641523,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "6个子女为给94岁母亲养老抢起来了",
+      "onboard_time": 1754808981,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153505,
@@ -17617,14 +17689,6 @@
       "onboard_time": 1754459362,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149315,
-      "num": 149315,
-      "word": "原子弹蘑菇灯让日本网民破防",
-      "onboard_time": 1754806221,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149314,
@@ -18521,6 +18585,14 @@
       "onboard_time": 1754792839,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143505,
+      "num": 369858,
+      "word": "37岁男子救人牺牲13岁孩子不停呼喊",
+      "onboard_time": 1754807541,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143477,
@@ -19731,6 +19803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137298,
+      "num": 137298,
+      "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
+      "onboard_time": 1754809822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137269,
       "num": 137269,
       "word": "断崖式戒烟1个月的面部变化",
@@ -20760,6 +20840,14 @@
       "word": "黄子弘凡回应和黄鼠狼打架",
       "onboard_time": 1754209045,
       "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 131757,
+      "num": 131757,
+      "word": "杨博文跳Rudeboy",
+      "onboard_time": 1754810422,
+      "rank": 32,
       "category": "演出"
     },
     {
@@ -22019,6 +22107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125691,
+      "num": 125691,
+      "word": "曹曦文女儿12岁近照",
+      "onboard_time": 1754809160,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125614,
       "num": 125614,
       "word": "赵露思说知道仅在社交平台发声无用",
@@ -22843,6 +22939,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121277,
+      "num": 121277,
+      "word": "老总要求200万月薪被投资人手撕",
+      "onboard_time": 1754809822,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121260,
       "num": 600821,
       "word": "中国文化跨越山海",
@@ -22985,14 +23089,6 @@
       "onboard_time": 1754791040,
       "rank": 29,
       "category": "汽车,民生新闻"
-    },
-    {
-      "raw_hot": 120699,
-      "num": 369858,
-      "word": "37岁男子救人牺牲13岁孩子不停呼喊",
-      "onboard_time": 1754807541,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120649,
@@ -23209,6 +23305,14 @@
       "onboard_time": 1754645002,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119570,
+      "num": 119570,
+      "word": "CFML总决赛",
+      "onboard_time": 1754810601,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 119480,
@@ -23641,6 +23745,14 @@
       "onboard_time": 1754447720,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117357,
+      "num": 117357,
+      "word": "Lovecd确诊双向情感障碍",
+      "onboard_time": 1754808621,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 117331,
@@ -24699,6 +24811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111531,
+      "num": 111531,
+      "word": "龚俊演我看帅哥秀腹肌",
+      "onboard_time": 1754809882,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111406,
       "num": 111406,
       "word": "宝马设计主管回应加入小米",
@@ -25441,6 +25561,14 @@
       "onboard_time": 1754703201,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106160,
+      "num": 106160,
+      "word": "欧阳娣娣给刘宇宁夸成翘嘴了",
+      "onboard_time": 1754809401,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 106122,
@@ -27403,6 +27531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91750,
+      "num": 91750,
+      "word": "桃黑黑和陶白白不是情侣吗",
+      "onboard_time": 1754810660,
+      "rank": 49,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "孙颖莎捐赠物资抵达河北",
@@ -28115,6 +28251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84158,
+      "num": 124788,
+      "word": "外卖大战钱烧完了会涨价吗",
+      "onboard_time": 1754810300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84157,
       "num": 97320,
       "word": "孟子义对自己的脸非常有自信",
@@ -28184,14 +28328,6 @@
       "word": "老王杯S2韩涵队夺冠",
       "onboard_time": 1754756481,
       "rank": 41,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 83660,
-      "num": 83660,
-      "word": "Lovecd确诊双向情感障碍",
-      "onboard_time": 1754808621,
-      "rank": 49,
       "category": "电竞"
     },
     {
@@ -28632,6 +28768,14 @@
       "word": "22小时制酒店凭啥收24小时的钱",
       "onboard_time": 1754717543,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77436,
+      "num": 187202,
+      "word": "走路被开罚单了",
+      "onboard_time": 1754809882,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -32737,6 +32881,14 @@
       "onboard_time": 1754053284,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16105,
+      "num": 124612,
+      "word": "全国鸡蛋价格下降",
+      "onboard_time": 1754809882,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15854,
