@@ -1,0 +1,410 @@
+{
+  "runTime": 1754822727662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1036251,
+        "num": 1165800,
+        "word": "张晋和蔡少芬国外旅行突发心脏病",
+        "onboard_time": 1754810061,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697818,
+        "num": 697818,
+        "word": "真的建议朋友圈一定要趁早发",
+        "onboard_time": 1754811081,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58991,
+        "num": 657535,
+        "word": "榆中已转移安置9800多人",
+        "onboard_time": 1754799801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620568,
+        "num": 620568,
+        "word": "陈奕迅演唱会疑出现焦虑症躯体化",
+        "onboard_time": 1754812221,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 528550,
+        "num": 528550,
+        "word": "孙颖莎vs大藤沙月",
+        "onboard_time": 1754819603,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455524,
+        "num": 455524,
+        "word": "抠抠搜搜8年抠了49万",
+        "onboard_time": 1754806700,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482149,
+        "num": 455462,
+        "word": "杨洋 谁说演员不能直视镜头",
+        "onboard_time": 1754812881,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455241,
+        "num": 455241,
+        "word": "向往的生活8 丁程鑫",
+        "onboard_time": 1754821161,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274086,
+        "num": 408537,
+        "word": "张本智和告状",
+        "onboard_time": 1754822181,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243909,
+        "num": 378912,
+        "word": "6岁女童溺毙于深不到膝盖戏水池",
+        "onboard_time": 1754818282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667406,
+        "num": 376106,
+        "word": "关晓彤瘦了十几斤",
+        "onboard_time": 1754801901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371178,
+        "num": 371178,
+        "word": "26岁男子勒死73岁情人水泥埋尸",
+        "onboard_time": 1754817442,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340502,
+        "num": 340502,
+        "word": "那英真回答了你又不乐意",
+        "onboard_time": 1754818702,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273362,
+        "num": 337861,
+        "word": "走路被开罚单了",
+        "onboard_time": 1754809882,
+        "rank": 13,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 336597,
+        "num": 336597,
+        "word": "时代少年团抢票",
+        "onboard_time": 1754821580,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320623,
+        "num": 320623,
+        "word": "刘诗诗红发大波浪",
+        "onboard_time": 1754815100,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260933,
+        "num": 260933,
+        "word": "斗罗大陆",
+        "onboard_time": 1754817982,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 235909,
+        "num": 235909,
+        "word": "鹤岗开发百万元高档小区",
+        "onboard_time": 1754821221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218124,
+        "num": 218124,
+        "word": "孙颖莎4比0大藤沙月",
+        "onboard_time": 1754821943,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217957,
+        "num": 217957,
+        "word": "官方通报搜救在大理走失8岁男童进度",
+        "onboard_time": 1754818823,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 216638,
+        "num": 216638,
+        "word": "剑来",
+        "onboard_time": 1754814981,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202956,
+        "num": 202956,
+        "word": "高敏感在别人眼里是这样的",
+        "onboard_time": 1754821642,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198408,
+        "num": 198408,
+        "word": "杭州警方通报某演出场所发生猥亵事件",
+        "onboard_time": 1754821761,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 196391,
+        "num": 196391,
+        "word": "锦月如歌提档六点播",
+        "onboard_time": 1754822001,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186892,
+        "num": 186892,
+        "word": "花少7提前50天面试艺人",
+        "onboard_time": 1754809222,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176831,
+        "num": 176831,
+        "word": "向鹏2比4张本智和",
+        "onboard_time": 1754819122,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170385,
+        "num": 170385,
+        "word": "张维伊不在乎董璇的过去",
+        "onboard_time": 1754811620,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168487,
+        "num": 168487,
+        "word": "谁敢信蒋欣穿的是同一件衬衫",
+        "onboard_time": 1754801961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166549,
+        "num": 166549,
+        "word": "我恨现在的女士内裤",
+        "onboard_time": 1754808861,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155931,
+        "num": 155931,
+        "word": "孙怡 婚姻需要勇气",
+        "onboard_time": 1754820202,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176855,
+        "num": 155415,
+        "word": "林孝埈每一步都会走向更好的自己",
+        "onboard_time": 1754822181,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153221,
+        "num": 153221,
+        "word": "张予曦妈妈给女儿定制88道菜菜单",
+        "onboard_time": 1754818942,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146740,
+        "num": 146740,
+        "word": "百果园去年净利润亏3亿",
+        "onboard_time": 1754820441,
+        "rank": 32,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 139025,
+        "num": 139025,
+        "word": "男子拒付52万婚宴食材款事件后续",
+        "onboard_time": 1754820082,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137649,
+        "num": 137649,
+        "word": "洞洞鞋",
+        "onboard_time": 1754821340,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 130552,
+        "num": 130552,
+        "word": "苹果干",
+        "onboard_time": 1754806821,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130150,
+        "num": 130150,
+        "word": "37岁游客为救溺水一家三口牺牲",
+        "onboard_time": 1754803463,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128140,
+        "num": 128140,
+        "word": "燕云十六声 逆水寒",
+        "onboard_time": 1754819002,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127837,
+        "num": 127837,
+        "word": "敦煌鸣沙山",
+        "onboard_time": 1754816961,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127272,
+        "num": 127272,
+        "word": "横滨赛男单四强国乒仅剩王楚钦",
+        "onboard_time": 1754819782,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124866,
+        "num": 124866,
+        "word": "杨幂倪大红新剧三声三誓",
+        "onboard_time": 1754819842,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121288,
+        "num": 121288,
+        "word": "孙颖莎闯进四强",
+        "onboard_time": 1754822423,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114345,
+        "num": 114345,
+        "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
+        "onboard_time": 1754809822,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110860,
+        "num": 110860,
+        "word": "超绝扁头和超绝圆头",
+        "onboard_time": 1754820500,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109228,
+        "num": 109228,
+        "word": "仙逆第二部剧场版官宣",
+        "onboard_time": 1754820022,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100968,
+        "num": 100968,
+        "word": "朱志鑫张泽禹左航完胜大湾仔",
+        "onboard_time": 1754822662,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100946,
+        "num": 100946,
+        "word": "苏醒全员加速中唯一没招的东西",
+        "onboard_time": 1754822601,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100676,
+        "num": 100676,
+        "word": "删好友不会被发现的方法",
+        "onboard_time": 1754822122,
+        "rank": 47,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 97854,
+        "num": 97854,
+        "word": "向鹏vs张本智和",
+        "onboard_time": 1754815941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97754,
+        "num": 97754,
+        "word": "当我拿着体检报告去面试",
+        "onboard_time": 1754822601,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化人以文兴业#"
+    }
+  }
+}

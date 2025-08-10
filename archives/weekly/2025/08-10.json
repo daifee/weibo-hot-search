@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754821714278,
+  "endTime": 1754822727662,
   "band_list": [
     {
       "raw_hot": 1687846,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 844223,
-      "num": 553807,
+      "num": 620568,
       "word": "陈奕迅演唱会疑出现焦虑症躯体化",
       "onboard_time": 1754812221,
       "rank": 23,
@@ -267,8 +267,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 517445,
-      "num": 517445,
+      "raw_hot": 528550,
+      "num": 528550,
       "word": "孙颖莎vs大藤沙月",
       "onboard_time": 1754819603,
       "rank": 4,
@@ -344,6 +344,14 @@
       "word": "鲁豫给张子枫买衣服",
       "onboard_time": 1754795241,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 455241,
+      "num": 455241,
+      "word": "向往的生活8 丁程鑫",
+      "onboard_time": 1754821161,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -441,6 +449,22 @@
       "onboard_time": 1754798000,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340502,
+      "num": 340502,
+      "word": "那英真回答了你又不乐意",
+      "onboard_time": 1754818702,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 336597,
+      "num": 336597,
+      "word": "时代少年团抢票",
+      "onboard_time": 1754821580,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 325056,
@@ -579,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274086,
+      "num": 408537,
+      "word": "张本智和告状",
+      "onboard_time": 1754822181,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271391,
       "num": 271391,
       "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 256825,
-      "num": 256825,
+      "num": 378912,
       "word": "6岁女童溺毙于深不到膝盖戏水池",
       "onboard_time": 1754818282,
       "rank": 29,
@@ -633,14 +665,6 @@
       "onboard_time": 1754804003,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253951,
-      "num": 253951,
-      "word": "那英真回答了你又不乐意",
-      "onboard_time": 1754818702,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 245455,
@@ -681,6 +705,14 @@
       "onboard_time": 1754801241,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235909,
+      "num": 235909,
+      "word": "鹤岗开发百万元高档小区",
+      "onboard_time": 1754821221,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234547,
@@ -731,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218124,
+      "num": 218124,
+      "word": "孙颖莎4比0大藤沙月",
+      "onboard_time": 1754821943,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211701,
       "num": 242773,
       "word": "美国允许普京入境是比较大的让步",
@@ -760,6 +800,14 @@
       "word": "有一对不爱干净的父母是什么体验",
       "onboard_time": 1754793260,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 202956,
+      "num": 202956,
+      "word": "高敏感在别人眼里是这样的",
+      "onboard_time": 1754821642,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -811,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198408,
+      "num": 198408,
+      "word": "杭州警方通报某演出场所发生猥亵事件",
+      "onboard_time": 1754821761,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 198314,
       "num": 198314,
       "word": "香奈儿简直是女王",
       "onboard_time": 1754799021,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196391,
+      "num": 196391,
+      "word": "锦月如歌提档六点播",
+      "onboard_time": 1754822001,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 195133,
@@ -979,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176855,
+      "num": 155415,
+      "word": "林孝埈每一步都会走向更好的自己",
+      "onboard_time": 1754822181,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175668,
       "num": 163231,
       "word": "李荣浩给粉丝签名忘签自己名字",
@@ -1089,14 +1161,6 @@
       "onboard_time": 1754820441,
       "rank": 25,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 162692,
-      "num": 162692,
-      "word": "向往的生活8 丁程鑫",
-      "onboard_time": 1754821161,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 161905,
@@ -1411,6 +1475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137649,
+      "num": 137649,
+      "word": "洞洞鞋",
+      "onboard_time": 1754821340,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 136616,
       "num": 136616,
       "word": "国漫cp天花板果然名不虚传",
@@ -1603,6 +1675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127837,
+      "num": 127837,
+      "word": "敦煌鸣沙山",
+      "onboard_time": 1754816961,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 127804,
       "num": 127804,
       "word": "许魏洲顶着这么帅一张脸搞抽象",
@@ -1651,14 +1731,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 126130,
-      "num": 126130,
-      "word": "时代少年团抢票",
-      "onboard_time": 1754821580,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126084,
       "num": 126084,
       "word": "董璇张维伊连晕车呕吐都同步",
@@ -1683,14 +1755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124916,
-      "num": 124916,
-      "word": "鹤岗开发百万元高档小区",
-      "onboard_time": 1754821221,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124111,
       "num": 124111,
       "word": "群殴在澳留学生肇事者已被全部抓获",
@@ -1713,6 +1777,14 @@
       "onboard_time": 1754801901,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121288,
+      "num": 121288,
+      "word": "孙颖莎闯进四强",
+      "onboard_time": 1754822423,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 120711,
@@ -1971,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110860,
+      "num": 110860,
+      "word": "超绝扁头和超绝圆头",
+      "onboard_time": 1754820500,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110219,
       "num": 110219,
       "word": "盛阳为了看升旗坐20个小时硬座",
@@ -2059,14 +2139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107081,
-      "num": 107081,
-      "word": "敦煌鸣沙山",
-      "onboard_time": 1754816961,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 106993,
       "num": 106993,
       "word": "陈平安爆燃回归",
@@ -2081,14 +2153,6 @@
       "onboard_time": 1754744723,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106684,
-      "num": 106684,
-      "word": "高敏感在别人眼里是这样的",
-      "onboard_time": 1754821642,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 106649,
@@ -2171,6 +2235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100968,
+      "num": 100968,
+      "word": "朱志鑫张泽禹左航完胜大湾仔",
+      "onboard_time": 1754822662,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100946,
+      "num": 100946,
+      "word": "苏醒全员加速中唯一没招的东西",
+      "onboard_time": 1754822601,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100848,
       "num": 100848,
       "word": "孙红雷跳进黄河发现根本不用洗",
@@ -2179,12 +2259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100814,
-      "num": 100814,
-      "word": "超绝扁头和超绝圆头",
-      "onboard_time": 1754820500,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 100676,
+      "num": 100676,
+      "word": "删好友不会被发现的方法",
+      "onboard_time": 1754822122,
+      "rank": 47,
+      "category": "互联网,情感"
     },
     {
       "raw_hot": 99834,
@@ -2217,6 +2297,14 @@
       "onboard_time": 1754745864,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97754,
+      "num": 97754,
+      "word": "当我拿着体检报告去面试",
+      "onboard_time": 1754822601,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 97515,
@@ -2539,20 +2627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58991,
+      "num": 657535,
+      "word": "榆中已转移安置9800多人",
+      "onboard_time": 1754799801,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 56225,
       "num": 56225,
       "word": "宋亚轩十分像从前",
       "onboard_time": 1754760798,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55339,
-      "num": 568514,
-      "word": "榆中已转移安置9800多人",
-      "onboard_time": 1754799801,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 53661,
