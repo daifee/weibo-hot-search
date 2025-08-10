@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754830367167,
+  "endTime": 1754831240076,
   "band_list": [
     {
       "raw_hot": 1701905,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1501087,
+      "num": 1501087,
+      "word": "洞洞鞋",
+      "onboard_time": 1754821340,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1462633,
       "num": 1462633,
       "word": "月薪2万吃不起百果园",
@@ -41,14 +49,6 @@
       "onboard_time": 1754823501,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1383436,
-      "num": 1383436,
-      "word": "洞洞鞋",
-      "onboard_time": 1754821340,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 1293558,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 872269,
+      "num": 872269,
+      "word": "张本智和回应告状",
+      "onboard_time": 1754828783,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 844425,
       "num": 844425,
       "word": "杭州警方通报某演出场所发生猥亵事件",
@@ -211,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 655979,
+      "num": 655979,
+      "word": "百果园 钟薛高",
+      "onboard_time": 1754825003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 647303,
       "num": 647303,
       "word": "女子嫌私教课太贵让小孩哥教游泳",
@@ -249,6 +265,14 @@
       "onboard_time": 1754802140,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624087,
+      "num": 624087,
+      "word": "抗战胜利80周年天安门演练现场",
+      "onboard_time": 1754826322,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 599187,
@@ -291,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 556912,
-      "num": 556912,
-      "word": "百果园 钟薛高",
-      "onboard_time": 1754825003,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 542893,
       "num": 542893,
       "word": "姜文女儿结婚",
@@ -328,22 +344,6 @@
       "word": "孙颖莎vs大藤沙月",
       "onboard_time": 1754819603,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 522317,
-      "num": 616461,
-      "word": "抗战胜利80周年天安门演练现场",
-      "onboard_time": 1754826322,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 514051,
-      "num": 514051,
-      "word": "张本智和回应告状",
-      "onboard_time": 1754828783,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375417,
+      "num": 375417,
+      "word": "网友票选可以出道的星二代",
+      "onboard_time": 1754826082,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362646,
       "num": 362646,
       "word": "眷思量",
@@ -545,6 +553,14 @@
       "onboard_time": 1754798000,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342757,
+      "num": 152778,
+      "word": "建议多囊还是不要参与外卖大战了",
+      "onboard_time": 1754831123,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 340502,
@@ -619,20 +635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299247,
+      "num": 299247,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754827822,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 297463,
+      "num": 297463,
+      "word": "妻子嫂子景德镇批发式购物狂买2000元",
+      "onboard_time": 1754827401,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296090,
       "num": 217261,
       "word": "董璇说结婚是梁静茹给的勇气",
       "onboard_time": 1754796321,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293914,
-      "num": 195896,
-      "word": "妻子嫂子景德镇批发式购物狂买2000元",
-      "onboard_time": 1754827401,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293278,
@@ -779,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245691,
-      "num": 245691,
-      "word": "网友票选可以出道的星二代",
-      "onboard_time": 1754826082,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245455,
       "num": 245455,
       "word": "游客还原游览少林寺时遇大雨",
@@ -888,6 +904,14 @@
       "word": "孙颖莎4比0大藤沙月",
       "onboard_time": 1754821943,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217828,
+      "num": 217828,
+      "word": "法拉利老了还是法拉利",
+      "onboard_time": 1754829382,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1019,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194527,
+      "num": 194527,
+      "word": "迪迪不畏美而自知",
+      "onboard_time": 1754829922,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193683,
       "num": 193683,
       "word": "大爷摆摊自称送20万现金无人敢拿",
@@ -1059,12 +1091,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189135,
-      "num": 189135,
-      "word": "浪浪山小妖怪",
-      "onboard_time": 1754827822,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 189660,
+      "num": 189660,
+      "word": "AG对战狼队",
+      "onboard_time": 1754830342,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 188844,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1754820202,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183552,
+      "num": 471608,
+      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+      "onboard_time": 1754829263,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 182713,
@@ -1227,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174123,
-      "num": 174123,
-      "word": "法拉利老了还是法拉利",
-      "onboard_time": 1754829382,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173245,
       "num": 173245,
       "word": "谁要炸tbz",
@@ -1323,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163783,
-      "num": 180168,
-      "word": "迪迪不畏美而自知",
-      "onboard_time": 1754829922,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162916,
       "num": 162916,
       "word": "百果园去年净利润亏3亿",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1754750485,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159719,
+      "num": 159719,
+      "word": "时代少年团cha了粟米摇",
+      "onboard_time": 1754830462,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158654,
@@ -1507,6 +1539,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 149093,
+      "num": 149093,
+      "word": "王楚钦半决赛迎战莫雷加德",
+      "onboard_time": 1754830703,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148884,
       "num": 148884,
       "word": "梁家辉又收到了labubu",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1754823622,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142762,
+      "num": 165572,
+      "word": "官方调查男子发布12字评论被拘",
+      "onboard_time": 1754829081,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 141604,
@@ -1800,6 +1848,14 @@
       "word": "母子用音响辱骂儿媳双双被拘9天",
       "onboard_time": 1754791879,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132814,
+      "num": 132814,
+      "word": "溺亡女童左腿被回水管吸住",
+      "onboard_time": 1754828783,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2011,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123326,
+      "num": 123326,
+      "word": "多人烧烤店外用餐遭楼上泼不明液体",
+      "onboard_time": 1754829502,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123317,
       "num": 123317,
       "word": "贾哈4比1邱党",
@@ -2113,14 +2177,6 @@
       "onboard_time": 1754804662,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118815,
-      "num": 118815,
-      "word": "多人烧烤店外用餐遭楼上泼不明液体",
-      "onboard_time": 1754829502,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118532,
@@ -2267,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114014,
+      "num": 114014,
+      "word": "莫雷加德4比1安宰贤",
+      "onboard_time": 1754829863,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113858,
       "num": 113858,
       "word": "孙颖莎头顶打出小天线",
@@ -2323,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111837,
-      "num": 111837,
-      "word": "AG对战狼队",
-      "onboard_time": 1754830342,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111531,
       "num": 111531,
       "word": "龚俊演我看帅哥秀腹肌",
@@ -2353,14 +2409,6 @@
       "onboard_time": 1754792780,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111054,
-      "num": 471608,
-      "word": "女子看演出时遭猥亵嫌疑人被刑拘",
-      "onboard_time": 1754829263,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 110860,
@@ -2563,6 +2611,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 103184,
+      "num": 103184,
+      "word": "张艺兴成都演唱会",
+      "onboard_time": 1754831183,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102557,
       "num": 102557,
       "word": "罗小黑战记",
@@ -2649,14 +2705,6 @@
       "onboard_time": 1754803761,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 98592,
-      "num": 165572,
-      "word": "官方调查男子发布12字评论被拘",
-      "onboard_time": 1754829081,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 97942,
@@ -2971,8 +3019,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76581,
-      "num": 121593,
+      "raw_hot": 77272,
+      "num": 133576,
       "word": "孙颖莎此等萌物一口吞了",
       "onboard_time": 1754828003,
       "rank": 39,
@@ -3017,6 +3065,14 @@
       "onboard_time": 1754822721,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66938,
+      "num": 148897,
+      "word": "中国救人者和英国被救者后代拥抱",
+      "onboard_time": 1754831123,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 65169,
@@ -3116,7 +3172,7 @@
     },
     {
       "raw_hot": 47069,
-      "num": 195730,
+      "num": 225098,
       "word": "华晨宇火星钢枪队赢麻了",
       "onboard_time": 1754829382,
       "rank": 19,
@@ -3147,20 +3203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41496,
+      "num": 136383,
+      "word": "90后落马干部现场忏悔",
+      "onboard_time": 1754830103,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40588,
       "num": 54948,
       "word": "张康乐喊你出招",
       "onboard_time": 1754760617,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38555,
-      "num": 122635,
-      "word": "90后落马干部现场忏悔",
-      "onboard_time": 1754830103,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37360,
@@ -3233,6 +3289,14 @@
       "onboard_time": 1754781317,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29878,
+      "num": 114724,
+      "word": "放弃北漂的人开始去天津打拼",
+      "onboard_time": 1754830943,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29518,
