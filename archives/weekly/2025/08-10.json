@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754839616142,
+  "endTime": 1754840510032,
   "band_list": [
     {
       "raw_hot": 1818650,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 662265,
+      "num": 278300,
+      "word": "曝孙亦航恋情",
+      "onboard_time": 1754839103,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647303,
       "num": 647303,
       "word": "女子嫌私教课太贵让小孩哥教游泳",
@@ -459,6 +467,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 473437,
+      "num": 473437,
+      "word": "利剑玫瑰第二季",
+      "onboard_time": 1754837245,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470369,
       "num": 470369,
       "word": "吃到腾讯芒果商战红利了",
@@ -483,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 459886,
+      "num": 341747,
+      "word": "展轩空降",
+      "onboard_time": 1754840303,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459415,
       "num": 459415,
       "word": "溺亡女童左腿被回水管吸住",
@@ -497,14 +521,6 @@
       "onboard_time": 1754795241,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 452793,
-      "num": 452793,
-      "word": "利剑玫瑰第二季",
-      "onboard_time": 1754837245,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 451418,
@@ -537,6 +553,14 @@
       "onboard_time": 1754751564,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419540,
+      "num": 315478,
+      "word": "蔡徐坤 Jasmine",
+      "onboard_time": 1754834663,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 418891,
@@ -577,6 +601,14 @@
       "onboard_time": 1754815941,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376524,
+      "num": 376524,
+      "word": "社保新规对打工人有何影响",
+      "onboard_time": 1754835805,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362646,
@@ -625,14 +657,6 @@
       "onboard_time": 1754827401,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 354806,
-      "num": 354806,
-      "word": "社保新规对打工人有何影响",
-      "onboard_time": 1754835805,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349246,
@@ -835,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278300,
-      "num": 278300,
-      "word": "曝孙亦航恋情",
-      "onboard_time": 1754839103,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271391,
       "num": 271391,
       "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
@@ -883,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262084,
+      "num": 262084,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1754838863,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256825,
       "num": 378912,
       "word": "6岁女童溺毙于深不到膝盖戏水池",
@@ -899,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252657,
-      "num": 173312,
-      "word": "白桃星座一周运势",
-      "onboard_time": 1754838863,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 245455,
       "num": 245455,
       "word": "游客还原游览少林寺时遇大雨",
@@ -921,14 +937,6 @@
       "onboard_time": 1754796380,
       "rank": 13,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 242587,
-      "num": 199009,
-      "word": "蔡徐坤 Jasmine",
-      "onboard_time": 1754834663,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 242582,
@@ -1403,6 +1411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177856,
+      "num": 177856,
+      "word": "CORTIS BIGHIT",
+      "onboard_time": 1754839404,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177843,
       "num": 177843,
       "word": "张予曦妈妈给女儿定制88道菜菜单",
@@ -1547,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166868,
+      "num": 166868,
+      "word": "婚内强奸案男方姐姐发声",
+      "onboard_time": 1754838083,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166552,
       "num": 166552,
       "word": "易烊千玺北京场预售开启",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1754833163,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158674,
-      "num": 158674,
-      "word": "婚内强奸案男方姐姐发声",
-      "onboard_time": 1754838083,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158654,
@@ -2355,14 +2371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125684,
-      "num": 125684,
-      "word": "CORTIS BIGHIT",
-      "onboard_time": 1754839404,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125460,
       "num": 125460,
       "word": "穿越火线",
@@ -2931,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108039,
+      "num": 108039,
+      "word": "银川地震",
+      "onboard_time": 1754837124,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 107214,
       "num": 107214,
       "word": "陈浚铭卷毛活力小狗",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1754751804,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96664,
+      "num": 96664,
+      "word": "一口气炫N集的电视剧",
+      "onboard_time": 1754840002,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95769,
@@ -3483,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72341,
+      "num": 337146,
+      "word": "高温台风强降雨又将凑齐",
+      "onboard_time": 1754839164,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71044,
       "num": 85295,
       "word": "宋茜女战神结算时刻",
@@ -3641,14 +3673,6 @@
       "onboard_time": 1754770094,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42020,
-      "num": 337146,
-      "word": "高温台风强降雨又将凑齐",
-      "onboard_time": 1754839164,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41537,
@@ -3891,18 +3915,26 @@
       "category": "演出"
     },
     {
-      "raw_hot": 3967,
-      "num": 781790,
-      "word": "何以中国和合共生",
-      "onboard_time": 1754714002,
+      "raw_hot": 7507,
+      "num": 99129,
+      "word": "你的提神饮料正悄悄让你变胖",
+      "onboard_time": 1754840483,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4311,
+      "num": 1055105,
+      "word": "相约成都遇见万千精彩",
+      "onboard_time": 1754572223,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3951,
-      "num": 1055105,
-      "word": "相约成都遇见万千精彩",
-      "onboard_time": 1754572223,
+      "raw_hot": 3967,
+      "num": 781790,
+      "word": "何以中国和合共生",
+      "onboard_time": 1754714002,
       "rank": 2,
       "category": "民生新闻"
     }
