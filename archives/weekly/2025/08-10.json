@@ -1,10 +1,10 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754803820574,
+  "endTime": 1754804826845,
   "band_list": [
     {
-      "raw_hot": 1544774,
-      "num": 291595,
+      "raw_hot": 1687846,
+      "num": 376563,
       "word": "关晓彤瘦了十几斤",
       "onboard_time": 1754801901,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1108626,
+      "num": 1108626,
+      "word": "谁敢信蒋欣穿的是同一件衬衫",
+      "onboard_time": 1754801961,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008982,
       "num": 236009,
       "word": "徐杰被曝出轨",
@@ -67,16 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 951231,
-      "num": 951231,
-      "word": "谁敢信蒋欣穿的是同一件衬衫",
-      "onboard_time": 1754801961,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 878359,
-      "num": 154213,
+      "num": 172365,
       "word": "支付宝崩了",
       "onboard_time": 1754794821,
       "rank": 30,
@@ -89,6 +89,14 @@
       "onboard_time": 1754752704,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 739266,
+      "num": 739266,
+      "word": "百果园价格",
+      "onboard_time": 1754801061,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 730076,
@@ -107,14 +115,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 690701,
-      "num": 690701,
-      "word": "百果园价格",
-      "onboard_time": 1754801061,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 647303,
       "num": 647303,
       "word": "女子嫌私教课太贵让小孩哥教游泳",
@@ -131,8 +131,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 618877,
-      "num": 618877,
+      "raw_hot": 636818,
+      "num": 636818,
       "word": "徐杰方声明",
       "onboard_time": 1754802140,
       "rank": 6,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553686,
+      "num": 375080,
+      "word": "董璇带沙溢佟丽娅父母出游",
+      "onboard_time": 1754803700,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542157,
       "num": 275224,
       "word": "无袖流行是对身体羞耻的反击",
@@ -185,6 +193,14 @@
       "onboard_time": 1754790440,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 480741,
+      "num": 372072,
+      "word": "李乃文 老来得粉",
+      "onboard_time": 1754802680,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 460580,
@@ -235,12 +251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385680,
+      "num": 385680,
+      "word": "姜文女儿结婚",
+      "onboard_time": 1754804061,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362646,
       "num": 362646,
       "word": "眷思量",
       "onboard_time": 1754797881,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361940,
+      "num": 361940,
+      "word": "15岁女孩劫钱不怕警察审讯",
+      "onboard_time": 1754802200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360002,
@@ -275,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334398,
-      "num": 282059,
-      "word": "李乃文 老来得粉",
-      "onboard_time": 1754802680,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 343417,
+      "num": 343417,
+      "word": "37岁游客为救溺水一家三口牺牲",
+      "onboard_time": 1754803463,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 325056,
@@ -307,6 +339,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 301028,
+      "num": 301028,
+      "word": "王楚钦4比1户上隼辅",
+      "onboard_time": 1754803641,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296090,
       "num": 217261,
       "word": "董璇说结婚是梁静茹给的勇气",
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 290265,
-      "num": 290265,
+      "num": 750978,
       "word": "抗战胜利80周年大会第一次演练结束",
       "onboard_time": 1754782937,
       "rank": 8,
@@ -467,14 +507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210216,
-      "num": 210216,
-      "word": "王楚钦4比1户上隼辅",
-      "onboard_time": 1754803641,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208826,
       "num": 208826,
       "word": "陈熠vs王艺迪",
@@ -491,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203169,
+      "num": 203169,
+      "word": "王楚钦WTT男单第100胜",
+      "onboard_time": 1754804061,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202097,
       "num": 170292,
       "word": "龙族3一眼看到绘梨衣",
@@ -499,12 +539,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 200381,
+      "num": 200381,
+      "word": "偶遇王一博练车",
+      "onboard_time": 1754804241,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200309,
-      "num": 200309,
+      "num": 201403,
       "word": "王楚钦11比7户上隼辅",
       "onboard_time": 1754803641,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200040,
+      "num": 200040,
+      "word": "花少7刚开录就有人脆皮了",
+      "onboard_time": 1754803641,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 198314,
@@ -521,6 +577,14 @@
       "onboard_time": 1754755282,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193542,
+      "num": 193542,
+      "word": "汤唯 一生爱看热闹的中国人",
+      "onboard_time": 1754804003,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 192563,
@@ -555,19 +619,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187327,
-      "num": 293601,
-      "word": "15岁女孩劫钱不怕警察审讯",
-      "onboard_time": 1754802200,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182706,
-      "num": 148097,
-      "word": "董璇带沙溢佟丽娅父母出游",
-      "onboard_time": 1754803700,
-      "rank": 26,
+      "raw_hot": 180530,
+      "num": 180530,
+      "word": "刘宇宁到底看了多少霸总文学",
+      "onboard_time": 1754803941,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -601,6 +657,14 @@
       "onboard_time": 1754796620,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172533,
+      "num": 172533,
+      "word": "焦虑症躯体化的症状",
+      "onboard_time": 1754803041,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172105,
@@ -659,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157062,
+      "num": 157062,
+      "word": "女孩请正视自己的才华",
+      "onboard_time": 1754804361,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155028,
       "num": 155028,
       "word": "张远燃爆全场堪比防空警报",
@@ -699,8 +771,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 146412,
-      "num": 146412,
+      "raw_hot": 146638,
+      "num": 222640,
       "word": "明朝女设计师让全村用上自来水",
       "onboard_time": 1754801001,
       "rank": 29,
@@ -771,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138411,
+      "num": 138411,
+      "word": "女子为买特价鱼将超市活鱼踩死",
+      "onboard_time": 1754803941,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136616,
       "num": 136616,
       "word": "国漫cp天花板果然名不虚传",
@@ -787,20 +867,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136115,
+      "num": 136115,
+      "word": "11岁女孩海姆立克救回被呛窒息女子",
+      "onboard_time": 1754802381,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 135217,
       "num": 135217,
       "word": "张艺兴演唱会",
       "onboard_time": 1754799322,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134014,
-      "num": 134014,
-      "word": "37岁游客为救溺水一家三口牺牲",
-      "onboard_time": 1754803463,
-      "rank": 28,
-      "category": "正能量"
     },
     {
       "raw_hot": 133673,
@@ -824,6 +904,14 @@
       "word": "徐明浩说香奈儿具备成为艺人的条件",
       "onboard_time": 1754800882,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131124,
+      "num": 131124,
+      "word": "陈赫真的没招了",
+      "onboard_time": 1754804481,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -955,12 +1043,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118074,
-      "num": 118074,
-      "word": "花少7刚开录就有人脆皮了",
-      "onboard_time": 1754803641,
-      "rank": 35,
+      "raw_hot": 119035,
+      "num": 119035,
+      "word": "李乃文刘宇宁复刻折腰名场面",
+      "onboard_time": 1754804662,
+      "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118163,
+      "num": 118163,
+      "word": "王楚钦横滨赛进四强",
+      "onboard_time": 1754804541,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117641,
+      "num": 117641,
+      "word": "东极岛 改编",
+      "onboard_time": 1754803822,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 117380,
@@ -977,14 +1081,6 @@
       "onboard_time": 1754798481,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115967,
-      "num": 115967,
-      "word": "焦虑症躯体化的症状",
-      "onboard_time": 1754803041,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 115890,
@@ -1025,14 +1121,6 @@
       "onboard_time": 1754792720,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112550,
-      "num": 112550,
-      "word": "11岁女孩海姆立克救回被呛窒息女子",
-      "onboard_time": 1754802381,
-      "rank": 40,
-      "category": "正能量"
     },
     {
       "raw_hot": 112427,
@@ -1267,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91100,
+      "num": 118329,
+      "word": "景区NPC被游客锁喉",
+      "onboard_time": 1754803521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90671,
       "num": 90671,
       "word": "迪丽热巴太会演了",
@@ -1475,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44868,
+      "num": 136428,
+      "word": "夫妻相约减肥大半年共瘦近100斤",
+      "onboard_time": 1754804003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42297,
       "num": 42297,
       "word": "曾辉韩雨彤直播",
@@ -1515,14 +1619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36423,
-      "num": 113223,
-      "word": "景区NPC被游客锁喉",
-      "onboard_time": 1754803521,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34931,
       "num": 138515,
       "word": "百果园财报曾25次提性价比",
@@ -1531,19 +1627,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34730,
+      "num": 136795,
+      "word": "苍山失踪男童系参加夏令营时走失",
+      "onboard_time": 1754803761,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33791,
       "num": 33791,
       "word": "警方回应外卖员被曝偷拍女生洗澡",
       "onboard_time": 1754776994,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33627,
-      "num": 105887,
-      "word": "苍山失踪男童系参加夏令营时走失",
-      "onboard_time": 1754803761,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1686,6 +1782,9 @@
   "hotgov_list": [
     {
       "word": "#确保群众安全度汛#"
+    },
+    {
+      "word": "#防汛救灾务必做到三个加强#"
     }
   ]
 }
