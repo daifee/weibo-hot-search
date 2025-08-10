@@ -1,0 +1,410 @@
+{
+  "runTime": 1754807884644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028708,
+        "num": 1164593,
+        "word": "谁敢信蒋欣穿的是同一件衬衫",
+        "onboard_time": 1754801961,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801696,
+        "num": 801696,
+        "word": "月薪2万吃不起百果园",
+        "onboard_time": 1754798900,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78368,
+        "num": 674479,
+        "word": "侵华日军荣字1644部队细菌战证据公布",
+        "onboard_time": 1754790381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640214,
+        "num": 640214,
+        "word": "37岁游客为救溺水一家三口牺牲",
+        "onboard_time": 1754803463,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 542893,
+        "num": 542893,
+        "word": "姜文女儿结婚",
+        "onboard_time": 1754804061,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485269,
+        "num": 485269,
+        "word": "素食主义者第一次吃肉",
+        "onboard_time": 1754805201,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443542,
+        "num": 443542,
+        "word": "抠抠搜搜8年抠了49万",
+        "onboard_time": 1754806700,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432224,
+        "num": 432224,
+        "word": "百果园价格",
+        "onboard_time": 1754801061,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418467,
+        "num": 418467,
+        "word": "东北雨姐发博",
+        "onboard_time": 1754788699,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56355,
+        "num": 390554,
+        "word": "加州州长硬刚特朗普政府",
+        "onboard_time": 1754807241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1265297,
+        "num": 390112,
+        "word": "关晓彤瘦了十几斤",
+        "onboard_time": 1754801901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598781,
+        "num": 389783,
+        "word": "董璇带沙溢佟丽娅父母出游",
+        "onboard_time": 1754803700,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389319,
+        "num": 389319,
+        "word": "胡冰卿 被低估的颜值和角色",
+        "onboard_time": 1754805380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386582,
+        "num": 386582,
+        "word": "李乃文 老来得粉",
+        "onboard_time": 1754802680,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354488,
+        "num": 354488,
+        "word": "徐杰方声明",
+        "onboard_time": 1754802140,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324820,
+        "num": 324820,
+        "word": "花少7 全员淡人",
+        "onboard_time": 1754786300,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286734,
+        "num": 286734,
+        "word": "王楚钦WTT男单第100胜",
+        "onboard_time": 1754804061,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270678,
+        "num": 270678,
+        "word": "偶遇王一博练车",
+        "onboard_time": 1754804241,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255518,
+        "num": 255518,
+        "word": "汤唯 一生爱看热闹的中国人",
+        "onboard_time": 1754804003,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36661,
+        "num": 213352,
+        "word": "名创的时团含量过高了",
+        "onboard_time": 1754806100,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203264,
+        "num": 203264,
+        "word": "15岁女孩劫钱不怕警察审讯",
+        "onboard_time": 1754802200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201804,
+        "num": 201804,
+        "word": "11岁女孩海姆立克救回被呛窒息女子",
+        "onboard_time": 1754802381,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 195133,
+        "num": 195133,
+        "word": "陈浚铭被闭麦",
+        "onboard_time": 1754807061,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186190,
+        "num": 186190,
+        "word": "陈星旭怎么J成这样",
+        "onboard_time": 1754805201,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169816,
+        "num": 169816,
+        "word": "女子为买特价鱼将超市活鱼踩死",
+        "onboard_time": 1754803941,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169143,
+        "num": 169143,
+        "word": "云南大理一7岁小孩在苍山走失",
+        "onboard_time": 1754794880,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167499,
+        "num": 167499,
+        "word": "郭品超乡村走秀走出巴黎风",
+        "onboard_time": 1754806700,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165895,
+        "num": 165895,
+        "word": "曝披荆斩棘5三公分组",
+        "onboard_time": 1754807601,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156892,
+        "num": 156892,
+        "word": "花少7刚开录就有人脆皮了",
+        "onboard_time": 1754803641,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149315,
+        "num": 149315,
+        "word": "原子弹蘑菇灯让日本网民破防",
+        "onboard_time": 1754806221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165510,
+        "num": 149313,
+        "word": "支付宝崩了",
+        "onboard_time": 1754794821,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147894,
+        "num": 147894,
+        "word": "孟子义收手吧外面全是歌谜",
+        "onboard_time": 1754806462,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 144439,
+        "word": "以后朋友圈骂人能指名道姓吗",
+        "onboard_time": 1754801360,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144133,
+        "num": 144133,
+        "word": "苹果干",
+        "onboard_time": 1754806821,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133491,
+        "num": 133491,
+        "word": "那英说上花少尽量少说话",
+        "onboard_time": 1754807300,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131397,
+        "num": 131397,
+        "word": "王蓉在小沈阳演唱会上过于松弛了",
+        "onboard_time": 1754807001,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131193,
+        "num": 131193,
+        "word": "王楚钦超级神仙球来了",
+        "onboard_time": 1754805443,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118310,
+        "num": 118310,
+        "word": "焦虑症躯体化的症状",
+        "onboard_time": 1754803041,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116804,
+        "num": 116804,
+        "word": "刘宇宁他善啊",
+        "onboard_time": 1754806281,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108228,
+        "num": 108228,
+        "word": "37岁男子救人牺牲13岁孩子不停呼喊",
+        "onboard_time": 1754807541,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107943,
+        "num": 107943,
+        "word": "眷思量",
+        "onboard_time": 1754797881,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 106245,
+        "num": 106245,
+        "word": "敖瑞鹏生下来第一次遇到那么多人",
+        "onboard_time": 1754805921,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105817,
+        "num": 105817,
+        "word": "杨幂落泪我先碎",
+        "onboard_time": 1754805321,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105418,
+        "num": 105418,
+        "word": "冯建宇风尚志首封",
+        "onboard_time": 1754805022,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99834,
+        "num": 99834,
+        "word": "韩红哭成泪人",
+        "onboard_time": 1754805741,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99608,
+        "num": 99608,
+        "word": "王楚钦连续两板反拍神防守",
+        "onboard_time": 1754807182,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99354,
+        "num": 99354,
+        "word": "黄子韬上个节目确诊了",
+        "onboard_time": 1754798000,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97770,
+        "num": 97770,
+        "word": "时代少年团上海演唱会",
+        "onboard_time": 1754801901,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95719,
+        "num": 95719,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1754800941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92099,
+        "num": 92099,
+        "word": "明朝女设计师让全村用上自来水",
+        "onboard_time": 1754801001,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#防汛救灾务必做到三个加强#"
+    }
+  }
+}

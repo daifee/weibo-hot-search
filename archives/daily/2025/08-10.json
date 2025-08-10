@@ -1,10 +1,10 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754804826845,
+  "endTime": 1754807884644,
   "band_list": [
     {
       "raw_hot": 1687846,
-      "num": 376563,
+      "num": 390112,
       "word": "关晓彤瘦了十几斤",
       "onboard_time": 1754801901,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1108626,
-      "num": 1108626,
+      "num": 1164593,
       "word": "谁敢信蒋欣穿的是同一件衬衫",
       "onboard_time": 1754801961,
       "rank": 1,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 640214,
+      "num": 640214,
+      "word": "37岁游客为救溺水一家三口牺牲",
+      "onboard_time": 1754803463,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 637212,
       "num": 637212,
       "word": "陶白白 爱到最后都一样",
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598781,
+      "num": 389783,
+      "word": "董璇带沙溢佟丽娅父母出游",
+      "onboard_time": 1754803700,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588047,
       "num": 588047,
       "word": "云南大理一7岁小孩在苍山走失",
@@ -163,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553686,
-      "num": 375080,
-      "word": "董璇带沙溢佟丽娅父母出游",
-      "onboard_time": 1754803700,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 542893,
+      "num": 542893,
+      "word": "姜文女儿结婚",
+      "onboard_time": 1754804061,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 542157,
@@ -187,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485269,
+      "num": 485269,
+      "word": "素食主义者第一次吃肉",
+      "onboard_time": 1754805201,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481813,
       "num": 481813,
       "word": "警方通报女子带娃遛弯遭多人打配合偷走手机",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 480741,
-      "num": 372072,
+      "num": 386582,
       "word": "李乃文 老来得粉",
       "onboard_time": 1754802680,
       "rank": 12,
@@ -217,6 +241,14 @@
       "onboard_time": 1754795241,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443542,
+      "num": 443542,
+      "word": "抠抠搜搜8年抠了49万",
+      "onboard_time": 1754806700,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 431943,
@@ -251,11 +283,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385680,
-      "num": 385680,
-      "word": "姜文女儿结婚",
-      "onboard_time": 1754804061,
-      "rank": 9,
+      "raw_hot": 389319,
+      "num": 389319,
+      "word": "胡冰卿 被低估的颜值和角色",
+      "onboard_time": 1754805380,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -305,14 +337,6 @@
       "onboard_time": 1754798000,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343417,
-      "num": 343417,
-      "word": "37岁游客为救溺水一家三口牺牲",
-      "onboard_time": 1754803463,
-      "rank": 28,
-      "category": "正能量"
     },
     {
       "raw_hot": 325056,
@@ -371,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286734,
+      "num": 286734,
+      "word": "王楚钦WTT男单第100胜",
+      "onboard_time": 1754804061,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286301,
       "num": 286301,
       "word": "院长回应规培生等禁入职工餐厅吃饭",
@@ -403,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270678,
+      "num": 270678,
+      "word": "偶遇王一博练车",
+      "onboard_time": 1754804241,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267267,
       "num": 267267,
       "word": "黄璐孔大山恋情",
@@ -425,6 +465,14 @@
       "onboard_time": 1754801661,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255518,
+      "num": 255518,
+      "word": "汤唯 一生爱看热闹的中国人",
+      "onboard_time": 1754804003,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 245455,
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 218170,
-      "num": 218170,
+      "num": 674479,
       "word": "侵华日军荣字1644部队细菌战证据公布",
       "onboard_time": 1754790381,
       "rank": 13,
@@ -523,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203169,
-      "num": 203169,
-      "word": "王楚钦WTT男单第100胜",
-      "onboard_time": 1754804061,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202097,
       "num": 170292,
       "word": "龙族3一眼看到绘梨衣",
@@ -539,12 +579,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 200381,
-      "num": 200381,
-      "word": "偶遇王一博练车",
-      "onboard_time": 1754804241,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 201804,
+      "num": 201804,
+      "word": "11岁女孩海姆立克救回被呛窒息女子",
+      "onboard_time": 1754802381,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 200309,
@@ -571,20 +611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195133,
+      "num": 195133,
+      "word": "陈浚铭被闭麦",
+      "onboard_time": 1754807061,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193683,
       "num": 193683,
       "word": "大爷摆摊自称送20万现金无人敢拿",
       "onboard_time": 1754755282,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193542,
-      "num": 193542,
-      "word": "汤唯 一生爱看热闹的中国人",
-      "onboard_time": 1754804003,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 192563,
@@ -617,6 +657,14 @@
       "onboard_time": 1754802680,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186190,
+      "num": 186190,
+      "word": "陈星旭怎么J成这样",
+      "onboard_time": 1754805201,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 180530,
@@ -675,12 +723,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 169816,
+      "num": 169816,
+      "word": "女子为买特价鱼将超市活鱼踩死",
+      "onboard_time": 1754803941,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167499,
+      "num": 167499,
+      "word": "郭品超乡村走秀走出巴黎风",
+      "onboard_time": 1754806700,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166552,
       "num": 166552,
       "word": "易烊千玺北京场预售开启",
       "onboard_time": 1754799621,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165895,
+      "num": 165895,
+      "word": "曝披荆斩棘5三公分组",
+      "onboard_time": 1754807601,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 161905,
@@ -771,6 +843,22 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 149315,
+      "num": 149315,
+      "word": "原子弹蘑菇灯让日本网民破防",
+      "onboard_time": 1754806221,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147894,
+      "num": 147894,
+      "word": "孟子义收手吧外面全是歌谜",
+      "onboard_time": 1754806462,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146638,
       "num": 222640,
       "word": "明朝女设计师让全村用上自来水",
@@ -793,6 +881,22 @@
       "onboard_time": 1754744422,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144439,
+      "num": 144439,
+      "word": "以后朋友圈骂人能指名道姓吗",
+      "onboard_time": 1754801360,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144133,
+      "num": 144133,
+      "word": "苹果干",
+      "onboard_time": 1754806821,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 143526,
@@ -843,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138411,
-      "num": 138411,
-      "word": "女子为买特价鱼将超市活鱼踩死",
-      "onboard_time": 1754803941,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136616,
       "num": 136616,
       "word": "国漫cp天花板果然名不虚传",
@@ -865,14 +961,6 @@
       "onboard_time": 1754793200,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136115,
-      "num": 136115,
-      "word": "11岁女孩海姆立克救回被呛窒息女子",
-      "onboard_time": 1754802381,
-      "rank": 40,
-      "category": "正能量"
     },
     {
       "raw_hot": 135217,
@@ -891,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133491,
+      "num": 133491,
+      "word": "那英说上花少尽量少说话",
+      "onboard_time": 1754807300,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133264,
       "num": 133264,
       "word": "母子用音响辱骂儿媳双双被拘9天",
@@ -905,6 +1001,22 @@
       "onboard_time": 1754800882,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131397,
+      "num": 131397,
+      "word": "王蓉在小沈阳演唱会上过于松弛了",
+      "onboard_time": 1754807001,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "王楚钦超级神仙球来了",
+      "onboard_time": 1754805443,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 131124,
@@ -953,14 +1065,6 @@
       "onboard_time": 1754796201,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125480,
-      "num": 125480,
-      "word": "以后朋友圈骂人能指名道姓吗",
-      "onboard_time": 1754801360,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 124111,
@@ -1083,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116804,
+      "num": 116804,
+      "word": "刘宇宁他善啊",
+      "onboard_time": 1754806281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115890,
       "num": 115890,
       "word": "吴磊拍戏曾压迫颈动脉晕倒",
@@ -1187,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108228,
+      "num": 108228,
+      "word": "37岁男子救人牺牲13岁孩子不停呼喊",
+      "onboard_time": 1754807541,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106740,
       "num": 106740,
       "word": "鹿晗编了小辫子",
@@ -1203,6 +1323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106245,
+      "num": 106245,
+      "word": "敖瑞鹏生下来第一次遇到那么多人",
+      "onboard_time": 1754805921,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105817,
+      "num": 105817,
+      "word": "杨幂落泪我先碎",
+      "onboard_time": 1754805321,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105662,
       "num": 105662,
       "word": "内娱最全面的狗塑型群像",
@@ -1217,6 +1353,14 @@
       "onboard_time": 1754792720,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 105418,
+      "num": 105418,
+      "word": "冯建宇风尚志首封",
+      "onboard_time": 1754805022,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105077,
@@ -1241,6 +1385,22 @@
       "onboard_time": 1754800401,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99834,
+      "num": 99834,
+      "word": "韩红哭成泪人",
+      "onboard_time": 1754805741,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99608,
+      "num": 99608,
+      "word": "王楚钦连续两板反拍神防守",
+      "onboard_time": 1754807182,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 98969,
@@ -1531,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56355,
+      "num": 390554,
+      "word": "加州州长硬刚特朗普政府",
+      "onboard_time": 1754807241,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56225,
       "num": 56225,
       "word": "宋亚轩十分像从前",
@@ -1617,6 +1785,14 @@
       "onboard_time": 1754777775,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36661,
+      "num": 213352,
+      "word": "名创的时团含量过高了",
+      "onboard_time": 1754806100,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 34931,
