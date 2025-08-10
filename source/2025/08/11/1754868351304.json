@@ -1,0 +1,410 @@
+{
+  "runTime": 1754868351304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 603083,
+        "num": 826093,
+        "word": "男子嫌太吵向楼下烧烤店泼不明液体",
+        "onboard_time": 1754851155,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377075,
+        "num": 377075,
+        "word": "全球首个孕育机器人预计一年内面世",
+        "onboard_time": 1754834303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24021,
+        "num": 351356,
+        "word": "来天津感受河海津韵",
+        "onboard_time": 1754831362,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326242,
+        "num": 326242,
+        "word": "男子偷580斤西瓜都吃光",
+        "onboard_time": 1754849356,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243015,
+        "num": 243015,
+        "word": "陶白白前妻称如果为了钱就不会离婚",
+        "onboard_time": 1754848156,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 213630,
+        "num": 213630,
+        "word": "店员回应男子误将660万彩票洗成渣",
+        "onboard_time": 1754843601,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208624,
+        "num": 208624,
+        "word": "婚内强奸案男方姐姐发声",
+        "onboard_time": 1754838083,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170857,
+        "num": 170857,
+        "word": "社保新规对打工人有何影响",
+        "onboard_time": 1754835805,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131997,
+        "num": 131997,
+        "word": "幼童爬到13层阳台外悬空玩引体向上",
+        "onboard_time": 1754843960,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99614,
+        "num": 126135,
+        "word": "向往的生活8",
+        "onboard_time": 1754824342,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577732,
+        "num": 125561,
+        "word": "张本智和取关早田希娜",
+        "onboard_time": 1754867958,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206692,
+        "num": 125298,
+        "word": "张本智和不满王皓握手敷衍",
+        "onboard_time": 1754823501,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124651,
+        "num": 124651,
+        "word": "女子看演出时遭猥亵嫌疑人被刑拘",
+        "onboard_time": 1754829263,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112778,
+        "num": 112778,
+        "word": "妻子嫂子景德镇批发式购物狂买2000元",
+        "onboard_time": 1754827401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109098,
+        "num": 109098,
+        "word": "土耳其6.3级地震",
+        "onboard_time": 1754848156,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97632,
+        "num": 97632,
+        "word": "陈奕迅",
+        "onboard_time": 1754867418,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96089,
+        "num": 96089,
+        "word": "办252桌婚宴后拒付52万当事方发声",
+        "onboard_time": 1754852535,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95856,
+        "num": 95856,
+        "word": "张本智和回应告状",
+        "onboard_time": 1754828783,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87332,
+        "num": 87332,
+        "word": "藏海传韩国首张海报公开",
+        "onboard_time": 1754862314,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82209,
+        "num": 82209,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1754827822,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97531,
+        "num": 81988,
+        "word": "张晋和蔡少芬国外旅行突发心脏病",
+        "onboard_time": 1754810061,
+        "rank": 20,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 92772,
+        "num": 79295,
+        "word": "商家称外卖大战月亏超万元",
+        "onboard_time": 1754867057,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76055,
+        "num": 76055,
+        "word": "百果园 钟薛高",
+        "onboard_time": 1754825003,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69536,
+        "num": 69536,
+        "word": "曝孙亦航恋情",
+        "onboard_time": 1754839103,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68253,
+        "num": 68253,
+        "word": "感到疲惫要主动扔掉这2样东西",
+        "onboard_time": 1754866997,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66688,
+        "num": 66688,
+        "word": "网友票选可以出道的星二代",
+        "onboard_time": 1754826082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62589,
+        "num": 62589,
+        "word": "溺亡女童左腿被回水管吸住",
+        "onboard_time": 1754828783,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62533,
+        "num": 62533,
+        "word": "展轩空降",
+        "onboard_time": 1754840303,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62076,
+        "num": 62076,
+        "word": "吃到腾讯芒果商战红利了",
+        "onboard_time": 1754827281,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60826,
+        "num": 60826,
+        "word": "利剑玫瑰第二季",
+        "onboard_time": 1754837245,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10601,
+        "num": 60308,
+        "word": "巴代表问以色列为何还能安坐联合国",
+        "onboard_time": 1754868139,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60289,
+        "num": 60289,
+        "word": "早餐摄入低碳水全天血糖都稳住",
+        "onboard_time": 1754863934,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57654,
+        "num": 57654,
+        "word": "这不是复制粘贴这是中国军人",
+        "onboard_time": 1754826983,
+        "rank": 32,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 53958,
+        "num": 53958,
+        "word": "26岁男子勒死73岁情人水泥埋尸",
+        "onboard_time": 1754817442,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52087,
+        "num": 52087,
+        "word": "杭州警方通报某演出场所发生猥亵事件",
+        "onboard_time": 1754821761,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 48385,
+        "num": 48385,
+        "word": "蔡徐坤 Jasmine",
+        "onboard_time": 1754834663,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48210,
+        "num": 48210,
+        "word": "WTT横滨冠军赛2025",
+        "onboard_time": 1754854155,
+        "rank": 36,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 45328,
+        "num": 45328,
+        "word": "抗战胜利80周年天安门演练现场",
+        "onboard_time": 1754826322,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36831,
+        "num": 44391,
+        "word": "土耳其6.3级地震1死29伤",
+        "onboard_time": 1754868139,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43986,
+        "num": 43986,
+        "word": "于正说赵露思很好",
+        "onboard_time": 1754834123,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43676,
+        "num": 43676,
+        "word": "2岁男童把疏通剂当玩具双手差点不保",
+        "onboard_time": 1754839164,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42484,
+        "num": 42484,
+        "word": "女子试穿4条裤子留下血渍赔50元",
+        "onboard_time": 1754835024,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42439,
+        "num": 42439,
+        "word": "为什么叫我法拉利",
+        "onboard_time": 1754837663,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41599,
+        "num": 41599,
+        "word": "拉宏桑妈妈怀孕后还吃了打虫药",
+        "onboard_time": 1754837544,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40927,
+        "num": 40927,
+        "word": "虞书欣机场私服好健康的美",
+        "onboard_time": 1754831663,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40540,
+        "num": 40540,
+        "word": "锦月如歌热度",
+        "onboard_time": 1754841143,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39561,
+        "num": 39561,
+        "word": "孙颖莎说今天回去要多吃一点",
+        "onboard_time": 1754851816,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 38803,
+        "num": 38803,
+        "word": "建议多囊还是不要参与外卖大战了",
+        "onboard_time": 1754831123,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36954,
+        "num": 38799,
+        "word": "麦琳直播哭了",
+        "onboard_time": 1754868198,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34411,
+        "num": 38788,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1754838863,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极促进产业高端化智能化绿色化#"
+    }
+  }
+}
