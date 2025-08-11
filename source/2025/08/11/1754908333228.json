@@ -1,0 +1,410 @@
+{
+  "runTime": 1754908333228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2387316,
+        "num": 2387316,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1754905463,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1423075,
+        "num": 1423075,
+        "word": "陈幸同冠军",
+        "onboard_time": 1754905224,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31123,
+        "num": 1078477,
+        "word": "成都世运会点火女孩滑水摘金",
+        "onboard_time": 1754901862,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1008830,
+        "num": 1008830,
+        "word": "孙颖莎亚军",
+        "onboard_time": 1754905282,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 854218,
+        "num": 854218,
+        "word": "从毫无征兆到确诊尿毒症",
+        "onboard_time": 1754900062,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 816706,
+        "num": 816706,
+        "word": "泡泡玛特 周深",
+        "onboard_time": 1754906303,
+        "rank": 5,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 743402,
+        "num": 743402,
+        "word": "菲律宾",
+        "onboard_time": 1754901862,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 697652,
+        "num": 697652,
+        "word": "孙颖莎状态",
+        "onboard_time": 1754905163,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613023,
+        "num": 613023,
+        "word": "汪苏泷张碧晨参加东方风云榜",
+        "onboard_time": 1754900662,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145483,
+        "num": 587153,
+        "word": "女孩遭轿车撞倒碾压后起身站立",
+        "onboard_time": 1754898323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909235,
+        "num": 584003,
+        "word": "生育损伤",
+        "onboard_time": 1754902583,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 804522,
+        "num": 583464,
+        "word": "王栎鑫苏醒吵架",
+        "onboard_time": 1754895322,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580627,
+        "num": 580627,
+        "word": "第一次见粉丝塌房",
+        "onboard_time": 1754893343,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506502,
+        "num": 506502,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424306,
+        "num": 424306,
+        "word": "秦岭失联约半个月的驴友找到了",
+        "onboard_time": 1754899760,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421668,
+        "num": 421668,
+        "word": "花少神一季鬼一季",
+        "onboard_time": 1754899522,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402521,
+        "num": 402521,
+        "word": "中国海警依法对菲船予以驱离",
+        "onboard_time": 1754892082,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331243,
+        "num": 331243,
+        "word": "朴彩英也给Jennie打码了",
+        "onboard_time": 1754894182,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278298,
+        "num": 278298,
+        "word": "披哥导演让许魏洲别既要又要还要",
+        "onboard_time": 1754905644,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225279,
+        "num": 247443,
+        "word": "很哇噻的肖战",
+        "onboard_time": 1754906903,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803608,
+        "num": 240748,
+        "word": "黄金",
+        "onboard_time": 1754896162,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300425,
+        "num": 237920,
+        "word": "37岁发现自己断崖式衰老了",
+        "onboard_time": 1754900721,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233568,
+        "num": 233568,
+        "word": "社保",
+        "onboard_time": 1754896462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229708,
+        "num": 229708,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1754900662,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224288,
+        "num": 224288,
+        "word": "巴勒斯坦的球王贝利被以军炸死",
+        "onboard_time": 1754902343,
+        "rank": 24,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 220008,
+        "num": 220008,
+        "word": "王玉雯 不是故意炒cp的",
+        "onboard_time": 1754897724,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212551,
+        "num": 212551,
+        "word": "黄岩岛",
+        "onboard_time": 1754907503,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204339,
+        "num": 204339,
+        "word": "奇遇值",
+        "onboard_time": 1754907801,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147948,
+        "num": 198132,
+        "word": "赵今麦一天五套造型",
+        "onboard_time": 1754905822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143548,
+        "num": 197654,
+        "word": "苏醒让王铮亮张远打一架",
+        "onboard_time": 1754903362,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197637,
+        "num": 197637,
+        "word": "樊振东晒第一只棒球手套",
+        "onboard_time": 1754907262,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193567,
+        "num": 193567,
+        "word": "陈幸同会请大家吃饭",
+        "onboard_time": 1754907681,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147045,
+        "num": 147045,
+        "word": "日本东京举行反靖国神社游行",
+        "onboard_time": 1754906003,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131712,
+        "num": 131712,
+        "word": "龚俊王玉雯撞睡衣了",
+        "onboard_time": 1754896944,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130657,
+        "num": 130657,
+        "word": "陶白白前妻和现任分手",
+        "onboard_time": 1754889262,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126768,
+        "num": 126768,
+        "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
+        "onboard_time": 1754881881,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122927,
+        "num": 122927,
+        "word": "拿两份工资的退休人",
+        "onboard_time": 1754907922,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120978,
+        "num": 120978,
+        "word": "中国好声音选手朴翔去世",
+        "onboard_time": 1754893701,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119059,
+        "num": 119059,
+        "word": "DeepSeek母公司总监套取券商上亿佣金",
+        "onboard_time": 1754905822,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25353,
+        "num": 113743,
+        "word": "大鱼海棠祝贺浪浪山小妖怪登顶",
+        "onboard_time": 1754908222,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112671,
+        "num": 112671,
+        "word": "陈思诚带儿子为佟丽娅庆生",
+        "onboard_time": 1754892442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112666,
+        "num": 112666,
+        "word": "陈幸同说没想到能够胜利",
+        "onboard_time": 1754906842,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109000,
+        "num": 109000,
+        "word": "田曦薇好会跑",
+        "onboard_time": 1754904862,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108727,
+        "num": 108727,
+        "word": "河南一中学官方账号回复引争议",
+        "onboard_time": 1754904202,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108319,
+        "num": 108319,
+        "word": "苏韦达医院大屠杀",
+        "onboard_time": 1754896043,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106834,
+        "num": 106834,
+        "word": "陈飞宇顶级魅魔",
+        "onboard_time": 1754907743,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103058,
+        "num": 103058,
+        "word": "英伟达同意向美国政府上贡15%收入",
+        "onboard_time": 1754900662,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97387,
+        "num": 97387,
+        "word": "建议少用爆冷这个词",
+        "onboard_time": 1754905644,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95826,
+        "num": 95826,
+        "word": "苏新皓的美貌朱志鑫的荣耀",
+        "onboard_time": 1754901503,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93677,
+        "num": 93677,
+        "word": "百果园的爹味教育谁买账",
+        "onboard_time": 1754903842,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754905745039,
+  "endTime": 1754908333228,
   "band_list": [
     {
       "raw_hot": 2399471,
@@ -8,6 +8,14 @@
       "word": "孙颖莎vs陈幸同",
       "onboard_time": 1754900662,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2387316,
+      "num": 2387316,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1754905463,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -112,6 +120,14 @@
       "word": "张本智和不满王皓握手敷衍",
       "onboard_time": 1754823501,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1423075,
+      "num": 1423075,
+      "word": "陈幸同冠军",
+      "onboard_time": 1754905224,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1008830,
+      "num": 1008830,
+      "word": "孙颖莎亚军",
+      "onboard_time": 1754905282,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 967990,
       "num": 642454,
       "word": "抠抠搜搜8年抠了49万",
@@ -251,12 +275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 919355,
-      "num": 919355,
-      "word": "孙颖莎亚军",
-      "onboard_time": 1754905282,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 909235,
+      "num": 708818,
+      "word": "生育损伤",
+      "onboard_time": 1754902583,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 905737,
@@ -281,6 +305,14 @@
       "onboard_time": 1754901862,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 854218,
+      "num": 854218,
+      "word": "从毫无征兆到确诊尿毒症",
+      "onboard_time": 1754900062,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 844425,
@@ -315,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 816706,
+      "num": 816706,
+      "word": "泡泡玛特 周深",
+      "onboard_time": 1754906303,
+      "rank": 5,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 809526,
       "num": 174184,
       "word": "苏韦达医院大屠杀",
@@ -337,14 +377,6 @@
       "onboard_time": 1754752704,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 799595,
-      "num": 799595,
-      "word": "从毫无征兆到确诊尿毒症",
-      "onboard_time": 1754900062,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 791871,
@@ -475,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 708818,
-      "num": 708818,
-      "word": "生育损伤",
-      "onboard_time": 1754902583,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 697652,
+      "num": 697652,
+      "word": "孙颖莎状态",
+      "onboard_time": 1754905163,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 694779,
@@ -497,14 +529,6 @@
       "onboard_time": 1754881041,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 676877,
-      "num": 809142,
-      "word": "陈幸同冠军",
-      "onboard_time": 1754905224,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 672412,
@@ -1011,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402521,
+      "num": 402521,
+      "word": "中国海警依法对菲船予以驱离",
+      "onboard_time": 1754892082,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 399228,
       "num": 399228,
       "word": "贾哈教练与张本智和热情握手",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1754904503,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366569,
-      "num": 366569,
-      "word": "中国海警依法对菲船予以驱离",
-      "onboard_time": 1754892082,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 365105,
@@ -1339,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299622,
-      "num": 299622,
-      "word": "孙颖莎状态",
-      "onboard_time": 1754905163,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298643,
       "num": 298643,
       "word": "子夜归",
@@ -1456,6 +1472,14 @@
       "word": "马思纯在花少乖成这样了",
       "onboard_time": 1754800160,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 278298,
+      "num": 278298,
+      "word": "披哥导演让许魏洲别既要又要还要",
+      "onboard_time": 1754905644,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1691,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225279,
+      "num": 247443,
+      "word": "很哇噻的肖战",
+      "onboard_time": 1754906903,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224733,
       "num": 224733,
       "word": "苏醒让王铮亮张远打一架",
@@ -1795,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212551,
+      "num": 212551,
+      "word": "黄岩岛",
+      "onboard_time": 1754907503,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211701,
       "num": 242773,
       "word": "美国允许普京入境是比较大的让步",
@@ -1856,6 +1896,14 @@
       "word": "有一对不爱干净的父母是什么体验",
       "onboard_time": 1754793260,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204339,
+      "num": 204339,
+      "word": "奇遇值",
+      "onboard_time": 1754907801,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -2051,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197637,
+      "num": 197637,
+      "word": "樊振东晒第一只棒球手套",
+      "onboard_time": 1754907262,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197100,
       "num": 122548,
       "word": "WTT横滨冠军赛今日收官",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1754755282,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193567,
+      "num": 193567,
+      "word": "陈幸同会请大家吃饭",
+      "onboard_time": 1754907681,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 192960,
@@ -2675,14 +2739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163548,
-      "num": 163548,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1754905463,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162916,
       "num": 162916,
       "word": "百果园去年净利润亏3亿",
@@ -3067,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147948,
+      "num": 198132,
+      "word": "赵今麦一天五套造型",
+      "onboard_time": 1754905822,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147894,
       "num": 147894,
       "word": "孟子义收手吧外面全是歌谜",
@@ -3089,6 +3153,14 @@
       "onboard_time": 1754879000,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147045,
+      "num": 147045,
+      "word": "日本东京举行反靖国神社游行",
+      "onboard_time": 1754906003,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146883,
@@ -3121,6 +3193,14 @@
       "onboard_time": 1754827401,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145483,
+      "num": 587153,
+      "word": "女孩遭轿车撞倒碾压后起身站立",
+      "onboard_time": 1754898323,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145352,
@@ -3345,14 +3425,6 @@
       "onboard_time": 1754895083,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138554,
-      "num": 138554,
-      "word": "披哥导演让许魏洲别既要又要还要",
-      "onboard_time": 1754905644,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 138436,
@@ -3899,6 +3971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122927,
+      "num": 122927,
+      "word": "拿两份工资的退休人",
+      "onboard_time": 1754907922,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122407,
       "num": 122407,
       "word": "BLG战胜WE",
@@ -4009,6 +4089,14 @@
       "onboard_time": 1754799860,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119059,
+      "num": 119059,
+      "word": "DeepSeek母公司总监套取券商上亿佣金",
+      "onboard_time": 1754905822,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 119035,
@@ -4329,6 +4417,14 @@
       "onboard_time": 1754878340,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112666,
+      "num": 112666,
+      "word": "陈幸同说没想到能够胜利",
+      "onboard_time": 1754906842,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112563,
@@ -4659,6 +4755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 106834,
+      "num": 106834,
+      "word": "陈飞宇顶级魅魔",
+      "onboard_time": 1754907743,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106740,
       "num": 106740,
       "word": "鹿晗编了小辫子",
@@ -4809,14 +4913,6 @@
       "onboard_time": 1754789181,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 102391,
-      "num": 102391,
-      "word": "女孩遭轿车撞倒碾压后起身站立",
-      "onboard_time": 1754898323,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102224,
@@ -5812,7 +5908,7 @@
     },
     {
       "raw_hot": 39228,
-      "num": 1049127,
+      "num": 1078477,
       "word": "成都世运会点火女孩滑水摘金",
       "onboard_time": 1754901862,
       "rank": 2,
@@ -6041,6 +6137,14 @@
       "onboard_time": 1754831362,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25353,
+      "num": 113743,
+      "word": "大鱼海棠祝贺浪浪山小妖怪登顶",
+      "onboard_time": 1754908222,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 25320,
