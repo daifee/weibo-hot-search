@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754944097083,
+  "endTime": 1754944982811,
   "band_list": [
     {
       "raw_hot": 1158017,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105301,
+      "num": 105301,
+      "word": "女孩被男友骗至缅甸妙瓦底母亲发声",
+      "onboard_time": 1754941214,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104182,
       "num": 104182,
       "word": "孙燕姿粉丝cos孙燕姿",
@@ -336,14 +344,6 @@
       "word": "公司回应董事长仅17岁",
       "onboard_time": 1754919083,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90253,
-      "num": 90253,
-      "word": "女孩被男友骗至缅甸妙瓦底母亲发声",
-      "onboard_time": 1754941214,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -523,15 +523,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10024,
-      "num": 19883,
+      "raw_hot": 11780,
+      "num": 25412,
       "word": "姑娘离开电子厂回村有了自己事业",
       "onboard_time": 1754943914,
       "rank": 38,
       "category": "正能量"
     },
     {
-      "raw_hot": 9634,
+      "raw_hot": 10455,
       "num": 33214,
       "word": "活力中国调研行",
       "onboard_time": 1754943194,
