@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754927115369,
+  "endTime": 1754930181881,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -451,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 804053,
+      "num": 804053,
+      "word": "特朗普宣布首都进入紧急状态",
+      "onboard_time": 1754925564,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 804040,
       "num": 804040,
       "word": "赵露思手机号被泄漏",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602586,
+      "num": 602586,
+      "word": "台7岁女童火化前舌头咽喉不见了",
+      "onboard_time": 1754926522,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599187,
       "num": 286971,
       "word": "唐香玉 是卫生巾又怎样",
@@ -899,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 510716,
+      "num": 405311,
+      "word": "很体面但工资不高的工作",
+      "onboard_time": 1754924245,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 508897,
       "num": 525219,
       "word": "菲方不要挑战中方的坚定决心",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1754837245,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471664,
-      "num": 521556,
-      "word": "特朗普宣布首都进入紧急状态",
-      "onboard_time": 1754925564,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 470369,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1754751205,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 405311,
-      "num": 405311,
-      "word": "很体面但工资不高的工作",
-      "onboard_time": 1754924245,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 403177,
@@ -1729,6 +1737,14 @@
       "onboard_time": 1754783058,
       "rank": 20,
       "category": "时尚,财经"
+    },
+    {
+      "raw_hot": 285263,
+      "num": 285263,
+      "word": "张本智和称应重新审视暂停规则",
+      "onboard_time": 1754928321,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 284047,
@@ -2451,6 +2467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200932,
+      "num": 200932,
+      "word": "网红万洁曝育儿嫂凌晨粗暴翻身婴儿",
+      "onboard_time": 1754929461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200316,
       "num": 200316,
       "word": "燥候尚公主",
@@ -2745,6 +2769,14 @@
       "onboard_time": 1754822122,
       "rank": 47,
       "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 188725,
+      "num": 188725,
+      "word": "美军方拟向华盛顿特区派遣国民警卫队",
+      "onboard_time": 1754927062,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188544,
@@ -3091,6 +3123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 171109,
+      "num": 290937,
+      "word": "特朗普或派兵出国扫毒",
+      "onboard_time": 1754927002,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170957,
       "num": 170957,
       "word": "陈哲远这次是真老公",
@@ -3379,14 +3419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160775,
-      "num": 160775,
-      "word": "美军方拟向华盛顿特区派遣国民警卫队",
-      "onboard_time": 1754927062,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 160770,
       "num": 160770,
       "word": "67岁阿姨国外骑行遇骚扰剃光头发",
@@ -3409,6 +3441,14 @@
       "onboard_time": 1754830462,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159589,
+      "num": 188743,
+      "word": "Uzi微博上线了",
+      "onboard_time": 1754929042,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 159546,
@@ -3665,14 +3705,6 @@
       "onboard_time": 1754829081,
       "rank": 29,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 151777,
-      "num": 151777,
-      "word": "台7岁女童火化前舌头咽喉不见了",
-      "onboard_time": 1754926522,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151710,
@@ -4787,14 +4819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123675,
-      "num": 123675,
-      "word": "特朗普或派兵出国扫毒",
-      "onboard_time": 1754927002,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123507,
       "num": 123507,
       "word": "贵州一民宿房间内装了2个摄像头",
@@ -5505,6 +5529,14 @@
       "onboard_time": 1754904562,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109818,
+      "num": 242357,
+      "word": "外卖大战商家一算月亏1万谁赢了",
+      "onboard_time": 1754925682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109816,
@@ -6227,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88430,
+      "num": 88430,
+      "word": "孙燕姿粉丝cos孙燕姿",
+      "onboard_time": 1754929701,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88258,
       "num": 88258,
       "word": "十个勤天演唱会",
@@ -6273,6 +6313,14 @@
       "onboard_time": 1754737161,
       "rank": 43,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 87017,
+      "num": 87017,
+      "word": "回顾孙颖莎闭幕式代表亚洲登场",
+      "onboard_time": 1754929221,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 85868,
@@ -6395,12 +6443,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81664,
-      "num": 242357,
-      "word": "外卖大战商家一算月亏1万谁赢了",
-      "onboard_time": 1754925682,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 81547,
+      "num": 81547,
+      "word": "Doinb谈LPL下路现状",
+      "onboard_time": 1754927123,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 81019,
