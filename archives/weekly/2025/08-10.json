@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754886568039,
+  "endTime": 1754888569738,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -8,6 +8,14 @@
       "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
       "onboard_time": 1754881881,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1883883,
+      "num": 369990,
+      "word": "鹿晗关晓彤同款挂件",
+      "onboard_time": 1754885962,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -219,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 816058,
-      "num": 343589,
-      "word": "鹿晗关晓彤同款挂件",
-      "onboard_time": 1754885962,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 804734,
       "num": 804734,
       "word": "真的建议朋友圈一定要趁早发",
@@ -273,6 +273,14 @@
       "onboard_time": 1754801061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 732500,
+      "num": 360344,
+      "word": "当一个人朋友圈不再更新",
+      "onboard_time": 1754884522,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 730076,
@@ -329,6 +337,14 @@
       "onboard_time": 1754883862,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 665630,
+      "num": 665630,
+      "word": "撒贝宁保送北大的真实原因",
+      "onboard_time": 1754886323,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 662282,
@@ -401,14 +417,6 @@
       "onboard_time": 1754826322,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 604315,
-      "num": 335430,
-      "word": "当一个人朋友圈不再更新",
-      "onboard_time": 1754884522,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 599187,
@@ -723,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418726,
+      "num": 418726,
+      "word": "女子为避雨进彩票店顺手刮中100万",
+      "onboard_time": 1754886863,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417182,
       "num": 417182,
       "word": "墨镜大爷救人后又被一群人救了",
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359423,
+      "num": 359423,
+      "word": "4次断骨打开180度折叠男孩近况",
+      "onboard_time": 1754883381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359350,
       "num": 359350,
       "word": "中国留学生在澳遭围殴抢救超30小时",
@@ -907,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341366,
+      "num": 283465,
+      "word": "睡姿 焦虑",
+      "onboard_time": 1754885123,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 340502,
       "num": 340502,
       "word": "那英真回答了你又不乐意",
@@ -937,14 +969,6 @@
       "onboard_time": 1754789120,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322659,
-      "num": 322659,
-      "word": "4次断骨打开180度折叠男孩近况",
-      "onboard_time": 1754883381,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322073,
@@ -1123,14 +1147,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 283465,
-      "num": 283465,
-      "word": "睡姿 焦虑",
-      "onboard_time": 1754885123,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 282405,
       "num": 282405,
       "word": "韩国小伙来中国旅行被印度人破防",
@@ -1147,12 +1163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278293,
+      "num": 278293,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1754888243,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271391,
       "num": 271391,
       "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
       "onboard_time": 1754809822,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271225,
+      "num": 271225,
+      "word": "贾哈教练与张本智和热情握手",
+      "onboard_time": 1754887883,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 270678,
@@ -1355,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226276,
+      "num": 226276,
+      "word": "蒋欣像冷宫疯掉的妃子",
+      "onboard_time": 1754887643,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223227,
       "num": 267412,
       "word": "张本智和希望获得多一点尊重",
@@ -1363,12 +1403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222050,
+      "num": 222050,
+      "word": "盛世天下定档9月",
+      "onboard_time": 1754887825,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219802,
       "num": 219802,
       "word": "迪丽热巴演技大赏",
       "onboard_time": 1754885664,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218829,
+      "num": 218829,
+      "word": "王楚钦男单半决赛登场",
+      "onboard_time": 1754888243,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 218659,
@@ -1443,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207692,
+      "num": 207692,
+      "word": "日本扇耳光餐厅",
+      "onboard_time": 1754885602,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 207269,
       "num": 207269,
       "word": "杨博文跳Rudeboy",
@@ -1451,20 +1515,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 207123,
-      "num": 207123,
-      "word": "撒贝宁保送北大的真实原因",
-      "onboard_time": 1754886323,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206722,
       "num": 153982,
       "word": "有一对不爱干净的父母是什么体验",
       "onboard_time": 1754793260,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204296,
+      "num": 213471,
+      "word": "陈幸同4比1王艺迪",
+      "onboard_time": 1754887944,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 203842,
@@ -1499,8 +1563,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202114,
-      "num": 202114,
+      "raw_hot": 202209,
+      "num": 202209,
       "word": "王楚钦孙颖莎领衔冲冠",
       "onboard_time": 1754886024,
       "rank": 34,
@@ -1625,6 +1689,14 @@
       "onboard_time": 1754878760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197040,
+      "num": 197040,
+      "word": "鹿角 以后我会擦亮眼睛",
+      "onboard_time": 1754886564,
+      "rank": 36,
+      "category": "网红,网红"
     },
     {
       "raw_hot": 196391,
@@ -1907,14 +1979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175553,
-      "num": 175553,
-      "word": "日本扇耳光餐厅",
-      "onboard_time": 1754885602,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 175440,
       "num": 161885,
       "word": "让黄子韬起立握手的男人出现了",
@@ -2059,6 +2123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165065,
+      "num": 216911,
+      "word": "心动的信号8",
+      "onboard_time": 1754886923,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164607,
       "num": 181882,
       "word": "百果园董事长 教育消费者成熟",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1754879300,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162113,
+      "num": 162113,
+      "word": "巴勒斯坦男子拍下自己被枪杀瞬间",
+      "onboard_time": 1754887284,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161905,
@@ -2275,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154107,
+      "num": 154107,
+      "word": "A股",
+      "onboard_time": 1754887583,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154049,
       "num": 154049,
       "word": "逆水寒",
@@ -2305,6 +2393,14 @@
       "onboard_time": 1754829743,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152294,
+      "num": 204852,
+      "word": "魏大勋智性恋天菜",
+      "onboard_time": 1754886444,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 152170,
@@ -2353,6 +2449,14 @@
       "onboard_time": 1754836523,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149480,
+      "num": 149480,
+      "word": "黄金把瑞士坑惨了",
+      "onboard_time": 1754887944,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149324,
@@ -2427,14 +2531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145390,
-      "num": 145390,
-      "word": "魏大勋智性恋天菜",
-      "onboard_time": 1754886444,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145352,
       "num": 145352,
       "word": "李晟让小说里的清冷女主有脸了",
@@ -2457,6 +2553,14 @@
       "onboard_time": 1754744422,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144799,
+      "num": 144799,
+      "word": "比特币涨破120000美元",
+      "onboard_time": 1754888183,
+      "rank": 41,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 144439,
@@ -2883,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130262,
+      "num": 130262,
+      "word": "事业单位面试邪修大佬在民间",
+      "onboard_time": 1754887403,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130077,
       "num": 130077,
       "word": "白举纲抱住陈楚生就不撒手",
@@ -2924,7 +3036,7 @@
     },
     {
       "raw_hot": 128117,
-      "num": 128117,
+      "num": 215233,
       "word": "湖北暴雨大暴雨特大暴雨来了",
       "onboard_time": 1754883923,
       "rank": 47,
@@ -2985,6 +3097,14 @@
       "onboard_time": 1754820863,
       "rank": 37,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 126523,
+      "num": 126523,
+      "word": "于正说公司小艺人受欺负了",
+      "onboard_time": 1754887583,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 126084,
@@ -3121,6 +3241,14 @@
       "onboard_time": 1754832622,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 119819,
+      "num": 119819,
+      "word": "谁来给王赫野科普一下签售会",
+      "onboard_time": 1754888302,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 119570,
@@ -3875,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100724,
+      "num": 215099,
+      "word": "研究发现果汁比碳酸饮料更毁牙",
+      "onboard_time": 1754887403,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 99834,
       "num": 99834,
       "word": "韩红哭成泪人",
@@ -4380,7 +4516,7 @@
     },
     {
       "raw_hot": 72341,
-      "num": 337146,
+      "num": 683405,
       "word": "高温台风强降雨又将凑齐",
       "onboard_time": 1754839164,
       "rank": 9,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754888569738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 931655,
+        "num": 1149064,
+        "word": "4岁男孩从22楼窗台坠落",
+        "onboard_time": 1754882661,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707558,
+        "num": 707558,
+        "word": "日本麦当劳乱象",
+        "onboard_time": 1754874381,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5142,
+        "num": 683405,
+        "word": "高温台风强降雨又将凑齐",
+        "onboard_time": 1754839164,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665630,
+        "num": 665630,
+        "word": "撒贝宁保送北大的真实原因",
+        "onboard_time": 1754886323,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596212,
+        "num": 596212,
+        "word": "深圳回应非婚生育不能领育儿补贴",
+        "onboard_time": 1754883862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512351,
+        "num": 512351,
+        "word": "张本智和 谁教你的庆祝动作",
+        "onboard_time": 1754884704,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418726,
+        "num": 418726,
+        "word": "女子为避雨进彩票店顺手刮中100万",
+        "onboard_time": 1754886863,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13258,
+        "num": 385765,
+        "word": "来天津感受河海津韵",
+        "onboard_time": 1754831362,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376616,
+        "num": 376616,
+        "word": "女子单手骑车摔倒数米外车主担次责",
+        "onboard_time": 1754881041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321649,
+        "num": 374716,
+        "word": "邢菲说杨幂帮她走出原生家庭困境",
+        "onboard_time": 1754885362,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1883883,
+        "num": 369990,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1192921,
+        "num": 364162,
+        "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
+        "onboard_time": 1754881881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732500,
+        "num": 360344,
+        "word": "当一个人朋友圈不再更新",
+        "onboard_time": 1754884522,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359423,
+        "num": 359423,
+        "word": "4次断骨打开180度折叠男孩近况",
+        "onboard_time": 1754883381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322365,
+        "num": 322365,
+        "word": "上海医保",
+        "onboard_time": 1754883204,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278293,
+        "num": 278293,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1754888243,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271225,
+        "num": 271225,
+        "word": "贾哈教练与张本智和热情握手",
+        "onboard_time": 1754887883,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258893,
+        "num": 258893,
+        "word": "麦琳称录完再见爱人过得不好",
+        "onboard_time": 1754871441,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226276,
+        "num": 226276,
+        "word": "蒋欣像冷宫疯掉的妃子",
+        "onboard_time": 1754887643,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224514,
+        "num": 224514,
+        "word": "赵今麦领衔主演无可替代",
+        "onboard_time": 1754880023,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351589,
+        "num": 223894,
+        "word": "生理性厌恶的7个躯体信号",
+        "onboard_time": 1754883923,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240523,
+        "num": 223859,
+        "word": "周华健肚子",
+        "onboard_time": 1754882242,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341366,
+        "num": 223433,
+        "word": "睡姿 焦虑",
+        "onboard_time": 1754885123,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222050,
+        "num": 222050,
+        "word": "盛世天下定档9月",
+        "onboard_time": 1754887825,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218829,
+        "num": 218829,
+        "word": "王楚钦男单半决赛登场",
+        "onboard_time": 1754888243,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76538,
+        "num": 218047,
+        "word": "CPB檀健次",
+        "onboard_time": 1754883862,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171969,
+        "num": 217042,
+        "word": "迪丽热巴 VOGUE金九",
+        "onboard_time": 1754869459,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 165065,
+        "num": 216911,
+        "word": "心动的信号8",
+        "onboard_time": 1754886923,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117478,
+        "num": 215233,
+        "word": "湖北暴雨大暴雨特大暴雨来了",
+        "onboard_time": 1754883923,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100724,
+        "num": 215099,
+        "word": "研究发现果汁比碳酸饮料更毁牙",
+        "onboard_time": 1754887403,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 204296,
+        "num": 213471,
+        "word": "陈幸同4比1王艺迪",
+        "onboard_time": 1754887944,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66607,
+        "num": 212527,
+        "word": "王一博正式确诊为赛博红牛",
+        "onboard_time": 1754883923,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212342,
+        "num": 212342,
+        "word": "虞书欣这个比例绝了",
+        "onboard_time": 1754878340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207692,
+        "num": 207692,
+        "word": "日本扇耳光餐厅",
+        "onboard_time": 1754885602,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152294,
+        "num": 204852,
+        "word": "魏大勋智性恋天菜",
+        "onboard_time": 1754886444,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "王楚钦孙颖莎领衔冲冠",
+        "onboard_time": 1754886024,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197040,
+        "num": 197040,
+        "word": "鹿角 以后我会擦亮眼睛",
+        "onboard_time": 1754886564,
+        "rank": 36,
+        "category": "网红,网红"
+      },
+      {
+        "raw_hot": 167032,
+        "num": 167032,
+        "word": "车主回应女子5米外摔倒自己负次责",
+        "onboard_time": 1754883984,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162113,
+        "num": 162113,
+        "word": "巴勒斯坦男子拍下自己被枪杀瞬间",
+        "onboard_time": 1754887284,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154107,
+        "num": 154107,
+        "word": "A股",
+        "onboard_time": 1754887583,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149480,
+        "num": 149480,
+        "word": "黄金把瑞士坑惨了",
+        "onboard_time": 1754887944,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144799,
+        "num": 144799,
+        "word": "比特币涨破120000美元",
+        "onboard_time": 1754888183,
+        "rank": 41,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 134648,
+        "word": "献鱼定档",
+        "onboard_time": 1754882422,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133433,
+        "num": 133433,
+        "word": "老外说火锅界的丑东西越涮越上头",
+        "onboard_time": 1754885362,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130758,
+        "num": 130758,
+        "word": "年轻人听不得招财两个字",
+        "onboard_time": 1754885483,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130262,
+        "num": 130262,
+        "word": "事业单位面试邪修大佬在民间",
+        "onboard_time": 1754887403,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126523,
+        "num": 126523,
+        "word": "于正说公司小艺人受欺负了",
+        "onboard_time": 1754887583,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125064,
+        "num": 125064,
+        "word": "苏醒被胡夏迷的不知天地为何物了",
+        "onboard_time": 1754885063,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123610,
+        "num": 123610,
+        "word": "最希望李承铉被披哥淘汰的人是Lucky",
+        "onboard_time": 1754884942,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119819,
+        "num": 119819,
+        "word": "谁来给王赫野科普一下签售会",
+        "onboard_time": 1754888302,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化人以文兴业#"
+    }
+  }
+}
