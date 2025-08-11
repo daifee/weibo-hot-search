@@ -1,0 +1,410 @@
+{
+  "runTime": 1754901549036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 828899,
+        "num": 1132623,
+        "word": "黄金",
+        "onboard_time": 1754896162,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 664478,
+        "num": 664478,
+        "word": "王玉雯 不是故意炒cp的",
+        "onboard_time": 1754897724,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8054,
+        "num": 476143,
+        "word": "抗战胜利80周年天安门演练现场",
+        "onboard_time": 1754826322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1292951,
+        "num": 444908,
+        "word": "王栎鑫苏醒吵架",
+        "onboard_time": 1754895322,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1202632,
+        "num": 432866,
+        "word": "社保",
+        "onboard_time": 1754896462,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401691,
+        "num": 401691,
+        "word": "秦岭失联约半个月的驴友找到了",
+        "onboard_time": 1754899760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614899,
+        "num": 397868,
+        "word": "花少神一季鬼一季",
+        "onboard_time": 1754899522,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556939,
+        "num": 383417,
+        "word": "朴彩英也给Jennie打码了",
+        "onboard_time": 1754894182,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344990,
+        "num": 344990,
+        "word": "非婚生子女 育儿补贴",
+        "onboard_time": 1754889863,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49945,
+        "num": 344715,
+        "word": "未牵绳大狗扑向1岁宝宝",
+        "onboard_time": 1754891722,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 838272,
+        "num": 344477,
+        "word": "第一次见粉丝塌房",
+        "onboard_time": 1754893343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549946,
+        "num": 344126,
+        "word": "龚俊王玉雯撞睡衣了",
+        "onboard_time": 1754896944,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660254,
+        "num": 343539,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489109,
+        "num": 343201,
+        "word": "广西一女生考入清华被奖励100万元",
+        "onboard_time": 1754894782,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 432718,
+        "num": 342729,
+        "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
+        "onboard_time": 1754881881,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422026,
+        "num": 342270,
+        "word": "汪苏泷张碧晨参加东方风云榜",
+        "onboard_time": 1754900662,
+        "rank": 15,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 342245,
+        "num": 342245,
+        "word": "中国好声音选手朴翔去世",
+        "onboard_time": 1754893701,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283622,
+        "num": 283622,
+        "word": "女子为避雨进彩票店顺手刮中100万",
+        "onboard_time": 1754886863,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270595,
+        "num": 270595,
+        "word": "苏醒回应和王栎鑫吵架",
+        "onboard_time": 1754900062,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53580,
+        "num": 258501,
+        "word": "全民社保要来了吗",
+        "onboard_time": 1754900242,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 256703,
+        "num": 256703,
+        "word": "怪不得医生会反复套话",
+        "onboard_time": 1754892562,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255669,
+        "num": 255669,
+        "word": "从毫无征兆到确诊尿毒症",
+        "onboard_time": 1754900062,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249704,
+        "num": 249704,
+        "word": "陶白白前妻和现任分手",
+        "onboard_time": 1754889262,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 220416,
+        "num": 220416,
+        "word": "陈思诚带儿子为佟丽娅庆生",
+        "onboard_time": 1754892442,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217160,
+        "num": 217160,
+        "word": "英伟达同意向美国政府上贡15%收入",
+        "onboard_time": 1754900662,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202752,
+        "num": 202752,
+        "word": "女子为逃刑罚4年掐点怀孕连生3子",
+        "onboard_time": 1754898203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201663,
+        "num": 201663,
+        "word": "浪浪山小妖怪票房超5亿",
+        "onboard_time": 1754898203,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51066,
+        "num": 191317,
+        "word": "王楚钦张本智和今晚争冠",
+        "onboard_time": 1754900903,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182168,
+        "num": 191026,
+        "word": "献鱼把原著抠下来拍了",
+        "onboard_time": 1754900363,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55138,
+        "num": 190989,
+        "word": "超5万元现金存取或无需登记",
+        "onboard_time": 1754900184,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190972,
+        "num": 190972,
+        "word": "37岁发现自己断崖式衰老了",
+        "onboard_time": 1754900721,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185271,
+        "num": 185271,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1754900662,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174184,
+        "num": 174184,
+        "word": "苏韦达医院大屠杀",
+        "onboard_time": 1754896043,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169431,
+        "num": 169431,
+        "word": "讨厌上班的请反复看",
+        "onboard_time": 1754899283,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164202,
+        "num": 164202,
+        "word": "谢娜一家是现实版小巷人家吧",
+        "onboard_time": 1754897843,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158529,
+        "num": 158529,
+        "word": "十万彩礼做女友造谣者凑不齐执行款",
+        "onboard_time": 1754897002,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154900,
+        "num": 154900,
+        "word": "外卖员取餐摸脸前台姑娘",
+        "onboard_time": 1754897422,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150534,
+        "num": 150534,
+        "word": "苏新皓的美貌朱志鑫的荣耀",
+        "onboard_time": 1754901503,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14718,
+        "num": 148287,
+        "word": "偶遇王嘉尔骑车遛弯",
+        "onboard_time": 1754900783,
+        "rank": 38,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 66091,
+        "num": 147930,
+        "word": "利剑玫瑰豆瓣评论存在异常",
+        "onboard_time": 1754897961,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147584,
+        "num": 147584,
+        "word": "澳大利亚宣布将承认巴勒斯坦国",
+        "onboard_time": 1754899522,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134129,
+        "num": 134129,
+        "word": "婚内强奸案女方索赔30万元",
+        "onboard_time": 1754896944,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128709,
+        "num": 128709,
+        "word": "百果园小心被消费者教育",
+        "onboard_time": 1754894482,
+        "rank": 42,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 128448,
+        "num": 128448,
+        "word": "问界M8纯电版静态评测",
+        "onboard_time": 1754900842,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120447,
+        "num": 120447,
+        "word": "章凝成为VOGUE US主编",
+        "onboard_time": 1754894723,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 116442,
+        "num": 116442,
+        "word": "原来焦虑抑郁的人承受力这么强",
+        "onboard_time": 1754896822,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116291,
+        "num": 116291,
+        "word": "生理性厌恶的7个躯体信号",
+        "onboard_time": 1754883923,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114846,
+        "num": 114846,
+        "word": "SSR级别的简历",
+        "onboard_time": 1754898742,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112176,
+        "num": 112176,
+        "word": "王楚然往台上一站就是角儿",
+        "onboard_time": 1754900062,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111800,
+        "num": 111800,
+        "word": "没有欧阳娣娣接不住的话",
+        "onboard_time": 1754901322,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754898390258,
+  "endTime": 1754901549036,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1342165,
-      "num": 276303,
+      "num": 344477,
       "word": "第一次见粉丝塌房",
       "onboard_time": 1754893343,
       "rank": 15,
@@ -56,6 +56,14 @@
       "word": "4岁男孩从22楼窗台坠落",
       "onboard_time": 1754882661,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1202632,
+      "num": 432866,
+      "word": "社保",
+      "onboard_time": 1754896462,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 828899,
+      "num": 1132623,
+      "word": "黄金",
+      "onboard_time": 1754896162,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 814259,
       "num": 888632,
       "word": "全球首个孕育机器人预计一年内面世",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 809526,
-      "num": 173889,
+      "num": 174184,
       "word": "苏韦达医院大屠杀",
       "onboard_time": 1754896043,
       "rank": 32,
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664478,
+      "num": 664478,
+      "word": "王玉雯 不是故意炒cp的",
+      "onboard_time": 1754897724,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 662409,
       "num": 1105889,
       "word": "女子为避雨进彩票店顺手刮中100万",
@@ -195,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 631247,
-      "num": 1100999,
-      "word": "黄金",
-      "onboard_time": 1754896162,
-      "rank": 5,
-      "category": "财经"
+      "raw_hot": 614899,
+      "num": 397868,
+      "word": "花少神一季鬼一季",
+      "onboard_time": 1754899522,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 581467,
@@ -219,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 549946,
+      "num": 414377,
+      "word": "龚俊王玉雯撞睡衣了",
+      "onboard_time": 1754896944,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548264,
       "num": 548264,
       "word": "张本智和 谁教你的庆祝动作",
@@ -233,6 +265,14 @@
       "onboard_time": 1754875700,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 489109,
+      "num": 404602,
+      "word": "广西一女生考入清华被奖励100万元",
+      "onboard_time": 1754894782,
+      "rank": 32,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 481523,
@@ -307,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422026,
+      "num": 342270,
+      "word": "汪苏泷张碧晨参加东方风云榜",
+      "onboard_time": 1754900662,
+      "rank": 15,
+      "category": "音乐,演出"
+    },
+    {
       "raw_hot": 421818,
       "num": 269420,
       "word": "生理性厌恶的7个躯体信号",
@@ -321,14 +369,6 @@
       "onboard_time": 1754874920,
       "rank": 4,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 414377,
-      "num": 414377,
-      "word": "龚俊王玉雯撞睡衣了",
-      "onboard_time": 1754896944,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 414230,
@@ -347,12 +387,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 404602,
-      "num": 404602,
-      "word": "广西一女生考入清华被奖励100万元",
-      "onboard_time": 1754894782,
-      "rank": 32,
-      "category": "民生新闻,教育"
+      "raw_hot": 401691,
+      "num": 401691,
+      "word": "秦岭失联约半个月的驴友找到了",
+      "onboard_time": 1754899760,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399228,
@@ -539,6 +579,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 270595,
+      "num": 270595,
+      "word": "苏醒回应和王栎鑫吵架",
+      "onboard_time": 1754900062,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269063,
       "num": 269063,
       "word": "陶白白前妻称如果为了钱就不会离婚",
@@ -553,6 +601,14 @@
       "onboard_time": 1754885362,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255669,
+      "num": 255669,
+      "word": "从毫无征兆到确诊尿毒症",
+      "onboard_time": 1754900062,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 251182,
@@ -643,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217160,
+      "num": 217160,
+      "word": "英伟达同意向美国政府上贡15%收入",
+      "onboard_time": 1754900662,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216474,
       "num": 216474,
       "word": "年轻人听不得招财两个字",
@@ -721,6 +785,22 @@
       "onboard_time": 1754897843,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202752,
+      "num": 202752,
+      "word": "女子为逃刑罚4年掐点怀孕连生3子",
+      "onboard_time": 1754898203,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "浪浪山小妖怪票房超5亿",
+      "onboard_time": 1754898203,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 201643,
@@ -803,14 +883,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192554,
-      "num": 192554,
-      "word": "社保",
-      "onboard_time": 1754896462,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192527,
       "num": 192527,
       "word": "KPL年度总决赛鸟巢表演嘉宾",
@@ -835,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190972,
+      "num": 190972,
+      "word": "37岁发现自己断崖式衰老了",
+      "onboard_time": 1754900721,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190354,
       "num": 195750,
       "word": "卖个水果何德何能搞义务教育",
@@ -848,6 +928,14 @@
       "word": "王楚钦说等一下让我说完",
       "onboard_time": 1754892502,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185271,
+      "num": 185271,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1754900662,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -865,6 +953,14 @@
       "onboard_time": 1754891543,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182168,
+      "num": 191026,
+      "word": "献鱼把原著抠下来拍了",
+      "onboard_time": 1754900363,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181956,
@@ -931,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169431,
+      "num": 169431,
+      "word": "讨厌上班的请反复看",
+      "onboard_time": 1754899283,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168276,
       "num": 168276,
       "word": "子夜归献鱼同期开播",
@@ -945,14 +1049,6 @@
       "onboard_time": 1754884401,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166496,
-      "num": 166496,
-      "word": "王玉雯 不是故意炒cp的",
-      "onboard_time": 1754897724,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 166492,
@@ -1043,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158529,
+      "num": 158529,
+      "word": "十万彩礼做女友造谣者凑不齐执行款",
+      "onboard_time": 1754897002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158254,
       "num": 178690,
       "word": "中国海警依法对菲船予以驱离",
@@ -1067,6 +1171,14 @@
       "category": "综艺,健康医疗"
     },
     {
+      "raw_hot": 154900,
+      "num": 154900,
+      "word": "外卖员取餐摸脸前台姑娘",
+      "onboard_time": 1754897422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154107,
       "num": 154107,
       "word": "A股",
@@ -1089,6 +1201,14 @@
       "onboard_time": 1754879541,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150534,
+      "num": 150534,
+      "word": "苏新皓的美貌朱志鑫的荣耀",
+      "onboard_time": 1754901503,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149480,
@@ -1121,6 +1241,14 @@
       "onboard_time": 1754870900,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147584,
+      "num": 147584,
+      "word": "澳大利亚宣布将承认巴勒斯坦国",
+      "onboard_time": 1754899522,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147317,
@@ -1235,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134129,
+      "num": 134129,
+      "word": "婚内强奸案女方索赔30万元",
+      "onboard_time": 1754896944,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131997,
       "num": 131997,
       "word": "幼童爬到13层阳台外悬空玩引体向上",
@@ -1265,6 +1401,14 @@
       "onboard_time": 1754872280,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128448,
+      "num": 128448,
+      "word": "问界M8纯电版静态评测",
+      "onboard_time": 1754900842,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 128117,
@@ -1355,20 +1499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115436,
-      "num": 115436,
-      "word": "外卖员取餐摸脸前台姑娘",
-      "onboard_time": 1754897422,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114932,
       "num": 114932,
       "word": "刘诗诗爱丽儿公主",
       "onboard_time": 1754876480,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114846,
+      "num": 114846,
+      "word": "SSR级别的简历",
+      "onboard_time": 1754898742,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 114679,
@@ -1419,12 +1563,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111401,
-      "num": 130369,
-      "word": "婚内强奸案女方索赔30万元",
-      "onboard_time": 1754896944,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 112176,
+      "num": 112176,
+      "word": "王楚然往台上一站就是角儿",
+      "onboard_time": 1754900062,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111800,
+      "num": 111800,
+      "word": "没有欧阳娣娣接不住的话",
+      "onboard_time": 1754901322,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110054,
@@ -1436,7 +1588,7 @@
     },
     {
       "raw_hot": 109350,
-      "num": 109350,
+      "num": 344715,
       "word": "未牵绳大狗扑向1岁宝宝",
       "onboard_time": 1754891722,
       "rank": 47,
@@ -1532,7 +1684,7 @@
     },
     {
       "raw_hot": 102224,
-      "num": 102224,
+      "num": 147930,
       "word": "利剑玫瑰豆瓣评论存在异常",
       "onboard_time": 1754897961,
       "rank": 49,
@@ -1585,14 +1737,6 @@
       "onboard_time": 1754887403,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 97470,
-      "num": 126762,
-      "word": "浪浪山小妖怪票房超5亿",
-      "onboard_time": 1754898203,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 96042,
@@ -1689,14 +1833,6 @@
       "onboard_time": 1754877441,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 86115,
-      "num": 118776,
-      "word": "女子为逃刑罚4年掐点怀孕连生3子",
-      "onboard_time": 1754898203,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85424,
@@ -1947,6 +2083,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55138,
+      "num": 190989,
+      "word": "超5万元现金存取或无需登记",
+      "onboard_time": 1754900184,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53580,
+      "num": 258501,
+      "word": "全民社保要来了吗",
+      "onboard_time": 1754900242,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 51066,
+      "num": 191317,
+      "word": "王楚钦张本智和今晚争冠",
+      "onboard_time": 1754900903,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50112,
       "num": 179228,
       "word": "日本麦当劳联名活动3个月2次翻车",
@@ -2009,14 +2169,6 @@
       "onboard_time": 1754851816,
       "rank": 42,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 38988,
-      "num": 130576,
-      "word": "十万彩礼做女友造谣者凑不齐执行款",
-      "onboard_time": 1754897002,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38945,
@@ -2147,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14718,
+      "num": 148287,
+      "word": "偶遇王嘉尔骑车遛弯",
+      "onboard_time": 1754900783,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 14622,
       "num": 177723,
       "word": "宜家宣布入驻京东",
@@ -2193,6 +2353,9 @@
     },
     {
       "word": "#以文化人以文兴业#"
+    },
+    {
+      "word": "#总书记与人民在一起#"
     }
   ]
 }
