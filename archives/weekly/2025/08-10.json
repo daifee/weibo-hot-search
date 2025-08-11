@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754938494270,
+  "endTime": 1754940251050,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -6619,6 +6619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69153,
+      "num": 69153,
+      "word": "王星越不收礼物更不收孩子",
+      "onboard_time": 1754933836,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 68974,
       "num": 79029,
       "word": "婚内强奸案将开庭被告方作无罪辩护",
@@ -6729,14 +6737,6 @@
       "onboard_time": 1754834003,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59814,
-      "num": 59814,
-      "word": "王星越不收礼物更不收孩子",
-      "onboard_time": 1754933836,
-      "rank": 38,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 59071,
@@ -7147,6 +7147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34865,
+      "num": 26006,
+      "word": "王楚钦张本智和颁奖",
+      "onboard_time": 1754939654,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34730,
       "num": 136795,
       "word": "苍山失踪男童系参加夏令营时走失",
@@ -7409,6 +7417,14 @@
       "onboard_time": 1754818221,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21113,
+      "num": 21113,
+      "word": "王楚钦祝贺张本智和",
+      "onboard_time": 1754938574,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 20931,
