@@ -1,10 +1,10 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754888569738,
+  "endTime": 1754890500552,
   "band_list": [
     {
       "raw_hot": 2241032,
-      "num": 379644,
+      "num": 431332,
       "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
       "onboard_time": 1754881881,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1883883,
-      "num": 369990,
+      "num": 446185,
       "word": "鹿晗关晓彤同款挂件",
       "onboard_time": 1754885962,
       "rank": 11,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 953119,
+      "num": 1152499,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1754888243,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 905737,
       "num": 905737,
       "word": "百果园 钟薛高",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 732500,
-      "num": 360344,
+      "num": 427072,
       "word": "当一个人朋友圈不再更新",
       "onboard_time": 1754884522,
       "rank": 17,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 696940,
+      "num": 696940,
+      "word": "撒贝宁保送北大的真实原因",
+      "onboard_time": 1754886323,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 694779,
       "num": 694779,
       "word": "苹果干",
@@ -337,14 +353,6 @@
       "onboard_time": 1754883862,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 665630,
-      "num": 665630,
-      "word": "撒贝宁保送北大的真实原因",
-      "onboard_time": 1754886323,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 662282,
@@ -411,8 +419,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 628344,
+      "num": 628344,
+      "word": "女子为避雨进彩票店顺手刮中100万",
+      "onboard_time": 1754886863,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624087,
-      "num": 624087,
+      "num": 662326,
       "word": "抗战胜利80周年天安门演练现场",
       "onboard_time": 1754826322,
       "rank": 4,
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487358,
+      "num": 415169,
+      "word": "陶白白前妻和现任分手",
+      "onboard_time": 1754889262,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 487287,
       "num": 487287,
       "word": "那英去花少带了更年期的药",
@@ -617,6 +641,14 @@
       "onboard_time": 1754815100,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 465570,
+      "num": 465570,
+      "word": "王楚钦4比0莫雷加德",
+      "onboard_time": 1754889203,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 460580,
@@ -731,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418726,
-      "num": 418726,
-      "word": "女子为避雨进彩票店顺手刮中100万",
-      "onboard_time": 1754886863,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 417182,
       "num": 417182,
       "word": "墨镜大爷救人后又被一群人救了",
@@ -776,6 +800,14 @@
       "word": "徐杰 赌球",
       "onboard_time": 1754751205,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 399228,
+      "num": 399228,
+      "word": "贾哈教练与张本智和热情握手",
+      "onboard_time": 1754887883,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -841,6 +873,14 @@
       "onboard_time": 1754849356,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367545,
+      "num": 462686,
+      "word": "蒋欣像冷宫疯掉的妃子",
+      "onboard_time": 1754887643,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 365105,
@@ -1163,28 +1203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278293,
-      "num": 278293,
-      "word": "王楚钦vs莫雷加德",
-      "onboard_time": 1754888243,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271391,
       "num": 271391,
       "word": "13岁儿子目睹父亲救人牺牲不断呼喊",
       "onboard_time": 1754809822,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271225,
-      "num": 271225,
-      "word": "贾哈教练与张本智和热情握手",
-      "onboard_time": 1754887883,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 270678,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1754804003,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247000,
+      "num": 247000,
+      "word": "王楚钦孙颖莎领衔冲冠",
+      "onboard_time": 1754886024,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 245455,
@@ -1387,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226276,
-      "num": 226276,
-      "word": "蒋欣像冷宫疯掉的妃子",
-      "onboard_time": 1754887643,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223227,
       "num": 267412,
       "word": "张本智和希望获得多一点尊重",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1754879121,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218441,
+      "num": 218441,
+      "word": "男子陪妻子做流产发现孩子是邻居的",
+      "onboard_time": 1754890343,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218170,
@@ -1499,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208371,
+      "num": 208371,
+      "word": "王楚钦11比1莫雷加德",
+      "onboard_time": 1754890102,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207692,
       "num": 207692,
       "word": "日本扇耳光餐厅",
@@ -1561,14 +1601,6 @@
       "onboard_time": 1754838683,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202209,
-      "num": 202209,
-      "word": "王楚钦孙颖莎领衔冲冠",
-      "onboard_time": 1754886024,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 202097,
@@ -1761,6 +1793,14 @@
       "onboard_time": 1754740341,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192527,
+      "num": 192527,
+      "word": "KPL年度总决赛鸟巢表演嘉宾",
+      "onboard_time": 1754890401,
+      "rank": 27,
+      "category": "电竞,演出"
     },
     {
       "raw_hot": 192504,
@@ -2051,6 +2091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170092,
+      "num": 170092,
+      "word": "王楚钦11比4莫雷加德",
+      "onboard_time": 1754889384,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170071,
       "num": 170071,
       "word": "kspo",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1754818642,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168830,
+      "num": 216911,
+      "word": "心动的信号8",
+      "onboard_time": 1754886923,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 168276,
@@ -2123,12 +2179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165065,
-      "num": 216911,
-      "word": "心动的信号8",
-      "onboard_time": 1754886923,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 166273,
+      "num": 179771,
+      "word": "俩男一女拉扯这45秒好刺激",
+      "onboard_time": 1754890281,
+      "rank": 29,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 164607,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1754808802,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164363,
+      "num": 164363,
+      "word": "王楚钦强势晋级决赛",
+      "onboard_time": 1754890043,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 164192,
@@ -2251,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159079,
+      "num": 197112,
+      "word": "王玉雯是内娱幼教吧",
+      "onboard_time": 1754890401,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158654,
       "num": 158654,
       "word": "王橹杰半扎狼尾造型",
@@ -2300,7 +2372,7 @@
     },
     {
       "raw_hot": 156446,
-      "num": 156446,
+      "num": 180853,
       "word": "以色列已批准占领加沙城计划",
       "onboard_time": 1754871201,
       "rank": 26,
@@ -2547,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145112,
+      "num": 145112,
+      "word": "陈赫一人带七娃",
+      "onboard_time": 1754890401,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144870,
       "num": 140054,
       "word": "外卖员被曝隔窗偷拍女生洗澡",
@@ -2737,6 +2817,14 @@
       "onboard_time": 1754817922,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138582,
+      "num": 138582,
+      "word": "事业单位面试邪修大佬在民间",
+      "onboard_time": 1754887403,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 138436,
@@ -2985,14 +3073,6 @@
       "onboard_time": 1754823203,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130262,
-      "num": 130262,
-      "word": "事业单位面试邪修大佬在民间",
-      "onboard_time": 1754887403,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 130077,
@@ -3289,6 +3369,14 @@
       "onboard_time": 1754804662,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118629,
+      "num": 365974,
+      "word": "CPB檀健次",
+      "onboard_time": 1754883862,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 118627,
@@ -3745,6 +3833,14 @@
       "onboard_time": 1754790561,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108463,
+      "num": 108463,
+      "word": "花4小时从杭州到长沙过周末",
+      "onboard_time": 1754888363,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 108158,
@@ -4411,14 +4507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82782,
-      "num": 365974,
-      "word": "CPB檀健次",
-      "onboard_time": 1754883862,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81019,
       "num": 81019,
       "word": "五条悟燃王",
@@ -4523,6 +4611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71436,
+      "num": 453289,
+      "word": "沈阳一企业洗手液原料进入河道",
+      "onboard_time": 1754889624,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71044,
       "num": 85295,
       "word": "宋茜女战神结算时刻",
@@ -4600,6 +4696,14 @@
       "word": "你的提神饮料正悄悄让你变胖",
       "onboard_time": 1754840483,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63789,
+      "num": 146105,
+      "word": "非婚生子女 育儿补贴",
+      "onboard_time": 1754889863,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
