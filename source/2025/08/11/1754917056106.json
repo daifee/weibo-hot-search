@@ -1,0 +1,410 @@
+{
+  "runTime": 1754917056106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6134845,
+        "num": 6134845,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1754905463,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1412427,
+        "num": 1412427,
+        "word": "韩国人以为沈佳润是财阀千金",
+        "onboard_time": 1754911045,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26451,
+        "num": 938654,
+        "word": "优质主播中国行新疆站",
+        "onboard_time": 1754901682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 933050,
+        "num": 933050,
+        "word": "王楚钦亚军",
+        "onboard_time": 1754910807,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625848,
+        "num": 625848,
+        "word": "王楚钦对张本说恭喜啊",
+        "onboard_time": 1754913683,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531107,
+        "num": 531107,
+        "word": "孙颖莎亚军",
+        "onboard_time": 1754905282,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520667,
+        "num": 520667,
+        "word": "昊恺质问UZI",
+        "onboard_time": 1754916203,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 428446,
+        "num": 428446,
+        "word": "孙颖莎 维达",
+        "onboard_time": 1754915903,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389399,
+        "num": 389399,
+        "word": "许昕回应孙颖莎输球被说没好好打",
+        "onboard_time": 1754914163,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338798,
+        "num": 338798,
+        "word": "sana回应与权志龙恋爱传闻",
+        "onboard_time": 1754912186,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108416,
+        "num": 328006,
+        "word": "女孩30秒海姆立克救回被卡女子",
+        "onboard_time": 1754916563,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562801,
+        "num": 327909,
+        "word": "瞧瞧黄磊把宋丹丹毒成什么样了",
+        "onboard_time": 1754913323,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348815,
+        "num": 327882,
+        "word": "张本智和王皓握手",
+        "onboard_time": 1754911944,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327489,
+        "num": 327489,
+        "word": "王栎鑫苏醒吵架",
+        "onboard_time": 1754895322,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323396,
+        "num": 323396,
+        "word": "张馨予妈妈给她睡了扁头",
+        "onboard_time": 1754913023,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314015,
+        "num": 314015,
+        "word": "菲律宾",
+        "onboard_time": 1754901862,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312182,
+        "num": 312182,
+        "word": "钮钴禄王一博",
+        "onboard_time": 1754911763,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51722,
+        "num": 277425,
+        "word": "领克10EM-P全系四驱索尔太顶了",
+        "onboard_time": 1754915602,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260587,
+        "num": 260587,
+        "word": "枭起青壤",
+        "onboard_time": 1754910506,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258431,
+        "num": 258431,
+        "word": "恋综史上最尴尬的2分半",
+        "onboard_time": 1754912904,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251510,
+        "num": 251510,
+        "word": "黄岩岛",
+        "onboard_time": 1754907503,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249536,
+        "num": 249536,
+        "word": "TWS韩振吃蛋挞被韩网审判",
+        "onboard_time": 1754915663,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248933,
+        "num": 248933,
+        "word": "刘轩丞第一个杂志封面",
+        "onboard_time": 1754914103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234814,
+        "num": 234814,
+        "word": "中国海警依法对菲船予以驱离",
+        "onboard_time": 1754892082,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232071,
+        "num": 232071,
+        "word": "张本智和陈幸同冠军合影",
+        "onboard_time": 1754915482,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232058,
+        "num": 232058,
+        "word": "李维嘉录再见爱人哭了15个小时",
+        "onboard_time": 1754916741,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211924,
+        "num": 211924,
+        "word": "中国稀土集团发声明",
+        "onboard_time": 1754915962,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 211290,
+        "num": 211290,
+        "word": "这是生育补贴不是结婚证补贴",
+        "onboard_time": 1754911106,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207687,
+        "num": 207687,
+        "word": "泡泡玛特 周深",
+        "onboard_time": 1754906303,
+        "rank": 28,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 87300,
+        "num": 203403,
+        "word": "00后女生被高富帅男友骗去缅甸",
+        "onboard_time": 1754915482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200872,
+        "num": 200872,
+        "word": "第一次见粉丝塌房",
+        "onboard_time": 1754893343,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200376,
+        "num": 200376,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183380,
+        "num": 183380,
+        "word": "张本智和打疯了",
+        "onboard_time": 1754909783,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162301,
+        "num": 162301,
+        "word": "张本美和恭喜哥哥夺冠",
+        "onboard_time": 1754913984,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158056,
+        "num": 158056,
+        "word": "花少神一季鬼一季",
+        "onboard_time": 1754899522,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152172,
+        "num": 152172,
+        "word": "吴优被孙怡用螺蛳粉招待也不奇怪",
+        "onboard_time": 1754913504,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149182,
+        "num": 149182,
+        "word": "杨泽琪曾在缅甸园区见过王阳阳",
+        "onboard_time": 1754910628,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144168,
+        "num": 144168,
+        "word": "黄金",
+        "onboard_time": 1754896162,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36545,
+        "num": 142441,
+        "word": "除了杨幂谁还能跟你说这些大实话啊",
+        "onboard_time": 1754915843,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134696,
+        "num": 142235,
+        "word": "鹿晗一天天使不完的牛劲",
+        "onboard_time": 1754915843,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142163,
+        "num": 142163,
+        "word": "万妮达疑似被短剧做局",
+        "onboard_time": 1754913742,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138365,
+        "num": 138365,
+        "word": "俄罗斯退休老太成乌克兰杀手",
+        "onboard_time": 1754913683,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135180,
+        "num": 135180,
+        "word": "zb1卖玉米",
+        "onboard_time": 1754916863,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134778,
+        "num": 134778,
+        "word": "曹巍说王楚钦辛苦了",
+        "onboard_time": 1754916682,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134659,
+        "num": 134659,
+        "word": "孙颖莎点头回应球迷",
+        "onboard_time": 1754916863,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128767,
+        "num": 128767,
+        "word": "这房子给人又穷又有钱的感觉",
+        "onboard_time": 1754909241,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127892,
+        "num": 127892,
+        "word": "花少6",
+        "onboard_time": 1754910444,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126199,
+        "num": 126199,
+        "word": "沙漠边万亩胡杨畅饮昆仑雪水",
+        "onboard_time": 1754915003,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124770,
+        "num": 124770,
+        "word": "银河酷娱与张芷溪疑似和解",
+        "onboard_time": 1754913023,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122798,
+        "num": 122798,
+        "word": "女子把袋装饺子倒进塑料袋按散装称",
+        "onboard_time": 1754911524,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}
