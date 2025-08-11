@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754934369301,
+  "endTime": 1754937708924,
   "band_list": [
     {
       "raw_hot": 1158017,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94931,
+      "num": 94931,
+      "word": "papi酱你们谁要再见啊",
+      "onboard_time": 1754934556,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94123,
       "num": 196010,
       "word": "67岁阿姨国外骑行遇骚扰剃光头发",
@@ -435,8 +443,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 46381,
-      "num": 46381,
+      "raw_hot": 53504,
+      "num": 53504,
       "word": "王星越不收礼物更不收孩子",
       "onboard_time": 1754933836,
       "rank": 38,
@@ -457,6 +465,22 @@
       "onboard_time": 1754892082,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32993,
+      "num": 32993,
+      "word": "台7岁女童火化前舌头咽喉消失",
+      "onboard_time": 1754937015,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30197,
+      "num": 30197,
+      "word": "人生最经不起的就是等",
+      "onboard_time": 1754935936,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 1976,
