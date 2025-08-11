@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754885394791,
+  "endTime": 1754886568039,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -19,8 +19,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1066047,
-      "num": 1066047,
+      "raw_hot": 1204406,
+      "num": 1204406,
       "word": "4岁男孩从22楼窗台坠落",
       "onboard_time": 1754882661,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1754871441,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816058,
+      "num": 343589,
+      "word": "鹿晗关晓彤同款挂件",
+      "onboard_time": 1754885962,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 814259,
@@ -67,11 +75,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 660510,
-      "num": 660510,
+      "raw_hot": 677972,
+      "num": 677972,
       "word": "女子单手骑车摔倒数米外车主担次责",
       "onboard_time": 1754881041,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 672412,
+      "num": 672412,
+      "word": "深圳回应非婚生育不能领育儿补贴",
+      "onboard_time": 1754883862,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -83,12 +99,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 604315,
+      "num": 335430,
+      "word": "当一个人朋友圈不再更新",
+      "onboard_time": 1754884522,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 560347,
       "num": 377608,
       "word": "周华健肚子",
       "onboard_time": 1754882242,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 548264,
+      "num": 548264,
+      "word": "张本智和 谁教你的庆祝动作",
+      "onboard_time": 1754884704,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 514665,
@@ -99,14 +131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 488415,
-      "num": 488415,
-      "word": "深圳回应非婚生育不能领育儿补贴",
-      "onboard_time": 1754883862,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 481523,
       "num": 183628,
       "word": "曝孙亦航恋情",
@@ -115,20 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458799,
+      "num": 458799,
+      "word": "邢菲说杨幂帮她走出原生家庭困境",
+      "onboard_time": 1754885362,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 444754,
+      "num": 444754,
+      "word": "上海医保",
+      "onboard_time": 1754883204,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427781,
       "num": 427781,
       "word": "演唱会迟到被汪苏泷抓个正着",
       "onboard_time": 1754870179,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 427563,
-      "num": 427563,
-      "word": "上海医保",
-      "onboard_time": 1754883204,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 426113,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 421818,
-      "num": 252170,
+      "num": 269420,
       "word": "生理性厌恶的7个躯体信号",
       "onboard_time": 1754883923,
       "rank": 20,
@@ -243,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322659,
+      "num": 322659,
+      "word": "4次断骨打开180度折叠男孩近况",
+      "onboard_time": 1754883381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309509,
       "num": 307316,
       "word": "拉宏桑妈妈怀孕后还吃了打虫药",
@@ -307,12 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 286171,
-      "num": 286171,
-      "word": "当一个人朋友圈不再更新",
-      "onboard_time": 1754884522,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 283465,
+      "num": 283465,
+      "word": "睡姿 焦虑",
+      "onboard_time": 1754885123,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269063,
@@ -323,12 +363,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 251983,
-      "num": 251983,
-      "word": "张本智和 谁教你的庆祝动作",
-      "onboard_time": 1754884704,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 259998,
+      "num": 259998,
+      "word": "老外说火锅界的丑东西越涮越上头",
+      "onboard_time": 1754885362,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 251182,
@@ -339,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248747,
-      "num": 248747,
-      "word": "邢菲说杨幂帮她走出原生家庭困境",
-      "onboard_time": 1754885362,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 245387,
       "num": 211948,
       "word": "日本前国脚为否认南京大屠杀道歉",
@@ -355,11 +387,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237748,
-      "num": 252194,
-      "word": "4次断骨打开180度折叠男孩近况",
-      "onboard_time": 1754883381,
-      "rank": 19,
+      "raw_hot": 243986,
+      "num": 384218,
+      "word": "车主回应女子5米外摔倒自己负次责",
+      "onboard_time": 1754883984,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219802,
+      "num": 219802,
+      "word": "迪丽热巴演技大赏",
+      "onboard_time": 1754885664,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218659,
       "num": 218659,
       "word": "献鱼",
@@ -387,12 +427,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216474,
+      "num": 216474,
+      "word": "年轻人听不得招财两个字",
+      "onboard_time": 1754885483,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210542,
       "num": 210542,
       "word": "单依纯永不失联的爱一张嘴就哭了",
       "onboard_time": 1754882181,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207123,
+      "num": 207123,
+      "word": "撒贝宁保送北大的真实原因",
+      "onboard_time": 1754886323,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203842,
+      "num": 203842,
+      "word": "鬼吹灯有动画版了",
+      "onboard_time": 1754885962,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 202114,
+      "num": 202114,
+      "word": "王楚钦孙颖莎领衔冲冠",
+      "onboard_time": 1754886024,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 201643,
@@ -409,6 +481,14 @@
       "onboard_time": 1754884163,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199572,
+      "num": 199572,
+      "word": "最希望李承铉被披哥淘汰的人是Lucky",
+      "onboard_time": 1754884942,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 197100,
@@ -467,14 +547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178155,
-      "num": 384218,
-      "word": "车主回应女子5米外摔倒自己负次责",
-      "onboard_time": 1754883984,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177653,
       "num": 177653,
       "word": "60岁张卫健在演唱会上掏出老年卡",
@@ -483,12 +555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175529,
-      "num": 175529,
+      "raw_hot": 177605,
+      "num": 177605,
       "word": "带你看清武大图书馆事件每个细节",
       "onboard_time": 1754882362,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175553,
+      "num": 175553,
+      "word": "日本扇耳光餐厅",
+      "onboard_time": 1754885602,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173382,
@@ -532,19 +612,11 @@
     },
     {
       "raw_hot": 162256,
-      "num": 162256,
+      "num": 258949,
       "word": "台风杨柳最强可达台风级",
       "onboard_time": 1754879300,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161859,
-      "num": 161859,
-      "word": "老外说火锅界的丑东西越涮越上头",
-      "onboard_time": 1754885362,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 160908,
@@ -553,6 +625,14 @@
       "onboard_time": 1754885063,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158547,
+      "num": 158547,
+      "word": "锦月如歌",
+      "onboard_time": 1754885424,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 156446,
@@ -603,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146766,
-      "num": 146766,
-      "word": "最希望李承铉被披哥淘汰的人是Lucky",
-      "onboard_time": 1754884942,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 145390,
+      "num": 145390,
+      "word": "魏大勋智性恋天菜",
+      "onboard_time": 1754886444,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 145329,
@@ -777,14 +857,6 @@
       "onboard_time": 1754878340,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109312,
-      "num": 210693,
-      "word": "睡姿 焦虑",
-      "onboard_time": 1754885123,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109098,
@@ -1044,7 +1116,7 @@
     },
     {
       "raw_hot": 74505,
-      "num": 255938,
+      "num": 284980,
       "word": "王一博正式确诊为赛博红牛",
       "onboard_time": 1754883923,
       "rank": 18,
@@ -1171,12 +1243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59071,
+      "num": 179296,
+      "word": "660万彩票大奖今日截止兑奖",
+      "onboard_time": 1754885723,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58243,
       "num": 58243,
       "word": "CORTIS BIGHIT",
       "onboard_time": 1754839404,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50112,
+      "num": 179228,
+      "word": "日本麦当劳联名活动3个月2次翻车",
+      "onboard_time": 1754885783,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 48210,
@@ -1203,12 +1291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40359,
+      "num": 179374,
+      "word": "敲墙工人进错房门砸错墙",
+      "onboard_time": 1754885723,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39561,
       "num": 62526,
       "word": "孙颖莎说今天回去要多吃一点",
       "onboard_time": 1754851816,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 38945,
+      "num": 216894,
+      "word": "夕阳红公寓非法集资28亿爆雷后续",
+      "onboard_time": 1754884942,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 37463,
@@ -1241,14 +1345,6 @@
       "onboard_time": 1754837965,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34458,
-      "num": 205112,
-      "word": "夕阳红公寓非法集资28亿爆雷后续",
-      "onboard_time": 1754884942,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 31309,
