@@ -1,0 +1,410 @@
+{
+  "runTime": 1754902384631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990599,
+        "num": 1158495,
+        "word": "黄金",
+        "onboard_time": 1754896162,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 891037,
+        "num": 891037,
+        "word": "秦岭失联约半个月的驴友找到了",
+        "onboard_time": 1754899760,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26645,
+        "num": 745439,
+        "word": "成都世运会点火女孩滑水摘金",
+        "onboard_time": 1754901862,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1276096,
+        "num": 744706,
+        "word": "社保",
+        "onboard_time": 1754896462,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1211624,
+        "num": 743138,
+        "word": "王栎鑫苏醒吵架",
+        "onboard_time": 1754895322,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741426,
+        "num": 741426,
+        "word": "王玉雯 不是故意炒cp的",
+        "onboard_time": 1754897724,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732057,
+        "num": 732057,
+        "word": "花少神一季鬼一季",
+        "onboard_time": 1754899522,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649448,
+        "num": 649448,
+        "word": "汪苏泷张碧晨参加东方风云榜",
+        "onboard_time": 1754900662,
+        "rank": 7,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 296374,
+        "num": 296374,
+        "word": "非婚生子女 育儿补贴",
+        "onboard_time": 1754889863,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277595,
+        "num": 277595,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1754900662,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711197,
+        "num": 276516,
+        "word": "第一次见粉丝塌房",
+        "onboard_time": 1754893343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636726,
+        "num": 275186,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503593,
+        "num": 272051,
+        "word": "朴彩英也给Jennie打码了",
+        "onboard_time": 1754894182,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383323,
+        "num": 269045,
+        "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
+        "onboard_time": 1754881881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297415,
+        "num": 267627,
+        "word": "从毫无征兆到确诊尿毒症",
+        "onboard_time": 1754900062,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363732,
+        "num": 264727,
+        "word": "龚俊王玉雯撞睡衣了",
+        "onboard_time": 1754896944,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312727,
+        "num": 261952,
+        "word": "苏醒回应和王栎鑫吵架",
+        "onboard_time": 1754900062,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287847,
+        "num": 261499,
+        "word": "中国好声音选手朴翔去世",
+        "onboard_time": 1754893701,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259639,
+        "num": 259639,
+        "word": "37岁发现自己断崖式衰老了",
+        "onboard_time": 1754900721,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242030,
+        "num": 242030,
+        "word": "陶白白前妻和现任分手",
+        "onboard_time": 1754889262,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228948,
+        "num": 228948,
+        "word": "女子为避雨进彩票店顺手刮中100万",
+        "onboard_time": 1754886863,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203618,
+        "num": 203618,
+        "word": "英伟达同意向美国政府上贡15%收入",
+        "onboard_time": 1754900662,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 457675,
+        "num": 202233,
+        "word": "广西一女生考入清华被奖励100万元",
+        "onboard_time": 1754894782,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 198299,
+        "num": 198299,
+        "word": "苏新皓的美貌朱志鑫的荣耀",
+        "onboard_time": 1754901503,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192809,
+        "num": 192809,
+        "word": "怪不得医生会反复套话",
+        "onboard_time": 1754892562,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114379,
+        "num": 188748,
+        "word": "未牵绳大狗扑向1岁宝宝",
+        "onboard_time": 1754891722,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188390,
+        "num": 188390,
+        "word": "菲律宾",
+        "onboard_time": 1754901862,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187989,
+        "num": 187989,
+        "word": "外卖员取餐摸脸前台姑娘",
+        "onboard_time": 1754897422,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177886,
+        "num": 177886,
+        "word": "浪浪山小妖怪票房超5亿",
+        "onboard_time": 1754898203,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77792,
+        "num": 176984,
+        "word": "百果园否认教育消费者",
+        "onboard_time": 1754901622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176519,
+        "num": 176519,
+        "word": "女子为逃刑罚4年掐点怀孕连生3子",
+        "onboard_time": 1754898203,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170088,
+        "num": 170088,
+        "word": "讨厌上班的请反复看",
+        "onboard_time": 1754899283,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151266,
+        "num": 169748,
+        "word": "献鱼把原著抠下来拍了",
+        "onboard_time": 1754900363,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169714,
+        "num": 169714,
+        "word": "陈思诚带儿子为佟丽娅庆生",
+        "onboard_time": 1754892442,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158684,
+        "num": 158684,
+        "word": "苏韦达医院大屠杀",
+        "onboard_time": 1754896043,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155041,
+        "num": 155041,
+        "word": "没有欧阳娣娣接不住的话",
+        "onboard_time": 1754901322,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143600,
+        "num": 143600,
+        "word": "谢娜一家是现实版小巷人家吧",
+        "onboard_time": 1754897843,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84647,
+        "num": 140992,
+        "word": "麦琳将一公司股份全转给李行亮",
+        "onboard_time": 1754901801,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61269,
+        "num": 140032,
+        "word": "孕育机器人定价预计不超过10万",
+        "onboard_time": 1754901982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33730,
+        "num": 140002,
+        "word": "合金首饰 高毒性重金属超标",
+        "onboard_time": 1754902282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139975,
+        "num": 139975,
+        "word": "巴勒斯坦的球王贝利被以军炸死",
+        "onboard_time": 1754902343,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41171,
+        "num": 137275,
+        "word": "被造谣十万彩礼做女友当事人发声",
+        "onboard_time": 1754902282,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135592,
+        "num": 135592,
+        "word": "百果园小心被消费者教育",
+        "onboard_time": 1754894482,
+        "rank": 42,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 134546,
+        "num": 134546,
+        "word": "十万彩礼做女友造谣者凑不齐执行款",
+        "onboard_time": 1754897002,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127058,
+        "num": 127058,
+        "word": "澳大利亚宣布将承认巴勒斯坦国",
+        "onboard_time": 1754899522,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123507,
+        "num": 123507,
+        "word": "贵州一民宿房间内装了2个摄像头",
+        "onboard_time": 1754898742,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 113186,
+        "num": 113186,
+        "word": "婚内强奸案女方索赔30万元",
+        "onboard_time": 1754896944,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113127,
+        "num": 113127,
+        "word": "原来焦虑抑郁的人承受力这么强",
+        "onboard_time": 1754896822,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112466,
+        "num": 112466,
+        "word": "张明楷教授说婚内强奸不构成强奸罪",
+        "onboard_time": 1754901862,
+        "rank": 48,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 110476,
+        "num": 110476,
+        "word": "出现这6种症状可能是心梗前兆",
+        "onboard_time": 1754899463,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}

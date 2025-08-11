@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754901549036,
+  "endTime": 1754902384631,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1557874,
-      "num": 585275,
+      "num": 743138,
       "word": "王栎鑫苏醒吵架",
       "onboard_time": 1754895322,
       "rank": 18,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1276096,
+      "num": 744706,
+      "word": "社保",
+      "onboard_time": 1754896462,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1204406,
       "num": 1204406,
       "word": "4岁男孩从22楼窗台坠落",
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1202632,
-      "num": 432866,
-      "word": "社保",
-      "onboard_time": 1754896462,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 990599,
+      "num": 1158495,
+      "word": "黄金",
+      "onboard_time": 1754896162,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 963163,
@@ -83,12 +91,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 828899,
-      "num": 1132623,
-      "word": "黄金",
-      "onboard_time": 1754896162,
+      "raw_hot": 891037,
+      "num": 891037,
+      "word": "秦岭失联约半个月的驴友找到了",
+      "onboard_time": 1754899760,
       "rank": 5,
-      "category": "财经"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 814259,
@@ -139,12 +147,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 741426,
+      "num": 741426,
+      "word": "王玉雯 不是故意炒cp的",
+      "onboard_time": 1754897724,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732500,
       "num": 427072,
       "word": "当一个人朋友圈不再更新",
       "onboard_time": 1754884522,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 732057,
+      "num": 732057,
+      "word": "花少神一季鬼一季",
+      "onboard_time": 1754899522,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 728755,
@@ -195,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 664478,
-      "num": 664478,
-      "word": "王玉雯 不是故意炒cp的",
-      "onboard_time": 1754897724,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 662409,
       "num": 1105889,
       "word": "女子为避雨进彩票店顺手刮中100万",
@@ -219,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 614899,
-      "num": 397868,
-      "word": "花少神一季鬼一季",
-      "onboard_time": 1754899522,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 649448,
+      "num": 649448,
+      "word": "汪苏泷张碧晨参加东方风云榜",
+      "onboard_time": 1754900662,
+      "rank": 15,
+      "category": "音乐,演出"
     },
     {
       "raw_hot": 581467,
@@ -347,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 422026,
-      "num": 342270,
-      "word": "汪苏泷张碧晨参加东方风云榜",
-      "onboard_time": 1754900662,
-      "rank": 15,
-      "category": "音乐,演出"
-    },
-    {
       "raw_hot": 421818,
       "num": 269420,
       "word": "生理性厌恶的7个躯体信号",
@@ -385,14 +393,6 @@
       "onboard_time": 1754873662,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 401691,
-      "num": 401691,
-      "word": "秦岭失联约半个月的驴友找到了",
-      "onboard_time": 1754899760,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399228,
@@ -499,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312727,
+      "num": 270595,
+      "word": "苏醒回应和王栎鑫吵架",
+      "onboard_time": 1754900062,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309509,
       "num": 307316,
       "word": "拉宏桑妈妈怀孕后还吃了打虫药",
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297415,
+      "num": 267627,
+      "word": "从毫无征兆到确诊尿毒症",
+      "onboard_time": 1754900062,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 290845,
       "num": 290845,
       "word": "利剑玫瑰第二季",
@@ -579,12 +595,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 270595,
-      "num": 270595,
-      "word": "苏醒回应和王栎鑫吵架",
-      "onboard_time": 1754900062,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 277595,
+      "num": 277595,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1754900662,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 269063,
@@ -603,12 +619,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255669,
-      "num": 255669,
-      "word": "从毫无征兆到确诊尿毒症",
-      "onboard_time": 1754900062,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 259639,
+      "num": 259639,
+      "word": "37岁发现自己断崖式衰老了",
+      "onboard_time": 1754900721,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 251182,
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198299,
+      "num": 198299,
+      "word": "苏新皓的美貌朱志鑫的荣耀",
+      "onboard_time": 1754901503,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197100,
       "num": 122548,
       "word": "WTT横滨冠军赛今日收官",
@@ -907,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190972,
-      "num": 190972,
-      "word": "37岁发现自己断崖式衰老了",
-      "onboard_time": 1754900721,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190354,
       "num": 195750,
       "word": "卖个水果何德何能搞义务教育",
@@ -931,12 +947,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185271,
-      "num": 185271,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1754900662,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 188390,
+      "num": 188390,
+      "word": "菲律宾",
+      "onboard_time": 1754901862,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 187989,
+      "num": 187989,
+      "word": "外卖员取餐摸脸前台姑娘",
+      "onboard_time": 1754897422,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183154,
@@ -1027,8 +1051,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169431,
-      "num": 169431,
+      "raw_hot": 170088,
+      "num": 170088,
       "word": "讨厌上班的请反复看",
       "onboard_time": 1754899283,
       "rank": 33,
@@ -1171,12 +1195,12 @@
       "category": "综艺,健康医疗"
     },
     {
-      "raw_hot": 154900,
-      "num": 154900,
-      "word": "外卖员取餐摸脸前台姑娘",
-      "onboard_time": 1754897422,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 155041,
+      "num": 155041,
+      "word": "没有欧阳娣娣接不住的话",
+      "onboard_time": 1754901322,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 154107,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1754879541,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150534,
-      "num": 150534,
-      "word": "苏新皓的美貌朱志鑫的荣耀",
-      "onboard_time": 1754901503,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 149480,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1754826322,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139975,
+      "num": 139975,
+      "word": "巴勒斯坦的球王贝利被以军炸死",
+      "onboard_time": 1754902343,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139290,
@@ -1459,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123507,
+      "num": 123507,
+      "word": "贵州一民宿房间内装了2个摄像头",
+      "onboard_time": 1754898742,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 123376,
       "num": 123376,
       "word": "年入百万老板去假装上班公司面试",
@@ -1523,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114379,
+      "num": 344715,
+      "word": "未牵绳大狗扑向1岁宝宝",
+      "onboard_time": 1754891722,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113960,
       "num": 113960,
       "word": "周也赏味期小比",
@@ -1563,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112466,
+      "num": 112466,
+      "word": "张明楷教授说婚内强奸不构成强奸罪",
+      "onboard_time": 1754901862,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 112176,
       "num": 112176,
       "word": "王楚然往台上一站就是角儿",
@@ -1571,12 +1619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111800,
-      "num": 111800,
-      "word": "没有欧阳娣娣接不住的话",
-      "onboard_time": 1754901322,
+      "raw_hot": 110476,
+      "num": 110476,
+      "word": "出现这6种症状可能是心梗前兆",
+      "onboard_time": 1754899463,
       "rank": 49,
-      "category": "综艺"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110054,
@@ -1584,14 +1632,6 @@
       "word": "4楼开麻将馆3楼住户买震楼器反击",
       "onboard_time": 1754895922,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109350,
-      "num": 344715,
-      "word": "未牵绳大狗扑向1岁宝宝",
-      "onboard_time": 1754891722,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1851,6 +1891,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 84647,
+      "num": 140992,
+      "word": "麦琳将一公司股份全转给李行亮",
+      "onboard_time": 1754901801,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82106,
       "num": 82106,
       "word": "周深唱了两首贾玲电影的代表曲",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1754821161,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77792,
+      "num": 176984,
+      "word": "百果园否认教育消费者",
+      "onboard_time": 1754901622,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77247,
@@ -2043,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61269,
+      "num": 140032,
+      "word": "孕育机器人定价预计不超过10万",
+      "onboard_time": 1754901982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61061,
       "num": 118452,
       "word": "烈犬撕咬路人致死主人获刑6年半",
@@ -2147,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41171,
+      "num": 137275,
+      "word": "被造谣十万彩礼做女友当事人发声",
+      "onboard_time": 1754902282,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41062,
       "num": 62558,
       "word": "宁夏灵武2.4级地震",
@@ -2211,6 +2283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33730,
+      "num": 140002,
+      "word": "合金首饰 高毒性重金属超标",
+      "onboard_time": 1754902282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31309,
       "num": 53717,
       "word": "AG战胜狼队",
@@ -2249,6 +2329,14 @@
       "onboard_time": 1754850856,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26645,
+      "num": 745439,
+      "word": "成都世运会点火女孩滑水摘金",
+      "onboard_time": 1754901862,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 26381,
