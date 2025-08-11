@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754947429463,
+  "endTime": 1754948369156,
   "band_list": [
     {
       "raw_hot": 1158017,
@@ -499,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23159,
+      "num": 23159,
+      "word": "老人端面手指浸汤争执后店员持刀",
+      "onboard_time": 1754945774,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21113,
       "num": 21113,
       "word": "王楚钦祝贺张本智和",
@@ -507,20 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17672,
-      "num": 17672,
-      "word": "老人端面手指浸汤争执后店员持刀",
-      "onboard_time": 1754945774,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16536,
       "num": 16536,
       "word": "刘宇宁东方风云榜官宣",
       "onboard_time": 1754946973,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15799,
+      "num": 19408,
+      "word": "重庆一干部经常上班时间外出打牌",
+      "onboard_time": 1754947694,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15775,
