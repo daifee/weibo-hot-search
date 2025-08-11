@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754904872620,
+  "endTime": 1754905745039,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2399471,
+      "num": 2399471,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1754900662,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2366610,
       "num": 2366610,
       "word": "TFBOYS十二周年",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 1883883,
-      "num": 511366,
+      "num": 564741,
       "word": "鹿晗关晓彤同款挂件",
       "onboard_time": 1754885962,
       "rank": 11,
@@ -1156,7 +1164,7 @@
     },
     {
       "raw_hot": 1342165,
-      "num": 571303,
+      "num": 599388,
       "word": "第一次见粉丝塌房",
       "onboard_time": 1754893343,
       "rank": 15,
@@ -2163,14 +2171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 953433,
-      "num": 953433,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1754900662,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 953119,
       "num": 1152499,
       "word": "王楚钦vs莫雷加德",
@@ -2281,6 +2281,14 @@
       "onboard_time": 1754557465,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 919355,
+      "num": 919355,
+      "word": "孙颖莎亚军",
+      "onboard_time": 1754905282,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 918469,
@@ -2473,6 +2481,14 @@
       "onboard_time": 1754405663,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 856609,
+      "num": 856609,
+      "word": "菲律宾",
+      "onboard_time": 1754901862,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 852637,
@@ -2763,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 799595,
+      "num": 799595,
+      "word": "从毫无征兆到确诊尿毒症",
+      "onboard_time": 1754900062,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 796829,
       "num": 796829,
       "word": "酱子贝 融梗",
@@ -3017,14 +3041,6 @@
       "onboard_time": 1754118562,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 744629,
-      "num": 744629,
-      "word": "菲律宾",
-      "onboard_time": 1754901862,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 743304,
@@ -3355,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 708818,
+      "num": 708818,
+      "word": "生育损伤",
+      "onboard_time": 1754902583,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 707985,
       "num": 245490,
       "word": "落叶归根",
@@ -3585,6 +3609,14 @@
       "onboard_time": 1754468723,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 676877,
+      "num": 809142,
+      "word": "陈幸同冠军",
+      "onboard_time": 1754905224,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 676867,
@@ -4201,14 +4233,6 @@
       "onboard_time": 1754734464,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 607344,
-      "num": 607344,
-      "word": "从毫无征兆到确诊尿毒症",
-      "onboard_time": 1754900062,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 606696,
@@ -6875,6 +6899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388890,
+      "num": 821516,
+      "word": "巴勒斯坦的球王贝利被以军炸死",
+      "onboard_time": 1754902343,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 388806,
       "num": 388806,
       "word": "利剑玫瑰",
@@ -7171,14 +7203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 376072,
-      "num": 376072,
-      "word": "生育损伤",
-      "onboard_time": 1754902583,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 375923,
       "num": 375923,
       "word": "北京这7区市民非必要不外出",
@@ -7297,6 +7321,22 @@
       "onboard_time": 1754849356,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366838,
+      "num": 366838,
+      "word": "孙颖莎正手",
+      "onboard_time": 1754904503,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366569,
+      "num": 366569,
+      "word": "中国海警依法对菲船予以驱离",
+      "onboard_time": 1754892082,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 365948,
@@ -7537,14 +7577,6 @@
       "onboard_time": 1754707521,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 356892,
-      "num": 501372,
-      "word": "巴勒斯坦的球王贝利被以军炸死",
-      "onboard_time": 1754902343,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 356205,
@@ -8643,14 +8675,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 301088,
-      "num": 301088,
-      "word": "中国海警依法对菲船予以驱离",
-      "onboard_time": 1754892082,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 301028,
       "num": 301028,
       "word": "王楚钦4比1户上隼辅",
@@ -8705,6 +8729,14 @@
       "onboard_time": 1754449341,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299622,
+      "num": 299622,
+      "word": "孙颖莎状态",
+      "onboard_time": 1754905163,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 299248,
@@ -13587,6 +13619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196676,
+      "num": 196676,
+      "word": "田曦薇好会跑",
+      "onboard_time": 1754904862,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196673,
       "num": 196673,
       "word": "张予曦毕雯珺收官发文",
@@ -15041,6 +15081,14 @@
       "onboard_time": 1754377104,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183463,
+      "num": 183463,
+      "word": "张本智和说还差最后一步",
+      "onboard_time": 1754903362,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 183428,
@@ -16987,14 +17035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166901,
-      "num": 166901,
-      "word": "孙颖莎正手",
-      "onboard_time": 1754904503,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166750,
       "num": 170808,
       "word": "单依纯说何老师你摸我脚",
@@ -17185,6 +17225,14 @@
       "onboard_time": 1754129484,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165170,
+      "num": 165170,
+      "word": "苏新皓高精力比格犬型人格",
+      "onboard_time": 1754904323,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 165153,
@@ -17449,6 +17497,14 @@
       "onboard_time": 1754179881,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163548,
+      "num": 163548,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1754905463,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 163467,
@@ -19779,14 +19835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148732,
-      "num": 148732,
-      "word": "张本智和说还差最后一步",
-      "onboard_time": 1754903362,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148717,
       "num": 148717,
       "word": "谁给张凌赫做的图",
@@ -20129,6 +20177,14 @@
       "onboard_time": 1754552964,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146883,
+      "num": 137489,
+      "word": "龚俊当当都上当",
+      "onboard_time": 1754904743,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 146877,
@@ -21715,6 +21771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138554,
+      "num": 138554,
+      "word": "披哥导演让许魏洲别既要又要还要",
+      "onboard_time": 1754905644,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138531,
       "num": 138531,
       "word": "没有然然和章阿姨相认的镜头",
@@ -22169,6 +22233,14 @@
       "onboard_time": 1754211504,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136486,
+      "num": 143139,
+      "word": "百果园的爹味教育谁买账",
+      "onboard_time": 1754903842,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136447,
@@ -22667,6 +22739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134001,
+      "num": 134001,
+      "word": "河南一中学官方账号回复引争议",
+      "onboard_time": 1754904202,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133966,
       "num": 133966,
       "word": "亮证逼迫让路事件当地成立工作组",
@@ -22977,6 +23057,14 @@
       "onboard_time": 1754635101,
       "rank": 33,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 132517,
+      "num": 132517,
+      "word": "建议少用爆冷这个词",
+      "onboard_time": 1754905644,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 132510,
@@ -24451,6 +24539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126227,
+      "num": 136007,
+      "word": "孙颖莎演我周一上班",
+      "onboard_time": 1754905403,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126219,
       "num": 126219,
       "word": "当60斤和110斤交换饮食",
@@ -25721,14 +25817,6 @@
       "onboard_time": 1754215824,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120422,
-      "num": 120422,
-      "word": "苏新皓高精力比格犬型人格",
-      "onboard_time": 1754904323,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 120407,
@@ -28291,6 +28379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108474,
+      "num": 108474,
+      "word": "终于知道报恩的小孩是什么样了",
+      "onboard_time": 1754905042,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108463,
       "num": 108463,
       "word": "花4小时从杭州到长沙过周末",
@@ -28617,14 +28713,6 @@
       "onboard_time": 1754123183,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106088,
-      "num": 106088,
-      "word": "龚俊当当都上当",
-      "onboard_time": 1754904743,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 106034,
@@ -30761,14 +30849,6 @@
       "onboard_time": 1754735182,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92446,
-      "num": 143139,
-      "word": "百果园的爹味教育谁买账",
-      "onboard_time": 1754903842,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92344,
@@ -34211,14 +34291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49389,
-      "num": 121098,
-      "word": "河南一中学官方账号回复引争议",
-      "onboard_time": 1754904202,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49337,
       "num": 49877,
       "word": "没有机场的苏州获得通向世界的跑道",
@@ -35035,6 +35107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39228,
+      "num": 1049127,
+      "word": "成都世运会点火女孩滑水摘金",
+      "onboard_time": 1754901862,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38945,
       "num": 216894,
       "word": "夕阳红公寓非法集资28亿爆雷后续",
@@ -35180,7 +35260,7 @@
     },
     {
       "raw_hot": 37106,
-      "num": 243933,
+      "num": 368183,
       "word": "余景天的喝水新选择",
       "onboard_time": 1754903123,
       "rank": 19,
@@ -35193,6 +35273,14 @@
       "onboard_time": 1753982958,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36923,
+      "num": 136438,
+      "word": "女孩们过得好吗 成为了怎样的小孩",
+      "onboard_time": 1754904862,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36832,
@@ -35489,14 +35577,6 @@
       "onboard_time": 1754674820,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33449,
-      "num": 984901,
-      "word": "成都世运会点火女孩滑水摘金",
-      "onboard_time": 1754901862,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 33429,
@@ -36225,6 +36305,14 @@
       "onboard_time": 1754685495,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23884,
+      "num": 136249,
+      "word": "大熊猫芝士和芝麻到哈尔滨了",
+      "onboard_time": 1754905522,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23706,
