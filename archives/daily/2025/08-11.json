@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754918003494,
+  "endTime": 1754919851072,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -105,6 +105,14 @@
       "onboard_time": 1754910807,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1288066,
+      "num": 1288066,
+      "word": "李维嘉录再见爱人哭了15个小时",
+      "onboard_time": 1754916741,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1276096,
@@ -267,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 735260,
-      "num": 735260,
-      "word": "李维嘉录再见爱人哭了15个小时",
-      "onboard_time": 1754916741,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 732500,
       "num": 427072,
       "word": "当一个人朋友圈不再更新",
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 562801,
-      "num": 354409,
+      "num": 366279,
       "word": "瞧瞧黄磊把宋丹丹毒成什么样了",
       "onboard_time": 1754913323,
       "rank": 11,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 463505,
-      "num": 334968,
+      "num": 366042,
       "word": "张馨予妈妈给她睡了扁头",
       "onboard_time": 1754913023,
       "rank": 14,
@@ -529,6 +529,14 @@
       "onboard_time": 1754891902,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438215,
+      "num": 438215,
+      "word": "00后女孩被高富帅男友骗至缅甸妙瓦底",
+      "onboard_time": 1754917343,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428446,
@@ -619,19 +627,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389682,
-      "num": 334031,
-      "word": "许昕谈张本智和医疗暂停",
-      "onboard_time": 1754917103,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 389399,
-      "num": 389399,
+      "raw_hot": 392049,
+      "num": 392049,
       "word": "许昕回应孙颖莎输球被说没好好打",
       "onboard_time": 1754914163,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 391114,
+      "num": 391114,
+      "word": "菲方不要挑战中方的坚定决心",
+      "onboard_time": 1754917885,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 389682,
+      "num": 370763,
+      "word": "许昕谈张本智和医疗暂停",
+      "onboard_time": 1754917103,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -819,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303624,
+      "num": 303624,
+      "word": "恋综史上最尴尬的2分半",
+      "onboard_time": 1754912904,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303221,
       "num": 303221,
       "word": "早春晴朗 开机",
@@ -851,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283595,
-      "num": 283595,
-      "word": "恋综史上最尴尬的2分半",
-      "onboard_time": 1754912904,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277853,
       "num": 277853,
       "word": "章凝成为VOGUE US主编",
@@ -867,12 +883,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 275142,
+      "num": 275142,
+      "word": "陈幸同横滨赛后发文",
+      "onboard_time": 1754918722,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269063,
       "num": 269063,
       "word": "陶白白前妻称如果为了钱就不会离婚",
       "onboard_time": 1754848156,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 260875,
+      "num": 260875,
+      "word": "刘轩丞第一个杂志封面",
+      "onboard_time": 1754914103,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 259998,
@@ -904,14 +936,6 @@
       "word": "TWS韩振吃蛋挞被韩网审判",
       "onboard_time": 1754915663,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 248933,
-      "num": 248933,
-      "word": "刘轩丞第一个杂志封面",
-      "onboard_time": 1754914103,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -995,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227556,
+      "num": 227556,
+      "word": "陈楚生歌王为何引争议",
+      "onboard_time": 1754918003,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226386,
       "num": 132753,
       "word": "麦琳直播哭了",
@@ -1051,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218446,
+      "num": 218446,
+      "word": "这是生育补贴不是结婚证补贴",
+      "onboard_time": 1754911106,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217160,
       "num": 217160,
       "word": "英伟达同意向美国政府上贡15%收入",
@@ -1072,14 +1112,6 @@
       "word": "围殴中国留学生的肇事者均被保释",
       "onboard_time": 1754892082,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211290,
-      "num": 211290,
-      "word": "这是生育补贴不是结婚证补贴",
-      "onboard_time": 1754911106,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1137,6 +1169,14 @@
       "onboard_time": 1754891361,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206270,
+      "num": 366681,
+      "word": "中100万刮刮乐女子说中的也不多",
+      "onboard_time": 1754917643,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204339,
@@ -1291,6 +1331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195838,
+      "num": 195838,
+      "word": "公司回应董事长仅17岁",
+      "onboard_time": 1754919083,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195814,
+      "num": 195814,
+      "word": "晚饭吃什么掉秤最快",
+      "onboard_time": 1754918362,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 195701,
       "num": 243529,
       "word": "百果园小心被消费者教育",
@@ -1384,14 +1440,6 @@
       "word": "外卖员取餐摸脸前台姑娘",
       "onboard_time": 1754897422,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186225,
-      "num": 186225,
-      "word": "00后女孩被高富帅男友骗至缅甸妙瓦底",
-      "onboard_time": 1754917343,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1723,6 +1771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153985,
+      "num": 153985,
+      "word": "肖珏一集吃了三回醋",
+      "onboard_time": 1754918843,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153410,
       "num": 153410,
       "word": "张艺兴老板范儿",
@@ -1755,20 +1811,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151710,
+      "num": 151710,
+      "word": "袁咏仪回应王栎鑫",
+      "onboard_time": 1754918902,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151559,
       "num": 151559,
       "word": "高智男女主选角最对味的一次",
       "onboard_time": 1754879541,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150945,
-      "num": 150945,
-      "word": "中100万刮刮乐女子说中的也不多",
-      "onboard_time": 1754917643,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149480,
@@ -2091,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130415,
+      "num": 130415,
+      "word": "张本智和下周重返世界前三",
+      "onboard_time": 1754919023,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130282,
       "num": 130282,
       "word": "台湾老人夸大陆好遭女儿殴打",
@@ -2137,6 +2201,14 @@
       "onboard_time": 1754883923,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127813,
+      "num": 140682,
+      "word": "特朗普誓言夺回首都",
+      "onboard_time": 1754917282,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127257,
@@ -2275,6 +2347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118010,
+      "num": 118010,
+      "word": "月亮",
+      "onboard_time": 1754918303,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116036,
       "num": 116036,
       "word": "刘宇宁第一次融入不了音乐",
@@ -2379,6 +2459,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 112377,
+      "num": 112377,
+      "word": "张予曦毕雯珺转角遇到爱",
+      "onboard_time": 1754919564,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112176,
       "num": 112176,
       "word": "王楚然往台上一站就是角儿",
@@ -2425,6 +2513,14 @@
       "onboard_time": 1754904562,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109206,
+      "num": 109206,
+      "word": "金条关税风波引发金价下跌",
+      "onboard_time": 1754919564,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 109098,
@@ -2601,14 +2697,6 @@
       "onboard_time": 1754887403,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 96131,
-      "num": 140682,
-      "word": "特朗普誓言夺回首都",
-      "onboard_time": 1754917282,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96042,
@@ -3003,20 +3091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54697,
+      "num": 277425,
+      "word": "领克10EM-P全系四驱索尔太顶了",
+      "onboard_time": 1754915602,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53580,
       "num": 258501,
       "word": "全民社保要来了吗",
       "onboard_time": 1754900242,
       "rank": 19,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 51722,
-      "num": 277425,
-      "word": "领克10EM-P全系四驱索尔太顶了",
-      "onboard_time": 1754915602,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 51066,
@@ -3049,14 +3137,6 @@
       "onboard_time": 1754854155,
       "rank": 37,
       "category": "体育,电竞"
-    },
-    {
-      "raw_hot": 48184,
-      "num": 145426,
-      "word": "菲方不要挑战中方的坚定决心",
-      "onboard_time": 1754917885,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46683,
