@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754922579465,
+  "endTime": 1754923734619,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -33,6 +33,14 @@
       "onboard_time": 1754881881,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1968504,
+      "num": 1968504,
+      "word": "泰国发现一女尸被锁链锁住脖子",
+      "onboard_time": 1754922385,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1883883,
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 790469,
+      "num": 790469,
+      "word": "张本说不能战胜王楚钦算什么男子汉",
+      "onboard_time": 1754920283,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 784954,
       "num": 570621,
       "word": "非婚生子女 育儿补贴",
@@ -273,6 +289,14 @@
       "onboard_time": 1754889262,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 745257,
+      "num": 745257,
+      "word": "喜单冠军 翟佳宁",
+      "onboard_time": 1754921784,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 741426,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 508897,
-      "num": 508897,
+      "num": 525219,
       "word": "菲方不要挑战中方的坚定决心",
       "onboard_time": 1754917885,
       "rank": 38,
@@ -473,14 +497,6 @@
       "onboard_time": 1754900721,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 493598,
-      "num": 493598,
-      "word": "张本说不能战胜王楚钦算什么男子汉",
-      "onboard_time": 1754920283,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 489109,
@@ -505,14 +521,6 @@
       "onboard_time": 1754911165,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476922,
-      "num": 476922,
-      "word": "喜单冠军 翟佳宁",
-      "onboard_time": 1754921784,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 474956,
@@ -545,6 +553,14 @@
       "onboard_time": 1754885362,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456490,
+      "num": 456490,
+      "word": "再见爱人",
+      "onboard_time": 1754921183,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 452425,
@@ -787,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344288,
-      "num": 344288,
-      "word": "再见爱人",
-      "onboard_time": 1754921183,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341366,
       "num": 283465,
       "word": "睡姿 焦虑",
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 336712,
-      "num": 336712,
+      "num": 522042,
       "word": "公司回应董事长仅17岁",
       "onboard_time": 1754919083,
       "rank": 27,
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289392,
+      "num": 289392,
+      "word": "丈夫生下私生女妻子告重婚罪被驳回",
+      "onboard_time": 1754922925,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277853,
       "num": 277853,
       "word": "章凝成为VOGUE US主编",
@@ -945,6 +961,14 @@
       "onboard_time": 1754848156,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 264491,
+      "num": 264491,
+      "word": "大理苍山失联男孩最新消息",
+      "onboard_time": 1754920884,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260875,
@@ -1099,12 +1123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224471,
+      "num": 224471,
+      "word": "女子称在洗浴店女浴区内撞见男子",
+      "onboard_time": 1754921303,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222050,
       "num": 222050,
       "word": "盛世天下定档9月",
       "onboard_time": 1754887825,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220628,
+      "num": 220628,
+      "word": "国乒不能只靠王楚钦独挑大梁",
+      "onboard_time": 1754922565,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 219802,
@@ -1419,14 +1459,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192715,
-      "num": 192715,
-      "word": "泰国发现一女尸被锁链锁住脖子",
-      "onboard_time": 1754922385,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 192527,
       "num": 192527,
       "word": "KPL年度总决赛鸟巢表演嘉宾",
@@ -1619,14 +1651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171062,
-      "num": 171062,
-      "word": "大理苍山失联男孩最新消息",
-      "onboard_time": 1754920884,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170092,
       "num": 170092,
       "word": "王楚钦11比4莫雷加德",
@@ -1712,14 +1736,6 @@
       "word": "沈阳一企业洗手液原料进入河道",
       "onboard_time": 1754889624,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164701,
-      "num": 164701,
-      "word": "女子称在洗浴店女浴区内撞见男子",
-      "onboard_time": 1754921303,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1921,6 +1937,14 @@
       "onboard_time": 1754893043,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148503,
+      "num": 148503,
+      "word": "买的边牧半夜下单第二天就到了",
+      "onboard_time": 1754922805,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 148309,
@@ -2147,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135882,
+      "num": 180169,
+      "word": "女生想要的情绪价值到底是什么",
+      "onboard_time": 1754920283,
+      "rank": 44,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 135180,
       "num": 135180,
       "word": "zb1卖玉米",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1754903483,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132906,
+      "num": 132906,
+      "word": "长沙一烧烤店被曝除蔬菜外全是冻货",
+      "onboard_time": 1754923044,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132517,
@@ -2427,12 +2467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122580,
-      "num": 122580,
-      "word": "女生想要的情绪价值到底是什么",
-      "onboard_time": 1754920283,
-      "rank": 44,
-      "category": "情感,网红"
+      "raw_hot": 119973,
+      "num": 119973,
+      "word": "英国女子1500英镑将脸卖给了AI",
+      "onboard_time": 1754923705,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119819,
@@ -3299,6 +3339,14 @@
       "category": "体育,电竞"
     },
     {
+      "raw_hot": 48098,
+      "num": 181836,
+      "word": "警方回应端面时手指浸入面汤引发冲突",
+      "onboard_time": 1754923586,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46683,
       "num": 270854,
       "word": "梁朝伟每一步都舒适",
@@ -3395,6 +3443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 38513,
+      "num": 133643,
+      "word": "男子发评论被拘案涉事官员被双开",
+      "onboard_time": 1754922685,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37463,
       "num": 53798,
       "word": "左航隔壁没用完的脑子带来披荆斩棘了",
@@ -3451,19 +3507,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34956,
+      "num": 194071,
+      "word": "发布12字评论被拘5日当事男子发声",
+      "onboard_time": 1754922085,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33730,
       "num": 140002,
       "word": "合金首饰 高毒性重金属超标",
       "onboard_time": 1754902282,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32417,
-      "num": 194071,
-      "word": "发布12字评论被拘5日当事男子发声",
-      "onboard_time": 1754922085,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
