@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754908333228,
+  "endTime": 1754909329963,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1939,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4744068,
+      "num": 4744068,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1742102605,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4703448,
       "num": 5953448,
       "word": "王楚钦重庆赛夺冠",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1745372422,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3946933,
-      "num": 3946933,
-      "word": "歌手晋级",
-      "onboard_time": 1754057303,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

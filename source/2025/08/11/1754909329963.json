@@ -1,0 +1,410 @@
+{
+  "runTime": 1754909329963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4744068,
+        "num": 4744068,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1754905463,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 942389,
+        "num": 942389,
+        "word": "陈幸同冠军",
+        "onboard_time": 1754905224,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32557,
+        "num": 696176,
+        "word": "成都世运会点火女孩滑水摘金",
+        "onboard_time": 1754901862,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663864,
+        "num": 663864,
+        "word": "菲律宾",
+        "onboard_time": 1754901862,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 637682,
+        "num": 637682,
+        "word": "从毫无征兆到确诊尿毒症",
+        "onboard_time": 1754900062,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 635192,
+        "num": 635192,
+        "word": "泡泡玛特 周深",
+        "onboard_time": 1754906303,
+        "rank": 5,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 591716,
+        "num": 591716,
+        "word": "孙颖莎亚军",
+        "onboard_time": 1754905282,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576952,
+        "num": 576952,
+        "word": "孙颖莎状态",
+        "onboard_time": 1754905163,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390675,
+        "num": 390675,
+        "word": "汪苏泷张碧晨参加东方风云榜",
+        "onboard_time": 1754900662,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344537,
+        "num": 344537,
+        "word": "披哥导演让许魏洲别既要又要还要",
+        "onboard_time": 1754905644,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 837761,
+        "num": 343792,
+        "word": "王栎鑫苏醒吵架",
+        "onboard_time": 1754895322,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741847,
+        "num": 338381,
+        "word": "生育损伤",
+        "onboard_time": 1754902583,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 489596,
+        "num": 334118,
+        "word": "第一次见粉丝塌房",
+        "onboard_time": 1754893343,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424191,
+        "num": 332190,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328353,
+        "num": 328353,
+        "word": "秦岭失联约半个月的驴友找到了",
+        "onboard_time": 1754899760,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319887,
+        "num": 319887,
+        "word": "中国海警依法对菲船予以驱离",
+        "onboard_time": 1754892082,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317905,
+        "num": 317905,
+        "word": "花少神一季鬼一季",
+        "onboard_time": 1754899522,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269231,
+        "num": 312252,
+        "word": "朴彩英也给Jennie打码了",
+        "onboard_time": 1754894182,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309918,
+        "num": 309918,
+        "word": "黄岩岛",
+        "onboard_time": 1754907503,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24768,
+        "num": 234500,
+        "word": "尚公主饭制预告",
+        "onboard_time": 1754908702,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625641,
+        "num": 233737,
+        "word": "黄金",
+        "onboard_time": 1754896162,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227623,
+        "num": 227623,
+        "word": "很哇噻的肖战",
+        "onboard_time": 1754906903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224790,
+        "num": 224790,
+        "word": "女孩遭轿车撞倒碾压后起身站立",
+        "onboard_time": 1754898323,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206225,
+        "num": 206225,
+        "word": "37岁发现自己断崖式衰老了",
+        "onboard_time": 1754900721,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189325,
+        "num": 189325,
+        "word": "王玉雯 不是故意炒cp的",
+        "onboard_time": 1754897724,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183307,
+        "num": 183307,
+        "word": "24岁女孩勇闯王婆说媒大胆求爱",
+        "onboard_time": 1754908942,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169265,
+        "num": 169265,
+        "word": "社保",
+        "onboard_time": 1754896462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45887,
+        "num": 163560,
+        "word": "女子回应进店避雨顺手刮中100万",
+        "onboard_time": 1754909121,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161033,
+        "num": 161033,
+        "word": "陈幸同会请大家吃饭",
+        "onboard_time": 1754907681,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131435,
+        "num": 156134,
+        "word": "锦月如歌12集好绝的5分钟",
+        "onboard_time": 1754908942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152426,
+        "num": 152426,
+        "word": "拿两份工资的退休人",
+        "onboard_time": 1754907922,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150526,
+        "num": 150526,
+        "word": "巴勒斯坦的球王贝利被以军炸死",
+        "onboard_time": 1754902343,
+        "rank": 31,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 144974,
+        "num": 144974,
+        "word": "陈幸同回应夺冠",
+        "onboard_time": 1754908402,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125426,
+        "num": 125426,
+        "word": "离火重生 包上恩张康乐",
+        "onboard_time": 1754908341,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124379,
+        "num": 124379,
+        "word": "日本东京举行反靖国神社游行",
+        "onboard_time": 1754906003,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123005,
+        "num": 123005,
+        "word": "水火锅是什么火锅",
+        "onboard_time": 1754908522,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122212,
+        "num": 122212,
+        "word": "苏韦达医院大屠杀",
+        "onboard_time": 1754896043,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122717,
+        "num": 121667,
+        "word": "闺蜜你真的把我养的很差",
+        "onboard_time": 1754909303,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118497,
+        "num": 118497,
+        "word": "光与夜之恋",
+        "onboard_time": 1754892442,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49348,
+        "num": 116641,
+        "word": "大鱼海棠祝贺浪浪山小妖怪登顶",
+        "onboard_time": 1754908222,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115257,
+        "num": 115257,
+        "word": "樊振东晒第一只棒球手套",
+        "onboard_time": 1754907262,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110199,
+        "num": 115006,
+        "word": "古风厕所",
+        "onboard_time": 1754908522,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109015,
+        "num": 114919,
+        "word": "赵今麦一天五套造型",
+        "onboard_time": 1754905822,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114883,
+        "num": 114883,
+        "word": "苏醒让王铮亮张远打一架",
+        "onboard_time": 1754903362,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113172,
+        "num": 113172,
+        "word": "龚俊王玉雯撞睡衣了",
+        "onboard_time": 1754896944,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112163,
+        "num": 112163,
+        "word": "这房子给人又穷又有钱的感觉",
+        "onboard_time": 1754909241,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109628,
+        "num": 109628,
+        "word": "河南一中学官方账号回复引争议",
+        "onboard_time": 1754904202,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106736,
+        "num": 106736,
+        "word": "Tim荒岛直播100小时观众吵翻",
+        "onboard_time": 1754909241,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99179,
+        "num": 106582,
+        "word": "陶白白前妻和现任分手",
+        "onboard_time": 1754889262,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95014,
+        "num": 105612,
+        "word": "奇遇值",
+        "onboard_time": 1754907801,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}

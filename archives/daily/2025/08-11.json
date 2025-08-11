@@ -1,21 +1,21 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754908333228,
+  "endTime": 1754909329963,
   "band_list": [
+    {
+      "raw_hot": 4744068,
+      "num": 4744068,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1754905463,
+      "rank": 29,
+      "category": "体育"
+    },
     {
       "raw_hot": 2399471,
       "num": 2399471,
       "word": "孙颖莎vs陈幸同",
       "onboard_time": 1754900662,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2387316,
-      "num": 2387316,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1754905463,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344537,
+      "num": 344537,
+      "word": "披哥导演让许魏洲别既要又要还要",
+      "onboard_time": 1754905644,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341366,
       "num": 283465,
       "word": "睡姿 焦虑",
@@ -609,6 +617,14 @@
       "onboard_time": 1754900062,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309918,
+      "num": 309918,
+      "word": "黄岩岛",
+      "onboard_time": 1754907503,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 309509,
@@ -683,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278298,
-      "num": 278298,
-      "word": "披哥导演让许魏洲别既要又要还要",
-      "onboard_time": 1754905644,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277853,
       "num": 277853,
       "word": "章凝成为VOGUE US主编",
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227623,
+      "num": 247443,
+      "word": "很哇噻的肖战",
+      "onboard_time": 1754906903,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226386,
       "num": 132753,
       "word": "麦琳直播哭了",
@@ -771,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225279,
-      "num": 247443,
-      "word": "很哇噻的肖战",
-      "onboard_time": 1754906903,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 224790,
+      "num": 587153,
+      "word": "女孩遭轿车撞倒碾压后起身站立",
+      "onboard_time": 1754898323,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224733,
@@ -841,14 +857,6 @@
       "onboard_time": 1754892082,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212551,
-      "num": 212551,
-      "word": "黄岩岛",
-      "onboard_time": 1754907503,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 210542,
@@ -1107,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183307,
+      "num": 183307,
+      "word": "24岁女孩勇闯王婆说媒大胆求爱",
+      "onboard_time": 1754908942,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183154,
       "num": 183154,
       "word": "陈赫一人带七娃",
@@ -1363,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152426,
+      "num": 152426,
+      "word": "拿两份工资的退休人",
+      "onboard_time": 1754907922,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152294,
       "num": 204852,
       "word": "魏大勋智性恋天菜",
@@ -1451,20 +1475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145483,
-      "num": 587153,
-      "word": "女孩遭轿车撞倒碾压后起身站立",
-      "onboard_time": 1754898323,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145329,
       "num": 145329,
       "word": "陈奕迅",
       "onboard_time": 1754867418,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144974,
+      "num": 144974,
+      "word": "陈幸同回应夺冠",
+      "onboard_time": 1754908402,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 144799,
@@ -1627,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131435,
+      "num": 156134,
+      "word": "锦月如歌12集好绝的5分钟",
+      "onboard_time": 1754908942,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130282,
       "num": 130282,
       "word": "台湾老人夸大陆好遭女儿殴打",
@@ -1699,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125426,
+      "num": 125426,
+      "word": "离火重生 包上恩张康乐",
+      "onboard_time": 1754908341,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125190,
       "num": 284980,
       "word": "王一博正式确诊为赛博红牛",
@@ -1731,11 +1771,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122927,
-      "num": 122927,
-      "word": "拿两份工资的退休人",
-      "onboard_time": 1754907922,
-      "rank": 36,
+      "raw_hot": 123005,
+      "num": 123005,
+      "word": "水火锅是什么火锅",
+      "onboard_time": 1754908522,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 122717,
+      "num": 121667,
+      "word": "闺蜜你真的把我养的很差",
+      "onboard_time": 1754909303,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -1761,6 +1809,14 @@
       "onboard_time": 1754883862,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118497,
+      "num": 118497,
+      "word": "光与夜之恋",
+      "onboard_time": 1754892442,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 116036,
@@ -1875,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112163,
+      "num": 112163,
+      "word": "这房子给人又穷又有钱的感觉",
+      "onboard_time": 1754909241,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111118,
       "num": 111118,
       "word": "时代少年团上海站有中控",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1754899463,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110199,
+      "num": 115006,
+      "word": "古风厕所",
+      "onboard_time": 1754908522,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 110054,
@@ -1961,6 +2033,14 @@
       "onboard_time": 1754907743,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106736,
+      "num": 106736,
+      "word": "Tim荒岛直播100小时观众吵翻",
+      "onboard_time": 1754909241,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 106474,
@@ -2475,6 +2555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49348,
+      "num": 116641,
+      "word": "大鱼海棠祝贺浪浪山小妖怪登顶",
+      "onboard_time": 1754908222,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48210,
       "num": 62539,
       "word": "WTT横滨冠军赛2025",
@@ -2497,6 +2585,14 @@
       "onboard_time": 1754845158,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45887,
+      "num": 163560,
+      "word": "女子回应进店避雨顺手刮中100万",
+      "onboard_time": 1754909121,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44549,
@@ -2667,20 +2763,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25353,
-      "num": 113743,
-      "word": "大鱼海棠祝贺浪浪山小妖怪登顶",
-      "onboard_time": 1754908222,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 24867,
       "num": 35161,
       "word": "汪苏泷唱了你最近好吗",
       "onboard_time": 1754850376,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24768,
+      "num": 234500,
+      "word": "尚公主饭制预告",
+      "onboard_time": 1754908702,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 23884,
