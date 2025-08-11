@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/11 19:25:35
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/11 19:40:57
 </p>
 </blockquote>
 <p>
@@ -1527,6 +1527,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BA%9A%E5%86%9B%23" target="weibo">
+王楚钦亚军（热度：4603920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%87%AA%E8%BF%B0%E5%89%83%E5%A4%B4%E8%BF%87%E7%A8%8B%23" target="weibo">
 演员王星在飞机上自述剃头过程（热度：4591252）
 </a>
@@ -1805,12 +1811,6 @@ X玖少年团成员去前缀（热度：4040259）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B0%91%E5%8D%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 杨少华去世（热度：3968193）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E4%B9%92%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD%23" target="weibo">
-马龙乒协副主席（热度：3957531）
 </a>
 </li>
 
