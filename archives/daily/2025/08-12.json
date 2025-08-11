@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754937708924,
+  "endTime": 1754938494270,
   "band_list": [
     {
       "raw_hot": 1158017,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95643,
+      "num": 95643,
+      "word": "papi酱你们谁要再见啊",
+      "onboard_time": 1754934556,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95582,
       "num": 95582,
       "word": "国乒不能只靠王楚钦独挑大梁",
@@ -297,14 +305,6 @@
       "onboard_time": 1754924784,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94931,
-      "num": 94931,
-      "word": "papi酱你们谁要再见啊",
-      "onboard_time": 1754934556,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 94123,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59814,
+      "num": 59814,
+      "word": "王星越不收礼物更不收孩子",
+      "onboard_time": 1754933836,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 57962,
       "num": 57962,
       "word": "喻言草原藏服大片",
@@ -441,14 +449,6 @@
       "onboard_time": 1754932158,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 53504,
-      "num": 53504,
-      "word": "王星越不收礼物更不收孩子",
-      "onboard_time": 1754933836,
-      "rank": 38,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 35531,

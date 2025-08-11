@@ -1,0 +1,410 @@
+{
+  "runTime": 1754938494270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 237242,
+        "num": 237242,
+        "word": "台7岁女童火化前舌头咽喉不见了",
+        "onboard_time": 1754926522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188000,
+        "num": 188000,
+        "word": "赵露思直播喊话银河酷娱",
+        "onboard_time": 1754923885,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1252,
+        "num": 175491,
+        "word": "相约成都遇见万千精彩",
+        "onboard_time": 1754572223,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173907,
+        "num": 173907,
+        "word": "网红万洁曝育儿嫂凌晨粗暴翻身婴儿",
+        "onboard_time": 1754929461,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140812,
+        "num": 140812,
+        "word": "特朗普宣布首都进入紧急状态",
+        "onboard_time": 1754925564,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117637,
+        "num": 117637,
+        "word": "泰国发现一女尸被锁链锁住脖子",
+        "onboard_time": 1754922385,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104052,
+        "num": 104052,
+        "word": "韩国人以为沈佳润是财阀千金",
+        "onboard_time": 1754911045,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104000,
+        "num": 104000,
+        "word": "李维嘉录再见爱人哭了15个小时",
+        "onboard_time": 1754916741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97748,
+        "num": 97748,
+        "word": "丈夫生下私生女妻子告重婚罪被驳回",
+        "onboard_time": 1754922925,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95643,
+        "num": 95643,
+        "word": "papi酱你们谁要再见啊",
+        "onboard_time": 1754934556,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92751,
+        "num": 92751,
+        "word": "张本智和称应重新审视暂停规则",
+        "onboard_time": 1754928321,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86971,
+        "num": 86971,
+        "word": "很体面但工资不高的工作",
+        "onboard_time": 1754924245,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65359,
+        "num": 65359,
+        "word": "昊恺质问UZI",
+        "onboard_time": 1754916203,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65229,
+        "num": 65229,
+        "word": "sana回应与权志龙恋爱传闻",
+        "onboard_time": 1754912186,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59814,
+        "num": 59814,
+        "word": "王星越不收礼物更不收孩子",
+        "onboard_time": 1754933836,
+        "rank": 14,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 57121,
+        "num": 57121,
+        "word": "菲律宾",
+        "onboard_time": 1754901862,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54271,
+        "num": 54271,
+        "word": "菲方不要挑战中方的坚定决心",
+        "onboard_time": 1754917885,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51935,
+        "num": 51935,
+        "word": "王楚钦亚军",
+        "onboard_time": 1754910807,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50296,
+        "num": 50296,
+        "word": "喜单冠军 翟佳宁",
+        "onboard_time": 1754921784,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43568,
+        "num": 43568,
+        "word": "特朗普或派兵出国扫毒",
+        "onboard_time": 1754927002,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40720,
+        "num": 40720,
+        "word": "赵露思说当初签银河酷娱是不想红",
+        "onboard_time": 1754924305,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38874,
+        "num": 38874,
+        "word": "苍山失联男童参加的夏令营一周3800元",
+        "onboard_time": 1754931140,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38607,
+        "num": 38607,
+        "word": "张馨予妈妈给她睡了扁头",
+        "onboard_time": 1754913023,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37594,
+        "num": 37594,
+        "word": "温哥华超市偶遇王祖贤",
+        "onboard_time": 1754931798,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37215,
+        "num": 37215,
+        "word": "黄岩岛",
+        "onboard_time": 1754907503,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36785,
+        "num": 36785,
+        "word": "Uzi微博上线了",
+        "onboard_time": 1754929042,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35641,
+        "num": 35641,
+        "word": "美军方拟向华盛顿特区派遣国民警卫队",
+        "onboard_time": 1754927062,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34966,
+        "num": 34966,
+        "word": "再见爱人",
+        "onboard_time": 1754921183,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31606,
+        "num": 31606,
+        "word": "国乒不能只靠王楚钦独挑大梁",
+        "onboard_time": 1754922565,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30863,
+        "num": 30863,
+        "word": "瞧瞧黄磊把宋丹丹毒成什么样了",
+        "onboard_time": 1754913323,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30717,
+        "num": 30717,
+        "word": "公司回应董事长仅17岁",
+        "onboard_time": 1754919083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30260,
+        "num": 30260,
+        "word": "官方回应女子被殴打后又被推进面包车",
+        "onboard_time": 1754932158,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 30216,
+        "num": 30216,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1754905463,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30078,
+        "num": 30078,
+        "word": "大理苍山失联男孩最新消息",
+        "onboard_time": 1754920884,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28354,
+        "num": 28354,
+        "word": "陈楚生歌王为何引争议",
+        "onboard_time": 1754918003,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27176,
+        "num": 27176,
+        "word": "人生最经不起的就是等",
+        "onboard_time": 1754935936,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25501,
+        "num": 25501,
+        "word": "恋综史上最尴尬的2分半",
+        "onboard_time": 1754912904,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25322,
+        "num": 25322,
+        "word": "TWS韩振吃蛋挞被韩网审判",
+        "onboard_time": 1754915663,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25272,
+        "num": 25272,
+        "word": "孙燕姿粉丝cos孙燕姿",
+        "onboard_time": 1754929701,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24916,
+        "num": 24916,
+        "word": "枭起青壤",
+        "onboard_time": 1754910506,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24755,
+        "num": 24755,
+        "word": "你的降临",
+        "onboard_time": 1754925923,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24639,
+        "num": 24639,
+        "word": "台7岁女童火化前舌头咽喉消失",
+        "onboard_time": 1754937015,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24472,
+        "num": 24472,
+        "word": "中100万刮刮乐女子说中的也不多",
+        "onboard_time": 1754917643,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24116,
+        "num": 24116,
+        "word": "00后女孩被高富帅男友骗至缅甸妙瓦底",
+        "onboard_time": 1754917343,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23739,
+        "num": 23739,
+        "word": "台湾男继承养母百万遗产13年想断亲",
+        "onboard_time": 1754924784,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23674,
+        "num": 23674,
+        "word": "孙颖莎亚军",
+        "onboard_time": 1754905282,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22993,
+        "num": 22993,
+        "word": "钮钴禄王一博",
+        "onboard_time": 1754911763,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22627,
+        "num": 22627,
+        "word": "卖地摊火锅32元一斤猪肉保证久煮不老",
+        "onboard_time": 1754924305,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22237,
+        "num": 22237,
+        "word": "女子称在洗浴店女浴区内撞见男子",
+        "onboard_time": 1754921303,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22172,
+        "num": 22172,
+        "word": "67岁阿姨国外骑行遇骚扰剃光头发",
+        "onboard_time": 1754925085,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}

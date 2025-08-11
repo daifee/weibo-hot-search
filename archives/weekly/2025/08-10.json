@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754937708924,
+  "endTime": 1754938494270,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -6091,20 +6091,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95643,
+      "num": 95643,
+      "word": "papi酱你们谁要再见啊",
+      "onboard_time": 1754934556,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95475,
       "num": 95475,
       "word": "昆凌把周杰伦裁掉了",
       "onboard_time": 1754723241,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94931,
-      "num": 94931,
-      "word": "papi酱你们谁要再见啊",
-      "onboard_time": 1754934556,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 94767,
@@ -6731,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59814,
+      "num": 59814,
+      "word": "王星越不收礼物更不收孩子",
+      "onboard_time": 1754933836,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 59071,
       "num": 179296,
       "word": "660万彩票大奖今日截止兑奖",
@@ -6801,14 +6809,6 @@
       "onboard_time": 1754900242,
       "rank": 19,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 53504,
-      "num": 53504,
-      "word": "王星越不收礼物更不收孩子",
-      "onboard_time": 1754933836,
-      "rank": 38,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 52558,
