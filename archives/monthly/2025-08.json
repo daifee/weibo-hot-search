@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754869256414,
+  "endTime": 1754878450565,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1087405,
+      "num": 1173984,
+      "word": "日本麦当劳乱象",
+      "onboard_time": 1754874381,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1082783,
       "num": 1082783,
       "word": "于正说可以和赵露思合伙开面馆",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1754351662,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 963163,
+      "num": 963163,
+      "word": "麦琳称录完再见爱人过得不好",
+      "onboard_time": 1754871441,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 961743,
@@ -2668,7 +2684,7 @@
     },
     {
       "raw_hot": 791871,
-      "num": 138081,
+      "num": 346272,
       "word": "张本智和取关早田希娜",
       "onboard_time": 1754867958,
       "rank": 10,
@@ -5923,12 +5939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427781,
+      "num": 427781,
+      "word": "演唱会迟到被汪苏泷抓个正着",
+      "onboard_time": 1754870179,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 426704,
       "num": 253572,
       "word": "王源",
       "onboard_time": 1754412140,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426113,
+      "num": 412330,
+      "word": "电视剧无可替代开机",
+      "onboard_time": 1754876061,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 425727,
@@ -6059,6 +6091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417182,
+      "num": 417182,
+      "word": "墨镜大爷救人后又被一群人救了",
+      "onboard_time": 1754874920,
+      "rank": 4,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 417050,
       "num": 458521,
       "word": "狗群闯入养鸡场咬死600只鸡",
@@ -6097,6 +6137,14 @@
       "onboard_time": 1754712742,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 414230,
+      "num": 347606,
+      "word": "在美中国古籍被华裔掉包带出",
+      "onboard_time": 1754872161,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412366,
@@ -6419,6 +6467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393839,
+      "num": 346996,
+      "word": "陶白白回应疑似鹿角新恋情",
+      "onboard_time": 1754873662,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 393506,
       "num": 393506,
       "word": "山东一彩民花69元中2.4亿元",
@@ -6609,6 +6665,14 @@
       "onboard_time": 1754492365,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383814,
+      "num": 383814,
+      "word": "孙颖莎vs石洵瑶",
+      "onboard_time": 1754875700,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 383803,
@@ -8099,6 +8163,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 303221,
+      "num": 303221,
+      "word": "早春晴朗 开机",
+      "onboard_time": 1754870782,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302858,
       "num": 302858,
       "word": "全新小鹏P7太高级了",
@@ -9387,6 +9459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258568,
+      "num": 258568,
+      "word": "迪丽热巴 VOGUE金九",
+      "onboard_time": 1754869459,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 258400,
       "num": 216379,
       "word": "张若昀父亲被恢复执行3.5亿",
@@ -9803,6 +9883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245387,
+      "num": 159721,
+      "word": "日本前国脚为否认南京大屠杀道歉",
+      "onboard_time": 1754875221,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 245319,
       "num": 110079,
       "word": "女子在酒店半裸工作陌生男子刷卡进入",
@@ -9865,6 +9953,14 @@
       "onboard_time": 1754142091,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243591,
+      "num": 243591,
+      "word": "子夜归",
+      "onboard_time": 1754562323,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 243447,
@@ -16395,6 +16491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 164192,
+      "num": 164192,
+      "word": "日照爷爷每周带孙子坐4小时车到青岛",
+      "onboard_time": 1754869400,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164170,
       "num": 136346,
       "word": "李昀锐 古装适配度",
@@ -18843,6 +18947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148286,
+      "num": 148286,
+      "word": "毕雯珺怒斥代拍",
+      "onboard_time": 1754870900,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148284,
       "num": 170943,
       "word": "偶遇曾辉韩雨彤",
@@ -20395,6 +20507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139290,
+      "num": 348284,
+      "word": "泡泡玛特泰国店被指撞脸名创优品",
+      "onboard_time": 1754872280,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139281,
       "num": 139281,
       "word": "灵笼2内核的境界",
@@ -20433,6 +20553,14 @@
       "onboard_time": 1754456724,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139147,
+      "num": 139147,
+      "word": "鹿角现任",
+      "onboard_time": 1754870601,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 139118,
@@ -20955,19 +21083,19 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 136772,
+      "num": 136772,
+      "word": "陈乔恩说上镜胖3斤",
+      "onboard_time": 1754873301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136719,
       "num": 136719,
       "word": "黄俊捷这张脸早该演现偶了",
       "onboard_time": 1754112022,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 136651,
-      "num": 144785,
-      "word": "子夜归",
-      "onboard_time": 1754562323,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -22449,6 +22577,14 @@
       "onboard_time": 1754812460,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129605,
+      "num": 129605,
+      "word": "只有考过驾照的才知道她说的有多真",
+      "onboard_time": 1754872280,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 129580,
@@ -24659,6 +24795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "以色列已批准占领加沙城计划",
+      "onboard_time": 1754871201,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119368,
       "num": 213690,
       "word": "樊振东眼神再看仍震撼",
@@ -25523,6 +25667,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 114932,
+      "num": 114932,
+      "word": "刘诗诗爱丽儿公主",
+      "onboard_time": 1754876480,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114920,
       "num": 114920,
       "word": "丞磊的薄肌又来going我了",
@@ -25585,6 +25737,14 @@
       "onboard_time": 1754209885,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114679,
+      "num": 114679,
+      "word": "邓超女儿最近迷上了卡拉ok",
+      "onboard_time": 1754869819,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 114664,
@@ -26947,6 +27107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107842,
+      "num": 107842,
+      "word": "坐月子需要100天",
+      "onboard_time": 1754870000,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 107743,
       "num": 107743,
       "word": "体彩回应782万大奖无人认领",
@@ -27009,6 +27177,14 @@
       "onboard_time": 1754376682,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107273,
+      "num": 107273,
+      "word": "小酒窝管乐旋转跳跃一下",
+      "onboard_time": 1754876061,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 107215,
@@ -27931,12 +28107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101214,
+      "num": 101214,
+      "word": "聋猫突然看到人的反应",
+      "onboard_time": 1754876961,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101180,
       "num": 101180,
       "word": "猫 日子怎么可能和谁过都一样",
       "onboard_time": 1754646502,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101069,
+      "num": 101069,
+      "word": "老人走失近20小时狗狗一直陪伴左右",
+      "onboard_time": 1754870841,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101014,
@@ -29387,6 +29579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90274,
+      "num": 90274,
+      "word": "孙亦航回应恋情",
+      "onboard_time": 1754869459,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90230,
       "num": 90230,
       "word": "李兰迪敖瑞鹏或二搭不二之臣",
@@ -29681,6 +29881,14 @@
       "onboard_time": 1754664446,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87431,
+      "num": 87431,
+      "word": "缅怀抗战先烈",
+      "onboard_time": 1754877441,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87371,
@@ -30099,6 +30307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83527,
+      "num": 83527,
+      "word": "胖东来回应招聘刑释人员",
+      "onboard_time": 1754877680,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83523,
       "num": 83523,
       "word": "韩国拟取消美容整形增值税退税",
@@ -30283,6 +30499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 81019,
+      "num": 81019,
+      "word": "五条悟燃王",
+      "onboard_time": 1754873481,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 81009,
       "num": 121224,
       "word": "台湾姑娘分享对大陆喜爱遭恶意攻击",
@@ -30337,6 +30561,14 @@
       "onboard_time": 1754562263,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80696,
+      "num": 80696,
+      "word": "无可替代",
+      "onboard_time": 1754868439,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 80444,
@@ -30481,6 +30713,14 @@
       "onboard_time": 1754617883,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77974,
+      "num": 77974,
+      "word": "女子遛狗未拴绳被轧后失控发飙",
+      "onboard_time": 1754878280,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77973,
@@ -31051,6 +31291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69216,
+      "num": 69216,
+      "word": "宁德时代宜春锂云母矿准时停产",
+      "onboard_time": 1754874441,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69194,
       "num": 166274,
       "word": "3人泄露台积电2纳米技术被羁押",
@@ -31299,6 +31547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 65923,
+      "num": 65923,
+      "word": "早餐摄入低碳水全天血糖都稳住",
+      "onboard_time": 1754863934,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65883,
       "num": 286254,
       "word": "歌手特产原来是酸酸乳",
@@ -31531,14 +31787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 62941,
-      "num": 62941,
-      "word": "早餐摄入低碳水全天血糖都稳住",
-      "onboard_time": 1754863934,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 62923,
       "num": 62923,
       "word": "江西这个景区藏着亚洲最长扶梯",
@@ -31705,6 +31953,14 @@
       "onboard_time": 1754175857,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 60129,
+      "num": 60129,
+      "word": "九头身裁判震惊自己世运会爆火",
+      "onboard_time": 1754834003,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60008,
@@ -33267,14 +33523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39238,
-      "num": 62544,
-      "word": "无可替代",
-      "onboard_time": 1754868439,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39229,
       "num": 1098691,
       "word": "立秋迎世运",
@@ -34219,6 +34467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26229,
+      "num": 81516,
+      "word": "虞书欣这个比例绝了",
+      "onboard_time": 1754878340,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26160,
       "num": 190000,
       "word": "72岁老人放羊遭黑熊袭击进ICU",
@@ -34251,6 +34507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25586,
+      "num": 493736,
+      "word": "来天津感受河海津韵",
+      "onboard_time": 1754831362,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25564,
       "num": 122496,
       "word": "养生馆  小分子水",
@@ -34281,6 +34545,14 @@
       "onboard_time": 1754754384,
       "rank": 48,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 25299,
+      "num": 82223,
+      "word": "朱正廷的含金量还在上升",
+      "onboard_time": 1754878340,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 25273,
@@ -34393,14 +34665,6 @@
       "onboard_time": 1754419335,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24021,
-      "num": 383311,
-      "word": "来天津感受河海津韵",
-      "onboard_time": 1754831362,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24019,

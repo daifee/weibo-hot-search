@@ -1,7 +1,23 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754869256414,
+  "endTime": 1754878450565,
   "band_list": [
+    {
+      "raw_hot": 1087405,
+      "num": 1173984,
+      "word": "日本麦当劳乱象",
+      "onboard_time": 1754874381,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 963163,
+      "num": 963163,
+      "word": "麦琳称录完再见爱人过得不好",
+      "onboard_time": 1754871441,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 814259,
       "num": 888632,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 791871,
-      "num": 138081,
+      "num": 346272,
       "word": "张本智和取关早田希娜",
       "onboard_time": 1754867958,
       "rank": 10,
@@ -41,6 +57,54 @@
       "onboard_time": 1754839103,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427781,
+      "num": 427781,
+      "word": "演唱会迟到被汪苏泷抓个正着",
+      "onboard_time": 1754870179,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 426113,
+      "num": 412330,
+      "word": "电视剧无可替代开机",
+      "onboard_time": 1754876061,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 417182,
+      "num": 417182,
+      "word": "墨镜大爷救人后又被一群人救了",
+      "onboard_time": 1754874920,
+      "rank": 4,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 414230,
+      "num": 347606,
+      "word": "在美中国古籍被华裔掉包带出",
+      "onboard_time": 1754872161,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393839,
+      "num": 346996,
+      "word": "陶白白回应疑似鹿角新恋情",
+      "onboard_time": 1754873662,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 383814,
+      "num": 383814,
+      "word": "孙颖莎vs石洵瑶",
+      "onboard_time": 1754875700,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 382956,
@@ -99,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303221,
+      "num": 303221,
+      "word": "早春晴朗 开机",
+      "onboard_time": 1754870782,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302559,
       "num": 302559,
       "word": "商家称外卖大战月亏超万元",
@@ -123,12 +195,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 258568,
+      "num": 258568,
+      "word": "迪丽热巴 VOGUE金九",
+      "onboard_time": 1754869459,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 251182,
       "num": 251182,
       "word": "社保新规对打工人有何影响",
       "onboard_time": 1754835805,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245387,
+      "num": 159721,
+      "word": "日本前国脚为否认南京大屠杀道歉",
+      "onboard_time": 1754875221,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 243591,
+      "num": 243591,
+      "word": "子夜归",
+      "onboard_time": 1754876181,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 226386,
@@ -187,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164192,
+      "num": 164192,
+      "word": "日照爷爷每周带孙子坐4小时车到青岛",
+      "onboard_time": 1754869400,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155869,
       "num": 134428,
       "word": "张晋和蔡少芬国外旅行突发心脏病",
@@ -200,6 +304,14 @@
       "word": "虞书欣机场私服好健康的美",
       "onboard_time": 1754831663,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148286,
+      "num": 148286,
+      "word": "毕雯珺怒斥代拍",
+      "onboard_time": 1754870900,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -227,12 +339,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139290,
+      "num": 348284,
+      "word": "泡泡玛特泰国店被指撞脸名创优品",
+      "onboard_time": 1754872280,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139147,
+      "num": 139147,
+      "word": "鹿角现任",
+      "onboard_time": 1754870601,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 136772,
+      "num": 136772,
+      "word": "陈乔恩说上镜胖3斤",
+      "onboard_time": 1754873301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131997,
       "num": 131997,
       "word": "幼童爬到13层阳台外悬空玩引体向上",
       "onboard_time": 1754843960,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129605,
+      "num": 129605,
+      "word": "只有考过驾照的才知道她说的有多真",
+      "onboard_time": 1754872280,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 127257,
@@ -251,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119415,
+      "num": 119415,
+      "word": "以色列已批准占领加沙城计划",
+      "onboard_time": 1754871201,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115582,
       "num": 115582,
       "word": "社区盾杯",
@@ -259,12 +411,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114932,
+      "num": 114932,
+      "word": "刘诗诗爱丽儿公主",
+      "onboard_time": 1754876480,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114679,
+      "num": 114679,
+      "word": "邓超女儿最近迷上了卡拉ok",
+      "onboard_time": 1754869819,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109098,
       "num": 109098,
       "word": "土耳其6.3级地震",
       "onboard_time": 1754848156,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107842,
+      "num": 107842,
+      "word": "坐月子需要100天",
+      "onboard_time": 1754870000,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 107273,
+      "num": 107273,
+      "word": "小酒窝管乐旋转跳跃一下",
+      "onboard_time": 1754876061,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 104619,
@@ -291,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101214,
+      "num": 101214,
+      "word": "聋猫突然看到人的反应",
+      "onboard_time": 1754876961,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101069,
+      "num": 101069,
+      "word": "老人走失近20小时狗狗一直陪伴左右",
+      "onboard_time": 1754870841,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96042,
       "num": 96042,
       "word": "男子疑将660万彩票丢进洗衣机",
@@ -312,6 +512,14 @@
       "word": "于正说赵露思很好",
       "onboard_time": 1754834123,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90274,
+      "num": 90274,
+      "word": "孙亦航回应恋情",
+      "onboard_time": 1754869459,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -355,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87431,
+      "num": 87431,
+      "word": "缅怀抗战先烈",
+      "onboard_time": 1754877441,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85424,
       "num": 85424,
       "word": "感到疲惫要主动扔掉这2样东西",
@@ -371,12 +587,36 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 83527,
+      "num": 83527,
+      "word": "胖东来回应招聘刑释人员",
+      "onboard_time": 1754877680,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82106,
       "num": 82106,
       "word": "周深唱了两首贾玲电影的代表曲",
       "onboard_time": 1754838683,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81019,
+      "num": 81019,
+      "word": "五条悟燃王",
+      "onboard_time": 1754873481,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 80696,
+      "num": 80696,
+      "word": "无可替代",
+      "onboard_time": 1754868439,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 80053,
@@ -393,6 +633,14 @@
       "onboard_time": 1754821161,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77974,
+      "num": 77974,
+      "word": "女子遛狗未拴绳被轧后失控发飙",
+      "onboard_time": 1754878280,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77247,
@@ -451,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69216,
+      "num": 69216,
+      "word": "宁德时代宜春锂云母矿准时停产",
+      "onboard_time": 1754874441,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67439,
       "num": 67439,
       "word": "为什么叫我法拉利",
@@ -465,6 +721,14 @@
       "onboard_time": 1754838744,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65923,
+      "num": 65923,
+      "word": "早餐摄入低碳水全天血糖都稳住",
+      "onboard_time": 1754863934,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 65465,
@@ -499,19 +763,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62941,
-      "num": 62941,
-      "word": "早餐摄入低碳水全天血糖都稳住",
-      "onboard_time": 1754863934,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 62557,
       "num": 62557,
       "word": "水晶宫vs利物浦",
       "onboard_time": 1754835325,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60129,
+      "num": 60129,
+      "word": "九头身裁判震惊自己世运会爆火",
+      "onboard_time": 1754834003,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -553,14 +817,6 @@
       "onboard_time": 1754851816,
       "rank": 42,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 39238,
-      "num": 62544,
-      "word": "无可替代",
-      "onboard_time": 1754868439,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 37463,
@@ -627,20 +883,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26229,
+      "num": 81516,
+      "word": "虞书欣这个比例绝了",
+      "onboard_time": 1754878340,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25586,
+      "num": 493736,
+      "word": "来天津感受河海津韵",
+      "onboard_time": 1754831362,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25299,
+      "num": 82223,
+      "word": "朱正廷的含金量还在上升",
+      "onboard_time": 1754878340,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24867,
       "num": 35161,
       "word": "汪苏泷唱了你最近好吗",
       "onboard_time": 1754850376,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24021,
-      "num": 383311,
-      "word": "来天津感受河海津韵",
-      "onboard_time": 1754831362,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18589,
