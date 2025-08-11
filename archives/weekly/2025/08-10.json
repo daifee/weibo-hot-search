@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754895488675,
+  "endTime": 1754897535647,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -97,6 +97,22 @@
       "onboard_time": 1754874381,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1365686,
+      "num": 371022,
+      "word": "王栎鑫苏醒吵架",
+      "onboard_time": 1754895322,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1325202,
+      "num": 276303,
+      "word": "第一次见粉丝塌房",
+      "onboard_time": 1754893343,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1293558,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 809526,
+      "num": 173889,
+      "word": "苏韦达医院大屠杀",
+      "onboard_time": 1754896043,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 804734,
       "num": 804734,
       "word": "真的建议朋友圈一定要趁早发",
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 782615,
+      "num": 478386,
+      "word": "朴彩英也给Jennie打码了",
+      "onboard_time": 1754894182,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766064,
       "num": 766064,
       "word": "女子看演出时遭猥亵嫌疑人被刑拘",
@@ -289,14 +321,6 @@
       "onboard_time": 1754889262,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 748379,
-      "num": 251089,
-      "word": "第一次见粉丝塌房",
-      "onboard_time": 1754893343,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 740382,
@@ -336,6 +360,14 @@
       "word": "展轩空降",
       "onboard_time": 1754840303,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 724964,
+      "num": 1115994,
+      "word": "中国好声音选手朴翔去世",
+      "onboard_time": 1754893701,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -457,14 +489,6 @@
       "onboard_time": 1754802140,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 634852,
-      "num": 1101576,
-      "word": "中国好声音选手朴翔去世",
-      "onboard_time": 1754893701,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 624087,
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478386,
-      "num": 478386,
-      "word": "朴彩英也给Jennie打码了",
-      "onboard_time": 1754894182,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 476647,
       "num": 476647,
       "word": "这不是复制粘贴这是中国军人",
@@ -737,6 +753,14 @@
       "onboard_time": 1754795241,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452425,
+      "num": 267283,
+      "word": "怪不得医生会反复套话",
+      "onboard_time": 1754892562,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 451418,
@@ -825,14 +849,6 @@
       "onboard_time": 1754783118,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417913,
-      "num": 256129,
-      "word": "怪不得医生会反复套话",
-      "onboard_time": 1754892562,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 417182,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1754827401,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355938,
+      "num": 355938,
+      "word": "黄金",
+      "onboard_time": 1754896162,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 349246,
@@ -1267,6 +1291,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 282640,
+      "num": 282640,
+      "word": "广西一女生考入清华被奖励100万元",
+      "onboard_time": 1754894782,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 282405,
       "num": 282405,
       "word": "韩国小伙来中国旅行被印度人破防",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1754800160,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277853,
+      "num": 277853,
+      "word": "章凝成为VOGUE US主编",
+      "onboard_time": 1754894723,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 271391,
@@ -1345,6 +1385,14 @@
       "onboard_time": 1754885362,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256869,
+      "num": 256869,
+      "word": "龚俊王玉雯撞睡衣了",
+      "onboard_time": 1754896944,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 256825,
@@ -1635,14 +1683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 207526,
-      "num": 207526,
-      "word": "王栎鑫苏醒吵架",
-      "onboard_time": 1754895322,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207376,
       "num": 165106,
       "word": "王楚钦打得莫雷加德碎碎念",
@@ -1859,6 +1899,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 195701,
+      "num": 243529,
+      "word": "百果园小心被消费者教育",
+      "onboard_time": 1754894482,
+      "rank": 49,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 195133,
       "num": 195133,
       "word": "陈浚铭被闭麦",
@@ -1881,6 +1929,22 @@
       "onboard_time": 1754829922,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194351,
+      "num": 194351,
+      "word": "张颜齐去毛不易家喝多睡狗窝",
+      "onboard_time": 1754896582,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194113,
+      "num": 195175,
+      "word": "刘轩丞在艺考学校外号馒头哥",
+      "onboard_time": 1754892321,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 193683,
@@ -1923,14 +1987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192475,
-      "num": 192475,
-      "word": "刘轩丞在艺考学校外号馒头哥",
-      "onboard_time": 1754892321,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191892,
       "num": 191892,
       "word": "孙颖莎3比1石洵瑶",
@@ -1955,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189952,
+      "num": 189952,
+      "word": "社保",
+      "onboard_time": 1754896462,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188844,
       "num": 188844,
       "word": "删好友不会被发现的方法",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1754892502,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188457,
+      "num": 195750,
+      "word": "卖个水果何德何能搞义务教育",
+      "onboard_time": 1754891722,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188124,
@@ -2267,14 +2339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169790,
-      "num": 169790,
-      "word": "章凝成为VOGUE US主编",
-      "onboard_time": 1754894723,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 169750,
       "num": 169750,
       "word": "浙江队3比4北京国安",
@@ -2329,6 +2393,14 @@
       "onboard_time": 1754799621,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166492,
+      "num": 166492,
+      "word": "原来焦虑抑郁的人承受力这么强",
+      "onboard_time": 1754896822,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166273,
@@ -2508,7 +2580,7 @@
     },
     {
       "raw_hot": 158254,
-      "num": 163439,
+      "num": 178690,
       "word": "中国海警依法对菲船予以驱离",
       "onboard_time": 1754892082,
       "rank": 28,
@@ -2625,14 +2697,6 @@
       "onboard_time": 1754799082,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153399,
-      "num": 153399,
-      "word": "广西一女生考入清华被奖励100万元",
-      "onboard_time": 1754894782,
-      "rank": 32,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 153372,
@@ -3027,6 +3091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137542,
+      "num": 137542,
+      "word": "日本遗孤拒做日本人并改名思华",
+      "onboard_time": 1754895262,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137327,
       "num": 199189,
       "word": "37岁救人牺牲男子被确认见义勇为",
@@ -3147,14 +3219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133456,
-      "num": 133456,
-      "word": "日本遗孤拒做日本人并改名思华",
-      "onboard_time": 1754895262,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133429,
       "num": 133429,
       "word": "李兰迪全透明人生好萌啊",
@@ -3265,6 +3329,22 @@
       "onboard_time": 1754823203,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130282,
+      "num": 130282,
+      "word": "台湾老人夸大陆好遭女儿殴打",
+      "onboard_time": 1754894661,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130137,
+      "num": 121983,
+      "word": "微信支付 隐私保护",
+      "onboard_time": 1754894122,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 130077,
@@ -3427,14 +3507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124526,
-      "num": 243529,
-      "word": "百果园小心被消费者教育",
-      "onboard_time": 1754894482,
-      "rank": 49,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 124111,
       "num": 124111,
       "word": "群殴在澳留学生肇事者已被全部抓获",
@@ -3473,14 +3545,6 @@
       "onboard_time": 1754839462,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121983,
-      "num": 121983,
-      "word": "微信支付 隐私保护",
-      "onboard_time": 1754894122,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 121295,
@@ -3715,6 +3779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 116036,
+      "num": 116036,
+      "word": "刘宇宁第一次融入不了音乐",
+      "onboard_time": 1754896283,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115890,
       "num": 115890,
       "word": "吴磊拍戏曾压迫颈动脉晕倒",
@@ -3819,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113960,
+      "num": 113960,
+      "word": "周也赏味期小比",
+      "onboard_time": 1754897361,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113858,
       "num": 113858,
       "word": "孙颖莎头顶打出小天线",
@@ -3859,6 +3939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113029,
+      "num": 113029,
+      "word": "这就是钢厂",
+      "onboard_time": 1754897183,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112872,
       "num": 112872,
       "word": "朱正廷的含金量还在上升",
@@ -3881,14 +3969,6 @@
       "onboard_time": 1754790680,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112415,
-      "num": 112415,
-      "word": "卖个水果何德何能搞义务教育",
-      "onboard_time": 1754891722,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112224,
@@ -3969,6 +4049,14 @@
       "onboard_time": 1754833043,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110054,
+      "num": 110054,
+      "word": "4楼开麻将馆3楼住户买震楼器反击",
+      "onboard_time": 1754895922,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109975,
@@ -4763,14 +4851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82835,
-      "num": 124670,
-      "word": "台湾老人夸大陆好遭女儿殴打",
-      "onboard_time": 1754894661,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82791,
       "num": 85310,
       "word": "时代少年团上海站没有延伸台",
@@ -5003,6 +5083,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 58853,
+      "num": 130369,
+      "word": "婚内强奸案女方索赔30万元",
+      "onboard_time": 1754896944,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57950,
       "num": 126010,
       "word": "一家几口饭店吃饭后集体跑单",
@@ -5195,6 +5283,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 38988,
+      "num": 130576,
+      "word": "十万彩礼做女友造谣者凑不齐执行款",
+      "onboard_time": 1754897002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38945,
       "num": 216894,
       "word": "夕阳红公寓非法集资28亿爆雷后续",
@@ -5297,6 +5393,14 @@
       "onboard_time": 1754781317,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30643,
+      "num": 167113,
+      "word": "主理人不能不理人",
+      "onboard_time": 1754895682,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29878,
@@ -5500,7 +5604,7 @@
     },
     {
       "raw_hot": 14622,
-      "num": 162875,
+      "num": 177723,
       "word": "宜家宣布入驻京东",
       "onboard_time": 1754893403,
       "rank": 33,
