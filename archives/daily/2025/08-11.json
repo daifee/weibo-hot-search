@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754919851072,
+  "endTime": 1754920601831,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1438004,
+      "num": 1438004,
+      "word": "李维嘉录再见爱人哭了15个小时",
+      "onboard_time": 1754916741,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1433853,
       "num": 1158495,
       "word": "黄金",
@@ -105,14 +113,6 @@
       "onboard_time": 1754910807,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1288066,
-      "num": 1288066,
-      "word": "李维嘉录再见爱人哭了15个小时",
-      "onboard_time": 1754916741,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1276096,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 698132,
+      "num": 698132,
+      "word": "00后女孩被高富帅男友骗至缅甸妙瓦底",
+      "onboard_time": 1754917343,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 697652,
       "num": 697652,
       "word": "孙颖莎状态",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 562801,
-      "num": 366279,
+      "num": 420241,
       "word": "瞧瞧黄磊把宋丹丹毒成什么样了",
       "onboard_time": 1754913323,
       "rank": 11,
@@ -432,6 +440,22 @@
       "word": "孙颖莎vs石洵瑶",
       "onboard_time": 1754875700,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 508897,
+      "num": 508897,
+      "word": "菲方不要挑战中方的坚定决心",
+      "onboard_time": 1754917885,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 499682,
+      "num": 499682,
+      "word": "许昕谈张本智和医疗暂停",
+      "onboard_time": 1754917103,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 463505,
-      "num": 366042,
+      "num": 420336,
       "word": "张馨予妈妈给她睡了扁头",
       "onboard_time": 1754913023,
       "rank": 14,
@@ -515,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445616,
+      "num": 445616,
+      "word": "许昕回应孙颖莎输球被说没好好打",
+      "onboard_time": 1754914163,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444754,
       "num": 444754,
       "word": "上海医保",
@@ -529,14 +561,6 @@
       "onboard_time": 1754891902,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 438215,
-      "num": 438215,
-      "word": "00后女孩被高富帅男友骗至缅甸妙瓦底",
-      "onboard_time": 1754917343,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 428446,
@@ -625,30 +649,6 @@
       "onboard_time": 1754878280,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392049,
-      "num": 392049,
-      "word": "许昕回应孙颖莎输球被说没好好打",
-      "onboard_time": 1754914163,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 391114,
-      "num": 391114,
-      "word": "菲方不要挑战中方的坚定决心",
-      "onboard_time": 1754917885,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 389682,
-      "num": 370763,
-      "word": "许昕谈张本智和医疗暂停",
-      "onboard_time": 1754917103,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 388890,
@@ -779,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324721,
+      "num": 324721,
+      "word": "恋综史上最尴尬的2分半",
+      "onboard_time": 1754912904,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312727,
       "num": 270595,
       "word": "苏醒回应和王栎鑫吵架",
@@ -835,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303624,
-      "num": 303624,
-      "word": "恋综史上最尴尬的2分半",
-      "onboard_time": 1754912904,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303221,
       "num": 303221,
       "word": "早春晴朗 开机",
@@ -856,6 +856,14 @@
       "word": "商家称外卖大战月亏超万元",
       "onboard_time": 1754867057,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298791,
+      "num": 420350,
+      "word": "中100万刮刮乐女子说中的也不多",
+      "onboard_time": 1754917643,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -891,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271310,
+      "num": 271310,
+      "word": "公司回应董事长仅17岁",
+      "onboard_time": 1754919083,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269063,
       "num": 269063,
       "word": "陶白白前妻称如果为了钱就不会离婚",
@@ -913,6 +929,14 @@
       "onboard_time": 1754885362,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259664,
+      "num": 259664,
+      "word": "陈楚生歌王为何引争议",
+      "onboard_time": 1754918003,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 251182,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1754906903,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227556,
-      "num": 227556,
-      "word": "陈楚生歌王为何引争议",
-      "onboard_time": 1754918003,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 226386,
@@ -1171,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206270,
-      "num": 366681,
-      "word": "中100万刮刮乐女子说中的也不多",
-      "onboard_time": 1754917643,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204339,
       "num": 204339,
       "word": "奇遇值",
@@ -1283,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197546,
+      "num": 197546,
+      "word": "DeepSeek崩了",
+      "onboard_time": 1754919924,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197100,
       "num": 122548,
       "word": "WTT横滨冠军赛今日收官",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1754824342,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195838,
-      "num": 195838,
-      "word": "公司回应董事长仅17岁",
-      "onboard_time": 1754919083,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195814,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1754827822,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170950,
+      "num": 170950,
+      "word": "张本说不能战胜王楚钦算什么男子汉",
+      "onboard_time": 1754920283,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 170092,
@@ -2011,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138609,
+      "num": 127598,
+      "word": "补气血清比补更重要",
+      "onboard_time": 1754920225,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138365,
       "num": 138365,
       "word": "俄罗斯退休老太成乌克兰杀手",
@@ -2315,6 +2339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122580,
+      "num": 122580,
+      "word": "女生想要的情绪价值到底是什么",
+      "onboard_time": 1754920283,
+      "rank": 44,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 119819,
       "num": 119819,
       "word": "谁来给王赫野科普一下签售会",
@@ -2435,6 +2467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112989,
+      "num": 112989,
+      "word": "成毅谢淮安什么时候来",
+      "onboard_time": 1754920103,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112872,
       "num": 112872,
       "word": "朱正廷的含金量还在上升",
@@ -2473,6 +2513,14 @@
       "onboard_time": 1754900062,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111569,
+      "num": 111569,
+      "word": "张远别睡了",
+      "onboard_time": 1754920583,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111118,
@@ -2569,6 +2617,14 @@
       "onboard_time": 1754876061,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106920,
+      "num": 277425,
+      "word": "领克10EM-P全系四驱索尔太顶了",
+      "onboard_time": 1754915602,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 106834,
@@ -3091,14 +3147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54697,
-      "num": 277425,
-      "word": "领克10EM-P全系四驱索尔太顶了",
-      "onboard_time": 1754915602,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 53580,
       "num": 258501,
       "word": "全民社保要来了吗",
@@ -3363,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25401,
+      "num": 130209,
+      "word": "烈犬屡次咬人主人不重视结果出人命",
+      "onboard_time": 1754920163,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24867,
       "num": 35161,
       "word": "汪苏泷唱了你最近好吗",
@@ -3385,6 +3441,14 @@
       "onboard_time": 1754912243,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24543,
+      "num": 178567,
+      "word": "67岁阿姨骑行20个国家治好抑郁症",
+      "onboard_time": 1754920283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23884,
