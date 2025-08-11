@@ -1,13 +1,21 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754909329963,
+  "endTime": 1754911535910,
   "band_list": [
     {
-      "raw_hot": 4744068,
-      "num": 4744068,
+      "raw_hot": 16798389,
+      "num": 16798389,
       "word": "王楚钦vs张本智和",
       "onboard_time": 1754905463,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2697353,
+      "num": 2697353,
+      "word": "王楚钦亚军",
+      "onboard_time": 1754910807,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -107,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1131722,
+      "num": 1131722,
+      "word": "张本智和打疯了",
+      "onboard_time": 1754909783,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1051504,
       "num": 1051504,
       "word": "汪苏泷张碧晨参加东方风云榜",
       "onboard_time": 1754900662,
       "rank": 15,
       "category": "音乐,演出"
+    },
+    {
+      "raw_hot": 1045013,
+      "num": 1045013,
+      "word": "张本智和医疗暂停",
+      "onboard_time": 1754910204,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1008830,
@@ -136,6 +160,14 @@
       "word": "王楚钦vs莫雷加德",
       "onboard_time": 1754888243,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 922439,
+      "num": 922439,
+      "word": "张本智和男单冠军",
+      "onboard_time": 1754910807,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 816706,
-      "num": 816706,
+      "num": 944744,
       "word": "泡泡玛特 周深",
       "onboard_time": 1754906303,
       "rank": 5,
@@ -387,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471279,
+      "num": 471279,
+      "word": "黄岩岛",
+      "onboard_time": 1754907503,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 465570,
       "num": 465570,
       "word": "王楚钦4比0莫雷加德",
@@ -507,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385670,
+      "num": 336584,
+      "word": "王楚钦状态回来了",
+      "onboard_time": 1754909844,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384502,
       "num": 384502,
       "word": "孙颖莎11比3石洵瑶",
@@ -587,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357515,
+      "num": 927406,
+      "word": "枭起青壤",
+      "onboard_time": 1754910506,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344537,
       "num": 344537,
       "word": "披哥导演让许魏洲别既要又要还要",
@@ -611,20 +667,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 336090,
+      "num": 336090,
+      "word": "孙颖莎直言该吃吃该喝喝",
+      "onboard_time": 1754911165,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312727,
       "num": 270595,
       "word": "苏醒回应和王栎鑫吵架",
       "onboard_time": 1754900062,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309918,
-      "num": 309918,
-      "word": "黄岩岛",
-      "onboard_time": 1754907503,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 309509,
@@ -729,6 +785,14 @@
       "onboard_time": 1754835805,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250973,
+      "num": 210825,
+      "word": "许昕称赞王楚钦一个人在一档",
+      "onboard_time": 1754909361,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 245387,
@@ -865,6 +929,14 @@
       "onboard_time": 1754882181,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209658,
+      "num": 209658,
+      "word": "孙颖莎领奖组图",
+      "onboard_time": 1754910143,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 208371,
@@ -1011,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196657,
+      "num": 196657,
+      "word": "这房子给人又穷又有钱的感觉",
+      "onboard_time": 1754909241,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196011,
       "num": 179867,
       "word": "向往的生活8",
@@ -1107,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187554,
+      "num": 187554,
+      "word": "鹿晗南昌抢票",
+      "onboard_time": 1754911465,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183463,
       "num": 183463,
       "word": "张本智和说还差最后一步",
@@ -1179,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175907,
+      "num": 175907,
+      "word": "王楚钦2比4张本智和",
+      "onboard_time": 1754911404,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175514,
       "num": 175514,
       "word": "杨洋回应内娱白月光回归",
@@ -1219,12 +1315,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169549,
+      "num": 212305,
+      "word": "花少6",
+      "onboard_time": 1754910444,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168276,
       "num": 168276,
       "word": "子夜归献鱼同期开播",
       "onboard_time": 1754880560,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167742,
+      "num": 923564,
+      "word": "非婚生育不能领补贴与法律冲突",
+      "onboard_time": 1754910324,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166715,
@@ -1241,6 +1353,14 @@
       "onboard_time": 1754896822,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166480,
+      "num": 157792,
+      "word": "王楚钦换球衣",
+      "onboard_time": 1754911285,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 166273,
@@ -1313,6 +1433,14 @@
       "onboard_time": 1754885063,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160790,
+      "num": 160790,
+      "word": "北京学区一千万的老破小",
+      "onboard_time": 1754909783,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158832,
@@ -1409,6 +1537,14 @@
       "onboard_time": 1754887944,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148660,
+      "num": 148660,
+      "word": "杨泽琪曾在缅甸园区见过王阳阳",
+      "onboard_time": 1754910628,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148516,
@@ -1675,6 +1811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129970,
+      "num": 129970,
+      "word": "张本智和将再与王皓握手",
+      "onboard_time": 1754910025,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129605,
       "num": 129605,
       "word": "只有考过驾照的才知道她说的有多真",
@@ -1929,14 +2073,6 @@
       "onboard_time": 1754900062,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112163,
-      "num": 112163,
-      "word": "这房子给人又穷又有钱的感觉",
-      "onboard_time": 1754909241,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 111118,
@@ -2195,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91745,
+      "num": 160988,
+      "word": "韩国人以为沈佳润是财阀千金",
+      "onboard_time": 1754911045,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90274,
       "num": 90274,
       "word": "孙亦航回应恋情",
@@ -2281,6 +2425,14 @@
       "onboard_time": 1754838683,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81936,
+      "num": 160849,
+      "word": "这是生育补贴不是结婚证补贴",
+      "onboard_time": 1754911106,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81019,
@@ -2451,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63572,
+      "num": 349494,
+      "word": "对100块钱有了新的概念",
+      "onboard_time": 1754911165,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63353,
       "num": 63353,
       "word": "那英去花少带了更年期的药",
@@ -2601,6 +2761,14 @@
       "onboard_time": 1754897544,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41099,
+      "num": 256432,
+      "word": "劝婚全球统一话术",
+      "onboard_time": 1754911225,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 41062,
@@ -2801,6 +2969,22 @@
       "onboard_time": 1754856314,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16841,
+      "num": 161381,
+      "word": "刘骏 都停都停把鞋穿上",
+      "onboard_time": 1754911045,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16436,
+      "num": 1256050,
+      "word": "优质主播中国行新疆站",
+      "onboard_time": 1754901682,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15459,
