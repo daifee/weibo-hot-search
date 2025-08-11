@@ -1,0 +1,410 @@
+{
+  "runTime": 1754894585123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 661811,
+        "num": 1105889,
+        "word": "女子为避雨进彩票店顺手刮中100万",
+        "onboard_time": 1754886863,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441595,
+        "num": 441595,
+        "word": "高亚麟被执行310万",
+        "onboard_time": 1754891902,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7348,
+        "num": 400369,
+        "word": "抗战胜利80周年天安门演练现场",
+        "onboard_time": 1754826322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602356,
+        "num": 397613,
+        "word": "非婚生子女 育儿补贴",
+        "onboard_time": 1754889863,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391208,
+        "num": 391208,
+        "word": "中国好声音选手朴翔去世",
+        "onboard_time": 1754893701,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362017,
+        "num": 362017,
+        "word": "日本麦当劳乱象",
+        "onboard_time": 1754874381,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330535,
+        "num": 330535,
+        "word": "王楚钦4比0莫雷加德",
+        "onboard_time": 1754889203,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316976,
+        "num": 316976,
+        "word": "外甥拦门致舅妈情夫跳楼伤残赔18.5万",
+        "onboard_time": 1754893701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316290,
+        "num": 316290,
+        "word": "撒贝宁保送北大的真实原因",
+        "onboard_time": 1754886323,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277742,
+        "num": 277742,
+        "word": "蒋欣像冷宫疯掉的妃子",
+        "onboard_time": 1754887643,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1185771,
+        "num": 272719,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677716,
+        "num": 270820,
+        "word": "陶白白前妻和现任分手",
+        "onboard_time": 1754889262,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 514679,
+        "num": 262078,
+        "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
+        "onboard_time": 1754881881,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474956,
+        "num": 260529,
+        "word": "陈思诚带儿子为佟丽娅庆生",
+        "onboard_time": 1754892442,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376615,
+        "num": 256129,
+        "word": "怪不得医生会反复套话",
+        "onboard_time": 1754892562,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329629,
+        "num": 251089,
+        "word": "第一次见粉丝塌房",
+        "onboard_time": 1754893343,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245868,
+        "num": 245868,
+        "word": "当一个人朋友圈不再更新",
+        "onboard_time": 1754884522,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241482,
+        "num": 241482,
+        "word": "分手尽量安排在周末",
+        "onboard_time": 1754893222,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229704,
+        "num": 229704,
+        "word": "王玉雯是内娱幼教吧",
+        "onboard_time": 1754890401,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32000,
+        "num": 214260,
+        "word": "梁朝伟每一步都舒适",
+        "onboard_time": 1754890762,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1441077,
+        "num": 214150,
+        "word": "男子陪妻子做流产发现孩子是邻居的",
+        "onboard_time": 1754890343,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262676,
+        "num": 214087,
+        "word": "生理性厌恶的7个躯体信号",
+        "onboard_time": 1754883923,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213760,
+        "num": 213760,
+        "word": "围殴中国留学生的肇事者均被保释",
+        "onboard_time": 1754892082,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198242,
+        "num": 198242,
+        "word": "朴彩英也给Jennie打码了",
+        "onboard_time": 1754894182,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196304,
+        "num": 196304,
+        "word": "贾哈教练与张本智和热情握手",
+        "onboard_time": 1754887883,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188518,
+        "num": 188518,
+        "word": "王楚钦说等一下让我说完",
+        "onboard_time": 1754892502,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182472,
+        "num": 182472,
+        "word": "恋综占有欲最强的男嘉宾出现了",
+        "onboard_time": 1754891543,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181595,
+        "num": 181595,
+        "word": "刘轩丞在艺考学校外号馒头哥",
+        "onboard_time": 1754892321,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158254,
+        "num": 158254,
+        "word": "中国海警依法对菲船予以驱离",
+        "onboard_time": 1754892082,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155950,
+        "num": 155950,
+        "word": "深圳回应非婚生育不能领育儿补贴",
+        "onboard_time": 1754883862,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150699,
+        "num": 150699,
+        "word": "4岁男孩从22楼窗台坠落",
+        "onboard_time": 1754882661,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 148516,
+        "word": "乐远cp",
+        "onboard_time": 1754893043,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133564,
+        "num": 133564,
+        "word": "张本智和 谁教你的庆祝动作",
+        "onboard_time": 1754884704,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14622,
+        "num": 131957,
+        "word": "宜家宣布入驻京东",
+        "onboard_time": 1754893403,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131782,
+        "num": 131782,
+        "word": "虞书欣这个比例绝了",
+        "onboard_time": 1754878340,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126680,
+        "num": 126680,
+        "word": "王楚钦打得莫雷加德碎碎念",
+        "onboard_time": 1754891361,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125190,
+        "num": 125190,
+        "word": "王一博正式确诊为赛博红牛",
+        "onboard_time": 1754883923,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121980,
+        "num": 121980,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1754888243,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121877,
+        "num": 121877,
+        "word": "巴勒斯坦男子拍下自己被枪杀瞬间",
+        "onboard_time": 1754887284,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64129,
+        "num": 121672,
+        "word": "年入百万老板去假装上班公司面试",
+        "onboard_time": 1754894122,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57950,
+        "num": 121643,
+        "word": "一家几口饭店吃饭后集体跑单",
+        "onboard_time": 1754894541,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121642,
+        "num": 121642,
+        "word": "巴黎合伙人阵容官宣",
+        "onboard_time": 1754894301,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117490,
+        "num": 117490,
+        "word": "上海医保",
+        "onboard_time": 1754883204,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 116888,
+        "num": 116888,
+        "word": "王楚钦孙颖莎领衔冲冠",
+        "onboard_time": 1754886024,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116302,
+        "num": 116302,
+        "word": "微信支付 隐私保护",
+        "onboard_time": 1754894122,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113994,
+        "num": 113994,
+        "word": "事业单位面试邪修大佬在民间",
+        "onboard_time": 1754887403,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112415,
+        "num": 112415,
+        "word": "卖个水果何德何能搞义务教育",
+        "onboard_time": 1754891722,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109350,
+        "num": 109350,
+        "word": "未牵绳大狗扑向1岁宝宝",
+        "onboard_time": 1754891722,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106008,
+        "num": 106008,
+        "word": "东极岛",
+        "onboard_time": 1754893222,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105986,
+        "num": 105986,
+        "word": "百果园小心被消费者教育",
+        "onboard_time": 1754894482,
+        "rank": 49,
+        "category": "民生新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化人以文兴业#"
+    }
+  }
+}
