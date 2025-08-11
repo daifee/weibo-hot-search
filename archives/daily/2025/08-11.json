@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754897535647,
+  "endTime": 1754898390258,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1557874,
+      "num": 585275,
+      "word": "王栎鑫苏醒吵架",
+      "onboard_time": 1754895322,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1553722,
       "num": 1553722,
       "word": "男子陪妻子做流产发现孩子是邻居的",
@@ -35,15 +43,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1365686,
-      "num": 371022,
-      "word": "王栎鑫苏醒吵架",
-      "onboard_time": 1754895322,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1325202,
+      "raw_hot": 1342165,
       "num": 276303,
       "word": "第一次见粉丝塌房",
       "onboard_time": 1754893343,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 784954,
-      "num": 478393,
+      "num": 570621,
       "word": "非婚生子女 育儿补贴",
       "onboard_time": 1754889863,
       "rank": 37,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 782615,
-      "num": 478386,
+      "num": 493960,
       "word": "朴彩英也给Jennie打码了",
       "onboard_time": 1754894182,
       "rank": 23,
@@ -193,6 +193,14 @@
       "onboard_time": 1754880023,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 631247,
+      "num": 1100999,
+      "word": "黄金",
+      "onboard_time": 1754896162,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 581467,
@@ -315,6 +323,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 414377,
+      "num": 414377,
+      "word": "龚俊王玉雯撞睡衣了",
+      "onboard_time": 1754896944,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414230,
       "num": 347606,
       "word": "在美中国古籍被华裔掉包带出",
@@ -329,6 +345,14 @@
       "onboard_time": 1754873662,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 404602,
+      "num": 404602,
+      "word": "广西一女生考入清华被奖励100万元",
+      "onboard_time": 1754894782,
+      "rank": 32,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 399228,
@@ -419,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 355938,
-      "num": 355938,
-      "word": "黄金",
-      "onboard_time": 1754896162,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 341366,
       "num": 283465,
       "word": "睡姿 焦虑",
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282640,
-      "num": 282640,
-      "word": "广西一女生考入清华被奖励100万元",
-      "onboard_time": 1754894782,
-      "rank": 32,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 277853,
       "num": 277853,
       "word": "章凝成为VOGUE US主编",
@@ -545,14 +553,6 @@
       "onboard_time": 1754885362,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 256869,
-      "num": 256869,
-      "word": "龚俊王玉雯撞睡衣了",
-      "onboard_time": 1754896944,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 251182,
@@ -715,6 +715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 203170,
+      "num": 190406,
+      "word": "谢娜一家是现实版小巷人家吧",
+      "onboard_time": 1754897843,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201643,
       "num": 171029,
       "word": "锦月如歌热度",
@@ -795,6 +803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 192554,
+      "num": 192554,
+      "word": "社保",
+      "onboard_time": 1754896462,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192527,
       "num": 192527,
       "word": "KPL年度总决赛鸟巢表演嘉宾",
@@ -819,11 +835,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189952,
-      "num": 189952,
-      "word": "社保",
-      "onboard_time": 1754896462,
-      "rank": 25,
+      "raw_hot": 190354,
+      "num": 195750,
+      "word": "卖个水果何德何能搞义务教育",
+      "onboard_time": 1754891722,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -833,14 +849,6 @@
       "onboard_time": 1754892502,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188457,
-      "num": 195750,
-      "word": "卖个水果何德何能搞义务教育",
-      "onboard_time": 1754891722,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183154,
@@ -939,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166496,
+      "num": 166496,
+      "word": "王玉雯 不是故意炒cp的",
+      "onboard_time": 1754897724,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166492,
       "num": 166492,
       "word": "原来焦虑抑郁的人承受力这么强",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1754885063,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158832,
+      "num": 158832,
+      "word": "卢昱晓在车后窗追晚霞",
+      "onboard_time": 1754897663,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 158547,
@@ -1331,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115436,
+      "num": 115436,
+      "word": "外卖员取餐摸脸前台姑娘",
+      "onboard_time": 1754897422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114932,
       "num": 114932,
       "word": "刘诗诗爱丽儿公主",
@@ -1387,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111401,
+      "num": 130369,
+      "word": "婚内强奸案女方索赔30万元",
+      "onboard_time": 1754896944,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110054,
       "num": 110054,
       "word": "4楼开麻将馆3楼住户买震楼器反击",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1754870000,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 107795,
+      "num": 107795,
+      "word": "王楚钦将与张本智和争夺冠军",
+      "onboard_time": 1754898323,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 107273,
@@ -1475,6 +1523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102391,
+      "num": 102391,
+      "word": "女孩遭轿车撞倒碾压后起身站立",
+      "onboard_time": 1754898323,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102224,
+      "num": 102224,
+      "word": "利剑玫瑰豆瓣评论存在异常",
+      "onboard_time": 1754897961,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102133,
       "num": 102133,
       "word": "贺峻霖甜椒撕拉片",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1754887403,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 97470,
+      "num": 126762,
+      "word": "浪浪山小妖怪票房超5亿",
+      "onboard_time": 1754898203,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 96042,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1754877441,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86115,
+      "num": 118776,
+      "word": "女子为逃刑罚4年掐点怀孕连生3子",
+      "onboard_time": 1754898203,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85424,
@@ -1819,6 +1899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61924,
+      "num": 118494,
+      "word": "徐如蓝方益炯 成年人恋爱",
+      "onboard_time": 1754898142,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61061,
+      "num": 118452,
+      "word": "烈犬撕咬路人致死主人获刑6年半",
+      "onboard_time": 1754898263,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60129,
       "num": 60129,
       "word": "九头身裁判震惊自己世运会爆火",
@@ -1832,14 +1928,6 @@
       "word": "660万彩票大奖今日截止兑奖",
       "onboard_time": 1754885723,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58853,
-      "num": 130369,
-      "word": "婚内强奸案女方索赔30万元",
-      "onboard_time": 1754896944,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1889,6 +1977,14 @@
       "onboard_time": 1754845158,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44549,
+      "num": 190431,
+      "word": "日本麦当劳道歉",
+      "onboard_time": 1754897544,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41062,
@@ -1969,6 +2065,14 @@
       "onboard_time": 1754834663,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30910,
+      "num": 118078,
+      "word": "专家谈黄金",
+      "onboard_time": 1754897843,
+      "rank": 40,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 30643,
