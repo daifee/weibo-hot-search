@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1754917056106,
+  "endTime": 1754918003494,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3187,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 735260,
+      "num": 735260,
+      "word": "李维嘉录再见爱人哭了15个小时",
+      "onboard_time": 1754916741,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734490,
       "num": 734490,
       "word": "金价",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1754317766,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 647101,
+      "num": 647101,
+      "word": "昊恺质问UZI",
+      "onboard_time": 1754916203,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 646368,
@@ -4844,7 +4860,7 @@
     },
     {
       "raw_hot": 562801,
-      "num": 327909,
+      "num": 354409,
       "word": "瞧瞧黄磊把宋丹丹毒成什么样了",
       "onboard_time": 1754913323,
       "rank": 11,
@@ -5281,14 +5297,6 @@
       "onboard_time": 1754233106,
       "rank": 5,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 520667,
-      "num": 520667,
-      "word": "昊恺质问UZI",
-      "onboard_time": 1754916203,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 520452,
@@ -5977,6 +5985,14 @@
       "onboard_time": 1754485584,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463505,
+      "num": 334968,
+      "word": "张馨予妈妈给她睡了扁头",
+      "onboard_time": 1754913023,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 463279,
@@ -7019,6 +7035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389682,
+      "num": 334031,
+      "word": "许昕谈张本智和医疗暂停",
+      "onboard_time": 1754917103,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389399,
       "num": 389399,
       "word": "许昕回应孙颖莎输球被说没好好打",
@@ -7377,6 +7401,14 @@
       "onboard_time": 1754404044,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375344,
+      "num": 375344,
+      "word": "sana回应与权志龙恋爱传闻",
+      "onboard_time": 1754912186,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 375127,
@@ -8011,14 +8043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338798,
-      "num": 338798,
-      "word": "sana回应与权志龙恋爱传闻",
-      "onboard_time": 1754912186,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 338534,
       "num": 338534,
       "word": "木苏里开新文",
@@ -8353,14 +8377,6 @@
       "onboard_time": 1754058263,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 323396,
-      "num": 323396,
-      "word": "张馨予妈妈给她睡了扁头",
-      "onboard_time": 1754913023,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 323327,
@@ -9347,6 +9363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 283595,
+      "num": 283595,
+      "word": "恋综史上最尴尬的2分半",
+      "onboard_time": 1754912904,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283467,
       "num": 185406,
       "word": "孙怡董子健当初有多甜现在看就有多虐",
@@ -10115,14 +10139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258431,
-      "num": 258431,
-      "word": "恋综史上最尴尬的2分半",
-      "onboard_time": 1754912904,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258400,
       "num": 216379,
       "word": "张若昀父亲被恢复执行3.5亿",
@@ -10723,6 +10739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240916,
+      "num": 240916,
+      "word": "中国稀土集团发声明",
+      "onboard_time": 1754915962,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 240812,
       "num": 240812,
       "word": "广东一地错发30万补贴公告追回",
@@ -11089,14 +11113,6 @@
       "onboard_time": 1754915482,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232058,
-      "num": 232058,
-      "word": "李维嘉录再见爱人哭了15个小时",
-      "onboard_time": 1754916741,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 231407,
@@ -12241,14 +12257,6 @@
       "onboard_time": 1754047163,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211924,
-      "num": 211924,
-      "word": "中国稀土集团发声明",
-      "onboard_time": 1754915962,
-      "rank": 26,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 211870,
@@ -15131,6 +15139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186225,
+      "num": 186225,
+      "word": "00后女孩被高富帅男友骗至缅甸妙瓦底",
+      "onboard_time": 1754917343,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186190,
       "num": 186190,
       "word": "陈星旭怎么J成这样",
@@ -16001,6 +16017,14 @@
       "onboard_time": 1754467885,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178644,
+      "num": 328006,
+      "word": "女孩30秒海姆立克救回被卡女子",
+      "onboard_time": 1754916563,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178542,
@@ -17545,6 +17569,14 @@
       "onboard_time": 1754638403,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165740,
+      "num": 165740,
+      "word": "JDG战胜FPX",
+      "onboard_time": 1754917522,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 165716,
@@ -19888,6 +19920,14 @@
       "word": "男子出国陷入香艳女郎陷阱成间谍",
       "onboard_time": 1754786060,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150945,
+      "num": 150945,
+      "word": "中100万刮刮乐女子说中的也不多",
+      "onboard_time": 1754917643,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -23755,6 +23795,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 131646,
+      "num": 131646,
+      "word": "JDG对战FPX",
+      "onboard_time": 1754917643,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131577,
       "num": 131577,
       "word": "好运鹿角",
@@ -25324,7 +25372,7 @@
     },
     {
       "raw_hot": 124770,
-      "num": 124770,
+      "num": 149664,
       "word": "银河酷娱与张芷溪疑似和解",
       "onboard_time": 1754913023,
       "rank": 48,
@@ -28947,14 +28995,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 108416,
-      "num": 328006,
-      "word": "女孩30秒海姆立克救回被卡女子",
-      "onboard_time": 1754916563,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108306,
       "num": 108306,
       "word": "zeka沙皇",
@@ -30849,6 +30889,14 @@
       "onboard_time": 1753965564,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 96131,
+      "num": 140682,
+      "word": "特朗普誓言夺回首都",
+      "onboard_time": 1754917282,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96127,
@@ -34971,6 +35019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48184,
+      "num": 145426,
+      "word": "菲方不要挑战中方的坚定决心",
+      "onboard_time": 1754917885,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48176,
       "num": 58550,
       "word": "赵心童6比1战胜丁俊晖",
@@ -36595,6 +36651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28600,
+      "num": 2697563,
+      "word": "优质主播中国行新疆站",
+      "onboard_time": 1754901682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28317,
       "num": 38919,
       "word": "特朗普称美俄会谈富有成效",
@@ -36721,14 +36785,6 @@
       "onboard_time": 1754767394,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26451,
-      "num": 2697563,
-      "word": "优质主播中国行新疆站",
-      "onboard_time": 1754901682,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26306,
@@ -37369,6 +37425,14 @@
       "onboard_time": 1754177660,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17762,
+      "num": 148146,
+      "word": "艾米以为粉丝生孩子了",
+      "onboard_time": 1754917042,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 17755,
