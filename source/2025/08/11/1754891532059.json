@@ -1,0 +1,410 @@
+{
+  "runTime": 1754891532059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1553722,
+        "num": 1553722,
+        "word": "男子陪妻子做流产发现孩子是邻居的",
+        "onboard_time": 1754890343,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713411,
+        "num": 713411,
+        "word": "撒贝宁保送北大的真实原因",
+        "onboard_time": 1754886323,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10171,
+        "num": 697766,
+        "word": "抗战胜利80周年天安门演练现场",
+        "onboard_time": 1754826322,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 690927,
+        "num": 690927,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1754888243,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662409,
+        "num": 662409,
+        "word": "女子为避雨进彩票店顺手刮中100万",
+        "onboard_time": 1754886863,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452039,
+        "num": 452039,
+        "word": "日本麦当劳乱象",
+        "onboard_time": 1754874381,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 407943,
+        "num": 407943,
+        "word": "4岁男孩从22楼窗台坠落",
+        "onboard_time": 1754882661,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396671,
+        "num": 396671,
+        "word": "张本智和 谁教你的庆祝动作",
+        "onboard_time": 1754884704,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394677,
+        "num": 394677,
+        "word": "王楚钦4比0莫雷加德",
+        "onboard_time": 1754889203,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375127,
+        "num": 375127,
+        "word": "蒋欣像冷宫疯掉的妃子",
+        "onboard_time": 1754887643,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1590266,
+        "num": 369614,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772036,
+        "num": 364992,
+        "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
+        "onboard_time": 1754881881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752058,
+        "num": 360654,
+        "word": "陶白白前妻和现任分手",
+        "onboard_time": 1754889262,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 427130,
+        "num": 352091,
+        "word": "当一个人朋友圈不再更新",
+        "onboard_time": 1754884522,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348054,
+        "num": 348054,
+        "word": "深圳回应非婚生育不能领育儿补贴",
+        "onboard_time": 1754883862,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342248,
+        "num": 342248,
+        "word": "贾哈教练与张本智和热情握手",
+        "onboard_time": 1754887883,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204065,
+        "num": 311355,
+        "word": "心动的信号8",
+        "onboard_time": 1754886923,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189867,
+        "num": 306557,
+        "word": "邢菲说杨幂帮她走出原生家庭困境",
+        "onboard_time": 1754885362,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306316,
+        "num": 306316,
+        "word": "王楚钦孙颖莎领衔冲冠",
+        "onboard_time": 1754886024,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46683,
+        "num": 270854,
+        "word": "梁朝伟每一步都舒适",
+        "onboard_time": 1754890762,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253045,
+        "num": 253045,
+        "word": "生理性厌恶的7个躯体信号",
+        "onboard_time": 1754883923,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199663,
+        "num": 199663,
+        "word": "王玉雯是内娱幼教吧",
+        "onboard_time": 1754890401,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190757,
+        "num": 190757,
+        "word": "KPL年度总决赛鸟巢表演嘉宾",
+        "onboard_time": 1754890401,
+        "rank": 22,
+        "category": "电竞,演出"
+      },
+      {
+        "raw_hot": 183154,
+        "num": 183154,
+        "word": "陈赫一人带七娃",
+        "onboard_time": 1754890401,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177850,
+        "num": 177850,
+        "word": "虞书欣这个比例绝了",
+        "onboard_time": 1754878340,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175514,
+        "num": 175514,
+        "word": "杨洋回应内娱白月光回归",
+        "onboard_time": 1754890643,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168264,
+        "num": 168264,
+        "word": "王楚钦11比1莫雷加德",
+        "onboard_time": 1754890102,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165385,
+        "num": 165385,
+        "word": "盛世天下定档9月",
+        "onboard_time": 1754887825,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132522,
+        "num": 165146,
+        "word": "巴勒斯坦男子拍下自己被枪杀瞬间",
+        "onboard_time": 1754887284,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74760,
+        "num": 165110,
+        "word": "以色列已批准占领加沙城计划",
+        "onboard_time": 1754871201,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207376,
+        "num": 165106,
+        "word": "王楚钦打得莫雷加德碎碎念",
+        "onboard_time": 1754891361,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165091,
+        "num": 165091,
+        "word": "沈阳一企业洗手液原料进入河道",
+        "onboard_time": 1754889624,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163756,
+        "num": 163756,
+        "word": "俩男一女拉扯这45秒好刺激",
+        "onboard_time": 1754890281,
+        "rank": 32,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 163611,
+        "num": 163611,
+        "word": "事业单位面试邪修大佬在民间",
+        "onboard_time": 1754887403,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163339,
+        "num": 163339,
+        "word": "非婚生子女 育儿补贴",
+        "onboard_time": 1754889863,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152248,
+        "num": 152248,
+        "word": "鹿角 以后我会擦亮眼睛",
+        "onboard_time": 1754886564,
+        "rank": 35,
+        "category": "网红,网红"
+      },
+      {
+        "raw_hot": 132621,
+        "num": 150014,
+        "word": "王楚钦强势晋级决赛",
+        "onboard_time": 1754890043,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149482,
+        "num": 149482,
+        "word": "4次断骨打开180度折叠男孩近况",
+        "onboard_time": 1754883381,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76050,
+        "num": 149076,
+        "word": "刘宇宁持证下厨",
+        "onboard_time": 1754891301,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148974,
+        "num": 148974,
+        "word": "女子单手骑车摔倒数米外车主担次责",
+        "onboard_time": 1754881041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147393,
+        "num": 147393,
+        "word": "上海医保",
+        "onboard_time": 1754883204,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140955,
+        "num": 140955,
+        "word": "赵今麦领衔主演无可替代",
+        "onboard_time": 1754880023,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138004,
+        "num": 138004,
+        "word": "日本扇耳光餐厅",
+        "onboard_time": 1754885602,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126597,
+        "num": 126597,
+        "word": "A股",
+        "onboard_time": 1754887583,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122045,
+        "num": 122045,
+        "word": "麦琳称录完再见爱人过得不好",
+        "onboard_time": 1754871441,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117420,
+        "num": 117420,
+        "word": "车主回应女子5米外摔倒自己负次责",
+        "onboard_time": 1754883984,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107685,
+        "num": 107685,
+        "word": "周华健肚子",
+        "onboard_time": 1754882242,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107331,
+        "num": 107331,
+        "word": "比特币涨破120000美元",
+        "onboard_time": 1754888183,
+        "rank": 47,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 104921,
+        "num": 104921,
+        "word": "张集骏马小宇首部横屏",
+        "onboard_time": 1754891002,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100422,
+        "num": 100422,
+        "word": "花4小时从杭州到长沙过周末",
+        "onboard_time": 1754888363,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化人以文兴业#"
+    }
+  }
+}

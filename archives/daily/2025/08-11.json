@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754890500552,
+  "endTime": 1754891532059,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -17,6 +17,14 @@
       "onboard_time": 1754885962,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1553722,
+      "num": 1553722,
+      "word": "男子陪妻子做流产发现孩子是邻居的",
+      "onboard_time": 1754890343,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1399825,
@@ -67,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 752058,
+      "num": 415169,
+      "word": "陶白白前妻和现任分手",
+      "onboard_time": 1754889262,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 732500,
       "num": 427072,
       "word": "当一个人朋友圈不再更新",
@@ -91,8 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 696940,
-      "num": 696940,
+      "raw_hot": 713411,
+      "num": 713411,
       "word": "撒贝宁保送北大的真实原因",
       "onboard_time": 1754886323,
       "rank": 31,
@@ -115,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662409,
+      "num": 662409,
+      "word": "女子为避雨进彩票店顺手刮中100万",
+      "onboard_time": 1754886863,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653827,
       "num": 653827,
       "word": "赵今麦领衔主演无可替代",
       "onboard_time": 1754880023,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 628344,
-      "num": 628344,
-      "word": "女子为避雨进彩票店顺手刮中100万",
-      "onboard_time": 1754886863,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 560347,
@@ -153,14 +169,6 @@
       "onboard_time": 1754875700,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 487358,
-      "num": 415169,
-      "word": "陶白白前妻和现任分手",
-      "onboard_time": 1754889262,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 481523,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375127,
+      "num": 462686,
+      "word": "蒋欣像冷宫疯掉的妃子",
+      "onboard_time": 1754887643,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369517,
       "num": 369517,
       "word": "张本智和vs贾哈",
@@ -289,14 +305,6 @@
       "onboard_time": 1754849356,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367545,
-      "num": 462686,
-      "word": "蒋欣像冷宫疯掉的妃子",
-      "onboard_time": 1754887643,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 365105,
@@ -379,6 +387,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 306316,
+      "num": 306316,
+      "word": "王楚钦孙颖莎领衔冲冠",
+      "onboard_time": 1754886024,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303221,
       "num": 303221,
       "word": "早春晴朗 开机",
@@ -433,14 +449,6 @@
       "onboard_time": 1754835805,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247000,
-      "num": 247000,
-      "word": "王楚钦孙颖莎领衔冲冠",
-      "onboard_time": 1754886024,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 245387,
@@ -507,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218441,
-      "num": 218441,
-      "word": "男子陪妻子做流产发现孩子是邻居的",
-      "onboard_time": 1754890343,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216474,
       "num": 216474,
       "word": "年轻人听不得招财两个字",
@@ -547,12 +547,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 207376,
+      "num": 165106,
+      "word": "王楚钦打得莫雷加德碎碎念",
+      "onboard_time": 1754891361,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204296,
       "num": 213471,
       "word": "陈幸同4比1王艺迪",
       "onboard_time": 1754887944,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204065,
+      "num": 311355,
+      "word": "心动的信号8",
+      "onboard_time": 1754886923,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203842,
@@ -577,6 +593,14 @@
       "onboard_time": 1754884163,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199663,
+      "num": 199663,
+      "word": "王玉雯是内娱幼教吧",
+      "onboard_time": 1754890401,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 199572,
@@ -643,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183154,
+      "num": 183154,
+      "word": "陈赫一人带七娃",
+      "onboard_time": 1754890401,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181956,
       "num": 181956,
       "word": "这不是复制粘贴这是中国军人",
@@ -675,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175514,
+      "num": 175514,
+      "word": "杨洋回应内娱白月光回归",
+      "onboard_time": 1754890643,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173382,
       "num": 173382,
       "word": "张本智和4比1贾哈",
@@ -697,14 +737,6 @@
       "onboard_time": 1754889384,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168830,
-      "num": 216911,
-      "word": "心动的信号8",
-      "onboard_time": 1754886923,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 168276,
@@ -731,6 +763,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 165091,
+      "num": 453289,
+      "word": "沈阳一企业洗手液原料进入河道",
+      "onboard_time": 1754889624,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164363,
       "num": 164363,
       "word": "王楚钦强势晋级决赛",
@@ -747,6 +787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163611,
+      "num": 163611,
+      "word": "事业单位面试邪修大佬在民间",
+      "onboard_time": 1754887403,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 163339,
+      "num": 163339,
+      "word": "非婚生子女 育儿补贴",
+      "onboard_time": 1754889863,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162256,
       "num": 258949,
       "word": "台风杨柳最强可达台风级",
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 162113,
-      "num": 162113,
+      "num": 165146,
       "word": "巴勒斯坦男子拍下自己被枪杀瞬间",
       "onboard_time": 1754887284,
       "rank": 38,
@@ -768,14 +824,6 @@
       "word": "苏醒被胡夏迷的不知天地为何物了",
       "onboard_time": 1754885063,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 159079,
-      "num": 197112,
-      "word": "王玉雯是内娱幼教吧",
-      "onboard_time": 1754890401,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -867,14 +915,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145112,
-      "num": 145112,
-      "word": "陈赫一人带七娃",
-      "onboard_time": 1754890401,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144799,
       "num": 144799,
       "word": "比特币涨破120000美元",
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 141519,
-      "num": 662326,
+      "num": 697766,
       "word": "抗战胜利80周年天安门演练现场",
       "onboard_time": 1754826322,
       "rank": 19,
@@ -937,14 +977,6 @@
       "onboard_time": 1754870601,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 138582,
-      "num": 138582,
-      "word": "事业单位面试邪修大佬在民间",
-      "onboard_time": 1754887403,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 136772,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1754876061,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104921,
+      "num": 104921,
+      "word": "张集骏马小宇首部横屏",
+      "onboard_time": 1754891002,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 104619,
@@ -1331,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76050,
+      "num": 149076,
+      "word": "刘宇宁持证下厨",
+      "onboard_time": 1754891301,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75728,
       "num": 75728,
       "word": "社区盾杯决赛",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1754844200,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71436,
-      "num": 453289,
-      "word": "沈阳一企业洗手液原料进入河道",
-      "onboard_time": 1754889624,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70707,
@@ -1451,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63789,
-      "num": 146105,
-      "word": "非婚生子女 育儿补贴",
-      "onboard_time": 1754889863,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63353,
       "num": 63353,
       "word": "那英去花少带了更年期的药",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1754854155,
       "rank": 37,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 46683,
+      "num": 270854,
+      "word": "梁朝伟每一步都舒适",
+      "onboard_time": 1754890762,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 46387,
