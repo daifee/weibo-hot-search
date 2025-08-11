@@ -1,0 +1,410 @@
+{
+  "runTime": 1754904872620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1178937,
+        "num": 1188629,
+        "word": "秦岭失联约半个月的驴友找到了",
+        "onboard_time": 1754899760,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1051504,
+        "num": 1051504,
+        "word": "汪苏泷张碧晨参加东方风云榜",
+        "onboard_time": 1754900662,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33449,
+        "num": 984901,
+        "word": "成都世运会点火女孩滑水摘金",
+        "onboard_time": 1754901862,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 953433,
+        "num": 953433,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1754900662,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 885673,
+        "num": 885673,
+        "word": "王栎鑫苏醒吵架",
+        "onboard_time": 1754895322,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1433853,
+        "num": 862093,
+        "word": "黄金",
+        "onboard_time": 1754896162,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 744629,
+        "num": 744629,
+        "word": "菲律宾",
+        "onboard_time": 1754901862,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 671759,
+        "num": 671759,
+        "word": "花少神一季鬼一季",
+        "onboard_time": 1754899522,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607344,
+        "num": 607344,
+        "word": "从毫无征兆到确诊尿毒症",
+        "onboard_time": 1754900062,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 572314,
+        "num": 572314,
+        "word": "社保",
+        "onboard_time": 1754896462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571303,
+        "num": 571303,
+        "word": "第一次见粉丝塌房",
+        "onboard_time": 1754893343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511366,
+        "num": 511366,
+        "word": "鹿晗关晓彤同款挂件",
+        "onboard_time": 1754885962,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356892,
+        "num": 501372,
+        "word": "巴勒斯坦的球王贝利被以军炸死",
+        "onboard_time": 1754902343,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 496718,
+        "num": 496718,
+        "word": "37岁发现自己断崖式衰老了",
+        "onboard_time": 1754900721,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391380,
+        "num": 391380,
+        "word": "王玉雯 不是故意炒cp的",
+        "onboard_time": 1754897724,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385451,
+        "num": 385451,
+        "word": "朴彩英也给Jennie打码了",
+        "onboard_time": 1754894182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376072,
+        "num": 376072,
+        "word": "生育损伤",
+        "onboard_time": 1754902583,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305608,
+        "num": 305608,
+        "word": "黄子韬徐艺洋婚礼能看到EXO合体吗",
+        "onboard_time": 1754881881,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301088,
+        "num": 301088,
+        "word": "中国海警依法对菲船予以驱离",
+        "onboard_time": 1754892082,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37106,
+        "num": 243933,
+        "word": "余景天的喝水新选择",
+        "onboard_time": 1754903123,
+        "rank": 19,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 224733,
+        "num": 224733,
+        "word": "苏醒让王铮亮张远打一架",
+        "onboard_time": 1754903362,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200932,
+        "num": 200932,
+        "word": "陶白白前妻和现任分手",
+        "onboard_time": 1754889262,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176524,
+        "num": 176524,
+        "word": "英伟达同意向美国政府上贡15%收入",
+        "onboard_time": 1754900662,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166901,
+        "num": 166901,
+        "word": "孙颖莎正手",
+        "onboard_time": 1754904503,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161803,
+        "num": 161803,
+        "word": "非婚生子女 育儿补贴",
+        "onboard_time": 1754889863,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153410,
+        "num": 153410,
+        "word": "张艺兴老板范儿",
+        "onboard_time": 1754903302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152630,
+        "num": 152630,
+        "word": "中国好声音选手朴翔去世",
+        "onboard_time": 1754893701,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148732,
+        "num": 148732,
+        "word": "张本智和说还差最后一步",
+        "onboard_time": 1754903362,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143880,
+        "num": 143880,
+        "word": "龚俊王玉雯撞睡衣了",
+        "onboard_time": 1754896944,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92446,
+        "num": 143139,
+        "word": "百果园的爹味教育谁买账",
+        "onboard_time": 1754903842,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131457,
+        "num": 141882,
+        "word": "被造谣十万彩礼做女友当事人发声",
+        "onboard_time": 1754902282,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150136,
+        "num": 140164,
+        "word": "苏韦达医院大屠杀",
+        "onboard_time": 1754896043,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133888,
+        "num": 137680,
+        "word": "艾米差点就要报警了",
+        "onboard_time": 1754903483,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137242,
+        "num": 137242,
+        "word": "许凯田曦薇子夜归人咪情未了",
+        "onboard_time": 1754903783,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134947,
+        "num": 134947,
+        "word": "外卖员取餐摸脸前台姑娘",
+        "onboard_time": 1754897422,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130624,
+        "num": 130624,
+        "word": "没有欧阳娣娣接不住的话",
+        "onboard_time": 1754901322,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122134,
+        "num": 122134,
+        "word": "女子为避雨进彩票店顺手刮中100万",
+        "onboard_time": 1754886863,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121195,
+        "num": 121195,
+        "word": "浪浪山小妖怪票房超5亿",
+        "onboard_time": 1754898203,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49389,
+        "num": 121098,
+        "word": "河南一中学官方账号回复引争议",
+        "onboard_time": 1754904202,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40494,
+        "num": 121078,
+        "word": "公厕下班前5分钟市民如厕被拒",
+        "onboard_time": 1754903662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121073,
+        "num": 121073,
+        "word": "陈思诚带儿子为佟丽娅庆生",
+        "onboard_time": 1754892442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120422,
+        "num": 120422,
+        "word": "苏新皓高精力比格犬型人格",
+        "onboard_time": 1754904323,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111118,
+        "num": 111118,
+        "word": "时代少年团上海站有中控",
+        "onboard_time": 1754904503,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109908,
+        "num": 109908,
+        "word": "内娱百灵鸟水印丁程鑫",
+        "onboard_time": 1754904562,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108070,
+        "num": 108070,
+        "word": "怪不得医生会反复套话",
+        "onboard_time": 1754892562,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107786,
+        "num": 107786,
+        "word": "女子为逃刑罚4年掐点怀孕连生3子",
+        "onboard_time": 1754898203,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118536,
+        "num": 107762,
+        "word": "苏新皓的美貌朱志鑫的荣耀",
+        "onboard_time": 1754901503,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106474,
+        "num": 106474,
+        "word": "登陆少年也是在披哥过上好日子了",
+        "onboard_time": 1754904562,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 106088,
+        "word": "龚俊当当都上当",
+        "onboard_time": 1754904743,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105607,
+        "num": 105607,
+        "word": "长时间坐着究竟有多危险",
+        "onboard_time": 1754903602,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}

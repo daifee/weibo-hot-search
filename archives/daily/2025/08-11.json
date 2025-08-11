@@ -1,6 +1,6 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754902384631,
+  "endTime": 1754904872620,
   "band_list": [
     {
       "raw_hot": 2241032,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1883883,
-      "num": 446185,
+      "num": 511366,
       "word": "鹿晗关晓彤同款挂件",
       "onboard_time": 1754885962,
       "rank": 11,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1557874,
-      "num": 743138,
+      "num": 885673,
       "word": "王栎鑫苏醒吵架",
       "onboard_time": 1754895322,
       "rank": 18,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1433853,
+      "num": 1158495,
+      "word": "黄金",
+      "onboard_time": 1754896162,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1399825,
       "num": 1399825,
       "word": "日本麦当劳乱象",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1342165,
-      "num": 344477,
+      "num": 571303,
       "word": "第一次见粉丝塌房",
       "onboard_time": 1754893343,
       "rank": 15,
@@ -67,12 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 990599,
-      "num": 1158495,
-      "word": "黄金",
-      "onboard_time": 1754896162,
+      "raw_hot": 1178937,
+      "num": 1188629,
+      "word": "秦岭失联约半个月的驴友找到了",
+      "onboard_time": 1754899760,
       "rank": 5,
-      "category": "财经"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1051504,
+      "num": 1051504,
+      "word": "汪苏泷张碧晨参加东方风云榜",
+      "onboard_time": 1754900662,
+      "rank": 15,
+      "category": "音乐,演出"
     },
     {
       "raw_hot": 963163,
@@ -83,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 953433,
+      "num": 953433,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1754900662,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 953119,
       "num": 1152499,
       "word": "王楚钦vs莫雷加德",
       "onboard_time": 1754888243,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 891037,
-      "num": 891037,
-      "word": "秦岭失联约半个月的驴友找到了",
-      "onboard_time": 1754899760,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 814259,
@@ -145,6 +161,14 @@
       "onboard_time": 1754889262,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 744629,
+      "num": 744629,
+      "word": "菲律宾",
+      "onboard_time": 1754901862,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 741426,
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 649448,
-      "num": 649448,
-      "word": "汪苏泷张碧晨参加东方风云榜",
-      "onboard_time": 1754900662,
-      "rank": 15,
-      "category": "音乐,演出"
+      "raw_hot": 607344,
+      "num": 607344,
+      "word": "从毫无征兆到确诊尿毒症",
+      "onboard_time": 1754900062,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 581467,
@@ -281,6 +305,14 @@
       "onboard_time": 1754875700,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 496718,
+      "num": 496718,
+      "word": "37岁发现自己断崖式衰老了",
+      "onboard_time": 1754900721,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 489109,
@@ -427,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376072,
+      "num": 376072,
+      "word": "生育损伤",
+      "onboard_time": 1754902583,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 375127,
       "num": 462686,
       "word": "蒋欣像冷宫疯掉的妃子",
@@ -481,6 +521,14 @@
       "onboard_time": 1754883381,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356892,
+      "num": 501372,
+      "word": "巴勒斯坦的球王贝利被以军炸死",
+      "onboard_time": 1754902343,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 341366,
@@ -563,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301088,
+      "num": 301088,
+      "word": "中国海警依法对菲船予以驱离",
+      "onboard_time": 1754892082,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 298643,
       "num": 298643,
       "word": "子夜归",
       "onboard_time": 1754876181,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297415,
-      "num": 267627,
-      "word": "从毫无征兆到确诊尿毒症",
-      "onboard_time": 1754900062,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 290845,
@@ -595,14 +643,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 277595,
-      "num": 277595,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1754900662,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269063,
       "num": 269063,
       "word": "陶白白前妻称如果为了钱就不会离婚",
@@ -617,14 +657,6 @@
       "onboard_time": 1754885362,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259639,
-      "num": 259639,
-      "word": "37岁发现自己断崖式衰老了",
-      "onboard_time": 1754900721,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 251182,
@@ -681,6 +713,14 @@
       "onboard_time": 1754868198,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224733,
+      "num": 224733,
+      "word": "苏醒让王铮亮张远打一架",
+      "onboard_time": 1754903362,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 222050,
@@ -947,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188390,
-      "num": 188390,
-      "word": "菲律宾",
-      "onboard_time": 1754901862,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 187989,
       "num": 187989,
       "word": "外卖员取餐摸脸前台姑娘",
@@ -1067,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166901,
+      "num": 166901,
+      "word": "孙颖莎正手",
+      "onboard_time": 1754904503,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166715,
       "num": 166715,
       "word": "没有文化已经当不了杀手了",
@@ -1171,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158254,
-      "num": 178690,
-      "word": "中国海警依法对菲船予以驱离",
-      "onboard_time": 1754892082,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156446,
       "num": 180853,
       "word": "以色列已批准占领加沙城计划",
@@ -1211,6 +1243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153410,
+      "num": 153410,
+      "word": "张艺兴老板范儿",
+      "onboard_time": 1754903302,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152294,
       "num": 204852,
       "word": "魏大勋智性恋天菜",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1754887944,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148732,
+      "num": 148732,
+      "word": "张本智和说还差最后一步",
+      "onboard_time": 1754903362,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 148516,
@@ -1339,14 +1387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139975,
-      "num": 139975,
-      "word": "巴勒斯坦的球王贝利被以军炸死",
-      "onboard_time": 1754902343,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 139290,
       "num": 348284,
       "word": "泡泡玛特泰国店被指撞脸名创优品",
@@ -1379,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137242,
+      "num": 137242,
+      "word": "许凯田曦薇子夜归人咪情未了",
+      "onboard_time": 1754903783,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136772,
       "num": 136772,
       "word": "陈乔恩说上镜胖3斤",
@@ -1395,11 +1443,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133888,
+      "num": 137680,
+      "word": "艾米差点就要报警了",
+      "onboard_time": 1754903483,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131997,
       "num": 131997,
       "word": "幼童爬到13层阳台外悬空玩引体向上",
       "onboard_time": 1754843960,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131457,
+      "num": 141882,
+      "word": "被造谣十万彩礼做女友当事人发声",
+      "onboard_time": 1754902282,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1497,6 +1561,14 @@
       "onboard_time": 1754894122,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120422,
+      "num": 120422,
+      "word": "苏新皓高精力比格犬型人格",
+      "onboard_time": 1754904323,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 119819,
@@ -1619,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111118,
+      "num": 111118,
+      "word": "时代少年团上海站有中控",
+      "onboard_time": 1754904503,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110476,
       "num": 110476,
       "word": "出现这6种症状可能是心梗前兆",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1754895922,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109908,
+      "num": 109908,
+      "word": "内娱百灵鸟水印丁程鑫",
+      "onboard_time": 1754904562,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 109098,
@@ -1675,12 +1763,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106474,
+      "num": 106474,
+      "word": "登陆少年也是在披哥过上好日子了",
+      "onboard_time": 1754904562,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106088,
+      "num": 106088,
+      "word": "龚俊当当都上当",
+      "onboard_time": 1754904743,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106008,
       "num": 106008,
       "word": "东极岛",
       "onboard_time": 1754893222,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105607,
+      "num": 105607,
+      "word": "长时间坐着究竟有多危险",
+      "onboard_time": 1754903602,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105295,
@@ -1817,6 +1929,14 @@
       "onboard_time": 1754834123,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92446,
+      "num": 143139,
+      "word": "百果园的爹味教育谁买账",
+      "onboard_time": 1754903842,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90274,
@@ -2179,6 +2299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49389,
+      "num": 121098,
+      "word": "河南一中学官方账号回复引争议",
+      "onboard_time": 1754904202,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48210,
       "num": 62539,
       "word": "WTT横滨冠军赛2025",
@@ -2211,19 +2339,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41171,
-      "num": 137275,
-      "word": "被造谣十万彩礼做女友当事人发声",
-      "onboard_time": 1754902282,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41062,
       "num": 62558,
       "word": "宁夏灵武2.4级地震",
       "onboard_time": 1754869040,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40494,
+      "num": 121078,
+      "word": "公厕下班前5分钟市民如厕被拒",
+      "onboard_time": 1754903662,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2267,6 +2395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37106,
+      "num": 243933,
+      "word": "余景天的喝水新选择",
+      "onboard_time": 1754903123,
+      "rank": 19,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 36831,
       "num": 62531,
       "word": "土耳其6.3级地震1死29伤",
@@ -2289,6 +2425,14 @@
       "onboard_time": 1754902282,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33449,
+      "num": 984901,
+      "word": "成都世运会点火女孩滑水摘金",
+      "onboard_time": 1754901862,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 31309,
@@ -2329,14 +2473,6 @@
       "onboard_time": 1754850856,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26645,
-      "num": 745439,
-      "word": "成都世运会点火女孩滑水摘金",
-      "onboard_time": 1754901862,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 26381,
