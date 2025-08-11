@@ -1,10 +1,10 @@
 {
   "startTime": 1754843531767,
-  "endTime": 1754878450565,
+  "endTime": 1754879982696,
   "band_list": [
     {
-      "raw_hot": 1087405,
-      "num": 1173984,
+      "raw_hot": 1399825,
+      "num": 1399825,
       "word": "日本麦当劳乱象",
       "onboard_time": 1754874381,
       "rank": 0,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514665,
+      "num": 514665,
+      "word": "孙颖莎vs石洵瑶",
+      "onboard_time": 1754875700,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 481523,
       "num": 183628,
       "word": "曝孙亦航恋情",
@@ -91,7 +99,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393839,
+      "raw_hot": 407728,
       "num": 346996,
       "word": "陶白白回应疑似鹿角新恋情",
       "onboard_time": 1754873662,
@@ -99,11 +107,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 383814,
-      "num": 383814,
-      "word": "孙颖莎vs石洵瑶",
-      "onboard_time": 1754875700,
-      "rank": 7,
+      "raw_hot": 384502,
+      "num": 384502,
+      "word": "孙颖莎11比3石洵瑶",
+      "onboard_time": 1754878581,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298643,
+      "num": 298643,
+      "word": "子夜归",
+      "onboard_time": 1754876181,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290845,
       "num": 290845,
       "word": "利剑玫瑰第二季",
@@ -187,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271521,
+      "num": 271521,
+      "word": "迪丽热巴 VOGUE金九",
+      "onboard_time": 1754869459,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 269063,
       "num": 269063,
       "word": "陶白白前妻称如果为了钱就不会离婚",
       "onboard_time": 1754848156,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 258568,
-      "num": 258568,
-      "word": "迪丽热巴 VOGUE金九",
-      "onboard_time": 1754869459,
-      "rank": 14,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 251182,
@@ -212,19 +228,11 @@
     },
     {
       "raw_hot": 245387,
-      "num": 159721,
+      "num": 203682,
       "word": "日本前国脚为否认南京大屠杀道歉",
       "onboard_time": 1754875221,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 243591,
-      "num": 243591,
-      "word": "子夜归",
-      "onboard_time": 1754876181,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 226386,
@@ -235,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218659,
+      "num": 218659,
+      "word": "献鱼",
+      "onboard_time": 1754879121,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201643,
       "num": 171029,
       "word": "锦月如歌热度",
       "onboard_time": 1754841143,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197100,
+      "num": 122548,
+      "word": "WTT横滨冠军赛今日收官",
+      "onboard_time": 1754878760,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 196011,
@@ -251,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191892,
+      "num": 191892,
+      "word": "孙颖莎3比1石洵瑶",
+      "onboard_time": 1754879841,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191236,
       "num": 179035,
       "word": "女子试穿4条裤子留下血渍赔50元",
       "onboard_time": 1754835024,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188720,
+      "num": 188720,
+      "word": "蛟龙行动",
+      "onboard_time": 1754879420,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 181956,
@@ -283,6 +323,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170465,
+      "num": 170465,
+      "word": "女子遛狗未拴绳被轧后失控发飙",
+      "onboard_time": 1754878280,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164736,
+      "num": 164736,
+      "word": "虞书欣这个比例绝了",
+      "onboard_time": 1754878340,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164192,
       "num": 164192,
       "word": "日照爷爷每周带孙子坐4小时车到青岛",
@@ -291,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156446,
+      "num": 156446,
+      "word": "以色列已批准占领加沙城计划",
+      "onboard_time": 1754871201,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155869,
       "num": 134428,
       "word": "张晋和蔡少芬国外旅行突发心脏病",
       "onboard_time": 1754810061,
       "rank": 20,
       "category": "综艺,健康医疗"
+    },
+    {
+      "raw_hot": 151559,
+      "num": 151559,
+      "word": "高智男女主选角最对味的一次",
+      "onboard_time": 1754879541,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 148309,
@@ -315,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147317,
+      "num": 147317,
+      "word": "前NBA著名球星麦迪现身村BA",
+      "onboard_time": 1754879000,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145329,
       "num": 145329,
       "word": "陈奕迅",
@@ -329,6 +409,14 @@
       "onboard_time": 1754829263,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 142133,
+      "num": 121902,
+      "word": "印媒称中印都有万年历史",
+      "onboard_time": 1754878940,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141519,
@@ -395,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119415,
-      "num": 119415,
-      "word": "以色列已批准占领加沙城计划",
-      "onboard_time": 1754871201,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 115582,
       "num": 115582,
       "word": "社区盾杯",
@@ -424,6 +504,30 @@
       "word": "邓超女儿最近迷上了卡拉ok",
       "onboard_time": 1754869819,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113393,
+      "num": 113393,
+      "word": "河北服务区的垃圾",
+      "onboard_time": 1754879000,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113321,
+      "num": 113321,
+      "word": "胖东来回应招聘刑释人员",
+      "onboard_time": 1754877680,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112872,
+      "num": 112872,
+      "word": "朱正廷的含金量还在上升",
+      "onboard_time": 1754878340,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -475,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101983,
+      "num": 101983,
+      "word": "王楚钦半决赛再战莫雷加德",
+      "onboard_time": 1754878581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101569,
+      "num": 101569,
+      "word": "NBA总冠军开启中国行",
+      "onboard_time": 1754879060,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101214,
       "num": 101214,
       "word": "聋猫突然看到人的反应",
@@ -505,6 +625,14 @@
       "onboard_time": 1754831123,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94334,
+      "num": 94334,
+      "word": "天气太热小兔子躲在洞里吃葡萄",
+      "onboard_time": 1754879000,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 93974,
@@ -564,11 +692,19 @@
     },
     {
       "raw_hot": 87431,
-      "num": 87431,
+      "num": 133354,
       "word": "缅怀抗战先烈",
       "onboard_time": 1754877441,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86013,
+      "num": 86013,
+      "word": "台风杨柳最强可达台风级",
+      "onboard_time": 1754879300,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85424,
@@ -585,14 +721,6 @@
       "onboard_time": 1754838924,
       "rank": 32,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 83527,
-      "num": 83527,
-      "word": "胖东来回应招聘刑释人员",
-      "onboard_time": 1754877680,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82106,
@@ -633,14 +761,6 @@
       "onboard_time": 1754821161,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77974,
-      "num": 77974,
-      "word": "女子遛狗未拴绳被轧后失控发飙",
-      "onboard_time": 1754878280,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77247,
@@ -883,28 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26229,
-      "num": 81516,
-      "word": "虞书欣这个比例绝了",
-      "onboard_time": 1754878340,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25586,
-      "num": 493736,
+      "num": 589584,
       "word": "来天津感受河海津韵",
       "onboard_time": 1754831362,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25299,
-      "num": 82223,
-      "word": "朱正廷的含金量还在上升",
-      "onboard_time": 1754878340,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 24867,
