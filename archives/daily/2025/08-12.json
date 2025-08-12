@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754984522040,
+  "endTime": 1754987758579,
   "band_list": [
     {
       "raw_hot": 2086194,
@@ -65,6 +65,14 @@
       "onboard_time": 1754971762,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1249962,
+      "num": 425187,
+      "word": "李乃文老婆",
+      "onboard_time": 1754981122,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1240728,
@@ -171,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 868080,
-      "num": 423876,
-      "word": "李乃文老婆",
-      "onboard_time": 1754981122,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 838859,
+      "num": 1134217,
+      "word": "女子带四个娃坐高铁被要求补3张票",
+      "onboard_time": 1754983342,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 821426,
@@ -193,6 +201,14 @@
       "onboard_time": 1754922925,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 734532,
+      "num": 734532,
+      "word": "王者开庭",
+      "onboard_time": 1754983462,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 722881,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471864,
+      "num": 471864,
+      "word": "浪浪山宣发 傅首尔",
+      "onboard_time": 1754984902,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 471636,
       "num": 394680,
       "word": "怀孕后才知道妈妈漏尿多年",
@@ -347,20 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471480,
-      "num": 471480,
-      "word": "女子带四个娃坐高铁被要求补3张票",
-      "onboard_time": 1754983342,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 467769,
       "num": 467769,
       "word": "台风杨柳预计明日登陆我国",
       "onboard_time": 1754964621,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460092,
+      "num": 460092,
+      "word": "张本智和说医疗暂停又不是不能用",
+      "onboard_time": 1754981183,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 450657,
@@ -377,6 +401,14 @@
       "onboard_time": 1754963841,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426905,
+      "num": 426905,
+      "word": "高考数学143分独臂少年考上公务员",
+      "onboard_time": 1754981481,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426048,
@@ -401,6 +433,38 @@
       "onboard_time": 1754971162,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 390623,
+      "num": 390623,
+      "word": "贝克汉姆夫妇未出席大儿子婚礼",
+      "onboard_time": 1754983880,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 390147,
+      "num": 390147,
+      "word": "凡人修仙传大结局",
+      "onboard_time": 1754983822,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 388553,
+      "num": 388553,
+      "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+      "onboard_time": 1754987182,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 387413,
+      "num": 387413,
+      "word": "北京暴雨",
+      "onboard_time": 1754985022,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362764,
@@ -435,6 +499,14 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 331895,
+      "num": 331895,
+      "word": "管乐 抱歉让大家看到杂乱的屋子",
+      "onboard_time": 1754986762,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "赵露思称拍戏遥遥无期",
@@ -467,12 +539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 301693,
+      "num": 301693,
+      "word": "女子上迪如厕排队超时崩溃大哭",
+      "onboard_time": 1754985801,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293739,
       "num": 293739,
       "word": "25岁确诊抑郁症的睡前躯体化",
       "onboard_time": 1754954358,
       "rank": 14,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 290899,
+      "num": 290899,
+      "word": "婚内强奸案 性同意",
+      "onboard_time": 1754985863,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288364,
@@ -499,6 +587,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277846,
+      "num": 277846,
+      "word": "离婚后妈妈给女儿改名琉璃若水",
+      "onboard_time": 1754985143,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276685,
+      "num": 276685,
+      "word": "利剑玫瑰删减剧情炸裂",
+      "onboard_time": 1754986281,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275379,
       "num": 275379,
       "word": "菲方不要挑战中方的坚定决心",
@@ -523,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263273,
+      "num": 263273,
+      "word": "阿迪达斯就新鞋抄袭道歉",
+      "onboard_time": 1754986762,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255215,
       "num": 255215,
       "word": "王楚钦vs张本智和",
@@ -539,12 +651,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 239756,
-      "num": 239756,
-      "word": "王者开庭",
-      "onboard_time": 1754983462,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 240082,
+      "num": 240082,
+      "word": "12306回应女子带4娃坐高铁拒绝补票",
+      "onboard_time": 1754985682,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238883,
@@ -617,6 +729,14 @@
       "onboard_time": 1754968942,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222074,
+      "num": 387564,
+      "word": "人民网评东极岛",
+      "onboard_time": 1754984243,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 215635,
@@ -755,22 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191377,
-      "num": 191377,
-      "word": "凡人修仙传大结局",
-      "onboard_time": 1754983822,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189220,
-      "num": 189220,
-      "word": "张本智和说医疗暂停又不是不能用",
-      "onboard_time": 1754981183,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189139,
       "num": 189139,
       "word": "王楚钦霸气歪嘴",
@@ -811,20 +915,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186899,
+      "num": 186899,
+      "word": "裸辞后才意识到原来人生真的会突然改变",
+      "onboard_time": 1754984483,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186565,
       "num": 186565,
       "word": "凡人修仙传",
       "onboard_time": 1754973442,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184830,
-      "num": 174156,
-      "word": "高考数学143分独臂少年考上公务员",
-      "onboard_time": 1754981481,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184501,
@@ -955,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167529,
-      "num": 167529,
-      "word": "贝克汉姆夫妇未出席大儿子婚礼",
-      "onboard_time": 1754983880,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166698,
       "num": 166698,
       "word": "浪浪山小妖怪",
@@ -985,6 +1081,14 @@
       "onboard_time": 1754978543,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161065,
+      "num": 161065,
+      "word": "长期游泳后才悟出的人生道理",
+      "onboard_time": 1754987364,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 160901,
@@ -1033,14 +1137,6 @@
       "onboard_time": 1754968281,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157684,
-      "num": 137396,
-      "word": "裸辞后才意识到原来人生真的会突然改变",
-      "onboard_time": 1754984483,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 157502,
@@ -1323,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135667,
+      "num": 135667,
+      "word": "王者荣耀匹配机制",
+      "onboard_time": 1754987723,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135430,
       "num": 135430,
       "word": "南昌水煮",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1754980042,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132569,
+      "num": 132569,
+      "word": "外交学院",
+      "onboard_time": 1754986642,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132146,
@@ -1395,6 +1507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128125,
+      "num": 128125,
+      "word": "张本智和说王楚钦反手失误多",
+      "onboard_time": 1754986582,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127603,
       "num": 127603,
       "word": "当你有一个相差15岁的妹妹",
@@ -1435,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124322,
+      "num": 124322,
+      "word": "珠海登山失联男子已不幸遇难",
+      "onboard_time": 1754987242,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123811,
       "num": 123811,
       "word": "陈楚生歌王为何引争议",
@@ -1449,6 +1577,14 @@
       "onboard_time": 1754968582,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122824,
+      "num": 122824,
+      "word": "QQ音乐扑淘商城 秒删",
+      "onboard_time": 1754986943,
+      "rank": 43,
+      "category": "互联网,音乐"
     },
     {
       "raw_hot": 121558,
@@ -1489,6 +1625,14 @@
       "onboard_time": 1754972062,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120459,
+      "num": 120459,
+      "word": "张芷溪否认拿赵露思炒热度",
+      "onboard_time": 1754987662,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 118951,
@@ -1568,6 +1712,14 @@
       "word": "钟薛高创始人谈百果园事件",
       "onboard_time": 1754955320,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112300,
+      "num": 117755,
+      "word": "高铁儿童票",
+      "onboard_time": 1754986402,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1787,14 +1939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96867,
-      "num": 96867,
-      "word": "人民网评东极岛",
-      "onboard_time": 1754984243,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95643,
       "num": 95643,
       "word": "papi酱你们谁要再见啊",
@@ -1833,6 +1977,14 @@
       "onboard_time": 1754914103,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89379,
+      "num": 131096,
+      "word": "男子偷拍被抓手机惊现5万张女性照",
+      "onboard_time": 1754987182,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88652,
@@ -1905,6 +2057,14 @@
       "onboard_time": 1754921303,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80947,
+      "num": 173030,
+      "word": "叶舒华景德镇做陶瓷",
+      "onboard_time": 1754983222,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 78680,
@@ -2025,6 +2185,30 @@
       "onboard_time": 1754980882,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52011,
+      "num": 171469,
+      "word": "朱令骨灰今日安葬",
+      "onboard_time": 1754987542,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49789,
+      "num": 171332,
+      "word": "大学生暑假带娃月入5000",
+      "onboard_time": 1754987542,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47150,
+      "num": 130864,
+      "word": "TVB戏骨夏雨儿子黄奕晨恋情曝光",
+      "onboard_time": 1754987062,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 41850,
