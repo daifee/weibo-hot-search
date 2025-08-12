@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754955612851,
+  "endTime": 1754964141741,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1403707,
+      "num": 1403707,
+      "word": "iPhone17Pro最新外观曝光",
+      "onboard_time": 1754958862,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1399825,
       "num": 1399825,
       "word": "日本麦当劳乱象",
@@ -192,6 +200,14 @@
       "word": "张本智和男单冠军",
       "onboard_time": 1754910807,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1296218,
+      "num": 1296218,
+      "word": "C罗向乔治娜求婚成功",
+      "onboard_time": 1754954660,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -379,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 871820,
+      "num": 871820,
+      "word": "张小婉称家中蟑螂疑是快递运来",
+      "onboard_time": 1754959400,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857937,
       "num": 857937,
       "word": "00后女孩被高富帅男友骗至缅甸妙瓦底",
@@ -457,6 +481,14 @@
       "onboard_time": 1754896043,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 805634,
+      "num": 263806,
+      "word": "鸡蛋事件男子同意和妻子离婚",
+      "onboard_time": 1754961382,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 804734,
@@ -747,6 +779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 624063,
+      "num": 624063,
+      "word": "中美再次暂停实施24%关税90天",
+      "onboard_time": 1754957781,
+      "rank": 4,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 623301,
       "num": 520972,
       "word": "赵露思说当初签银河酷娱是不想红",
@@ -921,6 +961,22 @@
       "onboard_time": 1754819603,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 522668,
+      "num": 522668,
+      "word": "沈阳警方通报车辆撞人事件",
+      "onboard_time": 1754959281,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 518601,
+      "num": 259593,
+      "word": "鸡蛋事件男子发文道歉",
+      "onboard_time": 1754960302,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 514665,
@@ -1307,6 +1363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 400552,
+      "num": 400552,
+      "word": "赵露思解释绿茶事件",
+      "onboard_time": 1754956700,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399228,
       "num": 399228,
       "word": "贾哈教练与张本智和热情握手",
@@ -1400,14 +1464,6 @@
       "word": "张本智和vs贾哈",
       "onboard_time": 1754882362,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 369142,
-      "num": 369142,
-      "word": "C罗向乔治娜求婚成功",
-      "onboard_time": 1754954660,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -1739,6 +1795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 289359,
+      "num": 254330,
+      "word": "25岁确诊抑郁症的睡前躯体化",
+      "onboard_time": 1754954358,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 286734,
       "num": 286734,
       "word": "王楚钦WTT男单第100胜",
@@ -1915,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254020,
+      "num": 254020,
+      "word": "中美斯德哥尔摩经贸会谈联合声明",
+      "onboard_time": 1754957722,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 250973,
       "num": 210825,
       "word": "许昕称赞王楚钦一个人在一档",
@@ -1953,14 +2025,6 @@
       "onboard_time": 1754875221,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 244344,
-      "num": 244344,
-      "word": "25岁确诊抑郁症的睡前躯体化",
-      "onboard_time": 1754954358,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 244283,
@@ -2017,6 +2081,14 @@
       "onboard_time": 1754729181,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238883,
+      "num": 238883,
+      "word": "张艺凡刚出新手村就遇顶级魅魔",
+      "onboard_time": 1754953097,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 238753,
@@ -2259,6 +2331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215009,
+      "num": 195383,
+      "word": "女子让螳螂吃掉颈后肉瘊子",
+      "onboard_time": 1754951775,
+      "rank": 36,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 213779,
       "num": 213779,
       "word": "魏哲鸣霸总感溢出屏幕了",
@@ -2497,6 +2577,14 @@
       "onboard_time": 1754832622,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200388,
+      "num": 200388,
+      "word": "赵露思称拍戏遥遥无期",
+      "onboard_time": 1754961322,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 200316,
@@ -2795,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189139,
+      "num": 189139,
+      "word": "王楚钦霸气歪嘴",
+      "onboard_time": 1754958441,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188844,
       "num": 188844,
       "word": "删好友不会被发现的方法",
@@ -2849,14 +2945,6 @@
       "onboard_time": 1754802680,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186749,
-      "num": 135381,
-      "word": "女子让螳螂吃掉颈后肉瘊子",
-      "onboard_time": 1754951775,
-      "rank": 36,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 186602,
@@ -3011,14 +3099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178494,
-      "num": 178494,
-      "word": "张艺凡刚出新手村就遇顶级魅魔",
-      "onboard_time": 1754953097,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 178298,
       "num": 178298,
       "word": "JDG首次确认败者组",
@@ -3153,6 +3233,14 @@
       "onboard_time": 1754810061,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173015,
+      "num": 173015,
+      "word": "许昕说陈幸同又不是外协的",
+      "onboard_time": 1754958802,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 172533,
@@ -3459,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160901,
+      "num": 160901,
+      "word": "王星越不收礼物更不收孩子",
+      "onboard_time": 1754933836,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 160832,
       "num": 160832,
       "word": "Doinb曝Ale陪玩1500一小时",
@@ -3649,6 +3745,14 @@
       "onboard_time": 1754798722,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154151,
+      "num": 154151,
+      "word": "沈玉琳确诊白血病后再发文",
+      "onboard_time": 1754963841,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 154107,
@@ -4067,6 +4171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 141878,
+      "num": 141878,
+      "word": "没认识我媳妇前她生活深不可测",
+      "onboard_time": 1754957842,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141626,
       "num": 165654,
       "word": "巴黎合伙人阵容官宣",
@@ -4091,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141400,
+      "num": 141400,
+      "word": "那年徐志胜还没贴假发片",
+      "onboard_time": 1754962820,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141172,
       "num": 141172,
       "word": "余承恩你不乘哦",
@@ -4105,6 +4225,14 @@
       "onboard_time": 1754756962,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140803,
+      "num": 140803,
+      "word": "调整对原产于美国进口商品加征关税措施",
+      "onboard_time": 1754959883,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140745,
@@ -4217,6 +4345,14 @@
       "onboard_time": 1754829382,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137794,
+      "num": 137794,
+      "word": "恋与深空开门",
+      "onboard_time": 1754961081,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 137542,
@@ -4483,6 +4619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132146,
+      "num": 132146,
+      "word": "张本智和与父母庆祝夺冠",
+      "onboard_time": 1754957842,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131997,
       "num": 131997,
       "word": "幼童爬到13层阳台外悬空玩引体向上",
@@ -4561,6 +4705,14 @@
       "onboard_time": 1754804481,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "为什么现在裸辞的人越来越多了",
+      "onboard_time": 1754957722,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 130430,
@@ -4747,6 +4899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127539,
+      "num": 127539,
+      "word": "景德镇一瓷杯摊位疑被游客踢倒",
+      "onboard_time": 1754962341,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127388,
       "num": 127388,
       "word": "曹曦文女儿12岁近照",
@@ -4763,6 +4923,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127161,
+      "num": 127161,
+      "word": "外卖员接神秘猪脚饭订单果断举报",
+      "onboard_time": 1754963660,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126824,
+      "num": 126824,
+      "word": "乔治娜好大的钻戒",
+      "onboard_time": 1754963841,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126620,
       "num": 126620,
       "word": "禾你珏配",
@@ -4776,6 +4952,14 @@
       "word": "于正说公司小艺人受欺负了",
       "onboard_time": 1754887583,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126315,
+      "num": 126315,
+      "word": "韩国网友称沈阳市以小沈阳命名",
+      "onboard_time": 1754957661,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -4923,6 +5107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121558,
+      "num": 127230,
+      "word": "这是唯一生活在中国的大象种类",
+      "onboard_time": 1754961921,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121295,
       "num": 121295,
       "word": "舍得给出重要的东西才是爱",
@@ -5001,14 +5193,6 @@
       "onboard_time": 1754810601,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119495,
-      "num": 119495,
-      "word": "王星越不收礼物更不收孩子",
-      "onboard_time": 1754933836,
-      "rank": 38,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 119471,
@@ -5427,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112502,
+      "num": 112502,
+      "word": "钟薛高创始人谈百果园事件",
+      "onboard_time": 1754955320,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112466,
       "num": 112466,
       "word": "张明楷教授说婚内强奸不构成强奸罪",
@@ -5835,6 +6027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106294,
+      "num": 140886,
+      "word": "调整不可靠实体清单",
+      "onboard_time": 1754963602,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106245,
       "num": 106245,
       "word": "敖瑞鹏生下来第一次遇到那么多人",
@@ -5913,6 +6113,14 @@
       "onboard_time": 1754891002,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104768,
+      "num": 104768,
+      "word": "金价继续下挫",
+      "onboard_time": 1754963780,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 104728,
@@ -6011,6 +6219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101494,
+      "num": 101494,
+      "word": "黄金创3个月最大跌幅",
+      "onboard_time": 1754960961,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101214,
       "num": 101214,
       "word": "聋猫突然看到人的反应",
@@ -6091,12 +6307,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98977,
+      "num": 98977,
+      "word": "国际乒联最新排名公布",
+      "onboard_time": 1754960961,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98969,
       "num": 98969,
       "word": "小沈阳演唱会",
       "onboard_time": 1754803761,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98667,
+      "num": 98667,
+      "word": "爸爸印的名片再也没发出去过",
+      "onboard_time": 1754962701,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 97942,
@@ -6137,6 +6369,14 @@
       "onboard_time": 1754751804,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96771,
+      "num": 96771,
+      "word": "AirPods将迎实时翻译功能",
+      "onboard_time": 1754964081,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 96664,
@@ -6675,14 +6915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72069,
-      "num": 72069,
-      "word": "钟薛高创始人谈百果园事件",
-      "onboard_time": 1754955320,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71044,
       "num": 85295,
       "word": "宋茜女战神结算时刻",
@@ -6921,6 +7153,14 @@
       "onboard_time": 1754799621,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 51629,
+      "num": 910147,
+      "word": "网警双管齐下治理直播乱象",
+      "onboard_time": 1754955500,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51066,
@@ -7659,6 +7899,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11206,
+      "num": 124330,
+      "word": "这就是偶像剧想拍出的效果吧",
+      "onboard_time": 1754963962,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10913,
       "num": 17265,
       "word": "收费员轮番海姆立克法救下2岁幼童",
@@ -7681,14 +7929,6 @@
       "onboard_time": 1754943194,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5689,
-      "num": 484003,
-      "word": "网警双管齐下治理直播乱象",
-      "onboard_time": 1754955500,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4311,
