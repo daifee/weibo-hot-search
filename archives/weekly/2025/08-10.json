@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754998811571,
+  "endTime": 1755003293011,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -209,6 +209,14 @@
       "onboard_time": 1754905224,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1418814,
+      "num": 1418814,
+      "word": "警方通报19岁女生景区遭杀害",
+      "onboard_time": 1754995403,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1414228,
@@ -1251,6 +1259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538926,
+      "num": 1076317,
+      "word": "家长网上发视频质疑校服质量被拘留",
+      "onboard_time": 1754994623,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 534776,
+      "num": 534776,
+      "word": "孙怡说结婚离婚都是过程",
+      "onboard_time": 1754999304,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530991,
       "num": 530991,
       "word": "大理苍山失联男孩最新消息",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1754911165,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476982,
-      "num": 1076317,
-      "word": "家长网上发视频质疑校服质量被拘留",
-      "onboard_time": 1754994623,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 476647,
@@ -1763,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408094,
+      "num": 408094,
+      "word": "快递费要涨了",
+      "onboard_time": 1754996665,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407728,
       "num": 346996,
       "word": "陶白白回应疑似鹿角新恋情",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1754887883,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399177,
+      "num": 399177,
+      "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+      "onboard_time": 1755000083,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398936,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1754849356,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367511,
+      "num": 208910,
+      "word": "周一请假和周五请假是不一样的",
+      "onboard_time": 1754998943,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 366838,
@@ -2123,14 +2163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332001,
-      "num": 332001,
-      "word": "快递费要涨了",
-      "onboard_time": 1754996665,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "赵露思称拍戏遥遥无期",
@@ -2307,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301229,
+      "num": 301229,
+      "word": "王者荣耀",
+      "onboard_time": 1754998103,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301028,
       "num": 301028,
       "word": "王楚钦4比1户上隼辅",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1754954358,
       "rank": 14,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 293362,
+      "num": 204966,
+      "word": "肖战小学时期",
+      "onboard_time": 1754998283,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293278,
@@ -2417,14 +2465,6 @@
       "onboard_time": 1754817982,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 284035,
-      "num": 284035,
-      "word": "警方通报19岁女生景区遭杀害",
-      "onboard_time": 1754995403,
-      "rank": 27,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 283477,
@@ -2667,6 +2707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247258,
+      "num": 247258,
+      "word": "王晶称银河酷娱是一星公司",
+      "onboard_time": 1755001284,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247030,
       "num": 195854,
       "word": "王楚钦换球衣",
@@ -2723,14 +2771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242061,
-      "num": 242061,
-      "word": "王者荣耀",
-      "onboard_time": 1754998103,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 241482,
       "num": 241482,
       "word": "分手尽量安排在周末",
@@ -2777,6 +2817,14 @@
       "onboard_time": 1754882422,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235447,
+      "num": 235447,
+      "word": "花少邀请了张晚意好几次",
+      "onboard_time": 1755001706,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 234985,
@@ -2929,6 +2977,14 @@
       "onboard_time": 1754898323,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224745,
+      "num": 224745,
+      "word": "刘骏直播",
+      "onboard_time": 1754999004,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 224733,
@@ -3297,6 +3353,14 @@
       "onboard_time": 1754838683,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202153,
+      "num": 202153,
+      "word": "女子剖腹产3天晒陪护全睡着",
+      "onboard_time": 1755001824,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202097,
@@ -4075,14 +4139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179999,
-      "num": 179999,
-      "word": "肖战小学时期",
-      "onboard_time": 1754998283,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179535,
       "num": 179535,
       "word": "2026乒乓球亚洲杯时间确定",
@@ -4161,6 +4217,14 @@
       "onboard_time": 1754796801,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176979,
+      "num": 176979,
+      "word": "樊振东巴黎四分之一决赛含金量还在上升",
+      "onboard_time": 1755002185,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 176855,
@@ -4505,6 +4569,14 @@
       "onboard_time": 1754890281,
       "rank": 29,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 165834,
+      "num": 165834,
+      "word": "特朗普希望中国将大豆订单增加3倍",
+      "onboard_time": 1755000864,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165740,
@@ -4947,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153880,
+      "num": 153880,
+      "word": "女子被风水师骗936万元投湖自杀",
+      "onboard_time": 1755002123,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153635,
       "num": 153635,
       "word": "6个子女为给94岁母亲养老抢起来了",
@@ -5169,6 +5249,14 @@
       "onboard_time": 1754824702,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148658,
+      "num": 148658,
+      "word": "曾经喜欢在工作中吃掉同事的牧羊犬",
+      "onboard_time": 1755002785,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 148533,
@@ -5643,6 +5731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139688,
+      "num": 246423,
+      "word": "19岁遇害女大学生亲友发声",
+      "onboard_time": 1755002845,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139685,
       "num": 139685,
       "word": "维吾尔族人结婚竟然要2个月",
@@ -5697,6 +5793,14 @@
       "onboard_time": 1754817922,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138855,
+      "num": 138855,
+      "word": "WBG对战WE",
+      "onboard_time": 1755002606,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 138780,
@@ -6073,6 +6177,14 @@
       "onboard_time": 1754791879,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132914,
+      "num": 132914,
+      "word": "43岁香港男星杨尚斌去世",
+      "onboard_time": 1755001584,
+      "rank": 40,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 132906,
@@ -6579,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124919,
+      "num": 124919,
+      "word": "小米汽车回应提前支付尾款",
+      "onboard_time": 1755002965,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 124770,
       "num": 149664,
       "word": "银河酷娱与张芷溪疑似和解",
@@ -6785,6 +6905,14 @@
       "onboard_time": 1754993122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120418,
+      "num": 138893,
+      "word": "网红抗癌博主小浩的小迷妹离世",
+      "onboard_time": 1755002606,
+      "rank": 38,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 120231,
@@ -7203,12 +7331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114171,
+      "num": 114171,
+      "word": "王楚钦缺席WTT欧洲大满贯瑞典站",
+      "onboard_time": 1754999004,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "约基奇23分19篮板",
       "onboard_time": 1754792060,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114076,
+      "num": 110839,
+      "word": "对丞磊是美术生有了实感",
+      "onboard_time": 1755003146,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 114047,
@@ -7337,6 +7481,14 @@
       "onboard_time": 1754955320,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112475,
+      "num": 112475,
+      "word": "谁家恋综整上校园恋爱了",
+      "onboard_time": 1755001884,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 112466,
@@ -7745,6 +7897,14 @@
       "onboard_time": 1754837124,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 108035,
+      "num": 108035,
+      "word": "恒大被取消上市地位",
+      "onboard_time": 1755000144,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 107842,
@@ -9235,6 +9395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50995,
+      "num": 221697,
+      "word": "芭莎大片解码和平皮肤",
+      "onboard_time": 1755000445,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50983,
       "num": 137393,
       "word": "央视曝光假农业达人表演式带货圈钱",
@@ -9588,7 +9756,7 @@
     },
     {
       "raw_hot": 35705,
-      "num": 518956,
+      "num": 535569,
       "word": "一起相约成都世运会",
       "onboard_time": 1754818221,
       "rank": 7,
@@ -9625,6 +9793,14 @@
       "onboard_time": 1754803761,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34711,
+      "num": 219628,
+      "word": "胡兵官宣首个百张时尚面孔团",
+      "onboard_time": 1755000383,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 33791,
@@ -9777,6 +9953,14 @@
       "onboard_time": 1754853195,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26257,
+      "num": 216309,
+      "word": "GT新成员闪现保时捷中心",
+      "onboard_time": 1755000445,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 25867,
