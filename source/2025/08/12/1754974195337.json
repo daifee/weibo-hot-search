@@ -1,0 +1,410 @@
+{
+  "runTime": 1754974195337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287570,
+        "num": 1287570,
+        "word": "那英 内娱通讯录",
+        "onboard_time": 1754971762,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1024086,
+        "num": 1024086,
+        "word": "因涉嫌猥亵儿童被同监室男子打断肋骨",
+        "onboard_time": 1754968401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47953,
+        "num": 796637,
+        "word": "网警双管齐下治理直播乱象",
+        "onboard_time": 1754955500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712145,
+        "num": 712145,
+        "word": "iPhone17Pro最新外观曝光",
+        "onboard_time": 1754958862,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 704939,
+        "num": 704939,
+        "word": "赵露思称公司让按3比7赔钱",
+        "onboard_time": 1754971522,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577655,
+        "num": 577655,
+        "word": "C罗向乔治娜求婚成功",
+        "onboard_time": 1754954660,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615330,
+        "num": 576989,
+        "word": "尼坤胖成黄磊了",
+        "onboard_time": 1754965820,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567760,
+        "num": 567760,
+        "word": "不上班后才看清的真实现状",
+        "onboard_time": 1754970204,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301252,
+        "num": 557807,
+        "word": "中美再次暂停实施24%关税90天",
+        "onboard_time": 1754957781,
+        "rank": 8,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 293646,
+        "num": 554972,
+        "word": "小米门锁误识外卖员人脸开锁成功",
+        "onboard_time": 1754971463,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 975119,
+        "num": 554741,
+        "word": "赵露思根本没有开通朋友圈",
+        "onboard_time": 1754966242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554017,
+        "num": 554017,
+        "word": "林瀚晚晚婉拒再见爱人",
+        "onboard_time": 1754971882,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535795,
+        "num": 535795,
+        "word": "刘亦菲也会闯祸",
+        "onboard_time": 1754970863,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426018,
+        "num": 426018,
+        "word": "易烊千玺演唱会 谁抢到了",
+        "onboard_time": 1754969782,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 413999,
+        "num": 413999,
+        "word": "中国人开始提老祖宗了那你基本完了",
+        "onboard_time": 1754971403,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374822,
+        "num": 374822,
+        "word": "鸡蛋事件男子同意和妻子离婚",
+        "onboard_time": 1754961382,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341423,
+        "num": 341423,
+        "word": "苍山失联男孩夏令营清空社交账号",
+        "onboard_time": 1754968340,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337099,
+        "num": 337099,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286818,
+        "num": 286818,
+        "word": "打水仗感染食脑虫男童去世",
+        "onboard_time": 1754973144,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102044,
+        "num": 271542,
+        "word": "周深 黛玉骑鬼火",
+        "onboard_time": 1754973442,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330669,
+        "num": 270904,
+        "word": "霉霉新专辑TS12",
+        "onboard_time": 1754971162,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269601,
+        "num": 269601,
+        "word": "爱马仕继承人150亿美元股票不翼而飞",
+        "onboard_time": 1754968882,
+        "rank": 21,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 251158,
+        "num": 251158,
+        "word": "怀孕后才知道妈妈漏尿多年",
+        "onboard_time": 1754973203,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243827,
+        "num": 243827,
+        "word": "婚内强奸案今日开庭",
+        "onboard_time": 1754966542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230336,
+        "num": 230336,
+        "word": "王楚钦9冠孙颖莎12冠",
+        "onboard_time": 1754971102,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216412,
+        "num": 216412,
+        "word": "外卖员接神秘猪脚饭订单果断举报",
+        "onboard_time": 1754963660,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214016,
+        "num": 214016,
+        "word": "电影731揭开活体实验真相",
+        "onboard_time": 1754968161,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213964,
+        "num": 213964,
+        "word": "陈数 梦中情师",
+        "onboard_time": 1754972665,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213537,
+        "num": 213537,
+        "word": "发现朋友圈没有了生活痕迹",
+        "onboard_time": 1754968942,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211265,
+        "num": 211265,
+        "word": "同事称婚内强奸案双方恩爱和睦",
+        "onboard_time": 1754969482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201099,
+        "num": 201099,
+        "word": "战至巅峰官宣魔王挑战队",
+        "onboard_time": 1754973084,
+        "rank": 30,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 200632,
+        "num": 200632,
+        "word": "无畏契约",
+        "onboard_time": 1754973803,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196777,
+        "num": 196777,
+        "word": "时代少年团上海场 神图无望",
+        "onboard_time": 1754973562,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195425,
+        "num": 195425,
+        "word": "展轩 天空给山装了电风扇",
+        "onboard_time": 1754973504,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186565,
+        "num": 186565,
+        "word": "凡人修仙传",
+        "onboard_time": 1754973442,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173172,
+        "num": 173172,
+        "word": "周涛我不想努力了",
+        "onboard_time": 1754971882,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171758,
+        "num": 171758,
+        "word": "世运会",
+        "onboard_time": 1754973743,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169753,
+        "num": 169753,
+        "word": "iPhone17Pro长得像充电宝",
+        "onboard_time": 1754972784,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162091,
+        "num": 162091,
+        "word": "中科院博士青岛崂山开民宿年入400万",
+        "onboard_time": 1754969001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159537,
+        "num": 159537,
+        "word": "陈都灵浓妆风格",
+        "onboard_time": 1754973743,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158626,
+        "num": 158626,
+        "word": "年总决赛鸟巢舞美概念首曝",
+        "onboard_time": 1754974103,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211844,
+        "num": 156722,
+        "word": "沈阳警方通报车辆撞人事件",
+        "onboard_time": 1754959281,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154267,
+        "num": 154267,
+        "word": "台7岁女童火化前舌头咽喉不见了",
+        "onboard_time": 1754926522,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150011,
+        "num": 150011,
+        "word": "教培机构 贩卖焦虑",
+        "onboard_time": 1754972183,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145261,
+        "num": 145261,
+        "word": "女子闪婚后一个月遭三次家暴",
+        "onboard_time": 1754969782,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137158,
+        "num": 137158,
+        "word": "台风杨柳预计明日登陆我国",
+        "onboard_time": 1754964621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136942,
+        "num": 136942,
+        "word": "许凯田曦薇浴桶吻戏",
+        "onboard_time": 1754972423,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135673,
+        "num": 135673,
+        "word": "泰国发现一女尸被锁链锁住脖子",
+        "onboard_time": 1754922385,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132855,
+        "num": 132855,
+        "word": "因为一条路买了一套房",
+        "onboard_time": 1754969842,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127603,
+        "num": 127603,
+        "word": "当你有一个相差15岁的妹妹",
+        "onboard_time": 1754974103,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}
